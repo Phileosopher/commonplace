@@ -254,7 +254,6 @@ My Testimony/Story IV: Taking Action
 NotaGenius
 
 Design/UX
-Dumb Data: Dreams Summarized
 Dumb Data: Risk Management Checklist
 How to Design Something Perfectly
 Modern Health Problems
