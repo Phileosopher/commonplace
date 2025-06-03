@@ -27,8 +27,6 @@ So far, my first task is to simply migrate everything off those websites. That w
 
 - Making Habits Stick
 - What to Change
-- Adequate Data: Commonly Abused Substances
-- Adequate Data: Meaning Checklist
 - Self-Awareness
 - Defining Happiness
 - Fighting Unhappiness
@@ -41,8 +39,6 @@ So far, my first task is to simply migrate everything off those websites. That w
 - Adequate Data: Fun Ideas
 - Adequate Data: Trip-Planning Checklist
 - Alcohol Ideas
-- All About Tea
-- Coffee Facts
 - Enjoying Vacations & Trips
 - Throwing a Party
 - Defining Success
