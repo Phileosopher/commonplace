@@ -35,7 +35,6 @@ So far, my first task is to simply migrate everything off those websites. That w
 - How Creativity Works
 - Improving Memory
 - Having Fun
-- Adequate Data: Fun Food & Drinks
 - Adequate Data: Fun Ideas
 - Adequate Data: Trip-Planning Checklist
 - Alcohol Ideas
