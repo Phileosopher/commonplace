@@ -18,6 +18,14 @@ Segmented sleep (Biphasic):
 - Scientifically proven as the most natural cycle.
 - Total daily sleep time: 6–8 hours.
 
+Siesta sleep (Biphasic):
+
+- Popular in many European countries.
+  1. 13.5-15.5 hours awake, with a 20-90 minute nap in the middle of the day
+  2. 5-6 hours asleep
+- Works well when during hot summers.
+- Total daily sleep time: 5.5–7.5 hours.
+
 Triphasic:
 
 - One of the most natural patterns when transitioning from monophasic.

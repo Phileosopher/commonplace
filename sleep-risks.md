@@ -46,4 +46,4 @@ Psychological risks:
 - Problems with retaining, storing or retrieving information
 - Increased perception of pain
 - Behavior and thinking that closely resemble getting a concussion
-- Increased chance of [substance abuse](addiction-substances(data).md), specifically alcohol and caffeine
+- Increased chance of [substance abuse](addiction-substances.md), specifically alcohol and caffeine

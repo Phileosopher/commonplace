@@ -5,7 +5,7 @@
 
 We spend close to 1/3 of our lives sleeping.
 
-If someone isn’t getting enough sleep, improving sleep is the most dramatic lifestyle improvement.
+If someone isn’t getting enough sleep, improving sleep is *the* most dramatic lifestyle improvement.
 
 Staying well-rested has many, many benefits:
 
@@ -53,7 +53,7 @@ Stage 3:
 REM (rapid eye movement) sleep:
 
 - The eyes move quickly back and forth.
-- Typically, the stage where we experience [dreams](sleep-dreams(data).md).
+- Typically, the stage where we experience [dreams](sleep-dreams.md).
 - People waking during REM cycles will feel groggy and overly sleepy.
 
 Good sleep persists through a general pattern:
@@ -87,45 +87,11 @@ To completely reset your sleep cycle:
 
 ### Sleep schedules
 
-You have [many sensible sleep cycles](sleep-cycles(data).md) to choose from.
+You have [many sensible sleep cycles](sleep-cycles.md) to choose from.
 
 - The body doesn’t need *hours* of sleep, just sleep *cycles*.
 - Each sleep cycle without training lasts about 1.5–2 hours, and doesn’t need to be in order.
 - Depending on your lifestyle, changing your cycles can enhance your [creativity](mind-creativity.md) or [productivity](success-4_routine.md).
 - However, with any sleep cycle, there are still risks to [mental health](awareness.md) by staying up late.
 
-If your sleep schedule gets disrupted, you may have to find a way to [resist insomnia](sleep-insomnia(data).md).
-
-## Naps
-
-The older people get, the less time they require for naps.
-
-Healthy adults who don’t get enough sleep should take naps.
-
-10–20 minute naps:
-
-- Only engages in lighter sleep stages and is non-REM.
-- Ideal for a boost in alertness and energy, and very useful for [finding creative answers](mind-creativity.md) and [quick re-focusing](success-4_routine.md).
-
-According to NASA, the perfect nap should last 26 minutes:
-
-- Taking coffee right before a nap guarantees waking up 20–30 minutes later.
-- Half-hour naps may cause sleep inertia (a groggy feeling that feels like a hangover) for up to 30 minutes after waking up.
-
-60-minute naps:
-
-- Hour-long naps are best for [recalling facts, faces, and names](mind-memory.md).
-- An hour-long nap induces Stage 3 sleep.
-
-90-minute naps:
-
-- A full sleep cycle with all four stages that typically avoids sleep inertia.
-- Leads to improved [creativity](mind-creativity.md) and better procedural and emotional [memory](mind-memory.md).
-
-Sitting slightly upright prevents deep sleep.
-
-Depending on the sleep cycle, the ideal napping time is typically between 1 p.m. and 4 p.m.
-
-- Napping too late in the day or for over 20 minutes can interfere with sleep cycles.
-
-If you can’t nap, laughing for 15 minutes has the same psychological effects as getting 2 hours of sleep.
+If your sleep schedule gets disrupted, you may have to find a way to [resist insomnia](sleep-insomnia.md).
