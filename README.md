@@ -36,7 +36,6 @@ So far, my first task is to simply migrate everything off those websites. That w
 - Improving Memory
 - Having Fun
 - Adequate Data: Fun Ideas
-- Adequate Data: Trip-Planning Checklist
 - Alcohol Ideas
 - Enjoying Vacations & Trips
 - Throwing a Party
