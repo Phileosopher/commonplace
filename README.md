@@ -14,207 +14,15 @@ So far, my first task is to simply migrate everything off those websites. That w
 
 ## TODO
 
-### Portfolio Site
+### 0 GIS
 
-- ? My Favorite Stories
-- ? My Principles So Far
-- ? My Purpose
-- ? My Method
-- ? My Attributions
-- ? My Dropped Ideas
-
-### AdequateLife
-
-- Making Habits Stick
-- What to Change
-- Self-Awareness
-- Defining Happiness
-- Fighting Unhappiness
-- Maintaining Happiness
-- Basic Computer Skills
-- How Creativity Works
-- Improving Memory
-- Having Fun
-- Adequate Data: Fun Ideas
-- Alcohol Ideas
-- Enjoying Vacations & Trips
-- Throwing a Party
-- Defining Success
-- Attitude Adjustment
-- Making Realistic Goals
-- Optimizing Your Routine
-- Persevering
-- Staying Humble
-- Basic First Aid
-- Weight Management
-- Adequate Data: Basic Recipes
-- Adequate Data: Food Shelf Lives
-- Adequate Data: Food Substitutes
-- Adequate Data: Food Tricks
-- How to Cook
-- Adequate Data: Numerous Saving Tips
-- Adequate Data: Small Things Always Worth Buying
-- Why Money Management Matters
-- Everything About Debt
-- Budgeting & Goals
-- Wise Spending Concepts
-- Adequate Data: Small Social Rules
-- Why People Skills Matter
-- Making Yourself Presentable
-- Respecting People
-- Building Friendships
-- Conflicts
-- Dealing with Liars
-- How to Speak
-- How to Write
-- Dating
-- Life Partner Relationships
-- Pet Ownership
-- Weddings
-- Parenting Babies
-- Parenting Children
-- Parenting/Releasing Teenagers
-- Adequate Data: Moving Checklist
-- Decorations & Renovations
-- Getting Organized
-- Housekeeping
-- Deciding on College
-- Prolonged Unemployment
-- Preparing for the Search
-- Making Plans
-- Image Crafting
-- Job Hunting
-- Interviewing
-- Closing the Deal
-- Adequate Data: Disaster Checklist
-- Adequate Data: Specific Survival Situations
-- Overcoming Severe Hardship
-- Handling Death
-- WAD Overcoming Personal Hardships
-- WAD Overcoming Interpersonal Hardships
-- WAD Overcoming Society's Hardships
-- Surviving Nature
-- Defining Disasters
-- Short-Term Preparation
-- Long-Term Preparation: Moving
-- Long-Term Preparation: Staying
-- How to Start Looking at Autism (2nd edition)
-- How to Start Looking at Autistics (obsolete)
-- How to Stop Looking Autistic (2nd edition)
-
-### GainedInSite
-
-- Why?
-- Layers of Perception
-- Networks
-- Reality
-- Science
-- The Human Being
-- Philosodata: Religions’ Answers
-- Fear
-- Feelings
-- Inherent Trust
-- Quality
-- Safety
-- Trauma
-- Philosodata: Cognitive Biases and Fallacies
-- Certainty
-- Humor
-- Meaning
-- Purpose
-- Symbols
-- The Unknown
 - Philosodata: Stock Values
-- Addiction
-- Habits
-- Morality
-- Philosodata: Myths’ Phenomenologies
-- Gender
-- Image
-- Maturity
-- Stories
-- Values
-- Philosodata: Power Types
-- Identity
-- Language
-- Logic
-- Math
-- Power
-- Understanding
-- Philosodata: Abridged Philosophy Glossary
-- Philosodata: Bad Predictions
-- Decisions
-- Inner Conflicts
-- Personality
-- Creativity
-- Evil
-- How People Change
-- Imagination
-- Love
-- Philosophy’s Use
-- Philosodata: Thought Experiments & Paradoxes
-- Creations
-- Creations’ Results
-- The Good Life
-- Philosodata: Image Distortion Methods
-- Boundaries
-- Conversation
-- Friendship
-- Human Legacy
-- Influence
-- Justice
-- Pedagogy
-- Slavery
-- Cults
-- Culture
-- Family
-- Group Membership
-- Rules
-- Small-Group Leadership
-- Social Risk
-- Storytellers
-- Taboos
-- Philosodata: Political Systems
-- Large-Group Leadership
-- Social Trends
-- Technology
-- Conservative/Liberal
-- Large-Group Conflicts
-- Philosodata: Country-Sized Power
-- Philosodata: Historical Eras
-- Philosodata: Human Universals
-- Philosodata: Laws and Axioms
-- Philosodata: Modern Conveniences
 - Philosodata: Rule Methods
-- Philosodata: Sustainability Factors
-- Economics
-- Leftism
-- Social Classes
-- Specialization and Cities
-- The Perfect Society
-- What Got Us Here
-- Why Bad Systems Persist
 
-### TheoLogos
+### 0 TLS
 
-- Spiritual Data: Spiritual Terms
-- The Simple Gospel Message
-- To New Christians
-- Spiritual Data: Bible Patterns
-- Spiritual Data: Prophecies Jesus Fulfilled
-- Spiritual Data: Quotes
-- Spiritual Data: Adam to Jesus Chronology
-- Spiritual Data: God’s Contracts
-- Spiritual Data: Christian Philosophy
-- Spiritual Data: Sins
 - Non-Systematic Theology
-- On Gender Differences
 - The Bible
-- Who God Is
-- Who People Are
-- The Five Solae
-- TL;DR Christian History
-- Spiritual Data: New Christian Behaviors
 - Spiritual Data: What God Can Do
 - Spiritual Data: Rhyming Psalms
 - Spiritual Exercises
@@ -222,223 +30,493 @@ So far, my first task is to simply migrate everything off those websites. That w
 - Bible Study
 - Prayer
 - God’s Will
-- Spiritual Data: The Non-biblical History of Israel
 - Sincere Spirituality
-- Spiritual Gifts
-- Seeing How God Sees
 - Unnatural Law
 - Spiritual Data: How to Serve
 - Spiritual Data: Parachurch Organizations
 - Going to Church
-- Christians & Family
-- Evangelism
-- Spiritual Data: The Devil’s Tricks
-- Cults, Heresies & Disagreements
-- Persecution
-- Spiritual Warfare
-- Devotion & Chaos
-- On the West & Christianity
-- Christians & Intellectual Property
-- Spiritual Data: Failed Prophecies
-- Anatomy of 100 A.P. (anno perficio)
-- When Jesus Returns
 - Discipleship
-- Running a Ministry
 - Running a Worship-Based Church
 - Planting Worship-Based Churches
 - Sending Cross-Cultural Missionaries
-- My Testimony/Story I: Becoming a Christian
+
+### 0 TT
+
+- Geometry/Trigonometry: How Do Computers Work With Shapes?
+- Tech Esoterica: Code Snips
+- Making Languages: How Do You Make a Programming Language?
+- Technical Documentation: Why Write Stuff Down?
+- Calculus: How Do Computers Make Lines Into Numbers?
+- Tech Esoterica: RSS
+- Social Network: How Do People Use Websites Together?
+- Tech Esoterica: Keyboard Shortcuts – Web Browser
+- Goal-Setting: What Do You Want In CS?
+- Technical Interviewing: How Do You Ace a Technical Interview?
+- Non-Technical Interviewing: How Do You Prove You’re Good at Computers with Speaking?
+- Closing the Deal/Negotiating: How Do You Land the Job?
+- SEO: How Does Marketing Work on Computers?
+
+### 0 NAG
+
+- Security Summarized
+- How to Learn Another Language
+- How to Speak Publicly and Teach
+- Date and Time Summarized
+- Dumb Data: Flowers Summarized
+- How to Live in an RV
+- Dumb Data: Math Dictionary
+- Calculus
+- Middle Management
+
+### 1 ST
+
+- Omnibus Terms and Conditions
+
+### 1 AL
+
+- Surviving Nature
+- Pet Ownership
+- Making Plans (jobs)
+- Adequate Data: Food Shelf Lives
+- Adequate Data: Food Substitutes
+- Adequate Data: Specific Survival Situations
+- Deciding on College
+- Closing the Deal
+- How to Write
+- Adequate Data: Basic Recipes
+- Adequate Data: Food Tricks
+- Adequate Data: Small Social Rules
+- Handling Death
+- Basic First Aid
+- Throwing a Party
+- Parenting Babies
+- Interviewing
+- Image Crafting
+- Staying Humble
+- Making Realistic Goals
+- Adequate Data: Small Things Always Worth Buying
+- Short-Term Preparation
+- What to Change
+- Parenting/Releasing Teenagers
+- Weddings
+- Dealing with Liars
+
+### 1 GIS
+
+- The Unknown
+- Group Membership
+- Philosodata: Historical Eras
+- Philosodata: Political Systems
+- Philosodata: Myths’ Phenomenologies
+- Philosodata: Sustainability Factors
+- Philosodata: Modern Conveniences
+- Family
+- Slavery
+- Influence
+- Creations
+- Philosophy’s Use
+- Addiction
+- Quality
+- Safety
+- Networks
+- Philosodata: Country-Sized Power
+- Small-Group Leadership
+- Values
+- Habits
+- Certainty
+- What Got Us Here
+- Philosodata: Power Types
+- Leftism
+- Human Legacy
+- Storytellers
+- Conversation
+- Creations’ Results
+- Identity
+- Language
+- Logic
+- Fear
+- Science
+- Pedagogy
+- Philosodata: Bad Predictions
+- Technology
+- Conservative/Liberal
+- Rules
+- Large-Group Leadership
+- Justice
+- Boundaries
+- Imagination
+- Love
+- Math
+- Maturity
+- Symbols
+
+### 1 TLS
+
+- Spiritual Data: God’s Contracts
+- Spiritual Data: Bible Patterns
+- Seeing How God Sees
+- Devotion & Chaos
+- Persecution
+- Who People Are
+- % Bible Commentaries
+- Spiritual Data: Spiritual Terms
+- Spiritual Data: Adam to Jesus Chronology
+- Spiritual Data: New Christian Behaviors
+- Spiritual Data: Quotes
+- On Gender Differences
+- On the West & Christianity
+- Spiritual Gifts
+- Christians & Family
+- Spiritual Data: Sins
+- Spiritual Data: The Non-biblical History of Israel
+- To New Christians
+- % Chosen vs Bible
+- TL;DR Christian History
+- Who God Is
+- Running a Ministry
+- Spiritual Warfare
+- Evangelism
+
+### 1 TT
+
+- Data Visualizations: How Can People Understand Data?
+- Browser: How Does the Internet Show Stuff?
+- Motherboard: How Do Parts Fit Together?
+- Tech Esoterica: Markdown
+- Tech Esoterica: Networking
+- Autonomous Vehicles: How Can Cars Self-Drive?
+- Understand Primitives
+- Malware: How Can Software Be Malicious?
+- P2P: How Do Illegal Things STILL Get Downloaded?
+- Protocols/Standards: How Do Computers Talk to Each Other?
+- Windows: How Does Windows Work?
+- Graphics: How Do You Get Computers to Draw Things?
+- Algebra: How Do Computers Make Numbers Into Lines?
+- Raspberry Pi/Arduino: What Can Cheap Computers Do?
+- Speakers/Microphone: How Does a Computer Receive and Send Sound?
+- Handwriting/OCR: How Does a Computer See Words?
+- Programming Habits: What Separates Code Monkeys From 1337 C0dRz?
+- OSINT: How Do You Find Out Information With Computers?
+- Biological Computers: Is Life a Computer?
+- Robotics: How Do Robots Do Things?
+- Geeky Jokes
+- Tech Esoterica: Tech Glossary
+- Practical Insanity
+- CS Management: What Do Senior Software Engineers Do?
+- Image-Crafting: How Does a CS Resume Look?
+- When to Quit: How Do You Know Your Job Sucks?
+- Network Security/PenTesting: How Do Hackers Get Into Stuff?
+- Compilers: How Do You Get Computers To Switch Languages?
+- Data: What is Data?
+- Web Development: How Does the Internet Work?
+- Consoles/Terminals: Why Do Some Computers Only Show Text?
+- Statistics/Probability: How Do Computers Work With Chances and Lots of Numbers?
+- Functions: What Exactly is a Function?
+- Version Control: How Do Programmers Keep Track of Stuff?
+- Programming Languages, Anecdotally
+- 3D Printer: How Does a Computer Make Things in 3D?
+- Printer: How Does a Computer Make Paper Images & Words?
+- Camera: How Does a Computer “See”?
+- Operating Systems: What's An OS?
+- How to Be Fast with Computers
+- CS Entrepreneurship: How Do Tech Entrepreneurs Start Businesses?
+- Tech Esoterica
+- Quantum Computers: How Can Atoms Make Logic?
+- Machine Learning: How Can Computers Learn?
+- GPS: How Do Computers Know Where You Are?
+- Blockchain: So What’s Bitcoin, Anyway?
+- Distributed Systems/Supercomputers: How Can Computers Share Stuff?
+- TL;DR Cybersecurity: How Do I Stay COMPLETELY Safe with Computers?
+- Code Basics: How Do Coders Code?
+- Boolean Math: How Do You Logic Math?
+- Memory: How Does a Computer Remember Stuff?
+- Tech Trends Suck
+- Tech Esoterica: CLI
+- Compliance/Operations: How Do You Make Rules to Protect Organization Computers?
+- Access Control/Authentication: How Do You Know Who to Trust?
+- Social Engineering: How Do People Trick Other People About Computers?
+- Hacking: What's Hacking?
+- Cloud Services: So Where’s The Cloud, Anyway?
+- Windows vs. Unix-Likes: What’s The Difference?
+- IDE: What Do Programmers Use To Make Programs?
+- Mouse: How Does a Computer Understand a Wiggling Hand?
+- Algorithms: How Do Computers Manage Information?
+- How to Fix Technology
+- Tech Esoterica: Straightforward Hacks
+- Cryptography/Encryption: How Do You Encode Computer Information?
+- Database: How Do Computers Hold Lots of Data?
+- Booting: How Does a Computer Start?
+- Software Design: How Do You Think Out Programs?
+- Software Redesign: Why Does Making Programs Take So Much Rework?
+- Software Maintenance: How Do Programmers Maintain Programs?
+- Computer Math: What Math Do Computers Use?
+- Why?
+
+### 1 NAG
+
+- What Defines Art
+- Shakespeare’s Plays
+- Exit Strategy
+- Game Theory
+- Geometry/Trigonometry
+- Dumb Data: Kitchen Utensils Summarized
+- Technical Documentation Summarized
+- % Freedom’s Founding Documents
+- Freelancing
+- Gardening Summarized
+- Dumb Data: Accounting/Investing Dictionary
+- Scaling & Financing
+- Maximizing Productivity
+- Not-for-Profit Management
+- Customer Service Summarized
+- Changes, Scaling & Shrinking
+- Maintaining Morale
+- Communication
+- Project Status & Cycles
+- Hiring & Firing Teams
+- Creating Projects
+- Dumb Data: Math Symbols
+- How to Design Something Perfectly
+- Statistics
+- A Business Plan
+- Business Summarized
+- Defining Math
+- How to Homestead
+- Dumb Data: Sports Summarized
+- Intellectual Property Summarized
+
+### 2 TLS
+
+- The Simple Gospel Message
+- When Jesus Returns
 - My Testimony/Story II: Finding a Church
 - My Testimony/Story III: Finding Answers
 - My Testimony/Story IV: Taking Action
 
-### NotaGenius
+### 2 ST
 
-- Design/UX
-- Dumb Data: Risk Management Checklist
-- How to Design Something Perfectly
-- Modern Health Problems
-- How to Hire Professionals
+- ? My Attributions
+- ? User Manual
+- ? Past Predictions
+
+### 2 AL
+
+- Long-Term Preparation: Staying
+- Prolonged Unemployment
+- Alcohol Ideas
+- How to Cook
+- Job Hunting
+- Adequate Data: Numerous Saving Tips
+- Wise Spending Concepts
+- WAD Overcoming Personal Hardships
+- WAD Overcoming Society's Hardships
+- Long-Term Preparation: Moving
+- Why People Skills Matter
+- Why Money Management Matters
+- Persevering
+- WAD Overcoming Interpersonal Hardships
+- Adequate Data: Disaster Checklist
+- How Creativity Works
+- Defining Disasters
+- Basic Computer Skills
+- Building Friendships
+- Respecting People
+- Maintaining Happiness
+- Having Fun
+- Life Partner Relationships
+- Parenting Children
+- Housekeeping
+- Conflicts
+- Optimizing Your Routine
+- Attitude Adjustment
+- Getting Organized
+
+### 2 GIS
+
+- Why?
+- Personality
+- Meaning
+- Evil
+- Inner Conflicts
+- How People Change
+- Power
+- Economics
+- Philosodata: Image Distortion Methods
+- Culture
+- The Good Life
+- Friendship
+- Humor
+- Feelings
+- Gender
+- The Human Being
+- Philosodata: Abridged Philosophy Glossary
+- Why Bad Systems Persist
+- Decisions
+- Image
+- Philosodata: Religions’ Answers
+- Cults
+- Social Risk
+- Taboos
+- Purpose
+- Reality
+- Social Classes
+- Creativity
+
+### 2 TT
+
+- Tech Esoterica: Keyboard Shortcuts
+- FAANG: What's Up with Big Tech?
+- Gleaned Axioms
+- Artificial Intelligence: How Can Computers Seem Human?
+- Virtualization/Emulation: How Can You Make Computers Seem Like More Computers?
+- Networks: How Do Computers Connect With Each Other?
+- Unix-Likes: How Does GNU/Linux Work?
+- VR/AR: How Do VR Headsets Work?
+- Data/App/Host Security: How Do You Protect Computers?
+- Code Features: Why Are Some Languages Special?
+- Not Understanding Is Good
+- Screen: How Does a Computer Show Images & Words?
+- Programming Summarized: What Makes a Computer Do Things?
+- Data Structures/Architecture: How Do You Store Lots Of Data?
+- Logic Gates/ALU: What Makes Computers Compute?
+- Enterprise Systems: How Do You Use Big Computers?
+- Hardware: What Parts Does A Computer Need?
+
+### 2 NAG
+
+- Defining Management
+- A Business Idea
 - How to Homeschool
-- The Technical Idiot
-- Security Summarized
-- Non-Religious Marriage Contract
-- How to Learn Another Language
-- How to Speak Publicly and Teach
-- How to Sort Through Information
-- Modern Requirements
-- Navigating Bureaucracy
-- What Got America Here
-- Date and Time Summarized
-- Dumb Data: Sports Summarized
-- Dumb Data: Flowers Summarized
-- Dumb Data: Kitchen Utensils Summarized
-- How to Live in an RV
-- How to Homestead
-- How to Own a House
-- How to Own Automobiles
-- What Defines Art
-- Dumb Data: How to Predict Weather
-- Gardening Summarized
-- How to Raise Livestock
-- Science Summarized
-- Engineering Summarized
-- How to Fix Things
-- Technical Documentation Summarized
-- The Machine Gods
-- Dumb Data: Math Dictionary
-- Dumb Data: Math Symbols
-- Defining Math
-- Arithmetic & Algebra
-- Geometry/Trigonometry
-- Statistics
-- Calculus
-- Game Theory
-- Dumb Data: Legal Dictionary
-- Dumb Data: Legal Doctrines & Principles
-- How to Stay Legally Safe
-- Intellectual Property Summarized
-- Insurance Summarized
-- Freedom’s Founding Documents
-- Business Contracts Summarized
-- Business Summarized
-- Customer Service Summarized
 - Logistics Summarized
-- Marketing Summarized
+- Dumb Data: Legal Dictionary
+- Science Summarized
+- Arithmetic & Algebra
+- Investing Summarized
+- The Machine Gods
+- Non-Religious Marriage Contract
+- Defining Entrepreneurship
+- How to Hire Professionals
 - MLM (Multi-Level Marketing)
 - Accounting Summarized
-- Dumb Data: Accounting/Investing Dictionary
-- Investing Summarized
-- Defining Entrepreneurship
-- A Business Idea
-- A Business Plan
-- Freelancing
-- Maximizing Productivity
-- Scaling & Financing
-- Exit Strategy
-- Defining Management
-- Creating Projects
-- Hiring & Firing Teams
-- Project Status & Cycles
-- Communication
-- Maintaining Morale
-- Changes, Scaling & Shrinking
-- Middle Management
-- Not-for-Profit Management
-- Shakespeare’s Plays
+- Engineering Summarized
+- Dumb Data: Risk Management Checklist
+- Dumb Data: How to Predict Weather
 
-### TrendlessTech
+### 3 ST
 
-- Tech Esoterica: Tech Glossary
-- Why?
-- Gleaned Axioms
-- How to Be Fast with Computers
-- How to Fix Technology
-- Not Understanding Is Good
-- Tech Trends Suck
-- Understand Primitives
-- Assembly Code: What’s the Closest Way to How Computers Think?
-- Biological Computers: Is Life a Computer?
-- Motherboard: How Do Parts Fit Together?
-- Quantum Computers: How Can Atoms Make Logic?
-- Raspberry Pi/Arduino: What Can Cheap Computers Do?
-- Hardware: What Parts Does A Computer Need?
-- Logic Gates/ALU: What Makes Computers Compute?
-- Memory: How Does a Computer Remember Stuff?
-- CPU: How Does a Computer Work Through Code?
-- Tech Esoterica: Code Snips
-- Programming Languages, Anecdotally
-- Tech Esoterica: Markdown
-- Programming Summarized: What Makes a Computer Do Things?
-- Code Basics: How Do Coders Code?
-- Code Features: Why Are Some Languages Special?
-- Software Design: How Do You Think Out Programs?
-- Software Redesign: Why Does Making Programs Take So Much Rework?
-- Version Control: How Do Programmers Keep Track of Stuff?
-- Software Maintenance: How Do Programmers Maintain Programs?
-- IDE: What Do Programmers Use To Make Programs?
-- Artificial Intelligence: How Can Computers Seem Human?
-- Compilers: How Do You Get Computers To Switch Languages?
-- Games: How Do People Make Games?
-- Graphics: How Do You Get Computers to Draw Things?
-- Machine Learning: How Can Computers Learn?
-- Making Languages: How Do You Make a Programming Language?
-- Programming Habits: What Separates Code Monkeys From 1337 C0dRz?
-- Technical Documentation: Why Write Stuff Down?
-- Computer Math: What Math Do Computers Use?
-- Boolean Math: How Do You Logic Math?
-- Algebra: How Do Computers Make Numbers Into Lines?
-- Functions: What Exactly is a Function?
-- Geometry/Trigonometry: How Do Computers Work With Shapes?
-- Statistics/Probability: How Do Computers Work With Chances and Lots of Numbers?
-- Calculus: How Do Computers Make Lines Into Numbers?
-- Data: What is Data?
-- Algorithms: How Do Computers Manage Information?
-- Data Structures/Architecture: How Do You Store Lots Of Data?
-- Database: How Do Computers Hold Lots of Data?
-- Data Visualizations: How Can People Understand Data?
-- Tech Esoterica: CLI
-- Operating Systems: What's An OS?
-- Booting: How Does a Computer Start?
-- Files/Programs: What are Computer Files/Programs?
-- UX/UI: How Do People Make Computers Usable?
-- Consoles/Terminals: Why Do Some Computers Only Show Text?
-- Unix-Likes: How Does GNU/Linux Work?
-- Windows vs. Unix-Likes: What’s The Difference?
-- Windows: How Does Windows Work?
-- Tech Esoterica: Networking
-- Tech Esoterica: RSS
-- Networks: How Do Computers Connect With Each Other?
-- Protocols/Standards: How Do Computers Talk to Each Other?
-- Web Development: How Does the Internet Work?
-- Browser: How Does the Internet Show Stuff?
-- Social Network: How Do People Use Websites Together?
-- Blockchain: So What’s Bitcoin, Anyway?
-- P2P: How Do Illegal Things STILL Get Downloaded?
-- Distributed Systems/Supercomputers: How Can Computers Share Stuff?
-- Virtualization/Emulation: How Can You Make Computers Seem Like More Computers?
-- Cloud Services: So Where’s The Cloud, Anyway?
-- Enterprise Systems: How Do You Use Big Computers?
-- Camera: How Does a Computer “See”?
-- Handwriting/OCR: How Does a Computer See Words?
-- Keyboard: How Does a Computer Understand What I Type?
-- Mouse: How Does a Computer Understand a Wiggling Hand?
-- 3D Printer: How Does a Computer Make Things in 3D?
-- Printer: How Does a Computer Make Paper Images & Words?
-- Screen: How Does a Computer Show Images & Words?
-- Autonomous Vehicles: How Can Cars Self-Drive?
-- GPS: How Do Computers Know Where You Are?
-- Radio: How Do We Send Information Through the Air?
-- Robotics: How Do Robots Do Things?
-- Speakers/Microphone: How Does a Computer Receive and Send Sound?
-- VR/AR: How Do VR Headsets Work?
-- Tech Esoterica: Straightforward Hacks
-- Hacking: What's Hacking?
-- OSINT: How Do You Find Out Information With Computers?
-- TL;DR Cybersecurity: How Do I Stay COMPLETELY Safe with Computers?
-- Data/App/Host Security: How Do You Protect Computers?
-- Malware: How Can Software Be Malicious?
-- Social Engineering: How Do People Trick Other People About Computers?
-- Network Security/PenTesting: How Do Hackers Get Into Stuff?
-- Access Control/Authentication: How Do You Know Who to Trust?
-- Cryptography/Encryption: How Do You Encode Computer Information?
-- Compliance/Operations: How Do You Make Rules to Protect Organization Computers?
-- Tech Esoterica
-- Tech Esoterica: Keyboard Shortcuts
+- ? My Favorite Stories
+- ? My Principles So Far
+- ? Felony
+
+### 3 AL
+
+- Enjoying Vacations & Trips
+- Dating
+- Decorations & Renovations
+- Making Yourself Presentable
+- Fighting Unhappiness
+- Budgeting & Goals
+- Self-Awareness
+- Improving Memory
+- Adequate Data: Fun Ideas
+- Everything About Debt
+- How to Speak
+- Overcoming Severe Hardship
+- Defining Success
+- Preparing for the Search
+
+### 3 GIS
+
+- Stories
+- Philosodata: Cognitive Biases and Fallacies
+- Philosodata: Laws and Axioms
+- The Perfect Society
+- Understanding
+- Morality
+- Large-Group Conflicts
+- Specialization and Cities
+- Trauma
+- Inherent Trust
+- Social Trends
+
+### 3 TLS
+
+- My Testimony/Story I: Becoming a Christian
+- Christians & Intellectual Property
+- Spiritual Data: The Devil’s Tricks
+- Spiritual Data: Christian Philosophy
+
+### 3 TT
+
 - Tech Esoterica: Keyboard Shortcuts – Office Suites
-- Tech Esoterica: Keyboard Shortcuts – Web Browser
-- FLOSS Software: How Do You Give Away Software?
-- Geeky Jokes
-- Practical Insanity
-- FAANG: What's Up with Big Tech?
-- FAANG: How to Fight Back
-- When to Quit: How Do You Know Your Job Sucks?
-- Goal-Setting: What Do You Want In CS?
-- Image-Crafting: How Does a CS Resume Look?
 - Job-Hunting/Training/Researching: How Do Tech People Job-Search?
-- Technical Interviewing: How Do You Ace a Technical Interview?
-- Non-Technical Interviewing: How Do You Prove You’re Good at Computers with Speaking?
-- Closing the Deal/Negotiating: How Do You Land the Job?
-- CS Entrepreneurship: How Do Tech Entrepreneurs Start Businesses?
-- CS Management: What Do Senior Software Engineers Do?
-- SEO: How Does Marketing Work on Computers?
+- Assembly Code: What’s the Closest Way to How Computers Think?
+- FLOSS Software: How Do You Give Away Software?
+- Files/Programs: What are Computer Files/Programs?
+- FAANG: How to Fight Back
+- Games: How Do People Make Games?
+- CPU: How Does a Computer Work Through Code?
+- Radio: How Do We Send Information Through the Air?
+- UX/UI: How Do People Make Computers Usable?
+
+### 3 NAG
+
+- How to Raise Livestock
+- Design/UX
+- Business Contracts Summarized
+- How to Own Automobiles
+- Marketing Summarized
+- How to Fix Things
+- Modern Requirements
+- Modern Health Problems
+- What Got America Here
+- Insurance Summarized
+- Navigating Bureaucracy
+- How to Stay Legally Safe
+- How to Sort Through Information
+
+### 4 ST
+
+- ? My Dropped Ideas
+- ? Resume
+- ? About
+- ? Creations
+- ? Now
+- ? My Purpose
+- ? My Method
+
+### 4 AL
+
+- Making Habits Stick
+- Defining Happiness
+- Weight Management
+
+### 4 GIS
+
+- Philosodata: Thought Experiments & Paradoxes
+- Philosodata: Human Universals
+- Layers of Perception
+
+### 4 TLS
+
+- Spiritual Data: Prophecies Jesus Fulfilled
+- The Five Solae
+- Cults, Heresies & Disagreements
+- Spiritual Data: Failed Prophecies
+- Anatomy of 100 A.P. (anno perficio)
+
+### 4 TT
+
+- Keyboard: How Does a Computer Understand What I Type?
+
+### 4 NAG
+
+- The Technical Idiot
+- Dumb Data: Legal Doctrines & Principles
+- How to Own a House
+
+### OTHER AL
+
+- How to Start Looking at Autism (2nd edition)
+- How to Start Looking at Autistics (obsolete)
+- How to Stop Looking Autistic (2nd edition)
