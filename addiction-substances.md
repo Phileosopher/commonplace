@@ -119,7 +119,7 @@ Other drugs
 - [Talking](people-speaking.md)
 - Work
   - [Career development](jobs-2_goals.md)
-  - [Computer use](computer.md)
+  - [Computer use](computers.md)
   - [Cooking](cooking.md)
   - Physical labor
   - [Cleaning](home-housekeeping.md)
