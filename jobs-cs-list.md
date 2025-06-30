@@ -96,6 +96,6 @@ Severe [math](math.md) roles (for geeks who *like* math):
   - **Technical Lead** directs a group of developers.
 - **[Department] Manager** runs a specific department of employees.
   - **IT Project Manager** guides employees through IT projects.
-- **[System] Project Manager** uses [that system's](mgmt-devcycles.md) methodology.
+- **[System] Project Manager** uses [that system's](mgmt-2_projects-cs.md) methodology.
 - **Technical Recruiter** tries to get qualified people in front of the [role] managers.
   - **Developer Evangelist** is a recruiter for a specific company.

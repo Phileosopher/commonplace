@@ -139,7 +139,7 @@ Finally, take *any* offer you get. You can reconsider your career again in 6 mon
 
 One myth that needs debunking: [AI](computers-ai.md) will *not* replace the software developer. It may make the programmer's life easier, but [the original aspects of human creativity](mind-creativity.md) are impossible to replicate with machine learning.
 
-Of course, you can always try what 1/4 of the people who learn to code do and [freelance](freelancing.md) or build a [startup](entrepreneur-2_idea.md) to carve a path into the industry. If you're not sure if that's for you, try *working* at a startup to learn about it.
+Of course, you can always try what 1/4 of the people who learn to code do and [freelance](entrepeneur-4_freelancing.md) or build a [startup](entrepreneur-2_idea.md) to carve a path into the industry. If you're not sure if that's for you, try *working* at a startup to learn about it.
 
 ## Mentoring
 
@@ -203,7 +203,7 @@ Thankfully, your experience isn't useless. One soft skill that only comes throug
 3. Non-people-focused and team-based: R&D, Security Analyst, Data Science
 4. Non-people-focused and independent: QA Engineer, No-Code Developer, Sysadmin
 
-In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](contracts.md), [expertly handling conflicts](people-conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-cs.md).
+In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](contracts.md), [expertly handling conflicts](people-conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-1_why.md).
 
 If you prefer, aim for part-time work [during the negotiation](jobs-6_negotiating.md), which you can usually do if the work is trivial enough for you to do it easily. Very often, you can get paid a bit less, but with more freedom to do what you want (which you're *not* getting paid for).
 
