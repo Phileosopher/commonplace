@@ -58,7 +58,7 @@ The beauty of the industry is that things move fast, so nobody bats an eye at sh
 
 Most contracts run on an even number of months, so if you must quit, make sure it's an even number of months (e.g., if it's late June and you started in April, try to hold on until early July).
 
-Of course, it might be possible you're battling a general dissatisfaction bleeding into your work environment. It's not uncommon for technically gifted people to be so intelligent that they don't work on other components of themselves such as finding [satisfaction in life](happiness-1_why.md), [getting along with others](people-4_friends.md), or [finding meaning](meaning.md).
+Of course, it might be possible you're battling a general dissatisfaction bleeding into your work environment. It's not uncommon for technically gifted people to be so intelligent that they don't work on other components of themselves such as finding [satisfaction in life](happiness.md), [getting along with others](people-4_friends.md), or [finding meaning](meaning.md).
 
 However, some companies are *so* bad that they'll actually fail to contact you *after* getting a job offer. In many ways, [you dodged a bullet](jobs-suck-cs.md).
 

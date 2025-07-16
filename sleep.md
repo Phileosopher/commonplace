@@ -12,7 +12,7 @@ Staying well-rested has many, many benefits:
 - Physically [healthier](body-4_health.md)
 - More [attractive](people-2_image.md)
 - Better [memory](mind-memory.md)
-- Generally [happier](happiness-1_why.md)
+- Generally [happier](happiness.md)
 - More energy
 - [Family and friends](people-4_friends.md) are happier because all the above makes you a generally better person to be around
 
