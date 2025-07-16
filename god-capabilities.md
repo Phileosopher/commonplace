@@ -57,6 +57,8 @@ Killed Egyptian citizens' cattle while preserving Israel's cattle ([Exodus 9:2-7
 
 Sent poisonous snakes against Israel ([Numbers 21:4-6](https://biblehub.com/numbers/21.htm)).
 
+Make people imagine flowing water is like blood ([2 Kings 3:20-24](https://biblehub.com/2_kings/3.htm))
+
 ### Medical
 
 Egypt afflicted with boils ([Exodus 9:8-11](https://biblehub.com/exodus/9.htm)).
