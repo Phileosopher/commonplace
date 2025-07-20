@@ -11,7 +11,7 @@ However, the tech world cares *much* more than most other industries about long-
 
 There are [a very large range of roles to choose from](jobs-cs-list.md).
 
-You might want to crawl into an unimportant role somewhere to pursue [what you *really* want to do](happiness-3_maintaining.md). The ideal place for this is with [dysfunctional companies](jobs-suck-cs.md):
+You might want to crawl into an unimportant role somewhere to pursue [what you *really* want to do](success-1_why.md). The ideal place for this is with [dysfunctional companies](jobs-suck-cs.md):
 
 - Their company website isn't very [well-designed](design-uxui.md).
 - The company is vague about what they do or the value they add to anyone.
@@ -177,7 +177,7 @@ And, naturally, remote work has downsides:
 - A spotty [internet connection](computers-webdev.md) can *destroy* productivity.
 - It's *much* easier to procrastinate and not get projects done on time.
 - When you have high-maintenance family and friends (e.g., [babies](people-parenting-1_babies.md) or [children](people-parenting-2_children.md)), it's harder to stay focused.
-- You'll have a harder time [making connections](people-4_friends.md) with your coworkers, which may deteriorate your [quality of life](happiness-2_recovering.md) if you're not proactively finding connections elsewhere.
+- You'll have a harder time [making connections](people-4_friends.md) with your coworkers, which may deteriorate your [quality of life](happiness-focus.md) if you're not proactively finding connections elsewhere.
 - Communicating with teammates is more about everyone maintaining high-quality [writing](people-writing.md) than [speaking](people-speaking.md), and much harder as a result.
 
 In other words, search for remote if you want more freedom, but look for in-person if you prefer a sharp segregation between work and personal life.

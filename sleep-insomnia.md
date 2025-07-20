@@ -1,7 +1,7 @@
 
 # Insomnia cures
 
-[Stressful situations](happiness-2_recovering.md) are the most frequent cause of not being able to sleep.
+[Stressful situations](happiness-stress.md) are the most frequent cause of not being able to sleep.
 
 - Usually, if you can’t sleep, your day probably didn’t have enough [work](success-4_routine.md), [learning](mind-memory.md), or [meaningful interactions](people-conversation.md).
 - Assuming you're not overly stressed, working hard to the point of exhaustion typically resolves most insomnia.

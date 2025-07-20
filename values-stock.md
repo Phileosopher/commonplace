@@ -155,7 +155,7 @@ The [Natural World](reality.md):
 - You should always agree with your friends.
 - Having enemies is good for us.
 - Treat others with acceptance and tolerance.
-- You should [forgive](happiness-2_recovering.md) people who hurt you.
+- You should [forgive](ptsd.md) people who hurt you.
 - Never forget what people who wronged you have done.
 
 [Technology](technology.md):

@@ -141,7 +141,7 @@ We must define inequality.
 
 This entire discussion of inequality also has time-sensitive implications. Is the child of an oppressor responsible for the oppressor's actions? It's safe to say that the majority of crimes against humanity have happened by long-dead people, so how do we reconcile this?
 
-The first thing, before anything else, is partial forgiveness by the injured against their persecutors, specifically as [release](happiness-2_recovering.md). Then, when the unjustly treated can speak [reasonably](logic.md) about their [suffering](ptsd.md) and the people who may lose from the dialogue can [have compassion](people-relationships-love.md) on the victims enough to sacrifice for them, then and *only then* everyone can [fairly](morality-justice.md) discuss terms.
+The first thing, before anything else, is partial forgiveness by the injured against their persecutors, specifically as [release](ptsd.md). Then, when the unjustly treated can speak [reasonably](logic.md) about their [suffering](hardship.md) and the people who may lose from the dialogue can [have compassion](people-relationships-love.md) on the victims enough to sacrifice for them, then and *only then* everyone can [fairly](morality-justice.md) discuss terms.
 
 A nation is made of its citizens, and individual differences create individual inequalities. Entire nations become unequal because of differences between those nations.
 
