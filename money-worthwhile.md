@@ -9,8 +9,6 @@ Electric blanket (if you often get cold)
 
 High-quality shoes
 
-Any high-quality tool you use more than once a month
-
 Personal massager, electric if you prefer
 
 ## Kitchen
@@ -53,11 +51,19 @@ Extra storage containers
 
 ## Office
 
+Office chair
+
 A flatbed scanner for paperwork
 
 Posture-adjusting seat cushion (if you work while sitting for long periods)
 
 Standing desk (if you work at a desk)
+
+## Projects
+
+Any high-quality tool you use more than once a month
+
+Paint, unless it's for children's crafts
 
 ## Auto
 
