@@ -228,7 +228,7 @@ Seek advice:
 
 - Ask your [significant other](/relationships/).
 - Talk with your [friends](/people-3/).
-- [Pray](christian-prayer.md) on the decision.
+- [Pray](god-prayer.md) on the decision.
 
 Research what the marketplace looks like:
 

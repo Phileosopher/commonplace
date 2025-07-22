@@ -460,7 +460,7 @@ Remote control hacks:
 - Point your remote control at a transparent glass or bowl of water to increase its range.
 - Put masking tape over a remote control's unused buttons to get rid of distractions.
 
-Learn [simple math tricks](algebra.md) to speed up calculations in your head.
+Learn [simple math tricks](math-tricks.md) to speed up calculations in your head.
 
 Unconventional tool tricks:
 

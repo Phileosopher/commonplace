@@ -926,7 +926,7 @@ Download the iOS Free App of the Week to get it for free, even if you don't plan
 
 Adopt your cats and dogs from shelters instead of paying a retail store or mill.
 
-[Understand your pet](pets.md) to save veterinary bills on easily fixable animal problems.
+[Understand your pet](fun-pets.md) to save veterinary bills on easily fixable animal problems.
 
 Learn animal biology to understand what they must eat:
 

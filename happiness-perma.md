@@ -97,7 +97,7 @@ Spend time with happy people
 
 Encourage someone
 
-Enjoy your [pet](pets.md)
+Enjoy your [pet](fun-pets.md)
 
 Have fun with some [friends](people-4_friends.md)
 

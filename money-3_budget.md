@@ -350,7 +350,7 @@ Personal care (~5-10% of income):
 - Cosmetics
 - Haircuts and salon services
 
-[Pet](pets.md) expenses:
+[Pet](fun-pets.md) expenses:
 
 - Toys/supplies
 - Food/treats

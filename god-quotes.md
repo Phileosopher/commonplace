@@ -1,5 +1,5 @@
 
-# Quotes about God
+# Quotes about God's existence
 
 This is a small sample of secular [influencers](power-influence.md) with Christian ideals. There are [many more](https://en.wikipedia.org/wiki/List_of_Christians_in_science_and_technology).
 

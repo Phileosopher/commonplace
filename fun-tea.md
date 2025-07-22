@@ -1,5 +1,5 @@
 
-# Tea
+# Enjoying tea
 
 Tea should always taste excellent, and will only taste disgusting for several possible reasons:
 

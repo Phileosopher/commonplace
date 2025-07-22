@@ -14,9 +14,9 @@ The organizations may die, but the [specializations](jobs-specialization.md) wil
 This is not an exhaustive list, since I aim for quality over quantity and [other places have more exhaustive lists](https://en.wikipedia.org/wiki/List_of_parachurch_organizations).
 
 - If it's not here, it's simply likely I haven't heard of it or haven't verified it.
-- However, if I *have* heard of it, and it has become [corrupted by the world](christian-west.md) or believes in things against [sound Christian practices](christian-exercises.md), it's wiser to not advertise it.
+- However, if I *have* heard of it, and it has become [corrupted by the world](church-west.md) or believes in things against [sound Christian practices](spiritual-exercises.md), it's wiser to not advertise it.
 - This is just a start, and there are *hundreds* of much smaller ministries that serve smaller regions and specializations.
-- For the sake of brevity, this doesn't include the vast range of hospitals, museums, and fraternities and omits the denomination-specific entities that serve those larger denominations (e.g., the Roman Catholic Church's book publishing branch is probably larger than [many denominations](christian-history.md)).
+- For the sake of brevity, this doesn't include the vast range of hospitals, museums, and fraternities and omits the denomination-specific entities that serve those larger denominations (e.g., the Roman Catholic Church's book publishing branch is probably larger than [many denominations](church-history.md)).
 
 And, if the internet doesn't give a connection to a ministry in a group you think needs to exist, it may be time to [start your own ministry](mgmt-church.md).
 
@@ -40,7 +40,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Zondervan](https://www.zondervan.com/)
 
-## [Evangelism and Apologetics](christian-evangelism.md)
+## [Evangelism and Apologetics](evangelism.md)
 
 [The Christian Apologetics & Research Ministry](https://carm.org/)
 
@@ -54,7 +54,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Youth With A Mission](https://ywam.org/)
 
-## Evangelism focused on [apologetics](christian-apologetics.md)
+## Evangelism focused on [apologetics](evangelism-apologetics.md)
 
 [Answers in Genesis](https://answersingenesis.org/) - focuses on [science-based](science.md) apologetics
 

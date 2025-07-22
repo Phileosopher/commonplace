@@ -1,5 +1,5 @@
 
-# Dreams Explained
+# Dreams explained
 
 Dreaming is likely the subconscious working out recent events, but there’s very little scientific information about what it actually is.
 

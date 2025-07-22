@@ -5,7 +5,7 @@ Some people simply aren't experienced or [creative](mind-creativity.md) enough t
 
 For that reason, here's a concise list to get the thoughts rolling.
 
-- Statistically, your [gifts](christian-gifts.md) and [personality](personality.md) make you best-suited for *some* sort of ministry on this list.
+- Statistically, your [gifts](spiritual-gifts.md) and [personality](personality.md) make you best-suited for *some* sort of ministry on this list.
 
 Most healthy churches have plenty of volunteers, and they'll usually pick people who have served before.
 
@@ -50,7 +50,7 @@ The volunteers themselves
 
 ## Things to Try
 
-[Pray](christian-prayer.md) steadily
+[Pray](god-prayer.md) steadily
 
 - For the needs of the people themselves
 - For individuals' [souls and spirits](humanity.md)
@@ -98,14 +98,14 @@ Creating
 
 Teaching
 
-- [Spiritual discipleship](christian-discipleship.md)
+- [Spiritual discipleship](spiritual-discipleship.md)
 - Tutoring
 - Job training
 - Read to others
 
 ## Across the World
 
-Advertise the [persecution](christian-persecution.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
+Advertise the [persecution](church-persecution.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
 
 Cambodia has been a hellscape of a country for *decades*.
 

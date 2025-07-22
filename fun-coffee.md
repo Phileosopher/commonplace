@@ -1,5 +1,5 @@
 
-# Coffee
+# Enjoying coffee
 
 Coffee is hot water soaked in (steeped from) coffee beans.
 

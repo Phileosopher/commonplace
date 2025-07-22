@@ -31,7 +31,7 @@ Make a wind-down routine:
 Some things may interrupt your ability to get to sleep:
 
 - Fasting can make getting to sleep difficult.
-- - [Pets](pets.md) in the bedroom can randomly wake you up.
+- - [Pets](fun-pets.md) in the bedroom can randomly wake you up.
   - Close the bedroom door on them.
 
 Even when you can get to sleep, some things will interrupt deep sleep:

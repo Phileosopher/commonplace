@@ -1,7 +1,7 @@
 
 # CS Algebra
 
-Algebraic calculations are highly critical for computers to work correctly. In fact, behind the syntax, the bulk of [programming](programming-basics.md) is simply [algebraic](algebra.md) notation.
+Algebraic calculations are highly critical for computers to work correctly. In fact, behind the syntax, the bulk of [programming](programming-basics.md) is simply [algebraic](math-algebra.md) notation.
 
 Signals
 -------

@@ -84,7 +84,7 @@ Mix non-petroleum jelly and raw sugar and apply to lips
 
 If the lips split, hold a damp black tea bag to the area
 
-Note: Avoid most over-the-counter chapsticks because they contain desiccants.
+Note: Avoid most over-the-counter chapstick because they contain desiccants.
 
 ### Congestion/stuffy nose
 

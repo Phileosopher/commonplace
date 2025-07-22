@@ -8,7 +8,7 @@ For a more legitimate tech glossary, several others are better:
 - [TechTerms.com](https://techterms.com/)
 - [Webopedia](https://www.webopedia.com/)
 
-## #
+## 0-9
 
 51% attack - changing blockchain blocks on so many computers at once that they all conform to the new information, the greatest threat for a blockchain hack
 

@@ -33,7 +33,7 @@ Attachable bidet
 
 Small houseplants
 
-A low-maintenance [pet](pets.md) like a rodent or fish
+A low-maintenance [pet](fun-pets.md) like a rodent or fish
 
 A pet houseplant like chia pets or marimo mossballs
 

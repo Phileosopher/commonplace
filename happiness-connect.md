@@ -41,7 +41,7 @@ Learn to BIRG:
 Open yourself to new social challenges:
 
 - Get more connected with your community
-- Get a [pet](pets.md).
+- Get a [pet](fun-pets.md).
 - Make a deeper commitment with your [life partner](people-relationships-3_marriage.md).
 - [Have children](people-parenting-2_children.md) or adopt.
 - Reach out to one person each month who inspires you.
