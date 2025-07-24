@@ -78,7 +78,7 @@ Other drugs
 
 - [Cultural](culture.md) activities
   - [Cars](autos.md)
-  - [Religious events](religion.md)
+  - [Religious events](religion-answers.md)
   - Recovery and rehab groups
   - Concerts
 - Eating

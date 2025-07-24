@@ -168,7 +168,7 @@ Psychological needs relate to how we see ourselves in the world:
 
 - The need to feel [responsible and in control](meaning.md)
 - The need to feel [safe, at peace or comfortable](safety.md)
-- The need to [love and be loved](people-relationships-love.md)
+- The need to [love and be loved](people-love.md)
 - The need to [attempt risks](unknown.md), [have fun](fun.md), and [learn](mind-memory.md)
 - The need to [emotionally release](mind-feelings.md) through crying, venting, or [creating](mind-creativity.md)
 - The need to see [evidence of growth or improvement](mind-creativity-results.md)
@@ -189,7 +189,7 @@ We tend to have a "center" that satisfies many of our needs:
 
 - Over our lives, our center becomes the perceived source of those needs.
 - Because of how many things it affects, we focus our efforts on this center.
-- To grow, we must center our minds on [values and principles](values.md) (the *true* value of [religion](religion.md)), but that requires shifting focus away from everything else in the world around us.
+- To grow, we must center our minds on [values and principles](values.md) (the *true* value of [religion](religion-answers.md)), but that requires shifting focus away from everything else in the world around us.
 
 Unmet needs will eventually ferment into an existential crisis:
 

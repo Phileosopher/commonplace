@@ -123,7 +123,7 @@ Join a [church or club](groupssmall.md)
 
 Help someone who needs help or volunteer somewhere
 
-Openly [love](people-relationships-love.md) someone around you, or say hello to a stranger
+Openly [love](people-love.md) someone around you, or say hello to a stranger
 
 ## Accomplishment/Achievement  - belief in improvement
 

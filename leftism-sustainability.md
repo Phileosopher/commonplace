@@ -141,7 +141,7 @@ We must define inequality.
 
 This entire discussion of inequality also has time-sensitive implications. Is the child of an oppressor responsible for the oppressor's actions? It's safe to say that the majority of crimes against humanity have happened by long-dead people, so how do we reconcile this?
 
-The first thing, before anything else, is partial forgiveness by the injured against their persecutors, specifically as [release](ptsd.md). Then, when the unjustly treated can speak [reasonably](logic.md) about their [suffering](hardship.md) and the people who may lose from the dialogue can [have compassion](people-relationships-love.md) on the victims enough to sacrifice for them, then and *only then* everyone can [fairly](morality-justice.md) discuss terms.
+The first thing, before anything else, is partial forgiveness by the injured against their persecutors, specifically as [release](ptsd.md). Then, when the unjustly treated can speak [reasonably](logic.md) about their [suffering](hardship.md) and the people who may lose from the dialogue can [have compassion](people-love.md) on the victims enough to sacrifice for them, then and *only then* everyone can [fairly](morality-justice.md) discuss terms.
 
 A nation is made of its citizens, and individual differences create individual inequalities. Entire nations become unequal because of differences between those nations.
 
@@ -198,7 +198,7 @@ If the climate is in utter peril, and we're all precariously close to imminent d
 
 Otherwise, if there's even the remotest doubt about the measurements' connection to the climate, or there's been tremendous political swaying of the legitimate risks associated to the climate, we should seriously consider whether all these anti-human-activity actions are even necessary.
 
-The fatalist Climate Changeism is more a [religion](religion.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
+The fatalist Climate Changeism is more a [religion](religion-answers.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
 
 ## Goal 14: Life Below Water
 
@@ -210,13 +210,13 @@ While the body of information is slowly building, we presently know more about s
 
 As another extension of Goal 13, we must consider the philosophical concept of mankind.
 
-While it's our [natural tendency](humanity-universals.md) to imagine a human/nature dichotomy, we are a part of nature. [Religious perspectives](religion.md) aside, we have the dominant right of nature to whatever we please purely as a principle of [power](power.md).
+While it's our [natural tendency](humanity-universals.md) to imagine a human/nature dichotomy, we are a part of nature. [Religious perspectives](religion-answers.md) aside, we have the dominant right of nature to whatever we please purely as a principle of [power](power.md).
 
-In an evolutionary sense, other organisms on this planet aren't as fit as us. They either serve our purpose or we can do away with them. Anything of the sort that says, "We have a right to protect the Earth" is simply [religious](religion.md) jargon.
+In an evolutionary sense, other organisms on this planet aren't as fit as us. They either serve our purpose or we can do away with them. Anything of the sort that says, "We have a right to protect the Earth" is simply [religious](religion-answers.md) jargon.
 
 ## Goal 16: Peace, Justice, and Strong Institutions
 
-The justice of a society hangs heavily on its [culture](culture.md). A [good society](perfectsociety.md) requires a culture driven on aspects of [love for each other](people-relationships-love.md). Otherwise, it requires [fair](morality-justice.md) and well-enforced [laws](rules.md).
+The justice of a society hangs heavily on its [culture](culture.md). A [good society](perfectsociety.md) requires a culture driven on aspects of [love for each other](people-love.md). Otherwise, it requires [fair](morality-justice.md) and well-enforced [laws](rules.md).
 
 The culture of a society is determined by its leaders, both [big](groupslarge.md) and [small](groupssmall.md).
 
@@ -238,7 +238,7 @@ The only way for there to be any unity is to have a shared hatred of the same th
 
 ## Conclusion
 
-These goals are allegedly driven by a valiant desire for [justice](morality-justice.md). However, we already have [technology](technology.md) and systems in place that can solve all the world's problems, as well as many proven-reliable [moral](morality.md) frameworks present within [religion](religion.md).
+These goals are allegedly driven by a valiant desire for [justice](morality-justice.md). However, we already have [technology](technology.md) and systems in place that can solve all the world's problems, as well as many proven-reliable [moral](morality.md) frameworks present within [religion](religion-answers.md).
 
 The only reason we still have these issues after millennia is because there's too much to [gain](power-types.md) (e.g., money) in treating the issue instead of fixing it. It'll likely persist as long as the [moral](morality.md) condition of mankind stays the same.
 

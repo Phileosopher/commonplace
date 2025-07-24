@@ -9,14 +9,14 @@ Therefore, the best way to find [cross-cultural](culture.md) connection across t
 
 The organizations may die, but the [specializations](jobs-specialization.md) will carry on as long as there's a cross-cultural need and church leadership are territorial.
 
-- It *is* worth noting that these groups aren't abstracted from denominational [bias](bias.md): many of these organizations have their own statement of faith, and many of the leadership of the groups have a *clear* preference against some denominations.
+- It *is* worth noting that these groups aren't abstracted from denominational [bias](mind-bias.md): many of these organizations have their own statement of faith, and many of the leadership of the groups have a *clear* preference against some denominations.
 
 This is not an exhaustive list, since I aim for quality over quantity and [other places have more exhaustive lists](https://en.wikipedia.org/wiki/List_of_parachurch_organizations).
 
 - If it's not here, it's simply likely I haven't heard of it or haven't verified it.
 - However, if I *have* heard of it, and it has become [corrupted by the world](church-west.md) or believes in things against [sound Christian practices](spiritual-exercises.md), it's wiser to not advertise it.
 - This is just a start, and there are *hundreds* of much smaller ministries that serve smaller regions and specializations.
-- For the sake of brevity, this doesn't include the vast range of hospitals, museums, and fraternities and omits the denomination-specific entities that serve those larger denominations (e.g., the Roman Catholic Church's book publishing branch is probably larger than [many denominations](church-history.md)).
+- For the sake of brevity, this doesn't include the vast range of hospitals, museums, and fraternities and omits the denomination-specific entities that serve those larger denominations (e.g., the Roman Catholic Church's book publishing branch is probably larger than [many denominations](history-church.md)).
 
 And, if the internet doesn't give a connection to a ministry in a group you think needs to exist, it may be time to [start your own ministry](mgmt-church.md).
 

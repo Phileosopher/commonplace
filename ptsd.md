@@ -21,7 +21,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
 
 - Be patient with yourself and your thoughts to let yourself work through the pain:
   - Visualize yourself as a small child, as well as everyone else involved.
-  - Talk to yourself like you would talk to someone you [love](people-relationships-love.md).
+  - Talk to yourself like you would talk to someone you [love](people-love.md).
   - Talk to yourself or a [friend](people-4_friends.md) about how you feel.
 - Crying is one of the most effective ways to release trauma.
   - If you can't cry, yawning also releases stress.
@@ -48,7 +48,7 @@ Release your feelings about anything you fear or resent:
   - If you find anything that makes you angry, write down "I am angry at (a being or institution) because I fear..." and fill it in.
   - Often, you'll find resentments behind resentments, so be sure to list *all* of them.
   - We have the least control over our fears and resentments, so focus specifically on them instead of any other [feelings](mind-feelings.md).
-  - At the end, clearly state how you're releasing them all (e.g., "...and that's okay.", "...and it doesn't matter.", "...but [God](religion.md) is in control.")
+  - At the end, clearly state how you're releasing them all (e.g., "...and that's okay.", "...and it doesn't matter.", "...but [God](god.md) is in control.")
 - For your brain stem to register, you may need to connect your feelings to a physical action to release them.
   - Press your tongue to the back of your teeth.
   - Tense every single muscle in your body, increasing in intensity, then release all of the muscles at once.
@@ -116,7 +116,7 @@ B. Forbearance
   1. Let go of that particular offense.
   2. Remove grudges and fantasies of revenge.
   3. Stay watchful of their behavior in the future.
-- With time and [love](people-relationships-love.md), forbearance can become exoneration and full forgiveness if that person [changes](changes.md).
+- With time and [love](people-love.md), forbearance can become exoneration and full forgiveness if that person [changes](changes.md).
 
 C. Release
 
@@ -134,4 +134,4 @@ C. Release
   - Release isn't forgetting, but is accepting that you now bear the consequences of something that happened outside your control.
   - If you ever [go to sleep](sleep.md) without releasing the grudge, it will encode itself into your [subconscious](awareness.md) and become harder to work through later.
   - By not releasing the old pain, those people will repeatedly re-hurt you in your mind without your permission.
-  - Psychotherapy, your individual efforts, or [religion](religion.md) can all get you there, but only [Christian doctrine](jesus-gospel.md) can reliably wipe away our resentments.
+  - Psychotherapy, your individual efforts, or [religion](religion-answers.md) can all get you there, but only [Christian doctrine](jesus-gospel.md) can reliably wipe away our resentments.

@@ -27,8 +27,8 @@ Even when we don't strive for satisfaction in life, we still want it.
 
 You're not the only person affected by your decisions:
 
-- Even if you don't see it, there are some people in your life who [love](people-relationships-love.md) you.
-- In whatever way you interpret it, [God made you](religion.md).
+- Even if you don't see it, there are some people in your life who [love](people-love.md) you.
+- In whatever way you interpret it, [God made you](religion-answers.md).
 - And, even if you're an atheist with no friends or family, you're a [highly sophisticated](science.md), ordered living being that has at least some potential use in the unknown future.
 
 A bad day is perfectly acceptable, but prolonged misery drains others' wellness:

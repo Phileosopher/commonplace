@@ -198,7 +198,7 @@ Work out and eat well for something beyond yourself:
 - You can't fight your genetics, so ignore popular culture's push to change your image.
 - Instead of focusing on having a great body, focus on having a *[useful](purpose.md)* one (which is why it's called "fitness").
   - You should have a specific goal for your new strength, endurance, or whatever.
-  - You can offset most of the [hardships from aging](hardship-aging.md) by staying lean, muscular, and limber for as long as you can, and it's your responsibility to do it for [the people you love](people-relationships-love.md).
+  - You can offset most of the [hardships from aging](hardship-aging.md) by staying lean, muscular, and limber for as long as you can, and it's your responsibility to do it for [the people you love](people-love.md).
 
 Don't worry about setbacks:
 

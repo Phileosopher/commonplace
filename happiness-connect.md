@@ -114,7 +114,7 @@ Disruptive behaviors against healing environments come from multiple sources:
 3. [Addiction](addiction.md) or abuse of [any substance](addiction-substances.md) or person.
 4. Impulse to fix or recreate a childhood home.
    - Even with complete enlightenment, an adult child will rarely fix their childhood home.
-5. Rigid and constrictive [religious](religion.md), [political](politics-conservativeliberal.md), or social beliefs.
+5. Rigid and constrictive [religious](religion-answers.md), [political](politics-conservativeliberal.md), or social beliefs.
    - Inability or feeling unable to think or act with a sense of personal autonomy or independence.
    - Can't say "no", hear "yes" or "thank you", laugh at themselves, or be straightforward with themselves.
 6. Sexual or emotional unfaithfulness.

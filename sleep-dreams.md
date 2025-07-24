@@ -43,7 +43,7 @@ Insecurities and anxiety
 Fear and hope for the future
 
 - Being late or unable to perform = fear of failing at an upcoming event
-- Death = either contemplating death, or sensing a significant future loss for you or someone you [love](people-relationships-love.md)
+- Death = either contemplating death, or sensing a significant future loss for you or someone you [love](people-love.md)
 - Pregnancy = growth or a new experience, unacknowledged desire to create something
 - Running = can be fear of a problem or struggle, or desire for a goal or achievement
 - Sex/Friends = desire for others’ traits

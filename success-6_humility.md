@@ -82,7 +82,7 @@ D. Act on resolving the problem so it never happens again:
 
 Success is a lifelong journey across every conceivable subject:
 
-- Prolonged success comes through developing yourself physically, mentally, [spiritually](religion.md), and socially.
+- Prolonged success comes through developing yourself physically, mentally, [spiritually](religion-answers.md), and socially.
 - Keep refreshing your [understanding](understanding.md) and [awareness](awareness.md).
 - Self-management and learning never takes a day off.
 
@@ -90,7 +90,7 @@ It's not uncommon to feel an existential crisis after succeeding:
 
 - If you've devoted your life to something, there's a good chance you didn't [imagine](imagination.md) life *after* that experience has fulfilled itself.
 - Give yourself time to [enjoy life and relax](fun.md), and you'll find a new [purpose](purpose.md) soon enough.
-- If you feel a deeper void that implies complete emptiness, you have a [worse problem](meaning.md) than *any* type of success can give you, and it's likely [spiritual](religion.md).
+- If you feel a deeper void that implies complete emptiness, you have a [worse problem](meaning.md) than *any* type of success can give you, and it's likely [spiritual](religion-answers.md).
 
 Succeeding fuels more successes later if you let it:
 
@@ -132,7 +132,7 @@ Don't let yourself get soft:
 Avoid flaunting your success:
 
 - A lavish lifestyle will destroy your credibility.
-- Nobody cares if you're stronger, smarter, or more qualified than anyone else *nearly* as much as whether you can [serve their interests](purpose.md) or [care about them](people-relationships-love.md).
+- Nobody cares if you're stronger, smarter, or more qualified than anyone else *nearly* as much as whether you can [serve their interests](purpose.md) or [care about them](people-love.md).
 
 Your success may *not* bleed over:
 

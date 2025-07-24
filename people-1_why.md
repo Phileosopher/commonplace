@@ -25,7 +25,7 @@ Navigating politics comes from knowing what other people know and identify with:
 2. What others know, expect, and feel about what you and others know, expect, and feel.
 3. As many layers as each person can perceive of others' knowledge, expectations, and feelings.
 
-We must exercise [loving](people-relationships-love.md), tactful behavior to foster any positive connection with others.
+We must exercise [loving](people-love.md), tactful behavior to foster any positive connection with others.
 
 ## Social standards help people coexist
 

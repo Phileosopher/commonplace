@@ -18,7 +18,7 @@ A pet, especially a dog, is also great practice for [small children](people-pare
 At the same time, a pet isn't a replacement for meaningful human relationships:
 
 - We need time with others and [friends](people-4_friends.md).
-- If we've spent lots of time [alone](hardship-solitude.md), we'll often impose our need for companionship and [love](people-relationships-love.md) onto an animal and imagine they love us back more than they really do.
+- If we've spent lots of time [alone](hardship-solitude.md), we'll often impose our need for companionship and [love](people-love.md) onto an animal and imagine they love us back more than they really do.
 
 ## Match your pet to your commitment level
 

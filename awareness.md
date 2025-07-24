@@ -6,7 +6,7 @@
 We can't live healthy lives when our subconscious always drives us:
 
 - Constant fear of loss leads to more stress.
-- We experience less [connection](people-1_why.md) with others and trouble experiencing [love](people-relationships-love.md).
+- We experience less [connection](people-1_why.md) with others and trouble experiencing [love](people-love.md).
 - A false sense of crisis can lead to neglected needs.
 - We'll fixate on something and ignore important details around it.
 
@@ -45,7 +45,7 @@ The more we do, the less we're aware.
 Gaining self-awareness can often be lonely.
 
 - Nobody else sees or knows our thoughts, no matter how well we [communicate them](people-speaking.md).
-- Barring [a higher power](religion.md) directly speaking with us (such as [God](jesus-gospel.md)), we often sense nothing.
+- Barring [a higher power](religion-answers.md) directly speaking with us (such as [God](jesus-gospel.md)), we often sense nothing.
 
 ## Language
 

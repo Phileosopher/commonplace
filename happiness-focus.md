@@ -26,7 +26,7 @@ Optimism is easier when you're being specific:
 
 Only focus on true, good, and beautiful things:
 
-- Good things, like [friendship](people-4_friends.md) or [love](people-relationships-love.md)
+- Good things, like [friendship](people-4_friends.md) or [love](people-love.md)
 - True things, like [principles](philosophy.md) and [values](values.md)
 - Beautiful things, like a sunrise or [art](art.md)
 

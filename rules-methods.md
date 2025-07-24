@@ -75,13 +75,13 @@ The purpose of exile over death is often for [political](power.md) [purposes](pu
 
 ## J. Death
 
-Death is the most severe form of exile, with the person prematurely sent to [whatever is after this life](religion.md).
+Death is the most severe form of exile, with the person prematurely sent to [whatever is after this life](religion-answers.md).
 
 - The method involves any variety of means to make a critical organ fail.
 
 The method of killing can range from quick and painless (e.g., lethal injection) to as torturous as possible (e.g., drawn and quartered).
 
-While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](religion.md).
+While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](god.md).
 
 ## K. Punishing Connections
 

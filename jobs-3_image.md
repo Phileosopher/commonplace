@@ -265,7 +265,7 @@ Put your education before your employment history only if you haven't been emplo
 
 While a career-relevant hobby on your résumé will *really* set you apart, only list hobbies and volunteer information that directly apply to the job.
 
-Don't share anything that could bias a recruiter against you (e.g., your [religion](religion.md), age, marital status, children), and save those details for the interview if you want to share them.
+Don't share anything that could bias a recruiter against you (e.g., your [religion](religion-answers.md), age, marital status, children), and save those details for the interview if you want to share them.
 
 Unless you're still going to it or working for it, don't include your high school:
 

@@ -18,7 +18,7 @@ In moderation, alcohol also has health benefits:
 
 Removing mental filters can make us do dangerous things:
 
-- Barring [religious considerations](religion.md), drinking isn't inherently evil, but it lowers inhibition and can often draw out expressions of evil thoughts we otherwise would have refrained from saying.
+- Barring [religious considerations](religion-answers.md), drinking isn't inherently evil, but it lowers inhibition and can often draw out expressions of evil thoughts we otherwise would have refrained from saying.
 - Depending on which country you're in, drinking under a certain age could be illegal.
 - The [moral](morality.md) risks of alcohol come through our diminished willpower.
 

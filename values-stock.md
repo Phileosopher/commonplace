@@ -20,9 +20,9 @@ The [Natural World](reality.md):
 - [Drive](autos.md) safely.
 - Get enough [sleep](sleep.md).
 
-[Religion](religion.md) and [trust](trust.md):
+[Religion](religion-answers.md) and [trust](trust.md):
 
-- [God](religion.md) is good.
+- [God](god.md) is good.
 - [Beliefs](understanding-certainty.md) make people stupid.
 - [Hope](trust.md) can change [reality](reality.md).
 - Drinking [alcohol](fun-alcohol.md) or consuming recreational drugs can destroy your life.
@@ -95,7 +95,7 @@ The [Natural World](reality.md):
 - Desiring things is better than getting them.
 - Giving is better than receiving.
 - [Success](success-1_why.md) can be [lonely](people-4_friends.md).
-- Don't play [God](religion.md).
+- Don't play [God](religion-answers.md).
 - [Capitalism](economics.md) is bad.
 - Fools lose their money quickly.
 - Saving money is as good as earning it.
@@ -167,7 +167,7 @@ The [Natural World](reality.md):
 [Morality](morality.md):
 
 - Do to others what you want them to do to you.
-- [Kindness](people-relationships-love.md) comes back to you.
+- [Kindness](people-love.md) comes back to you.
 - [Cruelty](morality-evil.md) comes back to you.
 - We must take as well as give.
 - Don't be kind to evil.
@@ -196,7 +196,7 @@ The [Natural World](reality.md):
 - [Extroverted](personality.md) friends will help your social skills.
 - Respect everyone's preferences.
 
-Romantic [love](people-relationships-love.md):
+Romantic [love](people-love.md):
 
 - Love is more important than sex.
 - Love's power can conquer anything.
