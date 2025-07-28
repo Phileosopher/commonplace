@@ -33,7 +33,7 @@ There are a few important ways to write good Git commits:
 
 - Explain what you changed, why you changed it, and what it affects. Assume the reader has no clue what you're addressing.
 - Capitalize the first word and don't end with punctuation, though [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) are all lowercase.
-- Use a direct, to-the-point tone of [writing](people-writing.md) (avoid kinda, I think, maybe, et al.).
+- Use a direct, to-the-point tone of [writing](language-writing.md) (avoid kinda, I think, maybe, et al.).
 - Specify what commit type you're making:
   - feat - new feature comes with the changes
   - fix - fixed a [bug](computers-software-redesign.md)

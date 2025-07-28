@@ -11,7 +11,7 @@ Without any fallback, the system will slowly devolve into yet another FAANG syst
 
 Every well-designed system integrated heavily with technology needs a third-party ombudsman to mediate conflicts which may arise between people inside the organization and outside it. They have to be outside normal channels, and should receive far more [authority](power-types.md) than any tiered technician or middle manager.
 
-Without an ombudsman, the gaps in expertise will likely be filled by [technical idiots](https://notageni.us/idiot/) that [fix problems](fix.md) that may not need fixing, or that won't resolve the actual problem the user is having.
+Without an ombudsman, the gaps in expertise will likely be filled by [technical idiots](https://gainedin.site/idiot/) that [fix problems](fix.md) that may not need fixing, or that won't resolve the actual problem the user is having.
 
 There are several options that prevent abuse of an ombudsman system, and should be communicated *before* the fix is applied:
 

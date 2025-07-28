@@ -44,7 +44,7 @@ The more we do, the less we're aware.
 
 Gaining self-awareness can often be lonely.
 
-- Nobody else sees or knows our thoughts, no matter how well we [communicate them](people-speaking.md).
+- Nobody else sees or knows our thoughts, no matter how well we [communicate them](language-speaking.md).
 - Barring [a higher power](religion-answers.md) directly speaking with us (such as [God](jesus-gospel.md)), we often sense nothing.
 
 ## Language
@@ -61,7 +61,7 @@ Learn to make comparisons for your feelings:
 
 Write a journal:
 
-- Even when nobody reads it, [writing](people-writing.md) forces you to clarify exactly what you're thinking.
+- Even when nobody reads it, [writing](language-writing.md) forces you to clarify exactly what you're thinking.
 - Venting in a journal articulates the experience and helps to differentiate fact from fiction.
 - It doesn't have to make sense, follow a pattern, or capture your feelings.
 
@@ -78,7 +78,7 @@ If things become *awful*, we may need help attaining awareness through outside h
 - acupuncture/acupressure/EFT tapping
 - Cognitive behavioral therapy ([CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy))
 - Guided yoga/meditation
-- Various forms of [writing](people-writing.md)
+- Various forms of [writing](language-writing.md)
 
 Awareness is *only* useful for detecting problems.
 

@@ -47,7 +47,7 @@ Not all hits are good.
 Make sure to communicate clearly within the site where the user is, what they can do, and what will happen if they do it.
 
 - If you're not communicating things plainly, people will tune out the information.
-  - The [content/copy](people-writing.md), photos, and overall message should all match up.
+  - The [content/copy](language-writing.md), photos, and overall message should all match up.
 - Frequently, your writing will be too broad (and therefore too many people won't be interested) or too specific (and will drive people who might be interested away).
 - Have a decisive, clear call to action (CTA) to work through it.
 

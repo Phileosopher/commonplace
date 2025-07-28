@@ -71,7 +71,7 @@ C. Write a clear, concise public message that communicates the following:
 5. The steps you've taken to fix what you failed at.
 6. The steps you plan to take to fix the damage or prevent it from happening again.
 7. Invite comments that give any additional [understanding](understanding.md) you may have missed, especially if you've somehow missed the point or haven't addressed the problem.
-8. Proofread it to [express the precise tone or style](people-writing.md) you want to convey.
+8. Proofread it to [express the precise tone or style](language-writing.md) you want to convey.
 
 D. Act on resolving the problem so it never happens again:
 
@@ -149,7 +149,7 @@ Dial back as you reach milestones:
 You'll never get it completely right:
 
 - Once you've succeeded, it's *very* difficult to tell someone you already know something without sounding pretentious.
-  - Learn to graciously [listen](people-speaking.md) to them, keep your thoughts to yourself, and say "thank you".
+  - Learn to graciously [listen](language-speaking.md) to them, keep your thoughts to yourself, and say "thank you".
 - Your [identity](identity.md) should *always* be in something more important than your accomplishments.
 - Ironically, the experience of success makes you more close-minded (since that's what you needed to [persevere](success-5_persevering.md)), so you're guaranteed to be less prepared for [any emerging trends](trends.md).
 - You always have room to grow, no matter what:

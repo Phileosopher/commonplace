@@ -45,7 +45,7 @@ Creators are always designing for a target audience, and their most important au
 
 - Cleaners must use the things they clean.
 - Builders must live and work in their buildings.
-- [Writers](people-writing.md) must read their work out loud.
+- [Writers](language-writing.md) must read their work out loud.
 - [Computer programmers](programming-basics.md) must use their programs.
 - [Teachers](pedagogy.md) must follow the [logic](logic.md) of their curriculum.
 

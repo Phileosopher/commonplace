@@ -7,7 +7,7 @@ To anyone who notices, these are *not* mutually exclusive roles, and they freque
 
 Completely [marketing](marketing.md)/design-based (for non-tech people who still like working with tech people):
 
-- **Content Managers** [write and proofread](people-writing.md) content all day.
+- **Content Managers** [write and proofread](language-writing.md) content all day.
   - **Social Media Manager** monitors and creates social media content all day.
   - **SEO** obsesses about [keyword optimization](marketing-seo.md).
 - **Growth Hackers** run reports on marketing numbers and find ways to [make companies scale](mgmt-7_changes.md).

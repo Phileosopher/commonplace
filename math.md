@@ -19,7 +19,7 @@ Most people find math too difficult to work with, and it is *not* a trivial disc
 - All the patterns of nature, including [science](science.md) and [engineering](engineering.md), have mathematical patterns behind them.
 - Our capacity to observe and reproduce math patterns have allowed us to make *very* efficient factories, get to the moon, have well-designed traffic circles, and build better cities.
 
-Math [education](pedagogy.md) often overlooks informing people on *why* math has value, and many standard college-educated math teachers will focus on [rote memorization](mind-memory.md) and formulas instead of conveying the core concepts that give mathematics any use whatsoever in the first place. This level of [ignorance](https://notageni.us/idiot/) has magnified math anxiety more than it should be.
+Math [education](pedagogy.md) often overlooks informing people on *why* math has value, and many standard college-educated math teachers will focus on [rote memorization](mind-memory.md) and formulas instead of conveying the core concepts that give mathematics any use whatsoever in the first place. This level of [ignorance](https://gainedin.site/idiot/) has magnified math anxiety more than it should be.
 
 ## Math Anxiety
 
@@ -36,7 +36,7 @@ Math is very thorough, so it's never really "easy", and it can often be tedious,
 
 1. Use little numbers. If the problem has big, gigantic numbers, swap out that problem for little numbers and try to solve *that* one instead.
 2. Separate out the concepts. If you see a long formula, break apart the pieces and solve those individual pieces as entirely separate concepts. If there are big numbers, apply #1 to get a firmer grasp of it.
-3. Look *beyond* the book you're reading. The textbook author may have worded it badly or is a [technical idiot](https://notageni.us/idiot/), and it might be too difficult for *anyone* to understand. Any legitimately useful math will have *many* videos, books, and tutorials on the subject.
+3. Look *beyond* the book you're reading. The textbook author may have worded it badly or is a [technical idiot](https://gainedin.site/idiot/), and it might be too difficult for *anyone* to understand. Any legitimately useful math will have *many* videos, books, and tutorials on the subject.
 4. If you simply want the clear answer, use a calculator to find the answer, then work your way through it.
 5. Use website tools as well for step-by-step walkthroughs of your exact math problem, which allows you to reproduce the process.
 6. Once you *do* understand it, rework it yourself, without looking at a reference. Take your time, and *do not rush the [learning process](understanding.md)*.

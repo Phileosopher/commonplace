@@ -30,7 +30,7 @@ Even if you hate social interaction, networking isn't particularly difficult:
 
 Connect with people in your desired industry whenever you can:
 
-- Create a pre-planned "[elevator speech](people-speaking.md)" explanation of what you've done so far.
+- Create a pre-planned "[elevator speech](language-speaking.md)" explanation of what you've done so far.
 - If you want, you can focus on what you *like* doing.
 - Routinely connect with everyone you know through LinkedIn and other social networks.
 
@@ -323,7 +323,7 @@ Each letter should be a separate personal communication tailored to that specifi
 
 Write politely and directly:
 
-- [Writing](people-writing.md) reveals authenticity, so be honest and genuine.
+- [Writing](language-writing.md) reveals authenticity, so be honest and genuine.
 - Condense a cover letter to 2-3 short paragraphs.
 - Only express your interests which apply to the company.
 

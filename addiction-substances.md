@@ -116,7 +116,7 @@ Other drugs
 - Smoking/smoke breaks
 - Spiritual or religious rituals
 - [Technology](technology.md) use
-- [Talking](people-speaking.md)
+- [Talking](language-speaking.md)
 - Work
   - [Career development](jobs-2_goals.md)
   - [Computer use](computers.md)

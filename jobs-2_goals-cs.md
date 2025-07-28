@@ -178,7 +178,7 @@ And, naturally, remote work has downsides:
 - It's *much* easier to procrastinate and not get projects done on time.
 - When you have high-maintenance family and friends (e.g., [babies](people-parenting-1_babies.md) or [children](people-parenting-2_children.md)), it's harder to stay focused.
 - You'll have a harder time [making connections](people-4_friends.md) with your coworkers, which may deteriorate your [quality of life](happiness-focus.md) if you're not proactively finding connections elsewhere.
-- Communicating with teammates is more about everyone maintaining high-quality [writing](people-writing.md) than [speaking](people-speaking.md), and much harder as a result.
+- Communicating with teammates is more about everyone maintaining high-quality [writing](language-writing.md) than [speaking](language-speaking.md), and much harder as a result.
 
 In other words, search for remote if you want more freedom, but look for in-person if you prefer a sharp segregation between work and personal life.
 

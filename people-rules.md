@@ -282,7 +282,7 @@ Watch for culture-specific dining taboos:
 - Don't point with chopsticks or stab food with them.
   - Rubbing chopsticks together is sometimes considered bad luck.
 - Sometimes, finishing your food implies you didn't get enough, but other times *not* finishing your food suggests you didn't like it.
-- Most cultures limit conversation topics to [small talk](people-speaking.md).
+- Most cultures limit conversation topics to [small talk](language-speaking.md).
 - During a toast, it might be taboo about how high you raise your glass compared to everyone else or through hitting glasses with others.
 - Sometimes the oldest male is the first to eat, or the meal might end when the host stands up.
 - Asking for seasoning or adding it to food might be an egregious insult to the cook.

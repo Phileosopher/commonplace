@@ -43,7 +43,7 @@ Release your feelings about anything you fear or resent:
   - You really can't do anything about the past, nor about others' actions, and the only person suffering from holding onto those feelings is you.
   - Whenever feelings arise, learn to repeat the mantra, "I'm having an emotional reaction."
   - At the end of any meditation session, you should only be focused on what you can actually do.
-- If you have any trouble, [write down](people-writing.md) "I fear...", then list those fears as they arise.
+- If you have any trouble, [write down](language-writing.md) "I fear...", then list those fears as they arise.
   - At the end, you should throw out or delete the list, which [symbolizes](symbols.md) that the fears don't really matter.
   - If you find anything that makes you angry, write down "I am angry at (a being or institution) because I fear..." and fill it in.
   - Often, you'll find resentments behind resentments, so be sure to list *all* of them.

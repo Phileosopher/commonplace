@@ -82,7 +82,7 @@ Some degrees are completely useless for any work except teaching in it:
 
 - Art, of all types, represents what we already do for fun: creative writing, fashion design, film/video, music, photography, studio/fine art, theater arts, art history, art appreciation, et al.
 - Humanities degrees are vague enough that they don't connect to *any* [marketable job skills](jobs-3_image.md): history, languages, [philosophy](philosophy.md), [political science](politics-systems.md), ethnic/civilization studies, [religious studies](religion-answers.md), gender studies, et al.
-- Some degrees are simply learning better [speaking](people-speaking.md) and [writing](people-writing.md), such as communications and advertising.
+- Some degrees are simply learning better [speaking](language-speaking.md) and [writing](language-writing.md), such as communications and advertising.
 - Many [sciences](science.md) are "soft" sciences, where the subject itself has a limited scope of necessary rigor to study it: psychology, sociology, anthropology, archaeology, [economics](economics.md), [holistic health](body-4_health.md), et al.
 
 Many high-paying jobs don't even *need* college:
@@ -159,7 +159,7 @@ Get as many scholarships and grants as possible:
 - Look for government-issued grants.
 - Take the SAT or ACT to open up more scholarship opportunities.
   - Before the tests, [study](mind-memory-tests.md) and get tutoring to score higher.
-- Some scholarships require you to volunteer or [write an essay](people-writing.md), which is about 20 hours of mild research or menial labor for thousands of dollars.
+- Some scholarships require you to volunteer or [write an essay](language-writing.md), which is about 20 hours of mild research or menial labor for thousands of dollars.
 
 Carefully consider any loans you may need:
 

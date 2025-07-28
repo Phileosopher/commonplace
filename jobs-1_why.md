@@ -59,7 +59,7 @@ If you have a bad attitude, you'll eventually bring it to your new job:
 
 Self-assess your feelings about your present and future job:
 
-- [Write out](people-writing.md) the pros and cons from all possible career decisions you can make.
+- [Write out](language-writing.md) the pros and cons from all possible career decisions you can make.
 - Examine how you describe your work in conversations.
 - Think ahead to the feelings you'll experience from making each choice.
 

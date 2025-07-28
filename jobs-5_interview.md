@@ -450,7 +450,7 @@ A. Write down at least a dozen likely interview questions:
 
 B. Practice the answers out loud until you speak it naturally:
 
-- Interviews are smaller, high-risk variations of [public speaking](people-speaking.md).
+- Interviews are smaller, high-risk variations of [public speaking](language-speaking.md).
 - If possible, practice with a friend playing the role of the interviewer.
 - Figure out the questions that make you most nervous and anticipate how you'll manage the worst-case situations.
   - You're not there to tell them your life story, so let silence persist if it needs to.

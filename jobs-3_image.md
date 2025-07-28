@@ -21,7 +21,7 @@ A job search is you, a product, marketing yourself to potential employers:
 
 It's not about what you know, or *who* you know, but *how* you're remembered:
 
-- Learn to [write](people-writing.md) and [speak](people-speaking.md) effectively.
+- Learn to [write](language-writing.md) and [speak](language-speaking.md) effectively.
 - Your *last* impression on people is the most important.
 
 If you're changing industries, note any differences between them:
@@ -316,7 +316,7 @@ Double and triple check for errors:
 
 - *Any* writing with typographical errors or lousy formatting looks unprofessional.
 - Observe present and past tense throughout the document.
-- Ask people for feedback on your [writing style](people-writing.md).
+- Ask people for feedback on your [writing style](language-writing.md).
 
 Save your finished résumé in three file formats:
 
@@ -349,7 +349,7 @@ Your [LinkedIn](https://www.linkedin.com/) profile is even more of a living docu
 
 To show the multiple dimensions of your talent, fill out your profile as thoroughly as you can.
 
-Since LinkedIn is a social network, frequently use the "I" pronoun and [write a story](people-writing.md) with a personable tone that potential employers may want to see.
+Since LinkedIn is a social network, frequently use the "I" pronoun and [write a story](language-writing.md) with a personable tone that potential employers may want to see.
 
 ### Employers can sift through LinkedIn profiles
 
@@ -480,7 +480,7 @@ Consistently update your LinkedIn status with appropriate industry-related news:
 
 Only repost content if it has industry-relevant insights, new industry-relevant products and services, or your opinion.
 
-Write about a career-relevant passion [if you can communicate it well](people-writing.md).
+Write about a career-relevant passion [if you can communicate it well](language-writing.md).
 
 Avoid over-posting:
 

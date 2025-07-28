@@ -150,7 +150,7 @@ During the workday, network with your *all* your new coworkers:
 Take your new job *very* seriously:
 
 - A new job is one of the most significant places where you can [succeed](success-1_why.md).
-- [Listen carefully](people-speaking.md), [work hard](success-4_routine.md), [stay organized](organization.md), and [keep your workspace clean](home-housekeeping.md).
+- [Listen carefully](language-speaking.md), [work hard](success-4_routine.md), [stay organized](organization.md), and [keep your workspace clean](home-housekeeping.md).
 
 Stay mindful of your rights and responsibilities:
 
@@ -177,7 +177,7 @@ Keep working outside your job for the long-term:
 
 - Keep building on your more productive hobbies and interests, since they may become a career someday.
 - Log your achievements on job social media like [LinkedIn](http://www.linkedin.com) or a portfolio website.
-- Keep developing your soft skills (e.g., teamwork, [speaking](people-speaking.md), [negotiating](people-conflicts.md)).
+- Keep developing your soft skills (e.g., teamwork, [speaking](language-speaking.md), [negotiating](people-conflicts.md)).
 - Make connections outside your current job for future work and opportunities.
 
 Have an estimated period when you'll leave *that* job to take a promotion or another role:
