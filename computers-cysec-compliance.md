@@ -1,7 +1,7 @@
 
 # Cybersecurity compliance
 
-Managing [cybersecurity](computers-cysec.md) for large organizations is vastly complicated compared with [individually-focused security](security.md).
+Managing [cybersecurity](computers-cysec.md) for large organizations is vastly complicated compared with [individually-focused security](safety-security.md).
 
 Individually managing permissions and configurations becomes more difficult across [a group of people](groupssmall.md), for several reasons:
 
@@ -14,7 +14,7 @@ The legality and safety of the organization can often sit on the nuanced differe
 
 ## Risk Management
 
-NIST created its Risk Management Framework (RMF) to put [risk management](riskmgmt.md) systems in place and test to be sure they work:
+NIST created its Risk Management Framework (RMF) to put [risk management](safety-riskmgmt.md) systems in place and test to be sure they work:
 
 1. Prepare - everyone should [be aware](awareness.md) changes will be happening.
 2. Categorize - [organize](organization.md) how the system processes, stores, and transmits information and conduct a risk assessment.

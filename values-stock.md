@@ -79,7 +79,7 @@ The [Natural World](reality.md):
 
 [The Unknown](unknown.md):
 
-- [Prevention](riskmgmt.md) is better than curing.
+- [Prevention](safety-riskmgmt.md) is better than curing.
 - It's good to [work hard for better things](success-1_why.md).
 - You will regret [opportunities you don't take](socialrisk.md).
 - Life is awful, but we can improve it.

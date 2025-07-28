@@ -48,7 +48,7 @@ The breadth of what you must know varies on the type of work you're performing:
 There's also a trust factor worth considering in hunting for a role.
 
 - Generally, you'll want to get an entry-level job in just about any role connected to what you want, then work from there.
-- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](security.md) or [full-stack development](programming-basics.md).
+- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](programming-basics.md).
 
 ## Start Learning
 

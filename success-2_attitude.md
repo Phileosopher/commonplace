@@ -289,7 +289,7 @@ The rules you *do* break can become a defining moment of glory or misery, depend
 
 ### 17. Life on this planet is too short to obsess about hypotheticals
 
-We're all slowly dying, and we only have [some control](body-4_health.md) over it beyond [managing risks](riskmgmt.md).
+We're all slowly dying, and we only have [some control](body-4_health.md) over it beyond [managing risks](safety-riskmgmt.md).
 
 A full life is approximately 78 years:
 
