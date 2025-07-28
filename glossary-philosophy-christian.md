@@ -81,7 +81,7 @@ There is no way that God's standard of justice is relative, so **absolutism** is
 
 - Further, our beliefs about [God's omniscience](god.md) almost mandate a further belief in **necessitarianism** (since God doesn't technically perceive "possibility", even though we do).
 
-The very real nature of [sin](bible-sins.md) and our implicit need for a Savior makes severe constraints on reality:
+The very real nature of [sin](morality-sins.md) and our implicit need for a Savior makes severe constraints on reality:
 
 - **Accidentalism** isn't possible, since cause-and-effect is a very real thing.
 - **Nominalism** can't be true because the truth of sin requires there to be an objective reality associated with a moral failing.
