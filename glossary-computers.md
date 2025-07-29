@@ -1,5 +1,5 @@
 
-# Computers Glossary
+# Computers glossary
 
 This is *not* an exhaustive glossary, but more a system to keep me accountable to not get too in-the-weeds on technical things.
 
