@@ -161,7 +161,7 @@ HOBBIES
 
 SPECIAL OCCASIONS
 
-- [Wedding](people-relationships-weddings.md) Supplies
+- [Wedding](relationships-weddings.md) Supplies
   - January-March, December
 - Wedding Dresses
   - November

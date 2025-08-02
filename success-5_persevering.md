@@ -367,7 +367,7 @@ You will need to trust people:
 
 Constantly seek new coaches and confidants:
 
-- You will need a new coach for any new thing you want ([speaking](language-speaking.md), [writing](language-writing.md), [humor](humor.md), [parenting](people-parenting-1_babies.md), etc.).
+- You will need a new coach for any new thing you want ([speaking](language-speaking.md), [writing](language-writing.md), [humor](humor.md), [parenting](parenting-1_babies.md), etc.).
 - Your vulnerability revealed by your failures *should* nurture empathy from others.
 - Generally, it's much easier (and more effective) to get informal coaching from others than to have a formalized, designated "coach".
 - Ask for advice from them instead of favors.

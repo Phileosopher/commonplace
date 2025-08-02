@@ -85,14 +85,14 @@ Happiness is a terrible measurement of success:
 Don't compare yourself to others:
 
 - Each person has a different [personality](personality.md), so one person's success may simply be competence for someone else.
-- More specifically, a person is a success proportionally to how much they employ their conscientiousness: a low-conscientiousness person is doing well if they can hold down a [career](jobs-1_why.md) and [children](people-parenting-1_babies.md), while a hyper-conscientious person is only a success if they positively [change their community](mgmt-1_why.md).
+- More specifically, a person is a success proportionally to how much they employ their conscientiousness: a low-conscientiousness person is doing well if they can hold down a [career](jobs-1_why.md) and [children](parenting-1_babies.md), while a hyper-conscientious person is only a success if they positively [change their community](mgmt-1_why.md).
 - Most of the successful people are a unique kind of stubborn, where they disregard at least some of [society's trends](trends.md) while pursuing a noble goal.
 
 ## The best success is internal
 
 Everything in the physical world changes, decays, and [becomes obsolete](trends.md).
 
-Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](people-relationships-1_why.md), [large organizations](groupslarge.md)).
+Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-1_why.md), [large organizations](groupslarge.md)).
 
 The most long-lasting success involves self-discipline:
 

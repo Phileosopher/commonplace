@@ -123,7 +123,7 @@ Israel's consideration:
   3. Don't take God's name lightly
      - Punishment is guaranteed for those who do
   4. Remember the Sabbath by working 6 days and resting on the 7th
-  5. Honor your [parents](people-parenting-1_babies.md)
+  5. Honor your [parents](parenting-1_babies.md)
   6. Don't murder
   7. Don't commit adultery
   8. Don't steal
@@ -264,5 +264,5 @@ Altogether, the relationship with God is straightforward:
    - As an all-encompassing concept, we are responsible to be faithful, which means we believe He'll keep His word.
 4. From there, we are to pass on that relationship with God to our neighbors, where *we* are their patron and God is the client.
    - The role is reversed through a secondary connection ([Matthew 25:31-46](https://biblehub.com/matthew/25.htm)).
-   - This can include [parenting](people-parenting-2_children.md), [helping people in hardship](hardship.md), and [serving the community](church-serve.md).
+   - This can include [parenting](parenting-2_children.md), [helping people in hardship](hardship.md), and [serving the community](church-serve.md).
 5. If anyone expresses gratitude, forward it to God as the ultimate patron.

@@ -153,7 +153,7 @@ Pain
 - Inflicting pain (sadism)
 - Receiving pain (masochism)
 
-[Relationships](people-relationships-3_marriage.md)
+[Relationships](relationships-3_marriage.md)
 
 - Love/Romance
 - Sex (nymphomania)

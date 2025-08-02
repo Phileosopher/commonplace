@@ -1,7 +1,7 @@
 
 # How to homeschool
 
-Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](people-parenting-2_children.md) [education](pedagogy.md).
+Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-2_children.md) [education](pedagogy.md).
 
 - The quality of a formalized education is defined by the educational quality of the teacher, divided by the class size (since they can only devote attention proportionally to your child).
 - Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](trends.md), and has profound [political consequences](politics-conservativeliberal.md).
@@ -15,15 +15,15 @@ The quality of a homeschool child's education comes directly from a few sources:
 Homeschooling your child is effectively a part-time job.
 
 - If you're a homemaker in a double-income household, you can easily splice the work with your other responsibilities.
-- [Raising children in general](people-parenting-2_children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](pedagogy.md) a small child alongside their work.
+- [Raising children in general](parenting-2_children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](pedagogy.md) a small child alongside their work.
 
 Homeschooling children is *not* necessarily better or worse.
 
 - Bad parenting would make a child less well-adjusted than if they went to a public school, even if they were more educated about certain domains.
 - In non-nuclear homes (e.g., single parenting), it's often simply not possible to homeschool and would require someone else to educate them.
-- Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](people-parenting-2_children.md).
+- Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](parenting-2_children.md).
 
-If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](people-parenting-2_children.md), and sufficiently committed to raising them [with someone else](people-relationships-3_marriage.md), educating your child isn't difficult.
+If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-2_children.md), and sufficiently committed to raising them [with someone else](relationships-3_marriage.md), educating your child isn't difficult.
 
 - Public school education systems often use [dark patterns](design-uxui.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
 
@@ -81,7 +81,7 @@ C. Don't over-test or over-drill them.
 
 D. Every good homeschool parent *must* be humble.
 
-- You're *not* qualified to teach them everything about life, and alongside [your spouse](people-relationships-3_marriage.md), you'll still miss some parts.
+- You're *not* qualified to teach them everything about life, and alongside [your spouse](relationships-3_marriage.md), you'll still miss some parts.
   - You will absolutely *need* to find [specialists](jobs-specialization.md) in the areas you don't understand as well, typically through your community or homeschool groups.
 - You will *not* be able to shelter your children, even if you homeschool them.
   - Parents who obsess about protecting their children's innocence tend to raise bad kids who are good at concealing bad behavior.
@@ -249,7 +249,7 @@ It's worth noting that these are all *approximate*. Your [culture](culture.md) w
 
 ### Pre-K
 
-Since you're trying to raise your children instead of [acculturate](culture.md) them to a [learning-restrictive](pedagogy.md) classroom environment, keep working on [qualities that make moral, hard-working children](people-parenting-2_children.md).
+Since you're trying to raise your children instead of [acculturate](culture.md) them to a [learning-restrictive](pedagogy.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
 
 You can teach small children as young as 3 years old to read:
 
@@ -703,11 +703,11 @@ Many [colleges](jobs-college.md) don't necessarily look at early graduation as a
 - Instead, if they want college, they should use that extra time to accrue extra college credit via dual enrollment.
 - While their academic achievement may matter, they should *also* spend time on personal development (e.g., [making friends](people-4_friends.md), [pursuing hobbies](fun.md)).
 
-Their [coming of age](people-parenting-3_teenagers.md) involves several possible scenarios:
+Their [coming of age](parenting-3_teenagers.md) involves several possible scenarios:
 
 1. They move out to [explore their career](jobs-1_why.md) with what you've given them.
 2. They adopt [something related](jobs-specialization.md) to *your* career.
 3. If they don't like either of those two options, they'll have to find their path (which guarantees moving out if you [live somewhat remotely](home-homestead.md)).
-4. If you can afford it, [send them](people-parenting-3_teenagers.md) on a journey:
+4. If you can afford it, [send them](parenting-3_teenagers.md) on a journey:
    - Send them to [college](jobs-college.md).
    - Give them a few thousand dollars and a one-way ticket to somewhere they want to travel (e.g., Europe).

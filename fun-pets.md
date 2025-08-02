@@ -13,7 +13,7 @@ Science has proven that pets give people healthier and longer lives:
 
 Even with all the maintenance, pets make people [happier](happiness.md) and [successful](success-1_why.md).
 
-A pet, especially a dog, is also great practice for [small children](people-parenting-1_babies.md).
+A pet, especially a dog, is also great practice for [small children](parenting-1_babies.md).
 
 At the same time, a pet isn't a replacement for meaningful human relationships:
 
@@ -64,7 +64,7 @@ Most instincts are either built-in genetic habits or conditioning:
 
 - An animal has a rudimentary version of our [habits](habits.md), but with no [self-awareness](awareness.md) to reprogram them.
 - You can usually train *any* animal to perform tricks if you're patient enough.
-- Working with most social animals (e.g., dogs, rats) is basic [child psychology](people-parenting-2_children.md).
+- Working with most social animals (e.g., dogs, rats) is basic [child psychology](parenting-2_children.md).
   - Set and vigorously enforce clear boundaries.
   - Reward good behavior and punish bad behavior.
   - Your success comes from how consistent you are, not how intensive.

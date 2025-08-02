@@ -150,7 +150,7 @@ Most people restate the same tired reasons why they don't believe they can do so
 - "It's too crazy": most celebrated success stories were once "impossible"
 - "I'm not talented/gifted enough": most successful people are mediocre
 - "If I work hard, I'll succeed no matter what": focus on the value you add, not how much you do
-- "I want to be a great family person": a [great parent](people-parenting-2_children.md) has a great career
+- "I want to be a great family person": a [great parent](parenting-2_children.md) has a great career
 - "I'm all alone": other successful people have been in your situation
 
 If you unconsciously *want* to fail, you'll seek advice so you have someone to blame for your failure.
@@ -301,7 +301,7 @@ A full life is approximately 78 years:
 - 3.5 years of learning in a school setting
 - 2.5 years grooming
 - 2.5 years shopping
-- 1.5 years of [raising children](people-parenting-2_children.md)
+- 1.5 years of [raising children](parenting-2_children.md)
 - 1.3 years commuting
 - 9 years left over as "free time"
 

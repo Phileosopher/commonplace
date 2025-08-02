@@ -89,7 +89,7 @@ Since males and females don't [think](understanding.md) precisely the same way, 
 
 Generally, while anyone can agree on mistreatment and dehumanization of one gender (specifically females), it's self-evident that since about 50% of people are males, both females and males should find an agreement on things that are equal.
 
-- Given [the absurdly difficult challenges natural to merely living in the same building together](people-relationships-3_marriage.md), we should start with imitating the modeling done within the vast variety of healthy marriages sprinkled across society.
+- Given [the absurdly difficult challenges natural to merely living in the same building together](relationships-3_marriage.md), we should start with imitating the modeling done within the vast variety of healthy marriages sprinkled across society.
 
 ## Goal 6: Clean Water and Sanitation
 

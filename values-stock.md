@@ -218,7 +218,7 @@ Romantic [love](people-love.md):
 
 [Family](people-family.md):
 
-- [Having children](people-parenting-2_children.md) will elevate your [marriage](people-relationships-3_marriage.md).
+- [Having children](parenting-2_children.md) will elevate your [marriage](relationships-3_marriage.md).
 - Having children makes us [grow up](maturity.md).
 - Children are innocent.
 - Children are cruel.

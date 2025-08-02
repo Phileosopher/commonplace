@@ -375,7 +375,7 @@ If you're invited to a wedding you can't afford:
 - You can still miss a wedding and be friends with the bride and groom.
   - Be honest with them if you can't afford to go.
   - Let them know as soon as possible.
-  - Don't blame their [wedding choices](people-relationships-weddings.md) or imply you're a victim.
+  - Don't blame their [wedding choices](relationships-weddings.md) or imply you're a victim.
   - Offer something else, like helping to plan or offering dinner after the honeymoon.
 
 There are many customs specific to each culture:

@@ -33,21 +33,21 @@ Not all stress is bad:
 
 Are you suffering severe physical or emotional pain?
 
-- You may have a medical condition causing pain, or may have [just had a breakup or divorce](people-relationships-2_dating.md), or could simply be in extreme solitude.
+- You may have a medical condition causing pain, or may have [just had a breakup or divorce](relationships-3_dating.md), or could simply be in extreme solitude.
 - Whatever the case is, acknowledge that it's [real](reality.md), but that it's okay to feel terrified or sad.
 - Avoid making any [large-scale goals](success-3_goals.md) during the darkest times, and [reach out to people who will support and encourage you](people-4_friends.md).
 - Often, if the problem persists long enough, it'll become more bearable, but don't let it ever become your "normal".
 
 Do you have chronic long-term problems?
 
-- You might have [money issues](money-1_why.md), [relationship](people-relationships-1_why.md)/[family](people-parenting-2_children.md) problems, or are constantly pushing up against [deadlines](success-4_routine.md).
+- You might have [money issues](money-1_why.md), [relationship](relationships-1_why.md)/[family](parenting-2_children.md) problems, or are constantly pushing up against [deadlines](success-4_routine.md).
 - You usually can't fix most issues with others, but can often minimize their effects.
 - You *can*, however, usually fix or minimize most personal issues like money or time management as far as your willpower can persist.
 - Whatever your situation, you'll only succeed if you submit it all to [a power greater than yourself](jesus-gospel.md).
 
 Have you experienced any major life changes?
 
-- You could be [moving](home-moving.md) or [changing jobs](jobs-6_negotiating.md), someone could be moving in with you or moving out, you might be getting engaged or [newly married](people-relationships-weddings.md), or [having a baby](people-parenting-1_babies.md).
+- You could be [moving](home-moving.md) or [changing jobs](jobs-6_negotiating.md), someone could be moving in with you or moving out, you might be getting engaged or [newly married](relationships-weddings.md), or [having a baby](parenting-1_babies.md).
 - Major life changes naturally cause stress and [incapacitate us](hardship.md), and that's perfectly okay.
 
 Are you happy with your job?
@@ -174,7 +174,7 @@ Psychological needs relate to how we see ourselves in the world:
 - The need to see [evidence of growth or improvement](mind-creativity-results.md)
 - The need for to [be certain about something](understanding-certainty.md)
 - The need for [something to work toward](meaning.md) or [be a part of](groupssmall.md), as well as [evidence of success](success-1_why.md)
-- The need to help other people do the same, often via [parenting](people-parenting-1_babies.md) or [management](mgmt-1_why.md)
+- The need to help other people do the same, often via [parenting](parenting-1_babies.md) or [management](mgmt-1_why.md)
 
 Frequently, most things we do meet multiple physical/psychological needs at once.
 

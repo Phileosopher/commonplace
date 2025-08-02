@@ -114,7 +114,7 @@ If you need something more severe:
 
 - Look at photos or videos of other people sleeping.
 - Read a boring book in bed.
-- Cuddle with or have sex with [your significant other](people-relationships-3_marriage.md) before going to bed.
+- Cuddle with or have sex with [your significant other](relationships-3_marriage.md) before going to bed.
 - Play the didgeridoo.
 - Go camping for a week without electronics to synchronize to sunrise and sunset.
 - If you can afford it, get a vibrating bed and set it at the lowest setting.

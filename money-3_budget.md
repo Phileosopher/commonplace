@@ -35,7 +35,7 @@ You will need your life partner on the same page as you:
 - [Disagreements](people-conflicts.md) about money are normal.
   - The only solution is to talk through them.
   - Learn to compromise with your partner to succeed with them.
-- If you [can't trust your partner](people-relationships-3_marriage.md) with your money, separate your assets to avoid more misery.
+- If you [can't trust your partner](relationships-3_marriage.md) with your money, separate your assets to avoid more misery.
 
 Money conflicts take time and practice to work through:
 
@@ -50,7 +50,7 @@ One of you won't like budgeting as much as the other one:
 3. The other person *must* amend something in the budget.
 4. The meeting should only last 15 minutes, with both of them agreeing to stick to the budget.
 
-If you have [children](people-parenting-2_children.md), involve them in the meetings to teach them how planning affects your financial life and theirs.
+If you have [children](parenting-2_children.md), involve them in the meetings to teach them how planning affects your financial life and theirs.
 
 ## Start with the big picture
 
@@ -123,7 +123,7 @@ D. Invest at least 15% of your household income into your retirement (varies fro
 
 E. Save for your children (varies based on their expected education and lifestyle):
 
-- Save for [your children](people-parenting-2_children.md) only after you've accumulated enough to survive through your retirement:
+- Save for [your children](parenting-2_children.md) only after you've accumulated enough to survive through your retirement:
   - You should be able to live off your asset growth without having to dip into the principal you've invested.
   - You will burden your children tremendously later in their lives if you require them to support you.
   - Their [college](jobs-college.md) doesn't guarantee success, but expecting them to take care of you increases their chances of failure.
@@ -386,7 +386,7 @@ Saving for larger purposes should be ~10% of income at first, but should eventua
 - [Vacations](fun-vacations.md)
 - [Parties](people-parties.md)
 - Home repairs and improvements
-- [Weddings](people-relationships-weddings.md)
+- [Weddings](relationships-weddings.md)
 - Retirement
 - [College](jobs-college.md) for your kids
 

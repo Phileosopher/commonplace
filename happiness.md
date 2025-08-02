@@ -47,7 +47,7 @@ Pleasant things by themselves don't connect to inner happiness:
   - Possessions may give a rush when acquired, but the excitement fades quickly.
   - [Career success](jobs-1_why.md) comes with many happiness-suppressing responsibilities and sacrifices.
   - Sexual pleasure and physical intimacy give the most intense human experience without many adverse consequences, but the rush fades quickly and diminishes in intensity with [age](hardship.md).
-  - [Romantic relationships](people-relationships-1_why.md) and [friendships](people-4_friends.md) give connection and meaning, but people have to tend to other matters and will leave you alone for part of the day.
+  - [Romantic relationships](relationships-1_why.md) and [friendships](people-4_friends.md) give connection and meaning, but people have to tend to other matters and will leave you alone for part of the day.
   - Safety provides comfort, but never [purpose](purpose.md) or satisfaction.
   - [Success](success-1_why.md) may provoke happiness, but it never guarantees it.
 - Any other enjoyable experience or series of experiences (concert, movie, game, song, or anything else) fades.

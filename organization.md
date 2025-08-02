@@ -205,7 +205,7 @@ Bedrooms:
 - Don't let clothes sit on the bed or drape over furniture.
 - Keep all dirty laundry in a hamper or basket.
 - Only slide items under the bed in shallow plastic tubs to prevent dust or clutter and allow easy access.
-- [Teach your children](people-parenting-2_children.md) that they lose toys they don't pick up every day.
+- [Teach your children](parenting-2_children.md) that they lose toys they don't pick up every day.
 
 Downsizing clothes:
 
