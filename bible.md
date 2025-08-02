@@ -1,5 +1,5 @@
 
-# The Bible
+# What the Bible is
 
 [Nature](reality.md) and [science](science.md) provides *some* insight about God:
 
