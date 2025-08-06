@@ -94,7 +94,7 @@ Abram's consideration:
 
 God's later consideration:
 
-- God later showed [the promised land](/israel/) in [Genesis 15:18-21](https://biblehub.com/genesis/15.htm) and [Genesis 13:14-17](https://biblehub.com/genesis/13.htm)
+- God later showed [the promised land](history-israel.md) in [Genesis 15:18-21](https://biblehub.com/genesis/15.htm) and [Genesis 13:14-17](https://biblehub.com/genesis/13.htm)
   - Went from the Nile River to the Euphrates
 
 Signature:
@@ -211,13 +211,13 @@ God's consideration:
 
 There are *many* implied aspects to how we see this contract that fall into error:
 
-- The [Pelagian heresy](/conflicts/) is us thinking we can work our way to Christ instead of receiving His grace.
-- The [Protestant Reformation](/solas/) revolves around Christians trusting God or trusting man for their redemption.
-- Pentecostals, among [other denominations and cults](/history/), add further works to what God is promising.
+- The [Pelagian heresy](conflicts-christian.md) is us thinking we can work our way to Christ instead of receiving His grace.
+- The [Protestant Reformation](theology-solae.md) revolves around Christians trusting God or trusting man for their redemption.
+- Pentecostals, among [other denominations and cults](history-church.md), add further works to what God is promising.
 
 ## 9. Millennial Covenant
 
-An as-of-yet unestablished agreement between the remaining people [after the Apocalypse](/millennium/) ([Revelation 21](https://biblehub.com/revelation/21.htm))
+An as-of-yet unestablished agreement between the remaining people [after the Apocalypse](https://theologos.site/millennium/) ([Revelation 21](https://biblehub.com/revelation/21.htm))
 
 Alluded to as the final fulfillment of the Christ covenant ([Jeremiah 31:26-40](https://biblehub.com/jeremiah/31.htm), [Ezekiel 36:28-30](https://biblehub.com/ezekiel/36.htm))
 

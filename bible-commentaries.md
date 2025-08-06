@@ -1369,7 +1369,7 @@ The Gospels Compared/Gospel Splice
 3. Holistic
 4. Matthew through John
    - [StudyLight](https://www.studylight.org/commentaries/eng/tgc.html)
-   - [TheoLogos](/wp-content/uploads/2022/02/Gospel-Splice.pdf)
+   - [TheoLogos](https://theologos.site/wp-content/uploads/2022/02/Gospel-Splice.pdf)
 
 Old & New Testament Restoration Commentary
 

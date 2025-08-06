@@ -3,7 +3,7 @@
 
 These are the biases and fallacies that define and distort how we [understand](understanding.md) the world around us.
 
-While cognitive bias and fallacy crafts a [false image](/image/) relative to [reality](/reality/), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
+While cognitive bias and fallacy crafts a [false image](image.md) relative to [reality](reality.md), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
 
 - There's *much* less mental work from filtering out information or converting it into a [story](stories.md).
 - Quick-and-easy solutions lets us sift through *much* more information, even if it's not that thorough.
@@ -62,7 +62,7 @@ Anthropomorphism/anthropocentrism - we assume human-like traits and experiences 
 
 Appeal to probability/appeal to possibility - we assume a likely thing is a guaranteed thing
 
-Argument from ignorance - we accept strange explanations when we're [uncertain](/unknown/)
+Argument from ignorance - we accept strange explanations when we're [uncertain](unknown.md)
 
 Bulverism - we will claim A, and because of B want A to be true, so A is false
 
@@ -244,7 +244,7 @@ Law of the instrument/law of the hammer/Maslow's gavel/golden hammer - the thing
 
 Less-is-better effect - we prefer smaller amounts of uneven comparisons when observing them separately, then reverse our preference when they're observed together
 
-Money illusion/price illusion - we measure money based on its relative number instead of [what it can do](/purpose/) for us
+Money illusion/price illusion - we measure money based on its relative number instead of [what it can do](purpose.md) for us
 
 Prosecutor's fallacy - we reject an event's explanation even though our preferred expectation is even *more* unlikely
 
@@ -298,7 +298,7 @@ Disposition effect - we tend to keep bad investments and sell good investments
 
 Dunning-Kruger effect - we overestimate our skills when we don't know much and underestimate skills when we're highly qualified
 
-End-of-history illusion - we expect we'll [change](/change/) less in the future than we did up through now
+End-of-history illusion - we expect we'll [change](changes.md) less in the future than we did up through now
 
 Form function attribution bias - we assume the way something looks is how it's used
 

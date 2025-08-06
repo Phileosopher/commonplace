@@ -1,7 +1,7 @@
 
 # List of computer industry jobs
 
-There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](/prog/), but not all of them require [coding](programming-basics.md).
+There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](programming-basics.md), but not all of them require [coding](programming-basics.md).
 
 To anyone who notices, these are *not* mutually exclusive roles, and they frequently bleed into each other.
 
@@ -77,7 +77,7 @@ Maintaining things (for those who prefer [routine](habits.md)):
 - **Cybersecurity Specialist** verifies that [computers are safe](computers-cysec.md).
   - **Cybersecurity Analyst** spends lots of time making *really* sure that computers are safe.
   - **Security Operations Center (SOC) Analyst** makes sure computers are safe.
-- **Penetration Tester** [acts like a hacker](/pentest/) before the [hackers](hacking.md) get to a system.
+- **Penetration Tester** [acts like a hacker](computers-cysec-pentest.md) before the [hackers](hacking.md) get to a system.
   - **Vulnerability Analyst** checks for vulnerabilities.
 - **DevSecOps** does *everything* to protect computers.
 - **Security Architect** makes sure [organizations](groupslarge.md)' computer systems are safe enough.

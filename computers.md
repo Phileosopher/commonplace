@@ -99,7 +99,7 @@ Computers automatically store your important documents in a few specific folders
 - Inside the folder specifically designated for the program (especially game save files and settings)
 - Sometimes, you might have a proprietary system that manages files elsewhere and hides that they're files (like many programs that run in web browsers).
 
-To safely manage files, [stay organized](/organization/) by creating folders inside folders as needed.
+To safely manage files, [stay organized](organization.md) by creating folders inside folders as needed.
 
 ## Most computer problems are simple
 

@@ -160,7 +160,7 @@ While staying sexually pure has no adverse health effects, the devil tells us se
 The Satan will magnify our attention on daily nuisances people may have with one another, through a predictable cycle:
 
 1. Create obliviousness to personal failings, to the point that they'd have to *seriously* [self-reflect](awareness.md) to discover them.
-2. Shift [prayer requests](/prayer/) from an actual person into an [imagined caricature](imagination.md) of that person, thereby making the prayers vague and less effective, while also aggravating the person as they're trying to give their problems to God.
+2. Shift [prayer requests](god-prayer.md) from an actual person into an [imagined caricature](imagination.md) of that person, thereby making the prayers vague and less effective, while also aggravating the person as they're trying to give their problems to God.
 3. Magnify relatively irrelevant but slightly annoying behavior quirks to make them feel malicious, horrible, or [evil](morality-evil.md).
 4. Build a self-righteousness with a double standard about appropriate [conduct](culture.md).
 5. Magnify any [feelings](mind-feelings.md) of [injustice](morality-justice.md) or jealousy.

@@ -269,7 +269,7 @@ If the fight is too distracting or constricting, [take a nap](sleep-naps.md).
 
 ## Streamline everything
 
-Write down everything, since you will *not* [remember it](/memory/).
+Write down everything, since you will *not* [remember it](mind-memory.md).
 
 If you ever find yourself wondering where your "good knife" or "good pen" are, then you have bad ones you must get rid of.
 
@@ -279,7 +279,7 @@ Since it secures anything when there's tension on it, and it's easy to untie, le
 
 When carrying a load you doubt you'll make in one trip, make it two.
 
-If you lose anything, it's typically hiding within arm's reach of where you last saw it, which often means you need to [organize your space](/organization/).
+If you lose anything, it's typically hiding within arm's reach of where you last saw it, which often means you need to [organize your space](organization.md).
 
 If you lose something, put it back where you first looked for it, *not* where you found it.
 

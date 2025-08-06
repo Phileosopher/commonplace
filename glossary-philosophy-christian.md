@@ -242,7 +242,7 @@ True
 Possible (and useful)
 
 - Creationism (in a few forms)
-  - Young Earth creationism (driven by either [scientific beliefs](https://gainedin.site/science/) or [the Bible](/bible/) directly)
+  - Young Earth creationism (driven by either [scientific beliefs](science.md) or [the Bible](bible.md) directly)
   - Omphalos creationism (which effectively throws out scientific beliefs)
 
 Possible (somewhat)

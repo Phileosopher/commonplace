@@ -7,7 +7,7 @@ This is a list of known productivity systems.
 
 ## The Action Method
 
-For cleaning up [creative brainstorming](/creativity/).
+For cleaning up [creative brainstorming](mind-creativity.md).
 
 - Action Items - steps to get the project done.
 - Back-burner Items - interesting ideas that don't quite fit into the project.

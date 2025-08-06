@@ -27,7 +27,7 @@ Always leave a few comments, on *any* project:
 
 ## Git Commits
 
-To keep track of what you change, it's *critical* to maintain good notes, especially [when things break](/software-maintenance/). Thankfully, Git has the feature built-in with mandatory notes for "commits".
+To keep track of what you change, it's *critical* to maintain good notes, especially [when things break](computers-software-maintenance.md). Thankfully, Git has the feature built-in with mandatory notes for "commits".
 
 There are a few important ways to write good Git commits:
 

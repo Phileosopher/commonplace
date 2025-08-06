@@ -89,7 +89,7 @@ Get a heating element:
 Use a good teapot:
 
 - A teapot is both the brewing chamber and prevents the tea from cooling.
-  - You can use glass measuring cups or anything else, but a dedicated teapot adds to the [ritual](/habits/).
+  - You can use glass measuring cups or anything else, but a dedicated teapot adds to the [ritual](habits.md).
   - Cast-iron teapots are often expensive, but they can absorb and retain plenty of heat.
   - Ceramic and porcelain are usually cheaper than iron and transfer heat very slowly.
 - A decent teapot comes with an infuser.

@@ -242,7 +242,7 @@ Multi-Organization - Referencing
 [Statistics](math-stat.md)
 
 - Change the sample sizes of different sources, or use particularly small samples.
-- Gather data from intentionally [biased](/bias/) sources.
+- Gather data from intentionally [biased](mind-bias.md) sources.
   - Use prior information to ensure the samples are primed to answer a certain way.
   - Make the sampling more difficult for specific things to get through (e.g., very long forms, hypersensitive litmus tests).
   - Shift the geographic locations of the sampling.

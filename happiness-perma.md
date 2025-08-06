@@ -18,7 +18,7 @@ Spend time in nature:
 
 Eat or drink something:
 
-- Have [coffee](/coffee/), [tea](/tea/) or juice, especially chamomile/green tea or orange juice.
+- Have [coffee](fun-coffee.md), [tea](fun-tea.md) or juice, especially chamomile/green tea or orange juice.
 - Chew cinnamon or peppermint gum.
 - Eat watermelon, bananas, grapes, or avocados.
 - Eat food with amino acids, like yogurt or nuts.

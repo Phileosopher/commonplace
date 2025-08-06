@@ -236,7 +236,7 @@ Crowd crush:
    - Research how many people will be at the location (especially standing up) and the venue's capacity, as well as the type of fans and music.
    - Go with a group of friends to keep track of each other.
    - Wear distinctive clothing to stand out, with comfortable shoes that are easy to move in.
-   - Bring plenty of fluids to stay hydrated, and be careful with [alcohol](/alcohol/) because it may dehydrate you.
+   - Bring plenty of fluids to stay hydrated, and be careful with [alcohol](fun-alcohol.md) because it may dehydrate you.
 2. Arriving:
    - Park close to an exit, even if you have to walk farther, so you can quickly get to your vehicle.
    - Locate *all* nearby exits in the venue.

@@ -55,7 +55,7 @@ Violating our relationship with God:
 - Failing to worship God ([Matthew 4:10](https://biblehub.com/matthew/4-10.htm))
 - Not praying for the Lord of the Harvest to send workers ([Matthew 9:38](https://biblehub.com/matthew/9-38.htm))
 - Not being filled with the Holy Spirit and walking in His power ([Galatians 5:25](https://biblehub.com/galatians/5-25.htm), [Ephesians 5:18](https://biblehub.com/ephesians/5-18.htm))
-- Not [sharing the gospel](/gospel/) and [making disciples](/discipleship/) of people who accept Christ ([Matthew 28:18-20](https://biblehub.com/bsb/matthew/28.htm))
+- Not [sharing the gospel](jesus-gospel.md) and [making disciples](spiritual-discipleship.md) of people who accept Christ ([Matthew 28:18-20](https://biblehub.com/bsb/matthew/28.htm))
 - Not seeking first the Kingdom of God and His righteousness ([Matthew 6:33](https://biblehub.com/matthew/6-33.htm))
 - Not presenting our bodies as living sacrifices ([Romans 12:1-2](https://biblehub.com/bsb/romans/12.htm))
 - Not praying in the Spirit ([Ephesians 6:18](https://biblehub.com/ephesians/6-18.htm))

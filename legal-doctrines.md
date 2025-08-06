@@ -183,7 +183,7 @@ Male captus, bene detentus - Latin for "wrongfully captured, properly detained",
 Mater semper certa est - Latin for "the mother is always certain", the mother of the child is conclusively established, from the moment of birth, by the mother's role in the birth (somewhat more complicated with in vitro fertilization)
 
 - Pater semper incertus est - Latin for "the father is always uncertain", the father of the child is never clearly defined
-- Pater est, quem nuptiae demonstrant - Latin for "the father is he to whom marriage points", being married can clarify who a child's father is (though [DNA](/science/) testing is now often more effective)
+- Pater est, quem nuptiae demonstrant - Latin for "the father is he to whom marriage points", being married can clarify who a child's father is (though [DNA](science.md) testing is now often more effective)
 
 Merger doctrine - one of several doctrines depending on the domain:
 

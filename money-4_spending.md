@@ -226,8 +226,8 @@ Delay all large purchases:
 
 Seek advice:
 
-- Ask your [significant other](/relationships/).
-- Talk with your [friends](/people-3/).
+- Ask your [significant other](relationships-3_marriage.md).
+- Talk with your [friends](people-3_respect.md).
 - [Pray](god-prayer.md) on the decision.
 
 Research what the marketplace looks like:

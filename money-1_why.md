@@ -109,7 +109,7 @@ Statistically, most millionaires fit a more humble profile:
 - Allocates time, energy, and money efficiently to effectively build wealth.
 - First-generation affluence, with an average net worth acquired slowly over time of $3.7 million.
 - Invests an average of 20% of their median household income of $131,000.
-- They never play the lottery and avoid [debts](/money-2/) they can't quickly pay back.
+- They never play the lottery and avoid [debts](money-2_debt.md) they can't quickly pay back.
 - Live well below their means:
   - Owns a [home](home-buysell.md) worth about $350,000.
   - Buys older-model [automobiles](autos.md) and never leases.

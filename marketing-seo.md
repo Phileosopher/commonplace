@@ -61,7 +61,7 @@ When creating the site:
 - The web domain (something.com) should associate to what you sell.
 - Keep the homepage clutter-free with a separate blog page.
 - Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-webdev.md) headaches with form fills and caching.
-- The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](/design/) the user.
+- The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](design-uxui.md) the user.
 - While it may be tempting to expand your leads with a mailing list, only ask about the mailing list *after* the product was sold.
 
 To make search engines favor your site and users enjoy the experience, optimize it for speed:
@@ -89,7 +89,7 @@ Use guerrilla marketing to get site views:
   - Attach them to public bulletin boards.
   - Place them in library books associated with your business.
   - Put one in a contest fishbowl.
-- Find a common frustration (e.g., vandalism, [bureaucracy](/bureaucracy/)), then place branded fliers nearby with requests to email feedback.
+- Find a common frustration (e.g., vandalism, [bureaucracy](bureaucracy.md)), then place branded fliers nearby with requests to email feedback.
 - Connect with influential people by connecting with less-influential people they know first.
 - Give a commission of *your* commission to other people who refer business to you.
 - Provide a free community service, with casual advertisements for more service if they're interested.

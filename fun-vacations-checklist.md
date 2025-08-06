@@ -190,7 +190,7 @@ Within 6 months
 Within 3 months
 
 [ ] Reserve lodging
-[ ] Arrange for a [pet](/pets/)-sitter
+[ ] Arrange for a [pet](fun-pets.md)-sitter
 [ ] Traveler's [insurance](insurance.md)
 [ ] Have the post office hold mail
 [ ] Set up lawn care

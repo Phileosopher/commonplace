@@ -103,7 +103,7 @@ Use the Holmes-Rahe Stress Inventory to track your longer-term stressors:
    - You've taken on a [large debt](money-2_debt.md) - 31
    - You've foreclosed or defaulted on a mortgage or loan - 30
    - You've had a change in responsibilities at work - 29
-   - Your son or daughter [has left home](/parenting-3/ target=) - 29
+   - Your son or daughter [has left home](parenting-3_teenagers.md) - 29
    - You're having [trouble](people-conflicts.md) with your in-laws - 29
    - You've had an outstanding [personal achievement](success-1_why.md) - 28
    - Your spouse has begun or stopped working - 26

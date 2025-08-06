@@ -250,11 +250,11 @@ Callback - a function in code that feeds backward in time into another function,
 
 Callback hell - many callbacks that slow down code and make it difficult to understand
 
-Canonical - a standardized input format that's the "right" way for the computer to understand, often specific in [technical documentation](/documentation/)
+Canonical - a standardized input format that's the "right" way for the computer to understand, often specific in [technical documentation](documentation-technical.md)
 
 Capacitor - two surfaces close to each other separated by an insulator, a means of holding a charge for future use (such as memory)
 
-Captive portal - a proxy server that blocks access to the rest of a network until a user does something, often involves consenting to [Terms of Service](https://notageni.us/contracts/)
+Captive portal - a proxy server that blocks access to the rest of a network until a user does something, often involves consenting to [Terms of Service](contracts.md)
 
 Carry - the product of a half-adder, the leftmost number of adding, like the carry of normal algebra but used *way* more often in binary
 
@@ -1028,7 +1028,7 @@ Liquid layout - a ratio determined by a percentage inside an element or screen i
 
 List - Multiple data put together, doesn't have to be the same type
 
-LLC - logical link control, a subset of the [Data Link layer](/networks/) that deals with directing information to and from various nodes, moves from media access control (MAC)
+LLC - logical link control, a subset of the [Data Link layer](networks-computer.md) that deals with directing information to and from various nodes, moves from media access control (MAC)
 
 Load - a logic gate selector to dictate whether a register should hold the old information or overwrite it with the new information
 

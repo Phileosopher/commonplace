@@ -17,7 +17,7 @@ Types of thought experiments:
 - Retrodiction - Going back in time step-by-step, what ultimately caused the event? (a common form of gaining [wisdom](understanding.md))
 - Backcasting - Assuming a specific event in the future, what things step-by-step could have theoretically caused that event? (often used for lofty science fiction and fantasy)
 
-If you start mixing [math](/math/) into your thought experiments, you've just swerved into the realm of [game theory](math-gametheory.md).
+If you start mixing [math](math.md) into your thought experiments, you've just swerved into the realm of [game theory](math-gametheory.md).
 
 If you like thought experiments, you can make your own:
 

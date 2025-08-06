@@ -178,7 +178,7 @@ The [Natural World](reality.md):
 - Follow core virtues.
 - What you do when nobody else can see matters.
 - Evil is easy, but doing the right thing is hard.
-- [Evil](/evil/) people can't understand the value of being good, so they'll eventually fail.
+- [Evil](morality-evil.md) people can't understand the value of being good, so they'll eventually fail.
 
 [Friendship](people-4_friends.md):
 
