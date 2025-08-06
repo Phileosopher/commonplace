@@ -192,7 +192,7 @@ Hope (even if it's false)
 Sadness
 
 - Depression
-- Grief
+- Grief (PGD, or Prolonged Grief Disorder)
 
 Imagining things
 
