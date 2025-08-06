@@ -1,11 +1,27 @@
 
 # Creativity
 
+## Why creativity matters
+
+Creativity is the ability to create, and it usually implies imagination or original ideas. While it's often not *new* ideas, it's usually breaking from [expected behavior](habits.md).
+
+Creativity isn't simply useful: *all* the consistent aspects of [success](success-1_why.md) require creativity.
+
+People often venerate creativity and imagine it requires talent, but [anyone can be creative](mind-creativity-how.md). And, if someone *can* create but they don't, they prevent the rest of us from having an increased [awareness](awareness.md) of the world.
+
+## The essence of creativity
+
+[Our minds](understanding.md) are messy, so most creative endeavors (and the creative process) is messy:
+
+- Creative endeavors and our source of inspiration are [an inherent mystery](unknown.md).
+- Within the human mind, any sense of order is tailored and curated over numerous revisions.
+- Further, any simplicity or elegance comes from even *more* revisions.
+
 We create when our [decisions](decisions.md) become [actions](mind-creativity-results.md). *All* changes, from the [mind](changes.md) outward to what we can [communicate](language.md) or [build](mind-creativity-results.md), are technically "created" by us.
 
 Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
-All creations are meant to fulfil a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](fix.md)" that problem.
+All creations are meant to fulfill a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](fix.md)" that problem.
 
 Creativity is necessary for the [good life](goodlife.md). Without creating anything whatsoever, we tend to [feel](mind-feelings.md) boredom and [meaninglessness](meaning.md).
 
@@ -13,19 +29,19 @@ Each creative effort is unique to each person. No two people can make precisely 
 
 We form new ideas in our mind with nearly the same neurological wiring as [building things in our physical space](creations.md). The only difference is that physical things usually take more time to make and are harder to destroy.
 
-## Abstraction
+## Creativity as an abstraction
 
-As soon as we have an idea, we form a new [value](values.md) in our minds for it. From that point, we treat that value as a separate existence from everything else, even when it's a vague abstraction against an [unknown](unknown.md) setting.
+The very essence of an idea in our minds represents a new [value](values.md) for us. From the point we recognize it, we treat that value as a separate existence from everything else, even when it's a vague abstraction against an [unknown](unknown.md) setting.
 
-We tend to create various [stories](stories.md) off that initial value, especially if we [believe](understanding-certainty.md) it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness".
+We tend to create various [stories](stories.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](decisions.md) is worth the [risk](socialrisk.md).
 
-One fascinating aspect of this is that we can [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion-answers.md) [patterns](symbols.md) incorporated into it. Often, others can [create](creations.md) *more* than the person who had the idea in the first place, which can be explained through that second person's completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md).
+Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
-Even a [finished work](creations.md) is an incomplete idea. It's impossible to fully depict an abstracted form with the constraints of [reality](reality.md) around us, so we settle for "good enough". Of course, this reality means artist [culture](culture.md) is often tortured with [obsession](addiction.md) about gaining an unattainable perfection.
+While the idea may [feel](mind-feelings.md) complete in our mind, it never really is due to the limits of [how we can understand things](understanding.md). Converting the idea into a [finished work](creations.md) is even more imcomplete due to the constraints of [physics](reality.md). Therefore, it's impossible to fully depict or express an abstracted form, and we must settle for "good enough".
 
-Once a value is communicated, it spreads out as a small [trend](trends.md) proportional to its [influence](power-influence.md) in others' minds, with micro-trends spinning off it. Very often, big trends come from little trends that faded away long before the listener has processed that big idea later.
+However, once a value is communicated, in whatever form it takes, it spreads out as a small [trend](trends.md) proportional to its [influence](power-influence.md) in others' minds to re-share it, with micro-trends spinning off it in proportion to how much people dwell on the idea.
 
-## Why
+## Why we create
 
 Often, in this world, people create to gain [power](power.md) (often for money), but creations come from *many* motivations that are all [purposed](purpose.md) to add [value](values-quality.md):
 
@@ -51,7 +67,7 @@ Creators are always designing for a target audience, and their most important au
 
 The only way a creator can be sure they're communicating [quality](values-quality.md) is to receive it themselves as the consumer of the creation, a bit like looking in a mirror. Since it takes so much time, most people don't do it.
 
-## How
+## How we create
 
 Creativity always transitions through a few broad phases. We're building a new [story](stories.md) out of existing ones, so it's *always* messy and unpredictable. Since stories create themselves into new stories as we split and reassemble them, we're perpetually wading through a wall of incomplete things to get to our final [purpose](purpose.md).
 
@@ -132,7 +148,7 @@ Usually, the form of the creation will suggest things instead of telling them. A
 
 The familiar feeling is an illusion, and that creation is *highly* directed [chaos](unknown.md) that passed through the creator's [soul](humanity.md) and [habits](habits.md) to [transcend death](legacy.md) and allude to an inherent [religious](religion-answers.md) [significance](meaning.md). Even when the creator lives a relatively unimportant life otherwise, their creations are usually honored as independently magnificent.
 
-## Building
+## Why we act on ideas
 
 Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](understanding.md) how much [work](mind-creativity-results.md) some [creations](creations.md) can take.
 
@@ -140,4 +156,4 @@ Most of that work is unpleasant, so we try to find ways around it. We'll typical
 
 The creative process itself is always messy. Creators have a constant [inner war](conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
 
-The timing of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
+The [timing](datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
