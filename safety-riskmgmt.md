@@ -65,7 +65,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - [Budget](money-3_budget.md) for emergencies.
 - Install safety fixtures (e.g., fire extinguisher).
 - Keep [emergency supplies](disasters-checklist.md).
-- Prepare mentally for [specific survival situations](survival.md).
+- Prepare mentally for [specific survival situations](disasters-survival.md).
 - Always work with recommended safety equipment.
 
 ## Financial Protection
