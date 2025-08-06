@@ -1,5 +1,5 @@
 
-# Food substitutes
+# Food substitutes list
 
 Many substitutions change cooking times.
 
