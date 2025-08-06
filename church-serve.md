@@ -105,7 +105,7 @@ Teaching
 
 ## Across the World
 
-Advertise the [persecution](church-persecution.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
+Advertise the [persecution](hardship-persecution-church.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
 
 Cambodia has been a hellscape of a country for *decades*.
 
