@@ -109,7 +109,7 @@ When someone dies, everyone around you will *constantly* re-remind you:
 
 The sorrow will pass, and you'll be able to return to normal once you've worked through the experience and created new [habits](habits.md) without them:
 
-- There *is* a possibility you may continue have prolonged grieving (Prolonged Grief Disorder, or PGD), which, like [PTSD](ptsd.md), has [addictive properties](addiction-substances.md).
+- There *is* a possibility you may continue have prolonged grieving (Prolonged Grief Disorder, or PGD), which, like [PTSD](hardship-ptsd.md), has [addictive properties](addiction-substances.md).
 - However, your ability to direct your thoughts to other matters will slowly erode the severity of your [memories](mind-memory.md), even while it may be difficult to keep going.
 
 ## How to manage a death

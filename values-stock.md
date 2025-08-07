@@ -155,7 +155,7 @@ The [Natural World](reality.md):
 - You should always agree with your friends.
 - Having enemies is good for us.
 - Treat others with acceptance and tolerance.
-- You should [forgive](ptsd.md) people who hurt you.
+- You should [forgive](hardship-ptsd-release.md) people who hurt you.
 - Never forget what people who wronged you have done.
 
 [Technology](technology.md):
@@ -232,7 +232,7 @@ Romantic [love](people-love.md):
 
 - Justice eventually prevails.
 - Your enemy may have had a terrible childhood.
-- A [traumatic](ptsd.md) past doesn't justify doing [bad things](morality-evil.md) to others.
+- A [traumatic](hardship-ptsd.md) past doesn't justify doing [bad things](morality-evil.md) to others.
 - One person doing the right thing can change society.
 - Whoever is [strongest](power.md) defines what's right.
 - Whoever is most [moral](morality.md) is strongest.

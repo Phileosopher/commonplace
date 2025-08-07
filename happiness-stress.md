@@ -263,7 +263,7 @@ Actively choose instead of merely "picking":
 
 ### Misery Source #4: Unresolved Trauma
 
-We often hold onto [trauma](ptsd.md) long after the events have transpired.
+We often hold onto [trauma](hardship-ptsd.md) long after the events have transpired, and [we must release them](hardship-ptsd-release.md).
 
 ### Misery Source #5: Substance Abuse
 

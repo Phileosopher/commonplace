@@ -19,7 +19,7 @@ There are multiple signs of dysregulation:
 
 Dysregulation *does* have its time and place:
 
-- Usually, we need to temporarily dysregulate to persevere through the ugly parts of [success](success-1_why.md) (especially if we experienced childhood [trauma](ptsd.md)).
+- Usually, we need to temporarily dysregulate to persevere through the ugly parts of [success](success-1_why.md) (especially if we experienced childhood [trauma](hardship-ptsd.md)).
 - Spaced-out behavior and not feeling parts of your body makes unpleasant things easier to work through.
 - Trying many things together can often [build connections](mind-creativity.md) that otherwise wouldn't be connected.
 - Being clumsy or absent-minded can sometimes make boring experiences more interesting.

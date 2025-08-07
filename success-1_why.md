@@ -75,7 +75,7 @@ You have no clear picture of "balance":
 
 - Balance is always relative to two extremes, and varies widely between your culture and personal experience.
 - It's impossible to attain something you can't easily define.
-- [Unresolved trauma](ptsd.md) usually inspires people to misinterpret the center of the extremes.
+- [Unresolved trauma](hardship-ptsd.md) usually inspires people to misinterpret the center of the extremes.
 
 Happiness is a terrible measurement of success:
 

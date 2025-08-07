@@ -146,7 +146,7 @@ Memory inhibition effect - we partially don't remember things
 
 Perky effect - we mix up imagined and real images
 
-Persistence - we re-experience [painful memories](ptsd.md)
+Persistence - we re-experience [painful memories](hardship-ptsd.md)
 
 Picture superiority effect - we remember pictures more than words
 

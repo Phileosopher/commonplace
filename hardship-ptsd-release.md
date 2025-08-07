@@ -1,21 +1,5 @@
 
-# Trauma
-
-Anything that isn't completely resolved in our mind *will* come back to haunt us:
-
-- Memories of an event will force your mind to relive the shock over and over again, even after decades.
-- Our post-traumatic stress makes us react impulsively against something that [triggers](habits.md) a memory.
-
-We tend to incorrectly redirect past trauma through several possible pathways:
-
-- Overly personalized: making a broad thing too personal
-- Overly broad: making a general rule out of something specific
-- Permanent association: making a permanent rule out of something temporary
-- Non-association: treating the experience as *completely* unrelated to legitimately relevant things
-
-The only solution is to patiently expose ourselves to experiences that relive the trauma until we remove the harsh emotional ties to our past.
-
-## Releasing trauma
+# How to release trauma
 
 We tend to incorrectly redirect past trauma through several possible pathways:
 
@@ -37,11 +21,23 @@ We tend to incorrectly redirect past trauma through several possible pathways:
   - Pain medicine numbs emotional pain along with physical pain, but don't self-medicate unless you're making a critical decision you can't postpone.
 - If you can't break through after a few months of self-reflection, seriously consider professional psychotherapy to gain some traction.
 
-Release your feelings about anything you fear or resent:
+Before anything, accept that a traumatic event has happened:
+
+- Avoid making any additional judgments or adding any [meaning](meaning.md) to the trauma.
+- Treat yourself like a [scientist](science.md) or forensic researcher trying to examine what has transpired.
+- The purpose of this is to ground yourself in reality, but the pain doesn't go away and healing doesn't start until you start releasing it.
+
+Make accommodations for the trauma, but never stop revisiting it:
+
+- Give yourself grace over what you've experienced, but don't let yourself become a victim of your memories.
+- Exposure therapy is the act of revisiting and re-experiencing trauma, and is necessary for you to heal from it.
+
+When you are ready, release your feelings about anything you fear or resent:
 
 - The most effective place for [meditation](awareness-meditation.md) comes through how we can better [respond to triggers](habits.md).
   - You really can't do anything about the past, nor about others' actions, and the only person suffering from holding onto those feelings is you.
   - Whenever feelings arise, learn to repeat the mantra, "I'm having an emotional reaction."
+  - [Give it all to God](god-prayer.md) as you encounter the experiences.
   - At the end of any meditation session, you should only be focused on what you can actually do.
 - If you have any trouble, [write down](language-writing.md) "I fear...", then list those fears as they arise.
   - At the end, you should throw out or delete the list, which [symbolizes](symbols.md) that the fears don't really matter.
@@ -90,7 +86,18 @@ However, it's *not* instant, and the Enright Process captures its 4 phases:
 4. Deepening: finding a type of [meaning](meaning.md) through giving up control.
    - Contrary to *any* intuition of an unforgiving person, releasing control gives a stronger connection with others, decreases negative experiences, and can often give more purpose in the rest of life.
 
+Accept that the trauma has permanently changed you:
+
+- While you didn't want it, you are now a different person from the experience.
+- You can't revert back to the person you were, but you can become a new person you wish to be in light of the experience you've survived.
+  - It's not uncommon to develop quirks or idiosyncrasies in light of the traumatic experiences you've encountered.
+- You should be "moving forward", *not* "moving on", and *can* [succeed](success-1_why.md) if you set your mind to it.
+
 ### The three forms of forgiveness
+
+You will have to mix-and-match the three forms of forgiveness toward what has happened to you.
+
+- If it feels too complicated to apply only one of them, [logically](logic.md) divide out the experience into smaller components that are easier to approach.
 
 A. Exoneration
 

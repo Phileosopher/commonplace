@@ -22,7 +22,7 @@ The devil's entire [purpose](purpose.md) is to create a constantly [fearful](min
 - [Political events](groupslarge.md) like [war](people-conflicts-war.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
 - In peacetime, we can turn to materialism and worldliness, since it distracts from the [inevitability of death](hardship-death.md).
 - However, incessant war is bad for the devil because it brings out [good things](morality.md) in people, even non-believers.
-- If we internalize it correctly, [hardship](hardship.md) can be very valuable for our spiritual development. Otherwise, the devil can make us live with perpetual [PTSD](ptsd.md).
+- If we internalize it correctly, [hardship](hardship.md) can be very valuable for our spiritual development. Otherwise, the devil can make us live with perpetual [PTSD](hardship-ptsd.md).
 
 [New Christians](christian-new.md) are the easiest targets for the devil because they still hold on to many world-focused [habits and routines](habits.md).
 

@@ -93,4 +93,4 @@ It can be *any* of the above, but directed toward [family](people-family.md) and
 
 All the above methods are meant as a deterrent to future behavior by others, but civil resistance can motivate the authorities to act proactively.
 
-While it may be useful to [coerce](power-types.md) the person (e.g., debtor's prison), those other people are often [victims](ptsd.md) of the organization's [evil](morality-evil.md).
+While it may be useful to [coerce](power-types.md) the person (e.g., debtor's prison), those other people are often [victims](hardship-ptsd.md) of the organization's [evil](morality-evil.md).

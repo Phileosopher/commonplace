@@ -7,7 +7,7 @@ Science has proven that pets give people healthier and longer lives:
 
 - Playing with puppies and kittens relieves stress.
 - Students perform better on [tests](mind-memory.md).
-- [PTSD](ptsd.md) victims have fewer trauma incidents with pets.
+- [PTSD](hardship-ptsd.md) victims have fewer trauma incidents with pets.
 - Pets can curb the consequences of [aging](hardship-aging.md).
 - Animals can detect your [stress](happiness-stress.md) and [addictions](addiction-substances.md).
 

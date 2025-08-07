@@ -85,7 +85,7 @@ Over time, the brain condenses our specific and detailed information into vague 
 
 Our brains can sometimes get stuck repeating specific bits of information:
 
-- When we have [post-traumatic stress](ptsd.md), we replay the experience incessantly until we come to closure with it or the memories fade from *other* experiences.
+- When we have [post-traumatic stress](hardship-ptsd.md), we replay the experience incessantly until we come to closure with it or the memories fade from *other* experiences.
 - If you have a song stuck in your head, distract yourself with something brain-intensive like a puzzle.
 - When a memory keeps persisting against your preference, [find creative ways to rearrange and remix the perspective](mind-creativity.md) to get to whatever answers you subconsciously haven't discovered.
 

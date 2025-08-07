@@ -22,7 +22,7 @@ Fantasy, science fiction, and horror are based on how we [imagine](imagination.m
 
 Water always symbolizes [the unknown](unknown.md), which closely connects with the risks of dying, and the unbounded opportunities that come with traveling on bodies of water. At the same time, running water represents life, which is why it's a popular deterrent against certain monsters like vampires.
 
-The woods, by contrast to water, also symbolize the unknown, but with more [trauma](ptsd.md) and less death.
+The woods, by contrast to water, also symbolize the unknown, but with more [trauma](hardship-ptsd.md) and less [death](hardship-death.md).
 
 Any games of luck or chance represent the [unknown](unknown.md) and [uncertainty](understanding-certainty.md) that arises within [reality](reality.md).
 

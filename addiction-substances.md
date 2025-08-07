@@ -212,7 +212,7 @@ Spiritualized thoughts
 
 [Success](success-1_why.md)
 
-- [Fixing the past](ptsd.md)
+- [Fixing the past](hardship-ptsd.md)
 
 [Understanding](understanding.md)
 

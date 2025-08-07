@@ -36,7 +36,7 @@ Word Choice - Replacement
 
 - [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](understanding.md), signals [group membership](groupsmember.md), or hides how things [feel](mind-feelings.md).
 - A word that [feels](mind-feelings.md) stronger indicates more [power](power.md) or provokes more [fear](mind-feelings-fear.md) (e.g., "weapon of war" instead of "gun").
-- A word that [feels](mind-feelings.md) weaker indicates less [power](power.md) and often implies [victimhood](ptsd.md).
+- A word that [feels](mind-feelings.md) weaker indicates less [power](power.md) and often implies [victimhood](hardship-ptsd.md).
 - Words can be swapped to build associations to other words (e.g., "attacked" versus "defended").
 - Acronyms make something look more formally established (e.g., "LGBT" instead of "homosexual", most military acronyms).
 - Frequently call things by what they aren't until it's [habituated](habits.md) into everyone's memory.
@@ -182,7 +182,7 @@ Blame
 
 - Condemn a [group's leadership](groupslarge.md) that they haven't fixed a completely unfixable thing.
 - Blame an opponent or a common enemy for public failures.
-- Blame a [larger group](groupslarge.md) to appear as a [victim](ptsd.md) or more [moral](morality.md).
+- Blame a [larger group](groupslarge.md) to appear as a [victim](hardship-ptsd.md) or more [moral](morality.md).
 - Shame anyone who rejects their [bias](image.md).
 - Imply their opponent is the laggard of a [trend](trends.md).
 

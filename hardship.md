@@ -32,7 +32,7 @@ People will use projection, transference, and poor self-management skills to beh
   - Unsolicited advice often comes from regret.
   - Avoiding is frequently the result of insecurities.
   - Even *selfless behavior* that harms you can often come from feelings of guilt.
-- [Trauma](ptsd.md) will often transfer to you:
+- [Trauma](hardship-ptsd.md) will often transfer to you:
   - Over-reaction is usually from other people that hurt them before you came along.
   - Trust issues are often unspoken (and often [unaware](awareness.md)) expectations.
 - Many people project their poor self-management onto others:
@@ -125,7 +125,7 @@ Most professional therapists are simply assisting with our self-analysis process
   - Often, self-victimizing people will rely too heavily on a therapist and may become codependent, or on a [legal substance](addiction-substances.md) like antidepressants or anti-psychotics.
 - If therapy isn't a sufficient approach, try a self-made approach:
   - Find a friend willing to listen through your issues.
-  - Learn and research psychology, with an emphasis on developmental stages and [trauma](ptsd.md) recovery.
+  - Learn and research psychology, with an emphasis on developmental stages and [trauma](hardship-ptsd.md) recovery.
   - Find support groups for your problems.
 
 ## Focus on reality
@@ -156,6 +156,9 @@ Learn gratitude for what you *do* have:
   - People who leave and betray you open up new opportunities.
   - Even if you've suffered a war, your entire family and all your friends are dead, the enemy forces took over, and you're now a slave to a punitive master, you're still alive.
 - And, after all the above, your situation by comparison may not be as bad as you feel.
+- The scope of the hardship has unspoken advantages.
+  - If it's a personal hardship (e.g., [homelessness](hardship-homeless.md), [PTSD](hardship-ptsd.md)) you have the advantage of not depending on other people to make changes.
+  - If it's a large-scale hardship (e.g., [persecution](hardship-persecution.md)) you have others available for emotional support and finding [creative](mind-creativity.md) ways to [fix](fix.md) your issue.
 
 Compared to an escape, though, reality is painful:
 
@@ -299,7 +302,7 @@ If you've made a bad decision, learn to forgive yourself:
 - Because you're so afraid of it, the situation will *never* play itself out again.
   - And, even if it did, you'd make a different decision.
   - If you feel uncertain about the situation repeating itself, ask yourself if you're [fully aware](awareness.md) of who you are.
-- Your [trauma](ptsd.md) is no longer useful for anything, so let it go.
+- Your [trauma](hardship-ptsd.md) is no longer useful for anything besides [learning from it](understanding.md), so [let it go](hardship-ptsd-release.md), even if others won't.
 
 Once you've recovered, you will be more resilient and durable than you would have been before if you accept that it happened and move on:
 
