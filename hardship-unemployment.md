@@ -1,15 +1,12 @@
 
-# How to handle prolonged unemployment
+# How to handle unemployment
 
 Losing a job is unpleasant, but isn't the end of the world.
 
-Some situations will make your unemployment situation far more severe:
+The initial blow will always be the most difficult:
 
-- [Children](parenting-2_children.md) or other family members who depend on your income
-- [Criminal history](legal-crimes.md), especially if it was within the past [7 years](identity-legalfiction.md)
-- Multiple recent short-term jobs, which would imply instability to a potential hiring manager
-- A shortage of skills proportional to your age (e.g., a college graduate who can't clean a gutter)
-- Failing to have [money saved](money-3_budget.md) for the situation
+- This can be more uncertain, and more painful, if you're in a tenuous situation for a long time before losing the job (e.g., pending layoffs).
+- For many people, losing a job is losing part of their [identity](identity.md).
 
 As soon as your termination is certain, ask all relevant questions to your HR department:
 
@@ -20,12 +17,30 @@ As soon as your termination is certain, ask all relevant questions to your HR de
 5. Will you provide a reference for me?
 6. How can I receive copies of my performance reviews, and when?
 
+Once you've had at least a day or two to calm yourself, carefully consider *why* you lost your job:
+
+- Most of the time, you'll lose a job because you were the least pleasant or least competent person to work with (or both).
+- You were, according to that leadership, the most disliked person.
+  - This doesn't mean you're an awful person (since many groups have [awful leadership](mgmt-badsystems.md)), but it's *absolutely critical* to know why you were let go if you would prefer to not see it happen again.
+
+As soon as possible, get back to looking and find something else.
+
+## How to adapt your lifestyle for unemployment
+
 As *soon* as you lose your job, shift to a survival lifestyle:
 
 - You can withstand extreme scarcity if you only buy what you need and adapt to living with less.
   - Pay minimum [debt](money-2_debt.md) payments.
   - Stop spending on *any* luxuries or maintaining your social life.
 - Unless it nearly *guarantees* employment, postpone all major life decisions, especially about [marriage](relationships-weddings.md), [houses](home-buysell.md), or [children](parenting-1_babies.md).
+
+Some situations will make your unemployment situation far more severe:
+
+- [Children](parenting-2_children.md) or other family members who depend on your income
+- [Criminal history](legal-crimes.md), especially if it was within the past [7 years](identity-legalfiction.md)
+- Multiple recent short-term jobs, which would imply instability to a potential hiring manager
+- A shortage of skills proportional to your age (e.g., a college graduate who can't clean a gutter)
+- Failing to have had [money saved](money-3_budget.md) for the situation
 
 Scammers target desperate, poor, unemployed people with "job offers", so watch for anything suspicious:
 

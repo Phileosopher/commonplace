@@ -1,9 +1,16 @@
 
 # How to survive in nature
 
+Often, being stuck in nature is more terrifying than it may appear:
+
+- Thousands of years ago, people lived in the untamed wild without any [technology](technology.md) *at all*.
+- While many plants and animals are hostile to humans, most of them are simply trying to survive like you, and they don't tend to attack unless they're under some sort of hardship of their own.
+
 Ideally, you should never have to brave it in the wild, and it's a bad idea to make it your first choice if you can live in civilization.
 
 However, sometimes the situation becomes dire, and you must venture into completely untamed land.
+
+Most of your survival will come through education, [creativity](mind-creativity.md), and experience, so try to find others you can [work with](people-conflicts.md) to dramatically increase your chances.
 
 If you can, bring a few critical lightweight multipurpose items:
 

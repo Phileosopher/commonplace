@@ -241,16 +241,26 @@ If you're in a position of need, you *must* rely on others, even if they've neve
 - If those people have proven untrustworthy to support you, it may be wisest to find another network of people.
   - However, finding a new network of support while undergoing hardship is *very* risky.
 
-It's not uncommon for well-intended solutions to hurt you further:
+When others *cause* hardship to us, we have extra difficulties because it's battling 2 things at once:
+
+1. The [mental turmoil](conflicts-inner.md) that comes from the misery of hardship.
+2. The [social conflicts](people-conflicts.md) that come from those other people.
+
+And, sometimes, society itself can be aligned against you.
+
+- While culture-sized hardship won't directly affect your intimate relationships, it can create severe and consistent [conflicts](people-conflicts.md) through how others may want you to behave.
+- Typically, the [cultural dimension](culture.md) of power distance will combine with [class-specific](classes.md) cultural contexts to create a vast range of small ways you can [break social rules](morality-taboo.md).
+
+It's also not uncommon for others' well-intended solutions to hurt you further:
 
 - As much as possible, focus your frustration at the most specific problem possible (e.g., not all [government employees](bureaucracy.md) or [bosses](mgmt-3_teams.md) are awful human beings).
 
 If you've been hurt by a popular solution to your problem, don't give your full opinion on it unless you're willing to take a hit to your reputation:
 
 - Frequently, the most popular solutions to your hardship have either come from trial-and-error (and therefore need reconsideration), or they're a broad catch-all solution to something nobody wants to talk about or deal with.
-- Most of the people who feel uncomfortable with your opinions are likely part of the problem you're suffering under.
+- Most of the people who feel uncomfortable with your opinions are likely a partial contributor to the problem you're suffering under (even if it's through intentional non-involvement).
 
-Even with plenty of support, you still must make difficult decisions to change:
+Even with plenty of support, you still must make difficult decisions to change.
 
 - Recovering from devastating experiences requires *more* unpleasant experiences than what you've endured.
   - Making personal changes is already difficult *without* the burden of your experiences, but nobody but you will make that change.
