@@ -64,8 +64,8 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 - [Budget](money-3_budget.md) for emergencies.
 - Install safety fixtures (e.g., fire extinguisher).
-- Keep [emergency supplies](disasters-checklist.md).
-- Prepare mentally for [specific survival situations](disasters-survival.md).
+- Keep [emergency supplies](hardship-disaster-checklist.md).
+- Prepare mentally for [specific survival situations](hardship-disaster-survival.md).
 - Always work with recommended safety equipment.
 
 ## Financial Protection
@@ -113,5 +113,5 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Protecting From The Unknown
 
 - Low enough stress that won't cause a [health issue](body-4_health.md).
-- Prepared for the [collapse of society](disasters-1_short.md), either through [stockpiling and prepping](disasters-3_long-stay.md) or [staying mobile](disasters-3_long-go.md).
+- Prepared for the [collapse of society](hardship-disaster-2), either through [stockpiling and prepping](hardship-disaster-3_long-stay.md) or [staying mobile](hardship-disaster-3_long-go.md).
 - Reconcile with [God](god.md).

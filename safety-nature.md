@@ -27,6 +27,11 @@ If you can, bring a few critical lightweight multipurpose items:
 - Fishing pole or fishing net
 - Cookware to boil water and cook
 
+Always tell someone where you're going, when you expect to come back, and give a route/float plan:
+
+- Even if you're not taking mobile devices, keep a GPS device.
+- If you're traveling by sea, let the Coast Guard know your float plan.
+
 ## Improvising
 
 Your ability to [creatively](mind-creativity.md) improvise, more than any other skill, will determine your survival in the wild.
@@ -40,6 +45,10 @@ Rocks are sturdy, simple tools:
 Grind anything made of metal or glass against rocks to make a blade.
 
 ## Navigating
+
+If you're lost, use the rule of 3 to call for help: 3 shouts, 3 horn blasts, or 3 whistles.
+
+- Do *not* move around unless there's an immediate threat to your safety, since Search & Rescue won't be able to catch up with you.
 
 Sunscreen and sunglasses can help you maintain your energy and focus:
 
@@ -153,6 +162,8 @@ The largest loss of heat comes through our skin's contact with air:
 - We can measure how much heat we lose relative to the outside temperature combined with windchill.
 - The risk of quickly getting frostbite starts around -15° F within half an hour, and gets more dangerous with more windchill.
 
+You lose heat 20 times faster when wet than dry, so shed any wet clothing.
+
 Your shelter will be critical to protecting yourself from losing heat at night.
 
 Eat food to increase your metabolism to stay warm.
@@ -237,3 +248,97 @@ Improvise candles, lanterns, and torches to keep the fire going when you don't n
 To prevent it from catching fire, don't make your fire any closer than a meter to your shelter.
 
 If you have a large enough shelter to make a fire inside it, make a hole large enough to let smoke escape without igniting the edge of the hole.
+
+## Specific situations
+
+Walking on ice:
+
+- Waddle like a penguin.
+- If the ice breaks:
+  1. Spread your arms, but it'll break further if you claw at more ice.
+  2. Kick your legs until you're horizontal on your stomach.
+  3. Stay on your stomach and shimmy forward out of the ice.
+  4. Keep laying on your stomach until you're on thicker, safer ice.
+- If you fall through, the dark spot is the way out (since the ice surface reflects the sun).
+
+If you're in the ocean and feel you're drifting out to sea, you're caught in a riptide and need to swim or paddle parallel to the shore to escape it.
+
+- You won't be pulled under, so save your energy.
+
+If you're stuck in quicksand, slowly raise your legs and lie on your back to escape it.
+
+When disoriented underwater, blow bubbles and follow them.
+
+Don't lay in the snow or walk home in freezing temperatures while drunk, since alcohol opens up your blood vessels and causes heat loss.
+
+### Specific natural disasters
+
+If the tide goes *very* far out, you're about to see a tidal wave.
+
+If you're buried in an avalanche and don't know which way to dig, spit and drool will follow gravity.
+
+While on the ground in a lightning storm, the electric current will run through your entire body, so sit cross-legged for it to skip your vital organs or head for lower ground.
+
+In case of an earthquake, ignore door thresholds and find a table.
+
+For plagues, avoid rodents and bugs and shave your head and beard to avoid flea infestations.
+
+Fire:
+
+- Unless you're using an oxygen tank, crawl to get below the smoke.
+- When opening a door, watch for smoke around the perimeter, since you may not be able to hear the fire behind it.
+- If you *do* open a door, back away and wait about 30 seconds, just in case there's a backdraft.
+
+Volcano:
+
+1. Seek shelter and close all windows, bring in all animals.
+2. Turn off anything that pulls in volcanic ash, such as air conditioners, heaters, and fans.
+3. Since an eruption can contaminate water, fill up tubs, sinks, and containers with clean water.
+
+Tornado:
+
+- Find shelter immediately, preferably anything that won't create a wind tunnel (like an overpass) and won't get flash flooded (like a ditch).
+- Since the most dangerous part of a tornado is its debris, board up your windows and doors.
+- Go to your basement if you have one, otherwise stay at the center of the first floor to get as many walls between you and the tornado as possible.
+- Contrary to urban legends, you *can* outrun it if you can go faster than 70 mph and are driving away from it.
+
+## Dealing with wild animals
+
+Deodorants and perfumes attract bugs, and some scents will attract animals.
+
+Animals generally run away if you walk and speak loudly.
+
+Most dangerous bugs, such as wasps and bees, ignore you if you stay still.
+
+- If they land on you, blow on them, don't swat.
+
+Most animals are afraid of fire and jingling keys.
+
+Try to avoid seals and moose, since they can be very territorial.
+
+If a bear attacks:
+
+- If a brown bear attacks you, play dead.
+- If a black bear attacks you, punch it in the nose.
+- If you have to shoot a bear, make sure you kill it by hitting its face, up its nose, in its ears, or in its chest.
+
+If a moose attacks:
+
+- Never use a truck's highway horn around a moose, since it sounds like a moose's mating challenge call.
+- If you're chased by a moose, stand up against a tree.
+
+If a crocodile/alligator attacks:
+
+- Hit their nose.
+- If a crocodile bites you, gouge their eyes with your thumbs.
+- Sprint away as fast as possible, since they are very fast.
+
+If a shark attacks:
+
+- If a shark attacks you, hit it in the nose.
+
+If a whale has swallowed you:
+
+1. Turn on any light source.
+2. If you were swallowed whole, you'll likely get spit out whole.
+3. Whales can swim deeply, so preserve what oxygen you can and head for the surface.

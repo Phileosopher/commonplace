@@ -185,7 +185,7 @@ Conceit
 Fear
 
 - [Political](politics-conservativeliberal.md) anxiety
-- [Doomsday preparation](disasters-1_short.md)
+- [Doomsday preparation](hardship-disaster.md)
 
 Hope (even if it's false)
 
