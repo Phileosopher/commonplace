@@ -200,4 +200,4 @@ Avoiding temptation *requires* associating closely with other believers:
 
 - Try to limit time with toxic [friends and family](church-family.md).
 - Keep connected with a spiritually productive and theologically sound part of the [Church](church.md), which can sometimes be your family.
-- Never stop [speaking with Him](god-prayer.md) and [reading His word](bible.md).
+- Never stop [speaking with Him](spiritual-exercises-prayer.md) and [reading His word](bible.md).

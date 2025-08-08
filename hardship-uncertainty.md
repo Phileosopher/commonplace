@@ -18,7 +18,7 @@ If you simply can't know, release everything about it:
 
 Since you can't do anything about the pending situation, focus on the present:
 
-- [Give it to God](god-prayer.md) drop the entire experience out of your mind.
+- [Give it to God](spiritual-exercises-prayer.md) drop the entire experience out of your mind.
 
 Only focus on what you can do anything about.
 

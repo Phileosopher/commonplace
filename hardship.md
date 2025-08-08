@@ -112,7 +112,7 @@ The only cure to stopping the "temporary insanity" of emotional overwhelm is sel
 2. Calm down.
 3. [Take an in-depth look inside](awareness.md).
 4. Analyze what's really going on inside us.
-5. Precisely and fully give up what we can't control (preferably [to God](god-prayer.md)).
+5. Precisely and fully give up what we can't control (preferably [to God](spiritual-exercises-prayer.md)).
 6. From that place, focus more closely on what we do have control.
 
 Most professional therapists are simply assisting with our self-analysis process:

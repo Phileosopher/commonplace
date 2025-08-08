@@ -37,7 +37,7 @@ When you are ready, release your feelings about anything you fear or resent:
 - The most effective place for [meditation](awareness-meditation.md) comes through how we can better [respond to triggers](habits.md).
   - You really can't do anything about the past, nor about others' actions, and the only person suffering from holding onto those feelings is you.
   - Whenever feelings arise, learn to repeat the mantra, "I'm having an emotional reaction."
-  - [Give it all to God](god-prayer.md) as you encounter the experiences.
+  - [Give it all to God](spiritual-exercises-prayer.md) as you encounter the experiences.
   - At the end of any meditation session, you should only be focused on what you can actually do.
 - If you have any trouble, [write down](language-writing.md) "I fear...", then list those fears as they arise.
   - At the end, you should throw out or delete the list, which [symbolizes](symbols.md) that the fears don't really matter.

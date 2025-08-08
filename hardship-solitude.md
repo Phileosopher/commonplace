@@ -19,7 +19,7 @@ Learn to enjoy passing time with solitary activities:
 - Practice [tossing games or juggling](fun.md).
 - If you have anything available, try [creating](mind-creativity.md) something with what little you have.
 - If you're away from everything, imagine doing something you're familiar with that makes you comfortable.
-- Spend time in [meditation](awareness-meditation.md) and [prayer](god-prayer.md).
+- Spend time in [meditation](awareness-meditation.md) and [prayer](spiritual-exercises-prayer.md).
 
 If you can, try to go to more social events:
 

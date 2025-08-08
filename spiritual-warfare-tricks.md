@@ -51,7 +51,7 @@ By isolating each generation from previous generations through rebellion, the de
 
 ## Tricks Against Devotion
 
-The devil invalidates [prayer](god-prayer.md) by shifting it from the physical submission of mind and body into a general [feeling](mind-feelings.md):
+The devil invalidates [prayer](spiritual-exercises-prayer.md) by shifting it from the physical submission of mind and body into a general [feeling](mind-feelings.md):
 
 - We often think the devil is making us connect things, when in reality he's working hard to *disconnect* them.
 - By directing our attention to conjuring a feeling instead of actually *doing* anything, we can make [habits](habits.md) of doing absolutely nothing while thinking we're being [spiritually productive](spiritual-exercises.md).
@@ -64,7 +64,7 @@ The devil invalidates [prayer](god-prayer.md) by shifting it from the physical s
 While God is more concerned about what we [decide](decisions.md) and [do](mind-creativity-results.md), the Satan redirects us to thinking about [what will happen](mind-creativity-results.md) to us:
 
 - More uncertainties creates more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
-- If possible, when we're [praying](god-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
+- If possible, when we're [praying](spiritual-exercises-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
 - We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](mind-creativity-results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
 - Further, by abstracting humanity into sub-human monsters inside [stories](stories.md), the devil can further blur the line about morality (e.g., zombies, vampires).
 
@@ -72,7 +72,7 @@ While God is more concerned about what we [decide](decisions.md) and [do](mind-c
 
 1. He'll use consistent [church attendance](church.md) and [good lifestyle decisions](habits.md) to shift attention away from those [tiny sins](morality-sins.md).
 2. Since backsliding creates unease, it'd normally push someone to full-blown repentance. So, he directs it toward reluctance about [God](god.md) and [spiritual things](identity-christian.md).
-3. Eventually, enough unease can inspire a dislike of religious duties like [Bible study](bible-study.md) or [prayer](god-prayer.md), including dreading it beforehand and promptly forgetting it afterward.
+3. Eventually, enough unease can inspire a dislike of religious duties like [Bible study](bible-study.md) or [prayer](spiritual-exercises-prayer.md), including dreading it beforehand and promptly forgetting it afterward.
 4. If this becomes a [habit](habits.md), that person will try to avoid [direct contact with God](god.md), even while praying.
 5. From there, nothing will give that person [pleasure](happiness.md). They'll spend countless hours doing unimportant, [unfulfilling](purpose.md) tasks, which can waste away some of the most [powerful](power.md) years of their life.
 
@@ -160,7 +160,7 @@ While staying sexually pure has no adverse health effects, the devil tells us se
 The Satan will magnify our attention on daily nuisances people may have with one another, through a predictable cycle:
 
 1. Create obliviousness to personal failings, to the point that they'd have to *seriously* [self-reflect](awareness.md) to discover them.
-2. Shift [prayer requests](god-prayer.md) from an actual person into an [imagined caricature](imagination.md) of that person, thereby making the prayers vague and less effective, while also aggravating the person as they're trying to give their problems to God.
+2. Shift [prayer requests](spiritual-exercises-prayer.md) from an actual person into an [imagined caricature](imagination.md) of that person, thereby making the prayers vague and less effective, while also aggravating the person as they're trying to give their problems to God.
 3. Magnify relatively irrelevant but slightly annoying behavior quirks to make them feel malicious, horrible, or [evil](morality-evil.md).
 4. Build a self-righteousness with a double standard about appropriate [conduct](culture.md).
 5. Magnify any [feelings](mind-feelings.md) of [injustice](morality-justice.md) or jealousy.

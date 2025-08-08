@@ -17,6 +17,12 @@ Christology - The systematic theology branch that addresses God as Jesus Christ
 
 Christophany - A direct and personal encounter with Jesus Christ
 
+Communion - part of our spirit that holds a close personal connection with God and the rest of the Church
+
+Conscience - part of our spirit that holds a strong moral conviction about something
+
+Conviction - a reference by Christians to when the Holy Spirit morally affects someone's conscience
+
 Covenant theology - The theological view that God interacts with humanity based on [His covenants](contracts.md) He makes with humanity, contrasts with dispensationalism
 
 Demonology - The systematic theology branch that addresses fallen angels
@@ -30,6 +36,8 @@ Eschatology - The systematic theology branch that addresses the end times and Je
 Evangelism - Various forms of sharing the Gospel to the world
 
 Elect - The people who God has predestined for eternal life, most prominently shown in [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)
+
+Father - the Person of the Godhead who is omniscient and omnipotent
 
 Futurism - The eschatological view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), will happen in the future
 
@@ -45,9 +53,13 @@ Hermeneutics - The theory and method of interpreting what the Bible says
 
 Historicism - The view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are happening throughout history as clear eras and epochs
 
+Holy Spirit - the Person of the Godhead who is omnipresent and serves the will of the Father
+
 Idealism - The view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are allegorical and happen symbolically throughout history
 
 Imputation - Transferring the judgment of sin from one individual to another, part of Levitical law, as well as Christ's work
+
+Intuition - part of our spirit that provides spiritual information the mind couldn't have acquired or inferred by outside events
 
 Justification - God's [legal status](legallysafe.md) regarding our eternal state, contrast with regeneration and sanctification
 
@@ -62,6 +74,12 @@ Mercy - In the Bible, refers to bad things God doesn't gives when He had every r
 Missiology - The systematic theology branch that addresses evangelism
 
 Old Earth creationism - aka Theistic Evolution, the belief that God created the universe over very long evolutionary periods, contrasts with Young Earth creationism
+
+Omnipotent - all-powerful, in reference to God
+
+Omnipresent - all-present, in reference to God
+
+Omniscient - all-knowing, in reference to God
 
 Orthopraxy - The systematic theology branch that addresses the correct way to behave and live as Christians
 
@@ -88,6 +106,8 @@ Reconciliation - Specific concept in the Bible referring to putting away a confl
 Replacement theology - The belief that God will restore Israel as a nation and re-institute the sacrificial system demonstrated in the Old Testament, connected with dispensationalism and *not* part of covenant theology
 
 Sanctification - God setting apart something for a spiritual [purpose](purpose.md), implies [decisions](decisions.md) on our end, contrast with justification and regeneration
+
+Son - the Person of the Godhead who serves the will of the Father, became human, and will inherit the universe
 
 Soteriology - The systematic theology branch that addresses how salvation works
 

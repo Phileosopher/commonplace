@@ -50,7 +50,7 @@ The volunteers themselves
 
 ## Things to Try
 
-[Pray](god-prayer.md) steadily
+[Pray](spiritual-exercises-prayer.md) steadily
 
 - For the needs of the people themselves
 - For individuals' [souls and spirits](humanity.md)

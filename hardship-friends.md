@@ -14,7 +14,7 @@ Carefully consider *why* you lost that friend.
 Accept that some things just can't work out, and move on:
 
 - Find [new friends](people-4_friends.md) to fill that void.
-- [Release](happiness-focus.md) the misery and anger to [God](god-prayer.md).
+- [Release](happiness-focus.md) the misery and anger to [God](spiritual-exercises-prayer.md).
 
 Since the first few months will be difficult, spend as much time with other friends as you can to avoid the pangs of loneliness.
 

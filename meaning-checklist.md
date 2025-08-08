@@ -41,7 +41,7 @@ Have you examined [your feelings](mind-feelings.md)?
 
 What new thing are you [aware](awareness.md) of about yourself?
 
-Have you [prayed](god-prayer.md) and read your [Bible](bible.md)?
+Have you [prayed](spiritual-exercises-prayer.md) and read your [Bible](bible.md)?
 
 How have you improved someone else's life?
 

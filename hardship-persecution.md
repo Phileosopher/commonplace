@@ -35,4 +35,4 @@ No matter how much everyone is persecuted, justice still matters:
 
 - When a government does things wrongly, they stand against truth and [justice](morality-justice.md), even if they successfully hide what they do.
   - An organization that performs [evil](morality-evil.md) rarely has devoted, fanatical followers compared to organizations that do good in the world, so they don't last as long.
-- [Give over control to God](god-prayer.md), then push forward in what you know to be true.
+- [Give over control to God](spiritual-exercises-prayer.md), then push forward in what you know to be true.

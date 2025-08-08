@@ -153,7 +153,7 @@ Understanding money management is easy, but we need self-discipline to properly 
 
 To live well, we must also practice a few other out-of-the-box habits:
 
-- [Pray](god-prayer.md) consistently and expect unexpected things to happen.
+- [Pray](spiritual-exercises-prayer.md) consistently and expect unexpected things to happen.
 - Whenever possible, produce more than you consume.
 - Ignore what everyone else is doing, and have pre-planned responses for others.
 - Invest in your [career](jobs-1_why.md), [mind](mind-memory.md), strength, and [health](body-4_health.md).
