@@ -197,7 +197,7 @@ Miraculous visions (most of the prophets, [Acts 7:54-56](https://biblehub.com/ac
 
 This doesn't reflect what God *will* do, and everything here represents only a fraction of the possibilities.
 
-- God controls all physical elements, from [celestial objects](science.md) to [quantum superstates](quantum.md).
+- God controls all physical elements, from [celestial objects](science.md) to [quantum superstates](science-quantum.md).
 - He also controls the [consequences](mind-creativity-results.md) of all [decisions](decisions.md) ([Proverbs 16:33](https://biblehub.com/proverbs/16-33.htm)).
 - He also controls all [managed decisions](mgmt-1_why.md) directly ([Proverbs 21:1](https://biblehub.com/proverbs/21-1.htm)).
 - God does have a [pattern](bible-patterns.md), but He's [creative](mind-creativity.md) enough that He doesn't do things the same way twice.

@@ -131,7 +131,7 @@ Even in relatively mundane chip-making manufacturing plants, the technology to m
 
 This section was updated in 2025.
 
-Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
+Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](computers-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
 Because of advances in [3D printing](computers-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 

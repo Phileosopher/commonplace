@@ -27,7 +27,7 @@ Across the years, computer "abstractions" typically stay about the same while it
 - Right now, computers use electricity through silicon (0s and 1s represented as positively and negatively charged electricity).
 - At one time, the 0s and 1s were electric charge held within vacuum tubes.
 - Originally, computers were mechanical plates that read holes punched into old 35mm film stock.
-- In decades, it may be something else, such as [quantum superstates](quantum.md) or [DNA](computers-biological.md).
+- In decades, it may be something else, such as [quantum superstates](science-quantum.md) or [DNA](computers-biological.md).
 
 In fact, most of the standard computer needs were demonstrated already in [a 1968 demo by Doug Engelbart's team](https://www.youtube.com/watch?v=B6rKUf9DWRI).
 
