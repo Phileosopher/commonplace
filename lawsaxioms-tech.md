@@ -113,4 +113,4 @@ Cunningham's Law - Instead of asking a question, the best way to get the right a
 
 Godwin's Law - As online discussions grow, it'll eventually guarantee comparing someone to Nazis or Hitler.
 
-Lewis' Law - Publicly announcing a perceived injustice that's controversial invariably means the comments will justify that idea.
+Lewis' Law - Publicly announcing a perceived injustice that's controversial guarantees the comments will justify that idea.
