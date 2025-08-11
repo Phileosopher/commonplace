@@ -1,5 +1,5 @@
 
-# Assembly code
+# Assembly code explained
 
 Assembly code is the lowest-level programming that any sane person will need. Instead of machine code (e.g., 1110010100010101), chunks of the code can represent much more intuitive ideas (e.g., add r1, r2).
 
