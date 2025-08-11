@@ -114,7 +114,7 @@ While two's complement makes adding numbers relatively straightforward with posi
 - But because it drops off the overflow (as stated above), it converts the number to the correct answer:
   - e.g., 11011, or 27, gets stripped down to 1011 (or 11), which converts its complement back to -5, which is -2 plus -3
 
-### All Together Now
+### All together now
 
 Now, we can slam all of the above together into one logic unit called the Arithmetic Logic Unit (ALU).
 
