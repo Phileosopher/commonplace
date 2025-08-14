@@ -1,7 +1,7 @@
 
-# Practical insanity (CS fun)
+# CS fun
 
-A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](https://entertaining.space/), but for computer nerds.
+A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](https://entertaining.space/), but for computer nerds (i.e., "practical insanity").
 
 ## Social skills done wrong
 
