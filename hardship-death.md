@@ -169,7 +169,7 @@ Keep in mind that the *absolute worst* nature of people will come out after some
 
 Discuss with the executor of their estate to learn the provisions of their will:
 
-- The executor is usually stipulated *in* the will, which is [why a copy is so critical](legallysafe.md) to alleviate [conflicts](people-conflicts.md) later.
+- The executor is usually stipulated *in* the will, which is [why a copy is so critical](legal-safety.md) to alleviate [conflicts](people-conflicts.md) later.
 - The beneficiaries can be anyone or anything, and can frequently show the true intent of the deceased, which is often [distressing](happiness-stress.md).
 - If you *are* the executor, you're fulfilling a legal obligation to the departed, so don't let your bias adapt the will to your preferences.
 

@@ -83,7 +83,7 @@ If you've spent time incarcerated, you'll likely have trouble with re-entry:
 - The [culture](culture.md) outside of prison will be a shock for months.
   - Do what you can and focus on each day.
   - Take any help you can get, but avoid anything that might *appear* to be illegal or pseudo-legal.
-  - If you're on probation or parole, don't even *think* about doing anything that might appear [illegal or barely legal](legallysafe.md).
+  - If you're on probation or parole, don't even *think* about doing anything that might appear [illegal or barely legal](legal-safety.md).
 - Take the routine you had when locked up and find a simple rhythm outside again, irrespective of what the rest of the world is doing.
 
 Try to find groups that help with re-entry:

@@ -3,7 +3,7 @@
 
 NOTE: These are my terms and conditions to demonstrate several points at once:
 
-1. I want to be [legally safe](legallysafe.md) as a service provider and essayist.
+1. I want to be [legally safe](legal-safety.md) as a service provider and essayist.
 2. I wish to [educate](pedagogy.md) people on how straightforward legality can be when parsed correctly.
 3. [Legally substantial](legal-doctrines.md) information does *not* need arbitrary complexity and *can* be [designed](design-uxui.md) for ease-of-use, though law school takes enough work that [it makes sense to obfuscate it](mgmt-badsystems.md).
 

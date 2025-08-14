@@ -1012,7 +1012,7 @@ Production - Providing evidence that proves an assertion of fact is true, typica
 
 Promise to Appear - A type of non-financial bond where the defendant agrees to return to court without giving cash or property
 
-Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](ip.md), [contracts and service agreements](contracts.md), or [assets](accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
+Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](contracts.md), or [assets](accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
 
 Protection - Broad word that refers to the state or means of being safe
 
@@ -1032,7 +1032,7 @@ Proximate Cause - an event related to an injury enough that it's deemed as the i
 
 Public Defender - An attorney appointed and paid by the state who defends a person in a criminal case after the court finds that the person is indigent (financially unable) to hire a private attorney
 
-Public Domain - A property that's meant for public use, typically refers to [intellectual property](ip.md)
+Public Domain - A property that's meant for public use, typically refers to [intellectual property](legal-ip.md)
 
 Puffery - Exaggerated or false praise
 

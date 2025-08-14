@@ -29,7 +29,7 @@ Emulators have been around for decades. An emulator is software designed to repr
 
 For example, you may want to run Windows on your computer, but you only have Linux. By running a program (in this case, the software called Wine), you can make the Linux operating system act like it has Windows on it, at least enough to fool the program you're trying to run inside it.
 
-This isn't always foolproof (there are usually glitches), but emulation gets the job done. In fact, it's often the only way to successfully (though not always [legally](ip.md)) play many older [games](computers-software-gamedev.md) that haven't been published in decades (e.g., Atari, Gameboy, Super Nintendo).
+This isn't always foolproof (there are usually glitches), but emulation gets the job done. In fact, it's often the only way to successfully (though not always [legally](legal-ip.md)) play many older [games](computers-software-gamedev.md) that haven't been published in decades (e.g., Atari, Gameboy, Super Nintendo).
 
 Emulation is also far more common than most people may realize. To accommodate the 32-bit processing on a 64-bit processor, Windows uses the WOW (Windows on Windows) protocol to emulate an old system.
 

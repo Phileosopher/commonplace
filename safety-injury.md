@@ -3,7 +3,7 @@
 
 Contact emergency services (typically 911, 112, or 999) when you think you *might* need them, not when you do:
 
-- Consider the [legal implications](legallysafe.md) of calling.
+- Consider the [legal implications](legal-safety.md) of calling.
 - If you need someone in a crowd to call, specify who should call to avoid confusion.
 - Give the dispatcher your address immediately, since they can't always use GPS location.
 

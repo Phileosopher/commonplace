@@ -10,7 +10,7 @@ This is a list of everything necessary to [manage risks](safety.md) that may com
   - Residual risk - risks that still exist after placing controls
 - Operation risk - the chances of an organization's procedures failing
 - Concentration risk - too many assets connected to one entity/client
-- Legal/Compliance risk - the chance of lawsuits or [legal action](legallysafe.md)
+- Legal/Compliance risk - the chance of lawsuits or [legal action](legal-safety.md)
 - Reputation risk - the dangers of a defiled [public image](image.md)
 - Strategic risk - the risks that come from any type of [internal changes](mgmt-7_changes.md)
 - Global risk - the dangers from worldwide events
@@ -18,7 +18,7 @@ This is a list of everything necessary to [manage risks](safety.md) that may com
 
 Risk management involves treating or avoiding loss exposures:
 
-1. Avoiding risk - simply *not* performing an activity that could carry a risk (e.g., general safety practices, [legal safety](legallysafe.md)).
+1. Avoiding risk - simply *not* performing an activity that could carry a risk (e.g., general safety practices, [legal safety](legal-safety.md)).
 2. Reducing risk - using risk control techniques to mitigate the scope of those risks (e.g., preventative efforts, installing fire sprinklers, security systems).
 3. Retaining risk (self-insurance) - holding yourself financially responsible for all or part of a risk (e.g., [saving money](money-4_spending.md)).
 4. Sharing risk - proportionally distributing risk among multiple individuals according to investment or need (e.g., [communal lifestyle](home-homestead.md), coinsurance/risk sharing agreement).
@@ -86,7 +86,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 - Have a network of top-class professionals to manage your things:
   - [Insurance](insurance.md) agent
-  - [Attorneys](legallysafe.md) for *all* necessary specializations
+  - [Attorneys](legal-safety.md) for *all* necessary specializations
   - [Realtor](home-buysell.md)
   - [Accountant](accounting.md) - tax advisor, accountant, estate manager, and auditor
   - [Mechanic](autos.md)
@@ -98,11 +98,11 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 - Behave [appropriately](people-rules.md) and [tactfully](people-3_respect.md) with everyone.
 - Have experience [defusing conflicts](people-conflicts.md).
-- Maintain [legally safe](legallysafe.md) habits.
+- Maintain [legally safe](legal-safety.md) habits.
 - Every possession you own is [legally approved](legal-doctrines.md).
 - Carefully examine every [agreement](contracts.md) you sign, and only sign it with groups you [trust](understanding-certainty.md).
 - Never [agree](contracts.md) to anything unless you're [fully certain](understanding-certainty.md) you can fulfill it.
-- All your [agreements](contracts.md) are with people who [stay legally safe](legallysafe.md) and live [morally](morality.md).
+- All your [agreements](contracts.md) are with people who [stay legally safe](legal-safety.md) and live [morally](morality.md).
 
 ## Protecting From Malicious People
 

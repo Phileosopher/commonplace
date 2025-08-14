@@ -210,7 +210,7 @@ You're likely to enjoy *any* job once you're experienced with it, with some exce
 - The job itself is contributing to something that either has no impact or [a bad impact](morality-evil.md) on the world at large.
 - You have to work with people you *really* dislike.
 
-Look for any jobs that represent [universal](humanity-universals.md) human [issues](hardship.md) such as [government conflicts](legallysafe.md), [sickness](body-firstaid.md), [interpersonal conflicts](people-conflicts.md), and [death](hardship-death.md).
+Look for any jobs that represent [universal](humanity-universals.md) human [issues](hardship.md) such as [government conflicts](legal-safety.md), [sickness](body-firstaid.md), [interpersonal conflicts](people-conflicts.md), and [death](hardship-death.md).
 
 Find a currently unfulfilled need by asking questions about an industry that catches your attention:
 
@@ -239,7 +239,7 @@ Find a mentor:
 Try to arrange mock interviews:
 
 - You *need* others' input to [succeed](success-5_persevering.md) with the job hunt.
-- However, hiring managers are extremely cautious about explaining *why* they reject candidates to [avoid illegal discrimination](legallysafe.md).
+- However, hiring managers are extremely cautious about explaining *why* they reject candidates to [avoid illegal discrimination](legal-safety.md).
 
 Reconnect with at least five mentors from your past:
 
@@ -377,7 +377,7 @@ Note current trends within your desired industry:
 
 While a 5-year plan is nice, it's not necessary:
 
-- Excluding change-resistant industries like [accounting](accounting.md), [insurance](insurance.md), and [law](legallysafe.md), most industries move around *constantly* from [new technology](technology.md) and [trends](trends.md).
+- Excluding change-resistant industries like [accounting](accounting.md), [insurance](insurance.md), and [law](legal-safety.md), most industries move around *constantly* from [new technology](technology.md) and [trends](trends.md).
 - Play the situation by ear a little, since you'll need to adapt to any changes that come your way.
   - Take smaller leaps before larger ones to avoid most of the risks from experience you couldn't have planned for.
 - Sometimes, depending on how much you can pivot from your current employment situation to what you want, it's better to only have a *one*-year goal.

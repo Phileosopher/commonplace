@@ -61,7 +61,7 @@ Imputation - Transferring the judgment of sin from one individual to another, pa
 
 Intuition - part of our spirit that provides spiritual information the mind couldn't have acquired or inferred by outside events
 
-Justification - God's [legal status](legallysafe.md) regarding our eternal state, contrast with regeneration and sanctification
+Justification - God's [legal status](legal-safety.md) regarding our eternal state, contrast with regeneration and sanctification
 
 Levitical law - A Hebrew tribe descended from Levi who was responsible for maintaining the Jewish temple
 

@@ -43,7 +43,7 @@ The easiest way to transfer power without any major loss in the transaction, whi
 
 The act of taking or demolishing something someone has, frequently to [symbolically](symbols.md) humiliate them.
 
-This isn't always physical, and can sometimes be [intellectual property rights](ip.md) or ownership of [organizations](groupslarge.md).
+This isn't always physical, and can sometimes be [intellectual property rights](legal-ip.md) or ownership of [organizations](groupslarge.md).
 
 ## G. Incarceration
 

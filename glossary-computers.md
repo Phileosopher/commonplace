@@ -574,7 +574,7 @@ Downtime - the time that a computer is continuously off, in contrast with uptime
 
 Drive-by download - also called simply "drive-bys", malware that installs through a dodgy website
 
-DRM - digital rights management, software, or code meant to enforce [intellectual property rights](ip.md)
+DRM - digital rights management, software, or code meant to enforce [intellectual property rights](legal-ip.md)
 
 Driver - a set of instructions for a CPU to operate a peripheral
 
@@ -868,7 +868,7 @@ Hung - the state of a function waiting for a callback function
 
 Hybrid - a combination of two things (e.g., a hybrid interface is mixing Interface A and Interface B)
 
-Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and an "href" (e.g., [this site](stucky.tech/notes) in Markdown or [<a href="https://stucky.tech/notes">this site</a>](https://stucky.tech/notes) in HTML)
+Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and an "href" (e.g., `[this site](stucky.tech/notes)` in Markdown or `<a href="https://stucky.tech/notes">this site</a>` in HTML)
 
 Hypervisor - software designed to run virtual machine containers, can be Level 1 (BIOS-level) or Level 2 (OS-level)
 
@@ -928,7 +928,7 @@ Interpreter - computer code that converts high-level programming language into a
 
 IoT - Internet of things, every device, even special-use ones, has an IP address, creating tremendous opportunities as well as [cybersecurity](computers-cysec.md) risks
 
-IP - internet protocol, the standard for networking across the internet, can also refer to [intellectual property](ip.md)
+IP - internet protocol, the standard for networking across the internet, can also refer to [intellectual property](legal-ip.md)
 
 IP address - a numerical label a computer needs to communicate on the internet, can be IPv4 or IPv6 or both, can be a public IP address (for the internet) or private IP address (for a local network)
 
@@ -1354,7 +1354,7 @@ Ping - a network tool that simply checks if a computer can be reached
 
 Pipelining - the convention where operating system processes work like a factory assembly line and focus on the purpose they're designed for, allows processes to take any input the user wants and send it to any output they want
 
-Piracy - copying data that's in violation of [intellectual property law](ip.md), not to be confused with violent acts and theft in a remote location
+Piracy - copying data that's in violation of [intellectual property law](legal-ip.md), not to be confused with violent acts and theft in a remote location
 
 Pixel - short for picture element, one colored dot on a screen, sets up as an array to communicate information on the computer
 
@@ -1450,7 +1450,7 @@ Proxy server - a computer that uses its IP as a proxy for another computer, ther
 
 PS/2 - from IBM's "Personal System 2", a largely obsolete pin-based plug for sending keyboard and mouse information
 
-Public domain - something that anyone can use without any [intellectual property](ip.md) enforcement
+Public domain - something that anyone can use without any [intellectual property](legal-ip.md) enforcement
 
 Pull request - a commit made to another maintainer's code, which submits it to a review process before it's included into the code base
 
@@ -1698,7 +1698,7 @@ Socket - when an IP address is linked to a port
 
 Soft skill - a broad [understanding](understanding.md) of something, not particularly useful in itself but widely applicable
 
-Software - computer code that programmers entered into a computer, completely written [intellectual property](ip.md) compared to hardware
+Software - computer code that programmers entered into a computer, completely written [intellectual property](legal-ip.md) compared to hardware
 
 Something-for-something - a social engineering exploit where the hacker gives something (usually for free) in exchange for personal information
 

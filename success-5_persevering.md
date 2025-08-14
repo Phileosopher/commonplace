@@ -455,7 +455,7 @@ It's possible nobody else will celebrate with you, at least at first:
 One of the first signs of your success will be various forms of plagiarism:
 
 - We have some [universal qualities](humanity-universals.md), so things are guaranteed to repeat across time in various ways.
-- While you *could* obsess about your [intellectual property](ip.md), it's less trouble and [more satisfying](happiness-focus.md) to move on and treat it as a sign that you've influenced others.
+- While you *could* obsess about your [intellectual property](legal-ip.md), it's less trouble and [more satisfying](happiness-focus.md) to move on and treat it as a sign that you've influenced others.
 
 ## Persevering nearly *guarantees* success
 

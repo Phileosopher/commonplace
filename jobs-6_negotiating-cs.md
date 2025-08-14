@@ -37,7 +37,7 @@ Often, a [startup](entrepreneur-1_why.md) or large company will issue [equity bo
 When signing for a job offer, be very careful about what you're signing, no matter how much pressure they're putting on you.
 
 - A non-disclosure agreement may forbid you from communicating what you do, even including obvious things (e.g., the "advanced framework" is simply some [Kubernetes containers](computers-distsys-vm.md)).
-- Pay *very* close attention to how they word their [intellectual property](ip.md) policy. Simply using their computer while working on your personal project may legally entitle the company to own all your work, especially if you work for a large tech organization.
+- Pay *very* close attention to how they word their [intellectual property](legal-ip.md) policy. Simply using their computer while working on your personal project may legally entitle the company to own all your work, especially if you work for a large tech organization.
 
 Pay close attention to *every* detail tied to the [contract](contracts.md) you're signing.
 

@@ -11,7 +11,7 @@ If the job was at least decent, give at least two weeks' notice to leave:
 Write a formal resignation letter:
 
 - Make it gracious and concise.
-- Don't make promises, give too much information or mention your new workplace (which can *all* create [legal risks](legallysafe.md).
+- Don't make promises, give too much information or mention your new workplace (which can *all* create [legal risks](legal-safety.md).
 - Avoid phrasing anything negatively.
   - Vaguely say why you're leaving.
   - Share your gratitude and thankfulness for the new job opportunity.
@@ -102,7 +102,7 @@ Watch out for exit interviews:
 
 - Be very, very careful about what you say.
   - If you speak vaguely or positively about why you left, you have nothing to lose.
-  - By speaking out directly against the organization, the management may hate you and you could potentially get into [legal trouble](legallysafe.md).
+  - By speaking out directly against the organization, the management may hate you and you could potentially get into [legal trouble](legal-safety.md).
 - Of course, if you believe what you say will create change, and you already have a well-established [reputation](image.md) elsewhere, be as blunt as you want and don't expect anyone to care or change.
 - The most useful thing to do with your experience is to clearly know what to *not* do in your own life and decisions in the future.
 - Know beforehand what you want to say and how much information you want to share.
@@ -193,7 +193,7 @@ Many people believe false promises, especially when they begin their career:
 
 - [Go back to the job hunt immediately](jobs-2_goals.md) if your situation is particularly bad.
 - Getting fired is worse than working only 6 months on your work history.
-- [HR](business.md) is [legal protection](legallysafe.md) for the *company*, not for you.
+- [HR](business.md) is [legal protection](legal-safety.md) for the *company*, not for you.
 
 If you're in consecutive terrible jobs, *you* might be the problem:
 

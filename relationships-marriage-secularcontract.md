@@ -155,7 +155,7 @@ Officiant
 
 _____________________________________________________
 
-Government official (for [legal recognition](legallysafe.md))
+Government official (for [legal recognition](legal-safety.md))
 
 _____________________________________________________
 

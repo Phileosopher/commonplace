@@ -24,14 +24,14 @@ If the region is particularly dense with mosquitos or disease, consider getting 
 
 Learn the culture *before* you go:
 
-- [Local laws](legallysafe.md) and how they differ from your home nation.
+- [Local laws](legal-safety.md) and how they differ from your home nation.
 - Commonly-practiced [customs](people-rules.md).
 - [Learn a few popular phrases](mind-memory.md) in the local language.
 - The general [geography](logistics-navigation.md) of the region.
 - Local [weather patterns](weather.md).
 - Crime statistics, especially within various regions of cities.
 - [Food](cooking.md) and water safety risks.
-- The likelihood and forms of [corruption](legallysafe.md).
+- The likelihood and forms of [corruption](legal-safety.md).
 - Political threats that may exist in the region, especially regarding your nationality.
 - The [economic](economics.md) exchange rate of currency.
 

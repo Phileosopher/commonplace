@@ -104,7 +104,7 @@ You've changed as a person:
 
 If you see anything unethical, you're risking your reputation every day you're there, so leave it as quickly as possible.
 
-To stay [legally safe](legallysafe.md), carefully consider any [non-compete clauses](contracts.md) you may have signed for your current and recent roles.
+To stay [legally safe](legal-safety.md), carefully consider any [non-compete clauses](contracts.md) you may have signed for your current and recent roles.
 
 ## Job-hopping has pros and cons
 
@@ -142,7 +142,7 @@ Archive and save *everything* that shows the work you've done at that job:
 - After you've given notice of leaving, it's possible you won't have access to your own work anymore.
 - Download your contacts and customers lists from all company-owned devices.
 - Save copies of documents you've made that highlight your accomplishments.
-- Only save copies of things that aren't the company's [intellectual property](ip.md).
+- Only save copies of things that aren't the company's [intellectual property](legal-ip.md).
 
 When you're okay with others knowing, ask for reference letters from key coworkers who know you, and give them 3--5 items you want them to include if they don't have much time.
 

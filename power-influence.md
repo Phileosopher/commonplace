@@ -1,0 +1,2 @@
+
+When people indicate an assertion that isn't necessarily true to be patently obvious, they may have a hidden [purpose](purpose.md) to [obscure the truth](image-distortion.md). Other times, their [perspective](image.md) has a different set of [values](understanding-certainty.md) that define how their [bias](mind-bias.md) runs. Often, everyone is at least somewhat correct, though some are certainly more correct than others.

@@ -18,7 +18,7 @@ Even if you plan to take the job, it's a good idea to give at least half a day t
 
 If you have any plans (e.g., a large [vacation](fun-vacations.md) a few months in the future), tell them when they give you the job offer.
 
-Make sure you know what you sign, since quickly signing without reviewing the paperwork can [legally destroy you](legallysafe.md) later, and many hidden clauses in a [contract](contracts.md) may follow you *years* later (e.g., noncompete agreements).
+Make sure you know what you sign, since quickly signing without reviewing the paperwork can [legally destroy you](legal-safety.md) later, and many hidden clauses in a [contract](contracts.md) may follow you *years* later (e.g., noncompete agreements).
 
 ## Never take a job when you see warning signs
 
@@ -180,7 +180,7 @@ Try to sweeten the deal with other relevant skills you can add to the job:
 
 Get any employment agreement in writing:
 
-- An [employment agreement](contracts.md) prevents misunderstanding and [legally protects everyone](legallysafe.md).
+- An [employment agreement](contracts.md) prevents misunderstanding and [legally protects everyone](legal-safety.md).
 - Make sure you have all the important details:
   - The position's key responsibilities
   - Salary and bonus information

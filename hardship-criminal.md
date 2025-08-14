@@ -12,7 +12,7 @@ However, you will also be rejected from *many* jobs and rental properties for ex
 - The reason why is because it's not illegal to use your background as a data point in an [insurance](insurance.md) company's actuarial tables.
   - In practice, it can cost $100-500 additional per month to hire a convict over someone with a clean record.
 
-Over time, people will have a harder time justifying their opinions if you [stay away from legal trouble](legallysafe.md):
+Over time, people will have a harder time justifying their opinions if you [stay away from legal trouble](legal-safety.md):
 
 - You'll start to see consequences of clean living in as little as 6 months or a year.
 - After about 10 years, you can put most of the situation behind you.

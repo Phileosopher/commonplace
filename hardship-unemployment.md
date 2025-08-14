@@ -66,7 +66,7 @@ You're setting yourself up to fail if you pursue hobbies or a small business whi
 If you're on a work visa or probation, find *any* other employment:
 
 - Sometimes a fast food job is perfectly sufficient to meet an employment requirement.
-- The issue is more about the [legal requirements](legallysafe.md) to avoid getting in trouble than anything about money.
+- The issue is more about the [legal requirements](legal-safety.md) to avoid getting in trouble than anything about money.
 
 You might see the unemployment as God's will and may want to pursue full-time ministry:
 

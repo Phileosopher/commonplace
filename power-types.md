@@ -27,7 +27,7 @@ Social (also known as "politics")
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
 - Formal - [honor](image.md) or an official title bestowed by a [group](groupsmember.md), often established by the [culture](culture.md).
 - Fame - [familiarity](image.md) with a name.
-- Property/Wealth - ownership of things, [people](slavery.md), [intellectual properties](ip.md), or [rights](boundaries.md) that can accomplish a [purpose](purpose.md).
+- Property/Wealth - ownership of things, [people](slavery.md), [intellectual properties](legal-ip.md), or [rights](boundaries.md) that can accomplish a [purpose](purpose.md).
 - Money - a specific means of stockpiling others' [power](power.md) for later, with each person basing its [value](values-quality.md) on how much they [believe](understanding-certainty.md) everyone else [values](values-quality.md) it (i.e., [economics](economics.md)). It's relatively [measurable](math.md) compared to all the other forms of power, and is one of the few that we can trade.
 
 Contextual

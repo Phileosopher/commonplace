@@ -165,7 +165,7 @@ You can usually detect phishing from certain specific details:
   - First girlfriend or boyfriend
   - Your address
 - Many times, they're not very good at [speaking](language-speaking.md) or [writing](language-writing.md).
-- Just because they *say* they're from the FBI or threaten you doesn't mean anything in itself, especially if you've been [legally safe](legallysafe.md).
+- Just because they *say* they're from the FBI or threaten you doesn't mean anything in itself, especially if you've been [legally safe](legal-safety.md).
 
 Avoid opening alerts you're not familiar with:
 

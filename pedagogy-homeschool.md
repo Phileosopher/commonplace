@@ -95,7 +95,7 @@ E. Your geographical region has a profound influence on how your government sees
 
 - When you live in a population-dense area, many government precincts require children to attend a government-approved school.
   - Generally, governments prefer to school children themselves for [financial](economics.md) reasons, and any [indoctrination](power-influence.md) reasons are simply a bonus for them.
-- The challenges you're *far* more likely to face will come through the [bureaucracy](bureaucracy.md) from [government requirements](legallysafe.md) more than the education itself.
+- The challenges you're *far* more likely to face will come through the [bureaucracy](bureaucracy.md) from [government requirements](legal-safety.md) more than the education itself.
 
 F. Find a healthy homeschool community that can plug you into homeschooling resources at large.
 
@@ -166,7 +166,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - Maria Montessori began the idea from learning [educational theory](pedagogy.md) at the University of Rome, with 2 presumptions:
   1. Psychological [self-construction](values.md) in both adults and children happens through interacting with [our environment](reality.md).
   2. Children (especially under age 6) have an innate, predetermined path for their psychological development.
-- While many things use the Montessori name (since it's not [trademarked](ip.md)), the [Association Montessori Internationale](https://montessori-ami.org/) and [American Montessori Society](https://amshq.org/) have a few required elements:
+- While many things use the Montessori name (since it's not [trademarked](legal-ip.md)), the [Association Montessori Internationale](https://montessori-ami.org/) and [American Montessori Society](https://amshq.org/) have a few required elements:
   - Mixed-age classrooms (e.g., 0-3, 6-9, 9-12, 12-15, 15-18), with 30-36 month to 6-year-old being most common.
   - The student chooses their activity from a prescribed list of options.
   - Uninterrupted blocks of work time, ideally 3 hours long.
@@ -228,7 +228,7 @@ If you know people and are [entrepreneur minded](entrepreneur-1_why.md), you can
 
 ## Requirements
 
-Every state and precinct has unique requirements, which [you should be informed of](legallysafe.md).
+Every state and precinct has unique requirements, which [you should be informed of](legal-safety.md).
 
 - Each state has its own legal framework that allows homeschooling.
 - If you move to another state, don't presume the prior state's rules apply.

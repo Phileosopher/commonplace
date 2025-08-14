@@ -303,24 +303,27 @@ If earrings irritate your skin, put Vaseline on them before putting them in.
 
 ### Poison ivy
 
-Rub liquid dish soap onto the affected skin, then rinse after letting it sit
+Rub liquid dish soap onto the affected skin, then rinse after letting it sit.
 
 Apply a paste of baking soda and water directly to poison ivy
 
 ### General bug bites
 
-Press a hot spoon onto the skin to break up the proteins that cause the itch
+Before going anywhere, use DEET (diethyltoluamide, N,N-Diethyl-meta-toluamide, or N,N-Diethyl-3-methylbenzamide), which deters them through contacting it.
 
-Make an X on the bite with your fingernails
+Run the bite under hot water or press a hot spoon onto the skin to break up the proteins that cause the itch.
 
-Apply scotch tape or nail polish to the area
-Mix a teaspoon of Epsom salt into a cup of boiling water, cool down for twenty minutes, stir, then place on the bite
+Make an X on the bite with your fingernails.
+
+Apply scotch tape or nail polish to the area.
+
+Mix a teaspoon of Epsom salt into a cup of boiling water, cool down for twenty minutes, stir, then place on the bite.
 
 ### Mosquito bites
 
-Apply soap or white-out to the affected area
+Apply soap or white-out to the affected area.
 
-Rub a banana peel into the bite
+Rub a banana peel into the bite.
 
 ## Migraines and general headaches
 

@@ -7,7 +7,7 @@ Individually managing permissions and configurations becomes more difficult acro
 
 - Each group consists of a variety of people, and the weakest computer or least-tech-savvy user is the highest risk for the organization.
 - A group draws more attention than an individual, proportionally to its popularity, creating more desire for hackers to infiltrate it.
-- Groups are often subject to more [regional government laws](legallysafe.md) than individuals.
+- Groups are often subject to more [regional government laws](legal-safety.md) than individuals.
 - If the organization is spread across multiple regions, completely legal actions in one region could imprison someone for life in another.
 
 The legality and safety of the organization can often sit on the nuanced difference in IP address or choice of [protocol](standards-computers.md).

@@ -9,7 +9,7 @@ Addicts' actions are often [vilified](morality-taboo.md) in the case of drugs or
 
 ## Acceptability
 
-Most people have one form or another of substance overuse, though some are more [fashionable](trends.md) or [legal](legallysafe.md) than others.
+Most people have one form or another of substance overuse, though some are more [fashionable](trends.md) or [legal](legal-safety.md) than others.
 
 [Addiction goes by many names](addiction-substances.md). Anything that isn't a [virtue](morality.md) or [loving others](people-love.md) can become an addiction.
 

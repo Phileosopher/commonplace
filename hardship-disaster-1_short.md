@@ -63,7 +63,7 @@ Stockpile boric acid:
 
 Keep all your important documents in a waterproof container:
 
-- It's a good idea to keep every [important legal document](legallysafe.md) in a [safe place](hardship-disaster-checklist.md).
+- It's a good idea to keep every [important legal document](legal-safety.md) in a [safe place](hardship-disaster-checklist.md).
 - If you need to keep papers dry and without creases, place a piece of cardboard in a gallon-sized zipper-sealed plastic bag.
 
 Keep 2-4 weeks' worth of currency in small cash denominations and traveler's checks.

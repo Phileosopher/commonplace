@@ -79,7 +79,7 @@ A massive portion of veterinary clinics are managed by JAB Consumer Partners.
 
 Most insulin is managed by CVS Caremark, Cigna, and United Healthcare.
 
-A vast portion of branded pharmaceuticals (which are still under [patent law](ip.md)) are run by Vertex Pharmaceuticals.
+A vast portion of branded pharmaceuticals (which are still under [patent law](legal-ip.md)) are run by Vertex Pharmaceuticals.
 
 Most robotic surgery is managed by Intuitive Surgical.
 

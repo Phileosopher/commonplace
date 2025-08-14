@@ -47,7 +47,7 @@ Make sure your computer is [virus-scanned](computers-cysec.md) and you're [safe 
 
 ## If someone is breaking into your home
 
-Depending on the situation, it may make more sense to confront, hide, or run from them, so understand [what your rights are](legallysafe.md) beforehand.
+Depending on the situation, it may make more sense to confront, hide, or run from them, so understand [what your rights are](legal-safety.md) beforehand.
 
 Thieves often work in pairs.
 
