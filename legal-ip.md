@@ -51,7 +51,7 @@ A copyright is an exclusive right for an original work, and implicit for a wide 
 
 - Written works (e.g., books, plays, sheet music)
 - Artwork of any sort (e.g., paintings, photographs, music)
-- Computer software code (since it's the "written" work of someone making [computer logic](computers-software-design.md)), though there are [much more effective licenses for it](floss.md).
+- Computer software code (since it's the "written" work of someone making [computer logic](computers-software-design.md)), though there are [much more effective licenses for it](legal-ip-floss.md).
 
 Copyright never covers ideas (which is the domain of the other IPs), but instead protects the *expression* of those ideas.
 
@@ -225,7 +225,7 @@ The idea must be original and built by the creator (e.g., can't patent sunlight 
 - Inventions
 - Medications
 - Genetically modified organisms
-- [Computer software](floss.md)
+- [Computer software](legal-ip-floss.md)
 
 Patents are difficult to acquire.
 
@@ -368,7 +368,7 @@ They combine to create six popular permutations:
 - CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) - others can freely share with others as long as they credit you, but can't use them commercially and must license their creation the same way.
 - CC BY-NC (Attribution-NonCommercial) - others can freely share with others as long as they credit you, but can't use them commercially.
 - CC BY-NC (Attribution-NoDerivs) - others can freely share with others as long as they credit you, but can't change them in any way.
-- CC BY-SA (Attribution-ShareAlike) - others can freely share with others as long as they credit you and license their new works under the same terms. This is informally similar to "copyleft" in [software licenses](floss.md).
+- CC BY-SA (Attribution-ShareAlike) - others can freely share with others as long as they credit you and license their new works under the same terms. This is informally similar to "copyleft" in [software licenses](legal-ip-floss.md).
 - CC BY-NC (Attribution) - others can freely share with others as long as they credit you. It's the best way to send information if you want credit for the work.
 - There is also CC0, which waives the right to a copyright without having to wait 70+ years from publication.
 
@@ -385,9 +385,9 @@ Different groups can be very influential to advance open licensing:
 - [2023-09 Bill Willingham sends Fables to the public domain](https://web.archive.org/web/20230914181203/https://billwillingham.substack.com/p/willingham-sends-fables-into-the).
 - [2024-02 Cloudflare fights back and wins in court against a patent troll](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial/).
 
-In a vast number of ways, [open-source licensing](floss.md) is paving the way for new hybrids of usage rights:
+In a vast number of ways, [open-source licensing](legal-ip-floss.md) is paving the way for new hybrids of usage rights:
 
-- The [Public Money, Public Code](https://publiccode.eu/) movement demands that government-funded software should have [open-source code](floss.md).
+- The [Public Money, Public Code](https://publiccode.eu/) movement demands that government-funded software should have [open-source code](legal-ip-floss.md).
 - [AI](computers-ai.md) and [machine learning](computers-ai-ml.md) scrape data, then reproduce a derivative work. In principle, this is in direct violation of the duplication aspect of copyright, which is *also* somewhat an issue in Creative Commons licensing as well.
 
 In many ways, the new emergence of [generative AI](computers-ai-ml.md) has had constraints on copyright law.

@@ -108,7 +108,7 @@ Unfortunately, [tech trends](trends.md) are *constantly* moving, so only learn w
 
 One important "soft skill" specific to the tech world is detecting when certain technologies are variations of other [established technologies](trends.md) (e.g., machine learning, natural language processing, and deep learning are all types of [AI](computers-ai.md)). This allows you to *rapidly* attach ideas together.
 
-Each domain has its own general software and tools. While [tech trends](trends.md) keep moving around and [open-source equivalents](floss.md) slowly take over, the core abstractions stay the same.
+Each domain has its own general software and tools. While [tech trends](trends.md) keep moving around and [open-source equivalents](legal-ip-floss.md) slowly take over, the core abstractions stay the same.
 
 One looming reality of the tech industry is constantly feeling you're less qualified than everyone thinks you are ([Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)). But, nearly *everyone* is clueless about most tech-related matters except what they work with, which [allows us to work on what we want instead of learning everything just to interface with it](https://trendless.tech/understanding/). Accept that you'll understand 1-5% of anything in that domain and move on.
 

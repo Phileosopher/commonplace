@@ -44,7 +44,7 @@ CVs can be tiresome for recruiters to sift through, so dialing them back to 1 pa
 
 ## Public code repo
 
-Contribute to [open-source projects](floss.md) regularly and build projects with your style added into them. You can use [GitHub](networks-social.md.md) for plenty of places to contribute (as well as a type of ad-hoc central hub), but you can also use other code repos that may make your code look more interesting (e.g., CodePen). Bonus points if you can host your code directly on your website via [git](computers-software-versionctrl.md).
+Contribute to [open-source projects](legal-ip-floss.md) regularly and build projects with your style added into them. You can use [GitHub](networks-social.md.md) for plenty of places to contribute (as well as a type of ad-hoc central hub), but you can also use other code repos that may make your code look more interesting (e.g., CodePen). Bonus points if you can host your code directly on your website via [git](computers-software-versionctrl.md).
 
 If you use GitHub, put in 1-3 pull requests a day to imply you're severely passionate about coding, but don't kill yourself: nobody cares *that* much.
 

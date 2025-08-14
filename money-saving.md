@@ -916,7 +916,7 @@ Make a phone holder with push pins.
 
 ### Save on software
 
-Find [free/open-source (FOSS) software](floss.md) instead of paying for proprietary or closed-source programs.
+Find [free/open-source (FOSS) software](legal-ip-floss.md) instead of paying for proprietary or closed-source programs.
 
 Convert an old computer to [Linux](https://www.linux.com/) instead of upgrading (get [Ubuntu](http://www.ubuntu.com/) if you have no experience with it).
 
