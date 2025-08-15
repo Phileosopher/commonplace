@@ -1,7 +1,7 @@
 
 # Computer technical documentation
 
-All the [general rules of technical documentation](documentation-technical.md) apply, but there are some extra quirks inside the tech industry.
+All the [general rules of technical documentation](writing-documentation.md) apply, but there are some extra quirks inside the tech industry.
 
 Since all computer code in the first place is a set of instructions for a computer, the documentation can be easily derived by copying the things that make the software:
 

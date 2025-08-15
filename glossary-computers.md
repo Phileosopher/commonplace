@@ -250,7 +250,7 @@ Callback - a function in code that feeds backward in time into another function,
 
 Callback hell - many callbacks that slow down code and make it difficult to understand
 
-Canonical - a standardized input format that's the "right" way for the computer to understand, often specific in [technical documentation](documentation-technical.md)
+Canonical - a standardized input format that's the "right" way for the computer to understand, often specific in [technical documentation](writing-documentation.md)
 
 Capacitor - two surfaces close to each other separated by an insulator, a means of holding a charge for future use (such as memory)
 
