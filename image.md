@@ -12,9 +12,7 @@ Instead, we make an accurate enough [copy of reality](values.md) by filling in i
 
 For the most part, this copy is *stunningly* accurate. It allows us to relive the experience as many times as we want, and we can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](imagination.md) operating a boat).
 
-While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time.
-
-In fact, time itself doesn't exist the way we think it does. We perceive "now", but the past and present don't technically exist. The past is nothing but our memories (former versions of "now") and our connections of cause-and-effect to craft a [story](stories.md) that ends in "now". The future is our [predictions](imagination.md) about what will happen in future instances of "now". These perceptions aggregate together into a continuum, though, and it makes so much sense in our minds that we don't think of it in this way.
+While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](imagination.md) diverges from it.
 
 Everything we perceive will have relative and absolute components to it. Often, our [conflicts](boundaries.md) are over relative things we *think* are absolute, often from our [culture](culture.md) and [upbringing](people-family.md).
 
