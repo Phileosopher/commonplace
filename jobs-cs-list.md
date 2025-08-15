@@ -49,7 +49,7 @@ Both-end development (for experienced developers):
   - **Game Developer** designs [games](computers-software-gamedev.md).
 - **AR/VR Engineer** designs [VR-based implementations](compiuters-vr.md).
 - **Web Developer** does a bit of everything related to [the internet](computers-webdev.md), and their work specializes into either Front-End or Back-End.\
-- **Technical Writer** describes [technical information](writing-documentation-cs.md) a user or developer would need to know.
+- **Technical Writer** describes [technical information](language-writing-documentation-cs.md) a user or developer would need to know.
 
 [System planning](computers-distsys-enterprise.md) (for people who understand [distributed systems](computers-distsys.md)):
 

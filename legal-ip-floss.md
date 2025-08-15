@@ -18,7 +18,7 @@ When you're writing, that information [is automatically copyrighted as you write
 
 Computer code is complicated is *technically* written language, so it's technically bound by copyright law. Copyright is implicit (i.e., you don't have to opt into it), but it's an [arcane mess](legal-ip.md), especially with the complexities of how software code is legally interpreted.
 
-There are several non-copyright ways to release non-code text (including [technical documentation](writing-documentation.md)) with a more free license:
+There are several non-copyright ways to release non-code text (including [technical documentation](language-writing-documentation.md)) with a more free license:
 
 - [Creative Commons](https://creativecommons.org/) is the standard license that most non-computer people may be familiar with, with [Creative Commons' CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) being the most liberal way to release it to the public domain and keep it there.
 - Alongside CC, the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.html) (FDL) is also a safe way to publicly release documentation.
@@ -188,7 +188,7 @@ Tech companies that create [computer hardware](computers-hardware.md) will often
 
 ## Open-Source Projects
 
-Building a personal or closed-source company project into an open-source one doesn't take *too* much [documentation](writing-documentation-cs.md):
+Building a personal or closed-source company project into an open-source one doesn't take *too* much [documentation](language-writing-documentation-cs.md):
 
 1. Scan the entire codebase for any "[secrets](computers-cysec-authentication.md)".
 2. If a company, replace internal names and emails with public ones.
