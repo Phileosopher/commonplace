@@ -281,7 +281,7 @@ Hitchens' Razor - If someone makes an absolute claim, they must give evidence or
 
 Liebig's Law of the Minimum - Growth and expansion depends on the most competed-for resource.
 
-Shirky Principle - [Organizations](groupssmall.md) try to maintain problems when they're the solution.
+Shirky Principle - [Organizations](groups-small.md) try to maintain problems when they're the solution.
 
 Triffin Dilemma - If you use something that everyone else uses, you're maintaining it more than you'd otherwise need if it was just you using it.
 
@@ -335,7 +335,7 @@ Reed's Law - The usefulness of a network scales exponentially with its size.
 
 Say's Law - Things are scarce relative to other things, so there's never really "too much" of everything at once.
 
-Sowa's Law of Standards - When a [large organization](groupslarge.md) uses a system for doing something, everyone will improvise a simpler system for doing that thing.
+Sowa's Law of Standards - When a [large organization](groups-large.md) uses a system for doing something, everyone will improvise a simpler system for doing that thing.
 
 Stein's Law - If something can't go on forever, it'll stop, and there's zero need to make it stop.
 
@@ -361,7 +361,7 @@ Greenhouse Effect - Supreme Court [justices](rules.md) tend to vote with [libera
 
 Jevons Paradox - The more efficient people are with a resource, the more they consume that resource.
 
-Joy's Law in Management - Most of the smartest people aren't in your [group](groupslarge.md).
+Joy's Law in Management - Most of the smartest people aren't in your [group](groups-large.md).
 
 Kondratiev Wave - Every large-scale system cycles up and down with a generally predictable flow.
 

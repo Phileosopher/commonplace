@@ -3,7 +3,7 @@
 
 We all experience trauma. It's an inevitable reality of life that started when we were small children. It might have been from legitimate abuse, but was pain over a thing we [wanted or needed](purpose.md) that we couldn't have. Further, it only has to be [imagined](imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
 
-For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groupsmember.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war.md)).
+For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war.md)).
 
 While everyone experiences trauma, each person responds to it differently:
 
@@ -62,7 +62,7 @@ Nobody experiences trauma the same way, and they express it even more differentl
 
 - Hatred of [alcohol](fun-alcohol.md) and its paraphernalia, along with anyone in the industry. Taken far enough, will use [religion](religion.md) to suppress it.
 - Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](pedagogy.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
-- Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groupsmember.md) associated with them.
+- Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groups-member.md) associated with them.
 - Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](gender.md) [identity](identity.md) or becomes a [feminist](leftism.md).
 
 The hatred is a [habit loop](habits.md) that triggers on anything that reminds the person of the original pain. Those triggers can move *far* from the original source.

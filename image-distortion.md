@@ -1,7 +1,7 @@
 
 # List of image distortion methods
 
-NOTE: We often don't know how to get [power](power.md) and often [fear](mind-feelings-fear.md) losing it. So, we do weird things to [lie](people-lying.md) about it, usually to make ourselves [look](image.md) more powerful. While this list isn't comprehensive, it gives an indicator of the types of things worth watching out for in other people and [groups](groupslarge.md).
+NOTE: We often don't know how to get [power](power.md) and often [fear](mind-feelings-fear.md) losing it. So, we do weird things to [lie](people-lying.md) about it, usually to make ourselves [look](image.md) more powerful. While this list isn't comprehensive, it gives an indicator of the types of things worth watching out for in other people and [groups](groups-large.md).
 
 Almost everything in this list works to serve a few main themes:
 
@@ -34,7 +34,7 @@ Beliefs
 
 Word Choice - Replacement
 
-- [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](understanding.md), signals [group membership](groupsmember.md), or hides how things [feel](mind-feelings.md).
+- [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](understanding.md), signals [group membership](groups-member.md), or hides how things [feel](mind-feelings.md).
 - A word that [feels](mind-feelings.md) stronger indicates more [power](power.md) or provokes more [fear](mind-feelings-fear.md) (e.g., "weapon of war" instead of "gun").
 - A word that [feels](mind-feelings.md) weaker indicates less [power](power.md) and often implies [victimhood](hardship-ptsd.md).
 - Words can be swapped to build associations to other words (e.g., "attacked" versus "defended").
@@ -176,17 +176,17 @@ Redirection
 - Use existing [reputation](image.md) to hide laziness or incompetence.
 - Imply that their thing is the new [trend](trends.md), which makes others [imagine](imagination.md) they'll miss out on it.
 - Imply there are only a few possible [options](decisions.md), even when there are more.
-- A [large group](groupslarge.md) using independent local individuals to imply a [smaller group](groupssmall.md).
+- A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
 
 Blame
 
-- Condemn a [group's leadership](groupslarge.md) that they haven't fixed a completely unfixable thing.
+- Condemn a [group's leadership](groups-large.md) that they haven't fixed a completely unfixable thing.
 - Blame an opponent or a common enemy for public failures.
-- Blame a [larger group](groupslarge.md) to appear as a [victim](hardship-ptsd.md) or more [moral](morality.md).
+- Blame a [larger group](groups-large.md) to appear as a [victim](hardship-ptsd.md) or more [moral](morality.md).
 - Shame anyone who rejects their [bias](image.md).
 - Imply their opponent is the laggard of a [trend](trends.md).
 
-## [Organizations](groupslarge.md)
+## [Organizations](groups-large.md)
 
 Public [Image](image.md)
 
@@ -198,14 +198,14 @@ Public [Image](image.md)
 
 Blame
 
-- Blame a [smaller outside group](groupssmall.md) to make them appear incompetent.
-- Blame a low-ranking [member](groupsmember.md), then eject them from the group as publicly as possible.
+- Blame a [smaller outside group](groups-small.md) to make them appear incompetent.
+- Blame a low-ranking [member](groups-member.md), then eject them from the group as publicly as possible.
 - Blame the predecessor of the organization, *especially* if they had any differences of [opinion](understanding-certainty.md).
 
 Inter-Organization
 
-- Establish a test to prove [group status](groupsmember.md) that requires specific information only attainable by the leadership.
-- Separate [members'](groupsmember.md) roles along lines that make very little sense.
+- Establish a test to prove [group status](groups-member.md) that requires specific information only attainable by the leadership.
+- Separate [members'](groups-member.md) roles along lines that make very little sense.
 - Bestowing titles to avoid bestowing legitimate [power](power-types.md).
 - Physically separate members' [experiences](mind-creativity-results.md) from their [decisions](decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
 - Create a [reward](habits.md) system with complex [rules](rules.md) that make the game look easy to hack (e.g., credit card points, shopper loyalty cards, social score).

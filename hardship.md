@@ -291,7 +291,7 @@ Often, friends who share your hardship can hold you back later:
 It's not uncommon for people you once thought were your friends to become your enemies:
 
 - The community that supported you through your hardship might not be willing to change in response to your self-improvement.
-- [Group leaders](groupssmall.md), especially, have trouble accepting the shifting dynamics that come from supporting someone who runs with that support.
+- [Group leaders](groups-small.md), especially, have trouble accepting the shifting dynamics that come from supporting someone who runs with that support.
 - Keep the [friends](people-4_friends.md) who matter, but drop a community when [they reject you](morality-taboo.md) or interfere with your [goals](success-3_goals.md).
 
 ## Give yourself time

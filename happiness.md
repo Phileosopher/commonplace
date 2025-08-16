@@ -34,7 +34,7 @@ You're not the only person affected by your decisions:
 A bad day is perfectly acceptable, but prolonged misery drains others' wellness:
 
 - Miserable people destroy the happiness of those they're around.
-- Beyond destroying lives, misery can erode entire [communities](groupsmember.md).
+- Beyond destroying lives, misery can erode entire [communities](groups-member.md).
 
 ## Happiness isn't a circumstance
 

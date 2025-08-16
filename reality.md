@@ -83,7 +83,7 @@ Barring mental disorders like [autism](autism.md), we typically see the entire t
 
 ## Denial
 
-Accepting reality at its most raw can force overwhelming [internal and external changes](changes.md). Because of this, most people deny or adapt elements of reality to cope with those changes (especially if it'll affect their [social standing](groupsmember.md)), and the easiest ways to deny/adapt reality is through altering [language](language.md) to shift the portrayed [implications](mind-feelings.md) of the [story](stories.md) provided by reality.
+Accepting reality at its most raw can force overwhelming [internal and external changes](changes.md). Because of this, most people deny or adapt elements of reality to cope with those changes (especially if it'll affect their [social standing](groups-member.md)), and the easiest ways to deny/adapt reality is through altering [language](language.md) to shift the portrayed [implications](mind-feelings.md) of the [story](stories.md) provided by reality.
 
 Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](mind-creativity-results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 

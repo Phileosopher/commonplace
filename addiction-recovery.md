@@ -12,4 +12,4 @@ You will *not* get out of your [addiction](addiction.md) by yourself:
 Find a healthy community that supports your new lifestyle:
 
 - If your friends abuse the same substance as you, your [habits](habits.md) won't change because they will sabotage any effective changes.
-- Besides recovery groups, you can also find less direct support through [friendships](people-4_friends.md) you find through [clubs](groupsmember.md) and [church](church.md).
+- Besides recovery groups, you can also find less direct support through [friendships](people-4_friends.md) you find through [clubs](groups-member.md) and [church](church.md).

@@ -58,7 +58,7 @@ Mores are behaviors labeled offensive and dishonorable:
 Laws are behaviors everyone in the group considers universally bad:
 
 - e.g., public nudity
-- The majority of the group will disagree with them enough that there'll usually be an [organization](groupslarge.md) that enforces punishment for it.
+- The majority of the group will disagree with them enough that there'll usually be an [organization](groups-large.md) that enforces punishment for it.
 - Breaking laws can lead to public shaming, prison, deportation, or death.
 - Embassies are designed to help navigate legal differences between regions.
 
@@ -67,7 +67,7 @@ If you're careful, you can often break some social rules without any lasting har
 - People will overlook a few more if you're behaving tactfully otherwise.
 - Quickly apologize for any habit that may be breaking a rule you're not aware of.
 - If you can synchronize your [sense of humor](humor.md) with others, people will frequently overlook perceived rudeness.
-- If you have [authority](groupssmall.md) over anyone, however, breaking the rules will set a poor example.
+- If you have [authority](groups-small.md) over anyone, however, breaking the rules will set a poor example.
 
 ## Success requires people
 

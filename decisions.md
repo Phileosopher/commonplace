@@ -63,7 +63,7 @@ C. [purpose](purpose.md) factors:
 - How much we [trust](trust.md) that various decisions could go according to our [expectations](imagination.md).
 - To the degree we care about the [future](imagination.md), how much [time or energy](power-types.md) we can save in the long term.
 - [Moral](morality.md) standards and [expected](imagination.md) moral consequences.
-- How things may hurt or help others we [identify](identity.md) with, such as those in one of our [groups](groupsmember.md).
+- How things may hurt or help others we [identify](identity.md) with, such as those in one of our [groups](groups-member.md).
 
 D. [power](power.md) factors:
 
@@ -90,7 +90,7 @@ Finding new approaches sometimes works, but we can sometimes overlook *other* [u
 
 Most of our prioritization is based on comparison. Even when it's a [mathematical](math.md) reality, we adapt the information from how it compared to previous information in our memory and new information in our memory we've recently perceived.
 
-We frequently compare ourselves with others, though [it makes very little sense to do so](personality.md), and entire [social groups](groupsmember.md) are often *defined* by this comparison aspect.
+We frequently compare ourselves with others, though [it makes very little sense to do so](personality.md), and entire [social groups](groups-member.md) are often *defined* by this comparison aspect.
 
 Except for [principles](understanding-certainty.md), we tend to choose the path of least resistance. However, some principles are *also* the path of least resistance if we've [trained](understanding-certainty.md) our minds to them.
 
@@ -155,8 +155,8 @@ We may consult [friends](hardship-friends.md) or an [expert](jobs-specialization
 
 1. We can more clearly [understand](understanding.md) the likely consequences of our decisions through another [perspective](image.md).
 2. We don't feel like we're entirely [responsible](meaning.md) for the decision we ultimately make, since their advice guided it.
-3. Our relationship with that [friend](hardship-friends.md) or [institution](groupslarge.md) is strengthened.
-4. In the case of an expert and [their institution](groupslarge.md), we can learn whether they are [trustworthy](trust.md) for future decisions.
+3. Our relationship with that [friend](hardship-friends.md) or [institution](groups-large.md) is strengthened.
+4. In the case of an expert and [their institution](groups-large.md), we can learn whether they are [trustworthy](trust.md) for future decisions.
 
 However, any expert or friend has [limitations](mind-bias.md) and [interests](purpose.md) that may go against our own best interests compared to deciding something ourselves. And, if we trust others too much, we'll start feeling helpless, which devastates our capacity for finding [meaning](meaning.md).
 

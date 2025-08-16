@@ -25,7 +25,7 @@ Social (also known as "politics")
 - Coercive - can [punish](rules.md) people, driven by others' [fears](mind-feelings-fear.md).
 - Reward - can [reward](mind-creativity-results.md) people, driven by others' [loves](people-love.md).
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
-- Formal - [honor](image.md) or an official title bestowed by a [group](groupsmember.md), often established by the [culture](culture.md).
+- Formal - [honor](image.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](culture.md).
 - Fame - [familiarity](image.md) with a name.
 - Property/Wealth - ownership of things, [people](slavery.md), [intellectual properties](legal-ip.md), or [rights](boundaries.md) that can accomplish a [purpose](purpose.md).
 - Money - a specific means of stockpiling others' [power](power.md) for later, with each person basing its [value](values-quality.md) on how much they [believe](understanding-certainty.md) everyone else [values](values-quality.md) it (i.e., [economics](economics.md)). It's relatively [measurable](math.md) compared to all the other forms of power, and is one of the few that we can trade.
@@ -55,6 +55,6 @@ Narrative - [language](language.md) skills to [adapt](mind-creativity.md) or [di
 Subdivisions - anything that breaks out power where multiple people can own the same thing:
 
 - Usage rights - the right to use something without owning it (e.g., renting, mining rights, streaming media services).
-- Group affiliation - [connection with](groupsmember.md) or [leadership](groupssmall.md) of a collectively powerful organization.
+- Group affiliation - [connection with](groups-member.md) or [leadership](groups-small.md) of a collectively powerful organization.
 
 Secrets - information that others don't know, which disseminates in approximately equal portions from [understanding](understanding.md) and [gossip](people-conversation.md).

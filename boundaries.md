@@ -10,9 +10,9 @@ Because reputation is built around feelings, it's rarely [rational](logic.md). A
 
 Reputations prove beforehand to others about what they should [expect](imagination.md). It usually indicates what someone [has legitimately done](mind-creativity-results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](insurance.md)).
 
-The limit of [power](power.md) from a reputation is what that entire [group](groupslarge.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
+The limit of [power](power.md) from a reputation is what that entire [group](groups-large.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
 
-To [communicate](language.md) a reputational image is *highly* contextual and will bestow honor or shame on a person depending on the situation. Most of the value people feel from their honor and shame comes through a third party observing it, which is why [group leaders](groupssmall.md) have more [power](power.md) to bestow honor and shame than [members](groupsmember.md).
+To [communicate](language.md) a reputational image is *highly* contextual and will bestow honor or shame on a person depending on the situation. Most of the value people feel from their honor and shame comes through a third party observing it, which is why [group leaders](groups-small.md) have more [power](power.md) to bestow honor and shame than [members](groups-member.md).
 
 To be famous is to have so much attention on you that you have no medium to sufficiently respond to the people who [communicate with you](people-conversation.md).
 

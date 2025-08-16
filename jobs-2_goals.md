@@ -276,7 +276,7 @@ Consider your obstacles and possible challenges:
 - Any demographic limitations you may face (e.g., race, weight, height, learning disabilities)
 - Background experience that will haunt you (e.g., criminal history, nationality)
 - The kinds of people you may need to avoid or surround yourself with
-- The [cultural expectations](people-3_respect.md) of the [groups](groupssmall.md) you desire to join
+- The [cultural expectations](people-3_respect.md) of the [groups](groups-small.md) you desire to join
 
 Imagine a standard workday of your desired job, then imagine the workdays that will lead to that day.
 
@@ -338,7 +338,7 @@ Look for jobs that fit where your life is going:
 
 - If you want to [succeed](success-1_why.md), try to find opportunities for personal development.
 - If you're still young, look for chances to travel the "unbeaten path".
-- If you have [political aspirations](groupslarge.md) at all, many companies may share your vision.
+- If you have [political aspirations](groups-large.md) at all, many companies may share your vision.
 - A more relaxing job gives time to recuperate from a [severe hardship](hardship.md).
 - If you prefer the privacy and convenience, about 1/3 of the jobs can be 100% remote.
 
@@ -371,7 +371,7 @@ Note current trends within your desired industry:
   - Generally, your work becomes obsolete proportionally to how specialized you are.
 - Make three estimates of the future situation: the worst-case, the best-case, and the most likely.
   - If you're afraid of what may happen, shore up soft skills as a broad backup plan for anything that may arise.
-- Watch carefully for [political trends](trends.md) that tweak the status of the role (e.g., [unionization](groupslarge.md), government [deregulation](rules.md)).
+- Watch carefully for [political trends](trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](rules.md)).
   - If your job is slowly unionizing, you will be paid on existing in that job, *not* on your competence.
   - One consequence of a deregulated industry is that your pay will decrease for the same task, while [entrepreneurial opportunities](entrepreneur-1_why.md) will increase.
 

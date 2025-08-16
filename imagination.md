@@ -72,9 +72,9 @@ The constant [uncertainties](trust.md) of seemingly mundane things, all the way 
 
 ## Expecting chaos
 
-Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-2_children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groupslarge.md) all share that "chaos prediction" in common.
+Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-2_children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
 
-Some people, especially [some large-scale leaders](groupslarge.md) and [entrepreneurs](socialrisk.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](trends.md) inside chaos with *astonishing* accuracy.
+Some people, especially [some large-scale leaders](groups-large.md) and [entrepreneurs](socialrisk.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](trends.md) inside chaos with *astonishing* accuracy.
 
 A [trend](trends.md) is the aggregate behavior of everyone's involved [feelings](mind-feelings.md), so the secret to successfully tracking [trends](trends.md) requires understanding which key details to focus on. However, this is very difficult, since it requires *both* [empathy](mind-feelings.md) of the relevant demographics alongside a consistent [analysis](logic.md) of those collective sentiments over time.
 
@@ -121,7 +121,7 @@ Further, we're pretty good at guessing what has happened, but are typically awfu
 1. We're bad at predicting [trends](trends.md) we haven't seen and things we can't know.
 2. We tend not to comprehend the [effects](mind-creativity-results.md) of [technology](technology.md) or changes in collective [understanding](understanding.md), which dramatically changes the effects of various factors.
 3. We tend to overstate what we [feel](mind-feelings.md), even when we're experiencing a distinctly unlikely situation.
-4. We don't like [uncertainty](understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groupsmember.md)). This means technical realities and constraints are lost in our pursuit for [certainty](understanding-certainty.md).
+4. We don't like [uncertainty](understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groups-member.md)). This means technical realities and constraints are lost in our pursuit for [certainty](understanding-certainty.md).
 
 Even with [statistics](math.md), capturing [information](image.md) for [analysis](logic.md) doesn't make our predictions more reliable:
 

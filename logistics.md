@@ -31,7 +31,7 @@ The pace and severity of the work depends *very* heavily on the role:
 - Warehouse and storage workers have a comparatively boring task of filling up and emptying containers within the replenishing system. The same applies to the steward/concierge/conductor role, but with the additional aspect of [customer service](people-3_respect.md).
 - The operator of the vehicle (train, ship, truck) has a relaxing and somewhat antisocial role of safely navigating their vehicle to avoid the worst possible conditions caused by weather and other vehicles.
 
-In general, it takes 18-24 months for an entire supply chain to fully conform to a large-scale change (e.g., disasters, war, [political events](groupslarge.md)).
+In general, it takes 18-24 months for an entire supply chain to fully conform to a large-scale change (e.g., disasters, war, [political events](groups-large.md)).
 
 ## Tradeoffs
 

@@ -130,7 +130,7 @@ If you don't stay near civilization, you'll have to face [natural threats](safet
 Governments may feel like they have all-encompassing power, but they're far less effective than they look:
 
 - The people who run countries are just like you, but with more power and (typically) fewer experiences than you that may give you an edge in certain situations.
-- [Large organizations](groupslarge.md) require [bureaucracy](bureaucracy.md) to function correctly, especially after their purpose changes when a [coup or invasion](hardship-war.md) is over.
+- [Large organizations](groups-large.md) require [bureaucracy](bureaucracy.md) to function correctly, especially after their purpose changes when a [coup or invasion](hardship-war.md) is over.
 
 If you are being targeted, however, leave the country immediately unless you plan to start/join a coup and fight back, since that government has more manpower and guns than you.
 

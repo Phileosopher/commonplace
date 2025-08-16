@@ -1,7 +1,7 @@
 
 # Rule methods
 
-These methods are applicable to *all* [leaders](groupssmall.md). The only limit is how much [power](power.md) they have to take away others' power. It doesn't matter if they're a government, corporation, or club.
+These methods are applicable to *all* [leaders](groups-small.md). The only limit is how much [power](power.md) they have to take away others' power. It doesn't matter if they're a government, corporation, or club.
 
 ## A. "Fear Points"
 
@@ -19,7 +19,7 @@ Broadly, taking away inherent [human rights](people-3_respect.md) such as free s
 
 Most of these are considered immoral unless they're a response to someone doing it to someone else (e.g., a rapist going to prison).
 
-Often, detainment is within a [small community](groupssmall.md) of other people who have also violated others' rights, and often for a set period of time.
+Often, detainment is within a [small community](groups-small.md) of other people who have also violated others' rights, and often for a set period of time.
 
 ## D. Forced Labor
 
@@ -35,7 +35,7 @@ Can technically incorporate [bureaucratic runaround](bureaucracy.md) as well.
 
 Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](accounting.md).
 
-The easiest way to transfer power without any major loss in the transaction, which is necessary to keep that [group](groupslarge.md) operating.
+The easiest way to transfer power without any major loss in the transaction, which is necessary to keep that [group](groups-large.md) operating.
 
 - However, there *will* be a non-trivial loss in [purpose](purpose.md) toward performing the task in a sanctioned way if the tax surpasses a certain amount (i.e., Laffer Curve).
 
@@ -43,7 +43,7 @@ The easiest way to transfer power without any major loss in the transaction, whi
 
 The act of taking or demolishing something someone has, frequently to [symbolically](symbols.md) humiliate them.
 
-This isn't always physical, and can sometimes be [intellectual property rights](legal-ip.md) or ownership of [organizations](groupslarge.md).
+This isn't always physical, and can sometimes be [intellectual property rights](legal-ip.md) or ownership of [organizations](groups-large.md).
 
 ## G. Incarceration
 

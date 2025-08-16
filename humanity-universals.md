@@ -44,7 +44,7 @@ Conflicts
 - We all possess different points of view and opinions, which clash against each other.
 - First, they [clash](conflicts-inner.md) against our [understanding](understanding.md) inside our minds.
 - Then, we [push](boundaries.md) against others around us with our [beliefs](understanding-certainty.md).
-- Taken far enough, multiple [groups](groupslarge.md) will [oppose](people-conflicts-war.md) each other.
+- Taken far enough, multiple [groups](groups-large.md) will [oppose](people-conflicts-war.md) each other.
 
 Companionship
 
@@ -59,7 +59,7 @@ Conscious/Subconscious
 Decisions
 
 - We all make decisions based on an elaborate [calculation](decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
-- We tend to hand those decisions to more powerful people as we conform to [group](groupsmember.md) [standards](culture.md).
+- We tend to hand those decisions to more powerful people as we conform to [group](groups-member.md) [standards](culture.md).
 
 Denying Death
 
@@ -108,7 +108,7 @@ Feelings
 Focus
 
 - While we can train ourselves against it, we tend to lock into doing things and forget everything else around us when we're devoted to a [purpose](purpose.md).
-- We tend to self-hypnotize over things we [believe](understanding-certainty.md) and tend to let our [leaders](groupsmember.md) [hypnotize](power-influence.md) us.
+- We tend to self-hypnotize over things we [believe](understanding-certainty.md) and tend to let our [leaders](groups-member.md) [hypnotize](power-influence.md) us.
 
 Food
 
@@ -225,9 +225,9 @@ Routines/Rituals/Habits
 
 Rules
 
-- Whoever has the most [power](power.md) in a group is declared the [leadership](groupssmall.md) and makes the [rules](rules.md).
+- Whoever has the most [power](power.md) in a group is declared the [leadership](groups-small.md) and makes the [rules](rules.md).
 - The rules are generally considered [immoral](morality.md) to break, but people still break them and try to [hide it](image-distortion.md).
-- The most powerful social structure in a region is a [government](groupslarge.md).
+- The most powerful social structure in a region is a [government](groups-large.md).
 
 Selfishness
 
@@ -242,7 +242,7 @@ Shelter
 Social Structures
 
 - We have a [bias](mind-bias.md) toward our [children](parenting-2_children.md) and [family](people-family.md).
-- Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groupssmall.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
+- Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
 - While we'll still [identify](identity.md) as separate beings, we'll also identify as part of that group.
 - We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
 - We give permanent [statuses](image.md) to people in that group for their [achievements](mind-creativity-results.md), which become [types of power](power-types.md).
@@ -251,7 +251,7 @@ Social Structures
 Specializations
 
 - We break off into [specialized](jobs-specialization.md) [purposes](purpose.md) based on our [preferences](humanity.md).
-- Those divisions are indefinitely subdivided as more people join the [group](groupssmall.md).
+- Those divisions are indefinitely subdivided as more people join the [group](groups-small.md).
 
 Stories
 
@@ -275,7 +275,7 @@ Technology
 
 - We combine things together in useful ways to make [tools](technology.md).
 - We [share](people-conversation.md) how to make those tools with everyone else.
-- Over time, we build an ever-growing body of knowledge in our [groups](groupssmall.md).
+- Over time, we build an ever-growing body of knowledge in our [groups](groups-small.md).
 - Regardless of what society, everyone makes technology around medicine, fighting, and convenience.
 - We tend to mistake our [creations](creations.md) as "separate" from nature.
 
@@ -311,7 +311,7 @@ Violence
 - Even the most peaceful societies have [evil](morality-evil.md).
 - This evil frequently becomes outright [fighting and brutality](boundaries.md).
 - Because of this, every society needs [rules](rules-methods.md) for dealing with it.
-- Sometimes, for the sake of [power](power.md), [large organizations](groupslarge.md) will [fight](people-conflicts-war.md) with one another, which can include war.
+- Sometimes, for the sake of [power](power.md), [large organizations](groups-large.md) will [fight](people-conflicts-war.md) with one another, which can include war.
 
 Water
 

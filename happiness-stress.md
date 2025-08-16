@@ -173,7 +173,7 @@ Psychological needs relate to how we see ourselves in the world:
 - The need to [emotionally release](mind-feelings.md) through crying, venting, or [creating](mind-creativity.md)
 - The need to see [evidence of growth or improvement](mind-creativity-results.md)
 - The need for to [be certain about something](understanding-certainty.md)
-- The need for [something to work toward](meaning.md) or [be a part of](groupssmall.md), as well as [evidence of success](success-1_why.md)
+- The need for [something to work toward](meaning.md) or [be a part of](groups-small.md), as well as [evidence of success](success-1_why.md)
 - The need to help other people do the same, often via [parenting](parenting-1_babies.md) or [management](mgmt-1_why.md)
 
 Frequently, most things we do meet multiple physical/psychological needs at once.

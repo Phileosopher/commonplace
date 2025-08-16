@@ -39,7 +39,7 @@ Monism - There is only one principle, essence, substance or energy.
 - Materialism - The only thing that exists is matter, and all "non-material" things are just material interactions.
   - Christian materialism - The only thing that "exists" are the material things, which are an extension of Jesus.
   - Dialectical materialism - Ideas and arguments can only exist as matter, so the subconscious state of humanity doesn't exist.
-  - Historical materialism - People exist because their [social group](groupsmember.md) defines them, not because they are conscious in their mind.
+  - Historical materialism - People exist because their [social group](groups-member.md) defines them, not because they are conscious in their mind.
   - Naturalism/Metaphysical naturalism - Values, souls, and anything else "supernatural" is merely part of the natural.
   - Physicalism - Everything is physical, and thus scientifically knowable.
     - Eliminative materialism - Some of the weird things people believe in don't exist.
@@ -185,7 +185,7 @@ Behaviorism - Presuming materialism (see above), the mind isn't significant to a
 - Methodological behaviorism - Psychological data must be outwardly measurable, so only what people do can be measured or controlled.
   - Psychological behaviorism - People learn by things beyond normal animal understanding, since we have a remarkable learning ability.
   - Radical/Skinner behaviorism - Human behaviors are learned, so even people's thoughts can be measured or controlled.
-  - Post-Skinnerism/Teleological behaviorism - Human behaviors are learned, so [large groups](groupslarge.md) can be measured (close to [macroeconomics](economics.md)).
+  - Post-Skinnerism/Teleological behaviorism - Human behaviors are learned, so [large groups](groups-large.md) can be measured (close to [macroeconomics](economics.md)).
 
 Conventionalism - Some fundamental [universals of existence](humanity-universals.md) are grounded on agreements in society, not strictly on [reality](reality.md).
 
@@ -203,7 +203,7 @@ Externism - Only outside experience is certain, and there's nothing certain insi
 Ethnocentrism - People view their environment through their [culture](culture.md).
 
 - Methodological relativism - A researcher must suspend their [cultural biases](culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](mind-creativity-results.md).
-- Polylogism - People think differently because of the [groups](groupssmall.md) they're in.
+- Polylogism - People think differently because of the [groups](groups-small.md) they're in.
 
 Innatism - The mind is born with ideas or knowledge, so not all of it comes from experiences. Contrasts against empiricism.
 
@@ -340,7 +340,7 @@ Methodological reductionism/Scientific reductionism/Occamism/Occam's razor - Exp
 
 Logical positivism - Philosophy should have the same rigor as [science](science.md), with strict rules for judging sentences as true, false, or meaningless.
 
-- Comtism - All metaphysics and theology should be replaced by a hierarchy of [sciences](science.md) that start with [math](math.md) at the bottom to [sociology](groupsmember.md) at the top.
+- Comtism - All metaphysics and theology should be replaced by a hierarchy of [sciences](science.md) that start with [math](math.md) at the bottom to [sociology](groups-member.md) at the top.
 
 Phenomenal conservatism - It's reasonable to assume things are as they appear unless there's a good reason to doubt it.
 
@@ -513,7 +513,7 @@ Moral relativism - Presuming relativism (see above), morality is completely rela
 
 Moral universalism/Universalism - Moral statements can apply universally. A middle ground between moral absolutism and moral relativism.
 
-## [Government/Politics](groupslarge.md)
+## [Government/Politics](groups-large.md)
 
 ### Can we understand politics and society?
 
@@ -523,7 +523,7 @@ Formalism (economic anthropology) - Far-reaching principles of economics can app
 
 Interactionism - Large-scale elements of society form through [social interaction](people-conversation.md).
 
-Social atomism - Every [group of people](groupssmall.md) should be assessed by each individual, since their collective [purposes](purpose.md) constitute the entire group's actions.
+Social atomism - Every [group of people](groups-small.md) should be assessed by each individual, since their collective [purposes](purpose.md) constitute the entire group's actions.
 
 ### What's wrong with society?
 
@@ -569,13 +569,13 @@ Mercantilism/Colbertism - A society should concern aim for the best interests of
 
 - Fascism - Everyone should be loyal to their nation, more than anything else.
 
-Nativism - Presuming ethnocentrism (see above), the original [culture](culture.md) of a [group](groupslarge.md) has more important values than the culture of people joining the group.
+Nativism - Presuming ethnocentrism (see above), the original [culture](culture.md) of a [group](groups-large.md) has more important values than the culture of people joining the group.
 
 Contractarianism/Social contract - People give up some of their [power](power.md) to governments to protect the rest of their rights or maintain [order](boundaries.md).
 
 Social Darwinism - Some people are more fit to rule society than others.
 
-- Critical race - Some racially-divided [groups of people](groupslarge.md) are so [powerful](power.md) that other groups are destined to always lag behind, so rulers must help those weaker races.
+- Critical race - Some racially-divided [groups of people](groups-large.md) are so [powerful](power.md) that other groups are destined to always lag behind, so rulers must help those weaker races.
 
 Speciesism - Social status should be based on species membership, usually implying that humans have more value than other animals.
 

@@ -35,7 +35,7 @@ Find new ways to socialize:
 Learn to BIRG:
 
 - BIRGing is "basking in reflected glory", which is feeling the success of someone else.
-- Most [clubs and groups](groupsmember.md) are BIRGing together at some level.
+- Most [clubs and groups](groups-member.md) are BIRGing together at some level.
 - By connecting our feelings of accomplishment to someone else, we can become satisfied with their success, as well as [fuel our drive to succeed](success-1_why.md).
 
 Open yourself to new social challenges:

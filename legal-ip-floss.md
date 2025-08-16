@@ -285,13 +285,13 @@ While the codebase is completely public and open, open-source [version control](
    - It's a type of [communism](politics-systems.md), which creates an organic and varied form of growth, but is wildly unpredictable.
    - In terms of quality, it's often *very* difficult for fully open software to compete with proprietary software.
 2. Anyone is free to contribute or fork whatever they want, but the original code owners possess a "[benevolent dictatorship](politics-systems.md)" through the approval/denial of [pull requests](computers-software-versionctrl.md).
-   - This is a much more hands-on form of [management](groupslarge.md) (and can sometimes become highly controversial).
+   - This is a much more hands-on form of [management](groups-large.md) (and can sometimes become highly controversial).
    - Centralized control by a few developers guarantees a more effective software, and the software is often *better* than any proprietary software could be.
    - However, there's a *much* higher likelihood of the code forking off due to a petty dispute over a mostly irrelevant feature.
 3. An "open-core" concept, with all the features coming as plugins or extensions.
    - The final software is effectively a proprietary system, with most of the work maintaining the code performed by the organization's members.
    - This has been proven as a successful [business model](entrepreneur-2_idea-cs.md) (e.g., Google's Android OS, most Apache software) that allows complete freedom while also giving control to the original developers.
-   - It's not uncommon for forks without that [organization's](groupslarge.md) involvement, which may mean competition or dramatic permutations from the original software.
+   - It's not uncommon for forks without that [organization's](groups-large.md) involvement, which may mean competition or dramatic permutations from the original software.
 4. People are *not* free to contribute or fork whatever they want (closed-contribution), though the software is still open-source.
    - This is basically #2, but with more constraints, since too many pull requests can cause burnout for developers.
    - [Features](computers-software-maintenance.md) require extra work to implement, and then require more work to maintain.
@@ -301,7 +301,7 @@ Open-source projects are *not* exempt from politics and [social decay](mgmt-bads
 
 - Many open-source developers feel entitled:
   - They may feel their contributions deserve [recognition](image.md), they deserve payment, or their pull requests should be automatically approved from [what they've done in the past](power-influence.md).
-- The scope of authority in an open-source project comes through how much contribution someone invests into it, and an open-source community has the same [group hierarchy](groupssmall.md) as any other organization.
+- The scope of authority in an open-source project comes through how much contribution someone invests into it, and an open-source community has the same [group hierarchy](groups-small.md) as any other organization.
   - They often must invest time to follow the project's mailing list or pull requests, and typically must follow the group's [social norms](people-rules.md).
 - Every open-source project goes through the same predictable [trend](trends.md) of growth, stagnation, then decay, which will eventually spawn a [defective culture](mgmt-badsystems.md) around it.
   - Sometimes, a long-standing and popular open software may be significantly inferior to another open-source product, but can screw up the [reputation](image.md) of the *entire* open-source community by dominating everyone's attention. This entire situation can make proprietary choices prevail for longer.

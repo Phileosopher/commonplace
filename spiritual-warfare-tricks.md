@@ -19,7 +19,7 @@ Since the battle is over the mind, and information is the vehicle for how we [un
 
 The devil's entire [purpose](purpose.md) is to create a constantly [fearful](mind-feelings-fear.md), anxious, bewildered, unsettled person who [reacts](habits.md) before thinking.
 
-- [Political events](groupslarge.md) like [war](people-conflicts-war.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
+- [Political events](groups-large.md) like [war](people-conflicts-war.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
 - In peacetime, we can turn to materialism and worldliness, since it distracts from the [inevitability of death](hardship-death.md).
 - However, incessant war is bad for the devil because it brings out [good things](morality.md) in people, even non-believers.
 - If we internalize it correctly, [hardship](hardship.md) can be very valuable for our spiritual development. Otherwise, the devil can make us live with perpetual [PTSD](hardship-ptsd.md).
@@ -97,7 +97,7 @@ To destroy deeper [philosophical](philosophy.md) and theological thought, demons
 
 God wants us to be constantly aware of what we don't [know](understanding.md) and not particularly concerned with what we *do* know, so the devil tries to make us lean on our understanding as much as possible:
 
-- God's [purpose](purpose.md) for humility is for us to [enjoy](happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](mind-creativity-results.md), and [relationships](groupssmall.md) all [came from God](god.md) in the first place.
+- God's [purpose](purpose.md) for humility is for us to [enjoy](happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](mind-creativity-results.md), and [relationships](groups-small.md) all [came from God](god.md) in the first place.
 - Generally, he'll provoke us to overthink things, creating [elaborate models](logic.md) we can then [require](imagination.md) everything else to conform into. This is easy for the Satan, proportionally to our intelligence.
 - However, if we *are* humbled by what we don't know, he'll draw attention to it to provoke conceit in us about how humble we are. If we self-invalidate ourselves, we may become conceited about *that* until we stop thinking about it.
 - When we finally believe an inconsistent contradiction, we can often attain a false humility inspired by self-hatred. That self-hatred comes through the fact that we can't seem to *ever* [imagine](imagination.md) anything that conforms to [reality](reality.md). At this point, the devil owns the person.
@@ -168,7 +168,7 @@ The Satan will magnify our attention on daily nuisances people may have with one
 When we discover the nature of new [friends](people-4_friends.md), he uses a technique to tempt and distort reality:
 
 1. If the person is [unaware](awareness.md) enough, they can be tempted to wear many masks to maintain a [false image](image.md) among various social circles.
-2. Once that person has seen their double life, they can be inspired to feel superior over their "open-mindedness" to other [groups](groupssmall.md).
+2. Once that person has seen their double life, they can be inspired to feel superior over their "open-mindedness" to other [groups](groups-small.md).
 3. Finally, convince them that avoiding association with their more worldly friends would be something vaguely "intolerant" or "unloving".
 4. From here, people may spend too much [money](money-1_why.md) on the wrong things and experience [division](boundaries.md) with their [families](church-family.md).
 
@@ -198,7 +198,7 @@ Any [conflict or struggle](conflicts-inner.md) is a golden opportunity for the d
 Even when he can't provoke us to conceited thinking or distract us with a bad [belief](understanding-certainty.md) from inexperience, he can still use our behaviors to make others [stumble](morality-sins.md):
 
 - He'll provoke people to imitate bad behaviors alongside good ones, then will magnify the bad behaviors until the person is imitating a [caricature](image-distortion.md) of their role model's original bad behavior.
-- God will often endure our [prejudices](image.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groupssmall.md), starting with unbelievers and eventually covering other believers.
+- God will often endure our [prejudices](image.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groups-small.md), starting with unbelievers and eventually covering other believers.
 
 ## Tricks With Groups
 

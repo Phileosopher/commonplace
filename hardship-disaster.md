@@ -53,7 +53,7 @@ Finally, any aspect of civilization in a society will collapse when 5 conditions
 
 1. People make enough impact on the ecosystem that it changes to [that culture's](culture.md) disadvantage.
 2. The [weather](weather.md) shifts unfavorably to that culture.
-3. That [group of people](groupslarge.md) pull away from mutually beneficial relationships with friendly groups.
+3. That [group of people](groups-large.md) pull away from mutually beneficial relationships with friendly groups.
 4. Relative military strength worsens that group's relationships with [other hostile groups](people-conflicts-war.md).
 5. The group uses [deconstructive or short-term solutions](mgmt-badsystems.md) to solve its problems.
 
@@ -62,7 +62,7 @@ Finally, any aspect of civilization in a society will collapse when 5 conditions
 We tend to preoccupy ourselves with unlikely events and ignore likely ones, and fiction often makes our expectations of disasters even more ridiculous:
 
 - Specific viruses that uniquely mutate/kill humanity (e.g., The Walking Dead).
-- Tyrannical government that radically changes the [sociopolitical landscape](groupslarge.md) (e.g., Nineteen Eighty Four, Brave New World).
+- Tyrannical government that radically changes the [sociopolitical landscape](groups-large.md) (e.g., Nineteen Eighty Four, Brave New World).
 - Global thermonuclear [war](people-conflicts-war.md) (e.g, Doctor Strangelove, Fallout).
 - [AI](computers-ai.md)/robots that become sentient and rapidly decide to destroy humanity (e.g, Terminator).
 - Extraterrestrials that invade earth (e.g, War of the Worlds, Independence Day).

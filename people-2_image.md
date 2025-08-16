@@ -322,7 +322,7 @@ If you have a hickey (skin marks on the neck):
 Try to convey a story from bottom to top:
 
 - People will observe your shoes first, then your legs, then up to your face, then your chest.
-- Your choice of clothing demonstrates what [social groups](groupsmember.md) you're part of.
+- Your choice of clothing demonstrates what [social groups](groups-member.md) you're part of.
 - Generally, aim for conservative old styles with a modest sprinkling of newer styles mixed in.
 
 The simpler your outfit, the more straightforward you'll appear:

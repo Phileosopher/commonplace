@@ -26,7 +26,7 @@ However, each culture values different things:
 - Saudi Arabia, Nepal, Ukraine, and some African countries measure success with [money](money-1_why.md).
 - Wealthy nations often find it in safety and [housing](home-buysell.md).
 - A handful of countries, like Australia, value work-life balance.
-- Bhutan and Zimbabwe determine success through [community involvement](groupsmember.md).
+- Bhutan and Zimbabwe determine success through [community involvement](groups-member.md).
 - Medieval Italians believed success was [calmly hiding the severity of life](https://en.wikipedia.org/wiki/Sprezzatura).
 
 We have various ways to measure success:
@@ -92,7 +92,7 @@ Don't compare yourself to others:
 
 Everything in the physical world changes, decays, and [becomes obsolete](trends.md).
 
-Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-1_why.md), [large organizations](groupslarge.md)).
+Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-1_why.md), [large organizations](groups-large.md)).
 
 The most long-lasting success involves self-discipline:
 

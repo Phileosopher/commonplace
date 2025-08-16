@@ -162,7 +162,7 @@ The only legitimate deterioration of things persisting indefinitely comes throug
 
 To make something sustainable, everyone should feel peace about their [purposes](purpose.md). This requires all classes of society to have equal and fair [rules](rules-methods.md), [equally enforced](morality-justice.md).
 
-But, equal rules aren't easy because corruption often creeps into the highest places of society. The answer is a [hybrid republic and democracy form of government](politics-systems.md), along with term limits, complete public transparency about everything, and a completely unfettered [press](stories-storytellers.md), just in case anything starts becoming [suspicious](mgmt-badsystems.md). Even then, it can implode at any time if enough [groups](groupslarge.md) conspire together to overthrow it, from [inside or out](people-conflicts-war.md).
+But, equal rules aren't easy because corruption often creeps into the highest places of society. The answer is a [hybrid republic and democracy form of government](politics-systems.md), along with term limits, complete public transparency about everything, and a completely unfettered [press](stories-storytellers.md), just in case anything starts becoming [suspicious](mgmt-badsystems.md). Even then, it can implode at any time if enough [groups](groups-large.md) conspire together to overthrow it, from [inside or out](people-conflicts-war.md).
 
 ## Goal 12: Responsible Consumption and Production
 
@@ -172,7 +172,7 @@ Because of human [purpose](purpose.md), we always want to maintain and sustain t
 
 However, as groups scale, the [purpose shifts](mgmt-badsystems.md). A logging manager, for example, cares more for self-interested management than self-interested logging, and there's more in common among management roles in different industries than there is among their lowest-ranking members.
 
-In that sense, large organizations that create a [subgroup](groupssmall.md) of cultural [elites](classes.md) are the general cause of all [large-scale waste](mgmt-badsystems.md). However, this tends to happen with *any* group that lasts more than a few decades.
+In that sense, large organizations that create a [subgroup](groups-small.md) of cultural [elites](classes.md) are the general cause of all [large-scale waste](mgmt-badsystems.md). However, this tends to happen with *any* group that lasts more than a few decades.
 
 ## Goal 13: Climate Action
 
@@ -218,7 +218,7 @@ In an evolutionary sense, other organisms on this planet aren't as fit as us. Th
 
 The justice of a society hangs heavily on its [culture](culture.md). A [good society](perfectsociety.md) requires a culture driven on aspects of [love for each other](people-love.md). Otherwise, it requires [fair](morality-justice.md) and well-enforced [laws](rules.md).
 
-The culture of a society is determined by its leaders, both [big](groupslarge.md) and [small](groupssmall.md).
+The culture of a society is determined by its leaders, both [big](groups-large.md) and [small](groups-small.md).
 
 - While [Plato's philosopher-kings](https://en.wikipedia.org/wiki/Philosopher_king) is a silly elitist concept, we must know the [moral basis](morality.md) for everyone who comes into power.
 
@@ -226,7 +226,7 @@ The closest thing we have, barring a theocracy, is a [free-market solution](econ
 
 - This is subject to abuse since political power becomes a [popularity contest](image-distortion.md), but it's worked the best so far to preserve life and [liberties](people-3_respect.md) compared to all the other solutions (e.g., military takeovers).
 
-It's a compounding issue: the culture affects the leadership, which affects the culture. The solution goes back to *everyone* receiving [basic human rights](people-3_respect.md), then making sure in some way that the [leadership](groupslarge.md) is punished for violating them.
+It's a compounding issue: the culture affects the leadership, which affects the culture. The solution goes back to *everyone* receiving [basic human rights](people-3_respect.md), then making sure in some way that the [leadership](groups-large.md) is punished for violating them.
 
 ## Goal 17: Partnerships
 

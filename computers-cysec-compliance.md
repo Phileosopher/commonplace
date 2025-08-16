@@ -3,7 +3,7 @@
 
 Managing [cybersecurity](computers-cysec.md) for large organizations is vastly complicated compared with [individually-focused security](safety-security.md).
 
-Individually managing permissions and configurations becomes more difficult across [a group of people](groupssmall.md), for several reasons:
+Individually managing permissions and configurations becomes more difficult across [a group of people](groups-small.md), for several reasons:
 
 - Each group consists of a variety of people, and the weakest computer or least-tech-savvy user is the highest risk for the organization.
 - A group draws more attention than an individual, proportionally to its popularity, creating more desire for hackers to infiltrate it.

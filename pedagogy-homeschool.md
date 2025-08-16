@@ -447,7 +447,7 @@ They're now ready to [manage their time better](success-4_routine.md) and [organ
 
 Applied
 
-- Can participate in [group](groupssmall.md) [decisions](decisions.md).
+- Can participate in [group](groups-small.md) [decisions](decisions.md).
 - Able to [memorize](mind-memory.md) and recall facts.
 
 Literacy

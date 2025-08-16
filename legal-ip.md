@@ -137,7 +137,7 @@ Very frequently, copyright holders would prefer people simply rent their service
 - Renting is a steady source of income (e.g., streaming services), while purchasing the object outright is a one-time revenue (e.g., a DVD).
 - It also gives room for the creator to adapt the work according to [fashions](trends.md), though it *does* violate the [first-sale doctrine](legal-doctrines.md).
   - For example, [Roald Dahl e-book distributors forced censored versions onto readers](https://archive.fo/OSLQN).
-- More technology available to distribute copyrighted works means [large organizations](groupslarge.md) can control more of the experience (i.e., [Wagner's Law](lawsaxioms.md)).
+- More technology available to distribute copyrighted works means [large organizations](groups-large.md) can control more of the experience (i.e., [Wagner's Law](lawsaxioms.md)).
 
 For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](faang.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
 

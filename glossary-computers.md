@@ -942,7 +942,7 @@ IPS - intrusion protection system, software that stops intruders from hacking a 
 
 ISA - instruction set architecture, an abstraction that involves taking instructions and following them carefully, most popular implementation in the CPU
 
-ISP - internet service provider, an [organization](groupslarge.md) that provides internet service
+ISP - internet service provider, an [organization](groups-large.md) that provides internet service
 
 Iteration - a repeatable, simple task
 

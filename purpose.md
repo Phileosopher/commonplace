@@ -95,7 +95,7 @@ Further, if we *don't* resolve problems, they usually get worse. Taken far enoug
 
 Most large problems are simpler, small problems piled together. The vast majority of the time, [addressing](https://adequate.life/fix/) many smaller problems is far easier than fixing one large, interconnected problem.
 
-Across time and with [more people](groupsmember.md) involved, problems become complicated:
+Across time and with [more people](groups-member.md) involved, problems become complicated:
 
 - We'll often do things we hate, but will start liking them out of familiarity as we build [habits](habits.md).
 - We'll often find [meaning](meaning.md) through the [methods](habits.md) we use to fulfill a purpose, which will often become part of our [identity](identity.md).
@@ -153,6 +153,6 @@ When we feel perfectly [safe](safety.md), our recreation represents different le
 
 If a purpose isn't driven strictly by a [principle](values.md), it's driven strictly by [culturally](culture.md) established [habits](habits.md).
 
-While this doesn't make any difference for any specific purpose, they create severely contrasting [results](mind-creativity-results.md) when [confronted](boundaries.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groupssmall.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
+While this doesn't make any difference for any specific purpose, they create severely contrasting [results](mind-creativity-results.md) when [confronted](boundaries.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
 
 However, every person is at least somewhat [influenced](power-influence.md) by others around them. Most significantly, our [close friends](hardship-friends.md) can alter how we [decide](decisions.md) and, ultimately, our quality of character.

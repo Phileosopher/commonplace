@@ -76,7 +76,7 @@ Autocracies only come in two forms:
 
 Pros:
 
-- Easy to set up, since it's basically how *every* [small group](groupssmall.md) starts.
+- Easy to set up, since it's basically how *every* [small group](groups-small.md) starts.
 - Easy to control people directly, assuming they don't [rebel](people-conflicts-war.md).
 
 Cons:
@@ -121,7 +121,7 @@ Cons:
 - Any well-designed oligarchy can devolve into a corrupt leadership at any time:
   - Anocracy - elite groups are constantly [competing](weather.md) for power.
   - Bankocracy - run by [financial](power-types.md) authorities like [banks](money-investing.md)
-  - Corporatocracy - run by [corporations](groupslarge.md)
+  - Corporatocracy - run by [corporations](groups-large.md)
   - Kakistocracy - run by the least-qualified citizens
   - Kleptocracy - run by thieves
     - Banana republic - [economically](economics.md) run through a multi-organization plutocracy exporting a scarce resource
@@ -180,7 +180,7 @@ When a government gets particularly large (i.e., surpassing thousands of people,
 
 There are a few regional groupings for governments:
 
-- Commune - a [small group](groupssmall.md) of people living together
+- Commune - a [small group](groups-small.md) of people living together
 - City-state - a city-sized sovereign state
 - Nation-state/national government - a large geographical region who has at least some control of everything in that area
 - Intergovernmental organizations - people groups who work in between various governments
@@ -236,7 +236,7 @@ Pros:
 Cons:
 
 - Not much central control.
-- Difficult to get everyone on the same page about a big thing (i.e., tragedy of the commons on a [group level](groupslarge.md)).
+- Difficult to get everyone on the same page about a big thing (i.e., tragedy of the commons on a [group level](groups-large.md)).
 
 ### Unrecognized states
 

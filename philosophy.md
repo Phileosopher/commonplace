@@ -28,7 +28,7 @@ These abstractions are *far* more [useful](purpose.md) than just that line of wo
 - [Art and criticism](values-quality.md) are dividing and reproducing [beauty](mind-creativity.md).
 - Physical labor is manipulating [metaphysics](reality.md).
 - Engineering is making knowable [metaphysics](reality.md) observable and reproducible.
-- [Friendships](people-4_friends.md), [social trends](trends.md), and [politics](groupslarge.md) are the connections between minds.
+- [Friendships](people-4_friends.md), [social trends](trends.md), and [politics](groups-large.md) are the connections between minds.
 
 ### Abstracted
 
@@ -66,7 +66,7 @@ But, it has limited use because not everyone *cares* to develop their relationsh
 
 ### III. Political (Age of Reason ~1500-1800)
 
-During the [Protestant Reformation](history-church.md) and transition into a secularized society, philosophers like Locke, Voltaire, and Hobbes went *back* to the building blocks of antiquity. This time, they asked how to [live well](goodlife.md) individually, but expanded the question to broadly include how we should live in [groups](groupsmember.md).
+During the [Protestant Reformation](history-church.md) and transition into a secularized society, philosophers like Locke, Voltaire, and Hobbes went *back* to the building blocks of antiquity. This time, they asked how to [live well](goodlife.md) individually, but expanded the question to broadly include how we should live in [groups](groups-member.md).
 
 These explorations diverge from daily life and ask how we can build society into a better place to live. The idea wasn't as a passive exploration of what existed, but as an attempt to *command* reality. They've somewhat succeeded in creating non-religious government, though that's very debatable [depending on who you ask](politics-conservativeliberal.md).
 

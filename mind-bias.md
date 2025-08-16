@@ -426,7 +426,7 @@ Enemy mine - we assume 2 beliefs that share their dislike for a 3rd one must be 
 
 Gender bias - we assume [genders](gender.md) automatically can or can't do certain things
 
-Group attribution error - we assume either one group member represents [the entire group](groupsmember.md), or the group's decision reflects each individual's beliefs
+Group attribution error - we assume either one group member represents [the entire group](groups-member.md), or the group's decision reflects each individual's beliefs
 
 Identifiable victim effect/compassion fade - we only help people when we see 1 person's suffering, but not when it's many people
 
@@ -475,7 +475,7 @@ Bystander effect - we expect other people around us to act when something must b
 
 False consensus effect - we overestimate how much other people agree with us
 
-Halo effect/noble edge effect - we assume our positive impression of someone or a [group](groupslarge.md) means they're also good deep-down
+Halo effect/noble edge effect - we assume our positive impression of someone or a [group](groups-large.md) means they're also good deep-down
 
 In-group favoritism/in-group-out-group bias/in-group bias/intergroup bias/in-group preference - we favor members of our group more than outsiders
 

@@ -8,7 +8,7 @@ Instead, we make an accurate enough [copy of reality](values.md) by filling in i
 - Our senses, such as sight and sounds
 - Memories of our senses we've stored in our brains
 - Things we [understand](understanding.md) other people have sensed, and aggregates of those things (e.g., [statistics](math-stat.md))
-- What we [trust](understanding-certainty.md) and [believe](understanding-certainty.md) from others, extending across [groups](groupsmember.md) we [identify](identity.md) with and [ideas](values.md) we hold
+- What we [trust](understanding-certainty.md) and [believe](understanding-certainty.md) from others, extending across [groups](groups-member.md) we [identify](identity.md) with and [ideas](values.md) we hold
 
 For the most part, this copy is *stunningly* accurate. It allows us to relive the experience as many times as we want, and we can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](imagination.md) operating a boat).
 
@@ -46,7 +46,7 @@ We have a highly self-centered view of the universe, where we impose our [purpos
 The only time we don't use ourselves as the center is when we [develop another center instead](addiction-centers.md), and our bias is made of a few "angles" that map our meaning to various elements:
 
 - [Cultural](culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
-- [Social](groupsmember.md) - the [power](power.md) dynamics around our [status](groupsmember.md) in a group, where meaning is based on how we [imagine](imagination.md) others' opinions.
+- [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](imagination.md) others' opinions.
 - [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](decisions.md) that create subjective sets of meaning, especially the things we [identify](identity.md) with.
 - [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
 

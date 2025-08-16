@@ -16,7 +16,7 @@ Over time, regret converts into shame:
 
 ## Living with regret and shame
 
-If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groupsmember.md). Instead of learning to [cope with it](decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), often as a result of being trained to be controlled by the [bullies](power.md) of that group.
+If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md). Instead of learning to [cope with it](decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), often as a result of being trained to be controlled by the [bullies](power.md) of that group.
 
 Regret is [useless](mind-creativity-results.md), *except for* when we have [not learned](understanding.md) from the [decision](decisions.md) we had made.
 

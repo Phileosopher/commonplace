@@ -80,7 +80,7 @@ Maintaining things (for those who prefer [routine](habits.md)):
 - **Penetration Tester** [acts like a hacker](computers-cysec-pentest.md) before the [hackers](hacking.md) get to a system.
   - **Vulnerability Analyst** checks for vulnerabilities.
 - **DevSecOps** does *everything* to protect computers.
-- **Security Architect** makes sure [organizations](groupslarge.md)' computer systems are safe enough.
+- **Security Architect** makes sure [organizations](groups-large.md)' computer systems are safe enough.
 
 Severe [math](math.md) roles (for geeks who *like* math):
 
@@ -90,7 +90,7 @@ Severe [math](math.md) roles (for geeks who *like* math):
 
 [Managing people](mgmt-1_why.md) (for people who work well with [other people](power-influence.md)):
 
-- **Chief Technical Officer (CTO)** makes decisions about all the technology portion of the [organization](groupslarge.md).
+- **Chief Technical Officer (CTO)** makes decisions about all the technology portion of the [organization](groups-large.md).
 - **[Role] Manager** [directs a team](mgmt-1_why.md) to get stuff done.
   - **Product Manager** decides how a product should be designed (product roadmaps, competitive analysis, analyzing product features, etc.).
   - **Technical Lead** directs a group of developers.

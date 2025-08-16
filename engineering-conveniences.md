@@ -1,7 +1,7 @@
 
 # List of modern conveniences
 
-Modern life is very convenient. However, most people are born into it without realizing the things that [technology](technology.md) and [large-scale systems](groupslarge.md) can bring us.
+Modern life is very convenient. However, most people are born into it without realizing the things that [technology](technology.md) and [large-scale systems](groups-large.md) can bring us.
 
 These tools should be cherished as a part of civilization, and something to be grateful to our ancestors for having made. In a sense, each time you use something invented by someone, you're connected to that person.
 

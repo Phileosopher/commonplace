@@ -119,7 +119,7 @@ What you do isn't nearly as important as finding a clear [meaning](meaning.md) *
 
 Take responsibility for yourself
 
-Join a [church or club](groupssmall.md)
+Join a [church or club](groups-small.md)
 
 Help someone who needs help or volunteer somewhere
 

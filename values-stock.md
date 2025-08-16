@@ -248,7 +248,7 @@ Justice - Revenge:
 - Getting revenge means you become like the person you're avenging against.
 - Break the cycle of revenge with mercy.
 
-[Group association](groupsmember.md):
+[Group association](groups-member.md):
 
 - Popular group thoughts are often wrong.
 - You're either in the group or out of it, and there's no middle ground.
@@ -294,14 +294,14 @@ Group [expectations](imagination.md):
 - Soldiers are weak-willed and mindless, and only exist to kill and destroy.
 - Civilians are cowards with no sense of responsibility.
 
-[Political and Government](groupslarge.md):
+[Political and Government](groups-large.md):
 
 - Democracy has risks (or is outright mob rule).
 - People should [trust](trust.md) authority.
 - People should *not* [trust](trust.md) authority.
 - Think for yourself (as stated by authority figures).
 - An [idea](values.md) is more important and durable than an individual.
-- It's noble to [fight](people-conflicts-war.md) for your [country](groupslarge.md) strictly on that principle alone.
+- It's noble to [fight](people-conflicts-war.md) for your [country](groups-large.md) strictly on that principle alone.
 - Even when simply following orders, war crimes are bad.
 - There is good in [humanity](humanity.md).
 - Leading through [fear](mind-feelings-fear.md) is necessary.

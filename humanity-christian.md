@@ -147,7 +147,7 @@ Profoundly talented people use their soul for most things in their life.
 
 - Most [creative endeavors](mind-creativity.md) are the product of our souls, and highly gifted people tend to sharpen those skills to mastery.
 - A person with a well-developed soul frequently has a profound [influence](power-influence.md) on themselves and others, at least for a season.
-- Further, soul-oriented people will naturally pursue [leadership roles](groupssmall.md).
+- Further, soul-oriented people will naturally pursue [leadership roles](groups-small.md).
   - In large [Christian groups](mgmt-church.md), most leaders consist of soul-oriented believers who are not spiritually ready for their roles.
 
 The soul itself is infinite.
