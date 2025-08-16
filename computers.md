@@ -58,7 +58,7 @@ As the logic gets more elaborate, the systems become more complicated:
 - At one time, everyone used a keyboard to type in what they wanted, and they had to use punch cards before that.
 - Tapping or clicking something on a screen often runs the same command as if it were typed: a user can navigate to "C:\Program Files\WindowsApps", then run "calc.exe" with a [console command](computers-cli.md).
 - Alternately, that user can use the mouse to select "Calculator", which will run that same "calc.exe" program.
-- There are technically about 4-5 ways to do just about anything on a computer. If you're willing to learn [keyboard shortcuts](os-shortcuts.md), you'll become dramatically faster and [more productive](success-4_routine.md).
+- There are technically about 4-5 ways to do just about anything on a computer. If you're willing to learn [keyboard shortcuts](computers-keyboard-shortcuts.md), you'll become dramatically faster and [more productive](success-4_routine.md).
 - Even more elaborate input devices (such as [VR headsets](compiuters-vr.md)) add even more complexity to the situation.
 
 Touchscreens are often more convenient than mice, but they have a few controls that aren't intuitive without knowing beforehand:

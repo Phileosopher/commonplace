@@ -4,7 +4,7 @@
 Every game is a type of [story](stories.md) with a few components:
 
 1. A setup where everyone has a limited amount of at least some [resources](power-types.md) and must honor some [rules](rules.md).
-2. Everyone has a definite purpose, or "win conditions" that provide a reward or prevent a risk, though they may not always be the same. Those purposes are usually against other players' purposes, directly or indirectly.
+2. Everyone has a definite purpose, or "win conditions" that provide a reward or prevent a risk, though they may not always be the same. Those [purposes](purpose.md) are usually against other players' purposes, directly or indirectly.
 3. Each person has to make decisions that [anticipate what could happen](imagination.md) and consider others' decisions [in light of theirs](image.md).
 4. At the end of the game, each person either wins or loses immediately, without much waiting to find out.
 

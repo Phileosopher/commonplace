@@ -300,7 +300,7 @@ Download any software you think could help you:
 
 Learn computer shortcuts for common software:
 
-- [Operating systems](os-shortcuts.md)
+- [Operating systems](computers-keyboard-shortcuts.md)
 - [Web browsing](browser-shortcuts.md)
 - [Microsoft Office](office-shortcuts.md)
 - Adobe software
