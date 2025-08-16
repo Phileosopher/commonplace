@@ -26,7 +26,7 @@ We discriminate *all the time* for many reasons:
 - What we [imagine](/imagination/) others may think
 - [Past pain](/ptsd/) that may not have present implications
 - What we perceive others may be able to [do](/results/), often defined by their [aptitude](/humanity/), [status](/groups-member/) in specific [groups](/groups-small/), or our [understanding](/understanding/) of their [maturity](/maturity/)
-- [Physical attractiveness](/gender/), distinguishing features like clothing, and [hygiene](https://adequate.life/people-2/)
+- [Physical attractiveness](/gender/), distinguishing features like clothing, and [hygiene](people-2_image.md)
 - Even when we've tried to remove bias, we often discriminate on [ideas](/values/) alone as theories without any consideration for [history](/trends/)
 
 A stereotype is [habitual](/habits/) and [unfair](/justice/) discrimination. Because we're not conscious of it, we make silly overgeneralizations that lose any sense of [logic](/logic/). People can often address it with [humor](/humor/), but when people have suffered [pain](/ptsd/) from the stereotype (or [others can benefit from it](/leftism/)), they'll miss the joke.
@@ -36,6 +36,6 @@ Stereotypes are inherently amoral because we're not aware of them when we build 
 Sneaky
 ------
 
-Because of how much [power](/power/) a reputation can give, people will [work hard](/results/) to [distort and tweak their image](/image-distortion/). Most people do it a little (which is essentially [lying](https://adequate.life/lying/)), but some people are experts at claiming honor and redirecting shame.
+Because of how much [power](/power/) a reputation can give, people will [work hard](/results/) to [distort and tweak their image](/image-distortion/). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
 
-When people are [skillful enough with others](https://adequate.life/people-4/) or [familiar enough with someone](/friendship/), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](/habits/), and [feelings](/feelings/) flavor our habits, any alteration to hide [reality](/reality/) from someone who knows what to [expect](/imagination/) will betray their ulterior [motive](/purpose/).
+When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](/friendship/), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](/habits/), and [feelings](/feelings/) flavor our habits, any alteration to hide [reality](/reality/) from someone who knows what to [expect](/imagination/) will betray their ulterior [motive](/purpose/).

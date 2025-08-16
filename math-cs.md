@@ -1,7 +1,7 @@
 
 # Computer math
 
-Computers use plenty of math. In fact, computer science is pretty much a [runaway branch](https://notageni.us/math/) of applied mathematics.
+Computers use plenty of math. In fact, computer science is pretty much a [runaway branch](math.md) of applied mathematics.
 
 ## Boolean/Arithmetic
 

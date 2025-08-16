@@ -58,7 +58,7 @@ Around 595 BC, Nebuchadnezzar of Babylon conquered Judah ([Jeremiah 52](https://
 In 539 BC, Cyrus the Persian conquered Babylon, and gave free passage for Judeans to return to their land ([Ezra 1-6](https://biblehub.com/ezra/1.htm)).
 
 - Zerubbabel built the Second Temple at this time, but it was radically inferior to the First Temple's glory until centuries later.
-- The Hebrew Torah was canonized at this point, and began Rabbinic Judaism (i.e., mainstream [Judaism](https://gainedin.site/religion/)).
+- The Hebrew Torah was canonized at this point, and began Rabbinic Judaism (i.e., mainstream [Judaism](religion-answers.md)).
 
 Around 450 BC, Nehemiah rebuilt a wall around Jerusalem and reinstituted Hebrew law ([Nehemiah 1-13](https://biblehub.com/nehemiah/1.htm)).
 

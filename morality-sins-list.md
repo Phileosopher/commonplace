@@ -151,7 +151,7 @@ Many things are philosophical gateways for practices God has forbidden
 - Out-of-body experiences, astral projection
 - Shamanism, psychic surgery, crystal healing
 - Spoon bending, trance channeling, pyramid power
-- Discussion of a one-world government or a unified world (often mixed with [climate change](https://gainedin.site/leftism/))
+- Discussion of a one-world government or a unified world (often mixed with [climate change](leftism.md))
 - Ouija boards, many horror movies
 
 Many practices aren't inherently evil but straddle a *very* fine line:

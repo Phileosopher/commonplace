@@ -4,7 +4,6 @@ A repository of my public commonplacing. It is a repo of supporting documentatio
 
 - Adequate Data from [adequate.life](https://adequate.life/)
 - Philosodata from [gainedin.site](https://gainedin.site/)
-- Dumb Data from [notageni.us](https://notageni.us/)
 - Spiritual Data from [theologos.site](https://theologos.site/)
 - Tech Esoterica from [trendless.tech](https://trendless.tech/)
 

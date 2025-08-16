@@ -6,7 +6,7 @@ All [technology](technology.md), proportional to the details necessary to operat
 Technical documents only come from a few possible types of people:
 
 1. The [designer](design-uxui.md) wanted to make life easier for their product's users and maintainers.
-2. The maintainers wanted to make life easier for the users after [fixing](https://notageni.us/fix/) something.
+2. The maintainers wanted to make life easier for the users after [fixing](https://adequate.life/fix/) something.
 3. Users were passionate enough about the continued use of the product that they created their own reference for it.
 
 Technical documentation can be extremely difficult from how advanced the writing has to be, but it's absolutely crucial relative to several factors:

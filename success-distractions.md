@@ -174,4 +174,4 @@ Set time-based notifications for future tasks you know you have to act on.
 
 If you're busy focusing, set a notification to create a task an hour later when you're done with your current task.
 
-Use [geolocation-based](https://trendless.tech/gps/) notifications for tasks you must perform at other locations.
+Use [geolocation-based](logistics-navigation.md) notifications for tasks you must perform at other locations.

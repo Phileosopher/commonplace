@@ -35,7 +35,7 @@ For the purposes of all following agreements:
 - **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 - **Cookies** are small files placed on Your computer, mobile device or any other device by a website, among its many uses containing the details of Your browsing history on that website.
 - **Country** refers to every state, municipality, and territory in the United States, except where inapplicable. It also may apply to Your national territory. In a situation representing conflicting laws, the laws of the country with the most permissive rights and privileges bestowed takes precedence.
-- **Dave** (also referred to by "I", "Me" or "My" in this Agreement) refers to Dave Stucky (also known as Greg Stucky) and the [legal fiction](https://notageni.us/legal-doctrines/) declared from his birth as GREGORY DAVID STUCKY.
+- **Dave** (also referred to by "I", "Me" or "My" in this Agreement) refers to Dave Stucky (also known as Greg Stucky) and the [legal fiction](legal-doctrines.md) declared from his birth as GREGORY DAVID STUCKY.
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Goods** refer to the items offered for sale on the Service, but not including Performed Service.
 - **Orders** mean a request by You to purchase Goods from Me.
@@ -82,7 +82,7 @@ The license that I have granted You for the Service is dependent upon your purpo
 
 1. Your personal, non-commercial purposes: for non-commercial purposes, Your use is bound by the Creative Commons [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license. You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it). This includes decrypting, reverse compiling, and reverse engineering any of My software.
 2. Your personal, commercial purposes: for commercial purposes, Your use is bound by the Creative Commons [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it), but You must honor additional limits:
-   1. You must attribute Me as the original creator of the work. I prefer receiving written consent first and consider it [ethical](https://gainedin.site/morality/), but do not require it.
+   1. You must attribute Me as the original creator of the work. I prefer receiving written consent first and consider it ethical, but do not require it.
    2. You must provide the same CC BY-SA license upon your work to permit others to do the same.
    3. You are not permitted to decrypt, reverse compile, or reverse engineer My software without My express permission. Please contact Me if you wish to do so.
 
@@ -152,7 +152,7 @@ From time to time, I may provide new features, bug fixes, edits, or other altera
 
 The information contained on the Service is for general educational and information purposes only.
 
-- The information is not intended as professional advice, and I do not claim to be a [specialist](https://gainedin.site/specialization-cities/) in any capacity about any domain of expertise. My claims of non-expertise can not replace an expert's advice, and are included but not limited to:
+- The information is not intended as professional advice, and I do not claim to be a specialist in any capacity about any domain of expertise. My claims of non-expertise can not replace an expert's advice, and are included but not limited to:
   - Medical advice from a healthcare provider.
   - Legal advice from an attorney.
   - Insurance advice from a qualified insurance agent.

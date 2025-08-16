@@ -135,7 +135,7 @@ The Two Gentlemen of Verona
   8. BF pretends to be horrified by his behavior, and YM forgives him. At this point, FG is overwhelmed and swoons, revealing her identity. BF suddenly recalls his love for her and vows fidelity again.
   9. D and WM are brought in by O. WM claims ND as his, but YM warns he'll kill him if he makes a move toward her. In terror, WM renounces his claim. N is disgusted by WM's cowardice and impressed by YM's actions, approves YM's and ND's love, and consents to their marriage. The two couples are happily united and N pardons O, meaning they may return to the big city.
 - THEMES:
-  - It explores the distinction and prioritization of [romantic love](people-love.md) versus [friendship](https://gainedin.site/friendship/).
+  - It explores the distinction and prioritization of [romantic love](people-love.md) versus [friendship](people-4_friends.md).
   - It also explores the utter stupidity inherent to [being in love](relationships-1_why.md).
   - The friend conveys the theme of inconstancy, where he goes back on his word because his [feelings](mind-feelings.md) take over.
 - MODERN COMPARISONS:

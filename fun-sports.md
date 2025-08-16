@@ -13,7 +13,7 @@ It's important to note that sports often become *less* safe by adding [safety](s
 - However, the increased safety means a higher threshold for taking risks, meaning people become more reckless.
   - Moving from leather to plastic football helmets means players can use their head as a battering ram, and it increases the risk of concussion.
   - Moving from leather to padded boxing gloves means boxers can safely strike the face, which increases the risk of brain damage.
-- Generally, safety features should protect a player from suffering a severe injury, but permit them to still suffer pain from behavior that violates the [rules](https://gainedin.site/rules/) and would have hurt otherwise.
+- Generally, safety features should protect a player from suffering a severe injury, but permit them to still suffer pain from behavior that violates the [rules](rules.md) and would have hurt otherwise.
 
 ## Field/Court Sports
 

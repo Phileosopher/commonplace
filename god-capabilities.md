@@ -7,7 +7,7 @@ This is a formal list of possible ways that God has worked, followed by how He *
 
 Created the universe ([Genesis 1-2](https://biblehub.com/bsb/genesis/1.htm)).
 
-### Physical
+### Large-Scale Physical
 
 Worldwide flood event ([Genesis 7-8](https://biblehub.com/bsb/genesis/7.htm)).
 
@@ -45,9 +45,9 @@ Army killed by an angel ([2 Kings 19:35-36](https://biblehub.com/2_kings/19.htm)
 
 Star leads to Bethlehem ([Matthew 2:1-11](https://biblehub.com/matthew/2.htm)).
 
-### Biological/Anthropological
+### Large-Scale Biological/Anthropological
 
-Confusion of [human languages](https://gainedin.site/language/) ([Genesis 11:1-9](https://biblehub.com/bsb/genesis/11.htm)).
+Confusion of [human languages](language.md) ([Genesis 11:1-9](https://biblehub.com/bsb/genesis/11.htm)).
 
 Covered Egypt with frogs ([Exodus 8:2-14](https://biblehub.com/exodus/8.htm)).
 
@@ -59,7 +59,7 @@ Sent poisonous snakes against Israel ([Numbers 21:4-6](https://biblehub.com/numb
 
 Make people imagine flowing water is like blood ([2 Kings 3:20-24](https://biblehub.com/2_kings/3.htm))
 
-### Medical
+### Large-Scale Medical
 
 Egypt afflicted with boils ([Exodus 9:8-11](https://biblehub.com/exodus/9.htm)).
 
@@ -71,7 +71,7 @@ Sent a plague ([Numbers 16:46-50](https://biblehub.com/numbers/16.htm), [1 Samue
 
 Taken up to heaven ([Genesis 5:23-24](https://biblehub.com/genesis/5.htm), [2 Kings 2:11-12](https://biblehub.com/2_kings/2.htm), [Mark 16:19](https://biblehub.com/mark/16-19.htm)/[Luke 24:50-51](https://biblehub.com/luke/24.htm)).
 
-### Physical
+### Smaller-Scale Physical
 
 Kept a bush from burning up ([Exodus 3:1-3](https://biblehub.com/exodus/3.htm)).
 
@@ -101,7 +101,7 @@ Shaking a building ([Acts 4:31](https://biblehub.com/acts/4-31.htm)).
 
 Instantly transports people ([Acts 8:39](https://biblehub.com/acts/8-39.htm)).
 
-### Biological/Anthropological
+### Smaller-Scale Biological/Anthropological
 
 Turned Lot's wife into a pillar of salt ([Genesis 19:26](https://biblehub.com/genesis/19-26.htm)).
 
@@ -123,7 +123,7 @@ Mauled by bears ([2 Kings 2:23-24](https://biblehub.com/2_kings/2.htm)).
 
 Debt/tax paid off ([2 Kings 4:1-7](https://biblehub.com/2_kings/4.htm), [Matthew 17:24-27](https://biblehub.com/matthew/17.htm)).
 
-Provides direct [intelligence](https://trendless.tech/osint/) ([2 Kings 6:12](https://biblehub.com/2_kings/6-12.htm)).
+Provides direct [intelligence](computers-cysec-osint.md) ([2 Kings 6:12](https://biblehub.com/2_kings/6-12.htm)).
 
 Protection from fire ([Daniel 3:10-27](https://biblehub.com/daniel/3.htm)).
 
@@ -149,7 +149,7 @@ Speaking in other languages ([Acts 2:1-12](https://biblehub.com/acts/2.htm)).
 
 Opening prison doors ([Acts 5:17-20](https://biblehub.com/acts/5.htm), [Acts 12:1-16](https://biblehub.com/acts/12.htm), [Acts 16:25-34](https://biblehub.com/acts/16.htm)).
 
-### Medical
+### Smaller-Scale Medical
 
 Gave elderly people a child ([Genesis 21:1-2](https://biblehub.com/genesis/21.htm), [2 Kings 4:11-17](https://biblehub.com/2_kings/4.htm), [Luke 1:5-25](https://biblehub.com/luke/1.htm)).
 
@@ -183,7 +183,7 @@ Unspecified infirmity cured ([Luke 13:10-13](https://biblehub.com/luke/13.htm), 
 
 Striking dead immediately ([Acts 5:1-10](https://biblehub.com/acts/5.htm), [Acts 12:23](https://biblehub.com/acts/12-23.htm)).
 
-### Other
+### Smaller-Scale Other
 
 The Holy Spirit falls on people ([Acts 4:31](https://biblehub.com/acts/4-31.htm), [Acts 8:14-17](https://biblehub.com/acts/8.htm), [Acts 10](https://biblehub.com/acts/10.htm), [Acts 19:1-7](https://biblehub.com/acts/19.htm)).
 

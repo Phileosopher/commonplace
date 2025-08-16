@@ -34,7 +34,7 @@ While using an arcane combination of letters, numbers, and symbols ("Y3ll0wB@1ly
 
 However, this policy must also require renaming the "default" passwords. Very often, there are automatic passwords that the manufacturer sets, and those require zero guesswork and a few web searches for hackers to discover.
 
-To store the information, it should be in ciphertext, where the password is inaccessible. If a computer ever cross-references the password with *anything*, it's likely waiting to [be compromised](https://trendless.tech/pentest/).
+To store the information, it should be in ciphertext, where the password is inaccessible. If a computer ever cross-references the password with *anything*, it's likely waiting to [be compromised](computers-cysec-pentest.md).
 
 ### Possession: Checksum
 

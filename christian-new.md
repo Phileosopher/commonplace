@@ -25,6 +25,7 @@ Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 
 Belief in extraterrestrials, potentially interpreting or referring to God Himself as an alien entity.
 
 - Technically, God is an extraterrestrial, but also our Creator, so there's a much greater [power discrepancy](power-types.md) than simply a difference in [technology](technology.md) or [understanding](understanding.md).
+- We are also created in His image, so He's not *that* foreign to our existence ([Genesis 1:26](https://biblehub.com/genesis/1-26.htm)).
 - If other sentient life existed in this universe, those people would look stunningly close to us (i.e., be in God's image as well), and they'd have a similar story to our Garden of Eden.
 
 Pantheistic leanings, which imply that all (or several) faiths point to the same God.

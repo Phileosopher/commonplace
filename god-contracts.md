@@ -163,7 +163,7 @@ God's consideration upon breach of contract:
 
 In some ways, it's an expansion of the Mosaic covenant, but indicates conditions from breaching the covenant.
 
-- [History has shown](https://theologos.site/israel/) that this *has* happened, though it's debatable whether Israel is actively being gathered or if its current government is God's will.
+- [History has shown](history-israel.md) that this *has* happened, though it's debatable whether Israel is actively being gathered or if its current government is God's will.
 
 ## 7. Davidic Covenant
 

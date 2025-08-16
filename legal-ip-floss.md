@@ -91,7 +91,7 @@ There are many [licensing options](contracts.md) specifically for publishing ope
   - You can make money off your code, but others can modify it and profit off it as well.
   - The only clarification is that it's not the original author's fault for defects that someone introduces later on.
   - There are several versions of it (GPLv2, GPLv3).
-  - The GPL also grants certain [patent](https://notageni.us/ip/) grants as well.
+  - The GPL also grants certain [patent](legal-ip.md) grants as well.
   - GNU has [a whole guide for the best way to have a GPL-based licensing](https://www.gnu.org/licenses/license-recommendations.html), and its permissiveness sets the standard on whether software code is *completely* free.
   - One of the strange, and extreme, consequences of GPL is that code distributed with GPL code inside it *also* becomes GPL, meaning the code is *always* free for anyone to use, profit, or modify.
 - The GNU Lesser General Public License (LGPL) is mostly the same as the GPL, but allows proprietary vendors to link free code to non-free modules.

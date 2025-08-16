@@ -762,7 +762,7 @@ Gateway - a device that connects to the internet at large, typically has 2 IP ad
 
 Gateway device - a combination device that's a modem, router, and often a telephone adapter that pulls double-duty for routing network traffic and connecting to the internet
 
-General-purpose computer - a machine that performs [logic](https://gainedin.site/logic/) and [math](https://gainedin.site/math/) based on what people command it to do, and it can be easily reconfigured
+General-purpose computer - a machine that performs [logic](logic.md) and [math](math.md) based on what people command it to do, and it can be easily reconfigured
 
 Geolocation - geographical location, a numerical depiction of location coordinates
 
