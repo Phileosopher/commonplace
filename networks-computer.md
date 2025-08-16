@@ -1,5 +1,5 @@
 
-# Computer networks summarized
+# Computer networks explained
 
 A "network" is a bunch of computers put together. They're loosely connected, and computers can go off and on the network. Since *all* the computers can be replaced by new ones, a network is more an abstraction than any fixed structure.
 
