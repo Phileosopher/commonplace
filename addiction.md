@@ -91,6 +91,8 @@ People frequently use [technology](technology.md) to enhance their addiction and
 - Many gamers are modern book addicts who no longer need a vivid [imagination](imagination.md).
 - New mind-altering drugs create novel, intense [experiences](image.md), legally or non-.
 
+For the sake of [marketing](marketing.md), many addictive products are very accessible, and the addicts often become *very* loyal to particular brands. This creates a codependent synergy between the institution and individual. This can include governments that legalize the product as well.
+
 There is a simple way to detect whether someone has a substance abuse problem:
 
 1. Ask the people closest to them if that person has a problem with that substance.
@@ -126,6 +128,25 @@ These distill into several conditions necessary to break free:
 2. Place something else at the center of our lives instead of that substance. Many [religious](religion.md) leaders state that it's a product of our need to be [devoted to God](https://theologos.site/devotion-chaos/). The one advantage of trusting God is that obsession with God creates a secondary obsession with all [reality](reality.md) (i.e., God's [creative work](creations.md), which is the entire universe).
 3. Find [friendship](people-4_friends.md) with supportive people who will *not* drag us back into the lifestyle we want to break from.
 4. Maintain a sense of [meaning](meaning.md) in freeing ourselves in that substance: first by making amends, then [self-improvement](success-1_why.md), then provoking other people to do the same.
+
+Mechanically, the 12 steps are the motivational element for a very specific flow of [habitual](habits.md) shifts:
+
+1. Subdivide the addiction into its component parts.
+   - Break apart each ritual and routine into smaller, more malleable components.
+   - In particular, differentiate any chemical dependency from the ritual (e.g., the nicotine chemical versus tobacco a tobacco product).
+2. Use [self-awareness](awareness.md) to define what you enjoy.
+    - Each part of our ritual is defined by how we derive pleasure.
+    - If you dig deep enough, the pleasure will often have a broad-reaching [emotional](mind-feelings.md) connection from the past.
+    - This is very emotionally draining, and often difficult to parse.
+3. Find a replacement for the undesirable parts of the routine that maintains the original routine.
+    - If you've sufficiently broken things apart, this is easy to find a [creative](mind-creativity.md) replacement.
+      - For example, smoking cigarettes can be replaced with gum for the routine and nicotine patches for the vasoconstrictive experience.
+    - Often, given our social needs, we need some level of human connection when we engage in our substance.
+      - To that end, most 12 step programs provide accountability partners.
+4. Give the entire problem and plan to God.
+    - God will grant the wisdom to see where you're missing something.
+    - God will also grant the strength to carry out the plan.
+5. if you relapse, you missed a part of your [habit](habits.md) you enjoy and need to find it.
 
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 

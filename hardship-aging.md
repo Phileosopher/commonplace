@@ -39,4 +39,9 @@ Regularly seek new activities and time with others:
 - Find new, [fun](fun.md) things to do that stretch your limits, [physically](body-3_exercise.md) and [mentally](mind-memory.md).
   - Beyond being a thrill, those experiences significantly slow aging.
 
+Losing motivation is perfectly natural:
+
+- You don't have the energy or single-minded focus you used to have, so it's harder to do basically anything.
+- It can be comforting to vent the problem with similarly-aged [friends](people-4_friends.md), but try to avoid complaining so much that it makes you more miserable.
+
 Finally, as you grow older, learn to accept [death](hardship-death.md) as the conclusion of your life here.

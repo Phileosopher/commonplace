@@ -305,6 +305,8 @@ First Adopters Rule - The first pioneers to something new will reap the greatest
 
 Gibrat's Law - Groups grow proportionally, no matter their size.
 
+Graham's Addiction Axiom - In any [free market](economics.md), products become more [addictive](addiction.md).
+
 Hickam's Dictum - For multiple issues, several simple explanations are better than an odd circumstance that explains all of them.
 
 Hutber's Law - Improvements in a system hide other parts that are decaying.
@@ -479,6 +481,8 @@ Yoga Effect - An obscure, mundane trend somewhat connected to a religious cultur
 Baumol's Cost Disease - In low-productivity jobs, the workers can simply jump to higher-productivity jobs whenever they want more money, so hiring managers have to pay more for those jobs over time.
 
 Efficient-Market Hypothesis - The general cost of things reflects all the information available to everyone.
+
+Doctorow's Axiom - Any intermediary that adds value will decrease the value they add once they're established, first with their supplier, then with their consumer.
 
 Elon Market Hypothesis - People invest in popular things because popular people invest in those popular things.
 

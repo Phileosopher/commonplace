@@ -1,0 +1,28 @@
+
+Human beings aren't capable of understanding the raw information in a [database](/database/) in any complete way.
+
+- Our minds have a tendency to quickly assign [meaning](https://gainedin.site/meaning/) as we perceive the information, so columns of numbers will represent as a feeling instead of being held as separate values.
+- Even when they're low-enough on the [autism spectrum](https://books2read.com/autism), a database has to be comparatively smaller for them to understand the information.
+- The data may evoke a [story](https://gainedin.site/stories/) as a collective set of information that would never be expressed on an element-by-element basis.
+
+Therefore, we must use more articulate ways to express this information.
+
+The easiest way to express data is through a visualization, mostly because our eyes give more absolute information to our brains than any of our other senses. It's *possible* to express data as a sound (e.g., [notifications](/ux/ui/)), but that doesn't mean it's effective in conveying anything precise.
+
+## Reports
+
+The simplest way to express data is through a report. This often requires [numerical data](https://notageni.us/math/) (since it'll often be summarized via calculation), but it can also be numerically calculated by counting instances of non-numerical information directly.
+
+For any report to be effective, it needs to have several qualities:
+
+- Actionable - It must serve to advance or promote some sort of [purpose](https://gainedin.site/purpose/).
+- Accessible - It must be easy to [understand](understanding.md).
+- Auditable - The information must be easily reproducible for someone else to [verify](https://gainedin.site/trust/).
+
+To that end, good reports intentionally *omit* useless information and provide the supporting data as an accompaniment. The report should also draw directly from the data, and *not* use an intermediate system that could generate error or inaccuracy.
+
+## Flow charts
+
+A flow chart is possible when there is a flow of [logic](https://gainedin.site/logic/) (especially across time) or [decisions](https://gainedin.slite/decisions/).
+
+The general appearance of flow charts allows a visual representation of complexities that would otherwise be difficult to show via text.

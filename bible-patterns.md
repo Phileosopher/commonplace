@@ -69,4 +69,11 @@ Further, the relationship between God and man seems to have the same pattern:
 3. The faithful face abnormal resistance and opposition from more powerful forces around them.
 4. At the last moment, the faithful are redeemed through a strange divine coincidence.
 
+God's commands come with both blessings and curses associated with them (e.g., [Exodus 20](https://biblehub.com/exodus/20.htm), [Deuteronomy 27](https://biblehub.com/deuteronomy/27.htm))
+
 Whenever someone receives God's blessing, others will want to join them (even when they're not part of that blessing or are following God).
+
+All things great and small rise, have their glory, then fall.
+
+- Babylon is shown as a growing empire, through Daniel's life, and its prophesied end.
+- Jonah and Nahum show the rise and fall of Nineveh.
