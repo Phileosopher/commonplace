@@ -226,8 +226,15 @@ Spiritualized thoughts
 
 Accumulating wealth
 
-Accumulating possessions
+Accumulating possessions or wealth
 
 - Purchasing new possessions
 
-Acquiring social status
+Acquiring [social status](image.md)
+
+[Having children](parenting-2_children.md)
+
+- [Babies](parenting-1_babies.md)
+- Having many children
+
+Acquiring various [forms of power](power-types.md)

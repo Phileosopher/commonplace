@@ -1,4 +1,6 @@
 
+NOTE: SOME MAY GO TO AL DEATH
+
 We don't like to think about death. It's a bit [discomforting](mind-feelings-fear.md) because we can't know anything for certain about what happens after it. It's inevitable, however, and we tend to tune it out to accomplish day-to-day tasks.
 
 ## Fading
