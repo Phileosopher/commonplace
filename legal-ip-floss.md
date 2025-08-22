@@ -5,7 +5,7 @@ While [intellectual property](legal-ip.md) *generally* sits on a spectrum of usa
 
 The broad term for the entire domain was FOSS (Free and Open-Source Software), but has more particularly used the acronym FLOSS (Free/Libre Open-Source Software).
 
-In many ways, developers are passively taking a type of [political stance](power-types.md) based on their adoption of open-source licensing, and users are passively endorsing those politics by [consenting](contracts.md) to use that software.
+In many ways, developers are passively taking a type of [political stance](power-types.md) based on their adoption of open-source licensing, and users are passively endorsing those politics by [consenting](people-contracts.md) to use that software.
 
 The scope of [artistic expression](mind-creativity.md) often shines much more in open-source than closed-source.
 
@@ -51,7 +51,7 @@ However, there are *other* freedoms that users can do, which may or may not infr
 
 1. Freedom for *everyone else* to have those same freedoms (aka "copyleft", hereditary, viral).
 2. Freedom to distribute software as their own, for-profit (aka, non-copyleft or "permissive").
-3. Freedom to impose constraints, such as required packaging/distribution, [legal considerations](legal-safety.md), inter-regional export regulations, and [contract-based](contracts.md) licensing.
+3. Freedom to impose constraints, such as required packaging/distribution, [legal considerations](legal-safety.md), inter-regional export regulations, and [contract-based](people-contracts.md) licensing.
 
 In summary, "freedom" has a few possible meanings:
 
@@ -77,14 +77,14 @@ Copyright is very constricting for others' freedom relative to [the involvement 
 
 ## Licensing
 
-To prevent the [lawsuits](legal-safety.md) and [implicit contracts](contracts.md) that would derive from a natural agreement to use a software product, the software released under open-source licenses are always "as is". There is *no* promise of future performance, and the terms of use aren't certain or complete.
+To prevent the [lawsuits](legal-safety.md) and [implicit contracts](people-contracts.md) that would derive from a natural agreement to use a software product, the software released under open-source licenses are always "as is". There is *no* promise of future performance, and the terms of use aren't certain or complete.
 
 - It means that it's the *users'* responsibility regarding use of the software, and the consequences that may come from it.
 - The same software used for completely ethical [PenTesting](computers-cysec-pentest.md) can be used for [hacking](hacking.md), and [archiving data for security reasons](computers-cysec.md) will use the same software as [internet piracy](computers-distsys-torrent.md), with no legal consequences for the developer who made the software.
 
-For users who consume the product, most software licenses reside within the broader "end user license [agreement](contracts.md)", or EULA, often bundled with the software itself.
+For users who consume the product, most software licenses reside within the broader "end user license [agreement](people-contracts.md)", or EULA, often bundled with the software itself.
 
-There are many [licensing options](contracts.md) specifically for publishing open-source software:
+There are many [licensing options](people-contracts.md) specifically for publishing open-source software:
 
 - The GNU "General Public License" ([GPL](https://www.gnu.org/licenses/)) is a very permissive license, and the source for all the other GNU licenses.
   - It's completely copyleft/hereditary/viral.
@@ -98,7 +98,7 @@ There are many [licensing options](contracts.md) specifically for publishing ope
   - The LGPL is only better if the code will reach more vendors who were otherwise unwilling to release *their* code.
   - LGPL versions run parallel to GPL.
 - The GNU Affero General Public License (AGPL) is almost the same as the GPL, but clarifies that licensed software running over a network will share its source code.
-- The GNU All-Permissive License is useful for small supporting files and [README files](/documentation/) contained inside software.
+- The GNU All-Permissive License is useful for small supporting files and [README files](language-writing-documentation.md) contained inside software.
 - The Perl Foundation's [Artistic License 2.0](https://www.perlfoundation.org/artistic-license-20.html) is completely GPL-compatible.
 - The [Apache License, version 2.0](https://www.apache.org/licenses/LICENSE-2.0) is almost the same as the GPL, but its relationship is complicated.
   - Apache-licensed software is compatible with GPLv3, but GPLv3 software does *not* work with Apachev2, mostly because Apache gives more legal constraint on warranties and indemnity.
@@ -201,7 +201,7 @@ Building a personal or closed-source company project into an open-source one doe
 Human nature mixed with freely distributed software means it's constantly tweaked and rebuilt, which creates a few inevitable realities in comparison to closed-source software:
 
 1. The entire project is defined heavily by how well both paid and volunteer developers respond to the community.
-   - If there isn't much feedback, the project will have *more* [bugs](/software-redesign/) than a proprietary version with a [team of developers](mgmt-2_projects-cs.md).
+   - If there isn't much feedback, the project will have *more* [bugs](computers-software-redesign.md) than a proprietary version with a [team of developers](mgmt-2_projects-cs.md).
 2. There's no indefinite Definitive Edition of a particular software.
    - If you're even *moderately* successful, other people will adapt your software, and [alternative versions](computers-software-versionctrl.md) will arise from your original work.
    - Even when a developer's project gains widespread acceptance, there's always an "edge case" where someone will make a variant.
@@ -246,7 +246,7 @@ If the developer's work was relatively easy, but depends on *other* work, then t
 
 When [larger companies](mgmt-5_communication-cs.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
 
-- They're consenting to a weak [implicit contract](contracts.md), with little to no promises on either side.
+- They're consenting to a weak [implicit contract](people-contracts.md), with little to no promises on either side.
 - They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](computers-cysec.md) and [reliability](computers-cysec-compliance.md) of their company's infrastructure to an overworked parent or college student.
 - The only way the relationship will become more mutually advantageous requires equipping the open-source developer. This may include moral support, publicity, and *always* requires funding.
 - When it works well, the users support the maintainers, and the maintainers support the users, and everyone wins.
@@ -307,9 +307,9 @@ Open-source projects are *not* exempt from politics and [social decay](mgmt-bads
   - Sometimes, a long-standing and popular open software may be significantly inferior to another open-source product, but can screw up the [reputation](image.md) of the *entire* open-source community by dominating everyone's attention. This entire situation can make proprietary choices prevail for longer.
 - It's not uncommon for large organizations running on open-source software to *not* credit specific developers who [find bugs](computers-software-redesign.md) in the code, often with them responding rudely to the developer before publicizing they fixed the bug.
 - [Technical idiots](https://gainedin.site/idiot/) who are *not* aware of how open-source works may demand answers or fixes from open-source developers.
-  - Ironically, if they *do* perform without compensation, this can [set a precedent](contracts.md) that frames a type of business contract, though it's not typically enforced (since it's [too unethical](morality.md) for any reasonable judge to rule in the favor of the requestor).
-  - Some of the more [contract-savvy](contracts.md) developers will ask them to arrange a business arrangement first before acting more promptly.
-  - Every software developer must learn [healthy boundaries](boundaries.md) to avoid the exploit and abuse from ignorant [managers](mgmt-1_why.md).
+  - Ironically, if they *do* perform without compensation, this can [set a precedent](people-contracts.md) that frames a type of business contract, though it's not typically enforced (since it's [too unethical](morality.md) for any reasonable judge to rule in the favor of the requestor).
+  - Some of the more [contract-savvy](people-contracts.md) developers will ask them to arrange a business arrangement first before acting more promptly.
+  - Every software developer must learn [healthy boundaries](people-boundaries.md) to avoid the exploit and abuse from ignorant [managers](mgmt-1_why.md).
 - If a company offers both a proprietary and open-source version, and the proprietary version makes more money, they may completely disregard the open-source version.
 - If a developer significant to a project ever starts committing implementations of their current [political views](politics-conservativeliberal.md) into the project, political fashions can overtake projects and corrupt them away from their simple purpose.
 - Since the developers have to [pay their bills](money-3_budget.md), they need *some* sort of funding. This may connect to the software itself (see above), or the project may have to run like a [not-for-profit](mgmt-npo.md).
@@ -350,7 +350,7 @@ However, the fight against open-source is a losing battle.
 The [trend](trends.md) for free software, as of 2023, is a bit complex:
 
 - Open-source software terms are definitely enforceable, and failure to honor them can lead to a lawsuit.
-- GPL code has effectively been labeled as a [contract-based matter](contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](legal-doctrines.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).
+- GPL code has effectively been labeled as a [contract-based matter](people-contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](legal-doctrines.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).
 - There are also movements that imply that *any* [decompilation](computers-compilers.md) of software might be legal, if only for the intention of [fixing a bug](computers-software-redesign.md). Nothing says the [core logic](computers-alu.md) can't be reproduced, either, even if the software isn't outright copied (i.e., [EU court ruling](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1)).
 - Copying your software's [API outputs](programming-basics.md) to make it interoperable with another, more popular software *might* be legal, but will be somewhat of an uphill battle to wrestle over the dispute (i.e., [Google vs. Oracle's Java ruling](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)).
 - Calling software open-source when it's *not* open-source is considered false advertising.
@@ -358,7 +358,7 @@ The [trend](trends.md) for free software, as of 2023, is a bit complex:
 The reality about software developers is many of them (especially anyone who wants to work on an open-source project) does *not* care as much about money as they do about their [specialization](jobs-specialization.md) inside computers.
 
 - Legal battles are unpleasant, and it's very difficult to visualize anyone who [engages in lawfare](legal-safety.md) against software developers that make software free to the public as anything *but* an [antagonistic](stories.md) or [evil](morality-evil.md) entity.
-- The [win/win solution](people-conflicts.md) is to give substantial wealth to those developers: if a tool generated a few hundred million dollars for a company, give a few million to that developer.
+- The [win/win solution](people-5_conflicts.md) is to give substantial wealth to those developers: if a tool generated a few hundred million dollars for a company, give a few million to that developer.
 - However, barring that, some software-based lawyers [near the end of their life](legacy.md) would be *thrilled* to lend their time to winning legal battles that promote free software.
 
 ## FLOSS Trends
@@ -407,7 +407,7 @@ But, the influence of open-source goes farther than its actual basis, and the co
 There need to always be freedom advocates willing to obsess about everyone's freedom.
 
 - Literally, every new proprietary technology needs open-source advocates to defend public use of it (e.g., [robotics](computers-robotics.md), [quantum computers](computers-quantum.md), [DNA programming](computers-biological.md)).
-- The [degradation into a defective society](mgmt-badsystems.md) that violates [individual liberties](boundaries.md) comes through nobody taking action against those risks when they arise.
+- The [degradation into a defective society](mgmt-badsystems.md) that violates [individual liberties](people-boundaries.md) comes through nobody taking action against those risks when they arise.
 - [Far too often](humanity-universals.md), people tend to react to the crisis *after* it has become severe, instead of facing the issues when they can be easily resolved.
 
 ## Additional Reading

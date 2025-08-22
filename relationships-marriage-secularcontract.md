@@ -3,7 +3,7 @@
 
 Marriage is on the decline, partly because most people aren't aware of the scope of their duties when they consent to a marriage.
 
-This is a [contractual agreement](contracts.md) between the two counterparties in a [marital union](relationships-3_marriage.md).
+This is a [contractual agreement](people-contracts.md) between the two counterparties in a [marital union](relationships-3_marriage.md).
 
 It has been stripped of [religious association](religion-answers.md), which generates the motivation for marriage but doesn't always clarify the implications.
 
@@ -120,7 +120,7 @@ The following conditions, however, may lead to a separation, and may open discus
 
 - Pursuing a romantic relationship with someone else
 - [Addiction](addiction.md) of [any type](addiction-substances.md)
-- Endless, unceasing [conflicts](people-conflicts.md)
+- Endless, unceasing [conflicts](people-5_conflicts.md)
 - Physical violence
 - [Money management](money-1_why.md) issues
 - Uneven [power dynamics](power-types.md)

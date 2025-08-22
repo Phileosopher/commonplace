@@ -47,7 +47,7 @@ C. Bargaining:
 D. Depression, which comes in two forms:
 
 1. Making quiet preparations to separate from someone and bid them farewell.
-   - Most of the time, we're slowly accepting [awareness](/awareness/) of the entire situation.
+   - Most of the time, we're slowly accepting [awareness](awareness.md) of the entire situation.
 2. Reacting to practical implications that come from the loss.
    - Sadness and regret are typically driving the reaction.
    - These implications vary exclusively to the experience (e.g., burial costs, a social void, [debt](money-2_debt.md), etc.)
@@ -119,7 +119,7 @@ When an older family member or spouse is growing older or close to death, boldly
 - Clarify desires and expectations.
 - Give input for when they decide to make their will.
 - If they're interested, minimize taxation through gifts given in advance of death.
-- Be prepared to navigate [family politics](people-conflicts.md) with any relations who have shown patterns of selfishness.
+- Be prepared to navigate [family politics](people-5_conflicts.md) with any relations who have shown patterns of selfishness.
 
 As much as possible, get certain information from that person while they're still alive:
 
@@ -164,12 +164,12 @@ It's not uncommon for *something* to end up in probate:
 Keep in mind that the *absolute worst* nature of people will come out after someone has died and lots of money is at stake:
 
 - Often, wills aren't always clear about who gets what, and family members will become *severely* vicious if they see an opportunity to gain from it.
-- Adhere as much as possible to the [stated will](contracts.md), and don't get distracted by anyone's [manipulation tactics](people-conflicts.md).
+- Adhere as much as possible to the [stated will](people-contracts.md), and don't get distracted by anyone's [manipulation tactics](people-5_conflicts.md).
 - If you've been unfairly treated, you can't control what the deceased had done, so [release it and move on](happiness-stress.md).
 
 Discuss with the executor of their estate to learn the provisions of their will:
 
-- The executor is usually stipulated *in* the will, which is [why a copy is so critical](legal-safety.md) to alleviate [conflicts](people-conflicts.md) later.
+- The executor is usually stipulated *in* the will, which is [why a copy is so critical](legal-safety.md) to alleviate [conflicts](people-5_conflicts.md) later.
 - The beneficiaries can be anyone or anything, and can frequently show the true intent of the deceased, which is often [distressing](happiness-stress.md).
 - If you *are* the executor, you're fulfilling a legal obligation to the departed, so don't let your bias adapt the will to your preferences.
 

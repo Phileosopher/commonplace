@@ -145,7 +145,7 @@ Try to save as much money as possible:
 
 - Before going to university, take community college courses and online-accredited courses for every possible course required for your degree.
 - Consider self-study colleges where self-study can help you to rapidly get the credential (such as [WGU](https://www.wgu.edu/) or [University of the People](https://www.uopeople.edu/)).
-- You can often [negotiate](people-conflicts.md) a lower price or more features for your schooling experience if you simply ask.
+- You can often [negotiate](people-5_conflicts.md) a lower price or more features for your schooling experience if you simply ask.
 - Consider in-state tuition, which is usually cheaper than out-of-state.
 - Ask about campus work study programs.
 
@@ -181,7 +181,7 @@ While at school, budget your [time](success-4_routine.md) and [money](money-3_bu
 
 Leaving college should always be the beginning of your education in a more practical field, not the end of it.
 
-Drop out of college if you've found a more [meaningful](meaning.md) [purpose](purpose.md), especially if you've [started a business](entrepeneur-4_freelancing.md)!
+Drop out of college if you've found a more [meaningful](meaning.md) [purpose](purpose.md), especially if you've [started a business](entrepreneur-4_freelancing.md)!
 
 At some point, you must leave college:
 

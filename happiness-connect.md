@@ -61,7 +61,7 @@ Everyone can feel a healing environment:
    - Nobody is condemning, cruel, or abusive.
    - There's no risk of banishment from the group.
    - Members spend more time provoking feelings toward possible solutions than condemning unpleasant feelings.
-3. Everyone clearly and directly resolves disagreements and [conflicts](people-conflicts.md):
+3. Everyone clearly and directly resolves disagreements and [conflicts](people-5_conflicts.md):
    - Members disapprove of power struggles to maintain emotional control of the environment.
    - Nobody plays the role of victim or martyr.
    - Nobody reacts or gets defensive about constructive criticism and feedback.

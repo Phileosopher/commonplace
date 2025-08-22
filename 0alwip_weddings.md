@@ -8,17 +8,17 @@ At its simplest, getting married is still relatively cheap:
 2. Pay ~$100 to the courthouse and use their court-designated officiator.
 3. Pay whatever administration fees to get marriage licenses printed and name changes.
 
-- If you *do* want a large wedding, they only last one day, but wedding [debt](/money-2/) can last for years.
+- If you *do* want a large wedding, they only last one day, but wedding [debt](money-2_debt.md) can last for years.
 
 ## Proposing
 
 Propose a few months to a year beforehand:
 
 - Even if the venue is a surprise, you should both know the proposal is coming before you do it.
-  - If she says "no", *seriously* reconsider the entire [relationship](/relationships/).
+  - If she says "no", *seriously* reconsider the entire [relationship](relationships-1_why.md).
 - Men traditionally propose to women, but every marriage proposal should come from the person who tends to have more authority over decisions.
 - Make sure, if you're buying the rings, you know *exactly* what your fiancée/fiancé wants.
-  - Since this will be the first of many financial decisions together, [discuss the costs](/money-3/) with them.
+  - Since this will be the first of many financial decisions together, [discuss the costs](money-3_budget.md) with them.
 - If you'd prefer to, record the wedding proposal without them knowing.
 
 Wedding rings are usually over-priced:
@@ -30,7 +30,7 @@ Wedding rings are usually over-priced:
   - Carat - size
   - Clarity - purity
   - Color
-- Since they mark up prices simply from their [brand](https://notageni.us/marketing/), avoid mainstream diamond retailers.
+- Since they mark up prices simply from their [brand](marketing.md), avoid mainstream diamond retailers.
 - Stylish rings sell for less than $100 because diamonds have no intrinsic market value.
   - One additional advantage of cheap rings is that they're conveniently replaceable.
 - Consider diamond alternatives:
@@ -40,7 +40,7 @@ Wedding rings are usually over-priced:
 - Consider setting alternatives:
   - Most of the time, you can get a cheaper metal as the setting with no visible difference.
   - Tungsten is *much* more durable than most other metals, and is often cheaply made.
-- Whatever you choose, buy the rings with cash to [haggle more easily](/money-4/).
+- Whatever you choose, buy the rings with cash to [haggle more easily](money-4_spending.md).
 - An engagement and wedding ring combo usually costs less than individual rings.
 
 ## Setting a date
@@ -59,15 +59,15 @@ Ask potential wedding party members whether they can participate on the wedding 
 
 ## Preliminary plans
 
-Stay [organized](/organization/) with a checklist and itinerary.
+Stay [organized](organization.md) with a checklist and itinerary.
 
 Set a budget:
 
-- Work out a [budget](/money-3/) for the wedding and [honeymoon](/vacations-trips/) that doesn't go too far into [debt](/money-2/).
+- Work out a [budget](money-3_budget.md) for the wedding and [honeymoon](fun-vacations.md) that doesn't go too far into [debt](money-2_debt.md).
   - Wedding costs often go up proportionally to how much time between the proposal and the wedding.
   - Most of your expenses will be on others' services, specifically the food, drinks, and venue.
   - Expensive weddings are *always* more stressful than cheaper ones.
-- Consider eloping if [money](/money-1/) is more important to you than [reputation](/people-3/).
+- Consider eloping if [money](money-1_why.md) is more important to you than [reputation](people-3_respect.md).
   - Try a middle ground by eloping for the ceremony with a giant reception on a different day.
 - To avoid complicating the discussions, only discuss the budget between the two of you before bringing anyone else in.
 - Make a list of must-have things.
@@ -89,9 +89,9 @@ Make a guest list:
 
 Make, borrow, rent or buy used when you can:
 
-- Shop around, compare prices, and get [creative](/creativity/) for *everything*.
+- Shop around, compare prices, and get [creative](mind-creativity-how.md) for *everything*.
   - Decorations.
-  - [Food](/cooking/), [drinks](/alcohol/), desserts, snacks.
+  - [Food](cooking.md), [drinks](fun-alcohol.md), desserts, snacks.
   - Tuxedo and bridal gown, headpiece, veil, gloves, shoes, and jewelry.
   - Bridal party's and groomsmen's outfits.
 - Look on social media (especially image boards) for ideas.
@@ -150,7 +150,7 @@ Research wedding services:
 - Ask the venue if they have any preferred vendors that give a referral discount.
 - Talk to former brides to find ways to save.
 - Look on classified sites like [Craigslist](http://www.craigslist.org/).
-- [Negotiate](/conflicts/) with *everyone*.
+- [Negotiate](people-5_conflicts.md) with *everyone*.
   - Use a non-wedding price for their service as your baseline cost.
   - During the consultation with service providers, don't look too trusting.
   - Look for sales and discounts by signing up for vendor newsletters and following them on social media.
@@ -222,7 +222,7 @@ Bachelor/bachelorette parties, bridal shower, and wedding rehearsal:
 - Have afternoon tea, brunch, or backyard barbecue instead of a rehearsal dinner.
 - Make the rehearsal dinner a casual or social group activity.
 - Limit the party to a one-day event.
-- Instead of a fancy event, do something more [fun](/fun/) like paintball, go-karts, stand-up comedy or a spa day.
+- Instead of a fancy event, do something more [fun](fun.md) like paintball, go-karts, stand-up comedy or a spa day.
 - Bring food yourself and have the event at home instead of at a hotel.
 
 Flowers and decorations:
@@ -237,7 +237,7 @@ Flowers and decorations:
   - Use more greenery than flowers and include non-florals like lanterns, fruits, and vegetables.
   - Swap out expensive flowers (e.g., peonies) for less expensive ones (e.g., roses).
   - Only buy local flowers in season.
-  - Stick to 1-2 kinds of [flowers](https://notageni.us/flowers/).
+  - Stick to 1-2 kinds of [flowers](fun-flowers.md).
   - Pad out the arrangements with carnations.
   - Grow succulents and other flowers yourself as displays and favors.
   - Use artificial flowers instead of real ones.
@@ -359,7 +359,7 @@ Honeymoon destination:
 - Consider original and unique honeymoon escapes.
   - Make the honeymoon a road trip or a camping trip.
 - Book the vacation at a nearby location or an off-season destination.
-- Learn [to have a great vacation](/vacations-trips/) to have fun.
+- Learn [to have a great vacation](fun-vacations.md) to have fun.
 - If you tell the hotel you're staying at that you're on a honeymoon, they might give a free bottle of wine.
 
 ## The wedding day and onward
@@ -367,7 +367,7 @@ Honeymoon destination:
 During the wedding:
 
 - Stay on time throughout the wedding day to avoid the service workers incurring overtime charges.
-- A wedding is supposed to be one of the [happiest](/happiness-1/) days of your life, so make sure you're having [fun](/fun/), or you're wasting your [money](/money-1/).
+- A wedding is supposed to be one of the [happiest](happiness.md) days of your life, so make sure you're having [fun](fun.md), or you're wasting your [money](money-1_why.md).
 
 After the wedding:
 
@@ -381,6 +381,6 @@ After the wedding:
   3. Open the box after the first marital fight.
   4. Both sides read their letters in a corner, then enjoy wine together.
 - Change every public record to your new last name.
-- Send out [thank you cards](/writing/) for the wedding.
+- Send out [thank you cards](language-writing.md) for the wedding.
 - Memorialize and archive the marriage ceremonies.
 - Combine both your possessions into one home.

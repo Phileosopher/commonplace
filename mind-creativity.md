@@ -89,13 +89,13 @@ True genius often comes from observing something others have found to be mundane
 
 After repeating the tasks and modes of thought enough, we create a somewhat reliable pattern of [habits](habits.md) in our minds.
 
-At this point, we're trying to honor all the [rules](boundaries.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
+At this point, we're trying to honor all the [rules](rules.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
 
 Since we often feel confident enough about our ability, we'll usually [publish](creations.md) what we create and will feel familiar enough that we can continue building.
 
 ### 3. Opposition
 
-Once we've discovered nearly all the [rules](boundaries.md), we'll find it repulsive and become dissatisfied. We'll have a burning question that's a variation of "is that really it?"
+Once we've discovered nearly all the [rules](rules.md), we'll find it repulsive and become dissatisfied. We'll have a burning question that's a variation of "is that really it?"
 
 We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different than what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
 
@@ -127,8 +127,8 @@ This is the creative limit for most people in things that aren't their natural d
 
 From this stage, we'll only improve for a few specific reasons:
 
-- We're perfectionistic and [obsessed](addiction.md) about [fighting](people-conflicts.md) [reality's](reality.md) slow decay into [chaos](unknown.md).
-- We're [competitive](boundaries.md) and trying to apply [technology](technology.md) and [skills](jobs-specialization.md) to outperform others.
+- We're perfectionistic and [obsessed](addiction.md) about [fighting](people-5_conflicts.md) [reality's](reality.md) slow decay into [chaos](unknown.md).
+- We're [competitive](people-conflicts.md) and trying to apply [technology](technology.md) and [skills](jobs-specialization.md) to outperform others.
 - The medium has constraints, so we work along the edges of the medium to "clean up" inherent flaws with that medium.
 - We want a new challenge with a hybrid medium, so we start at the first stage and build up to this stage with that one as well.
 

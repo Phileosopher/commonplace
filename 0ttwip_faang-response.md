@@ -1,5 +1,5 @@
 
-The [violations by FAANG](/faang/) are manifold and overwhelming to internalize in one sitting, but you *can* take action.
+The [violations by FAANG](faang.md) are manifold and overwhelming to internalize in one sitting, but you *can* take action.
 
 ## Protecting yourself
 
@@ -7,18 +7,18 @@ You should know [where you want to draw the line about privacy](https://web.arch
 
 Some people think this isn't a big deal. You might be right. You can choose not to use the service or leave that country.
 
-Avoiding using the services is fine, until they become [a monopoly](https://gainedin.site/country/). There's nowhere left to turn if *everyone* is using that software for a specific, frequent need, and [it may be too late by the time you see a need to take action](https://gazoche.xyz/posts/boiling-frog/).
+Avoiding using the services is fine, until they become [a monopoly](politics-monopolies.md). There's nowhere left to turn if *everyone* is using that software for a specific, frequent need, and [it may be too late by the time you see a need to take action](https://gazoche.xyz/posts/boiling-frog/).
 
 This isn't a concocted threat made by conspiracy nuts, either. [The US intelligence community now pervasively uses ad blockers as of 2021](https://web.archive.org/web/20210923170821/https://www.documentcloud.org/documents/21068028-wyden-letter-to-omb-on-ad-blocking), so there's merit to the concerns.
 
 ### Discuss it openly
 
-At the same time, saying "I have nothing to hide, so I don't need to stay private" is a bit like saying "I don't do anything criminal, so I don't have a problem with a cop following me everywhere I go". It may be true *now*, but that's only as long as you hold [fashionable opinions](https://gainedin.site/trends/) (which can often change in as little as 5-10 years) or as long as you have a safe government (which changes as different [large groups](https://gainedin.site/groups-large/) gain [political power](https://gainedin.site/power/) or when individuals in power become [corrupt](https://gainedin.site/morality/)).
+At the same time, saying "I have nothing to hide, so I don't need to stay private" is a bit like saying "I don't do anything criminal, so I don't have a problem with a cop following me everywhere I go". It may be true *now*, but that's only as long as you hold [fashionable opinions](trends.md) (which can often change in as little as 5-10 years) or as long as you have a safe government (which changes as different [large groups](groups-large.md) gain [political power](power.md) or when individuals in power become [corrupt](morality.md)).
 
 To that end, there are many good questions to dismantle their assertion:
 
-- Why do you have the [right](https://gainedin.site/boundaries/) to know?
-- What level of [trust](https://gainedin.site/trust/) do you believe you've earned?
+- Why do you have the [right](people-boundaries.md) to know?
+- What level of [trust](trust.md) do you believe you've earned?
 - What do you want to do with all this information?
 - How, specifically, will this make things better or help society?
 - Is this the most important thing to spend time and money on?
@@ -35,7 +35,7 @@ The discussion of censorship is a *massive* matter, and isn't always as clear as
 
 - [No Vehicles In The Park](https://novehiclesinthepark.com/) demonstrates this example plainly.
 - Blocking all nude photos of children, for example, sounds sensible at first, until you consider that doctors sometimes need those photos to save lives.
-- Stopping all illegal activity may sound reasonable, unless the law itself is acting against [human rights](https://gainedin.site/boundaries/).
+- Stopping all illegal activity may sound reasonable, unless the law itself is acting against [human rights](people-boundaries.md).
 
 Whenever and as long as you have the freedom, publish the surveillance and censorship you *do* find (e.g., report it to the news, [Atlas of Surveillance](https://atlasofsurveillance.org/)).
 
@@ -51,12 +51,12 @@ You can do some things that will partially solve the problem, but nothing will f
 - Fight back with litigation (e.g., [DoNotPay](https://donotpay.com/)).
 - Publicly shame the organization on social media (and on a *different* social media if they *are* the social media company).
 
-You *could* step away from all the tech, though it will depend heavily on your [career specialization](https://gainedin.site/specialization-cities/).
+You *could* step away from all the tech, though it will depend heavily on your [career specialization](jobs-specialization.md).
 
-- Consider [moving](https://adequate.life/moving/) to a smaller city or town, or go as far as [homesteading](https://notageni.us/homestead/).
+- Consider [moving](home-moving.md) to a smaller city or town, or go as far as [homesteading](homes-homestead.md).
 - Reduce your reliance on technology by getting a low-tech phone (e.g., [Light Phone](https://www.thelightphone.com/)).
 
-However, the simplest way to individually take action is to inform yourself and find trustworthy alternatives. Technology [makes things cheaper and easier](https://gainedin.site/technology/), and recreating most of the things Big Tech has made isn't as hard as you may imagine. The biggest hurdle is getting non-tech people to adopt it from their current [habits](https://gainedin.site/habits/).
+However, the simplest way to individually take action is to inform yourself and find trustworthy alternatives. Technology [makes things cheaper and easier](technology.md), and recreating most of the things Big Tech has made isn't as hard as you may imagine. The biggest hurdle is getting non-tech people to adopt it from their current [habits](habits.md).
 
 [Tons of hardware and tools are available](https://github.com/Phileosopher/toolbox/blob/master/Internet-CySec.md) to avoid the most powerful organizations.
 
@@ -70,31 +70,31 @@ However, the simplest way to individually take action is to inform yourself and 
   - Move from YouTube to something else like [PeerTube](https://joinpeertube.org/), [Bitchute](https://www.bitchute.com/), [Odysee](https://odysee.com/), or [Vimeo](https://vimeo.com/).
   - Move from corporation-owned social media sites [like Facebook](https://web.archive.org/web/20220203001740/http://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/) and into the fediverse, which allows anyone with a powerful computer to run a node in that network.
 - OS/hardware:
-  - Avoid Apple/Microsoft products and switch to [Linux-based](/unix/) (especially Manjaro or Zorin OS if you love the [UI](/ux-ui/)), though this may be difficult with [Microsoft Windows](/windows/) depending on the software that supports your lifestyle.
+  - Avoid Apple/Microsoft products and switch to [Linux-based](computers-os-unix.md) (especially Manjaro or Zorin OS if you love the [UI](design-uxui.md)), though this may be difficult with [Microsoft Windows](computers-os-windows.md) depending on the software that supports your lifestyle.
   - Avoid Android OS and switch to independently developed phones like Librem and PinePhone.
-    - Unlike other [operating systems](/os/), Android OS intimately uses GSF (Google Services Framework) and won't run without it. There's not a great [open-source](/floss/) alternative: [MicroG](https://microg.org/) is a decent workaround, but [OpenGapps](https://opengapps.org/) still sends *tons* of telemetry.
+    - Unlike other [operating systems](computers-os.md), Android OS intimately uses GSF (Google Services Framework) and won't run without it. There's not a great [open-source](legal-ip-floss.md) alternative: [MicroG](https://microg.org/) is a decent workaround, but [OpenGapps](https://opengapps.org/) still sends *tons* of telemetry.
 - Don't shop on Amazon, buy Amazon products, or work for Amazon.
 - If you're an organization that *uses* Big Tech, opt out of most Amazon advertising and Google search enhancement (e.g., AMP), since [they aren't doing much to help you](https://archive.is/20220826213152/https://kurtgessler.medium.com/what-happened-when-we-disabled-google-amp-at-tribune-publishing-2fa65a2f2a40).
 - Get "dumb" technology to serve your purposes:
-  - Avoid using Big Tech [speaker/microphone](/speakers-mic/) combo interfaces (e.g., Alexa, Siri, Cortana) or anything else that can track your data (e.g., Oculus).
-  - Instead of getting a "smart" TV, get a computer screen, since [it's basically the same thing](/screen/) with more tracking.
+  - Avoid using Big Tech [speaker/microphone](computers-speakersmic.md) combo interfaces (e.g., Alexa, Siri, Cortana) or anything else that can track your data (e.g., Oculus).
+  - Instead of getting a "smart" TV, get a computer screen, since [it's basically the same thing](computers-screen.md) with more tracking.
 - Try to avoid *anything* from China, especially computer hardware and networking equipment manufactured there.
 
 If you *do* work in the tech sector, you have additional things you can do.
 
 - When you see something, say something.
   - [This Chicago DevOps consultant showed the ubiquity of gunfire detection sensors throughout the region](https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html).
-- Gain *much* more understanding of the code you're working with, and only build and work with [open-source licenses](/floss/).
+- Gain *much* more understanding of the code you're working with, and only build and work with [open-source licenses](legal-ip-floss.md).
   - If you're developing open-source software, [there are ways to make it more difficult for proprietary modules to work with your product](https://lwn.net/Articles/939842/).
   - Look at any proprietary hardware that *doesn't* have open-source software, then fill the gaps for it by reverse-engineering a decent alternative. Even if it's passable, it'll be *much* better than the surveillance-based proprietary software version by principle alone.
-- Anytime you find proprietary software, seek an alternative: [GNU/Linux](/unix/) over [Windows](/windows/), GIMP over Photoshop, hosted [Git over GitHub](/version-control/), [self-hosted](/dist-sys/) everything over a paid service.
+- Anytime you find proprietary software, seek an alternative: [GNU/Linux](computers-os-unix.md) over [Windows](computers-os-windows.md), GIMP over Photoshop, hosted [Git over GitHub](computers-software-versionctrl.md), [self-hosted](computers-distsys.md) everything over a paid service.
 - When you don't understand features, don't add them or activate them.
 - Get the message out to other tech sector workers (e.g., [Please don't upload my code on GitHub](https://nogithub.codeberg.page/)).
-- Find other people with your specialization and start a service (e.g., [internet service provider](/networks/), [cloud storage](/cloud/)).
+- Find other people with your specialization and start a service (e.g., [internet service provider](networks-computer.md), [cloud storage](computers-distsys-cloud.md)).
 
-Whenever you *do* use alternatives, make sure to tell everyone else you know about it. Smaller and [open-source](/floss/) projects simply don't have the presence or [advertising budget](https://notageni.us/marketing/) of their much larger competitors, who are willing to pay for market exposure.
+Whenever you *do* use alternatives, make sure to tell everyone else you know about it. Smaller and [open-source](legal-ip-floss.md) projects simply don't have the presence or [advertising budget](marketing.md) of their much larger competitors, who are willing to pay for market exposure.
 
-One of the most important things you can do is to advance [free, open-source](/floss/) software and schematics, which allows others to re-release and develop separately if the original creator becomes too totalitarian:
+One of the most important things you can do is to advance [free, open-source](legal-ip-floss.md) software and schematics, which allows others to re-release and develop separately if the original creator becomes too totalitarian:
 
 - [openlgtv project, legal reverse engineering and research of firmware for LG TVs](https://openlgtv.github.io/).
 - [The Open Source Ecology Documentation, for a wide variety of open designs](https://opensourceecology.dozuki.com/).
@@ -104,14 +104,14 @@ Beyond having the freedom to modify code, open source is also legally enforceabl
 
 ### Stay anonymous
 
-Anonymity is the best way to stay private, since large organizations have bigger problems unrelated to you, though that's not necessarily true if you declare [unfashionable things](https://gainedin.site/trends/) that work against their interests too harshly, too frequently, and too directly.
+Anonymity is the best way to stay private, since large organizations have bigger problems unrelated to you, though that's not necessarily true if you declare [unfashionable things](trends.md) that work against their interests too harshly, too frequently, and too directly.
 
 In case you *do* get shut down, keep your activities separate to stay safe from complete annihilation:
 
 - Make separate work and personal accounts, with each app you're developing as a separate account.
 - Never, *ever* login as a personal account with a work-related account already on it, or vice versa.
-- Use separate profiles for work and pleasure (which is also a [great productivity trick](https://adequate.life/success-4/)).
-- When in doubt, use [virtual machines](/vm/) to open suspicious things, and open it over a [VPN](/networks/).
+- Use separate profiles for work and pleasure (which is also a [great productivity trick](success-4_routine.md)).
+- When in doubt, use [virtual machines](computers-distsys-vm.md) to open suspicious things, and open it over a [VPN](networks-computer.md).
 - If you can afford it, have "burner computers" that are known-insecure or that you wipe frequently.
   - If you're not doing anything computation-intensive (e.g., web browsing), computers in the developed world can be relatively cheap.
 
@@ -128,11 +128,11 @@ When you're caught in the crosshairs of Big Tech, the only way to reliably push 
 
 The information for just about anything is readily available on the internet, so do your research if you're unsure about what you're hearing.
 
-- Avoid the initial results on a search engine, since they're often [algorithmically](/algorithms/) tailored to advance an agenda.
-- Get [*far* more granular](/shortcuts-browser/) in your research, since an algorithm won't often work as well on *extremely* specific results.
-- Watch for hardware and software [branded](https://notageni.us/marketing/) as privacy-oriented but isn't (e.g., [the Freedom Phone isn't particularly great at privacy](https://web.archive.org/web/20220609143842/https://mjg59.dreamwidth.org/59479.html)).
+- Avoid the initial results on a search engine, since they're often [algorithmically](programming-algorithms.md) tailored to advance an agenda.
+- Get [*far* more granular](browser-shortcuts.md) in your research, since an algorithm won't often work as well on *extremely* specific results.
+- Watch for hardware and software [branded](marketing.md) as privacy-oriented but isn't (e.g., [the Freedom Phone isn't particularly great at privacy](https://web.archive.org/web/20220609143842/https://mjg59.dreamwidth.org/59479.html)).
 
-Before using *any* software, actually read the terms of service to see what you're implicitly [consenting to](https://notageni.us/contracts/).
+Before using *any* software, actually read the terms of service to see what you're implicitly [consenting to](people-contracts.md).
 
 - Blindly accepting the terms of service [can cause *major* issues for you later](https://www.pcmatic.com/blog/blindly-accepting-terms-conditions/).
 - Some software can make it easier (e.g., [TOS;DR](https://www.tosdr.org/)).
@@ -148,7 +148,7 @@ Organizations are often legally required not to inform the public if a governmen
 
 ### Learn dybersecurity
 
-To cut back on the data gleaning, practice good [cybersecurity practices](/cysec/) and generally distrust what large organizations say:
+To cut back on the data gleaning, practice good [cybersecurity practices](computers-cysec.md) and generally distrust what large organizations say:
 
 - A large company or government is never entirely trustworthy as long as it's also a participant in the marketplace it runs.
 - Very often, a company or government will advance a privacy-violating move under the claim of protecting something, which will be whatever people are afraid of (e.g., protecting children, keeping everyone safe, etc.). This has been done before in history, but usually by a government promising to protect people from a foreign threat.
@@ -160,7 +160,7 @@ To cut back on the data gleaning, practice good [cybersecurity practices](/cysec
 
 Practice degrees of separation between different entities, and avoid giving too much information:
 
-- Only use your email address and avoid [authentication](/authentication/) logins with a Big Tech corporation.
+- Only use your email address and avoid [authentication](computers-cysec-authentication.md) logins with a Big Tech corporation.
 - Don't use third-party payment processors. PayPal, Stripe, and Square make life more convenient, but usually don't add any additional security that your bank doesn't have.
 
 Many elements are complex enough that it's worth researching and discussing more in-depth:
@@ -168,19 +168,19 @@ Many elements are complex enough that it's worth researching and discussing more
 - How do you know what to do if your email is hosted by a company who assists a totalitarian country?
 - What do you do if your information is being harvested by elected criminals?
 
-If you have the skill for it, learn to [hack](/hacking/) DRM, work outside the mainstream, and generally become more tech-savvy.
+If you have the skill for it, learn to [hack](hacking.md) DRM, work outside the mainstream, and generally become more tech-savvy.
 
-- Don't buy TVs anymore (which track more data), but instead buy monitors, since there's now practically no difference in [screen technology](/screen/) between the two.
-- Jailbreak/root every one of your devices so that you actually *own* them (rather than being held hostage by the proprietary [OS](/os/)).
-- Ideally, [self-host](/web-dev/) your emails and websites and [explore other protocols like Gopher, Tor, and ZeroNet](https://web.archive.org/web/20220206154044/https://cheapskatesguide.org/articles/old-internet-coming-back.html).
-- When distributing information, use [torrents](/torrent/) and P2P solutions.
-- Try to use [blockchain-based](/blockchain/) social network and hosting, such as Mastodon.
+- Don't buy TVs anymore (which track more data), but instead buy monitors, since there's now practically no difference in [screen technology](computers-screen.md) between the two.
+- Jailbreak/root every one of your devices so that you actually *own* them (rather than being held hostage by the proprietary [OS](computers-os.md)).
+- Ideally, [self-host](computers-webdev.md) your emails and websites and [explore other protocols like Gopher, Tor, and ZeroNet](https://web.archive.org/web/20220206154044/https://cheapskatesguide.org/articles/old-internet-coming-back.html).
+- When distributing information, use [torrents](computers-distsys-torrent.md) and P2P solutions.
+- Try to use [blockchain-based](computers-blockchain.md) social network and hosting, such as Mastodon.
 
 * * * * *
 
 ## Take political action
 
-Joining class-action lawsuits (e.g., [Facebook User Privacy Settlement](https://web.archive.org/web/20230301191830/https://facebookuserprivacysettlement.com/)) isn't that useful. They're dumb lawsuits where attorneys profit, [regardless of who wins](https://notageni.us/legally-safe/).
+Joining class-action lawsuits (e.g., [Facebook User Privacy Settlement](https://web.archive.org/web/20230301191830/https://facebookuserprivacysettlement.com/)) isn't that useful. They're dumb lawsuits where attorneys profit, [regardless of who wins](legal-safety.md).
 
 - Class action lawsuits mean you can't dispute an issue with them about that issue later.
 - If it's small damages below a certain amount (~$5,000), [take it to small claims](https://news.ycombinator.com/item?id=35836221):
@@ -207,35 +207,35 @@ You *can*, however, take limited political action yourself:
    - [Conscious Digital](https://consciousdigital.org/)
    - [Police Data Accessibility Project](https://www.pdap.io/)
    - [PRISM Break](https://prism-break.org/en/)
-4. Directly help groups that actually *build* [open-source](/free-software/) and [federated](/blockchain/) tech things:
+4. Directly help groups that actually *build* [open-source](legal-ip-floss.md) and [federated](computers-blockchain.md) tech things:
    - [Linux Foundation](https://www.linuxfoundation.org/)
    - [Mozilla Foundation](https://foundation.mozilla.org/)
    - [Tor Project](https://www.torproject.org/)
    - [Framasoft](https://framasoft.org/en)
    - [iFixit](https://www.ifixit.com/Right-to-Repair)
-5. Assist with groups that legally defend and propagate free use of [intellectual properties](https://notageni.us/ip/):
+5. Assist with groups that legally defend and propagate free use of [intellectual properties](legal-ip.md):
    - [Software Freedom Conservancy](https://sfconservancy.org/)
    - [Free Software Foundation](https://www.fsf.org/)
    - [Internet Archive](https://archive.org/)
    - [Disroot](https://disroot.org/)
 6. Direct attention toward groups that legally promote that public money should mean public code:
    - [Public Money, Public Code](https://publiccode.eu/)
-7. Focus your resources and [investments](https://notageni.us/investing/) toward smaller organizations and groups labeled as part of the parallel economy:
-   - Finance [tech startups](/entrepreneur/) more often
+7. Focus your resources and [investments](money-investing.md) toward smaller organizations and groups labeled as part of the parallel economy:
+   - Finance [tech startups](entrepreneur-1_why.md) more often
    - [Tech Coops](https://tech-coops.xyz/)
    - [Venture Capital Cross](https://vccross.com/)
-8. Don't let yourself get [distracted](https://adequate.life/success-4/), or [deceived](https://gainedin.site/bias/), or [influenced](https://gainedin.site/influence/) by the [propaganda](https://gainedin.site/storytellers/) and [distortion](https://gainedin.site/image-distortion/) (e.g., follow [No Agenda podcast](https://www.noagendashow.net/)). The battle is against anyone using user data [without permission](https://notageni.us/contracts/), for *any* [private or public group](https://gainedin.site/bad-systems/).
+8. Don't let yourself get [distracted](success-4_routine.md), or [deceived](mind-bias.md), or [influenced](power-influence.md) by the [propaganda](stories-storytellers.md) and [distortion](image-distortion.md) (e.g., follow [No Agenda podcast](https://www.noagendashow.net/)). The battle is against anyone using user data [without permission](people-contracts.md), for *any* [private or public group](mgmt-badsystems.md).
    - [Don't let any single group have centralized control over what someone can say or express](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it).
 
 More indirectly, you can contact your government officials to get laws drafted (or enforced) in a few possible directions:
 
-1. Protect individuals from other organizations collecting or using personalized data. [The European Union has created the GDPR](https://www.gdpreu.org/), which in some ways makes [debugging](/software-redesign/) a challenge, but it's a good start.
-2. Endorse aspects of web scraping (i.e., copying information off the internet). There are efforts to imply [copyright law](https://notageni.us/ip/) makes this illegal, but the internet is only free when anyone can copy it.
+1. Protect individuals from other organizations collecting or using personalized data. [The European Union has created the GDPR](https://www.gdpreu.org/), which in some ways makes [debugging](computers-software-redesign.md) a challenge, but it's a good start.
+2. Endorse aspects of web scraping (i.e., copying information off the internet). There are efforts to imply [copyright law](legal-ip.md) makes this illegal, but the internet is only free when anyone can copy it.
 3. Make the platforms required to give public, uninhibited access to their services (i.e., interoperability). This allows others to build on their work and spin off variations without requiring others to build everything from scratch, though it wouldn't necessarily restrict Big Tech from misusing that information.
 4. Keep platforms separate from their users. The platform renders a valuable service, but they're going too far if they're moderating content. [The USA's Section 230](https://web.archive.org/web/20110308082959/https://www.eff.org/issues/cda230) is powerful at regulating this, but the Good Samaritan Clause needs clarification.
 5. Hold the largest corporations accountable to things that aren't corporations, such as elected officials or government bureaus. Otherwise, they will be free to act as all-encompassing monopolies while controlling most of the important information people need to live.
 6. Keep an eye on government as well, since censoring content of *any* form without it violating a specific law (e.g., defamation, sexual exploitation) is [essentially a violation of civil rights](https://web.archive.org/web/20220921053901/https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime).
-7. Work to advance legislation that promotes [new startups](/entrepreneur/) or oppose legislation that maintains [large organizational power](https://gainedin.site/bad-systems/), which either way will disrupt the systems presently in place.
+7. Work to advance legislation that promotes [new startups](entrepreneur-1_why.md) or oppose legislation that maintains [large organizational power](mgmt-badsystems.md), which either way will disrupt the systems presently in place.
 
 ### Do your part
 
@@ -252,7 +252,7 @@ You can also work through legal channels to fight the issues yourself:
 - [2022-11 This writer was able to fight back against PayPal and win](https://web.archive.org/web/20221103142647/https://jessesingal.substack.com/p/i-fought-the-paypal-and-i-won).
 - [2023-07 The president of Signal says they will not comply with the UK mass surveillance law](https://web.archive.org/web/20230716085901/https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/).
 
-Either way, it may not be the hill you want to die on, so make sure you [stay as legally safe as possible](https://notageni.us/legally-safe/) if it's not worth your time:
+Either way, it may not be the hill you want to die on, so make sure you [stay as legally safe as possible](legal-safety.md) if it's not worth your time:
 
 - [2022-11 Compliance obligations under the UK's Online Safety Bill](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/).
 
@@ -273,16 +273,16 @@ If you *really* want to die on that hill without a legal battle, learn from your
 
 Even with all the above, there are limits to what you can do:
 
-- If your company uses FAANG, you will probably need to use it or [find another job](https://adequate.life/jobs-1/).
+- If your company uses FAANG, you will probably need to use it or [find another job](jobs-1_why.md).
 - You can cut out tracking of your personal life, but [*everyone else* might be monitored anyway](https://web.archive.org/web/20140512090145/http://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours).
-- Going off-grid is an option, but that's [a *massive* project with many risks involved](https://notageni.us/homestead/).
-- Eventually, you'll have to either pay more money or go through [the arcane process of getting what you need](https://notageni.us/bureaucracy). For example, [this man took 57 steps to change his printer's region](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why).
+- Going off-grid is an option, but that's [a *massive* project with many risks involved](homes-homestead.md).
+- Eventually, you'll have to either pay more money or go through [the arcane process of getting what you need](bureaucracy.md). For example, [this man took 57 steps to change his printer's region](https://www.theverge.com/23648726/hp-officejet-printer-region-how-to-change-why).
 
-If you're a nobody citizen (which most of us are), you're not worth the time for large entities to harass you. Most people who become fearful of "the conspiracy" feel powerless in the presence of a [legitimately powerful group](https://gainedin.site/groups-large/) and forget the organization is still merely a group of humans.
+If you're a nobody citizen (which most of us are), you're not worth the time for large entities to harass you. Most people who become fearful of "the conspiracy" feel powerless in the presence of a [legitimately powerful group](groups-large.md) and forget the organization is still merely a group of humans.
 
-Empires collapse when the people at large grow restless enough, so [staying connected with others in your community](https://gainedin.site/groups-small/) is your greatest defense against tyranny, and every empire eventually falls.
+Empires collapse when the people at large grow restless enough, so [staying connected with others in your community](groups-small.md) is your greatest defense against tyranny, and every empire eventually falls.
 
-Above all, learn to [release what you can't control](https://adequate.life/happiness-2/) and find satisfaction with your life.
+Above all, learn to [release what you can't control](happiness-stress.md) and find satisfaction with your life.
 
 * * * * *
 
@@ -299,9 +299,9 @@ The amount of *legitimate* power from FAANG's sheer numbers isn't as scary as it
 - Netflix only had ~9,400 employees in 2020.
 - Dropbox only had 2,760 employees in 2020.
 
-Most of Big Tech's [influence](https://gainedin.site/influence/) is over information, but they don't necessarily have [military power](https://gainedin.site/power-types/) to kill and destroy if they don't get their way, and a government can always shut them down at their desire in that region within 1-2 months.
+Most of Big Tech's [influence](power-influence.md) is over information, but they don't necessarily have [military power](power-types.md) to kill and destroy if they don't get their way, and a government can always shut them down at their desire in that region within 1-2 months.
 
-And sometimes, depending on who is elected and [what stock they own](https://gainedin.site/groups-large/), Big Tech mergers and acquisitions are stopped outright by governments:
+And sometimes, depending on who is elected and [what stock they own](groups-large.md), Big Tech mergers and acquisitions are stopped outright by governments:
 
 - Anti-Facebook/Meta
   - [2022-01 The FTC is breaking up Meta, the parent company of Facebook, Instagram, and WhatsApp (ongoing as of 2022/01)](https://web.archive.org/web/20220113164618/https://www.huffpost.com/entry/federal-trade-commission-facebook-instagram-lawsuit_n_61defaf3e4b04e9d84df179e).
@@ -330,7 +330,7 @@ There's definitely been [growing support toward government action](https://web.a
 - [2023-06 The UK Competition and Markets Authority have prevented Microsoft from merging with Activision Blizzard](https://web.archive.org/web/20230603101224/https://www.thebignewsletter.com/p/big-tech-blocked-microsoft-stopped).
 - [2023-06 The EU has ruled that batteries must be "more sustainable, more durable, and better-performing"](https://web.archive.org/web/20230614113043/https://www.europarl.europa.eu/news/en/press-room/20230609IPR96210/making-batteries-more-sustainable-more-durable-and-better-performing).
 
-The power plays aren't strictly a monolithic attempt to subdue unsuspecting individuals. There are *gigantic* power battles back-and-forth between the large organizations (as well as [watchdog journalists](http://gainedin.site/storytellers/)) for antitrust and pro-trust agendas.
+The power plays aren't strictly a monolithic attempt to subdue unsuspecting individuals. There are *gigantic* power battles back-and-forth between the large organizations (as well as [watchdog journalists](stories-storytellers.md)) for antitrust and pro-trust agendas.
 
 Large-Scale Events:
 
@@ -528,8 +528,8 @@ For all the above, many organizations have somewhat scaled back their actions:
 - [2022-06 Google gives Europeans a "reject all" button to conform with the EU's GDPR laws](https://web.archive.org/web/20220615032753/https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws).
 - [2023-11 Google has cut back its experimental Web Environment Integrity API to only apply to Android devices](https://web.archive.org/web/20231108090731/https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/).
 
-It's also worth noting [tech trends](/trends/) move around a *ton*, and every few decades something tends to upend the value of how people want to use their technology:
+It's also worth noting [tech trends](trends.md) move around a *ton*, and every few decades something tends to upend the value of how people want to use their technology:
 
-1. IBM once dominated the computer industry with their 360 system. They imagined people wanted the reliable IBM-brand computers more than anything. Microsoft signed a non-exclusive contract with them, and consumers cared more about MS-DOS (and later [Windows](/windows/)) on a cheap computer more than whether it was an IBM computer. By the 1990s, IBM was just one of many competitors over hardware.
-2. Microsoft dominated the [operating system](/os/) world for a long time, with Mac and Linux picking up stragglers. However, [Linux](/unix/) started taking over server environments by the early 2000s, and by the late 2000s Google had created a vastly superior [search engine](/algorithms/) for what people wanted. As of 2022, Linux is still carving out parts of the desktop market as [Windows 11 fails to improve itself](/windows/).
-3. While I write this in 2023, people are getting tremendously concerned with Google's lack of consideration for individual users' [privacy](/cysec/). It's only a matter of a few years before a legitimately privacy-respecting operating system, search engine, and [browser](/web-dev/) take over from the studious efforts of a clever [software developer](/software-design/).
+1. IBM once dominated the computer industry with their 360 system. They imagined people wanted the reliable IBM-brand computers more than anything. Microsoft signed a non-exclusive contract with them, and consumers cared more about MS-DOS (and later [Windows](computers-os-windows.md)) on a cheap computer more than whether it was an IBM computer. By the 1990s, IBM was just one of many competitors over hardware.
+2. Microsoft dominated the [operating system](computers-os.md) world for a long time, with Mac and Linux picking up stragglers. However, [Linux](computers-os-unix.md) started taking over server environments by the early 2000s, and by the late 2000s Google had created a vastly superior [search engine](programming-algorithms.md) for what people wanted. As of 2022, Linux is still carving out parts of the desktop market as [Windows 11 fails to improve itself](computers-os-windows.md).
+3. While I write this in 2023, people are getting tremendously concerned with Google's lack of consideration for individual users' [privacy](computers-cysec.md). It's only a matter of a few years before a legitimately privacy-respecting operating system, search engine, and [browser](computers-webdev.md) take over from the studious efforts of a clever [software developer](computers-software-design.md).

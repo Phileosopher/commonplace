@@ -1,11 +1,11 @@
 
-Homesteading is essentially the entire domain of [owning a home](/homes/), but with many more domains involved.
+Homesteading is essentially the entire domain of [owning a home](home-buysell.md), but with many more domains involved.
 
-The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](https://gainedin.site/conveniences/) you have available:
+The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](conveniences.md) you have available:
 
-- At the farthest simplicity, you can [have a garden](/plants/) and learn how to fix your home (instead of hiring [professionals](/professional/) for all your basic needs).
-- On one end of "complete" homesteading, you can live in a full-function house (indoor plumbing, central HVAC, wireless internet, etc.) with a nice view, a reasonable distance from town, and a slightly increased [risk](/risk-mgmt/) from nature and the elements.
-- On the other, you can live in self-made alternative housing, [grow your food](/plants/), dig your own well, compost your waste, and only visit town in the occasional event of a [medical emergency](https://adequate.life/first-aid/) you can't handle yourself.
+- At the farthest simplicity, you can [have a garden](horticulture.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
+- On one end of "complete" homesteading, you can live in a full-function house (indoor plumbing, central HVAC, wireless internet, etc.) with a nice view, a reasonable distance from town, and a slightly increased [risk](safety-riskmgmt.md) from nature and the elements.
+- On the other, you can live in self-made alternative housing, [grow your food](horticulture.md), dig your own well, compost your waste, and only visit town in the occasional event of a [medical emergency](body-firstaid.md) you can't handle yourself.
 - You can still live within range of a relatively small town and have the convenience of a community *with* the privacy of living remotely.
 
 A massive part of this has to do with how you choose to generate income or goods you need.
@@ -13,27 +13,27 @@ A massive part of this has to do with how you choose to generate income or goods
 - It can be a *very* harsh life if you intentionally live completely off the land and produce your own products, especially if you don't know what you're doing.
 - On the other hand, if you generate enough income remotely (e.g., software developer) or travel for work (e.g., construction contractor), you can typically purchase most of what you need in a large-enough metropolitan area.
 
-In general, only consider living somewhat remotely if your [extraversion](https://gainedin.site/personality/) is low enough that you can withstand a week or two in complete isolation.
+In general, only consider living somewhat remotely if your [extraversion](personality.md) is low enough that you can withstand a week or two in complete isolation.
 
-- If you're not sure, try [vacationing somewhere](https://adequate.life/vacations-trips/) without any communications technology for 2-4 days at a time to ease into it.
+- If you're not sure, try [vacationing somewhere](fun-vacations.md) without any communications technology for 2-4 days at a time to ease into it.
 
 *Everyone* accustomed to city life must adapt their philosophy on getting things done.
 
-- Everyone only needs to worry about day-to-day needs in a city (hand-to-mouth mentality), [money management](https://adequate.life/money-1/), and knowing the right experts to contact for various [specializations](https://gainedin.site/specialization-cities/).
-- Things are often more difficult to find in a rural region, so stockpiling is *absolutely* critical for times when things become more scarce (abundance mentality) and it's important to know how to [diagnose and fix things](/fix/), as well as finding [creative solutions](https://gainedin.site/creativity/).
-- In general, everything is no longer a "thing", but now a "sequence", so treat *everything* as part of a larger system with an "output" and an "input", and always [plan ahead](/mgmt/) for it.
-- Without understanding hand-to-mouth versus abundance, a [long-term disaster](https://adequate.life/disasters-3/) becomes almost certain.
-- Beyond [core household needs](https://adequate.life/decorations-renovations/), invest in a few additional items for [improvisation](/fix/): welder, lathe, mill, and plasma cutter.
+- Everyone only needs to worry about day-to-day needs in a city (hand-to-mouth mentality), [money management](money-1_why.md), and knowing the right experts to contact for various [specializations](jobs-specialization.md).
+- Things are often more difficult to find in a rural region, so stockpiling is *absolutely* critical for times when things become more scarce (abundance mentality) and it's important to know how to [diagnose and fix things](fix.md), as well as finding [creative solutions](mind-creativity.md).
+- In general, everything is no longer a "thing", but now a "sequence", so treat *everything* as part of a larger system with an "output" and an "input", and always [plan ahead](mgmt-1_why.md) for it.
+- Without understanding hand-to-mouth versus abundance, a [long-term disaster](hardship-disaster-2_long-stay.md) becomes almost certain.
+- Beyond [core household needs](home-decorations.md), invest in a few additional items for [improvisation](fix.md): welder, lathe, mill, and plasma cutter.
 
 Living off the land does *not* have to be expensive, and is often *much* more affordable than renting in a city.
 
 - Some states give away vacant properties if you build a house on them or live there for a certain amount of time.
-- You can often secure a subsidized or low-interest farm [loan](https://adequate.life/money-2/) through the government if you meet certain criteria.
+- You can often secure a subsidized or low-interest farm [loan](money-2_debt.md) through the government if you meet certain criteria.
 
-If you choose to live somewhat remotely, and you have children, the best decision *will* be to [homeschool](/homeschool/) your children.
+If you choose to live somewhat remotely, and you have children, the best decision *will* be to [homeschool](pedagogy-homeschool.md) your children.
 
-- Remote learning doesn't give the [impact](https://gainedin.site/meaning/) that an in-person teaching session can provide, especially when a teacher has the work divided across *many* more students.
-- Eventually, *expect* your children to either [leave to find their lifestyle](https://adequate.life/parenting-3/) (in the [career](https://adequate.life/jobs-1/) of their choice) or adopt something related to *your* career.
+- Remote learning doesn't give the [impact](meaning.md) that an in-person teaching session can provide, especially when a teacher has the work divided across *many* more students.
+- Eventually, *expect* your children to either [leave to find their lifestyle](parenting-3_teenagers.md) (in the [career](jobs-1_why.md) of their choice) or adopt something related to *your* career.
 
 To attain maximum civilization, a homestead only needs a few specific things:
 
@@ -57,23 +57,23 @@ To make your life manageable, you will need to have or acquire *many* skills.
 
 Some skills are non-negotiable:
 
-- Basic [gardening and crops](/plants/)
+- Basic [gardening and crops](horticulture.md)
 - Basic construction
 - Planning meals based on what's in season
 - Cooking food from raw ingredients
 - Freezing to preserve food
 - Hand-washing laundry
-- Basic [survival skills](https://adequate.life/surviving-nature/)
+- Basic [survival skills](safety-nature.md)
 - Basic [social skills](https:/adequate.life/people-1/)
 
 While not critical for living, some skills are good to have:
 
-- Basic [agriculture](/livestock/)
+- Basic [agriculture](agriculture.md)
 - Canning and dehydrating
 - Making a greenhouse
-- Making your own [pet](https://adequate.life/pets/) and animal food
+- Making your own [pet](fun-pets.md) and animal food
 - Basic sewing and needlework
-- Homemade [cleaning supplies](https://adequate.life/housekeeping/)
+- Homemade [cleaning supplies](home-housekeeping.md)
 - Making preserves like chutney, fruit roll-ups, and jam or jelly
 - Preparing raw milk
 - Baking without an oven
@@ -96,8 +96,8 @@ However, as long as you have a means of generating income, you can usually take 
 The need for water is *huge*:
 
 - It's essential for us to survive, in relatively small quantities.
-- We need water to [prepare most of our food](https://adequate.life/cooking/).
-- We typically require water for [basic hygiene](https://adequate.life/people-2/).
+- We need water to [prepare most of our food](cooking.md).
+- We typically require water for [basic hygiene](people-2_image.md).
 
 Therefore, we have a few options:
 
@@ -137,7 +137,7 @@ Broadly speaking, nature's elements group into a few major things:
 You do *not* need anything elaborate, though a larger dwelling allows you to do more without any distractions.
 
 - We tend to be distracted by adverse conditions that make us feel unsafe.
-- The amount of protection we need is *highly* contextual to [culture](https://gainedin.site/culture/), but [living well](https://gainedin.site/good-life/) requires either accommodating those preferences or changing them.
+- The amount of protection we need is *highly* contextual to [culture](culture.md), but [living well](goodlife.md) requires either accommodating those preferences or changing them.
 
 The Tipi method is one of the easiest ways to create a durable-enough building:
 
@@ -222,23 +222,23 @@ Water's ubiquity means the roof is *the* most important part of the building.
 Whatever dwelling you design, make sure it's accessible later:
 
 - Have 2-5 different possible scenarios for how you might use the building, then use a strategy that accommodates *all* of them.
-- You should be able to easily clean windows, reach light fixtures, access electrical panels and plumbing controls, access ducting, and open up the walls if something needs [repairing](/fix/) or [improving](https://adequate.life/decorations-renovations/).
+- You should be able to easily clean windows, reach light fixtures, access electrical panels and plumbing controls, access ducting, and open up the walls if something needs [repairing](fix.md) or [improving](home-decorations.md).
 - If you design it correctly from the beginning, you will save a *lot* of time and money later.
 
 Spend more money than you'd expect on the building's basic structure.
 
-- If you get low-quality building materials, you *will* have to [fix it](/fix/) later.
-- However, don't obsess too much about finishing materials, since they're more for [design](/design/) than [use](https://gainedin.site/purpose/), and you may easily want to change it later if your preference [leans toward it](https://gainedin.site/trends/).
-- If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](https://gainedin.site/creativity/) where it [shows the most](https://gainedin.site/image/).
+- If you get low-quality building materials, you *will* have to [fix it](fix.md) later.
+- However, don't obsess too much about finishing materials, since they're more for [design](design-uxui.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
+- If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](image.md).
 
-If you're building something larger, adapt your strategy as constraints arise at [each phase of the project](https://notageni.us/mgmt-projects/):
+If you're building something larger, adapt your strategy as constraints arise at [each phase of the project](mgmt-2_projects.md):
 
-1. Building permissions must conform to [legal requirements](/legally-safe/).
+1. Building permissions must conform to [legal requirements](legal-safety.md).
 2. Preparing the site may have certain constraints on what you can do or how much.
-3. Construction often runs into problems with materials or [supply chain](/logistics/) issues.
-4. When finishing, it's easy to see [design issues](/design/) you may have missed earlier in the project.
+3. Construction often runs into problems with materials or [supply chain](logistics.md) issues.
+4. When finishing, it's easy to see [design issues](design-uxui.md) you may have missed earlier in the project.
 5. Finally, once you live there, you'll often discover issues you wouldn't have realized otherwise.
-6. Over the long term, the building may start representing [patterns](https://gainedin.site/symbols/) of specific [issues](/fix/), so [improve](https://adequate.life/decorations-renovations/) as you go.
+6. Over the long term, the building may start representing [patterns](symbols.md) of specific [issues](fix.md), so [improve](home-decorations.md) as you go.
 
 Pay close attention to the risks associated with the building's geographical climate:
 
@@ -249,12 +249,12 @@ Pay close attention to the risks associated with the building's geographical cli
 
 While you can use CAD software to create construction drawings, builders work off a PDF set of plans.
 
-- You can find plenty of open construction diagrams online, then adapt them according to [local code](/legally-safe/) or necessary specifications.
+- You can find plenty of open construction diagrams online, then adapt them according to [local code](legal-safety.md) or necessary specifications.
 
-If you're hiring a [contractor](/contracts/) to build (which is a good idea if you don't have a background in construction), hire good help, or they'll install things poorly.
+If you're hiring a [contractor](people-6_contracts.md) to build (which is a good idea if you don't have a background in construction), hire good help, or they'll install things poorly.
 
-- Note who you can [save on](https://adequate.life/saving/): cheap siding installation isn't as devastating as cheap masonry.
-- Your building is a [creative outflow](https://gainedin.site/creations/) of your [personality](https://gainedin.site/personality/), but becomes less "yours" proportional to how disengaged you are with the project.
+- Note who you can [save on](money-saving.md): cheap siding installation isn't as devastating as cheap masonry.
+- Your building is a [creative outflow](creations.md) of your [personality](personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
 - Try to be physically present through *all* stages of the construction, since you may miss something important about your preference (e.g., placement of fridge or sinks, counter height).
 
 ## Food
@@ -262,8 +262,8 @@ If you're hiring a [contractor](/contracts/) to build (which is a good idea if y
 You have a few options with food:
 
 1. Import the food, which means routinely visiting town and making a large purchase.
-2. [Grow your food](/plants/), which is time-consuming and hard work.
-3. [Raise livestock](/livestock/), which even *more* time-consuming and challenging, but yields far more rewards.
+2. [Grow your food](horticulture.md), which is time-consuming and hard work.
+3. [Raise livestock](agriculture.md), which even *more* time-consuming and challenging, but yields far more rewards.
 
 When you grow your food, preserve *everything* you can.
 
@@ -309,7 +309,7 @@ If you opt for indoor plumbing, you will need a septic tank or will need to conn
 - Septic tanks typically break down waste by introducing bacteria into it that eat poop and urine.
 - Routinely add more cultures to make sure there's a thriving ecosystem.
 
-When [diagnosing](/fix/) any blockage, make sure to address the issues as soon as possible. A small flow can be cleared with a drain cleaner solution, but a large flow requires snaking it out.
+When [diagnosing](fix.md) any blockage, make sure to address the issues as soon as possible. A small flow can be cleared with a drain cleaner solution, but a large flow requires snaking it out.
 
 ## Electricity
 
@@ -331,20 +331,20 @@ Each power source has benefits and drawbacks.
 - Solar cells and wind turbines are very conspicuous, need frequent maintenance, and give volatile energy.
 - Hydroelectric generators require a water source.
 - Thermal generators require a heat source.
-- If you have the time, you can [convert an old car into a powerful generator](https://news.ycombinator.com/item?id=37610230) with an [Arduino Nano](https://trendless.tech/pi-arduino/) attached to a generator (preferably with a gearbox to avoid overloading the system).
+- If you have the time, you can [convert an old car into a powerful generator](https://news.ycombinator.com/item?id=37610230) with an [Arduino Nano](computers-embedded.md) attached to a generator (preferably with a gearbox to avoid overloading the system).
 
 No matter what, make sure that *any* electrical assembly you create is safe:
 
 - *Never* leave wires exposed: cap them off or make sure they're in no way part of a potentially live circuit (e.g., unplug from the fuse box).
 - *Always* ground your assembly with at least a few ground wires. Otherwise, the wires will maintain a charge even when the power has been turned off.
 - To keep things simple and avoid draining power, always leave unused electrical objects unplugged.
-- Thoroughly label everything, with [clear documentation](http://trendless.tech/documentation/) on where everything leads. Unlike plumbing, it's *impossible* to discern electrical work by intuition alone, especially if you're not color-coding what you do.
+- Thoroughly label everything, with [clear documentation](language-writing-documentation-cs.md) on where everything leads. Unlike plumbing, it's *impossible* to discern electrical work by intuition alone, especially if you're not color-coding what you do.
 
 You can cut down on most electricity needs by using alternative energy sources (e.g., wood stove) or making lifestyle adaptations.
 
 If you can, try to get a very high-capacity battery or create an array of smaller batteries to store electricity.
 
-Stay *much* more aware of [incoming storms](/weather/), since natural disasters will more easily take out your power (and it won't be restored as quickly) than a city's.
+Stay *much* more aware of [incoming storms](weather.md), since natural disasters will more easily take out your power (and it won't be restored as quickly) than a city's.
 
 - If the power ever *does* go out, make sure to power off everything to avoid accidentally charging a wire later when you're working on it.
 
@@ -406,12 +406,12 @@ Water runoff is a common reality of large tracts of land, and you can assist aga
 
 ## Communications tech
 
-We generally need enough [technology](http://trendless.tech) to communicate with others, which tends to simply be a phone line and internet.
+We generally need enough [technology](technology.md) to communicate with others, which tends to simply be a phone line and internet.
 
-- However, you can find *many* [domains of expertise](https://gainedin.site/specialization-cities/) available for free on the internet, making it almost completely necessary if you depend on it for your lifestyle.
-- In particularly remote areas, [cellular networks](http://trendless.tech/networks/) are limited or nonexistent, and your only internet option is often satellite networks.
+- However, you can find *many* [domains of expertise](jobs-specialization.md) available for free on the internet, making it almost completely necessary if you depend on it for your lifestyle.
+- In particularly remote areas, [cellular networks](networks-computer.md) are limited or nonexistent, and your only internet option is often satellite networks.
 
-Further, the availability of information on the internet makes internet access *critical* for [fixing things](/fix/) and [creative ideas](https://gainedin.site/creativity/) for *all* the above.
+Further, the availability of information on the internet makes internet access *critical* for [fixing things](fix.md) and [creative ideas](mind-creativity.md) for *all* the above.
 
 - If you need the internet, *especially* if it's for your career, have at least 3-4 types of technology to access it as backup.
 
@@ -423,4 +423,4 @@ Since it's your land, you have *unlimited* freedom:
   - If you want to grow a faster forest, use a diverse range of tree types.
 - Reroute natural water systems.
 - Build new buildings on the property.
-- Operate [a business](/entrepreneur/) off the land (e.g., landfill, green waste dump, using resources, selling resources).
+- Operate [a business](entrepreneur-1_why.md) off the land (e.g., landfill, green waste dump, using resources, selling resources).

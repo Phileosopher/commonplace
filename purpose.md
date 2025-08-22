@@ -48,7 +48,7 @@ To the degree we [love](people-love.md) and [fear](mind-feelings-fear.md), we ar
 
 As our [decisions](decisions.md) to keep pursuing things become [habits](habits.md) through repetition, they slowly become unconscious (i.e., "ambition").
 
-As we grow, our purposes accommodate others' purposes as well. The [power](power.md) dynamics of living in society often creates strange [conflicts](boundaries.md) of interest:
+As we grow, our purposes accommodate others' purposes as well. The [power](power.md) dynamics of living in society often creates strange [conflicts](people-conflicts.md) of interest:
 
 - Even while a [creator](mind-creativity.md) wants to [influence](creations.md) others, they have to subsist on [enough money](power-types.md).
 - [Professionals](jobs-specialization.md) may circumvent sharing laws, which may help their client to their detriment.
@@ -118,11 +118,11 @@ Most problems are simple, and we fix them [habitually](habits.md), but we tend t
 Sometimes, problems merge with other problems to become unbreakable through any direct approach. When that happens, the only solution is to attack one of the core problems:
 
 1. The causes are difficult to discern from the effects.
-2. Everyone involved with the problem has [competing views](boundaries.md) and strong [feelings](mind-feelings.md) on what the problem even is.
+2. Everyone involved with the problem has [competing views](people-conflicts.md) and strong [feelings](mind-feelings.md) on what the problem even is.
 3. Nobody can agree on a decent set of [solutions](https://adequate.life/fix/) to address the problem.
 4. Nobody can agree on a clear, [measurable](math.md) "finish line" to track if the problem changed.
 
-One of the most prevalent interpersonal human problems pertains to [freedom](morality-justice.md). We're all born with the near-unlimited ability to think and a broad ability to do, but must honor [social standards](boundaries.md) that create *many* [interpersonal conflicts](boundaries.md). Its [morality](morality.md) is determined by how and why we resolve it.
+One of the most prevalent interpersonal human problems pertains to [freedom](morality-justice.md). We're all born with the near-unlimited ability to think and a broad ability to do, but must honor [social standards](people-boundaries.md) that create *many* [interpersonal conflicts](people-conflicts.md). Its [morality](morality.md) is determined by how and why we resolve it.
 
 Some of the largest problems are absolutely impossible to fix (e.g., [death](legacy.md)). The only way to resolve them is to release control of them as the [Unknown](unknown.md), which is the most significant use of [religion](religion.md).
 
@@ -153,6 +153,6 @@ When we feel perfectly [safe](safety.md), our recreation represents different le
 
 If a purpose isn't driven strictly by a [principle](values.md), it's driven strictly by [culturally](culture.md) established [habits](habits.md).
 
-While this doesn't make any difference for any specific purpose, they create severely contrasting [results](mind-creativity-results.md) when [confronted](boundaries.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
+While this doesn't make any difference for any specific purpose, they create severely contrasting [results](mind-creativity-results.md) when [confronted](people-conflicts.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
 
 However, every person is at least somewhat [influenced](power-influence.md) by others around them. Most significantly, our [close friends](hardship-friends.md) can alter how we [decide](decisions.md) and, ultimately, our quality of character.

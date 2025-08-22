@@ -38,11 +38,11 @@ While it's counterintuitive, good boundaries give everyone more freedom:
 
 - Because everyone in a relationship is protected, that relationship can easily persist long-term.
 - When people rely on others for a mutual benefit instead of necessity, they're interdependent.
-- Interdependence opens people up to being [creative](/creativity/) and original.
+- Interdependence opens people up to being [creative](mind-creativity-how.md) and original.
 
 ## Bad boundaries damage relationships
 
-Every single [conflict](/conflicts/) or social issue comes through improper boundaries:
+Every single [conflict](people-5_conflicts.md) or social issue comes through improper boundaries:
 
 - Can't say "no" (Compliant) - feel too guilty or controlled to assert self, letting others abuse us.
 - Can't say "yes" (Unresponsive) - too afraid to accept vulnerabilities or weaknesses, distancing ourselves from others.
@@ -82,7 +82,7 @@ Poor boundaries damage our self-worth and distort our view of others:
 
 Two or more people with bad boundaries make strange relationships:
 
-- Members shun or shame [creativity](/creativity/).
+- Members shun or shame [creativity](mind-creativity-how.md).
 - We become overdependent and over-involved in others' needs and interests, which becomes abuse when pushed far enough.
 - People feel violated, used, overwhelmed, strangled, smothered, or imprisoned.
 - Activities are *only* with others, without any solo tasks.
@@ -90,7 +90,7 @@ Two or more people with bad boundaries make strange relationships:
 
 ## Healthy relationships require mutually healthy attitudes
 
-You don't really need to be "nice" if it's not your [personality](https://gainedin.site/personality/), but being respectful is absolutely critical for coexistence with others.
+You don't really need to be "nice" if it's not your [personality](personality.md), but being respectful is absolutely critical for coexistence with others.
 
 Healthy boundaries are reasonable and adapt as the situation changes.
 
@@ -108,7 +108,7 @@ Everyone is solely responsible for themselves:
 Everyone is responsible for correctly handling their failures:
 
 1. Confess their inability, failings, and wrongdoing.
-2. Submit their failures to [God](https://gainedin.site/religion/) and others.
+2. Submit their failures to [God](religion.md) and others.
 3. Turn from their bad behaviors.
 4. Ask others for help when they need it.
 5. Make amends to others whenever possible.
@@ -150,7 +150,7 @@ B. Understand what caused the boundary violations:
 
 C. Replace the unhealthy thoughts with better ones:
 
-- Find more reasonable thoughts, affirmations, and beliefs that encourage [habits](/habits/) that respect yourself and others more.
+- Find more reasonable thoughts, affirmations, and beliefs that encourage [habits](habits.md) that respect yourself and others more.
 
 We cycle roughly through stages as we learn good boundaries:
 
@@ -186,7 +186,7 @@ Giving empathy isn't difficult to understand, but is uncomfortably open:
 
 - We must use feelings to interpret what other people are thinking instead of merely our expectations, which becomes more difficult the more that we know.
 - Sharing feelings requires vulnerability.
-- We frequently become accustomed to distrust if we weren't raised in it, and [it's difficult to break from it](/habits/).
+- We frequently become accustomed to distrust if we weren't raised in it, and [it's difficult to break from it](habits.md).
 - Empathy usually requires patience to hold your thoughts and slow your speaking until you know the exact words to express meaningful and relevant feelings.
 
 ## Tact honors many, many small rules
@@ -210,7 +210,7 @@ Give many affordances for others:
 
 Research what you don't know:
 
-- There are [many, *many* social rules](/social-rules/) to watch for, and you won't know all of them without lots of experience.
+- There are [many, *many* social rules](people-rules.md) to watch for, and you won't know all of them without lots of experience.
 - Search the internet for advice.
 - Ask friends familiar with the culture.
 - Be careful, though, since asking strangers about appropriate behavior is sometimes taboo as well.
@@ -220,23 +220,23 @@ Research what you don't know:
 The 3 types of intelligence are IQ, RQ, and EQ:
 
 - IQ is the Intelligence Quotient, which is raw thinking speed.
-- RQ is Reality Quotient, which is the ability to link what we [understand](understanding.md) to [reality](https://gainedin.site/reality/).
+- RQ is Reality Quotient, which is the ability to link what we [understand](understanding.md) to [reality](reality.md).
 - EQ is Emotional Quotient, which balances the rational and emotional sides of the mind.
 
-EQ is, by far, the strongest determination of [success](/success-1/):
+EQ is, by far, the strongest determination of [success](success-1_why.md):
 
 - EQ helps us understand body language, read others, and visualize how others feel.
-- EQ starts with [awareness](/awareness/) of feelings but uses the best way to respond to them with empathy, self-confidence, self-control, and social skills.
+- EQ starts with [awareness](awareness.md) of feelings but uses the best way to respond to them with empathy, self-confidence, self-control, and social skills.
 - EQ won't make awkward situations easy but will make them simple.
 - The beauty of EQ is that it's *much* easier to build than IQ.
 - One side effect of EQ is that people know how to self-discipline and self-regulate as well.
 
 Unlike IQ, people can train EQ through learning certain awareness skills:
 
-- Maintain constant [awareness](/awareness/) of feelings in themselves and others.
+- Maintain constant [awareness](awareness.md) of feelings in themselves and others.
 - Understand what they'll likely feel tomorrow.
 - Understand how they and others would feel from imagined events.
-- Grasp the numerous [words](https://gainedin.site/language/) that describe typical [feelings](mind-feelings.md).
+- Grasp the numerous [words](language.md) that describe typical [feelings](mind-feelings.md).
 - Observes others' feelings and openly asks [if they're okay](https://www.ruok.org.au/).
 - Understands personal limits on endurance, patience, and time management.
 - Assumes the best possible interpretation of others' statements.
@@ -244,7 +244,7 @@ Unlike IQ, people can train EQ through learning certain awareness skills:
 Low-EQ people are often oblivious to how they come across:
 
 - While facts and information don't interest people, feelings, and passions do.
-- Low EQ causes consistent [conflicts](/conflicts/) with others:
+- Low EQ causes consistent [conflicts](people-5_conflicts.md) with others:
   - Inappropriate reactions to feelings in oneself and others.
   - Seeking blame instead of understanding events.
   - Consistent impatience and frustration with others and their behaviors.
@@ -253,14 +253,14 @@ Low-EQ people are often oblivious to how they come across:
   - "X Group is..." instead of "That person made me feel..."
   - "Why do people...?" instead of "My friend did..."
   - "I think most people want..." instead of "I want..."
-- A low EQ also causes unintended bigotry through prejudiced misstatements that encode in [memory](/memory/).
+- A low EQ also causes unintended bigotry through prejudiced misstatements that encode in [memory](mind-memory.md).
 
 People with high EQ manage life better:
 
 - They appropriately express their feelings in face, voice, and body language, as well as reading others' feelings well.
-- They can exercise self-control, delay gratification, have more patience with uncertainty, and tolerate [conflict](/conflicts/) well.
+- They can exercise self-control, delay gratification, have more patience with uncertainty, and tolerate [conflict](people-5_conflicts.md) well.
 - Focused inward, they can stop an unhealthy train of thought.
-- They have an easier time [making realistic goals](/success-3/) and focusing.
+- They have an easier time [making realistic goals](success-3_goals.md) and focusing.
 - When observing, they understand why the feelings arise in themselves and others.
 
 Most influential people, both evil and good, have *very* high EQ:
@@ -274,15 +274,15 @@ Most influential people, both evil and good, have *very* high EQ:
 
 EQ isn't personality/disposition or "being nice":
 
-- EQ measures what you're capable of doing with others, while [personality](https://gainedin.site/personality/) is what you'd *prefer* to do.
+- EQ measures what you're capable of doing with others, while [personality](personality.md) is what you'd *prefer* to do.
 - EQ isn't kindness and is more about understanding the *time and place* for kindness.
-- People with EQ always respect others and recognize their feelings, even when they don't agree with them or identify what they see as [reality](https://gainedin.site/reality).
+- People with EQ always respect others and recognize their feelings, even when they don't agree with them or identify what they see as [reality](reality.md).
 
 EQ only comes through authenticity and awareness:
 
 People often have the intuition, even if they don't have the understanding, to detect others' authenticity.
 
-- Authentic [communication](/speaking/) completely aligns both verbal and nonverbal expressions.
+- Authentic [communication](language-speaking.md) completely aligns both verbal and nonverbal expressions.
 - Learn to identify and communicate the ideas that are *your* voice more than anyone else's.
 - Your authentic self-talk will come through various places:
   - Your fears and what drives them
@@ -290,7 +290,7 @@ People often have the intuition, even if they don't have the understanding, to d
   - Comfort in decisions that don't require "permission" from others
 - Authentic expression is giving lots of grace and respect to both yourself *and* others.
 - Express legitimate excitement when you approach them.
-- Pay close attention to others' moods as [topics flow](/speaking/) in a conversation.
+- Pay close attention to others' moods as [topics flow](language-speaking.md) in a conversation.
 
 High-EQ people can master social interactions:
 
@@ -298,7 +298,7 @@ High-EQ people can master social interactions:
 - They can spot the most influential person in a room within seconds of walking into it.
 - Someone can slowly navigate across a room toward the person they want to meet while tactfully dismissing everyone else where they feel valued.
 - Their inner emotional strength will make them so confident that they inspire confidence in others, but they're also willing to change from others' actions.
-- They'll sidestep avoidable arguments but won't be afraid of [conflicts](/conflicts/), especially pertaining to [philosophy](https://gainedin.site/philosophy/), [religion](https://gainedin.site/religion/), or [politics](https://gainedin.site/groups-large/).
+- They'll sidestep avoidable arguments but won't be afraid of [conflicts](people-5_conflicts.md), especially pertaining to [philosophy](philosophy.md), [religion](religion.md), or [politics](groups-large.md).
 
 ## People with high EQ are naturally charming
 
@@ -312,13 +312,13 @@ At their core, *everyone* wants to be important:
 - They *always* give credit to others for their accomplishments and ignore their own, often praising that person to their authority figures (e.g., parents, bosses).
 - When in meetings, they honor the speaker even when the meeting is a waste of time.
 
-While there are many relative aspects to charm from [culture](https://gainedin.site/culture/), there are a few universals:
+While there are many relative aspects to charm from [culture](culture.md), there are a few universals:
 
 - People are interested in hearing what they're saying.
 - People want to see more of that person's life.
 - Even when they disagree, they find that person entertaining or interesting.
-- They're frequently excellent communicators in [writing](/writing/) or [speech](/speaking/) who exude at least some [optimism](/happiness-1/).
-- They're almost always confident from past [successes](/success-1/) they've [identified](https://gainedin.site/identity/) with.
+- They're frequently excellent communicators in [writing](language-writing.md) or [speech](language-speaking.md) who exude at least some [optimism](happiness.md).
+- They're almost always confident from past [successes](success-1_why.md) they've [identified](identity.md) with.
 
 Charming people are often more trusting than most:
 
@@ -337,6 +337,6 @@ By honoring others' feelings and thoughts, you win influence with them.
 
 Tactfulness comes through high EQ, which you can develop through learning and habits.
 
-If you know how to be tactful, you can start [building relationships with others](/people-4/).
+If you know how to be tactful, you can start [building relationships with others](people-4_friends.md).
 
-*This page is Part 3 of People Skills. Part 1 was [Why People Skills Matter](/people-1/), and Part 2 was [Making Yourself Presentable](/people-2/).*
+*This page is Part 3 of People Skills. Part 1 was [Why People Skills Matter](people-1_why.md), and Part 2 was [Making Yourself Presentable](people-2_image.md).*

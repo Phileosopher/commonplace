@@ -7,7 +7,7 @@ By combining the aperture concept with something that darkens when exposed to su
 
 Instant-exposure film was invented in the 20th century, meaning you only had to open the aperture for a split-second and could capture motion. The 20th century saw cameras become more portable (and eventually fit the film on a reel) and cameras could be made so cheaply that they could be *disposable*!
 
-Digital cameras were first used by Russell Kirch in 1957 to take a 176-pixel photo of a baby, and operate on a different concept. Though the aperture opens up the same as a film camera, the technology where the light hits is effectively the reverse of a [computer screen](/screen/).
+Digital cameras were first used by Russell Kirch in 1957 to take a 176-pixel photo of a baby, and operate on a different concept. Though the aperture opens up the same as a film camera, the technology where the light hits is effectively the reverse of a [computer screen](computers-screen.md).
 
 There are different patterns to capture the light. One of the simplest is a Bayer filter, which has 2×2 squares of a red, blue, and two greens. There are two greens in this setup because the [luminous efficiency function](https://en.wikipedia.org/wiki/Luminous_efficiency_function) means green most heavily correlates with perceived brightness.
 
@@ -25,11 +25,11 @@ Exposure determines how much the camera lets light in, which is determined by 3 
 
 1. Shutter speed, which is the amount of time light can hit the sensor, measured in seconds. This can range from 1/1000 s to 1 s.
 2. Aperture, which is the size of a circular hole that lets light in, measured in f-stops (which is the ratio of the lens focal length divided by the lens diameter). This ranges from f/16 all the way to f/2. Wider apertures make the images feel softer, while narrower apertures sharpen the image at the risk of being darker.
-3. In digital cameras, cameras use an [ISO standard](/protocols/) that represents a light sensor sensitivity scale that ranges from 100 to 25,600. There's a base ISO that conforms to the specification the camera came with, but it can be configured upward to gather more light, at the risk of generating noise in the image.
+3. In digital cameras, cameras use an [ISO standard](standards-computers.md) that represents a light sensor sensitivity scale that ranges from 100 to 25,600. There's a base ISO that conforms to the specification the camera came with, but it can be configured upward to gather more light, at the risk of generating noise in the image.
 
 - Doubling any of them adds a "stop" of light (e.g., 1/500 s to 1/250 s is a stop, and 1/250 s to 1/125 s is another stop).
 
-Manual focus lenses require tuning by the photographer, but autofocus adapts the focus to the objects in the frame. The [algorithms](/algorithms/) in most modern cameras are good enough that autofocus is almost always better for anything but still photography.
+Manual focus lenses require tuning by the photographer, but autofocus adapts the focus to the objects in the frame. The [algorithms](programming-algorithms.md) in most modern cameras are good enough that autofocus is almost always better for anything but still photography.
 
 ## Artifacts
 
@@ -47,23 +47,23 @@ An object will create "motion blur" if something is moving particularly fast or 
 
 ## Post-processing
 
-Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](/graphics/) (especially for [games](/game-dev/)) try to *recreate* those artifacts!
+Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](graphics.md) (especially for [games](computers-software-gamedev.md)) try to *recreate* those artifacts!
 
 In fact, post-processing has been how smartphones utterly *destroyed* the dedicated camera market. It's logistically impossible for a millimeter-deep lens distance to compete with several inches of space, and smartphone cameras have had to compensate by making weird-looking non-spherical lenses to refract the light. But, post-processing can effectively remove many of the issues which may potentially present in non-spherical lens photos.
 
 "White balance", or color temperature, determines how much the color leans blue or red.
 
-While most post-processing features can be helpful, digital zoom is nothing more than a dynamic cropping feature, which would be better performed on a desktop computer later. However, it allows for more zoom in the [marketing](https://notageni.us/marketing/).
+While most post-processing features can be helpful, digital zoom is nothing more than a dynamic cropping feature, which would be better performed on a desktop computer later. However, it allows for more zoom in the [marketing](marketing.md).
 
 ## Imperfect
 
 While post-processing can be very useful, it can become ineffective as well. If the operating system does *too* much to raw photos, the result will look inauthentic or strange, especially with human photos.
 
-Post-processing isn't exempt from [politics](https://gainedin.site/power-types/), either. Film industry experts, for example, have made deals with [television](/screen/) companies to dampen high-resolution pixelation for skin tones.
+Post-processing isn't exempt from [politics](power-types.md), either. Film industry experts, for example, have made deals with [television](computers-screen.md) companies to dampen high-resolution pixelation for skin tones.
 
 Further, perspective in our eyes works differently than perspective in a photograph. Photos capture the raw information evenly across a panel, while we capture *more* information at the center of our eye's focus than on the edge. This makes the center of something look somewhat larger by comparison to everything else, and photos are incapable of capturing that distinction.
 
-Among the [market](https://gainedin.site/economics/), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](/screen/). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
+Among the [market](economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](computers-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
 
 * * * * *
 

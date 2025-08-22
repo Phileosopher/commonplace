@@ -3,17 +3,17 @@ Radio waves are on the same frequency as microwaves, infrared, visible light, UV
 
 ![](/wp-content/uploads/2023/07/electromagnetic-spectrum-1024x614.jpg)
 
-As a wave, light moves back-and-forth. If it only moved 1 time back-and-forth in a second, it'd be 1 hertz (Hz), named after [the second scientist](https://gainedin.site/laws-axioms/) to discover electromagnetic waves, Heinrich Hertz. 1,000 times a second is 1 kilohertz (kHz), 1,000,000 times a second is 1 megahertz (MHz), and 1,000,000,000 times a second is 1 gigahertz (GHz).
+As a wave, light moves back-and-forth. If it only moved 1 time back-and-forth in a second, it'd be 1 hertz (Hz), named after [the second scientist](lawsaxioms.md) to discover electromagnetic waves, Heinrich Hertz. 1,000 times a second is 1 kilohertz (kHz), 1,000,000 times a second is 1 megahertz (MHz), and 1,000,000,000 times a second is 1 gigahertz (GHz).
 
-As the frequency increases, the wavelength decreases. The relationship between them is directly correlated, demonstrated by the physics calculation of (wavelength x frequency = speed of light). For the sake of [engineering](https://notageni.us/engineering/), frequency is used the most.
+As the frequency increases, the wavelength decreases. The relationship between them is directly correlated, demonstrated by the physics calculation of (wavelength x frequency = speed of light). For the sake of [engineering](engineering.md), frequency is used the most.
 
-The Doppler effect is the relative shift in frequencies due to speed differences. It also applies to other waves (e.g., [sound](/speakers-mic/)), and shows when sending and receiving radio signals operate at different speeds. This is essentially how radar speed guns work, where it reads the relative variance between its transmitted and received frequencies.
+The Doppler effect is the relative shift in frequencies due to speed differences. It also applies to other waves (e.g., [sound](computers-speakersmic.md)), and shows when sending and receiving radio signals operate at different speeds. This is essentially how radar speed guns work, where it reads the relative variance between its transmitted and received frequencies.
 
-One of the most frequently used implementations of radio is for detecting and determining distance from somewhere else, also known as "radar". Most [geolocation](/gps/) uses multiple radio towers with variations of radar protocols to more precisely determine a device's location than simple satellite coordination.
+One of the most frequently used implementations of radio is for detecting and determining distance from somewhere else, also known as "radar". Most [geolocation](logistics-navigation.md) uses multiple radio towers with variations of radar protocols to more precisely determine a device's location than simple satellite coordination.
 
 There are many, many frequency allocations in the United States. The US' FCC guidelines separate the signals and make specific signal strength limits, which permits signals to not disrupt each other across different uses:
 
-- 9-535 kHz: exclusively mobile communications, [radiolocation](/gps/), and radionavigation for aircraft/ships
+- 9-535 kHz: exclusively mobile communications, [radiolocation](logistics-navigation.md), and radionavigation for aircraft/ships
 - 535-1705 kHz: AM radio (if those numbers didn't seem familiar)
 - 1705-5005 kHz: general radiolocation, aircraft/ship mobile, and amateur radio
 - Standard frequency/time signal at 5 MHz (4.995-5.005)
@@ -30,7 +30,7 @@ There are many, many frequency allocations in the United States. The US' FCC gui
 - 54-88 MHz: TV broadcasting, with a small aircraft navigation and radio astronomy band in between
 - 88.0-108.0 MHz: FM radio (if *those* numbers didn't seem familiar)
 - 108-137 MHz: aircraft radionavigation/mobile
-- 137-138 MHz: space-to-earth [satellite](/gps/) communication
+- 137-138 MHz: space-to-earth [satellite](logistics-navigation.md) communication
 - 138-174 MHz: mix of satellite radionavigation/mobile, amateur radio/satellite, and ship/land mobile
 - 174-216 MHz: TV broadcasting
 - 216-400.05 MHz: mix of land/satellite mobile and aircraft/satellite radionavigation
@@ -38,7 +38,7 @@ There are many, many frequency allocations in the United States. The US' FCC gui
 - 400.15-420 MHz: space-to-earth and earth-to-space satellite communications, radio astronomy, and radiosondes (radio communications from weather balloons)
 - 420-450 MHz: amateur radio and radiolocation
 - 450-960 MHz: land mobile and TV broadcasting with a few bands for radio astronomy, aircraft mobile, and radiolocation
-- 960MHz - 300 GHz: a vast range of radionavigation, various [satellite bands](/gps/), wireless networks, radio astronomy, space research/operations, amateur radio, and radiolocation
+- 960MHz - 300 GHz: a vast range of radionavigation, various [satellite bands](logistics-navigation.md), wireless networks, radio astronomy, space research/operations, amateur radio, and radiolocation
 - Up near the top end of the spectrum, more frequencies are allocated to radio astronomy.
 - And, sandwiched throughout *everything* are many, many mobile cell phone allocations, with a few reservations for government-only communication.
 
@@ -46,11 +46,11 @@ On this spectrum, Bluetooth signals sit at 2.4 GHz and Wi-Fi at 2.4 and 5 GHz, b
 
 Ham radio operators are the only people allowed to use devices that go across *multiple* radio frequency spectra, but they need a few tiers of certification before they can operate them.
 
-Shortwave broadcasts will *always* be useful because they're often the only way to communicate in [an emergency](https://adequate.life/disasters-1/).
+Shortwave broadcasts will *always* be useful because they're often the only way to communicate in [an emergency](hardship-disaster-1_short.md).
 
 ## Wireless information
 
-One of the newest forms of wireless transmission is through the IEEE's 802.11 [standard](/protocols/).
+One of the newest forms of wireless transmission is through the IEEE's 802.11 [standard](standards-computers.md).
 
 At first, the transmitter/receiver configuration ("transceiver") were "single-input single-output" (SISO) with a one-at-a-time approach, but slowly became "single-user multiple-input multiple-output" (SU-MIMO) and finally became "multiple-user multiple-input multiple-output" (MU-MIMO).
 
@@ -91,14 +91,14 @@ At the same time, streaming devices needed separate standards:
 - 802.11ay is a high-data, long-distance standard for a wide variety of uses.
   - 8×8 MU-MIMO, 8.64 MHz channel bandwidth, >45 GHz bands
 
-[IoT](/networks/) had to have a separate sub-GHz spectrum for their low-data long-range needs:
+[IoT](networks-computer.md) had to have a separate sub-GHz spectrum for their low-data long-range needs:
 
 - 802.11af was for Television Very High Throughput (TVHT)
   - 4×4 DL-MU-MIMO, 6/7/8 MHz channel bandwidths, <1 GHz band
 - 802.11ah is a licensing-exempt standard (meaning anyone can use it without notifying a governing authority).
   - 4×4 DL-MU-MIMO, 1/2/4/8/16 MHz channel bandwidths, <1 GHz band
 
-Furthermore, [autonomous vehicles](/cars/) have *their* standards as well to accommodate continuous bandwidth:
+Furthermore, [autonomous vehicles](computers-autos.md) have *their* standards as well to accommodate continuous bandwidth:
 
 - 802.11p was Wi-Fi-based car-to-car communication to allow intelligent traffic services.
   - 1-to-1 SISO, 10 MHz channel bandwidth, 5.9 GHz band

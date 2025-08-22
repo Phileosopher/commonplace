@@ -7,7 +7,7 @@ Once a group grows larger than about 20-50 people, it becomes a [large group](gr
 
 ## Value
 
-A group is a human value. Beyond our [interpretations](values.md), groups don't technically exist. We define "groups" to easily [demarcate](logic.md) between things to make reasonable [decisions](decisions.md), but they're the expressed [value](values.md) of one person with people who [agree](contracts.md) with that value.
+A group is a human value. Beyond our [interpretations](values.md), groups don't technically exist. We define "groups" to easily [demarcate](logic.md) between things to make reasonable [decisions](decisions.md), but they're the expressed [value](values.md) of one person with people who [agree](people-contracts.md) with that value.
 
 Frequently, people [creating](creations.md) or [believing](understanding-certainty.md) something will band together over the same [purpose](purpose.md).
 
@@ -53,9 +53,9 @@ In most groups, the various [forms of power](power-types.md) grant different typ
 
 Some leaders will have a "celebrity" [persona](stories-myths.md), while others will be highly competent. In a [severe crisis](people-conflicts-war.md), the competent leaders determine the core capacity of the group, but the celebrities determine its [morale](meaning.md) and [public image](image.md).
 
-When a leader doesn't do much, they're merely a [symbol](symbols.md). Symbolic leadership is frequently common when groups value [individual freedom](boundaries.md), are [incompetent](mgmt-badsystems.md), or are [too large](groups-large.md) for the leader to make individual [decisions](decisions.md).
+When a leader doesn't do much, they're merely a [symbol](symbols.md). Symbolic leadership is frequently common when groups value [individual freedom](people-boundaries.md), are [incompetent](mgmt-badsystems.md), or are [too large](groups-large.md) for the leader to make individual [decisions](decisions.md).
 
-If any leaders develop differing [purposes](purpose.md), they'll usually have a [conflict](boundaries.md) among each other. In that situation, if there isn't enough [love](people-love.md) for each other, the group itself will likely split with at least two camps led by those two leaders as a representation of differing [opinions](values.md).
+If any leaders develop differing [purposes](purpose.md), they'll usually have a [conflict](people-conflicts.md) among each other. In that situation, if there isn't enough [love](people-love.md) for each other, the group itself will likely split with at least two camps led by those two leaders as a representation of differing [opinions](values.md).
 
 ## Delegating power
 
@@ -63,9 +63,9 @@ Leaders dictate values by distributing [power](power.md). They can either let pe
 
 Good leaders will push members toward other members' [purposes](purpose.md), at least the ones that align with the group's best interests. Many times, members will have [fears](mind-feelings-fear.md) and [uncertainties](understanding-certainty.md) that prevent them from acting on things they ought to do, and excellent leaders remove that uncertainty by reinforcing the members' [understanding](understanding.md) of an "outside" influence.
 
-Bad leaders create [conflicts](boundaries.md). Conflicts are inevitably one-on-one, and a leader's decisions will typically favor some people. But, favor to one side will naturally discredit the opposing side. There are many variables to consider, so the only way a leader can know which person to promote comes strictly from [experience](maturity.md) combined with [wisdom](understanding.md).
+Bad leaders create [conflicts](people-conflicts.md). Conflicts are inevitably one-on-one, and a leader's decisions will typically favor some people. But, favor to one side will naturally discredit the opposing side. There are many variables to consider, so the only way a leader can know which person to promote comes strictly from [experience](maturity.md) combined with [wisdom](understanding.md).
 
-Good leaders *also* create [conflicts](boundaries.md). Usually, they're antagonizing existing conflicts members may have wanted to avoid, and they do it because they [understand](understanding.md) that avoiding conflicts erodes members' [trust](trust.md) in one another. But, they [can successfully navigate to a "third option"](people-conflicts.md) by recalling other personal conflicts in the past.
+Good leaders *also* create [conflicts](people-conflicts.md). Usually, they're antagonizing existing conflicts members may have wanted to avoid, and they do it because they [understand](understanding.md) that avoiding conflicts erodes members' [trust](trust.md) in one another. But, they [can successfully navigate to a "third option"](people-5_conflicts.md) by recalling other personal conflicts in the past.
 
 ## Results
 

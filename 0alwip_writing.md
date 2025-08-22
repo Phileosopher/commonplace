@@ -29,12 +29,12 @@ Writing has more weight than speaking:
 
 - Writers can research and take their time, so everyone expects more intelligent writing than speaking.
 - Text doesn't have articulation or cadence, so implications are more pronounced.
-- Speech uses more [perception](/awareness/) and [feeling](mind-feelings.md) through the ears and mouth, text uses [imagination](https://gainedin.site/imagination/) and [logic](https://gainedin.site/logic/) through the eyes and hands.
+- Speech uses more [perception](awareness.md) and [feeling](mind-feelings.md) through the ears and mouth, text uses [imagination](imagination.md) and [logic](logic.md) through the eyes and hands.
 - By writing what you understand, it forces you to more clearly indicate information than simply speaking it.
 
 One of the key benefits of writing is that readers can both reread to understand ideas better or skip text entirely:
 
-- [Listeners](/speaking/), on the other hand, must chronologically focus on body language and hearing, and can't easily skip content.
+- [Listeners](language-speaking.md), on the other hand, must chronologically focus on body language and hearing, and can't easily skip content.
 
 Compared to speaking, writing converts and transmits more easily across a medium and across languages.
 
@@ -56,7 +56,7 @@ People read at about 200 words per minute but only talk at about 110-150, so wri
 Writing requires understanding the basics of language (vocabulary, grammar, elements of style), then learning ways to express your [feelings](mind-feelings.md) and [observations](understanding.md):
 
 - Read great writing to learn what to do, then suffer through bad writing to learn what to *not* do.
-- To build great writing skills, [write frequently](/success-5/) and [develop a creative mindset](/creativity/).
+- To build great writing skills, [write frequently](success-5_persevering.md) and [develop a creative mindset](mind-creativity-how.md).
 
 Writing captures feelings simply, so your word choice shows your passion for the subject:
 
@@ -65,11 +65,11 @@ Writing captures feelings simply, so your word choice shows your passion for the
   - If you're out of ideas, find a topic that makes you furious.
 - Once you've learned to write clearly, your speaking and writing style will harmonize, which will make your thoughts come more clearly as well.
 
-Writing is communicating information to someone where they forget they're [imagining](https://gainedin.site/imagination/) something simply from a collection of words.
+Writing is communicating information to someone where they forget they're [imagining](imagination.md) something simply from a collection of words.
 
 When writing, you gain a more thorough [understanding](understanding.md) of what you're trying to communicate.
 
-Your best writing is the best version of *your* [creative](/creativity/) style, not how well you imitate another writer.
+Your best writing is the best version of *your* [creative](mind-creativity-how.md) style, not how well you imitate another writer.
 
 Sometimes, though, you might have to write about something that doesn't interest you:
 
@@ -94,8 +94,8 @@ Edit to simplify, not add:
 - Good writing is removing useless information much more than adding.
   - We add more information because we fear being misunderstood, which ironically makes our writing unclear.
   - The reader should always feel like you know more content than what you're writing.
-- Your clarity will convince, *not* your [logic](https://gainedin.site/logic/).
-  - Your clear expression demonstrates [truth](https://gainedin.site/reality/), and people can see the truth for themselves without persuasion.
+- Your clarity will convince, *not* your [logic](logic.md).
+  - Your clear expression demonstrates [truth](reality.md), and people can see the truth for themselves without persuasion.
 - Cross out *every* sentence you don't need, and merge sentences together whenever possible.
   - Good sentences often hide inside bad ones, so trust your instincts and rewrite as needed.
 
@@ -123,7 +123,7 @@ If you're writing publicly, focus on facts more than experiences or feelings.
 
 Show the audience; don't tell or give an editorial.
 
-Change the length of your sentences to stay interesting, even if you're writing [technical documentation](https://trendless.tech/documentation/).
+Change the length of your sentences to stay interesting, even if you're writing [technical documentation](language-writing-documentation.md).
 
 Avoid fanciful or empty statements:
 
@@ -138,7 +138,7 @@ Frequently shift focus by varying sentence structure, type, style, and jumping a
 Don't clutter your tone:
 
 - You're trying to float the reader through the ideas you're presenting, *not* fully inform or convince them.
-  - [Influencing](https://gainedin.site/influence/) them requires that they conclude it themselves, so you'll either appear desperate or wordy.
+  - [Influencing](power-influence.md) them requires that they conclude it themselves, so you'll either appear desperate or wordy.
 - Adjectives (e.g., "gentle") and adverbs (e.g., "gently") often add useless detail, so drop them whenever you feel your writing is bogged-down.
 - Match your pronouns across the body of the entire work.
 - Use figures of speech that match the style you're aiming for.
@@ -210,15 +210,15 @@ Use parallel syntax in each sentence to express patterns:
 
 Use concrete imagery more than abstract:
 
-- Generally, vague speaking (such as with [philosophy](https://gainedin.site/philosophy/)) will tire out the reader because they must hunt to connect that idea to something practical.
-  - Even intelligent readers who enjoy philosophy are simply using it as a prompt for their [imagination](https://gainedin.site/imagination/).
+- Generally, vague speaking (such as with [philosophy](philosophy.md)) will tire out the reader because they must hunt to connect that idea to something practical.
+  - Even intelligent readers who enjoy philosophy are simply using it as a prompt for their [imagination](imagination.md).
 - By speaking in plain terms and with clear connections, you do most of the work for the reader and motivate them to keep reading through to the end.
 - If you're not sure if you're being clear enough, liberally use metaphor and simile to bring make ideas tangible.
 
 Great writers think in paragraphs, not sentences:
 
 - Focus on clearly communicating ideas more than sentence size, paragraph length, or page count.
-  - Size doesn't matter: one-sentence ideas have brought down entire [institutions](https://gainedin.site/bad-systems/).
+  - Size doesn't matter: one-sentence ideas have brought down entire [institutions](mgmt-badsystems.md).
 - From paragraph to paragraph, your tone is *far* more important than size.
   - Some sentences don't need many words, while others are highly elaborate.
   - A paragraph is simply a pause for the reader to understand the idea before continuing, and may only need one sentence.
@@ -241,25 +241,25 @@ Write about things other people *want* to read:
 - If people aren't interested in what you're writing about, they'll get bored.
   - You may think your writing carries authority, but the reader has more authority because they can stop reading whenever they want.
   - Ask who you are to the audience, not who the audience is.
-- *Anything* can be interesting with a sufficiently motivated and talented writer, so your ability to [influence](https://gainedin.site/influence) and [entertain](https://gainedin.site/humor/) is critical.
+- *Anything* can be interesting with a sufficiently motivated and talented writer, so your ability to [influence](power-influence.md) and [entertain](humor.md) is critical.
 - If you don't understand your audience, you'll add too much detail and useless information.
 
 Writing should both entertain and [educate](understanding.md):
 
 - The reader must learn something, or they will feel the story was a waste of time.
 - The reader must be amused or will find the information boring.
-- In [modern society](https://notageni.us/information), the quantity of your information isn't as valuable as *how* you convey it.
+- In [modern society](information.md), the quantity of your information isn't as valuable as *how* you convey it.
 
 Write to please yourself, firstly:
 
-- You'll never be [happy](/happiness-1/) with the results if you're not writing to your standards.
+- You'll never be [happy](happiness.md) with the results if you're not writing to your standards.
   - Somehow, readers can tell when you're writing and not enjoying it.
-- You [know yourself](/awareness/) more than anyone else, and there are thousands of people who have your taste in writing style.
-- You may be anxious and uneasy, but your desire to [create](/creativity/) the best possible form of an idea will chip away useless information.
+- You [know yourself](awareness.md) more than anyone else, and there are thousands of people who have your taste in writing style.
+- You may be anxious and uneasy, but your desire to [create](mind-creativity-how.md) the best possible form of an idea will chip away useless information.
 
 Write for one person you know personally:
 
-- If you aim for everyone, nobody will like it, but you can often add [humor](https://gainedin.site/humor/) into your style when it's someone you know.
+- If you aim for everyone, nobody will like it, but you can often add [humor](humor.md) into your style when it's someone you know.
 - That person, when reading your text, should feel like you're treating them as an equal.
 
 Pay close attention to the reader's perception throughout the work:
@@ -281,7 +281,7 @@ Pay close attention to the reader's perception throughout the work:
 
 The entire work paints a portrait of ideas:
 
-- Everything you're writing is [solving a problem](https://gainedin.site/purpose/).
+- Everything you're writing is [solving a problem](purpose.md).
 - The first sentence, paragraph, word, and title will define the reader's expectations throughout the work.
 - Each sentence is adding information to the message, and the end will leave the reader with a lingering concept.
 - Without a message, a writer is just trying to draw attention to themselves.
@@ -293,7 +293,7 @@ All great messages contain a WHAT and a WHY:
   - Event details, date, time, location
   - Educational information, data, facts
 - WHY communicates the benefits from knowing the information or the cause for the WHAT.
-  - It gives the [reason](https://gainedin.site/purpose/) you're writing at all.
+  - It gives the [reason](purpose.md) you're writing at all.
   - It answers the "call to action" the reader must take.
 - The rest spins off from these two:
   - WHO is the character (or reader) that does WHAT.
@@ -310,7 +310,7 @@ Get to the point or start as close to the end as possible:
 All writing is either explaining or exploring:
 
 - Explanations are transmitting information and ideas: making things [clearly known](understanding.md).
-- Explorations are developing hard-to-grasp concepts: making [the unknown](https://gainedin.site/unknown/) partially known.
+- Explorations are developing hard-to-grasp concepts: making [the unknown](unknown.md) partially known.
 
 Focus on the positive form of the idea:
 
@@ -350,20 +350,20 @@ Don't neglect the title:
 
 ## Writing is always a story
 
-Even when it's nonfiction or an email, all written works travel through a [story](https://gainedin.site/stories/) arc with a beginning, middle, and end:
+Even when it's nonfiction or an email, all written works travel through a [story](stories.md) arc with a beginning, middle, and end:
 
 - The first sentence will imply one overarching mystery, which is what the story will answer.
 - To be interesting from the first sentence, the reader needs at least a few of the following:
   - Freshness
   - Novelty
   - A paradox
-  - [Humor](https://gainedin.site/humor/)
+  - [Humor](humor.md)
   - Surprise
   - An unusual idea
   - An interesting fact
   - A question
 - All the future sentences and paragraphs are expanding on that first sentence, wrapping up with the final sentence.
-- The events of the story are based on how the character (or reader) experiences a [conflict](/conflicts/), then [changes](https://gainedin.site/changes/) by making [meaningful](https://gainedin.site/meaning/) [decisions](https://gainedin.site/decisions/).
+- The events of the story are based on how the character (or reader) experiences a [conflict](people-5_conflicts.md), then [changes](changes.md) by making [meaningful](meaning.md) [decisions](decisions.md).
 
 Add clues to imply what will happen before it does (foreshadowing):
 
@@ -381,7 +381,7 @@ You're writing about 1 thing and its related concepts, so don't use an outline:
 - Organizing a long article is daunting, and an outline might be a procrastination tool.
   - Use an outline to organize your idea, but the idea itself should be clear enough in your mind that you can start writing and edit the draft later.
   - Structuring an outline implies it's the *only* way to structure it, so throw the outline out once you've written your first draft.
-- Further, [modern word processors](https://gainedin.site/technology/) mean you can rearrange the content all you want, so it's easier to dive in than ever before in history.
+- Further, [modern word processors](technology.md) mean you can rearrange the content all you want, so it's easier to dive in than ever before in history.
 
 Plain speech is always valuable, but even more when you're speaking about abstract concepts:
 
@@ -395,20 +395,20 @@ Always write in the first-person or second-person:
 - People need something concrete to attach their experiences to.
 - e.g., "One must write elegantly" is harder to process than "You must write elegantly" or "I must write elegantly".
 
-If they're from reputable sources, a few well-placed [statistics](https://notageni.us/stat/) can establish credibility.
+If they're from reputable sources, a few well-placed [statistics](math-stat.md) can establish credibility.
 
-Be *very* precise about quotes, since you could be [sued for defamation](https://notageni.us/legally-safe/).
+Be *very* precise about quotes, since you could be [sued for defamation](legal-safety.md).
 
 If you're writing a story about yourself, treat it as a work of fiction with severe constraints:
 
-- Your perception of the past is a set of faded [memories](/memory/), so you won't be able to portray details accurately.
+- Your perception of the past is a set of faded [memories](mind-memory.md), so you won't be able to portray details accurately.
 - Not all documentary writing has the same focus.
   - A memoir is capturing specific experiences, but not necessarily a life's work.
   - A biography is tracking the course of someone's life, and an autobiography is you doing it to yourself.
 - As long as you've captured the spirit of the events, it's not a lie.
 - Even though you experienced something, it's probably less exciting in retelling it.
   - What you're writing should be legitimately interesting.
-  - If you're more concerned with your [legacy](https://gainedin.site/legacy/) than adding value to the reader, don't expect many people to read it.
+  - If you're more concerned with your [legacy](legacy.md) than adding value to the reader, don't expect many people to read it.
 
 If you're trying to draw attention and details than how the story forms, use the journalists' Inverted Pyramid:
 
@@ -437,7 +437,7 @@ To persuade, write practical "what if...?" questions:
 
 Every worthwhile fiction story requires building the character first:
 
-- A good character is [imagining](https://gainedin.site/imagination/) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](https://gainedin.site/decisions/).
+- A good character is [imagining](imagination.md) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](decisions.md).
 - To make the character at all relatable, give at *least* a few important details for the reader to latch onto.
   - Frame the character's experiences and challenges as the *audience* sees them, not you as the author.
 
@@ -494,7 +494,7 @@ Physical description:
 
 Personality:
 
-- What's their overall [personality](https://gainedin.site/personality/)? (e.g., shy, outgoing, insecure, dominant, etc.)?
+- What's their overall [personality](personality.md)? (e.g., shy, outgoing, insecure, dominant, etc.)?
 - Any distinguishing traits?
 - Any mental scars like complexes or neuroses?
 - What are their ambitions?
@@ -582,15 +582,15 @@ Employment:
 
 If you want a complex character, evoke different feelings and responses toward each of their layers of self-identity:
 
-- Each person has layers of self-identity, and a character is relatable when they have multiple [self-deceptions](/hardship-personal/).
-- This aspect alone requires people with significant life experience, but without too much [trauma](https://gainedin.site/ptsd/) haunting them.
-  - You must be tremendously [aware](/awareness/) to understand those layers.
-  - You must expose your character to severe [hardship](/hardship/) to show the world who they really are.
+- Each person has layers of self-identity, and a character is relatable when they have multiple [self-deceptions](hardship-worthlessness.md).
+- This aspect alone requires people with significant life experience, but without too much [trauma](hardship-ptsd.md) haunting them.
+  - You must be tremendously [aware](awareness.md) to understand those layers.
+  - You must expose your character to severe [hardship](hardship.md) to show the world who they really are.
 - Use the story to expose and strip away the false layers, one by one, to bring out the true personality of that character.
 
 ### Fiction: story-building
 
-Understanding [how stories work](https://gainedin.site/stories/) is absolutely vital to building one.
+Understanding [how stories work](stories.md) is absolutely vital to building one.
 
 People always begin reading with at least some expectations:
 
@@ -606,23 +606,23 @@ People always begin reading with at least some expectations:
 - A story will start straying without all the critical information:
   1. The protagonist is clear, but doesn't appear to have a goal.
   2. The protagonist's goal is clear, but it's not clear how it's forcing them to have [inner conflicts](conflicts-inner.md).
-  3. The protagonist's [decisions](https://gainedin.site/decisions/) have no connection to what happens.
+  3. The protagonist's [decisions](decisions.md) have no connection to what happens.
 
 Unless you plan to write something *really* long and drawn-out, don't use a prologue.
 
 Every story revolves around a character's conflict:
 
 - Only a few major types of conflicts arise in good stories:
-  - The protagonist's [belief](https://gainedin.site/values/) vs. [actual truth](https://gainedin.site/reality/)
+  - The protagonist's [belief](values.md) vs. [actual truth](reality.md)
   - The protagonist's desire vs. what the protagonist has
   - The protagonist's desire vs. others' expectations
   - The protagonist vs. themselves
-  - The protagonist's [inner goal](https://gainedin.site/purpose/) vs. the protagonist's [external goal](https://gainedin.site/results/)
-  - The protagonist's [fear](https://gainedin.site/fear/) vs. the protagonist's goal (internal, external, or both)
+  - The protagonist's [inner goal](purpose.md) vs. the protagonist's [external goal](mind-creativity-results.md)
+  - The protagonist's [fear](mind-feelings-fear.md) vs. the protagonist's goal (internal, external, or both)
   - The protagonist vs. the antagonist
-  - The antagonist vs. mercy (or the [appearance](https://gainedin.site/image-distortion-methods/) of it)
+  - The antagonist vs. mercy (or the [appearance](image-distortion.md) of it)
 - The plot should force the protagonist to directly face almost everything they've spent their entire lives avoiding.
-  - This doesn't mean it has to be huge, since we tend to hate small [conflicts](/conflicts/) more than large ones.
+  - This doesn't mean it has to be huge, since we tend to hate small [conflicts](people-5_conflicts.md) more than large ones.
 - Most of the plot should involve the character trying to circle the problem and, as a consequence, worsening it.
 
 Many story elements give the reader promises and expectations:
@@ -638,7 +638,7 @@ When building the story, start where you want the story to end, then work backwa
 - The surprise ending should *not* surprise you as you write it.
 - The only way to make a surprise ending that doesn't irritate the reader is through withholding specific facts earlier in the story.
 
-Use your personal experience, especially about [work you've performed](/jobs-1/).
+Use your personal experience, especially about [work you've performed](jobs-1_why.md).
 
 Start the moment the action is about to start:
 
@@ -707,7 +707,7 @@ G. Expand character descriptions into full character charts:
 
 H. List all the scenes:
 
-- There could be over 100, so use a spreadsheet to keep yourself [organized](/organization/).
+- There could be over 100, so use a spreadsheet to keep yourself [organized](organization.md).
 - For every scene, ask what values, if any, any characters have changed.
   - If nothing has changed, throw out that scene or merge the world-building into another scene.
 - Ask why that scene is there, and if you can't answer, you've been building something that may drag down the story's pace.
@@ -716,7 +716,7 @@ H. List all the scenes:
 
 I. Finally, type out the story's first draft:
 
-- Even when you're several drafts in, and it's still a mess, you can keep [reworking it until you get it right](/success-5/).
+- Even when you're several drafts in, and it's still a mess, you can keep [reworking it until you get it right](success-5_persevering.md).
 - You will probably work through 10-15 drafts by the time you're done.
 
 As you go, add details to the world you're crafting:
@@ -785,7 +785,7 @@ Brevity, while important in other writing, is critical in email:
 
 - People get bombarded with emails, so brief statements make their lives easier.
 - Fully summarize the purpose of the email on the Subject line.
-- Many people use email inboxes for [productivity](/success-4/), so only deliver one purpose with 1-2 points per email.
+- Many people use email inboxes for [productivity](success-4_routine.md), so only deliver one purpose with 1-2 points per email.
 
 Avoid crucial mistakes:
 
@@ -825,9 +825,9 @@ If the conversation grows too long, start a new email with a new subject line.
 
 Since it's a summary of your email, take extra time to craft the subject line.
 
-Conclude with a clear "[call to action](https://notageni.us/marketing/)" about what they should do with your information.
+Conclude with a clear "[call to action](marketing.md)" about what they should do with your information.
 
-To make people [important](/people-3/), always respond promptly to their emails.
+To make people [important](people-3_respect.md), always respond promptly to their emails.
 
 Don't over-assert yourself with messages to strangers:
 
@@ -850,9 +850,9 @@ Use email technology efficiently:
 
 - Always spell-check and review everything before you send.
 - Use a "delay send" or "scheduled send" to deliver a message at a more appropriate time.
-  - Consider their time zone and likely [sleep cycle](/sleep/) when choosing a time.
+  - Consider their time zone and likely [sleep cycle](sleep.md) when choosing a time.
 - Your email address and email signature should convey the image you want.
-- Since they annoy the recipients and make you seem like you have [trust issues](https://gainedin.site/trust/), avoid electronic return receipts.
+- Since they annoy the recipients and make you seem like you have [trust issues](trust.md), avoid electronic return receipts.
 
 Online chats require writing skills as well:
 
@@ -903,7 +903,7 @@ Avoid over-optimizing for search engines:
 - Overusing keywords will disrupt the post's flow and increase the bounce rate, which harms your ranking with the algorithm.
 - Instead, self-promote whenever possible:
   - Create email lists to personally connect with people.
-  - Learn [marketing skills](http://notageni.us/marketing/) to generate attention.
+  - Learn [marketing skills](marketing.md) to generate attention.
 
 Set low expectations for the published draft:
 
@@ -917,7 +917,7 @@ Set low expectations for the published draft:
 Constantly edit and re-edit:
 
 - Most of the writing process is editing, not drafting.
-- Since everyone uses a [computer](/computers/), typographical and simple grammatical errors in any published work are rarely acceptable.
+- Since everyone uses a [computer](computers.md), typographical and simple grammatical errors in any published work are rarely acceptable.
 
 Catch errors by converting the text to speech:
 
@@ -929,11 +929,11 @@ Whether it's a website or a text message, your most meaningful feedback comes fr
 - Writing itself is solitary, but your easiest success in editing comes from other people.
   - If you must self-edit, read your final draft after enough time has passed that the text is no longer familiar.
 - Find people willing to openly criticize your writing and nitpick your style.
-- Your [friends](/people-4/), family, and [spouse](/relationships/) are great for reviewing, but don't ask them to review your content more than they want.
+- Your [friends](people-4_friends.md), family, and [spouse](relationships-3_marriage.md) are great for reviewing, but don't ask them to review your content more than they want.
 
-Since [you'll lose the idea](/creativity/) if you don't finish what you start, publish with a deadline.
+Since [you'll lose the idea](mind-creativity-how.md) if you don't finish what you start, publish with a deadline.
 
-Avoid writer's block by fostering [healthy creative habits](/creativity/).
+Avoid writer's block by fostering [healthy creative habits](mind-creativity-how.md).
 
 You'll always need at least a few drafts:
 
@@ -964,13 +964,13 @@ If you *must* pad out printed pages:
 
 ## Writing is an art
 
-Like any [art](/creativity/), writing has rules, exceptions to rules, specific cases for everything, and requires constant criticism.
+Like any [art](mind-creativity-how.md), writing has rules, exceptions to rules, specific cases for everything, and requires constant criticism.
 
 As the situation demands, you can (and will) break most writing rules, so don't obsess about honoring all of them:
 
 - The purpose of writing is to communicate a clear concept, so violating rules may be useful to prove a point or entertain.
 
-You may strive for originality, but [it's never completely possible](https://gainedin.site/creativity/).
+You may strive for originality, but [it's never completely possible](mind-creativity.md).
 
 If you keep improving, you'll likely find years later that you'll hate your old writing style.
 

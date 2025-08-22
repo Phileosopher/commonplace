@@ -193,7 +193,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
   1. [Visual](image.md) and space (visual-spatial)
   2. [Language](language.md) and words (linguistic-verbal)
   3. [Logic](logic.md) and [mathematics](math.md) (logical-mathematical)
-  4. [Body movement](sports.md) (body-kinesthetic)
+  4. [Body movement](fun-sports.md) (body-kinesthetic)
   5. Musical
   6. [Connection with others](people-conversation.md) (interpersonal)
   7. [Awareness](awareness.md) of oneself (intrapersonal)

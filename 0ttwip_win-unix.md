@@ -17,7 +17,7 @@ The files and commands in Linux are case-sensitive, while Windows isn't:
 
 While Windows is a completely proprietary license, Linux is free.
 
-This can be a dramatically different situation when you go [large-scale](/enterprise/), but the entire file system reflects that distinction.
+This can be a dramatically different situation when you go [large-scale](computers-distsys-enterprise.md), but the entire file system reflects that distinction.
 
 ## Organization
 
@@ -67,9 +67,9 @@ Windows has very clear-cut versions:
 - Windows 10
 - Windows 11
 
-There are other types of Windows OS (such as Windows NT), but it's relatively straightforward, with permutations and updates coming as Service Packs (e.g., SP1) or standard [versioning numbers](/version-control/).
+There are other types of Windows OS (such as Windows NT), but it's relatively straightforward, with permutations and updates coming as Service Packs (e.g., SP1) or standard [versioning numbers](computers-software-versionctrl.md).
 
-Linux, on the other hand, has [a variety of distros](/unix/) that each serve specific roles, and the kernel version is the only thing that advances sequentially, with each distro having their own [versioning](/version-control/).
+Linux, on the other hand, has [a variety of distros](computers-os-unix.md) that each serve specific roles, and the kernel version is the only thing that advances sequentially, with each distro having their own [versioning](computers-software-versionctrl.md).
 
 Nothing really binds Linux distros together as the same OS very much until you get down to the kernel (though different versions of the same distro have quite a bit in common), whereas Windows versions are predictably interoperable, with the OS making most software at least *somewhat* backwards-compatible.
 
@@ -83,16 +83,16 @@ Getting a new Windows program is a specific process:
 3. You can now use the program at your leisure.
 4. If you need to update, download the new version and install, which will be a complete rewrite of the old program.
 
-The upside is that it's easy to understand for downloading. The downside is that updates (such as [security updates](/cysec/)) require the user to pay attention unless it's specifically a Microsoft-supported product (like Microsoft Office).
+The upside is that it's easy to understand for downloading. The downside is that updates (such as [security updates](computers-cysec.md)) require the user to pay attention unless it's specifically a Microsoft-supported product (like Microsoft Office).
 
 The best way to get a Linux program is a little more involved at the beginning:
 
 1. Search for the software inside the package manager, which varies on the distro, and you can download any that you want.
    - You can download any package manager you want, if that package manager isn't to your liking (e.g., APKPure instead of Google Play Store)
-   - Alternately, if you know the name of the program, you can simply run "sudo [PackageManagerName] install" from a [terminal](/consoles/).
+   - Alternately, if you know the name of the program, you can simply run "sudo [PackageManagerName] install" from a [terminal](computers-cli.md).
    - If the software isn't there, install the relevant software repositories you need.
 2. You can now use the program at your leisure.
-3. If you need to update, run "sudo [PackageManagerName] update". To upgrade to the next [version](/version-control/) (e.g., 1.7 to 1.8), run "sudo [PackageManagerName] upgrade". This will only update the relevant files that need updating.
+3. If you need to update, run "sudo [PackageManagerName] update". To upgrade to the next [version](computers-software-versionctrl.md) (e.g., 1.7 to 1.8), run "sudo [PackageManagerName] upgrade". This will only update the relevant files that need updating.
 
 While Linux is more work to get the dependencies set up, it's safer because security updates are rolled out as part of the update process.
 
@@ -100,9 +100,9 @@ While Linux is more work to get the dependencies set up, it's safer because secu
 
 As of this writing, Windows still dominates the majority of the market. Here are a few tips to avoid making awful mistakes while using Linux:
 
-- If there's any stock software the OS came with (such as a [file manager](/files/) or software-based [keyboard](/keyboard/)), *do not uninstall it*. If you want something new, simply install the new one and use it.
+- If there's any stock software the OS came with (such as a [file manager](computers-files.md) or software-based [keyboard](computers-keyboard.md)), *do not uninstall it*. If you want something new, simply install the new one and use it.
 - Don't bother trying to run a common Windows-based software (e.g., Microsoft Office). You *can* use the Windows emulator (called "Wine"), but you'll have a better time finding a Linux-based alternative.
-- Most of the Linux-based [UI](/ux-ui/) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
+- Most of the Linux-based [UI](design-uxui.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
 - Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it.
 
-Most "original equipment manufacturers" (OEMs) that come with [Windows](/windows/) do *not* consider that you'd want to install Linux or dual-boot. Usually, you'll first need to find a way into the BIOS, then boot from a USB drive. If you're dual-booting, you may need to select the boot menu *every time*.
+Most "original equipment manufacturers" (OEMs) that come with [Windows](computers-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot. Usually, you'll first need to find a way into the BIOS, then boot from a USB drive. If you're dual-booting, you may need to select the boot menu *every time*.

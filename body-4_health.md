@@ -685,7 +685,7 @@ Aim for the least-invasive procedure you can.
 
 Often, doctors will [misdiagnose](https://adequate.life/fix/) you:
 
-- No matter how much training they receive, dentists and doctors can still be [technical idiots](https://notageni.us/idiot/) as much as any other profession.
+- No matter how much training they receive, dentists and doctors can still be [technical idiots](https://gainedin.site/idiot/) as much as any other profession.
 - There are simply too many possible causes for something that doctors can't read all the available information.
   - Medical error kills 3-10x more people in the USA than [auto](autos.md) accidents every year (not accounting risks from hospital germs), and likely kills more than any cancer.
 - For that reason, they'll often pick a "safe" diagnosis (because it's the [greatest risk for them](legal-safety.md) receiving a malpractice lawsuit) or a [fashionable and trendy](trends.md) diagnosis.

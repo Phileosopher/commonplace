@@ -3,7 +3,7 @@
 
 The word "Yahweh" in Hebrew *literally* means "He who is faithful" or "He who honors promises".
 
-Ancient societies, as far back as the Hittites, have an emergent order of [contracts](contracts.md) through treaties, which were directly inspired by Hebrew culture:
+Ancient societies, as far back as the Hittites, have an emergent order of [contracts](people-contracts.md) through treaties, which were directly inspired by Hebrew culture:
 
 1. Preamble - long honorifics that indicate an individual or group's status
 2. Historical prologue - gives context for why the document exists
@@ -12,7 +12,7 @@ Ancient societies, as far back as the Hittites, have an emergent order of [contr
 5. Witnesses to the treaty - the people who observe the document's formation
 6. Sanctions - blessings for abiding by the document and promises if there is a breach in terms
 
-In light of that, this is a list of agreed-upon [contracts](contracts.md) God has made with people. The ancient term was "covenant", but the idea is almost the same, but with a [moral implication](morality.md) if breached.
+In light of that, this is a list of agreed-upon [contracts](people-contracts.md) God has made with people. The ancient term was "covenant", but the idea is almost the same, but with a [moral implication](morality.md) if breached.
 
 ## 1. Adamic Covenant
 

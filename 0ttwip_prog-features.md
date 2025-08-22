@@ -11,9 +11,9 @@ Deciding how to assemble the high-level logic is complicated, and based heavily 
 
 There's no "one-size-fits-all" solution for a high-level language. But, some languages *do* work better than others for various applications.
 
-Many languages are general-purpose (e.g., Python, Java, C++). They pretty much do anything you want, though how *well* they do them can vary spectacularly. For example, Java is better at game and web development, Python is better at data analysis and scripting, and C++ is better at making applications and [system programs](/os/).
+Many languages are general-purpose (e.g., Python, Java, C++). They pretty much do anything you want, though how *well* they do them can vary spectacularly. For example, Java is better at game and web development, Python is better at data analysis and scripting, and C++ is better at making applications and [system programs](computers-os.md).
 
-Scripting/extension languages (e.g., Perl, PHP, JavaScript, Ajax) don't need to be compiled, so they're *super* portable and can run almost anywhere, which is why websites run well with them. They're about as high-level as languages get without becoming [no-code programming](/prog/).
+Scripting/extension languages (e.g., Perl, PHP, JavaScript, Ajax) don't need to be compiled, so they're *super* portable and can run almost anywhere, which is why websites run well with them. They're about as high-level as languages get without becoming [no-code programming](programming-basics.md).
 
 Some languages are really, *really* specific (e.g., HTML, CSS). Think of them as only existing in a certain "box" of possible solutions. If you want to write web-enabled content, HTML is your friend, but will abandon you when you want to make a fun game.
 
@@ -21,13 +21,13 @@ One noteworthy reality is that there's no hard "box" around any of the languages
 
 ## Libraries
 
-There are a *lot* of people who work with computers. The beauty of [specialization](https://gainedin.site/specialization-cities/) is that someone can build something, then someone else can use it later. Unlike real-life tools, code doesn't really cost money to reproduce.
+There are a *lot* of people who work with computers. The beauty of [specialization](jobs-specialization.md) is that someone can build something, then someone else can use it later. Unlike real-life tools, code doesn't really cost money to reproduce.
 
-Thus, many programmers have created "libraries" of [functions](/functions/). By using a library, programmers can create vastly complex things with only a few lines of code. It's basically a big block of commands that you can add to your language that save the time of building the functions yourself.
+Thus, many programmers have created "libraries" of [functions](math-functions-cs.md). By using a library, programmers can create vastly complex things with only a few lines of code. It's basically a big block of commands that you can add to your language that save the time of building the functions yourself.
 
 For any popular language, most typical things have *many* libraries to choose from. Unless you have an edge case, there's probably a library for that.
 
-Beyond [debugging](/software-redesign/) and writing code, a programmer spends a *lot* of time researching to find library packages that make their life easier.
+Beyond [debugging](computers-software-redesign.md) and writing code, a programmer spends a *lot* of time researching to find library packages that make their life easier.
 
 Importing a library is easy. Just call the language-specific function that usually has the word "import", specify the package you want to download, then specify the classes of that package you want (or just put "*" to import everything in that package).
 
@@ -43,7 +43,7 @@ Everything needs a unique name. Otherwise, it's impossible to distinguish things
 
 A "namespace" is exactly that: a space for names. It lets you use the same name in different places without the headache of making something different every time.
 
-- If you poke around in your [files](/files/), you'll notice that you can have "Documents/Family/mom.jpg" as well as "Documents/September/mom.jpg" and "Documents/mom.jpg" at the same time.
+- If you poke around in your [files](computers-files.md), you'll notice that you can have "Documents/Family/mom.jpg" as well as "Documents/September/mom.jpg" and "Documents/mom.jpg" at the same time.
 - Every website under ".com" is pointing to a completely different location than the ".gov" or ".net" version of it.
 
 While programmers can often define a namespace, most languages come with a standard set of names, and libraries often add many more names and namespaces. It's important to know what those namespaces and names are, since you could be reinventing the wheel when someone else already made a namespace or create errors by making the same namespace.

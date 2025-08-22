@@ -1,12 +1,12 @@
 
-*Previous: [A Business Idea](/entrepreneur-idea/)*
+*Previous: [A Business Idea](entrepreneur-2_idea.md)*
 
 A business plan is designed to clarify every part of a business.
 
 - Most startups fail, and startups which succeed are rarely the first attempt.
 - By crafting a formalized business plan, you're forced to find [certainty](understanding-certainty.md) on how you'll perform business activities, even if you never need investors to review it.
 
-At some point, you'll need to [convince others](https://gainedin.site/influence/) to give you money, and a business plan helps prove that to others.
+At some point, you'll need to [convince others](power-influence.md) to give you money, and a business plan helps prove that to others.
 
 - If you want a large-scale impact, you'll *need* a large-scale approach.
 - To make millions, a business must affect at least thousands, and will eventually need millions to do it.
@@ -14,20 +14,20 @@ At some point, you'll need to [convince others](https://gainedin.site/influence/
 Business plans always have the same generic sections each time, but they don't need to be extensive.
 
 - A simple business plan can be one page long.
-- You're basically writing out what you plan to do, and covering all the important aspects *before* they become [urgent](https://adequate.life/success-3/).
+- You're basically writing out what you plan to do, and covering all the important aspects *before* they become [urgent](success-3_goals.md).
 - Do *not* go farther on the business plan in any of the following sections if you have no need for it.
 
-If you *are* seeking [funding](/entrepreneur-scaling/), you're answering questions potential investors and lenders are indirectly wondering:
+If you *are* seeking [funding](entrepreneur-6_scaling.md), you're answering questions potential investors and lenders are indirectly wondering:
 
 1. Is the business idea sound and reasonable?
 2. Is this business idea timed correctly?
-   - If it's too early, nobody will [understand](understanding.md) it or [connect](https://gainedin.site/influence/) with it.
+   - If it's too early, nobody will [understand](understanding.md) it or [connect](power-influence.md) with it.
    - If it's too late, the market will have too many competitors.
-3. Do you have sufficient [talent](https://gainedin.site/creations/), [devotion](https://gainedin.site/purpose/), and skill to act on the business idea?
+3. Do you have sufficient [talent](creations.md), [devotion](purpose.md), and skill to act on the business idea?
 4. Is the business model structured correctly to keep running indefinitely?
 5. Will the business operations be sufficiently funded until it can support itself?
 
-After all your persistent research and [ideation](/entrepreneur-idea/), capture every one of your relevant and valid thoughts into your business plan.
+After all your persistent research and [ideation](entrepreneur-2_idea.md), capture every one of your relevant and valid thoughts into your business plan.
 
 - Even if you're thoroughly meticulous, you *will* forget something, so don't aim for perfection.
 
@@ -35,9 +35,9 @@ After all your persistent research and [ideation](/entrepreneur-idea/), capture 
 
 Include a title, table of contents, and executive summary.
 
-To [market](/marketing/) it well, the title should be memorable.
+To [market](marketing.md) it well, the title should be memorable.
 
-- Do *not* obsess about the title too much, since it will often need a rebrand later when you need to [scale the business](/entrepreneur-scaling/).
+- Do *not* obsess about the title too much, since it will often need a rebrand later when you need to [scale the business](entrepreneur-6_scaling.md).
 
 The executive summary comes last, *after* the rest of the business plan.
 
@@ -57,7 +57,7 @@ An organization's description indicates what the business will be and what it do
 
 Use a mission statement.
 
-- Mission statements show the guiding [philosophy](https://gainedin.site/values/) and [purpose](https://gainedin.site/purpose/) for the business' existence.
+- Mission statements show the guiding [philosophy](values.md) and [purpose](purpose.md) for the business' existence.
 - Typically, it shouldn't be longer than 30 words.
 
 Indicate both the organization's goals and objectives.
@@ -67,7 +67,7 @@ Indicate both the organization's goals and objectives.
 
 Expand the mission statement's philosophy in more detail.
 
-- Briefly describe who the business' [marketed](/marketing/) demographic.
+- Briefly describe who the business' [marketed](marketing.md) demographic.
 
 Describe the industry in general.
 
@@ -81,14 +81,14 @@ Describe the organization's most significant strengths and workers' best talents
 - What strengths give the most competitive advantage?
 - Describe the background experiences, skills, and strengths each worker brings to the organization.
 
-Indicate its [legal form of ownership](/accounting/), and why.
+Indicate its [legal form of ownership](accounting.md), and why.
 
 ## 3. Products/Services
 
 If you're selling a variety of products, you should be intimately familiar with every single one of them.
 
 - Look at the products as if you're a new customer who is first learning about it.
-- Consider [how you look](https://gainedin.site/image/) as you perform your services.
+- Consider [how you look](image.md) as you perform your services.
 
 When you think you've tested your product, test it some more.
 
@@ -99,9 +99,9 @@ Describe in detail the demographics of each product's customers.
 - Identify the target customers, their characteristics, and geographic locations.
 - Indicate whether distributors, wholesalers, or retailers will give the product to the end-user.
 - For each type of customer, create a demographic profile:
-  - Age and [gender](https://gainedin.site/gender/)
+  - Age and [gender](gender.md)
   - Geographic location and regional lifestyle elements
-  - [Income level](https://adequate.life/money-1/), [social class](https://gainedin.site/classes/), [occupation](https://gainedin.site/specialization-cities/), and [education](https://gainedin.site/pedagogy/)
+  - [Income level](money-1_why.md), [social class](classes.md), [occupation](jobs-specialization.md), and [education](pedagogy.md)
 - If the customers are businesses, they'll have a different demographic profile:
   - Industries involved, or the portions of involved industries
   - Geographic location
@@ -130,13 +130,13 @@ Share the product from the customers' point of view.
   - Describe why the most significant features matter.
   - Indicate how the features can help the customer see its benefits.
 - You may think the product is perfect, but your clients won't.
-  - Your opinion is too [biased](https://gainedin.site/bias/) to have much value.
+  - Your opinion is too [biased](mind-bias.md) to have much value.
   - Pay close attention to user feedback.
-- Stay focused on the product's core [purpose](https://gainedin.site/purpose/), and constrain its [design](/design/) to it.
+- Stay focused on the product's core [purpose](purpose.md), and constrain its [design](design-uxui.md) to it.
 
 Indicate any additional post-sale products and services.
 
-- Covering the [logistical](/logistics/) costs to deliver or install the product.
+- Covering the [logistical](logistics.md) costs to deliver or install the product.
 - The organization's refund and return policy.
 - Warranties and service contracts connected to the product.
 - Technical support, both during and after the warranty period.
@@ -145,7 +145,7 @@ Indicate any additional post-sale products and services.
 Aim for affordable-enough pricing.
 
 - The cheaper something is, the more it can sell.
-  - You can sell something at a prestigious price, but you'll be wasting your time with a *very* [hard sell](/marketing/) for each customer.
+  - You can sell something at a prestigious price, but you'll be wasting your time with a *very* [hard sell](marketing.md) for each customer.
   - If you must set the price higher, quickly clarify why and elaborate on it in the marketing plan.
 - You want to set the price low enough that there's always demand for it, but not so low that people will feel it's cheap.
 - Even if you *can* set the price at substantially lower than the competition, people will often presume you're delivering an inferior product.
@@ -153,7 +153,7 @@ Aim for affordable-enough pricing.
 
 ## 4. Marketing Plan
 
-[Marketing](/marketing/) the product is absolutely critical, or nobody will know you're selling it.
+[Marketing](marketing.md) the product is absolutely critical, or nobody will know you're selling it.
 
 You don't need a vast marketing plan, and can start simple with a simple list of places you plan to contact:
 
@@ -165,11 +165,11 @@ You don't need a vast marketing plan, and can start simple with a simple list of
 You're trying to tailor your product to your customer, so consider how the product *has* been marketed:
 
 - Traditional marketing approaches can *very* frequently work for traditional products.
-- If it's a new type of product, however, every bit of [design](/design/) can dramatically improve your impact.
+- If it's a new type of product, however, every bit of [design](design-uxui.md) can dramatically improve your impact.
 - Unless you're *trying* to make a living in marketing, pay close attention to how much marketing you're doing relative to the product you're actually producing and selling.
   - If you *like* marketing itself, consider dropping the product altogether and working in a marketing role instead.
 
-Make a standardized [script](https://adequate.life/speaking/) for contacting leads.
+Make a standardized [script](language-speaking.md) for contacting leads.
 
 - Use the Golden Circle to communicate the concept:
   1. WHY you do and [believe](understanding.md)
@@ -180,16 +180,16 @@ Make a standardized [script](https://adequate.life/speaking/) for contacting lea
   2. A one-minute summary for anyone who is interested.
   3. A written source of more information on the product (e.g., a website or printout).
 
-For anything more significant, your marketing plan should show the results of your [marketing research](/marketing/).
+For anything more significant, your marketing plan should show the results of your [marketing research](marketing.md).
 
 - That research should answer *any* uncertainties and prove as consistent data.
-- Specify as much as possible with [numbers](/math/), [statistics](/stat/) and citations.
+- Specify as much as possible with [numbers](math.md), [statistics](math-stat.md) and citations.
 - Your marketing plan will be the source for your sales projections later.
 
 Give the industry's economic facts:
 
 - The *current* market demand along with *total* market size.
-- Show market [trends](https://gainedin.site/trends/) like growth, consumer preference shifts, and product developments.
+- Show market [trends](trends.md) like growth, consumer preference shifts, and product developments.
   - If you're making a non-profit organization, make a separate category altogether for trend analysis.
 - Show the growth potential and maximum opportunity for an organization your size.
   - If a business will be a significant competitor in the market, indicate the percentage they'll dominate it.
@@ -200,20 +200,20 @@ Specify each barrier to entering the market and how to overcome each of them:
 - Starting a business full-time typically needs a significant amount of starting capital:
   - Production costs
   - Equipment and supplies
-  - [Logistics](/logistics/) needs (especially shipping)
-  - [Legal filings](/legally-safe/) and government certifications
-  - [Marketing](/marketing/) costs
-  - Commercial [liability insurance](/insurance/)
+  - [Logistics](logistics.md) needs (especially shipping)
+  - [Legal filings](legal-safety.md) and government certifications
+  - [Marketing](marketing.md) costs
+  - Commercial [liability insurance](insurance.md)
 - Consumers have some resistance to a new brand, and won't immediately recognize it.
   - Also, if the brand *doesn't* succeed in being distinctive, the product or service will be seen as a commodity.
-- Many new organizations require [specializations](https://gainedin.site/specialization-cities/) from *before* the business plan was drafted:
+- Many new organizations require [specializations](jobs-specialization.md) from *before* the business plan was drafted:
   - Necessary training or skills for an industry or role.
-  - Unique [technology](http://trendless.tech) or [patents](/ip/).
+  - Unique [technology](technology.md) or [patents](legal-ip.md).
   - Affiliations with unions or trade organizations.
 - The political environment also affects a business.
   - Barriers from international tariffs and embargoes.
   - Necessary quotas to fulfill certain requirements.
-  - [Taxes](/accounting/) and [laws](https://gainedin.site/rules/) that may help or hinder the organization.
+  - [Taxes](accounting.md) and [laws](rules.md) that may help or hinder the organization.
 
 List every major competitor in the industry:
 
@@ -241,30 +241,30 @@ Compare the two most significant competitors side-by-side with yours on a table:
 - Rank each value from 1 to 5 as an ideal relative to the customer.
 - If you're being legitimately honest, you should see multiple 1's on yours compared to competitors (since you're starting into the industry).
 
-Indicate how changes in [social trends](https://gainedin.site/trends/) and society will affect the organization:
+Indicate how changes in [social trends](trends.md) and society will affect the organization:
 
-- Will it take advantage of new [technology](http://trendless.tech), or will that technology be a risk to the business model?
-- Are there any [government regulations](/legal-doctrines/) which may affect business operations?
-- Will the [economy](https://gainedin.site/economics/) or [industry](https://gainedin.site/specialization-cities/) shift enough to change how the business model can survive?
+- Will it take advantage of new [technology](technology.md), or will that technology be a risk to the business model?
+- Are there any [government regulations](legal-doctrines.md) which may affect business operations?
+- Will the [economy](economics.md) or [industry](jobs-specialization.md) shift enough to change how the business model can survive?
 
 ### Marketing Strategy
 
 Describe in a paragraph the specific corner of the market the company will pursue.
 
-Explain how you'll [promote](/marketing/) the product:
+Explain how you'll [promote](marketing.md) the product:
 
 - How will you get the message out to customers?
 - What advertising media, why, and how often? Why not other alternatives?
 - Beyond paid advertising, will you use any other marketing methods?
   - Social media gives a *lot* of information to explore alternative approaches.
-  - Sometimes, you can use second-degree connections to [influence](https://gainedin.site/influence/) others (e.g., that person's [spouse](https://adequate.life/relationships/), their professional networks).
+  - Sometimes, you can use second-degree connections to [influence](power-influence.md) others (e.g., that person's [spouse](relationships-3_marriage.md), their professional networks).
 - Are there any low-cost advertising methods you can take advantage of?
 - What image do you want to project and how do you want customers to see you?
-- What are your plans for maintaining brand management with [graphic images](/design/)?
+- What are your plans for maintaining brand management with [graphic images](design-uxui.md)?
 - What promotional budget do you have?
   - You'll have an initial cost, and then ongoing costs afterward.
 
-It typically makes sense to go back and [redesign](/design/) the product to reflect the marketing strategy.
+It typically makes sense to go back and [redesign](design-uxui.md) the product to reflect the marketing strategy.
 
 - Good marketing will reflect back *into* the product itself.
 - Display the product's most interesting qualities openly.
@@ -276,10 +276,10 @@ Indicate the product's pricing or pricing models:
   - Include frequently overlooked costs connected to sales staff:
     - Necessary consulting costs, meals, and entertainment
     - Travel expenses
-    - Profit loss from a customer's potential [price negotiations](https://adequate.life/conflicts/)
-  - Indicate any overhead costs (e.g., administrative, [accounting](/accounting/), [attorney](/legally-safe/)).
+    - Profit loss from a customer's potential [price negotiations](people-5_conflicts.md)
+  - Indicate any overhead costs (e.g., administrative, [accounting](accounting.md), [attorney](legal-safety.md)).
 - Under-charging is *not* sustainable.
-  - Your startup will need a high profit margin to manage [unknown risks](/risk-mgmt/).
+  - Your startup will need a high profit margin to manage [unknown risks](safety-riskmgmt.md).
   - Any idiot competitor can under-bid your price.
     - Focus on quality, expertise, and the niche's preferences *much* more than the price.
 - Share how the price compares with the competition, and describe its relevance to the target market.
@@ -288,7 +288,7 @@ Indicate the product's pricing or pricing models:
 Specify a proposed location:
 
 - The location is a reference for the marketing plan, but will be more detailed in the operational plan.
-- Many startups can successfully start in your own [home](/homes/).
+- Many startups can successfully start in your own [home](home-buysell.md).
 - Show how the location is marketable as a venue:
   - How is the site important, if at all, to consumers?
   - How convenient will people feel the building is?
@@ -322,7 +322,7 @@ Clarify the location's needs:
   - The type of building needed and its required zoning
   - Essential utilities with any minimum specifications (e.g., electricity, water)
 - Accessibility:
-  - Required conveniences for [carriers](/logistics/) or suppliers
+  - Required conveniences for [carriers](logistics.md) or suppliers
   - Whether it needs easy walk-in access
   - Parking requirements
   - Necessary proximity to other locations (e.g., highway, airport, rail station, shopping centers)
@@ -334,17 +334,17 @@ Clarify the location's needs:
   - Initial remodeling costs and routine maintenance requirements
   - Rent/lease
   - Utilities
-  - [Insurance](/insurance/)
+  - [Insurance](insurance.md)
 
 Indicate the legal environment and requirements for operation:
 
-- Licensing and [bonding](/insurance/) requirements
+- Licensing and [bonding](insurance.md) requirements
 - Necessary government permits
 - Relevant health, workplace, or environmental laws
 - Any industry-specific or profession-specific laws
 - Zoning or building code requirements
-- Essential and elected [insurance](/insurance/) coverage
-- Pending, existing, or purchased [trademarks, copyrights, and patents](/ip/)
+- Essential and elected [insurance](insurance.md) coverage
+- Pending, existing, or purchased [trademarks, copyrights, and patents](legal-ip.md)
 
 If it's more than yourself, describe the employees who'll work there and what they'll do:
 
@@ -352,11 +352,11 @@ If it's more than yourself, describe the employees who'll work there and what th
 - The types of labor (skilled, unskilled, professional)
 - The qualities of the current staff who will be assigned to it
 - Where and how the organization finds employees, how they will train them, and their requirements
-- Whether the organization will use contract workers or [professionals](/professionals/) alongside employees
+- Whether the organization will use contract workers or [professionals](professionals.md) alongside employees
 - Tasks assigned to each worker and how their responsibilities will change over time
-- Schedules and written procedures for [managing employees](/mgmt/)
+- Schedules and written procedures for [managing employees](mgmt-1_why.md)
 
-Describe the work site's [inventory](/accounting/):
+Describe the work site's [inventory](accounting.md):
 
 - The types of inventory kept (raw materials, supplies, finished goods)
 - Average value of the initial inventory stock investment
@@ -412,7 +412,7 @@ If multiple people will run the organization, clarify the board of directors.
 
 ### Professional/Consulting Support
 
-Clarify the company's primary [attorney](/legally-safe/), [accountant](/accounting/), [insurance agent](/insurance/), and [banker](/investing/).
+Clarify the company's primary [attorney](legal-safety.md), [accountant](accounting.md), [insurance agent](insurance.md), and [banker](money-investing.md).
 
 Beyond the board, clarify your management advisory board:
 
@@ -420,7 +420,7 @@ Beyond the board, clarify your management advisory board:
 - Advisory boards give measurable, distinctive value to the organization, but only if it has the right people:
   - Objective, honest, effective communicators and problem solvers
   - Skilled in different vocations than the owners
-  - Respected and knowledgeable in their [fields](https://gainedin.site/specialization-cities/)
+  - Respected and knowledgeable in their [fields](jobs-specialization.md)
   - Genuinely interested in the organization's success
   - Diverse skills, work, and life backgrounds
   - Well-connected with networks the owners may need
@@ -442,7 +442,7 @@ Give draft statements to estimate the organization's future status.
 
 Even when you have a few months' worth, businesses typically take 5 years before turning a profit.
 
-- Before diving in, your [individual line of credit](https://adequate.life/money-2/) should be solid enough to get a business loan for over a year's worth of personal income.
+- Before diving in, your [individual line of credit](money-2_debt.md) should be solid enough to get a business loan for over a year's worth of personal income.
 
 Give reports of the startup's initial expenses:
 
@@ -473,7 +473,7 @@ Give them most common accounting reports for the first business year:
 - Projected Cash Flow
 - Opening Day Balance Sheet
 - Break-Even Analysis in different scenarios (determines when the organization becomes sustainable)
-- This is simply speculative, but the numbers are [marketing](/marketing/) to potential [investors](/investing/).
+- This is simply speculative, but the numbers are [marketing](marketing.md) to potential [investors](money-investing.md).
 
 ## 8. Industry-specific sections
 
@@ -486,4 +486,4 @@ Add anything else you can think of that may be applicable to the industry.
   - Number of users
   - Items produced
 
-*Next: [Freelancing](/entrepreneur-freelancing/)*
+*Next: [Freelancing](entrepreneur-4_freelancing.md)*

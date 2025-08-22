@@ -1,5 +1,5 @@
 
-Multi-Level [Marketing](/marketing/) (MLM) is an absurdly volatile domain:
+Multi-Level [Marketing](marketing.md) (MLM) is an absurdly volatile domain:
 
 - In the first year of an MLM operation, at least 50% of representatives drop out.
 - After 5 years of operation, at least 90% of representatives leave the company.
@@ -9,7 +9,7 @@ Multi-Level [Marketing](/marketing/) (MLM) is an absurdly volatile domain:
 
 A company must carefully consider their production because mismanaging supply will drive demand down.
 
-- MLM companies don't observe or regulate the [supply/demand relationship](https://gainedin.site/economics/).
+- MLM companies don't observe or regulate the [supply/demand relationship](economics.md).
 
 MLM disregards any supply target.
 
@@ -31,13 +31,13 @@ Instead, MLM's incentive to join is to become a consumer-seller.
 
 MLM inspires confidence in its members through motivational tapes, seminars, and videos.
 
-- The [culture](https://gainedin.site/culture/) of MLM heavily emphasizes that their materials are absolutely necessary for success.
+- The [culture](culture.md) of MLM heavily emphasizes that their materials are absolutely necessary for success.
 
 ## Pyramid structure
 
-[Conventional sales](/marketing/) never need to set aside time to hunt for workers:
+[Conventional sales](marketing.md) never need to set aside time to hunt for workers:
 
-1. Even wage slave jobs have a natural scarcity from requiring certain necessary [pre-existing skills](https://gainedin.site/specialization-cities/).
+1. Even wage slave jobs have a natural scarcity from requiring certain necessary [pre-existing skills](jobs-specialization.md).
 2. For any branded product, some people will already believe in it enough that they'd be happy to sell it.
 3. Before applying for a conventional job, applicants already want to succeed at it.
 
@@ -55,9 +55,9 @@ Who do these sellers sell to?
 
 ## Distribution models
 
-MLM makes needlessly complicated pricing structures for products and materials to make products [appear](https://gainedin.site/image/) sophisticated.
+MLM makes needlessly complicated pricing structures for products and materials to make products [appear](image.md) sophisticated.
 
-Free market price competition and [technology](https://gainedin.site/technology/) usually takes arbitrary [distributor layers](/logistics/) out of the chain.
+Free market price competition and [technology](technology.md) usually takes arbitrary [distributor layers](logistics.md) out of the chain.
 
 - Over time, this creates a faster, cheaper service.
 - A highly exclusive or competitively priced product doesn't need additional independent vendors because the market demand is already there.
@@ -83,23 +83,23 @@ Here's an example:
 
 ## Shady marketing
 
-While [marketing](/marketing/) sometimes appeals to greed and materialism, MLM *embraces* it.
+While [marketing](marketing.md) sometimes appeals to greed and materialism, MLM *embraces* it.
 
 - MLM branding typically implies a lifestyle of free, liberal excess.
 - Its culture emphasizes the desire for mass materialism and extreme wealth.
-- Its only subtlety arises when it associates with [religion](https://gainedin.site/religion/), and often attaches generosity into that wealth lifestyle.
+- Its only subtlety arises when it associates with [religion](religion.md), and often attaches generosity into that wealth lifestyle.
 
 Most MLM recruiting and retention strategies appeal to pride and vanity.
 
-- Sales for recruit purchases are high-pressure [persuasion tactics](https://gainedin.site/influence/) that lower the prospects' initial opposition.
+- Sales for recruit purchases are high-pressure [persuasion tactics](power-influence.md) that lower the prospects' initial opposition.
 - MLM frequently establishes sales goals based on feelings or desired income, *much* more than aptitude and capacity to sell.
 
-Along with vices, MLM also [fearmongers](https://gainedin.site/fear/) prospects.
+Along with vices, MLM also [fearmongers](mind-feelings-fear.md) prospects.
 
-- The prospects are regularly pressured to decide quickly on the premise that the organization's model is a new [trend](https://gainedin.site/trends/) that will take off and leave them behind.
+- The prospects are regularly pressured to decide quickly on the premise that the organization's model is a new [trend](trends.md) that will take off and leave them behind.
 - Representatives usually sell the starting costs as an all-or-nothing decision to make recruits believe they can't afford to fail.
 
-The marketing mix of minimal experience, a saturated market, and a full-commission income motivate representatives to be [dishonest](https://adequate.life/lying/).
+The marketing mix of minimal experience, a saturated market, and a full-commission income motivate representatives to be [dishonest](people-lying.md).
 
 - Instead of facts or data, many sellers use hyperbole and dishonest claims about the product.
 - Further, many of them dishonor and falsify competitors.
@@ -112,7 +112,7 @@ MLM's primary marketing channel is through prefabricated parties or home demonst
 
 Selling MLM product is functionally similar to most other cold-call sales.
 
-- MLM doesn't adhere to the rules and grace of [newer marketing tactics](/marketing/) such as relationship marketing or data mining.
+- MLM doesn't adhere to the rules and grace of [newer marketing tactics](marketing.md) such as relationship marketing or data mining.
 
 ## Poor vendor-client relationships
 
@@ -125,9 +125,9 @@ MLM entities blur the line between vendor and client, but also inconsistently ma
 
 Beyond the extreme emphasis on recruitment, the rest of MLM capitalizes on the "be your own boss" mantra and structures itself very loosely.
 
-- [Marketing and sales](/marketing/) are [specializations](https://gainedin.site/specialization-cities/), so self-training for sales without research or mentorship is a terrible idea.
+- [Marketing and sales](marketing.md) are [specializations](jobs-specialization.md), so self-training for sales without research or mentorship is a terrible idea.
 
-MLM growth sabotages representatives' personal relationships with [family members](https://gainedin.site/family/) and [friends](https://gainedin.site/friendship/).
+MLM growth sabotages representatives' personal relationships with [family members](people-family.md) and [friends](people-4_friends.md).
 
 1. Members will justify exploiting relationships as networking or business-building.
 2. Outside the company, most people believe MLM pitches are shallow, selfish exploitation.
@@ -149,7 +149,7 @@ Even terrible products usually have other redeeming qualities:
 - A low-quality product is also extremely cheap.
 - A service that takes a long time to deliver often does an adequate job.
 - An overpriced product can still be high-quality.
-- Awful products frequently have [well-designed](/design/) packaging.
+- Awful products frequently have [well-designed](design-uxui.md) packaging.
 
 People who have experienced MLM *never* feel ambivalent about it.
 
@@ -160,17 +160,17 @@ People who have experienced MLM *never* feel ambivalent about it.
 Most of MLM is held together with shame.
 
 - If recruiter-vendor-clients want to develop their skills outside the company (which is an industry-standard practice in sales) the culture shames them.
-- Like any other [cult](https://gainedin.site/cults/), anyone who questions organizational decisions or requests more input will receive shame from the community.
+- Like any other [cult](cults.md), anyone who questions organizational decisions or requests more input will receive shame from the community.
 
 Conversations with "old friends" tend to become awkward.
 
 - Most recruiter-vendor-clients are oblivious to how much shame they bring on themselves.
 - Lifelong friendships often unravel and groups of friends can separate.
 
-MLM representatives, like [cult members](https://gainedin.site/cults/), don't hold MLM directly responsible.
+MLM representatives, like [cult members](cults.md), don't hold MLM directly responsible.
 
-- A long-term MLM representative will avoid family and friends, but won't hold the organization responsible for [influencing](https://gainedin.site/influence/) their decision.
-- They'll typically blame themselves, blame their family and friends for not supporting them, or blame the [economy](https://gainedin.site/economics/).
+- A long-term MLM representative will avoid family and friends, but won't hold the organization responsible for [influencing](power-influence.md) their decision.
+- They'll typically blame themselves, blame their family and friends for not supporting them, or blame the [economy](economics.md).
 
 Addressing an MLM representative's behavior is usually a waste of time.
 
@@ -190,12 +190,12 @@ Most people end their MLM career the same way:
 The MLM organization is simply an enabler, not the cause.
 
 - MLM is typically someone acting from a pre-existing mental disorder.
-- Many MLM members transition into other [addictions](https://gainedin.site/addiction/) or [cults](https://gainedin.site/cults/), including other MLMs.
+- Many MLM members transition into other [addictions](addiction.md) or [cults](cults.md), including other MLMs.
 
 Leaving MLM is difficult.
 
 - Many people who leave high-paying jobs to join MLM have to admit many painful realities.
-- The people who like MLM want to feel like [leaders](/mgmt/) without its required risk or sacrifice.
+- The people who like MLM want to feel like [leaders](mgmt-1_why.md) without its required risk or sacrifice.
 
 ## In summary
 
@@ -213,7 +213,7 @@ Often, someone in MLM will try to convince you that it's not MLM. They'll usuall
 
 This is only a partial list, with constant rebranding and new MLM endeavors all the time.
 
-[Health products](/health/)
+[Health products](body-4_health.md)
 
 - AdvoCare - dietary supplements
 - Arbonne International - vegan skincare, cosmetics, nutrition
@@ -244,7 +244,7 @@ This is only a partial list, with constant rebranding and new MLM endeavors all 
 - Wakaya Perfection - nutrition
 - Younique - beauty products
 
-Utility markets and [telecom](http://trendless.tech/networks/)
+Utility markets and [telecom](networks-computer.md)
 
 - 5Linx - telecom equipment
 - ACN Inc. - telecom, energy, merchant services
@@ -268,7 +268,7 @@ Synthetic products
 - BioPerformance - fuel additives
 - Fuel Freedom International - fuel additives
 
-[Insurance](/insurance/), [investing](/investing/), financial services, [legal](/legally-safe/)
+[Insurance](insurance.md), [investing](money-investing.md), financial services, [legal](legal-safety.md)
 
 - American Income Life Insurance Company - life insurance
 - LegalShield - legal services
@@ -290,12 +290,12 @@ Children's products
 - Barefoot Books - children's books
 - Usborne Publishing - children's books
 - Discovery Toys - educational toys
-- Southwestern Advantage (formerly Southwestern Company) - [educational](https://gainedin.site/pedagogy/) materials
+- Southwestern Advantage (formerly Southwestern Company) - [educational](pedagogy.md) materials
 
 Food-based products
 
 - Cutco (with Vector Marketing as a subsidiary) - knives
-- Pampered Chef - [food preparation](https://adequate.life/cooking/)
+- Pampered Chef - [food preparation](cooking.md)
 - Tastefully Simple - meal kits, seasonings, sauces, baking mixes
 - Tupperware - food storage products
 
@@ -310,7 +310,7 @@ Other specific niches
 - Scentsy - scented products
 - YTB International - travel, excursions, lodging
 
-Very specific [technologies](https://gainedin.site/technology/)
+Very specific [technologies](technology.md)
 
 - Forever Living Products - aloe vera, bee-based
 - FreeLife - goji juice

@@ -320,7 +320,7 @@ Listing Requirements - Stock market rules to companies that want to buy and sell
 
 Long-Term - Generally, "long-term" in accounting means anything that extends beyond the next 12-month cycle
 
-Long-Term Asset - An asset that expected to be around for over a year (e.g., factory machine, [auto](/autos/))
+Long-Term Asset - An asset that expected to be around for over a year (e.g., factory machine, [auto](autos.md))
 
 Long-Term Liabilities - Things owed that aren't due for more than one year (e.g., mortgages, bonds)
 
@@ -460,7 +460,7 @@ Revenue - The money a business receives for its commercial activities
 
 Risk - aka Volatility, the possibility of financial loss, used in investing to determine the most marketable return
 
-Rounding Error - An error that rounds a number upward or downward, a natural product of [computer-based math](https://trendless.tech/math/)
+Rounding Error - An error that rounds a number upward or downward, a natural product of [computer-based math](math-cs.md)
 
 Sales - The total income from selling goods or services
 

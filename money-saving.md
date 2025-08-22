@@ -285,7 +285,7 @@ Televisions and Home Theater
 When canceling subscriptions that give a cancellation fee:
 
 - For specific contracts like bookings and Adobe products:
-  - [Carefully read the contract](contracts.md) for any risks from upgrading the package.
+  - [Carefully read the contract](people-contracts.md) for any risks from upgrading the package.
   - Upgrade the package to reset your consumer rights to cancel without a fee.
   - Cancel the contract.
 

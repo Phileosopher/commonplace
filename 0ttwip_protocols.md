@@ -1,5 +1,5 @@
 
-While people are intuitive enough to detect slang and dialects within most [engineering standards](https://notageni.us/engineering/), computers are too dumb to recognize slight variants on a data transfer. Engineers representing all the largest organizations, therefore, must constantly meet to make agreed-upon standards to accommodate the stupidity of computers.
+While people are intuitive enough to detect slang and dialects within most [engineering standards](engineering.md), computers are too dumb to recognize slight variants on a data transfer. Engineers representing all the largest organizations, therefore, must constantly meet to make agreed-upon standards to accommodate the stupidity of computers.
 
 ## Standard-setters
 
@@ -103,7 +103,7 @@ Other:
 
 [Many networking standards](https://en.wikipedia.org/wiki/Lists_of_network_protocols) are thoroughly fixed as protocols. Many of them operate specifically on a port number, but some don't use specific ports.
 
-Very often, the [spirit of freedom](/floss/) comes through protocols. Platforms are proprietary, but protocols allow a broader interoperability between various computers, programs, and tasks.
+Very often, the [spirit of freedom](legal-ip-floss.md) comes through protocols. Platforms are proprietary, but protocols allow a broader interoperability between various computers, programs, and tasks.
 
 Cabling:
 
@@ -112,13 +112,13 @@ Cabling:
     - First standardized in 1990's
     - Supports USB 1.1, USB 2, and USB 3.x
   - USB 3.0 - a direct update to USB Type A and therefore typically backwards compatible, indicated by blue on the connector
-  - USB Type B - rectangular form factor with tapered ends on one side, less frequently used (e.g., [printers](/printer/), [scanners](/handwriting-ocr/)) and typically is Type A on the cable's other side
-  - USB Mini - small form factor typically for smaller devices (e.g., [cameras](/camera/), [scanners](/handwriting-ocr/)), largely deprecated for USB Micro
+  - USB Type B - rectangular form factor with tapered ends on one side, less frequently used (e.g., [printers](computers-printers.md), [scanners](computers-ocr.md)) and typically is Type A on the cable's other side
+  - USB Mini - small form factor typically for smaller devices (e.g., [cameras](camera.md), [scanners](computers-ocr.md)), largely deprecated for USB Micro
   - USB Micro - the smallest form factor typically used for lower-power technology (e.g., cellphones), largely depreciated for USB Type C
   - USB Type C - symmetrical, comparatively newer form factor
   - USB Micro B - one male plug with two separate odd-shaped female connectors, typically for steady data transfer
 - Category 5 - more specifically, Cat5e is the most standard cabling for networked computers, but can go as low as Cat3 or up to and beyond Cat7
-- SFP - Small Form factor Pluggable, a standard for [large-scale servers](/enterprise/)
+- SFP - Small Form factor Pluggable, a standard for [large-scale servers](computers-distsys-enterprise.md)
 
 Network identification:
 
@@ -168,18 +168,18 @@ Email-specific protocols:
 - IMAP - internet message access protocol, receive and synchronize copies of emails
 - SMTP - simple mail transfer protocol, send emails
 
-[Console/terminal](/consoles/) data protocols:
+[Console/terminal](computers-cli.md) data protocols:
 
 - Telnet - remotely access an unencrypted command-line interface
 
-[Mobile](/radio/) carrier protocols:
+[Mobile](radio.md) carrier protocols:
 
 - GSM - global system for mobile communications, a European standard on the 900-1800 MHz band that the whole world uses (though the US uses the 1900 MHz band which makes its phones incompatible without dual-band hardware).
-- CDMA - code division multiple access, high-quality [proprietary](/floss/) WWII-era protocol that gives full-band data to multiple connections at once by splitting the code into small pieces
+- CDMA - code division multiple access, high-quality [proprietary](legal-ip-floss.md) WWII-era protocol that gives full-band data to multiple connections at once by splitting the code into small pieces
 - WLL - wireless in local loop, a LAN protocol
 - GPRS - general packet radio services, the standard for 2G and 3G data services
 
-Some protocols are [encryption-specific](/encryption/):
+Some protocols are [encryption-specific](encryption.md):
 
 - TLS - transport layer security, which has succeeded secure socket layer (SSL), and tends to use other encryption primitives like AES
 - PGP - pretty good privacy, encrypts and authenticates mail messages
@@ -187,13 +187,13 @@ Some protocols are [encryption-specific](/encryption/):
 - HTTPS - hyper-text transfer protocol secured, send hyper-text across the internet (i.e., HTTP with SSL/TLS)
 - WEP - wireless encrypted protocol, a compromised network standard for wireless signals, has been compromised
 - WPA/WPA2/WPA3 - Wi-Fi protected access, the network standard for wireless signals
-- Some protocols verify email [domains](/web-dev/) for validity, such as DMARC (Domain-based Message Authentication, Reporting and Conformance)
+- Some protocols verify email [domains](computers-webdev.md) for validity, such as DMARC (Domain-based Message Authentication, Reporting and Conformance)
 
 Synchronizing a network across time zones, while also accounting for (relatively) severe latency, daylight savings time, differences in altitude (since time travels slower when moving faster due to Einstein's relativity), and differences between conventions makes [timezones insanely difficult to keep track of](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca). It uses the Network Time Protocol (NTP) just to keep track, and it has *two* different standards: [IETF's RFC 3339](https://tools.ietf.org/html/rfc3339) and [ISO's 8601](https://www.iso.org/iso-8601-date-and-time-format.html). They have overlap, [but not entirely](https://ijmacd.github.io/rfc3339-iso8601/).
 
 It's worth noting most of the above protocols have very specific network "ports" they work through.
 
-Most computer design specifications must abide by certain compliance standards to work correctly. While it's often possible to [hack](/hacking/) them, those standards are often there for a safety reason.
+Most computer design specifications must abide by certain compliance standards to work correctly. While it's often possible to [hack](hacking.md) them, those standards are often there for a safety reason.
 
 There are many standards about how to setup cabling arrangements as well:
 

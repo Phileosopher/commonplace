@@ -123,7 +123,7 @@ While it's not legally the case, it can be *[morally](morality.md)* argued that 
 
 ### Copyright is now complicated
 
-To own a copyrighted material, most people aren't aware they're consenting to an implicit [contract](contracts.md) to consume the material and *not* distribute it.
+To own a copyrighted material, most people aren't aware they're consenting to an implicit [contract](people-contracts.md) to consume the material and *not* distribute it.
 
 - Place shifting, or space shifting, allows media to be "shifted" from one media to another (e.g., streaming online versus locally streaming). This is perfectly legal, but often allows the consumer more control over it (such as pirating the content after they've downloaded it).
 - It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](computers-distsys-torrent.md)) in a civil case.
@@ -184,7 +184,7 @@ Many things could be a trademark.
 - Words - when there is a "design" element and a word element, the word portion matters most.
 - Names - surnames can't be registered, even when combined with a generic term.
 - Symbols
-- Devices - music, scents, [colors](ip-colors.jpg)
+- Devices - music, scents, [colors](legal-ip-colors.jpg)
 
 Trademarks have a *very* complicated legal framework.
 

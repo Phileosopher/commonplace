@@ -36,7 +36,7 @@ Since reality itself is filtered through our perception, we have trouble [imagin
 
 One of the benefits of [religon](religion.md) is that it gives us a perceiver beyond ourselves. If God sees reality and maintains it, we don't have to perceive something to [prove to others](power-influence.md) that it's true.
 
-One thing we can't attribute to our minds is legitimate [pain](mind-feelings-fear.md), since *something* must cause that, and it's not reasonable to assume we fabricated it for our [purposes](/purpose/).
+One thing we can't attribute to our minds is legitimate [pain](mind-feelings-fear.md), since *something* must cause that, and it's not reasonable to assume we fabricated it for our [purposes](purpose.md).
 
 Since we don't like pain, and it's so [certain](understanding-certainty.md) within reality, we're forced to believe one of a few possible [value structures](values.md):
 
@@ -61,7 +61,7 @@ Facts are aspects of [understanding](understanding.md) that *do* exist, to the b
 
 Multiple facts can't contradict each other, though different [points of view](image.md) can imply that two true statements are contradictions. We tend to grab more facts that prioritize and confirm our preconceived [bias](mind-bias.md) unless we've disciplined ourselves otherwise. It takes tremendous patience to look beyond [initial impressions](image.md).
 
-We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](culture.md) or [repelling](people-conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
+We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](culture.md) or [repelling](people-5_conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
 
 Good facts are often difficult to find. Usually, we must [purpose](purpose.md) ourselves to seek diligently for them, and they're typically not that useful by themselves.
 

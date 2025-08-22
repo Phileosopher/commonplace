@@ -10,7 +10,7 @@ Ideally, you should never have to brave it in the wild, and it's a bad idea to m
 
 However, sometimes the situation becomes dire, and you must venture into completely untamed land.
 
-Most of your survival will come through education, [creativity](mind-creativity.md), and experience, so try to find others you can [work with](people-conflicts.md) to dramatically increase your chances.
+Most of your survival will come through education, [creativity](mind-creativity.md), and experience, so try to find others you can [work with](people-5_conflicts.md) to dramatically increase your chances.
 
 If you can, bring a few critical lightweight multipurpose items:
 

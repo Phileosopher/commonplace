@@ -9,7 +9,7 @@ All the [image-crafting rules](jobs-3_image.md) apply, but CS has a few specific
 
 When it comes to discrimination, the tech industry has a few distinct differences than many other industries:
 
-- Age is a *much* more pronounced bigotry than in most other places in the world. The [obsession with new trends](https://trendless.tech/trends/) and the general reality that older people are more resistant to trendiness foster a cultural bias that slants toward younger people. It helps that younger people are also generally cheaper and don't tend to know [their rights](boundaries.md).
+- Age is a *much* more pronounced bigotry than in most other places in the world. The [obsession with new trends](https://trendless.tech/trends/) and the general reality that older people are more resistant to trendiness foster a cultural bias that slants toward younger people. It helps that younger people are also generally cheaper and don't tend to know [their rights](people-boundaries.md).
 - Many jobs are project/contract-based, and the constant turnover creates a widely shifting [culture](culture.md) relative to companies with longer-term roles.
 - Depending on the [political angle](leftism.md) of the company, you'll likely face discrimination if you are heterosexual, male, and white. You can usually sidestep this by labeling yourself trans/nonbinary/asexual or intentionally mixing up your pronouns.
 
@@ -111,7 +111,7 @@ Product Management
 Front-End Development
 
 - Design tools, but mixed with various [frameworks and libraries](programming-basics.md) to build (mostly) [websites](computers-webdev.md).
-- Coding mostly in HTML, CSS, and JavaScript, with something like Chrome Dev Tools for [debugging](/software-redesign/).
+- Coding mostly in HTML, CSS, and JavaScript, with something like Chrome Dev Tools for [debugging](computers-software-redesign.md).
 - [Version control](computers-software-versionctrl.md) via Git, likely through GitHub.
 - An [IDE](computers-software-ide.md) that varies on the company, but is typically software like VS Code, Atom, or Sublime (though you can often bring your own if you know how to set it up).
 

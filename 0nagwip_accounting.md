@@ -9,9 +9,9 @@ Understanding how accounting works allows you to understand where the transactio
 
 Accounting isn't strictly a discipline of math.
 
-- [Math](/math/) uses complex calculations, and accounting doesn't use anything above [algebra](/algebra/).
+- [Math](math.md) uses complex calculations, and accounting doesn't use anything above [algebra](math-algebra.md).
 - Accounting, does, however, use large *columns* of numbers.
-- In that sense, accountants create [databases](https://trendless.tech/database/) more than performing mathematical calculations.
+- In that sense, accountants create [databases](database.md) more than performing mathematical calculations.
 
 * * * * *
 
@@ -58,10 +58,10 @@ On the back-end, *all* accounting uses the double-entry accounting system.
 The essence of double entry is that absolutely *everything* must be rigorously organized and micromanaged.
 
 - Since all debit and credit transactions add up to zero, it's patently obvious at the transaction level when something is wrong.
-- Every single thing's philosophical status (i.e., its [purpose](https://gainedin.site/purpose/) or [essence](https://gainedin.site/values/)) is represented by an account.
+- Every single thing's philosophical status (i.e., its [purpose](purpose.md) or [essence](values.md)) is represented by an account.
 - Every time there's a change to that thing, it's affecting something else (i.e., a different account) and must be recorded as well.
   - If it's trading one "thing" for another "thing" (e.g., buying inventory), it's asset-with-asset.
-  - If it's trading a "thing" for a [future promise](/contracts/) (e.g., getting a loan) or fulfilling that promise, it's asset-with-liability.
+  - If it's trading a "thing" for a [future promise](people-contracts.md) (e.g., getting a loan) or fulfilling that promise, it's asset-with-liability.
   - If it's an account *outside* the organization (e.g., a bank account) it's reproduced precisely the same as an asset or liability.
   - If it's strictly conceptual (e.g., a donation or making money), it's an equity account (income if it makes more money and expense if it loses money).
 
@@ -69,14 +69,14 @@ The essence of double entry is that absolutely *everything* must be rigorously o
 
 Accountants live and die by Generally Accepted Accounting Principles (GAAP).
 
-- Any accountant who doesn't abide by GAAP is violating the [rules](https://gainedin.site/rules/) that govern *any* accounting, and is setting up their organization and themselves for a bad time in the future.
+- Any accountant who doesn't abide by GAAP is violating the [rules](rules.md) that govern *any* accounting, and is setting up their organization and themselves for a bad time in the future.
 - GAAP has 4 assumptions, 4 principles, and 4 constraints.
 
 Assumption 1 - Accounting Entity
 
-- The organization is [logically separate](https://gainedin.site/logic/) from its owners and other organizations.
+- The organization is [logically separate](logic.md) from its owners and other organizations.
 - As much as possible, revenue and expenses for the entity aren't affiliated with personal expenses.
-- Without it, the [boundaries](https://gainedin.site/boundaries/) between entities gets complicated or nonexistent and opens everything up to abuse and fraud.
+- Without it, the [boundaries](people-boundaries.md) between entities gets complicated or nonexistent and opens everything up to abuse and fraud.
 
 Assumption 2 - Going Concern/Continuity
 
@@ -86,7 +86,7 @@ Assumption 2 - Going Concern/Continuity
   - Short-term vs. long-term liabilities
   - Capital and revenue expenditures
   - The changes in value of an asset (Capitalization, Depreciation, and Amortization)
-- Without it, there will be no means of [projecting](https://gainedin.site/imagination/) what to do in the farther future.
+- Without it, there will be no means of [projecting](imagination.md) what to do in the farther future.
 
 Assumption 3 - Monetary Unit Principle
 
@@ -94,7 +94,7 @@ Assumption 3 - Monetary Unit Principle
   - The [FASB](http://www.fasb.org/) accepts the nominal value of the US Dollar, unadjusted for inflation.
 - That currency is as fixed as possible to accurately reflect value compared to everything else.
   - In other words, the USD is the standard of currency because everyone uses it as the standard of currency.
-  - Barring a major upset in the world [economic](https://gainedin.site/economics/) system (this was written in 2023) even other *currencies* are pegged to the dollar.
+  - Barring a major upset in the world [economic](economics.md) system (this was written in 2023) even other *currencies* are pegged to the dollar.
 - Without it, there's no clear, measurable [certainty](understanding-certainty.md) on the value of anything relative to other items or periods.
 
 Assumption 4 - Time-Period Principle
@@ -107,14 +107,14 @@ Assumption 4 - Time-Period Principle
 Principle 1 - Historical Cost Principle
 
 - The costs of most Assets and Liabilities must be based on how much they paid, and not fair market value.
-- While it conflicts with [marketing](/marketing/) (and [investors](/investing/), to an extent), it avoids [subjective](https://gainedin.site/image/) or [biased](https://gainedin.site/bias/) values based on [the market](https://gainedin.site/economics/).
-- This principle doesn't always apply: most [debts](https://adequate.life/money-2/) and [securities](/investing/) report at market values.
+- While it conflicts with [marketing](marketing.md) (and [investors](money-investing.md), to an extent), it avoids [subjective](image.md) or [biased](mind-bias.md) values based on [the market](economics.md).
+- This principle doesn't always apply: most [debts](money-2_debt.md) and [securities](money-investing.md) report at market values.
 - Without it, the value of things can be over-stated, meaning extreme dissatisfaction and potential complications later on when the value is more accurately determined (instead of simply dissatisfaction right now).
 
 Principle 2 - Revenue Recognition Principle
 
 - Organizations must either record when they receive revenue (Cash Basis) or when they earn it (Accrual Basis).
-- Most organizations, for various [legal](/legally-safe/) and [contractual](/contracts/) reasons, *can't* use a Cash Basis.
+- Most organizations, for various [legal](legal-safety.md) and [contractual](people-6_contracts.md) reasons, *can't* use a Cash Basis.
 - Without this distinction, the cash flow becomes hard to clearly track.
 
 Principle 3 - Matching Principle
@@ -129,7 +129,7 @@ Principle 4 - Full Disclosure Principle
 
 - Preparing and using information costs money, so analyzing the tradeoffs determines which information should be disclosed.
   - Accountants can store their information in the main body of financial statements, in the notes, or as supplementary information.
-- The disclosed information should provide enough knowledge for all organizational [decisions](https://gainedin.site/decisions/), but shouldn't become unreasonably expensive.
+- The disclosed information should provide enough knowledge for all organizational [decisions](decisions.md), but shouldn't become unreasonably expensive.
 - Without it, accountants would endlessly peruse the record keeping and drive a company out of business.
 
 Constraint 1 - Objectivity Principle
@@ -164,22 +164,22 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
      - Selling or returning a product.
      - Purchasing supplies.
      - Exchanging assets.
-     - Borrowing or paying off a [debt](https://adequate.life/money-2/).
+     - Borrowing or paying off a [debt](money-2_debt.md).
      - Depositing from or paying the organization's owners.
-     - Losses from natural disasters or theft, or collecting an [insurance payment](/insurance/).
-   - Cash basis looks only at events that have happened, while Accrual basis looks at [promises of events happening](/contracts/) as well.
-2. **Journal entries** - use [language](https://gainedin.site/language/) to articulate chronologically what happened.
+     - Losses from natural disasters or theft, or collecting an [insurance payment](insurance.md).
+   - Cash basis looks only at events that have happened, while Accrual basis looks at [promises of events happening](people-6_contracts.md) as well.
+2. **Journal entries** - use [language](language.md) to articulate chronologically what happened.
    - The first accounting documentation is in the journal.
    - Each journal entry always affects at least 2 accounts (as shown above).
 3. **Posting** - record the same information from the journals to the General Ledger.
-   - It's effectively the same information, but [classified](https://adequate.life/organization/) by account and without the [story](https://gainedin.site/stories/) of what happened.
+   - It's effectively the same information, but [classified](organization.md) by account and without the [story](stories.md) of what happened.
 4. **Trial balance** - calculate the total balances at the end of the period.
    - This is a redundant step that [ensures](understanding-certainty.md) the debits and credits are clearly balanced before moving forward.
 5. **Worksheet** - for any discrepancies in the trial balance, make corrections (adjustments) on a worksheet.
    - This step isn't necessary in a small cash-basis organization, but things rarely stay simple in a large organization.
    - Adjustments also account for one-time payments that affect multiple periods:
      - Depreciation divides out the deterioration of multi-year (long-term) assets.
-     - One-time payments for longer-term assets (e.g., [insurance](/insurance/)) are divided out to accurately match expenses with revenues.
+     - One-time payments for longer-term assets (e.g., [insurance](insurance.md)) are divided out to accurately match expenses with revenues.
    - At the end, take another trial balance to ensure the adjustments balance out the accounts.
 6. **Adjusting journal entries** - post any worksheet adjustments as journal entries to the affected accounts.
    - This step is the cumulative effort of the worksheet stage.
@@ -187,9 +187,9 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
 8. **Close the books** - zero out the revenue and expense accounts (as shown above).
    - This phase is also usually where stock dividends and other adjusting equity accounts are managed (more detail below).
 
-Now that [computers](http://trendless.tech) can error-check everything and fix errors automatically, the cycle isn't *completely* critical, but accountants like its redundancy because it gives more possibilities of catching errors.
+Now that [computers](computers.md) can error-check everything and fix errors automatically, the cycle isn't *completely* critical, but accountants like its redundancy because it gives more possibilities of catching errors.
 
-For the sake of convenience, accountants [organize](https://adequate.life/organization/) the accounts by numbering them with an approximate convention:
+For the sake of convenience, accountants [organize](organization.md) the accounts by numbering them with an approximate convention:
 
 - 1000-1999 Asset accounts
 - 2000-2999 Liability accounts
@@ -211,7 +211,7 @@ Four major reports are *very* commonplace.
 
 The **Income Statement** shows financial performance over time.
 
-- They're the most important because they most significantly reflect [performance](https://gainedin.site/results/).
+- They're the most important because they most significantly reflect [performance](mind-creativity-results.md).
 - At the beginning of the period, the Income Statement balance is zero.
   - Every cycle, the books close and set the balance back to zero.
 - Revenue - Expenses = Income (i.e., Profit or Loss)
@@ -230,13 +230,13 @@ The **Statement of Cash Flows** shows how money flows in and out of various acti
 - There are 3 major activity groups:
   1. Operating activities - keeps the organization going.
   2. Investing activities - manages assets to keep operating activities going.
-  3. Financing activities - expands and grows the organization through loans, others' [investments](/investing/), or donations.
+  3. Financing activities - expands and grows the organization through loans, others' [investments](money-investing.md), or donations.
 - Without computer assistance, Cash Flow Statements are tedious to generate.
 
 The **Statement of Changes in Equity** shows the changes in equity across a period.
 
 - Equity is the organization's net worth, *not* its actual value.
-- Statement of Changes in Equity isn't very useful for internal decisions *nearly* as much as for [investors](/investing/), so it's usually not bundled with the other three.
+- Statement of Changes in Equity isn't very useful for internal decisions *nearly* as much as for [investors](money-investing.md), so it's usually not bundled with the other three.
 
 The statements could best be described by comparing the organization to a fruit-bearing tree:
 
@@ -249,17 +249,17 @@ The statements could best be described by comparing the organization to a fruit-
 
 Typically, the reports are often bundled together into an Annual Report.
 
-- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](https://gainedin.site/imagination/).
+- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](imagination.md).
 
-Most [managerial](/mgmt/) accounting involves creating specialized reports to fit the needs of the people who influence a large company.
+Most [managerial](mgmt-1_why.md) accounting involves creating specialized reports to fit the needs of the people who influence a large company.
 
-- To create the reports, most of the data on graphs is smoothed out to show lines that indicate [a trend](https://gainedin.site/trends/) instead of jagged points.
+- To create the reports, most of the data on graphs is smoothed out to show lines that indicate [a trend](trends.md) instead of jagged points.
 
 Some financial statements are required by the Securities and Exchange Commission (SEC) to more clearly clarify equity-based information for owners:
 
 - Proxy Statements help shareholders make informed decisions about matters that will be addressed at a stockholder meeting.
 - Prospectus provide details about an investment's offering (i.e., stocks, bonds, mutual funds) to the public.
-- A Confirmation indicates a legally affirmed indication of a completed [trade](/contracts/).
+- A Confirmation indicates a legally affirmed indication of a completed [trade](people-6_contracts.md).
 
 Even when a company is liquidated or merged into another company, the financials must still reflect those periods of time and what happened.
 
@@ -288,13 +288,13 @@ Throughout the record keeping, accountants often plug small numbers to correct r
 
 - While some accountants can become insanely petty over a $0.01 discrepancy, it's often caused by a typographical error.
 
-[Finding errors](/fix/) is a *massive* part of the labor that goes into accounting:
+[Finding errors](fix.md) is a *massive* part of the labor that goes into accounting:
 
 - Errors of omission mean it wasn't entered at all.
 - Entry reversal swaps a credit entry with a debit.
 - Transposition errors swap digits inside numbers (meaning the discrepant amount can be divided by 9).
 - Rounding errors adapt the number to an approximate value, and can create a snowball effect later (e.g., 2.9 becomes 3).
-  - The [two-based number system](https://trendless.tech/math/) of computers means computer-based accounting is *always* at risk of rounding errors.
+  - The [two-based number system](math-cs.md) of computers means computer-based accounting is *always* at risk of rounding errors.
 - Errors of commission mean it was entered correctly to the correct account, but the value is wrong (e.g., applied payment to the wrong invoice).
 - Error of principle (aka "input error") means it doesn't conform to GAAP.
 
@@ -311,8 +311,8 @@ There are some ways to make error-searching easier:
 
 All assets can be classified as tangible or intangible assets.
 
-- Tangible assets are things you can point at (e.g., an [auto](/autos/) or building).
-- Intangible assets are conceptual ideas that still have value (e.g., [intellectual property](/ip/), [insurance](/insurance/)).
+- Tangible assets are things you can point at (e.g., an [auto](autos.md) or building).
+- Intangible assets are conceptual ideas that still have value (e.g., [intellectual property](legal-ip.md), [insurance](insurance.md)).
 
 They can also be current or non-current.
 
@@ -327,11 +327,11 @@ They can also be current or non-current.
   - Land
   - Buildings
   - Machinery
-  - [Vehicles](/autos/)
+  - [Vehicles](autos.md)
 - Contingent assets are *likely* future assets, such as accounts receivable.
   - A debt is certain, but collecting a debt isn't, so contingent assets are more scrutinized than contingent liabilities.
 
-A circulating asset is what most people think of when they imagine "[business](/business/)":
+A circulating asset is what most people think of when they imagine "[business](business.md)":
 
 1. Convert cash to goods (e.g., manufacturing materials, inventory).
 2. Do something with the goods.
@@ -348,14 +348,14 @@ The point of sale is the location where a transaction occurs, and accounting tre
 Whenever there's cash on hand, there *will* be errors.
 
 - If there aren't any errors *at all*, it's likely the workers are being *very* particular about keeping records because they're trying to steal from the company.
-- The best way to address the problem is to make sure via [company policy](https://notageni.us/mgmt-communication/) that the errors are the safest *type* of error (e.g., collected cash but didn't record it).
+- The best way to address the problem is to make sure via [company policy](mgmt-5_communication.md) that the errors are the safest *type* of error (e.g., collected cash but didn't record it).
 
 ### Accounts receivable (A/R)
 
 While the customer needs grace to work with their finances, managing A/R is absolutely critical to maintain cash flows, and some things are still "receivable" even when the company only uses cash receipts:
 
 - Bills sent for rendered services.
-- Outstanding [loans](https://adequate.life/money-2/) which need to be paid by other entities.
+- Outstanding [loans](money-2_debt.md) which need to be paid by other entities.
 - Written arrears for clients/customers to make future payments.
 
 A/R uses some shorthand terms when invoicing for specific, common arrangements:
@@ -373,7 +373,7 @@ A/R uses some shorthand terms when invoicing for specific, common arrangements:
 
 People sometimes don't pay their bills, so organizations need a procedure for managing them:
 
-1. Before it happens, the [contract](/contracts/) should *clearly* indicate late fees and the consequences for what should happen.
+1. Before it happens, the [contract](people-6_contracts.md) should *clearly* indicate late fees and the consequences for what should happen.
 2. Try to contact them about the unpaid debt.
 3. Write off the debt as Bad Debt Expense.
 4. Make a record to prevent them from abuse the situation again.
@@ -418,7 +418,7 @@ While accountants typically only amortize on a straight-line basis (the first ex
 
 While *every* long-term asset could technically be depreciated, many items are simply easier to expense for tax reasons than bother with depreciating (e.g., brooms, computers, etc.).
 
-Typically, the amortization of a loan is from how the *bank* sees it, since [debt payments](https://adequate.life/money-2/) are accounts receivable to them.
+Typically, the amortization of a loan is from how the *bank* sees it, since [debt payments](money-2_debt.md) are accounts receivable to them.
 
 ### Inventory tracking
 
@@ -438,15 +438,15 @@ Manufacturing plants have extra categories of each inventory item:
 Inventory shrinkage is when inventory is gone, but was *not* sold.
 
 - Theft is the most likely way inventory goes missing, with damage being a close second likelihood.
-  - Theft is very difficult to manage and requires a combination of [good hiring practices](https://notageni.us/mgmt-teams/), locks, and security cameras.
+  - Theft is very difficult to manage and requires a combination of [good hiring practices](mgmt-3_teams.md), locks, and security cameras.
 - Inventory obsolescence is when it can't be sold anymore (e.g., out-of-style clothing, rotten food).
 
 One specific way to track the health of a business is through the inventory turnover rate.
 
 - Tracking the time between each individual item being bought and sold (or at least an average across products) can detect issues with inventory.
 - If it's too high, shrink is almost guaranteed, meaning the company will lose assets.
-- If it's too low, *any* [logistical bump](/logistics/) could disrupt timely delivery, meaning the company will lose [clientele](/marketing/).
-- The easiest (and most intensive) way to track inventory is to use a perpetual inventory system that updates on *every* transaction (which typically needs [computers with scanners](http://trendless.tech/handwriting-ocr/) to assist).
+- If it's too low, *any* [logistical bump](logistics.md) could disrupt timely delivery, meaning the company will lose [clientele](marketing.md).
+- The easiest (and most intensive) way to track inventory is to use a perpetual inventory system that updates on *every* transaction (which typically needs [computers with scanners](computers-ocr.md) to assist).
 
 * * * * *
 
@@ -478,20 +478,20 @@ Any money that needs to be put aside for a future liability is an encumbrance or
 - Sometimes, the money can go into a sinking fund to repay a debt or replace a wasting asset.
 - The amount of unsecured debt a company owes if it's liquidated is its subordinated debt.
 
-A [loan](https://adequate.life/money-2/) can be compound or simple interest:
+A [loan](money-2_debt.md) can be compound or simple interest:
 
 - Simple interest loans charge periodic interest on the principal (e.g., an unpaid 3% on $100 is $103 on Month 1, $106 on Month 2, $109 on Month 3).
 - A compound interest loan charges interest on the principal *and* interest (e.g., an unpaid 3% on $100 is $103 on Month 1, $106.09 on Month 2, $109.27 on Month 3).
-- Compound interest is subtle, but over time it creates exponential (and [some would say extortionate](https://adequate.life/money-2/)) costs on unpaid debts.
+- Compound interest is subtle, but over time it creates exponential (and [some would say extortionate](money-2_debt.md)) costs on unpaid debts.
 
 ### Accounts payable (A/P)
 
 Even if an organization stays *very* diligent to paying all its bills, an organization will always have some form of owed payments that are "payable" to other entities:
 
-- [Payroll](/business/) (the most common)
-  - Alongside payroll, there's also withholding for tax and benefits (e.g., health [insurance](/insurance/))
+- [Payroll](business.md) (the most common)
+  - Alongside payroll, there's also withholding for tax and benefits (e.g., health [insurance](insurance.md))
   - For convenient payroll calculations, 3 minutes is equal to 0.05 hours
-- Outstanding [loan](https://adequate.life/money-2/) principal or interest to be paid to other entities.
+- Outstanding [loan](money-2_debt.md) principal or interest to be paid to other entities.
 - Subscriptions which expect payment *after* delivery.
 - Trade Payable, which is when a vendor has given goods or services but hasn't been paid yet.
 
@@ -499,7 +499,7 @@ Often, not tracking liabilities can cause loans to go into default and further t
 
 Sometimes, charges need to be reversed, usually for defective goods or poor service.
 
-- The [Visa/Mastercard](https://gainedin.site/country/) duopoly means many payments have guaranteed transaction fees.
+- The [Visa/Mastercard](politics-monopolies.md) duopoly means many payments have guaranteed transaction fees.
 - A chargeback is reversing the payment, which may still incur transaction fees.
 - Rebates give a partial refund for services that were overpaid or partly used and then canceled.
 - Credit notes cancel a customer's debt.
@@ -507,13 +507,13 @@ Sometimes, charges need to be reversed, usually for defective goods or poor serv
 Debts can be secured (with some form of collateral) or unsecured (with a promise and wishful thinking).
 
 - Unsecured debt is essentially impossible for the lienholder to ensure it will be paid.
-- While most secured debt is against the object in question (e.g., an [automotive](/autos/) for an auto loan), it can be collateralized on essentially anything the lienholder will [agree to](/contracts/), typically with a refinancing agreement.
+- While most secured debt is against the object in question (e.g., an [automotive](autos.md) for an auto loan), it can be collateralized on essentially anything the lienholder will [agree to](people-6_contracts.md), typically with a refinancing agreement.
 
 ### Bonds
 
 While anyone can borrow money from a bank, sometimes a company does *not* want to use a bank, so they'll issue bonds instead.
 
-- A bond is a specific [debt instrument](https://adequate.life/money-2/) that allows large organizations like governments and corporations to borrow a *lot* of money from many people.
+- A bond is a specific [debt instrument](money-2_debt.md) that allows large organizations like governments and corporations to borrow a *lot* of money from many people.
 
 In its most straightforward use, a bond's structure is relatively straightforward to understand:
 
@@ -526,13 +526,13 @@ In its most straightforward use, a bond's structure is relatively straightforwar
 This gets *much* more complex, though:
 
 - Some bonds are callable *before* the maturity date. In that situation, the yield-to-call will be lower than the yield-to-maturity (e.g., 1.7% instead of 4%).
-- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](https://gainedin.site/economics/) for the bond, as well as the [reputation](https://gainedin.site/image/) of the organization.
+- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](economics.md) for the bond, as well as the [reputation](image.md) of the organization.
 - The organization can use a coupon rate, which is where the organization pays a set percentage of interest every year (e.g., a 4% coupon rate on $1,000 pays $40 a year).
 - If the coupon rate is the same as the yield rate, the organization will simply pay back the original amount when it's called.
 
 Like any other debt obligation, bonds can be secured or unsecured:
 
-- Secured bonds collateralize an asset. A mortgage-backed security (MBS), for example, will collateralize the title of the borrower's [home](/homes/).
+- Secured bonds collateralize an asset. A mortgage-backed security (MBS), for example, will collateralize the title of the borrower's [home](home-buysell.md).
 - Unsecured bonds by companies are called debentures. In the event of a liquidation, unsecured creditors will only get whatever assets are left over *after* the secured investors.
 
 Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, and long-term are over an even longer period of time.
@@ -543,14 +543,14 @@ Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, an
 
 Assets deals with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
 
-- Since [investors](/investing/) often make [decisions](https://gainedin.site/decisions/) from [optics](https://gainedin.site/image/) (or are taken in by [fashions](https://gainedin.site/trends/) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
+- Since [investors](money-investing.md) often make [decisions](decisions.md) from [optics](image.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
 - The only 2 ways to increase profits are to increase revenues or decrease expenses.
 
 There are a few forms a business can take. They are either taxed *before* the owner receives money, or it's pass-through to the owners:
 
 - A sole proprietorship is a person's individual business (pass-through).
 - A partnership is the shared business of several individuals (pass-through).
-- A Limited Liability Company or Limited Liability Partnership (LLC/LTD or LLP) is a legal (not accounting) demarcation to protect the business owners from [liability](/legally-safe/).
+- A Limited Liability Company or Limited Liability Partnership (LLC/LTD or LLP) is a legal (not accounting) demarcation to protect the business owners from [liability](legal-safety.md).
 - A corporation is a living, separate legal entity that's incorporated on a specific date, and comes in a few forms:
   - A C corporation can be publicly traded (*not* pass-through).
   - An S corporation has many more filing requirements and can't be publicly traded (pass-through).
@@ -563,15 +563,15 @@ A company can also perform a share repurchase, where it buys back the shareholde
 
 A company that succeeds in an accounting period will have money left over, and it has several options:
 
-1. Save it as Retained Earnings, typically by placing it in a reserve account (i.e., make a [self-insurance](/insurance/) policy).
+1. Save it as Retained Earnings, typically by placing it in a reserve account (i.e., make a [self-insurance](insurance.md) policy).
    - It's taxable, but reinforces Operating activity.
    - A not-for-profit organization can't technically make a profit.
 2. Reinvest the money into more assets (e.g., buy new equipment).
    - Often *not* taxable, and can be an Investing activity.
 3. Pay down liabilities.
-   - Not taxable, like a Financing activity, but boring to [executives](/mgmt/).
-4. Use the money as [collateral](https://adequate.life/money-2/) to get *more* liabilities.
-   - Not taxable, a direct Financing activity, but exposes more [risk](/risk-mgmt/) to the company.
+   - Not taxable, like a Financing activity, but boring to [executives](mgmt-1_why.md).
+4. Use the money as [collateral](money-2_debt.md) to get *more* liabilities.
+   - Not taxable, a direct Financing activity, but exposes more [risk](safety-riskmgmt.md) to the company.
 5. Send the money out as Owner's Draw (to the owner) or Dividends (to the shareholder).
    - Taxable, and lowers the company's net worth, but is how people who own the company get paid.
 
@@ -605,7 +605,7 @@ If the organization isn't owned by a singular entity, the owners each own a perc
 - The company's stock is a fractional "sharing" of that company.
   - Preferred stock is paid dividends first and has priority with company assets (e.g., with a liquidation), but the shareholders don't have voting rights.
   - Common stock is secondary on dividends and receiving assets, but shareholders have voting rights.
-- The rights to [manage the organization](/mgmt/) are often *not* evenly matched with the income they'd receive (e.g., board members can't own common stock).
+- The rights to [manage the organization](mgmt-1_why.md) are often *not* evenly matched with the income they'd receive (e.g., board members can't own common stock).
 
 Often, the language of the corporate bylaws dictate how stakeholders can be paid.
 
@@ -616,11 +616,11 @@ Often, the language of the corporate bylaws dictate how stakeholders can be paid
 A stock split divides the shares evenly (e.g., 2:1 or 3:1).
 
 - This means every shareholder has twice or thrice the shares, at 1/2 or 1/3 the value.
-- Nothing technically "changes", but our [bias](https://gainedin.site/bias/) means it can influence people to buy more stock.
+- Nothing technically "changes", but our [bias](mind-bias.md) means it can influence people to buy more stock.
 
 For various reasons that affect equity, a business can be carved out into different domains:
 
-- Some portions of a business are cost centers (often e.g., accounting, [IT](http://trendless.tech)) and others are profit centers (e.g., sales, [marketing](/marketing/)).
+- Some portions of a business are cost centers (often e.g., accounting, [IT](computers.md)) and others are profit centers (e.g., sales, [marketing](marketing.md)).
 - Segment reporting divides out various divisions of a business to create specialized reports.
 
 While a dividend is considered income that goes to the shareholders, a share repurchase/buyback is considered an expense.
@@ -630,13 +630,13 @@ While a dividend is considered income that goes to the shareholders, a share rep
 The nominal value of a share, when it's first issued, establishes its initial public offering (IPO).
 
 - That IPO value *will* move around (meaning its value isn't *that* utterly important, but it generally represents a dramatic shift in the way a company operates and indicates the first time the public can purchase it.
-- The listing requirements for IPOs are a [legal domain](/legal-dictionary/) that falls *way* outside the range of accounting.
+- The listing requirements for IPOs are a [legal domain](glossary-legal.md) that falls *way* outside the range of accounting.
 
 ### Stock markets
 
 The complexity of stock markets comes through a proliferation of third parties.
 
-- Market makers are individuals or entities that arrange [two-sided transactions](/contracts/) to buy or sell securities and make a profit between the bid (buying) and ask (selling) price.
+- Market makers are individuals or entities that arrange [two-sided transactions](people-6_contracts.md) to buy or sell securities and make a profit between the bid (buying) and ask (selling) price.
 - The National Best Bid and Offer (NBBO) represents the highest bid and lowest ask for a security, making it the tightest bid-ask spread.
 - Payment for Order Flow (PFOF) is a small commission the market makers make when
 
@@ -648,14 +648,14 @@ Typically, valuations take more work than most standard accounting activities, s
 
 - The measurement will be very specific when investors, governments, or equity-holders want to see it.
 
-[Estimations](https://gainedin.site/imagination/) and [reality](https://gainedin.site/reality/) don't always match, and variance is the difference between them.
+[Estimations](imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
 
 The book value is the lesser of the original cost paid for the asset (historical value) and its current value (fair market value).
 
 - Sometimes, a buyer can pay a premium on top of the advertised price.
 - Other times, the asset can be discounted.
 
-Cost-based pricing determines the price of the sold good on how much it costs to manufacture, *not* on [marketing](/marketing/).
+Cost-based pricing determines the price of the sold good on how much it costs to manufacture, *not* on [marketing](marketing.md).
 
 - Typically, a highly competitive market *requires* cost-based pricing, and increasing profits involves cutting costs while maintaining the product's quality.
 
@@ -675,7 +675,7 @@ The discrepancy between the appraised net worth and publicly interpreted value b
 
 There are *tons* of ratios, which take several numbers to create a third number.
 
-- Most of the ratios can be useful to determine the health of an organization, barring [Goodhart's Law](https://gainedin.site/laws-axioms/).
+- Most of the ratios can be useful to determine the health of an organization, barring [Goodhart's Law](lawsaxioms.md).
 - Numerous ratios serve as key performance indicators, and new ones are constantly arising.
 
 Ratios which measure profitability:
@@ -717,14 +717,14 @@ Ratios for multiple owners' return on their investment:
 
 Besides the owners, the singular most universal interested party in an organization is the government of that region.
 
-- For that reason, accountants spend a *lot* of time understanding the relevant tax code for their [specialization](https://gainedin.site/specialization-cities/).
+- For that reason, accountants spend a *lot* of time understanding the relevant tax code for their [specialization](jobs-specialization.md).
 - If you need one, a good tax accountant is typically worth what they're paid, but a bad one will likely cost more than what you'll save.
 
 Unlike most other aspects of accounting, tax accounting can't be dogmatic to the point of perfectionism.
 
 - An item may sometimes be expensed entirely, or it might be depreciated as a long-term asset.
 - Expense categories may vary depending on what an accountant can justify to a tax auditor.
-- Equity has *many* variations within tax law, meaning it works like any other form of law (i.e., [persuasion](https://gainedin.site/influence/) through [logic](https://gainedin.site/logic/)).
+- Equity has *many* variations within tax law, meaning it works like any other form of law (i.e., [persuasion](power-influence.md) through [logic](logic.md)).
 - The only requirement is that whatever the accountant is doing stays consistent across periods.
 
 Most people do *not* need a tax accountant to file their taxes.
@@ -735,9 +735,9 @@ Most people do *not* need a tax accountant to file their taxes.
   - Interest income (1099-INT)
   - Dividend income (1099-DIV)
 - However, if your situation is *any* more complex, hiring an accountant is almost essential:
-  - Complexities involving trusts (e.g., corporations) or [inheritance](https://adequate.life/death/).
-  - Cryptocurrencies, foreign income or any other semi-regulated or unregulated [investments](/investing/).
-  - You [run your own business](/entrepreneur/).
+  - Complexities involving trusts (e.g., corporations) or [inheritance](hardship-death.md).
+  - Cryptocurrencies, foreign income or any other semi-regulated or unregulated [investments](money-investing.md).
+  - You [run your own business](entrepreneur-1_why.md).
 
 ### Property taxes
 
@@ -749,7 +749,7 @@ Realty - buildings or land
 
 Land value tax (LVT) - tax on the market value of the land itself
 
-Non-realty (personalty) - jewelry, cars, business or [intellectual property](/ip/)
+Non-realty (personalty) - jewelry, cars, business or [intellectual property](legal-ip.md)
 
 ### Transaction taxes
 
@@ -772,14 +772,14 @@ Value-added tax
 
 Gift tax
 
-Taxes on transfers at [death](https://adequate.life/death/)
+Taxes on transfers at [death](hardship-death.md)
 
 - Estate tax is set against the estate of the deceased.
 - Inheritance tax is set against the recipient.
 
 ### Employment taxes
 
-Except for [self-employment](/entrepreneur/), most employment taxes are pulled out of someone's paycheck automatically and filed quarterly with the government:
+Except for [self-employment](entrepreneur-1_why.md), most employment taxes are pulled out of someone's paycheck automatically and filed quarterly with the government:
 
 - Social Security
 - Medicare
@@ -824,7 +824,7 @@ Certain situations can increase the likelihood of a tax audit:
 
 Many, *many* business expenses can deduct from taxable income:
 
-- [Advertising/promotion](/marketing/)
+- [Advertising/promotion](marketing.md)
 - Alimony-related legal fees
 - Automobile and transportation expenses
 - Bank charges
@@ -838,7 +838,7 @@ Many, *many* business expenses can deduct from taxable income:
 - Factory expenses
 - Gifts (to an extent)
 - Home office
-- [Insurance](/insurance/)
+- [Insurance](insurance.md)
 - Interest paid
 - Internet domain names and hosting
 - Job search expenses
@@ -846,7 +846,7 @@ Many, *many* business expenses can deduct from taxable income:
 - Licenses
 - Maintenance and repairs
 - Meals and entertainment (somewhat)
-- [Moving](https://adequate.life/moving/) expenses
+- [Moving](home-moving.md) expenses
 - Office expenses and supplies
 - Payroll, contract labor, and consulting
 - Postage
@@ -870,7 +870,7 @@ Many, *many* business expenses can deduct from taxable income:
 Though it's sometimes more complex, other write-offs and write-downs can offset tax expense as long as they're in the same tax year:
 
 - Depreciation on assets
-- Amortization or expiration of [intellectual property](/ip/)
+- Amortization or expiration of [intellectual property](legal-ip.md)
 - Bad debt
 - Charitable contributions
 - College or trade school
@@ -882,13 +882,13 @@ Though it's sometimes more complex, other write-offs and write-downs can offset 
 - Reinvested dividends
 - Renewable energy credits
 
-The US income tax code is configured to [socially engineer](https://gainedin.site/rules/) a specific set of lifestyles:
+The US income tax code is configured to [socially engineer](rules.md) a specific set of lifestyles:
 
-- [Employees](https://adequate.life/jobs-1/) > [Entrepreneurs](/entrepreneur/)
-- [Teachers](https://gainedin.site/pedagogy/) > other [careers](https://gainedin.site/specialization-cities/)
-- Going to [college](https://adequate.life/college/) > skilled trade
-- Maxing out [retirement account](/investing/) contributions
-- [Parents](https://adequate.life/parenting-1/) of 2-3 children who stay home and go to college
+- [Employees](jobs-1_why.md) > [Entrepreneurs](entrepreneur-1_why.md)
+- [Teachers](pedagogy.md) > other [careers](jobs-specialization.md)
+- Going to [college](jobs-college.md) > skilled trade
+- Maxing out [retirement account](money-investing.md) contributions
+- [Parents](parenting-1_babies.md) of 2-3 children who stay home and go to college
 
 ### Other taxes
 
@@ -900,7 +900,7 @@ Government customs taxes set on foreign goods:
 
 Franchise tax is set against corporations.
 
-Occupational fees are set as [trade-related](https://gainedin.site/specialization-cities/) requirements.
+Occupational fees are set as [trade-related](jobs-specialization.md) requirements.
 
 Carbon taxes are against productive activities that generate carbon.
 
@@ -914,8 +914,8 @@ Any tax payment is a completely sunk cost, so anyone who can explore tax advanta
 
 Increasing expense (and therefore reducing income) is the easiest approach to save on taxes.
 
-- Substitute salary for [stock options](/investing/).
-- Donate to charitable corporations (which may include [political parties](https://gainedin.site/conservative-liberal/)).
+- Substitute salary for [stock options](money-investing.md).
+- Donate to charitable corporations (which may include [political parties](politics-conservativeliberal.md)).
 
 Tax shelters are government-approved domains that protect from taxation:
 
@@ -937,13 +937,13 @@ Tax treatments aren't technically "accounts", they earmark assets to specify uni
      - If the options are limited, look beyond that plan for your investing needs (such as an IRA).
      - If the match is very low (such as 1%), its fees may make it an unwise investment.
      - If the company doesn't match the contribution, use an IRA instead to save on fees.
-   - When [leaving a company](https://adequate.life/jobs-6/) with a 401(k), always perform a rollover into an IRA.
+   - When [leaving a company](jobs-6_negotiating.md) with a 401(k), always perform a rollover into an IRA.
      - Taking the money home will tax it when you cash the check.
      - Your choices are limited if you roll it into *another* 401(k).
      - Calculate if it's worth converting to a Roth IRA.
    - A 457 is similar to a 401(k), but for government and certain non-government entities.
    - IRAs (Individual Retirement Arrangements) are a tax treatment that can apply to nearly any type of investment.
-     - They have a bit more range of investment vehicles for [investing](/investing/) than other arrangements what you can invest into.
+     - They have a bit more range of investment vehicles for [investing](money-investing.md) than other arrangements what you can invest into.
      - If you have an earned income, you can have an IRA.
      - SIMPLE IRAs are funded mostly by an employer.
      - SEP IRA plans (Simplified Employee Pension) can be set up with any business, even self-employed.
@@ -952,7 +952,7 @@ Tax treatments aren't technically "accounts", they earmark assets to specify uni
 3. After-tax treatments:
    - Taxing the investment beforehand means the returns aren't taxed (e.g., Roth IRAs, Roth 401(k)).
    - This is ideal if you're making less than when you'll retire.
-   - If a [parent](https://adequate.life/parenting-2/), consider the Coverdell Education Savings Account (ESA).
+   - If a [parent](parenting-2_children.md), consider the Coverdell Education Savings Account (ESA).
      - As long as the money pays for college or education-related expenses, withdrawals don't have any tax liability.
      - Never buy an ESA that freezes options or automatically changes the investment from the age of the child.
 
@@ -967,8 +967,8 @@ One simple method is to geographically route business activities to the most tax
 
 Many governments provide capital allowances and tax credits for specific activities.
 
-- Specific, [fashionable](https://gainedin.site/trends/) industries and activities tend to receive tax credits.
-- Lately, [energy-efficient and "green" activities](https://gainedin.site/sustainability/) have received plenty of government grants and advantages.
+- Specific, [fashionable](trends.md) industries and activities tend to receive tax credits.
+- Lately, [energy-efficient and "green" activities](leftism-sustainability.md) have received plenty of government grants and advantages.
 
 If an organization is savvy enough and has enough startup costs, they can create a not-for-profit charitable organization with a board run by hand-picked people loyal to their founding organization's leadership.
 
@@ -1044,7 +1044,7 @@ Auditors, like claims adjusters, do *not* believe in mere coincidences, and they
 - Unqualified opinions indicate that the information is sound.
 - Qualified opinions indicate they have a "qualification" that demonstrates a problem with the information.
 
-There are also specific audits for [ESG](https://gainedin.site/leftism/) and [cryptocurrency](https://trendless.tech/blockchain/), but they're new enough [trends](https://gainedin.site/trends/) that there's not as much precedent as a standard audit.
+There are also specific audits for [ESG](leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](trends.md) that there's not as much precedent as a standard audit.
 
 * * * * *
 
@@ -1062,7 +1062,7 @@ When a company is purchased, the relationship between the entities gets complica
 - A consolidation combines all of a subsidiary company's accounts into a parent company, and shares being exchanged in a stock-for-stock merger.
 - Consolidated financial statements track *all* activities of a parent company, along with its subsidiaries.
 
-Most of the issues tie into [conflicts](https://gainedin.site/conflicts/) about company valuations, along with the [rights and privileges](https://gainedin.site/boundaries/) that naturally emanate from the forms of the final business entities from the procedure.
+Most of the issues tie into [conflicts](people-conflicts.md) about company valuations, along with the [rights and privileges](people-boundaries.md) that naturally emanate from the forms of the final business entities from the procedure.
 
 Beyond the value of an asset (which may have [sentimental value](mind-feelings.md) for some investors), there's a Total Cost of Ownership (TCO) that diminishes the simple value of something:
 
@@ -1071,7 +1071,7 @@ Beyond the value of an asset (which may have [sentimental value](mind-feelings.m
 - Transition costs
 - Employee training
 - Security costs
-- [Disaster recovery planning](/risk-mgmt/)
+- [Disaster recovery planning](safety-riskmgmt.md)
 - Ongoing support costs
 - Necessary future upgrades
 
@@ -1085,8 +1085,8 @@ An IPO is pricier and more complicated compared to a merger/acquisition, so a re
 2. After the first accounting period or tax year, the company purchases other companies.
    - Those other companies were privately held, but are now part of a mega-merger with other companies.
 3. After a few purchases of those other companies, the corporation operates like any other corporation.
-   - The legitimate value of the SPAC is based on the performance of those other companies, give or take how well they were [managed](/mgmt/) during the entire time up to that point.
-   - SPACs are particularly popular among industries that lean heavily into [intellectual property](/ip/), such as [software](http://trendless.tech) or pharmaceuticals.
+   - The legitimate value of the SPAC is based on the performance of those other companies, give or take how well they were [managed](mgmt-1_why.md) during the entire time up to that point.
+   - SPACs are particularly popular among industries that lean heavily into [intellectual property](legal-ip.md), such as [software](computers-software-design.md) or pharmaceuticals.
 
 * * * * *
 
@@ -1094,9 +1094,9 @@ An IPO is pricier and more complicated compared to a merger/acquisition, so a re
 
 A company can sometimes become too large. At that point, it may need to break up:
 
-- The company has too much [bad publicity](https://gainedin.site/image/) and needs a [new brand](/marketing/).
-- The leadership had a [difference of opinion](https://gainedin.site/conflicts), and they agree to segment the company internally into several subsidiaries.
-- A government considers them too large as a [monopoly](https://gainedin.site/country/), and uses [laws](https://gainedin.site/rules/) to break them apart.
+- The company has too much [bad publicity](image.md) and needs a [new brand](marketing.md).
+- The leadership had a [difference of opinion](people-conflicts.md), and they agree to segment the company internally into several subsidiaries.
+- A government considers them too large as a [monopoly](politics-monopolies.md), and uses [laws](rules.md) to break them apart.
 
 However it happens, the accounting typically records the information as at least a partial liquidation of the original entity, then the formation of a new entity.
 
@@ -1118,12 +1118,12 @@ Using shell companies offloads expenses or revenue onto subsidiary companies.
 - The concept is relatively simple:
   1. Create a subsidiary organization.
   2. Pass on all expenses to that organization.
-  3. The publicly traded entity will make obscene profit, creating an [investing](/investing/) boom (e.g., Enron).
+  3. The publicly traded entity will make obscene profit, creating an [investing](money-investing.md) boom (e.g., Enron).
 - This can also be reversed to avoid taxation, with shell companies in more tax-favored situations receiving the revenues.
 
-In [unregulated](https://gainedin.site/rules/) [cryptocurrency](https://trendless.tech/blockchain/), traders can use wash trading (inspired by wash subscribing in [marketing](/marketing/)) to magnify the value of their assets:
+In [unregulated](rules.md) [cryptocurrency](computers-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
 
 1. Make a cryptocurrency that mines across at least a few servers.
-2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](https://gainedin.site/trends/).
-3. [Advertise](/marketing/) to as many people as possible that your cryptocurrency is wildly popular.
+2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](trends.md).
+3. [Advertise](marketing.md) to as many people as possible that your cryptocurrency is wildly popular.
 4. If you can acquire enough actual users, you've created a legitimately popular cryptocurrency and can sell your assets for actual cash.

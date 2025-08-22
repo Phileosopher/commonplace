@@ -10,15 +10,15 @@ Unless you're desperate, *never* take a job offer as soon as they give it:
 - It's far better to keep [hunting](jobs-5_interview.md) than settle against your principles.
   - If you've spent months looking for a job without getting what you want, you may need to rethink your principles!
 - Accepting a job offer immediately makes you look desperate.
-- Research industry-standard salary and benefits information for at least a day before [negotiating](people-conflicts.md) with a potential employer.
+- Research industry-standard salary and benefits information for at least a day before [negotiating](people-5_conflicts.md) with a potential employer.
   - Research salary surveys and salary guides, and consider the geographic area.
   - Depending on how much responsibility you want, lower pay might be worth the [unrelated work activities](fun.md) or career-advancing skills you can pick up.
 
-Even if you plan to take the job, it's a good idea to give at least half a day to think about it before signing the [contract](contracts.md), just to be sure it's a wise decision.
+Even if you plan to take the job, it's a good idea to give at least half a day to think about it before signing the [contract](people-contracts.md), just to be sure it's a wise decision.
 
 If you have any plans (e.g., a large [vacation](fun-vacations.md) a few months in the future), tell them when they give you the job offer.
 
-Make sure you know what you sign, since quickly signing without reviewing the paperwork can [legally destroy you](legal-safety.md) later, and many hidden clauses in a [contract](contracts.md) may follow you *years* later (e.g., noncompete agreements).
+Make sure you know what you sign, since quickly signing without reviewing the paperwork can [legally destroy you](legal-safety.md) later, and many hidden clauses in a [contract](people-contracts.md) may follow you *years* later (e.g., noncompete agreements).
 
 ## Never take a job when you see warning signs
 
@@ -180,7 +180,7 @@ Try to sweeten the deal with other relevant skills you can add to the job:
 
 Get any employment agreement in writing:
 
-- An [employment agreement](contracts.md) prevents misunderstanding and [legally protects everyone](legal-safety.md).
+- An [employment agreement](people-contracts.md) prevents misunderstanding and [legally protects everyone](legal-safety.md).
 - Make sure you have all the important details:
   - The position's key responsibilities
   - Salary and bonus information

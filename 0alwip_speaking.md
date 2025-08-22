@@ -29,14 +29,14 @@ Ask and receive favors correctly.
 
 Public speaking requires knowing how to expertly control a discourse.
 
-Learning another language requires experience with it and deliberate [memory](/memory/) training.
+Learning another language requires experience with it and deliberate [memory](mind-memory.md) training.
 
 ## Why learn speaking?
 
 Speaking is one of the most critical skills for human interaction:
 
-- Without it, we make people feel awkward, [behave rudely](/people-3/), and hurt others' feelings unintentionally.
-- 85% of building [long-term success](/success-1/) in life involves clear communication.
+- Without it, we make people feel awkward, [behave rudely](people-3_respect.md), and hurt others' feelings unintentionally.
+- 85% of building [long-term success](success-1_why.md) in life involves clear communication.
 
 The art of communicating is less about being understood and more about *not* being misunderstood.
 
@@ -49,10 +49,10 @@ Speaking has many inter-related dynamics, but comes mostly through body language
 The only way to become an effective speaker is through constant practice, in-person, with many varieties of people:
 
 - Broaden your channel of communication:
-  - Make a phone call instead of [text or email](/writing/).
+  - Make a phone call instead of [text or email](language-writing.md).
   - Meet in a videoconference instead of a phone call.
   - Meet in-person instead of a videoconference.
-- Like [any other effort](/success-1/), practice makes perfect.
+- Like [any other effort](success-1_why.md), practice makes perfect.
 
 * * * * *
 
@@ -65,13 +65,13 @@ People create their first impression from your body language when they first see
 
 Most body language is subconscious:
 
-- Be authentic, since you can't fake [happiness](/happiness-1/).
-- To change nonverbal language, you must change your identity and not merely your actions, which starts with [self-awareness](/awareness/).
-- Each body language style comes strictly from [personality](https://gainedin.site/personality/).
+- Be authentic, since you can't fake [happiness](happiness.md).
+- To change nonverbal language, you must change your identity and not merely your actions, which starts with [self-awareness](awareness.md).
+- Each body language style comes strictly from [personality](personality.md).
 - Copy your feelings naturally to your body and learn to move freely.
 - Always turn your entire body to the person you're speaking to.
 - Imagine how valuable that person is (or can be) and fully focus on that, and your body language will reflect that openness.
-  - When you act as though you like someone, you'll often earn their respect and build a [bond](/people-4/).
+  - When you act as though you like someone, you'll often earn their respect and build a [bond](people-4_friends.md).
 
 Your body will clarify your words:
 
@@ -149,7 +149,7 @@ Use touch appropriately:
 
 - While cultures vary, closer interactions usually involve more touching.
 - Healthy touch communicates connection and support.
-- Too much touching can upset people and provoke them to [enforce boundaries](/people-3/).
+- Too much touching can upset people and provoke them to [enforce boundaries](people-3_respect.md).
 - Too *little* touching can make people feel you're alienating them, and they'll distrust you.
 
 Practice effective gestures:
@@ -205,7 +205,7 @@ Frame your ideas with the Minto Pyramid:
 
 If you're indicating *any* problem, avoid criticizing by focusing on the point of what you're saying first:
 
-1. Facts - provide plain information without any adjectives, adverbs, or modifiers (e.g., My [car](https://notageni.us/autos/) has broken down).
+1. Facts - provide plain information without any adjectives, adverbs, or modifiers (e.g., My [car](autos.md) has broken down).
 2. Status - explain plainly how those facts affect the situation (e.g., I will need a ride home).
 3. Next Steps - indicate a solution to the problem (e.g., I may be able to get my friend to tow my car.
 4. Explanation - go into why you introduced the Facts (e.g., I was driving down the road when the car made a weird noise, then it stopped running, and I had to roll off the road.
@@ -221,7 +221,7 @@ Our specific choice of words create implications:
 - Polite forms of statements minimize the severity of bad things.
 - Leading questions (e.g., "you're not hungry, are you?") can passively guide an idea.
 - Disclaimers are apologizing for something in advance.
-- [Discriminatory](https://gainedin.site/image/) language classifies a group as better or worse.
+- [Discriminatory](image.md) language classifies a group as better or worse.
 - While most words cover a broad range of possible feelings others may have, some carry extreme, deep universal feelings (e.g., poison, death, joy).
 - Avoid any "filler" sounds (ah, um, er, etc.) and sounds that don't translate into words.
 - Avoid extreme words like "always" and "never".
@@ -251,7 +251,7 @@ Inflections and emphasis on spoken words transform the idea far more than writin
 - I was ***born*** in Australia - declares country of origin instead of being in Australia later in life
 - I was born ***in*** Australia - instead of outside Australia
 - I was born in ***Australia*** - instead of somewhere nearby like New Zealand
-- ***I*** was born in ***Australia*** - indicates anger and [conflict](/conflicts/).
+- ***I*** was born in ***Australia*** - indicates anger and [conflict](people-5_conflicts.md).
 
 Watch your speed and pacing:
 
@@ -392,7 +392,7 @@ People respond better to great listeners than great speakers who don't listen:
 
 - Everyone [understands reality](understanding.md) differently, and listening is how we understand those differences.
 - By listening, you're telling that person they're important or, at least, their words are important.
-- Even if you're an awful speaker, people will still listen back out of [respect](/people-3/) if you were listening to *them*.
+- Even if you're an awful speaker, people will still listen back out of [respect](people-3_respect.md) if you were listening to *them*.
 - Good listening can restart a stopped story or fill in gaps you may have misunderstood.
 
 We need to listen because each message has several sides to it:
@@ -453,12 +453,12 @@ Stay focused on them:
 - Listen more than you talk.
 - Enter as deeply as you can possibly into how they understand the world.
 - When sharing, only provide information you expect they'll care about.
-- If you fail at understanding others, you likely are battling [self-deception](/hardship-personal/).
+- If you fail at understanding others, you likely are battling [self-deception](hardship-worthlessness.md).
 
 As much as possible, remember names:
 
 - In their mind, a person's name is the most recognizable word they know.
-- People feel valuable to you if you've [remembered](/memory/) their name.
+- People feel valuable to you if you've [remembered](mind-memory.md) their name.
 
 Take an interest in their interests:
 
@@ -507,9 +507,9 @@ Active listening, on the other hand, requires much more effort:
 
 Listen carefully for others' observations, feelings, needs, and requests:
 
-- Many things people say are trying to fulfill some sort of [purpose](https://gainedin.site/purpose/):
+- Many things people say are trying to fulfill some sort of [purpose](purpose.md):
   - "I noticed [observation], which makes me feel [feeling]. I need [need], and I'd like you to [request]."
-- An evaluation is a [value](https://gainedin.site/values/) you've come to conclude, often subconsciously (e.g., a "cook" instead of "[someone cooking](/cooking/)").
+- An evaluation is a [value](values.md) you've come to conclude, often subconsciously (e.g., a "cook" instead of "[someone cooking](cooking.md)").
   - People often state evaluations *as* observations (e.g., "You're being rude").
 - Treat their observations as valid, even if they're only implying it behind what they're feeling or come from a bad evaluation.
   - Learn to ignore their feelings and observe what they're observing, then go back around and experience their feelings while ignoring what they're observing.
@@ -544,7 +544,7 @@ The first sentence will be the most important:
 
 What you say must be true, necessary, and kind:
 
-- Your thoughts can be free to [explore anything](/creativity/), but what you say creates profound consequences for others.
+- Your thoughts can be free to [explore anything](mind-creativity-how.md), but what you say creates profound consequences for others.
 - You *can* usually say almost anything you want if you add the right qualifiers before it.
 - If what you say might be untrue or controversial:
   - I'm not sure if this is true, but...
@@ -563,19 +563,19 @@ Don't use cliché responses:
 
 - Avoid mirroring statements.
   - You paralyze the discussion when you mimic the other person's words (e.g., "It's a beautiful day!" - "Yes, it is a beautiful day!")
-  - Mirroring follows [social norms](/social-rules/), but you look boring and forgettable.
+  - Mirroring follows [social norms](people-rules.md), but you look boring and forgettable.
 - Avoid predictable responses.
   - The most apparent answer is often the most boring (e.g., "It sure is hot!" - "Yeah, it sure is!")
 - If you want to sound profound, use the unexpected opposite word for a predictable situation (e.g., "It's a great day to go for a sit!")
-- When people ask [what you do for a living](/jobs-1/) or where you live, give interesting facts about it instead of simply what it is.
+- When people ask [what you do for a living](jobs-1_why.md) or where you live, give interesting facts about it instead of simply what it is.
 - For anything about yourself, have an interesting story prepared for them.
-- The best way to stay interesting is to keep consuming funny stories and interesting ideas, then constantly [create](/creativity/) and [write](/writing/) in your spare time.
+- The best way to stay interesting is to keep consuming funny stories and interesting ideas, then constantly [create](mind-creativity-how.md) and [write](language-writing.md) in your spare time.
 
 Repeat what they said to show you're listening:
 
 1. Paraphrase what you feel about the matter.
    - Be careful because paraphrasing how *you* feel isn't acknowledging their feelings.
-   - Expressing feelings before understanding is only useful in a [conflict](/conflicts/) to prove vulnerability.
+   - Expressing feelings before understanding is only useful in a [conflict](people-5_conflicts.md) to prove vulnerability.
 2. Repeat the message with their exact words.
    - Use exact repetition for a conflict or technical discussion.
    - In some contexts, repeating exact words sounds condescending.
@@ -665,7 +665,7 @@ The scope of your questions determines where the conversation goes:
 - Open questions encourage people to open up.
   - They often start with why, what, where, which, and how.
   - e.g., How was that strategy useful? What did you do then? Which approach did you use? How did you feel after that?
-  - Use open questions unless you need [certainty](/conflicts/).
+  - Use open questions unless you need [certainty](people-5_conflicts.md).
 - Closed questions require a specific answer.
   - The can start with "did you", "will you", "have you", "who", or "when".
   - They often make conversations feel awkward and one-sided to the other person, so use them sparingly.
@@ -688,7 +688,7 @@ Frame your questions carefully:
   - They often appear judgmental, so use them carefully.
 - Negative questions are specific statements followed with a confirm-or-deny question:
   - e.g., I think they're doing a bad thing. Don't you agree?
-  - Negative questions are only useful for [interrogation](/lying/), and never in [polite conversation](/people-3/).
+  - Negative questions are only useful for [interrogation](people-lying.md), and never in [polite conversation](people-3_respect.md).
 
 Many questions are designed to clarify understanding:
 
@@ -699,19 +699,19 @@ Many questions are designed to clarify understanding:
   - e.g., "I feel frustrated with the situation." "Why does the situation frustrate you?"
   - Reflective questions let the speaker explore their knowledge of something more.
 - Repeating or persistent questions ask several questions for the same information or the same question for different details:
-  - Repeating or persistent questions can cross-check information but can't verify [the truth](/lying/).
+  - Repeating or persistent questions can cross-check information but can't verify [the truth](people-lying.md).
   - If someone catches a repetition, they'll usually feel offended because they won't feel that person was listening.
 
 Some questions make people think or relax:
 
 - Hypothetical questions ask how a possible situation would provoke someone to act or think:
   - e.g., What would you do if...? What would happen if...?
-  - Hypothetical questions give people a chance to discuss new ideas or approaches and [brainstorm](/creativity/).
+  - Hypothetical questions give people a chance to discuss new ideas or approaches and [brainstorm](mind-creativity-how.md).
   - A hypothetical question with incorrect body language will feel like a leading question.
 - Unrelated questions make others more comfortable or destabilize their train of thought:
   - Unrelated questions shift the subject or to throw people off.
   - Since people will usually draw from context to resolve their confusion, use unrelated questions carefully.
-  - Many [cultural differences](/people-3/) will make a person feel a question is unrelated.
+  - Many [cultural differences](people-3_respect.md) will make a person feel a question is unrelated.
 - Paraphrasing questions affirm that you understand what they said:
   - e.g., "I hear you say that (your paraphrase). Do I understand that correctly?"
   - Paraphrasing questions keep the conversation focused and show you've been listening closely.
@@ -758,7 +758,7 @@ If you want to continue the discussion later, agree on a time or place with them
 
 When you accidentally offend, apologize and leave:
 
-- You *can't* back out of an [offense](https://gainedin.site/ptsd/) because they must [forgive](/happiness-2/) you for it at their timing.
+- You *can't* back out of an [offense](hardship-ptsd.md) because they must [forgive](happiness-stress.md) you for it at their timing.
 - The best thing you can do is give them time to process it and connect with other people.
 - Often, if you *do* readdress the matter to recover your reputation, you will seem even *more* offensive unless you can make yourself suffer more than them.
 
@@ -781,7 +781,7 @@ Our message changes because of the environment:
 
 Maintain proper spacing:
 
-- Intimate space is under 18 inches and only for very close [friends](/people-4/).
+- Intimate space is under 18 inches and only for very close [friends](people-4_friends.md).
 - Personal space is from 18 inches to four feet and only for people you're comfortable with.
 - Social space goes out from four feet to twelve feet, and for most one-on-one interaction.
 - Public space is anything farther than twelve feet, and usually for groups and strangers.
@@ -821,7 +821,7 @@ Stay mindful of what you say during another person's speech:
 Note any power dynamics:
 
 - Even if you aren't concerned about power dynamics, most people keep a small score of everyone's status and *constantly* compare their status with you.
-- Further, people tend to try to "even the score" wherever they are, which often involves performing favors or asking for them, and sometimes [generating conflicts](/conflicts/).
+- Further, people tend to try to "even the score" wherever they are, which often involves performing favors or asking for them, and sometimes [generating conflicts](people-5_conflicts.md).
 - If you're speaking to someone with authority, keep your responses shorter and let them talk more.
 - If someone is famous, only discuss their latest work, or don't mention it.
 - Don't be afraid to bring someone else without as much power into the conversation affiliated with that powerful person.
@@ -835,12 +835,12 @@ Depending on everyone's cooperation and judgment, communication is a diatribe, d
   - Discourse is when the listener is quietly cooperating, but diatribes are when the speaker is forcing the conversation.
   - Most public speeches and written articles are discourse, the rest are diatribes.
   - People share one-way exchanges (such as this guide here) when they want to say something important.
-  - Generally, discourse tries to inform while diatribe tries to convince or [coerce](/conflicts/).
+  - Generally, discourse tries to inform while diatribe tries to convince or [coerce](people-5_conflicts.md).
 - Dialogue and debate are two-way exchanges:
   - Dialogue is when everyone in the conversation wants to exchange information and build relationships, which means suspending their judgment.
   - The conversation switches to a debate when one person is trying to convince or coerce, but while other people can still provide feedback.
   - Most healthy conversations are dialogue.
-  - Debates usually arise over a [conflict](/conflicts/) or are formally established to discuss that conflict.
+  - Debates usually arise over a [conflict](people-5_conflicts.md) or are formally established to discuss that conflict.
 
 In dialogue and debate, only share 1-2 ideas at a time:
 
@@ -853,14 +853,14 @@ Consider the size of your ideas:
 
 - because large ideas require lots of thought, they almost always require a diatribe or discourse to convey them.
 - Try to simplify the idea as much as possible to get the feeling across, preferably with humor or wit.
-- If you must provide more details, consider [adding supporting documentation](/writing/).
+- If you must provide more details, consider [adding supporting documentation](language-writing.md).
 
 ### Adapt to the listener
 
 Adapting a message well requires experience:
 
-- There are *far* too many factors to consciously consider, so understanding your audience only comes through [trial-and-error and self-reflection](/success-5/).
-  - People feel inauthentic behavior, so you will also need [self-confidence](/success-6/) that only comes from experience.
+- There are *far* too many factors to consciously consider, so understanding your audience only comes through [trial-and-error and self-reflection](success-5_persevering.md).
+  - People feel inauthentic behavior, so you will also need [self-confidence](success-6_humility.md) that only comes from experience.
 - Practice frequently with a wide variety of backgrounds to shorten how much experience you need.
 
 Only share thoughts that interest both you and the listener:
@@ -873,7 +873,7 @@ Only share thoughts that interest both you and the listener:
 If someone doesn't care to hear, you can't convince them to listen:
 
 - People will resent if you push past their indifference.
-- Honor their [boundaries](/people-3/) and respect yourself.
+- Honor their [boundaries](people-3_respect.md) and respect yourself.
 
 Only share things other people might find meaningful (THINK acronym):
 
@@ -889,7 +889,7 @@ Consider their personality:
 - Dominant, direct people hate pleasantries and small talk and want the point as quickly as possible, so learn conciseness for them.
 - Engaging, friendly people can lose sight of discussion goals, so keep them on track.
 - Calm, peaceful people want an even-toned casual conversation, so relax with them.
-- Detail-minded, [analytical](https://gainedin.site/logic/) people want many facts and details, so learn to analyze with them.
+- Detail-minded, [analytical](logic.md) people want many facts and details, so learn to analyze with them.
 - If you want to engage with someone that you know wouldn't respect you, ask someone else to introduce you.
 
 Always use examples and anecdotes that match their background:
@@ -912,7 +912,7 @@ Mind the audience's attitude toward you:
   - Will listen to facts, statistics, and specific instances.
   - Won't care as much for anecdotes, hypothetical illustrations, and analogies.
 - Friendly audiences want to hear from you.
-  - It's usually at a happy event like a [party](/parties/).
+  - It's usually at a happy event like a [party](fun-parties.md).
   - Entertain, inspire, and inform them.
   - Instead of changing their minds, help them to believe or act toward your purpose.
   - Give them new reasons to do what they already want to do.
@@ -929,13 +929,13 @@ Mind the audience's attitude toward you:
 If you're being recorded (or *might* be recorded), speak as if you don't know your audience:
 
 - While communication is simple, it's absurdly difficult to state things without offending someone.
-- The internet permanently memorializes everything, and [social fashions](https://gainedin.site/trends/) can often change across years, so be careful how you word *anything*.
+- The internet permanently memorializes everything, and [social fashions](trends.md) can often change across years, so be careful how you word *anything*.
 
 Pay careful attention to whether the culture respects asking or guessing:
 
 - "Ask" culture is low-context, and requires the requester to plainly ask if they need something.
   - It revolves around the idea that if someone needs something, they're responsible to ask it.
-  - This does place a burden on the recipient saying "no", but means nobody will have hurt feelings if they *do* [politely decline it](/conflicts/).
+  - This does place a burden on the recipient saying "no", but means nobody will have hurt feelings if they *do* [politely decline it](people-5_conflicts.md).
 - "Guess" culture is low-context, and requires the responder to read nonverbal cues to see if the other person needs something.
   - It revolves around the idea that someone else who has something should be considerate of what other people need.
   - The other person is legitimately inconvenienced to serve the person asking, but gives them the comfort that they were thinking about them.
@@ -947,15 +947,15 @@ At the same time, do *not* behave so agreeably that you give up what you believe
 
 ## Build a sense of humor
 
-[Humor](https://gainedin.site/humor/) is intimately connected to your ability to have [fun](/fun/).
+[Humor](humor.md) is intimately connected to your ability to have [fun](fun.md).
 
 If you have trouble finding humor, think of the opposites of what everyone expects, how people think or behave, or how anyone would typically react.
 
 Do *not*, however, make a joke at someone else's expense:
 
-- If your joke is even slightly offensive, [influential](https://gainedin.site/influence/) people may find a way to get revenge later.
+- If your joke is even slightly offensive, [influential](power-influence.md) people may find a way to get revenge later.
 
-Since most humor involves pain and some people have [unresolved trauma](https://gainedin.site/ptsd/) about certain subjects, be careful about [offending](https://gainedin.site/ptsd/) anyone listening.
+Since most humor involves pain and some people have [unresolved trauma](hardship-ptsd.md) about certain subjects, be careful about [offending](hardship-ptsd.md) anyone listening.
 
 If you're *not* funny, it's not as hard as it seems:
 
@@ -982,7 +982,7 @@ While small talk is shallow, it's critical:
 - People are uncomfortable with silence, and small talk is mindless information that easily fills it.
 - Everyone can learn about others without having to trust people with personal information.
 - People who professionally use small talk will match the tone and style of behavior they're reading from others.
-- Some of the most common "small talk only" zones are while eating, [parties](/parties/), and most public events.
+- Some of the most common "small talk only" zones are while eating, [parties](fun-parties.md), and most public events.
 - At the same time, the "big talk" often comes out during dessert or when the check comes, in a side discussion at a party, or after most people have left the event.
 
 Some people always hate small talk:
@@ -991,8 +991,8 @@ Some people always hate small talk:
 - Philosophical people often want to discuss more profound subjects.
 - Introverts may be more accustomed to silence than most people.
 - Emotionally secure people tend to hate circumventing topics.
-- Socially awkward people tend to face rejection and have [past trauma](https://gainedin.site/ptsd/) from small talk.
-- Highly successful people in non-social disciplines hate small talk because it circumvents legitimate [conflicts](/conflicts).
+- Socially awkward people tend to face rejection and have [past trauma](hardship-ptsd.md) from small talk.
+- Highly successful people in non-social disciplines hate small talk because it circumvents legitimate [conflicts](people-5_conflicts.md).
 
 Successful small talk can filter out the worst of humanity:
 
@@ -1008,7 +1008,7 @@ Some subjects are never, *ever* small talk:
 - Intimate relationships and sex
 - Death, morbidity, and significant medical problems
 - Personal gain that outpaces anyone else's
-- Business opportunities, especially sales or small business affairs, including [MLM](https://notageni.us/mlm/)
+- Business opportunities, especially sales or small business affairs, including [MLM](marketing-mlm.md)
 - Secrets, especially about others who aren't in the conversation
 - Negative remarks about anything, especially about others
 
@@ -1021,9 +1021,9 @@ Depending on culture, other topics may be off-limits for small talk:
 - Politics and controversial social issues
   - Sometimes you can't criticize what others openly condemn (such as race or financial status)
 - Religious views or philosophy
-- The [economy](https://gainedin.site/economics/), the stock market or current events
+- The [economy](economics.md), the stock market or current events
 - Anything that can offend someone's nationality or criticize royalty
-- Any compliments that may look like [flirting](/dating/)
+- Any compliments that may look like [flirting](relationships-2_dating.md)
 - Intimate details about love life or sex life
 - Alcohol or drug consumption
 - Inappropriate humor (which is *highly* contextual) or no sense of humor
@@ -1065,8 +1065,8 @@ Ask general topics:
 
 - School or work
 - Workplaces and places traveled
-- [Career or job](/jobs-1/) aspirations
-  - If that person is [unemployed](/unemployment/), don't ask how their job search is going unless they're starting a job soon.
+- [Career or job](jobs-1_why.md) aspirations
+  - If that person is [unemployed](hardship-unemployment.md), don't ask how their job search is going unless they're starting a job soon.
 
 Compare and contrast lifestyles:
 
@@ -1100,7 +1100,7 @@ Discuss entertainment:
 - Fashion and trends
 - Celebrities
 
-Tell jokes or [funny anecdotes](https://gainedin.site/humor/).
+Tell jokes or [funny anecdotes](humor.md).
 
 * * * * *
 
@@ -1110,14 +1110,14 @@ People tend to remember the first and last things the most.
 
 People make their first impressions within 7 seconds of seeing someone:
 
-- Whether it's fair or accurate, their impression is the beginning of a [story](https://gainedin.site/stories/) that determines whether they like you.
+- Whether it's fair or accurate, their impression is the beginning of a [story](stories.md) that determines whether they like you.
 - 80% of that impression is from your posture while standing or sitting.
 - Over the internet or phone, your presence is usually defined by your published content or voice instead.
 
 Work on your image for when people see you enter a room:
 
-- [Dress and groom](/people-2/) as well as the best-dressed people at the venue.
-- Improve your physical appearance by working on your [weight and fitness](/weight/).
+- [Dress and groom](people-2_image.md) as well as the best-dressed people at the venue.
+- Improve your physical appearance by working on your [weight and fitness](body-3_exercise.md).
 
 Practice greeting people:
 
@@ -1150,7 +1150,7 @@ To leave gracefully, have a few exit lines ready:
   - If you're at a party, you want to meet with someone else you haven't seen in a long time.
   - While at lunch, you have some personal chores on your phone you need to do.
   - When in public with someone, you have to study for something.
-  - If you're pursuing [success](/success-1/) or have a [family](/parenting-1/), you have many excuses to choose from.
+  - If you're pursuing [success](success-1_why.md) or have a [family](parenting-1_babies.md), you have many excuses to choose from.
 - If someone hands you their card, accept it as a gift.
   - Hold the card in both hands and read it.
   - Put the card away in a shirt pocket, purse, or wallet to show you value it.
@@ -1211,12 +1211,12 @@ Navigate across the venue to anyone you want to meet:
 
 Stay focused on your purpose for being there:
 
-- You're either there to mingle and [recreate](/fun/), or there to build connections, but not both.
+- You're either there to mingle and [recreate](fun.md), or there to build connections, but not both.
   - Since a drink or food puts psychological distance with others, eat *before* you go
-- The purpose of the engagement is to brush shoulders and leave a first impression and contact details for later with everyone who might serve a future [purpose](https://gainedin.site/purpose/) to you.
+- The purpose of the engagement is to brush shoulders and leave a first impression and contact details for later with everyone who might serve a future [purpose](purpose.md) to you.
 - After you've met everyone you wanted to meet, leave for your next event.
 - Ideally, show up early and meet people as they arrive, then leave before the event is over.
-  - Never staying too long has the advantage of making you mysterious (and therefore interesting) and avoiding any potential public [conflicts](/conflicts/).
+  - Never staying too long has the advantage of making you mysterious (and therefore interesting) and avoiding any potential public [conflicts](people-5_conflicts.md).
 
 Carefully listen before entering an in-progress conversation:
 
@@ -1224,7 +1224,7 @@ Carefully listen before entering an in-progress conversation:
 - Pay attention to see if you can follow the conversation.
 - If someone else walks into *your* conversation, summarize what you were talking about for them.
 
-After the event, write down notes (preferably on the back of their business card) about details of the conversation to help you [remember](/memory/) them for later.
+After the event, write down notes (preferably on the back of their business card) about details of the conversation to help you [remember](mind-memory.md) them for later.
 
 Over time, the *hosts* will find you as a valuable resource:
 
@@ -1251,7 +1251,7 @@ If you want someone to do something for you, clearly state what you want:
 
 Go out of your way to do small favors for others:
 
-- Inform them or connect them with what they need to [succeed](/success-1/).
+- Inform them or connect them with what they need to [succeed](success-1_why.md).
 - Generously give, but don't do it reliably, or they'll come to expect it and take it for granted.
   - Whenever you encounter anyone who performs a service (e.g., waiter, accountant), send their boss a thank-you note.
   - Be the first to applaud or publicly commend someone doing a good thing.

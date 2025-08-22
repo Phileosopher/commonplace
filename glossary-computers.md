@@ -254,7 +254,7 @@ Canonical - a standardized input format that's the "right" way for the computer 
 
 Capacitor - two surfaces close to each other separated by an insulator, a means of holding a charge for future use (such as memory)
 
-Captive portal - a proxy server that blocks access to the rest of a network until a user does something, often involves consenting to [Terms of Service](contracts.md)
+Captive portal - a proxy server that blocks access to the rest of a network until a user does something, often involves consenting to [Terms of Service](people-contracts.md)
 
 Carry - the product of a half-adder, the leftmost number of adding, like the carry of normal algebra but used *way* more often in binary
 
@@ -622,7 +622,7 @@ End user - the non-technical person using the product
 
 End-of-life - end support for an outdated software version, often because the developers are focusing on a newer version of the same software
 
-End-user license agreement - the software [contract](contracts.md) given to the users who consume the software
+End-user license agreement - the software [contract](people-contracts.md) given to the users who consume the software
 
 Endpoint/Terminus - the place where something is supposed to go, usually used in networking and enterprise computing
 

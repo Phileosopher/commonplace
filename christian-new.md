@@ -90,12 +90,12 @@ Confrontational or inappropriate behavior as a type of "ministry".
 
 - They typically imply that God loves people but still permits awful things to happen to them, so sharing the truth is acting in [God's will](god-will.md), even if they're being rude.
 - They're projecting their [family](church-family.md) background onto who God is and don't understand [His loving and gracious nature](god.md).
-- Long-term, magnified [conflicts](people-conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
+- Long-term, magnified [conflicts](people-5_conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
 
 Engages in [cultural activities](culture.md) that God doesn't like.
 
 - Most mind-altering [substances](addiction-substances.md) open spiritual gateways, which are an inherent risk to our souls.
-- Any relationship with spiritual beings (e.g., divination, Ouija boards) builds [implicit contracts](contracts.md) that interfere with what Jesus has done and [plans to do](god-will.md).
+- Any relationship with spiritual beings (e.g., divination, Ouija boards) builds [implicit contracts](people-contracts.md) that interfere with what Jesus has done and [plans to do](god-will.md).
 - Sometimes, this can simply be over-identification with rebellious or anti-God cultural movements (e.g., punk, emo, goth).
 
 ## Misplaced Loyalties
@@ -122,7 +122,7 @@ Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem
 - At its core, prayer is our release of control to God.
   - [Matthew 6:5-14](https://biblehub.com/bsb/matthew/6.htm)
   - [Luke 11:1-4](https://biblehub.com/bsb/luke/11.htm)
-- We can only request something to Him humbly, and He can't be [bargained with](contracts.md).
+- We can only request something to Him humbly, and He can't be [bargained with](people-contracts.md).
 
 ## Ambitious
 

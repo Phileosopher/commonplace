@@ -14,7 +14,7 @@ For the most part, this copy is *stunningly* accurate. It allows us to relive th
 
 While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](imagination.md) diverges from it.
 
-Everything we perceive will have relative and absolute components to it. Often, our [conflicts](boundaries.md) are over relative things we *think* are absolute, often from our [culture](culture.md) and [upbringing](people-family.md).
+Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts.md) are over relative things we *think* are absolute, often from our [culture](culture.md) and [upbringing](people-family.md).
 
 One complicated part of our perception comes in how things come together. In [reality](reality.md), the larger thing is *precisely* the same as the individual components combined, but our [values](values.md) make the whole *greater* than the sum of its parts based on its association to other values.
 
@@ -58,4 +58,4 @@ Very often, two people can have vastly different images while perceiving a simil
 
 This bias opens up a guaranteed [risk](safety.md) that [deception and control](power-influence.md) can take hold in our minds. However, if we keep pursuing [the truth](reality.md), [the lies](people-lying.md) will fade away.
 
-The basis of all [culture](culture.md), [social conflict](boundaries.md), and grander [social trends](trends.md) revolves around image, *not* [reality](reality.md).
+The basis of all [culture](culture.md), [social conflict](people-conflicts.md), and grander [social trends](trends.md) revolves around image, *not* [reality](reality.md).

@@ -1,8 +1,8 @@
 
-In short, marketing is the skill of conveying [value](https://gainedin.site/quality/) to others.
+In short, marketing is the skill of conveying [value](values-quality.md) to others.
 
 - This value can range from a personal brand all the way up to a large organization's public image.
-- While most other domains of a business are cost centers (e.g., [accounting](/accounting/), [law](/legal-doctrines/), [IT](http://trendless.tech)), marketing is exclusively a profit center.
+- While most other domains of a business are cost centers (e.g., [accounting](accounting.md), [law](legal-doctrines.md), [IT](computers.md)), marketing is exclusively a profit center.
 
 In practice, there are only 3 ways to make marketing increase an organization's revenue:
 
@@ -13,8 +13,8 @@ In practice, there are only 3 ways to make marketing increase an organization's 
 Marketing is a broad concept about the process of selling goods or services, starting with before the customer knows about it and through the business relationship:
 
 1. Research to learn what the public wants and invent a solution for them (market research).
-2. [Tailor the appearance](/design/) of something to show people it has value (product design).
-3. Show it as a [story](https://gainedin.site/stories/) to the public to make people aware of it (exposure).
+2. [Tailor the appearance](design-uxui.md) of something to show people it has value (product design).
+3. Show it as a [story](stories.md) to the public to make people aware of it (exposure).
 4. Make lists of people who might want it (lead generation).
 5. Inform or persuade leads that they should invest in the product (selling and closing the deal).
 6. Follow up with them later to make sure they're satisfied, and possibly interested in future products (retention).
@@ -24,14 +24,14 @@ Marketing is a broad concept about the process of selling goods or services, sta
 Product - what are you delivering? (not always tangible or sold for money)
 
 - Vague things (e.g., the feeling of goodwill) can be a product.
-- A [job hunter](https://adequate.life/jobs-1/) is marketing skills, time, and energy.
+- A [job hunter](jobs-1_why.md) is marketing skills, time, and energy.
 - A humanitarian request (call to action) advertises a transcendent purpose.
-- Anyone who wants to be a social media influencer is trying to use their [personality](https://gainedin.site/personality/)-based [performance](https://gainedin.site/results/) to gain others' attention.
-- [Religious evangelism](https://theologos.site/evangelism/) is advancing a theological/philosophical perspective, with [religion](https://gainedin.site/religion/) itself being a passive marketing movement.
+- Anyone who wants to be a social media influencer is trying to use their [personality](personality.md)-based [performance](mind-creativity-results.md) to gain others' attention.
+- [Religious evangelism](evangelism.md) is advancing a theological/philosophical perspective, with [religion](religion.md) itself being a passive marketing movement.
 
 Price - what does it cost?
 
-- Even free things have an [opportunity cost](https://gainedin.site/decisions/) in time, focus, attention, etc.
+- Even free things have an [opportunity cost](decisions.md) in time, focus, attention, etc.
 - In our [Over-Information Age](https://stucky.tech/purpose/), paying attention is the most significant thing a person can do, so treat it with respect.
 
 Place - where are you delivering the product?
@@ -41,18 +41,18 @@ Place - where are you delivering the product?
 Promotion - how are you communicating the product's value?
 
 - Promotion includes what types of media you're using and its public image.
-- Successful marketing evokes [meaning](https://gainedin.site/meaning/) within us through an [emotional connection](mind-feelings.md) to a brand.
+- Successful marketing evokes [meaning](meaning.md) within us through an [emotional connection](mind-feelings.md) to a brand.
 
 ## Meaningfulness
 
-Marketing is a resonating message that the product is the precise connection the potential consumer needs to find [meaning](https://gainedin.site/meaning/) and [purpose](https://gainedin.site/purpose/).
+Marketing is a resonating message that the product is the precise connection the potential consumer needs to find [meaning](meaning.md) and [purpose](purpose.md).
 
-- The message is designed to make the recipient [feel important](https://gainedin.site/influence/).
+- The message is designed to make the recipient [feel important](power-influence.md).
 - Without that interpreted meaning, the marketing is a complete waste of time and the money would be better-spent on simply improving quality or lowering price.
 
 The product has to be remarkable, which doesn't necessarily mean weird, cheap, expensive, big, or small.
 
-- That meaning comes from how the consumer interprets the provider [performing](/contracts/) for them, *not* from how the consumer sees the product compared to competitors' alternatives.
+- That meaning comes from how the consumer interprets the provider [performing](people-6_contracts.md) for them, *not* from how the consumer sees the product compared to competitors' alternatives.
 - Marketing words tend to use verbs more than nouns (e.g., "shopping" versus "shop", "investing" more than "invest").
 - Focus heavily on the "why" questions from consumers, not just "what".
 
@@ -63,11 +63,11 @@ The best thing is to assume people are selfish, lazy, uninformed, and impatient.
 - Uninformed - *you're* responsible to inform them.
 - Impatient - inform them with as few words and as little time as possible.
 
-The only way to find that meaning is to create a distinctly human connection through the [design](/design/) of marketing materials.
+The only way to find that meaning is to create a distinctly human connection through the [design](design-uxui.md) of marketing materials.
 
 - Simply making promises and keeping them is enough to start building a brand.
-- To create connection and avoid being boring, marketing professionals *must* [take risks](/entrepreneur/) to disrupt [established patterns](https://gainedin.site/habits/).
-- A marketer never gets to dominate the domain, and serves more to curate [fashions](https://gainedin.site/trends/) that others will *want* to maintain.
+- To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_why.md) to disrupt [established patterns](habits.md).
+- A marketer never gets to dominate the domain, and serves more to curate [fashions](trends.md) that others will *want* to maintain.
 
 A lasting, marketable product has an original and distinctive competitive advantage.
 
@@ -79,7 +79,7 @@ A lasting, marketable product has an original and distinctive competitive advant
 
 ## Trends
 
-Marketing "eras" arise through how society's [progress](https://gainedin.site/trends/) from rural to mass-industrialization increases everyone's need to compete.
+Marketing "eras" arise through how society's [progress](trends.md) from rural to mass-industrialization increases everyone's need to compete.
 
 Simple Trade Era
 
@@ -114,13 +114,13 @@ Relationship Era
 Individualization Era
 
 - Companies use data to tailor each customer's experience differently.
-- Individualization Era companies must use a *lot* of database management to find [patterns](https://gainedin.site/symbols/) across customers.
+- Individualization Era companies must use a *lot* of database management to find [patterns](symbols.md) across customers.
 
 * * * * *
 
 ## Customers' decisions
 
-Every consumer's [decisions](https://gainedin.site/decisions/) run through a product-seeking cycle:
+Every consumer's [decisions](decisions.md) run through a product-seeking cycle:
 
 1. Recognize an unfulfilled need
 2. Search for information to fulfill the need
@@ -153,7 +153,7 @@ People get products for various reasons:
 - A cause (e.g., bake sale)
 - Name recognition
 
-If a product is marketed well, people will believe taking action toward it will give more value, [meaning](https://gainedin.site/meaning/), or [purpose](https://gainedin.site/purpose/) than its [opportunity cost](https://gainedin.site/economics/) or alternatives:
+If a product is marketed well, people will believe taking action toward it will give more value, [meaning](meaning.md), or [purpose](purpose.md) than its [opportunity cost](economics.md) or alternatives:
 
 - Adapting their lifestyle for the product
 - Identifying with the culture associated with the product
@@ -162,7 +162,7 @@ If a product is marketed well, people will believe taking action toward it will 
 
 ### Psychological connection
 
-Their [meaning](https://gainedin.site/meaning/) comes from how they interact with the product.
+Their [meaning](meaning.md) comes from how they interact with the product.
 
 - Control - how much they can manage their experience
 - Adaptability - how much they can augment their experience
@@ -214,11 +214,11 @@ C. Painkillers - solves a painful problem, necessary when they need it
 
 Customers observe many, many details about the product and its associated environment.
 
-- Successful marketing professionals consider *all* the factors that would affect a consumer's [bias](https://gainedin.site/bias/).
+- Successful marketing professionals consider *all* the factors that would affect a consumer's [bias](mind-bias.md).
 
 The product itself:
 
-- Attributes/[design](/design/) of the product
+- Attributes/[design](design-uxui.md) of the product
 - [Emotional reaction](mind-feelings.md) from the product and its implications
 - Price and quality of the product compared to others
 - Where the company made the product (can make it cheaper or inspire loyalty)
@@ -228,7 +228,7 @@ The product itself:
 - Experience with the product
 - How the company distributes the product
 
-[Color](/design/), in particular, can make consumers [feel](mind-feelings.md) a company's implied message:
+[Color](design-uxui.md), in particular, can make consumers [feel](mind-feelings.md) a company's implied message:
 
 - 85% of buyers choose a product on color alone.
 - 93% of buyers care about a product's visual appearance.
@@ -249,7 +249,7 @@ The market environment itself:
 
 ## Brand management
 
-*Everything* connected to the product/service can connect with a unified [brand](https://gainedin.site/image/) that demonstrates uniqueness:
+*Everything* connected to the product/service can connect with a unified [brand](image.md) that demonstrates uniqueness:
 
 1. Product - the object itself
 2. Service - the experience of the product's delivery
@@ -266,39 +266,39 @@ Branding has degrees of intensity:
 3. Market Orientation - focused on satisfying customer wants and needs
    - Often, organizations stay selfish when they measure customer satisfaction instead of their impact on the world around them.
 4. Social Marketing - company goals built broadly toward improving society
-   - Organizations become [unprofitable](https://gainedin.site/economics/) when they don't pay attention to customers' needs and wants.
+   - Organizations become [unprofitable](economics.md) when they don't pay attention to customers' needs and wants.
 
 Consistent brands are efficient and easy to sell and distribute.
 
 - Packages maintain a uniform feeling across products.
 - You can standardize brand components across products.
 
-Successfully building a brand involves investing a *lot* into [the Unknown](https://gainedin.site/unknown/).
+Successfully building a brand involves investing a *lot* into [the Unknown](unknown.md).
 
 - The general attitude is that there's always someone who wants the product, but doesn't have it yet.
 - At the farthest, every single person who is part of the organization is part of the "marketing department".
 
 ### Marketing plans
 
-Marketing plans are attempts to influence specific demographics to find [meaning](https://gainedin.site/meaning/) in a product.
+Marketing plans are attempts to influence specific demographics to find [meaning](meaning.md) in a product.
 
 - It's impossible to please everyone, so your best investment comes from focusing your efforts on the people you want.
-- The entire purpose of a marketing plan and marketing research is to match your [perspective](https://gainedin.site/image/) with the people you're serving.
+- The entire purpose of a marketing plan and marketing research is to match your [perspective](image.md) with the people you're serving.
 
 A. Identify the demographics of the audience you want leads for.
 
 - If you can, aim for demographics that *nobody* in your domain is serving.
   - Look for what people use and purchase right now and their major complaints about it.
 - There are many classifications, but you can segment it as far as you need:
-  - [Age](https://gainedin.site/maturity/)
-  - [Gender and sexual orientation](https://gainedin.site/gender/)
-  - [Income](https://gainedin.site/classes/)
-  - [Ethnic groups](https://gainedin.site/culture/)
-  - [Family lifestyles](https://gainedin.site/family/)
-  - [Personality](https://gainedin.site/personality/)
-  - [Lifestyles and motives](https://gainedin.site/decisions/)
-  - [Social class](https://gainedin.site/classes/)
-    - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](https://gainedin.site/sustainability/)).
+  - [Age](maturity.md)
+  - [Gender and sexual orientation](gender.md)
+  - [Income](classes.md)
+  - [Ethnic groups](culture.md)
+  - [Family lifestyles](people-family.md)
+  - [Personality](personality.md)
+  - [Lifestyles and motives](decisions.md)
+  - [Social class](classes.md)
+    - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](leftism-sustainability.md)).
   - Psychographics (psychological tendencies from the environment)
   - Geographic location (Geodemographics):
     - Province or region of the world
@@ -332,7 +332,7 @@ B. Within that demographic, make as many XY grids as necessary to compare 2 vari
 - Experimental
 - Healthfulness
 
-C. Craft the design as a [story](https://gainedin.site/stories/) with a [designed user experience](/design/).
+C. Craft the design as a [story](stories.md) with a [designed user experience](design-uxui.md).
 
 - The story should make consuming the brand a memorable experience.
   1. Initiation - the customer's first impression upon hearing about the product
@@ -342,23 +342,23 @@ C. Craft the design as a [story](https://gainedin.site/stories/) with a [designe
   1. First, *why* something is valuable
   2. Next, *how* the value conveys itself through the product (the majority of the message)
   3. Finally, *what* the product is
-- The story will reflect closely with the person by resonating with at least some of [our shared universals](https://gainedin.site/universals/).
+- The story will reflect closely with the person by resonating with at least some of [our shared universals](humanity-universals.md).
   1. Story of self - a personal transition from what you used to be to what you became, implying that others are just like you.
   2. Story of us - describing how we share common bonds and how allying is a good thing.
   3. Story of now - a call to action that indicates that they are doing the right thing by joining you.
 - The story must have a deep connecting association with something else.
-  - It can often connect with a theme (e.g., redemption, [love](https://gainedin.site/love/), human connection)
-  - The connection is often purely animal (e.g., [sex](https://gainedin.site/gender/)), which is the method used by longtime PR master Edward Bernays.
-  - Successfully *making* a story that resonates requires [integrating your shadow](https://gainedin.site/personality/).
+  - It can often connect with a theme (e.g., redemption, [love](people-love.md), human connection)
+  - The connection is often purely animal (e.g., [sex](gender.md)), which is the method used by longtime PR master Edward Bernays.
+  - Successfully *making* a story that resonates requires [integrating your shadow](personality.md).
 - Keep an eye out for indirect associated words.
-  - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](https://gainedin.site/culture/).
+  - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](culture.md).
   - e.g., "break time" may associate with "broken time", "breaking out", "broken dreams", "breakfast", and may extend to coffee, candy, or drugs.
 
 D. Make something eye-catching and familiar to the target demographic.
 
-- Carefully consider your [design medium](http://trendless.tech/ux-ui/) to match what people of that [culture](https://gainedin.site/culture/) will [feel](mind-feelings.md).
+- Carefully consider your [design medium](design-uxui.md) to match what people of that [culture](culture.md) will [feel](mind-feelings.md).
   - Show the product in action.
-  - Use current [social trends](https://gainedin.site/trends/).
+  - Use current [social trends](trends.md).
   - Create interviews or testimonials from reputable or influential people.
   - Advertise the helpfulness of the company.
   - Show how life is worse without the product.
@@ -377,7 +377,7 @@ D. Make something eye-catching and familiar to the target demographic.
 
 E. Tailor the product to the medium and send it through every appropriate social channel.
 
-- Typically, you will need to use [social media](https://trendless.tech/social-network/) and [search engine optimization](https://trendless.tech/seo/) to maximize your message.
+- Typically, you will need to use [social media](networks-social.md) and [search engine optimization](marketing-seo.md) to maximize your message.
 
 F. Follow up and keep the interaction going.
 
@@ -399,7 +399,7 @@ F. Follow up and keep the interaction going.
 - Give them something legitimate, not just a discount.
   - Provide something for free they don't need to pay anything for.
   - Give a physical or emailed voucher, not just a promo code.
-  - Even if you're in a straightforward [skilled trade](https://gainedin.site/specialization-cities/), you can direct them to website content that answers common questions about your trade, with promotional discounts included if they respond or join your email list.
+  - Even if you're in a straightforward [skilled trade](jobs-specialization.md), you can direct them to website content that answers common questions about your trade, with promotional discounts included if they respond or join your email list.
 - Use unconventional channels for unconventional leads.
   - Use a less popular channel for your type of product.
   - Send out fliers directing people to social media or a website.
@@ -417,7 +417,7 @@ G. Keep running market analysis to find and appeal to more demographics who may 
 
 ### Market research
 
-Successful marketing research gathers meaningful-enough data that borrows from the [scientific method](https://gainedin.site/science/) to provide enough information about what a market looks like to make a clear decision.
+Successful marketing research gathers meaningful-enough data that borrows from the [scientific method](science.md) to provide enough information about what a market looks like to make a clear decision.
 
 A. Create a market segment.
 
@@ -430,8 +430,8 @@ A. Create a market segment.
 
 B. Collect secondary data about the target market from the internet and marketing research aggregators.
 
-- Be mindful about where that data came from, since it may be [unethical](https://gainedin.site/morality/) or [illegal](https://gainedin.site/rules/).
-- Database patterns, such as an analyst or [AI](https://trendless.tech/ai/), can make secondary data, which is often perfectly legal.
+- Be mindful about where that data came from, since it may be [unethical](morality.md) or [illegal](rules.md).
+- Database patterns, such as an analyst or [AI](computers-ai.md), can make secondary data, which is often perfectly legal.
 
 C. Create a questionnaire around information you want to learn.
 
@@ -444,7 +444,7 @@ D. Design your research and gather primary data.
 
 - This can include in-person/mail surveys, in-home interviews, mail/email/telephone reviews, executive interviews, and focus groups.
 
-E. Run experiments [scientifically](https://gainedin.site/science/).
+E. Run experiments [scientifically](science.md).
 
 - Specify the sampling procedures and how close the sampling will reflect reality.
 - Account for errors caused through bad sampling or towards guiding the result.
@@ -456,7 +456,7 @@ F. Follow up the data with a decision support system.
 - A decision support system should keep every interested party informed as it's updated.
 - Let people interact with it to involve their feedback.
 - The decision support system should be flexible enough to allow data manipulation and changes to the system.
-- Instead of proving existing procedures, constantly [seek new solutions](https://gainedin.site/creativity/).
+- Instead of proving existing procedures, constantly [seek new solutions](mind-creativity.md).
 
 ### Rebranding
 
@@ -489,7 +489,7 @@ Many factors destroy brands.
 A. A terrible-looking brand:
 
 - There' too much visual clutter.
-- The consumer finds the brand boring or the same as every other [fashionable](https://gainedin.site/trends/) brand of that domain.
+- The consumer finds the brand boring or the same as every other [fashionable](trends.md) brand of that domain.
 
 B. Insufficient planning or preparation:
 
@@ -509,21 +509,21 @@ D. The brand associates with low-quality product or content:
 
 E. The public feels the organization ignores their input:
 
-- Beyond not providing feedback, this can also come from making a [political statement](https://gainedin.site/conservative-liberal/) that some consumers don't agree with.
+- Beyond not providing feedback, this can also come from making a [political statement](politics-conservativeliberal.md) that some consumers don't agree with.
 
 F. The brand somehow crosses past feeling uniquely different into feeling offensive:
 
-- Oddness has to be balanced with [familiarity](https://gainedin.site/habits/).
-- [Multi-Level Marketing](/mlm/) employs quite a few offensive marketing tactics, especially once someone is educated on how they work.
+- Oddness has to be balanced with [familiarity](habits.md).
+- [Multi-Level Marketing](marketing-mlm.md) employs quite a few offensive marketing tactics, especially once someone is educated on how they work.
 
 Even with the best brand ever, consumers will still leave:
 
-- 1% will [die](https://adequate.life/death/).
-- 3% physically [move out](https://adequate.life/moving/) of the product's range of influence.
-- 5% create new [friendships](https://gainedin.site/friendship/) that change their demographic.
+- 1% will [die](hardship-death.md).
+- 3% physically [move out](home-moving.md) of the product's range of influence.
+- 5% create new [friendships](people-4_friends.md) that change their demographic.
 - 9% will leave for a competitor who satisfies their needs better.
 - 14% will become overly dissatisfied with the product.
-- 68% leave from feeling a representative's [indifferent or inappropriate attitude](/mgmt/).
+- 68% leave from feeling a representative's [indifferent or inappropriate attitude](mgmt-1_why.md).
 
 * * * * *
 
@@ -533,21 +533,21 @@ There are many conventional distribution channels to market a product:
 
 - Printing and sending fliers and pamphlets.
 - Paying to have advertised content posted on a billboard or literature.
-- Share via [word-of-mouth](https://gainedin.site/conversation/).
-- Networks of [friends](https://gainedin.site/friendship/) or [professionals](https://gainedin.site/specialization-cities/).
+- Share via [word-of-mouth](people-conversation.md).
+- Networks of [friends](people-4_friends.md) or [professionals](jobs-specialization.md).
 
 The product itself can convey through multiple avenues as well:
 
 - Sending straight to the customer:
   - Direct through mail-order, website, or a catalog
   - Company sales staff
-  - Digital download or over the internet via [cloud service](https://trendless.tech/cloud/)
+  - Digital download or over the internet via [cloud service](computers-distsys-cloud.md)
 - Sending through a third party:
   - Through a retail store
   - Through a wholesaler
   - With a third-party agent
   - Through independent representatives
-- Making and fulfilling bids on [contracts](/contracts/) on a market.
+- Making and fulfilling bids on [contracts](people-6_contracts.md) on a market.
 
 The internet has opened up a wide variety of new advertising and distribution approaches:
 
@@ -563,7 +563,7 @@ Other advertising approaches are much more subtle than a blatant advertisement:
 - Distribute product catalogs.
 - Provide dealer and distributor incentives.
 
-To that end, most marketing requires maintaining various [designs](/design/):
+To that end, most marketing requires maintaining various [designs](design-uxui.md):
 
 - Logos, including favicons and avatars for websites
 - Cards and letterheads
@@ -583,7 +583,7 @@ If you can build attention, expect your message to permute into a simpler one:
 
 One-on-one sales is by far the most intense, relational niche of marketing.
 
-- Effective salespeople have *very* extraverted [personalities](https://gainedin.site/personality/).
+- Effective salespeople have *very* extraverted [personalities](personality.md).
 - Sales staff stay motivated from the psychological numbers game:
   - If 100 calls create a lead, every call is another step to that lead.
 - The amount of rejection necessary to thrive in sales requires an extremely high sense of confidence.
@@ -648,18 +648,18 @@ K. Confidence - (the general tone)
 
 - Gives a general image that this person has a reason for their confidence, meaning they may have a legitimate product
 
-Besides straddling [ethical](https://gainedin.site/morality/) boundaries, high-pressure sales also exploit the fact that people only reject a product after saying "no" three times.
+Besides straddling [ethical](morality.md) boundaries, high-pressure sales also exploit the fact that people only reject a product after saying "no" three times.
 
 One quick way to generate attention is through wash subscribing:
 
 1. Use many fake names with fake contact information inside a subscription system.
-2. Send out the marketing material to all the fake information, which makes it look wildly [popular](https://gainedin.site/trends/).
+2. Send out the marketing material to all the fake information, which makes it look wildly [popular](trends.md).
 3. Advertise to people that your subscription is wildly popular.
 4. If you can acquire enough actual subscribers, you've created a legitimately popular product.
 
 ### Ethical sales
 
-The correct way to sell involves most [rules of influence](https://gainedin.site/influence/), but with less pressure that [respects boundaries](https://gainedin.site/influence/).
+The correct way to sell involves most [rules of influence](power-influence.md), but with less pressure that [respects boundaries](power-influence.md).
 
 - The key to effective sales is to explain how the product is useful with 4-5 different variations, then paradoxically express that it's utterly simple to use.
   - Illustrating a point should never use a tone that implies condescension.
@@ -669,12 +669,12 @@ The correct way to sell involves most [rules of influence](https://gainedin.site
 - When the customer says "yes", don't push the matter.
   - Most upsells can turn away a client who wanted a simple experience.
 
-Often, [lying](https://adequate.life/lying/) builds leads.
+Often, [lying](people-lying.md) builds leads.
 
-- Making false or unenforceable promises often provokes someone to [sign the contract](/contracts/) that makes the sale.
-- Fabricating a crowd who raves about a product often creates enough [artificial social pressure](https://gainedin.site/image-distortion/) to generate a legitimate crowd.
+- Making false or unenforceable promises often provokes someone to [sign the contract](people-6_contracts.md) that makes the sale.
+- Fabricating a crowd who raves about a product often creates enough [artificial social pressure](image-distortion.md) to generate a legitimate crowd.
 
-The [personalities](https://gainedin.site/personality/) of sales staff (i.e., high Extroversion) mean they typically need to learn [the art of listening](https://adequate.life/speaking/).
+The [personalities](personality.md) of sales staff (i.e., high Extroversion) mean they typically need to learn [the art of listening](language-speaking.md).
 
 - Good salespeople can (and do) repeat back precise words someone said, within the context they said it.
   - Repeat back their questions, then praise them for making good questions.
@@ -687,7 +687,7 @@ There are 4 major ways to improve sales:
 1. Upsell - generate more income from an existing product through more features.
 2. Cross-sell - add more products to the first product, often with discounts across all the products.
 3. Follow-up - sell more products at a later time.
-4. Continuity - sell a [long-term contract](/contracts/) instead of a one-time sale.
+4. Continuity - sell a [long-term contract](people-6_contracts.md) instead of a one-time sale.
 
 More connections between a product and other offerings creates more natural product placement.
 
@@ -696,7 +696,7 @@ More connections between a product and other offerings creates more natural prod
 A successful salesperson can draw more attention through referral marketing.
 
 - Their expertise will mean people trust them over a stranger or faceless entity.
-- One of the most significant ways to generate nonstop referral attention is to build connections with others in related domains you're *not* [specialized](https://gainedin.site/specialization-cities/) in, then direct people you serve to them as the situation presents itself.
+- One of the most significant ways to generate nonstop referral attention is to build connections with others in related domains you're *not* [specialized](jobs-specialization.md) in, then direct people you serve to them as the situation presents itself.
 
 Focus all your effort on specific types of consumers who may still yield a mutual profit where you don't directly advertise.
 
@@ -705,7 +705,7 @@ Focus all your effort on specific types of consumers who may still yield a mutua
 Maintaining relationships with current customers is much cheaper than getting new ones, and the Customer Relationship Management (CRM) philosophy has mostly replaced the aggressive sales model.
 
 - CRM believes in a give-and-take relationship between the customer and the service provider.
-- CRM focuses on [win-win](https://adequate.life/conflicts/) through prolonged relationship-building beyond a simple one-time benefit.
+- CRM focuses on [win-win](people-5_conflicts.md) through prolonged relationship-building beyond a simple one-time benefit.
 
 CRM's strength comes from how it builds its network:
 
@@ -729,33 +729,33 @@ However, a defective or dysfunctional CRM system can be worse than none.
 
 - If there's customer data tracked with software (e.g., Salesforce) and the customer has to keep providing it over and over, it's worse for the customer than simply asking as-needed.
 - Large organizations can often create headaches for customers who simply want a plain datasheet or a quick summary.
-- People can often feel privacy violations if they didn't [consent to](/contracts/) information the CRM uses.
+- People can often feel privacy violations if they didn't [consent to](people-6_contracts.md) information the CRM uses.
 - Paying too much attention to CRM may miss that some customers are worth *not* having.
 
 ### Customer service
 
-[Customer service](/cust-svc/) is the key to holding a continued business relationship.
+[Customer service](customerservice.md) is the key to holding a continued business relationship.
 
 Without a human aspect, you can only convey value through the product itself:
 
-- Someone with better [research](/science/) will eventually beat you in the quality of the product.
-- Someone with a more [efficient delivery system](/logistics/) will eventually beat you in the product's price.
+- Someone with better [research](science.md) will eventually beat you in the quality of the product.
+- Someone with a more [efficient delivery system](logistics.md) will eventually beat you in the product's price.
 - You may not shut down as a business, but you may have to pivot from being a market player to operating a niche market.
 
-On a [large-scale](https://gainedin.site/groups-large/), customer service becomes "public relations".
+On a [large-scale](groups-large.md), customer service becomes "public relations".
 
-- Most [PR](https://gainedin.site/image-distortion/) is [adapting the story](https://gainedin.site/storytellers/) to fit a particular viewpoint that's favorable to the organization.
-- The art of public relations involves using proven [psychology methods](https://gainedin.site/bias/) to [manage a brand's optics](https://gainedin.site/image-distortion/).
+- Most [PR](image-distortion.md) is [adapting the story](stories-storytellers.md) to fit a particular viewpoint that's favorable to the organization.
+- The art of public relations involves using proven [psychology methods](mind-bias.md) to [manage a brand's optics](image-distortion.md).
 
-If there are multiple stages in the marketing process, and employees are paid based on moving customers to the next stage, it creates a perverse incentive (i.e., [Goodhart's Law](https://gainedin.site/laws-axioms/)).
+If there are multiple stages in the marketing process, and employees are paid based on moving customers to the next stage, it creates a perverse incentive (i.e., [Goodhart's Law](lawsaxioms.md)).
 
 However, too much customer service can be devastating to an organization.
 
 - Social media does *not* reflect real life.
   - The intuition is that an angry message reflects 1,000 hidden angry messages.
-  - However, usually, 1 angry message means 4 people are angry enough to be outraged, and the [algorithm](http://trendless.tech/algorithms/) favors "engagement" irrespective of *how* people responded or interacted.
+  - However, usually, 1 angry message means 4 people are angry enough to be outraged, and the [algorithm](programming-algorithms.md) favors "engagement" irrespective of *how* people responded or interacted.
   - With proper documentation, most companies can publicly communicate the exchange *back* on social media and let the public see the situation for themselves.
-- Healthy referral marketing can become sabotaged by all the extra work (and [bias](https://gainedin.site/bias/)) from maintaining business relationships with the most [unlikable and unpleasant](https://gainedin.site/personality/) consumers.
+- Healthy referral marketing can become sabotaged by all the extra work (and [bias](mind-bias.md)) from maintaining business relationships with the most [unlikable and unpleasant](personality.md) consumers.
 - Successful customer service scales in effort to the importance of the consumer to the organization.
 
 * * * * *
@@ -766,72 +766,72 @@ When done correctly, marketing *does* work.
 
 - An object that sells for $10 can easily sell for $15 or $20 with the correct amount of publicity, attention, press events, and website design.
 - With the right story that conveys the correct meaning to the right audience, an object that's free or nearly worthless can sell as a luxury product.
-- However, there are limits to its effectiveness: barring [the economy changing](https://gainedin.site/economics/), a $10 commodity will never sell for $100.
+- However, there are limits to its effectiveness: barring [the economy changing](economics.md), a $10 commodity will never sell for $100.
 
-Unfortunately, in our [over-information society](/information/), many marketing messages miss the mark in several possible ways:
+Unfortunately, in our [over-information society](information.md), many marketing messages miss the mark in several possible ways:
 
 1. The message style becomes background noise and drowns out any conveyed value.
-   - Customers will see it as a tired trope that may even imply the seller is potentially [lying](https://adequate.life/lying/) (e.g., "satisfaction guaranteed").
-2. The message will foster a [group affiliation](https://gainedin.site/groups-large/) with some customers, but alienate the rest.
+   - Customers will see it as a tired trope that may even imply the seller is potentially [lying](people-lying.md) (e.g., "satisfaction guaranteed").
+2. The message will foster a [group affiliation](groups-large.md) with some customers, but alienate the rest.
    - The number of potential leads is already a minority relative to the population at large.
    - As a statistical reality, any interest that's *not* directly related to the product will represent a minority perspective.
-   - Therefore, adding any secondary group affiliation (e.g., [political views](https://gainedin.site/conservative-liberal/)) is probably adding a minority view onto a minority view.
-3. Any [newly trending](https://gainedin.site/trends/) additions to the product can easily deter customers.
+   - Therefore, adding any secondary group affiliation (e.g., [political views](politics-conservativeliberal.md)) is probably adding a minority view onto a minority view.
+3. Any [newly trending](trends.md) additions to the product can easily deter customers.
    - Only early adopters will want the new trend, and the early majority will be skeptical until it has been proven to work.
-   - The nature of trends means the product's association with a trend will eventually alienate the *entire* majority (e.g., "[AI](https://trendless.tech/ml/)-enhanced").
+   - The nature of trends means the product's association with a trend will eventually alienate the *entire* majority (e.g., "[AI](computers-ai-ml.md)-enhanced").
 
-"User engagement" is the marketing industry's buzzword for [addiction](https://gainedin.site/addiction/).
+"User engagement" is the marketing industry's buzzword for [addiction](addiction.md).
 
-- There are severe [ethical issues](https://gainedin.site/morality/) with trying to steer people toward your product beyond simply informing them consciously.
-- We often find [meaning](https://gainedin.site/meaning/) in sacrifice itself, which makes us susceptible to becoming fanatics over expensive and unnecessary purchases.
-- [Cults](https://gainedin.site/cults/), of all types, are established and maintained with effective high-pressure marketing tactics and playing with expectations to motivate people to keep consuming.
+- There are severe [ethical issues](morality.md) with trying to steer people toward your product beyond simply informing them consciously.
+- We often find [meaning](meaning.md) in sacrifice itself, which makes us susceptible to becoming fanatics over expensive and unnecessary purchases.
+- [Cults](cults.md), of all types, are established and maintained with effective high-pressure marketing tactics and playing with expectations to motivate people to keep consuming.
 
 Ever since Edward Bernays' propagation of Sigmund Freud's psychoanalytic approach, plenty of marketing has become the subtle art of psychological manipulation.
 
-- By using [patterns](https://gainedin.site/symbols/) that associate to pleasure (especially sexual pleasure), advertisements can sidestep our conscious thoughts.
+- By using [patterns](symbols.md) that associate to pleasure (especially sexual pleasure), advertisements can sidestep our conscious thoughts.
 - While these advertisements *work* to generate customers by appealing to their baser desires, it's completely unethical.
 - From that purpose, many people have found marketing a disreputable trade.
 
 A *lot* of the marketing industry is built on bad data.
 
-- The occupation of marketing requires constant concern with [image and appearance](https://gainedin.site/image/), so it creates catastrophic results when appearance isn't [reality](https://gainedin.site/reality/).
-- [Selection-augmenting](https://gainedin.site/bias/) aspects like ad-blockers and the actual usage of certain media make marketing data deceptively [inaccurate](https://gainedin.site/math/) about many demographics.
-- There's plenty of [money](https://gainedin.site/power/) in selling bad marketing data, so double-check how people and computers gathered it.
+- The occupation of marketing requires constant concern with [image and appearance](image.md), so it creates catastrophic results when appearance isn't [reality](reality.md).
+- [Selection-augmenting](mind-bias.md) aspects like ad-blockers and the actual usage of certain media make marketing data deceptively [inaccurate](math.md) about many demographics.
+- There's plenty of [money](power.md) in selling bad marketing data, so double-check how people and computers gathered it.
 
-Marketing is the art of [image](https://gainedin.site/image/), and some things *don't* have any form of value to almost anyone.
+Marketing is the art of [image](image.md), and some things *don't* have any form of value to almost anyone.
 
 - The marketing is a waste of time if it isn't spreading the message farther, making more money per person, or selling more products to existing customers.
-- Waste products *might* have value under an [eco-friendly brand](https://gainedin.site/leftism/), but only if it still fulfills the [purposes](https://gainedin.site/purpose/) people were pursuing.
-- Above a certain price, it's impossible to [influence](https://gainedin.site/influence/) to purchase something.
-- If you're not [staying honest](https://adequate.life/lying/), you'll have a harder time gaining trust throughout the [business relationship](/contracts/).
+- Waste products *might* have value under an [eco-friendly brand](leftism.md), but only if it still fulfills the [purposes](purpose.md) people were pursuing.
+- Above a certain price, it's impossible to [influence](power-influence.md) to purchase something.
+- If you're not [staying honest](people-lying.md), you'll have a harder time gaining trust throughout the [business relationship](people-6_contracts.md).
 
 Marketing abuse is a vastly expensive and culturally damaging experience.
 
 - Each social platform has its own rules and requirements, which change somewhat frequently, and can be addicting to over-invest into.
-- [Fashionable](https://gainedin.site/trends/) things often cost 20-50% more for the same functionality, so effective branding is *not* particularly [budget-conscious](https://adequate.life/money-3/).
-- A marketed product can be so [creative](https://gainedin.site/creativity/) that it's [art](https://gainedin.site/quality/) on its own, but also doesn't sell the product.
-- If a brand is *too* [influential](https://gainedin.site/influence/), it may evoke thoughts of [cult-like fanaticism](https://gainedin.site/cults/).
+- [Fashionable](trends.md) things often cost 20-50% more for the same functionality, so effective branding is *not* particularly [budget-conscious](money-3_budget.md).
+- A marketed product can be so [creative](mind-creativity.md) that it's [art](values-quality.md) on its own, but also doesn't sell the product.
+- If a brand is *too* [influential](power-influence.md), it may evoke thoughts of [cult-like fanaticism](cults.md).
 
 The simplest ways to detect marketing abuse are by observing "glittering generalities" and "title inflation".
 
 - Glittering generalities are emotionally appealing phrases stated with conviction that create very close associations to highly valued concepts and beliefs, but give no descriptive information that conveys value to the listener:
-  - Most people on [dating](https://adequate.life/relationships/) profiles are fun-loving, relaxed, exciting people looking for a good time.
-  - Most [résumés](https://adequate.life/jobs-3/) are submitted by action-focused, hard-working, team-oriented people.
+  - Most people on [dating](relationships-3_marriage.md) profiles are fun-loving, relaxed, exciting people looking for a good time.
+  - Most [résumés](jobs-3_image.md) are submitted by action-focused, hard-working, team-oriented people.
   - Universities are always offering programs committed to fulfilling personal, academic, and professional goals.
-  - Every new framework for [web development](https://trendless.tech/web-dev/) is fast, scalable, modular, and responsive.
+  - Every new framework for [web development](computers-webdev.md) is fast, scalable, modular, and responsive.
 - Generally, a title has a certain meaning with a bestowed importance, but advancing the more positive image of a nicer title can make the title meaningless over time:
   - Cell phone plans have Unlimited, Unlimited Plus, Unlimited Forever, and Unlimited Prestige
   - A member can be Platinum, Platinum Plus, or Platinum Blue.
   - The job called Secretary is advanced to Administrative Assistant and then Office Coordinator.
-  - A person advancing a controversial, [fashionable](https://gainedin.site/trends/) idea is called a hero, then a martyr if other people disagree.
+  - A person advancing a controversial, [fashionable](trends.md) idea is called a hero, then a martyr if other people disagree.
   - An antagonist is first backwards, then a bigot, then a racist.
 
-Within a few years, people will detect *any* mass-marketing or [image manipulation](https://gainedin.site/image-distortion/) tactic and will learn to disregard it.
+Within a few years, people will detect *any* mass-marketing or [image manipulation](image-distortion.md) tactic and will learn to disregard it.
 
-- While subliminal messaging may appear to work, there's very little [scientific evidence](https://gainedin.site/science/) that indicates it does anything to influence consumers' [decisions](https://gainedin.site/decisions/).
-- Avoid [dark patterns and predatory design tactics](/design/) on your internet content.
+- While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](decisions.md).
+- Avoid [dark patterns and predatory design tactics](design-uxui.md) on your internet content.
 
 If you're not sure, well-designed traditional publications that effectively communicate what the product is and what it does are all you need.
 
 - If the thing is legitimately good, it's better to sell the thing as it really is and fire consultants who keep charging fees for things you don't understand.
-- If you aren't getting any traction, you may have [a bad idea](/entrepreneur-idea/) or a product almost nobody [wants](https://gainedin.site/purpose/).
+- If you aren't getting any traction, you may have [a bad idea](entrepreneur-2_idea.md) or a product almost nobody [wants](purpose.md).

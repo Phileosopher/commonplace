@@ -402,7 +402,7 @@ Pacifism - Peace is the greatest good.
 
 Perfectionism - People live [the good life](goodlife.md) to the degree that they successfully do things that are part of their nature.
 
-Randianism - People are best as heroic beings morally focused on [self-happiness](happiness.md/), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
+Randianism - People are best as heroic beings morally focused on [self-happiness](happiness.md), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
 
 Role ethics - People are best defined by their role in a [family](people-family.md).
 
@@ -571,7 +571,7 @@ Mercantilism/Colbertism - A society should concern aim for the best interests of
 
 Nativism - Presuming ethnocentrism (see above), the original [culture](culture.md) of a [group](groups-large.md) has more important values than the culture of people joining the group.
 
-Contractarianism/Social contract - People give up some of their [power](power.md) to governments to protect the rest of their rights or maintain [order](boundaries.md).
+[Contractarianism](people-contracts.md)/Social contract - People give up some of their [power](power.md) to governments to protect the rest of their rights or maintain [order](people-boundaries.md).
 
 Social Darwinism - Some people are more fit to rule society than others.
 
@@ -581,7 +581,7 @@ Speciesism - Social status should be based on species membership, usually implyi
 
 Techno-progressivism/Democratic transhumanism - Everyone should equally access transhuman technologies.
 
-Youthism - Young people should have the same [rights](boundaries.md) as adults.
+Youthism - Young people should have the same [rights](people-boundaries.md) as adults.
 
 ### How should we pick our leaders?
 

@@ -1,11 +1,11 @@
 
-The entire purpose of insurance is to transfer [risk](https://gainedin.site/safety).
+The entire purpose of insurance is to transfer [risk](safety.md).
 
 - Insurance is paying rent to transfer the risk of unlikely events (perils or liability) you can't afford.
   - It's technically a "hold-harmless agreement" for a fee.
-  - The only sensible insurance is for risks that can't be [avoided, reduced, self-insured, or shared](/risk-mgmt/).
+  - The only sensible insurance is for risks that can't be [avoided, reduced, self-insured, or shared](safety-riskmgmt.md).
 - Large-scale monetary losses can bankrupt you, and an insurance policy protects from those risks.
-- Unless you carry insurance from others (which is a guaranteed exercise in severe [statistical analysis](/stat/)), insurance is a *terrible* way to gain [investment](/investing/) income.
+- Unless you carry insurance from others (which is a guaranteed exercise in severe [statistical analysis](math-stat.md)), insurance is a *terrible* way to gain [investment](money-investing.md) income.
 
 Before insurance, it's often worth distributing a proportion of the risks with others to *share* it.
 
@@ -18,7 +18,7 @@ Insurance *only* manages pure risk.
 
 - A risk is the chance of a loss, but isn't the *actual* loss (e.g., the chance of slipping).
 - Risk exposures can be speculative or pure:
-  - Speculative risk - there are chances of losses *and* gain (e.g., gambling, [investing](/investing/)).
+  - Speculative risk - there are chances of losses *and* gain (e.g., gambling, [investing](money-investing.md)).
   - Pure risk - there is only the chance of loss (e.g., hurricane).
 
 In short:
@@ -29,19 +29,19 @@ In short:
 
 To be insurable, a risk must meet a few criteria:
 
-1. [Predictable](https://gainedin.site/imagination/), typically with [statistics](/stat/).
-2. Outside the insured's control ([unexpected](https://gainedin.site/imagination/), [accidental](https://gainedin.site/humanity/), or [uncertain](understanding-certainty.md)).
-3. *Not* a catastrophic thing affecting many people (e.g., [war](https://gainedin.site/war/), nuclear hazards, flood), though excess and surplus lines can often cover those events.
+1. [Predictable](imagination.md), typically with [statistics](math-stat.md).
+2. Outside the insured's control ([unexpected](imagination.md), [accidental](humanity.md), or [uncertain](understanding-certainty.md)).
+3. *Not* a catastrophic thing affecting many people (e.g., [war](people-conflicts-war.md), nuclear hazards, flood), though excess and surplus lines can often cover those events.
 4. Be measurable, with a clear monetary value.
-5. Causes a legitimate financial/economic [hardship](https://adequate.life/hardship/) (i.e., that party has an insurable interest).
+5. Causes a legitimate financial/economic [hardship](hardship.md) (i.e., that party has an insurable interest).
 
 ## The insurance policy
 
-An insurance policy is a [contract](/contracts/) between an insurer and insured:
+An insurance policy is a [contract](people-6_contracts.md) between an insurer and insured:
 
 1. The insured is responsible for multiple actions:
    - Fully report the values of properties and risks (honesty clause)
-   - Pay a premium determined by an [actuarial](/stat/) formula
+   - Pay a premium determined by an [actuarial](math-stat.md) formula
    - Promptly report losses and cooperate throughout the claim adjustment process
    - Provide timely reports of relevant changes
 2. In the event of a covered peril or liability, the insurer has multiple "aleatory" duties:
@@ -71,7 +71,7 @@ A policy has a few classifications of insured:
 
 The terms are abstractly and explicitly clarified in a policy document, which is precisely the same for *every* written policy in that classification of insurance.
 
-- The Definitions clarify *exactly* what specific terms mean in the [contract](/contracts/) (e.g., Named Insured, Vehicle, Address, etc.).
+- The Definitions clarify *exactly* what specific terms mean in the [contract](people-6_contracts.md) (e.g., Named Insured, Vehicle, Address, etc.).
 - The Conditions that indicate rules, duties, provisions, and obligations of both the insured and insurer.
   - Insurance policies are typically standard contracts with a vast collection of pre-defined conditions.
   - Conditions often address problem areas that may arise later (e.g., value disputes regarding appraisal, multiple insurance policies at the time of loss).
@@ -83,12 +83,12 @@ The terms are abstractly and explicitly clarified in a policy document, which is
   - They may be included when the policy is issued, later in the term, or during a renewal.
   - Mostly, endorsements add/change names and correct names/addresses.
 
-Since an insurance policy is a frequently used [contract](/contracts/), it has many standard terms/provisions.
+Since an insurance policy is a frequently used [contract](people-6_contracts.md), it has many standard terms/provisions.
 
 - Policy period - a window of time when coverage is provided.
   - Policy periods are most often 1 year, but can be 6 months or closer to a decade.
   - It tends to begin and expire at 12:01 am on the indicated date and address.
-  - Sometimes, a policy will cover the time it takes to complete a task (e.g., a construction project, [transit](/logistics/) policies).
+  - Sometimes, a policy will cover the time it takes to complete a task (e.g., a construction project, [transit](logistics.md) policies).
 - Policy territory - the location where coverage is provided (which may include property with a person while traveling).
 - Insured status - clarifies who is insured under a policy.
   - The insured status can range wildly in breadth, from a named insured all the way to entire people groups.
@@ -156,7 +156,7 @@ When framing a policy document, an actuary will have created a rating by gatheri
     - Vacancy is *both* the absence of people and possessions, while unoccupied is only the absence of people but with all the necessities for someone to live (e.g., food, utilities, bed, or room for customary business operations).
     - Most insurance doesn't cover vandalism, malicious mischief, broken glass, or burglary damages in a vacant property, as well as often not covering water damage or theft, and any covered losses are reduced by 15%.
     - If it's owner-occupied, at least 31% of the square footage must be occupied/rented for customary purposes.
-  - Known risks that may exist (e.g., certain [dog](https://adequate.life/pets/) breeds, swimming pool, trampoline)
+  - Known risks that may exist (e.g., certain [dog](fun-pets.md) breeds, swimming pool, trampoline)
   - The region's historical meteorological history and past claims in the region (grouped by ZIP code)
     - Redlining involves clearly discriminating based on geographical region.
   - The insurance history of the insured pulled from a LexisNexis report (coverage amounts, prior insurance carriers, claims history, dates insured)
@@ -176,10 +176,10 @@ When framing a policy document, an actuary will have created a rating by gatheri
   - Seasonal changes in inventory stock
   - Intermediate stages in construction
 
-The [law](https://gainedin.site/laws-axioms/) of adverse selection means people tend to only look for insurance when they think they may need it.
+The [law](lawsaxioms.md) of adverse selection means people tend to only look for insurance when they think they may need it.
 
 - For that reason, insurance premiums must reflect that price difference to prevent the insurer from going bankrupt.
-- More [statistical](/stat/) data forms a Poisson distribution that makes the chances and scope of risk more accurate ([law of large numbers](https://gainedin.site/laws-axioms/)).
+- More [statistical](math-stat.md) data forms a Poisson distribution that makes the chances and scope of risk more accurate ([law of large numbers](lawsaxioms.md)).
 
 Ratings have different categories:
 
@@ -212,7 +212,7 @@ Many insurance policies are designed to have *both* liability and property cover
 There are a few exceptions to property and liability/casualty:
 
 - In health insurance, the payments are determined based on care needed/provided.
-- In life insurance, the payment is simply a defined claim payment upon [death](https://adequate.life/death/) that also terminates the policy (i.e., it's death insurance).
+- In life insurance, the payment is simply a defined claim payment upon [death](hardship-death.md) that also terminates the policy (i.e., it's death insurance).
 
 Insurance clarifies precise perils with a few basic formats:
 
@@ -226,15 +226,15 @@ With some exceptions, the possessions of a typical person fit under a homeowner'
 - Homeowners policies cover the "estate" of a person, *not* just the dwelling:
   - Dwelling insurance covers *only* the dwelling itself, and is what most people think of when they think homeowners insurance.
   - Homeowners also has liability and property coverage for things *on* that dwelling (e.g., shed, garage, tools).
-  - It also covers liability protection against [legal issues](/legally-safe/) like defamation.
-  - It also has property protection for possessions while traveling (e.g., [vacations](https://adequate.life/vacations-trips/)).
+  - It also covers liability protection against [legal issues](legal-safety.md) like defamation.
+  - It also has property protection for possessions while traveling (e.g., [vacations](fun-vacations.md)).
   - A renters' policy is simply a homeowners' policy, minus the dwelling.
 - To protect something in a policy with more coverages, most agents can endorse a floater:
   - Personal articles floater (PAF) insures valuable personal property from all direct physical loss except war, nuclear risks, deterioration and decomposition, inherent vice, and insects/vermin.
   - Personal effects floater and personal property floater are other variations.
 - A person's property and liability extends out to other domains that typically operate as an entirely different insurance policy:
-  - Animal insurance (e.g., [pets](https://adequate.life/pets/))
-  - [Auto](/autos/) insurance
+  - Animal insurance (e.g., [pets](fun-pets.md))
+  - [Auto](autos.md) insurance
   - Aviation insurance
   - Concealed carry insurance (for gun ownership in a population-dense area)
   - Cyber liability
@@ -254,19 +254,19 @@ Large-scale perils (e.g., earthquakes) can easily bankrupt an insurance company,
 
 Many businesses have larger, more specific needs, and is a key part of any Human Resources department:
 
-- [Annuities](/investing/)
+- [Annuities](money-investing.md)
 - Boiler and machinery insurance
 - Businessowners insurance, like homeowners' policies, combines various coverages into a standard package
   - Directs and officers liability insurance
   - Employment practices liability
-- Cargo insurance protects either a class of cargo or specific shipments [in transit](/logistics/).
+- Cargo insurance protects either a class of cargo or specific shipments [in transit](logistics.md).
 - Fidelity and crime insurance, which protects against both burglary (forced entry/exit) and robbery (taking with violence/threats) of *any* property
 - Farm insurance
 - Furrier's block coverage is inland marine coverage for a fur dealer
 - Garage and dealers insurance
 - Glass and sign insurance
 - Group policies are *any* policy purchased in bulk (and typically discounted).
-  - If a large organization serves many clients with their [contract](/contracts/) requiring insurance (e.g., rental property, auto lien), they can have their own force-placed insurance policy and send the bill to *their* client.
+  - If a large organization serves many clients with their [contract](people-6_contracts.md) requiring insurance (e.g., rental property, auto lien), they can have their own force-placed insurance policy and send the bill to *their* client.
 - Furrier's block coverage is inland marine coverage for a jewelry dealer
 - Hole-in-one insurance for golf courses that run promotions for hitting a hole in one
 - Installation/builders risk
@@ -276,13 +276,13 @@ Many businesses have larger, more specific needs, and is a key part of any Human
 - Professional errors and omissions insurance protects the liability of a professional in the course of their work.
   - Malpractice insurance is designated specifically for high-ranking roles (e.g., attorneys and doctors)
 - Stop-loss/excess insurance (for companies who self-insure benefit plans but want liability protection)
-- Surety bond - a three-party [written agreement](/contracts/) where a principal pays a surety/insurance company to guarantee performance (and possibly pay) an obligee
+- Surety bond - a three-party [written agreement](people-6_contracts.md) where a principal pays a surety/insurance company to guarantee performance (and possibly pay) an obligee
   - Bail bonds
-- [Transportation](/logistics/) insurance
+- [Transportation](logistics.md) insurance
   - Truckers insurance
 - Weather insurance
 - Worker's compensation insurance (for on-the-job medical damages and lost wages)
-  - Assigned risk plans cover workers comp plans that can't be insured through conventional policies (due to being [unprecedented new industries](/entrepreneur/) or high-risk)
+  - Assigned risk plans cover workers comp plans that can't be insured through conventional policies (due to being [unprecedented new industries](entrepreneur-1_why.md) or high-risk)
 
 Other insurance can serve to accommodate additional liability needs.
 
@@ -302,13 +302,13 @@ The insurance agent (technically named as a field underwriter) is responsible to
   - Loss records
   - Consumer credit bureaus (e.g., Equifax/TransUnion/Experian)
   - Financial sources (e.g., Dun and Bradstreet)
-- An underwriter is legally forbidden to give any [preferential bias](https://gainedin.site/bias/) when making a judgment, and can only use the criteria of the given facts to determine a premium.
-- An underwriter is also effectively forbidden legally to misrepresent or [lie](https://adequate.life/lying/) in any capacity about an insurance policy that [influences](https://gainedin.site/influence/) the insured's decisions (twisting, false advertising, or illegal inducement).
+- An underwriter is legally forbidden to give any [preferential bias](mind-bias.md) when making a judgment, and can only use the criteria of the given facts to determine a premium.
+- An underwriter is also effectively forbidden legally to misrepresent or [lie](people-lying.md) in any capacity about an insurance policy that [influences](power-influence.md) the insured's decisions (twisting, false advertising, or illegal inducement).
 - Underwriters can't receive more money or give back *any* money (e.g., part of their commission) in the course of binding ("rebating").
 - When producing insurance, an underwriter can create an underwriting decision that can issue the policy, reject it, or provide specific exclusions or limitations for the policy.
   - An insurance agent's knowledge is considered their principal's knowledge, so their judgment represents the "vicarious liability" of their principal.
   - If an agent acts outside their authority, it's a presumption of agency, which can *easily* happen through their implied or apparent authority.
-- In general, an insurance producer is *very* beholden to staying ethical and fair, on the same level as many other formal roles such as [public accounting](/accounting/).
+- In general, an insurance producer is *very* beholden to staying ethical and fair, on the same level as many other formal roles such as [public accounting](accounting.md).
   - They're responsible to report the information they gather through legislation like the Fair Credit Reporting Act.
   - Much of it is enforced through the Unfair Trade Practices Act and Unfair Claims Settlement Practices Act.
 - The agent of record is the underwriter or agency assigned to the policy, and is the only agent permitted to change the policy.
@@ -319,7 +319,7 @@ No matter what insurance, premiums are calculated with a relatively straightforw
 1. An underwriter uses that rating to capture key pieces of information during the binding or renewal of the policy.
    - That rating may be based on the underwriter's judgment, or in a manual provided by the insurer.
 2. If the insured is an organization, the underwriter will include group policy discounts.
-   - Generally, [larger groups](https://gainedin.site/groups-large/) tend to be more stable and less likely to migrate to other carriers, meaning a lower premium.
+   - Generally, [larger groups](groups-large.md) tend to be more stable and less likely to migrate to other carriers, meaning a lower premium.
 3. The underwriter clarifies any exclusions to the coverages.
    - These exclusions are any perils clarified as omitted from the policy.
    - They may be certain people, or certain perils, or specific conditions.
@@ -338,7 +338,7 @@ No matter what insurance, premiums are calculated with a relatively straightforw
 7. The policy will bind when the insured pays, which may or may not have an effective date on that same day.
    - Sometimes, a policy will have an enrollment period for 1-2 months (e.g., group policies) that permits binding or endorsing, with only qualifying events permitted for endorsement during the rest of the term.
 8. As the insured pays, the billing is either handled by the agency (agency billing) or by the insurer (direct billing)
-   - If the insured can't pay, the policy can sometimes become a [financing product](https://adequate.life/money-2/).
+   - If the insured can't pay, the policy can sometimes become a [financing product](money-2_debt.md).
 9. If the insured must make an endorsement, prorate the premium from that day to the end of the term, then adapt the billing to reflect it.
 10. At the end of the contract, the policy is re-rated for a new period and the company issues a renewal.
 11. If the insured cancels the policy, the unearned premium is prorated to that day, has an administration fee added, and balances with either a prorated refund or short rate final bill.
@@ -353,12 +353,12 @@ Occasionally, your lifestyle or situation can create a non-standard situation, a
 - Owning high-value possessions.
 - Operating salvage title vehicles that were previously declared a total loss.
 - Living in a region with a high crime rate.
-- Being inexperienced (which includes the conditions that come with being [foreign](/requirements/)).
+- Being inexperienced (which includes the conditions that come with being [foreign](image-modern.md)).
 - Having a condition that makes you more likely to be irresponsible (young, elderly, psychological disorders).
 - Having no prior insurance, a gap in days covered, or an insurance policy canceled or non-renewed.
 - Having many claims or accidents within a short window of time.
-- Having many moving violations or convicted of driving [drunk](https://adequate.life/alcohol/).
-- Poor [credit history](https://adequate.life/money-2/).
+- Having many moving violations or convicted of driving [drunk](fun-alcohol.md).
+- Poor [credit history](money-2_debt.md).
 
 A first-loss policy is a type of property policy that only provides partial coverage.
 
@@ -379,7 +379,7 @@ Every object is treated as an extension of a person or legal entity:
 - e.g., if a person's dog roams freely and bites a child, that person is the proximate cause.
 - e.g., an accident is an extension of a person's negligence, even if it's an automotive sliding on black ice.
 - In practice, every event is one of 3 possibilities:
-  1. A person's or legal entity's liability from their [agency of choice](https://gainedin.site/decisions/) (meaning an insurance carrier will expect that person/entity pay for it, often by communication with *their* insurance).
+  1. A person's or legal entity's liability from their [agency of choice](decisions.md) (meaning an insurance carrier will expect that person/entity pay for it, often by communication with *their* insurance).
   2. An "act of God" (meaning damages are an "external risk").
   3. A liability that's too difficult to determine (meaning damages are either property damage or "comparative negligence"). One frequent version of this is theft.
 
@@ -389,8 +389,8 @@ There are quite a few common perils:
 - Collision
 - Explosion
 - Flood
-- [Disease](/health/)
-- [Death](https://adequate.life/death/)
+- [Disease](body-4_health.md)
+- [Death](hardship-death.md)
 - Some perils are defined by context:
   - Theft is taking property from a *known* place.
   - Burglary is taking property through illegally entering/exiting (with some evidence of forcible entry/exit).
@@ -405,7 +405,7 @@ Hazards can increase the severity or chance of a peril:
 
 Insurance often classifies losses as direct or indirect, and may insure one or both of them:
 
-- Direct losses are caused by the covered peril (e.g., fire damages a [home](/homes/)).
+- Direct losses are caused by the covered peril (e.g., fire damages a [home](home-buysell.md)).
 - Indirect/consequential losses are caused by consequences of a direct loss (e.g., having to stay in a temporary place while repairing the effects of a fire in a home).
 
 Losses are stated as a measurable financial amount, and can be total or partial.
@@ -415,7 +415,7 @@ Losses are stated as a measurable financial amount, and can be total or partial.
 
 Health insurance makes a clear difference between mortality and morbidity.
 
-- Mortality is the complete [cessation of life](https://adequate.life/death/) (i.e., an essential organ fails without a suitable replacement in time).
+- Mortality is the complete [cessation of life](hardship-death.md) (i.e., an essential organ fails without a suitable replacement in time).
 - Morbidity is defined as a morbid state of quality, meaning someone is *near* death.
 
 ## Claim payments
@@ -459,7 +459,7 @@ The claims process is mostly the same no matter what:
    - Generally, the longer they actually devote to the investigation, the more [fair](morality-justice.md) the outcome will be.
    - If there's a legal complaint, then it triggers a "discovery" as well to gain more documentation.
    - Nobody is legally required to provide documents without a court order or subpoena, which can *really* slow down the process.
-   - At the same time, the insurance companies may acquire a statement from the claimants by using leading questions to make the person [confess to something they didn't mean to](/legally-safe/).
+   - At the same time, the insurance companies may acquire a statement from the claimants by using leading questions to make the person [confess to something they didn't mean to](legal-safety.md).
 5. In the case of health insurance, the claims department may request access to claimants' *complete* medical information.
    - They may find pre-existing conditions, though that may or may not apply depending on the law.
 6. If it's property and casualty, they'll also perform a damage inspection to determine how much the damages will be (and sometimes arrange for repairs) while they're determining liability.
@@ -467,14 +467,14 @@ The claims process is mostly the same no matter what:
    - The only way a claims investigator will pay is if the conditions on the policy document are met, which may include canceling the policy, filing a proof of loss, or protecting the property from further loss.
    - The insured is responsible to submit a signed sworn proof of loss within 60 days of the request (which is the insured's demand for payment), and the insurer has 30 days to respond to it.
 8. The adjuster must then determine *whom* to pay.
-   - The payment for a loss will go to an insurable interest or contractor, who is often *not* the insured (e.g., [lienholder](https://adequate.life/money-2/), collision center, construction company).
+   - The payment for a loss will go to an insurable interest or contractor, who is often *not* the insured (e.g., [lienholder](money-2_debt.md), collision center, construction company).
    - In a total loss, the payment may be a check for the entire balance minus the deductible, payable to the insured or lienholder.
    - Sometimes, a contractor may require a direction to pay form, which can direct the *entire* claim payout to them.
 9. The adjuster may deny the claim outright.
    - The contract may clearly state the situation is not covered (e.g., an event was excluded).
    - There may be differing criteria for different conditions (e.g., a medication taken orally may have different requirements than the same medication taken rectally).
    - The law is framed in a way that the rejection *must* be a legitimate reason, and everyone is entitled to know why their claim is denied.
-   - However, in all cases, the capacity to appeal the decision is *very* limited, and the claimant will typically need to [file a lawsuit](/legally-safe/) to get a denied claim paid.
+   - However, in all cases, the capacity to appeal the decision is *very* limited, and the claimant will typically need to [file a lawsuit](legal-safety.md) to get a denied claim paid.
 10. The claims adjuster gives an offer to the claimant.
     - They'll sometimes make absurdly low initial offers, *far* below the value of a claimant's case.
 11. Depending on the policy, the claim payment also triggers other expenses which may apply:
@@ -503,7 +503,7 @@ While not all the parts are expressed, insurance claims use the same framework e
 4. If the insured and insurer can't agree on the value of damaged property, either one can make a demand for an appraisal.
    - Each party will select an appraiser who will each select an impartial umpire, then submit their estimate of damage, and any 2 of them agreeing creates a final decision.
    - This specific process promotes claim settlement and cuts down on expenses by requiring each party to split the costs equally for their appraiser instead of hiring attorneys.
-   - If the insured and insurer *still* can't agree on the amount for the loss, anyone can demand [arbitration](/contracts/), each with an appointed arbitrator who selects an impartial umpire, and any 2 of them agreeing creates a final decision.
+   - If the insured and insurer *still* can't agree on the amount for the loss, anyone can demand [arbitration](people-6_contracts.md), each with an appointed arbitrator who selects an impartial umpire, and any 2 of them agreeing creates a final decision.
 5. The insurance carrier pays.
    - Typically, the payment will be to a service provider to fix things.
    - If the damages are too significant and the insurance company can take the asset, they'll purchase the asset for the value minus the deductible/copay.
@@ -513,7 +513,7 @@ Most claims departments, to some small effect, take advantage of people who are 
 
 - They may imply retaining legal representation (i.e., an attorney) will void their claim.
 - The statements they gather may provide leading questions that may invoke an insured to confess to something they don't mean to.
-- They may delay claims for the claimants' bills to pile up, meaning they'll [settle for less](https://adequate.life/conflicts/).
+- They may delay claims for the claimants' bills to pile up, meaning they'll [settle for less](people-5_conflicts.md).
 - Finally, they may simply rush the case as fast as possible before claimants can understand their rights.
 
 ## Property valuation/limits
@@ -586,7 +586,7 @@ Liability insurance clarifies precise limits:
   - Per person - limits coverage per person.
   - Per occurrence - limits coverage per occurrence.
   - Most standard auto insurance policies give barely adequate liability coverage of $100K bodily injury per person capped at $300K per occurrence, with $100K property damage per occurrence (100/300/100).
-    - Boring and small cars (e.g., Toyota Camry, Honda Civic) are cheaper to insure than [identity-associating](https://gainedin.site/identity/) vehicles (e.g., Dodge Challenger).
+    - Boring and small cars (e.g., Toyota Camry, Honda Civic) are cheaper to insure than [identity-associating](identity.md) vehicles (e.g., Dodge Challenger).
 - Liability limits can also be aggregate limits instead of broken out.
   - Auto policies can have a combined single limit (CSL) instead of broken into BI/PD.
 - Liability policies can also point some of that liability back toward the insured as well.
@@ -599,8 +599,8 @@ An insurance company needs several key departments:
 
 - Legal - attorneys and actuaries frame the policy document.
 - Underwriting - company underwriters and field underwriters (aka insurance agents) write new business.
-- [Marketing](/marketing/) - branding to attempt to differentiate a fundamentally identical product.
-- Finance - performs [accounting](/accounting/) and billing activities.
+- [Marketing](marketing.md) - branding to attempt to differentiate a fundamentally identical product.
+- Finance - performs [accounting](accounting.md) and billing activities.
 - Claims - manages insurance payouts.
 
 There are a few ways to structure an insurance business.
@@ -610,10 +610,10 @@ There are a few ways to structure an insurance business.
   - Assessment mutuals require policyholders to pay additional fees when premiums are insufficient for claims.
   - Nonassessment mutuals can't require additional amounts from policyholders when premiums are insufficient (most modern companies are nonassessment mutuals).
 - Fraternal/benefit societies - memberships are based on religious, national, or ethnic affiliations, and members of the society must become a member of that organization.
-  - They're charitable organizations, so they're exempt from [taxation](/accounting/).
+  - They're charitable organizations, so they're exempt from [taxation](accounting.md).
 - Reciprocals - an unincorporated group of subscribers who agree to pool their risks together to pay for losses and purchase reinsurance.
   - An "attorney-in-fact" solicits new subscribers, collects premiums, and performs administrative tasks.
-- Risk retention groups - members of a similar trade pool their risks to mitigate them together, and is effectively a [cartel](https://gainedin.site/bad-systems/) when *very* powerful.
+- Risk retention groups - members of a similar trade pool their risks to mitigate them together, and is effectively a [cartel](mgmt-badsystems.md) when *very* powerful.
 - Lloyd's associations - a group of members, which is *not* insurance, where professional underwriters accept risk on syndicates' behalf.
 
 Beyond private organizations, governments also create insurance policies.
@@ -625,10 +625,10 @@ Beyond private organizations, governments also create insurance policies.
 
 However, government and private insurance are *not* the same:
 
-1. Participating in government insurance programs is mandatory and automatic for all citizens (i.e., through [taxation](/accounting/)).
+1. Participating in government insurance programs is mandatory and automatic for all citizens (i.e., through [taxation](accounting.md)).
 2. The benefits to participants are through passing specific laws, *not* through a policy, and changing benefits means a cumbersome legislation process.
 3. Social insurance programs are always adequate to meet public needs, but aren't equitable: while private insurance payments are approximately proportional to statistical likelihood, the least-contributors (indigent, elderly, dependents) benefit the most in government insurance.
-4. Any government insurance provider effectively owns a [monopoly](https://gainedin.site/bad-systems/) on the system from the lack of [competitive alternatives](https://gainedin.site/economics/).
+4. Any government insurance provider effectively owns a [monopoly](mgmt-badsystems.md) on the system from the lack of [competitive alternatives](economics.md).
 
 ## Insurance product distribution
 
@@ -642,7 +642,7 @@ There are several ways to distribute insurance services:
    - Can be a General Agent or Managing General Agent (MGA)
    - Represents the insured more than the insurer
    - Can represent as many insurers as they desire and paid commissions on new business they write
-3. Managing General Agent System - recruits, hires, trains and [supervises](/mgmt/) other producers
+3. Managing General Agent System - recruits, hires, trains and [supervises](mgmt-1_why.md) other producers
    - Producers tend to only insure with companies the MGA has had business relationships with
 4. Brokers - independent producers who sell insurance, but *can't* bind insurance contracts
    - They're a third party to any insurance arrangement
@@ -666,13 +666,13 @@ To stay in business, an insurance company has to maintain a delicate balance:
 
 1. The insuring company must compete with other insurance, so they must keep their premiums as low as reasonably possible.
 2. The insuring company's loss ratio (losses from claims / premium income) must always stay low (never break above 100%, or they're losing money).
-3. Ideally, an insurance company's loss ratio is <60% because a typical insurance company's expense ratio ([business](/business/) costs / operating income) is 35-40%.
+3. Ideally, an insurance company's loss ratio is <60% because a typical insurance company's expense ratio ([business](business.md) costs / operating income) is 35-40%.
 
 Since insurance needs liquidity to pay for claims, multiple organizations track their performance:
 
 - They check underwriting performance, management economy, reserve adequacy, adequacy of net resources, and the soundness of the investments.
 - A.M. Best is the oldest and largest financial rating service, but Standard & Poor's, Moody's, Duff & Phelps, and Weiss Research all rate performance.
-- The Insurance Division of each state also performs examinations and has the authority to place restrictions on writing new business, give directives on [managing](/mgmt/) the company, and in extreme cases order liquidations of the company.
+- The Insurance Division of each state also performs examinations and has the authority to place restrictions on writing new business, give directives on [managing](mgmt-1_why.md) the company, and in extreme cases order liquidations of the company.
 - The National Association of Insurance Commissioners (NAIC) has no regulatory authority, but actively creates uniform recommendations which each state generally adopts (including minimum insurance regulatory standards and ratios), as well as conducting Zone Examinations, maintaining an Insurance Regulatory Information System (IRIS) to review insurance company operations.
 
 There are only 3 ways for insurance companies to make money:
@@ -680,11 +680,11 @@ There are only 3 ways for insurance companies to make money:
 1. Profit directly from underwriters.
    - The underwriters' profit most steadily comes from insuring good risks with few to no losses.
    - Underwriters can also sell more coverage (e.g., higher liability limits) or adding more features (e.g., extra insurance gimmicks).
-2. [Investments](/investing/) with income not related to claim payments.
+2. [Investments](money-investing.md) with income not related to claim payments.
    - They can't simply invest into anything, and their investment portfolios are typically tracked.
 3. Reducing overall claims expense, typically from finding legal ways to *not* pay a claim.
    - This often comes through adapting policy language to conform to *very* specific situations.
-   - Insurance companies have the most control over reducing claims expense, but it's also the most [unethical](https://gainedin.site/morality/).
+   - Insurance companies have the most control over reducing claims expense, but it's also the most [unethical](morality.md).
 
 If an insurance company ever becomes insolvent (i.e., can't pay claims), the government has its guaranty.
 
@@ -705,7 +705,7 @@ Insurance companies will use *any* information available to adjust their rating.
 
 ## Insurance wisdom
 
-Since insurance is a contract, the same [wisdom for contracts](/contracts/) applies in insurance.
+Since insurance is a contract, the same [wisdom for contracts](people-6_contracts.md) applies in insurance.
 
 Unless it's the law, insurance never has to be permanent.
 
@@ -714,25 +714,25 @@ Unless it's the law, insurance never has to be permanent.
   - Weird gimmicks like "return of premium" or "waiver of premium" are often not worth the cost.
 - Don't permit gaps in coverage by starting policies later than the old policy's end date.
 
-Insurance is a significantly complex business model that creates many [hyper-specialized roles](/idiot/).
+Insurance is a significantly complex business model that creates many [hyper-specialized roles](https://gainedin.site/idiot/).
 
 - The only qualified person who has *any* idea beyond their small box is the independent agent, but that's only to some degree.
-- Most people in the insurance industry are imprecise with insurance jargon, so ask for *specific* clarification on any trade-based term you hear, and [record every conversation you make](/legally-safe/).
+- Most people in the insurance industry are imprecise with insurance jargon, so ask for *specific* clarification on any trade-based term you hear, and [record every conversation you make](legal-safety.md).
 - Nobody in an insurance office is particularly aware of your business and personal needs, though they're often aware of the way they frame in the context of a policy.
 
-The best way to save on insurance is to carry a [reputation](https://gainedin.site/image/) within your [legal fiction](/requirements/) that implies [safety](https://gainedin.site/safety/).
+The best way to save on insurance is to carry a [reputation](image.md) within your [legal fiction](image-modern.md) that implies [safety](safety.md).
 
 - The credit score is for banks asking "will you pay off your debts on time?" and the insurance score is for insurance carriers asking "will you stay continuously covered and not file claims?"
 - Generally, shopping around can save 20-40%, but the most affordable insurance will often include a decrease in quality (and possibly claim payout) when you need to file a claim.
-  - The [project management](https://notageni.us/mgmt-projects/) triangle still applies, but insurance can instead be between quality, cost, or maintaining known risks.
+  - The [project management](mgmt-2_projects.md) triangle still applies, but insurance can instead be between quality, cost, or maintaining known risks.
 - Make lifestyle decisions that enhance your insurance score:
-  - Good GPA in school or staying in the [educational system](https://gainedin.site/pedagogy/)
+  - Good GPA in school or staying in the [educational system](pedagogy.md)
   - Clean driving record
-  - Good [credit score](https://adequate.life/money-2/)
+  - Good [credit score](money-2_debt.md)
   - Low-mileage vehicle (i.e., don't drive it around much)
-  - [Gym membership](https://adequate.life/weight/)
+  - [Gym membership](body-3_exercise.md)
 
-Only pay insurance premiums with already-[taxed](/accounting/) money to ensure claims are *also* after-tax.
+Only pay insurance premiums with already-[taxed](accounting.md) money to ensure claims are *also* after-tax.
 
 Aim for as many premium discounts as possible that *don't* cut back on coverage:
 
@@ -740,9 +740,9 @@ Aim for as many premium discounts as possible that *don't* cut back on coverage:
 - Keep multiple vehicles, people, and insurance policies with one insurer.
   - A decent insurance agent *might* find ways to split up policies, people, and properties, but it's generally not common for saving money and insurance companies prefer that policies *not* have excluded individuals.
 - Most extra features are absolutely unnecessary, especially if you don't understand them.
-- Raise the deductible as high as the [emergency fund](https://adequate.life/money-3/) you typically maintain (at least $1,000 if possible).
+- Raise the deductible as high as the [emergency fund](money-3_budget.md) you typically maintain (at least $1,000 if possible).
   - There are also privacy benefits to a high-deductible arrangement, since small events don't have to be reported.
-  - If you can, make and sign [legal agreements](/contracts/) with others to settle *without* involving insurance companies.
+  - If you can, make and sign [legal agreements](people-6_contracts.md) with others to settle *without* involving insurance companies.
 - You can sometimes get a discount for staying with an insurance company for several years.
 - How and when you pay insurance can provide discounts.
   - To get an early quote discount, shop about 1-2 months before a policy is up for renewal.
@@ -751,27 +751,27 @@ Aim for as many premium discounts as possible that *don't* cut back on coverage:
 
 Don't cut back on coverages that may legitimately matter:
 
-- Carry an adequate amount of liability, and scale it upward as you [gain wealth](https://adequate.life/money-3/).
+- Carry an adequate amount of liability, and scale it upward as you [gain wealth](money-3_budget.md).
 - Use special form policies whenever possible to cover extremely atypical events (e.g., meteor shower).
 - When possible, use combined limits (e.g., blanket limits, CSL) to ensure you're less likely to hit them.
 - For high-value assets, keep replacement cost valuation if at all possible.
 - Renter's insurance is *very* cheap and always worth the expense (and often required for many apartments).
   - If you rent a home that burns down or floods, the owner's insurance will *not* cover you!
 - The quality of an insurance policy is defined *explicitly* by its covered perils.
-  - Customer service is only secondary to high-quality claim payments, but it can make [the process of claim payments](/bureaucracy/) faster.
+  - Customer service is only secondary to high-quality claim payments, but it can make [the process of claim payments](bureaucracy.md) faster.
   - *Always* carry coverage for natural disasters common to your area.
 
-When insurance *is* the law or part of a [contractual obligation](/contracts/), pay close attention to what you need and why.
+When insurance *is* the law or part of a [contractual obligation](people-6_contracts.md), pay close attention to what you need and why.
 
 - Most contractual requirements for insurance are also tests of financial responsibility.
-- When a [lienholder](https://adequate.life/money-2/) requires insurance on their property, they aren't concerned with your liability, and only that an unfortunate event won't destroy their collateral.
+- When a [lienholder](money-2_debt.md) requires insurance on their property, they aren't concerned with your liability, and only that an unfortunate event won't destroy their collateral.
 - If a rental agreement requires insurance, they're typically concerned with your liability (since they're usually insuring the property you're renting as their policy).
 - If a business contract requires commercial insurance, they typically want proof you've had it for a set period *before* arranging for that contract.
 
 Be explicitly honest with your insurance agent.
 
-- Many people will [lie](https://adequate.life/lying/) on their insurance (including concealment), and that will adversely affect the rate when a reporting bureau finds out, and can lead to nonpayment of a claim.
-- A claim submitted within a few weeks or months of starting a policy can often show up on the LexisNexis report to generate a *very* adverse [reputation](https://gainedin.site/image/).
+- Many people will [lie](people-lying.md) on their insurance (including concealment), and that will adversely affect the rate when a reporting bureau finds out, and can lead to nonpayment of a claim.
+- A claim submitted within a few weeks or months of starting a policy can often show up on the LexisNexis report to generate a *very* adverse [reputation](image.md).
 
 Online-only insurance companies are generally pricier because people are more likely to submit fraudulent claims online than directly to an agent.
 
@@ -787,7 +787,7 @@ Submit claims wisely.
 - Your insurance rate *will* go up when you submit a claim, but you can always migrate to another carrier after the event (even if the claim wasn't paid yet).
 - Let them know you have an attorney beforehand with a letter of representation, since you're not supposed to speak with them directly if you do.
 - Work peaceably with the adjuster, since they're a one-person bureaucratic dictatorship paid to be precise about your claim. They're within a claims department and deal weekly with *dozens* of people in your same situation who are generally hostile.
-- Expect a week to 3 months for a claim to process into a payout, with *lots* of [bureaucratic](/bureaucracy/) back-and-forth.
+- Expect a week to 3 months for a claim to process into a payout, with *lots* of [bureaucratic](bureaucracy.md) back-and-forth.
 - Don't throw *anything* away, and send all the required documents at once.
 
 If you're interested in a more community-minded form of insurance, consider reciprocals.
@@ -797,13 +797,13 @@ If you're interested in a more community-minded form of insurance, consider reci
 Auto insurance
 
 - State minimum liability is acceptable if you're poor, but aim for at *least* 25/50/25 and preferably 100/300/100.
-- If you have an [older car](/autos/), consider dropping collision coverage.
+- If you have an [older car](autos.md), consider dropping collision coverage.
 - Uninsured and under-insured motorist (UM/UIM) coverage is *very* affordable, and almost always worth it, since 1 in 6 drivers in the USA don't carry insurance.
 - If you would rather not get auto insurance, you also have the option to post a bond for the state minimum combined amount or qualify as self-insured.
 
 Crime insurance
 
-- Any identity theft protection should include *some* type of crime insurance, or it's not worth the expense compared to changing [cyber safety habits](https://trendless.tech/cysec/).
+- Any identity theft protection should include *some* type of crime insurance, or it's not worth the expense compared to changing [cyber safety habits](computers-cysec.md).
 
 Disability insurance
 
@@ -821,9 +821,9 @@ Health insurance
   - 70% of a person's lifetime medical expenses are in the last year of their life, and 80% in the past 6 months.
   - At the point of reaching morbidity, additional healthcare is simply delaying the inevitable by a few months.
 - Since it's too much risk, *never* decrease the maximum pay.
-- Your healthcare can improve your quality of life, but only after you've [taken care of yourself](/health/) *without* healthcare providers.
+- Your healthcare can improve your quality of life, but only after you've [taken care of yourself](body-4_health.md) *without* healthcare providers.
   - A health insurance company will often wholly reimburse the cost of a gym membership.
-- Healthcare won't prevent the [inevitable death](https://adequate.life/death/) that we all must face, so [learn to accept what may come after it](https://gainedin.site/religion/).
+- Healthcare won't prevent the [inevitable death](hardship-death.md) that we all must face, so [learn to accept what may come after it](religion.md).
 - If you're healthy and don't expect children, try to bring insurance costs down:
   - Increase your deductibles, co-payments, and stop-loss.
 - The health insurance system in the USA is *not* part of 1 unified healthcare system, but instead part of 50+ independent systems on a state-by-state basis.
@@ -849,23 +849,23 @@ Life insurance
   - Whole life insurance - lasts all the way to the end of a person's life
     - Universal life insurance is like whole life insurance, but with more features
 - Near the end of your life, your life insurance needs should *not* be significant.
-  - Beyond [burial costs](https://adequate.life/death/) and [caring for your spouse](https://adequate.life/relationships/), you won't need it.
+  - Beyond [burial costs](hardship-death.md) and [caring for your spouse](relationships-3_marriage.md), you won't need it.
 - Children's life insurance should only serve to cover burial expenses.
 - Whole life insurance is almost always *much* pricier than term life insurance.
 - Most people are completely unaware of the details of their life insurance policy.
 - Whole insurance typically funds a savings plan as well as an insurance product.
-  - The gains on an insurance savings plan are abysmal compared to just about any [investment vehicle](/investing/) (including CDs and savings accounts).
+  - The gains on an insurance savings plan are abysmal compared to just about any [investment vehicle](money-investing.md) (including CDs and savings accounts).
 
 Travel insurance
 
-- If you're ever traveling (especially on a [vacation](https://adequate.life/vacations-trips/)), always get travel insurance.
+- If you're ever traveling (especially on a [vacation](fun-vacations.md)), always get travel insurance.
 - One of the most common features of travel insurance includes trip-cancellation insurance, which will reimburse your trip expenses if you experience a qualified unforeseeable event.
   - Some insurance allows you to cancel for any reason, but their premiums are often 40-60% more.
 
 Dumb insurance to avoid
 
-- Credit life insurance and credit disability insurance - pay off the creditors instead of buying insurance against the [debt](https://adequate.life/money-2/).
-- Mortgage life insurance - pay off the mortgage instead of buying insurance against the [debt](https://adequate.life/money-2/).
+- Credit life insurance and credit disability insurance - pay off the creditors instead of buying insurance against the [debt](money-2_debt.md).
+- Mortgage life insurance - pay off the mortgage instead of buying insurance against the [debt](money-2_debt.md).
 - Supplemental health insurance - redundant, since it's covering what health insurance is already supposed to cover.
 - Accidental death and dismemberment - only covers certain *ways* a person can die.
-- Prepaid burial policies - burial needs can be covered with a well-funded [emergency fund](https://adequate.life/money-3/).
+- Prepaid burial policies - burial needs can be covered with a well-funded [emergency fund](money-3_budget.md).

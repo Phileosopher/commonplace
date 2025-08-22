@@ -1,7 +1,7 @@
 
-Visual design creates a user experience (UX) that designates how people [understand](understanding.md) the nature and implications of [created works](https://gainedin.site/creations/), and in most [capitalistic](https://gainedin.site/economics/) societies closely connected to [advertising](/marketing/).
+Visual design creates a user experience (UX) that designates how people [understand](understanding.md) the nature and implications of [created works](creations.md), and in most [capitalistic](economics.md) societies closely connected to [advertising](marketing.md).
 
-Good design contains a *lot* of psychology because users create models in their mind of how something is supposed to work, so it dovetails with most of our [cognitive biases](https://gainedin.site/bias/).
+Good design contains a *lot* of psychology because users create models in their mind of how something is supposed to work, so it dovetails with most of our [cognitive biases](mind-bias.md).
 
 Throughout all good design, a few traits perpetually resonate:
 
@@ -9,44 +9,44 @@ Throughout all good design, a few traits perpetually resonate:
 2. The experience simplifies the structure of tasks.
 3. Things to do and things that happen are readily visible.
 4. There are obvious associations between action and purpose.
-5. Both natural and artificial constraints are intentionally exploited as a [type of power](https://gainedin.site/power-types/) (rather than as a hindrance or challenge).
-6. When all else fails, creates [standards](https://trendless.tech/protocols/) to nail things down.
+5. Both natural and artificial constraints are intentionally exploited as a [type of power](power-types.md) (rather than as a hindrance or challenge).
+6. When all else fails, creates [standards](standards-computers.md) to nail things down.
 
-We tend to need both order and variety. Too much [order](understanding-certainty.md) feels boring and oppressive, while too much [variety](https://gainedin.site/change/) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all of design.
+We tend to need both order and variety. Too much [order](understanding-certainty.md) feels boring and oppressive, while too much [variety](changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all of design.
 
 ## User-based
 
 Users travel through a predictable flow of thought as they use something (known as a "user story" in the industry):
 
-1. A [purpose](https://gainedin.site/purpose/) they want to accomplish, which doesn't change throughout the process.
-2. A [decision](https://gainedin.site/decisions/) to do an action.
-3. The [physical action itself](https://gainedin.site/results/).
+1. A [purpose](purpose.md) they want to accomplish, which doesn't change throughout the process.
+2. A [decision](decisions.md) to do an action.
+3. The [physical action itself](mind-creativity-results.md).
 4. Their observation of the action.
-5. Their [interpretation](https://gainedin.site/image/) of the state of the thing they're interacting with.
+5. Their [interpretation](image.md) of the state of the thing they're interacting with.
 6. An [evaluation](understanding.md) of that state.
 
-As they attempt to perform an action, they perform a complex [decisions-based calculus](https://gainedin.site/decisions/) to determine whether they still want to keep doing it.
+As they attempt to perform an action, they perform a complex [decisions-based calculus](decisions.md) to determine whether they still want to keep doing it.
 
 - In general, people choose the path of least resistance in their decision-making calculus, and good design fosters the decisions they would naturally *want* to make.
 - If the object isn't designed well enough, they'll stop using it.
 - When that object has alternative objects for accomplishing the same task, they may use another object.
-- If that object is absolutely necessary to perform the task, they'll either have to exercise willpower to complete it or will find [a creative way](https://gainedin.site/creativity/) to *not* perform that task at all.
+- If that object is absolutely necessary to perform the task, they'll either have to exercise willpower to complete it or will find [a creative way](mind-creativity.md) to *not* perform that task at all.
 
-On a large-scale, many projects have lengthy meetings that discuss the size of a logo or the precise location a webpage opens to because absolutely *inane-looking* details can provoke dramatic philosophical distinctions within the user's [story](https://gainedin.site/stories/).
+On a large-scale, many projects have lengthy meetings that discuss the size of a logo or the precise location a webpage opens to because absolutely *inane-looking* details can provoke dramatic philosophical distinctions within the user's [story](stories.md).
 
-However, since [cultures](https://gainedin.site/culture/) change and [technologies](https://gainedin.site/technology/) improve, a good design at one time can easily become a bad design later.
+However, since [cultures](culture.md) change and [technologies](technology.md) improve, a good design at one time can easily become a bad design later.
 
 ## Rules
 
-Good design distills into a wide variety of reliable [axioms](https://gainedin.site/laws-axioms/). These span the entire range of psychological perception and [bias](https://gainedin.site/bias/), and social scientists and UX designers are *constantly* discovering new ones.
+Good design distills into a wide variety of reliable [axioms](lawsaxioms.md). These span the entire range of psychological perception and [bias](mind-bias.md), and social scientists and UX designers are *constantly* discovering new ones.
 
-Anyone who follows the rules can design well, even when they're not very [creative](https://adequate.life/creativity/).
+Anyone who follows the rules can design well, even when they're not very [creative](mind-creativity-how.md).
 
 Least Astonishment Principle - a design should match a user's experience, expectations, and mental models
 
 Information filtering
 
-- Aesthetic-usability effect - we often perceive [aesthetically pleasing](https://gainedin.site/quality/) design as being more usable
+- Aesthetic-usability effect - we often perceive [aesthetically pleasing](values-quality.md) design as being more usable
 - Anchoring bias - we tend to rely heavily on the first piece of information they see
 - Attentional bias - we filter our thoughts based on what they're paying attention to
 - Banner blindness - we tune out what they repeatedly see
@@ -63,7 +63,7 @@ Information filtering
 - Juxtaposition - elements tend to get grouped when they're similar
 - Law of proximity - elements tend to get grouped when they're near each other
 - Mental model - we have a preconceived opinion on how things work
-- Priming - previous perceptions will influence someone's [decision](https://gainedin.site/decisions/)
+- Priming - previous perceptions will influence someone's [decision](decisions.md)
 - Progressive disclosure - we are less overwhelmed from complex features if they're shown later
 - Selective attention - we filter out things when they're focused on other things
 - Spark effect - we are more likely to take actions when they're small
@@ -99,7 +99,7 @@ Finding meaning
 - Law of Prägnanz - Since it takes the least amount of effort, we distill vague things ibe linked tonto a simpler and more complete form
 - Law of similarity - we tend to perceive a relationship between similar-looking elements
 - Law of uniform connectedness - we see visually connected elements as more related than elements with no connection
-- Noble edge effect - we prefer [organizations](https://gainedin.site/groups-large/) that appear socially responsible
+- Noble edge effect - we prefer [organizations](groups-large.md) that appear socially responsible
 - Parkinson's law - we expand tasks to fill in extra time
 - Scarcity - we value things more when there's a limited supply of them
 - Self-initiated triggers - we are more likely to interact with self-made prompts
@@ -127,7 +127,7 @@ Pseudo-conscious states of mind
 - Dunning-Kruger effect - we tend to overestimate their skills when they don't know much
 - False consensus effect - we tend to overestimate how much other people agree with them
 - Feedforward - we know what to expect before acting
-- Flow state - we can be fully [immersed into a task](https://adequate.life/success-4/)
+- Flow state - we can be fully [immersed into a task](success-4_routine.md)
 - Internal trigger - we can be prompted to act based on a memory
 - Law of locality - we connect things that are nearby other things
 - Law of the instrument - the object we use dictates how we perceive everything else
@@ -135,7 +135,7 @@ Pseudo-conscious states of mind
 - Reciprocity - we feel the need to respond when we receive something
 - Recognition over recall - we recognize things more easily than recalling them from memory
 
-Mostly-conscious [decision-making](https://gainedin.site/decisions/)
+Mostly-conscious [decision-making](decisions.md)
 
 - Availability heuristic - we favor recent and available information over past information
 - Decision fatigue - making many decisions makes us more irrational toward more decisions
@@ -160,7 +160,7 @@ Time management
 - Labor illusion - we value things more *after* we've done work on it
 - Labor perception bias - we tend to imagine some things *always* take work
 - Planning fallacy - we tend to underestimate how much time a task will take
-- Spacing effect - we [learn more](understanding.md) when [study sessions](https://adequate.life/memory/) are spaced out
+- Spacing effect - we [learn more](understanding.md) when [study sessions](mind-memory.md) are spaced out
 
 Memory
 
@@ -169,13 +169,13 @@ Memory
 - Negativity bias - we tend to remember negative events more than positive ones
 - Picture superiority effect - we tend to remember pictures more than words
 - Serial position effect - we more easily remember the first and last things in a series
-- Storytelling effect - we remember [stories](https://gainedin.site/stories/) more than [facts](https://gainedin.site/reality/)
+- Storytelling effect - we remember [stories](stories.md) more than [facts](reality.md)
 - Zeigarnik effect - we remember uncompleted or interrupted tasks more than completed ones
 
 Consequences
 
 - Backfire effect - we tend to intensify our convictions when they're challenged
-- IKEA effect - we value things much more when they partially [create](https://gainedin.site/creations/) it
+- IKEA effect - we value things much more when they partially [create](creations.md) it
 - Observer-expectancy effect - researchers' biases affect the participants of an experiment
 - Pareto principle - 80% of the results come from 20% of the causes
 - Peak-end rule - we judge an experience by its peak and how it ends, *not* not the total sum of our experiences
@@ -190,7 +190,7 @@ However, the rules of good design are *not* mechanical. Over-engineering a produ
 Every tool has several parts:
 
 1. The part the user interacts with (the "interface"), which is the domain of UX.
-2. The part which actually *[fixes](/fix/)* a problem (like a screwdriver tip or [graphical interface](https://trendless.tech/ux-ui/)).
+2. The part which actually *[fixes](fix.md)* a problem (like a screwdriver tip or [graphical interface](design-uxui.md)).
 3. Supporting parts that help the first two (i.e., technical things).
 
 A designer is *literally* communicating nonverbal information to the user through how they built the object and interface. If the designer fails through implication, they must use labels and instructions.
@@ -223,7 +223,7 @@ The simpler things appear, the louder the communication becomes, so the design s
 - At the same time, if a graphical element is vague, it's *worse* than putting a text label.
 - Text labels should be easy to read even in a dark room, and all abbreviations should be commonplace.
 
-Choice overload can be a very frequent problem, and every [decision](https://gainedin.site/decisions/) will wear down the user. For that reason, unpack the scope of decisions with a rigid procedure:
+Choice overload can be a very frequent problem, and every [decision](decisions.md) will wear down the user. For that reason, unpack the scope of decisions with a rigid procedure:
 
 1. Start from the user's initial needs.
    - Show how each choice's consequences can [feel](mind-feelings.md).
@@ -232,7 +232,7 @@ Choice overload can be a very frequent problem, and every [decision](https://gai
 3. Avoid *any* unnecessary friction which could make decision-making more difficult for the user.
    - Make categories as meaningful as possible for the customer.
    - When a decision is likely, pre-select for them to allow them more convenience.
-   - Personalize the experience for them, but not so much that they [feel their privacy was violated](https://trendless.tech/faang/).
+   - Personalize the experience for them, but not so much that they [feel their privacy was violated](faang.md).
 4. Delay optional or difficult tasks.
    - Remove the least-selected items completely, especially when there's no distinctive difference between elements.
 
@@ -240,26 +240,26 @@ The easiest way to figure out what the design communicates is to squint your eye
 
 - The most obvious things will stick out more than the rest, often through color or size.
 
-One of the most important components of design is to give reliable, rapid feedback. The user *must* know their action mattered, or what they should have done instead. The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](https://trendless.tech/keyboard/) into a textbox.
+One of the most important components of design is to give reliable, rapid feedback. The user *must* know their action mattered, or what they should have done instead. The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](computers-keyboard.md) into a textbox.
 
 UX doesn't only apply to visual elements:
 
-- Even without [computers](http://trendless.tech), push-button interfaces may still have light/dial feedback (e.g., heavy machinery).
+- Even without [computers](computers.md), push-button interfaces may still have light/dial feedback (e.g., heavy machinery).
 - Even without any visual indicators, an interface can be completely audio-based (e.g., a phone number's directory tree).
 - Many UX designers simply focus on visual elements because it's the most familiar sense most of us use, so sound can become *extremely* annoying or risky when misused or mismanaged.
 - The design should incorporate what happens if the sound settings are lowered or off (e.g., <50% volume) and the possibility that the user will *not* see a visual input (e.g., away from screen).
 
-Users can only draw from their [environment](https://gainedin.site/reality/) (observations) or [memory](https://gainedin.site/imagination/) (expectations), so the design should incorporate existing [cultural expectations](https://gainedin.site/culture/).
+Users can only draw from their [environment](reality.md) (observations) or [memory](imagination.md) (expectations), so the design should incorporate existing [cultural expectations](culture.md).
 
-Good design works with (and never fights) the user's natural impulses. The most cathartic experience for a user is when they have an *easier* time using something than they're [accustomed to](https://gainedin.site/habits/). If people ever feel frustration over a particular product, [there's an untapped market there](/entrepreneur/).
+Good design works with (and never fights) the user's natural impulses. The most cathartic experience for a user is when they have an *easier* time using something than they're [accustomed to](habits.md). If people ever feel frustration over a particular product, [there's an untapped market there](entrepreneur-1_why.md).
 
 ## Documentation
 
-In the absence of being able to reliably communicate, [documentation](/documentation/) is a necessary evil. However, the best documentation creates standards and protocols that clarify *explicit* rules on how things should be.
+In the absence of being able to reliably communicate, [documentation](language-writing-documentation.md) is a necessary evil. However, the best documentation creates standards and protocols that clarify *explicit* rules on how things should be.
 
 Make sure to record the documentation *before* wrapping up the project or closing everything in. After the concrete has hardened, the software has been compiled, the network is live, and the engineers have left, there should be plenty of information to indicate how everything works inside.
 
-If there's a [computerized](https://trendless.tech/) text code (e.g., [VIN](/autos/), [MAC address](https://trendless.tech/networks/)), make sure the content is legible:
+If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](networks-computer.md)), make sure the content is legible:
 
 - Avoid using similar symbols (e.g., S vs. 5).
 - Group the elements out with standardized characters (e.g., 513-424-0945, 8/192.168.0.1).
@@ -281,9 +281,9 @@ While indirect system interaction is fine when the work isn't critical, the syst
 
 ## Human error
 
-People make mistakes, and high-quality products usually don't. Most products create a very [logical](https://gainedin.site/logic/) issue that's [easy to diagnose](/fix/), but human mistakes tend to group into several classes:
+People make mistakes, and high-quality products usually don't. Most products create a very [logical](logic.md) issue that's [easy to diagnose](fix.md), but human mistakes tend to group into several classes:
 
-1. Capture error, where a familiar *and* unfamiliar action is the same, so the familiar action wins out by virtue of [habit](https://gainedin.site/habits/).
+1. Capture error, where a familiar *and* unfamiliar action is the same, so the familiar action wins out by virtue of [habit](habits.md).
 2. Description error, where the inner characteristics of the action are mixed up (but the form appears to be the same), which often comes by being distracted or stressed.
 3. Data-driven error, where the information in someone's memory is mixed up.
 4. Associative activation error, where an unrelated thought guides an action.
@@ -302,20 +302,20 @@ To accommodate this, good design incorporates reliable ways to handle human erro
 
 ## Elements
 
-Each design has to go through a *lot* of testing to make sure it works correctly. The organization designing the object will typically provide a [marketing](/marketing/)-driven [image](https://gainedin.site/image/) to:
+Each design has to go through a *lot* of testing to make sure it works correctly. The organization designing the object will typically provide a [marketing](marketing.md)-driven [image](image.md) to:
 
-- Using "personas" of various types of people to rapidly define what [purposes](https://gainedin.site/purpose/) that user can use the interface for.
+- Using "personas" of various types of people to rapidly define what [purposes](purpose.md) that user can use the interface for.
 - Creating an "information architecture" to visually inform users of their location relative to the rest of the interface.
-- People feel supported throughout the experience, often where they can summon [extra documentation](https://trendless.tech/documentation/) or contact a person.
+- People feel supported throughout the experience, often where they can summon [extra documentation](language-writing-documentation-cs.md) or contact a person.
 - Each person's task is an "iteration", which they will expect to repeat with the same results each time, to create a reproducible "user journey".
 
-Generally, combining elements and grouping them with optical illusions creates simplicity (at least until the user has to *use* it with too many controls), and most expert designers tend to find [creative](https://gainedin.site/creativity/) ways to merge multiple seemingly unrelated elements.
+Generally, combining elements and grouping them with optical illusions creates simplicity (at least until the user has to *use* it with too many controls), and most expert designers tend to find [creative](mind-creativity.md) ways to merge multiple seemingly unrelated elements.
 
 ### Colors
 
 Colors create instant judgments and [feelings](mind-feelings.md) that bypass the conscious mind.
 
-- Literally *seconds* after someone sees a color, they've defined [beliefs](https://gainedin.site/values/) about that thing.
+- Literally *seconds* after someone sees a color, they've defined [beliefs](values.md) about that thing.
 
 Warm Colors (red, orange, yellow, gold, pink):
 
@@ -348,7 +348,7 @@ Some colors in particular provide strange, counter-intuitive associations.
 The structure should reinforce the way the user should [understand](understanding.md) what's important and what they should "do":
 
 - A visual hierarchy that makes people focus on the most important piece of content first, then move to the next most important, and so on. You should easily see that dominance if you squint or take your glasses off.
-- Make the "[call to action](/marketing/)" as clear and distinctive as possible compared to the rest of the product.
+- Make the "[call to action](marketing.md)" as clear and distinctive as possible compared to the rest of the product.
 - Elements aligned with other elements to give a sense of order and to connect related concepts.
 - Handle sharp corners carefully because they create a harsh contrast from our associations within nature and point away from the elements *within* those boxes.
 - If the interface can use a low-tech solution that plainly communicates an elaborate concept (e.g., indicator light, dial), it's often superior to a more advanced element (e.g., touchscreen).
@@ -360,7 +360,7 @@ Avoid "Z-patterns" across the flow of the information where the eye moves left-t
 
 ### Selections
 
-A user must be able to quickly gather relevant information and [decide](https://gainedin.site/decisions/):
+A user must be able to quickly gather relevant information and [decide](decisions.md):
 
 - A "default" option or configuration the user will usually use.
 
@@ -374,7 +374,7 @@ Set simple typography and color on complex backgrounds, and complex typography a
 
 ### Colors
 
-Beyond [marketing](/marketing/), colors also communicate subtle information of their own:
+Beyond [marketing](marketing.md), colors also communicate subtle information of their own:
 
 - Warm versus cold colors determines the mood of the experience.
 - Grey shades tend to imply an inhuman experience, but are necessary to offset a colored background.
@@ -388,7 +388,7 @@ You don't need a wide variety of colors. Often, 2-4 colors is all most designed 
 
 ### Typography
 
-Pay close attention to [font](https://trendless.tech/graphics/) choice. Text details like like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md):
+Pay close attention to [font](graphics.md) choice. Text details like like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md):
 
 ![](/wp-content/uploads/2023/03/ux.png)
 
@@ -426,11 +426,11 @@ There are a few important ways to handle more features:
 4. Intuitively hide away less-frequent features. Hiding them away without communicating where they are will make the user think they don't exist, and some of them may need it!
 5. Pay close attention to obsolete or unnecessary features as they arise. Those features need removing.
 
-Frequently, focus groups can add features that destroy the core [functionality](https://gainedin.site/purpose/) of the product.
+Frequently, focus groups can add features that destroy the core [functionality](purpose.md) of the product.
 
 ## At scale
 
-Often in large organizations, a [committee](https://gainedin.site/groups-large/) makes changes to the UX, and it tends to follow a lengthy procedure for it to roll out.
+Often in large organizations, a [committee](groups-large.md) makes changes to the UX, and it tends to follow a lengthy procedure for it to roll out.
 
 First, there are a variety of techniques to learn what the users' optimal behaviors will be:
 
@@ -446,7 +446,7 @@ There's a *lot* of testing that goes into most large-scale visual designs:
 - System usability scale, where people are interviewed on 10 1-to-5 questions on how much they like the interface.
 - Task-based testing, by giving people instructions and observing how well they do them in the interface, as well as any hangups in their flow.
 
-The entire experience of UX testing can be harrowing for designers and UX developers, since test subjects are only talking about what they [feel](mind-feelings.md) versus the creators focusing on [reality](https://gainedin.site/reality/) or on an [idealized aesthetic](https://gainedin.site/quality/). However, every $1 invested in good UX can often make a return of $2-100 in practice.
+The entire experience of UX testing can be harrowing for designers and UX developers, since test subjects are only talking about what they [feel](mind-feelings.md) versus the creators focusing on [reality](reality.md) or on an [idealized aesthetic](values-quality.md). However, every $1 invested in good UX can often make a return of $2-100 in practice.
 
 However, A/B testing can yield inaccurate results when implemented alone. People often enjoy novelty but don't realize its adverse effects. Large organizations frequently make a decision after *extensive* A/B testing that doesn't capture an ideal product, and they're forced to make a difficult decision:
 
@@ -454,14 +454,14 @@ However, A/B testing can yield inaccurate results when implemented alone. People
 2. Rework the change, which will often confuse the users who have to adapt.
 3. Make another change to compensate, which will often confusing a *different* subset of users.
 
-The best prevention is to make design decisions that, if they were wrong, won't make a dramatic difference to results. By pure [statistical reality](/stat/), designers are almost *guaranteed* to foul up on something:
+The best prevention is to make design decisions that, if they were wrong, won't make a dramatic difference to results. By pure [statistical reality](math-stat.md), designers are almost *guaranteed* to foul up on something:
 
 - Give *many* options for the user, even if it looks ugly or unwieldy in the end.
 - Make small modifications, step-by-step, instead of large changes.
-- *Always* maintain [convention](https://gainedin.site/habits/), even if the designers hate it.
-- Keep everything as open as possible to allow people to [fix](/fix/) and [improve](https://gainedin.site/creations/) on it later.
+- *Always* maintain [convention](habits.md), even if the designers hate it.
+- Keep everything as open as possible to allow people to [fix](fix.md) and [improve](creations.md) on it later.
 
-Plus, design decisions are subject to the perils of [miscommunication](https://gainedin.site/language/) and [power dynamics](https://gainedin.site/power-types/) that come with any [large group](https://gainedin.site/groups-large/). To avoid it, projects often develop in as many phases as necessary to prevent working on a wrongly defined [purpose](https://gainedin.site/purpose/):
+Plus, design decisions are subject to the perils of [miscommunication](language.md) and [power dynamics](power-types.md) that come with any [large group](groups-large.md). To avoid it, projects often develop in as many phases as necessary to prevent working on a wrongly defined [purpose](purpose.md):
 
 1. First, get consensus on an idea, which typically has to be realistic, but whoever approves it must [believe](understanding-certainty.md) in it.
 2. Conduct plenty of focus groups and research to find exactly what people would want or how they would use the thing.
@@ -478,8 +478,8 @@ To combat the extra complexity, there are a few major ways to improve interface 
 2. Create a "visual language" that demarcates a consistent pattern across the entire organization, often with a style guide.
 3. Put together a shared set of components the entire organization is supposed to use.
 4. Constantly communicate as things change, using one system for all discussions.
-5. Keep designers and [engineers](/engineering/) constantly discussing with each other about any changes.
-6. Constantly [document](https://trendless.tech/documentation/) as things change, and keep it integrated with the style guide.
+5. Keep designers and [engineers](engineering.md) constantly discussing with each other about any changes.
+6. Constantly [document](language-writing-documentation-cs.md) as things change, and keep it integrated with the style guide.
 7. No matter what, *always* maintain constraints on what designers can do (e.g., time limits, space limits).
 
 If the product is particularly complex, divide out the rate of the design's change into "layers":
@@ -494,7 +494,7 @@ If the product is particularly complex, divide out the rate of the design's chan
 
 It's worth indicating that "slower" design elements tend to constrain the "faster" ones.
 
-Generally, the size of large organizations and the work required tends to inhibit completely free customization. In simple commodities this isn't a problem, but more high-end products need more freedom for the users to explore and [identify](https://gainedin.site/identity/) with the object.
+Generally, the size of large organizations and the work required tends to inhibit completely free customization. In simple commodities this isn't a problem, but more high-end products need more freedom for the users to explore and [identify](identity.md) with the object.
 
 Another risk of large-scale endeavors is complete blandness. Since people can get easily offended at small distinctions, the best form that offends nobody is incredibly boring. It also pleases very few people as well.
 
@@ -502,18 +502,18 @@ Another risk of large-scale endeavors is complete blandness. Since people can ge
 
 ## Big issues
 
-Most of the time, UX developers follow safe fashions, but frequently they'll [run a fashion out to its most extreme](https://gainedin.site/trends/) and make the interface almost unusable, often for a few broad reasons:
+Most of the time, UX developers follow safe fashions, but frequently they'll [run a fashion out to its most extreme](trends.md) and make the interface almost unusable, often for a few broad reasons:
 
 - Designers became intimately familiar with what they were designing, and have very limited interaction with the users. Often, they may only know what marketing professionals or their friends think.
 - Designers have seen the same old, tired thing. They tend to not understand that the thing exists in its current form is because it was often *the* best way to do it, or they're disregarding conventions that everyone is used to.
-- When a new design trend or [technology](https://gainedin.site/technology/) becomes popular, designers tend to abuse it.
-- Sometimes, [managers](/mgmt/) will override the designers' professional experience, testing, and common sense based on their personal preferences or interests.
-- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](/marketing/) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](https://gainedin.site/economics/) through appealing to an [image](https://gainedin.site/image/) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](/entrepreneur/) elsewhere).
+- When a new design trend or [technology](technology.md) becomes popular, designers tend to abuse it.
+- Sometimes, [managers](mgmt-1_why.md) will override the designers' professional experience, testing, and common sense based on their personal preferences or interests.
+- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](marketing.md) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](economics.md) through appealing to an [image](image.md) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](entrepreneur-1_why.md) elsewhere).
 
 There are plenty of examples of bad fashions:
 
-- Using touchscreens instead of buttons in [automotives](/autos/).
-- Having [internet-connected](https://trendless.tech/networks/) devices that don't need to be connected to the internet.
+- Using touchscreens instead of buttons in [automotives](autos.md).
+- Having [internet-connected](networks-computer.md) devices that don't need to be connected to the internet.
 - Aggressively auto-connecting Bluetooth when the user doesn't want it.
 - Giving "popular choices" that are *clearly* not popular.
 - Washing out the visual contrast for style reasons, but making it somewhat unreadable.
@@ -536,19 +536,19 @@ Most engineers often compromise when they're instructed to design those patterns
 
 ### Addiction
 
-Very frequently, UX developers are motivated to create elements that draw the user in indefinitely. Even when something is free, more time with the software means the person is more likely to spend money on an upgrade, give data that can be sold, or increase the value of selling [advertisement space](/marketing/).
+Very frequently, UX developers are motivated to create elements that draw the user in indefinitely. Even when something is free, more time with the software means the person is more likely to spend money on an upgrade, give data that can be sold, or increase the value of selling [advertisement space](marketing.md).
 
-The obsession with "user engagement" (i.e., [addiction](https://gainedin.site/addiction/)) makes "user experience" in many become "user exploitation", and it'll present itself through many subtle dark patterns:
+The obsession with "user engagement" (i.e., [addiction](addiction.md)) makes "user experience" in many become "user exploitation", and it'll present itself through many subtle dark patterns:
 
 - Creating a feeling of urgency with relative timestamps (e.g., "3 hours ago" instead of "6:15 PM").
 - Making an endless loop of behavior with infinite scrolling instead of a "More" button or link.
 - A fake points system with icons that reinforce the experience with interaction and feedback.
-- Tweaking the system to promote or bury certain user-made content, either through hidden [algorithms](https://trendless.tech/algorithms/) or at the developer's/company's whim.
+- Tweaking the system to promote or bury certain user-made content, either through hidden [algorithms](programming-algorithms.md) or at the developer's/company's whim.
 - Making leaving the service frustratingly difficult, or requiring a human being to finalize the process.
 
 ## Additional reading
 
-[A tech-oriented dive into this content](https://trendless.tech/ux-ui/)
+[A tech-oriented dive into this content](design-uxui.md)
 
 UX in General
 

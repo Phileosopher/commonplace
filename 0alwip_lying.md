@@ -29,17 +29,17 @@ While it's usually not worth it, if you want to force a confession from a liar:
 We're *surrounded* by lies:
 
 - People lie about 3 times for every 10 minutes of talking.
-- Everyone wants to adapt their [image](https://gainedin.site/image-distortion-methods/) to its best possible interpretation.
-- [Modern marketing](https://notageni.us/marketing/) creates false perceptions to sell their products.
-- Most of the time, success requires small lies, or "bending the truth", especially when we've [endured severe hardship](/hardship/) and are afraid of what others may think.
+- Everyone wants to adapt their [image](image-distortion.md) to its best possible interpretation.
+- [Modern marketing](marketing.md) creates false perceptions to sell their products.
+- Most of the time, success requires small lies, or "bending the truth", especially when we've [endured severe hardship](hardship.md) and are afraid of what others may think.
 - Even trustworthy people are worse liars than you may expect.
 
 Further, we often lie to ourselves:
 
 - Typically, we'll listen to false statements from others, then believe them over clearly true things we can observe.
-- Many times, we'll avoid confronting lies from the risk that it may force us to [change ourselves or change our environment](https://gainedin.site/changes/).
+- Many times, we'll avoid confronting lies from the risk that it may force us to [change ourselves or change our environment](changes.md).
 
-Frequently, when we endure [childhood trauma](https://gainedin.site/ptsd/), we [lie to *ourselves* so much that we believe it](/hardship-personal/)!
+Frequently, when we endure [childhood trauma](hardship-ptsd.md), we [lie to *ourselves* so much that we believe it](hardship-worthlessness.md)!
 
 Because of all this, we frequently assume *falsely* that other people are lying, even when they're not.
 
@@ -48,34 +48,34 @@ Because of all this, we frequently assume *falsely* that other people are lying,
 Pro-social lies are attempting to promote others' happiness:
 
 - Most lies are pro-social because most people consider them harmless.
-- There's a complicated social agreement within most [cultures](https://gainedin.site/culture/) that normalize it.
+- There's a complicated social agreement within most [cultures](culture.md) that normalize it.
 - Common examples:
   - Affirming someone about something you don't value
-  - [Misleading officials](https://notageni.us/legally-safe/) to hide someone
+  - [Misleading officials](legal-safety.md) to hide someone
   - Making promises that you can't keep
   - Giving false praise (instead of criticism) to prevent hurting someone's feelings
   - Deceptive behavior like magic tricks and illusions
-- If it's driven by [love](https://gainedin.site/love/), some lies are actually *good* for society (e.g., misleading a gang, hiding an unjustly persecuted person).
+- If it's driven by [love](people-love.md), some lies are actually *good* for society (e.g., misleading a gang, hiding an unjustly persecuted person).
 
 Self-enhancement lies are for personal gain:
 
 - Self-enhancing lies may be embellishment, but also include many types of nonverbal behaviors.
-- Most self-enhancement lies are harmless, but can create [unhealthy habits](/habits/).
+- Most self-enhancement lies are harmless, but can create [unhealthy habits](habits.md).
 - Common examples:
   - Owning knock-offs of expensive products
-  - [Clothing selection](/people-2/) like embellishing size or padded bras
+  - [Clothing selection](people-2_image.md) like embellishing size or padded bras
   - Cosmetic surgery
-- Some people can get *very* [creative](/creativity/) with self-enhancing lies:
+- Some people can get *very* [creative](mind-creativity-how.md) with self-enhancing lies:
   - Buying a birthday card with something embarrassing you want to buy
   - Crying on command (relax the eyes ~30 seconds, gently rub for ~10 seconds, then keep them open)
   - Wearing a chef's hat or tuxedo and walking rapidly to get through a large group of people
-  - Many [negotiation tactics](/conflicts/)
+  - Many [negotiation tactics](people-5_conflicts.md)
 
 Selfish lies come from fear:
 
 - The most common lie others catch are when people try to protect themselves.
 - People make selfish lies because they're afraid the cost of the truth is too much to pay.
-- Selfish lies often [trigger](/habits/) from social pressure or the risk of losing social status.
+- Selfish lies often [trigger](habits.md) from social pressure or the risk of losing social status.
 - Common examples:
   - Redirecting or refocusing the conversation
   - Pretending to not hear someone
@@ -84,8 +84,8 @@ Selfish lies come from fear:
 Antisocial lies are intentionally malicious:
 
 - Antisocial lies are statements and implications designed to sabotage someone else.
-- These lies, unquestionably, are always [evil](https://gainedin.site/evil/).
-- If your friend makes antisocial lies, [find a new friend immediately](/people-4/).
+- These lies, unquestionably, are always [evil](morality-evil.md).
+- If your friend makes antisocial lies, [find a new friend immediately](people-4_friends.md).
 - Often, a liar's reputation can mask an antisocial lie.
 - Common examples:
   - Misstating what someone said or did
@@ -116,12 +116,12 @@ People lie differently online:
 
 The truth is uncomfortable, but lying is disastrous.
 
-While most people curate their [appearance](/people-2/), the most well-managed and easily maintained [image](https://gainedin.site/image/) very closely reflects [reality](https://gainedin.site/reality/).
+While most people curate their [appearance](people-2_image.md), the most well-managed and easily maintained [image](image.md) very closely reflects [reality](reality.md).
 
 Lying corrupts the truth:
 
-- Even without lying, we have a tenuous grasp on [what is legitimately true](https://gainedin.site/reality/), and a falsehood will corrupt that [understanding](understanding.md).
-- It's nearly a [human universal](https://gainedin.site/universals/) that we don't like to maintain falsehoods, and it [creates tremendous risks for us](https://notageni.us/risk-mgmt/) when we do.
+- Even without lying, we have a tenuous grasp on [what is legitimately true](reality.md), and a falsehood will corrupt that [understanding](understanding.md).
+- It's nearly a [human universal](humanity-universals.md) that we don't like to maintain falsehoods, and it [creates tremendous risks for us](safety-riskmgmt.md) when we do.
 - Since we must spend time working on lies, more lying makes it more difficult to detect the truth.
 
 By lying, you risk permanently ruining your reputation:
@@ -132,7 +132,7 @@ By lying, you risk permanently ruining your reputation:
 
 Liars must maintain more than one story:
 
-- A liar must juggle many [stories](https://gainedin.site/stories) at once:
+- A liar must juggle many [stories](stories.md) at once:
   1. What they told Person 1
   2. What they told Person 2
   3. (every other story they told)
@@ -142,20 +142,20 @@ Liars must maintain more than one story:
 
 Frequent lying becomes habitual:
 
-- [Habits](/habits/) are difficult to break already, but lying is addictive because it can feel like a competition to "outsmart" others.
-- Nobody can trust liars, so they have a hard time with [keeping friends](/people-4/) and [having intimate relationships](/relationships/).
+- [Habits](habits.md) are difficult to break already, but lying is addictive because it can feel like a competition to "outsmart" others.
+- Nobody can trust liars, so they have a hard time with [keeping friends](people-4_friends.md) and [having intimate relationships](relationships-3_marriage.md).
 - Because we're maintaining multiple false stories as part of our experience, lying makes wise decisions harder to discern.
 
 Lying makes it difficult to trust:
 
 - When we lie, we imagine others are doing the same.
-- Over time, [distrust](https://gainedin.site/trust/) creates issues that honest people will avoid.
+- Over time, [distrust](trust.md) creates issues that honest people will avoid.
 
 ## Detecting lies has risks
 
-Focusing on lies can make us have trouble [trusting](https://gainedin.site/trust/) people who deserve our trust.
+Focusing on lies can make us have trouble [trusting](trust.md) people who deserve our trust.
 
-- It can also be difficult to conceal what you [feel](/feelings/) about them.
+- It can also be difficult to conceal what you [feel](mind-feelings.md) about them.
 
 Contrary to popular opinion, no single method detects lies:
 
@@ -174,8 +174,8 @@ Contrary to popular opinion, no single method detects lies:
 
 Note any changes in expression or body language:
 
-- You need the context of that person's [disposition](https://gainedin.site/personality/), so note their typical behavior without pressure as a "baseline".
-- Liars often self-implicate without meaning to, so learn to [be a great listener](/speaking/) and [closely observe](/awareness/).
+- You need the context of that person's [disposition](personality.md), so note their typical behavior without pressure as a "baseline".
+- Liars often self-implicate without meaning to, so learn to [be a great listener](language-speaking.md) and [closely observe](awareness.md).
 - Ideas can be redefined by tone or emphasis, so note how they pronounce each word in their sentence.
 
 ### Body language
@@ -237,7 +237,7 @@ Declaratory statements of honesty or goodness:
 
 Emphasis on certain details:
 
-- Since a liar is creating a [story](https://gainedin.site/stories/), it takes lots of energy to build it.
+- Since a liar is creating a [story](stories.md), it takes lots of energy to build it.
 - Since they're trying to hide some details, note the areas that person is addressing the least and why.
   - Liars give fewer details about themselves and their [feelings](mind-feelings.md).
 - In general, a liar will give fewer details to keep their story straight and will get defensive when asked about them, while honest people comfortably know they forgot certain things.
@@ -271,7 +271,7 @@ People can often control the lower half of their faces, but not the upper half.
 
 Watch for a split-second micro-expression of someone's true feelings when they first perceive something:
 
-- Raise your eyebrows as soon as you see them: they'll only raise them in response if they see you as their [friend](/people-4/).
+- Raise your eyebrows as soon as you see them: they'll only raise them in response if they see you as their [friend](people-4_friends.md).
 
 Genuine facial expressions are typically symmetrical.
 
@@ -310,7 +310,7 @@ Liars only confess when they see a reason for it:
 Only get a confession if it provides a tangible benefit:
 
 - Getting a liar to confess is difficult and unrewarding in itself.
-- For the sake of your [happiness](/happiness-1/) and [success](/success/), never interact with that person again once you've made hints that you know they're lying.
+- For the sake of your [happiness](happiness.md) and [success](success-1_why.md), never interact with that person again once you've made hints that you know they're lying.
 
 A. Talk with the liar alone:
 
@@ -384,9 +384,9 @@ F. Confront the liar:
   2. Convince them there's enough evidence of their guilt to act, and that they have no reason to keep lying.
   3. Provide a way out for the person by showing they must merely find a way to frame and deliver the confession.
 - Many people are uncertain about whether to confront a liar and when.
-  - This often comes from the risks of losing a [friendship](/people-4/) or reputation.
+  - This often comes from the risks of losing a [friendship](people-4_friends.md) or reputation.
   - The liar will often want revenge against anything they lose from their confession.
-  - Stay [legally safe](https://notageni.us/legally-safe/) with perpetual documentation, since a confession may trigger a future [open conflict](/conflict/) with them.
+  - Stay [legally safe](legal-safety.md) with perpetual documentation, since a confession may trigger a future [open conflict](people-5_conflicts.md) with them.
 - Confidently, earnestly ask for their admission.
   - Intimidating or persuading them into it will never work.
   - The liar must feel they're resolving a problem that affects both of you.

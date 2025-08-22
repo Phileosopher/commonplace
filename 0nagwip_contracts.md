@@ -1,23 +1,23 @@
 
 *NOTE: I'm not a lawyer. This simply explains business contracts in plain English. This is not legal advice.*
 
-Since written history, people make agreements. Most [religions](https://gainedin.site/religion/) and [stories](https://gainedin.site/stories/) involve *some* type of tit-for-tat obligation, and it extends to how we carry out activities within society.
+Since written history, people make agreements. Most [religions](religion.md) and [stories](stories.md) involve *some* type of tit-for-tat obligation, and it extends to how we carry out activities within society.
 
 When a person acts, they are only performing any form of sacrifice from 3 possible non-exclusive motivations:
 
-1. Generosity, which is typically driven by [love](https://gainedin.site/love/) or [moral duty](https://gainedin.site/morality/).
-2. [Habit](https://gainedin.site/habits/), typically without thinking about it.
-3. Some form of [belief](understanding-certainty.md) or [expectation](https://gainedin.site/imagination/) about a return on that sacrifice, which is a "contract".
+1. Generosity, which is typically driven by [love](people-love.md) or [moral duty](morality.md).
+2. [Habit](habits.md), typically without thinking about it.
+3. Some form of [belief](understanding-certainty.md) or [expectation](imagination.md) about a return on that sacrifice, which is a "contract".
 
-Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](/marriage/) and [religious arrangements](https://theologos.site/contracts/) are a type of contract.
+Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](relationships-marriage-secularcontract.md) and [religious arrangements](god-contracts.md) are a type of contract.
 
 Absolutely *any* promise ("covenant") can veer into becoming an implicit contract. If a person feels responsible for anything, and it's connected to something the other person gave, it's technically an implied contract.
 
-Generally, we gain our [reputation](https://gainedin.site/image/) in society at large by fulfilling contracts, so understanding how they work and what to do with them is critical to avoid exploitation. A government can never grant the contracts we make beyond their influence, but they *can* enforce them.
+Generally, we gain our [reputation](image.md) in society at large by fulfilling contracts, so understanding how they work and what to do with them is critical to avoid exploitation. A government can never grant the contracts we make beyond their influence, but they *can* enforce them.
 
-A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](https://gainedin.site/slavery/) or a [mental disorder](https://gainedin.site/personality/). If it's accepted by a large group of people, it's [large-scale dysfunction](https://gainedin.site/bad-systems/).
+A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](slavery.md) or a [mental disorder](personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
 
-The [legal jargon](/legal-dictionary/) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
+The [legal jargon](glossary-legal.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
 
 The philosophy of the contract can be a bit dense, and is typically only discussed by law geeks:
 
@@ -28,20 +28,20 @@ The philosophy of the contract can be a bit dense, and is typically only discuss
 - The psychological contract is implied to exist as a framework of trust within employment/employee relationships.
 - For goods and services, there's a presumption a buyer who chooses to purchase from a seller has certain implicit assurances that create an "implied warranty", though "as is" can disclaim it.
 
-There are *many* clauses and conditions which could make a contract more complex, and [creative](https://gainedin.site/creativity/) lawyers think of more permutations all the time. Most non-lawyers don't need anything that complicated, and simple contracts are a *very* effective way to enforce what we say we will do.
+There are *many* clauses and conditions which could make a contract more complex, and [creative](mind-creativity.md) lawyers think of more permutations all the time. Most non-lawyers don't need anything that complicated, and simple contracts are a *very* effective way to enforce what we say we will do.
 
 The durability of a contract comes from how much both sides view it as fair. If one side feels they're being exploited, they'll likely terminate the contract, and both sides will generally be unhappier for the experience.
 
 ## Methods
 
-One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](https://gainedin.site/reality/)*, *[actions](https://gainedin.site/results/)*, and *[ideas](https://gainedin.site/values/)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](https://gainedin.site/rules/).
+One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](mind-creativity-results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](rules.md).
 
 When most people think of contracts, they're usually thinking of "standard" contracts, where one party has set all the terms and conditions, and the other party has agreed and signed it with very little negotiation or review. Standard contracts can represent *many* domains of a typical person's life:
 
-- Employment agreements (especially for [managers](/mgmt/) hiring [employees](https://adequate.life/jobs-1/))
-- [Insurance](/insurance/) agreements
-- [Loan](https://adequate.life/money-2/) agreements
-- Service agreements (e.g., plumber, [accountant](/accounting/))
+- Employment agreements (especially for [managers](mgmt-1_why.md_why.md) hiring [employees](jobs-1_why.md))
+- [Insurance](insurance.md) agreements
+- [Loan](money-2_debt.md) agreements
+- Service agreements (e.g., plumber, [accountant](accounting.md))
 - Release of information (e.g., medical information)
 - Terms of service (e.g., social media)
 - "Shrink wrap contracts" are attached to the product itself, with usage of the product indicating acceptance of the contract.
@@ -53,38 +53,38 @@ A few specific types of contracts can *only* be written because of a region's "s
 
 - Something sold with a value greater than ~$500.
 - Selling or transferring an interest in land or real estate.
-- The terms of the contract outlast the lifetime of one of the parties (e.g., [copyright](/ip/)).
+- The terms of the contract outlast the lifetime of one of the parties (e.g., [copyright](legal-ip.md)).
 - Marriage or divorce agreements that promise an exchange of consideration.
 - The terms of the contract will take a long time (i.e., at least a year and a day).
-- The contract involves someone promising to pay someone else's [debt](https://adequate.life/money-2/).
+- The contract involves someone promising to pay someone else's [debt](money-2_debt.md).
 
 Contracts can also, however, be spoken agreements as well. If it has all the required elements and a court recognizes it, it's a "quasi-contract".
 
 - People can't use the law to change what they promised ("estoppel").
-- The challenge with oral contracts comes from challenges in enforcing them. Two people in a civil case disagreeing over what they agreed on will lean onto other reference points (e.g., the [fairness](morality-justice.md) of the contract, the [reputation](https://gainedin.site/image/) of the parties, the soundness of the parties' minds).
+- The challenge with oral contracts comes from challenges in enforcing them. Two people in a civil case disagreeing over what they agreed on will lean onto other reference points (e.g., the [fairness](morality-justice.md) of the contract, the [reputation](image.md) of the parties, the soundness of the parties' minds).
 - Recording a conversation is not always sufficient, either. Unless the other person consents to the recording, it may not be admissible evidence in a court.
 - Further, if there are *any* written agreements that are signed, they supersede verbal promises ("parol evidence rule").
 
-A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](https://gainedin.site/habits/)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](https://gainedin.site/friendship/) and [family](https://gainedin.site/family/).
+A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](habits.md)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](people-4_friends.md) and [family](people-family.md).
 
-- Many [high-context cultures](https://gainedin.site/culture/) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](https://gainedin.site/culture/), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](/requirements/), [tourists](https://adequate.life/vacations-trips/)).
+- Many [high-context cultures](culture.md) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](culture.md), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](image-modern.md), [tourists](fun-vacations.md)).
 - A contract can be obligation by consent ("obligatio consensu"), where there's no requirement for *any* formalities or parties' presence.
 
 A "letter of intent" can communicate willingness to enter into a contractual obligation, but without the elements of a legally binding contract. Its purpose is to create a morally binding assurance, even if it's unenforceable.
 
-At the farthest end, there can be a "gentleman's agreement", which is a *very* informal agreement that's implied by implication, convention or through mutually beneficial etiquette. Gentlemen's agreements are non-binding, and require the [honor](https://gainedin.site/image/) or [integrity](https://gainedin.site/morality/) of the parties to fulfill it.
+At the farthest end, there can be a "gentleman's agreement", which is a *very* informal agreement that's implied by implication, convention or through mutually beneficial etiquette. Gentlemen's agreements are non-binding, and require the [honor](image.md) or [integrity](morality.md) of the parties to fulfill it.
 
 ## Types
 
-There are *many* types of contracts, proportional to how much we're connected with others in [society](https://gainedin.site/specialization-cities/), and any given document may include multiple contracts inside it.
+There are *many* types of contracts, proportional to how much we're connected with others in [society](jobs-specialization.md), and any given document may include multiple contracts inside it.
 
 Formalized arrangements are the foundation of most business, and they're all connected through these contracts. For this reason, there are *many* domains of law that intersect and converge with contract law:
 
-- Trust and inheritance law - for [death and succession planning](https://adequate.life/death/)
-- Property law - for high-value properties like [real estate](/homes/)
-- Intellectual property law - for [intellectual property](/ip/) ownership and enforcement
-- Commercial/trade law - for [large-scale](https://gainedin.site/groups-large/) law matters such as corporations across multiple nations
-- Competition law - for preserving [free market competition](https://gainedin.site/economics/)
+- Trust and inheritance law - for [death and succession planning](hardship-death.md)
+- Property law - for high-value properties like [real estate](home-buysell.md)
+- Intellectual property law - for [intellectual property](legal-ip.md) ownership and enforcement
+- Commercial/trade law - for [large-scale](groups-large.md) law matters such as corporations across multiple nations
+- Competition law - for preserving [free market competition](economics.md)
 - Insurance law - for protecting against losses in the course of contractual agreements
 
 Generally, contracts are either payment (trading a good for another good or a service) or reciprocal (where both sides must perform).
@@ -136,12 +136,12 @@ Service contract - general contract defining the scope of performing a service.
 - Filmmaking guarantee - aka "pay-or-play contract", a participant in a film is still guaranteed to be paid even if they're released from that contract (e.g., signing talent who later may not be needed).
 - Output contract - a producer agrees to sell their *entire* production to the buyer, and the buyer agrees to purchase that entire output, the converse of a requirements contract.
 - Power of attorney - allows the "attorney-in-fact" to make legal, medical, and financial decisions on behalf of someone else.
-- Publishing contract - the relationship between a publisher and author(s) to publish their [original content](/ip/), also often refers to [*promoting*](/marketing/) the work beyond distribution (e.g., music publishing contract).
+- Publishing contract - the relationship between a publisher and author(s) to publish their [original content](legal-ip.md), also often refers to [*promoting*](marketing.md) the work beyond distribution (e.g., music publishing contract).
   - Recording contract - the agreement between a record label and recording artist.
 - Requirements contract - one party agrees to supply as much of a good or service as required by the other party, with the other party agreeing to *only* obtain its good or service from them, the converse of an output contract.
 - Service-level agreement (SLA) - one party provides a service to another party who is a customer, with specific conditions indicated if the service is not fulfilled according to specifications.
 
-[Loan](https://adequate.life/money-2/) agreement - a creditor lends money to a borrower, with a specified asset or promise as the "security".
+[Loan](money-2_debt.md) agreement - a creditor lends money to a borrower, with a specified asset or promise as the "security".
 
 - Account stated - a statement between a creditor and debtor that a particular amount is owed.
 - Antichresis - a debtor pledges real property to a creditor to use and occupy it in lieu of interest on the loan.
@@ -153,12 +153,12 @@ Service contract - general contract defining the scope of performing a service.
 - Personal contract purchase (PCP) - a loan agreement where the borrower makes a comparatively lower monthly amount than a conventional loan during the contract period (~24-48 months), then required to make one large balloon payment at the end.
 - Promissory note - a formalized document that memorializes a loan and repayment requirements.
 
-[Investor-specific](/investing/) agreements:
+[Investor-specific](money-investing.md) agreements:
 
 - Big boy letter - pre-sale agreement involving a private sale of securities between two "accredited investors".
 - Derivative - a contract that derives its value to investors from an underlying entity.
   - Futures contract - purchasing something at a predetermined price for delivery at a specific time in the future.
-- Life annuity - a series of formula-defined payments at fixed intervals to an annuitant while they're still alive, typically part of an [insurance product](/insurance/) but can apply to most retirement-based matters.
+- Life annuity - a series of formula-defined payments at fixed intervals to an annuitant while they're still alive, typically part of an [insurance product](insurance.md) but can apply to most retirement-based matters.
   - Indexed annuity - a tax-deferred annuity where the credited interest is linked to an equity index (e.g., S&P 500).
 - Private investment in public equity (PIPE) - selling publicly traded common shares or preferred stock to private investors.
 - Stock option - an option contract specialized for stock ownership:
@@ -169,8 +169,8 @@ Service contract - general contract defining the scope of performing a service.
 
 Sharing benefits:
 
-- Cohabitation agreement - two people, irrespective of [sexuality](https://gainedin.site/gender/), who have agreed to live together (a bit like [marriage](https://adequate.life/relationships/), but only in some domains).
-- Interconnect agreement - telecommunications companies agreeing to connect their networks and exchange [network traffic](http://trendless.tech/networks/).
+- Cohabitation agreement - two people, irrespective of [sexuality](gender.md), who have agreed to live together (a bit like [marriage](relationships-3_marriage.md), but only in some domains).
+- Interconnect agreement - telecommunications companies agreeing to connect their networks and exchange [network traffic](networks-computer.md).
 - Joint venture agreement - the goals, obligations, and financial contributions of parties in a joint business venture.
 - Material transfer agreement - governs the transfer of tangible research materials between 2 entities for the purpose of the recipient using it for their own research.
 - Memorandum of understanding - a bilateral (2 parties) or multilateral (3+ parties) agreement that expresses a convergence of will between the parties.
@@ -182,17 +182,17 @@ Relationships that vest "delegable" responsibilities and grant authorities or ri
 
 - Agency agreement - establishes the scope of work an agency can perform, as well as payment and duration.
   - Listing contract/agreement - the relationship between a property owner and a real estate broker acting as their real estate agent.
-- Aleatory contract - an uncertain event determines the parties' rights and obligations (e.g., gambling, [insurance](/insurance/)), in contrast to indemnity agreement.
+- Aleatory contract - an uncertain event determines the parties' rights and obligations (e.g., gambling, [insurance](insurance.md)), in contrast to indemnity agreement.
 - Community benefits agreement - community groups arrange for a real estate developer to provide specific amenities or mitigations to a community or neighborhood in exchange for the community supporting it (or at least not opposing it).
 - Distributor agreement - the relationship between a distributor and supplier.
 - Employment agreement - the relationship between an employee and employer.
-- End-user license agreement - a [software license](https://trendless.tech/floss/) between the software supplier and [end user](https://trendless.tech/glossary/).
-- Franchise agreement - a relationship where a franchisor licenses some or all of their knowledge, procedures, [intellectual property](/ip/), use of their business model, [brand](/marketing/), and rights to sell branded products and services to a franchisee.
+- End-user license agreement - a [software license](legal-ip-floss.md) between the software supplier and [end user](glossary-computers.md).
+- Franchise agreement - a relationship where a franchisor licenses some or all of their knowledge, procedures, [intellectual property](legal-ip.md), use of their business model, [brand](marketing.md), and rights to sell branded products and services to a franchisee.
 - Guaranteed rental - an arrangement where a party wants to rent out a property for a large block of time to rent it themselves on a retail basis (e.g., for days or weeks).
-- Indemnity agreement - a party will provide compensation for a clearly identified situation of another party (e.g., [insurance](/insurance/)), in contrast to aleatory contract.
+- Indemnity agreement - a party will provide compensation for a clearly identified situation of another party (e.g., [insurance](insurance.md)), in contrast to aleatory contract.
 - Independent contractor agreement - the relationship between a freelance contractor and client.
 - Licensing agreement - the relationship between a licensor and licensee.
-- Management contract - operational control of a business is "vested" for a separate entity to [manage it](/mgmt/) for a fee.
+- Management contract - operational control of a business is "vested" for a separate entity to [manage it](mgmt-1_why.md_why.md) for a fee.
 - Open-book contract - the buyer and seller of services agrees which costs are "remunerable" and the margin the supplier can add to those costs.
 - Pet care agreement - clarifies what to do in the case of a pet dying, including what they need.
 - Retainer agreement - a distinctive work-for-hire contract halfway between independent contractor and employee that involves advance payment for professional work to be defined later (e.g., establish an attorney/client relationship).
@@ -205,7 +205,7 @@ Agreements involving a third party:
 - Non-compete agreement - a specified period of time when an employee can't work for their company's competitor, can be for a period of time *after* terminating employment or simply for the duration of being employed there.
 - Non-disparagement agreement - prohibitions for an employee to speak poorly about the entity they're contracted with or another entity/idea altogether, typically for a window of time or in perpetuity.
 - Non-solicitation agreement - prohibitions for an employee to utilize a company's clients, customers, and contact lists for personal gain upon leaving the company.
-- Nondisclosure/confidentiality agreement - legal protections regarding sharing confidential information with others beyond a business relationship (e.g., [intellectual property](/ip/), private information), can be reciprocal.
+- Nondisclosure/confidentiality agreement - legal protections regarding sharing confidential information with others beyond a business relationship (e.g., [intellectual property](legal-ip.md), private information), can be reciprocal.
 - Novated lease - a motor vehicle lease where the contract obligations have been moved from one party to another ("novated").
 - Parent company guarantee - a parent company promising to guarantee their subsidiary's performance as a contractor.
 
@@ -241,33 +241,33 @@ This section is technically 3 parts, known as the "meeting of the minds":
 
 This may not always apply:
 
-- An "invitation to bargain" means the person wants to discuss terms, but is open to it, so acceptance may come *much* later after a proposal and [negotiation](https://adequate.life/conflicts/).
+- An "invitation to bargain" means the person wants to discuss terms, but is open to it, so acceptance may come *much* later after a proposal and [negotiation](people-5_conflicts.md).
 - A "firm offer" can remain open for a certain period of time or event and is incapable of being revoked during that time (up to 3 months if not indicated otherwise, though it's not an *acceptance* until the other party consents).
 
 The acceptance of the contract is *typically* at the precise time the other party communicates their acceptance, though there are exceptions:
 
-- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](https://gainedin.site/decisions/).
+- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](decisions.md).
 - The "posting rule" considers the time delay for sending messages and goods:
   1. The offering party sends the offer by mail, and the effective date is when they send it (e.g., January 12).
   2. The offer isn't valid until the receiving party gets it (e.g., January 17).
   3. For the offering party to revoke it, they must do it before the receiving party receives it.
-- If there are any legal notices or changes, the address is indicated as the *domicilium citandi et executandi*, which the party is responsible to indicate when they [move](https://adequate.life/moving/).
+- If there are any legal notices or changes, the address is indicated as the *domicilium citandi et executandi*, which the party is responsible to indicate when they [move](home-moving.md).
 
 This agreement connects to the right of property or the power to enforce a promise or warranty, which means it can also connect to a close, mutual, or successive relationship (e.g., family's trustee, parent company).
 
-Historically, before 1800 the meeting of the minds was *not* as important as whether an exchange was sufficiently [fair](morality-justice.md). Then, a [trend](https://gainedin.site/trends/) throughout the 19th century shifted society from a focus on property to a focus on contract and their intentions/promises. That trend has somewhat died after 1900 with the growth of consumer protection, rent and employment legislation to drive contract law back into a smaller domain, though it's a *very* odd and inorganic existence to this day that defies common sense.
+Historically, before 1800 the meeting of the minds was *not* as important as whether an exchange was sufficiently [fair](morality-justice.md). Then, a [trend](trends.md) throughout the 19th century shifted society from a focus on property to a focus on contract and their intentions/promises. That trend has somewhat died after 1900 with the growth of consumer protection, rent and employment legislation to drive contract law back into a smaller domain, though it's a *very* odd and inorganic existence to this day that defies common sense.
 
 ### B. Lawful purpose
 
-The entire arrangement must be [lawful](https://gainedin.site/rules/). If it isn't, the contract can't be enforced by a governing authority. This includes not adversely affecting a third party ("res inter alios acta, aliis nec nocet nec prodest"), and "kickbacks".
+The entire arrangement must be [lawful](rules.md). If it isn't, the contract can't be enforced by a governing authority. This includes not adversely affecting a third party ("res inter alios acta, aliis nec nocet nec prodest"), and "kickbacks".
 
 If the contract is illegal, it still *can* be enforced by illegal entities (e.g., the mafia), but it will probably not be enforced [fairly](morality-justice.md).
 
-Sometimes, even *lawful* contracts are simply [unethical](https://gainedin.site/morality/) (e.g., "nokku kooli").
+Sometimes, even *lawful* contracts are simply [unethical](morality.md) (e.g., "nokku kooli").
 
 ### C. Lawful consideration
 
-"Consideration" is simply something given that's deemed to be [of value](https://gainedin.site/values/). This is often money, but it can be almost anything.
+"Consideration" is simply something given that's deemed to be [of value](values.md). This is often money, but it can be almost anything.
 
 - While a present thing is certainly consideration, the *promise* of something in the future can also be consideration.
 - Both parties may have a "reciprocal obligation" to perform in the future, but one party can make an "accommodation" within a contract that has no reciprocation.
@@ -302,20 +302,20 @@ However, to clarify the language, most written contracts have definitions explic
 
 The parties should and consent freely, which means an absence of a few things:
 
-- There can't be any "undue influence", which is when one party [pressures](https://gainedin.site/influence/) another into signing a contract.
-- There can't be any coercion or duress, which includes using tactics like threats ("per minas"), physical violence, or psychological pressure. This can also include an unequal [power dynamic](https://gainedin.site/power-types/) ("arm's length principle").
-- Neither party can misrepresent facts. If one of them was [lying](https://adequate.life/lying/) ("fraud") or exaggerating ("puffery"), that could nullify the contract.
+- There can't be any "undue influence", which is when one party [pressures](power-influence.md) another into signing a contract.
+- There can't be any coercion or duress, which includes using tactics like threats ("per minas"), physical violence, or psychological pressure. This can also include an unequal [power dynamic](power-types.md) ("arm's length principle").
+- Neither party can misrepresent facts. If one of them was [lying](people-lying.md) ("fraud") or exaggerating ("puffery"), that could nullify the contract.
 - Both parties must be aware of the contract, meaning there can't be an "officious intermeddler".
 
-While lawyers don't concern themselves as much with the [economics](https://gainedin.site/economics/) of services as much as the clarified rules, a service's general fair market value comes from several specific social effects that accumulate together into a lump sum:
+While lawyers don't concern themselves as much with the [economics](economics.md) of services as much as the clarified rules, a service's general fair market value comes from several specific social effects that accumulate together into a lump sum:
 
 1. An hourly rate, which is defined heavily by how much someone doesn't want to perform the task.
 2. An ignorance fee, which covers the amount of necessary information to perform the service that someone doesn't want to have to learn.
 3. An equipment fee, which covers the use of tools and supplies someone doesn't or can't acquire.
 4. Expertise fee, which covers the specialized skills they wouldn't be able to perform.
-5. Black market or legal fee, which comes through scarcity from [legal constraints](/legally-safe/).
+5. Black market or legal fee, which comes through scarcity from [legal constraints](legal-safety.md).
 
-By implication, most contracts are performed in "good faith", where there's [mutual trust](https://gainedin.site/trust/) that the other party will try to create advantageous [results](https://gainedin.site/results/) for the other. Without that trust, there's no contract.
+By implication, most contracts are performed in "good faith", where there's [mutual trust](trust.md) that the other party will try to create advantageous [results](mind-creativity-results.md) for the other. Without that trust, there's no contract.
 
 Unfortunately, clarifying whether someone was consenting freely without undue influence or misrepresented facts can be *very* difficult later, which is another major duty for lawyers to wrestle with it.
 
@@ -349,7 +349,7 @@ While standard form contracts are ubiquitous, they're difficult to enforce for s
    - Often, multiple large organizations can have a "battle of the forms" over contract terms that contradict.
 3. Boilerplate terms don't typically cover unlikely events, and the purchaser typically only thinks about the price and quality of the offering while disregarding those events.
    - Any poorly worded contract will fall back on the organization that wrote it ("contra proferentem").
-4. The person signing may be [socially pressured](https://gainedin.site/influence/) to sign it:
+4. The person signing may be [socially pressured](power-influence.md) to sign it:
    - The salesperson may imply the person is being unreasonable by wanting to read or question the terms.
    - If they're in a queue, they may be pressured to quickly sign.
    - If there was any negotiation over price or particular details, the salesperson's concessions may be interpreted as a gift, meaning social cooperation to sign.
@@ -381,7 +381,7 @@ Constraining rights and freedoms:
 
 - A class action waiver prohibits a party from filing a "class action suit" against the other party.
 - An "exclusion clause" can seek to restrict the rights of the parties to the contract, though it may make the contract unenforceable.
-- An inclusion/equity rider can require an actor's or filmmaker's contract to discriminate toward a certain level of [politically-left-favored](https://gainedin.site/leftism/) diversity in casting and production staff.
+- An inclusion/equity rider can require an actor's or filmmaker's contract to discriminate toward a certain level of [politically-left-favored](leftism.md) diversity in casting and production staff.
 - A "negative pledge" prohibits a party to the contract to creating any security interests over specific property.
 
 Granting more rights and freedoms:
@@ -409,11 +409,11 @@ Involving third parties:
 
 Adding more terms:
 
-- An "accord" is a secondary contract with loans that give alternative consideration outside the original contract. This permits releasing responsibility ("satisfaction") for both parties when the accord contract is fulfilled (e.g., give back the automobile instead of the remainder of the [auto](/autos/) loan). In a sense, it's a backup plan.
+- An "accord" is a secondary contract with loans that give alternative consideration outside the original contract. This permits releasing responsibility ("satisfaction") for both parties when the accord contract is fulfilled (e.g., give back the automobile instead of the remainder of the [auto](autos.md) loan). In a sense, it's a backup plan.
 - "Collateral contracts" are secondary contracts where the consideration is both parties guaranteeing they'll maintain and uphold the original contract. They're typically unilateral (with one party making it) but it can be bipartite or tripartite (2 or 3 parties). Typically, assuming nothing unethical, they exist because the primary agreement can't be amended:
   - The primary agreement's terms conflict with later-known facts.
   - The primary agreement was written incorrectly.
-  - A third-party mediator must resolve the [dispute](https://adequate.life/conflicts/) between the original parties.
+  - A third-party mediator must resolve the [dispute](people-5_conflicts.md) between the original parties.
   - The parties don't want to amend or overstep the primary contract's terms.
 - Retained interest (aka payout penalty) is an unpaid future interest that some lenders add to the remaining principal of a loan to determine a payout amount in the event the loan is terminated before it's completed its original term.
 - A "rider" can adapt the language to override specific provisions.
@@ -431,7 +431,7 @@ An offer must be accepted absolutely without modification ("mirror image rule"),
 
 - The "last shot rule" means a party implicitly consented to a counter-offer by not indicating objection to it.
 
-The experience of [severe hardship](https://adequate.life/hardship/) on an entity from an "external risk" can nullify or modify a contract.
+The experience of [severe hardship](hardship.md) on an entity from an "external risk" can nullify or modify a contract.
 
 A contract can be "repudiated" if a party can prove that their signature was not authentic, though typically "non-repudiation" is in effect except for outright fraud.
 
@@ -453,12 +453,12 @@ An "executory contract" hasn't been fully performed or executed, and is usually 
 
 Several possible reasons can form the basis of a bad contract.
 
-1. The contract itself can't be [illegal](https://gainedin.site/rules/) or [unjust](morality-justice.md) ("unconscionability").
+1. The contract itself can't be [illegal](rules.md) or [unjust](morality-justice.md) ("unconscionability").
 2. There mustn't be any "misrepresentation" or "mistake" between the facts and the contract's terms during the negotiation:
    - The relative experience of the parties.
    - How much a party proves they rely on what they say.
    - Reassurances given by a party.
-   - [Customary norms](https://gainedin.site/culture/) of the trade itself.
+   - [Customary norms](culture.md) of the trade itself.
    - The representation is actually making a secondary collateral contract.
 3. There can't be any threats or unequal bargaining power (i.e., coercion or undue influence), and can't be acting in bad faith ("clean hands doctrine").
 4. A signing party can escape performance of an agreement when it's fundamentally different from what they intended to sign ("non est factum").
@@ -477,7 +477,7 @@ If a party doesn't fulfill their duties to the effect that it denies the main be
 A few clauses can indicate how a dispute arising under the contract will be determined:
 
 - "Choice of law" - Determined by the law of a particular jurisdiction.
-  - "Lemon laws" protect purchasers from low-quality products [marketed](/marketing/) as high-quality (typically [autos](/autos/)).
+  - "Lemon laws" protect purchasers from low-quality products [marketed](marketing.md) as high-quality (typically [autos](autos.md)).
 - "Forum selection" - Resolution will be within a specific forum, which classifies into 3 categories:
   1. Resolved with a dispute resolution process, which can include a hearing with a special referee or expert determination, mediation, or arbitration.
   2. Litigation in a mutually agreed-upon court, which *must* be indicated, or it'll create a conflict of law called "dépeçage".
@@ -487,17 +487,17 @@ Using an "arbitration" clause has pros and cons compared to a civil court case:
 
 - An arbitration process is often faster and less expensive than court litigation, though the "discovery" process may be limited or nonexistent.
 - Arbitration awards are generally harder to enforce than court decisions (i.e., seeking legal action to "confirm" the award), though they're also *easier* to enforce across nations ([New York Convention 1958](https://en.wikipedia.org/wiki/Convention_on_the_Recognition_and_Enforcement_of_Foreign_Arbitral_Awards)).
-- The parties can choose their own tribunal, which may be very useful if the situation is [highly technical](https://gainedin.site/specialization-cities/).
+- The parties can choose their own tribunal, which may be very useful if the situation is [highly technical](jobs-specialization.md).
 - Arbitration proceedings are generally non-public, and can be made confidential, though there are often *presumptions* of confidentiality among the parties that aren't honored.
 - The parties can typically choose their arbitration language, while courts automatically apply formalized language according to that country's courts.
 - Most legal systems give *very* limited avenues to appeal a decision compared to arbitration, but the arbitration language defines the constraints of an appeal.
 - If the arbitration is mandatory and binding, the parties waive their rights to access the courts, with a judge and jury deciding the case.
 - A judge generally has no reason to lean one way or another, but repeat business for the arbitrator gives them incentive to rule against the interests of the employee or consumer.
 
-Ideally, "mediation" resolves the issue while [making all parties satisfied](https://adequate.life/conflicts/):
+Ideally, "mediation" resolves the issue while [making all parties satisfied](people-5_conflicts.md):
 
 - The very fact that parties are willing to mediate means they're willing to "move" on their position.
-- Professional mediators are trained to work with difficult situations, and guide the parties through the process while assisting in finding [creative solutions](https://adequate.life/creativity/) for the conflict.
+- Professional mediators are trained to work with difficult situations, and guide the parties through the process while assisting in finding [creative solutions](mind-creativity-how.md) for the conflict.
 - Mediation is much more affordable than arbitration or civil suits, and can be resolved within a matter of hours with a competent attorney present.
 - The entire arrangement is strictly confidential where many mediators destroy their notes once it's finished, to the point that many courts can't enforce a mediator to testify in court about the mediation with the possible exceptions of child abuse or criminal acts.
 - All parties have tremendous control over a resolution.
@@ -521,7 +521,7 @@ Either way, the results of a conflict will arrive with a few possible results:
 Always, *always* use a contract, written at least, and preferably notarized.
 
 - Even if it's a quick task or a project for a friend, a contract protects all parties.
-- While it may seem obsessive or distrustful, you're protecting yourself against the worst parts of a dramatic minority of acquaintances and interactions (similar to [security cameras](/security/)).
+- While it may seem obsessive or distrustful, you're protecting yourself against the worst parts of a dramatic minority of acquaintances and interactions (similar to [security cameras](safety-security.md)).
 
 Always send a proposal in writing that outlines the scope of the project:
 
@@ -533,7 +533,7 @@ Always send a proposal in writing that outlines the scope of the project:
 
 If you expect continued business, send a master services agreement, along with a new scope of work for each new project.
 
-- Keep track of anything relevant to the engagement, both in [paperwork](/legally-safe/) and in [accounting](/accounting/).
+- Keep track of anything relevant to the engagement, both in [paperwork](legal-safety.md) and in [accounting](accounting.md).
 
 Whatever price that's been agreed-upon is non-negotiable.
 
@@ -547,16 +547,16 @@ When you get a middle party, pay *very* close attention to what you are gaining 
 
 When an agreement has adverse consequences for termination, watch for people performing strange behavior with it.
 
-- They may try tempting you to breach the contract, then [lie](https://adequate.life/lying/) that they didn't know it was a breach but need to enforce it.
+- They may try tempting you to breach the contract, then [lie](people-lying.md) that they didn't know it was a breach but need to enforce it.
 - If the person who cancels the contract must pay, then they may try to get *you* to terminate the engagement.
 
 Since anything can exist as a contract, many scams are also viable contracts.
 
-Many contract provisions may be a violation of [civil rights](https://gainedin.site/boundaries/):
+Many contract provisions may be a violation of [civil rights](people-boundaries.md):
 
 - Punitive non-compete agreements
 - No-criticism agreements
-- Usage of personal [intellectual property](/ip/)
+- Usage of personal [intellectual property](legal-ip.md)
 
 Stay on top of *any* changes to the contract.
 

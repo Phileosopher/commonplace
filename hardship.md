@@ -244,11 +244,11 @@ If you're in a position of need, you *must* rely on others, even if they've neve
 When others *cause* hardship to us, we have extra difficulties because it's battling 2 things at once:
 
 1. The [mental turmoil](conflicts-inner.md) that comes from the misery of hardship.
-2. The [social conflicts](people-conflicts.md) that come from those other people.
+2. The [social conflicts](people-5_conflicts.md) that come from those other people.
 
 And, sometimes, society itself can be aligned against you.
 
-- While culture-sized hardship won't directly affect your intimate relationships, it can create severe and consistent [conflicts](people-conflicts.md) through how others may want you to behave.
+- While culture-sized hardship won't directly affect your intimate relationships, it can create severe and consistent [conflicts](people-5_conflicts.md) through how others may want you to behave.
 - Typically, the [cultural dimension](culture.md) of power distance will combine with [class-specific](classes.md) cultural contexts to create a vast range of small ways you can [break social rules](morality-taboo.md).
 
 It's also not uncommon for others' well-intended solutions to hurt you further:

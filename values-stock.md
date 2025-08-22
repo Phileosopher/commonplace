@@ -147,11 +147,11 @@ The [Natural World](reality.md):
 - It's fine to download media without paying for it.
 - Social media is bad.
 
-[Conflicts](people-conflicts.md):
+[Conflicts](people-5_conflicts.md):
 
 - Accept people for who they are.
 - It's sometimes okay to agree to disagree.
-- Two unlikely people *can* [agree](people-conflicts.md) on something.
+- Two unlikely people *can* [agree](people-5_conflicts.md) on something.
 - You should always agree with your friends.
 - Having enemies is good for us.
 - Treat others with acceptance and tolerance.

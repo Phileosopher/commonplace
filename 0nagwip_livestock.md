@@ -1,18 +1,18 @@
 
-Livestock, or animal husbandry, is *much* harder than [gardening](/plants/), with many more obligations and work required.
+Livestock, or animal husbandry, is *much* harder than [gardening](horticulture.md), with many more obligations and work required.
 
 - However, beyond food, they also provide convenient and consistent access to meat, fertilizer, and a wide variety of supplies from their carcasses.
 
 Do *not* micromanage.
 
 - Raising livestock is essentially letting nature happen, followed by sporadic interventions as needed.
-- While the [marketing](/marketing/) veers toward technological solutions like growth hormone, antibiotics, calf formula, and various equipment, they're only *sometimes* more effective than open-range, hands-off approaches.
+- While the [marketing](marketing.md) veers toward technological solutions like growth hormone, antibiotics, calf formula, and various equipment, they're only *sometimes* more effective than open-range, hands-off approaches.
 
 Letting the animals freely roam in a sufficiently large-enough area ends up fixing many issues:
 
-- Animals tend to excrete, then naturally walk away from it. If it's outside on raw land, the elements will convert it to high-quality [potting soil](/plants/).
+- Animals tend to excrete, then naturally walk away from it. If it's outside on raw land, the elements will convert it to high-quality [potting soil](horticulture.md).
 - Gravity naturally causes valleys to accumulate organic material and render ridges and slopes infertile, so chewing cud on higher ground defies this tendency to create fertile area everywhere.
-- Forage starts slow, gains speed, then slows as it reaches maturity (a [sigmoid curve](/algebra/) over time). Wandering gives plenty of time for the forage to grow back.
+- Forage starts slow, gains speed, then slows as it reaches maturity (a [sigmoid curve](math-algebra.md) over time). Wandering gives plenty of time for the forage to grow back.
 - New ground and fresh forage gives variety, which nutritionally helps the livestock through fresh food with more variety.
 - It may work at scale to raise livestock in pens, but it requires a *lot* of synthetic replacement, and isn't financially worth it for anything smaller-scale.
 
@@ -22,7 +22,7 @@ Livestock have a general yearly cycle:
 2. Send the animals back in every evening and during inclement weather.
 3. Shear the sheep in summer, birth the animals as needed.
 4. Butcher, salt, and smoke their meat.
-5. [Repair](/fix/) all the tools and equipment during winter, as well as working with more long-term materials (e.g., bone, leather).
+5. [Repair](fix.md) all the tools and equipment during winter, as well as working with more long-term materials (e.g., bone, leather).
 
 ## Watching over them
 
@@ -110,9 +110,9 @@ At scale, you may want to consider more robust ways to improve your yield.
 - While it may take more space and initial work, letting your animals freely move can very frequently help improve yield with minimal effort (i.e., "free-range").
   - Generally, they require electric fences or some other natural barrier, as well as water routed to the area to ensure they can graze.
 - The easiest way is to give the animals antibiotics, but you can also give them hormones to strengthen them.
-- Irrespective of [ethics](https://gainedin.site/morality/), giving more synthetic stimulants to the animal *will* decrease the quality of the yield, and it'll typically make the animals miserable in the process.
+- Irrespective of [ethics](morality.md), giving more synthetic stimulants to the animal *will* decrease the quality of the yield, and it'll typically make the animals miserable in the process.
 
-One simple way to improve your *[agricultural](/plants/)* yield is with mob grazing or rotational grazing, which both operate on a similar broad principle of rotational farming:
+One simple way to improve your *[agricultural](horticulture.md)* yield is with mob grazing or rotational grazing, which both operate on a similar broad principle of rotational farming:
 
 1. Abandon the soil where a crop had been for 1-13 months.
 2. During a planting season, plant grass seeds in that area and wait for them to grow. At the same time, start Step 1 somewhere else.
@@ -121,7 +121,7 @@ One simple way to improve your *[agricultural](/plants/)* yield is with mob graz
 
 Add cottonseeds to their diet to improve milk yield.
 
-Given the scope of feed costs, you should *only* go organic if you are either [marketing](/marketing/) for it or personally consuming the livestock.
+Given the scope of feed costs, you should *only* go organic if you are either [marketing](marketing.md) for it or personally consuming the livestock.
 
 ## Structures
 

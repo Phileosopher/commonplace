@@ -1,8 +1,8 @@
 
-Besides [accounting](/accounting/) and [construction](/engineering/), one of the oldest-standing professions was farming.
+Besides [accounting](accounting.md) and [construction](engineering.md), one of the oldest-standing professions was farming.
 
-- Across written history, *most* humanity worked a farm until recent developments in technology freed them up to [make their own career](https://gainedin.site/specialization-cities/).
-- Having a side garden can be a [healthy](/health/) addition (or even *replacement*) to your standard diet, as well as giving you more [protection](/risk-mgmt/) against [a large-scale disaster](https://adequate.life/disasters-3/).
+- Across written history, *most* humanity worked a farm until recent developments in technology freed them up to [make their own career](jobs-specialization.md).
+- Having a side garden can be a [healthy](body-4_health.md) addition (or even *replacement*) to your standard diet, as well as giving you more [protection](safety-riskmgmt.md) against [a large-scale disaster](hardship-disaster-1_short.md).
 
 Growing plants runs through a relatively predictable yearly pattern:
 
@@ -21,7 +21,7 @@ Growing plants runs through a relatively predictable yearly pattern:
    - Harvest leafy greens and lumber by pulling a bit off each plant to avoid killing it.
    - Get it while it's either ripe or near-ripe, since bugs will eat anything that starts decomposing.
 6. Sow the winter seeds, mill and can the harvest.
-7. Reap the winter food, [repair](/fix/) all the tools and equipment during winter.
+7. Reap the winter food, [repair](fix.md) all the tools and equipment during winter.
 
 ## Selecting
 
@@ -48,7 +48,7 @@ Cycle your crops each year.
 - Mono-cultures (one type of plant) will *ravage* biodiversity and increase issues like pests and mildew, while a vast variety of cycling plants will enrich the soil.
 - Generally, every year a plant will consume some of the soil's nutrients and produce "waste" nutrients, so cycle out each region for different plants to keep yourself from depleting the soil.
 - After a few years, the nutrients that come from nature will mostly deplete (e.g., bug corpses, wild animal feces), so the general rule is to abandon the land to the elements one out of every seven years.
-- Consider using [cattle](/livestock/) and grass seed to perform rotational farming.
+- Consider using [cattle](agriculture.md) and grass seed to perform rotational farming.
 
 To garden with less space, try hydroponics or vertical gardening.
 
@@ -127,7 +127,7 @@ Watch for any plant leaves that aren't a healthy green color.
 At scale, you may want to consider more robust ways to improve your yield.
 
 - Many genetically modified organisms (GMOs), pesticides, and synthetic fertilizers are an attempt to cut losses and improve yields.
-- Irrespective of [ethics](https://gainedin.site/morality/), your yield *will* suffer a drop in the product's actual quality.
+- Irrespective of [ethics](morality.md), your yield *will* suffer a drop in the product's actual quality.
 
 ## Vegetables
 
@@ -336,15 +336,15 @@ P = helps pest/bug control
 
 At some point as you scale, you won't simply need tractors and labor.
 
-- Grain bins and silos are critical [logistical elements](/logistics/) to help dry and hold the product until you can get it to market.
-- Most large-scale farming operations involve heavy [data science](https://trendless.tech/database/):
+- Grain bins and silos are critical [logistical elements](logistics.md) to help dry and hold the product until you can get it to market.
+- Most large-scale farming operations involve heavy [data science](database.md):
   - Managing the soil across the entire acreage
   - Regulating moisture between storage and selling of product (since it's sold by weight)
   - Tracking market prices and either selling via futures contracts or on the open market
   - Regulating fertilizer usage to maintain the soil
-  - Accommodating for any [weather changes](/weather/) through all of it
-- To gather data, you'll need plenty of sensors, [wireless technology](https://trendless.tech/radio), and [GPS information](https://trendless.tech/gps/).
-- On a more advanced level, modern farming involves high-end specialized [robotics](https://trendless.tech/robotics/) that use soil data to precisely plant seeds.
+  - Accommodating for any [weather changes](weather.md) through all of it
+- To gather data, you'll need plenty of sensors, [wireless technology](radio.md), and [GPS information](logistics-navigation.md).
+- On a more advanced level, modern farming involves high-end specialized [robotics](computers-robotics.md) that use soil data to precisely plant seeds.
 
 For large-scale farming, you do *not* need to own the land it's on, and can often lease it for much less.
 
@@ -353,9 +353,9 @@ If you're looking for more yield, you'll probably need to consider GMOs (genetic
 - Unless you're aiming to sell non-GMO and organic at a significant premium, your yield will be abysmally low.
 - GMO seeds are intentionally bred to be infertile, so you'll have to purchase seeds every year.
 - GMO seeds are also chemically resistant to pesticides, meaning higher yield as well.
-- However, the downside comes through the food's quality, which will require a faster [logistical system](/logistics/) to get it to market.
+- However, the downside comes through the food's quality, which will require a faster [logistical system](logistics.md) to get it to market.
 
-Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](/mgmt/) and [economics](https://gainedin.site/economics/).
+Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](mgmt-1_why.md) and [economics](economics.md).
 
 * * * * *
 

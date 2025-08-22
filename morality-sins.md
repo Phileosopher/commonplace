@@ -10,7 +10,7 @@ Small sins [habitually](habits.md) prepare us for larger sins on the same spectr
 
 1. Assault: we encounter an impure thought, often planted [by the devil](spiritual-warfare-tricks.md).
 2. Interaction: we open up a [dialogue](people-conversation.md) that lets that thought take more precedence in our [minds](understanding.md).
-3. Consent: after the dialogue becomes [familiar](habits.md), we [consent](contracts.md) to our urges.
+3. Consent: after the dialogue becomes [familiar](habits.md), we [consent](people-contracts.md) to our urges.
 4. Defeat: we become hostages to that urge, and find it more difficult to resist.
 5. Passion or Obsession: that sin becomes an [addictive](addiction.md) [substance](addiction-substances.md) and grafts into our [soul](humanity.md).
 

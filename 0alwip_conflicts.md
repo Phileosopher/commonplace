@@ -42,39 +42,39 @@ Conflict is an inevitable part of being human:
 - We all have *constant* [inner conflict](conflicts-inner.md) about various [beliefs](understanding-certainty.md), [feelings](mind-feelings.md), and [thoughts](understanding.md).
 - However, people *usually* see conflict as a difference of [views, interests, or goals](purpose.md) between two people.
 
-Conflicts are not always fighting with others, [but can be](https://gainedin.site/boundaries/):
+Conflicts are not always fighting with others, [but can be](people-conflicts.md):
 
-- Fights and arguments arise when people see that it's the best way to accomplish their [purposes](https://gainedin.site/purpose/).
+- Fights and arguments arise when people see that it's the best way to accomplish their [purposes](purpose.md).
 - Sometimes, it's simply a disagreement or [misunderstanding](understanding.md).
-- While [respect for others](/people-3/) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
+- While [respect for others](people-3_respect.md) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
 
 Most conflicts come from people trying to gain a perceived need:
 
 - Their need may or may not be real or accurate, and may simply be a "want".
-- You often have a *massive* advantage if you're [aware](/awareness/) of what you and others want and need.
+- You often have a *massive* advantage if you're [aware](awareness.md) of what you and others want and need.
 - When you stand to gain for yourself or for another person, the skills are exactly the same.
 
 Conflict, used correctly, benefits everyone involved:
 
 - If you ask for what you want correctly, you can usually get it.
-- When driven by [love](https://gainedin.site/love/), conflicts drive each person to understand each other more, and relationships become stronger from it (especially [marriage](/relationships/)).
-- Open-minded participants of conflicts often become more [aware](/awareness/) of themselves and [how they may appear](https://gainedin.site/image/).
-- After healthy conflicts, people are less afraid to open up further discussions about future conflicts, which strengthens [relationships](/people-4/) and harmonizes their [culture](https://gainedin.site/culture/).
-- Critical conflicts, handled correctly, can make or break entire [organizations](https://gainedin.site/groups-large/).
+- When driven by [love](people-love.md), conflicts drive each person to understand each other more, and relationships become stronger from it (especially [marriage](relationships-3_marriage.md)).
+- Open-minded participants of conflicts often become more [aware](awareness.md) of themselves and [how they may appear](image.md).
+- After healthy conflicts, people are less afraid to open up further discussions about future conflicts, which strengthens [relationships](people-4_friends.md) and harmonizes their [culture](culture.md).
+- Critical conflicts, handled correctly, can make or break entire [organizations](groups-large.md).
 
 Conflict requires high-stress communication:
 
-- Every conflict requires [speaking well](/speaking/) and [maintaining your composure](/awareness/), which requires [managing stress](/happiness-2/) to avoid saying something you'll regret.
-- Your [internalized subconscious trauma](/hardship/) will very often add more problems to the conflict, so [self-awareness](/awareness/) is *absolutely* critical to understand what you're feeling moment-to-moment.
-- When conflicts go poorly, we suffer [tremendous misery](/happiness-2/) from prolonged thinking about it, as well as [anticipatory pain](/hardship/) later.
+- Every conflict requires [speaking well](language-speaking.md) and [maintaining your composure](awareness.md), which requires [managing stress](happiness-stress.md) to avoid saying something you'll regret.
+- Your [internalized subconscious trauma](hardship.md) will very often add more problems to the conflict, so [self-awareness](awareness.md) is *absolutely* critical to understand what you're feeling moment-to-moment.
+- When conflicts go poorly, we suffer [tremendous misery](happiness-stress.md) from prolonged thinking about it, as well as [anticipatory pain](hardship.md) later.
 
 Deferring conflict magnifies it:
 
 - All conflicts are risky, but the earliest possible moment to address it is typically the lowest-risk time to approach it.
 - Stalling a conflict, even a small one, makes it worse.
-  - Many conflicts require [lying](/lying/) to stall it.
-  - Even without lying, the conflict sits as an [unresolved problem](https://gainedin.site/purpose/) interfering with [the perfect harmony we all desire](https://gainedin.site/good-life/).
-- [Close relationships](/people-4/) require trust, which requires talking out conflicts.
+  - Many conflicts require [lying](people-lying.md) to stall it.
+  - Even without lying, the conflict sits as an [unresolved problem](purpose.md) interfering with [the perfect harmony we all desire](goodlife.md).
+- [Close relationships](people-4_friends.md) require trust, which requires talking out conflicts.
 
 Gratitude and revenge tend to complicate conflicts:
 
@@ -87,43 +87,41 @@ Healthy conflicts require both sides willing to change and compromise:
 - You must believe in others and want something *beyond* the conflict.
   - Many conflicts have solutions where everyone can win, so it's not healthy to focus on "winning" or "losing" them.
 - Consider all your failings when approaching them, since they're likely noting them more than you are.
-- *Always* assume that person believes they're being perfectly [reasonable](https://gainedin.site/purpose/) and [logical](https://gainedin.site/logic/), irrespective of reality.
+- *Always* assume that person believes they're being perfectly [reasonable](purpose.md) and [logical](logic.md), irrespective of reality.
 - However, also assume you don't know most of what that person knows.
 
 * * * * *
 
 ## Casual conflicts
 
-In [polite company](/social-rules/), avoid confronting conflicts directly:
+In [polite company](people-rules.md), avoid confronting conflicts directly:
 
 - If you must confront something, speak privately unless you're trying to draw public attention to it and destroy relationships.
-- When discussing [politics](https://gainedin.site/groups-large/) or [religion](https://gainedin.site/religion/), approach the topics *very* carefully.
+- When discussing [politics](groups-large.md) or [religion](religion.md), approach the topics *very* carefully.
   - Once you've talked about those things, you've permanently marked yourself with whatever stereotypes people made of that group.
-  - Focus political/religious discussions away from facts you perceive (which are often [biased](https://gainedin.site/image/) or could be wrong).
+  - Focus political/religious discussions away from facts you perceive (which are often [biased](image.md) or could be wrong).
   - Instead, focus on personal experiences (which are harder to refute) and shared beliefs that *nobody* can disagree on (which builds rapport).
 - Generally, if you're uneasy on how they'll feel about anything, ask questions more than make statements.
 
 Try to create 5 positive interactions for every 1 negative one:
 
-- To find any [satisfaction with others, we tend to need many more good experiences to offset the bad ones.](/happiness-1/)
-[- Try to find times where interacting with them will only lead to a positive experience.](/happiness-1/)
+- To find any [satisfaction with others, we tend to need many more good experiences to offset the bad ones.](happiness.md)
+[- Try to find times where interacting with them will only lead to a positive experience.](happiness.md)
 
-[](/happiness-1/)[
+Show integrity and honesty:
 
-](/happiness-1/)[Show integrity and honesty:](/happiness-1/)
-
-- [Honesty conforms words to reality, while integrity conforms reality to words.](/happiness-1/)
-- [Both are difficult](/happiness-1/) [habits](https://gainedin.site/habits/) if you haven't practiced them.
+- Honesty conforms words to reality, while integrity conforms reality to words.
+- Both are difficult [habits](habits.md) if you haven't practiced them.
 - Keep commitments and thoroughly apologize and explain when you can't.
-- [Make people feel important](/speaking/).
+- [Make people feel important](language-speaking.md).
 - Clarify your expectations and address theirs.
 - Demonstrate positive intent, at the beginning and throughout the experience with others.
 
 The internet is toxic because it's very difficult to establish rapport:
 
 - On message boards and social media, almost nobody knows anyone else.
-- There's also no way to distinguish [cultural differences](/social-rules/).
-- Further, most people can't pick up implications that typically come from [speaking](/speaking/), but often aren't good [writers](/writing/).
+- There's also no way to distinguish [cultural differences](people-rules.md).
+- Further, most people can't pick up implications that typically come from [speaking](language-speaking.md), but often aren't good [writers](language-writing.md).
 
 Circumvent people you don't like:
 
@@ -131,27 +129,27 @@ Circumvent people you don't like:
 - To leave, make a vague excuse.
 - Since people usually know when others dislike them, don't directly express your distaste for them or try to earn favor to compensate.
 
-Subtly sidestep if you make an unpopular decision (like avoiding [alcohol](/alcohol/) at a [party](/parties/)):
+Subtly sidestep if you make an unpopular decision (like avoiding [alcohol](fun-alcohol.md) at a [party](fun-parties.md)):
 
 - Don't draw attention to your decision.
 - Give a vague, general explanation if others bring it up.
   - They don't really care why you do it, and simply want to pressure you to do it with them.
-- If they keep pressing, lighten the conversation with [humor](https://gainedin.site/humor/) and redirect it.
+- If they keep pressing, lighten the conversation with [humor](humor.md) and redirect it.
 
 Manage others' insults gracefully:
 
 - Don't react to the insult.
-  - If they're correct, you have something to change, and should learn more [self-awareness](/awareness/), and even more if they're a stranger.
+  - If they're correct, you have something to change, and should learn more [self-awareness](awareness.md), and even more if they're a stranger.
   - If they're incorrect, they obviously don't know who you are, so have no authority to speak about it.
-  - When you respect the person who insulted you, take the experience as an opportunity to [grow](/success-2/).
+  - When you respect the person who insulted you, take the experience as an opportunity to [grow](success-2_attitude.md).
   - If you *don't* respect the person who insulted you, consider that a relief: you're not the right kind of person for them to respect.
 - You can only respond to an insult in a few specific ways:
   1. Insult back, which tends to go nowhere and can make you look petty.
   2. Make a clever comeback (e.g., reframing their intended insult as a *good* thing).
   3. Defuse the remark with some self-aware humor (which is sometimes *really* hard to do).
-  4. Find a way to take revenge later, which is [usually a waste of your time](/success-2/) and will [destroy your happiness further](/happiness-3/).
+  4. Find a way to take revenge later, which is [usually a waste of your time](success-2_attitude.md) and will [destroy your happiness further](happiness-connect.md).
   5. Pretend it didn't happen.
-- People usually don't mean insult, and often are simply not honoring [social rules](/social-rules/) they hadn't learned.
+- People usually don't mean insult, and often are simply not honoring [social rules](people-rules.md) they hadn't learned.
   - Treat insults like a barking dog: something to note, but not necessarily important or personal.
 - If someone *chronically* insults you, avoid that person if at all possible.
 - Don't intervene against insults of people around you, since you'll likely make those people more hypersensitive to them and will potentially offend everyone.
@@ -178,7 +176,7 @@ If someone is sharing something you wanted to keep private:
 1. Consider why they let the secret slip.
 2. If they're telling another person involved with the problem, don't blame them since that person needed to know anyway.
 3. Since it's public, get ahead of the secret by telling everyone who may know next.
-4. [Forgive them](/happiness-2/) and move on after you've confronted them about it and seen their attitude.
+4. [Forgive them](happiness-stress.md) and move on after you've confronted them about it and seen their attitude.
 
 ### Approach others' failings correctly
 
@@ -207,12 +205,12 @@ When they may even *remotely* disagree, speak without certainty (e.g., "It appea
 Don't judge prematurely:
 
 - People may simply not understand that they're behaving rudely.
-- Most of the time, people have a [past childhood](/parenting-2/) that failed to prepare them for adult life.
+- Most of the time, people have a [past childhood](parenting-2_children.md) that failed to prepare them for adult life.
 - Sometimes, people have mental disorders that make them completely incapable of understanding how they're hurting anyone.
 
 If you know someone is lying to you:
 
-1. Make absolutely certain you're [reading them](/lying/) correctly.
+1. Make absolutely certain you're [reading them](people-lying.md) correctly.
 2. Hint at what you know.
 3. Suggest you don't believe them.
 4. If you must have a confession, directly confront them, but you're risking your relationship with them in the process.
@@ -254,7 +252,7 @@ If someone is talking incessantly or loudly:
 
 If someone is barely speaking:
 
-- Commenting on their how quiet they are or making general [small talk](/speaking/) will make them quieter.
+- Commenting on their how quiet they are or making general [small talk](language-speaking.md) will make them quieter.
 - Ask about them or talk about something you know they like.
 - Instead of trying to continually fill the silence, use it for contemplation.
 
@@ -266,7 +264,7 @@ When you must share bad news:
 4. Say it plainly.
 5. Let silence persist for them to take the news.
 6. If you want to share a positive benefit, diminish it first (e.g., "There is one small benefit to it..."), but *only* if you're not responsible for the new circumstance.
-7. If you have [ideas](/creativity/) that may help them, inform them that you have them, then leave them alone to talk about it at least a day later.
+7. If you have [ideas](mind-creativity.md) that may help them, inform them that you have them, then leave them alone to talk about it at least a day later.
 
 If you're starting to feel any unpleasant emotions, say something to give yourself space (e.g., "I need a few seconds to process this"), then take some time to calm down.
 
@@ -338,7 +336,7 @@ Try to acknowledge others' statements, but respond with "yes, and..." more than 
 If you have guests at your house and want them to leave:
 
 1. Give verbal or nonverbal cues that you wish to be alone.
-2. Mention legitimate limits like an appointment or the need to [sleep](/sleep).
+2. Mention legitimate limits like an appointment or the need to [sleep](sleep.md).
 3. Imply the end of the visit by asking to schedule new plans or implying you want to meet in the future.
 4. Give them a parting gift to indicate you want them to leave.
 
@@ -374,7 +372,7 @@ If someone is selling something to you:
 If you're paying someone for a task:
 
 - Ask them what they think is a reasonable price, then give that rate if they've already been honest.
-- Only haggle with them if you know for certain they're [lying](/lying/) and you don't care about a relationship with them.
+- Only haggle with them if you know for certain they're [lying](people-lying.md) and you don't care about a relationship with them.
 
 If someone is romantically attracted to you and you don't feel the same:
 
@@ -403,12 +401,12 @@ Defuse someone very angry at you or screaming:
 Many factors determine the correct attitude for resolving any given conflict:
 
 - There's a broad range of influences you must consider:
-  - The conflict members' [desires](https://gainedin.site/purpose/) and their perceived desires of other people in the conflict.
-  - The members' differences in [social position](https://gainedin.site/power/).
+  - The conflict members' [desires](purpose.md) and their perceived desires of other people in the conflict.
+  - The members' differences in [social position](power.md).
   - Members' existing relationships with other people who may be involved.
-  - The people affected by the results of the [decision](https://gainedin.site/decisions/).
+  - The people affected by the results of the [decision](decisions.md).
 - Healthy negotiators often *shift* their attitude in the midst of a conflict based on new information.
-  - Your desires will likely change once you gain more information, especially if you [care at all](https://gainedin.site/love/) about anyone else but yourself.
+  - Your desires will likely change once you gain more information, especially if you [care at all](people-love.md) about anyone else but yourself.
 
 Win/Lose is pure dominance:
 
@@ -417,8 +415,8 @@ Win/Lose is pure dominance:
 - For the most part, this style is delivering an all-or-nothing ultimatum.
   - It can either be aggressive or passive-aggressive.
 - It's an authoritarian mentality: one individual determines everything.
-- Most [traditional leadership roles](https://notageni.us/mgmt/) are Win/Lose.
-- If it's used frequently or to an extreme, it will utterly destroy [relationships](/people-4/) because that person is asserting that other people don't matter.
+- Most [traditional leadership roles](mgmt-1_why.md) are Win/Lose.
+- If it's used frequently or to an extreme, it will utterly destroy [relationships](people-4_friends.md) because that person is asserting that other people don't matter.
 
 Lose/Win is pure submission:
 
@@ -427,7 +425,7 @@ Lose/Win is pure submission:
 - The motivation for this style can come from multiple sources:
   - Self-preservation
   - Cowardice against an extreme Win/Lose style
-  - [False belief](/hardship-personal/) that it's better to lose than win.
+  - [False belief](hardship-worthlessness.md) that it's better to lose than win.
 - Lose/Win ignores self-interest, so most people will balance their Lose/Win with inappropriate Win/Lose conflicts elsewhere in their lives.
 
 Lose/Lose:
@@ -469,12 +467,12 @@ Interactions across attitudes has a certain type of Rock-Paper-Scissors effect:
   - When they refuse to budge, either give your own Win/Lose or Lose/Lose and walk away.
 - If they're Lose/Win, give them Win/Win or No Deal.
   - When they refuse to budge, give a Part Win/Part Lose, but leave the dialogue open for further discussion.
-  - Often, someone's Lose/Win is also a Win for themselves elsewhere, so *very* carefully [track their honesty](/lying/).
-- When they're Lose/Lose, [affirm their feelings](/people-3/) and emphasize Win/Win or No Deal.
+  - Often, someone's Lose/Win is also a Win for themselves elsewhere, so *very* carefully [track their honesty](people-lying.md).
+- When they're Lose/Lose, [affirm their feelings](people-3_respect.md) and emphasize Win/Win or No Deal.
   - If they don't move, you must resort to their Lose/Lose and assume it until they're willing to revisit it.
 - When they're Win/Win, openly voice any concerns you have but give Win/Win as well.
 - If they're Win/Win or No Deal, openly voice any concerns you have and give it time.
-  - They'll be willing to change if they're really Win/Win or No Deal, or they're simply Win/Lose with excellent [speaking skills](/speaking/).
+  - They'll be willing to change if they're really Win/Win or No Deal, or they're simply Win/Lose with excellent [speaking skills](language-speaking.md).
 - Part Win/Part Lose means they've already conceded something, and are conflicted in themselves.
   - Tread carefully, since they're already uncomfortable with the arrangement and feel somewhat cheated of what they wanted.
 
@@ -492,7 +490,7 @@ When you disagree with someone, mind a few realities:
 
 - When people are [angry or afraid](mind-feelings.md), they're 20-40 IQ points dumber than normal.
 - You can only change yourself.
-- You can only [influence](https://gainedin.site/influence/) others if they let you.
+- You can only [influence](power-influence.md) others if they let you.
 - If someone doesn't want to believe something, their mind will only change with proof.
 - Every human, yourself included, believes certain things without proof.
 
@@ -519,7 +517,7 @@ The only way to slow this escalation is to speak gently and slowly.
 
 Work *very* hard to find "shared facts":
 
-- You'll often need quite a bit of [awareness](/awareness/) about the situation and how others might be thinking, as well as what you certainly *don't* know.
+- You'll often need quite a bit of [awareness](awareness.md) about the situation and how others might be thinking, as well as what you certainly *don't* know.
 - However, if you're aware of what drives a disagreement, you can effectively deflect or defuse *any* conflict, or at the very least mitigate its risks.
 
 Give clear, specific feedback on problems:
@@ -534,7 +532,7 @@ Give clear, specific feedback on problems:
 7. If relevant, tell them the consequences you see if they keep doing what they've done, as well as what you want.
 8. Encourage that they carefully consider the matter, then leave it alone.
 
-Everyone disagrees on a [hierarchy](http://paulgraham.com/disagree.html):
+Everyone [disagrees on a hierarchy](http://paulgraham.com/disagree.html):
 
 1. Refuting the other person's central point(s) ("You're saying this idea, but this idea doesn't work because...").
 2. Pointing out the other person's error by quoting them ("You said 'that idea', but that's incorrect because...").
@@ -548,7 +546,7 @@ When you disagree, have a goal in mind:
 
 - There are at least two sides to every disagreement, as well as a straightforward "third option" that nobody has talked about yet.
 - Every single person has exclusive awareness of at least some facts, including some facts *you're* not aware of.
-- Don't take anyone's behavior personally: since it's likely [habitual](/habits/), their hateful, rude, or unkind behavior toward you is more like a mental disease they can't control.
+- Don't take anyone's behavior personally: since it's likely [habitual](habits.md), their hateful, rude, or unkind behavior toward you is more like a mental disease they can't control.
 
 - If you're in an argument with someone publicly, and it's a waste of time, either find a way to terminate the conversation or focus your statements to resonate with the *audience* of your argument instead.
 
@@ -568,9 +566,9 @@ If you have a strong opinion on something, use the Two-And-Done Rule:
 4. If they still don't agree, yield to their decision while retaining your opinion.
 5. Never bring it up again.
 
-Never say "no" more than once: state [healthy boundaries](/people-3/) the first time, then enforce them if someone tests it again.
+Never say "no" more than once: state [healthy boundaries](people-3_respect.md) the first time, then enforce them if someone tests it again.
 
-If you feel [your rights](https://gainedin.site/boundaries/) are being violated, take personal responsibility that *you* put yourself in that situation:
+If you feel [your rights](people-boundaries.md) are being violated, take personal responsibility that *you* put yourself in that situation:
 
 - If you focus more on the person who violated your rights, you're keeping yourself open to that event repeating itself with someone else.
 
@@ -578,7 +576,7 @@ Watch for dysregulation:
 
 - We can often become unaware of our own feelings, but still act in a way we believe is completely rational.
 - Over a long period, we may even normalize irrational behavior.
-- Learn to stay fully [self-aware](/awareness/) of your feelings, even in the middle of a conflict.
+- Learn to stay fully [self-aware](awareness.md) of your feelings, even in the middle of a conflict.
   - They are often behaving on the precedent of their childhood backgrounds.
 - If you see someone else in a dysregulated state, maintain *extremely* consistent boundaries to prevent their misbehavior from harming you.
 
@@ -622,7 +620,7 @@ If you legitimately hurt others, apologize sincerely and quickly:
   - "That was unkind of me."
   - "I was disrespectful."
   - "I gave you no dignity, and am deeply sorry."
-- Only apologize from [inner strength](/success-6/), not because you feel you must.
+- Only apologize from [inner strength](success-6_humility.md), not because you feel you must.
 - There are six major portions of a complete apology, which you may or may not want to express:
   1. Express regret for what you have done.
   2. Explain precisely what went wrong.
@@ -630,7 +628,7 @@ If you legitimately hurt others, apologize sincerely and quickly:
   4. Declare your repentance to them and desire to change.
   5. Offer to repair what you have broken or damaged.
   6. Requesting forgiveness for your actions.
-- However, [never apologize for something you didn't do](https://notageni.us/legally-safe/).
+- However, [never apologize for something you didn't do](legal-safety.md).
   - If you're careful, you can usually express heartfelt sympathy without apologizing.
 
 * * * * *
@@ -642,10 +640,10 @@ Some people are completely impossible to please, and should always be a low prio
 Note subversive tactics:
 
 - Most people who use subversive tactics know how to provoke others' [feelings](mind-feelings.md) on command.
-- Your only resistance to those tactics is with [awareness](/awareness/) of your feelings and self-discipline against your impulses.
-- If you're caught unaware, that person can usually reveal your weaknesses and [break you down](https://gainedin.site/image-distortion/).
-- Avoid spending much time around these tactics, since they destroy your [happiness](/happiness-1/) across the rest of your life and [influence](https://gainedin.site/influence/) you to perform those actions on others.
-- If you choose to be around people who use devious tactics, [spend time with better friends](/people-4/) to offset how much they'll influence you.
+- Your only resistance to those tactics is with [awareness](awareness.md) of your feelings and self-discipline against your impulses.
+- If you're caught unaware, that person can usually reveal your weaknesses and [break you down](image-distortion.md).
+- Avoid spending much time around these tactics, since they destroy your [happiness](happiness.md) across the rest of your life and [influence](power-influence.md) you to perform those actions on others.
+- If you choose to be around people who use devious tactics, [spend time with better friends](people-4_friends.md) to offset how much they'll influence you.
 - While you *can* use subversive tactics with others, maintain your moral standards.
 
 If you expect underhanded tactics:
@@ -670,13 +668,13 @@ If you expect underhanded tactics:
 
 If you're in a new community that thrives on frequent conflict, find the highest-ranking member of the organization you expect to win against and antagonize them into a fight:
 
-- If you're [perceptive](/awareness/), you'll likely win and become the most respected person in the room.
+- If you're [perceptive](awareness.md), you'll likely win and become the most respected person in the room.
 - However, don't take on more than you can handle: you're likely facing someone more experienced than you and probably has the favor of everyone else there.
 - If you're publicly humiliated, graciously accept defeat and find a new community as soon as possible.
 
 Watch for people who try to overpower the conversation:
 
-- Some people try to subdue others through the force of their [personality](https://gainedin.site/personality/).
+- Some people try to subdue others through the force of their [personality](personality.md).
 
   - Their most defining characteristic is that they constantly keep interrupting you to say something that isn't clearly responding to what you stated.
   - They're not listening to you, but are simply trying to win an argument.
@@ -706,8 +704,8 @@ Watch for people who try to overpower the conversation:
 Some conflicts are extremely important with vast, far-reaching effects:
 
 - Your character and integrity is heavily defined by how you handle crucial conflicts.
-- Most aspects of [long-term success](/success-6/) require extreme attention to when a conflict becomes crucial, as well as knowing how to handle them correctly.
-- Most people who fail with crucial conflicts tend to suffer [extreme hardship](/hardship-social/) by others and end up in [legal trouble](https://notageni.us/legally-safe/).
+- Most aspects of [long-term success](success-6_humility.md) require extreme attention to when a conflict becomes crucial, as well as knowing how to handle them correctly.
+- Most people who fail with crucial conflicts tend to suffer [extreme hardship](hardship.md) by others and end up in [legal trouble](legal-safety.md).
 
 Watch for when a conflict has intensified:
 
@@ -737,20 +735,20 @@ Don't treat a non-crucial conflict like it's crucial:
 
 Consider how much power each person wields:
 
-- There are as many [types of power](https://gainedin.site/power-types/) as [purposes](https://gainedin.site/purpose/) that someone can accomplish.
-- A stunning majority of people are mostly [unaware](/awareness/) of the power they hold.
+- There are as many [types of power](power-types.md) as [purposes](purpose.md) that someone can accomplish.
+- A stunning majority of people are mostly [unaware](awareness.md) of the power they hold.
 
 With official authorities, temper your behavior:
 
-- Even if it's not natural for you, [respect their position](/people-3/) even if they don't deserve respect as a person.
-- Always [legally document](https://notageni.us/legally-safe/) the entire exchange to protect yourself (preferably with recordings), even if you don't use it.
+- Even if it's not natural for you, [respect their position](people-3_respect.md) even if they don't deserve respect as a person.
+- Always [legally document](legal-safety.md) the entire exchange to protect yourself (preferably with recordings), even if you don't use it.
 
 A. Overpowering is trying to command the most control in the conflict:
 
-- They're using intensity and manipulation to control the situation, often by ignoring their [boundaries](/people-3/) and limits.
+- They're using intensity and manipulation to control the situation, often by ignoring their [boundaries](people-3_respect.md) and limits.
 - The only version of reality they'll acknowledge is their own [understanding](understanding.md).
 - To them, nobody else is allowed to use their power, so they'll communicate unreasonable demands without any feeling or consideration.
-- They're generally indifferent to others in the conflict until they're affected by it, and won't tend to [listen](/speaking/) to others' feelings or thoughts.
+- They're generally indifferent to others in the conflict until they're affected by it, and won't tend to [listen](language-speaking.md) to others' feelings or thoughts.
 - When they perceive opposition they'll counter, block, and divert it.
   - Often, they'll subtly or directly blame, judge, and criticize to prematurely subdue opposition.
   - Sometimes, they'll use witty sarcasm or silently withhold information.
@@ -761,24 +759,24 @@ B. Passive power is trying to gain approval from everyone:
 - Usually, they're avoiding all confrontation, then when an unavoidable conflict arises they'll make inadequate demands involving their personal gain.
 - Often, they refuse to bargain or negotiate what they want.
 - Watch for modifiers that lessen the impact of statements (sorry, I just..., I mean...).
-- At the farthest end, they destroy society by exploiting others' kindness by [deceiving](/lying/) people that their status is worse than it is.
+- At the farthest end, they destroy society by exploiting others' kindness by [deceiving](people-lying.md) people that their status is worse than it is.
 
 C. Personal power believes in and desires mutual benefit and coexistence:
 
-- They fully assert themselves up to the point that they aren't crossing [boundaries](/people-3/).
+- They fully assert themselves up to the point that they aren't crossing [boundaries](people-3_respect.md).
 - Their focus stays on what can change to fulfill what everyone needs.
-- This attitude is an inherent risk, so it can only come from self-respect and [prior successes](/success-6/).
+- This attitude is an inherent risk, so it can only come from self-respect and [prior successes](success-6_humility.md).
 
 Healthy conflicts require everyone to interpret each other at a similar amount of power:
 
 - When someone throws around their authority, other people feel inferior and tend to submit unwillingly or rebel.
 
-Overpowering and passive power are designed to convey an [image](https://gainedin.site/image/) of more/less power than they have:
+Overpowering and passive power are designed to convey an [image](image.md) of more/less power than they have:
 
 - Most overpowering or passive power is driven by a desire to gain a power advantage, which is unfavorable to everyone else.
   - To find a Win/Win solution, you must enhance or undermine their power for them to perceive it as matching yours.
 - Frequently, people will use those forms of power to then gain power from others' reactions:
-  - Overpowering [scares others](https://gainedin.site/fear/), which can be manipulated to make someone appear like they can harm someone else.
+  - Overpowering [scares others](mind-feelings-fear.md), which can be manipulated to make someone appear like they can harm someone else.
   - Passive power elicits pity, which can provoke others to cut back on their own needs or wants.
   - Nobody likes either, so using personal power can often create huge ripples across entire communities.
 
@@ -790,11 +788,11 @@ Carefully examine and manage threats:
   2. Who will do what they're threatening?
   3. When would they be able to do it?
   4. How could they do it?
-- Often, their [personality](https://gainedin.site/personality/) can also give clues: more dramatic means less ability to act.
-- The inverse of threats come through shame, sometimes with [religious](https://gainedin.site/religion/) threats involved.
+- Often, their [personality](personality.md) can also give clues: more dramatic means less ability to act.
+- The inverse of threats come through shame, sometimes with [religious](religion.md) threats involved.
 - The only way to shut down an idle threat is to ignore it:
   - Stay mindful of what people will *actually* do, even when they're screaming and dancing next to your face.
-  - Don't relent on your [boundaries](/people-3/), even if they're begging or shaming you.
+  - Don't relent on your [boundaries](people-3_respect.md), even if they're begging or shaming you.
 
 * * * * *
 
@@ -802,7 +800,7 @@ Carefully examine and manage threats:
 
 *Every* conflict is a type of negotiation:
 
-- In a way, negotiation is [communication](/speaking/) focused on results.
+- In a way, negotiation is [communication](language-speaking.md) focused on results.
 - You *always* have something to gain, even if it's changing their opinions or leaving you alone.
 - You're the best defender of your rights and privileges, so you must have the courage to stand up for yourself.
 - Always, throughout the dialogue, stay focused on what you want.
@@ -824,7 +822,7 @@ Everyone tends to manage negotiations by accommodating, assertion, or analysis:
 Don't worry about offense from the confrontation:
 
 - You're entering a conflict because you want to see change, but change is often offensive.
-- While we should care about others, our only universal obligation is to [respect](/people-3/) them.
+- While we should care about others, our only universal obligation is to [respect](people-3_respect.md) them.
 - That person has the right to think whatever they want of you, no matter how awful.
 
 Give plenty of pro-social information, and ask questions more than make statements:
@@ -835,7 +833,7 @@ Give plenty of pro-social information, and ask questions more than make statemen
 Healthy negotiations cycle through the same stages:
 
 1. At least one person sees an issue, then identifies what they want or need.
-2. That person approaches someone with the power to do something about it and starts a [dialogue](/speaking/).
+2. That person approaches someone with the power to do something about it and starts a [dialogue](language-speaking.md).
 3. Eventually, they confronts them with that desire or demand, which often has many "I feel" statements or agreed-upon facts.
 4. They discuss a way to reconcile the demands, which can last anywhere from a few seconds to months depending on the severity.
 5. The conflict resolves with someone stating absolute consequences, or people bring up additional conflicts to further intensify the experience.
@@ -849,13 +847,13 @@ Before you approach them, make a good guess of what everyone wants:
   - Expect to sacrifice your lowest-priority desires to get what you want.
 - You sohuld somewhat reliably guess *their* desires.
   - People often begin conflicts with a clear purpose of what *they* want, but don't understand what the other person wants.
-  - If you don't know, consider how they [feel](https://gainedin.site/feelings) and [what they want from life](https://gainedin.site/universals/).
+  - If you don't know, consider how they [feel](mind-feelings.md) and [what they want from life](humanity-universals.md).
 - People tend to impose their background onto others.
   - Don't expect others to see your desires, and always keep your mind open about theirs.
 
 Be careful with numbers:
 
-- As soon as you use a number (often involving [money](/money-1/)), it establishes a precedent that people expect as a baseline and keep mentally revisiting.
+- As soon as you use a number (often involving [money](money-1_why.md)), it establishes a precedent that people expect as a baseline and keep mentally revisiting.
 - Always use a specific number (like 9.98) instead of a "round" number (like 10) to imply you know the exact value of something.
 - Numbers like "3" and "7" imply an exact calculation, while round numbers like "5" and "10" imply approximations.
 - Always start with a *much* safer number than you're willing to sacrifice for, since they're almost certainly going to try to change it.
@@ -879,7 +877,7 @@ Have a BATNA (a backup plan) if they won't compromise:
 Since people want to be important, but you do too, treat the conflict as two important people hashing out a problem together:
 
 - That person is *never* your enemy, but the problem is, and you simply have to both convince and adapt to the other person's solution.
-- Everyone has a [logical flow of thoughts](https://gainedin.site/logic/) that appear reasonable to them.
+- Everyone has a [logical flow of thoughts](logic.md) that appear reasonable to them.
 
 Good negotiations require patience:
 
@@ -894,26 +892,26 @@ To gain their trust, prioritize your relationship with them:
 - Appeal to the other person's best qualities.
 - Even when it seems unlikely, assume meaningful dialogue is possible.
 - Learn what's happening, not whose fault it is.
-- [Respect them](/people-3/), irrespective of what they think of you.
+- [Respect them](people-3_respect.md), irrespective of what they think of you.
 
 Most people are reliving past dysfunctional roles from their family:
 
-- Our [past hardship](/hardship/) gives all of us destructive, counterproductive approaches.
+- Our [past hardship](hardship.md) gives all of us destructive, counterproductive approaches.
 - Good negotiation draws from a person's "best self", which requires ignoring their "worst self".
 
 Listen carefully to them:
 
 - The listener has more power in the dialogue because they're directing the power of the speaker.
 - To keep them talking, repeat back the last few words they said.
-- [Listening](/speaking/) requires acknowledging, which isn't always agreeing.
+- [Listening](language-speaking.md) requires acknowledging, which isn't always agreeing.
   - When there's a pause, recognize and approve their feelings, but circle around the reality those feelings are based on.
-- People tend to resent being misunderstood, so pay close attention to their point of view and why they believe it, all the way back to their [religious](https://gainedin.site/religion) and [political](https://gainedin.site/conservative-liberal/) views.
+- People tend to resent being misunderstood, so pay close attention to their point of view and why they believe it, all the way back to their [religious](religion.md) and [political](politics-conservativeliberal.md) views.
 - When they freely speak, they'll feel more important and valued, and you'll have more information to understand them.
 
 Speak plainly and directly:
 
-- Learn concise [speaking](/speaking/) (<40 words) to keep everyone focused.
-  - "When [observation], I feel [emotion] because I need [[universal need](https://gainedin.site/universals/)]."
+- Learn concise [speaking](language-speaking.md) (<40 words) to keep everyone focused.
+  - "When [observation], I feel [emotion] because I need [[universal need](humanity-universals.md)]."
   - "You can do that, but it will require [sensible list of things] to get there, and I wouldn't recommend that if I were you."
   - Are you able to [request]?"
   - "Before we go further to [big idea], do we agree on [small idea]?"
@@ -922,7 +920,7 @@ Before reacting, slow down:
 
 - Most people are unaware how they appear when they're upset, but tend to phrase statements as verbal attacks.
 - If you perceive something offensive, resist the urge to attack back.
-- At the same time, you should be [self-aware](/awareness/) enough to see when you must walk away to cool down.
+- At the same time, you should be [self-aware](awareness.md) enough to see when you must walk away to cool down.
 
 Negotiate from principles and encourage them to do the same:
 
@@ -960,7 +958,7 @@ Set the location in a neutral zone:
   - A mediator is an unaffected third-party with nothing to gain or lose from either side.
   - An arbitrator is a decision-making judge, and typically appointed by the party with more power.
 - Arbitration can often become a 2-on-1 battle.
-  - If they're arbitrating, consider an audio recording in case the conflict has adverse [legal consequences](https://notageni.us/legally-safe/), or bring an attorney to even it out.
+  - If they're arbitrating, consider an audio recording in case the conflict has adverse [legal consequences](legal-safety.md), or bring an attorney to even it out.
 - While a mediator may intervene and be quite skilled at it, do *not* let them take control of the conflict, since they won't have to live with the consequences while *you* will.
   - If they're leading you down a path you don't approve of, call a time-out and tell them privately that if they continue along that route you will get a new mediator.
 - If you're arbitrating, expect *them* to bring an attorney.
@@ -983,7 +981,7 @@ Focus on what they want, not where they're at or what they need:
 - Needs are matters of survival, while wants are a bit easier to talk about.
 - A person desperate enough can *always* change their situation to get what they want.
 - Wants and desires often change as both sides gain more understanding of each other.
-- Watch for "unmoving" [rules](https://gainedin.site/taboo/) that would offend them.
+- Watch for "unmoving" [rules](morality-taboo.md) that would offend them.
 - Everyone has the same types of needs:
   - Autonomy
   - Collaboration
@@ -1013,7 +1011,7 @@ Consider what everyone has:
 Ask questions to understand their interests and perspective:
 
 - Test your assumptions by asking if they want something in particular.
-- If they correct you and aren't [lying](/lying/), openly admit you've been wrong and promptly change your beliefs about them.
+- If they correct you and aren't [lying](people-lying.md), openly admit you've been wrong and promptly change your beliefs about them.
 - Try to find additional things that everyone may have overlooked which could benefit various parties.
   - Often, a small change in a situation, or a future likely change, can make the entire conflict irrelevant.
 
@@ -1038,7 +1036,7 @@ Stay aware of the stated conflict:
 1. You can usually see the demands and proposals of both sides right away.
 2. It takes more work, but pay attention to both sides' underlying needs or requirements.
 3. Behind those needs, carefully consider their likely goals and objectives, but keep an open mind.
-4. Within their goals and objectives, look for any shared goals or objectives (which often takes [creativity](/creativity/) to find).
+4. Within their goals and objectives, look for any shared goals or objectives (which often takes [creativity](mind-creativity-how.md) to find).
 5. Stay focused on what you know and understand, especially if emotions start getting more intense.
 
 Establish unalterable realities:
@@ -1055,7 +1053,7 @@ Accept responsibility for your portion of the conflict:
 - Acknowledge the conflict exists.
 - Speak specifically, and avoid generalizing the situation.
   - Very often, feelings cloud judgment because one incident can imply a pattern.
-  - Patterns are a different discussion altogether from individual conflicts, and usually require changing difficult [habits](https://gainedin.site/habits/).
+  - Patterns are a different discussion altogether from individual conflicts, and usually require changing difficult [habits](habits.md).
 - Since you probably don't even know what they want you to apologize for, don't apologize immediately.
 
 As much as possible, encourage them to share their views:
@@ -1063,7 +1061,7 @@ As much as possible, encourage them to share their views:
 - You're trying to let them feel their ideas have been heard, *not* to "get everyone to make a decision".
 - Ask them what their sincere thoughts are, and don't judge anything they say.
 - Mirror their behaviors and statements to confirm their feelings.
-- Paraphrase their statements to acknowledge the [story](https://gainedin.site/stories/) they're trying to present.
+- Paraphrase their statements to acknowledge the [story](stories.md) they're trying to present.
 - When you're getting nowhere, provoke them by being *more* vulnerable.
   - Vulnerability requires trust and belief.
 
@@ -1097,7 +1095,7 @@ Brainstorm possible solutions together:
 - Stay curious in difficult situations.
   - Our natural instinct in conflict is to abandon curiosity and dehumanize others.
   - Stay focused on answers, not problems.
-- If you need, postpone the discussion to give yourself [more time to think](/creativity/).
+- If you need, postpone the discussion to give yourself [more time to think](mind-creativity-how.md).
 
 Great deals come from having and appearing to have leverage:
 
@@ -1150,7 +1148,7 @@ We prepared for a non-negotiation:
   - No deal is better than a bad deal.
   - Never hold yourself to an agreement they haven't agreed to yet.
   - Never compromise your standards or values.
-- Many severe situations may require you to take [legal action](https://notageni.us/legally-safe/).
+- Many severe situations may require you to take [legal action](legal-safety.md).
 
 Even if you feel immensely for their situation, *never* compromise backward beyond your BATNA.
 
@@ -1160,7 +1158,7 @@ If you find a workable answer, know beforehand how to decide:
 
 - Since people value their freedom, decide as sparingly as possible.
 - There are 4 possible forms of making a decision:
-  1. Commanding, which will almost certainly burn most [friendships](/people-4/) if not done carefully.
+  1. Commanding, which will almost certainly burn most [friendships](people-4_friends.md) if not done carefully.
   2. Consult, which will only work if you legitimately consider their opinions.
   3. Vote, which removes any legitimate power you may have unless you're part of the majority view.
      - State the full natural consequences of various options, with your preferred option as the first or last one.
@@ -1174,19 +1172,19 @@ Be careful giving ultimatums:
   - They don't accept the offer and you must humiliate yourself.
 - If you want a tactful ultimatum, use a heavily emotional appeal.
   - Give a personal and factual anecdote why you need something accomplished on their end (e.g., you want that thing to give your dying mother).
-    - The anecdote must be true, or you're outright [lying](/lying/).
+    - The anecdote must be true, or you're outright [lying](people-lying.md).
   - You're intensifying something you may not have felt *that* strongly about, but nobody can argue against it.
 
 People typically need to say "no", so don't take it personally:
 
 - "No" is how we maintain the way things always have been, which means they feel unsafe and need to assert control.
   - Getting them to say "no" about something increases the chances they'll say "yes" later.
-  - The easiest form is to get them to say "no" to an obvious question about something that affects both of you the same way (e.g., "Do you want [our kids](/parenting-2/) to fail?").
+  - The easiest form is to get them to say "no" to an obvious question about something that affects both of you the same way (e.g., "Do you want [our kids](parenting-2_children.md) to fail?").
 - We tend to hear "no" as "no, in every way", but it has many alternative meanings:
   - "I am not yet ready to agree."
   - "You're making me feel uncomfortable."
   - "I don't [understand](understanding.md)."
-  - "I don't think I can [afford it](/money-3/)."
+  - "I don't think I can [afford it](money-3_budget.md)."
   - "I want something else."
   - "I need more information."
   - "I'd like to discuss it with someone else."
@@ -1216,13 +1214,13 @@ If you want, postpone deadlines to give as much time to sort things out:
 
 When they say "yes", it's not always an agreement:
 
-- People sometimes say "yes" because they *want* to say "no", but "yes" is an easier escape from the dialogue (i.e., a high-pressure [sales pitch](https://notageni.us/marketing/)).
+- People sometimes say "yes" because they *want* to say "no", but "yes" is an easier escape from the dialogue (i.e., a high-pressure [sales pitch](marketing.md)).
   - Don't trust a counterfeit "yes", and treat it as a very polite "no".
 - Other times, people simply say "yes" because it's a habitual reaction because they're agreeable.
   - In this situation, they don't agree with what you're proposing, but want to get along with *you*.
   - A confirmation "yes" means you can often come to a sincere "yes", but it's nothing by itself.
   - "I'll try" means they expect to fail, so it's unacceptable.
-- The "yes" you want is a clear commitment they feel [responsible](https://gainedin.site/meaning/) for.
+- The "yes" you want is a clear commitment they feel [responsible](meaning.md) for.
   - To get them to say "yes" as a commitment, they must [feel](mind-feelings.md) it.
 
 Bring an offer:
@@ -1291,11 +1289,11 @@ Always honor your commitments, and explicitly communicate anytime the situation 
 
 When you become effective at conflicts, it's easy to engage with them whenever you want.
 
-The only noble and worthwhile conflicts are driven by [love](https://gainedin.site/love/) for others:
+The only noble and worthwhile conflicts are driven by [love](people-love.md) for others:
 
 - You *must* go easy on others, since we are all fragile, hurt people, irrespective of what we've done.
-- Even if we don't love our opponents, we must [respect them](/people-3/) in their position.
+- Even if we don't love our opponents, we must [respect them](people-3_respect.md) in their position.
 
-However, in unhealthy conflicts, exploiting something for others' gain may not be [wrong](https://gainedin.site/evil/), but it's *never* [right](https://gainedin.site/morality/).
+However, in unhealthy conflicts, exploiting something for others' gain may not be [wrong](morality-evil.md), but it's *never* [right](morality.md).
 
-Don't worry about "winning", since getting an okay (but not great) deal very frequently [builds relationships](/people-4/) in the process, and you can always revisit the situation after enough time passes.
+Don't worry about "winning", since getting an okay (but not great) deal very frequently [builds relationships](people-4_friends.md) in the process, and you can always revisit the situation after enough time passes.

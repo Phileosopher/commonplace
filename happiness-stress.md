@@ -72,7 +72,7 @@ Are you satisfied with the past, present, and future?
 - Unease of the future is focusing on something you can't control.
 - We often find tremendous dissatisfaction through arbitrary comparisons of the past, present, and future.
 - It's not uncommon for people to overthink their most recent experiences and imagine negative long-term consequences, which typically don't happen.
-- We can also find dissatisfaction over things we have literally no control over (e.g., [politics](politics-conservativeliberal.md), [weather](weather.md), [rejection](people-conflicts.md)).
+- We can also find dissatisfaction over things we have literally no control over (e.g., [politics](politics-conservativeliberal.md), [weather](weather.md), [rejection](people-5_conflicts.md)).
 
 Have you recently suffered a loss?
 
@@ -104,7 +104,7 @@ Use the Holmes-Rahe Stress Inventory to track your longer-term stressors:
    - You've foreclosed or defaulted on a mortgage or loan - 30
    - You've had a change in responsibilities at work - 29
    - Your son or daughter [has left home](parenting-3_teenagers.md) - 29
-   - You're having [trouble](people-conflicts.md) with your in-laws - 29
+   - You're having [trouble](people-5_conflicts.md) with your in-laws - 29
    - You've had an outstanding [personal achievement](success-1_why.md) - 28
    - Your spouse has begun or stopped working - 26
    - You've begun or finished school - 26

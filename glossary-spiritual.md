@@ -23,7 +23,7 @@ Conscience - part of our spirit that holds a strong moral conviction about somet
 
 Conviction - a reference by Christians to when the Holy Spirit morally affects someone's conscience
 
-Covenant theology - The theological view that God interacts with humanity based on [His covenants](contracts.md) He makes with humanity, contrasts with dispensationalism
+Covenant theology - The theological view that God interacts with humanity based on [His covenants](people-contracts.md) He makes with humanity, contrasts with dispensationalism
 
 Demonology - The systematic theology branch that addresses fallen angels
 

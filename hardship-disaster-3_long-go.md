@@ -35,7 +35,7 @@ Connect with the black market *before* you need it:
 
 Understand your rights as a citizen:
 
-- Each country has a set of rights, which don't always honor [basic human rights](boundaries.md).
+- Each country has a set of rights, which don't always honor [basic human rights](people-boundaries.md).
 - The purpose of knowing and enforcing your rights is only to prevent [getting arrested](legal-safety.md).
   - In a court of law, don't expect a speedy trial, fair representation, or an [unbiased](mind-bias.md) judge.
 - Avoid discussion with officials as much as possible, since one off-hand remark on your end can justify just about anything they want to do to you.

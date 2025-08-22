@@ -74,7 +74,7 @@ Poor self-esteem makes us blow conflicts, loss, rejection, failure, and loneline
 
 - Can't solve challenging problems or create meaningful [results](mind-creativity-results.md)
 - Won't take risks or adapt to change
-- Inconsistently asserts and self-defines [boundaries](boundaries.md) and [goals](success-3_goals.md)
+- Inconsistently asserts and self-defines [boundaries](people-boundaries.md) and [goals](success-3_goals.md)
 - Won't accept affirmations and recognition from others
 - Higher risk of falling into [addictions](addiction-substances.md)
 - Further, self-affirming statements often make people with low self-esteem feel *worse* about themselves

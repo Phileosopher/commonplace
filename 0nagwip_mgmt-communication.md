@@ -1,22 +1,22 @@
 
-*Previous: [Project Status & Cycles](/mgmt-status/)*
+*Previous: [Project Status & Cycles](mgmt-4_status.md)*
 
 Communication ensures a few things:
 
 1. Team members are acting in alignment with the organization's goals.
-2. Each person is aware of what they're [responsible](https://gainedin.site/meaning/) to do.
+2. Each person is aware of what they're [responsible](meaning.md) to do.
 3. Each person is informed about others' progress, which allows them to know when *they* must act.
 4. Everyone gets feedback over whether they're failing or doing well.
 
-It is vital that managers polish every [speaking](https://adequate.life/speaking/) and [writing](https://adequate.life/writing/) skill they have.
+It is vital that managers polish every [speaking](language-speaking.md) and [writing](language-writing.md) skill they have.
 
 - Trouble with communication skills may create light friction among peers, but can make an *awful* manager.
-- With enough poor communication, even the most effective teams can become [dysfunctional](https://gainedin.site/bad-systems/).
+- With enough poor communication, even the most effective teams can become [dysfunctional](mgmt-badsystems.md).
 - Eventually, unnecessary harshness and unkindness will come back around to the instigator, especially when their job is to tell people what to do.
 
 For any manager, communication is your priority.
 
-- Even if it's simply an affirmation of receiving the information, [clearly](https://adequate.life/writing/) and [promptly](https://adequate.life/speaking/) reply to *every* communication you receive.
+- Even if it's simply an affirmation of receiving the information, [clearly](language-writing.md) and [promptly](language-speaking.md) reply to *every* communication you receive.
 - It may be your impulse to *do* something, but everyone acts in direct response to you.
 - You're responsible to either delegate a task, or to clearly inform what you intend to do before doing it.
 
@@ -24,11 +24,11 @@ Unless it's a legitimate emergency, never make it a first principle to tell peop
 
 - When told to do something, people tend to immediately react negatively or ask why, even if they perform the task.
 - Instead, explain what needs to be done and the consequences if it isn't done, both to them *and* the organization.
-- If they still refuse to do it, even then, you've made a [bad hiring decision](/mgmt-teams/) and should [own the mistake](https://adequate.life/success-5/).
+- If they still refuse to do it, even then, you've made a [bad hiring decision](mgmt-3_teams.md) and should [own the mistake](success-5_persevering.md).
 
 Make double-sure you're not misunderstood.
 
-- Like with [teaching](https://gainedin.site/pedagogy/), management requires over-communication, which means lots of repeating and rephrasing.
+- Like with [teaching](pedagogy.md), management requires over-communication, which means lots of repeating and rephrasing.
 - When in-person, point at each thing as you talk about it.
 - Give very specific goals, with clear indicators:
   - How you'll measure performance
@@ -50,8 +50,8 @@ Stay on top of *any* conflicts that would disrupt the harmony of the group.
   - Often, their complaints are valid, even when their solutions aren't.
   - If you're willing to listen, you may be able to accommodate or assist with their problem.
   - Focus on the problem, not on them or their behavior.
-- To avoid intergroup [conflicts](https://adequate.life/conflicts/), try to keep the workers who get along with others together, and assign the disagreeable ones to non-social roles away from everyone else.
-- Every time there's a new [conflict](https://gainedin.site/conflicts/), separate the workers from each other for at *least* a few weeks.
+- To avoid intergroup [conflicts](people-5_conflicts.md), try to keep the workers who get along with others together, and assign the disagreeable ones to non-social roles away from everyone else.
+- Every time there's a new [conflict](people-conflicts.md), separate the workers from each other for at *least* a few weeks.
 - Every time someone leaves, redefine the roles based on what needs to be done and any new conflict-free dynamics.
 
 * * * * *
@@ -74,11 +74,11 @@ Meetings and emails are the largest waste of resources in most organizations:
 
 ### Emails
 
-The [general rules for writing emails](https://adequate.life/writing/) apply, but are magnified from the scope of how much managers have to send them.
+The [general rules for writing emails](language-writing.md) apply, but are magnified from the scope of how much managers have to send them.
 
 - Typically, a 45-second phone call or voicemail message is *much* more effective at delivering any urgent information.
-- Email is *not* [secure](https://trendless.tech/security/), so never send critical or sensitive information with it.
-  - If you must send important information over the internet, reference a different system that's more secure (e.g., [cloud storage](https://trendless.tech/cloud/)).
+- Email is *not* [secure](computers-cysec.md), so never send critical or sensitive information with it.
+  - If you must send important information over the internet, reference a different system that's more secure (e.g., [cloud storage](computers-distsys-cloud.md)).
 
 To make it easier for everyone, have all the emails searchable by *all* the members in a centralized database.
 
@@ -144,7 +144,7 @@ Every year, examine everyone's yearly progress across the prior 4 quarters.
 - Review past performance and connect quarterly progress with yearly goals.
 - Reflect on the year's successes and failures.
 - Identify the coming year's most important priorities and define next year's goals.
-- To make the occasion memorable, send everyone off-site to a [vacation destination](https://adequate.life/vacations-trips/).
+- To make the occasion memorable, send everyone off-site to a [vacation destination](fun-vacations.md).
 
 Avoid comparing their performance with anyone else.
 
@@ -171,7 +171,7 @@ When you have a knowledge base, systematically review the information.
 
 - There are 2 types of meetings:
   - Status update meetings, where everyone describes their activities.
-  - Brainstorming meetings, which involve [thinking of solutions](https://adequate.life/creativity/) and [making decisions](https://gainedin.site/decisions/).
+  - Brainstorming meetings, which involve [thinking of solutions](mind-creativity-how.md) and [making decisions](decisions.md).
 - Typically, status update meetings are *not* worth the effort.
   - In theory, it brings everyone together to discuss the latest news, but in practice it involves most of the members hearing about information that has nothing to do with them.
   - On an hourly pay rate, it can also be tremendously expensive to have 10 people idling for an hour.
@@ -190,7 +190,7 @@ When you have a knowledge base, systematically review the information.
 
 - For a status meeting, save as much time as possible.
 - For brainstorming meetings, generate as many ideas as possible to increase the likelihood of a practical solution.
-- If you must perform a status meeting for posterity (e.g., [middle management](/mgmt-middle/)), use Robert's Rules of Order to keep the meeting on track and capture all communications.
+- If you must perform a status meeting for posterity (e.g., [middle management](mgmt-middle.md)), use Robert's Rules of Order to keep the meeting on track and capture all communications.
 - Have a plan in mind for how you'll keep everyone focused if any component of the meeting goes too long.
   - *Never* let a brainstorming meeting devolve into status updates.
 
@@ -198,7 +198,7 @@ When you have a knowledge base, systematically review the information.
 
 - Every meeting should focus on the members' questions and concerns.
 - There's no ideal time that fits everyone's preference:
-  - People with late-night lifestyles (especially [when they're young](https://gainedin.site/maturity/)) won't do well in morning meetings.
+  - People with late-night lifestyles (especially [when they're young](maturity.md)) won't do well in morning meetings.
   - Give lunch at afternoon meetings, or set them after lunchtime.
   - Everyone is tired and wants to leave in the evening.
   - To accommodate latecomers, set the time at an odd time (e.g., 5 minutes after the hour).
@@ -245,7 +245,7 @@ When you have a knowledge base, systematically review the information.
   4. 5 min - communicate upcoming strategies and why the group's actions matter.
   5. Give each team or member a task list for the upcoming period.
 - Brainstorming meetings:
-  1. If the [culture](https://gainedin.site/culture/) permits, offer 1-2 [drinks](https://adequate.life/alcohol/) 15 minutes before the meeting.
+  1. If the [culture](culture.md) permits, offer 1-2 [drinks](fun-alcohol.md) 15 minutes before the meeting.
   2. Tell them at the beginning you want as many ideas as possible, and for everyone to silently submit them without judgment.
   3. Read off all the ideas, then give them a second round for them to think of more ideas.
   4. After all the ideas have been given, group them based on common themes.
@@ -280,14 +280,14 @@ Keep giving tasks to everyone around you.
 - Most lower-tier managers have a tendency to keep working at mundane tasks until they're overworked.
 - If you have trouble delegating, think of the tasks you can't perform due to your currently planned tasks.
 
-People find [meaning in responsibility](https://gainedin.site/meaning/), so delegating tasks correctly grants *tremendous* meaning.
+People find [meaning in responsibility](meaning.md), so delegating tasks correctly grants *tremendous* meaning.
 
 - Delegating to workers is the natural means to allow both you and the worker to succeed:
-  - You get more [freed-up time](https://adequate.life/success-4/).
-  - They can improve their [résumé and skills](https://adequate.life/jobs-3/).
+  - You get more [freed-up time](success-4_routine.md).
+  - They can improve their [résumé and skills](jobs-3_image.md).
   - You're able to see if *they* can start becoming a manager themselves, if the need arises.
-- In general, delegation builds a [culture](https://gainedin.site/culture/) of [trust](https://gainedin.site/trust/) and respect.
-  - One advantage of delegation is that you can quickly see [abuses of power](https://gainedin.site/power-types/) by the wrong workers, but without having to change their official roles back-and-forth.
+- In general, delegation builds a [culture](culture.md) of [trust](trust.md) and respect.
+  - One advantage of delegation is that you can quickly see [abuses of power](power-types.md) by the wrong workers, but without having to change their official roles back-and-forth.
 - Clearly communicate how your delegation adds value to them or the organization (and not just yourself).
 
 Many of your important decisions are simply who you delegate tasks to.
@@ -299,25 +299,25 @@ Many of your important decisions are simply who you delegate tasks to.
   - Some younger workers will be *elated* to take some of your responsibilities.
   - Older workers will often be competent to take on tasks, but will typically expect a pay increase for the role change (which is typically worth it).
 - Try to give tasks to people smarter than you.
-  - Even if they're not as hard-working, they'll often find [creative ways](https://gainedin.site/creativity/) to do the tasks *easier* than you (e.g., [with technology](https://gainedin.site/technology/)).
+  - Even if they're not as hard-working, they'll often find [creative ways](mind-creativity.md) to do the tasks *easier* than you (e.g., [with technology](technology.md)).
   - Smart and lazy people will generally find ways to optimize the work so they don't have to do it.
 - If anyone performs the task better than you, promptly advertise how well they've done.
-  - To instill a culture of [clever](https://gainedin.site/creativity/) ideas, the members must know their opinions can make a difference beyond themselves.
-  - *Never* claim credit for an idea from one of your subordinates, even if it's the organization's [intellectual property](/ip/).
+  - To instill a culture of [clever](mind-creativity.md) ideas, the members must know their opinions can make a difference beyond themselves.
+  - *Never* claim credit for an idea from one of your subordinates, even if it's the organization's [intellectual property](legal-ip.md).
 
 Never delegate things nobody else can do.
 
 - If only you can do something (e.g., payroll, ordering inventory), make sure to prioritize those tasks over things other people can do.
-  - Often, when you've been promoted, [force of habit](https://gainedin.site/habits/) will provoke you to perform tasks that were part of your primary role.
-- Beyond specific authorities, your [personality](https://gainedin.site/personality/) is designed to excel at certain tasks over others.
-- Typically, your [reputation](https://gainedin.site/image/) and [creativity](https://gainedin.site/creativity/) are irreplaceable, but someone else can do your time-consuming tasks.
+  - Often, when you've been promoted, [force of habit](habits.md) will provoke you to perform tasks that were part of your primary role.
+- Beyond specific authorities, your [personality](personality.md) is designed to excel at certain tasks over others.
+- Typically, your [reputation](image.md) and [creativity](mind-creativity.md) are irreplaceable, but someone else can do your time-consuming tasks.
 
 The more you give tasks, the more they develop their skills in that direction.
 
 - They should have plenty of chances to attempt work, and plenty of room for failure.
   - They won't be able to do it as well as you, but they also probably haven't spent as much time becoming efficient at those tasks as you have.
 - At some point, if you keep delegating, you'll have a successor who can take on your role.
-  - Eventually, you'll get tired of the work or won't be able to do it anymore, and training someone else into the role leaves [a legacy for yourself](https://gainedin.site/legacy/).
+  - Eventually, you'll get tired of the work or won't be able to do it anymore, and training someone else into the role leaves [a legacy for yourself](legacy.md).
 - If the problem is difficult, but not urgent, give it to a member to solve it.
   - Frequently, their perspective will mean they may be more familiar with portions of the situation than you.
 
@@ -332,13 +332,13 @@ Empower workers to train each other.
 - Make "subject-matter experts" to share their understanding with the rest of the group.
 - When someone is formally defined as a subject-matter expert in a semi-related field that's not part of their formal role, their expertise can often add *tremendous* value to the team.
 
-However, keep growing on your own, or you'll [start getting soft](https://adequate.life/success-6/).
+However, keep growing on your own, or you'll [start getting soft](success-6_humility.md).
 
 - If the organization ever starts having to downsize (or you take on another role somewhere else), you'll need those skills again.
 
 If you've delegated enough tasks to a worker, promote them.
 
-- A small pay boost and title change is a *massive* boost to [their morale](/mgmt-morale/), and typically fosters loyalty as well.
+- A small pay boost and title change is a *massive* boost to [their morale](mgmt-6_morale.md), and typically fosters loyalty as well.
 - It's also the best way to promote without the other workers getting jealous.
 
 ## Feedback
@@ -364,7 +364,7 @@ Whenever you can, find ways to receive anonymous feedback.
 - Openly encourage everyone to bring any problems to your attention, but expect everyone to be distrustful of sharing.
 - Give an anonymous suggestion box (or digital version) for members to give their ideas.
 - If you're determined to have more accountability, give a small pay bonus or incentive for anything members find wrong with management, or for any solutions they discover.
-- In particular, the lowest-ranking and lowest-paid roles (e.g., sales, customer service) have the most perspective and experience to give particularly brilliant [ideas](https://gainedin.site/creativity/).
+- In particular, the lowest-ranking and lowest-paid roles (e.g., sales, customer service) have the most perspective and experience to give particularly brilliant [ideas](mind-creativity.md).
 
 Unless the workers can directly see their results, you *must* inform them when they're succeeding or failing.
 
@@ -372,7 +372,7 @@ Unless the workers can directly see their results, you *must* inform them when t
   - The "no news is good news" is easy to maintain, but can quickly create a harsh and unforgiving work environment.
 - On the other end, you may be overworked from all the affirmations you have to constantly deliver.
   - If you give steady affirmations, you must maintain it or communicate any changes, or everyone will overthink why you stopped and may become discouraged.
-- The best solution is to [find happiness in yourself](https://adequate.life/happiness-1/) enough to be grateful for others, then express legitimate and impulsive gratitude over what others do.
+- The best solution is to [find happiness in yourself](happiness.md) enough to be grateful for others, then express legitimate and impulsive gratitude over what others do.
 
 Deliver praise correctly:
 
@@ -411,41 +411,41 @@ Deliver criticism correctly:
    - Reaffirm you think well of them even though you didn't approve of their performance in that specific situation.
 8. Shake hands with them that shows you're honestly on their side.
 9. If they improve, never mention it again to anyone.
-   - If you have [a superior manager of your own](/mgmt-middle/), indicated that the problem has been dealt with, and avoid giving names or details.
+   - If you have [a superior manager of your own](mgmt-middle.md), indicated that the problem has been dealt with, and avoid giving names or details.
 
 When applicable, give them free access to grow and develop their skills.
 
 - Finance their growth by paying for books, courses, and conferences.
-- Even secondary or unrelated training (e.g., [improving productivity](https://adequate.life/success-4/) or [parenting](https://adequate.life/parenting-1/)) can instill confidence that you care about them as people more than simply the tasks they perform.
+- Even secondary or unrelated training (e.g., [improving productivity](success-4_routine.md) or [parenting](parenting-1_babies.md)) can instill confidence that you care about them as people more than simply the tasks they perform.
 
 Avoid routine performance reviews if at all possible.
 
 - Everything in a formal performance review should have been covered in a previous interaction with them as the situation presented itself.
 - Standardized performance reviews do *not* incentivize better work, but can easily discourage people.
-- If you *do* need performance reviews (such as in a [middle management](/mgmt-middle/) situation), only cover followup information you had previously talked about.
+- If you *do* need performance reviews (such as in a [middle management](mgmt-middle.md) situation), only cover followup information you had previously talked about.
 
 ## Procedures
 
-Procedures are the "[automation](http://trendless.tech)" of an organization.
+Procedures are the "[automation](computers.md)" of an organization.
 
-- They allow [new hires](/mgmt-teams/) to quickly adapt to their work.
-- The written procedure has the power to redefine the entire organization's [culture](https://gainedin.site/culture/).
+- They allow [new hires](mgmt-3_teams.md) to quickly adapt to their work.
+- The written procedure has the power to redefine the entire organization's [culture](culture.md).
 - While the new hires will likely *not* read the handbook (especially if it's a low-thought job), they'll imitate the more experienced and loyal workers who *should* be reading it.
 
 You won't typically need formalized procedures when the organization is small, but tasks will eventually require standardized methods.
 
-- Once the organization starts [scaling](/mgmt-changes/), it'll be an absolutely *critical* communication need for everyone to know how to do something or how something was done.
+- Once the organization starts [scaling](mgmt-7_changes.md), it'll be an absolutely *critical* communication need for everyone to know how to do something or how something was done.
 - Any efforts you make on building procedures as soon as you see *any* growth will save you the urgency of creating it later.
 - More time thinking on correct policy and procedure allows you to more clearly [understand](understanding.md) the best way to frame the language in the documentation.
 
 Making procedures themselves is an ongoing process:
 
 1. Divide out individual activities each worker does into discrete, clear tasks.
-2. Sequentially, for each task, explicitly clarify its exact requirements in [writing](https://adequate.life/writing/).
+2. Sequentially, for each task, explicitly clarify its exact requirements in [writing](language-writing.md).
    - You don't understand it unless you can tell a completely inexperienced teenager *exactly* how to do it.
    - Sometimes, the tasks are different when different roles do them, so clarify those as well.
 3. Abstract away all the idiosyncratic details.
-   - If the task *requires* precise actions, make it a [rule](https://gainedin.site/rules/).
+   - If the task *requires* precise actions, make it a [rule](rules.md).
    - If it's not critical to perform precisely correctly, make it a guideline (or "best practices").
 4. Ask your best workers what they think.
    - Pull them from their work on a slow period.
@@ -462,11 +462,11 @@ Making procedures themselves is an ongoing process:
    - Before beginning the meeting or message, clarify you will *not* discipline any past-tense violations of the standard.
    - Often, the instructions were either written poorly enough that the workers didn't understand it or difficult to read.
    - End the meeting on good news by telling them what you removed from the instructions as well.
-10. Expect [conflicts](https://gainedin.site/conflicts/) and possible re-edits.
-    - If people are [accustomed to the old way of doing things](https://gainedin.site/habits/), and it isn't creating adverse consequences, let them deep doing it.
+10. Expect [conflicts](people-conflicts.md) and possible re-edits.
+    - If people are [accustomed to the old way of doing things](habits.md), and it isn't creating adverse consequences, let them deep doing it.
     - If people don't like the change, clearly and candidly ask them why.
 11. Draw extra attention for at least the next few months to divergences from the reviewed tasks from that meeting.
-    - Typically, small [changes](https://gainedin.site/changes/) can ripple outward to directly inspiring *other* changes and creating large-scale effects.
+    - Typically, small [changes](changes.md) can ripple outward to directly inspiring *other* changes and creating large-scale effects.
 
 ## Work-from-home
 
@@ -498,4 +498,4 @@ The work site is technically their home, so respect their privacy.
 - There are very few reasons why you need them to keep their camera or microphone constantly on.
 - Only track metrics directly related to results.
 
-*Next: [Maintaining Morale](/mgmt-morale/)*
+*Next: [Maintaining Morale](mgmt-6_morale.md)*

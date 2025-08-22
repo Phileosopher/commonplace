@@ -32,7 +32,7 @@ Budgets will always improve your life if you honor a few rules:
 You will need your life partner on the same page as you:
 
 - A budget only works when everyone who spends and earns honors it.
-- [Disagreements](people-conflicts.md) about money are normal.
+- [Disagreements](people-5_conflicts.md) about money are normal.
   - The only solution is to talk through them.
   - Learn to compromise with your partner to succeed with them.
 - If you [can't trust your partner](relationships-3_marriage.md) with your money, separate your assets to avoid more misery.
@@ -399,7 +399,7 @@ Find things you can remove or shave down:
 
 Dive into details of each category to analyze any overspending.
 
-Consider how to [make more side money](entrepeneur-4_freelancing.md).
+Consider how to [make more side money](entrepreneur-4_freelancing.md).
 
 ### 6\. Break out other reports as you become familiar with budgeting
 

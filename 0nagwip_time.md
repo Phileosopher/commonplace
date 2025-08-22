@@ -21,7 +21,7 @@ A **day** is the Earth making a complete 360° rotation facing the sun, and clas
 
 A **week** is 7 days, though we don't entirely know why we chose 7 days.
 
-- While the Bible indicates it, there's too much [religious contention](https://gainedin.site/religion/) to create historical consensus with that alone.
+- While the Bible indicates it, there's too much [religious contention](religion.md) to create historical consensus with that alone.
 - An alternate theory is that 7 days most clearly matches up with the lunar cycle.
 
 ## Lunar cycle
@@ -37,11 +37,11 @@ A **lunar cycle** is the amount of time for the moon to completely circle the Ea
 7. Third quarter - the right half becomes more darkened.
 8. Waning crescent - the moon only shows a sliver of light on the left side of its surface.
 
-The moon has created many [superstitions](https://gainedin.site/myths/), likely from a few reasons:
+The moon has created many [superstitions](stories-myths.md), likely from a few reasons:
 
 - The moon's rotation around the Earth wobbles a bit, so it's rarely *precisely* 29.53 days.
 - The moon rotates on its axis for the same length of time as its rotation, so we always see the same side.
-- Since the moon has the same side facing us, we have [anthropomorphized](https://gainedin.site/universals) a figurative "man on the moon".
+- Since the moon has the same side facing us, we have [anthropomorphized](humanity-universals.md) a figurative "man on the moon".
 
 Most ancient calendars used the moon's rotation to create a **month** of 29-30 days.
 
@@ -53,11 +53,11 @@ Beyond the moon's rotation, we also closely observe a seasonal shift through how
 - Fall - the earth's surface is gradually drifting away from directly facing the sun.
 - Winter - the earth is askew from directly facing the sun.
 - Spring - the earth's surface is gradually drifting toward directly facing the sun.
-- Most [plants](/plants/) and animals intuitively honor these shifts.
+- Most [plants](horticulture.md) and animals intuitively honor these shifts.
 
 ## Intercalation
 
-There's no easy [mathematical](/math/) way to track a 29.5-day interval with a 365-day one. You'll be short about 11 days.
+There's no easy [mathematical](math.md) way to track a 29.5-day interval with a 365-day one. You'll be short about 11 days.
 
 To that end, every calendar has to figure out how to count that discrepancy differently:
 

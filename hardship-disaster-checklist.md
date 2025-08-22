@@ -150,7 +150,7 @@ Tools and supplies
 
 Emergency documents
 
-- [ ] [Will](hardship-death.md), [insurance policies](insurance.md), [contract deeds](contracts.md), [stocks, bonds](money-investing.md)
+- [ ] [Will](hardship-death.md), [insurance policies](insurance.md), [contract deeds](people-contracts.md), [stocks, bonds](money-investing.md)
 - [ ] Passports, social security cards, and immunization records
 - [ ] Bank account numbers
 - [ ] Credit card account numbers and companies

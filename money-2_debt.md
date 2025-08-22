@@ -197,7 +197,7 @@ Debt collectors are unscrupulous:
 
 Lenders are supposed to go through a "dunning" process, where they start with gentle reminders, then move on to threatening letters and phone calls, and may even visit your home.
 
-Unless the lender is the government or has another [contractual connection](contracts.md) with you, a creditor can only garnish your wages or take money from your account if they sue you and win.
+Unless the lender is the government or has another [contractual connection](people-contracts.md) with you, a creditor can only garnish your wages or take money from your account if they sue you and win.
 
 You don't legally owe anything to any debt collector until the moment you've made *any* payment for it.
 
@@ -205,7 +205,7 @@ Your rights include demanding they stop calling or harassing you at work or any 
 
 Your rights also include demanding they stop all contact with you, except to notify that they're suing you:
 
-- Stopping contact halts any chance of a favorable [negotiation](people-conflicts.md).
+- Stopping contact halts any chance of a favorable [negotiation](people-5_conflicts.md).
 - If a creditor can't negotiate, they're more likely to sue.
 - If they sue, they'll likely win because you legitimately owe them money.
 

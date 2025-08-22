@@ -101,7 +101,7 @@ Comparing with the Unknown
 Topic
 
 - Redirect the discussion away from the central issue.
-- Redirect a [conflict](boundaries.md) to a vaguely related one.
+- Redirect a [conflict](people-conflicts.md) to a vaguely related one.
 - Rapidly shift [conversation](people-conversation.md) or [tone](language.md) to confuse or disorient someone, often to discover a secret.
 - Focus more on qualities than on quantities to evoke more [feelings](mind-feelings.md).
 - Focus more on quantities than on qualities to dismiss a matter.

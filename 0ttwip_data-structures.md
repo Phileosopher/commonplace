@@ -1,7 +1,7 @@
 
-To store information, engineers have a variety of possible techniques to work with data in [memory](/memory/).
+To store information, engineers have a variety of possible techniques to work with data in [memory](computers-memory.md).
 
-At its base, there are [data primitives](/data/). They are combined together to create more elaborate structures of data.
+At its base, there are [data primitives](data.md). They are combined together to create more elaborate structures of data.
 
 There are *many* elaborate ways to store data. Each one has its "use cases".
 
@@ -11,7 +11,7 @@ These primitives can work into more elaborate "composite data types", which are 
 
 ### Arrays
 
-Arrays are a list of things that are the same [data type](/data/).
+Arrays are a list of things that are the same [data type](data.md).
 
 One of the most common arrays are strings:
 
@@ -32,7 +32,7 @@ Array sizes are set in stone when you first make them. Thus, you'll have to thin
 
 It's usually a good idea to make bigger arrays than you think you'll need when it's a small program, but watch out if you're making something large-scale! A few dozen extra index lines can *really* add extra memory "bloat" if it's implemented 1,000,000 times!
 
-To list this information, the array stores it in an "index", which is just a numbered list. However, unlike anywhere else, because of [how bits work](/alu/), the number starts at 0:
+To list this information, the array stores it in an "index", which is just a numbered list. However, unlike anywhere else, because of [how bits work](computers-alu.md), the number starts at 0:
 
 - [0] Item A
 - [1] Item B
@@ -45,7 +45,7 @@ Arrays can only hold one type, so they often must be defined beforehand, such as
 
 Since you can do something over and over in an array (such as pull data from index 0, then index 1, and so on), arrays are known as "iterable".
 
-Arrays can be sorted by some other value (such as alphabetical or numerical order) or unsorted. Generally, [searching algorithms](/algorithms/) work much faster on sorted data.
+Arrays can be sorted by some other value (such as alphabetical or numerical order) or unsorted. Generally, [searching algorithms](programming-algorithms.md) work much faster on sorted data.
 
 ### Records
 
@@ -77,7 +77,7 @@ A list doesn't need to have the same data types in it.
 
 Lists aren't ideal for data processing, since working with various types of data can create issues. A list of words and numbers, for example, would return errors on the words, or would treat the numbers as if they were text.
 
-If you use an [algorithm](/algorithms/), you can make the list "sorted", which makes it workable. Otherwise, it's simply an "unsorted list".
+If you use an [algorithm](programming-algorithms.md), you can make the list "sorted", which makes it workable. Otherwise, it's simply an "unsorted list".
 
 If you put the list with references at the end to other locations (instead of setting it in the same place in memory), you can create a "linked list".
 
@@ -85,7 +85,7 @@ One specific type of list is called a "tuple", which is a finite ordered list of
 
 ### Associative arrays
 
-An associative array, or "dictionary", is a variation of an array, but uses a "key" instead of an index. This gets rid of the linear nature of arrays. So, you'll have to know what "key" you want instead of the number it corresponds to ("key/value pair"). Most [databases](/database/) use dictionaries.
+An associative array, or "dictionary", is a variation of an array, but uses a "key" instead of an index. This gets rid of the linear nature of arrays. So, you'll have to know what "key" you want instead of the number it corresponds to ("key/value pair"). Most [databases](database.md) use dictionaries.
 
 Each key must be unique or the database will spit out an error, though the *values* can be the same. Thus, `bobjohnson@yahoo.com` is taken right now, but `bobjohnson_2015@yahoo.com` or `bobjohnsondestroyerof17worldsofwarcraft@yahoo.com` might still be open.
 
@@ -101,7 +101,7 @@ A more advanced type of queue is called a "priority queue", where each value has
 
 ### Graphs
 
-Broadly, graph data structures incorporate [graph theory](/math/). These can include trees and heaps.
+Broadly, graph data structures incorporate [graph theory](math-cs.md). These can include trees and heaps.
 
 ### Containers/collections
 
@@ -121,10 +121,10 @@ The implication of this is vast. It means that you can store an unlimited amount
 
 ### Hash-based structures
 
-By using various [cryptographic techniques](/encryption/), you can add many layers of complexity to a data structure with hashes. This is often for [data security](/cysec/).
+By using various [cryptographic techniques](encryption.md), you can add many layers of complexity to a data structure with hashes. This is often for [data security](computers-cysec.md).
 
 One frequent hash-based data structure is a Merkle Tree:
 
-1. Convert all the data elements into [hashes](/encryption/).
+1. Convert all the data elements into [hashes](encryption.md).
 2. Use an algorithm to process some of the hashes into a separate hash (e.g., "abc" and "def" together becomes "ab").
 3. Keep doing it to the hashes until you have 1 hash. The entire structure will visually look like a tree.

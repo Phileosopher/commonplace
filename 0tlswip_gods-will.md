@@ -1,23 +1,23 @@
 ## All Christians must learn to submit to God
 
-Full submission isn't the same as being completely [sin](/sins/)-free (1 John 1:8).
+Full submission isn't the same as being completely [sin](morality-sins.md)-free (1 John 1:8).
 
 God gives us a season of distance to make us grow through submission:
 
-- This journey is a spiritual [rite of passage](https://gainedin.site/maturity/) ([Exodus](https://biblehub.com/bsb/exodus/1.htm), [Matthew 4:1-10](https://biblehub.com/bsb/matthew/4.htm)).
-- God designed that hardship to provoke us to better [spiritual exercises](/exercises/) ([2 Corinthians 4:7-10](https://biblehub.com/bsb/2_corinthians/4.htm)).
+- This journey is a spiritual [rite of passage](maturity.md) ([Exodus](https://biblehub.com/bsb/exodus/1.htm), [Matthew 4:1-10](https://biblehub.com/bsb/matthew/4.htm)).
+- God designed that hardship to provoke us to better [spiritual exercises](spiritual-exercises.md) ([2 Corinthians 4:7-10](https://biblehub.com/bsb/2_corinthians/4.htm)).
 - Some believers presume *all* life with Christ is this wilderness, while others imagine that it simply never happens.
 
 There are some clear signs we haven't submitted:
 
 - Defining the future with past and current events
-- Failing to take [personal responsibility](https://gainedin.site/meaning/)
+- Failing to take [personal responsibility](meaning.md)
 - Desiring an easier or more enjoyable life
 - Excessive complaining or negativity
 - Compulsions for instant gratification
 - Self-pity, self-loathing, or strong sense of worthlessness
 - Enviousness and jealousy
-- Unwilling to try alternative or [unconventional](https://gainedin.site/habits/) methods
+- Unwilling to try alternative or [unconventional](habits.md) methods
 
 An entirely submissive Christian wants to do anything God wants:
 
@@ -30,9 +30,9 @@ An entirely submissive Christian wants to do anything God wants:
 
 We seek God's will for a few key reasons:
 
-1. Anxiety or fear of perceived [consequences](https://gainedin.site/results/) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
-2. [Fear](https://gainedin.site/fear/) that we'll be held [responsible](https://gainedin.site/meaning/) for our [choices](https://gainedin.site/decisions/) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
-3. Our [desires](https://gainedin.site/purpose/) are split between personal fulfillment and following God ([Revelation 3:16](https://biblehub.com/revelation/3-16.htm)).
+1. Anxiety or fear of perceived [consequences](mind-creativity-results.md) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
+2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](decisions.md) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
+3. Our [desires](purpose.md) are split between personal fulfillment and following God ([Revelation 3:16](https://biblehub.com/revelation/3-16.htm)).
 4. We sincerely desire to please Him (i.e., "The Lord is leading" instead of "God told me to").
 
 God only directs people for a few reasons:
@@ -43,9 +43,9 @@ God only directs people for a few reasons:
 
 Depending on the use of the word "will", He technically has three of them:
 
-1. The unchanging [reality](https://gainedin.site/reality/) He built before time began (the Father's viewpoint).
-2. His [desired](https://gainedin.site/purpose/) wish of what humanity's choices will be (Jesus' viewpoint).
-3. His directions, which aren't technically "wrong" or "right" in a [moral](http://gainedin.site/morality/) sense (the Holy Spirit's viewpoint).
+1. The unchanging [reality](reality.md) He built before time began (the Father's viewpoint).
+2. His [desired](purpose.md) wish of what humanity's choices will be (Jesus' viewpoint).
+3. His directions, which aren't technically "wrong" or "right" in a [moral](morality.md) sense (the Holy Spirit's viewpoint).
    - This last one is the primary cause of most Christians' anxiety.
 
 He typically chastises sins quickly ([Psalm 23:4](https://biblehub.com/psalms/23-4.htm)), but gives us the freedom to explore if we're living life wisely.
@@ -67,7 +67,7 @@ We should want wisdom more than specific guidance:
 Discipline yourself to wisdom:
 
 - Pray consistently.
-- Ask advice from wise people in the [Church](/church/).
+- Ask advice from wise people in the [Church](church.md).
 - Read the Bible frequently.
 - Take time to consider decisions.
 - Research and learn anything you need to know.
@@ -77,14 +77,14 @@ Discipline yourself to wisdom:
 
 A. Have an eternal relationship with Jesus Christ:
 
-- He wants everyone to [come to repentance](/gospel/) for their [sins](/sins/) ([2 Peter 3:9](https://biblehub.com/2_peter/3-9.htm), [John 3:16](https://biblehub.com/john/3-16.htm)).
+- He wants everyone to [come to repentance](jesus-gospel.md) for their [sins](morality-sins.md) ([2 Peter 3:9](https://biblehub.com/2_peter/3-9.htm), [John 3:16](https://biblehub.com/john/3-16.htm)).
 - Deeply understand Jesus and who you are with him.
 - Purse Christ above everything else instead of as a religion or mystical experience.
 
 B. Let God sanctify you:
 
 - Sanctification is setting something aside for a holy purpose ([1 Thessalonians 4](https://biblehub.com/bsb/1_thessalonians/4.htm)).
-- Remove any [sins](/sins/) that could get in between you and God.
+- Remove any [sins](morality-sins.md) that could get in between you and God.
 - Be holy like Jesus ([1 Peter 1:15-16](https://biblehub.com/bsb/1_peter/1.htm)).
 
 C. Let God fill you with the Holy Spirit:
@@ -93,11 +93,11 @@ C. Let God fill you with the Holy Spirit:
 
 D. Stay humble with everyone:
 
-- Practice [spiritual exercises](/exercises/) and [change bad habits](https://adequate.life/) as you discover them ([1 Peter 2](https://biblehub.com/bsb/1_peter/2.htm)).
+- Practice [spiritual exercises](spiritual-exercises.md) and [change bad habits](https://adequate.life/habits/) as you discover them ([1 Peter 2](https://biblehub.com/bsb/1_peter/2.htm)).
 
 E. Suffer righteously:
 
-1. God permits difficulty and [hardship](https://adequate.life/hardship/) to [educate](https://gainedin.site/pedagogy/) us ([1 Peter 4:19](https://biblehub.com/1_peter/4-19.htm)).
+1. God permits difficulty and [hardship](hardship.md) to [educate](pedagogy.md) us ([1 Peter 4:19](https://biblehub.com/1_peter/4-19.htm)).
 2. We endure the trials long enough to learn the lesson, with progressively worse situations until we accept it.
 3. Once we've learned, He gives us rest to recover from the struggle.
 4. Repeat with a different lesson.
@@ -110,24 +110,24 @@ F. Act when He calls us to special projects:
 G. Thank Him for His availability and your situation:
 
 - One of the most significant signs of a healthy Christian walk is gratitude ([Ephesians 5](https://biblehub.com/bsb/ephesians/5.htm)).
-- In general, Christians should have nothing to [be afraid](https://gainedin.site/fear/) of, not even *death* ([1 Corinthians 15:54-58](https://biblehub.com/bsb/1_corinthians/15.htm)).
+- In general, Christians should have nothing to [be afraid](mind-feelings-fear.md) of, not even *death* ([1 Corinthians 15:54-58](https://biblehub.com/bsb/1_corinthians/15.htm)).
 
 ## We complicate His will
 
 God *never* permits sinful lifestyles:
 
-- He despises [sin](/sins/) with a fierce passion ([Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
-- Many people will blame God or others for the [consequences](https://gainedin.site/results/) of their actions.
-- Each Christian must take control of their own [decisions](https://gainedin.site/decisions/) before God gives them anything else.
+- He despises [sin](morality-sins.md) with a fierce passion ([Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
+- Many people will blame God or others for the [consequences](mind-creativity-results.md) of their actions.
+- Each Christian must take control of their own [decisions](decisions.md) before God gives them anything else.
 - God's will doesn't give complete license to do whatever we want.
 
 We also tend to add aspects of what God wants:
 
 - We often want to know God's long-term will, but aren't willing to do His short-term commands.
 - God doesn't have a perfect target we must constantly hit every time.
-- God's will isn't a complicated maze with special [rules](https://gainedin.site/rules/) and guidelines for success.
+- God's will isn't a complicated maze with special [rules](rules.md) and guidelines for success.
 - A cynical attitude can easily complicate God's desires.
-- God is consistent enough that [He'll provide](/god-actions/), but He's [creative](https://gainedin.site/creativity/) enough that He never does the same thing twice.
+- God is consistent enough that [He'll provide](god-capabilities.md), but He's [creative](mind-creativity.md) enough that He never does the same thing twice.
 - We don't know His motivations, but we must simply obey Him.
 
 The Bible does *not* guarantee external benefits:
@@ -150,10 +150,10 @@ If you have the right attitude with Him, *anything* you do is His will:
 
 If you have the right attitude with Him, *anything* you do is His will:
 
-- God cares *far* more about your relationship with Him than [doctrines](https://theologos.site/theology/), [churches](https://theologos.site/church/), [living situation](https://notageni.us/homes/), [career decisions](https://adequate.life/jobs-1/), [friendships](https://adequate.life/people-4/), [relationships](https://adequate.life/relationships/), and [family decisions](https://adequate.life/parenting-1/) ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
+- God cares *far* more about your relationship with Him than [doctrines](theology.md), [churches](church.md), [living situation](homes-buysell.md), [career decisions](jobs-1_why.md), [friendships](people-4_friends.md), [relationships](relationships-3_marriage.md), and [family decisions](parenting-1_babies.md) ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
 - Eat and drink what you want, assuming it doesn't harm others' conscience ([1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm)).
 - Travel or live anywhere you want, assuming He didn't call you to go somewhere ([Acts 8:26-27](https://biblehub.com/bsb/acts/8.htm)).
-- [Associate](https://gainedin.site/friendship/) with anyone you want, assuming you weren't called to a specific ministry.
-- In general, adopt any lifestyle you want that's [loving](https://gainedin.site/love/).
+- [Associate](people-4_friends.md) with anyone you want, assuming you weren't called to a specific ministry.
+- In general, adopt any lifestyle you want that's [loving](people-love.md).
 
-On a more practical level, the most sufficient fulfillment of His will comes through [daily rituals in Christ](/exercises/) and [serving others](/serve/).
+On a more practical level, the most sufficient fulfillment of His will comes through [daily rituals in Christ](spiritual-exercises.md) and [serving others](church-serve.md).

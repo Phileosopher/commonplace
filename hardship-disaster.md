@@ -28,7 +28,7 @@ In the smallest sense, a personal crisis is never really a breakdown of any supp
 - A house fire or significant plumbing failure
 - Thieves breaking in and stealing things
 - Lightning or some other natural disaster striking no more than a few houses
-- [Conflicts](people-conflicts.md) among people which end with someone [getting hurt](body-firstaid.md) or [killed](hardship-death.md)
+- [Conflicts](people-5_conflicts.md) among people which end with someone [getting hurt](body-firstaid.md) or [killed](hardship-death.md)
 
 Many people are prepared for personal crises (e.g., [insurance](insurance.md)), but not much worse.
 

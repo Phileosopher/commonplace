@@ -3,7 +3,7 @@ While *every* Christian is technically a missionary in their community, cross-cu
 
 Send cross-cultural missionaries as soon as you have the resources for it.
 
-- Equip that missionary with as much moral support, [information](understanding.md), [prayer support](/prayer/), and [finances](https://adequate.life/money-1/) as they need.
+- Equip that missionary with as much moral support, [information](understanding.md), [prayer support](spiritual-exercises-prayer.md), and [finances](money-1_why.md) as they need.
 - Missionaries receive support proportionally to how much you share that ministry with the congregation.
 
 Focus on the most unreached portions of the world, not the most logistically convenient or affordable.
@@ -19,7 +19,7 @@ A missionary's job is *very* challenging, and their support network is responsib
 
 Don't make impoverished people groups' situations worse.
 
-- Our [sin nature](/sins/) makes paternalism (doing what others *can* do for themselves) a constant threat.
+- Our [sin nature](morality-sins.md) makes paternalism (doing what others *can* do for themselves) a constant threat.
 - It's very easy to over-reach efforts and leave that culture worse than when your missionary workers showed up.
 
 There are levels of foreign aid involvement:
@@ -57,7 +57,7 @@ There are levels of foreign aid involvement:
 
 Secular organizations tend to enable poor countries' citizens to stay poor:
 
-- While secular organizations solve physical problems, they never address the [sin condition](/sins/), the need for God to transform them, or how to give people [meaning](https://gainedin.site/meaning/) and [purpose](https://gainedin.site/purpose/).
+- While secular organizations solve physical problems, they never address the [sin condition](morality-sins.md), the need for God to transform them, or how to give people [meaning](meaning.md) and [purpose](purpose.md).
 - Many citizens stop farming or developing skills because they simply wait for the aid helicopter to drop supplies.
 - Focus more on rehabilitation and development than giving relief.
 
@@ -65,13 +65,13 @@ Healthy boundaries *requires* outsiders never move beyond Co-Leading.
 
 - Since work won't get done nearly as quickly, it can be *very* challenging to simply assist from the side.
 - However, without their own people running things, they will slowly become a second-class participant of *your* project.
-- At its most extreme, the [discrepancy in power](https://gainedin.site/power-types/) over time will devolve into a [slavery-like](https://gainedin.site/slavery/) condition.
+- At its most extreme, the [discrepancy in power](power-types.md) over time will devolve into a [slavery-like](slavery.md) condition.
 
 Deeply involve the people group you're helping in every stage of assessing, designing, applying, tracking and evaluating systems:
 
 1. Fully [understand](understanding.md) their situation, capabilities, skills, and resources.
    - As much as possible, look for resources and solutions inside the individual or community.
-   - God has given poor people and communities many possibilities, so don't treat them as [victims](https://gainedin.site/ptsd/) merely because [they have less](https://gainedin.site/power/) than you.
+   - God has given poor people and communities many possibilities, so don't treat them as [victims](hardship-ptsd.md) merely because [they have less](power.md) than you.
 2. After assessing everything available, make the appropriate response.
    - Only respond when the local people or organizations can't or won't meet pressing needs.
    - Don't give resources, spiritual guidance, knowledge, labor or management they can provide themselves.
@@ -83,11 +83,11 @@ Deeply involve the people group you're helping in every stage of assessing, desi
 
 Supporting missionaries does *not* only apply for when they're serving their tour.
 
-- Across a mission, that worker will slowly adopt a "third culture" [identity](https://gainedin.site/identity/) where they merge their serving and home cultures.
+- Across a mission, that worker will slowly adopt a "third culture" [identity](identity.md) where they merge their serving and home cultures.
 - When a missionary returns home, formerly familiar objects become alien through their new perspective, so they require help reintegrating.
 
 They will *not* be the same, so don't expect them to come back to the lifestyle they knew.
 
 - They'll find offense at "normal" things they used to do, and will have problems with daily life.
-- Their opinion on those [small social rules](https://adequate.life/social-rules/) is *very* important, since it will show blind spots in the Body.
-- However, expect their differing opinions to create [conflicts](/conflicts/), especially among the more tradition-minded members.
+- Their opinion on those [small social rules](people-rules.md) is *very* important, since it will show blind spots in the Body.
+- However, expect their differing opinions to create [conflicts](conflicts-christian.md), especially among the more tradition-minded members.

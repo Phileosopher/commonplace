@@ -81,7 +81,7 @@ The optimum is almost always somewhere in the middle in nature, so distrust asse
 
 Cooper's Law of Spectral Efficiency - The maximum number of simultaneous flows of information across a medium doubles every 30 months.
 
-[Hyrum's Law](https://www.hyrumslaw.com/) / Law of Implicit Interfaces - When there are enough [API](computers-software-features.md) users, someone will have to maintain every single aspect of that API, irrespective of what a public [contract](contracts.md) indicates.
+[Hyrum's Law](https://www.hyrumslaw.com/) / Law of Implicit Interfaces - When there are enough [API](computers-software-features.md) users, someone will have to maintain every single aspect of that API, irrespective of what a public [contract](people-contracts.md) indicates.
 
 Koomey's Law - The number of computations for energy doubles every 1.57 years, which compounds to 100x over a decade.
 

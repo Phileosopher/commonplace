@@ -1,13 +1,13 @@
 
-There are *many* scientific disciplines. However, they're all subdivisions of the broad philosophical classification of [metaphysics](https://gainedin.site/reality/). Many [atheist](https://gainedin.site/religion/) scientists have hijacked this ideology to imply that science is a self-contained domain, but it's a vastly connected discipline with basically [everything that can be known](https://gainedin.site/science/).
+There are *many* scientific disciplines. However, they're all subdivisions of the broad philosophical classification of [metaphysics](reality.md). Many [atheist](religion.md) scientists have hijacked this ideology to imply that science is a self-contained domain, but it's a vastly connected discipline with basically [everything that can be known](science.md).
 
 ## Formal Sciences
 
 In many ways, the formal sciences are philosophical abstractions:
 
-- [Logic](https://gainedin.site/logic/)
-- Mathematics ([algebra](/algebra/), [statistics](/stat/), [calculus](/calc/), et al.)
-- Decisions theory (aka [game theory](/game-theory/))
+- [Logic](logic.md)
+- Mathematics ([algebra](math-algebra.md), [statistics](math-stat.md), [calculus](math-calc.md), et al.)
+- Decisions theory (aka [game theory](math-gametheory.md))
 
 These are more philosophy than science, but they're so well-ordered that they can exist as being provable.
 
@@ -22,7 +22,7 @@ Obvious questions that remain unanswered:
 
 * * * * *
 
-Regarding what people *typically* think of with the word "science", it broadly classifies into the physical and life sciences, with the social sciences thrown in as a somewhat "soft science" and the applied sciences actually making the sciences legitimately [useful](https://gainedin.site/purpose/).
+Regarding what people *typically* think of with the word "science", it broadly classifies into the physical and life sciences, with the social sciences thrown in as a somewhat "soft science" and the applied sciences actually making the sciences legitimately [useful](purpose.md).
 
 ## All Sciences
 
@@ -31,7 +31,7 @@ One important component representative in all the sciences is that there are two
 - Everything is maintaining a type of stasis, with constant negative feedback loops that self-corrects anything too far out of range.
 - Everything in the universe is decaying at a relatively predictable rate.
 
-In practice, everything is absurdly simple from one perspective, but is vastly complicated in its implementation. This includes [science itself](https://gainedin.site/science/).
+In practice, everything is absurdly simple from one perspective, but is vastly complicated in its implementation. This includes [science itself](science.md).
 
 The sciences end up combining on top of each other:
 
@@ -48,9 +48,9 @@ The sciences end up combining on top of each other:
 To save time on learning for the sake of certainty, it's vitally important to hammer out your metaphysics *before* diving into science:
 
 1. If there is no god, then the sciences have an indefinite role in exploring the farthest reaches of understanding, and therefore have an effectively infinite utility proportional to our [understanding](understanding.md).
-2. If there *is* a god, then the sciences can only exist as far as we can tangibly know things, which creates a hard limit based on our present [technology](https://gainedin.site/technology/).
+2. If there *is* a god, then the sciences can only exist as far as we can tangibly know things, which creates a hard limit based on our present [technology](technology.md).
 
-For it to qualify as [legitimate science](https://gainedin.site/science/), it must be rigorous, reproducible, and open.
+For it to qualify as [legitimate science](science.md), it must be rigorous, reproducible, and open.
 
 Further reading:
 
@@ -93,7 +93,7 @@ All atoms exert an incredibly small attractive force toward each other, called "
 
 Inside an atom, the state of its electrons typically changes more than its nucleon. It's pretty common for atoms to gain or lose electrons.
 
-When released, electromagnetic energy radiates outward as measurable photon waves. These [waves have vast ranges](https://trendless.tech/radio/) with wavelengths from 1 picometer (0.0000000001 centimeter) as gamma rays up to 100 megameter (1,000,000 meters) as radio waves. Visible light are the photons between 380 and 750 nanometers (0.000038-0.000075 centimeters).
+When released, electromagnetic energy radiates outward as measurable photon waves. These [waves have vast ranges](radio.md) with wavelengths from 1 picometer (0.0000000001 centimeter) as gamma rays up to 100 megameter (1,000,000 meters) as radio waves. Visible light are the photons between 380 and 750 nanometers (0.000038-0.000075 centimeters).
 
 Further reading:
 
@@ -105,7 +105,7 @@ Obvious questions that remain unanswered:
 - Where did the matter in the universe first come from?
 - How long has the universe been around?
 - Below the subatomic, what are atoms and the universe made from? Dark matter? Dark energy?
-- Does a [creator of the universe](https://gainedin.site/religion/) exist?
+- Does a [creator of the universe](religion.md) exist?
 - Why is ice, as a jagged crystal, slippery?
 
 ## Physics: Waves & Forces
@@ -120,7 +120,7 @@ There's a *lot* of energy stored in atoms. By separating them (fission) or joini
 
 These atoms can bond together with other atoms (often via opposite ions), and that's what creates molecules, which then moves into the realm of chemistry.
 
-Photon waves are complicated because they're both particles *and* waves, depending on how you measure them. This is the domain of [quantum physics](https://trendless.tech/quantum/), and has very complicated [metaphysical implications](understanding.md) because the physical properties of particles are defined by whether we observe them or not.
+Photon waves are complicated because they're both particles *and* waves, depending on how you measure them. This is the domain of [quantum physics](computers-quantum.md), and has very complicated [metaphysical implications](understanding.md) because the physical properties of particles are defined by whether we observe them or not.
 
 Sound is a wave made from the vibration of molecules that ripple shockwaves across neighboring molecules. For this reason, sound travels fastest and farthest in dense liquid (e.g., water).
 
@@ -129,7 +129,7 @@ Wave effects, both with sound and with light, happen relative to the location of
 - Red shifts (like the longer light wavelength red) come from the distance *increasing* (such as a car driving away quickly)
 - Blue shifts (like the shorter light wavelength blue) come from the distance *decreasing* (such as a car driving toward someone)
 - The best example comes from observing a train honking its horn as it speeds past. First, the train sounds more high-pitched than if it were standing still, then shifts rapidly downward to a much lower pitch as it drives by.
-- This red shift/blue shift also blends in with spacetime (proven partially by [GPS](https://trendless.tech/gps/) calculations), so a person traveling near the speed of light will age slower than someone who stays still.
+- This red shift/blue shift also blends in with spacetime (proven partially by [GPS](logistics-navigation.md) calculations), so a person traveling near the speed of light will age slower than someone who stays still.
 
 Further reading:
 
@@ -161,7 +161,7 @@ Because of valence electrons, certain patterns arise as atoms increase in atomic
   - They can withstand heat, and exist naturally within the Earth's crust.
 - Transition and inner transition metals group (Atomic numbers 21-30, 39-48, 57-80, 89-112) - Groups 3-12
   - They're called "transition" elements because they appear to transition from metallic (electrically positive) to non-metallic (electrically negative) as you move rightward.
-  - Inner transition metals are broadly classified as Group 3 (3rd column) based on how they behave, so they all fit inside that group. They're also called "rare earth metals", and are extremely useful in making [batteries](/engineering/).
+  - Inner transition metals are broadly classified as Group 3 (3rd column) based on how they behave, so they all fit inside that group. They're also called "rare earth metals", and are extremely useful in making [batteries](engineering.md).
   - It's also worth noting that Group 3 (atomic numbers 57-71 and 89-103) are separated visually at the bottom, simply to save space and make it more aesthetically pleasing when printing it out on a standard sheet of paper.
 - Boron/icosagen group (boron, aluminum, gallium, indium, thallium, nihonium) - Group 13
 - Carbon group (carbon, silicon, germanium, tin, lead, flerovium) - Group 14
@@ -171,20 +171,20 @@ Because of valence electrons, certain patterns arise as atoms increase in atomic
   - Lower-rank chalcogens are often critical to maintain life, but higher-rank chalcogens are often toxic
 - Halogen group (fluorine, chlorine, bromine, iodine, astatine, tennessine) - Group 17
   - When halogens react with metals, they tend to create salts (halogen literally means "salt maker")
-  - The specific way they interact with other elements makes chlorine, bromine, and iodine excellent [disinfectants](https://adequate.life/housekeeping/).
+  - The specific way they interact with other elements makes chlorine, bromine, and iodine excellent [disinfectants](home-housekeeping.md).
 - Noble gases/aerogens group (helium, neon, argon, krypton, xenon, radon, oganesson) - Group 18
   - Because their valence electron shells are full, they tend to be *very* stable.
 - Some elements (such as boron), are metalloids because they show properties of metals *and* non-metals at the same time.
 
 Some atoms have too many or too few neutrons, even though they have the same number of protons and behave the same. These are called isotopes and are represented as a number afterward (e.g., a common uranium isotope is U-238 instead of having 237 neutrons). Their atomic mass is offset by the differing neutrons, and can be calculated proportionally to the composition of variously sized isotopes in a sample. An element's molecular ratio of its isotopes is easy to detect by observing how they respond to various wavelengths of light (also known as "spectroscopy").
 
-The higher up the periodic table, the more complex the atom gets, and it *generally* becomes more unstable. Most of the highest atomic weight elements are either theoretical or were man-made for a fraction of a second before they disintegrated. New [technology](https://gainedin.site/technology/) is constantly making new particles, just to see if it's possible.
+The higher up the periodic table, the more complex the atom gets, and it *generally* becomes more unstable. Most of the highest atomic weight elements are either theoretical or were man-made for a fraction of a second before they disintegrated. New [technology](technology.md) is constantly making new particles, just to see if it's possible.
 
 By combining atoms together, they can form bonds that create molecules. These molecules can often be more stable (or unstable) than their individual elements. Table salt, for example, is unbelievably stable, but is made of two highly unstable elements (sodium and chlorine).
 
 When molecules interact, they're creating a reaction. That reaction will persist until nearly all the molecules have resolved their chemical differences. Other molecules, called catalysts, can interact with that mixture to speed up or slow down that process.
 
-A mixture of different types of molecules together is a solution. In that sense, a Coca-Cola and a hamburger are both solutions. These chemicals tend to interact with each other in different ways, and this implements in various ways that range from [cleaning](https://adequate.life/housekeeping/) to [cooking](https://adequate.life/cooking/).
+A mixture of different types of molecules together is a solution. In that sense, a Coca-Cola and a hamburger are both solutions. These chemicals tend to interact with each other in different ways, and this implements in various ways that range from [cleaning](home-housekeeping.md) to [cooking](cooking.md).
 
 Water is a frequent molecule because of electron bonds. Essentially, oxygen (which has 4 electrons when not ionized) easily pairs with hydrogen ions (which use 1 electron when not ionized). Thus, unionized water is effectively 6 protons and 4 electrons, with the means to be easily ionized by picking up more electrons.
 
@@ -195,7 +195,7 @@ Because of water's ubiquity, hydrogen ions are frequently part of chemical react
 We don't know exactly how this planet was formed. This is hotly contested based on philosophical cosmological beliefs:
 
 1. Astronomers say gravity drew the elements from various stars, which clumped together over a very long time until it eventually became what we recognize now.
-2. [Religious](https://gainedin.site/religion/) people say God formed the Earth as a finished product.
+2. [Religious](religion.md) people say God formed the Earth as a finished product.
 
 Obvious questions that remain unanswered:
 
@@ -225,7 +225,7 @@ The earth is ~70% covered in water, with the oceans having vast unexplored terri
 
 Generally, scientists as a whole aren't often as interested in oceanography compared to the other sciences, for several reasons:
 
-- Even though there are plenty of sunken ships and fun deep-sea life in it, the oceans as an unexplored territory don't *nearly* capture the [imagination](https://gainedin.site/imagination/) as much as space exploration (i.e., possible life on other planets is often more interesting than life in high-pressure underwater environments).
+- Even though there are plenty of sunken ships and fun deep-sea life in it, the oceans as an unexplored territory don't *nearly* capture the [imagination](imagination.md) as much as space exploration (i.e., possible life on other planets is often more interesting than life in high-pressure underwater environments).
 - The biodiversity of the oceans is rather samey compared to the earth's land, so it only has ~15% of the species on earth.
 
 Further reading:
@@ -279,10 +279,10 @@ Every living being has a few universal characteristics:
 
 - Sustained by consuming a substance that is then metabolized into energy (that energy measured in calories).
 - Consumes some type of gas that transfers carbon into or out of the organism.
-- A means to make some form of [decision](https://gainedin.site/decisions/), even if it's a rudimentary impulse.
-- Some form of "skin" that establishes a clear [boundary](https://gainedin.site/boundaries/) against the surrounding environment.
+- A means to make some form of [decision](decisions.md), even if it's a rudimentary impulse.
+- Some form of "skin" that establishes a clear [boundary](people-boundaries.md) against the surrounding environment.
 
-In many ways, the structures that form life are akin to remarkably well-designed [technology](https://gainedin.site/technology/), with many built-in redundancies and fail-safes.
+In many ways, the structures that form life are akin to remarkably well-designed [technology](technology.md), with many built-in redundancies and fail-safes.
 
 Obvious questions that remain unanswered:
 
@@ -294,9 +294,9 @@ Life as we understand it uses DNA, which stands for deoxyribonucleic acid, with 
 
 ![](/wp-content/uploads/2022/06/DNA.png)
 
-DNA is made of a very specific chain of nucleotide base pairings of A-T (adenine-thymine) and C-G (cytosine-guanine). This creates 4 permutations (each of the two flipped back-and-forth), which makes all life effectively a type of [computer](https://trendless.tech/logic/).
+DNA is made of a very specific chain of nucleotide base pairings of A-T (adenine-thymine) and C-G (cytosine-guanine). This creates 4 permutations (each of the two flipped back-and-forth), which makes all life effectively a type of [computer](logic-cs.md).
 
-Each DNA strand is arranged into extremely long strands, with 2 strands in a chromosome. Different forms of life have different numbers of chromosomes, with humans having 23 and all life ranging from 1 to 1200 chromosomes, though it's not apparent by looking at any living creature how many chromosomes it has. The very last chromosome determines [gender differences](https://gainedin.site/gender/) with X and Y chromosomes, and the rest are called autosomes.
+Each DNA strand is arranged into extremely long strands, with 2 strands in a chromosome. Different forms of life have different numbers of chromosomes, with humans having 23 and all life ranging from 1 to 1200 chromosomes, though it's not apparent by looking at any living creature how many chromosomes it has. The very last chromosome determines [gender differences](gender.md) with X and Y chromosomes, and the rest are called autosomes.
 
 - Any location in a gene sequence is called a locus, and variations of those sequences are called alleles. A group of alleles that inherits from a single parent are called haplogroups, which pair together to form chromosomes.
 - The very last chromosome of a male is XY and a female's is XX. When they mate, they give one chromosome each, meaning that it can be 4 possible combinations with an approximate 50% chance of a gender (X~m~+X~f1~, X~m~+X~f2~, Y~m~+X~f1~, Y~m~+X~f2~).
@@ -326,7 +326,7 @@ Depending on the belief system, the taxonomy is dramatically different:
 6. Genus - further classifications that delineate nuances in families
 7. Species - the final division that demarcates idiosyncrasies between various organisms
 
-While we've sequenced the genome to measure where various traits are located, we haven't *completely* sequenced it. Instead, as of 2023, we still use the "shotgun method", which involves grabbing chunks of gene sequences and using [statistics](/stat/) to model the rest.
+While we've sequenced the genome to measure where various traits are located, we haven't *completely* sequenced it. Instead, as of 2023, we still use the "shotgun method", which involves grabbing chunks of gene sequences and using [statistics](math-stat.md) to model the rest.
 
 Further reading:
 
@@ -402,24 +402,24 @@ As a whole, a brain consists of several inter-related parts:
 
 - A brain stem connected to the spinal cord that manages *very* basic motor skills and sensations.
 - A cerebrum that makes up most of the volume of the brain that controls most activities:
-  - The frontal lobe is the largest, and regulates [personality](https://gainedin.site/personality/), [decisions](https://gainedin.site/decisions/), and [movement](https://gainedin.site/reality/).
-  - The parietal lobe helps [identify objects and make relationships](https://gainedin.site/symbols/) between things.
+  - The frontal lobe is the largest, and regulates [personality](personality.md), [decisions](decisions.md), and [movement](reality.md).
+  - The parietal lobe helps [identify objects and make relationships](symbols.md) between things.
   - The occipital lobe is at the back, and regulates vision.
-  - The temporal lobe is on both sides of the brain at the bottom, and regulates how we perceive time and make stories, which translates to [short-term memory](https://adequate.life/memory/), [speech](https://gainedin.site/language/), musical rhythm, and some aspects of smell.
-- A cerebellum that manages higher thought such as [reasoning](understanding.md) and [imagination](https://gainedin.site/imagination/).
-- The brain is split into two hemispheres, with the left side generally managing more [logic](https://gainedin.site/logic/) and the right side more [emotions](mind-feelings.md). Each hemisphere controls the opposite side of the body.
+  - The temporal lobe is on both sides of the brain at the bottom, and regulates how we perceive time and make stories, which translates to [short-term memory](mind-memory.md), [speech](language.md), musical rhythm, and some aspects of smell.
+- A cerebellum that manages higher thought such as [reasoning](understanding.md) and [imagination](imagination.md).
+- The brain is split into two hemispheres, with the left side generally managing more [logic](logic.md) and the right side more [emotions](mind-feelings.md). Each hemisphere controls the opposite side of the body.
 - Within this framework, there are many deeper structures inside the brain that perform *very* specific things:
   - The pituitary gland is a pea-sized chunk right behind the bridge of the nose and regulates the function of other glands in the body.
-  - The hypothalamus is right above the pituitary gland and sends chemical messages to regulate body temperature, synchronize [sleep patterns](https://adequate.life/sleep/), control [hunger and thirst](https://adequate.life/weight/), and influence parts of [memory](https://adequate.life/memory/) and [emotion](mind-feelings.md).
+  - The hypothalamus is right above the pituitary gland and sends chemical messages to regulate body temperature, synchronize [sleep patterns](sleep.md), control [hunger and thirst](body-2_diet.md), and influence parts of [memory](mind-memory.md) and [emotion](mind-feelings.md).
   - The pineal gland is *very* deep in the brain and manages sleep cycles with the hormone melatonin.
 - Also, the limbic system is heavily connected to the brain stem, but extends outward into the cerebrum:
   - The amygdala is an almond-shaped chunk right under each hemisphere of the brain that's part of the limbic system.
-  - The hippocampus is on the underside of each temporal lobe that supports [memory](https://adequate.life/memory/), [learning](https://gainedin.site/pedagogy/), navigation, and perceiving space.
+  - The hippocampus is on the underside of each temporal lobe that supports [memory](mind-memory.md), [learning](pedagogy.md), navigation, and perceiving space.
 - The brain emits various types of waves:
-  - Delta waves are when a body is in a state of deep [sleep](https://adequate.life/sleep/).
+  - Delta waves are when a body is in a state of deep [sleep](sleep.md).
   - Alpha waves express when the body is in a state of rest.
   - Beta waves express when the body is alert and engaged.
-  - Theta waves are present when someone is daydreaming or in a [flow of ideas](https://adequate.life/creativity/), and often help remember things connected to space.
+  - Theta waves are present when someone is daydreaming or in a [flow of ideas](mind-creativity-how.md), and often help remember things connected to space.
 
 Animals require food, which can come from several sources:
 
@@ -428,7 +428,7 @@ Animals require food, which can come from several sources:
 - Omnivores eat both plants and animals, and may be predators or prey depending on the situation.
 - One newly discovered microorganism is a virovore, which eats viruses.
 
-One unique trait of animals is the means of communication via vocal cords. The concept is relatively simple: constrain the flow of air in such a way that sound is produced. This implementation varies wildly across animals, but the abstraction stays the same. Humans, among others, have a unique addition to that with tongues that give *very* precise control over those sounds, and that's how we orchestrate [language](https://gainedin.site/language/).
+One unique trait of animals is the means of communication via vocal cords. The concept is relatively simple: constrain the flow of air in such a way that sound is produced. This implementation varies wildly across animals, but the abstraction stays the same. Humans, among others, have a unique addition to that with tongues that give *very* precise control over those sounds, and that's how we orchestrate [language](language.md).
 
 Further reading:
 
@@ -497,61 +497,61 @@ The scarcity of food creates a hard limit on how much and how varied life can th
 
 Generally, an ecosystem thrives when there's plenty of water and plenty of sunlight. This gives tons of plant life, which allows more animals to survive, meaning more speciation.
 
-Sadly, climate science has been hijacked for [political reasons](https://gainedin.site/leftism/), often pointing the blame for biome degradation on carbon. Increased carbon output, however, would trigger the negative feedback loop of increased plant life, thus preparing for more animals to offset the situation.
+Sadly, climate science has been hijacked for [political reasons](leftism.md), often pointing the blame for biome degradation on carbon. Increased carbon output, however, would trigger the negative feedback loop of increased plant life, thus preparing for more animals to offset the situation.
 
-Over time, evolutionary adaptations change the epigenetics of organisms, but its scope and timing of the raw data leans heavily into the [phenomenology](https://gainedin.site/symbols/) of the data-viewer's perspective of the [unknown](https://gainedin.site/unknown/):
+Over time, evolutionary adaptations change the epigenetics of organisms, but its scope and timing of the raw data leans heavily into the [phenomenology](symbols.md) of the data-viewer's perspective of the [unknown](unknown.md):
 
 1. Atheist biologists believe all speciation came from a common ancestor, meaning it took millions of years and a few decades of reckless behavior by mankind could upset the delicate balance of existence we live in. Their timing for the conditions *frequently* moves around as they uncover new data.
 2. Deist apologists have a wider range of beliefs, often believing that epigenetics creates speciation over a comparably smaller period of time, meaning adaptations can (generally) keep pace with mankind's adverse decisions.
 
-New species are forming and dying all the time, and it's *very* difficult to keep up with all of them. Even with our technology, we can't entirely track all the flora (with many of them having [healing properties](/health/)), or all the derivatives of fauna. We're either ill-suited for the task, or the adaptations happen within generations (and not necessarily millions of years).
+New species are forming and dying all the time, and it's *very* difficult to keep up with all of them. Even with our technology, we can't entirely track all the flora (with many of them having [healing properties](body-4_health.md)), or all the derivatives of fauna. We're either ill-suited for the task, or the adaptations happen within generations (and not necessarily millions of years).
 
 * * * * *
 
 ## Social Sciences
 
-As stated above, all the social sciences are a "soft science" because the [human mind](https://gainedin.site/humanity/) is vastly complicated, and examining it is inherently recursive. Most of the solid scientific principles float back to neurology, which is itself more a division of biochemistry.
+As stated above, all the social sciences are a "soft science" because the [human mind](humanity.md) is vastly complicated, and examining it is inherently recursive. Most of the solid scientific principles float back to neurology, which is itself more a division of biochemistry.
 
-However, the domain of psychology may be the "hardest" science in this field because it observes [human behavior](https://gainedin.site/universals/) and [bias](https://gainedin.site/bias/) mostly in a vacuum. It only gathers a small portion of the picture, though, since we are [*very* social creatures](https://gainedin.site/friendship/).
+However, the domain of psychology may be the "hardest" science in this field because it observes [human behavior](humanity-universals.md) and [bias](mind-bias.md) mostly in a vacuum. It only gathers a small portion of the picture, though, since we are [*very* social creatures](people-4_friends.md).
 
-To make matters even more complicated, some "fixed" things like DNA are influenced by psychological states. Parents' [trauma](https://gainedin.site/ptsd/), for example, can pass on through genetics, further complicating an already-hazy "nature vs. nurture" debate within psychology.
+To make matters even more complicated, some "fixed" things like DNA are influenced by psychological states. Parents' [trauma](hardship-ptsd.md), for example, can pass on through genetics, further complicating an already-hazy "nature vs. nurture" debate within psychology.
 
 There are *many* social sciences, and they all have a limited scope of influence:
 
 - Sociology: measuring how groups of people behave
-- Cultural anthropology: measuring [comparisons](https://gainedin.site/culture/) of how groups of people behave
-- [Political science](https://gainedin.site/groups-large/): measuring how to govern large groups of people
-- [Economics](https://gainedin.site/economics/): measuring interactions and activity in large groups
+- Cultural anthropology: measuring [comparisons](culture.md) of how groups of people behave
+- [Political science](groups-large.md): measuring how to govern large groups of people
+- [Economics](economics.md): measuring interactions and activity in large groups
 
 Obvious questions that remain unanswered:
 
 - What is the purpose of living?
 - Why does the placebo effect work?
 - Why are 9 out of 10 people right-handed?
-- Can we make an [AI](https://trendless.tech/ai/) that'll sustain a believable human-like conversation?
+- Can we make an [AI](computers-ai.md) that'll sustain a believable human-like conversation?
 
 * * * * *
 
 ## Applied sciences
 
-All of the above sciences apply to the world around us, and that application naturally merges into the domain of [engineering](/engineering/).
+All of the above sciences apply to the world around us, and that application naturally merges into the domain of [engineering](engineering.md).
 
 The formal sciences work to create:
 
-- Data and information science, which blurs heavily with [computer science](http://trendless.tech)
-- Systems theory, which is essentially the [corporate](https://gainedin.site/groups-large/) explanation for all the scientific information
+- Data and information science, which blurs heavily with [computer science](computers.md)
+- Systems theory, which is essentially the [corporate](groups-large.md) explanation for all the scientific information
 
 Physical and life sciences end up creating, among others:
 
-- [Engineering](/engineering/)
-- [Agricultural science](/plants/)
-- Almost the entire [medical industry](https://adequate.life/first-aid/)
-- [Health sciences](/health/)
+- [Engineering](engineering.md)
+- [Agricultural science](horticulture.md)
+- Almost the entire [medical industry](body-firstaid.md)
+- [Health sciences](body-4_health.md)
 
 Social sciences build out, among others:
 
-- [Business administration](/mgmt/)
-- [Jurisprudence](/legal-doctrines/)
+- [Business administration](mgmt-1_why.md)
+- [Jurisprudence](legal-doctrines.md)
 - [Pedagogy](understanding.md)
 
-It's worth noting that [social fashions](https://gainedin.site/trends/) dramatically sway all scientific values, mostly because very intelligent can often have [absolutely no common sense](/idiot/).
+It's worth noting that [social fashions](trends.md) dramatically sway all scientific values, mostly because very intelligent can often have [absolutely no common sense](https://gainedin.site/idiot/).

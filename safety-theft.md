@@ -28,7 +28,7 @@ Hide your valuables in places nobody will think of looking (but don't forget abo
 
 Consider a home security system, either by making one yourself or with a paid service.
 
-One of the most powerful security elements you can have, despite the cultural [issues](people-conflicts.md) around them, is to have guns and everyone in the home knows how to safely use them:
+One of the most powerful security elements you can have, despite the cultural [issues](people-5_conflicts.md) around them, is to have guns and everyone in the home knows how to safely use them:
 
 1. Always assume every gun is loaded, always double-check, and never trust others or your memory.
 2. Ask before touching a gun if you don't know how to operate it.

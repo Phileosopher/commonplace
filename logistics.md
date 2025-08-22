@@ -16,7 +16,7 @@ Most logistical systems incorporate a few components:
 
 The flow of a payload is always similar pattern:
 
-1. If [contracted](contracts.md) and not directly the carrier, the consignor gives the payload to the carrier with the delivery order. The obligations, costs, and risks are transferred at this time to the carrier.
+1. If [contracted](people-contracts.md) and not directly the carrier, the consignor gives the payload to the carrier with the delivery order. The obligations, costs, and risks are transferred at this time to the carrier.
 2. Carrier places the payload safely within the conveying vessel and give delivery order to vehicle operator, either manually or with a transfer system.
 3. If needed, use the replenishing system along the way to restock and give psychological stress relief.
 4. If conveying on a different vessel, repeat steps 2-3.
@@ -186,7 +186,7 @@ When the work is sourced to someone else, it may have a few forms:
 - One-sourcing - an exclusive contract of carriage, often with a service agreement involved (e.g., a contract for a duration of months or years).
   - It helps to one-source with a [good lawyer](legal-doctrines.md), though it's not a good way to [do business](business.md) as the client unless the price doesn't matter.
 
-Some organizations [specialize](jobs-specialization.md) in [contracts](contracts.md) of carriage, usually as an outflow of surrounding regions needing someone to transfer things:
+Some organizations [specialize](jobs-specialization.md) in [contracts](people-contracts.md) of carriage, usually as an outflow of surrounding regions needing someone to transfer things:
 
 - Mail carriers (e.g., USPS, FedEx)
 - Trucking companies
@@ -202,7 +202,7 @@ The carrier may be held liable for the value of the product and stuck owning it 
 2. The product was damaged in transit.
 3. There was an error in what was supposed to be picked up or delivered.
 
-For that reason, carriers can [insure against it](insurance.md) or resell the product to recuperate the damages. Alternately, they can [subcontract](contracts.md) to give *others* the responsibility (and liability) to convey something instead.
+For that reason, carriers can [insure against it](insurance.md) or resell the product to recuperate the damages. Alternately, they can [subcontract](people-contracts.md) to give *others* the responsibility (and liability) to convey something instead.
 
 ## Supply Chain
 
@@ -215,7 +215,7 @@ Supply chains can break down, so they need several *more* aspects beyond the ele
 - Slack - Room for delays and disruptions in the supply chain.
 - Redundancy - if one method of conveyance fails, have at least one contingency plan.
 
-Most supply chains are vastly complex because every organization has an inherent selfishness. This means they only feel comfortable conveying what they know they'll be [contractually](contracts.md) paid to convey.
+Most supply chains are vastly complex because every organization has an inherent selfishness. This means they only feel comfortable conveying what they know they'll be [contractually](people-contracts.md) paid to convey.
 
 For whatever reason, the product may not safely make its way to its intended destination. In those situations, most contracts make a reverse logistics arrangement in the form of a Return Merchandise Authorization (RMA). It generally involves a smaller-scale transit system (typically borrowing from the original system) with a destination designed for defective/unwanted products. Occasionally, it's Return to Vendor (RTV), where the destination is farther up the chain than the seller.
 

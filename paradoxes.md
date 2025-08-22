@@ -185,7 +185,7 @@ If someone were to make the claim that a teapot that's too small for telescopes 
 
 Marvin is in desperate need of food, and has to walk to the local marketplace to buy bread. If there was no outside interference, his plan would succeed. Sam is aware of this and is watching Marvin, and decides to detain Marvin on the way to the marketplace. This causes Marvin to die.
 
-Did this violate Marvin's [rights](boundaries.md)? Is Sam a murderer? If not, why?
+Did this violate Marvin's [rights](people-boundaries.md)? Is Sam a murderer? If not, why?
 
 ## Teletransport/Duplicates Paradox
 

@@ -104,7 +104,7 @@ You've changed as a person:
 
 If you see anything unethical, you're risking your reputation every day you're there, so leave it as quickly as possible.
 
-To stay [legally safe](legal-safety.md), carefully consider any [non-compete clauses](contracts.md) you may have signed for your current and recent roles.
+To stay [legally safe](legal-safety.md), carefully consider any [non-compete clauses](people-contracts.md) you may have signed for your current and recent roles.
 
 ## Job-hopping has pros and cons
 

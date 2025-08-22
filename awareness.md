@@ -35,7 +35,7 @@ We all have inner [conversations](people-conversation.md) with ourselves called 
 We're in constant conflict.
 
 - Each [decision](decisions.md) and [uncertain thing](unknown.md) in our minds is a guaranteed source of inner conflict.
-- These conflicts start within ourselves and branch out to [others](people-conflicts.md).
+- These conflicts start within ourselves and branch out to [others](people-5_conflicts.md).
 - We [constantly hear new things](information.md) that interfere with our thoughts.
 
 The more we do, the less we're aware.

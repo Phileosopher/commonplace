@@ -19,7 +19,7 @@ Affection
 
 - We send and receive [affection](mind-feelings.md), often as expressions of [love](people-love.md).
 - We use endearing terms like nicknames and recognize people by their faces.
-- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](contracts.md) still [expect](imagination.md) them to [coexist](boundaries.md).
+- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](imagination.md) them to [coexist](people-boundaries.md).
 - We constantly redirect that [attachment](people-love.md) to others towards things that [represent](symbols.md) human-like traits, as well as to strangers.
 
 Amusement
@@ -37,13 +37,13 @@ Comparisons
 - We're perpetually making "like" comparisons to things, from [stories](stories.md) to [logic](logic.md).
 - Our comparisons express in [language](language.md) as analogies and metaphors.
 - Beyond our environment, we also tend to compare ourselves with others, and our [relationships](people-4_friends.md) with other relationships.
-- This often inspires us to [compete](boundaries.md) with others, for [work](mind-creativity-results.md) *and* [play](fun.md).
+- This often inspires us to [compete](people-conflicts.md) with others, for [work](mind-creativity-results.md) *and* [play](fun.md).
 
 Conflicts
 
 - We all possess different points of view and opinions, which clash against each other.
 - First, they [clash](conflicts-inner.md) against our [understanding](understanding.md) inside our minds.
-- Then, we [push](boundaries.md) against others around us with our [beliefs](understanding-certainty.md).
+- Then, we [push](people-conflicts.md) against others around us with our [beliefs](understanding-certainty.md).
 - Taken far enough, multiple [groups](groups-large.md) will [oppose](people-conflicts-war.md) each other.
 
 Companionship
@@ -78,7 +78,7 @@ Expectations
 
 - We're *constantly* looking to the future to [predict, expect, and plan](imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
 - We build [traditions](culture.md) with others around consistent [patterns](symbols.md).
-- We make [promises](boundaries.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](mind-creativity-results.md) a certain way.
+- We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](mind-creativity-results.md) a certain way.
 - Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
 
 Exploration
@@ -309,7 +309,7 @@ Values
 Violence
 
 - Even the most peaceful societies have [evil](morality-evil.md).
-- This evil frequently becomes outright [fighting and brutality](boundaries.md).
+- This evil frequently becomes outright [fighting and brutality](people-conflicts.md).
 - Because of this, every society needs [rules](rules-methods.md) for dealing with it.
 - Sometimes, for the sake of [power](power.md), [large organizations](groups-large.md) will [fight](people-conflicts-war.md) with one another, which can include war.
 

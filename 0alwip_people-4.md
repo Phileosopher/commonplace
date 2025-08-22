@@ -32,13 +32,13 @@ You only know 2% of a person from the outside, and the rest is waiting to be fou
 Friendships are a necessary part of living well:
 
 - They ground us in reality.
-- By being vulnerable, we [understand ourselves](/awareness/) more.
-- We need friends to be [happy](/happiness-1/).
+- By being vulnerable, we [understand ourselves](awareness.md) more.
+- We need friends to be [happy](happiness.md).
 - Different lifestyles from our friends help challenge our views of the world.
-- They give us resources and connections to others to help us [succeed](/success-1/).
-- They encourage us [when we lose faith in ourselves](/success-5/).
+- They give us resources and connections to others to help us [succeed](success-1_why.md).
+- They encourage us [when we lose faith in ourselves](success-5_persevering.md).
 - By sharing experiences and time with each other, both friends benefit at the same time.
-- Anything you can do with [money](/money-1/), you can do better with friends.
+- Anything you can do with [money](money-1_why.md), you can do better with friends.
 
 If you make friends well, you can even turn *enemies* into your friends.
 
@@ -51,9 +51,9 @@ We find friends over shared contexts we have in common with others:
   - Same taste in media (like music, movies, books, or games)
   - Similar preferences (like with food or work)
   - Same hobbies or pastimes
-  - Similar [philosophical](https://gainedin.site/philosophy/), [religious](https://gainedin.site/religion/) or [group affiliation](https://gainedin.site/groups-large/)
+  - Similar [philosophical](philosophy.md), [religious](religion.md) or [group affiliation](groups-large.md)
   - Shared hatred of a common enemy or threat
-  - Opportunity for [mutual business](https://notageni.us/entrepreneur/) or shared benefit
+  - Opportunity for [mutual business](entrepreneur-1_why.md) or shared benefit
 - Thankfully, we can still relate over shared feelings, even if we have nothing else in common.
 
 Good friendships are fun:
@@ -61,8 +61,8 @@ Good friendships are fun:
 - Your time with friends should be comfortable, dynamic, entertaining, and stimulating.
 - You should look forward to spending time with that person.
 - Both people ought to feel optimism, trust, acceptance, importance, and support from each other.
-- Both friends should act out of [love](https://gainedin.site/love/) for each other.
-- Friends share an equal [power](https://gainedin.site/power/) dynamic.
+- Both friends should act out of [love](people-love.md) for each other.
+- Friends share an equal [power](power.md) dynamic.
 
 Friendships have several levels of depth:
 
@@ -122,7 +122,7 @@ Many people have reasons to distrust:
 - Most people create a bias from first impressions.
 - Even nonjudgmental people who accept you may have to maintain other friendships at the same time.
 
-Occasionally, our [personalities](https://gainedin.site/personality/) simply don't mesh well.
+Occasionally, our [personalities](personality.md) simply don't mesh well.
 
 ## Making friends requires experience making friends
 
@@ -136,11 +136,11 @@ If you feel you need friends, you have unfulfilled needs:
 - Clinging too much to a few friends or a new friend is normal, but drives most mentally well people away.
 - It's much easier to make a second friend after making the first one.
 - To avoid overdependence on any one friend, make multiple new friends at once.
-- A great [romantic relationship](/relationships/) requires *much* more investment and time than a great friendship, so never expect any new friend to become one.
+- A great [romantic relationship](relationships-1_why.md) requires *much* more investment and time than a great friendship, so never expect any new friend to become one.
 
 When you have very few friends, it's much harder to make new ones:
 
-1. Like [any other skill](/success-2/), social skills are frustrating at first.
+1. Like [any other skill](success-2_attitude.md), social skills are frustrating at first.
 2. Both preventing and managing awkward situations requires experience, which comes from experience.
 3. Without the support network to handle social failures, antisocial people don't easily learn from experience.
 4. Successfully finding friends requires sifting through dozens of people until you find a good fit, which requires a shallow connection with many people.
@@ -182,7 +182,7 @@ To avoid feeling (and looking) desperate, learn to enjoy life alone:
 - You can enjoy your favorite media anytime you want.
 - You can take your time with chores and stay undressed in your house.
 - Your free time and vacations are filled with anything you want.
-- Without peer pressure, you [save money when shopping](/saving/).
+- Without peer pressure, you [save money when shopping](money-saving.md).
 - Without others distracting you, you can [focus on work more easily](success-4).
 - If you want to change habits, you don't risk others' poor habits interfering.
 
@@ -197,15 +197,15 @@ If you have no friends around, set low expectations:
 
 The art of making friends is to become likeable and make others important:
 
-- How you're known is *far* more important than who or what you know (i.e., you're creating [meaningful connections](https://gainedin.site/meaning/)).
+- How you're known is *far* more important than who or what you know (i.e., you're creating [meaningful connections](meaning.md)).
 - Most people hate making friends because they must change themselves to become better *as* a friend.
-- Learn to be more [tactful](/people-3/) and a better listener.
+- Learn to be more [tactful](people-3_respect.md) and a better listener.
 - You'll attract people similar to you, so treat everything you want in others as standards for yourself.
 - How much you like *yourself* is the limit to how much anyone can like you.
 
 Learn to be happy:
 
-- [Happiness](/happiness-1/) is critical to withstand the inevitable [conflicts](/conflicts/) from human connection.
+- [Happiness](happiness.md) is critical to withstand the inevitable [conflicts](people-5_conflicts.md) from human connection.
 - People naturally associate with enthusiastic, optimistic people and shy away from unhappy, cynical ones.
 - The only people who enjoy time with miserable people are other miserable people.
 - Learn how to safely and openly express your unhappiness with your friends.
@@ -213,7 +213,7 @@ Learn to be happy:
 Learn tempered authenticity:
 
 - Express openness, then ask open questions about their life.
-- Tempered authenticity is mixing your sincerely honest views with [respect for the listener](/people-3/).
+- Tempered authenticity is mixing your sincerely honest views with [respect for the listener](people-3_respect.md).
 - Most people either want to please others and won't speak openly, or they don't pay attention to others' feelings.
 - Sometimes, your contempt for something is far more valuable than your pity or approval.
 - True friendship requires your personally shared experience, not just swapping anecdotes.
@@ -226,7 +226,7 @@ Communicate how much you value them:
 - More frequently than not, sincerely express how much they mean to you in the way you most express it (speaking, making things, hugging, etc.).
 - If they have the time, treat them to a meal.
 - Give generously to the people around you, and don't ever treat it as a loan.
-- When offering something that's valuable, imply they don't need to take it, or they'll interpret it as requiring a [contractual response](https://notageni.us/contracts/) (e.g., "I'm going on vacation to the Bahamas and have an extra ticket, wanna come?").
+- When offering something that's valuable, imply they don't need to take it, or they'll interpret it as requiring a [contractual response](people-contracts.md) (e.g., "I'm going on vacation to the Bahamas and have an extra ticket, wanna come?").
 - If you borrow something, give it back in better condition.
 
 Great friends know how and when to express love:
@@ -248,7 +248,7 @@ Each person has a preferred mix of certain expressions of love.
    - Since people must sacrifice control for you to help, respect when others say "no".
 5. Physical affection - showing connection through touch:
    - Touch can include grazing contact, holding hands, hugging, and anything physically intimate.
-   - Affection varies wildly by [culture](/people-3/), so observe that person's context and background.
+   - Affection varies wildly by [culture](people-3_respect.md), so observe that person's context and background.
    - Be careful in a work environment and in public because people often misconstrue affection in those contexts as sexual harassment.
 
 Remember details about them:
@@ -268,13 +268,13 @@ Broaden communication with them when possible:
 
 Often, if you can't find a friend, you're simply not going to places you'd find someone with one of your shared interests:
 
-- Most people who [advance their career](/jobs-1/) and [start having children](/parenting-1/) simply don't have *time* to find friends compared to when they were schoolchildren or in college.
+- Most people who [advance their career](jobs-1_why.md) and [start having children](parenting-1_babies.md) simply don't have *time* to find friends compared to when they were schoolchildren or in college.
 - While most people don't change their situation, anyone can change their situation within 6 months:
   - Sit outside your home and make small talk with every single person who comes by.
   - Throw a block party and invite *all* your neighbors.
-  - Volunteer at something you like (e.g., a club or [hobby](/fun/) group).
-  - Get involved in a [fitness](/weight/), [sports](https://notageni.us/sports/), or martial arts community.
-  - Get involved in [a church](https://gainedin.site/religion/).
+  - Volunteer at something you like (e.g., a club or [hobby](fun.md) group).
+  - Get involved in a [fitness](body-3_exercise.md), [sports](fun-sports.md), or martial arts community.
+  - Get involved in [a church](religion.md).
 
 Most people passively seek friends and wait for others to make the first move:
 
@@ -295,7 +295,7 @@ Become a better participant on social media:
   - Is it interesting or informative?
   - Is it amusing, entertaining, or funny?
   - Will it add value to anyone's life?
-- Try to find social media that is [positive and inspiring](/happiness-1/) with many other people on it.
+- Try to find social media that is [positive and inspiring](happiness.md) with many other people on it.
 - Spend more time messaging people personally and less time on message boards.
 - Routinely remove friends from social media who aren't part of your life anymore.
 
@@ -303,7 +303,7 @@ While social media feels like socializing, it doesn't fully replace in-person co
 
 Find ways to start conversations:
 
-- Talk with [your coworkers](/jobs-1/) more.
+- Talk with [your coworkers](jobs-1_why.md) more.
 - Bring gum to offer or a lighter/cigarettes for smokers.
 - Start conversations by wearing a funny T-shirt.
 - If you live in a dorm or apartment, keep your door open.
@@ -345,13 +345,13 @@ Learn to be likable at your workplace:
 - Get to know your coworkers' personal lives if they're comfortable sharing.
 - In many workplace cultures, nobody implies *anything* personally
 - Go above and beyond what others expect.
-- [While tact is important](/people-3), professionalism *requires* it!
+- [While tact is important](people-3_respect.md), professionalism *requires* it!
 
 Get involved in group events:
 
 - Join a band, sports team, or Dungeons & Dragons session.
-- If you can, try [throwing parties](/parties/) or [playing games together with others](/fun/).
-- By doing something together, you create a shared [purpose](https://gainedin.site/purpose/) that brings you closer to others.
+- If you can, try [throwing parties](fun-parties.md) or [playing games together with others](fun.md).
+- By doing something together, you create a shared [purpose](purpose.md) that brings you closer to others.
 
 Be cautious with friends who are family:
 
@@ -379,9 +379,9 @@ You can usually get a decent first impression by observing a few specific contex
 To see friendships transition, observe how those people behave:
 
 1. How they treat small children or animals.
-2. How they handle practical inconveniences like a slow internet connection or [car trouble](https://notageni.us/autos/).
+2. How they handle practical inconveniences like a slow internet connection or [car trouble](autos.md).
 3. How they behave in a group of strangers.
-4. How they manage [conflicts](/conflicts/) with others.
+4. How they manage [conflicts](people-5_conflicts.md) with others.
 5. The way they explain a technical matter to someone with a non-technical background.
 6. Who their five closest friends are.
 7. How they handle hardships and unpleasant surprises.
@@ -404,7 +404,7 @@ B. After you've found a baseline with them, observe their authentic behavior:
 
 C. Pay close attention to discover their motivations and values:
 
-- Their [philosophical ideas](https://gainedin.site) about absolutely everything.
+- Their [philosophical ideas](philosophy.md) about absolutely everything.
 - Their willingness to let strangers suffer or die for personal gain
 - Their capacity to be mean, selfish, or cruel
 - What they want in life and what they would sacrifice to get it
@@ -421,12 +421,12 @@ Carefully consider who you want in your life:
 A good friendship has two strong people:
 
 - If one person is much weaker than the other, the stronger one unintentionally overpowers them.
-- If *both* people are generally weak, it becomes two people empowering each other toward less-than-valuable [goals](/success-3/).
+- If *both* people are generally weak, it becomes two people empowering each other toward less-than-valuable [goals](success-3_goals.md).
 
 Other potential friends judge your character and identity by the company you keep:
 
 - The younger someone is, the more heavily they're influenced by their friends.
-- Meeting dysfunctional people is always worth the experience, but staying friends with them will destroy your reputation and [happiness](/happiness-1/).
+- Meeting dysfunctional people is always worth the experience, but staying friends with them will destroy your reputation and [happiness](happiness.md).
 - Therefore, avoid or break ties with dysfunctional friendships immediately.
 
 Some people will lead you on:
@@ -449,7 +449,7 @@ Don't associate with friends who don't change:
 Don't trust friends who talk poorly about others:
 
 - If they share negative things about others, they'll do the same about you elsewhere.
-- Most of the time, they do it [habitually](/habits/), so they're not worth trusting.
+- Most of the time, they do it [habitually](habits.md), so they're not worth trusting.
 
 Never make friends with people who don't like you:
 
@@ -482,7 +482,7 @@ Watch for unusually trusting people:
 
 - Some people make each of their friends almost immediately into an intimate relationship.
 - This person fears solitude and desires acceptance.
-- While they're trying to please everyone, they fail at [setting healthy boundaries](/people-3/).
+- While they're trying to please everyone, they fail at [setting healthy boundaries](people-3_respect.md).
 - They're often clingy or will overly identify with something.
 - They'll frequently become very possessive and jealous of their healthier friends.
 - Since they must understand that not all friends are perfect companions, give distance with kindness and communicate distinctions between your beliefs and theirs.
@@ -504,8 +504,8 @@ Avoid inauthentic people:
 
 Avoid people who generate anxiety and promise a solution:
 
-- These people include [politicians](https://gainedin.site/groups-large/) and [marketers](https://notageni.us/marketing/), but can be anyone who seems authentic but gives you a strange feeling of unease.
-- Very often, these people are morally bankrupt, so avoid them at all costs unless you're simply [exploiting them](https://gainedin.site/power/) yourself.
+- These people include [politicians](groups-large.md) and [marketers](marketing.md), but can be anyone who seems authentic but gives you a strange feeling of unease.
+- Very often, these people are morally bankrupt, so avoid them at all costs unless you're simply [exploiting them](power.md) yourself.
 
 Avoid lopsided friendships:
 
@@ -532,7 +532,7 @@ Some people will rapidly shift subjects to not talk about your life:
 Learn how to avoid unhealthy people:
 
 - Try to behave as boring and dull as possible with someone you would rather not be around.
-- Express that you're frequently busy, and [find something you *can* be busy with](/success-4/).
+- Express that you're frequently busy, and [find something you *can* be busy with](success-4_routine.md).
 - You never need to say "this friendship is over", since life's events will often make that obvious.
 
 At times, you can simply lose your friendship with them by not putting up with their unhealthy behaviors:
@@ -543,7 +543,7 @@ At times, you can simply lose your friendship with them by not putting up with t
 Don't worry too much about how to get rid of friends:
 
 - If you keep succeeding, you'll alienate your lousy friends quickly.
-- Anytime you [change jobs](/jobs-1/), [move](/moving/), or [succeed](/success-1/), you're putting distance between your weakest friendships.
+- Anytime you [change jobs](jobs-1_why.md), [move](home-moving.md), or [succeed](success-1_why.md), you're putting distance between your weakest friendships.
 
 ## Work to keep good friends
 
@@ -568,10 +568,10 @@ Keep assessing whether that friend is worth your time:
 
 Keep a diverse group of friends to maintain a healthy view of the world:
 
-- You should be able to share your strangest and [most controversial ideas](https://gainedin.site/trends/) with them.
-- Have a friend who is highly [analytical](https://gainedin.site/logic) and one who has lots of [fun](/fun/).
-- Stay [legally safe](https://notageni.us/legally-safe/) by making friends with a police officer or law student.
-- Stay in touch with friends who have [computer skills](/computer/), mechanical skills, or grew up in a bad neighborhood.
+- You should be able to share your strangest and [most controversial ideas](trends.md) with them.
+- Have a friend who is highly [analytical](logic.md) and one who has lots of [fun](fun.md).
+- Stay [legally safe](legal-safety.md) by making friends with a police officer or law student.
+- Stay in touch with friends who have [computer skills](computers.md), mechanical skills, or grew up in a bad neighborhood.
 - Always have friends who are older than you and friends that are younger.
 
 Don't let *anything* get in the way of a great friendship:
@@ -579,10 +579,10 @@ Don't let *anything* get in the way of a great friendship:
 - The love of two friends shifts from "you" or "me" to "us".
 - Share how much they mean to you before you lose touch with them.
 - Prioritize your friend's needs above your own, and be supportive and helpful whenever they need it.
-- If a friend hurt you, [forgive them and move on if they've changed](/happiness-2/).
+- If a friend hurt you, [forgive them and move on if they've changed](happiness-stress.md).
 - When you borrow anything from them, promptly give it back.
-- If you wish to [date](/dating/) someone your friend has dated, ask permission first.
-- If they live with you, openly communicate household responsibilities and [keep the common areas clean](/housekeeping/) without them asking.
+- If you wish to [date](relationships-2_dating.md) someone your friend has dated, ask permission first.
+- If they live with you, openly communicate household responsibilities and [keep the common areas clean](home-housekeeping.md) without them asking.
 - Find new experiences and routines you can share with them.
 
 Even when they move or change lifestyles, stay in touch with them:
@@ -599,6 +599,6 @@ Even when they move or change lifestyles, stay in touch with them:
 
 Friendships are always worth the experience, even though they all eventually end.
 
-We must constantly learn how to improve our [writing](/writing/) and [speaking](/speaking/) skills if we want to make friends who match our maturity.
+We must constantly learn how to improve our [writing](language-writing.md) and [speaking](language-speaking.md) skills if we want to make friends who match our maturity.
 
-*This page is Part 3 of People Skills. Part 1 was [Why People Skills Matter](/people-1/), Part 2 was [Making Yourself Presentable](/people-2/), and Part 3 was [Respecting People](/people-3/).*
+*This page is Part 3 of People Skills. Part 1 was [Why People Skills Matter](people-1_why.md), Part 2 was [Making Yourself Presentable](people-2_image.md), and Part 3 was [Respecting People](people-3_respect.md).*

@@ -177,7 +177,7 @@ Keep working outside your job for the long-term:
 
 - Keep building on your more productive hobbies and interests, since they may become a career someday.
 - Log your achievements on job social media like [LinkedIn](http://www.linkedin.com) or a portfolio website.
-- Keep developing your soft skills (e.g., teamwork, [speaking](language-speaking.md), [negotiating](people-conflicts.md)).
+- Keep developing your soft skills (e.g., teamwork, [speaking](language-speaking.md), [negotiating](people-5_conflicts.md)).
 - Make connections outside your current job for future work and opportunities.
 
 Have an estimated period when you'll leave *that* job to take a promotion or another role:

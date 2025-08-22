@@ -34,7 +34,7 @@ If you're a nice person, dial it back:
 
 Do *not* take your incarceration personally:
 
-- Beyond the [moral violations](morality.md) you may have committed, prison is partly a system-wide mechanism to separate [unpleasant people](personality.md) from the rest of society, partly a [fear](mind-feelings-fear.md)-maintenance system for most society, and (sometimes) partly a means of fulfilling a private/public [organization-sized contract](contracts.md).
+- Beyond the [moral violations](morality.md) you may have committed, prison is partly a system-wide mechanism to separate [unpleasant people](personality.md) from the rest of society, partly a [fear](mind-feelings-fear.md)-maintenance system for most society, and (sometimes) partly a means of fulfilling a private/public [organization-sized contract](people-contracts.md).
 - Most legal systems make money per day for prison terms, so your sentencing is likely to maximize the amount of money the prisons can make, with probation/parole granted to free up space for other convicts.
 - At the same time, their punishment can change based on what you do, and it is *never* too late to change [habits](habits.md).
 

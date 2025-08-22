@@ -123,7 +123,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 
 - God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-4_friends.md), [understanding](understanding.md), our [essence itself](people-love.md), and time.
 - Specifically, we tend to see as "ours" when we wake up, so any duties that require our attention are "stealing" or "taxing" our time.
-- We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](boundaries.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
+- We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](people-boundaries.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
 
 [Humor](humor.md) is valuable for our healing, and the devil can distort it:
 
@@ -170,7 +170,7 @@ When we discover the nature of new [friends](people-4_friends.md), he uses a tec
 1. If the person is [unaware](awareness.md) enough, they can be tempted to wear many masks to maintain a [false image](image.md) among various social circles.
 2. Once that person has seen their double life, they can be inspired to feel superior over their "open-mindedness" to other [groups](groups-small.md).
 3. Finally, convince them that avoiding association with their more worldly friends would be something vaguely "intolerant" or "unloving".
-4. From here, people may spend too much [money](money-1_why.md) on the wrong things and experience [division](boundaries.md) with their [families](church-family.md).
+4. From here, people may spend too much [money](money-1_why.md) on the wrong things and experience [division](people-conflicts.md) with their [families](church-family.md).
 
 By using our [images](image.md) of others around us, we can fall into very destructive behaviors like superficiality or callousness:
 
@@ -231,7 +231,7 @@ After enough time away from other believers, demons can provoke someone to [go t
 Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](changes.md) to the point that people feel peer pressure to build out their vices:
 
 - Heavy sinners who willfully rebel against God are uncommon in civilized society, but many smaller and pettier sinners are merely selfish, though the [fashions of the time](trends.md) make the trend adapt constantly in different directions.
-- The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-conflicts.md) and the source for more of his work.
+- The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-5_conflicts.md) and the source for more of his work.
 - Eventually, he'll bring about his [One World Order](jesus-returns.md) on a principle of "equality" and "democracy" to make a society of ineffective, self-satisfied, entitled, [unhappy](happiness.md) people.
 
 ## Tricks About Himself

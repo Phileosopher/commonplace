@@ -211,7 +211,7 @@ G. If you like what you see, bring it to a mechanic you trust to do a final chec
 
 - A $100 inspection may save you thousands.
 
-H. [Negotiate](people-conflicts.md) the price down if you can.
+H. [Negotiate](people-5_conflicts.md) the price down if you can.
 
 - If possible, avoid gender bias with a male present.
 - Do *not* let the seller exploit you.
@@ -467,7 +467,7 @@ Watch what they tell you:
 Communicate carefully:
 
 - When getting a second opinion, do *not* give the second mechanic the first one's diagnosis.
-- Before [signing anything](contracts.md), *always* get a specific estimate for each job, and *never* sign a blank work authorization form.
+- Before [signing anything](people-contracts.md), *always* get a specific estimate for each job, and *never* sign a blank work authorization form.
 - Ask about a labor estimation beforehand, since they'll often charge double labor for tasks.
 - Request factory equipment to ensure you have legitimate parts.
 - Ask for your old parts back to be certain they put the new ones in.

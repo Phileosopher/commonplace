@@ -314,7 +314,7 @@ Confiscation - aka Forfeiture, permanently depriving assets through a court orde
 
 Consent - A person making a reasoned, deliberate decision that follows another's recommendation
 
-Consideration - Giving or promising something another party promised, typically to bind a [contract](contracts.md)
+Consideration - Giving or promising something another party promised, typically to bind a [contract](people-contracts.md)
 
 Consolidation of Goods - An entity groups or mixes restricted items with non-restricted items and doesn't declare them in shipping documentation
 
@@ -574,7 +574,7 @@ Forum Selection Clause - A contract clause which indicates what forum a contract
 
 Fraud - Falsely representing matters of fact, can be intrinsic (core misstatements about the issue at hand) or extrinsic (subtly destroying the means to acquire facts)
 
-Freedom of Contract - The right of individuals and entities to [bargain](people-conflicts.md) freely among themselves about contracts without government interference
+Freedom of Contract - The right of individuals and entities to [bargain](people-5_conflicts.md) freely among themselves about contracts without government interference
 
 Freeze - Preventing or restricting use or transfer of assets
 
@@ -996,7 +996,7 @@ Pretrial - In a civil case, a conference with a judge or trial referee to discus
 
 Pretrial Hearing - Conference with attorneys to determine scope of possible trial with view toward resolving issues through agreement
 
-Privity - a close, mutual or successive relationship to the same right of property or power to enforce a promise or warranty, typically part of [contract law](contracts.md)
+Privity - a close, mutual or successive relationship to the same right of property or power to enforce a promise or warranty, typically part of [contract law](people-contracts.md)
 
 Pro Rata - Latin for "per rate", typically refers to a proportional amount (e.g., a fraction of the number of days used versus the total number of days in a contract)
 
@@ -1012,7 +1012,7 @@ Production - Providing evidence that proves an assertion of fact is true, typica
 
 Promise to Appear - A type of non-financial bond where the defendant agrees to return to court without giving cash or property
 
-Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](contracts.md), or [assets](accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
+Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](people-contracts.md), or [assets](accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
 
 Protection - Broad word that refers to the state or means of being safe
 
@@ -1235,7 +1235,7 @@ Suspect Classification - A class or group of people meeting a set of criteria th
 
 Taint - Evidence which has been ruined in some manner, typically by being obtained illegally by law enforcement
 
-Tax - A financial requirement for an individual or entity to pay a government for a [business transaction](contracts.md)
+Tax - A financial requirement for an individual or entity to pay a government for a [business transaction](people-contracts.md)
 
 Term - A clearly indicated period of time
 

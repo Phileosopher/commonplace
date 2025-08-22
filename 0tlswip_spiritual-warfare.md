@@ -11,7 +11,7 @@ The Bible frequently mentions the Satan, who isn't symbolic or figurative:
 
 He's more powerful than most Christians think:
 
-- The entire world is in the Satan's [power](https://gainedin.site/power/) ([1 John 5:19](https://biblehub.com/1_john/5-19.htm)).
+- The entire world is in the Satan's [power](power.md) ([1 John 5:19](https://biblehub.com/1_john/5-19.htm)).
 - You can *only* resist the Satan through Christ ([Ephesians 6:11](https://biblehub.com/ephesians/6-11.htm)).
   - God will protect you from him ([2 Thessalonians 3:3](https://biblehub.com/2_thessalonians/3-3.htm)).
   - God has granted all Christians full power over the Satan in Jesus' name ([Luke 10:19](https://biblehub.com/luke/10-19.htm)).
@@ -32,33 +32,33 @@ The mind is the Satan's battleground:
 - Every single conversation and interaction can become a spiritual battle ([Romans 12:2](https://biblehub.com/romans/12-2.htm), [Ephesians 6:12](https://biblehub.com/ephesians/6-12.htm), [2 Corinthians 10:5](https://biblehub.com/2_corinthians/10-5.htm)).
 - The Satan attacks at three degrees of intensity:
   1. Harassment and oppression by alluding to lies that someone might [believe](understanding-certainty.md).
-  2. If someone is willing to listen (including believers, [influencing and speaking](/demon-tricks/) to people directly to their [mind](understanding.md).
-  3. Directly controlling them through their loss of control via bad [habits](https://gainedin.site/habits/), which can include possession.
-- [Our design](/people/) means we become ineffective or destructive if he wins against our mind.
+  2. If someone is willing to listen (including believers, [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](understanding.md).
+  3. Directly controlling them through their loss of control via bad [habits](habits.md), which can include possession.
+- [Our design](humanity-christian.md) means we become ineffective or destructive if he wins against our mind.
 
 When we satisfy our sins, our thoughts dwell on them more:
 
-- We develop an [anxious](https://gainedin.site/fear/), [distrustful](understanding-certainty.md), violent, envious attitude when we dwell on [sins](/sins/).
+- We develop an [anxious](mind-feelings-fear.md), [distrustful](understanding-certainty.md), violent, envious attitude when we dwell on [sins](morality-sins.md).
 - The Satan uses our sins as vectors of attack against us.
 
 We only win the battle against the Satan when we fully submit our minds to Christ:
 
 - The Holy Spirit brings correct, healthy thoughts into your mind through Scripture and other believers.
-- [Meditating on Scripture](/bible-study/) improves our ability to associate positive thoughts.
-- As little as [fifteen minutes a day](/exercises/) of daily [prayer](/prayer/) and [meditation with God](https://adequate.life/awareness/) will calm your mind.
+- [Meditating on Scripture](bible-study.md) improves our ability to associate positive thoughts.
+- As little as [fifteen minutes a day](spiritual-exercises.md) of daily [prayer](spiritual-exercises-prayer.md) and [meditation with God](awareness.md) will calm your mind.
 
 ## The Satan is *extremely* efficient with his resources
 
 His strategy directly attacks Christians and the Church from many angles:
 
-- The Satan's [lies](https://adequate.life/lying/) tend to exploit the fact that we can't always be [certain](understanding-certainty.md) about many things.
-- He typically erodes our [trust](https://gainedin.site/trust/) in good things.
-- He'll also make us prefer to trust [evil things](https://gainedin.site/evil/) more often.
+- The Satan's [lies](people-lying.md) tend to exploit the fact that we can't always be [certain](understanding-certainty.md) about many things.
+- He typically erodes our [trust](trust.md) in good things.
+- He'll also make us prefer to trust [evil things](morality-evil.md) more often.
 
 Before anything else, the Satan traps people with their sins and idols:
 
 - The quickest way to tempt someone is in their body, but any desire will work.
-- The Satan can use the whole world's variety of pleasures to distract, from [large-scale media](https://gainedin.site/storytellers/) to natural forces to [creature comforts](https://gainedin.site/conveniences/).
+- The Satan can use the whole world's variety of pleasures to distract, from [large-scale media](stories-storytellers.md) to natural forces to [creature comforts](conveniences.md).
 - Non-believers are trapped in their sin because their conscience knows the Law ([Romans 2:14](https://biblehub.com/romans/2-14.htm)).
 - Believers can trap themselves in sin when they neglect to confess or acknowledge them.
 - At this stage, people are oblivious to the Satan's presence.
@@ -66,10 +66,10 @@ Before anything else, the Satan traps people with their sins and idols:
 
 The Satan tries to interest people in self-glorifying religion:
 
-- Outside their [fruits](https://gainedin.site/results/), self-worship is difficult to distinguish from people who love God:
+- Outside their [fruits](mind-creativity-results.md), self-worship is difficult to distinguish from people who love God:
   - They declare their belief in Jesus ([James 2:19](https://biblehub.com/james/2-19.htm)).
   - They act in the name of Jesus ([Matthew 7:21-23](https://biblehub.com/bsb/matthew/7.htm)).
-  - If they [teach](/discipleship/), they'll mislead people from the truth ([Matthew 24:10-11](https://biblehub.com/bsb/matthew/24.htm)).
+  - If they [teach](spiritual-discipleship.md), they'll mislead people from the truth ([Matthew 24:10-11](https://biblehub.com/bsb/matthew/24.htm)).
   - They'll place personal experience before God's word but will misuse Scripture to enforce those experiences.
 - These people must repent, and some of them have been possessed or oppressed by a demon.
 
@@ -80,7 +80,7 @@ The Satan attracts people with the occult and its practices:
   - Always uncovering hidden knowledge of the past or future.
   - Most of them promise an experience of receiving power.
   - They all require a passive meditative state before the spirit world can operate properly.
-  - Typically, participants will feel a strange magnetism with an underlying [fear](https://gainedin.site/fear/).
+  - Typically, participants will feel a strange magnetism with an underlying [fear](mind-feelings-fear.md).
 - These activities open a door for *massive* demonic influence and can often lead to possession.
   - These experiences can pass to the third and fourth generations of a family ([Deuteronomy 5:8-10](https://biblehub.com/bsb/deuteronomy/5.htm)).
 
@@ -95,7 +95,7 @@ If he can't destroy someone any longer, he'll find ways to entice and bring down
 - He'll test someone's patience by intensifying conflict or magnifying particular sensations.
 - The Satan will work progressively from closest to furthest affiliations.
 - As much as you can, pray for their protection and for God to deliver them ([Matthew 6:13](https://biblehub.com/matthew/6-13.htm)).
-- [Children](https://adequate.life/parenting-1/) are an *enormous* distraction, mostly because tempting children is easy and because parents' biological wiring is configured to protect them.
+- [Children](parenting-1_babies.md) are an *enormous* distraction, mostly because tempting children is easy and because parents' biological wiring is configured to protect them.
 
 ## Anyone can detect demonic activity
 
@@ -104,23 +104,23 @@ The Satan only risks direct assault if someone directly observes spiritual activ
 - The Satan's forces are keenly aware that Jesus has ultimate authority, so he only attacks when he has nothing left to lose ([Mark 5:6-7](https://biblehub.com/bsb/mark/5.htm)).
 - To cure *any* curses, make specific prayer requests to Jesus for protection and healing ([Luke 9:1](https://biblehub.com/luke/9-1.htm)).
 - Even *Christians* risk experiencing curses ([Deuteronomy 29:24-28](https://biblehub.com/bsb/deuteronomy/29.htm)).
-- [Prayer and fasting](/prayer/) is the most consistent, effective way to fight the Satan's forces ([Mark 9:14-29](https://biblehub.com/bsb/mark/9.htm)).
+- [Prayer and fasting](spiritual-exercises-prayer.md) is the most consistent, effective way to fight the Satan's forces ([Mark 9:14-29](https://biblehub.com/bsb/mark/9.htm)).
 
 A. Rule out the possibility of any physical issues:
 
 - The Satan can easily sow distrust and fear in the Body through people who become "demon inspectors".
-- We can frequently think awful things and even hallucinate when we're [exhausted](https://adequate.life/sleep/), [starved](https://adequate.life/weight/), or [stressed](https://adequate.life/happiness-2/).
+- We can frequently think awful things and even hallucinate when we're [exhausted](sleep.md), [starved](body-2_diet.md), or [stressed](happiness-stress.md).
 
 B. Search for any violation of biblical principles:
 
 - You will need wisdom, which requires a strong relationship with God, to see how people misuse or invalidate Scripture.
-- Our training comes through the [routine exercises](/exercises/) we perform every day when we're *not* in a demonic crisis.
+- Our training comes through the [routine exercises](spiritual-exercises.md) we perform every day when we're *not* in a demonic crisis.
 
 C. Closely consider how the Satan is attacking:
 
-- [Sins](/sins/) that are impossible to control:
+- [Sins](morality-sins.md) that are impossible to control:
   - Immorality, which usually manifests as an abnormal desire for sex.
-  - Unrestrained, [impulsive behavior](https://adequate.life/substances/).
+  - Unrestrained, [impulsive behavior](addiction-substances.md).
   - Any expression of [feeling](mind-feelings.md) attribute taken to unreasonable extremes (e.g., unusual bitterness, severe rage).
 - Complete misery with no reasonable basis:
   - Deep depression, which will be disproportionate and unbearably intense over a past action.
@@ -129,21 +129,21 @@ C. Closely consider how the Satan is attacking:
   - Suicidal thoughts, often accompanied by attempting it.
 - Supernatural behavior:
   - Drug abuse (since most recreational drugs have a spiritual connection).
-  - Psychic power (the Satan has access to every [physically proven fact](https://gainedin.site/reality/), including information we [imagine](https://gainedin.site/imagination/) is private).
-  - Extreme strength or [power](https://gainedin.site/power-types/), including the ability to [influence](https://gainedin.site/influence/) (where demons can directly manipulate the environment through the person).
-- Irritation during [prayer](/prayer/), [Bible reading](/bible-study/), [worshiping](/church/) or [preaching](/leadership/):
+  - Psychic power (the Satan has access to every [physically proven fact](reality.md), including information we [imagine](imagination.md) is private).
+  - Extreme strength or [power](power-types.md), including the ability to [influence](power-influence.md) (where demons can directly manipulate the environment through the person).
+- Irritation during [prayer](spiritual-exercises-prayer.md), [Bible reading](bible-study.md), [worshiping](church.md) or [preaching](mgmt-church.md):
   - The most apparent sign is when that person reacted from a place they couldn't have observed that person's experience.
-  - Demon-possessed people (e.g., [drug abusers](https://adequate.life/substances/), witch doctors) can often harass or curse Christians.
+  - Demon-possessed people (e.g., [drug abusers](addiction-substances.md), witch doctors) can often harass or curse Christians.
 - An abnormal physical presence:
   - The air will feel heavy, almost as if it's difficult to breathe.
   - Often, slight pains and annoyances will be *much* worse.
 - Psychological and physical disorders:
   - Antisocial and passive behavior, where someone will spend many days alone without any desire to connect with others.
   - Epilepsy and seizures.
-  - [Personality](https://gainedin.site/personality/) disorders (e.g., multiple personalities, schizophrenic behavior).
+  - [Personality](personality.md) disorders (e.g., multiple personalities, schizophrenic behavior).
   - Sickness or affliction that coincides with spiritual or good things.
   - Hearing voices that oppose God or His values.
-  - An obsession with committing the "unpardonable sin" in [Mark 3:29](https://biblehub.com/mark/3-29.htm) (blaspheming the Holy Spirit is simply rejecting the Holy Spirit's work [that comes through Christ](/gospel/)).
+  - An obsession with committing the "unpardonable sin" in [Mark 3:29](https://biblehub.com/mark/3-29.htm) (blaspheming the Holy Spirit is simply rejecting the Holy Spirit's work [that comes through Christ](jesus-gospel.md)).
 
 D. Test the spirits:
 
@@ -209,7 +209,7 @@ Pray for God to give you direct understanding of the truth:
 
 Most of the Satan's victories in Christians come through unforgiveness:
 
-- [Forgiveness](https://adequate.life/happiness-2/) isn't forgetting; it's choosing to submit the will.
+- [Forgiveness](happiness-stress.md) isn't forgetting; it's choosing to submit the will.
 - Forgiveness agrees to live with the consequences of another person's sin, and requires us to pay for the evil we've suffered from someone else.
 - Forgiveness only comes from the heart, so openly acknowledge the hurt and hatred you're [feeling](mind-feelings.md).
 
@@ -226,11 +226,11 @@ Pray for the ability to forgive:
 
 Rebellion can be against many authority figures:
 
-- [Government authorities](https://gainedin.site/rule-methods/) ([Romans 13:1-5](https://biblehub.com/bsb/romans/13.htm), [1 Timothy 2:1-4](https://biblehub.com/bsb/1_timothy/2.htm), [1 Peter 2:13-16](https://biblehub.com/bsb/1_peter/2.htm))
-- [Parents](https://adequate.life/parenting-3/) ([Ephesians 6:1-3](https://biblehub.com/bsb/ephesians/6.htm))
-- [Husband](https://adequate.life/relationships/) ([1 Peter 2:1-2](https://biblehub.com/bsb/1_peter/2.htm))
-- [Employer](https://adequate.life/jobs-1/) ([1 Peter 2:18-21](https://biblehub.com/bsb/1_peter/2.htm))
-- [Church leaders](/leadership/) ([Hebrews 13:17](https://biblehub.com/hebrews/13-17.htm))
+- [Government authorities](rules-methods.md) ([Romans 13:1-5](https://biblehub.com/bsb/romans/13.htm), [1 Timothy 2:1-4](https://biblehub.com/bsb/1_timothy/2.htm), [1 Peter 2:13-16](https://biblehub.com/bsb/1_peter/2.htm))
+- [Parents](parenting-3_teenagers.md) ([Ephesians 6:1-3](https://biblehub.com/bsb/ephesians/6.htm))
+- [Husband](relationships-3_marriage.md) ([1 Peter 2:1-2](https://biblehub.com/bsb/1_peter/2.htm))
+- [Employer](jobs-1_why.md) ([1 Peter 2:18-21](https://biblehub.com/bsb/1_peter/2.htm))
+- [Church leaders](mgmt-church.md) ([Hebrews 13:17](https://biblehub.com/hebrews/13-17.htm))
 
 Ask for God's forgiveness for your rebellion:
 
@@ -313,7 +313,7 @@ Pray to renounce specific sins against the body:
   - Confess that you didn't assume managing the life God trusted to you and ask for forgiveness.
   - Choose to accept His forgiveness by forgiving yourself.
   - Commit that child to God for His care in eternity.
-- [Suicidal tendencies](https://adequate.life/hardship-personal/)
+- [Suicidal tendencies](hardship-worthlessness.md)
   - Renounce the lie that you can find peace and freedom by taking your life.
   - Affirm that the Satan is a thief who comes to steal, kill, and destroy.
   - Declare Christ, who said He came to give you life and to give it abundantly.
@@ -324,7 +324,7 @@ Pray to renounce specific sins against the body:
   - Accept the reality that you may have sin present in you because of the lies you've believed and the wrong use of your body.
   - Renounce the lie that you are evil or that any part of your body is evil.
   - Announce the truth that you are fully accepted by Christ just as you are.
-- [Substance abuse](https://adequate.life/substances/)
+- [Substance abuse](addiction-substances.md)
   - Confess that you have misused substances (alcohol, tobacco, food, prescription/street drugs) for pleasure, escaping reality or coping with stressful situations.
   - Affirm how it's resulted in abusing your body, harmfully programming your mind, and suppressing the Holy Spirit.
   - Ask His forgiveness and renounce any satanic connection or influence in your life through your misuse of chemicals or food.
@@ -364,7 +364,7 @@ Pray to God for cleansing:
 - Commit yourself to renew your mind to prove that His will is good, perfect, and acceptable for you.
 - Pray it all in the name and authority of the Lord Jesus Christ.
 
-Maintain [prayer rituals](/exercises/) that reinforce your relationship with Him.
+Maintain [prayer rituals](spiritual-exercises.md) that reinforce your relationship with Him.
 
 Make a daily prayer to Him:
 
@@ -418,8 +418,8 @@ Pray specifically over your room:
 
 ## The Satan won't stop
 
-Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](/prayer/) and keep [removing sins](/sins/) ([Luke 11:24-26](https://biblehub.com/bsb/luke/11.htm)).
+Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](spiritual-exercises-prayer.md) and keep [removing sins](morality-sins.md) ([Luke 11:24-26](https://biblehub.com/bsb/luke/11.htm)).
 
-We must [contend with him](/demon-tricks/) until [the day Jesus comes back](/jesus-returns/).
+We must [contend with him](spiritual-warfare-tricks.md) until [the day Jesus comes back](jesus-returns.md).
 
 However, we will prevail if we are His children, and the Satan can't stop it ([1 John 4:4](https://biblehub.com/1_john/4-4.htm), [1 John 5:4](https://biblehub.com/1_john/5-4.htm))

@@ -1,5 +1,5 @@
 
-These are a collection of specific, simple-enough [hacks](/hacking/) that anyone can do.
+These are a collection of specific, simple-enough [hacks](hacking.md) that anyone can do.
 
 ## Email-to-SMS
 
@@ -135,7 +135,7 @@ Context Menu
   - HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
   - HKEY_CLASSES_ROOT\AllFileSystemObjects\ShellEx
   - NOTE: Rename the (Default) key to something else (e.g., add a few dashes), or simply delete.
-- Add "New [markdown](/esoterica-markdown/) file" to context menu
+- Add "New [markdown](markdown.md) file" to context menu
   - HKEY_CLASSES_ROOT\.md\(Default) = markdown
   - HKEY_CLASSES_ROOT\.md\ShellNew\NullFile
   - HKEY_CLASSES_ROOT\markdown\(Default) = Markdown Document

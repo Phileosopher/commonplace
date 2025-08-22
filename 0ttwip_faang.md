@@ -1,9 +1,9 @@
 
 NOTE: I'm not a journalist, and my citations are neither exhaustive nor comprehensive. The infractions go back farther than I'm writing here, and they will go farther into the future than I'll ever write. This is just to show the scope within a window of time as someone in the "biz" about what I've run across, and for brevity's sake I cut off the news at the end of 2023.
 
-[Hackers](/hacking/) aren't the only groups that individual users should be concerned about. Large organizations have tremendous information power.
+[Hackers](hacking.md) aren't the only groups that individual users should be concerned about. Large organizations have tremendous information power.
 
-Since the beginning of [the American Military-Industrial Complex](https://notageni.us/here/) focusing on [decrypting](/encryption/) German submarines in World War II, the complexity of computers has meant there have always been [huge, monolithic organizations](https://gainedin.site/groups-large/) that design most of the software/hardware. Then, a horde of various smaller public and private organizations design smaller things around it or create [open-source alternatives](/floss/):
+Since the beginning of [the American Military-Industrial Complex](https://gainedin.site/here-2/) focusing on [decrypting](encryption.md) German submarines in World War II, the complexity of computers has meant there have always been [huge, monolithic organizations](groups-large.md) that design most of the software/hardware. Then, a horde of various smaller public and private organizations design smaller things around it or create [open-source alternatives](legal-ip-floss.md):
 
 - In the 1960s, everyone called the big players "Big Blue and the Seven Dwarves", with the computer industry run by 8 companies:
   - IBM ("Big Blue")
@@ -12,18 +12,18 @@ Since the beginning of [the American Military-Industrial Complex](https://notage
   - [Control Data](https://web.archive.org/web/20210812061630/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-three-control-data/) (which split up and part of it becoming Ceridian)
   - [Honeywell](https://web.archive.org/web/20211126055223/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-four-honeywell/) (which suffered many strange changes of ownership and is no longer in the general-purpose computer business)
   - [General Electric](https://web.archive.org/web/20210824194943/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-five-ge/) (which sold its computer-based business to Honeywell)
-  - [RCA](https://web.archive.org/web/20220120124729/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-six-rca/) (who got out of computers altogether and focused strictly on [radio](/radio/) technology)
+  - [RCA](https://web.archive.org/web/20220120124729/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-six-rca/) (who got out of computers altogether and focused strictly on [radio](radio.md) technology)
   - [NCR](https://web.archive.org/web/20210930081728/http://www.dvorak.org/blog/ibm-and-the-seven-dwarfs-dwarf-seven-ncr/) (which was bought out by AT&T and then spun off again)
 - In the 1970s, the government broke up AT&T in an antitrust lawsuit. A few years later, Microsoft signed a non-exclusive contract with IBM and happened to sit in that power vacuum. As the company gained control, he continued to use fierce monopolistic tactics to drive out or absorb competitors, and Microsoft practically owned the market through the 1990s and 2000s. They practically destroyed the shareware industry in the process, and most Microsoft Windows features that most users take for granted were blatantly copied from third-party utilities. Microsoft famously [had to pay Apple $150 million for stealing code for Apple's QuickTime](https://web.archive.org/web/20160304134720/https://thisdayintechhistory.com/12/06/apple-sues-over-quicktime/).
-- During the dot-com boom in the 1990s, computers shifted to becoming [internet](/web-dev/)-centric, and a few tech companies rose to the top in their respective specializations once mobile devices became ubiquitous. in the mid-1990's, Microsoft almost entirely used Internet Explorer 6 to turn the internet into a Microsoft-themed walled garden.
+- During the dot-com boom in the 1990s, computers shifted to becoming [internet](computers-webdev.md)-centric, and a few tech companies rose to the top in their respective specializations once mobile devices became ubiquitous. in the mid-1990's, Microsoft almost entirely used Internet Explorer 6 to turn the internet into a Microsoft-themed walled garden.
 - After the dot-com crash, FAANG emerged after a decade: Facebook/Meta, Apple, Amazon, Netflix, and Google/Alphabet, but other companies like Tencent (owned by China) and Microsoft still fit into it as well.
 - Given the tremendous power that comes from all the data extraction, governments can often fit into this as well, so this issue isn't strictly a matter of corporate power.
 - Lately, the acronym is more accurately Facebook/Apple/Microsoft/Amazon/Government, or FAMAG.
-- Most recently, in the 2020s, there has been significant public attention toward [privacy](/privacy/), and new [AI technology](/ai/) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
+- Most recently, in the 2020s, there has been significant public attention toward [privacy](computers-cysec-privacy.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
 
 The largest difference between the computers of today and of decades ago (besides processing speed) comes in how networked they all are. Up to the internet becoming popular, computers were stand-alone, so the information couldn't be used as quickly, and often required physically inserting a disk into the computer. Now, the computers are all linked together, communicating exponentially more information, and *constantly*.
 
-The story with Microsoft [isn't entirely over](https://web.archive.org/web/20210903220336/http://ecis.eu/documents/Finalversion_Consumerchoicepaper.pdf), either. There was [irrefutable evidence in 1998 that Microsoft was suppressing competition](https://web.archive.org/web/20220121071930/https://en.wikipedia.org/wiki/Halloween_documents) with a [Court's Findings of Fact in 1999](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact) and [a full-on antitrust case in 2001](https://web.archive.org/web/20131109175337/https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), but the company was never formally broken up. To this day, they're still trying to affect the [open-source](/floss/) industry adversely with things like [walling off the Hot Reload feature in non-proprietary versions of .NET as of 2021](https://web.archive.org/web/20220205053209/https://dusted.codes/can-we-trust-microsoft-with-open-source).
+The story with Microsoft [isn't entirely over](https://web.archive.org/web/20210903220336/http://ecis.eu/documents/Finalversion_Consumerchoicepaper.pdf), either. There was [irrefutable evidence in 1998 that Microsoft was suppressing competition](https://web.archive.org/web/20220121071930/https://en.wikipedia.org/wiki/Halloween_documents) with a [Court's Findings of Fact in 1999](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact) and [a full-on antitrust case in 2001](https://web.archive.org/web/20131109175337/https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), but the company was never formally broken up. To this day, they're still trying to affect the [open-source](legal-ip-floss.md) industry adversely with things like [walling off the Hot Reload feature in non-proprietary versions of .NET as of 2021](https://web.archive.org/web/20220205053209/https://dusted.codes/can-we-trust-microsoft-with-open-source).
 
 * * * * *
 
@@ -32,22 +32,22 @@ The story with Microsoft [isn't entirely over](https://web.archive.org/web/20210
 Most of the power of huge private organizations comes through a few harmonizing realities:
 
 1. The invention of [the corporation](https://gainedin.site/here/) over a century ago, which is a legally living thing that never technically dies and can hold assets forever for tax reasons.
-2. These corporations have accrued *tons* of [power](https://gainedin.site/power-types/), often before anyone presently alive was born.
+2. These corporations have accrued *tons* of [power](power-types.md), often before anyone presently alive was born.
 3. The business entities gain ever-more power through many, many mergers and acquisitions (e.g., [2021-08 AT&T presently owns many, many entities](https://web.archive.org/web/20210817095525/https://en.wikipedia.org/wiki/Category:AT%26T_subsidiaries), Facebook/Meta presently owns Instagram and WhatsApp).
 
-This is ongoing while antitrust litigation interprets favorably to allow large corporations to continuously merge and acquire without regulation. Many of them are [now as powerful as small countries](https://gainedin.site/country/).
+This is ongoing while antitrust litigation interprets favorably to allow large corporations to continuously merge and acquire without regulation. Many of them are [now as powerful as small countries](politics-monopolies.md).
 
 Generally, gigantic all-powerful industry players persist in the USA because the definition has loosely been defined as *acting* against smaller competitors.
 
-As long as the organizations have [competition with other organizations](https://gainedin.site/country/), there aren't any issues. Any government oversight needs contrasting oversight of *those* oversight-holders (i.e., "Who will watch the watchers?").
+As long as the organizations have [competition with other organizations](politics-monopolies.md), there aren't any issues. Any government oversight needs contrasting oversight of *those* oversight-holders (i.e., "Who will watch the watchers?").
 
-In practice, the only thing a government can do is stop or break up monopolies. Further litigation can create [crony capitalism](https://gainedin.site/bad-systems/) by preventing other new startups to enter that domain.
+In practice, the only thing a government can do is stop or break up monopolies. Further litigation can create [crony capitalism](mgmt-badsystems.md) by preventing other new startups to enter that domain.
 
 In technology industries specifically, antitrust litigation is more difficult than normal because the definition of "monopoly" is very difficult to pin down, even if you simply say "over X% control of an industry":
 
 - Google, for example, does *not* consider themselves a monopoly because they define their industry as the information market, and they certainly don't own more than 5% of all human information.
-- With the right angle, entire *industries* are difficult to clarify. Even if Amazon controls 90% of all [web servers](/enterprise/), is it a monopoly when someone else can theoretically [spin up their own](/enterprise/)?
-- More specialized technology means more capacity to gain complete dominance. For example, in a classical sense most social media is a feed-based [database](/database/), with granted [permissions](/authentication/) being defined as following/subscribing/friends.
+- With the right angle, entire *industries* are difficult to clarify. Even if Amazon controls 90% of all [web servers](computers-distsys-enterprise.md), is it a monopoly when someone else can theoretically [spin up their own](computers-distsys-enterprise.md)?
+- More specialized technology means more capacity to gain complete dominance. For example, in a classical sense most social media is a feed-based [database](database.md), with granted [permissions](computers-cysec-authentication.md) being defined as following/subscribing/friends.
 
 A few examples of the results of this power consolidation:
 
@@ -73,9 +73,9 @@ Very often, apps/programs have built-in features that collect information the us
 - "Trackers" designed to collect specific targeted data (e.g., geographical location, phone call length).
 - Elevated "permissions" about pretty much anything (recording video, writing to external storage, etc.).
 
-While much of the collected data is necessary for [debugging](/software-redesign/), the organization collecting it can abuse it, especially if the user doesn't conform to the same social/political views as that app's organization.
+While much of the collected data is necessary for [debugging](computers-software-redesign.md), the organization collecting it can abuse it, especially if the user doesn't conform to the same social/political views as that app's organization.
 
-Generally, the larger and more powerful the organization and the more features the software has, the more trackers and permissions it'll ask for. Unfortunately, many [operating systems](/os/) design software permissions as opt-in with no timeout, so that one time you use a voice recording feature may mean the organization will track everything you say for the functional life of the device.
+Generally, the larger and more powerful the organization and the more features the software has, the more trackers and permissions it'll ask for. Unfortunately, many [operating systems](computers-os.md) design software permissions as opt-in with no timeout, so that one time you use a voice recording feature may mean the organization will track everything you say for the functional life of the device.
 
 Most countries around the world [have their systems](https://en.wikipedia.org/wiki/Global_surveillance) to monitor everyone's activities, and they can often use that information in their governance:
 
@@ -92,7 +92,7 @@ Most countries around the world [have their systems](https://en.wikipedia.org/wi
   - [2023-12 Multiple governments use Apple and Google push notifications to spy on users](https://web.archive.org/web/20231207132345/https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/).
   - [2023-12 Every major pharmacy chain gives the government warrantless access to medical records](https://web.archive.org/web/20241224153027/https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/).
 - US
-  - A key aspect of the history of [encryption](/encryption/), the Enigma machine, is the basis for [the first major surveillance by the USA](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data).
+  - A key aspect of the history of [encryption](encryption.md), the Enigma machine, is the basis for [the first major surveillance by the USA](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data).
   - [2013-09 The NSA staff will spy on ex-lovers and spouses with the information they've gathered](https://web.archive.org/web/20171028232806/http://www.reuters.com/article/us-usa-surveillance-watchdog/nsa-staff-used-spy-tools-on-spouses-ex-lovers-watchdog-idUSBRE98Q14G20130927).
   - In 2020, [US citizens were given "COVID decree scores" during the first few months of the COVID-19 lockdown](https://web.archive.org/web/20221025185443/https://reclaimthenet.org/us-analytics-firm-covid-19-decree-violation-scores/).
   - [2022-02 The CIA has been collecting *tons* of individual citizens' private information, and it's unclear how much they have](https://web.archive.org/web/20220212214337/https://www.wyden.senate.gov/news/press-releases/wyden-and-heinrich-newly-declassified-documents-reveal-previously-secret-cia-bulk-collection-problems-with-cia-handling-of-americans-information).
@@ -138,7 +138,7 @@ As time goes on and technologies improve, it becomes increasingly trivial for la
 
 ### E2E
 
-One of the best ways to stay private is using end-to-end [encryption](/encryption/), which means only the sender and intended recipient can see the content. This means anyone who intercepts or holds it (e.g., the company that holds the [cloud storage](/cloud/), a government official) won't be able to see what it is. Many entities don't like this:
+One of the best ways to stay private is using end-to-end [encryption](encryption.md), which means only the sender and intended recipient can see the content. This means anyone who intercepts or holds it (e.g., the company that holds the [cloud storage](computers-distsys-cloud.md), a government official) won't be able to see what it is. Many entities don't like this:
 
 - US Government
   - [2019-10 Attorney General William Barr sent a letter saying Facebook shouldn't implement E2E](https://web.archive.org/web/20191004011819/https://www.justice.gov/opa/pr/attorney-general-barr-signs-letter-facebook-us-uk-and-australian-leaders-regarding-use-end).
@@ -163,7 +163,7 @@ One of the best ways to stay private is using end-to-end [encryption](/encryptio
   - [2021-08 To combat "child exploitation", Apple is scanning all photos in iCloud and iMessage](https://web.archive.org/web/20210805200210/https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life), and [their system is very dangerous](https://web.archive.org/web/20220404041058/https://www.washingtonpost.com/opinions/2021/08/19/apple-csam-abuse-encryption-security-privacy-dangerous/) to where [thousands of people are concerned about it](https://web.archive.org/web/20210806102044/https://appleprivacyletter.com/). This is especially egregious considering how [they signaled their anti-tracking measures a few months prior](https://web.archive.org/web/20210108161415/https://foundation.mozilla.org/en/campaigns/apples-anti-tracking-plans-iphone/).
   - [2021-12 Many companies use spyware services like Drata to arbitrarily surveil employees](https://news.ycombinator.com/item?id=29588054).
 
-There's plenty of reason for governments to rally support for their cause, so they'll [distort the truth](https://gainedin.site/image-distortion/) and shut down E2E as much as they can:
+There's plenty of reason for governments to rally support for their cause, so they'll [distort the truth](image-distortion.md) and shut down E2E as much as they can:
 
 - [2023-04 There are clear attempts by the US and UK to steer public opinion against encryption](https://web.archive.org/web/20230512150524/https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/).
 - [2023-05 India has banned Element, a client for the decentralized Matrix network, along with 13 other messaging apps](https://web.archive.org/web/20230505092909/https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/).
@@ -178,11 +178,11 @@ Large organizations can track *tons* of seemingly unimportant user information. 
 
 Even when an organization doesn't have your name, they will often attach an ID to you. That ID can contain a "shadow profile", which can include all sorts of seemingly private information such as your personal preferences, lifestyle patterns, and political views.
 
-The easiest way to do this (though it's becoming harder) is through small files called "cookies". While most of them can be benign (e.g., you don't have to re-enter your [password](/encryption/) every time you go there) some work across websites and can record anonymized user data of where you went.
+The easiest way to do this (though it's becoming harder) is through small files called "cookies". While most of them can be benign (e.g., you don't have to re-enter your [password](encryption.md) every time you go there) some work across websites and can record anonymized user data of where you went.
 
-Private organizations can often customize an algorithm to created personalized targeted [advertising](http://notageni.us/marketing/) by cross-referencing your interests to find other interests that people like you have liked. Simply permitting an app to access your contacts is enough for them to create a [social graph](/data-structures/) of you and everyone you know.
+Private organizations can often customize an algorithm to created personalized targeted [advertising](marketing.md) by cross-referencing your interests to find other interests that people like you have liked. Simply permitting an app to access your contacts is enough for them to create a [social graph](data-structures.md) of you and everyone you know.
 
-Those systems can be terrifyingly accurate across millions of people, and with a [surprisingly small amount of information](https://web.archive.org/web/20220219225855/https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles). They can essentially tailor behaviors to 3-5 people they know who are just like you, then provide a precisely tailored [marketing experience](https://notageni.us/marketing/) that works to their best interests.
+Those systems can be terrifyingly accurate across millions of people, and with a [surprisingly small amount of information](https://web.archive.org/web/20220219225855/https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles). They can essentially tailor behaviors to 3-5 people they know who are just like you, then provide a precisely tailored [marketing experience](marketing.md) that works to their best interests.
 
 There is [a multi-*billion* dollar industry for this user data](https://web.archive.org/web/20210930121000/https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data), so the allure to sell it is too much for most companies to turn down:
 
@@ -244,7 +244,7 @@ There is [a multi-*billion* dollar industry for this user data](https://web.arch
   - [2022-06 Google no longer lists the required privacy settings for Google Play Store apps anymore](https://news.ycombinator.com/item?id=31698148).
 - Academia
   - [2021-05 60% of school apps are sharing user data to unknown recipients](https://web.archive.org/web/20210504122807/https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/).
-  - [2021-02 Eproctoring is highly invasive and biased](https://web.archive.org/web/20210210023554/https://www.baneproctoring.com/), and online exam software like [ProctorU](https://web.archive.org/web/20211109123611/https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/) and [Respondus](https://web.archive.org/web/20210908204840/https://privacymatters.today/) are highly invasive [spyware](/malware/).
+  - [2021-02 Eproctoring is highly invasive and biased](https://web.archive.org/web/20210210023554/https://www.baneproctoring.com/), and online exam software like [ProctorU](https://web.archive.org/web/20211109123611/https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/) and [Respondus](https://web.archive.org/web/20210908204840/https://privacymatters.today/) are highly invasive [spyware](computers-cysec-malware.md).
 - ByteDance
   - [2022-02 TikTok is sharing more data than any other social media company, and the public doesn't know where it goes](https://web.archive.org/web/20220210141336/https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html).
   - [2022-03 Tracking pixels show up in other non-TikTok websites, such as UberEats](https://news.ycombinator.com/item?id=30579320).
@@ -257,7 +257,7 @@ There is [a multi-*billion* dollar industry for this user data](https://web.arch
   - [2023-04 Microsoft leaks Edge browser data to Bing search](https://web.archive.org/web/20230425164326/https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy).
   - [2023-06 Microsoft Edge sends photos to Microsoft automatically for AI-enhanced "super resolution"](https://web.archive.org/web/20230612105910/https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/).
 - Other companies often can't resist themselves either:
-  - Avast (the [antivirus](/malware/) company) is [tracking users' entire web history as of 2020](https://web.archive.org/web/20200501123622/https://palant.info/2019/10/28/avast-online-security-and-avast-secure-browser-are-spying-on-you/).
+  - Avast (the [antivirus](computers-cysec-malware.md) company) is [tracking users' entire web history as of 2020](https://web.archive.org/web/20200501123622/https://palant.info/2019/10/28/avast-online-security-and-avast-secure-browser-are-spying-on-you/).
   - [2020-02 Wacom drawing tablets send application data to Google for the entire laptop they're connected to](https://web.archive.org/web/20211220082137/https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/).
   - [2020-10 Dropbox telemetry can't be disabled](https://web.archive.org/web/20230427083033/https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3).
   - [2021-02 Disqus is a comment system that injects third-party trackers and sells visitors' data](https://web.archive.org/web/20210205042131/https://supunkavinda.blog/disqus).
@@ -291,7 +291,7 @@ However, they don't want you observing them doing it:
 
 ### Data mining
 
-Occasionally, an organization will abuse private individuals' trust by using their computers' resources without [permission](https://notageni.us/contracts/) for their use. The most profitable purpose for this is [cryptocurrency](/blockchain/) mining by running the [CPU](/cpu/) at full speed even when the user isn't using their computer, though [AI](/ai/) can also function for that purpose:
+Occasionally, an organization will abuse private individuals' trust by using their computers' resources without [permission](people-contracts.md) for their use. The most profitable purpose for this is [cryptocurrency](computers-blockchain.md) mining by running the [CPU](computers-cpu.md) at full speed even when the user isn't using their computer, though [AI](computers-ai.md) can also function for that purpose:
 
 - [2015-03 uTorrent has silently been installing Bitcoin mining software with its torrent downloader](https://web.archive.org/web/20170725164856/http://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825).
 - [2021-12 Norton is installing Norton Crypto with its antivirus software, a crypto miner](https://web.archive.org/web/20211231181211/https://twitter.com/mAxius/status/1476968324672204801).
@@ -299,7 +299,7 @@ Occasionally, an organization will abuse private individuals' trust by using the
 
 ### AI training
 
-Microsoft has found another alternative use of user data through GitHub Copilot [since 2021](https://web.archive.org/web/20210709152026/https://twitter.com/NoraDotCodes/status/1412741339771461635). By funneling *all* the code stored in its [Git libraries](/version-control/), it regurgitates that code through an [AI algorithm](/ai/) (often [copyright-protected](https://notageni.us/ip/) or [GPL](/floss/)) then [charges for the service](https://web.archive.org/web/20220621162350/https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/). It violates copyright and intellectual property law proportionally to how much AI-generated content inspired by copyrighted works is lawful.
+Microsoft has found another alternative use of user data through GitHub Copilot [since 2021](https://web.archive.org/web/20210709152026/https://twitter.com/NoraDotCodes/status/1412741339771461635). By funneling *all* the code stored in its [Git libraries](computers-software-versionctrl.md), it regurgitates that code through an [AI algorithm](computers-ai.md) (often [copyright-protected](legal-ip.md) or [GPL](legal-ip-floss.md)) then [charges for the service](https://web.archive.org/web/20220621162350/https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/). It violates copyright and intellectual property law proportionally to how much AI-generated content inspired by copyrighted works is lawful.
 
 - [2021-07 The source code for the licensed video game Quake was fully copied, including the swearing in the comments](https://web.archive.org/web/20210702090143/https://twitter.com/mitsuhiko/status/1410886329924194309).
 - [2022-10 This developer's database code was directly cloned](https://web.archive.org/web/20221016164431/https://twitter.com/DocSparse/status/1581461734665367554).
@@ -326,9 +326,9 @@ It's worth noting that machine learning can provide a whole new plethora of tool
 Powerful organizations don't like a few things:
 
 - Threats to that organization's power (or that organization's partners' power).
-- Differing [political views](https://gainedin.site/power-types/) that may work against the desires of that organization.
+- Differing [political views](power-types.md) that may work against the desires of that organization.
 
-If you trust large organizations on the presumption that "larger is more secure", don't be surprised when you face tremendous banning/blocking/silencing. They'll very frequently create [horrifying bureaucratic automated systems](https://gainedin.site/bad-systems/) to enforce those policies, where there's little to no chance for individuals to question or appeal their unique situation without public defamation on social media:
+If you trust large organizations on the presumption that "larger is more secure", don't be surprised when you face tremendous banning/blocking/silencing. They'll very frequently create [horrifying bureaucratic automated systems](mgmt-badsystems.md) to enforce those policies, where there's little to no chance for individuals to question or appeal their unique situation without public defamation on social media:
 
 - Multiple
   - [2021-01 Twitter has suspended Sci-Hub's Twitter account](https://twitter.com/Sci_Hub), and [in 2022 the US government has gotten access to its founder's Apple account](https://web.archive.org/web/20220105123249/https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/).
@@ -428,7 +428,7 @@ Further, those organizations (both public *and* private), when large and powerfu
 
 ## Cyber-coercion
 
-They'll also use systems like [dark patterns](/ux-ui/) and tailored data to promote things that people wouldn't normally choose.
+They'll also use systems like [dark patterns](design-uxui.md) and tailored data to promote things that people wouldn't normally choose.
 
 There are different versions of this:
 
@@ -438,7 +438,7 @@ There are different versions of this:
 
 Another mechanism to manipulate the situation is to prevent net neutrality:
 
-1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](/networks/).
+1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](networks-computer.md).
 2. Software *in the computer itself* should monitor that information for risks (i.e., layers 5 and up).
 3. Internet service providers are giving the lowest network layers (i.e., levels up to 4), so they shouldn't monitor that information.
 4. However, there is plenty of political incentive to allow prioritized web traffic for some websites over others.
@@ -576,7 +576,7 @@ There are many examples of this:
   - [2023-09 Unity has silently deleted the GitHub repository that tracks changes to its terms of service](https://web.archive.org/web/20230914081708/https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/).
   - [2023-11 Chamberlain Group is removing MyQ support from their garage doors, meaning the open-source Home Assistant won't work with their products](https://web.archive.org/web/20231109014546/https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/).
 
-Large organizations will also often try to draw more money out of people and abuse or misuse [intellectual property](https://notageni.us/ip/) rights beyond any [just](morality-justice.md) or sensible measure:
+Large organizations will also often try to draw more money out of people and abuse or misuse [intellectual property](legal-ip.md) rights beyond any [just](morality-justice.md) or sensible measure:
 
 - Government - USA
   - [2021-09 The FBI has made completely false allegations about safe deposit box holders to take their assets](https://web.archive.org/web/20210919234653/https://www.latimes.com/california/story/2021-09-19/fbi-seizure-cash-beverly-hills-vault-spawns-epic-court-battle), [they haven't explained themselves](https://web.archive.org/web/20220726192847/https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/), and [this is a general issue with civil forfeiture](https://web.archive.org/web/20210901171806/https://ij.org/press-release/highway-robbery-in-reno-nevada-cops-use-civil-forfeiture-to-steal-a-veterans-life-savings/).
@@ -621,7 +621,7 @@ Large organizations will also often try to draw more money out of people and abu
   - [2022-12 Stripe's pricing model appears to be simple, but it uses 20 other products that make the pricing system arcane and likely pricier than it may appear](https://web.archive.org/web/20221205105045/https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer).
   - [2023-01 Twilio tends to perform toll-fraud, then hide behind their terms of service if customers complain](https://archive.is/20230105203837/https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243).
 
-Further, [AI](/ai/) and [machine learning](/ml/) give even *more* opportunities to [distort the truth](https://gainedin.site/image-distortion/):
+Further, [AI](computers-ai.md) and [machine learning](computers-ai-ml.md) give even *more* opportunities to [distort the truth](image-distortion.md):
 
 - [2023-05 Some wrestlers in India were detained by Delhi police, but their photos were adapted by AI to appear like they were smiling](https://web.archive.org/web/20230529115146/https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/).
 
@@ -637,16 +637,16 @@ One closely connected aspect, beyond gathering data, is making more money throug
 
 This is a [scientifically proven trend with electronics](https://web.archive.org/web/20200303095638/https://www.endseurope.com/article/1646040/electronic-goods-life-spans-shrinking-study-indicates). For example, [Western Digital budget hard drives are arbitrarily slowed-down by up to 50% as of 2021](https://web.archive.org/web/20210826122849/https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/).
 
-Computer owners can push back on this by learning [how to replace parts](https://notageni.us/fix/), meaning an aftermarket battery or hard drive can often make devices last *years* beyond when the company wants them to buy another product.
+Computer owners can push back on this by learning [how to replace parts](https://adequate.life/fix/), meaning an aftermarket battery or hard drive can often make devices last *years* beyond when the company wants them to buy another product.
 
-Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](https://gainedin.site/boundaries/) to repair" by inserting arbitrary barriers to the product:
+Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](people-boundaries.md) to repair" by inserting arbitrary barriers to the product:
 
 - General
-  - Electronics used to come with schematics and documentation, but most modern electronics don't have any guidance for working with the [hardware components](/computer/) or bare-metal [OS](/os/).
+  - Electronics used to come with schematics and documentation, but most modern electronics don't have any guidance for working with the [hardware components](computers-hardware.md) or bare-metal [OS](computers-os.md).
   - Most modern smartphones have the OS configured to prevent completely wiping and repurposing the phone as a small computer.
   - Replacement parts are sometimes impossible to get because of various proprietary features that the company will arbitrarily change for each product they distribute.
   - Many times, the hardware can only be accessed directly by the vendor (e.g., Apple iPhones, CAT equipment).
-  - Other times, the hardware requires very specialized, expensive tools that the vendor sells (e.g., [cars](https://notageni.us/autos/)).
+  - Other times, the hardware requires very specialized, expensive tools that the vendor sells (e.g., [cars](autos.md)).
   - [2021-03 Farm equipment manufacturers require their equipment to need constant maintenance, and they'll sell the sensor data while they're servicing the tractors](https://web.archive.org/web/20210325232418/https://arstechnica.com/gadgets/2021/03/the-fairphone-2-hits-five-years-of-updates-with-some-help-from-lineageos/).
   - [2021-06 Microcode updates can silently change the performance of computer CPUs](https://web.archive.org/web/20210621225042/https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html).
   - [2022-08 Consumer devices are designed to die within 3-4 years](https://web.archive.org/web/20220807083948/https://www.washingtonpost.com/technology/2022/08/02/why-gadgets-die/).
@@ -677,7 +677,7 @@ Since the consumers aren't making large companies any money by doing this, they 
   - [2022-05 To prevent a downgrade, Nintendo permanently blows the fuses of its Switch gaming consoles](https://web.archive.org/web/20220504201800/https://blog.jonlu.ca/posts/nintendo-switch).
   - [2022-06 Brother printers are now locking out non-Brother-approved printer cartridges](https://news.ycombinator.com/item?id=31860131).
 
-This makes general sense about why people accept this situation. As computers get [cheaper and smaller](/pi-arduino/), they become more commodities than tools. However, it means people can't repair their things, meaning that companies can ratchet up prices with consumers being stuck either paying for it or living without it. It also means it creates more waste.
+This makes general sense about why people accept this situation. As computers get [cheaper and smaller](computers-embedded.md), they become more commodities than tools. However, it means people can't repair their things, meaning that companies can ratchet up prices with consumers being stuck either paying for it or living without it. It also means it creates more waste.
 
 Some companies are taking political action to prevent the Right to Repair:
 
@@ -686,7 +686,7 @@ Some companies are taking political action to prevent the Right to Repair:
 - [2023-09 California is now requiring vendors, not distributors, to provide up to 3 or 7 years' worth of parts, tools, repair manuals, and software](https://web.archive.org/web/20230916123951/https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/).
 - [2023-09 Tesla and Rivian are signaling they support the right to repair, but aren't doing anything to prove it](https://web.archive.org/web/20230903200801/https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/).
 
-A few companies have pivoted the other way to compensate for failings in the Right to Repair (mostly Apple), but their size makes their actions potentially [image](https://gainedin.site/image-distortion-methods/)-based:
+A few companies have pivoted the other way to compensate for failings in the Right to Repair (mostly Apple), but their size makes their actions potentially [image](image-distortion.md)-based:
 
 - [2022-01 Apple is now providing self-service repair parts, tools, and manuals](https://web.archive.org/web/20220104114020/https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/).
 - [2022-08 Apple now permits Mac notebooks to be self-repaired](https://web.archive.org/web/20220822125820/https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/).
@@ -700,7 +700,7 @@ A few companies have pivoted the other way to compensate for failings in the Rig
 
 ## Incompetence
 
-Of course, large organizations are made of many people, and humanity is prone to fallacy. Sometimes, things fall through the cracks in [large, unwieldy systems](https://gainedin.site/bad-systems/) with zero malicious intent:
+Of course, large organizations are made of many people, and humanity is prone to fallacy. Sometimes, things fall through the cracks in [large, unwieldy systems](mgmt-badsystems.md) with zero malicious intent:
 
 - Multiple Large Entities
   - [2021-05 Apple, its security contractor SIS, and the police wrongly handled a case with Apple's facial recognition, which was used in court to wrongly accuse Ousmane Bah](https://web.archive.org/web/20210529005443/https://www.theregister.com/2021/05/29/apple_sis_lawsuit/).
@@ -801,5 +801,3 @@ Of course, large organizations are made of many people, and humanity is prone to
   - [2023-01 Heroku may delete your database permanently with no warning](https://news.ycombinator.com/item?id=34598563).
   - [2023-06 An expensive tourist submarine that went missing near the Titanic was operated with a $30 Logitech game pad](https://web.archive.org/web/20230620165941/https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/).
   - [2023-09 Discord arbitrarily deleted a 7-year user for posting innocuous technical information](https://news.ycombinator.com/item?id=37364605).
-
-*Next: [How to Fight Back](/faang-response/)*

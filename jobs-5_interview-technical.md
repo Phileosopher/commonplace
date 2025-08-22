@@ -32,7 +32,7 @@ During the interview, think out loud. It demonstrates that you actually *are* th
 
 System design interviews are another unique aspect of the tech industry, though they're not as ubiquitous as coding challenges.
 
-They'll test your skills at understanding [how programs and systems are designed](computers-software-design.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives), and then answer the questions they give.
+They'll test your skills at understanding [how programs and systems are designed](computers-software-design.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives/), and then answer the questions they give.
 
 Even when you have *tons* of experience designing systems, the interview is testing your ability to articulate how those systems work in [plain language](language.md). It helps to watch videos and read books on those subjects, even with tons of hands-on experience.
 

@@ -3,7 +3,7 @@ Computer coding has a relatively long history compared to most other computer-ba
 
 ## Machine/assembly coding
 
-At its core, programming *could* be machine code: just a bunch of 0s and 1s. But, that's tiresome, and hard to read, so they made [assembly code](/assembly-code/) that's easier to read.
+At its core, programming *could* be machine code: just a bunch of 0s and 1s. But, that's tiresome, and hard to read, so they made [assembly code](programming-assembly.md) that's easier to read.
 
 But, assembly code is *also* tiresome. The computer takes 40 steps to do generally simple things. Plus, because each manufacturer has their rules, not every computer does *quite* the same thing with the same instructions.
 
@@ -17,11 +17,11 @@ But, you can write it on one computer and it'll work *anywhere*, so it's very co
 
 Of course, if you *really* want something applicable everywhere but also close to the hardware, you can't go wrong with the C language. Even though it's technically high-level, some developers find it so close to assembly language that they think it's *low-level* language!
 
-To work with high-level language, programmers usually use an "integrated development environment", or [IDE](/ide/).
+To work with high-level language, programmers usually use an "integrated development environment", or [IDE](computers-software-ide.md).
 
 ## API
 
-Every culture has its [jargon](https://gainedin.site/specialization-cities/), and tech is no exception. One of the most frequently used words is API ("application programming interface").
+Every culture has its [jargon](jobs-specialization.md), and tech is no exception. One of the most frequently used words is API ("application programming interface").
 
 The word API gets thrown around a lot, and it's a buzzword for "the rules that one computer/thing has to follow to interact with another computer/thing".
 
@@ -33,19 +33,19 @@ It's the same way that a steering wheel is the API for a car, and you don't need
 
 ## Constants
 
-A "constant" is something that doesn't move, and computers borrows the word from [algebra](/algebra/). It could be the number 5, the word "blue", the *color* blue, the image of a puppy, or the laughter of a child.
+A "constant" is something that doesn't move, and computers borrows the word from [algebra](math-algebra-cs.md). It could be the number 5, the word "blue", the *color* blue, the image of a puppy, or the laughter of a child.
 
 However, while people treat the *universe itself* as a soft-ish constant, computers don't actually have "constants" outside of numbers. They're emotionless logic machines, so they don't assign philosophical value like us.
 
-The way they're designed, a computer will drop out almost everything unless it can convert to [language](https://gainedin.site/language/) or [math](https://gainedin.site/math/).
+The way they're designed, a computer will drop out almost everything unless it can convert to [language](language.md) or [math](math.md).
 
 To account for uncertain things, computers use variables to define the constants.
 
 ## Variables
 
-The word "variable" *also* has its origins from [algebra](/algebra/). But, in computers, it can be named almost *anything* instead of specific math concepts like "x", "y", or "Δ".
+The word "variable" *also* has its origins from [algebra](math-algebra-cs.md). But, in computers, it can be named almost *anything* instead of specific math concepts like "x", "y", or "Δ".
 
-Programmers tell the computer to grab a piece of [memory](/memory/) and call it whatever they want (within reason):
+Programmers tell the computer to grab a piece of [memory](computers-memory.md) and call it whatever they want (within reason):
 
 - burpNow = 5
 - burpNow = "tires"
@@ -54,7 +54,7 @@ That variable can be whatever value you want, including nothing (aka, "null"). I
 
 - burpNow
 
-An operating system can organize the [memory](/memory/) to make referencing variables easier, programmers don't usually need to know about memory management when they're starting out. They just need to know what variables they're using and what's in the boxes.
+An operating system can organize the [memory](computers-memory.md) to make referencing variables easier, programmers don't usually need to know about memory management when they're starting out. They just need to know what variables they're using and what's in the boxes.
 
 Whenever the programmer wants that variable, the computer can "call" the variable with a "pointer":
 
@@ -72,7 +72,7 @@ Often, variables can point to *other* variables ("dual-pointed variables"):
 
 Dual-pointed variables make managing multiple things with the same original value easier.
 
-Variables are useful, but computers are stupid enough that they need to know beforehand what's in the variable. Thus, engineers created "types" of variable [data](/data/).
+Variables are useful, but computers are stupid enough that they need to know beforehand what's in the variable. Thus, engineers created "types" of variable [data](data.md).
 
 Two common variables in many programming examples are "foo" and "bar" as simple placeholders.
 
@@ -80,7 +80,7 @@ Two common variables in many programming examples are "foo" and "bar" as simple 
 
 ## Syntax
 
-Each computer language (its "syntax") is unique. Thus, while they're *all* [logical](/alu/), they each structure that logic a little differently. Not following syntax rules makes the computer spit out errors, and is a huge part of [debugging](/software-redesign/).
+Each computer language (its "syntax") is unique. Thus, while they're *all* [logical](computers-alu.md), they each structure that logic a little differently. Not following syntax rules makes the computer spit out errors, and is a huge part of [debugging](computers-software-redesign.md).
 
 There's a *general* syntax that span across many of the the languages, but each one has its own quirks. If people are used to a specific language, they'll often hate transitioning to another one strictly because of those quirks.
 
@@ -92,7 +92,7 @@ Depending on the language, spaces and tabs either don't matter or demarcate hier
 
 ### Shortcuts
 
-All [high-level programming is technically a shortcut](/prog/), so since software developers often have to write the same thing repetitively, it makes sense to make *more* shortcuts. Software development is a type of industrious laziness because of this, and they create all sorts of "syntactic sugar" to sweeten the experience of repetitive work.
+All [high-level programming is technically a shortcut](programming-basics.md), so since software developers often have to write the same thing repetitively, it makes sense to make *more* shortcuts. Software development is a type of industrious laziness because of this, and they create all sorts of "syntactic sugar" to sweeten the experience of repetitive work.
 
 *Very* often, programmers tick numbers up or down by one:
 
@@ -110,7 +110,7 @@ Other times, they just want to do basic math and use the new number instead:
 - thatNumber = thatNumber - 5
 - thatNumber = thatNumber * 5
 - thatNumber = thatNumber / 5
-- thatNumber = thatNumber [% 5](/math/)
+- thatNumber = thatNumber [% 5](math-cs.md)
 
 INSTEAD:
 
@@ -129,16 +129,16 @@ If you use one equals sign, you're telling the computer that the variable on the
 So, if you want to see if something is the same, you use the equals sign twice:
 
 - numberValue = 5
-- 5 == numberValue (the computer will give a [Boolean](/logic/) of TRUE)
+- 5 == numberValue (the computer will give a [Boolean](logic-cs.md) of TRUE)
 
-Because of [data types](/data/), there's a *huge* difference between equality (=) and identity (≡). High-level languages like Python and JavaScript are smart enough to convert data types before calculating with it ("type coercion"). But, sometimes you don't want it to do that.
+Because of [data types](data.md), there's a *huge* difference between equality (=) and identity (≡). High-level languages like Python and JavaScript are smart enough to convert data types before calculating with it ("type coercion"). But, sometimes you don't want it to do that.
 
-To prevent the high-level language from automatically changing the data type, you can use "===", "is" or some other variation depending on the [programming language](/langs/):
+To prevent the high-level language from automatically changing the data type, you can use "===", "is" or some other variation depending on the [programming language](computers-languages.md):
 
 - 5 == "5" (returns the Boolean of TRUE)
 - 5 === "5" (returns the Boolean of FALSE)
 
-If a piece of data generally expresses to FALSE because it naturally rounds out to 0, it's "falsy". The values of 0, -0, NaN, undefined, "", false, and null are all falsy values. Otherwise, if the value has something in it, it's "truthy", which can include "0" or "false", an empty [array](/data-structures/), or an empty object.
+If a piece of data generally expresses to FALSE because it naturally rounds out to 0, it's "falsy". The values of 0, -0, NaN, undefined, "", false, and null are all falsy values. Otherwise, if the value has something in it, it's "truthy", which can include "0" or "false", an empty [array](data-structures.md), or an empty object.
 
 Sometimes, you want something to *not* equal each other. NOT is often represented by "!":
 
@@ -157,7 +157,7 @@ Whatever the case, you'll need to comment on the code:
 - ;;;whatever is in here when it
 - #compiles or interprets everything
 
-To make the comments easier to distinguish, the [IDE](/ide/) usually turns the comments gray.
+To make the comments easier to distinguish, the [IDE](computers-software-ide.md) usually turns the comments gray.
 
 There are often single-line and multi-line variants of commenting. If you want to be *really* specific about certain things, you can often write the comments on the same line as the executed code.
 
@@ -165,7 +165,7 @@ There are often single-line and multi-line variants of commenting. If you want t
 
 ## Functions
 
-A function is a like a box of [logical](/logic/) statements that build into a process:
+A function is a like a box of [logical](logic-cs.md) statements that build into a process:
 
 1. Information goes into the function.
 2. The computer follows a bunch of rules to fiddle with the information and "call" more functions.
@@ -179,19 +179,19 @@ Usually, the function in most languages will use brackets to separate ideas like
 
 1. Usually a function label, whatever you want to call it.
    - If a function is "called" from a previous function, it'll often have an underscore in front of it (e.g., "check_scores" will call "_check_scores").
-2. The "arguments" that go into the function, usually closed by brackets. This can include "global variables" (stored in the [operating system's](/os/)[memory](/memory/) "heap") or new, temporary "local variables" (stored in the program's "stack").
+2. The "arguments" that go into the function, usually closed by brackets. This can include "global variables" (stored in the [operating system's](computers-os.md)[memory](computers-memory.md) "heap") or new, temporary "local variables" (stored in the program's "stack").
    - Some functions don't take in arguments and just use "()" instead, which can be useful when you want to do a *lot* of stuff based on another set of conditions.
 3. The things the function does, also usually closed by brackets. If it's a simple function, this one won't be needed.
    - Sometimes the function will "return" out for use later, other times it'll pass information on to something else or "print" the information as output.
 
 There are quite a few mundane functions in nearly *every* high-level language:
 
-- PRINT - spits out information to a screen. It's usually the first thing any programming class teaches. It's called "print" because it *used* to go to a printer before someone attached [screens](/screen/) to computers!
+- PRINT - spits out information to a screen. It's usually the first thing any programming class teaches. It's called "print" because it *used* to go to a printer before someone attached [screens](computers-screen.md) to computers!
 - CONCATENATE - adds multiple strings and other variables together. It's pretty much how a computer can say "You win! 18 points!"
-- Arithmetic functions that perform [math](/math/).
+- Arithmetic functions that perform [math](math-cs.md).
 - Conditional statements, as explained below.
 
-Functions are condensed versions of the [many, many tasks a CPU must do](/cpu/). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](/screen/) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!
+Functions are condensed versions of the [many, many tasks a CPU must do](computers-cpu.md). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](computers-screen.md) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!
 
 * * * * *
 
@@ -209,7 +209,7 @@ Computers are pretty stupid, so variables and functions are case-sensitive. If y
 - tHAt
 - that
 
-A programmer who is [debugging](/software-redesign/) that abomination you made later, however, will kill you. So, to avoid an untimely cessation of a primary organ, programmers agree on naming conventions.
+A programmer who is [debugging](computers-software-redesign.md) that abomination you made later, however, will kill you. So, to avoid an untimely cessation of a primary organ, programmers agree on naming conventions.
 
 There are many awful ways to "define" things:
 
@@ -246,11 +246,11 @@ If you just need to use placeholder variables, most programmers use "foo" and "b
 
 ## Conditional statements
 
-The CPU recognizes [conditional jumps](/cpu/), which form into conditional statements. In short, conditional statements are logical "statements" that run when certain "conditions" are met. This creates "branching" in the instructions to separate the flow into multiple logical outcomes.
+The CPU recognizes [conditional jumps](computers-cpu.md), which form into conditional statements. In short, conditional statements are logical "statements" that run when certain "conditions" are met. This creates "branching" in the instructions to separate the flow into multiple logical outcomes.
 
 When "foo" is 0 and a conditional statement specifies that "foo" must be greater than 2, that statement won't run and the program will advance to the code right after the statement.
 
-Conditional statements run when the [logic](/logic/) is true, represented by a Boolean 1. There are a variety of operators to specify the logic:
+Conditional statements run when the [logic](logic-cs.md) is true, represented by a Boolean 1. There are a variety of operators to specify the logic:
 
 - < less than
 - > greater than
@@ -267,7 +267,7 @@ In one sense, *everything* in programming is merely "if" and "for" loops:
 
 ### Statement types
 
-IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if if it's not true. They don't tend to permit [alternative interpretations](https://gainedin.site/image/) of "true", either.
+IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if if it's not true. They don't tend to permit [alternative interpretations](image.md) of "true", either.
 
 - IF (*statement that must be true*) {
 
@@ -281,7 +281,7 @@ ELSE statements are a catch-all at the end. If, for whatever reason, none of the
 
 It's generally a good practice to always have an ELSE at the end of a function to catch any weird stuff that didn't fit with the rest. Smart hackers can exploit the absence of an ELSE function, since they'll be able to send code *outside* the function without an ELSE condition.
 
-If you want to have *many* IF statements, you can create a type of [demultiplexer](/alu/) with a SWITCH function. It'll break out into case "a", "b", and so on as much as necessary. In this case, the ELSE function is labeled "default:"
+If you want to have *many* IF statements, you can create a type of [demultiplexer](computers-alu.md) with a SWITCH function. It'll break out into case "a", "b", and so on as much as necessary. In this case, the ELSE function is labeled "default:"
 
 Functions are callable, just like variables. Plus, functions can sit inside other functions (function-ception!). This can sometimes get confusing for new programmers.
 
@@ -307,7 +307,7 @@ WHILE loops run indefinitely until a certain condition is met:
 
 - while (x == y) {*code to run over and over*}
 
-FOR loops are meant to end, but WHILE loops can run forever. They're really useful for constantly [refreshing the screen](/screen/) many times a second or for keeping programs open all the time in an operating system. If you want to make it run forever, just put "while (true)".
+FOR loops are meant to end, but WHILE loops can run forever. They're really useful for constantly [refreshing the screen](computers-screen.md) many times a second or for keeping programs open all the time in an operating system. If you want to make it run forever, just put "while (true)".
 
 DO-WHILE loops are unusual variants for a specific use. Sometimes you want to do something once, *then* check if conditions are met.
 
@@ -361,13 +361,13 @@ In practice with computers, however, their stupidity is their saving grace. Here
 
 What that means is that when something *does* satisfy the recursion (also known as the "base case"), all those functions will fulfill and exit in reverse order. So, in the above case, it'll use 5,4,3,2,1 in that order if it was fulfilled.
 
-If the [memory](/memory/) gets full from all those recursions, it's called a "stack overflow" error.
+If the [memory](computers-memory.md) gets full from all those recursions, it's called a "stack overflow" error.
 
-Recursions are extremely useful because you can apply them wherever you can find a pattern across [data](/data/).
+Recursions are extremely useful because you can apply them wherever you can find a pattern across [data](data.md).
 
 ### Making functions
 
-It's less work to just [import a library](/prog-features/), but sometimes you have to get your hands dirty and make your own functions.
+It's less work to just [import a library](programming-basics.md), but sometimes you have to get your hands dirty and make your own functions.
 
 Creating functions is relatively simple:
 
@@ -393,7 +393,7 @@ If the function is supposed to return something, it *must* return *something*! T
 
 ## Data structures + loops
 
-Each variable can hold 1 value. While you *could* theoretically use 1 value to hold "MilkEggsCheese", it's better to spread those across multiple variables. An "array" is an ordered list, and can hold variables, constants or other arrays. It's one of a wide variety of available [data structures](/data-structures/).
+Each variable can hold 1 value. While you *could* theoretically use 1 value to hold "MilkEggsCheese", it's better to spread those across multiple variables. An "array" is an ordered list, and can hold variables, constants or other arrays. It's one of a wide variety of available [data structures](data-structures.md).
 
 FOR EACH functions allow loops over arrays. The loop will run across the array, but the EACH part asks for a condition. If the condition is met that time, the computer will run the instructions in the FOR EACH function.
 
@@ -450,7 +450,7 @@ Instead, you can have the computer literally "look ahead" while holding its plac
 
 - /abbazabba(?=wammajamma)/
 
-In the above situation, it'll first look for "abbazabba", then try to find "wammajamma" *anywhere* else in the string. This can be useful to satisfy certain conditions ([password](/encryption/) requirements, for example).
+In the above situation, it'll first look for "abbazabba", then try to find "wammajamma" *anywhere* else in the string. This can be useful to satisfy certain conditions ([password](encryption.md) requirements, for example).
 
 ### Greedy/lazy
 

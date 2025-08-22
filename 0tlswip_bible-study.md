@@ -10,8 +10,8 @@ Spend time daily in His Word:
 
 - God's inspiration *requires* diligent Bible study ([Acts 17:11](https://biblehub.com/acts/17-11.htm)).
 - Set aside time to read, digest, research, and analyze.
-- [Pray](/prayer/) for His wisdom and sight as you read His word.
-- [Grow daily](/exercises/) by consistently reaffirming His truths and promises.
+- [Pray](spiritual-exercises-prayer.md) for His wisdom and sight as you read His word.
+- [Grow daily](spiritual-exercises.md) by consistently reaffirming His truths and promises.
 
 Wisely interpret the Bible:
 
@@ -19,18 +19,18 @@ Wisely interpret the Bible:
 - The Bible *will* interpret itself: Scripture explains Scripture.
 - We can only understand and properly comprehend Scripture through faith and the Holy Spirit.
 - Interpret personal experience through Scripture, not the other way around.
-- God wrote the Bible to [change our lives](https://gainedin.site/good-life/), not [increase our knowledge](understanding.md).
+- God wrote the Bible to [change our lives](goodlife.md), not [increase our knowledge](understanding.md).
 - Listen to Scripture's common-sense interpretation first, then its historical context, and finally Bible scholars' opinions and commentaries.
 
 Observe and honor the Bible's grammar and syntax:
 
 - Scripture only has one literal interpretation, which determines the theology you're reading.
 - Interpret words with the meaning the author would have used at the time.
-- God wrote Scripture to people at a specific time with specific issues, so note the [culture](https://gainedin.site/culture/) of those times.
+- God wrote Scripture to people at a specific time with specific issues, so note the [culture](culture.md) of those times.
 - Interpret a word by its relation to its sentence.
 - Interpret a passage by its context and setting.
 
-Each translation wrestles with [language](https://gainedin.site/language/) barriers that form a spectrum between precise *words* and precise *thoughts* as [culturally understood](https://gainedin.site/culture/):
+Each translation wrestles with [language](language.md) barriers that form a spectrum between precise *words* and precise *thoughts* as [culturally understood](culture.md):
 
 1. Word-for-word - prioritizes translating the *exact* words and sentence structure (e.g., NASB, ESV, Young's)
 2. Meaning-for-meaning - prioritizes the same meaning of each of the words (e.g., GOD'S WORD)
@@ -40,16 +40,16 @@ Each translation wrestles with [language](https://gainedin.site/language/) barri
 - Even the most rigid translations use italicized words to indicate conjunctions and references that are *not* in the Bible's original text.
 - The ideal way to study is with multiple bibles next to each other (e.g., parallel bible, cross-referencing software).
 
-Unless a prophet's words have an obvious [symbolism](https://gainedin.site/symbols/), interpret the words in a usual, literal, historical sense:
+Unless a prophet's words have an obvious [symbolism](symbols.md), interpret the words in a usual, literal, historical sense:
 
 - Statements are only symbolic if one of the following applies:
   1. An inanimate object describes a living being.
   2. Something's expression doesn't match its description.
   3. Specific historical facts or events are symbols of spiritual truth only if Scripture says it is.
   4. The story is a fictionalized parable (such as Jesus' depictions).
-- If a story *is* symbolic, the characters aren't necessarily real and the entire story is intended to convey an important [universal](https://gainedin.site/universals/) pattern.
+- If a story *is* symbolic, the characters aren't necessarily real and the entire story is intended to convey an important [universal](humanity-universals.md) pattern.
 - Prophecies sometimes fulfill in installments, where each fulfillment of something else coming.
-- A single prophecy can also fulfill itself to multiple ends (e.g., Revelation refers to both the Roman Empire *and* the [End of Days](/jesus-returns/)).
+- A single prophecy can also fulfill itself to multiple ends (e.g., Revelation refers to both the Roman Empire *and* the [End of Days](jesus-returns.md)).
 
 Proverbs have specific attributes:
 
@@ -97,12 +97,12 @@ C. Research:
   - Concordance (e.g., Strong's
   - Introductions to specific Bible books
   - Bible handbook
-  - Commentaries of opposing [denominations](/conflicts/)
+  - Commentaries of opposing [denominations](conflicts-christian.md)
   - Bible dictionary (e.g., [Smith's](https://biblehub.com/dictionary/smith.htm))
   - Bible encyclopedia
   - Up-to-date Bible atlas
   - Online resources
-- Make your own [learning style](https://adequate.life/memory/) as you study.
+- Make your own [learning style](mind-memory.md) as you study.
   - Make a book summary with an outline, chart, or diagram.
   - If you need inspiration, use an existing reference book's outline.
 - Even while they're written by fallible people, Bible commentaries and theology books are an excellent way to see another perspective you may have missed, especially if the writer was from a different historical period.
@@ -113,7 +113,7 @@ D. Find patterns across the text:
 - Keywords in the book
 - Lifestyle, culture, customs, and habits of the personalities
 - The geography of the setting
-- [Universal characteristics](https://gainedin.site/universals/) that still apply today
+- [Universal characteristics](humanity-universals.md) that still apply today
 - Read the original language (Hebrew/Greek/Aramaic) to find even more patterns.
 - Pay close attention to when details were added, and ask why.
 - Observe patterns other people detect, such as [the Bible Project](https://bibleproject.com/) or pastors.
@@ -134,17 +134,17 @@ F. Explore unconventional ways to read the Bible:
   - Consider a *very* literal translation (e.g., [Young's Literal Translation](https://archive.org/details/ylt_20220401)) or *extremely* idea-for-idea (e.g., [The Message](https://messagebible.com/)).
   - Look at a more eclectic Bible translation to gain a *completely* new viewpoint (e.g., [Jesus-Centered Bible](https://www.mylifetree.com/jesus-centered-bible/), [The Israel Bible](https://theisraelbible.com/), [First Nations Version](https://firstnationsversion.com/), [The Emoji Bible Project](https://www.emojibibleproject.com/), [Hawaii Pidgin Bible](https://hipidginbible.org/))
   - Interpret the Bible as a fictionalized narrative with themes and story arcs instead of as a direct historical document.
-    - God designed a [mythologizing force](https://gainedin.site/myths/) into us to interpret the patterns more than the story's details, so we can discover tremendous truths if we observe the patterns He designed.
+    - God designed a [mythologizing force](stories-myths.md) into us to interpret the patterns more than the story's details, so we can discover tremendous truths if we observe the patterns He designed.
     - For example, God could have created the earth in 7 calendar days or 7 million years, but He still formed everything from nothing with (likely) no source material, and He therefore is always a Creator and Maintainer of everything.
   - Read the Bible chronologically from when it was written instead of its canonized order.
   - Study what a specific word meant at the time.
   - Focus on how the Bible refutes a specific heresy.
   - Research claimed Bible contradictions or factual errors.
-  - Draw comparisons and contrasts between Christian [culture](https://gainedin.site/culture/) and the Bible.
+  - Draw comparisons and contrasts between Christian [culture](culture.md) and the Bible.
   - Examine every instance of a Bible word and find associated patterns across them.
 
-Bear in mind that no matter how deep you dig, you're still expanding on the simple [Gospel message](/gospel/) and God's guidance on [how to live our lives](/exercises/).
+Bear in mind that no matter how deep you dig, you're still expanding on the simple [Gospel message](jesus-gospel.md) and God's guidance on [how to live our lives](spiritual-exercises.md).
 
-God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](/exercises/) ([1 Corinthians 1:26-29](https://biblehub.com/bsb/1_corinthians/1.htm)).
+God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) ([1 Corinthians 1:26-29](https://biblehub.com/bsb/1_corinthians/1.htm)).
 
-- The best way to understand the themes of the Bible is to read it from the perspective of it being a dramatized [story](https://gainedin.site/stories/), *not* as an exhaustive text that covers every unimportant detail of its subject.
+- The best way to understand the themes of the Bible is to read it from the perspective of it being a dramatized [story](stories.md), *not* as an exhaustive text that covers every unimportant detail of its subject.

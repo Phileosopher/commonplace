@@ -298,7 +298,7 @@ There are *many* Layer 7 protocols:
 
 The PDU at the Application layer is the data as it is inputted and outputted within the application.
 
-Applications can be bandwidth-sensitive (e.g., a streaming movie) or elastic (e.g., email or a [web browser](/browser/)). Faster bandwidth is always better, but not always necessary.
+Applications can be bandwidth-sensitive (e.g., a streaming movie) or elastic (e.g., email or a [web browser](browser.md)). Faster bandwidth is always better, but not always necessary.
 
 Applications can also be loss-tolerant (e.g., a streaming video chat) or no-loss (e.g., web documents).
 

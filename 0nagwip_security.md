@@ -1,5 +1,5 @@
 
-Security, by its design, is keeping specific assets [safe](https://gainedin.site/safety/) by preventing actions from happening that would adversely affect those assets.
+Security, by its design, is keeping specific assets [safe](safety.md) by preventing actions from happening that would adversely affect those assets.
 
 To that end, every secure thing has to have the following questions answered:
 
@@ -8,25 +8,25 @@ To that end, every secure thing has to have the following questions answered:
 3. *How* would #2 happen?
 4. *What or how* can #3 be stopped?
 
-We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](https://gainedin.site/pedagogy/), but it's easy to [imagine](https://gainedin.site/imagination/) we do:
+We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](pedagogy.md), but it's easy to [imagine](imagination.md) we do:
 
-- It's impossible to know about risks you couldn't have been exposed to, but it's easy to imagine our [fears](https://gainedin.site/fear/) in that direction.
-- [Risk management has many domains](/risk-mgmt/), and confidence in one [specialization](https://gainedin.site/specialization-cities/) can lead to presuming aptitude in other domains.
-- If we have particularly strong [trust issues](https://gainedin.site/trust/), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
+- It's impossible to know about risks you couldn't have been exposed to, but it's easy to imagine our [fears](mind-feelings-fear.md) in that direction.
+- [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.
+- If we have particularly strong [trust issues](trust.md), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
 
-In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](https://adequate.life/happiness-3/) or [a meaningful life](https://gainedin.site/good-life/) beyond a certain point:
+In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](happiness-focus.md) or [a meaningful life](goodlife.md) beyond a certain point:
 
 - 1-10% of society provides any legitimate risks to assets, and the rest of the people would never even *think* of doing anything adverse to it.
 - Dwelling on security risks beyond necessity almost guarantees you'll transfer an appropriately heavy-handed approach to a minority of people toward everyone else.
 
 The domains of security break apart into many other subdomains:
 
-- [Law enforcement](/legally-safe/) protects against the violation of a nation's [rules](https://gainedin.site/rules/).
-- Private security protects against their [clients](/contracts/) or their possessions.
-- [Cybersecurity](https://trendless.tech/security/) is the protection of adverse events involving [computers](https://trendless.tech/), which can range from [encryption](https://trendless.tech/encryption/) to [group policies](https://trendless.tech/compliance/).
+- [Law enforcement](legal-safety.md) protects against the violation of a nation's [rules](rules.md).
+- Private security protects against their [clients](people-6_contracts.md) or their possessions.
+- [Cybersecurity](computers-cysec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](computers-cysec-compliance.md).
 - Personal security involves protecting yourself and your possessions.
 - Locks and their mechanisms protect against breaches of physical things.
-- Most domains of [risk management](/risk-mgmt/) are [specialized](https://gainedin.site/specialization-cities/) towards at least *some* aspect of the philosophies driving a security mindset.
+- Most domains of [risk management](safety-riskmgmt.md) are [specialized](jobs-specialization.md) towards at least *some* aspect of the philosophies driving a security mindset.
 
 The principle of deterrence is to provide enough risks against bad actors (e.g., automatically notifies the police) that they would reconsider acting.
 
@@ -40,15 +40,15 @@ Instead, there are two large-scale objectives for any secure system:
 
 In particular, events that are both incredibly devastating and extremely unlikely are important to consider, but most people don't think about it:
 
-- We can often be so preoccupied with [a project's status and deadlines](/mgmt-status/) that we forget about what happens if we *do* succeed.
-  - In many domains, the "ready, fire, aim" approach will be the most likely to get to market, and therefore [succeed against competitors](/entrepreneur-plan/).
+- We can often be so preoccupied with [a project's status and deadlines](mgmt-4_status.md) that we forget about what happens if we *do* succeed.
+  - In many domains, the "ready, fire, aim" approach will be the most likely to get to market, and therefore [succeed against competitors](entrepreneur-3_plan.md).
 - Unless you're in a high-risk area, security systems cost money immediately, but it rarely provides any short-term benefit, especially against competitors.
-  - The only way to allow security to work as part of the organization's mission (rather than against it) is to have safety or security as part of its [core values](/mgmt-morale/) or [marketing](/marketing/).
+  - The only way to allow security to work as part of the organization's mission (rather than against it) is to have safety or security as part of its [core values](mgmt-6_morale.md) or [marketing](marketing.md).
 
 It's difficult to gauge the effectiveness of a security system, for several reasons:
 
 1. If it's obvious that they exist, their very existence may deter bad actors.
-2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](https://trendless.tech/pentest/)), but that's only dependent on the intelligence and skill of those infiltrators.
+2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](computers-cysec-pentest.md)), but that's only dependent on the intelligence and skill of those infiltrators.
 
 ## General principles
 
@@ -68,7 +68,7 @@ Only communicate the threat of the security system, but not its specifics.
 
 ## Personal security
 
-Besides keeping yourself safe, personal security arrangements also have the side effect of more effective [legal protections](/legally-safe/) as well.
+Besides keeping yourself safe, personal security arrangements also have the side effect of more effective [legal protections](legal-safety.md) as well.
 
 Avoid public intoxication or inebriation.
 
@@ -78,7 +78,7 @@ Have security-enforcing items *before* you need to use it.
   - Never carry large sums of cash on your person, and never all at once.
 - Place interested parties in an emergency on speed-dial.
 - Wear bio-monitors that send automatic updates to interested parties.
-- Consider investing in a body camera and dash cam for your [automotive](/autos/).
+- Consider investing in a body camera and dash cam for your [automotive](autos.md).
 - Get at least a few more locks than you technically need.
   - Test every lock or safe before using it.
 - If you're particularly high-profile, consider getting body armor under your shirt.

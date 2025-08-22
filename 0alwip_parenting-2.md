@@ -28,7 +28,7 @@ You'll never get parenting completely right, so enjoy your family.
 
 Your primary job as a parent is to make children enjoyable enough to exist around others by the time they turn 4:
 
-- Parents often fail that, and they have about 8 more years afterward before the child reaches [adolescence](/parenting-3/) and disregards their parents' [influence](https://gainedin.site/influence/).
+- Parents often fail that, and they have about 8 more years afterward before the child reaches [adolescence](parenting-3_teenagers.md) and disregards their parents' [influence](power-influence.md).
 - About 75% of the time you will *ever* spend with your children will be before age 12.
 
 The quality of a child's upbringing starts with the quality of their parent's love and extends outward to all their relationships:
@@ -36,37 +36,37 @@ The quality of a child's upbringing starts with the quality of their parent's lo
 - A child will act and grow relative to how much they feel safe and interpret that their parents love them.
 - Children are poorly mimicking their parents' behavior (and *everything* else around them).
 - Your child will model you constantly, even when you don't think they're watching you.
-- They'll inherit your [habits](/habits/), character traits, beliefs, hypocrisies, [social norms](/social-rules/), and lifestyle.
+- They'll inherit your [habits](habits.md), character traits, beliefs, hypocrisies, [social norms](people-rules.md), and lifestyle.
 - Children don't have any context except what they perceive, so you'll probably notice them performing many unacceptable things that are simply imitating *you*.
-- Your ability to [change](https://gainedin.site/change/) directly determines how well your children will grow.
+- Your ability to [change](changes.md) directly determines how well your children will grow.
 - Even a child's *imaginary friends* teach them to socialize.
 
-Your success as a parent comes from [your success in everything else](/success-1/):
+Your success as a parent comes from [your success in everything else](success-1_why.md):
 
-- [Set reasonable goals](/success-3/) and [stay productive](/success-4/) toward [worthy purposes](/success-1/).
-- Learn [self-awareness](/awareness/), [happiness](/happiness-1/), [stress management](/happiness-2/), and [how to have fun](/fun/).
-- [Sleep well](/sleep/), [manage your weight](/weight/), [learn to cook](/cooking/), and [take care of yourself](/people-2/).
-- Understanding and practicing [empathy, compassion, and love](/people-3/).
-- Build [loving friendships](/people-4/), [especially with your spouse](/relationships/).
+- [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
+- Learn [self-awareness](awareness.md), [happiness](happiness.md), [stress management](happiness-stress.md), and [how to have fun](fun.md).
+- [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-2_image.md).
+- Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
+- Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-3_marriage.md).
 
 However, a *child's* success goes far beyond simply their parents:
 
 - As early as 5 and 6 years old, children take cues and input from the world around them as much as their parents.
-- While you will have at least some control over all of it, the demographics and [social class](https://gainedin.site/classes/) of where your children grow up have an impact on who influences them.
-- To give your child the best, scientifically proven demographic experience, try [homesteading](https://notageni.us/homestead/).
+- While you will have at least some control over all of it, the demographics and [social class](classes.md) of where your children grow up have an impact on who influences them.
+- To give your child the best, scientifically proven demographic experience, try [homesteading](home-homestead.md).
 
 Children will rarely thank their parents for their self-improvement until they've become adults themselves:
 
 - In fact, self-improving parents will often disrupt what children expect, which will severely confuse them.
-- Children will often misbehave around their parents' new [habits](/habits/) while trying to figure out the new consequences of their actions.
+- Children will often misbehave around their parents' new [habits](habits.md) while trying to figure out the new consequences of their actions.
 
 Each new child adds new dynamics to the family:
 
-- When a child doesn't have siblings, they'll fail to learn how to [get along with others](/social-rules/) and [resolve disputes](/conflicts/) if their parents don't intentionally expose them to other children.
-- A [married couple](/relationships/) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
+- When a child doesn't have siblings, they'll fail to learn how to [get along with others](people-rules.md) and [resolve disputes](people-5_conflicts.md) if their parents don't intentionally expose them to other children.
+- A [married couple](relationships-3_marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
 - With three or more children, parents' attention is often split so heavily that each child may not receive enough attention from their parents.
 
-Because young children have limits with their understanding, adjust how you [speak](/speaking/) with them:
+Because young children have limits with their understanding, adjust how you [speak](language-speaking.md) with them:
 
 1. State the idea you wish to express in the plainest and clearest possible terms (e.g., "It is dangerous to play in the street").
 2. Phrase everything positively (e.g., "It is good to play where it is safe.").
@@ -80,7 +80,7 @@ Because young children have limits with their understanding, adjust how you [spe
 
 The best indicator of a healthy child is that they're playing:
 
-- Children learn and find [meaning](https://gainedin.site/meaning) through playing and [having fun](/fun/).
+- Children learn and find [meaning](meaning.md) through playing and [having fun](fun.md).
 - If they have something they perceive as a problem, they will *not* play.
 - In fact, without sufficient play, children often become *very* mentally ill.
 
@@ -88,7 +88,7 @@ The best indicator of a healthy child is that they're playing:
 
 Children need everything an adult needs, but in dramatically different proportions:
 
-- Children are [growing](https://gainedin.site/maturity/) and have a limited [understanding](understanding.md) of reality.
+- Children are [growing](maturity.md) and have a limited [understanding](understanding.md) of reality.
 - As they grow older, the scope of their needs slowly adapts until it's the same as any full-grown adult.
 
 Children need more sleep than adults:
@@ -104,8 +104,8 @@ Children need proportionally more food:
 
 - Help them grow fast by giving them plenty of protein.
 - Their taste buds are more inclined toward sweet foods, so don't trust their judgment.
-- If they start growing obese, replace their diet with [healthier alternatives](/weight/).
-- If they're accustomed to junk food, teaching them to eat well will be a battle of [creativity](/creativity/) and discipline.
+- If they start growing obese, replace their diet with [healthier alternatives](body-2_diet.md).
+- If they're accustomed to junk food, teaching them to eat well will be a battle of [creativity](mind-creativity-how.md) and discipline.
   - Use dessert as an incentive for them to finish their meal.
   - Place treats on the table for them to see what they get if they finish their meal.
   - If you're spoon-feeding, and they refuse to eat, move chocolate toward their mouth before stuffing their mouth with what you want.
@@ -121,7 +121,7 @@ Children need extra validation of their feelings:
   - Give their feelings a clear name to help them make sense of them.
   - Since they'll need more things to analyze, avoid asking "why?"
 - When we tell a child that their feelings aren't relevant, no matter how kind, they will often get more upset.
-- Sometimes, they'll be too [afraid](https://gainedin.site/fear/) to communicate what they're feeling.
+- Sometimes, they'll be too [afraid](mind-feelings-fear.md) to communicate what they're feeling.
 
 Children have unique social needs:
 
@@ -136,16 +136,16 @@ Children have unique social needs:
 
 It's taboo to discuss in most cultures, but children often get certain things they don't need:
 
-- Happiness doesn't correlate with family income beyond meeting basic needs, so parents never need to make more [money](/money-1/) beyond a certain point.
-- No matter how loudly they say they want something, most consumer goods can spoil them and stunt their [creativity](/creativity/).
+- Happiness doesn't correlate with family income beyond meeting basic needs, so parents never need to make more [money](money-1_why.md) beyond a certain point.
+- No matter how loudly they say they want something, most consumer goods can spoil them and stunt their [creativity](mind-creativity-how.md).
 - Children don't necessarily need adult extended family (especially in a dysfunctional family), but *do* need context about those members' behaviors.
 
-Generally, spend about half the [money](/money-1/) you want on them and twice as much time as you'd prefer.
+Generally, spend about half the [money](money-1_why.md) you want on them and twice as much time as you'd prefer.
 
 They will quickly cycle through clothes:
 
 - They usually outgrow clothes before they wear them out.
-- Try to [save money](/money-4/) when you can, since they won't care about clothing fashions until early [adolescence](/parenting-3/).
+- Try to [save money](money-4_spending.md) when you can, since they won't care about clothing fashions until early [adolescence](parenting-3_teenagers.md).
 - When their shoes get too small, have them wear the shoes with 3 pairs of socks on, then blow a hairdryer on them for 10 minutes.
 
 ## Understand their motivations
@@ -164,22 +164,22 @@ From birth, children set goals by using their environment:
 - They're observing patterns, then trying to gain from those patterns by taking them *completely* literally.
   - When they're very young (such as infancy), they're simply trying to define reality around them, but will start creating purposes to get what they want as early as 6 months.
   - They'll imitate what their target was *trying* to do, not just what their target did.
-- Unlike [older children](/parenting-3/) and adults, they value exploration *far* more than rewards, so they're constantly experimenting and testing.
+- Unlike [older children](parenting-3_teenagers.md) and adults, they value exploration *far* more than rewards, so they're constantly experimenting and testing.
 - Usually, if you change the standards, they'll remember that it worked once that way and will experiment to see if the change was permanent.
   - Those enforcements are trying *anything* that might work and can include tantrums, screaming, complaining, and breaking things.
-  - Contrary to what you may think, they have a *lot* of control over themselves, but aren't that clear about how their actions correspond to their [purposes](https://gainedin.site/purpose/).
+  - Contrary to what you may think, they have a *lot* of control over themselves, but aren't that clear about how their actions correspond to their [purposes](purpose.md).
 - If at all possible, you'll save *tons* of pain by training them correctly from the beginning, but there's always hope until they reach adolescence.
 
 Your child cares more about the approval and support of their guardians than *anything* else in the world:
 
-- A child gains their sense of [identity](https://gainedin.site/identity/) strictly from how they imagine you see them.
+- A child gains their sense of [identity](identity.md) strictly from how they imagine you see them.
 - They're constantly asking three questions throughout their entire upbringing and onward into adulthood:
   1. "Dad, what do you [believe](understanding.md) about me?"
   2. "Dad, what do you [feel](mind-feelings.md) about me?"
-  3. "Dad, what are your [hopes](https://gainedin.site/imagination/) for me?"
+  3. "Dad, what are your [hopes](imagination.md) for me?"
 - A child is so hypersensitive to rejection that small amounts of inauthentic affection or neglect may scar them for life.
   - When you hug a child, never let go first.
-- Imagine what your child sees, *not* how you [feel](https://gainedin.site/feelings) about it.
+- Imagine what your child sees, *not* how you [feel](mind-feelings.md) about it.
   - Even when their ideas are silly, those thoughts mean a lot to them, so never speak condescendingly or rudely.
 - The tone you use with them will become their inner voice.
 - If you're ever yelling, you're out of control, and teaching them that it's okay to be out of control as well.
@@ -195,7 +195,7 @@ The only way to build a healthy relationship with your child is to invest in the
 Encourage them daily to work on good things they feel like doing, even when you're not around:
 
 - Focus on teaching them self-control, *not* self-esteem (since they must earn that themselves).
-- People find meaning through [responsibility](https://gainedin.site/meaning/), so they will feel valued proportionally to the responsibilities that you can safely give them.
+- People find meaning through [responsibility](meaning.md), so they will feel valued proportionally to the responsibilities that you can safely give them.
 - Describe with specific physical details what you see (e.g., "I see a clean room with all the toys organized and the bed made.").
 - Describe the feelings tied to success (e.g., "It feels wonderful to walk into this room!").
 - Sum up the child's accomplishments with 1 word (e.g., "You were really organized!")
@@ -203,24 +203,24 @@ Encourage them daily to work on good things they feel like doing, even when you'
 Unless it's a matter of morality, never assert your desires over theirs:
 
 - There are universal standards for goodness and decency, but most of life's decisions are open-ended experiences.
-  - Even if their long-term goals won't make much money, anyone can [become an entrepreneur](https://notageni.us/entrepreneur-freelancing/) or [work a day job](/jobs-1/) as they pursue [meaning](https://gainedin.site/meaning/).
+  - Even if their long-term goals won't make much money, anyone can [become an entrepreneur](entrepreneur-4_freelancing.md) or [work a day job](jobs-1_why.md) as they pursue [meaning](meaning.md).
 - They'll try to imitate their parents' career roles, but sometimes only because it's familiar.
   - Often, they'll do *exactly* as you wish, even if they hate it.
-  - Since [we often use words vaguely](https://gainedin.site/language/), discourage them from taking precise meanings of words too seriously.
+  - Since [we often use words vaguely](language.md), discourage them from taking precise meanings of words too seriously.
 - Pay close attention to what they do with their spare time and talk about, then encourage and empower them in that direction.
 
 Be careful with what you give them, and on what terms:
 
 - For the sake of exploration, children typically don't understand that things have the value you've given to the objects you give them.
 - Explicitly indicate whether you're simply letting them use it or if they're free to do what they want with it.
-- Most of the trouble comes from parents who give something, presuming their child will handle it carefully, and a [conflict](/conflicts/) erupting when the child does something they shouldn't have with it.
+- Most of the trouble comes from parents who give something, presuming their child will handle it carefully, and a [conflict](people-5_conflicts.md) erupting when the child does something they shouldn't have with it.
 
 ## What they must know
 
 Make a list of up to 10 things, more importantly than anything else, you want your child to know by adulthood:
 
 - This won't be exact and will somewhat shift throughout their childhood.
-- However, it should give you an approximate set of values to frame the [culture](https://gainedin.site/culture/) you want them to carry into the rest of their lives.
+- However, it should give you an approximate set of values to frame the [culture](culture.md) you want them to carry into the rest of their lives.
 
 They must know they're loved:
 
@@ -236,12 +236,12 @@ Children must internalize several critical skills to succeed:
 
 1. Self-confidence that they are capable of accomplishing, which only comes from them *actually* risking and succeeding at something.
 2. Empathy for others, which they should express as motivation to act to alleviate others' suffering.
-3. Self-control over their attention, [feelings](mind-feelings.md), [thoughts](understanding.md), [actions](https://gainedin.site/decisions/), and desires.
-4. [Social skills](/social-rules/) for interacting with other children and adults, especially with respect to their most severe [eccentricities](https://gainedin.site/personality).
-5. [Ethical behavior](https://gainedin.site/morality/) that keeps them honest and considerate.
+3. Self-control over their attention, [feelings](mind-feelings.md), [thoughts](understanding.md), [actions](decisions.md), and desires.
+4. [Social skills](people-rules.md) for interacting with other children and adults, especially with respect to their most severe [eccentricities](personality.md).
+5. [Ethical behavior](morality.md) that keeps them honest and considerate.
 6. Curiosity about the world around them.
 7. Perseverance to keep going when they want to give up.
-8. Optimism about [the world they don't know](https://gainedin.site/unknown/).
+8. Optimism about [the world they don't know](unknown.md).
 
 They need to know what they're permitted to do:
 
@@ -254,10 +254,10 @@ They must learn awareness and reasoning:
 
 - Children have the reasoning skills of drunk people.
   - Don't expect them to understand subtleties.
-  - They're literally oblivious to [clutter](/organization/), [messes](/housekeeping/), [personal hygiene](/people-2/), or [good manners](/people-3/).
+  - They're literally oblivious to [clutter](organization.md), [messes](home-housekeeping.md), [personal hygiene](people-2_image.md), or [good manners](people-3_respect.md).
   - Expect that you'll frequently repeat yourself.
   - Stay vigilant about their behaviors and motivations.
-- Teach children to slow down and [meditate](/awareness/) whenever they start losing control of themselves.
+- Teach children to slow down and [meditate](awareness.md) whenever they start losing control of themselves.
 - Children don't know what they need, but they often know exactly what they want.
   - Giving children everything they want distorts their perspective of the world.
   - Structure your rewards and live your life to teach them the value of hard work and the importance of waiting.
@@ -274,25 +274,25 @@ They must learn awareness and reasoning:
 
 They must learn a wide variety of life skills:
 
-- [Effectively communicating](/speaking/) their thoughts and feelings
-  - They must learn [good manners](/people-3/).
-  - They must learn to properly handle [conflicts](/conflicts/), ideally through negotiating a "third option".
-- [Writing](/writing/) well
+- [Effectively communicating](language-speaking.md) their thoughts and feelings
+  - They must learn [good manners](people-3_respect.md).
+  - They must learn to properly handle [conflicts](people-5_conflicts.md), ideally through negotiating a "third option".
+- [Writing](language-writing.md) well
   - The ability to write well in modern society by typing is *far* more powerful than speaking or handwriting well.
-- Home skills like [cooking](/cooking/) and [housekeeping](/housekeeping/)
-- Self-maintenance skills like [hygiene](/people-2/) and [weight management](/weight/)
-- How to stay safe, both physically and [legally](https://notageni.us/legally-safe/)
-- How to make responsible and healthy decisions later about [dating](/dating/), [relationships](/relationships/), and [having children of their own](/parenting-1/).
-- It's worth noting that, as a parent, they'll learn far more from your example than from anything you'll verbally teach them, and [they'll still have to discover it on their own](/parenting-3/).
+- Home skills like [cooking](cooking.md) and [housekeeping](home-housekeeping.md)
+- Self-maintenance skills like [hygiene](people-2_image.md) and [weight management](body-2_diet.md)
+- How to stay safe, both physically and [legally](legal-safety.md)
+- How to make responsible and healthy decisions later about [dating](relationships-2_dating.md), [relationships](relationships-3_marriage.md), and [having children of their own](parenting-1_babies.md).
+- It's worth noting that, as a parent, they'll learn far more from your example than from anything you'll verbally teach them, and [they'll still have to discover it on their own](parenting-3_teenagers.md).
 
 Help them manage uncertainty and ambiguity:
 
 - Give them the correct context to express and anticipate trauma, joy, hope, and love.
-- By age 7, they can imagine the concept of infinity, so openly discuss the [eternal questions](https://gainedin.site/) about life, conception, aging, [death](/death/), and [things *nobody* knows](https://gainedin.site/religion/).
+- By age 7, they can imagine the concept of infinity, so openly discuss the [eternal questions](paradoxes.md) about life, conception, aging, [death](hardship-death.md), and [things *nobody* knows](religion.md).
 
 They must learn how to manage money:
 
-- Your child should understand how to spend, save, and budget [money](/money-1/)before they're old enough to take risks with large-scale consequences.
+- Your child should understand how to spend, save, and budget [money](money-1_why.md)before they're old enough to take risks with large-scale consequences.
 - You are 100% responsible for their spending lifestyle when they're first adults.
   - Children learn more from money about how you live than from what you say.
 - Ages 3-5:
@@ -304,7 +304,7 @@ They must learn how to manage money:
 - Ages 6-10:
   - Instead of an allowance, pay commissions for added work beyond the normal contributions.
     - An allowance implies that money is always available, but commissions show money's limits and benefits.
-  - Teach the importance of [keeping personal information private](https://trendless.tech/cysec/), especially with online vendors.
+  - Teach the importance of [keeping personal information private](computers-cysec.md), especially with online vendors.
   - Group their money into 3 categories:
     1. Giving
        - Stress the importance of giving by making them give.
@@ -315,11 +315,11 @@ They must learn how to manage money:
     3. Spending
 - Ages 11-13:
   - Teach them how you can only spend money once.
-  - Show them how to [comparison-shop](/money-4/).
+  - Show them how to [comparison-shop](money-4_spending.md).
   - Open a few accounts for them and give monthly reviews:
     1. A checking account for their spending
     2. A savings account to show how compound interest works
-  - Teach them about how compounding interest on unpaid [debt](/money-2/) can charge more than they spent.
+  - Teach them about how compounding interest on unpaid [debt](money-2_debt.md) can charge more than they spent.
 
 ## Their lifestyle needs
 
@@ -328,7 +328,7 @@ Give them structure and routine:
 - Children need routine things to pace their day and organize their world.
 - Wake them up at the same time, send them to bed at the same time, and always have dinner together.
 - Turn off any media, like music or television, to dramatically improve conversations during dinner.
-- However, since their ability to foster their [creativity](/creativity/) requires plenty of time throughout the day to play and explore, avoid excessively structuring their day.
+- However, since their ability to foster their [creativity](mind-creativity-how.md) requires plenty of time throughout the day to play and explore, avoid excessively structuring their day.
 
 Every child must learn a few basic habits:
 
@@ -337,9 +337,9 @@ Every child must learn a few basic habits:
 - Eat in a civilized style that thanks the host (so that people are happy to have you over and feed you).
 - Share with others (so other kids will play with you).
 - Pay attention when adults speak (so they don't hate you and might [teach you something](understanding.md)).
-- [Go to sleep](/sleep/) properly and peacefully (so your parents can have privacy and won't resent your existence).
+- [Go to sleep](sleep.md) properly and peacefully (so your parents can have privacy and won't resent your existence).
 - Take care of your possessions (you must learn how and are fortunate to have them).
-- Be pleasant or entertaining when something [fun](/fun/) is happening (so you're invited to fun things).
+- Be pleasant or entertaining when something [fun](fun.md) is happening (so you're invited to fun things).
 - Behave in ways that make people happy when you're around (so people want you around).
 
 Children need good mental habits:
@@ -351,17 +351,17 @@ Children need good mental habits:
 - Give them an environment that provides incentives for them to choose values, character, and healthy life decisions.
   - Mindless rules can stifle creativity or understanding, so values are more important than rules.
   - While they can change behavior back-and-forth, character is more permanent.
-  - Children have an easier time creating [habits](/habits/) than adults, but a *much* harder time breaking and changing them.
-- Teach them [awareness](/awareness/) of their feelings, thoughts, intuition, and current needs.
+  - Children have an easier time creating [habits](habits.md) than adults, but a *much* harder time breaking and changing them.
+- Teach them [awareness](awareness.md) of their feelings, thoughts, intuition, and current needs.
   - Help them differentiate between themselves and others.
   - Provide context for those needs.
-  - Teach them to think [critically](https://gainedin.site/logic/), objectively, and independently about their decisions.
+  - Teach them to think [critically](logic.md), objectively, and independently about their decisions.
   - Give them healthy, safe, satisfying ways to prioritize and fill needs.
 - Encourage them to take personal responsibility for decisions, actions, and results.
   - Discourage denial, blaming, confusion, pretending something doesn't exist or misdirecting feelings.
   - They should feel healthy amounts of guilt when they hurt others.
   - If, for whatever reason, they don't understand something, you're failing to communicate it or show it correctly.
-- Give them [virtue](https://gainedin.site/morality/).
+- Give them [virtue](morality.md).
   - Children have zero self-discipline, so your job is to give discipline through both their desire for good things and fear of bad things you have control over.
   - By far, the most difficult and rewarding virtue for children is patience.
   - Teach them gratitude by temporarily taking away things from them, *especially* if they abuse the privilege.
@@ -372,7 +372,7 @@ As they grow, give them chances to build toward their purposes:
   - Children *do* pay attention when they have a clear motivation for it.
   - Whatever you want them to learn is a side effect of the experience.
   - Explain how the things they learn can help them do what they want.
-  - Unless they [enjoy](/fun/) whatever they're learning, you're merely teaching them patience and discipline.
+  - Unless they [enjoy](fun.md) whatever they're learning, you're merely teaching them patience and discipline.
 - Place them in environments that stimulate learning:
   - Have them play outside frequently.
   - Consistently take them to new places.
@@ -381,8 +381,8 @@ As they grow, give them chances to build toward their purposes:
 - Teach them to balance life between its unhealthy extremes:
   - Short-term versus long-term satisfaction
   - Pleasing others versus self
-  - [Having the right attitude](/success-2/)
-  - [Work](/success-4/), [play](/fun/), and [rest](/sleep/)
+  - [Having the right attitude](success-2_attitude.md)
+  - [Work](success-4_routine.md), [play](fun.md), and [rest](sleep.md)
   - Physical versus spiritual things
   - Appearance and feelings versus reality and substance
 - Help them to accept and re-learn attitudes, beliefs, habits, and ideas that no longer fit their new understanding of reality.
@@ -392,11 +392,11 @@ Try to choose their acquaintances carefully, since those small encounters will d
 If you educate them correctly, they'll use school to build their skills:
 
 - They must understand that school is a means to a better future.
-- A child will learn the most in an educational environment where' they're having [fun](/fun/).
+- A child will learn the most in an educational environment where' they're having [fun](fun.md).
 - Choose their school by deciding who you trust most to teach what they need to know:
-  - If you trust yourself the most, [homeschool](https://notageni.us/homeschool/).
+  - If you trust yourself the most, [homeschool](pedagogy-homeschool.md).
   - If you trust the government, send them to public school.
-  - If you trust a private organization, and [can afford it](/money-3/), use a private school.
+  - If you trust a private organization, and [can afford it](money-3_budget.md), use a private school.
   - Just remember that *you* care the most about their future and are their final authority until they're teenagers.
 - Irrespective of your decision, you can often supplement what you want them to know with extracurricular activities like computer camp, team sports, groups like Boy/Girl Scouts, or church events.
 - To dramatically improve their public school educational experience, look for charter schools and vouchers.
@@ -404,7 +404,7 @@ If you educate them correctly, they'll use school to build their skills:
 Since you don't have much time, give them freedom and responsibilities as soon as they can have them:
 
 - You only have until about the time they reach puberty.
-  - The only way they [succeed](/success-1/) is by failing.
+  - The only way they [succeed](success-1_why.md) is by failing.
   - Once they become adults, *every* failure has dramatically worse consequences than if they had learned it as a small child or teenager.
   - However, make *absolutely certain* that you only give them opportunities to fail where they're still safe.
 - Ages 2-3
@@ -443,14 +443,14 @@ Since you don't have much time, give them freedom and responsibilities as soon a
   - Help make dinner
   - Make snacks
   - Make their own breakfast
-  - [Cook simple foods](/cooking/)
+  - [Cook simple foods](cooking.md)
   - Mop floors
-  - [Walk the dog](/pets/)
+  - [Walk the dog](fun-pets.md)
 - Age 10+
   - Unload dishwasher
   - Clean the bathroom
   - Wash the windows
-  - Wash the [car](https://notageni.us/autos/)
+  - Wash the [car](autos.md)
   - Cook simple meals
   - Iron clothes
   - Do the laundry
@@ -462,28 +462,28 @@ Since you don't have much time, give them freedom and responsibilities as soon a
 If you ever have a second child, make a few things *very* clear to them from the moment you're visibly pregnant:
 
 1. You still love them just as much.
-2. They're [responsible](https://gainedin.site/meaning/), as part of the family, for their siblings.
+2. They're [responsible](meaning.md), as part of the family, for their siblings.
 
 ## Give them fun
 
 You can teach *anything* to children through fun and play:
 
-- Children understand most lessons if you can [creatively](/creativity/) merge them with play.
+- Children understand most lessons if you can [creatively](mind-creativity-how.md) merge them with play.
   - Your purpose is to teach them better judgment, *not* to be obedient.
 - Playing is a child-specific "love language" for communicating and expressing their [feelings](mind-feelings.md).
   - While adults work through their feelings by talking, children unleash them by using their bodies to play.
-  - A child's play is how they experiment and learn about the world, and broken bones heal more easily than [timidity and fear](https://gainedin.site/fear/).
-  - All children's games are about [connecting](/people-1/) with others (e.g., chase, tag, hide-and-seek, follow the leader).
+  - A child's play is how they experiment and learn about the world, and broken bones heal more easily than [timidity and fear](mind-feelings-fear.md).
+  - All children's games are about [connecting](people-1_why.md) with others (e.g., chase, tag, hide-and-seek, follow the leader).
 - Initiate physical contact with them lightly or ask a simple question, then work off of their behavior.
   - To make up for the fact that they're small, give them more control of the situation.
 - Children are happy to play with whatever you choose, which is necessary for you to enjoy the experience with them.
   - If you discourage a child from playing, they'll create emotional barriers in their mind to separate themselves from the rest of the world.
   - Without learning to play, children will emotionally shut down or burst into tears at the slightest upset.
-  - Let them win to help them feel more confident about their ability to [succeed](/success-1/).
+  - Let them win to help them feel more confident about their ability to [succeed](success-1_why.md).
 
 The best way to make a connection with your children is to play with them:
 
-- Children tend to prefer playing with their parents because the parents relent and let them win, which teaches them how to [tactfully](/people-3/) behave with others by example.
+- Children tend to prefer playing with their parents because the parents relent and let them win, which teaches them how to [tactfully](people-3_respect.md) behave with others by example.
 - Learn to redirect their attention with a playful voice to direct them to productive, good purposes.
   - Children severely differentiate between hearing you playfully or fiercely say "Oh no, you don't!" and "That's not where that goes!"
   - Kissing is redirected biting, and caressing is redirected hitting.
@@ -491,19 +491,19 @@ The best way to make a connection with your children is to play with them:
 - When you see them extremely emotional (shaking, trembling, laughing, crying), stop there and let the emotions subside, then advance further with what they're afraid of once they've composed themselves.
 - Teach valuable lessons through play that would normally be lectures.
   - Speak loudly about something being a secret.
-  - Make an [organizing](/organization/) game to help them [clean up](/housekeeping/).
+  - Make an [organizing](organization.md) game to help them [clean up](home-housekeeping.md).
   - Make pretend games to confront whatever they're afraid of.
   - Pretend to be scared of absolutely everything.
   - Let them physically wrestle out a problem they had earlier that day, with you being the problem.
   - If there's something they're not supposed to do that isn't dangerous, try to get them to *do it* instead.
-  - Teach [active listening](/speaking/) by assigning speaker/listener roles and having the listener summarize the speaker.
+  - Teach [active listening](language-speaking.md) by assigning speaker/listener roles and having the listener summarize the speaker.
     - You can also assign a watcher to provide feedback on both as well.
   - Make a "speaking catch" game:
     1. Prepare at least three general questions that interest the child or children.
     2. The child who holds the ball throws it and asks a question
     3. The next child must catch the ball and answer with more than a few words.
     4. The child can only speak for 30 seconds, then asks another question and throws the ball.
-- Being silly takes practice because you have to violate most of the [social rules](/social-rules/) you were trained to honor.
+- Being silly takes practice because you have to violate most of the [social rules](people-rules.md) you were trained to honor.
   - You'll look silly to other adults when you interact, climb, and run with children, especially when you're the only one.
   - When frustrated, make a mock threat that turns the situation into play.
 - If you can't think of any games you want to play, make them up by creating a "winner" and "loser".
@@ -590,11 +590,11 @@ Give them many opportunities to socialize and dialogue together as a family:
 
 Give them meaningful outlets for their creativity and learning:
 
-- Reading with them together will expand their [imagination](https://gainedin.site/imagination/) and strengthen your connection with them.
+- Reading with them together will expand their [imagination](imagination.md) and strengthen your connection with them.
 - Give projects that help the family, both solo and together.
 - Try out for a musical or drama group together.
 - Enroll in an art, dance, or exercise class together.
-- Provide fun, challenging, and [creative](/creativity/) problems for them to solve by themselves.
+- Provide fun, challenging, and [creative](mind-creativity-how.md) problems for them to solve by themselves.
 - They should have progressively more responsibilities and freedoms to explore new things.
 - If they keep asking a string of "why" questions, you can respond with "I don't know, what do you think?" or "Why do you ask why?"
 
@@ -643,7 +643,7 @@ Explore with them:
 
 - Explore science and nature with them:
   - Search your backyard and look for insects.
-  - Garden together, which can often help with their [eating habits](/cooking/).
+  - Garden together, which can often help with their [eating habits](cooking.md).
   - Go on a hike.
   - Build a rocket from a kit.
   - Perform a science experiment.
@@ -722,10 +722,10 @@ Give them games to play with each other:
 
 Be careful with status-enhancing activities:
 
-- Your activities should grow and add [meaning](https://gainedin.site/meaning/) to your children, not necessarily *your* social status.
+- Your activities should grow and add [meaning](meaning.md) to your children, not necessarily *your* social status.
 - If a child doesn't want something (e.g., baseball league), try to understand exactly why they don't want it.
   - Children may want something, then discover later they don't like it because they're afraid of something or didn't realize how hard it would be.
-- Sometimes, if you already have [money](/money-3/) invested in the situation, you can compromise:
+- Sometimes, if you already have [money](money-3_budget.md) invested in the situation, you can compromise:
   - Have them agree to endure the next few months, then cancel the activity.
   - Work with them to help sell what you bought.
   - Have them work an agreed amount to pay off what you had to pay.
@@ -738,8 +738,8 @@ The purpose of setting boundaries in the household is to teach good values:
   - If you're simply trying to "survive", you'll teach them to focus on "surviving" by your example.
 - There are many aspects to this that include sharing, kindness, responsibility, perseverance, problem-solving, patience, graciousness, and altruism.
 - Only two methods can drive them to good deeds:
-  1. [Fear](https://gainedin.site/fear/), which comes through harshly enforced rules, creates instant consequences and is only as effective as you can scare them.
-  2. [Love](https://gainedin.site/love/), which includes a sense of [responsibility](https://gainedin.site/meaning/), takes time to nurture but works irrespective of your presence.
+  1. [Fear](mind-feelings-fear.md), which comes through harshly enforced rules, creates instant consequences and is only as effective as you can scare them.
+  2. [Love](people-love.md), which includes a sense of [responsibility](meaning.md), takes time to nurture but works irrespective of your presence.
 - A child will either grow to love or fear their parents more, but they desperately want a loving connection with their parents more than anything else.
 
 They must live by the rules you set, or you have bad rules:
@@ -780,21 +780,21 @@ Always address bad behaviors:
 
 - Never, ever reward bad behavior.
   - If you've relented and rewarded bad behavior, a child will learn they can get what they want if they persevere with enough bad behavior.
-  - Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](/relationships/), tons of love, and a community to consult for advice.
-- Closely consider their motivations, and don't be afraid of a [direct conflict](/conflicts/) with them.
+  - Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-3_marriage.md), tons of love, and a community to consult for advice.
+- Closely consider their motivations, and don't be afraid of a [direct conflict](people-5_conflicts.md) with them.
 - If you have a reward for them planned for the future, do *not* make it something you or other family members will enjoy as well (e.g., an amusement park).
   - They might make a bad decision by that time, which will make the consequences very complicated.
   - You have 2 choices: either make that experience miserable specifically for the child (e.g., no snacks for them at the amusement park) or deliver the consequence of their bad behavior (and infractions during the enjoyable event) *after* the experience.
 
 No matter what, *always* give empathy:
 
-- By providing [empathy](/people-3/), you are respecting them and communicating that you love them.
+- By providing [empathy](people-3_respect.md), you are respecting them and communicating that you love them.
 - Empathy opens people to learning, since they feel safe knowing that other people understand their feelings.
   - Giving empathy halts our impulse to blame "mean" people, and instead we focus on mixing ourselves into the possible sources of the blame.
 - Empathy also softens the blow for the uncomfortable rules and standards you'll be setting.
   - However, your empathy must come *before* the bad news or consequences, not after they're aware of it.
 - Very frequently, when they have to suffer the consequences of their actions, you should *only* show empathy.
-  - You'll often feel like a monster, but intervening with the consequences of their actions can frequently steal away a critical [life lesson](https://gainedin.site/understanding) for them.
+  - You'll often feel like a monster, but intervening with the consequences of their actions can frequently steal away a critical [life lesson](understanding.md) for them.
 
 Never, *ever* argue:
 
@@ -818,7 +818,7 @@ Never, *ever* argue:
      - (nonverbal sigh of affirmation)
   3. Calmly repeat that line with empathy, not anger or sarcasm.
 - The reason you're using a one-line statement is to say "I love you enough to set some limits" and "I love you too much to waste time arguing with you."
-  - If done correctly, it completely sidesteps the argument because the parent isn't dropping into a [contention](/conflicts/).
+  - If done correctly, it completely sidesteps the argument because the parent isn't dropping into a [contention](people-5_conflicts.md).
 - If you ever say "no", stay consistent and *never, ever relent*.
   - If you do relent, children will never take you seriously, since your word means nothing.
   - This is why it's important to only say "no" to things you can fully enforce, which often requires consulting others.
@@ -831,14 +831,14 @@ Only make reasonable consequences:
 
 - Setting reliable limits is a relatively straightforward process:
   1. Find 1 routine thing you're going to confront.
-     - Only focus on changing one habit/pattern at a time, since that's [the only way to successfully change habits anyway](/habits/).
+     - Only focus on changing one habit/pattern at a time, since that's [the only way to successfully change habits anyway](habits.md).
   2. Plan to restrict an activity or privilege, but don't do it yet.
      - That restriction must be enforceable, with very specific criteria about what you'll do, how long, and what conditions it'll persist.
   3. Discuss it with at least a few people and do some research and reading on it.
   4. Get support from other involved adults (coaches, teachers, etc.)
   5. After you're 100% sure you know how to respond to every possible action they take, execute the plan.
   6. Avoid nagging or reminding them, and let them experience the consequences of your predetermined, well-researched framework.
-- If you succeed with one specific consequence, children will rapidly pick up a pattern and make changes on their own without further [conflicts](/conflicts/) about it.
+- If you succeed with one specific consequence, children will rapidly pick up a pattern and make changes on their own without further [conflicts](people-5_conflicts.md) about it.
 - The only way consequences work is because the child knows they are loved.
   - Otherwise, without love, the child will see their consequences as a challenge to overcome or an obstacle in the way of what they want.
   - Children only become successful adults in their 20s when they see their parents as *both* powerful and loving.
@@ -858,7 +858,7 @@ Only make reasonable consequences:
   5. When they're over, THEY'RE OVER, with no revisiting them or discussions about them.
 - Logical consequences are extremely difficult to enforce, for several reasons:
   - Many consequences don't create adverse consequences for a very long time (e.g., not doing homework or yelling when angry).
-  - The [creative ability](https://gainedin.site/creativity/) of each child is often far greater than a parent can control, so children quickly find workarounds to any rule.
+  - The [creative ability](mind-creativity.md) of each child is often far greater than a parent can control, so children quickly find workarounds to any rule.
   - For many consequences, you often see the outcome immediately and think, "I really don't want to have to fix/clean/say..."
     - Most parents reject that thought, then try to do things that will make the *parents* feel more comfortable with their child's consequences.
 - The only way to find logical consequences for actions requires consulting other people to find all the possible ways the child will likely think ahead to subvert the rule.
@@ -870,7 +870,7 @@ Only make reasonable consequences:
   - In a conventional home, a mother can often defer to a father later: "wait until your father comes home".
 - By lavishing a child with privileges and possessions, you have more things you can use as discipline, as well as more freedoms and fun for them if they behave well.
   - Children are only spoiled from not receiving an adverse consequence for their behavior, *not* from the possessions or freedoms themselves.
-  - Even if you don't have a lot of [money](/money-1/), you can still [create](/creativity/) things for them or perform tasks for them.
+  - Even if you don't have a lot of [money](money-1_why.md), you can still [create](mind-creativity-how.md) things for them or perform tasks for them.
 - The consequence must be enforceable:
   - You can't make a child brush their teeth, but can only give treats to children who do.
   - You can't make them not roll their eyes at you, but you can choose to withhold things.
@@ -887,7 +887,7 @@ Only make reasonable consequences:
 - There are a few specific reasons that logical and enforceable consequences *won't* work:
   - The parent is delivering it with the purpose of vengeance for the pain they've experienced, which makes the child vengeful in return.
   - The parent is angry, frustrated, or delivers the message sarcastically, which provokes the child to wonder if the parent's mood can change the outcome.
-  - Children will always come to need at least the same number of warnings and reminders as the parents give, and will appear deaf once you're [habituated](/habits/) to doing it.
+  - Children will always come to need at least the same number of warnings and reminders as the parents give, and will appear deaf once you're [habituated](habits.md) to doing it.
   - The parents feel sorry for their child and relent from the consequence, which teaches the child that they're not smart enough to learn from their mistakes.
 - To make consequences work, they must be separate from the child.
   - Regardless of what your son or daughter does, you'll still love them, so the consequences have nothing to do with whether you love them, and you *must* communicate that.
@@ -935,7 +935,7 @@ Use the techniques that work best for you and your family:
   3. Pull them away from the offending situation.
 - Concealing items is the best way to avoid future encounters.
   - Until they're old enough to remember where objects are, you can frequently store things away on top of a fridge, in a cabinet, or in a back closet.
-  - If there are *many* things you don't want them to hold until later, keep them [organized](/organization/) in age-appropriate boxes.
+  - If there are *many* things you don't want them to hold until later, keep them [organized](organization.md) in age-appropriate boxes.
 - Spanking a small child below age two is literally the only way to discipline them without redirection or concealing items.
   - Children start breaking rules before you can reason with them, as early as 5 months.
   - The conflict will often settle quickly with a swat, but it will easily become abuse if you're emotionally wound up about the incident.
@@ -1003,7 +1003,7 @@ Handle household chores correctly:
 - Instead of calling them "chores", consider them "contributions".
   - Contributions are daily or weekly things they must do to continue coexisting with the family, since life always requires at least some work.
   - By making them responsible to perform tasks in the household, they find meaning as part of a connected family.
-  - While this is controversial, studies have shown that children who don't do chores in the house are awful at [housekeeping](/housekeeping/) and tend to stay [single](/relationships/) throughout adulthood more often.
+  - While this is controversial, studies have shown that children who don't do chores in the house are awful at [housekeeping](home-housekeeping.md) and tend to stay [single](relationships-1_why.md) throughout adulthood more often.
 - Start with contributions as soon as they can walk.
   - Even if they're making a mess, let them do anything that's safe.
   - Work together with them, and make it a team effort.
@@ -1017,15 +1017,15 @@ Handle household chores correctly:
   - If you mandate they do it now, you're giving them an ultimatum that they won't like.
   - By delaying, you get time to consider a logical consequence if they don't do it.
   - Never, *ever* remind them.
-  - It's easy to not remind them if you have a [creative](/creativity/) solution if they need to learn a life lesson about not doing that chore.
+  - It's easy to not remind them if you have a [creative](mind-creativity-how.md) solution if they need to learn a life lesson about not doing that chore.
 - However, they can certainly do *extra* chores to make life easier for everyone.
   - Never pay them for contributions, since that's the bare minimum.
   - Feel free to pay them commissions for extra work or an extremely great job at something, though.
 
 Be careful with technology:
 
-- Children have an unusually high capacity to become [addicts](/substances/), so teach them how to detect when their behavior is excessive.
-- Most [consumer technology](https://trendless.tech/) (e.g., smartphones, social media) is *designed* to be addictive.
+- Children have an unusually high capacity to become [addicts](addiction-substances.md), so teach them how to detect when their behavior is excessive.
+- Most [consumer technology](computers.md) (e.g., smartphones, social media) is *designed* to be addictive.
 - All technology, however, is a privilege.
 - You can simply draw the line with them as "good children who do their chores and don't fight get to keep using technology".
 - If you don't teach them responsibility with technology gradually, they'll abuse it by the time they're teenagers.
@@ -1059,20 +1059,20 @@ When they misbehave in public:
 - You can warn them that consequences will come, deal with the consequences later, or keep them home the next time you go.
 - If you're bold, redirect the shame back to them by publicly advertising as a celebration of how awful they're behaving.
 
-To address [conflicts](/conflicts/) as soon as they arise, allow anyone in the household to call a family meeting at a pre-designated place at any time.
+To address [conflicts](people-5_conflicts.md) as soon as they arise, allow anyone in the household to call a family meeting at a pre-designated place at any time.
 
 ## Your romantic relationship affects parenting
 
 Don't let the child's needs eclipse the rest of your home:
 
-- Keep your [marriage](/relationships/) a priority, since it affects how reliably you can be a parent.
+- Keep your [marriage](relationships-3_marriage.md) a priority, since it affects how reliably you can be a parent.
   - Children are intimately aware of their parents' relationship, sometimes more than the parents.
-  - Keep [date night](/dating/) a priority.
+  - Keep [date night](relationships-2_dating.md) a priority.
   - Kiss your spouse regularly in front of the children.
   - Continue affirming your love and gratitude.
 - Make a date night co-op with three other sets of parents to babysit once a month and date night for the other three weeks.
 - This is easy to do because adults don't usually feel and express their needs as urgently as children.
-- If you prioritize them too much, they'll expect that you determine their [happiness](/happiness-1/), which eventually becomes impossible.
+- If you prioritize them too much, they'll expect that you determine their [happiness](happiness.md), which eventually becomes impossible.
 - If you give children everything you have, they'll assume they can have everything of yours later.
 
 A child needs *both* a mother and a father figure:
@@ -1084,14 +1084,14 @@ A child needs *both* a mother and a father figure:
 - Children need a loving mother to teach self-love and compassion for others.
   - Uncaring or absent mothers inspire children to be critical and mean-spirited toward themselves and others.
 - The nuclear family model has worked for thousands of years:
-  - The father provides for a household financially with a [career](/jobs-1/).
-  - The mother works to [maintain the home](/housekeeping/) and manage numerous details, including the children.
-  - The more analytical spouse [manages the finances](/money-1/).
+  - The father provides for a household financially with a [career](jobs-1_why.md).
+  - The mother works to [maintain the home](home-housekeeping.md) and manage numerous details, including the children.
+  - The more analytical spouse [manages the finances](money-1_why.md).
   - The parents have authority over the children, who possess miniature roles that imitate their same-sex parent until they move out.
   - LGBetc. marriages often give confusing guidelines for children about how to define male or female behavior, as well as how they should naturally interact.
   - Polyamorous relationships (e.g., 2 males and 1 female) can confuse the children about which of those father or mother figures to model.
 
-A broken home will be severely devastating, but [a child can still recover from it](/hardship-social/).
+A broken home will be severely devastating, but [a child can still recover from it](hardship-ptsd.md).
 
 ## Child safety
 
@@ -1110,7 +1110,7 @@ Pool noodles can protect most things:
 - Cut them in half as a barrier for many surfaces, or in 3/4 for most corners.
 - Put a pool noodle under a fitted sheet to keep them from falling out of bed.
 
-Learn [basic first aid](/first-aid/) to avoid most hospital visits:
+Learn [basic first aid](body-firstaid.md) to avoid most hospital visits:
 
 - Freeze ketchup packets as small ice packs.
 - Always keep antibiotic ointment and band-aids, just in case.
@@ -1119,14 +1119,14 @@ Learn [basic first aid](/first-aid/) to avoid most hospital visits:
 Try to protect their minds:
 
 - Install a keylogger or content blocker on their phone.
-- Look up the movie and its plot summary beforehand if you're worried about sex scenes, violence, or [perverse values](https://gainedin.site/values/).
+- Look up the movie and its plot summary beforehand if you're worried about sex scenes, violence, or [perverse values](values.md).
   - More importantly, explain *why* you don't want them to watch it.
 
 Watch carefully for their health:
 
 - Children don't tend to articulate how they're injured, *especially* before they're 5 years old.
 - Pay close attention to anything out of the ordinary, such as them being particularly non-talkative.
-- Often, they simply need [sleep](/sleep/), even when they fight you about it.
+- Often, they simply need [sleep](sleep.md), even when they fight you about it.
 - If you must give them medication, try to mix it in with sugar (which is why most children's medication is practically candy).
 - To administer eye drops, have them look upwards, then apply the drops just above their lower eyelid.
 - For them to get shots, have them shake out the anxiety on an arm they're *not* using.
@@ -1170,7 +1170,7 @@ Watch for sexual predators:
      - Let them know you'll try to find help for them from people who know how to handle the situation better.
      - If you tell someone else later without informing them, they *will* feel betrayed.
 - Watch closely for seemingly innocuous social media sites (e.g., Roblox) that appear harmless but quietly endorse or encourage sexual misconduct.
-- Make sure they understand in [an emergency](/disasters-1/) to seek out an adult, since the likelihood that an adult they find is a pedophile almost nonexistent, but the likelihood an adult finds *them* is much higher.
+- Make sure they understand in [an emergency](hardship-disaster.md) to seek out an adult, since the likelihood that an adult they find is a pedophile almost nonexistent, but the likelihood an adult finds *them* is much higher.
 
 If you can't find your children in your home, look in the most deadly places where time is most critical (e.g., pools, freezers, washing machines, dryers).
 
@@ -1183,16 +1183,16 @@ If everyone in a group is watching the kids, then nobody is actually watching th
 Only a few things cause the worst parenting:
 
 - Focusing on what the child is doing instead of what causes their behavior (which often expresses as an "I feel..." or "I need..." statement).
-- [Fear](https://gainedin.site/fear/)-driven prevention of letting a child learn things for themselves.
+- [Fear](mind-feelings-fear.md)-driven prevention of letting a child learn things for themselves.
 - Impatience at a child's comparatively aimless or whimsical approach to tasks.
-- A narrow [cultural range](https://gainedin.site/culture/) from only a few caretakers (i.e, no extended family or friends babysitting).
+- A narrow [cultural range](culture.md) from only a few caretakers (i.e, no extended family or friends babysitting).
 
 Watch for frequent discipline:
 
 - There are only a few possible reasons why a child needs constant correction:
   - The child feels uncertain about something, so they're feeling out the boundaries.
   - The parents are failing at setting and maintaining enforceable, logical boundaries.
-  - The child doesn't feel loved, so they're seeking attention to establish their [identity](https://gainedin.site/identity/) with something.
+  - The child doesn't feel loved, so they're seeking attention to establish their [identity](identity.md) with something.
 - Be *very* careful if you observe yourself scaling up your disciplines to resolve an issue, since your choice of correction is obviously not working as well.
 
 Domestic abuse comes in all varieties:
@@ -1220,7 +1220,7 @@ Don't over-control:
   - Children in excessively controlling homes learn to hate authority and rules.
   - Most of the time, they learn their life lessons later outside the home.
 - Setting stringent, immovable rules:
-  - The rules must ease up as the child matures or [their teenage years](/parenting-3/) become unbearable.
+  - The rules must ease up as the child matures or [their teenage years](parenting-3_teenagers.md) become unbearable.
 - Forced to do homework for hours every night:
   - If they honor their parents, they can easily become a workaholic adult.
   - Forcing homework time doesn't give them the freedom to fail.
@@ -1235,7 +1235,7 @@ Avoid getting overly involved:
     1. There's no "downtime" for the child to process their experiences.
     2. The parents are getting burned out and miserable.
 - Preventing the children from failing or hurting themselves:
-  - While it hurts to watch, children must learn to manage failures and setbacks because [most adult life is about persevering](/success-5/).
+  - While it hurts to watch, children must learn to manage failures and setbacks because [most adult life is about persevering](success-5_persevering.md).
   - They often come to expect that you'll *always* solve their problems, long into adulthood.
   - Also, overprotective parenting often leads to adult binge-drinking and drug abuse.
 - Giving the child endless fun or the absolute best of everything:
@@ -1255,7 +1255,7 @@ Don't distort their self-image:
   - Children are oblivious to most of their environment until they're older, but they can feel shame more than you.
   - Children can adapt to any career or lifestyle changes, but only make your decisions to benefit the whole family.
   - Justifying a poor choice as "for the kids" will damage your child's trust in your ability to make decisions later
-  - Fun things outside your financial means lead to [worse problems later](/money-2/).
+  - Fun things outside your financial means lead to [worse problems later](money-2_debt.md).
 - Giving frequent negative reinforcement:
   - If a child feels inferior, they'll become perfectionists, apathetic, or a mix of both.
   - Since they didn't ask to be born, repeating how much you had to sacrifice for them sets an unfair expectation on them.
@@ -1287,8 +1287,8 @@ Underneath the facade, dysfunctional families share a similar attitude:
 
 - The group, family, or environment is responsible for changing, not the individual
 - While members feel controlled by others, they take responsibility for others' feelings, thoughts, and actions
-- [Conflicts](/conflicts/) are locked in a vicious cycle of blame toward other members
-- Members can't set or enforce effective [boundaries](/people-3/) to protect themselves
+- [Conflicts](people-5_conflicts.md) are locked in a vicious cycle of blame toward other members
+- Members can't set or enforce effective [boundaries](people-3_respect.md) to protect themselves
 
 Dysfunctional families adopt extreme roles:
 
@@ -1301,16 +1301,16 @@ Dysfunctional families adopt extreme roles:
 - They form into a few major archetypes:
   - Hero
     - That person is expected to fix everything, and they usually rise to that challenge.
-    - They usually outwork everyone and [succeed](/success-1/) tremendously, but are usually addicted to something, never feel good enough, and are rarely [happy](/happiness-1/).
+    - They usually outwork everyone and [succeed](success-1_why.md) tremendously, but are usually addicted to something, never feel good enough, and are rarely [happy](happiness.md).
   - Scapegoat
     - That person is declared the *cause* of the family's problems, so they usually identify with the role and counter-cultural things.
-    - They usually have trouble with self-acceptance and finding [happiness](/happiness-1/) without a perceived enemy.
+    - They usually have trouble with self-acceptance and finding [happiness](happiness.md) without a perceived enemy.
   - Lost Child
     - The family is so busy with the Scapegoat that they don't meet their needs, so they learn to be self-sufficient.
     - They usually have trouble working with others or when others depend on them.
   - Clown/Mascot
     - They're trying to release all the stress of everyone else by being funny and entertaining.
-    - They tend to have trouble seriously discussing [in-depth issues](/conflicts/).
+    - They tend to have trouble seriously discussing [in-depth issues](people-5_conflicts.md).
   - Enabler/Caretaker
     - They assume responsibility for everyone else's possessions and actions.
     - Their greatest fear is for others to not need them.
@@ -1320,13 +1320,13 @@ Dysfunctional families adopt extreme roles:
 You're never going to get parenting completely right:
 
 - The only way to be a perfect parent is to be a perfect role model, which is humanly impossible.
-- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](https://gainedin.site/decisions/), *not* the quality of their parenting.
-- At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](/people-4/) in adulthood, decades later.
-- There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](https://gainedin.site/culture/).
+- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](decisions.md), *not* the quality of their parenting.
+- At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-4_friends.md) in adulthood, decades later.
+- There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](culture.md).
 
 Society vilifies relatively innocuous issues compared to what really matters:
 
-- Media (music, video games, TV) are only issues in the realm of *[excess](/substances/)*, and it doesn't "destroy their innocence" if you give them context for it (either before *or* afterward).
+- Media (music, video games, TV) are only issues in the realm of *[excess](addiction-substances.md)*, and it doesn't "destroy their innocence" if you give them context for it (either before *or* afterward).
 - One abusive event doesn't scar a child *nearly* as much as permitting it to happen again or having a routine with it, and the worse problem is parents refusing to admit they failed.
 - *Who* a child associates with isn't nearly as important as *what* they learn from those people.
 
@@ -1341,20 +1341,20 @@ Mind who you learn from:
 
 Some components of parenting are always controversial:
 
-- The scope of how much to discipline children (e.g., spanking, school choice) has swung back-and-forth with society's [trends](https://gainedin.site/trends/), and varies by world region and [religious belief](https://gainedin.site/religion/).
+- The scope of how much to discipline children (e.g., spanking, school choice) has swung back-and-forth with society's [trends](trends.md), and varies by world region and [religious belief](religion.md).
 - 20th-century post-WWII Western values advocate preserving their innocence, but parents have historically given more responsibility to children and taught them that they were bad at decision-making.
-- All of this expands outward into debate about [how to parent teenagers](/parenting-3/), where the stakes are higher.
+- All of this expands outward into debate about [how to parent teenagers](parenting-3_teenagers.md), where the stakes are higher.
 
 No matter how you've gotten your children, they are worth having:
 
-- Even if you're suffering from [a divorce](/hardship-social/), your child can still recover from the hardship and make a better marriage in *their* future.
-- If you become the parent of another family's child, you've given that person a second chance at [a meaningful life](https://gainedin.site/meaning).
+- Even if you're suffering from [a divorce](hardship-family-divorce.md), your child can still recover from the hardship and make a better marriage in *their* future.
+- If you become the parent of another family's child, you've given that person a second chance at [a meaningful life](meaning.md).
 
 Healthy family members, beyond their relationships, transform communities:
 
 - Positively changing a child's life dramatically changes the family's entire structure.
 - They have better social skills from their biological family's training.
-- A healthy family's nurturing, supportive environment fosters [success](/success-1/) and [happiness](/happiness-1/).
+- A healthy family's nurturing, supportive environment fosters [success](success-1_why.md) and [happiness](happiness.md).
 - Great family rituals and customs infect other families that want to reproduce it.
 
 Capture the memories as often as you can:
@@ -1363,4 +1363,4 @@ Capture the memories as often as you can:
 - Take photos of them before they grow to resent their siblings and parents.
 - Put your child's graduation year on a large shirt, then take a photo of your child every year after completing a grade to see them grow into it.
 
-Finally, once they've reached puberty, it's time to [start letting them go](/parenting-3/).
+Finally, once they've reached puberty, it's time to [start letting them go](parenting-3_teenagers.md).

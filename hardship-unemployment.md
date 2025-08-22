@@ -80,11 +80,11 @@ Before considering your career, you need a *job that [lets you survive](economic
 
 Look for *any* work you can do until you find stable employment:
 
-- If you're [creative](mind-creativity.md), you can find *tons* of [side work](entrepeneur-4_freelancing.md).
+- If you're [creative](mind-creativity.md), you can find *tons* of [side work](entrepreneur-4_freelancing.md).
   - Search dumpsters for broken items, then fix and sell them.
   - Check the gig section of [Craigslist](https://craigslist.org) and other online classified sections.
   - Since you have plenty of free time, learn a universally marketable skill you can take anywhere.
-- If you start liking the [side work](entrepeneur-4_freelancing.md), consider how much work you'd need to replace your lost job and never hunt for a job again!
+- If you start liking the [side work](entrepreneur-4_freelancing.md), consider how much work you'd need to replace your lost job and never hunt for a job again!
 - Artistic skills are usually low-demand and based heavily on popularity, so don't expect them to help much.
   - Further, art roles are typically luxury services, [which disappear as soon as the economy turns downward](economics-downturn.md).
 

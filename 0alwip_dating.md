@@ -30,55 +30,55 @@ If you'd bet your life that they're the best you'll ever get, marry them, and do
 
 Most people want a life partner, but it comes with many risks:
 
-- Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](/awareness/), and you *will* be forced to change.
-- If you're [unhappy](/happiness-1/), you'll make others unhappy, no matter who they are.
+- Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](awareness.md), and you *will* be forced to change.
+- If you're [unhappy](happiness.md), you'll make others unhappy, no matter who they are.
   - Relationships give more *chances* at happiness, but you must use them.
-- Relationships dramatically alter lifestyle [habits](/habits/) about [health](/weight/), [money](/money-1/), [housekeeping](/housekeeping/), and overall [success](/success-1/).
-- Relationships test the skills for [good boundaries](/people-3/) far more than [more casual friendships](/people-4/).
-- To be successful at dating (and eventually [relationships](/relationships/)), you must have [succeeded](/success-1/) at other parts of life.
+- Relationships dramatically alter lifestyle [habits](habits.md) about [health](body-4_health.md), [money](money-1_why.md), [housekeeping](home-housekeeping.md), and overall [success](success-1_why.md).
+- Relationships test the skills for [good boundaries](people-3_respect.md) far more than [more casual friendships](people-4_friends.md).
+- To be successful at dating (and eventually [relationships](relationships-3_marriage.md)), you must have [succeeded](success-1_why.md) at other parts of life.
 
 Your ideal mate will *always* have certain characteristics:
 
-- They're willing to [change](https://gainedin.site/changes/), regardless of risks.
-- They openly [communicate](/speaking/) their [issues](/conflicts/) and concerns with you.
+- They're willing to [change](changes.md), regardless of risks.
+- They openly [communicate](language-speaking.md) their [issues](people-5_conflicts.md) and concerns with you.
 - You can trust them, with proven stories of their loyalty.
 - You share a natural intimacy with them ("chemistry").
-- You share a similar sense of [humor](https://gainedin.site/humor/) with them.
-- They encourage and support others' [successes](/success-1/).
-- You both share at least some [hobbies](/fun/).
-- You both bring out each other's best characteristics of your [personalities](https://gainedin.site/personality/).
-- You both [respect](/people-3/) each other's lives, decisions, and opinions.
+- You share a similar sense of [humor](humor.md) with them.
+- They encourage and support others' [successes](success-1_why.md).
+- You both share at least some [hobbies](fun.md).
+- You both bring out each other's best characteristics of your [personalities](personality.md).
+- You both [respect](people-3_respect.md) each other's lives, decisions, and opinions.
 
 Contrary to popular opinion, compatibility is mostly unrelated to relationship satisfaction:
 
-- Any two people who have healthy [conflict-management skills](/conflicts/) and [the right attitudes](/success-2/) to stay honest and work hard at the relationship can live well with each other.
+- Any two people who have healthy [conflict-management skills](people-5_conflicts.md) and [the right attitudes](success-2_attitude.md) to stay honest and work hard at the relationship can live well with each other.
 - Vast differences between people create more misunderstanding, but they also create more benefits:
   - More unique ways of approaching issues
   - More diverse opinions means more perceived solutions
   - Broader set of skills to pull from
-- Each [personality](https://gainedin.site/personality/) is uniquely different, so you can't know simply from an internet profile or psychological assessment.
+- Each [personality](personality.md) is uniquely different, so you can't know simply from an internet profile or psychological assessment.
 
 ## Understand yourself compared to others
 
-It's difficult without practice, but you can *immediately* know why you like someone if you [examine yourself](/awareness/), then compare yourself to them.
+It's difficult without practice, but you can *immediately* know why you like someone if you [examine yourself](awareness.md), then compare yourself to them.
 
 Emotional temperament:
 
 - How do you/they see themselves?
-- Are there any clear [addictions](/substances/)?
-- How [happy](/happiness-1/) are you/they about the present and future?
+- Are there any clear [addictions](addiction-substances.md)?
+- How [happy](happiness.md) are you/they about the present and future?
 - How much emotional energy do you/they have?
 - How likely are you/they to blame others for problems or failures?
 - How much romantic passion and sensual desire do you/they naturally show?
 
 Social style:
 
-- How much [moral character](https://gainedin.site/morality/) do you/they have (e.g., integrity, honesty, fairness)?
+- How much [moral character](morality.md) do you/they have (e.g., integrity, honesty, fairness)?
 - How capable are you/they for sensitivity and empathy?
 - How much do you/they need to control or be in control?
-- How much do you/they want to be [around other people](/people-4/)?
+- How much do you/they want to be [around other people](people-4_friends.md)?
 - How much do you/they make personal time more important than intimate time?
-- How quickly do you/they [compromise](/conflicts/) and adjust to circumstances?
+- How quickly do you/they [compromise](people-5_conflicts.md) and adjust to circumstances?
 
 Prevailing mentality and thinking:
 
@@ -92,50 +92,50 @@ Lifestyle:
 - How much day-to-day life do you/they expend?
 - Do you/they enjoy physically challenging activities?
 - How much interest and enjoyment do you/they get out of the physical act of sex?
-- What is your/their attitude towards [physical health](/weight/) in general?
-- What is your/their desire regarding safely and securely [raising a family](/parenting-1/)?
-- How [efficient](/success-4/), productive and [driven towards self-improvement](/success-1/) are you/they?
+- What is your/their attitude towards [physical health](body-4_health.md) in general?
+- What is your/their desire regarding safely and securely [raising a family](parenting-1_babies.md)?
+- How [efficient](success-4_routine.md), productive and [driven towards self-improvement](success-1_why.md) are you/they?
 - How physically attractive do you/they feel?
 
 Current relationship skills:
 
 - How well do you/they verbalize thoughts and feelings, ask questions, and compare/contrast?
   - How interested are you/they in communicating?
-  - How capable are you/they of [writing](/writing/) and [speaking](/speaking/)?
+  - How capable are you/they of [writing](language-writing.md) and [speaking](language-speaking.md)?
 - How capable are you/they at reducing damage from anger?
 - How capable are you/they in honestly and constructively expressing all emotions?
 - How well can you/they control mood and feelings?
-- What is your/their [conflict management style](/conflicts/)?
+- What is your/their [conflict management style](people-5_conflicts.md)?
   - How respectful are you/they of others in conflicts?
   - How well can you/they drop a resolved issue?
 
 Values and beliefs:
 
-- How important is [spiritual expression and beliefs](https://gainedin.site/religion/) to you/them?
-- How interested are you/they in [raising children](/parenting-1/)?
-- How [traditional](https://gainedin.site/culture/) are you/they?
+- How important is [spiritual expression and beliefs](religion.md) to you/them?
+- How interested are you/they in [raising children](parenting-1_babies.md)?
+- How [traditional](culture.md) are you/they?
   - How important are morality and personal values to you/them?
   - How much do you/they want to be involved in church?
   - What religious beliefs do you/they have and how do they affect day-to-day life?
-- How ambitious and driven to [personal success](/success-1/) are you/they?
+- How ambitious and driven to [personal success](success-1_why.md) are you/they?
 - How much do you/they desire to give back to communities and behave ethically?
 
 Background:
 
-- How healthy a family did you/they come from and how do you/they see their overall [health](/weight/) and [hygiene](/people-2/)?
+- How healthy a family did you/they come from and how do you/they see their overall [health](body-4_health.md) and [hygiene](people-2_image.md)?
   - How close are you/they to family and how much involvement do they have in life?
 - How educated are you/they, and how important do you/they see it?
 - How much are they willing to change to have a relationship?
 - How many past relationships did you/they have, how did they go, and why did they end?
-- What kinds of [friends](/people-4/) do you/they have? Are they healthy?
+- What kinds of [friends](people-4_friends.md) do you/they have? Are they healthy?
 
 Age differences:
 
 - An age gap is usually fine, but often comes with a maturity gap.
-- Significant age differences have more risks of misunderstood [cultural norms](/people-3/) and others' rejection.
+- Significant age differences have more risks of misunderstood [cultural norms](people-3_respect.md) and others' rejection.
 - Younger people have higher risks and benefits:
   - They're usually more attractive, more easily impressed, and often with fewer poor relationship experiences.
-  - At the same time, they're often too dependent, demanding, inexperienced, unintelligent, boring, and [unprepared](/success-1/) for some of life's challenges.
+  - At the same time, they're often too dependent, demanding, inexperienced, unintelligent, boring, and [unprepared](success-1_why.md) for some of life's challenges.
 - Older people are usually great dates:
   - They're often independent and interesting.
   - At the same time, they're frequently jaded about life and a female significantly older than a male can sometimes create power struggles.
@@ -182,7 +182,7 @@ Female-specific cues:
 
 ## Hunt everywhere
 
-Even if you're attractive and [successful](/success-1/), the most likely candidates for a relationship haven't met you yet, so keep meeting new people.
+Even if you're attractive and [successful](success-1_why.md), the most likely candidates for a relationship haven't met you yet, so keep meeting new people.
 
 When dating, you're essentially "selling" yourself:
 
@@ -196,15 +196,15 @@ When dating, you're essentially "selling" yourself:
     3. 100 people will already be in a relationship.
     4. 100 of them won't find you attractive.
     5. Of the remaining 50, 20-40 won't meet your standards, and you'll find 10 possible candidates you can get to know more.
-- [Marketing](https://notageni.us/marketing/) is conveying your value at each event by improving how you appear:
-  - Learn better [social](/people-4/) and [speaking](/speaking/) skills.
-  - Find way to at least *appear* [successful](/success-1/) and [happy](/happiness-1/).
-  - [Lose weight](/weight/) and learn to [have fun](/fun/).
+- [Marketing](marketing.md) is conveying your value at each event by improving how you appear:
+  - Learn better [social](people-4_friends.md) and [speaking](language-speaking.md) skills.
+  - Find way to at least *appear* [successful](success-1_why.md) and [happy](happiness.md).
+  - [Lose weight](body-2_diet.md) and learn to [have fun](fun.md).
 
 Search *everywhere* for a date:
 
 - Ask family and friends.
-- Pursue group events for the things you enjoy and [find new friends](/people-4/).
+- Pursue group events for the things you enjoy and [find new friends](people-4_friends.md).
 - Invite people to your home.
 - Visit an official dating event or a dating website.
 
@@ -217,7 +217,7 @@ Dating website tips:
 - Avoid standard greetings like "hey, how are you?"
   - Bring up a shared interest right away.
   - Tell them a funny observation about their profile.
-  - Generally, the more attractive they are the more people are contacting them, so stay [tactful](/people-3/).
+  - Generally, the more attractive they are the more people are contacting them, so stay [tactful](people-3_respect.md).
 - Try to fill your profile and bio with keywords that match the things you value.
 
 The more you think about asking someone out, the less likely you'll actually do it, so take the risk quickly and often.
@@ -228,18 +228,18 @@ After a few dates, you should have a prioritized list of everything you want in 
 
 - While feelings will waver, guidelines don't.
 - Write out your list, and keep consulting it to keep yourself accountable.
-- As you date, it's not uncommon for your standards to change when you gain increased [awareness](/awareness/) of who you are and what you want.
+- As you date, it's not uncommon for your standards to change when you gain increased [awareness](awareness.md) of who you are and what you want.
 
 If you let past experiences unrelated to them affect your judgment, you're being irrational and unfair to them.
 
 Nobody is perfect, so don't expect it:
 
 - Instead, prioritize your desires to see how many of the things you want, and how important they are to you.
-- No human, no matter how beautiful, attractive, or loving, [can give someone satisfaction in life](/happiness-1/).
+- No human, no matter how beautiful, attractive, or loving, [can give someone satisfaction in life](happiness.md).
   - You can only love anyone as much as you love yourself.
 - Respect people for who they *are*, not what they could be or what you want them to be.
 
-To succeed through all the effort and unlikely circumstances, you *must* [find a way to persevere](/success-4/) irrespective of what happens.
+To succeed through all the effort and unlikely circumstances, you *must* [find a way to persevere](success-4_routine.md) irrespective of what happens.
 
 ## Date intentionally
 
@@ -248,10 +248,10 @@ You're dating to learn, *not* to make lifetime commitments:
 - Dating is a shared experiment to see how you and someone else get along.
 - Date people you usually wouldn't to further understand who you *would* prefer.
 
-You must have [fun](/fun/) with them:
+You must have [fun](fun.md) with them:
 
 - You both should *want* to spend time together.
-- Your priority is to [make friends](/people-4/), not sexual conquest or fighting loneliness.
+- Your priority is to [make friends](people-4_friends.md), not sexual conquest or fighting loneliness.
 
 Be authentic:
 
@@ -267,7 +267,7 @@ Focus more on their needs, not yours:
 
 Set physical standards on how intimate you'll go, since you *will* cross them and will need to back away.
 
-Small issues today will become larger ones in the future, so your ability to wisely and quickly [handle conflicts](/conflicts/) play a huge part of a successful relationship.
+Small issues today will become larger ones in the future, so your ability to wisely and quickly [handle conflicts](people-5_conflicts.md) play a huge part of a successful relationship.
 
 ## Break from conventional
 
@@ -329,13 +329,13 @@ If you're married, make it special:
 - Go visit a store together but don't buy anything, but pay attention to what they like and get it for them as a gift later.
 - Renew your wedding vows.
 
-Whatever you do, it can be [frugal](/money-4/), but not cheap.
+Whatever you do, it can be [frugal](money-4_spending.md), but not cheap.
 
 ## Observe your date
 
 Your date should be having as much fun as you:
 
-- Romantic relationships are merely high-risk, high-reward [friendships](/people-4/).
+- Romantic relationships are merely high-risk, high-reward [friendships](people-4_friends.md).
 - If they can't enjoy things *with* you, even if they don't prefer it, the relationship is already shaky.
 - Don't take it personally, since plenty of good people aren't a good fit for you specifically.
 
@@ -369,19 +369,19 @@ Falling in love is a terrible way to make romantic decisions:
 - In fact, belief in "true love" romance stories has been scientifically proven to give poor relationship success.
 - Instead of thinking "I love them" you should be able to say, "I can live with their worst traits for the rest of my life".
 
-Many of the things people do in romantic books and movies [disrespect boundaries](/people-3/), [break laws](https://notageni.us/legally-safe/), and destroy [trust](https://gainedin.site/trust/).
+Many of the things people do in romantic books and movies [disrespect boundaries](people-3_respect.md), [break laws](legal-safety.md), and destroy [trust](trust.md).
 
 ## Warning signs
 
 If you see any of their quirks that *really* annoy you, they'll get *much* worse as you get to know them.
 
-None of these signs are necessarily unsolvable, but don't intensify the relationship without [awareness](/awareness/) of how to fix or avoid them.
+None of these signs are necessarily unsolvable, but don't intensify the relationship without [awareness](awareness.md) of how to fix or avoid them.
 
-However, nobody is entirely "perfect" for you because everyone is somewhat broken, so your [personality](https://gainedin.site/personality/) may work well against some of them.
+However, nobody is entirely "perfect" for you because everyone is somewhat broken, so your [personality](personality.md) may work well against some of them.
 
 They're psychologically or physically abusive:
 
-- Abusive people usually [disrespect boundaries](/people-3/) without realizing it.
+- Abusive people usually [disrespect boundaries](people-3_respect.md) without realizing it.
 - If they disrespect you, it'll only get worse as you grow closer.
 - Never rationalize abusive behavior.
 - Physically abusive people can't control their anger once it boils over.
@@ -423,35 +423,35 @@ Self-absorbed:
 
 They only want your money:
 
-- Materialistic people will force their partners to assume [debt](/money-2/) later.
+- Materialistic people will force their partners to assume [debt](money-2_debt.md) later.
 - In marriage, they tend to lead families to financial ruin.
-- Leave them if they're unwilling to learn [healthy financial principles](/money-1/).
+- Leave them if they're unwilling to learn [healthy financial principles](money-1_why.md).
 
 Wants the *concept* of you more than you as a person:
 
-- While people should desire that you [grow and improve](/success-1/), authentic love is valuing the person as they are *now*.
+- While people should desire that you [grow and improve](success-1_why.md), authentic love is valuing the person as they are *now*.
 - If someone is meeting their needs through you without considering your feelings, they're being psychologically abusive.
 
 They're perpetually miserable:
 
-- [Working through personal issues](/awareness/) is good, but not when everyone else is having fun!
-- Everyone has a baseline [happiness](/happiness-1/) they revert to when there's no outside pressure, and you can't change that.
+- [Working through personal issues](awareness.md) is good, but not when everyone else is having fun!
+- Everyone has a baseline [happiness](happiness.md) they revert to when there's no outside pressure, and you can't change that.
 - While you may temporarily improve their satisfaction, they'll eventually become accustomed to you.
 - The worst variation of this is someone who has become contentious about frivolous things.
 
 Their have no personal goals or ambitions:
 
-- They have no personal [goals or ambitions](/success-3/).
-- Without [goals](/success-3/) and [purpose](/success-2/) people become stagnant, lazy deadbeats.
+- They have no personal [goals or ambitions](success-3_goals.md).
+- Without [goals](success-3_goals.md) and [purpose](success-2_attitude.md) people become stagnant, lazy deadbeats.
 - If they quickly adapt to what you like, they haven't discovered what they like in themselves.
-- Note if they've learned how to [cook](/cooking/), [clean](/housekeeping/), or [take care of themselves](/people-2/).
+- Note if they've learned how to [cook](cooking.md), [clean](home-housekeeping.md), or [take care of themselves](people-2_image.md).
 - Since they may *never* find purpose, don't wait for them to find it.
 - At its most severe, this person is unwilling to take care of children from a previous marriage.
 
 They're reckless with their possessions or body:
 
-- They're reckless with their [money](/money-1/), resources or [self](/people-2/).
-- Living in excess with [money](/money-1/) or resources, neglecting [self-maintenance](/people-2/), and taking unnecessary risks is disrespecting their own boundaries.
+- They're reckless with their [money](money-1_why.md), resources or [self](people-2_image.md).
+- Living in excess with [money](money-1_why.md) or resources, neglecting [self-maintenance](people-2_image.md), and taking unnecessary risks is disrespecting their own boundaries.
 - Usually, they'll expect *you* to maintain their stability, but also won't respect your boundaries.
 - Any recklessness or extreme behavior is usually a sign of addiction, which makes you a means to their substance.
 
@@ -466,8 +466,8 @@ They're sexually promiscuous:
 They compromise their morals:
 
 - If they disrespect their morals, they won't respect yours.
-- They're usually [lying](/lying/) about many seemingly unimportant things or constantly breaking promises.
-- While they can learn morality, they often have a hard time saying "no" in [conflicts](/conflicts/), which means they won't listen when *you* say it.
+- They're usually [lying](people-lying.md) about many seemingly unimportant things or constantly breaking promises.
+- While they can learn morality, they often have a hard time saying "no" in [conflicts](people-5_conflicts.md), which means they won't listen when *you* say it.
 
 They mistreat others:
 
@@ -485,8 +485,8 @@ They're inauthentic or liars:
 They're an addict:
 
 - Addicts value their substance more than anyone or anything else.
-- Addictions can include [alcohol](/alcohol/), pornography, prescription drugs, video games, television, feelings, [housekeeping](/housekeeping/), [traveling](/vacations-trips/), and [productivity](/success-3/).
-- That person needs significant help, but your position in a relationship will create a [conflict](/conflicts/) of interest.
+- Addictions can include [alcohol](fun-alcohol.md), pornography, prescription drugs, video games, television, feelings, [housekeeping](home-housekeeping.md), [traveling](fun-vacations.md), and [productivity](success-3_goals.md).
+- That person needs significant help, but your position in a relationship will create a [conflict](people-5_conflicts.md) of interest.
 - Direct them to a recovery group, then leave them if they don't change genuinely and permanently.
 
 Has no long-term friends:
@@ -528,23 +528,23 @@ Deeply ask yourself why you can't seem to find anyone:
 
 Are you exposing yourself to enough people?
 
-- Learn to connect with more people and [make more friends](/people-4/).
+- Learn to connect with more people and [make more friends](people-4_friends.md).
 
 Are you doing something unattractive?
 
 - Focus on first impressions.
   - For example, 80% of a woman's first impression comes from whether a man is slouching.
-- [Clean and groom yourself more](/people-2/).
+- [Clean and groom yourself more](people-2_image.md).
   - Depending on the context, either smelling nice or body odor is extremely attractive.
   - If you're male, grow facial hair.
-- Learn to be more charming and [gracious](/people-3/).
+- Learn to be more charming and [gracious](people-3_respect.md).
   - Make more direct eye contact.
   - Smile more often.
   - Find more similarities with others.
   - Sharing walking pace with others.
 - Try to appear more attractive.
   - Stand tall or try to look tall.
-  - [Get a pet](/pets/) or play a musical instrument.
+  - [Get a pet](fun-pets.md) or play a musical instrument.
   - The most attractive color to wear is black for men and bright red for women.
   - People are often *very* attracted to someone who looks like their opposite-gender parent.
 
@@ -578,10 +578,10 @@ After a week or two, give them gifts to show your affection:
 
 Keep your long-term purpose in mind:
 
-- You're probably not *just* dating to [have fun](/fun/).
-- Within 2-3 weeks, you should be discussing more controversial issues like [religion](https://gainedin.site/religion/) and politics.
+- You're probably not *just* dating to [have fun](fun.md).
+- Within 2-3 weeks, you should be discussing more controversial issues like [religion](religion.md) and politics.
 - After at least a month, discuss both your past relationships.
-- After 2-3 months, discuss thoughts and opinions about [money](/money-1/).
+- After 2-3 months, discuss thoughts and opinions about [money](money-1_why.md).
 - After a few months, bring your date around friends and family to observe their reactions and get their input.
   - Giving constant and immediate relationship updates to all your friends will usually complicate the situation, so keep those updates private to closer friends only.
 
@@ -591,7 +591,7 @@ Your biological clock will probably hasten your schedule:
 - The relationship must form naturally, so don't rush it.
   - If you're not going steady with them, keep dating around.
   - If the other person is trying to rush the relationship, they may have control or codependency issues.
-- Take the time to get to know their [friends](/people-4/), [values](https://gainedin.site/values/), family, [faith](https://gainedin.site/religion/), and anything else you can learn about them.
+- Take the time to get to know their [friends](people-4_friends.md), [values](values.md), family, [faith](religion.md), and anything else you can learn about them.
 
 ## End relationships correctly
 
@@ -615,7 +615,7 @@ If they've broken up with you, move on:
 - That person made a decision, and trying to get back in a relationship with them is overstepping your standards.
 - You have more worth than being someone else's backup relationship.
 
-Try to avoid as much physical interaction as humanly possible, which may mean [changing jobs](/jobs-1/) or [moving](/moving/).
+Try to avoid as much physical interaction as humanly possible, which may mean [changing jobs](jobs-1_why.md) or [moving](home-moving.md).
 
 Don't have another relationship for at least half a year:
 
@@ -629,7 +629,7 @@ Sometimes, a hopeful romantic relationship can *only* be platonic.
 
 ## If you'll *never* find anyone better, marry
 
-A great marriage is *far* less about finding the "right" person than finding someone willing to work at a [relationship](/relationships/) with you:
+A great marriage is *far* less about finding the "right" person than finding someone willing to work at a [relationship](relationships-3_marriage.md) with you:
 
 - When you're in love, you're oblivious to how much that person actually cares.
 - Having a life partner is less "finding" and more "making".
@@ -638,14 +638,14 @@ Most cultures imply a relationship is a testing ground for marriage:
 
 - It takes 2-4 years to thoroughly get to know someone.
 - While a relationship is generally low-commitment, marriage is a major and (hopefully) permanent life decision.
-- Don't listen to to the social pressure to marry, since people will push [having children](/parenting-1/) and [buying a house](https://notageni.us/homes/) later the same way.
+- Don't listen to to the social pressure to marry, since people will push [having children](parenting-1_babies.md) and [buying a house](home-buysell.md) later the same way.
 
 Some cultures expect marriage a few months from meeting, but others expect 3-5 years of dating before even considering it, but you should seriously consider and decide after about a year.
 
 Marriage is a *huge* decision, but always the best one with the right person:
 
-- Marriage is the foundation for a [family](/parenting-2/).
-- Society almost always endorses it, and often even gives [tax benefits](/money-1/) for it.
+- Marriage is the foundation for a [family](parenting-2_children.md).
+- Society almost always endorses it, and often even gives [tax benefits](money-1_why.md) for it.
 - Even when parents don't approve, they'll usually get over it.
 - Further, a bad marriage can become a good marriage later if both sides are willing to work at it.
 
@@ -656,11 +656,11 @@ Deciding on marriage has degrees of intention:
    - Fear of being alone and never settling down.
    - Love for someone and desire for what's best for both of you.
 3. Following your intuition irrespective of logic or feelings.
-   - Spend time becoming [aware](/awareness/) of what you're sensing.
-4. Deep, considerate [analysis](https://gainedin.site/logic/) that weighs out pros and cons.
+   - Spend time becoming [aware](awareness.md) of what you're sensing.
+4. Deep, considerate [analysis](logic.md) that weighs out pros and cons.
    - Examine the thoughts that lead to your instincts.
    - Fully understand both the good and bad consequences.
-   - Discover non-negotiable lines that they absolutely *must* value, believe, and do to make you [happy](/happiness-1/).
+   - Discover non-negotiable lines that they absolutely *must* value, believe, and do to make you [happy](happiness.md).
 
 Some reasons are *terrible* to get married over:
 
@@ -668,16 +668,16 @@ Some reasons are *terrible* to get married over:
 - You've spent a long time with them and think life would be easier.
 - You don't feel right and imagine a marriage will resolve that unease.
 - The other person is wealthy.
-- You see a friendship with them forever, but have significant [unresolved issues](/conflicts/) with them.
+- You see a friendship with them forever, but have significant [unresolved issues](people-5_conflicts.md) with them.
 - You both share children and want to get married to hide your shame.
 
 If you're sure you want to get married, don't hesitate:
 
-- Weddings [don't cost as much as you might think](/weddings/).
-  - Financially, marriage is cheaper than singleness, at least until [children](/parenting-1/).
+- Weddings [don't cost as much as you might think](relationships-weddings.md).
+  - Financially, marriage is cheaper than singleness, at least until [children](parenting-1_babies.md).
 - You'll *never* fully understand that person, so all you need to know is whether they're a decent fit for the rest of your life.
   - While you could theoretically keep looking, you're not getting younger.
-  - Both of you [building on that marriage](/habits/) is more important than what you started with.
-- If you have [a good relationship](/relationships/), it's always worth it!
+  - Both of you [building on that marriage](habits.md) is more important than what you started with.
+- If you have [a good relationship](relationships-3_marriage.md), it's always worth it!
 
-If you want to jump-start your marriage, communicate and demonstrate *all* your worst qualities to them *before* you [get married](/weddings/).
+If you want to jump-start your marriage, communicate and demonstrate *all* your worst qualities to them *before* you [get married](relationships-weddings.md).

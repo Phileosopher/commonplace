@@ -67,13 +67,13 @@ Many employers simply want someone to do what they tell them to:
 - You're a valuable resource, and employers can only contract for *specific* parts of what you can do, so don't expect to find a boss who will value you as much as a [parent](parenting-2_children.md) can.
 - No matter what, *every* job involves making your boss look good.
 
-Even in a long-distance remote-work culture, face-to-face time is crucial to [close a deal](people-conflicts.md), so be prepared to travel.
+Even in a long-distance remote-work culture, face-to-face time is crucial to [close a deal](people-5_conflicts.md), so be prepared to travel.
 
 If you *do* like your job, consider negotiating more pay before looking for a new one:
 
 - Prepare a compelling case for them with the last 6 months of results.
 - Schedule a low-stress time for the meeting, ideally after lunch on a Friday.
-- [Negotiate](people-conflicts.md) carefully, since it could backfire, and you may quickly need another job if your boss is offended.
+- [Negotiate](people-5_conflicts.md) carefully, since it could backfire, and you may quickly need another job if your boss is offended.
 
 ### Employers usually look beyond your business results
 
@@ -178,7 +178,7 @@ Discover your core values and beliefs:
 
 - Track your natural aptitudes and tendencies.
 - Find what motivates you the most.
-- Look into your experiences and examine the [conflicts](people-conflicts.md) that tore your feelings up the most.
+- Look into your experiences and examine the [conflicts](people-5_conflicts.md) that tore your feelings up the most.
 - Keep asking, "what is my true purpose in life?" until you find something that makes you cry out of longing for it.
 
 Draw out what you want to see yourself doing in 10--20 years:
@@ -210,7 +210,7 @@ You're likely to enjoy *any* job once you're experienced with it, with some exce
 - The job itself is contributing to something that either has no impact or [a bad impact](morality-evil.md) on the world at large.
 - You have to work with people you *really* dislike.
 
-Look for any jobs that represent [universal](humanity-universals.md) human [issues](hardship.md) such as [government conflicts](legal-safety.md), [sickness](body-firstaid.md), [interpersonal conflicts](people-conflicts.md), and [death](hardship-death.md).
+Look for any jobs that represent [universal](humanity-universals.md) human [issues](hardship.md) such as [government conflicts](legal-safety.md), [sickness](body-firstaid.md), [interpersonal conflicts](people-5_conflicts.md), and [death](hardship-death.md).
 
 Find a currently unfulfilled need by asking questions about an industry that catches your attention:
 

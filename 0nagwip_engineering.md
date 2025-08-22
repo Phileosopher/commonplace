@@ -1,13 +1,13 @@
 
-Engineering is implementing [science](/science/) to address legitimate [problems](https://gainedin.site/purpose/). To that end, engineering doesn't always [look good](/design/), but great engineering is profoundly reliable.
+Engineering is implementing [science](science.md) to address legitimate [problems](purpose.md). To that end, engineering doesn't always [look good](design-uxui.md), but great engineering is profoundly reliable.
 
-More than anything else, engineering employs heavy amounts of [math](/math/) and physics for its design, with its constraints represented by the universe itself. Most of the *[inspiration](https://gainedin.site/creativity/)* for engineering is pulled from [nature itself](/science/), and is usually driven by the [culture](https://gainedin.site/culture/) surrounding the engineers' work.
+More than anything else, engineering employs heavy amounts of [math](math.md) and physics for its design, with its constraints represented by the universe itself. Most of the *[inspiration](mind-creativity.md)* for engineering is pulled from [nature itself](science.md), and is usually driven by the [culture](culture.md) surrounding the engineers' work.
 
-Sometimes, [bad systems](https://gainedin.site/bad-systems/) can cut corners financially on a product's design, which *always* yields a terrible experience because the product will break quickly and [irreparably](/fix/), which can often happen when an object becomes a mere commodity. On the other hand, [competition](https://gainedin.site/economics/) can allow the best engineering to surface if the users actually *care* about their product.
+Sometimes, [bad systems](mgmt-badsystems.md) can cut corners financially on a product's design, which *always* yields a terrible experience because the product will break quickly and [irreparably](fix.md), which can often happen when an object becomes a mere commodity. On the other hand, [competition](economics.md) can allow the best engineering to surface if the users actually *care* about their product.
 
-Some of the most creative engineered components involve finding ways to get objects where you want them to be, but with severe physical constraints or absolutely zero direct ability to interact. Most of the [sciences](/science/) involving the most extreme discoveries (e.g., astronomy, quantum physics, geology) advance from this type of development.
+Some of the most creative engineered components involve finding ways to get objects where you want them to be, but with severe physical constraints or absolutely zero direct ability to interact. Most of the [sciences](science.md) involving the most extreme discoveries (e.g., astronomy, quantum physics, geology) advance from this type of development.
 
-At the same time, if we don't use it we forget about it. Social trends across the large-scale of history often depict how people discover things, then re-discover them centuries later, then promptly forget them when the [technology](https://gainedin.site/technology/) is no longer necessary or a better technology serves their purposes. Even when there is *copious* documentation on the subject, [trade secrets](/ip/) prevent the specialist from communicating *all* their methods.
+At the same time, if we don't use it we forget about it. Social trends across the large-scale of history often depict how people discover things, then re-discover them centuries later, then promptly forget them when the [technology](technology.md) is no longer necessary or a better technology serves their purposes. Even when there is *copious* documentation on the subject, [trade secrets](legal-ip.md) prevent the specialist from communicating *all* their methods.
 
 ## Complicated
 
@@ -29,12 +29,12 @@ However, they are *not* simple in practice. To quote and abstract the late [Hyma
   2. It is behind schedule.
   3. It requires an immense amount of development on seemingly trivial items, with corrosion in particular being a major problem.
   4. It is expensive.
-  5. The above-stated development problems mean [it takes a long time to build](https://notageni.us/mgmt-projects/).
+  5. The above-stated development problems mean [it takes a long time to build](mgmt-2_projects.md).
   6. It is large.
   7. It is heavy.
   8. It is complicated.
 
-[Theory](https://gainedin.site/imagination/) *frequently* breaks down in the face of [reality](https://gainedin.site/reality/). This doesn't mean the theory was necessarily wrong, but theories are typically not precise enough. Theory, however, isn't useless because it's how our minds [create anything](https://gainedin.site/creations/) in the first place.
+[Theory](imagination.md) *frequently* breaks down in the face of [reality](reality.md). This doesn't mean the theory was necessarily wrong, but theories are typically not precise enough. Theory, however, isn't useless because it's how our minds [create anything](creations.md) in the first place.
 
 ## Tradeoffs
 
@@ -58,7 +58,7 @@ In any landscape except plains with no human settlement, every projected rail li
 - Straight, which is necessary for high-speed rail
 - Flat, which is necessary for freight
 
-Typically, [projects](/mgmt/) involving any human task gives 2 of 3 possibilities:
+Typically, [projects](mgmt-1_why.md) involving any human task gives 2 of 3 possibilities:
 
 - Cheap
 - Fast
@@ -72,7 +72,7 @@ Military vehicles give 2 of 3 possibilities:
 
 Money can often push the limits, but only to a specific point, and it'll simply make the thing constrained to being prohibitively expensive.
 
-On every dimension of [computer design](http://trendless.tech), these same tradeoffs express themselves.
+On every dimension of [computer design](computers.md), these same tradeoffs express themselves.
 
 ## Materials
 
@@ -103,7 +103,7 @@ Each material has its tradeoffs:
 
 - Wood is a *completely* renewable resource (which is why it's so ubiquitous), and there are ways to farm it even more easily without having to cut the trees down.
 - Most materials require some form of refining before they can be worked into an engineered solution, which can dramatically affect the cost.
-- Mining materials (e.g., coal, iron, aluminum) are geography-specific, so they require [logistical considerations](/logistics/) for refining.
+- Mining materials (e.g., coal, iron, aluminum) are geography-specific, so they require [logistical considerations](logistics.md) for refining.
 - Drawing oil out of the ground requires refining into diesel (and further refining creates gasoline), but can also be refined into plastics for a vast range of uses.
 
 Stressors affect organic and inorganic components differently:
@@ -159,7 +159,7 @@ These parts come together to create more advanced components:
 Typically, these objects are assembled into complex patterns that magnify specific aspects:
 
 - Using differently sized gearing can expand or contract the applied force over a certain amount of time, which can be used for either timing (e.g., a watch) or balancing forces (e.g., automotive transmission).
-- Changing the angle of the force can dramatically improve how much energy can directly apply to something or diminish [breakdown](/fix/).
+- Changing the angle of the force can dramatically improve how much energy can directly apply to something or diminish [breakdown](fix.md).
 
 ## Techniques
 
@@ -179,14 +179,14 @@ There are a wide variety of standardized techniques to craft objects, especially
 
 ## Standards
 
-When two people speak with each other, they need to have an agreement on [language terms](https://gainedin.site/language/). Otherwise, the entire conversation won't mean anything.
+When two people speak with each other, they need to have an agreement on [language terms](language.md). Otherwise, the entire conversation won't mean anything.
 
-Ideally, most standards wouldn't be necessary, since the [design](/design/) would incorporate it. However, this isn't always possible:
+Ideally, most standards wouldn't be necessary, since the [design](design-uxui.md) would incorporate it. However, this isn't always possible:
 
-- Engineers often are so practical that they don't always indicate how the mechanism fits together without a wall of [documentation](http://trendless.tech/documentation/).
+- Engineers often are so practical that they don't always indicate how the mechanism fits together without a wall of [documentation](language-writing-documentation-cs.md).
 - Some things are so complex that there's no way *whatsoever* to clearly and simply communicate it.
 
-Standards do make life easier, but they take training to memorize and understand the [jargon](https://gainedin.site/language/), and engineering has an endless wall of [specializations](https://gainedin.site/specialization-cities/) with a vast codex to draw from.
+Standards do make life easier, but they take training to memorize and understand the [jargon](language.md), and engineering has an endless wall of [specializations](jobs-specialization.md) with a vast codex to draw from.
 
 Often, standards can halt technology improvements, especially when the standards are established early. In those situations, a *new* standard or protocol will replace the old one if it becomes too unwieldy, but will often require workarounds until then.
 
@@ -224,13 +224,13 @@ The formation of electricity gives *tremendous* capacity for people to magnify t
 
 Amperes measure how fast electrons flow, and volts measure the difference in how many electrons between two points. There's usually an analogy with water where voltage is pressure and amperage is flow speed. Wattage is simply amperage multiplied by voltage.
 
-Electricity travels from one point to another through a "conductor" that has a certain amount of resistance measured in ohms. Metal tends to have a much lower resistance than most other materials, and some of the best conductors happen to be copper, silver, and gold because they're [more capable of picking up additional electrons relatively easily](/science/).
+Electricity travels from one point to another through a "conductor" that has a certain amount of resistance measured in ohms. Metal tends to have a much lower resistance than most other materials, and some of the best conductors happen to be copper, silver, and gold because they're [more capable of picking up additional electrons relatively easily](science.md).
 
-Wires can be temporarily engaged to complete the "circuit". The engagement is typically hidden behind a [designed](/design/) housing with a switch for the user's safety.
+Wires can be temporarily engaged to complete the "circuit". The engagement is typically hidden behind a [designed](design-uxui.md) housing with a switch for the user's safety.
 
 There are usually "fuses" placed in a box to precisely detect where the assembly will break in the case of a severe spike in electric current. All the wiring is supposed to travel through that fuse box at some point in its journey to prevent any cables from breaking in an unpredictable location. For that reason, barring a frayed wire from exposure to the elements, most typical electrical failings are either within the output (e.g., light bulb) or within the fuse.
 
-Alternating current (AC) travels *much* farther than direct current (DC), and is generally safer simply from the fact that electrocution will make the victim's muscles seizure instead of contract. However, most small-scale electrical components that use batteries use AC, and [most computers](https://trendless.tech/cpu/) use AC for their signals because they're more predictable.
+Alternating current (AC) travels *much* farther than direct current (DC), and is generally safer simply from the fact that electrocution will make the victim's muscles seizure instead of contract. However, most small-scale electrical components that use batteries use AC, and [most computers](computers-cpu.md) use AC for their signals because they're more predictable.
 
 ### Solar cells
 
@@ -254,7 +254,7 @@ Another side effect of electrical transfer is magnetism. Again, by winding elect
 
 In a straightforward sense, a battery is an AC electricity storage container for later use:
 
-1. Have something in a safe box which holds a positive electrical charge for a long time (i.e., many atom ions missing [electrons](https://trendless.tech/quantum/)).
+1. Have something in a safe box which holds a positive electrical charge for a long time (i.e., many atom ions missing [electrons](science-quantum.md)).
 2. Have something in another safe box which holds a negative electrical charge for a long time (i.e., many atom ions with extra electrons).
 3. Attach the device you want to power with a + and - conductor, typically a cable.
 4. As the device needs, it'll draw electrons off - (the cathode) as they travel to + (the anode).
@@ -290,19 +290,19 @@ Most everyday batteries are a few broad classes of solid metals, and most of the
 - Lithium iron phosphate (LiFePO~4~, or LFP) is a low-cost, non-toxic, relatively safe derivative with naturally abundant materials. LiFePO~4~ was only developed as early as 1996.
 - Gallium nitride (GaN) has been used for blue light-emitting diodes (LEDs) since the 1990s, but has recently been developed for battery use. If they can successfully make them affordable, they'll be able to charge faster than the others (which is critical for use cases like electric vehicles).
 
-The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](https://gainedin.site/rules/) discarding batteries, which can be a problem [at scale](https://gainedin.site/groups-large/).
+The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](rules.md) discarding batteries, which can be a problem [at scale](groups-large.md).
 
-Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](https://trendless.tech/algorithms/) implementation of the Coulomb counter:
+Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](programming-algorithms.md) implementation of the Coulomb counter:
 
 1. Measures the current charge.
 2. Measures the available charge later.
 3. It uses a simple calculation to figure out how much charge is left (e.g., it started with 10 amps, there are 4 amps now, and it's discharging 1 amp per hour, so it's at 40%).
 
-Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](https://trendless.tech/software-design/) that saves on memory management increases battery life more than actual battery improvements.
+Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](computers-software-design.md) that saves on memory management increases battery life more than actual battery improvements.
 
-Batteries are *very* versatile, and can serve to benefit a household by preparing for a [short-term disaster](https://adequate.life/disasters-2/), glean energy from an engine's movement, or be quickly and easily manufactured as a replaceable supply material for small-scale electrical needs.
+Batteries are *very* versatile, and can serve to benefit a household by preparing for a [short-term disaster](hardship-disaster-2_long-stay.md), glean energy from an engine's movement, or be quickly and easily manufactured as a replaceable supply material for small-scale electrical needs.
 
-Batteries are built into *many* objects (e.g., laptops, scales) without an off switch and simply a timer for [design reasons](/design/). However, every single piece of technology *needs* a physical switch that can kill the connection to the battery. Otherwise, the latent stray electricity can create [break-fix](/fix/) headaches later.
+Batteries are built into *many* objects (e.g., laptops, scales) without an off switch and simply a timer for [design reasons](design-uxui.md). However, every single piece of technology *needs* a physical switch that can kill the connection to the battery. Otherwise, the latent stray electricity can create [break-fix](fix.md) headaches later.
 
 One of the newest developing technologies for batteries is called a hydrogen fuel cell. The concept is essentially the same as a battery, with a few modifications:
 
@@ -456,11 +456,11 @@ Generally, the gauge of the rails (distance between them) is set to be nearer (4
 
 ### Automotive
 
-[Automobiles](/autos/) add even *more* to a standard vehicle's engineering requirements:
+[Automobiles](autos.md) add even *more* to a standard vehicle's engineering requirements:
 
 1. Composite materials in tires that engage from the axles to the road which can withstand tends of thousands of miles of a wide variety of terrains.
-2. In newer autos, [computers](https://trendless.tech/) that regulate an engine's timing and all the components, as well as often embedding a tablet computer into the dashboard, complete with internet connectivity.
-3. If there are any autonomous features like self-parking, it also includes [advanced AI](https://trendless.tech/cars).
+2. In newer autos, [computers](computers.md) that regulate an engine's timing and all the components, as well as often embedding a tablet computer into the dashboard, complete with internet connectivity.
+3. If there are any autonomous features like self-parking, it also includes [advanced AI](computers-autos.md).
 
 However, in some ways, electric vehicles are inferior technology to the standard ICE automotive:
 
@@ -485,7 +485,7 @@ However, there has been a recent development in aircraft: an aircraft can run mo
 
 ## Large structures
 
-Beyond [design considerations](/design/), most structures involve balancing loads toward the strongest portions of the frame. This usually represents itself as a large set of triangles, with many of the best designs representing as hexagons.
+Beyond [design considerations](design-uxui.md), most structures involve balancing loads toward the strongest portions of the frame. This usually represents itself as a large set of triangles, with many of the best designs representing as hexagons.
 
 Typically, large structures have a *tremendous* requirement of load-balancing. If it's a geographically fixed structure, it'll direct the force downward into a concrete foundation. When it's a large structure like a ship or aircraft, the force will be applied to the perimeter of the structure, which will have the strongest metalwork on it.
 
@@ -512,11 +512,11 @@ This allows genes to be replaced with a more favorable genetic sequence.
 
 Most factory engineering is a dramatic experience of hyper-specialized tools. Factory robots can reproduce just about any task a person can do repetitively, even complex ones, and most factory assemblies are designed to accomplish 1 task tens of thousands of times, with minor retooling necessary as machinist requires.
 
-Most factory machines are designed to create as clean a product as possible, for both ease of use and [aesthetic](/design/) appeal to the end user. Most of the small idiosyncratic details in a factory machine (e.g., shaking an object quickly before setting it down again) are designed for maximum efficiency and to create the most effective product. Many of them are also [trade secrets](/ip/).
+Most factory machines are designed to create as clean a product as possible, for both ease of use and [aesthetic](design-uxui.md) appeal to the end user. Most of the small idiosyncratic details in a factory machine (e.g., shaking an object quickly before setting it down again) are designed for maximum efficiency and to create the most effective product. Many of them are also [trade secrets](legal-ip.md).
 
 ## Waste management
 
-Disposing of waste is mostly a matter of [logistics](/logistics/), except for particularly dangerous materials:
+Disposing of waste is mostly a matter of [logistics](logistics.md), except for particularly dangerous materials:
 
 - Flammable materials need to be away from sparks or other heating elements that could ignite it, as well as heat-shielding that protects it.
 - Radioactive isotopes require lead shielding to prevent the nuclear radiation from affecting the surrounding area. It also can't be stored in one place, since too much in one place will create an unstoppable fission reaction.

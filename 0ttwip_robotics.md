@@ -1,17 +1,17 @@
 
 Inside, a robot is mostly the same concept as any other computer-based design:
 
-- It always requires an input with sensors that detect something that physically changes. This input is often a [camera](/camera/) or [microphone](/speakers-mic/), and often includes sensors along with it. If it's a simple-enough robot, it simply needs sensors.
-- The [operating system](/os/) is relatively similar to any other computer, though interacting in the "real world" is *absurdly* complex compared to working strictly with raw information.
-- The [processor](/cpu/) eventually operates an output that physically does something. It may use a [screen](/screen/), but almost always uses a mechanical arm, and typically has lots of driver "middleware" to accommodate the extra mechanical hardware.
+- It always requires an input with sensors that detect something that physically changes. This input is often a [camera](camera.md) or [microphone](computers-speakersmic.md), and often includes sensors along with it. If it's a simple-enough robot, it simply needs sensors.
+- The [operating system](computers-os.md) is relatively similar to any other computer, though interacting in the "real world" is *absurdly* complex compared to working strictly with raw information.
+- The [processor](computers-cpu.md) eventually operates an output that physically does something. It may use a [screen](computers-screen.md), but almost always uses a mechanical arm, and typically has lots of driver "middleware" to accommodate the extra mechanical hardware.
 
-Externally, though, a robot is the ultimate "implementation" of a computer in the physical world. All other computer aspects are mostly confined to the realm of [the mind and ideas](https://gainedin.site/), but robots have the means to legitimately [*do* things](https://gainedin.site/purpose/).
+Externally, though, a robot is the ultimate "implementation" of a computer in the physical world. All other computer aspects are mostly confined to the realm of [the mind and ideas](values.md), but robots have the means to legitimately [*do* things](purpose.md).
 
-The first industrial robot was Unimate, created in the 1950s by George Devol. It worked on an assembly line at a New Jersey General Motors plant and worked off drum [memory](/memory/).
+The first industrial robot was Unimate, created in the 1950s by George Devol. It worked on an assembly line at a New Jersey General Motors plant and worked off drum [memory](computers-memory.md).
 
 ## Uses
 
-Most robot parts are designed by borrowing directly from [nature](https://notageni.us/science/) or existing [technology](https://gainedin.site/technology/).
+Most robot parts are designed by borrowing directly from [nature](science.md) or existing [technology](technology.md).
 
 Robots are designed for various uses, based on the roboticist's purposes. However, their uses are always far more limited than someone employed in a relatively similar capacity.
 
@@ -23,7 +23,7 @@ However, robots are *terrible* at some tasks:
 - The output must be modulated according to an approximate estimation, but that estimate may be too vague to articulate into logic.
 - Absolutely *anything* involving human interaction is a somewhat emotional experience, but more on that below.
 
-Because of the excess of details and the *very* specific use cases of robotic machinery, the most prevalent use of robotics is in tedious factory and warehouse work. In fact, some warehouses are almost *entirely* automated. Even [machine learning](/ml/) won't change that.
+Because of the excess of details and the *very* specific use cases of robotic machinery, the most prevalent use of robotics is in tedious factory and warehouse work. In fact, some warehouses are almost *entirely* automated. Even [machine learning](computers-ai-ml.md) won't change that.
 
 ## Dumb machines
 
@@ -37,7 +37,7 @@ One simple example of this idea is the seemingly easy task of laying bricks:
 4. Scrape off excess mortar.
 5. Repeat.
 
-However, after a few trial runs programming a brick-laying robot, you'll notice it creating bad brickwork. [Debugging](/software-redesign/) would show details necessary for a successful task:
+However, after a few trial runs programming a brick-laying robot, you'll notice it creating bad brickwork. [Debugging](computers-software-redesign.md) would show details necessary for a successful task:
 
 - If any bricks slide from their spot, put them back in their place or adjust other bricks.
 - Press firmly on the mortar to create cohesion, but not so firmly that it offsets the brick from the others too far.
@@ -56,12 +56,12 @@ As another example, imagine instructing someone to pick up pebbles from a flat s
 
 While small children can do this easily, effectively programming a robot takes a lot of work:
 
-1. Demarcate the grabbing zone, indicated as a specific range mapped out from captured [camera](/camera/) information.
-2. Set an [algorithm](/algorithms/) that clarifies exactly what a pebble is, then create [instructions](/prog-basics/) to grab it, with each grabbing effort modulated with the camera data for every single pebble.
+1. Demarcate the grabbing zone, indicated as a specific range mapped out from captured [camera](camera.md) information.
+2. Set an [algorithm](programming-algorithms.md) that clarifies exactly what a pebble is, then create [instructions](programming-basics.md) to grab it, with each grabbing effort modulated with the camera data for every single pebble.
 3. Move the arm to the jar, which must be *exactly* specified before the maneuver. There should be subroutines for whether the jar is missing, full, fell over, or broke.
 4. Repeat 1-3 until all pebbles are in the jar, then clarify a stop sequence for the arm to rest.
 
-Robot [AI](/ai/) must also incorporate elements of kinesiology to manage complex tasks.
+Robot [AI](computers-ai.md) must also incorporate elements of kinesiology to manage complex tasks.
 
 ## Less dumb
 
@@ -70,17 +70,17 @@ One of the easiest workarounds for dumb robots is to have robots operated by peo
 - When a location is too unsafe (e.g., near a bomb, drilling), remote-control robots have been popular for decades.
 - Robotic hands and legs may soon become novel prosthetics technology for disabled people, assuming the artificial limb can accurately process nervous system signals.
 
-Lately, [machine learning algorithms](/ml/) have dramatically improved the variability of the robot's instructions. They still have some trouble improvising while crossing difficult terrain, but can balance enough to ride skateboards or zip lines.
+Lately, [machine learning algorithms](computers-ai-ml.md) have dramatically improved the variability of the robot's instructions. They still have some trouble improvising while crossing difficult terrain, but can balance enough to ride skateboards or zip lines.
 
 But, they're still relatively useless when completely unsupervised, and are still dumb enough for an errant cardboard box to force them to stop.
 
 The largest impediment to robotics advances, however, is in how absurdly difficult programming seemingly simple tasks becomes:
 
-- The logic necessary to frame robotic instructions is conventional [software design](/software-design/) work.
+- The logic necessary to frame robotic instructions is conventional [software design](computers-software-design.md) work.
 - The input is very fuzzy, and almost always analog.
 - The output typically must fulfill very precise specifications.
 - It's difficult to correctly account for all the "edge cases" you can't know while programming a robot.
-- Even after many iterations, the work to [revise a robot's code](/software-redesign/) is never technically done.
+- Even after many iterations, the work to [revise a robot's code](computers-software-redesign.md) is never technically done.
 
 Dozens or hundreds of hours of expert programming can often be offset by a simple stroke of intuition.
 
@@ -94,21 +94,21 @@ Beyond reality, robots have a tremendous draw in the world of fiction, and peopl
 
 However, beyond the above concepts about how dumb they are at tasks, there are specific problems for many of the perceived domains:
 
-- In the event of a poorly programmed robot, high-risk robotic implementations (e.g., [cars](/cars/)) won't withstand human nature's tendency to [blame](https://gainedin.site/rules/) when people die, so it becomes a heavily [politicized](https://gainedin.site/power/) situation far more than simply upgraded [technology](https://gainedin.site/technology/).
+- In the event of a poorly programmed robot, high-risk robotic implementations (e.g., [cars](computers-autos.md)) won't withstand human nature's tendency to [blame](rules.md) when people die, so it becomes a heavily [politicized](power.md) situation far more than simply upgraded [technology](technology.md).
 - To make a human-like science fiction robot (e.g., Asimov's "I, Robot") would require adding the fields of psychology and sociology into all the *other* disciplines required for robots, meaning robots would have to first be ubiquitous everywhere to approach that challenge.
-- Like realistic [game development](/game-dev/), [widespread adoption](https://gainedin.site/trends/) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
+- Like realistic [game development](computers-software-gamedev.md), [widespread adoption](trends.md) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
   - Robots are more relatable as they become more human-like, and they're very relatable when they're precisely human-like.
   - *Right* before they're fully relatable, there's an odd point where their behaviors and mannerisms are terrifying and creepy.
   - At that point, a robot sabotages *all* human connection it may have gained, and will create a prolonged state of [unease](mind-feelings.md) for the observer.
 
-In particular, the uncanny valley can deter the public at large, since they're conditioned against it further through the genre of horror [stories](https://gainedin.site/storytellers/) and spend more time among other humans than most roboticists. Human expressions are vastly complex, with precise timings and exceptions for absolutely *everything*, and robots simply [can't compete with the intuition required](/ai/) to accomplish something that could pass as human.
+In particular, the uncanny valley can deter the public at large, since they're conditioned against it further through the genre of horror [stories](stories-storytellers.md) and spend more time among other humans than most roboticists. Human expressions are vastly complex, with precise timings and exceptions for absolutely *everything*, and robots simply [can't compete with the intuition required](computers-ai.md) to accomplish something that could pass as human.
 
 ## Economics
 
-Like all other [technology](https://gainedin.site/technology/), robots have a more profound effect than people who discredit them believe, but that profound effect happens over longer periods than the apologists would be quick to assert.
+Like all other [technology](technology.md), robots have a more profound effect than people who discredit them believe, but that profound effect happens over longer periods than the apologists would be quick to assert.
 
 Despite the sillier trends attributable to robotics, there *have* been changes to society:
 
-- Robots have very specific, purposed uses in realms like [horticulture](https://notageni.us/plants/), factory work, military support, and navigating small corridors. Many of them are remote-controlled, but they serve as an agent of the human who uses them. This arrangement has been completely favorable.
-- Skills *do* get replaced, which frees up people to do other things. People find [meaning](https://gainedin.site/meaning/) in work, and they do something else that can add [value](https://gainedin.site/values/), though older people surpassing about age 40 can be left behind from the change as the technology develops. This, however, happens slowly enough that it never destroys society in any collective sense.
-- Lower-intelligence jobs (i.e., for people below an IQ of 85) have almost ceased to exist, since robots can do the job, and nobody has found a workable solution for this. It's reasonable to expect the most intelligent people in society to solve this issue, but that's [not how the world works](https://gainedin.site/perfect-society/).
+- Robots have very specific, purposed uses in realms like [horticulture](horticulture.md), factory work, military support, and navigating small corridors. Many of them are remote-controlled, but they serve as an agent of the human who uses them. This arrangement has been completely favorable.
+- Skills *do* get replaced, which frees up people to do other things. People find [meaning](meaning.md) in work, and they do something else that can add [value](values.md), though older people surpassing about age 40 can be left behind from the change as the technology develops. This, however, happens slowly enough that it never destroys society in any collective sense.
+- Lower-intelligence jobs (i.e., for people below an IQ of 85) have almost ceased to exist, since robots can do the job, and nobody has found a workable solution for this. It's reasonable to expect the most intelligent people in society to solve this issue, but that's [not how the world works](perfectsociety.md).

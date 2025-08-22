@@ -1,9 +1,9 @@
 
-Encoded sound was first patented in 1857 by Édouard-Léon Scott de Martinville, where a recording could be etched into parchment paper. However, Thomas Edison built one that could *play back* 20 years later in 1877. Eventually, the technology adapted to cylinders, then to vinyl records, then to cassette tapes. Circular storage was re-implemented with the compact disc, and the information was then completely digitized from there, most notably with the MP3 audio [standard](/protocols/).
+Encoded sound was first patented in 1857 by Édouard-Léon Scott de Martinville, where a recording could be etched into parchment paper. However, Thomas Edison built one that could *play back* 20 years later in 1877. Eventually, the technology adapted to cylinders, then to vinyl records, then to cassette tapes. Circular storage was re-implemented with the compact disc, and the information was then completely digitized from there, most notably with the MP3 audio [standard](standards-computers.md).
 
-While cassette tapes are most recognized for audio playback, many of the first [computer memory](/memory/) implementations used cassette tape, with the memory reference specifying how far to rewind or fast forward on the track. The concept is *mostly* the same with audio CDs, though there are two moving parts instead of one.
+While cassette tapes are most recognized for audio playback, many of the first [computer memory](computers-memory.md) implementations used cassette tape, with the memory reference specifying how far to rewind or fast forward on the track. The concept is *mostly* the same with audio CDs, though there are two moving parts instead of one.
 
-Portable radios became popular since 1955. To sell them, Sony [marketed](https://notageni.us/marketing/) the product as small enough to fit in your pocket, but the radios were *not* small enough. Their solution was to alter the sales staff shirt pockets to fit the radio, and it worked.
+Portable radios became popular since 1955. To sell them, Sony [marketed](marketing.md) the product as small enough to fit in your pocket, but the radios were *not* small enough. Their solution was to alter the sales staff shirt pockets to fit the radio, and it worked.
 
 ## What sound is
 
@@ -16,15 +16,15 @@ To understand sound measurements, there are several important components:
 
 Most healthy adults can hear between 20 Hz up to 20 kHz. Anything below that is infrasound, and anything above that is ultrasound. We're most sensitive to sounds between 2-5 kHz.
 
-People typically lose the top range of their hearing over their lifetime. While infants can hear 20 kHz, young adults often can only hear 17 kHz, 50-year-olds often at 12 kHz, and people with hearing impairments only at 8 kHz. Some teenagers have [exploited this fact](/hacking/) to make extremely high-pitched text message notifications to not get in trouble in class.
+People typically lose the top range of their hearing over their lifetime. While infants can hear 20 kHz, young adults often can only hear 17 kHz, 50-year-olds often at 12 kHz, and people with hearing impairments only at 8 kHz. Some teenagers have [exploited this fact](hacking.md) to make extremely high-pitched text message notifications to not get in trouble in class.
 
 ## Encoding
 
-To record sound, the device captures the vibrations, at the speed they're traveling, and records them onto something. A microphone is a "transducer" that converts sound waves into electromagnetic waves, and a speaker is simply a transducer in the opposite direction. In fact, speakers and microphones are so similarly designed that speakers can be [hacked](/hacking/) as low-quality microphones simply by plugging it into a microphone jack.
+To record sound, the device captures the vibrations, at the speed they're traveling, and records them onto something. A microphone is a "transducer" that converts sound waves into electromagnetic waves, and a speaker is simply a transducer in the opposite direction. In fact, speakers and microphones are so similarly designed that speakers can be [hacked](hacking.md) as low-quality microphones simply by plugging it into a microphone jack.
 
-Depending on [the standards used](/protocols/), the electromagnetic waves can come from analog electrical pulses or digital electrical signals.
+Depending on [the standards used](standards-computers.md), the electromagnetic waves can come from analog electrical pulses or digital electrical signals.
 
-The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](/math/) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](/memory/) or transmitted [over a network](/networks/). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
+The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](networks-computer.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
 
 Speakers are either passive (without internal amplification abilities) or amplified (and often with their own volume control).
 
@@ -44,7 +44,7 @@ One creative use of extremely high sampling is to record at a comparatively high
 
 ## Sampling depth
 
-"Sample depth" is the amount of data that each sample gathers, which determines the audio sample's quality. [8 bits gives 256](/memory/) possible representations on a spectrum, 16 gives 65,536. Standard "telephony" audio is usually 16 or 32 bit sampling depth.
+"Sample depth" is the amount of data that each sample gathers, which determines the audio sample's quality. [8 bits gives 256](computers-memory.md) possible representations on a spectrum, 16 gives 65,536. Standard "telephony" audio is usually 16 or 32 bit sampling depth.
 
 This sampling is necessary for the computer to rebuild the sound wave when it reconstructs it. But, the computer is only using an *approximate* estimation of the waveform (which is perfect-enough for our ears). The last 0 or 1 on the bits will be random with a process known as "quantization". Since computers don't know how to fill it in, it creates quantization error throughout the audio.
 
@@ -54,9 +54,9 @@ To avoid quantization patterns, that last bit can be "dithered", which means it'
 
 ## Bitrate
 
-Combined together, the sampling rate and sampling depth create a "bitrate", measured as a flow of bits per second. Phone calls translate anywhere between 24 and 88 [kilobits per second](/memory/), depending on how it's getting [packaged and sent](/protocols/).
+Combined together, the sampling rate and sampling depth create a "bitrate", measured as a flow of bits per second. Phone calls translate anywhere between 24 and 88 [kilobits per second](computers-memory.md), depending on how it's getting [packaged and sent](standards-computers.md).
 
-Music in MP3 or AAC format often come as low as 128 kbps or as high as 320 kbps. The way they keep the memory low while providing a high-quality music experience is by [mathematically](/algorithms/) stripping away components of the audio that our ears won't hear due to biological limitations.
+Music in MP3 or AAC format often come as low as 128 kbps or as high as 320 kbps. The way they keep the memory low while providing a high-quality music experience is by [mathematically](programming-algorithms.md) stripping away components of the audio that our ears won't hear due to biological limitations.
 
 Calculating memory or bandwidth use from this point is as simple as using a calculator, bearing in mind that kilobytes are 8 times more than kilobits.
 
@@ -78,17 +78,17 @@ While most people will do fine with a 2.1 speaker system, the audio quality can 
 - 7.1.2 - 7.1, but with two aimed at the ceiling
 - It can go as far as 9.1, 10.2, 13.1, and more
 
-The quality of the played sound, however, is almost hard-limited by the quality of the original recording. While some [algorithms](/algorithms/) *can* improve the sound experience, true audiophiles are divided between the highest-possible-quality recording (e.g., remastered songs) or most accurate recording (e.g., vinyl records) for the most complete listening experience.
+The quality of the played sound, however, is almost hard-limited by the quality of the original recording. While some [algorithms](programming-algorithms.md) *can* improve the sound experience, true audiophiles are divided between the highest-possible-quality recording (e.g., remastered songs) or most accurate recording (e.g., vinyl records) for the most complete listening experience.
 
-For a legitimately advanced experience, the audio must reflect the precise *location* of where the sound should be. Most [modern games](/game-dev/) and [VR experiences](/vr/) use "binaural processing" to reproduce the relative location of a sound source, which updates as the user changes their direction or distance from the object.
+For a legitimately advanced experience, the audio must reflect the precise *location* of where the sound should be. Most [modern games](computers-software-gamedev.md) and [VR experiences](computers-vr.md) use "binaural processing" to reproduce the relative location of a sound source, which updates as the user changes their direction or distance from the object.
 
 ## File format
 
 An audio clip in its purest form is a stream of raw data. Compressor/decompressors ("codecs") permit storing that ifnormation without as much memory.
 
-There are a variety of encoding formats. The format is the abstraction (and is an [open standard](/protocols/), while the specification is an implementation (which is often [proprietary](/floss/)).
+There are a variety of encoding formats. The format is the abstraction (and is an [open standard](standards-computers.md), while the specification is an implementation (which is often [proprietary](legal-ip-floss.md)).
 
-Audio recordings have different use cases, and the "lossiness" of the information determines how compressed (and therefore how small) an audio [file](/files/) can be:
+Audio recordings have different use cases, and the "lossiness" of the information determines how compressed (and therefore how small) an audio [file](computers-files.md) can be:
 
 - Non-compressed: this takes up a *lot* of space, but is the best quality and doesn't need a sampling rate
   - Mostly stored as FFmpeg, but is usually stored in container formats like WAV, FLAC, AIFF, and AU
@@ -97,11 +97,11 @@ Audio recordings have different use cases, and the "lossiness" of the informatio
 - Lossy: Uses a discrete cosine transform
   - Many to choose from, with MP3 as the most popular format
 
-This isn't exclusive to audio, and many audio formats also combine [video](/screen/) information as well, and often in parallel.
+This isn't exclusive to audio, and many audio formats also combine [video](computers-screen.md) information as well, and often in parallel.
 
-The [drivers](/os/) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](/langs/) alongside quite a bit of [networking](/networks/) experience.
+The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](networks-computer.md) experience.
 
-Another unique standard allows musicians to directly input information via musical instrument digital interface (MIDI), which sends the inputs from a musical instrument (e.g., synthesizer keyboard) to a very time-sensitive mapping. This allows the information to send various outputs, including [storage for later](/memory/). By using "MIDI voices", the audio can output as whatever the [creator](https://gainedin.site/creativity/) wants.
+Another unique standard allows musicians to directly input information via musical instrument digital interface (MIDI), which sends the inputs from a musical instrument (e.g., synthesizer keyboard) to a very time-sensitive mapping. This allows the information to send various outputs, including [storage for later](computers-memory.md). By using "MIDI voices", the audio can output as whatever the [creator](mind-creativity.md) wants.
 
 ## Cabling
 
@@ -122,9 +122,9 @@ The most common filter is an equalizer, which boosts or diminishes specified ran
 - 3-8 kHz - upper mid-range frequencies (e.g., high range of guitars, violins), can be annoying if not performed or mixed well
 - >8 kHz - most trebles, not popular to maximize because many people (especially the elderly) can't hear at that sound
 
-It's worth noting that the protocols for modifying [video](/graphics/) are effectively working alongside sound. Or, to put another way, a sound file is simply a video file minus the streaming video data. This simplicity streamlines a media player's ability to process it.
+It's worth noting that the protocols for modifying [video](graphics.md) are effectively working alongside sound. Or, to put another way, a sound file is simply a video file minus the streaming video data. This simplicity streamlines a media player's ability to process it.
 
-One of the most powerful software programs for converting *both* audio and video is FFmpeg, which stands for Fast-Forward-Moving-Picture-Experts-Group. It has the power to trim, cut, convert, adapt color, overlay an image, crop it, add more audio tracks, change the volume, add audio effects, and export to a wide variety of *both* audio and video file formats. It has been a corporate standard for a long time, is continuously updated, and is [open-source](/floss/), so it may live forever.
+One of the most powerful software programs for converting *both* audio and video is FFmpeg, which stands for Fast-Forward-Moving-Picture-Experts-Group. It has the power to trim, cut, convert, adapt color, overlay an image, crop it, add more audio tracks, change the volume, add audio effects, and export to a wide variety of *both* audio and video file formats. It has been a corporate standard for a long time, is continuously updated, and is [open-source](legal-ip-floss.md), so it may live forever.
 
 Most equalizers include presets for specific frequencies, though they can be manually configured:
 
@@ -135,7 +135,7 @@ Most equalizers include presets for specific frequencies, though they can be man
 - Pop - boost mid-range (vocals)
 - Rock - boost low-range (drums and bass) and high-range (guitar arpeggios)
 
-One of the most frequent tools to work with (and create) recorded sound is a "Digital Audio Workstation" (DAW). It borrows heavily from [IDEs](/ide/), with an extensible "Virtual Studio Technology" (VST) plugin standard that works somewhat independently of the workstation software itself. To that end, there are *thousands* of VSTs available, for a wide variety of purposes, and any new DAW can use most of them.
+One of the most frequent tools to work with (and create) recorded sound is a "Digital Audio Workstation" (DAW). It borrows heavily from [IDEs](computers-software-ide.md), with an extensible "Virtual Studio Technology" (VST) plugin standard that works somewhat independently of the workstation software itself. To that end, there are *thousands* of VSTs available, for a wide variety of purposes, and any new DAW can use most of them.
 
 * * * * *
 

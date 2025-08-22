@@ -18,7 +18,7 @@ In a large government, there are multiple organizational elements:
 
 These four elements can mix-and-match depending on how the government is framed. Typically, the public has *no* control over anything except (possibly) electing their legislature, though more free societies will have elections for their heads of state and government. The nature of [corruption in large systems](mgmt-badsystems.md) guarantees that the public will never get much control over the bureaucracy.
 
-In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](boundaries.md) of its public than its form of government.
+In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries.md) of its public than its form of government.
 
 ## Socio-economic ideologies
 
@@ -27,7 +27,7 @@ Most governments naturally form their [philosophies](philosophy.md) by [social/c
 - Anarchism/stateless societies - emphasizes self-governance and voluntary institutions
 - Capitalism - individuals can "capitalize" on what they own (i.e., "private property")
   - Distributism - the ability to produce things ("means of production") are spread out as far as possible to avoid being controlled by any central authority
-  - Minarchism/night-watchman state - the state provides a tiny set of services to enforce laws that protect from aggression, theft, [breach of contract](contracts.md), and fraud (i.e., only military, police, and courts)
+  - Minarchism/night-watchman state - the state provides a tiny set of services to enforce laws that protect from aggression, theft, [breach of contract](people-contracts.md), and fraud (i.e., only military, police, and courts)
 - Colonialism - take advantage of a [weaker group](power.md) to use something they have
 - Communism - nobody owns anything and everything is "communal", so people use things only if they're directly [useful](purpose.md) to them
   - Socialism - workers own the ability to produce things, often expressed as the stepping-stone to full communism
@@ -51,7 +51,7 @@ Naturally, some people represent the [identity](identity.md) of the nation more 
 Monarchy - a ruling group defines the nation's identity, which classifies by their control and ascension:
 
 - Absolute monarchy - traditional style where the monarch controls pretty much everything
-- Constitutional monarchy - a [law or formal constitution](boundaries.md) limits a monarch's power
+- Constitutional monarchy - a [law or formal constitution](rules.md) limits a monarch's power
 - Elective monarchy - the monarch is elected to represent the nation (though it may be an oligarchical election)
 - Crowned republic - a monarch is simply a [ceremonial feature](image.md), with no actual power
 
@@ -62,7 +62,7 @@ Republic/commonwealth - elected individuals define the national identity, which 
 - People's republic - the people are [legally recognized](image.md) as ruling
 - Federal republic - there's a central (federal) immutable law, but each region can make their own laws that are unrelated to federal law
 - Parliamentary republic - a hybrid where the head of state isn't affected by elected officials
-- Constitutional republic - the power of anyone is limited by a [formal constitution or law](boundaries.md)
+- Constitutional republic - the power of anyone is limited by a [formal constitution or law](rules.md)
   - Islamic republic - the power of everything is bound by [Islamic](religion-answers.md) law
 
 ## Who should get power?
@@ -81,9 +81,9 @@ Pros:
 
 Cons:
 
-- Extremely limited [civil liberties](boundaries.md), depending on the dictator.
+- Extremely limited [civil liberties](people-boundaries.md), depending on the dictator.
 - Since it's a small group running everything, it's difficult to scale.
-  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](decisions.md) that are completely [inconsistent](people-conflicts.md) with the dictator's [purposes](purpose.md).
+  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](decisions.md) that are completely [inconsistent](people-5_conflicts.md) with the dictator's [purposes](purpose.md).
   - If the leader is strict, it becomes tyrannical, since everyone else will have better ideas for their situation that the leader will have to suppress to maintain order.
 - Without clearly [communicating](people-conversation.md) the rules to everyone, the line-of-succession for the next dictator gets complicated.
 - If overthrown, anyone else can make a new autocracy in its place (i.e., no [lasting legacy](legacy.md) and often destroying any legitimate [progress](changes.md)).
@@ -111,7 +111,7 @@ Pros:
 
 - Less rigid than autocracy.
 - Generally can be scaled up as needed.
-- [Disagreements](people-conflicts.md) in the ruling class only spill into affecting the rest of society for a minority of circumstances.
+- [Disagreements](people-5_conflicts.md) in the ruling class only spill into affecting the rest of society for a minority of circumstances.
 
 Cons:
 
@@ -130,7 +130,7 @@ Cons:
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:
   - Algocracy - [computer algorithms](programming-algorithms.md) run everything (i.e., programmers have complete rule)
   - Cyberocracy - [computers](computers.md) runs everything (i.e., computer users have complete rule)
-  - Nomocracy - the [laws](boundaries.md) themselves run everything (i.e., lawyers have complete rule)
+  - Nomocracy - the [laws](rules.md) themselves run everything (i.e., lawyers have complete rule)
 
 ### Democracy - everyone controls everything
 
@@ -146,7 +146,7 @@ Democracy sits on a spectrum of citizens' direct versus indirect control:
 
 Pros:
 
-- When done right, gives the most [civil liberties](boundaries.md) to everyone.
+- When done right, gives the most [civil liberties](people-boundaries.md) to everyone.
 - All the extra [creativity](mind-creativity.md) from the populace make it the most adaptive form of government.
 
 Cons:

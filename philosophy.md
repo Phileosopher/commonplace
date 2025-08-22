@@ -9,7 +9,7 @@ Every discipline is configured to address a specific portion of living:
 
 - [Accountants](accounting.md) keep financial records.
 - Farmers and ranchers tend to [nature](reality.md) to create [food](agriculture.md) for others.
-- [Attorneys](legal-doctrines.md) maintain and enforce [boundaries](boundaries.md) and [potential conflicts](people-conflicts.md) between people.
+- [Attorneys](legal-doctrines.md) maintain and enforce [boundaries](people-boundaries.md) and [potential conflicts](people-5_conflicts.md) between people.
 - [Computer programmers](computers-software-design.md) create [logic](logic.md)-based [automation](programming-basics.md).
 - Mechanics and technicians [repair](fix.md) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
@@ -62,7 +62,7 @@ Starting around the formation of the Catholic Church, philosophers like St. Augu
 
 This exploration used the building blocks toward each individual's [religious experience](religion.md) and the development of the [soul](humanity.md), so it maintained its lifestyle components but localized them toward a more specific purpose.
 
-But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](humanity-christian.jpg) should *really* read them, but it's only marginally useful to the rest of [our fallen world](jesus-gospel.md).
+But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](humanity-christian.md) should *really* read them, but it's only marginally useful to the rest of [our fallen world](jesus-gospel.md).
 
 ### III. Political (Age of Reason ~1500-1800)
 
@@ -130,7 +130,7 @@ Some philosophy is *absolutely* necessary for [the good life](goodlife.md), but 
 Be careful who you read, though. The [culture](culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
 1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](perfectsociety.md).
-2. Transforming society is an [uphill battle](boundaries.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
+2. Transforming society is an [uphill battle](people-conflicts.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
 In that sense, all philosophers are idealists (or bitter idealists), which is why most practical people find them insufferable.

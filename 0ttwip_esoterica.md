@@ -6,13 +6,13 @@ NOTE: Avoid the following:
 
 - Registry cleaners
   - A registry is plaintext and takes up *very* little space.
-  - Modifying the registry can permanently damage the [OS](/os/), even with Windows Update.
+  - Modifying the registry can permanently damage the [OS](computers-os.md), even with Windows Update.
 - Most third-party system cleaners
   - Most of them do what Windows' Disk Cleanup already does, alongside the above-mentioned registry cleaning.
   - They're usually adware or tracking user data you probably don't want.
 
-1. Run an [antivirus scan](/malware/), just to confirm.
-2. Check for any running tasks, and sort by [CPU](/cpu/), [memory](/memory/), and [network](/networks/) use to find what's using them the most.
+1. Run an [antivirus scan](computers-cysec-malware.md), just to confirm.
+2. Check for any running tasks, and sort by [CPU](computers-cpu.md), [memory](computers-memory.md), and [network](networks-computer.md) use to find what's using them the most.
 3. Turn the power settings to the max (on Windows, "Always On" or "High Performance" setting for plugged-in).
 4. Check the interior for dust and blow it out with an air compressor.
    - Canned air has chemicals that can corrode motherboard circuits.
@@ -36,7 +36,7 @@ NOTE: Avoid the following:
     - A new SSD hard drive, if it's an HDD (the easiest upgrade, assuming it's not a laptop).
     - A better CPU (it *must* match the chipset of the current processor).
 13. If you need a new motherboard for better parts, get a new computer for your purposes.
-    - Use the old computer for a dedicated [side-project](/pi-arduino/) that won't see heavy use.
+    - Use the old computer for a dedicated [side-project](computers-embedded.md) that won't see heavy use.
 
 ## Network debugging
 

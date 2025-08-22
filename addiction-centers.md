@@ -111,7 +111,7 @@ If your [friends](people-4_friends.md) are the center of your life:
 - Principles: [Basic laws that enable getting along with others](people-rules.md)
 - God: Either a friend or enemy, depending on His affiliation with friends
 
-If your [enemies](people-conflicts.md) are the center of your life:
+If your [enemies](people-5_conflicts.md) are the center of your life:
 
 - Spouse: Sympathizer or scapegoat
 - Family: Emotional refuge or scapegoat

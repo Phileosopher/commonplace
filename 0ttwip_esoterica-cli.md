@@ -10,7 +10,7 @@ Most of the commands have special elements that modify the command's scope:
   - □: [COMMAND] -w -s -p
 - e.g., "dir /p" will print all the files in a directory, one page at a time.
 
-To find all the parameters/options, consult the [documentation](/documentation/):
+To find all the parameters/options, consult the [documentation](language-writing-documentation-cs.md):
 
 - help [command]
 - -h

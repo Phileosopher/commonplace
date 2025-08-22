@@ -1,29 +1,29 @@
 
-*Previous: [Maximizing Productivity](/entrepreneur-productivity/)*
+*Previous: [Maximizing Productivity](entrepreneur-5_productivity.md)*
 
 Smaller companies can often make more profit than large companies.
 
 - The *only* advantage a large company has over a small one is that it can do things at scale.
-- The founder is typically involved in a far greater percentage of customer interactions, meaning better [customer service](/marketing/).
+- The founder is typically involved in a far greater percentage of customer interactions, meaning better [customer service](marketing.md).
 - The founder gets to closely and quickly choose all the decisions for the organization.
 - Changing the business model is comparatively easier.
-- The founder isn't wrestling endlessly with [management concerns](/mgmt/).
+- The founder isn't wrestling endlessly with [management concerns](mgmt-1_why.md).
 
 Smaller also means more freedom for the founder.
 
 - They can tell the truth on their blog without much fear of public backlash.
-- The founder is typically outsourcing boring and low-impact things (e.g., [manufacturing](/engineering/), [logistics](/logistics/), [billing](/accounting/)).
+- The founder is typically outsourcing boring and low-impact things (e.g., [manufacturing](engineering.md), [logistics](logistics.md), [billing](accounting.md)).
 
 However, there are downsides.
 
-- Smaller organizations rely *very* heavily on other organizations for their needs, so they're not as [safe](/risk-mgmt/).
-- Larger company management can typically create [small-scale units](/mgmt-changes/) inside their larger conglomerate to compete with you (with the comparatively endless ability to scale).
-- If you want to [retire](/entrepreneur-exit/) or build something that lasts beyond yourself, you *must* keep scaling.
+- Smaller organizations rely *very* heavily on other organizations for their needs, so they're not as [safe](safety-riskmgmt.md).
+- Larger company management can typically create [small-scale units](mgmt-7_changes.md) inside their larger conglomerate to compete with you (with the comparatively endless ability to scale).
+- If you want to [retire](entrepreneur-7_exit.md) or build something that lasts beyond yourself, you *must* keep scaling.
 
-As soon as possible, [legally separate and protect yourself](/legally-safe/) from the business and associates.
+As soon as possible, [legally separate and protect yourself](legal-safety.md) from the business and associates.
 
 1. Open a small business bank account.
-2. Get business licenses, government permits, and applicable [insurance policies](/insurance/).
+2. Get business licenses, government permits, and applicable [insurance policies](insurance.md).
 3. To limit liability to yourself, file for an LLC or file your articles of organization/incorporation.
    - Get an Employee Identification Number (EIN) or Tax ID.
 4. If you're forming a partnership, enter a buy/sell agreement.
@@ -37,15 +37,15 @@ At some point, your small organization will *eventually* travel down several pos
 
 1. Its core market will be taken over by people more competent than you and your business will eventually fail.
 2. You'll scale upward to compete with the changing conditions and the need to safely manage your resources against a growing market.
-3. You'll [sell the organization](/entrepreneur-exit/), and probably start again with another [idea](/entrepreneur-idea/).
+3. You'll [sell the organization](entrepreneur-7_exit.md), and probably start again with another [idea](entrepreneur-2_idea.md).
 
-Even if you prefer to work alone, a successful business *needs* [other professionals'](/professionals/) help.
+Even if you prefer to work alone, a successful business *needs* [other professionals'](professionals.md) help.
 
-- There are simply too many [specializations](https://gainedin.site/specialization-cities/) that you can't do otherwise, and doing all of them at once makes you merely adequate in all of them.
+- There are simply too many [specializations](jobs-specialization.md) that you can't do otherwise, and doing all of them at once makes you merely adequate in all of them.
 
 ## Financing
 
-To get the [business plan](/entrepreneur-plan/) as perfect as possible for prospective investors, revise the business plan a few dozen times.
+To get the [business plan](entrepreneur-3_plan.md) as perfect as possible for prospective investors, revise the business plan a few dozen times.
 
 Fundraising is easier when the business model is simple.
 
@@ -79,7 +79,7 @@ Search outside your present network for investors who have already invested in y
 
 Be careful with private loans.
 
-- Many loans with investors are *not* regulated by any government authority, which makes them more flexible but also more dangerous if you don't [read the contract](/contracts/).
+- Many loans with investors are *not* regulated by any government authority, which makes them more flexible but also more dangerous if you don't [read the contract](people-6_contracts.md).
 - Loan terms can often change arbitrarily, so stay informed on any changes to a contract.
 
 You can give equity to investors instead of acquiring a loan, but be careful with whom.
@@ -100,8 +100,8 @@ As you scale, shift from focusing on profit to focusing on ROI (rate of investme
 At some point, you'll reach a workload critical mass.
 
 - Workload critical mass comes from being too busy to fix how busy you are.
-  - You won't have enough time to [improve your efficiency](https://adequate.life/success-4/).
-  - You won't have enough time to [train someone else](/mgmt-teams/).
+  - You won't have enough time to [improve your efficiency](success-4_routine.md).
+  - You won't have enough time to [train someone else](mgmt-3_teams.md).
 - It's a precariously dangerous place to be, since *any* increase in work (e.g., extra project needs, more work required than expected, contract renegotiation) can push you into a cascade of failing to fulfill obligations.
 - Before that point, you will need to hire a new employee or draw boundaries and say "no" to some things.
   - However, saying "no" to your customers is a quick way to lose them.
@@ -112,15 +112,15 @@ Employees are, by far, *the* most expensive increase to costs in a startup.
   - e.g., a nice $45 hand tool is the same as 3 hours at $15/hour, meaning a week's pay at that rate can cover a fully loaded toolset.
 - Further, that hourly rate requires extra considerations:
   - Extra accounting concerns like payroll tax filings.
-  - Administration of any benefits (e.g., [insurance](/insurance/) needs).
-  - Extra legal needs to draft [employment contracts](/contracts/) and manage [potential conflicts](/legally-safe/).
+  - Administration of any benefits (e.g., [insurance](insurance.md) needs).
+  - Extra legal needs to draft [employment contracts](people-6_contracts.md) and manage [potential conflicts](legal-safety.md).
 - To that end, hire *very* slowly, and only the right people for the role.
 
 Your first employees, like you, will have *many* small tasks.
 
 - Preferably, look for someone skilled in a variety of small things you're *not* good at.
   - If you sincerely value that person and want a long-term relationship with them, consider giving them partial equity in the company.
-- While [your spouse](https://adequate.life/relationships/) can be a vital co-creator in the organization, do *not* require them to do more than they're comfortable with.
+- While [your spouse](relationships-3_marriage.md) can be a vital co-creator in the organization, do *not* require them to do more than they're comfortable with.
   - Establish boundaries by clarifying job definitions and working conditions beforehand.
   - You should both agree on their commitment to the work.
   - Leave work away from personal time.
@@ -129,7 +129,7 @@ Your first employees, like you, will have *many* small tasks.
 
 If you don't want to hire employees (or at least not yet), consider narrowing your specialization.
 
-- Your [marketing](/marketing/) will have to shift, but you'll be able to more intimately focus on specific needs of clientele you've already had experience with.
+- Your [marketing](marketing.md) will have to shift, but you'll be able to more intimately focus on specific needs of clientele you've already had experience with.
 
 Once you expect you'll need employees, start writing an employee handbook.
 
@@ -152,9 +152,9 @@ Once you expect you'll need employees, start writing an employee handbook.
 
 ## Management shifts
 
-As you scale upward, you'll assume increasing levels of [managerial responsibility](/mgmt/) over others.
+As you scale upward, you'll assume increasing levels of [managerial responsibility](mgmt-1_why.md) over others.
 
-- The [scrappy personality](/entrepreneur/) that got you here may or may not work in a manager capacity.
-- Closely observe the shifts, and [leave](/entrepreneur-exit/) as soon as you feel uncomfortable with the new role.
+- The [scrappy personality](entrepreneur-1_why.md) that got you here may or may not work in a manager capacity.
+- Closely observe the shifts, and [leave](entrepreneur-7_exit.md) as soon as you feel uncomfortable with the new role.
 
-*Next: [Exit Strategy](/entrepreneur-exit/)*
+*Next: [Exit Strategy](entrepreneur-7_exit.md)*

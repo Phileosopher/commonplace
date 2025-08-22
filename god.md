@@ -34,7 +34,7 @@ We [understand](understanding.md) God through theology (i.e., "knowledge of God"
 God has a few frequently used names:
 
 - Elohim
-  - "El" means "strength" or "strong one", and "ohim" comes from "Alah", meaning to bind oneself by an [oath](contracts.md).
+  - "El" means "strength" or "strong one", and "ohim" comes from "Alah", meaning to bind oneself by an [oath](people-contracts.md).
   - Altogether, it most clearly relates to "reverence".
 - YHWH or Yahweh
   - The Jews felt God's name was too sacred to pronounce with vowels, so we don't know how it would sound (e.g., "Yehwah", "Ayohuweho").

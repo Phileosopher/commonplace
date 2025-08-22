@@ -1,19 +1,19 @@
 
-*Previous: [Communication](/mgmt-communication/)*
+*Previous: [Communication](mgmt-5_communication.md)*
 
-Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](https://gainedin.site/changes/) can make-or-break an organization's morale.
+Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](changes.md) can make-or-break an organization's morale.
 
-- Depending on how you came into the role and what the members [imagine](https://gainedin.site/imagination/) you'll do, your presence will both motivate *and* demotivate them.
+- Depending on how you came into the role and what the members [imagine](imagination.md) you'll do, your presence will both motivate *and* demotivate them.
 
-In practice, healthy member management is hands-off, a bit like [gardening](/plants/).
+In practice, healthy member management is hands-off, a bit like [gardening](horticulture.md).
 
 - You can keep adjusting and tweaking small things, but anything dramatic will send at least some of the workers into a temporary state of shock.
-- Too many changes all at once will make them feel [uncomfortable](https://gainedin.site/habits/), and their [work](https://gainedin.site/results/) will suffer.
+- Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](mind-creativity-results.md) will suffer.
 - If you keep making changes after you've done too much, they'll leave.
 
-Informal [mentoring](https://gainedin.site/pedagogy/) is *far* more effective than formalized mentoring to create results.
+Informal [mentoring](pedagogy.md) is *far* more effective than formalized mentoring to create results.
 
-- *They* should be coming to *you* with questions, or you're likely lecturing them about something they either already know or don't care about, or they don't feel [safe](/safety/) talking with you.
+- *They* should be coming to *you* with questions, or you're likely lecturing them about something they either already know or don't care about, or they don't feel [safe](safety.md) talking with you.
 - If you have a tendency to give unsolicited input, encourage them to interrupt you if they don't want to hear it.
 - If people feel valued, they're more likely to share the organization's vision.
 
@@ -21,21 +21,21 @@ Informal [mentoring](https://gainedin.site/pedagogy/) is *far* more effective th
 
 The most direct way to manage is through giving incentives for good things and discipline for bad things.
 
-- Your immediate responses and [habits](https://gainedin.site/habits/) with subordinates feed directly into the work environment's [culture](https://gainedin.site/culture/).
+- Your immediate responses and [habits](habits.md) with subordinates feed directly into the work environment's [culture](culture.md).
 
-Stay vigilant over what you can control when you make [decisions](https://gainedin.site/decisions.).
+Stay vigilant over what you can control when you make [decisions](decisions.md).
 
 - Sometimes, you can control workers' constraints (e.g., firing, docking pay) but not freedoms (e.g., break time, more pay), and other times it's the other way around.
-  - [Legal constraints](/legally-safe/) can create this, but company policy as a [middle manager](/mgmt-middle/) makes even *more* constraints.
+  - [Legal constraints](legal-safety.md) can create this, but company policy as a [middle manager](mgmt-middle.md) makes even *more* constraints.
 - Ideally, you should be able to both incentivize and punish equally, but stay cautious over overusing them if you have one more than the other.
   - Every disciplinary action should have an equivalent reward, and every reward should have an equivalent discipline.
-  - e.g., if it's harder to fire someone than hire them, you must be very picky when [interviewing](/mgmt-teams/).
+  - e.g., if it's harder to fire someone than hire them, you must be very picky when [interviewing](mgmt-3_teams.md).
   - e.g., if you can give pay raises but can't dock pay, you must be very careful with giving raises.
 
 When things are going well, deliver lavish rewards and severe punishments.
 
 - Your disciplinary actions should never surpass the scope of your rewarding actions.
-  - If they do, you made bad [hiring decisions](/mgmt-teams/) and should consider trying again.
+  - If they do, you made bad [hiring decisions](mgmt-3_teams.md) and should consider trying again.
 - Do *not* deliver rewards publicly if others weren't able to achieve them as well, or everyone else will feel it's [unfair](morality-justice.md).
 - Don't deliver punishments publicly, or that person will feel it's [unfair](morality-justice.md).
 
@@ -43,9 +43,9 @@ When the financial situation is *not* going well, cut back on *both* rewards and
 
 - Removing existing rewards is a type of collective discipline, weighted heavily toward the highest achievers suffering the most.
 - Stay brutally honest when the situation isn't going well, or the members will resent you for not telling them.
-- Only make [promises](/contracts/) you can keep, and avoid agreeing to what you can't [predict](https://gainedin.site/imagination/).
+- Only make [promises](people-6_contracts.md) you can keep, and avoid agreeing to what you can't [predict](imagination.md).
 - If times are hard enough, the best workers *will* leave.
-  - Postponing information to get more work out of them is [unethical](https://gainedin.site/morality/).
+  - Postponing information to get more work out of them is [unethical](morality.md).
   - Depending on your situation, if things get harsh enough, *you* should leave too.
 
 ## Be competent
@@ -57,23 +57,23 @@ A manager delivers the greatest direct motivation through 2 things:
 
 Managers will go *very* far if they can master the [skills for being a decent human being](https://adequate.life/):
 
-- [Respect](https://adequate.life/people-3/) your workers.
+- [Respect](people-3_boundaries.md) your workers.
 - Encourage them to [think independently](understanding.md).
-- Allow them to make [decisions](https://gainedin.site/decisions/) on their own.
-- Connect their work to a legitimately important [collective effort](https://gainedin.site/groups-small/).
+- Allow them to make [decisions](decisions.md) on their own.
+- Connect their work to a legitimately important [collective effort](groups-small.md).
 
 Workers are highly motivated by competence.
 
 - Having genuine [understanding](understanding.md) of a subject will earn their respect more than any management system or incentive structure.
-- Often, [knowing your own limits and capabilities](https://adequate.life/awareness/) compared to them will earn a tremendous amount of respect with them.
+- Often, [knowing your own limits and capabilities](awareness.md) compared to them will earn a tremendous amount of respect with them.
 
 It's impossible to fake it with anyone you'd *want* to manage.
 
-- Even if you're competent in a different area than your subordinates, your natural expertise and [continued education](https://gainedin.site/pedagogy/) will subliminally demonstrate itself.
+- Even if you're competent in a different area than your subordinates, your natural expertise and [continued education](pedagogy.md) will subliminally demonstrate itself.
 
 However, sometimes you'll *never* be competent enough with some people.
 
-- When someone is *very* qualified in a [specific domain](https://gainedin.site/specialization-cities/), it's not uncommon for them to think they're better than everyone else.
+- When someone is *very* qualified in a [specific domain](jobs-specialization.md), it's not uncommon for them to think they're better than everyone else.
 - Unless you need them for *extremely* important and hard-to-find skills, it's wiser to judge their performance on how any untoward behavior affects the rest of the team.
 
 * * * * *
@@ -89,7 +89,7 @@ While money is always a great incentive (especially in comparison to their peers
 - Great workers will *never* feel their well-paid enough when working under a bad manager.
 - They need a balance between achievement and challenge, where they both feel they've succeeded but also see more room to grow.
 
-Many motivations depend heavily on [personality](https://gainedin.site/personality/):
+Many motivations depend heavily on [personality](personality.md):
 
 - Openness to Experience
   - High - the novelty of the work, free time to explore and learn new things
@@ -115,8 +115,8 @@ Openly ask them directly what they want.
 
 However, some things *always* discourage people from working:
 
-- Stifling organizational policies or [needless bureaucracy](https://gainedin.site/bad-systems/)
-- Over-involved supervision or any [conflicts](https://gainedin.site/conflicts/) with the leadership
+- Stifling organizational policies or [needless bureaucracy](mgmt-badsystems.md)
+- Over-involved supervision or any [conflicts](people-conflicts.md) with the leadership
 - Unhealthy relationships with peers
 - Unsafe or needlessly uncomfortable work environment
 - Salary/benefits feel inadequate
@@ -129,7 +129,7 @@ However, some things *always* discourage people from working:
 
 Over time, *every* new member will slowly become less motivated toward the team's interests.
 
-- When they start, their [imagination](https://gainedin.site/imagination/) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
+- When they start, their [imagination](imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
 
 Everyone loses their dedication to the group along a relatively straightforward pattern:
 
@@ -156,7 +156,7 @@ Everyone loses their dedication to the group along a relatively straightforward 
 
 This progression of dissatisfaction can be slowed or restarted, but never stopped.
 
-- Making effective, dramatic [organizational changes](/mgmt-changes/) can restart the experience for them.
+- Making effective, dramatic [organizational changes](mgmt-7_changes.md) can restart the experience for them.
 - A pay increase is effective to inspire loyalty again, but typically not as much as a larger organizational change that more directly rewards hard work.
 
 ### Quitting
@@ -193,11 +193,11 @@ Have an exit interview to learn why they're leaving and what would motivate them
 
 ## Bonuses
 
-The greatest bonus you can give anyone is [meaning](https://gainedin.site/meaning/).
+The greatest bonus you can give anyone is [meaning](meaning.md).
 
-- People [start their own businesses](/entrepreneur/) all the time with a *dramatic* cut in pay and increase in workload because they can contribute more fully to something beyond their paycheck.
+- People [start their own businesses](entrepreneur-1_why.md) all the time with a *dramatic* cut in pay and increase in workload because they can contribute more fully to something beyond their paycheck.
 - Find ways to communicate how their decisions and work *actually* changed others' lives for the better.
-- If you can't find anything, you're either a [bad manager](/mgmt/) or work for a [bad company](https://gainedin.site/bad-systems/).
+- If you can't find anything, you're either a [bad manager](mgmt-1_why.md) or work for a [bad company](mgmt-badsystems.md).
 
 However, people *are* working to get paid, so they'll never turn down more money.
 
@@ -220,15 +220,15 @@ Pay them extra for staying devoted to a project or attaining critical goals.
 
 Cash bonuses always work, but aren't the only way to reward people.
 
-- Some non-cash gifts are more [tax-deductible](/accounting/) than directly through payroll.
+- Some non-cash gifts are more [tax-deductible](accounting.md) than directly through payroll.
 - Gift cards can be tailored to each person for a more meaningful impact.
 - Try celebrations instead of a reward, which is simply a more fun method of recognition.
   - Lavish celebrations can often become awards ceremony traditions as well.
 - Since it creates mandatory personal time for work, do *not* meet with them for dinner.
-- Give a company car or car program that provides [insurance](/insurance/) and [maintenance](/autos/).
+- Give a company car or car program that provides [insurance](insurance.md) and [maintenance](autos.md).
 - Give gifts for certain life landmarks like marriage or a new baby.
-- Give them discounted or free [insurance](/insurance/).
-- Pay for their [financial](https://adequate.life/money-1/)/[investing](/investing/) consultation services, [legal assistance](/legally-safe/), or [identity theft protection](https://trendless.tech/cysec/).
+- Give them discounted or free [insurance](insurance.md).
+- Pay for their [financial](money-1_why.md)/[investing](money-investing.md) consultation services, [legal assistance](legal-safety.md), or [identity theft protection](computers-cysec.md).
 - Give significant discounts on company products.
   - Partner with affiliates in other industries to share discounts with each other.
 - Give tickets to events like concerts or amusement parks.
@@ -243,7 +243,7 @@ If you give fixed incentives directly connected to performance (e.g., sales comm
 
 To retain top talent, give a yearly bonus that averages the past 3-5 years.
 
-- If the bonus is an average of the past five years, they'll feel less [afraid](https://gainedin.site/fear/) of losing *all* their bonus if they have a particularly bad year and more motivated to try their best anyway.
+- If the bonus is an average of the past five years, they'll feel less [afraid](mind-feelings-fear.md) of losing *all* their bonus if they have a particularly bad year and more motivated to try their best anyway.
 
 Help members appreciate each other.
 
@@ -273,7 +273,7 @@ You can often give *additional* benefits on top of any standard benefits:
 - Ambitious healthcare coverage
 - Mandatory holidays off or half-day Fridays
 - Allow business travel expenses for personal needs
-- Recreational facilities like video games, pool tables, [fields or courts](/sports/)
+- Recreational facilities like video games, pool tables, [fields or courts](fun-sports.md)
 
 Give them anything that will make their job easier or more enjoyable:
 
@@ -301,8 +301,8 @@ Give them the means to grow on their own:
 Provide support for them to have a healthier lifestyle:
 
 - Pay them for personal philanthropic time.
-- Enroll in a wellness program (e.g., counseling, [substance abuse](https://adequate.life/substances/)).
-- Establish an on-site gym or give incentives for [weight loss](https://adequate.life/weight/).
+- Enroll in a wellness program (e.g., counseling, [substance abuse](addiction-substances.md)).
+- Establish an on-site gym or give incentives for [weight loss](body-2_diet.md).
 - Give unlimited vacation days or flexible hours, or simply don't track their hours at all.
 - Fund an adoption assistance program.
 - Furnish a family resource room with books, toys, games, and educational material.
@@ -311,7 +311,7 @@ Provide support for them to have a healthier lifestyle:
 *Never* give something and then take it away.
 
 - We hate receiving something and then losing it later *much* more than simply not having it in the first place.
-  - One of the most [immoral](https://gainedin.site/morality/) ways to conceal it is to hire someone who can remove a benefit or cut pay, then dismiss them after they've removed the incentive.
+  - One of the most [immoral](morality.md) ways to conceal it is to hire someone who can remove a benefit or cut pay, then dismiss them after they've removed the incentive.
 - The benefits may not attract the highest-possible talent, but they're guaranteed to stick around for longer.
 
 * * * * *
@@ -324,7 +324,7 @@ Most conflicts are inevitable, meaning your best option is to let most of them p
 
 Keep your position in mind whenever confronting anyone.
 
-- If you intercede to [mediate](/contracts/), you're typically *not* an unbiased third-party and more along the lines of being an official [arbitrator](https://adequate.life/conflicts/).
+- If you intercede to [mediate](people-6_contracts.md), you're typically *not* an unbiased third-party and more along the lines of being an official [arbitrator](people-5_conflicts.md).
   - Your arbitration begins when the consequences of their conflict affects the interests of you or the team.
 - When you get involved more than you should, members will typically try to lobby your opinion to their side of things.
 
@@ -332,7 +332,7 @@ Always assume every conflict might be worse than it appears.
 
 - Over-reacting protects against unseen risks, but under-reacting allows risks to magnify themselves.
 
-Set a few ground rules for yourself and everyone before getting involved in a team member [conflict](https://adequate.life/conflicts/):
+Set a few ground rules for yourself and everyone before getting involved in a team member [conflict](people-5_conflicts.md):
 
 1. Everyone must believe the best of everyone else (i.e., nobody is being intentionally malicious).
 2. Information is free for everyone, and anyone can bring up anyone and anything.
@@ -357,7 +357,7 @@ Presume that there are no secrets, and that everyone else will hear about the is
 
 - Always get ahead of the story by plainly speaking the simple truth about the controversial events.
 - If you try to hide the problem or stop the spread of information, people will see you as part of the scandal.
-- People tend to be distrustful with authority figures, so expect plenty of [bias](https://gainedin.site/bias/) against *any* [spin](https://gainedin.site/image-distortion) you make to the information you know.
+- People tend to be distrustful with authority figures, so expect plenty of [bias](mind-bias.md) against *any* [spin](image-distortion.md) you make to the information you know.
 
 ### Disciplinary action
 
@@ -385,7 +385,7 @@ Pay close attention to *how* they're failing:
 
 - Incompetent/ineffective
   - They're often quite happy with the work, but low-performing.
-  - They'll typically be [disorganized](https://adequate.life/organization/), passive to act, and resistant to any changes.
+  - They'll typically be [disorganized](organization.md), passive to act, and resistant to any changes.
   - Inspire them to more effectiveness:
     - Use steady support and extra training.
     - Closely track their performance.
@@ -434,26 +434,26 @@ If anyone starts bringing up rumors about any misbehavior:
    - Give them a piece of paper, and tell them to write down names.
    - If they can't, candidly state you can't do anything.
 6. Either way, publicly communicate (without names) that you've heard that rumor, and the consequences if they're found out.
-7. If the person *bringing* the rumor seems to keep spreading baseless rumors, consider that action as possible grounds for termination, which may include [updating the organization's policy](/mgmt-communication/).
+7. If the person *bringing* the rumor seems to keep spreading baseless rumors, consider that action as possible grounds for termination, which may include [updating the organization's policy](mgmt-5_communication.md).
 
 Unless you have an action item attached to specific behaviors (which affects specific people), nothing will happen:
 
 - Unless they know confessing will be better than persisting in their action, general statements to everyone condemning the action typically informs the guilty people to hide their actions.
-- Any [policy or procedure](https://gainedin.site/rules/) that formally punishes the action *must* be followed to the letter, and for everyone, or it won't be easily enforceable.
+- Any [policy or procedure](rules.md) that formally punishes the action *must* be followed to the letter, and for everyone, or it won't be easily enforceable.
 - Ignoring the offense or figuring people will sort it out amongst themselves typically makes it worse.
 
 ### Handling crisis
 
 Handling emergencies is a critical part of management.
 
-- Most people don't handle crisis and hardship well unless they've [experienced it before](https://adequate.life/hardship/).
+- Most people don't handle crisis and hardship well unless they've [experienced it before](hardship.md).
 - Even when people typically know what to do, they often need direct guidance in a difficult situation.
 - Always assume the crisis might be worse than it appears.
 
 It's worth having at least some contingency plan for most of the common crises you may face:
 
-- Specific [conflicts](https://adequate.life/conflicts/) among workers.
-- [Natural disasters](https://adequate.life/disasters-1/) in operational regions.
+- Specific [conflicts](people-5_conflicts.md) among workers.
+- [Natural disasters](safety-nature.md) in operational regions.
 - Failures by members or yourself.
 - Failures by another team or organization your team depends on.
 
@@ -472,7 +472,7 @@ If there are severe risks in the work, train everyone for perfection.
 Never let yourself become complacent or conceited.
 
 - If you aren't prepared to accept anything, you're letting the entire team down.
-- Always check whether you're showing favoritism or unfairly employ [bias](https://gainedin.site/bias/).
+- Always check whether you're showing favoritism or unfairly employ [bias](mind-bias.md).
 
 * * * * *
 
@@ -497,9 +497,9 @@ Unless they insist, do *not* let them regularly work late or on weekends.
   - Overtime pays time-and-a-half (150% the pay), while they're also tired (at 75% productivity), meaning you pay twice the normal rate.
   - Extra overtime pays double-time (200% the pay), while they're also exhausted (at 50% productivity), meaning you pay a quarter the normal rate, and often with lower-quality work as well.
   - After 13 hours of staying awake, people produce the same results as if they were drunk.
-  - Further, exhausted teams have far less patience with each other, which will increase the risks of [interpersonal conflicts](https://adequate.life/conflicts/).
+  - Further, exhausted teams have far less patience with each other, which will increase the risks of [interpersonal conflicts](people-5_conflicts.md).
 - Focus more on efficiency with the time they already have than on persevering for longer periods.
 - If the workload is particularly severe, get temporary or part-time workers under the full-time workers' supervision.
   - Often, overwork to make up for lost income can create a vicious cycle of overworking until burnout.
 
-*Next: [Changes, Scaling & Shrinking](/mgmt-changes/)*
+*Next: [Changes, Scaling & Shrinking](mgmt-7_changes.md)*

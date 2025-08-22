@@ -64,7 +64,7 @@ Within every domain, God seems to have a 3-step pattern:
 
 Further, the relationship between God and man seems to have the same pattern:
 
-1. God offers an opportunity to the called, who [consent](contracts.md) to it without [bargaining](people-conflicts.md).
+1. God offers an opportunity to the called, who [consent](people-contracts.md) to it without [bargaining](people-5_conflicts.md).
 2. Of those called, the faithless are cast away from the faithful.
 3. The faithful face abnormal resistance and opposition from more powerful forces around them.
 4. At the last moment, the faithful are redeemed through a strange divine coincidence.

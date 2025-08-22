@@ -1,12 +1,12 @@
 
-Every [large-scale system](https://gainedin.site/groups-large/) developed over time in approximately the same way:
+Every [large-scale system](groups-large.md) developed over time in approximately the same way:
 
-1. [At one time](https://gainedin.site/groups-small/), they were relatively simple and served a straightforward purpose.
+1. [At one time](groups-small.md), they were relatively simple and served a straightforward purpose.
 2. To accommodate more complex purposes, they grew exponentially more complex and arcane.
-3. Well-intended [rule-makers](https://gainedin.site/groups-large/) tried plugging those holes with ideas they *thought* were a good idea.
-4. The malice and incompetence within [human nature](https://gainedin.site/universals/) slowly [corrupted everything](https://gainedin.site/bad-systems/), meaning more rules and more complexity.
+3. Well-intended [rule-makers](groups-large.md) tried plugging those holes with ideas they *thought* were a good idea.
+4. The malice and incompetence within [human nature](humanity-universals.md) slowly [corrupted everything](mgmt-badsystems.md), meaning more rules and more complexity.
 
-Working with and around [large organizations](https://gainedin.site/bad-systems/) is so frustrating that most people don't want to think about it.
+Working with and around [large organizations](mgmt-badsystems.md) is so frustrating that most people don't want to think about it.
 
 However, knowing a few social skills can bypass most of those frustrations, and most bureaucratic navigation is a combination of patience and rapid response.
 
@@ -17,9 +17,9 @@ People hate change, especially from the outside.
 You *can* publicly defame them, but they'll fight you on principle alone at that point.
 
 - Governments only change when there's a regime change or the public's reactions affect fairly elected politicians.
-- Corporations only change from the risks of their [public image](https://gainedin.site/image/), and only if they have [competitors](https://gainedin.site/country/).
+- Corporations only change from the risks of their [public image](image.md), and only if they have [competitors](politics-monopolies.md).
 
-Unless you run the organization or can generate wide-scale attention to your problem, you can only make small, individual changes through [human decency](https://adequate.life/people-3/), compassion, and patience.
+Unless you run the organization or can generate wide-scale attention to your problem, you can only make small, individual changes through [human decency](people-3_boundaries.md), compassion, and patience.
 
 ## Start as soon as possible
 
@@ -31,7 +31,7 @@ Assume the process will take at least 3-6 times longer than you'll expect.
 
 - 4-6 weeks in a government bureau can easily become 6-8 months.
 - If a company predicts a month, expect it to take three.
-- Double *those* expectations if a natural disaster impacts the organization or the [economy](https://gainedin.site/economics/) slumps.
+- Double *those* expectations if a natural disaster impacts the organization or the [economy](economics.md) slumps.
 
 * * * * *
 
@@ -40,13 +40,13 @@ Assume the process will take at least 3-6 times longer than you'll expect.
 People tend to fill out forms without considering its full implications.
 
 - Paper forms are typically converted to computer data and treated as 100% fact, even if the writer was simply guessing at the information.
-- Treat *any* information you give them, spoken or written, as a [legally binding](/legally-safe/) statement.
+- Treat *any* information you give them, spoken or written, as a [legally binding](legal-safety.md) statement.
 - Sometimes, if you don't know or it's not applicable, you can simply write *that* into the entry.
 
 Whenever possible, use information that bureau trusts.
 
 - Large companies often trust other industry-related companies, not-for-profits, and (to a lesser degree) governments.
-- Government bureaus almost *completely* trust each other more than anyone else, though [political fashions](https://gainedin.site/political-systems/) can sow distrust among them.
+- Government bureaus almost *completely* trust each other more than anyone else, though [political fashions](politics-systems.md) can sow distrust among them.
 
 If you make *any* mistake, communicate it as fast as possible and work as hard as you can to amend or un-send the document.
 
@@ -60,16 +60,16 @@ The most rapidly processed paperwork will give precisely what they need to know 
 
 Every bit of information must be all the following:
 
-1. They need the information to make an informed [decision](https://gainedin.site/decisions/).
-2. Your submitted information doesn't [imply](https://gainedin.site/image/) something worse than reality.
+1. They need the information to make an informed [decision](decisions.md).
+2. Your submitted information doesn't [imply](image.md) something worse than reality.
 3. You're absolutely [certain](understanding-certainty.md) that the information is correct.
 
 ### Don't provide wrong information
 
 Only record the cold truth.
 
-- People often [adapt their story](https://adequate.life/lying/) to give what someone else wants, but a giant organization will want opposite things at different times.
-- Lying on a document can make a six-month application even longer, revoke it, or at worst sever the [business relationship](/contracts/) or lead to [criminal prosecution](/legally-safe/).
+- People often [adapt their story](people-lying.md) to give what someone else wants, but a giant organization will want opposite things at different times.
+- Lying on a document can make a six-month application even longer, revoke it, or at worst sever the [business relationship](people-6_contracts.md) or lead to [criminal prosecution](legal-safety.md).
 - Even when you might get away with it, that organization has a *lot* of information on you that you're not aware of.
 
 Don't *ever* submit information you don't know.
@@ -110,7 +110,7 @@ Record *everything* with as much supporting evidence as possible:
 - Who you communicated with and what they promised to do, with dates and times
 - When you talked and any text communications
 - Information from other departments and bureaus
-- Applicable [laws and regulations](/legal-doctrines/) that may apply to your situation
+- Applicable [laws and regulations](legal-doctrines.md) that may apply to your situation
 
 You'll need this information for several possible reasons:
 
@@ -124,7 +124,7 @@ Every bureau worker has a small part of the organization's power, and usually do
 
 - Most of them have plenty of experience disassociating from complaints.
 
-Our [human nature](https://gainedin.site/universals/) is to magnify our effort when we don't feel progress, but it never works, and we often incriminate ourselves by providing unnecessary information.
+Our [human nature](humanity-universals.md) is to magnify our effort when we don't feel progress, but it never works, and we often incriminate ourselves by providing unnecessary information.
 
 1. Unnecessary information, as stated above, is never good in a bureaucratic system.
 2. By getting angry, you give the worker even *more* reason to procrastinate on principle alone.
@@ -133,13 +133,13 @@ Our [human nature](https://gainedin.site/universals/) is to magnify our effort w
 
 For someone to fully empathize with your situation, they might need information you didn't indicate on the form.
 
-- They're frequently more focused on [following rules](https://gainedin.site/rules/) than [understanding](understanding.md) your situation, so choose your words and context carefully.
+- They're frequently more focused on [following rules](rules.md) than [understanding](understanding.md) your situation, so choose your words and context carefully.
 
 Providing certain information, even if it was misstated, may invalidate your efforts or transfer you to a department that can't help you.
 
 ## Observe each department
 
-Every department may have a separate system with a separate [workplace culture](https://gainedin.site/culture/), and most of them don't interact with each other much.
+Every department may have a separate system with a separate [workplace culture](culture.md), and most of them don't interact with each other much.
 
 - Each department is a separate organization with a limited understanding of other departments' knowledge.
 - Every time you engage with another department, treat it as a completely separate organization.
@@ -152,7 +152,7 @@ If you've filled out more than 1 page in a department, some of it will *not* tra
 As stated above, stay honest and consistent.
 
 - Keeping your story the same across departments is difficult because the story will adapt and change as you navigate the organization(s).
-- If you [lied](https://adequate.life/lying/) on anything, your story *will* become inconsistent.
+- If you [lied](people-lying.md) on anything, your story *will* become inconsistent.
 
 ## Not all workers are the same
 
@@ -164,9 +164,9 @@ A. Bottom-level workers
 
 B. Actual deciders
 
-- Deciders include social and caseworkers, [managers](/mgmt/), supervisors, and leads.
+- Deciders include social and caseworkers, [managers](mgmt-1_why.md), supervisors, and leads.
 - These people have experience making decisions and can typically solve your issue if they like you.
-- Be as [courteous, professional, and respectful](https://adequate.life/people-3/) as you can. They're accustomed to impatient people referred to them after mistreatment by the bottom-level workers.
+- Be as [courteous, professional, and respectful](people-3_boundaries.md) as you can. They're accustomed to impatient people referred to them after mistreatment by the bottom-level workers.
 
 C. High-level deciders
 
@@ -177,12 +177,12 @@ C. High-level deciders
 
 ## Treat the workers kindly
 
-Large organizations feel so monolithic that we forget that workers have [families](https://adequate.life/parenting-2/), [hobbies](https://adequate.life/fun/), nonwork interests, and likely a [sense of humor](https://gainedin.site/humor/).
+Large organizations feel so monolithic that we forget that workers have [families](parenting-2_children.md), [hobbies](fun.md), nonwork interests, and likely a [sense of humor](humor.md).
 
 Whenever possible, try to connect with them:
 
 - Tell a joke if it's appropriate, and it preferably should be at your expense to be safe.
-- [Make small talk](https://adequate.life/speaking/) or give them a [gender-neutral](https://gainedin.site/gender/) compliment.
+- [Make small talk](language-speaking.md) or give them a [gender-neutral](gender.md) compliment.
 - If you can observe a common interest, share it with them.
 - Avoid talking poorly about the organization or what you dislike.
 
@@ -190,7 +190,7 @@ Connecting with them serves several purposes:
 
 1. You may gain favor with them where they can educate you about potential risks further in the process.
 2. You get a reprieve from the organization's unfeeling culture.
-3. Your situation, however it turns out, isn't a complete waste because you made someone [happy](https://adequate.life/happiness-1/).
+3. Your situation, however it turns out, isn't a complete waste because you made someone [happy](happiness.md).
 4. Even if someone is lazy or pathetic, you make the workers important in a way they rarely receive, and they'll be more likely to assist you.
 
 Even if you don't care, they have a lousy job in a soulless system, and you do *not* have to deal with that system as much as they do.
@@ -205,7 +205,7 @@ If you don't like services you receive from those organizations, consider long-t
 
 - Move to a less-populated area with a government where you know the leaders by name.
 - Migrate your services and consumer needs to smaller organizations that will treat you more humanely.
-- If your situation is frequent enough, the problems are often [business ideas](/entrepreneur-idea/) waiting to happen.
+- If your situation is frequent enough, the problems are often [business ideas](entrepreneur-2_idea.md) waiting to happen.
 
 Large bureaucratic systems try to engineer you to give up, which means they don't have to do actual work.
 
@@ -221,4 +221,4 @@ Large bureaucratic systems try to engineer you to give up, which means they don'
 
 The rest is merely patience.
 
-Instead of dreading the experience, find ways to make the time more [productive](https://adequate.life/success-4/).
+Instead of dreading the experience, find ways to make the time more [productive](success-4_routine.md).

@@ -26,9 +26,9 @@ As groups become progressively larger, top-ranking people will become dramatical
 
 To clearly understand *any* group, an observer needs to see 3 perspectives at once:
 
-1. Legal entity: It's a separate existence which makes its own collective [decisions](decisions.md), though its [civil rights](boundaries.md) are generally treated as sub-human.
+1. Legal entity: It's a separate existence which makes its own collective [decisions](decisions.md), though its [civil rights](people-boundaries.md) are generally treated as sub-human.
 2. Holistic entity: It's made of people, most of them normal workers doing various [specialized roles](jobs-specialization.md), and some of those are only partly of that entity (e.g., contractors) and others with more power (e.g., shareholders, leadership).
-3. [Power](power.md): It advances [an agenda](/purpose/), defined and curated by its leadership, which impacts its individual members and other people around it.
+3. [Power](power.md): It advances [an agenda](purpose.md), defined and curated by its leadership, which impacts its individual members and other people around it.
 
 Unlike leaders in times past, their effort is to [identify](identity.md) with the rest of the people instead of demonstrating raw [force](power.md). It's [influence](power-influence.md) via [being relatable](people-4_friends.md) instead of [through fear](mind-feelings-fear.md).
 
@@ -50,13 +50,13 @@ Since every person has a different reaction to [new information](pedagogy.md), [
 
 As a group expands, leaders don't see [results](mind-creativity-results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
-All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](mind-creativity-results.md), [evil](morality-evil.md), and [engage in conflicts](boundaries.md).
+All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](mind-creativity-results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts.md).
 
-When the scale becomes enormous (i.e., surpassing thousands), every large group leader must act quickly to keep the entire organization in line. Their role frequently becomes a never-ending string of resolving [disasters](boundaries.md).
+When the scale becomes enormous (i.e., surpassing thousands), every large group leader must act quickly to keep the entire organization in line. Their role frequently becomes a never-ending string of resolving [disasters](people-conflicts.md).
 
 Large groups are far more risk-averse than [small groups](groups-small.md), since they have so much more [power](power.md) to lose and so much more easily. They're also susceptible to [trust](trust.md) *other* large groups more, since they often depend so heavily on them for their large-scale resource needs.
 
-To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](pedagogy.md). While these tests *can* clarify, they represent tremendous [power](/power/) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
+To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](pedagogy.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
 
 ## Hierarchy
 
@@ -115,7 +115,7 @@ The [traditions](habits.md) that the subcultures make pile together over time. I
 
 Instead of *stopping* people from doing what they want with [rules](rules.md), social engineering involves using rules to make people *[want](purpose.md)* to do something ("libertarian paternalism").
 
-Every large organization will try to socially engineer, at least a little. Even if they don't have the [power](/power/) to do it, the draw from how much [power](power.md) they can gain is too tempting to pass up.
+Every large organization will try to socially engineer, at least a little. Even if they don't have the [power](power.md) to do it, the draw from how much [power](power.md) they can gain is too tempting to pass up.
 
 Social engineering is risky, proportionally to how much it's done. [Human nature](humanity-universals.md) hates to be "boxed in", but leaders' human nature won't let them easily reverse a bad [decision](decisions.md), so it often becomes a [bad system](mgmt-badsystems.md) in the process of trying to [craft an ideal](perfectsociety.md).
 
@@ -140,7 +140,7 @@ Every far-reaching decision in a large group requires a lead time between [commu
 
 Every single [result](mind-creativity-results.md) of an organization is [created](creations.md) by the members' [decisions](decisions.md) and actions. Thus, even when the leaders get *all* the [credit](image.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
 
-Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](boundaries.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
+Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](people-conflicts.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
 
 - Outward growth comes through absorbing other groups and people, often with [large-scale conflicts](people-conflicts-war.md). If uncontested by other groups, it becomes an [empire or monopoly](politics-monopolies.md).
 - Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](pedagogy.md) and expanding individuals' roles into broader group responsibilities.

@@ -9,21 +9,21 @@ Buying a house can be rewarding, but must be for the right reasons and isn't int
 
 - The risks of owning a house can be severe if you get the wrong one, and you're stuck with its problems until you can sell it.
 - Compared to a higher down payment, the tax advantages of a home are *rarely* worth the costs of a mortgage, but they *do* add stress.
-- A house can be a great [investment](/investing/), but you won't receive returns until you either sell it or rent out rooms.
+- A house can be a great [investment](money-investing.md), but you won't receive returns until you either sell it or rent out rooms.
 
 Make sure to budget other associated expenses instead of simply "rent":
 
-- Mortgage principal (which you're essentially [saving away](https://adequate.life/money-3/) until later).
+- Mortgage principal (which you're essentially [saving away](money-3_budget.md) until later).
 - Mortgage interest
-- PMI (an [insurance](/insurance/) for the lender if you can't put 20% down on the property)
-- [Property tax](/accounting/)
+- PMI (an [insurance](insurance.md) for the lender if you can't put 20% down on the property)
+- [Property tax](accounting.md)
 - HOA fees, if applicable
 - Pool maintenance, if applicable
 - Home maintenance
-- Necessary [repairs and improvements](https://adequate.life/decorations-renovations/) (~2%/year of house's value in good condition, and ~4%/year if it's old)
-- Any [local taxes](/accounting/) (e.g., school levies, mandatory inspections)
+- Necessary [repairs and improvements](home-decorations.md) (~2%/year of house's value in good condition, and ~4%/year if it's old)
+- Any [local taxes](accounting.md) (e.g., school levies, mandatory inspections)
 - Utilities (e.g., gas, sewer, water, electric, trash)
-- [Homeowners insurance](/insurance/)
+- [Homeowners insurance](insurance.md)
 - Protection/security fees (in a dangerous area)
 
 Depending on your lifestyle, renting may be a better idea:
@@ -46,15 +46,15 @@ Only buy a house when the market and family timing are right.
 The housing market should *not* be high.
 
 - Inflation can mean getting back the money you invested in a high-market buy can take 15 years.
-- To accommodate the size of the investment, timing the market should always be a little slower than [most other markets](/investing/).
+- To accommodate the size of the investment, timing the market should always be a little slower than [most other markets](money-investing.md).
 
 A two-bedroom apartment is fully sufficient for two children, sometimes three, so do *not* buy a house as a "starter" for a new baby.
 
-[Have 3-6](https://adequate.life/money-3/) months of emergency expenses ready beforehand, and [get out of other debt obligations](https://adequate.life/money-2/).
+[Have 3-6](money-3_budget.md) months of emergency expenses ready beforehand, and [get out of other debt obligations](money-2_debt.md).
 
 Save a down payment beforehand:
 
-- A home equity loan is the same as any other debt, but larger, so [compounding interest](https://adequate.life/money-2/) works the same.
+- A home equity loan is the same as any other debt, but larger, so [compounding interest](money-2_debt.md) works the same.
 - e.g., a 6% 30-year loan on a $225,000 house after 10 years of minimum payments:
   1. A 15-year mortgage ($1,899/month) will have $98,210 remaining, or 43.6% of the principal.
   2. A 30-year mortgage ($1,349/month) will have $188,292 remaining, or 83.7% of the principal.
@@ -71,7 +71,7 @@ You usually must have a licensed realtor to buy a house, so look for a reputable
 
 - There is a listing agent who uploads the information to the MLS (Multiple Listing Service), and a selling agent who arranges the contract to purchase the property.
 - The buying and selling agents collect ~6% commission, split between both of them.
-- Their commission is the *only* way they make a living, but it is a [negotiable](https://adequate.life/conflicts/) rate.
+- Their commission is the *only* way they make a living, but it is a [negotiable](people-5_conflicts.md) rate.
 - An agent can be a listing or selling agent, but can also act as a "dual agent".
 
 Realtors have access to the MLS, which lists most homes for sale:
@@ -85,7 +85,7 @@ Realtors have access to the MLS, which lists most homes for sale:
 Get pre-approved for a mortgage *before* you start shopping, not just pre-qualified:
 
 - A 1% increase in a home loan will likely be about an extra $100/month and ~$50,000 more across the loan's life.
-- It's tempting to buy as high as you're qualified, but focus on your [budget and long-term goals](https://adequate.life/money-3/).
+- It's tempting to buy as high as you're qualified, but focus on your [budget and long-term goals](money-3_budget.md).
 
 Federal Housing Authority (FHA) loans are through Freddie Mac & Fannie Mae:
 
@@ -103,14 +103,14 @@ VA loans are like FHA loans, but insured through the US Department of Veterans A
 
 Conventional loans are arranged with a bank:
 
-- A bank will check your [credit score](https://adequate.life/money-2/) to see your reputation in paying off obligations.
+- A bank will check your [credit score](money-2_debt.md) to see your reputation in paying off obligations.
 - Most banks want to see a 10% down payment to demonstrate your willingness to pay off the loan.
 
-Owner financing lets you pay the owner directly, which lets you be more [creative](https://gainedin.site/creativity/) when structuring the loan:
+Owner financing lets you pay the owner directly, which lets you be more [creative](mind-creativity.md) when structuring the loan:
 
 - You'll have to prove your credit-worthiness to the seller more than a bank.
-- Be careful that [you're not exploited](/legally-safe/):
-  - Make sure everything you discussed is [signed in writing](/contracts/).
+- Be careful that [you're not exploited](legal-safety.md):
+  - Make sure everything you discussed is [signed in writing](people-6_contracts.md).
   - If you're unsure about the agreement, have a real estate accountant, attorney, or realtor look it over.
   - Avoid any balloon payments at the end even if the payments are less, since *not* having the balance available allows the lender to repossess the home with most of your house already paid-for.
   - Watch for buydowns because their terms may be worse in the long term.
@@ -127,7 +127,7 @@ You can sometimes get a house for a *fraction* of what you'd normally pay:
 - Banks will sell foreclosed homes for a reasonable price.
 - You can take an assumable loan (someone gives you the remainder of the loan along with the deed to the house) from anyone, even when they're not on the market.
 
-Typically, to secure financing, you'll also have to get Private Mortgage [Insurance](/insurance/) (PMI) for the lender to trust their investment towards you.
+Typically, to secure financing, you'll also have to get Private Mortgage [Insurance](insurance.md) (PMI) for the lender to trust their investment towards you.
 
 ### Home loan features
 
@@ -138,7 +138,7 @@ An "ideal" home loan has a few qualities:
 3. A monthly rate that's up to 25% of your take-home pay
 4. At least a 10% down payment
 
-Lenders give a better interest rate if you use an escrow account for paying [insurance](/insurance/) and [property taxes](/accounting/), so always set one up.
+Lenders give a better interest rate if you use an escrow account for paying [insurance](insurance.md) and [property taxes](accounting.md), so always set one up.
 
 Fixed Rate vs. Adjustable Rate (ARMs):
 
@@ -188,7 +188,7 @@ People very frequently fall in love with a house they can't afford.
 
 Buy in the bottom price range of your preferred region and neighborhood.
 
-- If you feel [up to the challenge](https://adequate.life/decorations-renovations/), hunt for abandoned or run-down houses.
+- If you feel [up to the challenge](home-decorations.md), hunt for abandoned or run-down houses.
 - For more selection, consider moving somewhere with a lower cost of living.
 - Consider a smaller house or one you can build onto.
 
@@ -219,7 +219,7 @@ Note the house's floor plan.
 - Look at the county assessor's information on the property to find tons of small potentially relevant details.
 - The kitchen is the "hub" of a house, so it should be accessible and well-connected with the other rooms:
   - Has a convenient eating area to accommodate people.
-  - Has an island for easier [food prep](https://adequate.life/cooking/).
+  - Has an island for easier [food prep](cooking.md).
 - Bedrooms:
   - Walk-in closets and en-suite bathrooms are extremely convenient.
 - Outside:
@@ -253,17 +253,17 @@ If the appraisal is *not* the same as the selling price during escrow:
 - With your expenses in mind, meet in the middle of that difference with out-of-pocket cash.
 - Ask a realtor what to do.
 
-Always buy title [insurance](/insurance/) that covers when anyone questions your property ownership.
+Always buy title [insurance](insurance.md) that covers when anyone questions your property ownership.
 
-If you're looking at a more rural property or intend to build one yourself, there are [more things to consider](/homestead/).
+If you're looking at a more rural property or intend to build one yourself, there are [more things to consider](home-homestead.md).
 
 ## After escrow has closed
 
-You now own your house, and will have to [move into it](https://adequate.life/moving/).
+You now own your house, and will have to [move into it](home-moving.md).
 
 Before moving into the basement, test it for radon and radon-proof it.
 
-Make [improvements](https://adequate.life/decorations-renovations/) after you've moved in to maximize enjoyment of your new home.
+Make [improvements](home-decorations.md) after you've moved in to maximize enjoyment of your new home.
 
 - Have a relative order for your projects:
   1. Make sure the roofing material sufficiently seals the top of the house.
@@ -296,32 +296,32 @@ A. You bought or inherited a house you can't afford.
 
 - If the housing market changes, you might have an upside-down loan (owing more than your house is worth).
 - A short sale sells the house for less than it's worth, but considers that sale as full payment on the loan.
-- Simply abandoning a mortgage without paying is called a strategic default, and is completely [unethical](https://gainedin.site/morality/) because you're breaking your promise.
+- Simply abandoning a mortgage without paying is called a strategic default, and is completely [unethical](morality.md) because you're breaking your promise.
 
 B. You're no longer satisfied with the house or your lifestyle needs have changed.
 
-- [Your family](https://adequate.life/parenting-1/) is now too big for your house.
-- The house has become [too much trouble to maintain](https://adequate.life/housekeeping/).
-- Now that [the children moved out](https://adequate.life/parenting-3/), the house is too big.
-- The house has too many [painful memories](https://gainedin.site/ptsd/) attached to it.
+- [Your family](parenting-1_babies.md) is now too big for your house.
+- The house has become [too much trouble to maintain](home-housekeeping.md).
+- Now that [the children moved out](parenting-3_teenagers.md), the house is too big.
+- The house has too many [painful memories](hardship-ptsd.md) attached to it.
 
 C. The house is too expensive to maintain.
 
-- [New work opportunities](https://adequate.life/jobs-1/) require you to frequently travel far away.
-- [Your child](https://adequate.life/parenting-2/) would benefit from a better school district.
-- The house is worth more than you owe on it, and you'd like to [reinvest](/investing/).
+- [New work opportunities](jobs-1_why.md) require you to frequently travel far away.
+- [Your child](parenting-2_children.md) would benefit from a better school district.
+- The house is worth more than you owe on it, and you'd like to [reinvest](money-investing.md).
 
 When you want to sell, think like a retailer.
 
 - Most people act on their feelings through the whole experience and are usually unprepared.
-- Treat it as a business transaction that requires [marketing](/marketing/), [haggling](https://adequate.life/conflicts/), and awareness of [agreements](/contracts/).
+- Treat it as a business transaction that requires [marketing](marketing.md), [haggling](people-5_conflicts.md), and awareness of [agreements](people-6_contracts.md).
 
 ### A. Immediately shop for a realtor
 
-Unless you are sufficiently experienced in real estate [sales](/marketing/), a great real estate agent is *absolutely* worth the cost:
+Unless you are sufficiently experienced in real estate [sales](marketing.md), a great real estate agent is *absolutely* worth the cost:
 
 - They can expose you to many more potential buyers through their MLS.
-- A good real estate agent [sells more](/marketing/) houses in a week than you will in your *life*.
+- A good real estate agent [sells more](marketing.md) houses in a week than you will in your *life*.
 - You'll likely sacrifice a 6% commission for a 10% increase in the selling price.
 
 Before deciding, interview at least 3 agents:
@@ -336,7 +336,7 @@ A great realtor has *very* specific qualities:
 - Has an average list-to-sale ratio over 100%, which means they consistently get above asking price on each sale.
 - Has an average time-to-sell similar to your area's standard rate.
 - Knows the area (which isn't a deal-breaker if the realtor is fantastic).
-- Outlines what [marketing](/marketing/) will work and how If you bring up something for the market they're appealing to, they should explain to you why they won't use it.
+- Outlines what [marketing](marketing.md) will work and how If you bring up something for the market they're appealing to, they should explain to you why they won't use it.
 - Will honestly tell you what you need to hear.
 - Will work harder when issues arise.
 - Ask for references, since they should have a long history of satisfied customers.
@@ -344,7 +344,7 @@ A great realtor has *very* specific qualities:
 Observe their communication skills:
 
 - Promptly returns phone calls, ideally within a day.
-- Expresses their point [politely](https://adequate.life/people-3/) and [quickly](https://adequate.life/speaking/).
+- Expresses their point [politely](people-3_boundaries.md) and [quickly](language-speaking.md).
 - Patiently explains their methods and the industry's processes.
 - Firmly grasps information about the industry.
 
@@ -364,7 +364,7 @@ Unless you're a professional specializing in house values, do *not* try to figur
 
 - Emotional Equity: the difference between what a house's owner feels their house is worth and its actual worth.
 - Don't include your sentiments or add your new home's costs into your house value.
-- Depending on your situation, you might also have to settle for a lower price during [negotiation](https://adequate.life/conflicts/).
+- Depending on your situation, you might also have to settle for a lower price during [negotiation](people-5_conflicts.md).
 
 Don't try to "test" the market by setting the price above market value:
 
@@ -383,12 +383,12 @@ Before committing to sell, analyze how much you'll profit:
 
 1. Take the market value from the CMA and subtract the balance left on your mortgage.
 2. Take closing costs off that amount, which are usually 6-10% of your house's value.
-3. Subtract the approximate cost of [moving](https://adequate.life/moving/) and storage fees.
+3. Subtract the approximate cost of [moving](home-moving.md) and storage fees.
 
-Ideally, [budget](https://adequate.life/money-3/) your cash flow to address expenses *before* they come:
+Ideally, [budget](money-3_budget.md) your cash flow to address expenses *before* they come:
 
 - Repair and improvement costs
-- [Moving](https://adequate.life/moving/) costs
+- [Moving](home-moving.md) costs
 - Potential closing costs
 - New home costs
 
@@ -396,18 +396,18 @@ Ideally, [budget](https://adequate.life/money-3/) your cash flow to address expe
 
 For several months, you'll be slightly inconvenienced in your own home.
 
-You *will* become [less happy](https://adequate.life/happiness-1/), so remember *why* you're selling.
+You *will* become [less happy](happiness.md), so remember *why* you're selling.
 
-Avoid taking on more responsibilities like a [job change](https://adequate.life/jobs-1/) or [getting married](https://adequate.life/weddings/).
+Avoid taking on more responsibilities like a [job change](jobs-1_why.md) or [getting married](relationships-weddings.md).
 
 To avoid extra stress, try to arrange a home sale contingency if you already have a home:
 
-- A sale and settlement contingency means you haven't found a buyer yet and are [marketing](/marketing/) the home, which isn't that attractive to potential sellers because it has many potential snags.
-- A home settlement contingency is when your home is already [under contract](/contracts/), is in escrow, has a home inspection, and is moving toward a closing date, and sellers tend to like the arrangement pretty well.
+- A sale and settlement contingency means you haven't found a buyer yet and are [marketing](marketing.md) the home, which isn't that attractive to potential sellers because it has many potential snags.
+- A home settlement contingency is when your home is already [under contract](people-6_contracts.md), is in escrow, has a home inspection, and is moving toward a closing date, and sellers tend to like the arrangement pretty well.
 
 If you haven't found another house by the time you're considering selling, find a rental property with a short-term lease as a backup or in-between instead of backing out of the deal entirely.
 
-- You've already come this far, so [moving out](https://adequate.life/moving/) to a new place is an ideal way to embrace a new [chapter](https://gainedin.site/changes/) of your life.
+- You've already come this far, so [moving out](home-moving.md) to a new place is an ideal way to embrace a new [chapter](changes.md) of your life.
 
 ### D. >1 month before listing
 
@@ -509,7 +509,7 @@ If the house is vacant, make it look like someone lives there.
 
 ### F. 1 week before listing
 
-To make every room look as large and expansive as possible, [clean everything](https://adequate.life/housekeeping/) immaculately.
+To make every room look as large and expansive as possible, [clean everything](home-housekeeping.md) immaculately.
 
 - Scrub every surface to a shine.
 - Clear every window, door, surface, closet, and cabinet of debris or clutter.
@@ -545,8 +545,8 @@ Strike a balance between "for sale" and "inhabited":
 
 - Put things away as soon as you're finished with them.
 - Have a small to-do list for any prospective buyers stopping by.
-- Have your [pets](https://adequate.life/pets/) live somewhere else until escrow opens.
-- Keep your children out of trouble and [motivate them](https://adequate.life/parenting-2/) to help with everything.
+- Have your [pets](fun-pets.md) live somewhere else until escrow opens.
+- Keep your children out of trouble and [motivate them](parenting-2_children.md) to help with everything.
 
 Before the buyers come, bake something that smells pleasant or burn scented candles.
 
@@ -557,10 +557,10 @@ Each state has a different type of contract phase, so make sure your realtor kno
 A. the potential buyer will give an initial offer:
 
 - Give preference to a buyer pre-approved for a mortgage, since the deal may fall through without it.
-- Until you make a deal, the numbers don't matter, so be prepared for hard-hitting [negotiations](https://adequate.life/conflicts/) over the house's value.
-- Every potential buyer will want to [save money](https://adequate.life/money-4/), so they *will* bring up problems with the house you'll need to explain.
+- Until you make a deal, the numbers don't matter, so be prepared for hard-hitting [negotiations](people-5_conflicts.md) over the house's value.
+- Every potential buyer will want to [save money](money-4_spending.md), so they *will* bring up problems with the house you'll need to explain.
 - Offering a home warranty will not typically close the sale, but consider it if the buyer wants it.
-- Stay fully aware of the details of *any* [papers you sign](/contracts/), especially:
+- Stay fully aware of the details of *any* [papers you sign](people-6_contracts.md), especially:
   - Purchase price
   - Closing or escrow date
   - Special allowances for personal property, home improvements, and closing costs
@@ -577,7 +577,7 @@ B. after the initial interest and agreed-upon deal, the potential buyer will hav
 - Sometimes, depending on the buyer's loan, the appraiser may require certain repairs done.
 - Have your realtor negotiate with the buyer to see if you can meet the buyer in the middle.
 - If the buyer expects you to fix it, it's usually better to hire a contractor your realtor knows instead of risking the buyer demand a re-repair.
-- If a title search uncovers an open lien on the property, you must either pay for it or use your title [insurance](/insurance/).
+- If a title search uncovers an open lien on the property, you must either pay for it or use your title [insurance](insurance.md).
 
 C. the potential buyer will make an appraisal:
 
@@ -613,27 +613,27 @@ On closing day, bring a photo ID and the house keys.
 
 Keep your end of the agreement and leave on a positive note with the buyer.
 
-Walk yourself through it with a [moving checklist](https://adequate.life/moving/).
+Walk yourself through it with a [moving checklist](home-moving.md).
 
 ## Pay down your mortgage as soon as possible
 
-Technically, a mortgage can allow the bank to repossess the property if you *ever* stop [paying it](https://adequate.life/money-2/).
+Technically, a mortgage can allow the bank to repossess the property if you *ever* stop [paying it](money-2_debt.md).
 
 Work as fast as possible to pay the mortgage down to 80% of the home's value, which involves doing several things at once:
 
 1. Make a [routine](https://adequate.life/habits/) of as much over-payment as you can manage.
-2. Add [renovations and improvements](https://adequate.life/decorations-renovations/) that will add *more* value to the house than paying down the loan dollar-for-dollar.
+2. Add [renovations and improvements](home-decorations.md) that will add *more* value to the house than paying down the loan dollar-for-dollar.
 3. When the housing market next peaks, have an appraiser value the home again and refinance.
 
 ## Maintaining
 
-Upkeep of a house simply involves making steady, consistent [decorations and renovations](https://adequate.life/decorations-renovations/), along with repairs.
+Upkeep of a house simply involves making steady, consistent [decorations and renovations](home-decorations.md), along with repairs.
 
 - Prioritize survival-based and structural needs (e.g., roof, plumbing) over conveniences (e.g., internet) or luxury/cosmetic (e.g., carpet, smart doorbell).
 - If it's a nice house, your work is relatively easy, but homes in disrepair will need *many* projects until you can feel comfortable.
-- Make sure to [set reasonable goals](https://adequate.life/success-3/) and pace it according to your [budget](https://adequate.life/money-3/) and [time](https://adequate.life/success-4/).
+- Make sure to [set reasonable goals](success-3_goals.md) and pace it according to your [budget](money-3_budget.md) and [time](success-4_routine.md).
 
-Try to [address](/fix/) small problems *before* they become large ones.
+Try to [address](fix.md) small problems *before* they become large ones.
 
 - Most of the problems will revolve around water, in the bathroom and the kitchen.
 - Sewage plumbing blockage is comparatively easier to fix when you have *some* running water through it (e.g., using a drain cleaner).
@@ -641,15 +641,15 @@ Try to [address](/fix/) small problems *before* they become large ones.
 - Electrical shorts are less miserable to fix than blackouts.
 - Fix most leaks as soon as you know of them, which typically comes from old roofing or an insufficient drainage system.
 
-The maintenance of your home will add to the [quality of your life](https://gainedin.site/good-life/), provide [meaning](https://gainedin.site/meaning/), and can be a significant [investment return](/investing/) when you choose to sell it.
+The maintenance of your home will add to the [quality of your life](goodlife.md), provide [meaning](meaning.md), and can be a significant [investment return](money-investing.md) when you choose to sell it.
 
 - Carpentry requires a steady hand, but is typically *much* more affordable and customizable than paying for work if you become skilled at it, especially furniture and finish carpentry.
 - Masonry and stonework is simple enough to do, if you have the strength for it.
-- [Pet](https://adequate.life/pets/) projects often give extra opportunities to have fun with your pet.
-- Custom shelves and built-in organization can *dramatically* help with [organization](https://adequate.life/organization/).
-- Greenhouses can help with [gardening](/plants/).
-- Projects that improve life for [children](https://adequate.life/parenting-2/) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
-- Building a workshop can make *all* the above, as well as [fixing](/fix/), much easier.
+- [Pet](fun-pets.md) projects often give extra opportunities to have fun with your pet.
+- Custom shelves and built-in organization can *dramatically* help with [organization](organization.md).
+- Greenhouses can help with [gardening](horticulture.md).
+- Projects that improve life for [children](parenting-2_children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
+- Building a workshop can make *all* the above, as well as [fixing](fix.md), much easier.
 
 * * * * *
 

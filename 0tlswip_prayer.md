@@ -1,7 +1,7 @@
 
 We must [sincerely](understanding-certainty.md) and wholly pray to God, never mindlessly ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
-For most people, prayer is our most neglected spiritual discipline, and requires us to [recondition](https://gainedin.site/habits/) every time we are [afraid](https://gainedin.site/fear/) or [upset](mind-feelings.md).
+For most people, prayer is our most neglected spiritual discipline, and requires us to [recondition](habits.md) every time we are [afraid](mind-feelings-fear.md) or [upset](mind-feelings.md).
 
 - Most Christians' issues come from not spending enough time with God.
 - People who pray intentionally several times a day *never* become spiritually complacent.
@@ -24,21 +24,21 @@ Even *extremely* busy people have room for prayer:
 - Time in the bathroom
 - Commuting to and from work
 - During routine or mindless work
-- Quiet, non-thought times during [personal hobbies](https://adequate.life/fun) and [exercise](https://adequate.life/weight/)
+- Quiet, non-thought times during [personal hobbies](fun.md) and [exercise](body-3_exercise.md)
 
 ## Things worth discussing with Him
 
 Upcoming opportunities and risks:
 
 - Ask for His blessing for the upcoming day.
-- What appears to be the [best option](https://gainedin.site/decisions/) might be a bad idea, so pray for God to accomplish [His will](/gods-will/).
+- What appears to be the [best option](decisions.md) might be a bad idea, so pray for God to accomplish [His will](god-will.md).
 - Ask for wisdom for decisions and success in them.
 - Ask for strength to endure any upcoming challenges, and that it comes through love.
 
 Feelings, desires, and thoughts:
 
-- Give each [concern](https://gainedin.site/purpose/) to Him, one by one.
-- Ask for Him to remove all your [anxiety](https://gainedin.site/fear/) and give you faith, hope, and love.
+- Give each [concern](purpose.md) to Him, one by one.
+- Ask for Him to remove all your [anxiety](mind-feelings-fear.md) and give you faith, hope, and love.
 - Ask and submit every problem to His will.
 - Pray for peace from the Holy Spirit.
 - Pray for a more Christ-like heart and a stronger passion for people He wants you to love.
@@ -59,7 +59,7 @@ Churches and groups you associate with:
 - Ask for unity and diversity in the Church.
 - Pray for leaders' strength to maintain their calling.
 - Pray for effective, Christ-minded leaders to step forward in your group.
-- Pray for the group to adopt a [discipleship culture](/discipleship/), especially with younger members.
+- Pray for the group to adopt a [discipleship culture](spiritual-discipleship.md), especially with younger members.
 - Pray for more frequent, meaningful relationships that remove anonymity.
 
 The Church at large:
@@ -84,7 +84,7 @@ We must also have good motives for our prayers.
 
 If you have the right attitude and want what He desires, God will *always* answer your prayers ([Mark 11:24](https://biblehub.com/mark/11-24.htm)).
 
-- God loves heartfelt devotion, so He answers specific prayers for [good](https://gainedin.site/morality/) things much more frequently than vague ones.
+- God loves heartfelt devotion, so He answers specific prayers for [good](morality.md) things much more frequently than vague ones.
 - God doesn't usually give what we don't ask for, so ask persistently and intentionally ([Luke 18:1-8](https://biblehub.com/bsb/luke/18.htm)).
 
 Jesus gives Christians the best way to pray while maintaining a healthy perspective ([Matthew 6:9-13](https://biblehub.com/bsb/matthew/6.htm)):
@@ -92,20 +92,20 @@ Jesus gives Christians the best way to pray while maintaining a healthy perspect
 1. Use one of God's names and remember He's your heavenly father.
 2. Ask for His will to be done on earth in the same way He has it in heaven.
 3. Ask Him to provide today's physical needs.
-4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](https://adequate.life/happiness-2/) against you.
-5. Ask for [protection and safety](https://gainedin.site/safety/) from [evil](https://gainedin.site/evil/) and destruction.
-6. Thank him and acknowledge His complete [power and authority](https://gainedin.site/power/).
+4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](happiness-stress.md) against you.
+5. Ask for [protection and safety](safety.md) from [evil](morality-evil.md) and destruction.
+6. Thank him and acknowledge His complete [power and authority](power.md).
 
 ## Routines worth considering
 
-There's some [controversy](/conflicts/) over Jesus' admonition against repetition ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
+There's some [controversy](conflicts-christian.md) over Jesus' admonition against repetition ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
 - Your actual *conversation* with God is where you'll experience any spirituality, with the rest of it taking up more time.
-- However, everyone has a different [personality](https://gainedin.site/personality/), so you may need more [ritual](https://gainedin.site/habits/) if you're lower on the Openness spectrum.
+- However, everyone has a different [personality](personality.md), so you may need more [ritual](habits.md) if you're lower on the Openness spectrum.
 
 Place yourself in a familiar position such as kneeling or laying face-down.
 
-Add nonverbal mantra-less [meditation](https://adequate.life/awareness/) to your prayer (i.e., contemplative prayer).
+Add nonverbal mantra-less [meditation](awareness.md) to your prayer (i.e., contemplative prayer).
 
 - The extra time can help you to calm yourself to stay more focused on Him.
 

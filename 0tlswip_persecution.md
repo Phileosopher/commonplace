@@ -20,7 +20,7 @@ Every one of Jesus' original followers were heavily persecuted, typically to dea
 Christianity is the only faith that treats persecution an inherently positive experience:
 
 - Mature Christians consider persecution honorable ([Matthew 5:10-12](https://biblehub.com/bsb/matthew/5.htm), [1 Corinthians 4:12](https://biblehub.com/1_corinthians/4-12.htm), [James 1:2](https://biblehub.com/james/1-2.htm)).
-- Some Christians *do* [fear](https://gainedin.site/fear/) persecution, but mostly from inexperience.
+- Some Christians *do* [fear](mind-feelings-fear.md) persecution, but mostly from inexperience.
 
 Legitimate persecution isn't merely martyrdom complex:
 
@@ -34,9 +34,9 @@ Jesus practically *promises* suffering and persecution:
 
 ## Persecution is power games
 
-Everyone who hates God will hate God's people [by association](https://gainedin.site/symbols/).
+Everyone who hates God will hate God's people [by association](symbols.md).
 
-The world's authorities abuse [power](https://gainedin.site/power/) to prove they're more powerful than God, and [feel](mind-feelings.md) they will have subdued or killed Him if they can capture, [coerce](https://gainedin.site/influence/), or kill *all* Christians.
+The world's authorities abuse [power](power.md) to prove they're more powerful than God, and [feel](mind-feelings.md) they will have subdued or killed Him if they can capture, [coerce](power-influence.md), or kill *all* Christians.
 
 The politician Saul Alinsky describes the Satan's playbook well:
 
@@ -76,69 +76,69 @@ The politician Saul Alinsky describes the Satan's playbook well:
 The psychologist Philip Zimbardo charted *exactly* how people become evil:
 
 1. People start by mindlessly taking a first small step, usually because an authority figure told them to.
-2. If they have any attacks of [conscience](/people/), they justify their actions by dehumanizing their victims.
-3. By doing someone else's [will](https://gainedin.site/purpose/), they feel anonymous and, thus, [morally](https://gainedin.site/morality/) exempt from their actions.
-4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](https://gainedin.site/meaning/) for their behaviors.
-5. The culture's [power structure](https://gainedin.site/power/) will mandate blind obedience to authority figures.
-6. Eventually, everyone will adapt to the group's [rules](https://gainedin.site/rules/) without asking questions.
-7. Finally, everyone will passively tolerate [evil](https://gainedin.site/evil/) through inaction or indifference.
+2. If they have any attacks of [conscience](humanity-christian.md), they justify their actions by dehumanizing their victims.
+3. By doing someone else's [will](purpose.md), they feel anonymous and, thus, [morally](morality.md) exempt from their actions.
+4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](meaning.md) for their behaviors.
+5. The culture's [power structure](power.md) will mandate blind obedience to authority figures.
+6. Eventually, everyone will adapt to the group's [rules](rules.md) without asking questions.
+7. Finally, everyone will passively tolerate [evil](morality-evil.md) through inaction or indifference.
 
 Even in tyrannical societies, *most* of the people are simply watching:
 
-- They typically haven't decided *what* they believe about [God's people](/identity/) or the God of the [Bible](/bible/).
-- By showing [God's authority and love](/god/), you're demonstrating the hope of [a superior government](/millennium/) to any other one in recorded history.
+- They typically haven't decided *what* they believe about [God's people](identity.md) or the God of the [Bible](bible.md).
+- By showing [God's authority and love](god.md), you're demonstrating the hope of [a superior government](https://theologos.site/millennium/) to any other one in recorded history.
 
 ## Persecution comes as a cycle
 
-Christianity and society have a unique [trend](https://gainedin.site/trends/) across centuries that always plays out the same way.
+Christianity and society have a unique [trend](trends.md) across centuries that always plays out the same way.
 
 First, every society is relatively open to missionaries and new Christians:
 
-- Except for some opponents, the public will coexist peacefully with Christians if they keep to themselves and limit how much they [share the Gospel](/evangelism/).
-- While some groups (e.g., witch doctors, idol crafters) will protest, Christians will still have their normal [civil liberties](https://gainedin.site/boundaries/) available to them.
+- Except for some opponents, the public will coexist peacefully with Christians if they keep to themselves and limit how much they [share the Gospel](evangelism.md).
+- While some groups (e.g., witch doctors, idol crafters) will protest, Christians will still have their normal [civil liberties](people-boundaries.md) available to them.
 
 Eventually, the Satan will inspire people to reject Christians:
 
-- That society will reject [Jesus' message](/gospel/), not the Christians themselves, but they'll usually [imply](https://gainedin.site/image-distortion/) the Christians deserved it.
-- It'll be publicly shameful (maybe even [taboo](https://gainedin.site/taboo/)) to profess a faith in Jesus.
-- Since the Satan is constantly [rearranging his strategy](/demon-tricks/), this will *never* show predictably, and the culture defines how it'll express itself.
+- That society will reject [Jesus' message](jesus-gospel.md), not the Christians themselves, but they'll usually [imply](image-distortion.md) the Christians deserved it.
+- It'll be publicly shameful (maybe even [taboo](morality-taboo.md)) to profess a faith in Jesus.
+- Since the Satan is constantly [rearranging his strategy](spiritual-warfare-tricks.md), this will *never* show predictably, and the culture defines how it'll express itself.
 
 From there, Christians will start incurring public shame:
 
-- They'll start losing their [status and reputation](https://gainedin.site/image/) in their [communities](https://gainedin.site/groups-small/).
-- [Large organizations](https://gainedin.site/groups-large/) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
-- Unless they renounce their faith, their biological [family](https://gainedin.site/family/) and long-standing [friends](https://gainedin.site/friendship/) will slowly alienate them.
-- Officials will forbid or restrict certain Christian practices like [public evangelism](/evangelism/), [expressing faith](https://gainedin.site/) or simply [praying](/prayer/) perceptibly.
-- The government strategies to deter Christianity can include exploiting ambitious [church leaders](/leadership/), tempting pastors with [money](https://adequate.life/money-1/), using pastors' sins to [blackmail](https://gainedin.site/power-types/) them, and making [laws](https://gainedin.site/rule-methods/) that inhibit Christians to freely assemble.
+- They'll start losing their [status and reputation](image.md) in their [communities](groups-small.md).
+- [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
+- Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-4_friends.md) will slowly alienate them.
+- Officials will forbid or restrict certain Christian practices like [public evangelism](evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
+- The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.
 - Even if the government doesn't get involved, it'll often require churches to register their gatherings and report to them.
 
 Soon, Christianity becomes illegal to practice in public:
 
 - Churches will often lose their government authorization unless they comply with anti-Christian values.
-- [Evangelism](/evangelism/) and public worship will become [illegal](https://gainedin.site/rules/).
+- [Evangelism](evangelism.md) and public worship will become [illegal](rules.md).
 - Officials will detain and possibly beat Christians after warning them.
 - This can happen *very* rapidly, sometimes in the course of one day!
 
 Depending on the leadership's decisions, merely *existing* as a Christian becomes illegal:
 
-- The types of persecution will vary on a dictator's [disposition](https://gainedin.site/personality/) and how much he hates God.
+- The types of persecution will vary on a dictator's [disposition](personality.md) and how much he hates God.
 - Christians will often have to endure incessant and oppressive government regulations.
 - At its most extreme, Christians are incarcerated and tortured.
 - Occasionally, particularly cruel nations will force them to perform in blood sport.
-- [Leftist](https://gainedin.site/leftism/) countries often mandate "rehabilitation programs" or sending them to "re-education centers".
+- [Leftist](leftism.md) countries often mandate "rehabilitation programs" or sending them to "re-education centers".
 - At the worst, Christians may live under a persistent threat of mass genocide.
 
 The most evil and cruel leaders never last more than a few years, but nothing promises the persecution will stop:
 
-- The [power](https://gainedin.site/power-types/) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](https://notageni.us/legal-doctrines/).
-- Most of the time, the [trends](https://gainedin.site/trends/) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
-- Occasionally, the trends will *rapidly* pivot, especially during a [regime](https://gainedin.site/groups-large/) change.
+- The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](legal-doctrines.md).
+- Most of the time, the [trends](trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
+- Occasionally, the trends will *rapidly* pivot, especially during a [regime](groups-large.md) change.
 - Often, in [high-information](understanding.md) societies, the trends will pivot very rapidly across months or weeks.
 
 Despite the hardship, the Church will persist:
 
-- Historically, the Church has *thrived* while standing against [evil](https://gainedin.site/evil/) authorities who kill and destroy.
-- The [Holy Spirit](/god/) has a wide variety of [creative](https://gainedin.site/creativity/) measures, including miracles and "strange coincidences" that work in believers' favor.
+- Historically, the Church has *thrived* while standing against [evil](morality-evil.md) authorities who kill and destroy.
+- The [Holy Spirit](god.md) has a wide variety of [creative](mind-creativity.md) measures, including miracles and "strange coincidences" that work in believers' favor.
 
 ## Preparing beforehand
 
@@ -147,25 +147,25 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 *Before* we encounter suffering, we must devote ourselves wholly to our spiritual journey:
 
 - Our relationship with God should be *irrespective* of this world, not as a reaction to it.
-- It's the same [disciplines](/exercises/) of [prayer](/prayer/) and [Bible study](/bible-study/) as Christianity in the free world but has a *much* deeper significance, and with a more scattered [church experience](/church/).
-- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](/leadership/) or the people who [betray the faith](/conflicts/).
+- It's the same [disciplines](spiritual-exercises.md) of [prayer](spiritual-exercises-prayer.md) and [Bible study](bible-study.md) as Christianity in the free world but has a *much* deeper significance, and with a more scattered [church experience](church.md).
+- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](conflicts-christian.md).
 
 "Liberal" Christianity can never survive persecution:
 
-- If the [Bible](/bible/) has faults, there's no substance to disprove the assertions of the world.
-- Without the God of the Bible, [God](/god/) is dead.
-- If the story of Adam and Eve and our [fallen state](/sins/) isn't strictly true, [the Gospel](/gospel/) and Jesus aren't necessary.
+- If the [Bible](bible.md) has faults, there's no substance to disprove the assertions of the world.
+- Without the God of the Bible, [God](god.md) is dead.
+- If the story of Adam and Eve and our [fallen state](morality-sins.md) isn't strictly true, [the Gospel](jesus-gospel.md) and Jesus aren't necessary.
 - If there's no reason we have to believe core Christian doctrinal ideas (e.g., Jesus was born from a virgin) then God isn't necessarily capable of causing dramatic miracles.
-- And, without the Bible, God's plans for Israel aren't clear, and there's nothing for Christians to [hope for](/jesus-returns/).
+- And, without the Bible, God's plans for Israel aren't clear, and there's nothing for Christians to [hope for](jesus-returns.md).
 
 Irrespective of persecution, we must discover God for ourselves:
 
-1. The [culture](https://gainedin.site/culture/) of Christianity moves forward by powerful [language](https://gainedin.site/language/) that speaks [influential](https://gainedin.site/influence/) truth.
-2. A good sermon is a powerful [story](https://gainedin.site/stories/) that alludes to good theology.
-3. Good theology is a strong [philosophy](https://gainedin.site/philosophy/) that anchors to the Bible.
-4. The [Bible](/bible/) is God's Word, which is the [creative](https://gainedin.site/creativity/) output of the living God.
+1. The [culture](culture.md) of Christianity moves forward by powerful [language](language.md) that speaks [influential](power-influence.md) truth.
+2. A good sermon is a powerful [story](stories.md) that alludes to good theology.
+3. Good theology is a strong [philosophy](philosophy.md) that anchors to the Bible.
+4. The [Bible](bible.md) is God's Word, which is the [creative](mind-creativity.md) output of the living God.
 
-- Simply repeating a [Bible verse](/bible/) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](understanding.md) what it means.
+- Simply repeating a [Bible verse](bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](understanding.md) what it means.
 - We must sort out our individual salvations, fearfully and shaking, *before* we encounter outward persecution ([Philippians 2:14](https://biblehub.com/philippians/2-12.htm)).
 
 ## The authorities aren't as powerful as they seem
@@ -183,23 +183,23 @@ Persecution is practically measurable on a chart, and falls into the same predic
 
 1. Public shaming and ridicule
 2. Verbal assault and screaming
-3. Violence and [taking away rights](https://gainedin.site/boundaries/)
+3. Violence and [taking away rights](people-boundaries.md)
 
 Beyond intentionally targeting Christians, persecution tends to happen through several major vectors:
 
 1. Border "guards" will inspect possessions and demand you unlock your phone. They'll spend 1-3 minutes visually reviewing what's in your phone, and will often look for something to demand financial compensation over.
-2. Monitoring internet traffic by looking for keywords (e.g., "bible", "Jesus"), which can expand vastly into synonyms or aided by [artificial intelligence](https://trendless.tech/ai/).
+2. Monitoring internet traffic by looking for keywords (e.g., "bible", "Jesus"), which can expand vastly into synonyms or aided by [artificial intelligence](computers-ai.md).
 3. If they find a high-profile person who disagrees with them or their methods, using a search warrant about something (which may have *nothing* to do with the subject in question) to very thoroughly investigate them and all their connections, and possibly sentence them to prison/death even without finding anything.
 
 Even the devil makes mistakes:
 
-- While he [tries to look invincible](/demon-tricks/), he often makes the mistake of helping or even *creating* Christians.
-- He'll frequently [show his hand](/spiritual-warfare/) out of pure anger, and often shows more truth in that anger than *anyone* can suppress.
+- While he [tries to look invincible](spiritual-warfare-tricks.md), he often makes the mistake of helping or even *creating* Christians.
+- He'll frequently [show his hand](spiritual-warfare.md) out of pure anger, and often shows more truth in that anger than *anyone* can suppress.
 
 Through all the hardship, the Holy Spirit will *still* shine through:
 
-- Christians will lose [families](https://gainedin.site/family/), [friends](https://gainedin.site/friendship/), [reputations](https://gainedin.site/image/), and [opportunities](https://gainedin.site/power/), and they'll *still* be joyful.
-- While the free world has a difficult time [imagining](https://gainedin.site/imagination/) this, the persecuted Church treats this as normal.
+- Christians will lose [families](people-family.md), [friends](people-4_friends.md), [reputations](image.md), and [opportunities](power.md), and they'll *still* be joyful.
+- While the free world has a difficult time [imagining](imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
 ## How to prepare
@@ -212,7 +212,7 @@ When the Church goes underground, everyone who wishes to keep their faith will h
 Respond to the world's attacks with Christ-like behavior:
 
 1. Stand in the authority of the one living God.
-   - He appoints all [power](https://gainedin.site/power-types/), including money and people.
+   - He appoints all [power](power-types.md), including money and people.
    - To build power without honoring God is vanity ([Ecclesiastes 1:14](https://biblehub.com/ecclesiastes/1-14.htm)).
 2. Don't claim anything beyond God's word.
    - Only stand confident in what you know.
@@ -220,42 +220,42 @@ Respond to the world's attacks with Christ-like behavior:
    - You don't have to know everything because God knows.
    - Your peace in Him is your ministry to others.
 4. Openly confess your sin when anyone calls you on it.
-   - Own what you've done and vow to never consciously [sin](/sins/) again.
+   - Own what you've done and vow to never consciously [sin](morality-sins.md) again.
 5. Patiently endure criticism and shame.
    - Jesus chose to stay silent in an all-night kangaroo court ([Matthew 26:57-68](https://biblehub.com/bsb/matthew/26.htm)).
-   - God will judge everyone rightly on [Judgment Day](/jesus-returns/) ([Revelation 20:11-15](https://biblehub.com/bsb/revelation/20.htm)).
+   - God will judge everyone rightly on [Judgment Day](jesus-returns.md) ([Revelation 20:11-15](https://biblehub.com/bsb/revelation/20.htm)).
 6. Don't concern yourself with evil.
    - Nothing is new under the sun ([Ecclesiastes 1:9](https://biblehub.com/ecclesiastes/1-9.htm)).
    - We will see the same evil as Noah's time saw ([Luke 17:26-27](https://biblehub.com/bsb/luke/17.htm)).
-   - It's new for us, but [not to God](/god-sight/).
+   - It's new for us, but [not to God](https://theologos.site/god-sight/).
 7. Regardless of what happens, trust the Lord and let the Church aid you when it can.
    - God is *always* in control, even when you feel it's hopeless ([Matthew 28:20](https://biblehub.com/matthew/28-20.htm)).
-8. Even if the world [looks](https://gainedin.site/image/) [terrifying](https://gainedin.site/fear/), it's not as scary as they imply.
+8. Even if the world [looks](image.md) [terrifying](mind-feelings-fear.md), it's not as scary as they imply.
    - They can only destroy your body ([Matthew 10:28](https://biblehub.com/matthew/10-28.htm)).
    - God has the power to build and destroy *everything* as He wishes, so you should pity them more than fear them.
-9. Expect the Satan to [work tirelessly](/demon-tricks/) to destabilize you.
-   - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](https://adequate.life/conflicts/) the world's representatives.
+9. Expect the Satan to [work tirelessly](spiritual-warfare-tricks.md) to destabilize you.
+   - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](people-5_conflicts.md) the world's representatives.
 10. You're a representative of Christ, so act like it.
     - Worldly people often [know](understanding.md) that antagonizing you will provoke you to violence, which they can then justify action against.
     - Endure the suffering to show your new nature.
 11. Ignore the world's strategies against you.
-    - Be prepared to confront [sin](/sins/) when the time comes.
+    - Be prepared to confront [sin](morality-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
-    - Your job is to continue your [relationship with God](/exercises/) and find [joy](https://adequate.life/happiness-1/) in [His coming Kingdom](/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
-12. Anticipate that the world will hate, [misrepresent](https://gainedin.site/image/), [misunderstand](understanding.md), misquote, and alienate you.
+    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
+12. Anticipate that the world will hate, [misrepresent](image.md), [misunderstand](understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
-    - You can't [change their minds](https://gainedin.site/changes/) any more than they want.
+    - You can't [change their minds](changes.md) any more than they want.
 
-The *specifics* on how believers can stand against authority depends heavily on [personality](https://gainedin.site/personality/) and skill, but falls under a few general themes.
+The *specifics* on how believers can stand against authority depends heavily on [personality](personality.md) and skill, but falls under a few general themes.
 
 Learn how to speak carefully to keep secrets:
 
-- People who ask probing questions [have no right](https://gainedin.site/boundaries/) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
-- On the other hand, avoid [confrontations](https://adequate.life/conflicts/), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](/identity/) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
-- Thus, try to [find a way](https://gainedin.site/creativity/) to speak truth that also [hides realities](https://gainedin.site/image-distortion/) which may [harm](https://gainedin.site/safety/) other believers.
+- People who ask probing questions [have no right](people-boundaries.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
+- On the other hand, avoid [confrontations](people-5_conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
+- Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
-  - State [the law](https://gainedin.site/rules/) when they ask your [purpose](https://gainedin.site/purpose/).
+  - State [the law](rules.md) when they ask your [purpose](purpose.md).
   - Give away as much information as possible that has nothing to do with the people you're protecting (e.g., less-relevant but highly private information like medication usage or sex life).
   - Use obscure or intellectual-sounding words to hide clearly illegal things.
   - Use pseudonyms and alternate names frequently for proper nouns (which is precisely why the Bible's disciples had several names).
@@ -263,8 +263,8 @@ Learn how to speak carefully to keep secrets:
 
 Learn to stay silent:
 
-- Silence has tremendous value because it's very difficult to [legally convict](https://gainedin.site/rules/) someone on silence alone ([Proverbs 29:11](https://biblehub.com/proverbs/29-11.htm)).
-- Every stray [word](https://gainedin.site/language/) could devastate an underground church, so work *very* hard to hold your tongue ([James 3:6](https://biblehub.com/james/3-6.htm)).
+- Silence has tremendous value because it's very difficult to [legally convict](rules.md) someone on silence alone ([Proverbs 29:11](https://biblehub.com/proverbs/29-11.htm)).
+- Every stray [word](language.md) could devastate an underground church, so work *very* hard to hold your tongue ([James 3:6](https://biblehub.com/james/3-6.htm)).
 - Most people are accustomed to frequently talking, so we must [train ourselves](https://adequate.life/habits/) to it *before* we encounter it.
 - Ministering to other Christians comes through silence *far* more than speaking.
 
@@ -277,15 +277,15 @@ Morse code can be absolutely crucial for communication with others.
 Stay in constant connection with other believers as much as you can:
 
 - Even if it's a severe risk, your connection with the rest of the Body is critical to keep going ([Hebrews 10:25](https://biblehub.com/hebrews/10-25.htm)).
-- Even when we want to isolate ourselves, [the devil wants that as well](/spiritual-warfare/).
+- Even when we want to isolate ourselves, [the devil wants that as well](spiritual-warfare.md).
 
 ## Handling the worst
 
 Prison, of any sort, is a new ministry opportunity:
 
-- Your fellow cellmates are literally a "captive" audience to the [Gospel](/gospel/) message.
-- Solitary confinement can become a blessing in [spiritual meditation](https://adequate.life/awareness/) and [prayer](/prayer/) if you use the time correctly.
-- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](https://gainedin.site/imagination/) any farther out than that.
+- Your fellow cellmates are literally a "captive" audience to the [Gospel](jesus-gospel.md) message.
+- Solitary confinement can become a blessing in [spiritual meditation](awareness.md) and [prayer](spiritual-exercises-prayer.md) if you use the time correctly.
+- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](imagination.md) any farther out than that.
 
 Be prepared for torture:
 
@@ -294,37 +294,37 @@ Be prepared for torture:
 
 The most significant battle in prison is within your mind:
 
-- Winning against persecution requires keeping yourself together despite the [fears](https://gainedin.site/fear/) and [unknown possibilities](https://gainedin.site/unknown/).
+- Winning against persecution requires keeping yourself together despite the [fears](mind-feelings-fear.md) and [unknown possibilities](unknown.md).
 - The *fear* of things is always worse than the thing itself.
-- You can maintain your strength through your [love](https://gainedin.site/love/) for others and ability to handle pain, but only through the Holy Spirit ([Zechariah 4:6](https://biblehub.com/zechariah/4-6.htm)).
-- The only way to resist [brainwashing](https://gainedin.site/influence/) and [indoctrination](https://gainedin.site/cults/) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
-- Many prisons are run by [image distortion](https://gainedin.site/image-distortion/) experts who fully control the prisoners' environment.
+- You can maintain your strength through your [love](people-love.md) for others and ability to handle pain, but only through the Holy Spirit ([Zechariah 4:6](https://biblehub.com/zechariah/4-6.htm)).
+- The only way to resist [brainwashing](power-influence.md) and [indoctrination](cults.md) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
+- Many prisons are run by [image distortion](image-distortion.md) experts who fully control the prisoners' environment.
 
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:
 
-- At specific thresholds, we lose our capacity to detect [our reputations](https://gainedin.site/image/), then other people in general, then finally even [the presence of God](/god/).
-- At those times, we must [focus on](https://adequate.life/awareness/) the present moment and God within it to find peace in the pain.
+- At specific thresholds, we lose our capacity to detect [our reputations](image.md), then other people in general, then finally even [the presence of God](god.md).
+- At those times, we must [focus on](awareness.md) the present moment and God within it to find peace in the pain.
 - The most important thing to focus on is steady breathing.
 - All the sacrifice must be a matter of love and duty to the Church, *not* just survival.
 
 We must perform vigils to fight solitude and loneliness:
 
-- Vigils are devoted [routines](https://gainedin.site/habits/) of steady [prayer](/prayer/), which can often take *more* time than we have throughout the day!
+- Vigils are devoted [routines](habits.md) of steady [prayer](spiritual-exercises-prayer.md), which can often take *more* time than we have throughout the day!
 - Mentally travel around the world, praying for people you know of and their groups.
 - Rejoice with those who rejoice by imagining the details of their happiness outside prison ([Romans 12:15](https://biblehub.com/romans/12-15.htm)).
-- Recite Bible verses from memory, which is where all that prior [Bible study](/bible-study/) paid off.
-- Create [stories](https://gainedin.site/stories/) and [jokes](https://gainedin.site/humor/) as you [imagine](https://gainedin.site/imagination/) everything.
+- Recite Bible verses from memory, which is where all that prior [Bible study](bible-study.md) paid off.
+- Create [stories](stories.md) and [jokes](humor.md) as you [imagine](imagination.md) everything.
 - While all this sounds like what crazy people do, staying mentally busy allows us to stay in a solitary situation indefinitely.
 
 Beware of the "moment of crisis":
 
 - Torturers work to attain a specific state of mind where a person has been completely broken down.
 - At that point, a Christian will feel that nothing really matters anymore.
-- In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](https://gainedin.site/leftism/), plead guilty, and anything else the torturer [wants](https://gainedin.site/purpose/).
+- In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](leftism.md), plead guilty, and anything else the torturer [wants](purpose.md).
 - At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/bsb/romans/8.htm)).
 - Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation ([1 Peter 1:4](https://biblehub.com/1_peter/1-4.htm)).
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!
-- Once that happens, the torturer will give up or kill us, since they now know they can't [change](https://gainedin.site/changes/) us anymore.
+- Once that happens, the torturer will give up or kill us, since they now know they can't [change](changes.md) us anymore.
 
 ## Persecution is standard
 
@@ -332,14 +332,14 @@ Persecution against Christianity has been "normal" for 2,000 years:
 
 - Christians have been shamed, beaten, flogged, imprisoned, exiled, and killed for their faith since Jesus gave His life.
   - Presently, the "10/40 Window" (between 10 and 40 degrees latitude in the eastern hemisphere) is the most frequent place in the world for persecution.
-- And, [for the end to come](/jesus-returns/), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/bsb/2_timothy/3.htm)).
+- And, [for the end to come](jesus-returns.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/bsb/2_timothy/3.htm)).
 - God uses persecution in a predictable cycle:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
   3. The survivors of the tragedy, in their faithfulness, continue on in society across generations while the evil regime falls apart.
 
-As a Christian, even if you suffer losses from standing against [evil](https://gainedin.site/evil/), He *will* repay all losses you experience in His name [when He returns](/jesus-returns/) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
+As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](jesus-returns.md) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
 
 ## Additional reading
 
-[Preparing for the Underground Church - Richard Wurmbrand](https://theologos.site/wp-content/uploads/2025/03/PreparingfortheUndergroundChurch.pdf)
+[Preparing for the Underground Church - Richard Wurmbrand](/wp-content/uploads/2025/03/PreparingfortheUndergroundChurch.pdf)

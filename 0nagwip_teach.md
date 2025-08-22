@@ -1,12 +1,12 @@
 The act of teaching is the art of conveying information to others so they [understand](understanding.md).
 
-While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](https://gainedin.site/pedagogy/) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
+While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](pedagogy.md) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
 
 A public speech is simply a broad-reaching discourse with a clearly defined time limit:
 
 - You're trying to convey 1 big philosophically driven point with up to 2-5 major points that create a relatable story that supports it.
 - People never get bored if they're at the center of the experience, so pay very close attention to them: who they are, what they believe, and what they want.
-- Since a speech will *never* compare to [writing](https://adequate.life/writing/) (which people can gloss over), limit your speech to only the most critical information.
+- Since a speech will *never* compare to [writing](language-writing.md) (which people can gloss over), limit your speech to only the most critical information.
   - If you *must* share more information, simplify it with a reference to your writing.
 - Estimate your word count when you write it out, since the average speaker uses 2-3 words a second, which means a 10-minute speech will need about 1,500 words (600 seconds x 2.5 words).
 - Your feelings will bleed into your speech, so your emotional state is as important as what you say.
@@ -15,13 +15,13 @@ A public speech is simply a broad-reaching discourse with a clearly defined time
 
 Speaking to a crowd is the most extreme form of communication, but crosses into many fields:
 
-- [Job interviews](https://adequate.life/jobs-5/)
-- Tense, difficult conversations and [negotiations](https://adequate.life/conflicts/)
-- [Product sales pitches](/marketing/)
-- [Convincing](https://gainedin.site/influence/) others of a cause you [believe in](understanding-certainty.md)
-- Most [management](https://notageni.us/mgmt/) roles require public speaking
+- [Job interviews](jobs-5_interview.md)
+- Tense, difficult conversations and [negotiations](people-5_conflicts.md)
+- [Product sales pitches](marketing.md)
+- [Convincing](power-influence.md) others of a cause you [believe in](understanding-certainty.md)
+- Most [management](mgmt-1_why.md) roles require public speaking
 
-While anyone can publicly speak with practice, more people are [afraid](https://gainedin.site/fear/) of it than dying:
+While anyone can publicly speak with practice, more people are [afraid](mind-feelings-fear.md) of it than dying:
 
 - Even when you completely screw up, people are paying more attention to your message than you.
 - Professional public speakers still have fear, but they learn to manage it.
@@ -34,10 +34,10 @@ Conveniently, audiences pay more attention to the message than the speaker:
 - People even feel like a story of the speaker's *life* is separate from that speaker standing in front of them.
 - Only speak with a purpose in mind:
   1. To inform - gives [understanding](understanding.md), an explanation, or knowledge
-  2. To [entertain](https://adequate.life/fun/) - bring amusement, enjoyment, and laughter
-  3. To [inspire](mind-feelings.md) - animate or exalt [the human spirit](https://gainedin.site/humanity/) or arouse [feelings](mind-feelings.md)
-  4. To [convince](https://gainedin.site/influence/) - trigger change, alter [beliefs](https://gainedin.site/certainty) or strengthen beliefs
-  5. To persuade - bring a belief through [argument and reason](https://gainedin.site/logic/)
+  2. To [entertain](fun.md) - bring amusement, enjoyment, and laughter
+  3. To [inspire](mind-feelings.md) - animate or exalt [the human spirit](humanity.md) or arouse [feelings](mind-feelings.md)
+  4. To [convince](power-influence.md) - trigger change, alter [beliefs](understanding-certainty.md) or strengthen beliefs
+  5. To persuade - bring a belief through [argument and reason](logic.md)
 - People only remember up to 3 points from a speech, so keep it brief.
 
 The ideal lecture location is a theater or any other place where everyone can see and hear you clearly.
@@ -151,7 +151,7 @@ B. Next, navigate the body of the speech:
   - Stop, look, listen - give specific instructions
   - ABC's - essentials of the thing, or elementary processes or principles
   - Keyword or name - make an acronym to clarify main points
-- Always add something personal in the middle that openly shares your failings and understates your [successes](/success-1/).
+- Always add something personal in the middle that openly shares your failings and understates your [successes](success-1_why.md).
   - Some people are terrified of losing their audience in the middle, but it's the best time to share open, heartfelt things.
 - You can get feedback and adjust accordingly in the middle by asking, "how many of you think I'm going too slow?", then the same for going too fast.
 - Unless you intentionally want it for dramatic effect, don't let silence persist in the middle because it focuses the conversation.
@@ -169,7 +169,7 @@ C. Each of your main points will emphasize a different angle of the story:
    - Analogies are quick comparisons between two things:
      1. Literal analogies are extended comparisons that point to something similar.
      2. Figurative analogies compare different things that either resemble each other in likeness or through a statement that compares them.
-   - [Analysis](https://gainedin.site/logic/) breaks a whole into its parts, usually by comparing/contrasting something else.
+   - [Analysis](logic.md) breaks a whole into its parts, usually by comparing/contrasting something else.
 3. Clarify by explicitly stating how a whole and its components are related, or simply "what it is"(explanation).
    1. Make a general statement of the whole of something.
    2. Tell how the parts fit the whole of it.
@@ -178,7 +178,7 @@ C. Each of your main points will emphasize a different angle of the story:
 4. Reinforce existing thoughts with restatement (saying things another way) or repetition (repeating the same words for emphasis).
 5. Prove something with persuasion.
    - Factual illustrations are detailed examples of a real thing that confirms a conclusive or likely truth.
-   - Statistics are any [numbers](https://gainedin.site/math/) that measure reality.
+   - Statistics are any [numbers](math.md) that measure reality.
      - You'll need specific stories from large-scale data to prove the point.
      - If you need a statistic, ask a simple question to 25, 50 or 100 people.
    - Only use a stated testimony or quotation from someone with authority on the subject.
@@ -258,7 +258,7 @@ Sensibly plan for your speech:
   - Save a PowerPoint presentation as a PowerPoint Show (.ppsx) to open it directly to the slideshow.
   - Prepare your speech for how much time you'll need and the way you say words.
   - Rehearse with someone else or record and play yourself back.
-  - Relax and do something [fun](https://adequate.life/fun/) that evening.
+  - Relax and do something [fun](fun.md) that evening.
 - The day of the speech:
   - 3 hours before, take a short walk to clear your mind.
   - Drink 90 minutes and 30 minutes before the speech, then go to the bathroom.
@@ -302,16 +302,16 @@ Leave them with something to take home:
 - Make sure one major idea connects to a mundane household object.
 - If it's already scheduled, tell them of a future event you're involved in.
 - Giving them something to *do* with the information is often the most difficult part of the discourse.
-  - You must help them [succeed](https://adequate.life/success-1/) *beyond* your influence or reputation, which requires humility.
+  - You must help them [succeed](success-1_why.md) *beyond* your influence or reputation, which requires humility.
 
 Your ability to adapt in a moment is crucial:
 
-- Your improvisational [creativity](https://adequate.life/creativity/) becomes critical in those times because *all* their attention is focused on you.
+- Your improvisational [creativity](mind-creativity-how.md) becomes critical in those times because *all* their attention is focused on you.
 - If the microphone fails, step into the audience for everyone to still hear you.
 - If the media fails, tell anecdotes to pass the time.
 - If someone is talking on their phone or having a side conversation, politely and directly telling them to be silent or go outside will earn the audience's respect.
   - Keep in mind that people on their laptop or phone might be live-messaging or taking notes, so they might not be ignoring you.
-- Being interesting with a valuable idea *will* send mixed messages, and some people will [oppose you](https://adequate.life/conflicts/).
+- Being interesting with a valuable idea *will* send mixed messages, and some people will [oppose you](people-5_conflicts.md).
   - Have a plan in place for people who try to derail the discussion, especially in a question-and-answer session.
 - Constantly ask yourself self-critical questions throughout the speech:
   - Do they know this fact or lesson already?
@@ -333,4 +333,4 @@ Try to get feedback afterward:
   - How likeable did you find the speaker?
   - How substantive did you find the speaker's material?
 - Contrary to intuition, you've given a great presentation when people want you to have spoken longer.
-  - If you want to get your ideas even more fleshed out, [write and publish them](https://adequate.life/writing/).
+  - If you want to get your ideas even more fleshed out, [write and publish them](language-writing.md).

@@ -2,15 +2,15 @@ Learning a new language isn't as difficult as it may feel:
 
 - To achieve bare-minimum, you only need enough phrases to hold a basic conversation with a native speaker about mundane objects.
   - You only need about 125 basic words in any language to start linking and adapting to begin speaking.
-  - At about 625 words, you can speak on the level of most [children](https://adequate.life/parenting-2/).
+  - At about 625 words, you can speak on the level of most [children](parenting-2_children.md).
   - You can be fluent in most languages and understand most of what you read with only about 1,000 words.
   - Even an experienced native language professor won't know most of that language's words!
-- You're rewriting your brain with a new set of information (mostly for the same things), so you simply need *lots* of exposure to get it into your [memory](https://adequate.life/memory/).
+- You're rewriting your brain with a new set of information (mostly for the same things), so you simply need *lots* of exposure to get it into your [memory](mind-memory.md).
   - Children are exposed to *thousands* of hours of their native language, but adults only need a few hundred for the same results.
 
 Bear in mind, though, that cultural awareness is *far* more important for connecting than knowing a culture's language:
 
-- Before you even *visit* a country, research beforehand about all their [cultural standards](https://adequate.life/social-rules/).
+- Before you even *visit* a country, research beforehand about all their [cultural standards](people-rules.md).
 
 The best path when learning any language is to move intuitively into it:
 
@@ -28,10 +28,10 @@ Every language is divided into pronunciation, grammar, and vocabulary:
 
 Read and watch things you *want* to watch, and make your own curriculum:
 
-- By making your own curriculum, you increase how much [fun](https://adequate.life/fun/) you'll likely have with it (and increase your learning [as a consequence](https://adequate.life/memory/)).
+- By making your own curriculum, you increase how much [fun](fun.md) you'll likely have with it (and increase your learning [as a consequence](mind-memory.md)).
   - Focus on constantly finding new things more than repetition.
   - Draw personal connections to the words.
-  - Learn aspects of the new [culture](https://gainedin.site/culture/) or subjects in that language that you like.
+  - Learn aspects of the new [culture](culture.md) or subjects in that language that you like.
   - You should enjoy what you're consuming and trying to parse.
 - As much as possible, do *not* cross the languages.
   - When you see something, you're building a "second brain", so avoid mixing in your native language into that thinking.
@@ -61,7 +61,7 @@ Focus obsessively on correct pronunciation:
   - It'll take you 3-8 days to get it right if you practice 30 minutes each day.
 - Focus on sounds, not letters.
   - Some languages have a few sounds (Hawaiian has 15) or many (certain Caucasus languages have up to 60).
-  - Depending on what you learned as a [small child](https://adequate.life/parenting-1/), you may not be able to pronounce some sounds at all.
+  - Depending on what you learned as a [small child](parenting-1_babies.md), you may not be able to pronounce some sounds at all.
   - Create a temporary "phonetic alphabet" to catch all the sounds of the language.
 - Become accustomed to the sounds of that language.
   - Trust your ear to develop a good accent.
@@ -172,7 +172,7 @@ To expand your vocabulary, read language literature:
 
 Use flash cards to build up your memory:
 
-- You're trying to [deepen memories](https://adequate.life/memory/) with flash cards, *not* make them.
+- You're trying to [deepen memories](mind-memory.md) with flash cards, *not* make them.
 - Write phrases on the card, not just words.
   - Make the phrases memorable by using fun ideas.
   - You should be able to say the phrase out loud, as well as make a mental picture from it.
@@ -185,11 +185,11 @@ Use flash cards to build up your memory:
 
 Write out the language, but stay focused on speaking:
 
-- In some ways, [writing](https://adequate.life/writing/) was our first foreign language because it requires seeing versus hearing.
+- In some ways, [writing](language-writing.md) was our first foreign language because it requires seeing versus hearing.
 - By writing, you can understand the structure of the language and clearly capture ideas, but it won't let you feel it out (which is critical for speaking).
 - Use translation software (like Google Translate) to get a gist of what you're trying to write.
 
-Keep yourself productive by setting and pursuing [goals](https://adequate.life/success-3/):
+Keep yourself productive by setting and pursuing [goals](success-3_goals.md):
 
 - At the end of each lesson, ask what you learned that would help you if you left immediately for that language's country.
 - Measure how many words you read, how many words and phrases you've committed to memory.
@@ -198,7 +198,7 @@ Keep yourself productive by setting and pursuing [goals](https://adequate.life/s
 
 As long as you persevere every day, with *lots* of input, you will quickly learn it within 6 weeks to a year:
 
-- It's not easy, but [nothing worthwhile really is](https://adequate.life/success-1/).
+- It's not easy, but [nothing worthwhile really is](success-1_why.md).
 - You'll notice your experience with language speakers will get *harder* at some point because they presume you're a native speaker and start speaking at their normal pace with informal style and slang, and with big words.
 - If you want to expand yourself further, learning a *third* language becomes significantly easier.
 
@@ -206,4 +206,4 @@ After you become bilingual, you'll start noticing that some languages are more u
 
 - Some languages are more poetic or stylish, while others are more analytical.
 - A language can be more brief or more florid to build out ideas.
-- The "lingua franca", or trade language, is always more useful for [business](https://notageni.us/business/) than any other language because it most articulately frames its [contracts](https://notageni.us/contracts/).
+- The "lingua franca", or trade language, is always more useful for [business](business.md) than any other language because it most articulately frames its [contracts](people-contracts.md).

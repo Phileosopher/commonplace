@@ -70,7 +70,7 @@ Engineers are throwing all *sorts* of ideas at the wall to see if they can get q
 - Glass CPUs (or QPUs) instead of silicon
 - Silicon-based qubits
 
-Their motivation makes sense. If quantum computers could be made to be reliable and efficient, it's almost certain that they'd rapidly overtake conventional binary computers in terms of power and [memory](/memory/) capacity. At scale, they can run *millions* of times faster than a binary computer.
+Their motivation makes sense. If quantum computers could be made to be reliable and efficient, it's almost certain that they'd rapidly overtake conventional binary computers in terms of power and [memory](computers-memory.md) capacity. At scale, they can run *millions* of times faster than a binary computer.
 
 Until quantum computers can run more reliably and affordably, binary computers will stay with us. Even then, there will still be many use cases where quantum computers may not be the best fit.
 

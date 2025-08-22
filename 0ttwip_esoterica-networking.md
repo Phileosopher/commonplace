@@ -15,10 +15,10 @@ Blocked ports:
 
 | Port | Protocol/IP version | Description |
 | 0 | TCP, IPv4/6 | Reserved port, not meant to be used, but has been abused |
-| 25 | TCP SMTP, IPv4/6 | unsecured, [botnets](/pentest/) use it for spam, use port 587 instead |
+| 25 | TCP SMTP, IPv4/6 | unsecured, [botnets](computers-cysec-pentest.md) use it for spam, use port 587 instead |
 | 67 | UDP BOOTP/DHCP, IPv4 | gets IPv4 info from DHCP server and is vulnerable to attacks |
 | 135-139 | TCP/UDP NetBIOS, IPv4/6 | allows file sharing over networks and bad permissions can give full access to a remote client |
-| 161 | UDP SNMP, IPv4/6 | vulnerable to [DDoS attacks](/pentest/) |
+| 161 | UDP SNMP, IPv4/6 | vulnerable to [DDoS attacks](computers-cysec-pentest.md) |
 | 445 | TCP MS-DS/SMB, IPv4/6 | vulnerable to exploits/attacks/malware (e.g., Sasser/Nimda worms) |
 | 520 | UDP RIP, IPv4 | vulnerable to malicious route updates, gives several attack possibilities |
 | 547 | UDP DHCPv6, IPv6 | gets IPv6 info from DHCP server and is vulnerable to attacks |
@@ -104,7 +104,7 @@ Proprietary ports:
 
  |
 
-[Authentication](/authentication/) ports:
+[Authentication](computers-cysec-authentication.md) ports:
 
 | Service | TCP Port | UDP Port |
 | Kerberos | 88, 464, 543, 54, 2053 | 88, 464 |

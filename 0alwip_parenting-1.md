@@ -27,17 +27,17 @@ However, any healthy marriage will mean it's not possible to prepare for or prev
 
 There's no "ideal" number of children:
 
-- Some people stay [married](/relationships/) but never want children.
+- Some people stay [married](relationships-3_marriage.md) but never want children.
 - Many urban and suburban cultures expect one or two children and consider three excessive.
 - Most rural and impoverished cultures expect at least four children.
 - Generally, the *timing* of the children defines how much work they are more than how many (e.g., twins are harder than two children three years apart).
 
 Parenting is high-risk, high-reward because children directly mimic the positive *and* negative traits of their guardians:
 
-- If you're [self-aware](/awareness/), [have a good marriage](/relationships/), and [constantly improving yourself](/success-1/), family issues never become unmanageable.
+- If you're [self-aware](awareness.md), [have a good marriage](relationships-3_marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
 - Accept your decisions and own when you've failed, especially to your children as they grow.
-- [Confront every issue](/conflicts/) as early on as possible.
-  - While it's good to know what to expect before it happens, the children changing and growing *require* you to [creatively](/creativity/) adapt to the situation.
+- [Confront every issue](people-5_conflicts.md) as early on as possible.
+  - While it's good to know what to expect before it happens, the children changing and growing *require* you to [creatively](mind-creativity-how.md) adapt to the situation.
 
 ## Mentally preparing
 
@@ -46,7 +46,7 @@ Any preparation beforehand is worth the effort, but you'll still be overwhelmed:
 - New parents *always* lose sleep, feel unappreciated, and must assume new responsibilities.
 - Mothers tend to feel an intense protective instinct and affection for their infant.
 - Fathers will often feel resentful toward their wife for neglecting him through constant preoccupation with the baby.
-- [Keep your relationship a priority](/relationships/) as you adapt to new responsibilities.
+- [Keep your relationship a priority](relationships-3_marriage.md) as you adapt to new responsibilities.
 
 Research and experience babies before having them:
 
@@ -54,61 +54,61 @@ Research and experience babies before having them:
   - Even if you don't take on the responsibility of raising children, you can still make a profound difference in the children of your friends and family.
   - Volunteer at a daycare or church's childcare.
 - Hundreds of great parenting books and [articles](http://www.babycenter.com/) will teach almost everything you need to know.
-- If you haven't conceived yet and don't trust your capacity for responsibility, get a [pet](/pets/).
+- If you haven't conceived yet and don't trust your capacity for responsibility, get a [pet](fun-pets.md).
 
 Pregnancy is preparation time:
 
 - You'll be "nesting", which is full-range preparation for the child, but not always sensible.
-  - Stay [aware](/awareness/) of whether your instincts fit the occasion.
+  - Stay [aware](awareness.md) of whether your instincts fit the occasion.
 - A pregnant lifestyle often imitates habits that come *after* a baby is born.
 - Bring a set of preventative items wherever you go:
   - Always bring extra water and food that won't make you nauseous.
   - Keep bags available for morning sickness.
-- Adapt your [exercise](/weight/) regimen to lower-stress workouts.
-- Anticipate losing [sleep](/sleep/) and [under-performing](/success-4/) at work.
-- Avoid or limit any major life decisions like [moving](/moving/), [buying a house](https://notageni.us/homes/), or [changing jobs](/jobs-1/).
-- Plan for your new [tax](https://notageni.us/accounting/) situation, and consider [setting up a college/marriage fund](/money-3/).
+- Adapt your [exercise](body-3_exercise.md) regimen to lower-stress workouts.
+- Anticipate losing [sleep](sleep.md) and [under-performing](success-4_routine.md) at work.
+- Avoid or limit any major life decisions like [moving](home-moving.md), [buying a house](homes-buysell.md), or [changing jobs](jobs-1_why.md).
+- Plan for your new [tax](accounting.md) situation, and consider [setting up a college/marriage fund](money-3_budget.md).
 
 Mentally preparing is more important than stockpiling:
 
 - Babies will learn and grow naturally if you simply keep feeding and playing with them.
-- The baby industry is a bit like the [wedding](/weddings/) industry, with endless overpriced consumer products for any perceived need.
-  - Most baby products are designed for parents more than babies, a bit like [pet products](/pets/).
+- The baby industry is a bit like the [wedding](relationships-weddings.md) industry, with endless overpriced consumer products for any perceived need.
+  - Most baby products are designed for parents more than babies, a bit like [pet products](fun-pets.md).
   - Babies, especially newborns, don't take much room and spend *years* without the motor skills to use what you give them
   - Plus, babies develop slowly enough that you can buy things for them as they grow.
-- Outside of food, you never need to amass [debt](/money-2/) for a baby's needs.
-- Your ability to [learn happiness](/happiness-1/) while stressed and stay [mindful of yourself](/awareness/) is more important than *anything* you can buy or learn.
+- Outside of food, you never need to amass [debt](money-2_debt.md) for a baby's needs.
+- Your ability to [learn happiness](happiness.md) while stressed and stay [mindful of yourself](awareness.md) is more important than *anything* you can buy or learn.
 
 Anticipate the experience:
 
 - You *will* feel overwhelmed, starting with delivering the baby.
-  - Your child will give you more stress and *will* temporarily sabotage your [satisfaction with life](/happiness-1/).
+  - Your child will give you more stress and *will* temporarily sabotage your [satisfaction with life](happiness.md).
   - Parenting has many happy moments and reprieves, but they're sometimes intermittent.
   - Set low expectations and keep them low.
   - Since it's a waste of energy, only worry about each day as it comes.
 - After children, you *never* have as much downtime.
-  - Your life doesn't really change, but you must add the baby (and later, the [child](/parenting-2/)) into your plans.
-  - You can still [accomplish what you want](/success-1/), but it'll require [*much* better time management](/success-4/).
-- For at least 4 months, you won't [sleep](/sleep/) for more than 3-4 hours at a time, so consider shifting to an alternate cycle to minimize stress.
+  - Your life doesn't really change, but you must add the baby (and later, the [child](parenting-2_children.md)) into your plans.
+  - You can still [accomplish what you want](success-1_why.md), but it'll require [*much* better time management](success-4_routine.md).
+- For at least 4 months, you won't [sleep](sleep.md) for more than 3-4 hours at a time, so consider shifting to an alternate cycle to minimize stress.
   - The work is easy (feeding, diaper changing, and holding) but it doesn't stop for months straight.
   - While your routine will normalize later, your pre-planned tasks for the children may rob sleep.
 - Children are a steady drain on resources.
   - Until they leave the house, your scarcest resource will be time.
-  - Children drain energy and make messes as they learn to grab, crawl, run, and open, so the house will never stay consistently [clean](/housekeeping/).
-  - Since they're usually mimicking you or something they've seen, you'll spend a *lot* of effort [self-reflecting](/awareness/) and [educating](/speaking/).
+  - Children drain energy and make messes as they learn to grab, crawl, run, and open, so the house will never stay consistently [clean](home-housekeeping.md).
+  - Since they're usually mimicking you or something they've seen, you'll spend a *lot* of effort [self-reflecting](awareness.md) and [educating](language-speaking.md).
 
 Fight some of your impulses:
 
 - Most parents are afraid of their child getting hurt and over-compensate.
-  - Children are high-maintenance, constantly needy, and repeatedly [push on *every* perceived boundary](/people-3/).
+  - Children are high-maintenance, constantly needy, and repeatedly [push on *every* perceived boundary](people-3_respect.md).
   - Accept you won't be a perfect parent.
 - Biologically, children are adults at age 12, so parenting is a twelve-year project to normalize them to typical adult behavior.
 - While it runs contrary to most parents' advice and your protective instinct, they must suffer the logical consequences of their actions, except when it might permanently harm them.
-- Your rules define their world during childhood, which should transition toward how they experience the rest of the world (ideally in [adolescence](/parenting-3/) when they [work their first job](/jobs-1/), or at the very least when they [make decisions about college](/college/)).
+- Your rules define their world during childhood, which should transition toward how they experience the rest of the world (ideally in [adolescence](parenting-3_teenagers.md) when they [work their first job](jobs-1_why.md), or at the very least when they [make decisions about college](jobs-college.md)).
 
 Expect 38-42 weeks of pregnancy, though babies very often survive premature birth anytime after 28 weeks (third trimester):
 
-- Get routine checkups to make sure the baby is healthy, but make sure it's all covered by your [insurance](https://notageni.us/insurance/) to avoid going into [debt](/money-2/).
+- Get routine checkups to make sure the baby is healthy, but make sure it's all covered by your [insurance](insurance.md) to avoid going into [debt](money-2_debt.md).
   - Because pregnancy is so delicate, doctors are powerless to do anything except recommendations, supplements, drugs, and invasive surgery.
 - If you wish to know the gender beforehand, get an ultrasound at 20 weeks.
   - Any guess is only about 50% accurate, even the *mother's*.
@@ -123,16 +123,16 @@ Many baby products are convenient, but unnecessary:
   - Babies can't differentiate between the toy and the packaging until at least 12-18 months.
   - "Edutainment" toys aren't as educational as spending time with them, going to a new place, or giving them common household objects.
 - A crib is merely a convenient way to confine the baby from things you're worried they may put in their mouth.
-- Don't bother with [baby life insurance](https://notageni.us/insurance/), since it's only to cover burial expenses.
+- Don't bother with [baby life insurance](insurance.md), since it's only to cover burial expenses.
 - Avoid over-protecting the house with safety equipment.
   - You *can* put bumpers on every sharp edge, safety gates for rooms, and door locks on cabinets, but you can save tons of money and frustration by letting them learn firsthand that some objects are painful and focusing your attention on safeguarding legitimately dangerous things (e.g., bleach).
-  - Even if you'd rather not address discipline, prepare in advance for when they [creatively](/creativity/) disrespect your boundaries.
+  - Even if you'd rather not address discipline, prepare in advance for when they [creatively](mind-creativity-how.md) disrespect your boundaries.
 - You won't need baby food after they've weaned off milk/formula.
   - A baby can eat almost anything whatever you're eating if you run it through a food processor or tear it up into little pieces.
 
 However, you *will* need a wide variety of standard items:
 
-- If it's too much of a strain on your [budget](/money-3/), you can usually find [creative](/creativity/) equivalents.
+- If it's too much of a strain on your [budget](money-3_budget.md), you can usually find [creative](mind-creativity-how.md) equivalents.
 - Useful everywhere:
   - Assorted washcloths, rags, and burp cloths
   - Baby wipes
@@ -149,7 +149,7 @@ However, you *will* need a wide variety of standard items:
 - Food needs:
   - If you're nursing, you'll only need a nursing pillow and, if you want to pump, a breast pump.
   - Baby formula may be necessary if you can't breastfeed.
-    - Formula isn't as nutritionally beneficial to them, but helps the mother [stay more productive](/success-4/) because they don't have to pump and anyone can feed them.
+    - Formula isn't as nutritionally beneficial to them, but helps the mother [stay more productive](success-4_routine.md) because they don't have to pump and anyone can feed them.
     - Get an abundant supply of formula to save constant trips to the store.
     - Bottles, bottle brushes, and drying rack
     - A bottle sterilizer and bottle warmer are *very* convenient, but you can use a dishwasher and microwave.
@@ -177,7 +177,7 @@ However, you *will* need a wide variety of standard items:
   - Pacifiers
     - It's much easier to recondition them off a pacifier later than their thumb.
   - Plenty of dishwasher detergent or dish soap
-  - Baby car seat (if you have a [car](https://notageni.us/autos/))
+  - Baby car seat (if you have a [car](autos.md))
 - Needs for later:
   - High chair
   - Infant spoons, plates, utensils, and spill-proof cups
@@ -194,20 +194,20 @@ Don't worry too much about timing the pregnancy announcement:
 
 - After you announce a baby, you don't have to make pregnancy-related excuses (e.g., declining alcohol, exhaustion).
 - But, if there are complications or a miscarriage, you'll relive it when you have to tell everyone about it over and over.
-- The easiest method is to share the news in [the flow of conversation](/speaking/).
+- The easiest method is to share the news in [the flow of conversation](language-speaking.md).
 
 Some things you feel about parenting are taboo to address:
 
 - When you're pregnant, you must talk about the baby in almost every conversation.
   - Even with the rest of life, society expects you to revolve all your purposes around your children.
-  - At the same time, miscarriages are uncomfortable because most people have trouble discussing [death](/death/).
+  - At the same time, miscarriages are uncomfortable because most people have trouble discussing [death](hardship-death.md).
 - You should say you fell in love with the baby when you saw them.
   - You probably felt confused and overwhelmed, and the baby might have been ugly, but nobody likes to admit it to others.
   - Love is a developed skill through caring for them, not a binary affection that triggers upon conception.
 - You're not allowed to express how parenting has made you lonely or unhappy.
   - Feeling alienated from society is typical, especially after the constant attention *during* the pregnancy.
   - Since many cultures imply perfection from children, many people can't understand how a child can give misery.
-- Thankfully, you can still discuss everything with other new parents or [authentic people](/people-4/).
+- Thankfully, you can still discuss everything with other new parents or [authentic people](people-4_friends.md).
 
 If it's your first child, expect your relationships to change:
 
@@ -216,20 +216,20 @@ If it's your first child, expect your relationships to change:
 - Many of your friends will disappear for no apparent reason.
   - Disassociation is typical, and usually from their desire for a child or anxiety about babies.
   - Some of them may wish you well but don't care for your company anymore.
-- Work to [maintain any friends](/people-4/) who stick around after the baby is born.
+- Work to [maintain any friends](people-4_friends.md) who stick around after the baby is born.
   - Some friends, especially women, will be obsessed with your baby.
-  - [Set proper boundaries](/people-3/) with them and let them babysit when you need a break.
+  - [Set proper boundaries](people-3_respect.md) with them and let them babysit when you need a break.
 - Most of your parent friends will respect and connect with you more.
   - Parents with children around the same age as you will be especially close and will likely try to arrange play dates.
   - Don't take offense if parents of older children try to impose themselves as mentors.
 - Be prepared for grandparents to involve themselves more, especially if they're new grandparents.
   - This may come as a surprise if you don't have a great relationship with them.
-  - Since your decisions affect the entire family, [wisely manage family friendships](/people-4/).
+  - Since your decisions affect the entire family, [wisely manage family friendships](people-4_friends.md).
 
 Keep your marriage a priority:
 
 - Give the child routinely to a babysitter for one-on-one time.
-  - Parenting success comes through [marriage success](/relationships/).
+  - Parenting success comes through [marriage success](relationships-3_marriage.md).
 - Husbands will typically feel less important than the baby.
   - The issues won't resolve with time, so it's the wife's responsibility to address his concerns.
 
@@ -272,7 +272,7 @@ Talk with them:
 
 - Babies are learning language and human behavior *insanely* fast as they observe everyone around them.
 - "Baby talk" is teaching the baby a foreign language nobody knows, and it can harm their development if it's frequent enough.
-- Once your child starts talking, you've moved into [the most interesting part of parenting](/parenting-2/).
+- Once your child starts talking, you've moved into [the most interesting part of parenting](parenting-2_children.md).
 
 Help them (and you) sleep better:
 
@@ -301,7 +301,7 @@ Feeding them:
 - Breastfeeding is ideal, but not necessary:
   - Babies have a stronger immune system while they're breastfeeding.
   - You can still breastfeed when you're sick.
-  - If you're nursing, don't [try dieting](/weight/).
+  - If you're nursing, don't [try dieting](body-2_diet.md).
   - If you're breastfeeding, don't give babies pacifiers.
 - Bottle-feeding is far more convenient than breastfeeding:
   - However, baby formula is expensive.
@@ -337,12 +337,12 @@ Bathing:
 
 Let them grow:
 
-- Babies need "tummy time" for a few hours a day to [work out](/weight/).
+- Babies need "tummy time" for a few hours a day to [work out](body-3_exercise.md).
 - Constantly expose them to new places, new experiences, and things they've never done before, even a mundane experience like visiting a farm or going to a hardware store.
 
 Plan for wherever you go:
 
-- You can still go wherever you want, but always [keep a perpetual plan](/success-3/) for the next 3-6 hours.
+- You can still go wherever you want, but always [keep a perpetual plan](success-3_goals.md) for the next 3-6 hours.
 - Bring enough of everything for the baby in a separate bag:
   - Diapers, diaper rash ointment, and baby wipes
   - A nursing cover or bottles, formula, and bottled water
@@ -352,7 +352,7 @@ Plan for wherever you go:
 Watch for their health, but don't panic:
 
 - Pay close attention to their wellbeing, but do research about the likely events that may happen with your baby.
-- Since the [Big Medi/Pharma Complex](https://notageni.us/here/) has profitability incentives, ask your other parent friends about the scope of their symptoms.
+- Since the [Big Medi/Pharma Complex](https://gainedin.site/here/) has profitability incentives, ask your other parent friends about the scope of their symptoms.
 - Many diagnoses, such as tongue-tying, have been excessively misdiagnosed and have led to many unnecessary procedures.
 
 ## Milestones
@@ -399,7 +399,7 @@ By their first birthday, they're usually about 1/3 their full-grown height.
 
 Starting with their first birthday, get routine medical checkups:
 
-- Most medical checkups are preventative maintenance, which means you don't *have* to perform them, even if [the government](https://notageni.us/legally-safe/) implies you do.
+- Most medical checkups are preventative maintenance, which means you don't *have* to perform them, even if [the government](legal-safety.md) implies you do.
 - Some vaccinations aren't worth the effort because of how fast the viruses mutate:
   - Influenza (flu)
   - SARS-CoV-2 (COVID-19)
@@ -443,4 +443,4 @@ By their 2nd birthday, they'll be about half their adult height:
 
 Their last teeth will come in between ages 2-3.
 
-From about age 3, the role of parenting [takes on an entire different form](/parenting-2/).
+From about age 3, the role of parenting [takes on an entire different form](parenting-2_children.md).

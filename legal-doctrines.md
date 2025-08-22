@@ -7,7 +7,7 @@ Law is defined by many precedents, mostly through previous cases that created ru
 
 Even in a fledgling nation, many lawyers will consult *other* nations that wrestled with the same issues instead of starting from scratch.
 
-[Human nature](humanity.md) is relatively unchanging, so [laws](boundaries.md) seem to always have *some* overlap, even across vastly different [cultures](culture.md). It is worth indicating, however, that some of these doctrines are actually *[unethical](morality.md)* in many situations.
+[Human nature](humanity.md) is relatively unchanging, so [laws](rules.md) seem to always have *some* overlap, even across vastly different [cultures](culture.md). It is worth indicating, however, that some of these doctrines are actually *[unethical](morality.md)* in many situations.
 
 It's also worth indicating that there are many situations where opposing doctrines overlap, meaning precedent makes way for the judge's personal opinion.
 
@@ -375,7 +375,7 @@ Attractive nuisance doctrine (tort law) - a landowner may be held liable for inj
 
 Balance of probabilities - a legal standard of proof commonly used in civil court that indicates that the ruling will decide based on what party's claim is most probable when considering all the factors, in contrast with reasonable doubt
 
-Blue pencil doctrine (contract law) - if a [contract](contracts.md) has unenforceable components, its enforceable parts are still legally valid
+Blue pencil doctrine (contract law) - if a [contract](people-contracts.md) has unenforceable components, its enforceable parts are still legally valid
 
 Caveat actor - Latin for "let the doer beware", the person performing the action is responsible for their action.
 
@@ -487,7 +487,7 @@ Non-derogation from grants doctrine (property law) - a seller of realty or goods
 
 ### German Civil Court
 
-Abstraction principle - the buyer and seller in a [business contract](contracts.md) don't necessarily own the payment or the object after the transfer, and it requires 3 contracts:
+Abstraction principle - the buyer and seller in a [business contract](people-contracts.md) don't necessarily own the payment or the object after the transfer, and it requires 3 contracts:
 
 1. the contract of sale itself that obligates the seller to transfer ownership of the product to the buyer and the buyer to pay the price
 2. a contract that transfers ownership of the product to the buyer, fulfilling the seller's obligation

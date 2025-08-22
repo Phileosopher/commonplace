@@ -1,5 +1,5 @@
 
-Algorithms and [data structures](/data-structures/) work hand-in-hand, and the concepts are often merged, but there is a distinctive difference between them:
+Algorithms and [data structures](data-structures.md) work hand-in-hand, and the concepts are often merged, but there is a distinctive difference between them:
 
 - An algorithm is a set of very specific instructions. It's a mathematical function (like X = Y + 5), but has more functions inside it that make it more complicated.
 - A data structure is the form of the information itself.
@@ -12,7 +12,7 @@ Whenever a computer receives information and converts it into something else, it
 
 Algorithms need time and memory to work through lots of information. There are a variety of algorithms that can each work for specific purposes.
 
-The more information, the more time or [memory](/memory/) the computer will need to work with it.
+The more information, the more time or [memory](computers-memory.md) the computer will need to work with it.
 
 Computer scientists focus on how much time and memory those algorithms take with 3 major calculations:
 
@@ -49,7 +49,7 @@ There are several ways to search, but linear and binary searches are the most co
 
 ## Sorting algorithms
 
-A sorting algorithm will take a dataset and organize it by some [organizing](https://adequate.life/organization/) convention, typically alphabetically/numerically.
+A sorting algorithm will take a dataset and organize it by some [organizing](organization.md) convention, typically alphabetically/numerically.
 
 "Bubble sort" is the simplest sorting algorithm, but can also be the most resource-intensive and time-consuming. It simply compares a data point with another data point later in the database, and swaps it if it's out of order. Unfortunately, bubble sort needs to "iterate" through *all* the sorted data points for it to be successfully sorted.
 
@@ -68,11 +68,11 @@ TCP's slow start algorithm is relatively straightforward, but a genius solution 
 
 ## Encryption algorithms
 
-Because of the ubiquity of encryption (as well as the constant changes from all the [password-cracking](/hacking/)), encryption is in an [entirely different domain](/encryption/) than most other algorithms.
+Because of the ubiquity of encryption (as well as the constant changes from all the [password-cracking](hacking.md)), encryption is in an [entirely different domain](encryption.md) than most other algorithms.
 
 ## Compression algorithms
 
-To send [files](/files/) across a [network](/networks/) or [store long-term](/memory/) without using it, it makes sense to cut down on as much space as possible.
+To send [files](computers-files.md) across a [network](networks-computer.md) or [store long-term](computers-memory.md) without using it, it makes sense to cut down on as much space as possible.
 
 To do this, compression algorithms essentially run a sequential process of shrinking all the data:
 
@@ -84,7 +84,7 @@ To do this, compression algorithms essentially run a sequential process of shrin
 
 Machine learning, in particular, is a vast collection of the previous algorithms, but tends to use other algorithms as well. Most of it is to articulate and clarify [uncertainties](understanding-certainty.md) (called "entropy" inside the industry).
 
-A decision tree uses a tree-like model of decisions to walk through a set of selections, a bit like [project management](https://notageni.us/mgmt-projects/) but with more specificity. When documenting and building, the nodes break apart into sections:
+A decision tree uses a tree-like model of decisions to walk through a set of selections, a bit like [project management](mgmt-2_projects-cs.md) but with more specificity. When documenting and building, the nodes break apart into sections:
 
 - Decisions - a clear condition to indicate what the computer must do, represented by squares.
 - Chances - a probable likelihood of a response, represented by circles.

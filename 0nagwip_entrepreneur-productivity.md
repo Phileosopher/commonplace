@@ -1,5 +1,5 @@
 
-*Previous: [Freelancing](/entrepreneur-freelancing/)*
+*Previous: [Freelancing](entrepreneur-4_freelancing.md)*
 
 If you're launching a product or project, get everything as much as possible *before* the launch date.
 
@@ -7,30 +7,30 @@ If you're launching a product or project, get everything as much as possible *be
   - Planning makes life easier, but it's never easy.
   - There are simply too many unforeseeable things that may go wrong.
   - Instead of fighting against the chaos, learn to channel it to your benefit.
-- Order all relevant [marketing materials](/marketing/) beforehand, early enough to review them and reorder if they weren't sufficient or accurate.
+- Order all relevant [marketing materials](marketing.md) beforehand, early enough to review them and reorder if they weren't sufficient or accurate.
 - Create a fully-functioning website, then have an email that directly uses that website's URL.
 - Make an extensive list of possible marketing and lead generation avenues.
 
 At the onset, your job will involve ~20 small part-time jobs.
 
 - Most small business work is solitary or with strangers:
-  - [Brainstorming possible ideas](https://adequate.life/creativity/)
-  - [Advertising](/marketing/)
-  - [Networking](https://adequate.life/people-3/)
-  - Researching [legal limits](/legally-safe/)
-  - [Managing finances](https://adequate.life/money-3/)
-  - [Cleaning](https://adequate.life/housekeeping/), waste disposal, [organizing](https://adequate.life/organization/)
+  - [Brainstorming possible ideas](mind-creativity-how.md)
+  - [Advertising](marketing.md)
+  - [Networking](people-3_boundaries.md)
+  - Researching [legal limits](legal-safety.md)
+  - [Managing finances](money-3_budget.md)
+  - [Cleaning](home-housekeeping.md), waste disposal, [organizing](organization.md)
 - Eventually, you'll be able to specialize more into what you like (or at least don't mind), but you'll do a little of everything at the beginning.
 - To avoid burnout, try to separate personal and work activities.
   - When you relax, you should *enjoy* your small bouts of time off and *not* think about work.
-- Further, if you're not [financing](/entrepreneur-scaling/), you *must* keep a day job until you can make enough to live on without harming operating activities.
+- Further, if you're not [financing](entrepreneur-6_scaling.md), you *must* keep a day job until you can make enough to live on without harming operating activities.
 
 ## Stay focused
 
 Keep testing and using your own product.
 
 - You can only stay in touch with the product as it develops if you use it yourself.
-- Further, you can only *[sell](/marketing/)* your product well if you're constantly becoming more familiar with it.
+- Further, you can only *[sell](marketing.md)* your product well if you're constantly becoming more familiar with it.
 
 Watch for warning signs of being "busy" more than productive:
 
@@ -56,7 +56,7 @@ Sometimes you'll have to redesign the business.
 
 ## Contracts
 
-For every product you provide, create a [standardized contract](/contracts/) for clients with the following:
+For every product you provide, create a [standardized contract](people-6_contracts.md) for clients with the following:
 
 - Warranty and return policy.
 - If it's connected to software at all, have a privileged user agreement.
@@ -73,9 +73,9 @@ Unless you're a substantially-sized organization, trying to sue for damages agai
 *Always* keep multiple payment options available, along with multiple payment processors.
 
 - Even if you need extra fees for processing, always offer cash and card payments.
-- If your business is at all modern, use phone-based payment options (e.g., [cryptocurrency](http://trendless.tech/blockchain/), Cash App).
+- If your business is at all modern, use phone-based payment options (e.g., [cryptocurrency](computers-blockchain.md), Cash App).
 - You're losing money every day a client can't pay.
 - Try to use a less-popular payment processor, since large-scale payment managers (e.g., PayPal, Stripe) will *not* prioritize you if something goes wrong on their end.
 - If you're charged different fees for different payment processors, consider adding the cost directly into the product itself.
 
-*Next: [Scaling & Financing](/entrepreneur-scaling/)*
+*Next: [Scaling & Financing](entrepreneur-6_scaling.md)*

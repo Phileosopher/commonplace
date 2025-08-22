@@ -1,5 +1,5 @@
 
-3D printing, or "additive manufacturing" (AM), is one of the newest technologies in the [printing](/printer/) industry, though it's technically been available since the 1970s.
+3D printing, or "additive manufacturing" (AM), is one of the newest technologies in the [printing](computers-printers.md) industry, though it's technically been available since the 1970s.
 
 ## History
 
@@ -16,26 +16,26 @@ The first 3D printers used metal, but the 1980s saw tremendous leaps in plastic-
 
 It wasn't commercially successful. In the 1980s, a 3D printer cost about $300,000, and the cost meant it wasn't very useful relative to manufacturing objects for a specific purpose (e.g., factory equipment).
 
-The term 3D printing has gone through some permutations. At one time, it referred to [metal sintering](https://notageni.us/engineering/), but changed as plastic started becoming the standard for AM in the 2010s.
+The term 3D printing has gone through some permutations. At one time, it referred to [metal sintering](engineering.md), but changed as plastic started becoming the standard for AM in the 2010s.
 
 ## General implementation
 
 The process is a relatively straightforward approach:
 
-1. Use CAD software to create a desired output form, which is often using the same or similar CAD software as most [graphics technology](/graphics/).
-2. Output the CAD software's information into an STL [file](/files/) (for stereo lithography), which will store data of the CAD model's surfaces.
+1. Use CAD software to create a desired output form, which is often using the same or similar CAD software as most [graphics technology](graphics.md).
+2. Output the CAD software's information into an STL [file](computers-files.md) (for stereo lithography), which will store data of the CAD model's surfaces.
 3. That CAD STL file will frequently have errors, and there are a *lot* of error-correcting procedures to fix the *many* possible failures (e.g., warping, curling, holes, lines, vibrations), as well as structural risks (bridging failure, walls caving in, etc.). This often includes building other supports around the object:
    - Rafts are entire layers that sit below the build.
    - Brims are preferable to rafts, and simply extend from the edge of the build to enable the build to stick to the bed.
    - Skirts are created around the object, but not directly touching it, to prepare the extruder for the first layer and slow down the cooling of the lowest layers.
-4. The CAD file converts to G-code, a [programming language](/langs/) that instructs where the printer should move in physical space with [Cartesian coordinates](https://notageni.us/algebra/), layer-by-layer.
+4. The CAD file converts to G-code, a [programming language](computers-languages.md) that instructs where the printer should move in physical space with [Cartesian coordinates](math-algebra.md), layer-by-layer.
 5. Convert that CAD file into instructions for the printer using proprietary code that corresponds with the printer.
 6. The printer creates the form, one step at a time (typically layer-by-layer), typically by extruding a polymer "filament" and using UV light to harden and congeal it.
 7. Post-process to fix more errors (e.g., clumping, elephant's foot, lines on the side).
 
-STL files aren't exactly straightforward. Their data is stored as [triangulation](/geo-trig/), and AMF files (AM file format) try to remedy some of those by including curved triangulation.
+STL files aren't exactly straightforward. Their data is stored as [triangulation](math-geotrig.md), and AMF files (AM file format) try to remedy some of those by including curved triangulation.
 
-Like [a standard printer](/printer/), the printer's resolution is represented as dots per inch (dpi), but can also represent as micrometers (μm). A typical layer's thickness is ~100 μm (or 250 dpi) though some machines can print as small as 16 μm (or 1,600 dpi).
+Like [a standard printer](computers-printers.md), the printer's resolution is represented as dots per inch (dpi), but can also represent as micrometers (μm). A typical layer's thickness is ~100 μm (or 250 dpi) though some machines can print as small as 16 μm (or 1,600 dpi).
 
 Contrary to plastic, metal 3D printing works with aluminum or stainless-steel powder and a weak binding agent to create a hollowed-out form, then covering the form with aluminum oxide and pouring in bronze. The technique is much faster and affordable than conventional methods.
 
@@ -43,12 +43,12 @@ Beyond that, the details are very specific to the method. Many approaches are si
 
 ## Power
 
-The ability for *anyone* with [design](/graphics/) skills to make what they [imagine](https://gainedin.site/imagination/) has tremendous implications:
+The ability for *anyone* with [design](graphics.md) skills to make what they [imagine](imagination.md) has tremendous implications:
 
 1. Engineers can effectively prototype and test their creations within a matter of days, not weeks or months.
-2. The opportunity to create anything can include protected [intellectual property](https://notageni.us/ip/) and [illegal](https://gainedin.site/rules/) objects (e.g., guns).
+2. The opportunity to create anything can include protected [intellectual property](legal-ip.md) and [illegal](rules.md) objects (e.g., guns).
 
-Currently, as of 2023, an affordable and decent 3D printer for small uses can be $200, and [that price will only go down over time](https://gainedin.site/economics/) without government intervention. This situation will only magnify as the technology improves.
+Currently, as of 2023, an affordable and decent 3D printer for small uses can be $200, and [that price will only go down over time](economics.md) without government intervention. This situation will only magnify as the technology improves.
 
 Naturally, this extra power provides tremendous independence. Someone can, in theory, print the components necessary for the object they're working with. Even if it's sub-par, it gives the ability to only need copious amounts of filament to make anything the CAD can design.
 
@@ -59,10 +59,10 @@ The technology continues to improve as well. While polymer plastics are the best
 1. Printing with metals and ceramics are starting to arise as viable AM techniques, as well as other domains such as [Wagyu beef](https://newatlas.com/science/world-first-lab-grown-wagyu-beef-japan).
 2. With metals and ceramics, multi-material printing with different material types is also on the horizon.
 3. 4D printing involves forming an object based on its desired future form (i.e., changing shape over time with temperature or some other stimulation like pressure).
-4. As printers become more effective, they'll soon be able to create large structures like bridge components and houses, which will *radically* define [logistics](https://notageni.us/logistics/): simply send over raw materials and the printer to a hard-to-navigate site.
-5. Printers can print increasingly smaller sizes ([at 25 nanometers long right now](https://interestingengineering.com/science/scientists-can-now-print-metal-objects-that-are-only-25-nanometers-long)), meaning it may *radically* redefine the manufacture of electronic components, such as [processors](/cpu/) or [memory](/memory/), in the not-too-distant future.
+4. As printers become more effective, they'll soon be able to create large structures like bridge components and houses, which will *radically* define [logistics](logistics.md): simply send over raw materials and the printer to a hard-to-navigate site.
+5. Printers can print increasingly smaller sizes ([at 25 nanometers long right now](https://interestingengineering.com/science/scientists-can-now-print-metal-objects-that-are-only-25-nanometers-long)), meaning it may *radically* redefine the manufacture of electronic components, such as [processors](computers-cpu.md) or [memory](computers-memory.md), in the not-too-distant future.
 
-Within a century, it won't be uncommon to see [startups](/entrepreneur/) building many materials with a 3D printer, and it may happen as early as 2040.
+Within a century, it won't be uncommon to see [startups](entrepreneur-1_why.md) building many materials with a 3D printer, and it may happen as early as 2040.
 
 ## DIY
 

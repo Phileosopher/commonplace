@@ -55,7 +55,7 @@ YouTube: <https://www.youtube.com/feeds/videos.xml?channel_id={CHANNELHASHID}>
 
 ## Others
 
-You can often get private feeds by publishing to a feed (e.g., cloud storage updates, public notes), which can be *very* useful for [communication on projects](mgmt-communication.md).
+You can often get private feeds by publishing to a feed (e.g., cloud storage updates, public notes), which can be *very* useful for [communication on projects](mgmt-5_communication.md).
 
 Most news outlets and independent podcasters have RSS feeds for their articles, and frequently with curated specializations for your convenience.
 

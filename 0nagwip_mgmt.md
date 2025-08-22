@@ -1,179 +1,179 @@
 
-Management is [formalized power](https://gainedin.site/power-types/) over another person's actions, typically in an [employment](https://adequate.life/jobs-1/) capacity.
+Management is [formalized power](power-types.md) over another person's actions, typically in an [employment](jobs-1_why.md) capacity.
 
 - *All* great organizations need great workers, who are empowered by great managers.
-- Great leaders bring in great workers and, later, *other* great managers who then find other great workers, to create a [corporate culture](https://gainedin.site/groups-large/).
+- Great leaders bring in great workers and, later, *other* great managers who then find other great workers, to create a [corporate culture](groups-large.md).
 
 Management is always implementing more order into any system.
 
 - Management often means making and adhering to systems.
 - While management generates a top-down sense of order, great management permits benign chaos (e.g., individual workers' personal lives).
 
-Like [accounting](/accounting/), [marketing](/marketing/), or [IT](https://trendless.tech/), inserting more management into a system is *not* always a good idea.
+Like [accounting](accounting.md), [marketing](marketing.md), or [IT](computers.md), inserting more management into a system is *not* always a good idea.
 
 - People can often work better alone without supervision.
 - For most teams, the lead worker will simply become a part-time manager as part of their role.
 - The ideal time to employ a full-time manager is when a worker will do better working with others, but there are so many people that the best worker can't reliably delegate and direct everyone.
-- At the same time, a great manager can turn a mediocre or failing [organization](https://gainedin.site/groups-large/) into a thriving, productive one.
+- At the same time, a great manager can turn a mediocre or failing [organization](groups-large.md) into a thriving, productive one.
 
-Like [success](https://adequate.life/success-1/) and [investing](/investing/), there's a *lot* of bad management advice:
+Like [success](success-1_why.md) and [investing](money-investing.md), there's a *lot* of bad management advice:
 
-- Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](https://gainedin.site/safety/) without much work or crave [power](https://gainedin.site/power-types/) over others.
-- A manager who [appears](https://gainedin.site/image/) to be competent or powerful to *their* boss is technically easier than actual competence or power.
-  - A manager's results are [numerically tracked](https://gainedin.site/math/) in most conventional roles, and [Goodhart's Law](https://gainedin.site/laws-axioms/) compounds because their performance comes directly from their *subordinates'* [results](https://gainedin.site/results/).
-- The formal [culture](https://gainedin.site/culture/) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
-- Most people who [succeed](https://adequate.life/success-1/) at management, but desire more [wealth](https://adequate.life/money-1/), move on from managing.
+- Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](safety.md) without much work or crave [power](power-types.md) over others.
+- A manager who [appears](image.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
+  - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](mind-creativity-results.md).
+- The formal [culture](culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
+- Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
 ## The image of management
 
-Our [religious tendencies](https://gainedin.site/religion/) mean we tend to draw behind the [image](https://gainedin.site/image/) of a leader, and that leader tends to become a [symbolic depiction](https://gainedin.site/symbols/) of the [group's values](https://gainedin.site/groups-small/).
+Our [religious tendencies](religion.md) mean we tend to draw behind the [image](image.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
 
-- It takes an entire [group of people](https://gainedin.site/groups-small/) to do anything significant, but someone always ends up maintaining the group's [culture](https://gainedin.site/culture/), and they eventually become the "face" of the organization.
-- Even [inventions](https://gainedin.site/technology/) and [social trends](https://gainedin.site/trends/) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
+- It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](culture.md), and they eventually become the "face" of the organization.
+- Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
 
-Management reproduces the role of high-quality [fatherhood](https://adequate.life/parenting-2/) we inherit from our [upbringing](https://gainedin.site/maturity/), but tends to have a more limited scope of [love](https://gainedin.site/love/) and [human connection](https://gainedin.site/friendship/):
+Management reproduces the role of high-quality [fatherhood](parenting-2_children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-4_friends.md):
 
-- [Aptitude](https://adequate.life/success-1/) (or at least competence) in the group's specialization.
+- [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
 - Behavior that appears [decisive](understanding-certainty.md).
-- Distant enough with subordinates to stay relatively [unbiased](https://gainedin.site/bias/), but close enough to provide [emotional](mind-feelings.md)/[moral](https://gainedin.site/morality/) support.
+- Distant enough with subordinates to stay relatively [unbiased](mind-bias.md), but close enough to provide [emotional](mind-feelings.md)/[moral](morality.md) support.
 
 Actual management, however, includes a few extra details the image fails to portray:
 
-1. Management is more about leadership than [negotiation](https://adequate.life/conflicts/). [Conflicts](https://gainedin.site/conflicts/) are a common-enough issue with people, but most [power struggles](https://gainedin.site/power/) can be avoided by [strong](https://gainedin.site/power-types/), [decisive](https://gainedin.site/decisions/) leaders that give clear and practical examples of what to do.
-2. Most management includes lots of [organization](https://adequate.life/organization/), along with lots of [communication](https://gainedin.site/conversation/) that [inspires](https://gainedin.site/meaning/) others to add to that organized state themselves.
-3. Managers are forced to take responsibility for difficult [decisions](https://gainedin.site/decisions/). Most of them are choices between an awful thing and something worse.
+1. Management is more about leadership than [negotiation](people-5_conflicts.md). [Conflicts](people-conflicts.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](decisions.md) leaders that give clear and practical examples of what to do.
+2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
+3. Managers are forced to take responsibility for difficult [decisions](decisions.md). Most of them are choices between an awful thing and something worse.
 
 Management has also gotten a bad reputation for several reasons:
 
-1. Similarly to [entrepreneurship](/entrepreneur/), most management books are written by lucky people whose techniques may or may not be worth reproducing.
-2. The [power](https://gainedin.site/power-types/) that comes from managerial authority draws many people who desire nothing more than that power.
+1. Similarly to [entrepreneurship](entrepreneur-1_why.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
+2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
 3. we often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
 
 ## Qualifications
 
-Anyone can be a manager if they're granted the role, but *successful* management directs people toward a [purpose](https://gainedin.site/purpose/) and helps them accomplish it.
+Anyone can be a manager if they're granted the role, but *successful* management directs people toward a [purpose](purpose.md) and helps them accomplish it.
 
-- The [specialization](https://gainedin.site/specialization-cities/) to manage is uniquely different from most other specializations.
+- The [specialization](jobs-specialization.md) to manage is uniquely different from most other specializations.
   1. They must effectively communicate what an individual is supposed to do.
-  2. They must convey [meaning](https://gainedin.site/meaning/) to people enough that they do it.
+  2. They must convey [meaning](meaning.md) to people enough that they do it.
   3. They're held responsible for whether those other people do it.
-- There are many roles that encompass this concept: official managers, administrators, [executives](/mgmt-changes/), [pastors](https://theologos.site/leadership/), [overseers](/bureaucracy/), and [politicians](https://gainedin.site/conservative-liberal/), among others.
-  - The complexities of communication mean that it's one of the few roles where [trade-specific information](https://gainedin.site/specialization-cities/) isn't as relevant as broad understanding of many general things.
+- There are many roles that encompass this concept: official managers, administrators, [executives](mgmt-7_changes.md), [pastors](mgmt-church.md), [overseers](bureaucracy.md), and [politicians](politics-conservativeliberal.md), among others.
+  - The complexities of communication mean that it's one of the few roles where [trade-specific information](jobs-specialization.md) isn't as relevant as broad understanding of many general things.
 - Most of the time, managers gravitate to informal leadership roles automatically before they've ever become a manager:
   - Assisting in running a church or social club.
-  - High-quality [parenting](https://adequate.life/parenting-2/).
+  - High-quality [parenting](parenting-2_children.md).
   - Consistently active on social media.
 
-Almost everyone is capable of being a manager, but not everyone has the [personality](https://gainedin.site/personality/) that they'd *enjoy* it:
+Almost everyone is capable of being a manager, but not everyone has the [personality](personality.md) that they'd *enjoy* it:
 
 - Openness to Experience must be somewhere in the middle.
-  - They must accept the [inevitable changes](https://gainedin.site/change/) that come with [groups of people](https://gainedin.site/groups-small/) along with results that *aren't* in their direct control.
-  - However, they can't accept the changes so far that they'd alienate the more [slow-changing members](https://gainedin.site/habits/) of the group they're leading.
+  - They must accept the [inevitable changes](changes.md) that come with [groups of people](groups-small.md) along with results that *aren't* in their direct control.
+  - However, they can't accept the changes so far that they'd alienate the more [slow-changing members](habits.md) of the group they're leading.
 - Conscientiousness must be at least above-average.
   - They will have to follow *many* rules and honor more commitments than most other roles.
 - Extraversion must be in the middle, but it probably helps to skew higher towards being charismatic.
-  - They'll have to [organize and track projects](/mgmt-projects/).
-  - But, most of them must have at least a few important [conversations](/mgmt-communication/) or [public speeches](https://adequate.life/speaking/) every day.
+  - They'll have to [organize and track projects](mgmt-2_projects.md).
+  - But, most of them must have at least a few important [conversations](mgmt-5_communication.md) or [public speeches](language-speaking.md) every day.
 - Agreeableness must be average to above-average.
   - They'll often have to make goals without others' input.
-  - They'll also need to confront [conflicts](http://adequate.life/conflicts/) as they happen, which will likely include firing someone at least once.
-  - At the exact same time, they must win [friends](http://adequate.life/people-4/) over and avoid most conflicts *before* they become an issue.
+  - They'll also need to confront [conflicts](people-5_conflicts.md) as they happen, which will likely include firing someone at least once.
+  - At the exact same time, they must win [friends](people-4_friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
   - Maintaining their composure is the only way to build and maintain others' trust as being reliable.
-- The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](/neurodivergent/) are unusually frequent compared to many other domains.
+- The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](mind-neurodivergence.md) are unusually frequent compared to many other domains.
 
 In juggling the conflicting interests in their role, managers tend to fall into several classes of people in their tendencies to fail:
 
 1. Prioritize their subordinates over their superiors.
-   - Their leadership is an outstanding environment to work in and grow [as an employee](https://adequate.life/jobs-1/).
+   - Their leadership is an outstanding environment to work in and grow [as an employee](jobs-1_why.md).
    - If their superiors only use performance metrics, they will *not* advance them farther compared to other managerial candidates.
    - These represent the most among many large organizations' lower-tier management (e.g., store manager, shift supervisor).
 2. Prioritize their superiors over their employees.
    - The work environment is typically harsh and, for a wide variety of reasons, worker turnover is often higher.
    - If their superiors only use performance metrics, they'll likely advance them further up the management ladder.
    - These tend to congregate at the top of most large organizations' management (e.g., executives).
-3. People who were great at other non-management specializations, but the [Peter Principle](https://gainedin.site/laws-axioms/) caught up with them once they were promoted to manager.
+3. People who were great at other non-management specializations, but the [Peter Principle](lawsaxioms.md) caught up with them once they were promoted to manager.
    - Extreme competence in a non-management capacity does *not* guarantee competence in management.
    - They generally have no idea what they're doing.
    - Typically, if they keep working they'll either stay as a manager and lose the skills they had sharpened to get to that position, or downgrade themselves back to being a worker in another role.
    - Sometimes a manager is simply the wrong personality for the role.
-     - Some roles require more [organization](https://adequate.life/organization/), and others require more [people](https://adequate.life/people-3/).
+     - Some roles require more [organization](organization.md), and others require more [people](people-3_boundaries.md).
      - The only way to distinguish between whether a manager was a bad choice or simply misplaced is through observing their performance in several management roles.
 4. Prioritize themselves over others.
    - Their leadership role is simply a means for self-promotion, and they'll be more likely to use the word "I" over "we".
-   - Many of them will hide their selfishness through plenty of education and [clever language tricks](https://gainedin.site/image-distortion/).
+   - Many of them will hide their selfishness through plenty of education and [clever language tricks](image-distortion.md).
    - In fact, many of them are experts at hiding their failures, and will be easy to spot if they appear to be the most capable person in an otherwise inept team.
 
 ## Leading > managing
 
 All managers *should* have leadership qualities because managers must perform specific results:
 
-- Bring a sense of [mission or vision](https://gainedin.site/purpose/) to seemingly mundane tasks.
-- Can identify [potential candidates](/mgmt-teams/).
+- Bring a sense of [mission or vision](purpose.md) to seemingly mundane tasks.
+- Can identify [potential candidates](mgmt-3_teams.md).
 - Nurtures late-bloomers who aren't rising to their presented challenges.
 - Fire or dismiss lazy, uncooperative, and complaining workers.
-- Adapt to the situation as it [changes](https://gainedin.site/changes/).
-- [Loyal](https://gainedin.site/trust/) to the [organization](https://gainedin.site/groups-large/) they're working to [build or maintain](https://gainedin.site/creations/).
-- Capable of making clear [decisions](https://gainedin.site/decisions/) confidently enough that others [trust](https://gainedin.site/trust/) them.
+- Adapt to the situation as it [changes](changes.md).
+- [Loyal](trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
+- Capable of making clear [decisions](decisions.md) confidently enough that others [trust](trust.md) them.
 
 While management itself is a role, leadership is a mindset and skill set:
 
-- [Moral character](https://gainedin.site/morality/) that drives them [fearlessly](https://gainedin.site/fear/) into [decisions](https://gainedin.site/decisions/) that [take action](https://gainedin.site/results/).
-- At least some degree of [maturity](https://gainedin.site/maturity/) and [awareness](https://adequate.life/awareness/) to control their [emotions](mind-feelings.md) and take [personal responsibility](https://gainedin.site/meaning/).
-- Concerned more about their group's or team's [interests](https://gainedin.site/purpose/) than themselves.
+- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](decisions.md) that [take action](mind-creativity-results.md).
+- At least some degree of [maturity](maturity.md) and [awareness](awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
+- Concerned more about their group's or team's [interests](purpose.md) than themselves.
 - Confident about their decisions without regrets, but humble enough to make dramatic changes when they're wrong.
 
 Decent management is *always* coaching.
 
 - While "human resources" implies people are supplies, they all have individual lives and personalities.
 - Mentorship and leadership guide members to be better people overall, which is a long-term investment of both showing by example and consistently serving others.
-- Good coaching comes through complete trust and honesty, which requires at least [adequate interpersonal skills](https://adequate.life/people-3/).
+- Good coaching comes through complete trust and honesty, which requires at least [adequate interpersonal skills](people-3_boundaries.md).
 
 Managers are granted roles from someone in a position of authority who liked them, but leaders express their competence before they *ever* become managers:
 
 - Others tend to stop and listen whenever they speak.
 - Wherever they go, they'll tend to take charge, and others will want to follow them.
-- Leaders' decisions are [self-directed actions](https://gainedin.site/purpose/) driven by a [principle](https://gainedin.site/values/) or [plan](https://gainedin.site/imagination/), while managers' decisions may be more broadly [acting in opposition](https://gainedin.site/conflicts/) to something else or following a [social fashion](https://gainedin.site/trends/).
+- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts.md) to something else or following a [social fashion](trends.md).
 
 The primary distinguishing features between a leader/manager and a manager-in-title-only comes through:
 
-1. How they make difficult [decisions](https://gainedin.site/decisions/).
+1. How they make difficult [decisions](decisions.md).
 2. How they own those decisions when they make a mistake.
 
 ## Bad managers
 
-Many managers only have a [formal title](https://gainedin.site/power-types/) that implies specific responsibilities toward [directing projects](/mgmt-projects/) and [communicating results](/mgmt-communication/).
+Many managers only have a [formal title](power-types.md) that implies specific responsibilities toward [directing projects](mgmt-2_projects.md) and [communicating results](mgmt-5_communication.md).
 
-- Instead of directing [meaning](https://gainedin.site/meaning/), bad managers often simply state [purposes](https://gainedin.site/purpose/) and give incentives (e.g., money, disciplinary action).
-- [Middle managers](/mgmt-middle/), in particular, can frequently be *terrible* at leadership.
+- Instead of directing [meaning](meaning.md), bad managers often simply state [purposes](purpose.md) and give incentives (e.g., money, disciplinary action).
+- [Middle managers](mgmt-middle.md), in particular, can frequently be *terrible* at leadership.
 
 In most management capacities, it's surprisingly easy to *appear* productive, but also not *be* productive.
 
-- It's the same risk as [non-productively being busy](https://adequate.life/success-4/), with endless distractions that avoid actual work done.
+- It's the same risk as [non-productively being busy](success-4_routine.md), with endless distractions that avoid actual work done.
 
 The stereotype of bad managers distill to a few key details:
 
-- Not particularly competent as an individual or in [certain domains](https://gainedin.site/specialization-cities/), but no [self-awareness](https://adequate.life/awareness/) of that fact.
-- Accepts personal mediocrity about self-directed tasks and [goals](https://adequate.life/success-3/), which leads to some amount of hypocrisy with their expectations of others.
-- Either poor [interpersonal](https://adequate.life/people-3/) or [communication](https://adequate.life/speaking/) skills, or insufficient enthusiasm to motivate others.
-- Poorly [understood](understanding.md) or poorly articulated [vision](https://gainedin.site/imagination/) or [purpose](https://gainedin.site/purpose/), or maintains contradicting priorities.
-- Unwilling to hear [constructive input](https://gainedin.site/conflicts/) from subordinates or peers, especially about matters which may imply [change](https://gainedin.site/changes/) (and therefore more work).
-- Refusing to learn from mistakes and failures that may require [change](https://gainedin.site/changes/) if [understood](understanding.md) and acknowledged.
-- Disinterest in helping others [grow](https://gainedin.site/maturity/), improve, or [succeed](https://adequate.life/success-1/) unless they receive some of the [credit](https://gainedin.site/image/).
+- Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](awareness.md) of that fact.
+- Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which leads to some amount of hypocrisy with their expectations of others.
+- Either poor [interpersonal](people-3_boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
+- Poorly [understood](understanding.md) or poorly articulated [vision](imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
+- Unwilling to hear [constructive input](people-conflicts.md) from subordinates or peers, especially about matters which may imply [change](changes.md) (and therefore more work).
+- Refusing to learn from mistakes and failures that may require [change](changes.md) if [understood](understanding.md) and acknowledged.
+- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](image.md).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
-Many [larger group](https://gainedin.site/groups/) managers are *not* leaders:
+Many [larger group](groups-large.md) managers are *not* leaders:
 
 - Most worker promotions to manager come from non-leadership motivations:
   - A manager observed they were competent in a *non*-management role.
   - A manager personally preferred that subordinate.
-  - Someone saw management as an opportunity to have [power](https://gainedin.site/power-types/).
+  - Someone saw management as an opportunity to have [power](power-types.md).
 - Great manager-makers must detect leadership aptitude in others, but not feel threatened by it.
-- Further, if a manager promotes someone (even badly), they might have [political](https://gainedin.site/power-types/) reasons:
+- Further, if a manager promotes someone (even badly), they might have [political](power-types.md) reasons:
   - Giving power to someone takes away power from someone else.
   - The boost to that worker's ego means they're more likely to stay loyal to the group, meaning they're less likely to leave.
-  - [Groups can't admit they're wrong](https://gainedin.site/groups-small/), so a manager can easily [become the public scapegoat](https://gainedin.site/image-distortion/) for a change the manager wants to make.
-- Business [schools](https://gainedin.site/pedagogy/) tend to churn out MBA [technical idiots](/idiot/) who have poor [people skills](https://adequate.life/people-3/), but are skilled at [negotiating](https://adequate.life/conflicts/) lower employee pay.
+  - [Groups can't admit they're wrong](groups-small.md), so a manager can easily [become the public scapegoat](image-distortion.md) for a change the manager wants to make.
+- Business [schools](pedagogy.md) tend to churn out MBA [technical idiots](https://gainedin.site/idiot/) who have poor [people skills](people-3_boundaries.md), but are skilled at [negotiating](people-5_conflicts.md) lower employee pay.
   - In a group of them, their culture may often even instill outright *contempt* for subordinates.
 
 Watch for key phrases and behaviors that show non-leader managers:
@@ -184,16 +184,16 @@ Watch for key phrases and behaviors that show non-leader managers:
 - A general feeling of comfort or ease, without any clear ambition toward anything in particular.
 - As people age, these issues can often express more severely:
   - They may grow complacent without many challenges to overcome.
-  - They might have lost their passion to [fix problems](/fix/).
-  - Money or [safety](https://gainedin.site/safety/) started becoming a higher priority than results.
+  - They might have lost their passion to [fix problems](fix.md).
+  - Money or [safety](safety.md) started becoming a higher priority than results.
 
-When nobody leads by asking questions that provoke change, non-leader management [culture](https://gainedin.site/culture/) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
+When nobody leads by asking questions that provoke change, non-leader management [culture](culture.md) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
 
-- Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](https://gainedin.site/boundaries/) or expressing [certainty](understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
+- Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
 - Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
-- Endless meetings and email conversations to [communicate](/mgmt-communication/) status on projects, but without legitimately assisting to [make results](https://gainedin.site/results/) within those projects.
-- Sometimes projecting [family-based](https://gainedin.site/family/) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](/professional/) when they may be held accountable on it.
-- Often dismally [unaware](https://adequate.life/awareness/) of how everyone else [sees them](https://gainedin.site/image/).
+- Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](mind-creativity-results.md) within those projects.
+- Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
+- Often dismally [unaware](awareness.md) of how everyone else [sees them](image.md).
 
 Great management can't be trained because the managers must *choose* to be authentic and behave maturely.
 
@@ -204,29 +204,29 @@ Great management can't be trained because the managers must *choose* to be authe
 
 A manager has a few possible ways to interpret their role:
 
-1. [Fixer](/fix/) - the team is fulfilling various [purposes](https://gainedin.site/purpose/), and the manager can step in to intervene if anyone needs guidance or anything goes wrong.
-2. [Messenger](https://adequate.life/speaking/) - the manager has requirements based on [rules](https://gainedin.site/rules/), and the subordinate should be [rewarded or punished](https://gainedin.site/habits/) for their results.
-3. Team - in both good and bad ways, the leader is responsible for what the group does, and is equally responsible to [make the *members* responsible](https://gainedin.site/meaning/) as well.
+1. [Fixer](fix.md) - the team is fulfilling various [purposes](purpose.md), and the manager can step in to intervene if anyone needs guidance or anything goes wrong.
+2. [Messenger](language-speaking.md) - the manager has requirements based on [rules](rules.md), and the subordinate should be [rewarded or punished](habits.md) for their results.
+3. Team - in both good and bad ways, the leader is responsible for what the group does, and is equally responsible to [make the *members* responsible](meaning.md) as well.
 
 No single management style works for all situations, for several reasons:
 
-1. While managers are usually held solely responsible for the [decisions](https://gainedin.site/decisions/) they've made, each manager's [personality](https://gainedin.site/personality/) is uniquely different.
-2. Each individual person contributes to the [collective essence of each group](https://gainedin.site/groups-small/), and each member's [personality](https://gainedin.site/personality/) has particular requirements or requires specific kinds of attention.
-3. Even among similar domains, every group's [purpose](https://gainedin.site/purpose/) is at least a little different (e.g., [accounting](/accounting/) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
+1. While managers are usually held solely responsible for the [decisions](decisions.md) they've made, each manager's [personality](personality.md) is uniquely different.
+2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](personality.md) has particular requirements or requires specific kinds of attention.
+3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
 
 The manager's skills will need to be appropriate to the team's purposes:
 
 - Excellent communication skills.
-- Skill at [influencing others](https://gainedin.site/influence/) to their perspective.
-- [Curates their image](https://gainedin.site/image-distortion/) and [crafts stories](https://gainedin.site/stories/) to appear at least a little better than [reality](https://gainedin.site/reality/).
+- Skill at [influencing others](power-influence.md) to their perspective.
+- [Curates their image](image-distortion.md) and [crafts stories](stories.md) to appear at least a little better than [reality](reality.md).
 - Adapts to change and inspires others to it as well.
-- Able to calmly [analyze](https://gainedin.site/logic/) the situation enough to [understand](understanding.md) the [wisest path](https://gainedin.site/results/) to take.
+- Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](mind-creativity-results.md) to take.
 - Appearing fearless in the face of hardship.
-- Creates [rules](https://gainedin.site/rules/).
+- Creates [rules](rules.md).
 - Follows rules.
 - Takes responsibility for a team's results.
-- Beyond ideals, focused on [practical results](https://gainedin.site/results/).
-- Sees the long-term [consequences](https://gainedin.site/results/) of their decisions.
+- Beyond ideals, focused on [practical results](mind-creativity-results.md).
+- Sees the long-term [consequences](mind-creativity-results.md) of their decisions.
 
 Most management roles clarify the contrast between prioritizing relationships versus tasks, but *every* manager must love their work.
 
@@ -236,13 +236,13 @@ Most management roles clarify the contrast between prioritizing relationships ve
 
 Since every management situation is different, there isn't a good all-in-one solution.
 
-- The only thing managers get are *many* various conceptual frameworks, which represent simplifications of [human universals](https://gainedin.site/universals/).
-- A manager has to figure out how a general model will work with the [culture mix](https://gainedin.site/culture/) in their current group.
+- The only thing managers get are *many* various conceptual frameworks, which represent simplifications of [human universals](humanity-universals.md).
+- A manager has to figure out how a general model will work with the [culture mix](culture.md) in their current group.
 - Managers are of a generally higher Conscientiousness than everyone else, so they *frequently* tend to forget this.
 
 Every single change will redefine how the models may implement.
 
-- The only way to navigate is through a strong [intuition](mind-feelings.md) for how people work and a commitment to [ethics](https://gainedin.site/morality/).
+- The only way to navigate is through a strong [intuition](mind-feelings.md) for how people work and a commitment to [ethics](morality.md).
 
 Action-Centered Leadership:
 
@@ -253,7 +253,7 @@ Separate out and list a Leader, their Tasks, the Teams, and Individuals.
 1. Leaders only exist for a Task.
 2. The quality of a Leader comes from how well they understand how to do the Task.
 3. The Team is a group devoted to performing the Tasks.
-4. Each Individual has various [desires](mind-feelings.md), [fears](https://gainedin.site/fear/), [motivations](https://gainedin.site/purpose/), and [experiences](https://gainedin.site/stories/).
+4. Each Individual has various [desires](mind-feelings.md), [fears](mind-feelings-fear.md), [motivations](purpose.md), and [experiences](stories.md).
 5. A Leader's job is to encourage the Team to do the Tasks.
 6. The Leader will have to modify *how* they encourage the Individual based on that person's context from D.
 
@@ -263,8 +263,8 @@ Defines whether a leader is helping people or results more.
 
 Analyze a manager into 2 spectra:
 
-- People-Concerned - prioritizes [group members'](https://gainedin.site/groups-member/) benefits, what they enjoy the most, and the best interests for their careers.
-- Production-Concerned - prioritizes getting the job done as [effectively](https://gainedin.site/results/) as possible and the organization's best interests.
+- People-Concerned - prioritizes [group members'](groups-member.md) benefits, what they enjoy the most, and the best interests for their careers.
+- Production-Concerned - prioritizes getting the job done as [effectively](mind-creativity-results.md) as possible and the organization's best interests.
 
 These management styles can fit onto a graph:
 
@@ -290,7 +290,7 @@ All the leadership aspects interconnect in a circular (not linear) relationship,
 - **Relationships** grow between the Leader and Followers.
 - **People** tend to use their natural skills and tend to ignore assigned responsibilities outside those skills.
 - **Feedback** from the Followers is critical for the Leaders.
-- Everything only stays in harmony with [ethical](https://gainedin.site/morality/), honest behavior from everyone.
+- Everything only stays in harmony with [ethical](morality.md), honest behavior from everyone.
 
 Fiedler's Contingency Model:
 
@@ -317,7 +317,7 @@ Have a leader describe their feelings to their least-liked coworker on a scale o
 
 The score (up to 128) determines how people-oriented the leader is, with task-oriented being the alternative.
 
-- Task-oriented managers tend to see less-liked coworkers poorly, and are great in situations requiring tasks or organizing a group but terrible at relationship-building and managing [conflicts](https://adequate.life/conflicts/).
+- Task-oriented managers tend to see less-liked coworkers poorly, and are great in situations requiring tasks or organizing a group but terrible at relationship-building and managing [conflicts](people-5_conflicts.md).
 - People-oriented managers tend to see less-liked coworkers more positively, and are great at avoiding/managing conflicts and making complex decisions.
 
 Next, measure 3 factors to determine what the situation is:
@@ -368,7 +368,7 @@ Each person has a context-dependent balance of 3 distinctive leadership styles:
 
 Path-Goal Theory:
 
-Defines leadership as a means of attaining a goal through the leader's [vision](https://gainedin.site/imagination/) for a path.
+Defines leadership as a means of attaining a goal through the leader's [vision](imagination.md) for a path.
 
 All goals have a pathway, and a leader's job is to guide everyone down that path:
 
@@ -391,9 +391,9 @@ Divides along a spectrum between Manager-Oriented leadership (like a dictator) a
 1. Tells - gives direct instructions with limited interaction, usually with a distrusting attitude.
 2. Sells - still directly commands, but the leader listens to members' input.
 3. Suggests - a softer approach than selling that requests the team's input about decisions.
-4. Consults - trusts team members to ask their advice, gives [legitimate power](https://gainedin.site/power-types/) to members.
+4. Consults - trusts team members to ask their advice, gives [legitimate power](power-types.md) to members.
 5. Joins - the leader is more a member than a dictator, keeps control over choices but makes decisions alongside the team.
 6. Delegates - implicitly believes in the team and expects them to perform.
 7. Abdicates - leader lets the team run itself from start to finish and is completely uninvolved.
 
-*Next: [Creating Projects](/mgmt-projects/)*
+*Next: [Creating Projects](mgmt-2_projects.md)*

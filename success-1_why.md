@@ -154,11 +154,11 @@ For most of us, our success will start with smaller goals:
 - Reputation
   - Reconcile quickly with others when possible
   - Find new [friends](people-4_friends.md) and open yourself to finding more
-  - Avoid unnecessary [arguments](people-conflicts.md), especially on the internet
+  - Avoid unnecessary [arguments](people-5_conflicts.md), especially on the internet
 - Connection
   - Learn gratitude for encouraging and supportive friends, family, and associates
   - Develop vulnerability and openness to trustworthy people
-  - Graciously [disagree](people-conflicts.md) with others
+  - Graciously [disagree](people-5_conflicts.md) with others
   - Meaningfully express what others feel and think
   - Never take others' statements personally
   - Honor and respect others' sensitivities

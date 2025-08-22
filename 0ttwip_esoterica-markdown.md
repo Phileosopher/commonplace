@@ -38,6 +38,6 @@ Heading 2: ## or ------------- underneath
 code block
 ```
 
-NOTE: code blocks are only useful for [writing](https://adequate.life/writing/) if you're tech-savvy or when you want someone to copy-paste the content.
+NOTE: code blocks are only useful for [writing](language-writing.md) if you're tech-savvy or when you want someone to copy-paste the content.
 
 If you ever want to have the software ignore markdown on a given line, use the \ character.

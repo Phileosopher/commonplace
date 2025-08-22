@@ -1,15 +1,15 @@
-God gives every Christian spiritual gifts, which Christians are personally [responsible](https://gainedin.site/meaning/) to manage.
+God gives every Christian spiritual gifts, which Christians are personally [responsible](meaning.md) to manage.
 
-Understanding our gifts is a critical component of developing our [Christian identity](/identity/) ([1 Corinthians 12-14](https://biblehub.com/bsb/1_corinthians/12.htm), [Ephesians 4:1-16](https://biblehub.com/bsb/ephesians/4.htm), [Romans 12:1-8](https://biblehub.com/bsb/romans/12.htm), [1 Peter 4:7-11](https://biblehub.com/bsb/1_peter/4.htm)).
+Understanding our gifts is a critical component of developing our [Christian identity](identity.md) ([1 Corinthians 12-14](https://biblehub.com/bsb/1_corinthians/12.htm), [Ephesians 4:1-16](https://biblehub.com/bsb/ephesians/4.htm), [Romans 12:1-8](https://biblehub.com/bsb/romans/12.htm), [1 Peter 4:7-11](https://biblehub.com/bsb/1_peter/4.htm)).
 
-The Body of Christ is one unit with many parts, not merely a diverse [group](https://gainedin.site/groups-small/) that meets together ([1 Corinthians 12:12](https://biblehub.com/1_corinthians/12-12.htm)).
+The Body of Christ is one unit with many parts, not merely a diverse [group](groups-small.md) that meets together ([1 Corinthians 12:12](https://biblehub.com/1_corinthians/12-12.htm)).
 
 - *Every* believer is equally essential, and every spiritual gift has its time and place ([Ecclesiastes 3:1-8](https://biblehub.com/bsb/ecclesiastes/3.htm)).
 
 The Holy Spirit gives us our spiritual gifts ([James 1:17](https://biblehub.com/james/1-17.htm)).
 
 - Our spiritual gifts come through Christ, *never* ourselves ([John 15:5](https://biblehub.com/john/15-5.htm)).
-- We can't change, improve, or create them apart from [His will](/gods-will/) ([1 Corinthians 12:4-6, 11](https://biblehub.com/bsb/1_corinthians/12.htm)).
+- We can't change, improve, or create them apart from [His will](god-will.md) ([1 Corinthians 12:4-6, 11](https://biblehub.com/bsb/1_corinthians/12.htm)).
 - We *should* desire useful gifts that build Christ's Body ([1 Corinthians 12:31](https://biblehub.com/1_corinthians/12-31.htm), [13:5](https://biblehub.com/1_corinthians/13-5.htm), [13:12](https://biblehub.com/1_corinthians/13-12.htm)).
 
 ## Classifications
@@ -19,7 +19,7 @@ While all gifts come from the Holy Spirit, He's given four context-specific type
 A. Church position gifts:
 
 - Given to the New Testament Church collectively, not individuals ([Ephesians 4:1-18](https://biblehub.com/bsb/ephesians/4.htm)).
-- They [symbolically](https://gainedin.site/symbols/) reflect positions Jesus gave to help people grow the Church into a unified Body.
+- They [symbolically](symbols.md) reflect positions Jesus gave to help people grow the Church into a unified Body.
 
 B. Situational gifts
 
@@ -33,7 +33,7 @@ C. Sign gifts
 - Sign gifts are situational gifts, but with *much* more power and scope (the Apostles showed the most authority and power in *all* recorded history).
 - God gave sign gifts for two specific reasons:
   1. To demonstrate the Apostles had the same spiritual power as Jesus to prove their discipleship under the risen Christ ([Acts 2:22](https://biblehub.com/acts/2-22.htm), [2:43](https://biblehub.com/acts/2-43.htm), [5:12-16](https://biblehub.com/bsb/acts/5.htm)).
-  2. To give authority to demonstrate divine revelation until [God's Scriptures](/bible/) were finished, systematically arranged, and declared absolute ([John 17:13-17](https://biblehub.com/bsb/john/17.htm), [Revelation 22:18-20](https://biblehub.com/bsb/revelation/22.htm)).
+  2. To give authority to demonstrate divine revelation until [God's Scriptures](bible.md) were finished, systematically arranged, and declared absolute ([John 17:13-17](https://biblehub.com/bsb/john/17.htm), [Revelation 22:18-20](https://biblehub.com/bsb/revelation/22.htm)).
 - Several types of signs proved the Apostles' authenticity:
   1. Sign healing restored limbs and resurrected the dead ([Acts 3:1-10](https://biblehub.com/bsb/acts/3.htm), [Acts 9:37-40](https://biblehub.com/bsb/acts/9.htm), [Acts 20:9-12](https://biblehub.com/bsb/acts/20.htm)).
   2. Sign miracles looked similar to Old Testament miracles, with various powers ranging from protecting a ship's crew to surviving death from a poisonous snake ([Acts 27:31](https://biblehub.com/acts/27-31.htm),[44](https://biblehub.com/acts/27-44.htm), [Acts 28:3-6](https://biblehub.com/bsb/acts/28.htm)).
@@ -44,10 +44,10 @@ C. Sign gifts
 D. Motivational gifts
 
 - Most references to spiritual gifts among Christians refer to motivational gifts.
-- Unlike the other gifts, God gives motivational gifts to every Christian of every age to assist in individual, specially appointed [purposes](https://gainedin.site/purpose/) ([Romans 12:1-8](https://biblehub.com/bsb/romans/12.htm)).
-- God designed our motivations from our birth to build up and ultimately [strengthen](https://gainedin.site/power/) Church members.
-- Motivational gifts show the Holy Spirit's continuous, persistent drive through our [personalities](https://gainedin.site/personality/).
-- The gifts usually start with simple [desires](https://gainedin.site/purpose/), but create supernatural results.
+- Unlike the other gifts, God gives motivational gifts to every Christian of every age to assist in individual, specially appointed [purposes](purpose.md) ([Romans 12:1-8](https://biblehub.com/bsb/romans/12.htm)).
+- God designed our motivations from our birth to build up and ultimately [strengthen](power.md) Church members.
+- Motivational gifts show the Holy Spirit's continuous, persistent drive through our [personalities](personality.md).
+- The gifts usually start with simple [desires](purpose.md), but create supernatural results.
 
 * * * * *
 
@@ -163,12 +163,12 @@ A group of believers is eating at a table when someone drops an expensive gravy 
 
 ## Downsides
 
-God built motivational gifts into a person's [spirit](/people/).
+God built motivational gifts into a person's [spirit](humanity-christian.md).
 
-- Non-believers can still demonstrate some of those traits (a bit like moving a corpse) when provoked by human goodness, but the Holy Spirit activates them when people [come to Christ](/gospel/).
-- People develop motivational gifts through the Holy Spirit's power, which comes from spiritual maturity in [daily living](/exercises/).
+- Non-believers can still demonstrate some of those traits (a bit like moving a corpse) when provoked by human goodness, but the Holy Spirit activates them when people [come to Christ](jesus-gospel.md).
+- People develop motivational gifts through the Holy Spirit's power, which comes from spiritual maturity in [daily living](spiritual-exercises.md).
 
-Motivational gifts are driven by our [decisions](https://gainedin.site/decisions/), which create the unfortunate result that believers are capable of directing their gifts *away* from [God's guidance](/gods-will/) and toward selfish ambitions.
+Motivational gifts are driven by our [decisions](decisions.md), which create the unfortunate result that believers are capable of directing their gifts *away* from [God's guidance](god-will.md) and toward selfish ambitions.
 
 - When they're directed incorrectly, motivational can cause *tremendous* damage to the Church.
 
@@ -234,11 +234,11 @@ There are [spiritual motivational gifts inventories](/wp-content/uploads/2019/07
 
 - It's entirely possible God may give spiritual gifts to people as they require, without any precedent or classification.
 - For example, Samson technically had a spiritual gift of "physical strength" ([Judges 13-16](https://biblehub.com/bsb/judges/13.htm)) and Solomon was technically gifted with "wisdom".
-- If you simply keep showing up to [fulfill needs](/serve/) as God leads, you'll discover them without trying.
+- If you simply keep showing up to [fulfill needs](church-serve.md) as God leads, you'll discover them without trying.
 
-Pay close attention to the [good habits](https://gainedin.site/habits/) you keep practicing:
+Pay close attention to the [good habits](habits.md) you keep practicing:
 
-- You'll be thinking and acting on a motivation most of the time, even without anyone expecting you to or seeing any [results](https://gainedin.site/results/) from it.
+- You'll be thinking and acting on a motivation most of the time, even without anyone expecting you to or seeing any [results](mind-creativity-results.md) from it.
 - You're able to work on a specific sort of task for a *very* long time with little to no fatigue.
 - Mature Christians are stunned or amazed at what you were capable of doing with those tasks.
 
@@ -246,13 +246,13 @@ More walking with God will create a feedback loop of more desire to exercise tha
 
 ## God has a reason for spiritual gifts
 
-[Love](https://gainedin.site/love/) should be the *only* motivation for any of the gifts ([1 Corinthians 12:7](https://biblehub.com/1_corinthians/12-7.htm), [12:31-13:3](https://biblehub.com/bsb/1_corinthians/12.htm)).
+[Love](people-love.md) should be the *only* motivation for any of the gifts ([1 Corinthians 12:7](https://biblehub.com/1_corinthians/12-7.htm), [12:31-13:3](https://biblehub.com/bsb/1_corinthians/12.htm)).
 
 - Christian love is to concern yourself for someone else's well-being more than yours ([1 Corinthians 13:3-7](https://biblehub.com/bsb/1_corinthians/13.htm)).
-- Genuine love requires freedom from [unconfessed sin](/sins/), being filled with the Holy Spirit, and openness for God to use your motivational gifts ([1 Thessalonians 5:19-20](https://biblehub.com/bsb/1_thessalonians/5.htm)).
+- Genuine love requires freedom from [unconfessed sin](morality-sins.md), being filled with the Holy Spirit, and openness for God to use your motivational gifts ([1 Thessalonians 5:19-20](https://biblehub.com/bsb/1_thessalonians/5.htm)).
 - God has created all the spiritual gifts, uses all of them, and should always receive praise from their use ([Colossians 1:15-18](https://biblehub.com/bsb/colossians/1.htm)).
 
-The whole purpose of spiritual gifts is to benefit the [Body of Christ](/church/) as a whole ([1 Corinthians 12:12-20](https://biblehub.com/bsb/1_corinthians/12.htm), [Ephesians 4:16](https://biblehub.com/ephesians/4-16.htm)).
+The whole purpose of spiritual gifts is to benefit the [Body of Christ](church.md) as a whole ([1 Corinthians 12:12-20](https://biblehub.com/bsb/1_corinthians/12.htm), [Ephesians 4:16](https://biblehub.com/ephesians/4-16.htm)).
 
 - Assuming people use them correctly, every church has *more* than enough gifts to do what God wants ([1 Corinthians 1:4-7](https://biblehub.com/bsb/1_corinthians/1.htm), [Ephesians 4:7-13](https://biblehub.com/bsb/ephesians/4.htm)).
 
@@ -260,4 +260,4 @@ Boldly use your gifts with authority.
 
 - God will clarify if you've behaved wrongly ([Romans 12:6-8](https://biblehub.com/bsb/romans/12.htm)).
 - As you mature in Christ, your spiritual gifts will grow along with more and better gifts ([1 Corinthians 13:11-13](https://biblehub.com/bsb/1_corinthians/13.htm), [1 Corinthians 14:20-21](https://biblehub.com/bsb/1_corinthians/14.htm), [Ephesians 4:14-15](https://biblehub.com/bsb/ephesians/4.htm)).
-- Using our spiritual gifts is time-critical in our [present age](/jesus-returns/) ([1 Peter 4:7-11](https://biblehub.com/bsb/1_peter/4.htm)).
+- Using our spiritual gifts is time-critical in our [present age](jesus-returns.md) ([1 Peter 4:7-11](https://biblehub.com/bsb/1_peter/4.htm)).

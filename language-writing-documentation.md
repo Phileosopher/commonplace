@@ -1,7 +1,7 @@
 
 # Technical documentation summarized
 
-All [technology](technology.md), proportional to the details necessary to operate or [service](https://gainedin.site/fix/) it, requires some form of written [language](language.md) to indicate how to use it.
+All [technology](technology.md), proportional to the details necessary to operate or [service](adequate.life/fix/) it, requires some form of written [language](language.md) to indicate how to use it.
 
 Technical documents only come from a few possible types of people:
 

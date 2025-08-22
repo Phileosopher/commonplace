@@ -1,5 +1,5 @@
 
-With respect to how computers see it, (and irrespective of what you believe about [logicism](https://gainedin.site/glossary/)), [arithmetic](https://gainedin.site/math/) is an advanced form of [logic](https://gainedin.site/logic/).
+With respect to how computers see it, (and irrespective of what you believe about [logicism](glossary-philosophy.md)), [arithmetic](math.md) is an advanced form of [logic](logic.md).
 
 Math operations start with addition and subtraction, then compound to create multiplication/division, then compound *again* to create exponents and squares.
 
@@ -55,7 +55,7 @@ OR / AND together (no symbols, to keep it real)
 - Distributivity of OR over AND (not in normal algebra):
   - x OR (y AND z) = (x OR y) AND (x OR z)
 
-In case you're wondering (like I was), there's a reason why rearranging all this logic matters. It doesn't really matter in a vacuum, but once you start assembling it into [advanced logic](/alu/), you're drawing hard rules to not simply clarify what a computer should accept, but also to fully clarify *future* possibilities.
+In case you're wondering (like I was), there's a reason why rearranging all this logic matters. It doesn't really matter in a vacuum, but once you start assembling it into [advanced logic](computers-alu.md), you're drawing hard rules to not simply clarify what a computer should accept, but also to fully clarify *future* possibilities.
 
 As an example, you might tell a computer to sort colored balls. If there's only red and green balls in the box, you *can* simply say "give me all the red ones". But, if you throw some yellow ones in there and want it to grab it as well, you have more than one way to fix that issue:
 
@@ -64,7 +64,7 @@ As an example, you might tell a computer to sort colored balls. If there's only 
 
 The first one is tiresome, and becomes obsolete if you bring in a third color. The second allows you to only omit green balls no matter how many colors there are. This becomes very significant if there were, let's say, 300 colors in the mixture.
 
-Thus, understanding these primitives and how they operate is to get inside the mind of a computer and how to work with it. All this math compiles itself inside meaningful mathematics inside the [arithmetic logic unit](/alu/). It's a big reason why computer scientists are some of the most logical people on the planet, even if they're [not always the most sensible](/trends/).
+Thus, understanding these primitives and how they operate is to get inside the mind of a computer and how to work with it. All this math compiles itself inside meaningful mathematics inside the [arithmetic logic unit](computers-alu.md). It's a big reason why computer scientists are some of the most logical people on the planet, even if they're [not always the most sensible](trends.md).
 
 * * * * *
 

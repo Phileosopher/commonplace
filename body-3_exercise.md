@@ -154,7 +154,7 @@ You don't need much equipment for a workout:
 
 - Official exercising - aerobics, gymnastics, jogging, running, walking, weightlifting
 - Dancing - swing, ballet, swing, tango, tap dancing, salsa, twerking, waltz
-- [Team sports](sports.md) - baseball, basketball, field hockey, football, hockey, soccer, softball, tennis, volleyball
+- [Team sports](fun-sports.md) - baseball, basketball, field hockey, football, hockey, soccer, softball, tennis, volleyball
 - Individual sports - boxing, golf, wrestling, martial arts, laser tag, paintball, ping-pong
 - Personal recreation - bowling, Frisbee, trampolining, playing catch
 - Alternate transportation - bicycling, ice skating, swimming, horseback riding, rollerblading/skating, skateboarding, unicycling
