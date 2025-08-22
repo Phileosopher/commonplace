@@ -57,7 +57,9 @@ The entire experience devolves into the continued reckless pursuit of a [feeling
 
 ## Symptoms of an addict
 
-Addicts tend to disregard the natural state of [habits](habits.md):
+While [the good life](goodlife.md) requires desiring to grow, addicts often focus on intensifying pleasure instead of finding [meaning](meaning.md) in the growth itself.
+
+Addicts' obsession tends to disregard the natural state of [habits](habits.md):
 
 - Habits are made of a trigger, method, and reward.
 - An addict will [desire](purpose.md) their reward so much that they'll perform every method possible just to attain a *[chance](trust.md)* or *[hope](imagination.md)* of that reward.
@@ -84,6 +86,8 @@ Even when someone hates a substance (like most late-stage addicts do), its power
 - Connect with some sort of higher [purpose](purpose.md).
 - Feel a sense of [human connection](people-4_friends.md).
 - After enough time abusing a substance, the substance also fulfills the need for [familiarity](habits.md).
+
+The substance's absence doesn't resolve the issue, either. Addicts can often engage in [habits](habits.md) of abstinence, which can develop a [cycle](trends.md) of abuse, excess, burnout, abstinence, relapse, and back to abuse. Since abstinence often enhances an experience, this can become a long-term lifestyle.
 
 People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](economics.md) will create more addicting things:
 
