@@ -251,7 +251,7 @@ Lucifer can and often does show himself. He transforms into a celestial being, w
 
 - Often, he'll blur the line between [religion](religion-answers.md) and [politics](politics-conservativeliberal.md) and redirect people from the reality that the Jesus of the Bible hasn't changed in thousands of years.
 - He'll over-emphasize some parts of the Bible and downplay others until it removes all context for the [story](stories.md). This then creates a distant Jesus as if it were a historical biography instead of the living God who came to earth for humanity's sin.
-- By doing this, Christians can be directed zealously to all forms of [social justice](leftism.md) or an entirely new [cult](cults.md) instead of [Jesus' coming](jesus-returns.md) or [God's Kingdom](https://theologos.site/millennium/).
+- By doing this, Christians can be directed zealously to all forms of [social justice](leftism.md) or an entirely new [cult](culture-cults.md) instead of [Jesus' coming](jesus-returns.md) or [God's Kingdom](https://theologos.site/millennium/).
 - If he's *really* successful, he can make people believe a whole separate document as if it were [Scripture](bible.md)!
 
 ## It Doesn't Matter

@@ -23,7 +23,7 @@ As much as possible, try to stay alive:
 - Find others who share your values and learn [guerilla tactics](people-conflicts-war.md) that can help you stand a chance.
   - Even when you're incarcerated together, you have a chance to collude against the authorities if you're patient and [creative](mind-creativity.md).
 - The most significant means of fighting back is raising [awareness](awareness.md) among everyone else about the injustices.
-  - If people have been [heavily indoctrinated](cults.md) or are very [afraid](mind-feelings-fear.md), your ideas will be a trend that may only become powerful *after* you've become a martyr for the cause.
+  - If people have been [heavily indoctrinated](culture-cults.md) or are very [afraid](mind-feelings-fear.md), your ideas will be a trend that may only become powerful *after* you've become a martyr for the cause.
 
 If you have the means, flee the country:
 

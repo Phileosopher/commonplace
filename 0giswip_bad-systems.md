@@ -45,7 +45,7 @@ The [moral](morality.md) decay among individuals comes through several key motiv
 
 - Pressure to maintain [a numerical standard](math.md).
 - [Fear](mind-feelings-fear.md) that leads to silence about perceived issues, including [conflicts](people-conflicts.md) of interest.
-- The [dominant leadership](groups-small.md) has a nearly [cult](cults.md)-like [influence](influence.md) over the [youngest members](maturity.md) of the group.
+- The [dominant leadership](groups-small.md) has a nearly [cult](culture-cults.md)-like [influence](influence.md) over the [youngest members](maturity.md) of the group.
 - The secondary leadership is weak compared to the dominant leaders and many lower-ranking members, meaning they're [easy to control](image-distortion.md) and not [respected](power.md).
 - The group is *very* [influential](influence.md) in its [specialization](jobs-spcialization.md), meaning they're often above accountability and can justify [immoral actions](morality.md) with other good actions.
 

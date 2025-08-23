@@ -51,7 +51,7 @@ Judge not, that you not be judged.
 We all worship the same God.
 
 - An American proverb.
-- There are no other gods like God, though you'll see [many imitations](religion-answers.md) and [cults](cults.md) ([Deuteronomy 4:39](https://biblehub.com/deuteronomy/4-39.htm)).
+- There are no other gods like God, though you'll see [many imitations](religion-answers.md) and [cults](culture-cults.md) ([Deuteronomy 4:39](https://biblehub.com/deuteronomy/4-39.htm)).
 
 We are all God's children.
 

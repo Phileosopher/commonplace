@@ -160,14 +160,14 @@ People who have experienced MLM *never* feel ambivalent about it.
 Most of MLM is held together with shame.
 
 - If recruiter-vendor-clients want to develop their skills outside the company (which is an industry-standard practice in sales) the culture shames them.
-- Like any other [cult](cults.md), anyone who questions organizational decisions or requests more input will receive shame from the community.
+- Like any other [cult](culture-cults.md), anyone who questions organizational decisions or requests more input will receive shame from the community.
 
 Conversations with "old friends" tend to become awkward.
 
 - Most recruiter-vendor-clients are oblivious to how much shame they bring on themselves.
 - Lifelong friendships often unravel and groups of friends can separate.
 
-MLM representatives, like [cult members](cults.md), don't hold MLM directly responsible.
+MLM representatives, like [cult members](culture-cults.md), don't hold MLM directly responsible.
 
 - A long-term MLM representative will avoid family and friends, but won't hold the organization responsible for [influencing](power-influence.md) their decision.
 - They'll typically blame themselves, blame their family and friends for not supporting them, or blame the [economy](economics.md).
@@ -190,7 +190,7 @@ Most people end their MLM career the same way:
 The MLM organization is simply an enabler, not the cause.
 
 - MLM is typically someone acting from a pre-existing mental disorder.
-- Many MLM members transition into other [addictions](addiction.md) or [cults](cults.md), including other MLMs.
+- Many MLM members transition into other [addictions](addiction.md) or [cults](culture-cults.md), including other MLMs.
 
 Leaving MLM is difficult.
 

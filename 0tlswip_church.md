@@ -32,7 +32,7 @@ Without [persecution](hardship-persecution-church.md), church members usually fo
 - High neuroticism - there is tremendous value in miracles and [spiritual signs](spiritual-gifts.md)
 - Low neuroticism - there is tremendous value in [quiet, daily devotion](spiritual-exercises.md) to God
 
-Some churches become [cults](cults.md) when they take away from Jesus' simple statements, His deity, or invalidate His sacrifice.
+Some churches become [cults](culture-cults.md) when they take away from Jesus' simple statements, His deity, or invalidate His sacrifice.
 
 - If you're a new Christian, openly voice concerns if you don't [understand](understanding.md) that church's interpretation of the Bible.
 

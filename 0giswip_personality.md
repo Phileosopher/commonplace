@@ -262,7 +262,7 @@ Beyond that, there are a wide variety of mixtures when these 5 base components f
 - The [high-risk](socialrisk.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
 - [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, they tend to spend less time pondering and run society instead.
 - Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-spcialization.md) crime can be much broader on the range of conscientiousness.
-- [Religious](religion.md) leaders (except for [cults](cults.md)) are high conscientiousness and high neuroticism, with [popular](trends.md) religions often having high openness to experience and at least moderate extraversion as well.
+- [Religious](religion.md) leaders (except for [cults](culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](trends.md) religions often having high openness to experience and at least moderate extraversion as well.
 - Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](gender.md)).
 - People who foster plenty of nostalgia tend to foster [tradition and convention](habits.md), which requires high agreeableness, high conscientiousness, and low openness to experience.
 - [Funny people](humor.md) are typically high-openness (to see things in a [creative new way](mind-creativity.md)), moderate-agreeableness (to make jokes that involve pain), and low-enough conscientiousness to find comfort in breaking [rules](rules.md).

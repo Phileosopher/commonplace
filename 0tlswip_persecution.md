@@ -297,7 +297,7 @@ The most significant battle in prison is within your mind:
 - Winning against persecution requires keeping yourself together despite the [fears](mind-feelings-fear.md) and [unknown possibilities](unknown.md).
 - The *fear* of things is always worse than the thing itself.
 - You can maintain your strength through your [love](people-love.md) for others and ability to handle pain, but only through the Holy Spirit ([Zechariah 4:6](https://biblehub.com/zechariah/4-6.htm)).
-- The only way to resist [brainwashing](power-influence.md) and [indoctrination](cults.md) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
+- The only way to resist [brainwashing](power-influence.md) and [indoctrination](culture-cults.md) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
 - Many prisons are run by [image distortion](image-distortion.md) experts who fully control the prisoners' environment.
 
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:

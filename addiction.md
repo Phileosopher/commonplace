@@ -22,7 +22,7 @@ We only tend to notice addicts when they're *more* addicted than us. Below a cer
 
 Cultures will frequently share similar addictions, so most people end up believing themselves to be generally free of addiction to a substance while they cling desperately to something they never thought of as an addiction alongside their peers.
 
-If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](cults.md).
+If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](culture-cults.md).
 
 ## Transitioning
 

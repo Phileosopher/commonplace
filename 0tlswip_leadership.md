@@ -323,7 +323,7 @@ After becoming established, most leaders tend to [distrust](trust.md) new ideas.
 - At that point, they've forgotten their role as a messenger and curator and see themselves as an authority on a subject.
 - However, what they often find uncomfortable is a matter of personal preference or [theological semantics](theology.md).
 - When leaders distrust, they inspire the entire group to become distrustful.
-  - Unless it's [heresy](conflicts-christian.md), rejecting people with different viewpoints begins precedent that can lead to a [cult-like culture](cults.md).
+  - Unless it's [heresy](conflicts-christian.md), rejecting people with different viewpoints begins precedent that can lead to a [cult-like culture](culture-cults.md).
 
 Healthy [conflict management](conflicts-christian.md) means you may have to exile some people from a group.
 

@@ -168,7 +168,7 @@ By principle of leftism's ideal, left-leaning people tend to hate a few things:
 
 Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
 
-At its farthest, leftism is a [cult](cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
+At its farthest, leftism is a [cult](culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
 
 DEI (diversity, equity, and inclusion) and ESG (environmental, sustainability, and governance) are [managerial-class](groups-large.md) implementations of leftist ideologies. Many of them involve keeping a score that defines how leftward a person is inclined to act, and rewarding people toward that end.
 

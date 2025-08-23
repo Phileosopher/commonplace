@@ -784,7 +784,7 @@ Unfortunately, in our [over-information society](information.md), many marketing
 
 - There are severe [ethical issues](morality.md) with trying to steer people toward your product beyond simply informing them consciously.
 - We often find [meaning](meaning.md) in sacrifice itself, which makes us susceptible to becoming fanatics over expensive and unnecessary purchases.
-- [Cults](cults.md), of all types, are established and maintained with effective high-pressure marketing tactics and playing with expectations to motivate people to keep consuming.
+- [Cults](culture-cults.md), of all types, are established and maintained with effective high-pressure marketing tactics and playing with expectations to motivate people to keep consuming.
 
 Ever since Edward Bernays' propagation of Sigmund Freud's psychoanalytic approach, plenty of marketing has become the subtle art of psychological manipulation.
 
@@ -810,7 +810,7 @@ Marketing abuse is a vastly expensive and culturally damaging experience.
 - Each social platform has its own rules and requirements, which change somewhat frequently, and can be addicting to over-invest into.
 - [Fashionable](trends.md) things often cost 20-50% more for the same functionality, so effective branding is *not* particularly [budget-conscious](money-3_budget.md).
 - A marketed product can be so [creative](mind-creativity.md) that it's [art](values-quality.md) on its own, but also doesn't sell the product.
-- If a brand is *too* [influential](power-influence.md), it may evoke thoughts of [cult-like fanaticism](cults.md).
+- If a brand is *too* [influential](power-influence.md), it may evoke thoughts of [cult-like fanaticism](culture-cults.md).
 
 The simplest ways to detect marketing abuse are by observing "glittering generalities" and "title inflation".
 

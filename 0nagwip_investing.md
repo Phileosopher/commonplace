@@ -465,7 +465,7 @@ Observe the markets' large-scale [trends](trends.md):
 - History *very* frequently [remixes from the past](trends.md), so learn to detect [patterns](symbols.md) that happened decades ago.
 - Ignore the minute gyrations of the market, which is harder than it sounds.
   - We tend to get caught up in the emotional rush of a [well-marketed](marketing.md) product.
-  - Investors' subcultures can often closely reflect the [fanatical originators of cults](cults.md).
+  - Investors' subcultures can often closely reflect the [fanatical originators of cults](culture-cults.md).
 - Generally, it's a good idea to sell when there's hype and buy when there's panic.
 
 At any given moment, a market trend exists as one of 4 movements, and you should have a plan for each one:

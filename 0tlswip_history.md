@@ -418,7 +418,7 @@ Roman Catholic Ecumenical Council #20 in 1869-1870 - The First Vatican Council f
 
 The **Church of the Nazarene** arose as a set of mergers of various Holiness Movement churches, starting in 1907, though they slowed down on the mergers around the end of the late-2000's. Broadly, this was one of the first churches that pioneered the Ecumenical Movement (where churches try to come together and partner even though they're from different [cultures](culture.md)).
 
-In 1954, China's new government established the **Three-Self Patriotic Movement**, which taught a form of Christianity that was aligned with the interests of the Chinese Communist Party. It was disbanded during their Cultural Revolution from 1966 to 1976, then brought back in 1979 with even more [government oversight](politics-systems.md). It veers *very* close, if not outright, into [cult territory](cults.md).
+In 1954, China's new government established the **Three-Self Patriotic Movement**, which taught a form of Christianity that was aligned with the interests of the Chinese Communist Party. It was disbanded during their Cultural Revolution from 1966 to 1976, then brought back in 1979 with even more [government oversight](politics-systems.md). It veers *very* close, if not outright, into [cult territory](culture-cults.md).
 
 The Fourth Great Awakening happened in the late 1960s through the early 1970s [following World War II](https://gainedin.site/here-2/). During this time, many members of "mainline" Protestant churches left and went to the most conservative ones (e.g., Baptists, Lutherans), and is where most of the denominations of the Third Great Awakening culturally froze.
 
@@ -440,7 +440,7 @@ The **Evangelical Orthodox Church** was founded by former members of the parachu
 
 The **World Assemblies of God Fellowship** arose in 1989 as a cooperative of over 170 Pentecostal denominations, though it had existed on a much smaller scale since 1914. It served to give more connection and collaboration across the groups, given their [cultural differences](culture.md) and shared [theology](theology.md).
 
-The **New Apostolic Movement** spun off the Charismatic movements and was coined in 1996, which indicate that there are new Apostles that God appoints as an authority to run the Church. From one angle, their values could be considered a [cult](cults.md).
+The **New Apostolic Movement** spun off the Charismatic movements and was coined in 1996, which indicate that there are new Apostles that God appoints as an authority to run the Church. From one angle, their values could be considered a [cult](culture-cults.md).
 
 The Neo-charismatic Movement started in the early 1980s with groups like the Vineyard Movement that deviated from Calvary Chapel, and vastly expanded the scope of Charismatic spirituality.
 

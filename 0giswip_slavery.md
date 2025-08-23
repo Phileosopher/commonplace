@@ -73,7 +73,7 @@ Because slavery is the act of forcing power over another, it's difficult in free
 2. The corporate board owns the boss.
 3. The shareholders own the board.
 4. Many shareholders are employees.
-5. The [cult leader](cults.md) owns the members.
+5. The [cult leader](culture-cults.md) owns the members.
 
 ## Inversion
 

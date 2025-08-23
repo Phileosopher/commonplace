@@ -286,7 +286,7 @@ Eventually, you *will* get a question you don't know the answer to.
 - Don't run from the conflict or pretend they're not asking legitimate questions.
 - Focus on sharing ideas and alternate views, and don't get distracted by their behavior in the discussion ([John 4:37](https://biblehub.com/john/4-37.htm)).
 - Even if they become [verbally abusive](people-5_conflicts.md), your conduct can show Christ-like behavior.
-- The situation becomes vastly more complex (and more important) when [dealing with cults](cults.md).
+- The situation becomes vastly more complex (and more important) when [dealing with cults](culture-cults.md).
 
 Do *not* let yourself fall into a rhetorical trap.
 

@@ -327,7 +327,7 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
   - In this life, we're destined to battle hardship, which includes [not being able to fully trust those around us](hardship-persecution-church.md).
 - A variation of this is Christian nationalism, which indicates a person's Christian background should reflect on their [political views](politics-conservativeliberal.md).
   - While our political views can be shaped by our spirituality, [sound economic theory](economics.md) and [governance principles](legal-doctrines.md) will *not* have relevance once [Jesus returns](jesus-returns.md).
-  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war.md), or our [political activism](cults.md).
+  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war.md), or our [political activism](culture-cults.md).
 
 Second Work Theology - Salvation can be enhanced through the baptism of the Holy Spirit ([Acts 2:38](https://biblehub.com/acts/2-38.htm)):
 
@@ -557,11 +557,11 @@ Heresies about human nature:
 
 ## D. dults
 
-[The general definition of a cult](cults.md) is "group [addiction](addiction.md)", but Christians require a more specific definition:
+[The general definition of a cult](culture-cults.md) is "group [addiction](addiction.md)", but Christians require a more specific definition:
 
-- For Christians, a [cult](cults.md) is a culture that binds multiple heresies together.
+- For Christians, a [cult](culture-cults.md) is a culture that binds multiple heresies together.
 - Most cult deprogramming is designed under the presumption the person is a victim of mind control, but that's not always the case.
-- [Cult members](cults.md) often have a normal-enough way to approach most of their life that you wouldn't know just by observing them.
+- [Cult members](culture-cults.md) often have a normal-enough way to approach most of their life that you wouldn't know just by observing them.
 
 [Language](language.md) is a *massive* factor in most cults:
 

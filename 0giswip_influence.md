@@ -134,7 +134,7 @@ At its farthest, a *highly* influential and [immoral](morality.md) person can "g
 2. Provoke that person to [trust them implicitly](trust.md)
 3. Drive them to [distrust](unknown.md) their [perception](image.md)
 
-[Cults](cults.md) are effectively gaslighting entire groups of people.
+[Cults](culture-cults.md) are effectively gaslighting entire groups of people.
 
 Most [bad systems](mgmt-badsystems.md) are simply the [logical](logic.md) consequence of exploiting how people are influenced, mixed with anyone with a [scrupulous](morality.md) enough [personality](personality.md) in a position of [power](power.md) to [confront](people-conflicts.md) them.
 
