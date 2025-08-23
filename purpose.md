@@ -113,7 +113,7 @@ The universe is made of certain forms of inherent structure, so "problems" are a
 - [Religions](religion.md) approach [powerless](power.md) people who [feel](mind-feelings.md) discouraged by how their life has been going.
 - [Leftism](leftism.md) makes appeals to people relatively uninformed about [history](trends.md) or [politics](mgmt-badsystems.md) but discouraged by how their life is going.
 
-Most problems are simple, and we fix them [habitually](habits.md), but we tend to only focus on the largest ones. Some of those have many elements with a relatively straightforward solution (e.g., a messy room), but the problems that *really* ruin our [happiness](happiness.md) have many sensible solutions we must [decide](decisions.md) between. Our indecision about problems we *need* to fix comes mostly through a calculation of how much pain we'll experience.
+Most problems are simple, and we fix them [habitually](habits.md), but we tend to only focus on the largest ones. Some of those have many elements with a relatively straightforward solution (e.g., a messy room), but the problems that *really* ruin our [happiness](mind-feelings-happiness.md) have many sensible solutions we must [decide](decisions.md) between. Our indecision about problems we *need* to fix comes mostly through a calculation of how much pain we'll experience.
 
 Sometimes, problems merge with other problems to become unbreakable through any direct approach. When that happens, the only solution is to attack one of the core problems:
 

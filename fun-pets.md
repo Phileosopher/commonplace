@@ -9,9 +9,9 @@ Science has proven that pets give people healthier and longer lives:
 - Students perform better on [tests](mind-memory.md).
 - [PTSD](hardship-ptsd.md) victims have fewer trauma incidents with pets.
 - Pets can curb the consequences of [aging](hardship-aging.md).
-- Animals can detect your [stress](happiness-stress.md) and [addictions](addiction-substances.md).
+- Animals can detect your [stress](mind-feelings-happiness-stress.md) and [addictions](addiction-substances.md).
 
-Even with all the maintenance, pets make people [happier](happiness.md) and [successful](success-1_why.md).
+Even with all the maintenance, pets make people [happier](mind-feelings-happiness.md) and [successful](success-1_why.md).
 
 A pet, especially a dog, is also great practice for [small children](parenting-1_babies.md).
 

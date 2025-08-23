@@ -109,7 +109,7 @@ The Satan only risks direct assault if someone directly observes spiritual activ
 A. Rule out the possibility of any physical issues:
 
 - The Satan can easily sow distrust and fear in the Body through people who become "demon inspectors".
-- We can frequently think awful things and even hallucinate when we're [exhausted](sleep.md), [starved](body-2_diet.md), or [stressed](happiness-stress.md).
+- We can frequently think awful things and even hallucinate when we're [exhausted](sleep.md), [starved](body-2_diet.md), or [stressed](mind-feelings-happiness-stress.md).
 
 B. Search for any violation of biblical principles:
 
@@ -209,7 +209,7 @@ Pray for God to give you direct understanding of the truth:
 
 Most of the Satan's victories in Christians come through unforgiveness:
 
-- [Forgiveness](happiness-stress.md) isn't forgetting; it's choosing to submit the will.
+- [Forgiveness](mind-feelings-happiness-stress.md) isn't forgetting; it's choosing to submit the will.
 - Forgiveness agrees to live with the consequences of another person's sin, and requires us to pay for the evil we've suffered from someone else.
 - Forgiveness only comes from the heart, so openly acknowledge the hurt and hatred you're [feeling](mind-feelings.md).
 

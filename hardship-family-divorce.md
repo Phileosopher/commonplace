@@ -70,4 +70,4 @@ Don't worry too much about the new unspoken rules:
 
 - No matter what happens, you'll technically be shifting into a new [culture](culture.md), so don't expect to adapt to the new lifestyle right away.
 - Focus on surviving and rebuilding a life of your own, *away* from either of your parents.
-- In time, you'll learn to [find happiness](happiness-focus.md) in spite of the chaos.
+- In time, you'll learn to [find happiness](mind-feelings-happiness-focus.md) in spite of the chaos.

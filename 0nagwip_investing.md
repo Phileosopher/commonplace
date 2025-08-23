@@ -911,7 +911,7 @@ Business startup (building) - building a [profitable business](entrepreneur-1_wh
 
 - *Very* high risk (as well as lots of labor), very high returns, low/moderate taxes, low/moderate fees.
 - Pros:
-  - Opportunity to convert a [passion](happiness.md) into a stream of [income](money-1_why.md).
+  - Opportunity to convert a [passion](mind-feelings-happiness.md) into a stream of [income](money-1_why.md).
   - Chance to [successfully](success-1_why.md) build something rewarding and [meaningful](meaning.md).
   - You need marketable skills instead of severe risk tolerance.
 - Cons
@@ -1265,7 +1265,7 @@ The faster you give away money, the more it flows back to you.
 
 Listen to your [significant other's](relationships-3_marriage.md) advice, since they share your life with you, and it's their money too.
 
-[Satisfaction](happiness.md) and [meaning](meaning.md) *never* come directly from money.
+[Satisfaction](mind-feelings-happiness.md) and [meaning](meaning.md) *never* come directly from money.
 
 - Money is only one way to accomplish most [purposes](purpose.md), and also happens to be the least [creative](mind-creativity.md).
 

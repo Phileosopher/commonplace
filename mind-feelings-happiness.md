@@ -1,27 +1,40 @@
 
-# Why happiness matters
+# Happiness and why it matters
 
-Happiness, as defined by most people, is simply the absence of desire:
+Joy, or "happiness", is simply the absence of [desire](purpose.md):
 
 - We're not as concerned about "happiness" as much as "avoiding pain".
 - Most of the time, we want to change something to avoid being [in pain](hardship.md) or [bored](mind-creativity.md).
 - For most people, something is *always* missing.
 - Anything that people say brings happiness only brings happiness for *them*.
 
-Psychologists have identified three Happy Lives that can typically fulfill our desires:
+Since the absence of desire is easy to detect, we can most easily identify when we're happy.
+
+To [live well](goodlife.md), someone should find some form of happiness approximately 30-70% of the time during any given day.
+
+- Any more, and that person is going to take unnecessary [risks](safety.md).
+- Any less, and they run the chance of being generally miserable.
+
+We often attribute good things to joy, but [mentally well people](mind-feelings-happiness.md) find joy in [habitual](habits.md) things without provocation.
+
+We tend to experience joy more over things that [appear](image.md) to be new or [meaningful](meaning.md).
+
+The pursuit of happiness has a risk, though: if we live only in a state of joy too far, the pursuit of the feeling (or [the substance that gives it](addiction-substances.md)) becomes [addiction](addiction.md).
+
+Happiness comes through our recognition of [value](values-quality.md), and there are three "happy lives" that can typically fulfill our desires:
 
 - The "[Pleasant Life](mind-feelings.md)" creates as much positive emotion as possible.
 - The "[Good Life](goodlife.md)" is a constant, engaged flow of worthwhile new life experiences.
 - The "[Meaningful Life](meaning.md)" uses your natural strengths to serve a purpose larger than yourself.
 
-When we say "happiness", we often imply [meaningfulness](meaning.md), which is the only way to maintain [long-term success](success-6_humility.md).
+When we say "happiness", we often imply [meaningfulness](meaning.md), which is the only way to maintain [long-term success](success-6_humility.md), and is often *not* the Pleasant Life.
 
 - It's possible to [succeed](success-1_why.md) without satisfaction, but we reap rewards when we find meaning.
 
 Even when we don't strive for satisfaction in life, we still want it.
 
 - The avoidance of pain or bad consequences is still trying to reduce *un*happiness.
-- Happiness has many [hidden benefits](happiness-benefits.md)
+- Happiness has many [hidden benefits](mind-feelings-happiness-benefits.md)
 
 ## Happiness is a moral duty
 
@@ -79,9 +92,9 @@ Our physical reactions give context for our [feelings](mind-feelings.md) in rela
 
 Life is transient, and everything is temporary, so the simplest answer to happiness is to set low standards.
 
-The two avenues that interfere with life satisfaction are our [stressors](happiness-stress.md) and [focus](happiness-focus.md).
+The two avenues that interfere with life satisfaction are our [stressors](mind-feelings-happiness-stress.md) and [focus](mind-feelings-happiness-focus.md).
 
-- To accomplish this, we almost always need [human connection](happiness-connect.md)
+- To accomplish this, we almost always need [human connection](mind-feelings-happiness-connect.md)
 
 ## Not everything works for everyone
 

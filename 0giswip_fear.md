@@ -34,7 +34,7 @@ All fear is driven by perceived pain:
 - If it's in the present, it usually revolves around a [decision](decisions.md) that affects the future.
 - It can be self-pain or pain upon others, depending on who we [love](people-love.md) more at the moment.
 
-We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.
+We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.
 
 The pain itself broadly reaches to *everything* we are capable of [identifying](identity.md) with. It could be physical suffering to the body, emotional suffering, the feeling of loss, or any perception of the same in others'. Its only limit is that we feel it's something in [reality](reality.md).
 
@@ -56,7 +56,7 @@ The reason death is so difficult to take is from a few difficult realities combi
 2. Until we're near death, we have [no idea](unknown.md) what will cause it.
 3. Death always alludes to irreconcilable uncertainties of what happens afterward, and [there are many religions that can't all be correct at once](religion.md).
 
-To stay [mentally well](happiness.md), we've somehow found a remarkable way to keep it as [knowledge](understanding.md) separate from our [feelings](mind-feelings.md) until we [experience](understanding-certainty.md) death firsthand, which allows us to *not* think about it constantly moment-to-moment.
+To stay [mentally well](mind-feelings-happiness.md), we've somehow found a remarkable way to keep it as [knowledge](understanding.md) separate from our [feelings](mind-feelings.md) until we [experience](understanding-certainty.md) death firsthand, which allows us to *not* think about it constantly moment-to-moment.
 
 To fight death, we tend to obsess about preserving life. The survival impulses for food, water, and shelter are [themed](symbols.md) extensions of death. We try to prolong its inevitability with [risk management](safety-riskmgmt.md) tactics such as [weight management](body-2_diet.md) and [preventative healthcare](body-4_health.md).
 
@@ -145,7 +145,7 @@ If death had no consequences, nothing would be serious, which is why most [relig
 
 Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-4_friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
 
-We all must reconcile how to live our lives without fear, given how much death and pain we're invariably going to experience. Releasing the fear is a difficult lifelong process, but [is profoundly worth it](happiness.md).
+We all must reconcile how to live our lives without fear, given how much death and pain we're invariably going to experience. Releasing the fear is a difficult lifelong process, but [is profoundly worth it](mind-feelings-happiness.md).
 
 The [healthcare industry](body-4_health.md) (and [law](rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
 

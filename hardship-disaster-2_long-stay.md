@@ -18,7 +18,7 @@ You'll need a gun or other deadly long-distance weapon (such as a crossbow):
 Contrary to many fictional stories, you'll only survive with friends:
 
 - Groups of people can take turns watching the base, look out for each other, tend to each other's [wounds](safety-injury.md), and overall get *much* more [work](success-4_routine.md) done.
-- High-quality [friendships](people-4_friends.md) come from being a high-quality person, which is why the rules of [success](success-1_why.md) and [happiness](happiness.md) still apply even if the world nearly ends.
+- High-quality [friendships](people-4_friends.md) come from being a high-quality person, which is why the rules of [success](success-1_why.md) and [happiness](mind-feelings-happiness.md) still apply even if the world nearly ends.
 
 Make sure you've stockpiled paper [guidebooks](hardship-disaster-checklist.md) for the situation and skills you plan to use.
 
@@ -43,7 +43,7 @@ Make sure your anticipated lifestyle fits how you naturally function:
 
 The more you're preparing for future possible risks, the less you're living for right now (when there's no present disaster):
 
-- Very often, people are so consumed with full-blown preparedness that they forget to find [happiness](happiness.md) in the present moment.
+- Very often, people are so consumed with full-blown preparedness that they forget to find [happiness](mind-feelings-happiness.md) in the present moment.
 - You should *want* to make lifestyle decisions that prepare you for a disaster, not because you're afraid of something.
 
 ## Food

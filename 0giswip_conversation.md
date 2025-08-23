@@ -37,7 +37,7 @@ Further, even if we *could* precisely share an idea, we wouldn't have time to co
 We choose which and how many details to incorporate based on several factors:
 
 - Our interpretation of what our listener [wants](purpose.md) to see.
-- Our [personalities](personality.md) and [preferences](mind-feelings.md) for how we wish to approach something.
+- Our [personalities](personality.md) and [preferences](decisions.md) for how we wish to approach something.
 - The [social context](morality-taboo.md) for what we're sharing (e.g., location, available time, [purpose](purpose.md) of the event).
 - Our [interpretation](imagination.md) of the most successful means of [conveying information](pedagogy.md).
 
@@ -62,7 +62,7 @@ Second, most people misuse [language](language.md) (at least a little). It's occ
 
 The long-term effect of abusing words, no matter how, is that those words become a [relic of their times](trends.md) and depict more about the *speaker* than the idea the speaker was referencing.
 
-Finally, we tend to [identify](identity.md) with certain words or against other words. In doing this, we give *much* more [value](purpose.md) to those words than we realistically should. Nobody can be defined with only a few words, and identity with those words to the point of [excessive assertion](people-conflicts.md) is a product of [immaturity](maturity.md), even if it [hurts](mind-feelings.md) or causes [past damage](hardship-ptsd.md).
+Finally, we tend to [identify](identity.md) with certain words or against other words. In doing this, we give *much* more [value](purpose.md) to those words than we realistically should. Nobody can be defined with only a few words, and identity with those words to the point of [excessive assertion](people-conflicts.md) is a product of [immaturity](maturity.md), even if it [hurts](mind-feelings-sadness.md) or causes [past damage](hardship-ptsd.md).
 
 ## *Not* failing
 

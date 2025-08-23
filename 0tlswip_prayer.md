@@ -1,7 +1,7 @@
 
 We must [sincerely](understanding-certainty.md) and wholly pray to God, never mindlessly ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
-For most people, prayer is our most neglected spiritual discipline, and requires us to [recondition](habits.md) every time we are [afraid](mind-feelings-fear.md) or [upset](mind-feelings.md).
+For most people, prayer is our most neglected spiritual discipline, and requires us to [recondition](habits.md) every time we are [afraid](mind-feelings-fear.md) or [angry](mind-feelings-anger.md).
 
 - Most Christians' issues come from not spending enough time with God.
 - People who pray intentionally several times a day *never* become spiritually complacent.
@@ -92,7 +92,7 @@ Jesus gives Christians the best way to pray while maintaining a healthy perspect
 1. Use one of God's names and remember He's your heavenly father.
 2. Ask for His will to be done on earth in the same way He has it in heaven.
 3. Ask Him to provide today's physical needs.
-4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](happiness-stress.md) against you.
+4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](mind-feelings-happiness-stress.md) against you.
 5. Ask for [protection and safety](safety.md) from [evil](morality-evil.md) and destruction.
 6. Thank him and acknowledge His complete [power and authority](power.md).
 

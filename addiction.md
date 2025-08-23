@@ -79,7 +79,7 @@ The hope of something is usually far less than its likelihood, so an addict will
 
 Even when someone hates a substance (like most late-stage addicts do), its power comes from how it fulfills needs, and any combination of few base sensations drive *all* substance abuse:
 
-- Have a quick [thrill](happiness-perma.md).
+- Have a quick [thrill](mind-feelings-happiness-perma.md).
 - The need for [new experiences](unknown.md).
 - Give an escape from [reality](reality.md).
 - Provide the feeling of [productivity](success-4_routine.md).

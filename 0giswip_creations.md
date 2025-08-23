@@ -77,7 +77,7 @@ Every creator is trying to [convince](influence.md) a series of [ideas](values.m
 
 Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](decisions.md) how to add the experience to our [identity](identity.md).
 
-In the case of fiction, which is essentially [imagination](imagination.md) by adding/removing existing rules from [reality](reality.md), consumers have an unspoken contract with the creators: they'll accept that the creator is breaking the rules if they can [amuse them](mind-feelings.md) (e.g., time travel, a person existing in history who actually didn't). Failure to amuse often irritates the consumer because it wasn't a reciprocal [agreement](people-contracts.md).
+In the case of fiction, which is essentially [imagination](imagination.md) by adding/removing existing rules from [reality](reality.md), consumers have an unspoken contract with the creators: they'll accept that the creator is breaking the rules if they can [amuse them](mind-feelings-surprise.md) (e.g., time travel, a person existing in history who actually didn't). Failure to amuse often irritates the consumer because it wasn't a reciprocal [agreement](people-contracts.md).
 
 ### Future use
 

@@ -43,7 +43,7 @@ Even if we could theoretically add something [meaningful](meaning.md) to the uni
 
 We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](jesus-gospel.md) heavily steeped in [religious bias](religion.md).
 
-Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](decisions.md) is to [live for the present](happiness-stress.md) and the [near future](imagination.md) to the degree it affects the present.
+Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](imagination.md) to the degree it affects the present.
 
 * * * * *
 
@@ -55,7 +55,7 @@ People who are particularly intelligent can create [meaningful](meaning.md) [res
 
 If people lived only a few short decades longer (e.g., to age 150), they'd accomplish about 10 times the [results](mind-creativity-results.md). If there's any truth to [ancient religious texts](religion.md) implying that people lived hundreds of years, they'd have needed dramatically less time to accomplish *anything*.
 
-Living for the far future is a waste of effort. We can't prolong our life beyond managing our [health](body-4_health.md) and [stress](happiness-stress.md), and making anything of value that we can't enjoy in this life is a waste of time. No matter [what happens after we die](religion.md), we're the greatest consumers of our self-made [works](creations.md).
+Living for the far future is a waste of effort. We can't prolong our life beyond managing our [health](body-4_health.md) and [stress](mind-feelings-happiness-stress.md), and making anything of value that we can't enjoy in this life is a waste of time. No matter [what happens after we die](religion.md), we're the greatest consumers of our self-made [works](creations.md).
 
 We can only find [meaning](meaning.md) in this life, before we've died, and there's very little benefit to advancing the [body of knowledge](understanding.md) of any domain, [building a new technology](technology.md) or [creating anything new](creations.md) if we're trying to be memorialized forever.
 

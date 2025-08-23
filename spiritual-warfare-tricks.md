@@ -32,7 +32,7 @@ The devil's entire [purpose](purpose.md) is to create a constantly [fearful](min
 
 Demonic distortion comes through a few simple approaches:
 
-1. Focus on adverse states of mind, such as [fear](mind-feelings-fear.md) or lust, while ignoring the good states of mind, such as [joy](happiness.md) or [love](people-love.md).
+1. Focus on adverse states of mind, such as [fear](mind-feelings-fear.md) or lust, while ignoring the good states of mind, such as [joy](mind-feelings-happiness.md) or [love](people-love.md).
 2. Redirect believers' attention to things they *think* matters, but doesn't.
 3. Disconnect ideas from one another and distract people as long as possible to become [unaware](awareness.md) of their thoughts and need for God's healing.
 
@@ -74,7 +74,7 @@ While God is more concerned about what we [decide](decisions.md) and [do](mind-c
 2. Since backsliding creates unease, it'd normally push someone to full-blown repentance. So, he directs it toward reluctance about [God](god.md) and [spiritual things](identity-christian.md).
 3. Eventually, enough unease can inspire a dislike of religious duties like [Bible study](bible-study.md) or [prayer](spiritual-exercises-prayer.md), including dreading it beforehand and promptly forgetting it afterward.
 4. If this becomes a [habit](habits.md), that person will try to avoid [direct contact with God](god.md), even while praying.
-5. From there, nothing will give that person [pleasure](happiness.md). They'll spend countless hours doing unimportant, [unfulfilling](purpose.md) tasks, which can waste away some of the most [powerful](power.md) years of their life.
+5. From there, nothing will give that person [pleasure](mind-feelings-happiness.md). They'll spend countless hours doing unimportant, [unfulfilling](purpose.md) tasks, which can waste away some of the most [powerful](power.md) years of their life.
 
 This world isn't our home, and we as believers have an eternal place set aside for us. If the devil can, he tries to keep us alive until the dull monotony of daily life and steady moral decay of living on this earth take away our desire to die for Jesus:
 
@@ -86,7 +86,7 @@ This world isn't our home, and we as believers have an eternal place set aside f
 It's healthy to focus on the present state and the [very near future](imagination.md), so the Satan can make us anxious about the "[big picture](trends.md)" across months or decades:
 
 - There's no spiritual benefit to the next 50 years, since the only thing that exists is "now", a string of future versions of "now", and our memory of past "now". Thus, God wants us to always live in "now", with focus on [moral](morality.md) actions that God can bless in the future.
-- So, the devil tries to make us *constantly* preoccupied with the future, with "now" as merely a vehicle for the future instead of being worthy to [enjoy](happiness.md) in its own right. Anytime we focus on "now" *without* the future, he'll direct us to the painful portions of the past.
+- So, the devil tries to make us *constantly* preoccupied with the future, with "now" as merely a vehicle for the future instead of being worthy to [enjoy](mind-feelings-happiness.md) in its own right. Anytime we focus on "now" *without* the future, he'll direct us to the painful portions of the past.
 - Then, once we get closer to [death](hardship-death.md) and start considering [life beyond it](religion-answers.md), he can point us *backward* to fondly reminisce about the "good times" we once had, or may direct us toward selfish thoughts in the present.
 
 To destroy deeper [philosophical](philosophy.md) and theological thought, demons will refocus any transcendent thought toward the stream of daily activities and experiences:
@@ -97,7 +97,7 @@ To destroy deeper [philosophical](philosophy.md) and theological thought, demons
 
 God wants us to be constantly aware of what we don't [know](understanding.md) and not particularly concerned with what we *do* know, so the devil tries to make us lean on our understanding as much as possible:
 
-- God's [purpose](purpose.md) for humility is for us to [enjoy](happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](mind-creativity-results.md), and [relationships](groups-small.md) all [came from God](god.md) in the first place.
+- God's [purpose](purpose.md) for humility is for us to [enjoy](mind-feelings-happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](mind-creativity-results.md), and [relationships](groups-small.md) all [came from God](god.md) in the first place.
 - Generally, he'll provoke us to overthink things, creating [elaborate models](logic.md) we can then [require](imagination.md) everything else to conform into. This is easy for the Satan, proportionally to our intelligence.
 - However, if we *are* humbled by what we don't know, he'll draw attention to it to provoke conceit in us about how humble we are. If we self-invalidate ourselves, we may become conceited about *that* until we stop thinking about it.
 - When we finally believe an inconsistent contradiction, we can often attain a false humility inspired by self-hatred. That self-hatred comes through the fact that we can't seem to *ever* [imagine](imagination.md) anything that conforms to [reality](reality.md). At this point, the devil owns the person.
@@ -127,7 +127,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 
 [Humor](humor.md) is valuable for our healing, and the devil can distort it:
 
-- Humor can make almost anything [enjoyable](happiness.md) that would otherwise be inappropriate or immoral.
+- Humor can make almost anything [enjoyable](mind-feelings-happiness.md) that would otherwise be inappropriate or immoral.
 - However, by twisting it around, the devil can promote repulsive, awful [values](values.md) through immoral [characters](stories.md), simply because they're funny.
 - There's a profound [moral](morality.md) difference between enjoying base sexual humor for its merit as a joke and enjoying it to [imagine](imagination.md) performing it. The first is an acceptable appreciation of [quality](values-quality.md), but the second is simply lewdness.
 - Very [creative](mind-creativity.md) people can make completely harmless jokes about [virtue](morality.md), but humor about *[practicing](mind-creativity-results.md)* virtue can deaden us to [loving](people-love.md) it.
@@ -188,7 +188,7 @@ Any [conflict or struggle](conflicts-inner.md) is a golden opportunity for the d
 - First, the devil will try to inspire one of three types of sins, then redirect the natural [triggers](habits.md) from the situation into more destructive [purposes](purpose.md):
   1. Dishonorable, cowardly [fear](mind-feelings-fear.md). Since it's extremely painful, it can't last indefinitely. However, there *is* some pleasure in the other two, which can make them mental sanctuaries if a conflict persists long enough.
   2. Courage that breeds pride. This one, however, causes good things in society, so the devil tries to avoid it if possible unless [paired with rebellion](leftism.md). Any [virtues](morality.md) that come from it can be directed as merely conditional on their hardship, instead of coming as an outflow of hardship.
-  3. Hatred and rebellion at the causes of the struggle. The easiest way to sidestep the conscience's impulse for [forgiving and releasing](happiness-stress.md) is by directing hate to someone who harmed someone else that they [love](people-love.md). Then, the Satan can add shame as needed to keep someone miserable until despair takes hold.
+  3. Hatred and rebellion at the causes of the struggle. The easiest way to sidestep the conscience's impulse for [forgiving and releasing](mind-feelings-happiness-stress.md) is by directing hate to someone who harmed someone else that they [love](people-love.md). Then, the Satan can add shame as needed to keep someone miserable until despair takes hold.
 - [Making precautions](safety.md) tends to increase [fear](mind-feelings-fear.md), so it's easy to remove courage afterward:
   1. Inspire us to make increasingly more backup plans in case things ever go badly.
   2. Provoke subconscious superstition, if possible.
@@ -204,7 +204,7 @@ Even when he can't provoke us to conceited thinking or distract us with a bad [b
 
 The devil makes us hate people groups, but only as a passive, brewing hatred:
 
-- We tend to [connect](mind-feelings.md) with other people when we observe [details about their lives](stories.md).
+- We tend to [connect](people-friends.md) with other people when we observe [details about their lives](stories.md).
 - Thus, we may grow dissatisfied from general hate, and enough hatred without a motive toward [destruction](morality-evil.md) will make us focus on people enough that we realize we've been [unfair](morality-justice.md).
 - So, the devil tries to keep us distant from [understanding](understanding.md) anyone we don't like.
 - When people believe [fringe ideas](trends.md), the devil will work *very* hard to turn those beliefs into rebellious ideals.
@@ -225,14 +225,14 @@ After enough time away from other believers, demons can provoke someone to [go t
 [Spiritual leaders](mgmt-church.md) are especially susceptible to the Satan's tricks:
 
 - Some leaders will dilute their teaching to make it more palatable, but make it utterly irrelevant to their congregation.
-- Other leaders are so embittered that they teach audaciously only for the [shock effect](mind-feelings.md).
+- Other leaders are so embittered that they teach audaciously only for the [shock effect](mind-feelings-surprise.md).
 - Most church divisions come through his redirection of thoughts away from spiritual matters and theological differences and toward various procedures and minutiae of running a church (e.g., worship music, [marketing materials](marketing.md), organizational [decisions](decisions.md)).
 
 Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](changes.md) to the point that people feel peer pressure to build out their vices:
 
 - Heavy sinners who willfully rebel against God are uncommon in civilized society, but many smaller and pettier sinners are merely selfish, though the [fashions of the time](trends.md) make the trend adapt constantly in different directions.
 - The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-5_conflicts.md) and the source for more of his work.
-- Eventually, he'll bring about his [One World Order](jesus-returns.md) on a principle of "equality" and "democracy" to make a society of ineffective, self-satisfied, entitled, [unhappy](happiness.md) people.
+- Eventually, he'll bring about his [One World Order](jesus-returns.md) on a principle of "equality" and "democracy" to make a society of ineffective, self-satisfied, entitled, [unhappy](mind-feelings-happiness.md) people.
 
 ## Tricks About Himself
 

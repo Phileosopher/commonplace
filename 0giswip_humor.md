@@ -90,7 +90,7 @@ Humor isn't merely jokes and comedians. We find humor frequently throughout life
 
 Generally, the more painful *and* unique an experience is, the more humor we'll draw from it later once we get over the [trauma](hardship-ptsd.md) from it. We won't find humor in the present-tense if we're [afraid](mind-feelings-fear.md) of anything.
 
-One aspect hiding behind humor is that it's a reliable [stress relief](happiness-focus.md) from the awful things that can happen to us. It's why [successful](success-1_why.md) people tend to also have a sense of humor.
+One aspect hiding behind humor is that it's a reliable [stress relief](mind-feelings-happiness-focus.md) from the awful things that can happen to us. It's why [successful](success-1_why.md) people tend to also have a sense of humor.
 
 * * * * *
 
@@ -100,7 +100,7 @@ By understanding humor, we can understand the social commentary that hides behin
 
 There's a humorous side to absolutely every situation, even when it takes [creativity](mind-creativity.md) to find it. However, the seriousness of a [culture's](culture.md) [traditions](habits.md) (e.g., [religion](religion.md)) is often [harshly opposed](morality-taboo.md) to levity.
 
-Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
+Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](mind-feelings-happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
 
 One of the easiest ways to [influence](influence.md) others is through adding at least a bit of humor to pretty much everything. It's difficult to hate someone you find funny.
 

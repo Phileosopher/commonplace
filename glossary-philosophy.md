@@ -402,7 +402,7 @@ Pacifism - Peace is the greatest good.
 
 Perfectionism - People live [the good life](goodlife.md) to the degree that they successfully do things that are part of their nature.
 
-Randianism - People are best as heroic beings morally focused on [self-happiness](happiness.md), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
+Randianism - People are best as heroic beings morally focused on [self-happiness](mind-feelings-happiness.md), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
 
 Role ethics - People are best defined by their role in a [family](people-family.md).
 

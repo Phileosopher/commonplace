@@ -290,7 +290,7 @@ Status quo bias/tradition appeal - we prefer things the way they have been
 
 Anticipatory rationalization - we treat our [feelings](mind-feelings.md) about the future as if they were [reality](reality.md)
 
-Arrival fallacy - we believe that once we've [succeeded](success-1_why.md), we'll experience enduring [happiness](happiness-focus.md)
+Arrival fallacy - we believe that once we've [succeeded](success-1_why.md), we'll experience enduring [happiness](mind-feelings-happiness-focus.md)
 
 Conjunction fallacy - we expect multiple likelihoods are more likely than one likelihood
 

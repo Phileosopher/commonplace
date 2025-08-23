@@ -123,7 +123,7 @@ We tend to make worse decisions when we're stressed, proportional to how much we
 
 These feelings come from many sources, and aren't always connected directly with our decision:
 
-- General [unhappiness](happiness.md) from the situation or [past trauma](hardship-ptsd.md).
+- General [unhappiness](mind-feelings-happiness.md) from the situation or [past trauma](hardship-ptsd.md).
 - Far too many decisions to choose from, which can often come from modern [technology](technology.md)/[marketing](marketing.md).
 - Something beyond our control which we can [sense](mind-feelings.md) but don't [know](understanding.md) about.
 - Decision fatigue, which is stress from chronic [uncertainty](understanding-certainty.md) with many decisions.
@@ -147,7 +147,7 @@ Generally, people mull over decisions until they reach a certain degree of [cert
 
 Mulling over decisions can't satisfy us, mostly because more [thinking](logic.md) leads to a smaller likelihood of feeling comfort with the answer. At the same time, we're more likely to come to the best possible decisions.
 
-We need certainty proportionally to the scope of the [consequences](mind-creativity-results.md) we [predict](imagination.md) for a decision. Choosing a hamburger or chicken sandwich is merely a matter of [preference](mind-feelings.md), but choosing to [change jobs](jobs-1_why.md) or work for a promotion can affect *years* of a lifestyle.
+We need certainty proportionally to the scope of the [consequences](mind-creativity-results.md) we [predict](imagination.md) for a decision. Choosing a hamburger or chicken sandwich is merely a matter of [preference](decisions.md), but choosing to [change jobs](jobs-1_why.md) or work for a promotion can affect *years* of a lifestyle.
 
 The way we form our certainty has a profound impact on how we [perform](mind-creativity-results.md). If we [feel](mind-feelings.md) we're forced to do something (e.g., from [fear](mind-feelings-fear.md)), we're *far* less resourceful or responsive to [reality](reality.md) than when we feel we [purposed](purpose.md) ourselves to a decision. We also don't commit to any decision if we think we can reverse that decision at any given moment.
 

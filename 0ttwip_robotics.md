@@ -99,7 +99,7 @@ However, beyond the above concepts about how dumb they are at tasks, there are s
 - Like realistic [game development](computers-software-gamedev.md), [widespread adoption](trends.md) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
   - Robots are more relatable as they become more human-like, and they're very relatable when they're precisely human-like.
   - *Right* before they're fully relatable, there's an odd point where their behaviors and mannerisms are terrifying and creepy.
-  - At that point, a robot sabotages *all* human connection it may have gained, and will create a prolonged state of [unease](mind-feelings.md) for the observer.
+  - At that point, a robot sabotages *all* human connection it may have gained, and will create a prolonged state of [unease](mind-feelings-fear.md) for the observer.
 
 In particular, the uncanny valley can deter the public at large, since they're conditioned against it further through the genre of horror [stories](stories-storytellers.md) and spend more time among other humans than most roboticists. Human expressions are vastly complex, with precise timings and exceptions for absolutely *everything*, and robots simply [can't compete with the intuition required](computers-ai.md) to accomplish something that could pass as human.
 

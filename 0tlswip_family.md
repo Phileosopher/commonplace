@@ -98,7 +98,7 @@ Family households are never permanent, and God designed them to grow children in
 - Once you've seen them off, accept the inherent risks from their journey of faith in God.
 - If you *are* an adult and still with your parents, get out there and [succeed](success-1_why.md) already!
 
-God redeems and forgives, so fully [forgive](happiness-stress.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/bsb/luke/15.htm)).
+God redeems and forgives, so fully [forgive](mind-feelings-happiness-stress.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/bsb/luke/15.htm)).
 
 - Jesus demonstrates how much love fathers should have for their lost sons.
 - However, your adult child should still reap the [consequences](mind-creativity-results.md) of their decisions.

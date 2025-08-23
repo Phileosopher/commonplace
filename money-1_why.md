@@ -32,14 +32,14 @@ We always manage money toward our [desires](purpose.md) and [what we value](addi
 - If we can't manage a little, we'll mismanage a lot.
 - When someone has [a vision](success-3_goals.md) for what they want, they'll save, irrespective of their life circumstances.
 
-We naturally find [happiness](happiness.md) when we successfully save for a goal we want or serve a non-money-related purpose.
+We naturally find [happiness](mind-feelings-happiness.md) when we successfully save for a goal we want or serve a non-money-related purpose.
 
 ## Poor money management destroys lives
 
 When we react to feelings or interpret a crisis, we mismanage money:
 
 - We *do* need to manage a legitimate crisis, but it's often not the most efficient use of our resources.
-- Impulsively buying things is harder to resist when we're [stressed](happiness-stress.md).
+- Impulsively buying things is harder to resist when we're [stressed](mind-feelings-happiness-stress.md).
 - We only focus on the present when we don't expect the future to come.
 
 Long-term money mismanagement creates disastrous consequences:
@@ -80,14 +80,14 @@ The most moral giving should be on something that doesn't benefit the person giv
 - Giving or not giving money is a highly spiritual experience, since it reflects our higher values.
 - Owning more wealth than we naturally need is, in many ways, a waste of resources.
 
-Scientifically, we get the most [happiness](happiness.md) out of our money from helping others.
+Scientifically, we get the most [happiness](mind-feelings-happiness.md) out of our money from helping others.
 
 - Even when we're doing terribly, we have enough to at least *help* someone else.
 
 *Not* needing money is more valuable than wealth itself:
 
 - Wealthy people require constant maintenance of their possessions.
-- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-4_friends.md), [personal achievement](success-1_why.md), [inner satisfaction](happiness-focus.md), and the freedom to [make choices](decisions.md).
+- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-4_friends.md), [personal achievement](success-1_why.md), [inner satisfaction](mind-feelings-happiness-focus.md), and the freedom to [make choices](decisions.md).
 
 ## The portrayal of wealthy lifestyles is wrong
 

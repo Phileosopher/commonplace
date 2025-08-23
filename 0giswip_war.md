@@ -280,6 +280,6 @@ The losing side isn't always innocent or a victim. Often, they're only [distorti
 
 The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](culture.md) will [diverge](people-conflicts.md) wildly from the same event.
 
-Controlling and directing a riot is very difficult. While some people, especially the [Left](leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
+Controlling and directing a riot is very difficult. While some people, especially the [Left](leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 
 Any issues with war crimes is a misplaced [morality](morality.md). War itself is horrible, and to make rules for warfare without outright killing everyone who tries to kill anyone is technically a double standard.

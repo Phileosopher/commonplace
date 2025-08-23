@@ -20,9 +20,9 @@ We're not always aware of these motivators. From our early childhood, we've been
 
 The most significant [purpose](purpose.md) we ever have with others is to be important. Importance is others giving [value](purpose.md) to us, so this importance can take the form of just about anything. However, its motivation (at least at first before it becomes a [habitual](habits.md) desire) is the neglected [wish](purpose.md) to be [loved](people-love.md).
 
-Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](image.md). Most people typically [](mind-feelings.md)[feel](mind-feelings.md) like they're impostors because they don't realize *everyone else* is doing the same thing.
+Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](image.md). Most people typically [feel](mind-feelings.md) like they're impostors because they don't realize *everyone else* is doing the same thing.
 
-Even unpleasant actions like whining and complaining can be a form of influence. However, its purpose is to elicit [pity](mind-feelings.md) from others about an unattainable [purpose](purpose.md), *not* to gain power by implying we have power already. It's the easiest thing to do (i.e., feel sorry for yourself), so most people don't respect it, and it sabotages other forms of power in the process.
+Even unpleasant actions like whining and complaining can be a form of influence. However, its purpose is to elicit [pity](mind-feelings-sadness.md) from others about an unattainable [purpose](purpose.md), *not* to gain power by implying we have power already. It's the easiest thing to do (i.e., feel sorry for yourself), so most people don't respect it, and it sabotages other forms of power in the process.
 
 ## Form
 
@@ -51,7 +51,7 @@ People pay *close* attention to the messenger:
   - Staying quiet, taking time to go through things, or appearing unaffected by others' behavior or status can imply a *lot* of authority (i.e., "meekness").
   - However, if that authority is too strong, it may [terrify](mind-feelings-fear.md) people (especially if *their* [power](power.md) is threatened).
 - The message and messenger should associate with something the audience finds [advantageous](purpose.md) to them:
-  - Good things, such as lunch, good news, [happiness](happiness.md), relaxation, or [sex appeal](gender.md).
+  - Good things, such as lunch, good news, [happiness](mind-feelings-happiness.md), relaxation, or [sex appeal](gender.md).
   - [Scandalous](rules.md) or [specialized](jobs-spcialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
   - While appealing to their [mercy or gratitude](morality.md) may work, they're more frequently affected by [self-interest](purpose.md).
   - Sometimes (and especially if the messenger is [unscrupulous](morality-evil.md)), the messenger may possess incriminating information or circumstances that may harm the audience if the messenger did something with it.
@@ -147,7 +147,7 @@ Quite a few tricks can be abused to dishonestly gain others' favor:
 - Give small things with an implicit [meaning](meaning.md) to imply that person is important.
 - Declare a vague attribute about others (e.g., a strong-willed person), which provokes [bias](mind-bias.md) that confirms what they were alluding to.
 
-Further, people are more susceptible to influence when they're rushed, overwhelmed, distracted, [indifferent](purpose.md), [stressed](happiness-stress.md), or [distrustful](understanding-certainty.md).
+Further, people are more susceptible to influence when they're rushed, overwhelmed, distracted, [indifferent](purpose.md), [stressed](mind-feelings-happiness-stress.md), or [distrustful](understanding-certainty.md).
 
 When provoking people to give resources, our bias constructs a specific procedure that's so straightforward that most not-for-profit organizations are [bad systems](mgmt-badsystems.md) by abusing our systems of guilt and shame:
 

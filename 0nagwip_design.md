@@ -564,7 +564,7 @@ UX in General
 Colors
 
 - [A scientific synopsis of color](http://jamie-wong.com/post/color/)
-- [](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)[How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 
 Fitts' Law
 

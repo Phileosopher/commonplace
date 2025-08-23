@@ -310,7 +310,7 @@ Liars only confess when they see a reason for it:
 Only get a confession if it provides a tangible benefit:
 
 - Getting a liar to confess is difficult and unrewarding in itself.
-- For the sake of your [happiness](happiness.md) and [success](success-1_why.md), never interact with that person again once you've made hints that you know they're lying.
+- For the sake of your [happiness](mind-feelings-happiness.md) and [success](success-1_why.md), never interact with that person again once you've made hints that you know they're lying.
 
 A. Talk with the liar alone:
 

@@ -40,7 +40,7 @@ The [Natural World](reality.md):
 - Curiosity is good.
 - Curiosity has risks and rewards.
 - Keep an open mind to trying new things.
-- Knowing some things will sacrifice our sanity and [happiness](happiness.md).
+- Knowing some things will sacrifice our sanity and [happiness](mind-feelings-happiness.md).
 - Education is overrated.
 - Knowledge is power.
 - Science isn't always good for the world.
@@ -72,7 +72,7 @@ The [Natural World](reality.md):
 - [Living well](thegoodlife.md) is more than surviving.
 - Focus on [today](awareness.md), since you [might not live tomorrow](imagination.md).
 - The [journey](success-5_persevering.md) matters more than the destination.
-- Learn [satisfaction](happiness.md) with your lot in life.
+- Learn [satisfaction](mind-feelings-happiness.md) with your lot in life.
 - Do everything in moderation.
 - Rushing into things is foolish.
 - Hesitating means you'll miss out.

@@ -119,7 +119,7 @@ Whether you choose to change your mind about something or not, intimately unders
 
 Be careful when dealing with people in occupations that require trust issues (e.g., [cybersecurity](computers-cysec.md), quality control, [law enforcement](legal-safety.md)), as well as people with [pastimes](purpose.md) revolving around [survival](hardship-disaster-1_short.md). They're all finding useful [purposes](purpose.md) for [past trauma](hardship-ptsd.md), so they may misuse it.
 
-Some of the most brilliant minds on the planet are [miserable](happiness.md) because they can't trust [basic realities](reality.md), but [over-trusting the wrong things](image-distortion.md) can *also* lead to utter destruction.
+Some of the most brilliant minds on the planet are [miserable](mind-feelings-happiness.md) because they can't trust [basic realities](reality.md), but [over-trusting the wrong things](image-distortion.md) can *also* lead to utter destruction.
 
 Often, people with trust issues will try to overcompensate with [action](mind-creativity-results.md). Passionate zealots are often *less* trusting of their beliefs than the declared "moderates" of an ideal, though the [storytellers](stories-storytellers.md) will obscure this fact.
 

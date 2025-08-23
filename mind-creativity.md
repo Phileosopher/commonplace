@@ -142,7 +142,7 @@ At this stage, the creator has found a way to conceal *all* the messy parts of t
 
 Often, the creator will make the task look so easy that it'll feel like *anyone* could do it. They'll treat their tools or performance as if it were as familiar as breathing or walking.
 
-That creator has polished their skills until they can made something utterly profound. Observers from the outside will feel a [connection](mind-feelings.md) to the creation, but won't be able to describe it in words.
+That creator has polished their skills until they can made something utterly profound. Observers from the outside will feel a [connection](symbols.md) to the creation, but won't be able to describe it in words.
 
 Usually, the form of the creation will suggest things instead of telling them. As the consumer engages, they will [discover](purpose.md) that depth for themselves, but not outright. The experience will make the consumer feel like they're a participant in the work and not merely a spectator.
 

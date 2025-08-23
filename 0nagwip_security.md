@@ -14,7 +14,7 @@ We simply don't know the sources of what would harm our assets (#2) without [exp
 - [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.
 - If we have particularly strong [trust issues](trust.md), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
 
-In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](happiness-focus.md) or [a meaningful life](goodlife.md) beyond a certain point:
+In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](goodlife.md) beyond a certain point:
 
 - 1-10% of society provides any legitimate risks to assets, and the rest of the people would never even *think* of doing anything adverse to it.
 - Dwelling on security risks beyond necessity almost guarantees you'll transfer an appropriately heavy-handed approach to a minority of people toward everyone else.

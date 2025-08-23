@@ -190,7 +190,7 @@ Connecting with them serves several purposes:
 
 1. You may gain favor with them where they can educate you about potential risks further in the process.
 2. You get a reprieve from the organization's unfeeling culture.
-3. Your situation, however it turns out, isn't a complete waste because you made someone [happy](happiness.md).
+3. Your situation, however it turns out, isn't a complete waste because you made someone [happy](mind-feelings-happiness.md).
 4. Even if someone is lazy or pathetic, you make the workers important in a way they rarely receive, and they'll be more likely to assist you.
 
 Even if you don't care, they have a lousy job in a soulless system, and you do *not* have to deal with that system as much as they do.

@@ -10,7 +10,7 @@ As we grow older, we start falling behind the [trends](trends.md) until we event
 
 Contrary to popular belief, we tend to become happier as we get older:
 
-- As we gain [experience](understanding.md), our expectations tend to decrease until they're easier to [satisfy](happiness.md).
+- As we gain [experience](understanding.md), our expectations tend to decrease until they're easier to [satisfy](mind-feelings-happiness.md).
 - At the same time, this requires us to accept the losses that happened (wasted time, lost opportunities, etc.).
 
 At a certain point, people stop seeing you more like an institution than an individual:

@@ -165,12 +165,12 @@ Keep in mind that the *absolute worst* nature of people will come out after some
 
 - Often, wills aren't always clear about who gets what, and family members will become *severely* vicious if they see an opportunity to gain from it.
 - Adhere as much as possible to the [stated will](people-contracts.md), and don't get distracted by anyone's [manipulation tactics](people-5_conflicts.md).
-- If you've been unfairly treated, you can't control what the deceased had done, so [release it and move on](happiness-stress.md).
+- If you've been unfairly treated, you can't control what the deceased had done, so [release it and move on](mind-feelings-happiness-stress.md).
 
 Discuss with the executor of their estate to learn the provisions of their will:
 
 - The executor is usually stipulated *in* the will, which is [why a copy is so critical](legal-safety.md) to alleviate [conflicts](people-5_conflicts.md) later.
-- The beneficiaries can be anyone or anything, and can frequently show the true intent of the deceased, which is often [distressing](happiness-stress.md).
+- The beneficiaries can be anyone or anything, and can frequently show the true intent of the deceased, which is often [distressing](mind-feelings-happiness-stress.md).
 - If you *are* the executor, you're fulfilling a legal obligation to the departed, so don't let your bias adapt the will to your preferences.
 
 Review the wills/trusts and set terms in each document:
@@ -238,7 +238,7 @@ It's a blessing if your last days and weeks are relaxing:
 - As you age, it becomes increasingly crucial to find [answers to the greatest uncertainties](religion-answers.md).
 - Make sure *all* your possessions and money have either been transferred to someone else, or have been clearly communicated in writing somehow.
 - Let your friends and family prematurely grieve.
-- [Enjoy](happiness.md) the time you have, especially with those you love.
+- [Enjoy](mind-feelings-happiness.md) the time you have, especially with those you love.
 
 Don't obsess too much about opportunities you've missed:
 

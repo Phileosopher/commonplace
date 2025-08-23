@@ -52,7 +52,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Mental Basics
 
 - [Inner conflicts](conflicts-inner.md) aren't enough to interfere with [creating results](mind-creativity-results.md).
-- Have [inner peace](happiness.md) that's free of risk management thoughts.
+- Have [inner peace](mind-feelings-happiness.md) that's free of risk management thoughts.
 - No chance of being overwhelmed by a steady flow of [information](information.md).
 
 ## Long-Term Survival

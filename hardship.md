@@ -104,7 +104,7 @@ It's our nature to make stories about how the situation has played out, but *nev
 - When we suffer, we often tend to make a [story](stories.md) of our experiences that ends in "now".
   - Further, if we dwell on it, we tend to make stories based on that miserable story to imagine all the possible *future* bad stories that could happen.
 - You're in the middle of the story, and *every* good story has an awful middle.
-- The [stress](happiness-stress.md) of your experiences means you must think of yourself as "temporarily insane".
+- The [stress](mind-feelings-happiness-stress.md) of your experiences means you must think of yourself as "temporarily insane".
 
 The only cure to stopping the "temporary insanity" of emotional overwhelm is self-analysis and release:
 
@@ -133,7 +133,7 @@ Most professional therapists are simply assisting with our self-analysis process
 When you suffer, it's easy to escape:
 
 - There are a vast variety of [substances](addiction-substances.md) that allow us to numb the pain or hide away from it.
-- While it creates a temporary refuge from the pain, it's a major detriment to long-term [happiness](happiness.md).
+- While it creates a temporary refuge from the pain, it's a major detriment to long-term [happiness](mind-feelings-happiness.md).
 - Very frequently, once we start the habit of escaping from the pain, we will cycle through various substances.
 
 The only way to make any positive change requires blatant self-enforced honesty about reality:

@@ -9,7 +9,7 @@ While everyone experiences trauma, each person responds to it differently:
 
 - Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](mind-creativity-results.md) they want.
 - Others will [pursue something else](mind-creativity.md) to meet their needs.
-- Many people broadly complain about their pain until they've [released the stress from it](happiness-stress.md).
+- Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
 - In extreme cases, people will tell themselves they don't need something they legitimately need.
 
 If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
@@ -17,7 +17,7 @@ If we keep hold of that trauma, we feel stress from [remembering it](mind-memory
 The psychological term for PTSD is literally a **Disorder** of **Stress** from **Post-Trauma**, and everyone has it in some non-clinical form:
 
 1. Every person alive has suffered in a way that felt unfair.
-2. Every child and most adults are at least somewhat unaware of [effective mind management](happiness-focus.md).
+2. Every child and most adults are at least somewhat unaware of [effective mind management](mind-feelings-happiness-focus.md).
 
 Replaying memories is a subconscious habit, so everyone who has felt [pain or fear](mind-feelings-fear.md) has been disrupted from [perfect wellness](goodlife.md), even though they typically don't know it.
 
@@ -89,7 +89,7 @@ While we *can* halt a trauma loop by doing something a person won't expect, we m
 
 This aggregate of all our trauma and past pain is a separate "shadow" persona. It's not the authentic, sensible, modern version of us. Instead, it's an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past, lumped together by unpleasant [feelings](mind-feelings.md). Whether that persona wants good or bad things, it's never very effective at [doing anything](mind-creativity-results.md) because it's using old information with a limited scope of [perspective](understanding.md).
 
-Unawareness causes the least short-term pain, so most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
+Unawareness causes the least short-term pain, so most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
 
 However, with [experience and wisdom](maturity.md), they'll usually notice patterns from how others react to their [influence](power-influence.md). A select few will do some [soul](humanity.md)-searching and slow their [reactions](habits.md). If someone can integrate their shadow, they have a vast wealth of wisdom to draw from.
 
@@ -129,7 +129,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
 
 The only solution is to patiently expose ourselves to experiences that relive the trauma until we remove the harsh emotional ties to our past. While each person has their own way to fix it, there likely only one very specific way to release it that *all* trauma release mechanisms employ:
 
-1. Relive the trauma directly, then consciously [release associations with it](happiness-stress.md). The easiest way to do this is through [self-reflection](awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
+1. Relive the trauma directly, then consciously [release associations with it](mind-feelings-happiness-stress.md). The easiest way to do this is through [self-reflection](awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
 2. Discover for ourselves, plainly, what constitutes [the good life](goodlife.md) for ourselves if freed from trauma.
 3. Clarify to ourselves with *exact* [wording](language.md) the things that [trigger](habits.md) our trauma, which is typically a very specific and simple experience that gets in the way of our well-being.
 4. [Find a way](mind-creativity.md) to [circumvent](purpose.md) those tasks while performing all the aspects of a [good life](goodlife.md).

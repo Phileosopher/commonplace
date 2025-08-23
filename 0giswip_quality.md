@@ -29,7 +29,7 @@ Beauty floats within the animal essence, so there's a limited scope of what we c
 - Things often scale upward or downward with a similar form, which is the [symbolic](symbols.md) essence of [fractals](math.md).
 - Often, elements interconnect with other elements (like the way we [think and understand](understanding.md)).
 
-Some things are *never* beauty, and we have an easier time detecting them than beauty. Poop or a murder scene, for example, are universally interpreted as [disgusting](mind-feelings.md). But, with the right creator's [direction](mind-creativity.md), vulgar or wrong things become *connected* to a beautiful [idea](values.md) if they float back to a desirable [human universal](humanity-universals.md).
+Some things are *never* beauty, and we have an easier time detecting them than beauty. Poop or a murder scene, for example, are universally interpreted as [disgusting](mind-feelings-disgust.md). But, with the right creator's [direction](mind-creativity.md), vulgar or wrong things become *connected* to a beautiful [idea](values.md) if they float back to a desirable [human universal](humanity-universals.md).
 
 ## Relative
 
@@ -74,7 +74,7 @@ They're often skillful in maintaining their [reputation](image.md) in their clan
 
 ## Application
 
-There is an inherent beauty within many things, to the degree they reference nature and reality. We can gain tremendous [happiness](happiness.md) by finding it.
+There is an inherent beauty within many things, to the degree they reference nature and reality. We can gain tremendous [happiness](mind-feelings-happiness.md) by finding it.
 
 Beautiful art always has a [purpose](purpose.md) for its existence, and that purpose will be obvious because it'll tie to [human universals](humanity-universals.md). For that reason, if the created work's *title* has more [meaning](meaning.md) than the work itself (e.g., post-modern art, crayon drawings), it's a badly made work.
 

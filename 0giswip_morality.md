@@ -43,7 +43,7 @@ In practice, morality can only exist as a reference to [whatever authority forme
 - If Islam is true, [jihad](people-conflicts-war.md) has its time and place.
 - If Christianity is true, everyone must renounce their [ego](humanity.md) for the sake of [love](people-love.md).
 - If atheism is true, the preservation of the most fit of our species is ideal.
-- If pantheism, of any type, is true, then [self-happiness](happiness.md) is the greatest achievement.
+- If pantheism, of any type, is true, then [self-happiness](mind-feelings-happiness.md) is the greatest achievement.
 
 This slavery to the moral framework is *not* a bad thing. In fact, it's the only way we can ever derive [meaning](meaning.md).
 
@@ -65,8 +65,8 @@ Some virtues stand alone as states of being:
 - Kindness - [doing](mind-creativity-results.md) good things for others
 - Gratitude - [aware](awareness.md) and thankful for good things
 - Hope - [expects](imagination.md) the best and works toward it
-- Vitality/Joy - approaches life with [excitement and enthusiasm](happiness.md)
-- Forgiveness - [reconciles and releases](happiness-stress.md)
+- Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
+- Forgiveness - [reconciles and releases](mind-feelings-happiness-stress.md)
 
 Some virtues are responses to [conflicts](conflicts-inner.md):
 
@@ -132,7 +132,7 @@ The opposite of self-conceit is humility, which expresses a desire for others' w
 
 Humility isn't a focus *on* one's own faults, but more a focus *away* from oneself onto others. The evidence of a humble lifestyle is someone who makes others feel [important](people-love.md) without ever thinking of themselves strictly beyond tending to legitimate needs.
 
-The greatest moral hazard to any soul comes through false humility, which involves heavy preoccupation with [](image.md)[appearing](image.md) to consider others' best interests instead of doing it. A falsely humble person will live a paradoxical life of self-sacrifice for the purpose of gaining [reputation](image.md) and the [power](power.md) that comes with it. Ironically, most outsiders of religious [groups](groups-member.md) think of false humility when they observe a [religion](religion.md).
+The greatest moral hazard to any soul comes through false humility, which involves heavy preoccupation with [appearing](image.md) to consider others' best interests instead of doing it. A falsely humble person will live a paradoxical life of self-sacrifice for the purpose of gaining [reputation](image.md) and the [power](power.md) that comes with it. Ironically, most outsiders of religious [groups](groups-member.md) think of false humility when they observe a [religion](religion.md).
 
 Conceit has a cure, but requires a few things:
 

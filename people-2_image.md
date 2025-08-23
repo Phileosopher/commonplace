@@ -414,7 +414,7 @@ Store and prepare your garments properly:
 
 ## Hold yourself correctly
 
-Learn to be [happier](happiness.md) to *immediately* look more attractive.
+Learn to be [happier](mind-feelings-happiness.md) to *immediately* look more attractive.
 
 Improve your posture:
 

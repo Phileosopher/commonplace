@@ -33,7 +33,7 @@ We're supposed to let God renew our minds and put on a new self ([Ephesians 4:21
 We will slowly bear more [spiritual fruits](morality.md) over time ([Galatians 5:22-23](https://biblehub.com/bsb/galatians/5.htm)).
 
 - More [loving](people-love.md), kinder, gentler, humbler and more patient ([Colossians 3:12](https://biblehub.com/colossians/3-12.htm)).
-- More [joyful](happiness.md) and good.
+- More [joyful](mind-feelings-happiness.md) and good.
 - More [faithful](understanding-certainty.md).
 - More self-controlled, [disciplined](mind-creativity-results.md), and at peace.
 - An increased [state of humility](https://theologos.site/devotion-chaos/) ([Philippians 2:3](https://biblehub.com/philippians/2-3.htm)).

@@ -81,7 +81,7 @@ Focus on [obligations and commitments](people-contracts.md)
 
 [Rituals](culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
 
-Dominant feeling of [guilt](mind-feelings.md)
+Dominant feeling of [guilt](mind-feelings-shame.md)
 
 Avoids [risks](socialrisk.md) and adventures
 

@@ -137,7 +137,7 @@ F. Pay off your home (takes ~10 years):
 
 G. Devote most of your extra income to giving:
 
-- Spending money on others gives far more [satisfaction and happiness](happiness.md) than spending it on yourself.
+- Spending money on others gives far more [satisfaction and happiness](mind-feelings-happiness.md) than spending it on yourself.
 - Give strategically:
   - Treat people to quality-time activities.
   - Give generous gratuities and tips to service workers.

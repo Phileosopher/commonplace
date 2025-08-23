@@ -282,7 +282,7 @@ If you're a nobody citizen (which most of us are), you're not worth the time for
 
 Empires collapse when the people at large grow restless enough, so [staying connected with others in your community](groups-small.md) is your greatest defense against tyranny, and every empire eventually falls.
 
-Above all, learn to [release what you can't control](happiness-stress.md) and find satisfaction with your life.
+Above all, learn to [release what you can't control](mind-feelings-happiness-stress.md) and find satisfaction with your life.
 
 * * * * *
 

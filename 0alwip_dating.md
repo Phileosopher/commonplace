@@ -31,7 +31,7 @@ If you'd bet your life that they're the best you'll ever get, marry them, and do
 Most people want a life partner, but it comes with many risks:
 
 - Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](awareness.md), and you *will* be forced to change.
-- If you're [unhappy](happiness.md), you'll make others unhappy, no matter who they are.
+- If you're [unhappy](mind-feelings-happiness.md), you'll make others unhappy, no matter who they are.
   - Relationships give more *chances* at happiness, but you must use them.
 - Relationships dramatically alter lifestyle [habits](habits.md) about [health](body-4_health.md), [money](money-1_why.md), [housekeeping](home-housekeeping.md), and overall [success](success-1_why.md).
 - Relationships test the skills for [good boundaries](people-3_respect.md) far more than [more casual friendships](people-4_friends.md).
@@ -66,7 +66,7 @@ Emotional temperament:
 
 - How do you/they see themselves?
 - Are there any clear [addictions](addiction-substances.md)?
-- How [happy](happiness.md) are you/they about the present and future?
+- How [happy](mind-feelings-happiness.md) are you/they about the present and future?
 - How much emotional energy do you/they have?
 - How likely are you/they to blame others for problems or failures?
 - How much romantic passion and sensual desire do you/they naturally show?
@@ -198,7 +198,7 @@ When dating, you're essentially "selling" yourself:
     5. Of the remaining 50, 20-40 won't meet your standards, and you'll find 10 possible candidates you can get to know more.
 - [Marketing](marketing.md) is conveying your value at each event by improving how you appear:
   - Learn better [social](people-4_friends.md) and [speaking](language-speaking.md) skills.
-  - Find way to at least *appear* [successful](success-1_why.md) and [happy](happiness.md).
+  - Find way to at least *appear* [successful](success-1_why.md) and [happy](mind-feelings-happiness.md).
   - [Lose weight](body-2_diet.md) and learn to [have fun](fun.md).
 
 Search *everywhere* for a date:
@@ -235,7 +235,7 @@ If you let past experiences unrelated to them affect your judgment, you're being
 Nobody is perfect, so don't expect it:
 
 - Instead, prioritize your desires to see how many of the things you want, and how important they are to you.
-- No human, no matter how beautiful, attractive, or loving, [can give someone satisfaction in life](happiness.md).
+- No human, no matter how beautiful, attractive, or loving, [can give someone satisfaction in life](mind-feelings-happiness.md).
   - You can only love anyone as much as you love yourself.
 - Respect people for who they *are*, not what they could be or what you want them to be.
 
@@ -435,7 +435,7 @@ Wants the *concept* of you more than you as a person:
 They're perpetually miserable:
 
 - [Working through personal issues](awareness.md) is good, but not when everyone else is having fun!
-- Everyone has a baseline [happiness](happiness.md) they revert to when there's no outside pressure, and you can't change that.
+- Everyone has a baseline [happiness](mind-feelings-happiness.md) they revert to when there's no outside pressure, and you can't change that.
 - While you may temporarily improve their satisfaction, they'll eventually become accustomed to you.
 - The worst variation of this is someone who has become contentious about frivolous things.
 
@@ -660,7 +660,7 @@ Deciding on marriage has degrees of intention:
 4. Deep, considerate [analysis](logic.md) that weighs out pros and cons.
    - Examine the thoughts that lead to your instincts.
    - Fully understand both the good and bad consequences.
-   - Discover non-negotiable lines that they absolutely *must* value, believe, and do to make you [happy](happiness.md).
+   - Discover non-negotiable lines that they absolutely *must* value, believe, and do to make you [happy](mind-feelings-happiness.md).
 
 Some reasons are *terrible* to get married over:
 

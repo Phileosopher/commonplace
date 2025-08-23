@@ -123,7 +123,7 @@ Monitor wherever you still fail:
 
 Don't let yourself get soft:
 
-- The luxurious lifestyle that comes with wealth can sabotage our ability to [enjoy simple things](happiness-perma.md).
+- The luxurious lifestyle that comes with wealth can sabotage our ability to [enjoy simple things](mind-feelings-happiness-perma.md).
 - The lifestyle of associating with constantly successful people can impede our ability to empathize with most typical people.
 - When we start from a position of power, we tend to accomplish new things much more easily than when we start off, and we might forget what it means to persevere.
 - You start declining when you spend more time thinking about memories than dreams.
@@ -194,5 +194,5 @@ When you scale, you lose something in the process:
 Understand when your investment has achieved its results:
 
 - Remember what your original goals were, and where you are now.
-- You don't need to succeed at everything, and are likely [unhappy with life](happiness.md) if you believe you do.
+- You don't need to succeed at everything, and are likely [unhappy with life](mind-feelings-happiness.md) if you believe you do.
 - Sometimes, you simply need to let others explore *their* journey of success.

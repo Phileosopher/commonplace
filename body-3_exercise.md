@@ -229,7 +229,7 @@ Keep yourself safe by *never* sacrificing form throughout the movements:
 
 Even the bare minimum required for health (15 minutes a week) creates tremendous rewards:
 
-- You'll feel generally [better](happiness.md) about yourself.
+- You'll feel generally [better](mind-feelings-happiness.md) about yourself.
 - Your reserve for willpower to [persevere](success-5_persevering.md) will increase.
 - You'll receive a much more immediate effect for low-intensity exercise (e.g., walking) than rigorous workouts.
 

@@ -272,7 +272,7 @@ While walking, keep drinks from spilling by stirring them or breaking your caden
 
 ## Manage stress by adapting the challenge
 
-Our capacity to perform comes through how much [distress](happiness-stress.md) we feel:
+Our capacity to perform comes through how much [distress](mind-feelings-happiness-stress.md) we feel:
 
 - We feel eustress through necessary deadlines that inspire us to wake up, go to sleep, eat, and brush our teeth.
 - Distress is extra emotional energy devoted to uncontrollable risks.
@@ -393,7 +393,7 @@ Calculate how much time you'll spend improving the task versus how much time you
 - A task that takes 10 minutes once a month needs a whole year to "save time" if it takes 60 minutes to make it a 5-minute task.
 - On the other hand, a 60-second task fifty times a week shaved down to 15 seconds gives 37.5 minutes a week!
 
-Often, by *not* slowing down and having fun after working hard, people fall into a perpetual state of [near-burnout](happiness-stress.md) or [creative](mind-creativity.md) bankruptcy.
+Often, by *not* slowing down and having fun after working hard, people fall into a perpetual state of [near-burnout](mind-feelings-happiness-stress.md) or [creative](mind-creativity.md) bankruptcy.
 
 Be careful about tips that sound sensible but violate reality (e.g., make each day 6 hours, then you get 3 days of work out of each day).
 

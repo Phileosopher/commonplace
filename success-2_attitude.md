@@ -7,7 +7,7 @@ Your attitude, more than anything else, determines your limits to success:
 
 - Contrary to popular opinion, success doesn't require intelligence, originality, or virtue as much as the right attitude.
 - Our most challenging barriers are driven by [emotional beliefs](purpose.md), and are rarely physical.
-- We don't see alternatives or listen to the call to be better when we're [cynical](happiness-focus.md).
+- We don't see alternatives or listen to the call to be better when we're [cynical](mind-feelings-happiness-focus.md).
 - We can't set rational goals without an accurate view of the world.
 - Our optimism determines how well we recover from [hardship and failure](success-5_persevering.md).
 - We need worthwhile mentors and peers, and we tend to draw like-minded people near us.
@@ -321,7 +321,7 @@ We tend to get distracted by conflicting views:
 
 - Vague goals or noncommittal approach
 - [Disorganization](organization.md)
-- Low [self-esteem](happiness-focus.md) or a poor self-image
+- Low [self-esteem](mind-feelings-happiness-focus.md) or a poor self-image
 - Exaggerating our fears or downplaying benefits
 
 The more we know, the less we tend to do something.

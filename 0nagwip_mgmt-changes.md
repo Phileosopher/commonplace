@@ -160,7 +160,7 @@ Kotter's Change Management Theory:
 
 Kubler-Ross Change Management Framework:
 
-- It draws on the 5 stages of [how we handle losses](happiness-stress.md):
+- It draws on the 5 stages of [how we handle losses](mind-feelings-happiness-stress.md):
   1. Denial - not able to admit the change.
   2. Anger - generally upset in response to the change.
   3. Bargaining - doing what they can to prevent the change.

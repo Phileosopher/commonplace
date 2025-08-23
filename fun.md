@@ -11,7 +11,7 @@ We need fun as much as work for a healthy life:
 
 We are having fun when we're experiencing joy, [focused on the moment](awareness.md), and have lost track of time.
 
-- This is difficult to do if we're [stressed](happiness-stress.md) or have been busy [working hard](success-4_routine.md).
+- This is difficult to do if we're [stressed](mind-feelings-happiness-stress.md) or have been busy [working hard](success-4_routine.md).
 
 Each person has their own interpretation of "fun":
 

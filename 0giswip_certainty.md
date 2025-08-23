@@ -118,7 +118,7 @@ Hypnosis is all around us (especially through our [past trauma](hardship-ptsd.md
 
 Magical thinking exists proportionally to how self-trusting someone is, which frequently comes with intelligence. Thus, there are *tons* of magical thinkers in fields with intelligent people like [politics](groups-large.md), [academia](understanding.md), and [computer programming](https://trendless.tech) who won't acknowledge additional elements of [reality](reality.md) that they can't [know](understanding.md):
 
-- Many doctors believe the body's healing processes to be strictly mechanical and often neglect the psychosomatic [power](power.md) we possess through our [happiness](happiness.md) and beliefs.
+- Many doctors believe the body's healing processes to be strictly mechanical and often neglect the psychosomatic [power](power.md) we possess through our [happiness](mind-feelings-happiness.md) and beliefs.
 - Most scientists are religiously [atheist](religion.md), but claim to be non-religious.
 - When large groups have a [procedure or policy](mind-creativity-results.md) they deem necessary, they'll become [corrupted](mgmt-badsystems.md) while trying to maintain it.
 

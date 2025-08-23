@@ -14,7 +14,7 @@ The purpose of this list is to "prime" your mind for all the things you could do
 
 ## A. Get in the right frame of mind
 
-The job-seeking process is stressful, so continually [manage your anxiety](happiness-stress.md) throughout the experience.
+The job-seeking process is stressful, so continually [manage your anxiety](mind-feelings-happiness-stress.md) throughout the experience.
 
 Take control of your career:
 
@@ -43,7 +43,7 @@ Your job does *not* have to be something you love:
     - If the world doesn't need it, you'll find satisfaction, but won't feel any positive impact on the world.
     - If you're not good at it, you'll feel excited but always uncertain.
     - If you can't be paid for it, you'll find fullness in it, but won't get paid for it.
-- If you can do what you love, you're very lucky, but you can still be [satisfied with life](happiness-focus.md) in a job you don't love.
+- If you can do what you love, you're very lucky, but you can still be [satisfied with life](mind-feelings-happiness-focus.md) in a job you don't love.
 
 Don't worry about your present or future job title:
 
@@ -85,7 +85,7 @@ Every employer is using a roundabout approach to ask 3 simple questions to each 
 
 Since you'd have to *do* the job for them to accurately measure your aptitude, they must rely on how confident you look in an interview.
 
-A positive attitude that flows from [satisfaction](happiness.md) and [success](success-2_attitude.md) can cover experience gaps, but a bad attitude can blow any chance at a job.
+A positive attitude that flows from [satisfaction](mind-feelings-happiness.md) and [success](success-2_attitude.md) can cover experience gaps, but a bad attitude can blow any chance at a job.
 
 Your culture must mix well with a company's culture:
 
@@ -345,7 +345,7 @@ Look for jobs that fit where your life is going:
 There are *many* reasons you may want a demoted title when transitioning between roles:
 
 - You want more pay
-- You need less [stress](happiness-stress.md) or fewer responsibilities
+- You need less [stress](mind-feelings-happiness-stress.md) or fewer responsibilities
 - You want to do something more [meaningful](meaning.md)
 - You'd prefer to *not* [manage](mgmt-1_why.md) or oversee anyone
 - Companies or industries may have differing expectations for the same role

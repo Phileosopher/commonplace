@@ -1,5 +1,5 @@
 
-Without at least some good things in it, life has no [value](values-quality.md). Some of those good things may be [happiness](happiness.md), a meaningful [legacy](legacy.md), a worthy [purpose](purpose.md), outlandish [success](success-1_why.md), or simply the joy of [surviving](hardship-disaster-1_short.md), but [meaning](meaning.md) always requires experiencing at least some realization of an [ideal](values.md). Without a derived [purpose](purpose.md), a creature may be alive, but thriving as a [human](humanity.md) includes things beyond mere survival.
+Without at least some good things in it, life has no [value](values-quality.md). Some of those good things may be [happiness](mind-feelings-happiness.md), a meaningful [legacy](legacy.md), a worthy [purpose](purpose.md), outlandish [success](success-1_why.md), or simply the joy of [surviving](hardship-disaster-1_short.md), but [meaning](meaning.md) always requires experiencing at least some realization of an [ideal](values.md). Without a derived [purpose](purpose.md), a creature may be alive, but thriving as a [human](humanity.md) includes things beyond mere survival.
 
 In a broad sense, "the good life" comes when we experience consistent [meaning](meaning.md). While we can find meaning on a moment-by-moment basis, the good life is a *lifestyle* of meaning.
 
@@ -58,7 +58,7 @@ However, we need a bit more than merely "moderation":
 
 1. Routinely, we should stop mid-action and consider our purposes for our [routines and habits](habits.md). Otherwise, we'll be stuck doing things that don't conform to our [purposes](purpose.md). [Philosophers](philosophy.md) *constantly* ask seemingly inane questions to this end, but anyone can do it by just [slowing down](awareness.md).
 2. We must be free of [past trauma](hardship-ptsd.md) guiding our [purposes](purpose.md). The past only exists in our minds, so external force won't affect how we [feel](mind-feelings.md) about the past *nearly* as much as [introspection](awareness.md).
-3. We must stay optimistic about the [future](imagination.md), or we'll submit to our [fears](mind-feelings-fear.md). But, [reality](reality.md) is often terrifying. The easiest way to do this is by finding [gratitude](happiness-stress.md) over all things through observation, including life itself, but can also come through lowering [expectations](imagination.md). Most people require [religious habits](religion.md) to attain that optimism.
+3. We must stay optimistic about the [future](imagination.md), or we'll submit to our [fears](mind-feelings-fear.md). But, [reality](reality.md) is often terrifying. The easiest way to do this is by finding [gratitude](mind-feelings-happiness-stress.md) over all things through observation, including life itself, but can also come through lowering [expectations](imagination.md). Most people require [religious habits](religion.md) to attain that optimism.
 4. Finally, we must avoid pettiness whenever we can. We're all born petty because we feel everything so strongly in our experience. Not everyone must be a [philosopher](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](trends.md) to the next to prevent subjecting ourselves to [needless conflicts](people-conflicts.md) and [distorting](image-distortion.md) how we [understand](understanding.md) [reality](reality.md).
 
 We should be driven by [standards](values.md), not [opposition to something else](people-conflicts.md). The standards themselves have their [source of authority](power.md), so we must know what that standard is and whether we want to submit to it.
@@ -73,7 +73,7 @@ The evidence that a life is well-lived comes from several simultaneous condition
 
 1. The purposes of that person were legitimately [moral](morality.md).
 2. The person who experienced it found [meaning](meaning.md) by the very end of it.
-3. That person has [released](happiness.md) any resentment or bitterness from the pain of their experience.
+3. That person has [released](mind-feelings-happiness.md) any resentment or bitterness from the pain of their experience.
 4. Other people found meaning in that person's experience.
 
 Whether [society](culture.md) considers this a worthy endeavor is another matter entirely.

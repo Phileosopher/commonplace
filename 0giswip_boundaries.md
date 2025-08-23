@@ -106,7 +106,7 @@ The negotiation often involves making promises based on boundaries set in the fu
 
 The value we give to others in exchange for doing something (often represented as money) comes from a few variables:
 
-1. How much we don't [enjoy](mind-feelings.md) the task.
+1. How much we don't [enjoy](mind-feelings-happiness.md) the task.
 2. How difficult it would be for us to [learn or do it ourselves](understanding.md).
 3. How little we'd [trust](understanding-certainty.md) complete strangers to do the work.
 4. The likelihood we [believe](understanding-certainty.md) that person would succeed at the task.
@@ -186,7 +186,7 @@ The range of disagreement a person typically sits within will indicate plenty of
 3. Making counter-arguments means they simply want to prove themselves right or prove their opponent wrong.
 4. Contradicting means they want to stop the other person from continuing in their dialogue.
 5. Attacking the tone means they [feel strongly](mind-feelings.md) against the information, but don't [understand](understanding.md) why.
-6. Attacking a person means they are either [dysregulated](mind-feelings.md) or wish to [maintain an image](image-distortion.md).
+6. Attacking a person means they are either [dysregulated](awareness-dysregulation.md) or wish to [maintain an image](image-distortion.md).
 7. Blindly attacking means they feel they will lose something if they lose the argument.
 
 ### Conflict management skills
@@ -216,7 +216,7 @@ Often, in most conflicts, there's a differing [understanding](understanding.md) 
 
 We tend to [express](language.md) our conflicts as if we're dogmatic about a subject, but more often than not we simply have a [popular belief](understanding-certainty.md) in one side of something (e.g., someone may only be 55% convinced of a subject they're screaming about).
 
-When plenty of [power](power.md) is at stake or people are [breaking cultural norms](morality-taboo.md), most people are too [angry](mind-feelings.md) to reliably separate the values other people intend versus what they're expressing, and direct their focus strictly toward correctly *their* [understanding](understanding.md) of the problem.
+When plenty of [power](power.md) is at stake or people are [breaking cultural norms](morality-taboo.md), most people are too [angry](mind-feelings-anger.md) to reliably separate the values other people intend versus what they're expressing, and direct their focus strictly toward correctly *their* [understanding](understanding.md) of the problem.
 
 Thinking without assumptions in a conflict *can* become [habitual](habits.md), but it requires tremendous restraint.
 
@@ -226,7 +226,7 @@ Besides suspending judgment, defusing most conflicts require several additional 
 2. [Logically](logic.md) dismantle every justification the opponent is using, including any [distortions](image-distortion.md) of the truth to appeal to feelings.
 3. [Creatively](mind-creativity.md) find a mutually acceptable [solution](mind-creativity-results.md) beyond what everyone [sees](image.md) at the moment.
 4. Skillfully [influence](influence.md) them to see beyond their [convictions](understanding-certainty.md) to [understand](understanding.md) your perspective.
-5. Patiently avoid submitting to [anger](mind-feelings.md) through all of it, which usually requires ignoring the need to be [important](influence.md).
+5. Patiently avoid submitting to [anger](mind-feelings-anger.md) through all of it, which usually requires ignoring the need to be [important](influence.md).
 
 These skills are challenging to master, mostly because they *require* experience with difficult people to finesse them. Nobody likes pain, so the only qualified conflict-managers are either constantly seeking conflict, [grew up](people-family.md) around it, or worked around difficult people.
 

@@ -34,7 +34,7 @@ Contextual
 
 - Information - has the means to accomplish a very specific [purpose](purpose.md) with very specific knowledge, which can frequently include awareness of [trends](trends.md).
 - [Willful](purpose.md) Ignorance - by not knowing something, we don't have to [lie](people-lying.md) to claim ignorance.
-- Unforgiveness - by not [forgiving](happiness-stress.md) someone, we can use it for our [purposes](purpose.md) later through blame.
+- Unforgiveness - by not [forgiving](mind-feelings-happiness-stress.md) someone, we can use it for our [purposes](purpose.md) later through blame.
 - Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](mind-creativity-results.md).
 - Absence - by not having, we have the future means to gain something, which may increase another power in the process of gaining.
 - Blackmail/Extortion - by giving something, you can get something in return later.

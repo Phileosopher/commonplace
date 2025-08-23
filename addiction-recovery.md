@@ -5,7 +5,7 @@ Before anything, accept you have a [substance](addiction-substances.md) abuse pr
 
 You will *not* get out of your [addiction](addiction.md) by yourself:
 
-- That substance gave you [satisfaction](happiness-perma.md) and [meaning](meaning.md), so something else must fill that void.
+- That substance gave you [satisfaction](mind-feelings-happiness-perma.md) and [meaning](meaning.md), so something else must fill that void.
   - If you choose another substance, you're simply swapping out one mental poison for another.
 - Thus, the only "substance" that's safe is a supportive community of [friends](people-4_friends.md) and the release and personal relationship with [God](god.md).
 

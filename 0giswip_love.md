@@ -70,7 +70,7 @@ We can love a [deity](religion.md), [idea](values.md), [feeling](mind-feelings.m
 
 We can even love the *idea* of someone or something. In this case, we're stripping the [values](values.md) we like from the person and creating an [image](image.md) that [reality](reality.md) can't touch, often harming the actual being that was the [source of inspiration](mind-creativity.md).
 
-Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings.md) [change](changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
+Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings-happiness.md) [change](changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
 
 * * * * *
 
@@ -87,7 +87,7 @@ We can't see love directly from the [soul](humanity.md), but we can see it throu
 
 Small variations in portions of what we love creates profound differences in how we demonstrate it:
 
-- Loving someone's [safety](safety.md) more than their [happiness](happiness.md) will mean protecting them against their [will](purpose.md).
+- Loving someone's [safety](safety.md) more than their [happiness](mind-feelings-happiness.md) will mean protecting them against their [will](purpose.md).
 - Loving something's [use](purpose.md) over its [appearance](image.md) will mean we will damage its exterior over time.
 - Loving an idea's [application](decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
 - Loving our present self over our future self provokes us to avoid [planning for the future](imagination.md).

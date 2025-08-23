@@ -1,7 +1,7 @@
 
 # How to be organized
 
-We're constantly scanning our environment, so organization makes life simpler and gives us [mental peace](happiness-stress.md).
+We're constantly scanning our environment, so organization makes life simpler and gives us [mental peace](mind-feelings-happiness-stress.md).
 
 When we organize, we often [understand](understanding.md) what we have, which can create [meaning](meaning.md) in many small ways.
 
@@ -176,7 +176,7 @@ Look at its *current* and calculate its possible *future* worth:
 - Unless you consume or repair with the item, duplicate items typically waste space.
 - Only keep things you'd buy again.
 - Only keep broken things with a clear [written plan](success-3_goals.md) to fix or repurpose them.
-- Giving things away and buying them later will usually make you [happier](happiness.md) than indefinitely holding on to things.
+- Giving things away and buying them later will usually make you [happier](mind-feelings-happiness.md) than indefinitely holding on to things.
 
 ## Managing specific Zones
 

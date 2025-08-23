@@ -169,7 +169,7 @@ When considering a job offer for a company you've worked for before:
 - Think about your prior concerns before you left the last time.
 - Recall your experience with the company.
 - Observe whom you know and knew at the company.
-- Consider the impact that your new commute will have on your [time](success-3_goals.md), [auto condition](autos.md), and [happiness](happiness-stress.md).
+- Consider the impact that your new commute will have on your [time](success-3_goals.md), [auto condition](autos.md), and [happiness](mind-feelings-happiness-stress.md).
 
 Try to sweeten the deal with other relevant skills you can add to the job:
 

@@ -27,7 +27,7 @@ To find unconventional solutions, you must let yourself think outside the conven
 
 Reacting to impulses or survival instincts always produces conventional results:
 
-- Learn [happiness](happiness.md) and self-love to protect your sense of wellness.
+- Learn [happiness](mind-feelings-happiness.md) and self-love to protect your sense of wellness.
 - [Sleep enough](sleep.md) and [stay physically active](body-3_exercise.md).
 
 Stay constantly curious and perpetually interested in everything:
@@ -266,7 +266,7 @@ Drop the problem entirely and focus on something else that stimulates your imagi
 - [Relax](fun.md), [work on something else](success-4_routine.md), or take a long walk.
 - Don't relax with anything that will cause stress.
 
-This stage is usually the most difficult for people because [the stress from uncertainty](happiness-stress.md) usually turns off further creativity.
+This stage is usually the most difficult for people because [the stress from uncertainty](mind-feelings-happiness-stress.md) usually turns off further creativity.
 
 ### F. Wait for the spark
 
@@ -420,7 +420,7 @@ Most creative people have trouble finishing projects:
   - Too many ideas is as bad for the creative process as too few.
   - Jot down notes for other things that arise, since you must stay focused on what you're doing right now.
 - To avoid discouragement, find the smallest finish line possible.
-  - If you have something relevant, any [feelings](mind-feelings.md) of [self-worthlessness](happiness-connect.md) will make your endeavors more complicated.
+  - If you have something relevant, any [feelings](mind-feelings.md) of [self-worthlessness](mind-feelings-happiness-connect.md) will make your endeavors more complicated.
 - Your ability to stay [organized](organization.md) and [persevere](success-5_persevering.md) determines whether you actually *do* what you want to see accomplished.
 
 [Build a routine](success-4_routine.md), especially if you have a large project:

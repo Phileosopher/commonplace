@@ -102,7 +102,7 @@ Faith/Trust
 Feelings
 
 - We experience a vast variety of [feelings](mind-feelings.md), which are the same feelings every other human feels, based on a reaction in the brain stem.
-- We're [happy](happiness.md) when we don't feel anything is wrong, [scared](mind-feelings-fear.md) when we don't feel [safe](safety.md), angry when we feel [injustice](morality-justice.md), sad when we feel loss, and hopeful when we [believe](understanding-certainty.md) something.
+- We're [happy](mind-feelings-happiness.md) when we don't feel anything is wrong, [scared](mind-feelings-fear.md) when we don't feel [safe](safety.md), angry when we feel [injustice](morality-justice.md), sad when we feel loss, and hopeful when we [believe](understanding-certainty.md) something.
 - Our feelings are the basis for how we express [sympathy and empathy](people-4_friends.md).
 
 Focus
@@ -138,7 +138,7 @@ Heat
 Humor
 
 - We all find some things [funny](humor.md).
-- Those funny things are a "release valve" that we all need to be [happy](happiness-perma.md).
+- Those funny things are a "release valve" that we all need to be [happy](mind-feelings-happiness-perma.md).
 
 Identity
 

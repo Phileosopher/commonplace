@@ -44,7 +44,7 @@ The quality of a child's upbringing starts with the quality of their parent's lo
 Your success as a parent comes from [your success in everything else](success-1_why.md):
 
 - [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
-- Learn [self-awareness](awareness.md), [happiness](happiness.md), [stress management](happiness-stress.md), and [how to have fun](fun.md).
+- Learn [self-awareness](awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
 - [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-2_image.md).
 - Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
 - Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-3_marriage.md).
@@ -1072,7 +1072,7 @@ Don't let the child's needs eclipse the rest of your home:
   - Continue affirming your love and gratitude.
 - Make a date night co-op with three other sets of parents to babysit once a month and date night for the other three weeks.
 - This is easy to do because adults don't usually feel and express their needs as urgently as children.
-- If you prioritize them too much, they'll expect that you determine their [happiness](happiness.md), which eventually becomes impossible.
+- If you prioritize them too much, they'll expect that you determine their [happiness](mind-feelings-happiness.md), which eventually becomes impossible.
 - If you give children everything you have, they'll assume they can have everything of yours later.
 
 A child needs *both* a mother and a father figure:
@@ -1301,10 +1301,10 @@ Dysfunctional families adopt extreme roles:
 - They form into a few major archetypes:
   - Hero
     - That person is expected to fix everything, and they usually rise to that challenge.
-    - They usually outwork everyone and [succeed](success-1_why.md) tremendously, but are usually addicted to something, never feel good enough, and are rarely [happy](happiness.md).
+    - They usually outwork everyone and [succeed](success-1_why.md) tremendously, but are usually addicted to something, never feel good enough, and are rarely [happy](mind-feelings-happiness.md).
   - Scapegoat
     - That person is declared the *cause* of the family's problems, so they usually identify with the role and counter-cultural things.
-    - They usually have trouble with self-acceptance and finding [happiness](happiness.md) without a perceived enemy.
+    - They usually have trouble with self-acceptance and finding [happiness](mind-feelings-happiness.md) without a perceived enemy.
   - Lost Child
     - The family is so busy with the Scapegoat that they don't meet their needs, so they learn to be self-sufficient.
     - They usually have trouble working with others or when others depend on them.
@@ -1354,7 +1354,7 @@ Healthy family members, beyond their relationships, transform communities:
 
 - Positively changing a child's life dramatically changes the family's entire structure.
 - They have better social skills from their biological family's training.
-- A healthy family's nurturing, supportive environment fosters [success](success-1_why.md) and [happiness](happiness.md).
+- A healthy family's nurturing, supportive environment fosters [success](success-1_why.md) and [happiness](mind-feelings-happiness.md).
 - Great family rituals and customs infect other families that want to reproduce it.
 
 Capture the memories as often as you can:

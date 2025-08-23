@@ -96,7 +96,7 @@ Make decisions on workspace items you're taking:
 Schedule a final debrief meeting with your manager to tie up loose ends:
 
 - If you're uncertain, ask which trade secrets you're allowed to share.
-- While it may not be possible in most situations, one of the more [rewarding experiences](happiness-perma.md) in life is to leave a job on good terms.
+- While it may not be possible in most situations, one of the more [rewarding experiences](mind-feelings-happiness-perma.md) in life is to leave a job on good terms.
 
 Watch out for exit interviews:
 

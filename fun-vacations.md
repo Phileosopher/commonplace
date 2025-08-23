@@ -23,7 +23,7 @@ Set a budget:
 
 Plan for the worst and hope for the best:
 
-- False idealism ruins [your happiness](happiness.md) as soon as you encounter any issue.
+- False idealism ruins [your happiness](mind-feelings-happiness.md) as soon as you encounter any issue.
 - Before traveling, get a health checkup and immunization for anything from your destination country.
 - It can get cold at night, even in the tropics, so pack appropriately.
 
@@ -186,7 +186,7 @@ Have a [good attitude](success-2_attitude.md), and find something meaningful at 
 
 However, it isn't stress-free until you get there:
 
-- Traveling to and from the destination can be [stressful](happiness-stress.md).
+- Traveling to and from the destination can be [stressful](mind-feelings-happiness-stress.md).
 - Keep enough paper literature to read.
 - Add a half hour to each deadline to permit room for error and time to relax.
 - Expose yourself to natural light at your destination to quickly realign your body clock.

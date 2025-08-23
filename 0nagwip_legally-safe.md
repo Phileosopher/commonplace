@@ -803,7 +803,7 @@ The only way to stay fully out of trouble is to do absolutely nothing.
 
 Living a [good life](goodlife.md) requires operating *outside* the world of what's legally admissible.
 
-- We can only find [happiness](happiness.md) in our thought life, and legal matters are only the world *around* us.
+- We can only find [happiness](mind-feelings-happiness.md) in our thought life, and legal matters are only the world *around* us.
 
 Fight for a worthwhile fight.
 

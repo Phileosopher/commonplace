@@ -59,7 +59,7 @@ While information itself used to have value, most of the competition has now piv
 
 Further, this perpetual cosmopolitanism ensures that [cultures](culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
 
-Societies with this newly formed attention economy (i.e., most developed regions of the world) are a perpetual, monotonous hum of inattentive focus that provokes us to be [unhappy](happiness.md) and [unsuccessful](success-1_why.md), [mindlessly pursuing tasks](habits.md) and [substances](addiction-substances.md) that don't [resolve our concerns](purpose.md) or [give us meaning](meaning.md). It's the [human condition](humanity.md), but fast-forward.
+Societies with this newly formed attention economy (i.e., most developed regions of the world) are a perpetual, monotonous hum of inattentive focus that provokes us to be [unhappy](mind-feelings-happiness.md) and [unsuccessful](success-1_why.md), [mindlessly pursuing tasks](habits.md) and [substances](addiction-substances.md) that don't [resolve our concerns](purpose.md) or [give us meaning](meaning.md). It's the [human condition](humanity.md), but fast-forward.
 
 This issue isn't merely my opinion, either. [Someone at Google in 2013 made a call to minimize distraction](http://www.minimizedistraction.com/), and [time is now officially our most limited resource](https://ourworldindata.org/time-use).
 
@@ -82,7 +82,7 @@ For various reasons, most information doesn't have much value:
 
 Everyone has a limit on how much information they can consume.
 
-- When we reach that limit, we become [distracted](success-4_routine.md), [unhappy](happiness.md), [unable to retain information](mind-memory.md).
+- When we reach that limit, we become [distracted](success-4_routine.md), [unhappy](mind-feelings-happiness.md), [unable to retain information](mind-memory.md).
 - Over time, we can adapt that distracted and miserable state into [habitual, mindless autopilot](habits.md).
 - We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](personality.md).
 
@@ -148,7 +148,7 @@ The absolute *worst* thing to do with information is to half-mindlessly consume 
 
 We do well enough with any set of information, but the trouble arises from having too much information at *once*.
 
-- To be [successful](success-1_why.md) and [happy](happiness.md), we do need at least *some* flow of information.
+- To be [successful](success-1_why.md) and [happy](mind-feelings-happiness.md), we do need at least *some* flow of information.
 - We must receive enough information to feel reasonably informed about what may affect our decisions, but never so much that it provokes us to unhealthy thoughts or the urge to step away.
 
 Learn to say "no" to more information.
@@ -190,7 +190,7 @@ We consume because we're trying to stay informed about a few domains:
 
 These each require a different approach:
 
-1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](imagination.md), so we're sacrificing our [happiness](happiness.md) in the process.
+1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
 2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](decisions.md).
 3. Following people should never be unpleasant unless those people could create risks that we [may have to manage](safety-riskmgmt.md). Therefore, the experience should be a hobby, unless those people are simply the conduit for trends.
 
@@ -627,7 +627,7 @@ News outlets work *very* hard to trigger [emotions](mind-feelings.md).
 
 A social media website is simply every user submitting information into a database for everyone else's consumption.
 
-The quality of a social media site comes from *what* people create on it, so avoid wherever most of the users are petty, [toxic](happiness.md), or [generally unsuccessful](success-1_why.md).
+The quality of a social media site comes from *what* people create on it, so avoid wherever most of the users are petty, [toxic](mind-feelings-happiness.md), or [generally unsuccessful](success-1_why.md).
 
 Most people addicted to social media are more drawn to the chance at social interaction without the risks of in-person engagement.
 

@@ -11,7 +11,7 @@ We don't have enough words to 100% describe what we wish to convey, so we [try o
 
 Because of its emotional nature, a symbol represents many elements a person will associate with an object. Some of the most commonplace symbols in society include [language](language.md), [logos](marketing.md), and many [design concepts](design-uxui.md).
 
-People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts.md) typically comes through the [*feelings*](mind-feelings.md) associated toward that group.
+People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts.md) typically comes through the *[feelings](mind-feelings.md)* associated toward that group.
 
 Skill in [communication](people-conversation.md) allows us to use fewer symbols to say the same things. Expert writers can say more in three sentences than an awful writer can in ten pages.
 

@@ -95,7 +95,7 @@ Make sure to only speak from things you *know* for sure, and spell-check frequen
 
 Acknowledge you're wrong when you are, no need to hide it. In any online community, it's almost a certainty that you missed something that they know, and you can both coexist with your own value systems as long as you're both willing to yield that you *don't* have all the answers to everything.
 
-Even then, there are mentally unwell people who *will* try to force an argument ("trolling"). While blocking them is often a good idea if it gets toxic, make sure that person in real life won't take further action. If there are lots of trolls in a portion of the internet, stay away from it for your own [happiness](happiness.md).
+Even then, there are mentally unwell people who *will* try to force an argument ("trolling"). While blocking them is often a good idea if it gets toxic, make sure that person in real life won't take further action. If there are lots of trolls in a portion of the internet, stay away from it for your own [happiness](mind-feelings-happiness.md).
 
 ### Large Organizations
 

@@ -17,7 +17,7 @@ Beyond sports, board games, and video games, *most* life is a game, with a few d
 - Purposes keep moving around as people act.
 - The only reliable [math](math.md) to keep score is through arbitrary things like money or time.
 - Because of many additional complexities, it's harder to discern others' motivations and thoughts than in a game.
-- The "end" of the game isn't clear, since it may be [during old age](maturity.md), attaining "[the good life](goodlife.md)" through [happiness](happiness.md) or [success](success-1_why.md), or [whatever comes after death](religion.md).
+- The "end" of the game isn't clear, since it may be [during old age](maturity.md), attaining "[the good life](goodlife.md)" through [happiness](mind-feelings-happiness.md) or [success](success-1_why.md), or [whatever comes after death](religion.md).
 
 To recreate [reality](reality.md) while not precisely reproducing the most unpleasant parts of it, games adapt reality along a few dimensions:
 

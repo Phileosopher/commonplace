@@ -317,7 +317,7 @@ While there are many relative aspects to charm from [culture](culture.md), there
 - People are interested in hearing what they're saying.
 - People want to see more of that person's life.
 - Even when they disagree, they find that person entertaining or interesting.
-- They're frequently excellent communicators in [writing](language-writing.md) or [speech](language-speaking.md) who exude at least some [optimism](happiness.md).
+- They're frequently excellent communicators in [writing](language-writing.md) or [speech](language-speaking.md) who exude at least some [optimism](mind-feelings-happiness.md).
 - They're almost always confident from past [successes](success-1_why.md) they've [identified](identity.md) with.
 
 Charming people are often more trusting than most:

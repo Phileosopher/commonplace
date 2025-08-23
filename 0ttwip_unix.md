@@ -27,7 +27,7 @@ The culture of Unix and Linux holds together with a philosophical framework driv
 
 Each GNU/Linux distro is configured and adapted to specific preferences or functions:
 
-- Many of them are designed as one-size-fits-all desktop environment, like [Ubuntu](https://ubuntu.com/) or [](https://www.debian.org/)[Fedora](https://getfedora.org/).
+- Many of them are designed as one-size-fits-all desktop environment, like [Ubuntu](https://ubuntu.com/) (off of [Debian](https://www.debian.org/)) or [Fedora](https://getfedora.org/).
 - A few are designed as a *very* general-purpose OS like [Arch Linux](https://archlinux.org/), mostly because they don't have many features built-in, meaning that only power users can set them up correctly.
 - Some are designed to *really* cater to new Linux users, like [Zorin OS](https://zorin.com/).
 - A few are for [PenTesting](computers-cysec-pentest.md), like [Kali Linux](https://www.kali.org/) or [Pentoo](https://pentoo.ch/).

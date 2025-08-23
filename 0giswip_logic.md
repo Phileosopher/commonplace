@@ -186,7 +186,7 @@ We can all become sensible by doing the following, but they all require a great 
 
 Logic is frequently built on [feelings](mind-feelings.md) within our [perception](image.md), so we must consider *why* we believe things whenever we [disagree](people-conflicts.md) with others. Instead of fighting against an outside force, our [largest conflicts](conflicts-inner.md) should be in our minds (and typically are anyway).
 
-Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](image.md)[](image.md).
+Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](image.md).
 
 Deductive logic makes us more [certain](understanding-certainty.md) about everything related to it, so we must seek it out whenever possible. For example, you may not know if someone will say "yes", but you *do* know that people *never* refuse certain things without other reasons.
 

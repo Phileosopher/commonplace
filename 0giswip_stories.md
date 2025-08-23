@@ -253,7 +253,7 @@ Taken far enough, our understanding of a single word, data point, or sensation i
 
 We retroactively make stories automatically about our lives. History is the stories of our past woven into one large story that leads to the present day. [Journalism](stories-storytellers.md) is stories about the present, with varying degrees of [truth](reality.md) to them. Mentally well people use plenty of [humor](humor.md) throughout any story they make.
 
-Unfortunately, we tend to make the present moment or the [foreseeable future](imagination.md) the end of our stories unless we [believe in something](understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](happiness.md) in hardship.
+Unfortunately, we tend to make the present moment or the [foreseeable future](imagination.md) the end of our stories unless we [believe in something](understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](mind-feelings-happiness.md) in hardship.
 
 Since every story is [inspired](mind-creativity.md) by other stories and [reality](reality.md), stories can be [analyzed](logic.md) and reproduced by observing specific [values](values.md) called "[tropes](http://tvtropes.org)". Every decent [storyteller](stories-storytellers.md), beyond conveying [feeling](mind-feelings.md), is also aware of where a trope's [trend](trends.md) currently is for their audience.
 

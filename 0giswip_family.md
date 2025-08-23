@@ -90,7 +90,7 @@ Once a child reaches adulthood, the balance of how they prioritized their role m
 
 Every [culture](culture.md) needs parents to give [value](meaning.md) to children. Otherwise, without that belief, all of society would unravel simply from a severe drop in reproduction rates mixed with an [elder-balanced](maturity.md) population demographic that wouldn't be able to sustain itself.
 
-After a child becomes a parent a few decades later, they will deliver more [pain](mind-feelings.md) on their children than they realize, and sometimes *worse* than a generation prior. Parents usually trust their [intuition](mind-feelings.md), which creates an [illusion](image.md) they're doing a better job than *their* parents, which can begin a downward spiral of [conceit](morality-evil.md) for many parents.
+After a child becomes a parent a few decades later, they will deliver more [pain](hardship-family.md) on their children than they realize, and sometimes *worse* than a generation prior. Parents usually trust their [intuition](mind-feelings.md), which creates an [illusion](image.md) they're doing a better job than *their* parents, which can begin a downward spiral of [conceit](morality-evil.md) for many parents.
 
 If parents *do* succeed, their children will create children of their own, and becoming a grandparent means a child was successfully taught enough to [find a mate](gender.md) and reproduce again.
 

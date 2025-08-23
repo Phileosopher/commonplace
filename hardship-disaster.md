@@ -72,7 +72,7 @@ We tend to preoccupy ourselves with unlikely events and ignore likely ones, and 
 Dwelling on long-term disasters will utterly destroy *any* satisfaction you may find in life:
 
 - You only need to know what to *generally* do, since it's impossible to plan for all possible long-term disasters.
-- Further, focusing on worst-case scenarios tends to make us more unreasonable (and sometimes violent), which can sabotage *everyone's* [happiness](happiness.md).
+- Further, focusing on worst-case scenarios tends to make us more unreasonable (and sometimes violent), which can sabotage *everyone's* [happiness](mind-feelings-happiness.md).
 
 To counter anxiety, we must focus only on what will *likely* happen, then worry about the unlikely things if they arise:
 
@@ -114,7 +114,7 @@ Your mental state is just as important as your physical preparedness:
 5. If you're exposed to risks, breathe slowly to calm yourself and [maintain awareness](awareness.md).
 6. Assert what you know you're capable of to suppress the [fears](mind-feelings-fear.md) that arise, which may boil over into a physical yell.
 
-Plan for the worst likely event, and [forgive yourself](happiness-stress.md) if something happens you had no control over.
+Plan for the worst likely event, and [forgive yourself](mind-feelings-happiness-stress.md) if something happens you had no control over.
 
 Be prepared for [death](hardship-death.md), for either yourself or anyone you love, and [learn to recover from whatever happens](hardship.md).
 

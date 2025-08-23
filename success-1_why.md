@@ -21,7 +21,7 @@ In some ways, success is difficult to define:
 However, each culture values different things:
 
 - The USA values a fulfilling [career](jobs-1_why.md) and [family](people-family.md).
-- Europe values health and [satisfaction with life](happiness.md).
+- Europe values health and [satisfaction with life](mind-feelings-happiness.md).
 - Latin America values [education](understanding.md).
 - Saudi Arabia, Nepal, Ukraine, and some African countries measure success with [money](money-1_why.md).
 - Wealthy nations often find it in safety and [housing](home-buysell.md).
@@ -62,7 +62,7 @@ Don't obsess about your fame, recognition, and reputation:
 
 - Living the way others expect will make you very miserable long-term.
 - Fame and reputation are fickle and depend heavily on how people feel about your publicly shared values.
-- Famous people often suffer from a *complete* lack of privacy, which makes it very difficult for them to find [happiness](happiness.md).
+- Famous people often suffer from a *complete* lack of privacy, which makes it very difficult for them to find [happiness](mind-feelings-happiness.md).
 - A reputation *is* a very useful [insurance policy](insurance.md) against public defamation, but it requires *lots* of maintenance and doesn't have intrinsic value.
 
 Your intelligence and knowledge aren't that important:
@@ -79,7 +79,7 @@ You have no clear picture of "balance":
 
 Happiness is a terrible measurement of success:
 
-- We find [happiness](happiness.md) in the absence of desire, which has no bearing on our environment.
+- We find [happiness](mind-feelings-happiness.md) in the absence of desire, which has no bearing on our environment.
 - Depending on its scope, dissatisfaction is often a *requirement* to pursue success.
 
 Don't compare yourself to others:
@@ -149,7 +149,7 @@ For most of us, our success will start with smaller goals:
 - Character
   - [Understand](understanding.md) without passing judgment
   - Do the right thing without looking for praise
-  - [Forgive and release](happiness-stress.md) everything
+  - [Forgive and release](mind-feelings-happiness-stress.md) everything
   - Find what causes facts and experiences, without excuses
 - Reputation
   - Reconcile quickly with others when possible

@@ -84,7 +84,7 @@ To the casual reader seeking [meaning](meaning.md) through post-modern writing, 
 
 The trouble with this thinking, though, is that it only deconstructs. In postmodern thought, anything absolute, no matter how [good or right](morality.md), will be dismantled into vagueness and nothingness. Its natural consequence will always strip [meaning](meaning.md) from whatever it touches.
 
-Whether it was through finding [happiness](happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](understanding.md) in the first place.
+Whether it was through finding [happiness](mind-feelings-happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](understanding.md) in the first place.
 
 Ironically, the modern philosophers were utterly dismayed at their discovery of the meaningless. They were seeking truth, but without considering whether something was good or beautiful.
 

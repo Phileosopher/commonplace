@@ -101,7 +101,7 @@ To maintain their innocence, inform them as much as possible about *everything* 
 
 - It's counter-intuitive, but they can preserve their innocence when they're educated without the awful experiences that usually come with that education.
 - They should know about sex and sexuality, including consequences for actions as well as why people still do it.
-- Make them aware of the types of recreational drugs, how they feel, and their long-term effects on [career](jobs-1_why.md) and [happiness](happiness.md).
+- Make them aware of the types of recreational drugs, how they feel, and their long-term effects on [career](jobs-1_why.md) and [happiness](mind-feelings-happiness.md).
 
 You can't stop them from experiencing what they want:
 
@@ -236,6 +236,6 @@ If you did an adequate job, they'll come back:
 
 A child's teenage years are filled with tumultuous change, which is their rite of passage into adulthood.
 
-Your leadership through [self-satisfaction](happiness.md) and [individual successes](success-1_why.md) will gain more influence with them than any of the [guidance](parenting-2_children.md) you've been accustomed to giving.
+Your leadership through [self-satisfaction](mind-feelings-happiness.md) and [individual successes](success-1_why.md) will gain more influence with them than any of the [guidance](parenting-2_children.md) you've been accustomed to giving.
 
 If you release them well, they can feel free to explore the world and [find a meaningful life](success-1_why.md) for themselves on their own.

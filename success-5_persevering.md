@@ -60,7 +60,7 @@ Don't overthink it:
 You'll need discipline to make many calculated attempts:
 
 - We find persistence through our [a healthy attitude](success-2_attitude.md), specifically through loving the things that grow us.
-- Learn to [find joy](happiness-focus.md) in small irritations that grow you.
+- Learn to [find joy](mind-feelings-happiness-focus.md) in small irritations that grow you.
 - Keep visualizing and imagining what you want.
   - Use your mind to experience precisely what you want in reality.
 - Refocusing can sometimes take as little as five minutes.
@@ -73,7 +73,7 @@ Foster the four types of resilience:
 
 1. Physical resilience (staying [productive](success-4_routine.md))
 2. Mental resilience (staying [focused and determined](purpose.md))
-3. Emotional resilience ([associating three positive feelings](happiness-stress.md) with every negative one)
+3. Emotional resilience ([associating three positive feelings](mind-feelings-happiness-stress.md) with every negative one)
 4. Social resilience ([connecting with others](people-4_friends.md) when you fail)
 
 Work more to actually *finish* tasks than start them:
@@ -179,7 +179,7 @@ Failing can often make us irrational and disoriented, especially when we feel sh
 
 - Failing isn't a big deal, but permanently giving up is.
 - While feeling shame, *never* criticize yourself or take on more responsibilities.
-- Often, other domains in life (as well as [stress from them](happiness-stress.md)) will trigger failures, and it's a waste of time to dwell on the stress or failures.
+- Often, other domains in life (as well as [stress from them](mind-feelings-happiness-stress.md)) will trigger failures, and it's a waste of time to dwell on the stress or failures.
 
 Quickly, honestly admit you've failed:
 
@@ -289,7 +289,7 @@ Without rest, we lose motivation on large projects:
 Devote extra effort to recovering:
 
 - Typically, we work for something that *isn't* more work.
-- Focus on [having fun](fun.md) and [doing things that make you happy](happiness-perma.md).
+- Focus on [having fun](fun.md) and [doing things that make you happy](mind-feelings-happiness-perma.md).
 - Spend more time in nature, *away* from a bustling city.
 - Say mantras for beliefs you want to internalize.
 - Dialogue with yourself [and others](people-4_friends.md) about your feelings.
@@ -338,7 +338,7 @@ As much as possible, spend time thinking about your situation from new angles:
 
 - Take everything you've [understood](understanding.md) and question it.
 - Look for things you've never thought about.
-- [Finding happiness](happiness.md) is the long-term solution for enduring failures.
+- [Finding happiness](mind-feelings-happiness.md) is the long-term solution for enduring failures.
 - Watch for small problems that become big ones later.
   - If you think you saw a mouse, you probably did, and there are likely many more.
 - Keep on doing new things not related to your present efforts, since that information is still important in unpredictable ways.
@@ -446,7 +446,7 @@ Before moving on to something else, ask if you've really done everything you cou
 Reward yourself when you reach small goals:
 
 - Learn to [have fun](fun.md) when you hit minor milestones.
-- Some of the most prolifically successful people in the world are [miserable](happiness.md) because they can't reward themselves for small victories.
+- Some of the most prolifically successful people in the world are [miserable](mind-feelings-happiness.md) because they can't reward themselves for small victories.
 
 It's possible nobody else will celebrate with you, at least at first:
 
@@ -455,7 +455,7 @@ It's possible nobody else will celebrate with you, at least at first:
 One of the first signs of your success will be various forms of plagiarism:
 
 - We have some [universal qualities](humanity-universals.md), so things are guaranteed to repeat across time in various ways.
-- While you *could* obsess about your [intellectual property](legal-ip.md), it's less trouble and [more satisfying](happiness-focus.md) to move on and treat it as a sign that you've influenced others.
+- While you *could* obsess about your [intellectual property](legal-ip.md), it's less trouble and [more satisfying](mind-feelings-happiness-focus.md) to move on and treat it as a sign that you've influenced others.
 
 ## Persevering nearly *guarantees* success
 

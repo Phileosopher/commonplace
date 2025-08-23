@@ -103,7 +103,7 @@ Don't compare your relationship:
 
 - Everyone has their own unique experiences and had to make their own [decisions](decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
 - Unless you're trying to improve yourself, comparing your relationship to others' is a terrible idea.
-- Most people will compare their relationship to yours, but that's *their* [misery](happiness.md) they need to work through.
+- Most people will compare their relationship to yours, but that's *their* [misery](mind-feelings-happiness.md) they need to work through.
 
 Protect yourself sexually:
 
@@ -169,7 +169,7 @@ A. Raise your issues early:
   - Gently approaching issues is difficult if you've spent lots of time thinking about it without feedback.
 - Expect they want to resolve the [conflict](people-5_conflicts.md) as much as you.
   - If you have a grudge with them, they're entitled to one with you as well.
-  - [Release your resentment](happiness-stress.md) with them, and openly express if you have any.
+  - [Release your resentment](mind-feelings-happiness-stress.md) with them, and openly express if you have any.
 
 B. Approach at the right time:
 
@@ -305,7 +305,7 @@ Marriage is a *huge* commitment:
 
 - Once you've married, *every* major life decision now includes your spouse.
   - Your spouse will share the glory of your [successes](success-1_why.md).
-  - If you're fighting any [misery](happiness.md), you'll eventually harm your spouse's happiness.
+  - If you're fighting any [misery](mind-feelings-happiness.md), you'll eventually harm your spouse's happiness.
 - The most important person in your life has transitioned from your father or mother to your spouse.
 
 Marriage involves sharing every aspect of daily life with your partner:
@@ -472,7 +472,7 @@ Marriages need a strong foundation:
 - Mental disorders and personality defects don't necessarily ruin marriages, but a spouse's *response* to them will.
   - [Practice good boundaries](people-3_respect.md) and [stay their friend](people-4_friends.md).
   - Don't complain about them to casual friends (e.g., coworkers or online).
-  - Doing *everything* together can foster unhealthy codependency and destroy both your [happiness](happiness.md), but doesn't necessarily end a marriage.
+  - Doing *everything* together can foster unhealthy codependency and destroy both your [happiness](mind-feelings-happiness.md), but doesn't necessarily end a marriage.
 - Shared interests alone don't keep a marriage together.
   - Successful marriages come through *how* a couple shares interests.
   - Work toward common [goals](success-3_goals.md) and [share fun things together](fun.md).
@@ -499,13 +499,13 @@ A marriage "crisis" is the buildup of small issues:
   8. The rift between the spouses grows and the cheating spouse will suspect the *faithful* spouse of cheating.
      - They will suspect them to the degree they distrust them.
      - The faithful spouse will have no clue and be puzzled by the others' behavior.
-  9. Eventually, unless they both start expressing more vulnerability (and sincerely apologizing and [forgiving](happiness-stress.md)), the marriage will become a hollow existence or lead to divorce.
+  9. Eventually, unless they both start expressing more vulnerability (and sincerely apologizing and [forgiving](mind-feelings-happiness-stress.md)), the marriage will become a hollow existence or lead to divorce.
 
 The best way to stop the risk of cheating is to increase your transparency with your spouse and encourage them to do the same.
 
 If your partner is resentful or angry, you can't do much about it:
 
-- Seek forgiveness, but [release it](happiness-stress.md) if they won't forgive you and won't communicate what you must do for them to forgive you.
+- Seek forgiveness, but [release it](mind-feelings-happiness-stress.md) if they won't forgive you and won't communicate what you must do for them to forgive you.
 - The only way for them to change is through their own decision to release and forgive.
 - If you've openly apologized and done everything you can to improve the situation, and they still won't change, all you can do is wait for them to have a life-changing experience:
   - A [near-death experience](hardship-death.md) or death of a loved one
@@ -528,7 +528,7 @@ Even in a loveless marriage, staying married has some benefits:
   - Enjoy meals together.
   - Bond over shared experiences like the [children](parenting-2_children.md) or television.
   - Keep conversation topics lightweight and neutral.
-- For your own [happiness](happiness.md), however, you *must* move on from a loveless or abusive marriage.
+- For your own [happiness](mind-feelings-happiness.md), however, you *must* move on from a loveless or abusive marriage.
 
 ## Marriage is an investment
 

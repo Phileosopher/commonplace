@@ -89,7 +89,7 @@ Other creatures represent males and masculinity:
 
 A few directly represent extremes of mental illness:
 
-- Werewolves represent [rageaholics](mind-feelings.md) who abuse people during their fits of rage.
+- Werewolves represent [rageaholics](mind-feelings-anger.md) who abuse people during their fits of rage.
 - Vampires represent narcissists who [selfishly](morality-evil.md) steal life and [meaning](meaning.md) from others.
 - Ogres and orcs are deformed humans, often representing physical manifestations of [evil](morality-evil.md) people.
   - Mutants in science fiction represent the capacity for [technology](technology.md) to turn us [evil](morality-evil.md)

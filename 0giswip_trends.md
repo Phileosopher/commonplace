@@ -170,7 +170,7 @@ Plus, most [older people](maturity.md) simply like things the way they are.
 
 ### F2. Sickening
 
-A trend starts outliving its [usefulness](purpose.md) to the point that people become [disgusted](mind-feelings.md) with it:
+A trend starts outliving its [usefulness](purpose.md) to the point that people become [disgusted](mind-feelings-disgust.md) with it:
 
 - Other trends may have arisen that outpace what that trend can do.
 - Sometimes, new [technology](technology.md) made that trend obsolete.
@@ -415,7 +415,7 @@ Healthy [routines](habits.md) are upward trends:
 - General physical well-being [to the best of our ability](body-1_why.md) requires [eating well](body-2_diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-3_exercise.md).
 - Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
 - [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](mind-creativity-results.md), [growing](maturity.md), and [learning](pedagogy.md).
-- [Overall satisfaction](happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
-- [Stress management](happiness-stress.md) is for the purpose of making better [decisions](decisions.md).
+- [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
+- [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](decisions.md).
 
 At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](imagination.md) and commenting on [social media](networks-social.md)). This probably won't go away anytime soon, either.

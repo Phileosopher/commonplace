@@ -9,7 +9,7 @@ College is specialized training:
 
 Your college experience must support your career plan:
 
-- To justify the time and [money](money-2_debt.md), the future work should give you enough [satisfaction](happiness.md) for at least 10 years for every 2 years in school.
+- To justify the time and [money](money-2_debt.md), the future work should give you enough [satisfaction](mind-feelings-happiness.md) for at least 10 years for every 2 years in school.
 - Otherwise, since college credits don't expire, only consider general education requirements until you know where to invest, then drop out until you know what to do.
 
 Don't "follow your dreams":
@@ -175,7 +175,7 @@ Carefully consider any loans you may need:
 While at school, budget your [time](success-4_routine.md) and [money](money-3_budget.md) to maximize your experience:
 
 - For most people going to college, it's their first [move](home-moving.md) away from home.
-- Find [affordable](money-saving.md), [meaningful](happiness-perma.md) ways to enjoy your life while you pursue your [curiosity](mind-creativity.md).
+- Find [affordable](money-saving.md), [meaningful](mind-feelings-happiness-perma.md) ways to enjoy your life while you pursue your [curiosity](mind-creativity.md).
 - Most federal loans will let you go *wild* with borrowing, so live as little off them as possible to avoid suffering under them for decades.
 - You'll need your work habits later, so keep working and building [habits](habits.md).
 

@@ -48,7 +48,7 @@ When people run from risks long enough to make it a [habit](habits.md), they los
 
 The one benefit to being a victim is that there's no need to personally [change](changes.md). Unfortunately, it leads to a life of existential misery, and typically leads to even more [hardship](hardship.md), since a person will feel more loss from their bad [decisions](decisions.md) over the same experience coming by outside [coercion](power.md).
 
-The only way to get out of an unpleasant situation is to claim responsibility of what we should have done and still have control over. This can express as performing [basic housekeeping](home-housekeeping.md) or finding something that makes us [happy](happiness.md).
+The only way to get out of an unpleasant situation is to claim responsibility of what we should have done and still have control over. This can express as performing [basic housekeeping](home-housekeeping.md) or finding something that makes us [happy](mind-feelings-happiness.md).
 
 Some people imagine a broadened scope of existence (e.g., a million years) makes everything meaningless. That's only proving itself true from that specific [perspective](image.md), but doesn't prove anything else. Those people find a paradoxical meaning in defining meaninglessness.
 

@@ -194,7 +194,7 @@ No matter what, *always* take 1 day off every week:
 
 Work out and eat well for something beyond yourself:
 
-- Your physical appearance won't contribute to your attractiveness *nearly* as much as your [happiness](happiness.md).
+- Your physical appearance won't contribute to your attractiveness *nearly* as much as your [happiness](mind-feelings-happiness.md).
 - You can't fight your genetics, so ignore popular culture's push to change your image.
 - Instead of focusing on having a great body, focus on having a *[useful](purpose.md)* one (which is why it's called "fitness").
   - You should have a specific goal for your new strength, endurance, or whatever.

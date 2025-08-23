@@ -33,7 +33,7 @@ Friendships are a necessary part of living well:
 
 - They ground us in reality.
 - By being vulnerable, we [understand ourselves](awareness.md) more.
-- We need friends to be [happy](happiness.md).
+- We need friends to be [happy](mind-feelings-happiness.md).
 - Different lifestyles from our friends help challenge our views of the world.
 - They give us resources and connections to others to help us [succeed](success-1_why.md).
 - They encourage us [when we lose faith in ourselves](success-5_persevering.md).
@@ -205,7 +205,7 @@ The art of making friends is to become likeable and make others important:
 
 Learn to be happy:
 
-- [Happiness](happiness.md) is critical to withstand the inevitable [conflicts](people-5_conflicts.md) from human connection.
+- [Happiness](mind-feelings-happiness.md) is critical to withstand the inevitable [conflicts](people-5_conflicts.md) from human connection.
 - People naturally associate with enthusiastic, optimistic people and shy away from unhappy, cynical ones.
 - The only people who enjoy time with miserable people are other miserable people.
 - Learn how to safely and openly express your unhappiness with your friends.
@@ -295,7 +295,7 @@ Become a better participant on social media:
   - Is it interesting or informative?
   - Is it amusing, entertaining, or funny?
   - Will it add value to anyone's life?
-- Try to find social media that is [positive and inspiring](happiness.md) with many other people on it.
+- Try to find social media that is [positive and inspiring](mind-feelings-happiness.md) with many other people on it.
 - Spend more time messaging people personally and less time on message boards.
 - Routinely remove friends from social media who aren't part of your life anymore.
 
@@ -426,7 +426,7 @@ A good friendship has two strong people:
 Other potential friends judge your character and identity by the company you keep:
 
 - The younger someone is, the more heavily they're influenced by their friends.
-- Meeting dysfunctional people is always worth the experience, but staying friends with them will destroy your reputation and [happiness](happiness.md).
+- Meeting dysfunctional people is always worth the experience, but staying friends with them will destroy your reputation and [happiness](mind-feelings-happiness.md).
 - Therefore, avoid or break ties with dysfunctional friendships immediately.
 
 Some people will lead you on:
@@ -579,7 +579,7 @@ Don't let *anything* get in the way of a great friendship:
 - The love of two friends shifts from "you" or "me" to "us".
 - Share how much they mean to you before you lose touch with them.
 - Prioritize your friend's needs above your own, and be supportive and helpful whenever they need it.
-- If a friend hurt you, [forgive them and move on if they've changed](happiness-stress.md).
+- If a friend hurt you, [forgive them and move on if they've changed](mind-feelings-happiness-stress.md).
 - When you borrow anything from them, promptly give it back.
 - If you wish to [date](relationships-2_dating.md) someone your friend has dated, ask permission first.
 - If they live with you, openly communicate household responsibilities and [keep the common areas clean](home-housekeeping.md) without them asking.

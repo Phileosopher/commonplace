@@ -87,4 +87,4 @@ Accepting reality at its most raw can force overwhelming [internal and external 
 
 Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](mind-creativity-results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 
-The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](happiness-stress.md)).
+The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](mind-feelings-happiness-stress.md)).

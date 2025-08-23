@@ -60,7 +60,7 @@ The institution of slavery in practice, however, is merely an unfeeling structur
 
 Generally, the actual value people treat their enslaved subjects is contingent on [economics](economics.md). Historically, slaves who had highly valuable [specializations](jobs-spcialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
 
-Hypothetically, if everyone were enslaved to a perfectly [good](morality.md) and [loving](people-love.md) master, the arrangement would be mutually beneficial. That master would take care of every need, and the slaves would be [satisfied](happiness.md) and [live well](success-1_why.md).
+Hypothetically, if everyone were enslaved to a perfectly [good](morality.md) and [loving](people-love.md) master, the arrangement would be mutually beneficial. That master would take care of every need, and the slaves would be [satisfied](mind-feelings-happiness.md) and [live well](success-1_why.md).
 
 But, for several reasons, humans will always exert some level of evil when they enslave others:
 

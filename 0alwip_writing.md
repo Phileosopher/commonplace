@@ -252,7 +252,7 @@ Writing should both entertain and [educate](understanding.md):
 
 Write to please yourself, firstly:
 
-- You'll never be [happy](happiness.md) with the results if you're not writing to your standards.
+- You'll never be [happy](mind-feelings-happiness.md) with the results if you're not writing to your standards.
   - Somehow, readers can tell when you're writing and not enjoying it.
 - You [know yourself](awareness.md) more than anyone else, and there are thousands of people who have your taste in writing style.
 - You may be anxious and uneasy, but your desire to [create](mind-creativity-how.md) the best possible form of an idea will chip away useless information.

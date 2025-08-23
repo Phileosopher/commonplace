@@ -241,7 +241,7 @@ Respond to the world's attacks with Christ-like behavior:
 11. Ignore the world's strategies against you.
     - Be prepared to confront [sin](morality-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
-    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
+    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
 12. Anticipate that the world will hate, [misrepresent](image.md), [misunderstand](understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).

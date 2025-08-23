@@ -35,7 +35,7 @@ Conveniently, audiences pay more attention to the message than the speaker:
 - Only speak with a purpose in mind:
   1. To inform - gives [understanding](understanding.md), an explanation, or knowledge
   2. To [entertain](fun.md) - bring amusement, enjoyment, and laughter
-  3. To [inspire](mind-feelings.md) - animate or exalt [the human spirit](humanity.md) or arouse [feelings](mind-feelings.md)
+  3. To [inspire](purpose.md) - animate or exalt [the human spirit](humanity.md) or arouse [feelings](mind-feelings.md)
   4. To [convince](power-influence.md) - trigger change, alter [beliefs](understanding-certainty.md) or strengthen beliefs
   5. To persuade - bring a belief through [argument and reason](logic.md)
 - People only remember up to 3 points from a speech, so keep it brief.

@@ -64,9 +64,9 @@ Conflict, used correctly, benefits everyone involved:
 
 Conflict requires high-stress communication:
 
-- Every conflict requires [speaking well](language-speaking.md) and [maintaining your composure](awareness.md), which requires [managing stress](happiness-stress.md) to avoid saying something you'll regret.
+- Every conflict requires [speaking well](language-speaking.md) and [maintaining your composure](awareness.md), which requires [managing stress](mind-feelings-happiness-stress.md) to avoid saying something you'll regret.
 - Your [internalized subconscious trauma](hardship.md) will very often add more problems to the conflict, so [self-awareness](awareness.md) is *absolutely* critical to understand what you're feeling moment-to-moment.
-- When conflicts go poorly, we suffer [tremendous misery](happiness-stress.md) from prolonged thinking about it, as well as [anticipatory pain](hardship.md) later.
+- When conflicts go poorly, we suffer [tremendous misery](mind-feelings-happiness-stress.md) from prolonged thinking about it, as well as [anticipatory pain](hardship.md) later.
 
 Deferring conflict magnifies it:
 
@@ -105,8 +105,8 @@ In [polite company](people-rules.md), avoid confronting conflicts directly:
 
 Try to create 5 positive interactions for every 1 negative one:
 
-- To find any [satisfaction with others, we tend to need many more good experiences to offset the bad ones.](happiness.md)
-[- Try to find times where interacting with them will only lead to a positive experience.](happiness.md)
+- To find any [satisfaction with others, we tend to need many more good experiences to offset the bad ones.](mind-feelings-happiness.md)
+[- Try to find times where interacting with them will only lead to a positive experience.](mind-feelings-happiness.md)
 
 Show integrity and honesty:
 
@@ -147,7 +147,7 @@ Manage others' insults gracefully:
   1. Insult back, which tends to go nowhere and can make you look petty.
   2. Make a clever comeback (e.g., reframing their intended insult as a *good* thing).
   3. Defuse the remark with some self-aware humor (which is sometimes *really* hard to do).
-  4. Find a way to take revenge later, which is [usually a waste of your time](success-2_attitude.md) and will [destroy your happiness further](happiness-connect.md).
+  4. Find a way to take revenge later, which is [usually a waste of your time](success-2_attitude.md) and will [destroy your happiness further](mind-feelings-happiness-connect.md).
   5. Pretend it didn't happen.
 - People usually don't mean insult, and often are simply not honoring [social rules](people-rules.md) they hadn't learned.
   - Treat insults like a barking dog: something to note, but not necessarily important or personal.
@@ -176,7 +176,7 @@ If someone is sharing something you wanted to keep private:
 1. Consider why they let the secret slip.
 2. If they're telling another person involved with the problem, don't blame them since that person needed to know anyway.
 3. Since it's public, get ahead of the secret by telling everyone who may know next.
-4. [Forgive them](happiness-stress.md) and move on after you've confronted them about it and seen their attitude.
+4. [Forgive them](mind-feelings-happiness-stress.md) and move on after you've confronted them about it and seen their attitude.
 
 ### Approach others' failings correctly
 
@@ -488,7 +488,7 @@ Sometimes, there are *multiple* conflicts, with different styles, and it require
 
 When you disagree with someone, mind a few realities:
 
-- When people are [angry or afraid](mind-feelings.md), they're 20-40 IQ points dumber than normal.
+- When people are [angry](mind-feelings-anger.md) or [afraid](mind-feelings-fear.md), they're 20-40 IQ points dumber than normal.
 - You can only change yourself.
 - You can only [influence](power-influence.md) others if they let you.
 - If someone doesn't want to believe something, their mind will only change with proof.
@@ -642,7 +642,7 @@ Note subversive tactics:
 - Most people who use subversive tactics know how to provoke others' [feelings](mind-feelings.md) on command.
 - Your only resistance to those tactics is with [awareness](awareness.md) of your feelings and self-discipline against your impulses.
 - If you're caught unaware, that person can usually reveal your weaknesses and [break you down](image-distortion.md).
-- Avoid spending much time around these tactics, since they destroy your [happiness](happiness.md) across the rest of your life and [influence](power-influence.md) you to perform those actions on others.
+- Avoid spending much time around these tactics, since they destroy your [happiness](mind-feelings-happiness.md) across the rest of your life and [influence](power-influence.md) you to perform those actions on others.
 - If you choose to be around people who use devious tactics, [spend time with better friends](people-4_friends.md) to offset how much they'll influence you.
 - While you *can* use subversive tactics with others, maintain your moral standards.
 

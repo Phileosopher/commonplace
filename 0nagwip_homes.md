@@ -396,7 +396,7 @@ Ideally, [budget](money-3_budget.md) your cash flow to address expenses *before*
 
 For several months, you'll be slightly inconvenienced in your own home.
 
-You *will* become [less happy](happiness.md), so remember *why* you're selling.
+You *will* become [less happy](mind-feelings-happiness.md), so remember *why* you're selling.
 
 Avoid taking on more responsibilities like a [job change](jobs-1_why.md) or [getting married](relationships-weddings.md).
 

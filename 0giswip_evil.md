@@ -1,5 +1,5 @@
 
-We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
+We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
 
 Evil, however, does exist. Even to the most morally relativistic person, they'll still regard moral absolutes or things that encroach on their self-preservation as evil.
 
@@ -56,7 +56,7 @@ Every single person has the capacity for evil by making a few key [immoral](mora
 3. Withhold from anyone who needs anything.
 4. Exercise every privilege as far as you [feel](mind-feelings.md) like.
 5. [Hide](image-distortion.md) anything that may threaten your [power](power.md) as much as possible, then [blame others](image-distortion.md) for anything others discover.
-6. Insult and degrade anyone you [dislike](mind-feelings.md) or who threatens your [power](power.md).
+6. Insult and degrade anyone you [dislike](mind-feelings-disgust.md) or who threatens your [power](power.md).
 7. Scale upwards to make a [system](mgmt-badsystems.md) that serves your interests more than others, but maintain a kind-looking [image](image.md) of [morality](morality.md) to subdue any opposition.
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:

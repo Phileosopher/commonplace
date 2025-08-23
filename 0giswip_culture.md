@@ -124,7 +124,7 @@ This doesn't mean we don't possess unique opinions and ideas apart from the grou
 
 Most cultures adopt mindless traditions over time:
 
-1. Someone creates a [ritual or tradition](habits.md) to [remind](mind-feelings.md) the group of something.
+1. Someone creates a [ritual or tradition](habits.md) to [remind](mind-memory.md) the group of something.
 2. A generation later, people honor the action but never experienced what the tradition served to remind.
 3. The next generation after that has only heard of the original experience as a distant [fable](stories.md).
 4. Eventually, everyone performs a stale ritual because it's always been done that way, and [creates arguments just to talk about modifying it](politics-conservativeliberal.md).
@@ -179,7 +179,7 @@ Each cultural value builds specific life skills:
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
 - Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
 - Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-4_friends.md).
-- Indulgent people understand [happiness](happiness.md), while Restrained people understand [sacrifice](purpose.md).
+- Indulgent people understand [happiness](mind-feelings-happiness.md), while Restrained people understand [sacrifice](purpose.md).
 - Principles-First people [get more things done](mind-creativity-results.md), but Applications-First people [understand things better](understanding.md).
 - Low Uncertainty Avoidance people are [at peace](trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
 - Low Risk Tolerance people maintain a [strong community](groups-small.md), and High Risk Tolerance people withstand [changes](changes.md) better.

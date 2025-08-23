@@ -32,7 +32,7 @@ You're a consultant, not a commodity:
   - You must understand [what they want](people-3_respect.md), not just [what *you* want](awareness.md).
   - If they want to see the next chapter of your career story, they'll want to hire you or, at least, network with you for future interactions.
 
-You can't prove yourself with aptitude alone because an interview tracks the *image* of your aptitude (i.e., your ability to handle [stress](happiness-stress.md) and [anxiety](mind-feelings-fear.md) under pressure).
+You can't prove yourself with aptitude alone because an interview tracks the *image* of your aptitude (i.e., your ability to handle [stress](mind-feelings-happiness-stress.md) and [anxiety](mind-feelings-fear.md) under pressure).
 
 If possible, schedule the interview either in the morning or an hour before the business closes:
 
@@ -633,6 +633,6 @@ Don't beat yourself up about your failures, but learn from them.
 
 Stay enthusiastic and engaged with other interviews and the [job hunt](jobs-5_interview.md).
 
-If you start getting discouraged, [find satisfaction](happiness-focus.md) elsewhere: life is more than a job.
+If you start getting discouraged, [find satisfaction](mind-feelings-happiness-focus.md) elsewhere: life is more than a job.
 
 Eventually, if you keep growing and striving toward every opportunity, you *will* [get a job offer](jobs-6_negotiating.md).

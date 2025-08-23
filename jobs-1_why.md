@@ -14,7 +14,7 @@ The first 5 years of your career often sets the pace for the rest of it:
 Changing jobs is usually worth the risk:
 
 - You will *always* get more experience from something you haven't tried than something you have.
-- People who take the plunge to find a better job are usually [happier](happiness.md) from it.
+- People who take the plunge to find a better job are usually [happier](mind-feelings-happiness.md) from it.
 
 To find the right job, you need a long-term goal:
 
@@ -22,7 +22,7 @@ To find the right job, you need a long-term goal:
 - Your career should combine your preferences and abilities to balance what you want and need.
 - If you want a career with an unreliable wage (like a [creative](mind-creativity.md) line of work), have a backup career that makes a basic living wage.
 
-At the same time, finding [happiness](happiness-perma.md) *in* work is a broader problem than simply finding enjoyable work, so don't expect perfect satisfaction simply from the work.
+At the same time, finding [happiness](mind-feelings-happiness-perma.md) *in* work is a broader problem than simply finding enjoyable work, so don't expect perfect satisfaction simply from the work.
 
 ## Many self-destructive career decisions sound good at the time
 
@@ -30,7 +30,7 @@ Don't overachieve:
 
 - Pretending to have hobbies or expertise you don't have.
 - Making decisions that only give more money.
-- Overworking yourself and sacrificing your [happiness](happiness.md).
+- Overworking yourself and sacrificing your [happiness](mind-feelings-happiness.md).
 - Prioritizing your work over your personal life.
 - Micro-managing everything.
 - Fearing mistakes and failure.
@@ -55,7 +55,7 @@ Only move into something better, not away from something you don't like.
 If you have a bad attitude, you'll eventually bring it to your new job:
 
 - Dissatisfaction isn't always cynicism, but cynicism always creates dissatisfaction.
-- With the [right attitude](success-2_attitude.md), you can learn to be [happy and satisfied](happiness.md) anywhere!
+- With the [right attitude](success-2_attitude.md), you can learn to be [happy and satisfied](mind-feelings-happiness.md) anywhere!
 
 Self-assess your feelings about your present and future job:
 
@@ -200,14 +200,14 @@ However, some things are worth getting fired over:
 
 If you've gotten fired, don't make any major life decisions for at *least* 3 months:
 
-- Most dumb career decisions come through [depression and anger](mind-feelings.md).
-- Let go of the anger and [find inner happiness](happiness-stress.md).
+- Most dumb career decisions come through [depression](mind-feelings-sadness.md) and [anger](mind-feelings-anger.md).
+- Let go of the anger and [find inner happiness](mind-feelings-happiness-stress.md).
 - Focus all your frustrations on finding a new job as soon as possible.
 
 As much as it may hurt and feel alienating, nobody will care about your unemployment as much as you:
 
 - This world is harsh, and genuine empathy about unemployment is rare.
-- Despite the circumstances, learn [satisfaction and gratitude](happiness-focus.md), and try to be a better comfort to others in their situation than how you may have experienced.
+- Despite the circumstances, learn [satisfaction and gratitude](mind-feelings-happiness-focus.md), and try to be a better comfort to others in their situation than how you may have experienced.
 
 Download your bank statement and figure out how much money you have left:
 

@@ -233,20 +233,20 @@ Self-hatred is when we take life's natural stressors *very* personally:
 
 - If you've [learned](understanding.md) from it and legitimately changed, it's not part of you anymore.
 - Most people may have trouble forgiving you and moving on, but you *can't* let that affect you.
-- If you want to commit suicide, you simply want to stop suffering and would be happy to take [*any* other option](happiness-stress.md).
+- If you want to commit suicide, you simply want to stop suffering and would be happy to take [*any* other option](mind-feelings-happiness-stress.md).
 
 If you hate yourself, accept that your beliefs about yourself are wrong:
 
 - You're a complex, unique person who has a lot to offer.
 - Even if you feel you're trash, life itself is a remarkably ordered thing, and you're temporarily blinded to it by your self-reflection.
-- Unfortunately, because of your [misery](happiness-perma.md), most people are afraid to tell you how wrong your self-valuation is because you may take it the wrong way.
+- Unfortunately, because of your [misery](mind-feelings-happiness-perma.md), most people are afraid to tell you how wrong your self-valuation is because you may take it the wrong way.
   - To put it very bluntly, your despair comes from being self-absorbed.
 
 Invert your problem:
 
 - If you're starting to contemplate suicide, ask what exactly has prevented you from doing it yet.
 - When you get past the [fear](mind-feelings-fear.md), [regret, and shame](mind-feelings-shame.md), you *do* value something of yourself in the mix of everything.
-- Focus on what you value in yourself and find ways to make [small movements](success-3_goals.md) that foster [the positive side of things](happiness-focus.md).
+- Focus on what you value in yourself and find ways to make [small movements](success-3_goals.md) that foster [the positive side of things](mind-feelings-happiness-focus.md).
 
 You can't do it alone:
 

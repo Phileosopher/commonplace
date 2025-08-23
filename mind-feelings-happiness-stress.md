@@ -13,7 +13,7 @@ Unlike stress, stressors exist in the world around us:
   1. We feel we must take action
   2. We fear losing something
 
-While finding stress simply requires [meditation](awareness.md), changing it requires [changing our stressors](happiness-stress.md).
+While finding stress simply requires [meditation](awareness.md), changing it requires [changing our stressors](mind-feelings-happiness-stress.md).
 
 - Approaching this change needs [the right attitude](success-2_attitude.md) because you must sacrifice many, *many* old ways of thinking.
 
@@ -152,7 +152,7 @@ We possess many needs.
 - Reacting to unmet needs often sabotages other needs.
 - If we catch our needs beforehand, we can detect future issues before they arise.
 
-To be fulfilled, we require [positive emotion, focus on the present, relationships, meaning, and observable accomplishments](happiness-perma.md).
+To be fulfilled, we require [positive emotion, focus on the present, relationships, meaning, and observable accomplishments](mind-feelings-happiness-perma.md).
 
 Physical needs keep us alive:
 
@@ -209,7 +209,7 @@ Accepting reality is the humbling task of admitting we're often weak, incapable,
   - You have every right to [feel what you feel](mind-feelings.md), but so does everyone else.
   - Instead, focus on [things you *can* do](success-4_routine.md).
 
-We frequently think we can control things we can't, especially [as the situation changes](happiness-stress.md).
+We frequently think we can control things we can't, especially [as the situation changes](mind-feelings-happiness-stress.md).
 
 It's sometimes okay to be unhappy.
 

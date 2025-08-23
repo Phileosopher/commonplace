@@ -4,7 +4,7 @@
 In many ways, a good memory is the foundation for all wellness:
 
 - Good memories allows us to fully absorb and understand ideas, which is critical for us to [connect concepts](mind-creativity.md).
-- A reliable memory is not only necessary for [success](success-1_why.md), it also makes us [happier](happiness.md).
+- A reliable memory is not only necessary for [success](success-1_why.md), it also makes us [happier](mind-feelings-happiness.md).
 - Like [weight management](body-1_why.md), memory can be trained, and high-powered memory competitions (e.g., trivia, quizzes) are people with normal brains who worked hard to build mnemonics.
 - All aspects of [understanding and learning](understanding.md) are connected with a good memory.
 

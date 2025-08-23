@@ -367,7 +367,7 @@ Honeymoon destination:
 During the wedding:
 
 - Stay on time throughout the wedding day to avoid the service workers incurring overtime charges.
-- A wedding is supposed to be one of the [happiest](happiness.md) days of your life, so make sure you're having [fun](fun.md), or you're wasting your [money](money-1_why.md).
+- A wedding is supposed to be one of the [happiest](mind-feelings-happiness.md) days of your life, so make sure you're having [fun](fun.md), or you're wasting your [money](money-1_why.md).
 
 After the wedding:
 

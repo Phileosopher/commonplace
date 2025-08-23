@@ -143,7 +143,7 @@ Use shorthand or symbols to condense the ideas:
 
 You won't retain much information if you're working your brain to the point of mental exhaustion:
 
-- Stress will temporarily boost your short-term memory, but use it sparingly because [anxiety](happiness-stress.md) will ruin it.
+- Stress will temporarily boost your short-term memory, but use it sparingly because [anxiety](mind-feelings-happiness-stress.md) will ruin it.
 
 ## Stay alert
 

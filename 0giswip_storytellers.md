@@ -168,6 +168,6 @@ One of the advantages of exploring the cultures of the past (i.e., history) is t
 
 It's safe to say that every single storyteller is the propaganda arm of some other [large group](groups-large.md). As the writer of this essay, I'm aiming for [brevity](information.md) that maximizes [meaning](meaning.md), driven by my [personal spirituality](https://theologos.site/testimony/).
 
-Given [human universals](humanity-universals.md), if you're angry about a news story you have no [influence](influence.md) to change, the very fact you've heard the story means someone is publishing it, and that other people who *can* do something about it may also be [angry](mind-feelings.md) about it.
+Given [human universals](humanity-universals.md), if you're angry about a news story you have no [influence](influence.md) to change, the very fact you've heard the story means someone is publishing it, and that other people who *can* do something about it may also be [angry](mind-feelings-anger.md) about it.
 
 Eventually, if the product of a storyteller is good enough, their amassing of power will mean that they will become a [bad system](mgmt-badsystems.md).

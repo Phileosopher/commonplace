@@ -372,7 +372,7 @@ Unless the workers can directly see their results, you *must* inform them when t
   - The "no news is good news" is easy to maintain, but can quickly create a harsh and unforgiving work environment.
 - On the other end, you may be overworked from all the affirmations you have to constantly deliver.
   - If you give steady affirmations, you must maintain it or communicate any changes, or everyone will overthink why you stopped and may become discouraged.
-- The best solution is to [find happiness in yourself](happiness.md) enough to be grateful for others, then express legitimate and impulsive gratitude over what others do.
+- The best solution is to [find happiness in yourself](mind-feelings-happiness.md) enough to be grateful for others, then express legitimate and impulsive gratitude over what others do.
 
 Deliver praise correctly:
 

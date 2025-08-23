@@ -1,9 +1,11 @@
 
 # Regret and shame
 
-Regret is not forgiving ourselves over past decisions, and are byproducts of reliving [trauma](hardship-ptsd.md). It's a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
+Regret is [not forgiving](mind-feelings-happiness-stress.md) ourselves over past decisions, and are byproducts of reliving [trauma](hardship-ptsd.md). It's a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
 
 Regret is the present desire and feeling to have done things in the past, while shame is the chronic state of feeling that things in the past were done incorrectly to the point of [self-identifying](identity.md) with the experience.
+
+## Chronic regret
 
 Over time, regret converts into shame:
 
@@ -25,3 +27,5 @@ Regret is [useless](mind-creativity-results.md), *except for* when we have [not 
 No matter what, people make decisions they think are [reasonable](logic.md) at the time, so broadly blaming anything without giving the grace of context is ignoring [how](https://gainedin.site/layers/) something failed.
 
 When we let our feelings run our lives, though, we'll typically develop [habits](habits.md) that ignore the finer details that would empower us to think ina  more sophisticated way about our [memories](mind-memory.md). Over time, our memories will throw out those details and we'll stay etched into permanent [unforgiveness](hardship-ptsd-release.md), which will slowly yield bitterness.
+
+The only lasting cure for shame is to form [an identity](identity.md) around something that's *not* the actions we had performed. This can take the form of self-indemnifying, but the most powerful peace comes in becoming and closely identifying as [a child of God](humanity-christian.md).

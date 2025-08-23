@@ -70,19 +70,19 @@ Mentally preparing is more important than stockpiling:
   - Most baby products are designed for parents more than babies, a bit like [pet products](fun-pets.md).
   - Babies, especially newborns, don't take much room and spend *years* without the motor skills to use what you give them.
   - Plus, babies develop slowly enough that you can buy things for them as they grow.
-- Your ability to [learn happiness](happiness.md) while stressed and stay [mindful of yourself](awareness.md) is more important than *anything* you can buy or learn.
+- Your ability to [learn happiness](mind-feelings-happiness.md) while stressed and stay [mindful of yourself](awareness.md) is more important than *anything* you can buy or learn.
 
 Anticipate the experience:
 
 - You *will* feel overwhelmed, starting with delivering the baby.
-  - Your child will give you more stress and *will* temporarily sabotage your [satisfaction with life](happiness.md).
+  - Your child will give you more stress and *will* temporarily sabotage your [satisfaction with life](mind-feelings-happiness.md).
   - Parenting has many happy moments and reprieves, but they're sometimes intermittent.
   - Set low expectations and keep them low.
   - Only worry about each day as it comes, since anything beyond tomorrow is a waste of energy.
 - After children, you *never* have as much downtime.
   - Your life doesn't really change, but you must add the baby (and later, the [child](parenting-2_children.md)) into your plans.
   - You can still [accomplish what you want](success-1_why.md), but it'll require [*much* better time management](success-4_routine.md).
-- For at least 4 months, you won't [sleep](sleep.md) for more than 3-4 hours at a time, so consider shifting to an [alternate cycle](sleep-cycles.md) to [minimize stress](happiness-stress.md).
+- For at least 4 months, you won't [sleep](sleep.md) for more than 3-4 hours at a time, so consider shifting to an [alternate cycle](sleep-cycles.md) to [minimize stress](mind-feelings-happiness-stress.md).
   - The work is easy (feeding, diaper changing, and holding) but you'll constantly have to stop everything to take care of them for months straight.
   - While your routine will normalize later, your pre-planned tasks for the children may rob sleep.
 - Children are a steady drain on resources.

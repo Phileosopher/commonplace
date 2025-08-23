@@ -46,7 +46,7 @@ To the farthest possible, I will be your [friend](people-4_friends.md).
 
 - I will honor and cherish you.
 - My [sentiment](mind-feelings.md) runs strongly for you, and I intend to maintain at least some of that sentiment for the rest of my life.
-- To the degree it is possible, I will strive to assist in your [happiness](happiness.md) and [success](success-1_why.md).
+- To the degree it is possible, I will strive to assist in your [happiness](mind-feelings-happiness.md) and [success](success-1_why.md).
 
 We've had at least some play and fun that has brought us together, and I will continue [dating you](relationships-2_dating.md) to keep that relational aspect.
 

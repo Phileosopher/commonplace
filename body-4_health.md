@@ -319,7 +319,7 @@ One of the most important cures for chronic pain is to get moving.
 Stress is one of the most significant things that can kill us.
 
 - Stay mindful over any [hardships](hardship.md) you're experiencing.
-- Learn to be [happier](happiness.md).
+- Learn to be [happier](mind-feelings-happiness.md).
 - [Sleep](sleep.md) 6-9 hours a night, preferably on your side.
 - Take regular naps throughout the day whenever you're tired.
 - [Exercise](body-3_exercise.md) at least a few times a week.
@@ -571,7 +571,7 @@ Prevention is *always* better than treatment.
 - Aim for lifestyle habits that can avoid the problems you face instead of external methods to treat the symptoms of your lifestyle.
 - From a [marketing perspective](marketing.md), the most [financially advantageous](power-types.md) situation for [many large organizations](mgmt-badsystems.md) is for you to be miserable and dependent on their product (i.e., pharmaceuticals and treatments).
 
-Learn to [stay positive](happiness.md).
+Learn to [stay positive](mind-feelings-happiness.md).
 
 - Often, our [fears](mind-feelings-fear.md) of health problems tend to *increase* our chances of anxiety-based health issues like heart attacks.
 
