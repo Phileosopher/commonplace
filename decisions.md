@@ -23,6 +23,8 @@ Our willpower reserve is connected with our animal capacity for brainpower, whic
 
 ## Unconscious
 
+Our framework of information can often be shoddy and [untrustworthy](understanding-certainty.md), but we still must make decisions with it.
+
 Since unconscious decisions are essentially [habits](habits.md) by another name, the word "decisions" usually only refers to the diverging options we consciously select.
 
 There is a spectrum between conscious decisions and habits. Across repetition, decisions become habits through the following mechanism:
