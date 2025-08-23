@@ -394,7 +394,7 @@ The South African Revival of 1860 brought plenty of Christian culture to Africa,
 
 ## 11. The Protestant Post-Modernism
 
-The Third Great Awakening came between the late 1850s and late 1920s, and had a strong attitude driven by the belief that [Jesus would only come](jesus-returns.md) *after* a millennium of a [golden age of humanity](perfectsociety.md).
+The Third Great Awakening came between the late 1850s and late 1920s, and had a strong attitude driven by the belief that [Jesus would only come](jesus-returns.md) *after* a millennium of a [golden age of humanity](politics-perfectsociety.md).
 
 - They focused heavily on the Social Gospel (a more practical approach to spirituality focused on [activism](church-serve.md)), and endorsed quite a few political/moral causes such as abolitionism (which at least partly provoked the American Civil War) and prohibition (preventing people from drinking [alcohol](fun-alcohol.md)).
 - The **Pentecostals** arose in the early 1890s from R.C. Horner asserting there was a *third* work of the Holy Spirit beyond baptism of the Holy Spirit: speaking in tongues. They exploded in membership and involvement during the Azusa Street Revival, which was regarded by most Christianity at the time as outrageous and unorthodox. Some Pentecostal, like **Oneness Pentecostals**, believe that God isn't a Trinity.

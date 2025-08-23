@@ -129,7 +129,7 @@ Some philosophy is *absolutely* necessary for [the good life](goodlife.md), but 
 
 Be careful who you read, though. The [culture](culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
-1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](perfectsociety.md).
+1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
 2. Transforming society is an [uphill battle](people-conflicts.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 

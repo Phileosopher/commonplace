@@ -150,11 +150,11 @@ Technology has allowed the average college student today to have more knowledge 
 
 At one time in the 1800s, people perceived the mind as a [mechanical object](engineering.md), and has lately been perceived as a computer. The [fashion](trends.md) will change once something is more advanced than a computer.
 
-In a [perfect society](perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
+In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
 
 Technology doesn't necessarily address our problems, and sometimes can worsen them. We must use it in its time and place to find [meaning](meaning.md) and live the [good life](goodlife.md).
 
-Without [changing human nature](perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](economics.md) and lean *very* heavily into [scientific values](science.md).
+Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](economics.md) and lean *very* heavily into [scientific values](science.md).
 
 All [social class divides](classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
@@ -164,7 +164,7 @@ At one point, surveying land and trigonometry were the critical skills for most 
 
 Some people want to keep their job, even after technology took it away. They're fighting a [losing battle](people-conflicts.md), but are usually too [set in their ways](habits.md) to [change](changes.md). Many [political](politics-conservativeliberal.md) [organizations](groups-large.md) like unions and politicians can benefit those people, but are only stalling the [trend](trends.md).
 
-In a [fully just society](perfectsociety.md), the people who replace other's roles with technology should find [creative](mind-creativity.md) solutions for what they can [do](mind-creativity-results.md) instead. This is frequently a difficult task that requires plenty of consideration, and requires that people [have compassion](people-love.md) on the least-qualified individuals in society.
+In a [fully just society](politics-perfectsociety.md), the people who replace other's roles with technology should find [creative](mind-creativity.md) solutions for what they can [do](mind-creativity-results.md) instead. This is frequently a difficult task that requires plenty of consideration, and requires that people [have compassion](people-love.md) on the least-qualified individuals in society.
 
 People tend to take technology for granted, especially when they're [young](maturity.md). By comparing how lifestyles exist with various degrees of technology, we can [understand](understanding.md) [the easiest way to live](goodlife.md) for various circumstances.
 

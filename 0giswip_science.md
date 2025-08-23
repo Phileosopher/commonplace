@@ -61,7 +61,7 @@ Most significant scientific studies require money, so they're also typically per
 2. If the study was financed by a [government](politics-systems.md), it runs the risk of being [politically slanted](politics-conservativeliberal.md), and will often be performed without enough resources for thorough results.
 3. If the study was independent, it will likely be *extremely* underfunded or highly [biased](mind-bias.md) toward an agenda, depending on who funded it and why.
 
-Further, the information isn't always publicly available, which requires *tons* of rework by other scientists later, especially when [studies are falsified](image-distortion.md). Every significant discovery requires 95% more work than would have been necessary in a [perfect society](perfectsociety.md).
+Further, the information isn't always publicly available, which requires *tons* of rework by other scientists later, especially when [studies are falsified](image-distortion.md). Every significant discovery requires 95% more work than would have been necessary in a [perfect society](politics-perfectsociety.md).
 
 The [bias](mind-bias.md) of scientific [peer-reviewed papers](stories-storytellers.md) shows through their selection process:
 

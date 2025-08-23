@@ -18,7 +18,7 @@ Every purpose we make is a response to our environment:
 3. We continue to perceive that thing as a "problem" until we [decide](decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
 4. We then search for a [means](mind-creativity-results.md) to "fix" that problem.
 
-Thus, we're only find satisfaction when we're facing conflicts, of any sort, that we believe we can achieve. For this reason, most [Utopian societies](perfectsociety.md) are downright impossible: people would find them utterly boring and would probably break things just to see what happened.
+Thus, we're only find satisfaction when we're facing conflicts, of any sort, that we believe we can achieve. For this reason, most [Utopian societies](politics-perfectsociety.md) are downright impossible: people would find them utterly boring and would probably break things just to see what happened.
 
 This purpose can either be internal (which will often be connected to our [identity](identity.md)), or external (which connects to [results](mind-creativity-results.md) we wish to see).
 

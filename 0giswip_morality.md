@@ -141,7 +141,7 @@ Conceit has a cure, but requires a few things:
 3. Accept all other perspectives are equally valid, even when the [reasoning](logic.md) isn't always as sound or is missing apparent portions of [reality](reality.md) that other people can plainly see.
 4. Quickly admit failure as it arises, irrespective of [what it looks like](image.md) or [implies](stories.md).
 
-Humility is critical for the [good life](goodlife.md) and a [healthy society](perfectsociety.md), but it's extremely rare in this world for several reasons:
+Humility is critical for the [good life](goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
 
 - Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](image.md).
 - Giving a humble person power may provoke them to self-conceit and make them a poor [role model](culture.md) for others.

@@ -88,7 +88,7 @@ It's perfectly possible (and not uncommon) to become wildly [successful](success
 
 We find unbelievable meaning through sacrifice for others, and it's why [parenting](parenting-1_babies.md) is considered one of the most rewarding jobs, even while it's also mostly unrewarding externally.
 
-In a [perfect society](perfectsociety.md), everyone would build their own home, with the only exceptions being strictly by [love](people-love.md) that overlooked others' weaknesses.
+In a [perfect society](politics-perfectsociety.md), everyone would build their own home, with the only exceptions being strictly by [love](people-love.md) that overlooked others' weaknesses.
 
 Opportunities to [succeed](success-1_why.md) exist wherever responsibility was neglected.
 

@@ -113,7 +113,7 @@ This often breaks down when we talk about how others respond to that love. Many 
 
 Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](mind-creativity-results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
-Society needs love [large-scale](perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
+Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
 Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").
 

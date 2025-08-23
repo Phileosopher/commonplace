@@ -151,11 +151,11 @@ Attacking someone because they attacked you is two wrong actions, or at the very
 
 A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](image.md), [strength](mind-creativity-results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](image.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
 
-A [perfect society](perfectsociety.md) has the [claimed](image.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
+A [perfect society](politics-perfectsociety.md) has the [claimed](image.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
 
 Leftism is an inherently political religion, and absolutely everything connected to [the human experience](humanity-universals.md) can be affected by it.
 
-Since it [challenges](conflicts-inner.md) [viewpoints](image.md), diversity of thought requires *frequent* discomfort from everyone involved. It's necessary for [the good life](goodlife.md) and would be ubiquitous in a [perfect society](perfectsociety.md), but leftism shuns it.
+Since it [challenges](conflicts-inner.md) [viewpoints](image.md), diversity of thought requires *frequent* discomfort from everyone involved. It's necessary for [the good life](goodlife.md) and would be ubiquitous in a [perfect society](politics-perfectsociety.md), but leftism shuns it.
 
 The Left constantly redefines itself. The only time it ever succeeds is when people aren't [educated](understanding.md) about its history or methods.
 

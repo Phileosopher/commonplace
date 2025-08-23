@@ -69,7 +69,7 @@ Most of our [decisions](decisions.md) and [purposes](purpose.md) revolve around 
 
 ## Comparing power
 
-On a subconscious level, most people are *constantly* assessing others' power compared to their own. The entire experience distills into a broad concept of "status". While it's harmless alone, most people attribute [human worth](humanity.md) to it, which is possibly the sole reason [an ideal society](perfectsociety.md) can't exist.
+On a subconscious level, most people are *constantly* assessing others' power compared to their own. The entire experience distills into a broad concept of "status". While it's harmless alone, most people attribute [human worth](humanity.md) to it, which is possibly the sole reason [an ideal society](politics-perfectsociety.md) can't exist.
 
 If we [desire](purpose.md) others' power, we [envy](morality-evil.md) them.
 
@@ -171,7 +171,7 @@ Things like raw intellectual power or physical strength are useful forms of powe
 
 Most demarcations of [social class](classes.md) are built around how well people manage power. The poor tend to burn up their power on frivolous [purposes](purpose.md), while the wealthy are hyper-vigilant about *anything* that may harm their means of control.
 
-Battery [technology](technology.md) and guns will never be as influential as generators and militaries because people have [trust](trust.md) issues with giving power away. But, it's the only way to have the most [fairness](morality-justice.md), and is necessary for any type of [perfect society](perfectsociety.md).
+Battery [technology](technology.md) and guns will never be as influential as generators and militaries because people have [trust](trust.md) issues with giving power away. But, it's the only way to have the most [fairness](morality-justice.md), and is necessary for any type of [perfect society](politics-perfectsociety.md).
 
 Giving everyone power, such as everyone having guns, would make everyone *much* more respectful of each other. At least, until someone took them all.
 

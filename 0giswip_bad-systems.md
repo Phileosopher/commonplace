@@ -436,7 +436,7 @@ All systems become bad eventually, at some point. They must then be rebuilt thro
 4. [Strong](power.md) leaders are appointed more than [wise](understanding.md) or [good](morality.md) leaders.
 5. The group becomes a bad system, ready for restructuring or another system to take its [power](power.md) away.
 
-Society will never work its issues out without massive, [large-scale transformation](perfectsociety.md) of human [purpose](purpose.md) and [motivation](humanity.md). We'll always have a "deep state" inside every [large system](groups-large.md) waiting to abuse their [power](power.md) until another system of a new generation [takes its place](trends.md).
+Society will never work its issues out without massive, [large-scale transformation](politics-perfectsociety.md) of human [purpose](purpose.md) and [motivation](humanity.md). We'll always have a "deep state" inside every [large system](groups-large.md) waiting to abuse their [power](power.md) until another system of a new generation [takes its place](trends.md).
 
 Research *every* company you buy things from. You'll often find that the company is simply [one of the many faces](politics-monopolies.md) of a gigantic bad system.
 
