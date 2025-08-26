@@ -300,7 +300,7 @@ Values
   - Colors, shapes, and distance
   - Speech versus thought versus action
   - Relative locations and directions
-  - [Elements](science.md) of the [world](reality.md) around us, including [weather conditions](weather.md)
+  - [Elements](science.md) of the [world](reality.md) around us, including [weather conditions](science-earth-weather.md)
   - [Social status](image.md)
 - Our separations start as binary distinctions, then divide further as we gain [maturity](maturity.md).
 - We form [words](language.md) for every one of these categories as we [understand](understanding.md) them.

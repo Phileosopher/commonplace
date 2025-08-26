@@ -293,7 +293,7 @@ Literacy
 
 - Can identify certain materials (e.g, metal, wood) and their characteristics.
 - Understands what [plants](horticulture.md) and [animals](agriculture.md) need to grow.
-- Understands seasonal and [weather](weather.md) changes.
+- Understands seasonal and [weather](science-earth-weather.md) changes.
 - Understands parts of the human body.
 - Has conducted little experiments like growing plants from seeds or caring for a pet.
 

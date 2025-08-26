@@ -129,7 +129,7 @@ Consider looking into an RV club.
 - There are dozens to choose from, and they all give a yearly fee that allows membership to visit their selection of sites.
 - If you sign up, make sure to
 
-Try to travel with the [weather](weather.md).
+Try to travel with the [weather](science-earth-weather.md).
 
 - Going through a heat wave or below-freezing weather *will* create difficulties.
 - At the extremes (i.e., <32°F or >90°F), you'll be *very* uncomfortable, but won't likely have any real risks if you take all standard precautions.

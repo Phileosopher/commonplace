@@ -72,7 +72,7 @@ Are you satisfied with the past, present, and future?
 - Unease of the future is focusing on something you can't control.
 - We often find tremendous dissatisfaction through arbitrary comparisons of the past, present, and future.
 - It's not uncommon for people to overthink their most recent experiences and imagine negative long-term consequences, which typically don't happen.
-- We can also find dissatisfaction over things we have literally no control over (e.g., [politics](politics-conservativeliberal.md), [weather](weather.md), [rejection](people-5_conflicts.md)).
+- We can also find dissatisfaction over things we have literally no control over (e.g., [politics](politics-conservativeliberal.md), [weather](science-earth-weather.md), [rejection](people-5_conflicts.md)).
 
 Have you recently suffered a loss?
 

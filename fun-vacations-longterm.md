@@ -28,7 +28,7 @@ Learn the culture *before* you go:
 - Commonly-practiced [customs](people-rules.md).
 - [Learn a few popular phrases](mind-memory.md) in the local language.
 - The general [geography](logistics-navigation.md) of the region.
-- Local [weather patterns](weather.md).
+- Local [weather patterns](science-earth-weather.md).
 - Crime statistics, especially within various regions of cities.
 - [Food](cooking.md) and water safety risks.
 - The likelihood and forms of [corruption](legal-safety.md).

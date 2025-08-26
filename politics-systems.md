@@ -101,7 +101,7 @@ Oligarchy is the same as an autocracy, but with more people involved, and can be
 - Netocracy - a class with more skills with [technology](technology.md) and [influence](power-influence.md)
 - Noocracy - a class of [wise](understanding.md) people
 - Plutocracy - a [wealthy](power-types.md) class
-- Stratocracy - a [military](weather.md) class
+- Stratocracy - a [military](science-earth-weather.md) class
   - Military junta - a committee of military leaders
 - Technocracy - a class of [educated people](understanding.md) or [technical](technology.md) experts
 - Theocracy - a [religious leadership](religion-answers.md) class
@@ -119,7 +119,7 @@ Cons:
 - Other people can still rebel and overthrow the system, though it's often more difficult.
 - Has the same problem with civil liberties as an autocracy, though it can be more complicated.
 - Any well-designed oligarchy can devolve into a corrupt leadership at any time:
-  - Anocracy - elite groups are constantly [competing](weather.md) for power.
+  - Anocracy - elite groups are constantly [competing](science-earth-weather.md) for power.
   - Bankocracy - run by [financial](power-types.md) authorities like [banks](money-investing.md)
   - Corporatocracy - run by [corporations](groups-large.md)
   - Kakistocracy - run by the least-qualified citizens

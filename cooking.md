@@ -61,7 +61,7 @@ Save time by breaking apart cooking into batches:
 - Plan your meal prep [and diet](body-2_diet.md) a week out.
 - Style your work as an assembly line to prepare the ingredients quickly.
 
-Note the [weather](weather.md):
+Note the [weather](science-earth-weather.md):
 
 - The oven and stove will heat your home, so cook on cold days to [save money](money-saving.md).
 - Try to cook in the morning or evening.

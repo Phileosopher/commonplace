@@ -7,7 +7,7 @@ The chemical state of absolutely everything is programmed with these atoms. More
 
 Chemically, the movement of electrons can create elaborate results. For example, water (2 hydrogen and 1 oxygen atom) is very stable because the atoms share electrons.
 
-There are *many* more components to [quantum science](science-quantum.md), but many of them are theoretical, disputed, move around constantly, or so niche that they don't apply to the scope of quantum computers.
+There are *many* more components to [quantum science](science-physics-quantum.md), but many of them are theoretical, disputed, move around constantly, or so niche that they don't apply to the scope of quantum computers.
 
 ## Computing
 

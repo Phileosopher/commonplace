@@ -149,7 +149,7 @@ Learn tap dancing by gluing pennies to a pair of shoes.
 
 Learn to navigate only by sight, landmarks, and the sky.
 
-[Predict the weather](weather.md) without any technology.
+[Predict the weather](science-earth-weather.md) without any technology.
 
 Use an advanced [text editor](computers-software-ide.md) like vim.
 

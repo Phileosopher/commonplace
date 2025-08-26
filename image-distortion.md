@@ -222,7 +222,7 @@ Multi-Organization - [Crisis](mind-feelings-fear.md)
 
 - Escalate [fear](mind-feelings-fear.md) from a crisis to direct everyone's [purposes](purpose.md).
 - Manufacture a crisis by destroying things or giving [power](power.md) to a [bad system](mgmt-badsystems.md) ("false flag operation").
-- Direct anger and [fear](mind-feelings-fear.md) by declaring [war](weather.md) on another group.
+- Direct anger and [fear](mind-feelings-fear.md) by declaring [war](science-earth-weather.md) on another group.
 
 Multi-Organization - Referencing
 

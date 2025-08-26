@@ -52,7 +52,7 @@ On the other hand, some disasters are long-term:
 Finally, any aspect of civilization in a society will collapse when 5 conditions occur at once:
 
 1. People make enough impact on the ecosystem that it changes to [that culture's](culture.md) disadvantage.
-2. The [weather](weather.md) shifts unfavorably to that culture.
+2. The [weather](science-earth-weather.md) shifts unfavorably to that culture.
 3. That [group of people](groups-large.md) pull away from mutually beneficial relationships with friendly groups.
 4. Relative military strength worsens that group's relationships with [other hostile groups](people-conflicts-war.md).
 5. The group uses [deconstructive or short-term solutions](mgmt-badsystems.md) to solve its problems.

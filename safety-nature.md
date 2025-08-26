@@ -56,7 +56,7 @@ Sunscreen and sunglasses can help you maintain your energy and focus:
 
 If you have maps and a compass, you have a tremendous advantage getting around.
 
-Learn to accurately [predict the weather without technology](weather.md).
+Learn to accurately [predict the weather without technology](science-earth-weather.md).
 
 Make a compass with a watch:
 
@@ -76,6 +76,8 @@ Avoid getting wet to cut down on the risks of hypothermia:
 
 - Try not to rush when you can to avoid sweating.
 - When you have layers, shed them when you start feeling warm.
+
+[Make a Tactile Feedback Compass Belt](https://www.instructables.com/How-to-Make-a-Tactile-Feedback-Compass-Belt/)
 
 ## Water
 
