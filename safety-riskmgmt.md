@@ -115,3 +115,4 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Low enough stress that won't cause a [health issue](body-4_health.md).
 - Prepared for the [collapse of society](hardship-disaster-2), either through [stockpiling and prepping](hardship-disaster-3_long-stay.md) or [staying mobile](hardship-disaster-3_long-go.md).
 - Reconcile with [God](god.md).
+- [Speak truthfully](people-lying.md) about absolutely everything.

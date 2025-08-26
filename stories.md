@@ -140,6 +140,8 @@ The end will represent a final conflict (climax), with everything the main chara
 
 The final conflict will often [symbolize](symbols.md) the main character's first encounter to highlight how the character [transformed](changes.md). But this time, the character will act with more [certainty](understanding-certainty.md) and [understanding](understanding.md) than they ever had before. No matter what, they will somehow find [meaning](meaning.md) or [closure](understanding-certainty.md) in their new action.
 
+At the conclusion, most of the information disappears except for whatever was [meaningful](meaning.md) for the main story's events. This is a subconscious release of the excess information ("catharsis"/"closure").
+
 If there's a distinct antagonist, the main character will have [changed](changes.md) while the antagonist will have stayed the same, though it will be reversed in the case of an anti-hero. In a bad story, *neither* the hero nor anti-hero will have changed.
 
 Often, adding irony to the result will heighten its emotional impact:
