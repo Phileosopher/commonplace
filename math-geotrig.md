@@ -8,7 +8,7 @@ Our physical existence is made of 3 dimensions.
 
 ## What school was supposed to teach
 
-While geometrical figures may *appear* to be more useful, mainstream Western [education](pedagogy.md) tends to be more scant on teaching geometrical concepts compared to [arithmetic and algebra](math-algebra.md).
+While geometrical figures may *appear* to be more useful, mainstream Western [education](education.md) tends to be more scant on teaching geometrical concepts compared to [arithmetic and algebra](math-algebra.md).
 
 As early as kindergarten education, we learn about geometrical figures in reality:
 

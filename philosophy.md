@@ -109,7 +109,7 @@ Philosophy's [culture](culture.md) has become a [trended](trends.md)-out [creati
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
 - At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science.md), and [computer science](computers.md).
 
-The [philosophy educators](pedagogy.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](image.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
+The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](image.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 
 ## Power
 

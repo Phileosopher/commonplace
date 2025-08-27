@@ -61,7 +61,7 @@ Because of how severe we [feel](mind-feelings.md) things when we're [young](matu
 Nobody experiences trauma the same way, and they express it even more differently. For example, a small boy with a physically abusive, alcoholic father may direct their sentiment a few directions:
 
 - Hatred of [alcohol](fun-alcohol.md) and its paraphernalia, along with anyone in the industry. Taken far enough, will use [religion](religion.md) to suppress it.
-- Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](pedagogy.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
+- Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](education.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
 - Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groups-member.md) associated with them.
 - Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](gender.md) [identity](identity.md) or becomes a [feminist](leftism.md).
 

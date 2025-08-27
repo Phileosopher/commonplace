@@ -65,7 +65,7 @@ How freely you release your code should be driven by your motivations of what yo
 - If you deeply care solely about making money, releasing code to the public is a bad idea.
 - If you're trying to learn and want feedback, open-source allows others to draw attention to your failures, as well as fix them.
 - To be influential among [programmers](programming-basics.md), public code is an excellent way to create meaningful impact and influence, since others can adapt it to their needs.
-- To [educate others](pedagogy.md), open-source is the most hands-on way to do it.
+- To [educate others](education.md), open-source is the most hands-on way to do it.
 - Sometimes, the software resolves a *major* problem you have, and mass-adoption of that software would make *your* life easier.
 
 Copyright is very constricting for others' freedom relative to [the involvement many developers want to see](computers-software-versionctrl.md), and there are other options:

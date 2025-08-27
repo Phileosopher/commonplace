@@ -1,21 +1,21 @@
 
 # How to homeschool
 
-Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-2_children.md) [education](pedagogy.md).
+Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-2_children.md) [education](education.md).
 
 - The quality of a formalized education is defined by the educational quality of the teacher, divided by the class size (since they can only devote attention proportionally to your child).
 - Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](trends.md), and has profound [political consequences](politics-conservativeliberal.md).
 
 The quality of a homeschool child's education comes directly from a few sources:
 
-1. The quality of you as a person and [educator](pedagogy.md).
+1. The quality of you as a person and [educator](education.md).
 2. The proportional attention you must give to *each* of the children you're teaching.
 3. How well you supplement their experience in places you have shortcomings.
 
 Homeschooling your child is effectively a part-time job.
 
 - If you're a homemaker in a double-income household, you can easily splice the work with your other responsibilities.
-- [Raising children in general](parenting-2_children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](pedagogy.md) a small child alongside their work.
+- [Raising children in general](parenting-2_children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](education.md) a small child alongside their work.
 
 Homeschooling children is *not* necessarily better or worse.
 
@@ -39,7 +39,7 @@ Government-provided education is a substantial *quantity* of time, so aim for *q
 - Generally, if they keep developing their intellectual strengths, they'll come back around to positively influencing their weaknesses:
   - An analytical child who hates history but loves math may find value in dates' chronological sequence.
   - Artistic children tend to love reading sensational stories more than history, so they may enjoy history once they see dramatizations of it.
-- Since they simply need to [understand](understanding.md) the information or methods directly, don't worry about completing a specific curriculum if another teaching method works better for how they're [learning](pedagogy.md).
+- Since they simply need to [understand](understanding.md) the information or methods directly, don't worry about completing a specific curriculum if another teaching method works better for how they're [learning](education.md).
 
 There's really no homeschool "culture".
 
@@ -163,7 +163,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 
 **Montessori method** (est. 1897) involves adapting children's interests and activities instead of formal teaching methods:
 
-- Maria Montessori began the idea from learning [educational theory](pedagogy.md) at the University of Rome, with 2 presumptions:
+- Maria Montessori began the idea from learning [educational theory](education.md) at the University of Rome, with 2 presumptions:
   1. Psychological [self-construction](values.md) in both adults and children happens through interacting with [our environment](reality.md).
   2. Children (especially under age 6) have an innate, predetermined path for their psychological development.
 - While many things use the Montessori name (since it's not [trademarked](legal-ip.md)), the [Association Montessori Internationale](https://montessori-ami.org/) and [American Montessori Society](https://amshq.org/) have a few required elements:
@@ -209,7 +209,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 
 **Unschooling** (aka **natural**, **interest-led** learning, **child-led** learning) uses everyday life experiences without formalized lessons or schedules:
 
-- This comes from believing that [learning](pedagogy.md) happens naturally and effortlessly, which requires parents [trusting](understanding-certainty.md) their children.
+- This comes from believing that [learning](education.md) happens naturally and effortlessly, which requires parents [trusting](understanding-certainty.md) their children.
 - Sometimes, critics call it "home-squirreling" from the wayward framing of the conversations.
 - Generally, the parents ask the *children* what they are eager to learn that day.
 - The children will know how to research and become [experts](jobs-specialization.md) in their areas of interest, but the risk is they may do poorly on grade level assessments, and *will* have a difficult time in a formalized school system later if they pursue it.
@@ -249,7 +249,7 @@ It's worth noting that these are all *approximate*. Your [culture](culture.md) w
 
 ### Pre-K
 
-Since you're trying to raise your children instead of [acculturate](culture.md) them to a [learning-restrictive](pedagogy.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
+Since you're trying to raise your children instead of [acculturate](culture.md) them to a [learning-restrictive](education.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
 
 You can teach small children as young as 3 years old to read:
 

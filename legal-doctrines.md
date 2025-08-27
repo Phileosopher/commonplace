@@ -3,7 +3,7 @@
 
 *NOTE: I am not a lawyer, just someone who is making sense of the law for people who don't understand it. Do not use this as legal advice.*
 
-Law is defined by many precedents, mostly through previous cases that created rulings. These cases create a framework of philosophical thought that forms a legal maxim over time. Most attorneys tend to learn these maxims and doctrines in law [school](pedagogy.md), thereby reinforcing its [culture](culture.md).
+Law is defined by many precedents, mostly through previous cases that created rulings. These cases create a framework of philosophical thought that forms a legal maxim over time. Most attorneys tend to learn these maxims and doctrines in law [school](education.md), thereby reinforcing its [culture](culture.md).
 
 Even in a fledgling nation, many lawyers will consult *other* nations that wrestled with the same issues instead of starting from scratch.
 

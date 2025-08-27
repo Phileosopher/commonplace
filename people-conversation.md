@@ -45,7 +45,7 @@ We use several factors to choose which and how many details to incorporate into 
 - Our interpretation of what our listener [wants](purpose.md) to see.
 - Our [personalities](personality.md) and [preferences](decisions.md) for how we wish to approach something.
 - The [social context](culture.md) for what we're sharing (e.g., location, [available time](datetime.md), [purpose](purpose.md) of the event).
-- Our [interpretation](imagination.md) of the most successful means of [conveying information](pedagogy.md).
+- Our [interpretation](imagination.md) of the most successful means of [conveying information](education.md).
 
 Our choices broadly create a few possible general communication approaches (DISC communication styles):
 
@@ -86,7 +86,7 @@ Finally, we must closely examine every time we [identify](identity.md) with word
 
 When we listen and respond, we tend to gather a type of "shared [understanding](understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends.md).
 
-This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](pedagogy.md). We [see](image.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](image.md) from them through the [medium](creations.md) of [stories](stories.md) and [feelings](mind-feelings.md).
+This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](image.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](image.md) from them through the [medium](creations.md) of [stories](stories.md) and [feelings](mind-feelings.md).
 
 This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 

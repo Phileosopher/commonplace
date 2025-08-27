@@ -33,7 +33,7 @@ The perceptions we make are *also* made of values, so our minds are vast structu
 
 While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](personality.md) or how much we [philosophize](philosophy.md).
 
-We [understand](understanding.md) values and ideas to the proportion of [quality](values-quality.md) we can [create](creations.md) with them. Effective [teachers](pedagogy.md) and [popular](trends.md) depictions of an idea are demonstrating the most elegant understanding of something, since they've successfully [communicated](language.md) something elaborate in plain terms.
+We [understand](understanding.md) values and ideas to the proportion of [quality](values-quality.md) we can [create](creations.md) with them. Effective [teachers](education.md) and [popular](trends.md) depictions of an idea are demonstrating the most elegant understanding of something, since they've successfully [communicated](language.md) something elaborate in plain terms.
 
 ## The use of values
 

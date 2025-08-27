@@ -5,7 +5,7 @@ Modern thinking leans a bit heavily on [science](science.md). The natural downsi
 
 While [stories](stories.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](understanding.md).
 
-If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](imagination.md). The myths are frequently a product of societies who were less [educated](pedagogy.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
+If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
 
 Most modern vernacular runs on the same [mythology](religion-answers.md) (e.g., "witchcraft" becomes "pharmaceuticals") even while the faces have changed.
 

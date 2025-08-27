@@ -38,7 +38,7 @@ Not all specializations are the same regarding the [value](values-quality.md) th
 
 There are two major ways to tell if they're positively impacting society.
 
-First, that [group's](groups-large.md) [creations](creations.md) must be [measurably](math.md) better than an individual doing the same [work](mind-creativity-results.md). The easiest way to tell is whether [educators](pedagogy.md) are master workers or simply [some other so-called "expert"](mgmt-badsystems.md).
+First, that [group's](groups-large.md) [creations](creations.md) must be [measurably](math.md) better than an individual doing the same [work](mind-creativity-results.md). The easiest way to tell is whether [educators](education.md) are master workers or simply [some other so-called "expert"](mgmt-badsystems.md).
 
 Second, that niche should require investing [time and energy](power-types.md) that can't be reproduced merely by observing others. Thus, it can't be [automated](technology.md) or delegated to low-skill [workers](mind-creativity-results.md).
 

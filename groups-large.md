@@ -46,7 +46,7 @@ As a group grows, each individual's [influence](power-influence.md) in the group
 
 Over time, members' [specializations](jobs-specialization.md) in various aspects will create special-purpose authorities beyond the central leadership roles (e.g., bureaus, coalitions). [Bureaucracy](bureaucracy.md) is when those bureaus have most of the [power](power.md), and they are [subgroups](groups-small.md) of their own inside the meta-group that are subject to [intergroup conflicts and misunderstandings](people-conflicts-war.md).
 
-Since every person has a different reaction to [new information](pedagogy.md), [unexpected](imagination.md) [consequences](mind-creativity-results.md) will come from any large [decision](decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
+Since every person has a different reaction to [new information](education.md), [unexpected](imagination.md) [consequences](mind-creativity-results.md) will come from any large [decision](decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
 
 As a group expands, leaders don't see [results](mind-creativity-results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
@@ -56,7 +56,7 @@ When the scale becomes enormous (i.e., surpassing thousands), every large group 
 
 Large groups are far more risk-averse than [small groups](groups-small.md), since they have so much more [power](power.md) to lose and so much more easily. They're also susceptible to [trust](trust.md) *other* large groups more, since they often depend so heavily on them for their large-scale resource needs.
 
-To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](pedagogy.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
+To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](education.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
 
 ## Hierarchy
 
@@ -143,7 +143,7 @@ Every single [result](mind-creativity-results.md) of an organization is [created
 Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](people-conflicts.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
 
 - Outward growth comes through absorbing other groups and people, often with [large-scale conflicts](people-conflicts-war.md). If uncontested by other groups, it becomes an [empire or monopoly](politics-monopolies.md).
-- Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](pedagogy.md) and expanding individuals' roles into broader group responsibilities.
+- Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](education.md) and expanding individuals' roles into broader group responsibilities.
 
 The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](decisions.md) they make.
 

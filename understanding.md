@@ -20,7 +20,7 @@ One of the most profound limits to our understanding is that we *always* lock on
 
 ## How we learn
 
-We build our understanding through [learning/education](pedagogy.md), which always starts with gathered observations:
+We build our understanding through [learning/education](education.md), which always starts with gathered observations:
 
 1. Performing something and witnessing its [results](mind-creativity-results.md). This form gives the most information but is the most [unsafe](safety.md) without [creatively](mind-creativity.md) using [technology](technology.md).
 2. Directly observing something, often by seeing or touching it. Often, [media](creations.md) will reproduce that experience.
@@ -73,7 +73,7 @@ Often, the best way to understand something is to [write it down](language-writi
 
 ## The perspectives from understanding
 
-There are *many* ways to [see something](image.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](pedagogy.md) person, in some way, avoids [judging](decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
+There are *many* ways to [see something](image.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
 
 The best way to understand other perspectives isn't from simply understanding what someone believes, or whether it's [right or wrong](morality.md). To understand another viewpoint, you must understand *why* they came to that conclusion, and the implications of that set of ideas.
 
@@ -142,7 +142,7 @@ G. Simplification
 
 - After enough time using it, we've thrown out most of the useless information and converted only the critical information into [habits](habits.md).
 - Literally *all* the understanding is a reflexive skill, connected both as a mental and muscular experience.
-- Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](pedagogy.md) it, and it becomes *much* easier for our skills to fade.
+- Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](education.md) it, and it becomes *much* easier for our skills to fade.
 - At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](identity.md) with our performance with it.
 
 Generally, the farther we understand things, the more complicated they become in our mind to capture the complexities inherent to it. If we stop using the information before reaching the final stage of habitual simplification, we slowly slide back down that ladder, but *always* retain small [patterns](symbols.md) that we can [use](purpose.md) for the rest of our lives.
@@ -171,7 +171,7 @@ Assembling our perceptions and experiences together presents us with a [decision
 
 There's not enough time to understand *everything*. Every answer gives a few more questions, so we only gather enough information to answer [what we're asking](purpose.md). Over time, the easiest questions for us to answer often become our [specializations](jobs-spcialization.md).
 
-Great [communication](language.md) (and [teaching](pedagogy.md)) requires finding patterns that convey ideas simply, which is its unique specialization and usually more work than most people are willing to do.
+Great [communication](language.md) (and [teaching](education.md)) requires finding patterns that convey ideas simply, which is its unique specialization and usually more work than most people are willing to do.
 
 Understanding scales [exponentially](math.md). A person will know 1 thing now, 4 things tomorrow, 50 things the next day, 300 the day after that. This pattern comes from how each new node in a mental network can potentially connect to *all* the other existing things, and each connection is the beginning of a thought.
 
@@ -234,7 +234,7 @@ Understanding is difficult to measure because that measurement can come through 
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
 
-However, civilized society requires that people be [educated](pedagogy.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](mind-creativity-results.md).
+However, civilized society requires that people be [educated](education.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](mind-creativity-results.md).
 
 And, since we have *much* more information over how little we really know versus everyone else, we tend to believe others' image more than our own knowledge, even when we are *much* more knowledgeable than they are (impostor syndrome). This issue can scale with [self-awareness](awareness.md) combined with [intelligence](personality.md).
 

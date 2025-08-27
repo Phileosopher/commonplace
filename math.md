@@ -19,7 +19,7 @@ Most people find math too difficult to work with, and it is *not* a trivial disc
 - All the patterns of nature, including [science](science.md) and [engineering](engineering.md), have mathematical patterns behind them.
 - Our capacity to observe and reproduce math patterns have allowed us to make *very* efficient factories, get to the moon, have well-designed traffic circles, and build better cities.
 
-Math [education](pedagogy.md) often overlooks informing people on *why* math has value, and many standard college-educated math teachers will focus on [rote memorization](mind-memory.md) and formulas instead of conveying the core concepts that give mathematics any use whatsoever in the first place. This level of [ignorance](https://gainedin.site/idiot/) has magnified math anxiety more than it should be.
+Math [education](education.md) often overlooks informing people on *why* math has value, and many standard college-educated math teachers will focus on [rote memorization](mind-memory.md) and formulas instead of conveying the core concepts that give mathematics any use whatsoever in the first place. This level of [ignorance](https://gainedin.site/idiot/) has magnified math anxiety more than it should be.
 
 ## Math Anxiety
 
@@ -27,10 +27,10 @@ Math anxiety is a legitimately real problem, and most people who don't specializ
 
 However, this is a self-reinforced falsehood driven by several converging factors:
 
-1. Modern Western [education](pedagogy.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
+1. Modern Western [education](education.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
 2. Math is *all* cumulative, and it takes patience to work through it. Unlike other [language](language.md) (like prose) that's only *partly* cumulative, math requires [revisiting old concepts repeatedly until you understand them *entirely*](http://www.geometry.org/tex/conc/mathlearn.html). If you only [memorized the information](mind-memory.md) to repeat it back on a test, it will *not* be useful later, and you *will* be confused.
 3. Some higher-level math concepts are filled with dense and sometimes confounding jargon. Integers and integrals, for example, have nothing to do with one another. The ideas are often simpler than the jargon makes them sound.
-4. Higher-education math is composed of many math *researchers*, but many high-end university [cultures](culture.md) treat the professors' actual educating of students as side work in lieu of their research. Generally, unskilled [teaching](pedagogy.md) therefore contributes to students' stereotypes that math is an impenetrable subject.
+4. Higher-education math is composed of many math *researchers*, but many high-end university [cultures](culture.md) treat the professors' actual educating of students as side work in lieu of their research. Generally, unskilled [teaching](education.md) therefore contributes to students' stereotypes that math is an impenetrable subject.
 
 Math is very thorough, so it's never really "easy", and it can often be tedious, but there *are* several techniques to make it easier:
 
@@ -88,7 +88,7 @@ Most of them aren't worth dissecting much, but some of them have had limited use
 - Number theory spun off from arithmetic to clarify and qualify precise definitions of what numbers even *are*.
 - Graph theory intimately studies graphs, which are effectively [visualizations](data-viz.md) of [networks](networks.md).
 
-Over time, the math [pedagogical culture](pedagogy.md) has also created [their own language](glossary-math.md) among each other to accommodate this additional depth.
+Over time, the math [pedagogical culture](education.md) has also created [their own language](glossary-math.md) among each other to accommodate this additional depth.
 
 - There are *many* adjectives that add to existing domains, and these domains become absurdly long (e.g., derived non-commutative algebraic geometry).
 

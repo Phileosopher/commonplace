@@ -61,7 +61,7 @@ Stay constantly open to new things:
 
 - Force yourself to alternate between attitudes that thoroughly consider others' thoughts and completely disregarding them.
 - Systematically consider the effects of breaking every rule, including the ones in your own mind.
-- Try [teaching](pedagogy.md) everything you know to other people interested in the subject.
+- Try [teaching](education.md) everything you know to other people interested in the subject.
 
 Focus more on [productivity](success-4_routine.md) than "getting it right":
 
@@ -479,7 +479,7 @@ Don't kill yourself about what you've made:
 Have a predefined "to consume" list of things you'd like to explore in your recovery:
 
 - Seek and consume expert work by others (i.e., "masterpieces").
-- Find ways to continue [educating yourself](pedagogy.md) on all forms of the concept.
+- Find ways to continue [educating yourself](education.md) on all forms of the concept.
   - Read books and articles.
   - Listen to music and podcasts.
   - Attend seminars for things that interest you.

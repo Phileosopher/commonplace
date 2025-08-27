@@ -189,7 +189,7 @@ No matter what you do, you'll never stop having a limited perspective:
 When you scale, you lose something in the process:
 
 - We find tremendous [meaning](meaning.md) when we accomplish tremendous things within a [limited budget](money-3_budget.md) and scarce resources.
-- Often, radical success eventually leads to larger-scale endeavors, which will force you to either decide to become [a manager](mgmt-1_why.md), a [teacher](pedagogy.md), or downgrade to try the entire experience again (such as [serial entrepreneurship](entrepreneur-1_why.md)).
+- Often, radical success eventually leads to larger-scale endeavors, which will force you to either decide to become [a manager](mgmt-1_why.md), a [teacher](education.md), or downgrade to try the entire experience again (such as [serial entrepreneurship](entrepreneur-1_why.md)).
 
 Understand when your investment has achieved its results:
 

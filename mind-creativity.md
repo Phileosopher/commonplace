@@ -63,7 +63,7 @@ Creators are always designing for a target audience, and their most important au
 - Builders must live and work in their buildings.
 - [Writers](language-writing.md) must read their work out loud.
 - [Computer programmers](programming-basics.md) must use their programs.
-- [Teachers](pedagogy.md) must follow the [logic](logic.md) of their curriculum.
+- [Teachers](education.md) must follow the [logic](logic.md) of their curriculum.
 
 The only way a creator can be sure they're communicating [quality](values-quality.md) is to receive it themselves as the consumer of the creation, a bit like looking in a mirror. Since it takes so much time, most people don't do it.
 
@@ -79,7 +79,7 @@ We observe sensory cues and learn the steps to perform tasks. We have little to 
 
 There are [techniques](jobs-specialization.md) to do everything faster, create less waste, and improve overall quality, but we always start with a very weak grasp on how to actually *do* the task, let alone improving it.
 
-Most people live within this stage on most things. It's usually so frustrating that we're discouraged to venture farther into it. [Excellent teachers](pedagogy.md) will [encourage](people-4_friends.md) and [motivate](purpose.md) us, as well as give us all the "shortcuts" they found to save us dozens or even *hundreds* of hours of time.
+Most people live within this stage on most things. It's usually so frustrating that we're discouraged to venture farther into it. [Excellent teachers](education.md) will [encourage](people-4_friends.md) and [motivate](purpose.md) us, as well as give us all the "shortcuts" they found to save us dozens or even *hundreds* of hours of time.
 
 It's important to note that this mess is absolutely *required*. Without it, the range of [the unknown](unknown.md) can't expand enough to create anything [meaningful](meaning.md) from the [final result](mind-creativity-results.md).
 
@@ -132,7 +132,7 @@ From this stage, we'll only improve for a few specific reasons:
 - The medium has constraints, so we work along the edges of the medium to "clean up" inherent flaws with that medium.
 - We want a new challenge with a hybrid medium, so we start at the first stage and build up to this stage with that one as well.
 
-Otherwise, we'll stick with what we're comfortable with and [pass it on to others](pedagogy.md).
+Otherwise, we'll stick with what we're comfortable with and [pass it on to others](education.md).
 
 ### 5. Brilliance
 

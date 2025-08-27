@@ -106,7 +106,7 @@ Typically, because of the way technologies develop, they create waste, though th
 
 Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-3_exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
 
-Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](pedagogy.md) that information, or it will be lost until someone else re-invents it someday.
+Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
 
 When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war.md), the only reliable way to prevent that technology from destroying a large number of people is with other technology owned by the potential victims, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
 

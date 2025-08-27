@@ -62,7 +62,7 @@ One of the most effective forms of improved healthcare, though, comes in underst
 
 ## Goal 4: Quality Education
 
-[Understanding](understanding.md) is critical to all success, and [education](pedagogy.md) is the means to that understanding.
+[Understanding](understanding.md) is critical to all success, and [education](education.md) is the means to that understanding.
 
 The onset of [the internet](browser.md) makes education trivially easy.
 
@@ -71,7 +71,7 @@ The onset of [the internet](browser.md) makes education trivially easy.
 This won't come without pushback.
 
 - There's plenty of power at risk of redistribution by groups that control information.
-- One example is how [educated people](pedagogy.md) tend to resist conformity and question the legitimacy of an authority's power.
+- One example is how [educated people](education.md) tend to resist conformity and question the legitimacy of an authority's power.
 
 The most lasting form of education, though, comes through the wisdom and experience of the [older generation](maturity.md).
 
@@ -149,7 +149,7 @@ A nation is made of its citizens, and individual differences create individual i
 
 The sensible action would be to see which countries measure up as the most prosperous and expect the other countries to imitate that of their own governmental volition, with inequalities only measured after accounting for unwillingness to work with "best practices".
 
-- Generally, the USA has been fantastically prosperous (contrary to [leftist](leftism.md) complaints), and other countries could [learn](pedagogy.md) from that.
+- Generally, the USA has been fantastically prosperous (contrary to [leftist](leftism.md) complaints), and other countries could [learn](education.md) from that.
 
 ## Goal 11: Sustainable Cities and Communities
 

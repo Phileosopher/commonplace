@@ -65,7 +65,7 @@ We can't precisely grasp facts as they are in nature, but we can assemble them i
 
 Good facts are often difficult to find. Usually, we must [purpose](purpose.md) ourselves to seek diligently for them, and they're typically not that useful by themselves.
 
-To find good facts, we require hefty amounts of [analysis](logic.md) to process our [understanding](understanding.md), as well as [reaffirming truths we already know](understanding-certainty.md). Facts are easier to internalize if we use [education](pedagogy.md) and proper use of [technology](technology.md) to increase our [understanding](understanding.md), but who we listen to will *profoundly* [influence](power-influence.md) us.
+To find good facts, we require hefty amounts of [analysis](logic.md) to process our [understanding](understanding.md), as well as [reaffirming truths we already know](understanding-certainty.md). Facts are easier to internalize if we use [education](education.md) and proper use of [technology](technology.md) to increase our [understanding](understanding.md), but who we listen to will *profoundly* [influence](power-influence.md) us.
 
 Our [story](stories.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 

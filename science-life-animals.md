@@ -23,7 +23,7 @@ As a whole, a brain consists of several inter-related parts:
   - The pineal gland is *very* deep in the brain and manages sleep cycles with the hormone melatonin.
 - Also, the limbic system is heavily connected to the brain stem, but extends outward into the cerebrum:
   - The amygdala is an almond-shaped chunk right under each hemisphere of the brain that's part of the limbic system.
-  - The hippocampus is on the underside of each temporal lobe that supports [memory](mind-memory.md), [learning](pedagogy.md), navigation, and perceiving space.
+  - The hippocampus is on the underside of each temporal lobe that supports [memory](mind-memory.md), [learning](education.md), navigation, and perceiving space.
 - The brain emits various types of waves:
   - Delta waves are when a body is in a state of deep [sleep](sleep.md).
   - Alpha waves express when the body is in a state of rest.

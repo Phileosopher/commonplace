@@ -8,7 +8,7 @@ With the presence of variables, the equations have *many* options for factoring:
 - 5 + x = 12 can become x = 7 or x - 7 = 0
 - x^2^ + 5 = 2 can be x^2^ = -3 or x = √-3 or x^2^ + 3 = 0
 
-Most equations require "solve for □" to give an absolute concept, but the vagueness of algebra comes from its relativity, which is probably the largest failure in mathematics [pedagogy](pedagogy.md):
+Most equations require "solve for □" to give an absolute concept, but the vagueness of algebra comes from its relativity, which is probably the largest failure in mathematics [pedagogy](education.md):
 
 - Everything in maths requires understanding the precise [purpose](purpose.md) you wish to accomplish.
 - [Rote memorization](mind-memory.md) literally gives the *opposite* effect by provoking people to calculate by [habit](habits.md) without any awareness of the grander picture of *why* the calculation should be done.

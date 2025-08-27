@@ -120,7 +120,7 @@ We tend to adopt cultural values without consciously observing what we've confor
 Our choice and flow of [language](language.md) show our cultural background:
 
 - People from large groups use a clause to draw attention before they speak (e.g., "If I may have your attention, please...")
-- Their family's career [specializations](jobs-spcialization.md) and [educational level](pedagogy.md) affect that person's choice of words.
+- Their family's career [specializations](jobs-spcialization.md) and [educational level](education.md) affect that person's choice of words.
 - How fast someone speaks shows the population density of where they came from.
 - Their accent and tone often implies a geographical region.
 
