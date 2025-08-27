@@ -202,7 +202,7 @@ Next, identify all the self-deceptions:
   - Black-and-white, all-or-nothing thinking, especially regarding [conflicts](people-5_conflicts.md) and [success](success-1_why.md).
 - One of the most horrifying personas people adopt is the "life of the party" facade:
   - While they hide it well, the lively and enjoyable conversation is meant to control the conversation, *not* [make friends](people-4_friends.md) or build relationships.
-    - It keeps the conversation topic in an area that feels safe and doesn't provoke [change](changes.md).
+    - It keeps the conversation topic in an area that feels safe and doesn't provoke [change](people-changes.md).
     - They can maintain emotional distance while also keeping a good reputation with others.
   - You can usually detect the facade by pressing on an important, serious [conflict](people-5_conflicts.md).
   - There are other variations to "life of the party" like incessantly talking, using many large words, or speaking with lots of [trade-based jargon](glossary-legal.md).

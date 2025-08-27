@@ -298,7 +298,7 @@ Disposition effect - we tend to keep bad investments and sell good investments
 
 Dunning-Kruger effect - we overestimate our skills when we don't know much and underestimate skills when we're highly qualified
 
-End-of-history illusion - we expect we'll [change](changes.md) less in the future than we did up through now
+End-of-history illusion - we expect we'll [change](people-changes.md) less in the future than we did up through now
 
 Form function attribution bias - we assume the way something looks is how it's used
 

@@ -66,7 +66,7 @@ We use a specific process to develop and solidify our [beliefs](trust.md):
 
 We build our values into a loose hierarchy, with some values holding more [influence](power-influence.md) over our minds than others. At the top, we have [religious devotion](religion.md) and [addiction](addiction.md). At the bottom, we move into less-[certain](understanding-certainty.md) elements, extending out into further uncertainty into a formless [void](unknown.md).
 
-Whenever we [change](changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](personality.md).
+Whenever we [change](people-changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](personality.md).
 
 Our desire for [safety](safety.md) and the tremendous magnifying [power](power.md) of [exponents](math.md) mean some of the most powerful values we can hold are self-reinforced adverse ideas:
 
@@ -86,7 +86,7 @@ Firstly, since their very existence is bound by [language](language.md), no indi
 
 Further, we tend to "flavor" our thoughts with experiences that associate with them. For example, if you were instructed to think of a random color for a bird, you're [statistically](math.md) more likely to think of a blue-colored bird because your experience dictates its association, and you'd be affected by the prior paragraph either way.
 
-Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](changes.md), [learning](understanding.md), and [making decisions](decisions.md). This doesn't even include the [changes happening around us](trends.md) over time.
+Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](decisions.md). This doesn't even include the [changes happening around us](trends.md) over time.
 
 Third, we make *many* associations beyond what we're consciously [aware](awareness.md) of. Our minds are incredibly elaborate, and one object will have connections with dozens, hundreds, and sometimes thousands of other things. Those things all represent themselves in our conscious depending on a vast variety of conditions, including how we [feel](mind-feelings.md) and the other associations around our recalled experience.
 

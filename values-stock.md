@@ -128,7 +128,7 @@ The [Natural World](reality.md):
 - Patience will be rewarded.
 - Time marches on.
 
-[Changing](changes.md):
+[Changing](people-changes.md):
 
 - Some [suffering](hardship.md) is good for us.
 
@@ -160,7 +160,7 @@ The [Natural World](reality.md):
 
 [Technology](technology.md):
 
-- [Change](changes.md) and [progress](trends.md) are bad.
+- [Change](people-changes.md) and [progress](trends.md) are bad.
 - We should [influence progress](power-influence.md), and opposing it is bad.
 - Be cautious with powerful technology, especially if it was [designed to kill](people-conflicts-war.md) (e.g., guns).
 

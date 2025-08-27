@@ -96,7 +96,7 @@ It's important to note that groups (especially the leadership) will *never* open
 3. The leader admits they're wrong, and the group suffers a schism and *heavily* redefined roles, which may lead to the group breaking apart entirely.
 4. Behave as if they haven't done anything wrong and [attack the messenger](morality-taboo.md).
 
-Any of the above are irrelevant to what the group actually [changes](changes.md) in light of what they did wrong. If leaders in the group admit they're wrong, only a few possibilities play out:
+Any of the above are irrelevant to what the group actually [changes](people-changes.md) in light of what they did wrong. If leaders in the group admit they're wrong, only a few possibilities play out:
 
 1. Quietly make the changes as inconspicuously as possible and never talk about it again.
 2. If they can publicly throw all blame on former leadership (even if it was a few days), heavily [advertise](image.md) that change to create distance from it.

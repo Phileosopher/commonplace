@@ -68,7 +68,7 @@ During the Renaissance, two more areas appeared:
 
 For a while, the 4 domains existed independently, and most of its framework was grounded in ancient texts (e.g., Euclid's book titled "Elements").
 
-- Some domains like celestial mechanics and solid mechanics arose, but they were effectively subdomains of [physics](science.md).
+- Some domains like celestial mechanics and solid mechanics arose, but they were effectively subdomains of [physics](science-physics.md).
 
 However, at the end of the 19th century, there was an issue about Euclid's fifth postulate (or parallel postulate):
 

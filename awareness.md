@@ -1,7 +1,5 @@
 
-# Awareness
-
-## Why bother?
+# What awareness is
 
 We can't live healthy lives when our subconscious always drives us:
 
@@ -12,7 +10,7 @@ We can't live healthy lives when our subconscious always drives us:
 
 The basis of all [understanding](understanding.md) starts with knowing yourself.
 
-- Awareness is the first step to *all* conscious [change](changes.md).
+- Awareness is the first step to *all* conscious [change](people-changes.md).
 - Without self-awareness, our subconscious [habits](habits.md) automatically run our lives.
 - We are the main curators of our mental health, as well as the first to experience its consequences.
 

@@ -20,7 +20,7 @@ The human body is a system of systems:
 - Respiratory system - takes in oxygen, expels carbon dioxide
 - Renal/Urinary system - dissolves waste products in the blood and expels them as urine
 
-Further, the brain itself is [a vastly complex system of its own](science.md).
+Further, the brain itself is [a vastly complex system of its own](science-life-neurology.md).
 
 This level of complexity means tiny problems can dramatically ripple across those systems and affect a person's overall health.
 
@@ -86,7 +86,7 @@ These can often be attributed to a few key causes:
 - Hauling around too much body weight for too long
 - Too few of certain vitamins and minerals
 - Too much of a specific harmful substance
-- Too little bodily activity to push out unhealthy elements and [keep the systems running well](changes.md)
+- Too little bodily activity to push out unhealthy elements and [keep the systems running well](people-changes.md)
 - Certain [attitude problems](success-2_attitude.md) that offset any otherwise healthy gains
 
 ## Toxins/Energy
@@ -284,7 +284,7 @@ Adverse weather conditions help our bodies get stronger and healthier:
 
 - As long as we're hydrated, hot weather increases blood flow and helps us detox through sweat.
   - Make a habit of using a hot tub, sauna, or taking *extremely* hot showers.
-- Except for freezing weather that can kill us, cold temperatures strengthen our body's various systems through [resistance to the elements](changes.md) (especially developing brown fat).
+- Except for freezing weather that can kill us, cold temperatures strengthen our body's various systems through [resistance to the elements](people-changes.md) (especially developing brown fat).
   - Make a habit of drinking ice-cold water on an empty stomach, placing ice packs on yourself, or taking cold showers and baths.
 
 Restricting calorie intake (i.e., fasting or severe dieting) builds stronger muscle and stimulates healthy aging.

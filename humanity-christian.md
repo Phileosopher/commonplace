@@ -29,7 +29,7 @@ Every person is a tripartite being with a body, a soul, and a spirit.
   - [Isaiah 42:1](https://biblehub.com/isaiah/42-11.htm)
 - But, God is also a spirit.
   - [John 4:24](https://biblehub.com/john/4-24.htm)
-- The [secular world](science.md) mostly demarcates a type of body/soul/spirit distinction as the id, ego, and superego.
+- The [secular world](science-scientism.md) mostly demarcates a type of body/soul/spirit distinction as the id, ego, and superego.
 
 To attain fullness in Christ, we must manage all three components of ourselves.
 

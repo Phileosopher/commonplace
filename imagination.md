@@ -54,7 +54,7 @@ Some predictions go *backward* from the present. By assembling likely past circu
 
 ## Predicting people
 
-We tend to underestimate how we'll [change](changes.md) from our environment (e.g., [feelings](mind-feelings.md) a day from now) and overestimate how much our environment itself will [change](mind-creativity-results.md). This is because we have *much* more direct experience with our minds than our environment, so we're more likely to assume our minds are fixed while the environment is malleable.
+We tend to underestimate how we'll [change](people-changes.md) from our environment (e.g., [feelings](mind-feelings.md) a day from now) and overestimate how much our environment itself will [change](mind-creativity-results.md). This is because we have *much* more direct experience with our minds than our environment, so we're more likely to assume our minds are fixed while the environment is malleable.
 
 We tend to suppose other people will say or do things, and usually create [habits](habits.md) around those beliefs, which is the basis for [cultural](culture.md) rituals and [social standards](people-rules.md).
 

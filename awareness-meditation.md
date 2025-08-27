@@ -1,5 +1,5 @@
 
-# Meditation
+# How to meditate
 
 Meditation is simply tracking the current state of your mind:
 
@@ -20,7 +20,7 @@ The ability to meditate for a long time is rare, and things like [technology](te
 - However, the ability to focus our thoughts can have a prolonged effect that can last hours after a session.
 - 20 minutes a day is enough to permanent change your brain's programming.
 
-## Why bother?
+## Why meditation matters
 
 Meditation is critical for living well:
 
@@ -59,7 +59,7 @@ Meditation should be habitual:
 - Each day we meditate, we manage the new problems of that day.
 - In that sense, meditation should be seen like [weight management](body-2_diet.md), but for the mind.
 
-## How to meditate
+## The method for meditation
 
 A. Find somewhere comfortable:
 

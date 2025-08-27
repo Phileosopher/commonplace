@@ -85,7 +85,7 @@ When we take that fear of death into a more broad application, we tend to create
 
 [Reality](reality.md) itself can be scary, and we'll frequently block or [distort](image-distortion.md) our perception of it.
 
-We have an [irrational](logic.md) fear of true things because they force us to [change](changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
+We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
 
 ## Fear as fun
 

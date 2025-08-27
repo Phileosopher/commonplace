@@ -19,7 +19,7 @@ All feelings are driven from either a core belief that's either a [love](people-
 2. [Uncertainty or Variety](unknown.md) - the need for new experiences
 3. [Significance](meaning.md) - the need to feel important, special, or needed
 4. [Connection or Love](people-love.md) - feeling closeness or united with something
-5. [Growth](changes.md) - extending [ability](mind-creativity-results.md) or [understanding](understanding.md)
+5. [Growth](people-changes.md) - extending [ability](mind-creativity-results.md) or [understanding](understanding.md)
 6. Contribution - [helping others](church-serve.md) in some capacity
 
 The need fulfillment (and its associated feelings) work through our needs in pairs:

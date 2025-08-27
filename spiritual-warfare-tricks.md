@@ -175,7 +175,7 @@ When we discover the nature of new [friends](people-4_friends.md), he uses a tec
 By using our [images](image.md) of others around us, we can fall into very destructive behaviors like superficiality or callousness:
 
 - We'll imitate certain behaviors from our recurring patterns of shame, pride, modesty, and vanity, which eventually become a part of us through [habit](habits.md).
-- By delaying our [awareness](awareness.md) for as long as possible, we become less able to [change](changes.md) those behaviors, especially about small worldly vices like [trendiness](trends.md), [friends](people-4_friends.md), or [ambition](success-4_routine.md).
+- By delaying our [awareness](awareness.md) for as long as possible, we become less able to [change](people-changes.md) those behaviors, especially about small worldly vices like [trendiness](trends.md), [friends](people-4_friends.md), or [ambition](success-4_routine.md).
 - Frequently, if the Satan can direct our attention to compare ourselves with others as a matter of self-valuation, he can provoke us to self-hatred over impossible standards or conceit over standards that are beneath the way God designed us.
 
 We can often misunderstand through [language](language.md), and the Satan can magnify it:
@@ -212,7 +212,7 @@ The devil makes us hate people groups, but only as a passive, brewing hatred:
 
 Christianity is a [simple message](jesus-gospel.md) that naturally unifies *all* humanity through recognizing their need for salvation in light of their sin. The Satan responds with "Christianity and..." to create [special interests](jobs-specialization.md) that make the person feel separate from the rest of the Church:
 
-- While God built us to have an interest in cycling seasons of new things (e.g., yearly seasons, [fashions](trends.md), [technologies](technology.md)), this can easily pervert to a desire for novelty and [change](changes.md) merely for its own sake.
+- While God built us to have an interest in cycling seasons of new things (e.g., yearly seasons, [fashions](trends.md), [technologies](technology.md)), this can easily pervert to a desire for novelty and [change](people-changes.md) merely for its own sake.
 - Novelty has a [diminishing return](decisions.md), and requires progressively more investment to maintain. Believers ensnared in [fashions](trends.md) will invariably feel dissatisfied or greedy as their interest persists, which can lead to many other sins.
 - Across society, fashions create *many* other vices that convert some of God's [values](values.md) with their time and place into an antagonist. Cruel societies fight sentiment, [emotional](mind-feelings.md) ones fight [reasoning](logic.md), lazy ones fight honor, [liberal ones fight convention](https://theologos.site/the-west/).
 - To answer our roles in these trends, we should ask simple questions (Is it right? Is it possible?), but the devil provokes us to ask complicated questions (Is it progressive or reactionary? Is it on the right side of history? Will this make an impact?). Those questions [wonder](imagination.md) about the future, which is a vacuum of [understanding](understanding.md), so the Satan has full control to make suggestions that provoke more misery.
@@ -228,7 +228,7 @@ After enough time away from other believers, demons can provoke someone to [go t
 - Other leaders are so embittered that they teach audaciously only for the [shock effect](mind-feelings-surprise.md).
 - Most church divisions come through his redirection of thoughts away from spiritual matters and theological differences and toward various procedures and minutiae of running a church (e.g., worship music, [marketing materials](marketing.md), organizational [decisions](decisions.md)).
 
-Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](changes.md) to the point that people feel peer pressure to build out their vices:
+Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](people-changes.md) to the point that people feel peer pressure to build out their vices:
 
 - Heavy sinners who willfully rebel against God are uncommon in civilized society, but many smaller and pettier sinners are merely selfish, though the [fashions of the time](trends.md) make the trend adapt constantly in different directions.
 - The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-5_conflicts.md) and the source for more of his work.

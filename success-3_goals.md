@@ -1,7 +1,7 @@
 
 # Setting successful goals
 
-Successful [change](changes.md) has multiple necessary components:
+Successful [change](people-changes.md) has multiple necessary components:
 
 1. A [VISION](imagination.md) that avoids confusion (which requires the right [attitude](success-2_attitude.md))
 2. An [INCENTIVE](purpose.md) that speeds up change (often with a deadline)

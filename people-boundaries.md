@@ -18,7 +18,7 @@ There are *many* human rights:
 - Freedom to act without fear of others sabotaging many of their things:
   - Able to move about freely, rest, and have an adequate living arrangement.
   - Able to [think](understanding.md) and [believe](understanding-certainty.md) what they want (which includes being wrong).
-  - They can freely pursue their [identity](identity.md), [change](changes.md), and [learn](understanding.md).
+  - They can freely pursue their [identity](identity.md), [change](people-changes.md), and [learn](understanding.md).
   - They can express their ideas through [language](language.md).
   - They can [communicate with others](people-conversation.md) and to privacy.
   - They can [have a family](people-family.md), [marry](gender.md), and [be in a community](groups-member.md).
@@ -97,7 +97,7 @@ Our [feeling](mind-feelings.md) against others violating our privacy is usually 
 - Where you ate lunch or spent last Friday isn't typically relevant to most people.
 - Your music preferences can't do much if everyone else knows.
 
-Most privacy concerns over small things are associated with others' ability to [predict](imagination.md) your behavior. However, people keep making [decisions](decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](changes.md), even with an [algorithm](technology.md).
+Most privacy concerns over small things are associated with others' ability to [predict](imagination.md) your behavior. However, people keep making [decisions](decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
 
 This privacy sometimes extends to everyone, but more often only applies to outsiders of a [group](groups-member.md). Typically, there's someone responsible for managing that privacy, so they usually have disproportionate [power](power.md) over that information.
 

@@ -9,7 +9,7 @@ We are *constantly* deciding things. When we were little, nearly all our decisio
 
 Contrary to how it may [seem](image.md), decision-making is far more of a strain on our willpower than actually [*doing* most things](mind-creativity-results.md).
 
-As we develop [habits](habits.md) from infancy onward and our [identity](identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](changes.md) without [awareness](awareness.md) of it.
+As we develop [habits](habits.md) from infancy onward and our [identity](identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](people-changes.md) without [awareness](awareness.md) of it.
 
 ## Willpower
 
@@ -169,7 +169,7 @@ The precise moment we've decided, we're finished with our [purpose](purpose.md) 
 In the long term, deciding leans one of two ways:
 
 1. It's a similar pattern to the decisions we'd made before, and solidifies a [habit](habits.md).
-2. It's a new form of decision we *hadn't* made before, and it makes us [change](changes.md).
+2. It's a new form of decision we *hadn't* made before, and it makes us [change](people-changes.md).
 
 The cause for *why* we decide on something has a tremendous impact on how we interpret that decision's [results](mind-creativity-results.md):
 

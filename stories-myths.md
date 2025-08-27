@@ -34,7 +34,7 @@ Calling out the name of a monster to control it symbolizes how we assign [values
 
 Repelling evil with salt comes from how salt symbolizes preservation of food (and therefore ensuring survival), and was once highly valuable for that reason.
 
-- The imagery of *being* salt (such as in Christianity) is the innate power [humanity](humanity.md) has to be an agent of [change](changes.md) in their environment.
+- The imagery of *being* salt (such as in Christianity) is the innate power [humanity](humanity.md) has to be an agent of [change](people-changes.md) in their environment.
 
 An object of unbelievably extreme power (e.g., magic lamp, Holy Grail) is our imagination of a [technological](technology.md) (i.e., human-controlled) means of controlling the forces of nature directly.
 
@@ -101,7 +101,7 @@ Some beings simply depict the [unknown](unknown.md):
 - Chupacabra is the random set of mysterious events that may happen to livestock.
 - The Hydra represents how we interpret problems, where killing one "head" brings about 2 others, carrying on in a parade of endless issues that [we never adequately accomplish](habits.md).
 
-The phoenix is an optimistic take on how we see [death](mind-feelings-fear.md), with the implication that life necessarily exists after it and that death is simply a part of moving to the next life. From another angle, it also represents [self-improvement](success-1_why.md) as our old self "dies" from our [changes](changes.md).
+The phoenix is an optimistic take on how we see [death](mind-feelings-fear.md), with the implication that life necessarily exists after it and that death is simply a part of moving to the next life. From another angle, it also represents [self-improvement](success-1_why.md) as our old self "dies" from our [changes](people-changes.md).
 
 Many of them are complex mix-and-match elements of multiple things:
 
@@ -114,7 +114,7 @@ Many of them are complex mix-and-match elements of multiple things:
 Most gods and deities are named depictions of concepts we understand, and there are several popular ones that keep cropping up:
 
 - Sun god (e.g., Ra), who often mixes closely with a creator god (i.e., the bringer of life)
-- Weather god (e.g., Thor, Nimbus), which tends to be the bringer of [change](changes.md)
+- Weather god (e.g., Thor, Nimbus), which tends to be the bringer of [change](people-changes.md)
 - The chaos and the [unknown](unknown.md), often named (e.g., Loki, Anansi), and often takes on an antagonistic form (e.g., Satan)
 - Fertility gods/goddesses that express the uncertainty around [child-bearing](people-family.md)
 

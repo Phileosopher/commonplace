@@ -123,7 +123,7 @@ B. Forbearance
   1. Let go of that particular offense.
   2. Remove grudges and fantasies of revenge.
   3. Stay watchful of their behavior in the future.
-- With time and [love](people-love.md), forbearance can become exoneration and full forgiveness if that person [changes](changes.md).
+- With time and [love](people-love.md), forbearance can become exoneration and full forgiveness if that person [changes](people-changes.md).
 
 C. Release
 

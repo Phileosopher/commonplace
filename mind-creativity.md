@@ -17,7 +17,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 - Within the human mind, any sense of order is tailored and curated over numerous revisions.
 - Further, any simplicity or elegance comes from even *more* revisions.
 
-We create when our [decisions](decisions.md) become [actions](mind-creativity-results.md). *All* changes, from the [mind](changes.md) outward to what we can [communicate](language.md) or [build](mind-creativity-results.md), are technically "created" by us.
+We create when our [decisions](decisions.md) become [actions](mind-creativity-results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](mind-creativity-results.md), are technically "created" by us.
 
 Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 

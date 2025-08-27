@@ -17,7 +17,7 @@ Habits are a type of neurological [story](stories.md) with a relatively simple m
 
 Another way to see habits is as the transition our conscious [decisions](decisions.md) to the subconscious.
 
-Habits are more powerful than mere [decisions](decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](decisions.md) process. They are effectively the long-term way we [conform](changes.md) to a situation.
+Habits are more powerful than mere [decisions](decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
 
 We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](decisions.md) or [consequence](mind-creativity-results.md).
 

@@ -6,7 +6,7 @@ As much as they're a choice, raising children is one of the most significant dec
 However, any healthy marriage will mean it's neither possible to prepare for *or* prevent having children:
 
 - If you want a baby, there's no guarantee you'll have one.
-  - Conception is very much a combination of fertility, [diet](body-2_diet.md), [exercise](body-3_exercise.md), [age](maturity.md), and [genetics](science.md).
+  - Conception is very much a combination of fertility, [diet](body-2_diet.md), [exercise](body-3_exercise.md), [age](maturity.md), and [genetics](science-life-biochem.md).
   - The chances of a woman conceiving is highest at the peak of her fertility cycle.
 - Beyond abstinence, birth control never has a 100% chance of preventing conception.
   - Most of them are about 99% effective.

@@ -406,7 +406,7 @@ Randianism - People are best as heroic beings morally focused on [self-happiness
 
 Role ethics - People are best defined by their role in a [family](people-family.md).
 
-Stoicism - Self-control of all types creates inner strength that builds harmony with the universe. Opposite of Epicureanism. Has largely been disproven by [psychology](science.md).
+Stoicism - Self-control of all types creates inner strength that builds harmony with the universe. Opposite of Epicureanism. Has largely been disproven by [psychology](science-social.md).
 
 ### Do we have free will?
 

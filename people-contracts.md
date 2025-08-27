@@ -1,4 +1,6 @@
 
+---
+
 When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](imagination.md) there will be future performance.
 
 *Everything* we do with others that isn't out of [love](people-love.md) is an agreement for one of our [purposes](purpose.md):

@@ -9,7 +9,7 @@ Even without [the Bible](bible.md), we can still [logically](logic.md) conclude 
 
 - Kalam argument: Everything started with something, so God is that something that started everything.
 - Liebniz argument: Everything has an explanation for it, so God explains the universe's existence.
-- Fine-Tuning argument: The universe is highly ordered and necessary for [life](science.md) to exist, so something must have fine-tuned it, and it's absurd to presume it came from pure randomness.
+- Fine-Tuning argument: The universe is highly ordered and necessary for [life](science-life.md) to exist, so something must have fine-tuned it, and it's absurd to presume it came from pure randomness.
 - Moral argument: [morality](morality.md) requires God to exist, and morals do exist, so God exists (which happens to also nullify the Evil God Challenge).
 - Ontological argument: There's something that's the "greatest" to compare everything to, and that's God.
 

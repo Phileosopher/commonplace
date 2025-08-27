@@ -86,7 +86,7 @@ Cons:
   - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](decisions.md) that are completely [inconsistent](people-5_conflicts.md) with the dictator's [purposes](purpose.md).
   - If the leader is strict, it becomes tyrannical, since everyone else will have better ideas for their situation that the leader will have to suppress to maintain order.
 - Without clearly [communicating](people-conversation.md) the rules to everyone, the line-of-succession for the next dictator gets complicated.
-- If overthrown, anyone else can make a new autocracy in its place (i.e., no [lasting legacy](legacy.md) and often destroying any legitimate [progress](changes.md)).
+- If overthrown, anyone else can make a new autocracy in its place (i.e., no [lasting legacy](legacy.md) and often destroying any legitimate [progress](people-changes.md)).
 
 ### Oligarchy - a small group controls everything
 

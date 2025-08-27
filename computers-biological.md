@@ -1,7 +1,7 @@
 
 # Biological computers summarized
 
-In one framing of thought, [our DNA](science.md) is a computer. It has 4 nucleotide base pairs, which come together as a quaternary program.
+In one framing of thought, [our DNA](science-life-biochem.md) is a computer. It has 4 nucleotide base pairs, which come together as a quaternary program.
 
 The entire system is vastly complex, but all life is programmed from those 4 primitives, similarly to how the 2 primitives of true/false [create all math inside a computer](math.md).
 

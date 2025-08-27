@@ -65,7 +65,7 @@ To gain more understanding of [something we don't know](unknown.md), we generall
 
 In particular, "why" questions generate the most information because they request the broadest possible range of information. They also help [bridge connections](networks.md) the easiest between things, since they most easily help us to detect [patterns](symbols.md) across domains.
 
-We tend to be very accurate about *what* we're paying attention to, but often fail at explaining *why* it is that way or *how* it would respond to any [changes](changes.md) around it.
+We tend to be very accurate about *what* we're paying attention to, but often fail at explaining *why* it is that way or *how* it would respond to any [changes](people-changes.md) around it.
 
 When we face complex questions, we tend to answer a far more simple question in place of it. Unfortunately, we tend to also not notice that we made that switch, and we'll commit a simple answer to memory about an inherently complicated idea.
 
@@ -240,7 +240,7 @@ And, since we have *much* more information over how little we really know versus
 
 ## Drawbacks of understanding
 
-Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](changes.md). In many [cultures](culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.
+Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](people-changes.md). In many [cultures](culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.
 
 Understanding certain things can also become tremendously risky for successfully integrating into the hierarchy of many [social groups](groups-member.md): one key bit of information can make a member more knowledgeable than the leader, which creates an [uneven power dynamic](power-types.md).
 

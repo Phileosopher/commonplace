@@ -40,19 +40,19 @@ Usually, we set ourselves at the center of the story while we're engaged with it
 
 Every story has a main character (protagonist), who always experiences an [inner conflict](conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](image.md) by the [creator](mind-creativity.md). A hero will always [decide](decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
 
-The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](changes.md) and may be caused by the character [anticipating](imagination.md), [performing](decisions.md), or [experiencing consequences](mind-creativity-results.md).
+The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](imagination.md), [performing](decisions.md), or [experiencing consequences](mind-creativity-results.md).
 
 The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](culture.md) of the creator is critically important.
 
-Across the duration of *any* story, it contains 7-8 "[movements](changes.md)" that alter the flow or [feeling](mind-feelings.md) of the story. The story itself is a consequence, not just of a setting, of the main character (who is defined as a Hero). The main character is always facing [the unknown](unknown.md) through a ridiculously predictable set of circumstances:
+Across the duration of *any* story, it contains 7-8 "[movements](people-changes.md)" that alter the flow or [feeling](mind-feelings.md) of the story. The story itself is a consequence, not just of a setting, of the main character (who is defined as a Hero). The main character is always facing [the unknown](unknown.md) through a ridiculously predictable set of circumstances:
 
 1. A Hero starts comfortably in the Ordinary World, but is missing something.
 2. The Hero experiences an Inciting Incident and receives a Call to Adventure.
    - Optionally, the Hero rejects the Call, meets the Mentor, and the Mentor gives the Hero the [courage](mind-feelings-fear.md) to accept the Call.
 3. The Hero crosses the Threshold, enters an unfamiliar situation in a Special World to get a Treasure.
 4. The Hero encounters both Enemies and Allies, and endures experiences that will serve as their Initiation.
-   - Those encounters must require the Hero to have [adapted](changes.md) to the situation to prepare for encountering the Villain.
-5. The Hero confronts the Villain, acquires the Treasure they [wanted](purpose.md) because of a [change](changes.md) in the Hero that doesn't reflect on the Villain.
+   - Those encounters must require the Hero to have [adapted](people-changes.md) to the situation to prepare for encountering the Villain.
+5. The Hero confronts the Villain, acquires the Treasure they [wanted](purpose.md) because of a [change](people-changes.md) in the Hero that doesn't reflect on the Villain.
    - The Villain doesn't have to *stay* the Villain, but the Villain change will be at least part of the Treasure (even if it's not immediately apparent).
 6. The Hero tries to "get home" and escapes the Special World.
    - Optionally, the Villain pursues the Hero, and the Hero must fight or escape again.
@@ -82,7 +82,7 @@ The starting point has a *massive* impact on the story because it determines the
 
 ### Transition to middle (antithesis)
 
-The middle of the story is where the character is first exposed to a [conflict](conflicts-inner.md) that provokes them to [change](changes.md). It's usually signaled by something that announces the coming change (herald):
+The middle of the story is where the character is first exposed to a [conflict](conflicts-inner.md) that provokes them to [change](people-changes.md). It's usually signaled by something that announces the coming change (herald):
 
 - A [creation](creations.md) from outside the main character's group.
 - [Another person](groups-member.md) inside the group who dabbles in the group's [taboos](morality-taboo.md), which may include the half-safe friend.
@@ -111,7 +111,7 @@ Usually, the main character will interact with a mentor who gives [wisdom](under
 
 There will also often be an antagonist the main character is [opposed to](imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
 
-Great stories require the challenges for the character to be difficult, and tend to use [changes](changes.md) which directly [confront](conflicts-inner.md) the main character's [fears](mind-feelings-fear.md).
+Great stories require the challenges for the character to be difficult, and tend to use [changes](people-changes.md) which directly [confront](conflicts-inner.md) the main character's [fears](mind-feelings-fear.md).
 
 In stories larger than a few minutes, the middle of the story takes up most of the time. If the middle is large enough, good stories will also add at least one subplot that creates an ironic contrast to the protagonist's journey.
 
@@ -138,11 +138,11 @@ The end of the story converges the beginning and middle of the story. The main c
 
 The end will represent a final conflict (climax), with everything the main character had done, including their new [skills](understanding.md) and [friendships](people-friends.md), helping to [achieve](mind-creativity-results.md) their [purpose](purpose.md).
 
-The final conflict will often [symbolize](symbols.md) the main character's first encounter to highlight how the character [transformed](changes.md). But this time, the character will act with more [certainty](understanding-certainty.md) and [understanding](understanding.md) than they ever had before. No matter what, they will somehow find [meaning](meaning.md) or [closure](understanding-certainty.md) in their new action.
+The final conflict will often [symbolize](symbols.md) the main character's first encounter to highlight how the character [transformed](people-changes.md). But this time, the character will act with more [certainty](understanding-certainty.md) and [understanding](understanding.md) than they ever had before. No matter what, they will somehow find [meaning](meaning.md) or [closure](understanding-certainty.md) in their new action.
 
 At the conclusion, most of the information disappears except for whatever was [meaningful](meaning.md) for the main story's events. This is a subconscious release of the excess information ("catharsis"/"closure").
 
-If there's a distinct antagonist, the main character will have [changed](changes.md) while the antagonist will have stayed the same, though it will be reversed in the case of an anti-hero. In a bad story, *neither* the hero nor anti-hero will have changed.
+If there's a distinct antagonist, the main character will have [changed](people-changes.md) while the antagonist will have stayed the same, though it will be reversed in the case of an anti-hero. In a bad story, *neither* the hero nor anti-hero will have changed.
 
 Often, adding irony to the result will heighten its emotional impact:
 
@@ -190,7 +190,7 @@ Frequently, most plots tend to fall into a few predictable patterns:
 - Redemption - a [moral](morality.md) change where a character becomes good.
 - Punitive - a good character turns bad and is [punished](rules.md).
 - Testing - a character's [resolve](purpose.md) is tested against [hardship](hardship.md).
-- Education - a character must [change](changes.md) their negative [understanding](understanding.md) of something.
+- Education - a character must [change](people-changes.md) their negative [understanding](understanding.md) of something.
 - Disillusionment - a character's must change their [positive](understanding-certainty.md) [expectations](imagination.md).
 
 Generally, the first-person [perspective](image.md) is difficult for most people to handle because it constantly reminds them that *they're* not experiencing the story. Instead, writers tend to prefer second-person viewpoints whenever possible, and they tend to add factual inconsistencies to keep the audience guessing about [reality](reality.md) within the story's context.
@@ -201,7 +201,7 @@ By world-building, the [storyteller](stories-storytellers.md) is giving more det
 
 ### Story-building
 
-Story-building is communicating the [changes](changes.md) that take place, specifically in the amount *and* scale of things happening. Without changes, the story is merely a list of things. Those changes must bring relatable [feelings](mind-feelings.md) to the audience. In the case of any story longer than a few minutes, there *must* be at least 3 major events that change everything.
+Story-building is communicating the [changes](people-changes.md) that take place, specifically in the amount *and* scale of things happening. Without changes, the story is merely a list of things. Those changes must bring relatable [feelings](mind-feelings.md) to the audience. In the case of any story longer than a few minutes, there *must* be at least 3 major events that change everything.
 
 ### Character-building
 

@@ -29,7 +29,7 @@ Amusement
 
 Change
 
-- We're *constantly* [adapting](changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](trends.md), which frequently reflect in our [identity](identity.md) and [priorities](decisions.md).
+- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](trends.md), which frequently reflect in our [identity](identity.md) and [priorities](decisions.md).
 - While we can't easily see these changes minute-by-minute, everyone changes slowly across years and decades.
 
 Comparisons

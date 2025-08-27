@@ -107,7 +107,7 @@ One of the reasons for this change is the lack of any "philosophical common sens
 Philosophy's [culture](culture.md) has become a [trended](trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
 
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
-- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science.md), and [computer science](computers.md).
+- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science-social.md), and [computer science](computers.md).
 
 The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](image.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 
@@ -115,7 +115,7 @@ The [philosophy educators](education.md) never kept up with the change in [trend
 
 Philosophy is raw [power](power.md), like money or [understanding](understanding.md) about the [stock market](money-investing.md). Like any other power, it's only useful if it builds toward something that ultimately *isn't* another version of more power.
 
-Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](changes.md) if anyone stopped to ask.
+Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
 
 On the other hand, philosophical understanding makes *many* other aspects of life easier:
 

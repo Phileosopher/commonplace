@@ -40,7 +40,7 @@ Do *not* take your incarceration personally:
 
 By keeping yourself compliant and relatively unimportant, you'll avoid most of the misery that could injure or kill you:
 
-- Find a straightforward daily [routine](habits.md) to pass the time, and consider [self-improving](changes.md) with what you can while you're waiting out your sentence.
+- Find a straightforward daily [routine](habits.md) to pass the time, and consider [self-improving](people-changes.md) with what you can while you're waiting out your sentence.
 
 Stay busy, even when you don't have much to do:
 

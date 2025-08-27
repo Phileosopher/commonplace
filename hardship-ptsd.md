@@ -56,7 +56,7 @@ There are many clinical terms for our natural self-protection techniques:
 - Projection - using personal experience as a broader pattern than it should be
 - Counter-transference - using a personal experience of a past person about a current person's transference
 
-Because of how severe we [feel](mind-feelings.md) things when we're [young](maturity.md), past traumas rarely provoke a desire for subtle [change](changes.md). Thus, it's impossible to think [rationally](logic.md) when we make [decisions](decisions.md).
+Because of how severe we [feel](mind-feelings.md) things when we're [young](maturity.md), past traumas rarely provoke a desire for subtle [change](people-changes.md). Thus, it's impossible to think [rationally](logic.md) when we make [decisions](decisions.md).
 
 Nobody experiences trauma the same way, and they express it even more differently. For example, a small boy with a physically abusive, alcoholic father may direct their sentiment a few directions:
 
@@ -83,7 +83,7 @@ They're behaving oddly because that's not technically "their" behavior. They're 
 
 There is no way to stop someone from going through a trauma loop. Literally *anything* can set it off, even a string of completely random [information](values.md). If we're unaware of something in our mind, we have no control over its influence.
 
-While we *can* halt a trauma loop by doing something a person won't expect, we must recognize a traumatic loop is running on autopilot from a memory, which may create a more convoluted set of behaviors if the person is unwilling to [change](changes.md).
+While we *can* halt a trauma loop by doing something a person won't expect, we must recognize a traumatic loop is running on autopilot from a memory, which may create a more convoluted set of behaviors if the person is unwilling to [change](people-changes.md).
 
 ## Shadow self
 

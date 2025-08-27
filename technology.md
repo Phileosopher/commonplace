@@ -92,7 +92,7 @@ New technology [culturally](culture.md) disseminates as a [social trend](trends.
 
 All technology becomes progressively more [reliable](trust.md), up to a point. Afterward, the [trade-offs](decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](trends.md), the trend followers won't care and will use it even when it's *not* reliable.
 
-We [change](changes.md) to conform to our environment. If we expose ourselves frequently to a certain technology, we'll adapt to [reasoning](logic.md) that harmonizes with that technology's [design](values.md).
+We [change](people-changes.md) to conform to our environment. If we expose ourselves frequently to a certain technology, we'll adapt to [reasoning](logic.md) that harmonizes with that technology's [design](values.md).
 
 Frequently, technology will replace the physical problems from our environment with a vast array of psychological problems instead.
 

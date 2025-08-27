@@ -9,7 +9,7 @@ Everyone has a [bias](mind-bias.md), and you might just be unlucky to have your 
 - Born into the wrong family (i.e., a lower [social class or caste](classes.md)).
 - Born with the wrong brain (i.e., [neurodivergent](mind-neurodivergence.md) like autism or schizophrenia or mental disabilities).
 - Having the wrong [religious affiliation](religion.md) for that part of the world.
-- Having a prior [criminal background](hardship-criminal.md), irrespective of how you [changed](changes.md).
+- Having a prior [criminal background](hardship-criminal.md), irrespective of how you [changed](people-changes.md).
 
 Expect prejudice to follow you everywhere.
 

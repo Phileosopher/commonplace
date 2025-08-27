@@ -86,7 +86,7 @@ Time Flexibility - how important deadlines are:
 Time Orientation - how far into the past and future to [predict](imagination.md) things:
 
 - Short-Term Orientation/Indulgence/Monochronic focuses on the present and near future.
-- Long-Term Orientation/Restraint/Polychronic focuses on the far future and past (often with more [changes](changes.md)).
+- Long-Term Orientation/Restraint/Polychronic focuses on the far future and past (often with more [changes](people-changes.md)).
 - Short-Term requires [awareness](awareness.md) of present [feelings](mind-feelings.md) and [impressions](image.md), but Long-Term requires [careful planning](success-3_goals.md) and restraint.
 
 Thought Mode - consider things with principles or applications:
@@ -107,13 +107,13 @@ Risk Tolerance - capacity to endure [social risks](socialrisk.md):
 - High Risk Tolerance calculates decisions based on [influence](influence.md) and [imagination](imagination.md).
 - Low Risk Tolerance maintains [healthy traditions](habits.md), but High Risk Tolerance adopts [trends](trends.md) well.
 
-Clearly, these are not exclusive dimensions. It's difficult to measure something based on a [group's](groups-small.md) [feelings](mind-feelings.md). However, there is a broad range called the [Overton window](politics-conservativeliberal.md) that clarifies the range everyone will accept [changes](changes.md).
+Clearly, these are not exclusive dimensions. It's difficult to measure something based on a [group's](groups-small.md) [feelings](mind-feelings.md). However, there is a broad range called the [Overton window](politics-conservativeliberal.md) that clarifies the range everyone will accept [changes](people-changes.md).
 
 ## Inheritance
 
 Our first culture is our [family](people-family.md). They told us what we should [do](mind-creativity-results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
 
-After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](changes.md) or have individual [adaptations](creations.md).
+After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 
 We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](understanding.md), and [stories](stories.md) we [believe](understanding-certainty.md) are shifting around.
 
@@ -137,7 +137,7 @@ Most cultures adopt mindless traditions over time:
 
 As traditions become [stories](stories.md), they often develop [superstition and folklore](stories-myths.md) around them. Those stories often have [wisdom](understanding.md) inside them, at least with their messages (e.g., don't go into the woods at night), but are far divorced from [reality](reality.md) and can often spin off into new [religious sects](religion.md).
 
-Sometimes, new leadership will destroy those mindless traditions, but it's impossible to purge *all* of them because of how frequently we make these traditions and how much the older order would hate the [changes](changes.md):
+Sometimes, new leadership will destroy those mindless traditions, but it's impossible to purge *all* of them because of how frequently we make these traditions and how much the older order would hate the [changes](people-changes.md):
 
 - Holiday celebrations such as Christmas and Easter.
 - Most [religious](religion.md) observances.
@@ -153,7 +153,7 @@ Some well-established people in a formerly [powerful](power.md) culture will som
 
 Most people, especially [younger people](maturity.md), will naturally adapt to other cultures they come across. As they pick-and-choose the elements they like the most, they'll become less like their old culture and will eventually become a "third culture" that synthesizes their two backgrounds. We can't really help this, since we're always at least somewhat [influenced](influence.md) by the world around us.
 
-Third-culture people are in key positions to frame [brand-new cultures of their own](socialrisk.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
+Third-culture people are in key positions to frame [brand-new cultures of their own](socialrisk.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](people-changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
 
 ## Deconstruction
 

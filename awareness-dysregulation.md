@@ -1,5 +1,5 @@
 
-# Dysregulation
+# What dysregulation is
 
 Dysregulation is a state where some of our body isn't responding to signals from other parts of our body.
 

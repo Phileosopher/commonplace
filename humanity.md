@@ -5,7 +5,7 @@ While we don't fully [understand](understanding.md) what we are, we can certainl
 
 ## The body
 
-Physically, every human is merely a [mammal](science.md). Beyond unusually large brains, there is nothing [scientifically](science.md) special about us. We have hair, [females](gender.md) secrete milk for their young, and we birth our young instead of laying eggs. We must eat, [rest](sleep.md), and tend to our [offspring](legacy.md).
+Physically, every human is merely a [mammal](science-life-animals.md). Beyond unusually large brains, there is nothing [scientifically](science.md) special about us. We have hair, [females](gender.md) secrete milk for their young, and we birth our young instead of laying eggs. We must eat, [rest](sleep.md), and tend to our [offspring](legacy.md).
 
 There is certainly something more than our bodies, and nearly everyone agrees with that designated uniqueness with the clear exception of [atheism](religion-answers.md).
 

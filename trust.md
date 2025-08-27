@@ -11,7 +11,7 @@ We place inherent trust in things when a specific mechanism arises:
 
 1. We make [habits](habits.md) revolving around something.
 2. The habits become automatic [decisions](decisions.md) that take [risks](safety.md).
-3. We could potentially have made [reasonable](logic.md) decisions to avoid those risks, but we resist [changing](changes.md) to the new information.
+3. We could potentially have made [reasonable](logic.md) decisions to avoid those risks, but we resist [changing](people-changes.md) to the new information.
 
 Trust of any sort directs itself toward an object of trust, and we feel peace and empowered when we trust something that proves itself to work.
 
