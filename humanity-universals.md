@@ -37,7 +37,7 @@ Comparisons
 - We're perpetually making "like" comparisons to things, from [stories](stories.md) to [logic](logic.md).
 - Our comparisons express in [language](language.md) as analogies and metaphors.
 - Beyond our environment, we also tend to compare ourselves with others, and our [relationships](people-4_friends.md) with other relationships.
-- This often inspires us to [compete](people-conflicts.md) with others, for [work](mind-creativity-results.md) *and* [play](fun.md).
+- This often inspires us to [compete](people-conflicts.md) with others, for [work](results.md) *and* [play](fun.md).
 
 Conflicts
 
@@ -78,7 +78,7 @@ Expectations
 
 - We're *constantly* looking to the future to [predict, expect, and plan](imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
 - We build [traditions](culture.md) with others around consistent [patterns](symbols.md).
-- We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](mind-creativity-results.md) a certain way.
+- We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](results.md) a certain way.
 - Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
 
 Exploration
@@ -97,7 +97,7 @@ Expressions
 Faith/Trust
 
 - We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](socialrisk.md) to do things with reality.
-- We use these risks to calculate [purposes](purpose.md) and focus them on [creating](creations.md) things that make [results](mind-creativity-results.md).
+- We use these risks to calculate [purposes](purpose.md) and focus them on [creating](creations.md) things that make [results](results.md).
 
 Feelings
 
@@ -142,7 +142,7 @@ Humor
 
 Identity
 
-- We [connect ourselves](identity.md) to a self-created [image](image.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](mind-creativity-results.md).
+- We [connect ourselves](identity.md) to a self-created [image](image.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
 - We often manipulate that [image](image.md) of ourselves as our [understanding](understanding.md) changes.
 
 Image
@@ -170,7 +170,7 @@ Math/Measuring
 
 Media
 
-- We gain [understanding](understanding.md) of ourselves by observing how others [do things](mind-creativity-results.md).
+- We gain [understanding](understanding.md) of ourselves by observing how others [do things](results.md).
 - We use [creations](creations.md) to [communicate](people-conversation.md) [stories](stories.md) with others when we believe it will increase their [understanding](understanding.md).
 
 Money
@@ -200,7 +200,7 @@ Power
 
 Preferences
 
-- We all prefer various [foods](fun-food.md), [entertainment](creations.md), and [work](mind-creativity-results.md).
+- We all prefer various [foods](fun-food.md), [entertainment](creations.md), and [work](results.md).
 - These preferences come from our [souls](humanity.md).
 - For some reason, most people are right-handed.
 
@@ -218,7 +218,7 @@ Privacy
 Routines/Rituals/Habits
 
 - We automatically build a plethora of [subconscious patterns](habits.md) to guide us through repetitive experiences.
-- We create daily, weekly, monthly, and yearly [routines](success-4_routine.md) around the sun's rotation, where we [do much more](mind-creativity-results.md) in the day and [sleep](sleep.md) at night.
+- We create daily, weekly, monthly, and yearly [routines](success-4_routine.md) around the sun's rotation, where we [do much more](results.md) in the day and [sleep](sleep.md) at night.
 - Further, we create standardized [social greetings](language-speaking.md) among each other.
 - We make long-term [traditions](culture.md) around anything that repeats, such as [marriages](relationships-weddings.md), [births](parenting-1_babies.md), [deaths](hardship-death.md), and changing seasons.
 - Those traditions usually include feasts and, if they're a special occasion, a [public speech](language-speaking.md).
@@ -245,7 +245,7 @@ Social Structures
 - Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
 - While we'll still [identify](identity.md) as separate beings, we'll also identify as part of that group.
 - We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
-- We give permanent [statuses](image.md) to people in that group for their [achievements](mind-creativity-results.md), which become [types of power](power-types.md).
+- We give permanent [statuses](image.md) to people in that group for their [achievements](results.md), which become [types of power](power-types.md).
 - The group, as a whole, all shares a vague [value](values.md) that separates "in the group" from "outside the group" things and people.
 
 Specializations

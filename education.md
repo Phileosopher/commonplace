@@ -23,7 +23,7 @@ Learning a wide range of interests gives us more skills at creatively [solving o
 
 ## Desire
 
-To live [the good life](goodlife.md), a person will learn to the degree they [desire](purpose.md), and no more. This is usually to [accomplish](mind-creativity-results.md) or [create](creations.md) something, and comes from the fact that they've been [obsessing](purpose.md) and [analyzing](logic.md) heavily about the subject.
+To live [the good life](goodlife.md), a person will learn to the degree they [desire](purpose.md), and no more. This is usually to [accomplish](results.md) or [create](creations.md) something, and comes from the fact that they've been [obsessing](purpose.md) and [analyzing](logic.md) heavily about the subject.
 
 Learning isn't technically necessary to try things, and someone can [try anything](purpose.md) without prior education. Someone who wishes to learn is moderately afraid of the risks of failure, and wishes to avoid them. On the other end of the relationship, a teacher is afraid of *other* people failing.
 
@@ -89,7 +89,7 @@ However, beyond [communication](people-conversation.md), a teacher *must* give s
 
 Most teaching will sidestep [technology](technology.md) that makes life easier or simpler. While it *might* give understanding of the [primitives](values.md) of a craft, prohibiting a classroom from using computers or calculators will inhibit the students from experiencing the [power](power.md) they'll need to use when they [work with it later](jobs-spcialization.md).
 
-A great teacher will create students who are as skilled as they are after the teacher is [finished](mind-creativity-results.md) with them, though good-enough teachers can assist a student when they're stuck with a difficult concept.
+A great teacher will create students who are as skilled as they are after the teacher is [finished](results.md) with them, though good-enough teachers can assist a student when they're stuck with a difficult concept.
 
 Since a great teacher *wants* to teach for their students' well-being, they'll typically be older, near the final [stages of their life](maturity.md) when they're trying to create [meaning](meaning.md) beyond themselves.
 

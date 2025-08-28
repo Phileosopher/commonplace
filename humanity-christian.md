@@ -38,7 +38,7 @@ To attain fullness in Christ, we must manage all three components of ourselves.
 - We can only find true [meaning](meaning.md) when we've harmonized all three:
   1. Our spirit must be directed to [God's will](god-will.md) to recognize spiritual truths.
   2. We must submit our soul to our spirit in [understanding](understanding.md) and applying spiritual truths.
-  3. We must discipline our body to [perform the action](mind-creativity-results.md) our soul has directed us to perform.
+  3. We must discipline our body to [perform the action](results.md) our soul has directed us to perform.
 
 The *exact* nature of these domains is at least somewhat expressed via Christian tradition.
 
@@ -74,12 +74,12 @@ C. Defense - [protection](safety-riskmgmt.md) from bad things:
 We can be [scientifically precise](science.md) about all aspects of the body's functions, including the brain.
 
 - Anytime we form [habits or routines](habits.md), our body is in exclusive control.
-- The body isn't inherently evil or good, but our bodies and their [actions](mind-creativity-results.md) were ultimately made for God.
+- The body isn't inherently evil or good, but our bodies and their [actions](results.md) were ultimately made for God.
   - [1 Corinthians 6:13-20](https://biblehub.com/bsb/1_corinthians/6.htm)
 - We must restrain our bodies from a wide variety of lusts.
   - [Romans 6:12](https://biblehub.com/romans/6-12.htm)
 
-The body itself has absolutely *no* connection with the [unknown](unknown.md), but is the only way we [do things](mind-creativity-results.md).
+The body itself has absolutely *no* connection with the [unknown](unknown.md), but is the only way we [do things](results.md).
 
 On an action-by-action basis, the body's [morality](morality.md) is *not* evil all the time.
 

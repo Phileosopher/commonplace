@@ -47,7 +47,7 @@ Zawinski's Law - Every program keeps expanding until it can read mail (i.e., lon
 
 Amdahl's Law - The improvement of any given component of a system will only make an effective improvement proportionally to how much it's used in that system.
 
-Claasen's Law - Incrementally more technology means exponentially more [results](mind-creativity-results.md).
+Claasen's Law - Incrementally more technology means exponentially more [results](results.md).
 
 Haitz's Law - Every decade, each LED's cost per lumen is divided by 10 and becomes 20 times more efficient.
 

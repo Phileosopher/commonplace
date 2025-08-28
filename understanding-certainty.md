@@ -11,7 +11,7 @@ We "believe" when we consider something to be [reality](reality.md), even withou
 - If you have a job, you believe you'll have it tomorrow.
 - You believe you will wake up tomorrow morning.
 
-Beliefs are how we establish things when we can't really know but have to make some type of [decision](decisions.md) based on that information, which is almost every time we have no [direct control](mind-creativity-results.md) over something.
+Beliefs are how we establish things when we can't really know but have to make some type of [decision](decisions.md) based on that information, which is almost every time we have no [direct control](results.md) over something.
 
 We start to believe when we [value](decisions.md) one thing as [true](reality.md) over another thing.
 
@@ -25,7 +25,7 @@ As children, we start with 100% certainty about various things, but our beliefs 
 
 A giant portion of what we believe in comes through the [authority](trust.md) we hold our beliefs on:
 
-- If an authority is physically present, we can only trust it as far as [reality](reality.md) and [consequences](mind-creativity-results.md) hold up.
+- If an authority is physically present, we can only trust it as far as [reality](reality.md) and [consequences](results.md) hold up.
 - Holding to the authority of the ideas themselves is a strictly [philosophical](philosophy.md) justification.
 - We end up believing ideas based on other ideas, which usually goes back to one of our [impressions](image.md) or [cultural teaching](culture.md).
 
@@ -39,7 +39,7 @@ Everything else, from the idea of a [perfect circle](math.md) to what we underst
 
 Both fools *and* wise people become more certain as they gain [understanding](understanding.md). The major difference is the scope of where they claim that certainty. Wise people claim certainty on specific things and expand outward, while fools start with a broad claim that applies to many more things than it should.
 
-We make [commitments](purpose.md) and [predictions](imagination.md) about what we are certain of. Those commitments and predictions (and how well we [follow through with them](mind-creativity-results.md)) demonstrate our true beliefs, [contrary to what we claim we believe](image.md).
+We make [commitments](purpose.md) and [predictions](imagination.md) about what we are certain of. Those commitments and predictions (and how well we [follow through with them](results.md)) demonstrate our true beliefs, [contrary to what we claim we believe](image.md).
 
 - You expect a noise when you turn the key in your car.
 - The screen on your phone responds when you touch it.
@@ -74,7 +74,7 @@ Over our lives, we start creating a [purpose](purpose.md)-based hierarchy of wha
 - A lawyer is trustworthy to manage a legal situation, but not necessarily on [moral](morality.md) matters.
 - Typically, the domain of strangers' knowledge is more vast than friends', though their intentions aren't as clear.
 
-We decide with a conviction proportional to the clarity of our [understanding](understanding.md). To [actually create results](mind-creativity-results.md), we must stop thinking about the matter at some point to avoid constantly second-guessing ourselves.
+We decide with a conviction proportional to the clarity of our [understanding](understanding.md). To [actually create results](results.md), we must stop thinking about the matter at some point to avoid constantly second-guessing ourselves.
 
 We don't always remember what we learned and its context, so we trust much of what we do from experience:
 
@@ -84,7 +84,7 @@ We don't always remember what we learned and its context, so we trust much of wh
 
 ## Crisis of faith
 
-Occasionally, we make bad decisions we think are good. We'll invest a *ton* of [resources](power.md) toward them, but won't get the [results](mind-creativity-results.md) we were expecting. This is *completely* irrespective of how well we've [reasoned](logic.md), and comes mostly from [applying experience](understanding.md).
+Occasionally, we make bad decisions we think are good. We'll invest a *ton* of [resources](power.md) toward them, but won't get the [results](results.md) we were expecting. This is *completely* irrespective of how well we've [reasoned](logic.md), and comes mostly from [applying experience](understanding.md).
 
 When this happens, we suffer a type of cognitive dissonance where we trust two incompatible things at once. A crisis of faith is when we become aware of that conflict because an [expectation](imagination.md) failed with the one that we trusted more.
 
@@ -97,7 +97,7 @@ When our faith is tested, but we still hold on, we call that "hope". There's a f
 If that person starts denying reality to "prove" something, they're removing premises. Once this becomes [habitual](habits.md), they will resort to magical thinking, which is interpreting the world to be what they [imagine](imagination.md) instead of [what it is](reality.md). Magical thinkers tend to share a few traits:
 
 - They trust their preconceived beliefs and their [affiliated groups](groups-member.md) more than the perceptions.
-- They believe reality is dictated more by [saying](language.md) and [doing](decisions.md) specific things than from [cause-and-effect](mind-creativity-results.md).
+- They believe reality is dictated more by [saying](language.md) and [doing](decisions.md) specific things than from [cause-and-effect](results.md).
 - If something is outside their [understanding](understanding.md), it doesn't exist or must be purged.
 - In their [conflicts with others](people-conflicts.md), they presume they're 100% correct, and will often shift their thoughts if they've been [logically](logic.md) convinced.
 

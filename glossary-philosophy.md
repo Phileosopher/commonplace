@@ -202,7 +202,7 @@ Externism - Only outside experience is certain, and there's nothing certain insi
 
 Ethnocentrism - People view their environment through their [culture](culture.md).
 
-- Methodological relativism - A researcher must suspend their [cultural biases](culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](mind-creativity-results.md).
+- Methodological relativism - A researcher must suspend their [cultural biases](culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](results.md).
 - Polylogism - People think differently because of the [groups](groups-small.md) they're in.
 
 Innatism - The mind is born with ideas or knowledge, so not all of it comes from experiences. Contrasts against empiricism.

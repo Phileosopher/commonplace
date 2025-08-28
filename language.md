@@ -7,7 +7,7 @@ We use language when we're trying to communicate [ideas](values.md). While we of
 
 ## Ideas presented
 
-Language itself represents the pinnacle of [understanding](understanding.md) within our perspective. If we can frame ideas in words, we have a fuller capacity to [logically](logic.md) work with them, and it means we can work with an idea, including [building something](mind-creativity-results.md) or [communicating it](people-conversation.md).
+Language itself represents the pinnacle of [understanding](understanding.md) within our perspective. If we can frame ideas in words, we have a fuller capacity to [logically](logic.md) work with them, and it means we can work with an idea, including [building something](results.md) or [communicating it](people-conversation.md).
 
 At the same time, language *isn't* understanding, and is only the reference point for what we place in our mind. The pinnacle of understanding comes when we can [work well with something](purpose.md), and language is how we indicate the form that a thought can express itself.
 
@@ -161,7 +161,7 @@ Further, we tend to use language to convey concepts on "levels" of depth:
 
 The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](decisions.md).
 
-Language generally states [reality](reality.md) itself ("constantive"), which means it can be [proven or disproven](understanding-certainty.md). However, in some situations, our language can be the results that *define* the [consequences](mind-creativity-results.md) in reality ("performative"). For example, a minister saying "I now pronounce you husband and wife" is performative, while the statement "You are husband and wife" in almost any context is simply constantive. This has tremendous legal implications with [contracts](people-contracts.md).
+Language generally states [reality](reality.md) itself ("constantive"), which means it can be [proven or disproven](understanding-certainty.md). However, in some situations, our language can be the results that *define* the [consequences](results.md) in reality ("performative"). For example, a minister saying "I now pronounce you husband and wife" is performative, while the statement "You are husband and wife" in almost any context is simply constantive. This has tremendous legal implications with [contracts](people-contracts.md).
 
 ## Language misuse
 

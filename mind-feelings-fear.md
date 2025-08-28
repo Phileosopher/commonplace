@@ -25,7 +25,7 @@ We tend to be afraid about short-term issues or things we imagine (e.g., sharks,
 
 Being at peace is the opposite of living in fear, and is one critical ingredient for living [the good life](goodlife.md). This comes through [intentional, willful release](happiness-stress.md) of precisely what we can't control.
 
-How we respond to fear dictates a *lot* of our [identity](identity.md) through how much we believe we can [do something about it](mind-creativity-results.md).
+How we respond to fear dictates a *lot* of our [identity](identity.md) through how much we believe we can [do something about it](results.md).
 
 ## Fear of pain
 
@@ -111,19 +111,19 @@ Among others, we'll also often try to hide our fears from a different fear of [w
 
 If we persist in fear, we can [extend](stories.md) our connection with death to other needs and wants that are *completely* unrelated to death.
 
-Most fears, when nurtured, become an obsession with [power](power.md) towards [staying safe](safety.md) against any perceived *and* [imagined](imagination.md) threats. At its farthest, a person becomes a victim of their reactions and loses their [humanity](humanity.md) as they create more victims from the [consequences](mind-creativity-results.md) they feel justified in delivering.
+Most fears, when nurtured, become an obsession with [power](power.md) towards [staying safe](safety.md) against any perceived *and* [imagined](imagination.md) threats. At its farthest, a person becomes a victim of their reactions and loses their [humanity](humanity.md) as they create more victims from the [consequences](results.md) they feel justified in delivering.
 
 ## Fighting fear
 
 Courage is [pushing](conflicts-inner.md) against fear to accomplish a [purpose](purpose.md). We find courage when we're trying to [preserve](safety.md) something we [love](people-love.md), but can also summon a lesser form of courage out of [social shame](mind-feelings-shame.md).
 
-We don't typically need much courage to counteract fear, and a few seconds of boldness at the right timing can change the [outcome](mind-creativity-results.md) of a very significant [threat](safety.md).
+We don't typically need much courage to counteract fear, and a few seconds of boldness at the right timing can change the [outcome](results.md) of a very significant [threat](safety.md).
 
 Most people are more afraid than they appear. Ironically, they have a fear of expressing their fear as well, which stems from what would they imagine would happen if [others saw](image.md) their fear in its entirety. Within a [confrontational environment](people-conflicts.md), most fear can be made useful as [anger](mind-feelings-anger.md).
 
-Most [worthwhile endeavors](purpose.md) require us to face our fears. Over time, if we keep [succeeding](success-1_why.md), we will start noticing that the presence of our fear is also where we can gain the most success. Eventually, we'll start *looking* for things that scare us because those will create the most significant [results](mind-creativity-results.md).
+Most [worthwhile endeavors](purpose.md) require us to face our fears. Over time, if we keep [succeeding](success-1_why.md), we will start noticing that the presence of our fear is also where we can gain the most success. Eventually, we'll start *looking* for things that scare us because those will create the most significant [results](results.md).
 
-On the other hand, if we keep *running* from things that scare us, we will likely fall into a trap of [addiction](addiction.md) somewhere along the way to cope with the feeling of failing and the [consequences](mind-creativity-results.md) of cowardice.
+On the other hand, if we keep *running* from things that scare us, we will likely fall into a trap of [addiction](addiction.md) somewhere along the way to cope with the feeling of failing and the [consequences](results.md) of cowardice.
 
 ## Fear in groups
 

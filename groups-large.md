@@ -9,7 +9,7 @@ We tend to purpose ourselves toward larger groups for several reasons:
 
 1. Larger groups give us the [impression](image.md) of [security](safety.md) against things we [fear](mind-feelings-fear.md).
 2. Each person is capable of [*heavily* specializing](jobs-specialization.md) in things they want and giving others what *they* specialize in.
-3. Everyone amasses more [shared knowledge](technology.md), meaning cutting down on [work](mind-creativity-results.md).
+3. Everyone amasses more [shared knowledge](technology.md), meaning cutting down on [work](results.md).
 
 In larger groups, we tend to associate with a few people in that group and maintain many acquaintances. Some people, like leaders, have many more connections, but there are too many people in a large group to stay in touch with all of them.
 
@@ -34,7 +34,7 @@ Unlike leaders in times past, their effort is to [identify](identity.md) with th
 
 Leaders must reflect [values](values.md) that align with the [purpose](purpose.md) of the organization. If they ever break from it, the organization will change in different directions. At its worst, it becomes an [intergroup conflict](people-conflicts-war.md) or a [bad system](mgmt-badsystems.md). Leaders have so many observers that they *must* publicly [identify](identity.md) with those values, or they'll sow [dissent](mgmt-badsystems.md) among the members.
 
-More than anything, the group's represented value will bind all the members together through a shared belief in [emotionally](mind-feelings.md) similar [consequences](mind-creativity-results.md). [Fear](mind-feelings-fear.md) of adverse [effects](mind-creativity-results.md) is the greatest motivator to get everyone together, which is rarely subtle.
+More than anything, the group's represented value will bind all the members together through a shared belief in [emotionally](mind-feelings.md) similar [consequences](results.md). [Fear](mind-feelings-fear.md) of adverse [effects](results.md) is the greatest motivator to get everyone together, which is rarely subtle.
 
 ## Scaling
 
@@ -46,11 +46,11 @@ As a group grows, each individual's [influence](power-influence.md) in the group
 
 Over time, members' [specializations](jobs-specialization.md) in various aspects will create special-purpose authorities beyond the central leadership roles (e.g., bureaus, coalitions). [Bureaucracy](bureaucracy.md) is when those bureaus have most of the [power](power.md), and they are [subgroups](groups-small.md) of their own inside the meta-group that are subject to [intergroup conflicts and misunderstandings](people-conflicts-war.md).
 
-Since every person has a different reaction to [new information](education.md), [unexpected](imagination.md) [consequences](mind-creativity-results.md) will come from any large [decision](decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
+Since every person has a different reaction to [new information](education.md), [unexpected](imagination.md) [consequences](results.md) will come from any large [decision](decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
 
-As a group expands, leaders don't see [results](mind-creativity-results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
+As a group expands, leaders don't see [results](results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
-All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](mind-creativity-results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts.md).
+All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts.md).
 
 When the scale becomes enormous (i.e., surpassing thousands), every large group leader must act quickly to keep the entire organization in line. Their role frequently becomes a never-ending string of resolving [disasters](people-conflicts.md).
 
@@ -103,7 +103,7 @@ Each subgroup ends up behaving precisely like its own small group, with a few no
 
 Each subgroup usually has different [purposes](purpose.md) to accomplish, and they [redefine](identity.md) their [culture](culture.md) around those purposes. This can create dramatic differences among subgroups in the same large group.
 
-Even in a complete autocracy, the presence of others' [decisions](decisions.md) in [carrying out](mind-creativity-results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
+Even in a complete autocracy, the presence of others' [decisions](decisions.md) in [carrying out](results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
 
 In open-ended leadership (i.e., the sub-leaders run everything) the sub-leaders have the final authority to mismanage as they [please](purpose.md). Thus, a central leader who can't or won't punish [evil](morality-evil.md) will empower it and the group will partly [devolve](mgmt-badsystems.md).
 
@@ -136,9 +136,9 @@ When a [bad system](mgmt-badsystems.md) starts socially engineering, they're oft
 
 ## Results
 
-Every far-reaching decision in a large group requires a lead time between [communicating](people-conversation.md) it and everyone [doing it](mind-creativity-results.md). That can range from minutes to weeks, depending on the [technology](technology.md) available for communicating and acting. If the group has any [dysfunction](mgmt-badsystems.md), or it's a particularly [unexpected](imagination.md) task by most of the group, it'll take *much* longer or may result in an [inner conflict](people-conflicts-war.md) where the task is never performed.
+Every far-reaching decision in a large group requires a lead time between [communicating](people-conversation.md) it and everyone [doing it](results.md). That can range from minutes to weeks, depending on the [technology](technology.md) available for communicating and acting. If the group has any [dysfunction](mgmt-badsystems.md), or it's a particularly [unexpected](imagination.md) task by most of the group, it'll take *much* longer or may result in an [inner conflict](people-conflicts-war.md) where the task is never performed.
 
-Every single [result](mind-creativity-results.md) of an organization is [created](creations.md) by the members' [decisions](decisions.md) and actions. Thus, even when the leaders get *all* the [credit](image.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
+Every single [result](results.md) of an organization is [created](creations.md) by the members' [decisions](decisions.md) and actions. Thus, even when the leaders get *all* the [credit](image.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
 
 Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](people-conflicts.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
 
@@ -175,4 +175,4 @@ Some of them will perform noble achievements in response to the challenge, but m
 
 However, if a large group *doesn't* have a purpose outside itself via competition, it'll start getting restless and destroy things.
 
-In short, large groups must always be [acting](mind-creativity-results.md) toward a fixed [purpose](purpose.md) they [believe](understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.
+In short, large groups must always be [acting](results.md) toward a fixed [purpose](purpose.md) they [believe](understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.

@@ -70,13 +70,13 @@ Not everyone trusts easily. Our [first Erikson stage](https://en.wikipedia.org/w
 
 1. [Willpower](humanity.md)
 2. [Purpose](purpose.md)
-3. [Competence](mind-creativity-results.md)
+3. [Competence](results.md)
 4. [Identity](identity.md)
 5. [Love](people-love.md)
 6. [Meaning](meaning.md)
 7. [Legacy](legacy.md)
 
-Nobody is ever fully trust-free, and we have very little [control](mind-creativity-results.md) over most things we perceive. And, no amount of [justification](logic.md) can remove some of our trust-based needs:
+Nobody is ever fully trust-free, and we have very little [control](results.md) over most things we perceive. And, no amount of [justification](logic.md) can remove some of our trust-based needs:
 
 - We still must trust [our pain is real](mind-feelings-fear.md), and that our [decisions](decisions.md) mean anything.
 - Even if we think we trust nothing else, we are trusting our [perceptions](image.md) and [understanding](understanding.md).
@@ -116,11 +116,11 @@ When we trust things, we often have trouble seeing adverse consequences of it, f
 - We often, for other reasons, [want](purpose.md) to believe that thing.
 - Sometimes we are just plain [conceited](morality-evil.md) and believe our trust makes a difference in the outcome.
 
-Counter-intuitively, when we're *not* [certain](understanding-certainty.md) of something but trust it anyway, we're often *more* susceptible to overlooking its downsides because we don't want to lose our [investment](mind-creativity-results.md) of time or thought.
+Counter-intuitively, when we're *not* [certain](understanding-certainty.md) of something but trust it anyway, we're often *more* susceptible to overlooking its downsides because we don't want to lose our [investment](results.md) of time or thought.
 
 To the degree we trust something, we don't observe the costs of believing it. Most notably, we lose the [power](power-types.md) to move our opinions around about that trusted element without a major [inner conflict](conflicts-inner.md).
 
-One of the largest indicators of over-trust arises when we see something that doesn't conform to our view of the world. When we're [immature](maturity.md) or suffering [past trauma](hardship-ptsd.md), we'll try to "[fix](mind-creativity-results.md)" that thing to make it conform, but we're usually [misunderstanding](understanding.md) [reality](reality.md) and often creating problems for ourselves.
+One of the largest indicators of over-trust arises when we see something that doesn't conform to our view of the world. When we're [immature](maturity.md) or suffering [past trauma](hardship-ptsd.md), we'll try to "[fix](results.md)" that thing to make it conform, but we're usually [misunderstanding](understanding.md) [reality](reality.md) and often creating problems for ourselves.
 
 [Large organizations](groups-large.md) are vastly aware of our discomfort with uncertainty and try to give more uncertainty toward things they [want us to not do](morality-taboo.md). Further, they may attempt to mishandle our trust subversively:
 

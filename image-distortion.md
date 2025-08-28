@@ -17,7 +17,7 @@ Experts at distorting appearances are frequently good at [predicting](imaginatio
 Beliefs
 
 - Solidify [belief](understanding-certainty.md) via [hypnosis](habits.md) about something that can't be confirmed in [reality](reality.md).
-- [Emotionally](mind-feelings.md) distance [beliefs](understanding-certainty.md) into "boxes" to [perform](mind-creativity-results.md) despite disbelieving something, often with the [language](language.md)/[conversation](people-conversation.md) distortion methods below.
+- [Emotionally](mind-feelings.md) distance [beliefs](understanding-certainty.md) into "boxes" to [perform](results.md) despite disbelieving something, often with the [language](language.md)/[conversation](people-conversation.md) distortion methods below.
 - Respond to questions, and create a basis of [understanding](understanding.md), with an oversimplified answer that [feels](mind-feelings.md) like it's more true out of its simplicity.
 
 [Logic](logic.md)
@@ -25,7 +25,7 @@ Beliefs
 - Invalidate premises to reposition or open up the possibilities for reasoning.
 - Add new premises that change the [story](stories.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
-- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](mind-creativity-results.md).
+- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
 - Make someone doubt and question [understanding](understanding.md), [perceptions](image.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
 - Justify the basis of something by virtue of someone's [authority](jobs-specialization.md).
 - Express a secondary motive as the primary [purpose](purpose.md).
@@ -87,7 +87,7 @@ Feelings Comparison
 - Use social proof with [anecdotes](stories.md) of others' experiences.
 - Signal [wealth or social status](classes.md) to others with a behavior or expensive trinket/clothing.
 - Counter-signal as a high-status person with a [lower-class](classes.md) behavior or trinket/clothing to evoke relative poverty or sincerity.
-- Use a loosely related metaphor or comparative story to explain the [results](mind-creativity-results.md) of something.
+- Use a loosely related metaphor or comparative story to explain the [results](results.md) of something.
 - Attach two events as if they were connected, but only connect through a shared [feeling](mind-feelings.md).
 - Offering something that's awful to then offer something that appears to be a compromise ([door-in-the-face technique](https://en.wikipedia.org/wiki/Door-in-the-face_technique)).
 
@@ -207,7 +207,7 @@ Inter-Organization
 - Establish a test to prove [group status](groups-member.md) that requires specific information only attainable by the leadership.
 - Separate [members'](groups-member.md) roles along lines that make very little sense.
 - Bestowing titles to avoid bestowing legitimate [power](power-types.md).
-- Physically separate members' [experiences](mind-creativity-results.md) from their [decisions](decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
+- Physically separate members' [experiences](results.md) from their [decisions](decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
 - Create a [reward](habits.md) system with complex [rules](rules.md) that make the game look easy to hack (e.g., credit card points, shopper loyalty cards, social score).
 - Use a numerical system without a conventional base-10 basis (e.g., school grades, credit card scores).
 - Frame a [decision](decisions.md) as "opt-in" or "opt-out" to imply the rest of the group is doing something automatically or set apart people who weren't paying attention.

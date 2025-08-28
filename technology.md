@@ -22,7 +22,7 @@ The layers of tools create a "chain" that can't be easily broken. For example, a
 9. *Everything* behind making semiconductors
 10. Soldering, with the technologies behind making all its tools
 
-By using technology, we can do less work to achieve more [results](mind-creativity-results.md):
+By using technology, we can do less work to achieve more [results](results.md):
 
 - Writing words requires tapping a finger instead of chiseling a rock or mixing paint by hand and rubbing it on a wall.
 - Moving boulders requires operating controls with our hands instead of lifting with our whole body.
@@ -82,11 +82,11 @@ Advanced tools usually function as a more refined [purpose](purpose.md) of somet
 - Cameras are elaborate recreations of eyes.
 - Computers are distilled recreations of the [logic](logic.md) part of our brains.
 
-Once a technology has entered the public [consciousness](understanding.md) and been [proven](understanding-certainty.md) to [work](mind-creativity-results.md), it becomes an established "[fact](reality.md)". Even when that technology is phased out from a better one, it'll always have specific [uses](purpose.md).
+Once a technology has entered the public [consciousness](understanding.md) and been [proven](understanding-certainty.md) to [work](results.md), it becomes an established "[fact](reality.md)". Even when that technology is phased out from a better one, it'll always have specific [uses](purpose.md).
 
 ## Culture
 
-The things we build are often rebuilt and improved later for a [specialization](jobs-spcialization.md). Entire [communities](groups-small.md) frequently arise out of a shared purpose to [create](creations.md) and improve something, typically with specific [cultural values](culture.md) revolving around [working](mind-creativity-results.md) with it.
+The things we build are often rebuilt and improved later for a [specialization](jobs-spcialization.md). Entire [communities](groups-small.md) frequently arise out of a shared purpose to [create](creations.md) and improve something, typically with specific [cultural values](culture.md) revolving around [working](results.md) with it.
 
 New technology [culturally](culture.md) disseminates as a [social trend](trends.md). Innovators adopt it first, then the majority adopts it for various reasons. There will *always* be laggards who refuse to adopt the technology, frequently on [moral](morality.md) grounds.
 
@@ -102,7 +102,7 @@ Technology's power magnifies *everything*, including [moral](morality.md) decisi
 
 Frequently, leaders declare certain technologies (e.g., weapons, drugs) [evil](morality-evil.md) from their capacity to destroy. They'll sometimes [control them](rules.md), and other times [ban them](morality-taboo.md). But, if someone is [creative](mind-creativity.md) enough with *other* technology, they can usually get around the [rules](rules.md) (e.g., [3D-printed](computers-printers.md) guns).
 
-Typically, because of the way technologies develop, they create waste, though the technology is frequently *far* better than the downsides of its [pollution](leftism.md). Like any other [creation](mind-creativity.md), refining the technology can remove that waste, but most of the creators aren't concerned with the [damage](mind-creativity-results.md) they inflict while creating. There's no reliable way to [regulate](rules.md) this without stifling the [creative process](mind-creativity-how.md) until the technology has reached [full maturity](trends.md).
+Typically, because of the way technologies develop, they create waste, though the technology is frequently *far* better than the downsides of its [pollution](leftism.md). Like any other [creation](mind-creativity.md), refining the technology can remove that waste, but most of the creators aren't concerned with the [damage](results.md) they inflict while creating. There's no reliable way to [regulate](rules.md) this without stifling the [creative process](mind-creativity-how.md) until the technology has reached [full maturity](trends.md).
 
 Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-3_exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
 
@@ -112,7 +112,7 @@ When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war.m
 
 ## Limits
 
-When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-spcialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](mind-creativity-results.md).
+When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-spcialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
 
 People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
 
@@ -128,6 +128,6 @@ Technology is also tremendous [power](power.md), often more than we can [safely]
 
 Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
 
-As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](mind-creativity-results.md) instead.
+As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](results.md) instead.
 
 People tend to use technology to define their [understanding](understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](trends.md) of their time.

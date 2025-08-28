@@ -17,7 +17,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 - Within the human mind, any sense of order is tailored and curated over numerous revisions.
 - Further, any simplicity or elegance comes from even *more* revisions.
 
-We create when our [decisions](decisions.md) become [actions](mind-creativity-results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](mind-creativity-results.md), are technically "created" by us.
+We create when our [decisions](decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
 
 Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
@@ -53,7 +53,7 @@ Often, in this world, people create to gain [power](power.md) (often for money),
 To create something, we need two beliefs:
 
 1. [WILLING](purpose.md) to do it, which is where we can [imagine](imagination.md) and [feel](mind-feelings.md) the value the creation can create.
-2. [ABLE](mind-creativity-results.md) to do it, which is whether we can [imagine](imagination.md) ourselves [succeeding](success-1_why.md) at the task.
+2. [ABLE](results.md) to do it, which is whether we can [imagine](imagination.md) ourselves [succeeding](success-1_why.md) at the task.
 
 Most of the time, the only thing that impedes us is our willingness. If someone is sufficiently motivated and able to sufficiently imagine what they want to see, they can usually get *very* near to what they were trying to accomplish.
 
@@ -81,7 +81,7 @@ There are [techniques](jobs-specialization.md) to do everything faster, create l
 
 Most people live within this stage on most things. It's usually so frustrating that we're discouraged to venture farther into it. [Excellent teachers](education.md) will [encourage](people-4_friends.md) and [motivate](purpose.md) us, as well as give us all the "shortcuts" they found to save us dozens or even *hundreds* of hours of time.
 
-It's important to note that this mess is absolutely *required*. Without it, the range of [the unknown](unknown.md) can't expand enough to create anything [meaningful](meaning.md) from the [final result](mind-creativity-results.md).
+It's important to note that this mess is absolutely *required*. Without it, the range of [the unknown](unknown.md) can't expand enough to create anything [meaningful](meaning.md) from the [final result](results.md).
 
 True genius often comes from observing something others have found to be mundane, but finding a new [value](values-quality.md) within it that hasn't been explored yet.
 
@@ -107,7 +107,7 @@ If the creator is [conceited](morality-evil.md) enough, they'll blame [society](
 
 ### 4. Elegance/Simplicity
 
-Great creation takes a *lot* of rework to compensate for errors and flaws. Many people, however, delude themselves into thinking their original [results](mind-creativity-results.md) were the product they were looking for.
+Great creation takes a *lot* of rework to compensate for errors and flaws. Many people, however, delude themselves into thinking their original [results](results.md) were the product they were looking for.
 
 After [humbling](morality.md) ourselves to [understanding](understanding.md) how utterly unoriginal we all are, we'll also come to realize how little we've really mastered in our craft.
 
@@ -150,7 +150,7 @@ The familiar feeling is an illusion, and that creation is *highly* directed [cha
 
 ## Why we act on ideas
 
-Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](understanding.md) how much [work](mind-creativity-results.md) some [creations](creations.md) can take.
+Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](understanding.md) how much [work](results.md) some [creations](creations.md) can take.
 
 Most of that work is unpleasant, so we try to find ways around it. We'll typically use [tools](technology.md) to speed up the unpleasant work. Sometimes, we're making tools to make *those* tools.
 

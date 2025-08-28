@@ -30,4 +30,4 @@ The only meaning that persists involves things you invest into others:
 - We can become so [habituated](habits.md) to our thoughts that we lose track of what other people are doing.
   - If people around you are avoiding you, it's likely they're [self-aware](awareness.md) enough to protect themselves from you sabotaging *their* [joy](mind-feelings-happiness.md).
 - While none of your friends will tell you (since it's [taboo](morality-taboo.md) or may throw you into further depression), your depression is selfish.
-  - If you weren't preoccupied with your thoughts and focused instead on addressing others' problems, you would slowly find contentment in the [results](mind-creativity-results.md) you'd accumulate over time.
+  - If you weren't preoccupied with your thoughts and focused instead on addressing others' problems, you would slowly find contentment in the [results](results.md) you'd accumulate over time.

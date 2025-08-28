@@ -5,7 +5,7 @@ Reality is the part of existence that, with the exception of delusion or decepti
 
 Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](understanding.md)* as reality).
 
-Compared to what we [imagine](imagination.md), we can't easily change reality. We can [change some things within reality](mind-creativity-results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
+Compared to what we [imagine](imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
 
 Finding precise facts within reality is difficult. This is because the [purpose](purpose.md) we use to perceive and do something within reality will *profoundly* [define how we understand and perceive reality itself](image.md).
 
@@ -16,7 +16,7 @@ The mechanism of cause-and-effect exists in various forms beyond human perceptio
 3. Contact of the thing with other things (e.g., a ball's relationship with the ground).
 4. [Imagination](imagination.md) of that thing (e.g., the mental activity when an individual perceives a ball rolling across the ground, along with any related thoughts linked to it).
 
-[Knowing the nature of reality has very limited practical use](philosophy.md) because it doesn't remove the practical components of [cause-and-effect](mind-creativity-results.md). Even if we were in a simulation or dream of some sort, pain is still pain.
+[Knowing the nature of reality has very limited practical use](philosophy.md) because it doesn't remove the practical components of [cause-and-effect](results.md). Even if we were in a simulation or dream of some sort, pain is still pain.
 
 ## Uncertain
 
@@ -85,6 +85,6 @@ Barring mental disorders like [autism](autism.md), we typically see the entire t
 
 Accepting reality at its most raw can force overwhelming [internal and external changes](people-changes.md). Because of this, most people deny or adapt elements of reality to cope with those changes (especially if it'll affect their [social standing](groups-member.md)), and the easiest ways to deny/adapt reality is through altering [language](language.md) to shift the portrayed [implications](mind-feelings.md) of the [story](stories.md) provided by reality.
 
-Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](mind-creativity-results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
+Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 
 The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](mind-feelings-happiness-stress.md)).

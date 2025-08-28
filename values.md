@@ -39,14 +39,14 @@ We [understand](understanding.md) values and ideas to the proportion of [quality
 
 We only assemble values together when we have a [purpose](purpose.md) for it, which usually associates with or against something we [love](people-love.md). We assemble values into new values, then treat those values as a base value for something else, and it can repeat as much as we need.
 
-Further, we don't often consider how our values differ from [reality](reality.md). Our derived values never exist in reality beyond our minds. All that technically exists beyond the mind are the [creations](creations.md) we [build](mind-creativity-results.md).
+Further, we don't often consider how our values differ from [reality](reality.md). Our derived values never exist in reality beyond our minds. All that technically exists beyond the mind are the [creations](creations.md) we [build](results.md).
 
 Values are inherently useless alone inside our thoughts (e.g., labels like "oceans" and "seas" don't exist beyond the mind), but are the framework for what we end up doing (e.g., we [navigate](logistics-navigation.md) ships by using labels like "oceans" and "seas").
 
 Therefore, for values to be useful, they must fulfill several simultaneous criteria:
 
 1. Based on [reality](reality.md).
-2. Socially [constructive](mind-creativity-results.md).
+2. Socially [constructive](results.md).
 3. Immediate and [controllable](decisions.md).
 4. Free of any general aspects that could lead to [confusion](image-distortion.md) or [uncertainty](unknown.md).
 

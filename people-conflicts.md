@@ -3,7 +3,7 @@
 
 Since most people are [higher agreeableness](personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-5_conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](culture.md) and [norms](people-3_boundaries.md).
 
-But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](mind-creativity-results.md), combined with something we [imagine](imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
+But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
 
 Usually, we avoid the conflicts around us from several base reasons:
 
@@ -26,7 +26,7 @@ This perceived need someone has to confront a situation has several degrees of i
 2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](image.md) about their opinion. Every healthy person has a handful of these.
 3. Die For: We have chosen to closely [identify](identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
 
-Usually, healthy people start conflicts after witnessing three instances of the issue. The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](mind-creativity-results.md) we want.
+Usually, healthy people start conflicts after witnessing three instances of the issue. The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](results.md) we want.
 
 Conflicts only become unhealthy when we don't properly [calculate](decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
 
@@ -41,7 +41,7 @@ No matter how, our [disposition](personality.md) makes its own mix-and-match rea
 
 When we react, we're usually running strictly off [feelings](mind-feelings.md).
 
-Generally, reacting leads to seeking blame, which is specifying who [caused](mind-creativity-results.md) the problem. It's a [power tactic](image-distortion.md) in [groups](groups-member.md), but doesn't create any meaningful [results](mind-creativity-results.md) because the action to break something is typically different from the action to [fix](fix.md) it.
+Generally, reacting leads to seeking blame, which is specifying who [caused](results.md) the problem. It's a [power tactic](image-distortion.md) in [groups](groups-member.md), but doesn't create any meaningful [results](results.md) because the action to break something is typically different from the action to [fix](fix.md) it.
 
 There are several reasons an argument will arise:
 
@@ -79,7 +79,7 @@ We discriminate *all the time* for many reasons:
 
 - What we [imagine](imagination.md) others may think
 - [Past pain](hardship-ptsd.md) that may not have present implications
-- What we perceive others may be able to [do](mind-creativity-results.md), often defined by their [aptitude](humanity.md), [status](groups-member.md) in specific [groups](groups-small.md), or our [understanding](understanding.md) of their [maturity](maturity.md)
+- What we perceive others may be able to [do](results.md), often defined by their [aptitude](humanity.md), [status](groups-member.md) in specific [groups](groups-small.md), or our [understanding](understanding.md) of their [maturity](maturity.md)
 - [Physical attractiveness](gender.md), distinguishing features like clothing, and [hygiene](people-2_image.md)
 - Even when we've tried to remove bias, we often discriminate on [ideas](values.md) alone as theories without any consideration for [history](trends.md)
 
@@ -98,7 +98,7 @@ There are only generally two constructive approaches to direct conflict manageme
 
 In failing both, you're likely to become [enslaved](slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
 
-Often, in most conflicts, there's a differing [understanding](understanding.md) of the [values](values.md) we express in [language](language.md), and the only solution is separating the values we [mean](purpose.md) versus the values we're [saying](mind-creativity-results.md).
+Often, in most conflicts, there's a differing [understanding](understanding.md) of the [values](values.md) we express in [language](language.md), and the only solution is separating the values we [mean](purpose.md) versus the values we're [saying](results.md).
 
 We tend to [express](language.md) our conflicts as if we're dogmatic about a subject, but more often than not we simply have a [popular belief](understanding-certainty.md) in one side of something (e.g., someone may only be 55% convinced of a subject they're screaming about).
 
@@ -116,7 +116,7 @@ Besides suspending judgment, defusing most conflicts require several additional 
 
 These skills are challenging to master, mostly because they *require* experience with difficult people to finesse them. Nobody likes pain, so the only qualified conflict-managers are either constantly seeking conflict, [grew up](people-family.md) around it, or have [worked professionally](jobs-specialization.md) around difficult people.
 
-Skillful negotiators validate others' [feelings](mind-feelings.md), but don't give in to harsh demands or permit them to control an argument. To create [results](mind-creativity-results.md), they often employ [fear](mind-feelings-fear.md) for short-term effects and [love](people-love.md) for long-term solutions.
+Skillful negotiators validate others' [feelings](mind-feelings.md), but don't give in to harsh demands or permit them to control an argument. To create [results](results.md), they often employ [fear](mind-feelings-fear.md) for short-term effects and [love](people-love.md) for long-term solutions.
 
 In the absence of sufficient skills, a fight may break out. When two people fight, they're using *any* [form of power](power-types.md) to make the other person submit under it. Since everyone's [conceit](morality-evil.md) is engaged, only [stronger people](groups-large.md) can break up that fight to prevent people from dying or suffering disproportionately. In the case of the strongest *[group](groups-large.md)* fighting against another, those conflicts have [far-reaching consequences](people-conflicts-war.md).
 
@@ -137,4 +137,4 @@ At the end of a conflict, there are only several legitimate things anyone can do
 
 Often, the last two ("third option" or mutual trade) can actually *intensify* a [friendship](people-friends.md) over time after a conflict.
 
-[Understanding](understanding.md) is the key to starting a healthy dialogue, but *everyone* involved must be willing to understand each other to permit a mutually [desirable](purpose.md) [result](mind-creativity-results.md). In the absence of that, *someone* will leave unhappy with the arrangement.
+[Understanding](understanding.md) is the key to starting a healthy dialogue, but *everyone* involved must be willing to understand each other to permit a mutually [desirable](purpose.md) [result](results.md). In the absence of that, *someone* will leave unhappy with the arrangement.

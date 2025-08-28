@@ -1,7 +1,7 @@
 
 # Why people change
 
-People are *constantly* changing. From birth, we are perpetually [deciding](decisions.md), [learning](understanding.md), [aging](maturity.md), making [habits](habits.md), shifting [identities](identity.md), and creating new [results](mind-creativity-results.md).
+People are *constantly* changing. From birth, we are perpetually [deciding](decisions.md), [learning](understanding.md), [aging](maturity.md), making [habits](habits.md), shifting [identities](identity.md), and creating new [results](results.md).
 
 All changes start with [conflicting thoughts](conflicts-inner.md) or an [external conflict](people-conflicts.md).
 
@@ -11,11 +11,11 @@ Our changes are *always* responses to [our environment](reality.md). We never fo
 
 We never technically *like* change, since it disrupts our [habits](habits.md). However, the proportion of the [Openness to Experience aspect of our personality](personality.md) dictates how much [trust](trust.md) we make over the [unknown](unknown.md) aspects of any given change.
 
-Contrary to what many more [intelligent people](education.md) imagine, changing isn't by acting on [logical conclusions](logic.md). Instead, it's based on how well we can [feel](mind-feelings.md) the benefits of the [results](mind-creativity-results.md) of making a change.
+Contrary to what many more [intelligent people](education.md) imagine, changing isn't by acting on [logical conclusions](logic.md). Instead, it's based on how well we can [feel](mind-feelings.md) the benefits of the [results](results.md) of making a change.
 
 We can always [choose](decisions.md) to generally direct where our changes will go and the [values](values.md) our changes will associate with:
 
-- Physically - exercising [creativity](mind-creativity.md)/[control](mind-creativity-results.md) on the world around us
+- Physically - exercising [creativity](mind-creativity.md)/[control](results.md) on the world around us
 - Empirically - adding/invalidating things we've [understood](understanding.md)
 - Psychologically - changing our [story](stories.md) of how the world works
 - Socially - anything involving others including [venting](influence.md), directing, and [politics](influence.md)
@@ -49,7 +49,7 @@ While we may be changing, our *rate* of change stays relatively constant, propor
 
 We don't [imagine](imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
 
-Each decision is relatively unimportant in a grand sense, but it slightly tweaks [what we are](humanity.md) and [identify](identity.md) with. Plus, that decision is easier to make [the next time around](habits.md), which makes us more extreme versions of ourselves if we leave [our decisions](conflicts-inner.md) unattended. By combining a decision with [results](mind-creativity-results.md), then another decision with its results, and so on, anyone with enough [perspective](image.md) will see the slow story of how a person changes.
+Each decision is relatively unimportant in a grand sense, but it slightly tweaks [what we are](humanity.md) and [identify](identity.md) with. Plus, that decision is easier to make [the next time around](habits.md), which makes us more extreme versions of ourselves if we leave [our decisions](conflicts-inner.md) unattended. By combining a decision with [results](results.md), then another decision with its results, and so on, anyone with enough [perspective](image.md) will see the slow story of how a person changes.
 
 Over a *long* time, we can clearly see the products of our decisions. A decade of living [the good life](goodlife.md) will yield a philosophically well-established person, a decade of [mindless living](habits.md) will create a bore, and a decade of [pure hedonic pursuits](addiction-substances.md) will destroy a person's life.
 

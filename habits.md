@@ -5,10 +5,10 @@ A habit is anything that psychology broadly classifies as "conditioned response"
 
 Habits are a type of neurological [story](stories.md) with a relatively simple mechanism:
 
-1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](imagination.md) of a [result](mind-creativity-results.md).
+1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](imagination.md) of a [result](results.md).
    - We regard it as enough of a [perceived fact](reality.md) that we [believe it](understanding-certainty.md).
    - Triggers can be either environmental (e.g., sight, sound, or sentence) or in our perceptions (e.g., memory, [feeling](mind-feelings.md), a simple thought).
-2. A **method** of [thinking](understanding.md) or [doing](mind-creativity-results.md).
+2. A **method** of [thinking](understanding.md) or [doing](results.md).
    - Methods always represent as a series of smaller, programmed steps.
    - Recursively, most of the programmed steps are additional habits.
 3. A **reward** as another dopamine flow that sits at the end of a method.
@@ -19,9 +19,9 @@ Another way to see habits is as the transition our conscious [decisions](decisio
 
 Habits are more powerful than mere [decisions](decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
 
-We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](decisions.md) or [consequence](mind-creativity-results.md).
+We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](decisions.md) or [consequence](results.md).
 
-We chemically experience pleasure when we create the [results](mind-creativity-results.md) we [expected](imagination.md), but it's diminished when we don't.
+We chemically experience pleasure when we create the [results](results.md) we [expected](imagination.md), but it's diminished when we don't.
 
 [Addictions](addiction.md) complicate this situation through a type of [religious devotion](religion.md) to the substance.
 
@@ -67,7 +67,7 @@ Humans are the only creatures on this planet that can stop mid-habit and questio
 
 Whenever the pleasure of a reward lasts for more than 8 seconds, it's hitting *far* more than mere animal stimuli. At that point, it affects our [souls](humanity.md).
 
-The pleasurable reward for habits [diminishes](mind-creativity-results.md) as we do it more frequently, and is a huge component of [diminishing return](economics.md).
+The pleasurable reward for habits [diminishes](results.md) as we do it more frequently, and is a huge component of [diminishing return](economics.md).
 
 We can develop pleasure from the habit of *not* doing a habit as a type of counter-habit. Since our experiences are so relative, abstinence can sometimes *intensify* our pleasure.
 
@@ -81,9 +81,9 @@ However, a minority of people will break so hard from their culture that they fe
 
 ## The good and bad effects of habits
 
-Habits are a neutral mechanism. While all virtues are good habits, as well as all [outward success](success-1_why.md), habits also magnify [evil](morality-evil.md) and [failure](mind-creativity-results.md) as well.
+Habits are a neutral mechanism. While all virtues are good habits, as well as all [outward success](success-1_why.md), habits also magnify [evil](morality-evil.md) and [failure](results.md) as well.
 
-One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](mind-creativity-results.md) than if we had simply [trusted](trust.md) our habits.
+One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](results.md) than if we had simply [trusted](trust.md) our habits.
 
 [Bad habits destroy us](https://adequate.life/habits/). We usually permit bad habits because they provide short-term benefits, and we tend not to [feel](mind-feelings.md) long-term adverse consequences without training. Or, to put it more plainly, hard work pays off tomorrow while laziness pays off now.
 

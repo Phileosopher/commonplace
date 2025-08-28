@@ -336,7 +336,7 @@ Well traveled road effect - we estimate longer times to travel unfamiliar routes
 
 Control illusion - we assume we can control events more than we can
 
-Escalation of commitment/irrational escalation - we keep doing things that cause no perceptible positive [results](mind-creativity-results.md)
+Escalation of commitment/irrational escalation - we keep doing things that cause no perceptible positive [results](results.md)
 
 Hot hand fallacy/hot hand phenomenon - we believe a successful result improves the chances of a future successful result
 
@@ -352,7 +352,7 @@ Planning fallacy - we underestimate how much time a task will take
 
 Positivity effect/socioemotional selectivity theory - we prefer to hear positive information
 
-Probability neglect - we ignore [likely consequences](mind-creativity-results.md) when we're [uncertain](understanding-certainty.md)
+Probability neglect - we ignore [likely consequences](results.md) when we're [uncertain](understanding-certainty.md)
 
 Pro-innovation bias - we believe [a new thing](trends.md) should be adopted universally by society without any adaptations
 
@@ -362,7 +362,7 @@ Scope neglect - we ignore the size of a problem when considering it
 
 Self-licensing/moral self-licensing/moral licensing/licensing effect - we make [immoral choices](morality.md) when we feel confident in [ourselves](identity.md)
 
-Validity illusion - we overestimate our ability to accurately analyze data to interpret and predict [results](mind-creativity-results.md)
+Validity illusion - we overestimate our ability to accurately analyze data to interpret and predict [results](results.md)
 
 ## Bad Cynicism
 
@@ -400,7 +400,7 @@ Hindsight bias/knew-it-all-along phenomenon/creeping determinism - we assume we 
 
 Investment loops - we're more likely to use something later when we invest into something
 
-Effort justification/IKEA effect/labor illusion/processing difficulty effect - we value things much more when we partially [create](creations.md) or work with the things that make our [consequences](mind-creativity-results.md)
+Effort justification/IKEA effect/labor illusion/processing difficulty effect - we value things much more when we partially [create](creations.md) or work with the things that make our [consequences](results.md)
 
 Moral luck - we give moral blame or praise to people not responsible for it
 

@@ -27,7 +27,7 @@ Bronze working (-?)
 
 Civil engineering (-?)
 
-- Can magnify labor to create more [results](mind-creativity-results.md) with less effort.
+- Can magnify labor to create more [results](results.md) with less effort.
 
 Mining (~-4,000)
 

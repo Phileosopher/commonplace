@@ -7,7 +7,7 @@ For most people, the majority of our trauma happens in childhood. At a young age
 
 While everyone experiences trauma, each person responds to it differently:
 
-- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](mind-creativity-results.md) they want.
+- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](results.md) they want.
 - Others will [pursue something else](mind-creativity.md) to meet their needs.
 - Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
 - In extreme cases, people will tell themselves they don't need something they legitimately need.
@@ -87,7 +87,7 @@ While we *can* halt a trauma loop by doing something a person won't expect, we m
 
 ## Shadow self
 
-This aggregate of all our trauma and past pain is a separate "shadow" persona. It's not the authentic, sensible, modern version of us. Instead, it's an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past, lumped together by unpleasant [feelings](mind-feelings.md). Whether that persona wants good or bad things, it's never very effective at [doing anything](mind-creativity-results.md) because it's using old information with a limited scope of [perspective](understanding.md).
+This aggregate of all our trauma and past pain is a separate "shadow" persona. It's not the authentic, sensible, modern version of us. Instead, it's an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past, lumped together by unpleasant [feelings](mind-feelings.md). Whether that persona wants good or bad things, it's never very effective at [doing anything](results.md) because it's using old information with a limited scope of [perspective](understanding.md).
 
 Unawareness causes the least short-term pain, so most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
 

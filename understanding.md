@@ -22,7 +22,7 @@ One of the most profound limits to our understanding is that we *always* lock on
 
 We build our understanding through [learning/education](education.md), which always starts with gathered observations:
 
-1. Performing something and witnessing its [results](mind-creativity-results.md). This form gives the most information but is the most [unsafe](safety.md) without [creatively](mind-creativity.md) using [technology](technology.md).
+1. Performing something and witnessing its [results](results.md). This form gives the most information but is the most [unsafe](safety.md) without [creatively](mind-creativity.md) using [technology](technology.md).
 2. Directly observing something, often by seeing or touching it. Often, [media](creations.md) will reproduce that experience.
 3. Observing second-hand through [language](language.md). By reading or listening to other people who have experienced, we can [imagine](imagination.md) the experience for ourselves.
 
@@ -81,7 +81,7 @@ The best way to understand other perspectives isn't from simply understanding wh
 
 Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](https://gainedin.site/networks/) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
 
-Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](mind-creativity-results.md), then have a broader range to [choose](decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
+Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
 
 We also must revisit the same expression multiple times to accurately capture it, often through [self-reflection](imagination.md). For that reason, people with heavy understanding are often very ponderous and thoughtful, and sometimes very slow to act.
 
@@ -93,8 +93,8 @@ We experience degrees of understanding as we become familiar with something. It'
 
 There are three broad classes of things we can understand:
 
-1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](image.md), and [doing](mind-creativity-results.md). Usually, it's proportional to [perceived](image.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
-2. Second, we can understand things. Those things are always [perceptible](image.md), usually [measurable](math.md), and often things that directly [respond](mind-creativity-results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
+1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](image.md), and [doing](results.md). Usually, it's proportional to [perceived](image.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
+2. Second, we can understand things. Those things are always [perceptible](image.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
    - Physical context - [location-based](logistics-navigation.md) attributes
    - [Cultural](culture.md) context - human beliefs and perceptions
    - [Historical](stories.md) context - period of time and events
@@ -215,7 +215,7 @@ Small, trite experiences that veer close to feeling like a paradox represent the
 
 Most [creative works](creations.md) and [leadership](groups-small.md) harness these shared experiences to [influence](influence.md) others toward [purposes](purpose.md), usually sprinkled throughout a larger body of work. When those purposes are grandiose, the individuals engaged in it attain a type of [religious fervor](religion.md) driven by a collective understanding and unified purpose.
 
-Of course, the idiosyncratic details of those [values](values.md) are partially lost in the process, but the shared [effects](mind-creativity-results.md) of everyone's belief (along with the [conflicts they're engaged in](people-conflicts-war.md)) obscure that fact.
+Of course, the idiosyncratic details of those [values](values.md) are partially lost in the process, but the shared [effects](results.md) of everyone's belief (along with the [conflicts they're engaged in](people-conflicts-war.md)) obscure that fact.
 
 We never entirely understand *each other* fully, though. The domain of others' minds is always partly off-limits to our deepest capacity to know and experience.
 
@@ -226,7 +226,7 @@ We tend to measure others' understanding by *their* [confidence](understanding-c
 1. Increasing understanding often creates *less* confidence as we gain awareness of the sophisticated components of the thing.
 2. People can [fake](image-distortion.md) confidence, so they'll exploit the [image](image.md) of confidence to gain [power](power.md) with what they're not showing (sprezzatura).
 
-Understanding is difficult to measure because that measurement can come through various [results](mind-creativity-results.md) that vary wildly:
+Understanding is difficult to measure because that measurement can come through various [results](results.md) that vary wildly:
 
 - How easily or simply they can put those ideas in [words](language.md) or [explain](people-conversation.md) things.
 - How well someone can [imagine](imagination.md) easily [believable](understanding-certainty.md) [stories](stories.md).
@@ -234,7 +234,7 @@ Understanding is difficult to measure because that measurement can come through 
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
 
-However, civilized society requires that people be [educated](education.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](mind-creativity-results.md).
+However, civilized society requires that people be [educated](education.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](results.md).
 
 And, since we have *much* more information over how little we really know versus everyone else, we tend to believe others' image more than our own knowledge, even when we are *much* more knowledgeable than they are (impostor syndrome). This issue can scale with [self-awareness](awareness.md) combined with [intelligence](personality.md).
 

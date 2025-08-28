@@ -19,7 +19,7 @@ All feelings are driven from either a core belief that's either a [love](people-
 2. [Uncertainty or Variety](unknown.md) - the need for new experiences
 3. [Significance](meaning.md) - the need to feel important, special, or needed
 4. [Connection or Love](people-love.md) - feeling closeness or united with something
-5. [Growth](people-changes.md) - extending [ability](mind-creativity-results.md) or [understanding](understanding.md)
+5. [Growth](people-changes.md) - extending [ability](results.md) or [understanding](understanding.md)
 6. Contribution - [helping others](church-serve.md) in some capacity
 
 The need fulfillment (and its associated feelings) work through our needs in pairs:
@@ -79,7 +79,7 @@ We can only feel what we're focused on, which often connects with trying to "[fi
 
 Most of our feelings come from [purposes](purpose.md) we've subconsciously built and from an experience's novelty. If we learn something becomes impossible to control (e.g., [death](hardship-death.md)) and have gained extreme [understanding](understanding.md) of it, we can slowly release that control in our own way.
 
-We tend to be *very* unaware of our feelings until we experience [results](mind-creativity-results.md) from them, which is why we need [emotional outlets](mind-creativity-results.md) through [conversations](people-conversation.md) with others about topics we feel strongly about.
+We tend to be *very* unaware of our feelings until we experience [results](results.md) from them, which is why we need [emotional outlets](results.md) through [conversations](people-conversation.md) with others about topics we feel strongly about.
 
 Generally, feelings hold [power](power.md) over our [decisions](decisions.md) proportionally to how unaware we are of them.
 

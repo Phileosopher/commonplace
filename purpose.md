@@ -16,11 +16,11 @@ Every purpose we make is a response to our environment:
 1. [Reality](reality.md) demonstrates something, which we construct into associations to remembered things into a [story](stories.md) which has an ending that generates a [feeling](mind-feelings.md).
 2. That feeling provokes us to engage in a type of [inner conflict](conflicts-inner.md) over a need or want we presently don't have.
 3. We continue to perceive that thing as a "problem" until we [decide](decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
-4. We then search for a [means](mind-creativity-results.md) to "fix" that problem.
+4. We then search for a [means](results.md) to "fix" that problem.
 
 Thus, we're only find satisfaction when we're facing conflicts, of any sort, that we believe we can achieve. For this reason, most [Utopian societies](politics-perfectsociety.md) are downright impossible: people would find them utterly boring and would probably break things just to see what happened.
 
-This purpose can either be internal (which will often be connected to our [identity](identity.md)), or external (which connects to [results](mind-creativity-results.md) we wish to see).
+This purpose can either be internal (which will often be connected to our [identity](identity.md)), or external (which connects to [results](results.md) we wish to see).
 
 ## Focus
 
@@ -42,9 +42,9 @@ We tend to pursue our physical needs, then move to psychological ones. Often bef
 
 Our stubbornness is how much we maintain a purpose and refuse to relinquish it for another purpose, and is sometimes called "grit". It can often be magnified by our ability to detect others' desires that contract ours.
 
-Needs are often easy to detect and find motivation to pursue, and wants are extrapolations off those needs. Wants are generally far more difficult to fulfill because they have higher requirements than needs and may not be as closely connected to the [results](mind-creativity-results.md) someone may wish to attain.
+Needs are often easy to detect and find motivation to pursue, and wants are extrapolations off those needs. Wants are generally far more difficult to fulfill because they have higher requirements than needs and may not be as closely connected to the [results](results.md) someone may wish to attain.
 
-To the degree we [love](people-love.md) and [fear](mind-feelings-fear.md), we are driven to [accomplish](mind-creativity-results.md), and this is heavily defined by our [personality](personality.md). When [love](people-love.md) doesn't drive our purposes, especially of other people, our [actions](creations.md) will [feel](mind-feelings.md) hollow and meaningless. However, we more often choose fear over love.
+To the degree we [love](people-love.md) and [fear](mind-feelings-fear.md), we are driven to [accomplish](results.md), and this is heavily defined by our [personality](personality.md). When [love](people-love.md) doesn't drive our purposes, especially of other people, our [actions](creations.md) will [feel](mind-feelings.md) hollow and meaningless. However, we more often choose fear over love.
 
 As our [decisions](decisions.md) to keep pursuing things become [habits](habits.md) through repetition, they slowly become unconscious (i.e., "ambition").
 
@@ -54,9 +54,9 @@ As we grow, our purposes accommodate others' purposes as well. The [power](power
 - [Professionals](jobs-specialization.md) may circumvent sharing laws, which may help their client to their detriment.
 - [Parenting](church-family.md) requires selflessness, and can persist even when parents are utterly selfless.
 
-When we're young, our lack of knowledge means we don't [understand](understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](imagination.md) what we wish to [build](mind-creativity-results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
+When we're young, our lack of knowledge means we don't [understand](understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
 
-At some point, later in our life, we start questioning the purposes we've been following when the [results](mind-creativity-results.md) don't reflect what we [expected](imagination.md) from our [decisions](decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
+At some point, later in our life, we start questioning the purposes we've been following when the [results](results.md) don't reflect what we [expected](imagination.md) from our [decisions](decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
 
 One recursive form of purpose is to [self-motivate](success-5_persevering.md): solidify our purpose against things that [scare](mind-feelings-fear.md) us, both [real](reality.md) and [imagined](imagination.md). It's very useful to get a "running start" on things we would otherwise become discouraged over.
 
@@ -66,7 +66,7 @@ Revisiting our purposes is healthy self-maintenance, but people often avoid it b
 
 Anything we've deemed needs changing is a "problem". All problems are [values](values.md) in our [imagination](imagination.md) driven by how we [feel](mind-feelings.md) regarding a comparison between what we [perceive](image.md) and what we [imagine](imagination.md). All purposes in life string themselves into a never-ending sequence of problem-fixing.
 
-The severity of our desire to address problems comes from two factors: how much it affects us, and how much we [believe](understanding-certainty.md) we can [do something about it](mind-creativity-results.md). Broadly, they fall into 4 classifications based on complexity:
+The severity of our desire to address problems comes from two factors: how much it affects us, and how much we [believe](understanding-certainty.md) we can [do something about it](results.md). Broadly, they fall into 4 classifications based on complexity:
 
 1. Needs are things we *must* have, and correspond to [reality](reality.md).
 2. Interests are how we meet needs. If we [feel](mind-feelings.md) like having it, they're often what we "want" as well. Interests often combine multiple needs, and typically require [predicting](imagination.md) what will happen.
@@ -75,7 +75,7 @@ The severity of our desire to address problems comes from two factors: how much 
 
 Problems are always a disruption. They can either disrupt a principle (e.g., many [moral](morality.md) issues, [bureaucratic](bureaucracy.md) thinking) or disrupt someone's [peace](mind-feelings-fear.md) about something they [expect](imagination.md).
 
-Whether the problem is [real](reality.md) or not is irrelevant. An artist will find a problem in a blank canvas as much as an accountant will over one discrepant number. It's a [conflict](conflicts-inner.md) between the environment we [wish to see expressed](imagination.md) as [results](mind-creativity-results.md) within [reality](reality.md), and gives a mental workout for the [trust-based](trust.md) portion of our minds.
+Whether the problem is [real](reality.md) or not is irrelevant. An artist will find a problem in a blank canvas as much as an accountant will over one discrepant number. It's a [conflict](conflicts-inner.md) between the environment we [wish to see expressed](imagination.md) as [results](results.md) within [reality](reality.md), and gives a mental workout for the [trust-based](trust.md) portion of our minds.
 
 The clearest problem, across everything, is the concept of scarcity. There's only a limited amount of anything (e.g., time, money, energy), so we must constantly consider how much is left of everything. It's a major component of how we assign [value](values-quality.md) to one thing over another.
 
@@ -85,11 +85,11 @@ One major problem with a problem-based way of perception is that we get distract
 
 Without a problem, we face utter, crippling existential crisis. No matter what, a [good life](goodlife.md) requires the constant cycle of interpreting problems, looking for rational solutions for them, then [succeeding](success-1_why.md) (at least somewhat) at addressing those problems.
 
-Far too frequently, we fall into dysfunction when we don't [understand](understanding.md) the [consequences](mind-creativity-results.md) of the solutions we use for our problems. We attempt to fix things, then notice they've changed but not improved, and keep using that approach because it's [familiar](habits.md).
+Far too frequently, we fall into dysfunction when we don't [understand](understanding.md) the [consequences](results.md) of the solutions we use for our problems. We attempt to fix things, then notice they've changed but not improved, and keep using that approach because it's [familiar](habits.md).
 
 ## Large/complex problems
 
-The larger the problem (based on [imagined](imagination.md) [consequences](mind-creativity-results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](decisions.md). Huge and devastating [large-scale events](people-conflicts-war.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
+The larger the problem (based on [imagined](imagination.md) [consequences](results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](decisions.md). Huge and devastating [large-scale events](people-conflicts-war.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
 
 Further, if we *don't* resolve problems, they usually get worse. Taken far enough, unresolved problems can create an [existential crisis](meaning.md).
 
@@ -103,7 +103,7 @@ Across time and with [more people](groups-member.md) involved, problems become c
 - To the extent we [follow others](trends.md), we want what we [imagine](imagination.md) others expect from us and what we "ought" to do. We also [fear](mind-feelings-fear.md) failure, so we'll [trust](trust.md) others' opinions from their [reputation](image.md), sometimes merely because [they wrote a book](creations.md).
 - Sometimes we want something we ought not to and will try to [maintain](image-distortion.md) the [appearance](image.md) that we don't want it while we pursue it.
 - If we believe we can't do something but still want it, we may detach from [reality](reality.md) and let our [imaginations](imagination.md) run free.
-- Most of the time, problems create [consequences](mind-creativity-results.md) that create other problems, and by the time we're [aware](awareness.md) of them they've become so nasty that we have to ask "why" multiple times to get to the original cause.
+- Most of the time, problems create [consequences](results.md) that create other problems, and by the time we're [aware](awareness.md) of them they've become so nasty that we have to ask "why" multiple times to get to the original cause.
 - We tend to compare and compete with others. To the degree we care about [appearances](image.md), we'll often do things we *really* hate for the sake of others' [approval](people-4_friends.md).
 
 The universe is made of certain forms of inherent structure, so "problems" are always a type of disadvantageous structure. Most skillful problem-solvers focus their efforts on the weakest point in that structure:
@@ -128,11 +128,11 @@ Some of the largest problems are absolutely impossible to fix (e.g., [death](leg
 
 ## Recreation
 
-We tend to [cycle](trends.md) between phases of doing [work](mind-creativity-results.md) or [creating](creations.md), then [recreating](fun.md) and [resting](sleep.md) when we run out of things we need and want to do for that day. Typically, we alternate how much energy we use from one to the other.
+We tend to [cycle](trends.md) between phases of doing [work](results.md) or [creating](creations.md), then [recreating](fun.md) and [resting](sleep.md) when we run out of things we need and want to do for that day. Typically, we alternate how much energy we use from one to the other.
 
 Recreation is a variation of the curiosity we had in childhood. However, because of our need to [work](jobs-specialization.md), we often have interests that go beyond anything other people will pay us to do.
 
-Recreation and work are *both* necessary for [the good life](goodlife.md), and should flow through a [small resistance cycle](trends.md). However, [addiction](addiction.md) can disrupt that cycle by keeping us perpetually purposed toward one thing without regarding [diminishing return](mind-creativity-results.md) or the [power](power-types.md) we're sacrificing.
+Recreation and work are *both* necessary for [the good life](goodlife.md), and should flow through a [small resistance cycle](trends.md). However, [addiction](addiction.md) can disrupt that cycle by keeping us perpetually purposed toward one thing without regarding [diminishing return](results.md) or the [power](power-types.md) we're sacrificing.
 
 While we recreate, we tend to only relax in a few specific ways, usually dictated by [preference](personality.md) and [culture](culture.md):
 
@@ -153,6 +153,6 @@ When we feel perfectly [safe](safety.md), our recreation represents different le
 
 If a purpose isn't driven strictly by a [principle](values.md), it's driven strictly by [culturally](culture.md) established [habits](habits.md).
 
-While this doesn't make any difference for any specific purpose, they create severely contrasting [results](mind-creativity-results.md) when [confronted](people-conflicts.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
+While this doesn't make any difference for any specific purpose, they create severely contrasting [results](results.md) when [confronted](people-conflicts.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
 
 However, every person is at least somewhat [influenced](power-influence.md) by others around them. Most significantly, our [close friends](hardship-friends.md) can alter how we [decide](decisions.md) and, ultimately, our quality of character.

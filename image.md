@@ -22,8 +22,8 @@ One complicated part of our perception comes in how things come together. In [re
 
 - Sensation - the [feeling](mind-feelings.md) something evokes.
 - Composition - the components, parts, and elements a thing is made of.
-- Usage - how to operate or [work with](mind-creativity-results.md) that thing.
-- Limits - the capacity for when that thing stops being [useful](purpose.md), relevant, or [functional](mind-creativity-results.md).
+- Usage - how to operate or [work with](results.md) that thing.
+- Limits - the capacity for when that thing stops being [useful](purpose.md), relevant, or [functional](results.md).
 - Role - how people perceive that thing compared to other things.
 - Implication - what that thing alludes toward or against.
 - Value - the [worth](power.md) that other people perceive that thing is to them.

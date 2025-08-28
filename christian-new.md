@@ -83,7 +83,7 @@ Extreme insistence on creating large-scale [political changes](politics-conserva
 
 Maintains [habitual](habits.md) [sins](morality-sins.md) out of ignorance or unawareness.
 
-- Obviously, we all battle with sins, but they'll generally try to avoid the [consequences](mind-creativity-results.md) of their sins while finding ways to keep doing it.
+- Obviously, we all battle with sins, but they'll generally try to avoid the [consequences](results.md) of their sins while finding ways to keep doing it.
 - Most [denominational](conflicts-inner.md) [cultures](culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
 
 Confrontational or inappropriate behavior as a type of "ministry".
@@ -128,7 +128,7 @@ Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem
 
 Trying to achieve righteousness through their strength and willpower alone.
 
-- They haven't realized that only the Holy Spirit can grant our [spirits](humanity-christian.md) the awareness, [willpower](purpose.md), and means to [succeed](mind-creativity-results.md) at [virtue](morality.md) and that He deserves all the credit for it.
+- They haven't realized that only the Holy Spirit can grant our [spirits](humanity-christian.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it.
   - [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)
 
 Complete belief that they can accomplish *anything whatsoever* as long as they trust God intensely enough to provide.

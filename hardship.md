@@ -65,7 +65,7 @@ You're the chaotic accumulation of various experiences and responses:
   - Natural talents and weaknesses
   - Culture of origin including [habits](habits.md), traditions, and rituals
 - Every experience you've been through, good or bad
-- Each [decision](decisions.md) you've made, with each one creating some type of [consequence](mind-creativity-results.md).
+- Each [decision](decisions.md) you've made, with each one creating some type of [consequence](results.md).
   - Further, the things you've [learned](understanding.md) from those experiences.
 - [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.

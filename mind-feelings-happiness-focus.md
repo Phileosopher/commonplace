@@ -72,7 +72,7 @@ Low self-esteem makes us value the one thing we have the most control over as ne
 
 Poor self-esteem makes us blow conflicts, loss, rejection, failure, and loneliness *way* out of proportion:
 
-- Can't solve challenging problems or create meaningful [results](mind-creativity-results.md)
+- Can't solve challenging problems or create meaningful [results](results.md)
 - Won't take risks or adapt to change
 - Inconsistently asserts and self-defines [boundaries](people-boundaries.md) and [goals](success-3_goals.md)
 - Won't accept affirmations and recognition from others

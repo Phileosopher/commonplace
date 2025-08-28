@@ -61,11 +61,11 @@ The devil invalidates [prayer](spiritual-exercises-prayer.md) by shifting it fro
 - Plus, if we pray for vague things, God won't grant them. Then, if the devil makes us misremember what we prayed, we can think He's not answering our prayers.
 - The Satan will also magnify the effort God will need to change things. While God designed the universe where it's a relatively easy effort to tweak something to answer our prayers, we often [imagine](imagination.md) He has to go through a gargantuan effort to answer *any* of our problems.
 
-While God is more concerned about what we [decide](decisions.md) and [do](mind-creativity-results.md), the Satan redirects us to thinking about [what will happen](mind-creativity-results.md) to us:
+While God is more concerned about what we [decide](decisions.md) and [do](results.md), the Satan redirects us to thinking about [what will happen](results.md) to us:
 
 - More uncertainties creates more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
 - If possible, when we're [praying](spiritual-exercises-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
-- We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](mind-creativity-results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
+- We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
 - Further, by abstracting humanity into sub-human monsters inside [stories](stories.md), the devil can further blur the line about morality (e.g., zombies, vampires).
 
 [Moral decay](morality-sins.md) is a slow fade, so the Satan keeps us [unaware](awareness.md) for as long as possible by telling us that it's always unimportant and easily reversible. The smallest [habitual](habits.md) sins can work more effectively than large, [decisive](decisions.md) ones to send people to hell:
@@ -97,7 +97,7 @@ To destroy deeper [philosophical](philosophy.md) and theological thought, demons
 
 God wants us to be constantly aware of what we don't [know](understanding.md) and not particularly concerned with what we *do* know, so the devil tries to make us lean on our understanding as much as possible:
 
-- God's [purpose](purpose.md) for humility is for us to [enjoy](mind-feelings-happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](mind-creativity-results.md), and [relationships](groups-small.md) all [came from God](god.md) in the first place.
+- God's [purpose](purpose.md) for humility is for us to [enjoy](mind-feelings-happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](results.md), and [relationships](groups-small.md) all [came from God](god.md) in the first place.
 - Generally, he'll provoke us to overthink things, creating [elaborate models](logic.md) we can then [require](imagination.md) everything else to conform into. This is easy for the Satan, proportionally to our intelligence.
 - However, if we *are* humbled by what we don't know, he'll draw attention to it to provoke conceit in us about how humble we are. If we self-invalidate ourselves, we may become conceited about *that* until we stop thinking about it.
 - When we finally believe an inconsistent contradiction, we can often attain a false humility inspired by self-hatred. That self-hatred comes through the fact that we can't seem to *ever* [imagine](imagination.md) anything that conforms to [reality](reality.md). At this point, the devil owns the person.
@@ -130,7 +130,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 - Humor can make almost anything [enjoyable](mind-feelings-happiness.md) that would otherwise be inappropriate or immoral.
 - However, by twisting it around, the devil can promote repulsive, awful [values](values.md) through immoral [characters](stories.md), simply because they're funny.
 - There's a profound [moral](morality.md) difference between enjoying base sexual humor for its merit as a joke and enjoying it to [imagine](imagination.md) performing it. The first is an acceptable appreciation of [quality](values-quality.md), but the second is simply lewdness.
-- Very [creative](mind-creativity.md) people can make completely harmless jokes about [virtue](morality.md), but humor about *[practicing](mind-creativity-results.md)* virtue can deaden us to [loving](people-love.md) it.
+- Very [creative](mind-creativity.md) people can make completely harmless jokes about [virtue](morality.md), but humor about *[practicing](results.md)* virtue can deaden us to [loving](people-love.md) it.
 
 Gluttony isn't merely from excess, and can often be from delicacy. [Western Christianity](https://theologos.site/the-west/) tends not no talk about it, which allows the devil to work:
 

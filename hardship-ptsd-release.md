@@ -65,7 +65,7 @@ There are multiple possible realms where we may not forgive:
 
 - Past [decisions](decisions.md) with present consequences.
 - [Goals](success-1_why.md) that weren't met.
-- [Consequences](mind-creativity-results.md) we had no control over.
+- [Consequences](results.md) we had no control over.
 - [Imagination](imagination.md) about what could have been.
 - [Beliefs](trust.md) about what others expect.
 

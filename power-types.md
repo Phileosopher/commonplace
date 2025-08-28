@@ -1,14 +1,14 @@
 
 # List of power types
 
-NOTE: While an extensive list of *all* the forms of power is impossible, I've compiled this list to [express](people-conversation.md) its range. This list is infinitely expandable as human [purpose](purpose.md) finds [creative](mind-creativity.md) [methods](creations.md) to [accomplish things](mind-creativity-results.md).
+NOTE: While an extensive list of *all* the forms of power is impossible, I've compiled this list to [express](people-conversation.md) its range. This list is infinitely expandable as human [purpose](purpose.md) finds [creative](mind-creativity.md) [methods](creations.md) to [accomplish things](results.md).
 
 [Human Capital](economics.md)
 
 - [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](imagination.md).
 - Wisdom - [general](philosophy.md) [understanding](understanding.md) of [reality](reality.md).
 - Expertise - having a [specialized](jobs-specialization.md) [understanding](understanding.md) of things, *especially* of how to wield all the other forms of power.
-- Aptitude - ability to physically [do things](mind-creativity-results.md).
+- Aptitude - ability to physically [do things](results.md).
 - Experience - possessing memory of places and events.
 
 Natural
@@ -16,14 +16,14 @@ Natural
 - Time - how much [time](maturity.md) before the end of a period, or before [dying](hardship-death.md).
 - Energy - physical reserves for manipulating our [environment](reality.md).
 - [Habits](habits.md) - routine behaviors that magnify long-term [purposes](purpose.md), often including ambition or kindness.
-- [Technology](technology.md) - [created](creations.md) things that help us magnify our [efforts](mind-creativity-results.md), can be scaled in quantity or varying degrees of [effectiveness](purpose.md).
+- [Technology](technology.md) - [created](creations.md) things that help us magnify our [efforts](results.md), can be scaled in quantity or varying degrees of [effectiveness](purpose.md).
 - Energy - natural resources like electricity or coal that make [technology](technology.md) run.
 
 Social (also known as "politics")
 
 - Status - general [opinions](image.md) from others.
 - Coercive - can [punish](rules.md) people, driven by others' [fears](mind-feelings-fear.md).
-- Reward - can [reward](mind-creativity-results.md) people, driven by others' [loves](people-love.md).
+- Reward - can [reward](results.md) people, driven by others' [loves](people-love.md).
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
 - Formal - [honor](image.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](culture.md).
 - Fame - [familiarity](image.md) with a name.
@@ -35,7 +35,7 @@ Contextual
 - Information - has the means to accomplish a very specific [purpose](purpose.md) with very specific knowledge, which can frequently include awareness of [trends](trends.md).
 - [Willful](purpose.md) Ignorance - by not knowing something, we don't have to [lie](people-lying.md) to claim ignorance.
 - Unforgiveness - by not [forgiving](mind-feelings-happiness-stress.md) someone, we can use it for our [purposes](purpose.md) later through blame.
-- Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](mind-creativity-results.md).
+- Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](results.md).
 - Absence - by not having, we have the future means to gain something, which may increase another power in the process of gaining.
 - Blackmail/Extortion - by giving something, you can get something in return later.
 - Shame/guilt - using someone's present or prior feelings of [shame or guilt](mind-feelings-shame.md) about hurting someone else's [feelings](mind-feelings.md) or breaking a [rule](rules.md).

@@ -23,7 +23,7 @@ Often, detainment is within a [small community](groups-small.md) of other people
 
 ## D. Forced Labor
 
-Any situation where someone is required to [do something](mind-creativity-results.md) against their [will](purpose.md).
+Any situation where someone is required to [do something](results.md) against their [will](purpose.md).
 
 Since people would [prefer](purpose.md) not to do it, it's typically [unskilled](jobs-specialization.md).
 

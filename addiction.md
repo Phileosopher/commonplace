@@ -40,12 +40,12 @@ The earlier an addict accepts they have a problem, the less they will lose from 
 
 However, we tend not to notice an advancing addiction because it takes over slowly:
 
-1. The substance consistently gives us the [results](mind-creativity-results.md) we want.
+1. The substance consistently gives us the [results](results.md) we want.
 2. We [trust](understanding-certainty.md) the experience enough that we stop searching for anything else.
-3. As [diminishing return](mind-creativity-results.md) begins, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
+3. As [diminishing return](results.md) begins, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
 4. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](decisions.md) our allegiance to that thing.
 5. We start small with our sacrifices and give up things we deem unnecessary by comparison. As the diminishing return scales, we progressively give up more to maintain the habit.
-6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](decisions.md) and the [consequences](mind-creativity-results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
+6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
 7. At this point, *everyone* close to the addict will have [noticed](image.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-4_friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](image.md). In this sense, they're a public disgrace from a worse place.
 8. To run from all the [pain](hardship-ptsd.md) of the bad decisions, addicts push themselves harder into the substance. They were running *from* life before, but now they're running *to* the object that will "fix" their pain.
 9. Eventually, an addict will have to [invest](power.md) so much into the substance that they'll devote *everything* to it.
@@ -74,7 +74,7 @@ Every addict of every substance has a few shared characteristics:
 The hope of something is usually far less than its likelihood, so an addict will naturally push out almost everything else that isn't a means to or part of their substance. They'll continue investing more and more into fulfilling the subsance until they start destroying other [components of living well](goodlife.md):
 
 - [Social status](power-influence.md) and [relationships with others](people-4_friends.md)
-- Laws of reality like [diminishing return](mind-creativity-results.md) or [others' evil intentions](morality-evil.md)
+- Laws of reality like [diminishing return](results.md) or [others' evil intentions](morality-evil.md)
 - Any [realistic chance](trust.md) they'd actually *get* their substance in the long-term
 
 Even when someone hates a substance (like most late-stage addicts do), its power comes from how it fulfills needs, and any combination of few base sensations drive *all* substance abuse:
@@ -107,7 +107,7 @@ There is a simple way to detect whether someone has a substance abuse problem:
 
 Addicts are self-destructive. They must [restrain](morality.md) themselves, but are afraid of [imagined](imagination.md) pain that might come from holding back their [baser desires](mind-feelings.md). In that sense, they have the [reasoning](logic.md) skills of small children. Since [reality](reality.md) doesn't respond well to mismanagement, they are some of the most [traumatized](hardship-ptsd.md) people on the planet, and are guaranteed to bring more suffering upon themselves over time.
 
-An addict who sold their [soul](humanity.md) to a substance will not find [wellness](goodlife.md) until they learn restraint. The closest thing to "balance" they'll understand is to cycle through obsessions before [diminishing return](mind-creativity-results.md) can set in, and most out-of-control addicts can become high-functioning by quickly jumping from one substance to another.
+An addict who sold their [soul](humanity.md) to a substance will not find [wellness](goodlife.md) until they learn restraint. The closest thing to "balance" they'll understand is to cycle through obsessions before [diminishing return](results.md) can set in, and most out-of-control addicts can become high-functioning by quickly jumping from one substance to another.
 
 An addict's [purpose](purpose.md) is the driving force, *not* the substance. If you remove a substance from an addict, but they don't change their purpose from it, they'll stay dry for as long as it takes until the next hit, or they'll migrate to another substance.
 

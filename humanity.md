@@ -19,7 +19,7 @@ We're the only "mammals" who think about the future, but tend to make errors abo
 
 Like any biological being, every drive of a body is based on two primary [themes](symbols.md): [fear of death](mind-feelings-fear.md) and [sex](gender.md). Or, in simpler terms, every action we make is either a reaction driven by fight/flight/freeze or pleasure.
 
-However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](mind-creativity-results.md) within that domain of error.
+However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](results.md) within that domain of error.
 
 Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-1_babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
 
@@ -46,7 +46,7 @@ The soul contains the will, which finds some form of [purpose](purpose.md) throu
 
 Souls also each contain a type of [personality](personality.md), which is a product of pure [preference](mind-feelings.md). Both preference and [decisions](decisions.md) derived from preference means multiple people can grow up in the same environment, while they will all respond differently to it.
 
-The soul constructs an [identity](identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](mind-creativity-results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
+The soul constructs an [identity](identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
 
 The things we're naturally [good at](understanding.md) and [like](humanity.md) doing can be defined as natural talent, which comes from the soul's interaction with the body. While it expresses as we create and build, it has its potential *long* before we become [influential](influence.md) with that talent, often when we're [children](maturity.md) before we can even [speak](language.md).
 
@@ -56,7 +56,7 @@ Our subconscious mind is designed to protect us by automatically performing [rou
 
 We have many [depicted expressions of self-concept](image.md), which are all built on the [purposes](purpose.md) within our [environment](reality.md). There are many ways to [group](logic.md) those faces, but they broadly classify as short-term selfish (the "id"), long-term selfish (the "ego"), and [love](people-love.md) beyond oneself for others (the "superego").
 
-It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](decisions.md) more than what we [do](mind-creativity-results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
+It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](decisions.md) more than what we [do](results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
 
 [Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
 
@@ -74,9 +74,9 @@ We have an odd tendency to find interest in others' mundane lifestyles. The life
 
 The only measure of human [value](values.md), besides [what we can exploit from them](purpose.md), comes from whatever is in the soul. All the properties of a body are entirely reproducible by anyone else (or even [technology](technology.md) someday). Therefore, while it's possible to indicate someone's value based on [utility](purpose.md), the [love](people-love.md) for a soul is the only way to give that person [inherent value](values.md). Most [religion](religion.md) revolves around the question of humanity's worth in relationship to the rest of [reality](reality.md).
 
-People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](mind-creativity-results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](decisions.md). The relationship between [attempts](creations.md) and [results](mind-creativity-results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
 
-As we age and transition through [life stages](maturity.md), we become known (and [know ourselves](awareness.md)) for the [habits](habits.md) we build (and their [consequences](mind-creativity-results.md)) *far* more than any motivations for those habits.
+As we age and transition through [life stages](maturity.md), we become known (and [know ourselves](awareness.md)) for the [habits](habits.md) we build (and their [consequences](results.md)) *far* more than any motivations for those habits.
 
 ## Transhumanism
 

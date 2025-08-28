@@ -48,13 +48,13 @@ The perceptions of "past" and "future" makes us [feel](mind-feelings.md) our exi
 
 With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](trust.md).
 
-Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](decisions.md) that create [results](mind-creativity-results.md) we want.
+Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](decisions.md) that create [results](results.md) we want.
 
 Some predictions go *backward* from the present. By assembling likely past circumstances, we can often infer what caused a situation that presently exists (i.e., "blame"). We give plenty of value to it because we assume it's necessary for [fair retribution](morality-justice.md) for [hardship](hardship-ptsd.md). However, blame isn't very [useful](purpose.md) because it rarely provides legitimate answers to present [decisions](decisions.md) (which are inherently about the future).
 
 ## Predicting people
 
-We tend to underestimate how we'll [change](people-changes.md) from our environment (e.g., [feelings](mind-feelings.md) a day from now) and overestimate how much our environment itself will [change](mind-creativity-results.md). This is because we have *much* more direct experience with our minds than our environment, so we're more likely to assume our minds are fixed while the environment is malleable.
+We tend to underestimate how we'll [change](people-changes.md) from our environment (e.g., [feelings](mind-feelings.md) a day from now) and overestimate how much our environment itself will [change](results.md). This is because we have *much* more direct experience with our minds than our environment, so we're more likely to assume our minds are fixed while the environment is malleable.
 
 We tend to suppose other people will say or do things, and usually create [habits](habits.md) around those beliefs, which is the basis for [cultural](culture.md) rituals and [social standards](people-rules.md).
 
@@ -85,7 +85,7 @@ We only need a few key details to funnel chaos because of how [values](values.md
 3. If we can see the weakest link in that chain, we know where a break will likely come.
 4. 80% of the results come from 20% of the actions ([Pareto Principle](lawsaxioms.md)), so specific small things can create a domino effect for *gigantic* things.
 
-We need experience to see the correct details because our values tend to oversimplify [results](mind-creativity-results.md):
+We need experience to see the correct details because our values tend to oversimplify [results](results.md):
 
 1. The difference between passing and failing can be as little as 1%.
 2. There's only a subtle difference between 89% and 90%.
@@ -94,7 +94,7 @@ We need experience to see the correct details because our values tend to oversim
 
 Further, the Pareto Principle compounds for each effect inside an abstraction:
 
-1. 20% in one action creates 80% of the [results](mind-creativity-results.md).
+1. 20% in one action creates 80% of the [results](results.md).
 2. 20% of *that* 20% is 4%.
 3. 20% of that 4% is 0.8%, and so on.
 4. If we observe the effects of this:
@@ -119,7 +119,7 @@ We tend to overestimate our predictions, and often believe we know more than we 
 Further, we're pretty good at guessing what has happened, but are typically awful at predicting what *will* happen, for several reasons:
 
 1. We're bad at predicting [trends](trends.md) we haven't seen and things we can't know.
-2. We tend not to comprehend the [effects](mind-creativity-results.md) of [technology](technology.md) or changes in collective [understanding](understanding.md), which dramatically changes the effects of various factors.
+2. We tend not to comprehend the [effects](results.md) of [technology](technology.md) or changes in collective [understanding](understanding.md), which dramatically changes the effects of various factors.
 3. We tend to overstate what we [feel](mind-feelings.md), even when we're experiencing a distinctly unlikely situation.
 4. We don't like [uncertainty](understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groups-member.md)). This means technical realities and constraints are lost in our pursuit for [certainty](understanding-certainty.md).
 
@@ -135,6 +135,6 @@ Even with [statistics](math.md), capturing [information](image.md) for [analysis
 
 Proportional to our desire for [certainty](understanding-certainty.md) and opportunity to [gain power](power.md), we will track large-scale [social trends](trends.md). We can frequently feel them out from our shared [human universals](humanity-universals.md), but too many unknown variables make us unable to precisely track what other people are likely to do, even with [technological assistance](technology.md).
 
-Predicting a trend is trying to [understand](understanding.md) a [story](stories.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](mind-creativity-results.md) of a cause based on what we know.
+Predicting a trend is trying to [understand](understanding.md) a [story](stories.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
 
 In fact, most of the people who *make* gigantic trends are blissfully unaware of what their impact will be. If someone [who has died](legacy.md) is presently famous, there's a good chance they never would have thought that they'd be as famous as they became.

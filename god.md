@@ -102,7 +102,7 @@ God is holy, which means perfectly pure:
 - [Isaiah 6:3](https://biblehub.com/isaiah/6-3.htm)
 - [Revelation 4:8](https://biblehub.com/revelation/4-8.htm)
 
-God is righteous, which is holiness applied to [action](mind-creativity-results.md):
+God is righteous, which is holiness applied to [action](results.md):
 
 - [Genesis 18:25](https://biblehub.com/genesis/18-25.htm)
 - [Psalm 19:7-9](https://biblehub.com/bsb/psalms/19.htm)

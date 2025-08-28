@@ -10,7 +10,7 @@ Rural
 - Often governed by broad [rules](rules.md) and honors the [implications](mind-feelings.md) of those boundaries.
 - Most people get most of their [news](stories-storytellers.md) days, weeks, or months after the event happens.
 - The people value autonomy (self-determined [decisions](decisions.md)) over interdependence.
-- Most available services are very limited from how few specialists are competing for [work](mind-creativity-results.md), and most people have a plethora of general skills to take care of tasks themselves.
+- Most available services are very limited from how few specialists are competing for [work](results.md), and most people have a plethora of general skills to take care of tasks themselves.
 - Everyone tends to speak more quietly and slower, and has a type of "free" [disposition](personality.md).
 - They tend to be very [understanding](understanding.md) and [self-aware](awareness.md) from having lots of time to think and observe.
 
@@ -33,7 +33,7 @@ Suburban
 
 Our preference of population density comes from how much we value [privacy versus convenience](safety.md). Most of these preferences express as [rituals](habits.md) involving physical and emotional distance.
 
-The [cultural](culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](mind-creativity-results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
+The [cultural](culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
 
 ## Multi-region
 

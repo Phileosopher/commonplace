@@ -5,11 +5,11 @@ For various reasons, we live together:
 
 - We [value](values-quality.md) [human connection](people-friends.md).
 - We [survive against nature](safety-nature.md) better in [groups](groups-small.md).
-- We can prevent [disasters](mind-creativity-results.md) from errors by covering for each other's failures.
+- We can prevent [disasters](results.md) from errors by covering for each other's failures.
 
 To make life more convenient for everyone, we [decide](decisions.md) to do things we're better at and prefer more than everyone else:
 
-- [Realistic](reality.md) people are excellent at performing tasks that create [results](mind-creativity-results.md).
+- [Realistic](reality.md) people are excellent at performing tasks that create [results](results.md).
 - [Conventional](culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
 - [Curious](purpose.md) people do things that give everyone a clearer [understanding](understanding.md).
 - [Creative](mind-creativity.md) people build things that draw more [quality](values-quality.md) into [creations](creations.md).
@@ -26,7 +26,7 @@ Very frequently, any [rules](rules.md) that broadly define elements of the speci
 
 ## Grouping together
 
-As we find [common interests](people-friends.md) with others with what we [do](mind-creativity-results.md), we associate with other people who share those [values](values.md). Eventually, we find ourselves in a [small group](groups-small.md) specialized toward something.
+As we find [common interests](people-friends.md) with others with what we [do](results.md), we associate with other people who share those [values](values.md). Eventually, we find ourselves in a [small group](groups-small.md) specialized toward something.
 
 Since our [purposes](purpose.md) overlap, we converge them together and our roles naturally converge into a hierarchy, with everyone submitting to more [powerful](power.md) members.
 
@@ -38,9 +38,9 @@ Not all specializations are the same regarding the [value](values-quality.md) th
 
 There are two major ways to tell if they're positively impacting society.
 
-First, that [group's](groups-large.md) [creations](creations.md) must be [measurably](math.md) better than an individual doing the same [work](mind-creativity-results.md). The easiest way to tell is whether [educators](education.md) are master workers or simply [some other so-called "expert"](mgmt-badsystems.md).
+First, that [group's](groups-large.md) [creations](creations.md) must be [measurably](math.md) better than an individual doing the same [work](results.md). The easiest way to tell is whether [educators](education.md) are master workers or simply [some other so-called "expert"](mgmt-badsystems.md).
 
-Second, that niche should require investing [time and energy](power-types.md) that can't be reproduced merely by observing others. Thus, it can't be [automated](technology.md) or delegated to low-skill [workers](mind-creativity-results.md).
+Second, that niche should require investing [time and energy](power-types.md) that can't be reproduced merely by observing others. Thus, it can't be [automated](technology.md) or delegated to low-skill [workers](results.md).
 
 ## Scaling the work
 
@@ -52,7 +52,7 @@ The niche roles become even more niche-focused as population and [technology](te
 - Automobile manufacturing was once one job, but now someone can be a [marketing](marketing.md) coordinator for mid-size family SUVs.
 - [Computers](computers.md) were once an esoteric engineer's toy, but there are tens of thousands of jobs devoted to *only* software development with JavaScript.
 
-These specializations can apply to *any* [task](mind-creativity-results.md) or [purpose](purpose.md):
+These specializations can apply to *any* [task](results.md) or [purpose](purpose.md):
 
 - [Representative democracy](politics-systems.md) permits politicians to focus on managing [political power](power.md) to let everyone else do what they prefer.
 - Banks hold [money](power-types.md) to [lower risk](safety.md) for other people, though they technically pay rent for it (i.e., interest).
@@ -68,7 +68,7 @@ The [power](power.md) to accomplish for each of these niches grows proportionall
 
 ## Settling together
 
-For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](culture.md) through everyone generally [identifying](identity.md) with their [tasks](mind-creativity-results.md):
+For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](culture.md) through everyone generally [identifying](identity.md) with their [tasks](results.md):
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.

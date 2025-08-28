@@ -124,7 +124,7 @@ Other drugs
   - Physical labor
   - [Cleaning](home-housekeeping.md)
   - [Maximizing productivity](success-4_routine.md)
-  - [Creating results](mind-creativity-results.md)
+  - [Creating results](results.md)
 
 ## Excitement/Risk
 

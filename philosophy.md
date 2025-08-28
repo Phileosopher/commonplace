@@ -13,7 +13,7 @@ Every discipline is configured to address a specific portion of living:
 - [Computer programmers](computers-software-design.md) create [logic](logic.md)-based [automation](programming-basics.md).
 - Mechanics and technicians [repair](fix.md) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
-- Media professionals [create](creations.md) and [perform](mind-creativity-results.md) [stories](stories.md).
+- Media professionals [create](creations.md) and [perform](results.md) [stories](stories.md).
 
 Though those roles seem dramatically different, they have *many* abstract components in common with one another. As someone [develops a craft](mind-creativity.md), they start straddling into neighboring [specializations](jobs-specialization.md), and masters of a craft often become highly skilled at *multiple* disciplines to accomplish their [purposes](purpose.md).
 
@@ -72,7 +72,7 @@ These explorations diverge from daily life and ask how we can build society into
 
 Political theory serves very little benefit for private individuals, but it provides plenty of value for anyone in [leadership](mgmt-1_why.md).
 
-The major downside of their approach, though is that they were obsessed with using things for their [utility](purpose.md), which meant they undermined senses and experience in the pursuit of [results](mind-creativity-results.md).
+The major downside of their approach, though is that they were obsessed with using things for their [utility](purpose.md), which meant they undermined senses and experience in the pursuit of [results](results.md).
 
 ### IV. Deconstruction (Post-Modern ~1800-1950)
 

@@ -180,7 +180,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - Waldorf's style was founded through a German school from Rudolf Steiner's spiritualized [philosophy](philosophy.md) of [anthroposophy](https://en.wikipedia.org/wiki/Anthroposophy) with the frequent mantra "head, heart and hands".
   - Head means [thinking](understanding.md) clearly and independently.
   - Heart means the student having [emotional connection](mind-feelings.md) with their work and the world at large.
-  - Hands means the willingness to take action to [achieve goals](mind-creativity-results.md) and [contribute to the world](meaning.md).
+  - Hands means the willingness to take action to [achieve goals](results.md) and [contribute to the world](meaning.md).
 - In practice, it's like Charlotte Mason, but has a far more secular approach with more holistic elements.
 - In the early stage, there's an emphasis on [arts and crafts](mind-creativity.md), music, and movement, and nature.
 - Waldorf style believes in rigorous academics, but *only* after the child is developmentally ready. Formal academics, especially reading, is delayed until age 7.

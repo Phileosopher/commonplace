@@ -22,7 +22,7 @@ This "conversation" helps us [understand](understanding.md) the world around us 
 Our communication skill comes through two major sub-skills:
 
 1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](image.md) they see (listening).
-2. How well we can [convey](mind-creativity-results.md) the [image](image.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
+2. How well we can [convey](results.md) the [image](image.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
 
 Our [creative](mind-creativity.md) [decisions](decisions.md) are essentially the [image](image.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](trust.md) us.
 
@@ -34,7 +34,7 @@ We're always constrained by our [medium](creations.md), whether it's through [wr
 
 Our [cultural](culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](decisions.md) with respect to our culture or [integrate our shadow](personality.md).
 
-We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](mind-creativity-results.md).
+We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](results.md).
 
 Even if we *could* precisely share an idea, we wouldn't have time to completely share it! Thus, we compromise by using various [images](image.md) and [symbols](symbols.md) to deliver our central point.
 
@@ -78,7 +78,7 @@ To avoid failing with words, we must focus on [fixing](fix.md) each problem sepa
 
 First, we must think through what people said more thoroughly. This requires taking time to parse what they said and what it may [imply](mind-feelings.md). The flow of conversation moves slower, but people understand each other more. This probably won't happen across society, but individuals can gain *tremendously* from the practice, especially in [heated conflicts](people-5_conflicts.md).
 
-Second, we should be cautious about how our usage of words can imply an [image](image.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](mind-creativity-results.md) of [decisions](decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
+Second, we should be cautious about how our usage of words can imply an [image](image.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](results.md) of [decisions](decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
 
 Finally, we must closely examine every time we [identify](identity.md) with words. One useful trick is to compare any discrepancy between the words we use to describe ourselves versus how we'd feel if others said it about us.
 
@@ -102,4 +102,4 @@ When we discuss a [painful](hardship-ptsd.md) part of our experiences, we frame 
 
 There is another effect, though. By reliving an experience in a way that includes someone else, that other person shares in that relived experience and gives us a sense of [meaning](meaning.md) out of a shared suffering.
 
-With the response of someone else, we'll often feel less alone about that experience, but will also consider the situation resolved through its expression. It may feel like a [creative result](mind-creativity-results.md) that somehow created a benefit for someone else's life, or simply the acknowledgement that our [feelings](mind-feelings.md) from an experience were not a completely [solitary](hardship-solitude.md) phenomenon.
+With the response of someone else, we'll often feel less alone about that experience, but will also consider the situation resolved through its expression. It may feel like a [creative result](results.md) that somehow created a benefit for someone else's life, or simply the acknowledgement that our [feelings](mind-feelings.md) from an experience were not a completely [solitary](hardship-solitude.md) phenomenon.

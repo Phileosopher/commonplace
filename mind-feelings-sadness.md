@@ -47,4 +47,4 @@ When sadness combines with the feeling of [injustice](morality-justice.md), it b
 
 Sadness by itself is only for [a season](trends.md), but the absence of [hope](trust.md) gives an extra dose of severity to sadness, and it becomes despair.
 
-Despair over time slowly erodes [our purposes](purpose.md), and eventually becomes depression. The only way to stop depression from spiraling into further depression is to [redefine many key values of oneself](hardship-worthlessness.md), which usually comes through [building good habits](habits.md) that give constructive, healthy routines. While it isn't enjoyable until they see [results](mind-creativity-results.md), they can eventually find [meaning](meaning.md).
+Despair over time slowly erodes [our purposes](purpose.md), and eventually becomes depression. The only way to stop depression from spiraling into further depression is to [redefine many key values of oneself](hardship-worthlessness.md), which usually comes through [building good habits](habits.md) that give constructive, healthy routines. While it isn't enjoyable until they see [results](results.md), they can eventually find [meaning](meaning.md).

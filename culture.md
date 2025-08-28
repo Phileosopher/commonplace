@@ -65,7 +65,7 @@ Individualism/Collectivism - creating [the good life](goodlife.md) for oneself v
 - Collectivism focuses on the best interests of the group (and often creates unique values that enforce harmony).
 - Individualism requires [self-ownership](success-1_why.md), but Collectivism requires [love](people-love.md).
 
-Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](mind-creativity-results.md) or harmony:
+Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](results.md) or harmony:
 
 - Masculine/Task-Based/Data-Oriented focuses on results, [information](understanding.md), and achievement.
 - Feminine/Relationship-Based/[Dialogue](people-conversation.md)-Oriented focuses on harmony, context, and coexistence.
@@ -79,7 +79,7 @@ Power Distance - how much [power](power.md) comes from [status](image.md):
 
 Time Flexibility - how important deadlines are:
 
-- Linear-Time emphasizes punctuality and fulfilling deadlines (and is often more [productive](mind-creativity-results.md) with stronger [economies](economics.md)).
+- Linear-Time emphasizes punctuality and fulfilling deadlines (and is often more [productive](results.md) with stronger [economies](economics.md)).
 - Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends.md), and the [unknown](unknown.md)).
 - Linear-Time requires discipline, but Flexible-Time requires grace.
 
@@ -92,7 +92,7 @@ Time Orientation - how far into the past and future to [predict](imagination.md)
 Thought Mode - consider things with principles or applications:
 
 - Principles-First considers [philosophical ideas](philosophy.md) as the basis of [understanding](understanding.md).
-- Applications-First considers proven [examples](mind-creativity-results.md) and techniques as the basis of [understanding](understanding.md).
+- Applications-First considers proven [examples](results.md) and techniques as the basis of [understanding](understanding.md).
 - Principles-First requires intelligence, but Applications-First requires [experience](understanding.md).
 
 Uncertainty Avoidance - the value of finding [certainty](understanding-certainty.md) in things:
@@ -111,7 +111,7 @@ Clearly, these are not exclusive dimensions. It's difficult to measure something
 
 ## Inheritance
 
-Our first culture is our [family](people-family.md). They told us what we should [do](mind-creativity-results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
+Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
 
 After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 
@@ -147,7 +147,7 @@ Naturally, the newest generation in a group will have to make their own decision
 
 ## Outsiders
 
-If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](mind-creativity-results.md) they [expect](imagination.md), they'll experience "culture shock".
+If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](results.md) they [expect](imagination.md), they'll experience "culture shock".
 
 Some well-established people in a formerly [powerful](power.md) culture will sometimes insist emphatically they stay with their old culture even when the rest of the people have moved on to new [fashions](trends.md). Those people end up staying permanent [outsiders](morality-taboo.md) and [laggards](trends.md) in their new culture, though there's a possibility they'll create a [counter-trend](trends.md) later.
 

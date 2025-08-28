@@ -51,7 +51,7 @@ If your [money](money-1_why.md) is the center of your life:
 - Principles: Ways that work in making or managing money
 - God: A valuable coworker in gaining money or a risk to acquiring wealth
 
-If your [work](mind-creativity-results.md) is the center of your life:
+If your [work](results.md) is the center of your life:
 
 - Spouse: Help or hindrance in worth
 - Family: Help or interruption to work, people to instruct in work ethic

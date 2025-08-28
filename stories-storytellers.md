@@ -3,7 +3,7 @@
 
 Since we think with [stories](stories.md), everyone [communicates](people-conversation.md) with them. They're necessary for [influencing](influence.md) others, the basis for how we [feel](mind-feelings.md) about things, and why we ever start [changing](people-changes.md).
 
-Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](imagination.md), but a real story implies that [consequences](mind-creativity-results.md) will likely repeat themselves.
+Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](imagination.md), but a real story implies that [consequences](results.md) will likely repeat themselves.
 
 To effectively convey a story, a storyteller *must* have a [value](values.md) they're trying to [prove](influence.md), and their effectiveness is in how much they can get their audience to [believe](understanding-certainty.md) them.
 
@@ -11,13 +11,13 @@ To effectively convey a story, a storyteller *must* have a [value](values.md) th
 
 Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](rules.md).
 
-Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](mind-creativity-results.md), but can also include what they [plan to do](imagination.md) or [are likely doing](mind-creativity-results.md).
+Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](results.md), but can also include what they [plan to do](imagination.md) or [are likely doing](results.md).
 
 We gossip for various reasons:
 
 - We can gain [power](power.md) through additional [knowledge](understanding.md) of someone.
 - We're [afraid](mind-feelings-fear.md) of someone's reaction if we told them something or did something.
-- We want to [do things](mind-creativity-results.md) without someone knowing.
+- We want to [do things](results.md) without someone knowing.
 - We have more interest in the people we're referring to than the people we're with.
 - We specifically care more about our [*connection*](people-friends.md) with the people we're with than the people we discuss.
 
@@ -40,13 +40,13 @@ Some people or [groups](groups-small.md) make a [career](jobs-spcialization.md) 
 
 In the case of both, they often have a good [reason](purpose.md) to be [influential](influence.md). A dull restatement of the facts typically doesn't [resonate](mind-feelings.md) as heavily as a [sensational](mind-feelings.md) [story](stories.md). This means there's *always* a [spin](image.md) to the story that oversimplifies the [truth](reality.md) and dramatizes certain elements of reality to make it more interesting. This embellishment is always present, even if it simply includes aspects of virtue signaling.
 
-In a fast-paced society, one of the easiest methods to create the greatest [marketing](marketing.md) [results](mind-creativity-results.md) is to employ A/B testing. By sending two alternating versions of the same headline to people who encounter it and [measuring](math.md) responses, creators can keep testing which information creates the greatest [emotional](mind-feelings.md) reaction.
+In a fast-paced society, one of the easiest methods to create the greatest [marketing](marketing.md) [results](results.md) is to employ A/B testing. By sending two alternating versions of the same headline to people who encounter it and [measuring](math.md) responses, creators can keep testing which information creates the greatest [emotional](mind-feelings.md) reaction.
 
 Unfortunately, the most intense emotional reaction is usually wrong because it's also simple. Revising facts to provoke [feelings](mind-feelings.md) (frequently to gain [power](power.md) from a [large organization](mgmt-badsystems.md) or from [large demographic groups](groups-large.md) via popularity) can also falsely defame or venerate someone. When used correctly, language can redirect the [image of power](image-distortion.md) to intentionally [favor or shame](image.md) specific people.
 
 Further, even by simply stating facts, the proportion of stated information can *still* [distort what things look like](image-distortion.md). Making 100 articles about an incident and only 1 about the events leading up to the incident, for example, can make the incident [feel](mind-feelings.md) more severe without the context of its surrounding events. Even when they *say* they're stating the truth and the statements they make are true, the [production values](values-quality.md) often embellish the truth or avoid saying other things that are just as relevant.
 
-Naturally, a masterful image manager can make themselves look more authoritative. The [natural trust](groups-member.md) people give [large groups](groups-large.md) makes large-scale "news outlets" sound [reputable](image.md), even when they haven't [proven](mind-creativity-results.md) their reputation's [trustworthiness](trust.md). This maintains itself because they build stories designed to confirm the audience's [bias](mind-bias.md).
+Naturally, a masterful image manager can make themselves look more authoritative. The [natural trust](groups-member.md) people give [large groups](groups-large.md) makes large-scale "news outlets" sound [reputable](image.md), even when they haven't [proven](results.md) their reputation's [trustworthiness](trust.md). This maintains itself because they build stories designed to confirm the audience's [bias](mind-bias.md).
 
 ## Retelling
 
@@ -61,7 +61,7 @@ As a story develops from a tale into a saga, it will grow to disinterest people 
 
 If spoken frequently enough and long enough, stories about real things tend to become the "[truth](reality.md)", even if they never happened.
 
-While we're more likely to propagate positive fictional stories over negative ones (i.e., they give a positive [feeling](mind-feelings.md)), we'll tend to propagate negative actual stories more than positive ones (because they may deliver adverse [effects](mind-creativity-results.md) to us).
+While we're more likely to propagate positive fictional stories over negative ones (i.e., they give a positive [feeling](mind-feelings.md)), we'll tend to propagate negative actual stories more than positive ones (because they may deliver adverse [effects](results.md) to us).
 
 ## Legendary people
 

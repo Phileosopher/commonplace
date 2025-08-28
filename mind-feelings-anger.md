@@ -19,7 +19,7 @@ The basis of our anger, therefore, can come from many domains:
 - We fear not having enough power to accomplish our [desires](purpose.md).
 - We feel [sad](mind-feelings-sadness.md) about [a loss](hardship.md) that we believe shouldn't have happened.
 - We were [surprised](mind-feelings-surprise.md), and felt afraid from it.
-- We are [disgusted](mind-feelings-disgust.md) at something, and believe we should [take action about it](mind-creativity-results.md).
+- We are [disgusted](mind-feelings-disgust.md) at something, and believe we should [take action about it](results.md).
 
 Generally, anger is a catch-all feeling when we don't understand how to feel otherwise.
 

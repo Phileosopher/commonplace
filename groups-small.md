@@ -81,9 +81,9 @@ A leader promotes certain [values](values.md) almost automatically, so a group w
 
 In the case of skillful leadership, a group will closely match what the leader desires. As a group draws closer to the leader's ideal, the *members* will either strip other members of their power or promote them. Eventually, everyone in leadership will become *very* similar to the leader, assuming an outside force (e.g., [death](legacy.md)) doesn't redefine the leader.
 
-The general success or failure of a group's values come in its [results](mind-creativity-results.md). Many leaders are [evil](morality-evil.md) enough to [distort reality](image-distortion.md), but their success is usually easy enough to compare [numerically](math.md) in a broad sense (e.g., voters, employees, volunteers, members, congregants, etc.).
+The general success or failure of a group's values come in its [results](results.md). Many leaders are [evil](morality-evil.md) enough to [distort reality](image-distortion.md), but their success is usually easy enough to compare [numerically](math.md) in a broad sense (e.g., voters, employees, volunteers, members, congregants, etc.).
 
-However, there's plenty of uncertainty from a leader's [thought](mind-creativity.md) to the organization's [results](mind-creativity-results.md), so measurements can be misleading:
+However, there's plenty of uncertainty from a leader's [thought](mind-creativity.md) to the organization's [results](results.md), so measurements can be misleading:
 
 1. The leader [decides](decisions.md).
 2. The leader [communicates](people-conversation.md) that decision, with possible interference or additions by the leader's choice of [media](stories-storytellers.md) and other leaders conveying the thought.

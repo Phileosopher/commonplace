@@ -28,7 +28,7 @@ Meditation is critical for living well:
 - Meditation allows us to distinguish "important" from "unimportant" things.
 - The only thing that exists around us is the "present", and meditation helps us separate it from our [memories](mind-memory.md) and [imagination](imagination.md).
 - The events that happen to us don't matter *nearly* as much as how we interpret them.
-- All wisdom, [understanding](understanding.md), [virtue](morality.md), [self-discipline](mind-creativity-results.md), [prolonged success](success-6_humility.md), [critical thinking](understanding.md), [analysis](logic.md), and [satisfaction](mind-feelings-happiness.md) require at least some meditation.
+- All wisdom, [understanding](understanding.md), [virtue](morality.md), [self-discipline](results.md), [prolonged success](success-6_humility.md), [critical thinking](understanding.md), [analysis](logic.md), and [satisfaction](mind-feelings-happiness.md) require at least some meditation.
 
 Meditation is necessary to find inner problems:
 

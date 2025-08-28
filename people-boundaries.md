@@ -82,7 +82,7 @@ Unfortunately, we can set [implicit contracts](people-contracts.md) with privile
 
 ## Privacy
 
-Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](mind-creativity-results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](understanding.md).
+Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](understanding.md).
 
 The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](culture.md):
 
@@ -122,7 +122,7 @@ All reputation is nothing but [sentiments](mind-feelings.md) about past events. 
 
 Because reputation is built around feelings, it's rarely [rational](logic.md). At its farthest extreme, a celebrity will make one social media remark that generates 1,500 comments, with each person feeling their single comment will [make a difference](power-influence.md).
 
-Reputations prove beforehand to others about what they should [expect](imagination.md). It usually indicates what someone [has legitimately done](mind-creativity-results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](insurance.md)).
+Reputations prove beforehand to others about what they should [expect](imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](insurance.md)).
 
 The limit of [power](power.md) from a reputation is what that entire [group](groups-large.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
 
@@ -130,6 +130,6 @@ To [communicate](language.md) a reputational image is *highly* contextual and wi
 
 To be famous is to have so much attention on you that you have no medium to sufficiently respond to the people who [communicate with you](people-conversation.md).
 
-Because of how much [power](power.md) a reputation can give, people will [work hard](mind-creativity-results.md) to [distort and tweak their image](image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
+Because of how much [power](power.md) a reputation can give, people will [work hard](results.md) to [distort and tweak their image](image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
 
 When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](people-friends.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).

@@ -24,7 +24,7 @@ While money is directly measurable, wealth is a completely relative concept:
 *Loving* money is the root of all evil.
 
 - Money is the power to get or do things.
-- The money itself simply magnifies our [results](mind-creativity-results.md).
+- The money itself simply magnifies our [results](results.md).
 
 We always manage money toward our [desires](purpose.md) and [what we value](addiction-centers.md).
 

@@ -5,7 +5,7 @@ When people are willing to comply with others' standards, they're engaging in a 
 
 *Everything* we do with others that isn't out of [love](people-love.md) is an agreement for one of our [purposes](purpose.md):
 
-- [Expectations](imagination.md) about what someone else is [capable of doing](mind-creativity-results.md), either from [conditioning](habits.md), past [results](mind-creativity-results.md), or [group favoritism](groups-member.md).
+- [Expectations](imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
 - A [fear](mind-feelings-fear.md), driven by self-preservation, from witnessing someone else's [power](power.md) to harm them.
 - [Trust](trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
 
@@ -36,7 +36,7 @@ Occasionally, these agreements become formal [rules](rules.md) if they outlast a
 The person or group who most wants to leave the engagement will transition through phases of distancing if they've found a better means to their [purpose](purpose.md):
 
 1. Pursuing different [interests](purpose.md) than the other.
-2. Performing different [actions](mind-creativity-results.md) than the other's [expectations](imagination.md).
+2. Performing different [actions](results.md) than the other's [expectations](imagination.md).
 3. Waiting indefinitely for the other party to engage in the inevitable looming [conflict](people-5_conflicts.md), and often intentionally avoiding them to prevent it.
 4. Officially confronting the tension and terminating the shared experience.
 

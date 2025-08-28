@@ -9,7 +9,7 @@ Most of our efforts in life are in conquering the Unknown. Most of our [creation
 
 We can never completely remove the Unknown. Death is the greatest Unknown, and also one of our greatest [fears](mind-feelings-fear.md) for that reason. Every [religion](religion.md) is an attempt to answer the Unknown, and all aspects of theology are attempts to make sense of God(s) that are the very essence of that Unknown (since we certainly know very little about the entirety of anything that is God).
 
-Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](decisions.md) that drove them, but we [deceive](image.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](mind-creativity-results.md) feel [familiar](identity.md).
+Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](decisions.md) that drove them, but we [deceive](image.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](identity.md).
 
 We are stubborn, though, and we *constantly* conquer the Unknown. Most of our [stories](stories.md) are the [conflict](people-conflicts.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
 
@@ -100,7 +100,7 @@ Future ("what will/might be")
 
 - [Goal-oriented](success-4_routine.md), works harder
 - [Saves money](money-3_budget.md) and resources more
-- [Results-oriented](mind-creativity-results.md), and cooperative/competitive to that end
+- [Results-oriented](results.md), and cooperative/competitive to that end
 - More often [health-conscious](body-4_health.md)
 - Trouble having [fun](fun.md)
 - Trouble with spontaneity and [relationships](people-4_friends.md)
@@ -112,7 +112,7 @@ Our [personality](personality.md) dictates this balance, but those personalities
 
 1. The Present is the most known we have, and the basis for all [phenomenology](mind-feelings.md) and anything we can actually call [reality](reality.md), but also isn't very [useful](purpose.md) by itself.
 2. The Past is the second-most known we have, proportional to how near it is to us in time and how reliable our memories are. It also represents some of the worst qualities that we need to [change](people-changes.md), and we run the risk of falling behind the [trends](trends.md).
-3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](mind-creativity-results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](culture.md).
+3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](culture.md).
 
 ## Scaling order
 
