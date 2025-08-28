@@ -95,4 +95,4 @@ Unfortunately, there are far too many logistical failures that almost guarantee 
 
 - Organic life eventually decays.
 - We have never had control over anything in our essence beyond our bodies.
-- We barely grasp what a "soul" is that creates life, or [its relationship](networks.md) with [whatever God is](religion.md).
+- We barely grasp what a "soul" is that creates life, or [its relationship](https://gainedin.site/networks/) with [whatever God is](religion.md).

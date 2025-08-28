@@ -37,6 +37,8 @@ Each member has at least some [power](power.md), [purpose](purpose.md), and [bel
 
 People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](image.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-4_friends.md) the other group members.
 
+The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](rules.md) almost guarantees that they'll lean more into high conscientiousness.
+
 The values of a group are mostly defined by its leadership. That leader is approving or denying members' [creations](creations.md) to promote the [values](values.md) they [want](purpose.md) to see. Leadership ends up looking like [parenting](people-family.md), but typically with a more subdued and distanced approach.
 
 Broadly, leaders tend to exert control across a [culture](culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:

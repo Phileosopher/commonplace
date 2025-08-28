@@ -81,7 +81,7 @@ Nobody is ever fully trust-free, and we have very little [control](mind-creativi
 - We still must trust [our pain is real](mind-feelings-fear.md), and that our [decisions](decisions.md) mean anything.
 - Even if we think we trust nothing else, we are trusting our [perceptions](image.md) and [understanding](understanding.md).
 
-Our entire *framework* of thinking relies on trusting indirectly connected elements, even when we don't perceive [their connections](networks.md):
+Our entire *framework* of thinking relies on trusting indirectly connected elements, even when we don't perceive [their connections](https://gainedin.site/networks/):
 
 - [Fear](mind-feelings-fear.md) of sharks will lead to trusting things that can stop sharks.
 - Fear of what a [leader](groups-small.md) may do often requires trusting a *different* leader (especially in [large groups](groups-large.md) and [politics](politics-conservativeliberal.md)).

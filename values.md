@@ -29,7 +29,7 @@ We frequently define those values through something that broke from a [pattern](
 
 We presume these abstractions are reality because we frequently [share parts of them with other people](humanity-universals.md). We build them by combining our perceptions of [reality](reality.md) with our previous [understanding](understanding.md).
 
-The perceptions we make are *also* made of values, so our minds are vast structures of clumps of values, one on top of another, assembled through [associations](networks.md) through [feelings](mind-feelings.md) and [past understanding](understanding.md). They become less reliable the further we get from [actual](reality.md) perceptions, which is easier in proportion to [our intelligence](personality.md).
+The perceptions we make are *also* made of values, so our minds are vast structures of clumps of values, one on top of another, assembled through [associations](https://gainedin.site/networks/) through [feelings](mind-feelings.md) and [past understanding](understanding.md). They become less reliable the further we get from [actual](reality.md) perceptions, which is easier in proportion to [our intelligence](personality.md).
 
 While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](personality.md) or how much we [philosophize](philosophy.md).
 

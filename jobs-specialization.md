@@ -14,7 +14,7 @@ To make life more convenient for everyone, we [decide](decisions.md) to do thing
 - [Curious](purpose.md) people do things that give everyone a clearer [understanding](understanding.md).
 - [Creative](mind-creativity.md) people build things that draw more [quality](values-quality.md) into [creations](creations.md).
 - [Risk-prone](socialrisk.md) people are willing to explore as-of-yet [unknown](unknown.md) things.
-- [Social](groups-small.md) people bring other people together as a "[connection point](networks.md)" with each other.
+- [Social](groups-small.md) people bring other people together as a "[connection point](https://gainedin.site/networks/)" with each other.
 
 We all become consistently better (and therefore less wasteful and ineffective) at whatever we keep doing, so the consequence of specialized work is that the *group* conserves resources.
 

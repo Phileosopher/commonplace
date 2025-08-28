@@ -1066,7 +1066,7 @@ Ludonarrative - the difference in a game between how the game world and the stor
 
 ## M
 
-MAC - media access control, a subset of the [Data Link layer](networks.md) that deals with labeling various nodes, moves to logical link control (LLC)
+MAC - media access control, a subset of the [Data Link layer](https://gainedin.site/networks/) that deals with labeling various nodes, moves to logical link control (LLC)
 
 MAC address - media access control address, a unique identifier for network-enabled computer parts, uses hexadecimal and often uses colons for ease of reading (e.g., 0f:4c:3b:a5:a3:d1)
 
@@ -1326,7 +1326,7 @@ PCM - pulse-code modulation, a method of encoding the sound waves of an object r
 
 PDM - pulse-density modulation, a method of encoding the sound waves of an object relative to other sounds before and after it, in contrast with PCM
 
-PDU (networking) - protocol data unit, a standard of measurement defined by which [networking layer](networks.md) the protocol operates on
+PDU (networking) - protocol data unit, a standard of measurement defined by which [networking layer](https://gainedin.site/networks/) the protocol operates on
 
 PDU (supercomputers) - power distribution unit, a big power management device that can fit on a server rack that's effectively a huge power strip with regulators to make sure all the connected cables are getting equal voltage
 

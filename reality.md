@@ -73,7 +73,7 @@ While [post-modern philosophy](philosophy.md) denies it, there *are* [universal 
 
 ## Details
 
-When we [analyze](logic.md) reality closely, every single thing can be divided indefinitely. Taken far enough, we have many tiny components, but we can never find an end to the smallest possible things we can divide (e.g., a human body has many parts, one of its parts is a heart, one of its heart valves is a muscle, etc.). Also, each of these divisions effectively creates its own [network](networks.md).
+When we [analyze](logic.md) reality closely, every single thing can be divided indefinitely. Taken far enough, we have many tiny components, but we can never find an end to the smallest possible things we can divide (e.g., a human body has many parts, one of its parts is a heart, one of its heart valves is a muscle, etc.). Also, each of these divisions effectively creates its own [network](https://gainedin.site/networks/).
 
 The small components form parts of a whole. The entire collection, whatever it is, is (typically) of dramatically more value to us than the individual parts. We tend to find value in the collective more than the components, either for our [purposes](purpose.md) or what we [love](people-love.md). That added value usually includes something that makes us [feel](mind-feelings.md) like the thing is somehow more complete.
 

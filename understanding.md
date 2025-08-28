@@ -63,7 +63,7 @@ To gain more understanding of [something we don't know](unknown.md), we generall
   - Why can/will it? - asking the [logic](logic.md) behind a [prediction](imagination.md)
   - Why won't it? - finding the [unknown](unknown.md) obstruction toward a [purpose](purpose.md)
 
-In particular, "why" questions generate the most information because they request the broadest possible range of information. They also help [bridge connections](networks.md) the easiest between things, since they most easily help us to detect [patterns](symbols.md) across domains.
+In particular, "why" questions generate the most information because they request the broadest possible range of information. They also help [bridge connections](https://gainedin.site/networks/) the easiest between things, since they most easily help us to detect [patterns](symbols.md) across domains.
 
 We tend to be very accurate about *what* we're paying attention to, but often fail at explaining *why* it is that way or *how* it would respond to any [changes](people-changes.md) around it.
 
@@ -79,7 +79,7 @@ The best way to understand other perspectives isn't from simply understanding wh
 
 - In effect, thoroughly understanding a viewpoint means you can think with exactly the flow of [logic](logic.md) they're thinking *before* they tell you.
 
-Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](networks.md) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
+Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](https://gainedin.site/networks/) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
 
 Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](mind-creativity-results.md), then have a broader range to [choose](decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
 
@@ -98,7 +98,7 @@ There are three broad classes of things we can understand:
    - Physical context - [location-based](logistics-navigation.md) attributes
    - [Cultural](culture.md) context - human beliefs and perceptions
    - [Historical](stories.md) context - period of time and events
-   - [Situational context](networks.md) - event-based things that are "not normal"
+   - [Situational context](https://gainedin.site/networks/) - event-based things that are "not normal"
 3. Finally, we can understand ideas. Ideas are constructed [values](values.md) in the mind and can be as concrete or abstract as we need:
    - General understanding routes through our [feelings](mind-feelings.md), and isn't very specific but is moderately useful in *many* domains (e.g., [philosophy](philosophy.md)).
    - Technical understanding requires conscious thought, and isn't that applicable to anything else, though it's far more [useful](purpose.md) than general understanding (e.g., technical specs). Thankfully, it can cross domains if we [convert it](philosophy.md) to general understanding.

@@ -86,7 +86,7 @@ Most of them aren't worth dissecting much, but some of them have had limited use
 
 - Non-euclidean geometry measures things that do *not* follow the parallel postulate (and also don't exist in reality).
 - Number theory spun off from arithmetic to clarify and qualify precise definitions of what numbers even *are*.
-- Graph theory intimately studies graphs, which are effectively [visualizations](data-viz.md) of [networks](networks.md).
+- Graph theory intimately studies graphs, which are effectively [visualizations](data-viz.md) of [networks](https://gainedin.site/networks/).
 
 Over time, the math [pedagogical culture](education.md) has also created [their own language](glossary-math.md) among each other to accommodate this additional depth.
 
