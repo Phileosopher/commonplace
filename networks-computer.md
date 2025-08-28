@@ -267,7 +267,7 @@ There are two methods for how a computer establishes a session:
 
 Depending on the protocol, the data will transfer differently:
 
-- Simplex - one way only (e.g., [keyboard](computers-keyboard.md) or [screen](computers-screen.md))
+- Simplex - one way only (e.g., [keyboard](computers-keyboard.md) or [screen](engineering-screen.md))
 - Half Duplex - one way at a time (e.g., text messaging)
 - Full Duplex - both ways at the same time (e.g., a phone call)
 

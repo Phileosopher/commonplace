@@ -17,7 +17,7 @@ Technically, electricity doesn't just move from one area to another sequentially
 
 To keep track of time from the [motherboard](computers-motherboard.md), engineers use a Data Flip Flop (DFF) at each stopping point between each cycle, which holds either a 0 or a 1. It's usually made of 2 NAND gates stuck together.
 
-This happens fast. A 3.6 MHz processor, for example, is processing about 3,600,000 cycles a second. To put that in perspective, our brains can never react faster than 8 cycles a second and the [display](computers-screen.md) for most high-end games run at about 120 frames a second.
+This happens fast. A 3.6 MHz processor, for example, is processing about 3,600,000 cycles a second. To put that in perspective, our brains can never react faster than 8 cycles a second and the [display](engineering-screen.md) for most high-end games run at about 120 frames a second.
 
 Normally, the entire endeavor can look a bit like stop-and-go traffic ("synchronous logic"), but engineers who manage asynchronous logic can make everything move even *faster* by getting rid of gaps where the electricity in the DFF is waiting for another clock cycle. This is a crazy-complicated engineering and design challenge.
 

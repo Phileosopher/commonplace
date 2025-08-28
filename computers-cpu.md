@@ -37,7 +37,7 @@ While all computers broadly use the [von Neumann architecture](https://en.wikipe
 
 ## Peripherals
 
-To work with information coming in (inputs such as a [keyboard](computers-keyboard.md)) and outgoing information (outputs such as a [screen](computers-screen.md)), the CPU tends to see it as merely specific [memory](computers-memory.md) registers. Memory location 14136, for example, might be where the computer listens to the [mouse](computers-mouse.md) input.
+To work with information coming in (inputs such as a [keyboard](computers-keyboard.md)) and outgoing information (outputs such as a [screen](engineering-screen.md)), the CPU tends to see it as merely specific [memory](computers-memory.md) registers. Memory location 14136, for example, might be where the computer listens to the [mouse](computers-mouse.md) input.
 
 Drivers are instructions about where that memory goes, as well as how the CPU can interact with that information.
 

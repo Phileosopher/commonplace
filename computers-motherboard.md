@@ -8,7 +8,7 @@ Ironically, while motherboards often look intimidating, they're one of the *leas
 - A [CPU](computers-cpu.md)
 - Onboard [memory](mind-memory.md) (as RAM)
 - An input (typically for at least a [keyboard](computers-keyboard.md) or other computer data)
-- An output (typically via a [screen](computers-screen.md)).
+- An output (typically via a [screen](engineering-screen.md)).
 
 In most typical computers, there are other built-in features:
 

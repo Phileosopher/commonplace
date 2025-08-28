@@ -86,7 +86,7 @@ A processor cycles the information between a control unit and [math/logic unit](
 
 In effect, output is pretty much anywhere where a processor sends information:
 
-- It could send it to a [computer screen](computers-screen.md) or a [printer](computers-printers.md), which is what most people think of.
+- It could send it to a [computer screen](engineering-screen.md) or a [printer](computers-printers.md), which is what most people think of.
 - It may output to [audio](computers-speakersmic.md) or activate lights.
 - It might store it to the hard drive for long-term storage between power cycles.
 - It may send the information [across an electrical cable](networks-computer.md) to be *another* computer's input.
@@ -180,7 +180,7 @@ Each motherboard has specific limits to its "form factor". Specifically, the big
 Motherboards have a variety of "rear ports" to plug other things in with the case closed. You can usually see these on the back of your computer, but they often stick a few through the front for convenience:
 
 - USB ("universal serial bus") plugs, which are pretty much the universal standard right now, with different versions that have different speeds, and a few types of plugs.
-- Display ports for the [screen](computers-screen.md), which can include HDMI ("high definition multimedia interface"), VGA ("video graphics array"), and DVI ("digital video interface").
+- Display ports for the [screen](engineering-screen.md), which can include HDMI ("high definition multimedia interface"), VGA ("video graphics array"), and DVI ("digital video interface").
 - "PS/2" port (from IBM's "Personal System 2") for keyboard/mouse, though this has largely been replaced by USB.
 - Digital/analog sound cables. Unless you're doing something fancy, lime-green is for audio out and pink is for your microphone.
 
@@ -257,7 +257,7 @@ Laptops and mobile devices are a weird exception to modularity. Their form facto
 
 Computers frequently output things without considering where that input will go. Then, someone can connect that "output" anywhere:
 
-- A peripheral, such as the [speakers](computers-speakersmic.md) or [screen](computers-screen.md)
+- A peripheral, such as the [speakers](computers-speakersmic.md) or [screen](engineering-screen.md)
 - Long-term storage
 - Another computer
 - Absolutely nowhere
@@ -272,7 +272,7 @@ This limited information transfer is a huge reason why [operating systems](compu
 
 We can also create some fascinating combinations by stapling the input and output together onto the same object.
 
-- The touch screen, for example, is *both* an input ([digitizer](computers-mouse.md)) and an output ([LCD screen](computers-screen.md)).
+- The touch screen, for example, is *both* an input ([digitizer](computers-mouse.md)) and an output ([LCD screen](engineering-screen.md)).
 - A network router takes raw information, then [routes the information somewhere](networks-computer.md). It's the basis of most networks, but focuses on finding where something is supposed to go, then sending it there.
 
 By sending the output to another computer, we can string them together:
