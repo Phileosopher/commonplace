@@ -13,7 +13,7 @@ There are [a very large range of roles to choose from](jobs-cs-list.md).
 
 You might want to crawl into an unimportant role somewhere to pursue [what you *really* want to do](success-1_why.md). The ideal place for this is with [dysfunctional companies](jobs-suck-cs.md):
 
-- Their company website isn't very [well-designed](design-uxui.md).
+- Their company website isn't very [well-designed](engineering-design.md).
 - The company is vague about what they do or the value they add to anyone.
 - Watch for buzzword-heavy text (use [bullshit.js](https://mourner.github.io/bullshit.js/) to spot it easily).
 - Avoid the trend-chasing Big Tech corporations (like Google) and lean toward established, boring ones (like Oracle or IBM).
@@ -36,7 +36,7 @@ Not all technologies give equal opportunities:
 - Try to avoid dying stars (like Perl and Objective-C) unless you have something very specific in mind, since you'll have to learn new "syntax" later as it becomes more niche-focused over time.
 - Established old giants like Java and C++ won't go anywhere, but they're not as interesting as newer languages. They're best for job security, but they don't receive the [creative](mind-creativity.md) improvements other languages may receive.
 - Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](programming-basics.md).
-- Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](computers-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](design-uxui.md)).
+- Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](computers-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](engineering-design.md)).
 
 The breadth of what you must know varies on the type of work you're performing:
 
@@ -120,7 +120,7 @@ As a new initiate to tech, you're a victim of the frustration paradox (you don't
 
 Breaking into any industry is hard, but the tech industry has a few additional troubles:
 
-- Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](computers-ai-ml.md) skills usually won't cross over to [game development](computers-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
+- Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](engineering-graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](computers-ai-ml.md) skills usually won't cross over to [game development](computers-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
 - Most larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
 - Most managers in most tech companies simply aren't willing to invest the energy and time into a junior developer, so you're *very* low-demand, even if 1-2 years of experience would make them climb over themselves to get you on their team.
 

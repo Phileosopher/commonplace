@@ -149,7 +149,7 @@ The nature of software gives *many* ways to market and expose people to a free p
 
 - Release "bundleware" with added software included during the software's installation (most notably in [Windows-based](computers-os-windows.md) software).
   - The free software will often include unwanted junk like [browser toolbars](computers-webdev.md), [antivirus software](computers-cysec-malware.md), and [adware](computers-cysec-malware.md).
-  - Generally, this requires [dark patterns](design-uxui.md) to provoke unknowing users to download the extra software.
+  - Generally, this requires [dark patterns](engineering-design.md) to provoke unknowing users to download the extra software.
 - Load the product interface with paid advertisements from vendors.
   - This is largely becoming unpopular ever since the [online ad market started shifting](marketing.md).
   - Often, extra tracking data can be included in the product, which can also create [privacy concerns](faang.md).
@@ -208,7 +208,7 @@ Human nature mixed with freely distributed software means it's constantly tweake
    - Sometimes, that variant becomes more reliable or feature-rich than the original, and can sometimes compete with the original version or become the new Definitive [Version](computers-software-versionctrl.md).
 3. There's rarely a final, polished look to open-source.
    - As a general rule, [geeks aren't specialized in the same domain](https://trendless.tech/understanding/), so great back-end design often uses a boring interface.
-   - While [good UX design](design-uxui.md) is important, it doesn't mean it has to have much aesthetic.
+   - While [good UX design](engineering-design.md) is important, it doesn't mean it has to have much aesthetic.
    - Lousy UX can sometimes turn off average users who are accustomed to high-grade [marketing](marketing.md) built into the software, but the open-source subculture (such as [GNU/Linux](computers-os-unix.md) fans) often won't care if the software does their work better.
 4. Some of the most talented software developers in the world build open-source.
    - While [finding a bug](fix-computers.md) is often easy, open-source software allows a qualified developer to localize the code that creates the bug, then create code that [submits a pull request](computers-software-versionctrl.md) to fix it.

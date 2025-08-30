@@ -63,13 +63,13 @@ There are several things to *always* do in a changelog:
 
 ## Data Visualizations
 
-The domain of visualizing data is a geekier implementation of standard [graphics](graphics.md) development, but its most valuable use is in depicting technical concepts. For that reason, it does broadly classify as "technical documentation".
+The domain of visualizing data is a geekier implementation of standard [graphics](engineering-graphics.md) development, but its most valuable use is in depicting technical concepts. For that reason, it does broadly classify as "technical documentation".
 
 The simplest form of data visualization is via [markdown text](markdown.md). It allows for rich text formatting in plaintext documents. However, it never allows for much latitude in visual diagrams.
 
 For many visualizations, Unified Modeling Language (UML) allows for quick text-based sketches of diagrams.
 
-Many technical software honor UML and markdown, which opens up many varieties of [graphical](graphics.md) possibilities for a pleasant [user experience](design-uxui.md).
+Many technical software honor UML and markdown, which opens up many varieties of [graphical](engineering-graphics.md) possibilities for a pleasant [user experience](engineering-design.md).
 
 Also, ASCII is monospaced, so it can be used to make ASCII charts and diagrams, beyond simply ASCII art.
 

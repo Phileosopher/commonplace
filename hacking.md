@@ -145,7 +145,7 @@ Adding purposes to existing things:
 - [Nettle Magic Project](https://github.com/nettlep/magic) - cards that can be tracked instantly with a [barcode](computers-ocr.md)
 - [DNS Toys](https://www.dns.toys/) - silly ways to use the [DNS system](computers-webdev.md)
 
-[Design](design-uxui.md)/[UX](design-uxui.md):
+[Design](engineering-design.md)/[UX](engineering-design.md):
 
 - [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - the emojis, proportionally-sized
 

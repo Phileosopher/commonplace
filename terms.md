@@ -5,7 +5,7 @@ NOTE: These are my terms and conditions to demonstrate several points at once:
 
 1. I want to be [legally safe](legal-safety.md) as a service provider and essayist.
 2. I wish to [educate](education.md) people on how straightforward legality can be when parsed correctly.
-3. [Legally substantial](legal-doctrines.md) information does *not* need arbitrary complexity and *can* be [designed](design-uxui.md) for ease-of-use, though law school takes enough work that [it makes sense to obfuscate it](mgmt-badsystems.md).
+3. [Legally substantial](legal-doctrines.md) information does *not* need arbitrary complexity and *can* be [designed](engineering-design.md) for ease-of-use, though law school takes enough work that [it makes sense to obfuscate it](mgmt-badsystems.md).
 
 This was parsed from selecting elements at [PrivacyPolicies.com](https://app.privacypolicies.com/) with modified language to fit my situation, then simplified. I'm not a lawyer and don't make enough money to hire one, so this represents the scope of my [risk management](safety-riskmgmt.md) for most typical use cases.
 

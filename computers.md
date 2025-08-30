@@ -36,7 +36,7 @@ Computers do *precisely* what you tell them to do:
 - If the programmer's logic was bad, computers become the world's fastest idiots.
 - Algorithms add steps to let the computer "learn" but are still a programmer's instructions.
 - To put it bluntly, most computer failures are caused by "user error".
-- It's fair to say that [the interface may be poorly designed](design-uxui.md), but the user is often selecting the wrong thing for what they wish to perform.
+- It's fair to say that [the interface may be poorly designed](engineering-design.md), but the user is often selecting the wrong thing for what they wish to perform.
 
 ## Don't overload a computer
 

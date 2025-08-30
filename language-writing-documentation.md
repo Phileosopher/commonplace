@@ -5,7 +5,7 @@ All [technology](technology.md), proportional to the details necessary to operat
 
 Technical documents only come from a few possible types of people:
 
-1. The [designer](design-uxui.md) wanted to make life easier for their product's users and maintainers.
+1. The [designer](engineering-design.md) wanted to make life easier for their product's users and maintainers.
 2. The maintainers wanted to make life easier for the users after [fixing](https://adequate.life/fix/) something.
 3. Users were passionate enough about the continued use of the product that they created their own reference for it.
 
@@ -14,7 +14,7 @@ Technical documentation can be extremely difficult from how advanced the writing
 1. How bad things will get if the thing stops working.
 2. The scarcity of alternative approaches that don't use that particular piece of technology.
 
-Whenever the [design of the interface/hardware](design-uxui.md) doesn't communicate the concept explicitly (which is *extremely* common), the user needs the software engineer to communicate exactly what the user can do and precisely how to do it.
+Whenever the [design of the interface/hardware](engineering-design.md) doesn't communicate the concept explicitly (which is *extremely* common), the user needs the software engineer to communicate exactly what the user can do and precisely how to do it.
 
 - For this reason, technical people need to understand [how to write well](language-writing.md) or get assistance from others who are skilled at it.
 
@@ -39,7 +39,7 @@ One subdivision of technical documentation is forms that users or clients fill i
 
 While forms are convenient for gaining information, every single new entry on a form increases the frustration for the user.
 
-- Since the pain is silent (i.e., the form-fillers are suffering it), most [managers](mgmt-npo.md) and [bureaucrats](bureaucracy.md) don't realize the [design](design-uxui.md) risks of adding new requests for information.
+- Since the pain is silent (i.e., the form-fillers are suffering it), most [managers](mgmt-npo.md) and [bureaucrats](bureaucracy.md) don't realize the [design](engineering-design.md) risks of adding new requests for information.
 - Beyond a specific threshold, the form-fillers will start making mistakes, skipping sections, and may stop finishing the form altogether.
 
 To alleviate the risks of badly designed forms, it's important to review and clean up every form at *least* once every 5-10 years.

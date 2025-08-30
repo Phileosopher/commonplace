@@ -794,7 +794,7 @@ GPS - Global Positioning System, a system designed for determining your location
 
 Gradient - a photograph that smoothly transitions between at least 2 colors
 
-Graphics card - dedicated memory and GPU for [graphics](graphics.md)-based needs, often comes baked onto the motherboard but is the most common expansion slot attachment
+Graphics card - dedicated memory and GPU for [graphics](engineering-graphics.md)-based needs, often comes baked onto the motherboard but is the most common expansion slot attachment
 
 Green screen - capturing a video on a green/blue background with the person having clearly demarcated color indicators, allows computers an easier time to capture movement between frames
 

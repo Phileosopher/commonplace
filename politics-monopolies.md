@@ -141,7 +141,7 @@ Vizient runs a gigantic chunk of healthcare management software.
 
 Almost all Canadian movie theaters are run by Cineplex.
 
-Adobe owns a tremendous market for lower-end [creative](mind-creativity.md) and [design](design-uxui.md) software.
+Adobe owns a tremendous market for lower-end [creative](mind-creativity.md) and [design](engineering-design.md) software.
 
 Most military intelligence is managed by Booz Allen Hamilton Holding Corporation.
 

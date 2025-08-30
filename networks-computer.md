@@ -287,7 +287,7 @@ Often, the issues on the Presentation layer are tied to bad [operating system](c
 
 ## Layer 7: aplication
 
-The Application layer is a bit of a weird catchall. It merges closely with [front-end development](computers-software-design.md), since it deals heavily with [how the user perceives the information](design-uxui.md).
+The Application layer is a bit of a weird catchall. It merges closely with [front-end development](computers-software-design.md), since it deals heavily with [how the user perceives the information](engineering-design.md).
 
 There are *many* Layer 7 protocols:
 

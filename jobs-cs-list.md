@@ -15,7 +15,7 @@ Completely [marketing](marketing.md)/design-based (for non-tech people who still
 - **Digital Marketing Manager** and **Content Strategist** are a hybrid of all the above.
 - **QA (Quality Assurance) Specialist** [tests](computers-software-redesign.md) to make sure things are high-quality.
 
-Fiddling with the [UX](design-uxui.md) (for people who understand [how people think](decisions.md)):
+Fiddling with the [UX](engineering-design.md) (for people who understand [how people think](decisions.md)):
 
 - **Information Architect** manages the UX behavior flow from a [psychology](mind-feelings.md) angle.
 - **UX Designer** manages the UX behavior flow from a [design](mind-creativity.md) angle (wireframing, prototyping, mockups, and tracking user flow).
@@ -24,10 +24,10 @@ Fiddling with the [UX](design-uxui.md) (for people who understand [how people th
   - **Web Analytics Developer** tests and optimizes web interfaces.
   - **Accessibility Specialist** focuses on usability for everyone, especially disabled people.
 
-[Front-end development](graphics.md) (for those with great [visual memory](mind-memory.md)):
+[Front-end development](engineering-graphics.md) (for those with great [visual memory](mind-memory.md)):
 
 - **Front-End Designer** manages the interface from a [design](mind-creativity.md) angle.
-  - **CG (Computer Graphics) Animator** works with [advanced graphics processing](graphics.md).
+  - **CG (Computer Graphics) Animator** works with [advanced graphics processing](engineering-graphics.md).
 - **Front-End Developer** manages the interface from a [development](computers-software-design.md) angle.
 
 [Back-end development](computers-software-design.md) (for people focused heavily on [concrete facts and data](science.md)):

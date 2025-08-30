@@ -58,7 +58,7 @@ The easiest way to make a central hub is to use a profile page service, but it's
 
 If you want to set up a portfolio site for yourself, make sure it has the following:
 
-- Responsive [web design](computers-webdev.md), accessibility-friendly (i.e., [easy to use](design-uxui.md)), and your preferred domain.
+- Responsive [web design](computers-webdev.md), accessibility-friendly (i.e., [easy to use](engineering-design.md)), and your preferred domain.
 - An "about me" section that gives your personal story or a few personal stories that capture who you are.
 - Some way to contact you (at least email or a web form).
 - Projects (linked or embedded) that show significant work you've done.
@@ -93,10 +93,10 @@ Depending on the role, you'll need some general skills, but pay close attention 
 2. Count how many times each job requirement/skill comes up, then find the top 3-5 you don't have.
 3. Take courses and build things to understand those skills and, at the same time, apply to those jobs.
 
-[UI/UX](design-uxui.md)
+[UI/UX](engineering-design.md)
 
 - Visually focused software like Adobe XD, Figma, Photoshop, and Sketch.
-- On the development side, a *lot* of CSS and other [graphics programming](graphics.md).
+- On the development side, a *lot* of CSS and other [graphics programming](engineering-graphics.md).
   - Motion designers use 3D graphics software like Adobe After Effects, 3D Blender, Cinema4D, and Maya.
 - For graphic designers, more robust visual tools like Adobe Illustrator, Procreate, Affinity, and Canva.
 

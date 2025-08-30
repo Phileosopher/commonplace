@@ -56,7 +56,7 @@ To manage more than a moment-by-moment calculation, computers use "pushdown auto
 
 The 2-based numbering system places a unique limit on computer [memory](computers-memory.md). Instead of limits set at 10, 100, 1,000, and so on, they limit at 2, 4, 8, 16, 32, 64, 128, 256, 512, etc. The consequences of this are that some constraints are unintuitive without looking at memory registers.
 
-[Advertised](marketing.md) technology will use base-2 numbers in their branding (e.g., 32-bit graphics, 128-bit encryption, Nintendo 64), but most [computer interfaces](design-uxui.md) abstract away the constraints by the time the software is [finished](computers-software-versionctrl.md).
+[Advertised](marketing.md) technology will use base-2 numbers in their branding (e.g., 32-bit graphics, 128-bit encryption, Nintendo 64), but most [computer interfaces](engineering-design.md) abstract away the constraints by the time the software is [finished](computers-software-versionctrl.md).
 
 ## Modulus
 
@@ -84,7 +84,7 @@ Without being aware of this, programmers can often create [logic errors](compute
 
 By combining [arithmetic](math.md) together, we can create variable-based math, which moves into the world of [algebra](math-algebra-cs.md).
 
-The beauty of algebra is that it can be used to represent all sorts of lines in Euclidean space, which allows us to apply algebra to geometry and, thus, create [three-dimensional graphics](graphics.md).
+The beauty of algebra is that it can be used to represent all sorts of lines in Euclidean space, which allows us to apply algebra to geometry and, thus, create [three-dimensional graphics](engineering-graphics.md).
 
 ## Calculus
 

@@ -19,7 +19,7 @@ Organization helps with [productivity](success-4_routine.md):
 Logically divide everything based on the kinds of [purposes](purpose.md) for how you use things.
 
 - It doesn't have to be precise, since we *often* use things for more than one purpose (e.g., screwdrivers are also effective prybars)
-- The Zones are broken out by the *primary* [purpose](purpose.md) or perceived future purpose for those items, often based on how it was [designed](design-uxui.md).
+- The Zones are broken out by the *primary* [purpose](purpose.md) or perceived future purpose for those items, often based on how it was [designed](engineering-design.md).
 - We naturally will have a Work Zone, a Daily Zone, an Important Things Zone, a Storage/Later Zone, and so on.
 
 The Zones split and commingle when we fail to maintain everything in their appropriate regions:

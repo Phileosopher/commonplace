@@ -264,7 +264,7 @@ Computers frequently output things without considering where that input will go.
 
 Physically, components typically connect with "ports" to other peripherals (e.g., [mouse](computers-mouse.md), [keyboard](computers-keyboard.md), extra storage). They're highly modular, and abide by [standardized](standards-computers.md) "form factors":
 
-- The [design communicates](design-uxui.md) what's supposed to connect and where, as well as any constraints on what *can't* or *shouldn't* connect.
+- The [design communicates](engineering-design.md) what's supposed to connect and where, as well as any constraints on what *can't* or *shouldn't* connect.
 - However, bad design can sometimes mean multiple types of devices can create conflicts by using the exact same form factor (e.g., most USB cables). This defies the IETF principle to be precise in what you send, and flexible in what you receive.
 - Further, it doesn't mean it's not possible to use alternative cabling. By separating out the wires and carefully attaching them to a different form factor plug, anything can technically plug into anything else, and may only need some [programming](programming-basics.md) (or software) to fix any information transfer problems.
 

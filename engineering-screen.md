@@ -7,7 +7,7 @@ Unlike the printer, screens use visible light instead of reflected light. So, in
 
 ## Implementations
 
-Most computer screens use the abstraction of [pixel-based rendering](graphics.md), which allows them to operate side-by-side on the same computer without any issues in portraying the information.
+Most computer screens use the abstraction of [pixel-based rendering](engineering-graphics.md), which allows them to operate side-by-side on the same computer without any issues in portraying the information.
 
 Most pixel-based screens are relatively straightforward:
 

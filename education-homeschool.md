@@ -25,7 +25,7 @@ Homeschooling children is *not* necessarily better or worse.
 
 If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-2_children.md), and sufficiently committed to raising them [with someone else](relationships-3_marriage.md), educating your child isn't difficult.
 
-- Public school education systems often use [dark patterns](design-uxui.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
+- Public school education systems often use [dark patterns](engineering-design.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
 
 Government-provided education is a substantial *quantity* of time, so aim for *quality* if you're homeschooling.
 

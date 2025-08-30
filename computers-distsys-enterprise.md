@@ -66,7 +66,7 @@ However, the extra value and availability of that data means it *must* have at l
 
 ## Computes
 
-Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](computers-software-gamedev.md) or [graphics](graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-6_scaling-cs.md).
+Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](computers-software-gamedev.md) or [graphics](engineering-graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-6_scaling-cs.md).
 
 Since enterprise computers are often multitasking, they need more "timesharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
 
@@ -76,7 +76,7 @@ For diagnostic reasons, the motherboard often integrates a "baseboard management
 
 ## Graphics
 
-While software now makes the visual components of [graphics development](graphics.md) very easy, large-scale rendering often takes tremendous amounts of work to get correct.
+While software now makes the visual components of [graphics development](engineering-graphics.md) very easy, large-scale rendering often takes tremendous amounts of work to get correct.
 
 For pre-rendered work (such as Pixar movies), the graphics rendering is run through nonstop compute hardware and memory for each scene. Then, each "frame" was "composited" into the final product. Because of all that processing, the heat generation is typically immense, and cooling becomes a major logistical factor.
 
@@ -87,7 +87,7 @@ While [networking concepts](networks-computer.md) apply the same in both consume
 - IP addresses on a network can get complicated, so networks often need "IP address management" (IPAM) software to track them.
 - Most of the updates and management of the computers will be "out-of-band" to make life easier for the people running the updates. This will require an "intelligent platform management interface" (IPMI) that tracks everything across a [distributed system](computers-distsys.md).
 - Maintaining a "backbone" network that's relatively high-speed (with nothing but expensive routers in it), with the lower-speed computer connections linking to the backbone network.
-- [Cybersecurity](computers-cysec-compliance.md) becomes an extremely complicated [design](design-uxui.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_why.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
+- [Cybersecurity](computers-cysec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_why.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
 
 The room with the servers is often known as the "main distribution frame", while the telecommunications room (with the network switches) may often be in *another* room called the "intermediate distribution frame".
 
@@ -106,7 +106,7 @@ To load-balance, the easiest solution can be to route the end user to the neares
 [Cloud implementations](computers-distsys-cloud.md) are often popular now for minimizing latency from long-distance internet connections and making CDNs, and there are several tradeoffs when using them:
 
 - [Security and compliance](computers-cysec-compliance.md) issues, which can include trust issues with [FAANG](faang.md).
-- Optimizing for [UX](design-uxui.md), including making the experience as fast as possible for the user.
+- Optimizing for [UX](engineering-design.md), including making the experience as fast as possible for the user.
 - Costs, where sometimes a mainframe is more expensive when it's sitting idle than simply renting out hosting from somewhere else.
 
 ## Testing

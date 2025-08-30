@@ -197,7 +197,7 @@ Zeigarnik Effect - People remember uncompleted or interrupted tasks better than 
 
 Akin's First Law of Spacecraft Design - [Engineering](engineering.md) uses [numbers](math.md), and [analysis](logic.md) without numbers is merely an opinion.
 
-Akin's Second Law of Spacecraft Design - [Designing](design-uxui.md) something correctly takes an infinite amount of effort, so it's a good idea to design things to operate when something is wrong.
+Akin's Second Law of Spacecraft Design - [Designing](engineering-design.md) something correctly takes an infinite amount of effort, so it's a good idea to design things to operate when something is wrong.
 
 Akin's Third Law of Spacecraft Design - Good design is never complete, and always requires one more iteration.
 

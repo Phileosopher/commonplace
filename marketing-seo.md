@@ -21,7 +21,7 @@ Like any other [marketing](marketing.md), tailor your marketing messages to the 
 
 ## Improving hit count
 
-The art of search engine optimization (SEO) is through improving your web presence via keyword management and [design](design-uxui.md).
+The art of search engine optimization (SEO) is through improving your web presence via keyword management and [design](engineering-design.md).
 
 - This effort goes all the way from the search engine results page (SERP) all the way to [the design of the website itself](computers-webdev.md), from landing page all the way to after the customer has made a purchase.
 - After learning it, most SEO work is as tedious as [accounting](accounting.md).
@@ -61,7 +61,7 @@ When creating the site:
 - The web domain (something.com) should associate to what you sell.
 - Keep the homepage clutter-free with a separate blog page.
 - Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-webdev.md) headaches with form fills and caching.
-- The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](design-uxui.md) the user.
+- The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](engineering-design.md) the user.
 - While it may be tempting to expand your leads with a mailing list, only ask about the mailing list *after* the product was sold.
 
 To make search engines favor your site and users enjoy the experience, optimize it for speed:
@@ -76,7 +76,7 @@ To make search engines favor your site and users enjoy the experience, optimize 
 
 To maintain a consistent design, maintain fewer website pages.
 
-- A few [well-designed](design-uxui.md) pages are *much* easier to update and rebuild than a few hundred.
+- A few [well-designed](engineering-design.md) pages are *much* easier to update and rebuild than a few hundred.
 
 Use guerrilla marketing to get site views:
 

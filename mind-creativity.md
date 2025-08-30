@@ -118,7 +118,7 @@ Instead of making something that evokes a specific [feeling](mind-feelings.md), 
 - Using simple words instead of florid ones.
 - Using a simple frame instead of an extravagant one.
 - Only using camera angles that communicate [meaning](meaning.md).
-- Including only [features](design-uxui.md) that give the user a better experience.
+- Including only [features](engineering-design.md) that give the user a better experience.
 - Adding decorations that contribute more to the story.
 
 By removing unnecessary elements, we magnify the the [story](stories.md) we're trying to build by punctuating what's left after we've removed the extra noise.

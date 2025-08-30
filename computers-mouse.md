@@ -11,7 +11,7 @@ The original "mouse" was a trackball, with the user operating a ball connected t
 
 A trackball's most frequent drawback is bumping the ball when moving your hand to make a selection. There were many workarounds for the problem, but someone [hacked](hacking.md) a solution in the 1960s by inverting the X and Y rollers to roll on a surface instead. It was called a "mouse" because the cabling from the bottom of the early machines looked a *lot* like one.
 
-Once the [graphical user interface](design-uxui.md) started adapting to the mouse, it became the standard, and [operating systems](computers-os.md) started making the mouse a default peripheral with the presumption of a cursor. By the time [Microsoft Windows](computers-os-windows.md) came around, operating systems *expected* the computer to have a mouse.
+Once the [graphical user interface](engineering-design.md) started adapting to the mouse, it became the standard, and [operating systems](computers-os.md) started making the mouse a default peripheral with the presumption of a cursor. By the time [Microsoft Windows](computers-os-windows.md) came around, operating systems *expected* the computer to have a mouse.
 
 The cursor always sits at an angle because [it has copied from the old conventions of the first cursors](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight). At the time, the screens were so low-resolution that it was easier to identify an arrow at a vertical angle and 45-degree diagonal line than two diagonal lines.
 
@@ -75,7 +75,7 @@ Because of the difference in hand use, both touchpads and screens allow for "ges
 - 3-finger tap/scroll - allows opening specific programs
 - Edge swipe - swipe from the edge to open a contextual "dock" menu
 
-However, when a touchpad is designed for accessibility (e.g., [mouth-based](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)), the extra features become [bad UX](design-uxui.md).
+However, when a touchpad is designed for accessibility (e.g., [mouth-based](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)), the extra features become [bad UX](engineering-design.md).
 
 Naturally, like [everything else about games](computers-software-gamedev.md), people playing computer games have all sorts of sophisticated needs, so the best computer mice are typically gaming-grade. Many of them have additional customizable buttons, fantastic ergonomics, and often with gimmicks like lights or additional error-checking.
 

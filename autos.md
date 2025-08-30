@@ -398,7 +398,7 @@ Buy the specialized tools you need, since a $200 tool is less than a $500 mechan
 
 The newer design features in autos have created issues for many drivers:
 
-- [UX](design-uxui.md) that favors adaptive panels over buttons can create risks when the driver is trying to change a configuration while driving.
+- [UX](engineering-design.md) that favors adaptive panels over buttons can create risks when the driver is trying to change a configuration while driving.
 - [Auto-assist AI](computers-autos.md) which doesn't work correctly can create risks for drivers.
 - Automation designed to make life easier can, sometimes, make life more difficult (e.g., automatically re-locking doors after a few seconds).
 

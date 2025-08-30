@@ -206,7 +206,7 @@ For that reason, carriers can [insure against it](insurance.md) or resell the pr
 
 ## Supply Chain
 
-When there are multiple conveyors, the entire string of logistical arrangements is called a supply chain, and it's a relatively newer concept compared strictly to logistics (similar to [UX versus interface/control mechanisms](design-uxui.md), or [customer relationship management versus sales](marketing.md)).
+When there are multiple conveyors, the entire string of logistical arrangements is called a supply chain, and it's a relatively newer concept compared strictly to logistics (similar to [UX versus interface/control mechanisms](engineering-design.md), or [customer relationship management versus sales](marketing.md)).
 
 Good supply chain management is a key [management](mgmt-2_projects.md) concept, especially regarding projects. In the world of computers, this abstracts to managing [network flow](networks-computer.md) of information within [distributed systems](computers-distsys.md).
 

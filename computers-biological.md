@@ -36,7 +36,7 @@ However, beyond working with DNA, we *are* developing the means to interact with
 
 There are hard limits to how far computers can develop, and they simply can't get any smaller than a certain as-of-yet-unknown size. That limit will determine how far some of the technologies can be implemented.
 
-The [interfacing](design-uxui.md) we make with computers has always been an impediment. Most interface design is built around "good enough", but nature itself has interfacing designed to be as seamless as reasonably possible. As a few examples, there's no perceptible delay for your hand movement, and you don't have to wonder if your feet haven't been calibrated before going for a walk.
+The [interfacing](engineering-design.md) we make with computers has always been an impediment. Most interface design is built around "good enough", but nature itself has interfacing designed to be as seamless as reasonably possible. As a few examples, there's no perceptible delay for your hand movement, and you don't have to wonder if your feet haven't been calibrated before going for a walk.
 
 Further, as much as people like to imagine we can create life, we still barely understand what a living being *is*. The genetic code only speaks to one portion of the experience, and plain intuition dictates there's another domain that sits beyond what we presently know.
 
