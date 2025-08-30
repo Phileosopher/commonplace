@@ -1,6 +1,7 @@
 
 # PHP
 
+```php
 /* FAVICON HEADER CODE */
 add_action('wp_head', 'favicon');
 function favicon(){
@@ -10,7 +11,6 @@ function favicon(){
 <?php
 };
 
-```
 /* WORDPRESS CHILD THEME */
 1st: functions.php with...
 <?php
