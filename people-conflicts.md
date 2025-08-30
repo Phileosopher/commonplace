@@ -1,6 +1,55 @@
 
 # How conflicts work
 
+Conflict is an inevitable part of being human:
+
+- We all have *constant* [inner conflict](conflicts-inner.md) about various [beliefs](understanding-certainty.md), [feelings](mind-feelings.md), and [thoughts](understanding.md).
+- However, people *usually* see conflict as a difference of [views, interests, or goals](purpose.md) between two people.
+
+## Why we engage in conflicts
+
+We *always* start conflicts from a [perceived](image.md) need:
+
+- Their need may or may not be real or accurate, and may simply be a "want".
+- That need may also be based on a complex set of circumstances.
+- You often have a *massive* advantage if you're [aware](awareness.md) of what you and others want and need.
+- When you stand to gain for yourself or for another person, the skills are exactly the same.
+
+This perceived need someone has to confront a situation has several degrees of intensity:
+
+1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
+2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](image.md) about their opinion. Every healthy person has a handful of these.
+3. Die For: We have chosen to closely [identify](identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
+
+Conflicts aren't always fighting with others, but can be:
+
+- Fights and arguments arise when people see that it's the best way to accomplish their [purposes](purpose.md).
+- Sometimes, it's simply a disagreement or [misunderstanding](understanding.md).
+- While [respect for others](people-3_respect.md) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
+
+We engage directly in conflict when the trouble of making the conflict becomes less than avoiding it.
+
+Our perception doesn't have to be [real](reality.md), either, and there are several ways there can be breakdown when communicating with others:
+
+1. [Cognitive bias](mind-bias.md) that diverts people away from the truth.
+2. [Influence](influence.md) from peers and leaders that [distorts](image-distortion.md) what appears to be true.
+3. [Personality differences](personality.md) that change how people are inclined to think.
+4. Old mental [habits](habits.md) that haven't completely gone away, even though they were already considered no longer applicable.
+
+Usually, healthy people start conflicts after witnessing at least three instances of the issue.
+
+- The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](results.md) we want.
+
+Our [decision](decisions.md) to make a conflict is significant because every conflict risks sabotaging [relationships](people-friends.md) with other people, which we will usually value when we have any [love](people-love.md) for them.
+
+## Complicating factors
+
+Gratitude and revenge tend to complicate conflicts:
+
+- We are grateful or vengeful when someone has done something good or bad to us in the past.
+- For this reason, we impose past experiences that may not apply to present situations.
+- The only way to stay level-headed in a conflict is to ignore both for yourself while understanding how others interpret it.
+
 Since most people are [higher agreeableness](personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-5_conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](culture.md) and [norms](people-3_boundaries.md).
 
 But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
@@ -11,26 +60,19 @@ Usually, we avoid the conflicts around us from several base reasons:
 - We're honoring a [principle](values.md) we [believe](understanding-certainty.md) in
 - We legitimately [love](people-love.md) other people who may be affected in the situation.
 
-We *always* start conflicts from a [perceived](image.md) need, specifically when the trouble of making the conflict becomes less than avoiding it. This [decision](decisions.md) is significant because every conflict risks sabotaging the [relationship](people-friends.md) with the other person, which we will usually value if there is any [love](people-love.md) for them.
+## Healthy conflicts
 
-This perception doesn't have to be [real](reality.md), either, and there are several ways there can be breakdown when communicating with others:
+Healthy conflicts require both sides willing to change and compromise:
 
-1. [Cognitive bias](mind-bias.md) that diverts people away from the truth.
-2. [Influence](influence.md) from peers and leaders that [distorts](image-distortion.md) what appears to be true.
-3. [Personality differences](personality.md) that change how people are inclined to think.
-4. Old mental [habits](habits.md) that haven't completely gone away, even though they were already considered no longer applicable.
-
-This perceived need someone has to confront a situation has several degrees of intensity:
-
-1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
-2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](image.md) about their opinion. Every healthy person has a handful of these.
-3. Die For: We have chosen to closely [identify](identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
-
-Usually, healthy people start conflicts after witnessing three instances of the issue. The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](results.md) we want.
+- You must believe in others and want something *beyond* the conflict.
+  - Many conflicts have solutions where everyone can win, so it's not healthy to focus on "winning" or "losing" them.
+- Consider all your failings when approaching them, since they're likely noting them more than you are.
+- *Always* assume that person believes they're being perfectly [reasonable](purpose.md) and [logical](logic.md), irrespective of reality.
+- However, also assume you don't know most of what that person knows.
 
 Conflicts only become unhealthy when we don't properly [calculate](decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
 
-## Arguments
+## Reactions to issues
 
 No matter how, our [disposition](personality.md) makes its own mix-and-match reaction to the conflict:
 
@@ -39,9 +81,12 @@ No matter how, our [disposition](personality.md) makes its own mix-and-match rea
 - Sympathy - focusing on [feelings](mind-feelings.md) more than [reasoning](logic.md).
 - Questioning - focusing on [reasoning](logic.md) more than [feelings](mind-feelings.md).
 
-When we react, we're usually running strictly off [feelings](mind-feelings.md).
+Conflicts become severe when we run strictly off [feelings](mind-feelings.md):
 
-Generally, reacting leads to seeking blame, which is specifying who [caused](results.md) the problem. It's a [power tactic](image-distortion.md) in [groups](groups-member.md), but doesn't create any meaningful [results](results.md) because the action to break something is typically different from the action to [fix](fix.md) it.
+1. Feelings lead to reactions.
+2. Reacting leads to seeking blame.
+3. Blame is specifying who [caused](results.md) the problem.
+4. While blame is a [power tactic](image-distortion.md) in [groups](groups-member.md), it doesn't create any meaningful [results](results.md) because the action to break something is typically different from the action to [fix](fix.md) it.
 
 There are several reasons an argument will arise:
 
@@ -49,7 +94,7 @@ There are several reasons an argument will arise:
 2. One person has run out of patience with the other, for any reason whatsoever.
 3. Someone is maliciously trying to [distort how things appear to others](image-distortion.md).
 
-## Disagreement scope
+## The scope of a disagreement
 
 Not everyone disagrees on the same [values](values.md), even when they're in a [team](groups-small.md). There's a "depth" of disagreement based on how well someone [understands](understanding.md) the conflict:
 
