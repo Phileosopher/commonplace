@@ -14,7 +14,7 @@ Because of valence electrons, certain patterns arise as atoms increase in atomic
   - They can withstand heat, and exist naturally within the Earth's crust.
 - Transition and inner transition metals group (Atomic numbers 21-30, 39-48, 57-80, 89-112) - Groups 3-12
   - They're called "transition" elements because they appear to transition from metallic (electrically positive) to non-metallic (electrically negative) as you move rightward.
-  - Inner transition metals are broadly classified as Group 3 (3rd column) based on how they behave, so they all fit inside that group. They're also called "rare earth metals", and are extremely useful in making [batteries](engineering.md).
+  - Inner transition metals are broadly classified as Group 3 (3rd column) based on how they behave, so they all fit inside that group. They're also called "rare earth metals", and are extremely useful in making [batteries](engineering-electrical.md).
   - It's also worth noting that Group 3 (atomic numbers 57-71 and 89-103) are separated visually at the bottom, simply to save space and make it more aesthetically pleasing when printing it out on a standard sheet of paper.
 - Boron/icosagen group (boron, aluminum, gallium, indium, thallium, nihonium) - Group 13
 - Carbon group (carbon, silicon, germanium, tin, lead, flerovium) - Group 14

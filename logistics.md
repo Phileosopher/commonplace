@@ -124,7 +124,7 @@ In theory, there would be no downtime in a self-replenishing system (e.g., solar
 
 The ecological impact of replenishing systems, at scale, is the basis of most [climate activism](leftism-sustainability.md).
 
-- Ecologically friendly technologies are typically trading off power, cost, or may cause other secondary ecological effects (e.g., [batteries](engineering.md) require rare-earth metals).
+- Ecologically friendly technologies are typically trading off power, cost, or may cause other secondary ecological effects (e.g., [batteries](engineering-electrical.md) require rare-earth metals).
 
 Stopping to avoid adverse weather or replenish is *not* free.
 
