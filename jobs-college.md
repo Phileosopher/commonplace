@@ -145,7 +145,7 @@ Try to save as much money as possible:
 
 - Before going to university, take community college courses and online-accredited courses for every possible course required for your degree.
 - Consider self-study colleges where self-study can help you to rapidly get the credential (such as [WGU](https://www.wgu.edu/) or [University of the People](https://www.uopeople.edu/)).
-- You can often [negotiate](people-5_conflicts.md) a lower price or more features for your schooling experience if you simply ask.
+- You can often [negotiate](people-conflicts-negotiation.md) a lower price or more features for your schooling experience if you simply ask.
 - Consider in-state tuition, which is usually cheaper than out-of-state.
 - Ask about campus work study programs.
 

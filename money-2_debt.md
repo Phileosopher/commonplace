@@ -205,7 +205,7 @@ Your rights include demanding they stop calling or harassing you at work or any 
 
 Your rights also include demanding they stop all contact with you, except to notify that they're suing you:
 
-- Stopping contact halts any chance of a favorable [negotiation](people-5_conflicts.md).
+- Stopping contact halts any chance of a favorable [negotiation](people-conflicts-negotiation.md).
 - If a creditor can't negotiate, they're more likely to sue.
 - If they sue, they'll likely win because you legitimately owe them money.
 

@@ -18,10 +18,10 @@ When a loss is significant enough, we *always* cycle through five stages of grie
    - The anger itself is a misplaced need for justice on our terms.
    - It's from trouble accepting reality, even while the initial shock has passed.
    - This anger will usually express as frustration toward objects, strangers, friends, or family.
-3. Bargaining - attempting to [negotiate](conflicts-inner.md) to regain the thing.
+3. Bargaining - attempting to [negotiate](people-conflicts-negotiation.md) to regain the thing.
    - We're trying to regain control while feeling helpless and vulnerable, and this often includes a deal with [God](god.md) or some other higher power.
    - We usually start by bargaining with what we can do now.
-   - Depending on our [negotiating skills](people-conflicts.md) and stubbornness, we may move on to negotiating impossible promises or regrets, and we may ponder hypothetical possibilities if we're particularly [imaginative](imagination.md).
+   - Depending on our [negotiating skills](people-conflicts-negotiation.md) and stubbornness, we may move on to negotiating impossible promises or regrets, and we may ponder hypothetical possibilities if we're particularly [imaginative](imagination.md).
 4. Depression - [imagining](imagination.md) and dwelling on the void of the thing in our lives.
    - There are two forms our depression will take:
      1. Withdrawn: making quiet preparations to say goodbye and separate from the person or experience.

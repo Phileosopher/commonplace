@@ -10,7 +10,7 @@ Unless you're desperate, *never* take a job offer as soon as they give it:
 - It's far better to keep [hunting](jobs-5_interview.md) than settle against your principles.
   - If you've spent months looking for a job without getting what you want, you may need to rethink your principles!
 - Accepting a job offer immediately makes you look desperate.
-- Research industry-standard salary and benefits information for at least a day before [negotiating](people-5_conflicts.md) with a potential employer.
+- Research industry-standard salary and benefits information for at least a day before [negotiating](people-conflicts-negotiation.md) with a potential employer.
   - Research salary surveys and salary guides, and consider the geographic area.
   - Depending on how much responsibility you want, lower pay might be worth the [unrelated work activities](fun.md) or career-advancing skills you can pick up.
 

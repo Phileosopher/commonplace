@@ -13,7 +13,7 @@ Make sure you live in a remote enough region that you can survive off the land i
 
 You'll need a gun or other deadly long-distance weapon (such as a crossbow):
 
-- Even if you're a pacifist and don't have ammo, you need it to make even-powered [negotiations](people-5_conflicts.md) and defend your things.
+- Even if you're a pacifist and don't have ammo, you need it to make even-powered [negotiations](people-conflicts-negotiation.md) and defend your things.
 
 Contrary to many fictional stories, you'll only survive with friends:
 

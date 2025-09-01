@@ -211,7 +211,7 @@ G. If you like what you see, bring it to a mechanic you trust to do a final chec
 
 - A $100 inspection may save you thousands.
 
-H. [Negotiate](people-5_conflicts.md) the price down if you can.
+H. [Negotiate](people-conflicts-negotiation.md) the price down if you can.
 
 - If possible, avoid gender bias with a male present.
 - Do *not* let the seller exploit you.

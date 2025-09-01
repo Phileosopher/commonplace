@@ -73,7 +73,7 @@ If you *do* like your job, consider negotiating more pay before looking for a ne
 
 - Prepare a compelling case for them with the last 6 months of results.
 - Schedule a low-stress time for the meeting, ideally after lunch on a Friday.
-- [Negotiate](people-5_conflicts.md) carefully, since it could backfire, and you may quickly need another job if your boss is offended.
+- [Negotiate](people-conflicts-negotiation.md) carefully, since it could backfire, and you may quickly need another job if your boss is offended.
 
 ### Employers usually look beyond your business results
 
