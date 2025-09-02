@@ -87,7 +87,7 @@ However, the prefixes are always the same, and are very useful to get a sense of
 - Mega- (a music file is usually a few of these)
 - Giga- (a game often takes this much, and used to be the memory size of computers c. 2002)
 - Tera- (the typical size of c. 2020 computers' memory)
-- Peta- (more than any consumer would ever need, often the amount needed for [machine learning](computers-ai-ml.md) or [running a large website](computers-webdev.md))
+- Peta- (more than any consumer would ever need, often the amount needed for [machine learning](computers-ai-ml.md) or [running a large website](computers-sofware-webdev.md))
 - Exa- (only giant corporations use this much c. early-2020s)
 - Zetta- (massive)
 - Yotta- (very, very massive and nobody talks about it)

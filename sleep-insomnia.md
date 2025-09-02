@@ -39,7 +39,7 @@ Even when you can get to sleep, some things will interrupt deep sleep:
 - Sitting slightly upright
 - Noise and bright light
 - Caffeine (like [coffee](fun-coffee.md) and [tea](fun-tea.md)) reduces deep sleep
-- Proximity to non-visible light (such as [wireless networks](radio.md)) disrupts sleep patterns
+- Proximity to non-visible light (such as [wireless networks](engineering-radio.md)) disrupts sleep patterns
 
 Avoid self-care that works against good sleep:
 

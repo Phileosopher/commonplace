@@ -7,7 +7,7 @@ The world of computer work is *very* broad, even without including hardware-base
 
 All the rules of [setting goals for job-hunting](jobs-1_why.md) apply: know what you want, have a plan, make long-term goals.
 
-However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](trends.md). Aiming for front-end [web development](computers-webdev.md) is a mostly different set of technologies and skills than developing [games](computers-software-gamedev.md) or building [hardware](computers-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
+However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](trends.md). Aiming for front-end [web development](computers-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](computers-software-gamedev.md) or building [hardware](computers-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
 
 There are [a very large range of roles to choose from](jobs-cs-list.md).
 
@@ -35,7 +35,7 @@ Not all technologies give equal opportunities:
 - Using *ancient* languages (like Lisp or COBOL) is highly valuable for specific roles and "[soft understanding](https://trendless.tech/primitives/)", but there aren't many jobs for them.
 - Try to avoid dying stars (like Perl and Objective-C) unless you have something very specific in mind, since you'll have to learn new "syntax" later as it becomes more niche-focused over time.
 - Established old giants like Java and C++ won't go anywhere, but they're not as interesting as newer languages. They're best for job security, but they don't receive the [creative](mind-creativity.md) improvements other languages may receive.
-- Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](programming-basics.md).
+- Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](computers-programming-basics.md).
 - Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](computers-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](engineering-design.md)).
 
 The breadth of what you must know varies on the type of work you're performing:
@@ -48,13 +48,13 @@ The breadth of what you must know varies on the type of work you're performing:
 There's also a trust factor worth considering in hunting for a role.
 
 - Generally, you'll want to get an entry-level job in just about any role connected to what you want, then work from there.
-- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](programming-basics.md).
+- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming-basics.md).
 
 ## Start Learning
 
 There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If you're self-starting [personality](personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
 
-Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](programming-basics.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
+Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming-basics.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
 
 ### 1. Coder
 
@@ -174,7 +174,7 @@ Remote work has some non-negotiable benefits:
 And, naturally, remote work has downsides:
 
 - It's harder to maintain a balance between work and personal time.
-- A spotty [internet connection](computers-webdev.md) can *destroy* productivity.
+- A spotty [internet connection](computers-sofware-webdev.md) can *destroy* productivity.
 - It's *much* easier to procrastinate and not get projects done on time.
 - When you have high-maintenance family and friends (e.g., [babies](parenting-1_babies.md) or [children](parenting-2_children.md)), it's harder to stay focused.
 - You'll have a harder time [making connections](people-4_friends.md) with your coworkers, which may deteriorate your [quality of life](mind-feelings-happiness-focus.md) if you're not proactively finding connections elsewhere.

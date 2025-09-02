@@ -87,7 +87,7 @@ Busywork
 Creating
 
 - [Art](values-quality.md)
-- [Software design](programming-basics.md)
+- [Software design](computers-programming-basics.md)
 - [Engineering](engineering.md)
 - Performance arts/music
 - Knit/crochet/quilt

@@ -3,7 +3,7 @@
 
 As a natural product of [economics](economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
 
-- A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](computers-webdev.md) or hosting app data).
+- A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](computers-sofware-webdev.md) or hosting app data).
 - Consumer computers are typically designed with the understanding that people won't use it at full capacity very frequently, though that's frequently an exception for [playing games](computers-software-gamedev.md). This means that things like heat management and more error-correcting code are *much* more important in businesses than for consumers.
 - When consumer computers "crash", they'll be inconvenienced and might lose data (assuming it's not [cloud-synced](computers-distsys-cloud.md)). When business computers crash, a company will usually lose money.
 
@@ -23,7 +23,7 @@ But, not everyone had to run a computer to run 24/7, so it made much more sense 
 
 Since the computers were vast and had been parallel processing, it made sense to have multiple calculations from different sources happening at once. This was called "time-sharing".
 
-Now, ever since the internet became popular in the mid-1990's, most modern large-scale computer needs are designed for the heavy data management back-end operations and front-end management of public-facing [internet websites](computers-webdev.md).
+Now, ever since the internet became popular in the mid-1990's, most modern large-scale computer needs are designed for the heavy data management back-end operations and front-end management of public-facing [internet websites](computers-sofware-webdev.md).
 
 ## Large Computer Cases
 
@@ -111,7 +111,7 @@ To load-balance, the easiest solution can be to route the end user to the neares
 
 ## Testing
 
-[Debugging and testing](computers-software-redesign.md) is just as applicable as with smaller software projects, but the stakes are dramatically higher if anything fails. One missed exit from a [function](programming-basics.md) can cause thousands of people to have their app crash simultaneously in a live environment, and a misplaced comma may mean deleting many clients' data. On the far end, this can lead to some *very* unpleasant [lawsuits](people-contracts.md).
+[Debugging and testing](computers-software-redesign.md) is just as applicable as with smaller software projects, but the stakes are dramatically higher if anything fails. One missed exit from a [function](computers-programming-basics.md) can cause thousands of people to have their app crash simultaneously in a live environment, and a misplaced comma may mean deleting many clients' data. On the far end, this can lead to some *very* unpleasant [lawsuits](people-contracts.md).
 
 To accommodate this reality, enterprise-grade projects use 3 servers:
 

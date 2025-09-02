@@ -69,7 +69,7 @@ Grosch's Law - The relative speed increase of a computer is the square of its re
 
 Klaiber's Law - The silicon wafer's size proportionally dictates the largest diameter of ultra-pure water piping necessary for a semiconductor wafer factory.
 
-Marconi's Law - The effective distance of an [antenna tower](radio.md) is approximately the height of the antenna squared.
+Marconi's Law - The effective distance of an [antenna tower](engineering-radio.md) is approximately the height of the antenna squared.
 
 Moore's Law - Computers become twice as powerful every 2 years, which compounds to 32x over a decade.
 

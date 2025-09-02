@@ -23,7 +23,7 @@ There only two major approaches to OS design, but they all sit on a spectrum bet
 
 In a broad sense, there are 6 layers to most operating systems, though this isn't a hard rule, and many layers merge together:
 
-1. Hardware - deals with system "drivers" (such as the [screen](engineering-screen.md), [keyboard](computers-keyboard.md), [mouse](computers-mouse.md), [printer](computers-printers.md), [scanner](computers-ocr.md), etc.).
+1. Hardware - deals with system "drivers" (such as the [screen](engineering-screen.md), [keyboard](computers-keyboard.md), [mouse](computers-mouse.md), [printer](engineering-printers.md), [scanner](computers-ocr.md), etc.).
 2. Scheduling - manages the processes that pipe their way to the [CPU](computers-cpu.md).
 3. [Memory](computers-memory.md) management - manages moving information back-and-forth between long-term storage and RAM.
 4. Process management - prioritizes the various tasks based on multiple possible algorithms.
@@ -40,7 +40,7 @@ Because tech-savvy people and tech-retarded people have completely different opi
 
 A program is a set of instructions that the computer can run.
 
-When a program [creates variables and runs functions](programming-basics.md), the operating system can run allocate a memory stack for the program ("stack memory allocation"). Then, when the program ends, the operating system will deallocate that memory.
+When a program [creates variables and runs functions](computers-programming-basics.md), the operating system can run allocate a memory stack for the program ("stack memory allocation"). Then, when the program ends, the operating system will deallocate that memory.
 
 The other option is to store program memory in a heap with all the other programs ("heap memory allocation"). This is easier to make (and used to be the *only* way to run an operating system), but can cause memory leaks if the program's programmer forgot to release the memory before terminating the program.
 
@@ -64,13 +64,13 @@ There are many default programs built into most general-purpose operating system
 
 ## GUI
 
-Most programs can activate with commands. While the information once outputted through a [printer](computers-printers.md), the OS now typically displays a [GUI](engineering-graphics.md) ("graphical user interface") on a [screen](engineering-screen.md).
+Most programs can activate with commands. While the information once outputted through a [printer](engineering-printers.md), the OS now typically displays a [GUI](engineering-graphics.md) ("graphical user interface") on a [screen](engineering-screen.md).
 
 We take *many* [GUI features](engineering-design.md) for granted in most consumer operating systems:
 
 - A context menu button, either by long-press, right-clicking, or clicking while pressing a function key.
 - A panel/taskbar that shows currently open programs.
-- A list of available programs, often [searchable](programming-algorithms.md).
+- A list of available programs, often [searchable](computers-programming-algorithms.md).
 - Default folders for documents, pictures, videos, and a visual "desktop" for easy access to files.
 - Automatic file associations (e.g., .doc files open with Microsoft Word).
 - The ability to download/copy and install/run new programs and device drivers that don't come with the OS.
@@ -80,4 +80,4 @@ We take *many* [GUI features](engineering-design.md) for granted in most consume
 
 ## Development
 
-Designing "native" OS [GUI-based](engineering-graphics.md) applications is a headache compared to [web apps](computers-webdev.md). Each operating system has its own [specific knowledge](understanding.md). Most of that knowledge is built around various methods to get software even working correctly. Plus, each proprietary OS (such as Apple) has an approval process that makes it even more complicated (e.g., App Store).
+Designing "native" OS [GUI-based](engineering-graphics.md) applications is a headache compared to [web apps](computers-sofware-webdev.md). Each operating system has its own [specific knowledge](understanding.md). Most of that knowledge is built around various methods to get software even working correctly. Plus, each proprietary OS (such as Apple) has an approval process that makes it even more complicated (e.g., App Store).

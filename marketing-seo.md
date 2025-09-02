@@ -11,7 +11,7 @@ If something becomes wildly popular, it goes viral and can create near-instant f
 Modern marketing *needs* a decent web presence.
 
 - Not every industry requires a well-made site, but a poorly designed website is often worse than none.
-- Social media profiles can typically be sufficient, but [self-maintained websites](computers-webdev.md) allow a centralized brand and more flexibility for marketing professionals by not having the social network as an intermediary.
+- Social media profiles can typically be sufficient, but [self-maintained websites](computers-sofware-webdev.md) allow a centralized brand and more flexibility for marketing professionals by not having the social network as an intermediary.
 
 The most common measurement of a website's success is from visits by users (hit count).
 
@@ -23,7 +23,7 @@ Like any other [marketing](marketing.md), tailor your marketing messages to the 
 
 The art of search engine optimization (SEO) is through improving your web presence via keyword management and [design](engineering-design.md).
 
-- This effort goes all the way from the search engine results page (SERP) all the way to [the design of the website itself](computers-webdev.md), from landing page all the way to after the customer has made a purchase.
+- This effort goes all the way from the search engine results page (SERP) all the way to [the design of the website itself](computers-sofware-webdev.md), from landing page all the way to after the customer has made a purchase.
 - After learning it, most SEO work is as tedious as [accounting](accounting.md).
 
 There are several billing options for internet marketing:
@@ -60,7 +60,7 @@ When creating the site:
 - Add social media sharing buttons to every page.
 - The web domain (something.com) should associate to what you sell.
 - Keep the homepage clutter-free with a separate blog page.
-- Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-webdev.md) headaches with form fills and caching.
+- Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-sofware-webdev.md) headaches with form fills and caching.
 - The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](engineering-design.md) the user.
 - While it may be tempting to expand your leads with a mailing list, only ask about the mailing list *after* the product was sold.
 
@@ -167,7 +167,7 @@ Search engines usually blacklist unethical SEO.
 - Search engines discourage sites where people visit and then leave (high bounce rate).
 - If you manipulate search engine systems, you'll get temporary spikes in views and dramatic dropoffs later.
 - You'll find more search engine attention by creating high-quality content people *want* to consume and share (organic exposure).
-- Keep on top of [all the back-end technical elements of web/app design](computers-webdev.md).
+- Keep on top of [all the back-end technical elements of web/app design](computers-sofware-webdev.md).
   - Try technical tricks like semantic markups and editing meta tags.
   - Make sure the website *actually functions well*: a bad web interface is worse than an awful font/image pairing.
   - *Only* add features that reflect the image you want to convey.

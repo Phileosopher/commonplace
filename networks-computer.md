@@ -11,7 +11,7 @@ There is a vast body of network [standards](standards-computers.md) published an
 
 The history of computer networks has conventions and [standards](standards-computers.md) dating as far back as the telegraphs and Morse code in the 1840's, and phone switchboards are still networking standards (66 block vs. 110 block). WiFi and cellular networks, though, go back to radio standards set in the 1920's.
 
-The idea of networked computers came *long* before it materialized. Vannevar Bush's essay "[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)" implied the concept of a collective memory storage that represented something close to how we see [the internet](computers-webdev.md) today.
+The idea of networked computers came *long* before it materialized. Vannevar Bush's essay "[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)" implied the concept of a collective memory storage that represented something close to how we see [the internet](computers-sofware-webdev.md) today.
 
 At first, the network connections between computers were small-scale and designed to connect [scientists](science.md) together. As early as the 1970s, they sent the information via analog signals encoded as sound through existing phone lines. "Modems" were originally sending typed punchcard information, 3 [ASCII characters](computers-keyboard.md) at a time (which converted to 25 bits/s).
 
@@ -96,7 +96,7 @@ As the protocols get more complex up the chain, the data gets bigger. Each of th
 
 The PDU on the physical layer a bit-by-bit perspective: one 0 or 1 at a time.
 
-Most of the physical layer involves understanding cabling, connectors, and [wireless signals](radio.md).
+Most of the physical layer involves understanding cabling, connectors, and [wireless signals](engineering-radio.md).
 
 It's worth noting here that I'm stripping away a *lot* of extra information, most of it being trivia about network standards. There are dozens of certifications and hundreds of textbooks on the subject. If you're curious, [look here](https://en.wikipedia.org/wiki/Category:Networking_standards).
 
@@ -117,7 +117,7 @@ It's worth noting here that I'm stripping away a *lot* of extra information, mos
     - 11 channels is a bit misleading, since channels tend to bleed into each other. In practice, only channels 1, 6, and 11 don't bleed into other channels!
   - It's worth noting that the popular Bluetooth standard uses the *exact same* 2.4 GHz frequency as WiFi, though it's not used for networking.
   - The 5 GHz band also has wide channels, where it can stick multiple parallel channels together if nothing else is in the way, which can dramatically speed up data transfer.
-- Cellular data - long-distance [radio wave](radio.md) transmission.
+- Cellular data - long-distance [radio wave](engineering-radio.md) transmission.
   - 3G, 4G, 4G LTE, 5G, and so on.
   - The signals connect via a "cellular network" of towers:
     1. The mobile device connects to a local "cell" tower by sending a signal.
@@ -156,7 +156,7 @@ To speed up networks by avoiding all that useless data transfer, engineers desig
 
 Wireless networks add a few complications:
 
-1. [Wireless technologies](radio.md) are extremely volatile, and seemingly unrelated things can disrupt wireless signals. So, while they're merely a matter of activating hardware to set up (as opposed to running cables), they're a headache to troubleshoot.
+1. [Wireless technologies](engineering-radio.md) are extremely volatile, and seemingly unrelated things can disrupt wireless signals. So, while they're merely a matter of activating hardware to set up (as opposed to running cables), they're a headache to troubleshoot.
 2. Most of the [cybersecurity concerns](computers-cysec.md) with wireless networks comes from the physics-based reality that a WiFi signal can only exist as a network hub.
 
 Unlike the other 6 layers, Layer 2 has two sub-layers:
@@ -220,7 +220,7 @@ Layer 3 issues are often caused by faulty hardware in the router or one of the c
 
 To prevent signals from bouncing around forever in an infinite loop between 3 nodes, there's a "time to live" (TTL) that indicates how many "hops" until the signal drops. In fact, the "tracert" [CLI command](computers-cli.md) works by sending a packet with a TTL of 1 and getting a report from it, then a TTL of 2 with a report, and so on.
 
-[Web domains](computers-webdev.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some of the tech-savvy internet users in the late 1980's found domains in web browsers to be *more* trouble than working with IPs.
+[Web domains](computers-sofware-webdev.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some of the tech-savvy internet users in the late 1980's found domains in web browsers to be *more* trouble than working with IPs.
 
 Most issues on the Network layer and higher can be resolved with [command-line tools](computers-cli.md) like ping and trace to resolve IP issues.
 
@@ -244,7 +244,7 @@ The Transport layer's PDU has different names.
 
 Sometimes, packets get dropped. TCP's header makes sure the packets are successfully reassembled on the other side, and will ask for any missing packets. UDP, on the other hand, is a little faster but not as reliable because it doesn't account for missing packets, which is great for specific time-sensitive things (like [streaming video or audio](standards-computers.md)).
 
-TCP uses the slow start [algorithm](programming-algorithms.md), which is a genius and simple solution for attaining a fast connection without knowledge of how reliable the network is.
+TCP uses the slow start [algorithm](computers-programming-algorithms.md), which is a genius and simple solution for attaining a fast connection without knowledge of how reliable the network is.
 
 The Transport layer adds a port number. That port is 16 bits (so it ranges from 0 to 65535). There are [*many* predefined ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers). When an IP address is assigned to a port, it's called a "socket".
 
@@ -298,7 +298,7 @@ There are *many* Layer 7 protocols:
 
 The PDU at the Application layer is the data as it is inputted and outputted within the application.
 
-Applications can be bandwidth-sensitive (e.g., a streaming movie) or elastic (e.g., email or a [web browser](browser.md)). Faster bandwidth is always better, but not always necessary.
+Applications can be bandwidth-sensitive (e.g., a streaming movie) or elastic (e.g., email or a [web browser](computers-browser.md)). Faster bandwidth is always better, but not always necessary.
 
 Applications can also be loss-tolerant (e.g., a streaming video chat) or no-loss (e.g., web documents).
 
@@ -306,7 +306,7 @@ The purpose of these protocols is to package up information for moving to the ot
 
 The line between Layer 7 and [most individual operating system elements](computers-os.md) mostly differentiates with whether data transfers from one device to another, though that can get *very* blurry due to [distributed systems](computers-distsys.md).
 
-Most of the issues on the Application layer involve either bad configurations inside the operating system or user error. Most of these resolutions involve plenty of [customer service](customerservice.md).
+Most of the issues on the Application layer involve either bad configurations inside the operating system or user error. Most of these resolutions involve plenty of [customer service](people-customerservice.md).
 
 ## Layers implementation
 
@@ -371,7 +371,7 @@ Because of how much TCP works with IP, the two pair into a frequently used term 
 
 For [cybersecurity reasons,](computers-cysec.md) some information must be [encrypted](encryption.md) across the internet. While this is *usually* done on Layer 3, it can also be done on Layer 2 (such as L2TP).
 
-Further, some protocols run across *multiple* layers. [Mobile](radio.md) carrier [protocols](standards-computers.md) run across L1, L2, and L3:
+Further, some protocols run across *multiple* layers. [Mobile](engineering-radio.md) carrier [protocols](standards-computers.md) run across L1, L2, and L3:
 
 - GSM - global system for mobile communications, a European standard on the 900-1800 MHz band that the whole world uses (though the US uses the 1900 MHz band which makes its phones incompatible without dual-band hardware).
 - CDMA - code division multiple access, high-quality [proprietary](legal-ip-floss.md) WWII-era protocol that gives full-band data to multiple connections at once

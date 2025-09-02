@@ -77,7 +77,7 @@ Most everyday batteries are a few broad classes of solid metals, and most of the
 
 The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](rules.md) discarding batteries, which can be a problem [at scale](groups-large.md).
 
-Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](programming-algorithms.md) implementation of the Coulomb counter:
+Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](computers-programming-algorithms.md) implementation of the Coulomb counter:
 
 1. Measures the current charge.
 2. Measures the available charge later.

@@ -5,7 +5,7 @@ Computers, by their nature, are *highly* ordered. While this can be very conveni
 
 Thus, while [well-designed systems](computers-software-design.md) can satisfy 90% of everyone's needs (or 95% with [clever design](engineering-design.md), or 99% in the case of [AI implementations](computers-ai.md)), there must be a redundant fallback that *isn't* a computer.
 
-Without any fallback, the system will slowly devolve into yet another FAANG system, with minimal [customer service](customerservice.md) and new [tech startups](entrepreneur-1_why.md) that will attempt to fill the gap with more technology.
+Without any fallback, the system will slowly devolve into yet another FAANG system, with minimal [customer service](people-customerservice.md) and new [tech startups](entrepreneur-1_why.md) that will attempt to fill the gap with more technology.
 
 ## Ombudsman
 

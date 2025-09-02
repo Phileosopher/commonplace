@@ -1,7 +1,7 @@
 
 # List of computer industry jobs
 
-There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](programming-basics.md), but not all of them require [coding](programming-basics.md).
+There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](computers-programming-basics.md), but not all of them require [coding](computers-programming-basics.md).
 
 To anyone who notices, these are *not* mutually exclusive roles, and they frequently bleed into each other.
 
@@ -19,7 +19,7 @@ Fiddling with the [UX](engineering-design.md) (for people who understand [how pe
 
 - **Information Architect** manages the UX behavior flow from a [psychology](mind-feelings.md) angle.
 - **UX Designer** manages the UX behavior flow from a [design](mind-creativity.md) angle (wireframing, prototyping, mockups, and tracking user flow).
-- **UI Designer** focuses strictly on the [development side](programming-basics.md) of the design.
+- **UI Designer** focuses strictly on the [development side](computers-programming-basics.md) of the design.
 - **Interaction Designer** prototypes data.
   - **Web Analytics Developer** tests and optimizes web interfaces.
   - **Accessibility Specialist** focuses on usability for everyone, especially disabled people.
@@ -35,11 +35,11 @@ Fiddling with the [UX](engineering-design.md) (for people who understand [how pe
 - **Back-End Developer** or **Server-Side Developer** makes stuff for front-end developers ([databases](database.md), [APIs](computers-software-features.md), [core logic](logic-cs.md)).
   - **Backend Engineer** focuses on all aspects of back-end systems.
 - **Software Developer** creates software.
-  - **Frameworks Specialist** uses various existing frameworks to create [web apps](computers-webdev.md).
+  - **Frameworks Specialist** uses various existing frameworks to create [web apps](computers-sofware-webdev.md).
   - **[Framework/Language] Developer** works specifically with that language/framework.
   - **Mobile Developer** optimizes code for mobile devices, often specializing in Android or Apple.
   - **Desktop Application Engineer** builds code for PCs and laptops, though there aren't as many as there were.
-- **Search Engineer** designs [algorithms](programming-algorithms.md) for searching large amounts of data.
+- **Search Engineer** designs [algorithms](computers-programming-algorithms.md) for searching large amounts of data.
 - **Junior Developer** is new at making code.
 
 Both-end development (for experienced developers):
@@ -48,7 +48,7 @@ Both-end development (for experienced developers):
   - **DevOps Engineer** can oversee a software project entirely from front to back.
   - **Game Developer** designs [games](computers-software-gamedev.md).
 - **AR/VR Engineer** designs [VR-based implementations](compiuters-vr.md).
-- **Web Developer** does a bit of everything related to [the internet](computers-webdev.md), and their work specializes into either Front-End or Back-End.\
+- **Web Developer** does a bit of everything related to [the internet](computers-sofware-webdev.md), and their work specializes into either Front-End or Back-End.\
 - **Technical Writer** describes [technical information](language-writing-documentation-cs.md) a user or developer would need to know.
 
 [System planning](computers-distsys-enterprise.md) (for people who understand [distributed systems](computers-distsys.md)):
@@ -56,7 +56,7 @@ Both-end development (for experienced developers):
 - **Business Systems Analyst** figures out what technology works best for specific situations.
   - **Technical Account Manager** maintains a technology-based relationship with the customer.
 - **Data Analyst** figures out existing [trends](trends.md) in data.
-  - **Data Scientist** figures out future trends from data, often with [machine learning](computers-ai-ml.md), [algorithms](programming-algorithms.md), and [statistics](math-stat.md).\
+  - **Data Scientist** figures out future trends from data, often with [machine learning](computers-ai-ml.md), [algorithms](computers-programming-algorithms.md), and [statistics](math-stat.md).\
 - **Systems Engineer** "deploys" database technology.
 - **Systems Architect** designs systems.
   - **Cloud Architect** and **Cloud Engineer** design [cloud](computers-distsys-cloud.md) [distributed systems](computers-distsys.md).

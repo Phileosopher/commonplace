@@ -37,7 +37,7 @@ To make it easier to look at, engineers simplified large binary numbers. The ran
 
 ## Calculations
 
-"Combinatorics" is the math of counting up and down, and is a frequent part of computer science because [assembly code](programming-assembly.md) is almost always simply counting.
+"Combinatorics" is the math of counting up and down, and is a frequent part of computer science because [assembly code](computers-programming-assembly.md) is almost always simply counting.
 
 At its most basic, a computer can calculate basic arithmetic:
 

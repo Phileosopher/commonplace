@@ -138,7 +138,7 @@ Manage risks with a wide variety of easily adaptable tools:
   - Metalworking, knife-making, gunsmithing
   - Glassblowing, pottery
   - Sewing embroidery, leather crafting, toy making
-  - Amateur electronics, robotics, [computer programming](programming-basics.md)
+  - Amateur electronics, robotics, [computer programming](computers-programming-basics.md)
   - Farming or hunting
 - Get small, easily tradable, permanently useful commodities, such as hard liquor, lighters, ammunition, and cigarettes.
   - Liquor (particularly vodka) also has antiseptic and herbal medicinal properties.

@@ -5,10 +5,10 @@ All [the general rules about job-searching](jobs-4_hunt.md) apply completely in 
 
 ## What to create
 
-In the tech industry, a successful job-search will *also* include building and creating. It should focus more in actual achievement than simply understanding [languages](computers-languages.md), [frameworks](programming-basics.md), and [tech jargon](glossary-computers.md):
+In the tech industry, a successful job-search will *also* include building and creating. It should focus more in actual achievement than simply understanding [languages](computers-languages.md), [frameworks](computers-programming-basics.md), and [tech jargon](glossary-computers.md):
 
 - Keep on building out your [portfolio](jobs-3_image-cs.md) with good-looking projects.
-- Learn [better programming](programming-habits.md) and more programming languages, but only to build your projects.
+- Learn [better programming](programming-tech.md) and more programming languages, but only to build your projects.
 - Take classes and tutorials to build out measurable accomplishments.
 - Aim less for projects that solve conceptual software engineering problems and more for projects that can solve actual business problems.
 

@@ -50,5 +50,5 @@ Generally, there should be several levels of guides:
 
 1. The design-level guide, which gives schematics and details of every single component within the product or process. Since this guide will often possess [trade secrets](legal-ip.md), it should be [secured](safety-security.md) away from the public and only given to authorized individuals.
 2. The schematic guide, which gives guidance on how to assemble or create the product or process. This can be publicly distributed among lower-ranking members of the group, but should still be protected to avoid losing trade secrets.
-3. The technician guide, which indicates how to [fix](fix.md) the product or [take remedial action](customerservice.md). It should either have diagrams for complex elements or indicate where to find them.
+3. The technician guide, which indicates how to [fix](fix.md) the product or [take remedial action](people-customerservice.md). It should either have diagrams for complex elements or indicate where to find them.
 4. The user guide, which should have simple instructions and simple pictures. It should be understandable by a moderately intelligent and literate 10-year-old.

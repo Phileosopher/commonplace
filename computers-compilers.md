@@ -3,7 +3,7 @@
 
 There are two major ways languages can be expressed:
 
-- Compilers are a one-time translation of [high-level code](programming-basics.md) into [assembly code](programming-assembly.md). They're typically time-intensive at the beginning, then run quickly afterward.
+- Compilers are a one-time translation of [high-level code](computers-programming-basics.md) into [assembly code](computers-programming-assembly.md). They're typically time-intensive at the beginning, then run quickly afterward.
 - Interpreters run the translation every time the code executes, meaning the software takes a longer time but doesn't require any preliminary installation.
 
 Each language's design will determine whether the code is compiled or interpreted after it has been created.

@@ -406,7 +406,7 @@ New technologies designed by a [dysfunctional corporation](mgmt-badsystems.md) w
 
 The best solution is to deactivate those features whenever possible:
 
-- Deactivate any [network-based components](networks-computer.md), such as [GPS](logistics-navigation.md) or [cellular network](radio.md) communication.
+- Deactivate any [network-based components](networks-computer.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
 - Disable any automated features, such as auto-locking or auto-closing.
 - Disable the driving assists, or diminish them to alert-only status.
 

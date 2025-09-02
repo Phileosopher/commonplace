@@ -10,7 +10,7 @@ No particular computer is trustworthy, either. "Whitelisting" MAC addresses or I
 Therefore, to keep data safe, it must often be routinely encrypted and decrypted:
 
 1. Output the data wherever it's at.
-2. Encrypt the information, typically with an encryption [algorithm](programming-algorithms.md).
+2. Encrypt the information, typically with an encryption [algorithm](computers-programming-algorithms.md).
 3. Transfer or store the information.
 4. When needed, decrypt the information.
 
@@ -70,7 +70,7 @@ Or, to put another way, the effort is less devoted to creating a perfectly unbea
 There are *many* places where encryption is necessary or, at least, a very good idea:
 
 - The [operating system](computers-os.md) often needs encryption, especially core files. Sometimes an entire drive's data must be encrypted.
-- Anytime something sends across [the internet](computers-webdev.md), it needs to be secure, since anyone can theoretically intercept it.
+- Anytime something sends across [the internet](computers-sofware-webdev.md), it needs to be secure, since anyone can theoretically intercept it.
 - All aspects of [cybersecurity](computers-cysec.md) involve some form of encryption, if not outright destruction, of data and data-bearing devices.
 
 ## Forms
@@ -111,7 +111,7 @@ Many forms of encryption use the Merkle--Damgård construction originally create
 
 Modern iterations use the Merkle--Damgård construction, but add other elements into the process (e.g., sponge construction, HAIFA construction) to avoid length extension attacks.
 
-There are many types of encryption [algorithms](programming-algorithms.md) available now:
+There are many types of encryption [algorithms](computers-programming-algorithms.md) available now:
 
 - Message-Digest Algorithm was made in 1989, and has iterated from MD2 to MD6. MD4 was compromised through collision attacks and MD6 was compromised by differential attacks. MD5 is still the de facto standard even though it's cryptographically insecure.
 - Secure Hash Algorithm descended from MD4 by the NSA in 1993. It's a one-way encryption algorithm. SHA-2 has SHA-224, SHA-256, SHA-384, and SHA-512. SHA-3 has equivalent encoding, but more advanced. SHA-2 is more widely adopted right now, but SHA-3 is mean to directly substitute SHA-2.

@@ -1,7 +1,7 @@
 
 # The computer screen explained
 
-Ever since the computer screen became affordable, we've been prioritizing it over the [printer](computers-printers.md) to visually see most output on a computer. It's now *way* cheaper and faster, so it's a core peripheral of most computers.
+Ever since the computer screen became affordable, we've been prioritizing it over the [printer](engineering-printers.md) to visually see most output on a computer. It's now *way* cheaper and faster, so it's a core peripheral of most computers.
 
 Unlike the printer, screens use visible light instead of reflected light. So, instead of using subtractive primary colors of cyan/magenta/yellow to reflect the wavelengths, screens combine emitted wavelengths with additive colors. They found out that 3 colors (red, green, blue) can combine to make *all* other visible light.
 
@@ -44,7 +44,7 @@ Many limited-use computers, like clock radios or air conditioner controllers, do
 
 Since about 2010, computer screens and televisions have been functionally the same. The only difference, beyond the television having its own fully functioning proprietary [computer](computers-hardware.md) inside it, is that the television [tracks more user data and may advertise products for users to purchase](faang.md).
 
-One relatively newer technology with tons of promise is e-ink. It uses negatively charged black pigment and positively charged white pigment on a type of paper, which will jump to the top of the screen based on the charge. This is easier on the eyes because someone is viewing pigmentation (like with [printed](computers-printers.md) paper) instead of visible light. Most of its screen implementations also *feel* like paper. The only downside is that paper is relatively cheap, while these paper-like devices would cost at least 100x the price of a notepad even if it was made as cheaply as possible.
+One relatively newer technology with tons of promise is e-ink. It uses negatively charged black pigment and positively charged white pigment on a type of paper, which will jump to the top of the screen based on the charge. This is easier on the eyes because someone is viewing pigmentation (like with [printed](engineering-printers.md) paper) instead of visible light. Most of its screen implementations also *feel* like paper. The only downside is that paper is relatively cheap, while these paper-like devices would cost at least 100x the price of a notepad even if it was made as cheaply as possible.
 
 ## Illusion of motion
 

@@ -20,7 +20,7 @@ As a bare minimum, make sure you have the following:
 - Portfolio website as a central hub for all your projects
 - LinkedIn account that points to your work
 
-For [front-end work](computers-webdev.md), you may have a more nuanced public image, but maintaining a public image *really* doesn't take much work or [creativity](mind-creativity.md). All you need is to publish what you're already building or have built, and it's typically an [impressive story](stories.md) if you practice [expressing it correctly](language-writing.md). 1-2 blog posts or a public code repository can go a *long* way.
+For [front-end work](computers-sofware-webdev.md), you may have a more nuanced public image, but maintaining a public image *really* doesn't take much work or [creativity](mind-creativity.md). All you need is to publish what you're already building or have built, and it's typically an [impressive story](stories.md) if you practice [expressing it correctly](language-writing.md). 1-2 blog posts or a public code repository can go a *long* way.
 
 Hiring managers want to see you actually did something, *not* that you completed many tutorials, so focus more on making interesting projects than on official certifications. Often, you can get more mileage by adding a [creative flair](mind-creativity-how.md) to an *existing* project you've already completed (e.g., a boring calculator you made now says exclamations like "cool!" or "not today!" about the results) over slogging through a course on React Native.
 
@@ -52,13 +52,13 @@ If you use GitHub, put in 1-3 pull requests a day to imply you're severely passi
 
 Keep a central hub for your projects. In the tech industry, your portfolio shows your competence *way* more than your résumé will, and also serves to help you *build* those skills.
 
-However, assuming you're *not* applying for a front-end or [web dev](computers-webdev.md) job, most hiring managers will *only* read your résumé and *not* check your portfolio site. Across the industry, your ability to clearly and simply communicate what you've done within your portfolio is *far* more important than the public presentation of it.
+However, assuming you're *not* applying for a front-end or [web dev](computers-sofware-webdev.md) job, most hiring managers will *only* read your résumé and *not* check your portfolio site. Across the industry, your ability to clearly and simply communicate what you've done within your portfolio is *far* more important than the public presentation of it.
 
-The easiest way to make a central hub is to use a profile page service, but it's not difficult to learn enough [web development skills](computers-webdev.md) to make your own website (e.g., WordPress on distributed hosting).
+The easiest way to make a central hub is to use a profile page service, but it's not difficult to learn enough [web development skills](computers-sofware-webdev.md) to make your own website (e.g., WordPress on distributed hosting).
 
 If you want to set up a portfolio site for yourself, make sure it has the following:
 
-- Responsive [web design](computers-webdev.md), accessibility-friendly (i.e., [easy to use](engineering-design.md)), and your preferred domain.
+- Responsive [web design](computers-sofware-webdev.md), accessibility-friendly (i.e., [easy to use](engineering-design.md)), and your preferred domain.
 - An "about me" section that gives your personal story or a few personal stories that capture who you are.
 - Some way to contact you (at least email or a web form).
 - Projects (linked or embedded) that show significant work you've done.
@@ -66,7 +66,7 @@ If you want to set up a portfolio site for yourself, make sure it has the follow
 You have many projects to choose from:
 
 - Independent side projects you've been tinkering with.
-- Technical work you volunteered for (e.g., [making a website](computers-webdev.md) for a non-profit or club)
+- Technical work you volunteered for (e.g., [making a website](computers-sofware-webdev.md) for a non-profit or club)
 - Projects from a class that you're particularly proud of
 - Work from your day job where you incorporated programming
 - A research project on your own or for school
@@ -110,7 +110,7 @@ Product Management
 
 Front-End Development
 
-- Design tools, but mixed with various [frameworks and libraries](programming-basics.md) to build (mostly) [websites](computers-webdev.md).
+- Design tools, but mixed with various [frameworks and libraries](computers-programming-basics.md) to build (mostly) [websites](computers-sofware-webdev.md).
 - Coding mostly in HTML, CSS, and JavaScript, with something like Chrome Dev Tools for [debugging](computers-software-redesign.md).
 - [Version control](computers-software-versionctrl.md) via Git, likely through GitHub.
 - An [IDE](computers-software-ide.md) that varies on the company, but is typically software like VS Code, Atom, or Sublime (though you can often bring your own if you know how to set it up).

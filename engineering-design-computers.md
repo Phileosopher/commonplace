@@ -47,7 +47,7 @@ The available information from that technology also allows for more specialized 
 - Since a computer is *constantly* working when it's on with an inhuman logical flow, use empty space to articulate silence to the user and personalize it to indicate that a human designed it.
 - Make sure the presented information is using any tracked [location data](logistics-navigation.md), and make it location-agnostic if there's a [VPN](computers-cysec.md) or no location. Generally, there's still usually an *approximate* nation or region to derive data from.
 - If there is *any* information about the [operating system](computers-os.md), assume the user is using that particular OS. Either way, give a simple selection for *all* available OSes.
-- If the user has provided information, use it to tailor all relevant [algorithms](programming-algorithms.md) of the software (e.g., their genre preference should define *all* the content).
+- If the user has provided information, use it to tailor all relevant [algorithms](computers-programming-algorithms.md) of the software (e.g., their genre preference should define *all* the content).
 - Provide personal information based on the software's usage. Generally, a large-scale enterprise's needs are different from a home user.
 - Since people value their privacy, build trust *before* asking for permissions for more information.
 - Create designs that direct the user's incentive toward something else that is *not* the computer. We are [wired to need human connection](humanity-universals.md), and computer-assisted [interaction](people-conversation.md) is typically *less* [meaningful](meaning.md) than in-person.
@@ -62,7 +62,7 @@ The domain of technology has *magnitudes* of complexity, so users have a dramati
 2. They also often don't communicate that lack of understanding to others, for various reasons.
 3. This lack of shared non-understanding creates a conspiracy of silence.
 
-[Software engineers](programming-basics.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-2_image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
+[Software engineers](computers-programming-basics.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-2_image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
 
 This is almost standard in tech, and never seems to [trend](trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
 
@@ -74,7 +74,7 @@ Of course, this means many possibilities for growth within computers. Many more 
 
 The complexity of computers almost *mandate* a manual, and it's about as important as the product itself (since the product won't work without the knowledge contained in that manual). It's a necessary evil from how utterly complex computers are.
 
-With software, it's not difficult to include help files and browser-based [hyperlinks](computers-webdev.md) to lead the user to what they need. With hardware, it's worth including both simplified and advanced documentation for different levels of users, or to at least maintain a permanent archive hyperlink built onto the package.
+With software, it's not difficult to include help files and browser-based [hyperlinks](computers-sofware-webdev.md) to lead the user to what they need. With hardware, it's worth including both simplified and advanced documentation for different levels of users, or to at least maintain a permanent archive hyperlink built onto the package.
 
 The most effective internet-based form of a manual is a Q&A-based forum with the engineers and product designers answering user questions, since it allows a direct conduit for feedback from the users, which gives the designers criteria to develop *future* iterations of the product.
 
@@ -94,7 +94,7 @@ However, it is vital that any error-correcting system *must* work or people will
 
 ## The design's elements
 
-There are *many* elements to consider for interacting with a computer. Most of them are automatically designed into most [operating systems](computers-os.md) or [web browsers](computers-webdev.md), but anyone with patience to learn can often tweak, add, or remove them.
+There are *many* elements to consider for interacting with a computer. Most of them are automatically designed into most [operating systems](computers-os.md) or [web browsers](computers-sofware-webdev.md), but anyone with patience to learn can often tweak, add, or remove them.
 
 Many elements abide by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/), which set standards that allow *anyone*, even colorblind or visually impaired, to easily use the computer.
 
@@ -131,7 +131,7 @@ As much as possible, separate out the information with a clear demarcation and s
 
 ### Colors
 
-Since most interaction with a computer is [screen-based](engineering-screen.md), color is *vitally* important for communicating information on the [front-end](engineering-graphics.md) and [across the internet](computers-webdev.md), more than most other non-computer design:
+Since most interaction with a computer is [screen-based](engineering-screen.md), color is *vitally* important for communicating information on the [front-end](engineering-graphics.md) and [across the internet](computers-sofware-webdev.md), more than most other non-computer design:
 
 - Use the colors from the source images to define the color theme and "gradients" of the site
 - Contrast the colors between the text and the background to make it as readable as possible, which may include adding color overlays or gradations over the photo before imposing text.
@@ -233,7 +233,7 @@ Any feedback systems should be *very* well-articulated (error messages, further 
 
 Other selection features ought to be industry-standard, but often aren't:
 
-- Avoid the browser's default file upload feature, since it varies wildly on the [browser](computers-webdev.md).
+- Avoid the browser's default file upload feature, since it varies wildly on the [browser](computers-sofware-webdev.md).
 - For physical things with a relatively analog control scheme (e.g., 1 to 100), physical knobs and dials are almost universally superior to buttons on a screen. This, however, does add extra work for [project management](mgmt-2_projects.md).
 - Have settings available for advanced and experienced users, with all the options available the most advanced user would ever need. If a setting might break something, prompt the user.
 - Instead of directing permission requests directly to the operating system's prompt when the software needs it, have the user make an opt-in selection within the software with a lock-out if it's *absolutely* necessary.
@@ -268,7 +268,7 @@ Many good ideas in typography aren't common, but should be:
 - Keep headings and small passages of text aligned to the center, but larger bodies of text should be left-aligned. If they're "justified", the "kerning" creates an uneven flow.
 - To keep text legible, increase the line height as the font size decreases.
 
-Most UX design revolves around [web development](computers-webdev.md), so make sure the hyperlink is accessible:
+Most UX design revolves around [web development](computers-sofware-webdev.md), so make sure the hyperlink is accessible:
 
 - Make links that directly point to the content you want the users to access.
 - If the hyperlinks are designed to be easily accessible, use a user-friendly URL: `https://site.com/content` instead of `https://site.com/page?page_id=730/u/ycur`.
@@ -349,7 +349,7 @@ Most tech designers are *way* more fickle than the average non-tech comparison, 
 
 Generally, the context of UX determines which direction it'll fail.
 
-- If it's consumer-facing (e.g., [web design](computers-webdev.md)), the push for simplicity and ease-of-use will make arcane systems hiding behind deceptively simple visual elements.
+- If it's consumer-facing (e.g., [web design](computers-sofware-webdev.md)), the push for simplicity and ease-of-use will make arcane systems hiding behind deceptively simple visual elements.
 - If it's more technical or organizationally facing, the constant [feature bloat](computers-software-maintenance.md) will make the interface cluttered with all the extra edge cases present for the user.
 - The solution is to find ways to make it accessible for the first-time user, in such a way that a technical user won't feel hampered by the experience. This is difficult to do.
 
@@ -404,7 +404,7 @@ To get more money, online shopping has a few specific dark patterns:
 The incentive of a social media organization is for more people to use it more frequently, so some dark patterns are exclusive to them with the intent of people spending more time on the service or selecting advertisements:
 
 - Requirements to share content to fully consume media (e.g., an article, free music).
-- Adding [advertisements](marketing.md) in between users' content, with [algorithms](programming-algorithms.md) that tailor those ads to be as associated as possible to what the user may want to have.
+- Adding [advertisements](marketing.md) in between users' content, with [algorithms](computers-programming-algorithms.md) that tailor those ads to be as associated as possible to what the user may want to have.
 - The software requesting consent by the user to send messages to that user's contacts (typically email), then abusing that permission and messaging *everyone* in their contacts without their knowledge.
 - Artificial notifications with no relevance that still provoke the [habit](habits.md) of checking and removing them.
 - Sending fake requests to connect to the user as if they were initiated by another person, but the user's *reply* is the request to connect.

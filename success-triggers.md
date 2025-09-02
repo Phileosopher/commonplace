@@ -301,7 +301,7 @@ Download any software you think could help you:
 Learn computer shortcuts for common software:
 
 - [Operating systems](computers-keyboard-shortcuts.md)
-- [Web browsing](browser-shortcuts.md)
+- [Web browsing](computers-browser-shortcuts.md)
 - [Microsoft Office](office-shortcuts.md)
 - Adobe software
 - [Web searching](https://supple.com.au/tools/google-advanced-search-operators/)

@@ -69,7 +69,7 @@ The [Natural World](reality.md):
 
 [Decisions](decisions.md) and [Meaning](meaning.md):
 
-- [Living well](thegoodlife.md) is more than surviving.
+- [Living well](goodlife.md) is more than surviving.
 - Focus on [today](awareness.md), since you [might not live tomorrow](imagination.md).
 - The [journey](success-5_persevering.md) matters more than the destination.
 - Learn [satisfaction](mind-feelings-happiness.md) with your lot in life.

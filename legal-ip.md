@@ -129,8 +129,8 @@ To own a copyrighted material, most people aren't aware they're consenting to an
 - It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](computers-distsys-torrent.md)) in a civil case.
 - Copyright *violation* is ubiquitous, and technically applies to literally anyone who duplicates media (i.e., they have a computer on the internet and access content).
 - Copyright *enforcement*, however, is a question of how much a corporation wants to spend on legal fees. The entity will only send attorneys after someone they perceive as a financially advantageous target to remove.
-- Technically, the presence of [the internet](computers-webdev.md) makes copyright impossible to enforce via conventional models of legally defined distribution, since each computer *must* copy the intellectual property (i.e., download it) to formally use it, making re-distribution completely trivial (e.g., copy-paste a file).
-- This gets worse with auto-generated [AI](computers-ai.md), which can use copyrighted content and "create" new works based on an [algorithm](programming-algorithms.md).
+- Technically, the presence of [the internet](computers-sofware-webdev.md) makes copyright impossible to enforce via conventional models of legally defined distribution, since each computer *must* copy the intellectual property (i.e., download it) to formally use it, making re-distribution completely trivial (e.g., copy-paste a file).
+- This gets worse with auto-generated [AI](computers-ai.md), which can use copyrighted content and "create" new works based on an [algorithm](computers-programming-algorithms.md).
 
 Very frequently, copyright holders would prefer people simply rent their service instead of outright buy the property.
 

@@ -60,7 +60,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Christian Research Institute](https://www.equip.org/) - inter-faith apologetics, connected closely with [Dr. Walter Martin](https://waltermartin.com/)
 
-## [Radio](radio.md) stations and broadcasting
+## [Radio](engineering-radio.md) stations and broadcasting
 
 [CSN Radio](https://csnradio.com/)
 

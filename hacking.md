@@ -34,7 +34,7 @@ Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("
 
 But, from the public's perspective, there are 3 major classes of hacker:
 
-1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](programming-basics.md), often includes [PenTesters](computers-cysec-pentest.md).
+1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming-basics.md), often includes [PenTesters](computers-cysec-pentest.md).
 2. Unconventional [Fixing](fix.md) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
 3. New Perspectives - building mind-bending experiences that redefine how we see reality, typically only attainable by a [genius savant](https://books2read.com/autism/).
 
@@ -120,7 +120,7 @@ Most of the brilliant ideas on [this page](fun-cs.md) and [this page](https://en
 
 Breaking perceptual expectations:
 
-- [Bizarre and Unusual Uses of DNS](https://archive.fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) - FOSDEM 2023 summarizing many ways [DNS](computers-webdev.md) has been reused
+- [Bizarre and Unusual Uses of DNS](https://archive.fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) - FOSDEM 2023 summarizing many ways [DNS](computers-sofware-webdev.md) has been reused
 - [Zoomquilt](https://zoomquilt.org/) - an infinitely zooming image
 - [Grant Woolard](https://www.youtube.com/user/grantwoolard) - smashing unrelated songs together
 - [Adult Swim's Keith Crofford](https://www.adultswim.com/etcetera/) - mastering the art of being unsettling
@@ -143,7 +143,7 @@ Adding purposes to existing things:
 
 - [SmartEarrings](https://peripherii.com/) - earrings that are also [headphones](computers-speakersmic.md)
 - [Nettle Magic Project](https://github.com/nettlep/magic) - cards that can be tracked instantly with a [barcode](computers-ocr.md)
-- [DNS Toys](https://www.dns.toys/) - silly ways to use the [DNS system](computers-webdev.md)
+- [DNS Toys](https://www.dns.toys/) - silly ways to use the [DNS system](computers-sofware-webdev.md)
 
 [Design](engineering-design.md)/[UX](engineering-design.md):
 
@@ -199,7 +199,7 @@ Inventing something entirely new:
 
 Thoughtful gestures:
 
-- [Yayagram](https://web.archive.org/web/20230330010530/https://twitter.com/mrcatacroquer/status/1386318806411325440) - [voice-chat](computers-speakersmic.md) out and [thermal printer](computers-printers.md) in over Telegram
+- [Yayagram](https://web.archive.org/web/20230330010530/https://twitter.com/mrcatacroquer/status/1386318806411325440) - [voice-chat](computers-speakersmic.md) out and [thermal printer](engineering-printers.md) in over Telegram
 - [1990 letter from donor complaining about two false columns, discovered 2024 during demolition](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 
 Exploring overlooked domains:

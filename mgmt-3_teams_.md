@@ -43,7 +43,7 @@ In general, every role will specialize into 4 possible functions:
 
 1. Acquisition - growing and getting more (sales, [marketing](marketing.md), business development, etc.)
 2. Delivery - getting things to where they need to be ([logistics](logistics.md), customer support, etc.)
-3. Development - improving the outputs (product development, [engineering](engineering.md), [maintenance](fix.md), [programming](programming-basics.md), etc.)
+3. Development - improving the outputs (product development, [engineering](engineering.md), [maintenance](fix.md), [programming](computers-programming-basics.md), etc.)
 4. Operations - broadly supporting the organization ([finance](accounting.md), [HR](business.md), [IT](https://trendless.tech/fix/), recruiting, etc.)
 
 Create a budget for each role:

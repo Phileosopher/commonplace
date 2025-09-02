@@ -94,7 +94,7 @@ The CPU I've made was 16-bits, and I have a hard time completely imagining a ful
 
 However, the above paragraph is merely a thought experiment, because CPUs have had at least a 64-bit architecture for a long time, ever since RAM started surpassing 4 GB (c. mid-2000s), and the trends will keep growing that size as memory becomes larger.
 
-Of course, these 0s and 1s are difficult to program with, which is why [assembly code](programming-assembly.md) is so important.
+Of course, these 0s and 1s are difficult to program with, which is why [assembly code](computers-programming-assembly.md) is so important.
 
 When the the processor is able to handle words that are smaller than the register, they use a weird informal word called "endianness". Basically, big-endian memory holds it at the "big end" or back of the register (e.g., 0000000010101111) and little-endian on the "little end" or front (e.g., 1010111100000000). This feature allows for backwards compatibility with old [operating systems](computers-os.md) or odd-sized registers.
 
@@ -117,7 +117,7 @@ While Average User You can ratchet up or dial back the clock speed to give you b
 - Stack the "nanosheets", thin arrays of transistors, together more closely.
 - Stick the media control, graphics, calculating, and a hefty amount of [memory](computers-memory.md) onto the chipset as well.
 - Add hardware-based code into the CPU to do more things that would have normally been implemented as software (e.g., [advanced math](math.md), [machine learning](computers-ai-ml.md)).
-- Give better [code](programming-basics.md) that better balance how multiple cores handle information. This may mean changing the workload of each core when one is idle, translating the data into another format that's quicker to work with, condensing the information and getting rid of it before a core sees it, or timing cores to handle certain things at certain times.
+- Give better [code](computers-programming-basics.md) that better balance how multiple cores handle information. This may mean changing the workload of each core when one is idle, translating the data into another format that's quicker to work with, condensing the information and getting rid of it before a core sees it, or timing cores to handle certain things at certain times.
 
 It's worth indicating that performance benchmarks are rarely representative of real-world hardware performance. Besides [Goodhart's Law](lawsaxioms.md) regarding benchmarks against competitors, the device would only hit those marks in a perfect environment (e.g., near sub-zero temperatures, brand-new motherboard, zero peripherals). This happens to be true for [networking equipment](networks-computer.md) as well (e.g., in a vacuum on the moon).
 
@@ -133,11 +133,11 @@ This section was updated in 2025.
 
 Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](computers-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
-Because of advances in [3D printing](computers-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
+Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 
 There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](networks-computer.md) component. However, beyond the affordability aspect, it does beg the question whether it's economically worth labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
 
-The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](radio.md) use vacuum tubes anymore for processing information.
+The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
 
 ## Further Learning
 

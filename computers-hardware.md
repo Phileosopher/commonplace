@@ -5,7 +5,7 @@ Anytime we build something as a condition-based cause-and-effect, we've made a "
 
 If someone can physically observe or measure something, they can use a computer to magnify their [purposes](purpose.md). Technologists tend to [go too far](https://trendless.tech/trends/) and veer into making computers a [religion](religion.md), but it's irrefutably true that computers have and can improve any aspect of daily living that can [distilled into math](data.md).
 
-All computers are simply electronic math machines, built up from [logic](logic.md) using two-based numbering and various forms of [programming](programming-basics.md) to accomplish specific purposes.
+All computers are simply electronic math machines, built up from [logic](logic.md) using two-based numbering and various forms of [programming](computers-programming-basics.md) to accomplish specific purposes.
 
 ## History
 
@@ -37,7 +37,7 @@ Since most computers run at the speed of electricity, the input-to-output in mod
 
 Technically, a computer could be assembled with a vast agglutination of wires and transistors, but that's messy. To make it simpler, a "printed circuit board" (PCB) will contain all the wires in pre-configured arrangements. Then, by using a standardized plug or solder point, just about anything can be easily attached to the PCB.
 
-Around the core wiring/logic, the rest is largely protective. Padding, a housing, screws, and metal shielding protect it from getting broken, wet, picking up static or (in some cases) [interference from radio waves](radio.md). For higher-power needs (e.g., a PSU), they can fill the rest of the space with a brown epoxy-like substance called "potting" around the wires to provide protection from electric shock, vibration, or moisture.
+Around the core wiring/logic, the rest is largely protective. Padding, a housing, screws, and metal shielding protect it from getting broken, wet, picking up static or (in some cases) [interference from radio waves](engineering-radio.md). For higher-power needs (e.g., a PSU), they can fill the rest of the space with a brown epoxy-like substance called "potting" around the wires to provide protection from electric shock, vibration, or moisture.
 
 In practice, this means a [hacker](hacking.md) can cobble together just about anything that's conductive and attach it to anything. With the exception of circuitry that's too small to work with (e.g., cell phones), most low-grade electronics are very accessible (such as the [Raspberry Pi](computers-embedded.md).
 
@@ -86,7 +86,7 @@ A processor cycles the information between a control unit and [math/logic unit](
 
 In effect, output is pretty much anywhere where a processor sends information:
 
-- It could send it to a [computer screen](engineering-screen.md) or a [printer](computers-printers.md), which is what most people think of.
+- It could send it to a [computer screen](engineering-screen.md) or a [printer](engineering-printers.md), which is what most people think of.
 - It may output to [audio](computers-speakersmic.md) or activate lights.
 - It might store it to the hard drive for long-term storage between power cycles.
 - It may send the information [across an electrical cable](networks-computer.md) to be *another* computer's input.
@@ -266,7 +266,7 @@ Physically, components typically connect with "ports" to other peripherals (e.g.
 
 - The [design communicates](engineering-design.md) what's supposed to connect and where, as well as any constraints on what *can't* or *shouldn't* connect.
 - However, bad design can sometimes mean multiple types of devices can create conflicts by using the exact same form factor (e.g., most USB cables). This defies the IETF principle to be precise in what you send, and flexible in what you receive.
-- Further, it doesn't mean it's not possible to use alternative cabling. By separating out the wires and carefully attaching them to a different form factor plug, anything can technically plug into anything else, and may only need some [programming](programming-basics.md) (or software) to fix any information transfer problems.
+- Further, it doesn't mean it's not possible to use alternative cabling. By separating out the wires and carefully attaching them to a different form factor plug, anything can technically plug into anything else, and may only need some [programming](computers-programming-basics.md) (or software) to fix any information transfer problems.
 
 This limited information transfer is a huge reason why [operating systems](computers-os.md) are elaborate while also allowing many unrelated people to work with them at once. Each person can [focus exclusively on what they understand](https://trendless.tech/understanding/).
 

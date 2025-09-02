@@ -318,7 +318,7 @@ Optimized Production Technology (OPT) hunts for bottlenecks, then maximizes them
 
 - Considers account priorities and capacities, then calculates the near-optimum schedule and sequence of operations for each system.
   - The entire system must be fine-tuned and predetermined from the beginning.
-  - It's a [computer system](computers.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](programming-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
+  - It's a [computer system](computers.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](computers-programming-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
 - Uses a set of "management coefficients", which are weighted [functions](math-algebra.md) that presume a fixed batch size and use a wide variety of important criteria for data analysis:
   - Ideal product mix, due dates, necessary safety stocks, use of bottleneck machines
   - Inventory levels, product structures, routing, setup/operation timings for *every* procedure of each component, production/transit efficiency, transfer system/plant capacity, work in process, substitutions, overlapping batches, subcontracts, safety stocks

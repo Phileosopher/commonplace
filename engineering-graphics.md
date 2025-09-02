@@ -1,7 +1,7 @@
 
 # How graphics work
 
-Getting computers to display information on a [screen](engineering-screen.md) isn't necessarily easy, and most computers before the 1970's represented information as raw language outputted to a [printer](computers-printers.md).
+Getting computers to display information on a [screen](engineering-screen.md) isn't necessarily easy, and most computers before the 1970's represented information as raw language outputted to a [printer](engineering-printers.md).
 
 The first graphical interface was called Sketchpad, and [was created by Ivan Sutherland in 1963 as part of his PhD thesis](https://www.youtube.com/watch?v=6orsmFndx_o). It essentially involved pressing a pad with a wired stylus while pressing buttons on the side of the screen, which indicated what form the device would draw.
 
@@ -27,7 +27,7 @@ When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080)
 
 ## Rastered pixels
 
-Pixelated screens have been the standard since the 1980's because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](computers-printers.md), so it's easy to migrate from one to the other.
+Pixelated screens have been the standard since the 1980's because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](engineering-printers.md), so it's easy to migrate from one to the other.
 
 The [screen](engineering-screen.md) pulls information from a "screen [memory](computers-memory.md) map", which is a designated part of the RAM set aside for screen information.
 
@@ -69,7 +69,7 @@ Codecs are either "lossy" or "lossless", proportional to how much data is lost d
 
 To keep video files together, they're played synchronously in a container, often alongside [audio codecs](computers-speakersmic.md). It works a bit like a virtual machine, but with *extremely* specific specifications. Some of the most popular containers are MP4, MKV, AVI, FLV, and WEBM.
 
-The pixellation of the [camera](camera.md) represents the upper threshold of a recording, though post-processing software can fill in pixels to give a smoother image.
+The pixellation of the [camera](engineering-camera.md) represents the upper threshold of a recording, though post-processing software can fill in pixels to give a smoother image.
 
 Some containers, such as WMV, can include built-in [DRM](legal-ip.md).
 
@@ -139,7 +139,7 @@ For a long time, "wireframe" models were the only way to capture a 3-dimensional
 
 One of the short-lived divergences from wireframe modeling involved using "voxels" (volumetric pixels) to use a 3-dimensional grid of blocks to capture a game world. It looked awkward, but about as effective as the polygons of the time. However, increasing polygon counts was less CPU-intensive compared to shrinking voxel size, so the trend died quickly.
 
-To compensate for the increased load in graphics, one clever workaround was to use "raycasting", which draws lines out from the 3D-modeled perspective of the user, then only renders the portion of the world that the user actually sees. This can also be coupled with the illusion of "motion blur" caused by [cameras](camera.md) to further cut down on graphics processing requirements.
+To compensate for the increased load in graphics, one clever workaround was to use "raycasting", which draws lines out from the 3D-modeled perspective of the user, then only renders the portion of the world that the user actually sees. This can also be coupled with the illusion of "motion blur" caused by [cameras](engineering-camera.md) to further cut down on graphics processing requirements.
 
 All this additional 3D modeling became labor-intensive for the CPU. So, instead of rendering the graphics inside the software, it became critical to have the rendering handed off to another source. That extra source is either through a separate graphics chip or through an [emulated](computers-distsys-vm.md) graphics chip that pulled from the same CPU.
 

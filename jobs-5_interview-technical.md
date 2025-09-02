@@ -3,7 +3,7 @@
 
 Beyond the in-person interviews endemic to most coding jobs, there is also a nasty set of interviews tied to technical understanding.
 
-Ironically, a technical interview does *not* test one's capacity for [software development](computers-software-design.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](programming-algorithms.md).
+Ironically, a technical interview does *not* test one's capacity for [software development](computers-software-design.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](computers-programming-algorithms.md).
 
 Thus, since it's standard practice in most companies to use a technical interview for software developers, practicing for a coding interview is vital for getting a job, even if it has little to do with the job itself.
 

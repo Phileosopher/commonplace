@@ -28,7 +28,7 @@ What we *can* prove is that light photons behave differently as either a particl
 
 ## Superposition computing
 
-The theoretical possibility of a quantum computer has been around since a 1980 paper on a quantum Turing machine, and has been discussed since 1982. If it *were* to work, it would remove many of the limits of conventional computers, to the same effect that vacuum tubes' transition to silicon have created. In 1996, Lou Grover created an [algorithm](programming-algorithms.md) that could use quantum superpositions faster than conventional Turing-based ones. Specifically, it was better at searching an [unstructured database](database.md) than a conventional computer.
+The theoretical possibility of a quantum computer has been around since a 1980 paper on a quantum Turing machine, and has been discussed since 1982. If it *were* to work, it would remove many of the limits of conventional computers, to the same effect that vacuum tubes' transition to silicon have created. In 1996, Lou Grover created an [algorithm](computers-programming-algorithms.md) that could use quantum superpositions faster than conventional Turing-based ones. Specifically, it was better at searching an [unstructured database](database.md) than a conventional computer.
 
 A quantum computer takes advantage of superpositions and entanglement to create computations. Quantum states can be channeled to create a unique type of computer that doesn't abide strictly by 0s and 1s. Instead, each quantum bit ("qubit") is sitting in a probable state (a "superposition") that has a *likelihood* of 0 or 1.
 
@@ -52,7 +52,7 @@ Quantum computers will always be expensive because they require freezing environ
 
 Qubits are also *very* error-prone. There have been efforts to use additional qubits to correct for errors, but it's a generally fiddly experience because it's working with objects at the very edge of [our scientific understanding](science.md).
 
-Quantum computers can perform dramatically more data than conventional binary machines. The way they do this is by performing *all* possible iterations of a dataset at runtime, rather than the sequential approach that binary computers use. For example, to find a matching database entry, conventional binary computers will sift through the database line-by-line, but a quantum [algorithm](programming-algorithms.md) will search *all* of them at once.
+Quantum computers can perform dramatically more data than conventional binary machines. The way they do this is by performing *all* possible iterations of a dataset at runtime, rather than the sequential approach that binary computers use. For example, to find a matching database entry, conventional binary computers will sift through the database line-by-line, but a quantum [algorithm](computers-programming-algorithms.md) will search *all* of them at once.
 
 In that sense, all [large-scale parallel processing](computers-distsys-enterprise.md) needs can benefit significantly from quantum computers.
 
@@ -60,7 +60,7 @@ At the same time, there are limits:
 
 - While it can *draw* information all at once, it will only be able to output it at the speed of the peripheral (i.e., sequentially). It may get rid of any slowdown in the pipeline *to* the peripheral, but won't speed up output.
 - The noise rate becomes absurdly high after a certain point to where it's unworkable. The only way to fix that is by improving the quantum computers (which is hard when we barely understand why superpositions are what they are), and the only remedy is to run it many times and average out the results. Running a database of 1,000,000 entries into the quantum computer 5,000 times might be the same time and cost as running that same database through a large-scale [distributed system](computers-distsys.md) once.
-- They can't run for long. As of 2022, they can only run 0.00009 microseconds reliably, which is where its [algorithm](programming-algorithms.md) processes all the data.
+- They can't run for long. As of 2022, they can only run 0.00009 microseconds reliably, which is where its [algorithm](computers-programming-algorithms.md) processes all the data.
 - It's difficult to create quantum entanglement states. As of 2021, getting triple-entanglement is possible (i.e., 3 qubits), but the scalability of a quantum computer comes in how many sequential qubits it can work with, and that gets harder for reasons which we haven't begun to comprehend.
 
 Engineers are throwing all *sorts* of ideas at the wall to see if they can get quantum computers to work better:
@@ -80,7 +80,7 @@ On the back-end, a quantum computer will demonstrate an abstraction that allows 
 
 In some ways, it's history repeating itself:
 
-- The 1950s mainframe computers were various [algorithms](programming-algorithms.md) that piped through [assembly language](programming-assembly.md) and circuits, which then expressed through vacuum tubes onto peripherals like printers.
+- The 1950s mainframe computers were various [algorithms](computers-programming-algorithms.md) that piped through [assembly language](computers-programming-assembly.md) and circuits, which then expressed through vacuum tubes onto peripherals like printers.
 - The modern quantum computers are various algorithms that pipe through a wide variety of control modules to manage quantum states and correct errors, which express through qubits onto peripheral CPUs that process the information.
 
 However, there are explorations into new components. One of them is a memory resistor (or "memristor") that can hold electrically activated [memory](computers-memory.md) even without any electric charge involved.

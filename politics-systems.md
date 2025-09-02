@@ -128,7 +128,7 @@ Cons:
   - Nepotocracy - run by [family members](people-family.md) of existing leadership
   - Ochlocracy - run by [mob rule](trends.md) via [intimidation](mind-feelings-fear.md) of authorities
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:
-  - Algocracy - [computer algorithms](programming-algorithms.md) run everything (i.e., programmers have complete rule)
+  - Algocracy - [computer algorithms](computers-programming-algorithms.md) run everything (i.e., programmers have complete rule)
   - Cyberocracy - [computers](computers.md) runs everything (i.e., computer users have complete rule)
   - Nomocracy - the [laws](rules.md) themselves run everything (i.e., lawyers have complete rule)
 

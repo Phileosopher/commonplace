@@ -64,7 +64,7 @@ One of the most effective forms of improved healthcare, though, comes in underst
 
 [Understanding](understanding.md) is critical to all success, and [education](education.md) is the means to that understanding.
 
-The onset of [the internet](browser.md) makes education trivially easy.
+The onset of [the internet](computers-browser.md) makes education trivially easy.
 
 - This goal could easily be rephrased as "Unfiltered/Free Internet for All".
 

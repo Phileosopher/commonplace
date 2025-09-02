@@ -28,7 +28,7 @@ All computers have three main parts:
 
 Everyone who operates a computer is "programming" it:
 
-- Most people connect advanced [video game design](computers-software-gamedev.md), [web design](computers-webdev.md), or [database development](database.md) to the concept of programming.
+- Most people connect advanced [video game design](computers-software-gamedev.md), [web design](computers-sofware-webdev.md), or [database development](database.md) to the concept of programming.
 - However, you're also programming if you use a spreadsheet, [write](language-writing.md) an email, or browse the internet, but with an *extremely* specific and user-friendly scope.
 
 Computers do *precisely* what you tell them to do:
