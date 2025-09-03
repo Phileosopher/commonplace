@@ -52,3 +52,44 @@ Generally, there should be several levels of guides:
 2. The schematic guide, which gives guidance on how to assemble or create the product or process. This can be publicly distributed among lower-ranking members of the group, but should still be protected to avoid losing trade secrets.
 3. The technician guide, which indicates how to [fix](fix.md) the product or [take remedial action](people-customerservice.md). It should either have diagrams for complex elements or indicate where to find them.
 4. The user guide, which should have simple instructions and simple pictures. It should be understandable by a moderately intelligent and literate 10-year-old.
+
+## Procedures
+
+There are only a few good reasons to create procedures:
+
+1. Indicate what everyone already knows to save time for new members.
+2. Indicate what everyone is doing for the purpose of [staying legally safe](legal-safety.md).
+
+If procedure is created without a clear [purpose](purpose.md), it risks contributing into an [oppressive bureaucracy](bureaucracy.md)
+
+- And, if someone is severely obsessed with *making* a procedure without a clear reason, they may be a [technical idiot](https://gainedin.site/idiot/).
+
+Making procedures involves parsing already-known things into language.
+
+1. Divide out individual activities each worker does into discrete, clear tasks.
+2. Sequentially, for each task, explicitly clarify its exact requirements in [writing](language-writing.md).
+   - You don't understand it unless you can tell a completely inexperienced teenager *exactly* how to do it.
+   - Sometimes, the tasks are different when different roles do them, so clarify those as well.
+3. Abstract away all the idiosyncratic details.
+   - If the task *requires* precise actions, make it a [rule](rules.md).
+   - If it's not critical to perform precisely correctly, make it a guideline (or "best practices").
+4. Ask your best workers what they think.
+   - Pull them from their work on a slow period.
+   - Request for them to show how it's wrong, or if you missed anything.
+5. Edit for simplicity.
+   - Jargon *can* be useful for specificity, but it slows down the reading and can make the content difficult enough that nobody will read it.
+6. Once you have a final draft, publish it with a date attached to it.
+7. Routinely (e.g., monthly, yearly), plan a regular review of the entire document.
+   - Preferably, have your best workers review the document.
+   - Make sure the workers are actually *doing* the procedures.
+   - Make sure the procedures in writing are still applicable and sane.
+8. Make a new edit for any obsolete or insane instructions.
+9. Publicly communicate any divergences from previously stated practices.
+   - Before beginning the meeting or message, clarify you will *not* discipline any past-tense violations of the standard.
+   - Often, the instructions were either written poorly enough that the workers didn't understand it or difficult to read.
+   - End the meeting on good news by telling them what you removed from the instructions as well.
+10. Expect [conflicts](people-conflicts.md) and possible re-edits.
+    - If people are [accustomed to the old way of doing things](habits.md), and it isn't creating adverse consequences, let them deep doing it.
+    - If people don't like the change, clearly and candidly ask them why.
+11. Draw extra attention for at least the next few months to divergences from the reviewed tasks from that meeting.
+    - Typically, small [changes](people-changes.md) can ripple outward to directly inspiring *other* changes and creating large-scale effects.

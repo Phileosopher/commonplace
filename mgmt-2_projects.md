@@ -1,5 +1,5 @@
 
-# How to manage projects
+# How to make projects
 
 There are two ways to imagine and plan for a project:
 

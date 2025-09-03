@@ -1,5 +1,5 @@
 
-# How to make teams
+# How to make teams for projects
 
 Unless you're taking over an existing project, you'll likely have to get a [budget](money-3_budget.md) and assemble a team.
 

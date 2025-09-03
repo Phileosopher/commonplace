@@ -1,5 +1,5 @@
 
-# Project Status & Cycles
+# How to track a project and its cycles
 
 When planning, take advantage of the team's natural strengths.
 
