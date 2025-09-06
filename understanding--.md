@@ -2,6 +2,7 @@ there are several ways to see things based on our (specializations)
 1 agriculturally - time delay on actions
 2 industrially - immediate feedback
 3 technologically - low information with magnified work
+NOTE: GOD WORKS TECHNOLOGICALLY, EVEN WHEN WE DON'T SEE IT
 
 managers are 1
 most human and labor work is 2
