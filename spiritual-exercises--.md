@@ -147,3 +147,8 @@ Note which desire most resonates with you and touches a longing to go deeper wit
 Look back over the personal growth planner and your life as a worshiper. Write your score totals below. They reveal areas of desire, neglect and need. Consider who you want to become. For each category, pick one growing edge that engages your desire to become more like Christ. Write it in the box below.
 
 Number the desires in order of importance to you. Attending to the category of your deepest desire, turn to the table of contents where the disciplines are listed under their corresponding heading for WORSHIP, found on pages 7-8. Which discipline peaks your interest? Notice the desire listed immediately beside the name of that spiritual discipline. Which desire resonates with your own desire? When you find a desire that resonates with your own, you have found a practice, relationship or experience that provides you with a way to make space for the God you worship. This spiritual discipline can be a gift to you on your journey.
+
+
+God w/ Man:
+He wants us to be adopted children
+Grace + Faith = Works

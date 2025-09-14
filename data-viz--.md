@@ -177,3 +177,42 @@ Guidelines and resources to create meaningful experiences for Infor's products
 [Magic-trace - High-resolution traces of what a process is doing | Hacker News](https://news.ycombinator.com/item?id=31121319)
 [GitHub - janestreet/magic-trace: magic-trace collects and displays high-resolution traces of what a process is doing](https://github.com/janestreet/magic-trace)
 [magic-trace](https://magic-trace.org/)
+
+## biofabric
+
+[BioFabric](http://www.biofabric.org/)
+displays a network where nodes are depicted as horizontal lines, not as points!
+Take a look at the [Super-Quick Demo](http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html) to see how it works in under 60 seconds.
+[Simple BioFabric Rendered](http://www.biofabric.org/gallery/pages/JustBioFabric.html)
+
+## data visualization community
+
+[Zsolt's blog](https://www.zsolt.blog/?m=1)
+
+[things made thinkable](https://www.thingsmadethinkable.com/)
+
+## data visualizations
+
+[What do you do if you want to showcase your proficiency with data visualization tools in an interview?](https://www.linkedin.com/comm/advice/1/what-do-you-want-showcase-your-proficiency-data-visualization-vy2ae)
+
+[/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+a place for visualizations that effectively convey information
+
+[/r/Infographics](https://www.reddit.com/r/Infographics/)
+all the latest infographics
+
+[/r/funnycharts](https://www.reddit.com/r/funnycharts/)
+funny charts
+software
+[Rating Graph](https://www.ratingraph.com/)
+is an online visualization tool which generates fancy graphs from user ratings (ranging between 1.0 and 10.0) submitted to TV show's Episodes and Movies.
+
+[You’re looking for data modeling software for your business. What features should you prioritize?](https://www.linkedin.com/comm/advice/0/youre-looking-data-modeling-software-your-business-n8tgc)
+
+[A eulogy for Dark Sky, a data visualization masterpiece (2023) | Hacker News](https://news.ycombinator.com/item?id=41109799)
+[A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)
+
+## hive plot
+
+[Mode Analytics](https://community.modeanalytics.com/gallery/hive-plot/)
+example of Hive plot

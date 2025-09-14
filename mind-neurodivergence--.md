@@ -42,3 +42,12 @@ ways to brick a narcissist:
 - ask them what their greatest regret is
 - ask them where they get their authority from
 - call them out on a lie, then assert in so many words that it doesn't matter what you think
+
+narcissist questions:
+what are your insecurities?
+ can't answer
+what are your weaknesses?
+ can't answer
+Single Index Narcissism Scale (SINS)
+to what degree (1-7) do you agree with this statement: "I am a narcissist"?
+ it pegs them because they see no problem with it

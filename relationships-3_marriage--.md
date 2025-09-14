@@ -838,3 +838,12 @@ A few courses I haven't taken:
   - I'd be happy to explore it once it gets approved by a psychological professional.
 - Spark My Relationship (https://sparkmyrelationship.com/) from something similar:
   - The course is not suitable if there is violence, abuse or infidelity in your relationship, or a recent history of such occurrences. Such issues require more direct assistance from a professional than what our course is able to provide.
+
+My marriage had the same breakdown as my dad's and probably everyone's:
+1 life is a Shakespeare sonnet
+2 life gets rhythmic
+3 one partner stops responding the same to something
+4 other partner stops initiating
+5 the responding partner suspects issues, sex life collapses
+6 friction persists until something breaks
+7 life is a Greek tragedy

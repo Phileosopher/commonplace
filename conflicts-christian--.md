@@ -59,3 +59,5 @@ Protestant:
 Catholic:
 - refusal to believe it's all God's grace that saves us
   - if it's His grace, then NOT believing it has no soteriological risk
+
+https://timothylprice.substack.com/p/anabaptism-vs-protestantism-in-simple

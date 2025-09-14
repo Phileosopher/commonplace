@@ -36,3 +36,10 @@ Who's hogging the network? Bandwidth usage on a Linux system
 
 [Repair and Remain (2022) | Hacker News](https://news.ycombinator.com/item?id=41226039)
 [Repair and Remain - Comment Magazine](https://comment.org/repair-and-remain/)
+
+tape is a last resort and only a temporary solution
+- better securement or attachment should come from adhesive or bonding (e.g., welding)
+- it is also unsightly and accrues technical debt
+
+NOTE: BRING UP TECHNICAL DEBT IN THE FIX ESSAY!
+- it's a tech industry term, but applies everywhere
