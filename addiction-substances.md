@@ -240,3 +240,5 @@ Acquiring [social status](image.md)
 - Having many children
 
 Acquiring various [forms of power](power-types.md)
+
+Planning for the future (e.g., [retirement](money-investing.md), [insurance](insurance.md)

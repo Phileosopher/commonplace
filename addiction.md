@@ -71,13 +71,20 @@ Every addict of every substance has a few shared characteristics:
 - Addicts will congregate together in [groups](groups-member.md) that endorse each other and share in the experience of consuming the substance.
 - They'll frequently form [myths and lore](stories.md) around their substance that justify parts of their lifestyle. Some will be [theories](logic.md) that dismiss [human error](humanity.md), while others will validate the ethical qualities of the substance. [Group leaders](groups-small.md) will propagate those myths as fact.
 
+The clearest indication that an addict is simply waiting for another dose of their substance (as opposed to becoming sober) is that they will practice self-discipline for a time, but won't work to build [habits](habits.md) that permanently improve themselves.
+
+An addict is revealed when they are exposed again to their substance after a sustained period without it.
+
+- The addict will relapse and throw out what they've worked on, while the sober-minded will resist the substance.
+- The addict will try to exert control toward that substance, then become very [angry](mind-feelings-anger.md) when they don't get the substance they wanted.
+
 The hope of something is usually far less than its likelihood, so an addict will naturally push out almost everything else that isn't a means to or part of their substance. They'll continue investing more and more into fulfilling the subsance until they start destroying other [components of living well](goodlife.md):
 
 - [Social status](power-influence.md) and [relationships with others](people-4_friends.md)
 - Laws of reality like [diminishing return](results.md) or [others' evil intentions](morality-evil.md)
 - Any [realistic chance](trust.md) they'd actually *get* their substance in the long-term
 
-Even when someone hates a substance (like most late-stage addicts do), its power comes from how it fulfills needs, and any combination of few base sensations drive *all* substance abuse:
+Even when someone hates a substance (like most late-stage addicts do), its power comes from how it creates [certainty](certainty.md), and any combination of few "certain" sensations drive *all* substance abuse:
 
 - Have a quick [thrill](mind-feelings-happiness-perma.md).
 - The need for [new experiences](unknown.md).
@@ -111,49 +118,12 @@ An addict who sold their [soul](humanity.md) to a substance will not find [welln
 
 An addict's [purpose](purpose.md) is the driving force, *not* the substance. If you remove a substance from an addict, but they don't change their purpose from it, they'll stay dry for as long as it takes until the next hit, or they'll migrate to another substance.
 
-*Every* addiction recovery group uses some derivative of the 12-step program made by Bill Wilson and Dr. Robert Holbrook Smith in 1939:
-
-1. Admit you have no power over your substance and can't manage your life anymore.
-2. Come to believe God can restore your sanity.
-3. Decide to give your will and life over to God's care.
-4. Conduct a fearless, thorough personal moral inventory.
-5. Admit to God, yourself, and another person the exact nature of your wrongs.
-6. Become entirely ready for God to remove all those character defects.
-7. Humbly ask God to remove your shortcomings.
-8. Make a list of everyone you've harmed and become willing to make amends with all of them.
-9. Make direct amends to them wherever possible, except when it would injure anyone.
-10. Keep taking personal inventory and promptly admit when you're wrong.
-11. Work to improve your conscious contact with God through [meditation](awareness-meditation.md) and praying, asking only for knowledge of God's will for you and for power to carry it out.
-12. With the spiritual awakening from the first 11 steps, try to carry the message to other addicts and to practice its principles in everything.
-
-These distill into several conditions necessary to break free:
-
-1. Accept we have a problem we can't fix.
-2. Place something else at the center of our lives instead of that substance. Many [religious](religion.md) leaders state that it's a product of our need to be [devoted to God](https://theologos.site/devotion-chaos/). The one advantage of trusting God is that obsession with God creates a secondary obsession with all [reality](reality.md) (i.e., God's [creative work](creations.md), which is the entire universe).
-3. Find [friendship](people-4_friends.md) with supportive people who will *not* drag us back into the lifestyle we want to break from.
-4. Maintain a sense of [meaning](meaning.md) in freeing ourselves in that substance: first by making amends, then [self-improvement](success-1_why.md), then provoking other people to do the same.
-
-Mechanically, the 12 steps are the motivational element for a very specific flow of [habitual](habits.md) shifts:
-
-1. Subdivide the addiction into its component parts.
-   - Break apart each ritual and routine into smaller, more malleable components.
-   - In particular, differentiate any chemical dependency from the ritual (e.g., the nicotine chemical versus tobacco a tobacco product).
-2. Use [self-awareness](awareness.md) to define what you enjoy.
-    - Each part of our ritual is defined by how we derive pleasure.
-    - If you dig deep enough, the pleasure will often have a broad-reaching [emotional](mind-feelings.md) connection from the past.
-    - This is very emotionally draining, and often difficult to parse.
-3. Find a replacement for the undesirable parts of the routine that maintains the original routine.
-    - If you've sufficiently broken things apart, this is easy to find a [creative](mind-creativity.md) replacement.
-      - For example, smoking cigarettes can be replaced with gum for the routine and nicotine patches for the vasoconstrictive experience.
-    - Often, given our social needs, we need some level of human connection when we engage in our substance.
-      - To that end, most 12 step programs provide accountability partners.
-4. Give the entire problem and plan to God.
-    - God will grant the wisdom to see where you're missing something.
-    - God will also grant the strength to carry out the plan.
-5. if you relapse, you missed a part of your [habit](habits.md) you enjoy and need to find it.
+*Every* addiction recovery group uses some derivative of the [12-step program made by Bill Wilson and Dr. Robert Holbrook Smith in 1939](addiction-steps.md).
 
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 
 The only hope for any addict is for them to face their pain directly. This requires taking a sober, blunt look at themselves. This is *not* easy, and the reason they're [enslaved](slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it. In a sense, it's a type of cowardice that keeps them bound by the substance.
 
 However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](humanity-christian.md) when we [decide](decisions.md) to sacrifice everything for another dose of the substance.
+
+Ironically, recovery groups can also become a [culture](people-culture.md) of addiction. Our [identity](identity.md) should persist beyond "being a recovering addict", and the implicit [shame](mind-feelings-shame.md) that comes with the label can prevent someone from finding [meaning](meaning.md) elsewhere.

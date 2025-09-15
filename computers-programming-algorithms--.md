@@ -572,6 +572,8 @@ Data Structures & Algorithm Animations
 
 [Looking For The Logic Behind Logarithms | by Vaidehi Joshi | basecs | Medium](https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda)
 
+[Natural logarithm - Wikipedia](https://en.m.wikipedia.org/wiki/Natural_logarithm)
+
 ## minmax algorithm
 
 [Minimax Algorithm Guide: How to Create an Unbeatable AI](https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai)

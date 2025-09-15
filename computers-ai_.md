@@ -15,7 +15,9 @@ This represents a broad spectrum of implementations:
 
 However, even simple things, such as filling in the text of a sentence you're trying to write, is technically AI as well.
 
-The most popular way of testing any artificial intelligence is with the Turing Test, also known as the imitation game. It involves a human judge with two candidates (one human and the other a computer) hidden behind a barrier. The judge gets notes passed from both, and has to judge which of the two is a computer.
+The term "artificial intelligence" is ubiquitous, but it's largely a [marketing](marketing.md) term: a computer is still a simple [logic machine](logic-cs.md) performing calculations. Whether or not that's "intelligence" depends heavily on your view of [the human soul](humanity-christian.md).
+
+The most popular way of testing any artificial intelligence is through the Turing Test, also known as the imitation game. It involves a human judge with two candidates (one human and the other a computer) hidden behind a barrier. The judge gets notes passed from both, and has to judge which of the two is a computer.
 
 ## History
 

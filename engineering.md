@@ -13,7 +13,7 @@ At the same time, if we don't use it we forget about it. Social trends across th
 
 Above everything else, emgineering *could* be classified into only two domains, though it subdivides into many more:
 
-- [Materials engineering](material.): the [physical objects](science-chemistry.md) used to build stuff
+- [Materials engineering](engineering-materials.md): the [physical objects](science-chemistry.md) used to build stuff
 - [Mechanical engineering](engineering-mechanical.md): the [interaction of those physical objects](science-physics.md) with each other
 
 ## Standards

@@ -43,6 +43,11 @@ Assertiveness : Working WITH People, Not Against Them
 (2017) Dumb Rules That Make Your Best People Want to Quit
 TL;DR — Trust employees like the adults they are
 
+don't try to make them "quiet quit"
+- it is legitimately unethical to make their workplace hell so they quit on their own
+- instead, candidly tell them that they'd do better elsewhere, and that there isn't any real chance of promotion or good pay raises at the company without specific things you wish them to do
+- that way, they have incentive to act, but also may just leave if they can't rise to the challenge
+
 ## conflicts
 
 [Why it's impossible to agree on what's allowed | Hacker News](https://news.ycombinator.com/item?id=39313942)
