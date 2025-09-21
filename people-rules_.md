@@ -145,7 +145,7 @@ One of the most common forms of redistributing who makes the rules comes through
 
 However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
-The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-spcialization.md) for everyone else.
+The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
 
 To the degree people can engage in the voting process, an electoral system gives one specific [type of power](power-types.md) to the public. They can funnel their individually unimportant [decisions](decisions.md) through an appointed leader, who can then make all the decisions.
 
@@ -230,7 +230,7 @@ Everyone in power is either forced to permit [taboo](morality-taboo.md) things o
 
 As a general rule of thumb, fewer well-enforced rules work better than more rules. However, political interests make this very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
 
-A [society](groups-large.md) that grows needs [specialization](jobs-spcialization.md), and its criminal justice system is no different. Without that specialization, the system becomes more complicated and less effective:
+A [society](groups-large.md) that grows needs [specialization](jobs-specialization.md), and its criminal justice system is no different. Without that specialization, the system becomes more complicated and less effective:
 
 1. The rules will broadly apply in a way that won't fit a specific circumstance.
 2. Court cases will add new clarifications and caveats to existing rules.

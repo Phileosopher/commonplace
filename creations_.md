@@ -53,7 +53,7 @@ Every tool's [purpose](purpose.md) represents something like a vitamin, pill, or
 - Pills are solutions to mandatory, unusual needs and wants that almost always require a clear [decision](decisions.md), such as repair work or surgery.
 - Candy are solutions to non-mandatory, [fun](purpose.md) things we don't need, such as video games or recreational reading.
 
-As we gain [understanding](understanding.md) in our preferred [specializations](jobs-spcialization.md), we tend to accumulate things that are more specific and less general. A professional mechanic, for example, will use their wrench set (and oil filter wrench) *far* more than their crescent wrench.
+As we gain [understanding](understanding.md) in our preferred [specializations](jobs-specialization.md), we tend to accumulate things that are more specific and less general. A professional mechanic, for example, will use their wrench set (and oil filter wrench) *far* more than their crescent wrench.
 
 Creations can often be tools designed to make *other* tools, usually based on a philosophical framework. [Computer technology](technology.md), for example, is a [logic-based](logic.md) tool designed to magnify someone else's [purposes](purpose.md). Practical information is an [understanding-based](understanding.md) tool.
 

@@ -38,6 +38,8 @@ If a soul exists distinctly from the body, it only naturally stands that it'd la
 
 If the soul exists, the essence of a person is that soul, and their body is simply the thing the person operates.
 
+APPLICATION: The soul is the only vehicle that we keep after this life, in whatever form that expresses.
+
 ## Soul components
 
 We can't know precisely what a soul *is* (including whether it's simply a component of the body), but we can still identify certain things as being "soul-like" that express onto [reality](reality.md).
@@ -58,13 +60,19 @@ We have many [depicted expressions of self-concept](image.md), which are all bui
 
 It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](decisions.md) more than what we [do](results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
 
+APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will implies they're born, then fostered.
+
 [Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
 
 From a [moral](morality.md) perspective, the soul has plenty of [evil](morality-evil.md). Whether you believe it's in-born or inherited, by the time people can [reason](logic.md), they will do things with at least passive intent to harm others, and with far more capacity than any other animal is capable of performing. It's typically driven by self-interest, but a soul is often not aware of its own moral state, especially when [young](maturity.md). It can be retrained, but [requires the trainers to believe](leftism.md) the moral issue exists in the first place.
 
 No two souls are precisely alike, but *many* overlaps are frequently [universal](humanity-universals.md) to all humanity.
 
+APPLICATION: Humanity doesn't really change as a baseline. People will change individually, but everyone is born with approximately the same [base programming](humanity-universals.md), then adapts to their environment (which includes other humans' interactions). If the environmental stimuli stops, the new people being born will be the same as we've seen for all written history.
+
 Nobody is particularly unique, and not particularly mysterious compared to anyone else, but we all like to think we're more unique or mysterious in some special way. We live to gain that uniqueness (i.e., being important) and find tremendous [meaning](meaning.md) and [identity](identity.md) when others see us as special. Any uniqueness we do perceive or express comes through the [bias](mind-bias.md) caused by [love](people-love.md).
+
+APPLICATION: We are often entitled because we believe we deserve something. In truth, we only deserve things the same as anyone else (meaning we must consider the needs of everyone around us) or by our merit (which is based on [results](results.md) just as much as [intention](purpose.md)).
 
 Any particular human is typically accessible and pleasant-enough to coexist with. However, they become *very* dangerous and unreasonable when [provoked](people-conflicts.md). In [large groups](groups-large.md), any individual capacity for [evil](morality-evil.md) is dramatically magnified, and that capacity is why most [political systems](politics-systems.md) devolve into [dysfunction](mgmt-badsystems.md).
 
@@ -74,7 +82,13 @@ We have an odd tendency to find interest in others' mundane lifestyles. The life
 
 The only measure of human [value](values.md), besides [what we can exploit from them](purpose.md), comes from whatever is in the soul. All the properties of a body are entirely reproducible by anyone else (or even [technology](technology.md) someday). Therefore, while it's possible to indicate someone's value based on [utility](purpose.md), the [love](people-love.md) for a soul is the only way to give that person [inherent value](values.md). Most [religion](religion.md) revolves around the question of humanity's worth in relationship to the rest of [reality](reality.md).
 
+APPLICATION: To not value a soul, while valuing anything else of a person, is to not give them true value.
+
+APPLICATION: We can't directly observe a soul, and the easiest way to discover the value of a soul is through changing the situation that person is in. Make a rich man penniless, or give a low-ranking person ultimate authority. Their value is in the [virtues and goodness](morality.md) they keep or change as the situation shifts.
+
 People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+
+APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 
 As we age and transition through [life stages](maturity.md), we become known (and [know ourselves](awareness.md)) for the [habits](habits.md) we build (and their [consequences](results.md)) *far* more than any motivations for those habits.
 
@@ -96,3 +110,9 @@ Unfortunately, there are far too many logistical failures that almost guarantee 
 - Organic life eventually decays.
 - We have never had control over anything in our essence beyond our bodies.
 - We barely grasp what a "soul" is that creates life, or [its relationship](https://gainedin.site/networks/) with [whatever God is](religion.md).
+
+APPLICATION: The transhumanism movement is doomed to never achieve immortality, mostly because their proponents haven't sufficiently grasped how the human soul works.
+
+- Since many of them are naturalists, they consider the soul, brain, mind, and psyche to be synonyms.
+- Without knowing the raw mechanisms of how we're built with absolute [certainty](understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](fix.md) humanity.
+- It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](trust.md) which are difficult to easily define but easy to [believe in](understanding-certainty.md).

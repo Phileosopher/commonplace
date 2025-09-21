@@ -357,6 +357,12 @@ Inspect the fluids monthly and keep them filled:
 
 As soon as you see a problem, fix it, since tiny problems can quickly become expensive to repair later.
 
+If you see smoke coming from the exhaust, the color can give you some indication of what's wrong:
+
+- Black smoke means the engine is burning too much fuel ("running rich").
+- White smoke usually means coolant is burning inside the engine, which is a *very* bad problem (likely a blown head gasket), and will mean the engine will overheat.
+- Blue or gray smoke is because the engine is burning oil, which often comes from a leak into the combustion chamber, and could come from many places (e.g., leaky valve seals, bad piston rings). The vehicle may also shake more than normal when idle or misfire when starting the car.
+
 If you're willing to research, you can swap out most parts on your car *without* a garage full of equipment.
 
 - Once you learn how, brakes, oil, air filters, and spark plugs are easy to change.

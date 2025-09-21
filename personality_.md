@@ -65,7 +65,7 @@ Intellect can be *very* reliably measured with IQ tests that measure a person's 
 
 Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
 
-One aspect of intelligence that magnifies society's [inequality](jobs-spcialization.md) comes through [technology](technology.md). Intelligent people naturally understand technology more, meaning they have more [power](power.md) proportionally to the power of that technology.
+One aspect of intelligence that magnifies society's [inequality](jobs-specialization.md) comes through [technology](technology.md). Intelligent people naturally understand technology more, meaning they have more [power](power.md) proportionally to the power of that technology.
 
 * * * * *
 
@@ -197,7 +197,7 @@ Events deliver a specific, measurable amount of emotional severity from how stro
 
 ## Differences
 
-Personality differences can be frustrating, but they're absolutely necessary because each personality is a broadly formed solution to a vast set of problems. No single person is equipped for every situation, and the wide variety of personalities gives different approaches to handling the complex [specializations](jobs-spcialization.md) required to [live well](goodlife.md).
+Personality differences can be frustrating, but they're absolutely necessary because each personality is a broadly formed solution to a vast set of problems. No single person is equipped for every situation, and the wide variety of personalities gives different approaches to handling the complex [specializations](jobs-specialization.md) required to [live well](goodlife.md).
 
 High openness to experience must respect [convention](habits.md) and [tradition](culture.md), and low openness to experience must accept new experiences and take on [new risks](socialrisk.md).
 
@@ -261,7 +261,7 @@ Beyond that, there are a wide variety of mixtures when these 5 base components f
 - Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](people-changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
 - The [high-risk](socialrisk.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
 - [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, they tend to spend less time pondering and run society instead.
-- Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-spcialization.md) crime can be much broader on the range of conscientiousness.
+- Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-specialization.md) crime can be much broader on the range of conscientiousness.
 - [Religious](religion.md) leaders (except for [cults](culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](trends.md) religions often having high openness to experience and at least moderate extraversion as well.
 - Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](gender.md)).
 - People who foster plenty of nostalgia tend to foster [tradition and convention](habits.md), which requires high agreeableness, high conscientiousness, and low openness to experience.
@@ -301,7 +301,7 @@ Proportional to our *actual* agreeableness, our actions with society's responses
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
 
-Most modern [non-medication](body-4_health.md) psychotherapy is devoted to exploring and unpacking [awareness](awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-spcialization.md) would collapse (or at least [restructure](trends.md)) if everyone did it at once.
+Most modern [non-medication](body-4_health.md) psychotherapy is devoted to exploring and unpacking [awareness](awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](trends.md)) if everyone did it at once.
 
 Only a few methods work to "integrate" a shadow, and every healthy solution uses at least some of them, but even the *methods* that resolve the problem are highly controversial:
 
@@ -332,7 +332,7 @@ These personality archetypes frequently ripple outward to create an entire natio
 - Japan is a fork of risk-taking Chinese who left on ships to find the Fountain of Youth from a mad king's edict. They represent some of Asia's hardest-working and innovative people.
 - Most of the Middle East is made of close [family](people-family.md) ties, and it demonstrates certain similarities across the entire region.
 
-Within [society](jobs-spcialization.md), [technology](technology.md) means a higher requirement for the openness to experience dimension, but also comes with more opportunities to [succeed](results.md). This becomes a dramatic political issue among society, and especially impacts people with high conscientiousness and low openness to experience, since their unemployment will create a devastating lack of [meaning](meaning.md) without any [solutions](mind-creativity.md) in sight.
+Within [society](jobs-specialization.md), [technology](technology.md) means a higher requirement for the openness to experience dimension, but also comes with more opportunities to [succeed](results.md). This becomes a dramatic political issue among society, and especially impacts people with high conscientiousness and low openness to experience, since their unemployment will create a devastating lack of [meaning](meaning.md) without any [solutions](mind-creativity.md) in sight.
 
 * * * * *
 
@@ -406,8 +406,8 @@ We maintain a public false self alongside our latent shadow self, and most peopl
 
 People who integrate their shadow can be terrifying for those who haven't. They have, in a way, transcended to another [frame](image.md) of existence where their [identity](identity.md) is only contained in who they are instead of the [environment](reality.md) they're in. This arrangement makes it *very* difficult to exercise [raw power](power-types.md) over them, and they can only be influenced via [persuasion](influence.md).
 
-We can adapt dramatically to our environment, but we'll never like certain things. Each person has different preferences, and those preferences are critical to understanding ourselves and others. It's always better to delegate and [specialize](jobs-spcialization.md) than try to be an all-in-one person for all situations.
+We can adapt dramatically to our environment, but we'll never like certain things. Each person has different preferences, and those preferences are critical to understanding ourselves and others. It's always better to delegate and [specialize](jobs-specialization.md) than try to be an all-in-one person for all situations.
 
 Nation-states' interactions are large-scale versions of individual interactions from how much [family](people-family.md) defines personality, which is why national [stereotypes](symbols.md) exist.
 
-To make a healthy and diverse group, *all* the personalities must be represented, which is easiest by drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-spcialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](socialrisk.md) advantages.
+To make a healthy and diverse group, *all* the personalities must be represented, which is easiest by drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-specialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](socialrisk.md) advantages.

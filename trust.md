@@ -60,9 +60,13 @@ To reconcile between reality and our copy, we have a few sources that validate w
 
 Even when we're 99.99999% certain of things, we still must [contend](conflicts-inner.md) with an unlikely 0.00001%. Much of our [identity](identity.md) comes from a few ways we handle that highly unlikely chance we're wrong, and we are forced to resolve that tiny bit of [uncertainty](unknown.md) if we ever wish to use that information for anything.
 
+APPLICATION: Even when we act with [certainty](understanding-certainty.md), we're always taking a type of [risk](safety.md).
+
 This isn't an isolated experience in one's mind, however. Other people may not [see](understanding.md) the way we do, and our [culture](culture.md) tells us how we're supposed to [think](understanding.md) and [believe](understanding-certainty.md). We will agree with them proportionally to how much our [personality](personality.md) is willing to consent to others' values over our own.
 
 This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
+
+APPLICATION: Since we must trust things constantly, we must *never* declare anything as 100% certain unless we'd unflinchingly give our lives for that premise.
 
 ## Trust issues
 
@@ -103,9 +107,13 @@ To understand how bound to trust we are, try to prove with absolute certainty th
 
 Frequently, people with trust issues will attempt to tear down *all* forms of trust. It's the same obsession whether they're trying to manage their [understanding](understanding.md) of [science](science.md) or [religion](religion.md). They're powering their decisions by [past trauma](hardship-ptsd.md) and don't want to accept that their need for [certainty](understanding-certainty.md) has been unmet.
 
+APPLICATION: Be careful when dealing with people in occupations that require trust issues (e.g., [cybersecurity](computers-cysec.md), quality control, [law enforcement](legal-safety.md)), as well as people with [pastimes](purpose.md) revolving around [survival](hardship-disaster.md). They're all finding useful [purposes](purpose.md) for [past trauma](hardship-ptsd.md), so they may misuse it.
+
 The journey to find something "trustworthy" is fruitless. Post-modern philosophers speculate with many ideas on how to do it, but never get it right because trust glues *all* our [understanding](understanding.md) together. At its core, we can't verify where or what our subconscious thoughts are.
 
 Further, the quest to clarify certainty isn't very reliable. For every question we answer, we're faced with more questions proportional to our [curiosity](meaning.md) or [fear](mind-feelings-fear.md). We literally believe we understand to the degree that we don't [desire](purpose.md) to know about something anymore.
+
+APPLICATION: Some of the most brilliant minds on the planet are [miserable](mind-feelings-happiness.md) because they can't trust [basic realities](reality.md), but [over-trusting the wrong things](image-distortion.md) can *also* lead to utter destruction.
 
 ## Downsides
 
@@ -118,7 +126,11 @@ When we trust things, we often have trouble seeing adverse consequences of it, f
 
 Counter-intuitively, when we're *not* [certain](understanding-certainty.md) of something but trust it anyway, we're often *more* susceptible to overlooking its downsides because we don't want to lose our [investment](results.md) of time or thought.
 
+APPLICATION: Often, people with trust issues will try to overcompensate with [action](results.md). Passionate zealots are often *less* trusting of their beliefs than the declared "moderates" of an ideal, though the [storytellers](stories-storytellers.md) will obscure this fact.
+
 To the degree we trust something, we don't observe the costs of believing it. Most notably, we lose the [power](power-types.md) to move our opinions around about that trusted element without a major [inner conflict](conflicts-inner.md).
+
+APPLICATION: Whether you choose to change your mind about something or not, intimately understand *what* you are trusting and why.
 
 One of the largest indicators of over-trust arises when we see something that doesn't conform to our view of the world. When we're [immature](maturity.md) or suffering [past trauma](hardship-ptsd.md), we'll try to "[fix](results.md)" that thing to make it conform, but we're usually [misunderstanding](understanding.md) [reality](reality.md) and often creating problems for ourselves.
 
@@ -128,3 +140,5 @@ One of the largest indicators of over-trust arises when we see something that do
 - [Government benefits](groups-large.md) that require [taxes](rules-methods.md) to fund.
 - Offering [safety](safety.md) in exchange for [civil liberties](decisions.md).
 - Giving a [contract](people-contracts.md), but adding things in the fine print like termination clauses and non-compete requirements.
+
+APPLICATION: To attain "[the good life](goodlife.md)", we must balance our trust through [decisions](decisions.md) and [actions](results.md) toward the correct people and things.

@@ -1,4 +1,6 @@
 
+# What slavery is
+
 Slavery is when someone has [power](power.md) over someone against their [will](purpose.md). A slave's master will be able to control what someone [says or does](results.md).
 
 Most references to slavery have historically been the concept of owning people, with most instances being:
@@ -6,7 +8,7 @@ Most references to slavery have historically been the concept of owning people, 
 - Domination via [war](people-conflicts-war.md), with the loser becoming the property of the winner.
 - That person was born into an owned family.
 
-A slave, however, is anyone unable to make free [decisions](decisions.md).
+A slave, however, is anyone unable to make free [decisions](decisions.md) to the scope of [their rights](people-boundaries.md).
 
 While we can debate the extent of "freedom", slavery in modern civilization is still commonplace:
 
@@ -58,7 +60,7 @@ Often, the word "slave" has implications of forced labor, separating [families](
 
 The institution of slavery in practice, however, is merely an unfeeling structure that cuts off opportunities purely because of a social status. The only people worth declaring [evil](morality-evil.md) are the direct slaveholders and that [society's](culture.md) acceptance of the practice. However, depending on the culture and [economic necessity](economics.md), [good people](morality.md) may still own slaves.
 
-Generally, the actual value people treat their enslaved subjects is contingent on [economics](economics.md). Historically, slaves who had highly valuable [specializations](jobs-spcialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
+Generally, the actual value people treat their enslaved subjects is contingent on [economics](economics.md). Historically, slaves who had highly valuable [specializations](jobs-specialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
 
 Hypothetically, if everyone were enslaved to a perfectly [good](morality.md) and [loving](people-love.md) master, the arrangement would be mutually beneficial. That master would take care of every need, and the slaves would be [satisfied](mind-feelings-happiness.md) and [live well](success-1_why.md).
 
@@ -89,22 +91,22 @@ In one way or another, we are always [at risk](safety.md) of something or someon
 
 ## Application
 
-The current [fashions](trends.md) of modern society treat slavery discussions as [taboo](morality-taboo.md), but the concept is farther-reaching than most people realize.
+APPLICATION: The current [fashions](trends.md) of modern society treat slavery discussions as [taboo](morality-taboo.md), but the concept is farther-reaching than most people realize.
 
-Most slave owners don't like to consider their activities as slavery. Far too often, the word [debt](money-2_debt.md) or [coercion](power.md) is a more [fashionable](trends.md) term to enslave people, [groups](groups-small.md), and [entire countries](https://en.wikipedia.org/wiki/Haiti).
+APPLICATION: Most slave owners don't like to consider their activities as slavery. Far too often, the word [debt](money-2_debt.md) or [coercion](power.md) is a more [fashionable](trends.md) term to enslave people, [groups](groups-small.md), and [entire countries](https://en.wikipedia.org/wiki/Haiti).
 
-The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories.md) people interpret about it.
+APPLICATION: The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories.md) people interpret about it.
 
-The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](culture.md) of origin.
+APPLICATION: The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](culture.md) of origin.
 
-Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
+APPLICATION: Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
 
-In free societies, slavery typically comes from [perspective](image.md) more than [reality](reality.md). If everyone were to change their attitude to [self-ownership](success-1_why.md), millions of slaves would be freed overnight.
+APPLICATION: In free societies, slavery typically comes from [perspective](image.md) more than [reality](reality.md). If everyone were to change their attitude to [self-ownership](success-1_why.md), millions of slaves would be freed overnight.
 
-Submitting to slavery through [fear](mind-feelings-fear.md) of a powerful master might be worse than dying, so [calculate carefully](decisions.md).
+APPLICATION: Submitting to slavery through [fear](mind-feelings-fear.md) of a powerful master might be worse than dying, so [calculate carefully](decisions.md).
 
-Slavery is ubiquitous, even if we don't use that specific word, and [human nature](humanity.md) means it'll always be with us barring something that would directly change human nature.
+APPLICATION: Slavery is ubiquitous, even if we don't use that specific word, and [human nature](humanity.md) means it'll always be with us barring something that would directly change human nature.
 
-Slavery is always [wrong](morality.md), with the single exception of when an individual is incapable of tending to their personal needs. This is why we have no problem with guardianship of children or the [extremely elderly](maturity.md).
+APPLICATION: Slavery is always [wrong](morality.md), with the single exception of when an individual is incapable of tending to their personal needs. This is why we have no problem with guardianship of children or the [extremely elderly](maturity.md).
 
-This temptation to own slaves is so that profound the concept of equity ownership (i.e., owning an [imaginary person](image-modern.md) defined as a "corporation") is effectively slavery without an actual slave.
+APPLICATION: This temptation to own slaves is so that profound the concept of equity ownership (i.e., owning an [imaginary person](image-modern.md) defined as a "corporation") is effectively slavery without an actual slave.

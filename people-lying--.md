@@ -13,3 +13,4 @@ calling out their lies is a waste of time
   3. ask them how their story can be true when a fact you are entirely certain of is true
      - "Oh, you won silver in curling in last year's Winter Olympics? I have a cousin who won the bronze! What did you think of the Winner's Lounge?"
 
+if the eye thing were true, interrogations would take seconds, not days or weeks

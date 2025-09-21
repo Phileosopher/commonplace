@@ -13,6 +13,30 @@ Human nature has certain [universal qualities](humanity-universals.md), and God 
 
 Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 years. Eventually, they'll keep building healthier [habits](habits.md) and put their spiritual infancy behind them. However, it's a weird time, and it has shown itself with the same silly representations across two millennia.
 
+## Old idols
+
+Preoccupation with at least one of the four major idols ([1 John 2:15-16](https://biblehub.com/bsb/1_john/2.htm)):
+
+1. [honor/reputation](image.md)
+2. [money](money-1_why.md)
+3. [power](power.md)
+4. [comfort](mind-feelings-happiness.md)
+
+This will show itself through how they prioritize their life, some examples:
+
+- Aspiring [entrepreneur](entrepreneur-1_why.md): money/power/honor
+- Aspiring [executive/ceo](mgmt-1_why.md): money/power/honor
+- [Intellectual](understanding.md): power
+- Worship of their [body's strength](body-3_exercise.md) (power)
+- Worship of their [body's appearance](people-2_image.md): honor
+- Aspiring to be religious or a celebrity: honor
+- Drug addict: comfort
+- Game addict: comfort/power
+- Lazy: comfort
+- [Middle management](mgmt-middle.md): comfort/honor
+
+(closely aligns with lust eyes, lust of flesh and pride of life)
+
 ## Odd doctrines
 
 [Anti-denominational](history-church.md) sentiments.

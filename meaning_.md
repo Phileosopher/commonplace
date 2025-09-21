@@ -62,7 +62,7 @@ Once we've attained something, we're guaranteed to get bored. The only way we'll
 
 Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
 
-Too much [specialization](jobs-spcialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
+Too much [specialization](jobs-specialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 

@@ -22,6 +22,8 @@ We only tend to notice addicts when they're *more* addicted than us. Below a cer
 
 Cultures will frequently share similar addictions, so most people end up believing themselves to be generally free of addiction to a substance while they cling desperately to something they never thought of as an addiction alongside their peers.
 
+APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries.md) them, sometimes because it's [culturally](culture.md) accepted, but must stay aware of their substances when dealing with them.
+
 If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](culture-cults.md).
 
 ## Transitioning
@@ -123,6 +125,8 @@ An addict's [purpose](purpose.md) is the driving force, *not* the substance. If 
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 
 The only hope for any addict is for them to face their pain directly. This requires taking a sober, blunt look at themselves. This is *not* easy, and the reason they're [enslaved](slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it. In a sense, it's a type of cowardice that keeps them bound by the substance.
+
+APPLICATION: As people devolve into substance abuse, they care about you progressively less. If you [love](people-love.md) them, release them to their desires to hasten their decline and, therefore, hasten any chance of recovery.
 
 However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](humanity-christian.md) when we [decide](decisions.md) to sacrifice everything for another dose of the substance.
 

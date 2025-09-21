@@ -127,7 +127,7 @@ Thus, governments issue uncollected [debts](money-2_debt.md) as a tradable commo
 
 ## Specialization
 
-People instinctively separate tasks and take [specialized roles](jobs-spcialization.md) they prefer (industries and occupations).
+People instinctively separate tasks and take [specialized roles](jobs-specialization.md) they prefer (industries and occupations).
 
 Economies are immensely diverse. People of all types who would normally *never* [associate](people-friends.md) with each other voluntarily will constantly and frequently meet to trade.
 
@@ -184,7 +184,7 @@ When something becomes illegal or too difficult to do legally, but people still 
 
 Black market risks make items *much* more profitable because there's a higher chance of death or loss from performing any services with them. Plus, people can use black market transactions to extort or blackmail.
 
-Unlike normal markets regulated by governments and public attention, the only [rules](rules.md) in black markets are [strength](power.md) and secrecy. Anything that's made illegal slows civilization's ability to freely [develop](jobs-spcialization.md) in that area.
+Unlike normal markets regulated by governments and public attention, the only [rules](rules.md) in black markets are [strength](power.md) and secrecy. Anything that's made illegal slows civilization's ability to freely [develop](jobs-specialization.md) in that area.
 
 Generally, shutting down black market activities or buying from them (i.e., to get those things off the market) will make that market pricier and give more incentive to sell within it.
 
@@ -255,7 +255,7 @@ In any [disaster](hardship-disaster-1_short.md), the risks to civilization's col
 
 Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](decisions.md) and how easily [power](power.md) can shift.
 
-Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-spcialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
+Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
 
 Emergent order (aka "growthist" or "supply side economics") is when each person is given freedom to manage themselves. The prevailing belief is that self-interested individuals will [pursue](purpose.md) their self-interest if they're given freedom to benefit from it. From the outside, emergent order appears as a chaotic swarm of unrelated individuals doing unrelated things. But it's an organized type of chaos that somehow works, even though it's difficult to [measure](math.md).
 
@@ -411,7 +411,7 @@ Frequently, governments will set price controls on various domains, which can cr
 
 ### Trade
 
-The domains of trade come from the fact that each nation has the means to [specialize](jobs-spcialization.md) in certain goods and services. If everyone had the unrestrained freedom to trade with each other, everyone would collectively benefit.
+The domains of trade come from the fact that each nation has the means to [specialize](jobs-specialization.md) in certain goods and services. If everyone had the unrestrained freedom to trade with each other, everyone would collectively benefit.
 
 However, a nation's leadership [doesn't always want completely free trade](mgmt-badsystems.md). By placing tariffs and laws that make trade more difficult, they can protect themselves from losing [power](power.md). For that reason, the [discussions](people-conversation.md) and [optics](image.md) about free trade are always more prominent than actual [legislation](rules.md) that promotes it.
 

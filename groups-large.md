@@ -176,3 +176,55 @@ Some of them will perform noble achievements in response to the challenge, but m
 However, if a large group *doesn't* have a purpose outside itself via competition, it'll start getting restless and destroy things.
 
 In short, large groups must always be [acting](results.md) toward a fixed [purpose](purpose.md) they [believe](understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.
+
+
+
+## APPLICATION: groups-large
+
+APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
+
+APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
+
+APPLICATION: Since [fear](mind-feelings-fear.md) binds people together, and fear is rarely subtle, most massive groups tend to operate as diametric opponents of one another (e.g., [conservative/liberal](politics-conservativeliberal.md), [Christian/secular](religion.md), [Star Wars/Star Trek](stories.md))
+
+APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
+
+APPLICATION: Large group leaders must juggle *far* too many competing [values](values.md) and [subcultures](groups-small.md) to maintain much sense of [order](unknown.md). For this reason, groups that scale become [ever-increasingly awful](mgmt-badsystems.md) at doing what they were originally [purposed](purpose.md) to do.
+
+APPLICATION: An executive needs *many* specific background elements that allow you to [perform](results.md) and [relate](power-influence.md):
+
+- Change many job functions across many jobs, but stay in one industry.
+- Have either over a decade of relevant management experience or an MBA from a [pedigreed university](education.md).
+- Live in a large metropolitan melting pot (e.g., New York City, Mumbai, Singapore).
+- Avoid living in culturally homogenous metro areas (e.g., Houston, Washington DC, Madrid).
+- Gain a slight advantage by being [male](gender.md).
+
+APPLICATION: To determine a [high-quality](values-quality.md) leader, observe someone's [small-group leadership](groups-small.md) first, which often goes back to their [parenting skills](people-family.md).
+
+APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](image.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](image.md) of the group's [goals](purpose.md).
+
+APPLICATION: Most large organizations create homogeneous experiences to promote a shared [image](image.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
+
+APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](image.md), often with nearby assistants performing [research](understanding.md) for them.
+
+APPLICATION: Over time, large groups must make dramatic [decisions](decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
+
+APPLICATION: People individually can only handle so much [change](people-changes.md) over a small window of time before they lose their mind. Organizations are the same, proportionally to the aggregate of their [openness to new experiences](personality.md) minus their failings in [communication](people-conversation.md).
+
+APPLICATION: [Gossip travels quickly](stories-storytellers.md), so an organization that [lies](image-distortion.md) will rapidly become [dysfunctional](mgmt-badsystems.md).
+
+APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resident of the USA to become the following:
+
+1. [Married](relationships-3_marriage.md) with 2-3 [children](parenting-2_children.md)
+2. [College](jobs-college.md) graduates with a [student loan](money-2_debt.md)
+3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
+4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buysell.md)
+5. [Investing](money-investing.md) into a retirement account, preferably a 401(k) or 403(b)
+6. Generally [unaware](awareness.md) of the above
+
+APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
+
+APPLICATION: There are only two ways to make large-scale changes in a large group:
+
+1. Sacrifice your [reputation](image.md) and [influence](power-influence.md) in a spectacular public display in the hopes of influencing others toward your [beliefs](understanding-certainty.md) after you're gone.
+2. Find like-minded people and break off with them as an [entirely separate group](groups-small.md), which is only possible if you have the [power](power.md) to do it (or the [creativity](mind-creativity.md) to find a way).

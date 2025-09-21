@@ -15,6 +15,8 @@ Beliefs are how we establish things when we can't really know but have to make s
 
 We start to believe when we [value](decisions.md) one thing as [true](reality.md) over another thing.
 
+APPLICATION: The only way we can prepare our minds for maximum [understanding](understanding.md) is by opening it up to *all* possibilities. While it's uncomfortable, all we have to do is convert every inner statement into a question to create an [inner conflict](conflicts-inner.md) about it.
+
 As children, we start with 100% certainty about various things, but our beliefs become a spectrum as we gain [understanding](understanding.md):
 
 1. A [deterrence](safety.md)-based [fear](mind-feelings-fear.md) of worse alternatives.
@@ -35,7 +37,7 @@ We can only know a small set of facts without needing *any* belief:
 2. [Pain](mind-feelings-fear.md), in whatever form it takes, is real.
 3. [Feelings](mind-feelings.md) exist, in whatever form they express as.
 
-Everything else, from the idea of a [perfect circle](math.md) to what we understand behind others' [language](language.md), has degrees of uncertainty that we gloss over with [habitual](habits.md) [expectations](imagination.md):
+Everything else, from the idea of a [perfect circle](math.md) to what we understand behind others' [language](language.md), has degrees of uncertainty that we gloss over with [habitual](habits.md) [expectations](imagination.md).
 
 Both fools *and* wise people become more certain as they gain [understanding](understanding.md). The major difference is the scope of where they claim that certainty. Wise people claim certainty on specific things and expand outward, while fools start with a broad claim that applies to many more things than it should.
 
@@ -70,11 +72,13 @@ In [decisions](decisions.md), we can only trust things we see as the same or bet
 
 Over our lives, we start creating a [purpose](purpose.md)-based hierarchy of what we can trust:
 
-- A person may trust their spouse more than anyone else, but will still trust themselves over their spouse on [trade-specific knowledge](jobs-spcialization.md).
+- A person may trust their spouse more than anyone else, but will still trust themselves over their spouse on [trade-specific knowledge](jobs-specialization.md).
 - A lawyer is trustworthy to manage a legal situation, but not necessarily on [moral](morality.md) matters.
 - Typically, the domain of strangers' knowledge is more vast than friends', though their intentions aren't as clear.
 
 We decide with a conviction proportional to the clarity of our [understanding](understanding.md). To [actually create results](results.md), we must stop thinking about the matter at some point to avoid constantly second-guessing ourselves.
+
+APPLICATION: We *must* believe things when we're not fully certain. The volatile nature of life means [leaders](groups-small.md) and [artists](mind-creativity.md) venture into less certain places than the rest of society. So, [influence](power-influence.md) loosely correlates with the ability to trust.
 
 We don't always remember what we learned and its context, so we trust much of what we do from experience:
 
@@ -88,11 +92,19 @@ Occasionally, we make bad decisions we think are good. We'll invest a *ton* of [
 
 When this happens, we suffer a type of cognitive dissonance where we trust two incompatible things at once. A crisis of faith is when we become aware of that conflict because an [expectation](imagination.md) failed with the one that we trusted more.
 
+APPLICATION: To find someone's actual opinion, ask for their advice for [resolving a problem](fix.md), or what they think everyone else believes.
+
 We tend to have an [inner conflict](conflicts-inner.md), but many people with [trauma](hardship-ptsd.md) will [mix their trauma into what they believe about others' lives](people-boundaries.md). Some [political systems](leftism.md) and [institutions](mgmt-badsystems.md) take advantage of this.
 
 Eventually, a person must decide: accept the new information they perceive, or believe something is "testing" their faith. Either way, they're rebuilding their [story](stories.md), either by changing the [logical](logic.md) conclusion (aka "changing their mind") or adding/removing premises.
 
+APPLICATION: Hypnosis is all around us (especially through our [past trauma](hardship-ptsd.md), [public media](creations.md), and [politics](leftism.md)), but we can use it for our [purposes](purpose.md). By repeating something specific, we can channel our subconscious (e.g., "I will find a new job by the end of March."). It's [the secret to most success](success-2_attitude.md).
+
+APPLICATION: Everyone, even [leaders](groups-small.md), are subject to changing their views. This can create large-scale consequences for everyone, especially if it's changing a [core view](philosophy.md).
+
 When our faith is tested, but we still hold on, we call that "hope". There's a fine line between [sensible](logic.md) hope and blind hope.
+
+APPLICATION: Conviction requires focus, so smarter people (who can often [see complexities](understanding.md)) are often lousy at sticking to convictions, which often makes them terrible leaders.
 
 If that person starts denying reality to "prove" something, they're removing premises. Once this becomes [habitual](habits.md), they will resort to magical thinking, which is interpreting the world to be what they [imagine](imagination.md) instead of [what it is](reality.md). Magical thinkers tend to share a few traits:
 
@@ -101,6 +113,20 @@ If that person starts denying reality to "prove" something, they're removing pre
 - If something is outside their [understanding](understanding.md), it doesn't exist or must be purged.
 - In their [conflicts with others](people-conflicts.md), they presume they're 100% correct, and will often shift their thoughts if they've been [logically](logic.md) convinced.
 
+APPLICATION: Magical thinking exists proportionally to how self-trusting someone is, which frequently comes with intelligence. Thus, there are *tons* of magical thinkers in fields with intelligent people like [politics](politics-systems.md), [academia](understanding.md), and [computer programming](computers-programming-basics.md) who won't acknowledge additional elements of [reality](reality.md) that they can't [know](understanding.md):
+
+- Many doctors believe the body's healing processes to be strictly mechanical and often neglect the psychosomatic [power](power.md) we possess through our [happiness](mind-feelings-happiness.md) and beliefs.
+- Most scientists are religiously [atheist](religion.md), but claim to be non-religious.
+- When large groups have a [procedure or policy](results.md) they deem necessary, they'll become [corrupted](mgmt-badsystems.md) while trying to maintain it.
+
+APPLICATION: [MLM](marketing-mlm.md), gambling, and lotteries [appear](image.md) to be ubiquitous because people are deceived into expecting tremendous wealth. In reality, they engage in those things because they *hope* for tremendous wealth from those things, and find [meaning](meaning.md) in a journey that's rarely fulfilled.
+
 If we choose to listen to the [feeling](mind-feelings.md) of distrust, we'll disbelieve what we were [trained](understanding.md). We'll enter a type of "agnosis", where we'll live in disbelief about a broad range of related concepts. It can sometimes span a subject, but other times can possess everything we've *ever* known.
 
-Since we trust our [habits of thought and action](habits.md), the only cure to prevent a crisis of faith from even starting is to continually [revisit old habits](https://adequate.life/habits/) and [beliefs](awareness.md).
+APPLICATION: While extremists are typically the most outspoken people of a [group](groups-member.md), they often don't [understand](understanding.md) the thing they're [promoting](marketing.md). They're typically acting off [trauma](hardship-ptsd.md) and magical thinking, but devout believers in a thing don't really *need* to convince others to [feel](mind-feelings.md) the thing is [true](reality.md). Disagree with them and closely observe [what they disagree over](people-boundaries.md).
+
+APPLICATION: Hope is based around a [purpose](purpose.md), so if someone feels hopeless, they're failing to see how a thing can accomplish a purpose. Understanding that purpose is key to understanding if something *is* hopeless.
+
+Since we trust our [habits of thought and action](habits.md), the only way to prevent a crisis of faith from even starting is to continually [revisit old habits](https://adequate.life/habits/) and [beliefs](awareness.md).
+
+APPLICATION: It's extremely difficult to change a person's opinions. The only way to do this is to [influence](power-influence.md) them with a compelling [story](stories.md) about an alternative opinion, then wait.

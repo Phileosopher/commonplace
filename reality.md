@@ -9,6 +9,8 @@ Compared to what we [imagine](imagination.md), we can't easily change reality. W
 
 Finding precise facts within reality is difficult. This is because the [purpose](purpose.md) we use to perceive and do something within reality will *profoundly* [define how we understand and perceive reality itself](image.md).
 
+APPLICATION: We shouldn't be hasty in judging something as reality, since we could be wrong. We also *should* be quick to downplay our opinions of what we perceive.
+
 The mechanism of cause-and-effect exists in various forms beyond human perception (though [even *that* is hotly debated](glossary-philosophy.md)):
 
 1. Physical cause and effect (e.g., a ball rolling across the ground).
@@ -67,9 +69,15 @@ Good facts are often difficult to find. Usually, we must [purpose](purpose.md) o
 
 To find good facts, we require hefty amounts of [analysis](logic.md) to process our [understanding](understanding.md), as well as [reaffirming truths we already know](understanding-certainty.md). Facts are easier to internalize if we use [education](education.md) and proper use of [technology](technology.md) to increase our [understanding](understanding.md), but who we listen to will *profoundly* [influence](power-influence.md) us.
 
+APPLICATION: No amount of [education](education.md) or [technology](technology.md) can offset the destruction of [understanding](understanding.md) from learning from the wrong sources.
+
 Our [story](stories.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 
+APPLICATION: Believing things are [changing](trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
+
 While [post-modern philosophy](philosophy.md) denies it, there *are* [universal qualities within humanity](humanity-universals.md). The thing that's constantly changing is our perceptions, but by comparison, reality itself is quite unmoving. Even aspects of [aesthetic](values-quality.md), which are relative in their finer points, have absolutes in the general case according to how humans view things.
+
+APPLICATION: Test what you know against what you're told, and don't presume one thing is more correct until you've thoroughly examined it and can [trust](trust.md) the source.
 
 ## Details
 
@@ -77,9 +85,11 @@ When we [analyze](logic.md) reality closely, every single thing can be divided i
 
 The small components form parts of a whole. The entire collection, whatever it is, is (typically) of dramatically more value to us than the individual parts. We tend to find value in the collective more than the components, either for our [purposes](purpose.md) or what we [love](people-love.md). That added value usually includes something that makes us [feel](mind-feelings.md) like the thing is somehow more complete.
 
-Barring mental disorders like [autism](autism.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
+Barring mental disorders like [autism](mind-neurodivergence.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
 
 [Wisdom and understanding](understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
+
+APPLICATION: Each of us must find our journey to truth in our own way, and there's no clear answer or [pattern](symbols.md) that applies to everyone.
 
 ## Denial
 
@@ -88,3 +98,5 @@ Accepting reality at its most raw can force overwhelming [internal and external 
 Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 
 The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](mind-feelings-happiness-stress.md)).
+
+APPLICATION: Whether we can or can't know reality doesn't really matter. It's very consistent either way. Even if we're really in some *dream*, we can find [meaning](meaning.md) through doing the best with that dream's rules, and living [the good life](goodlife.md) requires more [performance](purpose.md) than concerning ourselves with what may or may not exist.

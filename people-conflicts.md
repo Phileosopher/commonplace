@@ -27,6 +27,8 @@ Conflicts aren't always fighting with others, but can be:
 - Sometimes, it's simply a disagreement or [misunderstanding](understanding.md).
 - While [respect for others](people-3_respect.md) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
 
+APPLICATION: When we use [technology](technology.md) to increase the amount of time we can [communicate](people-conversation.md), we often lose the [quality](values-quality.md) of each individual engagement compared to in-person. Since technology removes distance, it mixes us with various [cultures](culture.md) across the world, and our conflicts are guaranteed to become more frequent.
+
 We engage directly in conflict when the trouble of making the conflict becomes less than avoiding it.
 
 Our perception doesn't have to be [real](reality.md), either, and there are several ways there can be breakdown when communicating with others:
@@ -60,6 +62,8 @@ Usually, we avoid the conflicts around us from several base reasons:
 - We're honoring a [principle](values.md) we [believe](understanding-certainty.md) in
 - We legitimately [love](people-love.md) other people who may be affected in the situation.
 
+APPLICATION: [Our upbringing](people-family.md) often teaches us to avoid fights, but we must never back down from a fight over [principles](values.md) we [believe](understanding-certainty.md) in. Instead, we must learn to [negotiate](people-5_conflicts.md) instead.
+
 ## Healthy conflicts
 
 Healthy conflicts require both sides willing to change and compromise:
@@ -71,6 +75,8 @@ Healthy conflicts require both sides willing to change and compromise:
 - However, also assume you don't know most of what that person knows.
 
 Conflicts only become unhealthy when we don't properly [calculate](decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
+
+APPLICATION: Conflicts are healthy when managed correctly by everyone. Through them, we can [understand](understanding.md) others' [points of view](image.md), become more patient and [loving](people-love.md), and develop future [skills for good boundary-setting](people-5_conflicts.md).
 
 ## Reactions to issues
 
@@ -106,6 +112,8 @@ Not everyone disagrees on the same [values](values.md), even when they're in a [
 6. Attacking the person: They redirect the focus to the speaker's [authority](image.md) ("ad hominem"). At this point, they're often [afraid](mind-feelings-fear.md) their opponent might be right.
 7. Blindly attacking: They'll use [insults](morality-taboo.md) and call their opponent names. This person is operating strictly on [animal impulses](mind-feelings.md) and isn't expressing enough present [maturity](maturity.md) for a useful engagement.
 
+APPLICATION: Hardly any people are as thoroughly convinced on a subject as they appear to be. Usually, a bit of solid [reasoning](logic.md) based on their existing [perspective](image.md) that incorporates yours (often delivered with a [compelling story](stories.md)), combined with time for them to ruminate on it, is enough to radically [influence](power-influence.md) them over to your perspective, but that doesn't mean they'll shift their inner thoughts on the matter.
+
 The range of disagreement a person typically sits within will indicate plenty of information about their motivations:
 
 1. Focusing on the central idea means they're concerned with the ideas the other person has.
@@ -116,21 +124,7 @@ The range of disagreement a person typically sits within will indicate plenty of
 6. Attacking a person means they are either [dysregulated](awareness-dysregulation.md) or wish to [maintain an image](image-distortion.md).
 7. Blindly attacking means they feel they will lose something if they lose the argument.
 
-## Discrimination
-
-When we interpret favor or shame immediately as part of our [bias](mind-bias.md), we're discriminating. These values can include favoring race, [age](maturity.md), [gender](gender.md), or implied [social class](classes.md). Unless we [analyze](logic.md) what people say and ignore their reputation, we're *always* [unfairly](morality-justice.md) biased.
-
-We discriminate *all the time* for many reasons:
-
-- What we [imagine](imagination.md) others may think
-- [Past pain](hardship-ptsd.md) that may not have present implications
-- What we perceive others may be able to [do](results.md), often defined by their [aptitude](humanity.md), [status](groups-member.md) in specific [groups](groups-small.md), or our [understanding](understanding.md) of their [maturity](maturity.md)
-- [Physical attractiveness](gender.md), distinguishing features like clothing, and [hygiene](people-2_image.md)
-- Even when we've tried to remove bias, we often discriminate on [ideas](values.md) alone as theories without any consideration for [history](trends.md)
-
-A stereotype is [habitual](habits.md) and [unfair](morality-justice.md) discrimination. Because we're not conscious of it, we make silly overgeneralizations that lose any sense of [logic](logic.md). People can often address it with [humor](humor.md), but when people have suffered [pain](hardship-ptsd.md) from the stereotype (or [others can benefit from it](leftism.md)), they'll miss the joke.
-
-Stereotypes are inherently amoral because we're not aware of them when we build them (and are therefore naive). However, if we persist with them after we're made aware of their inaccuracy, we are committing a low-level type of [evil](morality-evil.md).
+Conflicts don't always resolve easily, though. Sometimes, inherent [bias](mind-bias.md) in the form of [discrimination](people-discrimination.md) can destroy any chance for an expedient resolution.
 
 ## Conflict management skills
 
@@ -139,7 +133,7 @@ We like to imagine our conflicts are only with others, but they're not. Our conf
 There are only generally two constructive approaches to direct conflict management:
 
 1. Be a nice person, which makes conflicts incredibly rare and skewed in your favor because others tend to make general [judgments](mind-bias.md) that nice people are [good](morality.md).
-2. Be competent in your [specialization](jobs-spcialization.md), which means others will [trust](trust.md) you're more likely to be correct.
+2. Be competent in your [specialization](jobs-specialization.md), which means others will [trust](trust.md) you're more likely to be correct.
 
 In failing both, you're likely to become [enslaved](slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
 
@@ -160,6 +154,8 @@ Besides suspending judgment, defusing most conflicts require several additional 
 5. Patiently avoid submitting to [anger](mind-feelings-anger.md) through all of it, which usually requires ignoring the need to be [important](influence.md).
 
 These skills are challenging to master, mostly because they *require* experience with difficult people to finesse them. Nobody likes pain, so the only qualified conflict-managers are either constantly seeking conflict, [grew up](people-family.md) around it, or have [worked professionally](jobs-specialization.md) around difficult people.
+
+APPLICATION: If you can easily influence someone toward your views, someone else can easily influence them away. The strongest people are also the ones who tend to disagree the most, and that's a critical part of selecting a [good leader](groups-small.md) to prevent an organization from becoming a [bad system](mgmt-badsystems.md).
 
 Skillful negotiators validate others' [feelings](mind-feelings.md), but don't give in to harsh demands or permit them to control an argument. To create [results](results.md), they often employ [fear](mind-feelings-fear.md) for short-term effects and [love](people-love.md) for long-term solutions.
 

@@ -44,7 +44,7 @@ This becomes complicated to track when skillful lawyers use those rules to navig
 
 On top of that, each judge has a [bias](image.md), since they're [human](humanity.md). In many legal systems, they become [corrupt](mgmt-badsystems.md) when the judge is [friends](people-friends.md) with or [sympathizes](image.md) with one side of the legal case.
 
-For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-spcialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
+For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-specialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
 
 ## Basis
 

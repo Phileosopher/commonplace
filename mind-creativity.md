@@ -21,11 +21,17 @@ We create when our [decisions](decisions.md) become [actions](results.md). *All*
 
 Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
+APPLICATION: Very often, large trends come from little trends that faded away long before the listener has processed that large idea later.
+
+APPLICATION: The exploration into [the unknown](unknown.md) makes anxiety and unease a guaranteed [feeling](mind-feelings.md) in the world of making new things. Therefore, [success](success-1_why.md) in art is inherently anxious.
+
 All creations are meant to fulfill a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](fix.md)" that problem.
 
 Creativity is necessary for the [good life](goodlife.md). Without creating anything whatsoever, we tend to [feel](mind-feelings.md) boredom and [meaninglessness](meaning.md).
 
-Each creative effort is unique to each person. No two people can make precisely the same guitar solo, dance routine, accounting report, or spoken sentence. Even while everyone can assemble precisely the same smaller elements (such as a music chord), the person's own [style](humanity.md) mixes into it as the [creation](creations.md) scales upward in complexity, even with a mundane task.
+Each creative effort is unique to each person. No two people can make precisely the same guitar solo, dance routine, accounting report, or spoken sentence. Even while everyone can assemble precisely the same smaller elements (such as a music chord), the person's own [style](humanity.md) mixes into it as the [creation](creations.md) scales upward in complexity, even with a mundane task. This makes it impossible to [measure](math.md) against others' works.
+
+APPLICATION: An episode of the Simpsons isn't necessarily better than a Shakespeare play. MC Hammer isn't necessary a worse performer than Johann Pachelbel.
 
 We form new ideas in our mind with nearly the same neurological wiring as [building things in our physical space](creations.md). The only difference is that physical things usually take more time to make and are harder to destroy.
 
@@ -33,11 +39,28 @@ We form new ideas in our mind with nearly the same neurological wiring as [build
 
 The very essence of an idea in our minds represents a new [value](values.md) for us. From the point we recognize it, we treat that value as a separate existence from everything else, even when it's a vague abstraction against an [unknown](unknown.md) setting.
 
+[Chaos](unknown.md) and constraint is crucial for creativity, so a perfectly [ordered](understanding-certainty.md) or wealthy society wouldn't permit it. However, a [perfect society](politics-perfectsociety.md) *would* have enough chaos to keep us [engaged](meaning.md), and the middle and upper-middle of most societies' [social classes](classes.md) are typically poor enough to have plenty of constraints to find [reasons](purpose.md) to be clever.
+
+The formation of most works regarded as "masterpieces" were simply cleverness mixed with constraints:
+
+- Jazz solos were designed to extend the length of a song after the "written" part of a song ran out and the dancers wanted to keep going. This is also how the club/house music genre came into existence.
+- The role of DJ was to hide the fact that different songs' beats per minute (BPM) had to have a fractional relationship to each other (e.g., 60 BPM versus 90 or 120 BPM) or the song would [feel](mind-feelings.md) off-tempo.
+- The movie "Jaws" built a *lot* of dramatic tension about the shark attacking because the mechanical shark kept breaking down.
+
+APPLICATION: If a work wasn't created from constraints, it was created from [new technology](technology.md) and new [trends](trends.md):
+
+- Around 1900, concert audiences weren't allowed to eat, shout, and chat during a performance. Once this convention was established, composers could explore very quiet themes in their music.
+- Once music could be recorded (and re-recorded) it started to become dramatically more complex.
+- Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
+- In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
+
 We tend to create various [stories](stories.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](decisions.md) is worth the [risk](socialrisk.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
 While the idea may [feel](mind-feelings.md) complete in our mind, it never really is due to the limits of [how we can understand things](understanding.md). Converting the idea into a [finished work](creations.md) is even more imcomplete due to the constraints of [physics](reality.md). Therefore, it's impossible to fully depict or express an abstracted form, and we must settle for "good enough".
+
+APPLICATION: We can [foster creativity](mind-creativity-how.md) in ourselves by working to understand our problem alongside unexplored connections with that problem. The best way to form these connections is to possess as diverse a range of experience as humanly possible.
 
 However, once a value is communicated, in whatever form it takes, it spreads out as a small [trend](trends.md) proportional to its [influence](power-influence.md) in others' minds to re-share it, with micro-trends spinning off it in proportion to how much people dwell on the idea.
 
@@ -57,6 +80,8 @@ To create something, we need two beliefs:
 
 Most of the time, the only thing that impedes us is our willingness. If someone is sufficiently motivated and able to sufficiently imagine what they want to see, they can usually get *very* near to what they were trying to accomplish.
 
+APPLICATION: Anyone with time and unfulfilled needs can create. All they need is to find a sensible way to fulfill a [purpose](purpose.md).
+
 Creators are always designing for a target audience, and their most important audience should be themselves:
 
 - Cleaners must use the things they clean.
@@ -66,6 +91,8 @@ Creators are always designing for a target audience, and their most important au
 - [Teachers](education.md) must follow the [logic](logic.md) of their curriculum.
 
 The only way a creator can be sure they're communicating [quality](values-quality.md) is to receive it themselves as the consumer of the creation, a bit like looking in a mirror. Since it takes so much time, most people don't do it.
+
+APPLICATION: Many creators won't include themselves as the target audience. By doing so, they usually think of themselves as [better than](morality-evil.md) their audience, and their work will suffer in the process.
 
 ## How we create
 
@@ -88,6 +115,15 @@ True genius often comes from observing something others have found to be mundane
 ### 2. Aspiration
 
 After repeating the tasks and modes of thought enough, we create a somewhat reliable pattern of [habits](habits.md) in our minds.
+
+APPLICATION: The easiest way to create magnificent creations is to rapidly get a "rough draft" out as fast as possible:
+
+- Sketch the idea on scratch paper.
+- Make statues in wax before stone.
+- Get [feedback](people-conversation.md).
+- Ask [friends](people-friends.md) and [family](people-family.md).
+- Release version 1.0 or 0.8, depending on what you're making.
+- [Publish](language-writing.md) immediately.
 
 At this point, we're trying to honor all the [rules](rules.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
 
@@ -140,7 +176,7 @@ If we're [unusually disposed](personality.md) to [naturally understanding](human
 
 At this stage, the creator has found a way to conceal *all* the messy parts of the creation, leaving nothing but pure [beauty](values-quality.md). Frequently, they will invert the [appearance](image.md) of anything they touch with that talent simply by exploring [facts](reality.md) that most people had overlooked.
 
-Often, the creator will make the task look so easy that it'll feel like *anyone* could do it. They'll treat their tools or performance as if it were as familiar as breathing or walking.
+Often, the creator will make the task look so easy that it'll feel like *anyone* could do it. They'll treat their tools or performance as if it were as familiar as breathing or walking. Since the consumers are aware of the effort it takes, they will feel the effort at making a hard thing look easy.
 
 That creator has polished their skills until they can made something utterly profound. Observers from the outside will feel a [connection](symbols.md) to the creation, but won't be able to describe it in words.
 
@@ -148,12 +184,25 @@ Usually, the form of the creation will suggest things instead of telling them. A
 
 The familiar feeling is an illusion, and that creation is *highly* directed [chaos](unknown.md) that passed through the creator's [soul](humanity.md) and [habits](habits.md) to [transcend death](legacy.md) and allude to an inherent [religious](religion-answers.md) [significance](meaning.md). Even when the creator lives a relatively unimportant life otherwise, their creations are usually honored as independently magnificent.
 
+APPLICATION: With enough patience and [desire](purpose.md), *anything* can be created up to the length of time someone (or their [creative group](groups-small.md)) can [stay alive](legacy.md) and [act on that desire](results.md).
+
 ## Why we act on ideas
 
 Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](understanding.md) how much [work](results.md) some [creations](creations.md) can take.
 
 Most of that work is unpleasant, so we try to find ways around it. We'll typically use [tools](technology.md) to speed up the unpleasant work. Sometimes, we're making tools to make *those* tools.
 
+APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](personality.md).
+
 The creative process itself is always messy. Creators have a constant [inner war](conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
 
+APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
+
 The [timing](datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
+
+Since creativity requires breaking [rules](rules.md), most creative people end up living in a state of protracted [childhood](maturity.md).
+
+- A child's [image](image.md) of [reality](reality.md) has unclear or nonexistent rules.
+- The [hardships](hardship.md) of this world often bring around "adult" thinking by showing how things really are.
+- In a sense, the collective potential of a society can be defined by how small a minority are represented as artists.
+- At the same time, it's part of a [cycle](trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](leftism.md)), until the eventual decline decreases the ratio of artists again.

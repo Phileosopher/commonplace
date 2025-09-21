@@ -35,6 +35,11 @@ Our preference of population density comes from how much we value [privacy versu
 
 The [cultural](culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
 
+APPLICATION: The three population density groups have irreconcilable differences in [value](values.md) systems:
+
+- Above a certain threshold, everyone *must* depend on others, but below a certain threshold, everyone *must* be self-sufficient.
+- More population creates more [trends](trends.md) and [conflicts of opinion](people-conflicts.md), so bigger cities are *far* more [liberal](politics-conservativeliberal.md) than the countryside.
+
 ## Multi-region
 
 Generally, [trends](trends.md) move outward from denser areas. In a well-connected society with lots of [communication](people-conversation.md) [technology](technology.md), each city's specialization will house the leadership of specific [multi-nation groups](groups-large.md).
@@ -42,5 +47,7 @@ Generally, [trends](trends.md) move outward from denser areas. In a well-connect
 The most [legitimately powerful](power-types.md) people live in or near the capital city of a country, so the [culture](culture.md) (and, when applicable, the selection) of that capital city has a *profound* impact on the rest of the nation's [trends](trends.md).
 
 Frequently, [trends](trends.md) will move across many regions at once, often jumping between them as rapidly as leaders become aware of and adopt them. In a sense, those trends will give [power](power-types.md) to the original [creator](mind-creativity.md) of the trend, which will ripple outward to that person's specialized group and the surrounding people that the creator contacts.
+
+The climate of a region defines more than almost anything else. Unbearable weather requires people to be tenacious, and easily accessible resources make a happy and relaxed group.
 
 Once the [technology](technology.md) of a group becomes large enough, the [group](groups-large.md) can connect and meet across an extremely vast region. However, it never *entirely* removes the need for geographical closeness.

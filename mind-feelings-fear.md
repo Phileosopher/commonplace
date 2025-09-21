@@ -40,6 +40,8 @@ We can't do anything about pain. We can only circumvent its effects and maximize
 
 The pain itself broadly reaches to *everything* we are capable of [identifying](identity.md) with. It could be physical suffering to the body, emotional suffering, the feeling of loss, or any perception of the same in others'. Its only limit is that we feel it's something in [reality](reality.md).
 
+APPLICATION: The thought and image of something is most likely scarier than the thing itself.
+
 Often, the reason people inflict pain is from [evil](morality-evil.md), but not necessarily. It can also come from negligence, naïveté, ignorance, self-defense, or merely [poor communication skills](people-3_boundaries.md).
 
 Pain and pleasure aren't entirely separate. The pain of pursuing a worthy [purpose](purpose.md), for example, will heighten pleasure after overcoming it.
@@ -67,6 +69,8 @@ To fight death, we tend to obsess about preserving life:
 - The survival impulses for food, water, and shelter are [themed](symbols.md) extensions of death.
 - We try to prolong its inevitability with [risk management](safety-riskmgmt.md) tactics such as [weight management](body-2_diet.md) and [preventative healthcare](body-4_health.md).
 
+APPLICATION: The [healthcare industry](body-4_health.md) (and [law](rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
+
 The fear of death contributes to far more [illogical](logic.md) behavior than we often realize:
 
 - We try to expand a [legacy](legacy.md) that outlives our passing, often through our [children](people-family.md).
@@ -74,6 +78,8 @@ The fear of death contributes to far more [illogical](logic.md) behavior than we
 - We'll believe [prophecies](religion.md) that promise to avoid death (e.g., rapture, immortality).
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
 - Even [wars](people-conflicts-war.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](image.md) of fighting for scarce resources that would lead to death if depleted.
+
+APPLICATION: If death had no consequences, nothing would be serious, which is why most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories.md) have a great [sense of humor](humor.md).
 
 Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-2_image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
 
@@ -86,6 +92,8 @@ When we take that fear of death into a more broad application, we tend to create
 [Reality](reality.md) itself can be scary, and we'll frequently block or [distort](image-distortion.md) our perception of it.
 
 We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
+
+APPLICATION: Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-4_friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
 
 ## Fear as fun
 
@@ -117,13 +125,21 @@ Most fears, when nurtured, become an obsession with [power](power.md) towards [s
 
 Courage is [pushing](conflicts-inner.md) against fear to accomplish a [purpose](purpose.md). We find courage when we're trying to [preserve](safety.md) something we [love](people-love.md), but can also summon a lesser form of courage out of [social shame](mind-feelings-shame.md).
 
+APPLICATION: Since fear is a [feeling](mind-feelings.md), it's fundamentally comparative. Therefore, being gripped by fear can be easily resolved by addressing a much larger fear (e.g., of death), which makes the other fears trivial by comparison.
+
 We don't typically need much courage to counteract fear, and a few seconds of boldness at the right timing can change the [outcome](results.md) of a very significant [threat](safety.md).
+
+APPLICATION: One of the greatest forms of [hardship](hardship.md) we must endure is finding the courage to suffer. Feeling things that harm us is painful, but we are [responsible](meaning.md) for enduring it.
 
 Most people are more afraid than they appear. Ironically, they have a fear of expressing their fear as well, which stems from what would they imagine would happen if [others saw](image.md) their fear in its entirety. Within a [confrontational environment](people-conflicts.md), most fear can be made useful as [anger](mind-feelings-anger.md).
 
 Most [worthwhile endeavors](purpose.md) require us to face our fears. Over time, if we keep [succeeding](success-1_why.md), we will start noticing that the presence of our fear is also where we can gain the most success. Eventually, we'll start *looking* for things that scare us because those will create the most significant [results](results.md).
 
+APPLICATION: If you feel pain, you can dramatically cut down on its effects by either connecting it to hope in the future or completely disregarding the future altogether.
+
 On the other hand, if we keep *running* from things that scare us, we will likely fall into a trap of [addiction](addiction.md) somewhere along the way to cope with the feeling of failing and the [consequences](results.md) of cowardice.
+
+APPLICATION: We all must reconcile how to live our lives without fear, given how much death and pain we all invariably experience. Releasing the fear is a difficult lifelong process, but [is profoundly worth it](mind-feelings-happiness.md).
 
 ## Fear in groups
 

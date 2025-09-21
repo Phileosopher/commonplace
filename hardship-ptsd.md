@@ -12,6 +12,8 @@ While everyone experiences trauma, each person responds to it differently:
 - Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
 - In extreme cases, people will tell themselves they don't need something they legitimately need.
 
+APPLICATION: If something hurts a small child, it likely can hurt anyone. The only difference is that most adults harden themselves to that pain and learn to ignore it.
+
 If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
 
 The psychological term for PTSD is literally a **Disorder** of **Stress** from **Post-Trauma**, and everyone has it in some non-clinical form:
@@ -73,6 +75,8 @@ Most of the time that people experience chronic trauma, they develop an increase
 
 Thankfully, because of our tendency to [anticipate](stories.md) and [imagine](imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
 
+APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](mind-feelings-happiness-stress.md) about the [injustices](morality-justice.md) they've suffered.
+
 ## Detecting
 
 You can usually spot someone's past trauma if you spend a few weeks around them to get their baseline behavior. Bringing up a trauma-associated topic will make them stiffen, twitch, go silent, lash out, or anything else disproportionate or misplaced from their standard behavior.
@@ -107,9 +111,24 @@ Our core, unaltered [human essence](humanity.md) is carefree, fun-loving, advent
 
 However, accepting the trauma alone isn't healthy either. Consciously [identifying](identity.md) with trauma forces us to accept an unbalanced persona that's various degrees more fearful, anxious, hypersensitive, or angry than our genuine self.
 
+APPLICATION: Some of the worst archetypes of people come from this hardened trauma:
+
+- [Obsessive bureaucrats](bureaucracy.md)
+- [Overbearing parents](parenting-3_teenagers.md)
+- [Social justice warriors](leftism.md)
+- [Religious](religion.md) zealots
+- [Yellow journalists](stories-storytellers.md)
+- [Attorneys](rules.md)
+- [Lobbyists](mgmt-badsystems.md) and [activists](groups-member.md)
+- [Hyper-intellectuals](understanding.md), especially [post-modern philosophers](philosophy.md)
+
+FURTHER APPLICATION: We should pity these people. They're oblivious to their motives, even while many of them [destroy society](leftism.md). If we condemn them, they become self-proclaimed martyrs. If we venerate them, they [hold to their persona](identity.md) more than their true selves.
+
+FURTHER APPLICATION: Of course, to pity someone disadvantages them because you're implying they have a problem they haven't fixed and don't have the [power](power.md) to fix. Expect them to [self-preserve](mind-feelings-fear.md) and attack you if you're not careful.
+
 While identifying a problem is a good start, it's *more* destructive without a [reasonable chance to overcome it](success-1_why.md) than never having seen the problem in the first place.
 
-## Unresolvd trauma
+## Unresolved trauma
 
 Unfortunately, when we don't release trauma, we will often re-experience its consequences.
 
@@ -119,6 +138,8 @@ Anything that isn't completely resolved in our mind *will* come back to haunt us
 - Our post-traumatic stress makes us react impulsively against something that [triggers](habits.md) a memory.
 
 In some ways, every unresolved trauma is a [debt](money-2_debt.md) that must be forgiven, and will come payable when we act on it if we don't. In other ways, exposure to it is our psychological conditioning toward managing [fears](mind-feelings-fear.md).
+
+APPLICATION: When the experience is severe, nobody can fully recover from [evil](morality-evil.md) unscathed. Complete recovery will still register psychological scars that never go away.
 
 We tend to incorrectly redirect past trauma through several possible pathways:
 
@@ -135,3 +156,13 @@ The only solution is to patiently expose ourselves to experiences that relive th
 4. [Find a way](mind-creativity.md) to [circumvent](purpose.md) those tasks while performing all the aspects of a [good life](goodlife.md).
 5. Spend lots of time in that [dynamic life](goodlife.md) (at least a few years to a few decades) to permit our [experiences](maturity.md) to grow us.
 6. Once we've experienced more and better life, along with worse [hardships](hardship.md), our faded memories of past struggles were comparatively trivial upon recollection.
+
+APPLICATION: We must push back on traumatic behavior to break the loop, whether it's with ourselves or others:
+
+- Perfectionism: try making mistakes
+- Shutting down or cutting people off: slow down a conversation before severing connections
+- Emotional monitoring: demonstrate how others' feelings don't technically matter
+- Constantly busy: work through feelings instead of actions
+- People pleasing: accept that we can't change anyone but ourselves
+
+APPLICATION: The emotional hardening skills from trauma don't usually go away even though someone has overcome their hardship. For that reason, most people who suffer trauma and overcome it are *way* [stronger](power.md) for the experience than those who never went through it at all.

@@ -37,7 +37,7 @@ Bad systems arise from relatively unimportant details at first:
 - Some of the organization's [rules](rules.md) are irrelevant and nobody updated it.
 - The organization must respond to other outside groups for many of their [decisions](decisions.md).
 
-As the organization scales and everyone [specializes](jobs-spcialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
+As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
 
 Once people know they're not [delusional](reality.md), they're more willing to break the group's [rules](rules.md). Eventually, the entire organization suffers collective decay as [motivations](purpose.md) toward self-interest override the motivation for any [collective good](morality.md).
 
@@ -47,7 +47,7 @@ The [moral](morality.md) decay among individuals comes through several key motiv
 - [Fear](mind-feelings-fear.md) that leads to silence about perceived issues, including [conflicts](people-conflicts.md) of interest.
 - The [dominant leadership](groups-small.md) has a nearly [cult](culture-cults.md)-like [influence](influence.md) over the [youngest members](maturity.md) of the group.
 - The secondary leadership is weak compared to the dominant leaders and many lower-ranking members, meaning they're [easy to control](image-distortion.md) and not [respected](power.md).
-- The group is *very* [influential](influence.md) in its [specialization](jobs-spcialization.md), meaning they're often above accountability and can justify [immoral actions](morality.md) with other good actions.
+- The group is *very* [influential](influence.md) in its [specialization](jobs-specialization.md), meaning they're often above accountability and can justify [immoral actions](morality.md) with other good actions.
 
 ## Bad appointment
 
@@ -109,11 +109,11 @@ Of course, [evil](morality-evil.md) intent can lead to horrible management as we
 If everyone in a group is sufficiently educated, the leadership can't maintain its power. However, [education](education.md) requires work, so the leadership will [skew the truth](image-distortion.md):
 
 - It's human nature that nobody likes to be blamed, and people will often [tweak their image](image-distortion.md) to sidestep it. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](understanding-certainty.md) anything they say.
-- Frequently, the leadership of a bad system can find other unaffiliated groups to act as a third party (e.g., consultant, outside group). If anything wrong happens, they can always shift blame to that third party and sever ties with them to [maintain their image](image-distortion.md). Then, they can simply travel to one of that third party's competitors (who don't [communicate](people-conversation.md) the [risks](safety.md) of working with them). If the victim group's [specialization](jobs-spcialization.md) is in enough of a [cycle](trends.md), there will be a never-ending supply of blame-shifting until all new entrants to that market are exhausted.
+- Frequently, the leadership of a bad system can find other unaffiliated groups to act as a third party (e.g., consultant, outside group). If anything wrong happens, they can always shift blame to that third party and sever ties with them to [maintain their image](image-distortion.md). Then, they can simply travel to one of that third party's competitors (who don't [communicate](people-conversation.md) the [risks](safety.md) of working with them). If the victim group's [specialization](jobs-specialization.md) is in enough of a [cycle](trends.md), there will be a never-ending supply of blame-shifting until all new entrants to that market are exhausted.
 - Often, when the system is older than the leader, they'll find ways to blend in by saying and doing what other leaders in other bad systems are doing. By conforming to existing [standards](imagination.md), the premise is that they can't be blamed because they were simply honoring the standard.
 - Create a relatively small spectrum of what is deemed as acceptable opinion, then foster [fierce debates](people-conflicts.md) within that smaller domain to redirect from the larger spectrum of ideas.
 
-Other times, the leaders of a good system will try to seize more power beyond the group's [specialty](jobs-spcialization.md). This shift will transition the group's priorities and [identity](identity.md), often leaving it far-removed from its original [mission](purpose.md).
+Other times, the leaders of a good system will try to seize more power beyond the group's [specialty](jobs-specialization.md). This shift will transition the group's priorities and [identity](identity.md), often leaving it far-removed from its original [mission](purpose.md).
 
 Occasionally, a leader will forget the [values](values.md) that gave them power and will [decide](decisions.md) against those values. This will result in the group breaking from that leader's [purposes](purpose.md). Then, another leader will arise to replace the void, which can trigger the necessary changes to fix the dysfunction.
 
@@ -135,7 +135,7 @@ Most people in a bad system are at least somewhat [creative](mind-creativity.md)
 
 - Working slower or less efficiently to pad out time.
 - Creating tons of documentation to [appear](image.md) productive or embellish their [importance](purpose.md).
-- Furthering their personal [education](education.md) or [career](jobs-spcialization.md) with the organization's resources, with the full intent to abandon that organization later.
+- Furthering their personal [education](education.md) or [career](jobs-specialization.md) with the organization's resources, with the full intent to abandon that organization later.
 - Using the organization's resources for personal use, but hiding it or [lying](people-lying.md) about it.
 
 Many of the members will be entitled, but won't add any [value](values.md) to the organization or what the organization [does](purpose.md).
@@ -217,11 +217,11 @@ Government bureaus work similarly to business units in merging, but without the 
 
 ## Monopoly
 
-At some point, without a [large conflict](people-conflicts-war.md) to keep a bad system beholden to [results](results.md), it becomes unstoppable by any competitors. Their sheer size in an [industry](jobs-spcialization.md) will make them impossible to defeat through any conventional means. In other words, success for a [large group](groups-large.md) eventually becomes monopolization, at least toward a [niche](jobs-spcialization.md).
+At some point, without a [large conflict](people-conflicts-war.md) to keep a bad system beholden to [results](results.md), it becomes unstoppable by any competitors. Their sheer size in an [industry](jobs-specialization.md) will make them impossible to defeat through any conventional means. In other words, success for a [large group](groups-large.md) eventually becomes monopolization, at least toward a [niche](jobs-specialization.md).
 
 It's worth noting that monopolies are *relatively* successful. It means there was a void that someone was waiting to [seize](socialrisk.md), and especially when there's a commodity which nobody cares where it came from (a product of [technological innovation](technology.md)).
 
-When large systems [have control](politics-monopolies.md) of vast portions of entire [specializations](jobs-spcialization.md), they can dictate what people must [choose](decisions.md) to build by redefining the [consequences](results.md) to reward/punish activities in line with the group's interests. It's [our nature](humanity-universals.md) to dislike competition, so it's an inevitability.
+When large systems [have control](politics-monopolies.md) of vast portions of entire [specializations](jobs-specialization.md), they can dictate what people must [choose](decisions.md) to build by redefining the [consequences](results.md) to reward/punish activities in line with the group's interests. It's [our nature](humanity-universals.md) to dislike competition, so it's an inevitability.
 
 Gaining [power](power.md) usually takes far more effort than maintaining it. Instead of fighting *many* [competitors](people-conflicts.md) while focusing on much more powerful people, the fight is against other competitors in *other* groups and a few lower-ranking competitors who may become a future threat if not swiftly [dealt with](morality-evil.md).
 
@@ -232,7 +232,7 @@ Each type of monopoly creates limits on members' [decision-making](decisions.md)
 1. Horizontal control monopolies can make their services absolutely necessary or "too big to fail" if they control an entire phase of a [technology's](technology.md) method.
 2. Vertical control monopolies control every stage of the process of a [creation](creations.md). This permits them to make things more affordably or higher quality, and is much harder to [measure](math.md).
 3. Government monopolies are also called "dictatorships". While every government technically has a regional monopoly on killing people, they abuse their [power](power.md) when they don't permit people to freely move out from under the influence of their government.
-4. Idea monopolies control a facet of society that doesn't [create](creations.md), but is a forum for [ideas](values.md). This one is far more abstract, but is the most severe monopoly because [ideas](values.md) begin *all* [creations](creations.md). It's difficult to spot, but watch out when [university educators](education.md) are run by intellectuals instead of [trade masters](jobs-spcialization.md) or social media is run by censoring committees.
+4. Idea monopolies control a facet of society that doesn't [create](creations.md), but is a forum for [ideas](values.md). This one is far more abstract, but is the most severe monopoly because [ideas](values.md) begin *all* [creations](creations.md). It's difficult to spot, but watch out when [university educators](education.md) are run by intellectuals instead of [trade masters](jobs-specialization.md) or social media is run by censoring committees.
 
 While a monopoly may not be corrupt in its inception, the most apparent indicator of corruption comes through the organization quietly decreasing the [value](values-quality.md) of their [created](creations.md) goods and services:
 
@@ -369,7 +369,7 @@ One of the most significant ways a bad system loses public favor is when they *c
 - Suffer a [logistical](logistics.md) failure that creates a supply chain disruption, often in a way that people are permanently injured or die.
 - Create something and [advertise](marketing.md) it as a dramatic new [trend](trends.md), but it's [poorly designed](results.md) to make them the object of [ridicule](humor.md) or the trend is absolutely [taboo](morality-taboo.md).
 
-In fact, most large-scale bad systems are an existing optimization of a *previous* bad system (e.g., more efficient, affordable, economical, [fair](morality-justice.md), et al.). However, this came at the expense of sacrificing very intimate [human needs](humanity.md) in the process. The [deals](people-contracts.md) were more ruthless, everyone became more [specialized](jobs-spcialization.md), collectively more [powerful](power.md), systems became more [standardized](mgmt-1_why.md), and each person became less individually [important](meaning.md) compared to the [organization](groups-large.md).
+In fact, most large-scale bad systems are an existing optimization of a *previous* bad system (e.g., more efficient, affordable, economical, [fair](morality-justice.md), et al.). However, this came at the expense of sacrificing very intimate [human needs](humanity.md) in the process. The [deals](people-contracts.md) were more ruthless, everyone became more [specialized](jobs-specialization.md), collectively more [powerful](power.md), systems became more [standardized](mgmt-1_why.md), and each person became less individually [important](meaning.md) compared to the [organization](groups-large.md).
 
 However, between stopping the old system and starting the new one, even *basic* tasks can be spectacularly troublesome for a short time.
 
@@ -422,7 +422,7 @@ The most conspicuous sign of a bad system first forming comes through a leader w
 
 Bad leaders are concerned about money, mostly because they're not thinking about members' [purposes](purpose.md) or [considering](understanding.md) the well-being of the organization.
 
-One way a system becomes bad is when outside parties like [specialized trade groups](jobs-spcialization.md) and unions have more [power](power.md) than the leadership to make [decisions](decisions.md). They may serve the interests of individuals, but the leadership will be forced to be harsher to everyone to create the same [results](results.md) as before.
+One way a system becomes bad is when outside parties like [specialized trade groups](jobs-specialization.md) and unions have more [power](power.md) than the leadership to make [decisions](decisions.md). They may serve the interests of individuals, but the leadership will be forced to be harsher to everyone to create the same [results](results.md) as before.
 
 In a large organization that's become a bad system, *all* the leadership is partially responsible. It's difficult to tell how much for each, though, since most committee-based leadership [decisions](decisions.md) are opaque, and they'll each blame everyone and everything but themselves. The only solution to reliably tell is to remove the leaders, one by one, put them in another situation, then closely watch the [changes](people-changes.md) to both the system they were removed from and the system they were placed in.
 
@@ -450,7 +450,7 @@ We don't like oppressive dictators, but there are *always* worse alternatives. C
 
 Government elections are corrupt proportionally to the amount of work it takes to even run a campaign. Therefore, corruption in government scales with population.
 
-As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-spcialization.md) is bad, the best [decision](decisions.md) is to passively keep them fighting between each other and stay out of sight.
+As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-specialization.md) is bad, the best [decision](decisions.md) is to passively keep them fighting between each other and stay out of sight.
 
 There is one certain way to destroy a bad system, or at least injure it:
 
@@ -463,6 +463,6 @@ Many of the large-scale conspiracies are probably somewhat true. There's also no
 
 Every large, bad system will eventually collapse. They will be replaced by another one of comparable [effectiveness](purpose.md). We must find [meaning](meaning.md) despite these perpetual, looming [threats](safety.md), which may or may not include directly confronting those systems, and might occasionally mean risking [dying](legacy.md) from it.
 
-People slowly permit [tyranny](power-types.md) into their lives when they accept what the leadership does. Since [power-hungry](power-types.md) people don't tend to demarcate a stopping point, that slow [consent](people-contracts.md) will eventually go too far, but often at the cost of many lives and many destroyed aspects of [civilization](jobs-spcialization.md).
+People slowly permit [tyranny](power-types.md) into their lives when they accept what the leadership does. Since [power-hungry](power-types.md) people don't tend to demarcate a stopping point, that slow [consent](people-contracts.md) will eventually go too far, but often at the cost of many lives and many destroyed aspects of [civilization](jobs-specialization.md).
 
 The greatness of a nation is its own [trend](trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](imagination.md) they're migrating their [culture](culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.

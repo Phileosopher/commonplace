@@ -64,7 +64,7 @@ Who am I, and what can I be? (~13-19 years old)
 
 Can I love? (~20-39 years old)
 
-- Concerned with [lovers](gender.md), [friends](people-friends.md), and [work](jobs-spcialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
+- Concerned with [lovers](gender.md), [friends](people-friends.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
 - Our physical peak usually takes place around our late 20s.
 - If loved, we learn the true [meaning of love](people-love.md) and affiliate ourselves with healthy social connections.
 - When neglected, we either become sexually or emotionally promiscuous or exclude everyone and become antisocial.
@@ -145,7 +145,7 @@ As we get closer to the end of our lives, our time becomes more scarce, and we s
 
 In many modern civilizations, children are processed through an age-based system, where they reach new phases if they hit [minimum age criteria](math.md).
 
-[Modern civilization](culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-spcialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
+[Modern civilization](culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
 
 Group leaders often use "[grades](math.md)" to keep everyone motivated and measure if children are achieving what they must learn. However, those numbers are frequently arbitrary games to focus their attention. [Some groups](leftism.md), however, don't consider *any* criteria as worth holding them back, and it sabotages the [meaningfulness](meaning.md) that would have come from attaining high marks.
 

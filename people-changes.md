@@ -62,3 +62,18 @@ No matter how we live, we're building additional [understanding](understanding.m
 After enough time, our changes spill into others' lives. This can dramatically shift our [culture](culture.md), especially when we break others' [expectations](imagination.md).
 
 Generally, a social group will face [*gigantic* conflicts](people-conflicts-war.md) when the [power dynamics](power-types.md) shift from someone changing. This comes from the desire for [safety](safety.md) pushed against the benefits of [taking risks](socialrisk.md).
+
+
+## APPLICATION: changes
+
+APPLICATION: We tend to only change toward what we can [feel](mind-feelings.md), mostly because things we can't feel don't seem important to us. Successful [leaders](groups-small.md) feel strongly over abstractions like charts and [calculations](math.md) because they [understand](understanding.md) what those things imply.
+
+APPLICATION: The minimum changes we must make are what we [feel](mind-feelings.md), so our choice of what and how much we [consume](creations.md) will dictate what [influences](power-influence.md) us. Enough bad art will distort our sense of [taste](values-quality.md). [Bad friends](people-friends.md) corrupt [good character](morality.md). Reading the [news](stories-storytellers.md) constantly will require [political opinions](politics-conservativeliberal.md), but not as much from skimming headlines once a week.
+
+APPLICATION: From [terrorism](people-conflicts-war.md) to [entrepreneurs](socialrisk.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](goodlife.md).
+
+APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](understanding.md) of the good life is always [correct](understanding.md) instead of merely trying to change [habits](habits.md).
+
+APPLICATION: We must change, but we don't like change, and too much or too little change will make us go crazy. For that reason, we must always stay only a little uncomfortable to keep growing. We're not reaching our fullest potential If we're perfectly satisfied, but we'll make *terrible* [decisions](decisions.md) without any [inner peace](conflicts-inner.md).
+
+APPLICATION: Rebellion is always anti-[something], so we don't have much control over who or what we oppose. It could be any version of the opposite of something, including its ideological inverse, ideological reverse, absence, or destruction, and we will vacillate between them unless we form principles we conform toward instead.

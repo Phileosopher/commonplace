@@ -144,3 +144,38 @@ However, there are multiple reasons it's generally wiser to be skeptical of anyo
 - When someone actually *does* predict the future, it's [debatable](people-conflicts.md) how well they performed, especially if they were vague.
 - Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](trends.md).
 - We're all very prone to error, and tend to [redirect attention](image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!
+
+
+## APPLICATION: results
+
+APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
+
+APPLICATION: Except for the people who [entertain us](stories-storytellers.md), we tend to imagine ourselves as less capable than we really are. This means there's *always* untapped potential within everyone except professional entertainers.
+
+APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
+
+APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
+
+APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
+
+APPLICATION: While adequacy is statistically normal, unusually successful people do a few things to compensate:
+
+1. Expect that everything will go wrong, and become freakishly good at what they *can* control to compensate.
+2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](imagination.md).
+3. [Predict](imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
+
+APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends.md), [career](jobs-1_why.md), or whatever.
+
+APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
+
+APPLICATION: Diminishing return means that simple [decisions](decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
+
+APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
+
+APPLICATION: One fascinating element of diminishing return arises in how we [understand](understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
+
+APPLICATION: Artists are hypersensitive to the responses to their creative works because they've poured their hearts into it. The rest of the world must give artists more grace, and artists must learn to emotionally detach from what they create after they're finished with it.
+
+APPLICATION: Fan theories and hacks, while often [hilarious](humor.md), are brilliant ways the public answers clear [story](stories.md) and [engineering](engineering.md) failures the original creator could *never* have considered. These theories show the consumers have been so [affected](meaning.md) by the creative work that they decide to produce for themselves.
+
+APPLICATION: Unless a content creator has an alternative form of income, they'll eventually cash in and sell out. This will frequently include [affiliate marketing](marketing.md), selling lower-quality offerings, and a general deterioration in [quality](values-quality.md).

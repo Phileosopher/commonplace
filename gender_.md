@@ -40,7 +40,7 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
 - Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories.md) across many components.
 
-The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-spcialization.md) and [social integration](people-boundaries.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
+The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
 
 Further, men and women have neurological and biological distinctions:
 
@@ -75,11 +75,11 @@ Our gender identity, like all the rest of our [identity](identity.md), is fluctu
 
 ## Civilization
 
-[Modern society](jobs-spcialization.md) doesn't seem to change gender roles much.
+[Modern society](jobs-specialization.md) doesn't seem to change gender roles much.
 
 Even in a completely free society, males have more roles with heavy lifting and physical labor (e.g., construction) and females have more roles involving nurturing or supporting (e.g., nursing, administrative). Males will often create a rough-shod form, while females frequently refine the form and give it [quality](values-quality.md).
 
-With very few social exceptions, [society](jobs-spcialization.md) views men and women through [conventional roles](culture.md):
+With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](culture.md):
 
 - Men are usually seen as laborers, hunters, providers, and [establishers](socialrisk.md). They're usually more likely to steal from others and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
 - Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries.md) well with others and find a harmonious [solution](results.md).

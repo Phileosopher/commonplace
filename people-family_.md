@@ -25,7 +25,7 @@ Even though the people who marry are most [influenced](influence.md) by a [weddi
 While both genders play a part in the formation of a child, the female has a more clear role in the formation of a family:
 
 - While men have to find all sense of [meaning](meaning.md) in the establishment of a family, a woman has the inherent biological qualities of producing and nurturing children in their formative years.
-- The quality of a woman's [education](education.md) has the most impact on a family, since it she imparts more of it to her children than a man who has to work a [career](jobs-spcialization.md) elsewhere.
+- The quality of a woman's [education](education.md) has the most impact on a family, since it she imparts more of it to her children than a man who has to work a [career](jobs-specialization.md) elsewhere.
 
 ## Parent switch
 
@@ -47,7 +47,7 @@ The entire family model starts with the parent-child relationship. Children are 
 
 We end up always representing two roles in our minds: a father and a mother. The people who adopt the roles for those aspects define significant structures that follow us throughout our lives.
 
-- The father represents civilization, and defines a developing child's views of how they [define meaning](meaning.md) and [fit into society](jobs-spcialization.md).
+- The father represents civilization, and defines a developing child's views of how they [define meaning](meaning.md) and [fit into society](jobs-specialization.md).
 - The mother represents sacrifice, and defines a developing child's views of [love](people-love.md) and [human connection](people-friends.md).
 
 Children have their own initial [culture](culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:

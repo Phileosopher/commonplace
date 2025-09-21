@@ -19,7 +19,7 @@ Leftists are mostly correct that most [social movements](trends.md) have been [p
 
 ## State-run
 
-The concept of a State that runs society requires believing that people can't run themselves. Thus, [specialized experts](jobs-spcialization.md) can run their lives more productively and people will be happier and find [meaning](meaning.md) from their needs being met.
+The concept of a State that runs society requires believing that people can't run themselves. Thus, [specialized experts](jobs-specialization.md) can run their lives more productively and people will be happier and find [meaning](meaning.md) from their needs being met.
 
 This also applies to geopolitical events. Instead of permitting human nature to wrestle it out in a [free market](economics.md), the general approach instead is that [large groups](groups-large.md) can be run by administrators in other large groups.
 
@@ -121,7 +121,7 @@ However, leftists can still politicize the weather because people are [afraid](m
 
 - The risks of climate change shift with [political](politics-conservativeliberal.md) fashions. It's sometimes global warming (especially in the summer), and other times global cooling (especially in the winter), and usually stays vague while implying it's a political opponent's fault.
 - They claim that our water supply is diminishing. In reality, we have [technology](technology.md) to desalinate any water we need if our water supply became [scarce](economics.md) enough.
-- They've claimed that man-made [industrialization](jobs-spcialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
+- They've claimed that man-made [industrialization](jobs-specialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
 - One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
 
 The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.

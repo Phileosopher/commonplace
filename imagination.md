@@ -138,3 +138,32 @@ Proportional to our desire for [certainty](understanding-certainty.md) and oppor
 Predicting a trend is trying to [understand](understanding.md) a [story](stories.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
 
 In fact, most of the people who *make* gigantic trends are blissfully unaware of what their impact will be. If someone [who has died](legacy.md) is presently famous, there's a good chance they never would have thought that they'd be as famous as they became.
+
+
+## APPLICATION: imagination
+
+APPLICATION: Imagination is a form of [understanding](understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
+
+APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
+
+APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
+
+APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
+
+APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-feelings-happiness-stress.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
+
+APPLICATION: We imagine we [understand](understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
+
+APPLICATION: We obsess about odd, unlikely circumstances. This gets us into trouble because we assume that the unlikely things are likely, which can make us superstitious or anxious, depending on how we imagine its [results](results.md).
+
+APPLICATION: Staying unaware of the consequences of decisions that may have a terrible consequence can often expose us to tremendous advantages we otherwise wouldn't have had. If we can humanly survive the likely risks, it's always worth taking an [unsafe](safety.md) decision for the advantages from the [change](people-changes.md).
+
+APPLICATION: When something happens, it typically means one thing: it happened. If it was unlikely, it's just as unlikely to happen again. Sometimes people get lucky, but it's better to trust an unlikely thing happening from an [unnoticed](unknown.md) place than where everyone is currently looking.
+
+APPLICATION: Often, the most "likely" [trends](trends.md) are the ones that were fringe ideas:
+
+- Investing in airplanes in 1900 was a crackpot idea for only crazy people.
+- Cars were once a "dying trend" before they applied assembly line [technology](technology.md) to it.
+- Before the microchip, the "[personal computer](computers.md)" was also a dying trend.
+- Economists once predicted that New York City wouldn't be sustainable because it'd be covered in pony poop.
+- [Too many others to count](imagination-badpredictions.md)!

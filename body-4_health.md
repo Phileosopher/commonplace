@@ -124,7 +124,7 @@ However, chronic exposure to some toxins can be *very* devastating.
 Beyond toxins, concentrated energy can also be dangerous.
 
 - Long-term exposure to x-rays and microwaves are known to cause cancer.
-- While the long-term effects haven't been tested, there may be risks to chronic exposure to radio waves (e.g., cell phone towers, Wi-Fi signals).
+- While the long-term effects haven't been tested, there may be risks to chronic exposure to [radio waves](engineering-radio.md) (e.g., cell phone towers, Wi-Fi signals).
 
 With all the risks from toxins and concentrated energy, [maintaining balance in life](goodlife.md) requires a safe, easy solution when working in any field that directly interacts with dangerous chemicals or energy:
 

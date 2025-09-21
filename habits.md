@@ -67,6 +67,8 @@ Humans are the only creatures on this planet that can stop mid-habit and questio
 
 Whenever the pleasure of a reward lasts for more than 8 seconds, it's hitting *far* more than mere animal stimuli. At that point, it affects our [souls](humanity.md).
 
+APPLICATION: To change our habits, we must control our methods, since we can only control our triggers in a [cult](culture-cults.md) and have no control over the [results](results.md) directly.
+
 The pleasurable reward for habits [diminishes](results.md) as we do it more frequently, and is a huge component of [diminishing return](economics.md).
 
 We can develop pleasure from the habit of *not* doing a habit as a type of counter-habit. Since our experiences are so relative, abstinence can sometimes *intensify* our pleasure.
@@ -83,13 +85,26 @@ However, a minority of people will break so hard from their culture that they fe
 
 Habits are a neutral mechanism. While all virtues are good habits, as well as all [outward success](success-1_why.md), habits also magnify [evil](morality-evil.md) and [failure](results.md) as well.
 
+APPLICATION: While habits are inherently neutral, the results they create and their [original motivation](morality.md) can determine if they're good or bad. Staying on top of them requires [changing](people-changes.md) to attain the [results](results.md) you want.
+
 One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](results.md) than if we had simply [trusted](trust.md) our habits.
 
 [Bad habits destroy us](https://adequate.life/habits/). We usually permit bad habits because they provide short-term benefits, and we tend not to [feel](mind-feelings.md) long-term adverse consequences without training. Or, to put it more plainly, hard work pays off tomorrow while laziness pays off now.
 
+Life is relatively short, but the experience becomes shorter when we don't perceive reality from habitual patterns. Thus, it serves well to do habits that build [the good life](goodlife.md) and stop all destructive habits immediately to avoid making life even *more* short or [meaningless](meaning.md).
+
+APPLICATION: Habits compound, so we can't afford to let another day persist in knowing a bad habit and not [wishing](purpose.md) to change it. It only gets harder as we get older.
+
+APPLICATION: Habits are a string of pleasure/method/pleasure. For that reason, it can string together into other habits (pleasure/method/pleasure/method/pleasure). Over time, it can lead to *severe* results:
+
+- pleasure/method/.../method/pleasure of [transforming millions of lives](goodlife.md)
+- pleasure/method/.../method/pleasure, and now being [arrested](rules.md)
+
 One unique quality that [humanity](humanity.md) has compared to any other organism is the ability to stop mid-habit and ask, "Why am I doing this?" We can do it *constantly*, but it can often be stifled by [trauma](hardship-ptsd.md). If someone experiences enough trauma [as they age](maturity.md) without resolving it, they become completely automated into strange, largely obsolete patterns.
 
 The only way to kill a bad habit is to either spend lots of time *not* doing the habit, or to reprogram the habit to something else as a reward. Quitting outright is very difficult, and even *years* later can surge back again if we do it only once. Reconditioning a habit is much easier and is frequently the only difference between failure and [success](success-1_why.md) at pretty much anything.
+
+APPLICATION: Bad habits are wildly destructive, but they're not irredeemable. People can [change their methods](habits.md) to suit their needs while sidestepping the adverse behaviors that first caused their issues.
 
 ## Meaningfulness
 
@@ -97,6 +112,20 @@ If anyone finds [meaning](meaning.md) in some aspect of performing a habit, it's
 
 Traditions [maintain society](culture.md) and [bind groups together](groups-small.md), mostly in how practicing them reinforces what everyone already [knows](understanding.md).
 
+APPLICATION: The value of tradition comes through how much we find meaning in it, so getting a *[group](groups-small.md)* to find meaning requires several simultaneous approaches:
+
+1. Give the same thing for the low-openness people.
+2. Give new things for the high-openness people.
+3. Make a small part of it mandatory that involves *everyone*, and the rest being optional as people desire to do it.
+
 However, traditions only have value to the degree they're not boring. As soon as they're boring, they're simply a mindless set of tasks to accomplish a [purpose](purpose.md). Each of our [personalities'](personality.md) openness to new experiences dictates how fast we get bored.
 
 Over time, if a tradition becomes a set of mindless tasks, and [the younger generation](maturity.md) is successfully [suppressed](people-conflicts.md), the [group](groups-small.md) will forget the original purpose for the tradition.
+
+APPLICATION: The mechanism of convention (i.e., habits across society) explains many elements of society:
+
+- Companies rarely cut wages in a recession (it violates workers' expectations and hurts moral), and instead prefer to lay people off
+- Every major car company releases its new models in September, even though there would be less competition if each company released its cars in different months
+- Clothing retailers apply a simple 50% markup, then give gigantic discounts if the items don't sell
+- It costs as much to see a lousy movie in its last week of release as a hugely popular film on opening night
+- Grocery stores are capable of always having stock available, but don't have to throw much food away compared to what they're selling

@@ -3,7 +3,7 @@ A group is a combination of individuals sharing a common [purpose](purpose.md). 
 
 We connect ourselves with a group because we [believe](understanding-certainty.md) it'll serve our [purposes](purpose.md):
 
-- We can [specialize](jobs-spcialization.md) in what we want to do.
+- We can [specialize](jobs-specialization.md) in what we want to do.
 - The other people in the group will keep us [safe](safety.md) from various things.
 - Multiple people in the community can sufficiently meet *all* our needs.
 - We can experiment with actions and [understand](understanding.md) how to behave in response.
@@ -20,7 +20,7 @@ In exchange, the requirements are perfectly reasonable to us:
 We're automatically associated with a few groups from our upbringing:
 
 - Our [family](people-family.md) and family name's [reputation](image.md).
-- Our family's [trades](jobs-spcialization.md) and [skills](understanding.md).
+- Our family's [trades](jobs-specialization.md) and [skills](understanding.md).
 - Formalized education and clubs we've attended or been forced to attend.
 
 While we all naturally identify with at least some of our [culturally](culture.md) established groups, we make [decisions](decisions.md) later that identify with *other* scopes of living:

@@ -52,7 +52,7 @@ People pay *close* attention to the messenger:
   - However, if that authority is too strong, it may [terrify](mind-feelings-fear.md) people (especially if *their* [power](power.md) is threatened).
 - The message and messenger should associate with something the audience finds [advantageous](purpose.md) to them:
   - Good things, such as lunch, good news, [happiness](mind-feelings-happiness.md), relaxation, or [sex appeal](gender.md).
-  - [Scandalous](rules.md) or [specialized](jobs-spcialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
+  - [Scandalous](rules.md) or [specialized](jobs-specialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
   - While appealing to their [mercy or gratitude](morality.md) may work, they're more frequently affected by [self-interest](purpose.md).
   - Sometimes (and especially if the messenger is [unscrupulous](morality-evil.md)), the messenger may possess incriminating information or circumstances that may harm the audience if the messenger did something with it.
   - Often, uses a personal message with the pronoun "we" instead of "I".

@@ -104,3 +104,29 @@ Any of the above are irrelevant to what the group actually [changes](people-chan
 2. If they can publicly throw all blame on former leadership (even if it was a few days), heavily [advertise](image.md) that change to create distance from it.
 
 A group's existence is built on the environment that surrounds it. When the environment around the group changes, the group *must* conform to the new changes, or they'll become an obsolete [trend](trends.md).
+
+
+## APPLICATION: groups-small
+
+APPLICATION: Leaders are nurtured and not merely "made", and it's because they require a [disposition](personality.md) that can make consistent and [wise](understanding.md) decisions, a bit like a "born parent". Avoid leadership education that doesn't emphasize this reality.
+
+APPLICATION: Generally, people [trust](understanding-certainty.md) leaders who are older than them, up to about age 60. At that age, [old age](maturity.md) makes someone [appear](image.md) to operate more on [habit](habits.md) than [decisions](decisions.md), so people start trusting themselves or younger leaders instead.
+
+APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](decisions.md).
+
+APPLICATION: Once [trust](understanding-certainty.md) in the leaders is gone, the group disbands or rebuilds itself because someone else will lead in an entirely different way.
+
+APPLICATION: Since leaders tend to be more [high-conscientiousness](personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
+
+APPLICATION: The leader of a group gets all the [credit](image.md), but the group's [creativity](mind-creativity.md) and [results](results.md) were from the *followers'* contributions, who do most of the work and often have the most [passion](mind-feelings.md).
+
+APPLICATION: Groups typically split over [standard social conflicts](people-boundaries.md), but with far more [power](power.md) involved. Larger groups mean more power at stake, and therefore larger [consequences](results.md).
+
+APPLICATION: Groups never admit they're wrong, so if you [disagree](people-conflicts.md) with them, you only have a few options:
+
+1. Only talk about what they're doing *right* and ignore what they do wrong.
+2. Find another group that doesn't do that wrong thing.
+
+APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision-making](decisions.md) until they can look beyond their [impulses](mind-feelings.md). However, it's possible for someone to [appear](image.md) level-headed when they aren't, and is the foundation for many [bad systems](mgmt-badsystems.md).
+
+APPLICATION: People tend to get along better in groups (with a shared [purpose](purpose.md)) than in a closer dynamic (such as living together or [family](people-family.md)).

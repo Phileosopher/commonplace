@@ -282,3 +282,94 @@ Our brains don't have segmented areas for fiction versus nonfiction, so the expe
 Because of stories, it's humanly impossible to *not* have a [bias](image.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](understanding-certainty.md) in something we can't prove entirely.
 
 We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](rules.md) to do or not do.
+
+## APPLICATION: stories
+
+APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
+
+APPLICATION: To live a [good life](goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
+
+APPLICATION: If a story is bad, it's often the best the creator can do, especially in with media designed for large-scale appeal. Don't judge them too harshly, since they're attempting to conquer the [unknown](unknown.md). If they're representing a destructive value as a good thing, we should [feel](mind-feelings.md) pity before anger.
+
+APPLICATION: A powerful story will [feel](mind-feelings.md) more real than [reality](reality.md) itself. Often, many [storytellers](stories-storytellers.md) use existing [tropes](values.md) that overshadow reality's rules (e.g., how [automobiles](autos.md) are used). Often, they'll use their story to invalidate legitimate points of view (e.g., [politics](politics-conservativeliberal.md)). Other times, they'll use their stories to attach untrue things they [speculate](imagination.md) to legitimately true things.
+
+APPLICATION: A story is relatively simple to [make](mind-creativity.md) and [understand](understanding.md) if you can attach it to your [feelings](mind-feelings.md):
+
+1. Character
+2. Needs
+3. To Go
+4. Searches
+5. Finds
+6. Takes
+7. Returns
+8. And Changes
+
+APPLICATION: The scope of things that qualify as stories is vast. There's literally no limit to its size, length, or [medium](creations.md).
+
+- A few seconds or a single perception:
+  - Someone says something and the other responds.
+  - A piece of trivia or small [fact](reality.md).
+  - "[For sale, baby shoes, never worn.](symbols.md)"
+  - A painting.
+  - A round of a small game.
+  - A jingle of a song.
+- Combine the events together to create a short story:
+  - Verbal [exchange](people-conversation.md) among people.
+  - Short story or novella.
+  - Chapter of a textbook or book.
+  - Website landing page or internet article.
+  - Short videos.
+  - An episode of a TV show.
+  - Independently designed electronic game or board game.
+  - Songs.
+  - A sales pitch.
+- Combine small events into a larger picture or spanning a few days:
+  - An event, with its repercussions and aftermath.
+  - A website or large essay like this one.
+  - Movies.
+  - A song album.
+  - Popular paperback novels.
+  - AAA games.
+- Attach the large images into a [trend](trends.md):
+  - A TV show season.
+  - A book series.
+  - Every creation one specific creator makes.
+  - A life stage.
+  - Role-playing games.
+- Multiple trends weave into the maximum possible experience of living:
+  - A saga/epic across multiple lives.
+  - A creator's entire life and their [legacy](legacy.md).
+  - Operas and most older plays.
+  - A video game or book franchise.
+  - A person's entire life, with their [afterlife](religion.md).
+  - The history of a [corporation or nation](groups-large.md).
+- Further, we can mix-and-match stories into seemingly unrelated realms:
+  - The fan base who follows a popular [trend](trends.md), and their relationship with the [created work](creations.md).
+  - Associated media which provide indirect details, such as movie adaptations of books.
+  - Using historical settings with fictional characters (historical fiction) or vice versa (alternate reality stories).
+
+APPLICATION: A beautiful story has a buildup to something, which means there's always a [public notice](image.md) before dropping something fantastic on people. Otherwise, that [creator](mind-creativity.md) won't handle the story well enough to make a broad effect, and someone else will tell that story better and receive more [glory](image.md) from it.
+
+APPLICATION: A feature-length story uses 40-60 scenes that form 12-18 sequences that build into 3+ acts that merge and weave into each other. Accomplishing this without boring the audience with repetition requires [making](mind-creativity.md) *hundreds* of scenes and throwing out most of them. It also means most creators should pare down their feature-length stories to maximize [impact](power-influence.md).
+
+APPLICATION: The most applicable and enjoyable nonfiction uses plenty of examples to expand and clarify the idea, and gives discussion topics for everyone to [discuss](people-conversation.md) at the end. This makes the experience more interactive for the audience and, thus, more memorable.
+
+APPLICATION: Popular [trends](trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
+
+APPLICATION: Interesting stories must have dramatic shifts. This requires empathy with what can create emotional range, meaning the creator has to have had significant experience with [the good life](goodlife.md) compared to their audience.
+
+APPLICATION: The truth, in all its normalcy, is a relatively dull story. Often, we prefer a stylized, artistic depiction of reality over reality itself. We must constantly examine anything considered [true](reality.md) which also evokes strong [feelings](mind-feelings.md) because it may veer away from reality into [trust](trust.md).
+
+APPLICATION: If you're reading story lore, a wiki, or listening to a company presentation, *you're* the main character of a relatively uninteresting story.
+
+APPLICATION: Our subconscious can't tell fact from fiction, so we must be mindful of the kinds of [creations](creations.md) we consume from others. Many of them carry [philosophical poison](philosophy.md).
+
+APPLICATION: The details dictate everything. We must be *very* mindful of the elements inserted into stories, what they imply, and the [values](values.md) they define.
+
+APPLICATION: To be [influential](power-influence.md), we must learn to be great [storytellers](stories-storytellers.md).
+
+APPLICATION: Different people (e.g., [social classes](classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
+
+APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
+
+APPLICATION: People would rather have the experience of climbing social classes from lower to middle than drop from upper to middle, even if the second would be a more pleasant experience.

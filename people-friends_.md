@@ -38,7 +38,7 @@ The degree that each friend changes comes from their openness to the other frien
 2. Constituent/Partner - a shared [purpose](purpose.md), though the pursued [values](values.md) may be different, and only persists as long as there's [progress](results.md) toward shared goals.
 3. Confidant - Shared [understanding](understanding.md) that engages meaningful [human connection](humanity.md) with each other.
 
-As we [mature](maturity.md), our friendships transition from the pool of children we spent time with into the [specializations](jobs-spcialization.md) we've established for ourselves. It's not uncommon for adults to be so preoccupied with the requirements to [work](results.md) that they have very few friends.
+As we [mature](maturity.md), our friendships transition from the pool of children we spent time with into the [specializations](jobs-specialization.md) we've established for ourselves. It's not uncommon for adults to be so preoccupied with the requirements to [work](results.md) that they have very few friends.
 
 ## How
 
@@ -52,7 +52,7 @@ As we [change](people-changes.md), our friendships will change as well. Unless o
 
 We tend to build [trust](trust.md) with our friends, which is often connected with the [groups](groups-member.md) we share with them. That trust creates a profound [influence](influence.md) that affects our large-scale beliefs in many unseen ways. Our [identity](identity.md) is frequently intertwined with our friendships.
 
-Unfortunately, finding and building friendships takes time. For that reason, most people who [mature](maturity.md) enough to [build careers](jobs-spcialization.md) tend to become less effective at making friends.
+Unfortunately, finding and building friendships takes time. For that reason, most people who [mature](maturity.md) enough to [build careers](jobs-specialization.md) tend to become less effective at making friends.
 
 Our attachment isn't always straightforward, either:
 
@@ -67,7 +67,7 @@ The best form of friendship comes through [marriage](relationships-3_marriage.md
 
 - Both genders have dramatically differing forms of [reasoning](logic.md), so they [see entirely different things](image.md).
 - Since both genders are uniquely different, there's *always* things to learn from the other gender, so it never gets [boring](purpose.md).
-- The distinctions of the genders make [parenting](people-family.md) and [leadership](groups-small.md) easier to [specialize](jobs-spcialization.md) with.
+- The distinctions of the genders make [parenting](people-family.md) and [leadership](groups-small.md) easier to [specialize](jobs-specialization.md) with.
 
 This doesn't always happen, though, and people regularly violate their [moral standards](morality.md) and the relationship itself by having trysts with others.
 

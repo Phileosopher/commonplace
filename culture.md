@@ -120,7 +120,7 @@ We tend to adopt cultural values without consciously observing what we've confor
 Our choice and flow of [language](language.md) show our cultural background:
 
 - People from large groups use a clause to draw attention before they speak (e.g., "If I may have your attention, please...")
-- Their family's career [specializations](jobs-spcialization.md) and [educational level](education.md) affect that person's choice of words.
+- Their family's career [specializations](jobs-specialization.md) and [educational level](education.md) affect that person's choice of words.
 - How fast someone speaks shows the population density of where they came from.
 - Their accent and tone often implies a geographical region.
 
@@ -164,3 +164,85 @@ If the younger members of a culture are significantly different enough from the 
 The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* cultural revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war.md).
 
 In the mix of the deconstruction, a culture can suffer severe "anomie" (normlessness). While the younger people may find unlimited possibility in it, it can easily create a crisis of [meaninglessness](meaning.md) and a general feeling of [instability](unknown.md). The only solution is to institute new [rituals](habits.md) that everyone can agree to, which will likely be a [creative re-imagining](mind-creativity.md) of older rituals.
+
+
+## APPLICATION: culture
+
+APPLICATION: *Everything* we do [habitually](habits.md) with others is a cultural thing. The original [purpose](purpose.md) for many things was certainly [sensible](logic.md) when it started, but it often shifts away from [usefulness](results.md) with new [social trends](trends.md) and [technological development](technology.md).
+
+APPLICATION: If you want to be normal, find a culture that matches you. If you [are](people-family.md) (or [became](maturity.md)) a third-culture person, you'll only find normalcy and acceptance with other third-culture people.
+
+APPLICATION: When you encounter a different culture, you're engaging with someone who has a radically different view of the world. Some of their actions *will* be ineffective for certain situations, but your [friendship](people-friends.md) with them will help you [understand](understanding.md) enough to see its benefits. From there, you can judge which behavior between yours and theirs is ideal for which circumstance.
+
+APPLICATION: More differences between one generation and the next create a broader cultural divide across generations. The generation raised in the USA's 1950s is *vastly* different from the USA's 2000s, mostly due to [technology](technology.md) and certain [social trends](trends.md) (e.g., Cold War).
+
+APPLICATION: Each cultural value builds specific life skills:
+
+- Confrontational people develop strong [conflict management skills](people-5_conflicts.md), and Conflict Avoidance people become skillful at avoiding and defusing conflicts.
+- Low Context people keep things simple and High Context people learn to include kind language that hide ugly [realities](reality.md).
+- Individualistic people become highly effective at calculating a [decision's](decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
+- Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
+- Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
+- Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-4_friends.md).
+- Indulgent people understand [happiness](mind-feelings-happiness.md), while Restrained people understand [sacrifice](purpose.md).
+- Principles-First people [get more things done](results.md), but Applications-First people [understand things better](understanding.md).
+- Low Uncertainty Avoidance people are [at peace](trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
+- Low Risk Tolerance people maintain a [strong community](groups-small.md), and High Risk Tolerance people withstand [changes](people-changes.md) better.
+
+APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-boundaries.md):
+
+- Confrontational people find Conflict Avoidance people evasive. Conflict Avoidance people find Confrontational people rude.
+- Low Context people find High Context people vague. High Context people find Low Context people destructive.
+- Individualistic people find Collectivist people terrible at [decision-making](decisions.md), but Collectivist people find Individualistic people selfish.
+- Masculine people find Feminine people [needlessly cautious](safety.md) and unproductive, but Feminine people find Masculine people needlessly reckless and [workaholics](success-4_routine.md).
+- Low Power Distance people will find High Power Distance people rigidly over-trusting. High Power Distance people find Low Power Distance people rebellious.
+- Linear-Time people find Flexible-Time people as lazy and distracted, but Flexible-Time people see Linear-Time people as obsessive and change-resistant.
+- Indulgent people find Restrained people prudish and self-effacing, which Restrained people find Indulgent people reckless and self-effacing.
+- Principles-First people find Applications-First people unimaginative, but Applications-First people find Principles-First people impractical and [uncaring](mind-feelings.md).
+- Low Uncertainty Avoidance people find High Uncertainty Avoidance people obsessed with clarifying the unknowable, but High Uncertainty Avoidance people find Low Uncertainty Avoidance people comfortable with adverse [consequences](results.md).
+- Low Risk Tolerance people believe High Risk Tolerance people are [creating chaos](unknown.md), but High Risk Tolerance people believe Low Risk Tolerance people hate [good changes](people-changes.md).
+
+APPLICATION: Nobody really knows why some traditions exist. This doesn't stop them from honoring it, and it often gives [meaning](meaning.md) to that person irrespective of the tradition itself. Except for [immoral](morality.md) traditions, be careful how you condemn them, since some members need those traditions to find [peace](safety.md), and they may honor them for a [reason](purpose.md) you don't know.
+
+APPLICATION: Global cultures are simply impossible because they would require complete acceptance of dramatically different points of view. The only way they'd set aside those differences would be through a [war](people-conflicts-war.md) against a greater external threat (e.g., space aliens, [God](religion.md)).
+
+APPLICATION: Every new member of a group must learn the value of their culture's traditions for themselves. The best way to destroy a culture is for the older order to be bad at [teaching](education.md). The easiest way to teach is through a [rite of passage](maturity.md) because the next generation can maintain the older generation's [beliefs](understanding-certainty.md) through [feeling](mind-feelings.md) the experience for themselves.
+
+APPLICATION: Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](image.md) contains many profound [truths](understanding.md) that other cultures' hubris will overlook.
+
+APPLICATION: Cultures are critical to give us the framing for [meaning](meaning.md) among our social groups. Even when they're [defective](mgmt-badsystems.md), the [familiarity](habits.md) gives us [certainty](understanding-certainty.md) against the [chaos of the unknown](unknown.md).
+
+APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
+
+- Self-referencing words heavily define a nation's [identity](identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
+- Europe
+  - "Luxury" to the British translates as "detachment" because [sophistication](classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
+  - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
+  - "Shopping" is, to the French, "[learning](understanding.md) your culture" because they consider the experience to be [educational](education.md).
+  - "Luxury" to the French means "freedom" because it demonstrates the [image](image.md) of wealth.
+  - "[Education](education.md)" in Germany means "social status" because they consider [understanding](understanding.md) to be highly important.
+  - "America" in Europe creates multiple meanings: France sees it as "space travelers", Germany sees it as "John Wayne", England sees it as "unashamedly abundant".
+- China
+  - Chinese cook food in multiple locations in the home, and mealtime takes priority over [conversation](people-conversation.md), even at [business](business.md) dinners.
+- India
+  - Life for Indians is considered as a set of stages transitioning from [childhood](people-family.md) into [adult responsibilities](meaning.md), phasing into a self-reflective [philosophical](philosophy.md) stage, and terminating in a [retreat](legacy.md) from the world at large.
+- Japan
+  - "Perfection" translates to "purity" because the Japanese highly value [order](understanding-certainty.md).
+  - "Food" translates to "perfection".
+- USA
+  - American culture is preoccupied with "[doers](results.md)" more than [thinkers](philosophy.md).
+  - "[Love](people-love.md)" translates to "false expectation" because they [idolize](addiction.md) their [romantic relationships](gender.md).
+  - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries.md).
+  - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
+  - "[Work](results.md)" translates to "[who you are](identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
+  - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
+  - "[Quality](values-quality.md)" means "it [works](results.md)" because they're obsessed about [functionality](purpose.md) and convenience.
+  - "Perfection" means "death" because American society *does* value [performance](results.md), but also values the [unknown](unknown.md).
+
+APPLICATION: Depending on your [personality](personality.md), it may make a great deal of sense to move to another culture that fits you in another [career industry](jobs-specialization.md) or geographical region.
+
+APPLICATION: The timing of our experiences defines how well we receive a cultural [trend](trends.md):
+
+- Anything in the world when you're born is simply a natural part of how the world works.
+- Anything introduced between age 15 and 35 is new and exciting.
+- Anything introduced after age 35 is against the natural order of things.

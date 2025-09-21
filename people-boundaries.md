@@ -12,7 +12,7 @@ While the fringes of these boundaries have plenty of gray area up for debate, so
 There are *many* human rights:
 
 - Complete equality of their [soul](humanity.md) with all others of like souls (i.e., all humans have equal standing, all dogs have equal standing).
-- Freedom from [unfair discrimination](image.md), which includes not being [enslaved](slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
+- Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
   - The right to consent or decline to any medical procedure or practice of their body.
 - The [safety and security](safety.md) that they will stay alive, without additional unnecessary pain imposed onto them.
 - Freedom to act without fear of others sabotaging many of their things:
@@ -43,6 +43,8 @@ This isn't the limit to human rights, and there's technically no end to what can
 - Notify affected parties of relevant changes.
 - Honor what you say you'll do.
 
+APPLICATION: Don't seek extra privileges or the enforcement of your rights unless you're ready to take on the responsibilities that come with them. This will be [meaningful](meaning.md) if you do, but will be torture when you're required to act later.
+
 Privileges are expansions on our rights, but have further responsibilities associated with them.
 
 - The freedom to travel across public spaces without harassment.
@@ -56,7 +58,20 @@ The complicated part about each person's rights is that it applies to *everyone 
 
 Most [interpersonal conflicts](people-conflicts.md) are grounded on either [misunderstanding](understanding.md) boundaries or trying to [assert privileges](power.md) as if they were rights.
 
+Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](leftism.md) actually *thrive* on this sense of injustice.
+
 The [laws of a territory](rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
+
+For everyone to be truly free, we need [rules](rules.md) to protect when people violate others' freedoms.
+
+- Those rules involve taking away the rights of people who have failed in the responsibilities associated with those rights.
+- The rights-enforcers also run the risk of abusing their privileges bestowed to them, which is the formation of a [bad system](mgmt-badsystems.md).
+- In the void of sufficient rights, some people are granted privileges, which come with further responsibilities.
+
+APPLICATION: Asserting human rights is probably most of the trouble plaguing [society](groups-large.md).
+
+- We're consenting to obey a government because they do a good-enough job protecting us from [evil](morality-evil.md), but that only happens as long as we keep consenting.
+- We often create complex [rules](rules.md) to find [justice](morality-justice.md) or [peace](safety.md), but it often only slows [evil](morality-evil.md) desire and rarely ever stops it entirely.
 
 Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](imagination.md) the desire to violate others' rights for self-interest.
 
@@ -78,7 +93,13 @@ Many times, people believe their privileges *are* rights, often from a privilege
 - Any physical possession or property isn't a right if it significantly harms other individuals.
 - [Love](people-love.md) isn't a right, since that would require others to desire differently than they prefer.
 
+APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
+
 Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](rules.md).
+
+APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](socialrisk.md) on adding value to the public.
+
+APPLICATION: Nothing is technically free, and receiving *anything* is technically consenting to an unspoken agreement.
 
 ## Privacy
 
@@ -110,26 +131,8 @@ Unfortunately, there's no easy way to keep track of those keys. The manager must
 
 Unfortunately, every single security idea requires a comparatively [unsafe](safety.md) "door" or entryway that someone could theoretically enter without official authorization. Power and [understanding](understanding.md) *always* tempts our [human nature](humanity.md), so every effective privacy measure is complicated, ridiculous, and time-intensive.
 
+APPLICATION: We tend to trust [larger groups](groups-large.md) because they seem [stronger](power.md), but a larger group is *less* [safe](safety.md) than a [smaller one](groups-small.md) because they can't handle privacy as intimately.
+
 [Technology](technology.md) magnifies our results, so it also magnifies the role of privacy against intruders. We can make elaborate [security](safety.md) systems, but it allows elaborate invasions of those systems.
 
-## Reputation
-
-A person's reputation is the composite of everyone else's [image](image.md) of that person. It's extremely fickle and chaotic because it's what other people [feel](mind-feelings.md) about someone, which changes constantly.
-
-While having a reputation isn't a direct boundary, there is a certain type of [morality](morality.md) to a society thinking appropriately of someone. [Evil](morality-evil.md) people given honor is as much a perversion of [justice](morality-justice.md) as good people who are [condemned](mind-feelings-shame.md).
-
-All reputation is nothing but [sentiments](mind-feelings.md) about past events. Those sentiments, however, are [powerful](power.md), and define entire [cultures](culture.md).
-
-Because reputation is built around feelings, it's rarely [rational](logic.md). At its farthest extreme, a celebrity will make one social media remark that generates 1,500 comments, with each person feeling their single comment will [make a difference](power-influence.md).
-
-Reputations prove beforehand to others about what they should [expect](imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](insurance.md)).
-
-The limit of [power](power.md) from a reputation is what that entire [group](groups-large.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
-
-To [communicate](language.md) a reputational image is *highly* contextual and will bestow honor or shame on a person depending on the situation. Most of the value people feel from their honor and shame comes through a third party observing it, which is why [group leaders](groups-small.md) have more [power](power.md) to bestow honor and shame than [members](groups-member.md).
-
-To be famous is to have so much attention on you that you have no medium to sufficiently respond to the people who [communicate with you](people-conversation.md).
-
-Because of how much [power](power.md) a reputation can give, people will [work hard](results.md) to [distort and tweak their image](image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
-
-When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](people-friends.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
+APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](understanding.md) about it.

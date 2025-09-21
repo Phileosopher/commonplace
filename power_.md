@@ -165,7 +165,7 @@ People don't want others to be *more* [successful](success-1_why.md) than they a
 
 Focusing solely on one power sacrifices other qualities of [the good life](goodlife.md). The desire for additional power should point to non-power things. However, most people [wish](purpose.md) to learn it firsthand by becoming [wealthy](money-1_why.md) or [popular](image.md) first, at the risk of their [moral state](morality.md).
 
-Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-spcialization.md) their focus and [compete](people-conflicts.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
+Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
 
 Things like raw intellectual power or physical strength are useful forms of power, but power that enhances and magnifies *other* forms of power (e.g., [technology](technology.md), [influence](influence.md)) is far more effective in the long term.
 
@@ -177,7 +177,7 @@ Giving everyone power, such as everyone having guns, would make everyone *much* 
 
 Power reflects on capacity for [purpose](purpose.md), so we can gain tremendous power from commonplace things:
 
-- Fully [understanding](understanding.md) a concept, especially something [specialized](jobs-spcialization.md) or [philosophical](philosophy.md).
+- Fully [understanding](understanding.md) a concept, especially something [specialized](jobs-specialization.md) or [philosophical](philosophy.md).
 - Raising a [child](maturity.md) or [teaching](education.md) others.
 - [Creating or improvising](mind-creativity.md) something.
 - Doing someone a [favor](people-friends.md).

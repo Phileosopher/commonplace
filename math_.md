@@ -11,7 +11,7 @@ Math is grouping logical values we've [interpreted](image.md), but has no [purpo
 
 Technically, math only exists in the mind. It's an advanced overlap of [logic](logic.md) that sits on top of what we see as [reality](reality.md) to help us [understand](understanding.md) it more clearly.
 
-Most people who [highly value](understanding-certainty.md) math have a difficult time with the mind-based location of math, simply because its reliability within [nature](reality.md) makes them believe it's [immaculate](religion.md). Within most [STEM and accounting](jobs-spcialization.md), math *is* reality and not merely in our minds.
+Most people who [highly value](understanding-certainty.md) math have a difficult time with the mind-based location of math, simply because its reliability within [nature](reality.md) makes them believe it's [immaculate](religion.md). Within most [STEM and accounting](jobs-specialization.md), math *is* reality and not merely in our minds.
 
 ## Useful
 
@@ -33,7 +33,7 @@ In any meaningful situation, the ultimate goal of a numerical measurement will b
 
 There are many classes of math, and far too many to easily specify, but they all start with the primitives of [arithmetic and algebra](math.md).
 
-There are too many to specify, but the branches of math naturally expand proportional to the needs of the people calculating with them. This means that math (and its [pedagogy](education.md)) branch off into many, *many* [specializations](jobs-spcialization.md).
+There are too many to specify, but the branches of math naturally expand proportional to the needs of the people calculating with them. This means that math (and its [pedagogy](education.md)) branch off into many, *many* [specializations](jobs-specialization.md).
 
 However, on a highly advanced level, math has two broad purposes of analysis:
 

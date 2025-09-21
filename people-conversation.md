@@ -19,6 +19,10 @@ We're [habituated](habits.md) to conversations, so we treat them as a relatively
 
 This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](image.md) with the partial perspective of another person. This is effectively another [story](stories.md) to add to our experiences.
 
+APPLICATION: Conversations help us [understand](understanding.md) reality from others' points of view, so we gain the maximum possible understanding when we seek to understand others' views and have frequent conversations with as many people as possible.
+
+We are such social creatures that we have conversations with *ourselves*! That dialogue helps us [reason](logic.md) and [understand](understanding.md) things better, but it's a quirky trait that shows how much we need [companionship](people-friends.md).
+
 Our communication skill comes through two major sub-skills:
 
 1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](image.md) they see (listening).
@@ -64,9 +68,13 @@ Even with complete and brutal honesty, [conflicts](people-conflicts.md) from [mi
 
 Firstly, each person has a different [background](people-family.md) and [view](image.md) of the world, so we each speak with a slightly different form of [logical structuring](logic.md). Most people aren't patient enough to discover that structure, so they focus solely on [elements](image.md) they [disagree with](people-conflicts.md).
 
+APPLICATION: People who fail at communication tend to concern themselves with things they easily [identify](identity.md) and [specialize](jobs-specialization.md) in, instead of [identifying](people-friends.md) and [specializing with people](power-influence.md).
+
 Second, most people misuse [language](language.md) (at least a little). It's occasionally from inexperience (e.g., a foreign-language speaker), but the abuse language can also [nurture an image](image-distortion.md) that could grant more [power](power.md). Unfortunately, misused words trivializes their [value](values-quality.md), *especially* with [emotionally charged](mind-feelings.md) words.
 
 The long-term effect of abusing words, beyond the [individual risks](safety-riskmgmt.md) that eventually arise, no matter how, is that those words become a [relic of their times](trends.md) and depict more about the *speaker* than the idea the speaker was referencing.
+
+APPLICATION: When people misuse words, we must clarify what that person [means](purpose.md). Very often, people are destroying the value of that word by misusing it.
 
 Finally, we tend to [identify](identity.md) with certain words or against other words. In doing this, we give *much* more [value](purpose.md) to those words than the words would typically associate. Nobody can be defined with only a few words.
 
@@ -90,6 +98,8 @@ This shared understanding dramatically expands our view of the world, often fart
 
 This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 
+APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
+
 As we integrate this understanding in with ours, we end up having two [perspectives](image.md) in our mind at the same time: theirs and ours. If we can successfully harmonize both views as equally valid, without [needless invalidation](conflicts-inner.md), we can frequently see other things as if we *were* two people seeing something.
 
 When we compound this form of understanding across all people, any one person can be as [wise](understanding.md) as everyone that person has encountered and learned from, up to the limits of their mental capacity and [desire](purpose.md).
@@ -103,3 +113,5 @@ When we discuss a [painful](hardship-ptsd.md) part of our experiences, we frame 
 There is another effect, though. By reliving an experience in a way that includes someone else, that other person shares in that relived experience and gives us a sense of [meaning](meaning.md) out of a shared suffering.
 
 With the response of someone else, we'll often feel less alone about that experience, but will also consider the situation resolved through its expression. It may feel like a [creative result](results.md) that somehow created a benefit for someone else's life, or simply the acknowledgement that our [feelings](mind-feelings.md) from an experience were not a completely [solitary](hardship-solitude.md) phenomenon.
+
+APPLICATION: The only way to make an [AI](computers-ai.md) chatbot work correctly is to prevent the conversation from going on too long. After about 2-3 minutes (or maybe longer), the AI won't have enough memory to remember *everything* in the conversation. That AI would also have to have selective memory loss as well that refines the information into human-like [stories](stories.md).

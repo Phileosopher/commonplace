@@ -84,9 +84,13 @@ To the casual reader seeking [meaning](meaning.md) through post-modern writing, 
 
 The trouble with this thinking, though, is that it only deconstructs. In postmodern thought, anything absolute, no matter how [good or right](morality.md), will be dismantled into vagueness and nothingness. Its natural consequence will always strip [meaning](meaning.md) from whatever it touches.
 
+APPLICATION: To find out if a philosophy *actually* works to live a [good life](goodlife.md), observe that philosopher's personal life, which is relatively easy to do across the [lens of history](stories-storytellers.md).
+
 Whether it was through finding [happiness](mind-feelings-happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](understanding.md) in the first place.
 
-Ironically, the modern philosophers were utterly dismayed at their discovery of the meaningless. They were seeking truth, but without considering whether something was good or beautiful.
+Ironically, the modern philosophers were utterly dismayed at their discovery of the meaningless. They were seeking truth, but without considering whether something was good or beautiful, and in the utter absence of any [religion](religion.md) to frame it.
+
+APPLICATION: Any philosopher who says we can't know anything, then continues to assert themselves without explaining how knowing that gives any [meaning](meaning.md), has [logically](logic.md) invalidated themselves and isn't worth listening to. This also broadly applies to people in *many* domains (e.g., [science](science.md), [economics](economics.md)) who believe in [statistics](math-stat.md) but claim that correlation doesn't connect with causation.
 
 The only way out of it is to accept Lewis' Tao: that [universals](humanity-universals.md) non-negotiably exist, no matter how much we [say](language.md) they don't.
 
@@ -111,11 +115,17 @@ Philosophy's [culture](culture.md) has become a [trended](trends.md)-out [creati
 
 The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](image.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 
+APPLICATION: Most philosophy (as well as [theology](theology.md)) [educators](education.md) teach *about* philosophy, but fail to teach *with* philosophy or *how* to use philosophy.
+
 ## Power
 
 Philosophy is raw [power](power.md), like money or [understanding](understanding.md) about the [stock market](money-investing.md). Like any other power, it's only useful if it builds toward something that ultimately *isn't* another version of more power.
 
+APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](understanding.md), or they're wasting their time.
+
 Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
+
+APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.md) and [traditionally minded](culture.md) people) because they ask uncomfortable questions that may threaten the [power of those leaders](power-types.md) and change [the way things have always been done](habits.md).
 
 On the other hand, philosophical understanding makes *many* other aspects of life easier:
 
@@ -125,7 +135,11 @@ On the other hand, philosophical understanding makes *many* other aspects of lif
 - To stay precise to the truth, learning things requires *far* less mental rework later.
 - [Decisions](decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
 
+APPLICATION: Philosophy has gotten a bad reputation because of [educators](education.md) who fail to see how the average person is *not* seeing its use. However, average people will naturally build philosophies through living their lives.
+
 Some philosophy is *absolutely* necessary for [the good life](goodlife.md), but only as needed. Very often, people call philosophy by other names like "common sense", "critical thinking", and "sensibility".
+
+APPLICATION: The time and place for philosophy is when it builds into [the good life](goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](understanding.md).
 
 Be careful who you read, though. The [culture](culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
@@ -133,6 +147,12 @@ Be careful who you read, though. The [culture](culture.md) a philosopher surroun
 2. Transforming society is an [uphill battle](people-conflicts.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
+APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories.md) or a few years of life experience.
+
 In that sense, all philosophers are idealists (or bitter idealists), which is why most practical people find them insufferable.
 
+APPLICATION: Most philosophers have lots of wisdom, but not much common sense, especially about knowing the time and place to discuss philosophy.
+
 However, while a massive portion of philosophers are devising mental explorations for fun, quite a few work to know the ideal way to behave, think, and act.
+
+APPLICATION: Don't pay too much attention to the pretensions around philosophy. It'll ruin your [experience](values-quality.md) of consuming the philosophers worth your time.
