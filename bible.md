@@ -299,7 +299,7 @@ Jesus' coming had [*hundreds* more prophecies fulfilled](jesus-prophecies.md).
 
 ## Scripture wasn't written in a dramatic setting
 
-The people who wrote the Bible were living people in ancient societies, with their own mundane [personalities](personality.md), [cultures](culture.md), and [political problems](politics-systems.md).
+The people who wrote the Bible were living people in ancient societies, with their own mundane [personalities](personality.md), [cultures](people-culture.md), and [political problems](politics-systems.md).
 
 - The writer always had a [purpose](purpose.md) beforehand for they were writing for, and God spoke in that purpose through those people at that moment, outward into the writing, across the lens of history to *everyone*.
 - The Bible was *not* an abstracted paranormal event, and instead came through the Holy Spirit delivering a divine spark of [creative](mind-creativity.md) wisdom, similar to other arts that capture beauty and truth.
@@ -332,7 +332,7 @@ Many people have made dramatic modifications to the Bible, but they *never* gain
 
 The Bible is vague on *many* things, and that was God's intent.
 
-- By God intentionally omitting certain information, each [culture](culture.md) can fill in the gaps on how to implement many of His commands (even if they have [conflicts with each other](conflicts-christian.md) about *how* something implements).
+- By God intentionally omitting certain information, each [culture](people-culture.md) can fill in the gaps on how to implement many of His commands (even if they have [conflicts with each other](conflicts-christian.md) about *how* something implements).
   - God works through [the Church at large](church.md) just as much as through the messages contained in the Bible.
 - The Bible will answer every "what" question you could have about [ethical matters](morality.md), and answers *many* practical "how" questions, but rarely gives a direct "why" answer to an abstract concept.
 - We'll often discover the answers to our "why" questions if we're [open-minded](understanding.md) and meditate deeply on [how God framed the Bible](bible-study.md).

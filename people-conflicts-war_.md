@@ -106,7 +106,7 @@ When two or more groups attack each other, their relative size makes a profound 
 But, there are a few universal aspects irrespective of size or context:
 
 - The lowest-ranking members, unrelated groups, and bystanders are *always* the most harmed. Most of the leadership are using others' power, but tend to [care](people-love.md) more about the [power](power.md) they wield and who they're destroying than any concern over their own [members](groups-member.md).
-- If the leaders are [unscrupulous](morality-evil.md), they'll attack their opponents' [symbolic](symbols.md) treasures. By damaging symbols, they damage their opponents' [cultural values](culture.md). Depending on the culture, this will sometimes provoke their [desire](purpose.md) for [vengeance](hardship-ptsd.md), but the long-term consequence of this is that the culture is diluted or dismantled.
+- If the leaders are [unscrupulous](morality-evil.md), they'll attack their opponents' [symbolic](symbols.md) treasures. By damaging symbols, they damage their opponents' [cultural values](people-culture.md). Depending on the culture, this will sometimes provoke their [desire](purpose.md) for [vengeance](hardship-ptsd.md), but the long-term consequence of this is that the culture is diluted or dismantled.
 - If a group starts losing, the [loyalty](trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
@@ -213,7 +213,7 @@ Modern warfare has tried to create some form of civility to war, especially as [
 
 The reasoning that drives the [rules](rules.md) around forbidden weapons is absurd. Beyond torture, killing a person is the worst thing you can do to them, and war is built around the threats and means of killing people. Some implements of war create devastating results that *don't* kill people (e.g., landmines), but the purpose of others is to make killing more [efficient](results.md) (e.g., hollow-point bullets).
 
-Further, the "rules of engagement" imply that only combatants should be harmed, and not civilians. While this may make sense in a war where the attacking and defending force are in relatively new territory, this is practically unenforceable when the defender is in their homeland and the [culture](culture.md) of the defender's [family](people-family.md) advocates for revenge. At that point, every civilian is a *possible* combatant.
+Further, the "rules of engagement" imply that only combatants should be harmed, and not civilians. While this may make sense in a war where the attacking and defending force are in relatively new territory, this is practically unenforceable when the defender is in their homeland and the [culture](people-culture.md) of the defender's [family](people-family.md) advocates for revenge. At that point, every civilian is a *possible* combatant.
 
 There are other rules that often become war crimes if not followed, most of them coming from the four Geneva Conventions:
 
@@ -250,7 +250,7 @@ Sometimes, the *allies* drawn into the conflict will fight among each other long
 
 Whoever wins gets to claim all the resources. The members' continued [loyalty](image.md) comes from how [fair](morality-justice.md) they feel their portion is.
 
-After the event, the winners get to [write the story](stories-storytellers.md), and it becomes part of their [culture](culture.md). In it, their group is *always* the [protagonist](stories.md), barring certain cases of [leftism](leftism.md) and [Christianity](history-church.md).
+After the event, the winners get to [write the story](stories-storytellers.md), and it becomes part of their [culture](people-culture.md). In it, their group is *always* the [protagonist](stories.md), barring certain cases of [leftism](leftism.md) and [Christianity](history-church.md).
 
 Typically, the [youth](maturity.md) will hear the [stories](stories.md) and take them at [face value](image.md), and will often become the most powerful advocates for future conflicts about the subject. Some people, such as the Nazis and [leftists](leftism.md), adapt those [stories](stories.md) to re-educate young people and [empower](power.md) future conflicts with them.
 
@@ -278,7 +278,7 @@ Often, the only grace a large group will give is to [maintain image](image-disto
 
 The losing side isn't always innocent or a victim. Often, they're only [distorting their image](image-distortion.md) to gain [favor](image.md) from you.
 
-The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](culture.md) will [diverge](people-conflicts.md) wildly from the same event.
+The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](people-culture.md) will [diverge](people-conflicts.md) wildly from the same event.
 
 Controlling and directing a riot is very difficult. While some people, especially the [Left](leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 

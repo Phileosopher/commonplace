@@ -155,7 +155,7 @@ When you first start out, junior software development is a bit of a demotion, bo
 
 The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of them craft their [image](image.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on who's managing you.
 
-No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](culture.md) you may grow to love) will ever last more than 2-5 years.
+No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](people-culture.md) you may grow to love) will ever last more than 2-5 years.
 
 At the same time, understand how valuable you are relative to the job market. In the dot-com era and post-COVID, managers were *desperate* for tech people, and would give any benefits they'd ask for. But, after the dot-com bubble burst or the 2008 market crash, managers could set whatever standards they wanted. The [trends](trends.md) cycle through this constantly.
 

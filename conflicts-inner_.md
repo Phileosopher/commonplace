@@ -23,7 +23,7 @@ When we must consciously choose something, we must [decide](decisions.md). But, 
 1. If we've made a reliable [habit](habits.md) of denial, we can use dismissal and defense mechanisms to force the idea back into the unconscious again and maintain our cognitive dissonance.
 2. If we have enough willpower and [courage](understanding-certainty.md) against our [fears](mind-feelings-fear.md), we can rapidly make a [morally good](morality.md) decision, stand strong on that conviction, and not think about it anymore until we feel ready. Quick moral decisions are the best solution when we're not [emotionally](mind-feelings.md) ready to handle a challenging string of decisions, and gives us [power](power.md) over the [unknown](unknown.md) even when we're still [uncertain](understanding-certainty.md).
 
-We usually don't like confronting inner conflicts because it will often require *many* [changes](people-changes.md) if we must revisit a [habit](habits.md), proportional to how long we've had that habit. Typically, accepting a small, one-sentence fact can rearrange our entire perspective of the world and disrupt our [way of life](culture.md).
+We usually don't like confronting inner conflicts because it will often require *many* [changes](people-changes.md) if we must revisit a [habit](habits.md), proportional to how long we've had that habit. Typically, accepting a small, one-sentence fact can rearrange our entire perspective of the world and disrupt our [way of life](people-culture.md).
 
 These conflicts represent in [literature](stories.md), and embody 9 relatively separate domains:
 

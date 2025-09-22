@@ -91,7 +91,7 @@ Stories are crudely drawn [maps](image.md) that point to [meaning](meaning.md), 
 - [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](lawsaxioms.md), that communicate important [lessons](understanding.md).
 - The motivation to convey a story is always driven, at least partly, by the [emotion of anger](mind-feelings-anger.md).
 
-APPLICATION: Popular [trends](trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
+APPLICATION: Popular [trends](trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](people-culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
 
 Since it's a map and not an accurate depiction, a story is always an exploration of extremes.
 
@@ -111,7 +111,7 @@ Every story has a main character (protagonist), who always experiences an [inner
 
 The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](imagination.md), [performing](decisions.md), or [experiencing consequences](results.md).
 
-The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](culture.md) of the creator is critically important.
+The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
 
 Across the duration of *any* story, it contains 7-8 "[movements](people-changes.md)" that alter the flow or [feeling](mind-feelings.md) of the story. The story itself is a consequence, not just of a setting, of the main character (who is defined as a Hero). The main character is always facing [the unknown](unknown.md) through a ridiculously predictable set of circumstances:
 
@@ -139,7 +139,7 @@ In retelling, the timeline of a story will move at several different relative sp
 
 ### Beginning (exposition/thesis)
 
-The beginning of the story starts with a "normal" environment. The main character is in a zone they feel [safe](safety.md) in, which often includes a comfortable setting and [culturally](culture.md) typical [family](people-family.md). However, they want something they can't get in that zone. In nonfiction facts (e.g., [self-help guides](https://adequate.life/habits/), [philosophy](philosophy.md), [science](science.md)), the main character is typically the author or the reader.
+The beginning of the story starts with a "normal" environment. The main character is in a zone they feel [safe](safety.md) in, which often includes a comfortable setting and [culturally](people-culture.md) typical [family](people-family.md). However, they want something they can't get in that zone. In nonfiction facts (e.g., [self-help guides](https://adequate.life/habits/), [philosophy](philosophy.md), [science](science.md)), the main character is typically the author or the reader.
 
 At times, the starting point is in the middle of a [conflict](people-conflicts.md). Other times, it's *extremely* long documentation of the environment. But, it's always a starting point the audience has some [familiarity](understanding.md) with.
 
@@ -312,7 +312,7 @@ To add value to the story, every additional character should be able to evoke un
 
 Extremely effective stories *all* carry the same highly polished components:
 
-1. The story is simple enough to hit the audience's [feelings](mind-feelings.md). The audience will find it amusing and want to continue consuming it, usually because there's a [new](image.md) experience inside the story and because it's fulfilling a [wish](purpose.md) embedded in the audience's [culture](culture.md). This only comes from the [creator](mind-creativity.md) having a fierce [belief](understanding-certainty.md) they want to share through that story.
+1. The story is simple enough to hit the audience's [feelings](mind-feelings.md). The audience will find it amusing and want to continue consuming it, usually because there's a [new](image.md) experience inside the story and because it's fulfilling a [wish](purpose.md) embedded in the audience's [culture](people-culture.md). This only comes from the [creator](mind-creativity.md) having a fierce [belief](understanding-certainty.md) they want to share through that story.
 2. The [storyteller](stories-storytellers.md) will intentionally omit information. They [understand](understanding.md) a more elaborate concept, but they use simpler ideas to articulate smaller ideas, then require the audience to connect the larger picture.
 3. Few or no [facts](reality.md) refute the story, which implies that it's true or could easily be true. The creator will often obscure the details by using their [authority](power.md) or something unknown instead of [logic](logic.md) for the audience to [feel persuaded](influence.md):
    - Describing the story firsthand, but explaining how all evidence of it was lost (older fiction)
@@ -321,7 +321,7 @@ Extremely effective stories *all* carry the same highly polished components:
    - Unknowable [fears](mind-feelings-fear.md) take on a more tangible form (horror)
 4. The entire story will [appear](image.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](understanding-certainty.md) the unknown.
 
-Audiences have a limited attention span, so less details mean more impact. To maximize details that create meaning for certain [cultures](culture.md), most genre styles *heavily* expand details of a story:
+Audiences have a limited attention span, so less details mean more impact. To maximize details that create meaning for certain [cultures](people-culture.md), most genre styles *heavily* expand details of a story:
 
 - Sci-fi/fantasy focuses on the world, with sci-fi emphasizing [technical details](technology.md) and fantasy expanding [long-term history](legacy.md) and [myths](stories-myths.md) with at least some emphasis on [religion](religion.md).
 - Biographies and small-scale stories focus on characters.

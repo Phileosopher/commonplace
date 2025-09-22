@@ -21,7 +21,7 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
      - They are useful to get a context, but can *quickly* create [conflicts](conflicts-christian.md) around others' opinions more than the actual text.
      - **Devotional** are reading-focused mini-essays on verses or passages.
      - **Critical** commentaries look at various perspectives, so they end up becoming commentaries on commentaries.
-     - **Cultural** is built to give [historical context](culture.md) around when the text was written.
+     - **Cultural** is built to give [historical context](people-culture.md) around when the text was written.
    - **Sermonic** (aka Pastoral or Application) are essentially reworked sermons, so they end up as a hybrid of both exegetical and expository.
    - **Holistic** (aka Connective or Associative) focuses on Bible verse connections with other Bible verses.
    - Commentary categories sit more on a "spectrum" between exegetical and expository, but it's sometimes difficult to precisely analyze.

@@ -27,7 +27,7 @@ Conflicts aren't always fighting with others, but can be:
 - Sometimes, it's simply a disagreement or [misunderstanding](understanding.md).
 - While [respect for others](people-3_respect.md) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
 
-APPLICATION: When we use [technology](technology.md) to increase the amount of time we can [communicate](people-conversation.md), we often lose the [quality](values-quality.md) of each individual engagement compared to in-person. Since technology removes distance, it mixes us with various [cultures](culture.md) across the world, and our conflicts are guaranteed to become more frequent.
+APPLICATION: When we use [technology](technology.md) to increase the amount of time we can [communicate](people-conversation.md), we often lose the [quality](values-quality.md) of each individual engagement compared to in-person. Since technology removes distance, it mixes us with various [cultures](people-culture.md) across the world, and our conflicts are guaranteed to become more frequent.
 
 We engage directly in conflict when the trouble of making the conflict becomes less than avoiding it.
 
@@ -52,7 +52,7 @@ Gratitude and revenge tend to complicate conflicts:
 - For this reason, we impose past experiences that may not apply to present situations.
 - The only way to stay level-headed in a conflict is to ignore both for yourself while understanding how others interpret it.
 
-Since most people are [higher agreeableness](personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-5_conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](culture.md) and [norms](people-3_boundaries.md).
+Since most people are [higher agreeableness](personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-5_conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](people-culture.md) and [norms](people-3_boundaries.md).
 
 But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
 

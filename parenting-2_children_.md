@@ -220,7 +220,7 @@ Be careful with what you give them, and on what terms:
 Make a list of up to 10 things, more importantly than anything else, you want your child to know by adulthood:
 
 - This won't be exact and will somewhat shift throughout their childhood.
-- However, it should give you an approximate set of values to frame the [culture](culture.md) you want them to carry into the rest of their lives.
+- However, it should give you an approximate set of values to frame the [culture](people-culture.md) you want them to carry into the rest of their lives.
 
 They must know they're loved:
 
@@ -1185,7 +1185,7 @@ Only a few things cause the worst parenting:
 - Focusing on what the child is doing instead of what causes their behavior (which often expresses as an "I feel..." or "I need..." statement).
 - [Fear](mind-feelings-fear.md)-driven prevention of letting a child learn things for themselves.
 - Impatience at a child's comparatively aimless or whimsical approach to tasks.
-- A narrow [cultural range](culture.md) from only a few caretakers (i.e, no extended family or friends babysitting).
+- A narrow [cultural range](people-culture.md) from only a few caretakers (i.e, no extended family or friends babysitting).
 
 Watch for frequent discipline:
 
@@ -1322,7 +1322,7 @@ You're never going to get parenting completely right:
 - The only way to be a perfect parent is to be a perfect role model, which is humanly impossible.
 - Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](decisions.md), *not* the quality of their parenting.
 - At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-4_friends.md) in adulthood, decades later.
-- There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](culture.md).
+- There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](people-culture.md).
 
 Society vilifies relatively innocuous issues compared to what really matters:
 

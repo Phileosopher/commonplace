@@ -3,7 +3,7 @@
 
 While racism is the most obvious way to experience unfairly [biased](mind-bias.md) rejection, there are many ways to be a victim of others' prejudice:
 
-Everyone has a [bias](mind-bias.md), and you might just be unlucky to have your [culture](culture.md) of origin:
+Everyone has a [bias](mind-bias.md), and you might just be unlucky to have your [culture](people-culture.md) of origin:
 
 - Born the wrong skin color or [ethnic association](people-family.md) for that country (i.e., a minority race).
 - Born into the wrong family (i.e., a lower [social class or caste](classes.md)).
@@ -32,7 +32,7 @@ Cut down on bigotry by redefining yourself:
   - To look younger, [lose weight and get in shape](body-3_exercise.md).
   - Shave off hair to look younger as a male, and grow it out to look older.
 - Race discrimination usually establishes itself upon skin color, but sometimes on [family background](church-family.md).
-  - Most of the time, it's between whites and non-whites, but often blurs into [cultural aspects](culture.md) as well.
+  - Most of the time, it's between whites and non-whites, but often blurs into [cultural aspects](people-culture.md) as well.
   - Use a nickname that's similar to the culture you're trying to integrate with, or consider legally changing your name to something commonplace (e.g., "Ahmad" in a Middle Eastern country).
   - In the USA, *any* Spanish race of any amount on documentation is "Hispanic or Latino".
 - Gender discrimination is usually either against males or LGBetc.

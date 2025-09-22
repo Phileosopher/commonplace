@@ -2,7 +2,7 @@ Economics is the "soft [science](science.md)" of how (and more importantly why) 
 
 Money is the easiest way we can store and retrieve value, so measuring the flow of money is a decent-enough way to track how [power and wealth](power.md) are created and moves between people.
 
-Money flow measures [well-being](goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
+Money flow measures [well-being](goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](people-culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
 
 However, economic measurements aren't very precise:
 
@@ -16,7 +16,7 @@ Irrespective, there is a type of free market wired into our existence, which rep
 
 We make [choices](decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
 
-We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](imagination.md) long-term. Because it's tethered to [culture](culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
+We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
 We tend to assign more value to things we have than things we don't, which means we tend to only [feel right](mind-feelings.md) about selling our things at a price higher than what we paid for. For this reason, even when the price of something is *very* fixed, there's always 2 prices (a lower "asking price" and a higher "receiving price").
 
@@ -174,7 +174,7 @@ Human capital is the added total of someone's non-material assets:
 - [Creativity](mind-creativity.md)
 - [Willpower](humanity.md)
 
-Unlike money, human capital is *very* difficult to measure. Most economists don't consider the [culture](culture.md) of a people group in their projections, and ambitious cultures who value wealth are often compared with relaxed cultures who find [meaning](meaning.md) without money, with an *extreme* discrepancy between the measurement and reality.
+Unlike money, human capital is *very* difficult to measure. Most economists don't consider the [culture](people-culture.md) of a people group in their projections, and ambitious cultures who value wealth are often compared with relaxed cultures who find [meaning](meaning.md) without money, with an *extreme* discrepancy between the measurement and reality.
 
 [Education](education.md) is the most powerful human capital [when with other people](influence.md). With it, people can easily avoid or overcome most hardships and losses.
 
@@ -226,7 +226,7 @@ Everyone [expects](imagination.md) markets, or at least certain items on those m
 
 Several factors mean the patterns of market behavior will never occur the same way each time:
 
-- Across years and generations, the [culture](culture.md) has shifted, so everyone's [decisions](decisions.md) will be a little different.
+- Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](decisions.md) will be a little different.
 - The [technology](technology.md) has changed, often for the better, meaning [information](understanding.md) will flow *much* faster and change [narratives](stories-storytellers.md) more rapidly.
 - People *know* [what happened last time](stories-storytellers.md), so they will make [changes](decisions.md) based on that information. Often, they'll start a [trend of knowledge](trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
 
@@ -271,7 +271,7 @@ Most free countries mix supply side and redistributionism together. A tax system
 
 [History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war.md), people need at least some freedom to make [decisions](decisions.md), even if they're bad.
 
-Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](imagination.md) models.
+Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](imagination.md) models.
 
 * * * * *
 
@@ -417,7 +417,7 @@ However, a nation's leadership [doesn't always want completely free trade](mgmt-
 
 Even when a group is collectively producing more than exporting, they may operate at a trade surplus because of the relative market value of that product. This can get confusing when a rich nation is somehow making more of a product than they need from other countries, but the supplier countries *still* influence the market price.
 
-Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war.md) or [bureaucratic incompetence](mgmt-badsystems.md).
+Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](people-culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war.md) or [bureaucratic incompetence](mgmt-badsystems.md).
 
 A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 
@@ -447,7 +447,7 @@ Building wealth is valuable to advancing [the good life](goodlife.md) in a socie
 
 A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](classes.md) will always want to vote for whatever gets them more free stuff.
 
-Economic growth is only partly connected to [well-being](goodlife.md). It *can* give more things people need, but true [meaning](meaning.md) comes through [wealth-building](creations.md) *far* more than having it. Any attempt to [measure](math.md) well-being in a society or between [cultures](culture.md) is impossible because we can't put numbers on satisfaction about *anything*, and it's a relative concept.
+Economic growth is only partly connected to [well-being](goodlife.md). It *can* give more things people need, but true [meaning](meaning.md) comes through [wealth-building](creations.md) *far* more than having it. Any attempt to [measure](math.md) well-being in a society or between [cultures](people-culture.md) is impossible because we can't put numbers on satisfaction about *anything*, and it's a relative concept.
 
 Markets are chaotic, so economists make statistical correlations, which [don't necessarily tie to causation](math.md). They'd be out of a job [if they didn't explain cause-and-effect](science.md), even if they're utterly wrong.
 

@@ -23,7 +23,7 @@ The great misconception about creativity is that it comes effortlessly:
 
 ## Attitudes of creative people
 
-To find unconventional solutions, you must let yourself think outside the conventions of your [culture](culture.md) and [understanding](understanding.md).
+To find unconventional solutions, you must let yourself think outside the conventions of your [culture](people-culture.md) and [understanding](understanding.md).
 
 Reacting to impulses or survival instincts always produces conventional results:
 
@@ -402,7 +402,7 @@ Don't worry about giving your secrets away:
 - Since there's nothing really new, good creations often feel like plagiarism.
 - Most people in creative careers hide who they're imitating without even trying:
   1. We're not very good at *perfectly* imitating.
-  2. There's usually a [cultural gap](culture.md) between a creator and the person they're imitating.
+  2. There's usually a [cultural gap](people-culture.md) between a creator and the person they're imitating.
 
 [Build a plan](success-3_goals.md) for how to do it.
 

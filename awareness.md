@@ -86,7 +86,7 @@ Awareness is *only* useful for detecting problems.
 Too much awareness can sometimes make people more *selfish*.
 
 - The large-scale purpose of increased awareness should be primarily to [serve others' interests](people-3_respect.md).
-- Depending on your [social status](groups-member.md) and [culture](culture.md), knowing certain facts can inhibit your [success](success-1_why.md) or prevent you from being a [decent human being](people-3_respect.md).
+- Depending on your [social status](groups-member.md) and [culture](people-culture.md), knowing certain facts can inhibit your [success](success-1_why.md) or prevent you from being a [decent human being](people-3_respect.md).
 
 Further, we sometimes must pace ourselves, since too much truth at once may overwhelm us.
 

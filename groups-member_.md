@@ -23,7 +23,7 @@ We're automatically associated with a few groups from our upbringing:
 - Our family's [trades](jobs-specialization.md) and [skills](understanding.md).
 - Formalized education and clubs we've attended or been forced to attend.
 
-While we all naturally identify with at least some of our [culturally](culture.md) established groups, we make [decisions](decisions.md) later that identify with *other* scopes of living:
+While we all naturally identify with at least some of our [culturally](people-culture.md) established groups, we make [decisions](decisions.md) later that identify with *other* scopes of living:
 
 - [Risk-averse](safety.md) people tend to identify with [accountants](accounting.md), [insurance](insurance.md), [cybersecurity](computers-cysec.md), and [bureaucrats](bureaucracy.md).
 - Social people identify with salespeople and [marketers](marketing.md).
@@ -32,9 +32,9 @@ While we all naturally identify with at least some of our [culturally](culture.m
 - People who share a common [faith](understanding-certainty.md) identify with specific [religions](religion.md).
 - People can share a common [belief](understanding-certainty.md) in a method or approach (e.g., [scientists](science.md), [self-improvement](https://adequate.life/habits/) clubs, [philosophers](philosophy.md)).
 
-As followers of various groups, the [leaders](groups-large.md) of that group (along with all the [sub-leaders](groups-small.md)) define the values the group follows. Very often, if that group has been around longer than the present leaders, the entire group has created its own [culture](culture.md) and [reputation](image.md).
+As followers of various groups, the [leaders](groups-large.md) of that group (along with all the [sub-leaders](groups-small.md)) define the values the group follows. Very often, if that group has been around longer than the present leaders, the entire group has created its own [culture](people-culture.md) and [reputation](image.md).
 
-To join a group, a member must demonstrate a sacrifice of [power](power.md) (and likely promising a future sacrifice) in exchange for a different form of power (or future power) inside the group (e.g., promising labor/expertise for the promise of money). It typically leans to more power submitted by the member (such as becoming a member of a church), and is usually meant to [represent](image.md) loyalty through that sacrifice. This sacrifice creates an in/out-group mentality that forms the group's [culture](culture.md) compared to its surrounding environment.
+To join a group, a member must demonstrate a sacrifice of [power](power.md) (and likely promising a future sacrifice) in exchange for a different form of power (or future power) inside the group (e.g., promising labor/expertise for the promise of money). It typically leans to more power submitted by the member (such as becoming a member of a church), and is usually meant to [represent](image.md) loyalty through that sacrifice. This sacrifice creates an in/out-group mentality that forms the group's [culture](people-culture.md) compared to its surrounding environment.
 
 Typically, most group members [trust](trust.md) their [leaders](groups-small.md). Instead of [understanding](understanding.md) things for themselves, it's less work to let the leaders understand things and tell them what to [do](results.md).
 
@@ -52,7 +52,7 @@ We continue thinking of the group as our source of [meaning](meaning.md) and [pu
 
 The only way people continue indefinitely in a group is if the members see the group's [actions](results.md) as always [loving](people-love.md) or [virtuous](morality.md). Otherwise, members only stay in the group as long as they can advance self-interested [opportunities](purpose.md) or are scoping out a new group elsewhere to eventually go to.
 
-When most of the group's members can no longer see [love](people-love.md) or [virtue](morality.md), the entire system devolves into a [power](power.md) game. At that point, the only way the group persists, barring a [cultural shift](culture.md) by one of the [leaders](groups-small.md), is through promising and (at least sometimes) giving [power](power.md) to the members.
+When most of the group's members can no longer see [love](people-love.md) or [virtue](morality.md), the entire system devolves into a [power](power.md) game. At that point, the only way the group persists, barring a [cultural shift](people-culture.md) by one of the [leaders](groups-small.md), is through promising and (at least sometimes) giving [power](power.md) to the members.
 
 ## Conformity
 
@@ -62,7 +62,7 @@ We tend to conform our lifestyles to match the group's to the degree we [identif
 2. We're trying to [adapt](people-changes.md) to the standards we think will [influence](influence.md) the other members the most, which means we [value](purpose.md) what we think the group values and do what the group [expects](imagination.md).
 3. We [anticipate](imagination.md) future purposes will also work best if we conform to those standards.
 
-The amount the group [expects](imagination.md) us to conform is proportional to its size. [Large groups](groups-large.md) expect near-total submission, while small groups have far fewer expectations. The [conflict](people-conflicts.md) between the individuals and the leadership defines a *massive* portion of its [culture](culture.md).
+The amount the group [expects](imagination.md) us to conform is proportional to its size. [Large groups](groups-large.md) expect near-total submission, while small groups have far fewer expectations. The [conflict](people-conflicts.md) between the individuals and the leadership defines a *massive* portion of its [culture](people-culture.md).
 
 While we conform, we tend to believe social [rules](rules.md) are the [reality](reality.md) itself around us. However, they're simply everyone's shared [imagination](imagination.md).
 
@@ -108,7 +108,7 @@ There are a host of reasons we decide to leave a group:
 - We've [changed](people-changes.md) too much to conform to the group's standards anymore.
 - We've run out of [purposes](purpose.md) the group can satisfy.
 - We've [grown up](maturity.md) and no longer are interested in what that group offers anymore.
-- The group has changed, but we haven't, and we want to retain the [culture](culture.md) we used to have.
+- The group has changed, but we haven't, and we want to retain the [culture](people-culture.md) we used to have.
 
 We only have a few options in that situation:
 
@@ -126,9 +126,9 @@ We must stay vigilant to the influence our groups have upon us. Most people imag
 
 [Unloving](people-love.md) groups are all power games. A cult leader focuses power upwards, and self-help seminars focus power on each individual, but it's all the same mechanism of rearranging power from its natural state.
 
-Associating with a group that doesn't reflect any of your [values](purpose.md) is a waste of time because you're investing in something you don't stand for. If you don't [expect](imagination.md) you *will* [change](people-changes.md) to match the group's [culture](culture.md), you're better off finding a group somewhere else or [making your own](groups-small.md). The worst-case (and likely) possibility if you don't leave is that the group will mold you into a jaded shell of what you were.
+Associating with a group that doesn't reflect any of your [values](purpose.md) is a waste of time because you're investing in something you don't stand for. If you don't [expect](imagination.md) you *will* [change](people-changes.md) to match the group's [culture](people-culture.md), you're better off finding a group somewhere else or [making your own](groups-small.md). The worst-case (and likely) possibility if you don't leave is that the group will mold you into a jaded shell of what you were.
 
-People [change](people-changes.md) individually at different rates, but the group changes at the average speed of all the individuals together. So, anyone significantly above or below average will grow slower or faster than everyone else. The faster ones will often outgrow the group unless they receive positions of [influence](influence.md), but the slower ones will often become mainstays of the group and slow down its [cultural changes](culture.md).
+People [change](people-changes.md) individually at different rates, but the group changes at the average speed of all the individuals together. So, anyone significantly above or below average will grow slower or faster than everyone else. The faster ones will often outgrow the group unless they receive positions of [influence](influence.md), but the slower ones will often become mainstays of the group and slow down its [cultural changes](people-culture.md).
 
 The larger a group grows, the more extreme [personalities](personality.md) it'll acquire, and those extreme personalities become the [representation](image.md) of that group to everyone else. For that reason, by the time a group becomes [large](groups-large.md), it's already become different from it was when it was small.
 

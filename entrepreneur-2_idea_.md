@@ -51,7 +51,7 @@ Finding a mentor can prevent the most common (and the most extreme) mistakes.
 
 - The most important wisdom from mentors is what *not* to do.
 - They're typically the most qualified people to criticize what you're doing, though they can sometimes be wrong.
-- Many of them know how other people in the industry think, though their own successes may have been so long ago that it was a different [culture](culture.md) at the time.
+- Many of them know how other people in the industry think, though their own successes may have been so long ago that it was a different [culture](people-culture.md) at the time.
 - If you desperately want that mentor, and they're hesitant, offer them a minority share of the company.
 
 Regularly network with others.

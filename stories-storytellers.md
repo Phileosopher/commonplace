@@ -11,7 +11,7 @@ APPLICATION: It's safe to say that every single storyteller is the propaganda ar
 
 ## Not present
 
-Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](rules.md).
+Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](people-culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](rules.md).
 
 Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](results.md), but can also include what they [plan to do](imagination.md) or [are likely doing](results.md).
 
@@ -101,7 +101,7 @@ Today's news, after enough time, becomes a historical record. Historians in [a f
 
 APPLICATION: Most of the tales and creative works of the distant past that have survived were propaganda, [parody](humor.md), and designed for unsophisticated people. We lose that in translation (especially with the people who [teach it](education.md)), so we assume there was something more dignified about the past than there really was.
 
-Often, old information drifts back into public awareness, but with less context about the original [culture](culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](trends.md) of the present time:
+Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](trends.md) of the present time:
 
 - The American story of Thanksgiving was originally an anti-[leftist](leftism.md) message, *not* simply an act of generosity on the Native American's part.
 - Christmas traditions are borrowed from *dozens* of sources across the last few thousand years, and most of the traditions' origins are *not* Christian.
@@ -156,7 +156,7 @@ Unfortunately, it's also difficult to detect *which* things are lies, especially
 
 APPLICATION: People with the power to censor have *tremendous* control. Unless those people are held fully accountable for each censorship activity they perform, a benevolent situation will *rapidly* become [oppressive](people-boundaries.md).
 
-Stifling the free expression of false stories is *always* a bad idea because the people who censor are essentially given full [dictatorial control](politics-systems.md) over the flow of [ideas](values.md). The [power](power.md) is so significant that it's far too tempting to abuse that power for self-interest. Given enough time, any [culturally](culture.md) accepted censorship will lead to propaganda for a certain [value system](values.md), which will eventually unbalance the culture enough to create a [bad system](mgmt-badsystems.md).
+Stifling the free expression of false stories is *always* a bad idea because the people who censor are essentially given full [dictatorial control](politics-systems.md) over the flow of [ideas](values.md). The [power](power.md) is so significant that it's far too tempting to abuse that power for self-interest. Given enough time, any [culturally](people-culture.md) accepted censorship will lead to propaganda for a certain [value system](values.md), which will eventually unbalance the culture enough to create a [bad system](mgmt-badsystems.md).
 
 APPLICATION: Eventually, if the product of a storyteller is good enough, their amassing of power will mean that they will become a [bad system](mgmt-badsystems.md).
 

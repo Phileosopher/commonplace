@@ -36,7 +36,7 @@ Morality must have a basis for its actions. There are some things that *can't* d
 - [Justice](morality-justice.md) - Morality *determines* the basis of [laws](rules.md) and justice, not the other way around.
 - [Group decisions](groups-large.md) or the collective of humanity - If that were the case, Nazi Germany would have the moral right to do what they did. [Power](power.md) may magnify morality but can't define it.
 
-As a general concept, we are all born with a conscience that maintains a semblance of morality. Based on our [upbringing](people-family.md), [culturally imposed standards](culture.md) will at least partially program our conscience.
+As a general concept, we are all born with a conscience that maintains a semblance of morality. Based on our [upbringing](people-family.md), [culturally imposed standards](people-culture.md) will at least partially program our conscience.
 
 In practice, morality can only exist as a reference to [whatever authority formed us](religion.md). In whatever case, we must submit to that authority and are morally [enslaved](slavery.md) to that construct:
 
@@ -77,7 +77,7 @@ Some virtues are responses to [conflicts](conflicts-inner.md):
 Some virtues are strictly products of the [mind](understanding.md):
 
 - [Creativity](mind-creativity.md) - [making things](creations.md) after drawing connections from observations
-- [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](culture.md) to find new truths
+- [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
 - [Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](decisions.md)
 
 Some virtues come through how we [see](image.md) things:
@@ -144,7 +144,7 @@ Conceit has a cure, but requires a few things:
 Humility is critical for the [good life](goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
 
 - Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](image.md).
-- Giving a humble person power may provoke them to self-conceit and make them a poor [role model](culture.md) for others.
+- Giving a humble person power may provoke them to self-conceit and make them a poor [role model](people-culture.md) for others.
 - Even if a humble person received all the power, they're not always shrewd enough to hold back the [evil](morality-evil.md) or conceited people from taking power again.
 - True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
 
@@ -156,7 +156,7 @@ Since virtue is a [habit](habits.md), we must carefully consider what we're doin
 
 Good moral education requires people to develop an [intuition](mind-feelings.md) for it, *not* [rote memorization](mind-memory.md). However, it's possible that the people who pay the educators [don't want a moral person](mgmt-badsystems.md) to change how they do things.
 
-Moral decisions affect everyone differently, depending on their [philosophy](philosophy.md), but they're all built on a similar framework tied to our [universal wiring](humanity-universals.md) and have a relative component based on [cultural training](culture.md).
+Moral decisions affect everyone differently, depending on their [philosophy](philosophy.md), but they're all built on a similar framework tied to our [universal wiring](humanity-universals.md) and have a relative component based on [cultural training](people-culture.md).
 
 People always abide by a moralized [value](values.md) system, even if it's not accurately based on virtue. People who commit immoral actions nearly always feel bad for doing what they had done because they've violated their principles (even if the principle was "don't get caught").
 

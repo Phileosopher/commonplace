@@ -245,11 +245,11 @@ Some states require tests and others don't regulate it at all.
 - The larger risk is in *proving* they've fulfilled the criteria, not necessarily *doing* it, especially with more open-ended curricula.
 - Most lesson-planning and advanced prep isn't necessary until around junior high and high school.
 
-It's worth noting that these are all *approximate*. Your [culture](culture.md) will emphasize some and de-emphasize others, and the requirements are assigned by your region's culture.
+It's worth noting that these are all *approximate*. Your [culture](people-culture.md) will emphasize some and de-emphasize others, and the requirements are assigned by your region's culture.
 
 ### Pre-K
 
-Since you're trying to raise your children instead of [acculturate](culture.md) them to a [learning-restrictive](education.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
+Since you're trying to raise your children instead of [acculturate](people-culture.md) them to a [learning-restrictive](education.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
 
 You can teach small children as young as 3 years old to read:
 
@@ -391,7 +391,7 @@ Science and [Technology](technology.md)
 
 Humanities
 
-- Exposed to different [cultures](culture.md) than their own across the world.
+- Exposed to different [cultures](people-culture.md) than their own across the world.
 - Has heard at least somewhat about [current events](stories-storytellers.md), as well as some history of those events.
 
 Arts

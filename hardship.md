@@ -249,7 +249,7 @@ When others *cause* hardship to us, we have extra difficulties because it's batt
 And, sometimes, society itself can be aligned against you.
 
 - While culture-sized hardship won't directly affect your intimate relationships, it can create severe and consistent [conflicts](people-5_conflicts.md) through how others may want you to behave.
-- Typically, the [cultural dimension](culture.md) of power distance will combine with [class-specific](classes.md) cultural contexts to create a vast range of small ways you can [break social rules](morality-taboo.md).
+- Typically, the [cultural dimension](people-culture.md) of power distance will combine with [class-specific](classes.md) cultural contexts to create a vast range of small ways you can [break social rules](morality-taboo.md).
 
 It's also not uncommon for others' well-intended solutions to hurt you further:
 

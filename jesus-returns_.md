@@ -76,7 +76,7 @@ The world is slowly trending toward leftism:
 
 Many people will adopt a unified "mark" on the hand or forehead required for all financial transactions:
 
-- This [trend](trends.md) hasn't attained [cultural](culture.md) acceptance yet ([Revelation 13:16-17](https://biblehub.com/bsb/revelation/13.htm)), but it's believable that people will accept it for [economic payments](economics.md) in the future.
+- This [trend](trends.md) hasn't attained [cultural](people-culture.md) acceptance yet ([Revelation 13:16-17](https://biblehub.com/bsb/revelation/13.htm)), but it's believable that people will accept it for [economic payments](economics.md) in the future.
 - That mark will somehow connect to "666".
 
 There are still decent people spread throughout society, so it's not likely that we're quite at the end yet:

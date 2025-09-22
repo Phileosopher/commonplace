@@ -85,7 +85,7 @@ For nearly everything else that isn't a tool or communication, it's a stockpile 
 
 ### Hacks
 
-One of the most profound creations is a "hack". By using something beyond its originally designated or [culturally acceptable](culture.md) [purpose](purpose.md), someone can use a familiar object outside its expected area:
+One of the most profound creations is a "hack". By using something beyond its originally designated or [culturally acceptable](people-culture.md) [purpose](purpose.md), someone can use a familiar object outside its expected area:
 
 - [Altering computer code](hacking.md) to make software run differently than it was originally designed.
 - Using a screwdriver to hold open a door.
@@ -128,7 +128,7 @@ Each media also has its own special limits:
 
 - Written and spoken words are limited by [language](language.md) constraints, along with (until recently) the budget for paper and [marketing](marketing.md) considerations.
 - Images are limited by the colors our brains can process, as well as a lack of context beyond the frame.
-- Music is limited by the human ear's ability to distinguish sound, as well as certain [cultural expectations](culture.md).
+- Music is limited by the human ear's ability to distinguish sound, as well as certain [cultural expectations](people-culture.md).
 - Collaborative works, like movies and video games, possess all the strengths and weaknesses of multiple media simultaneously.
 
 The fact that nothing is "new" is also a type of constraint:
@@ -155,7 +155,7 @@ Naturally, those limits go away with [technological developments](technology.md)
 
 Usually, there's a [creative](mind-creativity.md) person in the right place at the right time (like Shakespeare, Bach, or Charlie Chaplin) who can take advantage of the new technology to make a [permanent reputation](legacy.md) for themselves.
 
-If creators are confronting [cultural tradition](culture.md), they may start a [far-reaching trend](trends.md).
+If creators are confronting [cultural tradition](people-culture.md), they may start a [far-reaching trend](trends.md).
 
 ## Image
 
@@ -165,7 +165,7 @@ The elegance and quality of a creative work come in how well the creator can hid
 
 For the sake of gaining [influence](influence.md) or [power](power.md), creators *frequently* try to [distort](image-distortion.md) how [high-quality](values-quality.md) their creation appears, often by imitating or [marketing](marketing.md) tricks. We could probably measure the quality of a creation by how many awful imitators try to shortcut [the process](mind-creativity-how.md) with bad copies!
 
-The creation, after it's been created, tends to create a fan base, which is a [group](groups-member.md) that reflects the [values](values.md) of the created work, complete with [traditions](culture.md), [symbols](symbols.md), and [statuses](image.md). Occasionally, the fans can run with that idea *much* farther than the creator of the idea (often verging into a type of [religion](religion.md)), especially after the creator has [died](legacy.md) and can't communicate their [original vision](understanding-certainty.md) anymore.
+The creation, after it's been created, tends to create a fan base, which is a [group](groups-member.md) that reflects the [values](values.md) of the created work, complete with [traditions](people-culture.md), [symbols](symbols.md), and [statuses](image.md). Occasionally, the fans can run with that idea *much* farther than the creator of the idea (often verging into a type of [religion](religion.md)), especially after the creator has [died](legacy.md) and can't communicate their [original vision](understanding-certainty.md) anymore.
 
 The fan base of a media can occasionally have enough [powerful](power.md) people in positions of authority who favor it. When *that* happens, the media itself becomes a pillar of society:
 

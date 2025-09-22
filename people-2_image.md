@@ -396,7 +396,7 @@ G. Casual has a *few* standards:
 H. Informal almost looks like work clothes:
 
 - T-shirt, jeans, and sneakers or shorts and a tank top.
-- Watch for how much skin the [culture](culture.md) permits you to reveal.
+- Watch for how much skin the [culture](people-culture.md) permits you to reveal.
 
 Match your shoes to the rest of your outfit:
 

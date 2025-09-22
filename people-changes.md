@@ -71,6 +71,6 @@ APPLICATION: We must change, but we don't like change, and too much or too littl
 
 ## Ripples
 
-After enough time, our changes spill into others' lives. This can dramatically shift our [culture](culture.md), especially when we break others' [expectations](imagination.md).
+After enough time, our changes spill into others' lives. This can dramatically shift our [culture](people-culture.md), especially when we break others' [expectations](imagination.md).
 
 Generally, a social group will face [*gigantic* conflicts](people-conflicts-war.md) when the [power dynamics](power-types.md) shift from someone changing. This comes from the desire for [safety](safety.md) pushed against the benefits of [taking risks](socialrisk.md).

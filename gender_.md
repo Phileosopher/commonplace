@@ -26,7 +26,7 @@ Those facts create a framing of [understanding](understanding.md) that build the
 Those differences in understanding make the [power dynamics](power.md) different:
 
 - Males are often more [confident](understanding-certainty.md), focused, and stronger than females.
-- Females are usually [smarter](understanding.md), [sophisticated](culture.md), thorough, and [well-connected](groups-member.md) than males.
+- Females are usually [smarter](understanding.md), [sophisticated](people-culture.md), thorough, and [well-connected](groups-member.md) than males.
 - Males want females who show power from their [essence](humanity.md).
 - Females want males who exhibit power among their [groups](groups-member.md).
 
@@ -51,7 +51,7 @@ Further, men and women have neurological and biological distinctions:
 
 ## Sex
 
-[Popular culture](culture.md) gives a disproportionate amount of attention to sex, given that normal marital intercourse is about 5-30 minutes, usually once every few days.
+[Popular culture](people-culture.md) gives a disproportionate amount of attention to sex, given that normal marital intercourse is about 5-30 minutes, usually once every few days.
 
 However, many people heavily [identify](identity.md) with that portion of being human. Males, especially, will emphasize their penis, to the point that phallic [symbols](symbols.md) are all over daily life. Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](imagination.md) everyone else does as well.
 
@@ -67,7 +67,7 @@ As we get older, we localize and adapt our sexual desires to [specific groups](i
 
 Finally, we transition outward to the biological design of sex: procreation and [family](people-family.md).
 
-[Cultures](culture.md) that believe in premarital sex tend to jump-start sexual identity. From there, sex becomes an intimate expression of the ultimate form of human [friendship](people-friends.md), and is typically far more complicated from its rearranging of roles. Sexual identity can become even further complicated when aspects like abortion and homosexuality exist, since they deviate from the animal base that sustains life and reproduction.
+[Cultures](people-culture.md) that believe in premarital sex tend to jump-start sexual identity. From there, sex becomes an intimate expression of the ultimate form of human [friendship](people-friends.md), and is typically far more complicated from its rearranging of roles. Sexual identity can become even further complicated when aspects like abortion and homosexuality exist, since they deviate from the animal base that sustains life and reproduction.
 
 The cultural obsession with sex is completely natural. It's similar to our interest in [food](fun-food.md) or [making a home](home-buysell.md). It can link to our desire for a [family](people-family.md) but doesn't have to, especially when we've experienced past family [trauma](hardship-ptsd.md).
 
@@ -79,7 +79,7 @@ Our gender identity, like all the rest of our [identity](identity.md), is fluctu
 
 Even in a completely free society, males have more roles with heavy lifting and physical labor (e.g., construction) and females have more roles involving nurturing or supporting (e.g., nursing, administrative). Males will often create a rough-shod form, while females frequently refine the form and give it [quality](values-quality.md).
 
-With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](culture.md):
+With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](people-culture.md):
 
 - Men are usually seen as laborers, hunters, providers, and [establishers](socialrisk.md). They're usually more likely to steal from others and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
 - Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries.md) well with others and find a harmonious [solution](results.md).
@@ -110,7 +110,7 @@ Men tend to be more physically attracted to women than the other way around. For
 
 ## Controversy
 
-Gender differences create a [conflict](people-conflicts.md), mostly from women who don't like the discrepant [power](power.md) dynamics built into genders. Most men aren't naturally willing to diminish their power without [cultural training](culture.md), and most women can't compete on a completely level playing field with the raw power of men in many domains.
+Gender differences create a [conflict](people-conflicts.md), mostly from women who don't like the discrepant [power](power.md) dynamics built into genders. Most men aren't naturally willing to diminish their power without [cultural training](people-culture.md), and most women can't compete on a completely level playing field with the raw power of men in many domains.
 
 A huge component of gender conflicts comes from our specific needs:
 

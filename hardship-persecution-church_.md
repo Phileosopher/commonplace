@@ -160,7 +160,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 Irrespective of persecution, we must discover God for ourselves:
 
-1. The [culture](culture.md) of Christianity moves forward by powerful [language](language.md) that speaks [influential](power-influence.md) truth.
+1. The [culture](people-culture.md) of Christianity moves forward by powerful [language](language.md) that speaks [influential](power-influence.md) truth.
 2. A good sermon is a powerful [story](stories.md) that alludes to good theology.
 3. Good theology is a strong [philosophy](philosophy.md) that anchors to the Bible.
 4. The [Bible](bible.md) is God's Word, which is the [creative](mind-creativity.md) output of the living God.

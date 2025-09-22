@@ -10,7 +10,7 @@ For various reasons, we live together:
 To make life more convenient for everyone, we [decide](decisions.md) to do things we're better at and prefer more than everyone else:
 
 - [Realistic](reality.md) people are excellent at performing tasks that create [results](results.md).
-- [Conventional](culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
+- [Conventional](people-culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
 - [Curious](purpose.md) people do things that give everyone a clearer [understanding](understanding.md).
 - [Creative](mind-creativity.md) people build things that draw more [quality](values-quality.md) into [creations](creations.md).
 - [Risk-prone](socialrisk.md) people are willing to explore as-of-yet [unknown](unknown.md) things.
@@ -54,7 +54,7 @@ Second, that niche should require investing [time and energy](power-types.md) th
 
 Specialization has a cyclical nature to it: we converge together from shared interest, then break into further specializations as needed and as the scope of the work to be done grows. These niches can often form into a [supply chain](logistics.md) that travels from raw materials all the way to finished products.
 
-The niche roles become even more niche-focused as population and [technology](technology.md) increases. New techniques eventually become [tradition](culture.md) as [trends](trends.md) repeat themselves:
+The niche roles become even more niche-focused as population and [technology](technology.md) increases. New techniques eventually become [tradition](people-culture.md) as [trends](trends.md) repeat themselves:
 
 - Large truck driving is a specific type of vehicle operation of a specific type of vehicle with a specific type of trailer.
 - Automobile manufacturing was once one job, but now someone can be a [marketing](marketing.md) coordinator for mid-size family SUVs.
@@ -80,7 +80,7 @@ FURTHER APPLICATION: When we look back in [history](stories-storytellers.md), ev
 
 ## Settling together
 
-For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](culture.md) through everyone generally [identifying](identity.md) with their [tasks](results.md):
+For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](people-culture.md) through everyone generally [identifying](identity.md) with their [tasks](results.md):
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
@@ -89,7 +89,7 @@ For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay g
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).
 - Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](imagination.md).
 
-APPLICATION: Civilizations are maintained because some people took tremendous care and devotion to build it. Most people take it for granted as part of their [culture](culture.md) and don't realize the work it took to make it, until *they* have to maintain it themselves.
+APPLICATION: Civilizations are maintained because some people took tremendous care and devotion to build it. Most people take it for granted as part of their [culture](people-culture.md) and don't realize the work it took to make it, until *they* have to maintain it themselves.
 
 We'll also cluster near other groups that can serve other needs (e.g., food, water, shelter, electricity). Over time, multiple specialties come together as people move there or are born to form a village, and can eventually become a city the same way.
 
@@ -97,22 +97,22 @@ APPLICATION: [Creative](mind-creativity.md) people and for people willing to tak
 
 As the settlements group from a [small](groups-small.md) to [large community](groups-large.md), the [members](groups-member.md) have more anonymity, and [human nature](humanity.md) means some of them will abuse the freedom.
 
-The geography and climate has a *profound* impact on the [culture](culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](decisions.md) into the [tasks](purpose.md) required to survive and thrive.
+The geography and climate has a *profound* impact on the [culture](people-culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](decisions.md) into the [tasks](purpose.md) required to survive and thrive.
 
 As those [groups](groups-small.md) became more aware of other regions' [trends](trends.md), people will choose to move farther away to attain their purposes. Thus, various cities and regions can become increasingly specialized as information and transportation [technology](technology.md) improves.
 
-APPLICATION: Population density profoundly changes how we behave and [see](understanding.md) the world. Often, this brings people to severe [culture](culture.md) shock when they move to a larger city or smaller town.
+APPLICATION: Population density profoundly changes how we behave and [see](understanding.md) the world. Often, this brings people to severe [culture](people-culture.md) shock when they move to a larger city or smaller town.
 
 FURTHER APPLICATION: People cluster toward what they like, so some cities' majority specializations are profoundly different from others. Thus, opportunities in Dubai are far different from those in London, and the thriving industries of a city dictate more about them than their size or [popularity](power-influence.md).
 
 Individuals who transition *inside* their specialized [groups](groups-large.md) have a unique advantage. If they want to do something different, they can shift around their specialty while pursuing a task that's still inside the group:
 
-- Someone can migrate inside a company or trade to find the [culture](culture.md) they prefer.
+- Someone can migrate inside a company or trade to find the [culture](people-culture.md) they prefer.
 - Many people migrate upward into [management](groups-small.md) or [large-scale leadership](groups-large.md) roles.
 - After enough [experience](maturity.md), people often become consultants (e.g., independent contractors, political lobbyists, bounty hunters).
 - Frequently, if someone is [influential](influence.md) enough, they can venture into a new area and [build](socialrisk.md) an entire [subgroup](groups-small.md) for themselves!
 
-Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends.md) than their immediate neighbors.
+Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends.md) than their immediate neighbors.
 
 APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](imagination.md) they *do* understand.
 
@@ -120,7 +120,7 @@ FURTHER APPLICATION: People who lead societies statistically come from smaller t
 
 Naturally, as groups grow, they become towns, that slowly become [cities](politics-city.md), with all the specializations that exist in pretty much every other city.
 
-APPLICATION: Civilization means more people. Follow where the streets get quieter to find the "natural" state of a region, then keep going until you're far away from the city center to find an entirely different [culture](culture.md).
+APPLICATION: Civilization means more people. Follow where the streets get quieter to find the "natural" state of a region, then keep going until you're far away from the city center to find an entirely different [culture](people-culture.md).
 
 Every time society suffers a *massive* decline in population, [technology](technology.md) moves backward by a few hundred years from all its required specializations. It catches up again rather quickly, but is frequently difficult for people to adapt for at least a few generations.
 

@@ -164,7 +164,7 @@ Recreation is a variation of the curiosity we had in childhood. However, because
 
 Recreation and work are *both* necessary for [the good life](goodlife.md), and should flow through a [small resistance cycle](trends.md). However, [addiction](addiction.md) can disrupt that cycle by keeping us perpetually purposed toward one thing without regarding [diminishing return](results.md) or the [power](power-types.md) we're sacrificing.
 
-While we recreate, we tend to only relax in a few specific ways, usually dictated by [preference](personality.md) and [culture](culture.md):
+While we recreate, we tend to only relax in a few specific ways, usually dictated by [preference](personality.md) and [culture](people-culture.md):
 
 - Creating and consuming [stories](stories.md) through various [media](stories-storytellers.md)
 - Creating and consuming [humor](humor.md)
@@ -183,7 +183,7 @@ When we feel perfectly [safe](safety.md), our recreation represents different le
 
 ## Group Purposes
 
-If a purpose isn't driven strictly by a [principle](values.md), it's driven strictly by [culturally](culture.md) established [habits](habits.md), which borrow from many people at once into an aggregate purpose.
+If a purpose isn't driven strictly by a [principle](values.md), it's driven strictly by [culturally](people-culture.md) established [habits](habits.md), which borrow from many people at once into an aggregate purpose.
 
 APPLICATION: Everyone sees different aspects of a problem, so groups of relatively dumb people are always smarter than any individual genius.
 

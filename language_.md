@@ -31,7 +31,7 @@ Read and watch things you *want* to watch, and make your own curriculum:
 - By making your own curriculum, you increase how much [fun](fun.md) you'll likely have with it (and increase your learning [as a consequence](mind-memory.md)).
   - Focus on constantly finding new things more than repetition.
   - Draw personal connections to the words.
-  - Learn aspects of the new [culture](culture.md) or subjects in that language that you like.
+  - Learn aspects of the new [culture](people-culture.md) or subjects in that language that you like.
   - You should enjoy what you're consuming and trying to parse.
 - As much as possible, do *not* cross the languages.
   - When you see something, you're building a "second brain", so avoid mixing in your native language into that thinking.

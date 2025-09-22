@@ -48,7 +48,7 @@ Because of all this, we frequently assume *falsely* that other people are lying,
 Pro-social lies are attempting to promote others' happiness:
 
 - Most lies are pro-social because most people consider them harmless.
-- There's a complicated social agreement within most [cultures](culture.md) that normalize it.
+- There's a complicated social agreement within most [cultures](people-culture.md) that normalize it.
 - Common examples:
   - Affirming someone about something you don't value
   - [Misleading officials](legal-safety.md) to hide someone

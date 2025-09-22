@@ -43,7 +43,7 @@ The Law shows we can't rebuild back to God's presence:
 
 - Judaism gives hundreds of [clearly defined laws](rules.md) to follow in the daily life of the time (most of [Exodus](https://biblehub.com/bsb/exodus/19.htm), [Leviticus](https://biblehub.com/bsb/leviticus/1.htm), [Numbers](https://biblehub.com/bsb/numbers/1.htm), and [Deuteronomy](https://biblehub.com/bsb/deuteronomy/1.htm)).
 - God requires us to do *all* of them ([Leviticus 19:2](https://biblehub.com/leviticus/19-2.htm), [Matthew 5:28](https://biblehub.com/matthew/5-28.htm), [Romans 3:23](https://biblehub.com/romans/3-23.htm)).
-- Even if we fully wanted to, we're so habituated to our [culture](culture.md) and its [sins](culture.md) that following all the laws is humanly impossible.
+- Even if we fully wanted to, we're so habituated to our [culture](people-culture.md) and its [sins](people-culture.md) that following all the laws is humanly impossible.
 
 Violating only one law condemns a person to eternal destruction in hell ([Ezekiel 18:20](https://biblehub.com/ezekiel/18-20.htm), [Matthew 10:28](https://biblehub.com/matthew/10-28.htm)).
 

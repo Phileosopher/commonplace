@@ -3,7 +3,7 @@ There are very few things we have absolutely *zero* control over about [ourselve
 
 All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-2_children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
 
-Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](culture.md) than anyone else's. Unless the dynamics are particularly dysfunctional, we tend to [favor](people-friends.md) those relationships more than non-family.
+Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](people-culture.md) than anyone else's. Unless the dynamics are particularly dysfunctional, we tend to [favor](people-friends.md) those relationships more than non-family.
 
 In some situations, such as close [friendships](people-friends.md) and [Christianity](church-family.md), "family" associates with a friendship that's as close as blood relation.
 
@@ -31,7 +31,7 @@ While both genders play a part in the formation of a child, the female has a mor
 
 The role of a parent is to give everything a child needs to succeed:
 
-- A [tradition](culture.md) and [legacy](legacy.md) worth [aspiring](purpose.md) toward.
+- A [tradition](people-culture.md) and [legacy](legacy.md) worth [aspiring](purpose.md) toward.
 - [Understanding](understanding.md) of [reality](reality.md), to the best of our knowledge.
 - [Trends](trends.md) and [values](values.md) the parents [identify](identity.md) with.
 
@@ -50,7 +50,7 @@ We end up always representing two roles in our minds: a father and a mother. The
 - The father represents civilization, and defines a developing child's views of how they [define meaning](meaning.md) and [fit into society](jobs-specialization.md).
 - The mother represents sacrifice, and defines a developing child's views of [love](people-love.md) and [human connection](people-friends.md).
 
-Children have their own initial [culture](culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
+Children have their own initial [culture](people-culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
 
 - Conflict Style: They confront every issue directly and need [guidance](education.md) on how to be more subtle and [tactful](people-rules.md).
 - Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
@@ -72,9 +72,9 @@ Most of the challenges regarding parenting aren't because the tasks are particul
 
 ## Growing children
 
-As children grow, they tend to find a middle-ground [culture](culture.md) between what their parents [teach](understanding.md) and what they [prefer](humanity.md), often transitioning toward their preference as they [become teenagers](maturity.md) and [understand](understanding.md) the world a little more clearly.
+As children grow, they tend to find a middle-ground [culture](people-culture.md) between what their parents [teach](understanding.md) and what they [prefer](humanity.md), often transitioning toward their preference as they [become teenagers](maturity.md) and [understand](understanding.md) the world a little more clearly.
 
-Once those children have [come of age](maturity.md), they are now co-members of their [groups](groups-small.md). Barring *major* dysfunction somewhere, they'll [identify](identity.md) with that group alongside other groups that fit their [purposes](purpose.md), and their personal style of [culture](culture.md) blurs together with the collective.
+Once those children have [come of age](maturity.md), they are now co-members of their [groups](groups-small.md). Barring *major* dysfunction somewhere, they'll [identify](identity.md) with that group alongside other groups that fit their [purposes](purpose.md), and their personal style of [culture](people-culture.md) blurs together with the collective.
 
 [Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](decisions.md) for themselves. Most parents don't [trust](trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
 
@@ -88,7 +88,7 @@ Once a child reaches adulthood, the balance of how they prioritized their role m
 
 ## Generations
 
-Every [culture](culture.md) needs parents to give [value](meaning.md) to children. Otherwise, without that belief, all of society would unravel simply from a severe drop in reproduction rates mixed with an [elder-balanced](maturity.md) population demographic that wouldn't be able to sustain itself.
+Every [culture](people-culture.md) needs parents to give [value](meaning.md) to children. Otherwise, without that belief, all of society would unravel simply from a severe drop in reproduction rates mixed with an [elder-balanced](maturity.md) population demographic that wouldn't be able to sustain itself.
 
 After a child becomes a parent a few decades later, they will deliver more [pain](hardship-family.md) on their children than they realize, and sometimes *worse* than a generation prior. Parents usually trust their [intuition](mind-feelings.md), which creates an [illusion](image.md) they're doing a better job than *their* parents, which can begin a downward spiral of [conceit](morality-evil.md) for many parents.
 
@@ -96,7 +96,7 @@ If parents *do* succeed, their children will create children of their own, and b
 
 Unfortunately, parents often feel threatened by the successes of their adult children, which makes very little success since those childrens' success can often come *from* the investments their parents had initially made. This comes from their inherent [egotistical competitive drive](morality-evil.md) against everyone else, but is foolishly misused to destroy the greatest possible contribution to their [legacy](legacy.md).
 
-A people group made of one set of genetics will have a certain [cultural](culture.md)/[personality](personality.md) mix that's shares more in common with each other than a people group made of individuals who share a [set of ideas](values.md). That homogeneity is actually [a risk](safety.md), since the diversity of ideas is *far* less.
+A people group made of one set of genetics will have a certain [cultural](people-culture.md)/[personality](personality.md) mix that's shares more in common with each other than a people group made of individuals who share a [set of ideas](values.md). That homogeneity is actually [a risk](safety.md), since the diversity of ideas is *far* less.
 
 ## Classes
 
@@ -104,7 +104,7 @@ Unless they have *amazing* parents, a child raised by a [powerful](power.md) fam
 
 On the other hand, a child who came from a low-ranking family has an unspoken advantage within their domain. If their parents taught them well, they'll be able to weather more hardship from having grown up without much privilege. While it's more difficult than it sounds, if they can [hide their shoddy background](image.md), they will often be a class above *any* of their peers.
 
-Unfortunately, the [love](people-love.md) of a parent means they will be willing to perform [unethical](morality.md) behavior for the advantage of their children. That motivation transcends any [institutional rules](rules.md) that could ever exist, and represents a huge portion of why [cultures](culture.md) create [unfair systems](mgmt-badsystems.md).
+Unfortunately, the [love](people-love.md) of a parent means they will be willing to perform [unethical](morality.md) behavior for the advantage of their children. That motivation transcends any [institutional rules](rules.md) that could ever exist, and represents a huge portion of why [cultures](people-culture.md) create [unfair systems](mgmt-badsystems.md).
 
 ## Failing
 

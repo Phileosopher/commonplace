@@ -76,7 +76,7 @@ Other drugs
 
 ## Ritual activities
 
-- [Cultural](culture.md) activities
+- [Cultural](people-culture.md) activities
   - [Cars](autos.md)
   - [Religious events](religion-answers.md)
   - Recovery and rehab groups

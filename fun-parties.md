@@ -79,7 +79,7 @@ People often find themes interesting:
 
 Find music that fits the theme:
 
-- The music should match mood you want and the attendees' [culture](culture.md).
+- The music should match mood you want and the attendees' [culture](people-culture.md).
 - Always make a playlist with a few criteria:
   1. Mostly upbeat and energetic music, with at least a few songs that everyone knows.
      - Carefully consider everyone's ages to decide which songs would be familiar to them.

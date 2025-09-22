@@ -25,7 +25,7 @@ And in effect, there are two broad approaches to legal safety, depending on [how
 Laws are the most intensely enforced social norms.
 
 - Law is the domain where human decency breaks down.
-- Some laws (like murder) tie to a [philosophical human universal](humanity-universals.md), but other laws do *not* break [cultural norms](culture.md).
+- Some laws (like murder) tie to a [philosophical human universal](humanity-universals.md), but other laws do *not* break [cultural norms](people-culture.md).
 - Even though some laws threaten prison or death, there's a certain degree of subjectivity and interpretation that only lawyers can expertly navigate.
 
 Unfair discrimination in law is tragically frequent.
@@ -112,7 +112,7 @@ Research the [rules](rules.md) whenever possible.
 - Even when you're violating your responsibility, them violating *their* responsibility exonerates you ("In pari delicto").
 - The rules are often more complicated than they seem:
   - Some laws are only written down (de jure), but are not enforced.
-  - Some social rules are *not* written down or formally established [cultural norms](culture.md), but are a terrible idea (de facto).
+  - Some social rules are *not* written down or formally established [cultural norms](people-culture.md), but are a terrible idea (de facto).
 
 Either record *every* legal filing you must perform, or pay someone to do it.
 
@@ -775,7 +775,7 @@ If you're legitimately innocent, you always have the truth on your side, but the
 
 - Every nation's criminal justice system is at least partly adjusted unfairly against the defendant.
 - Whenever possible, your recorded video and audio will exonerate you *much* more than [eyewitness testimony](mind-bias.md).
-- If your people group or [ideology](values.md) doesn't reflect the majority of that [culture](culture.md), the odds are stacked against you.
+- If your people group or [ideology](values.md) doesn't reflect the majority of that [culture](people-culture.md), the odds are stacked against you.
 
 If you're not in a favorable situation, taking a plea deal can often save *years* of potential incarceration.
 

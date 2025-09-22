@@ -146,7 +146,7 @@ While we *can* use logic to discover truths, it's not always the best solution. 
 To make sense of the world, we slice up [reality](reality.md) into various groups:
 
 - SWOT analysis: Strengths, Weaknesses, Opportunities, Strengths
-- PEST analysis: [Political](groups-large.md), [Economic](economics.md), [Socio-Cultural](culture.md), and [Technological](technology.md) factors
+- PEST analysis: [Political](groups-large.md), [Economic](economics.md), [Socio-Cultural](people-culture.md), and [Technological](technology.md) factors
 - STAR points: Situation, Task, Action, Result
 - The 5 "Why's": ask "why" in a sequential chain five times to discover something close to the original cause
 

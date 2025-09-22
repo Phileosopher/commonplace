@@ -25,7 +25,7 @@ Your [personality](identity.md) defines how you may want to approach others abou
 Some people imagine sharing the Gospel is telling as many people as possible.
 
 - Effective Gospel *presentations* share Christ's story and why it's important.
-- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](decisions.md) and [lifestyle](culture.md) than hearing a compelling [story](stories.md).
+- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories.md).
 
 Many people groups have *never* heard of Jesus.
 
@@ -125,7 +125,7 @@ Fit your presentations with the culture.
   - Always keep copies of the Bible or [pocket Gospel presentations](http://www.ptl.org) with you.
 - However, sharing with people will *never* influence anyone as much as helping them with what they need because you love them ([1 Corinthians 13:1-3](https://biblehub.com/bsb/1_corinthians/13.htm)).
 
-A [culture](culture.md) saturated with [marketing](marketing.md) tends to dislike [persuasive messages](power-influence.md), but won't mind you sharing your personal experience.
+A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to dislike [persuasive messages](power-influence.md), but won't mind you sharing your personal experience.
 
 - Your experiences should be Jesus' message throughout your life.
 - The story should adapt to each person, so don't memorize the story word-for-word.
@@ -202,7 +202,7 @@ They may simply be bitter or angry regarding [past trauma](hardship-ptsd.md) or 
 - They're in no way ready to hear the Gospel, and merely witnessing your lifestyle will be enough to morally convict them.
   - Jesus didn't come for people who don't want Him, so don't waste your time with people who mock and condemn Him ([Mark 2:17](https://biblehub.com/mark/2-17.htm)).
 - Most of the Church's [persecution](hardship-persecution-church.md) comes through these people (frequently under [evil](morality-evil.md) leadership), but they still need God's love.
-- If there's a strong Christian presence in that [culture](culture.md), they may have severe issues with their understanding of [Christianity](https://theologos.site/testimony/), even when they don't have an issue with the concept of following Jesus.
+- If there's a strong Christian presence in that [culture](people-culture.md), they may have severe issues with their understanding of [Christianity](https://theologos.site/testimony/), even when they don't have an issue with the concept of following Jesus.
 
 Occasionally, they're completely uninterested in the discussion.
 

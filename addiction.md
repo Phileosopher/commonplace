@@ -18,11 +18,11 @@ Most people have one form or another of substance overuse, though some are more 
 
 Ironically, many addictions can create *good* consequences. These addictions are often notoriously difficult to detect because someone can hide their addiction through *decades* of [profound success](success-1_why.md).
 
-We only tend to notice addicts when they're *more* addicted than us. Below a certain threshold, it's all [culturally acceptable](culture.md).
+We only tend to notice addicts when they're *more* addicted than us. Below a certain threshold, it's all [culturally acceptable](people-culture.md).
 
 Cultures will frequently share similar addictions, so most people end up believing themselves to be generally free of addiction to a substance while they cling desperately to something they never thought of as an addiction alongside their peers.
 
-APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries.md) them, sometimes because it's [culturally](culture.md) accepted, but must stay aware of their substances when dealing with them.
+APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries.md) them, sometimes because it's [culturally](people-culture.md) accepted, but must stay aware of their substances when dealing with them.
 
 If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](culture-cults.md).
 

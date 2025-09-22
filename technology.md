@@ -54,9 +54,9 @@ Contrary to the mindsets of [leftism](leftism.md) or [libertarian paternalism](m
 
 Frequently, when we operate technology, we do things we normally wouldn't for that specific purpose. We may use a specific computer [language](language.md) to process [logic](logic.md) instead of pondering, swap out components on a compressor to preserve our food, or attach cables together to cut holes in a wall.
 
-Most people become so [habituated](habits.md) to those odd behaviors that they lose track of what the original task required. In that sense, [cultures](culture.md) with more technology often have *less* [understanding](understanding.md) of how to directly do things.
+Most people become so [habituated](habits.md) to those odd behaviors that they lose track of what the original task required. In that sense, [cultures](people-culture.md) with more technology often have *less* [understanding](understanding.md) of how to directly do things.
 
-People born into a technologically advanced culture will naturally pick up skills tied to it from early [childhood](maturity.md) onward, and advanced technological leaps can *will* create generational [culture](culture.md) differences.
+People born into a technologically advanced culture will naturally pick up skills tied to it from early [childhood](maturity.md) onward, and advanced technological leaps can *will* create generational [culture](people-culture.md) differences.
 
 APPLICATION: Whatever someone does for a living profoundly changes how they [think](logic.md). People in dangerous jobs are familiar with [death](mind-feelings-fear.md). Professional drivers think sequentially. Computer programmers think of all possible scenarios for things. Accountants think and rethink things through.
 
@@ -68,7 +68,7 @@ Typically, people treat a technological thing as a separate entity with a separa
 
 We also tend to separate technology from the rest of nature. Even though we're using natural resources, steel and plastic often [feel](mind-feelings.md) "fake" by comparison from how [well-crafted](values-quality.md) they are. This is only an illusion based on our interpretation of [order](unknown.md).
 
-Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](culture.md) will [presume](understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](culture.md)).
+Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](people-culture.md) will [presume](understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](people-culture.md)).
 
 ## Usage
 
@@ -92,9 +92,9 @@ Once a technology has entered the public [consciousness](understanding.md) and b
 
 ## Culture
 
-The things we build are often rebuilt and improved later for a [specialization](jobs-specialization.md). Entire [communities](groups-small.md) frequently arise out of a shared purpose to [create](creations.md) and improve something, typically with specific [cultural values](culture.md) revolving around [working](results.md) with it.
+The things we build are often rebuilt and improved later for a [specialization](jobs-specialization.md). Entire [communities](groups-small.md) frequently arise out of a shared purpose to [create](creations.md) and improve something, typically with specific [cultural values](people-culture.md) revolving around [working](results.md) with it.
 
-New technology [culturally](culture.md) disseminates as a [social trend](trends.md). Innovators adopt it first, then the majority adopts it for various reasons. There will *always* be laggards who refuse to adopt the technology, frequently on [moral](morality.md) grounds.
+New technology [culturally](people-culture.md) disseminates as a [social trend](trends.md). Innovators adopt it first, then the majority adopts it for various reasons. There will *always* be laggards who refuse to adopt the technology, frequently on [moral](morality.md) grounds.
 
 All technology becomes progressively more [reliable](trust.md), up to a point. Afterward, the [trade-offs](decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](trends.md), the trend followers won't care and will use it even when it's *not* reliable.
 
@@ -136,7 +136,7 @@ When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war.m
 
 ## Limits
 
-When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
+When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](people-culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
 
 People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
 

@@ -98,7 +98,7 @@ One aspect hiding behind humor is that it's a reliable [stress relief](mind-feel
 
 By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](image.md) of [reality](reality.md).
 
-There's a humorous side to absolutely every situation, even when it takes [creativity](mind-creativity.md) to find it. However, the seriousness of a [culture's](culture.md) [traditions](habits.md) (e.g., [religion](religion.md)) is often [harshly opposed](morality-taboo.md) to levity.
+There's a humorous side to absolutely every situation, even when it takes [creativity](mind-creativity.md) to find it. However, the seriousness of a [culture's](people-culture.md) [traditions](habits.md) (e.g., [religion](religion.md)) is often [harshly opposed](morality-taboo.md) to levity.
 
 Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](mind-feelings-happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
 

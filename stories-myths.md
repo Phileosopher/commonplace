@@ -1,7 +1,7 @@
 
 # Myths phenomenology list
 
-Modern thinking leans a bit heavily on [science](science.md). The natural downside of [logic](logic.md)-heavy [cultures](culture.md) is that they'll often dismiss folktales and myths as being "stuff for kids".
+Modern thinking leans a bit heavily on [science](science.md). The natural downside of [logic](logic.md)-heavy [cultures](people-culture.md) is that they'll often dismiss folktales and myths as being "stuff for kids".
 
 While [stories](stories.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](understanding.md).
 
@@ -72,7 +72,7 @@ Birds, and flying in general, represent transcending a current state of existenc
 
 Many monsters represent natural disasters:
 
-- Trolls (especially mountain trolls) represent mountain risks (e.g., landslides, earthquakes). They vary quite dramatically because geological formations have been interpreted by different [cultures](culture.md) as various forms of [strength](power.md), [danger](unknown.md), adventure, and refuge.
+- Trolls (especially mountain trolls) represent mountain risks (e.g., landslides, earthquakes). They vary quite dramatically because geological formations have been interpreted by different [cultures](people-culture.md) as various forms of [strength](power.md), [danger](unknown.md), adventure, and refuge.
 - The Kraken represents the dangers in the open sea, especially storms and hurricanes. The Loch Ness monster is a bit of a smaller version over large lakes.
 
 Quite a few creatures represent females and femininity:

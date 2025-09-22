@@ -35,7 +35,7 @@ However, the absence of virtue *does* represent itself on a general spectrum by 
 
 ## Awareness
 
-We [understand](understanding.md) many of our needs from birth and must be [taught](understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](culture.md) enough that we give plenty of grace for it.
+We [understand](understanding.md) many of our needs from birth and must be [taught](understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](people-culture.md) enough that we give plenty of grace for it.
 
 As we [grow](maturity.md), continuing to care more about ourselves than others will develop that selfishness into evil. In that sense, everyone is born a little evil and must be trained against it by their [parents](people-family.md) by demonstrating how our [actions can affect others](results.md).
 

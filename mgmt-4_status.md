@@ -64,7 +64,7 @@ You should *very* clearly understand why you're tracking their work.
 - You often may only need to track their work for a short window of time.
   - If they're under-performing, you may need to put them on watch, with clear indicators of when to *not* watch them anymore.
   - High-risk situations and crucial tasks need close monitoring, but only when they're high-risk or crucial.
-- Any tracking that goes beyond standard [social expectations](culture.md) for the industry can foster a toxic work environment the workers will want to leave.
+- Any tracking that goes beyond standard [social expectations](people-culture.md) for the industry can foster a toxic work environment the workers will want to leave.
 
 Unless you're planning to relocate them or redistribute resources, *never* directly track members to maximize their efficiency or give rewards.
 

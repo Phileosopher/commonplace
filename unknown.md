@@ -105,12 +105,12 @@ How we prioritize these 3 perspectives (past/present/future) affects almost ever
 
 Past ("what was")
 
-- [Traditional](culture.md), [religious](religion.md), and [conservative](politics-conservativeliberal.md)
+- [Traditional](people-culture.md), [religious](religion.md), and [conservative](politics-conservativeliberal.md)
 - Stable sense of [self](identity.md)
 - Oriented toward [family](people-family.md) and [groups](groups-member.md), distrusts strangers
 - Tend to be more [prejudiced](understanding-certainty.md)
 - Focus on [obligations and commitments](people-contracts.md)
-- [Rituals](culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
+- [Rituals](people-culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
 - Dominant feeling of [guilt](mind-feelings-shame.md)
 - Avoids [risks](socialrisk.md) and adventures
 - Often more [cooperative than competitive](people-conflicts.md)
@@ -145,7 +145,7 @@ Our [personality](personality.md) dictates this balance, but those personalities
 
 1. The Present is the most known we have, and the basis for all [phenomenology](mind-feelings.md) and anything we can actually call [reality](reality.md), but also isn't very [useful](purpose.md) by itself.
 2. The Past is the second-most known we have, proportional to how near it is to us in time and how reliable our memories are. It also represents some of the worst qualities that we need to [change](people-changes.md), and we run the risk of falling behind the [trends](trends.md).
-3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](culture.md).
+3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](people-culture.md).
 
 APPLICATION: How we focus on the past, present, and future dictates how we prioritize the Unknown for our [purposes](purpose.md). This represents itself in the way we [choose](decisions.md) to live and [the groups we associate with](groups-member.md).
 
@@ -157,11 +157,11 @@ Because order is a value, it can compound on itself to establish an elaborate sy
 
 APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the preservation of order is a natural impulse, and worth knowing to [understand](understanding.md) how others think. We must be mindful of what we destroy and what we're using to replace it, but the Unknown is where we draw our [creativity](mind-creativity.md) and where the [social risks](socialrisk.md) become highly [influential](power-influence.md) [trends](trends.md).
 
-[Civilization](culture.md) is a type of social order, with [inspiration](creations.md), [groups](groups-member.md), and [technology](technology.md) that all form from baser components. We can spend so much time [engaging](understanding.md) with it, though, that we forget the entire thing is built on nature. [On the political spectrum](politics-conservativeliberal.md), conservatives try to preserve order that has already been created while liberals try to create new order.
+[Civilization](people-culture.md) is a type of social order, with [inspiration](creations.md), [groups](groups-member.md), and [technology](technology.md) that all form from baser components. We can spend so much time [engaging](understanding.md) with it, though, that we forget the entire thing is built on nature. [On the political spectrum](politics-conservativeliberal.md), conservatives try to preserve order that has already been created while liberals try to create new order.
 
 APPLICATION: Over time, as the Unknown becomes [known](science.md), a society will prioritize the domain of [predictable](imagination.md) and [controllable](results.md) things over sending [efforts](purpose.md) into unknowable things. This means secular societies who abandon their [religious](religion.md) background tend to lean farther into [environmentalism](leftism-sustainability.md) and prioritize [mathematical](math.md) [estimation](imagination.md) over [intuition](mind-feelings.md).
 
-Different [cultures](culture.md) create order in different forms, which often builds along the patterns of what [language](language.md) provide (e.g., number of words to describe one specific thing) and frames itself through the [myths](stories-myths.md), [superstitions](culture.md), and [stories](stories.md) they share with each other.
+Different [cultures](people-culture.md) create order in different forms, which often builds along the patterns of what [language](language.md) provide (e.g., number of words to describe one specific thing) and frames itself through the [myths](stories-myths.md), [superstitions](people-culture.md), and [stories](stories.md) they share with each other.
 
 APPLICATION: We wish to find [meaning](meaning.md) in the Unknown so heavily that we trust things we probably shouldn't:
 

@@ -108,7 +108,7 @@ When anyone can more easily understand 2,000-year-old Greek philosophers transla
 
 One of the reasons for this change is the lack of any "philosophical common sense". This type of common sense can best be defined as "the sense one acquires over the course of [living well](goodlife.md) through the pursuit of [goodness](morality.md)". Modern philosophy doesn't concern itself with adding [value](values-quality.md) to any presumption of "well", and instead deconstructs every component of every aspect of living, and the reader is left worse off than when they started.
 
-Philosophy's [culture](culture.md) has become a [trended](trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
+Philosophy's [culture](people-culture.md) has become a [trended](trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
 
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
 - At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science-social.md), and [computer science](computers.md).
@@ -123,9 +123,9 @@ Philosophy is raw [power](power.md), like money or [understanding](understanding
 
 APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](understanding.md), or they're wasting their time.
 
-Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
+Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
 
-APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.md) and [traditionally minded](culture.md) people) because they ask uncomfortable questions that may threaten the [power of those leaders](power-types.md) and change [the way things have always been done](habits.md).
+APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.md) and [traditionally minded](people-culture.md) people) because they ask uncomfortable questions that may threaten the [power of those leaders](power-types.md) and change [the way things have always been done](habits.md).
 
 On the other hand, philosophical understanding makes *many* other aspects of life easier:
 
@@ -141,7 +141,7 @@ Some philosophy is *absolutely* necessary for [the good life](goodlife.md), but 
 
 APPLICATION: The time and place for philosophy is when it builds into [the good life](goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](understanding.md).
 
-Be careful who you read, though. The [culture](culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
+Be careful who you read, though. The [culture](people-culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
 1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
 2. Transforming society is an [uphill battle](people-conflicts.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).

@@ -289,7 +289,7 @@ A. Identify the demographics of the audience you want leads for.
   - [Age](maturity.md)
   - [Gender and sexual orientation](gender.md)
   - [Income](classes.md)
-  - [Ethnic groups](culture.md)
+  - [Ethnic groups](people-culture.md)
   - [Family lifestyles](people-family.md)
   - [Personality](personality.md)
   - [Lifestyles and motives](decisions.md)
@@ -347,12 +347,12 @@ C. Craft the design as a [story](stories.md) with a [designed user experience](e
   - The connection is often purely animal (e.g., [sex](gender.md)), which is the method used by longtime PR master Edward Bernays.
   - Successfully *making* a story that resonates requires [integrating your shadow](personality.md).
 - Keep an eye out for indirect associated words.
-  - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](culture.md).
+  - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](people-culture.md).
   - e.g., "break time" may associate with "broken time", "breaking out", "broken dreams", "breakfast", and may extend to coffee, candy, or drugs.
 
 D. Make something eye-catching and familiar to the target demographic.
 
-- Carefully consider your [design medium](engineering-design.md) to match what people of that [culture](culture.md) will [feel](mind-feelings.md).
+- Carefully consider your [design medium](engineering-design.md) to match what people of that [culture](people-culture.md) will [feel](mind-feelings.md).
   - Show the product in action.
   - Use current [social trends](trends.md).
   - Create interviews or testimonials from reputable or influential people.

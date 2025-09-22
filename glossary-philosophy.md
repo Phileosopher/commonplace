@@ -200,9 +200,9 @@ Externalism - The conscious mind isn't only what's going inside, but also things
 
 Externism - Only outside experience is certain, and there's nothing certain inside the mind. Opposite of solipsism.
 
-Ethnocentrism - People view their environment through their [culture](culture.md).
+Ethnocentrism - People view their environment through their [culture](people-culture.md).
 
-- Methodological relativism - A researcher must suspend their [cultural biases](culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](results.md).
+- Methodological relativism - A researcher must suspend their [cultural biases](people-culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](results.md).
 - Polylogism - People think differently because of the [groups](groups-small.md) they're in.
 
 Innatism - The mind is born with ideas or knowledge, so not all of it comes from experiences. Contrasts against empiricism.
@@ -410,7 +410,7 @@ Stoicism - Self-control of all types creates inner strength that builds harmony 
 
 ### Do we have free will?
 
-Compatibilism/Soft determinism - Because we can [imagine](imagination.md) and [our environment](culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
+Compatibilism/Soft determinism - Because we can [imagine](imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
 
 Incompatibilism - Free will and determinism (see above) cannot [logically](logic.md) coexist.
 
@@ -509,7 +509,7 @@ Humanism - A broad range of ethics that says humanity is the source of values.
 
 Moral absolutism - We can judge moral questions against absolute standards, so some things are universally right/wrong irrespective of the context. Opposite of moral relativism.
 
-Moral relativism - Presuming relativism (see above), morality is completely relative to indviduals or their [culture](culture.md). Opposite of moral absolutism.
+Moral relativism - Presuming relativism (see above), morality is completely relative to indviduals or their [culture](people-culture.md). Opposite of moral absolutism.
 
 Moral universalism/Universalism - Moral statements can apply universally. A middle ground between moral absolutism and moral relativism.
 
@@ -555,7 +555,7 @@ Communalism - The government should focus on protecting cultures and groups. Opp
 
 - Communitarianism - Because society forms [identity](identity.md) and [personality](personality.md), the individual *and* the community must be protected.
 
-Conservatism - [Traditions and cultures](culture.md) should be cherished.
+Conservatism - [Traditions and cultures](people-culture.md) should be cherished.
 
 Egalitarianism/Equalitarianism - Everyone should be treated as equals.
 
@@ -569,7 +569,7 @@ Mercantilism/Colbertism - A society should concern aim for the best interests of
 
 - Fascism - Everyone should be loyal to their nation, more than anything else.
 
-Nativism - Presuming ethnocentrism (see above), the original [culture](culture.md) of a [group](groups-large.md) has more important values than the culture of people joining the group.
+Nativism - Presuming ethnocentrism (see above), the original [culture](people-culture.md) of a [group](groups-large.md) has more important values than the culture of people joining the group.
 
 [Contractarianism](people-contracts.md)/Social contract - People give up some of their [power](power.md) to governments to protect the rest of their rights or maintain [order](people-boundaries.md).
 
@@ -627,7 +627,7 @@ Legalism - Making laws should follow a mechanical, logical way of interpreting l
 
 - Original intent/Originalism - The laws should be interpreted by the [purpose](purpose.md) the law-writers were trying to achieve.
 
-## Philosophy's [Purpose](purpose.md) and [Culture](culture.md)
+## Philosophy's [Purpose](purpose.md) and [Culture](people-culture.md)
 
 Aristotelianism/Perpatetic school/Scotism - Start with the facts that experience gives things.
 

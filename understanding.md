@@ -124,7 +124,7 @@ There are three broad classes of things we can understand:
 1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](image.md), and [doing](results.md). Usually, it's proportional to [perceived](image.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
 2. Second, we can understand things. Those things are always [perceptible](image.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
    - Physical context - [location-based](logistics-navigation.md) attributes
-   - [Cultural](culture.md) context - human beliefs and perceptions
+   - [Cultural](people-culture.md) context - human beliefs and perceptions
    - [Historical](stories.md) context - period of time and events
    - [Situational context](https://gainedin.site/networks/) - event-based things that are "not normal"
 3. Finally, we can understand ideas. Ideas are constructed [values](values.md) in the mind and can be as concrete or abstract as we need:
@@ -185,7 +185,7 @@ To apply understanding, there are three major ways we can gain skills:
 
 1. We can conceptually understand the raw information (though we won't necessarily be skilled with *working* with it)
 2. We can train toward it (i.e., "nurture")
-3. [Nature](reality.md) or [culture](culture.md) can grant it automatically, which often works as a multiplier for the rest
+3. [Nature](reality.md) or [culture](people-culture.md) can grant it automatically, which often works as a multiplier for the rest
 
 APPLICATION: The only difference between understanding and skill is whether we know something consciously or subconsciously, which isn't always clearly defined.
 
@@ -233,7 +233,7 @@ In a sense, the [virtue](morality.md) of honesty or integrity directly correspon
 
 APPLICATION: If an intellectual has been able to easily comprehend their environment, that person is often less wise because they never had to learn the patience necessary to understand the fullest aspect of the things they observe.
 
-We often gain the most wisdom from things we [disagree with](conflicts-inner.md) and hate, since they're so diametrically opposed to our [way of life](culture.md) that we're immediately [purposed](purpose.md) to [disprove it](conflicts-inner.md) or discover [the truth](reality.md).
+We often gain the most wisdom from things we [disagree with](conflicts-inner.md) and hate, since they're so diametrically opposed to our [way of life](people-culture.md) that we're immediately [purposed](purpose.md) to [disprove it](conflicts-inner.md) or discover [the truth](reality.md).
 
 ## Confidence in understanding something
 
@@ -241,7 +241,7 @@ As we're trying to understand things, we often discover what we don't know and f
 
 Wise people know how little they understand, but also aren't afraid to [look](image.md) stupid in their [search](purpose.md), so they're still [confident](trust.md) they *can* attain understanding and that it's worth at least some sacrifice of their [reputation](image.md) to get it.
 
-APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](culture.md) and [conflict](conflicts-inner.md), but fools often disregard them.
+APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](people-culture.md) and [conflict](conflicts-inner.md), but fools often disregard them.
 
 APPLICATION: Question obvious things. The more mundane and obvious, the more likely everyone else overlooks an apparent fact. The same rule goes for [taboo](morality-taboo.md) subjects.
 
@@ -249,7 +249,7 @@ At a certain point, increasing our understanding will simplify things and create
 
 APPLICATION: The more we know, the more possible perspectives we see we may be able to have, and the more we realize we don't know. The pinnacle of understanding is to see how little we ultimately know while also enjoying the journey.
 
-As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
+As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](people-culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
 
 APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
 
@@ -306,7 +306,7 @@ And, since we have *much* more information over how little we really know versus
 
 ## Drawbacks of understanding
 
-Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](people-changes.md). In many [cultures](culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.
+Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](people-changes.md). In many [cultures](people-culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.
 
 APPLICATION: If we're constantly learning (which is a product of [living well](goodlife.md)), we must *constantly* rebuild our [language](awareness.md) to redefine what we understand more accurately. Otherwise, we'll become [set in our ways](habits.md) and won't [adapt](people-changes.md) to [environmental changes](trends.md).
 
@@ -314,7 +314,7 @@ Understanding certain things can also become tremendously risky for successfully
 
 More understanding takes work to maintain, proportionally to the intellect aspect of our [personality](personality.md). We tend to focus and filter other perspectives through whatever it is we already know because it's the easiest way to link things. Every [specialization](jobs-spcialization.md) will possess its opportunity cost of not being able to see things in the plain way that a [child](maturity.md) would be able to see things. Thankfully, this changes after we leave that specialization and start forgetting information.
 
-APPLICATION: If we trust others' understanding, we must mind the [culture](culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
+APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
 
 [Past trauma](hardship-ptsd.md) or [fears](mind-feelings-fear.md) of what things may imply will often make us sidestep having to understand certain things. With enough experience, some people find [creative](mind-creativity.md) ways to avoid understanding something entirely!
 

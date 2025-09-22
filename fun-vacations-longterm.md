@@ -35,7 +35,7 @@ Learn the culture *before* you go:
 - Political threats that may exist in the region, especially regarding your nationality.
 - The [economic](economics.md) exchange rate of currency.
 
-[Traveler's insurance](insurance.md) is *always* worth the expense if you're visiting an unfamiliar [culture](culture.md), though a standard renter's or homeowner's insurance policy can cover at least part of the risk.
+[Traveler's insurance](insurance.md) is *always* worth the expense if you're visiting an unfamiliar [culture](people-culture.md), though a standard renter's or homeowner's insurance policy can cover at least part of the risk.
 
 If the region doesn't provide universal [health coverage](body-4_health.md), traveler's health insurance is also worth the cost.
 
@@ -81,6 +81,6 @@ Sabbaticals, unlike vacations, are unstructured and allow you to take your time.
 
 Since you're in the area for a while, you can typically [earn a living](jobs-1_why.md) while taking time off from your career.
 
-The only true way to experience a region's local [culture](culture.md) is to live in it for at least a few months.
+The only true way to experience a region's local [culture](people-culture.md) is to live in it for at least a few months.
 
 While a sabbatical is often a dramatic change and *far* more unpredictable, you're guaranteed to find more [meaning](meaning.md) from the journey than visiting for a few days.

@@ -378,7 +378,7 @@ The efficiency of an asset class as an investment vehicle is proportional to a f
 2. The asset is socially acceptable and not [controversial or taboo](morality-taboo.md), which exposes you to non-financial risks:
    - [Potential legal issues](legal-safety.md) if a [law](rules.md) *might* forbid it.
    - Potential [publicity](image.md) problems, irrespective of legality.
-   - [Ethical issues](morality.md) you won't be immediately aware of through the [culture](culture.md) of the people who engage in that asset.
+   - [Ethical issues](morality.md) you won't be immediately aware of through the [culture](people-culture.md) of the people who engage in that asset.
 3. The benefits of that asset class are instantly clear and comprehensible.
    - The risk of a scam increases with how opaque their system is (see below under Scams).
 
@@ -435,7 +435,7 @@ When you're ready to make the investment (and only then), intimately learn where
   - Are you a customer or want to be one?
   - Do you know who the customers are?
   - Is the customer base loyal?
-- If it's in another region of the world, what's their [culture](culture.md) like?
+- If it's in another region of the world, what's their [culture](people-culture.md) like?
   - Is their country's government [corrupt](mgmt-badsystems.md)?
   - Do people have respect for the nation's [laws](rules.md)?
   - How prominent is that country's black market?

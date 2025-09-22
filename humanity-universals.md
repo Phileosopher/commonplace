@@ -59,7 +59,7 @@ Conscious/Subconscious
 Decisions
 
 - We all make decisions based on an elaborate [calculation](decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
-- We tend to hand those decisions to more powerful people as we conform to [group](groups-member.md) [standards](culture.md).
+- We tend to hand those decisions to more powerful people as we conform to [group](groups-member.md) [standards](people-culture.md).
 
 Denying Death
 
@@ -77,7 +77,7 @@ Dreams
 Expectations
 
 - We're *constantly* looking to the future to [predict, expect, and plan](imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
-- We build [traditions](culture.md) with others around consistent [patterns](symbols.md).
+- We build [traditions](people-culture.md) with others around consistent [patterns](symbols.md).
 - We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](results.md) a certain way.
 - Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
 
@@ -220,7 +220,7 @@ Routines/Rituals/Habits
 - We automatically build a plethora of [subconscious patterns](habits.md) to guide us through repetitive experiences.
 - We create daily, weekly, monthly, and yearly [routines](success-4_routine.md) around the sun's rotation, where we [do much more](results.md) in the day and [sleep](sleep.md) at night.
 - Further, we create standardized [social greetings](language-speaking.md) among each other.
-- We make long-term [traditions](culture.md) around anything that repeats, such as [marriages](relationships-weddings.md), [births](parenting-1_babies.md), [deaths](hardship-death.md), and changing seasons.
+- We make long-term [traditions](people-culture.md) around anything that repeats, such as [marriages](relationships-weddings.md), [births](parenting-1_babies.md), [deaths](hardship-death.md), and changing seasons.
 - Those traditions usually include feasts and, if they're a special occasion, a [public speech](language-speaking.md).
 
 Rules

@@ -249,7 +249,7 @@ The model breaks apart and independently analyzes aspects of an organization:
 - Structure - agreed-upon organizational order.
 - Systems - informal [habits](habits.md) the group has adopted.
 - Shared Values - shared group [beliefs](understanding-certainty.md).
-- Style - the [culture](culture.md) behind everyone acting.
+- Style - the [culture](people-culture.md) behind everyone acting.
 - Staff - the specific members themselves and their roles.
 - Skills - qualified [specializations](jobs-specialization.md) of the members.
 
@@ -487,7 +487,7 @@ There is also a Salas, Dickinson, Converse, and Tannenbaum Model that adds to Ha
 - Team Synergy - the shared attitude about the team's goals
 - Effective Processes - proven skills, knowledge, and strategies for performing tasks
 - Resources - how available an organization at large supports the team
-- Team [Culture](culture.md) - the interpersonal dynamic, attitude toward the organization, and commitment to the project
+- Team [Culture](people-culture.md) - the interpersonal dynamic, attitude toward the organization, and commitment to the project
 
 #### Lencioni Model
 

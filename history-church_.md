@@ -3,7 +3,7 @@ God has a unique way of using rejects and rebels to advance His mission. Even wh
 
 The original rituals and customs of the Church are extremely ancient [traditions](habits.md) connected to Judaism.
 
-- The Church inherits those customs, but it's always flavored by the new generations' [cultures](culture.md) that adopt them.
+- The Church inherits those customs, but it's always flavored by the new generations' [cultures](people-culture.md) that adopt them.
 
 Frequently, a denomination forms through a specific pattern:
 
@@ -143,7 +143,7 @@ However, Constantine's three children were bitter over him killing their mother 
 
 For Christians, things were also contentious, since Arius posited a [theological conflict](conflicts-christian.md) that argued about the substance of Christ versus the Father. This created severe issues for within the Church for about 55 years.
 
-In the year 380 AD, emperor Theodosius I declared Christianity the state religion of the Roman Empire, which destroyed the last portions of Rome's polytheistic [culture](culture.md) until its official end in 476 AD by instituting the **Roman Catholic Church**.
+In the year 380 AD, emperor Theodosius I declared Christianity the state religion of the Roman Empire, which destroyed the last portions of Rome's polytheistic [culture](people-culture.md) until its official end in 476 AD by instituting the **Roman Catholic Church**.
 
 When everyone is a Christian, most people really aren't, and from 380 AD onward the world's culture had *completely* merged with Christian culture. The religion of the Hebrew God wasn't technically Jewish-inspired anymore after that, and pagan influence became ubiquitous among Christian culture. While some Christian leaders stood out among the rest (e.g., Augustine of Hippo starting in 386), the pagan influence would continue.
 
@@ -188,7 +188,7 @@ Ecumenical Council #8 in 869 AD - The Fourth Council of Constantinople, feat. Po
 
 ## 5. Breakup #1 - Different Catholic Churches
 
-The issues with deposing Photius were among a vast range of [cultural](culture.md) differences between the East and West Catholic Church. The region we know as Russia had just come under the influence of the Roman Catholic Church ~950 AD, and they weren't too happy with some ways the centralized authority went back to Rome.
+The issues with deposing Photius were among a vast range of [cultural](people-culture.md) differences between the East and West Catholic Church. The region we know as Russia had just come under the influence of the Roman Catholic Church ~950 AD, and they weren't too happy with some ways the centralized authority went back to Rome.
 
 This all came to a conflict in 1054, where the Roman Catholic and Eastern Orthodox churches broke apart in the Great Schism.
 
@@ -313,7 +313,7 @@ The Protestant/Radical Reformation opened the floodgates for new ideas, and ther
 - Restorationism/Restitutionism/Christian Primitivism - the Christian Church should be restored back to the way the early Church did things.
 - Lesser Magistrate Doctrine - the lower-ranking ruler has the right and responsibility under certain [ethical situations](morality.md) to resist a higher-ranking ruler.
 
-In 1527, the **Hutterites** (a type of Anabaptist) created the Schleitheim Confession, probably written by Michael Sattler. It had 7 articles, written during a time of extreme persecution, and forces a [culture](culture.md) that's relatively ascetic and not very [influential](power-influence.md):
+In 1527, the **Hutterites** (a type of Anabaptist) created the Schleitheim Confession, probably written by Michael Sattler. It had 7 articles, written during a time of extreme persecution, and forces a [culture](people-culture.md) that's relatively ascetic and not very [influential](power-influence.md):
 
 1. Baptism should only be for people who consciously believe in Christ and repent, and specifically denounces infant baptism.
 2. A Christian should be privately admonished twice, but the third time openly disciplined and excommunicated, and always before breaking bread to preserve the unity and purity of the Body of Christ.
@@ -416,7 +416,7 @@ Roman Catholic Ecumenical Council #20 in 1869-1870 - The First Vatican Council f
 - Decreed important canons relating to the Faith and the constitution of the Church
 - Decreed the pope is infallible when speaking "ex cathedra" (from "the chair")
 
-The **Church of the Nazarene** arose as a set of mergers of various Holiness Movement churches, starting in 1907, though they slowed down on the mergers around the end of the late-2000's. Broadly, this was one of the first churches that pioneered the Ecumenical Movement (where churches try to come together and partner even though they're from different [cultures](culture.md)).
+The **Church of the Nazarene** arose as a set of mergers of various Holiness Movement churches, starting in 1907, though they slowed down on the mergers around the end of the late-2000's. Broadly, this was one of the first churches that pioneered the Ecumenical Movement (where churches try to come together and partner even though they're from different [cultures](people-culture.md)).
 
 In 1954, China's new government established the **Three-Self Patriotic Movement**, which taught a form of Christianity that was aligned with the interests of the Chinese Communist Party. It was disbanded during their Cultural Revolution from 1966 to 1976, then brought back in 1979 with even more [government oversight](politics-systems.md). It veers *very* close, if not outright, into [cult territory](culture-cults.md).
 
@@ -438,7 +438,7 @@ The **Evangelical Orthodox Church** was founded by former members of the parachu
 
 ## 12. The Protestant Post-Post-Modernism
 
-The **World Assemblies of God Fellowship** arose in 1989 as a cooperative of over 170 Pentecostal denominations, though it had existed on a much smaller scale since 1914. It served to give more connection and collaboration across the groups, given their [cultural differences](culture.md) and shared [theology](theology.md).
+The **World Assemblies of God Fellowship** arose in 1989 as a cooperative of over 170 Pentecostal denominations, though it had existed on a much smaller scale since 1914. It served to give more connection and collaboration across the groups, given their [cultural differences](people-culture.md) and shared [theology](theology.md).
 
 The **New Apostolic Movement** spun off the Charismatic movements and was coined in 1996, which indicate that there are new Apostles that God appoints as an authority to run the Church. From one angle, their values could be considered a [cult](culture-cults.md).
 

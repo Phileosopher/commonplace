@@ -120,7 +120,7 @@ Implying with Others
 - Allude vaguely to what "experts" say or believe.
 - State what a non-present person would have thought on an issue, though it's often impossible to precisely [know](imagination.md).
 - Concede to a personal failing to provoke someone else to admit *their* failings.
-- Use [language](language.md) associated with a specific [culture](culture.md) to imply association with it.
+- Use [language](language.md) associated with a specific [culture](people-culture.md) to imply association with it.
 
 Pressure
 
@@ -193,7 +193,7 @@ Public [Image](image.md)
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
 - Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](leftism.md)).
 - Use [authoritative](power.md)-sounding labels (e.g., "association", "endowment", "coalition", "opportunity fund")
-- Establish [traditions](culture.md) that imply [stories](stories.md) about the organization.
+- Establish [traditions](people-culture.md) that imply [stories](stories.md) about the organization.
 - Donating to other organizations that serve the public good.
 
 Blame

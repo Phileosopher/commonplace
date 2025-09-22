@@ -135,11 +135,11 @@ Once we've discovered nearly all the [rules](rules.md), we'll find it repulsive 
 
 We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different than what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
 
-Since nothing is really [new](image.md), we might be breaking [convention](culture.md), but are more often making something [ugly](values-quality.md) that doesn't add any legitimate [value](purpose.md). Young people may find it interesting, but the [industry in general](jobs-specialization.md) won't care.
+Since nothing is really [new](image.md), we might be breaking [convention](people-culture.md), but are more often making something [ugly](values-quality.md) that doesn't add any legitimate [value](purpose.md). Young people may find it interesting, but the [industry in general](jobs-specialization.md) won't care.
 
 On occasion, the creator's style at this stage will skyrocket them to outlandish fame, but more often they'll just be the creative inspiration for someone else who was loosely inspired by it but does something better with the medium.
 
-If the creator is [conceited](morality-evil.md) enough, they'll blame [society](culture.md) for their lack of good publicity. However, if they can stop hoarding their ideas, they'll move on and keep improving.
+If the creator is [conceited](morality-evil.md) enough, they'll blame [society](people-culture.md) for their lack of good publicity. However, if they can stop hoarding their ideas, they'll move on and keep improving.
 
 ### 4. Elegance/Simplicity
 
@@ -196,7 +196,7 @@ APPLICATION: Most creativity requires immense solitude to develop, which is why 
 
 The creative process itself is always messy. Creators have a constant [inner war](conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
 
-APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
+APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](people-culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
 
 The [timing](datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
 

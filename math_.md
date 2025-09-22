@@ -56,7 +56,7 @@ Statistics, however, can *only* demonstrate correlation. Any causation only come
 
 - People in the 1980s who ate hot breakfasts more often than cold were dramatically more likely to have Alzheimer's Disease. We [tend](habits.md) to eat what we ate when we were kids, and cold cereal took off in [popularity](trends.md) in the 1950s.
 - Crime statistics *always* go up when cities expand their police forces. Technically, crime statistics are only measuring *caught* crimes.
-- The [culture](culture.md) of most of the world aligns with anthropology studies of the West, representative by data. Most anthropology data is gathered near Western universities.
+- The [culture](people-culture.md) of most of the world aligns with anthropology studies of the West, representative by data. Most anthropology data is gathered near Western universities.
 - People who saw the 1984 Ghostbusters movie are more likely to die than people who saw the 2021 Ghostbusters movie. This is simply because of age-related facts.
 
 When we hear a statistical result, we're incapable of *not* inserting our [explanation](logic.md) on the [causes or effects](stories.md) of the information. Our only hope to gain full [understanding](understanding.md) lies in forced [uncertainty](understanding-certainty.md), which requires directing our thoughts toward the specific [purpose](purpose.md) of suspending judgment, which requires tremendous effort to maintain.

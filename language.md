@@ -27,11 +27,11 @@ Every letter, word, and phrase is a [symbol](symbols.md) that represents both as
 
 In languages like English, each character has an abstract meaning that only forms [ideas](values.md) when they're assembled into words. In other languages (e.g., Eastern languages like Chinese), the letter itself has a clearer meaning.
 
-Written and spoken language are *not* the same language, and run parallel to one another in any [culture](culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
+Written and spoken language are *not* the same language, and run parallel to one another in any [culture](people-culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
 
 The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](image.md), and even *more* of the same from other words' relationship to those ideas.
 
-Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
+Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
 
 We must delicately balance between precision and brevity, and our [choice](decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
 

@@ -5,11 +5,11 @@ Christianity represents three distinct classes:
 
 1. An *incredibly* small minority of tested believers who do *not* demonstrate any of the below traits. They are often [clergy](mgmt-church.md), but can sometimes simply be within the laity, and the Holy Spirit's presence often gives them tremendous [influence](power-influence.md).
 2. A very significant minority of legitimate believers who haven't had their faith [tested heavily by fire](hardship.md) yet and perform many specific out-of-place behaviors as a consequence.
-3. A dramatic majority of likely or potential believers who have false beliefs, but they imitate the [culture](culture.md) of the significant minority.
+3. A dramatic majority of likely or potential believers who have false beliefs, but they imitate the [culture](people-culture.md) of the significant minority.
 
 Most stereotypes and opinions about Christianity come from those last two classes.
 
-Human nature has certain [universal qualities](humanity-universals.md), and God is most certainly the same God [throughout all history](https://theologos.site/god-sight/). So, when He begins a new work on a Christian, people will always show the same approximate characteristics, with a variance coming through the scope of their [personality](personality.md) and [culture](culture.md).
+Human nature has certain [universal qualities](humanity-universals.md), and God is most certainly the same God [throughout all history](https://theologos.site/god-sight/). So, when He begins a new work on a Christian, people will always show the same approximate characteristics, with a variance coming through the scope of their [personality](personality.md) and [culture](people-culture.md).
 
 Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 years. Eventually, they'll keep building healthier [habits](habits.md) and put their spiritual infancy behind them. However, it's a weird time, and it has shown itself with the same silly representations across two millennia.
 
@@ -108,7 +108,7 @@ Extreme insistence on creating large-scale [political changes](politics-conserva
 Maintains [habitual](habits.md) [sins](morality-sins.md) out of ignorance or unawareness.
 
 - Obviously, we all battle with sins, but they'll generally try to avoid the [consequences](results.md) of their sins while finding ways to keep doing it.
-- Most [denominational](conflicts-inner.md) [cultures](culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
+- Most [denominational](conflicts-inner.md) [cultures](people-culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
 
 Confrontational or inappropriate behavior as a type of "ministry".
 
@@ -116,7 +116,7 @@ Confrontational or inappropriate behavior as a type of "ministry".
 - They're projecting their [family](church-family.md) background onto who God is and don't understand [His loving and gracious nature](god.md).
 - Long-term, magnified [conflicts](people-5_conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
 
-Engages in [cultural activities](culture.md) that God doesn't like.
+Engages in [cultural activities](people-culture.md) that God doesn't like.
 
 - Most mind-altering [substances](addiction-substances.md) open spiritual gateways, which are an inherent risk to our souls.
 - Any relationship with spiritual beings (e.g., divination, Ouija boards) builds [implicit contracts](people-contracts.md) that interfere with what Jesus has done and [plans to do](god-will.md).
@@ -133,7 +133,7 @@ Believing "Christian" media to be a vastly superior classification of media, eve
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
   3. The audience may misunderstand why the creator is portraying a bad thing and attack them over it.
 
-Allegiance to a [denomination](conflicts-christian.md) or its [culture](culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
+Allegiance to a [denomination](conflicts-christian.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
 
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
   - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)
@@ -233,7 +233,7 @@ They'll find something lacking in mainstream Christian church services.
 - They will feel like many other believers are frequently not as committed to following Jesus as they are.
 - Many times, they'll have moved through at least a few [denominations](history-church.md) to seek [more mature believers](spiritual-discipleship.md).
 
-They may even accept a particular [cultural value](culture.md) they completely eschewed.
+They may even accept a particular [cultural value](people-culture.md) they completely eschewed.
 
 - They'll typically see how it may be a sin for *them* to engage in it, but that it may be fine for others.
   - [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)

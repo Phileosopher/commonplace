@@ -77,7 +77,7 @@ Further, we can reprogram a pleasurable reward from painful things that give *no
 
 Mental disorders from our [upbringing](people-family.md) can make a relatively non-moral matter into a [moral one](morality.md), which can severely constrain our lifestyles.
 
-Even when there's no benefit, we typically [feel](mind-feelings.md) comfortable with what we're familiar with. Our [guardians](people-family.md) raised us in a [culture](culture.md) we believed as children to be "the best way" irrespective of [reality](reality.md), and it's not uncommon for people to persist in it, at least partly.
+Even when there's no benefit, we typically [feel](mind-feelings.md) comfortable with what we're familiar with. Our [guardians](people-family.md) raised us in a [culture](people-culture.md) we believed as children to be "the best way" irrespective of [reality](reality.md), and it's not uncommon for people to persist in it, at least partly.
 
 However, a minority of people will break so hard from their culture that they feel more comfortable with change than familiarity. These people tend to [break rules](morality-taboo.md) and start [trends](trends.md). If they're [successful](success-1_why.md) enough, their [risks](socialrisk.md) will pay off.
 
@@ -110,7 +110,7 @@ APPLICATION: Bad habits are wildly destructive, but they're not irredeemable. Pe
 
 If anyone finds [meaning](meaning.md) in some aspect of performing a habit, it's a tradition.
 
-Traditions [maintain society](culture.md) and [bind groups together](groups-small.md), mostly in how practicing them reinforces what everyone already [knows](understanding.md).
+Traditions [maintain society](people-culture.md) and [bind groups together](groups-small.md), mostly in how practicing them reinforces what everyone already [knows](understanding.md).
 
 APPLICATION: The value of tradition comes through how much we find meaning in it, so getting a *[group](groups-small.md)* to find meaning requires several simultaneous approaches:
 

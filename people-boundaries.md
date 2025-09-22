@@ -87,7 +87,7 @@ One of the trickiest debates about freedoms includes the right to [speak](langua
 
 Beyond rights, we also have privileges. Rights are things we ought to have, but privileges are things we *can* do even when we have no inherent right to them because they're part of *others'* rights.
 
-Many times, people believe their privileges *are* rights, often from a privileged [upbringing](people-family.md) or [cultural](culture.md) indoctrination:
+Many times, people believe their privileges *are* rights, often from a privileged [upbringing](people-family.md) or [cultural](people-culture.md) indoctrination:
 
 - Being believed isn't a right because that would infringe on others' rights to think and believe what they want.
 - Any physical possession or property isn't a right if it significantly harms other individuals.
@@ -105,7 +105,7 @@ APPLICATION: Nothing is technically free, and receiving *anything* is technicall
 
 Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](understanding.md).
 
-The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](culture.md):
+The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](people-culture.md):
 
 - Observing a person while they're not fully clothed.
 - Knowledge of what a person possesses or may possess.

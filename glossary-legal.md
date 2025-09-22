@@ -318,7 +318,7 @@ Consideration - Giving or promising something another party promised, typically 
 
 Consolidation of Goods - An entity groups or mixes restricted items with non-restricted items and doesn't declare them in shipping documentation
 
-Constitutional convention - Informal and uncodified [tradition](culture.md) followed by the institutions of a state
+Constitutional convention - Informal and uncodified [tradition](people-culture.md) followed by the institutions of a state
 
 Contempt of Court - A finding that someone disobeyed a court order, but can also mean disrupting court by being loud or disrespectful in court
 

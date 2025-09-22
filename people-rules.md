@@ -15,7 +15,7 @@ Avoid overstepping on small things that may make people uncomfortable:
 - Avoid offensive remarks, insults, or slang.
 - Don't criticize, condemn, or complain.
 - Take extra time before you speak and be quick to apologize.
-- Honor [cultural norms](culture.md), particularly with timing, when to speak, and where to position yourself.
+- Honor [cultural norms](people-culture.md), particularly with timing, when to speak, and where to position yourself.
 - Listen to music quietly to not disrupt anyone else.
 - If you're a male and not in a men's restroom, leave the toilet seat down when you're finished.
 - Return shopping carts to their designated areas.

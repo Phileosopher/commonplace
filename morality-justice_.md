@@ -32,7 +32,7 @@ There are only a few forms of delivering justice, and it's based on desired [con
 
 All matters of legal justice are issues of [morality](morality.md), with the State being the decider. They are responses to previous moral decisions that people had made, which is why they're always complicated. Small details like a coffee stain or location of a [tool](technology.md) sometimes define *everything* in a court [decision](decisions.md).
 
-Most of the time, the emotional energy of the [deciding](decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](culture.md) with a differing set of social rules.
+Most of the time, the emotional energy of the [deciding](decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
 
 Court [decisions](decisions.md) often become [laws](rules.md), which impact *way* more for years later than the original decision ever could.
 

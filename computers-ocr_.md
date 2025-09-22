@@ -87,7 +87,7 @@ Unfortunately, it's not uncommon for information to parse incorrectly, even with
 
 - [Xerox machines had a non-OCR bug which changed numbers on its scans that persisted for 8 years](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning).
 
-From [a design standpoint](engineering-design.md), adding barcode technology to an inherently social experience (e.g., restaurants, concerts) can create a *very* antisocial experience altogether, especially if people are conditioned to social interaction in a [culture](culture.md).
+From [a design standpoint](engineering-design.md), adding barcode technology to an inherently social experience (e.g., restaurants, concerts) can create a *very* antisocial experience altogether, especially if people are conditioned to social interaction in a [culture](people-culture.md).
 
 * * * * *
 

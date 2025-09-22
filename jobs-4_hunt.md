@@ -119,7 +119,7 @@ Practice an original introduction to showcase what you *want* to do instead of m
 
 - If you have a grand goal in mind, it shows you're working steadfastly toward it.
 
-Every region and company has its own [culture](culture.md) and expectations:
+Every region and company has its own [culture](people-culture.md) and expectations:
 
 - Some areas post more jobs on online job boards while others have almost nothing relevant.
 - Some attitudes are less formal and friendlier while others are intensive and blunt.

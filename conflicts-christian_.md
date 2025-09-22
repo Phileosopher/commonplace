@@ -23,8 +23,8 @@ Everyone is [entitled to their beliefs](people-boundaries.md) and [traditions](h
 Working through disagreements, heresies, and cults is a *very* intense form of [personal evangelism](evangelism.md) and [leadership](mgmt-church.md).
 
 - To be a peacemaker, you will need *tremendous* patience in understanding everyone's points of view ([Matthew 5:9](https://biblehub.com/matthew/5-9.htm)).
-- It takes a *tremendously* open mind to respect each person's [culture](culture.md) as uniquely different while maintaining your views.
-  - A Bible verse can be descriptive (with a precise application) or prescriptive (should be adapted to the [culture](culture.md)).
+- It takes a *tremendously* open mind to respect each person's [culture](people-culture.md) as uniquely different while maintaining your views.
+  - A Bible verse can be descriptive (with a precise application) or prescriptive (should be adapted to the [culture](people-culture.md)).
 - Only pursue a ministry in [resolving disputes](people-5_conflicts.md) if God has [specifically equipped you](spiritual-gifts.md) for the purpose.
 
 In general, prioritize your [conflict management](people-5_conflicts.md) skills correctly:
@@ -106,7 +106,7 @@ Political views mixed with faith:
 - Take a stand on [clear ethical positions](morality.md), and ask Him for wisdom for difficult ones ([James 1:5](https://biblehub.com/james/1-5.htm)).
   - Be careful, though, since it's easy to fall into a secular political cult (see below).
 
-Lifestyle and [cultural](culture.md) decisions:
+Lifestyle and [cultural](people-culture.md) decisions:
 
 - Triumphalism - God's Kingdom is taking over, so Christians must urgently conquer everything for Jesus.
 - Mariology - The Virgin Mary has significance in our daily lives and rituals.
@@ -146,7 +146,7 @@ Some things labeled as "Christian" have little to do with the essence of Christi
 - Intellectual knowledge of what Christianity believes and who Jesus is.
   - [The devil](spiritual-warfare.md) has *far* more knowledge than we do about Jesus.
 - Church involvement, religious affiliation or running an active ministry.
-  - There are [many cultures](culture.md), and they each have [their variation on practicing their faith](mgmt-church.md).
+  - There are [many cultures](people-culture.md), and they each have [their variation on practicing their faith](mgmt-church.md).
 
 Many Christians, especially new ones, ask whether God permits something specific:
 
@@ -218,8 +218,8 @@ Rigidly enforced rituals:
 Specific Bible translations having more authority:
 
 - Most proponents advance the King James Version (written in Shakespeare's time) or the New World Translation (written by the Jehovah's Witnesses cult).
-- The only "true" [Bible reading](bible.md) is in the original ancient Greek (both Majority *and* Minority Texts), Hebrew, and Aramaic, with a full historical context of the [culture](culture.md) of the time.
-  - The spirit of the text is typically the same in almost any translated Bible, but [language](language.md) and [cultural](culture.md) barriers will *always* diminish some [emotional](mind-feelings.md) impact of specific words or phrases.
+- The only "true" [Bible reading](bible.md) is in the original ancient Greek (both Majority *and* Minority Texts), Hebrew, and Aramaic, with a full historical context of the [culture](people-culture.md) of the time.
+  - The spirit of the text is typically the same in almost any translated Bible, but [language](language.md) and [cultural](people-culture.md) barriers will *always* diminish some [emotional](mind-feelings.md) impact of specific words or phrases.
 - While Christians don't frequently talk about it, the Bible's authorship requires a few extra degrees of [trust](trust.md):
   1. God inspired people in their language and time to write the Bible, likely as standard [creative inspiration](mind-creativity.md) in the flow of writing something [useful](purpose.md) for someone else (i.e., they were conscious the whole time even while God acted).
   2. The texts were copied faithfully, without any permutations, by other Jews/Christians across centuries.
@@ -309,7 +309,7 @@ Isolationism - Following Jesus requires severing ties completely with the rest o
 - To be precise, *desiring* friendship with the world is to be an enemy to God ([1 John 2:15](https://biblehub.com/1_john/2-15.htm)).
   - Jesus came to save sinners, and associated frequently with them as part of His ministry ([Matthew 9:10-13](https://biblehub.com/bsb/matthew/9.htm)).
 - Following Jesus means a cycle of associating with other believers, then going out into the rest of the world ([John 17:13-15](https://biblehub.com/bsb/john/17.htm)).
-- One variation of isolationism is to believe there are *no* ties between a person's professional or [cultural](culture.md) life and their Christian life.
+- One variation of isolationism is to believe there are *no* ties between a person's professional or [cultural](people-culture.md) life and their Christian life.
   - However, if you choose to identify as a Christian, your lifestyle *will* change, and it *will* reflect on a [holier lifestyle](morality-sins.md).
   - Saying something is "just business" is never used to justify a morally *good* action, so most of it is motivated toward [gaining some form of power](power-types.md).
 
@@ -482,7 +482,7 @@ Heresies that take away part of the Bible:
 
 Heresies that add content to the Bible:
 
-- Montanism - The Bible is either insufficient or incomplete, and God regularly gives new revelations that change based on the [culture](culture.md) He's speaking to.
+- Montanism - The Bible is either insufficient or incomplete, and God regularly gives new revelations that change based on the [culture](people-culture.md) He's speaking to.
   - Their attitude created a *lot* of [political friction](people-conflicts-war.md) for the Christian church.
   - There are multiple works inspired by them (mostly apocalypse-focused), including the Apocalypse of Peter, and the fact that they accepted the Apocalypse of St. John (now known as Revelation in the Bible) is why the Assyrian Church of the East won't accept it as canon.
 - Some works have *very* significant historical value (e.g., Jasher, other early Christian letters).
@@ -575,7 +575,7 @@ Cults often borrow directly from the Bible.
   - A more thorough [Bible study](bible-study.md) will make it patently obvious to a typical Christian.
   - They'll often gloss over specific core ideas, so take your disagreements with them *very* slowly and methodically.
 - They typically use those verses to advance an [influential](power-influence.md) leader's or written work's authority that sits alongside the Bible.
-  - The secondary authority tends to combine heresies together into a [group culture](culture.md) of its own.
+  - The secondary authority tends to combine heresies together into a [group culture](people-culture.md) of its own.
 
 Most people, including Christians, can be close-minded, but cult members can take it to extremes.
 
@@ -837,7 +837,7 @@ All attempts to reconcile Christianity and the world are guaranteed to fail.
 
 Any attempts to harmonize Christianity will lead to disaster.
 
-- God will draw people under His domain from every [culture of humanity](culture.md) (Revelation 7:9).
+- God will draw people under His domain from every [culture of humanity](people-culture.md) (Revelation 7:9).
 - There are simply too many cultures and ways of life to sufficiently harmonize all of them.
 
 [Living like Christ](https://theologos.site/devotion-chaos/) is a much more individual experience, and binding together everyone with the same [agenda](purpose.md) starts veering quickly into the realm of [political influence](power-influence.md).

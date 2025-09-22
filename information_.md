@@ -57,7 +57,7 @@ The Over-Information Age consists of each individual person possessing many ligh
 
 While information itself used to have value, most of the competition has now pivoted to a *desperate* competition for everyone's scarce attention, which creates a type of "attention [economy](economics.md)". While it empowers compared to the past, it now creates a *new* problem of endless distraction.
 
-Further, this perpetual cosmopolitanism ensures that [cultures](culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
+Further, this perpetual cosmopolitanism ensures that [cultures](people-culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
 
 Societies with this newly formed attention economy (i.e., most developed regions of the world) are a perpetual, monotonous hum of inattentive focus that provokes us to be [unhappy](mind-feelings-happiness.md) and [unsuccessful](success-1_why.md), [mindlessly pursuing tasks](habits.md) and [substances](addiction-substances.md) that don't [resolve our concerns](purpose.md) or [give us meaning](meaning.md). It's the [human condition](humanity.md), but fast-forward.
 
@@ -88,7 +88,7 @@ Everyone has a limit on how much information they can consume.
 
 Being frequently inundated with information is *not* healthy for us:
 
-- We adopt a heavily [biased](mind-bias.md) and judgmental [culture](culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
+- We adopt a heavily [biased](mind-bias.md) and judgmental [culture](people-culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
 - Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](trends.md) [language](language.md) for offline use.
 
 Without [awareness](awareness.md) and making [decisions](decisions.md) that enforce limits, we tend to perform "[crash diets](body-2_diet.md)" of information control:
@@ -639,11 +639,11 @@ Most people addicted to social media are more drawn to the chance at social inte
 Most people can't reliably penetrate heavily made content because their thoughts are too busy arguing with the author to purely [understand](philosophy.md) what that person has tried to say.
 
 - Every writer, regardless of who and no matter how smart, has a distinct and specific [problem](purpose.md) they're trying to solve, which is critical to understand why they spent their time addressing a topic.
-- Often, the [cultures](culture.md) of the past can make ideas *very* impractical, though also often very [educational](education.md) about [human nature](humanity-universals.md).
+- Often, the [cultures](people-culture.md) of the past can make ideas *very* impractical, though also often very [educational](education.md) about [human nature](humanity-universals.md).
 
 A specialized author is generally writing for their field of expertise.
 
-- To read a reliable [philosophy](philosophy.md) or [history](stories-storytellers.md) text (as well as spinoff domains like [economics](economics.md)), it usually helps to understand the [culture](culture.md) of that specific time, as well as *their* perspective of history when they looked back.
+- To read a reliable [philosophy](philosophy.md) or [history](stories-storytellers.md) text (as well as spinoff domains like [economics](economics.md)), it usually helps to understand the [culture](people-culture.md) of that specific time, as well as *their* perspective of history when they looked back.
 - To read [math](math.md) and trade-related information (such as [science](science.md)), it requires clearly and simply understanding the basics of the discipline.
 
 When consuming something particularly dense with information, you *must* try to think like the author.
@@ -678,7 +678,7 @@ The fixes can be distilled into a set of questions, which can be asked for every
 
 This information blast [trend](trends.md) will only slow down when two conditions happen at once:
 
-1. The [culture](culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
+1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
 2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.
 
 The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war.md).

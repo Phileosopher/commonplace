@@ -12,7 +12,7 @@ More broadly, hacking simply means using something outside of its creator's inte
 
 ## Deviant
 
-Whether intentional or not, a hacker will invariably defy [social convention](culture.md). They use errors, glitches, and hidden-away features to accomplish a specific purpose, which requires an inherent sense of lateral thinking.
+Whether intentional or not, a hacker will invariably defy [social convention](people-culture.md). They use errors, glitches, and hidden-away features to accomplish a specific purpose, which requires an inherent sense of lateral thinking.
 
 As a result, [neurodivergent](mind-neurodivergence.md) people (such as [autism](https://books2read.com/autism/), ADHD, and schizophrenia) are more gifted at hacking, though a [rebellious attitude](maturity.md) can mimic the same mindset necessary to find hacks.
 

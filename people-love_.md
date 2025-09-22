@@ -5,7 +5,7 @@ The greatest psychological [motivator](purpose.md) is [fear](mind-feelings-fear.
 
 Love is typically [habitual](habits.md) in day-to-day life, and we begin loving when we make [decisions](decisions.md) that give ultimate [priority](purpose.md) to something.
 
-The [cultural](culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-3_marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
+The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-3_marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
 True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving it. This shows itself most clearly when people engage in [heated conflicts](people-conflicts.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
 
@@ -113,7 +113,7 @@ This often breaks down when we talk about how others respond to that love. Many 
 
 Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
-Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
+Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
 Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").
 

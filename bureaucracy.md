@@ -140,7 +140,7 @@ When in doubt, stay silent.
 
 ## Observe each department
 
-Every department may have a separate system with a separate [workplace culture](culture.md), and most of them don't interact with each other much.
+Every department may have a separate system with a separate [workplace culture](people-culture.md), and most of them don't interact with each other much.
 
 - Each department is a separate organization with a limited understanding of other departments' knowledge.
 - Every time you engage with another department, treat it as a completely separate organization.

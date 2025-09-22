@@ -5,7 +5,7 @@ When a [large group](groups-large.md) permits us to vote, we must make [decision
 
 Broadly, we have a simple decision across a spectrum: "conserve" things we're [familiar](habits.md) with, or "liberally" try things we've not [seen](image.md) before (or "progressing" towards a [new trend](trends.md)). Thus, beyond our [desires](purpose.md), our [personalities](personality.md) heavily define our politics.
 
-When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](culture.md). Since society is flawed, and they [imagine](imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](trends.md), since they have [hope](trust.md) in what they haven't seen.
+When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](trends.md), since they have [hope](trust.md) in what they haven't seen.
 
 As people [age](maturity.md), they tend to discover that there's nothing really "[new](image.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](trends.md), they have more to lose and tend to vote more conservatively.
 
@@ -16,7 +16,7 @@ Conservatives tend to vote for civilization and liberals for equality, but this 
 
 While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
 
-- Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](trends.md) [cultures](culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
+- Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](trends.md) [cultures](people-culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
 - Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
 
 ## Undefined

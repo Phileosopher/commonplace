@@ -13,7 +13,7 @@ We're [habituated](habits.md) to conversations, so we treat them as a relatively
 
 1. Person A makes [decisions](decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](imagination.md) what Person B is likely perceiving.
 2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](image.md) and [understood](understanding.md) them as they send it.
-3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](culture.md), across the [surrounding environment](reality.md).
+3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
 4. Person B [decides](decisions.md) how to respond to Person A, then the role is reversed.
 5. As the conversation persists, Person A and Person B maintain partial [memory](mind-memory.md) of *all* the past information they recorded, and will draw on it at *any* time in the future, even decades later.
 
@@ -36,7 +36,7 @@ We're always constrained by our [medium](creations.md), whether it's through [wr
 
 ## Background information
 
-Our [cultural](culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](decisions.md) with respect to our culture or [integrate our shadow](personality.md).
+Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](decisions.md) with respect to our culture or [integrate our shadow](personality.md).
 
 We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](results.md).
 
@@ -48,7 +48,7 @@ We use several factors to choose which and how many details to incorporate into 
 
 - Our interpretation of what our listener [wants](purpose.md) to see.
 - Our [personalities](personality.md) and [preferences](decisions.md) for how we wish to approach something.
-- The [social context](culture.md) for what we're sharing (e.g., location, [available time](datetime.md), [purpose](purpose.md) of the event).
+- The [social context](people-culture.md) for what we're sharing (e.g., location, [available time](datetime.md), [purpose](purpose.md) of the event).
 - Our [interpretation](imagination.md) of the most successful means of [conveying information](education.md).
 
 Our choices broadly create a few possible general communication approaches (DISC communication styles):
@@ -98,7 +98,7 @@ This shared understanding dramatically expands our view of the world, often fart
 
 This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 
-APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
+APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](people-culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
 
 As we integrate this understanding in with ours, we end up having two [perspectives](image.md) in our mind at the same time: theirs and ours. If we can successfully harmonize both views as equally valid, without [needless invalidation](conflicts-inner.md), we can frequently see other things as if we *were* two people seeing something.
 

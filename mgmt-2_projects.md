@@ -33,7 +33,7 @@ Reflect your vision with your lifestyle.
 - Your own way of life should reflect on the projects and goals you're aspiring to achieve.
 - Associate with other people who constantly [challenge](people-conflicts.md) your ideas.
 - Stay [creative](mind-creativity.md), and continually seek out new experiences and new ways to see the world.
-- If you don't constantly seek new information and points of view, your group will [influence](power-influence.md) you enough that you'll become stagnant through a leader-member [cultural](culture.md) feedback loop.
+- If you don't constantly seek new information and points of view, your group will [influence](power-influence.md) you enough that you'll become stagnant through a leader-member [cultural](people-culture.md) feedback loop.
 
 ## B. Establish values
 
@@ -49,7 +49,7 @@ With that idea in place, clarify the values you want to see with your team.
 
 Clarify any critical [customs](people-rules.md) or [habits](habits.md) that will reinforce those values.
 
-- You're trying to foster a [culture](culture.md) which reinforces the values you believe should show themselves.
+- You're trying to foster a [culture](people-culture.md) which reinforces the values you believe should show themselves.
 - If your team has any [creative](mind-creativity.md) people, the best cultural values you can introduce are *extremely* simple, with the expectation that they will find [meaning](meaning.md) in adding their own flair to it out of boredom.
 
 ## C. Pick a system
@@ -66,7 +66,7 @@ Every project has specific purposes and constraints:
 
 After all that, examine the space you're working in.
 
-- Consider the location and how it'll connect to the [culture](culture.md) and work environment.
+- Consider the location and how it'll connect to the [culture](people-culture.md) and work environment.
 
 Consider the project's necessary inputs and outputs:
 
@@ -124,7 +124,7 @@ Start with the larger [goals](success-3_goals.md), then split them into smaller 
 
 A team of people is more like a small community than any type of system.
 
-- Each person will interact with other people, creating a [group culture](culture.md) that frames it as a unique entity.
+- Each person will interact with other people, creating a [group culture](people-culture.md) that frames it as a unique entity.
 - Across teams, an organization is more like an ecosystem than a formal structure.
 
 The team's composition adapts further constraints and opportunities:

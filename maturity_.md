@@ -91,7 +91,7 @@ Among the other prejudices we make when encountering people, we tend to gauge ot
 
 When we look at someone younger, we track their maturity by how we [imagine](imagination.md) we were at that age. Often, for someone older, we only consider them immature if they behave *worse* than how we behave at our present age observing them (e.g., a 25-year-old not realizing a 50-year-old is immature until they behave like an adolescent).
 
-We don't think about maturity in others until it's unusual by the standards of our [cultural intuition](culture.md). People don't usually identify maturity in their peers unless the person is behaving *very* differently than them.
+We don't think about maturity in others until it's unusual by the standards of our [cultural intuition](people-culture.md). People don't usually identify maturity in their peers unless the person is behaving *very* differently than them.
 
 Frequently, under severe [conflicts](people-conflicts.md) or [hardship](hardship.md), we can regress back in age to *any* of our past life stages. But, that hardship can also grow us *very* rapidly through multiple life stages when channeled correctly.
 
@@ -101,7 +101,7 @@ We also tend to judge time differently as we age. When we're young, our experien
 
 The largest standard of maturity comes through a group granting status to a [member](groups-member.md) who has fulfilled a rite of passage, which typically starts around adolescence, but in [modern societies](groups-large.md) can exist as late as the early 30s.
 
-While it varies by [culture](culture.md), a rite of passage is a transition from childhood to adulthood, and [represents](symbols.md) several things simultaneously:
+While it varies by [culture](people-culture.md), a rite of passage is a transition from childhood to adulthood, and [represents](symbols.md) several things simultaneously:
 
 - That person had a [desire](purpose.md) to prove themselves and asserted their [actions](results.md) to that end by doing (probably) stupid things, and they've realized their limits upon the world at large.
 - That person has come to understand what they *can't* do and the right things to [trust](trust.md) for handling the situation.
@@ -118,7 +118,7 @@ During the transition, and irrespective of the culture, a child will do a few th
 
 This rite of passage is necessary for social harmony because it demarcates between "adult" leaders and "child" followers, as well as carving out a person's [identity](identity.md) in light of that distinction. Because of the risks of choosing wrongly, every single rite of passage will exclude at least some people who don't fulfill it, from both aspects of laziness and incompetence.
 
-The people who never fulfill a rite of passage will always represent a lower status in a [culture's](culture.md) hierarchy. They'll typically exist as inferior in that group until they [change](people-changes.md) their [habits](habits.md) to find a new social group (which is a *separate* rite of passage) or accomplish something that proves their worth to their community.
+The people who never fulfill a rite of passage will always represent a lower status in a [culture's](people-culture.md) hierarchy. They'll typically exist as inferior in that group until they [change](people-changes.md) their [habits](habits.md) to find a new social group (which is a *separate* rite of passage) or accomplish something that proves their worth to their community.
 
 In the absence of a clear rite of passage, most children end up persisting in a dead-end lifestyle until they find their path:
 
@@ -129,7 +129,7 @@ In the absence of a clear rite of passage, most children end up persisting in a 
 - [Conflicts](people-conflicts.md) with [law enforcement](rules.md)
 - Experiencing hardship or loss they must overcome
 
-Often, marriage can mix with a rite of passage, though the [culture](culture.md) can vary it dramatically. Some cultures value marriage as an inherent passage into adulthood, while others treat it as the termination of being young.
+Often, marriage can mix with a rite of passage, though the [culture](people-culture.md) can vary it dramatically. Some cultures value marriage as an inherent passage into adulthood, while others treat it as the termination of being young.
 
 ## Advancing
 
@@ -145,7 +145,7 @@ As we get closer to the end of our lives, our time becomes more scarce, and we s
 
 In many modern civilizations, children are processed through an age-based system, where they reach new phases if they hit [minimum age criteria](math.md).
 
-[Modern civilization](culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
+[Modern civilization](people-culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
 
 Group leaders often use "[grades](math.md)" to keep everyone motivated and measure if children are achieving what they must learn. However, those numbers are frequently arbitrary games to focus their attention. [Some groups](leftism.md), however, don't consider *any* criteria as worth holding them back, and it sabotages the [meaningfulness](meaning.md) that would have come from attaining high marks.
 
@@ -155,7 +155,7 @@ Eventually, in an age-based system, children reach an age of majority (~12-21 ye
 
 ## Application
 
-Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war.md) for the younger generation. At that point, the older generation will either feel shame or arrogance, depending on how they [internalized the story](stories.md).
+Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war.md) for the younger generation. At that point, the older generation will either feel shame or arrogance, depending on how they [internalized the story](stories.md).
 
 Older people have more experience with [political upheaval](people-conflicts-war.md), so most protesters and political activists are young people who aren't being economical with their time and energy. For this reason, the only legitimately high-risk political conflicts are when the *elderly* start protesting as well.
 
@@ -179,7 +179,7 @@ To make life seem longer, experience new things. Time will move slower as you ex
 
 Generally, people who run the world are aged 48-55 because they've acquired the most [understanding](understanding.md) about avoiding exploitation by [storytellers'](stories-storytellers.md) [influence](influence.md), but also haven't started declining from [aging](legacy.md) yet. For this reason, society has a tendency to adhere to [conservative](politics-conservativeliberal.md) [trends](trends.md) that are usually 30-40 years old (because they're nostalgically [familiar](habits.md) with them), and "new" large-scale trends tend to be 10-20 years old.
 
-[Technology](technology.md) and [culture](culture.md) that were around when you were a child is "normal" and how the world works, but is a new [trend](trends.md) if it was developed between adolescence and about 35, and against the natural order of things above age 35.
+[Technology](technology.md) and [culture](people-culture.md) that were around when you were a child is "normal" and how the world works, but is a new [trend](trends.md) if it was developed between adolescence and about 35, and against the natural order of things above age 35.
 
 The [scope of risk](socialrisk.md) we take demonstrates how mature we are. The older we get, the more [precise and calculated](safety-riskmgmt.md) our risks should be.
 

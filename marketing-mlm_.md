@@ -31,7 +31,7 @@ Instead, MLM's incentive to join is to become a consumer-seller.
 
 MLM inspires confidence in its members through motivational tapes, seminars, and videos.
 
-- The [culture](culture.md) of MLM heavily emphasizes that their materials are absolutely necessary for success.
+- The [culture](people-culture.md) of MLM heavily emphasizes that their materials are absolutely necessary for success.
 
 ## Pyramid structure
 

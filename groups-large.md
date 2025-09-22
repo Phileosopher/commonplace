@@ -54,9 +54,9 @@ More than anything, the group's represented value will bind all the members toge
 
 ## Scaling
 
-Every large group was once a [small group](groups-small.md), but kept growing. Any large group that takes decades to grow will have its own distinct [culture](culture.md) that members [pressure](power-influence.md) new members to adopt. Members in rapidly grown groups tend to maintain their old cultures as they come in, meaning the group adopts a strange hybrid of everyone's background and is easily dispersed by comparison.
+Every large group was once a [small group](groups-small.md), but kept growing. Any large group that takes decades to grow will have its own distinct [culture](people-culture.md) that members [pressure](power-influence.md) new members to adopt. Members in rapidly grown groups tend to maintain their old cultures as they come in, meaning the group adopts a strange hybrid of everyone's background and is easily dispersed by comparison.
 
-More [cultures](culture.md) can resonate with an organization that promotes very fewer [values](values.md), so an organization grows proportionally to how few values it conveys, assuming it has [mass exposure](marketing.md). At the same time, many values allow a clearer group [identity](identity.md). At the same time, stated values that aren't shown can cause the entire culture to [backfire](mgmt-badsystems.md) and [break apart](people-conflicts-war.md).
+More [cultures](people-culture.md) can resonate with an organization that promotes very fewer [values](values.md), so an organization grows proportionally to how few values it conveys, assuming it has [mass exposure](marketing.md). At the same time, many values allow a clearer group [identity](identity.md). At the same time, stated values that aren't shown can cause the entire culture to [backfire](mgmt-badsystems.md) and [break apart](people-conflicts-war.md).
 
 As a group grows, each individual's [influence](power-influence.md) in the group becomes more [specialized](jobs-specialization.md). Members' tasks become more specific, and many leaders are simply a "connecting-point" to other smaller sections of the group. Once this starts happening, most members will become more [apathetic](mind-feelings.md) to the group's [causes](purpose.md) and the group will feel more inhuman, irrespective of how [relatable](power-influence.md) or [noble](morality.md) its origins were.
 
@@ -66,7 +66,7 @@ Since every person has a different reaction to [new information](education.md), 
 
 As a group expands, leaders don't see [results](results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
-All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts.md).
+All the [unpredictable](imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](people-culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts.md).
 
 When the scale becomes enormous (i.e., surpassing thousands), every large group leader must act quickly to keep the entire organization in line. Their role frequently becomes a never-ending string of resolving [disasters](people-conflicts.md).
 
@@ -96,10 +96,10 @@ APPLICATION: To determine a [high-quality](values-quality.md) leader, observe so
 
 ## Decisions
 
-Top leaders only have limited [influence](power-influence.md) over the entire group's [culture](culture.md). They only maintain it by making specific [decisions](decisions.md) that craft an [image](image.md) for everyone to interpret for themselves. That image promotes collective [values](values.md) (at least in [appearance](image.md)) that everyone holds to:
+Top leaders only have limited [influence](power-influence.md) over the entire group's [culture](people-culture.md). They only maintain it by making specific [decisions](decisions.md) that craft an [image](image.md) for everyone to interpret for themselves. That image promotes collective [values](values.md) (at least in [appearance](image.md)) that everyone holds to:
 
 1. Messages to everyone in the group about the shared [purpose](purpose.md) they're all aspiring toward.
-2. Appointing, promoting, disciplining, and dismissing sub-leaders who conform with the [culture](culture.md) they want to promote.
+2. Appointing, promoting, disciplining, and dismissing sub-leaders who conform with the [culture](people-culture.md) they want to promote.
 3. Encounters with the sub-leadership and *very* limited encounters with the lower-ranking members to rally everyone toward that stated [purpose](purpose.md) and sort out details.
 4. Formally declared, often written, [policies](rules.md) and [procedures](habits.md), enforcing them, or changing them.
 
@@ -115,7 +115,7 @@ APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must
 
 ## Subcultures
 
-The sub-leaders each create their own [subculture](culture.md) inside that group's broader culture. They'll appoint their own sub-leaders and dictate their own [rules](rules.md).
+The sub-leaders each create their own [subculture](people-culture.md) inside that group's broader culture. They'll appoint their own sub-leaders and dictate their own [rules](rules.md).
 
 The differences between individuals *in* the large group are often greater than the proposed differences *between* the groups. However, because of [ego issues](image.md) coming from the top leadership, those groups will never converge until there's a [greater threat](people-conflicts-war.md) from the outside. This will almost certainly happen if they become [obsolete](trends.md) from other, different groups coming in.
 
@@ -127,15 +127,15 @@ Each subgroup ends up behaving precisely like its own small group, with a few no
 2. Everyone in a subgroup has many more resources available than an independent group would have.
 3. The large-scale leader's [decisions](decisions.md) have a far-reaching, soft effect. Everyone [feels](mind-feelings.md) like they're part of the organization without as much evidence as a small group, even when they're in a well-connected subgroup.
 
-Each subgroup usually has different [purposes](purpose.md) to accomplish, and they [redefine](identity.md) their [culture](culture.md) around those purposes. This can create dramatic differences among subgroups in the same large group.
+Each subgroup usually has different [purposes](purpose.md) to accomplish, and they [redefine](identity.md) their [culture](people-culture.md) around those purposes. This can create dramatic differences among subgroups in the same large group.
 
 Even in a complete autocracy, the presence of others' [decisions](decisions.md) in [carrying out](results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
 
-APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
+APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](people-culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
 
 In open-ended leadership (i.e., the sub-leaders run everything) the sub-leaders have the final authority to mismanage as they [please](purpose.md). Thus, a central leader who can't or won't punish [evil](morality-evil.md) will empower it and the group will partly [devolve](mgmt-badsystems.md).
 
-These subcultures affect each other to create the aggregate group culture, with each one being its own "unit" interacting with other "units". As various subgroups gain or lose [power](power.md), the organization travels through [eras](trends.md) of control. Those eras create the shared [culture](culture.md) and [identity](identity.md) of the group.
+These subcultures affect each other to create the aggregate group culture, with each one being its own "unit" interacting with other "units". As various subgroups gain or lose [power](power.md), the organization travels through [eras](trends.md) of control. Those eras create the shared [culture](people-culture.md) and [identity](identity.md) of the group.
 
 The [traditions](habits.md) that the subcultures make pile together over time. If those traditions keep accumulating but aren't removed as the members who found [meaning](meaning.md) through those traditions leave that group, the group will slowly become a [bad system](mgmt-badsystems.md). Unfortunately, the changes must be gradual, or the entire group will have a [complete meltdown](people-conflicts-war.md).
 
@@ -195,7 +195,7 @@ While it's impossible to track how a group will respond, there are a few conditi
 
 1. Make frequent, small [decisions](decisions.md) and poll the results over time. This permits the group to adapt to [trends](trends.md) before another trend hits.
 2. Maintain an endless [image management](image-distortion.md) that stays up-to-date with every change.
-3. Expect that history *never* repeats itself, but has a similar pattern. It's never the same because the [culture](culture.md) is different between both cases of deciding, sometimes simply because people *remember* the prior decision.
+3. Expect that history *never* repeats itself, but has a similar pattern. It's never the same because the [culture](people-culture.md) is different between both cases of deciding, sometimes simply because people *remember* the prior decision.
 4. Always give approximate estimates, and avoid trusting something simply because it was [mathematically](math.md) communicated.
 
 APPLICATION: People individually can only handle so much [change](people-changes.md) over a small window of time before they lose their mind. Organizations are the same, proportionally to the aggregate of their [openness to new experiences](personality.md) minus their failings in [communication](people-conversation.md).

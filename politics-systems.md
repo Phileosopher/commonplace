@@ -3,7 +3,7 @@
 
 This is an informal list of how to manage vast groups of people based on geography.
 
-While every political system is heavily influenced by its [regional culture](culture.md), there are some broad patterns of how the leadership will run things.
+While every political system is heavily influenced by its [regional culture](people-culture.md), there are some broad patterns of how the leadership will run things.
 
 It's worth noting that these classifications aren't clear-cut because of politicized [image distortion](image-distortion.md) and [trends](trends.md), so countries often represent multiple groups at once. They also can be [left or right](politics-conservativeliberal.md), since this simply has to do with balancing control, but not on what direction to guide it.
 
@@ -22,7 +22,7 @@ In all reality, though, the amount of [power](power.md) at play means there's pl
 
 ## Socio-economic ideologies
 
-Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](culture.md) and [economic](economics.md) factors that emphasize certain aspects of [living well](goodlife.md):
+Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](people-culture.md) and [economic](economics.md) factors that emphasize certain aspects of [living well](goodlife.md):
 
 - Anarchism/stateless societies - emphasizes self-governance and voluntary institutions
 - Capitalism - individuals can "capitalize" on what they own (i.e., "private property")

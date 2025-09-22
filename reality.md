@@ -63,7 +63,7 @@ Facts are aspects of [understanding](understanding.md) that *do* exist, to the b
 
 Multiple facts can't contradict each other, though different [points of view](image.md) can imply that two true statements are contradictions. We tend to grab more facts that prioritize and confirm our preconceived [bias](mind-bias.md) unless we've disciplined ourselves otherwise. It takes tremendous patience to look beyond [initial impressions](image.md).
 
-We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](culture.md) or [repelling](people-5_conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
+We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](people-culture.md) or [repelling](people-5_conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
 
 Good facts are often difficult to find. Usually, we must [purpose](purpose.md) ourselves to seek diligently for them, and they're typically not that useful by themselves.
 
@@ -87,7 +87,7 @@ The small components form parts of a whole. The entire collection, whatever it i
 
 Barring mental disorders like [autism](mind-neurodivergence.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
 
-[Wisdom and understanding](understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
+[Wisdom and understanding](understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](people-culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
 
 APPLICATION: Each of us must find our journey to truth in our own way, and there's no clear answer or [pattern](symbols.md) that applies to everyone.
 

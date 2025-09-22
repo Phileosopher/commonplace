@@ -97,7 +97,7 @@ Symbols resonate with feelings, and our eyes determine a *lot* of our perception
 
 Using symbols to gain [power](power.md) doesn't have any moral connection, but it becomes [evil](morality-evil.md) when it's evoking enough [feelings](mind-feelings.md) to make people change their [decision](decisions.md) they otherwise would have made.
 
-Watch for patterns you may trigger in a [culture](culture.md) that's not your own. For example, the implication of breaking [rules](rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](classes.md).
+Watch for patterns you may trigger in a [culture](people-culture.md) that's not your own. For example, the implication of breaking [rules](rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](classes.md).
 
 Don't fall for symbolic association enough that your ability to perceive the [facts](reality.md) of anything becomes clouded.
 

@@ -141,7 +141,7 @@ Dunning-Kruger Effect - People tend to overstate their competence.
 
 Engelbart's Law - People perform exponentially better across time.
 
-Familiarity Heuristic/Availability Heuristic/Mere-Exposure Effect - People tend to favor things they're familiar with, a major component of how [culture](culture.md) forms.
+Familiarity Heuristic/Availability Heuristic/Mere-Exposure Effect - People tend to favor things they're familiar with, a major component of how [culture](people-culture.md) forms.
 
 Fitts' Law - The longer the distance and smaller the size, the longer it takes to acquire a target.
 

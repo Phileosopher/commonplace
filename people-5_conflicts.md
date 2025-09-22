@@ -12,7 +12,7 @@ When used correctly, conflict benefits everyone involved:
 - If you ask for what you want correctly, you can usually get it.
 - When driven by [love](people-love.md), conflicts drive each person to understand each other more, and relationships become stronger from it (especially [marriage](relationships-3_marriage.md)).
 - Open-minded participants of conflicts often become more [aware](awareness.md) of themselves and [how they may appear](image.md).
-- After healthy conflicts, people are less afraid to open up further discussions about future conflicts, which strengthens [relationships](people-4_friends.md) and harmonizes their [culture](culture.md).
+- After healthy conflicts, people are less afraid to open up further discussions about future conflicts, which strengthens [relationships](people-4_friends.md) and harmonizes their [culture](people-culture.md).
 - Critical conflicts, handled correctly, can make or break entire [organizations](groups-large.md).
 
 Deferring conflict magnifies it:

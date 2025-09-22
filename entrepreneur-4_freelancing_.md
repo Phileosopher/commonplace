@@ -10,7 +10,7 @@ There are advantages to starting small:
 If it's side work, you don't *need* to scale upward.
 
 - Sometimes, the market is sparse enough that you *can't* scale upward.
-- However, if you're [willing to move](home-moving.md), there's often a [culture](culture.md) *somewhere* on the planet where you could work full-time in that capacity.
+- However, if you're [willing to move](home-moving.md), there's often a [culture](people-culture.md) *somewhere* on the planet where you could work full-time in that capacity.
 
 You also won't need to subject yourself to as rigorous a requirement to [break even](entrepreneur-3_plan.md).
 

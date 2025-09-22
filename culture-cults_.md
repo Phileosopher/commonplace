@@ -1,5 +1,5 @@
 
-A cult is a broad term representing a wide variety of concepts:
+A cult is a relatively recent broad term representing a wide variety of concepts:
 
 1. A [religion](religion.md) someone regards as unorthodox or spurious.
 2. Great [devotion](addiction.md) to a [person](humanity.md), [idea](values.md), [object](reality.md), [movement](trends.md), or [work](creations.md).
@@ -11,7 +11,7 @@ Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively
 In short, a cult is most easily defined as "[group](groups-small.md) [gaslighting](influence.md)", and has the following elements:
 
 1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](personality.md) as the values phase out
-2. Extreme viewpoints relative to the [surrounding culture's norms](culture.md)
+2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
 3. A [strict](rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
 4. The group violates members' [rights and boundaries](people-boundaries.md) while also redefining the [members'](groups-member.md) thoughts and feelings
 
@@ -83,7 +83,7 @@ However, long-term cults will adopt a few other types of people:
 
 - Cluster B personality disorders will join a cult for [personal gain](purpose.md).
 - People [suffering severe hardship](hardship.md) will join cults if they think that's their only option.
-- Anyone born into a cult [family](people-family.md) will adopt the [lifestyle](culture.md) and a severe [false self](personality.md) which conforms to the above simply to survive.
+- Anyone born into a cult [family](people-family.md) will adopt the [lifestyle](people-culture.md) and a severe [false self](personality.md) which conforms to the above simply to survive.
 
 Usually, joining a cult requires a large personal sacrifice.
 
@@ -276,8 +276,8 @@ The more [addicted](addiction.md) and isolated away from the rest of humanity, t
 - Large corporations
 - Social media
 
-Calling something a cult isn't very relevant because most things in life have their cult [subculture](culture.md). Instead, look at *who* calls it a cult.
+Calling something a cult isn't very relevant because most things in life have their cult [subculture](people-culture.md). Instead, look at *who* calls it a cult.
 
-Because of the [range of our personalities](personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
+Because of the [range of our personalities](personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](people-culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
 
 To take extreme ownership of your life, with your thoughts, is essentially grabbing control of yourself and making a "cult" of your [personality](personality.md), for yourself alone.

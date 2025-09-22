@@ -3,7 +3,7 @@
 
 This is an informal list of the varieties of neurodivergence.
 
-- It's essential to note that deviations from [social standards](people-rules.md) end up forming even more deviations through uniquely different [cultural experiences](culture.md), which means these diagnoses rarely exist alone.
+- It's essential to note that deviations from [social standards](people-rules.md) end up forming even more deviations through uniquely different [cultural experiences](people-culture.md), which means these diagnoses rarely exist alone.
 - It's also worth noting that awareness of the neurodivergence doesn't necessitate any necessary action: many [personalities](personality.md) have lived amazing lives as extreme neurodivergent minds. The only requirement is to take action when the behavior *from* the mental framework creates severe adverse [consequences](results.md).
 
 Everyone likely possesses at least a *little* of each of these as well, so the classification really has no place for [prejudice](people-discrimination.md).

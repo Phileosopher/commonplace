@@ -212,7 +212,7 @@ Learn to criticize yourself before your critics do.
 
 Seek advice everywhere.
 
-- Your [genetics](people-family.md) give you some insight into what you're good at, and your [culture of origin](culture.md) alludes to that.
+- Your [genetics](people-family.md) give you some insight into what you're good at, and your [culture of origin](people-culture.md) alludes to that.
 - Most people are happy to give advice.
 - When you hear or read about others' methods, always [analyze *why*](logic.md) those methods worked.
 - While general advice is useful, [your friends'](people-4_friends.md) advice may be more valuable because it's personalized for you.

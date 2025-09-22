@@ -51,7 +51,7 @@ If the knowledge is worthwhile, it's difficult for it to go away. Any [meaningfu
 
 ## Measuring
 
-Education is [understanding](understanding.md), which means it's difficult to measure. However, most [cultures](culture.md) must demarcate between educated and uneducated people for [specialized tasks](jobs-specialization.md), so they use [measurable](math.md) criteria to judge others' worth:
+Education is [understanding](understanding.md), which means it's difficult to measure. However, most [cultures](people-culture.md) must demarcate between educated and uneducated people for [specialized tasks](jobs-specialization.md), so they use [measurable](math.md) criteria to judge others' worth:
 
 - A test bank of multiple-choice questions. This is the easiest way to test because it can be automated by [technology](technology.md), but [it can be easily gamed](mind-memory.md). However, providing feedback on wrong answers (and, more importantly, why) can *dramatically* improve learning.
 - [Writing](language-writing.md) or [spoken](language-speaking.md) explanations about the subject. Usually, this is as far as most mass-population educators ever care about. Like multiple-choice, it can be gamed, especially by matching the [language](language.md) and [opinions](understanding-certainty.md) of the educator.
@@ -148,7 +148,7 @@ For this reason, many formal teaching institutions run the same risks of any oth
 - Some ideas are [self-created](creations.md), but teachers are frequently taught their ideas are worthless. They often hide behind [circuitous references to other sources](image-distortion.md) to avoid self-ownership.
 - In a classroom, teachers possess legitimate [authority](power.md) to control the class, so a bad teacher can easily devolve into small-scale [tyranny](people-boundaries.md) if the administration gives them too much additional authority.
 - Teachers will frequently hide how little they know with confusing [language](language.md) (e.g., Latin). It tends to impress the majority of the students, but more intelligent students often see right through it after some experience with it.
-- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
+- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
 - If school standards start failing, school systems will often start drilling and training their students harder to compete with other schools.
 
 APPLICATION: A major risk for all [teachers](education.md) is that they will invariably teach their subject enough that they're not as effective as actually [doing anything](purpose.md) with what they have. The only solution is for them to teach less and do more, but then they wouldn't be [specialized enough](jobs-specialization.md) for anything.
@@ -194,11 +194,11 @@ One of the most significant ways a school can become dysfunctional is through tr
 
 - Teaching marketable skills for people to get [jobs](jobs-1_why.md).
 - Informing students on [how to generally live life](https://adequate.life/habits/).
-- Teaching [how to think](philosophy.md) and domains of [art](values-quality.md) and [culture](culture.md).
+- Teaching [how to think](philosophy.md) and domains of [art](values-quality.md) and [culture](people-culture.md).
 - Performing new research into new [scientific](science.md) domains.
 - Running minor league [sports teams](fun-sports.md).
 
-APPLICATION: If we trust others' understanding, we must mind the [culture](culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
+APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
 
 ## Prevailing
 
@@ -212,7 +212,7 @@ Intelligent students *can* learn from dumb teachers, but they will further widen
 
 APPLICATION: A smart student can still learn from a dumb teacher, though they'll often need to do separate research about what they're curious about.
 
-Intelligent people who are formally educated in a bad teaching system without much [life experience](goodlife.md) tend to create a distinctive [culture](culture.md) that's not particularly good for society at large:
+Intelligent people who are formally educated in a bad teaching system without much [life experience](goodlife.md) tend to create a distinctive [culture](people-culture.md) that's not particularly good for society at large:
 
 - They don't [trust](trust.md) their own or others' [instincts](mind-feelings.md). They'll [reason](logic.md) that those instincts are [irrational cognitive biases](mind-bias.md), but fail to see that there is still [utility](purpose.md) in everyone's perception.
 - They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).

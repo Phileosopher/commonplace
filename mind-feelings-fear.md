@@ -36,7 +36,7 @@ All fear is driven by perceived pain:
 - If it's in the present, it usually revolves around a [decision](decisions.md) that affects the future.
 - It can be self-pain or pain upon others, depending on who we [love](people-love.md) more at the moment.
 
-We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.
+We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](people-culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.
 
 The pain itself broadly reaches to *everything* we are capable of [identifying](identity.md) with. It could be physical suffering to the body, emotional suffering, the feeling of loss, or any perception of the same in others'. Its only limit is that we feel it's something in [reality](reality.md).
 

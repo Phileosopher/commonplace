@@ -137,7 +137,7 @@ Broadly speaking, nature's elements group into a few major things:
 You do *not* need anything elaborate, though a larger dwelling allows you to do more without any distractions.
 
 - We tend to be distracted by adverse conditions that make us feel unsafe.
-- The amount of protection we need is *highly* contextual to [culture](culture.md), but [living well](goodlife.md) requires either accommodating those preferences or changing them.
+- The amount of protection we need is *highly* contextual to [culture](people-culture.md), but [living well](goodlife.md) requires either accommodating those preferences or changing them.
 
 The Tipi method is one of the easiest ways to create a durable-enough building:
 

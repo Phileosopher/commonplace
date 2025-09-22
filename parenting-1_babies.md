@@ -20,7 +20,7 @@ If you can't conceive and want a child, consider adopting.
 There's no "ideal" number of children:
 
 - Generally, the *timing* of the children defines how much work they are more than how many (e.g., twins are harder than two children three years apart).
-- Most rural and impoverished [cultures](culture.md) expect at least four children.
+- Most rural and impoverished [cultures](people-culture.md) expect at least four children.
 - Many urban and suburban cultures expect one or two children and consider three excessive.
 - Some people stay [married](relationships-3_marriage.md) but never want children.
   - In a society, it's ideal to have at *least* 2-3 children (averaged at 2.1 across everyone) to stay constant in relationship to [the death rate](hardship-death.md).

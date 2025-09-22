@@ -47,7 +47,7 @@ APPLICATION: Small decisions *against* what's we're accustomed to will defy our 
 
 ## Calculus part 1: values
 
-Every decision is a type of "[values](values.md) calculus" that weighs benefits and risks to any given set of options. It's not strictly [mathematical](math.md) (because it involves non-measrable components associated with [feelings](mind-feelings.md)), but every decision incorporates *many* possible factors based on pre-existing [bias](mind-bias.md) from [cultural experience](culture.md) and [belief](understanding-certainty.md).
+Every decision is a type of "[values](values.md) calculus" that weighs benefits and risks to any given set of options. It's not strictly [mathematical](math.md) (because it involves non-measrable components associated with [feelings](mind-feelings.md)), but every decision incorporates *many* possible factors based on pre-existing [bias](mind-bias.md) from [cultural experience](people-culture.md) and [belief](understanding-certainty.md).
 
 A. general factors:
 

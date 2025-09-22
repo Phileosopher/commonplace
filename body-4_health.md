@@ -233,7 +233,7 @@ Health [trends](trends.md) mean something is often marketed as "healthy", but wh
 One solution won't work for everyone, since it varies heavily on lifestyle and body type.
 
 - The popular diet standard of 2,000 calories a day depends heavily on *what* that person is consuming.
-- Further, over years, [different cultures](culture.md) can often adjust to high or low quantities of certain food types.
+- Further, over years, [different cultures](people-culture.md) can often adjust to high or low quantities of certain food types.
 
 Self-disciplining ourselves with food and feeling well *requires* including consistent exercise.
 
@@ -252,7 +252,7 @@ The Standard American Diet (SAD) is *filled* with risks, on several levels:
 
 While [Big Medi/Pharma](https://gainedin.site/here-2/) may prolong your life, they would prefer your dependence on them.
 
-- One of the [cultural](culture.md) results of the industry is excessive over-diagnosis that creates unnecessary health scares:
+- One of the [cultural](people-culture.md) results of the industry is excessive over-diagnosis that creates unnecessary health scares:
   - Chickenpox is typical in children, and doesn't typically pose any legitimate health risks.
   - Pink eye is irritating and highly infectious, but doesn't typically pose any legitimate health risks.
   - After the first wave of COVID-19, herd immunity has meant that it doesn't typically pose any legitimate health risks.

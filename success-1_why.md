@@ -99,7 +99,7 @@ The most long-lasting success involves self-discipline:
 - Self-discipline gives us competence for future successes, and doesn't fade much over time.
 - Self-discipline comes through [habits](habits.md) directed toward virtues.
 - Over time, successful people also learn to respect information they can only learn from experience.
-- As we grow, we expand ourselves to create [traditions](culture.md) and [legacies](legacy.md).
+- As we grow, we expand ourselves to create [traditions](people-culture.md) and [legacies](legacy.md).
 
 Christopher Peterson and Martin Seligman defined an array of universal character strengths and virtues:
 

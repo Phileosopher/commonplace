@@ -21,7 +21,7 @@ Informal [mentoring](education.md) is *far* more effective than formalized mento
 
 The most direct way to manage is through giving incentives for good things and discipline for bad things.
 
-- Your immediate responses and [habits](habits.md) with subordinates feed directly into the work environment's [culture](culture.md).
+- Your immediate responses and [habits](habits.md) with subordinates feed directly into the work environment's [culture](people-culture.md).
 
 Stay vigilant over what you can control when you make [decisions](decisions.md).
 

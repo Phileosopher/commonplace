@@ -32,7 +32,7 @@ APPLICATION: Imagination is a form of [understanding](understanding.md) that isn
 
 We only feel a sense of [meaning](meaning.md) to imagine when our predictions are at least partly useful for our [decisions](decisions.md), which is why experience sabotages imagination. If we consistently fail too many of our predictions, we tend to risk an [existential crisis](hardship-depression.md).
 
-APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
+APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](people-culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
 
 We must predict the future because it dictates what we presently [create](creations.md) and [consider](purpose.md). If you knew you'd probably die tomorrow, you'd live today differently than if you knew you had forty years left to live.
 
@@ -68,7 +68,7 @@ Some predictions go *backward* from the present. By assembling likely past circu
 
 We tend to underestimate how we'll [change](people-changes.md) from our environment (e.g., [feelings](mind-feelings.md) a day from now) and overestimate how much our environment itself will [change](results.md). This is because we have *much* more direct experience with our minds than our environment, so we're more likely to assume our minds are fixed while the environment is malleable.
 
-We tend to suppose other people will say or do things, and usually create [habits](habits.md) around those beliefs, which is the basis for [cultural](culture.md) rituals and [social standards](people-rules.md).
+We tend to suppose other people will say or do things, and usually create [habits](habits.md) around those beliefs, which is the basis for [cultural](people-culture.md) rituals and [social standards](people-rules.md).
 
 We're perpetually making and breaking predictions, and it gives us tremendous [power](power.md) to [decide](decisions.md) and [create](creations.md).
 

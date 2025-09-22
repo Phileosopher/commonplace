@@ -31,7 +31,7 @@ Always expect change.
 
 - Nearly every system is imperfect, and even a perfect system has to deal with related systems which are flawed or unreliable.
 - Occasional problems are natural, but repeated issues are clear indicators that the system itself (or its interactions with other systems) has defects.
-- Further, organizational [culture](culture.md) itself shifts with growth and hardships.
+- Further, organizational [culture](people-culture.md) itself shifts with growth and hardships.
 - Without change, *all* systems become [bad systems](mgmt-badsystems.md).
 
 While you may be able to make changes instantly on an individual level, all change moves slower in larger systems.
@@ -132,7 +132,7 @@ Kaizen Change Management Model:
 - It's a 10-step process:
   1. Releasing assumptions.
   2. Taking initiative to [solve problems](mind-creativity-how.md).
-  3. Rejecting current [conventions](culture.md).
+  3. Rejecting current [conventions](people-culture.md).
   4. Avoiding perfectionism.
   5. While discovering mistakes, looking for solutions.
   6. Fostering an environment that provokes everyone to contribute.
@@ -155,7 +155,7 @@ Kotter's Change Management Theory:
   5. Help everyone to act.
   6. Do everything possible to finish tasks and projects quickly.
   7. Build momentum with the changes.
-  8. Make the change-based approach a [cultural standard](culture.md).
+  8. Make the change-based approach a [cultural standard](people-culture.md).
 - It emphasizes a focus on making important things urgent and fosters a culture of rapid change, but doesn't consider the long-term impact of those changes.
 
 Kubler-Ross Change Management Framework:
@@ -263,7 +263,7 @@ Greiner Curve:
     - The entire organization has enough collective motivation to adapt their culture and structure to [use more common-sense](https://gainedin.site/idiot/).
     - The leadership eradicates vast systems that deliver rigid rewards to unchanging team structures and replace them with more autonomy to teams, including the ability to reorganize as desired.
     - Individuals who work hard or extra hours are often promoted to team leadership or given special projects.
-    - Growth ends with an **internal growth crisis** where the organization has reached a hard limit on the number of people who can adopt the [culture](culture.md).
+    - Growth ends with an **internal growth crisis** where the organization has reached a hard limit on the number of people who can adopt the [culture](people-culture.md).
   - Stage 6 - Growth through extra-organizational answers
     - The organization creates partnerships with complementary organizations.
     - Growth continues through mergers, outsourcing, networks, and other solutions.
@@ -315,7 +315,7 @@ To that end, your role (if you choose to stay with the organization) will adapt 
 
 Don't expect the group's loyalty to transfer in a merger/acquisition.
 
-- They were closely connected with the [culture](culture.md) and workplace they had before.
+- They were closely connected with the [culture](people-culture.md) and workplace they had before.
 - Unless the new organization respects that culture, some will adapt to it, some will embrace it more than the old culture, and others will leave.
 
 ## Downsizing

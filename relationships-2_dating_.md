@@ -113,7 +113,7 @@ Values and beliefs:
 
 - How important is [spiritual expression and beliefs](religion.md) to you/them?
 - How interested are you/they in [raising children](parenting-1_babies.md)?
-- How [traditional](culture.md) are you/they?
+- How [traditional](people-culture.md) are you/they?
   - How important are morality and personal values to you/them?
   - How much do you/they want to be involved in church?
   - What religious beliefs do you/they have and how do they affect day-to-day life?

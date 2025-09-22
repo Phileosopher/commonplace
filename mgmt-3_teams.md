@@ -158,7 +158,7 @@ Consider your own [personality](personality.md) when hiring.
 - If you find workers who are more [creative](mind-creativity.md) or [intelligent](understanding.md) than you, expect them to frequently prove you wrong.
 - If you know someone will work harder than you, make sure they'll be well-paid (and possibly more well-paid than you).
 
-While every potential candidate *could* do the job, aim for a [culture](culture.md) fit.
+While every potential candidate *could* do the job, aim for a [culture](people-culture.md) fit.
 
 - A diverse range of demographics ([age](maturity.md), [gender](gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-5_conflicts.md).
 - Diverse workplaces are *not* conducive to mindless tasks (e.g., factory work).
@@ -168,7 +168,7 @@ While every potential candidate *could* do the job, aim for a [culture](culture.
 Team involvement and great work aren't necessarily related.
 
 - While every person's contributions might need interaction for handing off their completed work, not every task needs a team player.
-- However, if it's a new team, it'll take a bit more work to assign roles for everyone, since [conventions](culture.md) haven't been established yet.
+- However, if it's a new team, it'll take a bit more work to assign roles for everyone, since [conventions](people-culture.md) haven't been established yet.
 
 Every new person will dramatically change the group.
 
@@ -237,7 +237,7 @@ The solution to micromanagement is to take clear actions a few steps *away* from
 
 In general, don't jump to conclusions.
 
-- If someone is under-performing they might have an attitude problem, but it may also be a [cultural](culture.md) misunderstanding.
+- If someone is under-performing they might have an attitude problem, but it may also be a [cultural](people-culture.md) misunderstanding.
 - Sometimes, under-performance might be *your* failing as a manager, especially if it's more than one person.
 
 There *are* specific actions that can be grounds for immediate termination.

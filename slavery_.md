@@ -27,7 +27,7 @@ And, since people can make decisions on them, some things are *not* entirely sla
 
 Further, when a society gives people the freedom to escape slavery, they can also make decisions that put them *into* slavery as well. As long as slavery exists, it'll be a revolving door.
 
-A slave is a tradable commodity. From debt to children, the elements of a slave can be bought and sold. This certainly violates [human rights](people-boundaries.md), but doesn't change the [power](power.md) it gives the owners, and therefore is still [culturally](culture.md) acceptable.
+A slave is a tradable commodity. From debt to children, the elements of a slave can be bought and sold. This certainly violates [human rights](people-boundaries.md), but doesn't change the [power](power.md) it gives the owners, and therefore is still [culturally](people-culture.md) acceptable.
 
 ## Servant vs. slave
 
@@ -58,7 +58,7 @@ We can also make [decisions](decisions.md) to *increase* our enslaved status:
 
 Often, the word "slave" has implications of forced labor, separating [families](people-family.md), and [destroying lives for entertainment](morality-evil.md). The practice is [*far* from abolished](http://www.endslaverynow.org), and likely never will be.
 
-The institution of slavery in practice, however, is merely an unfeeling structure that cuts off opportunities purely because of a social status. The only people worth declaring [evil](morality-evil.md) are the direct slaveholders and that [society's](culture.md) acceptance of the practice. However, depending on the culture and [economic necessity](economics.md), [good people](morality.md) may still own slaves.
+The institution of slavery in practice, however, is merely an unfeeling structure that cuts off opportunities purely because of a social status. The only people worth declaring [evil](morality-evil.md) are the direct slaveholders and that [society's](people-culture.md) acceptance of the practice. However, depending on the culture and [economic necessity](economics.md), [good people](morality.md) may still own slaves.
 
 Generally, the actual value people treat their enslaved subjects is contingent on [economics](economics.md). Historically, slaves who had highly valuable [specializations](jobs-specialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
 
@@ -97,7 +97,7 @@ APPLICATION: Most slave owners don't like to consider their activities as slaver
 
 APPLICATION: The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories.md) people interpret about it.
 
-APPLICATION: The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](culture.md) of origin.
+APPLICATION: The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](people-culture.md) of origin.
 
 APPLICATION: Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
 

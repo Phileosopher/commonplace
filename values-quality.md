@@ -37,7 +37,7 @@ Some things are *never* beauty, and we have an easier time detecting them than b
 
 ## Relative
 
-Most people like to imagine that beauty is relative, and a large portion is. [Cultures](culture.md) define beauty in vastly different ways, and people are frequently [influenced](influence.md) by others to [change their minds](people-changes.md) on their opinion of beauty.
+Most people like to imagine that beauty is relative, and a large portion is. [Cultures](people-culture.md) define beauty in vastly different ways, and people are frequently [influenced](influence.md) by others to [change their minds](people-changes.md) on their opinion of beauty.
 
 APPLICATION: Beauty is relative, but not entirely. Its staying power comes in how much *inherent* quality it has, which is mostly based on the creator's [raw skill](mind-creativity.md).
 
@@ -61,7 +61,7 @@ We have a constant need for [novelty](image.md), so we find tremendous value in 
 Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md) creators will have an easier time [targeting](purpose.md) young people, which is how most [media](creations.md) for mass appeal is [marketed](marketing.md). The simple reason for this is that [older people](maturity.md) are harder to [please](meaning.md):
 
 - They usually [understand](understanding.md) more than younger people.
-- They have experienced more [cultures](culture.md) by virtue of having lived in a time with less [technology](technology.md).
+- They have experienced more [cultures](people-culture.md) by virtue of having lived in a time with less [technology](technology.md).
 - Older people can often [analyze](logic.md) better and detect more [symbols](symbols.md) in [stories](stories.md).
 
 As we gain awareness of what we're consuming, we discover more of the interwoven [patterns](values.md) placed in [created things](creations.md). By understanding a creator's historical context, perceptions, and what that creator was [unaware](awareness.md) of while thinking of those things, we can understand into *far* more than just that [media](creations.md) and what it alludes to:
@@ -74,7 +74,7 @@ APPLICATION: When someone [desires](purpose.md) to explore a media, they can unv
 
 ## Hubris
 
-We see connoisseurs of beauty arise in every form of [media](creations.md), from wine-tasting to *Star Trek*. They form a [group](groups-member.md) around the subject, with its own unique [culture](culture.md) that includes [specific terminology](language.md) and required [recreational activities](purpose.md).
+We see connoisseurs of beauty arise in every form of [media](creations.md), from wine-tasting to *Star Trek*. They form a [group](groups-member.md) around the subject, with its own unique [culture](people-culture.md) that includes [specific terminology](language.md) and required [recreational activities](purpose.md).
 
 However, the [leaders](groups-small.md) of that group are typically [addicts](addiction.md) of the subject, with their [identity](identity.md) closely intertwined with whatever they advance. They frequently demarcate their interest as a sign of [social status](power-types.md), usually with some implication of "only a *true* [lover of the interest] can understand the [positive attribute] of [[marginally](trends.md) popular [media](creations.md)]".
 

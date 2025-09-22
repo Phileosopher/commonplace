@@ -24,7 +24,7 @@ The Chosen *emphasizes* that it's a story revolving around the facts of Scriptur
 
 - Christians should give The Chosen the grace they give to things like [SuperBook](https://www.imdb.com/title/tt0081941/) or [The Greatest Adventure: Stories from the Bible](https://www.imdb.com/title/tt5090166/), where creative liberty is taken for the purpose of storytelling.
 - Of course, with that said, false doctrines arise when we add or remove from the basic truths presented in Scripture, which God will judge ([Revelation 22:18-19](https://biblehub.com/revelation/22.htm#18)).
-- However, *any* [human culture](culture.md) will inevitably permute a story if they value it.
+- However, *any* [human culture](people-culture.md) will inevitably permute a story if they value it.
 - Therefore, the purpose here is to educate on the discrepancies without judgment, and you can come to your own conclusion.
 
 Further, like [exploring Bible translations](bible-study.md), there can be quite a bit of value in seeing the truths observed by others who sincerely desire to see it as well.

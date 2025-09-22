@@ -39,7 +39,7 @@ If you want to deeply understand the information, add variety:
 The actual location isn't relevant as much as your ability to feel comfortable learning:
 
 - Exposing yourself to a *lot* of the subject doesn't matter if you aren't retaining it.
-- Being immersed in a [culture](culture.md) affiliated with the subject will *not* help you learn unless you're comfortable enough to retain the information.
+- Being immersed in a [culture](people-culture.md) affiliated with the subject will *not* help you learn unless you're comfortable enough to retain the information.
 
 Try to study in as close an environment to where you'll need to recall the information.
 

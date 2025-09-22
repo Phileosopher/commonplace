@@ -7,7 +7,7 @@ While cognitive bias and fallacy crafts a [false image](image.md) relative to [r
 
 - There's *much* less mental work from filtering out information or converting it into a [story](stories.md).
 - Quick-and-easy solutions lets us sift through *much* more information, even if it's not that thorough.
-- By trusting things beyond ourselves, we [get along in society](culture.md) more easily.
+- By trusting things beyond ourselves, we [get along in society](people-culture.md) more easily.
 - By honoring our [fear impulses](mind-feelings-fear.md), we can successfully avoid most bad things that may happen, even if [modern society](jobs-specialization.md) often requires the *opposite* approach.
 - We can discover [meaning](meaning.md) and [purpose](purpose.md) from observations to give us something to live for, even when there's nothing there.
 - Irrational behavior is often the most [compassionate and loving](people-love.md), which is where the ultimate meaning of life resides.

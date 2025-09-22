@@ -67,7 +67,7 @@ Contracts can also, however, be spoken agreements as well. If it has all the req
 
 A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](habits.md)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](people-4_friends.md) and [family](people-family.md).
 
-- Many [high-context cultures](culture.md) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](culture.md), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](image-modern.md), [tourists](fun-vacations.md)).
+- Many [high-context cultures](people-culture.md) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](people-culture.md), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](image-modern.md), [tourists](fun-vacations.md)).
 - A contract can be obligation by consent ("obligatio consensu"), where there's no requirement for *any* formalities or parties' presence.
 
 A "letter of intent" can communicate willingness to enter into a contractual obligation, but without the elements of a legally binding contract. Its purpose is to create a morally binding assurance, even if it's unenforceable.
@@ -458,7 +458,7 @@ Several possible reasons can form the basis of a bad contract.
    - The relative experience of the parties.
    - How much a party proves they rely on what they say.
    - Reassurances given by a party.
-   - [Customary norms](culture.md) of the trade itself.
+   - [Customary norms](people-culture.md) of the trade itself.
    - The representation is actually making a secondary collateral contract.
 3. There can't be any threats or unequal bargaining power (i.e., coercion or undue influence), and can't be acting in bad faith ("clean hands doctrine").
 4. A signing party can escape performance of an agreement when it's fundamentally different from what they intended to sign ("non est factum").

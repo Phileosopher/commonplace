@@ -22,7 +22,7 @@ On the other hand, many things have *very* gray areas to them that various group
 - Unpopular [trends](trends.md) or uncommon ideas.
 - Burning specific flags, especially if they symbolize a [nation](groups-large.md).
 
-Taboos aren't necessarily [moral](morality.md) or matters of [justice](morality-justice.md). They're [cultural](culture.md) things that *might* be moral, but are often breaking a [rule](rules.md) everyone in that group is honoring and usually *wants* to honor. They also don't have to necessarily cause harm, either.
+Taboos aren't necessarily [moral](morality.md) or matters of [justice](morality-justice.md). They're [cultural](people-culture.md) things that *might* be moral, but are often breaking a [rule](rules.md) everyone in that group is honoring and usually *wants* to honor. They also don't have to necessarily cause harm, either.
 
 [Group leaders](groups-small.md) tend to enforce punishment against taboos more than other [rules](rules.md). They frequently call it by various names, depending on the group (e.g., treason, heresy, noncompliance, defiance).
 
@@ -36,7 +36,7 @@ Across the lens of history, many things have been declared taboo. Typically, tab
 
 The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](decisions.md) that may include it.
 
-Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](culture.md). But, many times, leaders only use taboos for [power](power.md).
+Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](people-culture.md). But, many times, leaders only use taboos for [power](power.md).
 
 ## Shame
 
@@ -48,7 +48,7 @@ Shame frequently comes through [conflicts](people-conflicts.md) about a taboo, b
 
 If someone is shamed hard enough, they can *become* the taboo themselves. Often, most leaders use this to destroy others' [power](power.md) or exile them from the [group](groups-small.md). Many of them create [rules](rules.md) around this, to tremendous personal gain. In a free society with [elections](politics-systems.md), the leaders do it to the opposition party.
 
-The implication of any taboo is that the shameful tasks are relatively easy to violate, but can disproportionately harm others. However, its risk to others is purely a [practical](purpose.md) and [cultural](culture.md) basis:
+The implication of any taboo is that the shameful tasks are relatively easy to violate, but can disproportionately harm others. However, its risk to others is purely a [practical](purpose.md) and [cultural](people-culture.md) basis:
 
 - Wearing pants before going out in public is an easy [habit](habits.md) to establish, but that's presuming someone didn't come from a tropical society where pants don't exist.
 - Smoking cigarettes in public is unpopular in societies that have adopted the [stance](mind-bias.md) that refined tobacco has many carcinogenic substances, but it presumes everyone [believes](trust.md) cigarettes are bad to even be *near* because of it.
@@ -75,7 +75,7 @@ Many times, the rules that maintain social order can backfire and create pockets
 - People are awkwardly forced to tip servers (the IRS even presumes it), but tipping is tied to the [performance](results.md) of the preparer and often only the [appearance](image.md) of the server. Nobody wants to be considered rude, though, so the practice continues.
 - Many panhandlers make a living looking miserable, but most people don't want the inevitable [conflicts](people-conflicts.md) from forcing them to work, giving them a pep talk, or forcibly evicting them. This makes passersby more calloused and harsh to legitimately needy people.
 - National citizenship processes are complicated, but the foreigners affected by it can't vote to make it easier, and most citizens don't frequently [empathize](mind-feelings.md) with the foreigners. The same applies to individuals who have been incarcerated.
-- Some [ethnic cultures](culture.md) promote laziness through their leadership's endorsement of the lifestyle. [Influential](influence.md) people inside that community will use that ethnic difference to declare outsiders who address their issues, irrespective of intent or race, as [racist](image.md).
+- Some [ethnic cultures](people-culture.md) promote laziness through their leadership's endorsement of the lifestyle. [Influential](influence.md) people inside that community will use that ethnic difference to declare outsiders who address their issues, irrespective of intent or race, as [racist](image.md).
 
 The reason these awkward arrangements stay around for so long is from two fronts:
 

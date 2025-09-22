@@ -27,7 +27,7 @@ While a group holds together by shared values, we can often forget that individu
 
 One of the most practical effects of leadership comes through everyone's magnification of their [purpose](purpose.md). The leader's purpose is naturally magnified by other members acting as an extension of their will, but lower-ranking members' purposes are also magnified, at least proportionally to the leadership's willingness and ability to grant [power](power.md) to them.
 
-Members always have at least some [power](power.md) in the group. In the case of a [low power distance](culture.md) group (e.g., a club), everyone shares resources to pursue their own unique [purposes](purpose.md). In groups with high power distance (e.g., a [cult](culture-cults.md)), the power funnels upward to the leader, and all the members [believe](understanding-certainty.md) in the group's collective [purposes](purpose.md).
+Members always have at least some [power](power.md) in the group. In the case of a [low power distance](people-culture.md) group (e.g., a club), everyone shares resources to pursue their own unique [purposes](purpose.md). In groups with high power distance (e.g., a [cult](culture-cults.md)), the power funnels upward to the leader, and all the members [believe](understanding-certainty.md) in the group's collective [purposes](purpose.md).
 
 Each member has at least some [power](power.md), [purpose](purpose.md), and [beliefs](understanding-certainty.md) from their group, so it's far harder to [influence](power-influence.md) anyone while they're in a group to new ideas *outside* the group than if they had discovered those [values](values.md) separately.
 
@@ -53,7 +53,7 @@ The values of a group are mostly defined by its leadership. That leader is appro
 
 APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](decisions.md).
 
-Broadly, leaders tend to exert control across a [culture](culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:
+Broadly, leaders tend to exert control across a [culture](people-culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:
 
 1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](trends.md), more prevalent in Eastern cultures.
 2. Innocence/Guilt - the shame is localized to the emotion of guilt, meaning there's a binary action or inaction toward the rules, but not necessarily toward long-past events, more prevalent in Western cultures.

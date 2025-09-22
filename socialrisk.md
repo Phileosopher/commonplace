@@ -42,7 +42,7 @@ To meet all these criteria at once usually requires focused [creativity](mind-cr
 
 Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](awareness.md), and often exists within [nature](reality.md).
 
-One *severe* requirement of these people succeeding is that they have a high [conscientiousness](personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts.md) from the surrounding [culture](culture.md).
+One *severe* requirement of these people succeeding is that they have a high [conscientiousness](personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts.md) from the surrounding [culture](people-culture.md).
 
 The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume, but if it fulfills a niche (e.g., phone cases) most people won't want it so it will require more [searching and advertisement](marketing.md).
 
@@ -88,7 +88,7 @@ Frequently, success in taking social risks requires finding value that wasn't pr
 - A city's [gang problem](mgmt-badsystems.md) means many [young people](maturity.md) are finding [meaning](meaning.md) through honoring a semi-formalized ad-hoc social structure.
 - A high murder rate means people have severe, unspoken [feelings](mind-feelings.md) that can be redirected toward a more [useful](purpose.md) goal.
 - Destruction of the environment means many people have likely been productive [creating](creations.md) other things.
-- A fading [culture](culture.md) or [trend](trends.md) means people have adopted a *different* culture or trend instead.
+- A fading [culture](people-culture.md) or [trend](trends.md) means people have adopted a *different* culture or trend instead.
 
 APPLICATION: Since every system eventually turns [bad](mgmt-badsystems.md) from [human nature](humanity.md), there'll always be people breaking free from [a group's leadership](groups-large.md) somewhere to start something new.
 
@@ -117,7 +117,7 @@ APPLICATION: If you're going to take a risk, keep your head down and stay as und
 
 If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](trends.md) to arise and the role to replay itself.
 
-APPLICATION: Social risk requires a [culture](culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](economics.md).
+APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](economics.md).
 
 ## Failure
 
@@ -125,7 +125,7 @@ APPLICATION: Social risk requires a [culture](culture.md) that fosters it, which
 
 There are two major sources of failure:
 
-- [Cultural](culture.md) opposition from the risk-taker's violation of existing [standards](habits.md), which is why the [geeks and heretics](trends.md) never reap much from their efforts.
+- [Cultural](people-culture.md) opposition from the risk-taker's violation of existing [standards](habits.md), which is why the [geeks and heretics](trends.md) never reap much from their efforts.
 - Competition from other people doing the same things, which is why the majority never reap those rewards.
 
 For this reason, people who walk the fine line of honoring [taboo](morality-taboo.md) but also breaking convention can ever win. However, since this is based on [feelings](mind-feelings.md), it can change at an *instant* with a small shift in [narrative](stories.md), and much of it is bound up in [luck](unknown.md).

@@ -83,7 +83,7 @@ Set the pace by showing them your example ([2 Timothy 3:10-11](https://biblehub.
 - Reproduce yourself into them ([2 Corinthians 12:14-19](https://biblehub.com/bsb/2_corinthians/12.htm), [Philippians 2:19-22](https://biblehub.com/bsb/philippians/2.htm), [2 Timothy 3:10-11](https://biblehub.com/bsb/2_timothy/3.htm)).
 - Avoid dictating to them, *especially* as they become more [knowledgeable](understanding.md) ([1 Peter 5:1-3](https://biblehub.com/bsb/1_peter/5.htm)).
 
-Do *not* [micro-manage](mgmt-1_why.md), since they will have a different generational [culture](culture.md) and their approach on some things *will* be different.
+Do *not* [micro-manage](mgmt-1_why.md), since they will have a different generational [culture](people-culture.md) and their approach on some things *will* be different.
 
 Avoid employing any shame.
 

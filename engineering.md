@@ -3,7 +3,7 @@
 
 Engineering is implementing [science](science.md) to address legitimate [problems](purpose.md). To that end, engineering doesn't always [look good](engineering-design.md), but great engineering is profoundly reliable.
 
-More than anything else, engineering employs heavy amounts of [math](math.md) and physics for its design, with its constraints represented by the universe itself. Most of the *[inspiration](mind-creativity.md)* for engineering is pulled from [nature itself](science.md), and is usually driven by the [culture](culture.md) surrounding the engineers' work.
+More than anything else, engineering employs heavy amounts of [math](math.md) and physics for its design, with its constraints represented by the universe itself. Most of the *[inspiration](mind-creativity.md)* for engineering is pulled from [nature itself](science.md), and is usually driven by the [culture](people-culture.md) surrounding the engineers' work.
 
 Sometimes, [bad systems](mgmt-badsystems.md) can cut corners financially on a product's design, which *always* yields a terrible experience because the product will break quickly and [irreparably](fix.md), which can often happen when an object becomes a mere commodity. On the other hand, [competition](economics.md) can allow the best engineering to surface if the users actually *care* about their product.
 

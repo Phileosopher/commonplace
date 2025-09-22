@@ -37,7 +37,7 @@ We are constantly forced to explore the [unknown](unknown.md) or intensify the [
 
 On the high end, we take enormous [social risks](socialrisk.md) and pioneer [trends](trends.md), mostly from the pursuit and love of [ideas](values.md). It provides the advantage of discovering new things, but at the risk of sabotaging healthy, long-standing [institutions](rules.md) of society. Most [intelligent](understanding.md) and [creative](mind-creativity.md) people tend to be high openness to experience, though not always.
 
-On the low end, we establish [cultural traditions](culture.md) and [maintain order](understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](socialrisk.md).
+On the low end, we establish [cultural traditions](people-culture.md) and [maintain order](understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](socialrisk.md).
 
 One tiny statistical correlation shows that people born in warmer climates tend to be a little more willing to [take risks](socialrisk.md).
 
@@ -199,7 +199,7 @@ Events deliver a specific, measurable amount of emotional severity from how stro
 
 Personality differences can be frustrating, but they're absolutely necessary because each personality is a broadly formed solution to a vast set of problems. No single person is equipped for every situation, and the wide variety of personalities gives different approaches to handling the complex [specializations](jobs-specialization.md) required to [live well](goodlife.md).
 
-High openness to experience must respect [convention](habits.md) and [tradition](culture.md), and low openness to experience must accept new experiences and take on [new risks](socialrisk.md).
+High openness to experience must respect [convention](habits.md) and [tradition](people-culture.md), and low openness to experience must accept new experiences and take on [new risks](socialrisk.md).
 
 High conscientiousness must respect others' differing standards, while low conscientiousness must think more about others.
 
@@ -225,7 +225,7 @@ Extraversion and agreeableness can be easily confused. Extroversion defines how 
 
 A baby's natural tendency to cry will clarify their neuroticism and agreeableness later on in life.
 
-The most important indicators of [success](results.md) come firstly through our intellect (the subdomain of openness to experience) because it defines how [creative](mind-creativity.md) our solutions will be, and secondly through conscientiousness because it defines how frequently we'll perform [tasks](results.md) we'd prefer to avoid. However, intelligence and conscientiousness have *zero* statistical connection with one another, likely because smart people can often slip through life without having to follow their [culture's](culture.md) [social rules](rules.md).
+The most important indicators of [success](results.md) come firstly through our intellect (the subdomain of openness to experience) because it defines how [creative](mind-creativity.md) our solutions will be, and secondly through conscientiousness because it defines how frequently we'll perform [tasks](results.md) we'd prefer to avoid. However, intelligence and conscientiousness have *zero* statistical connection with one another, likely because smart people can often slip through life without having to follow their [culture's](people-culture.md) [social rules](rules.md).
 
 Agreeableness and conscientiousness are at constant odds with each other in most social contexts:
 
@@ -277,7 +277,7 @@ Finally, the "energy" of each of the spectra becomes *severe* conflicts when som
 
 ## Image/shadow
 
-For the most (or entire) part, we are [image-based](image.md) people. Our [cultures](culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](understanding.md), and [be](identity.md).
+For the most (or entire) part, we are [image-based](image.md) people. Our [cultures](people-culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](understanding.md), and [be](identity.md).
 
 We maintain that [image](image.md) of how we expect others to want us to behave, and it forces us to express at *least* two personalities:
 
@@ -290,7 +290,7 @@ Generally, most cultures form an expected "false self" with a specific personali
 
 - Openness to Experience - [adapt and change](people-changes.md) to whatever the group [expects](imagination.md), but never take on enough [risk](socialrisk.md) that may potentially create adverse events for the group.
 - Conscientiousness - always do what's [right](morality.md), until it doesn't conform with the desires of the highest-ranking [group leader](groups-large.md).
-- Extraversion - do whatever you want, but always attend required [group events](groups-member.md) and conform to the [cultural mores](culture.md) of your group.
+- Extraversion - do whatever you want, but always attend required [group events](groups-member.md) and conform to the [cultural mores](people-culture.md) of your group.
 - Agreeableness - never [disagree](people-conflicts.md) with the group leader and only [politely disagree](people-5_conflicts.md) with others, and [females must be more agreeable than males](gender.md).
 - Neuroticism - you're free to express your [feelings](mind-feelings.md), up to the point where the group's tasks may be disrupted or will portray an adverse [image](image.md) to others outside the group.
 
@@ -324,7 +324,7 @@ One of the qualities of someone who integrated their shadow is that they can hol
 
 ## Personality groups
 
-Our [family](people-family.md) has a tiny bearing on our personality based on [biochemistry](science-life-biochem.md) and [culture](culture.md). For that reason, every larger group that arose from a family (e.g., most nations) has a specific biochemistry of their mind that influences how they make decisions.
+Our [family](people-family.md) has a tiny bearing on our personality based on [biochemistry](science-life-biochem.md) and [culture](people-culture.md). For that reason, every larger group that arose from a family (e.g., most nations) has a specific biochemistry of their mind that influences how they make decisions.
 
 These personality archetypes frequently ripple outward to create an entire national identity:
 
@@ -354,7 +354,7 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Conscientiousness can abide by known-working [standards](habits.md).
   - Extraversion can find how other people solve the problem.
   - Agreeableness can find a healthy [compromise](people-conflicts.md) for the problem.
-- High openness to experience when facing a [tradition-based](culture.md) conflict:
+- High openness to experience when facing a [tradition-based](people-culture.md) conflict:
   - Conscientiousness can honor the [leadership](groups-small.md), even without agreeing on the matter.
   - Extraversion can find new [people groups](groups-member.md) to explore more risks.
   - Agreeableness can find a way to accept others' [value systems](values.md).

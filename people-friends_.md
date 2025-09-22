@@ -63,7 +63,7 @@ Our attachment isn't always straightforward, either:
 
 ## Genders
 
-The best form of friendship comes through [marriage](relationships-3_marriage.md) between both [genders](gender.md). This is for several reasons beyond any [religious](religion.md) or [cultural](culture.md) basis:
+The best form of friendship comes through [marriage](relationships-3_marriage.md) between both [genders](gender.md). This is for several reasons beyond any [religious](religion.md) or [cultural](people-culture.md) basis:
 
 - Both genders have dramatically differing forms of [reasoning](logic.md), so they [see entirely different things](image.md).
 - Since both genders are uniquely different, there's *always* things to learn from the other gender, so it never gets [boring](purpose.md).
@@ -87,4 +87,4 @@ Unless we're *really* close to a friend, leaving a [group](groups-small.md) we s
 
 Once we start getting busy with life later on, it's important to [purpose](purpose.md) ourselves to maintain and build new friendships.
 
-Given enough time, the friendship between two people can create an exclusive [culture](culture.md), with unique [language](language.md), [customs](habits.md), and [beliefs](understanding-certainty.md). If those two people either [have children](people-family.md) or draw in new people, they've created a [small society](groups-small.md).
+Given enough time, the friendship between two people can create an exclusive [culture](people-culture.md), with unique [language](language.md), [customs](habits.md), and [beliefs](understanding-certainty.md). If those two people either [have children](people-family.md) or draw in new people, they've created a [small society](groups-small.md).

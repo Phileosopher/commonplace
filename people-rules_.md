@@ -34,7 +34,7 @@ To be [just](morality-justice.md), every rule must have a few qualities:
 1. The rule's [boundaries](people-boundaries.md) must [make sense](understanding.md) to everyone.
 2. The rule's [consequences](results.md) must reasonably fit the crime and be enforceable.
 3. The [language](language.md) and [enforcement](results.md) of the rule must be resistant to [image distortion](image-distortion.md) by [evil people](morality-evil.md).
-4. The rules must not impede the ranges of human behaviors that could be both [ethical](morality.md) and [culturally permissible](culture.md).
+4. The rules must not impede the ranges of human behaviors that could be both [ethical](morality.md) and [culturally permissible](people-culture.md).
 5. There should be a means to repay the [injustice](morality-justice.md) the person performed.
 6. The criminal, upon repayment, should be released from any further obligation.
 
@@ -163,7 +163,7 @@ Eventually, [evil](morality-evil.md) or incompetent people will abuse those rule
 
 - They won't understand a rule's importance and nullify it.
 - They'll misapply the rule for the opposite [purpose](purpose.md) than it was originally intended.
-- The rule-maker will redefine the spirit of the rule as it's interpreted in their present [culture](culture.md) instead of the former culture the rule was made in.
+- The rule-maker will redefine the spirit of the rule as it's interpreted in their present [culture](people-culture.md) instead of the former culture the rule was made in.
 
 However it happens, these badly revised rules change the precedent for the entire group, and are the quickest way to [render a system impotent or destructive](mgmt-badsystems.md) as the individuals adjust to disrespecting or subverting them.
 
@@ -175,7 +175,7 @@ The only way to fix a bad set of rules (either poorly set or poorly enforced) is
 
 The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to remedy the situation.
 
-Rules are only valid if they transcend [culture](culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
+Rules are only valid if they transcend [culture](people-culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
 
 True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
 
@@ -213,7 +213,7 @@ There is no solution [creative](mind-creativity.md) enough to keep everyone perf
 - If you show people the risks, at least some of them will find a thrill in trying to [overcome it](meaning.md).
 - If, in some way, you can make sure people are *completely* unaware of a risk, they will hate you for it and will [try to destroy you](people-conflicts-war.md). Further, they'll be *really* unprepared for the risks when they *do* explore them.
 
-The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](culture.md) that defy [reality](reality.md):
+The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](people-culture.md) that defy [reality](reality.md):
 
 1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it corresponds with their interests, and it's all determined by [how they maintain their power](politics-systems.md).
 2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal.md) for the [consequences](results.md) of what they [decide](decisions.md).

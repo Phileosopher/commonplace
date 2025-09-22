@@ -29,11 +29,11 @@ Observe and honor the Bible's grammar and syntax:
 
 - Scripture only has one literal interpretation, which determines the theology you're reading.
 - Interpret words with the meaning the author would have used at the time.
-- God wrote Scripture to people at a specific time with specific issues, so do some research on the [culture](culture.md) of those times.
+- God wrote Scripture to people at a specific time with specific issues, so do some research on the [culture](people-culture.md) of those times.
 - Interpret a word by its relation to its sentence.
 - Interpret a passage by its context and setting.
 
-Each translation wrestles with [language](language.md) barriers that form a spectrum between precise *words* and precise *thoughts* as [culturally understood](culture.md):
+Each translation wrestles with [language](language.md) barriers that form a spectrum between precise *words* and precise *thoughts* as [culturally understood](people-culture.md):
 
 1. Word-for-word - prioritizes translating the *exact* words and sentence structure (e.g., NASB, ESV, Young's)
 2. Meaning-for-meaning - prioritizes the same meaning of each of the words (e.g., GOD'S WORD)
@@ -153,7 +153,7 @@ F. Explore unconventional ways to read the Bible:
   - Study what a specific word meant at the time.
   - Focus on how the Bible refutes a specific heresy.
   - Research alleged [Bible contradictions or factual errors](evangelism-apologetics.md).
-  - Draw comparisons and contrasts between Christian [culture](culture.md) and the Bible.
+  - Draw comparisons and contrasts between Christian [culture](people-culture.md) and the Bible.
   - Examine every instance of a Bible word and find associated patterns across them.
 
 ## You'll never get to the end of it

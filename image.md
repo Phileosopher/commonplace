@@ -14,7 +14,7 @@ For the most part, this copy is *stunningly* accurate. It allows us to relive th
 
 While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](imagination.md) diverges from it.
 
-Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts.md) are over relative things we *think* are absolute, often from our [culture](culture.md) and [upbringing](people-family.md).
+Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts.md) are over relative things we *think* are absolute, often from our [culture](people-culture.md) and [upbringing](people-family.md).
 
 One complicated part of our perception comes in how things come together. In [reality](reality.md), the larger thing is *precisely* the same as the individual components combined, but our [values](values.md) make the whole *greater* than the sum of its parts based on its association to other values.
 
@@ -53,13 +53,13 @@ APPLICATION: Bias isn't necessarily bad. [Common sense](understanding.md) is a s
 
 Generally, you can detect bias by how much people respond with [feelings](mind-feelings.md), especially with shock and [anger](mind-feelings-anger.md). While their reaction won't indicate whether they're [right](morality-justice.md) or not, it'll show how clearly they're thinking. Since [reality](reality.md) often has gradations, their feelings may allude to how much they [understand](understanding.md), but it isn't a clear indicator.
 
-APPLICATION: It's difficult to accept views that don't match your own, which is why no [culture](culture.md) is ever completely open-minded.
+APPLICATION: It's difficult to accept views that don't match your own, which is why no [culture](people-culture.md) is ever completely open-minded.
 
 We have a highly self-centered view of the universe, where we impose our [purposes](purpose.md), problems, and [values](values.md) upon our environment as if they existed outside our minds. Even when we gather copious amounts of [data](math.md), we're just creating an [anecdotal story](stories.md) built around aggregation.
 
 The only time we don't use ourselves as the center is when we [develop another center instead](addiction-centers.md), and our bias is made of a few "angles" that map our meaning to various elements:
 
-- [Cultural](culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
+- [Cultural](people-culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
 - [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](imagination.md) others' opinions.
 - [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](decisions.md) that create subjective sets of meaning, especially the things we [identify](identity.md) with.
 - [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
@@ -70,7 +70,7 @@ APPLICATION: Since we can't avoid bias, the only way to successfully discover [t
 
 More often than not, when we find we're wrong, we will believe a *part* of what we saw was correct and will adapt other beliefs to fit it. Slowly, as some of those things never change [over time](maturity.md), we become more [certain](understanding-certainty.md) of ourselves.
 
-APPLICATION: If everyone in a group declares something as true, it shows more about the group than whatever they're saying. Closely examine the [truth](reality.md) compared to a group's [statements](awareness.md) to find the inherent bias of a [culture](culture.md).
+APPLICATION: If everyone in a group declares something as true, it shows more about the group than whatever they're saying. Closely examine the [truth](reality.md) compared to a group's [statements](awareness.md) to find the inherent bias of a [culture](people-culture.md).
 
 Very often, two people can have vastly different images while perceiving a similar thing. It frequently comes from our background, but the way we process [language](language.md) has a profound impact on what we remember.
 
@@ -82,13 +82,13 @@ APPLICATION: To live [sincerely](goodlife.md), our inner lives must reflect our 
 
 ## Culture's image
 
-The basis of all [culture](culture.md), [social conflict](people-conflicts.md), and grander [social trends](trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
+The basis of all [culture](people-culture.md), [social conflict](people-conflicts.md), and grander [social trends](trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
 
 A person's reputation is the composite of everyone else's [image](image.md) of that person. It's extremely fickle and chaotic because it's what other people [feel](mind-feelings.md) about someone, which changes constantly.
 
 While having a reputation isn't a direct [boundary](people-boundaries.md), there is a certain type of [morality](morality.md) to a society thinking appropriately of someone. [Evil](morality-evil.md) people given honor is as much a perversion of [justice](morality-justice.md) as good people who are [condemned](mind-feelings-shame.md).
 
-All reputation is nothing but [sentiments](mind-feelings.md) about past events. Those sentiments, however, are [powerful](power.md), and define entire [cultures](culture.md).
+All reputation is nothing but [sentiments](mind-feelings.md) about past events. Those sentiments, however, are [powerful](power.md), and define entire [cultures](people-culture.md).
 
 ### The power of reputation
 

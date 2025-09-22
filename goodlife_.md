@@ -76,7 +76,7 @@ The evidence that a life is well-lived comes from several simultaneous condition
 3. That person has [released](mind-feelings-happiness.md) any resentment or bitterness from the pain of their experience.
 4. Other people found meaning in that person's experience.
 
-Whether [society](culture.md) considers this a worthy endeavor is another matter entirely.
+Whether [society](people-culture.md) considers this a worthy endeavor is another matter entirely.
 
 * * * * *
 
@@ -84,7 +84,7 @@ Whether [society](culture.md) considers this a worthy endeavor is another matter
 
 To discern the [quality](values-quality.md) of what a person really is, don't look at where they are, but instead look at where they've come from and how far they've come.
 
-Having sophistication can give us a broader understanding of [society](culture.md), but it's not necessary to live well because it may go against how we wish to [identify](identity.md). We would do better to [integrate our shadow](personality.md) than pretend we don't have one.
+Having sophistication can give us a broader understanding of [society](people-culture.md), but it's not necessary to live well because it may go against how we wish to [identify](identity.md). We would do better to [integrate our shadow](personality.md) than pretend we don't have one.
 
 Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](image.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](image.md).
 

@@ -79,7 +79,7 @@ Depending on the metropolitan area you're in, there are *tons* of recruitment fa
 
 They're usually very casual, so all you really need is interest in the subject matter.
 
-It's worth noting each technology has its own [subculture](culture.md): some are established and boring, while others are filled with optimistic young people. You'll find out a *ton* on the culture behind the technology by visiting those events in-person.
+It's worth noting each technology has its own [subculture](people-culture.md): some are established and boring, while others are filled with optimistic young people. You'll find out a *ton* on the culture behind the technology by visiting those events in-person.
 
 At the beginning, you won't have much and will need to apply for jobs. But, over time, if you keep achieving correctly, you'll have a large network of colleagues to get leads and jobs from, and may no longer need to hunt for a role.
 

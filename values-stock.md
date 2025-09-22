@@ -3,7 +3,7 @@
 
 These are the stock-standard tropes that persist throughout many, many [stories](stories.md).
 
-- These stories are conventional wisdom for [almost all humanity](humanity-universals.md), with each [culture](culture.md) having different emphasis and priority on each.
+- These stories are conventional wisdom for [almost all humanity](humanity-universals.md), with each [culture](people-culture.md) having different emphasis and priority on each.
 - Without considering time and place, these values often contradict.
 - Some of these values are also utterly wrong.
 
@@ -274,7 +274,7 @@ Group [expectations](imagination.md):
 - Giving into materialism, peer pressure, and fashions is more trouble than it's worth.
 - Not remembering history dooms people to repeat it.
 
-[Culture](culture.md):
+[Culture](people-culture.md):
 
 - Change [tradition](habits.md) to [influence](power-influence.md) others.
 

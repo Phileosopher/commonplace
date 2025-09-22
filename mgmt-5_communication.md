@@ -249,7 +249,7 @@ When you have a knowledge base, systematically review the information.
   4. 5 min - communicate upcoming strategies and why the group's actions matter.
   5. Give each team or member a task list for the upcoming period.
 - Brainstorming meetings:
-  1. If the [culture](culture.md) permits, offer 1-2 [drinks](fun-alcohol.md) 15 minutes before the meeting.
+  1. If the [culture](people-culture.md) permits, offer 1-2 [drinks](fun-alcohol.md) 15 minutes before the meeting.
   2. Tell them at the beginning you want as many ideas as possible, and for everyone to silently submit them without judgment.
   3. Read off all the ideas, then give them a second round for them to think of more ideas.
   4. After all the ideas have been given, group them based on common themes.
@@ -288,7 +288,7 @@ People find [meaning in responsibility](meaning.md), so correctly delegating tas
   - You get more [freed-up time](success-4_routine.md).
   - They can improve their [résumé and skills](jobs-3_image.md).
   - You're able to see if *they* can start becoming a manager themselves, if the need arises.
-- In general, delegation builds a [culture](culture.md) of [trust](trust.md) and respect.
+- In general, delegation builds a [culture](people-culture.md) of [trust](trust.md) and respect.
   - One advantage of delegation is that you can quickly see [abuses of power](power-types.md) by the wrong workers, but without having to change their official roles back-and-forth.
 - Clearly communicate how your delegation adds value to them or the organization (and not just yourself).
 
@@ -432,7 +432,7 @@ Avoid routine performance reviews if at all possible.
 Procedures are the "[automation](computers.md)" of an organization.
 
 - They allow [new hires](mgmt-3_teams.md) to quickly adapt to their work.
-- The written procedure has the power to redefine the entire organization's [culture](culture.md).
+- The written procedure has the power to redefine the entire organization's [culture](people-culture.md).
 - While the new hires will likely *not* read the handbook (especially if it's a low-thought job), they'll imitate the more experienced and loyal workers who *should* be reading it.
 
 You won't typically need formalized procedures when the organization is small, but tasks will eventually require standardized methods.

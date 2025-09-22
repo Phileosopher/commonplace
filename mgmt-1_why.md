@@ -27,14 +27,14 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 - Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](safety.md) without much work or crave [power](power-types.md) over others.
 - A manager who [appears](image.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
   - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](results.md).
-- The formal [culture](culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
+- The formal [culture](people-culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
 ## The image of management
 
 Our [religious tendencies](religion.md) mean we tend to draw behind the [image](image.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
 
-- It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](culture.md), and they eventually become the "face" of the organization.
+- It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
 - Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
 
 Management reproduces the role of high-quality [fatherhood](parenting-2_children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-4_friends.md):
@@ -205,7 +205,7 @@ Watch for key phrases and behaviors that show non-leader managers (NLMs):
   - They might have lost their passion to [fix problems](fix.md).
   - Money or [safety](safety.md) started becoming a higher priority than results.
 
-When nobody leads by asking questions that provoke change, NLM [culture](culture.md) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
+When nobody leads by asking questions that provoke change, NLM [culture](people-culture.md) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
 
 - Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
 - Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
@@ -261,7 +261,7 @@ Most management roles clarify the contrast between prioritizing relationships ve
 Since every management situation is different, there isn't a good all-in-one solution.
 
 - The only thing managers get are [*many* various conceptual frameworks](mgmt-theories.md), which represent simplifications of [human universals](humanity-universals.md).
-- A manager has to figure out how a general model will work with the [culture mix](culture.md) in their current group.
+- A manager has to figure out how a general model will work with the [culture mix](people-culture.md) in their current group.
 - Since managers are of a generally higher Conscientiousness than everyone else, they *frequently* tend to forget that others aren't as conformant to [rules](rules.md).
 
 Every single change will redefine how the models may implement.

@@ -58,7 +58,7 @@ People pay *close* attention to the messenger:
   - Often, uses a personal message with the pronoun "we" instead of "I".
 - They should share something in common with the audience, but only if the audience may *want* to be like the messenger:
   - If the listener is disposed to [believe](understanding-certainty.md) the message already, the messenger will [feel](mind-feelings.md) more honest.
-  - A similar [cultural](culture.md) association to the audience in [attributes](habits.md), [preference](humanity.md), or [social group](groups-member.md).
+  - A similar [cultural](people-culture.md) association to the audience in [attributes](habits.md), [preference](humanity.md), or [social group](groups-member.md).
   - Sharing some key detail with the person, such as last name, appearance, or social connections.
   - Reflecting the recipient's behaviors and mannerisms.
   - Appearing to be less [intelligent](understanding.md) or [educated](education.md) than the audience, even when they're *very* [capable](purpose.md).

@@ -15,7 +15,7 @@ Making rules never gets anywhere with human [desire](purpose.md). When something
 
 The entire conflict of private property comes from where leftists believe [evil](morality-evil.md) comes from. The claim, generally, is that evil people in [power](power.md) are trying to control everything ("means of capital"), so they make structures like [religion](religion.md) and [corporations](groups-large.md) to keep people compliant with conventional concepts of [morality](morality.md).
 
-Leftists are mostly correct that most [social movements](trends.md) have been [power](power.md) games, and most of our [culture](culture.md) is defined by it. However, they don't often realize they're merely adhering to another religion that [subordinates](addiction.md) to a vision of the [State](groups-large.md) running everything, without any sort of greater [moral aspect](morality.md) to it.
+Leftists are mostly correct that most [social movements](trends.md) have been [power](power.md) games, and most of our [culture](people-culture.md) is defined by it. However, they don't often realize they're merely adhering to another religion that [subordinates](addiction.md) to a vision of the [State](groups-large.md) running everything, without any sort of greater [moral aspect](morality.md) to it.
 
 ## State-run
 
@@ -82,7 +82,7 @@ The most prominent form of classification comes through [identity](identity.md) 
 - Race - Whites are the oppressor class of every other race, especially dark skin, with an occasional Asian demarcation included as part of the ruling class.
 - [Gender](gender.md) - males dominate females.
 - Sexual orientation - Heterosexuals dominate homosexuals, transgender, etc.
-- [Ethnicity](culture.md) - Western European/American culture dominates all other cultures.
+- [Ethnicity](people-culture.md) - Western European/American culture dominates all other cultures.
 - Ability - the fully able-bodied oppress the disabled.
 - Mental state - Neurotypical people oppress the neurodivergent.
 - Nationality - fully naturalized citizens oppress foreigners.
@@ -95,11 +95,11 @@ By stating someone is born into a lesser class, everyone is a personalized [vict
 
 Under identity politics, the claim is that a specific person is more fit to lead *only* by virtue of their race, gender, ethnicity, or whatever. It doesn't consider other elements like aptitude, [experience](results.md), or [wisdom](understanding.md). In effect, it's [bigoted favoritism](image.md).
 
-Often, their claims of divisions are poorly placed. Racism and gender, for example, hasn't *ever* had as much impact on demarcating [groups](groups-large.md) and [social trends](trends.md) as [ethnic](culture.md) discrimination.
+Often, their claims of divisions are poorly placed. Racism and gender, for example, hasn't *ever* had as much impact on demarcating [groups](groups-large.md) and [social trends](trends.md) as [ethnic](people-culture.md) discrimination.
 
 The concept of "diversity" mixes into the identity politics debate. But, they tend to mean diversity of background more than modes of thought.
 
-Having *both* diversity of thought *and* culture is absurdly difficult because long-standing [cultures](culture.md) tend to publicly [assault](morality-taboo.md) thoughts that extend beyond a certain difference from them. Take the most ethnically diverse group of people, put them together, and within months they'll form a culture that can easily eject ideas that "diverse" group doesn't like.
+Having *both* diversity of thought *and* culture is absurdly difficult because long-standing [cultures](people-culture.md) tend to publicly [assault](morality-taboo.md) thoughts that extend beyond a certain difference from them. Take the most ethnically diverse group of people, put them together, and within months they'll form a culture that can easily eject ideas that "diverse" group doesn't like.
 
 The ideal domain is a diversity of thought, which requires constant organizational change, but it would mean an organization that also questions the shortcomings of leftist ideals as well.
 
@@ -115,14 +115,14 @@ There are a few realities (mostly [scientifically](science.md) proven) that conf
 - Water and every aspect of it (e.g., river/lake depths, cloud formation, ocean salinity) has a *much* more direct connection to climate systems than carbon.
 - Many of the things regarded as "bad" (e.g., plastic) are naturally occurring substances that don't necessarily create adverse conditions for the environment, contrary to the [image](image.md) most environmentalists like to advance.
 - If [God](religion.md) exists and this planet matters to him/her/it in the slightest, then this world is safely managed even if we can't see it. If macroevolution is true, anything we destroy or subdue is simply the survival of the fittest (with us being the fittest). If neither are true, then we have no cosmology and should therefore stop bothering with sweeping political concepts.
-- Humanity itself finds [creative](mind-creativity.md) ways to adapt, even when established [civilizations](culture.md) collapse from a climate change (e.g., a river that served as a major trade route for a capital city drying up).
+- Humanity itself finds [creative](mind-creativity.md) ways to adapt, even when established [civilizations](people-culture.md) collapse from a climate change (e.g., a river that served as a major trade route for a capital city drying up).
 
 However, leftists can still politicize the weather because people are [afraid](mind-feelings-fear.md) of [uncertainties](unknown.md) about [what really runs the universe](religion.md):
 
 - The risks of climate change shift with [political](politics-conservativeliberal.md) fashions. It's sometimes global warming (especially in the summer), and other times global cooling (especially in the winter), and usually stays vague while implying it's a political opponent's fault.
 - They claim that our water supply is diminishing. In reality, we have [technology](technology.md) to desalinate any water we need if our water supply became [scarce](economics.md) enough.
 - They've claimed that man-made [industrialization](jobs-specialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
-- One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
+- One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](people-culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
 
 The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
 
@@ -161,9 +161,9 @@ The Left constantly redefines itself. The only time it ever succeeds is when peo
 
 By principle of leftism's ideal, left-leaning people tend to hate a few things:
 
-- [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](culture.md).
+- [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](people-culture.md).
 - [Competition](people-conflicts.md) - even though human [purpose](purpose.md) is driven by *many* [inner conflicts](conflicts-inner.md), leftism claims external conflicts are generally bad.
-- Civility - leftism indirectly opposes [cultural](culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](rules.md).
+- Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](rules.md).
 - [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](rules.md) individuals' purposes.
 
 Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.

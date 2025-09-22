@@ -73,7 +73,7 @@ Never live far above *or* below the lifestyles of the people you serve and lead
 
 At its core, a [church](church.md) is simply a gathering of believers ([Matthew 18:20](https://biblehub.com/matthew/18-20.htm)).
 
-- The only major differences between churches are either [cultural](culture.md) or [legal](legal-safety.md).
+- The only major differences between churches are either [cultural](people-culture.md) or [legal](legal-safety.md).
 - This definition is broad enough to include things people often do *not* [understand](understanding.md) to be churches:
   - House gatherings, including group [Bible studies](bible-study.md)
   - Charitable organizations
@@ -81,7 +81,7 @@ At its core, a [church](church.md) is simply a gathering of believers ([Matthew 
   - Thrift store chains
   - Christian music concerts
   - Parachurch and ecumenical organizations
-- To put it another way, a Christ-like church is simply *any* gathering of people who have performed [Christ-like habits](spiritual-exercises.md) long enough that their shared [habits](habits.md) have [fostered](power-influence.md) a [culture](culture.md) to arise from it.
+- To put it another way, a Christ-like church is simply *any* gathering of people who have performed [Christ-like habits](spiritual-exercises.md) long enough that their shared [habits](habits.md) have [fostered](power-influence.md) a [culture](people-culture.md) to arise from it.
   - That Christian culture will be the hybrid of their culture of origin mixed with a sincere [Christian identity](identity.md).
   - The conventional term for "church" is more accurately a "*worship-based* church".
 
@@ -141,7 +141,7 @@ A spiritual leader's job has 4 components:
 3. Foster a culture for believers to [Love each other](people-love.md) inside the group as [spiritual family](people-family.md).
 4. Perform [discipleship](spiritual-discipleship.md) of their own.
 
-Every ministry leader is responsible to foster a [culture](culture.md) for believers to act in the world:
+Every ministry leader is responsible to foster a [culture](people-culture.md) for believers to act in the world:
 
 - Show the world's needs, especially the ones members can meet.
 - Provoke *everyone* in the group to fulfill those needs.
@@ -181,7 +181,7 @@ Learn [effective communication](language-speaking.md).
 Any spiritual leadership role conveys the power of Scripture, so [keep reading it](bible-study.md).
 
 - Avoid jargon which alienates people from simple truths.
-- Stay focused on Christ and the Gospel, no matter how much your [education](education.md) and [culture](culture.md) tell you otherwise ([1 Corinthians 2:2](https://biblehub.com/1_corinthians/2-2.htm)).
+- Stay focused on Christ and the Gospel, no matter how much your [education](education.md) and [culture](people-culture.md) tell you otherwise ([1 Corinthians 2:2](https://biblehub.com/1_corinthians/2-2.htm)).
 
 Beyond teaching, you and your wife will be openly mentoring everyone in the [group](groups-large.md) while also fostering [a smaller "core" group](groups-small.md).
 
@@ -734,7 +734,7 @@ You can draw from a wide variety of creeds and catechisms for inspiration.
 Churches often have [ritual](habits.md) ceremonies, also called sacraments.
 
 - Almost anything that gives God praise is good, even if it's not specified in the Bible.
-- It's only natural if the church's sacraments will reflect the good parts of the members' original [culture and traditions](culture.md).
+- It's only natural if the church's sacraments will reflect the good parts of the members' original [culture and traditions](people-culture.md).
 - These sacraments may or may not dovetail into the rest of a weekly church service.
 
 ### Greetings
@@ -995,7 +995,7 @@ All Christian tradition older than 20 years is simply how the Church had adopted
 - [The Catholic tradition](history-church.md) is how Europe combined with Christianity after the Roman Empire fell.
 - [The Protestant traditions](https://theologos.site/the-west/) are derived components that mix modern thought with both Catholic tradition and anti-Catholic sentiment.
 - Most modern (and any future) Christian tradition is assembled on a Protestant framework, but with *very* [modern views](trends.md).
-- Your [culture](culture.md) will vary on practicing church, and no church model is ideal because each person [derives meaning](meaning.md) differently.
+- Your [culture](people-culture.md) will vary on practicing church, and no church model is ideal because each person [derives meaning](meaning.md) differently.
 
 * * * * *
 
@@ -1022,7 +1022,7 @@ One combined solution can accommodate *every* member's individual needs:
 3. When sub-leaders are appointed to preach and teach, each group has its own autonomy.
    - If anyone discovers new [ideas](trends.md), *everyone* hears about them, even if they're bad.
    - Leaders are responsible to publicly address their decisions with the entire gathering.
-4. If anyone has a divergent opinion from the group's [culture](culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
+4. If anyone has a divergent opinion from the group's [culture](people-culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
    - This shoudl include sending a significant minority with that person to pursue other unrelated ministries.
 
 * * * * *
@@ -1053,7 +1053,7 @@ Expect [conflicts](conflicts-christian.md) with other Christians.
 Most pastors are territorial, but they sin when they do.
 
 - God appoints each person to a job, and He grants the increase ([1 Corinthians 3:5-9](https://biblehub.com/bsb/1_corinthians/3.htm)).
-- His Church is a vast variety of [cultures](culture.md) and [groups](groups-small.md), and anything you do is merely one of those groups.
+- His Church is a vast variety of [cultures](people-culture.md) and [groups](groups-small.md), and anything you do is merely one of those groups.
 - [Every denomination](history-church.md) is simply the result of [conflicts with other denominations](conflicts-christian.md), and [none of them will last indefinitely](https://theologos.site/millennium/).
 
 ### Organizational hierarchy
@@ -1096,7 +1096,7 @@ There are a few major models for churches built around routine meetings.
 
 The **Traditional** model starts in a house, then transitions to a building.
 
-- Usually minded to a specific [cultural group](culture.md) with a narrow vision for who they'll reach.
+- Usually minded to a specific [cultural group](people-culture.md) with a narrow vision for who they'll reach.
 - Traditional churches often have a strong passion for [evangelism](evangelism.md).
 - It balances resources well, and most people find them familiar.
 - The lack of demographic diversity, however, often fosters complacency.
@@ -1114,12 +1114,12 @@ The **Organic House Church** model focuses on minimalism and removing extra elem
 - Since they usually don't advertise and stay small, most people are unaware of this model.
 - While they attract self-starters who network to find them, they leave most of the Body oblivious.
 - Organic House Churches keep an intimate connection with all the members, so everyone is motivated to serve each other.
-- Unfortunately, the leadership is usually held unaccountable for [sins](morality-sins.md) and the [culture](culture.md) can often turn rebellious against larger churches.
+- Unfortunately, the leadership is usually held unaccountable for [sins](morality-sins.md) and the [culture](people-culture.md) can often turn rebellious against larger churches.
 
 The **Multi-Site/Satellite** model can split and reproduce into a separate campus at any time after reaching specific milestones.
 
 - A network of churches creates an enormous pool of resources the whole string of churches can use.
-- Unfortunately, they're often held together by a leader's personality, which creates a homogenous, fake culture if the plant isn't sufficiently [remixed](mind-creativity.md) in its [destination culture](culture.md).
+- Unfortunately, they're often held together by a leader's personality, which creates a homogenous, fake culture if the plant isn't sufficiently [remixed](mind-creativity.md) in its [destination culture](people-culture.md).
 
 The **Missional Incarnate** model is like the Traditional model, but stays smaller to focus on relationships.
 

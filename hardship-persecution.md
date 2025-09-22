@@ -27,7 +27,7 @@ As much as possible, try to stay alive:
 
 If you have the means, flee the country:
 
-- Your [culture](culture.md) isn't how the entire world lives, and the struggles won't stop until you find peace.
+- Your [culture](people-culture.md) isn't how the entire world lives, and the struggles won't stop until you find peace.
 - While you may feel you're abandoning those you love, nothing says you have to *stay* away from them.
   - Consider your flight as a type of "regrouping" so you can safely extract others from the tyranny.
 

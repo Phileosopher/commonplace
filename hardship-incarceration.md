@@ -80,7 +80,7 @@ When you're placed on parole/probation, you are *not* free to do whatever you wa
 
 If you've spent time incarcerated, you'll likely have trouble with re-entry:
 
-- The [culture](culture.md) outside of prison will be a shock for months.
+- The [culture](people-culture.md) outside of prison will be a shock for months.
   - Do what you can and focus on each day.
   - Take any help you can get, but avoid anything that might *appear* to be illegal or pseudo-legal.
   - If you're on probation or parole, don't even *think* about doing anything that might appear [illegal or barely legal](legal-safety.md).

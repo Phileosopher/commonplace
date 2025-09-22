@@ -5,7 +5,7 @@
 
 Most companies will go through 3 interviews while hiring a tech worker (a software developer or two, and a manager), but larger companies often go through 6 interviews.
 
-- This is an *insane* waste of time, but exists as a [cultural](culture.md) afterbirth of how [computer work requires *constant* re-re-verification](computers-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable with [taking risks](safety-riskmgmt.md).
+- This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](computers-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable with [taking risks](safety-riskmgmt.md).
 
 To save time, ask before interviewing how many interviews you should expect. If the company's representative can't give you a straight answer, you might be applying to a [bad company](jobs-suck-cs.md).
 
@@ -21,7 +21,7 @@ Expect a casual conversation over the phone by an Human Resources representative
 - They'll try to sell you on their company.
 - While it's rare, they'll ask unusual and interesting questions, such as what you're working on or what your values are.
 
-You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [cultural](culture.md) fit or not.
+You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [cultural](people-culture.md) fit or not.
 
 - If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](personality.md) to see if you can be [easily exploited](jobs-suck-cs.md).
 

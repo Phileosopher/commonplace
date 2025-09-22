@@ -78,7 +78,7 @@ You can't [identify](identity.md) with the organization:
 - You don't like spending time with your coworkers.
 - The company doesn't fulfill your life's purposes.
 - You're the victim of verbal abuse, sexual harassment, or other illegal behaviors.
-- The company's [culture](culture.md) has changed toward something you don't like.
+- The company's [culture](people-culture.md) has changed toward something you don't like.
 
 You don't see your future with the company:
 

@@ -29,7 +29,7 @@ A giant portion of what we believe in comes through the [authority](trust.md) we
 
 - If an authority is physically present, we can only trust it as far as [reality](reality.md) and [consequences](results.md) hold up.
 - Holding to the authority of the ideas themselves is a strictly [philosophical](philosophy.md) justification.
-- We end up believing ideas based on other ideas, which usually goes back to one of our [impressions](image.md) or [cultural teaching](culture.md).
+- We end up believing ideas based on other ideas, which usually goes back to one of our [impressions](image.md) or [cultural teaching](people-culture.md).
 
 We can only know a small set of facts without needing *any* belief:
 

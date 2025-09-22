@@ -36,7 +36,7 @@ As they attempt to perform an action, they perform a complex [decisions-based ca
 
 On a large-scale, many projects have lengthy meetings that discuss the size of a logo or the precise location a webpage opens to because absolutely *inane-looking* details can provoke dramatic philosophical distinctions within the user's [story](stories.md).
 
-However, since [cultures](culture.md) change and [technologies](technology.md) improve, a good design at one time can easily become a bad design later.
+However, since [cultures](people-culture.md) change and [technologies](technology.md) improve, a good design at one time can easily become a bad design later.
 
 ## Rules
 
@@ -110,7 +110,7 @@ UX doesn't only apply to visual elements:
 - Many UX designers simply focus on visual elements because it's the most familiar sense most of us use, so sound can become *extremely* annoying or risky when misused or mismanaged.
 - The design should incorporate what happens if the sound settings are lowered or off (e.g., <50% volume) and the possibility that the user will *not* see a visual input (e.g., away from screen).
 
-Users can only draw from their [environment](reality.md) (observations) or [memory](imagination.md) (expectations), so the design should incorporate existing [cultural expectations](culture.md).
+Users can only draw from their [environment](reality.md) (observations) or [memory](imagination.md) (expectations), so the design should incorporate existing [cultural expectations](people-culture.md).
 
 Good design works with (and never fights) the user's natural impulses. The most cathartic experience for a user is when they have an *easier* time using something than they're [accustomed to](habits.md). If people ever feel frustration over a particular product, [there's an untapped market there](entrepreneur-1_why.md).
 

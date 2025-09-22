@@ -115,7 +115,7 @@ Most of your conflicts will come from your extended family, especially when you 
 
 There are a few possible scenarios:
 
-- Both Christian backgrounds: You will likely have [cultural](culture.md) conflicts over denominational differences, but it can all be reconciled in Christ if the people in the conflicts are all legitimate Christians.
+- Both Christian backgrounds: You will likely have [cultural](people-culture.md) conflicts over denominational differences, but it can all be reconciled in Christ if the people in the conflicts are all legitimate Christians.
 - Christian background with non-Christian background: The non-Christian family will likely have *severe* issues with your value systems, so expect pushback from them about pretty much everything, and it may mean that spouse will get excommunicated.
 - Both non-Christian backgrounds: Expect [persecution](hardship-persecution-church.md) from both sides, and don't expect the relationships to maintain themselves for long. Most of the time with them will need to be [well-calculated](https://theologos.site/unnatural-law/) or [evangelically](evangelism.md) motivated, especially if there's any [cult-like indoctrination](culture-cults.md).
 

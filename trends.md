@@ -44,7 +44,7 @@ At first, something is unusual. If it's *really* unusual, it'll often be [taboo]
 
 Typically, the trend starts by not even [*existing*](reality.md) within the [group](groups-large.md), and only a few [brave](mind-feelings-fear.md), [creative](mind-creativity.md), or unconventional people are exploring it. But, nearly everyone is [afraid](mind-feelings-fear.md) to [try it](results.md), outside of people who don't concern themselves with [how they'll appear](image.md), who simply haven't gotten around to trying it yet.
 
-The trend *always* start at the fringe of the group's [understanding](understanding.md). The only people who engage with it are willing to break from that group's [expectations](imagination.md), typically because they're exploring *another* [culture](culture.md).
+The trend *always* start at the fringe of the group's [understanding](understanding.md). The only people who engage with it are willing to break from that group's [expectations](imagination.md), typically because they're exploring *another* [culture](people-culture.md).
 
 APPLICATION: Innovators are often [venerated in stories](stories-storytellers.md) if they succeed. For every innovator given honor, dozens or hundreds of them lived unfashionable, unimportant public lives. To [follow their example](socialrisk.md), keep that in mind to [learn](understanding.md) from their mistakes.
 
@@ -60,12 +60,12 @@ APPLICATION: If you're the architect of an idea, you didn't really "think" it yo
 
 At this point, a few outliers will have the [courage](mind-feelings-fear.md) to [try](results.md) that thing. They're about 2.5% of the group, and almost always fit a few specific archetypes:
 
-- [Young people](maturity.md) who haven't [identified](identity.md) closely with their [culture of origin](culture.md) and want [new things](image.md).
+- [Young people](maturity.md) who haven't [identified](identity.md) closely with their [culture of origin](people-culture.md) and want [new things](image.md).
 - Geeks and nerds who either don't care [how they look](image.md) or are utterly oblivious to it.
 - People trying to break the [rules](rules.md) for fun or who enjoy exploring [uncertain](understanding-certainty.md) things.
 - Mentally unstable people battling [past trauma](hardship-ptsd.md).
 
-Unlike everyone else, these people have often made [habits](habits.md) of breaking [convention](culture.md), and usually explore the thing for fun or to [fight](people-conflicts.md) presently [established](culture.md) things. This unique way of living means their [personalities](personality.md) are completely different from the rest of their [group](groups-small.md).
+Unlike everyone else, these people have often made [habits](habits.md) of breaking [convention](people-culture.md), and usually explore the thing for fun or to [fight](people-conflicts.md) presently [established](people-culture.md) things. This unique way of living means their [personalities](personality.md) are completely different from the rest of their [group](groups-small.md).
 
 While they're *called* "innovators", they're not that innovative because most of their rule-breaking will get them in trouble and *other* people later will reap the brilliance. At most, across their lifetime, they'll probably break 1-2 conventions that become dramatic trends. The rest of their efforts are either too premature or *awful* ideas that never take off.
 
@@ -76,7 +76,7 @@ Large trends start with innovators who were extremely [creative](mind-creativity
 APPLICATION: To be a major influencer in pretty much any domain, you must be lucky enough to have the following:
 
 - Be born with a high-Conscientiousness and high-Openness [personality](personality.md) to [drive hard](success-4_routine.md) and [take risks](socialrisk.md)
-- The fortune to live in a [technologically](technology.md) strong and [demographically](culture.md) varied [large social group](groups-large.md)
+- The fortune to live in a [technologically](technology.md) strong and [demographically](people-culture.md) varied [large social group](groups-large.md)
 - Be born about 20-40 years before a major new innovation
 - Have the [wisdom](understanding.md) to make the right [decisions](decisions.md) at the time of a new trend, without sacrificing all your resources on an ultimately failed trend
 - If it's a physically or mentally demanding role to lead the adoption, you must also have certain genetic dispositions as well
@@ -103,7 +103,7 @@ An early adopter successfully advancing a trend is unlikely. However, they're cl
 
 Most of the time, [looking back](stories-storytellers.md), trends are attributed more to early adopters than innovators. The name (which is usually from the early adopter) becomes a [symbol](symbols.md) for the thing that [unfairly](morality-justice.md) disregards innovators who actually *started* the trend or the previous trends that warmed everyone up to it.
 
-In [groups](groups-member.md), most trends die with early adopters, usually revisiting at least a few generations later with a different [culture](culture.md) of the same [group](groups-small.md). If enough people [identified](identity.md) with the thing once it died, they become a separate [niche group](groups-small.md) that's more easily [swayed](influence.md) toward future trends similar to it.
+In [groups](groups-member.md), most trends die with early adopters, usually revisiting at least a few generations later with a different [culture](people-culture.md) of the same [group](groups-small.md). If enough people [identified](identity.md) with the thing once it died, they become a separate [niche group](groups-small.md) that's more easily [swayed](influence.md) toward future trends similar to it.
 
 APPLICATION: The most lucrative time to invest in something is when the innovators are playing with it. But, the safest time to legitimately profit off something is to follow what the early adopters are doing. The yields for following an innovator over an early adopter are *insanely* higher and *way* more [unpredictable](imagination.md), and if 30% of the people already use something you're going to get a [modest and safe](safety.md) return on your efforts.
 
@@ -246,7 +246,7 @@ If anyone ever [creates](creations.md) with an old trend without remixing it, th
 
 ### H. De-contextualized/cycle
 
-If the public has become fully aware of something, it will keep itself as part of the [culture's tradition](culture.md). It'll show up in small ways, in a variety of formats but mostly through [small talk](people-conversation.md), often as a reference to the past:
+If the public has become fully aware of something, it will keep itself as part of the [culture's tradition](people-culture.md). It'll show up in small ways, in a variety of formats but mostly through [small talk](people-conversation.md), often as a reference to the past:
 
 - A [nostalgic](image.md) remembrance of a different time.
 - An accounted [history](stories-storytellers.md) of the right way to [live](goodlife.md) or [do](results.md).
@@ -256,7 +256,7 @@ The oral tradition of sharing past trends keeps the trend alive, but as a "soft"
 
 The tradition of re-telling the [story](stories.md) [empowers](power.md) that trend to begin again in the future as a cycle with another generation. Without it, that new generation will rediscover it and the trend will start again as if it were [new](image.md).
 
-As time persists, the trend will lose all sense of its original meaning. It'll get smashed together with other fashions of the time. Since our memory of [history](stories-storytellers.md) is [fuzzy](legacy.md), it'll lose progressively more context until it becomes the long-distant echoes of a mysterious practice. The [youth](maturity.md) will see it as a mark of human achievement or shame, depending on how the [culture](culture.md) values its elderly.
+As time persists, the trend will lose all sense of its original meaning. It'll get smashed together with other fashions of the time. Since our memory of [history](stories-storytellers.md) is [fuzzy](legacy.md), it'll lose progressively more context until it becomes the long-distant echoes of a mysterious practice. The [youth](maturity.md) will see it as a mark of human achievement or shame, depending on how the [culture](people-culture.md) values its elderly.
 
 Furthrr, older things are usually disregarded by the [youth](maturity.md), even when they're better or not new, and is a major reason why the [classics](creations.md) are often overlooked in every media.
 
@@ -309,7 +309,7 @@ The [value system](values.md) of a group determines how quickly they'll adopt ne
 
 - Governments never need to move quickly unless they're in a [war](people-conflicts-war.md), so they tend to drag at adopting in any other field.
 - Healthcare has many life-and-death situations where they can be [blamed](people-contracts.md) for killing people with [uncertain](understanding-certainty.md) things. Thus, it's in their best interests to *always* adopt slowly, even if it kills people who couldn't receive the new life-saving medicine or procedure.
-- [Education](education.md)-based groups are massive and have an aversion to large-scale changes, largely from [how long they've been around](culture.md) and their [attitude about new things](mgmt-badsystems.md).
+- [Education](education.md)-based groups are massive and have an aversion to large-scale changes, largely from [how long they've been around](people-culture.md) and their [attitude about new things](mgmt-badsystems.md).
 
 ### Slowing a trend's adoption
 
@@ -319,7 +319,7 @@ If a trend wields a new [type of power](power-types.md) that would make an older
 - Big Ice tried to stop refrigerators.
 - The Catholic Church tried to stop the propagation of Bibles that spoke against pay-to-play sin forgiveness, then tried to stop the Protestants who believed it.
 
-The more [taboo](morality-taboo.md) the trend is, the longer it'll take for everyone to adopt it. But, if it *does* get adopted, it'll create *many* more [conflicts](people-conflicts.md) across society as it becomes a [social standard](culture.md).
+The more [taboo](morality-taboo.md) the trend is, the longer it'll take for everyone to adopt it. But, if it *does* get adopted, it'll create *many* more [conflicts](people-conflicts.md) across society as it becomes a [social standard](people-culture.md).
 
 There are a few ways to slow a trend, but nothing that can fully stop it:
 
@@ -374,9 +374,9 @@ APPLICATION: When we hear of [political movements](politics-conservativeliberal.
 
 This pendulum effect means [moralizing](morality.md) non-moral things can be dangerous to anyone's sanity, and [exiling](morality-taboo.md) heretics often comes back around later.
 
-APPLICATION: We can't fairly judge people from the distant past by present fashions. The embodiment of their [culture](culture.md) was so heavily removed from ours from [technology](technology.md), [science](science.md), [religion](religion.md) and time that we must learn to think the way *they* thought at the time to discover why their innovators were so [influential](power-influence.md).
+APPLICATION: We can't fairly judge people from the distant past by present fashions. The embodiment of their [culture](people-culture.md) was so heavily removed from ours from [technology](technology.md), [science](science.md), [religion](religion.md) and time that we must learn to think the way *they* thought at the time to discover why their innovators were so [influential](power-influence.md).
 
-The speed the pendulum moves is determined heavily by [universal human characteristics](humanity-universals.md), augmented by the longest-standing [cultural norms](culture.md) and [technological developments](technology.md). Any deviation from those universals will quickly revert back.
+The speed the pendulum moves is determined heavily by [universal human characteristics](humanity-universals.md), augmented by the longest-standing [cultural norms](people-culture.md) and [technological developments](technology.md). Any deviation from those universals will quickly revert back.
 
 Also, when the pendulum sits in the trends of [individual efforts](purpose.md), these cycles more articulately represent themselves into a unique cycle pattern of "resistance":
 
@@ -389,7 +389,7 @@ APPLICATION: Everything has its season, and watching for the timing of a season 
 
 Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](leftism.md)):
 
-1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries.md)).
+1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries.md)).
 2. No slow exposure to increasing challenges sabotages the means of [accomplishing](purpose.md) (e.g., burning/exiling heretics, insufficient [resources](power-types.md)), and growth that's too slow won't make the [impact](results.md) it could have otherwise (since we all must contend with our [eventual end](legacy.md)).
 3. Without a full-intensity resistance at the end the [story](stories.md) never becomes a [legend](stories-storytellers.md) to inspire others later without [lying about it](image-distortion.md) and can often leave [doubt](unknown.md) within the participants' mind that can sabotage longevity (i.e., "did I really reach my peak?"). But, if the resistance goes so heavily that it destroys someone, it becomes a crushing [story](stories.md) of defeat and despair (e.g., a crushed [political resistance](people-conflicts-war.md), cultural [taboos](morality-taboo.md) based on others who came before).
 
@@ -413,9 +413,9 @@ Part of the existence of cycles comes through [aging](maturity.md):
 
 APPLICATION: Beyond [technology](technology.md), most of society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](image.md), and the [youth](maturity.md) *always* think a trend is new.
 
-APPLICATION: If you believe something people had believed 100 years ago and still do, you'll likely be right 100 years from now. Those things are likely [universal to humanity](humanity-universals.md), and transcend [culture](culture.md). The same generally applies for wrong things as well.
+APPLICATION: If you believe something people had believed 100 years ago and still do, you'll likely be right 100 years from now. Those things are likely [universal to humanity](humanity-universals.md), and transcend [culture](people-culture.md). The same generally applies for wrong things as well.
 
-Generally, cycles never break, and are critical to [understand](understanding.md) the long-term way to [live well](goodlife.md) in that [culture](culture.md).
+Generally, cycles never break, and are critical to [understand](understanding.md) the long-term way to [live well](goodlife.md) in that [culture](people-culture.md).
 
 The speed of a trend is directly connected to how fast [information](information.md) travels. Therefore, within [the information age](history-eras.md), trends will adopt faster than before.
 

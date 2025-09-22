@@ -107,7 +107,7 @@ At their core, *everyone* wants to be important:
 - They *always* give credit to others for their accomplishments and ignore their own, often praising that person to their authority figures (e.g., parents, bosses).
 - When in meetings, they honor the speaker even when the meeting is a waste of time.
 
-While there are many relative aspects to charm from [culture](culture.md), there are a few universals:
+While there are many relative aspects to charm from [culture](people-culture.md), there are a few universals:
 
 - People are interested in hearing what they're saying.
 - People want to see more of that person's life.

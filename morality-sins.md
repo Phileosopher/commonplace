@@ -40,7 +40,7 @@ If you confess your sins and ask for forgiveness, [Jesus will forgive you](jesus
   - [1 John 1:7](https://biblehub.com/1_john/1-7.htm)
 - However, despite our best efforts, we will never entirely remove sins from this life.
   - [1 John 1:8](https://biblehub.com/1_john/1-8.htm)
-- In fact, as we understand ourselves more, we gain *more* awareness of the evil [habits](habits.md) we've [culturally normalized](culture.md)!
+- In fact, as we understand ourselves more, we gain *more* awareness of the evil [habits](habits.md) we've [culturally normalized](people-culture.md)!
 
 To avoid sin, we must draw near to God and stay far away from even thinking of sin.
 
@@ -62,7 +62,7 @@ God indicates [hundreds of sins in Scripture that sever our relationship with Hi
 
 ## Some Hebrew laws don't transfer precisely to now
 
-God designed the Law within a historical context to separate the [culture](culture.md) of His people for the purpose of holiness.
+God designed the Law within a historical context to separate the [culture](people-culture.md) of His people for the purpose of holiness.
 
 - [1 Corinthians 6:11](https://biblehub.com/1_corinthians/6-11.htm)
 - For example, God forbade getting tattoos and shaving the head because they were ancient Egyptian death cult practices.

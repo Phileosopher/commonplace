@@ -37,7 +37,7 @@ Bad systems arise from relatively unimportant details at first:
 - Some of the organization's [rules](rules.md) are irrelevant and nobody updated it.
 - The organization must respond to other outside groups for many of their [decisions](decisions.md).
 
-As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
+As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](people-culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
 
 Once people know they're not [delusional](reality.md), they're more willing to break the group's [rules](rules.md). Eventually, the entire organization suffers collective decay as [motivations](purpose.md) toward self-interest override the motivation for any [collective good](morality.md).
 
@@ -59,7 +59,7 @@ Often, bad leaders can quickly emerge in a good system:
 
 - Inheriting the system from someone else, but without any skills or [ability](understanding.md) to lead.
 - Maintaining well-enough for a long time, but a [traumatic experience](hardship-ptsd.md) in their [personal life](people-family.md) destroys their ability to lead.
-- Appointed through legitimate competence in a different field, but unable to [perform](results.md) as a leader. The [culture](culture.md) will then forbid them from demotion again ([Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)).
+- Appointed through legitimate competence in a different field, but unable to [perform](results.md) as a leader. The [culture](people-culture.md) will then forbid them from demotion again ([Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)).
 - Using raw [power](power.md), such as military strength, to seize control, then not delegating to capable people once they've acquired it.
 - Subtly using subversive tactics like [bribery, blackmail, extortion, or murder](morality.md) to direct the flow of [power](power.md) to themselves.
 - Winning people by [influence](influence.md) and a [positive image](image.md), but unable to fulfill [stated promises](people-contracts.md). This often comes from [distorting their image](image-distortion.md) to fully blame the incumbent and promising to be the solution.
@@ -117,7 +117,7 @@ Other times, the leaders of a good system will try to seize more power beyond th
 
 Occasionally, a leader will forget the [values](values.md) that gave them power and will [decide](decisions.md) against those values. This will result in the group breaking from that leader's [purposes](purpose.md). Then, another leader will arise to replace the void, which can trigger the necessary changes to fix the dysfunction.
 
-However, leadership shifts will *very* rarely fix anything. The people who have the means to assume power tend to reinforce the [culture](culture.md) of the existing system, and will therefore reinforce most of the bad decisions of the predecessor. The only changes will be relatively minor, but they may simply swap out extremes (e.g., harshness replaced by indolence).
+However, leadership shifts will *very* rarely fix anything. The people who have the means to assume power tend to reinforce the [culture](people-culture.md) of the existing system, and will therefore reinforce most of the bad decisions of the predecessor. The only changes will be relatively minor, but they may simply swap out extremes (e.g., harshness replaced by indolence).
 
 If the organization persists to a [successor](legacy.md), the new leadership will often consist of a unique class of several groups of people:
 
@@ -129,7 +129,7 @@ These leaders will likely have *no* aptitude or [ethics](morality.md) in compari
 
 ## Adapting members
 
-Most of the time a bad system has [culturally](culture.md) normalized bad [boundaries](people-boundaries.md), and often punishes people who don't honor those bad boundaries.
+Most of the time a bad system has [culturally](people-culture.md) normalized bad [boundaries](people-boundaries.md), and often punishes people who don't honor those bad boundaries.
 
 Most people in a bad system are at least somewhat [creative](mind-creativity.md), even if strictly from boredom. If they're [low-conscientiousness](personality.md) enough to not rise into leadership or get ejected from the group, they'll conform to their environment:
 
@@ -207,7 +207,7 @@ If a large business has been expanding their operations for a long time, they'll
 
 Often, a bad system will give incredibly generous incentives to the [smaller groups' leaders](groups-small.md) for them to step down from their leadership role ("golden parachutes").
 
-In a merger or acquisition, a significantly larger group will merge and absorb the smaller group's [culture](culture.md) and names, but the smaller group will only exist as a name after that point. The original [spirit](values.md) of the group will be gone unless the larger group treats that smaller group as its own autonomous unit.
+In a merger or acquisition, a significantly larger group will merge and absorb the smaller group's [culture](people-culture.md) and names, but the smaller group will only exist as a name after that point. The original [spirit](values.md) of the group will be gone unless the larger group treats that smaller group as its own autonomous unit.
 
 At some point, it'll make tremendous [marketing](marketing.md) sense to present a component of the organization with a separate [public image](image.md). Often, they can have such effective [marketers](stories-storytellers.md) that the public won't even *realize* it's the same organization!
 
@@ -297,7 +297,7 @@ Often, they'll be [portrayed](image.md) as the [martyrs of the trend](trends.md)
 
 Smaller groups *do* have [options to fight back](people-conflicts-war.md), but require [creative](mind-creativity.md) and unconventional [risks](socialrisk.md) that often carry [unknown dangers](unknown.md), which typically can only succeed *outside* that large group's [influence](influence.md). And, even without direct control, large enough monopolies can usually find a way to make almost any activity profit them or prevent smaller opponents from succeeding.
 
-A select few individuals can take a large-scale [social risk](socialrisk.md) against the bad system's purposes. By answering one of the bad system's [stated](image.md) [purposes](purpose.md) more effectively using recently developed [technology](technology.md) or [cross-cultural](culture.md) [understanding](understanding.md), that person can start a [trend](trends.md) that can unseat the current leaders' [power](power.md):
+A select few individuals can take a large-scale [social risk](socialrisk.md) against the bad system's purposes. By answering one of the bad system's [stated](image.md) [purposes](purpose.md) more effectively using recently developed [technology](technology.md) or [cross-cultural](people-culture.md) [understanding](understanding.md), that person can start a [trend](trends.md) that can unseat the current leaders' [power](power.md):
 
 - North American colonists [fought](people-conflicts-war.md) and won against the British Empire by using Native Americans' guerilla warfare tactics.
 - [Microsoft](computers-os-windows.md) sold a non-exclusive license to IBM, meaning other hardware companies could sell Microsoft software on cheaper hardware.
@@ -322,7 +322,7 @@ Several situations can, however, prolong or enhance a monopoly's presence:
 The only solution to fixing a bad system from the inside is revolutionary [change](people-changes.md) on every level:
 
 - Against [human nature](humanity-universals.md), the system dramatically sheds a huge chunk of its [power](power.md), giving it more control over its smaller remaining base.
-- New management that throws out [convention](habits.md) and large portions of the organization's established [culture](culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](understanding.md) and [influential](influence.md) [values](values.md).
+- New management that throws out [convention](habits.md) and large portions of the organization's established [culture](people-culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](understanding.md) and [influential](influence.md) [values](values.md).
 - Massive reorganization of members and roles, with a significant portion of the group getting promoted or removed from the group.
 - Adoption of a key [trend](trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](image-distortion.md) virtue (e.g., [leftism](leftism.md)).
 - Complete destruction of the group, often by removing the massive central authority and dividing the group into smaller components.
@@ -358,7 +358,7 @@ A bad system can become permanently hampered, which opens the path for other gro
 There's no easy way to replace a bad system, either:
 
 1. Present, chronic issues use specific resources that bad systems capitalize on. The only way to resolve the problem requires [creative](mind-creativity.md), new solutions with resources that aren't technically [useful](purpose.md) yet.
-2. In civilized society, people are typically [habituated](habits.md) to the present system by the time they're aware it needs fixing. The entire culture around a specific [purpose](purpose.md) often becomes a toxic, [incompetent](purpose.md), or [evil](morality-evil.md) [culture](culture.md).
+2. In civilized society, people are typically [habituated](habits.md) to the present system by the time they're aware it needs fixing. The entire culture around a specific [purpose](purpose.md) often becomes a toxic, [incompetent](purpose.md), or [evil](morality-evil.md) [culture](people-culture.md).
 3. Frequently, [fear](mind-feelings-fear.md) of the [unknown](unknown.md) keeps people tethered to a bad system, a bit like an abusive [family](people-family.md) relationship.
 
 A bad system will often be replaced by a much more efficient, newer system that doesn't have quite as much [bureaucracy](bureaucracy.md) or [corruption](morality-evil.md). However, the [personalities](personality.md) of *that* system's leaders may be more ruthless or extreme.
@@ -396,7 +396,7 @@ One of the most powerful forms of destroying a bad system comes through mandator
 
 Transparency is technically impossible to completely attain, since some information must be private to avoid harming [reputation](image.md). However, transparency is an absolute concept in comparison with other entities' openness of information. There are many [creative](mind-creativity.md) ways to state the blatant truth without using names.
 
-It takes years to develop a [cultural](culture.md) expectation of transparency, but it guarantees *all* future systems will be better for it.
+It takes years to develop a [cultural](people-culture.md) expectation of transparency, but it guarantees *all* future systems will be better for it.
 
 * * * * *
 
@@ -444,7 +444,7 @@ The only reason people use Verizon, Google, Facebook, Ford, and Coca-Cola right 
 
 Monopolies are inevitable as long as people desire [power](power.md). Antitrust [laws](rules.md) only work when they're too simple to abuse and enforced by governments, which is *another* potentially bad system that checks the first bad system. Typically, [technology's](technology.md) complexity makes regulating vertical control absolutely impossible. And, because of [how we understand reality](mind-bias.md), we can't easily regulate ideas (e.g., [misinformation](stories-storytellers.md), "fake news").
 
-Underused resources are just as critical to fixing a bad system as unused ones. Often, people need [creativity](mind-creativity.md) that only comes from leaving their [culture](culture.md) to find things [purposed](purpose.md) for one thing that can accomplish another.
+Underused resources are just as critical to fixing a bad system as unused ones. Often, people need [creativity](mind-creativity.md) that only comes from leaving their [culture](people-culture.md) to find things [purposed](purpose.md) for one thing that can accomplish another.
 
 We don't like oppressive dictators, but there are *always* worse alternatives. Consider who's dethroning someone from [power](power.md) before endorsing it, especially with extreme groups like [hard leftism](leftism.md).
 
@@ -465,4 +465,4 @@ Every large, bad system will eventually collapse. They will be replaced by anoth
 
 People slowly permit [tyranny](power-types.md) into their lives when they accept what the leadership does. Since [power-hungry](power-types.md) people don't tend to demarcate a stopping point, that slow [consent](people-contracts.md) will eventually go too far, but often at the cost of many lives and many destroyed aspects of [civilization](jobs-specialization.md).
 
-The greatness of a nation is its own [trend](trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](imagination.md) they're migrating their [culture](culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.
+The greatness of a nation is its own [trend](trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](imagination.md) they're migrating their [culture](people-culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.

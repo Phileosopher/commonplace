@@ -3,7 +3,7 @@
 
 ## Regional differences
 
-[Culture](culture.md) dominates how we behave relative to others, but population density has a "soft" effect because of specialization on the general disposition of a region.
+[Culture](people-culture.md) dominates how we behave relative to others, but population density has a "soft" effect because of specialization on the general disposition of a region.
 
 Rural
 
@@ -33,7 +33,7 @@ Suburban
 
 Our preference of population density comes from how much we value [privacy versus convenience](safety.md). Most of these preferences express as [rituals](habits.md) involving physical and emotional distance.
 
-The [cultural](culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
+The [cultural](people-culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
 
 APPLICATION: The three population density groups have irreconcilable differences in [value](values.md) systems:
 
@@ -44,7 +44,7 @@ APPLICATION: The three population density groups have irreconcilable differences
 
 Generally, [trends](trends.md) move outward from denser areas. In a well-connected society with lots of [communication](people-conversation.md) [technology](technology.md), each city's specialization will house the leadership of specific [multi-nation groups](groups-large.md).
 
-The most [legitimately powerful](power-types.md) people live in or near the capital city of a country, so the [culture](culture.md) (and, when applicable, the selection) of that capital city has a *profound* impact on the rest of the nation's [trends](trends.md).
+The most [legitimately powerful](power-types.md) people live in or near the capital city of a country, so the [culture](people-culture.md) (and, when applicable, the selection) of that capital city has a *profound* impact on the rest of the nation's [trends](trends.md).
 
 Frequently, [trends](trends.md) will move across many regions at once, often jumping between them as rapidly as leaders become aware of and adopt them. In a sense, those trends will give [power](power-types.md) to the original [creator](mind-creativity.md) of the trend, which will ripple outward to that person's specialized group and the surrounding people that the creator contacts.
 

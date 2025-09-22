@@ -1,7 +1,7 @@
 
 # Sports summarized
 
-Technically, *anything* involving two people competing can become a sport. However, many [cultures](culture.md) have adopted *watching* specific sports as a widespread recreational activity.
+Technically, *anything* involving two people competing can become a sport. However, many [cultures](people-culture.md) have adopted *watching* specific sports as a widespread recreational activity.
 
 For that reason, it helps to penetrate that sport (and get along with that culture) simply by understanding the base rules of that nation's favorite sport.
 

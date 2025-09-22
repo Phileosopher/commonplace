@@ -7,7 +7,7 @@ Even though they share certain values across their [group](groups-large.md), sma
 
 No matter how much anyone tries to [equalize](leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](image.md) to the majority to be the most competent at those purposes.
 
-In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](mind-feelings-happiness-stress.md) attitude over something that happened in the past.
+In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](people-culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](mind-feelings-happiness-stress.md) attitude over something that happened in the past.
 
 People find shared interest over relatively unimportant things. It protects them from cultural "outsiders" who could threaten their [power](power.md), but also operates as the beginning of [meaning](meaning.md) inside a group.
 
@@ -55,7 +55,7 @@ Most of the middle class concerns itself with climbing into the upper class or m
 
 Parents of the middle class tend to raise their children to out-succeed them and potentially climb to the upper class if at all possible (often for self-interested reasons), especially if that parent had risen from a lower social status themselves.
 
-Except for [love](people-love.md) towards other people, they're not that concerned with the lower class, and many of them are too busy conforming to the [cultural requirements](culture.md) for climbing the social ladder to care about too much else.
+Except for [love](people-love.md) towards other people, they're not that concerned with the lower class, and many of them are too busy conforming to the [cultural requirements](people-culture.md) for climbing the social ladder to care about too much else.
 
 The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](decisions.md) that steer society at large.
 
@@ -78,7 +78,7 @@ The upper class *never* has to worry about what they require. Often, they'll spe
 
 While they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts.md) with other people to keep their power. They work hard to [tweak their image](image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
 
-Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](culture.md) and avoid shaming their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
+Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](people-culture.md) and avoid shaming their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
 
 Morality is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](results.md) for what they do.
 
@@ -88,7 +88,7 @@ For this reason, the upper class isn't too concerned with the lower and middle c
 
 Because of how people use power in each class, migrating back-and-forth across them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).
 
-Beyond the standard cultural adaptations like specific [language](language.md) and [rituals](culture.md), there are a few others.
+Beyond the standard cultural adaptations like specific [language](language.md) and [rituals](people-culture.md), there are a few others.
 
 Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](imagination.md) their social status typically expresses itself in how people react to it.
 
@@ -100,7 +100,7 @@ Because of the difficulty of transitioning upward in social classes, most people
 
 Most people moving *down* a social class are permanent outsiders because they don't have the [intuition](mind-feelings.md) and [creativity](mind-creativity.md) the lower classes had to develop to survive.
 
-Unless someone is a [cross-cultural](culture.md) [missionary](religion.md) or raised in a different culture than their [family](people-family.md), almost nobody *ever* [voluntarily](purpose.md) goes down a social class, but people always seem to want to climb that ladder.
+Unless someone is a [cross-cultural](people-culture.md) [missionary](religion.md) or raised in a different culture than their [family](people-family.md), almost nobody *ever* [voluntarily](purpose.md) goes down a social class, but people always seem to want to climb that ladder.
 
 APPLICATION: The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once, mixed with enough wealthy people facing the logical [consequences](results.md) of their bad [decisions](decisions.md).
 
@@ -112,7 +112,7 @@ There is an endless conflict over power between the classes:
 - The middle class wants to become the upper class, and will often be ready to make [dramatic social risks](socialrisk.md) to that end.
 - The underclass is concerned with survival, but would like a chance to become at least the middle class, but often without the [required risks](socialrisk.md).
 
-APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
+APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](people-culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
 
 Someone in the upper class will frequently try to overthrow someone else in the upper class. To make this happen, they will engage in a [large-scale conflict](people-conflicts-war.md).
 
@@ -122,7 +122,7 @@ To recruit people for their purposes, upper-class people employ various methods:
 - They'll promise the middle class will become the upper class.
 - They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](leftism.md) angle involved.
 
-APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](culture.md) treatment.
+APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](people-culture.md) treatment.
 
 Generally, they'll also appeal to [specific political values](politics-conservativeliberal.md) that are most [fashionable](trends.md) among the public.
 
