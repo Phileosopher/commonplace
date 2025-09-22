@@ -17,6 +17,8 @@ We typically inherit our social class from our [family](people-family.md). While
 
 Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](image.md), [gender](gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war.md).
 
+APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
+
 Depending on the definition of each class and [economic freedoms](economics.md) of the group, there's a "soft" [statistical](imagination.md) range of three major classes:
 
 1. Underclass - 40-94%
@@ -24,6 +26,8 @@ Depending on the definition of each class and [economic freedoms](economics.md) 
 3. Upper class - usually <1%, but can sometimes be up to 10-15%
 
 Historically, the middle class has been a comparatively small support system for the middle class, but [modern society](https://gainedin.site/here/) has shifted the middle class to represent a large, near-majority of society through endless [specializations](jobs-specialization.md).
+
+APPLICATION: The effort connected to the social classes depends heavily on how much [wealth](power-types.md) a [society](groups-large.md) has. In poor societies, the people who work hardest are the lower class because they need every bit they have to survive, while the wealthy will splurge on luxuries. In wealthy societies, the people who work hardest are the middle class because they must exploit every advantage they can to outpace others' wealth, while the poor will [buy dumb things](money-1_why.md) that fritter away any chance at acquiring wealth.
 
 ### Underclass
 
@@ -53,7 +57,11 @@ Parents of the middle class tend to raise their children to out-succeed them and
 
 Except for [love](people-love.md) towards other people, they're not that concerned with the lower class, and many of them are too busy conforming to the [cultural requirements](culture.md) for climbing the social ladder to care about too much else.
 
-The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that they can't [plan for the future](imagination.md).
+The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](decisions.md) that steer society at large.
+
+APPLICATION: The underclass requires an [attainable means to survive](hardship-poverty.md). But, beyond that, provoking the poor to be motivated to become independently middle-class is *far* more effective at fixing their mindset (and builds *much* more [meaning](meaning.md)) than giving more things to the poor beyond the basics.
+
+APPLICATION: Our greatest expression of ourselves comes through being middle-class. It gives us enough wealth to discover what we want to do (with the added bonus of financial constraints that incentivize [creativity](mind-creativity.md)), but not enough to corrupt us beyond moral redemption. With very little wealth, we never move beyond survival, and with too much wealth we start becoming antisocial.
 
 ### Upper class
 
@@ -94,6 +102,8 @@ Most people moving *down* a social class are permanent outsiders because they do
 
 Unless someone is a [cross-cultural](culture.md) [missionary](religion.md) or raised in a different culture than their [family](people-family.md), almost nobody *ever* [voluntarily](purpose.md) goes down a social class, but people always seem to want to climb that ladder.
 
+APPLICATION: The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once, mixed with enough wealthy people facing the logical [consequences](results.md) of their bad [decisions](decisions.md).
+
 ## Conflicts
 
 There is an endless conflict over power between the classes:
@@ -101,6 +111,8 @@ There is an endless conflict over power between the classes:
 - The upper class wants to keep their power.
 - The middle class wants to become the upper class, and will often be ready to make [dramatic social risks](socialrisk.md) to that end.
 - The underclass is concerned with survival, but would like a chance to become at least the middle class, but often without the [required risks](socialrisk.md).
+
+APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
 
 Someone in the upper class will frequently try to overthrow someone else in the upper class. To make this happen, they will engage in a [large-scale conflict](people-conflicts-war.md).
 
@@ -110,30 +122,46 @@ To recruit people for their purposes, upper-class people employ various methods:
 - They'll promise the middle class will become the upper class.
 - They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](leftism.md) angle involved.
 
+APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](culture.md) treatment.
+
 Generally, they'll also appeal to [specific political values](politics-conservativeliberal.md) that are most [fashionable](trends.md) among the public.
 
 At the end of the conflict, though, nothing [really](reality.md) changes except that a few upper-class people have changed roles. Often, if the new leadership was more [evil](morality-evil.md), everyone loses some of their [freedoms](morality-justice.md).
 
----
+APPLICATION: We only make decisions as part of a social class as far as we [identify](identity.md) with our situation. We can frequently [appear](image.md) as a different class, and there is sometimes [wisdom](understanding.md) in appearing to be a lower class than we are.
 
-## Application
+APPLICATION: The social expectations and use of things vary heavily by each class:
 
-We only make decisions as part of a social class as far as we [identify](identity.md) with our situation. We can frequently [appear](image.md) as a different class, and there is sometimes [wisdom](understanding.md) in appearing to be a lower class than we are.
-
-There's no reason to [feel](mind-feelings.md) [shame](image.md) for being in a particular social class, despite any [insistence to the contrary](leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
-
-There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
-
-The effort connected to the social classes depends heavily on how much [wealth](power-types.md) a [society](groups-large.md) has. In poor societies, the people who work hardest are the lower class because they need every bit they have to survive, while the wealthy will splurge on luxuries. In wealthy societies, the people who work hardest are the middle class because they must exploit every advantage they can to outpace others' wealth, while the poor will [buy dumb things](money-1_why.md) that fritter away any chance at acquiring wealth.
-
-The underclass requires an [attainable means to survive](hardship-poverty.md). But, beyond that, provoking the poor to be motivated to become independently middle-class is *far* more effective at fixing their mindset (and builds *much* more [meaning](meaning.md)) than giving more things to the poor beyond the basics.
-
-Our greatest expression of ourselves comes through being middle-class. It gives us enough wealth to discover what we want to do, but not enough to corrupt us beyond moral redemption. With very little wealth, we never move beyond survival, and with too much wealth we start becoming antisocial.
-
-A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](culture.md) treatment.
-
-Since they're concerned with their day-to-day activities like the underclass, but have enough [power](power-types.md) that they don't need to rely as heavily on people wealthier than them, the middle class is the great stabilizer of [civilization](jobs-spcialization.md).
-
-The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once.
-
-The social expectations vary by each class. The underclass values honesty, and sometimes respect. The middle class values polite behavior, and sometimes honesty. The upper class values both respect and polite behavior.
+- Underclass is preoccupied with handling [hardships](hardship.md) and emphasizing [relationships with others](people-friends.md):
+  - [Money](money-1_why.md) is to be spent (living paycheck-to-paycheck).
+  - The best [personality](personality.md) is within a [sense of humor](humor.md) (High Openness + Extraversion).
+  - The social emphasis is on inclusion (to stick together through harship).
+  - The [food](cooking.md) is focused on more quantity.
+  - [Time](datetime.md) is about living in the moment.
+  - [Education](education.md) is an abstract and largely [useless](purpose.md) thing.
+  - [Language](language.md) is a casual codex of information.
+  - [Family structure](people-family.md) is matriarchal (from [mothers](gender.md) being forced to work *and* take care of children).
+  - Destiny is defined by fate and things that can't happen.
+  - The social standards prioritize honesty, and sometimes respect.
+- Middle class is about capitalizing on [success](success-1_why.md) and achievement:
+  - Money is to be managed (living on prior paychecks).
+  - The best personality is ambitious (High Conscientiousness).
+  - The social emphasis is on self-sufficiency.
+  - The food is focused on quality (for [health reasons](body-4_health.md))
+  - Time is about focusing on the future.
+  - Education is focused on success and money.
+  - Language is a formal mechanism for [negotiation](people-conflicts-negotiation.md).
+  - Family structure is patriarchal (from fathers earning more money).
+  - Destiny is defined by [decisions](decisions.md) we make.
+  - The social standards prioritize polite behavior, and sometimes honesty.
+- Wealthy is about maintaining and growing [power of all forms](power-types.md):
+  - Money is to be [invested](money-investing.md).
+  - The best personality is through [connections](people-friends.md) (to make the largest social network).
+  - The social emphasis is on exclusion (to protect wealth).
+  - The food is focused on presentation (for [reputation](image.md) reasons).
+  - Time is about preserving [tradition](habits.md).
+  - Education is focused on maintaining connections.
+  - Language is a formal mechanism for networking with others.
+  - Family structure is from whichever parent has the money.
+  - Destiny is defined by [expectations](imagination.md) of what can happen.
+  - The social standards prioritize both [values](values.md) and polite behavior.
