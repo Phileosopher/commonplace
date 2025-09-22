@@ -7,7 +7,66 @@ Our minds are wired to process stories:
 - Good [mnemonics](mind-memory.md) build stories out of perceptions and expectations.
 - We form stories out of [images](image.md) that condense into [symbols](symbols.md) which represent [feelings and sensations](mind-feelings.md).
 
+APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
+
+Different people (e.g., [social classes](classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
+
 Each story has a beginning, middle, and an end. The order is critical to how we [understand](understanding.md) that story and the [values](values.md) attached to it.
+
+APPLICATION: A story is relatively simple to [make](mind-creativity.md) and [understand](understanding.md) if you can attach it to your [feelings](mind-feelings.md):
+
+1. Character
+2. Needs
+3. To Go
+4. Searches
+5. Finds
+6. Takes
+7. Returns
+8. And Changes
+
+The scope of things that qualify as stories is vast. There's literally no limit to its size, length, or [medium](creations.md).
+
+- A few seconds or a single perception:
+  - Someone says something and the other responds.
+  - A piece of trivia or small [fact](reality.md).
+  - "[For sale, baby shoes, never worn.](symbols.md)"
+  - A painting.
+  - A round of a small game.
+  - A jingle of a song.
+- Combine the events together to create a short story:
+  - Verbal [exchange](people-conversation.md) among people.
+  - Short story or novella.
+  - Chapter of a textbook or book.
+  - Website landing page or internet article.
+  - Short videos.
+  - An episode of a TV show.
+  - Independently designed electronic game or board game.
+  - Songs.
+  - A sales pitch.
+- Combine small events into a larger picture or spanning a few days:
+  - An event, with its repercussions and aftermath.
+  - A website or large essay like this one.
+  - Movies.
+  - A song album.
+  - Popular paperback novels.
+  - AAA games.
+- Attach the large images into a [trend](trends.md):
+  - A TV show season.
+  - A book series.
+  - Every creation one specific creator makes.
+  - A life stage.
+  - Role-playing games.
+- Multiple trends weave into the maximum possible experience of living:
+  - A saga/epic across multiple lives.
+  - A creator's entire life and their [legacy](legacy.md).
+  - Operas and most older plays.
+  - A video game or book franchise.
+  - A person's entire life, with their [afterlife](religion.md).
+  - The history of a [corporation or nation](groups-large.md).
+- Further, we can mix-and-match stories into seemingly unrelated realms:
+  - The fan base who follows a popular [trend](trends.md), and their relationship with the [created work](creations.md).
+  - Associated media which provide indirect details, such as movie adaptations of books.
+  - Using historical settings with fictional characters (historical fiction) or vice versa (alternate reality stories).
 
 Mechanically, there are only a few ways to build a story:
 
@@ -16,6 +75,12 @@ Mechanically, there are only a few ways to build a story:
 - Dialogue - explain [thoughts](understanding.md) and [feelings](mind-feelings.md) with some sort of [conversation](people-conversation.md).
 - Expression - Use sensory cues like visuals or sounds to paint an [image](image.md).
 - Interaction - use the audience's [decisions](decisions.md) and [expressions](results.md) to [influence](influence.md) how the audience [feels](mind-feelings.md) by drawing them into the experience.
+
+APPLICATION: The most applicable and enjoyable nonfiction uses plenty of examples to expand and clarify the idea, and gives discussion topics for everyone to [discuss](people-conversation.md) at the end. This makes the experience more interactive for the audience and, thus, more memorable.
+
+Conventionally, a feature-length story uses 40-60 scenes that form 12-18 sequences that build into 3+ acts that merge and weave into each other. Accomplishing this without boring the audience with repetition requires [making](mind-creativity.md) *hundreds* of scenes and throwing out most of them. It also means most creators should pare down their feature-length stories to maximize [impact](power-influence.md).
+
+APPLICATION: To be [influential](power-influence.md), we must learn to be great [storytellers](stories-storytellers.md).
 
 ## The purpose of stories
 
@@ -26,6 +91,8 @@ Stories are crudely drawn [maps](image.md) that point to [meaning](meaning.md), 
 - [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](lawsaxioms.md), that communicate important [lessons](understanding.md).
 - The motivation to convey a story is always driven, at least partly, by the [emotion of anger](mind-feelings-anger.md).
 
+APPLICATION: Popular [trends](trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
+
 Since it's a map and not an accurate depiction, a story is always an exploration of extremes.
 
 Every story communicates a [value](values.md). The stories people remember will communicate values that reference beyond itself and add meaning to the audience's life beyond the story. To achieve this, the [creator](mind-creativity.md) *must* draw from associations the audience [already had](understanding.md) before the story started.
@@ -35,6 +102,8 @@ One of the most critical messages in most stories involves how we must [decide](
 The best way to detect a good story is from how much everyone in the audience observes [quality](values-quality.md) as they experience it. People only stay [interested](purpose.md) in stories as long as they see anything [unexpected or unusual](imagination.md), which requires a vast [emotional range](mind-feelings.md) to trigger the audience's attention.
 
 Usually, we set ourselves at the center of the story while we're engaged with it, with a comparison/contrast with the main character's [decisions](decisions.md). As we [mature](maturity.md) to perceive others' views as having equal merit, we're able to imagine ourselves as the character in that story while suspending judgment about the quality of their decisions until the end of the story.
+
+APPLICATION: If you're reading story lore, a wiki, or listening to a company presentation, *you're* the main character of a relatively uninteresting story.
 
 ## The form of stories
 
@@ -144,6 +213,8 @@ At the conclusion, most of the information disappears except for whatever was [m
 
 If there's a distinct antagonist, the main character will have [changed](people-changes.md) while the antagonist will have stayed the same, though it will be reversed in the case of an anti-hero. In a bad story, *neither* the hero nor anti-hero will have changed.
 
+APPLICATION: If a story is bad, it's often the best the creator can do, especially in with media designed for large-scale appeal. Don't judge them too harshly, since they're attempting to conquer the [unknown](unknown.md). If they're representing a destructive value as a good thing, we should [feel](mind-feelings.md) pity before anger.
+
 Often, adding irony to the result will heighten its emotional impact:
 
 - Getting what they [wanted](purpose.md), but too late to have it.
@@ -156,9 +227,15 @@ The audience will admire characters *much* more for [trying](decisions.md) than 
 
 There's always a message at the end of the story. The [mood](mind-feelings.md) of the ending determines *everything* about the [values](values.md) the story is [communicating](language.md), and is often magnified by [symbolically](symbols.md) reproducing the beginning of the story with adaptations ("bookends"). It's why the last few minutes of a story, no matter how long, can destroy or redeem it.
 
+APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
+
 When done correctly, the end is the conclusion of a larger story, with a final [image](image.md) that leaves the audience with a personal [decision](decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](goodlife.md) or reject that [perspective](image.md) outright.
 
+APPLICATION: To live a [good life](goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
+
 To make a good story, the conclusion must inspire a strong [feeling](mind-feelings.md) (usually [love](people-love.md) but sometimes [fear](mind-feelings-fear.md)) that provokes [action](results.md) in the audience. The only way to accomplish this is through giving an ending they want (to clarify [purpose](purpose.md) to them), but in a way they don't expect (to provoke [trust](understanding-certainty.md) in the [unknown](unknown.md)).
+
+APPLICATION: People would rather have the experience of climbing social classes from lower to middle than drop from upper to middle, even if the second would be a more pleasant experience.
 
 We tend to remember the end of a story along with details within the middle that were the most [emotionally intense](mind-feelings.md). We can typically endure a boring story with a good ending, but a bad ending can *destroy* our [impression](image.md) of a story. While we don't tend to remember most of the details, the beginning and middle details evoke the most context for an ending.
 
@@ -181,6 +258,10 @@ These themes float around a few possible [conflicts](conflicts-inner.md):
 - The distinction between [order](understanding-certainty.md) and [chaos](unknown.md).
 
 Any one detail can dramatically change the values of *everything* in that story, especially near the ending. One out-of-place remark or body language gesture may demonstrate ideas the creator secretly hid in the story's message. In this sense, observant consumers who detect details and understand a story entirely differently than less observant or more [immature](maturity.md) consumers will interpret.
+
+APPLICATION: The details dictate everything. We must be *very* mindful of the elements inserted into stories, what they imply, and the [values](values.md) they define.
+
+APPLICATION: Interesting stories must have dramatic shifts. This requires empathy with what can create emotional range, meaning the creator has to have had significant experience with [the good life](goodlife.md) compared to their audience.
 
 ### Plot patterns
 
@@ -214,6 +295,8 @@ An interesting mechanism of character-building is to create within that characte
 One of the most critical components of story-telling is through repeated [patterns](symbols.md). A small, subtle object or expression is typically mundane at first, but creates its own theme as it's recycled throughout the story. By the end of the story, its final state creates a wave of [meaning](meaning.md) to the audience.
 
 Some of the story's patterns *must* expose secrets of the characters ("exposition"). These secrets should exist in small segments throughout the chronology of the story. Any character that's fully self-aware, flawless, or without [contradiction](conflicts-inner.md) will be boring to the audience.
+
+A well-made story has a buildup to something, which means there's always a [public notice](image.md) before dropping something fantastic on people ("foreshadowing"). Otherwise, that [creator](mind-creativity.md) won't handle the story well enough to make a broad effect, and someone else will tell that story better and receive more [glory](image.md) from it.
 
 ### Additional characters
 
@@ -252,6 +335,8 @@ One component of every story is its suspense. Before the creator reveals the end
 
 We usually make stories retroactively. The season finale of a TV show or the plot twist of a movie can change *everything* about it and destroy or enrich the experience. Sometimes, creators will try to merge a completely fictional story with reality by making it an origin or future story of *our* world (especially in sci-fi).
 
+APPLICATION: Our subconscious can't tell fact from fiction, so we must be mindful of the kinds of [creations](creations.md) we consume from others. Many of them carry [philosophical poison](philosophy.md).
+
 ## Meta-stories
 
 We often see a story as an [abstracted](values.md) existence, but it's part of a greater whole:
@@ -269,6 +354,10 @@ Unfortunately, we tend to make the present moment or the [foreseeable future](im
 
 Since every story is [inspired](mind-creativity.md) by other stories and [reality](reality.md), stories can be [analyzed](logic.md) and reproduced by observing specific [values](values.md) called "[tropes](http://tvtropes.org)". Every decent [storyteller](stories-storytellers.md), beyond conveying [feeling](mind-feelings.md), is also aware of where a trope's [trend](trends.md) currently is for their audience.
 
+APPLICATION: A powerful story will [feel](mind-feelings.md) more real than [reality](reality.md) itself. Often, many [storytellers](stories-storytellers.md) use existing [tropes](values.md) that overshadow reality's rules (e.g., how [automobiles](autos.md) are used). Often, they'll use their story to invalidate legitimate points of view (e.g., [politics](politics-conservativeliberal.md)). Other times, they'll use their stories to attach untrue things they [speculate](imagination.md) to legitimately true things.
+
+APPLICATION: The truth, in all its normalcy, is a relatively dull story. Often, we prefer a stylized, artistic depiction of reality over reality itself. We must constantly examine anything considered [true](reality.md) which also evokes strong [feelings](mind-feelings.md) because it may veer away from reality into [trust](trust.md).
+
 To the degree we want to feel [safe](safety.md), we will revisit a story we love. We already know the ending, so we find more pleasure in seeing retroactively how the beginning and middle contributed to it.
 
 Often, story writers will create ordinary people, then put them in odd situations. By contrast, performers will place odd people into ordinary situations. For those reasons, jumping across media can be [emotionally](mind-feelings.md) dissonant.
@@ -282,94 +371,3 @@ Our brains don't have segmented areas for fiction versus nonfiction, so the expe
 Because of stories, it's humanly impossible to *not* have a [bias](image.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](understanding-certainty.md) in something we can't prove entirely.
 
 We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](rules.md) to do or not do.
-
-## APPLICATION: stories
-
-APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
-
-APPLICATION: To live a [good life](goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
-
-APPLICATION: If a story is bad, it's often the best the creator can do, especially in with media designed for large-scale appeal. Don't judge them too harshly, since they're attempting to conquer the [unknown](unknown.md). If they're representing a destructive value as a good thing, we should [feel](mind-feelings.md) pity before anger.
-
-APPLICATION: A powerful story will [feel](mind-feelings.md) more real than [reality](reality.md) itself. Often, many [storytellers](stories-storytellers.md) use existing [tropes](values.md) that overshadow reality's rules (e.g., how [automobiles](autos.md) are used). Often, they'll use their story to invalidate legitimate points of view (e.g., [politics](politics-conservativeliberal.md)). Other times, they'll use their stories to attach untrue things they [speculate](imagination.md) to legitimately true things.
-
-APPLICATION: A story is relatively simple to [make](mind-creativity.md) and [understand](understanding.md) if you can attach it to your [feelings](mind-feelings.md):
-
-1. Character
-2. Needs
-3. To Go
-4. Searches
-5. Finds
-6. Takes
-7. Returns
-8. And Changes
-
-APPLICATION: The scope of things that qualify as stories is vast. There's literally no limit to its size, length, or [medium](creations.md).
-
-- A few seconds or a single perception:
-  - Someone says something and the other responds.
-  - A piece of trivia or small [fact](reality.md).
-  - "[For sale, baby shoes, never worn.](symbols.md)"
-  - A painting.
-  - A round of a small game.
-  - A jingle of a song.
-- Combine the events together to create a short story:
-  - Verbal [exchange](people-conversation.md) among people.
-  - Short story or novella.
-  - Chapter of a textbook or book.
-  - Website landing page or internet article.
-  - Short videos.
-  - An episode of a TV show.
-  - Independently designed electronic game or board game.
-  - Songs.
-  - A sales pitch.
-- Combine small events into a larger picture or spanning a few days:
-  - An event, with its repercussions and aftermath.
-  - A website or large essay like this one.
-  - Movies.
-  - A song album.
-  - Popular paperback novels.
-  - AAA games.
-- Attach the large images into a [trend](trends.md):
-  - A TV show season.
-  - A book series.
-  - Every creation one specific creator makes.
-  - A life stage.
-  - Role-playing games.
-- Multiple trends weave into the maximum possible experience of living:
-  - A saga/epic across multiple lives.
-  - A creator's entire life and their [legacy](legacy.md).
-  - Operas and most older plays.
-  - A video game or book franchise.
-  - A person's entire life, with their [afterlife](religion.md).
-  - The history of a [corporation or nation](groups-large.md).
-- Further, we can mix-and-match stories into seemingly unrelated realms:
-  - The fan base who follows a popular [trend](trends.md), and their relationship with the [created work](creations.md).
-  - Associated media which provide indirect details, such as movie adaptations of books.
-  - Using historical settings with fictional characters (historical fiction) or vice versa (alternate reality stories).
-
-APPLICATION: A beautiful story has a buildup to something, which means there's always a [public notice](image.md) before dropping something fantastic on people. Otherwise, that [creator](mind-creativity.md) won't handle the story well enough to make a broad effect, and someone else will tell that story better and receive more [glory](image.md) from it.
-
-APPLICATION: A feature-length story uses 40-60 scenes that form 12-18 sequences that build into 3+ acts that merge and weave into each other. Accomplishing this without boring the audience with repetition requires [making](mind-creativity.md) *hundreds* of scenes and throwing out most of them. It also means most creators should pare down their feature-length stories to maximize [impact](power-influence.md).
-
-APPLICATION: The most applicable and enjoyable nonfiction uses plenty of examples to expand and clarify the idea, and gives discussion topics for everyone to [discuss](people-conversation.md) at the end. This makes the experience more interactive for the audience and, thus, more memorable.
-
-APPLICATION: Popular [trends](trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
-
-APPLICATION: Interesting stories must have dramatic shifts. This requires empathy with what can create emotional range, meaning the creator has to have had significant experience with [the good life](goodlife.md) compared to their audience.
-
-APPLICATION: The truth, in all its normalcy, is a relatively dull story. Often, we prefer a stylized, artistic depiction of reality over reality itself. We must constantly examine anything considered [true](reality.md) which also evokes strong [feelings](mind-feelings.md) because it may veer away from reality into [trust](trust.md).
-
-APPLICATION: If you're reading story lore, a wiki, or listening to a company presentation, *you're* the main character of a relatively uninteresting story.
-
-APPLICATION: Our subconscious can't tell fact from fiction, so we must be mindful of the kinds of [creations](creations.md) we consume from others. Many of them carry [philosophical poison](philosophy.md).
-
-APPLICATION: The details dictate everything. We must be *very* mindful of the elements inserted into stories, what they imply, and the [values](values.md) they define.
-
-APPLICATION: To be [influential](power-influence.md), we must learn to be great [storytellers](stories-storytellers.md).
-
-APPLICATION: Different people (e.g., [social classes](classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
-
-APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
-
-APPLICATION: People would rather have the experience of climbing social classes from lower to middle than drop from upper to middle, even if the second would be a more pleasant experience.

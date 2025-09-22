@@ -31,21 +31,35 @@ Members always have at least some [power](power.md) in the group. In the case of
 
 Each member has at least some [power](power.md), [purpose](purpose.md), and [beliefs](understanding-certainty.md) from their group, so it's far harder to [influence](power-influence.md) anyone while they're in a group to new ideas *outside* the group than if they had discovered those [values](values.md) separately.
 
+APPLICATION: The leader of a group gets all the [credit](image.md), but the group's [creativity](mind-creativity.md) and [results](results.md) were from the *followers'* contributions, who do most of the work and often have the most [passion](mind-feelings.md).
+
+When a shared [purpose](purpose.md) is strong enough, people can get along better in that group than in a more familiar dynamic (such as living together or [family](people-family.md)).
+
 ## Leading
 
 [Leadership](mgmt-1_why.md) is nothing more than [making decisions](decisions.md) that affect a group.
 
 People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](image.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-4_friends.md) the other group members.
 
-The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](rules.md) almost guarantees that they'll lean more into high conscientiousness.
+The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](personality.md).
+
+APPLICATION: Since leaders tend to be more [high-conscientiousness](personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
+
+Generally, people [trust](understanding-certainty.md) leaders who are older than them, up to about age 60. At that age, [old age](maturity.md) makes someone [appear](image.md) to operate more on [habit](habits.md) than [decisions](decisions.md), so people start trusting themselves or younger leaders instead.
+
+APPLICATION: Leaders are nurtured and not merely "made", and it's because they require a [disposition](personality.md) that can make consistent and [wise](understanding.md) decisions, a bit like a "born parent". Avoid leadership education that doesn't emphasize this reality.
 
 The values of a group are mostly defined by its leadership. That leader is approving or denying members' [creations](creations.md) to promote the [values](values.md) they [want](purpose.md) to see. Leadership ends up looking like [parenting](people-family.md), but typically with a more subdued and distanced approach.
+
+APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](decisions.md).
 
 Broadly, leaders tend to exert control across a [culture](culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:
 
 1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](trends.md), more prevalent in Eastern cultures.
 2. Innocence/Guilt - the shame is localized to the emotion of guilt, meaning there's a binary action or inaction toward the rules, but not necessarily toward long-past events, more prevalent in Western cultures.
 3. Correct/Incorrect - there is no emotional guilt or shame attached and only a focus on what is factual, magnifies the most [innovation](mind-creativity.md) and [technological](technology.md) development, but only prevalent within outliers of society.
+
+APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision-making](decisions.md) until they can look beyond their [impulses](mind-feelings.md). However, it's possible for someone to [appear](image.md) level-headed when they aren't, and is the foundation for many [bad systems](mgmt-badsystems.md).
 
 One of a leader's most critical decisions involves how the group's [image](image.md) appears to those outside of the group. Generally, the image must appear immaculate (or at least good enough) to gain approval enough for the group to grow. That image is typically a response to how the most extreme members of a group interact with outsiders.
 
@@ -65,6 +79,8 @@ When a leader doesn't do much, they're merely a [symbol](symbols.md). Symbolic l
 
 If any leaders develop differing [purposes](purpose.md), they'll usually have a [conflict](people-conflicts.md) among each other. In that situation, if there isn't enough [love](people-love.md) for each other, the group itself will likely split with at least two camps led by those two leaders as a representation of differing [opinions](values.md).
 
+APPLICATION: Groups typically split over [standard social conflicts](people-boundaries.md), but with far more [power](power.md) involved. Larger groups mean more power at stake, and therefore larger [consequences](results.md).
+
 ## Delegating power
 
 Leaders dictate values by distributing [power](power.md). They can either let people pursue their [purposes](purpose.md) (and therefore make *those* people a type of leader, of themselves or the group) or redirect that power (often upward) for the perceived benefit of the group.
@@ -74,6 +90,8 @@ Good leaders will push members toward other members' [purposes](purpose.md), at 
 Bad leaders create [conflicts](people-conflicts.md). Conflicts are inevitably one-on-one, and a leader's decisions will typically favor some people. But, favor to one side will naturally discredit the opposing side. There are many variables to consider, so the only way a leader can know which person to promote comes strictly from [experience](maturity.md) combined with [wisdom](understanding.md).
 
 Good leaders *also* create [conflicts](people-conflicts.md). Usually, they're antagonizing existing conflicts members may have wanted to avoid, and they do it because they [understand](understanding.md) that avoiding conflicts erodes members' [trust](trust.md) in one another. But, they [can successfully navigate to a "third option"](people-5_conflicts.md) by recalling other personal conflicts in the past.
+
+APPLICATION: Once [trust](understanding-certainty.md) in the leaders is gone, the group disbands or rebuilds itself because someone else will lead in an entirely different way.
 
 ## Results
 
@@ -103,30 +121,9 @@ Any of the above are irrelevant to what the group actually [changes](people-chan
 1. Quietly make the changes as inconspicuously as possible and never talk about it again.
 2. If they can publicly throw all blame on former leadership (even if it was a few days), heavily [advertise](image.md) that change to create distance from it.
 
-A group's existence is built on the environment that surrounds it. When the environment around the group changes, the group *must* conform to the new changes, or they'll become an obsolete [trend](trends.md).
-
-
-## APPLICATION: groups-small
-
-APPLICATION: Leaders are nurtured and not merely "made", and it's because they require a [disposition](personality.md) that can make consistent and [wise](understanding.md) decisions, a bit like a "born parent". Avoid leadership education that doesn't emphasize this reality.
-
-APPLICATION: Generally, people [trust](understanding-certainty.md) leaders who are older than them, up to about age 60. At that age, [old age](maturity.md) makes someone [appear](image.md) to operate more on [habit](habits.md) than [decisions](decisions.md), so people start trusting themselves or younger leaders instead.
-
-APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](decisions.md).
-
-APPLICATION: Once [trust](understanding-certainty.md) in the leaders is gone, the group disbands or rebuilds itself because someone else will lead in an entirely different way.
-
-APPLICATION: Since leaders tend to be more [high-conscientiousness](personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
-
-APPLICATION: The leader of a group gets all the [credit](image.md), but the group's [creativity](mind-creativity.md) and [results](results.md) were from the *followers'* contributions, who do most of the work and often have the most [passion](mind-feelings.md).
-
-APPLICATION: Groups typically split over [standard social conflicts](people-boundaries.md), but with far more [power](power.md) involved. Larger groups mean more power at stake, and therefore larger [consequences](results.md).
-
 APPLICATION: Groups never admit they're wrong, so if you [disagree](people-conflicts.md) with them, you only have a few options:
 
 1. Only talk about what they're doing *right* and ignore what they do wrong.
 2. Find another group that doesn't do that wrong thing.
 
-APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision-making](decisions.md) until they can look beyond their [impulses](mind-feelings.md). However, it's possible for someone to [appear](image.md) level-headed when they aren't, and is the foundation for many [bad systems](mgmt-badsystems.md).
-
-APPLICATION: People tend to get along better in groups (with a shared [purpose](purpose.md)) than in a closer dynamic (such as living together or [family](people-family.md)).
+A group's existence is built on the environment that surrounds it. When the environment around the group changes, the group *must* conform to the new changes, or they'll become an obsolete [trend](trends.md).

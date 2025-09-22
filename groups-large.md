@@ -11,11 +11,23 @@ We tend to purpose ourselves toward larger groups for several reasons:
 2. Each person is capable of [*heavily* specializing](jobs-specialization.md) in things they want and giving others what *they* specialize in.
 3. Everyone amasses more [shared knowledge](technology.md), meaning cutting down on [work](results.md).
 
+APPLICATION: Since [fear](mind-feelings-fear.md) binds people together, and fear is rarely subtle, most massive groups tend to operate as diametric opponents of one another (e.g., [conservative/liberal](politics-conservativeliberal.md), [Christian/secular](religion.md), [Star Wars/Star Trek](stories.md))
+
 In larger groups, we tend to associate with a few people in that group and maintain many acquaintances. Some people, like leaders, have many more connections, but there are too many people in a large group to stay in touch with all of them.
 
 ## Image
 
 Large groups feel like a massive, monolithic entity, but they're made of the combined [souls](humanity.md) in that group, vaguely oriented toward the leaders' [communicated](people-conversation.md) [purpose](purpose.md). Unlike [smaller groups](groups-small.md), though, that purpose can be *very* far-removed from the leaders' guidance.
+
+APPLICATION: An executive needs *many* specific background elements that allow them to [perform](results.md) and [relate](power-influence.md):
+
+- Change many job functions across many jobs, but stay in one industry.
+- Have either over a decade of relevant management experience or an MBA from a [pedigreed university](education.md).
+- Live in a large metropolitan melting pot (e.g., New York City, Mumbai, Singapore).
+- Avoid living in culturally homogenous metro areas (e.g., Houston, Washington DC, Madrid).
+- Gain a slight advantage by being [male](gender.md).
+
+APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
 
 As groups become progressively larger, top-ranking people will become dramatically more [powerful](power.md) than low-ranking ones to create a [class divide](classes.md). To prevent too much [in-fighting](people-conflicts-war.md), the people at the top will naturally convey an [image](image.md) that dilutes how much power they legitimately have:
 
@@ -23,6 +35,10 @@ As groups become progressively larger, top-ranking people will become dramatical
 - [Knowledge](understanding.md) experts will use [language](language.md) to imply they're [uncertain](understanding-certainty.md).
 - Multimillionaires will wear working-class clothing or avoid showing their wealth.
 - [Religious leaders](religion.md) will feign humility (e.g., "I'm the worst of sinners").
+
+APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](image.md), often with nearby assistants performing [research](understanding.md) for them.
+
+APPLICATION: Most large organizations create homogeneous experiences to promote a shared [image](image.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
 
 To clearly understand *any* group, an observer needs to see 3 perspectives at once:
 
@@ -66,11 +82,17 @@ Unlike a [smaller group](groups-small.md) with an organization run by the [perso
 
 Top leaders are usually at least 2-3 degrees removed from any actual work done, but they're responsible for making all the decisions. If trends or technology change, they must stay aware of it, or the entire group will become [irrelevant](mgmt-badsystems.md). This is why most top leaders spend most of their time [communicating](people-conversation.md) and [consuming information](creations.md), and why they're not very [useful](purpose.md) in any practical sense.
 
+APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](image.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](image.md) of the group's [goals](purpose.md).
+
 Often, top leaders will let lower-ranking leaders of smaller subgroups have unique roles. This ranges by how much [trust](trust.md) the leaders give, and can range from the top leader merely existing as a [symbolic](symbols.md) "publishing" or "producing" role all the way to completely micromanaging the subgroup. Absolutely nobody *ever* likes being micromanaged, and it's the product of a [dysfunctional system](mgmt-badsystems.md) caused by bad leadership not respecting individual [decision](decisions.md).
+
+APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
 
 Middle leaders (e.g., middle management) are effectively an extension of their top leadership to manage the bottom leadership. Middle leadership often makes very few [decisions](decisions.md) compared to the top and bottom leadership. However, their [willingness](purpose.md) to comply with the organization's [policies](rules.md) keeps the entire organization unified in [purpose](purpose.md) (or, at least, the [appearance](image.md) of it). In practice, most middle management is simply the above-stated "connecting-point" to other subgroups.
 
 Leadership getting feedback about the members, and acting on it, is *critical* for the entire group's success, and the entire group can become [dysfunctional](mgmt-badsystems.md) surprisingly easily. Leadership failures usually come from incompetence more than malice, though their [public image](image.md) may imply something else.
+
+APPLICATION: To determine a [high-quality](values-quality.md) leader, observe someone's [small-group leadership](groups-small.md) first, which often goes back to their [parenting skills](people-family.md).
 
 ## Decisions
 
@@ -86,6 +108,10 @@ These decisions are *always* designed for the interests of the people in the gro
 Members' awareness of each large-scale decision ripples outward like a [trend](trends.md) at the speed of [technology](technology.md). It has a formative time with sub-leaders, then transitions outward to the majority, with the laggards *never* aware of the decision. This trend sticks proportional to the [leadership skills](mgmt-1_why.md) of the top leader.
 
 Low-ranking members have *much* less freedom than if they were in a [smaller group](groups-small.md), since the leadership redirects most of the lower ranks' [power](power.md) to other [purposes](purpose.md). Low-rank members won't usually [trust](trust.md) their large group much, since they're not given much freedom, but they [pretend to](image.md) well enough that most leaders don't realize this.
+
+Over time, large groups must make dramatic [decisions](decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
+
+APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
 
 ## Subcultures
 
@@ -105,11 +131,18 @@ Each subgroup usually has different [purposes](purpose.md) to accomplish, and th
 
 Even in a complete autocracy, the presence of others' [decisions](decisions.md) in [carrying out](results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
 
+APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
+
 In open-ended leadership (i.e., the sub-leaders run everything) the sub-leaders have the final authority to mismanage as they [please](purpose.md). Thus, a central leader who can't or won't punish [evil](morality-evil.md) will empower it and the group will partly [devolve](mgmt-badsystems.md).
 
 These subcultures affect each other to create the aggregate group culture, with each one being its own "unit" interacting with other "units". As various subgroups gain or lose [power](power.md), the organization travels through [eras](trends.md) of control. Those eras create the shared [culture](culture.md) and [identity](identity.md) of the group.
 
 The [traditions](habits.md) that the subcultures make pile together over time. If those traditions keep accumulating but aren't removed as the members who found [meaning](meaning.md) through those traditions leave that group, the group will slowly become a [bad system](mgmt-badsystems.md). Unfortunately, the changes must be gradual, or the entire group will have a [complete meltdown](people-conflicts-war.md).
+
+APPLICATION: There are only two ways to make large-scale changes in a large group:
+
+1. Sacrifice your [reputation](image.md) and [influence](power-influence.md) in a spectacular public display in the hopes of influencing others toward your [beliefs](understanding-certainty.md) after you're gone.
+2. Find like-minded people and break off with them as an [entirely separate group](groups-small.md), which is only possible if you have the [power](power.md) to do it (or the [creativity](mind-creativity.md) to find a way).
 
 ## Social Engineering
 
@@ -131,6 +164,17 @@ Taxing, especially, will broadly destroy [purposes](purpose.md):
 - Taking enough from the middle class often makes them become the lower class.
 - Taking enough from the lower class is almost completely [evil](morality-evil.md), since it barely benefits the leadership and hurts those with the least [power](power.md).
 - In fact, the only [fair](morality-justice.md) tax is a progressive tax up to a specific level of survival, then everything else from middle-class onward as a flat and non-negotiable percentage.
+
+APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resident of the USA to become the following:
+
+1. [Married](relationships-3_marriage.md) with 2-3 [children](parenting-2_children.md)
+2. [College](jobs-college.md) graduates with a [student loan](money-2_debt.md)
+3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
+4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buysell.md)
+5. [Investing](money-investing.md) into a retirement account, preferably a 401(k) or 403(b)
+6. Generally [unaware](awareness.md) of the above
+
+APPLICATION: Large group leaders must juggle *far* too many competing [values](values.md) and [subcultures](groups-small.md) to maintain much sense of [order](unknown.md). For this reason, groups that scale become [ever-increasingly awful](mgmt-badsystems.md) at doing what they were originally [purposed](purpose.md) to do.
 
 When a [bad system](mgmt-badsystems.md) starts socially engineering, they're often operating off [theories](imagination.md) mixed with trial-and-error. This can be utterly disastrous, and often leads to [social unrest](people-conflicts-war.md), people losing property, and people dying.
 
@@ -154,7 +198,11 @@ While it's impossible to track how a group will respond, there are a few conditi
 3. Expect that history *never* repeats itself, but has a similar pattern. It's never the same because the [culture](culture.md) is different between both cases of deciding, sometimes simply because people *remember* the prior decision.
 4. Always give approximate estimates, and avoid trusting something simply because it was [mathematically](math.md) communicated.
 
+APPLICATION: People individually can only handle so much [change](people-changes.md) over a small window of time before they lose their mind. Organizations are the same, proportionally to the aggregate of their [openness to new experiences](personality.md) minus their failings in [communication](people-conversation.md).
+
 *Many* [intergroup conflicts](people-conflicts-war.md) can adapt and [change groups](trends.md). This change can be surprisingly fast or only change its [external image](image.md), depending on how the leadership handles it. Since there's so much power in a group, they tend to persist indefinitely in some form or another unless they're destroyed or merged into another group.
+
+APPLICATION: [Gossip travels quickly](stories-storytellers.md), so an organization that [lies](image-distortion.md) will rapidly become [dysfunctional](mgmt-badsystems.md).
 
 However, with very few exceptions, the members who engage in most intergroup conflicts float through a unique sequence:
 
@@ -176,55 +224,3 @@ Some of them will perform noble achievements in response to the challenge, but m
 However, if a large group *doesn't* have a purpose outside itself via competition, it'll start getting restless and destroy things.
 
 In short, large groups must always be [acting](results.md) toward a fixed [purpose](purpose.md) they [believe](understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.
-
-
-
-## APPLICATION: groups-large
-
-APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
-
-APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
-
-APPLICATION: Since [fear](mind-feelings-fear.md) binds people together, and fear is rarely subtle, most massive groups tend to operate as diametric opponents of one another (e.g., [conservative/liberal](politics-conservativeliberal.md), [Christian/secular](religion.md), [Star Wars/Star Trek](stories.md))
-
-APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
-
-APPLICATION: Large group leaders must juggle *far* too many competing [values](values.md) and [subcultures](groups-small.md) to maintain much sense of [order](unknown.md). For this reason, groups that scale become [ever-increasingly awful](mgmt-badsystems.md) at doing what they were originally [purposed](purpose.md) to do.
-
-APPLICATION: An executive needs *many* specific background elements that allow you to [perform](results.md) and [relate](power-influence.md):
-
-- Change many job functions across many jobs, but stay in one industry.
-- Have either over a decade of relevant management experience or an MBA from a [pedigreed university](education.md).
-- Live in a large metropolitan melting pot (e.g., New York City, Mumbai, Singapore).
-- Avoid living in culturally homogenous metro areas (e.g., Houston, Washington DC, Madrid).
-- Gain a slight advantage by being [male](gender.md).
-
-APPLICATION: To determine a [high-quality](values-quality.md) leader, observe someone's [small-group leadership](groups-small.md) first, which often goes back to their [parenting skills](people-family.md).
-
-APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](image.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](image.md) of the group's [goals](purpose.md).
-
-APPLICATION: Most large organizations create homogeneous experiences to promote a shared [image](image.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
-
-APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](image.md), often with nearby assistants performing [research](understanding.md) for them.
-
-APPLICATION: Over time, large groups must make dramatic [decisions](decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
-
-APPLICATION: People individually can only handle so much [change](people-changes.md) over a small window of time before they lose their mind. Organizations are the same, proportionally to the aggregate of their [openness to new experiences](personality.md) minus their failings in [communication](people-conversation.md).
-
-APPLICATION: [Gossip travels quickly](stories-storytellers.md), so an organization that [lies](image-distortion.md) will rapidly become [dysfunctional](mgmt-badsystems.md).
-
-APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resident of the USA to become the following:
-
-1. [Married](relationships-3_marriage.md) with 2-3 [children](parenting-2_children.md)
-2. [College](jobs-college.md) graduates with a [student loan](money-2_debt.md)
-3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
-4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buysell.md)
-5. [Investing](money-investing.md) into a retirement account, preferably a 401(k) or 403(b)
-6. Generally [unaware](awareness.md) of the above
-
-APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
-
-APPLICATION: There are only two ways to make large-scale changes in a large group:
-
-1. Sacrifice your [reputation](image.md) and [influence](power-influence.md) in a spectacular public display in the hopes of influencing others toward your [beliefs](understanding-certainty.md) after you're gone.
-2. Find like-minded people and break off with them as an [entirely separate group](groups-small.md), which is only possible if you have the [power](power.md) to do it (or the [creativity](mind-creativity.md) to find a way).

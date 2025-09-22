@@ -102,7 +102,13 @@ We [change](people-changes.md) to conform to our environment. If we expose ourse
 
 APPLICATION: Everything in the computer industry moves so rapidly that technologies never stay around long enough to be stable. Instead, by the time they're stable, they're old and outdated. Thus, computer specialists are always working with low-[quality](values-quality.md), [useful](purpose.md) tools that will be obsolete in a few years.
 
+People tend to take technology for granted, especially when they're [young](maturity.md). By comparing how lifestyles exist with various degrees of [technology](technology.md), we can often [understand](understanding.md) [the easiest way to live](goodlife.md) for various circumstances.
+
 APPLICATION: At one time in the 1800s, people perceived the mind as a [mechanical object](engineering-mechanical.md), and has lately been perceived as a computer. The [fashion](trends.md) will change once something is more advanced than a computer.
+
+Some people will always want to keep their job, even after technology takes it away. They'll often fight a [losing battle](people-boundaries.md), but are usually too [set in their ways](habits.md) to [change](people-changes.md) to the [trend](trends.md). Many [political](politics-conservativeliberal.md) [organizations](groups-large.md) like unions and politicians can benefit those people, but are only stalling the [trend](trends.md).
+
+APPLICATION: In a [fully just society](politics-perfectsociety.md), the people who replace other's roles with technology should find [creative](mind-creativity.md) solutions for what they can [do](results.md) instead. This is frequently a difficult task that requires plenty of consideration, and requires that people [have compassion](people-love.md) on the least-qualified individuals in society.
 
 Frequently, technology will replace the physical problems from our environment with a vast array of psychological problems instead.
 
@@ -111,6 +117,10 @@ APPLICATION: Technology doesn't necessarily address our problems, and sometimes 
 ## Destruction
 
 Technology's power magnifies *everything*, including [moral](morality.md) decisions. Some technology is created to destroy (e.g., explosives, guns), but people can use just about anything they want for a destructive [purpose](purpose.md). But, public discussions about the moral implications of new technology often arise *after* the [trend](trends.md) has taken hold.
+
+APPLICATION: Technology never really solves [moral](morality.md) problems. It only magnifies them as it removes physical constraints.
+
+APPLICATION: [Political](stories-storytellers.md) and [military power](people-conflicts-war.md) comes through technology. You can travel wherever you want with the correct vehicles and spread information wherever you want with the appropriate [computer systems](technology.md).
 
 APPLICATION: Don't blame technology, blame the user. This applies to guns, written publications, and any [trendy](trends.md) tech. There's a [good](morality.md) and [productive](results.md) use for every [evil](morality-evil.md) application of technology.
 
@@ -134,7 +144,11 @@ Technology can never fully replace human [creativity](mind-creativity.md) unless
 
 Some people inclined toward technology find comfort in technology fully replacing in-person [interaction](people-conversation.md), but it's impossible without absurdly more powerful computers. We send a *lot* of information back-and-forth, with tons of context that draws from the entire interaction. This context includes a prioritized matrix of *forgetting* information proportionally to how far back it is and when it's no longer [useful](purpose.md). Even with something like a "hard" hologram, we'd always [intuitively](mind-feelings.md) [know](understanding.md) a person isn't there.
 
+APPLICATION: Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](economics.md) and lean *very* heavily into [scientific values](science.md).
+
 ## Drawbacks
+
+All [social class divides](classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
 Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](awareness.md) outside that technology again.
 
@@ -144,32 +158,14 @@ APPLICATION: Technology has allowed the average college student today to have mo
 
 Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
 
+APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](trends.md) dies. If they do, they can slow the trend indefinitely.
+
 APPLICATION: In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
 
 As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](results.md) instead.
 
-APPLICATION: If we're not [careful](safety.md) or [wise](understanding.md), technology can rapidly break things. Be very cautious when you use its [power](power.md), *especially* when it can affect [an entire group](groups-small.md)!
-
-People tend to use technology to define their [understanding](understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](trends.md) of their time.
-
-
-
-## APPLICATION: technology
-
-APPLICATION: Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](economics.md) and lean *very* heavily into [scientific values](science.md).
-
-APPLICATION: All [social class divides](classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
-
 APPLICATION: At one point, surveying land and trigonometry were the critical skills for most disciplines in the age of Rockefeller. As of right now, in the information age, it's [statistics](math-stat.md). In 100 years, it may be [game theory](math-gametheory.md) for [AI](computers-ai.md).
 
-APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](trends.md) dies. If they do, they can slow the trend indefinitely.
+People tend to use technology to define their [understanding](understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](trends.md) of their time (e.g., computer enthusiasts honor [their machine gods](https://gainedin.site/machines/)).
 
-APPLICATION: Some people want to keep their job, even after technology took it away. They're fighting a [losing battle](people-boundaries.md), but are usually too [set in their ways](habits.md) to [change](people-changes.md). Many [political](politics-conservativeliberal.md) [organizations](groups-large.md) like unions and politicians can benefit those people, but are only stalling the [trend](trends.md).
-
-APPLICATION: In a [fully just society](politics-perfectsociety.md), the people who replace other's roles with technology should find [creative](mind-creativity.md) solutions for what they can [do](results.md) instead. This is frequently a difficult task that requires plenty of consideration, and requires that people [have compassion](people-love.md) on the least-qualified individuals in society.
-
-APPLICATION: People tend to take technology for granted, especially when they're [young](maturity.md). By comparing how lifestyles exist with various degrees of [technology](technology.md), we can [understand](understanding.md) [the easiest way to live](goodlife.md) for various circumstances.
-
-APPLICATION: [Political](stories-storytellers.md) and [military power](people-conflicts-war.md) comes through technology. You can travel wherever you want with the correct vehicles and spread information wherever you want with the appropriate [computer systems](technology.md).
-
-APPLICATION: Technology never really solves [moral](morality.md) problems. It only magnifies them as the physical problems disappear.
+APPLICATION: If we're not [careful](safety.md) or [wise](understanding.md), technology can rapidly break things. Be very cautious when you use its [power](power.md), *especially* when it can affect [an entire group](groups-small.md)!

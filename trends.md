@@ -14,8 +14,17 @@ In fact, barring [human universals themselves](humanity-universals.md), *everyth
 - The [image](image.md) of an [organization or social movement](groups-small.md) as witnessed by everyone observing it
 - [Technologies and tools](technology.md), as well as toys
 - Certain political things like [civil liberties](people-boundaries.md) and approval of government policies
+- Even the way we interpret thoughts is a "trend". People gain interest in something, then become familiar, then grow bored with it after a while.
 
 Most people must [understand](understanding.md) a trend to adopt it, so every successful trend's [essence](values.md) can be simply described. Each trend is a [symbolic](symbols.md) conclusion to a [story](stories.md) that started with a [group](groups-small.md) that recognized a [problem](purpose.md) and tried to fix it.
+
+APPLICATION: Healthy [routines](habits.md) are upward trends:
+
+- General physical well-being [to the best of our ability](body-4_health.jpg) requires [eating well](body-2_diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-3_exercise.md).
+- Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
+- [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](results.md), [growing](maturity.md), and [learning](education.md).
+- [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
+- [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](decisions.md).
 
 Almost everything we do that affects others is influenced by a [group's](groups-small.md) standards, and those standards are mostly previous trends that have reached maturity. With the possible exception of [technology](technology.md), *everything* is simply a [remix](mind-creativity.md) of a previous trend.
 
@@ -37,11 +46,15 @@ Typically, the trend starts by not even [*existing*](reality.md) within the [gro
 
 The trend *always* start at the fringe of the group's [understanding](understanding.md). The only people who engage with it are willing to break from that group's [expectations](imagination.md), typically because they're exploring *another* [culture](culture.md).
 
+APPLICATION: Innovators are often [venerated in stories](stories-storytellers.md) if they succeed. For every innovator given honor, dozens or hundreds of them lived unfashionable, unimportant public lives. To [follow their example](socialrisk.md), keep that in mind to [learn](understanding.md) from their mistakes.
+
 While the thing may exist in another group, nobody will [believe](understanding-certainty.md) it to be worth trying, or will have additional untrue beliefs that imply it's [useless](purpose.md) or [bad](morality.md).
 
 The trend will have advocates, though, who sincerely [believe](understanding-certainty.md) that the thing will answer a [problem](purpose.md). Most of the time, they're [watching](people-3_boundaries.md) what they [say](language.md) about it. Most [large systems](groups-large.md) [turn bad](mgmt-badsystems.md) by crafting elaborate [stories](stories-storytellers.md) to maintain the [taboo](morality-taboo.md).
 
 For smaller trends, like variations of a different trend, people won't [feel](mind-feelings.md) opposed to it, but will wonder why that remix is even necessary.
+
+APPLICATION: If you're the architect of an idea, you didn't really "think" it yourself, since you likely conflated multiple ideas and applied them in a different way. But, if you're the first thinker of a new trend, you may well deserve credit for it. You will *not* get that credit, and someone else who comes later will have the trend named after them, but there's tremendous [meaning](meaning.md) in finding this arrangement acceptable.
 
 ### B. Possible, but weird
 
@@ -60,6 +73,14 @@ Often, many of them are labeled heretics and outcasts. Their [risk-taking](socia
 
 Large trends start with innovators who were extremely [creative](mind-creativity.md) or extremely foolish. However it happened, they broke an invisible "wall" of society in a way that was useful.
 
+APPLICATION: To be a major influencer in pretty much any domain, you must be lucky enough to have the following:
+
+- Be born with a high-Conscientiousness and high-Openness [personality](personality.md) to [drive hard](success-4_routine.md) and [take risks](socialrisk.md)
+- The fortune to live in a [technologically](technology.md) strong and [demographically](culture.md) varied [large social group](groups-large.md)
+- Be born about 20-40 years before a major new innovation
+- Have the [wisdom](understanding.md) to make the right [decisions](decisions.md) at the time of a new trend, without sacrificing all your resources on an ultimately failed trend
+- If it's a physically or mentally demanding role to lead the adoption, you must also have certain genetic dispositions as well
+
 ### C. Cool, but uncommon
 
 Some people like to break [convention](habits.md) but are still [afraid](mind-feelings-fear.md) of breaking a [taboo](morality-taboo.md). These "early adopters" represent about 13.5% of a group, and are constantly balancing the delicate relationship between the competing [desires](purpose.md) to innovate and conform.
@@ -76,11 +97,15 @@ The most [creative](mind-creativity.md) uses of the thing come with the early ad
 
 Early adopters' experiments will yield remarkable [solutions](purpose.md) and abuses of [power](power.md), but nowhere *near* as prevalent as later on. However, its novelty will generate *major* public reactions from it.
 
+APPLICATION: Trendy people *[want](purpose.md)* everything to conform to their trends, but society can never run that way. Instead, trendy people spend lots of effort on failed trends before other people take on [proven](results.md) things. However, trendy people try to [distort the perceived popularity](image-distortion.md) of the trends they [wish](purpose.md) to advance.
+
 An early adopter successfully advancing a trend is unlikely. However, they're closely calculating and straddling social [expectations](imagination.md), so they never really suffer the [stigma](socialrisk.md) that innovators tend to receive. Early adopters and groups made of early adopters, though, almost *always* interpret those trends as "game-changers", and will [share](stories-storytellers.md) them with [inflated](image-distortion.md) [expectations](imagination.md) on the belief everyone will love it with mere [persuasion](influence.md).
 
 Most of the time, [looking back](stories-storytellers.md), trends are attributed more to early adopters than innovators. The name (which is usually from the early adopter) becomes a [symbol](symbols.md) for the thing that [unfairly](morality-justice.md) disregards innovators who actually *started* the trend or the previous trends that warmed everyone up to it.
 
 In [groups](groups-member.md), most trends die with early adopters, usually revisiting at least a few generations later with a different [culture](culture.md) of the same [group](groups-small.md). If enough people [identified](identity.md) with the thing once it died, they become a separate [niche group](groups-small.md) that's more easily [swayed](influence.md) toward future trends similar to it.
+
+APPLICATION: The most lucrative time to invest in something is when the innovators are playing with it. But, the safest time to legitimately profit off something is to follow what the early adopters are doing. The yields for following an innovator over an early adopter are *insanely* higher and *way* more [unpredictable](imagination.md), and if 30% of the people already use something you're going to get a [modest and safe](safety.md) return on your efforts.
 
 ### D. Public, and popular
 
@@ -94,7 +119,21 @@ The early majority starts something because they see proof it has worked and has
 - Other people with the same [personality](personality.md) as them have already adopted it.
 - The resource cost (usually price) is at or lower than the resource cost for the alternative older way trends and [rituals](habits.md).
 
+APPLICATION: To see a new trend, watch how useful technology becomes. For example, clothing styles will have no more further advancements until they create a new fabric or find a way to create affordable [computer screens](engineering-screen.md) *onto* fabric.
+
+APPLICATION: Huge, society-spanning trends often come from awful conflicts and hardship:
+
+- The Golden Age of the Renaissance in Europe arose from the tragic experiences of seeing the Bubonic Plague destroy most of the continent, likely because people focused on [meaning](meaning.md) from [mortality](legacy.md) and how to [live well](goodlife.md) in light of it.
+- After The Great World War (WWI), Germany was utterly ravaged. That hatred led to [passions](purpose.md) which advanced Germany's Nazi Party in an election, mostly from a desire to [justly](morality-justice.md) take back the [power](power.md) they had held.
+- France was [economically](economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
+
 Like early adopters' [conflict](conflicts-inner.md), the early majority also care a *lot* about [how they look](image.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](rules.md).
+
+APPLICATION: Trends require multiple people to take hold of it:
+
+1. Innovators must be willing to break convention and explore [taboos](morality-taboo.md).
+2. Early adopters must be willing to [take a risk](socialrisk.md) on the trend enough to [influence](power-influence.md) others.
+3. Quite a few [sensible](logic.md), [respectable](image.md) people have to agree that the early adopters' approach is worth the [risks](safety.md) to adopt.
 
 At this point, the trend will spread across a variety of social groups beyond simple [hearsay](stories-storytellers.md) or [small talk](people-conversation.md):
 
@@ -110,6 +149,8 @@ As the majority starts making the trend a [habit](habits.md), another late major
 
 At this point, the late majority will conform standards to that trend, but not [willingly](purpose.md). Instead, they're afraid of the [social push-back](people-conflicts.md) if they break the newly established [social rules](rules.md), since the trend has become so prevalent that they're at risk of committing a [taboo](morality-taboo.md) by *not* honoring it.
 
+APPLICATION: To avoid becoming obsolete, focus on things that won't change anytime during your lifetime.
+
 A trend that becomes a social standard is a constraint because everyone [assumes](imagination.md) it's a [universal](humanity-universals.md) [value](values.md). They usually also presume that everyone else assumes it as well, or is at least somewhat [familiar](understanding.md) with its ubiquity.
 
 At this stage, most [creative](mind-creativity.md) efforts that change the trend are streamlining its use, so there's very little development toward exploring new ideas:
@@ -118,6 +159,8 @@ At this stage, most [creative](mind-creativity.md) efforts that change the trend
 - Simplifying it, removing elements, or making it more [attractive](image.md) to engage otherwise uninterested people.
 
 The result of all this is that it becomes very, very boring, and all the innovators find more interesting things to do.
+
+APPLICATION: To be anti-fragile, we must *never* accept something as a "loss". Setbacks, limits, scarcity, challenges, and obstructions are all parts of [reality](reality.md), but the only failure comes through [believing](understanding-certainty.md) a [risk](socialrisk.md) is defined by its [results](results.md) more than its [effort](purpose.md). A society that maintains this attitude can repeatedly rise above *anything* (e.g., the Renaissance came from surviving the Black Plague, America's Greatest Generation came from the Great Depression and World War II).
 
 Every [organization](groups-large.md) that benefits from a trend wants to keep a trend at this stage. Many [organizations](groups-large.md) convert to [bad systems](mgmt-badsystems.md) or arise in this stage.
 
@@ -138,6 +181,10 @@ The first signs of a trend losing power is when [humor](humor.md) starts parodyi
 Some people will *always* refuse to adopt a trend. These people are "laggards", and will never adopt it. They usually represent about 16% of the group.
 
 Laggards only adopt because they absolutely must, and often only because the [law](rules.md) has become [punitive](rules-methods.md). Many laggards are defiantly set in their [habits](habits.md), but [creative](mind-creativity.md) laggards can become the innovators of other trends that run *counter* to those trends.
+
+APPLICATION: No matter what, every trend is just a majority adopting it. There will *always* be outliers who never [change](people-changes.md) from their fixed [habits](habits.md). Depending on the thing in question, extremists tend to either [disbelieve](understanding-certainty.md) their existence or maintain their outlier status.
+
+APPLICATION: There will always be "old people" industries for phased-out things. They will almost always be low-[quality](values-quality.md), and are rarely worth [specializing](jobs-specialization.md) in unless you simply need the money. Those old people will likely never [change](people-changes.md), but *will* often complain when their old trends are finally phased out.
 
 The laggards' [passion](purpose.md) dictates how long a trend can be a Social Standard Zombie. The more passion, the faster they'll successfully [build](creations.md) a trend that opposes it.
 
@@ -182,6 +229,8 @@ As a trend starts dying, people will [create](creations.md) *away* from the tren
 The majority of people who *still* use the trend are acting from [habit](habits.md). Innovators and early adopters either desperately seek new trends because they don't [trust](understanding-certainty.md) the current trend, or have already moved on to another trend to fit their [purposes](purpose.md). Soon enough, nearly everyone else will follow.
 
 The [leadership](groups-large.md) of a dead trend is usually unaware of the warning signs from their most [risk-prone](socialrisk.md) members leaving. Typically, they'll believe that they've finally "purged" the last threats to their power and created complete [order](understanding-certainty.md), often right before they suffer a crushing defeat from an outside source.
+
+APPLICATION: When most people of any [group](groups-small.md) start growing tired of a trend, the trend is losing its [influence](power-influence.md) and about to shift.
 
 If a trend has many people who [invested](decisions.md) tons of [power](power.md) into it, the trend will fade *very* quickly.
 
@@ -239,6 +288,8 @@ Each trend consists of sub-trends that can spin off on their own (all of them dr
 
 A trend is a series of many [stories](stories.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
 
+APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) toward. Often, following trends can get you in [trouble](rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
+
 The only way we'd be able to reliably predict the timing of a trend would be to [understanding](understanding.md) all the trends and [technology](technology.md) that haven't happened yet in between where we are and what we envision. We'd also have to consider all major factors that could tweak the trend's adoption ([example here](https://ncase.me/attractors/)).
 
 The length of a trend's phase comes from how new something is, according to each person's [calculation](decisions.md):
@@ -249,6 +300,8 @@ The length of a trend's phase comes from how new something is, according to each
 - New mini-trends around an initial trend can restart the trend cycle all over again at any time. Often, they'll send the public in a previously unexpected direction, destroying unrelated trends and revitalizing loosely connected ones.
 
 ## Tweaks to a trend
+
+Trends spread like diseases. A few people at first, then a large group, then practically everyone until they're immune to it. Also, like diseases, ideas require human hosts, and wouldn't exist without [groups](groups-small.md) to spread it.
 
 A trend can't be stopped, but it *can* be dramatically altered.
 
@@ -303,6 +356,8 @@ Most large-scale trends tend to cycle themselves into other associated trends:
 
 Many trends feed into each other. Often, society-rocking trends are usually the convergence of *many* people with multiple types of [desires](purpose.md) that get fulfilled from one thing. Typically, they'll fade as fast as they started because our [image](image.md) of [reality](reality.md) often deceives us, especially when we hear a [story](stories-storytellers.md) that gives us false [hope](understanding-certainty.md).
 
+APPLICATION: To make the most strides in [advancing](purpose.md), society needs a precarious balance that gives enough conflict to create resistance, but not enough conflict that [bad systems](mgmt-badsystems.md) can take over. The only [safety](safety.md) is in [change](people-changes.md), and the only progress arises from [convention](habits.md).
+
 ## Long-term cycles
 
 Often, trends will swing on a cyclical "pendulum". They'll oscillate back-and-forth across extremes spanning decades or centuries because the two trends address opposing [human universals](humanity-universals.md).
@@ -315,7 +370,11 @@ Often, [values](values.md) associated with things will *completely* invert thems
 - Clothing fashions move from conservative, back to liberal, back to conservative again, and often split and go in *opposite* directions at the same time.
 - Writing styles across centuries tend to shift from blunt, to poetic and florid, and back to terse again.
 
+APPLICATION: When we hear of [political movements](politics-conservativeliberal.md) that overstep their boundaries, the tide will shift when most people get sick of it enough to [react](people-conflicts-war.md).
+
 This pendulum effect means [moralizing](morality.md) non-moral things can be dangerous to anyone's sanity, and [exiling](morality-taboo.md) heretics often comes back around later.
+
+APPLICATION: We can't fairly judge people from the distant past by present fashions. The embodiment of their [culture](culture.md) was so heavily removed from ours from [technology](technology.md), [science](science.md), [religion](religion.md) and time that we must learn to think the way *they* thought at the time to discover why their innovators were so [influential](power-influence.md).
 
 The speed the pendulum moves is determined heavily by [universal human characteristics](humanity-universals.md), augmented by the longest-standing [cultural norms](culture.md) and [technological developments](technology.md). Any deviation from those universals will quickly revert back.
 
@@ -325,6 +384,8 @@ Also, when the pendulum sits in the trends of [individual efforts](purpose.md), 
 2. Slow, growing exposure to the conflicts represented by the scope of [purpose](purpose.md), defined as "resistance" or "pressure".
 3. A final, grand clash between the old and new. This is the [mythologized](stories-myths.md) part of the experience, and the portion everyone remembers and [retells](stories-storytellers.md) later. It's the "crash", "breakdown", "surge", "resistance" or "advancement".
 4. (repeat #1)
+
+APPLICATION: Everything has its season, and watching for the timing of a season is critical to [living well](goodlife.md). Investing effort, or not, depends on what phase of the Recovery/Buildup/Action cycle we're in.
 
 Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](leftism.md)):
 
@@ -341,6 +402,8 @@ Sometimes, a cycle moves *repeatedly* on a somewhat [predictable](imagination.md
 - [Generational](maturity.md) cycles as the new generation re-[learns](understanding.md) a remix of the previous generation's lessons, either by not [listening to it](stories-storytellers.md) or them not [communicating it](people-conversation.md).
 - The patterns of [success and achievement](success-1_why.md).
 
+APPLICATION: Sometimes a trend can rise and fall across centuries, depending on its mini-trends. It's not easy to detect when it'll fail, but we can often discover how trends will go by [understanding](understanding.md) the lives of [people who lived before us](stories-storytellers.md).
+
 Part of the existence of cycles comes through [aging](maturity.md):
 
 1. People tend to nostalgically remember the trends of their teenage years as the "best time of their lives".
@@ -348,74 +411,14 @@ Part of the existence of cycles comes through [aging](maturity.md):
 3. Our [understanding](understanding.md) maxes out around age 51, and we tend to resist new trends at that time.
 4. For that reason, society as a collective whole always [fights](people-conflicts-war.md) between trends from 35 years ago and trends from 10-15 years ago.
 
-Generally, cycles never break, and are critical to [understand](understanding.md) the long-term way to [live well](goodlife.md) in that [culture](culture.md).
-
-
-
-## APPLICATION: trends
-
-APPLICATION: Even the way we interpret thoughts is a "trend". People gain interest in something, then become familiar, then grow bored with it after a while.
-
-APPLICATION: Trends spread like diseases. A few people at first, then a large group, then practically everyone until they're immune to it. Also, like diseases, ideas require human hosts, and wouldn't exist without [groups](groups-small.md) to spread it.
-
-APPLICATION: If you're the architect of an idea, you didn't really "think" it yourself, since you likely conflated multiple ideas and applied them in a different way. But, if you're the first thinker of a new trend, you may well deserve credit for it. You will *not* get that credit, and someone else who comes later will have the trend named after them, but there's tremendous [meaning](meaning.md) in finding this arrangement acceptable.
-
-APPLICATION: When most people of any [group](groups-small.md) start growing tired of a trend, the trend is losing its [influence](power-influence.md) and about to shift.
-
-APPLICATION: We can't fairly judge people from the distant past by present fashions. The embodiment of their [culture](culture.md) was so heavily removed from ours from [technology](technology.md), [science](science.md), [religion](religion.md) and time that we must learn to think the way *they* thought at the time to discover why their innovators were so [influential](power-influence.md).
-
-APPLICATION: When we hear of [political movements](politics-conservativeliberal.md) that overstep their boundaries, the tide will shift when most people get sick of it enough to [react](people-conflicts-war.md).
-
-APPLICATION: Sometimes a trend can rise and fall across centuries, depending on its mini-trends. It's not easy to detect when it'll fail, but we can often discover how trends will go by [understanding](understanding.md) the lives of [people who lived before us](stories-storytellers.md).
-
-APPLICATION: To be a major influencer in pretty much any domain, you must be lucky enough to be born with the [personality](personality.md) to [drive hard](success-4_routine.md) and [take risks](socialrisk.md), mixed with the fortune to live in a [technologically](technology.md) strong and [demographically](culture.md) varied [large social group](groups-large.md), combined with being born about 20-40 years before a major new innovation, and the [wisdom](understanding.md) to make the right [decisions](decisions.md) at that time. If it's a physically or mentally demanding role, you must also have certain genetic dispositions as well.
-
-APPLICATION: The most lucrative time to invest in something is when the innovators are playing with it. But, the safest time to legitimately profit off something is to follow what the early adopters are doing. The yields for following an innovator over an early adopter are *insanely* higher and *way* more [unpredictable](imagination.md), and if 30% of the people already use something you're going to get a [modest and safe](safety.md) return on your efforts.
-
-APPLICATION: Innovators are often [venerated in stories](stories-storytellers.md) if they succeed. For every innovator given honor, dozens or hundreds of them lived unfashionable, unimportant public lives. To [follow their example](socialrisk.md), keep that in mind to [learn](understanding.md) from their mistakes.
-
-APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) toward. Often, following trends can get you in [trouble](rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
-
-APPLICATION: To avoid becoming obsolete, focus on things that won't change anytime during your lifetime.
-
-APPLICATION: Huge, society-spanning trends often come from awful conflicts and hardship:
-
-- The Golden Age of the Renaissance in Europe arose from the tragic experiences of seeing the Bubonic Plague destroy most of the continent, likely because people focused on [meaning](meaning.md) from [mortality](legacy.md) and how to [live well](goodlife.md) in light of it.
-- After The Great World War (WWI), Germany was utterly ravaged. That hatred led to [passions](purpose.md) which advanced Germany's Nazi Party in an election, mostly from a desire to [justly](morality-justice.md) take back the [power](power.md) they had held.
-- France was [economically](economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
-
-APPLICATION: Trendy people *[want](purpose.md)* everything to conform to their trends, but society can never run that way. Instead, trendy people spend lots of effort on failed trends before other people take on [proven](results.md) things. However, trendy people try to [distort the perceived popularity](image-distortion.md) of the trends they [wish](purpose.md) to advance.
-
-APPLICATION: Trends require multiple people to take hold:
-
-1. Innovators must be willing to break convention and explore [taboos](morality-taboo.md).
-2. Early adopters must be willing to [take a risk](socialrisk.md) on the trend enough to [influence](power-influence.md) others.
-3. Quite a few [sensible](logic.md), [respectable](image.md) people have to agree that the early adopters' approach is worth the [risks](safety.md) to adopt.
-
-APPLICATION: No matter what, every trend is just a majority adopting it. There will *always* be outliers who never [change](people-changes.md) from their fixed [habits](habits.md). Depending on the thing in question, extremists tend to either [disbelieve](understanding-certainty.md) their existence or maintain their outlier status.
-
-APPLICATION: There will always be "old people" industries for phased-out things. They will almost always be low-[quality](values-quality.md), and are rarely worth [specializing](jobs-specialization.md) in unless you simply need the money. Those old people will likely never [change](people-changes.md), but *will* often complain when their old trends are finally phased out.
-
 APPLICATION: Beyond [technology](technology.md), most of society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](image.md), and the [youth](maturity.md) *always* think a trend is new.
-
-APPLICATION: To see a new trend, watch how useful technology becomes. For example, clothing styles will have no more further advancements until they create a new fabric or find a way to create affordable [computer screens](engineering-screen.md) *onto* fabric.
 
 APPLICATION: If you believe something people had believed 100 years ago and still do, you'll likely be right 100 years from now. Those things are likely [universal to humanity](humanity-universals.md), and transcend [culture](culture.md). The same generally applies for wrong things as well.
 
-APPLICATION: Everything has its season, and watching for the timing of a season is critical to [living well](goodlife.md). Investing effort, or not, depends on what phase of the Recovery/Buildup/Action cycle we're in.
+Generally, cycles never break, and are critical to [understand](understanding.md) the long-term way to [live well](goodlife.md) in that [culture](culture.md).
 
-APPLICATION: The average lifespan of a civilization was about 400 years. After the fall of the Roman Empire, it's been closer to about 300 years. With [technology](technology.md) allowing instant [information access](people-conversation.md), it may lower itself to 200.
-
-APPLICATION: To make the most strides in [advancing](purpose.md), society needs a precarious balance that gives enough conflict to create resistance, but not enough conflict that [bad systems](mgmt-badsystems.md) can take over. The only [safety](safety.md) is in [change](people-changes.md), and the only progress arises from [convention](habits.md).
-
-APPLICATION: To be anti-fragile, we must *never* accept something as a "loss". Setbacks, limits, scarcity, challenges, and obstructions are all parts of [reality](reality.md), but the only failure comes through [believing](understanding-certainty.md) a [risk](socialrisk.md) is defined by its [results](results.md) more than its [effort](purpose.md). A society that maintains this attitude can repeatedly rise above *anything* (e.g., the Renaissance came from surviving the Black Plague, America's Greatest Generation came from the Great Depression and World War II).
-
-APPLICATION: Healthy [routines](habits.md) are upward trends:
-
-- General physical well-being [to the best of our ability](body-4_health.jpg) requires [eating well](body-2_diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-3_exercise.md).
-- Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
-- [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](results.md), [growing](maturity.md), and [learning](education.md).
-- [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
-- [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](decisions.md).
+The speed of a trend is directly connected to how fast [information](information.md) travels. Therefore, within [the information age](history-eras.md), trends will adopt faster than before.
 
 APPLICATION: At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](imagination.md) and commenting on [social media](networks-social.md)). This probably won't go away anytime soon, either.
+
+APPLICATION: The average lifespan of a civilization was about 400 years. After the fall of the Roman Empire, it's been closer to about 300 years. With [technology](technology.md) allowing instant [information access](people-conversation.md), it may lower itself to 200.

@@ -19,6 +19,8 @@ Our [perceptions](image.md) are limited, so we take perceived facts by [trusting
 
 - *Rational* thoughts, by contrast to logical ones, are tempered by intuition derived from [feelings](mind-feelings.md).
 
+APPLICATION: We call things "intuitive", but usually mean "familiar".
+
 One of the most profound limits to our understanding is that we *always* lock onto whatever we understand to be true.
 
 - Nobody can ever sincerely and honestly say, "I believe differently than I know".
@@ -36,6 +38,10 @@ We build our understanding through [learning/education](education.md), which alw
 2. Directly observing something, often by seeing or touching it. Often, [media](creations.md) will reproduce that experience.
 3. Observing second-hand through [language](language.md). By reading or listening to other people who have experienced, we can [imagine](imagination.md) the experience for ourselves.
 
+APPLICATION: We can't simply learn by [rote memorization](mind-memory.md) or [acquiring information](information.md). Instead, we must experience the information to know how to work with it.
+
+With adverse experiences, we can only learn from them if we take [responsibility](meaning.md) to [change](people-changes.md).
+
 We then process the information:
 
 1. We assemble the information in our mind using [visual imagery](image.md) and [language](language.md).
@@ -43,7 +49,13 @@ We then process the information:
 3. If we're not sure, we'll either [analyze](logic.md) or [meditate](awareness-meditation.md) on what we've received, or will seek our environment for more information.
 4. Our [soul](humanity.md) identifies when the remainder is sufficient that we can adequately [imagine](imagination.md) what we're observing.
 
+APPLICATION: [Small children](maturity.md) often can understand, but don't have words for what they understand. A considerable portion of their [parents'](people-family.md) job to give them those words.
+
+APPLICATION: We must understand what to do before we [start anything](results.md), since acting in the wrong direction will make things worse than doing nothing. With experience, we can become highly qualified at knowing what specific information we need.
+
 The result of this process is a set of abstracted things we can quickly experience through our [feelings](mind-feelings.md) as we sense them.
+
+APPLICATION: In a sense, understanding is like [philosophy](philosophy.md) or [investing](money-investing.md) knowledge: useless by itself, but severely magnifies [power](power.md) if it's applied to a [specialty](jobs-specialization.md).
 
 After we've integrated those experiences, we tend to call those things "our ideas". They're mostly others' ideas adapted to our form of thinking, but we've worked with them them so heavily that we make them a part of our [identity](identity.md).
 
@@ -72,6 +84,8 @@ To gain more understanding of [something we don't know](unknown.md), we generall
   - Why does it? - asking the cause behind the known effect
   - Why can/will it? - asking the [logic](logic.md) behind a [prediction](imagination.md)
   - Why won't it? - finding the [unknown](unknown.md) obstruction toward a [purpose](purpose.md)
+
+APPLICATION: The types of questions we ask define most of the things we grow to understand. Asking "what" will never get anyone as far as asking "how" or "why". Curiosity is necessary to gain wisdom.
 
 In particular, "why" questions generate the most information because they request the broadest possible range of information. They also help [bridge connections](https://gainedin.site/networks/) the easiest between things, since they most easily help us to detect [patterns](symbols.md) across domains.
 
@@ -173,6 +187,8 @@ To apply understanding, there are three major ways we can gain skills:
 2. We can train toward it (i.e., "nurture")
 3. [Nature](reality.md) or [culture](culture.md) can grant it automatically, which often works as a multiplier for the rest
 
+APPLICATION: The only difference between understanding and skill is whether we know something consciously or subconsciously, which isn't always clearly defined.
+
 The most abstracted form of wisdom represents as proverbs, which have the following characteristics:
 
 - Short enough to be memorable
@@ -180,6 +196,8 @@ The most abstracted form of wisdom represents as proverbs, which have the follow
 - Clear and [certain](understanding-certainty.md) about what is being indicated
 - [Patterned](symbols.md) after [general realities of life](humanity-universals.md)
 - Poetically paced, or with a poetic choice of words
+
+APPLICATION: You can only understand something someone else says when you can say a statement back to them in your words in a way they can agree is accurate. This is *very* difficult to do, requires *tremendous* [emotional intelligence](mind-feelings.md), and most people will never do it.
 
 ## Specialized understanding
 
@@ -196,6 +214,8 @@ APPLICATION: An expert is someone who has failed (and learned) many times in a v
 Great [communication](language.md) (and [teaching](education.md)) requires finding patterns that convey ideas simply, which is its unique specialization and usually more work than most people are willing to do.
 
 Understanding scales [exponentially](math.md). A person will know 1 thing now, 4 things tomorrow, 50 things the next day, 300 the day after that. This pattern comes from how each new node in a mental network can potentially connect to *all* the other existing things, and each connection is the beginning of a thought.
+
+APPLICATION: Someone's understanding can easily transfer to other disciplines, which is why successful people in one field can so rapidly adapt to other unrelated fields.
 
 We generally attain the peak of our understanding on a subject when we can maintain the maximum number of possible perspectives on a subject that can potentially exist. However, we never really finish understanding something because we tend to forget many basic elements in the pursuit of our mastery, losing our "generalist" capacity in the process.
 
@@ -221,6 +241,8 @@ As we're trying to understand things, we often discover what we don't know and f
 
 Wise people know how little they understand, but also aren't afraid to [look](image.md) stupid in their [search](purpose.md), so they're still [confident](trust.md) they *can* attain understanding and that it's worth at least some sacrifice of their [reputation](image.md) to get it.
 
+APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](culture.md) and [conflict](conflicts-inner.md), but fools often disregard them.
+
 APPLICATION: Question obvious things. The more mundane and obvious, the more likely everyone else overlooks an apparent fact. The same rule goes for [taboo](morality-taboo.md) subjects.
 
 At a certain point, increasing our understanding will simplify things and create more clarity. Once we've grasped the full [image](image.md) of that thing as far as it can go (which happens eventually because everything but [God](religion-answers.md) has finite components), we find [certainty](understanding-certainty.md) in what we understand.
@@ -229,11 +251,19 @@ APPLICATION: The more we know, the more possible perspectives we see we may be a
 
 As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
 
+APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
+
 At the same time, confidence for wise people is granular. For example, someone may know they're an expert in commercial interior plumbing, but will know how little they understand in other plumbing-related disciplines.
+
+APPLICATION: Often, true understanding doesn't come in what you know, but in knowing intuitively that something is wrong or worth ignoring. The only way to find it out is through very close observation.
 
 APPLICATION: Since we must accept how little we know, more [information](image.md) makes wisdom harder to maintain. The only way to stay wise *and* intelligent is with many [inner conflicts](conflicts-inner.md) over what we'd conventionally [perceive](image.md) and [believe](understanding-certainty.md).
 
 When someone tests experience against [reality](reality.md), they will discover truth. They know with [absolute certainty](understanding-certainty.md) they've found it, so they don't need to reassess it, and it becomes a [mental habit](habits.md) that slowly moves to the subconscious. People often describe tested experiences as "experience" or "enlightenment", but it's also known as "common sense" when most people in a [group](groups-member.md) automatically believe it.
+
+APPLICATION: Common sense is the set of experiences that made their way into a group, but that doesn't mean the group understands *why* those experiences are good. This means there's always a push for [new ideas against tradition](politics-conservativeliberal.md) within any social group where nobody really knows what's going on.
+
+APPLICATION: While extreme beliefs aren't generally accurate, having a wide variety of extreme beliefs that are *highly* contextual is essentially the quickest way to live the [good life](goodlife.md).
 
 As we [age](maturity.md), we either build new understanding to build more assertion or will let our [past trauma](hardship-ptsd.md) scramble our understanding and erode any confidence we had.
 
@@ -284,6 +314,8 @@ Understanding certain things can also become tremendously risky for successfully
 
 More understanding takes work to maintain, proportionally to the intellect aspect of our [personality](personality.md). We tend to focus and filter other perspectives through whatever it is we already know because it's the easiest way to link things. Every [specialization](jobs-spcialization.md) will possess its opportunity cost of not being able to see things in the plain way that a [child](maturity.md) would be able to see things. Thankfully, this changes after we leave that specialization and start forgetting information.
 
+APPLICATION: If we trust others' understanding, we must mind the [culture](culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
+
 [Past trauma](hardship-ptsd.md) or [fears](mind-feelings-fear.md) of what things may imply will often make us sidestep having to understand certain things. With enough experience, some people find [creative](mind-creativity.md) ways to avoid understanding something entirely!
 
 Possessing understanding creates a severe blind spot because it makes us [certain](understanding-certainty.md) of specific things, which will slowly develop as presumed [patterns](symbols.md) of how [reality](reality.md) works.
@@ -292,48 +324,8 @@ Possessing understanding creates a severe blind spot because it makes us [certai
 - Since understanding is effectively a composite of finely-tuned [bias](mind-bias.md), there is a strategic advantage to having no knowledge, especially as [reality changes](reality.md).
 - Rational people can be susceptible to dumb ideas proportional to how much they [trust](understanding-certainty.md) their intelligence.
 
-### APPLICATION: Experience
-
-APPLICATION: We can't simply learn by [rote memorization](mind-memory.md) or [acquiring information](information.md). Instead, we must experience the information to know how to work with it.
-
-APPLICATION: We can only learn from our adverse experiences if we take [responsibility](meaning.md) to [change](people-changes.md).
-
-### APPLICATION: Specialization
-
-APPLICATION: Someone's understanding can easily transfer to other disciplines, which is why successful people in one field can so rapidly adapt to other unrelated fields.
-
-APPLICATION: The types of questions we ask define most of the things we grow to understand. Asking "what" will never get anyone as far as asking "how" or "why". Curiosity is necessary to gain wisdom.
-
-APPLICATION: The only difference between understanding and skill is whether we know something consciously or subconsciously, which isn't always clearly defined.
-
-APPLICATION: We must understand what to do before we [start anything](results.md), since acting in the wrong direction will make things worse than doing nothing. With experience, we can become highly qualified at knowing what specific information we need.
-
-APPLICATION: In a sense, understanding is like [philosophy](philosophy.md) or [investing](money-investing.md) knowledge: useless by itself, but severely magnifies [power](power.md) if it's applied to a [specialty](jobs-specialization.md).
-
-APPLICATION: You can only understand something someone else says when you can say a statement back to them in your words in a way they can agree is accurate. This is *very* difficult to do, requires *tremendous* [emotional intelligence](mind-feelings.md), and most people will never do it.
-
-### APPLICATION: Confidence
-
-APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](culture.md) and [conflict](conflicts-inner.md), but fools often disregard them.
-
 APPLICATION: The elderly have lived so long in their [habits](habits.md), so they either possess some of the strongest understanding of all humanity or some of the worst. There's very little room for them to be in the middle.
 
-APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
+## Additional Reading
 
-APPLICATION: While extreme beliefs aren't generally accurate, having a wide variety of extreme beliefs that are *highly* contextual is essentially the quickest way to live the [good life](goodlife.md).
-
-APPLICATION: Often, true understanding doesn't come in what you know, but in knowing intuitively that something is wrong or worth ignoring. The only way to find it out is through very close observation.
-
-### APPLICATION: Culture
-
-APPLICATION: [Small children](maturity.md) often can understand, but don't have words for what they understand. A considerable portion of their [parents'](people-family.md) job to give them those words.
-
-APPLICATION: Common sense is the set of experiences that made their way into a group, but that doesn't mean the group understands *why* those experiences are good. This means there's always a push for [new ideas against tradition](politics-conservativeliberal.md) within any social group where nobody really knows what's going on.
-
-APPLICATION: If we trust others' understanding, we must mind the [culture](culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
-
-APPLICATION: We call things "intuitive", but usually mean "familiar".
-
-Additional Reading
-
-- [Mental Models](https://fs.blog/mental-models/)
+[Mental Models](https://fs.blog/mental-models/)

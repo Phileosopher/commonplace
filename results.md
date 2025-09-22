@@ -23,7 +23,11 @@ We discover we're wrong *all the time*, but if we've acted on that information, 
 - We [trust](trust.md) some people or [groups](groups-member.md) too much or too little.
 - We'll often [conclude](logic.md) the wrong cause and repeat the same problem.
 
+APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
+
 Since we must suffer the consequences sometimes years or a decade later than a [decision](decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
+
+APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
 
 Further, that period of unknown consequences frequently means we create bad [habits](habits.md) that are *much* harder to [change](people-changes.md) than if we had been [educated](understanding.md) outright by our environment at the moment we made the decision.
 
@@ -52,9 +56,13 @@ Relational consequences are the highest-risk. The audience of what we create hav
 
 Since there's very little personal [usefulness](purpose.md) to self-made [art](art.md) (rather than the convenience of something self-made like [technology](technology.md)), most artistic endeavors are relational creations. Since artists already contend with the [unknown](unknown.md) to *create* (and they made it very [personal](humanity.md) in the process), the unknown dimension of seeing what others *do* with those results is often [emotionally](mind-feelings.md) severe.
 
+APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
+
 ## Success
 
 To perform well is to be [successful](success-1_why.md), but a successful person is difficult to measure because we tend to look at a person and [identify](identity.md) them as "one" success. Their success, however, was many smaller [decisions](decisions.md) and consequences layered on top of one another as a dynamic building relationship between the creator, [creation](creations.md), and any audience who witnessed it.
+
+APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
 
 The [quality](values-quality.md) of a successful [creation](creations.md), though, is usually defined by difficult-to-measure components. Beyond the period's [fashions](trends.md) and existing [technologies](technology.md) that make the task seem trivial, a well-received creation must feel "[human](humanity.md)" and sincere through many, many tiny imperfections placed throughout its work. It also must defy present [trends](trends.md) without breaking too many [taboos](morality-taboo.md).
 
@@ -66,11 +74,23 @@ Going from awful to adequate takes *much* more work than going from adequate to 
 4. Something that would attract a large crowd might take 9,300 (300 more).
 5. The greatest player alive may have only attained 9,500 of them (200 more).
 
+APPLICATION: While adequacy is statistically normal, unusually successful people do a few things to compensate:
+
+1. Expect that everything will go wrong, and become freakishly good at what they *can* control to compensate.
+2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](imagination.md).
+3. [Predict](imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
+
+FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends.md), [career](jobs-1_why.md), or whatever.
+
 Even when we fully [know](understanding.md) simple things, they have a chance of failure. The line between success and failure is painfully thin (as little as 1% sometimes), so success is *rarely* [certain](understanding-certainty.md). We are always susceptible to fumbling, [miscommunication](language.md), interference, obstructions, fatigue, and distractions.
 
 We often can't know many other things, many of which can further decrease our chances of success. It may be called chances, luck, fate, improbability, or God, but it's [the unknown](unknown.md) as it affects our [purposes](purpose.md).
 
+APPLICATION: Except for the people who [entertain us](stories-storytellers.md), we tend to imagine ourselves as less capable than we really are. This means there's *always* untapped potential within everyone except professional entertainers.
+
 The result of a successful creation will *always* create more, similar creations by others. They may be derivative works or, in the case of [intellectual properties](legal-ip.md) or risks of [civil liberties](people-boundaries.md), a suppressed combination of ideas that form into something else that's considered entirely new. Either way, the effective creator starts [trends](trends.md).
+
+APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
 
 We frequently [imagine](imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
 
@@ -82,6 +102,8 @@ We don't respond well to failure. Usually, we'll react inappropriately:
 2. Drill into our [perceptions](image.md) of [cause-and-effect](logic.md) and find the broken link in the chain.
 3. Focus all our effort into blaming and distancing from the perceived problem.
 
+APPLICATION: Artists are hypersensitive to the responses to their creative works because they've poured their hearts into it. The rest of the world must give artists more grace, and artists must learn to emotionally detach from what they create after they're finished with it.
+
 In reality, the "at fault" person or [group](groups-member.md) isn't easy to discern:
 
 - The person controlling the object that caused a failure is partly at fault.
@@ -92,6 +114,8 @@ In reality, the "at fault" person or [group](groups-member.md) isn't easy to dis
 - Taken far enough, *everyone* is responsible, even [God](religion.md).
 
 For all failings, everyone connected is at fault somehow, and it's only a matter of assigning [percentages](math.md). Since the entire planet is connected by about six degrees of social relationships, everyone is somewhat [morally](morality.md) responsible for all bad things.
+
+APPLICATION: Fan theories and hacks, while often [hilarious](humor.md), are brilliant ways the public answers clear [story](stories.md) and [engineering](engineering.md) failures the original creator could *never* have considered. These theories show the consumers have been so [affected](meaning.md) by the creative work that they decide to produce for themselves.
 
 We *should* be finding ways to not see failure again in the future, but that requires halting the [habit](habits.md) of blame. Most people don't, though, because they feel [injustice](morality-justice.md) over the [past trauma](hardship-ptsd.md) that haunts them, and they often start down the path to [evil](morality-evil.md).
 
@@ -107,7 +131,11 @@ Everything, as it increases toward our [purpose](purpose.md), gives incrementall
 - The amount of [understanding](understanding.md) we gain from learning decreases incrementally as we develop more expertise with it.
 - Over time, the results from a [creative work](mind-creativity.md) will evoke less [feeling](mind-feelings.md) as [its trend cycle develops](trends.md).
 
+APPLICATION: One fascinating element of diminishing return arises in how we [understand](understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
+
 This diminishing return creates upper limits on almost everything we do. Leading up to those limits, everything tapers off until it becomes prohibitively resource-intensive.
+
+APPLICATION: Diminishing return means that simple [decisions](decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
 
 There are various reasons diminishing return exists:
 
@@ -130,7 +158,11 @@ A diminishing return isn't necessarily bad. It's usually a sign that our [purpos
 
 Frequently, by adapting the [image](image.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](economics.md) or to reach a [new audience](stories-storytellers.md).
 
+APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
+
 This trend won't have the passion and [creative spark](mind-creativity.md) of its original design (especially since its original creator has [changed](people-changes.md)), so it will be nowhere *near* as memorable or interesting as its original, even while being far more polished and well-made.
+
+APPLICATION: Unless a content creator has an alternative form of income, they'll eventually cash in and sell out. This will frequently include [affiliate marketing](marketing.md), selling lower-quality offerings, and a general deterioration in [quality](values-quality.md).
 
 ## Ripples
 
@@ -144,38 +176,3 @@ However, there are multiple reasons it's generally wiser to be skeptical of anyo
 - When someone actually *does* predict the future, it's [debatable](people-conflicts.md) how well they performed, especially if they were vague.
 - Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](trends.md).
 - We're all very prone to error, and tend to [redirect attention](image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!
-
-
-## APPLICATION: results
-
-APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
-
-APPLICATION: Except for the people who [entertain us](stories-storytellers.md), we tend to imagine ourselves as less capable than we really are. This means there's *always* untapped potential within everyone except professional entertainers.
-
-APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
-
-APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
-
-APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
-
-APPLICATION: While adequacy is statistically normal, unusually successful people do a few things to compensate:
-
-1. Expect that everything will go wrong, and become freakishly good at what they *can* control to compensate.
-2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](imagination.md).
-3. [Predict](imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
-
-APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends.md), [career](jobs-1_why.md), or whatever.
-
-APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
-
-APPLICATION: Diminishing return means that simple [decisions](decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
-
-APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
-
-APPLICATION: One fascinating element of diminishing return arises in how we [understand](understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
-
-APPLICATION: Artists are hypersensitive to the responses to their creative works because they've poured their hearts into it. The rest of the world must give artists more grace, and artists must learn to emotionally detach from what they create after they're finished with it.
-
-APPLICATION: Fan theories and hacks, while often [hilarious](humor.md), are brilliant ways the public answers clear [story](stories.md) and [engineering](engineering.md) failures the original creator could *never* have considered. These theories show the consumers have been so [affected](meaning.md) by the creative work that they decide to produce for themselves.
-
-APPLICATION: Unless a content creator has an alternative form of income, they'll eventually cash in and sell out. This will frequently include [affiliate marketing](marketing.md), selling lower-quality offerings, and a general deterioration in [quality](values-quality.md).

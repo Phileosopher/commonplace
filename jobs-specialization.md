@@ -93,6 +93,8 @@ APPLICATION: Civilizations are maintained because some people took tremendous ca
 
 We'll also cluster near other groups that can serve other needs (e.g., food, water, shelter, electricity). Over time, multiple specialties come together as people move there or are born to form a village, and can eventually become a city the same way.
 
+APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
+
 As the settlements group from a [small](groups-small.md) to [large community](groups-large.md), the [members](groups-member.md) have more anonymity, and [human nature](humanity.md) means some of them will abuse the freedom.
 
 The geography and climate has a *profound* impact on the [culture](culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](decisions.md) into the [tasks](purpose.md) required to survive and thrive.
@@ -110,24 +112,18 @@ Individuals who transition *inside* their specialized [groups](groups-large.md) 
 - After enough [experience](maturity.md), people often become consultants (e.g., independent contractors, political lobbyists, bounty hunters).
 - Frequently, if someone is [influential](influence.md) enough, they can venture into a new area and [build](socialrisk.md) an entire [subgroup](groups-small.md) for themselves!
 
-APPLICATION: People who lead societies statistically come from smaller towns because they have to learn a wider range of skills to survive and have a stronger sense of [responsibility](meaning.md).
-
-Naturally, as groups grow, they become towns, that slowly become [cities](politics-city.md), with all the specializations that exist in pretty much every other city.
-
-
-
-## APPLICATION: specialization-cities
-
-APPLICATION: Every time society suffers a *massive* decline in population, [technology](technology.md) moves backward by a few hundred years from all its required specializations. It catches up again rather quickly, but is frequently difficult for people to adapt for at least a few generations.
+Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends.md) than their immediate neighbors.
 
 APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](imagination.md) they *do* understand.
 
+FURTHER APPLICATION: People who lead societies statistically come from smaller towns because they have to learn a wider range of skills to survive and have a stronger sense of [responsibility](meaning.md).
+
+Naturally, as groups grow, they become towns, that slowly become [cities](politics-city.md), with all the specializations that exist in pretty much every other city.
+
 APPLICATION: Civilization means more people. Follow where the streets get quieter to find the "natural" state of a region, then keep going until you're far away from the city center to find an entirely different [culture](culture.md).
 
-APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
+Every time society suffers a *massive* decline in population, [technology](technology.md) moves backward by a few hundred years from all its required specializations. It catches up again rather quickly, but is frequently difficult for people to adapt for at least a few generations.
 
-APPLICATION: Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends.md) than their immediate neighbors.
+A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.
 
 APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](rules.md) and [building](results.md) civilization.
-
-APPLICATION: A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.

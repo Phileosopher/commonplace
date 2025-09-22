@@ -13,6 +13,8 @@ We never technically *like* change, since it disrupts our [habits](habits.md). H
 
 Contrary to what many more [intelligent people](education.md) imagine, changing isn't by acting on [logical conclusions](logic.md). Instead, it's based on how well we can [feel](mind-feelings.md) the benefits of the [results](results.md) of making a change.
 
+APPLICATION: We tend to only change toward what we can [feel](mind-feelings.md), mostly because things we can't feel don't seem important to us. Successful [leaders](groups-small.md) feel strongly over abstractions like charts and [calculations](math.md) because they [understand](understanding.md) what those things imply.
+
 We can always [choose](decisions.md) to generally direct where our changes will go and the [values](values.md) our changes will associate with:
 
 - Physically - exercising [creativity](mind-creativity.md)/[control](results.md) on the world around us
@@ -21,7 +23,9 @@ We can always [choose](decisions.md) to generally direct where our changes will 
 - Socially - anything involving others including [venting](influence.md), directing, and [politics](influence.md)
 - [Habitually](habits.md) - intensifying what we've done before and adding to our [certainty](understanding-certainty.md)
 
-We're changing/responding proportional to the degree we [wish](purpose.md) to act. Those responses are often driven by subconscious [faith](trust.md) in past [habits](habits.md).
+We're changing/responding proportional to the degree we [wish](purpose.md) to act. Those responses are often driven by subconscious [faith](trust.md) in past [habits](habits.md) and experiences.
+
+APPLICATION: The minimum changes we must make are what we [feel](mind-feelings.md), so our choice of what and how much we [consume](creations.md) will dictate what [influences](power-influence.md) us. Enough bad art will distort our sense of [taste](values-quality.md). [Bad friends](people-friends.md) corrupt [good character](morality.md). Reading the [news](stories-storytellers.md) constantly will require [political opinions](politics-conservativeliberal.md), but not as much from skimming headlines once a week.
 
 Our change is always at least proportional to the degree we can [feel](mind-feelings.md) our environment. We won't have to change if we don't feel a connection to something, but absolutely *will* change if we do.
 
@@ -29,7 +33,13 @@ Our change is always at least proportional to the degree we can [feel](mind-feel
 
 We change to conform to our [expectations](imagination.md) of what [the good life](goodlife.md) requires.
 
+APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](understanding.md) of the good life is always [correct](understanding.md) instead of merely trying to change [habits](habits.md).
+
 Except for rebellion, we're always conforming *toward* something. Rebellion's conformity is essentially "anti-something", driven directly by simple [hatred](purpose.md) of that thing.
+
+APPLICATION: From [terrorism](people-conflicts-war.md) to [entrepreneurs](socialrisk.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](goodlife.md).
+
+Rebellion, in particular, is always anti-[something], so we don't have much control over who or what we oppose. It could be any version of the opposite of something, including its ideological inverse, ideological reverse, absence, or destruction, and we will vacillate between them unless we form principles we conform toward instead.
 
 We can't easily [calculate](math.md) how much we'll conform to something. Like with nature's [physics](science-physics.md), there's a type of "[slack](http://joshuahhh.com/projects/hysteresis/)" between when the [environment](reality.md) provides situations for us to make [decisions](decisions.md), when we actually *make* those decisions, and when we [create](creations.md) some sort of change.
 
@@ -57,23 +67,10 @@ Across a lifetime, natural [trends](trends.md) will emerge [regarding](stories.m
 
 No matter how we live, we're building additional [understanding](understanding.md). That understanding comes from how we can recall the [perspective](image.md) we had when younger compared to now, a bit like a [friendship](people-friends.md) with our past selves.
 
+APPLICATION: We must change, but we don't like change, and too much or too little change will make us go crazy. For that reason, we must always stay only a little uncomfortable to keep growing. We're not reaching our fullest potential If we're perfectly satisfied, but we'll make *terrible* [decisions](decisions.md) without any [inner peace](conflicts-inner.md).
+
 ## Ripples
 
 After enough time, our changes spill into others' lives. This can dramatically shift our [culture](culture.md), especially when we break others' [expectations](imagination.md).
 
 Generally, a social group will face [*gigantic* conflicts](people-conflicts-war.md) when the [power dynamics](power-types.md) shift from someone changing. This comes from the desire for [safety](safety.md) pushed against the benefits of [taking risks](socialrisk.md).
-
-
-## APPLICATION: changes
-
-APPLICATION: We tend to only change toward what we can [feel](mind-feelings.md), mostly because things we can't feel don't seem important to us. Successful [leaders](groups-small.md) feel strongly over abstractions like charts and [calculations](math.md) because they [understand](understanding.md) what those things imply.
-
-APPLICATION: The minimum changes we must make are what we [feel](mind-feelings.md), so our choice of what and how much we [consume](creations.md) will dictate what [influences](power-influence.md) us. Enough bad art will distort our sense of [taste](values-quality.md). [Bad friends](people-friends.md) corrupt [good character](morality.md). Reading the [news](stories-storytellers.md) constantly will require [political opinions](politics-conservativeliberal.md), but not as much from skimming headlines once a week.
-
-APPLICATION: From [terrorism](people-conflicts-war.md) to [entrepreneurs](socialrisk.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](goodlife.md).
-
-APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](understanding.md) of the good life is always [correct](understanding.md) instead of merely trying to change [habits](habits.md).
-
-APPLICATION: We must change, but we don't like change, and too much or too little change will make us go crazy. For that reason, we must always stay only a little uncomfortable to keep growing. We're not reaching our fullest potential If we're perfectly satisfied, but we'll make *terrible* [decisions](decisions.md) without any [inner peace](conflicts-inner.md).
-
-APPLICATION: Rebellion is always anti-[something], so we don't have much control over who or what we oppose. It could be any version of the opposite of something, including its ideological inverse, ideological reverse, absence, or destruction, and we will vacillate between them unless we form principles we conform toward instead.

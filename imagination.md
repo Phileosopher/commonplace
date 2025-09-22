@@ -16,6 +16,8 @@ By removing and adding various elements, we can form a remarkable variety of [st
 
 Most of what we [perceive](image.md) as "[reality](reality.md)" is simply our imagination, proportional to our [creative ability](mind-creativity.md). We incessantly play with our memories to create horrific [mental illnesses](mind-feelings-fear.md), but absolutely any [willfully created](creations.md) thing has to be imagined first as well.
 
+APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
+
 Anything that isn't real is the domain of [fictional stories](stories.md). But often, we constrain that imagining into only [likely](understanding-certainty.md) things. The non-fiction version of imagination, usually regarding the future, is called "predictions" or "expectations".
 
 ## Predictions and expectations
@@ -24,13 +26,19 @@ Predictions are stories we have [reason](logic.md) to [believe](understanding-ce
 
 When we're children, we make sweeping generalizations with very little accuracy. [Adults](maturity.md) tend to predict things with more case-by-case focus (barring [trauma](hardship-ptsd.md)), but slowing down thoughts to consider [bias](mind-bias.md) still takes tremendous [discipline](morality.md).
 
+APPLICATION: Imagination is a form of [understanding](understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
+
 ## Purpose
 
 We only feel a sense of [meaning](meaning.md) to imagine when our predictions are at least partly useful for our [decisions](decisions.md), which is why experience sabotages imagination. If we consistently fail too many of our predictions, we tend to risk an [existential crisis](hardship-depression.md).
 
+APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
+
 We must predict the future because it dictates what we presently [create](creations.md) and [consider](purpose.md). If you knew you'd probably die tomorrow, you'd live today differently than if you knew you had forty years left to live.
 
 Since we must act, we make a [calculated wager](decisions.md) on the most likely thing, then give the rest up to whatever we [trust](trust.md).
+
+APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-feelings-happiness-stress.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
 
 ## Predicting across time
 
@@ -43,6 +51,10 @@ Since we can cross-reference the past against [reality](reality.md), we have goo
 The future is our [predictions](imagination.md) about what will happen in future instances of "now", but doesn't exist beyond our minds. Our predictions have varying degrees of accuracy, and *any* precision in our expectation of the future gives us reason to [trust](trust.md) it as reliable.
 
 Since we tend to [feel](mind-feelings.md) our predictions as if they were occurring presently, the experience in our minds is the phenomenological equivalent of [reality](reality.md) proportional to our ability to imagine.
+
+APPLICATION: We tend to obsess about odd, unlikely circumstances. This gets us into trouble because we assume that the unlikely things are likely, which can make us superstitious or anxious, depending on how we imagine its [results](results.md).
+
+FURTHER APPLICATION: When something happens, it typically means one thing: it happened. If it was unlikely, it's just as unlikely to happen again. Sometimes people get lucky, but it's better to trust an unlikely thing happening from an [unnoticed](unknown.md) place than where everyone is currently looking.
 
 The perceptions of "past" and "future" makes us [feel](mind-feelings.md) our existence is a continuum, and automatically registers in our mind as a series of connected events, even though they are functionally nothing more than memory, now, and imagination.
 
@@ -108,13 +120,25 @@ The implications of these ripples can be stunning:
 - Cracking a whip or pulling a gun's trigger is a relatively light effort that creates a precise, powerful mark that could literally change the world at the right time and place.
 - [For want of a nail, the kingdom was lost](https://en.wikipedia.org/wiki/For_Want_of_a_Nail).
 
+APPLICATION: Often, the most "likely" [trends](trends.md) are the ones that were fringe ideas:
+
+- Investing in airplanes in 1900 was a crackpot idea for only crazy people.
+- Cars were once a "dying trend" before they applied assembly line [technology](technology.md) to it.
+- Before the microchip, the "[personal computer](computers.md)" was also a dying trend.
+- Economists once predicted that New York City wouldn't be sustainable because it'd be covered in pony poop.
+- [Too many others to count](imagination-badpredictions.md)!
+
 ## Reliability
 
 Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](understanding-certainty.md) than they really are.
 
-However, since verything we work with in our minds is essentially a [story](stories.md), we tend to fixate on the end of the experience. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](image.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
+However, since everything we work with in our minds is essentially a [story](stories.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](image.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
+
+APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
 
 We tend to overestimate our predictions, and often believe we know more than we really do. We also frequently tend to [presume](trust.md) that becoming certain about unknown things guarantees we can do something about them.
+
+APPLICATION: We imagine we [understand](understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
 
 Further, we're pretty good at guessing what has happened, but are typically awful at predicting what *will* happen, for several reasons:
 
@@ -139,31 +163,4 @@ Predicting a trend is trying to [understand](understanding.md) a [story](stories
 
 In fact, most of the people who *make* gigantic trends are blissfully unaware of what their impact will be. If someone [who has died](legacy.md) is presently famous, there's a good chance they never would have thought that they'd be as famous as they became.
 
-
-## APPLICATION: imagination
-
-APPLICATION: Imagination is a form of [understanding](understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
-
-APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
-
-APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
-
-APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
-
-APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-feelings-happiness-stress.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
-
-APPLICATION: We imagine we [understand](understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
-
-APPLICATION: We obsess about odd, unlikely circumstances. This gets us into trouble because we assume that the unlikely things are likely, which can make us superstitious or anxious, depending on how we imagine its [results](results.md).
-
 APPLICATION: Staying unaware of the consequences of decisions that may have a terrible consequence can often expose us to tremendous advantages we otherwise wouldn't have had. If we can humanly survive the likely risks, it's always worth taking an [unsafe](safety.md) decision for the advantages from the [change](people-changes.md).
-
-APPLICATION: When something happens, it typically means one thing: it happened. If it was unlikely, it's just as unlikely to happen again. Sometimes people get lucky, but it's better to trust an unlikely thing happening from an [unnoticed](unknown.md) place than where everyone is currently looking.
-
-APPLICATION: Often, the most "likely" [trends](trends.md) are the ones that were fringe ideas:
-
-- Investing in airplanes in 1900 was a crackpot idea for only crazy people.
-- Cars were once a "dying trend" before they applied assembly line [technology](technology.md) to it.
-- Before the microchip, the "[personal computer](computers.md)" was also a dying trend.
-- Economists once predicted that New York City wouldn't be sustainable because it'd be covered in pony poop.
-- [Too many others to count](imagination-badpredictions.md)!
