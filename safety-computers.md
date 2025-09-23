@@ -1,11 +1,13 @@
 
-Cybersecurity is doing several things:
+# How to be safe with computers
+
+[Cybersecurity](computers-cysec.md) is doing several things:
 
 1. Putting a box around the hardware/network, giving the trusted/verified computers and people access.
 2. The untrusted/unverified computers/people are denied access.
 3. In case things break, the entire system has backups with pretty much the same permissions.
 
-However, trust isn't strictly binary.
+However, [trust](trust.md) isn't strictly binary.
 
 - People move in and out of groups/networks, earn trust, break trust, appear to be trustworthy but aren't, and so on.
 - Some things (such as anything public on the internet) are far more valuable/useful than other things (such as [trade secrets](legal-ip.md) or core [operating system](computers-os.md) files)
@@ -14,11 +16,9 @@ However, trust isn't strictly binary.
 There are many [security philosophies](computers-cysec.md) that bind a good security policy together, but it's worth noting that cybersecurity isn't really a subject of computer science as much as protecting computers from bad stuff happening, which means moving the box of trust around with two battlefronts at once:
 
 1. Safety *of* the information, which usually involves making duplicates of things ("redundancy") for when the computers fail.
-2. Safety *from* bad people, which usually involves verifying people and devices ("authentication").
+2. Safety *from* bad people misusing computer information, which usually involves verifying people and devices ("[authentication](computers-cysec-authentication.md)").
 
 It's important to understand that [hacking comes in a variety of forms](hacking.md), so it's not simply theft or destruction and all mid-level IT-skilled people can technically "hack". Most of the time, a "hacker" in popular culture is a PenTester.
-
-* * * * *
 
 ## How to defend yourself
 
@@ -101,7 +101,7 @@ Even then, there are mentally unwell people who *will* try to force an argument 
 
 Beyond this, there's also the risk of [your technological relationship with large organizations](faang.md). They don't always have your best interests in mind, and have the ability to surveil and subdue you if it serves their interests.
 
-When signing the terms of service, pay very close attention to their policies on data security, data sharing with third parties, and data collection. People often click through without realizing how much they're giving up.
+When signing the [terms of service](people-6_contracts.md), pay very close attention to their policies on data security, data sharing with third parties, and data collection. People often click through without realizing how much they're giving up.
 
 ### Canaries
 

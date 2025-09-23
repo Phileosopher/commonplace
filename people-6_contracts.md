@@ -1,5 +1,5 @@
 
-# How to have contracts with others
+# How to make contracts with others
 
 Always, *always* use [a contract](people-contracts.md), written at least, and preferably notarized.
 

@@ -1,5 +1,5 @@
 
-# How contracts work
+# How social contracts work
 
 *NOTE: I'm not a lawyer. This simply explains business contracts in plain English. This is not legal advice.*
 
