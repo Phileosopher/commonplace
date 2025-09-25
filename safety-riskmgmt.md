@@ -22,7 +22,7 @@ Risk management involves treating or avoiding loss exposures:
 2. Reducing risk - using risk control techniques to mitigate the scope of those risks (e.g., preventative efforts, installing fire sprinklers, security systems).
 3. Retaining risk (self-insurance) - holding yourself financially responsible for all or part of a risk (e.g., [saving money](money-4_spending.md)).
 4. Sharing risk - proportionally distributing risk among multiple individuals according to investment or need (e.g., [communal lifestyle](home-homestead.md), coinsurance/risk sharing agreement).
-5. Transferring risk - arranging a contract for someone else to [take the risks entirely](insurance.md) (e.g., paying a fee to an insurer, subcontracting work to another entity, a lease arrangement).
+5. Transferring risk - arranging a contract for someone else to [take the risks entirely](money-insurance.md) (e.g., paying a fee to an insurer, subcontracting work to another entity, a lease arrangement).
 
 Please note, this only creates [meaning](meaning.md) if it *might actually happen*, and preferably for others' benefit, or it's simply the never-ending motivation of [fear](mind-feelings-fear.md). It's also fear when it doesn't respect others' [decisions](decisions.md) to expose *themselves* to risk.
 
@@ -70,7 +70,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 ## Financial Protection
 
-- Have sufficient [insurance](insurance.md) policies to protect all your financial risks.
+- Have sufficient [insurance](money-insurance.md) policies to protect all your financial risks.
   - Auto
   - Health
   - Disability
@@ -85,7 +85,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Specializations
 
 - Have a network of top-class professionals to manage your things:
-  - [Insurance](insurance.md) agent
+  - [Insurance](money-insurance.md) agent
   - [Attorneys](legal-safety.md) for *all* necessary specializations
   - [Realtor](home-buysell.md)
   - [Accountant](accounting.md) - tax advisor, accountant, estate manager, and auditor

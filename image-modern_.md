@@ -45,7 +45,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Rental and mortgage agreements
    - Bank accounts and [lines of credit](money-2_debt.md)
    - Financial purchases with any card associated to your name
-   - [Insurance](insurance.md)
+   - [Insurance](money-insurance.md)
    - [School](education.md) attendance
    - [Telecom](networks-computer.md) and utility agreements (e.g., cell phone, cable TV)
    - Hospital and [healthcare](body-4_health.md) visits
@@ -84,7 +84,7 @@ To that end, your reputation involves a few arcane tasks:
 1. Make sure those relevant reports capture advantageous things you do:
    - Take out loans in *your* name, not anyone else's (i.e., where you pay back someone else who borrows).
    - Use established institutional entities for your activities whenever possible (e.g., a large bank like Chase or Wells Fargo instead of a transfer service like PayPal or Western Union).
-   - When it doesn't matter much, use "standard" institutional services (e.g., mainstream large-scale [insurance](insurance.md), large branded banks).
+   - When it doesn't matter much, use "standard" institutional services (e.g., mainstream large-scale [insurance](money-insurance.md), large branded banks).
 2. Keep your reputation clear with large entities.
    - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
    - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-6_contracts.md) with another organization and terminate that one.
@@ -95,7 +95,7 @@ To that end, your reputation involves a few arcane tasks:
 This situation means most casual (and typically cost-effective) interactions are simply your name running by on a [database](database.md):
 
 - The [credit score](money-2_debt.md) asks 3 possible reporting companies (Experian, TransUnion, Equifax) if other banks found this entity trustworthy to lend money to.
-- The [insurance score](insurance.md) asks a reporting company (LexisNexis) who this entity has had insurance with and what dates.
+- The [insurance score](money-insurance.md) asks a reporting company (LexisNexis) who this entity has had insurance with and what dates.
 - [Health](body-4_health.md) information is accessible through the Medical Information Bureau.
 - There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](education.md) records to bank accounts open in your name.
 - The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals.md) to do their job.
@@ -118,7 +118,7 @@ There are pros and cons to this arrangement:
   - The bureaus are intentionally *not* easily available for disputing the information.
   - If you ever [lie](people-lying.md) about anything that materially exists in your legal fiction, *that* will often be reported as well.
   - If there's ever a clerical error (e.g., typographical error on a name, Social Security number entered incorrectly), that will connect to an entirely *different* entity and not count positively toward your score (and may even make the report indicate more people than there actually are).
-- The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](accounting.md) information.
+- The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](accounting.md) information.
   - It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
 - There's zero grace if you screw up, since any chance to explain your situation will *only* work with one person at a time.
   - Even one missed payment, on *anything*, can harm your score, and there's nothing you can do about it except earn it back with future payments.
@@ -147,7 +147,7 @@ Legal
 - *Always* keep your government-issued photo ID with you (i.e., driver's license, state ID, or passport).
 - File your [yearly taxes](accounting.md), ideally by early February but *definitely* by April 15th.
 - Honor the police's [authority](legal-safety.md), and never even *imply* you're bribing them.
-- Have [liability insurance](insurance.md) for *all* your vehicles, keep the insurance card stored in the vehicle's glove box, and *only* drive within the conditions that qualify for your license (e.g., don't drive alone with a permit).
+- Have [liability insurance](money-insurance.md) for *all* your vehicles, keep the insurance card stored in the vehicle's glove box, and *only* drive within the conditions that qualify for your license (e.g., don't drive alone with a permit).
 
 Communication
 
@@ -166,7 +166,7 @@ Skills
 
 Products
 
-- Trust the public ratings over individual experience if the product is a commodity (e.g., [insurance](insurance.md), toilet paper, [autos](autos.md)).
+- Trust the public ratings over individual experience if the product is a commodity (e.g., [insurance](money-insurance.md), toilet paper, [autos](autos.md)).
 - Trust smaller institutions and your personal experience for more specialized products.
 
 Legal
@@ -177,7 +177,7 @@ Legal
 - Keep certain documentation locked away in a safe container somewhere:
   - Social security card
   - Titles to vehicles and real estate
-- Have a network of experts for the variety of needs you may run across (e.g., [accounting](accounting.md), [insurance](insurance.md), [law](people-6_contracts.md), etc.).
+- Have a network of experts for the variety of needs you may run across (e.g., [accounting](accounting.md), [insurance](money-insurance.md), [law](people-6_contracts.md), etc.).
 - If you have money in collections, contact the source of the collections to pay them back to avoid a scam.
 
 Communication
@@ -187,7 +187,7 @@ Communication
 Skills
 
 - Keep your [automotive](autos.md) well-maintained.
-- [Insure](insurance.md) everything of significant value (e.g., [auto](autos.md), [house](home-buysell.md)).
+- [Insure](money-insurance.md) everything of significant value (e.g., [auto](autos.md), [house](home-buysell.md)).
 
 ## What you could do
 

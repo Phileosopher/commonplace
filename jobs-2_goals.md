@@ -377,7 +377,7 @@ Note current trends within your desired industry:
 
 While a 5-year plan is nice, it's not necessary:
 
-- Excluding change-resistant industries like [accounting](accounting.md), [insurance](insurance.md), and [law](legal-safety.md), most industries move around *constantly* from [new technology](technology.md) and [trends](trends.md).
+- Excluding change-resistant industries like [accounting](accounting.md), [insurance](money-insurance.md), and [law](legal-safety.md), most industries move around *constantly* from [new technology](technology.md) and [trends](trends.md).
 - Play the situation by ear a little, since you'll need to adapt to any changes that come your way.
   - Take smaller leaps before larger ones to avoid most of the risks from experience you couldn't have planned for.
 - Sometimes, depending on how much you can pivot from your current employment situation to what you want, it's better to only have a *one*-year goal.

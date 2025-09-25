@@ -13,7 +13,7 @@ As soon as your termination is certain, ask all relevant questions to your HR de
 1. When do I receive my last paycheck?
 2. Will I receive any severance pay?
 3. How long will I have to exercise my company stock options, and what will happen to my [401(k)](money-investing.md)?
-4. Does the company offer [healthcare coverage](insurance.md) after my last day, and if so, for how long?
+4. Does the company offer [healthcare coverage](money-insurance.md) after my last day, and if so, for how long?
 5. Will you provide a reference for me?
 6. How can I receive copies of my performance reviews, and when?
 

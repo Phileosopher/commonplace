@@ -1,5 +1,5 @@
 
-*Previous: [Communication](mgmt-5_communication.md)*
+# How managers maintain morale
 
 Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) can make-or-break an organization's morale.
 
@@ -13,7 +13,9 @@ In practice, healthy member management is hands-off, a bit like [gardening](hort
 
 Informal [mentoring](education.md) is *far* more effective than formalized mentoring to create results.
 
-- *They* should be coming to *you* with questions, or you're likely lecturing them about something they either already know or don't care about, or they don't feel [safe](safety.md) talking with you.
+- *They* should be coming to *you* with questions, and if not:
+  - You're likely lecturing them about something they either already know or don't care about.
+  - They don't feel [safe](safety.md) talking with you.
 - If you have a tendency to give unsolicited input, encourage them to interrupt you if they don't want to hear it.
 - If people feel valued, they're more likely to share the organization's vision.
 
@@ -27,15 +29,17 @@ Stay vigilant over what you can control when you make [decisions](decisions.md).
 
 - Sometimes, you can control workers' constraints (e.g., firing, docking pay) but not freedoms (e.g., break time, more pay), and other times it's the other way around.
   - [Legal constraints](legal-safety.md) can create this, but company policy as a [middle manager](mgmt-middle.md) makes even *more* constraints.
-- Ideally, you should be able to both incentivize and punish equally, but stay cautious over overusing them if you have one more than the other.
+- Too many incentives makes everyone lazy, and too much disciplinary action makes everyone [paranoid](mind-feelings-fear).
+- Ideally, you should be able to both incentivize and punish equally, but stay cautious about overusing them if you have one more than the other.
   - Every disciplinary action should have an equivalent reward, and every reward should have an equivalent discipline.
-  - e.g., if it's harder to fire someone than hire them, you must be very picky when [interviewing](mgmt-3_teams.md).
-  - e.g., if you can give pay raises but can't dock pay, you must be very careful with giving raises.
+    - e.g., if it's harder to fire someone than hire them, you must be very picky when [interviewing](mgmt-3_teams.md).
+    - e.g., if you can give pay raises but can't dock pay, you must be very careful with giving raises.
 
 When things are going well, deliver lavish rewards and severe punishments.
 
-- Your disciplinary actions should never surpass the scope of your rewarding actions.
-  - If they do, you made bad [hiring decisions](mgmt-3_teams.md) and should consider trying again.
+- Your disciplinary actions shouldn't surpass the scope of your rewards except to make an example of a *very* bad worker.
+  - If you're disciplining far more often, own that you made bad [hiring decisions](mgmt-3_teams.md).
+    - If you're not a great judge of character, consider giving that responsibility to someone else.
 - Do *not* deliver rewards publicly if others weren't able to achieve them as well, or everyone else will feel it's [unfair](morality-justice.md).
 - Don't deliver punishments publicly, or that person will feel it's [unfair](morality-justice.md).
 
@@ -225,9 +229,9 @@ Cash bonuses always work, but aren't the only way to reward people.
 - Try celebrations instead of a reward, which is simply a more fun method of recognition.
   - Lavish celebrations can often become awards ceremony traditions as well.
 - Since it creates mandatory personal time for work, do *not* meet with them for dinner.
-- Give a company car or car program that provides [insurance](insurance.md) and [maintenance](autos.md).
+- Give a company car or car program that provides [insurance](money-insurance.md) and [maintenance](autos.md).
 - Give gifts for certain life landmarks like marriage or a new baby.
-- Give them discounted or free [insurance](insurance.md).
+- Give them discounted or free [insurance](money-insurance.md).
 - Pay for their [financial](money-1_why.md)/[investing](money-investing.md) consultation services, [legal assistance](legal-safety.md), or [identity theft protection](computers-cysec.md).
 - Give significant discounts on company products.
   - Partner with affiliates in other industries to share discounts with each other.

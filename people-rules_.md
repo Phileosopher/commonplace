@@ -71,7 +71,7 @@ Power dynamics become more complicated because *other* groups often have tremend
 - Other large, allied organizations.
 - Representatives of other [large groups](groups-large.md) who could use their [power](power.md) (e.g., envoys, lobbyists, senators, CEOs, NGOs, Super PACs).
 - [Large corporations](groups-large.md) who [create](creations.md) the things that people need and [want](purpose.md).
-- Organizations that transfer [risk](safety.md) to alleviate [fears](mind-feelings-fear.md) (e.g., [insurance](insurance.md)).
+- Organizations that transfer [risk](safety.md) to alleviate [fears](mind-feelings-fear.md) (e.g., [insurance](money-insurance.md)).
 - The managers overseeing [technology](technology.md), especially the ones that manage [information](understanding.md) and [communications](people-conversation.md).
 - [Media](creations.md) organizations who [share stories](stories-storytellers.md) (e.g., news outlets, [scientific research](science.md) organizations).
 

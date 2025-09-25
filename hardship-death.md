@@ -224,7 +224,7 @@ If you're nearing death, don't worry too much about those around you:
 Keep all your paperwork [organized](organization.md) for the people who will have to sift through it after you're gone:
 
 - *All* your [computer](computers.md) passwords, or how to access them.
-- All relevant banks (with account numbers) and [insurance](insurance.md) information (especially life insurance).
+- All relevant banks (with account numbers) and [insurance](money-insurance.md) information (especially life insurance).
 - Any important tasks they may need to do (e.g., canceling subscriptions, [credit cards](money-2_debt.md), utility accounts) with clear instructions about how and when they're paid.
 - Essential documents (marriage license, auto titles, etc.) or where they're located.
 - Your will, living trust, and power of attorney (preferably all written by an estate attorney).

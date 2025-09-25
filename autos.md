@@ -10,7 +10,7 @@ Having a car is *very* useful, but it should match your lifestyle.
 Make sure your [budget](money-3_budget.md) reflects its unspoken additional costs:
 
 - Vehicle registration fees for each vehicle, usually based on its value and generally proportional to the size of the city you live in.
-- [Auto insurance](insurance.md) costs, which increase with each car and individual on the policy as well as insurance history and driving record, and *must* be full coverage if you have a [lien holder](money-2_debt.md).
+- [Auto insurance](money-insurance.md) costs, which increase with each car and individual on the policy as well as insurance history and driving record, and *must* be full coverage if you have a [lien holder](money-2_debt.md).
 - Generally, a vehicle costs about 20-30% more if it has built-in towing capacity (e.g., pickup truck, SUV).
 - Whether they're running or not, autos have maintenance requirements.
 
@@ -131,7 +131,7 @@ If you don't need a larger vehicle every week, get a smaller vehicle:
 
 Check the car's approximate market value, since auto quality varies wildly by brand and year:
 
-- High-end brands are excellent, but are expensive to repair and [insure](insurance.md) because finding parts is difficult (e.g., BMW, Renault, Ferrari).
+- High-end brands are excellent, but are expensive to repair and [insure](money-insurance.md) because finding parts is difficult (e.g., BMW, Renault, Ferrari).
 - Large brands are often reputable and tend to be affordable to repair (e.g., Toyota, Honda, Ford, Acura, Subaru, Mini).
 - Mid-level brands create reliable cars, but they have a higher chance of breaking down (e.g., GM, Nissan).
 - Value-priced companies make affordable cars that *frequently* break down (e.g., Volkswagen, Fiat, Kia, Hyundai).
@@ -428,7 +428,7 @@ To dramatically improve the life of your car by avoiding overheating, install an
 
 It's *always* worth paying for a towing service beforehand.
 
-- There are many to choose from, and they can be affordably bundled with phone service or existing auto [insurance](insurance.md).
+- There are many to choose from, and they can be affordably bundled with phone service or existing auto [insurance](money-insurance.md).
 - Have a mechanic who can service it *before* the car breaks down.
 
 When something fails, write notes to [diagnose](https://adequate.life/fix/) what's broken:

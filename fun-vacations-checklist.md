@@ -191,7 +191,7 @@ Within 3 months
 
 [ ] Reserve lodging
 [ ] Arrange for a [pet](fun-pets.md)-sitter
-[ ] Traveler's [insurance](insurance.md)
+[ ] Traveler's [insurance](money-insurance.md)
 [ ] Have the post office hold mail
 [ ] Set up lawn care
 [ ] Buy everything necessary for the trip

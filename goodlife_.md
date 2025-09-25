@@ -111,6 +111,8 @@ A well-lived life is more significant than being well-received by others or poss
 
 Use the Five-Minute Favor Rule: *always* help someone if you can fulfill their need within 5 minutes.
 
+We must decide to identify with [good](morality.md) things, and to [resist hardship](hardship.md), if we want to live [the good life](goodlife.md).
+
 * * * * *
 
 ## Additional reading

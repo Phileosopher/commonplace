@@ -174,7 +174,7 @@ Avoid discrimination in any form whatsoever.
 
 Keep at least *some* connections with large organizations: large entities have *strong* ties to other large entities, and spread a *lot* of information back-and-forth.
 
-- [Insurance](insurance.md) consults LexisNexis' CLUE report, as well as police records as applicable
+- [Insurance](money-insurance.md) consults LexisNexis' CLUE report, as well as police records as applicable
 - Banks use checking account reports and a [credit score](money-2_debt.md)
 - Medical entities consult the Medical Information Board
 - Most employers run background checks, which show criminal history
@@ -293,7 +293,7 @@ In an uneven power dynamic (e.g., you're an [employee looking for a job](jobs-1_
 
 1. The one-time contract that transfers title to your name, a lease for a duration of time, or possibly a hybrid of lease/purchase.
 2. If you don't have all the money up-front, an ongoing contract with a bank.
-3. If the bank requires it, you may need to pay for [insurance](insurance.md).
+3. If the bank requires it, you may need to pay for [insurance](money-insurance.md).
 4. If you're receiving government assistance (e.g., FHA mortgage loans), that government has another contract involved, with *many* conditions of its own.
 5. An extended warranty is essentially an ongoing service agreement, which may be with the seller or a third party.
 6. Very frequently, failing an obligation can involve *another* third party (e.g., debt collector), and can rapidly make the experience unpleasant and [bureaucratic](bureaucracy.md).
@@ -383,7 +383,7 @@ If you or they are at all unsure, make the record more official.
 
 - If the contract has significant conditions, have it notarized.
 - If you're unsure about the owner of a title, get it bonded or get title insurance.
-- If they expect any relevant [insurance](insurance.md), make sure you get a certificate of insurance from your agent.
+- If they expect any relevant [insurance](money-insurance.md), make sure you get a certificate of insurance from your agent.
 
 If you're hiring anyone, always include a non-compete, non-solicitation, and nondisclosure agreement for the duration of their employment.
 
@@ -458,7 +458,7 @@ Stay on top of communication.
 
 - Most legal notices give 30-60 days to perform, which means you may be late if you check your mail once a month.
 - Make a habit of checking your email/voicemail/mail every week.
-- Thoroughly [change your address](home-moving.md) every time you move (e.g., [insurance](insurance.md), bank information, [loans](money-2_debt.md), etc.).
+- Thoroughly [change your address](home-moving.md) every time you move (e.g., [insurance](money-insurance.md), bank information, [loans](money-2_debt.md), etc.).
 
 Try to give degrees of separation whenever possible.
 
@@ -561,7 +561,7 @@ Don't get too curious.
 - Sometimes, merely *knowing* something can get you in trouble.
 - Don't ask questions unless you're prepared for the answer, as well as the legal implications that come from knowing it.
 
-Build a network of competent professionals including an [accountant](accounting.md), [insurance](insurance.md) agent, [lawyer](legal-doctrines.md), and [realtor](home-buysell.md).
+Build a network of competent professionals including an [accountant](accounting.md), [insurance](money-insurance.md) agent, [lawyer](legal-doctrines.md), and [realtor](home-buysell.md).
 
 - A professional applies every thought, action, and spoken word as 3 possible forms of "status" toward the interests of their client:
   1. Advantageous
@@ -620,7 +620,7 @@ If you ever *are* served documentation regarding a legal dispute and have plenty
 
 In a professional capacity, it's impossible to avoid legal action (since you *can* make mistakes which some people *will* sue you over).
 
-- It's *critical* to get errors and omissions or malpractice [insurance](insurance.md) to transfer the risk away from you (and permit you to keep working).
+- It's *critical* to get errors and omissions or malpractice [insurance](money-insurance.md) to transfer the risk away from you (and permit you to keep working).
 - While courts won't hold you liable, it can still incur legal fees.
 
 Most errors simply come from misstatements.

@@ -30,7 +30,7 @@ In the smallest sense, a personal crisis is never really a breakdown of any supp
 - Lightning or some other natural disaster striking no more than a few houses
 - [Conflicts](people-5_conflicts.md) among people which end with someone [getting hurt](body-firstaid.md) or [killed](hardship-death.md)
 
-Many people are prepared for personal crises (e.g., [insurance](insurance.md)), but not much worse.
+Many people are prepared for personal crises (e.g., [insurance](money-insurance.md)), but not much worse.
 
 A supply chain temporarily fails when entire communities are affected:
 
@@ -127,7 +127,7 @@ Adopt a relatively minimalist lifestyle *before* a crisis happens:
 - You don't need to sell all your possessions and [live in an RV](home-rv.md), but have a clear distinction between your "must go with" and "can leave behind" possessions.
 - Consider what it will take to replace any of your possessions, and consider making a "must replace" list.
 
-Broaden your [investing](money-investing.md) horizons and consider various forms of [insurance](insurance.md) as "disaster investment".
+Broaden your [investing](money-investing.md) horizons and consider various forms of [insurance](money-insurance.md) as "disaster investment".
 
 Manage risks with a wide variety of easily adaptable tools:
 
@@ -147,7 +147,7 @@ Avoid the over-hyped survival pitfalls:
 
 - Don't buy gold/silver/platinum.
   - Ads about buying a commodity are because people make money from it.
-  - Keeping bars of precious metal at your house is a *very* real risk to where [insurance](insurance.md) companies won't adequately cover it, so keep them in bank safe deposit boxes (~$20/year) if you trust banks.
+  - Keeping bars of precious metal at your house is a *very* real risk to where [insurance](money-insurance.md) companies won't adequately cover it, so keep them in bank safe deposit boxes (~$20/year) if you trust banks.
   - Gold is difficult to break apart for staples like bread, so only use it to store and move money large-scale.
 - Cryptocurrencies, since you should [know what they are](computers-blockchain.md) before investing in them.
 - Commodities and futures, which [are legitimate investments](money-investing.md), but you can *really* lose money if you don't know what you're doing.

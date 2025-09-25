@@ -21,7 +21,7 @@ A product of that humility is a form of gratitude. With enough [understanding](u
 
 Another quality of age is that we learn to be satisfied with less. This means we take less [social risk](socialrisk.md) as we age (since we're fine with less grandiose returns) and tend to be [happier](mind-feelings-happiness.md).
 
-However, at the same time, aging also tends to provoke us to more risk-averse actions. While this may be healthy for some things (e.g., higher-quality [insurance](insurance.md) policies), it also means we miss out on genuinely [meaningful](meaning.md) [trends](trends.md).
+However, at the same time, aging also tends to provoke us to more risk-averse actions. While this may be healthy for some things (e.g., higher-quality [insurance](money-insurance.md) policies), it also means we miss out on genuinely [meaningful](meaning.md) [trends](trends.md).
 
 ## Stages
 

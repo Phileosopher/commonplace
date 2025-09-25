@@ -159,7 +159,7 @@ Don't pressure them about how to handle money:
 - You should have taught them when they were younger about [budgeting](money-3_budget.md) and [saving money](money-4_spending.md).
 - As much as they want to learn, teach them about [investing](money-investing.md).
 - Often, they will need to learn the hard way about money, especially about [debt](money-2_debt.md).
-- While they probably won't care, emphasize the importance of [insurance](insurance.md).
+- While they probably won't care, emphasize the importance of [insurance](money-insurance.md).
 
 Don't push them toward a specific vocation or schooling:
 
@@ -191,7 +191,7 @@ Never do for your children what they can do themselves:
   - Consistently offering your home after they've made poor lifestyle decisions.
   - Loaning money they never seem to pay back.
   - Taking your resources without considering how much you sacrificed for it.
-- This *will* become more difficult and destructive as they reach [driving age](autos.md), need [auto insurance](insurance.md), and [face legal consequences](legal-safety.md) alone.
+- This *will* become more difficult and destructive as they reach [driving age](autos.md), need [auto insurance](money-insurance.md), and [face legal consequences](legal-safety.md) alone.
 
 Your children probably know you more than you know yourself:
 

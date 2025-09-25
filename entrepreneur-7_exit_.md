@@ -1,5 +1,5 @@
 
-*Previous: [Scaling & Financing](entrepreneur-6_scaling.md)*
+# How to make an exit strategy from an entrepreneurship
 
 After you've started seeing a profit, you should start considering how you plan to leave the organization.
 

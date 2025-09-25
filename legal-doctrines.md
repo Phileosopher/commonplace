@@ -391,7 +391,7 @@ Clayton's case - debts to a bank must be paid in the order they were incurred
 
 Collateral source rule (common law) - evidence that the plaintiff/victim has received payment from a source that wasn't directly from the defendant is inadmissible, which allows for double recovery against the defendant (e.g., medical insurance paying a bill doesn't count toward the plaintiff's recovery)
 
-Comparative negligence (tort law) - aka "non-absolute contributory negligence", the fault/negligence of each party involved is based on the percentage responsibility for the event, a frequent concept in [insurance](insurance.md)
+Comparative negligence (tort law) - aka "non-absolute contributory negligence", the fault/negligence of each party involved is based on the percentage responsibility for the event, a frequent concept in [insurance](money-insurance.md)
 
 Concurrent delay doctrine (contract law) - when both parties to a contract cause delays, neither party can recover damages for the period of time when both parties were at fault
 

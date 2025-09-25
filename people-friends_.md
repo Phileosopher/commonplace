@@ -27,7 +27,7 @@ Friendships are grounded on common [interests](purpose.md), [identity](identity.
 Our shared *[interpretation](imagination.md)* of an experience (and how we [feel](mind-feelings.md) about it) is a far clearer determination of a likely friendship than simply a shared experience:
 
 - Two people who were former military won't bond nearly as much as two people recovering from [trauma](hardship-ptsd.md) in the same way, irrespective of military.
-- An [accountant](accounting.md) and an [insurance](insurance.md) agent who love their job will find more friendship than two accountants with different opinions about their work.
+- An [accountant](accounting.md) and an [insurance](money-insurance.md) agent who love their job will find more friendship than two accountants with different opinions about their work.
 - A Muslim and a Christian who both share devotion to [God](religion.md) can get along more than two Muslims or two Christians with differing devotion to God.
 
 Legitimate friendships are grounded in [love](people-love.md) for one another's [soul](humanity.md). It unifies two people into a shared experience, at least for that moment.

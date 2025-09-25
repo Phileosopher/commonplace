@@ -1,5 +1,5 @@
 
-*Previous: [Freelancing](entrepreneur-4_freelancing.md)*
+# How to be productive as a business owner
 
 If you're launching a product or project, get everything as much as possible *before* the launch date.
 
@@ -77,5 +77,3 @@ Unless you're a substantially-sized organization, trying to sue for damages agai
 - You're losing money every day a client can't pay.
 - Try to use a less-popular payment processor, since large-scale payment managers (e.g., PayPal, Stripe) will *not* prioritize you if something goes wrong on their end.
 - If you're charged different fees for different payment processors, consider adding the cost directly into the product itself.
-
-*Next: [Scaling & Financing](entrepreneur-6_scaling.md)*

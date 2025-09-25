@@ -1,3 +1,6 @@
+
+# What economics is
+
 Economics is the "soft [science](science.md)" of how (and more importantly why) people transfer goods and services throughout society, which requires observing how and why people transfer [value](values-quality.md), especially regarding [decisions](decisions.md).
 
 Money is the easiest way we can store and retrieve value, so measuring the flow of money is a decent-enough way to track how [power and wealth](power.md) are created and moves between people.
@@ -88,7 +91,7 @@ However, a market is never "pure". Market distortions adapt a free market from c
 
 - Government taxes will change a market, especially if they're focused on particular goods or services.
 - People will usually pay more for novelty (i.e., it's a new [trend](trends.md)).
-- There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](insurance.md) guaranty bond).
+- There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](money-insurance.md) guaranty bond).
 - Governments or large organizations may set price limits or [regulations](rules.md).
 - Beyond the supply cost, labor costs can be affected by other factors like overtime laws, minimum wage, and labor unions.
 - Governments may subsidize or fund programs that would otherwise not be viable on a free market.

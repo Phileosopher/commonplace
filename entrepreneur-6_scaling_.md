@@ -1,5 +1,5 @@
 
-*Previous: [Maximizing Productivity](entrepreneur-5_productivity.md)*
+# How to scale a business
 
 Smaller companies can often make more profit than large companies.
 
@@ -23,7 +23,7 @@ However, there are downsides.
 As soon as possible, [legally separate and protect yourself](legal-safety.md) from the business and associates.
 
 1. Open a small business bank account.
-2. Get business licenses, government permits, and applicable [insurance policies](insurance.md).
+2. Get business licenses, government permits, and applicable [insurance policies](money-insurance.md).
 3. To limit liability to yourself, file for an LLC or file your articles of organization/incorporation.
    - Get an Employee Identification Number (EIN) or Tax ID.
 4. If you're forming a partnership, enter a buy/sell agreement.
@@ -112,7 +112,7 @@ Employees are, by far, *the* most expensive increase to costs in a startup.
   - e.g., a nice $45 hand tool is the same as 3 hours at $15/hour, meaning a week's pay at that rate can cover a fully loaded toolset.
 - Further, that hourly rate requires extra considerations:
   - Extra accounting concerns like payroll tax filings.
-  - Administration of any benefits (e.g., [insurance](insurance.md) needs).
+  - Administration of any benefits (e.g., [insurance](money-insurance.md) needs).
   - Extra legal needs to draft [employment contracts](people-6_contracts.md) and manage [potential conflicts](legal-safety.md).
 - To that end, hire *very* slowly, and only the right people for the role.
 
@@ -156,5 +156,3 @@ As you scale upward, you'll assume increasing levels of [managerial responsibili
 
 - The [scrappy personality](entrepreneur-1_why.md) that got you here may or may not work in a manager capacity.
 - Closely observe the shifts, and [leave](entrepreneur-7_exit.md) as soon as you feel uncomfortable with the new role.
-
-*Next: [Exit Strategy](entrepreneur-7_exit.md)*

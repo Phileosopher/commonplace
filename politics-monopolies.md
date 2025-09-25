@@ -133,7 +133,7 @@ Most [cybersecurity](computers-cysec.md) and [large-scale enterprise](computers-
 
 - Equifax also has exclusive control over employment data, and tends to act as a middle organization for [HR companies](business.md) for IRS information.
 
-[Insurance](insurance.md)-related information is curated exclusively by LexisNexis.
+[Insurance](money-insurance.md)-related information is curated exclusively by LexisNexis.
 
 Most of the world's [accounting](accounting.md) is performed by 4 firms: Deloitte, EY, PwC, and KPMG
 
@@ -203,7 +203,7 @@ Military rockets in the USA, especially nuclear missiles, are contracted exclusi
 
 Most tickets for venues are sold online by Ticketmaster, a part of Live Nation Entertainment.
 
-All major brands of sunglasses and most eyewear (and [vision insurance](insurance.md)) are sold by Luxottica.
+All major brands of sunglasses and most eyewear (and [vision insurance](money-insurance.md)) are sold by Luxottica.
 
 Cheerleading apparel in the USA is dominated by Varsity Brands.
 

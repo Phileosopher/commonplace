@@ -134,7 +134,7 @@ If you fully understand a few concepts, everything else is gradations of detail:
 8. [Make your money work passively for you](money-investing.md) when you're not working.
 9. Give *much* more to others than satisfying yourself.
 10. Find legal ways to avoid paying taxes.
-11. Fight against [all risks](safety-riskmgmt.md) and [delegate the risks](insurance.md) you must take.
+11. Fight against [all risks](safety-riskmgmt.md) and [delegate the risks](money-insurance.md) you must take.
 
 Learning about money is one of the most significant investments you can make.
 

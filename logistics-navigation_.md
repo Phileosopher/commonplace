@@ -154,7 +154,7 @@ There are *many* useful implementations for satellite imagery over other domains
 - Firefighting - infrared imaging can detect precise locations of wildfires.
 - [Livestock](agriculture.md) - infrared imaging can detect animal movements.
 - Pipeline operators - consistent imaging can detect incursions into right-of-way zones.
-- [Insurance](insurance.md) - historical imaging can help investigations into fraudulent claims.
+- [Insurance](money-insurance.md) - historical imaging can help investigations into fraudulent claims.
 - Retail investment - historical imaging can predict future profitability based on parking lot fullness
 - [Farm](horticulture.md) investment - historical imaging can predict crop yield before farmers report it
 - Government - imaging can track human trafficking, find illegal fishing activities, track criminals, and find insurgent/revolutionary groups

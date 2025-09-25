@@ -165,7 +165,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
      - Exchanging assets.
      - Borrowing or paying off a [debt](money-2_debt.md).
      - Depositing from or paying the organization's owners.
-     - Losses from natural disasters or theft, or collecting an [insurance payment](insurance.md).
+     - Losses from natural disasters or theft, or collecting an [insurance payment](money-insurance.md).
    - Cash basis looks only at events that have happened, while Accrual basis looks at [promises of events happening](people-6_contracts.md) as well.
 2. Journal entries - use [language](language.md) to articulate chronologically what happened.
    - The first accounting documentation is in the journal.
@@ -178,7 +178,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
    - This step isn't necessary in a small cash-basis organization, but things rarely stay simple in a large organization.
    - Adjustments also account for one-time payments that affect multiple periods:
      - Depreciation divides out the deterioration of multi-year (long-term) assets.
-     - One-time payments for longer-term assets (e.g., [insurance](insurance.md)) are divided out to accurately match expenses with revenues.
+     - One-time payments for longer-term assets (e.g., [insurance](money-insurance.md)) are divided out to accurately match expenses with revenues.
    - At the end, take another trial balance to ensure the adjustments balance out the accounts.
 6. Adjusting journal entries - post any worksheet adjustments as journal entries to the affected accounts.
    - This step is the cumulative effort of the worksheet stage.
@@ -305,7 +305,7 @@ There are some ways to make error-searching easier:
 All assets can be classified as tangible or intangible assets.
 
 - Tangible assets are things you can point at (e.g., an [auto](autos.md) or building).
-- Intangible assets are conceptual ideas that still have value (e.g., [intellectual property](legal-ip.md), [insurance](insurance.md)).
+- Intangible assets are conceptual ideas that still have value (e.g., [intellectual property](legal-ip.md), [insurance](money-insurance.md)).
 
 They can also be current or non-current.
 
@@ -480,7 +480,7 @@ A [loan](money-2_debt.md) can be compound or simple interest:
 Even if an organization stays *very* diligent to paying all its bills, an organization will always have some form of owed payments that are "payable" to other entities:
 
 - [Payroll](business.md) (the most common)
-  - Alongside payroll, there's also withholding for tax and benefits (e.g., health [insurance](insurance.md))
+  - Alongside payroll, there's also withholding for tax and benefits (e.g., health [insurance](money-insurance.md))
   - For convenient payroll calculations, 3 minutes is equal to 0.05 hours
 - Outstanding [loan](money-2_debt.md) principal or interest to be paid to other entities.
 - Subscriptions which expect payment *after* delivery.
@@ -552,7 +552,7 @@ A company can also perform a share repurchase, where it buys back the shareholde
 
 A company that succeeds in an accounting period will have money left over, and it has several options:
 
-1. Save it as Retained Earnings, typically by placing it in a reserve account (i.e., make a [self-insurance](insurance.md) policy).
+1. Save it as Retained Earnings, typically by placing it in a reserve account (i.e., make a [self-insurance](money-insurance.md) policy).
    - It's taxable, but reinforces Operating activity.
    - A not-for-profit organization can't technically make a profit.
 2. Reinvest the money into more assets (e.g., buy new equipment).
@@ -821,7 +821,7 @@ Many, *many* business expenses can deduct from taxable income:
 - Factory expenses
 - Gifts (to an extent)
 - Home office
-- [Insurance](insurance.md)
+- [Insurance](money-insurance.md)
 - Interest paid
 - Internet domain names and hosting
 - Job search expenses

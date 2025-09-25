@@ -332,7 +332,7 @@ By living together, conflicts intensify:
 - Because you both own things together, [money](money-1_why.md) and [budget](money-3_budget.md) issues inevitably arise.
   - Money symbolizes security for females, but an opportunity to exercise freedom for males.
 - Both partners must decide who has to do unpleasant tasks.
-  - Paperwork, bill paying, [insurance](insurance.md), and [budgeting](money-3_budget.md)
+  - Paperwork, bill paying, [insurance](money-insurance.md), and [budgeting](money-3_budget.md)
   - [Shopping](money-4_spending.md)
   - [Chores (especially dishes and trash)](home-housekeeping.md), yard work, and [organization](organization.md)
   - Buying gifts, [sending letters](language-writing.md), arranging social activities

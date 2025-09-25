@@ -268,7 +268,7 @@ Synthetic products
 - BioPerformance - fuel additives
 - Fuel Freedom International - fuel additives
 
-[Insurance](insurance.md), [investing](money-investing.md), financial services, [legal](legal-safety.md)
+[Insurance](money-insurance.md), [investing](money-investing.md), financial services, [legal](legal-safety.md)
 
 - American Income Life Insurance Company - life insurance
 - LegalShield - legal services

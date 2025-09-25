@@ -3,8 +3,6 @@ The electronic gaming industry is *huge*. It's been pulling in more money than m
 
 Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](engineering-graphics.md) software) often feeds into other more practical outputs, such as [3D printing](engineering-printers.md) and [general-purpose AI](computers-ai.md).
 
-* * * * *
-
 ## History
 
 The first electronic game was created in 1958 as a demo by a physicist named William Higinbotham called Tennis for Two.
@@ -20,10 +18,10 @@ The 1970s represented some pioneering ideas in gaming, mostly dominated by Atari
 
 In the early 1980's, the graphics *heavily* improved, meaning that the visual elements started looking a bit more like what they were supposed to represent:
 
-- Vector graphics was phasing out, but a few games carried the idea farther in arcades (e.g., Tempest Star Wars).
+- Vector graphics was phasing out, but a few games carried the idea farther in arcades (e.g., Tempest, Star Wars).
 - Many legendary games arose during this time: Pac-Man, Centipede, Defender, Donkey Kong, Frogger, Galaga, Joust, Ms. Pac-Man, Pitfall!, Robotron: 2084, and Lode Runner.
-- Text-based games were in the background on personal computers (e.g., Wizardry: Proving Grounds of the Mad Overlord).
-- *Some* PC games started exploring more strategic games with the improvements in graphics (e.g., Archon: The Light and the Dark, M.U.L.E.).
+- Text-based games on personal computers were in the background of the industry (e.g., Wizardry: Proving Grounds of the Mad Overlord).
+- *Some* PC games started exploring more strategic games with improvements in graphics (e.g., Archon: The Light and the Dark, M.U.L.E.).
 
 Starting in the early 1980s, the game console companies had experienced an economic boom based on licensing. The console manufacturers had designed their games platform, but there were a *lot* of games available, and most of them were poorly-designed.
 
@@ -38,7 +36,7 @@ It wasn't long until the Japanese companies Sega and Nintendo were able to fill 
 
 The late-1980's started seeing the maturity of multiple technologies, along with improved graphics, and games became more associated with genres than the platforms that ran them:
 
-- By design, arcade games had better computers in them with more peripherals, so they still stood out (e.g., Arkanoid, Bubble Bobble, Out Run, Contra, Double Dragon, R-Type, Final Fight).
+- By design, arcade games had better computers in them with more peripherals, so they still stood out in quality (e.g., Arkanoid, Bubble Bobble, Out Run, Contra, Double Dragon, R-Type, Final Fight).
 - Many of the easily-accessible games were still typically on consoles (e.g., Mike Tyson's Punch-Out!!, Mega Man 2, Ninja Gaiden, Super Mario Bros. 3, Prince of Persia).
 - Strategy and role-playing games started becoming the specialty of the PC (e.g., Dungeon Master, Sid Meier's Pirates!, Populous, SimCity).
 
@@ -221,8 +219,6 @@ Now, PC gaming has effectively taken over the dedicated graphical experience of 
 - The power of typical graphics cards peripherals for PCs are more-or-less the same price/power ratio as many game consoles.
 - All the developers use mostly the same tools for different platforms, so console-exclusive titles are slowly becoming a fading trend from the lost profits that could have come from porting to PC, though Nintendo has still been holding out as of 2023.
 
-* * * * *
-
 ## Peak development
 
 Game development is all effective aspects of [software development](computers-software-design.md), but requires *many* [specialized](jobs-specialization.md) roles that would otherwise be optional or unnecessary in most other software domains:
@@ -236,7 +232,7 @@ Game development is all effective aspects of [software development](computers-so
 
 To that end, most game development takes a *lot* of money and time, often by a factor of four relative to most high-budget films.
 
-## Peak performance
+### Peak performance
 
 Gaming computers are the most expensive consumer-grade computers on the market, and why they tend to push hardware to their limits. This is because game development is the pinnacle of high-quality software development, for several reasons:
 
@@ -256,7 +252,7 @@ At one time, producing games became absurdly complicated because of the limits i
 - However, in the 1990's Nintendo Entertainment System, the developers had to [hack](hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
 - Even through to today, vintage [game emulators](computers-distsys-vm.md) are notoriously difficult to build because the software must reproduce the individual clock cycles and constraints of the original hardware.
 
-## Netcode
+### Netcode
 
 Across a network, games have extremely stringent requirements for input, and heavy requirements for output. From frame to frame across a [network](networks-computer.md), the game must match on *both* computers.
 
@@ -290,8 +286,6 @@ And, a rollback netcode conversation:
 - Aaron: I had a friend in Wales. Maybe you know him?
 - Bob: No, I'm from Scotland. And where are you from?
 - Aaron: I'm from Pakistan.
-
-* * * * *
 
 ## Peak psychology
 

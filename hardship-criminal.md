@@ -9,7 +9,7 @@ Some people who have forgiveness issues will *heavily* project their opinions on
 
 However, you will also be rejected from *many* jobs and rental properties for exactly 7 years from the date of the charge or sentencing.
 
-- The reason why is because it's not illegal to use your background as a data point in an [insurance](insurance.md) company's actuarial tables.
+- The reason why is because it's not illegal to use your background as a data point in an [insurance](money-insurance.md) company's actuarial tables.
   - In practice, it can cost $100-500 additional per month to hire a convict over someone with a clean record.
 
 Over time, people will have a harder time justifying their opinions if you [stay away from legal trouble](legal-safety.md):

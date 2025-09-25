@@ -84,7 +84,7 @@ One significant distinction of a contract is that it doesn't exist as a document
 When most people think of contracts, they're usually thinking of "standard" contracts, where one party has set all the terms and conditions, and the other party has agreed and signed it with very little negotiation or review. Standard contracts can represent *many* domains of a typical person's life:
 
 - Employment agreements (especially for [managers](mgmt-1_why.md_why.md) hiring [employees](jobs-1_why.md))
-- [Insurance](insurance.md) agreements
+- [Insurance](money-insurance.md) agreements
 - [Loan](money-2_debt.md) agreements
 - Service agreements (e.g., plumber, [accountant](accounting.md))
 - Release of information (e.g., medical information)
@@ -203,7 +203,7 @@ Service contract - general contract defining the scope of performing a service.
 - Big boy letter - pre-sale agreement involving a private sale of securities between two "accredited investors".
 - Derivative - a contract that derives its value to investors from an underlying entity.
   - Futures contract - purchasing something at a predetermined price for delivery at a specific time in the future.
-- Life annuity - a series of formula-defined payments at fixed intervals to an annuitant while they're still alive, typically part of an [insurance product](insurance.md) but can apply to most retirement-based matters.
+- Life annuity - a series of formula-defined payments at fixed intervals to an annuitant while they're still alive, typically part of an [insurance product](money-insurance.md) but can apply to most retirement-based matters.
   - Indexed annuity - a tax-deferred annuity where the credited interest is linked to an equity index (e.g., S&P 500).
 - Private investment in public equity (PIPE) - selling publicly traded common shares or preferred stock to private investors.
 - Stock option - an option contract specialized for stock ownership:
@@ -227,14 +227,14 @@ Relationships that vest "delegable" responsibilities and grant authorities or ri
 
 - Agency agreement - establishes the scope of work an agency can perform, as well as payment and duration.
   - Listing contract/agreement - the relationship between a property owner and a real estate broker acting as their real estate agent.
-- Aleatory contract - an uncertain event determines the parties' rights and obligations (e.g., gambling, [insurance](insurance.md)), in contrast to indemnity agreement.
+- Aleatory contract - an uncertain event determines the parties' rights and obligations (e.g., gambling, [insurance](money-insurance.md)), in contrast to indemnity agreement.
 - Community benefits agreement - community groups arrange for a real estate developer to provide specific amenities or mitigations to a community or neighborhood in exchange for the community supporting it (or at least not opposing it).
 - Distributor agreement - the relationship between a distributor and supplier.
 - Employment agreement - the relationship between an employee and employer.
 - End-user license agreement - a [software license](legal-ip-floss.md) between the software supplier and [end user](glossary-computers.md).
 - Franchise agreement - a relationship where a franchisor licenses some or all of their knowledge, procedures, [intellectual property](legal-ip.md), use of their business model, [brand](marketing.md), and rights to sell branded products and services to a franchisee.
 - Guaranteed rental - an arrangement where a party wants to rent out a property for a large block of time to rent it themselves on a retail basis (e.g., for days or weeks).
-- Indemnity agreement - a party will provide compensation for a clearly identified situation of another party (e.g., [insurance](insurance.md)), in contrast to aleatory contract.
+- Indemnity agreement - a party will provide compensation for a clearly identified situation of another party (e.g., [insurance](money-insurance.md)), in contrast to aleatory contract.
 - Independent contractor agreement - the relationship between a freelance contractor and client.
 - Licensing agreement - the relationship between a licensor and licensee.
 - Management contract - operational control of a business is "vested" for a separate entity to [manage it](mgmt-1_why.md_why.md) for a fee.

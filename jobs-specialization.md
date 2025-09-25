@@ -66,7 +66,7 @@ These specializations can apply to *any* [task](results.md) or [purpose](purpose
 - Banks hold [money](power-types.md) to [lower risk](safety.md) for other people, though they technically pay rent for it (i.e., interest).
 - Labor unions are a [separate group entirely](groups-small.md) who speak to [corporate leadership](groups-large.md) as worker representatives.
 - Underwriters and notaries are third-party people who [verify](understanding-certainty.md) someone's [trustworthiness](trust.md).
-- [Insurance](insurance.md) is the specialization of a [large group](groups-large.md) taking on [risks](safety.md) that individuals wouldn't be able to afford.
+- [Insurance](money-insurance.md) is the specialization of a [large group](groups-large.md) taking on [risks](safety.md) that individuals wouldn't be able to afford.
 
 While [war](people-conflicts-war.md) will broadly unite differing groups, the conflicts within niche domains are *far* more [emotionally charged](mind-feelings.md). Frequently, small niches can fight over things like a preferred main character in [popular media](stories-storytellers.md) or which of three possible ways to weld a beam works best.
 

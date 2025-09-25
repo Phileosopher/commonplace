@@ -63,7 +63,7 @@ Don't obsess about your fame, recognition, and reputation:
 - Living the way others expect will make you very miserable long-term.
 - Fame and reputation are fickle and depend heavily on how people feel about your publicly shared values.
 - Famous people often suffer from a *complete* lack of privacy, which makes it very difficult for them to find [happiness](mind-feelings-happiness.md).
-- A reputation *is* a very useful [insurance policy](insurance.md) against public defamation, but it requires *lots* of maintenance and doesn't have intrinsic value.
+- A reputation *is* a very useful [insurance policy](money-insurance.md) against public defamation, but it requires *lots* of maintenance and doesn't have intrinsic value.
 
 Your intelligence and knowledge aren't that important:
 

@@ -650,9 +650,9 @@ Many people exploit poor investor education to create products that create zero 
   3. Go back to the first person and give them $2,000.
   4. Repeat with everyone until you have tremendous wealth, then either leave the country and assume a new name or get caught by the government.
 - If the investors are becoming owners/sellers/marketers, they're putting their money in a [pyramid scheme](marketing-mlm.md).
-- A Section 770 or Section 702 is the portion of the tax code involved with [insurance](insurance.md).
+- A Section 770 or Section 702 is the portion of the tax code involved with [insurance](money-insurance.md).
 
-Annuities are simply another type of [insurance](insurance.md) vehicle.
+Annuities are simply another type of [insurance](money-insurance.md) vehicle.
 
 - Most insurance companies are using your premiums to invest into significantly higher-yield products for *themselves*.
   - They'll give you a guaranteed 3% rate of return for the rest of your life, but they're typically making 6% on it that you could make yourself if you took on a little more risk.
@@ -720,7 +720,7 @@ Average out your five closest friends' income to see the financial lifestyle you
 
 ### Investment advisors
 
-An investment advisor can [safely](insurance.md) manage your portfolio, but you can more easily build wealth without one if you're willing to learn and work for yourself.
+An investment advisor can [safely](money-insurance.md) manage your portfolio, but you can more easily build wealth without one if you're willing to learn and work for yourself.
 
 - A professional investor can't predict markets, but they can sometimes find and capitalize on accurate market patterns.
 - Most brokers' fees are based on investment returns, so they're more [risk-averse](safety-riskmgmt.md) than you could be.
@@ -986,7 +986,7 @@ Currencies - any means to store or transfer wealth, including [cryptocurrency](c
 - Cons:
   - At the wrong timing, geopolitical events can wildly swing its value and create losses.
   - Unless you're buying or selling them, they don't usually give returns.
-  - More of a personal [insurance policy](insurance.md) than an investment vehicle.
+  - More of a personal [insurance policy](money-insurance.md) than an investment vehicle.
 - Cryptocurrency is semi-regulated as a security, and semi-regulated as a product, so it's very murky what it actually *is*.
 
 [Intellectual properties](legal-ip.md) - ideas protected by copyright/trademark/patent law:
@@ -1028,7 +1028,7 @@ Banking (having accounts) - a bank arranges to use assets, then pays interest fo
 - Cons:
   - Depressingly small returns.
   - *Horrible* idea for long-term investing, even savings accounts.
-- The bank should be [insured](insurance.md) by the government (e.g., member FDIC for the USA).
+- The bank should be [insured](money-insurance.md) by the government (e.g., member FDIC for the USA).
   - Make sure to never surpass that insurance amount in any given account (e.g., $250,000).
   - Your bank *account* will be insured, but not your *stock ownership* of that bank.
 

@@ -1,5 +1,5 @@
 
-*Previous: [A Business Plan](entrepreneur-3_plan.md)*
+# How to freelance
 
 There are advantages to starting small:
 
@@ -139,5 +139,3 @@ Sell things you never use, don't need, or can find affordably:
 6. Only give things away when you can't sell them or you know someone who legitimately needs them:
    - Unless it's something someone specifically wants, donating money is usually *far* more meaningful and useful than valuable possessions.
    - Most charities will sell that item instead of you, so you're simply giving them more work than giving them cash.
-
-*Next: [Maximizing Productivity](entrepreneur-5_productivity.md)*

@@ -47,7 +47,7 @@ Age of majority - aka "age of consent", an indicated legal age where someone is 
 
 Agent - aka "attorney-in-fact", a person authorized to make specific decisions on behalf of someone else
 
-Agent of record - An individual or entity who has a duly executed contractual agreement with an [insurance policy](insurance.md) owner, who is responsible for purchasing, servicing, and maintaining insurance coverage with that designated insured
+Agent of record - An individual or entity who has a duly executed contractual agreement with an [insurance policy](money-insurance.md) owner, who is responsible for purchasing, servicing, and maintaining insurance coverage with that designated insured
 
 Alcohol Education Program - A pre-trial program for first time offenders charged with driving a motor vehicle under the influence of alcohol
 
@@ -654,7 +654,7 @@ Incarceration - Confinement to a state correctional institute or prison
 
 Income Withholding Order - A court order to deduct child support or alimony payments from someone's wages, which all must include an income withholding order unless both parents ask the judge not to
 
-Indemnity - A contractual obligation to compensate losses through compensation, a common concept within [insurance](insurance.md)
+Indemnity - A contractual obligation to compensate losses through compensation, a common concept within [insurance](money-insurance.md)
 
 Indigent - Someone without enough money to either support himself or herself or his or her family, or who cannot afford to pay certain fees required by the court
 
@@ -674,7 +674,7 @@ Innominate term - A component of a contract that's in the middle between a condi
 
 Innuendo - Spoken words which are defamatory through a double meaning
 
-Insured - An individual or entity who has an [insurance policy](insurance.md)
+Insured - An individual or entity who has an [insurance policy](money-insurance.md)
 
 Insurance Policy - An agreement for an insured to transfer economic risk to an insurer for a fee
 
@@ -1028,7 +1028,7 @@ Protective Order - A criminal court order issued by a judge to protect a family 
 
 Provision - A written term used in a solicitation, which becomes a clause once the solicitation becomes a contract
 
-Proximate Cause - an event related to an injury enough that it's deemed as the injury's cause, applies to both law and [insurance](insurance.md)
+Proximate Cause - an event related to an injury enough that it's deemed as the injury's cause, applies to both law and [insurance](money-insurance.md)
 
 Public Defender - An attorney appointed and paid by the state who defends a person in a criminal case after the court finds that the person is indigent (financially unable) to hire a private attorney
 

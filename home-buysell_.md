@@ -15,7 +15,7 @@ Make sure to budget other associated expenses instead of simply "rent":
 
 - Mortgage principal (which you're essentially [saving away](money-3_budget.md) until later).
 - Mortgage interest
-- PMI (an [insurance](insurance.md) for the lender if you can't put 20% down on the property)
+- PMI (an [insurance](money-insurance.md) for the lender if you can't put 20% down on the property)
 - [Property tax](accounting.md)
 - HOA fees, if applicable
 - Pool maintenance, if applicable
@@ -23,7 +23,7 @@ Make sure to budget other associated expenses instead of simply "rent":
 - Necessary [repairs and improvements](home-decorations.md) (~2%/year of house's value in good condition, and ~4%/year if it's old)
 - Any [local taxes](accounting.md) (e.g., school levies, mandatory inspections)
 - Utilities (e.g., gas, sewer, water, electric, trash)
-- [Homeowners insurance](insurance.md)
+- [Homeowners insurance](money-insurance.md)
 - Protection/security fees (in a dangerous area)
 
 Depending on your lifestyle, renting may be a better idea:
@@ -127,7 +127,7 @@ You can sometimes get a house for a *fraction* of what you'd normally pay:
 - Banks will sell foreclosed homes for a reasonable price.
 - You can take an assumable loan (someone gives you the remainder of the loan along with the deed to the house) from anyone, even when they're not on the market.
 
-Typically, to secure financing, you'll also have to get Private Mortgage [Insurance](insurance.md) (PMI) for the lender to trust their investment towards you.
+Typically, to secure financing, you'll also have to get Private Mortgage [Insurance](money-insurance.md) (PMI) for the lender to trust their investment towards you.
 
 ### Home loan features
 
@@ -138,7 +138,7 @@ An "ideal" home loan has a few qualities:
 3. A monthly rate that's up to 25% of your take-home pay
 4. At least a 10% down payment
 
-Lenders give a better interest rate if you use an escrow account for paying [insurance](insurance.md) and [property taxes](accounting.md), so always set one up.
+Lenders give a better interest rate if you use an escrow account for paying [insurance](money-insurance.md) and [property taxes](accounting.md), so always set one up.
 
 Fixed Rate vs. Adjustable Rate (ARMs):
 
@@ -253,7 +253,7 @@ If the appraisal is *not* the same as the selling price during escrow:
 - With your expenses in mind, meet in the middle of that difference with out-of-pocket cash.
 - Ask a realtor what to do.
 
-Always buy title [insurance](insurance.md) that covers when anyone questions your property ownership.
+Always buy title [insurance](money-insurance.md) that covers when anyone questions your property ownership.
 
 If you're looking at a more rural property or intend to build one yourself, there are [more things to consider](home-homestead.md).
 
@@ -577,7 +577,7 @@ B. after the initial interest and agreed-upon deal, the potential buyer will hav
 - Sometimes, depending on the buyer's loan, the appraiser may require certain repairs done.
 - Have your realtor negotiate with the buyer to see if you can meet the buyer in the middle.
 - If the buyer expects you to fix it, it's usually better to hire a contractor your realtor knows instead of risking the buyer demand a re-repair.
-- If a title search uncovers an open lien on the property, you must either pay for it or use your title [insurance](insurance.md).
+- If a title search uncovers an open lien on the property, you must either pay for it or use your title [insurance](money-insurance.md).
 
 C. the potential buyer will make an appraisal:
 

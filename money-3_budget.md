@@ -127,7 +127,7 @@ E. Save for your children (varies based on their expected education and lifestyl
   - You should be able to live off your asset growth without having to dip into the principal you've invested.
   - You will burden your children tremendously later in their lives if you require them to support you.
   - Their [college](jobs-college.md) doesn't guarantee success, but expecting them to take care of you increases their chances of failure.
-- Never use [insurance](insurance.md), savings bonds, or prepaid tuition to save for your child's college.
+- Never use [insurance](money-insurance.md), savings bonds, or prepaid tuition to save for your child's college.
 - Help others to build their own lives and substantially invest time and money into them.
 
 F. Pay off your home (takes ~10 years):
@@ -168,9 +168,9 @@ H. Near the end of your career, make retirement plans:
   - If you stop working entirely, you'll quickly lose your health and mind, so only retire if you [have plans already](success-3_goals.md).
   - Most people who retire have *no* idea what to do with themselves.
 - Act on your plans as soon as possible:
-  - Make your money last longer by downsizing your home and re-evaluating your [life insurance](insurance.md) needs once the kids are gone.
+  - Make your money last longer by downsizing your home and re-evaluating your [life insurance](money-insurance.md) needs once the kids are gone.
   - Make plans to move to another city or country years in advance.
-  - Since your age will eventually catch up with you, increase your [health insurance](insurance.md).
+  - Since your age will eventually catch up with you, increase your [health insurance](money-insurance.md).
   - Increase giving if you don't need as much for your lifestyle.
 - If you have a complicated situation, go over the details with a financial analyst.
 

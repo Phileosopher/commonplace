@@ -1,7 +1,7 @@
 
 # How to manage modern health issues
 
-Modern society has created many benefits (e.g., [insurance](insurance.md), [computers](computers.md), [cars](autos.md)), but exchanges the [risks endemic to nature](safety-nature.md) for the risks from mass-produced food-in-a-box and sedentary activity.
+Modern society has created many benefits (e.g., [insurance](money-insurance.md), [computers](computers.md), [cars](autos.md)), but exchanges the [risks endemic to nature](safety-nature.md) for the risks from mass-produced food-in-a-box and sedentary activity.
 
 This makes [weight management](body-2_diet.md) far more complicated.
 
@@ -265,7 +265,7 @@ While [Big Medi/Pharma](https://gainedin.site/here-2/) may prolong your life, th
 
 Most of the solutions are relatively straightforward, and simply involve knowing what solutions apply to what problems.
 
-Often, we tend to manage small [risks](insurance.md) and increase larger ones:
+Often, we tend to manage small [risks](money-insurance.md) and increase larger ones:
 
 - We'll worry about organic food or the risks of pancreatic cancer, but text at a stop light when [operating a motor vehicle](autos.md) causes tens of thousands of deaths every year.
 - More people die each year from falling in the home than from house fires.
@@ -656,7 +656,7 @@ Before going to the hospital, call the nurse line on the back of your insurance 
 - By calling and being recommended to go to the hospital, the insurance company is more likely to cover you.
 - However, if they tell you that you *don't* need to go, you'll likely have to pay the bill yourself.
 
-Make sure, *before* you need it, what your [insurance](insurance.md) rules are regarding hospitalizations and care.
+Make sure, *before* you need it, what your [insurance](money-insurance.md) rules are regarding hospitalizations and care.
 
 - Pay attention to what's in-network and out-of-network, and the conditions that make care covered versus not covered.
 - Irrespective of the situation, send *all* medical bills to the insurance company, since they may be able to negotiate a lower price for you even if they don't cover it.

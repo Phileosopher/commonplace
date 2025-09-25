@@ -74,7 +74,7 @@ The upper class has four major concerns:
 3. They must maintain a public [image](image.md) of [virtue](morality.md) to prevent the lower and middle classes from growing too dissatisfied with the situation.
 4. They must ally with the rest of the upper class to prevent the other classes from taking away their privileges.
 
-The upper class *never* has to worry about what they require. Often, they'll spend absurd amounts of money to [show](image.md) their [power](power.md). This lifestyle is an intentional [insurance](insurance.md) policy to [scare](mind-feelings-fear.md) anyone from considering [attacking](people-conflicts.md) them.
+The upper class *never* has to worry about what they require. Often, they'll spend absurd amounts of money to [show](image.md) their [power](power.md). This lifestyle is an intentional [insurance](money-insurance.md) policy to [scare](mind-feelings-fear.md) anyone from considering [attacking](people-conflicts.md) them.
 
 While they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts.md) with other people to keep their power. They work hard to [tweak their image](image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
 
@@ -94,7 +94,7 @@ Generally, higher classes have an attitude problem when they're demoted, and low
 
 Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends.md) with others. The person must make [wise](understanding.md) [decisions](decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
-When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](accounting.md), [legal situation](legal-safety.md), and [insurance](insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
+When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
 
 Because of the difficulty of transitioning upward in social classes, most people don't succeed at it. They often hit a "glass ceiling" at the top of their class. Sometimes, if they're willing to take [social risks](socialrisk.md) that backfire tremendously, they'll go *down* a social class!
 

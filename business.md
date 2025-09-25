@@ -38,7 +38,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 - Resolving employee [disputes](people-5_conflicts.md).
 - Running [background checks](image-modern.md) for possible hires.
 - Managing the processes for new hires (onboarding) and terminations (offboarding), including ergonomic/ADA issues.
-- Serving as a loss control manager to prevent and manage [insurance claims](insurance.md) (especially regarding workers' comp insurance).
+- Serving as a loss control manager to prevent and manage [insurance claims](money-insurance.md) (especially regarding workers' comp insurance).
 - Archiving employee records and performance reviews.
 - Managing organization-wide activities.
 - Managing various other employee benefits (paid time off, company [vehicles](autos.md), etc.).

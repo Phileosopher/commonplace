@@ -65,7 +65,7 @@ Burglaries may be done with partners, or solo.
 When people steal things from you, you'll likely feel a sense of anger about it.
 
 - The things you valued have now been unfairly taken.
-- Very often, you'll never see those things again, even if [insurance](insurance.md) pays you at least partly for the damages.
+- Very often, you'll never see those things again, even if [insurance](money-insurance.md) pays you at least partly for the damages.
 
 However, compared to many other things, your possessions aren't that important.
 

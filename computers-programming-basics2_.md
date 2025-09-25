@@ -1,4 +1,6 @@
 
+# The basics of computer programming
+
 Computer coding has a relatively long history compared to most other computer-based things. While Charles Babbage created [the difference machine](https://en.wikipedia.org/wiki/Difference_engine) in the 1820s, Ada Lovelace was the first "programmer".
 
 ## Machine/assembly coding
@@ -28,8 +30,6 @@ The word API gets thrown around a lot, and it's a buzzword for "the rules that o
 In practice, though, an API is an "abstraction" that gets all the clutter out of the way. You can enter information into it, and the computer does all its back-end stuff, and produces what you want at the end without all the extra access to the code.
 
 It's the same way that a steering wheel is the API for a car, and you don't need to understand how it runs to operate it.
-
-* * * * *
 
 ## Constants
 
@@ -75,8 +75,6 @@ Dual-pointed variables make managing multiple things with the same original valu
 Variables are useful, but computers are stupid enough that they need to know beforehand what's in the variable. Thus, engineers created "types" of variable [data](data.md).
 
 Two common variables in many programming examples are "foo" and "bar" as simple placeholders.
-
-* * * * *
 
 ## Syntax
 
@@ -147,7 +145,7 @@ Sometimes, you want something to *not* equal each other. NOT is often represente
 
 ### Commenting
 
-You may need to leave a note for yourself. Or, maybe you want to inform anyone editing the code later about something. You might want to clean up the code later and need to clarify that you have no clue how to defeat the arcane monstrosity your Project Manager gave you.
+You may need to leave a note for yourself. Or, maybe you want to inform anyone editing the code later about something. You might want to clean up the code later and need to clarify that you have no clue how to parse the arcane monstrosity your Project Manager gave you.
 
 Whatever the case, you'll need to comment on the code:
 
@@ -160,8 +158,6 @@ Whatever the case, you'll need to comment on the code:
 To make the comments easier to distinguish, the [IDE](computers-software-ide.md) usually turns the comments gray.
 
 There are often single-line and multi-line variants of commenting. If you want to be *really* specific about certain things, you can often write the comments on the same line as the executed code.
-
-* * * * *
 
 ## Functions
 
@@ -193,13 +189,11 @@ There are quite a few mundane functions in nearly *every* high-level language:
 
 Functions are condensed versions of the [many, many tasks a CPU must do](computers-cpu.md). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](engineering-screen.md) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!
 
-* * * * *
-
 ## Naming conventions
 
 Choosing names is one of the most difficult concepts in computer science.
 
-For one thing, the programmer has to know what the program will do. Naming something TotalSum sounds like a good idea, until the software is working with multiple total sums. DataOutput sounds sensible, until it might direct to *another* data input. So, specificity is crucial.
+For one thing, the programmer has to know what the program will do. Naming something TotalSum sounds like a good idea, until the software is working with multiple total sums. DataOutput sounds sensible, until it might connect with *another* data output. So, specificity is crucial.
 
 Computers are pretty stupid, so variables and functions are case-sensitive. If you wanted to, you could assign *all* the variables and functions as separate things:
 
@@ -215,7 +209,7 @@ There are many awful ways to "define" things:
 
 - hair color - two words, so it might be mistaken as a command
 - haircolor - could be seen as a built-in command
-- HaIrColOr - confusing to read
+- HaIrColOr - confusing to read and type again
 - HAIRCOLOR - it better be a constant
 - hairColor - it better be a variable
 - haierColor - why did you mispell?
@@ -241,8 +235,6 @@ If you have multiple words, many languages use the convention of "snake case":
 - cheese_eaten
 
 If you just need to use placeholder variables, most programmers use "foo" and "bar". Its history goes back to [MIT's Model Railroad Club](https://en.wikipedia.org/wiki/Foobar#History_and_etymology), because computers have always been cool.
-
-* * * * *
 
 ## Conditional statements
 

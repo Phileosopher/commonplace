@@ -102,7 +102,7 @@ While most of your impulses are accurate, you'll need to resist a few of them:
 
 Expect 38-42 weeks of pregnancy, though babies very often survive premature birth anytime after 28 weeks (third trimester):
 
-- Get routine checkups to make sure the baby is healthy, but make sure it's all covered by your [insurance](insurance.md) to avoid going into [debt](money-2_debt.md).
+- Get routine checkups to make sure the baby is healthy, but make sure it's all covered by your [insurance](money-insurance.md) to avoid going into [debt](money-2_debt.md).
   - Because pregnancy is so delicate, doctors are powerless to do anything except recommendations, supplements, drugs, and invasive surgery.
     - Also, since they have limited [diagnostic tools](https://adequate.life/fix/) available, their diagnoses are often wrong.
 - Any guess about the gender is only about 50% accurate, even the *mother's*.
@@ -119,7 +119,7 @@ Many baby products are convenient, but unnecessary:
   - Babies can't differentiate between the toy and the packaging until at least 12-18 months.
   - "Edutainment" toys aren't as educational as spending time with them, going to a new place, or giving them common household objects.
 - A crib is merely a convenient way to confine the baby from things you're worried they may put in their mouth.
-- Don't bother with [baby life insurance](insurance.md), since it's only to cover burial expenses.
+- Don't bother with [baby life insurance](money-insurance.md), since it's only to cover burial expenses.
 - Avoid over-protecting the house with safety equipment.
   - You *can* put bumpers on every sharp edge, safety gates for rooms, and door locks on cabinets, but you can save tons of money and frustration by letting them learn firsthand that some objects are painful and focusing your attention on safeguarding legitimately dangerous things (e.g., bleach).
   - Even if you'd rather not address discipline, prepare in advance for when they [creatively](mind-creativity-how.md) disrespect the boundaries you set.

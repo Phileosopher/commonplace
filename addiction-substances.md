@@ -241,4 +241,4 @@ Acquiring [social status](image.md)
 
 Acquiring various [forms of power](power-types.md)
 
-Planning for the future (e.g., [retirement](money-investing.md), [insurance](insurance.md)
+Planning for the future (e.g., [retirement](money-investing.md), [insurance](money-insurance.md)

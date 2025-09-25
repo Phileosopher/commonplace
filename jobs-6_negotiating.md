@@ -186,7 +186,7 @@ Get any employment agreement in writing:
   - Salary and bonus information
   - Any special arrangements from the negotiations
   - Start date
-  - When any [benefits](insurance.md) start
+  - When any [benefits](money-insurance.md) start
 
 Be very careful about what you sign:
 

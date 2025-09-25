@@ -58,7 +58,7 @@ Naturally, many people in the [lower and lower-middle classes](classes.md) will 
 - People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](image.md) in a leftist revolution.
 - Self-[identifying](identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](decisions.md).
 - People who want free stuff, but don't consider [where it comes from](results.md).
-- [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](insurance.md) against people taking their stuff.
+- [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](money-insurance.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](image.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](trends.md) without regard to its [risks](safety.md).
 
 ## Fail

@@ -202,7 +202,7 @@ The carrier may be held liable for the value of the product and stuck owning it 
 2. The product was damaged in transit.
 3. There was an error in what was supposed to be picked up or delivered.
 
-For that reason, carriers can [insure against it](insurance.md) or resell the product to recuperate the damages. Alternately, they can [subcontract](people-contracts.md) to give *others* the responsibility (and liability) to convey something instead.
+For that reason, carriers can [insure against it](money-insurance.md) or resell the product to recuperate the damages. Alternately, they can [subcontract](people-contracts.md) to give *others* the responsibility (and liability) to convey something instead.
 
 ## Supply Chain
 

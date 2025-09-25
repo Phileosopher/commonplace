@@ -1,5 +1,5 @@
 
-*Previous: [A Business Idea](entrepreneur-2_idea.md)*
+# How to make a business plan
 
 A business plan is designed to clarify every part of a business.
 
@@ -203,7 +203,7 @@ Specify each barrier to entering the market and how to overcome each of them:
   - [Logistics](logistics.md) needs (especially shipping)
   - [Legal filings](legal-safety.md) and government certifications
   - [Marketing](marketing.md) costs
-  - Commercial [liability insurance](insurance.md)
+  - Commercial [liability insurance](money-insurance.md)
 - Consumers have some resistance to a new brand, and won't immediately recognize it.
   - Also, if the brand *doesn't* succeed in being distinctive, the product or service will be seen as a commodity.
 - Many new organizations require [specializations](jobs-specialization.md) from *before* the business plan was drafted:
@@ -334,16 +334,16 @@ Clarify the location's needs:
   - Initial remodeling costs and routine maintenance requirements
   - Rent/lease
   - Utilities
-  - [Insurance](insurance.md)
+  - [Insurance](money-insurance.md)
 
 Indicate the legal environment and requirements for operation:
 
-- Licensing and [bonding](insurance.md) requirements
+- Licensing and [bonding](money-insurance.md) requirements
 - Necessary government permits
 - Relevant health, workplace, or environmental laws
 - Any industry-specific or profession-specific laws
 - Zoning or building code requirements
-- Essential and elected [insurance](insurance.md) coverage
+- Essential and elected [insurance](money-insurance.md) coverage
 - Pending, existing, or purchased [trademarks, copyrights, and patents](legal-ip.md)
 
 If it's more than yourself, describe the employees who'll work there and what they'll do:
@@ -412,7 +412,7 @@ If multiple people will run the organization, clarify the board of directors.
 
 ### Professional/Consulting Support
 
-Clarify the company's primary [attorney](legal-safety.md), [accountant](accounting.md), [insurance agent](insurance.md), and [banker](money-investing.md).
+Clarify the company's primary [attorney](legal-safety.md), [accountant](accounting.md), [insurance agent](money-insurance.md), and [banker](money-investing.md).
 
 Beyond the board, clarify your management advisory board:
 
@@ -485,5 +485,3 @@ Add anything else you can think of that may be applicable to the industry.
   - Market exposure
   - Number of users
   - Items produced
-
-*Next: [Freelancing](entrepreneur-4_freelancing.md)*

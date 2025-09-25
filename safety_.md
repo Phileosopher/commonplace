@@ -21,7 +21,7 @@ The entire point of *any* security/safety system is from vague [trust](trust.md)
 
 The more [fear](mind-feelings-fear.md) we have of losing something, the harder we'll [work](results.md) to keep it. In that sense, you can see how much people [love](people-love.md) things by where they devote their [budget](money-3_budget.md) and other [forms of power](power-types.md).
 
-One easy way to avoid risk is to get [insurance](insurance.md). By giving up some power in the [form of money](power-types.md), someone can have a [separate organization](groups-large.md) take the risk instead. It's basically paying rent for someone else to take the risk.
+One easy way to avoid risk is to get [insurance](money-insurance.md). By giving up some power in the [form of money](power-types.md), someone can have a [separate organization](groups-large.md) take the risk instead. It's basically paying rent for someone else to take the risk.
 
 Generally, when [deciding](decisions.md) when you don't know what to [expect](imagination.md), the safest solution is to apply "minimax regret" (minimize the maximum regret you can experience). In other words, make the worst-case scenario as good as possible.
 

@@ -67,7 +67,7 @@ Delete any personal files stored on the company computer.
 
 Track any payments you're entitled to receive:
 
-- Continuing [health benefits](insurance.md)
+- Continuing [health benefits](money-insurance.md)
 - 401(k) and other [retirement plans](money-investing.md)
 - Accrued vacation and sick pay
 - Bonus money or owed overtime pay

@@ -144,7 +144,7 @@ Credit reports pull data from your past 7-10 years:
 - Credit scores have no bearing on financial success.
 - The only thing credit scores help with is acquiring more debt, but the information is often used for other purposes involving financial commitments:
   - Renting an apartment.
-  - [Getting insurance](insurance.md).
+  - [Getting insurance](money-insurance.md).
   - Employers use credit reports without the credit portion as a de facto background check.
 - Scoring agencies compile the three different bureaus' data into reports:
   - The two most popular reports are the FICO Score and VantageScore.
@@ -169,7 +169,7 @@ If you want to build wealth, stop seeing debt as an acceptable way of life.
 Debt is either a bad idea or a necessary evil:
 
 - Every sustaining millionaire believes debt is financial slavery.
-- Don't purchase extra [insurance](insurance.md) on a rental car (unknown risk) with a credit card (known risk).
+- Don't purchase extra [insurance](money-insurance.md) on a rental car (unknown risk) with a credit card (known risk).
 
 Most large organizations make more money on debt than the actual product:
 

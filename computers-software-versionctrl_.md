@@ -1,13 +1,15 @@
 
+# How version control works
+
 Since developers are human, software isn't a fire-once-and-done matter. To allow for these imperfections, software comes in "versions".
 
 ## Version numbers
 
 To keep things simple, programmers tend to release program versions with numbers on them, using a few possible conventions.
 
-The first, and oldest, convention is to name versions by their relationship to a programmer's finish line:
+The first, and oldest, convention is to name versions by their relationship to a programmer's goals:
 
-- "Alpha" versions are barely-working programs that were quickly pushed out (e.g., v0.36). Features are sparse and it barely works.
+- "Alpha" versions are barely-working programs that were quickly pushed out (e.g., v0.36). Features are sparse and it barely works (at least, by the developer's standards).
 - "Beta" versions are nearly complete, but may still have bugs (e.g., v0.80).
 - "Final" versions are finished, but there are often little details that need tweaking afterward (e.g., v1.02).
 - After that, most developers tend to make version numbers based on features they've added. On a large project with many developers, it's not uncommon to add letters and extended numbers afterward (e.g., v2.58.7216.R35).

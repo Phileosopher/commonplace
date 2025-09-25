@@ -103,7 +103,7 @@ Notify everyone about your changed address:
   - [ ] Snow removal service
   - [ ] Swimming pool maintenance and memberships
   - [ ] Delivery services for water, groceries, or magazines
-- [Insurance](insurance.md) providers:
+- [Insurance](money-insurance.md) providers:
   - [ ] Auto
   - [ ] Health/Dental/Vision
   - [ ] Life
