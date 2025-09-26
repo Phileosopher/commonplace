@@ -59,7 +59,7 @@ As another example, imagine instructing someone to pick up pebbles from a flat s
 While small children can do this easily, effectively programming a robot takes a lot of work:
 
 1. Demarcate the grabbing zone, indicated as a specific range mapped out from captured [camera](engineering-camera.md) information.
-2. Set an [algorithm](computers-programming-algorithms.md) that clarifies exactly what a pebble is, then create [instructions](computers-programming-basics.md) to grab it, with each grabbing effort modulated with the camera data for every single pebble.
+2. Set an [algorithm](computers-programming-algorithms.md) that clarifies exactly what a pebble is, then create [instructions](computers-programming.md) to grab it, with each grabbing effort modulated with the camera data for every single pebble.
 3. Move the arm to the jar, which must be *exactly* specified before the maneuver. There should be subroutines for whether the jar is missing, full, fell over, or broke.
 4. Repeat 1-3 until all pebbles are in the jar, then clarify a stop sequence for the arm to rest.
 
@@ -78,7 +78,7 @@ But, they're still relatively useless when completely unsupervised, and are stil
 
 The largest impediment to robotics advances, however, is in how absurdly difficult programming seemingly simple tasks becomes:
 
-- The logic necessary to frame robotic instructions is conventional [software design](computers-software-design.md) work.
+- The logic necessary to frame robotic instructions is conventional [software design](computers-software.md) work.
 - The input is very fuzzy, and almost always analog.
 - The output typically must fulfill very precise specifications.
 - It's difficult to correctly account for all the "edge cases" you can't know while programming a robot.

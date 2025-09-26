@@ -3,7 +3,7 @@
 
 Beyond the in-person interviews endemic to most coding jobs, there is also a nasty set of interviews tied to technical understanding.
 
-Ironically, a technical interview does *not* test one's capacity for [software development](computers-software-design.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](computers-programming-algorithms.md).
+Ironically, a technical interview does *not* test one's capacity for [software development](computers-software.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](computers-programming-algorithms.md).
 
 Thus, since it's standard practice in most companies to use a technical interview for software developers, practicing for a coding interview is vital for getting a job, even if it has little to do with the job itself.
 
@@ -32,7 +32,7 @@ During the interview, think out loud. It demonstrates that you actually *are* th
 
 System design interviews are another unique aspect of the tech industry, though they're not as ubiquitous as coding challenges.
 
-They'll test your skills at understanding [how programs and systems are designed](computers-software-design.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives/), and then answer the questions they give.
+They'll test your skills at understanding [how programs and systems are designed](computers-software.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives/), and then answer the questions they give.
 
 Even when you have *tons* of experience designing systems, the interview is testing your ability to articulate how those systems work in [plain language](language.md). It helps to watch videos and read books on those subjects, even with tons of hands-on experience.
 

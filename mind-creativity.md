@@ -87,7 +87,7 @@ Creators are always designing for a target audience, and their most important au
 - Cleaners must use the things they clean.
 - Builders must live and work in their buildings.
 - [Writers](language-writing.md) must read their work out loud.
-- [Computer programmers](computers-programming-basics.md) must use their programs.
+- [Computer programmers](computers-programming.md) must use their programs.
 - [Teachers](education.md) must follow the [logic](logic.md) of their curriculum.
 
 The only way a creator can be sure they're communicating [quality](values-quality.md) is to receive it themselves as the consumer of the creation, a bit like looking in a mirror. Since it takes so much time, most people don't do it.

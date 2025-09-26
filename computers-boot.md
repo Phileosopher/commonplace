@@ -70,7 +70,7 @@ Either way, while you can often mess around with the operating system without do
 
 ## Cybersecurity
 
-One interesting aspect is that a BIOS/UEFI is a base-level stripped-down operating system meant for simple tasks. This means that there is a *lot* of legacy [code](computers-software-design.md) in there, and it's ridiculously slow with respect to clock cycles. If you ever wonder why booting takes a while after you press the power button, it's because the manufacturers don't care to delete the 99% of code that's irrelevant.
+One interesting aspect is that a BIOS/UEFI is a base-level stripped-down operating system meant for simple tasks. This means that there is a *lot* of legacy [code](computers-software.md) in there, and it's ridiculously slow with respect to clock cycles. If you ever wonder why booting takes a while after you press the power button, it's because the manufacturers don't care to delete the 99% of code that's irrelevant.
 
 This *does* represent a [cybersecurity risk](computers-cysec-pentest.md), which is why UEFI's Secure Boot can sign the boot with a [cryptographic key](encryption.md), and why Windows computers tend to use Trusted Platform Module (TPM). It's possible (and a good idea) to harden Linux computers with Secure Boot.
 

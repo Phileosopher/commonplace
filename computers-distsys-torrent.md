@@ -9,7 +9,7 @@ Even with punitive measures that would drive any convict to prison and make them
 
 As the [internet](computers-sofware-webdev.md) has grown, piracy has as well, and entails quite a few forms of computer information:
 
-- [Software](computers-software-design.md)
+- [Software](computers-software.md)
 - Copyrighted media such as music, movies, and books
 - Databases, including [hacked data](computers-cysec-pentest.md)
 - Trade secrets

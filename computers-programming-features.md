@@ -1,25 +1,63 @@
 
-# The basics of computer programming
+# The features of programming languages
 
-Computer coding has a relatively long history compared to most other computer-based things. While Charles Babbage created [the difference machine](https://en.wikipedia.org/wiki/Difference_engine) in the 1820s, Ada Lovelace was the first "programmer".
+There are a plethora of features that a programming language can do. Often, with enough diligence, *any* programming language can contort itself to do just about anything, but some are easier to program certain logical operations into it than others.
 
-## Machine/assembly coding
+## Tradeoffs
 
-At its core, programming *could* be machine code: just a bunch of 0s and 1s. But, that's tiresome, and hard to read, so they made [assembly code](computers-programming-assembly.md) that's easier to read.
+Deciding how to assemble the high-level logic is complicated, and based heavily on what the language is used for:
 
-But, assembly code is *also* tiresome. The computer takes 40 steps to do generally simple things. Plus, because each manufacturer has their rules, not every computer does *quite* the same thing with the same instructions.
+- Do you want short commands for specific purposes that require a wide variety of words or hard-to-write stuff that's insanely powerful?
+- Do you want it to use copy-pasted boilerplate "callable" procedures, or do you want it to group things as "objects" which each have special rules (i.e., object-oriented vs. procedure-oriented)?
+- Do you want to maximize the computer's efficiency with lower high-level languages (e.g., C) or want something super easy to learn (e.g., Ruby on Rails)?
 
-## Enter high-level
+There's no "one-size-fits-all" solution for a high-level language. But, some languages *do* work better than others for various applications.
 
-So, programmers made (and make) high-level languages. These languages let you type 1 command that does dozens, hundreds, or thousands of "lines" of assembly code.
+Many languages are general-purpose (e.g., Python, Java, C++). They pretty much do anything you want, though how *well* they do them can vary spectacularly. For example, Java is better at game and web development, Python is better at data analysis and scripting, and C++ is better at making applications and [system programs](computers-os.md).
 
-"High-level languages" come at a cost. Although you're making a "one-size-fits-all" code, it means the program won't always be optimal for specific hardware. As it progresses to being more high-level, it becomes less optimized and more user-friendly.
+Scripting/extension languages (e.g., Perl, PHP, JavaScript, Ajax) don't need to be compiled, so they're *super* portable and can run almost anywhere, which is why websites run well with them. They're about as high-level as languages get without becoming [no-code programming](computers-programming.md).
 
-But, you can write it on one computer and it'll work *anywhere*, so it's very convenient. That's worth the tradeoff for a little bit of slowness.
+Some languages are really, *really* specific (e.g., HTML, CSS). Think of them as only existing in a certain "box" of possible solutions. If you want to write web-enabled content, HTML is your friend, but will abandon you when you want to make a fun game.
 
-Of course, if you *really* want something applicable everywhere but also close to the hardware, you can't go wrong with the C language. Even though it's technically high-level, some developers find it so close to assembly language that they think it's *low-level* language!
+One noteworthy reality is that there's no hard "box" around any of the languages. For example, someone *could* make a computer game with CSS and HTML, but they'd make better use of their time and effort to simply learn JavaScript or C. But, some people do it for fun or are insanely stubborn.
 
-To work with high-level language, programmers usually use an "integrated development environment", or [IDE](computers-software-ide.md).
+## Libraries
+
+There are a *lot* of people who work with computers. The beauty of [specialization](jobs-specialization.md) is that someone can build something, then someone else can use it later. Unlike real-life tools, code doesn't really cost money to reproduce.
+
+Thus, many programmers have created "libraries" of [functions](math-functions-cs.md). By using a library, programmers can create vastly complex things with only a few lines of code. It's basically a big block of commands that you can add to your language that save the time of building the functions yourself.
+
+For any popular language, most typical things have *many* libraries to choose from. Unless you have an edge case, there's probably a library for that.
+
+Beyond [debugging](computers-software-redesign.md) and writing code, a programmer spends a *lot* of time researching to find library packages that make their life easier.
+
+Importing a library is easy. Just call the language-specific function that usually has the word "import", specify the package you want to download, then specify the classes of that package you want (or just put "*" to import everything in that package).
+
+Generally, you should only import the classes you'll use. The more you have to import, the more computations the computer has to run through, and the slower your program gets. In a small program, it's not a big deal, but a large program can get noticeably slow and make the users' lives suck.
+
+## Frameworks
+
+Unlike libraries, frameworks are more constrained. They're often designed for specific-use.
+
+## Namespaces
+
+Everything needs a unique name. Otherwise, it's impossible to distinguish things apart. If you know 3 people named "Mark", then it's hard to know which Mark you're talking about. The old convention was to say "Mark the Miller", "Mark the son of John", or "Mark of the Reilly clan". It got so convenient that we just simplified it to "Mark Miller", "Mark Johnson", and "Mark O'Reilly".
+
+A "namespace" is exactly that: a space for names. It lets you use the same name in different places without the headache of making something different every time.
+
+- If you poke around in your [files](computers-files.md), you'll notice that you can have "Documents/Family/mom.jpg" as well as "Documents/September/mom.jpg" and "Documents/mom.jpg" at the same time.
+- Every website under ".com" is pointing to a completely different location than the ".gov" or ".net" version of it.
+
+While programmers can often define a namespace, most languages come with a standard set of names, and libraries often add many more names and namespaces. It's important to know what those namespaces and names are, since you could be reinventing the wheel when someone else already made a namespace or create errors by making the same namespace.
+
+## MapReduce
+
+To work with large sets of data, there's a reliable two-step model for processing them:
+
+1. Make a "mapping" of information/functions to each item of data:
+   - e.g., the dataset [1,2,3] can have a mapped function of (x => x * 2), which makes [2, 4, 6].
+2. Reduce the information step-by-step:
+   - e.g., to add [7, 8, 9], reduce 7 and 8 to 15, then reduce 15 and 9 to 24.
 
 ## API
 
@@ -90,7 +128,7 @@ Depending on the language, spaces and tabs either don't matter or demarcate hier
 
 ### Shortcuts
 
-All [high-level programming is technically a shortcut](computers-programming-basics.md), so since software developers often have to write the same thing repetitively, it makes sense to make *more* shortcuts. Software development is a type of industrious laziness because of this, and they create all sorts of "syntactic sugar" to sweeten the experience of repetitive work.
+All [high-level programming is technically a shortcut](computers-programming.md), so since software developers often have to write the same thing repetitively, it makes sense to make *more* shortcuts. Software development is a type of industrious laziness because of this, and they create all sorts of "syntactic sugar" to sweeten the experience of repetitive work.
 
 *Very* often, programmers tick numbers up or down by one:
 
@@ -359,7 +397,7 @@ Recursions are extremely useful because you can apply them wherever you can find
 
 ### Making functions
 
-It's less work to just [import a library](computers-programming-basics.md), but sometimes you have to get your hands dirty and make your own functions.
+It's less work to just [import a library](computers-programming.md), but sometimes you have to get your hands dirty and make your own functions.
 
 Creating functions is relatively simple:
 
@@ -381,8 +419,6 @@ Whatever type of variable you specify must get fed into the function. This is al
 
 If the function is supposed to return something, it *must* return *something*! This can be easy to forget if the logic doesn't have an ELSE condition. The best thing to do in that case is to drop a "return" command at the end of the function that makes it clear you failed.
 
-* * * * *
-
 ## Data structures + loops
 
 Each variable can hold 1 value. While you *could* theoretically use 1 value to hold "MilkEggsCheese", it's better to spread those across multiple variables. An "array" is an ordered list, and can hold variables, constants or other arrays. It's one of a wide variety of available [data structures](data-structures.md).
@@ -390,70 +426,6 @@ Each variable can hold 1 value. While you *could* theoretically use 1 value to h
 FOR EACH functions allow loops over arrays. The loop will run across the array, but the EACH part asks for a condition. If the condition is met that time, the computer will run the instructions in the FOR EACH function.
 
 This can be *really* useful for lots of data. You can count the data that matches something, or make the computer do something related to where that data is stored (like modify the previous values or increment the data).
-
-* * * * *
-
-## Regular expression
-
-Obviously, it's a good idea to search inside text and numbers for things. A "regular expression" is the code to do that.
-
-The syntax changes depending on the programming language, but we'll use JavaScript here. Here's some examples of what text you could look for:
-
-- /a/ - the letter "a"
-- /a|b/ - the letter "a" or "b"
-- /.a./ - the letter "a" when there's anything before it and after it
-- /a/g - all instances of the letter "a" (outputted as an array)
-- /a+/g - all times that you see "a", "aa", "aaa", etc. (outputted as an array)
-- /a/i - the letter "a" or "A"
-- /[a-g]/ - any of the range from "a" through "g"
-- /[0-4]/ - any of the numbers 0 through 4
-- /ahem/ - the specific string "ahem" somewhere in the text
-- /^ahem/ - the string "ahem" at the beginning of the text
-- /ahem$/ - the string "ahem" at the end of the text
-- /aher*m/ - the string "ahem", but also "aherm" or "aherrm"
-- /aher?m/ - the string "ahem, but also "aherm"
-- /a{2,5}/ - the strings "aa", "aaa", "aaaa", or "aaaaa"
-- /\s/ - a space (" ") in the text
-- /\S/ - NOT a space in the text
-- /\w/ - any of a-z, A-Z, or 0-9
-- /\W/ - NOT a-z, A-Z, or 0-9
-- /\d/ - any of 0-9
-- /\D/ - anything that's NOT 0-9
-
-Thus, you can slam them all together and create /^\w\s*.bla+h{,6}\W$/ that fulfills the following:
-
-1. There's a letter or number at the beginning, followed by a possible space and at least another character.
-2. The word "blah" is in there, but could be "blaaaahhhhhh", but not "blaahhhhhhh".
-3. It has to end with a special character.
-
-This is just the *beginning* of how elaborate a regular expression can get. It's terrifying to glance at, but not hard to understand if you take it letter-by-letter. Take notes if you have to.
-
-### Lookaheads
-
-One of the more fiddly and confusing components of regular expressions is a "lookahead". Think of the computer holding onto a specific letter:
-
-- /abbazabba/
-
-It will go through each letter, step by step, to find the match ("a","b","b","a","z"...)
-
-Now, what if you want to search for that element, but with a somewhat unrelated thing elsewhere in that string? You'd normally have to have the computer zip ahead to find it. with lots of text in the middle.
-
-Instead, you can have the computer literally "look ahead" while holding its place:
-
-- /abbazabba(?=wammajamma)/
-
-In the above situation, it'll first look for "abbazabba", then try to find "wammajamma" *anywhere* else in the string. This can be useful to satisfy certain conditions ([password](encryption.md) requirements, for example).
-
-### Greedy/lazy
-
-The type of data regex returns can be greedy (where it pulls from a wider range of data to get a return) or lazy (where it grabs the next available data).
-
-- e.g., given the text `<em>hello world</em>`
-- If you search <.+> (which is looking for "<", then 1 or more non-newline character, then "<"), your intuition would say that it's present twice.
-- A greedy search (which is typically standard) will yield 1 match, from the first "<" to the last ">".
-- A lazy search (i.e., <.+?>) will tell it to repeat as few times as possible, which will stop the matching and yield 2 results.
-
-* * * * *
 
 ## Additional reading
 

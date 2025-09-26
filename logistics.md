@@ -26,7 +26,7 @@ The flow of a payload is always similar pattern:
 
 The pace and severity of the work depends *very* heavily on the role:
 
-- The designers of the logistical system have the tremendous mental burden of assessing the flow of objects and [engineering](engineering.md) it to maximize productivity, similarly to [software design](computers-software-design.md).
+- The designers of the logistical system have the tremendous mental burden of assessing the flow of objects and [engineering](engineering.md) it to maximize productivity, similarly to [software design](computers-software.md).
 - The logistics dispatcher has the harrowing, fast-paced task of directing vehicle operators, which typically involves intuitively balancing loads and potential future needs the systems designer may not have considered.
 - Warehouse and storage workers have a comparatively boring task of filling up and emptying containers within the replenishing system. The same applies to the steward/concierge/conductor role, but with the additional aspect of [customer service](people-3_respect.md).
 - The operator of the vehicle (train, ship, truck) has a relaxing and somewhat antisocial role of safely navigating their vehicle to avoid the worst possible conditions caused by weather and other vehicles.

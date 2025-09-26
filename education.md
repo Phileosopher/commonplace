@@ -16,7 +16,7 @@ One of the most rapid ways we can learn is through the distilled experience of g
 Everyone in a modern society must learn the basics of [reading](language.md), [writing](language-writing.md), and [math](math.md) (which should also naturally cover some [logic](logic.md)). However, gaining the full range of wisdom and [understanding](understanding.md) requires a far broader range of "soft understanding". While different societies have grouped it differently, a few general classifications always apply:
 
 1. Consuming real-life [stories](stories.md) from the learner's favorite past era (i.e., [History](stories-storytellers.md))
-2. The learner's preferred tactile form of [creation](mind-creativity.md) such as [computer programming](computers-software-design.md), sculpting, writing or fine art (i.e., "the Arts")
+2. The learner's preferred tactile form of [creation](mind-creativity.md) such as [computer programming](computers-software.md), sculpting, writing or fine art (i.e., "the Arts")
 3. Showcased models of [virtue](morality.md) and [success](success-1_why.md) through the learner's preference of [media](creations.md), which typically includes music, video, literature, poetry, and video games (i.e., Comedy in classical Greek vernacular)
 4. Showcased models of human [conflict](conflicts-inner.md) and [pain](mind-feelings-fear.md) in difficult situations, again through the learner's preference of [media](creations.md) (i.e., Tragedy)
 5. Discipline in the learner's preference of the [sciences](science.md), such as astronomy, biology, or physics

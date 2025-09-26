@@ -211,7 +211,7 @@ The system is designed for when project goals aren't entirely clear:
 3. In difficulties come in the middle of a sprint, make smaller sub-projects within that sprint with newer, smaller goals.
 4. Repeat until complete.
 
-The original idea was from [software development](computers-programming-basics.md), where the goals and possible risks aren't always perfectly clear.
+The original idea was from [software development](computers-programming.md), where the goals and possible risks aren't always perfectly clear.
 
 - The system revises every development stage as the situation changes.
 - Other variations of Agile like [Scrum](https://www.scrum.org/) or [Lean](https://www.lean.org/WhatsLean/) add more structure.

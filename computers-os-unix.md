@@ -11,9 +11,9 @@ Unix was an [operating system](computers-os.md) made by AT&T in 1969. However, A
 
 Later, once AT&T spun off Bell Labs, Bell was free to sell a proprietary license of Unix in 1984, but the damage to AT&T's potential hold on the market had already been done. Unix's source code was effectively public and legal to use.
 
-In 1983, Richard Stallman created the GNU Project, which aimed to create an entire Unix-compatible software system made of nothing but [free software](legal-ip-floss.md). GNU stands for "GNU is Not Unix", which is a [programmer joke](humor-cs.md) about [recursions](computers-programming-basics.md), and he wrote [the GNU Manifesto](https://www.gnu.org/gnu/manifesto) to rally support for a completely free operating system.
+In 1983, Richard Stallman created the GNU Project, which aimed to create an entire Unix-compatible software system made of nothing but [free software](legal-ip-floss.md). GNU stands for "GNU is Not Unix", which is a [programmer joke](humor-cs.md) about [recursions](computers-programming.md), and he wrote [the GNU Manifesto](https://www.gnu.org/gnu/manifesto) to rally support for a completely free operating system.
 
-Many of the programs for a fully-functioning Unix "clone" were completed by the early 1990s ([libraries](computers-programming-basics.md), [compilers](computers-compilers.md), [text editors](computers-software-ide.md), a [command-line shell](computers-cli.md), and a [windowing system](engineering-graphics.md)). However, the lower-level elements like device drivers, daemons, and the kernel were incomplete.
+Many of the programs for a fully-functioning Unix "clone" were completed by the early 1990s ([libraries](computers-programming.md), [compilers](computers-compilers.md), [text editors](computers-software-ide.md), a [command-line shell](computers-cli.md), and a [windowing system](engineering-graphics.md)). However, the lower-level elements like device drivers, daemons, and the kernel were incomplete.
 
 In 1991, Linus Torvalds decided to make a free version of that kernel, then released it publicly on his university's internet forum. Since he posted it on a public forum and many other software developers saw its value, it ended up taking off *way* more than he expected, and it quickly outpaced adoption compared to *everything* else Unix-related.
 
@@ -199,7 +199,7 @@ Apple's microkernel is XNU (which stands for "XNU is Not Unix" because programme
 
 - Carnegie Mellon University's Mach kernel
 - FreeBSD components
-- IOKit, the C++ [API](computers-software-design.md) for writing drivers
+- IOKit, the C++ [API](computers-software.md) for writing drivers
 
 ## Usage
 

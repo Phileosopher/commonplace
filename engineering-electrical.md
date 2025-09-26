@@ -83,7 +83,7 @@ Battery indicators require a specialized "integrated circuit" (IC) that tracks b
 2. Measures the available charge later.
 3. It uses a simple calculation to figure out how much charge is left (e.g., it started with 10 amps, there are 4 amps now, and it's discharging 1 amp per hour, so it's at 40%).
 
-Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](computers-software-design.md) that saves on memory management increases battery life more than actual battery improvements.
+Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](computers-software.md) that saves on memory management increases battery life more than actual battery improvements.
 
 Batteries are *very* versatile, and can serve to benefit a household by preparing for a [short-term disaster](hardship-disaster-2_long-stay.md), glean energy from an engine's movement, or be quickly and easily manufactured as a replaceable supply material for small-scale electrical needs.
 

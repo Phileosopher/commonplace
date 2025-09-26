@@ -34,7 +34,7 @@ Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("
 
 But, from the public's perspective, there are 3 major classes of hacker:
 
-1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming-basics.md), often includes [PenTesters](computers-cysec-pentest.md).
+1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming.md), often includes [PenTesters](computers-cysec-pentest.md).
 2. Unconventional [Fixing](fix.md) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
 3. New Perspectives - building mind-bending experiences that redefine how we see reality, typically only attainable by a [genius savant](https://books2read.com/autism/).
 

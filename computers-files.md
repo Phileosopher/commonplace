@@ -44,9 +44,9 @@ File metadata often varies based on the file system, but it usually has at least
 
 Depending on the file, metadata might be spread around the file, but it makes the most sense to keep metadata grouped where it will likely be used first (i.e., at the front).
 
-Files can also contain all sorts of multimedia, and it can get a bit complicated. Most codecs for [music files](computers-speakersmic.md), for example, don't usually contain *only* music. An MP3, for example, will have plenty of text data about the performer, [licensing/copyright](legal-ip.md) information, song lyrics, and album photos. For [memory allocation](computers-programming-basics.md) reasons of all the *possible* metadata, this can *really* pad out file sizes.
+Files can also contain all sorts of multimedia, and it can get a bit complicated. Most codecs for [music files](computers-speakersmic.md), for example, don't usually contain *only* music. An MP3, for example, will have plenty of text data about the performer, [licensing/copyright](legal-ip.md) information, song lyrics, and album photos. For [memory allocation](computers-programming.md) reasons of all the *possible* metadata, this can *really* pad out file sizes.
 
-It's worth noting that there are often specific rules about what characters work in file names. All the alphabet is allowed, along with some special characters like commas, periods, and spaces. However, [regular expression](computers-programming-basics.md) elements like "?" and "/" aren't allowed.
+It's worth noting that there are often specific rules about what characters work in file names. All the alphabet is allowed, along with some special characters like commas, periods, and spaces. However, [regular expression](computers-programming.md) elements like "?" and "/" aren't allowed.
 
 On older systems, using periods and spaces can *really* mess up a system, and on an unknown distributed system you don't always know how old everything is. Therefore, it's typically a good idea to get into the habit of using "_" instead of " ".
 
@@ -112,7 +112,7 @@ The file system may also have certain additional features for block management:
 - Variable file block size - for managing multiple block sizes on one system
 - Trim support - in [solid-state drives](computers-memory.md), writes all the unused data to 0 to prolong the life of the drive
 
-Because of the way [algorithms](computers-programming-algorithms.md) write blocks, you can save a *lot* of disk space if you group similar information together *before* compressing it for archiving. This can heavily affect [compiling sizes](computers-programming-basics.md) as well.
+Because of the way [algorithms](computers-programming-algorithms.md) write blocks, you can save a *lot* of disk space if you group similar information together *before* compressing it for archiving. This can heavily affect [compiling sizes](computers-programming.md) as well.
 
 ## File systems
 

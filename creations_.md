@@ -14,7 +14,7 @@ Most creations are expressed through a medium or media, but it's not always phys
 - Adding worth to an idea by simplifying it for yourself.
 - Studying creates and intensifies [new neural connections](mind-memory.md).
 - [Philosophers](philosophy.md) work almost exclusively with ideas.
-- Every [creator](mind-creativity.md) across any medium, ranging from music to visual art to [computer programs](computers-software-design.md), must build at least a prototype of something in their mind *long* before it becomes [external reality](reality.md).
+- Every [creator](mind-creativity.md) across any medium, ranging from music to visual art to [computer programs](computers-software.md), must build at least a prototype of something in their mind *long* before it becomes [external reality](reality.md).
 
 All things we call [work](success-4_routine.md) are creating in some way, and it's necessary for living a [good](goodlife.md) and [meaningful](meaning.md) life. Without creating anything, we'll become frustrated and unhappy with the world around us.
 

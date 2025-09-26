@@ -44,7 +44,7 @@ A good professional has a unique relationship with their tools.
 
 - Broadly speaking, a professional's tools define their trade.
   - Accountants' tools are financial reports and tax filings.
-  - [Programmers'](computers-programming-basics.md) tools are software and existing computer code.
+  - [Programmers'](computers-programming.md) tools are software and existing computer code.
   - Vehicle operators' tools are both their vehicle and what they use to maintain their vehicle.
 - They see that all tools have severe constraints, but that they *all* have their uses for particular circumstances.
   - Even a bad-quality tool has its place, simply because it's disposable or creates consequences a good-quality tool wouldn't create.

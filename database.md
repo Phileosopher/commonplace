@@ -44,9 +44,9 @@ The easiest way to have a primary key is to make it a "surrogate key", where it 
 
 ## SQL
 
-SQL stands for Structured Query Language. It's a [language](computers-programming-basics.md) designed to let anyone (not just technical people) deal with [data](data.md) by using "queries". A query is requesting for data, but then can change the data after requesting it.
+SQL stands for Structured Query Language. It's a [language](computers-programming.md) designed to let anyone (not just technical people) deal with [data](data.md) by using "queries". A query is requesting for data, but then can change the data after requesting it.
 
-Most people get daunted by the fact that SQL is a programming language, but [their fear is a bit overblown](computers-programming-basics.md). SQL is relatively easy to understand, though it may take an afternoon or two to fully feel out the concept.
+Most people get daunted by the fact that SQL is a programming language, but [their fear is a bit overblown](computers-programming.md). SQL is relatively easy to understand, though it may take an afternoon or two to fully feel out the concept.
 
 It's worth noting that the term "SQL" the database isn't the same as "SQL" the server. Microsoft SQL Server happens to be one of a variety of languages that use SQL, but there are other "relational database management systems" (RDMS) including postgreSQL, MySQL, AQL, Datalog, and DMX.
 

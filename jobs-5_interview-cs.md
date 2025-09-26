@@ -31,7 +31,7 @@ The technical interviews are [a complete class of their own](jobs-5_interview-te
 
 ## Human interviews
 
-In-person interviews can be challenging. This is often not because of the interview itself, but because of the fact that you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](computers-software-design.md).
+In-person interviews can be challenging. This is often not because of the interview itself, but because of the fact that you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](computers-software.md).
 
 Make about 10 stories ahead of time that explicitly indicate how you succeeded. Have two versions available:
 

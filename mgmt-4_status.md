@@ -34,7 +34,7 @@ People almost never work as much as they say they do.
 
 For most industries, you'll get more work out of them relative to their hourly rate if you give them a smaller 4-day work week.
 
-- Four-day weeks are a good idea when the project is long-term (e.g., [software developers](computers-programming-basics.md), [actuaries](math-stat.md)), but not for short-term tasks that require a person's physical presence (e.g., retail, construction).
+- Four-day weeks are a good idea when the project is long-term (e.g., [software developers](computers-programming.md), [actuaries](math-stat.md)), but not for short-term tasks that require a person's physical presence (e.g., retail, construction).
 - Do *not* use a four-day week for tasks that only need a human being physically present (e.g., security guard, cashier).
 
 ## Checking status

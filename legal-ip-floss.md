@@ -64,7 +64,7 @@ How freely you release your code should be driven by your motivations of what yo
 
 - If you deeply care solely about making money, releasing code to the public is a bad idea.
 - If you're trying to learn and want feedback, open-source allows others to draw attention to your failures, as well as fix them.
-- To be influential among [programmers](computers-programming-basics.md), public code is an excellent way to create meaningful impact and influence, since others can adapt it to their needs.
+- To be influential among [programmers](computers-programming.md), public code is an excellent way to create meaningful impact and influence, since others can adapt it to their needs.
 - To [educate others](education.md), open-source is the most hands-on way to do it.
 - Sometimes, the software resolves a *major* problem you have, and mass-adoption of that software would make *your* life easier.
 
@@ -352,7 +352,7 @@ The [trend](trends.md) for free software, as of 2023, is a bit complex:
 - Open-source software terms are definitely enforceable, and failure to honor them can lead to a lawsuit.
 - GPL code has effectively been labeled as a [contract-based matter](people-contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](legal-doctrines.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).
 - There are also movements that imply that *any* [decompilation](computers-compilers.md) of software might be legal, if only for the intention of [fixing a bug](computers-software-redesign.md). Nothing says the [core logic](computers-alu.md) can't be reproduced, either, even if the software isn't outright copied (i.e., [EU court ruling](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1)).
-- Copying your software's [API outputs](computers-programming-basics.md) to make it interoperable with another, more popular software *might* be legal, but will be somewhat of an uphill battle to wrestle over the dispute (i.e., [Google vs. Oracle's Java ruling](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)).
+- Copying your software's [API outputs](computers-programming.md) to make it interoperable with another, more popular software *might* be legal, but will be somewhat of an uphill battle to wrestle over the dispute (i.e., [Google vs. Oracle's Java ruling](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)).
 - Calling software open-source when it's *not* open-source is considered false advertising.
 
 The reality about software developers is many of them (especially anyone who wants to work on an open-source project) does *not* care as much about money as they do about their [specialization](jobs-specialization.md) inside computers.

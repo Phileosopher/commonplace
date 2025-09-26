@@ -110,7 +110,7 @@ Product Management
 
 Front-End Development
 
-- Design tools, but mixed with various [frameworks and libraries](computers-programming-basics.md) to build (mostly) [websites](computers-sofware-webdev.md).
+- Design tools, but mixed with various [frameworks and libraries](computers-programming.md) to build (mostly) [websites](computers-sofware-webdev.md).
 - Coding mostly in HTML, CSS, and JavaScript, with something like Chrome Dev Tools for [debugging](computers-software-redesign.md).
 - [Version control](computers-software-versionctrl.md) via Git, likely through GitHub.
 - An [IDE](computers-software-ide.md) that varies on the company, but is typically software like VS Code, Atom, or Sublime (though you can often bring your own if you know how to set it up).

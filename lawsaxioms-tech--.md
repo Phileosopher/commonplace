@@ -19,7 +19,7 @@ The fastest way to solve something is often to throw out everything and start ov
 
 ### fixing things
 
-[Hacking](hacking.md) and [coding](computers-programming-basics.md) is an analytical [creative](mind-creativity.md) art pursuing vague goals, so it's not worth taking failure personally.
+[Hacking](hacking.md) and [coding](computers-programming.md) is an analytical [creative](mind-creativity.md) art pursuing vague goals, so it's not worth taking failure personally.
 
 ### working
 

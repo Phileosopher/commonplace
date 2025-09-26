@@ -40,7 +40,7 @@ Because tech-savvy people and tech-retarded people have completely different opi
 
 A program is a set of instructions that the computer can run.
 
-When a program [creates variables and runs functions](computers-programming-basics.md), the operating system can run allocate a memory stack for the program ("stack memory allocation"). Then, when the program ends, the operating system will deallocate that memory.
+When a program [creates variables and runs functions](computers-programming.md), the operating system can run allocate a memory stack for the program ("stack memory allocation"). Then, when the program ends, the operating system will deallocate that memory.
 
 The other option is to store program memory in a heap with all the other programs ("heap memory allocation"). This is easier to make (and used to be the *only* way to run an operating system), but can cause memory leaks if the program's programmer forgot to release the memory before terminating the program.
 

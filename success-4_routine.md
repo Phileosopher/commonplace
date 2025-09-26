@@ -44,7 +44,7 @@ Daily self-discipline is the skill of adapting triggers to make life a seamless 
 Slice each task into as small an action as possible:
 
 - The smaller the task, the simpler it is, and the easier it is to optimize.
-  - If you have any [computers](computers.md) or [robotics](computers-robotics.md), it's *much* easier to [program](computers-programming-basics.md) as well.
+  - If you have any [computers](computers.md) or [robotics](computers-robotics.md), it's *much* easier to [program](computers-programming.md) as well.
 - It's much easier to detect whether smaller tasks are moving toward [goals](success-3_goals.md) you want.
 - Accomplishing many small tasks is *guaranteed* to give you more of a [sense of meaning](meaning.md) than accomplishing one large task.
 

@@ -1,7 +1,7 @@
 
 # Tech business ideas
 
-The speed that computers run means that most of the limits in building your own business is mostly based on how well you can [develop software](computers-software-design.md), along with the ability to [keep computers running](computers-distsys-enterprise.md) for the necessary services that software needs.
+The speed that computers run means that most of the limits in building your own business is mostly based on how well you can [develop software](computers-software.md), along with the ability to [keep computers running](computers-distsys-enterprise.md) for the necessary services that software needs.
 
 Of course, once an organization gets larger, the people running it have to spend more time [managing teams](mgmt-3_teams.md), which takes away from software development. It allows larger-scale work, but the hourly-rate new hires won't have the passion for it like the people who get paid more for doing a good job.
 

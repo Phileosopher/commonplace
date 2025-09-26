@@ -51,7 +51,7 @@ A copyright is an exclusive right for an original work, and implicit for a wide 
 
 - Written works (e.g., books, plays, sheet music)
 - Artwork of any sort (e.g., paintings, photographs, music)
-- Computer software code (since it's the "written" work of someone making [computer logic](computers-software-design.md)), though there are [much more effective licenses for it](legal-ip-floss.md).
+- Computer software code (since it's the "written" work of someone making [computer logic](computers-software.md)), though there are [much more effective licenses for it](legal-ip-floss.md).
 
 Copyright never covers ideas (which is the domain of the other IPs), but instead protects the *expression* of those ideas.
 
@@ -141,7 +141,7 @@ Very frequently, copyright holders would prefer people simply rent their service
 
 For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](faang.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
 
-- [Digital content](computers-software-design.md) is constantly changing, along with intellectual property, so legal situations often give it a *shorter* lifespan than content with physical copies.
+- [Digital content](computers-software.md) is constantly changing, along with intellectual property, so legal situations often give it a *shorter* lifespan than content with physical copies.
 - While digital content is easier to distribute, it's also easier to destroy (simply by deleting it), so it's far more volatile without being securely stored across a [distributed system](computers-distsys.md).
 - Even when content is distributed, most digital content contains Digital Rights Management (DRM) that curtails the free use of the content.
 

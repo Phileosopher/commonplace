@@ -3,7 +3,7 @@
 
 Converting the keyboard used for [typewriting](language-writing.md) into a useful computer input may probably be the most convenient thing that has ever happened to computers.
 
-Before keyboards, people had to send information to a computer with holes in punch cards or paper tape. If you've ever taken a standardized test where you fill in the numbers with a pencil (sometimes called a scantron), imagine having to [code](computers-programming-basics.md) a computer that way.
+Before keyboards, people had to send information to a computer with holes in punch cards or paper tape. If you've ever taken a standardized test where you fill in the numbers with a pencil (sometimes called a scantron), imagine having to [code](computers-programming.md) a computer that way.
 
 We still use barcodes (e.g., homogenous retail products) and magnetic ink (e.g., bank checks) that use the [older technology](trends.md).
 
@@ -62,7 +62,7 @@ As far as feel and responsiveness, mechanical keyboards are superior. However, t
 - Mechanical keyboards are more expensive to manufacture than membrane keyboards.
 - The form factor of mechanical keyboards is almost always much larger and heavier than membrane keyboards.
 - Mechanical keyboards are typically MUCH LOUDER than membrane keyboards. In some situations, they can keep people up at night.
-- Mechanical keyboard signals have a higher chance of mapping extra keys (also called "ghosting") when 3 or more keys are pressed, so it often stops those keys (also called "blocking"). Thus, there's an "n-key rollover" that sets a maximum number of keys registered as pressed. This usually doesn't cause issues for most people, but hardcore [software developers](computers-software-design.md) and [gamers](computers-software-gamedev.md) will notice anything below 6-key-rollover.
+- Mechanical keyboard signals have a higher chance of mapping extra keys (also called "ghosting") when 3 or more keys are pressed, so it often stops those keys (also called "blocking"). Thus, there's an "n-key rollover" that sets a maximum number of keys registered as pressed. This usually doesn't cause issues for most people, but hardcore [software developers](computers-software.md) and [gamers](computers-software-gamedev.md) will notice anything below 6-key-rollover.
 
 Occasionally, a keyboard may register multiple inputs with one keyboard press, known as a "key bounce". There are several "debounce" [break-fix](fix.md) methods:
 
@@ -109,7 +109,7 @@ This will probably move around based on the Unicode standard moving as well (new
 
 Text, however, isn't simply an abstraction, and must [display in some fashion](engineering-graphics.md). There are many forms of typography available, and a set of characters that abide by that typographical rule is called a "font". Each font tends to include other formats as well of the characters, such as bold and italic.
 
-A font is either "monospaced" (where each character is using the same width) or "proportional" (where each character uses differing widths relative to the size of the letter). Monospaced fonts are still used frequently for what is known as "ASCII art", which uses different characters to portray a minimalist image, and [programmers](computers-programming-basics.md) prefer monospaced because it makes it easier to read and [debug](computers-software-redesign.md) code.
+A font is either "monospaced" (where each character is using the same width) or "proportional" (where each character uses differing widths relative to the size of the letter). Monospaced fonts are still used frequently for what is known as "ASCII art", which uses different characters to portray a minimalist image, and [programmers](computers-programming.md) prefer monospaced because it makes it easier to read and [debug](computers-software-redesign.md) code.
 
 ## Moving information
 

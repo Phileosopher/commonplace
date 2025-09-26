@@ -1,7 +1,7 @@
 
 # List of computer industry jobs
 
-There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](computers-programming-basics.md), but not all of them require [coding](computers-programming-basics.md).
+There are *many* types of tech industry roles. Most of them pay well, but have *entirely* different scopes of technical expertise. Most of them require [programming](computers-programming.md), but not all of them require [coding](computers-programming.md).
 
 To anyone who notices, these are *not* mutually exclusive roles, and they frequently bleed into each other.
 
@@ -19,7 +19,7 @@ Fiddling with the [UX](engineering-design.md) (for people who understand [how pe
 
 - **Information Architect** manages the UX behavior flow from a [psychology](mind-feelings.md) angle.
 - **UX Designer** manages the UX behavior flow from a [design](mind-creativity.md) angle (wireframing, prototyping, mockups, and tracking user flow).
-- **UI Designer** focuses strictly on the [development side](computers-programming-basics.md) of the design.
+- **UI Designer** focuses strictly on the [development side](computers-programming.md) of the design.
 - **Interaction Designer** prototypes data.
   - **Web Analytics Developer** tests and optimizes web interfaces.
   - **Accessibility Specialist** focuses on usability for everyone, especially disabled people.
@@ -28,11 +28,11 @@ Fiddling with the [UX](engineering-design.md) (for people who understand [how pe
 
 - **Front-End Designer** manages the interface from a [design](mind-creativity.md) angle.
   - **CG (Computer Graphics) Animator** works with [advanced graphics processing](engineering-graphics.md).
-- **Front-End Developer** manages the interface from a [development](computers-software-design.md) angle.
+- **Front-End Developer** manages the interface from a [development](computers-software.md) angle.
 
-[Back-end development](computers-software-design.md) (for people focused heavily on [concrete facts and data](science.md)):
+[Back-end development](computers-software.md) (for people focused heavily on [concrete facts and data](science.md)):
 
-- **Back-End Developer** or **Server-Side Developer** makes stuff for front-end developers ([databases](database.md), [APIs](computers-software-features.md), [core logic](logic-cs.md)).
+- **Back-End Developer** or **Server-Side Developer** makes stuff for front-end developers ([databases](database.md), [APIs](computers-programming-features.md), [core logic](logic-cs.md)).
   - **Backend Engineer** focuses on all aspects of back-end systems.
 - **Software Developer** creates software.
   - **Frameworks Specialist** uses various existing frameworks to create [web apps](computers-sofware-webdev.md).

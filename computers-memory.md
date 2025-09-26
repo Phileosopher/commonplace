@@ -58,7 +58,7 @@ After about 64 milliseconds, the electrical signals in bits would start decaying
 
 By using ECC ("error correcting code"), we can be sure the information is reliably stored and retrieved. Not all processors use ECC, but they really, *really* should.
 
-- There aren't any standards for ECC, so it all lands on the hardware vendor or [the programmer downstream](computers-software-design.md).
+- There aren't any standards for ECC, so it all lands on the hardware vendor or [the programmer downstream](computers-software.md).
 - While it's theoretically an increase in performance, individual bits (a 0 or 1) can sometimes flip, which can change anything from a barely different-colored pixel to a different text character in a file name.
 - A 0.0000001% chance of a bit flip means a one-in-a-million chance, which becomes thousands of bits when it's *billions* of bits of data (and 1 gigabyte has 8 billion bits).
 - Without ECC, [hackers](hacking.md) can often exploit bit flips, such as "race conditions".

@@ -111,12 +111,12 @@ To load-balance, the easiest solution can be to route the end user to the neares
 
 ## Testing
 
-[Debugging and testing](computers-software-redesign.md) is just as applicable as with smaller software projects, but the stakes are dramatically higher if anything fails. One missed exit from a [function](computers-programming-basics.md) can cause thousands of people to have their app crash simultaneously in a live environment, and a misplaced comma may mean deleting many clients' data. On the far end, this can lead to some *very* unpleasant [lawsuits](people-contracts.md).
+[Debugging and testing](computers-software-redesign.md) is just as applicable as with smaller software projects, but the stakes are dramatically higher if anything fails. One missed exit from a [function](computers-programming.md) can cause thousands of people to have their app crash simultaneously in a live environment, and a misplaced comma may mean deleting many clients' data. On the far end, this can lead to some *very* unpleasant [lawsuits](people-contracts.md).
 
 To accommodate this reality, enterprise-grade projects use 3 servers:
 
 1. Prototype server - an experimentation playground, where the developers can easily tweak, modify, and test code.
-2. Test server - a close reproduction of the live environment, but with dummy [APIs](computers-software-design.md) for complete debugging and testing.
+2. Test server - a close reproduction of the live environment, but with dummy [APIs](computers-software.md) for complete debugging and testing.
 3. Live server - the server that users actually interact with.
 
 Ideally, they *should* be using the same "environment", since different environments across them can make software development troublesome, especially between the test and live servers. This can mean each seemingly simple element within a smaller software can become autonomous APIs in entirely different network closets or datacenters.

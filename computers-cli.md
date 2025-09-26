@@ -3,7 +3,7 @@
 
 If you're unfamiliar with computers, it can be overwhelming when you're given a black screen with something like "C:\Users\Bob>" and a blinking cursor.
 
-However, unless someone takes the time to specifically [program](computers-programming-basics.md) a [visual interface](engineering-design.md), a "command-line interface" (CLI) is the easiest way to work with computers. It's usually called a shell, a terminal (on [Linux](computers-os-unix.md)), or command prompt (on [Windows](computers-os-windows.md)). It's called a terminal or shell because it historically once was opening to a host mainframe or "mini".
+However, unless someone takes the time to specifically [program](computers-programming.md) a [visual interface](engineering-design.md), a "command-line interface" (CLI) is the easiest way to work with computers. It's usually called a shell, a terminal (on [Linux](computers-os-unix.md)), or command prompt (on [Windows](computers-os-windows.md)). It's called a terminal or shell because it historically once was opening to a host mainframe or "mini".
 
 At first, command interfaces sound daunting. However, once you have experience with terminals/command prompts, you'll actively *want* that sort of interface, for several reasons:
 

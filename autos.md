@@ -418,7 +418,7 @@ The best solution is to deactivate those features whenever possible:
 
 The design of the vehicle may make deactivating features difficult or impossible, and you might have to find a [clever hack](hacking.md) to deactivate them.
 
-- Delete or modify parts of the [computer code](computers-software-design.md) that run subsystems.
+- Delete or modify parts of the [computer code](computers-software.md) that run subsystems.
 - Reinstall an [open-source](legal-ip-floss.md) [operating system](computers-os.md) created by a developer community to run your vehicle.
 - Retrofit the vehicle's engine to a non-computerized system.
 

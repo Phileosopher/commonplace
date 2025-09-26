@@ -10,7 +10,7 @@ Assembly code is an abstraction that allows people to write the machine language
 
 It's worth noting computer hardware never sees *anything* but machine language (0s and 1s), so assembly code and the assembler are by *far* the most bare-bones portion of anything related to computers.
 
-[Higher-level languages](computers-programming-basics.md) must run through a compiler first to become assembly code, *then* convert through an assembler that converts it to binary. The system flows information through a distinct process:
+[Higher-level languages](computers-programming.md) must run through a compiler first to become assembly code, *then* convert through an assembler that converts it to binary. The system flows information through a distinct process:
 
 1. The user puts in information via the input (e.g., double-click on the Microsoft Word icon)
 2. That information is converted to text code (C:\>word.exe)
@@ -83,12 +83,12 @@ To make things easier and more convenient for the human programmers, specific pl
 
 ## Syntax
 
-Generally, assembly code follows [normal code procedure](computers-programming-basics.md) like white space not being counted and comments, though the one-to-one relationship means it's far more rudimentary than higher-level languages.
+Generally, assembly code follows [normal code procedure](computers-programming.md) like white space not being counted and comments, though the one-to-one relationship means it's far more rudimentary than higher-level languages.
 
 Assembly code, compared to higher-level languages is *very* rudimentary:
 
 - Assembly code does *not* have quick-access libraries to pull from. It's all binary information, meaning any repetitions must be manually coded.
-- There are no "[variables](computers-programming-basics.md)" in the conventional sense, since there are only binary memory registers that can get duplicated as separate references.
+- There are no "[variables](computers-programming.md)" in the conventional sense, since there are only binary memory registers that can get duplicated as separate references.
 - Arrays get lost in the memory shuffle, since they're encoded as whatever memory locations they were at.
 - Pointers are somewhat hard to decipher because they're referencing memory registers.
 

@@ -92,7 +92,7 @@ On the development side, one of the most significant portions of Windows comes t
 
 .NET also has its uses on Linux and Mac, but since it *is* Microsoft, the .NET framework is inextricably married to Windows. It's a good framework generally, though it's very much [proprietary](legal-ip-floss.md).
 
-ASP.NET was designed to expand .NET into [web apps](computers-sofware-webdev.md) by using the C# language instead of JavaScript. Developers have mixed opinions about it: it's trying to create a fire-and-forget set of solutions, but particularly intelligent [software designers](computers-software-design.md) will find it irritating.
+ASP.NET was designed to expand .NET into [web apps](computers-sofware-webdev.md) by using the C# language instead of JavaScript. Developers have mixed opinions about it: it's trying to create a fire-and-forget set of solutions, but particularly intelligent [software designers](computers-software.md) will find it irritating.
 
 ## Updates
 

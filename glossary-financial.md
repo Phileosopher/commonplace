@@ -1,6 +1,8 @@
 
 # Accounting and finance glossary
 
+## A
+
 Account - A standardized record that represents a single categorized financial part of a business
 
 Accounting Period - The period when financial statements are prepared, usually on a monthly, quarterly, or yearly basis
@@ -41,6 +43,8 @@ Audit - The process of reviewing financial records to verify their accuracy and 
 
 Average Cost Method - An inventory method that averages out the total value of all the inventory purchased to determine the Cost of Goods Sold
 
+## B
+
 Back-to-Back Letters of Credit - Financing where a bank's letter of credit is collateral for another bank's letter of credit, often used to circumvent restrictions on a direct letter of credit or remove a bank's name from the documentation
 
 Bad Debt - Debts that can't be paid, which is usually a tax-deductible expense
@@ -72,6 +76,8 @@ Break-Even Point - The specific number where one additional unit of production w
 Bubble - A market condition where the price of an object is *significantly* higher than its intrinsic value
 
 Bull Market - A market with a positive outlook, contrast to bear market
+
+## C
 
 Capital - aka Startup Costs, money business owners invest to acquire assets and start operating
 
@@ -127,7 +133,7 @@ Creative Accounting - An underhanded way of making accounts appear more or less 
 
 Credit - (bookkeeping) Any record keeping that decreases assets or expenses or increases capital or liability (business) When a supplier agrees to allow the buyer to pay after receiving the goods or services, the opposite of a Debit
 
-Credit Card - A plastic card with a credit limit designed to obtain cash advances
+Credit Card - A plastic card designed to purchase things without currency, has a credit limit designed to obtain cash advances
 
 Credit Note - A document sent to a customer that cancel's their debt, usually for defective goods or poor service
 
@@ -145,9 +151,9 @@ Current Liabilities - Things that are owed within the next 12 months, which incl
 
 Cut-off Procedures - Methods used to separate out transactions into different accounting periods
 
-Debit - Any record keeping that increases assets or expenses or decreases capital or liability, the opposite of a Credit
+## D
 
-Credit Card - A plastic card designed to purchase things without currency
+Debit - Any record keeping that increases assets or expenses or decreases capital or liability, the opposite of a Credit
 
 Debtors - Customers who owe money
 
@@ -174,6 +180,8 @@ Dollar Cost Averaging - Using the same ratio of investment categories at regular
 Double-Entry Bookkeeping - A universal accounting system where everything is recorded as both a debit and credit
 
 Drawing - Money that a company owner takes out of a company for their own personal use, which is *not* wages
+
+## E
 
 Earned Income - Cash or equivalents that someone gets as compensation for goods or services
 
@@ -202,6 +210,8 @@ Exclusions - aka Excluded Income, things excluded from a taxpayer's gross incom
 Exemption - The amount of income that isn't taxed, but sometimes refers to a specific amount for a specific thing
 
 Expenditure - aka Expense, anything a business purchases (e.g., inventory, salaries)
+
+## F
 
 Face Value - aka Par Value, the indicated price for a bond or stock to be sold, can be sold at a premium or discount
 
@@ -237,6 +247,8 @@ Flow of Funds - A report that shows how the balance sheets have changed from o
 
 Future Value - The value of something in the future after accounting for inflation and the inability to spend it during that time, as opposed to Present Value
 
+## G
+
 Generally Accepted Accounting Principles (GAAP) - a century-old standard for how accountants should think and work
 
 Gain - aka Profit, when revenue is more than expenses, the opposite of a loss
@@ -255,9 +267,13 @@ Growth and Acquisition - How a business grows, either by getting bigger and ex
 
 Growth Fund - A mutual fund oriented toward higher-risk medium/large company stocks
 
+## H
+
 Hedge Fund - A mutual fund managed unconventionally
 
 Historical Cost - The original price of something
+
+## I
 
 International Accounting Standards Board (IASB) - a group that spends all day making standards on accounting practices, sometimes against the FASB
 
@@ -299,11 +315,17 @@ Investors - People or businesses who have invested money into a business to bec
 
 Insider Trading - Making a stock trade based on specialized information other people have told you
 
+## J
+
 Journal - A system that records chronological business transactions that are posted to the General Ledger
 
 Joint Venture - Capital that is combined to provide products or services, usually as business partnerships where everyone involved is fully responsible for the business
 
+## K
+
 Key Performance Indicators (KPI) - A numerical measurement that calculates the performance of a business
+
+## L
 
 Last In, First Out (LIFO) - an inventory method that values inventory sold by the cost of the last inventory purchased
 
@@ -329,6 +351,8 @@ Long-Term Liabilities - Things owed that aren't due for more than one year (e.
 
 Loss - Where expenses are more than revenue, the opposite of a Gain or Profit depending on the context
 
+## M
+
 Majority Stakeholder - The person or entity that owns most of a company's shares
 
 Management Accounting - The profession of creating specially made reports to fit the needs of the people who run a company
@@ -351,6 +375,8 @@ Moving Average - A method of showing data on graphs to display trends that avera
 
 Mutual Fund - aka Fund, a combination of assets that a fund manager directs toward investing
 
+## N
+
 National Best Bid and Offer (NBBO) - The tightest bid-ask spread in a security
 
 Net Worth - aka Net Worth, Net Profit or simply Net, the "true" worth of something after adding together all incomes and assets and then subtracting all expenses and liabilities
@@ -369,6 +395,8 @@ Not-For-Profit Organization (NPO) - A company that uses all its income for a spe
 
 Not Sufficient Funds (NSF) Fee - A fee for a customer not having enough funds to cover a cost, called an overdraft fee if a bank uses it
 
+## O
+
 Opening the Books - After a business has Closed the Books, they start the record keeping for the next period
 
 Operating Activities - one of the three Cash Flow Statement categories of financial activity with Financing Activities and Investing Activities that refers to the day-to-day operations of the company
@@ -384,6 +412,8 @@ Originator - Account holder who begins a wire transfer
 Out-of-the-Money - A situation where the strike price of an option doesn't have actual value on a market, contrasts with in-the-money
 
 Overhead - The costs of running a business that are not tied directly to production or sales
+
+## P
 
 Parent Company - A company that controls at least one subsidiary
 
@@ -434,129 +464,3 @@ Prospectus - A document used to advertise shares an investor can buy, which usu
 Provisions - Amounts put aside in accounts to cover future Liabilities
 
 Proxy Statement - A document required by the Securities and Exchange Commission that helps shareholders make informed decisions about matters that will be addressed at a stockholder meeting
-
-Qualified Opinion - A report issued by an accountant when the information presented is not sound in their professional opinion, rather than an Unqualified Opinion
-
-Quality of Earnings - The earnings that can be attributed to higher sales or lower costs instead of accounting anomalies
-
-Raw Materials - Materials bought to be processed into Finished Goods
-
-Refinancing Agreement - A company's arrangement to replace existing financing with other funding instead of defaulting
-
-Realization Principle - A principle of GAAP where revenue can only be recognized when the goods or services that created that revenues have been delivered
-
-Rebate - A partial refund for overpaying or services that were cancelled before they ended
-
-Receipt - A record of payment, usually written or printed
-
-Replacement Cost - The cost of replacing an asset or liability
-
-Required Minimum Distribution - A individual's legal requirement to take a specific fraction of their retirement money sometime after age 70.
-
-Reserve Account - An account set up to retain earnings, usually to make balance sheets clearer or to reserve money against future purchases or liabilities
-
-Retained Earnings - Net income that a company keeps rather than distributed to shareholders as Dividends
-
-Return on Investment (ROI) - A very popular profitability ratio, most frequently calculated by dividing the gain from the investment by the cost of the investment
-
-Revenue - The money a business receives for its commercial activities
-
-Risk - aka Volatility, the possibility of financial loss, used in investing to determine the most marketable return
-
-Rounding Error - An error that rounds a number upward or downward, a natural product of [computer-based math](math-cs.md)
-
-Sales - The total income from selling goods or services
-
-Secured Loan - A loan where the borrower pledges an asset in exchange for a loan that the lender then uses as collateral
-
-Securities - A broad term referring to any outstanding obligations by companies, typically refers to stocks or bonds
-
-Securities and Exchange Commission (SEC) - A governing board alongside the Federal Trade Commission that oversees trade in the USA
-
-Segment Reporting - Where divisions of a business are separated for individual reporting
-
-Share - aka Stock, an evenly divided part of a company
-
-Share Repurchase - aka Stock Buyback, where a corporation buys back is shares from its stockholders
-
-Shareholder - aka Stockholders, the owner of shares in a company
-
-Short Position - A specific option where an investor purchases sends a short order to a broker, the broker sells the asset with a loan to the investor, and the investor pays it back later and keeps or pays the price difference
-
-Simple Interest - Interest applied to the original principal of a loan
-
-Sinking Fund - Money set aside over time to repay a debt or replace a wasting asset
-
-Speculation - Analysis that makes predictions about an entity's future performance for the purpose of making investment decisions
-
-Stakeholder - Vague term for any entity who may have any interest in an organization
-
-Statement of Cash Flows - A common financial statement that shows how changes in the Balance Sheet affects the movement of cash, categorized as Operating, Investing and Financing Activities
-
-Stock-For-Stock Merger - A merger where all of a subsidiary company's shares are directly exchanged for all of a parent company's shares, effectively conjoining the companies' equity.
-
-Stock Exchange - aka Stock Market, an organization that sets legal standards for buying and selling publicly traded Shares
-
-Stockbroker - A person or organization who buys and sells securities
-
-Strike Price - The price an option has to arrive at to have any legitimate value
-
-Subordinated Debt - The amount of Unsecured Debt a company owes if the company is liquidated
-
-Subsidiary Company - A company owned by a Parent Company
-
-Subtotal - Smaller items grouped together to create a Total
-
-Sunk Costs - Money that cannot be recovered from being spent
-
-Suspense Account - A temporary account where funds are deposited before being sent to the correct place
-
-Tangible Assets - Physical assets, such as buildings, vehicles, and machinery
-
-Tax - A mandatory contribution to a government, typically measured by the government through financial transactions
-
-Tax Haven - Jurisdictions that give special tax incentives to foreign investors and depositors
-
-Taxation - The act of taxing people and businesses
-
-Total - the "bottom line", usually represented by a line above and two lines below
-
-Total Cost of Ownership (TCO) - the complete cost of an asset, which include renewal fees and other mandatory expenses
-
-Trade - An investing transaction, typically trading cash with an asset
-
-Transposition - An error where the digits of a number are swapped
-
-Undeposited Funds Account - aka Cash-in-Hand Account, an account that shows the money that a company has received but not banked or spent
-
-Unlisted Company - A Limited Liability Company not listed on a Stock Exchange
-
-Unqualified Opinion - A report issued by an accountant when the information presented is sound in their professional opinion, rather than a Qualified Opinion
-
-Unsecured Creditor - A creditor who doesn't have a claim against a particular Asset, meaning they will only get whatever is left if a company is liquidated
-
-Unsecured Loan - A debt without any collateral attached to it
-
-Valuation - A process that determines the worth of a company's assets
-
-Variance - The difference between the estimated cost and the actual cost
-
-Vest - A window of time before an investment can be redeemed
-
-Wages - An expense made to employees for their services
-
-Withholding - The amount of money withheld from salaries and paid by the employer to the correct authority
-
-Working Capital - The excess of Current Assets minus Current Liabilities
-
-Work-in-Progress (WIP) - Partially completed goods or services that will be recorded as an asset upon completion
-
-Write-down - A non-cash partial-value expensed reduction of an asset
-
-Write-off - The non-cash total-value expensed reduction of an asset
-
-Yield to Call (YTC) - The chances of a bond being called before its maturity
-
-Zero-Based Account (ZBA) - A bank account which is always kept as close to zero as possible
-
-Zero-Based Budget (ZBB) - Financial forecasting where every dollar is allocated to a specific purpose to make the starting and ending balances zero

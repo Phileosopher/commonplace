@@ -62,7 +62,7 @@ The domain of technology has *magnitudes* of complexity, so users have a dramati
 2. They also often don't communicate that lack of understanding to others, for various reasons.
 3. This lack of shared non-understanding creates a conspiracy of silence.
 
-[Software engineers](computers-programming-basics.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-2_image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
+[Software engineers](computers-programming.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-2_image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
 
 This is almost standard in tech, and never seems to [trend](trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
 
@@ -286,7 +286,7 @@ Avoid using redundant text (e.g., "Enter your email and password" heading with "
 
 ## Design at scale
 
-[Software development](computers-software-design.md) has a unique, nasty problem:
+[Software development](computers-software.md) has a unique, nasty problem:
 
 1. First, the software must be designed, then [tested a *lot*](computers-software-redesign.md) to ensure it actually works.
 2. Then, the software must be tested to ensure that people *beyond* the designer are capable to use it.

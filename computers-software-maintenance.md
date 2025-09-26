@@ -37,7 +37,7 @@ In software, [the UI](engineering-design.md) can hide away most features, so the
 
 The more time software developers work on features, the less they're working on the core function of the software.
 
-One of the most significant sources of slowdown and [cybersecurity risks](computers-cysec.md) comes from using an off-the-shelf [framework](computers-programming-basics.md) for an application:
+One of the most significant sources of slowdown and [cybersecurity risks](computers-cysec.md) comes from using an off-the-shelf [framework](computers-programming.md) for an application:
 
 - That framework will likely be sufficient (even to easily [scale](computers-distsys-enterprise.md)), but over time the developers of *that* framework can often add arbitrary features that will severely slow it down (and therefore the dependent project).
 - Even without a framework, a sufficiently complex framework-free application will have an ad-hoc, [informally-specified](language-writing-documentation-cs.md), [bug-ridden](computers-software-redesign.md), slow implementation of half of a framework.
@@ -67,7 +67,7 @@ Even then, [software trends](trends.md) move so fast that it doesn't really matt
 
 Often, a software will become "deprecated":
 
-- If the lead developer [passes on](legacy.md), but [with a succession plan](hardship-death.md), nothing in the software itself will change, but the brilliant mind that [created that software](computers-software-design.md) will be difficult to replace.
+- If the lead developer [passes on](legacy.md), but [with a succession plan](hardship-death.md), nothing in the software itself will change, but the brilliant mind that [created that software](computers-software.md) will be difficult to replace.
 - If the lead developer passes on, but *without* a succession plan, the software may be inaccessible. In that situation, there may be a need for another developer to rebuild the entire codebase to serve the community that needs it.
 - If a superior software came along that was designed more efficiently or with more features, the developer may release it as [open-source](legal-ip-floss.md). From there, other developers will likely borrow parts of the code for *their* future projects.
 

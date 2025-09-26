@@ -35,7 +35,7 @@ Not all technologies give equal opportunities:
 - Using *ancient* languages (like Lisp or COBOL) is highly valuable for specific roles and "[soft understanding](https://trendless.tech/primitives/)", but there aren't many jobs for them.
 - Try to avoid dying stars (like Perl and Objective-C) unless you have something very specific in mind, since you'll have to learn new "syntax" later as it becomes more niche-focused over time.
 - Established old giants like Java and C++ won't go anywhere, but they're not as interesting as newer languages. They're best for job security, but they don't receive the [creative](mind-creativity.md) improvements other languages may receive.
-- Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](computers-programming-basics.md).
+- Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](computers-programming.md).
 - Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](computers-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](engineering-design.md)).
 
 The breadth of what you must know varies on the type of work you're performing:
@@ -48,13 +48,13 @@ The breadth of what you must know varies on the type of work you're performing:
 There's also a trust factor worth considering in hunting for a role.
 
 - Generally, you'll want to get an entry-level job in just about any role connected to what you want, then work from there.
-- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming-basics.md).
+- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming.md).
 
 ## Start Learning
 
 There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If you're self-starting [personality](personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
 
-Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming-basics.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
+Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
 
 ### 1. Coder
 
@@ -79,7 +79,7 @@ Very skilled and knowledgeable where others tend to ask them for advice, and is 
 ### 5. Lead Developer
 
 Has a clear enough understanding of how everything works that they communicate with other business units.
-"Yes, we can probably build that [API](computers-software-features.md), but it'll take at least 2-3 months."
+"Yes, we can probably build that [API](computers-programming-features.md), but it'll take at least 2-3 months."
 
 ### 6. Tech Leader
 
@@ -100,7 +100,7 @@ There's no *end* to the certifications you could get, but either study for *exac
   - Microsoft (MCP, MCSE, etc.)
   - Amazon (AWS Certified Solutions Architect, AWS Certified Developer, etc.)
 
-If you're paying full-price, a college degree is prohibitively expensive relative to what you can learn online with free videos and courses, and the [habits](habits.md) from being a self-starter and [problem-solver](computers-software-design.md) are *far* more important than the [pedigree from a piece of paper](jobs-college.md).
+If you're paying full-price, a college degree is prohibitively expensive relative to what you can learn online with free videos and courses, and the [habits](habits.md) from being a self-starter and [problem-solver](computers-software.md) are *far* more important than the [pedigree from a piece of paper](jobs-college.md).
 
 It doesn't really matter which courses, certifications, or tutorials you take as much as how well you apply it. Great tech work uses intuition to sift large piles of esoteric information to accomplish a practical purpose. However, your turnaround time until you can start working can be as short as a few *months* if you're dedicated and building passionately.
 

@@ -1072,7 +1072,7 @@ An IPO is pricier and more complicated compared to a merger/acquisition, so a re
    - Those other companies were privately held, but are now part of a mega-merger with other companies.
 3. After a few purchases of those other companies, the corporation operates like any other corporation.
    - The legitimate value of the SPAC is based on the performance of those other companies, give or take how well they were [managed](mgmt-1_why.md) during the entire time up to that point.
-   - SPACs are particularly popular among industries that lean heavily into [intellectual property](legal-ip.md), such as [software](computers-software-design.md) or pharmaceuticals.
+   - SPACs are particularly popular among industries that lean heavily into [intellectual property](legal-ip.md), such as [software](computers-software.md) or pharmaceuticals.
 
 ## Breakups
 
