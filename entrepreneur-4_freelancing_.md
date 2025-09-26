@@ -68,7 +68,7 @@ Specialized skills:
 
 - Work on [cars](autos.md)
 - Repair electronics
-- [Fix computers](fix-computers.md)
+- [Fix computers](fix-cs.md)
 - Clothing alterations and tailoring
 - Brew or distill [beer/liquor](fun-alcohol.md)
 - [Travel](fun-vacations.md) consultant or tour guide

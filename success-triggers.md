@@ -319,7 +319,7 @@ Buy a second or third computer monitor to cut down on switching between tasks.
 Optimize your technology:
 
 - Prop up your phone to save your wrists, or find software on your main computer to manage notifications.
-- You can fix 95% of [computer issues](fix-computers.md) by either cycling Airplane Mode or restarting it.
+- You can fix 95% of [computer issues](fix-cs.md) by either cycling Airplane Mode or restarting it.
 - Let your computer update overnight to prevent interrupting your workday.
 - If your phone's storage is almost full, you can usually get rid of many, many junk files.
 - Diving into computer settings gives exponential ways to improve productivity.

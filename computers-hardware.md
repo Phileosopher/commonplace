@@ -213,7 +213,7 @@ While there are a ton of various features (e.g., [hyper-threading to help with V
 
 ### RAM
 
-The [RAM](computers-memory.md) is the "working memory" of the computer. They usually slide into the motherboard into conspicuously nearby slots to the CPU. Abstractly, it functions the exact same as a storage drive, but is much faster and gets wiped as soon as you kill the power to the computer (which is often why rebooting can often [fix](fix-computers.md) your computer).
+The [RAM](computers-memory.md) is the "working memory" of the computer. They usually slide into the motherboard into conspicuously nearby slots to the CPU. Abstractly, it functions the exact same as a storage drive, but is much faster and gets wiped as soon as you kill the power to the computer (which is often why rebooting can often [fix](fix-cs.md) your computer).
 
 Generally, RAM is the easiest (and most benefit-per-dollar) upgrade, though it's a good idea to keep an eye on which RAM slot numbers on the motherboard you're using, since it may require a specific order for using RAM slots.
 

@@ -211,7 +211,7 @@ Human nature mixed with freely distributed software means it's constantly tweake
    - While [good UX design](engineering-design.md) is important, it doesn't mean it has to have much aesthetic.
    - Lousy UX can sometimes turn off average users who are accustomed to high-grade [marketing](marketing.md) built into the software, but the open-source subculture (such as [GNU/Linux](computers-os-unix.md) fans) often won't care if the software does their work better.
 4. Some of the most talented software developers in the world build open-source.
-   - While [finding a bug](fix-computers.md) is often easy, open-source software allows a qualified developer to localize the code that creates the bug, then create code that [submits a pull request](computers-software-versionctrl.md) to fix it.
+   - While [finding a bug](fix-cs.md) is often easy, open-source software allows a qualified developer to localize the code that creates the bug, then create code that [submits a pull request](computers-software-versionctrl.md) to fix it.
    - Since *everyone* is looking at the codebase, it allows more accountability, which can dramatically improve how [safe](computers-cysec.md) the software is from bad actors.
 
 While a [hacker](hacking.md) *could* insert [malicious code](computers-cysec-malware.md) into open-source software, they'd have to submit a pull request that had to get approved. A developer who worked very hard to build software will *not* approve something that turns it into malware or bricks it. However, a bad actor has the full capacity to fork and release a different version, though it may be difficult for the tech community to trust its legitimacy (i.e., "What makes *that* software better than what we know about already?").
