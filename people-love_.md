@@ -1,4 +1,6 @@
 
+# What love is
+
 Love is always a type of fondness, affection, or connection. We usually say "love" as an affectionate connection between people, but it can often be free of any affection or be toward an object or idea.
 
 The greatest psychological [motivator](purpose.md) is [fear](mind-feelings-fear.md), but that fear *always* comes through loving something else we don't want to lose. However, we're frequently unaware of what we love when we're more afraid of losing it.
@@ -22,8 +24,6 @@ Love is not only the pinnacle of human existence. It is *the* foundation of all 
 We can't directly control what we love. We can only make [decisions](decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
 The opposite of love is apathy, not hate. Hate is just as impassioned as love, but is a love for something opposed to the hated thing. Apathy, however, has no sentiment because it's the entire lack of [emotional](mind-feelings.md) association.
-
-* * * * *
 
 ## Classification
 
@@ -72,8 +72,6 @@ We can even love the *idea* of someone or something. In this case, we're strippi
 
 Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings-happiness.md) [change](people-changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
 
-* * * * *
-
 ## Expression
 
 Loving is always sharing, and it includes various sacrifices:
@@ -117,15 +115,13 @@ Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetua
 
 Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").
 
-* * * * *
-
 ## Application
 
-People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
+APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
 
-Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
+APPLICATION: Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
 
-All human purpose is driven by love of something, so all people are merely [prioritizing](purpose.md) one thing over another:
+APPLICATION: All human purpose is driven by love of something, so all people are merely [prioritizing](purpose.md) one thing over another:
 
 - Self-preservation is simply self-love.
 - Corruption is only a desire for [power](power.md).
@@ -134,20 +130,20 @@ All human purpose is driven by love of something, so all people are merely [prio
 - Rebellion is the love *against* something.
 - Self-destructive desires are frequently the love of nonexistence or a misplaced sense of [justice](morality-justice.md).
 
-The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](imagination.md).
+APPLICATION: The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](imagination.md).
 
-If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](imagination.md) of them more than those around us.
+APPLICATION: If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](imagination.md) of them more than those around us.
 
-Even when people [pursue](purpose.md) the same thing, they typically don't love the same thing behind the pursuit, and this will eventually create a [conflict](people-conflicts.md) later.
+APPLICATION: Even when people [pursue](purpose.md) the same thing, they typically don't love the same thing behind the pursuit, and this will eventually create a [conflict](people-conflicts.md) later.
 
-Loving someone's physical state is easy, but isn't as important as loving someone's [soul](humanity.md). To love a person's soul, they sometimes must reap [adverse consequences](results.md), and other times must receive [undue grace](morality.md).
+APPLICATION: Loving someone's physical state is easy, but isn't as important as loving someone's [soul](humanity.md). To love a person's soul, they sometimes must reap [adverse consequences](results.md), and other times must receive [undue grace](morality.md).
 
-Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
+APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
 
-If something harms us, we can't always be sure the person who caused it is [evil](morality-evil.md) or incompetent, and loving means to *always* presuming incompetence until proven wrong. Going forward, we may not be able to [trust](trust.md) them as much either way, but we don't risk [unjustly](morality-justice.md) harming them from assuming them to be evil when they weren't.
+APPLICATION: If something harms us, we can't always be sure the person who caused it is [evil](morality-evil.md) or incompetent, and loving means to *always* presuming incompetence until proven wrong. Going forward, we may not be able to [trust](trust.md) them as much either way, but we don't risk [unjustly](morality-justice.md) harming them from assuming them to be evil when they weren't.
 
-Most of what we do is prioritizing what we love in some form. A faithful [marriage](gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).
+APPLICATION: Most of what we do is prioritizing what we love in some form. A faithful [marriage](gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).
 
-We don't always see the results of love immediately, so the groundwork to successfully loving is patience.
+APPLICATION: We don't always see the results of love immediately, so the groundwork to successfully loving is patience.
 
-If you wish to love someone wholeheartedly, do something they don't expect, or in a way they weren't [expecting](imagination.md).
+APPLICATION: If you wish to love someone wholeheartedly, do something they don't expect, or in a way they weren't [expecting](imagination.md).

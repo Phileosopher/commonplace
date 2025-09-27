@@ -1,4 +1,6 @@
 
+# What humor is
+
 Everyone has a sense of humor. It's a deep, subconscious [feeling](mind-feelings.md) that resonates through many [symbolic](symbols.md) associations to create a unique form of amusement.
 
 At its core, humor is an out-of-place connection. It can come from various places:
@@ -96,16 +98,16 @@ One aspect hiding behind humor is that it's a reliable [stress relief](mind-feel
 
 ## Application
 
-By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](image.md) of [reality](reality.md).
+APPLICATION: By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](image.md) of [reality](reality.md).
 
-There's a humorous side to absolutely every situation, even when it takes [creativity](mind-creativity.md) to find it. However, the seriousness of a [culture's](people-culture.md) [traditions](habits.md) (e.g., [religion](religion.md)) is often [harshly opposed](morality-taboo.md) to levity.
+APPLICATION: There's a humorous side to absolutely every situation, even when it takes [creativity](mind-creativity.md) to find it. However, the seriousness of a [culture's](people-culture.md) [traditions](habits.md) (e.g., [religion](religion.md)) is often [harshly opposed](morality-taboo.md) to levity.
 
-Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](mind-feelings-happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
+APPLICATION: Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](mind-feelings-happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
 
-One of the easiest ways to [influence](influence.md) others is through adding at least a bit of humor to pretty much everything. It's difficult to hate someone you find funny.
+APPLICATION: One of the easiest ways to [influence](influence.md) others is through adding at least a bit of humor to pretty much everything. It's difficult to hate someone you find funny.
 
-To dismantle a [centralized power structure](groups-large.md), learn to be funny. Many [wars](people-conflicts-war.md) have been fought over, in part, giving people [the right to laugh](people-boundaries.md) at their leadership.
+APPLICATION: To dismantle a [centralized power structure](groups-large.md), learn to be funny. Many [wars](people-conflicts-war.md) have been fought over, in part, giving people [the right to laugh](people-boundaries.md) at their leadership.
 
-If [death](legacy.md) wasn't a thing, *everything* about humanity would be absolutely hilarious. This is, in some ways, the basis of [religious joyfulness](religion.md).
+APPLICATION: If [death](legacy.md) wasn't a thing, *everything* about humanity would be absolutely hilarious. This is, in some ways, the basis of [religious joyfulness](religion.md).
 
-Any effort by leadership to impose [rules](rules.md) against humor is guaranteed to backfire.
+APPLICATION: Any effort by leadership to impose [rules](rules.md) against humor is guaranteed to backfire.

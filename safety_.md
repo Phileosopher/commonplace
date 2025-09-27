@@ -1,4 +1,6 @@
 
+# What safety is
+
 We don't like things getting taken from us, especially when we need them to fulfill a [purpose](purpose.md). In fact, we dislike things taken from us proportional to how much that thing will fulfill present *and* [perceived purposes](power.md).
 
 We naturally purpose ourselves to [protecting what we have](safety-security.md), but it's not an even distribution. We have limited resources, so we give priority to what we [love](people-love.md) and the [power](power.md) that can protect our things the most.
@@ -75,12 +77,10 @@ Distrust can also be [habit-forming](habits.md). We tend to [identify](identity.
 
 It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](decisions.md)!
 
-* * * * *
-
 ## Application
 
-Legitimate security and the [appearance](image.md) of security are completely unrelated, so don't assume the appearance is [reality](reality.md), especially with [leaders](groups-large.md).
+APPLICATION: Legitimate security and the [appearance](image.md) of security are completely unrelated, so don't assume the appearance is [reality](reality.md), especially with [leaders](groups-large.md).
 
-Security and freedom are inversely correlated, so expect something inconvenient to protect [valuable](values.md) things. Every country needs a military. Preserving free speech requires permitting [hate speech](leftism.md). [Success requires loss](success-5_persevering.md).
+APPLICATION: Security and freedom are inversely correlated, so expect something inconvenient to protect [valuable](values.md) things. Every country needs a military. Preserving free speech requires permitting [hate speech](leftism.md). [Success requires loss](success-5_persevering.md).
 
-Money is a major source of safety, simply because it's effective at solving most problems.
+APPLICATION: Money is a major source of safety, simply because it's effective at solving most problems.
