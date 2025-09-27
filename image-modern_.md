@@ -118,7 +118,7 @@ There are pros and cons to this arrangement:
   - The bureaus are intentionally *not* easily available for disputing the information.
   - If you ever [lie](people-lying.md) about anything that materially exists in your legal fiction, *that* will often be reported as well.
   - If there's ever a clerical error (e.g., typographical error on a name, Social Security number entered incorrectly), that will connect to an entirely *different* entity and not count positively toward your score (and may even make the report indicate more people than there actually are).
-- The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](accounting.md) information.
+- The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](money-accounting.md) information.
   - It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
 - There's zero grace if you screw up, since any chance to explain your situation will *only* work with one person at a time.
   - Even one missed payment, on *anything*, can harm your score, and there's nothing you can do about it except earn it back with future payments.
@@ -145,7 +145,7 @@ This also creates many practical implications:
 Legal
 
 - *Always* keep your government-issued photo ID with you (i.e., driver's license, state ID, or passport).
-- File your [yearly taxes](accounting.md), ideally by early February but *definitely* by April 15th.
+- File your [yearly taxes](money-accounting.md), ideally by early February but *definitely* by April 15th.
 - Honor the police's [authority](legal-safety.md), and never even *imply* you're bribing them.
 - Have [liability insurance](money-insurance.md) for *all* your vehicles, keep the insurance card stored in the vehicle's glove box, and *only* drive within the conditions that qualify for your license (e.g., don't drive alone with a permit).
 
@@ -177,7 +177,7 @@ Legal
 - Keep certain documentation locked away in a safe container somewhere:
   - Social security card
   - Titles to vehicles and real estate
-- Have a network of experts for the variety of needs you may run across (e.g., [accounting](accounting.md), [insurance](money-insurance.md), [law](people-6_contracts.md), etc.).
+- Have a network of experts for the variety of needs you may run across (e.g., [accounting](money-accounting.md), [insurance](money-insurance.md), [law](people-6_contracts.md), etc.).
 - If you have money in collections, contact the source of the collections to pay them back to avoid a scam.
 
 Communication

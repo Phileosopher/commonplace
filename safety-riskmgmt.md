@@ -57,7 +57,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 ## Long-Term Survival
 
-- Have all your [money-based](accounting.md) paperwork together.
+- Have all your [money-based](money-accounting.md) paperwork together.
 - If any risk is likely, have a clear [plan](imagination.md) for the next step after it happens.
 
 ## Crisis Preparation
@@ -88,7 +88,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
   - [Insurance](money-insurance.md) agent
   - [Attorneys](legal-safety.md) for *all* necessary specializations
   - [Realtor](home-buysell.md)
-  - [Accountant](accounting.md) - tax advisor, accountant, estate manager, and auditor
+  - [Accountant](money-accounting.md) - tax advisor, accountant, estate manager, and auditor
   - [Mechanic](autos.md)
   - [Business advisors](mgmt-1_why.md)
 - Have [some type of business relationship](professionals.md) for every [specialization](jobs-specialization.md) you may need that you're not an expert in yourself.

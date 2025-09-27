@@ -123,7 +123,7 @@ Alphabet's platform, YouTube, hosts most of the internet's videos.
 
 Microsoft owns over 75% of the operating system market.
 
-Most [accounting](accounting.md) software for small and midsize businesses is Intuit's Quickbooks.
+Most [accounting](money-accounting.md) software for small and midsize businesses is Intuit's Quickbooks.
 
 Most [cybersecurity](computers-cysec.md) and [large-scale enterprise](computers-distsys-enterprise.md) software is owned by Thoma Bravo.
 
@@ -135,7 +135,7 @@ Most [cybersecurity](computers-cysec.md) and [large-scale enterprise](computers-
 
 [Insurance](money-insurance.md)-related information is curated exclusively by LexisNexis.
 
-Most of the world's [accounting](accounting.md) is performed by 4 firms: Deloitte, EY, PwC, and KPMG
+Most of the world's [accounting](money-accounting.md) is performed by 4 firms: Deloitte, EY, PwC, and KPMG
 
 Vizient runs a gigantic chunk of healthcare management software.
 

@@ -225,7 +225,7 @@ Production - Providing evidence that proves an assertion of fact is true, typica
 
 Promise to Appear - A type of non-financial bond where the defendant agrees to return to court without giving cash or property
 
-Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](people-contracts.md), or [assets](accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
+Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](people-contracts.md), or [assets](money-accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
 
 Protection - Broad word that refers to the state or means of being safe
 
@@ -451,3 +451,5 @@ Surety - aka "guarantee", a private transaction where a person makes themselves 
 Supreme Court - The highest law interpretation in the land, only arrives after going through an Appellate Court
 
 Suspect Classification - A class or group of people meeting a set of criteria that suggests they're likely the subject of discrimination
+
+[Continued](glossary-legal-4.md)

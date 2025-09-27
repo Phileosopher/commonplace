@@ -15,7 +15,7 @@ A [corporate culture](groups-large.md) arises through great leaders fostering gr
 
 - A great manager can turn a mediocre or failing [organization](groups-large.md) into a thriving, productive one.
 
-Like [accounting](accounting.md), [marketing](marketing.md), or [IT](computers.md), inserting more management into a system is *not* always a good idea.
+Like [accounting](money-accounting.md), [marketing](marketing.md), or [IT](computers.md), inserting more management into a system is *not* always a good idea.
 
 - Management is inherently a support role, though many managers don't see themselves that way (more on that below under "Bad managers").
 - People can often work better alone without supervision, especially if they [believe](trust.md) in the outcome of what they do.
@@ -234,7 +234,7 @@ No single management style works for all situations, for several reasons:
 
 1. Managers are usually held solely responsible for the [decisions](decisions.md) they've made, but each manager's [personality](personality.md) is uniquely different and they'll take that responsibility in different ways.
 2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](personality.md) has particular requirements or requires specific kinds of attention.
-3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
+3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](money-accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
 
 The manager's skills will need to be appropriate to the team's purposes:
 

@@ -172,7 +172,7 @@ By observing and exploring, through repeated exposure and rumination, various me
 
 However, there are multiple reasons it's generally wiser to be skeptical of anyone who claims to predict the future beyond basic reasoning:
 
-- [Predicting](imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](accounting.md)).
+- [Predicting](imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
 - When someone actually *does* predict the future, it's [debatable](people-conflicts.md) how well they performed, especially if they were vague.
 - Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](trends.md).
 - We're all very prone to error, and tend to [redirect attention](image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!

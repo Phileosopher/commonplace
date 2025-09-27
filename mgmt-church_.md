@@ -195,7 +195,7 @@ Avoid *any* barriers in communication between leaders and the congregation.
 
 - The congregation should be as much or more involved in the ministry's operations as the leadership.
 - Create opportunities for members, especially the [youth](maturity.md), to voice opinions, ideas, and concerns.
-- Openly show the state of your ministry's [finances](accounting.md).
+- Openly show the state of your ministry's [finances](money-accounting.md).
 
 ### Members' demography
 

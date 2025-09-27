@@ -94,7 +94,7 @@ Generally, higher classes have an attitude problem when they're demoted, and low
 
 Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends.md) with others. The person must make [wise](understanding.md) [decisions](decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
-When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
+When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
 
 Because of the difficulty of transitioning upward in social classes, most people don't succeed at it. They often hit a "glass ceiling" at the top of their class. Sometimes, if they're willing to take [social risks](socialrisk.md) that backfire tremendously, they'll go *down* a social class!
 

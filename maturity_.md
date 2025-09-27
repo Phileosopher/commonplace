@@ -167,7 +167,7 @@ Without a demarcation that gives freedom to experiment, and the members haven't 
 
 A rite of passage will always have people who will never pass the ritual's criteria. A [group leader](groups-small.md) must know beforehand [what to do](decisions.md) with those people.
 
-Most people in modern society don't experience an adequate rite of passage. For this reason, they're stuck with a childish view of the world and constantly trying to prove themselves until they learn from a [severe hardship](hardship.md) (such as having to [maintain their automobile](autos.md) or [file taxes](accounting.md)).
+Most people in modern society don't experience an adequate rite of passage. For this reason, they're stuck with a childish view of the world and constantly trying to prove themselves until they learn from a [severe hardship](hardship.md) (such as having to [maintain their automobile](autos.md) or [file taxes](money-accounting.md)).
 
 It's better to find [meaning](meaning.md) earlier in life when you have time and strength than later *after* you've expended much of your life.
 

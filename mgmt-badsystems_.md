@@ -24,7 +24,7 @@ One of the most frequent behaviors of bad systems is to suppress better solution
 
 - Big ice worked very hard to prevent refrigerators, including deceptive [advertising campaigns](marketing.md) that implied children would get trapped inside and die.
 - A simple cure for cancer, if it exists, would never be as profitable as [all the treatments](body-4_health.md).
-- [Tax filing](accounting.md) services in the USA presently work to prevent free tax filing services through the government.
+- [Tax filing](money-accounting.md) services in the USA presently work to prevent free tax filing services through the government.
 
 ## Magnification
 
@@ -163,11 +163,11 @@ Many of the activities that define a bad system are variations of wise [investme
 - Instead of outright selling something, rent it out.
 - Collect royalties on what *other* people [create](creations.md).
 - Absorb risk by charging flat prices for things with a varying cost structure (e.g., it costs $40-110 to ship something, so charge $100 to do it).
-- Re-invest *everything* to prevent making any taxable organizational [profit](accounting.md).
+- Re-invest *everything* to prevent making any taxable organizational [profit](money-accounting.md).
 
 Further, as a system grows larger, it can take advantage of favorable situations *much* faster and more effectively than smaller groups:
 
-- Use [tax shelters](accounting.md) to move the money into a tax-free arrangement, often with added publicity (e.g., owned not-for-profit organizations).
+- Use [tax shelters](money-accounting.md) to move the money into a tax-free arrangement, often with added publicity (e.g., owned not-for-profit organizations).
 - Hire people from foreign regions where the work may be more affordable or advantageous to costs.
 
 Very frequently, a bad system has the means to continue growing through questionably [ethical](morality.md) approaches:
@@ -202,7 +202,7 @@ A large group's expansion typically comes through taking over and absorbing othe
 If a large business has been expanding their operations for a long time, they'll often create subsidiary organizations that do *nothing* but seek smaller groups to absorb ("roll-ups"):
 
 1. Buy out numerous small organizations in many regions and combine them together.
-2. Fire all the back-office staff that the larger organization can do better (e.g., [accounting](accounting.md), [management](mgmt-1_why.md)).
+2. Fire all the back-office staff that the larger organization can do better (e.g., [accounting](money-accounting.md), [management](mgmt-1_why.md)).
 3. The collective organization is now capable of operating as one unit across many regions, with many added [logistics](logistics.md) benefits.
 
 Often, a bad system will give incredibly generous incentives to the [smaller groups' leaders](groups-small.md) for them to step down from their leadership role ("golden parachutes").

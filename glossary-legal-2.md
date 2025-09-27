@@ -179,7 +179,7 @@ Filing - Giving the court clerk legal papers which become part of the case file
 
 Finality - A situation where a dispute has had a resolution, and no further appeal or collateral proceedings can disturb that resolution
 
-Financial Affidavit - A sworn statement of income, expenses, property (called assets in [accounting](accounting.md)) and debts (called liabilities in accounting)
+Financial Affidavit - A sworn statement of income, expenses, property (called assets in [accounting](money-accounting.md)) and debts (called liabilities in accounting)
 
 Finding - The court's or jury's decision on issues of fact
 
@@ -428,3 +428,5 @@ Lockout - Illegally forcing a tenant out of rented property, usually by changing
 Locus standi - aka "standing, a party seeking a legal remedy must demonstrate to the court they have sufficient connection with what they're challenging
 
 Loss - A materially significant sabotage for an individual or entity's expected purposes or rights
+
+[Continued](glossary-legal-3.md)

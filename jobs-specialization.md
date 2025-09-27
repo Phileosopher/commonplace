@@ -85,7 +85,7 @@ For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay g
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
 - Lawyers are surrounded by [rules](rules.md) and [boundaries](people-boundaries.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
-- [Accountants](accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
+- [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).
 - Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](imagination.md).
 

@@ -7,7 +7,7 @@ NOTE 2: Intellectual property has been abused by lawyers to the point that the d
 
 Intellectual properties (IP) are legal ownership of [an idea](values.md), with protections involved that can be enforced.
 
-- This idea is represented as an intangible asset in [accounting](accounting.md).
+- This idea is represented as an intangible asset in [accounting](money-accounting.md).
 - A copyright is an original created work (e.g., a movie).
 - A patent is an original idea (e.g., a new type of engine).
 - Trademarks are recognizable [symbols](symbols.md) that distinguish goods and services.
@@ -284,7 +284,7 @@ To enforce copyright, you'll need to have previously enforced it as well.
 The intellectual property battle is relatively petty, and not always a great financial decision.
 
 - IP law is vague and murky, where multiple lawyers and judges can come to completely opposite conclusions on how to apply a ruling.
-- IP legal maintenance grows proportionally as a higher [overhead cost](accounting.md) as the property gains more popularity (and, presumably, more revenue).
+- IP legal maintenance grows proportionally as a higher [overhead cost](money-accounting.md) as the property gains more popularity (and, presumably, more revenue).
 - Typically, the group that profits the most from intellectual property disputes are intellectual property attorneys.
 
 Patents are typically complex enough to require attorneys, and "patent trolls" exploit that reality:

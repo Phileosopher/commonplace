@@ -1,4 +1,6 @@
 
+# The creations we make
+
 Creations aren't merely beautiful things, and include anything where we add [quality](values-quality.md) to something:
 
 - Adding value to an eyewitness account with a recorded video.
@@ -20,8 +22,6 @@ All things we call [work](success-4_routine.md) are creating in some way, and it
 
 We only create because we [believe](understanding-certainty.md) the creation will fulfill a future [purpose](purpose.md), and we can usually [imagine](imagination.md) its [results](results.md).
 
-* * * * *
-
 ## Purpose
 
 When people create, they are either [imagining](imagination.md) it first or acting from [habit](habits.md), and they're *always* drawing from the [world around them](reality.md).
@@ -34,16 +34,16 @@ The longer that we [imagine](imagination.md) a creation in our minds, the higher
 
 Broadly speaking, across [societies](groups-large.md), people use a few major [angles](image.md) that refine [chaos](unknown.md) into [meaning](meaning.md). The creators' efforts funnel into an approximate [trend](trends.md) derived from how much [understanding](understanding.md) they have of the subject:
 
-1. Art - grabbing from the [unknown](unknown.md) and making clearly understood [stories](stories.md) that capture the [human condition](humanity.md).
-2. Science - understanding [facts](reality.md) extracted from those stories.
-3. Engineering/Inventing - using scientific facts to create [technological](technology.md) answers to [problems](purpose.md).
+1. [Art](art.md) - grabbing from the [unknown](unknown.md) and making clearly understood [stories](stories.md) that capture the [human condition](humanity.md).
+2. [Science](science.md) - understanding [facts](reality.md) extracted from those stories.
+3. [Engineering/Inventing](engineering.md) - using scientific facts to create [technological](technology.md) answers to [problems](purpose.md).
 4. Pioneering - taking [risks](socialrisk.md) to build order from [chaos](unknown.md) using [known-working](understanding-certainty.md) solutions.
-5. Improving - becoming more effective at accomplishing known [purposes](purpose.md).
+5. Improving - becoming more effective at accomplishing known [purposes](purpose.md), which includes [fixing things that break](fix.md).
 6. Maintaining - letting [habits](habits.md) (or [automation](technology.md)) create things repetitively.
 
 ### Tools
 
-The value of a tool lies in how many perceived purposes it could theoretically solve. General tools (like a crescent wrench) are valuable in many applications, while specialized tools (like an oil filter wrench) are more often than not completely useless while being *extremely* valuable when they're needed.
+The value of a tool lies both in how many perceived [purposes](purpose.md) it could theoretically solve and in how strong those purposes achieve [expected results](results.md). General tools (like a crescent wrench) are valuable in many applications, while specialized tools (like an oil filter wrench) are more often than not completely useless for most things, and *very* valuable when they're needed.
 
 We try to find the best tools for the task. A hammer can pound things better, but a screwdriver is better at piercing. There's no such thing as a "best" thing because "best" is tied to the [purpose](purpose.md) we're trying to use it for.
 
@@ -56,6 +56,8 @@ Every tool's [purpose](purpose.md) represents something like a vitamin, pill, or
 As we gain [understanding](understanding.md) in our preferred [specializations](jobs-specialization.md), we tend to accumulate things that are more specific and less general. A professional mechanic, for example, will use their wrench set (and oil filter wrench) *far* more than their crescent wrench.
 
 Creations can often be tools designed to make *other* tools, usually based on a philosophical framework. [Computer technology](technology.md), for example, is a [logic-based](logic.md) tool designed to magnify someone else's [purposes](purpose.md). Practical information is an [understanding-based](understanding.md) tool.
+
+When we have other people do things for us (i.e., all forms of [management](mgmt-1_why.md), that person can easily be thought of as a "tool" towards the purposes we have directed them toward.
 
 ### Media
 

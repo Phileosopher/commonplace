@@ -24,7 +24,7 @@ Like any other [marketing](marketing.md), tailor your marketing messages to the 
 The art of search engine optimization (SEO) is through improving your web presence via keyword management and [design](engineering-design.md).
 
 - This effort goes all the way from the search engine results page (SERP) all the way to [the design of the website itself](computers-sofware-webdev.md), from landing page all the way to after the customer has made a purchase.
-- After learning it, most SEO work is as tedious as [accounting](accounting.md).
+- After learning it, most SEO work is as tedious as [accounting](money-accounting.md).
 
 There are several billing options for internet marketing:
 

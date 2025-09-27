@@ -431,3 +431,5 @@ Price's Law - The square root of the number of people in a group do 50% of the w
 Swanson's Law - Every time solar cell manufacturing is doubled, solar cells get 20% cheaper to make.
 
 Wike's Law of Low Odd Primes - If the number of classifications of something is a low, odd, prime number (e.g., 3, 5, 7, 11, etc.), then it's not taking everything into account.
+
+[Continued](lawsaxioms-2.md)

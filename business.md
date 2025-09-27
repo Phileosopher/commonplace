@@ -17,7 +17,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 
 **[Marketing](marketing.md)** is conveying value, which applies [influence](power-influence.md) to make people [psychologically bias](mind-bias.md) to want your product (which also frequently requires **sales**).
 
-**[Accounting](accounting.md)** is [keeping track](math.md) of value, starting with assets and liabilities and inferring financial value from it (typically for **taxes**).
+**[Accounting](money-accounting.md)** is [keeping track](math.md) of value, starting with assets and liabilities and inferring financial value from it (typically for **taxes**).
 
 **[Legal](legal-safety.md)** resolves civil disputes and tracks whether activities comply with a region's [rules](rules.md).
 
@@ -33,7 +33,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 
 **Human Resources (HR)** manages a wide variety of miscellaneous tasks loosely connected to [risk management](safety-riskmgmt.md) and employee retention, since they can become time-intensive once an organization grows larger:
 
-- Data entry and submission for [payroll](accounting.md).
+- Data entry and submission for [payroll](money-accounting.md).
 - Manage distributions to [retirement plans](money-investing.md).
 - Resolving employee [disputes](people-5_conflicts.md).
 - Running [background checks](image-modern.md) for possible hires.

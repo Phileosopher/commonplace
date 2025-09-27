@@ -23,7 +23,7 @@ First, a person gathers data from [perceptions](image.md), both theirs and other
 
 The data can be inferred or perceived, but finding a 100% true datum is always difficult. We're stuck with mostly secondhand perceptions, and frequently [trust](trust.md) the secondhand perceptions of other people, and it could all be based on a networked set of beliefs that go back to one person who was actually [lying](people-lying.md) or [delusional](image.md).
 
-The best data comes from excessive details. While it sometimes happens with [scientific](science.md) and [philosophical](philosophy.md) rigor (and in specific [trades](jobs-specialization.md) like [accounting](accounting.md) and [insurance](money-insurance.md)), most people have very little [reason](purpose.md) to take extra time in their [everyday routine](habits.md) for that and simply trust their [intuition](mind-feelings.md).
+The best data comes from excessive details. While it sometimes happens with [scientific](science.md) and [philosophical](philosophy.md) rigor (and in specific [trades](jobs-specialization.md) like [accounting](money-accounting.md) and [insurance](money-insurance.md)), most people have very little [reason](purpose.md) to take extra time in their [everyday routine](habits.md) for that and simply trust their [intuition](mind-feelings.md).
 
 ### 2. Combination
 

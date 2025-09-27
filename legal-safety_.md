@@ -157,7 +157,7 @@ Trust others, but verify everything.
 
 Research who you're working with.
 
-- Ask a wide variety of people to assess the [reputation](image.md) of a person or entity, *especially* professionals in industries close to them (e.g., asking an [accountant](accounting.md) about a bank).
+- Ask a wide variety of people to assess the [reputation](image.md) of a person or entity, *especially* professionals in industries close to them (e.g., asking an [accountant](money-accounting.md) about a bank).
 - If you're particularly concerned, pay for background checks to make sure (such as private detectives or [credit checks](money-2_debt.md)).
 - If you act on behalf of someone else (e.g., sales representative, agent), misstatements you make are often legally enforceable as being from the organization you represent.
 
@@ -561,7 +561,7 @@ Don't get too curious.
 - Sometimes, merely *knowing* something can get you in trouble.
 - Don't ask questions unless you're prepared for the answer, as well as the legal implications that come from knowing it.
 
-Build a network of competent professionals including an [accountant](accounting.md), [insurance](money-insurance.md) agent, [lawyer](legal-doctrines.md), and [realtor](home-buysell.md).
+Build a network of competent professionals including an [accountant](money-accounting.md), [insurance](money-insurance.md) agent, [lawyer](legal-doctrines.md), and [realtor](home-buysell.md).
 
 - A professional applies every thought, action, and spoken word as 3 possible forms of "status" toward the interests of their client:
   1. Advantageous
@@ -575,7 +575,7 @@ Build a network of competent professionals including an [accountant](accounting.
   - Business law - business or corporate
   - Family law
   - Health law
-  - [Tax](accounting.md) law
+  - [Tax](money-accounting.md) law
 
 ### Defending - Protection
 

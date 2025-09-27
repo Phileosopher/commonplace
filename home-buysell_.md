@@ -16,12 +16,12 @@ Make sure to budget other associated expenses instead of simply "rent":
 - Mortgage principal (which you're essentially [saving away](money-3_budget.md) until later).
 - Mortgage interest
 - PMI (an [insurance](money-insurance.md) for the lender if you can't put 20% down on the property)
-- [Property tax](accounting.md)
+- [Property tax](money-accounting.md)
 - HOA fees, if applicable
 - Pool maintenance, if applicable
 - Home maintenance
 - Necessary [repairs and improvements](home-decorations.md) (~2%/year of house's value in good condition, and ~4%/year if it's old)
-- Any [local taxes](accounting.md) (e.g., school levies, mandatory inspections)
+- Any [local taxes](money-accounting.md) (e.g., school levies, mandatory inspections)
 - Utilities (e.g., gas, sewer, water, electric, trash)
 - [Homeowners insurance](money-insurance.md)
 - Protection/security fees (in a dangerous area)
@@ -138,7 +138,7 @@ An "ideal" home loan has a few qualities:
 3. A monthly rate that's up to 25% of your take-home pay
 4. At least a 10% down payment
 
-Lenders give a better interest rate if you use an escrow account for paying [insurance](money-insurance.md) and [property taxes](accounting.md), so always set one up.
+Lenders give a better interest rate if you use an escrow account for paying [insurance](money-insurance.md) and [property taxes](money-accounting.md), so always set one up.
 
 Fixed Rate vs. Adjustable Rate (ARMs):
 

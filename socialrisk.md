@@ -63,7 +63,7 @@ People often attribute this entire experience to [entrepreneurship](entrepreneur
 - Inventing things
 - Colonizing unoccupied territory (though it's not as common anymore now that the planet has been largely settled)
 - [Scientists](science.md) pursuing [unpopular](trends.md) ideas
-- Running a church or not-for-profit organization (i.e., it's a for-profit organization where the [accounting](accounting.md) separates profit from expenses)
+- Running a church or not-for-profit organization (i.e., it's a for-profit organization where the [accounting](money-accounting.md) separates profit from expenses)
 - Government organizations which will lose [power](power.md) if they fail or face [competition](people-conflicts-war.md) from the private sector or other nations
 - Making a government coup or declaring [war](people-conflicts-war.md)
 

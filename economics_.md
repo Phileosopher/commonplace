@@ -35,7 +35,7 @@ The measurable value of something fluctuates *constantly* for several reasons:
 - Changing information implies a [story](stories.md), and therefore a [trend](trends.md) we try to [predict](imagination.md).
 - We [imagine](imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
 
-Economists define "income" differently than [accountants](accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").
+Economists define "income" differently than [accountants](money-accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").
 
 Free competition with scarcity has a double-sided [risk](safety.md) to it, and only people with a low enough agreeableness [personality](personality.md) can thrive in it. A consumer may enjoy producers competing for their [spending decisions](money-1_why.md), but generally doesn't like competing with other consumers for a limited supply of something, which is why [job-hunting](jobs-1_why.md) is typically stressful for most people.
 
@@ -47,7 +47,7 @@ People use money for a few reasons:
 
 - It's scarce because governments only print a limited amount.
 - It's a measurable and "portable" type of [power](power-types.md), so it's easy to keep around and stockpile (except for the risks from inflation).
-- For the sake of [control](power.md) and organizational [understanding](understanding.md), [government taxation](accounting.md) policies are typically based on money transactions.
+- For the sake of [control](power.md) and organizational [understanding](understanding.md), [government taxation](money-accounting.md) policies are typically based on money transactions.
 
 Governments can print money, but they're not the only organizations who can. [Blockchain technology](computers-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](rules.md) over supply.
 
@@ -221,7 +221,7 @@ Capitalist societies reward organizations and individuals who add what the publi
 
 As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies of scale") permit enormous companies to produce items for far cheaper than individuals ever could.
 
-[Accounting](accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](image.md) for customers and governments.
+[Accounting](money-accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](image.md) for customers and governments.
 
 ## Speculation
 
@@ -286,7 +286,7 @@ Broadly, macroeconomic activity of any entity is measured as "gross domestic pro
 
 - Consuming (C) - resources spent on needs and wants.
 - Investing (I) - resources spent to meet future needs and wants.
-- Government (G) - administrative "maintenance" costs to keep things going (e.g., [police](legal-safety.md), [tax collectors](accounting.md)).
+- Government (G) - administrative "maintenance" costs to keep things going (e.g., [police](legal-safety.md), [tax collectors](money-accounting.md)).
 - Net Exports (NX) - the quantity of goods and services sent out to other groups.
 
 Like any other measurable thing, people can play [math](math.md) games to [distort](image-distortion.md) GDP compared to a group's actual wealth (e.g., extra government spending), and it doesn't account for human [welfare](goodlife.md).
@@ -307,7 +307,7 @@ One popular form of [social engineering](rules-methods.md) in the world of econo
 
 ### Taxes
 
-Generally, people will try to avoid a government's taxes, and often hire exceptional [accountants](accounting.md) for the job:
+Generally, people will try to avoid a government's taxes, and often hire exceptional [accountants](money-accounting.md) for the job:
 
 - Lie about it and not pay it ("tax evasion").
 - Avoid certain taxable activities.
@@ -319,7 +319,7 @@ There are several unfortunate realities of taxation that combine themselves into
 - People from *all* [social classes](classes.md) would rather not pay taxes.
 - If there were no taxes above a certain level of wealth, but an even tax below a certain threshold, people would work *really* hard to earn above that threshold.
 - Poor people can barely afford to *live*, so it's unethical to tax them as much as wealthy people.
-- The wealthy *can* afford taxes, but they can also afford *many* tools to migrate their taxes elsewhere, and can afford to hire many [creative](mind-creativity.md) and brilliant [accountants](accounting.md) and [lawyers](legal-safety.md) to manage their wealth while avoiding taxes.
+- The wealthy *can* afford taxes, but they can also afford *many* tools to migrate their taxes elsewhere, and can afford to hire many [creative](mind-creativity.md) and brilliant [accountants](money-accounting.md) and [lawyers](legal-safety.md) to manage their wealth while avoiding taxes.
 - If a country closes off *all* the tricks to successfully tax the wealthiest of society, they'll move to another country where they can take advantage of *other* tax benefits.
 
 Generally, a good stopping point for raising taxes is when the benefits of the government money spent are *barely* higher than the financial damages caused by taxing people ("Laffer curve"). If taxes are too low, the government won't make enough money, and if the taxes are too high, people will find ways to avoid paying them (including not working or acting illegally). [Conservatives and liberals](politics-conservativeliberal.md) argue where that line draws (somewhere between 27% and 78%), but they'll *all* agree that above that specific mark, a 5% tax increase might become a 1% government revenue increase and significantly more unemployment and poverty.
@@ -329,7 +329,7 @@ Governments can focus their taxation on certain domains, which creates a type of
 - Tariffs, which levy against foreign goods and services, which can prevent a country from competing fairly with other countries if set too high.
 - "Sin tax", which levies against vice-based goods and services (e.g., smoking, alcohol, prostitution), which can create a perverse incentive to *motivate* people to overconsume their vices to pay for essential public services.
 - Luxury tax, levied against high-quality goods and services, which can motivate wealthy people (and their money) to move to other countries.
-- Progressive income tax, levied proportionally higher against wealthy people, which can motivate them to play international [accounting](accounting.md) games.
+- Progressive income tax, levied proportionally higher against wealthy people, which can motivate them to play international [accounting](money-accounting.md) games.
 
 One of the most common reductionist myths is that taxpayers "pay" for government programs. Since governments manage the money supply as well, they have more dimensions of control than initial appearances.
 
@@ -387,7 +387,7 @@ As of the early 21st century, the exchange currency for the *entire world* is th
 
 The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There has been a time where the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
 
-When looking at the [accounting](accounting.md) of a country, make sure the balance sheet and income statement numbers aren't crossed for projections. The total debt is a balance sheet item (as well as a nation's wealth), while GDP is an income statement item (as well as debt payments).
+When looking at the [accounting](money-accounting.md) of a country, make sure the balance sheet and income statement numbers aren't crossed for projections. The total debt is a balance sheet item (as well as a nation's wealth), while GDP is an income statement item (as well as debt payments).
 
 ### Regulatory policy
 

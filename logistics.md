@@ -328,7 +328,7 @@ Optimized Production Technology (OPT) hunts for bottlenecks, then maximizes them
 - No schedule can be perfect, and it doesn't always accommodate certain "human" issues:
   - Break times will often have to be staggered to keep bottleneck machines running constantly.
   - Some workers may have to stand idle when certain components aren't necessary at that moment.
-  - Most [cost-accounting systems](accounting.md) must be revamped to accommodate realistic operational/inventory costs.
+  - Most [cost-accounting systems](money-accounting.md) must be revamped to accommodate realistic operational/inventory costs.
   - It doesn't require changing worker attitudes or involving [managers](mgmt-1_why.md), but does require a *lot* of effective [analysis](logic.md) beforehand.
 - It takes about 2-3 months to implement in a large company.
   - Minor disruptions don't require an OPT re-run, but theoretically large ones require re-running OPT each time.

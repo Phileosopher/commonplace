@@ -242,7 +242,7 @@ If the developer's work was relatively easy, but depends on *other* work, then t
 - The developer receives contributions from other people to keep supporting his work (e.g., donation button on their website, crowdsourcing).
 - The developer or organization has to convert the product to something people pay for (see above).
 - Open-source-supporting [not-for-profit organizations](mgmt-npo.md) provide grants to keep the developers paid (e.g., [Free Software Foundation](https://www.fsf.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Linux Foundation](https://www.linuxfoundation.org/), [NLnet](https://nlnet.nl/)).
-- Corporations who benefit from the product contribute, often *through* the above-stated NPOs to make it [tax-deductible](accounting.md).
+- Corporations who benefit from the product contribute, often *through* the above-stated NPOs to make it [tax-deductible](money-accounting.md).
 
 When [larger companies](mgmt-5_communication-cs.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
 

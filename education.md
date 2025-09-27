@@ -218,7 +218,7 @@ Intelligent people who are formally educated in a bad teaching system without mu
 - They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).
 - Any [common-sense](reality.md) explanation will make them say "it's not that simple", similarly to how a person defends a [religion](religion.md). They are often unaware that they're suffering a crisis of [faith](trust.md).
 
-APPLICATION: Generally, experts are 98% right on more straightforward matters, but any [conflicted discussion](people-boundaries.md) within that community (e.g., the ideal way to [amortize an asset](accounting.md) or [cover a risk](money-insurance.md)) guarantees they'll only be about 30-50% right. At that point, it's better to trust your [instincts](mind-feelings.md) or simply *distrust* the experts.
+APPLICATION: Generally, experts are 98% right on more straightforward matters, but any [conflicted discussion](people-boundaries.md) within that community (e.g., the ideal way to [amortize an asset](money-accounting.md) or [cover a risk](money-insurance.md)) guarantees they'll only be about 30-50% right. At that point, it's better to trust your [instincts](mind-feelings.md) or simply *distrust* the experts.
 
 [Technology](technology.md) gives tremendous [power](power.md) for people to educate others in many ways, *without* the approval of an educational institution. This, in turn, gives more power to everyone else to understand just about everything that could be understood:
 

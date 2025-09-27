@@ -16,7 +16,7 @@ Always send a proposal in writing that outlines the scope of the project:
 
 If you expect continued business, send a master services agreement, along with a new scope of work for each new project.
 
-- Keep track of anything relevant to the engagement, both in [paperwork](legal-safety.md) and in [accounting](accounting.md).
+- Keep track of anything relevant to the engagement, both in [paperwork](legal-safety.md) and in [accounting](money-accounting.md).
 
 Whatever price that's been agreed-upon is non-negotiable.
 

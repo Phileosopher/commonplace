@@ -33,7 +33,7 @@ Can technically incorporate [bureaucratic runaround](bureaucracy.md) as well.
 
 ## E. Taxes and Fines
 
-Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](accounting.md).
+Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](money-accounting.md).
 
 The easiest way to transfer power without any major loss in the transaction, which is necessary to keep that [group](groups-large.md) operating.
 

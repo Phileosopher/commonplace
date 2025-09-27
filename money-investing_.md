@@ -91,7 +91,7 @@ The concept of value, however, is [a philosophically complicated one](values.md)
    - The idea is that the right mode of [intuitive](mind-feelings.md) analysis and understanding alone can predict future performance.
    - This is patently ridiculous, since we can't [predict the future](imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
 2. Value investing - find the investment's intrinsic underlying value, [without distortion](image-distortion.md), then buying or selling based on the divergence from that value.
-   - It tends to emphasize tangible factors like [assets and cash flows](accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](trends.md), and long-term growth potential.
+   - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](trends.md), and long-term growth potential.
    - Its primary focus emphasizes cheapness and concrete facts, but it can become myopic to bad decisions.
    - At the far end, net-net investing directs funds to places where a company's stock is less than the company's current assets.
    - However, enough unwise money-losing operations or acquisitions can still burn up a company's assets, and the measurement of value *must* be accurate.
@@ -220,7 +220,7 @@ Even in high-information markets like the stock market, professional investors [
 - They'll buy a relatively stable asset for $30,000,000, then sell it later for $30,015,000.
 - Most of the time, they can use [computers](computers.md) to automate the task.
 
-Most [accounting ratios](accounting.md) apply to your investment decisions, but there are more that go beyond the specific entity.
+Most [accounting ratios](money-accounting.md) apply to your investment decisions, but there are more that go beyond the specific entity.
 
 The Return on Investment (ROI) is one of the simplest ratios for calculation:
 
@@ -262,7 +262,7 @@ The Rule of 70 is a simple calculation to figure out how long it will take an in
    - 8% growth rate happens in 8.75 years (70 / 8 = 8.75).
    - 12% growth rate happens in 5.8 years (70 / 12 = 5.8).
 
-[Bonds](accounting.md) have their own specific ratios:
+[Bonds](money-accounting.md) have their own specific ratios:
 
 - Current yield = bond's annual coupon / bond's current price
   - Useful to compare interest income by a bond to dividend income by a stock.
@@ -392,11 +392,11 @@ Don't invest, or do *anything*, you don't understand.
 
 - You'll almost always improve your odds of being right if you can do things that give you more (and [more accurate](information.md)) information.
 - To comfortably learn more about an asset class, only invest in things you *would like* to know more about.
-- Only withdraw if you're perfectly aware of the [tax](accounting.md) implications.
+- Only withdraw if you're perfectly aware of the [tax](money-accounting.md) implications.
 
 High-quality [analysis](logic.md) and [experience](understanding.md) can give a competitive edge if you can apply it to the psychology of [large groups](groups-large.md).
 
-- Understand how investing and banking works, as well as how to read [accounting reports](accounting.md) and applicable [laws](legal-doctrines.md).
+- Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](legal-doctrines.md).
 - Stay at least somewhat familiar with that investment's industry and related industries.
 - Your best opportunities to invest usually come from personal experience.
 
@@ -414,7 +414,7 @@ When you're ready to make the investment (and only then), intimately learn where
   - Is that company making an impact?
   - How does that company make money?
   - Does that company have any distinctive competitive advantage?
-- What's its current [financial position](accounting.md)?
+- What's its current [financial position](money-accounting.md)?
   - What can you infer from its 10-K filings?
   - What's its debt-to-equity ratio?
   - Has it grown year-over-year?
@@ -826,7 +826,7 @@ Stocks (to receive company dividends) - owning a portion of a company:
   - High long-term returns of about 10-12%.
   - Good for retirement.
   - Relatively short time to learn enough to invest.
-  - Depending on how the company [manages its equity](accounting.md), may also appreciate in price and act as a commodity.
+  - Depending on how the company [manages its equity](money-accounting.md), may also appreciate in price and act as a commodity.
 - Cons:
   - You can lose everything if you don't know what you're doing.
   - Not diversified unless you own at least 35-50 stocks.
@@ -968,7 +968,7 @@ Commodities and futures - literally *anything* mass-produced:
 
 Stocks (for trading):
 
-- Very high risk ([as shown here](https://www.bloomberg.com/features/2015-stock-chart-trading-game/)), very high returns, low-to-high taxes ([depending on how you do it](accounting.md)), low fees.
+- Very high risk ([as shown here](https://www.bloomberg.com/features/2015-stock-chart-trading-game/)), very high returns, low-to-high taxes ([depending on how you do it](money-accounting.md)), low fees.
 - Stock trading, especially day trading, is the scope of risk-taking usually within a casino, but with much better odds.
 - Pros:
   - An extreme rush from the frenzy of activity.
@@ -1132,7 +1132,7 @@ Take your investment, then expect inflation and taxes to remove your returns.
   - e.g., each $100 will yield $10, then the [economy](economics.md) will take away 3% from inflation, then the government will and 3% to the government.
 - Learn to think in inflation-adjusted numbers to have an accurate estimation of your returns.
 
-Further, [depreciation](accounting.md) is one of the most substantial expenses in the world.
+Further, [depreciation](money-accounting.md) is one of the most substantial expenses in the world.
 
 Good investing guarantees that the asset will combat or beat inflation:
 
@@ -1142,7 +1142,7 @@ Good investing guarantees that the asset will combat or beat inflation:
 
 Most investing activities are taxed, so paying taxes may test how disciplined you are at [saving money](money-3_budget.md).
 
-- With some exceptions, you *will* [pay taxes](accounting.md) before you can use your money.
+- With some exceptions, you *will* [pay taxes](money-accounting.md) before you can use your money.
 
 Max out your IRA/401(k) and Roth IRA.
 
@@ -1162,7 +1162,7 @@ Beware of tax-avoidance schemes.
 - Many of them are scams.
 - Even if they work temporarily, they may leave you paying more in lawyer fees and back-taxes than if you had paid the taxes in the first place.
 
-If you make *any* significant investing income, [get a good accountant](accounting.md) to find your most favorable tax situation.
+If you make *any* significant investing income, [get a good accountant](money-accounting.md) to find your most favorable tax situation.
 
 ### Time your losses
 
@@ -1176,7 +1176,7 @@ Selling losses can significantly lower your tax burden.
 - Tax loss harvesting is a perfectly legal way to write off a loss:
   1. Buy investments in any given tax year (i.e., between January 1 and December 31).
   2. Wait 1 tax year (i.e., at least the next January 1st).
-  3. Sell them at a loss and repurchase a similar-but-different investment (to avoid [wash](accounting.md) rules).
+  3. Sell them at a loss and repurchase a similar-but-different investment (to avoid [wash](money-accounting.md) rules).
   4. File that sale and purchase on the next relevant tax filing.
 
 Closely track your losses to time them to offset your income.

@@ -27,7 +27,7 @@ Math anxiety is a legitimately real problem, and most people who don't specializ
 
 However, this is a self-reinforced falsehood driven by several converging factors:
 
-1. Modern Western [education](education.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
+1. Modern Western [education](education.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](money-accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
 2. Math is *all* cumulative, and it takes patience to work through it. Unlike other [language](language.md) (like prose) that's only *partly* cumulative, math requires [revisiting old concepts repeatedly until you understand them *entirely*](http://www.geometry.org/tex/conc/mathlearn.html). If you only [memorized the information](mind-memory.md) to repeat it back on a test, it will *not* be useful later, and you *will* be confused.
 3. Some higher-level math concepts are filled with dense and sometimes confounding jargon. Integers and integrals, for example, have nothing to do with one another. The ideas are often simpler than the jargon makes them sound.
 4. Higher-education math is composed of many math *researchers*, but many high-end university [cultures](people-culture.md) treat the professors' actual educating of students as side work in lieu of their research. Generally, unskilled [teaching](education.md) therefore contributes to students' stereotypes that math is an impenetrable subject.
@@ -95,7 +95,7 @@ Over time, the math [pedagogical culture](education.md) has also created [their 
 For all intents and purposes, 99.99% of humanity only needs the four domains of [arithmetic with algebra](math-algebra.md), [geometry/trigonometry](math-geotrig.md), and sometimes [calculus](math-calc.md).
 
 - The rest are simply highly precise [thought experiments](paradoxes.md).
-- [Accounting](accounting.md) manages large piles of numbers using basic arithmetic and algebra.
+- [Accounting](money-accounting.md) manages large piles of numbers using basic arithmetic and algebra.
 - Most [science](science.md) uses [statistics](math-stat.md).
 - Geography can often use non-euclidean math to represent planes on spherical objects (since the planet is a sphere)
 - Some social sciences and [investors](money-investing.md) will explore [game theory](math-gametheory.md).

@@ -58,7 +58,7 @@ Degrees don't mean as much as what they represent:
 Only a few industry-specific degrees are almost always useful:
 
 - Nursing will always be useful because it's a vital component of the healthcare industry, which is always guaranteed to need workers.
-- [Accounting](accounting.md) is always necessary, specifically with a bachelor's degree, to attain a CPA license.
+- [Accounting](money-accounting.md) is always necessary, specifically with a bachelor's degree, to attain a CPA license.
 
 Some degrees *would* be useful, but the market is flooded with graduates in that field:
 

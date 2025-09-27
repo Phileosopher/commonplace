@@ -60,7 +60,7 @@ Pregnancy is preparation time:
 - Adapt your [exercise](body-3_exercise.md) regimen to lower-stress workouts.
 - Anticipate losing [sleep](sleep.md) and [under-performing](success-4_routine.md) at work.
 - Avoid or limit any major life decisions like [moving](home-moving.md), [buying a house](homes-buysell.md), or [changing jobs](jobs-1_why.md).
-- Plan for your new [tax](accounting.md) situation, and consider [setting up a college/marriage fund](money-3_budget.md).
+- Plan for your new [tax](money-accounting.md) situation, and consider [setting up a college/marriage fund](money-3_budget.md).
 
 Mentally preparing is more important than stockpiling:
 

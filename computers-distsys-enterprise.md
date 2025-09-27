@@ -17,7 +17,7 @@ Even in not-for-profits, the scale that most organizations need computers is so 
 
 In the past, the needs for computers were far more niche. At first, every computer was so large and expensive that the only cost-effective solution was in performing extremely heavy number-crunching in the [scientific](science.md) domains.
 
-However, over time, the business world started waking up to how they could dramatically speed up their [accounting reports](accounting.md), and computers became important in many business applications by the mid-1970s.
+However, over time, the business world started waking up to how they could dramatically speed up their [accounting reports](money-accounting.md), and computers became important in many business applications by the mid-1970s.
 
 But, not everyone had to run a computer to run 24/7, so it made much more sense to rent out time to use the computer instead.
 

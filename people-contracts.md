@@ -86,7 +86,7 @@ When most people think of contracts, they're usually thinking of "standard" cont
 - Employment agreements (especially for [managers](mgmt-1_why.md_why.md) hiring [employees](jobs-1_why.md))
 - [Insurance](money-insurance.md) agreements
 - [Loan](money-2_debt.md) agreements
-- Service agreements (e.g., plumber, [accountant](accounting.md))
+- Service agreements (e.g., plumber, [accountant](money-accounting.md))
 - Release of information (e.g., medical information)
 - Terms of service (e.g., social media)
 - "Shrink wrap contracts" are attached to the product itself, with usage of the product indicating acceptance of the contract.

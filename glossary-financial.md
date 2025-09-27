@@ -464,3 +464,5 @@ Prospectus - A document used to advertise shares an investor can buy, which usu
 Provisions - Amounts put aside in accounts to cover future Liabilities
 
 Proxy Statement - A document required by the Securities and Exchange Commission that helps shareholders make informed decisions about matters that will be addressed at a stockholder meeting
+
+[Continued](glossary-financial-2.md)

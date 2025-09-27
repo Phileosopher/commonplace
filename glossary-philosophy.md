@@ -431,3 +431,5 @@ Soteriology - The theological study of salvation (soteria).
 - Molinism - God has 3 types of knowledge: a permanent and immutable knowledge, condition-based knowledge, and free knowledge that can move around and he doesn't have to know everything all at once.
 - Pelagianism - People are always able to choose good or evil, irrespective of any sin nature.
 - Semipelagianism - People must make the first step toward God, then God will complete their salvation.
+
+[Continued](glossary-philosophy-2.md)

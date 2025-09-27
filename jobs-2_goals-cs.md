@@ -207,7 +207,7 @@ In many ways, *you're* the largest protection against your misuse and abuse. It 
 
 If you prefer, aim for part-time work [during the negotiation](jobs-6_negotiating.md), which you can usually do if the work is trivial enough for you to do it easily. Very often, you can get paid a bit less, but with more freedom to do what you want (which you're *not* getting paid for).
 
-Even if you *leave* the tech industry, don't lose the original [creative spark](mind-creativity.md) that provoked you into the work in the first place. If you want to sidestep the craziness of the theoretical abstraction machines, there's always engineering (especially electrical engineering), or you could try a data-heavy non-tech industry (such as [farming](horticulture.md) or [accounting](accounting.md)).
+Even if you *leave* the tech industry, don't lose the original [creative spark](mind-creativity.md) that provoked you into the work in the first place. If you want to sidestep the craziness of the theoretical abstraction machines, there's always engineering (especially electrical engineering), or you could try a data-heavy non-tech industry (such as [farming](horticulture.md) or [accounting](money-accounting.md)).
 
 ---
 

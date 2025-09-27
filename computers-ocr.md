@@ -68,7 +68,7 @@ Unfortunately, [fixing](fix.md) PDF files only involves a few possible solutions
 
 In the 1940s, the "barcode" was invented by Bernard Silver as a means for computers to quickly read information. The original premise of the barcode was essentially the dots and dashes of Morse code, but drawn vertically as lines.
 
-While development of the technology was relatively slow compared to others, barcodes became a ubiquitous part of retail by the 1980s once stores standardized Universal Product Codes (UPCs) to [track inventory](accounting.md).
+While development of the technology was relatively slow compared to others, barcodes became a ubiquitous part of retail by the 1980s once stores standardized Universal Product Codes (UPCs) to [track inventory](money-accounting.md).
 
 A counter-intuitive aspect of barcodes is that the data itself is contained in the *white* spaces, not the black ones. This was a design feature to make it easier to read in dim light, and most laser barcode readers can read barcodes even in near-darkness because of it.
 

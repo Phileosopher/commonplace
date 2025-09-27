@@ -28,3 +28,10 @@ Dysregulation *does* have its time and place:
 - While [radical focus](success-4_routine.md) is necessary at times, it's absolutely critical for us to re-regulate, *especially* when we must [make critical decisions](decisions.md).
 
 Like any other [substance](addiction-substances.md), dysregulation has addictive properties, specifically in how our feelings can be [certain](understanding-certainty.md) while everything around us isn't.
+
+While there are many ways to implement it, can only attain self-regulation through a specific procedure:
+
+1. Become [aware](awareness.md) of the mechanisms that drive what and how we think.
+2. [Closely assess](logic.md) how and where [everything sits in relationship to ourselves](https://gainedin.site/layers/).
+3. Find out why we are [certain](certainty.md) of some things, what we have actual control over, and everything we are [capable of doing](purpose.md).
+4. Apply [virtue](morality.md) appropriately for the situation to know what we ought to do, and when.

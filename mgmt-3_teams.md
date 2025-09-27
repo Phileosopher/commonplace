@@ -33,12 +33,12 @@ In general, every role will specialize into 4 possible functions:
 1. Acquisition - growing and getting more (sales, [marketing](marketing.md), business development, etc.)
 2. Delivery - getting things to where they need to be ([logistics](logistics.md), customer support, etc.)
 3. Development - improving the outputs (product development, [engineering](engineering.md), [maintenance](fix.md), [programming](computers-programming.md), etc.)
-4. Operations - broadly supporting the organization ([finance](accounting.md), [HR](business.md), [IT](https://trendless.tech/fix/), recruiting, etc.)
+4. Operations - broadly supporting the organization ([finance](money-accounting.md), [HR](business.md), [IT](https://trendless.tech/fix/), recruiting, etc.)
 
 Create a [budget](money-3_budget.md) for each role:
 
 1. The expected wage for each role.
-2. Secondary costs attached to the role ([taxes](accounting.md), filing fees, required certifications, etc.).
+2. Secondary costs attached to the role ([taxes](money-accounting.md), filing fees, required certifications, etc.).
 3. [Advertising](marketing.md) and recruiting costs (job board, recruiter commission, etc.).
 4. Initial costs attached to training and getting acquainted with the role.
    - There's usually a break-even point a few weeks/months in where that worker actually turns a profit.

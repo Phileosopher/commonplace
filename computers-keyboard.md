@@ -39,7 +39,7 @@ However, the keyboard convention has settled itself into a predictable layout si
 Further, multiple other features are *often* on a keyboard, though they're not required:
 
 - Function keys labeled F1 through F12, designed for additional software-based features.
-- A number pad with all the numbers and mathematical symbols in a 10-key configuration. It can be *very* useful for [math-related](math.md) needs (e.g., [accounting](accounting.md)).
+- A number pad with all the numbers and mathematical symbols in a 10-key configuration. It can be *very* useful for [math-related](math.md) needs (e.g., [accounting](money-accounting.md)).
   - NUM LOCK is a mode that uses the number pad only for entering numbers (rather than navigation).
 - Other proprietary buttons for features like media playback or task-switching. Many of them can be remapped.
 - To save space, smaller keyboards may use function keys to make multi-function buttons, often with the alternate function also labeled on the keyboard (e.g., volume controls, brightness controls, calculator shortcut).

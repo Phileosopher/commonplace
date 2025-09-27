@@ -170,7 +170,7 @@ Further, some actors behind the scenes [create short squeezes](https://web.archi
 
 ### Regulations
 
-Regulating cryptocurrency is complicated. [Accountants](accounting.md) first determined crypto was best treated as a commodity, but it's a strange one that has complicated legal ramifications. For one, commodities *usually* have a geographic location. In practice, it's more like an [algorithmically](computers-programming-algorithms.md) generated [intellectual property](legal-ip.md) than anything else.
+Regulating cryptocurrency is complicated. [Accountants](money-accounting.md) first determined crypto was best treated as a commodity, but it's a strange one that has complicated legal ramifications. For one, commodities *usually* have a geographic location. In practice, it's more like an [algorithmically](computers-programming-algorithms.md) generated [intellectual property](legal-ip.md) than anything else.
 
 Further, the term DeFi (decentralized finance) may apply to offerings that *rely* on blockchain without actually *being* blockchain. Some of them will tie it directly to the value of another commodity or currency, others will aggregate blockchain values (similar to mutual funds) and provide that as a service.
 
