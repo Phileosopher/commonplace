@@ -1,9 +1,7 @@
 
 # How radio works
 
-Radio waves are on the same frequency as microwaves, infrared, visible light, UV light, X-rays, and gamma rays, in that order:
-
-![](/wp-content/uploads/2023/07/electromagnetic-spectrum-1024x614.jpg)
+Radio waves are [on the same frequency as microwaves, infrared, visible light, UV light, X-rays, and gamma rays, in that order](radio.jpg).
 
 As a wave, light moves back-and-forth. If it only moved 1 time back-and-forth in a second, it'd be 1 hertz (Hz), named after [the second scientist](lawsaxioms.md) to discover electromagnetic waves, Heinrich Hertz. 1,000 times a second is 1 kilohertz (kHz), 1,000,000 times a second is 1 megahertz (MHz), and 1,000,000,000 times a second is 1 gigahertz (GHz).
 

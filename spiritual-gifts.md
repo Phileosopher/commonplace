@@ -1,3 +1,6 @@
+
+# How spiritual gifts work
+
 God gives every Christian spiritual gifts, which Christians are personally [responsible](meaning.md) to manage.
 
 Understanding our gifts is a critical component of developing our [Christian identity](identity.md) ([1 Corinthians 12-14](https://biblehub.com/bsb/1_corinthians/12.htm), [Ephesians 4:1-16](https://biblehub.com/bsb/ephesians/4.htm), [Romans 12:1-8](https://biblehub.com/bsb/romans/12.htm), [1 Peter 4:7-11](https://biblehub.com/bsb/1_peter/4.htm)).
@@ -48,12 +51,6 @@ D. Motivational gifts
 - God designed our motivations from our birth to build up and ultimately [strengthen](power.md) Church members.
 - Motivational gifts show the Holy Spirit's continuous, persistent drive through our [personalities](personality.md).
 - The gifts usually start with simple [desires](purpose.md), but create supernatural results.
-
-While there are a few staple gifts articulated below (e.g., teaching, prophecy), that's *not* all the motivational gifts.
-
-- Generally, God can use talent in any capacity He wants, in any season He wants.
-- For example, God may gift someone with a tremendous ability to operate a vehicle for a long time, file paperwork, clean a room, or operate a computer.
-- In other words, the following gifts are a great starting point, but do *not* limit God in what He can do with someone!
 
 ## Motivational gifts come directly from our personalities
 
@@ -234,11 +231,15 @@ Misused faith can make someone a reckless fool:
 
 ## Your spiritual journey will unveil your gifts
 
-There are [spiritual motivational gifts inventories](/wp-content/uploads/2019/07/Spiritual-Motivational-Gifts-Inventory.pdf), but it's not reasonable to assume that the Bible describes the *only* spiritual gifts a person may have.
+There are spiritual motivational gifts inventories, but it's not reasonable to assume that the Bible describes the *only* spiritual gifts a person may have.
 
 - It's entirely possible God may give spiritual gifts to people as they require, without any precedent or classification.
-- For example, Samson technically had a spiritual gift of "physical strength" ([Judges 13-16](https://biblehub.com/bsb/judges/13.htm)) and Solomon was technically gifted with "wisdom".
+  - God can use talent in any capacity He wants, in any season He wants.
+  - For example, Samson technically had a spiritual gift of "physical strength" ([Judges 13-16](https://biblehub.com/bsb/judges/13.htm)) and Solomon was technically gifted with "wisdom".
+  - God may gift someone with a tremendous ability to operate a vehicle for a long time, file paperwork, clean a room, or operate a computer.
 - If you simply keep showing up to [fulfill needs](church-serve.md) as God leads, you'll discover them without trying.
+- While there are a few staple gifts articulated here (e.g., teaching, prophecy), that's *not* all the motivational gifts.
+- In other words, the following gifts are a great starting point, but do *not* limit God in what He can do with someone!
 
 Pay close attention to the [good habits](habits.md) you keep practicing:
 
