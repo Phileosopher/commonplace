@@ -260,10 +260,12 @@ Most management roles clarify the contrast between prioritizing relationships ve
 
 Since every management situation is different, there isn't a good all-in-one solution.
 
-- The only thing managers get are [*many* various conceptual frameworks](mgmt-theories.md), which represent simplifications of [human universals](humanity-universals.md).
+- The only thing managers get are *many* various conceptual frameworks, which represent simplifications of [human universals](humanity-universals.md).
 - A manager has to figure out how a general model will work with the [culture mix](people-culture.md) in their current group.
 - Since managers are of a generally higher Conscientiousness than everyone else, they *frequently* tend to forget that others aren't as conformant to [rules](rules.md).
 
 Every single change will redefine how the models may implement.
 
 - The only way to navigate is through a strong [intuition](mind-feelings.md) for how people work and a commitment to [ethics](morality.md).
+
+[Management style theories](mgmt-1_why-theories.md)

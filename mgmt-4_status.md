@@ -13,7 +13,7 @@ There are many progress-tracking systems that can help evaluate where a team is 
 
 - Each one is capturing [certainty](understanding-certainty.md) from a specific [perspective](image.md).
 
-There are [many ways to track whether the team is effective at what they do](mgmt-theories.md), but they tend to only be rough estimates that don't consider complexities within the project.
+There are [many ways to track whether the team is effective at what they do](mgmt-4_status-theories.md), but they tend to only be rough estimates that don't consider complexities within the project.
 
 - Unless the tasks are repetitive (e.g., prefabricated houses, factory work), each action will have its own adaptations from the previous task.
 - People tend to learn as they go and work faster when they're near completion, so the last 10% will often take as much time as the first 20%.

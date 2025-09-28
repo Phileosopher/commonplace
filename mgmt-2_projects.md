@@ -1,6 +1,8 @@
 
 # How to make projects
 
+[Project model theories](mgmt-2_projects-theories.md)
+
 There are two ways to imagine and plan for a project:
 
 1. Assembly - imagine the manifold tasks necessary to perform the project, then work upward into a grander purpose.
@@ -54,7 +56,7 @@ Clarify any critical [customs](people-rules.md) or [habits](habits.md) that will
 
 ## C. Pick a system
 
-There are [a variety of existing project systems](mgmt-theories.md) to choose from, and even more if you draw inspiration from [logistics](logistics.md).
+There are [a variety of existing project systems](mgmt-2_projects-theories.md) to choose from, and even more if you draw inspiration from [logistics](logistics.md).
 
 ## D. Clarify constraints
 
