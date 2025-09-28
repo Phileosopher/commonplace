@@ -128,7 +128,7 @@ Constantine himself practiced Sol Invictus, which was a less-popular worship of 
 - He built multiple basilicas of the saints, and established sites showing Jesus' walk by his mother's guidance (which are still in [Israel](history-israel.md) to this day).
 - Constantine used a *lot* of solar imagery, which was likely merging Christianity and Sol Invictus, and it has persisted in Catholic tradition.
 - He set Sunday as the day of rest for all Christians, and assembled a canon of the Bible.
-- Constantine sought for Christians to peaceably work out their differences, and financed the first Ecumenical Council, which was able to get all Christians to theologically agree on issues about core doctrine, especially on [Arianism](conflicts-christian.md).
+- Constantine sought for Christians to peaceably work out their differences, and financed the first Ecumenical Council, which was able to get all Christians to theologically agree on issues about core doctrine, especially on [Arianism](conflicts-christian-1_why.md).
 - In many ways, he broke the precedent of the Roman emperors of the past, which utterly destroyed the Roman Empire while also bringing a Catholic presence into the political void.
 
 The new freedoms for Christians in the 4th century opened up room for the Church to expand. This expansion meant that the [Church leadership](mgmt-church.md) became a modified form of Roman [government](politics-systems.md) (with the pope and emperor side-by-side), and the theological discussions added in a hefty grade of Greek [philosophy](philosophy.md).
@@ -141,7 +141,7 @@ Ecumenical Council #1 in 325 AD - the First Council of Nicaea, feat. Pope Sylves
 
 However, Constantine's three children were bitter over him killing their mother in 327, and the government descended into standard Roman chaos again after Constantine died in 337. But, Roman politics had now become inextricably commingled with Christianity.
 
-For Christians, things were also contentious, since Arius posited a [theological conflict](conflicts-christian.md) that argued about the substance of Christ versus the Father. This created severe issues for within the Church for about 55 years.
+For Christians, things were also contentious, since Arius posited a [theological conflict](conflicts-christian-1_why.md) that argued about the substance of Christ versus the Father. This created severe issues for within the Church for about 55 years.
 
 In the year 380 AD, emperor Theodosius I declared Christianity the state religion of the Roman Empire, which destroyed the last portions of Rome's polytheistic [culture](people-culture.md) until its official end in 476 AD by instituting the **Roman Catholic Church**.
 
@@ -374,7 +374,7 @@ Almost all the denominations from before this time culturally froze somewhere in
 - The Advent movement was led by people such as William Miller, who focused heavily on [Jesus' second coming](jesus-returns.md), which developed after 1840 into the **Millerites**, who spent a *lot* of time setting timetables for when He was coming back.
 - The English Separatist movement in the late 1600s had created a group theologically similar to the Reformed, and they officially became the **Baptists** during the Second Great Awakening.
 - The **Plymouth Brethren** formed from Anglicans in the late 1820s as a coalition of like-minded believers grounded on [sola scriptura](theology-solae.md). They're so loosely connected that they still see themselves more as a network than a proper denomination.
-- The [Latter Day Saints](conflicts-christian.md) (**Mormons**) also arose during the Second Great Awakening, preaching a different Gospel that drew from an entirely new set of Scriptures.
+- The [Latter Day Saints](conflicts-christian-1_why.md) (**Mormons**) also arose during the Second Great Awakening, preaching a different Gospel that drew from an entirely new set of Scriptures.
 - Around this time, the Anabaptists created the **Apostolic Christian Church**, who practice adult baptism, members-only communion, greeting other Christians with a kiss, worship with limited or no musical instruments, women wearing head coverings during services. There are at least 5 divisions, with one of them in the early 1900s coming over whether some European customs were acceptable (specifically, having a mustache).
 
 During the Second Great Awakening, the Methodists started the Holiness Movement that advanced "second work" theology (that the baptism of the Holy Spirit at Pentecost in [Acts 2:1-4](https://biblehub.com/bsb/acts/2.htm) is a uniquely different work for believers from God than [salvation](jesus-gospel.md)). A secondary effect of "second work" theology is the belief of Christian perfectichurch-creeds.mdon (that Christians could become perfect in this life with the correct spiritual treatment). The consequences of this theology added a performative aspect to Christian traditions, the most sensational of the time coming from camp meetings:
@@ -399,7 +399,7 @@ The Third Great Awakening came between the late 1850s and late 1920s, and had a 
 - They focused heavily on the Social Gospel (a more practical approach to spirituality focused on [activism](church-serve.md)), and endorsed quite a few political/moral causes such as abolitionism (which at least partly provoked the American Civil War) and prohibition (preventing people from drinking [alcohol](fun-alcohol.md)).
 - The **Pentecostals** arose in the early 1890s from R.C. Horner asserting there was a *third* work of the Holy Spirit beyond baptism of the Holy Spirit: speaking in tongues. They exploded in membership and involvement during the Azusa Street Revival, which was regarded by most Christianity at the time as outrageous and unorthodox. Some Pentecostal, like **Oneness Pentecostals**, believe that God isn't a Trinity.
 - In 1887, Albert Benjamin Simpson founded The Christian Alliance and The Evangelical Missionary Alliance. The two organizations merged in 1897 to create the **Christian and Missionary Alliance (or CMA)**. By 1912, there were major rifts between them and the Pentecostals over whether speaking in tongues was an indicator of the Holy Spirit, and they distanced themselves from Pentecostalism by 1919. Eventually, in 1975, they reformed into the **Alliance World Fellowship (AWF)** in 1975.
-- There were plenty of less-than-Gospel-centered denominations/[cults](conflicts-christian.md) that arose, including:
+- There were plenty of less-than-Gospel-centered denominations/[cults](conflicts-christian-1_why.md) that arose, including:
   - Mary Baker Eddy's **Christian Science**
   - The Watchtower Bible and Tract Society's **Jehovah's Witnesses** by Charles Taze Russell as an offshoot of the Millerites
   - The New Thought movement's **Unity Church** and **Church of Divine Science**

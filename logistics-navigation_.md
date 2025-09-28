@@ -1,13 +1,7 @@
 
 GPS is arguably one of the most useful implementations of computers in the 21st century.
 
-At one time, navigating an unknown region required a few things:
-
-1. Maps of that region, which was the easiest method.
-2. If anyone was available to provide guidance, asking for directions.
-3. Awareness of your environment, which referenced the landmarks given by the map or directions.
-
-"Geolocation" is a modern miracle that effectively removes the need for most of that skill. It involves "geodesy", which is using a [3-dimensional representation](engineering-graphics.md) of geographical elements. It usually uses a "Global Positioning System" (GPS), but often uses other technologies as well (e.g., [cellular towers](engineering-radio.md), sonar), and can more broadly refer to "global navigation satellite systems" (GNSS).
+"Geolocation" is a modern miracle that effectively removes the need for most direct navigation skill. It involves "geodesy", which is using a [3-dimensional representation](engineering-graphics.md) of geographical elements. It usually uses a "Global Positioning System" (GPS), but often uses other technologies as well (e.g., [cellular towers](engineering-radio.md), sonar), and can more broadly refer to "global navigation satellite systems" (GNSS).
 
 ## Coordinates
 

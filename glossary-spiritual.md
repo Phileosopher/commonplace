@@ -1,7 +1,7 @@
 
 # Spiritual terms glossary
 
-This is a glossary of theology terms beyond the terms present outside [cults, heresies, and disagreements](conflicts-christian.md) or [Christian philosophy](glossary-philosophy-christian.md).
+This is a glossary of theology terms beyond the terms present outside [cults, heresies, and disagreements](conflicts-christian-1_why.md) or [Christian philosophy](glossary-philosophy-christian.md).
 
 Amillennial - The eschatological view that Revelation is not depicting a millennium of Christ's or Christian reign
 

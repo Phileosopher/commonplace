@@ -90,4 +90,4 @@ They will *not* be the same, so don't expect them to come back to the lifestyle 
 
 - They'll find offense at "normal" things they used to do, and will have problems with daily life.
 - Their opinion on those [small social rules](people-rules.md) is *very* important, since it will show blind spots in the Body.
-- However, expect their differing opinions to create [conflicts](conflicts-christian.md), especially among the more tradition-minded members.
+- However, expect their differing opinions to create [conflicts](conflicts-christian-1_why.md), especially among the more tradition-minded members.

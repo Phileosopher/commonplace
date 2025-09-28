@@ -15,7 +15,7 @@ Be careful with apologetics.
 - There is a steady subculture of Christians who obsess with making strong, articulate arguments to defend every aspect of their faith.
 - However, each person has their path to walk, and they should walk with conviction even if it's not *precisely* correct the way you understand it ([Romans 14:1-6](https://biblehub.com/romans/14.htm)).
   - In general, you're wasting your time with denominational politics, and should focus on shared values instead ([Mark 9:38-41](https://biblehub.com/mark/9.htm)).
-  - The *one* exception, though, is when that denomination is practicing [legitimate heresy](conflicts-christian.md).
+  - The *one* exception, though, is when that denomination is practicing [legitimate heresy](conflicts-christian-1_why.md).
 - Make sure you keep in mind that Christians aren't known by their rock-solid views *nearly* as much as their love for each other ([John 13:34-35](https://biblehub.com/john/13.htm)).
 
 Most apologetics does *not* start with the Bible.

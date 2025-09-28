@@ -42,7 +42,7 @@ To attain fullness in Christ, we must manage all three components of ourselves.
 
 The *exact* nature of these domains is at least somewhat expressed via Christian tradition.
 
-- The finer details of how this becomes practical are *very* [up for debate](conflicts-christian.md).
+- The finer details of how this becomes practical are *very* [up for debate](conflicts-christian-1_why.md).
   - Most Protestants demarcate body and soul, but some of them conflate the spirit with the soul.
   - As an official stance, Roman Catholicism holds a relatively vague view on the domains of the soul.
   - Eastern Orthodoxy groups us as "nous"/soul, word, and spirit, which has layers of nous/word/spirit inside each domain as well.
@@ -287,7 +287,7 @@ Some people have erroneously imagined that we must separate out the spirit or sp
   - [1 Corinthians 14:15](https://biblehub.com/1_corinthians/14-15.htm)
 - It's possible to maintain an emotion-based, dead faith in the soul while performing no action in the body that may benefit the spirit.
   - [James 2:26](https://biblehub.com/james/2-26.htm)
-- If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](conflicts-christian.md) through several channels:
+- If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](conflicts-christian-1_why.md) through several channels:
   - Asceticism
     - [1 Timothy 4:1-3](https://biblehub.com/bsb/1_timothy/4.htm)
     [Colossians 2:20-23](https://biblehub.com/bsb/colossians/2.htm)

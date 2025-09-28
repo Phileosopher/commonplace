@@ -103,7 +103,7 @@ Signature:
 - Abram's wife Sarai's name changed to Sarah ([Genesis 17:15-16](https://biblehub.com/genesis/17.htm))
 - Every male, as of 8 days old, will be circumcised ([Genesis 17:9-14](https://biblehub.com/genesis/17.htm))
 
-Many, *many* [conflicts](conflicts-christian.md) have arisen about the scope of this contract and its current applicability.
+Many, *many* [conflicts](conflicts-christian-1_why.md) have arisen about the scope of this contract and its current applicability.
 
 - All Jews and Christians believe it extends through Isaac and Jacob.
 - Christians believe it extends (at least somewhat) to all who are faithful, but Jews believe it stays with the genealogy of Israel.
@@ -211,7 +211,7 @@ God's consideration:
 
 There are *many* implied aspects to how we see this contract that fall into error:
 
-- The [Pelagian heresy](conflicts-christian.md) is us thinking we can work our way to Christ instead of receiving His grace.
+- The [Pelagian heresy](conflicts-christian-1_why.md) is us thinking we can work our way to Christ instead of receiving His grace.
 - The [Protestant Reformation](theology-solae.md) revolves around Christians trusting God or trusting man for their redemption.
 - Pentecostals, among [other denominations and cults](history-church.md), add further works to what God is promising.
 

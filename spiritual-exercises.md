@@ -5,7 +5,7 @@ The initial extraction is from Ignatius of Loyola's *Spiritual Exercises*, thoug
 
 ## Background
 
-Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](conflicts-christian.md), and [persecution](hardship-persecution-church.md), but they often don't realize that they can start preparation for it *long* before it happens.
+Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](conflicts-christian-1_why.md), and [persecution](hardship-persecution-church.md), but they often don't realize that they can start preparation for it *long* before it happens.
 
 Like [physically](body-3_exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
 

@@ -104,7 +104,7 @@ C. Research:
   - Concordance (e.g., Strong's
   - Introductions to specific Bible books
   - Bible handbook
-  - Commentaries of opposing [denominations](conflicts-christian.md)
+  - Commentaries of opposing [denominations](conflicts-christian-1_why.md)
   - Bible dictionary (e.g., [Smith's](https://biblehub.com/dictionary/smith.htm))
   - Bible encyclopedia
   - Up-to-date Bible atlas
@@ -148,7 +148,7 @@ F. Explore unconventional ways to read the Bible:
     - [Hawaii Pidgin Bible](https://hipidginbible.org/)
   - Interpret the Bible as a fictionalized narrative with themes and story arcs instead of as a direct historical document.
     - God designed a [mythologizing force](stories-myths.md) into us to interpret the patterns more than the story's details, so we can discover tremendous truths if we observe the [patterns](symbols.md) He designed, which require shifting away from given facts to observe them.
-    - For example, God could have created the earth in 7 calendar days or 7 million years, but He still formed everything from nothing with (likely) no source material, and He therefore is always a Creator and Maintainer of everything, and many [conflicts](conflicts-christian.md) about the length of time sidesteps the plain fact that it was God's unknown doing.
+    - For example, God could have created the earth in 7 calendar days or 7 million years, but He still formed everything from nothing with (likely) no source material, and He therefore is always a Creator and Maintainer of everything, and many [conflicts](conflicts-christian-1_why.md) about the length of time sidesteps the plain fact that it was God's unknown doing.
   - Read the Bible chronologically from when it was written instead of its canonized order.
   - Study what a specific word meant at the time.
   - Focus on how the Bible refutes a specific heresy.

@@ -148,7 +148,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 - Our relationship with God should be *irrespective* of this world, not as a reaction to it.
 - It's the same [disciplines](spiritual-exercises.md) of [prayer](spiritual-exercises-prayer.md) and [Bible study](bible-study.md) as Christianity in the free world but has a *much* deeper significance, and with a more scattered [church experience](church.md).
-- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](conflicts-christian.md).
+- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](conflicts-christian-1_why.md).
 
 "Liberal" Christianity can never survive persecution:
 
