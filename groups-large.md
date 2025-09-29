@@ -170,7 +170,7 @@ APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resi
 1. [Married](relationships-3_marriage.md) with 2-3 [children](parenting-2_children.md)
 2. [College](jobs-college.md) graduates with a [student loan](money-2_debt.md)
 3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
-4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buysell.md)
+4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buy.md)
 5. [Investing](money-investing.md) into a retirement account, preferably a 401(k) or 403(b)
 6. Generally [unaware](awareness.md) of the above
 

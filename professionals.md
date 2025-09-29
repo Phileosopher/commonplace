@@ -32,7 +32,7 @@ Generally, a 4-hour summarized class or poking around online videos/articles is 
 
 - Consider your [health](body-4_health.md), [diet](body-2_diet.md) and [exercise](body-3_exercise.md), [self-determined goals](success-1_why.md), and [money management](money-1_why.md).
 - Learn the basics of [investing](money-investing.md), [laws](legal-safety.md), [contracts](people-6_contracts.md), [money management](money-3_budget.md), and [taxes](money-accounting.md).
-- Further, learn the basics of any privileges of your lifestyle: [autos](autos.md), [homeownership](home-buysell.md), and [intellectual property](legal-ip.md) (if you [create](mind-creativity.md) anything).
+- Further, learn the basics of any privileges of your lifestyle: [autos](autos.md), [homeownership](home-maintenance.md), and [intellectual property](legal-ip.md) (if you [create](mind-creativity.md) anything).
 - You need a *lot* more to actually perform in most domains, but you don't need to because you can hire a [specialized](jobs-specialization.md) professional!
 
 When speaking with them, boldly ask questions about *anything* you don't quite understand.
@@ -125,7 +125,7 @@ Attorney (Must have passed the bar exam):
   - International law (for [government](bureaucracy.md) issues)
   - Military law (for military needs)
   - Personal injury law (for [breaches of contract](people-6_contracts.md))
-  - Real estate law (for [real estate](home-buysell.md) issues)
+  - Real estate law (for [real estate](home-maintenance.md) issues)
   - Tax law (for [accounting](money-accounting.md) legal issues)
 - High-profile attorneys will charge for an initial consultation, but younger attorneys that need clientele do consults for free.
 - If you like your attorney but don't need them, hire them on retainer to prevent them from defending an *opponent* if the situation ever arises.
@@ -138,7 +138,7 @@ Banker (Will be affiliated with a reputable bank):
 Realtor (licensed to access the MLS or Multiple Listing Service):
 
 - A poor realtor isn't typically bad, since they'll likely still sell your home for more than you could have done yourself.
-- Beyond [buying or selling a house](home-buysell.md), you may need a realtor to purchase business property.
+- Beyond [buying](home-buy.md) or [selling](home-sell.md) a house, you may need a realtor to purchase business property.
 
 Insurance agent (licensed by a state's Insurance Commission to produce insurance):
 

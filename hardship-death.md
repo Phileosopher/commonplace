@@ -202,7 +202,7 @@ To avoid anything going into probate, have a few documents finalized and availab
 4. Funeral planning declaration - indicate your exact wishes regarding disposing of your body and funeral services.
 5. All bank accounts must have direct beneficiaries.
    - All they'll need to do is take their identification and death certificate to the bank to transfer the accounts.
-6. If you [own a home](home-buysell.md), a Transfer on Death (TOD) deed.
+6. If you [own a home](home-maintenance.md), a Transfer on Death (TOD) deed.
    - All they'll need to do is take their identification and death certificate to the county building to sign the deed over.
 7. If the beneficiary will be too young, set up a trust, and appoint a trustee.
 8. Talk with everyone whom you have designated, as well as explain to anyone close to you why they were *not* designated.

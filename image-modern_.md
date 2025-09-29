@@ -51,7 +51,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Hospital and [healthcare](body-4_health.md) visits
    - Official [employment](jobs-1_why.md)
    - Government records, including tax filings and driver's license/vehicle registration
-   - Owned [real estate](home-buysell.md)
+   - Owned [real estate](home-buy.md)
    - Certifications with various authorities (e.g., security clearance, government-managed licenses)
    - [Criminal record](legal-safety.md), courthouse visits, traffic violations, affiliations with *any* civil/criminal lawsuits
    - Car rentals, [auto](autos.md) repairs
@@ -187,7 +187,7 @@ Communication
 Skills
 
 - Keep your [automotive](autos.md) well-maintained.
-- [Insure](money-insurance.md) everything of significant value (e.g., [auto](autos.md), [house](home-buysell.md)).
+- [Insure](money-insurance.md) everything of significant value (e.g., [auto](autos.md), [house](home-buy.md)).
 
 ## What you could do
 

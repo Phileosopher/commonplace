@@ -32,7 +32,7 @@ As *soon* as you lose your job, shift to a survival lifestyle:
 - You can withstand extreme scarcity if you only buy what you need and adapt to living with less.
   - Pay minimum [debt](money-2_debt.md) payments.
   - Stop spending on *any* luxuries or maintaining your social life.
-- Unless it nearly *guarantees* employment, postpone all major life decisions, especially about [marriage](relationships-weddings.md), [houses](home-buysell.md), or [children](parenting-1_babies.md).
+- Unless it nearly *guarantees* employment, postpone all major life decisions, especially about [marriage](relationships-weddings.md), [houses](home-buy.md), or [children](parenting-1_babies.md).
 
 Some situations will make your unemployment situation far more severe:
 

@@ -1,7 +1,7 @@
 
 # How to homestead
 
-Homesteading is essentially the entire domain of [owning a home](home-buysell.md), but with many more domains involved around taking care of your needs.
+Homesteading is essentially the entire domain of [owning a home](home-maintenance.md), but with many more domains involved around taking care of your needs.
 
 The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](conveniences.md) you have available:
 

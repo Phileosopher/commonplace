@@ -76,7 +76,7 @@ Finally, we transition outward to the biological design of sex: procreation and 
 
 [Cultures](people-culture.md) that believe in premarital sex tend to jump-start sexual identity. From there, sex becomes an intimate expression of the ultimate form of human [friendship](people-friends.md), and is typically far more complicated from its rearranging of roles. Sexual identity can become even further complicated when aspects like abortion and homosexuality exist, since they deviate from the animal base that sustains life and reproduction.
 
-The cultural obsession with sex is completely natural. It's similar to our interest in [food](fun-food.md) or [making a home](home-buysell.md). It can link to our desire for a [family](people-family.md) but doesn't have to, especially when we've experienced past family [trauma](hardship-ptsd.md).
+The cultural obsession with sex is completely natural. It's similar to our interest in [food](fun-food.md) or [making a home](home-maintenance.md). It can link to our desire for a [family](people-family.md) but doesn't have to, especially when we've experienced past family [trauma](hardship-ptsd.md).
 
 Our gender identity, like all the rest of our [identity](identity.md), is fluctuating all the time. It adapts based on our [relationship status](people-friends.md), our belief about how we should [appear](image.md), and our physical ability to perform sexually. Some people don't *ever* find sexual attraction in others. Most people have non-relationally faithful heterosexual *and* homosexual thoughts, though they usually don't act on them, and it's often [taboo](morality-taboo.md) to openly [discuss](language.md).
 

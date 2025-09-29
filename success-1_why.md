@@ -24,7 +24,7 @@ However, each culture values different things:
 - Europe values health and [satisfaction with life](mind-feelings-happiness.md).
 - Latin America values [education](understanding.md).
 - Saudi Arabia, Nepal, Ukraine, and some African countries measure success with [money](money-1_why.md).
-- Wealthy nations often find it in safety and [housing](home-buysell.md).
+- Wealthy nations often find it in safety and [housing](home-buy.md).
 - A handful of countries, like Australia, value work-life balance.
 - Bhutan and Zimbabwe determine success through [community involvement](groups-member.md).
 - Medieval Italians believed success was [calmly hiding the severity of life](https://en.wikipedia.org/wiki/Sprezzatura).

@@ -56,7 +56,7 @@ Pleasant things by themselves don't connect to inner happiness:
 - Enjoyable things outside their place can create long-term disasters.
 - Everything enjoyable also comes with responsibilities.
 - Some things are *never* worth the investment if your goal is to be happy:
-  - A nice home, which [can be satisfying](home-decorations.md), but won't create fulfillment, and [can be a risky endeavor](home-buysell.md).
+  - A nice home, which [can be satisfying](home-decorations.md), but won't create fulfillment, and [can be a risky endeavor](home-buy.md).
   - Possessions may give a rush when acquired, but the excitement fades quickly.
   - [Career success](jobs-1_why.md) comes with many happiness-suppressing responsibilities and sacrifices.
   - Sexual pleasure and physical intimacy give the most intense human experience without many adverse consequences, but the rush fades quickly and diminishes in intensity with [age](hardship.md).

@@ -79,7 +79,7 @@ Only three forms of debt are ever legitimately a good idea:
 1. Home loans:
    - The mortgage should be within 25--50% of your income.
    - The housing market shouldn't be overly inflated.
-   - [Research](home-buysell.md) before considering.
+   - [Research](home-buy.md) before considering.
 2. Education:
    - The [tuition](jobs-college.md) should ensure a reasonable return on the investment with a likely job.
    - Paying extortionate rates for a pedigree [doesn't improve the chances of success](success-1_why.md).
@@ -160,7 +160,7 @@ Getting a high credit score is easy:
 1. Only have 1 credit card that reports to all 3 bureaus.
 2. Accrue less than 10% on that credit card routinely (e.g., refueling gasoline).
 3. Pay off the *entire* balance twice a month
-4. If you're ever performing multiple hard inquiries (e.g., [mortgage shopping](home-buysell.md)), do it within a 14-day window to make it register as one hard check.
+4. If you're ever performing multiple hard inquiries (e.g., [mortgage shopping](home-buy.md)), do it within a 14-day window to make it register as one hard check.
 
 ## In summary, debt isn't a good financial tool
 

@@ -98,7 +98,7 @@ Artistic and [creative](mind-creativity.md) skills:
 - Sell a subscription service for paying members.
 - [Build an app](computers-sofware-webdev.md).
 
-Rent a room in your [home](home-buysell.md) or secondary property:
+Rent a room in your [home](home-maintenance.md) or secondary property:
 
 - If you hire a management company to rent it out, be careful who you hire and what their [contract](people-6_contracts.md) stipulates.
 - Alternately, you can rent them out as temporary vacation lodging.

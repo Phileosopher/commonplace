@@ -11,7 +11,7 @@ We feel needs and wants are binary, but they sit on a spectrum, and civilized pe
 - [College](jobs-college.md)
 - [Eating out](cooking.md)
 - Electronics, gadgets, appliances, entertainment
-- [Houses](home-buysell.md)
+- [Houses](home-buy.md)
 - Name-brand products
 - Private schooling
 - [Vacations](fun-vacations.md)
@@ -52,7 +52,7 @@ Halt impulse purchases by tracking your spending and triggers closely:
 *Never* buy what you don't understand:
 
 - Avoid features and add-ons that may not add any value to what you're buying.
-- Some of the worst versions of ignorant buying come through [investing](money-investing.md), [insurance](money-insurance.md), and [buying a house](home-buysell.md).
+- Some of the worst versions of ignorant buying come through [investing](money-investing.md), [insurance](money-insurance.md), and [buying a house](home-buy.md).
 
 For every single dollar you spend on anything substantially valuable, you'll spend another dollar over its lifetime in maintenance, repairs, or disposal.
 

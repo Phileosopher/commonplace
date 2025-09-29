@@ -83,7 +83,7 @@ This gets *much* more complex, though:
 
 Like any other debt obligation, bonds can be secured or unsecured:
 
-- Secured bonds collateralize an asset. A mortgage-backed security (MBS), for example, will collateralize the title of the borrower's [home](home-buysell.md).
+- Secured bonds collateralize an asset. A mortgage-backed security (MBS), for example, will collateralize the title of the borrower's [home](home-buy.md).
 - Unsecured bonds by companies are called debentures. In the event of a liquidation, unsecured creditors will only get whatever assets are left over *after* the secured investors.
 
 Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, and long-term are over an even longer period of time.

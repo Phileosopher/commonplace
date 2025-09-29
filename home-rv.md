@@ -3,7 +3,7 @@
 
 In several ways, living in an RV is a middle ground between several other lifestyles:
 
-- It's a hybrid between [homeownership](home-buysell.md) and [camping](fun-vacations.md).
+- It's a hybrid between [homeownership](home-maintenance.md) and [camping](fun-vacations.md).
 - If it's a motorhome, it has all the components of maintaining a small home that goes through regular scheduled earthquakes along with maintaining an [automotive](autos.md).
 - If it's a travel trailer, it also requires owning or renting a pickup truck or SUV to move it around.
 

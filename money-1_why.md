@@ -111,7 +111,7 @@ Statistically, most millionaires fit a more humble profile:
 - Invests an average of 20% of their median household income of $131,000.
 - They never play the lottery and avoid [debts](money-2_debt.md) they can't quickly pay back.
 - Live well below their means:
-  - Owns a [home](home-buysell.md) worth about $350,000.
+  - Owns a [home](home-buy.md) worth about $350,000.
   - Buys older-model [automobiles](autos.md) and never leases.
   - Attended public schools, but likely sent their children to private school.
   - Still clips coupons and looks for discounts.

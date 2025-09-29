@@ -126,7 +126,7 @@ There are *many* types of contracts, proportional to how much we're connected wi
 Formalized arrangements are the foundation of most business, and they're all connected through these contracts. For this reason, there are *many* domains of law that intersect and converge with contract law:
 
 - Trust and inheritance law - for [death and succession planning](hardship-death.md)
-- Property law - for high-value properties like [real estate](home-buysell.md)
+- Property law - for high-value properties like [real estate](home-maintenance.md)
 - Intellectual property law - for [intellectual property](legal-ip.md) ownership and enforcement
 - Commercial/trade law - for [large-scale](groups-large.md) law matters such as corporations across multiple nations
 - Competition law - for preserving [free market competition](economics.md)

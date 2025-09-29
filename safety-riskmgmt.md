@@ -87,7 +87,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Have a network of top-class professionals to manage your things:
   - [Insurance](money-insurance.md) agent
   - [Attorneys](legal-safety.md) for *all* necessary specializations
-  - [Realtor](home-buysell.md)
+  - [Realtor](home-buy.md)
   - [Accountant](money-accounting.md) - tax advisor, accountant, estate manager, and auditor
   - [Mechanic](autos.md)
   - [Business advisors](mgmt-1_why.md)

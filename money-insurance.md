@@ -407,7 +407,7 @@ Hazards can increase the severity or chance of a peril:
 
 Insurance often classifies losses as direct or indirect, and may insure one or both of them:
 
-- Direct losses are caused by the covered peril (e.g., fire damages a [home](home-buysell.md)).
+- Direct losses are caused by the covered peril (e.g., fire damages a [home](home-maintenance.md)).
 - Indirect/consequential losses are caused by consequences of a direct loss (e.g., having to stay in a temporary place while repairing the effects of a fire in a home).
 
 Losses are stated as a measurable financial amount, and can be total or partial.

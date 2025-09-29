@@ -288,7 +288,7 @@ Indicate the product's pricing or pricing models:
 Specify a proposed location:
 
 - The location is a reference for the marketing plan, but will be more detailed in the operational plan.
-- Many startups can successfully start in your own [home](home-buysell.md).
+- Many startups can successfully start in your own [home](home-maintenance.md).
 - Show how the location is marketable as a venue:
   - How is the site important, if at all, to consumers?
   - How convenient will people feel the building is?

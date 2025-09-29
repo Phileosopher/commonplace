@@ -638,7 +638,7 @@ Most cultures imply a relationship is a testing ground for marriage:
 
 - It takes 2-4 years to thoroughly get to know someone.
 - While a relationship is generally low-commitment, marriage is a major and (hopefully) permanent life decision.
-- Don't listen to to the social pressure to marry, since people will push [having children](parenting-1_babies.md) and [buying a house](home-buysell.md) later the same way.
+- Don't listen to to the social pressure to marry, since people will push [having children](parenting-1_babies.md) and [buying a house](home-buy.md) later the same way.
 
 Some cultures expect marriage a few months from meeting, but others expect 3-5 years of dating before even considering it, but you should seriously consider and decide after about a year.
 

@@ -132,7 +132,7 @@ E. Save for your children (varies based on their expected education and lifestyl
 
 F. Pay off your home (takes ~10 years):
 
-- Your wealth-building habits will eventually lead to overpaying your [mortgage](home-buysell.md).
+- Your wealth-building habits will eventually lead to overpaying your [mortgage](home-buy.md).
 - By this point, you should have some experience significantly transforming others' lives with your money.
 
 G. Devote most of your extra income to giving:

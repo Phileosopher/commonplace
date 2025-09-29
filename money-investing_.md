@@ -305,7 +305,7 @@ For maximum diversification, have a portfolio composed of the following:
 
 One of the easiest failures in diversifying is to have separate things that don't *feel* like they're related, but are the same thing.
 
-- If you're a [homeowner](home-buysell.md), you're already invested in real estate, even if it's not giving any yields until you sell it.
+- If you're a [homeowner](home-maintenance.md), you're already invested in real estate, even if it's not giving any yields until you sell it.
 - If you're a [company employee](jobs-1_why.md), you're already a stakeholder of that company without owning any stock (i.e., you'd be [unemployed](hardship-unemployment.md) if the company failed.
 
 Periodically rebalance your portfolio.
@@ -929,7 +929,7 @@ Real estate (flipping):
 
 - High risk, very high returns, low taxes, moderate/high fees.
 - Pros:
-  - A fantastic investment vehicle both as [rental property](home-buysell.md) and in trades.
+  - A fantastic investment vehicle both as [rental property](home-maintenance.md) and in trades.
   - Researching and applying various skills can give tremendous returns.
   - Inflation-resistant, and yields high returns.
 - Cons:
