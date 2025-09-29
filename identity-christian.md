@@ -151,7 +151,7 @@ Christianity is a long-term commitment ([Luke 9:61-62](https://biblehub.com/bsb/
 
 - To build our relationship with God, we will grow to desire a variety of activities oriented toward [following His will](god-will.md):
 
--  [Communicating](spiritual-exercises-prayer.md) consistently with Him
+- [Communicating](spiritual-exercises-prayer.md) consistently with Him
 - Removing [any further sin](morality-sins.md) through repentance
 - [Consuming His Word](bible-study.md)
 - [Many other rituals and routines](spiritual-exercises.md) that strengthen our connection with Him
