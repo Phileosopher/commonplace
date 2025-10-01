@@ -32,11 +32,11 @@ As *soon* as you lose your job, shift to a survival lifestyle:
 - You can withstand extreme scarcity if you only buy what you need and adapt to living with less.
   - Pay minimum [debt](money-2_debt.md) payments.
   - Stop spending on *any* luxuries or maintaining your social life.
-- Unless it nearly *guarantees* employment, postpone all major life decisions, especially about [marriage](relationships-weddings.md), [houses](home-buy.md), or [children](parenting-1_babies.md).
+- Unless it nearly *guarantees* employment, postpone all major life decisions, especially about [marriage](relationships-weddings.md), [houses](home-buy.md), or [children](parenting-babies.md).
 
 Some situations will make your unemployment situation far more severe:
 
-- [Children](parenting-2_children.md) or other family members who depend on your income
+- [Children](parenting-children.md) or other family members who depend on your income
 - [Criminal history](legal-crimes.md), especially if it was within the past [7 years](identity-legalfiction.md)
 - Multiple recent short-term jobs, which would imply instability to a potential hiring manager
 - A shortage of skills proportional to your age (e.g., a college graduate who can't clean a gutter)
@@ -102,7 +102,7 @@ Many industries are *always* looking for people willing to work:
 - General labor
 - Landscaping and lawn maintenance
 - Garbage collection
-- [Childcare](parenting-2_children.md)
+- [Childcare](parenting-children.md)
 - Retail and food service work
 
 Consider moving for work:

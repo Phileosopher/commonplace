@@ -21,7 +21,7 @@ Like any biological being, every drive of a body is based on two primary [themes
 
 However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](results.md) within that domain of error.
 
-Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-1_babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
+Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
 
 While the base configuration of [reality](reality.md) is semi-ordered [chaos](unknown.md), our existence as [understanding](understanding.md) beings is semi-chaotic order.
 

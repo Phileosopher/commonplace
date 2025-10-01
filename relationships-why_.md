@@ -87,7 +87,7 @@ Slowly open up to them and observe how they respond to you:
   - Openly accept their thoughts and core opinions as you discover them.
   - Tell them plainly when you dislike one of their thoughts.
   - Openly discuss your [finances](money-1_why.md) with them.
-  - Your [religious faith](religion.md) should mesh, *especially* if either of you want [children](parenting-2_children.md) someday.
+  - Your [religious faith](religion.md) should mesh, *especially* if either of you want [children](parenting-children.md) someday.
   - While your preferences may differ, you should both share similar philosophies about life, and they may [change](people-changes.md).
   - By the time you're considering [living together](home-moving.md) or [marrying](relationships-weddings.md), you should know approximately what they feel about most things.
 
@@ -131,7 +131,7 @@ What men must learn:
   - Acknowledge her feelings without *any* context (e.g., "that feels sad").
   - Show physical, non-sexual affection.
   - Perform small acts of kindness for her (e.g., opening the door for her).
-  - Give at least two months' notice for any large decision, including [marriage proposals](relationships-weddings.md) and [children](parenting-1_babies.md).
+  - Give at least two months' notice for any large decision, including [marriage proposals](relationships-weddings.md) and [children](parenting-babies.md).
   - Always stay open to expanding your [awareness](awareness.md) of feelings and sentiments.
 - Usually, a woman will vent her frustrations, but do *not* try to fix it: just [listen](language-speaking.md).
 - Learn additional [self-maintenance](people-2_image.md) to meet a woman's standard.
@@ -141,7 +141,7 @@ What women must learn:
 
 - Compared to men, women are complicated and inefficient.
 - Men crave respect for accomplishments and challenging experiences.
-  - Admire what he's done, especially regarding his [career](jobs-1_why.md) and [parenting](parenting-2_children.md).
+  - Admire what he's done, especially regarding his [career](jobs-1_why.md) and [parenting](parenting-children.md).
   - [Tactfully](people-3_respect.md) tell him what you *really* think and believe, because he won't understand an implication.
 - Women usually experience feelings *far* more intensely than men.
   - Scale your feelings down [into words he can understand](language-speaking.md).
@@ -160,7 +160,7 @@ Conflicts are normal, and increase as the relationship grows:
 - Expect trust issues between your partner and your parents, as well as you and theirs.
   - Conflicts become extremely complicated when someone values their parents' views over their partner's.
 
-Marital conflicts strengthen us, but are also a necessary foundation to build toward the playfulness of romance and enjoying [children](parenting-2_children.md).
+Marital conflicts strengthen us, but are also a necessary foundation to build toward the playfulness of romance and enjoying [children](parenting-children.md).
 
 A. Raise your issues early:
 
@@ -343,7 +343,7 @@ By living together, conflicts intensify:
   - Make a "honey do list" for each other to complete.
 - Differences in religious, political, and philosophical have far-reaching effects on your relationship.
   - While you can live indefinitely with someone who has different views, it's only to the degree you both can accept a difference of opinion.
-  - [Parenting an infant](parenting-1_babies.md) causes even more stress than anything else you've experienced, and the conflicts become far more pronounced when [your children get older](parenting-2_children.md) and you disagree on what's best for them.
+  - [Parenting an infant](parenting-babies.md) causes even more stress than anything else you've experienced, and the conflicts become far more pronounced when [your children get older](parenting-children.md) and you disagree on what's best for them.
 
 Your extended families *will* play a role in your shared life:
 
@@ -515,7 +515,7 @@ If your partner is resentful or angry, you can't do much about it:
 Even in a loveless marriage, staying married has some benefits:
 
 - Beyond religious reasons, there are many logical reasons to not divorce:
-  - For the [children](parenting-2_children.md) to grow up in a good home
+  - For the [children](parenting-children.md) to grow up in a good home
   - [Financial stability](money-1_why.md)
   - A shared desire to not be alone to unwilling to start again with another [relationship](relationships-2_dating.md)
   - The [reputation damage](image.md) from divorce or the extra work it creates
@@ -526,7 +526,7 @@ Even in a loveless marriage, staying married has some benefits:
   - Don't comment on their behavior and let them live their own life.
 - When possible and safe, connect with them casually.
   - Enjoy meals together.
-  - Bond over shared experiences like the [children](parenting-2_children.md) or television.
+  - Bond over shared experiences like the [children](parenting-children.md) or television.
   - Keep conversation topics lightweight and neutral.
 - For your own [happiness](mind-feelings-happiness.md), however, you *must* move on from a loveless or abusive marriage.
 
@@ -540,4 +540,4 @@ When done right, married people are significantly happier than their single peer
 
 Like any investment, it's possible to over-invest and lose parts of your own [personal growth](success-6_humility.md).
 
-Unlike other things like possessions and material success, everyone wants a happy marriage even *after* they've attained it, and that persistent happiness extends to [children](parenting-1_babies.md).
+Unlike other things like possessions and material success, everyone wants a happy marriage even *after* they've attained it, and that persistent happiness extends to [children](parenting-babies.md).

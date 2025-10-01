@@ -40,14 +40,14 @@ Are you suffering severe physical or emotional pain?
 
 Do you have chronic long-term problems?
 
-- You might have [money issues](money-1_why.md), [relationship](relationships-why.md)/[family](parenting-2_children.md) problems, or are constantly pushing up against [deadlines](success-4_routine.md).
+- You might have [money issues](money-1_why.md), [relationship](relationships-why.md)/[family](parenting-children.md) problems, or are constantly pushing up against [deadlines](success-4_routine.md).
 - You usually can't fix most issues with others, but can often minimize their effects.
 - You *can*, however, usually fix or minimize most personal issues like money or time management as far as your willpower can persist.
 - Whatever your situation, you'll only succeed if you submit it all to [a power greater than yourself](jesus-gospel.md).
 
 Have you experienced any major life changes?
 
-- You could be [moving](home-moving.md) or [changing jobs](jobs-6_negotiating.md), someone could be moving in with you or moving out, you might be getting engaged or [newly married](relationships-weddings.md), or [having a baby](parenting-1_babies.md).
+- You could be [moving](home-moving.md) or [changing jobs](jobs-6_negotiating.md), someone could be moving in with you or moving out, you might be getting engaged or [newly married](relationships-weddings.md), or [having a baby](parenting-babies.md).
 - Major life changes naturally cause stress and [incapacitate us](hardship.md), and that's perfectly okay.
 
 Are you happy with your job?
@@ -174,7 +174,7 @@ Psychological needs relate to how we see ourselves in the world:
 - The need to see [evidence of growth or improvement](results.md)
 - The need for to [be certain about something](understanding-certainty.md)
 - The need for [something to work toward](meaning.md) or [be a part of](groups-small.md), as well as [evidence of success](success-1_why.md)
-- The need to help other people do the same, often via [parenting](parenting-1_babies.md) or [management](mgmt-1_why.md)
+- The need to help other people do the same, often via [parenting](parenting-babies.md) or [management](mgmt-1_why.md)
 
 Frequently, most things we do meet multiple physical/psychological needs at once.
 

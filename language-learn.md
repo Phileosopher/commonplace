@@ -5,7 +5,7 @@ Learning a new language isn't as difficult as it may feel:
 
 - To achieve bare-minimum, you only need enough phrases to hold a basic [conversation](conversation.md) with a native speaker about mundane objects.
   - You only need about 125 basic words in any language to start linking and adapting to begin speaking.
-  - At about 625 words, you can speak on the level of most [children](parenting-2_children.md).
+  - At about 625 words, you can speak on the level of most [children](parenting-children.md).
   - You can be fluent in most languages and understand most of what you read with only about 1,000 words.
   - Even an experienced native language professor won't know most of that language's words!
 - You're rewriting your brain with a new set of information (mostly for the same things), so you simply need *lots* of exposure to get it into your [memory](mind-memory.md).
@@ -75,7 +75,7 @@ Focus obsessively on correct pronunciation:
   - It'll take you 3-8 days to get it right if you practice 30 minutes each day.
 - Focus on sounds, not letters.
   - Some languages have a few sounds (Hawaiian has 15) or many (certain Caucasus languages have up to 60).
-  - Depending on what you learned as a [small child](parenting-1_babies.md), you may not be able to pronounce some sounds at all.
+  - Depending on what you learned as a [small child](parenting-babies.md), you may not be able to pronounce some sounds at all.
   - Create a temporary "phonetic alphabet" to catch all the sounds of the language.
 
 Become accustomed to the sounds of that language.

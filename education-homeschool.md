@@ -1,7 +1,7 @@
 
 # How to homeschool
 
-Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-2_children.md) [education](education.md).
+Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-children.md) [education](education.md).
 
 - The quality of a formalized education is defined by the educational quality of the teacher, divided by the class size (since they can only devote attention proportionally to your child).
 - Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](trends.md), and has profound [political consequences](politics-conservativeliberal.md).
@@ -15,15 +15,15 @@ The quality of a homeschool child's education comes directly from a few sources:
 Homeschooling your child is effectively a part-time job.
 
 - If you're a homemaker in a double-income household, you can easily splice the work with your other responsibilities.
-- [Raising children in general](parenting-2_children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](education.md) a small child alongside their work.
+- [Raising children in general](parenting-children.md) requires a full-time caretaker, which means that same caretaker can also typically [educate](education.md) a small child alongside their work.
 
 Homeschooling children is *not* necessarily better or worse.
 
 - Bad parenting would make a child less well-adjusted than if they went to a public school, even if they were more educated about certain domains.
 - In non-nuclear homes (e.g., single parenting), it's often simply not possible to homeschool and would require someone else to educate them.
-- Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](parenting-2_children.md).
+- Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](parenting-children.md).
 
-If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-2_children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
+If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
 
 - Public school education systems often use [dark patterns](engineering-design.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
 
@@ -249,7 +249,7 @@ It's worth noting that these are all *approximate*. Your [culture](people-cultur
 
 ### Pre-K
 
-Since you're trying to raise your children instead of [acculturate](people-culture.md) them to a [learning-restrictive](education.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-2_children.md).
+Since you're trying to raise your children instead of [acculturate](people-culture.md) them to a [learning-restrictive](education.md) classroom environment, keep working on [qualities that make moral, hard-working children](parenting-children.md).
 
 You can teach small children as young as 3 years old to read:
 

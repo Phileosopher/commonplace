@@ -45,7 +45,7 @@ If you're going with others, everyone should enjoy themselves:
 - Everyone has their own unique preferences, so only choose activities *everyone* will like.
 - If you need, schedule days when people split up to do what they prefer.
 
-If you have children, keep [your children](parenting-2_children.md) engaged:
+If you have children, keep [your children](parenting-children.md) engaged:
 
 - Mind the extra costs and time associated with children.
 - Hold each child personally responsible for carrying their luggage, and have a plan if they lose it.

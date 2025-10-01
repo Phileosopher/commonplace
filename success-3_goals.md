@@ -173,7 +173,7 @@ Problems are either simple, complicated, or complex:
 
 - Simple problems are relatively straightforward, even if they have many steps (e.g., most [cooking](cooking.md)).
 - Complicated problems can also be broken down into steps, but there's no straightforward system to easily use for them (e.g., building a rocket).
-- Complex problems are elaborate, interdependent situations that are difficult to simplify (e.g., [parenting](parenting-1_babies.md)).
+- Complex problems are elaborate, interdependent situations that are difficult to simplify (e.g., [parenting](parenting-babies.md)).
 
 Many goals are smaller pieces of larger ones:
 

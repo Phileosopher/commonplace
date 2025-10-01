@@ -176,7 +176,7 @@ And, naturally, remote work has downsides:
 - It's harder to maintain a balance between work and personal time.
 - A spotty [internet connection](computers-sofware-webdev.md) can *destroy* productivity.
 - It's *much* easier to procrastinate and not get projects done on time.
-- When you have high-maintenance family and friends (e.g., [babies](parenting-1_babies.md) or [children](parenting-2_children.md)), it's harder to stay focused.
+- When you have high-maintenance family and friends (e.g., [babies](parenting-babies.md) or [children](parenting-children.md)), it's harder to stay focused.
 - You'll have a harder time [making connections](people-4_friends.md) with your coworkers, which may deteriorate your [quality of life](mind-feelings-happiness-focus.md) if you're not proactively finding connections elsewhere.
 - Communicating with teammates is more about everyone maintaining high-quality [writing](language-writing.md) than [speaking](language-speaking.md), and much harder as a result.
 

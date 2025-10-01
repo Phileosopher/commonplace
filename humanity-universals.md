@@ -220,7 +220,7 @@ Routines/Rituals/Habits
 - We automatically build a plethora of [subconscious patterns](habits.md) to guide us through repetitive experiences.
 - We create daily, weekly, monthly, and yearly [routines](success-4_routine.md) around the sun's rotation, where we [do much more](results.md) in the day and [sleep](sleep.md) at night.
 - Further, we create standardized [social greetings](language-speaking.md) among each other.
-- We make long-term [traditions](people-culture.md) around anything that repeats, such as [marriages](relationships-weddings.md), [births](parenting-1_babies.md), [deaths](hardship-death.md), and changing seasons.
+- We make long-term [traditions](people-culture.md) around anything that repeats, such as [marriages](relationships-weddings.md), [births](parenting-babies.md), [deaths](hardship-death.md), and changing seasons.
 - Those traditions usually include feasts and, if they're a special occasion, a [public speech](language-speaking.md).
 
 Rules
@@ -241,7 +241,7 @@ Shelter
 
 Social Structures
 
-- We have a [bias](mind-bias.md) toward our [children](parenting-2_children.md) and [family](people-family.md).
+- We have a [bias](mind-bias.md) toward our [children](parenting-children.md) and [family](people-family.md).
 - Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
 - While we'll still [identify](identity.md) as separate beings, we'll also identify as part of that group.
 - We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).

@@ -1,7 +1,7 @@
 
 There are very few things we have absolutely *zero* control over about [ourselves](identity.md). But, beyond most of our physical attributes and where we were born, our family ties are one of the few we're stuck with.
 
-All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-2_children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
+All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
 
 Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](people-culture.md) than anyone else's. Unless the dynamics are particularly dysfunctional, we tend to [favor](people-friends.md) those relationships more than non-family.
 
@@ -11,7 +11,7 @@ Healthy family dynamics come through combining several different components that
 
 - Biological or commitment connections that at least *imply* [responsibility](meaning.md) for each other.
 - A [marriage](gender.md) that frames a structural example for [idealized](values.md) relationships, including sexual attraction.
-- Shared beliefs on [nurturing](parenting-1_babies.md) and [disciplining](parenting-2_children.md) children, which borrows heavily from [religious doctrines](religion.md).
+- Shared beliefs on [nurturing](parenting-babies.md) and [disciplining](parenting-children.md) children, which borrows heavily from [religious doctrines](religion.md).
 - Consensus on [out-group interactions](people-conflicts-war.md) (e.g., in-laws).
 - Agreement on [resource](power-types.md) management (e.g., [time](success-4_routine.md), [money](money-1_why.md)) and collective [purposes](purpose.md).
 - Shared names that imply at least some of the above social bonds.
@@ -78,7 +78,7 @@ Once those children have [come of age](maturity.md), they are now co-members of 
 
 [Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](decisions.md) for themselves. Most parents don't [trust](trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
 
-Maintaining a [baby](parenting-1_babies.md), then a [child](parenting-2_children.md), then a [teenager](parenting-3_teenagers.md), is difficult. Every child experiences at least some failures from their parents due to [human nature](humanity.md), and some of them will become [severely traumatized](hardship-ptsd.md) by it.
+Maintaining a [baby](parenting-babies.md), then a [child](parenting-children.md), then a [teenager](parenting-3_teenagers.md), is difficult. Every child experiences at least some failures from their parents due to [human nature](humanity.md), and some of them will become [severely traumatized](hardship-ptsd.md) by it.
 
 Parents often inaccurately [communicate](people-conversation.md) expectations to their children. Often, a parent will merely [prefer](humanity.md) something from their child, but the child will [believe](understanding-certainty.md) the parent insists on it. Other times, the child won't even get the hint at all!
 
@@ -169,7 +169,7 @@ Naturally, their [trust](trust.md) with their parents will be eroded, which affe
 
 ### Underestimation
 
-Unless a parent is making conscious [decisions](decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](people-changes.md) with the children. For example, parents perceive [babies](parenting-1_babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-2_children.md) are capable of performing.
+Unless a parent is making conscious [decisions](decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](people-changes.md) with the children. For example, parents perceive [babies](parenting-babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-children.md) are capable of performing.
 
 As a child ages, they very quickly learn to bend those fixed patterns to their [advantage](purpose.md). For example, they'll endure a five-minute lecture to get out of doing chores. The fulfillment of a subversive purpose is far more [rewarding](meaning.md) to them than [results](results.md) from the task itself.
 

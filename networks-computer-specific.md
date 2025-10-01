@@ -219,3 +219,42 @@ VPN: PPTP
 VPN: L2TP/IPSec
 
 - UDP ports 500, 1701, 4500
+
+## Email-to-SMS
+
+Step 1 - reverse lookup the carrier (e.g., [NumLookup](https://www.numlookup.com/))
+
+Step 2 - email the carrier's SMS/MMS server (10-digit #, no dashes, no subject)
+
+MNOs (mobile network operators, relatively straightforward)
+
+- AT&T SMS - @txt.att.net
+- AT&T MMS - [num]@mms.att.net
+- Google Project Fi SMS/MMS - [num]@msg.fi.google.com
+- Spectrum - [num]@mypixmessages.com
+- Sprint SMS - [num]@messaging.sprintpcs.com
+- Sprint MMS - [num]@pm.sprint.com
+- T-Mobile SMS/MMS - [num]@tmomail.net
+- U.S. Cellular SMS - [num]@email.uscc.net
+- U.S. Cellular MMS - [num]@mms.uscc.net
+- Verizon SMS - [num]@vtext.com
+- Verizon MMS - [num]@vzwpix.com
+
+MVNOs (mobile variable network operators, may need an MNO's geographically dependent gateway address)
+
+- Boost Mobile SMS - [num]@sms.myboostmobile.com
+- Boost Mobile MMS - [num]@myboostmobile.com
+- Cricket Wireless SMS/MMS - [num]@mms.cricketwireless.net
+- Republic Wireless SMS - [num]@text.republicwireless.com
+- Straight Talk SMS - [num]@vtext.com
+- Straight Talk MMS - [num]@mypixmessages.com
+- Ting SMS - [num]@message.ting.com
+- Tracfone SMS - [depends on underlying carrier]
+- Tracfone MMS - [num]@mmst5.tracfone.com
+- Virgin Mobile SMS - [num]@vmobl.com
+- Virgin Mobile MMS - [num]@vmpix.com
+
+A few things to note:
+
+- SMS might glitch out or redirect to MMS server if you don't limit it to 160 chars.
+- Some MNOs become MVNOs if the phone is geographically located elsewhere, so this isn't a foolproof system.

@@ -37,7 +37,7 @@ Our [religious tendencies](religion.md) mean we tend to draw behind the [image](
 - It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
 - Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
 
-Management reproduces the role of high-quality [fatherhood](parenting-2_children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-4_friends.md):
+Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-4_friends.md):
 
 - [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
 - Behavior that appears [decisive](understanding-certainty.md).
@@ -75,7 +75,7 @@ Anyone can be a manager if they're given the role, but *successful* management d
 - Most of the time, managers gravitate to informal leadership roles automatically before they've ever become a manager:
   - A tendency toward [teaching others](education.md).
   - Assisting in running a church or social club.
-  - High-quality [parenting](parenting-2_children.md).
+  - High-quality [parenting](parenting-children.md).
   - Consistently active on social media.
 
 Almost everyone is *capable* of being a manager, but not everyone has the [personality](personality.md) that they'd enjoy it:

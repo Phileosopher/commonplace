@@ -25,7 +25,7 @@ Find a new, healthier, supportive group who respects your boundaries more:
 If you've been hurt by a parent, don't wait for them to change:
 
 - They obviously created the environment you were in, with all its specific patterns, and they didn't change *that* time.
-- They may not have loved you, but it's more likely that they gave at least a decent effort while failing at [their responsibilities](parenting-2_children.md).
+- They may not have loved you, but it's more likely that they gave at least a decent effort while failing at [their responsibilities](parenting-children.md).
 
 If your emotional scarring is severe, spend time completely away from them:
 
@@ -61,8 +61,8 @@ You now have a small child you must take care of:
 If you don't believe you'll give the baby a good home, look into giving the child up for adoption or having an extended family member take care of them:
 
 - You will often have social workers who will be present to assist, but [know your rights](people-boundaries.md) before [consenting](people-contracts.md) to anything.
-- If you think you *can* be a good [parent](parenting-2_children.md) but aren't ready yet, give them to someone you know so you can still take care of them.
-  - Contrary to popular culture, [parenting](parenting-1_babies.md) is difficult only in how children *steadily* have needs (e.g., food, diaper change, hygiene).
+- If you think you *can* be a good [parent](parenting-children.md) but aren't ready yet, give them to someone you know so you can still take care of them.
+  - Contrary to popular culture, [parenting](parenting-babies.md) is difficult only in how children *steadily* have needs (e.g., food, diaper change, hygiene).
 - Ignore the [religious discussions](religion.md) that condemn your situation, and try to find people who will [love](people-love.md) you in your time of need.
 
 If you've *had* an abortion, don't [destroy your self-value](hardship-worthlessness.md) about it:

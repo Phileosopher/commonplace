@@ -20,7 +20,7 @@ They're going through a difficult time and disagree frequently with you, but you
 
 Every parent struggles to adapt to the same changes:
 
-1. [Parenting an infant or toddler](parenting-1_babies.md) requires micro-managing their entire day.
+1. [Parenting an infant or toddler](parenting-babies.md) requires micro-managing their entire day.
 2. The parents' roles [adapt to managing](parenting-2_children.md) a barely independent, unskilled child.
 3. At some point, the parents *must* release full control of their barely skilled child to the rest of the world.
 

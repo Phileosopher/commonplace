@@ -22,7 +22,7 @@ The maintenance of your home will add to the [quality of your life](goodlife.md)
 - [Pet](fun-pets.md) projects often give extra opportunities to have fun with your pet.
 - Custom shelves and built-in organization can *dramatically* help with [organization](organization.md).
 - Greenhouses can help with [gardening](horticulture.md).
-- Projects that improve life for [children](parenting-2_children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
+- Projects that improve life for [children](parenting-children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
 - Building a workshop can make *all* the above, as well as [fixing](fix.md), much easier.
 
 ## Additional reading

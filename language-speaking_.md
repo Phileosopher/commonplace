@@ -1150,7 +1150,7 @@ To leave gracefully, have a few exit lines ready:
   - If you're at a party, you want to meet with someone else you haven't seen in a long time.
   - While at lunch, you have some personal chores on your phone you need to do.
   - When in public with someone, you have to study for something.
-  - If you're pursuing [success](success-1_why.md) or have a [family](parenting-1_babies.md), you have many excuses to choose from.
+  - If you're pursuing [success](success-1_why.md) or have a [family](parenting-babies.md), you have many excuses to choose from.
 - If someone hands you their card, accept it as a gift.
   - Hold the card in both hands and read it.
   - Put the card away in a shirt pocket, purse, or wallet to show you value it.

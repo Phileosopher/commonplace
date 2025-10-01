@@ -282,7 +282,7 @@ They must learn a wide variety of life skills:
 - Home skills like [cooking](cooking.md) and [housekeeping](home-housekeeping.md)
 - Self-maintenance skills like [hygiene](people-2_image.md) and [weight management](body-2_diet.md)
 - How to stay safe, both physically and [legally](legal-safety.md)
-- How to make responsible and healthy decisions later about [dating](relationships-dating.md), [relationships](relationships-marriage.md), and [having children of their own](parenting-1_babies.md).
+- How to make responsible and healthy decisions later about [dating](relationships-dating.md), [relationships](relationships-marriage.md), and [having children of their own](parenting-babies.md).
 - It's worth noting that, as a parent, they'll learn far more from your example than from anything you'll verbally teach them, and [they'll still have to discover it on their own](parenting-3_teenagers.md).
 
 Help them manage uncertainty and ambiguity:

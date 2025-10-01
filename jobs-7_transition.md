@@ -139,7 +139,7 @@ Take full advantage of your new job's benefits and perks, which requires you to 
 
 - What are all the company's reimbursed benefits?
 - Is there a flex schedule/four-day workweek/work-from-home arrangement?
-- Is there any paid time off for special circumstances (e.g., [maternity/paternity](parenting-1_babies.md) leave)?
+- Is there any paid time off for special circumstances (e.g., [maternity/paternity](parenting-babies.md) leave)?
 
 During the workday, network with your *all* your new coworkers:
 

@@ -50,7 +50,7 @@ One of you won't like budgeting as much as the other one:
 3. The other person *must* amend something in the budget.
 4. The meeting should only last 15 minutes, with both of them agreeing to stick to the budget.
 
-If you have [children](parenting-2_children.md), involve them in the meetings to teach them how planning affects your financial life and theirs.
+If you have [children](parenting-children.md), involve them in the meetings to teach them how planning affects your financial life and theirs.
 
 ## Start with the big picture
 
@@ -123,7 +123,7 @@ D. Invest at least 15% of your household income into your retirement (varies fro
 
 E. Save for your children (varies based on their expected education and lifestyle):
 
-- Save for [your children](parenting-2_children.md) only after you've accumulated enough to survive through your retirement:
+- Save for [your children](parenting-children.md) only after you've accumulated enough to survive through your retirement:
   - You should be able to live off your asset growth without having to dip into the principal you've invested.
   - You will burden your children tremendously later in their lives if you require them to support you.
   - Their [college](jobs-college.md) doesn't guarantee success, but expecting them to take care of you increases their chances of failure.

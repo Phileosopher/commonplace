@@ -72,7 +72,7 @@ Beyond deacons, church elders have a few additional qualifications:
 
 - [Reputable](image.md) among the Church and non-believers.
 - Monogamous and faithful to his wife.
-- If he has [children](parenting-2_children.md), they're *also* Christians with a good [reputation](image.md).
+- If he has [children](parenting-children.md), they're *also* Christians with a good [reputation](image.md).
 
 Finally, the church pastors/overseer have even *more* criteria:
 

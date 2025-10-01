@@ -97,7 +97,7 @@ Most legal issues come through inappropriate behavior or inappropriate [boundari
 
 Extend your legal risk calculations to people and things that go beyond you.
 
-- You can often be held legally liable for the consequences of [pets](fun-pets.md), [employees](mgmt-1_why.md), [children](parenting-2_children.md), [vehicles](autos.md), and [property](home-maintenance.md) associated with your name.
+- You can often be held legally liable for the consequences of [pets](fun-pets.md), [employees](mgmt-1_why.md), [children](parenting-children.md), [vehicles](autos.md), and [property](home-maintenance.md) associated with your name.
 
 Your silence may exonerate you.
 

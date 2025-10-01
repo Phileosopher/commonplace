@@ -11,7 +11,7 @@ A. You bought or inherited a house you can't afford.
 
 B. You're no longer satisfied with the house or your lifestyle needs have changed.
 
-- [Your family](parenting-1_babies.md) is now too big for your house.
+- [Your family](parenting-babies.md) is now too big for your house.
 - The house has become [too much trouble to maintain](home-housekeeping.md).
 - Now that [the children moved out](parenting-3_teenagers.md), the house is too big.
 - The house has too many [painful memories](hardship-ptsd.md) attached to it.
@@ -19,7 +19,7 @@ B. You're no longer satisfied with the house or your lifestyle needs have change
 C. The house is too expensive to maintain.
 
 - [New work opportunities](jobs-1_why.md) require you to frequently travel far away.
-- [Your child](parenting-2_children.md) would benefit from a better school district.
+- [Your child](parenting-children.md) would benefit from a better school district.
 - The house is worth more than you owe on it, and you'd like to [reinvest](money-investing.md).
 
 When you want to sell, think like a retailer.
@@ -257,7 +257,7 @@ Strike a balance between "for sale" and "inhabited":
 - Put things away as soon as you're finished with them.
 - Have a small to-do list for any prospective buyers stopping by.
 - Have your [pets](fun-pets.md) live somewhere else until escrow opens.
-- Keep your children out of trouble and [motivate them](parenting-2_children.md) to help with everything.
+- Keep your children out of trouble and [motivate them](parenting-children.md) to help with everything.
 
 Before the buyers come, bake something that smells pleasant or burn scented candles.
 

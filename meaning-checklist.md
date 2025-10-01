@@ -81,7 +81,7 @@ Have you taken a day off?
 
 Have you attended a church or club?
 
-Have you played with a [child](parenting-2_children.md) or [pet](fun-pets.md)?
+Have you played with a [child](parenting-children.md) or [pet](fun-pets.md)?
 
 ## Occasional Physical
 

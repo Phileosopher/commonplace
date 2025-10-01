@@ -159,7 +159,7 @@ Discuss every negotiable benefit you want:
 - If you can't control if the job stops existing, ask for a guaranteed severance package.
 - If you want it, ask for an office with a window.
 - Request tuition reimbursement or on-the-job training to offset the costs of building your skills.
-- Ask for [daycare/childcare](parenting-2_children.md) reimbursement.
+- Ask for [daycare/childcare](parenting-children.md) reimbursement.
 - If you want more preparedness for life's uncertainties and room for [creativity](mind-creativity.md), ask for flexible scheduling or additional vacation time.
 - If the job can be done remotely with a computer, ask for a remote work schedule or partial in-person workweek.
 

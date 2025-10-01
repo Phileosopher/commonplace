@@ -14,7 +14,7 @@ The qualifications of elders are *more* severe than general [spiritual mentors](
 - Doesn't love power for its own sake, especially [money](power-types.md).
 - Soundly [understands](understanding.md) the Bible as he was taught.
 
-No matter *what* you do, prioritize your [family](people-family.md), especially your [wife](relationships-marriage.md) and [children](parenting-2_children.md).
+No matter *what* you do, prioritize your [family](people-family.md), especially your [wife](relationships-marriage.md) and [children](parenting-children.md).
 
 - Your children will see your private life more than anyone else you lead, and how you treat them is the most controllable thing you can do for your ministry's [legacy](legacy.md).
 - In any ministry, leaders' wives are the most vulnerable because others expect her performance, but don't tend to give her much support.

@@ -15,7 +15,7 @@ Like everything else we perceive, we tend to observe gender differences as compl
 - Men don't value [friendships](people-friends.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
 - Women don't persevere with [decisions](decisions.md) as much as men because their nature is to revisit them for verification.
 
-The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-1_babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
+The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
 
 Those facts create a framing of [understanding](understanding.md) that build the [logic](logic.md) into dramatically different results:
 

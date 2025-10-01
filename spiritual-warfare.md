@@ -102,7 +102,7 @@ If he can't destroy someone any longer, he'll find ways to entice and bring down
 - He'll test someone's patience by intensifying conflict or magnifying particular sensations.
 - The Satan will work progressively from closest to furthest affiliations.
 - As much as you can, pray for their protection and for God to deliver them ([Matthew 6:13](https://biblehub.com/matthew/6-13.htm)).
-- [Children](parenting-1_babies.md) are an *enormous* distraction, mostly because tempting children is easy and because parents' biological wiring is configured to protect them.
+- [Children](parenting-babies.md) are an *enormous* distraction, mostly because tempting children is easy and because parents' biological wiring is configured to protect them.
 
 ## Anyone can detect demonic activity
 

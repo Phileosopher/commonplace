@@ -178,7 +178,7 @@ C. High-level deciders
 
 ## Treat the workers kindly
 
-Large organizations feel so monolithic that we forget that workers have [families](parenting-2_children.md), [hobbies](fun.md), nonwork interests, and likely a [sense of humor](humor.md).
+Large organizations feel so monolithic that we forget that workers have [families](parenting-children.md), [hobbies](fun.md), nonwork interests, and likely a [sense of humor](humor.md).
 
 Whenever possible, try to connect with them:
 

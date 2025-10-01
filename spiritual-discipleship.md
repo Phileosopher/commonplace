@@ -16,7 +16,7 @@ Jesus builds every Christian up to become a self-[leader](mgmt-church.md):
 Discipleship is one-on-one mentorship, teaching, and advising.
 
 - You simply don't have enough resources to disciple and mentor more than 3-4 people at any one time.
-- If you're a parent, your [non-adult children](parenting-2_children.md) are part of those 3-4 person limit.
+- If you're a parent, your [non-adult children](parenting-children.md) are part of those 3-4 person limit.
 
 ## Be prepared
 

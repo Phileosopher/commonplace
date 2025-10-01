@@ -419,7 +419,7 @@ Deliver criticism correctly:
 When applicable, give them free access to grow and develop their skills.
 
 - Finance their growth by paying for books, courses, and conferences.
-- Even secondary or unrelated training (e.g., [improving productivity](success-4_routine.md) or [parenting](parenting-1_babies.md)) can instill confidence that you care about them as people more than simply the tasks they perform.
+- Even secondary or unrelated training (e.g., [improving productivity](success-4_routine.md) or [parenting](parenting-babies.md)) can instill confidence that you care about them as people more than simply the tasks they perform.
 
 Avoid routine performance reviews if at all possible.
 

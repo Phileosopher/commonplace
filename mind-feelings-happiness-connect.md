@@ -43,7 +43,7 @@ Open yourself to new social challenges:
 - Get more connected with your community
 - Get a [pet](fun-pets.md).
 - Make a deeper commitment with your [life partner](relationships-marriage.md).
-- [Have children](parenting-2_children.md) or adopt.
+- [Have children](parenting-children.md) or adopt.
 - Reach out to one person each month who inspires you.
 
 ## Find a healing environment
@@ -151,4 +151,4 @@ C. Clarify expectations with the other members and plan together:
 
 If all this fails, go back to Step A or find a new group.
 
-One of the clearest indicators of successfully framing a healing environment will come through [how children respond](parenting-2_children.md) in that social dynamic.
+One of the clearest indicators of successfully framing a healing environment will come through [how children respond](parenting-children.md) in that social dynamic.

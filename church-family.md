@@ -32,7 +32,7 @@ While it never excuses [bad boundaries](people-boundaries.md), the Bible implies
 
 1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))
 2. [Spouse](gender.md), even when you can't stand them, they [sin](morality-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/bsb/ephesians/5.htm))
-3. [Children](parenting-2_children.md), with no partiality, irrespective of genetics, until they are adults, along with extended family who are helpless
+3. [Children](parenting-children.md), with no partiality, irrespective of genetics, until they are adults, along with extended family who are helpless
 4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/bsb/matthew/12.htm))
 5. Suffering people like the poor, orphans, and widows ([James 1:27](https://biblehub.com/james/1-27.htm))
 6. All official authority figures ([Romans 13:1-7](https://biblehub.com/bsb/romans/13.htm))
@@ -80,14 +80,14 @@ Children should obey their parents, and fathers shouldn't provoke their children
 
 - Spoiled children bring shame to a family ([Proverbs 29:15](https://biblehub.com/proverbs/29-15.htm)).
 - Children learn to obey their parents through discipline ([Proverbs 29:17](https://biblehub.com/proverbs/29-17.htm)).
-- All the [rules of good parenting](parenting-2_children.md) apply to Christian households, but with *much* more [love](people-love.md), and with a more profound awareness of [our sin condition](morality-sins.md).
+- All the [rules of good parenting](parenting-children.md) apply to Christian households, but with *much* more [love](people-love.md), and with a more profound awareness of [our sin condition](morality-sins.md).
 
 Until they are adults, a parent's most important ministry is their children.
 
 - No matter who you are, your role as a parent is to [lead them](spiritual-discipleship.md) through example, because they see your *entire* life.
 - They will have many years to observe whether you have a genuine love for Christ.
 - When they're ready, you're responsible to [lead them to Christ](jesus-gospel.md).
-- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-2_children.md) ([1 Timothy 3:4-5](https://biblehub.com/bsb/1_timothy/3.htm)).
+- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) ([1 Timothy 3:4-5](https://biblehub.com/bsb/1_timothy/3.htm)).
 
 Teach children about God.
 

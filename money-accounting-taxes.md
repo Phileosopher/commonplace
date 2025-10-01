@@ -174,7 +174,7 @@ The US income tax code is configured to [socially engineer](rules.md) a specific
 - [Teachers](education.md) > other [careers](jobs-specialization.md)
 - Going to [college](jobs-college.md) > skilled trade
 - Maxing out [retirement account](money-investing.md) contributions
-- [Parents](parenting-1_babies.md) of 2-3 children who stay home and go to college
+- [Parents](parenting-babies.md) of 2-3 children who stay home and go to college
 
 ## Other taxes
 
@@ -238,7 +238,7 @@ Tax treatments aren't technically "accounts", they earmark assets to specify uni
 3. After-tax treatments:
    - Taxing the investment beforehand means the returns aren't taxed (e.g., Roth IRAs, Roth 401(k)).
    - This is ideal if you're making less than when you'll retire.
-   - If a [parent](parenting-2_children.md), consider the Coverdell Education Savings Account (ESA).
+   - If a [parent](parenting-children.md), consider the Coverdell Education Savings Account (ESA).
      - As long as the money pays for college or education-related expenses, withdrawals don't have any tax liability.
      - Never buy an ESA that freezes options or automatically changes the investment from the age of the child.
 

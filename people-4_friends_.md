@@ -268,7 +268,7 @@ Broaden communication with them when possible:
 
 Often, if you can't find a friend, you're simply not going to places you'd find someone with one of your shared interests:
 
-- Most people who [advance their career](jobs-1_why.md) and [start having children](parenting-1_babies.md) simply don't have *time* to find friends compared to when they were schoolchildren or in college.
+- Most people who [advance their career](jobs-1_why.md) and [start having children](parenting-babies.md) simply don't have *time* to find friends compared to when they were schoolchildren or in college.
 - While most people don't change their situation, anyone can change their situation within 6 months:
   - Sit outside your home and make small talk with every single person who comes by.
   - Throw a block party and invite *all* your neighbors.

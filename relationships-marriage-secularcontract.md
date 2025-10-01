@@ -82,7 +82,7 @@ I will maintain my intimacy with you, even when we're older and less attractive.
 
 - I will not withhold physical intimacy from you if you desire it.
 
-In the event of [a child](parenting-1_babies.md), I will work with you to the best of my ability to take care of that child.
+In the event of [a child](parenting-babies.md), I will work with you to the best of my ability to take care of that child.
 
 - The conditions I've given to you (honor, cherish, et al.) will be expanded in various forms towards love for that child.
 

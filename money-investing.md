@@ -367,7 +367,7 @@ Pulling all your money out at once is a terrible idea because you'll immediately
   1. Tax loss harvest all losses.
   2. Donate capital gains to offset any taxes on other gains.
   3. [Live frugally](money-saving.md) to take more advantage of markets.
-- If you do well, you can deliver wealth to your [next of kin](parenting-1_babies.md).
+- If you do well, you can deliver wealth to your [next of kin](parenting-babies.md).
 
 In general, a good investing/retirement strategy should involve:
 

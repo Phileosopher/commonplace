@@ -10,7 +10,7 @@ To withstand the journey, get a high-quality wheeled suitcase and a lightweight,
 Arrange for everything in your absence:
 
 - Have someone watch your house and if you have a [pet](fun-pets.md), arrange for a sitter
-- Arrange for [childcare](parenting-1_babies.md) if your child isn't going
+- Arrange for [childcare](parenting-babies.md) if your child isn't going
 - Ask the post office to hold your mail
 - Empty your fridge
 

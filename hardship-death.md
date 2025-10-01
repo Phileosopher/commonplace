@@ -1,6 +1,8 @@
 
 # How to handle death
 
+We don't like to think about death. It's a bit [discomforting](mind-feelings-fear.md) because we can't know anything for certain about what happens after it. It's inevitable, however, and we tend to tune it out to accomplish day-to-day tasks.
+
 ## Why think about death?
 
 Death is the inevitable reality for when one of our body parts breaks down without a suitable replacement.
@@ -99,7 +101,7 @@ Give yourself as much time as necessary to grieve:
 
 - Clear your calendar of *everything* you planned to do that isn't urgent.
 - Postpone every important decision for as long as you can.
-- If it's the death of someone younger than you (e.g., [your child](parenting-1_babies.md), niece/nephew), it will be particularly difficult.
+- If it's the death of someone younger than you (e.g., [your child](parenting-babies.md), niece/nephew), it will be particularly difficult.
 - However, for some people, grief isn't really that difficult, so don't feel shame if you only grieved for a small time.
 
 When someone dies, everyone around you will *constantly* re-remind you:

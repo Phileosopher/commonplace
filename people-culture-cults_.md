@@ -4,7 +4,7 @@ A cult is a relatively recent broad term representing a wide variety of concepts
 1. A [religion](religion.md) someone regards as unorthodox or spurious.
 2. Great [devotion](addiction.md) to a [person](humanity.md), [idea](values.md), [object](reality.md), [movement](trends.md), or [work](creations.md).
 3. A [small group](groups-small.md) who identify heavily with the above.
-4. A [formal system](logic.md) of religious beliefs and rituals.
+4. A [formal system](logic.md) of religious beliefs and rituals that veers into [taboo](morality-taboo.md) behavior.
 
 Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively](mind-feelings.md) know it when we see it, but have a hard time [defining it](language.md).
 
@@ -14,6 +14,8 @@ In short, a cult is most easily defined as "[group](groups-small.md) [gaslightin
 2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
 3. A [strict](rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
 4. The group violates members' [rights and boundaries](people-boundaries.md) while also redefining the [members'](groups-member.md) thoughts and feelings
+
+APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](rules.md) society that advances genocide.
 
 ## Undue influence
 
@@ -81,13 +83,13 @@ Only a specific group of [personalities](personality.md) will *ever* [choose](de
 
 However, long-term cults will adopt a few other types of people:
 
-- Cluster B personality disorders will join a cult for [personal gain](purpose.md).
+- [Cluster B personality disorders](mind-neurodivergence.md) will join a cult for [personal gain](purpose.md).
 - People [suffering severe hardship](hardship.md) will join cults if they think that's their only option.
 - Anyone born into a cult [family](people-family.md) will adopt the [lifestyle](people-culture.md) and a severe [false self](personality.md) which conforms to the above simply to survive.
 
 Usually, joining a cult requires a large personal sacrifice.
 
-- This sacrifice ensures the member has found [meaning](meaning.md) for the rest of their interactions with the group, since their efforts will validate that the sacrifice was worth it.
+- This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
 - Further sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
 - Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries.md), or [agency](decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
@@ -184,6 +186,8 @@ By the end, the person has been transformed into a perfect extension of the lead
   - At the farthest end, they'll act on their thoughts of destroying the outside group and feel themselves to be "merciful" for performing the action.
 - Extreme mood swings, with love bombing and praise one moment and utter condemnation the next.
 
+APPLICATION: Gaslighting is a person trying to create a cult with a 1-person following.
+
 In a [larger cult](groups-large.md), the [classes](classes.md) of leader/follower are *explicitly* enforced with formalized titles and a rigid hierarchy. Any [disputes](people-conflicts.md) are *never* addressed among peers, and *always* involve the leadership making a directed decision.
 
 ## Power expressed
@@ -200,7 +204,9 @@ Some of these groups are patently obvious to anyone on the outside:
 - [Charming](influence.md) [religious](religion.md) leaders and [human potential](politics-leftism.md) leadership
 - [Multi-level marketing](marketing-mlm.md)
 - Extreme [political action](politics-conservativeliberal.md) groups
-- Abusive [family members](people-family.md) and [spouses](gender.md)
+- Abusive [family members](people-family.md) and [spouses](relationships-marriage.md)
+
+APPLICATION: Calling something a cult isn't very relevant because most things in life have their cult [subculture](people-culture.md). Instead, look at *who* calls it a cult.
 
 Generally, the public only notices cults when they violate [basic human rights](people-boundaries.md):
 
@@ -234,7 +240,23 @@ Some cults are vilified, but many cults can be endorsed by [strong authority fig
 
 In fact, while it's [taboo](morality-taboo.md) to say in many parts of the world, many governments themselves (frequently with their [media propaganda](stories-storytellers.md)) are cults altogether.
 
+The more [addicted](addiction.md) and isolated away from the rest of humanity, the more cult-like that group becomes. This has no limit, and can (but doesn't always) apply to many parts of society:
+
+- Geek subcultures
+- Hobby and political clubs
+- Church groups
+- Indigenous tribal societies
+- Small towns
+- Large corporations
+- Social media
+
+APPLICATION: All [addictions](addiction.md) are cults of 1+ people centered on that substance.
+
+APPLICATION: To take extreme ownership of your life, with your thoughts, is essentially grabbing control of yourself and making a "cult" of your [personality](personality.md), for yourself alone.
+
 [Amusingly](humor.md), in a free society, each [political party](politics-conservativeliberal.md) creates its own cult, then tends to call the other party a cult.
+
+APPLICATION: Because of the [range of our personalities](personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](people-culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
 
 ## Aftermath
 
@@ -255,29 +277,3 @@ The most powerful [influencers](stories-storytellers.md) to [bring down](people-
 
 - They must acknowledge they were partly responsible for submitting their [will](decisions.md) to another person.
 - They *also* must acknowledge they were a victim of that leader exploiting their [trust](trust.md).
-
-* * * * *
-
-## Application
-
-While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](rules.md) society that advances genocide.
-
-All [addictions](addiction.md) are cults of 1+ people centered on that substance.
-
-Gaslighting is a person trying to create a cult with a 1-person following.
-
-The more [addicted](addiction.md) and isolated away from the rest of humanity, the more cult-like that group becomes. This has no limit, and can (but doesn't always) apply to most parts of society:
-
-- Geek subcultures
-- Hobby and political clubs
-- Church groups
-- Indigenous tribal societies
-- Small towns
-- Large corporations
-- Social media
-
-Calling something a cult isn't very relevant because most things in life have their cult [subculture](people-culture.md). Instead, look at *who* calls it a cult.
-
-Because of the [range of our personalities](personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](people-culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
-
-To take extreme ownership of your life, with your thoughts, is essentially grabbing control of yourself and making a "cult" of your [personality](personality.md), for yourself alone.

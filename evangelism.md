@@ -285,7 +285,7 @@ Many political issues have very few grounds for a Christian to make an opinion o
 - Immigration
 - Foreign policy
 - [Election systems](politics-systems.md) and ballot fraud
-- Gay marriage (though gay [parenting](parenting-2_children.md) may have precedent)
+- Gay marriage (though gay [parenting](parenting-children.md) may have precedent)
 - Violence and sexual content in media
 - [War](people-conflicts-war.md), unless they run the country
 

@@ -14,7 +14,7 @@ Your life with that person is over, and you must accept that:
 
 Every relationship with your family and friends will change:
 
-- [Your children](parenting-2_children.md) will endure the hardship of losing their parents for the rest of their lives.
+- [Your children](parenting-children.md) will endure the hardship of losing their parents for the rest of their lives.
 - Your family and friends will be devastated by the news, and some will judge you for it.
 
 If you have children in the situation, you *must* avoid mixing them further into it:

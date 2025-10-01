@@ -234,9 +234,9 @@ Accumulating possessions or wealth
 
 Acquiring [social status](image.md)
 
-[Having children](parenting-2_children.md)
+[Having children](parenting-children.md)
 
-- [Babies](parenting-1_babies.md)
+- [Babies](parenting-babies.md)
 - Having many children
 
 Acquiring various [forms of power](power-types.md)

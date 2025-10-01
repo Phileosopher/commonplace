@@ -120,7 +120,7 @@ E. Internalized shame accepts personal responsibility, but refuses to believe th
 - We often feel overwhelmed and react to the wrong things:
   - Feeling abandonment and rejection
   - Memories of perceived abuse and [trauma](hardship-ptsd.md)
-- Many times, we'll ruthlessly blame our [parents or guardians](parenting-1_babies.md):
+- Many times, we'll ruthlessly blame our [parents or guardians](parenting-babies.md):
   - Rejecting
   - Absent, Neglectful
   - Indifferent, Silent

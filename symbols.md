@@ -56,7 +56,7 @@ First, we hear the story to get 3 major data points:
 Then, we attach all the connections built into our memories from before we heard those ideas:
 
 1. "For sale -" is referring to an [advertisement](marketing.md), likely a classified or personal ad.
-2. Baby shoes are used for one purpose: [newborn babies](parenting-1_babies.md).
+2. Baby shoes are used for one purpose: [newborn babies](parenting-babies.md).
 3. Something that was never worn is obviously new, which reflects on the "for sale" part.
 
 We then ask questions about the entire thing, answering some of them along the way:

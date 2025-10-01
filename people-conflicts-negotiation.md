@@ -382,7 +382,7 @@ People typically need to say "no", so don't take it personally:
 
 - "No" is how we maintain the way things always have been, which means they feel unsafe and need to assert control.
   - Getting them to say "no" about something increases the chances they'll say "yes" later.
-  - The easiest form is to get them to say "no" to an obvious question about something that affects both of you the same way (e.g., "Do you want [our kids](parenting-2_children.md) to fail?").
+  - The easiest form is to get them to say "no" to an obvious question about something that affects both of you the same way (e.g., "Do you want [our kids](parenting-children.md) to fail?").
 - We tend to hear "no" as "no, in every way", but it has many alternative meanings:
   - "I am not yet ready to agree."
   - "You're making me feel uncomfortable."

@@ -84,7 +84,7 @@ The constant [uncertainties](trust.md) of seemingly mundane things, all the way 
 
 ## Expecting chaos
 
-Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-2_children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
+Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
 
 Some people, especially [some large-scale leaders](groups-large.md) and [entrepreneurs](socialrisk.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](trends.md) inside chaos with *astonishing* accuracy.
 

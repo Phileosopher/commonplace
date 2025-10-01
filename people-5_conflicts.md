@@ -136,9 +136,9 @@ When they may even *remotely* disagree, speak without certainty (e.g., "It appea
 Don't judge prematurely:
 
 - People may simply not understand that they're behaving rudely.
-- Most of the time, people have a [past childhood](parenting-2_children.md) that failed to prepare them for adult life.
+- Most of the time, people have a [past childhood](parenting-children.md) that failed to prepare them for adult life.
 - Sometimes, people have mental disorders that make them completely incapable of understanding how they're hurting anyone.
-- If you're in any position of authority (e.g., [parent](parenting-2_children.md), [manager](mgmt-1_why.md)), be even *slower* to judge than normal, since plenty of consequences could sit on your judgments.
+- If you're in any position of authority (e.g., [parent](parenting-children.md), [manager](mgmt-1_why.md)), be even *slower* to judge than normal, since plenty of consequences could sit on your judgments.
 
 If you know someone is lying to you:
 

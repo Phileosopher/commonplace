@@ -16,7 +16,7 @@ The human body is a system of systems:
 - Lymphatic/Immune system - fights foreign and potentially dangerous things within the body
 - Musculoskeletal system - helps the body move [mechanically](engineering.md)
 - Nervous system - sends information back-and-forth between the brain and the rest of the body
-- Reproductive system - helps [make children](parenting-1_babies.md)
+- Reproductive system - helps [make children](parenting-babies.md)
 - Respiratory system - takes in oxygen, expels carbon dioxide
 - Renal/Urinary system - dissolves waste products in the blood and expels them as urine
 
@@ -104,7 +104,7 @@ Some carcinogens exist in most food, on surfaces, and even the air, but our live
 
 Regular exposure to small amounts of toxins (hormesis) will often make us *stronger*.
 
-- To avoid peanut allergies in children, expose them to peanut butter during [infancy](parenting-1_babies.md).
+- To avoid peanut allergies in children, expose them to peanut butter during [infancy](parenting-babies.md).
 
 However, chronic exposure to some toxins can be *very* devastating.
 

@@ -8,7 +8,7 @@ Mind the impression you give.
 
 Watch for mandatory reporters.
 
-- Mandatory reporters are required by most states' laws to notify of any suspicions they have about specific activities, especially pertaining to [children](parenting-1_babies.md) and [the elderly](hardship-death.md).
+- Mandatory reporters are required by most states' laws to notify of any suspicions they have about specific activities, especially pertaining to [children](parenting-babies.md) and [the elderly](hardship-death.md).
 - Some examples of mandatory reporters are school faculty, medical personnel, social workers, military, psychological counselors, and police officers.
 - In the case of military and police officers, they can almost always hold things you say against you as a legitimate eyewitness account in a court hearing, as well as arrest you.
 - Generally, the farther [left-leaning](politics-leftism.md) a nation gets, the more places that society establishes mandatory reporters.

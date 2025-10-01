@@ -79,6 +79,6 @@ Therapy or counseling (if you've experienced [hardship](hardship.md))
 
 Cloud storage subscription
 
-Costco or Sam's Club membership (if you [have children](parenting-1_babies.md))
+Costco or Sam's Club membership (if you [have children](parenting-babies.md))
 
 Roadside assistance

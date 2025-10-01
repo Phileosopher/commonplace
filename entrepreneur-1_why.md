@@ -4,9 +4,9 @@
 Entrepreneur is a French word literally translated as someone who "enters into [an undertaking](socialrisk.md)" into business for themselves.
 
 - They *must* take legitimate [risks](socialrisk.md) to advance their [organization](groups-small.md).
-- A small business requires the same amount of consistent, steady maintenance as a [baby](parenting-1_babies.md).
+- A small business requires the same amount of consistent, steady maintenance as a [baby](parenting-babies.md).
 
-Outside of [parenting](parenting-2_children.md), a small business is the largest personal sacrifice a person can ever make.
+Outside of [parenting](parenting-children.md), a small business is the largest personal sacrifice a person can ever make.
 
 - The sacrifice will require at least four years of obsessive devotion, with the possibility of *decades* of extra work, up to and possibly after retirement.
 
@@ -130,4 +130,4 @@ Many disciplines parallel an entrepreneur's, and most of them typically visit at
 - Professional [writers](language-writing.md), especially fiction writers.
 - [Media](stories-storytellers.md) professionals and [public speakers](language-speaking.md).
 - [Leaders](mgmt-1_why.md) in nonprofit organizations or churches.
-- [Homeschooling](education-homeschool.md) [parents](parenting-2_children.md).
+- [Homeschooling](education-homeschool.md) [parents](parenting-children.md).

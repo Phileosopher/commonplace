@@ -86,7 +86,7 @@ The limits of our abilities to [understand](understanding.md) and teach have an 
 In practice, beyond [great communication skills](people-conversation.md), every moderately successful teacher will always employ a few proven principles:
 
 1. Only teach what the learner wants to learn and, if it's mandatory, [inspire them](influence.md) through explaining *why* they should learn it.
-2. Instruction must begin [as early as possible](parenting-1_babies.md) before people develop bad [habits](habits.md) from bad [ideas](values.md).
+2. Instruction must begin [as early as possible](parenting-babies.md) before people develop bad [habits](habits.md) from bad [ideas](values.md).
 3. Nothing is [taboo](morality-taboo.md). Listen carefully to every question and answer them all.
 4. Describe things where a [small child](maturity.md) can understand, no matter the audience. Then, work up into specifics and challenges.
 5. Even with deadlines, never rush anything.
@@ -202,7 +202,7 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 ## Prevailing
 
-The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-2_children.md).
+The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
 APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](trends.md) by seeking the [compromise](conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
 

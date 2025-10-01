@@ -28,7 +28,7 @@ Boredom is the best time to have fun:
 
 - Boredom is typically from not being [creative](mind-creativity.md) in that moment.
 - We tend to lose our creative edge as we get older.
-  - [Children](parenting-2_children.md) can typically have fun with anything, anywhere.
+  - [Children](parenting-children.md) can typically have fun with anything, anywhere.
 - Consuming tons of media (as opposed to creating) inhibits our ability to have fun.
 - Boredom often compounds because our boredom tends to bore others.
 
@@ -86,7 +86,7 @@ If you don't believe you're particularly funny, it's a trainable skill:
 Games are simplified life:
 
 - Games, like life, have [rules](rules.md), requirements, [conflicts](people-5_conflicts.md), [social interaction](people-1_why.md), [challenges](success-3_goals.md), and [resource management](power-types.md).
-- Throughout life starting from early [childhood](parenting-2_children.md), playing games has many psychological benefits.
+- Throughout life starting from early [childhood](parenting-children.md), playing games has many psychological benefits.
 
 Since they're the most interactive and give the most feedback, play games that require hand-eye coordination.
 

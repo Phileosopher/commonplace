@@ -93,7 +93,7 @@ Lifestyle:
 - Do you/they enjoy physically challenging activities?
 - How much interest and enjoyment do you/they get out of the physical act of sex?
 - What is your/their attitude towards [physical health](body-4_health.md) in general?
-- What is your/their desire regarding safely and securely [raising a family](parenting-1_babies.md)?
+- What is your/their desire regarding safely and securely [raising a family](parenting-babies.md)?
 - How [efficient](success-4_routine.md), productive and [driven towards self-improvement](success-1_why.md) are you/they?
 - How physically attractive do you/they feel?
 
@@ -112,7 +112,7 @@ Current relationship skills:
 Values and beliefs:
 
 - How important is [spiritual expression and beliefs](religion.md) to you/them?
-- How interested are you/they in [raising children](parenting-1_babies.md)?
+- How interested are you/they in [raising children](parenting-babies.md)?
 - How [traditional](people-culture.md) are you/they?
   - How important are morality and personal values to you/them?
   - How much do you/they want to be involved in church?
@@ -638,13 +638,13 @@ Most cultures imply a relationship is a testing ground for marriage:
 
 - It takes 2-4 years to thoroughly get to know someone.
 - While a relationship is generally low-commitment, marriage is a major and (hopefully) permanent life decision.
-- Don't listen to to the social pressure to marry, since people will push [having children](parenting-1_babies.md) and [buying a house](home-buy.md) later the same way.
+- Don't listen to to the social pressure to marry, since people will push [having children](parenting-babies.md) and [buying a house](home-buy.md) later the same way.
 
 Some cultures expect marriage a few months from meeting, but others expect 3-5 years of dating before even considering it, but you should seriously consider and decide after about a year.
 
 Marriage is a *huge* decision, but always the best one with the right person:
 
-- Marriage is the foundation for a [family](parenting-2_children.md).
+- Marriage is the foundation for a [family](parenting-children.md).
 - Society almost always endorses it, and often even gives [tax benefits](money-1_why.md) for it.
 - Even when parents don't approve, they'll usually get over it.
 - Further, a bad marriage can become a good marriage later if both sides are willing to work at it.
@@ -674,7 +674,7 @@ Some reasons are *terrible* to get married over:
 If you're sure you want to get married, don't hesitate:
 
 - Weddings [don't cost as much as you might think](relationships-weddings.md).
-  - Financially, marriage is cheaper than singleness, at least until [children](parenting-1_babies.md).
+  - Financially, marriage is cheaper than singleness, at least until [children](parenting-babies.md).
 - You'll *never* fully understand that person, so all you need to know is whether they're a decent fit for the rest of your life.
   - While you could theoretically keep looking, you're not getting younger.
   - Both of you [building on that marriage](habits.md) is more important than what you started with.

@@ -5,7 +5,7 @@ Having a car is *very* useful, but it should match your lifestyle.
 
 - Cars save time, but create additional expenses, which may lead to less freedom for some people.
 - If you don't have much money, consider using public transportation, a bicycle, motorcycle, or a motorized scooter/moped.
-- Even when you're [raising a family](parenting-1_babies.md), you typically only *need* 1 vehicle.
+- Even when you're [raising a family](parenting-babies.md), you typically only *need* 1 vehicle.
 
 Make sure your [budget](money-3_budget.md) reflects its unspoken additional costs:
 
@@ -16,7 +16,7 @@ Make sure your [budget](money-3_budget.md) reflects its unspoken additional cost
 
 Only get a *second* auto for the right reasons:
 
-- You need multiple vehicles for [a growing family](parenting-2_children.md).
+- You need multiple vehicles for [a growing family](parenting-children.md).
 - You don't trust your current vehicle to reliably navigate from one place to another.
 - Your time is important, so you want a [risk management solution](safety-riskmgmt.md) if your car fails.
 

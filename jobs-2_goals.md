@@ -64,7 +64,7 @@ Careers are inherently unpredictable:
 Many employers simply want someone to do what they tell them to:
 
 - The person must be intelligent or experienced enough to do the job, but doesn't question their established methods.
-- You're a valuable resource, and employers can only contract for *specific* parts of what you can do, so don't expect to find a boss who will value you as much as a [parent](parenting-2_children.md) can.
+- You're a valuable resource, and employers can only contract for *specific* parts of what you can do, so don't expect to find a boss who will value you as much as a [parent](parenting-children.md) can.
 - No matter what, *every* job involves making your boss look good.
 
 Even in a long-distance remote-work culture, face-to-face time is crucial to [close a deal](people-5_conflicts.md), so be prepared to travel.
