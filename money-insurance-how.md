@@ -145,7 +145,7 @@ Life insurance
   - Whole life insurance - lasts all the way to the end of a person's life
     - Universal life insurance is like whole life insurance, but with more features
 - Near the end of your life, your life insurance needs should *not* be significant.
-  - Beyond [burial costs](hardship-death.md) and [caring for your spouse](relationships-3_marriage.md), you won't need it.
+  - Beyond [burial costs](hardship-death.md) and [caring for your spouse](relationships-marriage.md), you won't need it.
 - Children's life insurance should only serve to cover burial expenses.
 - Whole life insurance is almost always *much* pricier than term life insurance.
 - Most people are completely unaware of the details of their life insurance policy.

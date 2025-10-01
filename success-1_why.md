@@ -92,7 +92,7 @@ Don't compare yourself to others:
 
 Everything in the physical world changes, decays, and [becomes obsolete](trends.md).
 
-Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-1_why.md), [large organizations](groups-large.md)).
+Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-why.md), [large organizations](groups-large.md)).
 
 The most long-lasting success involves self-discipline:
 

@@ -109,7 +109,7 @@ Spend some time with a child or elderly person
 
 Vent to a best friend
 
-If you're [married](relationships-3_marriage.md), have sex
+If you're [married](relationships-marriage.md), have sex
 
 Share with others who won't judge or condemn you
 

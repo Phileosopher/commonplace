@@ -110,7 +110,7 @@ The Tempest
   - High self-referential of theater life, with the idea of the theater and portraying various forms shown throughout.
   - Magic, as a clear discipline akin to [science](science.md), is showcased, with a dualistic white/black magic distinction.
 - MODERN COMPARISONS:
-  - While [power-based](power.md) [marriages](relationships-3_marriage.md) aren't fashionable anymore, reproduces the aspect of gaining power via
+  - While [power-based](power.md) [marriages](relationships-marriage.md) aren't fashionable anymore, reproduces the aspect of gaining power via referral.
   - The spirit's journey is essentially Disney's Aladdin.
 
 Twelfth Night
@@ -136,7 +136,7 @@ The Two Gentlemen of Verona
   9. D and WM are brought in by O. WM claims ND as his, but YM warns he'll kill him if he makes a move toward her. In terror, WM renounces his claim. N is disgusted by WM's cowardice and impressed by YM's actions, approves YM's and ND's love, and consents to their marriage. The two couples are happily united and N pardons O, meaning they may return to the big city.
 - THEMES:
   - It explores the distinction and prioritization of [romantic love](people-love.md) versus [friendship](people-4_friends.md).
-  - It also explores the utter stupidity inherent to [being in love](relationships-1_why.md).
+  - It also explores the utter stupidity inherent to [being in love](relationships-why.md).
   - The friend conveys the theme of inconstancy, where he goes back on his word because his [feelings](mind-feelings.md) take over.
 - MODERN COMPARISONS:
   - Most modern romance stories are simplified distillations, with the wealthy man omitted (and the focus on the friend's betrayal) or the friend omitted (and the wealthy man as the antagonist against the love interest's favor).

@@ -3,7 +3,7 @@
 
 Marriage is on the decline, partly because most people aren't aware of the scope of their duties when they consent to a marriage.
 
-This is a [contractual agreement](people-contracts.md) between the two counterparties in a [marital union](relationships-3_marriage.md).
+This is a [contractual agreement](people-contracts.md) between the two counterparties in a [marital union](relationships-marriage.md).
 
 It has been stripped of [religious association](religion-answers.md), which generates the motivation for marriage but doesn't always clarify the implications.
 
@@ -48,7 +48,7 @@ To the farthest possible, I will be your [friend](people-4_friends.md).
 - My [sentiment](mind-feelings.md) runs strongly for you, and I intend to maintain at least some of that sentiment for the rest of my life.
 - To the degree it is possible, I will strive to assist in your [happiness](mind-feelings-happiness.md) and [success](success-1_why.md).
 
-We've had at least some play and fun that has brought us together, and I will continue [dating you](relationships-2_dating.md) to keep that relational aspect.
+We've had at least some play and fun that has brought us together, and I will continue [dating you](relationships-dating.md) to keep that relational aspect.
 
 Our greatest defects of character will represent themselves.
 

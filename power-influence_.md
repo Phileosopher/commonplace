@@ -121,7 +121,7 @@ We don't often see it, but the [image](image.md) we're trying to convey as we're
 
 Often, people who can manage their [fear](mind-feelings-fear.md) discover [opportunities](purpose.md) hiding behind a crisis:
 
-- A [relationship conflict](relationships-3_marriage.md) becomes a chance to answer [questions](understanding.md).
+- A [relationship conflict](relationships-marriage.md) becomes a chance to answer [questions](understanding.md).
 - A bad [trend](trends.md) like an [economic](economics.md) crisis or health scare is a perfect time to [invest](money-investing.md).
 
 These people frequently become [leaders](groups-large.md) and heroes, depending on the circumstances. If they ever fall from that position (i.e., their [humanity](humanity.md) is expressed for what it really is), we tend to never forgive them.

@@ -25,7 +25,7 @@ The name for a thing holds tremendous [power](power.md) through giving [certaint
 
 ## Shifting
 
-Whenever we experience new [changes](people-changes.md), our identity will likely change. In fact, major components of [personalities](personality.md) change whenever people make life decisions like [marry](relationships-3_marriage.md) or [move](home-moving.md).
+Whenever we experience new [changes](people-changes.md), our identity will likely change. In fact, major components of [personalities](personality.md) change whenever people make life decisions like [marry](relationships-marriage.md) or [move](home-moving.md).
 
 Identity fluctuates and shifts around all the time, and is a product of continuous [learning](understanding.md) and [growth](people-changes.md).
 

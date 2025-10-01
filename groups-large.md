@@ -167,7 +167,7 @@ Taxing, especially, will broadly destroy [purposes](purpose.md):
 
 APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resident of the USA to become the following:
 
-1. [Married](relationships-3_marriage.md) with 2-3 [children](parenting-2_children.md)
+1. [Married](relationships-marriage.md) with 2-3 [children](parenting-2_children.md)
 2. [College](jobs-college.md) graduates with a [student loan](money-2_debt.md)
 3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
 4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buy.md)

@@ -30,7 +30,7 @@ Many Christians, especially new ones, ask whether God permits something specific
     - Sabbatarians - Saturday (or Sunday in First-Day Sabbatarianism) *must* be honored to comply with God's law.
   - Eating certain [foods](cooking.md) (e.g., pork)
   - Drinking [alcohol](cooking.md)
-  - [Romance](relationships-1_why.md) before marriage
+  - [Romance](relationships-why.md) before marriage
   - Dancing
   - [Medical care](body-4_health.md) decisions
 

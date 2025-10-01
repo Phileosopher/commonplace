@@ -22,7 +22,7 @@ Finally, once you've severed ties, assess where you're at:
 
 Betrayal is one of the most difficult experiences to internalize:
 
-- If you were very intimate (e.g., [spouse](relationships-3_marriage.md), [business partner](entrepreneur-1_why.md)), you may feel the [trauma](hardship-ptsd.md) for years.
+- If you were very intimate (e.g., [spouse](relationships-marriage.md), [business partner](entrepreneur-1_why.md)), you may feel the [trauma](hardship-ptsd.md) for years.
 
 Since it's so intimate, the feeling of betrayal frequently spills over into how we see ourselves.
 

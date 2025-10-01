@@ -140,7 +140,7 @@ Gluttony isn't merely from excess, and can often be from delicacy. [Western Chri
 - To counter God's command for selfless sacrifice, the Satan will often direct a selfish [purpose](purpose.md) to an internal dialogue that justifies how that action is somehow selfless.
 - Once someone is a [glutton](addiction.md), they'll lose all sense of goodness or kindness once a substance is removed. This can be strategically useful for disrupting an entire group [pursuing God's will](god-will.md), especially if it triggers that person's [shadow self](personality.md).
 
-God designed us to be sexually pure or monogamous, and the devil has spent hundreds of years building up the lie that being in love is the only true path to a good [marriage](relationships-3_marriage.md):
+God designed us to be sexually pure or monogamous, and the devil has spent hundreds of years building up the lie that being in love is the only true path to a good [marriage](relationships-marriage.md):
 
 - God designed genders to [complement each other](gender.md), but the devil provokes us to imagine relationships are a [power](power.md) game where one person *must* lose for the other to gain.
 - Marriage, sex, and [families](church-family.md) are a generational development of how God's love is supposed to play out, so the devil has a particularly strong agenda to destroy them.

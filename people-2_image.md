@@ -335,7 +335,7 @@ The simpler your outfit, the more straightforward you'll appear:
 Dress at or slightly above those around you:
 
 - If you overdress, make sure you're matching your appearance with better [speaking](language-speaking.md) than them.
-- As much as you can, try to coordinate with your [partner](relationships-3_marriage.md) if they're with you.
+- As much as you can, try to coordinate with your [partner](relationships-marriage.md) if they're with you.
 
 Aim to coordinate, but only somewhat:
 

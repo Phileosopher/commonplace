@@ -47,7 +47,7 @@ Your success as a parent comes from [your success in everything else](success-1_
 - Learn [self-awareness](awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
 - [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-2_image.md).
 - Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
-- Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-3_marriage.md).
+- Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-marriage.md).
 
 However, a *child's* success goes far beyond simply their parents:
 
@@ -63,7 +63,7 @@ Children will rarely thank their parents for their self-improvement until they'v
 Each new child adds new dynamics to the family:
 
 - When a child doesn't have siblings, they'll fail to learn how to [get along with others](people-rules.md) and [resolve disputes](people-5_conflicts.md) if their parents don't intentionally expose them to other children.
-- A [married couple](relationships-3_marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
+- A [married couple](relationships-marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
 - With three or more children, parents' attention is often split so heavily that each child may not receive enough attention from their parents.
 
 Because young children have limits with their understanding, adjust how you [speak](language-speaking.md) with them:
@@ -282,7 +282,7 @@ They must learn a wide variety of life skills:
 - Home skills like [cooking](cooking.md) and [housekeeping](home-housekeeping.md)
 - Self-maintenance skills like [hygiene](people-2_image.md) and [weight management](body-2_diet.md)
 - How to stay safe, both physically and [legally](legal-safety.md)
-- How to make responsible and healthy decisions later about [dating](relationships-2_dating.md), [relationships](relationships-3_marriage.md), and [having children of their own](parenting-1_babies.md).
+- How to make responsible and healthy decisions later about [dating](relationships-dating.md), [relationships](relationships-marriage.md), and [having children of their own](parenting-1_babies.md).
 - It's worth noting that, as a parent, they'll learn far more from your example than from anything you'll verbally teach them, and [they'll still have to discover it on their own](parenting-3_teenagers.md).
 
 Help them manage uncertainty and ambiguity:
@@ -780,7 +780,7 @@ Always address bad behaviors:
 
 - Never, ever reward bad behavior.
   - If you've relented and rewarded bad behavior, a child will learn they can get what they want if they persevere with enough bad behavior.
-  - Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-3_marriage.md), tons of love, and a community to consult for advice.
+  - Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-marriage.md), tons of love, and a community to consult for advice.
 - Closely consider their motivations, and don't be afraid of a [direct conflict](people-5_conflicts.md) with them.
 - If you have a reward for them planned for the future, do *not* make it something you or other family members will enjoy as well (e.g., an amusement park).
   - They might make a bad decision by that time, which will make the consequences very complicated.
@@ -1003,7 +1003,7 @@ Handle household chores correctly:
 - Instead of calling them "chores", consider them "contributions".
   - Contributions are daily or weekly things they must do to continue coexisting with the family, since life always requires at least some work.
   - By making them responsible to perform tasks in the household, they find meaning as part of a connected family.
-  - While this is controversial, studies have shown that children who don't do chores in the house are awful at [housekeeping](home-housekeeping.md) and tend to stay [single](relationships-1_why.md) throughout adulthood more often.
+  - While this is controversial, studies have shown that children who don't do chores in the house are awful at [housekeeping](home-housekeeping.md) and tend to stay [single](relationships-why.md) throughout adulthood more often.
 - Start with contributions as soon as they can walk.
   - Even if they're making a mess, let them do anything that's safe.
   - Work together with them, and make it a team effort.
@@ -1065,9 +1065,9 @@ To address [conflicts](people-5_conflicts.md) as soon as they arise, allow anyon
 
 Don't let the child's needs eclipse the rest of your home:
 
-- Keep your [marriage](relationships-3_marriage.md) a priority, since it affects how reliably you can be a parent.
+- Keep your [marriage](relationships-marriage.md) a priority, since it affects how reliably you can be a parent.
   - Children are intimately aware of their parents' relationship, sometimes more than the parents.
-  - Keep [date night](relationships-2_dating.md) a priority.
+  - Keep [date night](relationships-dating.md) a priority.
   - Kiss your spouse regularly in front of the children.
   - Continue affirming your love and gratitude.
 - Make a date night co-op with three other sets of parents to babysit once a month and date night for the other three weeks.

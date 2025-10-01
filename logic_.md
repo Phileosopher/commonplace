@@ -1,11 +1,17 @@
 
-Logic is structured thinking. Like all thinking, logic is a [story](stories.md), but very specific and highly well-organized.
+# What logic is
 
-Logic is an abstraction. Unlike [understanding](understanding.md), logic doesn't have to connect to [reality](reality.md). Thus, it can often be [useless](purpose.md).
+Logic is structured thinking. Like all thoughts, logic is a [story](stories.md), but very specific and highly well-organized.
 
-As a structure, logic builds on logic, but being human requires us to also integrate the most basic logic with [feelings and intuitions](mind-feelings.md).
+Logic is an abstraction. Unlike [understanding](understanding.md), logic doesn't have to connect to [reality](reality.md).
+
+APPLICATION: Logic has no bearing on reality, meaning it might be [useless](purpose.md).
+
+As a structure, logic builds on logic, but [the human condition](humanity.md) requires the most foundational logic structured on top of [feelings and intuitions](mind-feelings.md).
 
 We infer logic from everything, and everyone naturally forms all their thoughts with some form of logic. However, that logic may not link to reality, for various reasons. But, even when someone isn't sensible, they're still logical upon the framing of thought they've held.
+
+APPLICATION: 
 
 * * * * *
 

@@ -135,7 +135,7 @@ Spiritual Celibacy - Virginity outside of marriage is a purer state of existence
   3. Never leave your spouse, ever.
 - At the extreme, this can take the form of mandatory celibacy to join a church.
 - There is evidence in the Bible that being unmarried makes a person's [ministry](spiritual-discipleship.md) easier to perform, and that reconciling marriage is a good ideal ([1 Corinthians 7](https://biblehub.com/bsb/1_corinthians/7.htm)).
-  - But, everyone is [gifted differently](spiritual-gifts.md), and it's better to marry than burn with [romantic desire](relationships-1_why.md).
+  - But, everyone is [gifted differently](spiritual-gifts.md), and it's better to marry than burn with [romantic desire](relationships-why.md).
 - The idea often implies *all* marriages should reconcile without divorce.
   - In the case of clear abuse, it's clear someone should *not* live with their spouse if they're in any danger, but doesn't give license for divorcing.
   - Jesus *certainly* doesn't give free license to divorce or remarry, and remarriage will typically devastate another person in the process ([Matthew 19:7-10](https://biblehub.com/bsb/matthew/19.htm)).

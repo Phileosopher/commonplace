@@ -226,7 +226,7 @@ Delay all large purchases:
 
 Seek advice:
 
-- Ask your [significant other](relationships-3_marriage.md).
+- Ask your [significant other](relationships-marriage.md).
 - Talk with your [friends](people-3_respect.md).
 - [Pray](spiritual-exercises-prayer.md) on the decision.
 

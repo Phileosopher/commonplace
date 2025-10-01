@@ -35,7 +35,7 @@ You will need your life partner on the same page as you:
 - [Disagreements](people-5_conflicts.md) about money are normal.
   - The only solution is to talk through them.
   - Learn to compromise with your partner to succeed with them.
-- If you [can't trust your partner](relationships-3_marriage.md) with your money, separate your assets to avoid more misery.
+- If you [can't trust your partner](relationships-marriage.md) with your money, separate your assets to avoid more misery.
 
 Money conflicts take time and practice to work through:
 

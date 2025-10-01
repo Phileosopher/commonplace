@@ -22,12 +22,12 @@ There's no "ideal" number of children:
 - Generally, the *timing* of the children defines how much work they are more than how many (e.g., twins are harder than two children three years apart).
 - Most rural and impoverished [cultures](people-culture.md) expect at least four children.
 - Many urban and suburban cultures expect one or two children and consider three excessive.
-- Some people stay [married](relationships-3_marriage.md) but never want children.
+- Some people stay [married](relationships-marriage.md) but never want children.
   - In a society, it's ideal to have at *least* 2-3 children (averaged at 2.1 across everyone) to stay constant in relationship to [the death rate](hardship-death.md).
 
 Parenting is high-risk and high-reward because children directly mimic the positive *and* negative traits of their guardians:
 
-- If you're [self-aware](awareness.md), [have a good marriage](relationships-3_marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
+- If you're [self-aware](awareness.md), [have a good marriage](relationships-marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
 - As you fail, acknowledge your mistakes and flaws to your children and work as they grow to change them.
 - [Confront every issue](people-5_conflicts.md) as early on as possible.
   - While it's good to know what to expect before it happens, the children changing and growing *require* you to [creatively](mind-creativity-how.md) adapt to the situation.
@@ -39,7 +39,7 @@ Any preparation beforehand is worth the effort, but you'll still be overwhelmed:
 - New parents *always* [lose sleep](sleep.md), feel unappreciated, and must assume new responsibilities.
 - Mothers tend to feel an intense protective instinct and affection for their infant.
 - Fathers will often feel neglected by their wife from her constant preoccupation with the baby.
-- [Keep your relationship a priority](relationships-3_marriage.md) as you adapt to the new family member.
+- [Keep your relationship a priority](relationships-marriage.md) as you adapt to the new family member.
 
 Research and experience babies before having them:
 
@@ -225,7 +225,7 @@ If it's your first child, expect your relationships to change:
 Keep your marriage a priority:
 
 - Give the child routinely to a babysitter for one-on-one time.
-  - Parenting success comes through [marriage success](relationships-3_marriage.md).
+  - Parenting success comes through [marriage success](relationships-marriage.md).
 - Husbands will typically feel less important than the baby.
   - The issues won't resolve naturally with time, so it's the wife's responsibility to address his concerns.
 

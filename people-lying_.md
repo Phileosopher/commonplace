@@ -143,7 +143,7 @@ Liars must maintain more than one story:
 Frequent lying becomes habitual:
 
 - [Habits](habits.md) are difficult to break already, but lying is addictive because it can feel like a competition to "outsmart" others.
-- Nobody can trust liars, so they have a hard time with [keeping friends](people-4_friends.md) and [having intimate relationships](relationships-3_marriage.md).
+- Nobody can trust liars, so they have a hard time with [keeping friends](people-4_friends.md) and [having intimate relationships](relationships-marriage.md).
 - Because we're maintaining multiple false stories as part of our experience, lying makes wise decisions harder to discern.
 
 Lying makes it difficult to trust:

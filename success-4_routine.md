@@ -365,7 +365,7 @@ Irrelevant, unimportant, and non-urgent tasks *will* destroy your day if you don
 
 Remote work has both benefits *and* risks:
 
-- You're working in a familiar environment, so it might be less stressful, but only if you don't have [children](parenting-2_children.md) or a [spouse](relationships-3_marriage.md) interfering with your flow.
+- You're working in a familiar environment, so it might be less stressful, but only if you don't have [children](parenting-2_children.md) or a [spouse](relationships-marriage.md) interfering with your flow.
 - Your breaks are more enjoyable, but it's difficult to focus when you don't feel like working.
 - You have full control of your schedule, but you also have to viciously monitor the line between work and your personal life.
 

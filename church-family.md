@@ -45,14 +45,14 @@ Single people can serve God with fewer distractions ([1 Corinthians 7:6-7](https
 
 Deeply consider all possible romantic relationships.
 
-- [Marriage](relationships-3_marriage.md) is exceedingly challenging and has many risks of its own.
+- [Marriage](relationships-marriage.md) is exceedingly challenging and has many risks of its own.
 - Unwisely marrying guarantees a lifetime of misery ([Proverbs 21:9](https://biblehub.com/proverbs/21-9.htm)).
 - If you marry poorly and divorce, you've made things spiritually complicated ([Matthew 5:31-32](https://biblehub.com/bsb/matthew/5.htm)).
 - If you're in love, imagine a person never changing, then ask if you can live with that person for the rest of your time on earth, even when everything you love about them becomes annoying.
 
-Pick your [dates](relationships-2_dating.md) carefully.
+Pick your [dates](relationships-dating.md) carefully.
 
-- Don't [steadily date with](relationships-2_dating.md) or get in [relationships](relationships-3_marriage.md) with non-believers ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
+- Don't [steadily date with](relationships-dating.md) or get in [relationships](relationships-marriage.md) with non-believers ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
 - Even when someone is open-minded, they're more likely to frustrate you or steer you away from Christ than your efforts legitimately [changing](people-changes.md) them.
 - Non-believers are spiritually dead, so they'll usually find believers' spirituality attractive, for a season.
 - To discern a non-believer, observe their lifestyle more than what they say ([Matthew 7:15-20](https://biblehub.com/matthew/7.htm)).
@@ -72,7 +72,7 @@ A marriage relationship symbolizes Christ and the Church ([Ephesians 5](https://
 
 - God created men and women for [specific roles](gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/bsb/ephesians/5.htm)).
 - His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/bsb/ephesians/5.htm)), even [when she doesn't respect his role](gender.md).
-- Everything about healthy [*secular* marriage](relationships-3_marriage.md) applies to a Christian marriage, but with even more love.
+- Everything about healthy [*secular* marriage](relationships-marriage.md) applies to a Christian marriage, but with even more love.
 
 Children are an inherent blessing from God ([Psalm 127:3-5](https://biblehub.com/bsb/psalms/127.htm)), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).
 

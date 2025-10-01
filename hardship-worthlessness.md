@@ -54,7 +54,7 @@ A. [Toxic shame](mind-feelings-shame.md) is a complete non-acceptance of oneself
   - Compulsive and repetitive behaviors
   - Personal [failures](success-5_persevering.md), as well as *trying* to fail
   - Compulsive [lying](people-lying.md)
-  - Involved in unhealthy [relationships](relationships-1_why.md)
+  - Involved in unhealthy [relationships](relationships-why.md)
   - Criminal behavior
 
 B. Cover-ups recognize personal failings, but entirely blame everyone and everything else for them:

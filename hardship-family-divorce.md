@@ -40,7 +40,7 @@ If you have children in the situation, you *must* avoid mixing them further into
 
 After you've grieved for a long while, you can start again:
 
-- Once the pain has worn off, get back in the [dating](relationships-2_dating.md) world if you don't have [religious reservations](church-family.md) against it.
+- Once the pain has worn off, get back in the [dating](relationships-dating.md) world if you don't have [religious reservations](church-family.md) against it.
   - Pay close attention to the kind of person you're attracted to, especially if they're either just like or the opposite of your ex.
 - You're guaranteed to have a "rebound" relationship, so don't take *anything* seriously or steadily for at least 2--3 years.
 

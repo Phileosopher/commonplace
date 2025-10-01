@@ -212,7 +212,7 @@ Primal/Animal Impulses
 Privacy
 
 - We all separate our [private](safety.md) life from our public life, even if it's simply going to the bathroom.
-- We typically keep things like sex, [marital conflicts](relationships-3_marriage.md), and dysfunction away from strangers.
+- We typically keep things like sex, [marital conflicts](relationships-marriage.md), and dysfunction away from strangers.
 - We also regularly desire to [hide](image.md) even more things.
 
 Routines/Rituals/Habits
@@ -324,4 +324,4 @@ Youth Love/Hate Relationship
 - We give children extra [honor](image.md) and care for their untapped potential, which includes specialized [media](creations.md) like music and toys.
 - Children have temporary behaviors they lose as they [mature](maturity.md), such as pretend play, thumb-sucking, and weaning.
 - We usually don't regard them as adults until they've attained some [rite of passage](maturity.md).
-- The roles from our [parenting](people-family.md) become the roles we expect from our spouse and self in [marriage](relationships-3_marriage.md) later.
+- The roles from our [parenting](people-family.md) become the roles we expect from our spouse and self in [marriage](relationships-marriage.md) later.

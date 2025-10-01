@@ -121,7 +121,7 @@ Your first employees, like you, will have *many* small tasks.
 
 - Preferably, look for someone skilled in a variety of small things you're *not* good at.
   - If you sincerely value that person and want a long-term relationship with them, consider giving them partial equity in the company.
-- While [your spouse](relationships-3_marriage.md) can be a vital co-creator in the organization, do *not* require them to do more than they're comfortable with.
+- While [your spouse](relationships-marriage.md) can be a vital co-creator in the organization, do *not* require them to do more than they're comfortable with.
   - Establish boundaries by clarifying job definitions and working conditions beforehand.
   - You should both agree on their commitment to the work.
   - Leave work away from personal time.

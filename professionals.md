@@ -67,7 +67,7 @@ Consider every type of professional you will need.
 Before talking to them, gather and [organize](organization.md) *all* your paperwork beforehand.
 
 - Unless you come in prepared, they'll bill you to organize it for you.
-- Coordinate the preparation and meeting with your [spouse](relationships-3_marriage.md) and any [children](parenting-3_teenagers.md) who may need to be involved.
+- Coordinate the preparation and meeting with your [spouse](relationships-marriage.md) and any [children](parenting-3_teenagers.md) who may need to be involved.
 
 Walk through the same routine with each servicer:
 

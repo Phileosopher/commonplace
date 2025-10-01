@@ -257,7 +257,7 @@ Explain how you'll [promote](marketing.md) the product:
 - What advertising media, why, and how often? Why not other alternatives?
 - Beyond paid advertising, will you use any other marketing methods?
   - Social media gives a *lot* of information to explore alternative approaches.
-  - Sometimes, you can use second-degree connections to [influence](power-influence.md) others (e.g., that person's [spouse](relationships-3_marriage.md), their professional networks).
+  - Sometimes, you can use second-degree connections to [influence](power-influence.md) others (e.g., that person's [spouse](relationships-marriage.md), their professional networks).
 - Are there any low-cost advertising methods you can take advantage of?
 - What image do you want to project and how do you want customers to see you?
 - What are your plans for maintaining brand management with [graphic images](engineering-design.md)?

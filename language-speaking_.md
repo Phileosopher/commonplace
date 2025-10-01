@@ -1023,7 +1023,7 @@ Depending on culture, other topics may be off-limits for small talk:
 - Religious views or philosophy
 - The [economy](economics.md), the stock market or current events
 - Anything that can offend someone's nationality or criticize royalty
-- Any compliments that may look like [flirting](relationships-2_dating.md)
+- Any compliments that may look like [flirting](relationships-dating.md)
 - Intimate details about love life or sex life
 - Alcohol or drug consumption
 - Inappropriate humor (which is *highly* contextual) or no sense of humor

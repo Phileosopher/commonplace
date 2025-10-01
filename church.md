@@ -61,7 +61,7 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 - They're honorable.
 - They're not [deceptive](people-lying.md), [an addict](addiction-substances.md), or greedy.
 - They believe strongly in the [mystery](jesus-gospel.md) of the Christian faith with a clear [conscience](humanity-christian.md).
-- If they're [married](relationships-3_marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
+- If they're [married](relationships-marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
 
 Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/bsb/1_timothy/3.htm)).
 

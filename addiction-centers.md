@@ -6,7 +6,7 @@ We conform our attitude to whatever we've placed at our center:
 - Our center is whatever we've placed our faith in.
 - All good centers transcend self-interested goals.
 
-If your [spouse](relationships-1_why.md) is the center of your life:
+If your [spouse](relationships-why.md) is the center of your life:
 
 - Spouse: Meets all needs
 - Family: Good in its place, but less important

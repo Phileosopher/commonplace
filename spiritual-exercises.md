@@ -133,7 +133,7 @@ Thank God every time you see a naturally occurring thing.
 - Think about the [scientific complexity](science.md) of every aspect of nature, and His [creative](mind-creativity.md) capacity.
 - Dwell on how much He's in control.
 
-Work to improve relationships with everyone around you, such as your [marriage](relationships-3_marriage.md) and [children](parenting-2_children.md).
+Work to improve relationships with everyone around you, such as your [marriage](relationships-marriage.md) and [children](parenting-2_children.md).
 
 - Avoid needless [conflicts](people-conflicts.md) and learn [how to defuse them](people-5_conflicts.md).
   - Try to defuse needless debates about small Christian matters, then [set boundaries](people-boundaries.md) against them ([Titus 3:9-11](https://biblehub.com/titus/3.htm)).

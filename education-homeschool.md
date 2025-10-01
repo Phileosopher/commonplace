@@ -23,7 +23,7 @@ Homeschooling children is *not* necessarily better or worse.
 - In non-nuclear homes (e.g., single parenting), it's often simply not possible to homeschool and would require someone else to educate them.
 - Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](parenting-2_children.md).
 
-If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-2_children.md), and sufficiently committed to raising them [with someone else](relationships-3_marriage.md), educating your child isn't difficult.
+If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-2_children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
 
 - Public school education systems often use [dark patterns](engineering-design.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
 
@@ -81,7 +81,7 @@ C. Don't over-test or over-drill them.
 
 D. Every good homeschool parent *must* be humble.
 
-- You're *not* qualified to teach them everything about life, and alongside [your spouse](relationships-3_marriage.md), you'll still miss some parts.
+- You're *not* qualified to teach them everything about life, and alongside [your spouse](relationships-marriage.md), you'll still miss some parts.
   - You will absolutely *need* to find [specialists](jobs-specialization.md) in the areas you don't understand as well, typically through your community or homeschool groups.
 - You will *not* be able to shelter your children, even if you homeschool them.
   - Parents who obsess about protecting their children's innocence tend to raise bad kids who are good at concealing bad behavior.

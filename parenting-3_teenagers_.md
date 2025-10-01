@@ -171,7 +171,7 @@ Don't push them toward a specific vocation or schooling:
 Don't pressure them about their relationship decisions:
 
 - Share your opinions, but don't give advice.
-  - If you don't like one of their [relationships](relationships-1_why.md), they'll likely have to learn why on their own.
+  - If you don't like one of their [relationships](relationships-why.md), they'll likely have to learn why on their own.
   - You can't know the issues they've been scared to disclose with you.
 - They'll [marry](relationships-weddings.md) whomever they please, and your approval may not matter by that point.
 - Their family plans are their business, so don't expect grandchildren.

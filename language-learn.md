@@ -1,6 +1,9 @@
+
+# How to learn a new language
+
 Learning a new language isn't as difficult as it may feel:
 
-- To achieve bare-minimum, you only need enough phrases to hold a basic conversation with a native speaker about mundane objects.
+- To achieve bare-minimum, you only need enough phrases to hold a basic [conversation](conversation.md) with a native speaker about mundane objects.
   - You only need about 125 basic words in any language to start linking and adapting to begin speaking.
   - At about 625 words, you can speak on the level of most [children](parenting-2_children.md).
   - You can be fluent in most languages and understand most of what you read with only about 1,000 words.
@@ -26,28 +29,39 @@ Every language is divided into pronunciation, grammar, and vocabulary:
 - Grammar is the correct way to arrange words.
 - Vocabulary is the list of words you know.
 
+## Make your own curriculum
+
 Read and watch things you *want* to watch, and make your own curriculum:
 
-- By making your own curriculum, you increase how much [fun](fun.md) you'll likely have with it (and increase your learning [as a consequence](mind-memory.md)).
-  - Focus on constantly finding new things more than repetition.
-  - Draw personal connections to the words.
-  - Learn aspects of the new [culture](people-culture.md) or subjects in that language that you like.
-  - You should enjoy what you're consuming and trying to parse.
-- As much as possible, do *not* cross the languages.
-  - When you see something, you're building a "second brain", so avoid mixing in your native language into that thinking.
-  - While learning the language, you will have to wrestle with 2 points of view at once.
-  - It takes tremendous focus to learn what you *want* to know without the distraction of what you *already* know.
-- Instead of consuming a wide variety of content, focus on getting used to a small amount of content.
-  - 3/4 of your language learning will be consuming, *not* speaking.
-- Try to listen more than read.
-  - Listen to lyrical music in that language.
-  - Watch foreign-language films and TV.
-    - Choose any genre you want, as long as it's not comedy (since it *breaks* many language rules).
-    - Because of the spread-out medium, TV is generally easier to consume than films.
-    - Research the plot summary ahead of time to know what's going on.
-    - Do *not* put subtitles on in your language, or you won't learn how to listen.
-  - Guidebooks with CDs are worth the purchase.
-  - Find target-language audiobooks for books you've already read in your language.
+By making your own curriculum, you increase how much [fun](fun.md) you'll likely have with it (and increase your learning [as a consequence](mind-memory.md)).
+
+- Focus on constantly finding new things more than repetition.
+- Draw personal connections to the words.
+- Learn aspects of the new [culture](people-culture.md) or subjects in that language that you like.
+- You should enjoy what you're consuming and trying to parse.
+
+As much as possible, do *not* cross the languages.
+
+- When you see something, you're building a "second brain", so avoid mixing in your native language into that thinking.
+- While learning the language, you will have to wrestle with 2 points of view at once.
+- It takes tremendous focus to learn what you *want* to know without the distraction of what you *already* know.
+
+Instead of consuming a wide variety of content, focus on getting used to a small amount of content.
+
+- 3/4 of your language learning will be consuming, *not* speaking.
+
+Try to listen more than read.
+
+- Listen to lyrical music in that language.
+- Watch foreign-language films and TV.
+  - Choose any genre you want, as long as it's not comedy (since it *breaks* many language rules).
+  - Because of the spread-out medium, TV is generally easier to consume than films.
+  - Research the plot summary ahead of time to know what's going on.
+  - Do *not* put subtitles on in your language, or you won't learn how to listen.
+- Guidebooks with CDs are worth the purchase.
+- Find target-language audiobooks for books you've already read in your language.
+
+## Focus on pronunciation first
 
 Get used to the sounds and rhythm at first, and don't worry too much about understanding all of it:
 
@@ -63,30 +77,40 @@ Focus obsessively on correct pronunciation:
   - Some languages have a few sounds (Hawaiian has 15) or many (certain Caucasus languages have up to 60).
   - Depending on what you learned as a [small child](parenting-1_babies.md), you may not be able to pronounce some sounds at all.
   - Create a temporary "phonetic alphabet" to catch all the sounds of the language.
-- Become accustomed to the sounds of that language.
-  - Trust your ear to develop a good accent.
-  - Closely observe how people in that language have accents in *your* language, since they're borrowing patterns from their native tongue.
-  - Imitate the sound you hear, and record yourself to see how you sound.
-  - Pay close attention to *really* similar sounds and syllables.
-  - Aim for absolute precision, and try to avoid overlaying how your native language uses a sound.
-- You only use 3 parts of your body to make words:
-  1. Your tongue does most of the work, and you might have limits in training it.
-  2. Your lips are either open to make an "ooo" sound, very open to make an "aaa" sound, or closed.
-  3. Your vocal cords are either activated (e.g., "zzz") or not (e.g., "sss").
-- Every consonant requires 3 major bits of information:
-  1. Where's your tongue?
-  2. What's your tongue doing there?
-  3. Are your vocal cords doing anything?
-- Vowels have 2 bits of information:
-  1. Where's your tongue?
-  2. Are your lips in a circle?
-- Most languages have tiny nuances:
-  - Saying "bee fee thee see she ye key he" gives 8 of the 11 possible combinations of your tongue and lips.
-  - Saying "toe no so low row" has the tongue in the same place, but changes how and where air passes around the tongue.
-  - Vowels are *very* particular, and "ee eh ah" is simply a vertical movement of the tongue.
-- Note connections between sounds, and how they cluster together.
-  - Most words have been smoothed over centuries into a natural flow of the tongue.
-  - Focus on gliding between the sounds.
+
+Become accustomed to the sounds of that language.
+
+- Trust your ear to develop a good accent.
+- Closely observe how people in that language have accents in *your* language, since they're borrowing patterns from their native tongue.
+- Imitate the sound you hear, and record yourself to see how you sound.
+- Pay close attention to *really* similar sounds and syllables.
+- Aim for absolute precision, and try to avoid overlaying how your native language uses a sound.
+
+You only use 3 parts of your body to make words:
+
+1. Your tongue does most of the work, and you might have limits in training it.
+2. Your lips are either open to make an "ooo" sound, very open to make an "aaa" sound, or closed.
+3. Your vocal cords are either activated (e.g., "zzz") or not (e.g., "sss").
+
+ Every consonant requires 3 major bits of information:
+1. Where's your tongue?
+2. What's your tongue doing there?
+3. Are your vocal cords doing anything?
+
+Vowels have 2 bits of information:
+1. Where's your tongue?
+2. Are your lips in a circle?
+
+Most languages have tiny nuances:
+
+- Saying "bee fee thee see she ye key he" gives 8 of the 11 possible combinations of your tongue and lips.
+- Saying "toe no so low row" has the tongue in the same place, but changes how and where air passes around the tongue.
+- Vowels are *very* particular, and "ee eh ah" is simply a vertical movement of the tongue.
+
+Note connections between sounds, and how they cluster together.
+
+- Most words have been smoothed over centuries into a natural flow of the tongue.
+- Focus on gliding between the sounds.
 
 To increase your mental association, adopt the body language and culture of the language you're trying to learn.
 
@@ -107,20 +131,31 @@ Pay close attention to mouth movements:
 - Trilled type sounds come from S type, but by letting the tongue flap against the roof of the mouth ("rr" in Spanish).
   - This can also express by letting the back of the tongue flap against the uvula ("r" in French).
 
-Only move onto correct grammar after you feel comfortable with pronunciation:
+## Move to grammar after pronunciation
 
-- All grammar comes from 3 basic methods:
-  1. Add words ("You like it." versus "Do you like it?")
-  2. Change the forms of words ("I eat." versus "I ate.")
-  3. Change the words' order ("This is nice." versus "Is this nice?")
-- About 50% of elementary language books obsess about pronouns and verbs.
-- Most grammar rules are easy to understand simply by closely observing a few details in textbook examples:
-  1. Did any words get added to the sentence?
-  2. Did any words change their form in that sentence?
-  3. Is the word order at all surprising?
-- Memorize the gender of nouns and verbs as a visual mnemonic (e.g., masculine explodes, feminine catches fire, neuter shatters like glass).
-- Grammar is best learned by using, not by talking about or analyzing it.
-- Grammar can be challenging because the example sentences are often teaching *multiple* grammar rules at once (e.g., tense, pronouns, and gender).
+Only move onto correct grammar after you feel comfortable with pronunciation.
+
+All grammar comes from 3 basic methods:
+
+1. Add words ("You like it." versus "Do you like it?")
+2. Change the forms of words ("I eat." versus "I ate.")
+3. Change the words' order ("This is nice." versus "Is this nice?")
+
+About 50% of elementary language books obsess about pronouns and verbs.
+
+Most grammar rules are easy to understand simply by closely observing a few details in textbook examples:
+
+1. Did any words get added to the sentence?
+2. Did any words change their form in that sentence?
+3. Is the word order at all surprising?
+
+Memorize the gender of nouns and verbs as a visual mnemonic (e.g., masculine explodes, feminine catches fire, neuter shatters like glass).
+
+Grammar is best learned by using, not by talking about or analyzing it.
+
+Grammar can be challenging because the example sentences are often teaching *multiple* grammar rules at once (e.g., tense, pronouns, and gender).
+
+## Focus on conversational language
 
 If at all possible, make frequent conversations with a native speaker:
 

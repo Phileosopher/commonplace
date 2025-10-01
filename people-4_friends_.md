@@ -136,7 +136,7 @@ If you feel you need friends, you have unfulfilled needs:
 - Clinging too much to a few friends or a new friend is normal, but drives most mentally well people away.
 - It's much easier to make a second friend after making the first one.
 - To avoid overdependence on any one friend, make multiple new friends at once.
-- A great [romantic relationship](relationships-1_why.md) requires *much* more investment and time than a great friendship, so never expect any new friend to become one.
+- A great [romantic relationship](relationships-why.md) requires *much* more investment and time than a great friendship, so never expect any new friend to become one.
 
 When you have very few friends, it's much harder to make new ones:
 
@@ -581,7 +581,7 @@ Don't let *anything* get in the way of a great friendship:
 - Prioritize your friend's needs above your own, and be supportive and helpful whenever they need it.
 - If a friend hurt you, [forgive them and move on if they've changed](mind-feelings-happiness-stress.md).
 - When you borrow anything from them, promptly give it back.
-- If you wish to [date](relationships-2_dating.md) someone your friend has dated, ask permission first.
+- If you wish to [date](relationships-dating.md) someone your friend has dated, ask permission first.
 - If they live with you, openly communicate household responsibilities and [keep the common areas clean](home-housekeeping.md) without them asking.
 - Find new experiences and routines you can share with them.
 

@@ -1,9 +1,21 @@
 
-Across history, the few strong have *always* ruled the many weak. [Human nature](humanity-universals.md) dictates that we will [choose](decisions.md) to follow people more [powerful](power.md) than us.
+# What leftism is
+
+Across history, the minority strong have *always* ruled the majority weak. [Human nature](humanity-universals.md) dictates that we will [choose](decisions.md) to follow people more [powerful](power.md) than us.
+
+Rightism isn't an abstracted ideal, but leftism is. There are two reasons for this:
+
+1. All right-wing thinking fits easily into existing [religions](religion.md) and [conservatism](politics-conservativeliberal.md).
+2. Left-wing thinking requires a secular viewpoint to carry it out.
 
 While leftism started with some ideas from intellectuals like Plato and Thomas More, Karl Marx emphasized the idea that people would live in coexistence with each other if everyone were to abolish [private property](people-boundaries.md), and the Progressive Movement starting in the 1890s brought many new ideas about human nature against established centuries-old beliefs.
 
-Rightism isn't an ideal, but leftism is. Most of it comes through how all right-wing thinking fits easily into existing [religions](religion.md) and [conservative social structures](politics-conservativeliberal.md).
+In practice, though, leftism *always* has the same mechanism:
+
+1. Establish a powerful minority as a [capitalizing](economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-4_health.md), [family structure](family.md), or anything else.
+2. Blame many of the current issues on the excessive ownership by that powerful minority.
+3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
+4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
 
 ## Public goods
 
@@ -55,25 +67,25 @@ Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), govern
 
 Naturally, many people in the [lower and lower-middle classes](classes.md) will find this attractive, but many various demographics will have reason to [imagine](imagination.md) they could profit from a leftist revolution:
 
-- People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](image.md) in a leftist revolution.
+- People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](image.md) in a societal upheaval.
 - Self-[identifying](identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](decisions.md).
 - People who want free stuff, but don't consider [where it comes from](results.md).
-- [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](money-insurance.md) against people taking their stuff.
+- [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](safety-riskmgmt.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](image.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](trends.md) without regard to its [risks](safety.md).
 
-## Fail
+## The system's failure
 
 The breakdown in this system involves the transactions. Every Marx-like revolution has resulted in taking things taken away from the upper class, but the system has always been [corrupt enough](mgmt-badsystems.md) that the poorest people never seem to get those things. Often, the class revolution destroys many aspects of civilization, including the core mechanics of the [family](people-family.md).
 
-Further, once the new government is in place, nobody [creates](creations.md) with the same [passion](mind-feelings.md) they had compared to before. Once self-interested purpose is completely removed, people *would* only work harder out of [love](people-love.md) for others, but that goes against [human nature](humanity-universals.md) to not have personal gain mixed into it somewhere. Thus, the government must force people to work harder, which over time creates a cycle within society that forces everyone into a form of [slavery](slavery.md).
+Further, once the new government is in place, nobody [creates](creations.md) with the same [passion](mind-feelings.md) they had compared to before. Once self-interested purpose is completely removed, people would *theoretically* work harder out of [love](people-love.md) for other people, but that goes against [human nature](humanity-universals.md) to not have personal gain mixed into it somewhere. Thus, the government must force people to work harder, which over time creates a cycle within society that forces everyone into a form of [slavery](slavery.md).
 
-Leftist government models also tend to give at least some overseers a centralized and unchecked authority. As long as people are human, we can't trust any individual to *not* be evil, and the only way to cycle them out is through [war](people-conflicts-war.md) or [elections](groups-large.md).
+Leftist government models also tend to give at least some overseers a centralized and unchecked authority. As long as people are human, *every* individual has the potential to perform [evil](morality-evil.md), and there need to be ways to cycle them out (e.g., [war](people-conflicts-war.md) [elections](politics-systems.md)).
 
 [Historically](stories-storytellers.md), leftism hasn't had a [safe](safety.md) track record. In the past 150 years, more people have been killed for political reasons (including [religious](religion.md) persecution) in leftist countries than almost all other written history combined. Leftist thought leaders tend to refer to an ideal instead of historical basis, but the model consistently fails in practice, from the Mayflower Pact onward.
 
 Most leftist apologists state that it's a working system that simply needs more re-engineering. However, most efforts to adapt leftism [distort its image](image-distortion.md) more than changing its [model](logic.md). Thus, it stays the same even as it keeps [renaming](language.md) and [re-branding](marketing.md).
 
-## Rebranding
+## Rebranding leftism
 
 The leftist [narrative](stories.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](classes.md) society in other directions.
 
@@ -91,7 +103,7 @@ The most prominent form of classification comes through [identity](identity.md) 
 
 In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](https://books2read.com/autism/) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-2_diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
 
-By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against an oppressor class (i.e., heterosexual white neurotypical males).
+By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against the alleged oppressor class (i.e., heterosexual white neurotypical males within identity politics).
 
 Under identity politics, the claim is that a specific person is more fit to lead *only* by virtue of their race, gender, ethnicity, or whatever. It doesn't consider other elements like aptitude, [experience](results.md), or [wisdom](understanding.md). In effect, it's [bigoted favoritism](image.md).
 
@@ -103,9 +115,7 @@ Having *both* diversity of thought *and* culture is absurdly difficult because l
 
 The ideal domain is a diversity of thought, which requires constant organizational change, but it would mean an organization that also questions the shortcomings of leftist ideals as well.
 
-![equality has everyone standing to look over a fence but the shortest people can't see, equity has everyone standing to look over a fence with the shortest people having boxes to stand on, justice has a giant wall nobody can see over and a Tickets sign pointing to the right](https://gainedin.site/wp-content/uploads/2023/06/equality_equity_justice-1024x496.jpg)
-
-## Climate
+## The climate cult
 
 Another topic the left has adopted is the [story](stories.md) that humanity is destroying nature ("ecocide"). The claim has moved around, but the general idea is that human-produced carbon emissions cause [instability](leftism-sustainability.md) in the climate, which can cause extreme weather conditions.
 
@@ -126,7 +136,9 @@ However, leftists can still politicize the weather because people are [afraid](m
 
 The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
 
-The cure is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free information, not fewer people, and government grants oriented toward [sustainability](leftism-sustainability.md) will quickly create a [bureaucratic mess](mgmt-badsystems.md). Shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries.md).
+The cure for any potential forthcoming climate catastrophe is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free [information](information.md), not fewer people, with government grants oriented toward performance. [Sustainability](leftism-sustainability.md) is difficult to measure, so it quickly creates a [bureaucratic mess](mgmt-badsystems.md).
+
+The solutions proposed by leftist leaders are complete [misdirections](image-distortion.md). Extended surveillance, shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries.md).
 
 While most leftists don't realize it, the leadership of the far left heavily endorses climate change because it's a [creative](mind-creativity.md) method to gain more [power](power.md). By closely tracking someone's "carbon footprint", they can see exactly where someone goes, what they [do](results.md), who they [interact with](people-conversation.md), and often [deduce](logic.md) with somewhat reliable accuracy what they're [thinking](understanding.md).
 

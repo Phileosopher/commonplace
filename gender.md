@@ -103,7 +103,7 @@ The nature of [personality](personality.md) makes us naturally lopsided with the
 
 These two attributes together can be risky. We can often find a bad match because that person happens to contain many things that the exact *opposite* of what we are, even when certain [habits](habits.md) will lead to disastrous results later. One of the most common mismatched pairings comes through how there's always one person who is generally antisocial and the other is generally over-intimate.
 
-APPLICATION: We must [date carefully](relationships-2_dating.md) to avoid devoting our lives to someone who will never value who we really are. No person can truly satisfy us the way we expect them to at the onset of a relationship.
+APPLICATION: We must [date carefully](relationships-dating.md) to avoid devoting our lives to someone who will never value who we really are. No person can truly satisfy us the way we expect them to at the onset of a relationship.
 
 In societies where the culture doesn't outright [condemn](morality-taboo.md) the practice, men have a tendency to abuse their [power](power.md) and collect wives as a *very* expensive materialist hobby. Over time, this has a tendency to concentrate the genetics under a smaller population, thereby weakening the people group across generations through [families](people-family.md) being more related.
 
@@ -138,7 +138,7 @@ Men often give respect to women who don't want it, and women often give affectio
 
 APPLICATION: If men gave women affection and women gave men respect, most [inter-gender conflicts](people-conflicts.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
 
-APPLICATION: If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-3_marriage.md). Women must simply learn to [respect](results.md) men, and men must simply learn to [cherish](values-quality.md) women.
+APPLICATION: If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-marriage.md). Women must simply learn to [respect](results.md) men, and men must simply learn to [cherish](values-quality.md) women.
 
 The battle for women's rights is to give them enough [power](power.md) that they [feel](mind-feelings.md) equal. Since the genders are uniquely different, the only reconciliation that would satisfy many women in a free society is *more* power than men, which is legitimately [unfair](morality-justice.md) to men.
 

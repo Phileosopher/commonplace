@@ -15,7 +15,7 @@ At its simplest, getting married is still relatively cheap:
 Propose a few months to a year beforehand:
 
 - Even if the venue is a surprise, you should both know the proposal is coming before you do it.
-  - If she says "no", *seriously* reconsider the entire [relationship](relationships-1_why.md).
+  - If she says "no", *seriously* reconsider the entire [relationship](relationships-why.md).
 - Men traditionally propose to women, but every marriage proposal should come from the person who tends to have more authority over decisions.
 - Make sure, if you're buying the rings, you know *exactly* what your fiancée/fiancé wants.
   - Since this will be the first of many financial decisions together, [discuss the costs](money-3_budget.md) with them.

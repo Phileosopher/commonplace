@@ -373,4 +373,4 @@ Whether it's a [website](language-writing-web.md) or a [text message](language-w
 - Writing itself is solitary, but your easiest success in editing comes from other people.
   - If you must self-edit, read your final draft after enough time has passed that the text is no longer familiar.
 - Find people willing to openly criticize your writing and nitpick your style.
-- Your [friends](people-4_friends.md), family, and [spouse](relationships-3_marriage.md) are great for reviewing, but don't ask them to review your content more than they want.
+- Your [friends](people-4_friends.md), family, and [spouse](relationships-marriage.md) are great for reviewing, but don't ask them to review your content more than they want.

@@ -228,7 +228,7 @@ Rebellion can be against many authority figures:
 
 - [Government authorities](rules-methods.md) ([Romans 13:1-5](https://biblehub.com/bsb/romans/13.htm), [1 Timothy 2:1-4](https://biblehub.com/bsb/1_timothy/2.htm), [1 Peter 2:13-16](https://biblehub.com/bsb/1_peter/2.htm))
 - [Parents](parenting-3_teenagers.md) ([Ephesians 6:1-3](https://biblehub.com/bsb/ephesians/6.htm))
-- [Husband](relationships-3_marriage.md) ([1 Peter 2:1-2](https://biblehub.com/bsb/1_peter/2.htm))
+- [Husband](relationships-marriage.md) ([1 Peter 2:1-2](https://biblehub.com/bsb/1_peter/2.htm))
 - [Employer](jobs-1_why.md) ([1 Peter 2:18-21](https://biblehub.com/bsb/1_peter/2.htm))
 - [Church leaders](mgmt-church.md) ([Hebrews 13:17](https://biblehub.com/hebrews/13-17.htm))
 

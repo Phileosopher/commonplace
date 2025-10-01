@@ -805,7 +805,7 @@ Marketing abuse is a vastly expensive and culturally damaging experience.
 The simplest ways to detect marketing abuse are by observing "glittering generalities" and "title inflation".
 
 - Glittering generalities are emotionally appealing phrases stated with conviction that create very close associations to highly valued concepts and beliefs, but give no descriptive information that conveys value to the listener:
-  - Most people on [dating](relationships-3_marriage.md) profiles are fun-loving, relaxed, exciting people looking for a good time.
+  - Most people on [dating](relationships-marriage.md) profiles are fun-loving, relaxed, exciting people looking for a good time.
   - Most [résumés](jobs-3_image.md) are submitted by action-focused, hard-working, team-oriented people.
   - Universities are always offering programs committed to fulfilling personal, academic, and professional goals.
   - Every new framework for [web development](computers-sofware-webdev.md) is fast, scalable, modular, and responsive.

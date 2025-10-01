@@ -240,7 +240,7 @@ Personality often has a direct correlation with [political association](politics
 
 When choosing a [mate](gender.md) or [leader](groups-small.md), personality is *critical* to finding a good match:
 
-- Identical personalities for a [relationship](relationships-3_marriage.md) are ideal in *all* the aspects (because they share a common [identity](identity.md)) except neuroticism: two emotionally volatile people are *very* dysfunctional and dangerous. However, pairing two people who are *very* similar means a smaller range of [creativity](mind-creativity.md) to find legitimately useful [solutions](purpose.md).
+- Identical personalities for a [relationship](relationships-marriage.md) are ideal in *all* the aspects (because they share a common [identity](identity.md)) except neuroticism: two emotionally volatile people are *very* dysfunctional and dangerous. However, pairing two people who are *very* similar means a smaller range of [creativity](mind-creativity.md) to find legitimately useful [solutions](purpose.md).
 - While [hiring people](mgmt-1_why.md) should be based at least somewhat on conscientiousness, this is *especially* true for managers who [direct other people](groups-small.md). However, the appearance of most leaders demonstrates through assertiveness, which often creates [awful social systems](mgmt-badsystems.md) if the appointing leaders aren't careful.
 - For [creative](mind-creativity.md) solutions (e.g., [writers](stories.md), [entertainers](stories-storytellers.md), [artists](mind-creativity.md)), look for low-conscientiousness people, since they don't obsess about following existing [constraints](rules.md).
 

@@ -65,7 +65,7 @@ A good disciple must be teachable and faithful.
 
 Avoid mentoring a few demographics relative to yourself:
 
-- Discipleship of the opposite sex can create sexual immorality or, in [a relationship](relationships-3_marriage.md), unhealthy codependency.
+- Discipleship of the opposite sex can create sexual immorality or, in [a relationship](relationships-marriage.md), unhealthy codependency.
 - With the exception of having experienced tremendous [hardship](hardship.md) for your age, leading someone the same age or older (within 5-10 years) becomes a lopsided relationship from relative differences in life experience.
 
 ## Nurturing

@@ -42,7 +42,7 @@ Open yourself to new social challenges:
 
 - Get more connected with your community
 - Get a [pet](fun-pets.md).
-- Make a deeper commitment with your [life partner](relationships-3_marriage.md).
+- Make a deeper commitment with your [life partner](relationships-marriage.md).
 - [Have children](parenting-2_children.md) or adopt.
 - Reach out to one person each month who inspires you.
 

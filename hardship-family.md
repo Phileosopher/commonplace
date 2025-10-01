@@ -31,7 +31,7 @@ If your emotional scarring is severe, spend time completely away from them:
 
 - About 5-10 years can dramatically change the situation, especially if you've been building out your [network](people-4_friends.md) and [career](jobs-1_why.md) elsewhere.
 
-Whatever issues you don't work through *will* express in your [romantic relationships](relationships-1_why.md), so work intentionally on your [self-awareness](awareness.md) and [growth](maturity.md).
+Whatever issues you don't work through *will* express in your [romantic relationships](relationships-why.md), so work intentionally on your [self-awareness](awareness.md) and [growth](maturity.md).
 
 ## How to deal with an unwanted pregnancy
 
@@ -84,7 +84,7 @@ Even if you did your best, all parents hurt their children:
 Your child may have formed dysfunctional patterns:
 
 - Treats each day as a disconnected, unrelated experience without [goals](success-3_goals.md) or long-term plans.
-- Has trouble with intimacy, which can later become trouble maintaining [relationships](relationships-1_why.md) or staying in abusive relationships.
+- Has trouble with intimacy, which can later become trouble maintaining [relationships](relationships-why.md) or staying in abusive relationships.
 - Has no concept of "normal" or healthy.
 - Relentlessly judges oneself or others.
 - Takes self very seriously or feels overly responsible.
