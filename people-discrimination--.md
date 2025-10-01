@@ -31,7 +31,7 @@ We discriminate *all the time* for many reasons:
 - [Physical attractiveness](gender.md), distinguishing features like clothing, and [hygiene](people-2_image.md)
 - Even when we've tried to remove bias, we often discriminate on [ideas](values.md) alone as theories without any consideration for [history](trends.md)
 
-A stereotype is [habitual](habits.md) and [unfair](morality-justice.md) discrimination. Because we're not conscious of it, we make silly overgeneralizations that lose any sense of [logic](logic.md). People can often address it with [humor](humor.md), but when people have suffered [pain](hardship-ptsd.md) from the stereotype (or [others can benefit from it](leftism.md)), they'll miss the joke.
+A stereotype is [habitual](habits.md) and [unfair](morality-justice.md) discrimination. Because we're not conscious of it, we make silly overgeneralizations that lose any sense of [logic](logic.md). People can often address it with [humor](humor.md), but when people have suffered [pain](hardship-ptsd.md) from the stereotype (or [others can benefit from it](politics-leftism.md)), they'll miss the joke.
 
 APPLICATION: When we want to [influence](power-influence.md) others who don't want to [understand](understanding.md), we're wasting our time. It's particularly difficult for us to disengage if we're fighting [past trauma](hardship-ptsd.md).
 

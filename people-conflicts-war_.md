@@ -250,9 +250,9 @@ Sometimes, the *allies* drawn into the conflict will fight among each other long
 
 Whoever wins gets to claim all the resources. The members' continued [loyalty](image.md) comes from how [fair](morality-justice.md) they feel their portion is.
 
-After the event, the winners get to [write the story](stories-storytellers.md), and it becomes part of their [culture](people-culture.md). In it, their group is *always* the [protagonist](stories.md), barring certain cases of [leftism](leftism.md) and [Christianity](history-church.md).
+After the event, the winners get to [write the story](stories-storytellers.md), and it becomes part of their [culture](people-culture.md). In it, their group is *always* the [protagonist](stories.md), barring certain cases of [leftism](politics-leftism.md) and [Christianity](history-church.md).
 
-Typically, the [youth](maturity.md) will hear the [stories](stories.md) and take them at [face value](image.md), and will often become the most powerful advocates for future conflicts about the subject. Some people, such as the Nazis and [leftists](leftism.md), adapt those [stories](stories.md) to re-educate young people and [empower](power.md) future conflicts with them.
+Typically, the [youth](maturity.md) will hear the [stories](stories.md) and take them at [face value](image.md), and will often become the most powerful advocates for future conflicts about the subject. Some people, such as the Nazis and [leftists](politics-leftism.md), adapt those [stories](stories.md) to re-educate young people and [empower](power.md) future conflicts with them.
 
 * * * * *
 
@@ -280,6 +280,6 @@ The losing side isn't always innocent or a victim. Often, they're only [distorti
 
 The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](people-culture.md) will [diverge](people-conflicts.md) wildly from the same event.
 
-Controlling and directing a riot is very difficult. While some people, especially the [Left](leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
+Controlling and directing a riot is very difficult. While some people, especially the [Left](politics-leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 
 Any issues with war crimes is a misplaced [morality](morality.md). War itself is horrible, and to make rules for warfare without outright killing everyone who tries to kill anyone is technically a double standard.

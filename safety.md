@@ -84,5 +84,5 @@ It's worth noting that security theater is useful in [large organizations](group
 Security and freedom are inversely correlated, so something [valuable](values.md) that is also useful will invariably have to be protected by something inconvenient, and will likely still be exposed to risks:
 
 - Every country needs a military.
-- Preserving the freedom of speech requires permitting [hate speech](leftism.md).
+- Preserving the freedom of speech requires permitting [hate speech](politics-leftism.md).
 - [Success requires loss](success-5_persevering.md).

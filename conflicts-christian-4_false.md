@@ -197,7 +197,7 @@ Heresies that take away part of the Bible:
 - Anti-Paulism - the Apostle Paul was a heretic and that the books he wrote are not a part of the Bible.
 - Liberalism - Scripture is not inerrant or infallible.
 - Neo-Orthodoxy - The Bible is God's revealed word as people read it, *not* through its original penmanship.
-- Standpoint Epistomology - A person's [understanding](understanding.md) of the Bible is directly proportional to how far down the [proletariat ladder](leftism.md) they are.
+- Standpoint Epistomology - A person's [understanding](understanding.md) of the Bible is directly proportional to how far down the [proletariat ladder](politics-leftism.md) they are.
 - When speaking in tongues is a direct measure of spirituality, [1 Corinthians](https://biblehub.com/bsb/1_corinthians/1.htm) doesn't apply anymore.
 - When the Bible only has explainable components, Revelation shouldn't be part of the Bible because we can't verify its author, or that it was already completely fulfilled with the Roman Empire.
 - When evidence is the only way to believe, Hebrews and Job aren't part of the Bible because they can't verify who wrote it (though the ideas echo completely in other Scriptures).

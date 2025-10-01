@@ -99,7 +99,7 @@ APPLICATION: The only outward difference between massive debt and slavery is [ma
 
 APPLICATION: The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](people-culture.md) of origin.
 
-APPLICATION: Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
+APPLICATION: Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](politics-leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
 
 APPLICATION: In free societies, slavery typically comes from [perspective](image.md) more than [reality](reality.md). If everyone were to change their attitude to [self-ownership](success-1_why.md), millions of slaves would be freed overnight.
 

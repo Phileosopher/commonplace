@@ -21,7 +21,7 @@ The scarcity of food creates a hard limit on how much and how varied life can th
 
 Generally, an ecosystem thrives when there's plenty of water and plenty of sunlight. This gives tons of plant life, which allows more animals to survive, meaning more speciation.
 
-Sadly, climate science has been hijacked for [political reasons](leftism.md), often pointing the blame for biome degradation on carbon. Increased carbon output, however, would trigger the negative feedback loop of increased plant life, thus preparing for more animals to offset the situation.
+Sadly, climate science has been hijacked for [political reasons](politics-leftism.md), often pointing the blame for biome degradation on carbon. Increased carbon output, however, would trigger the negative feedback loop of increased plant life, thus preparing for more animals to offset the situation.
 
 Over time, evolutionary adaptations change the epigenetics of organisms, but its scope and timing of the raw data leans heavily into the [phenomenology](symbols.md) of the data-viewer's perspective of the [unknown](unknown.md):
 

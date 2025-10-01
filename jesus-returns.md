@@ -39,7 +39,7 @@ We would need to transition into a single world government:
 
 - It doesn't need to be only one central leader, but there needs to be unity ([Revelation 13:1-7](https://biblehub.com/bsb/revelation/13.htm), [Daniel 7:16-24](https://biblehub.com/bsb/daniel/7.htm)).
 - There's *plenty* of in-fighting among nations right now.
-- To get to a shared government, *all* the world's leaders would have to honor either some form of [leftism](leftism.md) or a [tyrannical takeover](people-conflicts-war.md).
+- To get to a shared government, *all* the world's leaders would have to honor either some form of [leftism](politics-leftism.md) or a [tyrannical takeover](people-conflicts-war.md).
 
 Israel must be at peace with its neighbors:
 
@@ -70,7 +70,7 @@ As of 1948, Israel has been brought back as a nation:
 
 The world is slowly trending toward leftism:
 
-- [Leftism](leftism.md) is a religion without any connection to God or religiousness, and might become a prototype of the end times' one-world religion ([Revelation 13:11-15](https://biblehub.com/bsb/revelation/13.htm)).
+- [Leftism](politics-leftism.md) is a religion without any connection to God or religiousness, and might become a prototype of the end times' one-world religion ([Revelation 13:11-15](https://biblehub.com/bsb/revelation/13.htm)).
 - Leftism attempts to recreate Jesus' [Millennial Kingdom](https://theologos.site/millennium/) without God ([Revelation 21:1-8](https://biblehub.com/bsb/revelation/21.htm)).
 - In the process, they destroy God's design for [gender](gender.md), [family](church-family.md), [justice](morality-justice.md), and [boundaries](people-boundaries.md).
 - Traveling the stars and colonizing other planets is a modern [technological](technology.md) update of the Tower of Babel ([Genesis 11](https://biblehub.com/bsb/genesis/11.htm)).

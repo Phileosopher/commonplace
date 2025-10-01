@@ -115,14 +115,14 @@ New [technological developments](technology.md) with any vessel don't typically 
 Quite a bit of [political power](power-types.md) is tied to energy due to its ability to convey payloads.
 
 - Highly refined fuel permits vehicles to travel more with comparatively less fuel.
-- While [free market economics](economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war.md), [political reasons](leftism.md)).
+- While [free market economics](economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war.md), [political reasons](politics-leftism.md)).
 
 In theory, there would be no downtime in a self-replenishing system (e.g., solar cells).
 
 - However, it's *very* difficult to replace the raw power that comes from petroleum-based Internal Combustion Engine (ICE) conveyance.
 - The engineering tradeoff for making more efficient fuel typically creates more gains than brand-new technologies.
 
-The ecological impact of replenishing systems, at scale, is the basis of most [climate activism](leftism-sustainability.md).
+The ecological impact of replenishing systems, at scale, is the basis of most [climate activism](politics-leftism-sustainability.md).
 
 - Ecologically friendly technologies are typically trading off power, cost, or may cause other secondary ecological effects (e.g., [batteries](engineering-electrical.md) require rare-earth metals).
 

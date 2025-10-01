@@ -559,7 +559,7 @@ A relationship with Jesus is portrayed directly as a form of *very* personal **m
 
 Some ideas are *possible*, but don't capture the spirit of Scripture:
 
-- **Antinatalism** (particularly with [leftward thinking](leftism.md)) is possible, but difficult to validate in light of God's love for humanity (and desire for more people as a logical product of it).
+- **Antinatalism** (particularly with [leftward thinking](politics-leftism.md)) is possible, but difficult to validate in light of God's love for humanity (and desire for more people as a logical product of it).
 - **Antinominianism** is possible due to the scope of Jesus' sacrifice, but it misses Jesus' general directive to "go and sin no more" ([John 8:11](https://biblehub.com/john/8-11.htm)).
 - **Asceticism** is possible to conclude, though it has been taken too far (e.g., [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
 

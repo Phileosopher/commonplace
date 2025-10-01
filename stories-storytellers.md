@@ -97,13 +97,13 @@ The people who define the world's style are between their 30s and 50s. Since the
 
 APPLICATION: If you want to know what will be popular 5 years from now, it'll probably incorporate whatever was overwhelmingly popular about 15-35 years ago from today.
 
-Today's news, after enough time, becomes a historical record. Historians in [a free society](politics-conservativeliberal.md) have less [reason](purpose.md) to [skew](image.md) the story, but they still advance [religious](religion.md) or [political](leftism.md) causes just as frequently, and they *frequently* miss the context of the original creation.
+Today's news, after enough time, becomes a historical record. Historians in [a free society](politics-conservativeliberal.md) have less [reason](purpose.md) to [skew](image.md) the story, but they still advance [religious](religion.md) or [political](politics-leftism.md) causes just as frequently, and they *frequently* miss the context of the original creation.
 
 APPLICATION: Most of the tales and creative works of the distant past that have survived were propaganda, [parody](humor.md), and designed for unsophisticated people. We lose that in translation (especially with the people who [teach it](education.md)), so we assume there was something more dignified about the past than there really was.
 
 Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](trends.md) of the present time:
 
-- The American story of Thanksgiving was originally an anti-[leftist](leftism.md) message, *not* simply an act of generosity on the Native American's part.
+- The American story of Thanksgiving was originally an anti-[leftist](politics-leftism.md) message, *not* simply an act of generosity on the Native American's part.
 - Christmas traditions are borrowed from *dozens* of sources across the last few thousand years, and most of the traditions' origins are *not* Christian.
 - People have *not* believed the Earth was flat since Ancient Greece, with the notable exception of a [political](politics-conservativeliberal.md) push during the Protestant Reformation, so Christopher Columbus didn't prove it to anyone.
 - Across most written history, the average lifespan of 30 included infant mortality, so everyone who lived past their 5th birthday typically lived until about 65.

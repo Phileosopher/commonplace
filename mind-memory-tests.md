@@ -31,4 +31,4 @@ You can usually feel your way through an essay question you don't know:
 You also have some extra holistic tricks if you know who is grading the test:
 
 - Write about the general topics on the teacher's lectures, *not* the topics of the book.
-- Write in conformity to their [political opinions](politics-systems.md), even when it may not seem to apply (e.g., address climate change if they're [leftist](leftism.md), endorse the free market if they're [conservative](politics-conservativeliberal.md)).
+- Write in conformity to their [political opinions](politics-systems.md), even when it may not seem to apply (e.g., address climate change if they're [leftist](politics-leftism.md), endorse the free market if they're [conservative](politics-conservativeliberal.md)).

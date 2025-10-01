@@ -121,7 +121,7 @@ Language is constantly moving. While there's a "codified" standard in things lik
 - Meanings of words will be repurposed, then used dominantly for that new purpose (e.g., "gay" was a [feeling](mind-feelings.md) but is now a [sexual orientation](gender.md)).
 - [Feelings](mind-feelings.md) that the word evoked redirect themselves to specific things (e.g., "[technology](technology.md)" is now localized to specifically high-technology).
 - Figures of speech become outdated with technological development or new [trends](trends.md) (e.g., "pop in the movie", "dial up someone's phone").
-- [Political](power.md) efforts (especially with [leftism](leftism.md)) can redirect thoughts to associate or disassociate for the sake of [personal gain](morality-evil.md).
+- [Political](power.md) efforts (especially with [leftism](politics-leftism.md)) can redirect thoughts to associate or disassociate for the sake of [personal gain](morality-evil.md).
 
 APPLICATION: Words are constantly mutating and shifting, so we must mind which words we use with which [groups](groups-member.md).
 
@@ -178,7 +178,7 @@ We tend to link words without meaning to similar words with meaning. People name
 
 APPLICATION: Words change how we think, so we must be careful about what we [believe](understanding-certainty.md) from others and *constantly* reconsider how we once saw things when we first used a specific word.
 
-Ideas also tend to persist even when [authority figures](groups-large.md) switch out words. Revising language (e.g., [leftism](leftism.md)) only stalls everyone's [identification](identity.md) of the idea until the word associates with the old emphasis of that word:
+Ideas also tend to persist even when [authority figures](groups-large.md) switch out words. Revising language (e.g., [leftism](politics-leftism.md)) only stalls everyone's [identification](identity.md) of the idea until the word associates with the old emphasis of that word:
 
 - At various times in the USA, the words "colored person", "black", "Negro", and "African American" have been used, but they all allude to the same [identifier](identity.md) of a dark-skinned person of seeming African-majority descent.
 - Homosexuals adopted the word "gay", which removed its old association with joyfulness and became slang until it was replaced with the catchall "LGBT" and later "LGBTQQIDAAPPO2SBNBGNCGGAPPO+", which all allude to the same broad identifier of "non-cisgender".

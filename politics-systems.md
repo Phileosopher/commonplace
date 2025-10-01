@@ -137,7 +137,7 @@ Cons:
 Democracy sits on a spectrum of citizens' direct versus indirect control:
 
 - Demarchy - citizens are picked completely at random to run things and make decisions
-- Isocracy - everyone has completely equal political power (often implied for [leftist](leftism.md) political aspirations)
+- Isocracy - everyone has completely equal political power (often implied for [leftist](politics-leftism.md) political aspirations)
 - Direct democracy - people vote directly on new laws and public policy
 - Liquid democracy - people can choose to represent themselves or delegate their vote to someone they [trust](trust.md)
 - Consensus democracy/electocracy/representative democracy/liberal democracy/social democracy - citizens can vote for their representatives, but the government leadership still decides laws and policies

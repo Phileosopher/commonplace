@@ -254,7 +254,7 @@ One simple method is to geographically route business activities to the most tax
 Many governments provide capital allowances and tax credits for specific activities.
 
 - Specific, [fashionable](trends.md) industries and activities tend to receive tax credits.
-- Lately, [energy-efficient and "green" activities](leftism-sustainability.md) have received plenty of government grants and advantages.
+- Lately, [energy-efficient and "green" activities](politics-leftism-sustainability.md) have received plenty of government grants and advantages.
 
 If an organization is savvy enough and has enough startup costs, they can create a not-for-profit charitable organization with a board run by hand-picked people loyal to their founding organization's leadership.
 

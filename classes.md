@@ -5,7 +5,7 @@ In any [large group](groups-large.md), people divide out into [smaller groups](g
 
 Even though they share certain values across their [group](groups-large.md), smaller and more specific values arise from differences in [status](image.md), [power](power.md), [purpose](jobs-specialization.md), and [appearance](image.md).
 
-No matter how much anyone tries to [equalize](leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](image.md) to the majority to be the most competent at those purposes.
+No matter how much anyone tries to [equalize](politics-leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](image.md) to the majority to be the most competent at those purposes.
 
 In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](people-culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](mind-feelings-happiness-stress.md) attitude over something that happened in the past.
 
@@ -17,7 +17,7 @@ We typically inherit our social class from our [family](people-family.md). While
 
 Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](image.md), [gender](gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war.md).
 
-APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
+APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 
 Depending on the definition of each class and [economic freedoms](economics.md) of the group, there's a "soft" [statistical](imagination.md) range of three major classes:
 
@@ -112,7 +112,7 @@ There is an endless conflict over power between the classes:
 - The middle class wants to become the upper class, and will often be ready to make [dramatic social risks](socialrisk.md) to that end.
 - The underclass is concerned with survival, but would like a chance to become at least the middle class, but often without the [required risks](socialrisk.md).
 
-APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](people-culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
+APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](politics-leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](people-culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
 
 Someone in the upper class will frequently try to overthrow someone else in the upper class. To make this happen, they will engage in a [large-scale conflict](people-conflicts-war.md).
 
@@ -120,7 +120,7 @@ To recruit people for their purposes, upper-class people employ various methods:
 
 - They'll make [agreements](people-contracts.md) with other upper-class people to form an [alliance](people-conflicts-war.md).
 - They'll promise the middle class will become the upper class.
-- They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](leftism.md) angle involved.
+- They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](politics-leftism.md) angle involved.
 
 APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](people-culture.md) treatment.
 

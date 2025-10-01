@@ -32,7 +32,7 @@ People can frequently justify their moral decisions as good when they're, in eff
 
 Morality must have a basis for its actions. There are some things that *can't* define morality:
 
-- Individual [choice](decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](leftism.md).
+- Individual [choice](decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
 - [Justice](morality-justice.md) - Morality *determines* the basis of [laws](rules.md) and justice, not the other way around.
 - [Group decisions](groups-large.md) or the collective of humanity - If that were the case, Nazi Germany would have the moral right to do what they did. [Power](power.md) may magnify morality but can't define it.
 
@@ -47,7 +47,7 @@ In practice, morality can only exist as a reference to [whatever authority forme
 
 This slavery to the moral framework is *not* a bad thing. In fact, it's the only way we can ever derive [meaning](meaning.md).
 
-Many post-moderns and [Leftists](leftism.md) claim that [reality](reality.md) itself is nebulous and, thus, morality is entirely relative. At the same time, they claim that value as an absolute. To say "all moral values are relative" is an absolute value. To live by it is moral absolutism.
+Many post-moderns and [Leftists](politics-leftism.md) claim that [reality](reality.md) itself is nebulous and, thus, morality is entirely relative. At the same time, they claim that value as an absolute. To say "all moral values are relative" is an absolute value. To live by it is moral absolutism.
 
 In practice, most people want moral relativism to justify their views as a type of "live and let live" approach. If we were being *really* honest with ourselves, we tend to use [reasoning](logic.md) to justify and hide our [fear](mind-feelings-fear.md) of [moral consequences](results.md).
 
@@ -57,7 +57,7 @@ We must [learn](understanding.md) virtue because [thinking about others](people-
 
 A virtue is a trained [habit](habits.md) of making [decisions](decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
-Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](leftism.md).
+Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](politics-leftism.md).
 
 Some virtues stand alone as states of being:
 

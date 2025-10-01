@@ -218,7 +218,7 @@ Political campaigns - began significantly as a group in the USA in 1860 through 
 - Core values:
   - The hope of the nation, and the world, rests in the selected candidate being elected.
   - (for [conservatives](politics-conservativeliberal.md)) We must bring society back to [known-good virtues](values.md) we once had.
-  - (for [liberals](leftism.md)) We must give more [freedoms](people-boundaries.md) to people who don't have them.
+  - (for [liberals](politics-leftism.md)) We must give more [freedoms](people-boundaries.md) to people who don't have them.
 - Incriminating evidence:
   - At its extreme, it has become [Fascism and Marxism](politics-systems.md), which are both tyrannical regimes that strip society of its freedoms.
   - It's not possible to scale Jesus' [command to love](https://theologos.site/devotion-chaos/) upward to a political scale (at least, [not yet](https://theologos.site/millennium/)), so we can *only* work with the domain of what we have control over, then release the rest to God.

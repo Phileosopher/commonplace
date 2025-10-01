@@ -135,7 +135,7 @@ The universe is made of certain forms of inherent structure, so "problems" are a
 - Most work for [spies](people-conflicts-war.md) is finding weak points that were covered up by an [image](image.md) of strength.
 - Before aircraft [technology](technology.md) changed [war](people-conflicts-war.md) strategies, invaders always attacked city gates.
 - [Religions](religion.md) approach [powerless](power.md) people who [feel](mind-feelings.md) discouraged by how their life has been going.
-- [Leftism](leftism.md) makes appeals to people relatively uninformed about [history](trends.md) or [politics](mgmt-badsystems.md) but discouraged by how their life is going.
+- [Leftism](politics-leftism.md) makes appeals to people relatively uninformed about [history](trends.md) or [politics](mgmt-badsystems.md) but discouraged by how their life is going.
 
 APPLICATION: Often, our problems aren't as bad as we [feel](mind-feelings.md) they are, and the problem may simply be [judgments](imagination.md) we're making about [information we already have](image.md).
 

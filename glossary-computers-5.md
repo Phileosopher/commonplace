@@ -93,7 +93,7 @@ SLA - service-level agreement, a written document that clarifies what a tech ser
 
 SLO - service-level objective, documentation that clarifies what the purpose of a tech service is for, leads to an SLA
 
-Slave - aka subsidiary (now that [Leftism](leftism.md) is offended by the term), a subordinate drive or record that has a lesser importance than others, in contrast with master
+Slave - aka subsidiary (now that [Leftism](politics-leftism.md) is offended by the term), a subordinate drive or record that has a lesser importance than others, in contrast with master
 
 Slot - a location in the case designated for a specific part, usually for long-term storage, not to be confused with ports
 

@@ -11,7 +11,7 @@ When it comes to discrimination, the tech industry has a few distinct difference
 
 - Age is a *much* more pronounced bigotry than in most other places in the world. The [obsession with new trends](https://trendless.tech/trends/) and the general reality that older people are more resistant to trendiness foster a cultural bias that slants toward younger people. It helps that younger people are also generally cheaper and don't tend to know [their rights](people-boundaries.md).
 - Many jobs are project/contract-based, and the constant turnover creates a widely shifting [culture](people-culture.md) relative to companies with longer-term roles.
-- Depending on the [political angle](leftism.md) of the company, you'll likely face discrimination if you are heterosexual, male, and white. You can usually sidestep this by labeling yourself trans/nonbinary/asexual or intentionally mixing up your pronouns.
+- Depending on the [political angle](politics-leftism.md) of the company, you'll likely face discrimination if you are heterosexual, male, and white. You can usually sidestep this by labeling yourself trans/nonbinary/asexual or intentionally mixing up your pronouns.
 
 As a bare minimum, make sure you have the following:
 

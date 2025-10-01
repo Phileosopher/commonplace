@@ -294,7 +294,7 @@ A. Identify the demographics of the audience you want leads for.
   - [Personality](personality.md)
   - [Lifestyles and motives](decisions.md)
   - [Social class](classes.md)
-    - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](leftism-sustainability.md)).
+    - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](politics-leftism-sustainability.md)).
   - Psychographics (psychological tendencies from the environment)
   - Geographic location (Geodemographics):
     - Province or region of the world
@@ -791,7 +791,7 @@ A *lot* of the marketing industry is built on bad data.
 Marketing is the art of [image](image.md), and some things *don't* have any form of value to almost anyone.
 
 - The marketing is a waste of time if it isn't spreading the message farther, making more money per person, or selling more products to existing customers.
-- Waste products *might* have value under an [eco-friendly brand](leftism.md), but only if it still fulfills the [purposes](purpose.md) people were pursuing.
+- Waste products *might* have value under an [eco-friendly brand](politics-leftism.md), but only if it still fulfills the [purposes](purpose.md) people were pursuing.
 - Above a certain price, it's impossible to [influence](power-influence.md) to purchase something.
 - If you're not [staying honest](people-lying.md), you'll have a harder time gaining trust throughout the [business relationship](people-6_contracts.md).
 

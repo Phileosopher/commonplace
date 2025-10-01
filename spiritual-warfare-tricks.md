@@ -41,7 +41,7 @@ Demonic distortion comes through a few simple approaches:
 Arguments against the truth aren't *nearly* as destructive as pleasant-sounding [jargon](language.md):
 
 - The aim is to make [sins](morality-sins.md) feel that they're not as bad [as God sees them](https://theologos.site/god-sight/).
-- Watch for inspiring words like "bold", "modern", "progressive", "social justice", and most of what the [Left](leftism.md) claims.
+- Watch for inspiring words like "bold", "modern", "progressive", "social justice", and most of what the [Left](politics-leftism.md) claims.
 - Stay attentive to socially acceptable actions that are legitimately sinful, especially if it's [shameful](morality-taboo.md) to indicate that they're sin.
 
 By isolating each generation from previous generations through rebellion, the devil can avoid wisdom from previous generations seeping into [youths'](maturity.md) understanding:
@@ -187,7 +187,7 @@ Any [conflict or struggle](conflicts-inner.md) is a golden opportunity for the d
 
 - First, the devil will try to inspire one of three types of sins, then redirect the natural [triggers](habits.md) from the situation into more destructive [purposes](purpose.md):
   1. Dishonorable, cowardly [fear](mind-feelings-fear.md). Since it's extremely painful, it can't last indefinitely. However, there *is* some pleasure in the other two, which can make them mental sanctuaries if a conflict persists long enough.
-  2. Courage that breeds pride. This one, however, causes good things in society, so the devil tries to avoid it if possible unless [paired with rebellion](leftism.md). Any [virtues](morality.md) that come from it can be directed as merely conditional on their hardship, instead of coming as an outflow of hardship.
+  2. Courage that breeds pride. This one, however, causes good things in society, so the devil tries to avoid it if possible unless [paired with rebellion](politics-leftism.md). Any [virtues](morality.md) that come from it can be directed as merely conditional on their hardship, instead of coming as an outflow of hardship.
   3. Hatred and rebellion at the causes of the struggle. The easiest way to sidestep the conscience's impulse for [forgiving and releasing](mind-feelings-happiness-stress.md) is by directing hate to someone who harmed someone else that they [love](people-love.md). Then, the Satan can add shame as needed to keep someone miserable until despair takes hold.
 - [Making precautions](safety.md) tends to increase [fear](mind-feelings-fear.md), so it's easy to remove courage afterward:
   1. Inspire us to make increasingly more backup plans in case things ever go badly.
@@ -251,7 +251,7 @@ Lucifer can and often does show himself. He transforms into a celestial being, w
 
 - Often, he'll blur the line between [religion](religion-answers.md) and [politics](politics-conservativeliberal.md) and redirect people from the reality that the Jesus of the Bible hasn't changed in thousands of years.
 - He'll over-emphasize some parts of the Bible and downplay others until it removes all context for the [story](stories.md). This then creates a distant Jesus as if it were a historical biography instead of the living God who came to earth for humanity's sin.
-- By doing this, Christians can be directed zealously to all forms of [social justice](leftism.md) or an entirely new [cult](culture-cults.md) instead of [Jesus' coming](jesus-returns.md) or [God's Kingdom](https://theologos.site/millennium/).
+- By doing this, Christians can be directed zealously to all forms of [social justice](politics-leftism.md) or an entirely new [cult](culture-cults.md) instead of [Jesus' coming](jesus-returns.md) or [God's Kingdom](https://theologos.site/millennium/).
 - If he's *really* successful, he can make people believe a whole separate document as if it were [Scripture](bible.md)!
 
 ## It Doesn't Matter

@@ -142,7 +142,7 @@ APPLICATION: If men and women can figure out how to manage their differences, th
 
 The battle for women's rights is to give them enough [power](power.md) that they [feel](mind-feelings.md) equal. Since the genders are uniquely different, the only reconciliation that would satisfy many women in a free society is *more* power than men, which is legitimately [unfair](morality-justice.md) to men.
 
-APPLICATION: The [Left](leftism.md) pushes to magnify gender differences, then tries to equalize women to fully play out men's roles. But, everyone is uniquely different, with unique needs and [desires](purpose.md). Females want affection and adoration, while males want respect.
+APPLICATION: The [Left](politics-leftism.md) pushes to magnify gender differences, then tries to equalize women to fully play out men's roles. But, everyone is uniquely different, with unique needs and [desires](purpose.md). Females want affection and adoration, while males want respect.
 
 Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](image.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach.
 

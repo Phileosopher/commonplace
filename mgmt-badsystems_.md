@@ -68,7 +68,7 @@ Often, bad leaders can quickly emerge in a good system:
 - An outside group wields its [power](power.md) without [opposition](people-conflicts.md), where the leadership can't stop it.
 - Pressure by [in-fighting](people-conflicts-war.md) among the members to [decide](decisions.md) against the interests of the group.
 
-The most tragic part of bad leaders is that their efforts are often [well-intended](purpose.md), but they either have a [defective philosophy of humanity](leftism.md) or simply don't have the [personality](personality.md) to lead.
+The most tragic part of bad leaders is that their efforts are often [well-intended](purpose.md), but they either have a [defective philosophy of humanity](politics-leftism.md) or simply don't have the [personality](personality.md) to lead.
 
 Any system can fall apart into a bad system, since the most reliable way to gain [power](power.md) is to skim just a little off each entity instead of exploiting one of them severely. This can mean payment processors, fee collectors, and others are most likely to become the bad system, but it can be anyone who is willing to harm many people only a little bit.
 
@@ -324,7 +324,7 @@ The only solution to fixing a bad system from the inside is revolutionary [chang
 - Against [human nature](humanity-universals.md), the system dramatically sheds a huge chunk of its [power](power.md), giving it more control over its smaller remaining base.
 - New management that throws out [convention](habits.md) and large portions of the organization's established [culture](people-culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](understanding.md) and [influential](influence.md) [values](values.md).
 - Massive reorganization of members and roles, with a significant portion of the group getting promoted or removed from the group.
-- Adoption of a key [trend](trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](image-distortion.md) virtue (e.g., [leftism](leftism.md)).
+- Adoption of a key [trend](trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](image-distortion.md) virtue (e.g., [leftism](politics-leftism.md)).
 - Complete destruction of the group, often by removing the massive central authority and dividing the group into smaller components.
 
 People don't typically like [change](people-changes.md), so the only way to make *all* the necessary changes is when the system is already disrupting everyone's [habits](habits.md). A crisis is the best trigger for this, but a [manufactured crisis](image-distortion.md) can [work just as well](results.md) if [people will buy it](influence.md).
@@ -332,7 +332,7 @@ People don't typically like [change](people-changes.md), so the only way to make
 The more likely scenario, though, for most bad systems, is decay through tribalism:
 
 1. Within a [group](groups-large.md), the [selection](decisions.md) for members' [promotions](power-types.md) will be defined [intuitively](mind-feelings.md) by aptitude, at least at first.
-2. Eventually, the leadership will introduce a [bias](mind-bias.md), often presented as enforcing [fairness](morality-justice.md). This bias (often [leftism](leftism.md), but doesn't have to be) will over-emphasize a people group, typically racial or ethnic, and will naturally pick a "losing" subgroup.
+2. Eventually, the leadership will introduce a [bias](mind-bias.md), often presented as enforcing [fairness](morality-justice.md). This bias (often [leftism](politics-leftism.md), but doesn't have to be) will over-emphasize a people group, typically racial or ethnic, and will naturally pick a "losing" subgroup.
 3. The individuals, in individually-defined acts of self-preservation, will [identify](identity.md) (at least publicly) as anything *but* the scapegoat group.
 4. The group's and leadership's judgments will slowly base on secondary characteristics to aptitude, which may include racial or ethnic domains, or may branch into another division (e.g., [ideology](values.md)).
 5. By the time any of the above expresses explicitly, the group is mostly beyond restoration, and its success will follow its most effective factions.
@@ -404,7 +404,7 @@ It takes years to develop a [cultural](people-culture.md) expectation of transpa
 
 If anyone deems an organization as "too big to fail", the more accurate description is "so big it'll inevitably fail".
 
-A political revolution is often a bad system, especially when run by [extremist groups](leftism.md). This is because most [political systems](politics-conservativeliberal.md) are bad systems. They tend to blame the opposition more than [getting things done](results.md), and this will likely never change.
+A political revolution is often a bad system, especially when run by [extremist groups](politics-leftism.md). This is because most [political systems](politics-conservativeliberal.md) are bad systems. They tend to blame the opposition more than [getting things done](results.md), and this will likely never change.
 
 Scandals are common because leaders have to enforce an [image](image.md) of values, but they're human and fallible.
 
@@ -446,7 +446,7 @@ Monopolies are inevitable as long as people desire [power](power.md). Antitrust 
 
 Underused resources are just as critical to fixing a bad system as unused ones. Often, people need [creativity](mind-creativity.md) that only comes from leaving their [culture](people-culture.md) to find things [purposed](purpose.md) for one thing that can accomplish another.
 
-We don't like oppressive dictators, but there are *always* worse alternatives. Consider who's dethroning someone from [power](power.md) before endorsing it, especially with extreme groups like [hard leftism](leftism.md).
+We don't like oppressive dictators, but there are *always* worse alternatives. Consider who's dethroning someone from [power](power.md) before endorsing it, especially with extreme groups like [hard leftism](politics-leftism.md).
 
 Government elections are corrupt proportionally to the amount of work it takes to even run a campaign. Therefore, corruption in government scales with population.
 

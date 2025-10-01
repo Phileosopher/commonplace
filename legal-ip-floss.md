@@ -125,7 +125,7 @@ There are many [licensing options](people-contracts.md) specifically for publish
   - Aladdin Free Public License (AFPL)
   - The [Common Development and Distribution License (CDDL)](https://opensource.org/license/cddl-1-0/), created by Sun Microsystems, was based on the MPL, and was created to overcome the shortcomings of the MPL to allow more commercial business cases.
   - The [WTFPL](http://www.wtfpl.net/) is intentionally simple, and intentionally non-invasive, but probably not appropriate or granular enough for *many* contexts.
-  - The [Anti-Capitalist Software License (ACSL)](https://anticapitalist.software/) has a [leftist](leftism.md) streak to its licensing approach.
+  - The [Anti-Capitalist Software License (ACSL)](https://anticapitalist.software/) has a [leftist](politics-leftism.md) streak to its licensing approach.
 
 Without any of those licenses in place, a software developer must ask permission first before modifying, distributing, or selling any derivative work. Historically, many developers did *not* do that, but it was certainly illegal.
 

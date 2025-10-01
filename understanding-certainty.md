@@ -94,11 +94,11 @@ When this happens, we suffer a type of cognitive dissonance where we trust two i
 
 APPLICATION: To find someone's actual opinion, ask for their advice for [resolving a problem](fix.md), or what they think everyone else believes.
 
-We tend to have an [inner conflict](conflicts-inner.md), but many people with [trauma](hardship-ptsd.md) will [mix their trauma into what they believe about others' lives](people-boundaries.md). Some [political systems](leftism.md) and [institutions](mgmt-badsystems.md) take advantage of this.
+We tend to have an [inner conflict](conflicts-inner.md), but many people with [trauma](hardship-ptsd.md) will [mix their trauma into what they believe about others' lives](people-boundaries.md). Some [political systems](politics-leftism.md) and [institutions](mgmt-badsystems.md) take advantage of this.
 
 Eventually, a person must decide: accept the new information they perceive, or believe something is "testing" their faith. Either way, they're rebuilding their [story](stories.md), either by changing the [logical](logic.md) conclusion (aka "changing their mind") or adding/removing premises.
 
-APPLICATION: Hypnosis is all around us (especially through our [past trauma](hardship-ptsd.md), [public media](creations.md), and [politics](leftism.md)), but we can use it for our [purposes](purpose.md). By repeating something specific, we can channel our subconscious (e.g., "I will find a new job by the end of March."). It's [the secret to most success](success-2_attitude.md).
+APPLICATION: Hypnosis is all around us (especially through our [past trauma](hardship-ptsd.md), [public media](creations.md), and [politics](politics-leftism.md)), but we can use it for our [purposes](purpose.md). By repeating something specific, we can channel our subconscious (e.g., "I will find a new job by the end of March."). It's [the secret to most success](success-2_attitude.md).
 
 APPLICATION: Everyone, even [leaders](groups-small.md), are subject to changing their views. This can create large-scale consequences for everyone, especially if it's changing a [core view](philosophy.md).
 

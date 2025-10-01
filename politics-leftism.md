@@ -117,7 +117,7 @@ The ideal domain is a diversity of thought, which requires constant organization
 
 ## The climate cult
 
-Another topic the left has adopted is the [story](stories.md) that humanity is destroying nature ("ecocide"). The claim has moved around, but the general idea is that human-produced carbon emissions cause [instability](leftism-sustainability.md) in the climate, which can cause extreme weather conditions.
+Another topic the left has adopted is the [story](stories.md) that humanity is destroying nature ("ecocide"). The claim has moved around, but the general idea is that human-produced carbon emissions cause [instability](politics-leftism-sustainability.md) in the climate, which can cause extreme weather conditions.
 
 There are a few realities (mostly [scientifically](science.md) proven) that conflict with the climate apocalypse story:
 
@@ -136,7 +136,7 @@ However, leftists can still politicize the weather because people are [afraid](m
 
 The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
 
-The cure for any potential forthcoming climate catastrophe is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free [information](information.md), not fewer people, with government grants oriented toward performance. [Sustainability](leftism-sustainability.md) is difficult to measure, so it quickly creates a [bureaucratic mess](mgmt-badsystems.md).
+The cure for any potential forthcoming climate catastrophe is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free [information](information.md), not fewer people, with government grants oriented toward performance. [Sustainability](politics-leftism-sustainability.md) is difficult to measure, so it quickly creates a [bureaucratic mess](mgmt-badsystems.md).
 
 The solutions proposed by leftist leaders are complete [misdirections](image-distortion.md). Extended surveillance, shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries.md).
 

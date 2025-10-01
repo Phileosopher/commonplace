@@ -11,7 +11,7 @@ As people [age](maturity.md), they tend to discover that there's nothing really 
 
 Conservatives tend to vote for civilization and liberals for equality, but this isn't precisely true:
 
-- At the farthest extremes, a conservative will *always* enforce [rules](rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](image.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
+- At the farthest extremes, a conservative will *always* enforce [rules](rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](image.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
 - Most normal people have a case-by-case [inner conflict](conflicts-inner.md) tied to their [beliefs](understanding-certainty.md). Those beliefs come from [religious views](religion.md), definitions of [humanity](humanity.md), how we should [empower](power.md) the weakest in society, and many other [philosophical](philosophy.md) elements.
 
 While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
@@ -27,7 +27,7 @@ Conservative and liberal are difficult to define because they're responses to [t
 
 Political power often requires bending public opinion, so "conservative" and "liberal" are often hijacked for other [purposes](purpose.md). Sometimes, *conservatives* are looking for new things and liberals are trying to restore an old social order, but [feelings](mind-feelings.md) run so strongly that the definition and meaning of the words everyone uses is very difficult to separate out.
 
-When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
+When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](politics-leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
 
 Most of this contention comes through a series of inter-related conflicts:
 
@@ -42,7 +42,7 @@ Political spectra are difficult to define, but free societies create a few const
 First, all [political conflicts](people-conflicts-war.md) are driven by philosophically irreconcilable opinions on who should have power. This comes from where they believe society's chronic issues come from:
 
 - Conservatives believe in preserving civilization by suppressing [savage urges](mind-feelings.md), which requires consistently taking from anyone who crosses [boundaries](people-boundaries.md).
-- Progressives believe [society's leadership](groups-large.md) has many [moral oppressions](morality.md) they must [fix and atone for](leftism.md), which requires consistently taking from anyone with more [power](power.md) and giving to those with less.
+- Progressives believe [society's leadership](groups-large.md) has many [moral oppressions](morality.md) they must [fix and atone for](politics-leftism.md), which requires consistently taking from anyone with more [power](power.md) and giving to those with less.
 
 However, both conservatives and liberals run the risk of abusing their power, meaning that too far in either spectrum becomes an oppressive, [unjust](morality-justice.md) society with punitive [rules](rules-methods.md) ("horseshoe effect").
 
@@ -56,7 +56,7 @@ Progressives believe natural law is relative, nonexistent, or doesn't matter:
 
 - Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
 - Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
-- [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](leftism.md).
+- [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
 
 Further, in the midst of the two poles, other value systems diverge from the spectrum by emphasizing individuals' freedom:
 

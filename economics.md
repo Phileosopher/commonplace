@@ -95,7 +95,7 @@ APPLICATION: As long as people can privately own things, legally or illegally, t
 
 In any exchange, both sides *always* benefit from the trade. Even under duress (e.g., blackmail), there's a perceived benefit for both sides to make that exchange.
 
-APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](leftism.md). No matter how badly a [government](rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
+APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](politics-leftism.md). No matter how badly a [government](rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
 
 Even when we *give* things away, we're usually calculating a more elaborate [purpose](purpose.md):
 
@@ -133,7 +133,7 @@ The tragedy of the commons has a few possible solutions:
 
 1. Most commonly, tax the public and maintain it with paid government workers.
 2. Use a variation of [private property](people-boundaries.md) rights to motivate people to maintain it (e.g., [advertising](marketing.md)).
-3. Abolish *all* private property to make *everything* a public good, which is essentially [communism](leftism.md).
+3. Abolish *all* private property to make *everything* a public good, which is essentially [communism](politics-leftism.md).
 4. Assuming there are no [barriers to entry](mgmt-badsystems.md) (e.g., "crony capitalism"), the tragedy of the commons gives [entrepreneurs](socialrisk.md) the motivation to create private versions of public goods.
 
 Some economists believe the market shouldn't dictate the cost of a [worthwhile](purpose.md) public good. They propose that governments should manage things society needs that are unprofitable to maintain.
@@ -152,7 +152,7 @@ People instinctively separate tasks and take [specialized roles](jobs-specializa
 
 Economies are immensely diverse. People of all types who would normally *never* [associate](people-friends.md) with each other voluntarily will constantly and frequently meet to trade.
 
-Income inequality comes from how each job has a different value to everyone. [Leftist](leftism.md) governments typically lower the pay of high-paying jobs to equalize labor, but they always have to force future workers to invest their human capital in that task (e.g., becoming a lawyer takes lots of school, so it's not worth the effort if welding pays the same).
+Income inequality comes from how each job has a different value to everyone. [Leftist](politics-leftism.md) governments typically lower the pay of high-paying jobs to equalize labor, but they always have to force future workers to invest their human capital in that task (e.g., becoming a lawyer takes lots of school, so it's not worth the effort if welding pays the same).
 
 Since unskilled workers don't have a specialization, they have a difficult time entering the workforce and are usually paid a low wage:
 
@@ -286,7 +286,7 @@ Complete emergent order would be complete anarchy, though, because no central le
 
 At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs. This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
 
-Centralized planning taken to its farthest becomes fascism or [communism](leftism.md). So far, it's always failed spectacularly.
+Centralized planning taken to its farthest becomes fascism or [communism](politics-leftism.md). So far, it's always failed spectacularly.
 
 Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
 

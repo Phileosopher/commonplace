@@ -422,7 +422,7 @@ Constraining rights and freedoms:
 
 - A class action waiver prohibits a party from filing a "class action suit" against the other party.
 - An "exclusion clause" can seek to restrict the rights of the parties to the contract, though it may make the contract unenforceable.
-- An inclusion/equity rider can require an actor's or filmmaker's contract to discriminate toward a certain level of [politically-left-favored](leftism.md) diversity in casting and production staff.
+- An inclusion/equity rider can require an actor's or filmmaker's contract to discriminate toward a certain level of [politically-left-favored](politics-leftism.md) diversity in casting and production staff.
 - A "negative pledge" prohibits a party to the contract to creating any security interests over specific property.
 
 Granting more rights and freedoms:

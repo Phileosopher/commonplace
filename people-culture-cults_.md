@@ -197,7 +197,7 @@ Some of these groups are patently obvious to anyone on the outside:
 - [Violent](people-conflicts-war.md) extremist groups (e.g., terrorists)
 - Cartels and organized crime (e.g., mafia)
 - [Human traffickers](slavery.md)
-- [Charming](influence.md) [religious](religion.md) leaders and [human potential](leftism.md) leadership
+- [Charming](influence.md) [religious](religion.md) leaders and [human potential](politics-leftism.md) leadership
 - [Multi-level marketing](marketing-mlm.md)
 - Extreme [political action](politics-conservativeliberal.md) groups
 - Abusive [family members](people-family.md) and [spouses](gender.md)

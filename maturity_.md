@@ -5,7 +5,7 @@ Those prejudices are common sense, but only "common" to someone who has come to 
 
 ## Awareness + Virtue
 
-Immature people, as a general rule, are aware of [injustice](morality-justice.md), but they tend to attribute it to odd causes like bystanders or claim their [decisions](decisions.md) are a product of [victimhood](leftism.md). They will also tend to treat their [bias](mind-bias.md) as [fact](reality.md).
+Immature people, as a general rule, are aware of [injustice](morality-justice.md), but they tend to attribute it to odd causes like bystanders or claim their [decisions](decisions.md) are a product of [victimhood](politics-leftism.md). They will also tend to treat their [bias](mind-bias.md) as [fact](reality.md).
 
 We gain experiences as we grow older. These experiences shape us to create accurate [prejudices](image.md) about life if we [understand](understanding.md) how they work and what they imply.
 
@@ -147,7 +147,7 @@ In many modern civilizations, children are processed through an age-based system
 
 [Modern civilization](people-culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
 
-Group leaders often use "[grades](math.md)" to keep everyone motivated and measure if children are achieving what they must learn. However, those numbers are frequently arbitrary games to focus their attention. [Some groups](leftism.md), however, don't consider *any* criteria as worth holding them back, and it sabotages the [meaningfulness](meaning.md) that would have come from attaining high marks.
+Group leaders often use "[grades](math.md)" to keep everyone motivated and measure if children are achieving what they must learn. However, those numbers are frequently arbitrary games to focus their attention. [Some groups](politics-leftism.md), however, don't consider *any* criteria as worth holding them back, and it sabotages the [meaningfulness](meaning.md) that would have come from attaining high marks.
 
 Eventually, in an age-based system, children reach an age of majority (~12-21 years old), where society presumes they're likely to behave maturely at that age. In a society without any passage rituals, that age will get older as time passes to accommodate an ever-increasingly low maturity rate from older and older people having little to no competence from the resistance they should have faced.
 

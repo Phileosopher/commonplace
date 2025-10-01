@@ -154,7 +154,7 @@ Fancy formatting:
 Specific personal details:
 
 - Unless it's for an acting role, employers aren't concerned with weight or height.
-- A company only cares about diversity quotas (e.g., family status, citizenship, race, [gender](gender.md)) if they lean *very* [leftward](leftism.md) politically.
+- A company only cares about diversity quotas (e.g., family status, citizenship, race, [gender](gender.md)) if they lean *very* [leftward](politics-leftism.md) politically.
 
 Outside of acting roles, photographs are a bad idea:
 

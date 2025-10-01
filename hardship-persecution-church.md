@@ -127,7 +127,7 @@ Depending on the leadership's decisions, merely *existing* as a Christian become
 - Christians will often have to endure incessant and oppressive government regulations.
 - At its most extreme, Christians are incarcerated and tortured.
 - Occasionally, particularly cruel nations will force them to perform in blood sport.
-- [Leftist](leftism.md) countries often mandate "rehabilitation programs" or sending them to "re-education centers".
+- [Leftist](politics-leftism.md) countries often mandate "rehabilitation programs" or sending them to "re-education centers".
 - At the worst, Christians may live under a persistent threat of mass genocide.
 
 The most evil and cruel leaders never last more than a few years, but the persecution doesn't always stop with regime changes:
@@ -272,11 +272,9 @@ Learn to stay silent:
 - Most people are accustomed to frequently talking, so we must [train ourselves](https://adequate.life/habits/) to it *before* we encounter it.
 - Ministering to other Christians comes through silence *far* more than speaking.
 
-Learn Morse code *before* you need it:
+Learn [Morse code](encryption-morsecode.jpg) *before* you need it.
 
-![](/wp-content/uploads/2020/08/morsecode-699x1024.jpg)
-
-Morse code can be absolutely crucial for communication with others.
+- Morse code can be absolutely crucial for communication with others.
 
 Stay in constant connection with other believers as much as you can:
 
@@ -324,7 +322,7 @@ Beware of the "moment of crisis":
 
 - Torturers work to attain a specific state of mind where a person has been completely broken down.
 - At that point, a Christian will feel that nothing really matters anymore.
-- In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](leftism.md), plead guilty, and anything else the torturer [wants](purpose.md).
+- In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](politics-leftism.md), plead guilty, and anything else the torturer [wants](purpose.md).
 - At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/bsb/romans/8.htm)).
 - Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation ([1 Peter 1:4](https://biblehub.com/1_peter/1-4.htm)).
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!

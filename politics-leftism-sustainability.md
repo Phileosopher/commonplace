@@ -81,7 +81,7 @@ The most lasting form of education, though, comes through the wisdom and experie
 
 Females and males are [biologically different from birth](gender.md). Unfortunately, those differences often create nuanced differences in [purpose](purpose.md).
 
-Like with many [left-leaning ideologies](leftism.md), the hangup ties to the specificity of the term "equality". In that sense, this is a subset of Goal 10.
+Like with many [left-leaning ideologies](politics-leftism.md), the hangup ties to the specificity of the term "equality". In that sense, this is a subset of Goal 10.
 
 Since males and females don't [think](understanding.md) precisely the same way, they will not [accomplish purposes](purpose.md) in the same way, or with a similarly predictable timeline.
 
@@ -149,7 +149,7 @@ A nation is made of its citizens, and individual differences create individual i
 
 The sensible action would be to see which countries measure up as the most prosperous and expect the other countries to imitate that of their own governmental volition, with inequalities only measured after accounting for unwillingness to work with "best practices".
 
-- Generally, the USA has been fantastically prosperous (contrary to [leftist](leftism.md) complaints), and other countries could [learn](education.md) from that.
+- Generally, the USA has been fantastically prosperous (contrary to [leftist](politics-leftism.md) complaints), and other countries could [learn](education.md) from that.
 
 ## Goal 11: Sustainable Cities and Communities
 

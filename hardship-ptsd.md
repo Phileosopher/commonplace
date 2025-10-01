@@ -65,7 +65,7 @@ Nobody experiences trauma the same way, and they express it even more differentl
 - Hatred of [alcohol](fun-alcohol.md) and its paraphernalia, along with anyone in the industry. Taken far enough, will use [religion](religion.md) to suppress it.
 - Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](education.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
 - Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groups-member.md) associated with them.
-- Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](gender.md) [identity](identity.md) or becomes a [feminist](leftism.md).
+- Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](gender.md) [identity](identity.md) or becomes a [feminist](politics-leftism.md).
 
 The hatred is a [habit loop](habits.md) that triggers on anything that reminds the person of the original pain. Those triggers can move *far* from the original source.
 
@@ -115,14 +115,14 @@ APPLICATION: Some of the worst archetypes of people come from this hardened trau
 
 - [Obsessive bureaucrats](bureaucracy.md)
 - [Overbearing parents](parenting-3_teenagers.md)
-- [Social justice warriors](leftism.md)
+- [Social justice warriors](politics-leftism.md)
 - [Religious](religion.md) zealots
 - [Yellow journalists](stories-storytellers.md)
 - [Attorneys](rules.md)
 - [Lobbyists](mgmt-badsystems.md) and [activists](groups-member.md)
 - [Hyper-intellectuals](understanding.md), especially [post-modern philosophers](philosophy.md)
 
-FURTHER APPLICATION: We should pity these people. They're oblivious to their motives, even while many of them [destroy society](leftism.md). If we condemn them, they become self-proclaimed martyrs. If we venerate them, they [hold to their persona](identity.md) more than their true selves.
+FURTHER APPLICATION: We should pity these people. They're oblivious to their motives, even while many of them [destroy society](politics-leftism.md). If we condemn them, they become self-proclaimed martyrs. If we venerate them, they [hold to their persona](identity.md) more than their true selves.
 
 FURTHER APPLICATION: Of course, to pity someone disadvantages them because you're implying they have a problem they haven't fixed and don't have the [power](power.md) to fix. Expect them to [self-preserve](mind-feelings-fear.md) and attack you if you're not careful.
 

@@ -225,7 +225,7 @@ Marker-based AR - augmented reality that displays content on top of an image
 
 Markerless AR - augmented reality that simply needs an empty space
 
-Master - aka main (now that [Leftism](leftism.md) has gotten offended at it), a dominant drive or record that has a higher importance than others, contrast to slave
+Master - aka main (now that [Leftism](politics-leftism.md) has gotten offended at it), a dominant drive or record that has a higher importance than others, contrast to slave
 
 Matrix - a grid of data
 

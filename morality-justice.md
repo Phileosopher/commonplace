@@ -56,7 +56,7 @@ APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your de
 
 For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-specialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
 
-APPLICATION: Among other things, [leftism](leftism.md) tends to conflate equality with sameness.
+APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflate equality with sameness.
 
 ## Basis
 

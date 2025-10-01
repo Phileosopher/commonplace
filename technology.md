@@ -48,7 +48,7 @@ Technological development is fueled the most by [capitalism](economics.md) (beca
 
 Of course, while technology adds wealth, it creates more inequality. A few people with a complex tool that can perform the work of hundreds is guaranteed to have more power than a hundred people without that tool.
 
-Contrary to the mindsets of [leftism](leftism.md) or [libertarian paternalism](mgmt-badsystems.md), technological progress can only be nurtured, and can't be rushed.
+Contrary to the mindsets of [leftism](politics-leftism.md) or [libertarian paternalism](mgmt-badsystems.md), technological progress can only be nurtured, and can't be rushed.
 
 ## Odd behavior
 
@@ -126,7 +126,7 @@ APPLICATION: Don't blame technology, blame the user. This applies to guns, writt
 
 Frequently, leaders declare certain technologies (e.g., weapons, drugs) [evil](morality-evil.md) from their capacity to destroy. They'll sometimes [control them](rules.md), and other times [ban them](morality-taboo.md). But, if someone is [creative](mind-creativity.md) enough with *other* technology, they can usually get around the [rules](rules.md) (e.g., [3D-printed](engineering-printers.md) guns).
 
-Typically, because of the way technologies develop, they create waste, though the technology is frequently *far* better than the downsides of its [pollution](leftism.md). Like any other [creation](mind-creativity.md), refining the technology can remove that waste, but most of the creators aren't concerned with the [damage](results.md) they inflict while creating. There's no reliable way to [regulate](rules.md) this without stifling the [creative process](mind-creativity-how.md) until the technology has reached [full maturity](trends.md).
+Typically, because of the way technologies develop, they create waste, though the technology is frequently *far* better than the downsides of its [pollution](politics-leftism.md). Like any other [creation](mind-creativity.md), refining the technology can remove that waste, but most of the creators aren't concerned with the [damage](results.md) they inflict while creating. There's no reliable way to [regulate](rules.md) this without stifling the [creative process](mind-creativity-how.md) until the technology has reached [full maturity](trends.md).
 
 Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-3_exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
 

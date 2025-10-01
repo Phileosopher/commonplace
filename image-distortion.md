@@ -191,7 +191,7 @@ Blame
 Public [Image](image.md)
 
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
-- Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](leftism.md)).
+- Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](politics-leftism.md)).
 - Use [authoritative](power.md)-sounding labels (e.g., "association", "endowment", "coalition", "opportunity fund")
 - Establish [traditions](people-culture.md) that imply [stories](stories.md) about the organization.
 - Donating to other organizations that serve the public good.

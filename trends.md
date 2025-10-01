@@ -387,7 +387,7 @@ Also, when the pendulum sits in the trends of [individual efforts](purpose.md), 
 
 APPLICATION: Everything has its season, and watching for the timing of a season is critical to [living well](goodlife.md). Investing effort, or not, depends on what phase of the Recovery/Buildup/Action cycle we're in.
 
-Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](leftism.md)):
+Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](politics-leftism.md)):
 
 1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries.md)).
 2. No slow exposure to increasing challenges sabotages the means of [accomplishing](purpose.md) (e.g., burning/exiling heretics, insufficient [resources](power-types.md)), and growth that's too slow won't make the [impact](results.md) it could have otherwise (since we all must contend with our [eventual end](legacy.md)).

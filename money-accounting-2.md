@@ -300,7 +300,7 @@ Auditors, like claims adjusters, do *not* believe in mere coincidences, and they
 - Unqualified opinions indicate that the information is sound.
 - Qualified opinions indicate they have a "qualification" that demonstrates a problem with the information.
 
-There are also specific audits for [ESG](leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](trends.md) that there's not as much precedent as a standard audit.
+There are also specific audits for [ESG](politics-leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](trends.md) that there's not as much precedent as a standard audit.
 
 ## Mergers/acquisitions
 

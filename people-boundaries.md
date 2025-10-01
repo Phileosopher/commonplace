@@ -58,7 +58,7 @@ The complicated part about each person's rights is that it applies to *everyone 
 
 Most [interpersonal conflicts](people-conflicts.md) are grounded on either [misunderstanding](understanding.md) boundaries or trying to [assert privileges](power.md) as if they were rights.
 
-Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](leftism.md) actually *thrive* on this sense of injustice.
+Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](politics-leftism.md) actually *thrive* on this sense of injustice.
 
 The [laws of a territory](rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
 

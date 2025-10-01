@@ -205,4 +205,4 @@ Since creativity requires breaking [rules](rules.md), most creative people end u
 - A child's [image](image.md) of [reality](reality.md) has unclear or nonexistent rules.
 - The [hardships](hardship.md) of this world often bring around "adult" thinking by showing how things really are.
 - In a sense, the collective potential of a society can be defined by how small a minority are represented as artists.
-- At the same time, it's part of a [cycle](trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](leftism.md)), until the eventual decline decreases the ratio of artists again.
+- At the same time, it's part of a [cycle](trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](politics-leftism.md)), until the eventual decline decreases the ratio of artists again.

@@ -111,7 +111,7 @@ Hauser's Tax Law - Federal tax receipts, since WWII, always seem to be 19.5% of 
 
 Kranzberg's Fourth Law of Technology - While technology is critical for public issues, nontechnical things determine technology decisions.
 
-Leftward Effect/Go Woke Go Broke - If an organization pushes an [ideology](values.md) that leans too far [left](leftism.md) compared to its members, many of its members will leave.
+Leftward Effect/Go Woke Go Broke - If an organization pushes an [ideology](values.md) that leans too far [left](politics-leftism.md) compared to its members, many of its members will leave.
 
 O'Sullivan's First Law - Any organization that's not overtly right-wing/[conservative](politics-conservativeliberal.md) will trend leftward/liberal over time.
 

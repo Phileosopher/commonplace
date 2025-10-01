@@ -32,7 +32,7 @@ Some immoral things *aren't* taboo:
 - Many types of verbal or psychological abuse.
 - Harsh and [unloving](people-love.md) behavior.
 
-Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](leftism.md) as well.
+Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
 
 The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](decisions.md) that may include it.
 
