@@ -108,6 +108,8 @@ If you are ever pulled over by the police:
 
 ## How to defend yourself in court
 
+[The process is absurdly arcane](legal-safety-crime.png), so learn to be patient, and don't expect anything will or won't happen until it's been finalized.
+
 For most things (e.g., unsafe vehicle, inadequate property) you're required to receive a notice of violation first.
 
 In a criminal situation, don't expect the courts to side with you.

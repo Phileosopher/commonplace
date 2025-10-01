@@ -3,8 +3,6 @@
 
 *DISCLAIMER: None of this is legal advice. It's all common sense or ideas heard from others. It doesn't clarify how to be a decent human being, and complete compliance may, in fact, do the opposite. Visit [My Omnibus Terms and Conditions](https://stucky.tech/terms/) if you feel compelled to sue.*
 
-![the many ways a criminal case can lead to exoneration](https://notageni.us/wp-content/uploads/2023/10/caseflow-1024x529-1.png)
-
 In a litigious society, everyone must learn basic legal safety.
 
 - 80%+ of the people, in *any* society, are decent-enough that they honor laws and don't like litigation at all.
