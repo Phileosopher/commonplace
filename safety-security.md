@@ -1,120 +1,100 @@
 
-# How to be secure from other people
+# Security summarized
 
-## If someone is tailing you while driving
+Security, by its design, is keeping specific assets [safe](safety.md) by preventing actions from happening that would adversely affect those assets.
 
-1. Confirm that you're being tailed.
-   - Make 4 left turns.
-   - Drive erratically and unpredictably.
-2. Try to navigate somewhere they can't follow you.
-3. If you need, drive to the police station and get out.
+To that end, every secure thing has to have the following questions answered:
 
-## If people confront you in a crowd
+1. *Who or what*, exactly, is the asset being protected?
+2. *Who or what*, approximately, could damage or destroy #1?
+3. *How* would #2 happen?
+4. *What or how* can #3 be stopped?
 
-- If your instincts tell you to, sprint away from the scene.
-- Don't freeze up or change your behavior if others yell for you.
+We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](education.md), but it's easy to [imagine](imagination.md) we do:
 
-## If you're fighting someone twice your size
+- It's impossible to know about risks you couldn't have been exposed to, but it's easy to imagine our [fears](mind-feelings-fear.md) in that direction.
+- [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.
+- If we have particularly strong [trust issues](trust.md), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
 
-1. If you can outrun them, always run instead of fighting.
-2. Throw the first punch to use the element of surprise.
-3. Keep your arms by your face, fists clenched.
-4. Keep moving, to be harder to hit.
-5. If you can, choke them into submission.
+In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](goodlife.md) beyond a certain point:
 
-If you've been abducted:
+- 1-10% of society provides any legitimate risks to assets, and the rest of the people would never even *think* of doing anything adverse to it.
+- Dwelling on security risks beyond necessity almost guarantees you'll transfer an appropriately heavy-handed approach to a minority of people toward everyone else.
 
-- If your mouth is duck-taped and hands tied together, lick the tape until it falls off.
-- If you're stuck in a car trunk, disconnect the taillight wires, then kick the trunk lid as hard as you can when a cop pulls them over.
+The domains of security break apart into many other subdomains:
 
-If you're getting buried alive:
+- [Law enforcement](legal-safety.md) protects against the violation of a nation's [rules](people-rules.md).
+- Private security protects against their [clients](people-6_contracts.md) or their possessions.
+- [Cybersecurity](computers-cysec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](computers-cysec-compliance.md).
+- Personal security involves protecting yourself and your possessions.
+- Locks and their mechanisms protect against breaches of physical things.
+- Most domains of [risk management](safety-riskmgmt.md) are [specialized](jobs-specialization.md) towards at least *some* aspect of the philosophies driving a security mindset.
 
-- Tie your shirt around your face to avoid suffocating.
+The principle of deterrence is to provide enough risks against bad actors (e.g., automatically notifies the police) that they would reconsider acting.
 
-If you're about to be hit by a tear gas canister:
+- Anyone sufficiently motivated and sufficiently skilled, however, can still steal or destroy anything they want.
+- The objective, therefore, is not to be *completely* secure, since that can't happen.
 
-- Cut a plastic water bottle to your face's shape, then fit it over a surgical mask.
+Instead, there are two large-scale objectives for any secure system:
 
-Crowd crush:
+1. Motivate the bad actor to perform action against a neighboring victim (e.g., a chain-link fence versus the neighbor having no fence).
+2. Minimize the scope of possible destruction or theft from the bad actor (e.g., a different locked door for each room).
 
-1. Beforehand:
-   - Your problem is that you can be packed tightly in a group of people to where you can't breathe and may get trampled, and it can come from *anything* that delivers extreme mass excitement or fear.
-   - Research how many people will be at the location (especially standing up) and the venue's capacity, as well as the type of fans and music.
-   - Go with a group of friends to keep track of each other.
-   - Wear distinctive clothing to stand out, with comfortable shoes that are easy to move in.
-   - Bring plenty of fluids to stay hydrated, and be careful with [alcohol](fun-alcohol.md) because it may dehydrate you.
-2. Arriving:
-   - Park close to an exit, even if you have to walk farther, so you can quickly get to your vehicle.
-   - Locate *all* nearby exits in the venue.
-   - Have a general plan for where you'd go if something happened.
-3. At the venue:
-   - Keep an eye out for existing chaos that may magnify later (e.g., the queuing system into the venue is chaotic).
-   - Do not stand near the barriers in front of a stage or near balcony overlooks.
-   - Mind that stairs and ramps take more room to go *down* from our hip movement than up.
-4. If stuck in a crowd:
-   - Stand with one foot ahead of the other with knees slightly bent and hands protecting your chest and head (like a boxer) to absorb pressure from other people pushing against you.
-   - Never resist the force of the crowd, and try to go with where they flow.
-   - Instead of getting to the front or back, try to move diagonally to the sides of the crowd where there's a lull in movement.
-   - If you drop something, do *not* try to pick it up, since you'll likely get trampled.
-5. If you fall down:
-   - Crawl out to the side of the main pathway instead of attempting to stand up again.
-   - If you've fallen down completely, curl into a ball and stay calm, then get up as soon as you can.
-   - If you can, lie on your left side to protect your heart and lungs, since lying on your back or stomach can prevent you from breathing if others fall on you.
-   - Do *not* waste oxygen by screaming, since nobody will hear you, and the air in a crush is often hot and muggy.
-   - Stay calm and lift your head upwards for better access to fresh air.
+In particular, events that are both incredibly devastating and extremely unlikely are important to consider, but most people don't think about it:
 
-If you may soon be in an active shooter situation:
+- We can often be so preoccupied with [a project's status and deadlines](mgmt-4_status.md) that we forget about what happens if we *do* succeed.
+  - In many domains, the "ready, fire, aim" approach will be the most likely to get to market, and therefore [succeed against competitors](entrepreneur-3_plan.md).
+- Unless you're in a high-risk area, security systems cost money immediately, but it rarely provides any short-term benefit, especially against competitors.
+  - The only way to allow security to work as part of the organization's mission (rather than against it) is to have safety or security as part of its [core values](mgmt-6_morale.md) or [marketing](marketing.md).
 
-1. Before the event, make a premeditated escape plan of every exit you can leave through.
-2. Run as soon as you hear gunfire, according to that plan.
-   - Since it'll slow you down, and you have very little time, don't bother grabbing anything.
-   - While you'll likely feel compelled to, don't try to assist the wounded.
-   - People don't leave for several reasons:
-     - They're cowering in fear.
-     - They somehow believe they won't get shot if they act normal.
-     - While it'll actually increase their chances of getting killed, they think hiding is the safest action.
-   - To make yourself a more difficult target, run in a zigzag pattern.
-     - Even experienced marksmen have a difficult time with moving targets.
-     - Move rapidly to create as much distance as you can.
-     - Put barriers that stop bullets between you and the shooter (e.g., concrete pillars, vending machines or cars).
-   - If others are at risk, tell them to come with you.
-     - Warn others you run by about the threat to their lives.
-     - If the government isn't responsible, call the police immediately, and don't assume anyone has yet.
-3. Hide if you absolutely can't run.
-   - The shooter might be blocking or in clear view of the only exits, or you can't escape out the window because you're in a high-rise building.
-   - Find a secure location.
-     - Stay out of the shooter's view.
-     - Your cover should stop shots fired in your direction.
-     - The shooter should have an extremely hard time getting to you.
-     - If possible, find a room with a door lock.
-     - If you can't lock it, barricade the door with a table and chairs.
-     - If you can't secure yourself in a room, hide behind cover that conceals you from the shooter but lets you still see them.
-   - Stay hidden.
-     - Turn off the room's lights and stay as quiet as possible.
-     - Set your cell phone to silent, don't put it on vibrate.
-     - Stay away from the door and crouch behind cabinets or desks that could offer protection from bullets.
-   - Call the police.
-     - Don't speak if the shooter can hear, and leave the phone on to let the operator listen.
-   - Only open the door if you're sure who the person knocking on the door is.
-     - Shooters often knock on doors or yell for help to convince hiding people to show themselves.
-   - If the shooter passes you, you can run for it, but be prepared to fight.
-4. Fight, but only as your last resort.
-   - By taking quick action against a shooter, you can save lives, but you risk your life in the process.
-     - You can increase your chances if you're skilled in unarmed combat.
-     - If you're armed, return fire.
-     - Don't count shots, wait for them to stop firing and only show yourself enough to fire back.
-     - Since you're at a significant disadvantage when you run out of ammunition, conserve your shots.
-   - A violent gunman assumes that people will flee or hide, so charging them gives you the advantage of surprising them.
-     - Since your life depends on it, fight aggressively and violently.
-     - Throw the maximum force of a punch by clenching your fist at the last possible moment.
-   - Control the shooter's weapon first, then control the shooter.
-     - Without a gun, people are only as strong as their strength and skill.
-   - Improvise any weapon that can multiply your force.
-     - Sharp objects: glass bottles, pens, pencils, a loose tile
-     - Blunt objects: coffee mugs, laptops, luggage, a brick
-     - Unusual objects: scalding hot coffee, spilled motor oil
-     - Create hesitation by throwing things at the shooter to give time to close your distance.
-     - Find something to blind the shooter.
-     - Shine a flashlight or mirror at their eyes.
-     - Spray a fire extinguisher or chemicals in their face.
-   - If possible, get help from others to attack as a team to take the shooter down.
+It's difficult to gauge the effectiveness of a security system, for several reasons:
+
+1. If it's obvious that they exist, their very existence may deter bad actors.
+2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](computers-cysec-pentest.md)), but that's only dependent on the intelligence and skill of those infiltrators.
+
+## General principles
+
+Record absolutely everything, and keep several copies safety stored away from public access.
+
+Understand the domains you wish to keep safe, and delegate anything you don't understand to an expert.
+
+Absolutely *every* piece of tangible information can present a security risk.
+
+- Knowledge of small details (e.g., favorite sports team, hometown) can lead to further information (known associates in a photo, medical records).
+
+Always communicate the presence of a security system.
+
+Only communicate the threat of the security system, but not its specifics.
+
+- Knowledge of a particular system can lead to knowledge of that system's procedures.
+
+## Personal security
+
+Besides keeping yourself safe, personal security arrangements also have the side effect of more effective [legal protections](legal-safety.md) as well.
+
+Avoid public intoxication or inebriation.
+
+Have security-enforcing items *before* you need to use it.
+
+- Use a low-profile money belt or anti-theft bag.
+  - Never carry large sums of cash on your person, and never all at once.
+- Place interested parties in an emergency on speed-dial.
+- Wear bio-monitors that send automatic updates to interested parties.
+- Consider investing in a body camera and dash cam for your [automotive](autos.md).
+- Get at least a few more locks than you technically need.
+  - Test every lock or safe before using it.
+- If you're particularly high-profile, consider getting body armor under your shirt.
+
+Beyond the equipment, most personal security comes from practicing healthy [habits](https://adequate.life/habits/).
+
+- Before traveling around a city, note the comparative crime statistics relative to other parts of that region.
+  - Crime statistics are effectively worthless large-scale (since they only determine crimes *recorded* and not the actual number of crimes), but law enforcement have similar mindsets to fishermen: go where the likely events will happen.
+- When entering a new room, do a quick sweep of all potential risks.
+  - Note all entry and exit points.
+  - Consider anything that could be used to incite violent action (e.g., flammable objects).
+- When in a domicile, stay prepared.
+  - Make sure the locks and peephole work properly.
+  - Don't let strangers into your place, even if they state they have official permission.
+- Learn [specific ways to be safe from other people](safety-security-specific.md).
+
+If you're seriously committed, learn a working knowledge of an unarmed martial art.
