@@ -113,7 +113,7 @@ APPLICATION: Since every success story has *many* failure stories attached elsew
 
 It never works indefinitely, though. It only persists as long as the public remains [unaware](understanding.md) of how the new trend's benefits outweigh its risks. Both sides (innovator and old group) will make huge [political shows](image-distortion.md) of [their side](stories-storytellers.md) of the situation.
 
-APPLICATION: If you're going to take a risk, keep your head down and stay as undetected as you can for as long as possible. Once you start making [ripples across society](trends.md), expect the [big and established systems](mgmt-badsystems.md) to come after you with [everything they have](rules.md).
+APPLICATION: If you're going to take a risk, keep your head down and stay as undetected as you can for as long as possible. Once you start making [ripples across society](trends.md), expect the [big and established systems](mgmt-badsystems.md) to come after you with [everything they have](people-rules.md).
 
 If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](trends.md) to arise and the role to replay itself.
 

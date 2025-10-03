@@ -563,7 +563,7 @@ Moral credential effect - we feel we can do immoral things if we've done moral t
 
 Social comparison bias - we dislike and compete with others we imagine are better than us
 
-Special pleading - we believe [general rules for human behavior](rules.md) don't apply to us
+Special pleading - we believe [general rules for human behavior](people-rules.md) don't apply to us
 
 Spotlight effect - we believe others notice us more than they really do
 

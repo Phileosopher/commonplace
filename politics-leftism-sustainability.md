@@ -216,7 +216,7 @@ In an evolutionary sense, other organisms on this planet aren't as fit as us. Th
 
 ## Goal 16: Peace, Justice, and Strong Institutions
 
-The justice of a society hangs heavily on its [culture](people-culture.md). A [good society](politics-perfectsociety.md) requires a culture driven on aspects of [love for each other](people-love.md). Otherwise, it requires [fair](morality-justice.md) and well-enforced [laws](rules.md).
+The justice of a society hangs heavily on its [culture](people-culture.md). A [good society](politics-perfectsociety.md) requires a culture driven on aspects of [love for each other](people-love.md). Otherwise, it requires [fair](morality-justice.md) and well-enforced [laws](people-rules.md).
 
 The culture of a society is determined by its leaders, both [big](groups-large.md) and [small](groups-small.md).
 

@@ -7,7 +7,7 @@ Law is defined by many precedents, mostly through previous cases that created ru
 
 Even in a fledgling nation, many lawyers will consult *other* nations that wrestled with the same issues instead of starting from scratch.
 
-[Human nature](humanity.md) is relatively unchanging, so [laws](rules.md) seem to always have *some* overlap, even across vastly different [cultures](people-culture.md). It is worth indicating, however, that some of these doctrines are actually *[unethical](morality.md)* in many situations.
+[Human nature](humanity.md) is relatively unchanging, so [laws](people-rules.md) seem to always have *some* overlap, even across vastly different [cultures](people-culture.md). It is worth indicating, however, that some of these doctrines are actually *[unethical](morality.md)* in many situations.
 
 It's also worth indicating that there are many situations where opposing doctrines overlap, meaning precedent makes way for the judge's personal opinion.
 

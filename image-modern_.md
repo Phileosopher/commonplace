@@ -109,7 +109,7 @@ However, about 90% of the USA runs on this reputation-by-legal-fiction, meaning 
 
 There are pros and cons to this arrangement:
 
-- Your legal fiction is relatively easy to positively [influence](power-influence.md) by simply following the [rules](rules.md):
+- Your legal fiction is relatively easy to positively [influence](power-influence.md) by simply following the [rules](people-rules.md):
   - If you don't pay bills, most late fees are *not* negotiable more than once or twice.
   - Fully reporting relevant information typically makes your interactions (and price) consistent nearly wherever you go.
 - Large organizations trust *other* large organizations more than you.
@@ -127,7 +127,7 @@ There are pros and cons to this arrangement:
   - The improved evidence won't erase the record of what happened, but it'll make your future engagements work out fine once those older records fall off.
   - Expect your record to improve around 3, 5, 7, and 10 years, from the date of the infraction.
 - Since they don't need to contact you, they won't put much effort into it until they have to.
-  - If they reach out 2-3 times, they've legally fulfilled *their* requirement to contact you, and will act according to a [compliance-based](rules.md) form of their best interests.
+  - If they reach out 2-3 times, they've legally fulfilled *their* requirement to contact you, and will act according to a [compliance-based](people-rules.md) form of their best interests.
   - Always [keep your address current](home-moving.md), access your email at least weekly, and check your voicemail at least a few times a week.
 
 This also creates many practical implications:

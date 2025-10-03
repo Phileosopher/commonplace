@@ -348,7 +348,7 @@ A company can sometimes become too large. At that point, it may need to break up
 
 - The company has too much [bad publicity](image.md) and needs a [new brand](marketing.md).
 - The leadership had a [difference of opinion](people-conflicts.md), and they agree to segment the company internally into several subsidiaries.
-- A government considers them too large as a [monopoly](politics-monopolies.md), and uses [laws](rules.md) to break them apart.
+- A government considers them too large as a [monopoly](politics-monopolies.md), and uses [laws](people-rules.md) to break them apart.
 
 However it happens, the accounting typically records the information as at least a partial liquidation of the original entity, then the formation of a new entity.
 
@@ -371,7 +371,7 @@ Using shell companies offloads expenses or revenue onto subsidiary companies.
   3. The publicly traded entity will make obscene profit, creating an [investing](money-investing.md) boom (e.g., Enron).
 - This can also be reversed to avoid taxation, with shell companies in more tax-favored situations receiving the revenues.
 
-In [unregulated](rules.md) [cryptocurrency](computers-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
+In [unregulated](people-rules.md) [cryptocurrency](computers-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
 
 1. Make a cryptocurrency that mines across at least a few servers.
 2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](trends.md).

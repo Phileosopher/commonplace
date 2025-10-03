@@ -408,7 +408,7 @@ Some ministries split when their venue gets too small.
 
 ### Bylaws & rules
 
-Typically, once any ministry grows beyond a few dozen people, it'll need some bylaws to clarify the [rules](rules.md) for how to do everything.
+Typically, once any ministry grows beyond a few dozen people, it'll need some bylaws to clarify the [rules](people-rules.md) for how to do everything.
 
 A ministry's [formalized documentation](people-contracts.md) represents its [moral stance](morality.md).
 

@@ -21,7 +21,7 @@ In practice, though, leftism *always* has the same mechanism:
 
 Unfortunately, Marx's assertion doesn't address the tragedy of the commons. If *everything* is publicly used, everyone can use it, but nobody wants to maintain it.
 
-The typical solution would be to then create [rules](rules.md) that mandate the upkeep of something. However, like any other rules, people can cheat at them. Plus, the enforcer of the rules will have an unequal power over the person using the thing.
+The typical solution would be to then create [rules](people-rules.md) that mandate the upkeep of something. However, like any other rules, people can cheat at them. Plus, the enforcer of the rules will have an unequal power over the person using the thing.
 
 Making rules never gets anywhere with human [desire](purpose.md). When something becomes illegal, it becomes a black market. If private property is illegal, people will simply hide what they [feel](mind-feelings.md) is "theirs".
 
@@ -58,7 +58,7 @@ People must operate on a few [presumptions](understanding-certainty.md) to belie
 2. There is no absolute [morality](morality.md) or [truth](reality.md). The State defines [justice](morality-justice.md), not [God](religion.md).
 3. As a product of the non-absolute nature of humanity, human nature can be changed directly, with enough centralized control over the process.
 4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
-5. Even with central [control](rules.md), free-market [economies](economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
+5. Even with central [control](people-rules.md), free-market [economies](economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
 6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](decisions.md) or [doing](results.md).
 
 The practical effect of leftism is that the government should receive [power](power.md) to give the better [results](results.md) of the stronger to the weaker. Thus, everyone will have the same things. Their reasoning is that ordered [justice](morality-justice.md) is more important than the chaotic nature of many opportunities, which is a product of disbelieving in [natural law](politics-conservativeliberal.md).
@@ -175,8 +175,8 @@ By principle of leftism's ideal, left-leaning people tend to hate a few things:
 
 - [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](people-culture.md).
 - [Competition](people-conflicts.md) - even though human [purpose](purpose.md) is driven by *many* [inner conflicts](conflicts-inner.md), leftism claims external conflicts are generally bad.
-- Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](rules.md).
-- [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](rules.md) individuals' purposes.
+- Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](people-rules.md).
+- [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
 
 Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
 

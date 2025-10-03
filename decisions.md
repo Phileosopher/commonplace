@@ -151,7 +151,7 @@ These feelings come from many sources, and aren't always connected directly with
 - Decision fatigue, which is stress from chronic [uncertainty](understanding-certainty.md) with many decisions.
 - New things we're [unfamiliar](habits.md) with, to the degree they [scare](mind-feelings-fear.md) us.
 - Things we [interpret](image.md) may make us lose [power](power.md).
-- Actions we [observe](image.md) or [do](results.md) that are [improper](rules.md) or [taboo](morality-taboo.md).
+- Actions we [observe](image.md) or [do](results.md) that are [improper](people-rules.md) or [taboo](morality-taboo.md).
 
 APPLICATION: Our [feelings](mind-feelings.md), to the degree we aren't [aware](awareness.md) of them, affect *all* our decisions. If they're tuned correctly, it's a tremendous force of aptitude, but [past trauma](hardship-ptsd.md) can distort it, and it's highly subject to [disorientation](image-distortion.md).
 

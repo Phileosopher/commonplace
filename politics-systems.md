@@ -38,7 +38,7 @@ Most governments naturally form their [philosophies](philosophy.md) by [social/c
 
 ## Power philosophy
 
-The framing of a country's [constitution](rules.md) has a *gigantic* effect on how that country will handle itself:
+The framing of a country's [constitution](people-rules.md) has a *gigantic* effect on how that country will handle itself:
 
 - Who controls the military? Themselves, or civilians?
 - Does a plain majority vote count, or should we separate powers to different groups to protect minority opinions?
@@ -51,7 +51,7 @@ Naturally, some people represent the [identity](identity.md) of the nation more 
 Monarchy - a ruling group defines the nation's identity, which classifies by their control and ascension:
 
 - Absolute monarchy - traditional style where the monarch controls pretty much everything
-- Constitutional monarchy - a [law or formal constitution](rules.md) limits a monarch's power
+- Constitutional monarchy - a [law or formal constitution](people-rules.md) limits a monarch's power
 - Elective monarchy - the monarch is elected to represent the nation (though it may be an oligarchical election)
 - Crowned republic - a monarch is simply a [ceremonial feature](image.md), with no actual power
 
@@ -62,7 +62,7 @@ Republic/commonwealth - elected individuals define the national identity, which 
 - People's republic - the people are [legally recognized](image.md) as ruling
 - Federal republic - there's a central (federal) immutable law, but each region can make their own laws that are unrelated to federal law
 - Parliamentary republic - a hybrid where the head of state isn't affected by elected officials
-- Constitutional republic - the power of anyone is limited by a [formal constitution or law](rules.md)
+- Constitutional republic - the power of anyone is limited by a [formal constitution or law](people-rules.md)
   - Islamic republic - the power of everything is bound by [Islamic](religion-answers.md) law
 
 ## Who should get power?
@@ -130,7 +130,7 @@ Cons:
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:
   - Algocracy - [computer algorithms](computers-programming-algorithms.md) run everything (i.e., programmers have complete rule)
   - Cyberocracy - [computers](computers.md) runs everything (i.e., computer users have complete rule)
-  - Nomocracy - the [laws](rules.md) themselves run everything (i.e., lawyers have complete rule)
+  - Nomocracy - the [laws](people-rules.md) themselves run everything (i.e., lawyers have complete rule)
 
 ### Democracy - everyone controls everything
 

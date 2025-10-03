@@ -18,7 +18,7 @@ We're defined *much* more by our inner conflicts than anything in our [environme
 
 Because of how we're built, we often see the world around us much more than inside our minds. For that reason, we tend to miss faults in ourselves while seeing most faults in others, and require both [self-awareness](awareness.md) and [good friends](people-friends.md) to point out those issues.
 
-APPLICATION: If we have *any* unease with a statement, we must [understand](understanding.md) why. We might find offense from someone legitimately crossing our [boundaries](rules.md), but our [imagination](imagination.md) may be unrestrained about things that aren't [reality](reality.md).
+APPLICATION: If we have *any* unease with a statement, we must [understand](understanding.md) why. We might find offense from someone legitimately crossing our [boundaries](people-rules.md), but our [imagination](imagination.md) may be unrestrained about things that aren't [reality](reality.md).
 
 We can internalize [multiple perspectives](image.md) at once, which we are also capable of [believing](understanding-certainty.md) at the same time (cognitive dissonance). Everyone experiences at least some cognitive dissonance in the routine course of their life because we frequently [change](people-changes.md) our [understanding](understanding.md) as we [learn](education.md), but will maintain [habitual](habits.md) past [beliefs](understanding-certainty.md) when we don't make a priority of revisiting them.
 

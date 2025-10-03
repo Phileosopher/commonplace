@@ -144,7 +144,7 @@ While governments often take down indexing for pirated addresses, hosting, and s
 
 In short, piracy is a portion of the never-ending arms race within the larger domain of [cybersecurity](computers-cysec.md). Every site torn down is only a fraction of where the content is available.
 
-- Any formal efforts to suppress it will, like every other aspect of [human nature](rules.md), drive it underground.
+- Any formal efforts to suppress it will, like every other aspect of [human nature](people-rules.md), drive it underground.
 - The implementation of circumventing the law is constantly changing to respond to the situation ([IP](legal-ip.md)-disrespecting government, endless rapidly-deployed [websites](computers-sofware-webdev.md), [new decentralized protocols](standards-computers.md), [new network infrastructure](networks-computer.md)).
 - The piracy community, however, sees the legislative moves as a type of challenge to overcome, and they're *constantly* changing tactics, with endless temporary [storage](computers-memory.md) and [decentralization](computers-distsys.md) for just about everything.
 - In fact, the only way to sufficiently crush internet piracy is to employ a single, worldwide [government](politics-systems.md) that micromanages [human freedoms](people-boundaries.md).
@@ -153,7 +153,7 @@ There's no way to fully prevent [intellectual property](legal-ip.md) violations,
 
 The controversy of torrenting has become almost a mainstay of society:
 
-1. As long as [large organizations wish to exert power](groups-large.md), and [the law honors it](rules.md), they will try to shut piracy down.
+1. As long as [large organizations wish to exert power](groups-large.md), and [the law honors it](people-rules.md), they will try to shut piracy down.
 2. However, law enforcement only abates the wave, and never successfully shuts anything down completely.
 3. New technologies give the public even *more* power. The decentralized BitTorrent protocol, for example, has inspired [blockchain](computers-blockchain.md), which now competes as a strange de facto alternative to [government-issued currency](economics.md).
 

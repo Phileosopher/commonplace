@@ -182,7 +182,7 @@ Formalism (legal) - The fairness of the process is more important than its outco
 
 Individualism (politics) - Governments should protect the best interests of individuals, not groups.
 
-Legal interpretivism - [Laws](rules.md) are not a set of facts or data, but frameworks made by lawyers, and completely open to interpretation. They also dictate [morality](morality.md). The opposite of natural law.
+Legal interpretivism - [Laws](people-rules.md) are not a set of facts or data, but frameworks made by lawyers, and completely open to interpretation. They also dictate [morality](morality.md). The opposite of natural law.
 
 Legal positivism/Positive law - Human beings made laws, so they're not necessarily ethical or moral. Distinct from natural law.
 

@@ -200,7 +200,7 @@ The creation, after it's been created, tends to create a fan base, which is a [g
 The fan base of a media can occasionally have enough [powerful](power.md) people in positions of authority who favor it. When *that* happens, the media itself becomes a pillar of society:
 
 - Purchasing media for playback at [will](purpose.md).
-- Texts and dialogues that influence or become [law](rules.md).
+- Texts and dialogues that influence or become [law](people-rules.md).
 - [Religious](religion.md) texts that were potentially inspired by a deity.
 - Nostalgic association with [familiar](habits.md) things from the past.
 

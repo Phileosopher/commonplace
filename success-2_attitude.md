@@ -277,7 +277,7 @@ While "finding a passion" may be good, self-discipline is far more important.
 
 ### 16. Expect you'll break rules at some point
 
-[Rules](rules.md) eliminate extremes, both good *and* bad.
+[Rules](people-rules.md) eliminate extremes, both good *and* bad.
 
 You must follow *many* rules to succeed, but you'll need to break rules at some point.
 

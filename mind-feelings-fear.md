@@ -69,12 +69,12 @@ To fight death, we tend to obsess about preserving life:
 - The survival impulses for food, water, and shelter are [themed](symbols.md) extensions of death.
 - We try to prolong its inevitability with [risk management](safety-riskmgmt.md) tactics such as [weight management](body-2_diet.md) and [preventative healthcare](body-4_health.md).
 
-APPLICATION: The [healthcare industry](body-4_health.md) (and [law](rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
+APPLICATION: The [healthcare industry](body-4_health.md) (and [law](people-rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
 
 The fear of death contributes to far more [illogical](logic.md) behavior than we often realize:
 
 - We try to expand a [legacy](legacy.md) that outlives our passing, often through our [children](people-family.md).
-- People generally [trust](trust.md) [law](rules.md) enforcement out of a sense of self-preservation.
+- People generally [trust](trust.md) [law](people-rules.md) enforcement out of a sense of self-preservation.
 - We'll believe [prophecies](religion.md) that promise to avoid death (e.g., rapture, immortality).
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
 - Even [wars](people-conflicts-war.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](image.md) of fighting for scarce resources that would lead to death if depleted.
@@ -155,5 +155,5 @@ Leaders often become aware of the individuals' trust in them, and can use a stea
 
 1. Heighten existing fears.
 2. Make impossible promises to make people feel [secure](safety.md).
-3. Claim those promises can only work sufficiently if everyone honors [the group's standards](rules.md) (which are usually directing [power](power.md) toward the leadership).
+3. Claim those promises can only work sufficiently if everyone honors [the group's standards](people-rules.md) (which are usually directing [power](power.md) toward the leadership).
 4. Use various [forms of image distortion](image-distortion.md) if the leadership doesn't meet those promises.

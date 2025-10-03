@@ -426,7 +426,7 @@ A. Create a market segment.
 
 B. Collect secondary data about the target market from the internet and marketing research aggregators.
 
-- Be mindful about where that data came from, since it may be [unethical](morality.md) or [illegal](rules.md).
+- Be mindful about where that data came from, since it may be [unethical](morality.md) or [illegal](people-rules.md).
 - Database patterns, such as an analyst or [AI](computers-ai.md), can make secondary data, which is often perfectly legal.
 
 C. Create a questionnaire around information you want to learn.

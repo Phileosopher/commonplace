@@ -87,7 +87,7 @@ Neuhaus' Law - If conventional things become optional, people eventually condemn
 
 Norman Augustine's Tenth Law - Counterintuitively, bullfights are won by people, and people fights are won by lawyers.
 
-Robin Hood Effect - If [rules](rules.md) are in place to redistribute [power](power.md), the powerful will redirect their efforts around those rules and the weaker will be hurt *worse* than if those rules weren't in place.
+Robin Hood Effect - If [rules](people-rules.md) are in place to redistribute [power](power.md), the powerful will redirect their efforts around those rules and the weaker will be hurt *worse* than if those rules weren't in place.
 
 Seinfeld is Unfunny - Entertaining stories are less entertaining once they become popular.
 

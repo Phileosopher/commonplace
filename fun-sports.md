@@ -13,7 +13,7 @@ It's important to note that sports often become *less* safe by adding [safety](s
 - However, the increased safety means a higher threshold for taking risks, meaning people become more reckless.
   - Moving from leather to plastic football helmets means players can use their head as a battering ram, and it increases the risk of concussion.
   - Moving from leather to padded boxing gloves means boxers can safely strike the face, which increases the risk of brain damage.
-- Generally, safety features should protect a player from suffering a severe injury, but permit them to still suffer pain from behavior that violates the [rules](rules.md) and would have hurt otherwise.
+- Generally, safety features should protect a player from suffering a severe injury, but permit them to still suffer pain from behavior that violates the [rules](people-rules.md) and would have hurt otherwise.
 
 ## Field/Court Sports
 
@@ -38,7 +38,7 @@ The ubiquity and formalization of soccer gives 17 very specific, broad rules [fo
 2. The ball is an inflated sphere about 27 inches in circumference, usually decorated black-and-white.
 3. The game involves each team having 10 people running around the field, with 1 goalie (22 people total), and 3-12 substitutes as backup. They generally group into defense (near their own goal), midfield, and attack (near their opponent's goal).
 4. Every player must wear a jersey with sleeves, shorts, socks that cover shin guards, and footwear.
-5. A referee has full authority to enforce the [rules](rules.md).
+5. A referee has full authority to enforce the [rules](people-rules.md).
 6. Other game officials can officiate alongside the referee, up to ~8 more.
 7. The game has two 45-minute halves, with a half-time break that's never more than 15 minutes, and any game delays will get added to the end of the half.
 8. A game starts with a kick-off from the center of the field, with each team being on their side of the field.

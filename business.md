@@ -19,7 +19,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 
 **[Accounting](money-accounting.md)** is [keeping track](math.md) of value, starting with assets and liabilities and inferring financial value from it (typically for **taxes**).
 
-**[Legal](legal-safety.md)** resolves civil disputes and tracks whether activities comply with a region's [rules](rules.md).
+**[Legal](legal-safety.md)** resolves civil disputes and tracks whether activities comply with a region's [rules](people-rules.md).
 
 ## Eventual needs
 

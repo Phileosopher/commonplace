@@ -225,7 +225,7 @@ They've been at least somewhat [persecuted](hardship-persecution-church.md) for 
 A general sense of peace about others' [decisions](decisions.md).
 
 - Newer believers frequently try to get others to [change their minds](power-influence.md) toward [moral actions](morality.md) out of new spiritual desires, but they will eventually become familiar enough with [boundaries](people-3_respect.md) that those decisions will grieve them instead.
-- Their [conflict](conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](rules.md).
+- Their [conflict](conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](people-rules.md).
 
 They'll find something lacking in mainstream Christian church services.
 

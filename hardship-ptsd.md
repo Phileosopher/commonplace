@@ -118,7 +118,7 @@ APPLICATION: Some of the worst archetypes of people come from this hardened trau
 - [Social justice warriors](politics-leftism.md)
 - [Religious](religion.md) zealots
 - [Yellow journalists](stories-storytellers.md)
-- [Attorneys](rules.md)
+- [Attorneys](people-rules.md)
 - [Lobbyists](mgmt-badsystems.md) and [activists](groups-member.md)
 - [Hyper-intellectuals](understanding.md), especially [post-modern philosophers](philosophy.md)
 

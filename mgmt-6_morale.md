@@ -439,7 +439,7 @@ If anyone starts bringing up rumors about any misbehavior:
 Unless you have an action item attached to specific behaviors (which affects specific people), nothing will happen:
 
 - Unless they know confessing will be better than persisting in their action, general statements to everyone condemning the action typically informs the guilty people to hide their actions.
-- Any [policy or procedure](rules.md) that formally punishes the action *must* be followed to the letter, and for everyone, or it won't be easily enforceable.
+- Any [policy or procedure](people-rules.md) that formally punishes the action *must* be followed to the letter, and for everyone, or it won't be easily enforceable.
 - Ignoring the offense or figuring people will sort it out amongst themselves typically makes it worse.
 
 ### Handling crisis

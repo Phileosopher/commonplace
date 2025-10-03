@@ -14,7 +14,7 @@ Most people have one form or another of substance overuse, though some are more 
 [Addiction goes by many names](addiction-substances.md). Anything that isn't a [virtue](morality.md) or [loving others](people-love.md) can become an addiction.
 
 - Pseudo-virtue principles like minimalism, efficiency, or restraint will become addictions when pushed too far.
-- Even virtue itself becomes an addiction, since it becomes an addiction to [honoring rules](rules.md).
+- Even virtue itself becomes an addiction, since it becomes an addiction to [honoring rules](people-rules.md).
 
 Ironically, many addictions can create *good* consequences. These addictions are often notoriously difficult to detect because someone can hide their addiction through *decades* of [profound success](success-1_why.md).
 

@@ -88,7 +88,7 @@ Often, top leaders will let lower-ranking leaders of smaller subgroups have uniq
 
 APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
 
-Middle leaders (e.g., middle management) are effectively an extension of their top leadership to manage the bottom leadership. Middle leadership often makes very few [decisions](decisions.md) compared to the top and bottom leadership. However, their [willingness](purpose.md) to comply with the organization's [policies](rules.md) keeps the entire organization unified in [purpose](purpose.md) (or, at least, the [appearance](image.md) of it). In practice, most middle management is simply the above-stated "connecting-point" to other subgroups.
+Middle leaders (e.g., middle management) are effectively an extension of their top leadership to manage the bottom leadership. Middle leadership often makes very few [decisions](decisions.md) compared to the top and bottom leadership. However, their [willingness](purpose.md) to comply with the organization's [policies](people-rules.md) keeps the entire organization unified in [purpose](purpose.md) (or, at least, the [appearance](image.md) of it). In practice, most middle management is simply the above-stated "connecting-point" to other subgroups.
 
 Leadership getting feedback about the members, and acting on it, is *critical* for the entire group's success, and the entire group can become [dysfunctional](mgmt-badsystems.md) surprisingly easily. Leadership failures usually come from incompetence more than malice, though their [public image](image.md) may imply something else.
 
@@ -101,7 +101,7 @@ Top leaders only have limited [influence](power-influence.md) over the entire gr
 1. Messages to everyone in the group about the shared [purpose](purpose.md) they're all aspiring toward.
 2. Appointing, promoting, disciplining, and dismissing sub-leaders who conform with the [culture](people-culture.md) they want to promote.
 3. Encounters with the sub-leadership and *very* limited encounters with the lower-ranking members to rally everyone toward that stated [purpose](purpose.md) and sort out details.
-4. Formally declared, often written, [policies](rules.md) and [procedures](habits.md), enforcing them, or changing them.
+4. Formally declared, often written, [policies](people-rules.md) and [procedures](habits.md), enforcing them, or changing them.
 
 These decisions are *always* designed for the interests of the people in the group or the people the group favors. For that reason, a group won't generally affect others it doesn't favor or assimilate already unless it's facing [competition](people-conflicts-war.md) with another group that may serve those other people or [subduing](slavery.md) those people for another [purpose](purpose.md).
 
@@ -115,11 +115,11 @@ APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must
 
 ## Subcultures
 
-The sub-leaders each create their own [subculture](people-culture.md) inside that group's broader culture. They'll appoint their own sub-leaders and dictate their own [rules](rules.md).
+The sub-leaders each create their own [subculture](people-culture.md) inside that group's broader culture. They'll appoint their own sub-leaders and dictate their own [rules](people-rules.md).
 
 The differences between individuals *in* the large group are often greater than the proposed differences *between* the groups. However, because of [ego issues](image.md) coming from the top leadership, those groups will never converge until there's a [greater threat](people-conflicts-war.md) from the outside. This will almost certainly happen if they become [obsolete](trends.md) from other, different groups coming in.
 
-One of the most prominent [conflicts](conflicts-inner.md) for all sub-leaders is whether to enforce a [rule](rules.md) that became obsolete from the situation changing. Often, this becomes a battle between [morality](morality.md) and [maintaining image](image.md).
+One of the most prominent [conflicts](conflicts-inner.md) for all sub-leaders is whether to enforce a [rule](people-rules.md) that became obsolete from the situation changing. Often, this becomes a battle between [morality](morality.md) and [maintaining image](image.md).
 
 Each subgroup ends up behaving precisely like its own small group, with a few notable exceptions:
 
@@ -146,7 +146,7 @@ APPLICATION: There are only two ways to make large-scale changes in a large grou
 
 ## Social Engineering
 
-Instead of *stopping* people from doing what they want with [rules](rules.md), social engineering involves using rules to make people *[want](purpose.md)* to do something ("libertarian paternalism").
+Instead of *stopping* people from doing what they want with [rules](people-rules.md), social engineering involves using rules to make people *[want](purpose.md)* to do something ("libertarian paternalism").
 
 Every large organization will try to socially engineer, at least a little. Even if they don't have the [power](power.md) to do it, the draw from how much [power](power.md) they can gain is too tempting to pass up.
 
@@ -156,10 +156,10 @@ Every [imposed rule](rules-methods.md) can hurt people and damage [purposes](pur
 
 Taxing, especially, will broadly destroy [purposes](purpose.md):
 
-- Taxing *anything* far enough will motivate people to subvert the [rules](rules.md) entirely.
+- Taxing *anything* far enough will motivate people to subvert the [rules](people-rules.md) entirely.
 - Taxing what people produce makes people want to [create](creations.md) less.
 - Taxing what people consume makes them less likely to consume.
-- Taxing [taboo](morality-taboo.md) things too much without completely [outlawing](rules.md) it often makes the organization depend on that thing for income.
+- Taxing [taboo](morality-taboo.md) things too much without completely [outlawing](people-rules.md) it often makes the organization depend on that thing for income.
 - Taking enough from the [rich](classes.md) makes removes the [incentive](purpose.md) for the middle class to [take risks](socialrisk.md) to become rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
 - Taking enough from the middle class often makes them become the lower class.
 - Taking enough from the lower class is almost completely [evil](morality-evil.md), since it barely benefits the leadership and hurts those with the least [power](power.md).

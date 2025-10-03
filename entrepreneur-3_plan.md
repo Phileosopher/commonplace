@@ -213,7 +213,7 @@ Specify each barrier to entering the market and how to overcome each of them:
 - The political environment also affects a business.
   - Barriers from international tariffs and embargoes.
   - Necessary quotas to fulfill certain requirements.
-  - [Taxes](money-accounting.md) and [laws](rules.md) that may help or hinder the organization.
+  - [Taxes](money-accounting.md) and [laws](people-rules.md) that may help or hinder the organization.
 
 List every major competitor in the industry:
 

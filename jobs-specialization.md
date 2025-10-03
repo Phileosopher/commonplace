@@ -24,7 +24,7 @@ In a sense, anyone *could* theoretically do absolutely every task, from rocket s
 
 No particular specialization is really *one* thing, but more a collection of mini-skills that pile together to accomplish a general [purpose](purpose.md).
 
-Very frequently, any [rules](rules.md) that broadly define elements of the specialization are *very* inaccurate when zooming into the idiosyncrasies of that domain, though most people won't realize it without having specialized experience.
+Very frequently, any [rules](people-rules.md) that broadly define elements of the specialization are *very* inaccurate when zooming into the idiosyncrasies of that domain, though most people won't realize it without having specialized experience.
 
 ## Grouping together
 
@@ -84,7 +84,7 @@ For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay g
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
-- Lawyers are surrounded by [rules](rules.md) and [boundaries](people-boundaries.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
+- Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
 - [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).
 - Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](imagination.md).
@@ -93,7 +93,7 @@ APPLICATION: Civilizations are maintained because some people took tremendous ca
 
 We'll also cluster near other groups that can serve other needs (e.g., food, water, shelter, electricity). Over time, multiple specialties come together as people move there or are born to form a village, and can eventually become a city the same way.
 
-APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
+APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](people-rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
 
 As the settlements group from a [small](groups-small.md) to [large community](groups-large.md), the [members](groups-member.md) have more anonymity, and [human nature](humanity.md) means some of them will abuse the freedom.
 
@@ -126,4 +126,4 @@ Every time society suffers a *massive* decline in population, [technology](techn
 
 A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.
 
-APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](rules.md) and [building](results.md) civilization.
+APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.

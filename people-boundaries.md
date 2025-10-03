@@ -24,12 +24,12 @@ There are *many* human rights:
   - They can [have a family](people-family.md), [marry](gender.md), and [be in a community](groups-member.md).
   - They have title to their property, both owned and [possibly](imagination.md) owned.
   - They can maintain their [honor/reputation](image.md).
-- Legal recognition and [equality](morality-justice.md) before [the law](rules.md):
+- Legal recognition and [equality](morality-justice.md) before [the law](people-rules.md):
   - They're [presumed](imagination.md) innocent until proven guilty.
   - They will get a fair [public](groups-large.md) hearing.
   - They can develop their [national identity](groups-large.md), get their government's [protection](safety.md), and can [participate in government](groups-large.md).
   - They're informed about any reports or communications about them with others.
-  - They can choose not to [say things](language.md) that would otherwise [incriminate them](rules.md) (i.e., "Miranda rights").
+  - They can choose not to [say things](language.md) that would otherwise [incriminate them](people-rules.md) (i.e., "Miranda rights").
   - They're not discriminated against or favored based on their race, [gender](gender.md), [age](maturity.md), [political belief](politics-conservativeliberal.md), or [religion](religion.md).
 - They can get [asylum](safety.md) from prosecution if others are abusing *their* rights.
 - Freedom to profit from things they've [created](creations.md) or [thought of](legal-ip.md).
@@ -60,9 +60,9 @@ Most [interpersonal conflicts](people-conflicts.md) are grounded on either [misu
 
 Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](politics-leftism.md) actually *thrive* on this sense of injustice.
 
-The [laws of a territory](rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
+The [laws of a territory](people-rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
 
-For everyone to be truly free, we need [rules](rules.md) to protect when people violate others' freedoms.
+For everyone to be truly free, we need [rules](people-rules.md) to protect when people violate others' freedoms.
 
 - Those rules involve taking away the rights of people who have failed in the responsibilities associated with those rights.
 - The rights-enforcers also run the risk of abusing their privileges bestowed to them, which is the formation of a [bad system](mgmt-badsystems.md).
@@ -71,7 +71,7 @@ For everyone to be truly free, we need [rules](rules.md) to protect when people 
 APPLICATION: Asserting human rights is probably most of the trouble plaguing [society](groups-large.md).
 
 - We're consenting to obey a government because they do a good-enough job protecting us from [evil](morality-evil.md), but that only happens as long as we keep consenting.
-- We often create complex [rules](rules.md) to find [justice](morality-justice.md) or [peace](safety.md), but it often only slows [evil](morality-evil.md) desire and rarely ever stops it entirely.
+- We often create complex [rules](people-rules.md) to find [justice](morality-justice.md) or [peace](safety.md), but it often only slows [evil](morality-evil.md) desire and rarely ever stops it entirely.
 
 Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](imagination.md) the desire to violate others' rights for self-interest.
 
@@ -81,7 +81,7 @@ The only way any one person can reliably satisfy another's human rights is throu
 
 In the absence of love, the only way people can ever make sensible [decisions](decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
 
-One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](rules.md) about free speech will dictate how much they [trust](trust.md) the average citizen.
+One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](trust.md) the average citizen.
 
 ## Privileges
 
@@ -95,7 +95,7 @@ Many times, people believe their privileges *are* rights, often from a privilege
 
 APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
 
-Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](rules.md).
+Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](people-rules.md).
 
 APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](socialrisk.md) on adding value to the public.
 

@@ -11,7 +11,7 @@ APPLICATION: It's safe to say that every single storyteller is the propaganda ar
 
 ## Not present
 
-Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](people-culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](rules.md).
+Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](people-culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](people-rules.md).
 
 Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](results.md), but can also include what they [plan to do](imagination.md) or [are likely doing](results.md).
 
@@ -133,7 +133,7 @@ There is a [political reason](politics-conservativeliberal.md) to add specific t
   - If it contradicts existing prejudices, it's an isolated anomaly.
   - As a further step, those who draw attention to that contradiction can be portrayed as bad people.
 - When a scandal happens:
-  - For an ideological opponent, the scandal is non-negotiable and requires [punishment](rules.md).
+  - For an ideological opponent, the scandal is non-negotiable and requires [punishment](people-rules.md).
   - For an ideological ally, there's constant questioning over the source of the information.
 - If an extremist of an idea exists (often to the point of [violence](people-conflicts-war.md)):
   - For an ideological opponent, highlight and focus heavily on them.

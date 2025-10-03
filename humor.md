@@ -14,7 +14,7 @@ Humor is *highly* contextual for the simple reason that it requires an [emotiona
 
 Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](imagination.md) in every conceivable direction, *including* our expectations of the unknown or severe hardship!
 
-APPLICATION: Any effort by leadership to impose [rules](rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
+APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
 
 The mechanism to create humor requires a very specific skill of performing several tasks in sequence:
 
@@ -80,7 +80,7 @@ Since humor draws from something familiar, it usually includes truths about real
 - Everyone does silly or dumb things, so a dimwitted person is funny.
 - Many people have base thoughts (e.g., farts, sex jokes), so they find them funny.
 - When someone behaves rudely or harshly to someone else, everyone either identifies with the aggressor or the victim.
-- An irreverent comedian is violating [social rules](rules.md) that almost everyone, [deep down](personality.md), would love to explore themselves.
+- An irreverent comedian is violating [social rules](people-rules.md) that almost everyone, [deep down](personality.md), would love to explore themselves.
 
 Many comedians [influence crowds](influence.md) toward their [reasoning](logic.md) by softening harsh, painful ideas with humor. The easiest method is to blow reality *way* out of proportion until it's surreal, then add silly things to it. Most of the best comedy will mix in other [feelings](mind-feelings.md) (e.g., sadness, [fear](mind-feelings-fear.md)) because it will subversively confront aspects of the [good life](goodlife.md) and [bad systems](mgmt-badsystems.md) while people are laughing.
 

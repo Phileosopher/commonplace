@@ -41,7 +41,7 @@ When a shared [purpose](purpose.md) is strong enough, people can get along bette
 
 People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](image.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-4_friends.md) the other group members.
 
-The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](personality.md).
+The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](personality.md).
 
 APPLICATION: Since leaders tend to be more [high-conscientiousness](personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
 
@@ -55,7 +55,7 @@ APPLICATION: Good leaders live [virtuously](morality.md), since it's the only wa
 
 Broadly, leaders tend to exert control across a [culture](people-culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:
 
-1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](trends.md), more prevalent in Eastern cultures.
+1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](people-rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](trends.md), more prevalent in Eastern cultures.
 2. Innocence/Guilt - the shame is localized to the emotion of guilt, meaning there's a binary action or inaction toward the rules, but not necessarily toward long-past events, more prevalent in Western cultures.
 3. Correct/Incorrect - there is no emotional guilt or shame attached and only a focus on what is factual, magnifies the most [innovation](mind-creativity.md) and [technological](technology.md) development, but only prevalent within outliers of society.
 

@@ -70,7 +70,7 @@ The essence of double entry is that absolutely *everything* must be rigorously o
 
 Accountants live dogmatically by Generally Accepted Accounting Principles (GAAP).
 
-- Any accountant who doesn't abide by GAAP is violating the [rules](rules.md) that govern *any* accounting, and is setting up their organization and themselves for a bad time in the future.
+- Any accountant who doesn't abide by GAAP is violating the [rules](people-rules.md) that govern *any* accounting, and is setting up their organization and themselves for a bad time in the future.
 - GAAP has 4 assumptions, 4 principles, and 4 constraints.
 
 Assumption 1 - Accounting Entity

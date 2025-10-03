@@ -71,7 +71,7 @@ Making procedures involves parsing already-known things into language.
    - You don't understand it unless you can tell a completely inexperienced teenager *exactly* how to do it.
    - Sometimes, the tasks are different when different roles do them, so clarify those as well.
 3. Abstract away all the idiosyncratic details.
-   - If the task *requires* precise actions, make it a [rule](rules.md).
+   - If the task *requires* precise actions, make it a [rule](people-rules.md).
    - If it's not critical to perform precisely correctly, make it a guideline (or "best practices").
 4. Ask your best workers what they think.
    - Pull them from their work on a slow period.

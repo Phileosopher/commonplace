@@ -157,9 +157,9 @@ The efficiency of an asset class as an investment vehicle is proportional to a f
 
 1. They're widely known and have a broad following.
    - [New](trends.md) asset classes do *not* have much information on them, so they're extremely high-risk.
-   - The information should be widely distributed, and preferably approved by a reputable [government](rules.md).
+   - The information should be widely distributed, and preferably approved by a reputable [government](people-rules.md).
 2. The asset is socially acceptable and not [controversial or taboo](morality-taboo.md), which exposes you to non-financial risks:
-   - [Potential legal issues](legal-safety.md) if a [law](rules.md) *might* forbid it.
+   - [Potential legal issues](legal-safety.md) if a [law](people-rules.md) *might* forbid it.
    - Potential [publicity](image.md) problems, irrespective of legality.
    - [Ethical issues](morality.md) you won't be immediately aware of through the [culture](people-culture.md) of the people who engage in that asset.
 3. The benefits of that asset class are instantly clear and comprehensible.
@@ -220,7 +220,7 @@ When you're ready to make the investment (and only then), intimately learn where
   - Is the customer base loyal?
 - If it's in another region of the world, what's their [culture](people-culture.md) like?
   - Is their country's government [corrupt](mgmt-badsystems.md)?
-  - Do people have respect for the nation's [laws](rules.md)?
+  - Do people have respect for the nation's [laws](people-rules.md)?
   - How prominent is that country's black market?
 
 However, too much information can be a bad thing.

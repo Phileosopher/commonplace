@@ -136,7 +136,7 @@ We also tend to add aspects of what God wants:
 
 - We often want to know God's long-term will, but aren't willing to do His short-term commands.
 - God doesn't have a perfect target we must constantly hit every time.
-- God's will isn't a complicated maze with special [rules](rules.md) and guidelines for success.
+- God's will isn't a complicated maze with special [rules](people-rules.md) and guidelines for success.
 - A cynical attitude can easily complicate God's desires.
 - God is consistent enough that [He'll provide](god-capabilities.md), but He's [creative](mind-creativity.md) enough that He never does the same thing twice.
 - We don't know His motivations, but we must simply obey Him.

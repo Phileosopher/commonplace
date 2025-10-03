@@ -1,4 +1,6 @@
 
+# What cults are
+
 A cult is a relatively recent broad term representing a wide variety of concepts:
 
 1. A [religion](religion.md) someone regards as unorthodox or spurious.
@@ -12,10 +14,10 @@ In short, a cult is most easily defined as "[group](groups-small.md) [gaslightin
 
 1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](personality.md) as the values phase out
 2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
-3. A [strict](rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
+3. A [strict](people-rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
 4. The group violates members' [rights and boundaries](people-boundaries.md) while also redefining the [members'](groups-member.md) thoughts and feelings
 
-APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](rules.md) society that advances genocide.
+APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](people-rules.md) society that advances genocide.
 
 ## Undue influence
 
@@ -212,7 +214,7 @@ Generally, the public only notices cults when they violate [basic human rights](
 
 - People give up their property or inheritance to the group they're swearing allegiance toward.
 - A person shuns their [family](people-family.md) and [friends](people-friends.md) while believing it's a [loving act](people-love.md), or leaves their family entirely.
-- Belief in [corporal punishment](rules.md) without examining its basis.
+- Belief in [corporal punishment](people-rules.md) without examining its basis.
 - Desire to trust "God's will" to the point of letting a person die.
 - Principled disregard for [human universals](humanity-universals.md) to the point of severe, permanent damage.
 - Adolescents coerced toward sexual acts, permanently changing their gender, or sold as [slaves/prostitutes](slavery.md).
@@ -232,7 +234,7 @@ Some cults are vilified, but many cults can be endorsed by [strong authority fig
 
 - Cult leadership can often curate a [public image](image-distortion.md) of generosity or kindness, even when most of the contributions don't serve anyone but the leadership.
 - Cults are frequently part of the mechanism behind many [defective social systems](mgmt-badsystems.md).
-- A cult may have tax-exempt or charitable [government status](rules.md).
+- A cult may have tax-exempt or charitable [government status](people-rules.md).
 - Most government intelligence agencies and militaries borrow from cult practices, if not outright being cults themselves.
 - Many secret societies also borrow from cult practice.
 - The leaders of relatively unrelated [large-scale organizations](groups-large.md) may be informally (but distinctly) all members of the same cult.

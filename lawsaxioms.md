@@ -359,7 +359,7 @@ Economist Effect - When we understand a one-paragraph summary of a concept, we o
 
 Elliott Wave Principle - Large groups tend to cycle between optimism and cynicism.
 
-Greenhouse Effect - Supreme Court [justices](rules.md) tend to vote with [liberals](politics-conservativeliberal.md) more often as their [careers progress](legacy.md) because they want more favorable [press coverage](stories-storytellers.md).
+Greenhouse Effect - Supreme Court [justices](people-rules.md) tend to vote with [liberals](politics-conservativeliberal.md) more often as their [careers progress](legacy.md) because they want more favorable [press coverage](stories-storytellers.md).
 
 Jevons Paradox - The more efficient people are with a resource, the more they consume that resource.
 

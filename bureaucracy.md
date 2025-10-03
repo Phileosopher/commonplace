@@ -20,7 +20,7 @@ You *can* publicly defame them, but they'll fight you on principle alone at that
 
 - Corporations only optimize their systems from the risks of their [public image](image.md) being damaged, and typically only if they have [competitors](politics-monopolies.md).
 - Governments only change when there's a regime change or the public's reactions affect fairly elected politicians.
-  - And, sometimes they *can't* due to dumb [laws](rules.md) that require compliance against all common sense.
+  - And, sometimes they *can't* due to dumb [laws](people-rules.md) that require compliance against all common sense.
 
 Unless you run the organization or can generate wide-scale attention to your problem, you can only make small, individual changes through [human decency](people-3_boundaries.md), compassion, and patience.
 
@@ -132,7 +132,7 @@ Our [human nature](humanity-universals.md) is to magnify our effort when we don'
 
 For someone to fully empathize with your situation, they might need information you didn't indicate on the form.
 
-- They're frequently more focused on [following rules](rules.md) than [understanding](understanding.md) your situation, so choose your words and context carefully.
+- They're frequently more focused on [following rules](people-rules.md) than [understanding](understanding.md) your situation, so choose your words and context carefully.
 
 Providing some key information, even if it was accidentally misstated, may invalidate your efforts or transfer you to a department that can't help you.
 

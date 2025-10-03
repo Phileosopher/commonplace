@@ -182,7 +182,7 @@ Morality/Justice
 
 - We all have a notion of [right](morality.md) and [wrong](morality-evil.md), which expresses in [loving](people-love.md) generous people and condemning stingy people.
 - Our idea of right and wrong extends into our environment as a desire for [fairness](morality-justice.md), which expresses through strong [sentiment](mind-feelings.md) as psychological defense mechanisms.
-- Our sense of justice is why we desire equivalent exchanges in [trading](economics.md) and desire [retribution](rules.md) for wrongdoing.
+- Our sense of justice is why we desire equivalent exchanges in [trading](economics.md) and desire [retribution](people-rules.md) for wrongdoing.
 - Generally, people are hospitable until they [feel](mind-feelings.md) unfairly treated.
 - To protect from immorality, society creates [taboos](morality-taboo.md).
 - Society will often find collective justifications for *extremely* [immoral](morality.md) things like rape or murder.
@@ -225,7 +225,7 @@ Routines/Rituals/Habits
 
 Rules
 
-- Whoever has the most [power](power.md) in a group is declared the [leadership](groups-small.md) and makes the [rules](rules.md).
+- Whoever has the most [power](power.md) in a group is declared the [leadership](groups-small.md) and makes the [rules](people-rules.md).
 - The rules are generally considered [immoral](morality.md) to break, but people still break them and try to [hide it](image-distortion.md).
 - The most powerful social structure in a region is a [government](groups-large.md).
 

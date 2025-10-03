@@ -107,7 +107,7 @@ But, there are a few universal aspects irrespective of size or context:
 
 - The lowest-ranking members, unrelated groups, and bystanders are *always* the most harmed. Most of the leadership are using others' power, but tend to [care](people-love.md) more about the [power](power.md) they wield and who they're destroying than any concern over their own [members](groups-member.md).
 - If the leaders are [unscrupulous](morality-evil.md), they'll attack their opponents' [symbolic](symbols.md) treasures. By damaging symbols, they damage their opponents' [cultural values](people-culture.md). Depending on the culture, this will sometimes provoke their [desire](purpose.md) for [vengeance](hardship-ptsd.md), but the long-term consequence of this is that the culture is diluted or dismantled.
-- If a group starts losing, the [loyalty](trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
+- If a group starts losing, the [loyalty](trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
   - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
@@ -211,7 +211,7 @@ The only way for any smaller group to fight the larger group comes through a uni
 
 Modern warfare has tried to create some form of civility to war, especially as [technology](technology.md) has made warfare absolutely horrific. Dozens of organizations have responded afterward to the gruesome war [stories](stories.md) by banning certain forms of combat (e.g., chemical/biological warfare).
 
-The reasoning that drives the [rules](rules.md) around forbidden weapons is absurd. Beyond torture, killing a person is the worst thing you can do to them, and war is built around the threats and means of killing people. Some implements of war create devastating results that *don't* kill people (e.g., landmines), but the purpose of others is to make killing more [efficient](results.md) (e.g., hollow-point bullets).
+The reasoning that drives the [rules](people-rules.md) around forbidden weapons is absurd. Beyond torture, killing a person is the worst thing you can do to them, and war is built around the threats and means of killing people. Some implements of war create devastating results that *don't* kill people (e.g., landmines), but the purpose of others is to make killing more [efficient](results.md) (e.g., hollow-point bullets).
 
 Further, the "rules of engagement" imply that only combatants should be harmed, and not civilians. While this may make sense in a war where the attacking and defending force are in relatively new territory, this is practically unenforceable when the defender is in their homeland and the [culture](people-culture.md) of the defender's [family](people-family.md) advocates for revenge. At that point, every civilian is a *possible* combatant.
 
@@ -258,28 +258,28 @@ Typically, the [youth](maturity.md) will hear the [stories](stories.md) and take
 
 ## Application
 
-There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
+APPLICATION: There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
 
-[Legal](rules.md) battles operate under the authority of that government (e.g., [intellectual property](legal-ip.md)), but [reach](influence.md) *much* farther than the two groups or their conflict. The [laws](rules.md) their conflict establishes create [philosophical](philosophy.md) [boundaries](people-boundaries.md) for *every* pair of groups with a similar conflict in the future, and often across regional boundaries.
+APPLICATION: [Legal](people-rules.md) battles operate under the authority of that government (e.g., [intellectual property](legal-ip.md)), but [reach](influence.md) *much* farther than the two groups or their conflict. The [laws](people-rules.md) their conflict establishes create [philosophical](philosophy.md) [boundaries](people-boundaries.md) for *every* pair of groups with a similar conflict in the future, and often across regional boundaries.
 
-Large-scale conflicts still involve individuals with uniquely separate [purposes](purpose.md), and people shift their loyalties as they gain [understanding](understanding.md). It's not uncommon for low-ranking soldiers who saw the horrors of combat to hate a sustained conflict more than their comparatively well-protected commanders. Only [highly influential](influence.md) people can draw everyone together.
+APPLICATION: Large-scale conflicts still involve individuals with uniquely separate [purposes](purpose.md), and people shift their loyalties as they gain [understanding](understanding.md). It's not uncommon for low-ranking soldiers who saw the horrors of combat to hate a sustained conflict more than their comparatively well-protected commanders. Only [highly influential](influence.md) people can draw everyone together.
 
-To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
+APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
 
-Great leaders are either always engaged in a conflict or [have a plan](imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
+APPLICATION: Great leaders are either always engaged in a conflict or [have a plan](imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
 
-When making concessions, closely observe the [attitude](purpose.md) of the requesting party. If they don't concede [in kind](morality-justice.md) for your group, prepare for a direct conflict.
+APPLICATION: When making concessions, closely observe the [attitude](purpose.md) of the requesting party. If they don't concede [in kind](morality-justice.md) for your group, prepare for a direct conflict.
 
-Nuclear weapons will never be as popular as the *threat* of nuclear weaponry, simply because the winner inherits a crater that's uninhabitable for a long time.
+APPLICATION: Nuclear weapons will never be as popular as the *threat* of nuclear weaponry, simply because the winner inherits a crater that's uninhabitable for a long time.
 
-A third attacker in a large conflict may be advantageous by either side, but they can't be [trusted](trust.md). They may attack either group at any time or change sides.
+APPLICATION: A third attacker in a large conflict may be advantageous by either side, but they can't be [trusted](trust.md). They may attack either group at any time or change sides.
 
-Often, the only grace a large group will give is to [maintain image](image-distortion.md). Don't *ever* [expect](imagination.md) [virtue](morality.md) from a conqueror.
+APPLICATION: Often, the only grace a large group will give is to [maintain image](image-distortion.md). Don't *ever* [expect](imagination.md) [virtue](morality.md) from a conqueror.
 
-The losing side isn't always innocent or a victim. Often, they're only [distorting their image](image-distortion.md) to gain [favor](image.md) from you.
+APPLICATION: The losing side isn't always innocent or a victim. Often, they're only [distorting their image](image-distortion.md) to gain [favor](image.md) from you.
 
-The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](people-culture.md) will [diverge](people-conflicts.md) wildly from the same event.
+APPLICATION: The losing side of a battle will have the same [story](stories.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](people-culture.md) will [diverge](people-conflicts.md) wildly from the same event.
 
-Controlling and directing a riot is very difficult. While some people, especially the [Left](politics-leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
+APPLICATION: Controlling and directing a riot is very difficult. While some people, especially the [Left](politics-leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 
-Any issues with war crimes is a misplaced [morality](morality.md). War itself is horrible, and to make rules for warfare without outright killing everyone who tries to kill anyone is technically a double standard.
+APPLICATION: Any issues with war crimes is a misplaced [morality](morality.md). War itself is horrible, and to make rules for warfare without outright killing everyone who tries to kill anyone is technically a double standard.

@@ -7,7 +7,7 @@
 
 Rural
 
-- Often governed by broad [rules](rules.md) and honors the [implications](mind-feelings.md) of those boundaries.
+- Often governed by broad [rules](people-rules.md) and honors the [implications](mind-feelings.md) of those boundaries.
 - Most people get most of their [news](stories-storytellers.md) days, weeks, or months after the event happens.
 - The people value autonomy (self-determined [decisions](decisions.md)) over interdependence.
 - Most available services are very limited from how few specialists are competing for [work](results.md), and most people have a plethora of general skills to take care of tasks themselves.
@@ -16,7 +16,7 @@ Rural
 
 Urban
 
-- Tightly managed [rules](rules.md) with many, many exceptions and clarifications.
+- Tightly managed [rules](people-rules.md) with many, many exceptions and clarifications.
 - Most people receive [news](stories-storytellers.md) almost as soon as it happens.
 - The people value interdependence and dependence over autonomy.
 - Generally, there are *many* people competing for services, but individuals don't often have the means or skill to do things themselves, and must often [trust](understanding-certainty.md) everyone else.
@@ -25,7 +25,7 @@ Urban
 
 Suburban
 
-- Clear-cut [rules](rules.md) of urban with the [implications](mind-feelings.md) of rural.
+- Clear-cut [rules](people-rules.md) of urban with the [implications](mind-feelings.md) of rural.
 - Most people get all the [news](stories-storytellers.md) within a day or two.
 - Interdependence and autonomy are balanced out.
 - Services are frequent, but individuals can do many things themselves as well.

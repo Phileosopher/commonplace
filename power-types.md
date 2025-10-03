@@ -22,7 +22,7 @@ Natural
 Social (also known as "politics")
 
 - Status - general [opinions](image.md) from others.
-- Coercive - can [punish](rules.md) people, driven by others' [fears](mind-feelings-fear.md).
+- Coercive - can [punish](people-rules.md) people, driven by others' [fears](mind-feelings-fear.md).
 - Reward - can [reward](results.md) people, driven by others' [loves](people-love.md).
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
 - Formal - [honor](image.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
@@ -38,7 +38,7 @@ Contextual
 - Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](results.md).
 - Absence - by not having, we have the future means to gain something, which may increase another power in the process of gaining.
 - Blackmail/Extortion - by giving something, you can get something in return later.
-- Shame/guilt - using someone's present or prior feelings of [shame or guilt](mind-feelings-shame.md) about hurting someone else's [feelings](mind-feelings.md) or breaking a [rule](rules.md).
+- Shame/guilt - using someone's present or prior feelings of [shame or guilt](mind-feelings-shame.md) about hurting someone else's [feelings](mind-feelings.md) or breaking a [rule](people-rules.md).
 
 ## Social Modifiers
 

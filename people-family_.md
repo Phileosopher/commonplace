@@ -1,4 +1,6 @@
 
+# What family is
+
 There are very few things we have absolutely *zero* control over about [ourselves](identity.md). But, beyond most of our physical attributes and where we were born, our family ties are one of the few we're stuck with.
 
 All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
@@ -56,7 +58,7 @@ Children have their own initial [culture](people-culture.md), [preferences](huma
 - Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
 - Individualism/Collectivism: living entirely for themselves, since they're not even *[aware](awareness.md)* of others.
 - Masculinity/Femininity: Focused strictly on their [purposes](purpose.md), which is implicitly *very* masculine.
-- Power Distance: Depending on their [willpower](purpose.md) and how they [feel](mind-feelings.md) about their parents, they can often be *more* powerful than their parents where the only way for parents to compensate is through a well-communicated and well-enforced [disciplinary standard](rules.md).
+- Power Distance: Depending on their [willpower](purpose.md) and how they [feel](mind-feelings.md) about their parents, they can often be *more* powerful than their parents where the only way for parents to compensate is through a well-communicated and well-enforced [disciplinary standard](people-rules.md).
 - Time Flexibility: Insistent on *every* deadline for themselves, immediately, but considers everyone else's deadlines unimportant.
 - Time Orientation: Extreme focus on the present moment.
 - Thought Mode: A complete focus on applications, with little to no ability to understand [principles](values.md).
@@ -104,7 +106,7 @@ Unless they have *amazing* parents, a child raised by a [powerful](power.md) fam
 
 On the other hand, a child who came from a low-ranking family has an unspoken advantage within their domain. If their parents taught them well, they'll be able to weather more hardship from having grown up without much privilege. While it's more difficult than it sounds, if they can [hide their shoddy background](image.md), they will often be a class above *any* of their peers.
 
-Unfortunately, the [love](people-love.md) of a parent means they will be willing to perform [unethical](morality.md) behavior for the advantage of their children. That motivation transcends any [institutional rules](rules.md) that could ever exist, and represents a huge portion of why [cultures](people-culture.md) create [unfair systems](mgmt-badsystems.md).
+Unfortunately, the [love](people-love.md) of a parent means they will be willing to perform [unethical](morality.md) behavior for the advantage of their children. That motivation transcends any [institutional rules](people-rules.md) that could ever exist, and represents a huge portion of why [cultures](people-culture.md) create [unfair systems](mgmt-badsystems.md).
 
 ## Failing
 
@@ -181,20 +183,20 @@ This often intensifies as the child grows older. By the time they're a teenager,
 
 ## Application
 
-Our [favoritism](people-friends.md) for family members creates some of the most screwed-up relationships on the planet. We will endure unbelievably inappropriate [boundary violations](people-conflicts.md) on the pretense of "family".
+APPLICATION: Our [favoritism](people-friends.md) for family members creates some of the most screwed-up relationships on the planet. We will endure unbelievably inappropriate [boundary violations](people-conflicts.md) on the pretense of "family".
 
-Children are completely uncivilized, and it's the parent's job to fix that before the child grows up. If they succeed, they create a profound [legacy](legacy.md) and the back end of a [good life](goodlife.md), and the parents bring shame on themselves if they fail.
+APPLICATION: Children are completely uncivilized, and it's the parent's job to fix that before the child grows up. If they succeed, they create a profound [legacy](legacy.md) and the back end of a [good life](goodlife.md), and the parents bring shame on themselves if they fail.
 
-What a parent expects is often different than what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](image.md).
+APPLICATION: What a parent expects is often different than what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](image.md).
 
-Every parent wishes for their child to succeed, but that parent should deeply consider *why* they want something for their child. It might not be for the child's benefit, and often comes more from [fear](mind-feelings-fear.md) than a legitimately good desire.
+APPLICATION: Every parent wishes for their child to succeed, but that parent should deeply consider *why* they want something for their child. It might not be for the child's benefit, and often comes more from [fear](mind-feelings-fear.md) than a legitimately good desire.
 
-For most of recorded history, parents communicated *all* the facts of [reality](reality.md), but also conveyed that children had poor [decision-making skills](decisions.md). That arrangement works much better than withholding information from them than when parents [feel](mind-feelings.md) they're "ready".
+APPLICATION: For most of recorded history, parents communicated *all* the facts of [reality](reality.md), but also conveyed that children had poor [decision-making skills](decisions.md). That arrangement works much better than withholding information from them than when parents [feel](mind-feelings.md) they're "ready".
 
-A grandparent is a success story, just by the fact that they built a [legacy](legacy.md). This doesn't necessarily [venerate](image.md) them, especially if their adult children never [talk](people-conversation.md) to them.
+APPLICATION: A grandparent is a success story, just by the fact that they built a [legacy](legacy.md). This doesn't necessarily [venerate](image.md) them, especially if their adult children never [talk](people-conversation.md) to them.
 
-If you were to create a [completely fair](morality-justice.md) society with zero chance for children to receive an inheritance, parents' [love](people-love.md) would quickly make creative solutions to give their children an unfair edge and would invalidate any balancing efforts or [rules](rules.md) the leaders had made.
+APPLICATION: If you were to create a [completely fair](morality-justice.md) society with zero chance for children to receive an inheritance, parents' [love](people-love.md) would quickly make creative solutions to give their children an unfair edge and would invalidate any balancing efforts or [rules](people-rules.md) the leaders had made.
 
-While family is often more tight-knit, the absence of diverse culture and ideas is a [severe risk](safety.md) to families. The only solutions are to either [marry people](gender.md) into that culture (traditionally through foreign females) or force everyone to disperse through some sort of hardship.
+APPLICATION: While family is often more tight-knit, the absence of diverse culture and ideas is a [severe risk](safety.md) to families. The only solutions are to either [marry people](gender.md) into that culture (traditionally through foreign females) or force everyone to disperse through some sort of hardship.
 
-It's easier to build a community than it ever has been before. All someone needs is the [motivation](meaning.md) to do it, some relatively [easy-to-acquire](purpose.md) [technology](technology.md), and the willingness to persevere with it.
+APPLICATION: It's easier to build a community than it ever has been before. All someone needs is the [motivation](meaning.md) to do it, some relatively [easy-to-acquire](purpose.md) [technology](technology.md), and the willingness to persevere with it.

@@ -3,7 +3,7 @@
 
 Morals are actions that prioritize serving [individual beings](humanity.md) and [social groups](groups-small.md) over things, though how much and who is a [constantly debated question](paradoxes.md).
 
-Morality comes from "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md). When implemented with more clear [logic](logic.md), mores becomes [laws](rules.md).
+Morality comes from "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md). When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).
 
 ## Context
 
@@ -14,7 +14,7 @@ Moral decisions are *always* a connection between several elements:
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](image.md) or [imagining](imagination.md) the [experience](stories.md), as well as any standard of [rules](rules.md) that dictate which of the above are most important.
+6. Authority - anyone [observing](image.md) or [imagining](imagination.md) the [experience](stories.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
 Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
 
@@ -41,7 +41,7 @@ APPLICATION: People always abide by a moralized [value](values.md) system, even 
 Morality must have a basis for its actions. There are some things that *can't* define morality:
 
 - Individual [choice](decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
-- [Justice](morality-justice.md) - Morality *determines* the basis of [laws](rules.md) and justice, not the other way around.
+- [Justice](morality-justice.md) - Morality *determines* the basis of [laws](people-rules.md) and justice, not the other way around.
 - [Group decisions](groups-large.md) or the collective of humanity - If that were the case, Nazi Germany would have the moral right to do what they did. [Power](power.md) may magnify morality but can't define it.
 
 As a general concept, we are all born with a conscience that maintains a semblance of morality. Based on our [upbringing](people-family.md), [culturally imposed standards](people-culture.md) will at least partially program our conscience.

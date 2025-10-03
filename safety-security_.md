@@ -1,4 +1,6 @@
 
+# Security summarized
+
 Security, by its design, is keeping specific assets [safe](safety.md) by preventing actions from happening that would adversely affect those assets.
 
 To that end, every secure thing has to have the following questions answered:
@@ -21,7 +23,7 @@ In practice, knowing how things could be infiltrated (#3) is *not* conducive to 
 
 The domains of security break apart into many other subdomains:
 
-- [Law enforcement](legal-safety.md) protects against the violation of a nation's [rules](rules.md).
+- [Law enforcement](legal-safety.md) protects against the violation of a nation's [rules](people-rules.md).
 - Private security protects against their [clients](people-6_contracts.md) or their possessions.
 - [Cybersecurity](computers-cysec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](computers-cysec-compliance.md).
 - Personal security involves protecting yourself and your possessions.

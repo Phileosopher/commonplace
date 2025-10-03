@@ -1,9 +1,7 @@
 
-NOTE: DOVETAILS W/ NAG MATH
-
 Math can best be described as the [science](science.md) of structure and order, which represents as patterns across our [perception](image.md). Unlike other sciences, though, repetition doesn't prove a mathematical concept: the only way we can tell is with [deductive certainty](logic.md) that it can't be anything else.
 
-Math is the [science](science.md) of [order](unknown.md) itself, but represents as a distinct [language](language.md) built around clearly defined [values](values.md) that represent [symbolically](symbols.md).
+While math itself is the [science](science.md) of [order](unknown.md), it represents as a distinct [language](language.md) built around clearly defined [values](values.md) that represent [symbolically](symbols.md).
 
 Structurally, math is grounded in [logic](logic.md), with zero room for [uncertainty](understanding-certainty.md). Even uncertain things are clarified on *how* uncertain they are.
 
@@ -81,22 +79,22 @@ However, hiding the actual algorithmic calculation is a very effective way to [d
 
 ## Application
 
-Since math is in our minds, it has the same fickle properties as any other [value](values.md). However, since it uses logic so intimately, we can structure it very well by comparison to any other values.
+APPLICATION: Since math is in our minds, it has the same fickle properties as any other [value](values.md). However, since it uses logic so intimately, we can structure it very well by comparison to any other values.
 
-Math is *very* useful in many parts of life, but its value is based on the accuracy of the math user's mind. Further, the signal deteriorates as it's [communicated](stories-storytellers.md), as well as whether they're [trustworthy](understanding-certainty.md) and [honest](people-lying.md), and is augmented by how they've calibrated their [feelings](mind-feelings.md).
+APPLICATION: Math is *very* useful in many parts of life, but its value is based on the accuracy of the math user's mind. Further, the signal deteriorates as it's [communicated](stories-storytellers.md), as well as whether they're [trustworthy](understanding-certainty.md) and [honest](people-lying.md), and is augmented by how they've calibrated their [feelings](mind-feelings.md).
 
-Math is a [logical](logic.md) [symbol](symbols.md), so enough inputs and outputs into a mathematical proof is guaranteed to yield itself as [offensive](morality-taboo.md), inaccurate, confusing, or inappropriate.
+APPLICATION: Math is a [logical](logic.md) [symbol](symbols.md), so enough inputs and outputs into a mathematical proof is guaranteed to yield itself as [offensive](morality-taboo.md), inaccurate, confusing, or inappropriate.
 
-To solely value money is to assign a measurement of power as [power itself](power.md).
+APPLICATION: To solely value money is to assign a measurement of power as [power itself](power.md).
 
-We can never expect something to go *precisely* how we envision it because we always gain 1 sample of a statistical range at any given time. All we can do is [change our statistical likelihoods](success-2_attitude.md) whenever possible.
+APPLICATION: We can never expect something to go *precisely* how we envision it because we always gain 1 sample of a statistical range at any given time. All we can do is [change our statistical likelihoods](success-2_attitude.md) whenever possible.
 
-Math is useful, but it's always comparative [logic](logic.md). We must keep in mind what *any* number is comparing itself to, such as percentages or statistics.
+APPLICATION: Math is useful, but it's always comparative [logic](logic.md). We must keep in mind what *any* number is comparing itself to, such as percentages or statistics.
 
-A statistical report is a statement of curated observations and is as trustworthy as the [group](groups-small.md) it came from. There's lots of [money and power](power.md) if someone can [prove](influence.md) they're not biased (which isn't [possible](mind-bias.md)), so the people who create statistics often [have something to lose](power-types.md) by stating that they're not precisely accurate.
+APPLICATION: A statistical report is a statement of curated observations and is as trustworthy as the [group](groups-small.md) it came from. There's lots of [money and power](power.md) if someone can [prove](influence.md) they're not biased (which isn't [possible](mind-bias.md)), so the people who create statistics often [have something to lose](power-types.md) by stating that they're not precisely accurate.
 
-Very frequently, statistics [hide lies](image-distortion.md) by making the statistician appear more credible. The value of the statistical [analysis](logic.md) comes from the [value](creations.md) of the raw data, which comes from the [quality](values-quality.md) of the data collection.
+APPLICATION: Very frequently, statistics [hide lies](image-distortion.md) by making the statistician appear more credible. The value of the statistical [analysis](logic.md) comes from the [value](creations.md) of the raw data, which comes from the [quality](values-quality.md) of the data collection.
 
-Claiming statistical analysis is immaculate requires faith in a [community's](groups-member.md) collective [understanding](understanding.md). Nothing is all/nothing, but statistics provide the opportunity to make a clear [story](stories.md) of reality, even if it's not precise. However, most [younger people](maturity.md) can be [influenced](influence.md) to [believe](understanding-certainty.md) statistics more than its truth.
+APPLICATION: Claiming statistical analysis is immaculate requires faith in a [community's](groups-member.md) collective [understanding](understanding.md). Nothing is all/nothing, but statistics provide the opportunity to make a clear [story](stories.md) of reality, even if it's not precise. However, most [younger people](maturity.md) can be [influenced](influence.md) to [believe](understanding-certainty.md) statistics more than its truth.
 
-Since math exists in the mind alone, algorithms are always biased, no matter how much data is fed into it or how well it's [constructed](creations.md), meaning algorithms are as fallible as statistics.
+APPLICATION: Since math exists in the mind alone, algorithms are always biased, no matter how much data is fed into it or how well it's [constructed](creations.md), meaning algorithms are as fallible as statistics.

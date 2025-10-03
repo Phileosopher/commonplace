@@ -105,7 +105,7 @@ Your silence may exonerate you.
 - Not saying things (or simply not responding) often requires *much* more research for someone to prove anything.
 - Stay completely open about obvious matters, but it's wiser to stay completely silent about things people don't need to know.
 
-Research the [rules](rules.md) whenever possible.
+Research the [rules](people-rules.md) whenever possible.
 
 - Governments usually post their laws publicly (though many [bureaus](bureaucracy.md) have unclear or conflicting precedents), which usually make sense if you can get past the [jargon](glossary-legal.md).
 - Closely consider *everyone's* legal rights and responsibilities.

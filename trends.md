@@ -62,7 +62,7 @@ At this point, a few outliers will have the [courage](mind-feelings-fear.md) to 
 
 - [Young people](maturity.md) who haven't [identified](identity.md) closely with their [culture of origin](people-culture.md) and want [new things](image.md).
 - Geeks and nerds who either don't care [how they look](image.md) or are utterly oblivious to it.
-- People trying to break the [rules](rules.md) for fun or who enjoy exploring [uncertain](understanding-certainty.md) things.
+- People trying to break the [rules](people-rules.md) for fun or who enjoy exploring [uncertain](understanding-certainty.md) things.
 - Mentally unstable people battling [past trauma](hardship-ptsd.md).
 
 Unlike everyone else, these people have often made [habits](habits.md) of breaking [convention](people-culture.md), and usually explore the thing for fun or to [fight](people-conflicts.md) presently [established](people-culture.md) things. This unique way of living means their [personalities](personality.md) are completely different from the rest of their [group](groups-small.md).
@@ -93,7 +93,7 @@ Most early adopters are closely watching the innovators to gain [influence](infl
 
 When their [intuition](mind-feelings.md) senses that the public will generally accept something, they'll adopt it in an attempt to [influence](influence.md) everyone else toward it. They not only have to have evidence that the idea is [true](reality.md), but that others will also like it.
 
-The most [creative](mind-creativity.md) uses of the thing come with the early adopters, mostly because there are very few established [rules](rules.md) or [expectations](imagination.md) of how to use it.
+The most [creative](mind-creativity.md) uses of the thing come with the early adopters, mostly because there are very few established [rules](people-rules.md) or [expectations](imagination.md) of how to use it.
 
 Early adopters' experiments will yield remarkable [solutions](purpose.md) and abuses of [power](power.md), but nowhere *near* as prevalent as later on. However, its novelty will generate *major* public reactions from it.
 
@@ -127,7 +127,7 @@ APPLICATION: Huge, society-spanning trends often come from awful conflicts and h
 - After The Great World War (WWI), Germany was utterly ravaged. That hatred led to [passions](purpose.md) which advanced Germany's Nazi Party in an election, mostly from a desire to [justly](morality-justice.md) take back the [power](power.md) they had held.
 - France was [economically](economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
 
-Like early adopters' [conflict](conflicts-inner.md), the early majority also care a *lot* about [how they look](image.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](rules.md).
+Like early adopters' [conflict](conflicts-inner.md), the early majority also care a *lot* about [how they look](image.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](people-rules.md).
 
 APPLICATION: Trends require multiple people to take hold of it:
 
@@ -147,7 +147,7 @@ At this point, the trend will spread across a variety of social groups beyond si
 
 As the majority starts making the trend a [habit](habits.md), another late majority (about 34% of the population) will notice that most people have adopted the trend.
 
-At this point, the late majority will conform standards to that trend, but not [willingly](purpose.md). Instead, they're afraid of the [social push-back](people-conflicts.md) if they break the newly established [social rules](rules.md), since the trend has become so prevalent that they're at risk of committing a [taboo](morality-taboo.md) by *not* honoring it.
+At this point, the late majority will conform standards to that trend, but not [willingly](purpose.md). Instead, they're afraid of the [social push-back](people-conflicts.md) if they break the newly established [social rules](people-rules.md), since the trend has become so prevalent that they're at risk of committing a [taboo](morality-taboo.md) by *not* honoring it.
 
 APPLICATION: To avoid becoming obsolete, focus on things that won't change anytime during your lifetime.
 
@@ -180,7 +180,7 @@ The first signs of a trend losing power is when [humor](humor.md) starts parodyi
 
 Some people will *always* refuse to adopt a trend. These people are "laggards", and will never adopt it. They usually represent about 16% of the group.
 
-Laggards only adopt because they absolutely must, and often only because the [law](rules.md) has become [punitive](rules-methods.md). Many laggards are defiantly set in their [habits](habits.md), but [creative](mind-creativity.md) laggards can become the innovators of other trends that run *counter* to those trends.
+Laggards only adopt because they absolutely must, and often only because the [law](people-rules.md) has become [punitive](rules-methods.md). Many laggards are defiantly set in their [habits](habits.md), but [creative](mind-creativity.md) laggards can become the innovators of other trends that run *counter* to those trends.
 
 APPLICATION: No matter what, every trend is just a majority adopting it. There will *always* be outliers who never [change](people-changes.md) from their fixed [habits](habits.md). Depending on the thing in question, extremists tend to either [disbelieve](understanding-certainty.md) their existence or maintain their outlier status.
 
@@ -288,7 +288,7 @@ Each trend consists of sub-trends that can spin off on their own (all of them dr
 
 A trend is a series of many [stories](stories.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
 
-APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) toward. Often, following trends can get you in [trouble](rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
+APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
 
 The only way we'd be able to reliably predict the timing of a trend would be to [understanding](understanding.md) all the trends and [technology](technology.md) that haven't happened yet in between where we are and what we envision. We'd also have to consider all major factors that could tweak the trend's adoption ([example here](https://ncase.me/attractors/)).
 
@@ -296,7 +296,7 @@ The length of a trend's phase comes from how new something is, according to each
 
 - Outside of innovators, each person requires a certain percentage of the people (or certain people) around them to like something before they can [trust](trust.md) that adopting it is worth the [social risk](socialrisk.md). This calculation comes from how much conflict they'll expect from the [decision](decisions.md). For example, early adopters may need to know that 2-5% of their friends already like it and that 30% of their friends like them doing it, or maybe they'll do it if their friend John is doing it.
 - Then, except for the late majority and laggards, each person *stops* adopting that thing when a specific people group has now *adopted it*. The early majority, for example, start questioning their trend when laggards begin adopting.
-- Laggards will never adopt the thing until it's practically [required](rules.md) by the group. Even then, they'll never [identify](identity.md) with it. The speed of a *new* trend developing to replace that one often comes from how much the laggards hate the current trend.
+- Laggards will never adopt the thing until it's practically [required](people-rules.md) by the group. Even then, they'll never [identify](identity.md) with it. The speed of a *new* trend developing to replace that one often comes from how much the laggards hate the current trend.
 - New mini-trends around an initial trend can restart the trend cycle all over again at any time. Often, they'll send the public in a previously unexpected direction, destroying unrelated trends and revitalizing loosely connected ones.
 
 ## Tweaks to a trend

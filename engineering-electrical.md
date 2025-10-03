@@ -75,7 +75,7 @@ Most everyday batteries are a few broad classes of solid metals, and most of the
 - Lithium iron phosphate (LiFePO~4~, or LFP) is a low-cost, non-toxic, relatively safe derivative with naturally abundant materials. LiFePO~4~ was only developed as early as 1996.
 - Gallium nitride (GaN) has been used for blue light-emitting diodes (LEDs) since the 1990s, but has recently been developed for battery use. If they can successfully make them affordable, they'll be able to charge faster than the others (which is critical for use cases like electric vehicles).
 
-The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](rules.md) discarding batteries, which can be a problem [at scale](groups-large.md).
+The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](people-rules.md) discarding batteries, which can be a problem [at scale](groups-large.md).
 
 Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](computers-programming-algorithms.md) implementation of the Coulomb counter:
 

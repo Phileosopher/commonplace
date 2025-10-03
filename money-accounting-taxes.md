@@ -168,7 +168,7 @@ Though it's sometimes more complex, other write-offs and write-downs can offset 
 - Reinvested dividends
 - Renewable energy credits
 
-The US income tax code is configured to [socially engineer](rules.md) a specific set of lifestyles:
+The US income tax code is configured to [socially engineer](people-rules.md) a specific set of lifestyles:
 
 - [Employees](jobs-1_why.md) > [Entrepreneurs](entrepreneur-1_why.md)
 - [Teachers](education.md) > other [careers](jobs-specialization.md)

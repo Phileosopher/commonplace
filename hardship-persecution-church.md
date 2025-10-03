@@ -82,7 +82,7 @@ And, the psychologist Philip Zimbardo charted *exactly* how people become evil:
 3. By doing someone else's [will](purpose.md), they feel anonymous and, thus, [morally](morality.md) exempt from their actions.
 4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](meaning.md) for their behaviors.
 5. The culture's [power structure](power.md) will mandate blind obedience to authority figures.
-6. Eventually, everyone will adapt to the group's [rules](rules.md) without asking questions.
+6. Eventually, everyone will adapt to the group's [rules](people-rules.md) without asking questions.
 7. Finally, everyone will passively tolerate [evil](morality-evil.md) through inaction or indifference.
 
 Even in tyrannical societies, *most* of the people are simply watching:
@@ -117,7 +117,7 @@ From there, Christians will start incurring public [shame](mind-feelings-shame.m
 Soon, Christianity becomes illegal to practice in public:
 
 - Churches will often lose their government authorization unless they comply with anti-Christian values.
-- [Evangelism](evangelism.md) and public worship will become [illegal](rules.md).
+- [Evangelism](evangelism.md) and public worship will become [illegal](people-rules.md).
 - Officials will detain and possibly beat Christians after warning them.
 - This can happen *very* rapidly, sometimes in the course of one day!
 
@@ -259,7 +259,7 @@ Learn how to speak carefully to keep secrets:
 - On the other hand, avoid [confrontations](people-5_conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
 - Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
-  - State [the law](rules.md) when they ask your [purpose](purpose.md).
+  - State [the law](people-rules.md) when they ask your [purpose](purpose.md).
   - Give away as much information as possible that has nothing to do with the people you're protecting (e.g., less-relevant but highly private information like medication usage or sex life).
   - Use obscure or intellectual-sounding words to hide clearly illegal things.
   - Use pseudonyms and alternate names frequently for proper nouns (which is precisely why the Bible's disciples had several names).
@@ -267,7 +267,7 @@ Learn how to speak carefully to keep secrets:
 
 Learn to stay silent:
 
-- Silence has tremendous value because it's very difficult to [legally convict](rules.md) someone on silence alone ([Proverbs 29:11](https://biblehub.com/proverbs/29-11.htm)).
+- Silence has tremendous value because it's very difficult to [legally convict](people-rules.md) someone on silence alone ([Proverbs 29:11](https://biblehub.com/proverbs/29-11.htm)).
 - Every stray [word](language.md) could devastate an underground church, so work *very* hard to hold your tongue ([James 3:6](https://biblehub.com/james/3-6.htm)).
 - Most people are accustomed to frequently talking, so we must [train ourselves](https://adequate.life/habits/) to it *before* we encounter it.
 - Ministering to other Christians comes through silence *far* more than speaking.

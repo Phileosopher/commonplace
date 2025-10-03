@@ -1,4 +1,42 @@
 
+
+## Gender differences
+
+However, men and women *can* work very well with each other:
+
+- It's often [taboo](morality-taboo.mds/) to say, but the two genders work best with women detecting problems and strategizing while men make difficult decisions and fix problems.
+- Women often want men's roles, but are too intelligent to have the confidence to maintain those roles.
+- When men are placed in a supporting role to women, they don't have the mental ability to reason out possible risks or problems.
+
+What men must learn:
+
+- Compared to women, men are unsophisticated and emotionally uninvolved.
+- Women crave close, personal affection and security.
+  - Affirm her frequently, such as calling her beautiful.
+  - Acknowledge her feelings without *any* context (e.g., "that feels sad").
+  - Show physical, non-sexual affection.
+  - Perform small acts of kindness for her (e.g., opening the door for her).
+  - Give at least two months' notice for any large decision, including [marriage proposals](relationships-weddings.md) and [children](parenting-babies.md).
+  - Always stay open to expanding your [awareness](awareness.md) of feelings and sentiments.
+- Usually, a woman will vent her frustrations, but do *not* try to fix it: just [listen](language-speaking.md).
+- Learn additional [self-maintenance](people-2_image.md) to meet a woman's standard.
+- Men are typically unaware of many situational risks, so listen to women.
+
+What women must learn:
+
+- Compared to men, women are complicated and inefficient.
+- Men crave respect for accomplishments and challenging experiences.
+  - Admire what he's done, especially regarding his [career](jobs-1_why.md) and [parenting](parenting-children.md).
+  - [Tactfully](people-3_respect.md) tell him what you *really* think and believe, because he won't understand an implication.
+- Women usually experience feelings *far* more intensely than men.
+  - Scale your feelings down [into words he can understand](language-speaking.md).
+  - Give them more personal space to let them cope with the emotional intensity.
+- Most women overestimate the intelligence of men.
+  - Men don't understand implications as well and aren't trying to be rude or impatient.
+- Women tend to overcommunicate smaller risks because they think they weren't heard, but they must learn to trust that men will tackle everything eventually.
+
+---
+
 women are wired to take care of babies, and that makes them extremely kind and patient with the failings of the object in question
 - this is vital to life, otherwise babies would be neglected and die
 - the issue is that it's the wrong time and place in many other contexts, and stops being [effective](purpose) after 6 months

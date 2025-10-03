@@ -13,7 +13,7 @@ These values we identify with are an [image](image.md) we've [created](creations
 - Absence of a thing (e.g., "not pretty enough", "stupid", "weak").
 - Hatred of a thing (e.g., hating a father or [political party](politics-conservativeliberal.md)).
 
-Things we identify with are often responses to our environment, and typically compared with other things. We frequently identify with how much we conform to [group standards](rules.md).
+Things we identify with are often responses to our environment, and typically compared with other things. We frequently identify with how much we conform to [group standards](people-rules.md).
 
 Identity has very little to do with what we *[are](humanity.md)* or [are doing](results.md), but is always associated with our [purposes](purpose.md). A person may work a job full-time and go to school but will identify with something they only do 5 hours a week or merely wish to do.
 

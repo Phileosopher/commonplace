@@ -24,9 +24,9 @@ On the other hand, many things have *very* gray areas to them that various group
 - Unpopular [trends](trends.md) or uncommon ideas.
 - Burning specific flags, especially if they symbolize a [nation](groups-large.md).
 
-Taboos aren't necessarily [moral](morality.md) or matters of [justice](morality-justice.md). They're [cultural](people-culture.md) things that *might* be moral, but are often breaking a [rule](rules.md) everyone in that group is honoring and usually *wants* to honor. They also don't have to necessarily cause harm, either.
+Taboos aren't necessarily [moral](morality.md) or matters of [justice](morality-justice.md). They're [cultural](people-culture.md) things that *might* be moral, but are often breaking a [rule](people-rules.md) everyone in that group is honoring and usually *wants* to honor. They also don't have to necessarily cause harm, either.
 
-[Group leaders](groups-small.md) tend to enforce punishment against taboos more than other [rules](rules.md). They frequently call it by various names, depending on the group (e.g., treason, heresy, noncompliance, defiance).
+[Group leaders](groups-small.md) tend to enforce punishment against taboos more than other [rules](people-rules.md). They frequently call it by various names, depending on the group (e.g., treason, heresy, noncompliance, defiance).
 
 Some immoral things *aren't* taboo:
 
@@ -44,7 +44,7 @@ Not all taboos are bad. Many times, they're extreme applications of [justice](mo
 
 By their design, taboos direct [shame](mind-feelings-shame.md) onto people.
 
-If someone is shamed hard enough, they can *become* the taboo themselves. Often, most leaders use this to destroy others' [power](power.md) or exile them from the [group](groups-small.md). Many of them create [rules](rules.md) around this, to tremendous personal gain. In a free society with [elections](politics-systems.md), the leaders do it to the opposition party.
+If someone is shamed hard enough, they can *become* the taboo themselves. Often, most leaders use this to destroy others' [power](power.md) or exile them from the [group](groups-small.md). Many of them create [rules](people-rules.md) around this, to tremendous personal gain. In a free society with [elections](politics-systems.md), the leaders do it to the opposition party.
 
 APPLICATION: To live in society, everyone needs at least a little sophistication. It's necessary for others to [trust](trust.md) that we're doing things for better [reasons](purpose.md) than their [prejudices](image.md) may imply. But, we only require it to the degree we get near any social thresholds of "acceptable behavior".
 
@@ -83,7 +83,7 @@ The reason these awkward arrangements stay around for so long is from two fronts
 
 - The only people that can do anything about it are [leaders](groups-small.md), but individuals must deal directly with the [consequences](results.md). While leaders are *supposed* to confront those [conflicts](people-conflicts.md) from their position of [strength](power.md), the members' need to survive means they must avoid receiving shame for the conflict.
 - Often, the *leaders* are forced to do nothing from the blow to their [reputation](image.md) from making changes. Many social issues could be resolved with a simple [decision](decisions.md) by a leader who wasn't concerned with their [reputation](image.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
-- The typical result, then, becomes oppressive [laws](rules.md) that create a social hedge around the taboo but never fix anything about it.
+- The typical result, then, becomes oppressive [laws](people-rules.md) that create a social hedge around the taboo but never fix anything about it.
 
 APPLICATION: Since [group members](groups-member.md) can [feel](mind-feelings.md) fierce reactions to taboos, some leaders can skillfully exploit it by implying that someone they want to remove from the group is violating that taboo.
 
@@ -92,7 +92,7 @@ APPLICATION: Since [group members](groups-member.md) can [feel](mind-feelings.md
 Exploring taboos has many benefits:
 
 - Most legitimately [high-quality](values-quality.md) [creative](mind-creativity.md) endeavors explore taboos directly or imply their existence.
-- If someone tenaciously pursues [truth](reality.md), they frequently won't pay attention to [rules](rules.md) they're breaking, especially if they're [philosophers](philosophy.md).
+- If someone tenaciously pursues [truth](reality.md), they frequently won't pay attention to [rules](people-rules.md) they're breaking, especially if they're [philosophers](philosophy.md).
 - Typically, [social trends](trends.md) start with someone [taking the risk](socialrisk.md) to confront or explore a taboo.
 - Why taboos exist often gives *tremendous* [understanding](understanding.md) to anyone willing to [explore it](purpose.md).
 

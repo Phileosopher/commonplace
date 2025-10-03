@@ -1,101 +1,7 @@
 
-When we observe [nature](reality.md), the incoming perception assembles itself into a hierarchy:
+# Tactics to avoid information overload
 
-- Measurements - [values](values.md) and [sensations](mind-feelings.md) we experience.
-  - e.g., a being we regard as a cat, two of those beings, colors, numbers, opinions, memories, etc.
-- Facts - the values that we can observe as true.
-  - e.g., orange and black are present, two cats are present, there is a ball of yarn, one cat has swatted the ball, there is a hissing noise from the other cat
-- Data - samples of values that have some type of [meaning](meaning.md), which is what [a computer](computers.md) works on (though the meaning comes strictly from the users).
-  - e.g., two cats (one orange and one black), one has struck a ball of yard, the other has hissed at it
-- Information - values we've compared with other values, which is how we perceive and where most of our [feelings](mind-feelings.md) come from.
-  - e.g., the two cats had gotten along, but not right now
-- Knowledge - information that has been adjusted from additional information
-  - e.g., the two cats had gotten along, but not right now because of the ball of yard
-- Wisdom - focused knowledge toward perceived [purposes](purpose.md)
-  - e.g., the two cats are having a dispute over that ball of yarn, which may lead to a [conflict](people-conflicts.md)
-
-Therefore, we should only consume information relative to what our [purposes](purpose.md) are.
-
-## The history of information
-
-500 years ago, you were fortunate to own something someone else wrote. 100 years ago, most people could hold about half a dozen of them in their pocket. This article today is easily reproducible and effortless to share, and there are *billions* of them.
-
-Most trends have a historic precedent, where something gets done faster and better, but mostly the same way. History typically gives us principles, if we're willing to learn them.
-
-Multiple information technologies across history have gotten us here, but the [Information Age](history-eras.md) has very little precedent. Each technology has magnified our information availability and increased its flow:
-
-1. Writing gave people the means to share and send information. Philosophers bemoaned what it did to everyone's memory, but it allowed anyone to be [educated](education.md) by long-deceased people if they knew how to read and had access to a library.
-2. The printing press magnified writing, and the only constraint to permitting *many* people to read was money.
-3. Photographs allowed us to send slices of time across the world, meaning we could see farther alongside [understanding](understanding.md).
-4. The telegraph made the entire exchange *instant* with small bits of that information, allowing us to act faster.
-5. Radio permitted us to deliver entire *lectures* to anyone in a region, irrespective of price, and the telephone let us hold conversations irrespective of distance.
-6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
-7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
-8. The internet has removed the need for much money to do all of the above, first for writing, then for everything else.
-9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](imagination.md).
-
-The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
-
-### The Over-Information Age
-
-In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-computer.md) called "the internet". Once the [trend](trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
-
-By the 2010s, nearly anyone with a portable computer (e.g., a cell phone) and a reliable internet connection had *instant* access to *far* more information than kings had a century ago.
-
-This trend has Balkanized many established, long-standing monoliths of information exchange, leading to their general [obsolescence](trends.md):
-
-- Why go to the library when the book is online or on your Kindle? As of now, a library's primary feature is that it's a quiet place, and its digital equivalent is a [DRM](legal-ip.md) enforcement vehicle for publishers.
-- Why ask a friend about their hobby? You can find just as much information on literally *thousands* of hobbies on numerous message boards or online videos.
-- Why pay for college when the information is freely available online? For many industries, colleges only exist to [communicate competence](jobs-specialization.md) to specific [social networks](groups-large.md).
-- Why consult [scientific journals](science.md)? The information is on SciHub or floating around online elsewhere.
-- Why go shopping anywhere? You can just buy things online, and once [VR/AR](computers-vr.md) is perfected, you can even *test* the product online for the most part.
-- Since COVID-19, why go to church? You can practice your [religious observance](religion.md) from the comfort of your own home.
-
-Our present social trend is the Over-Information Age, and I anticipate this era will continue well into the 2050s. [AI](computers-ai.md) adds *much* more semi-decent information on top of what we already have, and a glut of ever-increasingly high-speed computers only magnifies the means to manipulate, store, and transmit information.
-
-The Over-Information Age consists of each individual person possessing many lightweight connections across the world, irrespective of geography but dependent on [technology](technology.md), and comparatively few in-person interactions with their predecessors.
-
-While information itself used to have value, most of the competition has now pivoted to a *desperate* competition for everyone's scarce attention, which creates a type of "attention [economy](economics.md)". While it empowers compared to the past, it now creates a *new* problem of endless distraction.
-
-Further, this perpetual cosmopolitanism ensures that [cultures](people-culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
-
-Societies with this newly formed attention economy (i.e., most developed regions of the world) are a perpetual, monotonous hum of inattentive focus that provokes us to be [unhappy](mind-feelings-happiness.md) and [unsuccessful](success-1_why.md), [mindlessly pursuing tasks](habits.md) and [substances](addiction-substances.md) that don't [resolve our concerns](purpose.md) or [give us meaning](meaning.md). It's the [human condition](humanity.md), but fast-forward.
-
-This issue isn't merely my opinion, either. [Someone at Google in 2013 made a call to minimize distraction](http://www.minimizedistraction.com/), and [time is now officially our most limited resource](https://ourworldindata.org/time-use).
-
-* * * * *
-
-## Where we stand
-
-In this era, there's a *lot* of information available, on pretty much everything:
-
-1. The internet gives thousands of articles on almost any subject.
-2. Most of the "fact-checking" sources are supposed to distill the truth, but they have a [bias](mind-bias.md), and their information may not be accurate in specific domains.
-3. For the first time in recorded history, our ability to filter out bad information is more important than our ability to gather it.
-
-For various reasons, most information doesn't have much value:
-
-- People don't apply much [common sense](understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](computers-ai.md) assists with the [creative](mind-creativity.md) process).
-- The creator has intentionally made the information inadequate to provoke people to pay more [money](money-1_why.md) to get the complete information.
-- The creator's [bias](mind-bias.md) overshadows the truth.
-- The goal of the content is to [influence](power-influence.md) people by [distorting the truth](image-distortion.md).
-
-Everyone has a limit on how much information they can consume.
-
-- When we reach that limit, we become [distracted](success-4_routine.md), [unhappy](mind-feelings-happiness.md), [unable to retain information](mind-memory.md).
-- Over time, we can adapt that distracted and miserable state into [habitual, mindless autopilot](habits.md).
-- We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](personality.md).
-
-Being frequently inundated with information is *not* healthy for us:
-
-- We adopt a heavily [biased](mind-bias.md) and judgmental [culture](people-culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
-- Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](trends.md) [language](language.md) for offline use.
-
-Without [awareness](awareness.md) and making [decisions](decisions.md) that enforce limits, we tend to perform "[crash diets](body-2_diet.md)" of information control:
-
-1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
-2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.
-3. Revert back to passively permitting too much information to flow in, with no long-term solution to [fix it](fix.md) in the future.
+These are all tactics for slowing the information flow for the purpose of increased [understanding](understanding.md) and higher [quality](values-quality.md).
 
 ## Fix 1: Slower inputs
 
@@ -112,17 +18,26 @@ In comparison with the people of 50 years ago and now, the information from then
 
 Now, it's on allrecipes.com, or r/cooking, or Pinterest. You don't need to leave your couch. Or you can text your friend if you want their specific recipe.
 
-| **Task** | **Time back in yore** | **Time it takes now** |
-| 1\. Think of the information you want |
+The procedure between consumption and sharing has sped up exponentially:
 
- |
+1. Think of the information you want
+2. Get to the information repository
+   - Before: minutes to weeks (e.g., library, book)
+   - Now: <30 seconds
+3. Sift through that information source
+   - Before: seconds to minutes (e.g., table of contents)
+   - Now: <5 seconds (e.g., websearch)
+4. Copy or learn the information you want
+   - Before: seconds to minutes (e.g., handwriting)
+   - Now: <10 seconds (e.g., copy-paste)
+5. Travel back and use the information
+   - Before: minutes to hours
+   - Now: <30 seconds
 
- |
-| 2\. Get to the information repository | minutes to weeks (e.g., library, book) | <30 seconds |
-| 3\. Sift through that information source | seconds to minutes (e.g., table of contents) | <5 seconds |
-| 4\. Copy or learn the information you want | seconds to minutes (e.g., handwriting) | <10 seconds |
-| 5\. Travel back and use the information | minutes to hours | <30 seconds |
-| **Total time consumed for information** | **minutes to weeks** | **<5 minutes** |
+Total time consumed for information
+
+- Before: minutes to weeks
+- Now: <5 minutes
 
 There's a time and place for both, and slowly consuming information has tremendous advantages:
 
@@ -275,7 +190,7 @@ Very frequently, it's much easier to *save* the information than actually *do* s
 - If you can't cross the threshold to make more from that information, it's not necessary to save.
 - We often maintain non-practical things because we still find them [beautiful](values-quality.md), which is fine if we know *why* we're keeping it and don't expect anything more from it.
 
-If the information may cause an adverse situation (e.g., [intellectual property](legal-ip.md) or [illegal content](rules.md)) ask if it's [worth the risk](safety-riskmgmt.md) to store it yourself.
+If the information may cause an adverse situation (e.g., [intellectual property](legal-ip.md) or [illegal content](people-rules.md)) ask if it's [worth the risk](safety-riskmgmt.md) to store it yourself.
 
 - Certain nations have laws other nations don't honor, and some nations have various conditions on how you can own or distribute content.
 - Frequently, only *part* of the content is illegal, and the rest may be [perfectly fine](legal-safety.md).
@@ -315,7 +230,7 @@ Clearly demarcating exclusive categories (where it can *only* be one or the othe
 
 [Language](language.md) codifies how we [understand](understanding.md), and high-quality language builds information into as few words as reasonably possible, where the [meaning](results.md) we've built directly corresponds with our [intuition](mind-feelings.md).
 
-Once something seeps into our subconscious, we start developing [principles](rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
+Once something seeps into our subconscious, we start developing [principles](people-rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
 
 ## Fix 6: Detect bias
 
@@ -436,263 +351,3 @@ The entire end of this, after all, is to add [meaning](meaning.md) to life:
 - We need boredom to find [creativity](mind-creativity.md).
 
 Occasionally, it simply makes sense to release *all* of it and [have fun doing something else](fun.md) or [take a vacation](fun-vacations.md).
-
-* * * * *
-
-## Specific media
-
-Generally, all the [rules for optimizing a routine](success-4_routine.md) apply, but each type of media has very specific methods for cutting out useless information.
-
-### Text
-
-Avoid low-information content:
-
-- Doesn't summarize its information within the first 1-2 paragraphs.
-- Language emphasizes the impact of emotionally intense experiences (e.g., [deaths](hardship-death.md), [hospitalizations](body-firstaid.md), [bankruptcies](money-2_debt.md), [unemployment](hardship-unemployment.md)).
-- Heavy on extreme words (e.g., catapulted, killed, transformed, radical, destroyed, utterly)
-- Hedging words (e.g., seems to be, experts have stated, [noun] is known to be)
-- Many prepositions (e.g., in light of that, on behalf of our organization, in spite of this)
-
-Develop a habit of skimming text without inserting your judgments before reading it thoroughly.
-
-- For books, read the table of contents and focus on the chapters that centralize the concept of the book.
-- Read the first and last sentences of the paragraph.
-- Read the first and last paragraphs of the work.
-- Look for keywords and clarifying concepts, such as proper nouns.
-- Once you have the gist of an article, move on to something else, unless you're interested in the writer's opinion.
-
-If you find big words, research what that word was, since it's likely the most important.
-
-- If the book has *many* big words, it's possible the writer doesn't know how to simplify their content, and you might want to read a different book.
-
-Learn to speed read:
-
-1. Only read when your mind is focused and alert to avoid re-reading.
-2. Only read things that interest you.
-3. Focus on controlling your comprehension, *not* your speed, by removing all distractions.
-4. Use a pointer or a piece of paper to keep your eyes focused on each line.
-5. Learn to read *without* speaking in your mind (subvocalize).
-6. Ask what you hope to gain by reading the material, then look for that specific information instead of reading the entire text.
-
-### Video
-
-Freely jump ahead in the video.
-
-- You don't have to watch the intro, promotional content, or 5 examples of something you already understand.
-
-Always turn on subtitles to easily catch something you missed.
-
-Unless it's a visual step-by-step procedure, treat it as audio with an occasional visual.
-
-- If you can, get a transcript instead.
-
-Stop and rewind parts of the video if you suspect you missed something important.
-
-If possible, run a cable to your TV or invest in a 2nd computer screen.
-
-- Task-switching doesn't take much time, but adds up when you do it 50 times a day.
-
-Avoid automatic playlists.
-
-- If the video cycles to a related video on an automatic feed, you'll be stuck with *lots* of information in your mind with nothing to do about it.
-
-Short videos tend to be more packed with information than long videos.
-
-- Long videos often have long gaps of time between new information, and tend to pace it out with many examples and discussions.
-- Short videos (especially when they're designed with a 3-5 minute goal) often contain *lots* of information that require more focus.
-
-Before watching a movie or TV show, grab the [Wikipedia](https://wikipedia.org) summary to see what it's about.
-
-- Don't worry about spoilers, since [scientific studies](science.md) have shown we like stories *better* when we know the ending.
-- Critics often cover themes and sensations, but the lack of spoilers often draws out the entire experience more than it should be.
-
-### Audio
-
-It's harder to jump around with audio than with video, but you can still do it if you know the creator's general production format.
-
-If you're listening to an album, the first 2-4 tracks are often the best.
-
-- If you're curious about the rest, they can often be more interesting or unique than the first few tracks, but the memorable music is at the front.
-
-Only consume at a speed you can comprehend.
-
-- If you listen at 2x speed or more, be careful to not ignore the information.
-- A small bit of [understanding](understanding.md) will go 100x farther than barely comprehending something at 3x speed.
-- If you *only* prefer consuming the content at faster than recording speed, they're a bad communicator and you should find a better one.
-
-Podcasts are generally a waste of time unless your [personality](personality.md) prefers a social experience about a typically non-social topic.
-
-### Photos
-
-Look for [themes and patterns](symbols.md) that can exclude information.
-
-Charts and infographics take *much* more work because they're also text, so sift through them last unless you're looking for specific information.
-
-### Forums/comments
-
-*Only* consume comments out of curiosity or to answer a specific question.
-
-Only comment if you thoroughly understand the content, or you're adding to the useless pile of information.
-
-### Chat rooms
-
-There's usually tons of back-and-forth, so read about 2-3 lines of text for every 50 lines of dialogue to get a gist of the content, then read the last ~10 most recent lines.
-
-* * * * *
-
-## Specific content
-
-### Web search & *lots* of data
-
-Curate the information into classifications to process it more quickly.
-
-- Consuming the same content of one subject will more quickly [educate](understanding.md) from the [patterns](symbols.md) you'll detect across the articles.
-- If you have more than 100 media items and more than 2 broad categories as you observe it, taking the time to [organize](organization.md) the information will save you time in the long term.
-- If you need, sub-categorize as needed.
-
-Don't read things that bore you, since there's likely someone else who made a more interesting version of the same information.
-
-- If you must read it, skim the headings to understand the main ideas.
-
-Practice speed-reading.
-
-- Speed-reading is easily trainable with practice, and absolutely *critical* in an [academic environment](education.md):
-  - The average university student will read 6,000,000 words in 4 years, which at 250 words/min becomes 400 hours.
-  - At merely 300 words/min, that reading time drops to 333.33 hours.
-- Stop mentally reading each word out loud as if you were saying it.
-- Pace yourself to read quickly for relatively familiar content and slow down for things you want to more intently want to focus on.
-- Avoid jumping around or getting distracting by scanning your finger along the text you're looking at.
-- Learn to group larger chunks of frequently used words together (e.g., "there will be a" instead of "there will" and "be a")
-- For non-fiction, skip over tons of details by only reading the first and last sentences of each paragraph.
-- However, it's a *complete* waste of time if you don't understand the information, so don't speed-read to where you don't remember anything.
-
-Avoid commentaries on the subject you're reading.
-
-- Use advanced search operators to clarify *exactly* what you want, then work outward to a broader topic if you can't find it (e.g., img HTML, PDF, "solved", "best recipe").
-- Book summaries often fail to capture the spirit of what the book's author was trying to present, so generally avoid them unless it's for textbooks.
-- For an image, add as specific a description as possible.
-
-Typically, reading through *all* the results is a waste of time.
-
-- For a broader understanding, grab snippets of various results.
-- You don't need to *finish* the book to understand it, especially if it's a self-help book.
-
-When sifting through numerical data, learn to "feel" the numbers.
-
-1. Pay close attention to unusual numbers and ranges of numbers that draw attention.
-2. You're catching the oddly high or low numbers, so reverse your perspective to see the most *frequently used* numbers.
-3. If the unusual numbers are less than 5% of the entire set, they are statistically irrelevant.
-4. If you must verify, filter out the unusual ones and count what's left.
-
-Get rid of or consolidate duplicate information.
-
-- Use the source that's the most convenient or direct and delete the rest.
-- If you have several systems that manage the same kind of information, try merging them together into one system.
-
-### News
-
-Most news is [useless hearsay](stories-storytellers.md).
-
-- If you read the news headlines about 1 month from when they break, about 85% of them were already disproven.
-
-Most news headlines tend to give the actual events at about the 2nd or 3rd paragraph, so skip ahead to it.
-
-Whenever possible, avoid news videos unless they're curated for time.
-
-- Most news coverage time involves drawing connections to other things, which should be *your* job as the consumer.
-
-For more accurate news, find a good journalism website.
-
-1. Save several of the most interesting articles for each journalist you want to follow.
-2. Wait about two weeks.
-3. Compare what they're saying with the news updates about the matter since then.
-
-News organizations are typically funded by governments and corporations to spread propaganda.
-
-- This never really stops, so no news outlet is "safe" from bias.
-- The only way to fully understand is to consume *both* sides of the story (where the hero politician is the villain, and vice versa).
-
-Generally, smaller news organizations have different reasons than larger ones to [distort the truth](image-distortion.md).
-
-- Independent journalists tend to be more sincere because their credibility can't take the blows a reputable outlet can.
-- However, they also can have sincerely *extreme* opinions a popular media organization wouldn't be able to maintain.
-
-News outlets work *very* hard to trigger [emotions](mind-feelings.md).
-
-- People are more inclined to continuously read stories of injustice and catastrophe than updates on what's actually happening.
-- Continuous consumption is in the news outlet's best interests, so they prioritize sensationalism over journalism.
-- Feeling concern over things may make us feel connected, but it's a poor alternative to [legitimate friendships](people-4_friends.md) and [meaningful](meaning.md) activities.
-
-### Social media
-
-A social media website is simply every user submitting information into a database for everyone else's consumption.
-
-The quality of a social media site comes from *what* people create on it, so avoid wherever most of the users are petty, [toxic](mind-feelings-happiness.md), or [generally unsuccessful](success-1_why.md).
-
-Most people addicted to social media are more drawn to the chance at social interaction without the risks of in-person engagement.
-
-- Look for more interactive social experiences that involve getting out of your home and going somewhere.
-- Generally, [one-on-one interactions](people-conversation.md) over the internet create *much* more meaning than large groups.
-
-### Heavy content
-
-Most people can't reliably penetrate heavily made content because their thoughts are too busy arguing with the author to purely [understand](philosophy.md) what that person has tried to say.
-
-- Every writer, regardless of who and no matter how smart, has a distinct and specific [problem](purpose.md) they're trying to solve, which is critical to understand why they spent their time addressing a topic.
-- Often, the [cultures](people-culture.md) of the past can make ideas *very* impractical, though also often very [educational](education.md) about [human nature](humanity-universals.md).
-
-A specialized author is generally writing for their field of expertise.
-
-- To read a reliable [philosophy](philosophy.md) or [history](stories-storytellers.md) text (as well as spinoff domains like [economics](economics.md)), it usually helps to understand the [culture](people-culture.md) of that specific time, as well as *their* perspective of history when they looked back.
-- To read [math](math.md) and trade-related information (such as [science](science.md)), it requires clearly and simply understanding the basics of the discipline.
-
-When consuming something particularly dense with information, you *must* try to think like the author.
-
-- The medium of text is limited, so a writer often has to use many words to describe a view that would be straightforward in a more visual or practical example.
-- Before making a judgment on the content (and adding new information from your views) skim through *all* the creator's works that could associate or contrast the idea you're consuming.
-
-* * * * *
-
-## In Conclusion
-
-The fixes can be distilled into a set of questions, which can be asked for every bit of experienced information:
-
-1. Am I consuming too much information?
-   - If so, turn off the valve for a while.
-2. Do I have too much information to consume?
-   - If there is, get rid of portions of the inbox.
-3. Am I learning fast enough with the information?
-   - If it's too slow, aim for better-quality consumption.
-4. Does my information add value to anyone else?
-   - If not, stop providing information for a while until your subconscious reloads.
-5. Have I sufficiently [organized](organization.md) my information?
-   - If not, turn off the valve, stop creating for a while, and get to organizing.
-6. Am I consuming cutting-edge stuff?
-   - If so, stick it on a calendar and consume it later.
-7. Am I fully certain of the bias of the information?
-   - If not, learn who made the content, and why.
-8. How do I plan to use this information?
-   - Use it, organize it, or shove it out of your workspace.
-9. Does anything else work?
-   - If it does, make it a principle.
-
-This information blast [trend](trends.md) will only slow down when two conditions happen at once:
-
-1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
-2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.
-
-The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war.md).
-
-Since this will likely not happen soon:
-
-1. Opt out.
-2. Unsubscribe.
-3. Avoid the endless wall of "feeds" by self-curating your streams.
-4. Limit RSS use.
-5. Limit podcasts.
-6. Make hard limits on your read and watch lists, or work hard to shave them down.
-7. Find security in a community, *not* in a system.
-8. If you're doing anything mindlessly involving consuming information, pay more attention to what you're doing.
-9. Try to only do important things with your life.
-
-In other words, move slowly when everyone else moves fast, and don't move at all if it's not worth your time.

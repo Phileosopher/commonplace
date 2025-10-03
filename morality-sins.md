@@ -181,7 +181,7 @@ Watch for legalism in yourself and others:
 Legalism builds through stages:
 
 1. Believing people need good works and [spiritual disciplines](spiritual-exercises.md) to gain God's favor.
-2. Creating new [rules](rules.md) as decent sin-avoiding guidelines.
+2. Creating new [rules](people-rules.md) as decent sin-avoiding guidelines.
 3. Requiring others to follow those guidelines, irrespective of circumstance.
 4. Emphasizing the new rules over God's and neglecting some of God's other rules.
 

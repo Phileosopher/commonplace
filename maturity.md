@@ -149,7 +149,7 @@ In the absence of a clear rite of passage, most children end up persisting in a 
 - Having trouble finding an [identity](identity.md), including with [gender](gender.md)
 - Pursuing a career path that fails miserably
 - Getting fired [unfairly](morality-justice.md), potentially repeatedly
-- [Conflicts](people-conflicts.md) with [law enforcement](rules.md)
+- [Conflicts](people-conflicts.md) with [law enforcement](people-rules.md)
 - Experiencing hardship or loss they must overcome
 
 APPLICATION: A rite of passage will always have people who will never pass the ritual's criteria. A [group leader](groups-small.md) must know beforehand [what to do](decisions.md) with those people.
@@ -191,9 +191,9 @@ Eventually, in an age-based system, children reach an age of majority (~12-21 ye
 
 APPLICATION: An age-based social system only works if you believe children will naturally progress on their own. If they need prompting or nurturing to develop, age is only a rough estimate that won't correspond to anything. Any system you use must use measurements based on [achievement](success-1_why.md), or the gifted children will suffer.
 
-APPLICATION: An age of majority becomes socially complicated when it's [enforced as law](rules.md) and between societies:
+APPLICATION: An age of majority becomes socially complicated when it's [enforced as law](people-rules.md) and between societies:
 
-- A romance between two people ages 16 and 19 is [legally](rules.md) complicated, but a romance between two people ages 23 and 67 is more [taboo](morality-taboo.md).
+- A romance between two people ages 16 and 19 is [legally](people-rules.md) complicated, but a romance between two people ages 23 and 67 is more [taboo](morality-taboo.md).
 - Occasionally, they can fight in a [war](people-conflicts-war.md), drink alcohol, and live autonomously in a foreign country, but not be allowed to drink, smoke, or rent a car in their home country.
 
 Older people have more experience with [political upheaval](people-conflicts-war.md), so most protesters and political activists are young people who aren't being economical with their time and energy.

@@ -56,7 +56,7 @@ This situation means the slave has two methods available to change their situati
 
 We can also make [decisions](decisions.md) to *increase* our enslaved status:
 
-- The only difference between a wealthy free person and a poor slave is a few foolish decisions breaking the wrong [rules](rules.md) and [dishonoring cultural norms](morality-taboo.md).
+- The only difference between a wealthy free person and a poor slave is a few foolish decisions breaking the wrong [rules](people-rules.md) and [dishonoring cultural norms](morality-taboo.md).
 - We can lose so much [power](power.md) relative to others that we become enslaved.
 - Whenever we have options, but our environment gives us no choice, the lack of a decision can enslave us to its consequences.
 

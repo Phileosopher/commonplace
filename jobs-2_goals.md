@@ -371,7 +371,7 @@ Note current trends within your desired industry:
   - Generally, your work becomes obsolete proportionally to how specialized you are.
 - Make three estimates of the future situation: the worst-case, the best-case, and the most likely.
   - If you're afraid of what may happen, shore up soft skills as a broad backup plan for anything that may arise.
-- Watch carefully for [political trends](trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](rules.md)).
+- Watch carefully for [political trends](trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](people-rules.md)).
   - If your job is slowly unionizing, you will be paid on existing in that job, *not* on your competence.
   - One consequence of a deregulated industry is that your pay will decrease for the same task, while [entrepreneurial opportunities](entrepreneur-1_why.md) will increase.
 

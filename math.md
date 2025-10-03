@@ -99,4 +99,4 @@ For all intents and purposes, 99.99% of humanity only needs the four domains of 
 - Most [science](science.md) uses [statistics](math-stat.md).
 - Geography can often use non-euclidean math to represent planes on spherical objects (since the planet is a sphere)
 - Some social sciences and [investors](money-investing.md) will explore [game theory](math-gametheory.md).
-- [Data science](database.md) will as well as [rule](rules.md)-based formulas called algorithms.
+- [Data science](database.md) will as well as [rule](people-rules.md)-based formulas called algorithms.

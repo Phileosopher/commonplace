@@ -57,7 +57,7 @@ People use money for a few reasons:
 - It's a measurable and "portable" type of [power](power-types.md), so it's easy to keep around and stockpile (except for the risks from inflation).
 - For the sake of [control](power.md) and organizational [understanding](understanding.md), [government taxation](money-accounting.md) policies are typically based on money transactions.
 
-Governments can print money, but they're not the only organizations who can. [Blockchain technology](computers-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](rules.md) over supply.
+Governments can print money, but they're not the only organizations who can. [Blockchain technology](computers-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](people-rules.md) over supply.
 
 A country *has* to print more money constantly to keep up with the growth of a country, and it's in the best interests of a government to have an overstated value of their currency, so inflation is a natural result. However, too much printing and there will be runaway inflation as the value of each "denomination" goes down. It's a delicate balancing act.
 
@@ -95,7 +95,7 @@ APPLICATION: As long as people can privately own things, legally or illegally, t
 
 In any exchange, both sides *always* benefit from the trade. Even under duress (e.g., blackmail), there's a perceived benefit for both sides to make that exchange.
 
-APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](politics-leftism.md). No matter how badly a [government](rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
+APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](politics-leftism.md). No matter how badly a [government](people-rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
 
 Even when we *give* things away, we're usually calculating a more elaborate [purpose](purpose.md):
 
@@ -110,7 +110,7 @@ However, a market is never "pure". Market distortions adapt a free market from c
 - Government taxes will change a market, especially if they're focused on particular goods or services.
 - People will usually pay more for novelty (i.e., it's a new [trend](trends.md)).
 - There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](money-insurance.md) guaranty bond).
-- Governments or large organizations may set price limits or [regulations](rules.md).
+- Governments or large organizations may set price limits or [regulations](people-rules.md).
 - Beyond the supply cost, labor costs can be affected by other factors like overtime laws, minimum wage, and labor unions.
 - Governments may subsidize or fund programs that would otherwise not be viable on a free market.
 - *Any* [influence](influence.md) whatsoever that advances or subdues a [social trend](trends.md) can temporarily distort everyone's [purposes](purpose.md).
@@ -176,7 +176,7 @@ Cost increases for trading are sometimes predictable:
 - The cost of making or transporting something
 - Risks of damaged goods or theft
 - [Taxes](rules-methods.md) and government fines
-- [Illegalization](rules.md)
+- [Illegalization](people-rules.md)
 
 [Technology](technology.md) improvements and infrastructure will usually lower costs:
 
@@ -205,11 +205,11 @@ When something becomes illegal or too difficult to do legally, but people still 
 
 Black market risks make items *much* more profitable because there's a higher chance of death or loss from performing any services with them. Plus, people can use black market transactions to extort or blackmail.
 
-Unlike normal markets regulated by governments and public attention, the only [rules](rules.md) in black markets are [strength](power.md) and secrecy. Anything that's made illegal slows civilization's ability to freely [develop](jobs-specialization.md) in that area.
+Unlike normal markets regulated by governments and public attention, the only [rules](people-rules.md) in black markets are [strength](power.md) and secrecy. Anything that's made illegal slows civilization's ability to freely [develop](jobs-specialization.md) in that area.
 
 Generally, shutting down black market activities or buying from them (i.e., to get those things off the market) will make that market pricier and give more incentive to sell within it.
 
-Black markets will trade almost *any* goods or services [against organizational rules](rules.md):
+Black markets will trade almost *any* goods or services [against organizational rules](people-rules.md):
 
 - Substances with addictive properties or the [inspiration](mind-creativity.md) for destructive [purposes](purpose.md), like alcohol or recreational drugs.
 - Heterosexual or homosexual pornography and prostitution services.
@@ -262,7 +262,7 @@ There's one way for a government to discourage a market with speculation, though
 
 Private investors do it with a variation of it called a "pump and dump scheme", where they inflate the market value as far as they can, then sell off *tons* of their ownership in the market.
 
-Every time a [government's laws](rules.md) *might* change the availability of a market item, the market will reflect it. More government restrictions mean more expected costs, and more lax restrictions mean competition that creates lower prices.
+Every time a [government's laws](people-rules.md) *might* change the availability of a market item, the market will reflect it. More government restrictions mean more expected costs, and more lax restrictions mean competition that creates lower prices.
 
 ## Supply chains
 
@@ -282,7 +282,7 @@ Emergent order (aka "growthist" or "supply side economics") is when each person 
 
 Many [leaders](groups-large.md) believe individuals can't correctly decide their long-term best interests, but those leaders are as prone to human error as their subjects. The world is far too complicated and chaotic for professionals to manage everything.
 
-Complete emergent order would be complete anarchy, though, because no central leadership structure would enforce any large-scale [rules](rules.md).
+Complete emergent order would be complete anarchy, though, because no central leadership structure would enforce any large-scale [rules](people-rules.md).
 
 At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs. This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
 

@@ -49,7 +49,7 @@ There are several unfortunate realities of taxation that combine themselves into
 
 Generally, a good stopping point for raising taxes is when the benefits of the government money spent are *barely* higher than the financial damages caused by taxing people ("Laffer curve"). If taxes are too low, the government won't make enough money, and if the taxes are too high, people will find ways to avoid paying them (including not working or acting illegally). [Conservatives and liberals](politics-conservativeliberal.md) argue where that line draws (somewhere between 27% and 78%), but they'll *all* agree that above that specific mark, a 5% tax increase might become a 1% government revenue increase and significantly more unemployment and poverty.
 
-Governments can focus their taxation on certain domains, which creates a type of [social engineering](rules.md):
+Governments can focus their taxation on certain domains, which creates a type of [social engineering](people-rules.md):
 
 - Tariffs, which levy against foreign goods and services, which can prevent a country from competing fairly with other countries if set too high.
 - "Sin tax", which levies against vice-based goods and services (e.g., smoking, alcohol, prostitution), which can create a perverse incentive to *motivate* people to overconsume their vices to pay for essential public services.
@@ -65,9 +65,9 @@ Many governments try to create costs for unrelated third parties who suffer from
 - Speeding on a highway
 - Publicly consuming a [substance](addiction-substances.md) (e.g., drugs or alcohol)
 
-[Authorities](groups-large.md) often attempt to prevent negative externalities with [rules](rules.md) that come with fines and penalties, but they'll also frequently [make things worse](mgmt-badsystems.md):
+[Authorities](groups-large.md) often attempt to prevent negative externalities with [rules](people-rules.md) that come with fines and penalties, but they'll also frequently [make things worse](mgmt-badsystems.md):
 
-- [Innovators](trends.md) often create [brilliant](mind-creativity.md), [better](results.md) solutions that violate the spirit of the [regulations](rules.md) even worse.
+- [Innovators](trends.md) often create [brilliant](mind-creativity.md), [better](results.md) solutions that violate the spirit of the [regulations](people-rules.md) even worse.
 - Many times, delays from controlling measures will force waste from non-consumption.
 - Undesirable [social trends](trends.md) can often exploit a well-intended thing for bad purposes.
 
@@ -128,7 +128,7 @@ Individual motivations magnified to a massive body can blow vast sums of money o
 In a free society where private individuals have [power](power.md), governments aren't free of company [influence](influence.md). While free markets may regulate [evil](morality-evil.md) somewhat, [large companies](groups-large.md) can [influence](influence.md) governments to make [bad decisions](mgmt-badsystems.md):
 
 - Governments can give benefits to large companies while harming smaller companies without those connections ("crony capitalism").
-- Large companies can influence [rules](rules.md) to carve out markets for themselves and squash competition ("regulatory capture").
+- Large companies can influence [rules](people-rules.md) to carve out markets for themselves and squash competition ("regulatory capture").
 
 APPLICATION: Economic growth is only partly connected to [well-being](goodlife.md). It *can* give more things people need, but true [meaning](meaning.md) comes through [wealth-building](creations.md) *far* more than having it. Any attempt to [measure](math.md) well-being in a society or between [cultures](people-culture.md) is impossible because we can't put numbers on satisfaction about *anything*, and it's a relative concept.
 
@@ -136,7 +136,7 @@ Companies can solidify their [control](power.md) of a market with a simple proce
 
 1. Someone dies consuming a product.
 2. The largest company that creates the product sends many lobbyists to the government demanding they do something.
-3. The government passes [laws](rules.md) for mandatory safeguards that only a large company can afford.
+3. The government passes [laws](people-rules.md) for mandatory safeguards that only a large company can afford.
 
 Frequently, governments will set price controls on various domains, which can create perverse incentives:
 
@@ -149,7 +149,7 @@ APPLICATION: A good welfare system will completely sidestep money. To avoid dest
 
 The domains of trade come from the fact that each nation has the means to [specialize](jobs-specialization.md) in certain goods and services. If everyone had the unrestrained freedom to trade with each other, everyone would collectively benefit.
 
-However, a nation's leadership [doesn't always want completely free trade](mgmt-badsystems.md). By placing tariffs and laws that make trade more difficult, they can protect themselves from losing [power](power.md). For that reason, the [discussions](people-conversation.md) and [optics](image.md) about free trade are always more prominent than actual [legislation](rules.md) that promotes it.
+However, a nation's leadership [doesn't always want completely free trade](mgmt-badsystems.md). By placing tariffs and laws that make trade more difficult, they can protect themselves from losing [power](power.md). For that reason, the [discussions](people-conversation.md) and [optics](image.md) about free trade are always more prominent than actual [legislation](people-rules.md) that promotes it.
 
 Even when a group is collectively producing more than exporting, they may operate at a trade surplus because of the relative market value of that product. This can get confusing when a rich nation is somehow making more of a product than they need from other countries, but the supplier countries *still* influence the market price.
 

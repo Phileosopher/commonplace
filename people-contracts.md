@@ -33,7 +33,7 @@ The value we give to others in exchange for doing something (often represented a
 
 By using [language](language.md), we can make promises to clarify what we agree on. How well we honor those agreements has an *immense* impact on our [reputation](image.md).
 
-Occasionally, these agreements become formal [rules](rules.md) if they outlast a few significantly impactful [trends](trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](trends.md) across its duration.
+Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](trends.md) across its duration.
 
 The person or group who most wants to leave the engagement will transition through phases of distancing if they've found a better means to their [purpose](purpose.md):
 
@@ -42,7 +42,7 @@ The person or group who most wants to leave the engagement will transition throu
 3. Waiting indefinitely for the other party to engage in the inevitable looming [conflict](people-5_conflicts.md), and often intentionally avoiding them to prevent it.
 4. Officially confronting the tension and terminating the shared experience.
 
-In the case of a group who wants to keep [power](power.md), they'll try to make *new* agreements that intensify or add to possible [purposes](purpose.md) of the departing party. This is the cause of both harsh [government regulations](rules.md) and [pay increases](power-types.md).
+In the case of a group who wants to keep [power](power.md), they'll try to make *new* agreements that intensify or add to possible [purposes](purpose.md) of the departing party. This is the cause of both harsh [government regulations](people-rules.md) and [pay increases](power-types.md).
 
 ## Agreements
 
@@ -79,7 +79,7 @@ The durability of a contract comes from how much both sides view it as fair. If 
 
 ## Methods
 
-One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](rules.md).
+One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](people-rules.md).
 
 When most people think of contracts, they're usually thinking of "standard" contracts, where one party has set all the terms and conditions, and the other party has agreed and signed it with very little negotiation or review. Standard contracts can represent *many* domains of a typical person's life:
 
@@ -302,7 +302,7 @@ Historically, before 1800 the meeting of the minds was *not* as important as whe
 
 ### B. Lawful purpose
 
-The entire arrangement must be [lawful](rules.md). If it isn't, the contract can't be enforced by a governing authority. This includes not adversely affecting a third party ("res inter alios acta, aliis nec nocet nec prodest"), and "kickbacks".
+The entire arrangement must be [lawful](people-rules.md). If it isn't, the contract can't be enforced by a governing authority. This includes not adversely affecting a third party ("res inter alios acta, aliis nec nocet nec prodest"), and "kickbacks".
 
 If the contract is illegal, it still *can* be enforced by illegal entities (e.g., the mafia), but it will probably not be enforced [fairly](morality-justice.md).
 
@@ -494,7 +494,7 @@ An "executory contract" hasn't been fully performed or executed, and is usually 
 
 Several possible reasons can form the basis of a bad contract.
 
-1. The contract itself can't be [illegal](rules.md) or [unjust](morality-justice.md) ("unconscionability").
+1. The contract itself can't be [illegal](people-rules.md) or [unjust](morality-justice.md) ("unconscionability").
 2. There mustn't be any "misrepresentation" or "mistake" between the facts and the contract's terms during the negotiation:
    - The relative experience of the parties.
    - How much a party proves they rely on what they say.

@@ -330,7 +330,7 @@ Many of the legal battles between organizations can dramatically change entire i
 
 Enough data suggests that a vast majority of individuals download [pirated copies of copyrighted content](computers-distsys-torrent.md), though the legislation around the culture means nobody openly talks about it.
 
-- Individual consumers are impossible to crack down on due to sheer volume, and their content is often perfectly legal to consume even when it's pirated (due to DRM they're lawfully circumventing), so [enforcement](rules.md) can only work against distributors of the content.
+- Individual consumers are impossible to crack down on due to sheer volume, and their content is often perfectly legal to consume even when it's pirated (due to DRM they're lawfully circumventing), so [enforcement](people-rules.md) can only work against distributors of the content.
 - The attempts to stop piracy work effectively like prohibition rules had nearly a century ago: it gets driven underground and people keep doing it.
 
 ## Try to favor open licenses

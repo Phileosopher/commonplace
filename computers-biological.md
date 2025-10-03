@@ -46,6 +46,6 @@ One knowable truth about computers, though, is that working with life enough to 
 
 Of course, ethical considerations also abound with this new technology. If genes could be edited toward one domain or another, engineering a baby from birth would naturally form a [bias](mind-bias.md) toward favorable traits (e.g, being healthy), but it slowly leads to engineering other optional traits that may also be favorable (e.g., height, intellect, [personality](personality.md)).
 
-Scaled across society, the consequences would be dramatic: [social class](classes.md) distinctions based on genetics, differing [rules](rules.md) based on genetic predisposition, and other hairy problems that presently only exist in the realm of science fiction.
+Scaled across society, the consequences would be dramatic: [social class](classes.md) distinctions based on genetics, differing [rules](people-rules.md) based on genetic predisposition, and other hairy problems that presently only exist in the realm of science fiction.
 
 And, of course, brain-computer interfaces don't *have* to operate one-way. If someone can operate software with only their thoughts, it could be possible to send thoughts *into* a brain as well.

@@ -1,7 +1,7 @@
 
 # Game theory
 
-All [human purposes](purpose.md), when measurable, are a game, complete with implied [constraints](rules.md), resources, and [goals](decisions.md). Most of these purposes involve other players, each with separate purposes and resources.
+All [human purposes](purpose.md), when measurable, are a game, complete with implied [constraints](people-rules.md), resources, and [goals](decisions.md). Most of these purposes involve other players, each with separate purposes and resources.
 
 Game theory is an excellent subdivision of math that explores [situational ethics](morality.md) and [decision-making](decisions.md). It has a [philosophical](philosophy.md) use, but will *never* be a reliable and practical predictor of human behavior and [trends](trends.md) relative to basic human common sense, for several reasons:
 

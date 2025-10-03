@@ -37,7 +37,7 @@ As they encounter [power](power.md), they have very little experience or [wisdom
 
 Generally, in a [large group](groups-large.md), the lower class is too preoccupied with surviving to concern themselves with the other groups. However, they do [imagine](imagination.md) it's not particularly [fair](morality-justice.md) that they don't have as much power as the other groups.
 
-Parents of the lower class tend to raise their children to not ask questions that could get them in trouble, as well as teach them how to avoid suffering the worst of the [rules](rules.md) that would absolutely decimate them.
+Parents of the lower class tend to raise their children to not ask questions that could get them in trouble, as well as teach them how to avoid suffering the worst of the [rules](people-rules.md) that would absolutely decimate them.
 
 Thus, barring a [virtuous](morality.md) belief against it or the unlikely person willing to [take on risks to change the situation](socialrisk.md), they have a vague [desire](purpose.md) for equality and for the rest of the [group](groups-large.md) to meet their needs.
 

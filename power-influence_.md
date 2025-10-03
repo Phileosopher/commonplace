@@ -1,4 +1,6 @@
 
+# How influence works
+
 Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends.md) with the speaker and their [choice](decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
 
 An influencer is controlling a [story](stories.md), typically to advance an [idea](values.md) or change someone's [reputation](image.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
@@ -52,7 +54,7 @@ People pay *close* attention to the messenger:
   - However, if that authority is too strong, it may [terrify](mind-feelings-fear.md) people (especially if *their* [power](power.md) is threatened).
 - The message and messenger should associate with something the audience finds [advantageous](purpose.md) to them:
   - Good things, such as lunch, good news, [happiness](mind-feelings-happiness.md), relaxation, or [sex appeal](gender.md).
-  - [Scandalous](rules.md) or [specialized](jobs-specialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
+  - [Scandalous](people-rules.md) or [specialized](jobs-specialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
   - While appealing to their [mercy or gratitude](morality.md) may work, they're more frequently affected by [self-interest](purpose.md).
   - Sometimes (and especially if the messenger is [unscrupulous](morality-evil.md)), the messenger may possess incriminating information or circumstances that may harm the audience if the messenger did something with it.
   - Often, uses a personal message with the pronoun "we" instead of "I".
@@ -68,7 +70,7 @@ People pay *close* attention to the messenger:
   - Physically attractive, or at least decent-looking and [well-kept](people-2_image.md).
   - Gives [affirmations](people-3_boundaries.md) to the audience to make them feel important, even when those affirmations are complete [lies](people-lying.md).
   - Keeps a [mystery](unknown.md) around them by omitting or hiding information, making themselves relatively scarce by comparison to others, and evoking a small amount of [fear](mind-feelings-fear.md).
-  - When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](rules.md).
+  - When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](people-rules.md).
 
 That story will reach into the audience's existing [habits](habits.md):
 
@@ -169,27 +171,27 @@ If they're an important part of a [social group](groups-small.md), they'll likel
 
 ## Application
 
-Most people don't naturally make others feel relevant, so everyone is incessantly starved for attention from others. It's why the Ben Franklin Effect works (requesting others to perform many tiny, small favors to build a reputation with them).
+APPLICATION: Most people don't naturally make others feel relevant, so everyone is incessantly starved for attention from others. It's why the Ben Franklin Effect works (requesting others to perform many tiny, small favors to build a reputation with them).
 
-Even when you're asking for donations, if you request something from someone make sure they know *why* they're doing it and how it benefits *them*.
+APPLICATION: Even when you're asking for donations, if you request something from someone make sure they know *why* they're doing it and how it benefits *them*.
 
-Since every influencer is advancing a [story](stories.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
+APPLICATION: Since every influencer is advancing a [story](stories.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
 
-If [self-help](https://adequate.life/habits/) and [philosophy](philosophy.md) writers were humble and open-minded enough to let people come to their own conclusions, most of their books would never go past 50 pages unless it was covering multiple topics at once.
+APPLICATION: If [self-help](https://adequate.life/habits/) and [philosophy](philosophy.md) writers were humble and open-minded enough to let people come to their own conclusions, most of their books would never go past 50 pages unless it was covering multiple topics at once.
 
-We're *all* naturally sensitive to rejection, so we must be careful to not reject people without a [purpose](purpose.md) behind it, even when we face [conflicts](people-conflicts.md) with others.
+APPLICATION: We're *all* naturally sensitive to rejection, so we must be careful to not reject people without a [purpose](purpose.md) behind it, even when we face [conflicts](people-conflicts.md) with others.
 
-By giving more to people, they're more likely to want to give back. This wins favors, but is a byproduct of being a [loving](people-love.md) person if we do it [habitually](habits.md) without thinking of what we want in response.
+APPLICATION: By giving more to people, they're more likely to want to give back. This wins favors, but is a byproduct of being a [loving](people-love.md) person if we do it [habitually](habits.md) without thinking of what we want in response.
 
-We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](image.md).
+APPLICATION: We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](image.md).
 
-A group built around complaining is as influential as a group built around succeeding. The only difference is the [purpose](purpose.md) the influence is directing toward.
+APPLICATION: A group built around complaining is as influential as a group built around succeeding. The only difference is the [purpose](purpose.md) the influence is directing toward.
 
-We must be careful who we're influencing with what. We tend to [identify](identity.md) with what we're trying to influence, so it should be [good](morality.md), [true](reality.md), [beautiful](values-quality.md) things to attain [the good life](goodlife.md). Our [belief in what we share](trust.md) should have at least as much evidence proportionally to how unlikely it is.
+APPLICATION: We must be careful who we're influencing with what. We tend to [identify](identity.md) with what we're trying to influence, so it should be [good](morality.md), [true](reality.md), [beautiful](values-quality.md) things to attain [the good life](goodlife.md). Our [belief in what we share](trust.md) should have at least as much evidence proportionally to how unlikely it is.
 
-Many [self-interested](morality-evil.md) people take advantage of our tendency to be influenced. Influence is simply [power](power.md), though, and we can benefit others just as much by influencing toward [good things](morality.md).
+APPLICATION: Many [self-interested](morality-evil.md) people take advantage of our tendency to be influenced. Influence is simply [power](power.md), though, and we can benefit others just as much by influencing toward [good things](morality.md).
 
-Watch for easy ways people influence you without noticing, especially for [selling things](marketing.md):
+APPLICATION: Watch for easy ways people influence you without noticing, especially for [selling things](marketing.md):
 
 - Behave with small idiosyncrasies like the people they're [speaking with](people-conversation.md).
 - Providing affirming, unsolicited compliments.
@@ -204,6 +206,6 @@ Watch for easy ways people influence you without noticing, especially for [selli
 - To get people more achievement-oriented, show them an image of a runner winning a race first.
 - To make people make more careful [decisions](decisions.md), show them of someone thinking first.
 
-Nerds and geeks don't really care much about [image](image.md), mostly because they don't know how to wield it. However, they're often less influential merely from not learning a few applications of the above essay.
+APPLICATION: Nerds and geeks don't really care much about [image](image.md), mostly because they don't know how to wield it. However, they're often less influential merely from not learning a few applications of the above essay.
 
-An influential message must be large enough to convey [meaning](meaning.md), but small enough to feel [doable](purpose.md).
+APPLICATION: An influential message must be large enough to convey [meaning](meaning.md), but small enough to feel [doable](purpose.md).

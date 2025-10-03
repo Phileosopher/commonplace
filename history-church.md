@@ -70,7 +70,7 @@ Once the new believers started noticing that Jesus was *not* coming back right a
 
 While it's lost to history, there was a Greek version of the Bible called the Septuagint, first completed in 132 AD. Its entire purpose was to create a Bible in the plain language of the time.
 
-By the year 200 AD, the Christians had added quite a few things, though their religion was still certainly at least partly [illegal](rules.md):
+By the year 200 AD, the Christians had added quite a few things, though their religion was still certainly at least partly [illegal](people-rules.md):
 
 - In between the assembly and the Service of Thanksgiving, they added "The Peace", which was an important intermission that let people greet each other and for believers to reconcile conflicts with other believers.
 - The Service of Thanksgiving developed a sequence of rituals:
@@ -254,7 +254,7 @@ Roman Catholic Ecumenical Council #15 in 1311 - The Council of Vienne feat. Pope
 
 In the 1370s and 1380s, university theologians and intellectuals in Prague started adopting conciliarism (that an ecumenical council should have more authority than the pope) and called for the priesthood to live less extravagant lifestyles, educate poorly educated priests, and practice the Eucharist more often.
 
-In 1412 in Prague, Jan Hus criticized selling indulgences (paying money to atone for [sins](morality-sins.md) instead of paying later in the afterlife). Before he left, he appealed to Jesus Christ as the supreme judge (which, in effect, bypassed the [laws and structures](rules.md) of the Church). Once he traveled the countryside, he saw the lack of education for the poorer Czech priesthood, and started writing many texts in Czech instead of Latin (the dead language that most Catholic texts were written in).
+In 1412 in Prague, Jan Hus criticized selling indulgences (paying money to atone for [sins](morality-sins.md) instead of paying later in the afterlife). Before he left, he appealed to Jesus Christ as the supreme judge (which, in effect, bypassed the [laws and structures](people-rules.md) of the Church). Once he traveled the countryside, he saw the lack of education for the poorer Czech priesthood, and started writing many texts in Czech instead of Latin (the dead language that most Catholic texts were written in).
 
 Roman Catholic Ecumenical Council #16 in 1414 - The Council of Constance feat. Popes Gregory XII and Emperor Sigismund w/ ~600 people
 

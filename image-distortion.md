@@ -143,7 +143,7 @@ Blame
 
 - Blame [technology](technology.md) or its [power](power.md) for [decisions](decisions.md) (e.g., guns, [computers](computers.md)).
 - Redirect an idea by using the implications from specific patterns of words.
-- Imply someone's guilt, but without saying anything that would [legally](rules.md) indicate the implication.
+- Imply someone's guilt, but without saying anything that would [legally](people-rules.md) indicate the implication.
 - Claim something difficult to disprove against someone.
 - Misquote, then attack a statement ("straw man").
 
@@ -208,15 +208,15 @@ Inter-Organization
 - Separate [members'](groups-member.md) roles along lines that make very little sense.
 - Bestowing titles to avoid bestowing legitimate [power](power-types.md).
 - Physically separate members' [experiences](results.md) from their [decisions](decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
-- Create a [reward](habits.md) system with complex [rules](rules.md) that make the game look easy to hack (e.g., credit card points, shopper loyalty cards, social score).
+- Create a [reward](habits.md) system with complex [rules](people-rules.md) that make the game look easy to hack (e.g., credit card points, shopper loyalty cards, social score).
 - Use a numerical system without a conventional base-10 basis (e.g., school grades, credit card scores).
 - Frame a [decision](decisions.md) as "opt-in" or "opt-out" to imply the rest of the group is doing something automatically or set apart people who weren't paying attention.
 
 Multi-Organization - Hiding
 
-- Use third parties, middlemen, and outside contractors who can be held solely responsible if caught, especially about [illegal things](rules.md).
+- Use third parties, middlemen, and outside contractors who can be held solely responsible if caught, especially about [illegal things](people-rules.md).
 - Create separate [images](image.md) for various [created](creations.md) things in the same organization (e.g., [marketing brands](marketing.md)).
-- Making another organization that holds assets, which can often have [legal](rules.md) benefits along with [image](image.md).
+- Making another organization that holds assets, which can often have [legal](people-rules.md) benefits along with [image](image.md).
 
 Multi-Organization - [Crisis](mind-feelings-fear.md)
 

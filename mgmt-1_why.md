@@ -227,7 +227,7 @@ In most management capacities, it's surprisingly easy to *appear* productive, bu
 A manager has a few possible ways to interpret their role:
 
 1. [Fixer](fix.md) - the team is fulfilling various [purposes](purpose.md), and the manager can step in to intervene if anyone needs guidance or anything goes wrong.
-2. [Messenger](language-speaking.md) - the manager has requirements based on [rules](rules.md), and the subordinate should be [rewarded or punished](habits.md) for their results.
+2. [Messenger](language-speaking.md) - the manager has requirements based on [rules](people-rules.md), and the subordinate should be [rewarded or punished](habits.md) for their results.
 3. Team - in both good and bad ways, the leader is responsible for what the group does, and is equally responsible to [make the *members* responsible](meaning.md) as well.
 
 No single management style works for all situations, for several reasons:
@@ -244,7 +244,7 @@ The manager's skills will need to be appropriate to the team's purposes:
 - Adapts to change and inspires others to it as well.
 - Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.
-- Creates [rules](rules.md).
+- Creates [rules](people-rules.md).
 - Follows rules.
 - Takes responsibility for a team's results.
 - Beyond ideals, focused on [practical results](results.md).
@@ -262,7 +262,7 @@ Since every management situation is different, there isn't a good all-in-one sol
 
 - The only thing managers get are *many* various conceptual frameworks, which represent simplifications of [human universals](humanity-universals.md).
 - A manager has to figure out how a general model will work with the [culture mix](people-culture.md) in their current group.
-- Since managers are of a generally higher Conscientiousness than everyone else, they *frequently* tend to forget that others aren't as conformant to [rules](rules.md).
+- Since managers are of a generally higher Conscientiousness than everyone else, they *frequently* tend to forget that others aren't as conformant to [rules](people-rules.md).
 
 Every single change will redefine how the models may implement.
 

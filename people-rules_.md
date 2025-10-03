@@ -14,7 +14,7 @@ Everyone has [expectations](imagination.md) in a [group](groups-small.md), and m
 
 However, there will *always* be at least 3-10% of the people who find enjoyment and [meaning](meaning.md) in breaking those rules.
 
-A society's rules are designed for the collective good of the group (at least in [appearance](image.md)), and will always weigh at least a little toward those with [authority](power.md).
+Beyond [norms](people-rules-list.md), A society's rules are designed for the collective good of the group (at least in [appearance](image.md)), and will always weigh at least a little toward those with [authority](power.md).
 
 The group's leadership determines which of those standards become laws/policy, and then it's approved by the members proportional to how much [power](power.md) they have in the group.
 
@@ -173,64 +173,64 @@ The only way to fix a bad set of rules (either poorly set or poorly enforced) is
 
 ## Application
 
-The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to remedy the situation.
+APPLICATION: The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to remedy the situation.
 
-Rules are only valid if they transcend [culture](people-culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
+APPLICATION: Rules are only valid if they transcend [culture](people-culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
 
-True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
+APPLICATION: True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
 
-3-10% of the people (but sometimes up to 20% in a particularly [corrupt](morality.md) society) ruin society for the rest of the people. It's why people lock their homes and secure their belongings.
+APPLICATION: 3-10% of the people (but sometimes up to 20% in a particularly [corrupt](morality.md) society) ruin society for the rest of the people. It's why people lock their homes and secure their belongings.
 
-The best rule system has very few rules which are universally applied and *very* well-enforced.
+APPLICATION: The best rule system has very few rules which are universally applied and *very* well-enforced.
 
-Rules never motivate people toward things implicitly, so rules can never make people [moral](morality.md), and [social engineering](rules-methods.md) is more dangerous than helpful.
+APPLICATION: Rules never motivate people toward things implicitly, so rules can never make people [moral](morality.md), and [social engineering](rules-methods.md) is more dangerous than helpful.
 
-Following the rules is a mundane existence. It means you won't fail miserably, but also means you won't succeed overly much either. Most [success](success-1_why.md) in life involves knowing the time and place to [risk](socialrisk.md) breaking rules versus [following them](legal-safety.md).
+APPLICATION: Following the rules is a mundane existence. It means you won't fail miserably, but also means you won't succeed overly much either. Most [success](success-1_why.md) in life involves knowing the time and place to [risk](socialrisk.md) breaking rules versus [following them](legal-safety.md).
 
-Generally, [puritanical and religious authority](religion.md) come from weak rules (where people are more individually [responsible](meaning.md) to maintain order), while paganism and secularism dominate with strong rules (where the responsible people are the [leadership](groups-large.md)).
+APPLICATION: Generally, [puritanical and religious authority](religion.md) come from weak rules (where people are more individually [responsible](meaning.md) to maintain order), while paganism and secularism dominate with strong rules (where the responsible people are the [leadership](groups-large.md)).
 
-Politics creates constant [distorted perceptions](image-distortion.md), but it's the only solution for an election-based society. Any alternative involves leaders who *don't* need to consider the public's opinion and can simply take control through raw [power](power.md).
+APPLICATION: Politics creates constant [distorted perceptions](image-distortion.md), but it's the only solution for an election-based society. Any alternative involves leaders who *don't* need to consider the public's opinion and can simply take control through raw [power](power.md).
 
-There's tremendous power behind elected officials in a government, so corporations and governments will put significant [effort](results.md) into [bending](image-distortion.md) public [opinion](understanding.md) to motivate everyone to vote for a specific candidate.
+APPLICATION: There's tremendous power behind elected officials in a government, so corporations and governments will put significant [effort](results.md) into [bending](image-distortion.md) public [opinion](understanding.md) to motivate everyone to vote for a specific candidate.
 
-[Safety restricts freedom](safety.md), so many people believe the reverse (freedom sacrifices safety). But, taking away all civil liberties may [feel](mind-feelings.md) like it'd bring peace, but it would allow [evil](morality-evil.md) people to do what they wanted because they'd be the only ones not honoring the rules.
+APPLICATION: [Safety restricts freedom](safety.md), so many people believe the reverse (freedom sacrifices safety). But, taking away all civil liberties may [feel](mind-feelings.md) like it'd bring peace, but it would allow [evil](morality-evil.md) people to do what they wanted because they'd be the only ones not honoring the rules.
 
-To manage rules, most top-ranking authorities give [power](power.md) to sub-leaders:
+APPLICATION: To manage rules, most top-ranking authorities give [power](power.md) to sub-leaders:
 
 - With conventional dictators and corporate structures, the power distributes like a pyramid.
 - With representative elections, the pyramid gets a lot flatter and everyone has a tiny bit of authority over their superiors.
 - Pure democracy, a theoretical possibility but practical impossibility, would be completely flat.
 
-Separating [religion](religion.md) and politics is impossible because they both deal with [large-scale](groups-large.md) opinions of how people should [coexist](people-boundaries.md), and define the authority and scope of [decisions](decisions.md) about people.
+APPLICATION: Separating [religion](religion.md) and politics is impossible because they both deal with [large-scale](groups-large.md) opinions of how people should [coexist](people-boundaries.md), and define the authority and scope of [decisions](decisions.md) about people.
 
-There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
+APPLICATION: There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
 - All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
 - No matter how elaborate or constricting a system is, all humans who [purpose](purpose.md) one thing can be subverted by other humans with sufficient [motivation](purpose.md) and resources for the opposite purpose.
 
-There is no solution [creative](mind-creativity.md) enough to keep everyone perfectly [safe](safety.md):
+APPLICATION: There is no solution [creative](mind-creativity.md) enough to keep everyone perfectly [safe](safety.md):
 
 - If you show people the risks, at least some of them will find a thrill in trying to [overcome it](meaning.md).
 - If, in some way, you can make sure people are *completely* unaware of a risk, they will hate you for it and will [try to destroy you](people-conflicts-war.md). Further, they'll be *really* unprepared for the risks when they *do* explore them.
 
-The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](people-culture.md) that defy [reality](reality.md):
+APPLICATION: The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](people-culture.md) that defy [reality](reality.md):
 
 1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it corresponds with their interests, and it's all determined by [how they maintain their power](politics-systems.md).
 2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal.md) for the [consequences](results.md) of what they [decide](decisions.md).
 3. If you prefer a [social reform](trends.md), a government is *not* [trustworthy](understanding-certainty.md) to correctly employ it.
 4. A government is never powerful enough that a person is never entitled to their [freedoms](people-boundaries.md).
 
-While some people assert that the law is a teacher of [morality](morality.md), that only applies to the degree that people trust that law to be aligned with morality. It teaches to the people who wish to be taught.
+APPLICATION: While some people assert that the law is a teacher of [morality](morality.md), that only applies to the degree that people trust that law to be aligned with morality. It teaches to the people who wish to be taught.
 
-In any election, the most competent-[looking](image.md) person ends up winning. Politicians in free societies are frequently good-looking and appear to be competent, but have more reason to *look* good than *be* good at running society.
+APPLICATION: In any election, the most competent-[looking](image.md) person ends up winning. Politicians in free societies are frequently good-looking and appear to be competent, but have more reason to *look* good than *be* good at running society.
 
-The best solution for society would be a small group of *very* intelligent, experienced, compassionate geeks. However, nobody would vote them in, and they'd never be able to [coerce](people-conflicts-war.md) or [influence](influence.md) their way to [power](power.md).
+APPLICATION: The best solution for society would be a small group of *very* intelligent, experienced, compassionate geeks. However, nobody would vote them in, and they'd never be able to [coerce](people-conflicts-war.md) or [influence](influence.md) their way to [power](power.md).
 
-Everyone in power is either forced to permit [taboo](morality-taboo.md) things or forbid them. Permissible things will allow [evil](morality-evil.md) people to misuse them, but forbidding things will merely make them part of the black market, and even totalitarian micromanagement can't prevent a black market.
+APPLICATION: Everyone in power is either forced to permit [taboo](morality-taboo.md) things or forbid them. Permissible things will allow [evil](morality-evil.md) people to misuse them, but forbidding things will merely make them part of the black market, and even totalitarian micromanagement can't prevent a black market.
 
-As a general rule of thumb, fewer well-enforced rules work better than more rules. However, political interests make this very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
+APPLICATION: As a general rule of thumb, fewer well-enforced rules work better than more rules. However, political interests make this very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
 
-A [society](groups-large.md) that grows needs [specialization](jobs-specialization.md), and its criminal justice system is no different. Without that specialization, the system becomes more complicated and less effective:
+APPLICATION: A [society](groups-large.md) that grows needs [specialization](jobs-specialization.md), and its criminal justice system is no different. Without that specialization, the system becomes more complicated and less effective:
 
 1. The rules will broadly apply in a way that won't fit a specific circumstance.
 2. Court cases will add new clarifications and caveats to existing rules.
@@ -239,7 +239,7 @@ A [society](groups-large.md) that grows needs [specialization](jobs-specializati
 5. The punishment won't be defined by what it does to people anymore, but by how much it complies with what the law's [language](language.md) explicitly states or permits.
 6. Eventually, [justice](morality-justice.md) will be perverted through abject defiance of common sense that's in compliance with written legal precedent.
 
-The economics of rule-making will eventually doom all civilizations from the inside-out:
+APPLICATION: The economics of rule-making will eventually doom all civilizations from the inside-out:
 
 1. Larger societies need more rules.
 2. More rules means more people to measure and enforce what the public does (i.e., bureaucrats).

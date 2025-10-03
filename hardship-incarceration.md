@@ -3,7 +3,7 @@
 
 Being in prison or jail is a psychological battle more than anything else:
 
-- You're receiving punishment because you at least [appear](image.md) to have broken the [law](rules.md).
+- You're receiving punishment because you at least [appear](image.md) to have broken the [law](people-rules.md).
 - You'll be surrounded by the least-agreeable people in society, who *also* appear to have broken the law (and many of them being experts at it).
 
 From the moment you're arrested, the police and law enforcement are *not* on your side:

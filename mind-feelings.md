@@ -110,7 +110,7 @@ APPLICATION: Most of our feelings *would* be precisely accurate if they were bas
 - Globally self-declaring oneself as a failure/success, worthless/perfect, or useless/important (labeling)
 - Listening more to gut feelings than observable reality (emotional reasoning)
 - Taking an event or person's behavior personally (personalizing)
-- Making rigid [rules](rules.md) about self/people/reality with words like "should"/"must"/"have to" (demanding)
+- Making rigid [rules](people-rules.md) about self/people/reality with words like "should"/"must"/"have to" (demanding)
 - Declaring something as unbearable when it's attainable and worth tolerating (no frustration tolerance)
 
 ## Intensified

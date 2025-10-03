@@ -125,13 +125,13 @@ APPLICATION: The easiest way to create magnificent creations is to rapidly get a
 - Release version 1.0 or 0.8, depending on what you're making.
 - [Publish](language-writing.md) immediately.
 
-At this point, we're trying to honor all the [rules](rules.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
+At this point, we're trying to honor all the [rules](people-rules.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
 
 Since we often feel confident enough about our ability, we'll usually [publish](creations.md) what we create and will feel familiar enough that we can continue building.
 
 ### 3. Opposition
 
-Once we've discovered nearly all the [rules](rules.md), we'll find it repulsive and become dissatisfied. We'll have a burning question that's a variation of "is that really it?"
+Once we've discovered nearly all the [rules](people-rules.md), we'll find it repulsive and become dissatisfied. We'll have a burning question that's a variation of "is that really it?"
 
 We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different than what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
 
@@ -200,7 +200,7 @@ APPLICATION: Since artists and creators obsess about [perfect beauty](values-qua
 
 The [timing](datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
 
-Since creativity requires breaking [rules](rules.md), most creative people end up living in a state of protracted [childhood](maturity.md).
+Since creativity requires breaking [rules](people-rules.md), most creative people end up living in a state of protracted [childhood](maturity.md).
 
 - A child's [image](image.md) of [reality](reality.md) has unclear or nonexistent rules.
 - The [hardships](hardship.md) of this world often bring around "adult" thinking by showing how things really are.

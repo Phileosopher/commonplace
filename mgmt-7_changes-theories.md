@@ -39,7 +39,7 @@ To that end, most organizations devolve into [bad systems](mgmt-badsystems.md) a
 2. If the leadership doesn't keep fostering a culture of large-scale changes, Improvers' [risk assessment](safety-riskmgmt.md) halts future changes - IIIIIIIII T BB PPPPPPPPP
 3. Before changes completely stop, the Thinkers and Builders have moved on to more meaningful work - IIIIIII PPPPPPPPP
 4. Eventually, as the tyranny of standardization expands, Improvers follow the Thinkers and Builders, with new Producers replacing them to create some semblance of order - PPPPPPPPPPPPPPPPPP
-5. The organization will dwindle and die from a lack of new ideas, or possibly [become necessary](mgmt-badsystems.md) by some form of [government legislation](rules.md).
+5. The organization will dwindle and die from a lack of new ideas, or possibly [become necessary](mgmt-badsystems.md) by some form of [government legislation](people-rules.md).
 
 ## ADKAR change management model
 

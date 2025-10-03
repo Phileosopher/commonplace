@@ -269,7 +269,7 @@ Frequently, most plots tend to fall into a few predictable patterns:
 
 - Maturation - a [coming-of-age](maturity.md) story.
 - Redemption - a [moral](morality.md) change where a character becomes good.
-- Punitive - a good character turns bad and is [punished](rules.md).
+- Punitive - a good character turns bad and is [punished](people-rules.md).
 - Testing - a character's [resolve](purpose.md) is tested against [hardship](hardship.md).
 - Education - a character must [change](people-changes.md) their negative [understanding](understanding.md) of something.
 - Disillusionment - a character's must change their [positive](understanding-certainty.md) [expectations](imagination.md).
@@ -370,4 +370,4 @@ Our brains don't have segmented areas for fiction versus nonfiction, so the expe
 
 Because of stories, it's humanly impossible to *not* have a [bias](image.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](understanding-certainty.md) in something we can't prove entirely.
 
-We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](rules.md) to do or not do.
+We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](people-rules.md) to do or not do.

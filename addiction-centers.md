@@ -188,4 +188,4 @@ If [God](god.md) is the center of your life:
 
 Only principle-based and God-based centers lead to healthy long-term aspirations.
 
-- Principle-based centers are built around [rules](rules.md), while devotion to God can adapt based on the circumstances.
+- Principle-based centers are built around [rules](people-rules.md), while devotion to God can adapt based on the circumstances.

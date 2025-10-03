@@ -1,24 +1,5 @@
-## TL;DR
 
-Teenagers are halfway to adulthood, and have unique needs as a result.
-
-They're older and can do more, so enforcing rules with them will change dramatically.
-
-Either you'll release your teenagers, or they'll find a way to rebel.
-
-Now that they're exploring new freedoms, your relationship with them will change.
-
-Set adult-level standards with them.
-
-Never do for your children what they can do themselves.
-
-They may sever ties with you, but it's not uncommon for it to be temporary.
-
-They're going through a difficult time and disagree frequently with you, but you can still lead by example.
-
-## How are teenagers different from smaller children?
-
-Every parent struggles to adapt to the same changes:
+Every parent struggles to adapt to the same changes within their children:
 
 1. [Parenting an infant or toddler](parenting-babies.md) requires micro-managing their entire day.
 2. The parents' roles [adapt to managing](parenting-2_children.md) a barely independent, unskilled child.

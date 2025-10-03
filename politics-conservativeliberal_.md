@@ -1,4 +1,6 @@
 
+# The conservative/liberal spectrum
+
 Discussing politics is a relatively new concept across the lens of history. Up to just under 300 years ago, political discussions among most people were either small talk about royalty or highly personal discussions about what [decision](decisions.md) to make in light of recent political events.
 
 When a [large group](groups-large.md) permits us to vote, we must make [decisions](decisions.md) between political parties. If we must choose representatives, we're a degree removed from the decision-making process, so we must use [philosophical](philosophy.md) standards to judge those representatives.
@@ -11,7 +13,7 @@ As people [age](maturity.md), they tend to discover that there's nothing really 
 
 Conservatives tend to vote for civilization and liberals for equality, but this isn't precisely true:
 
-- At the farthest extremes, a conservative will *always* enforce [rules](rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](image.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
+- At the farthest extremes, a conservative will *always* enforce [rules](people-rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](image.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
 - Most normal people have a case-by-case [inner conflict](conflicts-inner.md) tied to their [beliefs](understanding-certainty.md). Those beliefs come from [religious views](religion.md), definitions of [humanity](humanity.md), how we should [empower](power.md) the weakest in society, and many other [philosophical](philosophy.md) elements.
 
 While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
@@ -49,13 +51,13 @@ However, both conservatives and liberals run the risk of abusing their power, me
 Conservatives believe in natural law:
 
 - [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](decisions.md). This makes the death penalty acceptable and abortion bad.
-- Individual [morality](morality.md) is irrespective of what an individual [interprets](image.md). Thus, the [laws](rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](decisions.md).
-- Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](rules.md).
+- Individual [morality](morality.md) is irrespective of what an individual [interprets](image.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](decisions.md).
+- Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](people-rules.md).
 
 Progressives believe natural law is relative, nonexistent, or doesn't matter:
 
 - Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
-- Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
+- Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](people-rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
 - [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
 
 Further, in the midst of the two poles, other value systems diverge from the spectrum by emphasizing individuals' freedom:
@@ -71,24 +73,24 @@ One of the most complicated problems about any of this political discussion come
 
 ## Application
 
-Some issues are *not* aligned on the political spectrum:
+APPLICATION: Some issues are *not* aligned on the political spectrum:
 
 - The development of [technology](technology.md) makes unintelligent people less necessary, and society currently doesn't have jobs for anyone with an IQ of 85 or lower. Conservatives claim they need fewer barriers to the job market, and liberals believe they can get job training for anything whatsoever, and they're both wrong.
 - Government [debt](money-2_debt.md) is an [economic](economics.md) risk, but a conservative nation will gladly spend more on its military, while a liberal nation will spend more on social welfare programs. There is usually limited discussion on how to frame taxes that minimize pain to the public, since that would require cutting back on military or social welfare programs, which are government forms of [power](power.md).
 
-Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](socialrisk.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](trends.md) that affect their children.
+APPLICATION: Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](socialrisk.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](trends.md) that affect their children.
 
-The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](image.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
+APPLICATION: The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](image.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
-Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](decisions.md).
+APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](decisions.md).
 
-[Gender](gender.md) roles can easily fit into both conservative and liberal molds. On the conservative side, females prefer its [safety](safety.md) and makes prefer its conquest of the [unknown](unknown.md) via historical precedent. For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts.md), and males can conquer the unknown through novelty.
+APPLICATION: [Gender](gender.md) roles can easily fit into both conservative and liberal molds. On the conservative side, females prefer its [safety](safety.md) and makes prefer its conquest of the [unknown](unknown.md) via historical precedent. For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts.md), and males can conquer the unknown through novelty.
 
-To live [the good life](goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](decisions.md) for themselves.
+APPLICATION: To live [the good life](goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](decisions.md) for themselves.
 
-If everyone were given complete freedom, but also complete responsibility to maintain those freedoms, only high-conscientiousness [personalities](personality.md) would want it. Everyone else is willing to give up at least some of their freedoms for [security](safety.md), which guarantees a perpetual risk of a [tyrant](morality-evil.md) taking advantage of them.
+APPLICATION: If everyone were given complete freedom, but also complete responsibility to maintain those freedoms, only high-conscientiousness [personalities](personality.md) would want it. Everyone else is willing to give up at least some of their freedoms for [security](safety.md), which guarantees a perpetual risk of a [tyrant](morality-evil.md) taking advantage of them.
 
-Human politics have a nasty, irreconcilable paradox that transcends *any* political solution:
+APPLICATION: Human politics have a nasty, irreconcilable paradox that transcends *any* political solution:
 
 1. Completely abolishing public property would guarantee [tyranny](power.md) to the degree that someone could defeat the [unknown](unknown.md).
 2. Removing all private property would not only remove tyranny, but also any sense of [responsibility](meaning.md) ("tragedy of the commons").
@@ -98,9 +100,9 @@ Human politics have a nasty, irreconcilable paradox that transcends *any* politi
 6. However, since parents [love](people-love.md) their children more than society, they will find ways to secretly transfer that power to their children, even if the children were given *complete* equality of situation (e.g., all receive the same [education](education.md) and starting income).
 7. Punishing any parents will mean the entrusted children will conspire to destroy the social system, since they're not getting what they want and have the reckless [power of youth and time](maturity.md) to exact their revenge.
 
-By nature, conservatives will be somewhat antagonistic to overly used [technology](technology.md), and liberals toward overly applied [virtue](morality.md).
+APPLICATION: By nature, conservatives will be somewhat antagonistic to overly used [technology](technology.md), and liberals toward overly applied [virtue](morality.md).
 
-In one sense, everyone is a unique flavor:
+APPLICATION: In one sense, everyone is a unique flavor:
 
 - At the largest-scale level, they're often libertarian unless they're a globalist.
 - At the state level, they're often Republican or Democrat.

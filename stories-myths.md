@@ -42,7 +42,7 @@ Multiple doors or pathways are the raw representation of [decisions and choice](
 
 The human body, especially when contrasted with a much larger environment or with death, represents how we are [finite and mortal](mind-feelings-fear.md).
 
-Depictions of heaven and hell (as well as any other variations, including Nirvana) are [moral balancing](morality.md) for the [unfair situations](morality-evil.md) we often find ourselves exposed to in this life. It's inescapably connected to some form of [judging authority](rules.md), though the rules move around a *lot* based on [implementation](religion-answers.md).
+Depictions of heaven and hell (as well as any other variations, including Nirvana) are [moral balancing](morality.md) for the [unfair situations](morality-evil.md) we often find ourselves exposed to in this life. It's inescapably connected to some form of [judging authority](people-rules.md), though the rules move around a *lot* based on [implementation](religion-answers.md).
 
 Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](decisions.md).
 

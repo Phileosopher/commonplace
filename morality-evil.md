@@ -45,7 +45,7 @@ However, the absence of virtue *does* represent itself on a general spectrum by 
 
 We [understand](understanding.md) many of our needs from birth and must be [taught](understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](people-culture.md) enough that we give plenty of grace for it.
 
-APPLICATION: Every child is born with the capacity to be evil, so society will *always* have a problem with evil as long as it keeps having children. The only way to change it is to reconstruct our entire [formation](humanity.md) from our conception before birth. All we can do is either [socially engineer](rules.md) [justice](morality-justice.md) to curb it, or inspire people through [faith](understanding-certainty.md) to [change](people-changes.md) for [something beyond themselves](morality.md).
+APPLICATION: Every child is born with the capacity to be evil, so society will *always* have a problem with evil as long as it keeps having children. The only way to change it is to reconstruct our entire [formation](humanity.md) from our conception before birth. All we can do is either [socially engineer](people-rules.md) [justice](morality-justice.md) to curb it, or inspire people through [faith](understanding-certainty.md) to [change](people-changes.md) for [something beyond themselves](morality.md).
 
 As we [grow](maturity.md), continuing to care more about ourselves than others will develop that selfishness into evil. In that sense, everyone is born a little evil and must be trained against it by their [parents](people-family.md) by demonstrating how our [actions can affect others](results.md).
 
@@ -53,7 +53,7 @@ Our adaptation toward evil starts *very* early on. Starting at about 6 months ol
 
 When we become [aware](awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](image-distortion.md) further.
 
-APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](rules.md) to keep ourselves [safe](safety.md).
+APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
 APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](decisions.md) to [change](people-changes.md) for the better.
 
@@ -91,7 +91,7 @@ Most [religious institutions](religion.md) provoke us to virtue, at least partly
 
 APPLICATION: Evil [purposes](purpose.md) are frequently a shortcut to a comparably virtuous purpose.
 
-[Fantasizing](imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](rules.md) in society.
+[Fantasizing](imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](people-rules.md) in society.
 
 ## The motivation for evil
 

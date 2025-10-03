@@ -97,7 +97,7 @@ Beyond reality, robots have a tremendous draw in the world of fiction, and peopl
 
 However, beyond the above concepts about how dumb they are at tasks, there are specific problems for many of the perceived domains:
 
-- In the event of a poorly programmed robot, high-risk robotic implementations (e.g., [cars](computers-autos.md)) won't withstand human nature's tendency to [blame](rules.md) when people die, so it becomes a heavily [politicized](power.md) situation far more than simply upgraded [technology](technology.md).
+- In the event of a poorly programmed robot, high-risk robotic implementations (e.g., [cars](computers-autos.md)) won't withstand human nature's tendency to [blame](people-rules.md) when people die, so it becomes a heavily [politicized](power.md) situation far more than simply upgraded [technology](technology.md).
 - To make a human-like science fiction robot (e.g., Asimov's "I, Robot") would require adding the fields of psychology and sociology into all the *other* disciplines required for robots, meaning robots would have to first be ubiquitous everywhere to approach that challenge.
 - Like realistic [game development](computers-software-gamedev.md), [widespread adoption](trends.md) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
   - Robots are more relatable as they become more human-like, and they're very relatable when they're precisely human-like.

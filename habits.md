@@ -98,7 +98,7 @@ APPLICATION: Habits compound, so we can't afford to let another day persist in k
 APPLICATION: Habits are a string of pleasure/method/pleasure. For that reason, it can string together into other habits (pleasure/method/pleasure/method/pleasure). Over time, it can lead to *severe* results:
 
 - pleasure/method/.../method/pleasure of [transforming millions of lives](goodlife.md)
-- pleasure/method/.../method/pleasure, and now being [arrested](rules.md)
+- pleasure/method/.../method/pleasure, and now being [arrested](people-rules.md)
 
 One unique quality that [humanity](humanity.md) has compared to any other organism is the ability to stop mid-habit and ask, "Why am I doing this?" We can do it *constantly*, but it can often be stifled by [trauma](hardship-ptsd.md). If someone experiences enough trauma [as they age](maturity.md) without resolving it, they become completely automated into strange, largely obsolete patterns.
 

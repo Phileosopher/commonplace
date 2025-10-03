@@ -57,9 +57,9 @@ We connect words to similar and opposing ideas to create synonyms and antonyms. 
 
 APPLICATION: Synonyms and antonyms are useful, but they're also risky if we over-simplify the concepts. "Part" is the antonym of "whole", but also of "non-part", and "whole" and "non-part" are completely unrelated ideas.
 
-Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](rules.md) (especially in [legal domains](legal-doctrines.md)).
+Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](legal-doctrines.md)).
 
-APPLICATION: At their farthest use, words carry [legal](rules.md) power. In those cases, the difference between small words like "of" and "for" can change the *entire* [purpose](purpose.md) of a document or statement.
+APPLICATION: At their farthest use, words carry [legal](people-rules.md) power. In those cases, the difference between small words like "of" and "for" can change the *entire* [purpose](purpose.md) of a document or statement.
 
 ## The format of language
 

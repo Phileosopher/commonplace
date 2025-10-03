@@ -15,7 +15,7 @@ APPLICATION: Associating with a group that doesn't reflect any of your [values](
 
 In exchange, the requirements are perfectly reasonable to us:
 
-- Obey the [rules](rules.md).
+- Obey the [rules](people-rules.md).
 - [Trust](trust.md) everyone to do what they're [supposed](imagination.md) to.
 - Contribute (at least somewhat) to the interests of others in the group.
 
@@ -81,7 +81,7 @@ APPLICATION: Most group membership takes [work](purpose.md), though that work ma
 
 The amount the group [expects](imagination.md) us to conform is proportional to its size. [Large groups](groups-large.md) expect near-total submission, while small groups have far fewer expectations. The [conflict](people-conflicts.md) between the individuals and the leadership defines a *massive* portion of its [culture](people-culture.md).
 
-While we conform, we tend to believe social [rules](rules.md) are the [reality](reality.md) itself around us. However, they're simply everyone's shared [imagination](imagination.md).
+While we conform, we tend to believe social [rules](people-rules.md) are the [reality](reality.md) itself around us. However, they're simply everyone's shared [imagination](imagination.md).
 
 We tend to behave differently when we know others are observing us, often proportionally to how *much* we feel observed. However, addressing any lack of leadership integrity inside a group will usually make the leaders more shrewd than legitimately address the problem, typically proportionally to how much [power](power.md) the leaders have compared to the [dissenting](people-conflicts.md) member.
 
@@ -108,7 +108,7 @@ In a [group](groups-member.md), a person's influence is a [social trend](trends.
 3. It reaches the majority, where that person is now [leading that group](groups-small.md).
 4. [The group grows](groups-large.md) under that person's guidance, or that person eventually fades from importance as another person is accepted.
 
-Generally, submission is a more reliable tactic than compliance to survive in a group. [Compliance](rules.md) (i.e., following rules) determines how rarely we will fail. Submission (i.e., subordinating power) determines the grace people in more [power](power.md) will give when we *do* fail.
+Generally, submission is a more reliable tactic than compliance to survive in a group. [Compliance](people-rules.md) (i.e., following rules) determines how rarely we will fail. Submission (i.e., subordinating power) determines the grace people in more [power](power.md) will give when we *do* fail.
 
 In groups pertaining to aptitude or performance, a person's ability to [influence](influence.md) the leadership can "tweak" their results. Often, people will cheat the system by drawing from unique [forms of power](power-types.md), typically from the added resources of an outside group (such as their [family](people-family.md)). Because of this, any aptitude-based system becomes progressively worse to measure aptitude proportionally to how much leaders' [feelings](mind-feelings.md) dictate [results](results.md).
 

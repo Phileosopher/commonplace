@@ -5,7 +5,7 @@ We're all born free, at least somewhat. Most of the restrictions we must abide b
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
-APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](rules.md).
+APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](people-rules.md).
 
 Justice is an attempt to create fairness. People can debate endlessly about what's fair, but we very often know what's [*not* fair](morality-evil.md):
 
@@ -15,13 +15,13 @@ Justice is an attempt to create fairness. People can debate endlessly about what
 
 We tend to believe things we [feel](mind-feelings.md) are right, even if it's not particularly [fair](people-boundaries.md). Since we're all [human](humanity-universals.md), we all have a sentiment about matters of fairness, and can never think [purely rationally](logic.md) on the matter because our [feelings](mind-feelings.md) always mix into it.
 
-APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](rules.md) are more elaborate, and partly from [distrusting](trust.md) the authorities. This makes *all* life more complicated for *everyone*.
+APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](trust.md) the authorities. This makes *all* life more complicated for *everyone*.
 
 ## Purpose
 
 Authorities reserve the [moral](morality.md) use of justice to give or take away freedoms. Their purpose (at least as it [appears](image.md)) is to enforce healthy [boundaries](people-boundaries.md) for everyone:
 
-- We need authorities to apply justice because completely unrestrained freedom would let the most [powerful](power.md) people [force everyone else to submit](slavery.md). With a powerful authority, other [large groups](groups-large.md) with [other types of power](power-types.md) will [fear](mind-feelings-fear.md) what will happen if they break the [rules](rules.md) too far.
+- We need authorities to apply justice because completely unrestrained freedom would let the most [powerful](power.md) people [force everyone else to submit](slavery.md). With a powerful authority, other [large groups](groups-large.md) with [other types of power](power-types.md) will [fear](mind-feelings-fear.md) what will happen if they break the [rules](people-rules.md) too far.
 - We also need third-parties to manage natural conflicts among people who [can't agree among each other](people-conflicts.md). Often, some people are the [victims](hardship-ptsd.md) of previous [evil](morality-evil.md) and feel justified in abusing someone else in turn.
 
 APPLICATION: While "eye for an eye" is the fairest universal standard, we tend to [feel](mind-feelings.md) like we must take more than that when we're wronged (i.e., "face for an eye"). At that point, though, we've perverted justice away from [goodness](morality.md).
@@ -42,9 +42,9 @@ All matters of legal justice are issues of [morality](morality.md), with the Sta
 
 Most of the time, the emotional energy of the [deciding](decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
 
-Court [decisions](decisions.md) often become [laws](rules.md), which impact *way* more for years later than the original decision ever could.
+Court [decisions](decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
 
-While [morality](morality.md) in a courtroom is grounded in a unique [story](stories.md) with a prosecutor and defendant, [laws](rules.md) must remove those stories to stay fair to all instances.
+While [morality](morality.md) in a courtroom is grounded in a unique [story](stories.md) with a prosecutor and defendant, [laws](people-rules.md) must remove those stories to stay fair to all instances.
 
 Thus, *[how](logic.md)* a ruling was decided is just as important as *[what](results.md)* the ruling was in the first place.
 
@@ -67,13 +67,13 @@ APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflat
 - If the [majority](trends.md) defines rights, then we must follow whatever is [fashionable](trends.md).
 - If the individual (autonomos) defines rights, there's no standard for [evil](morality-evil.md) unless we designate evil people as a separate sub-human class of citizen, since the "evil" person often feels they have a right to others' rights.
 
-APPLICATION: To enforce justice, we must honor a standard that goes beyond the place we administer justice. Whether it's [God](religion.md) or a set of [rules](rules.md), it becomes the [philosophical framework](philosophy.md) for how we judge.
+APPLICATION: To enforce justice, we must honor a standard that goes beyond the place we administer justice. Whether it's [God](religion.md) or a set of [rules](people-rules.md), it becomes the [philosophical framework](philosophy.md) for how we judge.
 
 A judge's job is to define rules to make sense of how to process everyone present in front of them, so they [presume](understanding-certainty.md) the morality basis that fits their [religious](religion.md) and [political](politics-conservativeliberal.md) views.
 
 There are two forms of delivering the implementation of justice:
 
-1. The spirit of the standard, by honoring principles. Since [values](values.md) are challenging to maintain without [adaptation](mind-creativity.md), a judge must maintain requires [philosophical awareness](philosophy.md) of the [rules](rules.md) they're working with alongside a general obliviousness to [present fashions](trends.md).
+1. The spirit of the standard, by honoring principles. Since [values](values.md) are challenging to maintain without [adaptation](mind-creativity.md), a judge must maintain requires [philosophical awareness](philosophy.md) of the [rules](people-rules.md) they're working with alongside a general obliviousness to [present fashions](trends.md).
 2. The letter of the standard, by parsing the [logic](logic.md) of the rules irrespective of its context or creator's intent. This can *completely* invert the original [meaning](meaning.md) of the text (especially after [a few generations](legacy.md)), and is often for self-interested [purposes](purpose.md) or [malice](morality-evil.md).
 
 Historically, judges didn't often concern themselves with implicit human rights, so the idea is relatively new. [Slavery](slavery.md), for example, is still ubiquitous but uses other names.

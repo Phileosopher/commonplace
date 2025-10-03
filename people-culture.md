@@ -24,7 +24,7 @@ We tend to think something is "normal" if it matches our culture and "odd" if it
 
 Social status in a culture is always a [biased](mind-bias.md) judgment, but it's *generally* consistent enough to [measure](math.md) across a population.
 
-Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](image.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](rules.md) than standing by any particular [principle or value system](values.md).
+Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](image.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](people-rules.md) than standing by any particular [principle or value system](values.md).
 
 A culture has value because it maintains a people group's [inherent trust](trust.md) of one another, which in turn affects their [overall happiness](goodlife.md).
 
@@ -59,8 +59,8 @@ Each culture broadly classifies across multiple [measured](math.md) spectra, bas
 
 Conflict style - confront the issues vs. coexist without conflict:
 
-- Confrontational values directly addressing issues, which typically means [laws](rules.md) will change to reflect [trends](trends.md).
-- Conflict Avoidance tries to coexist as much as possible, which often means long-standing [rules](rules.md) will stay uncontested.
+- Confrontational values directly addressing issues, which typically means [laws](people-rules.md) will change to reflect [trends](trends.md).
+- Conflict Avoidance tries to coexist as much as possible, which often means long-standing [rules](people-rules.md) will stay uncontested.
 - Confrontational requires [courage](mind-feelings-fear.md), but Conflict Avoidance requires patience and [creativity](mind-creativity.md).
 
 Context level - directly state vs. heavily imply:

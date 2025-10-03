@@ -423,7 +423,7 @@ Two specific traits give carriers that control networks a *lot* of [power](power
 There are only 3 ways to keep carriers accountable to prevent abuse:
 
 1. [Use end-to-end encryption](encryption.md), which is a matter of [each person responsibly making those decisions](computers-cysec.md).
-2. [Enact laws to prevent their misuse](rules.md), which requires [government intervention](groups-large.md).
+2. [Enact laws to prevent their misuse](people-rules.md), which requires [government intervention](groups-large.md).
 3. [Maintain a competitive free market](economics.md), which requires government *non*-intervention.
 
 ## Further learning
