@@ -3,25 +3,63 @@
 
 Most people in modern society have been trained in [arithmetic and algebra](math-algebra.md) from childhood, but don't often know *what* math is.
 
-## The Basis of Math
+## The basis of math
 
-Every concept in math is a precisely parsed concept in an imaginary space. While some numbers represent real things (e.g., 2, 3) and are therefore called "real numbers", others can only exist in the philosophical realm of mental ideals (e.g., √2, π) and are called "imaginary numbers".
+Math can best be described as the [science](science.md) of [structure and order](unknown.md), which represents as patterns across our [perception](image.md). Unlike other sciences, though, repetition doesn't prove a mathematical concept: the only way we can tell is with [deductive certainty](logic.md) that it can't be anything else.
 
-The actual [existence of math](math.md) is subject to [value theory](values.md), specifically the question over whether it exists in nature around us or in the minds that perceive nature.
+Structurally, math is grounded in [logic](logic.md), with zero room for [uncertainty](understanding-certainty.md). Every concept in math is a precisely parsed concept in an imaginary space. Even uncertain things are clarified on *how* uncertain they are.
 
-However, for the sake of *working with* math, it doesn't really matter where it exists, or even if it does. All we need is the basis that it's perfectly consistent and something we can be [certain over](understanding-certainty.md).
+While some numbers represent real things (e.g., 2, 3) and are therefore called "real numbers", others can only exist in the philosophical realm of mental ideals (e.g., √2, π) and are called "imaginary numbers".
 
-Proving math requires generating proofs, and that is *most* of the work mathematicians spend time on.
+While math itself is a type of logical science, it represents as a distinct [language](language.md) built around clearly defined [values](values.md) that represent [symbolically](symbols.md).
+
+APPLICATION: Math is a [logical](logic.md) [symbol](symbols.md), so enough inputs and outputs into a mathematical proof is guaranteed to yield itself as [offensive](morality-taboo.md), inaccurate, confusing, or inappropriate.
+
+## The purpose and place for math
+
+Math is grouping logical values we've [interpreted](image.md), but has no [purpose](purpose.md) inherently in itself. The form of "3" may exist in some ethereal plane (like Plato had once thought), but our human structure links objects together into [patterns](symbols.md). Therefore, "3" itself isn't useful for anything, but it can be *very* useful to say there's "3 apples" or "3 cars" or "3 letters".
+
+Technically, math only exists in the mind. It's an advanced overlap of [logic](logic.md) that sits on top of what we see as [reality](reality.md) to help us [understand](understanding.md) it more clearly.
+
+APPLICATION: Since math is in our minds, it has the same fickle properties as any other [value](values.md). However, since it uses logic so intimately, we can structure it very well by comparison to any other values.
+
+Many people who [highly value](understanding-certainty.md) math have a difficult time with the mind-based location of math, simply because its reliability within [nature](reality.md) makes them believe it's [immaculate](religion.md). Within most [STEM and accounting](jobs-specialization.md), math *is* reality and not merely in our minds.
+
+Math is incredibly useful for us to find [patterns](symbols.md) in the world around us. It's the ultimate means of attaining [order](unknown.md).
+
+APPLICATION: Math is *very* useful in many parts of life, but its value is based on the accuracy of the math user's mind. Further, the signal deteriorates as it's [communicated](stories-storytellers.md), as well as whether they're [trustworthy](understanding-certainty.md) and [honest](people-lying.md), and is augmented by how they've calibrated their [feelings](mind-feelings.md).
+
+Numerical values are useful to achieve and [track outward results](results.md). We always form a *non*-numeric [purpose](purpose.md) before we start using numbers:
+
+- Someone desires to lose weight and be thin (mostly non-numeric), so they measure the 10 kg they want to lose (numeric).
+- A scientist wishes to [understand](understanding.md) how black holes interact with space (non-numeric), so they measure light bending from surrounding stars (numeric).
+- A CEO aims to know how well a company is doing (non-numeric), so they run reports that measure different parts of the company (numeric).
+
+The numbers we use are simply relational to other numbers. If someone attained 4, then later attained 6, someone would consider that an improvement, but that would change if you knew they were expected to attain 793. This is a *major* tactic for [deception](image-distortion.md), especially when we [anchor](mind-bias.md) to the first number we hear.
+
+APPLICATION: Math is useful, but it's always comparative [logic](logic.md). We must keep in mind what *any* number is comparing itself to, such as percentages or statistics.
+
+APPLICATION: To solely value money is to assign a measurement of power as [power itself](power.md).
+
+However, living [the good life](goodlife.md) requires us to *avoid* using numbers to find [purpose](purpose.md) or [meaning](meaning.md). By quantifying anything, we define our [feelings](mind-feelings.md) by an added abstraction from reality instead of [reality](reality.md) itself.
+
+In any meaningful situation, the ultimate goal of a numerical measurement will be a non-numerical purpose. Any measurement that is also a higher [purpose](purpose.md) on its own is either [performing another's non-numerical desires](groups-member.md) or veering into a form of [addiction](addiction.md).
+
+## Using math
+
+For the sake of *working with* math, all we need is the basis that it's perfectly consistent and something we can be [certain over](understanding-certainty.md).
+
+Proving a mathematical concept is accurate requires generating proofs, and that is *most* of the work mathematicians spend time on.
 
 Most people find math too difficult to work with, and it is *not* a trivial discipline, but it has many uses:
 
-- Many STEM careers, accounting, and even some [domains of art](art.md) require consistently revisiting math concepts.
+- Many STEM careers, [accounting](accounting.md), and even some [domains of art](art.md) require consistently revisiting math concepts.
 - All the patterns of nature, including [science](science.md) and [engineering](engineering.md), have mathematical patterns behind them.
 - Our capacity to observe and reproduce math patterns have allowed us to make *very* efficient factories, get to the moon, have well-designed traffic circles, and build better cities.
 
 Math [education](education.md) often overlooks informing people on *why* math has value, and many standard college-educated math teachers will focus on [rote memorization](mind-memory.md) and formulas instead of conveying the core concepts that give mathematics any use whatsoever in the first place. This level of [ignorance](https://gainedin.site/idiot/) has magnified math anxiety more than it should be.
 
-## Math Anxiety
+## Math anxiety
 
 Math anxiety is a legitimately real problem, and most people who don't specialize in math-based occupations simply imagine it's too difficult for them to understand.
 
@@ -43,7 +81,16 @@ Math is very thorough, so it's never really "easy", and it can often be tedious,
 
 ## Branches/Disciplines
 
+On a highly advanced level, math has two broad [analytical](logic.md) purposes:
+
+1. Reproducing the elements of [reality](reality.md) with numbers, which is largely the domain of most math disciplines like calculus and game theory.
+2. Capturing reality itself with numbers to observe any [trends](trends.md) that may emerge, which is all derived from statistics.
+
 Math isn't really one discipline, but has technically become *hundreds* of domains.
+
+There are many classes of math, and far too many to easily specify, but they all start with the primitives of [arithmetic and algebra](math.md).
+
+The branches of math have naturally expanded proportionally to the needs of the people calculating with them. This means that math (and its [pedagogy](education.md)) branch off into many, *many* [specializations](jobs-specialization.md).
 
 As late as the Renaissance, there were simply 2 branches of mathematics:
 

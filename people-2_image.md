@@ -17,6 +17,13 @@ Your clothing communicates many messages about who you are:
 
 ## Wash consistently
 
+The most significant rule [in developed nations](image-modern.md) is to manage how you smell.
+
+- A society that has extremely affordable soap and laundry detergent expects people to use it profusely.
+- While it doesn't mean you have to have *no* smell, it *does* mean people are more sensitive to it.
+- Unfortunately, it's *also* considered impolite in many circles to indicate to someone that they smell bad.
+- Further, if you're surrounded by a community of people who practice the same habits as you, you're likely to never hear about it.
+
 You will often not *think* you smell bad:
 
 - Our bodies become accustomed to the smells around us in as little as 20 minutes.

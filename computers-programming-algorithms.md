@@ -1,12 +1,22 @@
 
 # What algorithms are
 
+## Algorithms
+
+An algorithm is a math problem where the formula has specific rules that only sometimes apply (e.g., X-5=Y if X is more than 5, but otherwise X=Y).
+
+An algorithm is subject to the same realities as [statistics](math-stat.md): the incoming variables determine its accuracy to [reality](reality.md).
+
+APPLICATION: Since math exists in the mind alone, algorithms are always biased, no matter how much data is fed into it or how well it's [constructed](creations.md), meaning algorithms are as fallible as statistics.
+
 In computers, algorithms and [data structures](data-structures.md) work hand-in-hand, and the concepts are often merged, but there is a distinctive difference between them:
 
 - An algorithm is a set of very specific instructions. It's a mathematical function (like X = Y + 5), but has more functions inside it that make it more complicated.
 - A data structure is the form of the information itself.
 
 Unfortunately, it's difficult to imagine a verb without a noun, and a noun without a verb isn't very useful, which is why the concepts are often merged. Further, some algorithms are designed for specific data structures, further adding complexity.
+
+Hiding an actual calculation for an algorithm is a very effective way to [distort how things appear](image-distortion.md). The people who run most [computer technologies](technology.md) over a network can often tweak information for various reasons from what it legitimately was expressing.
 
 Whenever a computer receives information and converts it into something else, it uses an algorithm of *some* sort. It can create strange consequences, so it can be helpful for most people to broadly understand what algorithms even are and what they do.
 
