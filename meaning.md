@@ -14,7 +14,7 @@ The direct sense of meaning we have control over is derived from [purposes](purp
 3. ...which accomplish a [purpose](purpose.md) directed toward an object.
 4. We've [predicted](imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
 5. We [believe](understanding-certainty.md) our decision changed the [consequence](results.md).
-6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](https:/adequate.life/happiness-1/).
+6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](mind-feelings-happiness.md).
 
 The word "responsible", as used here, is referring specifically to the above. There is often a *different* meaning for the word that means "worthy of blame", and is a matter of [consequences](results.md) (which we can never be entirely responsible for).
 
