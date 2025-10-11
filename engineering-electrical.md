@@ -87,7 +87,7 @@ Battery technology develops relatively slowly compared to the things it tends to
 
 Batteries are *very* versatile, and can serve to benefit a household by preparing for a [short-term disaster](hardship-disaster-2_long-stay.md), glean energy from an engine's movement, or be quickly and easily manufactured as a replaceable supply material for small-scale electrical needs.
 
-Batteries are built into *many* objects (e.g., laptops, scales) without an off switch and simply a timer for [design reasons](engineering-design.md). However, every single piece of technology *needs* a physical switch that can kill the connection to the battery. Otherwise, the latent stray electricity can create [break-fix](fix.md) headaches later.
+Batteries are built into *many* objects (e.g., laptops, scales) without an off switch and simply a timer for [design reasons](engineering-design.md). However, every single piece of technology *needs* a physical switch that can kill the connection to the battery. Otherwise, the latent stray electricity can create [break-fix](https://adequate.life/fix/) headaches later.
 
 One of the newest developing technologies for batteries is called a hydrogen fuel cell. The concept is essentially the same as a battery, with a few modifications:
 

@@ -26,7 +26,7 @@ People need more money:
 - More [autos](autos.md) are sold directly by the owner.
   - They imagine they may turn more of a profit if they sell it themselves.
 - More autos sit broken-down in driveways or by the side of the road.
-  - People can't afford to get the vehicle towed or [repaired](fix.md).
+  - People can't afford to get the vehicle towed or [repaired](https://adequate.life/fix/).
 - Specific collections (card, stamp, comic books) are more often on sale.
   - They also typically sell for much less than a few years prior.
 - More loans are rejected.

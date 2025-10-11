@@ -23,7 +23,7 @@ Everyone in a modern society must learn the basics of [reading](language.md), [w
 6. Broad coverage of all the [religions](religion.md) as far as the learner wishes to understand
 7. Understanding [basic life skills](https://adequate.life/habits/) and [technology](technology.md) enough to [coexist](people-boundaries.md) with others, as well as any [specializations for modern society](jobs-specialization.md)
 
-Learning a wide range of interests gives us more skills at creatively [solving our problems](fix.md), *especially* when we are in a [hyper-specialized](jobs-specialization.md) [social group](groups-member.md).
+Learning a wide range of interests gives us more skills at creatively [solving our problems](https://adequate.life/fix/), *especially* when we are in a [hyper-specialized](jobs-specialization.md) [social group](groups-member.md).
 
 APPLICATION: Education is training for the mind, similar to how physical fitness is training for the body. If you're going to exercise, you'll follow someone who is (or at least was) *very* physically fit. To learn, you'll follow someone who has a *lot* of understanding. Unfortunately, it usually expresses best as a more intimate one-on-one matter, so mainstream educational systems can't scale it.
 

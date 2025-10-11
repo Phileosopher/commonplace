@@ -23,7 +23,7 @@ Growing plants runs through a relatively predictable yearly pattern:
    - Harvest leafy greens and lumber by pulling a bit off each plant to avoid killing it.
    - Get it while it's either ripe or near-ripe, since bugs will eat anything that starts decomposing.
 6. Sow the winter seeds, mill and can the harvest.
-7. Reap the winter food, [repair](fix.md) all the tools and equipment during winter.
+7. Reap the winter food, [repair](https://adequate.life/fix/) all the tools and equipment during winter.
 
 ## Selecting
 

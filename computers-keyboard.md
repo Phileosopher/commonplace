@@ -64,7 +64,7 @@ As far as feel and responsiveness, mechanical keyboards are superior. However, t
 - Mechanical keyboards are typically MUCH LOUDER than membrane keyboards. In some situations, they can keep people up at night.
 - Mechanical keyboard signals have a higher chance of mapping extra keys (also called "ghosting") when 3 or more keys are pressed, so it often stops those keys (also called "blocking"). Thus, there's an "n-key rollover" that sets a maximum number of keys registered as pressed. This usually doesn't cause issues for most people, but hardcore [software developers](computers-software.md) and [gamers](computers-software-gamedev.md) will notice anything below 6-key-rollover.
 
-Occasionally, a keyboard may register multiple inputs with one keyboard press, known as a "key bounce". There are several "debounce" [break-fix](fix.md) methods:
+Occasionally, a keyboard may register multiple inputs with one keyboard press, known as a "key bounce". There are several "debounce" [break-fix](https://adequate.life/fix/) methods:
 
 1. Software debouncing, which involves adding response delays to the controller after the first press.
 2. Dusting out the keys with compressed air, or running it through the dishwasher if the keyboard doesn't have many expanded features.

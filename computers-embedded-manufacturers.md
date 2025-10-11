@@ -52,7 +52,7 @@ Espressif has [the ESP32](https://www.espressif.com/en/products/socs/esp32), whi
 
 Along with all the above, many vendors sell [very cheap "microcontrollers" for as little as $1](https://jaycarlson.net/microcontrollers/) that allow plenty of opportunities for expanding and scaling a computer's purposes.
 
-Further, old computers and computer parts also have plenty of reusability if you're willing to engage in a little [break-fix](fix.md) and hardware diagnosis:
+Further, old computers and computer parts also have plenty of reusability if you're willing to engage in a little [break-fix](https://adequate.life/fix/) and hardware diagnosis:
 
 - Obsolete desktop computers and laptops
 - [Printers](engineering-printers.md) and [scanners](computers-ocr.md)

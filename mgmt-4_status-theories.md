@@ -19,7 +19,7 @@ It's a pyramid/triangle representation, with each corner and edge representing a
   - Accountability binds Personal Growth and Performance Results.
     - These can be mutual, a few people, or individual.
 
-While the model is great for observing the ideal scenario for the group, it doesn't work well as a [diagnostic tool](fix.md).
+While the model is great for observing the ideal scenario for the group, it doesn't work well as a [diagnostic tool](https://adequate.life/fix/).
 
 The system is intuitive because it focuses on the necessary components for achieving outputs, and with plenty of specific information about each of the factors for it.
 
@@ -180,4 +180,4 @@ It focuses on how things can *fail* instead of succeed:
 
 While this model hasn't been proven scientifically, it helps in observing intuitive social failures across groups.
 
-While it's great at diagnosing dysfunctional patterns, it doesn't help much to [actually fix the problems](fix.md).
+While it's great at diagnosing dysfunctional patterns, it doesn't help much to [actually fix the problems](https://adequate.life/fix/).

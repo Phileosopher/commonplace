@@ -114,5 +114,5 @@ Unfortunately, there are far too many logistical failures that almost guarantee 
 APPLICATION: The transhumanism movement is doomed to never achieve immortality, mostly because their proponents haven't sufficiently grasped how the human soul works.
 
 - Since many of them are naturalists, they consider the soul, brain, mind, and psyche to be synonyms.
-- Without knowing the raw mechanisms of how we're built with absolute [certainty](understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](fix.md) humanity.
+- Without knowing the raw mechanisms of how we're built with absolute [certainty](understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](https://adequate.life/fix/) humanity.
 - It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](trust.md) which are difficult to easily define but easy to [believe in](understanding-certainty.md).

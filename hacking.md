@@ -23,7 +23,7 @@ Often, hacks require "reverse engineering" something, which involves designing s
 Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("white hat") to completely unscrupulous or self-interested ("black hat"):
 
 1. Altruism - doing something unconventional to improve the public good.
-2. [Fixing](fix.md) - improvise a solution to a legitimate problem.
+2. [Fixing](https://adequate.life/fix/) - improvise a solution to a legitimate problem.
 3. Curiosity - pure wonder or the desire to solve a puzzle.
 4. Silliness - it sounded fun to try.
 5. Freedom - bypassing social convention to gain more freedoms.
@@ -35,7 +35,7 @@ Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("
 But, from the public's perspective, there are 3 major classes of hacker:
 
 1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming.md), often includes [PenTesters](computers-cysec-pentest.md).
-2. Unconventional [Fixing](fix.md) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
+2. Unconventional [Fixing](https://adequate.life/fix/) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
 3. New Perspectives - building mind-bending experiences that redefine how we see reality, typically only attainable by a [genius savant](https://books2read.com/autism/).
 
 The following is a collection of the 3 major categories of hack. They are *not* exclusive, but the hope is to show how hacking transcends limits, in *every* direction.

@@ -36,7 +36,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Never permit complete depletion of anything whatsoever (e.g., refill fuel at 1/3 tank).
 - Add extra time for all predicted tasks.
 - Say "no" to all obligations at even the slightest chance of non-fulfillment.
-- Replacing all things *before* they need [fixing](fix.md).
+- Replacing all things *before* they need [fixing](https://adequate.life/fix/).
 - Ensuring everyone gets enough [sleep](sleep.md), [nutrition](body-2_diet.md), and [exercise](body-3_exercise.md).
 - Never permitting any system to get to 100% utilization or capacity.
 - Terminating meetings at least 10 minutes earlier than future scheduled meetings.

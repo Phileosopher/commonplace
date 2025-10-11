@@ -92,7 +92,7 @@ Conflicts become severe when we run strictly off [feelings](mind-feelings.md):
 1. Feelings lead to reactions.
 2. Reacting leads to seeking blame.
 3. Blame is specifying who [caused](results.md) the problem.
-4. While blame is a [power tactic](image-distortion.md) in [groups](groups-member.md), it doesn't create any meaningful [results](results.md) because the action to break something is typically different from the action to [fix](fix.md) it.
+4. While blame is a [power tactic](image-distortion.md) in [groups](groups-member.md), it doesn't create any meaningful [results](results.md) because the action to break something is typically different from the action to [fix](https://adequate.life/fix/) it.
 
 There are several reasons an argument will arise:
 
@@ -149,7 +149,7 @@ Besides suspending judgment, defusing most conflicts require several additional 
 
 1. [Understand](understanding.md) exactly what that person [wants](purpose.md) more than they do.
 2. [Logically](logic.md) dismantle every justification the opponent is using, including any [distortions](image-distortion.md) of the truth to appeal to feelings.
-3. [Creatively](mind-creativity.md) find a mutually acceptable [solution](fix.md) beyond what everyone [sees](image.md) at the moment.
+3. [Creatively](mind-creativity.md) find a mutually acceptable [solution](https://adequate.life/fix/) beyond what everyone [sees](image.md) at the moment.
 4. Skillfully [influence](influence.md) them to see beyond their [convictions](understanding-certainty.md) to [understand](understanding.md) your perspective.
 5. Patiently avoid submitting to [anger](mind-feelings-anger.md) through all of it, which usually requires ignoring the need to be [important](influence.md).
 

@@ -185,6 +185,8 @@ The only way to escape debt is to overpay every month:
 3. Make a significant payment with every windfall (e.g., a pay raise or bonus).
 4. If you know your payment will be late, call the creditor before the due date to get some forgiveness from late fees.
 
+- Ask your lender for an amortization chart, then pay the principal amount mid-month on top of your normal payment.
+
 Debt collectors are unscrupulous:
 
 - The collector's job isn't to be your friend or help you out of your situation.

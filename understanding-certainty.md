@@ -92,7 +92,7 @@ Occasionally, we make bad decisions we think are good. We'll invest a *ton* of [
 
 When this happens, we suffer a type of cognitive dissonance where we trust two incompatible things at once. A crisis of faith is when we become aware of that conflict because an [expectation](imagination.md) failed with the one that we trusted more.
 
-APPLICATION: To find someone's actual opinion, ask for their advice for [resolving a problem](fix.md), or what they think everyone else believes.
+APPLICATION: To find someone's actual opinion, ask for their advice for [resolving a problem](https://adequate.life/fix/), or what they think everyone else believes.
 
 We tend to have an [inner conflict](conflicts-inner.md), but many people with [trauma](hardship-ptsd.md) will [mix their trauma into what they believe about others' lives](people-boundaries.md). Some [political systems](politics-leftism.md) and [institutions](mgmt-badsystems.md) take advantage of this.
 

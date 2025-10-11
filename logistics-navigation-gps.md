@@ -11,9 +11,7 @@ The infrastructure for geolocation is mostly composed of a constellation of GPS 
 
 Each of these satellites has a *very* precise atomic clock, which is constantly broadcasting radio signals towards the Earth.
 
-The satellite positions are arranged so that there are always at least 12 satellites on any given position, though they're *not* in the same location relative to each other:
-
-![](https://trendless.tech/wp-content/uploads/2023/10/satellites.gif)
+The satellite positions are arranged so that there are always at least 12 satellites on any given position, though [they're *not* in the same location relative to each other](logistics-navigation-gps.gif).
 
 ## Finding location
 

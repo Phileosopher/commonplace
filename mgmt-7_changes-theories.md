@@ -80,7 +80,7 @@ The model considers the individuality of each stage of members' [feelings](mind-
 5. Guilt - self-directed hatred about any failures regarding the change.
    - (Secondary) Anger - directed frustration at self.
    - (Alternate) Disillusionment - complete resignation, with [purposes](purpose.md) directed to something beyond the team.
-   - (Alternate) Hostility - fierce aggression toward trying to make progress in [fixing](fix.md) something, typically by ignoring or sabotaging the change.
+   - (Alternate) Hostility - fierce aggression toward trying to make progress in [fixing](https://adequate.life/fix/) something, typically by ignoring or sabotaging the change.
 6. Depression - total despair about the change, often with an [identity](identity.md) crisis involved.
 7. Gradual Acceptance - a sense of [meaning](meaning.md) in the new change.
 8. Moving Forward - complete integration of the new experience.

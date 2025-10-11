@@ -7,7 +7,7 @@ Upkeep of a house simply involves making steady, consistent [decorations and ren
 - If it's a nice house, your work is relatively easy, but homes in disrepair will need *many* projects until you can feel comfortable.
 - Make sure to [set reasonable goals](success-3_goals.md) and pace it according to your [budget](money-3_budget.md) and [time](success-4_routine.md).
 
-Try to [address](fix.md) small problems *before* they become large ones.
+Try to [address](https://adequate.life/fix/) small problems *before* they become large ones.
 
 - Most of the problems will revolve around water, in the bathroom and the kitchen.
 - Sewage plumbing blockage is comparatively easier to fix when you have *some* running water through it (e.g., using a drain cleaner).
@@ -23,7 +23,7 @@ The maintenance of your home will add to the [quality of your life](goodlife.md)
 - Custom shelves and built-in organization can *dramatically* help with [organization](organization.md).
 - Greenhouses can help with [gardening](horticulture.md).
 - Projects that improve life for [children](parenting-children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
-- Building a workshop can make *all* the above, as well as [fixing](fix.md), much easier.
+- Building a workshop can make *all* the above, as well as [fixing](https://adequate.life/fix/), much easier.
 
 ## Additional reading
 

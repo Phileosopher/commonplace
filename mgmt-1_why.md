@@ -202,7 +202,7 @@ Watch for key phrases and behaviors that show non-leader managers (NLMs):
 - A general feeling of comfort or ease, without any clear ambition toward anything in particular.
 - As people age, these issues can often express more severely:
   - They may grow complacent without many challenges to overcome.
-  - They might have lost their passion to [fix problems](fix.md).
+  - They might have lost their passion to [fix problems](https://adequate.life/fix/).
   - Money or [safety](safety.md) started becoming a higher priority than results.
 
 When nobody leads by asking questions that provoke change, NLM [culture](people-culture.md) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
@@ -226,7 +226,7 @@ In most management capacities, it's surprisingly easy to *appear* productive, bu
 
 A manager has a few possible ways to interpret their role:
 
-1. [Fixer](fix.md) - the team is fulfilling various [purposes](purpose.md), and the manager can step in to intervene if anyone needs guidance or anything goes wrong.
+1. [Fixer](https://adequate.life/fix/) - the team is fulfilling various [purposes](purpose.md), and the manager can step in to intervene if anyone needs guidance or anything goes wrong.
 2. [Messenger](language-speaking.md) - the manager has requirements based on [rules](people-rules.md), and the subordinate should be [rewarded or punished](habits.md) for their results.
 3. Team - in both good and bad ways, the leader is responsible for what the group does, and is equally responsible to [make the *members* responsible](meaning.md) as well.
 

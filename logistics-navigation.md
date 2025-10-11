@@ -29,9 +29,7 @@ The system uses the [radial degrees](math-algebra-cs.md) relative along the circ
 - The numbers cleanly divide into a degree's minutes and seconds (60 minutes, 60 seconds), with decimal points for the rest.
 - While Lat/Lon is the definitive answer before computers, [there is no clear standard in software for representing it](https://macwright.com/lonlat/).
 
-Our time zones use this system based in Null Island, with the *approximate* time being offset from that prime meridian:
-
-![](https://trendless.tech/wp-content/uploads/2023/10/time-zones-1024x552.jpg)
+[Our time zones](logistics-navigation.jpg) use this system based in Null Island, with the *approximate* time being offset from that prime meridian.
 
 The system requires at least *some* specificity beyond the raw degrees:
 

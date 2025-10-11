@@ -206,7 +206,7 @@ APPLICATION: If a specific idea doesn't have a word, we tend not to think about 
 
 The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](decisions.md).
 
-APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](fix.md)) whenever [uncertain](understanding-certainty.md).
+APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](https://adequate.life/fix/)) whenever [uncertain](understanding-certainty.md).
 
 Language generally states [reality](reality.md) itself ("constantive"), which means it can be [proven or disproven](understanding-certainty.md). However, in some situations, our language can be the results that *define* the [consequences](results.md) in reality ("performative"). For example, a minister saying "I now pronounce you husband and wife" is performative, while the statement "You are husband and wife" in almost any context is simply constantive. This has tremendous legal implications with [contracts](people-contracts.md).
 

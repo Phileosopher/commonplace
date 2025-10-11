@@ -16,7 +16,7 @@ The basis of all [understanding](understanding.md) starts with knowing yourself.
 
 When we're unaware, we frequently respond wrongly:
 
-- If we don't know what causes things, we'll work to [fix something](fix.md) that might not be broken or can't control.
+- If we don't know what causes things, we'll work to [fix something](https://adequate.life/fix/) that might not be broken or can't control.
 - Sometimes, our [fear](mind-feelings-fear.md) will compel us to "fix" things that destroy even more than what we had observed.
 - And, when we're unaware of *those* consequences, we won't see what we destroy or try to "fix" things further!
 

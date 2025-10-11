@@ -150,7 +150,7 @@ Insurance agent (licensed by a state's Insurance Commission to produce insurance
 
 Auto mechanic:
 
-- You can typically make small [fixes](fix.md) yourself, but large-scale [auto](autos.md) repair requires specialized equipment that either *needs* a mechanic's shop or a severely involved hobby.
+- You can typically make small [fixes](https://adequate.life/fix/) yourself, but large-scale [auto](autos.md) repair requires specialized equipment that either *needs* a mechanic's shop or a severely involved hobby.
 
 Architect:
 

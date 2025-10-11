@@ -57,7 +57,7 @@ Even after you've purchased an RV, you'll need to get some things prepared befor
   - Install a sway bar on your vehicle to prevent it from rocking when turning.
   - Install a brake controller to regulate the trailer's braking relative to your vehicle.
 - If it's a motorhome:
-  - Have a mechanic inspect the vehicle to ensure there aren't any [issues](fix.md) waiting to happen.
+  - Have a mechanic inspect the vehicle to ensure there aren't any [issues](https://adequate.life/fix/) waiting to happen.
 
 If you're buying it new, you may want to add features that weren't in the RV.
 

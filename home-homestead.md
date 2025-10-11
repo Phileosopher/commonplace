@@ -24,10 +24,10 @@ In general, only consider living somewhat remotely if your [extraversion](person
 *Everyone* accustomed to city life must adapt their philosophy on getting things done.
 
 - Everyone only needs to worry about day-to-day needs in a city (hand-to-mouth mentality), [money management](money-1_why.md), and knowing the right [experts](professionals.md) to contact for various [specializations](jobs-specialization.md).
-- Things are often more difficult to find in a rural region, so stockpiling is *absolutely* critical for times when things become more scarce (abundance mentality) and it's important to know how to [diagnose and fix things](fix.md), as well as finding [creative solutions](mind-creativity.md).
+- Things are often more difficult to find in a rural region, so stockpiling is *absolutely* critical for times when things become more scarce (abundance mentality) and it's important to know how to [diagnose and fix things](https://adequate.life/fix/), as well as finding [creative solutions](mind-creativity.md).
 - In general, everything is no longer a "thing", but now a "sequence", so [plan ahead](mgmt-1_why.md) for *everything* as part of a larger system with an "output" and an "input".
 - Without understanding hand-to-mouth versus abundance, a [long-term disaster](hardship-disaster-2_long-stay.md) becomes almost certain and potentially fatal.
-- Beyond [core household needs](home-decorations.md), invest in a few additional items for [improvisation](fix.md):
+- Beyond [core household needs](home-decorations.md), invest in a few additional items for [improvisation](https://adequate.life/fix/):
 
 - A welder and plasma cutter (for metalworking)
 - A lathe and mill (for woodworking)
@@ -229,12 +229,12 @@ Water's ubiquity means the roof is *the* most important part of the building.
 Whatever dwelling you design, make sure it's accessible later:
 
 - Have 2-5 different possible scenarios for how you might use the building, then use a strategy that accommodates *all* of them.
-- You should be able to easily clean windows, reach light fixtures, access electrical panels and plumbing controls, access ducting, and open up the walls if something needs [repairing](fix.md) or [improving](home-decorations.md).
+- You should be able to easily clean windows, reach light fixtures, access electrical panels and plumbing controls, access ducting, and open up the walls if something needs [repairing](https://adequate.life/fix/) or [improving](home-decorations.md).
 - If you design it correctly from the beginning, you will save a *lot* of time and money later.
 
 Spend more money than you'd expect on the building's basic structure.
 
-- If you get low-quality building materials, you *will* have to [fix it](fix.md) later.
+- If you get low-quality building materials, you *will* have to [fix it](https://adequate.life/fix/) later.
 - However, don't obsess too much about finishing materials, since they're more for [design](engineering-design.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
 - If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](image.md).
 
@@ -245,7 +245,7 @@ If you're building something larger, adapt your strategy as constraints arise at
 3. Construction often runs into problems with materials or [supply chain](logistics.md) issues.
 4. When finishing, it's easy to see [design issues](engineering-design.md) you may have missed earlier in the project.
 5. Finally, once you live there, you'll often discover issues you wouldn't have realized otherwise.
-6. Over the long term, the building may start representing [patterns](symbols.md) of specific [issues](fix.md), so [improve](home-decorations.md) as you go.
+6. Over the long term, the building may start representing [patterns](symbols.md) of specific [issues](https://adequate.life/fix/), so [improve](home-decorations.md) as you go.
 
 Pay close attention to the risks associated with the building's geographical climate:
 
@@ -316,7 +316,7 @@ If you opt for indoor plumbing, you will need a septic tank or will need to conn
 - Septic tanks typically break down waste by introducing bacteria into it that eat poop and urine.
 - Routinely add more cultures to make sure there's a thriving ecosystem.
 
-When [diagnosing](fix.md) any blockage, make sure to address the issues as soon as possible. A small flow can be cleared with a drain cleaner solution, but a large flow requires snaking it out.
+When [diagnosing](https://adequate.life/fix/) any blockage, make sure to address the issues as soon as possible. A small flow can be cleared with a drain cleaner solution, but a large flow requires snaking it out.
 
 ## Electricity
 
@@ -418,7 +418,7 @@ We generally need enough [technology](technology.md) to communicate with others,
 - However, you can find *many* [domains of expertise](jobs-specialization.md) available for free on the internet, making it almost completely necessary if you depend on it for your lifestyle.
 - In particularly remote areas, [cellular networks](networks-computer.md) are limited or nonexistent, and your only internet option is often satellite networks.
 
-Further, the availability of information on the internet makes internet access *critical* for [fixing things](fix.md) and [creative ideas](mind-creativity.md) for *all* the above.
+Further, the availability of information on the internet makes internet access *critical* for [fixing things](https://adequate.life/fix/) and [creative ideas](mind-creativity.md) for *all* the above.
 
 - If you need the internet, *especially* if it's for your career, have at least 3-4 types of technology to access it as backup.
 

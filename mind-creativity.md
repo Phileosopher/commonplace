@@ -25,7 +25,7 @@ APPLICATION: Very often, large trends come from little trends that faded away lo
 
 APPLICATION: The exploration into [the unknown](unknown.md) makes anxiety and unease a guaranteed [feeling](mind-feelings.md) in the world of making new things. Therefore, [success](success-1_why.md) in art is inherently anxious.
 
-All creations are meant to fulfill a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](fix.md)" that problem.
+All creations are meant to fulfill a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](https://adequate.life/fix/)" that problem.
 
 Creativity is necessary for the [good life](goodlife.md). Without creating anything whatsoever, we tend to [feel](mind-feelings.md) boredom and [meaninglessness](meaning.md).
 

@@ -283,7 +283,7 @@ Throughout the record keeping, accountants often plug small numbers to correct r
 
 - While some accountants can become insanely petty over a $0.01 discrepancy, it's often caused by a typographical error.
 
-[Finding errors](fix.md) is a *massive* part of the labor that goes into accounting:
+[Finding errors](https://adequate.life/fix/) is a *massive* part of the labor that goes into accounting:
 
 - Errors of omission mean it wasn't entered at all.
 - Entry reversal swaps a credit entry with a debit.

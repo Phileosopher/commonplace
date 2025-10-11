@@ -82,7 +82,7 @@ Identity with a few words to the point of [excessive assertion](people-conflicts
 
 ## *Not* failing at conversation
 
-To avoid failing with words, we must focus on [fixing](fix.md) each problem separately, and will [intuitively](mind-feelings.md) do it automatically if we're [paying attention](awareness.md). We must do several things at once, so it's not easy.
+To avoid failing with words, we must focus on [fixing](https://adequate.life/fix/) each problem separately, and will [intuitively](mind-feelings.md) do it automatically if we're [paying attention](awareness.md). We must do several things at once, so it's not easy.
 
 First, we must think through what people said more thoroughly. This requires taking time to parse what they said and what it may [imply](mind-feelings.md). The flow of conversation moves slower, but people understand each other more. This probably won't happen across society, but individuals can gain *tremendously* from the practice, especially in [heated conflicts](people-5_conflicts.md).
 

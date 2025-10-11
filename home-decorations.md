@@ -3,7 +3,7 @@
 
 ## You will need tools
 
-Tools simplify [repairs](fix.md) and improvements, and every household should have an essential collection of them.
+Tools simplify [repairs](https://adequate.life/fix/) and improvements, and every household should have an essential collection of them.
 
 Unless you plan to use the tool *once*, only buy high-quality tools.
 

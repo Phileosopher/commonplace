@@ -39,7 +39,7 @@ The amount of latency, and relative speed of the satellite, requires a *lot* of 
   - High-end bands are ideal for "direct-to-home" (DTH) broadcasting and broadband data/phone.
 - The inherent latency, however, means that satellites are *not* ideal for almost any two-way real-time data transfer unless they're LEO.
 
-Each satellite must be *very* reliable, above 99.9%, since [maintenance](fix.md) and hardware upgrades are nearly nonexistent or prohibitively expensive.
+Each satellite must be *very* reliable, above 99.9%, since [maintenance](https://adequate.life/fix/) and hardware upgrades are nearly nonexistent or prohibitively expensive.
 
 ## Satellite data
 

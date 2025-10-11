@@ -95,7 +95,7 @@ Without [awareness](awareness.md) and making [decisions](decisions.md) that enfo
 
 1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
 2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.
-3. Revert back to passively permitting too much information to flow in, with no long-term solution to [fix it](fix.md) in the future.
+3. Revert back to passively permitting too much information to flow in, with no long-term solution to [fix it](https://adequate.life/fix/) in the future.
 
 Therefore, we need [long-term tactics that work](information-tactics.md), as well as specific approaches to [various types of media](information-media.md) and [specific information-heavy content](information-content.md).
 

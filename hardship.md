@@ -22,7 +22,7 @@ If others judge you, treat their behavior as part of the package of your current
 
 - When people judge you, they're boxing you into a category of something sub-human, but they do it to *everyone* in that situation like you, and it's nothing worth [identifying with](identity.md).
 - Others' harsh behaviors are often self-protective measures that have veered into excess.
-- You are [responsible](meaning.md) to [fix what you broke](fix.md) and [alienate yourself](people-changes.md) from the decisions that created your situation.
+- You are [responsible](meaning.md) to [fix what you broke](https://adequate.life/fix/) and [alienate yourself](people-changes.md) from the decisions that created your situation.
   - You are *not* responsible for how others think about you.
 
 People will use projection, transference, and poor self-management skills to behave inappropriately toward you:
@@ -158,7 +158,7 @@ Learn gratitude for what you *do* have:
 - And, after all the above, your situation by comparison may not be as bad as you feel.
 - The scope of the hardship has unspoken advantages.
   - If it's a personal hardship (e.g., [homelessness](hardship-homeless.md), [PTSD](hardship-ptsd.md)) you have the advantage of not depending on other people to make changes.
-  - If it's a large-scale hardship (e.g., [persecution](hardship-persecution.md)) you have others available for emotional support and finding [creative](mind-creativity.md) ways to [fix](fix.md) your issue.
+  - If it's a large-scale hardship (e.g., [persecution](hardship-persecution.md)) you have others available for emotional support and finding [creative](mind-creativity.md) ways to [fix](https://adequate.life/fix/) your issue.
 
 Compared to an escape, though, reality is painful:
 

@@ -1,6 +1,15 @@
 
 # Specific networking trivia
 
+## Network debugging
+
+1. Ping a known local IP address: ping 192.168.100.1
+2. Test telnet access to that local IP (failure is secure): telnet 192.168.100.1
+   - On Windows, enable "Telnet Client" under Programs and Features before using.
+3. Nmap the LAN side of the modem: nmap -v -A -p 1-65535 192.168.100.1
+4. Check DNS settings, manually override with a known DNS provider.
+5. Repeat for a known internet IP (e.g., 1.1.1.1).
+
 ## IP Addresses
 
 Modem IPv4 default (generally):

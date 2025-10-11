@@ -24,7 +24,7 @@ Livestock have a general yearly cycle:
 2. Send the animals back in every evening and during inclement weather.
 3. Shear the sheep in summer, birth the animals as needed.
 4. Butcher, salt, and smoke their meat.
-5. [Repair](fix.md) all the tools and equipment during winter, as well as working with more long-term materials (e.g., bone, leather).
+5. [Repair](https://adequate.life/fix/) all the tools and equipment during winter, as well as working with more long-term materials (e.g., bone, leather).
 
 ## Watching over them
 

@@ -26,7 +26,7 @@ There are two major ways to manage the customer's information:
 Either way, information can fail to present itself to a worker:
 
 1. Problem-focused creates challenges if there's a long-term relationship with the customer (i.e., where issues are resolved, then arise again with no knowledge of former issues).
-   - This isn't usually an issue, but can make [break-fix](fix.md) difficult.
+   - This isn't usually an issue, but can make [break-fix](https://adequate.life/fix/) difficult.
 2. Customer-focused can fail if an issue involves multiple people (i.e., it's not clear where to find the previous information).
    - While it's usually easier to resolve customer issues, they may feel unimportant if an issue corresponds to another person and they're not aware of it.
 

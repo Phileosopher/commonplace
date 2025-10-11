@@ -227,7 +227,7 @@ Plan ahead for future unhappiness:
 Avoid things that make you unhappy
 
 - Avoid overexposure to an overcrowded big city or desolate open countryside.
-- [Repair](fix.md) or discard things that don't work properly.
+- [Repair](https://adequate.life/fix/) or discard things that don't work properly.
 - Avoid tight-fitting clothes.
 - Avoid smoking, drinking, and drugs.
 - Find alternate routes around your daily commute's traffic, or find an alternative mode of transportation.

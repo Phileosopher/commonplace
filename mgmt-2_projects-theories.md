@@ -20,7 +20,7 @@ The system step-by-step sequence across 5 phases to carry the project to complet
 2. Design - create solutions that meet the requirements, often considering backup plans as well.
 3. Implementation - pick a design and use [technology](technology.md) to apply it.
 4. Verification - test whether the implementation worked.
-5. Maintenance - keep testing and [fixing anything that breaks](fix.md).
+5. Maintenance - keep testing and [fixing anything that breaks](https://adequate.life/fix/).
 
 It requires specific goals from the very beginning.
 

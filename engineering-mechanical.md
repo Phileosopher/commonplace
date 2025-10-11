@@ -33,4 +33,4 @@ These parts come together to create more advanced components:
 Typically, these objects are assembled into complex patterns that magnify specific aspects:
 
 - Using differently sized gearing can expand or contract the applied force over a certain amount of time, which can be used for either timing (e.g., a watch) or balancing forces (e.g., automotive transmission).
-- Changing the angle of the force can dramatically improve how much energy can directly apply to something or diminish [breakdown](fix.md).
+- Changing the angle of the force can dramatically improve how much energy can directly apply to something or diminish [breakdown](https://adequate.life/fix/).

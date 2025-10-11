@@ -245,7 +245,7 @@ The entire process of getting and keeping something must be considered in phases
      - B. Full-Rate Production Decision Review (FRPDR) - running at full speed.
    - Completed when it can operate indefinitely without further tweaking.
 5. Operations & Support (OS)
-   - aka maintenance, sustainability, [break-fix](fix.md)
+   - aka maintenance, sustainability, [break-fix](https://adequate.life/fix/)
    - Begins once everything has been tested and verified and uses Life-Cycle Sustainment and Disposal to maintain everything.
    - Completed when the system is fully terminated.
 

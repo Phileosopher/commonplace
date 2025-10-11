@@ -213,7 +213,7 @@ After the project is finished, assign people to the project's continuity plan.
   - There may be wrap-up work, or they may want to stay to finalize a few more details.
 - Instead, keep around anyone who would *prefer* to maintain the project:
   - People who want to maintain projects clearly [believe](understanding-certainty.md) in it, so they'll do a better job than someone else who is highly skilled person but doesn't care.
-  - [Maintenance](fix.md) is typically easier than [creating](creations.md), so you won't need the best workers for it, and the creators are the most familiar with the project.
+  - [Maintenance](https://adequate.life/fix/) is typically easier than [creating](creations.md), so you won't need the best workers for it, and the creators are the most familiar with the project.
 
 Anticipate anyone assigned to maintaining that project to be a little bit less productive on future projects (~5-25% less).
 

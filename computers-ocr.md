@@ -21,7 +21,7 @@ Scanners come in various forms:
 
 In one sense, a flatbed scanner works a bit like the reverse of a [printer](engineering-printers.md): slowly move from one side to another, often with a light to illuminate the information, and a sensor captures the image and converts it into [encoded color](engineering-graphics.md) line-by-line.
 
-The primary [driver](computers-os.md) technology that runs scanners is called "TWAIN", which is a reference to "never the twain shall meet" in light of how difficult connecting a scanner to a computer can be. That's not an exaggeration, and printer/scanner technology is irritatingly difficult to [break-fix](fix.md).
+The primary [driver](computers-os.md) technology that runs scanners is called "TWAIN", which is a reference to "never the twain shall meet" in light of how difficult connecting a scanner to a computer can be. That's not an exaggeration, and printer/scanner technology is irritatingly difficult to [break-fix](https://adequate.life/fix/).
 
 ## Reading text
 
@@ -58,7 +58,7 @@ The PDF protocol was designed by Adobe to replace all the usefulness of paper, a
 
 All these extra features can create a nightmare for building a clean aesthetic in PDF files. Often, a copy-paste from PDF can pick up too many spaces, remove spaces altogether, incorrectly parse paragraphs or words, swap out text order, or simply treat text as a raw image. This is also assuming that the PDF isn't write-protected or has some other strange conditions by a previous user.
 
-Unfortunately, [fixing](fix.md) PDF files only involves a few possible solutions:
+Unfortunately, [fixing](https://adequate.life/fix/) PDF files only involves a few possible solutions:
 
 1. Spool the PDF out through a software [printer](engineering-printers.md) to another PDF with the "Save to PDF" feature. This removes or merges most of the layers.
 2. Delete all the metadata and extra content that's not visible, then repeatedly run OCR on it.

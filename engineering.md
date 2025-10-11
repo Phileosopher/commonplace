@@ -5,7 +5,7 @@ Engineering is implementing [science](science.md) to address legitimate [problem
 
 More than anything else, engineering employs heavy amounts of [math](math.md) and physics for its design, with its constraints represented by the universe itself. Most of the *[inspiration](mind-creativity.md)* for engineering is pulled from [nature itself](science.md), and is usually driven by the [culture](people-culture.md) surrounding the engineers' work.
 
-Sometimes, [bad systems](mgmt-badsystems.md) can cut corners financially on a product's design, which *always* yields a terrible experience because the product will break quickly and [irreparably](fix.md), which can often happen when an object becomes a mere commodity. On the other hand, [competition](economics.md) can allow the best engineering to surface if the users actually *care* about their product.
+Sometimes, [bad systems](mgmt-badsystems.md) can cut corners financially on a product's design, which *always* yields a terrible experience because the product will break quickly and [irreparably](https://adequate.life/fix/), which can often happen when an object becomes a mere commodity. On the other hand, [competition](economics.md) can allow the best engineering to surface if the users actually *care* about their product.
 
 Some of the most creative engineered components involve finding ways to get objects where you want them to be, but with severe physical constraints or absolutely zero direct ability to interact. Most of the [sciences](science.md) involving the most extreme discoveries (e.g., astronomy, quantum physics, geology) advance from this type of development.
 

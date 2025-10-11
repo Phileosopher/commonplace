@@ -81,7 +81,7 @@ Note any terms which may hurt your capacity for choices later.
 If there's a warranty, track its duration.
 
 - The warranty period is often a precise measurement before the device was [engineered](engineering.md) for planned obsolescence.
-- If it's "as is", expect the possibility you'll [fix something yourself](fix.md) soon.
+- If it's "as is", expect the possibility you'll [fix something yourself](https://adequate.life/fix/) soon.
 - If you can pay for an extended warranty, closely consider if it's worth the cost and its additional terms (since they often profit from it).
 
 *Always* look ahead to how a contract terminates, even if you don't think it ever will.

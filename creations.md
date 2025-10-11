@@ -40,7 +40,7 @@ Broadly speaking, across [societies](groups-large.md), people use a few major [a
 2. [Science](science.md) - understanding [facts](reality.md) extracted from those stories.
 3. [Engineering/Inventing](engineering.md) - using scientific facts to create [technological](technology.md) answers to [problems](purpose.md).
 4. Pioneering - taking [risks](socialrisk.md) to build order from [chaos](unknown.md) using [known-working](understanding-certainty.md) solutions.
-5. Improving - becoming more effective at accomplishing known [purposes](purpose.md), which includes [fixing things that break](fix.md).
+5. Improving - becoming more effective at accomplishing known [purposes](purpose.md), which includes [fixing things that break](https://adequate.life/fix/).
 6. Maintaining - letting [habits](habits.md) (or [automation](technology.md)) create things repetitively.
 
 ### Tools

@@ -51,7 +51,7 @@ However, the rules of good design are *not* mechanical. Over-engineering a produ
 Every tool has several parts:
 
 1. The part the user interacts with (the "interface"), which is the domain of UX.
-2. The part which actually *[fixes](fix.md)* a problem (like a screwdriver tip or [graphical interface](engineering-design.md)).
+2. The part which actually *[fixes](https://adequate.life/fix/)* a problem (like a screwdriver tip or [graphical interface](engineering-design.md)).
 3. Supporting parts that help the first two (i.e., technical things).
 
 A designer is *literally* communicating nonverbal information to the user through how they built the object and interface. If the designer fails through implication, they must use labels and instructions.
@@ -142,7 +142,7 @@ While indirect system interaction is fine when the work isn't critical, the syst
 
 ## Human error
 
-People make mistakes, and high-quality products usually don't. Most products create a very [logical](logic.md) issue that's [easy to diagnose](fix.md), but human mistakes tend to group into several classes:
+People make mistakes, and high-quality products usually don't. Most products create a very [logical](logic.md) issue that's [easy to diagnose](https://adequate.life/fix/), but human mistakes tend to group into several classes:
 
 1. Capture error, where a familiar *and* unfamiliar action is the same, so the familiar action wins out by virtue of [habit](habits.md).
 2. Description error, where the inner characteristics of the action are mixed up (but the form appears to be the same), which often comes by being distracted or stressed.
@@ -305,7 +305,7 @@ The best prevention is to make design decisions that, if they were wrong, won't 
 - Give *many* options for the user, even if it looks ugly or unwieldy in the end.
 - Make small modifications, step-by-step, instead of large changes.
 - *Always* maintain [convention](habits.md), even if the designers hate it.
-- Keep everything as open as possible to allow people to [fix](fix.md) and [improve](creations.md) on it later.
+- Keep everything as open as possible to allow people to [fix](https://adequate.life/fix/) and [improve](creations.md) on it later.
 
 Plus, design decisions are subject to the perils of [miscommunication](language.md) and [power dynamics](power-types.md) that come with any [large group](groups-large.md). To avoid it, projects often develop in as many phases as necessary to prevent working on a wrongly defined [purpose](purpose.md):
 

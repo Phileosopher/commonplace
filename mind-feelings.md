@@ -83,7 +83,7 @@ There are hundreds of [words](mind-feelings-list.md) to capture every feeling, e
 
 ## Focus
 
-We can only feel what we're focused on, which often connects with trying to "[fix](fix.md)" the world around us. If we're simply running through a [habit](habits.md) or distracted by doing two things at once, we won't feel anything about something.
+We can only feel what we're focused on, which often connects with trying to "[fix](https://adequate.life/fix/)" the world around us. If we're simply running through a [habit](habits.md) or distracted by doing two things at once, we won't feel anything about something.
 
 Most of our feelings come from [purposes](purpose.md) we've subconsciously built and from an experience's novelty. If we learn something becomes impossible to control (e.g., [death](hardship-death.md)) and have gained extreme [understanding](understanding.md) of it, we can slowly release that control in our own way.
 
