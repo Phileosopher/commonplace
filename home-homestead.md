@@ -3,7 +3,7 @@
 
 Homesteading is essentially the entire domain of [owning a home](home-maintenance.md), but with many more domains involved around taking care of your needs.
 
-The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](conveniences.md) you have available:
+The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](engineering-conveniences.md) you have available:
 
 - At the farthest end, you can [have a garden](horticulture.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
 - You could live in a full-function house (indoor plumbing, central HVAC, wireless internet, etc.) with a nice view, a reasonable distance from town, and a slightly increased [risk](safety-riskmgmt.md) from nature and the elements.

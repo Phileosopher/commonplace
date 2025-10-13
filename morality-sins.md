@@ -74,7 +74,7 @@ God didn't create the laws to needlessly oppress.
 
 - Each of the laws, when examined for their intent, teaches either how to [live well](goodlife.md), [love](people-love.md), or have a relationship with Christ.
   - [Galatians 3:23-24](https://biblehub.com/bsb/galatians/3.htm)
-- Some odder laws (like forbidding shellfish) often have [health implications](body-4_health.md) that existed before [modern technology](conveniences.md) like [refrigeration](engineering.md).
+- Some odder laws (like forbidding shellfish) often have [health implications](body-4_health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
 
 ## Every sin centers on an idol
 

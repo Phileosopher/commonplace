@@ -211,7 +211,7 @@ They may simply be bitter or angry regarding [past trauma](hardship-ptsd.md) or 
 
 Occasionally, they're completely uninterested in the discussion.
 
-- Most [younger life stages](maturity.md) in [developed cultures](conveniences.md) don't have to think about [death](hardship-death.md).
+- Most [younger life stages](maturity.md) in [developed cultures](engineering-conveniences.md) don't have to think about [death](hardship-death.md).
 - At that point, it's a [philosophical thought experiment](paradoxes.md) or hobby to them.
 - The best thing is to share with them if they want to hear it, and move on.
 

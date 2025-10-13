@@ -65,7 +65,7 @@ His strategy directly attacks Christians and the Church from many angles:
 Before anything else, the Satan traps people with their sins and idols:
 
 - The quickest way to tempt someone is in their body, but any desire will work.
-- The Satan can use the whole world's variety of pleasures to distract, from [large-scale media](stories-storytellers.md) to natural forces to [creature comforts](conveniences.md).
+- The Satan can use the whole world's variety of pleasures to distract, from [large-scale media](stories-storytellers.md) to natural forces to [creature comforts](engineering-conveniences.md).
 - Non-believers are trapped in their sin because their conscience knows the Law ([Romans 2:14](https://biblehub.com/romans/2-14.htm)).
 - Believers can trap themselves in sin when they neglect to confess or acknowledge them.
 - At this stage, people are oblivious to the Satan's presence.
