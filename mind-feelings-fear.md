@@ -54,7 +54,7 @@ The fear of death is a profound force. If death wasn't a [risk](safety.md), most
 
 No matter what form, death is when a critical organ fails when there's not enough time or [technology](technology.md) to find a reliable replacement. That organ could be pierced, crushed, or incinerated. Death by blood loss, for example, is from the heart running out of oxygen. Even if we keep everything intact, we reach the [hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limit) at around age 125, where cells stop reproducing and organs stops regenerating.
 
-While we can reproduce most organs, we can't do anything about a damaged brain. It's the closest thing to whatever our [soul](humanity.md) physically connects to (along with the heart), and incredibly complicated. Transferring consciousness with a [computer](computers.md) wouldn't work because computers only make copies and delete the original. No matter how you frame it, death is certain.
+While we can reproduce most organs, we can't do anything about a damaged brain. It's the closest thing to whatever our [soul](humanity.md) physically connects to (along with the heart), and incredibly complicated. Transferring consciousness with a [computer](computers.md) wouldn't work because computers [only make copies and delete the original](computers-files.md). No matter how you frame it, death is certain.
 
 The reason death is so difficult to take is from a few difficult realities combined:
 
