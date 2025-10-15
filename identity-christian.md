@@ -80,7 +80,7 @@ God will typically frame our [hardships](hardship.md) to confront the defects of
 - High neuroticism: He'll require you to give over the [unknown](unknown.md) to Him more frequently.
 - Low neuroticism: He'll introduce more [emotionally volatile](mind-feelings.md) people into your life.
 
-All of it is to develop you into the perfection Jesus has planned for you:
+All of these changes are to develop you into the perfection Jesus has planned for you:
 
 - A *very* high openness to any experiences God wants to provide.
 - High conscientiousness, where you will enjoy living righteously.
@@ -91,6 +91,21 @@ All of it is to develop you into the perfection Jesus has planned for you:
 However, this requires us to be sincerely honest with ourselves, so we must integrate our shadow personas with ourselves to prevent a double-minded approach from all the [changes](people-changes.md) He requires of us.
 
 ## However, some things are *not* true
+
+It's not uncommon for things we *think* are Christian behaviors to actually be inappropriate [responses to trauma](hardship-ptsd.md):
+
+- Unable to accept a raw compliment.
+  - Comes from feeling unworthy, since Jesus certainly sees us as worth dying for us ([Romans 5:8](https://biblehub.com/romans/5-8.htm)).
+- Sacrificing needs for the sake of peace.
+  - This is actually based in [fear](mind-feelings-fear.md), and discredits what someone deserves as God's loved creation ([2 Timothy 2:6](https://biblehub.com/2_timothy/2-6.htm)).
+- Unwilling to let others share in suffering.
+  - Derived from [trust](trust.md) issues, and not what God commands ([Galatians 6:2](https://biblehub.com/galatians/6-2.htm)).
+- Constant preparedness for [risks](safety-riskmgmt.md).
+  - Another trust issue, which is against the peace God promises to His children ([Philippians 4:7](https://biblehub.com/philippians/4-7.htm)).
+- Feelings of [guilt and shame](mind-feelings-shame.md) for resting.
+  - A misunderstanding of what a relationship with God looks like ([Matthew 11:28](https://biblehub.com/matthew/11-28.htm)).
+- Apologizing for things that aren't your fault.
+  - Another implementation of shame, driven by an inaccurate understanding of [boundaries](people-3_boundaries.md).
 
 While on this earth, we can't be wholly sinless or perfect ([Philippians 3:12](https://biblehub.com/philippians/3-12.htm), [1 John 1:8](https://biblehub.com/1_john/1-8.htm)).
 

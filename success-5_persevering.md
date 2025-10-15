@@ -171,6 +171,14 @@ Be careful about morally balancing:
 - Focus on what you want to accomplish, *not* how "good" your decisions were.
 - Devote yourself to the new lifestyle you want, *not* the vices you want to indulge in later.
 
+Instead of focusing on weaknesses, try to use your strengths to compensate for them:
+
+- Explore an unfamiliar route with a familiar tool.
+- Create the familiar parts of the thing first, then move to the unfamiliar parts.
+- Use familiar [language](language.md) styles and approaches to explore unfamiliar things.
+- For unfamiliar thoughts, attach it to things you already know.
+- Aim for things you did as a small child: sing before playing, speak before writing.
+
 ## Expect failure
 
 Failures are a standard part of being human, but how we respond to them defines how they affect us.
@@ -188,10 +196,12 @@ Quickly, honestly admit you've failed:
 
 Make sure every new failure is a *different* way you've failed:
 
-- Plan ahead for how you'll likely fail next time.
-- By failing in different ways, we learn differently each time.
-- If you keep failing in the same way, [break your expectations](mind-creativity.md) the next time around.
-- Often, resisting an impulsive action for 10 minutes (or giving up after 10 minutes) is all you need to break the cycle.
+- Sometimes, your context guarantees you'll fail.
+  - We are often destined to fail simply because we don't have the right support network, equipment, prerequisite knowledge, time, prerequisite discipline, or [maturity](maturity.md).
+- Absolutely every single change you can make each attempt can help you to learn, as well as to [diagnose](https://adequate.life/fix/) *exactly* what's wrong.
+  - Plan ahead for how you'll likely fail next time.
+  - If you keep failing the same way, [break your expectations](mind-creativity.md) the next time around.
+- Often, resisting an impulsive action for 10 minutes (or giving up after 10 minutes) is all you need to break the cycle of sameness.
 
 There are different forms of failure:
 
@@ -263,6 +273,7 @@ All other things being equal, more failures increases statistical chances of suc
 
 You *must* take time off to recover because you usually won't realize how much you're harming yourself until it's too late:
 
+- Nearly every failure is at least somewhat [traumatic](hardship-ptsd.md).
 - We tend to reap the consequences of bad [decisions](decisions.md) *long* after we've made them.
 - Many [addictions](addiction-substances.md) come from burnout when we're trying too hard.
 - We tend to forget that we have limits in some domains (like our mind and feelings) and that we don't need to keep investing into others (like our [bodies](body-1_why.md) and [souls](humanity.md)).
@@ -283,6 +294,7 @@ Recovery is remembering that you're human and forgiving yourself:
 
 Without rest, we lose motivation on large projects:
 
+- Things that hurt us only make us stronger if we heal from them.
 - We find motivation when we see results from our abilities that match what we desire.
 - Unless we start seeing results, we can often become discouraged and give up.
 
@@ -324,7 +336,7 @@ Skipping recovery yields disastrous results:
 - Cynicism about any future attempts
 - Dysfunction from prolonged exposure to feeling failure
 
-Take 1 day off every week:
+Take one day off every week:
 
 - Scientific studies have shown that people are 150% more productive when they take a day off every week.
 - By taking a day off from working, we allow ourselves to recharge.

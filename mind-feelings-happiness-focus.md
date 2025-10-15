@@ -30,7 +30,7 @@ Only focus on true, good, and beautiful things:
 - True things, like [principles](philosophy.md) and [values](values.md)
 - Beautiful things, like a sunrise or [art](art.md)
 
-Avoid or ignore discouraging and irrelevant things:
+However, scientific studies have shown that reducing negative thinking is far more influential toward positivity than increasing positive thinking:
 
 - Desires you can't presently [accomplish](success-3_goals.md)
 - Status or accomplishments compared to others

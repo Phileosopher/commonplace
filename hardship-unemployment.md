@@ -37,7 +37,7 @@ As *soon* as you lose your job, shift to a survival lifestyle:
 Some situations will make your unemployment situation far more severe:
 
 - [Children](parenting-children.md) or other family members who depend on your income
-- [Criminal history](legal-crimes.md), especially if it was within the past [7 years](identity-legalfiction.md)
+- [Criminal history](legal-crimes.md), especially if it was within the past [7 years](image-modern.md)
 - Multiple recent short-term jobs, which would imply instability to a potential hiring manager
 - A shortage of skills proportional to your age (e.g., a college graduate who can't clean a gutter)
 - Failing to have had [money saved](money-3_budget.md) for the situation

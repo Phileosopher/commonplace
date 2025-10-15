@@ -14,6 +14,7 @@ A hyperactive focus on many things, often with many connections and associations
 
 - When it's a severe case, it becomes attention deficit hyperactivity disorder (ADHD).
 - Their mind is generally experiencing racing thoughts, but as a typical part of their daily lives.
+- Every symptom of their diagnosis is linked to [dysregulation](awareness-dysregulation.md).
 
 Indicators:
 
@@ -215,6 +216,7 @@ A mental state of deriving tremendous [meaning](meaning.md) out of information t
 Indicators:
 
 - A buildup of sentiment that eventually represents as severe and inaccurate expression to their intended purpose (e.g., profanity, screaming).
+- One natural side effect is that they always have some amount of ADHD.
 
 How to behave with them:
 

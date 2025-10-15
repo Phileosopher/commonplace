@@ -14,9 +14,10 @@ Most people get complacent when they reach their peak:
 
 When you succeed, stay mindful of who you were and who helped you:
 
-- It took tremendous effort to overcome your trials, but anyone in your position with your decisions could have done it.
+- It took tremendous effort to overcome your trials, but anyone in your position with your opportunities and decisions could have done it.
 - More often than not, succeeding makes us tend to forget that outward success is fragile, fleeting, and unpredictable.
-- After your success, other things become easier, but not for *everyone else*.
+- After your success, other things become easier, but not for *everyone else*, so stay compassionate toward their struggles.
+- We often imagine that we have conquered something, but in fact the success has merged our [identity](identity.md) to whatever we've attained.
 
 Never abuse your power with others or gloat over their failures:
 

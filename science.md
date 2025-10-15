@@ -53,7 +53,7 @@ This doesn't mean non-science "science" doesn't have its merits. The emphasis on
 
 Further, to answer every presently obvious question would yield many more beyond them, and the full breadth of scientific knowledge will never, *ever* end until either our [desire to understand](understanding.md) ceases or we've mastered all aspects of the universe.
 
-[Scientism](science-scientism.md) is a unique philosophy that takes science farther than [its function](purpose.md) permits.
+[Scientism](https://trendless.tech/scientism/) is a unique philosophy that takes science farther than [its function](purpose.md) permits.
 
 Further, [social fashions](trends.md) will always sway scientific values dramatically, mostly because very intelligent people can often have [absolutely no common sense](https://gainedin.site/idiot/).
 

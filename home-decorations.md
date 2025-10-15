@@ -267,6 +267,7 @@ Living room, kitchen, and family room:
   2. Glue the inside back binding of a book below the bracket.
   3. Stack books on top of it.
 - Paint the lock of a sliding door white to see if it's locked from a distance.
+- Attach aquarium tubing to a large container of suap underneath the sink to the soap dispenser to save the trouble of having to refill it manually.
 
 Bedrooms:
 

@@ -1,7 +1,6 @@
 
 # Specific file information and configs
 
-
 ## Locked files/databases
 
 Windows: locked Office file

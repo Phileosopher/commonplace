@@ -148,6 +148,11 @@ Prepare your pool:
 
 ## The days before the party
 
+Plan for the [weather](science-earth-weather.md):
+
+- If it might rain, have a plan for moving everything indoors or invest in a popup canopy.
+  - Use a pool noodle near the edges to prevent rainwater buildup.
+
 Get your non-perishable food and decorations a week before the event:
 
 - Buy all the food and drinks you'll need in bulk.

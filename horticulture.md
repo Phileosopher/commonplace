@@ -109,7 +109,7 @@ Keep up *every* day with weeds.
 - All gardens have weeds, and the only solution is weed killer or pulling them out.
 - 1 weed becomes 4 in a week and 50 in two weeks.
 - Undiluted vinegar in a spray bottle will often kill individual weeds.
-- Improvise weed killer by mixing a gallon of vinegar, 2 cups of Epsom salt, and 1/4 cup dish soap.
+- Improvise weed killer by mixing a gallon of vinegar, 2 cups of salt or Epsom salt, and 1/4 cup dish soap.
 
 ## Issues
 

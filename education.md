@@ -141,6 +141,8 @@ The role of teaching, like every other form of [power](power.md), draws many peo
 
 Most [educational institutions](groups-large.md), though, have no other measurement of a teacher's [influence](influence.md), so they revert to how *long* someone was an educator (i.e., tenure). For this reason, most of the promotion and advancement of a teacher's status comes through [political influence](influence.md) and merely existing in a role, rather than any comparatively universal standard of quality.
 
+Further, the only thing necessary to perform a task well is to imitate the [traditions](habits.md), but knowing how to [master](mind-creativity.md) the tasks requires knowing *why* the traditions exist, so sufficiently teaching at scale can be mistaken for great teaching.
+
 For this reason, many formal teaching institutions run the same risks of any other large-scale system that runs for decades, which makes most official education institutions [dysfunctional](mgmt-badsystems.md):
 
 - Teachers in many schools are often required to teach the same curriculum to every group of students who arrive, meaning they effectively stop learning themselves unless they pursue their education *outside* the classroom.

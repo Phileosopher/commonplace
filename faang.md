@@ -21,7 +21,7 @@ Since the beginning of [the American Military-Industrial Complex](https://gained
 - After the dot-com crash, FAANG emerged after a decade: Facebook/Meta, Apple, Amazon, Netflix, and Google/Alphabet, but other companies like Tencent (owned by China) and Microsoft still fit into it as well.
 - Given the tremendous power that comes from all the data extraction, governments can often fit into this as well, so this issue isn't strictly a matter of corporate power.
 - Lately, the acronym is more accurately Facebook/Apple/Microsoft/Amazon/Government, or FAMAG.
-- Most recently, in the 2020s, there has been significant public attention toward [privacy](computers-cysec-privacy.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
+- Most recently, in the 2020s, there has been significant public attention toward [privacy](people-boundaries.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
 
 The largest difference between the computers of today and of decades ago (besides processing speed) comes in how networked they all are. Up to the internet becoming popular, computers were stand-alone, so the information couldn't be used as quickly, and often required physically inserting a disk into the computer. Now, the computers are all linked together, communicating exponentially more information, and *constantly*.
 

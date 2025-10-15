@@ -62,6 +62,13 @@ Very often, there's a violent counter-reaction to violations of human rights. Mo
 
 The [laws of a territory](people-rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
 
+History has shown that enforcing of a person's rights can only come from a specific perspective:
+
+1. Rights are [God](god.md)-given, bestowed implicitly as inherent liberties that give people the freedom to act.
+   - If [a deity](religion.md) doesn't give rights, then the State gives it, meaning [slavery](slavery.md) is always justified as long as the State has the [power](power.md) to enforce it.
+2. While mankind can bestow more privileges (e.g., free food), their most effective means of getting people to act is to [take away rights](people-rules-methods.md).
+3. Therefore, every criminal justice system is built around taking away rights, and the entire civil justice system is built around paying lawyers tons of money to enforce one's own rights.
+
 For everyone to be truly free, we need [rules](people-rules.md) to protect when people violate others' freedoms.
 
 - Those rules involve taking away the rights of people who have failed in the responsibilities associated with those rights.
@@ -92,6 +99,7 @@ Many times, people believe their privileges *are* rights, often from a privilege
 - Being believed isn't a right because that would infringe on others' rights to think and believe what they want.
 - Any physical possession or property isn't a right if it significantly harms other individuals.
 - [Love](people-love.md) isn't a right, since that would require others to desire differently than they prefer.
+- Any service another person provides (e.g., [education](education.md), [auto](autos.md) repair) isn't a right because it would force them into [slavery](slavery.md)
 
 APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
 

@@ -1008,12 +1008,13 @@ Ants:
   - Sprinkle cayenne pepper.
   - Spray vinegar.
   - Draw a line of chalk.
+  - Place a cottonball dipped in peppermint oil near windows.
 - Kill them to keep them from coming back:
   - Spray with window cleaner.
   - Spray with room freshener.
   - Set out small piles of cornmeal.
   - Spray with a mixture of three parts water and one part salt.
-- Place a cottonball dipped in peppermint oil near windows.
+  - Mix 4 parts syrup and 1 part borax, heat until warm, then place on paper plates near their nest.
 
 Birds:
 

@@ -51,3 +51,24 @@ Designing for physical reality is difficult, so engineers *must* accommodate imp
 - Add random problems to the system during testing *on purpose* to see what might break.
 - Create backup systems that can *thrive* when the first things break.
 - If you need a complex system, string together multiple simple systems.
+
+## Metal: Ironworking
+
+Steel is a specific form of ironwork:
+
+- Wrought iron is an iron alloy with very little carbon (~0.08%).
+  - It simply involves heating iron, then working with it.
+- Steel is an alloy composed of iron, carbon (~2-4%), and several other elements that reinforce its structure.
+  - It requires a unique firing process that involves adding and removing various components to create the final alloy.
+
+Steel goes through the entire range of color as it heats:
+
+- ~199°C: tan
+- ~241-249°C: brown
+- ~271°C: purple
+- ~302°C: blue
+- ~427°C: dark grey
+- ~593°C: slight red
+- ~815°C: bright red
+- ~927°C: orange
+- ~1093°C: yellow

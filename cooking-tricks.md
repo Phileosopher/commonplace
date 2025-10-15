@@ -3,6 +3,8 @@
 
 Avoid messy hands with sticky foods by getting your hands cold and wet before handling them.
 
+To measure sticky items when baking, press the measuring cup into the flour, then pour it into the indentation.
+
 To clean measuring cups more easily, they should be wet with hot water.
 
 Instead of cutting herbs, thin vegetables, pizzas, bread, and wraps with a knife, use scissors.
@@ -207,7 +209,7 @@ Warm plates with a toaster oven instead of a conventional oven:
 - Standard ovens have a typical minimum heat setting of 200° F.
 - Toaster ovens heat at lower temperatures than most standard ovens.
 
-### Breads/Starches
+### Restoring breads and starches
 
 Frozen sandwiches and baked goods: wrap in a dry paper towel when microwaving to ensure they won't get soggy.
 
@@ -232,7 +234,7 @@ Remove staleness from bread by adding moisture:
 - Make potato chips crispy again by microwaving them on paper towels for a few seconds.
 - Make tortilla chips fresh again by baking them in the oven at 375 °F (191 °C) for 10 minutes.
 
-### Meat & Nuts
+### Restoring meat and nuts
 
 Casseroles: reheat by cutting vents into wax paper and covering the dish in a microwave.
 
@@ -248,7 +250,7 @@ Stir-fry: reheat in a microwave, stir regularly and let it stand afterward.
 
 Nuts and seeds: Restore flavor by microwaving them for 15 seconds.
 
-### Vegetables
+### Restoring vegetables
 
 Boiled vegetables: reheat in a microwave, spread out and covered with a damp paper towel.
 
@@ -268,7 +270,7 @@ Perk up limp greens:
    - Optionally, add a tablespoon of vinegar.
 3. Let it sit for 15 minutes, then drain and spin in a salad spinner.
 
-### Dairy
+### Restoring dairy
 
 Even though it tastes disgusting, sour milk is perfectly safe to drink.
 

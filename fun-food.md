@@ -225,6 +225,8 @@ Fruit desserts:
   - Freeze until it hardens.
 - Chocolate strawberries:
   - Freeze chocolate and strawberries together in an ice tray.
+- Dried strawberries:
+  - Bake for 3 hours at 210 degrees.
 - Frozen bananas:
   1. Peel 2-4 ripe bananas and let them sit in the freezer for an hour.
   2. Slice up and put in a blender.

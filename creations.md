@@ -127,6 +127,8 @@ The ability for someone to build a seemingly new thing is a product of their [so
 
 Usually, a created thing will be the foundation for other things by future creators. In retrospect, that creation will become "quaint" (e.g., a tired trope). However, the higher-quality work by later creators *needed* the lesser thing as the foundation for their existence.
 
+APPLICATION: The traditions and tropes revolving around a craft are often necessary, and problems arise when removing them simply because we don't understand why they do it (i.e., "[Chesterton's Fence](lawsaxioms.md)").
+
 We create at a speed proportional to how much we [believe](understanding-certainty.md) the creation will create [desirable results](results.md). On larger projects, this means we work faster near the beginning (since we don't [understand](understanding.md) how much work the project will require) and near the end (since we can see the entire project coming together).
 
 APPLICATION: It's critical, when we're ever creating things of value, to consume the right things. We tend not to discriminate between quality when recalling, so consuming bad-quality things will yield inferior work than if we'd consumed [high-quality](values-quality.md) things.

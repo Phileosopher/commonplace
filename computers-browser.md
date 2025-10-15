@@ -108,7 +108,14 @@ When you type in SomeWebsite.com, each of the domains has a "top level domain" (
 - .biz
 - [Many, many, many more](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-These TLDs are authorized by [ICANN](https://www.icann.org/), a [nonprofit-in-name-only](mgmt-npo.md) that issues those domains. Different organizations can buy them, then sell the subdomains at a fixed price. Some TLDs (like .edu or .gov) are only granted to specific authorities, but most of them are free-for-all first-come first-serve.
+These TLDs are authorized by [ICANN](https://www.icann.org/), a [nonprofit-in-name-only](mgmt-npo.md) that issues those domains. Different organizations can buy them, then sell the subdomains at a fixed price.
+
+Most domains are free-for-all first-come first-serve, with a secondary market for selling them. However, some TLDs are only granted to specific authorities, such as the following examples:
+
+- .edu: educational institutions
+- .org: not-for-profit organization
+- .mil: US military
+- .gov: US government
 
 Below that, there are second-level domains (e.g. **somewebsite**.com). Further than that, there are also subdomains (e.g., **subdomainat**.somewebsite.com).
 

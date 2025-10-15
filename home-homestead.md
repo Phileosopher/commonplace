@@ -141,6 +141,8 @@ Broadly speaking, nature's elements group into a few major things:
 - Other people, who can kill us and steal from us.
 - Geography-specific elements (volcanoes, geysers, earthquakes, tidal waves), which usually tend to destroy structures and kill people.
 
+### Structure
+
 You do *not* need anything elaborate, though a larger dwelling allows you to do more without any distractions.
 
 - We tend to be distracted by adverse conditions that make us feel unsafe.
@@ -175,6 +177,8 @@ You can improve a rudimentary structure later.
 - Making or acquiring paint can protect wood from rotting.
 - Either bury your valuables or create hidden storage compartments inside your shelter to prevent theft.
 - Make a root cellar or smokehouse to store food more easily.
+
+### Design
 
 In order of relative importance, you need several dwelling rooms:
 
@@ -232,6 +236,8 @@ Whatever dwelling you design, make sure it's accessible later:
 - You should be able to easily clean windows, reach light fixtures, access electrical panels and plumbing controls, access ducting, and open up the walls if something needs [repairing](https://adequate.life/fix/) or [improving](home-decorations.md).
 - If you design it correctly from the beginning, you will save a *lot* of time and money later.
 
+### Contracting
+
 Spend more money than you'd expect on the building's basic structure.
 
 - If you get low-quality building materials, you *will* have to [fix it](https://adequate.life/fix/) later.
@@ -263,6 +269,14 @@ If you're hiring a [contractor](people-6_contracts.md) to build (which is a good
 - Note who you can [save on](money-saving.md): cheap siding installation isn't as devastating as cheap masonry.
 - Your building is a [creative outflow](creations.md) of your [personality](personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
 - Try to be physically present through *all* stages of the construction, since you may miss something important about your preference (e.g., placement of fridge or sinks, counter height).
+
+### Heating and cooling
+
+Make a candle-based clay heater:
+
+1. Place candles at the base.
+2. Surround the candles with bricks, with an opening for lighting them.
+3. On top of the bricks, place a clay pot (for gardening) upside down.
 
 ## Food
 

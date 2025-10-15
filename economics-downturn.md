@@ -87,3 +87,12 @@ People have more time, but less money:
   - Unemployed people are waiting to get a job, so they have time, but they don't have any expendable income.
 - More people walk or ride bicycles.
   - They either can't drive (because their car is broken down) or they're trying to combine [saving money](money-saving.md) with [being healthier](body-4_health.md).
+
+Investors are nervous:
+
+- The long-term 10-year bond yield is lower than short-term 2 or 3-month debts ("yield curve inversion")
+  - Lenders are afraid borrowers won't pay their debts, so they'd rather see their money back than make more of it.
+- The price-to-earnings ratio for the entire market is overvalued ("Shiller P/E ratio")
+  - People are investing into things that give lower returns, meaning they're not getting as much value for what they're spending.
+- A smaller ratio of companies have more of the investment share.
+  - Investors are uneasy, so they pick big and boring companies.

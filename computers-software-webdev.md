@@ -9,6 +9,16 @@ Every single "thing" on the internet is given a sequence of characters as a "uni
 
 Most network [protocols](standards-computers.md) work over the internet. Since it's a worldwide network, various protocols and standards need to talk with each other, and their interoperability can be an *extremely* complicated endeavor.
 
+1. HTML was invented in 1990 to send text over the internet.
+2. CSS was created in 1994 to fix HTML's shortcomings.
+3. JavaScript was made in 1995 to fix the shortcomings of HTML and CSS.
+4. jQuery is a JavaScript library made in 2006 to make JavaScript easier to work with HTML and CSS.
+5. AngularJS was an attempt in 2010 to fix jQuery.
+6. React was made in 2013 to fix AngularJS.
+7. Vue was made in 2014 to fix React and Angular.
+8. Others like Svelte, Solid, and HTMX were made to fix React onward.
+9. About 75% of the websites still run on jQuery.
+
 To add to the above complexity, there are also [cybersecurity](computers-cysec.md) concerns from literally the entire planet. Every website essentially needs a [signed certificate](computers-cysec-authentication.md) to be trustworthy. Even then, it's absolutely crucial to develop [healthy web browsing habits](computers-cysec.md).
 
 ## Hardware

@@ -92,15 +92,18 @@ But, there are also major risks with it:
 - The bureaus are intentionally *not* easily available for disputing the information.
 - If you ever [lie](people-lying.md) about anything that materially exists in your legal fiction, *that* will often be reported as well.
 - If there's ever a clerical error (e.g., typographical error on a name, Social Security number entered incorrectly), that will connect to an entirely *different* entity and not count positively toward your score (and may even make the report indicate more people than there actually are).
+- The information tracks correlation, but not causation. It is very easy to cause trouble for yourself without realizing it:
+  - Having an argument with an awful neighbor who escalates by calling the police on you and lying about you could give you the same reputation as someone who legitimately causes trouble.
 
 The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](money-accounting.md) information.
-  - It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
+
+- It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
 - There's zero grace if you screw up, since any chance to explain your situation will *only* work with one person at a time.
   - Even one missed payment, on *anything*, can harm your score, and there's nothing you can do about it except earn it back with future payments.
   - If you ever incur a [criminal record](legal-safety.md) of any sort, the only way to fix it is to wait out your probation/parole then move to another state/region, and that *still* won't fix it.
 - The only way to fully fix a tarnished record is with better decisions and time.
   - The improved evidence won't erase the record of what happened, but it'll make your future engagements work out fine once those older records fall off.
-  - Expect your record to improve around 3, 5, 7, and 10 years, from the date of the infraction.
+  - Expect your record to improve at 3, 5, 7, or 10 years to the date of the infraction.
 - Since they don't need to contact you, they won't put much effort into it until they have to.
   - If they reach out 2-3 times, they've legally fulfilled *their* requirement to contact you, and will act according to a [compliance-based](people-rules.md) form of their best interests.
   - Always [keep your address current](home-moving.md), access your email at least weekly, and check your voicemail at least a few times a week.
