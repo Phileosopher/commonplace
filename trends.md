@@ -93,6 +93,8 @@ Most early adopters are closely watching the innovators to gain [influence](infl
 
 When their [intuition](mind-feelings.md) senses that the public will generally accept something, they'll adopt it in an attempt to [influence](influence.md) everyone else toward it. They not only have to have evidence that the idea is [true](reality.md), but that others will also like it.
 
+APPLICATION: The nerd will never make it as far in society as the nerd-watcher who steals from them.
+
 The most [creative](mind-creativity.md) uses of the thing come with the early adopters, mostly because there are very few established [rules](people-rules.md) or [expectations](imagination.md) of how to use it.
 
 Early adopters' experiments will yield remarkable [solutions](purpose.md) and abuses of [power](power.md), but nowhere *near* as prevalent as later on. However, its novelty will generate *major* public reactions from it.
