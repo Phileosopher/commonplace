@@ -1,4 +1,6 @@
 
+[How to Build a Flexible API with Feature Flags Using Open Source Tools](https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/)
+
 NOTE: This page is a bit wobbly, and will probably be the top-level aspect of things that are in other pages
 - concurrency
 - functional, object oriented, etc

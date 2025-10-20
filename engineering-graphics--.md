@@ -629,6 +629,8 @@ React debugging tools to the Chrome Developer Tools. It allows you to inspect th
 [Next.js 10 | Hacker News](https://news.ycombinator.com/item?id=24908729)
 [Next.js 10 | Next.js](https://nextjs.org/blog/next-10)
 
+[How to Optimize Next.js Web Apps for Better Performance](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/)
+
 ## life drawing
 
 [PaintingDemos: Life Drawing Techniques](https://paintingdemos.com/life-drawing-techniques-and-methods/)

@@ -1,4 +1,6 @@
 
+[How to Make Learning to Code Easier by Focusing on the Fundamentals](https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals)
+
 ## 0 comparisons
 
 A functional programming language, such as Erlang or Haskell, much of

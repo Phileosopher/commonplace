@@ -45,6 +45,11 @@ A practitioner's guide to increasing confidence in system correctness
 [Distributed Systems Shibboleths | Hacker News](https://news.ycombinator.com/item?id=31217802)
 [Distributed Systems Shibboleths | Joey Lynch's Site](https://jolynch.github.io/posts/distsys_shibboleths/)
 
+[The CI/CD Handbook: Learn Continuous Integration and Delivery with GitHub Actions, Docker, and Google Cloud Run](https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/)
+[How to Build a Weather App with R Shiny](https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/)
+
+[The Microservices Book – Learn How to Build and Manage Services in the Cloud](https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/)
+
 ## architectures
 
 the design across the various systems is either client-server, or peer-to-peer
@@ -621,6 +626,8 @@ Achieving customer value requires more than just software development and IT ope
 
 [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/disciplineddevops/)
 Disciplined DevOps
+
+[How to Write User Stories for Beginners: Agile in Practice](https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/)
 
 [Manisha Sahasrabudhe](https://sdtimes.com/stuck-new-devops-matrix-hell/)
 (2017) Are you stuck in the new DevOps matrix from hell?

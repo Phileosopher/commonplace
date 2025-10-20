@@ -152,3 +152,12 @@ Number the desires in order of importance to you. Attending to the category of y
 God w/ Man:
 He wants us to be adopted children
 Grace + Faith = Works
+
+
+## giving secretly
+
+tithe in cash, not by check
+
+- this expands your rewrd in heaven
+- it also enhances the faith of the leadership because they muat trust God for where the "oney came from
+

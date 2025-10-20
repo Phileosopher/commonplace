@@ -1,4 +1,16 @@
 
+[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time](https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/)
+
+[What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs](https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/)
+
+[How to Create a Meme Generator Using HTML Canvas](https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/)
+
+[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers](https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/)
+
+[How to Build Scalable Access Control for Your Web App [Full Handbook]](https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/)
+
+[How to Reverse Engineer a Website – a Guide for Developers](https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/)
+
 ## 0oldformat
 
 OLD FORMAT:

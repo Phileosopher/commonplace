@@ -819,6 +819,8 @@ Git Please: how to force push without being a jerk
 [Nicola Paolucci](https://www.atlassian.com/blog/git/advanced-git-aliases)
 One weird trick for powerful Git aliases
 
+[How to Simplify Your Git Commands with Git Aliases](https://www.freecodecamp.org/news/how-to-simplify-your-git-commands-with-git-aliases/)
+
 ## git branching
 
 [Learn Git Branching](https://learngitbranching.js.org/)

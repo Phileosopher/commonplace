@@ -36,3 +36,22 @@ All the layers give inspiration, because God is very clever.
 [hermeneutical approaches - What is morphological analysis, as it relates to Bible study? - Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/questions/2243/what-is-morphological-analysis-as-it-relates-to-bible-study)
 
 [What is the Wisdom of Solomon? | GotQuestions.org](https://www.gotquestions.org/Wisdom-of-Solomon.html)
+
+## from gospel splice intro
+
+
+	One of the most infuriating realities of Christian tradition is the absence of certain details. The purpose of this transcription, to put simply, is my personal attempt to find harmony to the multiple accounts of Jesus’ life.
+
+	The Bible, as a broad concept, is a collection of stories. This doesn’t repudiate the book, as all human accounts are stories, but it does mean the Bible isn’t merely a dry chronicle of events, and each event was recorded for a reason. This often only becomes apparent through certain details after multiple readings.
+
+	The Bible is a symphony of ideas and, as of right now until the Millennial Kingdom, the Gospel accounts are the centerpiece. Very frequently, the value of those ideas comes in how frequently they repeat: all four accounts cover Jesus feeding the multitudes with five loaves and two fishes, but only Luke references Jesus sending out seventy people in pairs. It’s important to know how much God wants to emphasize certain points.
+
+	The word of God is not “the words of the Bible”, but is something more immaterial. It may be Jesus himself, or the Holy Spirit, or an abstracted essence that we call “Scripture”, but has no physical implementation.
+
+	What I’m implying by this is that the Scripture exists beyond the words of the biblical texts, and the texts themselves only allude to that spirit.
+
+	As a philosophical thought experiment, imagine the hypothetical possibility that every single Bible were to be burned or deleted right now, and there was no Bible left. And, to avoid further complications to this thought experiment, imagine that Jesus’ time was destined for 1,000 years into the future. Would the Bible cease to exist?
+
+	The answer to that, to put plainly and bluntly, is “no”. God would be able to reproduce the Bible, word-for-word, using the Holy Spirit through a person or people. This means that the text means nothing, but the spirit of that text is unyielding.
+
+	The natural product of this is that spiritual wisdom doesn’t necessarily come through the Scripture, but is the most reliable source of it. Without this distinction, all the documentation and teaching by theologians, pastors, priests, and evangelists is worthless tripe, and we should all try to read ancient documents to find out precisely what school to send our children to or what sorts of music is permissible in a church service.

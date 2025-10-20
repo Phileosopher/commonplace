@@ -1,4 +1,6 @@
 
+[SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning](https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/)
+
 ## visual - imitation_learning
 
 [kristery/Awesome-Imitation-Learning: A curated list of awesome imitation learning resources and publications](https://github.com/kristery/Awesome-Imitation-Learning)
