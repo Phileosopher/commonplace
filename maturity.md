@@ -9,7 +9,7 @@ Those prejudices are common sense, but only "common" to someone who has come to 
 
 ## Awareness + virtue
 
-Immature people, as a general rule, are aware of [injustice](morality-justice.md), but they tend to attribute it to odd causes like bystanders or claim their [decisions](decisions.md) are a product of [victimhood](politics-leftism.md). They will also tend to treat their [bias](mind-bias.md) as [fact](reality.md).
+Immature people, as a general rule, are aware of [injustice](morality-justice.md), but they tend to attribute it to odd causes like bystanders or claim their [decisions](people-decisions.md) are a product of [victimhood](politics-leftism.md). They will also tend to treat their [bias](mind-bias.md) as [fact](reality.md).
 
 We gain experiences as we grow older. These experiences shape us to create accurate [prejudices](image.md) about life if we [understand](understanding.md) how they work and what they imply.
 
@@ -17,7 +17,7 @@ Maturity is mostly [intuition](mind-feelings.md). Like with all other intuition,
 
 APPLICATION: Younger people are more often exploited by [influential](influence.md) people who can [distort their image](image-distortion.md) to imply their [virtuousness](morality.md).
 
-One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](decisions.md) they have made.
+One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](people-decisions.md) they have made.
 
 As people mature, they become increasingly unaffected by their environment because they experience less [novelty](image.md) from their experiences. If they've gained enough wisdom, they won't react to how they [feel](mind-feelings.md) as much as to what they [know](understanding.md). Their increased [understanding](understanding.md) will mean most of their "soft skills" are usually better. They'll be more decisive with words, speak more intentionally, walk more elegantly, and manipulate objects more precisely.
 
@@ -103,7 +103,7 @@ When we look at someone younger, we track their maturity by how we [imagine](ima
 
 APPLICATION: Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war.md) for the younger generation. At that point, the older generation will either feel [shame](mind-feelings-shame.md) or arrogance, depending on how they [internalized the story](stories.md).
 
-APPLICATION: As people age, their [decisions](decisions.md) are *always* more well-considered, but not always wiser. Wisdom requires adding [morality](morality.md) to [understanding](understanding.md).
+APPLICATION: As people age, their [decisions](people-decisions.md) are *always* more well-considered, but not always wiser. Wisdom requires adding [morality](morality.md) to [understanding](understanding.md).
 
 We don't think about maturity in others until it's unusual by the standards of our [cultural intuition](people-culture.md). People don't usually identify maturity in their peers unless the person is behaving *very* differently than them.
 
@@ -130,14 +130,14 @@ While it varies by [culture](people-culture.md), a rite of passage is a transiti
 - That person has come to understand what they *can't* do and the right things to [trust](trust.md) for handling the situation.
 - Their [group](groups-member.md) believes from that person's experience that they've [changed](people-changes.md) enough that they're now a junior member of society instead of a dependent child.
 
-Children are often destructive, needy, and have a poor [understanding](understanding.md) of [how to thrive](goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](identity.md) through contrasting their [decisions](decisions.md) against how they were raised.
+Children are often destructive, needy, and have a poor [understanding](understanding.md) of [how to thrive](goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](identity.md) through contrasting their [decisions](people-decisions.md) against how they were raised.
 
 During the transition, and irrespective of the culture, a child will do a few things in an approximate order:
 
 1. Try to question *everything* their [family](people-family.md) has [trained into them](understanding.md).
 2. Turn to [friends](people-friends.md) to find alternatives to what they were raised in.
 3. Resolve their [conflicts](conflicts-inner.md) between the two or more competing views. This can frequently include vocally standing against [authority figures](groups-small.md).
-4. Make permanent [decisions](decisions.md) about what [values](values.md) they wish to honor. Others' [evil](morality-evil.md) actions can stall their development, but they can expedite the decision-making process with [wisdom](understanding.md).
+4. Make permanent [decisions](people-decisions.md) about what [values](values.md) they wish to honor. Others' [evil](morality-evil.md) actions can stall their development, but they can expedite the decision-making process with [wisdom](understanding.md).
 
 This rite of passage is necessary for social harmony because it demarcates between "adult" leaders and "child" followers, as well as carving out a person's [identity](identity.md) in light of that distinction. Because of the risks of choosing wrongly, every single rite of passage will exclude at least some people who don't fulfill it, from both aspects of laziness and incompetence.
 
@@ -152,13 +152,13 @@ In the absence of a clear rite of passage, most children end up persisting in a 
 - [Conflicts](people-conflicts.md) with [law enforcement](people-rules.md)
 - Experiencing hardship or loss they must overcome
 
-APPLICATION: A rite of passage will always have people who will never pass the ritual's criteria. A [group leader](groups-small.md) must know beforehand [what to do](decisions.md) with those people.
+APPLICATION: A rite of passage will always have people who will never pass the ritual's criteria. A [group leader](groups-small.md) must know beforehand [what to do](people-decisions.md) with those people.
 
 Often, [marriage](relationships-marriage.md) can mix with a rite of passage, though the [culture](people-culture.md) can vary it dramatically. Some cultures value marriage as an inherent passage into adulthood, while others treat it as the termination of being young.
 
 ## Advancing
 
-As a person gains more life experiences, their [decisions](decisions.md) start developing clear patterns. Over time, the best measure of a person will frequently be expressed through the series of changes they engage in. They will endure more rites of passage through their life stages, which will slowly form into an ever-adapting, slowly solidifying [story](stories.md).
+As a person gains more life experiences, their [decisions](people-decisions.md) start developing clear patterns. Over time, the best measure of a person will frequently be expressed through the series of changes they engage in. They will endure more rites of passage through their life stages, which will slowly form into an ever-adapting, slowly solidifying [story](stories.md).
 
 As someone keeps experiencing life and starts finding their ideal approach, they stop being as [malleable](people-changes.md) as when they were younger. This is a sign someone's experiences have conformed them to a distinct [personality](personality.md) and [expression](image.md), but anyone significantly younger will see them as more an "institution" than a changing and dynamic individual.
 

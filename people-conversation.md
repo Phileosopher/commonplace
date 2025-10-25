@@ -11,10 +11,10 @@ The expression of [language](language.md) for that particular purpose implies th
 
 We're [habituated](habits.md) to conversations, so we treat them as a relatively simple process, but it's a rather elaborate mechanism:
 
-1. Person A makes [decisions](decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](imagination.md) what Person B is likely perceiving.
+1. Person A makes [decisions](people-decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](imagination.md) what Person B is likely perceiving.
 2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](image.md) and [understood](understanding.md) them as they send it.
 3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
-4. Person B [decides](decisions.md) how to respond to Person A, then the role is reversed.
+4. Person B [decides](people-decisions.md) how to respond to Person A, then the role is reversed.
 5. As the conversation persists, Person A and Person B maintain partial [memory](mind-memory.md) of *all* the past information they recorded, and will draw on it at *any* time in the future, even decades later.
 
 This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](image.md) with the partial perspective of another person. This is effectively another [story](stories.md) to add to our experiences.
@@ -28,7 +28,7 @@ Our communication skill comes through two major sub-skills:
 1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](image.md) they see (listening).
 2. How well we can [convey](results.md) the [image](image.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
 
-Our [creative](mind-creativity.md) [decisions](decisions.md) are essentially the [image](image.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](trust.md) us.
+Our [creative](mind-creativity.md) [decisions](people-decisions.md) are essentially the [image](image.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](trust.md) us.
 
 - At the very least, if they don't trust us, they see our image of reality as the viewpoint we hold and make a [judgment](image.md) from that.
 
@@ -36,7 +36,7 @@ We're always constrained by our [medium](creations.md), whether it's through [wr
 
 ## Background information
 
-Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](decisions.md) with respect to our culture or [integrate our shadow](personality.md).
+Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](people-decisions.md) with respect to our culture or [integrate our shadow](personality.md).
 
 We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](results.md).
 
@@ -47,7 +47,7 @@ Even if we *could* precisely share an idea, we wouldn't have time to completely 
 We use several factors to choose which and how many details to incorporate into our messages:
 
 - Our interpretation of what our listener [wants](purpose.md) to see.
-- Our [personalities](personality.md) and [preferences](decisions.md) for how we wish to approach something.
+- Our [personalities](personality.md) and [preferences](people-decisions.md) for how we wish to approach something.
 - The [social context](people-culture.md) for what we're sharing (e.g., location, [available time](datetime.md), [purpose](purpose.md) of the event).
 - Our [interpretation](imagination.md) of the most successful means of [conveying information](education.md).
 
@@ -86,7 +86,7 @@ To avoid failing with words, we must focus on [fixing](https://adequate.life/fix
 
 First, we must think through what people said more thoroughly. This requires taking time to parse what they said and what it may [imply](mind-feelings.md). The flow of conversation moves slower, but people understand each other more. This probably won't happen across society, but individuals can gain *tremendously* from the practice, especially in [heated conflicts](people-5_conflicts.md).
 
-Second, we should be cautious about how our usage of words can imply an [image](image.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](results.md) of [decisions](decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
+Second, we should be cautious about how our usage of words can imply an [image](image.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](results.md) of [decisions](people-decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
 
 Finally, we must closely examine every time we [identify](identity.md) with words. One useful trick is to compare any discrepancy between the words we use to describe ourselves versus how we'd feel if others said it about us.
 

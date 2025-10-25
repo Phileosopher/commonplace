@@ -1,7 +1,7 @@
 
 # What habits are
 
-A habit is anything that psychology broadly classifies as "conditioned response". Unless we're making a [conscious](humanity.md) [choice](decisions.md), our behaviors are dictated by habits.
+A habit is anything that psychology broadly classifies as "conditioned response". Unless we're making a [conscious](humanity.md) [choice](people-decisions.md), our behaviors are dictated by habits.
 
 Habits are a type of neurological [story](stories.md) with a relatively simple mechanism:
 
@@ -15,11 +15,11 @@ Habits are a type of neurological [story](stories.md) with a relatively simple m
    - The reward could be *anything* real or imagined, including a feeling or sense of duty.
    - That reward comes through a [belief](understanding-certainty.md) that the current incident will play out the same way we encoded a prior experience in our [memory](mind-memory.md).
 
-Another way to see habits is as the transition our conscious [decisions](decisions.md) to the subconscious.
+Another way to see habits is as the transition our conscious [decisions](people-decisions.md) to the subconscious.
 
-Habits are more powerful than mere [decisions](decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
+Habits are more powerful than mere [decisions](people-decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](people-decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
 
-We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](decisions.md) or [consequence](results.md).
+We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](people-decisions.md) or [consequence](results.md).
 
 We chemically experience pleasure when we create the [results](results.md) we [expected](imagination.md), but it's diminished when we don't.
 
@@ -59,11 +59,11 @@ Living "[in the moment](awareness.md)" is the only way to fight habits' eventual
 
 As we [age](maturity.md), habits become increasingly difficult to change, mostly because our brains run *many* neural pathways along highly-used pathways. It's always possible for us to change, but we tend to [fear](mind-feelings-fear.md) it more as we get older because we've grown accustomed to the way we've done things.
 
-Since we're not directly conscious of most of our habits, time passes *much* more quickly when we let them run our lives. People will remember the events of their first 20 years (especially [adolescence](maturity.md)) much more than the next 30 because there are comparatively few *[new](image.md)* events that require new [decisions](decisions.md).
+Since we're not directly conscious of most of our habits, time passes *much* more quickly when we let them run our lives. People will remember the events of their first 20 years (especially [adolescence](maturity.md)) much more than the next 30 because there are comparatively few *[new](image.md)* events that require new [decisions](people-decisions.md).
 
 ## Adaptations
 
-Humans are the only creatures on this planet that can stop mid-habit and question their actions and thoughts. That knowledge gives us the profound [power](power.md) to change our flow of behavior with new [decisions](decisions.md).
+Humans are the only creatures on this planet that can stop mid-habit and question their actions and thoughts. That knowledge gives us the profound [power](power.md) to change our flow of behavior with new [decisions](people-decisions.md).
 
 Whenever the pleasure of a reward lasts for more than 8 seconds, it's hitting *far* more than mere animal stimuli. At that point, it affects our [souls](humanity.md).
 

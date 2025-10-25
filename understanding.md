@@ -99,7 +99,7 @@ Often, the best way to understand something is to [write it down](language-writi
 
 ## The perspectives from understanding
 
-There are *many* ways to [see something](image.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
+There are *many* ways to [see something](image.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](people-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
 
 The best way to understand other perspectives isn't from simply understanding what someone believes, or whether it's [right or wrong](morality.md). To understand another viewpoint, you must understand *why* they came to that conclusion, and the implications of that set of ideas.
 
@@ -109,7 +109,7 @@ APPLICATION: To gain the greatest understanding, we must push to find new experi
 
 Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](https://gainedin.site/networks/) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
 
-Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
+Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](people-decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
 
 We also must revisit the same expression multiple times to accurately capture it, often through [self-reflection](imagination.md). For that reason, people with heavy understanding are often very ponderous and thoughtful, and sometimes very slow to act.
 
@@ -201,7 +201,7 @@ APPLICATION: You can only understand something someone else says when you can sa
 
 ## Specialized understanding
 
-Assembling our perceptions and experiences together presents us with a [decision](decisions.md):
+Assembling our perceptions and experiences together presents us with a [decision](people-decisions.md):
 
 1. Heighten our knowledge to broaden all known possibilities.
 2. Test our theories to reduce the likely possibilities.
@@ -229,7 +229,7 @@ We tend to integrate what we understand slowly, so there's always a lead time be
 
 Understanding is more useful than raw intelligence, since it's the difference between [power](power.md) and [focus](purpose.md). We can train understanding, but intelligence is mostly genetic. Intelligence is sometimes useful, but understanding is *always* [useful](purpose.md), even if it's not always wise to use it.
 
-In a sense, the [virtue](morality.md) of honesty or integrity directly corresponds to wisdom because it indicates how much someone will work to understand. More intelligence means more *opportunities* for wisdom, though that person's [decisions](decisions.md) dictate how far they actually go.
+In a sense, the [virtue](morality.md) of honesty or integrity directly corresponds to wisdom because it indicates how much someone will work to understand. More intelligence means more *opportunities* for wisdom, though that person's [decisions](people-decisions.md) dictate how far they actually go.
 
 APPLICATION: If an intellectual has been able to easily comprehend their environment, that person is often less wise because they never had to learn the patience necessary to understand the fullest aspect of the things they observe.
 
@@ -251,7 +251,7 @@ APPLICATION: The more we know, the more possible perspectives we see we may be a
 
 As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](people-culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
 
-APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
+APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](people-decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
 
 At the same time, confidence for wise people is granular. For example, someone may know they're an expert in commercial interior plumbing, but will know how little they understand in other plumbing-related disciplines.
 

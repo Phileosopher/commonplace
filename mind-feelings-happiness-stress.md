@@ -194,7 +194,7 @@ We tend to have a "center" that satisfies many of our needs:
 Unmet needs will eventually ferment into an existential crisis:
 
 - Familiar and common things will feel bizarre.
-- Personal [choice](decisions.md) will feel severely limited.
+- Personal [choice](people-decisions.md) will feel severely limited.
 - We begin overemphasizing [death and mortality](hardship-death.md).
 - We become aware that we can't reliably plan major life decisions.
 - Further, once we realize we can't anticipate *anything*, we'll develop an anxiety and terror from that [uncertainty](understanding-certainty.md).
@@ -238,7 +238,7 @@ Social media sets false standards for our expectations about pretty much everyth
 
 More choices create more dissatisfaction:
 
-- More options mean you invest more energy into the [decision](decisions.md), meaning you expect the thing to give better results.
+- More options mean you invest more energy into the [decision](people-decisions.md), meaning you expect the thing to give better results.
 - Remove possibilities to get more satisfaction from your decisions:
 
 Control your expectations:

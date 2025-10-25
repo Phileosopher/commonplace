@@ -29,7 +29,7 @@ Because of [human nature](humanity.md), every single game will have cheaters, in
 
 While the cheaters may enjoy it, everyone else will stop having any more [fun](fun.md) with the game because it's an abuse of [power](power.md) and doesn't feel very [fair](morality-justice.md). However, at that point it's not wrong at all to cheat back, and some games (e.g., [cybersecurity](safety-security.md)) become meta-games from everyone trying to win the "game-over-a-game".
 
-Note, however, that some people who are far more [creative](mind-creativity.md) will find ways to stay *inside* the [rules](people-rules.md) while taking advantage of facts that require experience or perceptiveness to exploit. They can [distort appearances](image-distortion.md), imply they'll [act](decisions.md) or [think](logic.md) a certain way, or force their opponent to misuse their [power](power.md).
+Note, however, that some people who are far more [creative](mind-creativity.md) will find ways to stay *inside* the [rules](people-rules.md) while taking advantage of facts that require experience or perceptiveness to exploit. They can [distort appearances](image-distortion.md), imply they'll [act](people-decisions.md) or [think](logic.md) a certain way, or force their opponent to misuse their [power](power.md).
 
 With [technology](technology.md), we can [recreate](creations.md) the experience of most things, which means we can give a *very* similar experience and [feeling](mind-feelings.md) of [reality](reality.md):
 

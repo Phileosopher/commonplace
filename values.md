@@ -55,7 +55,7 @@ Therefore, for values to be useful, they must fulfill several simultaneous crite
 
 1. Based on [reality](reality.md).
 2. Socially [constructive](results.md).
-3. Immediate and [controllable](decisions.md).
+3. Immediate and [controllable](people-decisions.md).
 4. Free of any general aspects that could lead to [confusion](image-distortion.md) or [uncertainty](unknown.md).
 
 APPLICATION: General ideas are generally useful, but not in a practical sense until we start [testing them](results.md). However, specific ideas can create patterns across other domains, and are the foundation for how we make general ideas. For that reason, theory is *never* as effective as implementation, though it's longer-lasting (which is why [teachers](education.md) love theory and [experts](jobs-specialization.md) don't).
@@ -102,7 +102,7 @@ Firstly, since their very existence is bound by [language](language.md), no indi
 
 Further, we tend to "flavor" our thoughts with experiences that associate with them. For example, if you were instructed to think of a random color for a bird, you're [statistically](math.md) more likely to think of a blue-colored bird because your experience dictates its association, and you'd be affected by the prior paragraph either way.
 
-Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](decisions.md). This doesn't even include the [changes happening around us](trends.md) over time.
+Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](people-decisions.md). This doesn't even include the [changes happening around us](trends.md) over time.
 
 APPLICATION: We must slow down if someone else uses the same [words](awareness.md) as us but is concluding something [irrational](logic.md). They're probably using a different definition of that word than you.
 

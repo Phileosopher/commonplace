@@ -5,7 +5,7 @@ At our core, beyond [reasoning or sensibility](logic.md), we experience the worl
 
 ## Basis
 
-Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](imagination.md). This stimulus can come from our [perceptions](image.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](decisions.md) and [purposes](purpose.md).
+Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](imagination.md). This stimulus can come from our [perceptions](image.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](people-decisions.md) and [purposes](purpose.md).
 
 APPLICATION: If you want to change your feelings, change your physical state. Furrowing your brow will make you think harder, standing up straight will make you more confident, walking faster will make you more productive.
 
@@ -42,7 +42,7 @@ Feelings are inherently social, and our [connections with others](people-friends
 
 Feelings create [bias](mind-bias.md), and we tend to call things that are heavy with feelings "personal experiences". Our so-called "personal experience" makes us very prone to [deceiving](image-distortion.md) ourselves in many directions. When we experience [trauma](hardship-ptsd.md), we have feelings we're [unaware](awareness.md) of that profoundly affect our lives long after the events have passed.
 
-We can discipline ourselves to focus on [reality](reality.md) more, but have no direct [control](decisions.md) over the feelings that flavor our thought. We must experience our feelings to find what beliefs drive them (which is frequently painful) and there's no shortcut to [understanding](understanding.md) them.
+We can discipline ourselves to focus on [reality](reality.md) more, but have no direct [control](people-decisions.md) over the feelings that flavor our thought. We must experience our feelings to find what beliefs drive them (which is frequently painful) and there's no shortcut to [understanding](understanding.md) them.
 
 Most people never break their [bias](trust.md) from the feelings they first sensed. This can be trained, but it requires tons of [meditation](awareness-meditation.md) and [analysis](logic.md).
 
@@ -73,7 +73,7 @@ Far more than any other mammal, we will also mix-and-match *far* more feelings:
 - Anticipation and exhilaration is when we [expect](imagination.md) something fortunate to happen, and disappointment is when it didn't.
 - Confusion is when we [desire](purpose.md) to [know](understanding.md) something but don't.
 - We feel closure when we don't know something, but *don't* desire to know it.
-- If we lose our ability to [trust](understanding-certainty.md) our [decisions](decisions.md), anger will become despair or depression.
+- If we lose our ability to [trust](understanding-certainty.md) our [decisions](people-decisions.md), anger will become despair or depression.
 - Boredom is the combination of curiosity and anger.
 - Regret is when we wish we had done something different, which becomes [shame](mind-feelings-shame.md) in the long-term.
 
@@ -89,11 +89,11 @@ Most of our feelings come from [purposes](purpose.md) we've subconsciously built
 
 We tend to be *very* unaware of our feelings until we experience [results](results.md) from them, which is why we need [emotional outlets](results.md) through [conversations](people-conversation.md) with others about topics we feel strongly about.
 
-Generally, feelings hold [power](power.md) over our [decisions](decisions.md) proportionally to how unaware we are of them.
+Generally, feelings hold [power](power.md) over our [decisions](people-decisions.md) proportionally to how unaware we are of them.
 
 All feelings have an object in mind, at least when we first [perceive](image.md) that object. However, we can often forget the source later, which will leave a neurological haze of generalized thought that triggers that feeling again without much explanation.
 
-When a person isn't [self-aware](awareness.md) of a feeling, they usually staple a quick [decision](decisions.md) to it. People frequently redirect feelings to another source, which psychology calls transference or projection.
+When a person isn't [self-aware](awareness.md) of a feeling, they usually staple a quick [decision](people-decisions.md) to it. People frequently redirect feelings to another source, which psychology calls transference or projection.
 
 APPLICATION: We can differentiate between our [bias](mind-bias.md) and [reality](reality.md) by distinguishing what we're feeling and when. By imagining how we'd perceive if we felt differently, we gain further perspectives and heighten our [understanding](understanding.md) without needing others' input.
 
@@ -135,9 +135,9 @@ When our feelings are configured to experienced [patterns](symbols.md), we have 
 
 Intuitive thinking is *extremely* useful, in its place. It's the basis for how we form [habits](habits.md), and experts in [most fields](jobs-specialization.md) develop intuitive [skills and understanding](understanding.md) that make their job easier and faster.
 
-At the same time, intuition has severe risks. It's only reliable when proven patterns have come before it. Otherwise, we're acting on memories that aren't accurate. If we persist on those past thoughts, it's likely we're imposing our [past trauma](hardship-ptsd.md) into present [decisions](decisions.md) as well (i.e., [dysregulation](awareness-dysregulation.md)).
+At the same time, intuition has severe risks. It's only reliable when proven patterns have come before it. Otherwise, we're acting on memories that aren't accurate. If we persist on those past thoughts, it's likely we're imposing our [past trauma](hardship-ptsd.md) into present [decisions](people-decisions.md) as well (i.e., [dysregulation](awareness-dysregulation.md)).
 
-APPLICATION: [Decisions](decisions.md) while dysregulated are a type of "temporary insanity" that are about 20-40 IQ points lower than our rational thoughts, but simple awareness of them is critical for [wellness](goodlife.md). In fact, the secret to most [awareness](awareness.md) involves simply acknowledging and identifying our feelings through [language](language.md) without taking action.
+APPLICATION: [Decisions](people-decisions.md) while dysregulated are a type of "temporary insanity" that are about 20-40 IQ points lower than our rational thoughts, but simple awareness of them is critical for [wellness](goodlife.md). In fact, the secret to most [awareness](awareness.md) involves simply acknowledging and identifying our feelings through [language](language.md) without taking action.
 
 Further, intuition is *really* difficult to [analyze](logic.md). If our self-reflection ever becomes a judgment of what we feel (instead of merely acceptance), we'll redefine our intuition to new [beliefs](understanding-certainty.md) about what's "right", even [when it's not](personality.md). Over time, that distorted state of [imagination](imagination.md) will become our new "normal" (i.e., "[dysregulation](awareness-dysregulation.md)").
 

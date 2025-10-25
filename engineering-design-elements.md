@@ -78,7 +78,7 @@ Human anatomy sets a general criteria of standards, which can be modulated for s
 
 ## Object selections
 
-A user must be able to quickly gather relevant information and [decide](decisions.md):
+A user must be able to quickly gather relevant information and [decide](people-decisions.md):
 
 - A "default" option or configuration the user will usually use.
 

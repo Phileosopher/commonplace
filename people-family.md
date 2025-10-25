@@ -3,7 +3,7 @@
 
 There are very few things we have absolutely *zero* indirect control over about [ourselves](identity.md). But, beyond most of our physical attributes and where we were born, our family ties are one of the few we're stuck with.
 
-All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
+All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](people-decisions.md) based on [expectations](imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-3_boundaries.md).
 
 Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](people-culture.md) than anyone else's. Unless the dynamics are particularly [dysfunctional](parenting-children-bad.md), we tend to [favor](people-friends.md) those relationships more than non-family.
 
@@ -22,7 +22,7 @@ Healthy family dynamics come through combining several different components that
 
 ## Marriage
 
-The most significant way we can [choose](decisions.md) to extend our family to is through [marriage](relationships-marriage.md). It's usually a male and female mutually [choosing](decisions.md) each other, but historically the choice was from both family [groups](groups-small.md) coming to a [contractual agreement](people-contracts.md).
+The most significant way we can [choose](people-decisions.md) to extend our family to is through [marriage](relationships-marriage.md). It's usually a male and female mutually [choosing](people-decisions.md) each other, but historically the choice was from both family [groups](groups-small.md) coming to a [contractual agreement](people-contracts.md).
 
 Even though the people who marry are most [influenced](influence.md) by a [wedding](relationships-weddings.md) and the subsequent relationship, *every* family member is profoundly influenced in small ways over that marriage. This is the cause of most [family conflicts](people-conflicts.md) (e.g., mother-in-law vs. daughter-in-law).
 
@@ -56,7 +56,7 @@ We end up always representing two roles in our minds: a father and a mother. The
 - The father represents civilization, and defines a developing child's views of how they [define meaning](meaning.md) and [fit into society](jobs-specialization.md).
 - The mother represents sacrifice, and defines a developing child's views of [love](people-love.md) and [human connection](people-friends.md).
 
-Children have their own initial [culture](people-culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
+Children have their own initial [culture](people-culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](people-decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
 
 - Conflict Style: They confront every issue directly and need [guidance](education.md) on how to be more subtle and [tactful](people-rules.md).
 - Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
@@ -84,7 +84,7 @@ As children grow, they tend to find a middle-ground [culture](people-culture.md)
 
 Once those children have [come of age](maturity.md), they are now co-members of their [groups](groups-small.md). Barring *major* dysfunction somewhere, they'll [identify](identity.md) with that group alongside other groups that fit their [purposes](purpose.md), and their personal style of [culture](people-culture.md) blurs together with the collective.
 
-[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](decisions.md) for themselves. Most parents don't [trust](trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
+[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](people-decisions.md) for themselves. Most parents don't [trust](trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
 
 Maintaining a [baby](parenting-babies.md), then a [child](parenting-children.md), then a [teenager](parenting-3_teenagers.md), is difficult. Every child experiences at least some failures from their parents due to [human nature](humanity.md), and some of them will become [severely traumatized](hardship-ptsd.md) by it.
 
@@ -183,7 +183,7 @@ While it may seem harmless, it becomes egregious when they try to sidestep [evil
 
 In [modern Western society](https://gainedin.site/here-america/), parents often try to avoid those subjects, but it's an inevitability that children will discover them. When they ask their parents for an explanation, the parents will often try to *only* communicate the adverse consequences of those things without ever explaining the good [feelings](mind-feelings.md) that may drive people to do them in the first place.
 
-APPLICATION: For most of recorded history, parents communicated *all* the facts of [reality](reality.md), but also conveyed that children had poor [decision-making skills](decisions.md). That arrangement works much better than withholding information from them than when parents [feel](mind-feelings.md) they're "ready".
+APPLICATION: For most of recorded history, parents communicated *all* the facts of [reality](reality.md), but also conveyed that children had poor [decision-making skills](people-decisions.md). That arrangement works much better than withholding information from them than when parents [feel](mind-feelings.md) they're "ready".
 
 The aftermath of this practice once the children [grow up](maturity.md) is horrific. By only communicating the bad sides of things, the children will still wonder about why people even form [purposes](purpose.md) for an object. They'll experiment or research for themselves, and often fall into [substance abuse](addiction.md), or worse.
 
@@ -191,7 +191,7 @@ Naturally, their [trust](trust.md) with their parents will be eroded, which affe
 
 ### Underestimation
 
-Unless a parent is making conscious [decisions](decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](people-changes.md) with the children. For example, parents typically perceive [babies](parenting-babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-children.md) are capable of performing.
+Unless a parent is making conscious [decisions](people-decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](people-changes.md) with the children. For example, parents typically perceive [babies](parenting-babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-children.md) are capable of performing.
 
 As a child ages, they very quickly learn to bend those fixed patterns to their [advantage](purpose.md). For example, they'll endure a five-minute lecture to get out of doing chores. The fulfillment of a subversive purpose is far more [rewarding](meaning.md) to them than [results](results.md) from the task itself.
 

@@ -164,6 +164,44 @@ Terrible UX Trends for 2017
 
 [Audible: Build seamless purchase experiences](https://growth.design/case-studies/audible-purchase-ux)
 
+https://growth.design/case-studies/too-good-to-go-onboarding
+
+https://growth.design/case-studies/strava-premium-preview
+
+[Signal: How To Ethically Boost Your Revenues](https://growth.design/case-studies/signal-revenue?activecampaign_id=greg%40stucky.tech)
+
+[Letterboxd: How to nail product market fit with clear Jobs‑To‑Be‑Done](https://growth.design/case-studies/letterboxd-jobs-to-be-done)
+
+[Adobe: The growing issue with "Free" trials UX](https://growth.design/case-studies/adobe-trial-ux)
+
+[Social Proof: Why people's behaviors affect our actions](https://growth.design/case-studies/social-proof)
+
+[Apple vs. Meta: The Illusion of Privacy | Hacker News](https://news.ycombinator.com/item?id=37433495)
+[Apple vs Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
+
+- clarify the TI ratio, since that is VERY important
+- Transparency/Intrusiveness ratio
+	- i.e., be transparent proportionally to being intrusive
+- (also, roach motel dark pattern)
+	- https://blog.mobiversal.com/dark-patterns-or-how-ux-exploits-the-user-roach-motel-and-sneak-into-basket.html
+- Clarify "privacy washing"
+
+[Scarcity: The 3 pillars to using it ethically](https://growth.design/case-studies/scarcity)
+
+[The psychology of Temu's casino-like shopping UX](https://growth.design/case-studies/temu-onboarding-psychology)
+
+[Spotify Wrapped: 6 psychology principles that make it go viral every year](https://growth.design/case-studies/spotify-wrapped-psychology)
+
+[Framing Effect: Why context affects decisions](https://growth.design/case-studies/framing-effect)
+
+[How to avoid (and repair) these 3 critical design blunders](https://growth.design/case-studies/design-blunders)
+
+[The "almost" perfect trial conversion](https://growth.design/case-studies/mine-trial-conversion)
+
+[One simple way Apple could improve your sleep habits](https://growth.design/case-studies/apple-sleep-notification)
+
+[How small UI delighters have a huge impact on UX](https://growth.design/case-studies/been-onboarding)
+
 ## web standards
 
 [What are web standards and why should I use them?](http://www.webstandards.org/learn/faq/)

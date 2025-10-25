@@ -175,7 +175,7 @@ When you have a knowledge base, systematically review the information.
 
 - There are 2 types of meetings:
   1. Status update meetings, where everyone describes their activities.
-  2. Brainstorming meetings, which involve [thinking of solutions](mind-creativity-how.md) and [making decisions](decisions.md).
+  2. Brainstorming meetings, which involve [thinking of solutions](mind-creativity-how.md) and [making decisions](people-decisions.md).
 - Typically, status update meetings are *not* worth the effort.
   - In theory, it brings everyone together to discuss the latest news, but in practice it involves most of the members hearing about information that has nothing to do with them.
   - On an hourly pay rate, it can also be tremendously expensive to have 10 people idling for an hour.

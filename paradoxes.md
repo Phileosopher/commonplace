@@ -9,7 +9,7 @@ Others who are more visually [creative](mind-creativity.md) than me (e.g., [Nick
 
 Types of thought experiments:
 
-- Prefactual - Given the present, what will happen in the future after an event happens? (effectively what we do when making most [decisions](decisions.md))
+- Prefactual - Given the present, what will happen in the future after an event happens? (effectively what we do when making most [decisions](people-decisions.md))
 - Counterfactual - What would happen if something had been hypothetically different? (aka alternate [realities](reality.md))
 - Semifactual - What would happen if everything was *completely* the same, but there was one difference in the situation? (alternate realities with variations)
 - Predictive - Assuming things we know right now, what will likely happen? (often used for [scientific](science.md) and [marketing](marketing.md) modeling)

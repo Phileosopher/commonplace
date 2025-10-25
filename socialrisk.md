@@ -3,7 +3,7 @@
 
 We constantly make social risks to gain what we've [purposed](purpose.md).
 
-We tend to make [calculated decisions](decisions.md) and assessment about what we [create](creations.md) by how it applies to others:
+We tend to make [calculated decisions](people-decisions.md) and assessment about what we [create](creations.md) by how it applies to others:
 
 - Whether we want something
 - Whether we'd want it if they wanted it
@@ -16,7 +16,7 @@ Unfortunately, people often don't have the same [values](values.md) or [purposes
 
 Every time we [create](creations.md) things that may affect others, we risk our [expectations](imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](image.md) over time.
 
-Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](decisions.md) calculating between what we like and the chances other people will like it.
+Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](people-decisions.md) calculating between what we like and the chances other people will like it.
 
 ## Deviants
 
@@ -72,7 +72,7 @@ While they're usually fulfilling a very specific [specialization](jobs-specializ
 To accomplish this, most of the risk-takers have a near-opposite [attitude](purpose.md) about [reality](reality.md) compared to the rest of the members in that group:
 
 - While most people [fear](mind-feelings-fear.md) [risk](safety.md), they see [opportunities](purpose.md) in it.
-- Most people are working as part of a [group](groups-large.md) toward that group's predefined [goal](purpose.md), but they're constantly [deciding](decisions.md) to shift their [purposes](purpose.md) around.
+- Most people are working as part of a [group](groups-large.md) toward that group's predefined [goal](purpose.md), but they're constantly [deciding](people-decisions.md) to shift their [purposes](purpose.md) around.
 - While most people are in the early or late majority on most [trends](trends.md), they're often innovators or early adopters.
 - Most people have great ideas, but don't want to make the sacrifices for them.
 - Risk-takers regularly have an intense [understanding](understanding.md) of [reality](reality.md) and at least some awareness of [what they want](purpose.md).
@@ -96,7 +96,7 @@ If it's not obvious, this is a *massive* vote of [confidence](trust.md) in the [
 
 APPLICATION: Pay close attention to the heretics, since the [new trends](trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
 
-The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](decisions.md)* to give them [power](power.md) to keep them going.
+The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](people-decisions.md)* to give them [power](power.md) to keep them going.
 
 This success won't be without opposition. Every new trend means the death of an old one, and the [groups losing power](mgmt-badsystems.md) will try to shut it down to maintain their way of life. For this reason, most of the individuals who make the risks against established convention will *not* succeed.
 

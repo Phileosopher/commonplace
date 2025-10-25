@@ -1,11 +1,11 @@
 
 # How influence works
 
-Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends.md) with the speaker and their [choice](decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
+Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends.md) with the speaker and their [choice](people-decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
 
 An influencer is controlling a [story](stories.md), typically to advance an [idea](values.md) or change someone's [reputation](image.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
 
-When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](decisions.md) to [trust](trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
+When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](people-decisions.md) to [trust](trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
 
 ## Purpose
 
@@ -52,7 +52,7 @@ People pay *close* attention to the messenger when hearing a message.
 
 Influential people use their [image](image.md) to draw from others' [imagination](imagination.md) about [reality](reality.md), so they have a vast toolbox to draw from:
 
-- The various [feelings](mind-feelings.md) we can evoke with our [choice](decisions.md) of words.
+- The various [feelings](mind-feelings.md) we can evoke with our [choice](people-decisions.md) of words.
 - Provoking recollection of others' past [favor](image.md) toward us or [affiliations](groups-member.md) with us as we speak.
 - Even repulsion or rejection can be used for influence in the right hands (e.g., [bad press](stories-storytellers.md), reverse psychology).
 
@@ -106,7 +106,7 @@ Typically, the story will allude to a [mystery](unknown.md) the audience already
 The [story](stories.md) must give a clear [purpose](purpose.md) at the end:
 
 - In effect, the audience must feel that the [changes](people-changes.md) required for that purpose are worth it.
-- The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](decisions.md).
+- The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](people-decisions.md).
 - That value must aspire to an element of [virtue](morality.md). Even to people who only care about [image](image.md) or [power](power.md), they still want to *[feel](mind-feelings.md)* or look as if they were virtuous!
 - Have the audience physically interact or experience the item to [feel](mind-feelings.md) its impact.
 - If the story is tied to the messenger *at all*, the messenger will express their current (or potentially [future](imagination.md)) state as the end of their story.
@@ -134,7 +134,7 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
    - It may simply come through asking many "why?" questions to test what that person [understands](understanding.md).
 3. Give a clue into the correct answer, but do *not* answer it all the way for the audience (which makes them find [meaning](meaning.md) in [learning](education.md) it themselves).
 4. [Show](image.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
-   - They need additional information to verify that their [values calculus](decisions.md) matches the impression of the trend.
+   - They need additional information to verify that their [values calculus](people-decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
 5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](trust.md).
 6. With enough perseverance and no contradicting outside influence, *anyone* can convince anyone of anything if they don't already have a deep [conviction](understanding-certainty.md) against it.
@@ -207,7 +207,7 @@ APPLICATION: Watch for easy ways people influence you without noticing, especial
 - Place a limited number of purchases per customer to see them purchase more.
 - To get people to be more helpful, have them observe photos of people standing close together first.
 - To get people more achievement-oriented, show them an image of a runner winning a race first.
-- To make people make more careful [decisions](decisions.md), show them of someone thinking first.
+- To make people make more careful [decisions](people-decisions.md), show them of someone thinking first.
 
 Many influencers want to maintain the social connections that maintain their [power](power.md). For that reason, influential people will continue to influence *long* after the appropriate [season](trends.md) for their [power](power.md) has passed.
 

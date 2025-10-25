@@ -35,7 +35,7 @@ Even *extremely* busy people have room for prayer:
 Upcoming opportunities and risks:
 
 - Ask for His blessing for the upcoming day.
-- What appears to be the [best option](decisions.md) might be a bad idea, so pray for God to accomplish [His will](god-will.md).
+- What appears to be the [best option](people-decisions.md) might be a bad idea, so pray for God to accomplish [His will](god-will.md).
 - Ask for wisdom for decisions and success in them.
 - Ask for strength to endure any upcoming challenges, and that it comes through love.
 

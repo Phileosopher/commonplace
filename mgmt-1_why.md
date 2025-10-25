@@ -45,9 +45,9 @@ Management reproduces the role of high-quality [fatherhood](parenting-children.m
 
 Actual management, however, includes a few extra details the image fails to portray:
 
-1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](decisions.md) leaders that give clear and practical examples of what to do.
+1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](people-decisions.md) leaders that give clear and practical examples of what to do.
 2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
-3. Managers are forced to take responsibility for difficult [decisions](decisions.md). Most of them are choices between an awful thing and something worse.
+3. Managers are forced to take responsibility for difficult [decisions](people-decisions.md). Most of them are choices between an awful thing and something worse.
 
 Management has also gotten a bad reputation for several reasons:
 
@@ -90,7 +90,7 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
   - They'll have to [organize and track projects](mgmt-2_projects.md).
   - But, most of them must have at least a few important [conversations](mgmt-5_communication.md) or [public speeches](language-speaking.md) every day.
 - Agreeableness must be average to above-average.
-  - They'll often have to make goals and [decisions](decisions.md) without others' input.
+  - They'll often have to make goals and [decisions](people-decisions.md) without others' input.
   - They'll also need to confront [conflicts](people-5_conflicts.md) as they happen, which will likely include firing someone at least once.
   - At the exact same time, they must win [friends](people-4_friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
@@ -134,11 +134,11 @@ All managers *should* have leadership qualities because managers must perform sp
 - Fire or dismiss lazy, uncooperative, and complaining workers.
 - Adapt to the situation as it [changes](people-changes.md).
 - [Loyal](trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
-- Capable of making clear [decisions](decisions.md) confidently enough that others [trust](trust.md) them.
+- Capable of making clear [decisions](people-decisions.md) confidently enough that others [trust](trust.md) them.
 
 While management itself is a role, leadership is a mindset and skillset:
 
-- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](decisions.md) that [take action](results.md).
+- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](people-decisions.md) that [take action](results.md).
 - At least some degree of [maturity](maturity.md) and [awareness](awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
 - Concerned more about their group's or team's [interests](purpose.md) than themselves.
 - Confident about their decisions without regrets, but humble enough to make dramatic changes when they're wrong.
@@ -157,7 +157,7 @@ Managers are granted roles from someone in a position of authority who liked the
 
 The primary distinguishing features between a leader/manager and a manager-in-title-only comes through:
 
-1. How they make difficult [decisions](decisions.md).
+1. How they make difficult [decisions](people-decisions.md).
 2. How they own those decisions when they make a mistake.
 
 ## Bad managers
@@ -232,7 +232,7 @@ A manager has a few possible ways to interpret their role:
 
 No single management style works for all situations, for several reasons:
 
-1. Managers are usually held solely responsible for the [decisions](decisions.md) they've made, but each manager's [personality](personality.md) is uniquely different and they'll take that responsibility in different ways.
+1. Managers are usually held solely responsible for the [decisions](people-decisions.md) they've made, but each manager's [personality](personality.md) is uniquely different and they'll take that responsibility in different ways.
 2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](personality.md) has particular requirements or requires specific kinds of attention.
 3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](money-accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
 

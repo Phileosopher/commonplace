@@ -27,7 +27,7 @@ The more [fear](mind-feelings-fear.md) we have of losing something, the harder w
 
 One easy way to avoid financial risk is to get [insurance](money-insurance.md). By giving up some power in the [form of money](power-types.md), someone can have a [separate organization](groups-large.md) take the risk instead. It's basically paying rent for someone else to take the risk.
 
-Generally, when [deciding](decisions.md) when you don't know what to [expect](imagination.md), the safest solution is to apply "minimax regret" (minimize the maximum regret you can experience). In other words, make the worst-case scenario as good as possible.
+Generally, when [deciding](people-decisions.md) when you don't know what to [expect](imagination.md), the safest solution is to apply "minimax regret" (minimize the maximum regret you can experience). In other words, make the worst-case scenario as good as possible.
 
 ## The image of safety
 
@@ -79,7 +79,7 @@ Because of our [habitual](habits.md) nature, we often forget *why* the security 
 
 Distrust can also be [habit-forming](habits.md). We tend to [identify](identity.md) what we [focus](purpose.md) on, so we can become [obsessive](addiction.md) about protecting things. The cure is to ask *what* we're protecting and how much we're willing to [lose it](mind-feelings-fear.md).
 
-It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](decisions.md)!
+It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](people-decisions.md)!
 
 Security and freedom are inversely correlated, so something [valuable](values.md) that is also useful will invariably have to be protected by something inconvenient, and will likely still be exposed to risks:
 

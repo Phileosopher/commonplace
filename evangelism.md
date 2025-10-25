@@ -5,7 +5,7 @@ Time is short for people to hear the [Gospel](jesus-gospel.md).
 
 - Jesus has called us to travel out and make [disciples](spiritual-discipleship.md) across the world ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm)), which starts with sharing it with everyone open to hearing it.
 
-Sharing Jesus is a lifestyle [decision](decisions.md) that comes from [understanding](understanding.md) and imitating [what Jesus did](jesus-gospel.md) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
+Sharing Jesus is a lifestyle [decision](people-decisions.md) that comes from [understanding](understanding.md) and imitating [what Jesus did](jesus-gospel.md) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
 
 Evangelism is for everyone.
 
@@ -28,7 +28,7 @@ Your [personality](identity.md) defines how you may want to approach others abou
 Some people imagine sharing the Gospel is telling as many people as possible.
 
 - Effective Gospel *presentations* share Christ's story and why it's important.
-- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories.md).
+- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](people-decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories.md).
 
 Many people groups have *never* heard of Jesus.
 

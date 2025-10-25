@@ -38,13 +38,13 @@ Repelling evil with salt comes from how salt symbolizes preservation of food (an
 
 An object of unbelievably extreme power (e.g., magic lamp, Holy Grail) is our imagination of a [technological](technology.md) (i.e., human-controlled) means of controlling the forces of nature directly.
 
-Multiple doors or pathways are the raw representation of [decisions and choice](decisions.md).
+Multiple doors or pathways are the raw representation of [decisions and choice](people-decisions.md).
 
 The human body, especially when contrasted with a much larger environment or with death, represents how we are [finite and mortal](mind-feelings-fear.md).
 
 Depictions of heaven and hell (as well as any other variations, including Nirvana) are [moral balancing](morality.md) for the [unfair situations](morality-evil.md) we often find ourselves exposed to in this life. It's inescapably connected to some form of [judging authority](people-rules.md), though the rules move around a *lot* based on [implementation](religion-answers.md).
 
-Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](decisions.md).
+Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](people-decisions.md).
 
 [Intelligent](understanding.md) beings are often seen as [contenders](people-conflicts.md) with the gods, and often as villains.
 
@@ -118,7 +118,7 @@ Most gods and deities are named depictions of concepts we understand, and there 
 - The chaos and the [unknown](unknown.md), often named (e.g., Loki, Anansi), and often takes on an antagonistic form (e.g., Satan)
 - Fertility gods/goddesses that express the uncertainty around [child-bearing](people-family.md)
 
-When gods start making fickle [decisions](decisions.md), they can also represent powerful [political figures](politics-conservativeliberal.md) who influence our lives.
+When gods start making fickle [decisions](people-decisions.md), they can also represent powerful [political figures](politics-conservativeliberal.md) who influence our lives.
 
 Christmas has created a few repetitions:
 

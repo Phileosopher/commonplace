@@ -7,7 +7,7 @@ For various reasons, we live together:
 - We [survive against nature](safety-nature.md) better in [groups](groups-small.md).
 - We can prevent [disasters](results.md) from errors by covering for each other's failures.
 
-To make life more convenient for everyone, we [decide](decisions.md) to do things we're better at and prefer more than everyone else:
+To make life more convenient for everyone, we [decide](people-decisions.md) to do things we're better at and prefer more than everyone else:
 
 - [Realistic](reality.md) people are excellent at performing tasks that create [results](results.md).
 - [Conventional](people-culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
@@ -72,7 +72,7 @@ While [war](people-conflicts-war.md) will broadly unite differing groups, the co
 
 One of the most important specialization concepts implements through [technology](technology.md) with interchangeable parts. Each component of a sophisticated thing is mass-produced by one person or group, meaning thousands of people can produce *millions* of something, with each person or group only responsible for one small piece of the process. As more people are involved, this can be divided even further as [needed](purpose.md).
 
-The [power](power.md) to accomplish for each of these niches grows proportionally higher as the niche gets smaller, but it also becomes more specific. The [opportunity cost](decisions.md) of this is that master specialists at one thing can lose the larger picture of what they're doing, and are often *awful* at almost everything else. Occasionally, they can be [awful at almost *any* general task](https://gainedin.site/idiot/), including when they're *closely* related to what they do all day.
+The [power](power.md) to accomplish for each of these niches grows proportionally higher as the niche gets smaller, but it also becomes more specific. The [opportunity cost](people-decisions.md) of this is that master specialists at one thing can lose the larger picture of what they're doing, and are often *awful* at almost everything else. Occasionally, they can be [awful at almost *any* general task](https://gainedin.site/idiot/), including when they're *closely* related to what they do all day.
 
 APPLICATION: If someone is excellent at one thing (e.g., doctor), they're often awful at another (e.g., psychotherapy). Since people frequently [desire](purpose.md) to wield [power](power.md) beyond their niche, closely consider where they *do* have [power](power-types.md) before trusting them outright.
 
@@ -97,7 +97,7 @@ APPLICATION: [Creative](mind-creativity.md) people and for people willing to tak
 
 As the settlements group from a [small](groups-small.md) to [large community](groups-large.md), the [members](groups-member.md) have more anonymity, and [human nature](humanity.md) means some of them will abuse the freedom.
 
-The geography and climate has a *profound* impact on the [culture](people-culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](decisions.md) into the [tasks](purpose.md) required to survive and thrive.
+The geography and climate has a *profound* impact on the [culture](people-culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](people-decisions.md) into the [tasks](purpose.md) required to survive and thrive.
 
 As those [groups](groups-small.md) became more aware of other regions' [trends](trends.md), people will choose to move farther away to attain their purposes. Thus, various cities and regions can become increasingly specialized as information and transportation [technology](technology.md) improves.
 

@@ -25,7 +25,7 @@ The most direct way to manage is through giving incentives for good things and d
 
 - Your immediate responses and [habits](habits.md) with subordinates feed directly into the work environment's [culture](people-culture.md).
 
-Stay vigilant over what you can control when you make [decisions](decisions.md).
+Stay vigilant over what you can control when you make [decisions](people-decisions.md).
 
 - Sometimes, you can control workers' constraints (e.g., firing, docking pay) but not freedoms (e.g., break time, more pay), and other times it's the other way around.
   - [Legal constraints](legal-safety.md) can create this, but company policy as a [middle manager](mgmt-middle.md) makes even *more* constraints.
@@ -63,7 +63,7 @@ Managers will go *very* far if they can master the [skills for being a decent hu
 
 - [Respect](people-3_boundaries.md) your workers.
 - Encourage them to [think independently](understanding.md).
-- Allow them to make [decisions](decisions.md) on their own.
+- Allow them to make [decisions](people-decisions.md) on their own.
 - Connect their work to a legitimately important [collective effort](groups-small.md).
 
 Workers are highly motivated by competence.

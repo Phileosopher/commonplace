@@ -17,7 +17,7 @@ We *always* start conflicts from a [perceived](image.md) need:
 
 This perceived need someone has to confront a situation has several degrees of intensity:
 
-1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
+1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](people-decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
 2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](image.md) about their opinion. Every healthy person has a handful of these.
 3. Die For: We have chosen to closely [identify](identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
 
@@ -42,7 +42,7 @@ Usually, healthy people start conflicts after witnessing at least three instance
 
 - The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](results.md) we want.
 
-Our [decision](decisions.md) to make a conflict is significant because every conflict risks sabotaging [relationships](people-friends.md) with other people, which we will usually value when we have any [love](people-love.md) for them.
+Our [decision](people-decisions.md) to make a conflict is significant because every conflict risks sabotaging [relationships](people-friends.md) with other people, which we will usually value when we have any [love](people-love.md) for them.
 
 ## Complicating factors
 
@@ -74,7 +74,7 @@ Healthy conflicts require both sides willing to change and compromise:
 - *Always* assume that person believes they're being perfectly [reasonable](purpose.md) and [logical](logic.md), irrespective of reality.
 - However, also assume you don't know most of what that person knows.
 
-Conflicts only become unhealthy when we don't properly [calculate](decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
+Conflicts only become unhealthy when we don't properly [calculate](people-decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
 
 APPLICATION: Conflicts are healthy when managed correctly by everyone. Through them, we can [understand](understanding.md) others' [points of view](image.md), become more patient and [loving](people-love.md), and develop future [skills for good boundary-setting](people-5_conflicts.md).
 

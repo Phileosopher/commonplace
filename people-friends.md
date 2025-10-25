@@ -48,7 +48,7 @@ APPLICATION: Once we start getting busy with life later on, it's important to [p
 
 ## How
 
-It takes about 34 minutes before we've [decided](decisions.md) if we want to be friends with someone. By that time, we've verified that we're [perceiving](image.md) with relatively accurate [certainty](understanding-certainty.md) who they really are.
+It takes about 34 minutes before we've [decided](people-decisions.md) if we want to be friends with someone. By that time, we've verified that we're [perceiving](image.md) with relatively accurate [certainty](understanding-certainty.md) who they really are.
 
 We start a friendship when we've communicated a [value](values.md) the other person agrees with. The other person doesn't have to [identify](identity.md) with it, but they must [believe](understanding-certainty.md) it.
 

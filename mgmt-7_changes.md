@@ -18,7 +18,7 @@ Stay extremely paranoid about *any* dips in your financial situation.
 
 Above a specific level (or throughout the growth of a not-for-profit), your role will be subjected to the desires of a board of trustees.
 
-- Even if they don't exert their power, this board will have some level of [influence](power-influence.md) over *every* [decision](decisions.md) and [change](people-changes.md) within the organization.
+- Even if they don't exert their power, this board will have some level of [influence](power-influence.md) over *every* [decision](people-decisions.md) and [change](people-changes.md) within the organization.
 - If you have control over your board, pick people who match your values, *not* simply [who you're familiar with](people-4_friends.md).
 - Board selection, and any additions or removals, defines the future of the organization.
 
@@ -118,7 +118,7 @@ If it's at all possible, reassign workers to what they *want* to do, not simply 
 
 As organizations get larger, several things will happen to your role:
 
-1. You will need to delegate *most* of your tasks to others, meaning you'll eventually be doing nothing *but* [make decisions](decisions.md) all day.
+1. You will need to delegate *most* of your tasks to others, meaning you'll eventually be doing nothing *but* [make decisions](people-decisions.md) all day.
 2. Everyone who was part of your team as a worker will likely grow with you (and become managers as well) or depart the organization.
 3. To most people, you will become a symbol more than a human being, meaning the rules of [celebrity management](image.md) apply.
 

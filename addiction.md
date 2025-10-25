@@ -45,15 +45,15 @@ However, we tend not to notice an advancing addiction because it takes over slow
 1. The substance consistently gives us the [results](results.md) we want.
 2. We [trust](understanding-certainty.md) the experience enough that we stop searching for anything else.
 3. As [diminishing return](results.md) begins, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
-4. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](decisions.md) our allegiance to that thing.
+4. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](people-decisions.md) our allegiance to that thing.
 5. We start small with our sacrifices and give up things we deem unnecessary by comparison. As the diminishing return scales, we progressively give up more to maintain the habit.
-6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
+6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](people-decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
 7. At this point, *everyone* close to the addict will have [noticed](image.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-4_friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](image.md). In this sense, they're a public disgrace from a worse place.
 8. To run from all the [pain](hardship-ptsd.md) of the bad decisions, addicts push themselves harder into the substance. They were running *from* life before, but now they're running *to* the object that will "fix" their pain.
 9. Eventually, an addict will have to [invest](power.md) so much into the substance that they'll devote *everything* to it.
 10. If the person doesn't realize they have a *huge* problem and are willing to receive help for it, they'll end up [destroying](morality-evil.md) their lives and everyone else around them.
 
-Unfortunately, that thing eventually consumes them. They'll lose the ability to make [well-reasoned](logic.md) [decisions](decisions.md) that may diminish the value of the substance, then will start dwelling exclusively on that substance for solving their [problems](purpose.md).
+Unfortunately, that thing eventually consumes them. They'll lose the ability to make [well-reasoned](logic.md) [decisions](people-decisions.md) that may diminish the value of the substance, then will start dwelling exclusively on that substance for solving their [problems](purpose.md).
 
 The entire experience devolves into the continued reckless pursuit of a [feeling](mind-feelings.md) which only the substance can provide. The substance may move around, but the mentality stays the same.
 
@@ -128,6 +128,6 @@ The only hope for any addict is for them to face their pain directly. This requi
 
 APPLICATION: As people devolve into substance abuse, they care about you progressively less. If you [love](people-love.md) them, release them to their desires to hasten their decline and, therefore, hasten any chance of recovery.
 
-However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](humanity-christian.md) when we [decide](decisions.md) to sacrifice everything for another dose of the substance.
+However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](humanity-christian.md) when we [decide](people-decisions.md) to sacrifice everything for another dose of the substance.
 
 Ironically, recovery groups can also become a [culture](people-culture.md) of addiction. Our [identity](identity.md) should persist beyond "being a recovering addict", and the implicit [shame](mind-feelings-shame.md) that comes with the label can prevent someone from finding [meaning](meaning.md) elsewhere.

@@ -1,4 +1,10 @@
 
+[David Wood (Christian apologist) - Wikipedia](https://en.wikipedia.org/wiki/David_Wood_(Christian_apologist))
+[Acts 17](https://acts17.com/)
+[Former Psychopath David Wood Shares His Astounding Transformation Into Christian Apologist : Christianity](https://old.reddit.com/r/Christianity/comments/hz608e/former_psychopath_david_wood_shares_his/)
+
+https://www.choosingtherapy.com/narcissistic-rage/
+
 [Karpman drama triangle - Wikipedia](https://en.m.wikipedia.org/wiki/Karpman_drama_triangle)
 
 [7 Reasons Narcissists Rarely Grow Emotionally | Psychology Today](https://www.psychologytoday.com/us/blog/the-narcissist-in-your-life/202203/7-reasons-narcissists-rarely-grow-emotionally)

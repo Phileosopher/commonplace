@@ -12,7 +12,7 @@ Most middle managers "manage managers", and are often promoted into the role.
 The requirements to get *into* middle management are typically much harder than the requirements to actually do the job.
 
 - The work itself typically involves getting status updates from subordinates, then condensing and sending those status updates to a higher manager.
-- Most of your [decision-making](decisions.md) ability comes through permission you've been granted by *your* manager.
+- Most of your [decision-making](people-decisions.md) ability comes through permission you've been granted by *your* manager.
 - To that end, most middle managers don't have much responsibility over what they do all day.
 
 It's vastly difficult to define a high-quality middle manager for several reasons:

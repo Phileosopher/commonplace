@@ -170,7 +170,7 @@ Play [political chess](groups-large.md) *very* sparingly.
 Learn [effective communication](language-speaking.md).
 
 - Your messages must share *both* God's love and His hatred of sin.
-- Loving people starts with [respecting them](people-3_boundaries.md) and [their decisions](decisions.md).
+- Loving people starts with [respecting them](people-3_boundaries.md) and [their decisions](people-decisions.md).
 - Most ministers must use [public speaking](language-speaking.md) and [conflict management](people-5_conflicts.md) skills multiple times every week.
 - Expect *lots* of [written correspondence](language-writing.md).
 
@@ -230,7 +230,7 @@ B. Missionaries/ministers are financed, at least partly, by others' donations.
 
 C. The poor/needy will *always* be with us ([Matthew 26:11](https://biblehub.com/matthew/26-11.htm)).
 
-- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](results.md) of their [decisions](decisions.md).
+- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](results.md) of their [decisions](people-decisions.md).
   - How you treat them shows your priorities ([Matthew 25:31-40](https://biblehub.com/matthew/25.htm)).
   - While helping the poor against your better judgment can be challenging, God will still honor it.
 - They need love and nurturing care, even if they brought the entire experience on themselves.

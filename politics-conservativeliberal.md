@@ -1,9 +1,9 @@
 
 # The conservative/liberal spectrum
 
-Discussing politics is a relatively new concept across the lens of history. Up to just under 300 years ago, political discussions among most people were either small talk about royalty or highly personal discussions about what [decision](decisions.md) to make in light of recent political events.
+Discussing politics is a relatively new concept across the lens of history. Up to just under 300 years ago, political discussions among most people were either small talk about royalty or highly personal discussions about what [decision](people-decisions.md) to make in light of recent political events.
 
-When a [large group](groups-large.md) permits us to vote, we must make [decisions](decisions.md) between political parties. If we must choose representatives, we're a degree removed from the decision-making process, so we must use [philosophical](philosophy.md) standards to judge those representatives.
+When a [large group](groups-large.md) permits us to vote, we must make [decisions](people-decisions.md) between political parties. If we must choose representatives, we're a degree removed from the decision-making process, so we must use [philosophical](philosophy.md) standards to judge those representatives.
 
 Broadly, we have a simple decision across a spectrum: "conserve" things we're [familiar](habits.md) with, or "liberally" try things we've not [seen](image.md) before (or "progressing" towards a [new trend](trends.md)). Thus, beyond our [desires](purpose.md), our [personalities](personality.md) heavily define our politics.
 
@@ -41,19 +41,19 @@ Conservative and liberal are difficult to define because they're responses to [t
 
 Political power often requires bending public opinion, so "conservative" and "liberal" are often hijacked for other [purposes](purpose.md). Sometimes, *conservatives* are looking for new things and liberals are trying to restore an old social order, but [feelings](mind-feelings.md) run so strongly that the definition and meaning of the words everyone uses is very difficult to separate out.
 
-APPLICATION: To live [the good life](goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](decisions.md) for themselves.
+APPLICATION: To live [the good life](goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](people-decisions.md) for themselves.
 
 When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](politics-leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
 
 APPLICATION: The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](image.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
-APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](decisions.md).
+APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](people-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](people-decisions.md).
 
 Most of this contention comes through a series of inter-related conflicts:
 
 - An intergroup conflict about nuances regarding who should lead.
 - Conflicts inside the group about the correct [image](image.md) to portray, which reflects the [values](values.md) the majority finds most [important](purpose.md).
-- Conflicts between groups, with the declared leader advancing the necessary [image](image.md) forward to let the public make their [decision](decisions.md).
+- Conflicts between groups, with the declared leader advancing the necessary [image](image.md) forward to let the public make their [decision](people-decisions.md).
 
 ## Defining
 
@@ -68,13 +68,13 @@ However, both conservatives and liberals run the risk of abusing their power, me
 
 Conservatives believe in natural law:
 
-- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](decisions.md). This makes the death penalty acceptable and abortion bad.
-- Individual [morality](morality.md) is irrespective of what an individual [interprets](image.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](decisions.md).
+- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](people-decisions.md). This makes the death penalty acceptable and abortion bad.
+- Individual [morality](morality.md) is irrespective of what an individual [interprets](image.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](people-decisions.md).
 - Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](people-rules.md).
 
 Progressives believe natural law is relative, nonexistent, or doesn't matter:
 
-- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
+- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](people-decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
 - Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](people-rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
 - [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
 

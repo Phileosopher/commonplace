@@ -334,7 +334,7 @@ Many factors determine the correct attitude for resolving any given conflict:
   - The conflict members' [desires](purpose.md) and their perceived desires of other people in the conflict.
   - The members' differences in [social position](power.md).
   - Members' existing relationships with other people who may be involved.
-  - The people affected by the results of the [decision](decisions.md).
+  - The people affected by the results of the [decision](people-decisions.md).
 - Healthy negotiators often *shift* their attitude in the midst of a conflict based on new information.
   - Your desires will likely change once you gain more information, especially if you [care at all](people-love.md) about anyone else but yourself.
 

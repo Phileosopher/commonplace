@@ -3,7 +3,7 @@
 
 The Big 5 personality indicator is the only [scientifically](science.md) proven personality test, though many other personality tests form approximately the same [classifications](logic.md). Each personality trait ends up cleanly dividing into two sub-factors for each dimension as well.
 
-Many so-called "personality tests", however, are often representing our tendencies toward skills. This may be useful for [working](results.md) or [communication](people-conversation.md), but not for the way we [choose](decisions.md) to live our lives.
+Many so-called "personality tests", however, are often representing our tendencies toward skills. This may be useful for [working](results.md) or [communication](people-conversation.md), but not for the way we [choose](people-decisions.md) to live our lives.
 
 The range of 1-100 sits as a bell curve, where someone with a score of 1 is thousands of times more rare than someone with a score of 20. Usually, unique people are below 25 or above 75, and phenomenally different people are below 10 or above 90.
 
@@ -73,7 +73,7 @@ We have a certain natural desire to create [results](results.md) that make us va
 
 - Carry out our plans without wasting time or getting distracted
 - Setting our minds to the immediate [task](purpose.md) and [finishing](results.md) what we start
-- Making [decisions](decisions.md) quickly and [certain](understanding-certainty.md) about what we're doing
+- Making [decisions](people-decisions.md) quickly and [certain](understanding-certainty.md) about what we're doing
 
 Often, we make things out of a sense of guilt or shame that our [value](values-quality.md) only comes in what we produce.
 
@@ -92,7 +92,7 @@ We either find renewal [with people](people-friends.mdds.md), or [without them](
 
 Extraversion dictates whether we devote more of our [tasks](purpose.md) toward people or things. Both of them have challenges, and require [practice](education.md) to get correct, so we'll see better [results](results.md) with the one that makes us more comfortable.
 
-On the high end, we're constantly [choosing](decisions.md) to [interact with others](people-conversation.md). It provides the advantage of connecting with many people at once, but requires our constant involvement in a healthy group of people, and we're more susceptible to [lying](people-lying.md) to [gain favor from others](image-distortion.md).
+On the high end, we're constantly [choosing](people-decisions.md) to [interact with others](people-conversation.md). It provides the advantage of connecting with many people at once, but requires our constant involvement in a healthy group of people, and we're more susceptible to [lying](people-lying.md) to [gain favor from others](image-distortion.md).
 
 Extroverts have a tendency to live impulsively in the present. While they end up enjoying life more (a necessary quality of the [good life](goodlife.md)), they also risk overlooking adverse long-term [adverse consequences](results.md).
 

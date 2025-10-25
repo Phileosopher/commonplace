@@ -55,7 +55,7 @@ He gives us what we need, but never more than that.
 When we aren't at peace, we seek God's will for a few key reasons:
 
 1. Anxiety or fear of perceived [consequences](results.md) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
-2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](decisions.md) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
+2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](people-decisions.md) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
 3. Our [desires](purpose.md) are split between personal fulfillment and following God ([Revelation 3:16](https://biblehub.com/revelation/3-16.htm)).
 
 We should only want to know God's will because we sincerely desire to please Him (i.e., "The Lord is leading" instead of "God told me to").
@@ -129,7 +129,7 @@ God *never* permits sinful lifestyles:
 
 - He despises [sin](morality-sins.md) with a fierce passion ([Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
 - Many people will blame God or others for the [consequences](results.md) of their actions.
-- Each Christian must take control of their own [decisions](decisions.md) before God gives them anything else.
+- Each Christian must take control of their own [decisions](people-decisions.md) before God gives them anything else.
 - God's will doesn't give complete license to do whatever we want.
 
 We also tend to add aspects of what God wants:

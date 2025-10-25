@@ -1,7 +1,7 @@
 
 # What leftism is
 
-Across history, the minority strong have *always* ruled the majority weak. [Human nature](humanity-universals.md) dictates that we will [choose](decisions.md) to follow people more [powerful](power.md) than us.
+Across history, the minority strong have *always* ruled the majority weak. [Human nature](humanity-universals.md) dictates that we will [choose](people-decisions.md) to follow people more [powerful](power.md) than us.
 
 Rightism isn't an abstracted ideal, but leftism is. There are two reasons for this:
 
@@ -54,21 +54,21 @@ The promises from leftist leaders create an [image](image.md) of complete equali
 
 People must operate on a few [presumptions](understanding-certainty.md) to believe the promises of leftist thought leaders:
 
-1. Humanity is inherently [good](morality.md). All [evil](morality-evil.md) is a product of victimhood. Evil [decisions](decisions.md) started with people oppressing other people innocently, and humanity can save itself without [inner transformation](people-changes.md).
+1. Humanity is inherently [good](morality.md). All [evil](morality-evil.md) is a product of victimhood. Evil [decisions](people-decisions.md) started with people oppressing other people innocently, and humanity can save itself without [inner transformation](people-changes.md).
 2. There is no absolute [morality](morality.md) or [truth](reality.md). The State defines [justice](morality-justice.md), not [God](religion.md).
 3. As a product of the non-absolute nature of humanity, human nature can be changed directly, with enough centralized control over the process.
 4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
 5. Even with central [control](people-rules.md), free-market [economies](economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
-6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](decisions.md) or [doing](results.md).
+6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](people-decisions.md) or [doing](results.md).
 
 The practical effect of leftism is that the government should receive [power](power.md) to give the better [results](results.md) of the stronger to the weaker. Thus, everyone will have the same things. Their reasoning is that ordered [justice](morality-justice.md) is more important than the chaotic nature of many opportunities, which is a product of disbelieving in [natural law](politics-conservativeliberal.md).
 
-Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), governments should have some involvement with *everything* a person can [choose](decisions.md) to do.
+Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), governments should have some involvement with *everything* a person can [choose](people-decisions.md) to do.
 
 Naturally, many people in the [lower and lower-middle classes](classes.md) will find this attractive, but many various demographics will have reason to [imagine](imagination.md) they could profit from a leftist revolution:
 
 - People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](image.md) in a societal upheaval.
-- Self-[identifying](identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](decisions.md).
+- Self-[identifying](identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](people-decisions.md).
 - People who want free stuff, but don't consider [where it comes from](results.md).
 - [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](safety-riskmgmt.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](image.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](trends.md) without regard to its [risks](safety.md).
@@ -149,7 +149,7 @@ Many leftist leaders adapt [language](language.md) to [fit their purposes](image
 - "Economic inequality" can refer to "reducing poverty" or "getting rid of rich people".
 - "Climate change" can refer to either "man-made climate change", "man-made, adverse climate change", or "all climate change", depending on the circumstances.
 
-Typically, the Left uses [shame](image.md) to advance their [choice](decisions.md) of words. Sometimes, if they lose an election in their favor and have enough public support, they protest and break things.
+Typically, the Left uses [shame](image.md) to advance their [choice](people-decisions.md) of words. Sometimes, if they lose an election in their favor and have enough public support, they protest and break things.
 
 Now, with [technology](technology.md), the Left has the [power](power.md) to direct [conversations](people-conversation.md) with [social](people-friends.md) [media](creations.md). While *any* [large group](groups-large.md) with a [dysfunctional desire](mgmt-badsystems.md) can control conversations, leftism has been successfully [doing it](results.md) for decades.
 
@@ -178,7 +178,7 @@ By principle of leftism's ideal, left-leaning people tend to hate a few things:
 - Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](people-rules.md).
 - [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
 
-Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
+Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](people-decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
 
 At its farthest, leftism is a [cult](culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
 

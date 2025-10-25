@@ -106,7 +106,7 @@ The soul is also known as "sentience", and is the part of us that give us [power
 
 - It's a hybrid existence between the body and spirit, and is uniquely separate from all other living beings.
   - Our souls aren't really "natural" like the body because they're non-[habitual](habits.md), but aren't "spiritual" because they don't directly interact with God.
-  - Our souls contain all our non-spiritual [meditation](awareness-meditation.md) and [decision-making](decisions.md), and we're able to [logically](logic.md) weigh and process information from experiences along with emotional stimuli that influence a [value system](values.md).
+  - Our souls contain all our non-spiritual [meditation](awareness-meditation.md) and [decision-making](people-decisions.md), and we're able to [logically](logic.md) weigh and process information from experiences along with emotional stimuli that influence a [value system](values.md).
 - Our souls are where our [inner conflicts](conflicts-inner.md) take place.
 - While many [sins](morality-sins.md) express as habits within the body, the soul is necessary for crafting any sins that aren't immediate gratification.
 
@@ -114,7 +114,7 @@ Christian tradition has demarcated the soul as having emotions, mind, and voliti
 
 - Emotions are narrowly contrasted from [feelings](mind-feelings.md), but it's very difficult to define (the "spirit" in Eastern Orthodoxy).
 - The mind is where we [understand information](understanding.md), but it's very difficult to differentiate it between the brain (the "word" in Eastern Orthodoxy).
-- The will is where we make conscious, [non-habitual](habits.md) [decisions](decisions.md) (the "nous" in Eastern Orthodoxy).
+- The will is where we make conscious, [non-habitual](habits.md) [decisions](people-decisions.md) (the "nous" in Eastern Orthodoxy).
 
 A. Emotions are [feelings](mind-feelings.md) that detect experiences from our body and soul.
 
@@ -131,7 +131,7 @@ B. Mind is our capacity to [understand](understanding.md) via [imagining](imagin
 - Without any spiritual direction, we'll dwell on something that affects the [quality](values-quality.md) of our [lives](goodlife.md), which can cause most of our [sins](morality-sins.md) if we're not careful.
 - While the brain's thoughts are the domain of electrical impulses in the brain, the mind's thoughts are the elements that can't be scientifically measured.
 
-C. Our will uses the information from our mind to make [decisions](decisions.md).
+C. Our will uses the information from our mind to make [decisions](people-decisions.md).
 
 - [Purpose](purpose.md) is the foundation of consistent decision-making and behavior, and lasts far longer than emotion.
 - We develop our purposes from consistent and steady focus, *not* one-time circumstances.
@@ -172,7 +172,7 @@ The spirit is close to, but distinct from, the soul.
 [Our fallen state](jesus-gospel.md) makes our spirits dead or at least dormant, though Christ can revive them.
 
 - [Colossians 2:13](https://biblehub.com/colossians/2-13.htm)
-- The only way to accurately guess if someone has a reborn spirit (and therefore follows Jesus) is to observe their [decisions](decisions.md) in their private life over a long time.
+- The only way to accurately guess if someone has a reborn spirit (and therefore follows Jesus) is to observe their [decisions](people-decisions.md) in their private life over a long time.
 
 Even a dead spirit extends its influence outward from that person into the environment.
 
@@ -205,7 +205,7 @@ A. Intuition is spiritual information the mind couldn't have acquired or inferre
 - We can only [understand](understanding.md) God's will and desires through our intuition.
 - Most [spiritual gifts](spiritual-gifts.md) operate through our intuition.
 
-B. Conscience is a strong [conviction](understanding-certainty.md) we hold about something, and connects to our capacity to maintain our [ethics](morality.md) via clear [decisions](decisions.md).
+B. Conscience is a strong [conviction](understanding-certainty.md) we hold about something, and connects to our capacity to maintain our [ethics](morality.md) via clear [decisions](people-decisions.md).
 
 - Our conscience is the basis of how we ought to act toward God *and* other people.
   - [1 Peter 3:21](https://biblehub.com/1_peter/3-21.htm), [Acts 24:16](https://biblehub.com/acts/24-16.htm)

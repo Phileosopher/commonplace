@@ -109,6 +109,20 @@ in many ways, these 3 things are connected in different domains, and it's not he
 
 ## pensandwrenches (RSS)
 
+https://pensandwrenches.com/2025/08/20/jesus-is-enough-the-2025-iowa-state-fair/
+
+https://pensandwrenches.com/2025/08/19/it-is-finished-the-2025-iowa-state-fair/
+
+https://pensandwrenches.com/2025/08/14/engaging-youth-isf/
+
+https://pensandwrenches.com/2025/08/26/getting-the-most-out-of-begin-%E2%96%B7/
+
+https://pensandwrenches.com/2025/08/29/dewey-iowa-state-fair-2025/
+
+https://pensandwrenches.com/2025/08/31/teamwork-makes-the-dream-work/
+
+https://pensandwrenches.com/2025/10/03/fools/
+
 [CPR: Christ Provided… – Pens & Wrenches](https://pensandwrenches.com/2025/02/04/cpr-christ-provided/)
 
 [Does It Have to Be That Way? – Pens & Wrenches](https://pensandwrenches.com/2025/01/30/does-it-have-to-be-that-way/)
@@ -179,3 +193,7 @@ in many ways, these 3 things are connected in different domains, and it's not he
 [WW: Open Air Campaigners – Pens & Wrenches](https://pensandwrenches.com/2025/06/11/ww-open-air-campaigners/)
 
 [Keeping a Bible Study from Being Hijacked – Pens & Wrenches](https://pensandwrenches.com/2025/06/13/keeping-a-bible-study-from-being-hijacked/)
+
+https://pensandwrenches.com/2025/10/14/nov-22-marshalltown-ia-holiday-stroll/
+
+https://pensandwrenches.com/2025/10/15/recap-paul-mccartney-gospel-outreach-dsm/

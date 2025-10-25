@@ -61,7 +61,7 @@ The only time we don't use ourselves as the center is when we [develop another c
 
 - [Cultural](people-culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
 - [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](imagination.md) others' opinions.
-- [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](decisions.md) that create subjective sets of meaning, especially the things we [identify](identity.md) with.
+- [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](people-decisions.md) that create subjective sets of meaning, especially the things we [identify](identity.md) with.
 - [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
 
 We tend to add others' views to ours, proportional to our belief that we don't [understand](understanding.md) something ourselves. It requires a Herculean feat of [humility](morality.md) to accept we don't understand things enough that we give *all* other perspectives at least some value.
@@ -116,7 +116,7 @@ Reputation affects much of what we do because we care about it so much:
 
 - Many times, we will shun unpopular [trends](trends.md) until they're popular.
 - We can subconsciously [identify](identity.md) with things based on what other people think of them.
-- Our [choice](decisions.md) of [friends](people-friends.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
+- Our [choice](people-decisions.md) of [friends](people-friends.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
 - We pursue job titles, club roles, memberships in [groups](groups-member.md), good grades in [school](education.md), and achievements/badges in games and social media strictly for the sake of reputation.
 
 While reputation beyond a certain point isn't necessary to [coexist](people-boundaries.md) well in society or attain [the good life](goodlife.md), we do need at least some of it to gain our [purposes](purpose.md).
@@ -127,7 +127,7 @@ APPLICATION: *Everyone* is horrifically flawed. However, they typically look bet
 
 APPLICATION: Seeking honor is perfectly fine until it compromises [virtue](morality.md), *especially* when redirecting shame. It's why people [respect power structures](groups-member.md) and [honor leaders](groups-small.md).
 
-APPLICATION: Beyond avoiding being seen as a [pariah](morality-taboo.md), building a reputation is a waste of time, and we'd do better to just do what we [prefer](decisions.md).
+APPLICATION: Beyond avoiding being seen as a [pariah](morality-taboo.md), building a reputation is a waste of time, and we'd do better to just do what we [prefer](people-decisions.md).
 
 People who make a living in maintaining image (e.g., [marketers](marketing.md), politicians, PR representatives) have to work so hard at their role that they tend not to [create](creations.md) anything else [tangible](results.md). However, an expert [influencer](power-influence.md) can change the [sentiments](mind-feelings.md) of an entire [crowd](groups-member.md), some of whom are *very* influential in creating new [solutions](results.md).
 

@@ -319,7 +319,7 @@ The presence of a Trinity is the only logical way many things can happen within 
 - The Father can't deliver judgment fairly if He's a finite human.
 - The arguments for the existence of God can prove the Father's existence, but they don't necessarily prove anything about Jesus.
 - Without the Son possessing at least some scarcity of information while also being God, then God wouldn't need to respond to human changes.
-  - Without changes, there is effectively no [free will](decisions.md) because God is simply acting out a predetermined script.
+  - Without changes, there is effectively no [free will](people-decisions.md) because God is simply acting out a predetermined script.
   - There is no [legitimate relationship with God whatsoever](identity-christian.md) without a God who can respond to us in some capacity.
 - Jesus has been described as the firstborn of all creation ([Colossians 1:15](https://biblehub.com/colossians/1-15.htm)), and the Trinity makes it possible for God to always exist while also deciding to change for the sake of His creation.
 

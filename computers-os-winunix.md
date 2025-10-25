@@ -98,6 +98,8 @@ The best way to get a Linux program is a little more involved at the beginning:
 
 While Linux is more work to get the dependencies set up, it's safer because security updates are rolled out as part of the update process.
 
+As far as backwards compatibility goes, Linux is almost always prepared to run old software, while Windows often requires some workarounds. Ironically, Mac often simply doesn't run older software.
+
 ## Linux tips
 
 As of this writing, Windows still dominates the majority of the PC market. Here are a few tips to avoid making awful mistakes while using Linux:

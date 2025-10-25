@@ -32,7 +32,7 @@ In light of that uncertainty, there are [deductively](logic.md) only a few possi
 2. Everything doesn't exist and is some sort of illusion or fabrication. But, it's reliable enough to [predict](imagination.md) things somewhat accurately, so it's not worth worrying about.
 3. Everything is unknowable, but we can't really know, so it's probably one of the two above and should be treated as silly or not worth worrying about.
 
-But, like knowing reality itself, it doesn't really matter because it doesn't remove the practical components for the sake of [making decisions](decisions.md). It does, however, make it difficult for living above a day-to-day perspective.
+But, like knowing reality itself, it doesn't really matter because it doesn't remove the practical components for the sake of [making decisions](people-decisions.md). It does, however, make it difficult for living above a day-to-day perspective.
 
 Since reality itself is filtered through our perception, we have trouble [imagining](imagination.md) reality without our thoughts tangled in it.
 

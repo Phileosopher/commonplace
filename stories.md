@@ -74,7 +74,7 @@ Mechanically, there are only a few ways to build a story:
 - Description - use a third party to give context around the story.
 - Dialogue - explain [thoughts](understanding.md) and [feelings](mind-feelings.md) with some sort of [conversation](people-conversation.md).
 - Expression - Use sensory cues like visuals or sounds to paint an [image](image.md).
-- Interaction - use the audience's [decisions](decisions.md) and [expressions](results.md) to [influence](influence.md) how the audience [feels](mind-feelings.md) by drawing them into the experience.
+- Interaction - use the audience's [decisions](people-decisions.md) and [expressions](results.md) to [influence](influence.md) how the audience [feels](mind-feelings.md) by drawing them into the experience.
 
 APPLICATION: The most applicable and enjoyable nonfiction uses plenty of examples to expand and clarify the idea, and gives discussion topics for everyone to [discuss](people-conversation.md) at the end. This makes the experience more interactive for the audience and, thus, more memorable.
 
@@ -97,19 +97,19 @@ Since it's a map and not an accurate depiction, a story is always an exploration
 
 Every story communicates a [value](values.md). The stories people remember will communicate values that reference beyond itself and add meaning to the audience's life beyond the story. To achieve this, the [creator](mind-creativity.md) *must* draw from associations the audience [already had](understanding.md) before the story started.
 
-One of the most critical messages in most stories involves how we must [decide](decisions.md) in the face of [scarcity](economics.md). This leads to *severe* [conflict](conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts.md).
+One of the most critical messages in most stories involves how we must [decide](people-decisions.md) in the face of [scarcity](economics.md). This leads to *severe* [conflict](conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts.md).
 
 The best way to detect a good story is from how much everyone in the audience observes [quality](values-quality.md) as they experience it. People only stay [interested](purpose.md) in stories as long as they see anything [unexpected or unusual](imagination.md), which requires a vast [emotional range](mind-feelings.md) to trigger the audience's attention.
 
-Usually, we set ourselves at the center of the story while we're engaged with it, with a comparison/contrast with the main character's [decisions](decisions.md). As we [mature](maturity.md) to perceive others' views as having equal merit, we're able to imagine ourselves as the character in that story while suspending judgment about the quality of their decisions until the end of the story.
+Usually, we set ourselves at the center of the story while we're engaged with it, with a comparison/contrast with the main character's [decisions](people-decisions.md). As we [mature](maturity.md) to perceive others' views as having equal merit, we're able to imagine ourselves as the character in that story while suspending judgment about the quality of their decisions until the end of the story.
 
 APPLICATION: If you're reading story lore, a wiki, or listening to a company presentation, *you're* the main character of a relatively uninteresting story.
 
 ## The form of stories
 
-Every story has a main character (protagonist), who always experiences an [inner conflict](conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](image.md) by the [creator](mind-creativity.md). A hero will always [decide](decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
+Every story has a main character (protagonist), who always experiences an [inner conflict](conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](image.md) by the [creator](mind-creativity.md). A hero will always [decide](people-decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
 
-The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](imagination.md), [performing](decisions.md), or [experiencing consequences](results.md).
+The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](imagination.md), [performing](people-decisions.md), or [experiencing consequences](results.md).
 
 The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
 
@@ -147,7 +147,7 @@ Often, the main character has [companion characters](people-friends.md) who shar
 
 By the very end of the exposition, the main character must *always* want something they don't have they sincerely believe can be accomplished by performing a [risk](socialrisk.md).
 
-The starting point has a *massive* impact on the story because it determines the audience's [expectations](imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
+The starting point has a *massive* impact on the story because it determines the audience's [expectations](imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](people-decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
 
 ### Transition to middle (antithesis)
 
@@ -157,7 +157,7 @@ The middle of the story is where the character is first exposed to a [conflict](
 - [Another person](groups-member.md) inside the group who dabbles in the group's [taboos](morality-taboo.md), which may include the half-safe friend.
 - An outsider who attacks the group, usually to make [the leader](groups-small.md) feel [fearful](mind-feelings-fear.md).
 
-For whatever reason, the main character desires to interact with this change. Even if it's just to *prevent* change from what they're familiar with, they're still making a [conscious](humanity.md) [decision](decisions.md).
+For whatever reason, the main character desires to interact with this change. Even if it's just to *prevent* change from what they're familiar with, they're still making a [conscious](humanity.md) [decision](people-decisions.md).
 
 The critical moment for the transition is when the main character [expects](imagination.md) a [result](results.md) from their environment. Great stories will either make their efforts absolutely ineffective (proving that they must try harder to [succeed](success-1_why.md)) or far *too* effective (proving that the other extreme is also awful). However, they can *never* stop and return to normal after they've performed the action, or the story won't have any [meaning](meaning.md).
 
@@ -223,13 +223,13 @@ Often, adding irony to the result will heighten its emotional impact:
 - The actions they take to destroy something are precisely what they needed for that thing to destroy them.
 - Coming into possession of something they're certain will make them miserable and does everything possible to get rid of it, to discover it's the cause of their happiness.
 
-The audience will admire characters *much* more for [trying](decisions.md) than for [succeeding](results.md).
+The audience will admire characters *much* more for [trying](people-decisions.md) than for [succeeding](results.md).
 
 There's always a message at the end of the story. The [mood](mind-feelings.md) of the ending determines *everything* about the [values](values.md) the story is [communicating](language.md), and is often magnified by [symbolically](symbols.md) reproducing the beginning of the story with adaptations ("bookends"). It's why the last few minutes of a story, no matter how long, can destroy or redeem it.
 
 APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
 
-When done correctly, the end is the conclusion of a larger story, with a final [image](image.md) that leaves the audience with a personal [decision](decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](goodlife.md) or reject that [perspective](image.md) outright.
+When done correctly, the end is the conclusion of a larger story, with a final [image](image.md) that leaves the audience with a personal [decision](people-decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](goodlife.md) or reject that [perspective](image.md) outright.
 
 APPLICATION: To live a [good life](goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
 
@@ -254,7 +254,7 @@ Stories can sometimes take hours and days to expand details in many directions, 
 These themes float around a few possible [conflicts](conflicts-inner.md):
 
 - The balance between life and [death](legacy.md).
-- The realm of the [conscious](decisions.md) versus [unconscious](habits.md).
+- The realm of the [conscious](people-decisions.md) versus [unconscious](habits.md).
 - The distinction between [order](understanding-certainty.md) and [chaos](unknown.md).
 
 Any one detail can dramatically change the values of *everything* in that story, especially near the ending. One out-of-place remark or body language gesture may demonstrate ideas the creator secretly hid in the story's message. In this sense, observant consumers who detect details and understand a story entirely differently than less observant or more [immature](maturity.md) consumers will interpret.
@@ -286,7 +286,7 @@ Story-building is communicating the [changes](people-changes.md) that take place
 
 ### Character-building
 
-Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](decisions.md), [prejudices and sense](understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](identity.md) with the character and be able to approximately [predict](imagination.md) what they will do next.
+Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](people-decisions.md), [prejudices and sense](understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](identity.md) with the character and be able to approximately [predict](imagination.md) what they will do next.
 
 An interesting mechanism of character-building is to create within that character irreconcilable, competing motivations. They can be simple (and often generates [humor](humor.md)), subtle (and more easily generate drama), or elaborate (which can create both humor *and* drama).
 
@@ -319,7 +319,7 @@ Extremely effective stories *all* carry the same highly polished components:
    - Setting the story in a hypothetical far future or alternate reality (science fiction)
    - The world operates with science behaving very differently (fantasy)
    - Unknowable [fears](mind-feelings-fear.md) take on a more tangible form (horror)
-4. The entire story will [appear](image.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](understanding-certainty.md) the unknown.
+4. The entire story will [appear](image.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](people-decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](understanding-certainty.md) the unknown.
 
 Audiences have a limited attention span, so less details mean more impact. To maximize details that create meaning for certain [cultures](people-culture.md), most genre styles *heavily* expand details of a story:
 
@@ -329,7 +329,7 @@ Audiences have a limited attention span, so less details mean more impact. To ma
 - Drama expands on story.
 - Horror and thrillers focus on the antagonist:
   - Horror focuses on the antagonist's [actions](results.md).
-  - Thrillers focus on the antagonist's [decisions and motivations](decisions.md).
+  - Thrillers focus on the antagonist's [decisions and motivations](people-decisions.md).
 
 One component of every story is its suspense. Before the creator reveals the ending, the audience can interpret any [uncertain](understanding-certainty.md) details to have any form of implication they want. Expert storytellers give enough suspense to keep people somewhat reliably guessing the end, but with enough details that they were alluding to that ending all along. Too much suspense will frustrate the audience from lack of [understanding](understanding.md).
 
@@ -344,7 +344,7 @@ We often see a story as an [abstracted](values.md) existence, but it's part of a
 - Each story is composed of *many* mini-stories woven together.
 - Every story you consume is part of a grander story that spans your entire life, and [beyond](religion.md).
 
-In the case of a speech or nonfiction facts, the *audience* is the main character of the story, unveiled as the audience member makes [decisions](decisions.md) and [acts](results.md) with those [ideas](values.md) in mind. Sometimes the story will begin with the narrator, but it always ends with the audience.
+In the case of a speech or nonfiction facts, the *audience* is the main character of the story, unveiled as the audience member makes [decisions](people-decisions.md) and [acts](results.md) with those [ideas](values.md) in mind. Sometimes the story will begin with the narrator, but it always ends with the audience.
 
 Taken far enough, our understanding of a single word, data point, or sensation is a separate story, and *all* [human understanding](understanding.md) is a vast collection of connected stories.
 

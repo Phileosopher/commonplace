@@ -19,7 +19,7 @@ Though those roles seem dramatically different, they have *many* abstract compon
 
 As we keep [creating](creations.md), we naturally form [abstract values](values.md). These values compile into broad-scoping things that run farther than what we presently [understand](understanding.md).
 
-We subconsciously, automatically abstract things because it's [easier](decisions.md) in the long term. Keeping [triggers](habits.md) and [symbols](symbols.md) in our conscious instead of step-by-step procedures or mental frameworks is quicker and more efficient to find in our minds. Professionals in *any* career do it naturally, and this most visibly represents as their ideas will naturally gravitate around trade-specific [language](language.md).
+We subconsciously, automatically abstract things because it's [easier](people-decisions.md) in the long term. Keeping [triggers](habits.md) and [symbols](symbols.md) in our conscious instead of step-by-step procedures or mental frameworks is quicker and more efficient to find in our minds. Professionals in *any* career do it naturally, and this most visibly represents as their ideas will naturally gravitate around trade-specific [language](language.md).
 
 These abstractions are *far* more [useful](purpose.md) than just that line of work. Those values can apply to many, many elements across many disciplines. That is, in effect, what philosophy is:
 
@@ -133,7 +133,7 @@ On the other hand, philosophical understanding makes *many* other aspects of lif
 - Easier to detect [patterns](symbols.md) across unrelated elements.
 - After some practice, broadly applied ideas are *much* easier to [learn](understanding.md) and (more importantly) unlearn.
 - To stay precise to the truth, learning things requires *far* less mental rework later.
-- [Decisions](decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
+- [Decisions](people-decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
 
 APPLICATION: Philosophy has gotten a bad reputation because of [educators](education.md) who fail to see how the average person is *not* seeing its use. However, average people will naturally build philosophies through living their lives.
 

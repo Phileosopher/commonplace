@@ -81,7 +81,7 @@ And, a rollback netcode conversation:
 
 Games are a unique medium compared to books, audio, and movies because it's the only medium that directly interacts *back* with the user's interaction.
 
-- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](decisions.md)).
+- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](people-decisions.md)).
 
 Game [UX](engineering-design.md) should be non-intrusive, where the user will feel or observe what they should do *without* explicit instruction. To avoid text boxes with instructions or written signage, there are several tools to guide the player:
 
@@ -179,7 +179,7 @@ Often, unscrupulous developers will borrow heavily from the [operant conditionin
 
 1. Present a set of possible actions for the user, with rewards for some of those actions.
 2. For the rewarded actions, modulate the chances of the actions occurring (e.g., 1 in 20 chance, every 15 times, etc).
-3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](decisions.md).
+3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](people-decisions.md).
 4. Repeat indefinitely, changing out rewards occasionally, adding new types of rewards, and scaling them up before the user gets bored.
 5. Branch out the rewards into tiers (e.g., an easily acquired type of coin and a rare type of coin).
 6. Eventually, extend the experience into real-world [economics](economics.md) by making real-world currency necessary to advance the game.

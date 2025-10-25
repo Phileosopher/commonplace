@@ -161,7 +161,7 @@ Ecumenical Council #3 in 431 AD - the Council of Ephesus, feat. St. Cyril of Ale
 
 1. Condemned Nestorianism as heresy (that Jesus *wasn't* 100% God and 100% man), who eventually became groups like the **Assyrian Church of the East**
 2. Defined Mary as God's holy Mother
-3. Condemned Pelagianism as heresy (that we simply must [choose](decisions.md) God and don't need His grace for salvation)
+3. Condemned Pelagianism as heresy (that we simply must [choose](people-decisions.md) God and don't need His grace for salvation)
 
 Ecumenical Council #4 in 451 AD - the Council of Chalcedon feat. Pope Leo the Great and Emperor Marcian w/ 150 bishops
 
@@ -361,7 +361,7 @@ In 1693, Jakob Ammann tried to reform the Mennonite community to include shunnin
 
 The First Great Awakening was a movement in the 1730s and 1740s. It created a clear dividing line, and many of the existing denominations believed it was supporting fanaticism. It drew in relatively [uneducated](education.md) but *very* enthusiastic teachers, and started the **Evangelical** movement (an emphasis on [evangelism](evangelism.md) efforts toward non-believers). The original denominations before this movement culturally froze in the mid-1700's.
 
-- It played a major role in women's' lives, where they started focusing more on discussing their [feelings](mind-feelings.md) with each other, as well as becoming more independent in their [decisions](decisions.md).
+- It played a major role in women's' lives, where they started focusing more on discussing their [feelings](mind-feelings.md) with each other, as well as becoming more independent in their [decisions](people-decisions.md).
 - The ideas of the First Great Awakening were highly influential in starting the abolitionist movement (getting rid of the institution of [slavery](slavery.md)).
 
 The **Methodists** started largely from John Wesley in the mid-1730's as a derivative of the Anglicans.

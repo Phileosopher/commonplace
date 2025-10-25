@@ -29,7 +29,7 @@ Amusement
 
 Change
 
-- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](trends.md), which frequently reflect in our [identity](identity.md) and [priorities](decisions.md).
+- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](trends.md), which frequently reflect in our [identity](identity.md) and [priorities](people-decisions.md).
 - While we can't easily see these changes minute-by-minute, everyone changes slowly across years and decades.
 
 Comparisons
@@ -54,11 +54,11 @@ Companionship
 Conscious/Subconscious
 
 - We're all ridiculously [unaware](awareness.md) of most of our thoughts.
-- Somewhere in the mix of it, we have a [soul](humanity.md) that makes [decisions](decisions.md).
+- Somewhere in the mix of it, we have a [soul](humanity.md) that makes [decisions](people-decisions.md).
 
 Decisions
 
-- We all make decisions based on an elaborate [calculation](decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
+- We all make decisions based on an elaborate [calculation](people-decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
 - We tend to hand those decisions to more powerful people as we conform to [group](groups-member.md) [standards](people-culture.md).
 
 Denying Death
@@ -195,7 +195,7 @@ Pain
 Power
 
 - We all consider how much [power](power.md) we have compared to others.
-- This power dramatically determines the [decisions](decisions.md) we make.
+- This power dramatically determines the [decisions](people-decisions.md) we make.
 - The few end up ruling the many as a type of pyramid, which frequently [goes corrupt](mgmt-badsystems.md).
 
 Preferences
@@ -261,7 +261,7 @@ Stories
 
 Substance Habituation
 
-- If we ever use something to the point of excess, we'll receive a [diminishing return](decisions.md) from it.
+- If we ever use something to the point of excess, we'll receive a [diminishing return](people-decisions.md) from it.
 - Frequently, we'll get drawn into that excess and become [addicted](addiction.md).
 
 Supernatural

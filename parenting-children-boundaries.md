@@ -22,7 +22,7 @@ Children must internalize several critical skills to succeed:
 
 1. Self-confidence that they are capable of accomplishing, which only comes from them *actually* risking and succeeding at something.
 2. Empathy for others, which they should express as motivation to act to alleviate others' suffering.
-3. Self-control over their attention, [feelings](mind-feelings.md), [thoughts](understanding.md), [actions](decisions.md), and desires.
+3. Self-control over their attention, [feelings](mind-feelings.md), [thoughts](understanding.md), [actions](people-decisions.md), and desires.
 4. [Social skills](people-rules.md) for interacting with other children and adults, especially with respect to their most severe [eccentricities](personality.md).
 5. [Ethical behavior](morality.md) that keeps them honest and considerate.
 6. Curiosity about the world around them.

@@ -13,7 +13,7 @@ In summary, everyone must [love](people-love.md) each other for a perfect societ
 
 [Laws](people-rules.md) would only serve to enforce common sense and self-respect, and would rarely be broken intentionally. Thus, the laws would exist as a fail-safe for everything else.
 
-The laws would have a natural hierarchy of [power](power.md) leading up to the top, where we'd have a perfect moral decider. As of right now, we don't have a viable solution for whatever would make those perfect moral [decisions](decisions.md).
+The laws would have a natural hierarchy of [power](power.md) leading up to the top, where we'd have a perfect moral decider. As of right now, we don't have a viable solution for whatever would make those perfect moral [decisions](people-decisions.md).
 
 One notable difference to laws compared to our society, though, will be its severity. Falsely stating what you've seen, intentionally misspeaking or misusing words, and turning a blind eye to [evil](morality-evil.md) will be as punishable as *much* more serious crimes like physical abuse or rape. The reason for the odd punishment will be to prevent people from falling into patterns of moral decay that *do* lead to worse evil.
 
@@ -21,11 +21,11 @@ Law enforcement would still exist in some form, but wouldn't need *near* as much
 
 ## Motivation
 
-Our current society forms from [decisions](decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
+Our current society forms from [decisions](people-decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
 
 The entire culture would encourage and support each person to act in [love](people-love.md) beyond themselves. Thus, people would make all [creations](creations.md), even things like plumbing or scientific discoveries, *strictly* to solve others' [problems](purpose.md).
 
-However, selflessness is still a [choice](decisions.md), so selfish people would still exist. They'd be the equivalent of today's "village idiots". Many of them would submit themselves to vices, and the destructive nature of their lifestyles would impede their ability to [succeed](success-1_why.md).
+However, selflessness is still a [choice](people-decisions.md), so selfish people would still exist. They'd be the equivalent of today's "village idiots". Many of them would submit themselves to vices, and the destructive nature of their lifestyles would impede their ability to [succeed](success-1_why.md).
 
 The concept of money would be gone. Since nobody would care to stockpile [power](power.md), the only "currency" people would honor would be their reputations. But, since everyone would understand how [artificially inflating](image-distortion.md) their reputation could harm others, nobody would deceive anyone else.
 
@@ -39,11 +39,11 @@ The [cultures](people-culture.md) of *all* people groups in a perfect society wo
 
 - Conflict Style - Everyone would be graciously confrontational, since they'd have no [fear](mind-feelings-fear.md) that other people would become offended or [distort the truth](image-distortion.md).
 - Context Level - It would vary broadly by everyone's preference. However, everyone would patiently lower their context as they saw others not quite [understanding](understanding.md) the higher context.
-- Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
+- Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](people-decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
 - Masculinity/Femininity - Everyone would be as results-oriented or harmony-oriented as they wanted. However, everyone would *also* patiently endure others' different approach to tasks. Men would be compassionate toward women, women would respect men.
 - Power Distance - Every single group would have zero power distance. While everyone would respect each other's unique abilities and strengths, nobody would be considered "lesser" simply by having less power or authority.
 - Time Flexibility - There'd be a broad range based on the urgency of the tasks to be performed, but people would generally be patient for everything.
-- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
+- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](people-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
 - Principles/Applications - We'd see the full range of principles versus implementations.
 - Uncertainty Avoidance - Everyone, by knowing everyone else loved them, would be significantly more comfortable with [uncertainty](understanding-certainty.md) than we are today. However, some people would still accept the [unknown](unknown.md) more than others.
 

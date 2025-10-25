@@ -155,7 +155,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
   - I am a person of great value.
   - I can do everything required of me.
   - I ought to serve others.
-  - I will [choose](decisions.md) to do [what's right](morality.md), even when I don't want to.
+  - I will [choose](people-decisions.md) to do [what's right](morality.md), even when I don't want to.
 - It delays formal instruction until age 6 when children are developmentally ready.
 - Children will explore "living books" by taking nature walks to learn biology, visiting art museums to understand the arts, and learn aspects of geography, history, and literature similarly.
 - Instead of formalized testing, children are drilled on the subject via narration and discussion.
@@ -447,7 +447,7 @@ They're now ready to [manage their time better](success-4_routine.md) and [organ
 
 Applied
 
-- Can participate in [group](groups-small.md) [decisions](decisions.md).
+- Can participate in [group](groups-small.md) [decisions](people-decisions.md).
 - Able to [memorize](mind-memory.md) and recall facts.
 
 Literacy

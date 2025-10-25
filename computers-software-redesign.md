@@ -88,3 +88,9 @@ There are some ways to fix "callback hell":
 - Inside a function, don't reference another function that's inside it. Name and separate out functions into smaller roles.
 - Whenever defining things, try to move them to the top of the function ("function hoisting"). The computer tends to grab the definitions, *then* execute the function, so it saves processing time.
 - Break apart the tasks into modules that each do 1 thing. This becomes the beginnings of making [libraries and APIs](computers-programming.md).
+
+## Teamwork
+
+One of the advantages of working on a team is that other people can see things you can't.
+
+The [Torvalds principle](lawsaxioms.md) applies here, and most debugging can be done more effectively and easily if there are more people looking at it. This is why [open source](legal-ip-floss.md) can have financial benefits.

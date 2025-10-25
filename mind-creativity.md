@@ -17,7 +17,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 - Within the human mind, any sense of order is tailored and curated over numerous revisions.
 - Further, any simplicity or elegance comes from even *more* revisions.
 
-We create when our [decisions](decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
+We create when our [decisions](people-decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
 
 Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
@@ -54,7 +54,7 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 - Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
 - In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](decisions.md) is worth the [risk](socialrisk.md).
+We tend to create various [stories](stories.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](people-decisions.md) is worth the [risk](socialrisk.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 

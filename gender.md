@@ -13,7 +13,7 @@ Like everything else we perceive, we tend to observe gender differences as compl
 
 - Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](understanding.md) more.
 - Men don't value [friendships](people-friends.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
-- Women don't persevere with [decisions](decisions.md) as much as men because their nature is to revisit them for verification.
+- Women don't persevere with [decisions](people-decisions.md) as much as men because their nature is to revisit them for verification.
 
 The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
 
@@ -38,8 +38,8 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men are generally physically larger than women.
 - Men tend to have simpler thoughts than women.
 - Men have more upper-body strength while women have more lower-body strength.
-- Men tend to not reconsider a thought after it was [decided](decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
-- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
+- Men tend to not reconsider a thought after it was [decided](people-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
+- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](people-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
 - Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories.md) across many components.
 
 The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).

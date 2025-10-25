@@ -22,7 +22,7 @@ There are five major ways macroeconomists track movement:
 - Regulatory policy - how does the government make [laws](rules-methods.md)?
 - Trade - how does a government and its people interact with [other governments](politics-systems.md) and their people?
 
-It's worth noting that the entire realm of macroeconomics becomes a matter of controlling individual [decision-making](decisions.md). The motivation for this is either for [power](power.md) or [love](people-love.md) of humanity, depending on your opinion.
+It's worth noting that the entire realm of macroeconomics becomes a matter of controlling individual [decision-making](people-decisions.md). The motivation for this is either for [power](power.md) or [love](people-love.md) of humanity, depending on your opinion.
 
 APPLICATION: Markets are chaotic, so economists make statistical correlations, which [don't necessarily tie to causation](math.md). They'd be out of a job [if they didn't explain cause-and-effect](science.md), even if they're utterly wrong.
 
@@ -58,7 +58,7 @@ Governments can focus their taxation on certain domains, which creates a type of
 
 One of the most common reductionist myths is that taxpayers "pay" for government programs. Since governments manage the money supply as well, they have more dimensions of control than initial appearances.
 
-Many governments try to create costs for unrelated third parties who suffer from a [decision](decisions.md) ("negative externalities"):
+Many governments try to create costs for unrelated third parties who suffer from a [decision](people-decisions.md) ("negative externalities"):
 
 - Pollution
 - Damaging public goods
@@ -79,7 +79,7 @@ APPLICATION: By hiking the price on something, consumers won't change up to wher
 
 While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](trends.md)-resistant, and often poorly made.
 
-The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
+The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](people-decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
 
 APPLICATION: Building wealth is valuable to advancing [the good life](goodlife.md) in a society, but only as far as the middle class. Beyond that, any further wealth only runs the risk of [corrupting](morality-evil.md) unless it's used for a [virtuous](morality.md) end.
 

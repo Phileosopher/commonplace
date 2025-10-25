@@ -33,7 +33,7 @@ Product - what are you delivering? (not always tangible or sold for money)
 
 Price - what does it cost?
 
-- Even free things have an [opportunity cost](decisions.md) in time, focus, attention, etc.
+- Even free things have an [opportunity cost](people-decisions.md) in time, focus, attention, etc.
 - In our [Over-Information Age](https://stucky.tech/purpose/), paying attention is the most significant thing a person can do, so treat it with respect.
 
 Place - where are you delivering the product?
@@ -118,7 +118,7 @@ Individualization Era
 
 ## Customers' decisions
 
-Every consumer's [decisions](decisions.md) run through a product-seeking cycle:
+Every consumer's [decisions](people-decisions.md) run through a product-seeking cycle:
 
 1. Recognize an unfulfilled need
 2. Search for information to fulfill the need
@@ -292,7 +292,7 @@ A. Identify the demographics of the audience you want leads for.
   - [Ethnic groups](people-culture.md)
   - [Family lifestyles](people-family.md)
   - [Personality](personality.md)
-  - [Lifestyles and motives](decisions.md)
+  - [Lifestyles and motives](people-decisions.md)
   - [Social class](classes.md)
     - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](politics-leftism-sustainability.md)).
   - Psychographics (psychological tendencies from the environment)
@@ -818,7 +818,7 @@ The simplest ways to detect marketing abuse are by observing "glittering general
 
 Within a few years, people will detect *any* mass-marketing or [image manipulation](image-distortion.md) tactic and will learn to disregard it.
 
-- While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](decisions.md).
+- While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](people-decisions.md).
 - Avoid [dark patterns and predatory design tactics](engineering-design.md) on your internet content.
 
 If you're not sure, well-designed traditional publications that effectively communicate what the product is and what it does are all you need.

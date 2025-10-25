@@ -13,7 +13,7 @@ Results come largely from how well we've used what we have. Throughout [history]
 
 [Reality](reality.md) responds to our results. But, there's always a drawn-out time in the middle where we must wait for those results.
 
-If we define "past" as "any point in time that is not the present moment", all consequences are derived from past decisions. From instant to instant, every experience we have is merely the consequences of a previous version of us making those [decisions](decisions.md). The only question is how far, since 5 seconds [feels](mind-feelings.md) very different from 5 years.
+If we define "past" as "any point in time that is not the present moment", all consequences are derived from past decisions. From instant to instant, every experience we have is merely the consequences of a previous version of us making those [decisions](people-decisions.md). The only question is how far, since 5 seconds [feels](mind-feelings.md) very different from 5 years.
 
 We discover we're wrong *all the time*, but if we've acted on that information, we'll reap the consequences irrespective of what we've learned:
 
@@ -25,7 +25,7 @@ We discover we're wrong *all the time*, but if we've acted on that information, 
 
 APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
 
-Since we must suffer the consequences sometimes years or a decade later than a [decision](decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
+Since we must suffer the consequences sometimes years or a decade later than a [decision](people-decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
 
 APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
 
@@ -48,7 +48,7 @@ There are two broad types of consequences:
 
 We can usually do [many things](image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
 
-Consequences are not always directly connected. Occasionally, they can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain.
+Consequences are not always directly connected. Occasionally, they can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](people-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain.
 
 We like to see the consequences of our actions because we can [feel](mind-feelings.md) them. This need for [certainty](understanding-certainty.md) often dictates whether we [specialize](jobs-specialization.md) in people (relational) or things (reality) as [children](maturity.md).
 
@@ -60,7 +60,7 @@ APPLICATION: Creative works can be timeless, but *creators* have a shelf life. T
 
 ## Success
 
-To perform well is to be [successful](success-1_why.md), but a successful person is difficult to measure because we tend to look at a person and [identify](identity.md) them as "one" success. Their success, however, was many smaller [decisions](decisions.md) and consequences layered on top of one another as a dynamic building relationship between the creator, [creation](creations.md), and any audience who witnessed it.
+To perform well is to be [successful](success-1_why.md), but a successful person is difficult to measure because we tend to look at a person and [identify](identity.md) them as "one" success. Their success, however, was many smaller [decisions](people-decisions.md) and consequences layered on top of one another as a dynamic building relationship between the creator, [creation](creations.md), and any audience who witnessed it.
 
 APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
 
@@ -135,7 +135,7 @@ APPLICATION: One fascinating element of diminishing return arises in how we [und
 
 This diminishing return creates upper limits on almost everything we do. Leading up to those limits, everything tapers off until it becomes prohibitively resource-intensive.
 
-APPLICATION: Diminishing return means that simple [decisions](decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
+APPLICATION: Diminishing return means that simple [decisions](people-decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
 
 There are various reasons diminishing return exists:
 

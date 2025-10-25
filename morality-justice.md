@@ -1,7 +1,7 @@
 
 # What justice is
 
-We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](decisions.md).
+We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](people-decisions.md).
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
@@ -38,11 +38,11 @@ There are only a few forms of delivering justice, and it's based on desired [con
 
 ## Morality
 
-All matters of legal justice are issues of [morality](morality.md), with the State being the decider. They are responses to previous moral decisions that people had made, which is why they're always complicated. Small details like a coffee stain or location of a [tool](technology.md) sometimes define *everything* in a court [decision](decisions.md).
+All matters of legal justice are issues of [morality](morality.md), with the State being the decider. They are responses to previous moral decisions that people had made, which is why they're always complicated. Small details like a coffee stain or location of a [tool](technology.md) sometimes define *everything* in a court [decision](people-decisions.md).
 
-Most of the time, the emotional energy of the [deciding](decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
+Most of the time, the emotional energy of the [deciding](people-decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
 
-Court [decisions](decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
+Court [decisions](people-decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
 
 While [morality](morality.md) in a courtroom is grounded in a unique [story](stories.md) with a prosecutor and defendant, [laws](people-rules.md) must remove those stories to stay fair to all instances.
 
@@ -52,7 +52,7 @@ This becomes complicated to track when skillful lawyers use those rules to navig
 
 On top of that, each judge has a [bias](image.md), since they're [human](humanity.md). In many legal systems, they become [corrupt](mgmt-badsystems.md) when the judge is [friends](people-friends.md) with or [sympathizes](image.md) with one side of the legal case.
 
-APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends.md) with the [judge](decisions.md) or a [highly agreeable personality](personality.md).
+APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends.md) with the [judge](people-decisions.md) or a [highly agreeable personality](personality.md).
 
 For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-specialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
 

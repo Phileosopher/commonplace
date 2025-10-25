@@ -144,7 +144,7 @@ For most of us, our success will start with smaller goals:
   - Keep everything [organized](organization.md)
   - View others' perspectives and understand alternate points of view
   - Make [creative](mind-creativity.md) connections between related and seemingly unrelated things
-  - Think [critically](logic.md) and neutrally before holding a [belief](understanding-certainty.md) or making [decisions](decisions.md)
+  - Think [critically](logic.md) and neutrally before holding a [belief](understanding-certainty.md) or making [decisions](people-decisions.md)
   - Create self-directed, engaged [learning](understanding.md)
 - Character
   - [Understand](understanding.md) without passing judgment

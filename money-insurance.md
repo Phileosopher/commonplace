@@ -381,7 +381,7 @@ Every object is treated as an extension of a person or legal entity:
 - e.g., if a person's dog roams freely and bites a child, that person is the proximate cause.
 - e.g., an accident is an extension of a person's negligence, even if it's an automotive sliding on black ice.
 - In practice, every event is one of 3 possibilities:
-  1. A person's or legal entity's liability from their [agency of choice](decisions.md) (meaning an insurance carrier will expect that person/entity pay for it, often by communication with *their* insurance).
+  1. A person's or legal entity's liability from their [agency of choice](people-decisions.md) (meaning an insurance carrier will expect that person/entity pay for it, often by communication with *their* insurance).
   2. An "act of God" (meaning damages are an "external risk").
   3. A liability that's too difficult to determine (meaning damages are either property damage or "comparative negligence"). One frequent version of this is theft.
 

@@ -15,7 +15,7 @@ The good things that encompass the good life are the basis for all our [morality
 
 Most of the [conflicts](people-conflicts.md) come from [limits we impose](power.md) on others regarding those things we see lacking, as well as [our responses to those limits](morality-justice.md).
 
-One *very* heated philosophical debate worth considering is whether the good life consists in maximizing pleasure or minimizing pain. All [decisions are a calculus](decisions.md), and many good decisions do *both*, but how we prioritize them determines how we reconcile most [inner conflicts](conflicts-inner.md).
+One *very* heated philosophical debate worth considering is whether the good life consists in maximizing pleasure or minimizing pain. All [decisions are a calculus](people-decisions.md), and many good decisions do *both*, but how we prioritize them determines how we reconcile most [inner conflicts](conflicts-inner.md).
 
 ## Reinforcement
 
@@ -39,11 +39,11 @@ Over the course of a lifetime, a good life will have a progressive upward [cycle
 
 APPLICATION: Use the Five-Minute Favor Rule: *always* help someone if you can fulfill their need within 5 minutes.
 
-The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](results.md) to their [decisions](decisions.md).
+The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](results.md) to their [decisions](people-decisions.md).
 
 APPLICATION: To discern the [quality](values-quality.md) of what a person really is, don't look at where they are, but instead look at where they've come from, how far they've come, and how they respond to their situation.
 
-The good life has a broader application than merely attaining comfort. Our [decisions](decisions.md) are only responses to our environment, so an environment filled with extremes will most likely yield the best possible life:
+The good life has a broader application than merely attaining comfort. Our [decisions](people-decisions.md) are only responses to our environment, so an environment filled with extremes will most likely yield the best possible life:
 
 - Understanding the beauty of peace can only come after experiencing [war](people-conflicts-war.md).
 - Living under injustice teaches us more wholly about [justice](morality-justice.md).

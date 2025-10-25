@@ -158,7 +158,7 @@ Shadows are dark edges around the element to make the interface feel three-dimen
 
 ### Object selections
 
-A user needs *much* more information from computers than most products to make their [decisions](decisions.md):
+A user needs *much* more information from computers than most products to make their [decisions](people-decisions.md):
 
 - The user's social feedback systems should reflect habitual prompts we perform in our daily life ("like" buttons, comment boxes, "share" buttons).
 - Use one primary button per page (e.g., "Next"), with secondary buttons have a more subdued presence.
@@ -361,7 +361,7 @@ While it may be useful to catch most glaring issues, A/B testing can absolutely 
 Computers have a unique paradox:
 
 1. We must abide by [existing convention](habits.md) to learn how to operate something new.
-2. Simplicity is critical for people to easily, quickly [understand](understanding.md) information that helps them make [decisions](decisions.md).
+2. Simplicity is critical for people to easily, quickly [understand](understanding.md) information that helps them make [decisions](people-decisions.md).
 3. For the convenience of the hardware and software engineer, *all* the complexities are laid out when they first design the object.
 
 Those 3 elements combine to mean that computers *can't* please all the users unless there are *many* dropdown menus and extra hidden elements for more complex features.

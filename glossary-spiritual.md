@@ -105,7 +105,7 @@ Reconciliation - Specific concept in the Bible referring to putting away a confl
 
 Replacement theology - The belief that God will restore Israel as a nation and re-institute the sacrificial system demonstrated in the Old Testament, connected with dispensationalism and *not* part of covenant theology
 
-Sanctification - God setting apart something for a spiritual [purpose](purpose.md), implies [decisions](decisions.md) on our end, contrast with justification and regeneration
+Sanctification - God setting apart something for a spiritual [purpose](purpose.md), implies [decisions](people-decisions.md) on our end, contrast with justification and regeneration
 
 Son - the Person of the Godhead who serves the will of the Father, became human, and will inherit the universe
 

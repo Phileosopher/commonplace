@@ -3,7 +3,7 @@
 
 Dealing with the [unknown](unknown.md) is vastly difficult, so we tend to find [meaning](meaning.md) in declaring things to be certain.
 
-[We must constantly trust](trust.md) everything around us, but we make [decisions](decisions.md) to prioritize trusting one thing over another.
+[We must constantly trust](trust.md) everything around us, but we make [decisions](people-decisions.md) to prioritize trusting one thing over another.
 
 We "believe" when we consider something to be [reality](reality.md), even without direct evidence.
 
@@ -11,9 +11,9 @@ We "believe" when we consider something to be [reality](reality.md), even withou
 - If you have a job, you believe you'll have it tomorrow.
 - You believe you will wake up tomorrow morning.
 
-Beliefs are how we establish things when we can't really know but have to make some type of [decision](decisions.md) based on that information, which is almost every time we have no [direct control](results.md) over something.
+Beliefs are how we establish things when we can't really know but have to make some type of [decision](people-decisions.md) based on that information, which is almost every time we have no [direct control](results.md) over something.
 
-We start to believe when we [value](decisions.md) one thing as [true](reality.md) over another thing.
+We start to believe when we [value](people-decisions.md) one thing as [true](reality.md) over another thing.
 
 APPLICATION: The only way we can prepare our minds for maximum [understanding](understanding.md) is by opening it up to *all* possibilities. While it's uncomfortable, all we have to do is convert every inner statement into a question to create an [inner conflict](conflicts-inner.md) about it.
 
@@ -21,7 +21,7 @@ As children, we start with 100% certainty about various things, but our beliefs 
 
 1. A [deterrence](safety.md)-based [fear](mind-feelings-fear.md) of worse alternatives.
 2. A broad belief that we [understand](understanding.md) something far enough that it's very likely.
-3. Believing the thing enough to [rely on](decisions.md).
+3. Believing the thing enough to [rely on](people-decisions.md).
 4. Concluding the thing is [indisputable](conflicts-inner.md).
 5. [Identifying](identity.md) close enough with the thing to act boldly and publicly about it, even to the point of [confrontation](people-conflicts.md).
 
@@ -68,7 +68,7 @@ Generally, it takes more work to maintain an [understanding](understanding.md) t
 
 ## Decisions and trust
 
-In [decisions](decisions.md), we can only trust things we see as the same or better than the alternatives. Since we [understand ourselves](awareness.md) more than anyone else, we tend to use our self-perception as the starting point for practically everything else.
+In [decisions](people-decisions.md), we can only trust things we see as the same or better than the alternatives. Since we [understand ourselves](awareness.md) more than anyone else, we tend to use our self-perception as the starting point for practically everything else.
 
 Over our lives, we start creating a [purpose](purpose.md)-based hierarchy of what we can trust:
 
@@ -109,7 +109,7 @@ APPLICATION: Conviction requires focus, so smarter people (who can often [see co
 If that person starts denying reality to "prove" something, they're removing premises. Once this becomes [habitual](habits.md), they will resort to magical thinking, which is interpreting the world to be what they [imagine](imagination.md) instead of [what it is](reality.md). Magical thinkers tend to share a few traits:
 
 - They trust their preconceived beliefs and their [affiliated groups](groups-member.md) more than the perceptions.
-- They believe reality is dictated more by [saying](language.md) and [doing](decisions.md) specific things than from [cause-and-effect](results.md).
+- They believe reality is dictated more by [saying](language.md) and [doing](people-decisions.md) specific things than from [cause-and-effect](results.md).
 - If something is outside their [understanding](understanding.md), it doesn't exist or must be purged.
 - In their [conflicts with others](people-conflicts.md), they presume they're 100% correct, and will often shift their thoughts if they've been [logically](logic.md) convinced.
 

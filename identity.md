@@ -39,9 +39,9 @@ We tend to distinguish ourselves as "special" compared to others. This may repre
 
 With enough time and [introspection](awareness.md), certain values will surface to reflect what we like to relate to.
 
-APPLICATION: We tend to identify with ourselves in the present tense, as if "now" us is more the "self" than the version of us from ten years ago. In reality, the [difference](people-changes.md) between that person and now is only the product of all the [habits](habits.md), [decisions](decisions.md), and [consequences](results.md) we've experienced since then. Those experiences are enough to give us more in common with our peers than our past self, and the future version of us will be the same.
+APPLICATION: We tend to identify with ourselves in the present tense, as if "now" us is more the "self" than the version of us from ten years ago. In reality, the [difference](people-changes.md) between that person and now is only the product of all the [habits](habits.md), [decisions](people-decisions.md), and [consequences](results.md) we've experienced since then. Those experiences are enough to give us more in common with our peers than our past self, and the future version of us will be the same.
 
-We tend to make subconscious [decisions](decisions.md) that conform [reality](reality.md) to our identity, which hold tremendous [influence](influence.md) over our minds. Those decisions adapt our [expectations](imagination.md) about the future to forecast [past trauma](hardship-ptsd.md) revisiting or empower us to [succeed](success-1_why.md) through visualization.
+We tend to make subconscious [decisions](people-decisions.md) that conform [reality](reality.md) to our identity, which hold tremendous [influence](influence.md) over our minds. Those decisions adapt our [expectations](imagination.md) about the future to forecast [past trauma](hardship-ptsd.md) revisiting or empower us to [succeed](success-1_why.md) through visualization.
 
 The more we identify with things, the more we make *any* experience associated with those things personally associated (and therefore experience more [emotions](mind-feelings.md) about them).
 
@@ -49,9 +49,9 @@ If we suffer [addiction](addiction.md), that substance is our [creative](mind-cr
 
 ## Choices
 
-A wide variety of things happen *to* us, but we [decide](decisions.md), consciously or not, *which* [values](values.md) to prioritize. Identity is the "greatest hits" of a person to answer "who am I?" and is one of the most important sets of [habitual thoughts](habits.md) in a person.
+A wide variety of things happen *to* us, but we [decide](people-decisions.md), consciously or not, *which* [values](values.md) to prioritize. Identity is the "greatest hits" of a person to answer "who am I?" and is one of the most important sets of [habitual thoughts](habits.md) in a person.
 
-Our identities are *always* [decisions](decisions.md), though those decisions are often not conscious. We usually choose our identity by the [perceived benefits](purpose.md) we can acquire through associating with something, but we can sometimes identify through a strong [belief](understanding-certainty.md) in something we're [afraid](mind-feelings-fear.md) of that gives *no* benefit.
+Our identities are *always* [decisions](people-decisions.md), though those decisions are often not conscious. We usually choose our identity by the [perceived benefits](purpose.md) we can acquire through associating with something, but we can sometimes identify through a strong [belief](understanding-certainty.md) in something we're [afraid](mind-feelings-fear.md) of that gives *no* benefit.
 
 Generally, we do better by identifying with things we can [control](results.md) instead of things given to us from our environment (internal vs. external locus of control). If it's beyond our control or [influence](influence.md), we must [trust](understanding-certainty.md) other things to keep our identity compliant with [reality](reality.md). We're usually born with an external locus of control and must learn to focus only on what we *can* [control](results.md).
 
@@ -59,7 +59,7 @@ We have "authentic" identities when we have [created](mind-creativity.md) an ori
 
 APPLICATION: People who use clichés and trite sayings aren't being authentic with their [language](language.md) because they're [afraid](mind-feelings-fear.md) of [what others may think](morality-taboo.md) or what they may [learn](understanding.md) about themselves, and observers can see it clearly.
 
-APPLICATION: The easiest way to detect what others identify with is to see them when they're experiencing changing circumstances. That person will [choose](decisions.md) to keep what they identify with, even when they [deny](image-distortion.md) or [feel](mind-feelings.md) shame over it. Often, abrupt [decisions](decisions.md) come *from* those specific identifiers they've finally [made a move](results.md) toward.
+APPLICATION: The easiest way to detect what others identify with is to see them when they're experiencing changing circumstances. That person will [choose](people-decisions.md) to keep what they identify with, even when they [deny](image-distortion.md) or [feel](mind-feelings.md) shame over it. Often, abrupt [decisions](people-decisions.md) come *from* those specific identifiers they've finally [made a move](results.md) toward.
 
 Nobody ever considers themselves to be average or typical. Even though most of what we are is *very* similar to [all the rest of humanity](humanity-universals.md), we like to think our idiosyncratic details have far more value than what we have in common with everyone else. It's sometimes better than everyone else (e.g., easy tasks) and sometimes worse (e.g., hard tasks), but we sincerely believe ourselves (both flaws and strengths) to be uniquely important in some way.
 
@@ -69,6 +69,6 @@ APPLICATION: We all want to be "special", but we're not. There are over 7,000,00
 
 The [ideas](values.md) we focus on and [words](language.md) we choose play a *massive* part of our identity because they determine how we frame the [stories](stories.md) of ourselves. These decisions may be helpful or hurtful, context-sensitively, depending on the [results](results.md) they create with our environment.
 
-APPLICATION: We control and associate with things in our environment, such as our bodies, [tools](technology.md), and vehicles, but those [results](results.md) are a degree removed from our [true selves](humanity.md), which are far more immaterial and tied closely to our [decisions](decisions.md).
+APPLICATION: We control and associate with things in our environment, such as our bodies, [tools](technology.md), and vehicles, but those [results](results.md) are a degree removed from our [true selves](humanity.md), which are far more immaterial and tied closely to our [decisions](people-decisions.md).
 
 Because it creates an association to everything we do, our name holds tremendous power, whether we hear it or express others' names. A name becomes the [symbolic](symbols.md) aggregate of everything that a person is.

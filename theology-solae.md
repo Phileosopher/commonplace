@@ -94,7 +94,7 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 1. Our belief in [God](god.md), who God is, God's nature, et al.
 2. Our specific [trust](understanding-certainty.md) that God will [do something](results.md).
 
-Trusting God takes *far* more work than simply believing in Him, and requires [taking action](decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
+Trusting God takes *far* more work than simply believing in Him, and requires [taking action](people-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
 
 The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](jesus-gospel.md) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/bsb/matthew/21.htm)).
 

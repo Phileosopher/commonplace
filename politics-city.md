@@ -9,7 +9,7 @@ Rural
 
 - Often governed by broad [rules](people-rules.md) and honors the [implications](mind-feelings.md) of those boundaries.
 - Most people get most of their [news](stories-storytellers.md) days, weeks, or months after the event happens.
-- The people value autonomy (self-determined [decisions](decisions.md)) over interdependence.
+- The people value autonomy (self-determined [decisions](people-decisions.md)) over interdependence.
 - Most available services are very limited from how few specialists are competing for [work](results.md), and most people have a plethora of general skills to take care of tasks themselves.
 - Everyone tends to speak more quietly and slower, and has a type of "free" [disposition](personality.md).
 - They tend to be very [understanding](understanding.md) and [self-aware](awareness.md) from having lots of time to think and observe.

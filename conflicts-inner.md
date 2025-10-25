@@ -3,7 +3,7 @@
 
 We often believe conflicts are [interpersonal](people-5_conflicts.md) and [negotiations](people-conflicts-negotiation.md) with others, but all human conflicts begin and end in our minds.
 
-In fact, *most* human conflicts are internal. Every [decision](decisions.md) we make is a conflict until we've become [certain](understanding-certainty.md) of what we want, but it also expresses when:
+In fact, *most* human conflicts are internal. Every [decision](people-decisions.md) we make is a conflict until we've become [certain](understanding-certainty.md) of what we want, but it also expresses when:
 
 - We [feel](mind-feelings.md) something doesn't match our intuition.
 - We hear of an experience or idea that's different than we [understand](understanding.md).
@@ -22,7 +22,7 @@ APPLICATION: If we have *any* unease with a statement, we must [understand](unde
 
 We can internalize [multiple perspectives](image.md) at once, which we are also capable of [believing](understanding-certainty.md) at the same time (cognitive dissonance). Everyone experiences at least some cognitive dissonance in the routine course of their life because we frequently [change](people-changes.md) our [understanding](understanding.md) as we [learn](education.md), but will maintain [habitual](habits.md) past [beliefs](understanding-certainty.md) when we don't make a priority of revisiting them.
 
-When we must consciously choose something, we must [decide](decisions.md). But, we can do one of two things to forestall that deciding:
+When we must consciously choose something, we must [decide](people-decisions.md). But, we can do one of two things to forestall that deciding:
 
 1. If we've made a reliable [habit](habits.md) of denial, we can use dismissal and defense mechanisms to force the idea back into the unconscious again and maintain our cognitive dissonance.
 2. If we have enough willpower and [courage](understanding-certainty.md) against our [fears](mind-feelings-fear.md), we can rapidly make a [morally good](morality.md) decision, stand strong on that conviction, and not think about it anymore until we feel ready. Quick moral decisions are the best solution when we're not [emotionally](mind-feelings.md) ready to handle a challenging string of decisions, and gives us [power](power.md) over the [unknown](unknown.md) even when we're still [uncertain](understanding-certainty.md).
@@ -43,7 +43,7 @@ These conflicts represent in [literature](stories.md), and embody 9 relatively s
 
 ## Pleasure and conflict
 
-Not all inner conflict is endless misery. More inner conflict gives us a more powerful reward when we settle ourselves on a [decision](decisions.md), especially if it yields [good consequences](results.md).
+Not all inner conflict is endless misery. More inner conflict gives us a more powerful reward when we settle ourselves on a [decision](people-decisions.md), especially if it yields [good consequences](results.md).
 
 Not all conflict is unpleasant, and we tend to [have fun](purpose.md) and [identify](identity.md) ourselves against our environment. We find tremendous [meaning](meaning.md) through how we combine what we [imagine](imagination.md) and [reality](reality.md).
 
@@ -63,4 +63,4 @@ APPLICATION: The notion of an action-free Utopian society is flawed because it d
 
 We are often subjected to inner conflict by others (e.g., [salespeople](marketing.md), [politicians](politics-conservativeliberal.md)), and our typical state is already more conflicted than we appear *without* outside [influence](influence.md).
 
-Most people react to inner conflicts by trying to make a rapid [decision](decisions.md) and forcing their [environment](results.md) to change, often driven by [past trauma](hardship-ptsd.md). The only way to live the [good life](goodlife.md) is to slow down and [consider](understanding.md) those mental battles as we are capable of focusing on them, without dragging our environment into it.
+Most people react to inner conflicts by trying to make a rapid [decision](people-decisions.md) and forcing their [environment](results.md) to change, often driven by [past trauma](hardship-ptsd.md). The only way to live the [good life](goodlife.md) is to slow down and [consider](understanding.md) those mental battles as we are capable of focusing on them, without dragging our environment into it.

@@ -67,7 +67,7 @@ The [Natural World](reality.md):
 - Don't take on tasks that are too large.
 - Have fun like you were dying.
 
-[Decisions](decisions.md) and [Meaning](meaning.md):
+[Decisions](people-decisions.md) and [Meaning](meaning.md):
 
 - [Living well](goodlife.md) is more than surviving.
 - Focus on [today](awareness.md), since you [might not live tomorrow](imagination.md).

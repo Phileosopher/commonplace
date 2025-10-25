@@ -61,7 +61,7 @@ The most rapidly processed paperwork will give precisely what they need to know 
 
 Every bit of information must be all the following:
 
-1. They need the information to make an informed [decision](decisions.md).
+1. They need the information to make an informed [decision](people-decisions.md).
 2. Your submitted information doesn't [imply](image.md) something worse than reality.
 3. You're absolutely [certain](understanding-certainty.md) that the information is correct.
 

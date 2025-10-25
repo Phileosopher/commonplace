@@ -44,7 +44,7 @@ Over time, not sifting through feelings creates a pent-up set of sentiments, whi
 - Longing becomes despair
 - Guilt becomes shame
 
-Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
+Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](people-decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
 
 There are many clinical terms for our natural self-protection techniques:
 
@@ -58,7 +58,7 @@ There are many clinical terms for our natural self-protection techniques:
 - Projection - using personal experience as a broader pattern than it should be
 - Counter-transference - using a personal experience of a past person about a current person's transference
 
-Because of how severe we [feel](mind-feelings.md) things when we're [young](maturity.md), past traumas rarely provoke a desire for subtle [change](people-changes.md). Thus, it's impossible to think [rationally](logic.md) when we make [decisions](decisions.md).
+Because of how severe we [feel](mind-feelings.md) things when we're [young](maturity.md), past traumas rarely provoke a desire for subtle [change](people-changes.md). Thus, it's impossible to think [rationally](logic.md) when we make [decisions](people-decisions.md).
 
 Nobody experiences trauma the same way, and they express it even more differently. For example, a small boy with a physically abusive, alcoholic father may direct their sentiment a few directions:
 
@@ -71,7 +71,7 @@ The hatred is a [habit loop](habits.md) that triggers on anything that reminds t
 
 Since our grasp on [reality](reality.md) is already pretty [uncertain](trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
 
-Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](awareness.md) of that pain and therefore [respond](decisions.md) as if it doesn't exist. This is known as "[dysregulation](awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-4_health.md).
+Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](awareness.md) of that pain and therefore [respond](people-decisions.md) as if it doesn't exist. This is known as "[dysregulation](awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-4_health.md).
 
 Thankfully, because of our tendency to [anticipate](stories.md) and [imagine](imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
 

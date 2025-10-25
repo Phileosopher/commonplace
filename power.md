@@ -18,9 +18,9 @@ Without [love](people-love.md), the only useful thing any person's purpose can e
 
 ## Power's basis
 
-Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](decisions.md). It can come from [family/group reputation](image.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](decisions.md) would yield.
+Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](people-decisions.md). It can come from [family/group reputation](image.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](people-decisions.md) would yield.
 
-APPLICATION: Power is somewhat randomly distributed to each of us through [upbringing](people-family.md) and [personality](personality.md), but we can make [decisions](decisions.md) that determine how our power shifts over time.
+APPLICATION: Power is somewhat randomly distributed to each of us through [upbringing](people-family.md) and [personality](personality.md), but we can make [decisions](people-decisions.md) that determine how our power shifts over time.
 
 We tend to say something has "value" when we interpret it as having power. That [value](values.md) comes from its ability to fulfill [purposes](purpose.md) for ourselves or others. If something is "universally valuable", it's because it satisfies a [human universal](humanity-universals.md).
 
@@ -37,7 +37,7 @@ Money is tangible, but [most power isn't](power-types.md). We can't discern *pre
 
 1. We guess how much power we have to accomplish our [purposes](purpose.md).
 2. We observe and trust the [image](image.md) of others' power to discern *their* power compared to ours.
-3. Then, we make [decisions](decisions.md) based on a complex power calculus to achieve [results](results.md) we want to see.
+3. Then, we make [decisions](people-decisions.md) based on a complex power calculus to achieve [results](results.md) we want to see.
 4. After we see what happened, we correct our [prediction](imagination.md) later of others as we gain [experience](understanding.md).
 
 We can gain awareness of most power through [meditation and introspection](awareness.md). Most psychotherapy is untangling and releasing power we had given to awful [authority figures](groups-small.md).
@@ -48,7 +48,7 @@ APPLICATION: All forms of power, even knowledge, are limited. Since [power of al
 
 Without [overflowing love](people-love.md) for a thing, the direct motivation for *any* [purpose](purpose.md) is for power. At the end, though, there's *always* a love of someone or something that drives that power.
 
-If the greatest purpose of any action that gains power doesn't provide someone else a benefit, that [decision](decisions.md) is [evil](morality-evil.md) because we're willing to sacrifice people for a purpose that never serves anyone but ourselves. Any desire can also become evil when we lose sight of why we want it.
+If the greatest purpose of any action that gains power doesn't provide someone else a benefit, that [decision](people-decisions.md) is [evil](morality-evil.md) because we're willing to sacrifice people for a purpose that never serves anyone but ourselves. Any desire can also become evil when we lose sight of why we want it.
 
 Unless we're acting out of [love](people-love.md), our causes are easy to forget because they usually become [habitual](habits.md) otherwise. Even the desire for [safety](safety.md) can easily convert to evil.
 
@@ -98,7 +98,7 @@ APPLICATION: We must be sure we [understand](understanding.md) the entire situat
 
 Things like raw intellectual power or physical strength are useful forms of power, but power that enhances and magnifies *other* forms of power (e.g., [technology](technology.md), [influence](influence.md)) is far more effective in the long term.
 
-Most of our [decisions](decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries.md) with others and [adopting trends](trends.md).
+Most of our [decisions](people-decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries.md) with others and [adopting trends](trends.md).
 
 APPLICATION: Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
 
@@ -155,7 +155,7 @@ APPLICATION: Giving everyone power, such as everyone having guns, would make eve
 
 ## Downsides
 
-All power has the [opportunity cost](decisions.md) of another power:
+All power has the [opportunity cost](people-decisions.md) of another power:
 
 - Emphasizing knowledge diminishes the ability to affiliate as a peer within a typical social group.
 - Being larger and stronger means slower and less mobile.
@@ -175,11 +175,11 @@ Trying to maintain power can also create very unpleasant consequences:
 
 APPLICATION: Never desire more power than what you need for your [purposes](purpose.md).
 
-Further, almost all power has a [diminishing return](decisions.md) from continuing to amass it:
+Further, almost all power has a [diminishing return](people-decisions.md) from continuing to amass it:
 
 - Gaining more money, after a point, is merely useful to gain [influence](influence.md) *beyond* money.
 - Gaining knowledge is only valuable when we don't know, and it becomes progressively less useful as we [understand](understanding.md) more.
 - Gaining a social network is useful, but also comes with tremendous risks because you're [trusting](trust.md) more people.
 - Excess power generates [meaninglessness](meaning.md), as proven by an increased suicide rate among doctors, lawyers, and lottery winners.
 
-Every powerful phase has an ideal [season](trends.md). [Young people](maturity.md) are powerful in physical strength and attractiveness, while older people are powerful in [wisdom](understanding.md) and [cleverness](decisions.md), and we will all [pass on](legacy.md) after losing our power to even stay alive.
+Every powerful phase has an ideal [season](trends.md). [Young people](maturity.md) are powerful in physical strength and attractiveness, while older people are powerful in [wisdom](understanding.md) and [cleverness](people-decisions.md), and we will all [pass on](legacy.md) after losing our power to even stay alive.

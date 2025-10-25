@@ -106,7 +106,7 @@ We consume because we're trying to stay informed about a few domains:
 These each require a different approach:
 
 1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
-2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](decisions.md).
+2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](people-decisions.md).
 3. Following people should never be unpleasant unless those people could create risks that we [may have to manage](safety-riskmgmt.md). Therefore, the experience should be a hobby, unless those people are simply the conduit for trends.
 
 The constant stream of data is valuable to us because it *sometimes* yields something we like, which can chain us to a gambling [addiction](addiction-substances.md) that risks our time and attention instead of money.

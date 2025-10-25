@@ -17,7 +17,7 @@ APPLICATION: We're stuck with incessant chaos in our most mundane experiences:
 - Nothing you [trust](trust.md) is entirely [safe](safety.md).
 - No two of your thoughts are technically the same, since they travel down different neural pathways each time, and [habits](habits.md) reinforce any thought that *does* repeat.
 
-Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](decisions.md) that drove them, but we [deceive](image.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](identity.md).
+Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](people-decisions.md) that drove them, but we [deceive](image.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](identity.md).
 
 APPLICATION: We often [believe](understanding-certainty.md) our memories are pristine. However, they're open to failure and not very reliable as time passes. Thus, we should only partly trust ourselves about our perspective as a [scientific](science.md) reality, consistently [cross-reference it](people-conversation.md) with others' to be as certain as possible, and quickly change our [value system](values.md) if we find we're wrong.
 
@@ -58,7 +58,7 @@ Contrary to what many people [imagine](imagination.md), chaos isn't *complete* d
 2. Natural Chaos - the natural state of [reality](reality.md), which has large-scale general rules but is completely disordered on the small-scale. For example, sand and sticks on a beach will be in disarray, but a desert won't show piles of blood, stones, fish, and snow.
 3. "Cthulhu" Chaos - complete disorder, with no rules to define things.
 
-Partial chaos doesn't work well with us, and we tend to treat *any* chaos with distrust, even when we *know* of the Unknown, and that [uncertainty](understanding-certainty.md) frequently interferes with rational [decision-making](decisions.md). The nature of [mnemonics](mind-memory.md) and [symbols](symbols.md) is our mind's attempt to impose patterns onto things without patterns, and [language](language.md) is how we harness the unknown.
+Partial chaos doesn't work well with us, and we tend to treat *any* chaos with distrust, even when we *know* of the Unknown, and that [uncertainty](understanding-certainty.md) frequently interferes with rational [decision-making](people-decisions.md). The nature of [mnemonics](mind-memory.md) and [symbols](symbols.md) is our mind's attempt to impose patterns onto things without patterns, and [language](language.md) is how we harness the unknown.
 
 Interestingly, as we perceive chaos, Cthulhu Chaos doesn't actually "exist", but our [perceptions](image.md) tend to deceive us to where our [feelings](mind-feelings.md) define Natural Chaos as Cthulhu Chaos.
 
@@ -147,7 +147,7 @@ Our [personality](personality.md) dictates this balance, but those personalities
 2. The Past is the second-most known we have, proportional to how near it is to us in time and how reliable our memories are. It also represents some of the worst qualities that we need to [change](people-changes.md), and we run the risk of falling behind the [trends](trends.md).
 3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](people-culture.md).
 
-APPLICATION: How we focus on the past, present, and future dictates how we prioritize the Unknown for our [purposes](purpose.md). This represents itself in the way we [choose](decisions.md) to live and [the groups we associate with](groups-member.md).
+APPLICATION: How we focus on the past, present, and future dictates how we prioritize the Unknown for our [purposes](purpose.md). This represents itself in the way we [choose](people-decisions.md) to live and [the groups we associate with](groups-member.md).
 
 APPLICATION: [Fear](mind-feelings-fear.md) of the Unknown is good to a point. However, we must still manage it, or it'll bury us. The easiest way to do it is through as much [education](education.md) as we can acquire on the subject, and accept what we can't know.
 
@@ -180,7 +180,7 @@ APPLICATION: More [information](information.md) isn't always better. At times, t
 
 For that reason, chaos can build recursively into systems as order builds. At any time, increases in order can bring about latent chaos to bring about a type of destruction of everything that had been established.
 
-APPLICATION: Whenever we see any disorder, our impulse is to focus on it. In reality, that disorder is built on a *ton* of previous order, which could all be destroyed if we don't observe its significance before [making decisions](decisions.md).
+APPLICATION: Whenever we see any disorder, our impulse is to focus on it. In reality, that disorder is built on a *ton* of previous order, which could all be destroyed if we don't observe its significance before [making decisions](people-decisions.md).
 
 FURTHER APPLICATION: The [feeling](mind-feelings.md) of betrayal is uniquely devastating to us because it's a deconstruction of the order we had imagined existed.
 

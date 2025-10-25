@@ -51,7 +51,7 @@ It indicates 4 key elements that contribute to a team's productivity and unity:
 It indicates that a manager has to perform 4 main functions:
 
 - Planning - [setting goals](success-3_goals.md), creating strategies, and preparing plans
-- Organizing - identifying tasks, dividing them out, assigning, tracking, and building [decision-making systems](decisions.md)
+- Organizing - identifying tasks, dividing them out, assigning, tracking, and building [decision-making systems](people-decisions.md)
 - Leading - [motivating](power-influence.md) workers, directing actions, choosing communication channels, resolving [conflicts](people-5_conflicts.md)
 - Controlling - determining others' work outcomes, checking on status, [taking corrective actions](mgmt-5_communication.md)
 

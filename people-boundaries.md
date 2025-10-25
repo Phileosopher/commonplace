@@ -5,7 +5,7 @@ When we put together everything everyone is entitled to do, we have a set of bar
 
 Boundaries are the various divisions between ourselves, others, and our environment that create a convergence of everyone's rights.
 
-While the fringes of these boundaries have plenty of gray area up for debate, some things inherently within the sole [control](decisions.md) of a living being are non-negotiable. Those things are called "rights".
+While the fringes of these boundaries have plenty of gray area up for debate, some things inherently within the sole [control](people-decisions.md) of a living being are non-negotiable. Those things are called "rights".
 
 ## Rights
 
@@ -86,7 +86,7 @@ Our [upbringing](people-family.md) can also communicate to us that we don't have
 
 The only way any one person can reliably satisfy another's human rights is through [loving](people-love.md) them. Otherwise, we usually won't consider others' mental rights, even with elaborate [social engineering](mgmt-badsystems.md).
 
-In the absence of love, the only way people can ever make sensible [decisions](decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
+In the absence of love, the only way people can ever make sensible [decisions](people-decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
 
 One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](trust.md) the average citizen.
 
@@ -126,7 +126,7 @@ Our [feeling](mind-feelings.md) against others violating our privacy is usually 
 - Where you ate lunch or spent last Friday isn't typically relevant to most people.
 - Your music preferences can't do much if everyone else knows.
 
-Most privacy concerns over small things are associated with others' ability to [predict](imagination.md) your behavior. However, people keep making [decisions](decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
+Most privacy concerns over small things are associated with others' ability to [predict](imagination.md) your behavior. However, people keep making [decisions](people-decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
 
 This privacy sometimes extends to everyone, but more often only applies to outsiders of a [group](groups-member.md). Typically, there's someone responsible for managing that privacy, so they usually have disproportionate [power](power.md) over that information.
 

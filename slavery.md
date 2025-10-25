@@ -8,7 +8,7 @@ Most references to slavery have historically been the concept of owning people, 
 - Domination via [war](people-conflicts-war.md), with the loser becoming the property of the winner.
 - That person was born into an owned family.
 
-A slave, however, is anyone unable to make free [decisions](decisions.md) to the scope of [their rights](people-boundaries.md).
+A slave, however, is anyone unable to make free [decisions](people-decisions.md) to the scope of [their rights](people-boundaries.md).
 
 APPLICATION: The current [fashions](trends.md) of modern society treat slavery discussions as [taboo](morality-taboo.md), but the concept is farther-reaching than most people realize.
 
@@ -41,7 +41,7 @@ When someone selects slavery willingly, rather than being forced into it, that p
 
 Servants, unlike slaves, can both say and enforce [their right](people-boundaries.md) to say "no" to something. This [possibility](imagination.md) of choice distinguishes them because the servant has (or had) dictated who they're serving, while the slave is forced without negotiation to serve whether they desire to or not.
 
-Servants, therefore, are considered "voluntarily" slaves, and society interprets them as "free" even when they're bound by an [agreement](people-contracts.md) because they made a [choice](decisions.md). On the other hand, slaves' [decisions](decisions.md) mean nothing except how much [power](power-types.md) is necessary to keep them bound.
+Servants, therefore, are considered "voluntarily" slaves, and society interprets them as "free" even when they're bound by an [agreement](people-contracts.md) because they made a [choice](people-decisions.md). On the other hand, slaves' [decisions](people-decisions.md) mean nothing except how much [power](power-types.md) is necessary to keep them bound.
 
 APPLICATION: The line between slave and servant is murky. People sometimes consent to a slavery arrangement (e.g., foreigners who don't understand the [language](language.md) of a [contract](people-contracts.md)), but won't care because it was *better* than their [culture](people-culture.md) of origin.
 
@@ -54,7 +54,7 @@ This situation means the slave has two methods available to change their situati
 1. [Become aware](awareness.md) of otherwise unseen [power](power.md).
 2. Focus their [willpower](purpose.md) into successful, [creative](mind-creativity.md) solutions to gain their freedom. This may include geographically relocating to somewhere else that doesn't recognize their status as a second-tier citizen.
 
-We can also make [decisions](decisions.md) to *increase* our enslaved status:
+We can also make [decisions](people-decisions.md) to *increase* our enslaved status:
 
 - The only difference between a wealthy free person and a poor slave is a few foolish decisions breaking the wrong [rules](people-rules.md) and [dishonoring cultural norms](morality-taboo.md).
 - We can lose so much [power](power.md) relative to others that we become enslaved.
@@ -77,7 +77,7 @@ But, for several reasons, humans will always exert some level of evil when they 
 1. When a social system permits it, they have nobody to oppose them
 2. The institution itself doesn't give people inherent value for their [actual human worth](humanity.md).
 
-APPLICATION: Submitting to slavery through [fear](mind-feelings-fear.md) of a powerful and [evil](morality-evil.md) master might be worse than dying, so [calculate carefully](decisions.md).
+APPLICATION: Submitting to slavery through [fear](mind-feelings-fear.md) of a powerful and [evil](morality-evil.md) master might be worse than dying, so [calculate carefully](people-decisions.md).
 
 Because slavery is the act of forcing power over another, it's difficult in free societies to discern who owns who, or when:
 

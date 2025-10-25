@@ -94,7 +94,7 @@ Most efforts to distort appearances are [designed](purpose.md) to rebuild the sy
 2. Portray true ideas as if they were untrue.
 3. Rearrange the symbols to portray a different [feeling](mind-feelings.md) behind them.
 
-APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, but it drifts into [evil](morality-evil.md) when it's evoking enough [feelings](mind-feelings.md) to make people change their [decision](decisions.md) they otherwise would have made while they were [perfectly rational](logic.md).
+APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, but it drifts into [evil](morality-evil.md) when it's evoking enough [feelings](mind-feelings.md) to make people change their [decision](people-decisions.md) they otherwise would have made while they were [perfectly rational](logic.md).
 
 FURTHER APPLICATION: Don't waste too much time trying to [influence](influence.md) others' ideas without approaching the symbols. Typically, you'll need symbols of your own to make a difference.
 

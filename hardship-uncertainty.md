@@ -4,7 +4,7 @@
 When you don't know, look for what you *can* know:
 
 - Very frequently, all uncertain things rest on certain facts:
-  - No news about a [decision](decisions.md) means people are waiting or deliberating.
+  - No news about a [decision](people-decisions.md) means people are waiting or deliberating.
   - No news about physical things means the situation hasn't expressed itself explicitly.
   - If you aren't being informed of something that someone else may know, there's always a logical reason why.
 - Ask "why" more than "what".

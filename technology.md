@@ -64,7 +64,7 @@ APPLICATION: Whatever someone does for a living profoundly changes how they [thi
 
 We tend to [expect](imagination.md) more out of ourselves and others when we're using technology. Since we [trusted](trust.md) it more than we realized, we tend to feel lost and helpless when that technology fails.
 
-Typically, people treat a technological thing as a separate entity with a separate [essence](humanity.md). A [created](creations.md) thing, however, can only operate under the [purpose](purpose.md) of its creator or user. Even if it's taught to learn for itself (e.g., [artificial intelligence](computers-ai.md)), it'll still only learn within the scope of its instructions and never [self-determine](decisions.md).
+Typically, people treat a technological thing as a separate entity with a separate [essence](humanity.md). A [created](creations.md) thing, however, can only operate under the [purpose](purpose.md) of its creator or user. Even if it's taught to learn for itself (e.g., [artificial intelligence](computers-ai.md)), it'll still only learn within the scope of its instructions and never [self-determine](people-decisions.md).
 
 We also tend to separate technology from the rest of nature. Even though we're using natural resources, steel and plastic often [feel](mind-feelings.md) "fake" by comparison from how [well-crafted](values-quality.md) they are. This is only an illusion based on our interpretation of [order](unknown.md).
 
@@ -96,7 +96,7 @@ The things we build are often rebuilt and improved later for a [specialization](
 
 New technology [culturally](people-culture.md) disseminates as a [social trend](trends.md). Innovators adopt it first, then the majority adopts it for various reasons. There will *always* be laggards who refuse to adopt the technology, frequently on [moral](morality.md) grounds.
 
-All technology becomes progressively more [reliable](trust.md), up to a point. Afterward, the [trade-offs](decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](trends.md), the trend followers won't care and will use it even when it's *not* reliable.
+All technology becomes progressively more [reliable](trust.md), up to a point. Afterward, the [trade-offs](people-decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](trends.md), the trend followers won't care and will use it even when it's *not* reliable.
 
 We [change](people-changes.md) to conform to our environment. If we expose ourselves frequently to a certain technology, we'll adapt to [reasoning](logic.md) that harmonizes with that technology's [design](values.md).
 
@@ -138,7 +138,7 @@ When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war.m
 
 When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](people-culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
 
-People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
+People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](people-decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
 
 Technology can never fully replace human [creativity](mind-creativity.md) unless it were able to synthesize [feelings](mind-feelings.md)-based [logic](logic.md) like we do. Without it, the fastest computer can only stay confined to [conventional](habits.md) methods.
 
@@ -160,7 +160,7 @@ Technology requires information to [understand](understanding.md) and invent. Pe
 
 APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](trends.md) dies. If they do, they can slow the trend indefinitely.
 
-APPLICATION: In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
+APPLICATION: In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](people-decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
 
 As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](results.md) instead.
 

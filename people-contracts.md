@@ -289,7 +289,7 @@ This may not always apply:
 
 The acceptance of the contract is *typically* at the precise time the other party communicates their acceptance, though there are exceptions:
 
-- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](decisions.md).
+- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](people-decisions.md).
 - The "posting rule" considers the time delay for sending messages and goods:
   1. The offering party sends the offer by mail, and the effective date is when they send it (e.g., January 12).
   2. The offer isn't valid until the receiving party gets it (e.g., January 17).

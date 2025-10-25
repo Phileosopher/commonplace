@@ -168,7 +168,7 @@ You're never going to get parenting completely right:
 
 - It's practically a guarantee that, in some capacity, you'll be [a bad parent](parenting-children-bad.md)
 - The only way to be a perfect parent is to be a perfect role model, which is humanly impossible.
-- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](decisions.md), *not* the quality of their parenting.
+- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](people-decisions.md), *not* the quality of their parenting.
 - At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-4_friends.md) in adulthood, decades later.
 - There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](people-culture.md).
 

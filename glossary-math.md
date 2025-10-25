@@ -131,7 +131,7 @@ Fraction - a representation of unresolved division that indicates a part of anot
 
 Function - a clear pattern that can be represented by a formula
 
-Game theory - mathematical models of strategic interactions, most notably [decisions](decisions.md) based on [understood](understanding.md) and [imagined](imagination.md) circumstances
+Game theory - mathematical models of strategic interactions, most notably [decisions](people-decisions.md) based on [understood](understanding.md) and [imagined](imagination.md) circumstances
 
 Galois theory - a connection between field theory and group theory
 

@@ -9,13 +9,13 @@ The existence of a self-determined purpose, usually involving survival, is a maj
 
 One of the key differences between humans and any other animal is the sophistication of our purposes. We can make elaborate purposes based on [trust](understanding-certainty.md) in *very* long-term estimations of the future.
 
-Our purposes make endless [decisions](decisions.md) that slowly form into [habits](habits.md) we want, and those purposes are the clearest observable indicator of what a [human soul](humanity.md) is driven toward.
+Our purposes make endless [decisions](people-decisions.md) that slowly form into [habits](habits.md) we want, and those purposes are the clearest observable indicator of what a [human soul](humanity.md) is driven toward.
 
 Every purpose we make is a response to our environment:
 
 1. [Reality](reality.md) demonstrates something, which we construct into associations to remembered things into a [story](stories.md) which has an ending that generates a [feeling](mind-feelings.md).
 2. That feeling provokes us to engage in a type of [inner conflict](conflicts-inner.md) over a need or want we presently don't have.
-3. We continue to perceive that thing as a "problem" until we [decide](decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
+3. We continue to perceive that thing as a "problem" until we [decide](people-decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
 4. We then search for a [means](results.md) to "fix" that problem.
 
 APPLICATION: Without [awareness](awareness.md), our purposes tend to override [reality](reality.md), which is why we employ so much [faith](trust.md) in so many things.
@@ -38,7 +38,7 @@ Quickly, within moments, we start forming [habits](habits.md) of thought and act
 
 We tend to pursue our physical needs, then move to psychological ones. Often before we can talk, *all* the physiological needs are subsets of psychological needs, even though we're not [aware](awareness.md) of the transition:
 
-- Autonomy - the opportunity to make [decisions](decisions.md) for ourselves
+- Autonomy - the opportunity to make [decisions](people-decisions.md) for ourselves
 - Competence - the ability to be [important](identity.md) about something
 - Relatedness - a chance to [connect with others](people-4_friends.md) and be part of something larger than ourselves, usually through [love](people-love.md) or [influence](power-influence.md)
 
@@ -50,7 +50,7 @@ To the degree we [love](people-love.md) and [fear](mind-feelings-fear.md), we ar
 
 APPLICATION: We will always do more if we desire something specific than if we dislike something we presently hate.
 
-As our [decisions](decisions.md) to keep pursuing things become [habits](habits.md) through repetition, they slowly become unconscious (i.e., "ambition").
+As our [decisions](people-decisions.md) to keep pursuing things become [habits](habits.md) through repetition, they slowly become unconscious (i.e., "ambition").
 
 APPLICATION: We are only purposing when we're conscious, but our purpose usually carries itself out subconsciously, whether [evil](morality-evil.md) or [good](morality.md). Most of our purposes are [habits](habits.md), so our "present" self is mostly *not* responsible for our actions, even while it creates all of reality's [results](results.md).
 
@@ -66,7 +66,7 @@ APPLICATION: [Young people](maturity.md) tend to explore, while older people ten
 
 FURTHER APPLICATION: As we age, our purposes become more intentional and less inspirational. This isn't necessarily a good or bad thing, but means we're more likely to stop hoping for good things and run the risk of pushing against [social progress](trends.md).
 
-At some point, later in our life, we start questioning the purposes we've been following when the [results](results.md) don't reflect what we [expected](imagination.md) from our [decisions](decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
+At some point, later in our life, we start questioning the purposes we've been following when the [results](results.md) don't reflect what we [expected](imagination.md) from our [decisions](people-decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
 
 One recursive form of purpose is to [self-motivate](success-5_persevering.md): solidify our purpose against things that [scare](mind-feelings-fear.md) us, both [real](reality.md) and [imagined](imagination.md). It's very useful to get a "running start" on things we would otherwise become discouraged over.
 
@@ -111,7 +111,7 @@ APPLICATION: Stubborn people are going to do what they're going to do. You can e
 
 ## Large/complex problems
 
-The larger the problem (based on [imagined](imagination.md) [consequences](results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](decisions.md). Huge and devastating [large-scale events](people-conflicts-war.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
+The larger the problem (based on [imagined](imagination.md) [consequences](results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](people-decisions.md). Huge and devastating [large-scale events](people-conflicts-war.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
 
 Further, if we *don't* resolve problems, they usually get worse. Taken far enough, unresolved problems can create an [existential crisis](meaning.md).
 
@@ -139,7 +139,7 @@ The universe is made of certain forms of inherent structure, so "problems" are a
 
 APPLICATION: Often, our problems aren't as bad as we [feel](mind-feelings.md) they are, and the problem may simply be [judgments](imagination.md) we're making about [information we already have](image.md).
 
-Most problems are simple, and we fix them [habitually](habits.md), but we tend to only focus on the largest ones. Some of those have many elements with a relatively straightforward solution (e.g., a messy room), but the problems that *really* ruin our [happiness](mind-feelings-happiness.md) have many sensible solutions we must [decide](decisions.md) between. Our indecision about problems we *need* to fix comes mostly through a calculation of how much pain we'll experience.
+Most problems are simple, and we fix them [habitually](habits.md), but we tend to only focus on the largest ones. Some of those have many elements with a relatively straightforward solution (e.g., a messy room), but the problems that *really* ruin our [happiness](mind-feelings-happiness.md) have many sensible solutions we must [decide](people-decisions.md) between. Our indecision about problems we *need* to fix comes mostly through a calculation of how much pain we'll experience.
 
 APPLICATION: To face a challenging problem, do *not* skip out on a healthy diet, and try to do it when you're not sick. Foods with a low glycemic index are healthiest because they give a slow, steady flow of energy for the brain.
 
@@ -189,6 +189,6 @@ APPLICATION: Everyone sees different aspects of a problem, so groups of relative
 
 While this doesn't make any difference for any specific purpose, they create severely contrasting [results](results.md) when [confronted](people-conflicts.md) by an opposing cultural standard. Often, the principled person will either become a [counter-cultural leader](groups-small.md) or will be [rejected by the group](morality-taboo.md), depending on how much the [trend or cycle](trends.md) has developed.
 
-However, every person is at least somewhat [influenced](power-influence.md) by others around them. Most significantly, our [close friends](hardship-friends.md) can alter how we [decide](decisions.md) and, ultimately, our quality of character.
+However, every person is at least somewhat [influenced](power-influence.md) by others around them. Most significantly, our [close friends](hardship-friends.md) can alter how we [decide](people-decisions.md) and, ultimately, our quality of character.
 
 APPLICATION: To live the [good life](goodlife.md), we must find [friendships](people-friends.md) with people who conform to the ideal purposes we wish to maintain.

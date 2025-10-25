@@ -7,7 +7,7 @@ While computers are always too dumb to understand the essence of truth, all comp
 
 This is a bit foreign to our minds, since we're able to *not* [understand](understanding.md) something while at the same time [believe it](understanding-certainty.md), which is a *massive* component of what drives our [creativity](mind-creativity.md).
 
-Human sensory experiences process first with [emotions](mind-feelings.md) that branch outward into reasoning and [logic](logic.md) that then form into [decisions](decisions.md), but computers work through information differently:
+Human sensory experiences process first with [emotions](mind-feelings.md) that branch outward into reasoning and [logic](logic.md) that then form into [decisions](people-decisions.md), but computers work through information differently:
 
 1. Computers start with [logic](logic-cs.md), represented as simple 0s and 1s.
 2. Those 0s and 1s then build into [math](math-cs.md).

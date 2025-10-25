@@ -9,7 +9,7 @@ The term "artificial intelligence" is ubiquitous, but it's largely a [marketing]
 
 The idea of AI represents a broad spectrum of implementations:
 
-- Makes [decisions](decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
+- Makes [decisions](people-decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
 - Using [language](language.md) in writing that matches what a person would likely write.
 - Using spoken language that matches what a person would say.
 - Using spoken language that matches *how* a person would say it.

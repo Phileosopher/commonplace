@@ -24,7 +24,7 @@ Risk management involves treating or avoiding loss exposures:
 4. Sharing risk - proportionally distributing risk among multiple individuals according to investment or need (e.g., [communal lifestyle](home-homestead.md), coinsurance/risk sharing agreement).
 5. Transferring risk - arranging a contract for someone else to [take the risks entirely](money-insurance.md) (e.g., paying a fee to an insurer, subcontracting work to another entity, a lease arrangement).
 
-Please note, this only creates [meaning](meaning.md) if it *might actually happen*, and preferably for others' benefit, or it's simply the never-ending motivation of [fear](mind-feelings-fear.md). It's also fear when it doesn't respect others' [decisions](decisions.md) to expose *themselves* to risk.
+Please note, this only creates [meaning](meaning.md) if it *might actually happen*, and preferably for others' benefit, or it's simply the never-ending motivation of [fear](mind-feelings-fear.md). It's also fear when it doesn't respect others' [decisions](people-decisions.md) to expose *themselves* to risk.
 
 Most of this checklist revolves around the [security](safety-security.md) from avoiding and reducing risk, since preventing risks is *much* less work than trying to resolve them once they've happened.
 

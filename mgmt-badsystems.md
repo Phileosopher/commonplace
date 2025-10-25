@@ -43,7 +43,7 @@ Bad systems arise from relatively unimportant details at first:
 - The members don't [respect](image.md) their leadership.
 - Someone is promoted to leadership who isn't the best [fit](purpose.md) for the role. This can come from that person having poor [boundaries](people-boundaries.md) with others, no skill, or [evil](morality-evil.md) intent.
 - Some of the organization's [rules](people-rules.md) are irrelevant and nobody updated it.
-- The organization must respond to other outside groups for many of their [decisions](decisions.md).
+- The organization must respond to other outside groups for many of their [decisions](people-decisions.md).
 
 As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](people-culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
 
@@ -63,7 +63,7 @@ The [moral](morality.md) decay among individuals comes through several key motiv
 
 Very frequently, leaders of bad systems will congregate among each other in a subgroup of unhealthy [relationships](people-friends.md). They'll often do disturbing things together, and being part of the leadership requires sharing in those activities.
 
-APPLICATION: One way a system becomes bad is when outside parties like [specialized trade groups](jobs-specialization.md) and unions have more [power](power.md) than the leadership to make [decisions](decisions.md). They may serve the interests of individuals, but the leadership will be forced to be harsher to everyone to create the same [results](results.md) as before.
+APPLICATION: One way a system becomes bad is when outside parties like [specialized trade groups](jobs-specialization.md) and unions have more [power](power.md) than the leadership to make [decisions](people-decisions.md). They may serve the interests of individuals, but the leadership will be forced to be harsher to everyone to create the same [results](results.md) as before.
 
 ## Bad appointment
 
@@ -82,7 +82,7 @@ Often, bad leaders can quickly emerge in a good system:
 - Mentally unwilling to [change](people-changes.md) or intentionally [surrounded](people-friends.md) with similar people who don't [challenge](people-conflicts.md) existing viewpoints.
 - [Preferential](purpose.md) promotion instead of the most [capable](results.md) person for the role. With enough time, creates a small [group-in-a-group](groups-small.md) of only approved leadership.
 - An outside group wields its [power](power.md) without [opposition](people-conflicts.md), where the leadership can't stop it.
-- Pressure by [in-fighting](people-conflicts-war.md) among the members to [decide](decisions.md) against the interests of the group.
+- Pressure by [in-fighting](people-conflicts-war.md) among the members to [decide](people-decisions.md) against the interests of the group.
 
 The most tragic part of bad leaders is that their efforts are often [well-intended](purpose.md), but they either have a [defective philosophy of humanity](politics-leftism.md) or simply don't have the [personality](personality.md) to lead.
 
@@ -90,7 +90,7 @@ Any system can fall apart into a bad system, since the most reliable way to gain
 
 ## Bad management
 
-Many specific, bad leadership [decisions](decisions.md) can [create](creations.md) a bad system:
+Many specific, bad leadership [decisions](people-decisions.md) can [create](creations.md) a bad system:
 
 - [Redundant policies](bureaucracy.md) that add extra work but don't add value to the organization's [knowledge](understanding.md) or [power](power.md). This can come from double-entering information or cross-referencing two systems that draw from the same source.
 - [Security](safety.md) [policies](people-rules.md) that don't adapt to [trends](trends.md) and [technology](technology.md). They won't protect much from anyone with enough [desire](purpose.md) and a little [creativity](mind-creativity.md), but will stifle members from [creating](creations.md) legitimately [useful](purpose.md) things for the organization. The clearest indicator is when members only have partial [information](understanding.md) to do the task, but no idea of the [consequences](results.md) of their task.
@@ -131,7 +131,7 @@ If everyone in a group is sufficiently educated, the leadership can't maintain i
 
 Other times, the leaders of a good system will try to seize more power beyond the group's [specialty](jobs-specialization.md). This shift will transition the group's priorities and [identity](identity.md), often leaving it far-removed from its original [mission](purpose.md).
 
-Occasionally, a leader will forget the [values](values.md) that gave them power and will [decide](decisions.md) against those values. This will result in the group breaking from that leader's [purposes](purpose.md). Then, another leader will arise to replace the void, which can trigger the necessary changes to fix the dysfunction.
+Occasionally, a leader will forget the [values](values.md) that gave them power and will [decide](people-decisions.md) against those values. This will result in the group breaking from that leader's [purposes](purpose.md). Then, another leader will arise to replace the void, which can trigger the necessary changes to fix the dysfunction.
 
 However, leadership shifts will *very* rarely fix anything. The people who have the means to assume power tend to reinforce the [culture](people-culture.md) of the existing system, and will therefore reinforce most of the bad decisions of the predecessor. The only changes will be relatively minor, but they may simply swap out extremes (e.g., harshness replaced by indolence).
 
@@ -174,7 +174,7 @@ Just because a system has become awful doesn't mean it's useless. The group can 
 
 For whatever reason, the members don't have [confidence](understanding-certainty.md) in the [group](groups-member.md). They're using it for an ulterior [purpose](purpose.md).
 
-APPLICATION: As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-specialization.md) is bad, the best [decision](decisions.md) is to passively keep them fighting between each other and stay out of sight.
+APPLICATION: As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-specialization.md) is bad, the best [decision](people-decisions.md) is to passively keep them fighting between each other and stay out of sight.
 
 ## Growth
 
@@ -249,15 +249,15 @@ It's worth noting that monopolies are *relatively* successful. It means there wa
 
 APPLICATION: Monopolies are inevitable as long as people desire [power](power.md). Antitrust [laws](people-rules.md) only work when they're too simple to abuse and enforced by governments, which is *another* potentially bad system that checks the first bad system. Typically, [technology's](technology.md) complexity makes regulating vertical control absolutely impossible. And, because of [how we understand reality](mind-bias.md), we can't easily regulate ideas (e.g., [misinformation](stories-storytellers.md), "fake news").
 
-When large systems [have control](politics-monopolies.md) of vast portions of entire [specializations](jobs-specialization.md), they can dictate what people must [choose](decisions.md) to build by redefining the [consequences](results.md) to reward/punish activities in line with the group's interests. It's [our nature](humanity-universals.md) to dislike competition, so it's an inevitability.
+When large systems [have control](politics-monopolies.md) of vast portions of entire [specializations](jobs-specialization.md), they can dictate what people must [choose](people-decisions.md) to build by redefining the [consequences](results.md) to reward/punish activities in line with the group's interests. It's [our nature](humanity-universals.md) to dislike competition, so it's an inevitability.
 
 Gaining [power](power.md) usually takes far more effort than maintaining it. Instead of fighting *many* [competitors](people-conflicts.md) while focusing on much more powerful people, the fight is against other competitors in *other* groups and a few lower-ranking competitors who may become a future threat if not swiftly [dealt with](morality-evil.md).
 
-APPLICATION: The only reason people use [Verizon, Google, Facebook, Ford, and Coca-Cola](politics-monopolies.md) right now is because they're [familiar](habits.md) with it or don't see much to [choose](decisions.md) instead. However, assuming they didn't exist, their present [quality](values-quality.md) probably isn't enough to start a new trend if people hadn't been familiar with it in the first place.
+APPLICATION: The only reason people use [Verizon, Google, Facebook, Ford, and Coca-Cola](politics-monopolies.md) right now is because they're [familiar](habits.md) with it or don't see much to [choose](people-decisions.md) instead. However, assuming they didn't exist, their present [quality](values-quality.md) probably isn't enough to start a new trend if people hadn't been familiar with it in the first place.
 
 Thus, once someone has command of a large system in a comparatively small domain, they'll often focus all their efforts on stifling [competition](people-conflicts.md). They'll usually become complacent and forget the organization's [purposes](purpose.md) they were originally trying to advance.
 
-Each type of monopoly creates limits on members' [decision-making](decisions.md):
+Each type of monopoly creates limits on members' [decision-making](people-decisions.md):
 
 1. Horizontal control monopolies can make their services absolutely necessary or "too big to fail" if they control an entire phase of a [technology's](technology.md) method.
 2. Vertical control monopolies control every stage of the process of a [creation](creations.md). This permits them to make things more affordably or higher quality, and is much harder to [measure](math.md).
@@ -276,7 +276,7 @@ While a monopoly may not be corrupt in its inception, the most apparent indicato
 
 APPLICATION: Research *every* company you buy things from. You'll often find that the company is simply [one of the many faces](politics-monopolies.md) of a gigantic bad system.
 
-To stifle new [trends](trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](socialrisk.md) to build a [competitive](economics.md) alternative that gives the public more [choices](decisions.md) ("anti-competitive practices"):
+To stifle new [trends](trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](socialrisk.md) to build a [competitive](economics.md) alternative that gives the public more [choices](people-decisions.md) ("anti-competitive practices"):
 
 - Lowering prices beyond the lowest-possible cost of the item (i.e., taking a severe financial loss) to make it completely impossible for smaller [competitors](economics.md) to have a reasonably comparable price.
 - Giving an "open forum" for discussion, but preventing dissenters from saying what they want.
@@ -343,7 +343,7 @@ It's worth noting that the likelihood of any one of the smaller groups succeedin
 
 ## Deconstruction
 
-The only cure to avoid bad systems starting is a [completely free market](economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](image.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
+The only cure to avoid bad systems starting is a [completely free market](economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](people-decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](image.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
 
 At a certain point, though, a bad system will eventually emerge if they can amass enough alliances with other organizations, especially through pervasive [media](stories-storytellers.md) presence that [redirects the truth](image-distortion.md).
 
@@ -375,11 +375,11 @@ APPLICATION: All systems become bad eventually, at some point. They must then be
 
 People don't typically like [change](people-changes.md), so the only way to make *all* the necessary changes is when the system is already disrupting everyone's [habits](habits.md). A crisis is the best trigger for this, but a [manufactured crisis](image-distortion.md) can [work just as well](results.md) if [people will buy it](influence.md).
 
-APPLICATION: In a large organization that's become a bad system, *all* the leadership is partially responsible, as well as all the individual participants who contributed to their power. It's difficult to tell how much for each, though, since most committee-based leadership [decisions](decisions.md) are opaque, and they'll each blame everyone and everything but themselves. The only solution to reliably tell is to remove the leaders, one by one, put them in another situation, then closely watch the [changes](people-changes.md) to both the system they were removed from and the system they were placed in.
+APPLICATION: In a large organization that's become a bad system, *all* the leadership is partially responsible, as well as all the individual participants who contributed to their power. It's difficult to tell how much for each, though, since most committee-based leadership [decisions](people-decisions.md) are opaque, and they'll each blame everyone and everything but themselves. The only solution to reliably tell is to remove the leaders, one by one, put them in another situation, then closely watch the [changes](people-changes.md) to both the system they were removed from and the system they were placed in.
 
 The more likely scenario, though, for most bad systems, is decay through tribalism:
 
-1. Within a [group](groups-large.md), the [selection](decisions.md) for members' [promotions](power-types.md) will be defined [intuitively](mind-feelings.md) by aptitude, at least at first.
+1. Within a [group](groups-large.md), the [selection](people-decisions.md) for members' [promotions](power-types.md) will be defined [intuitively](mind-feelings.md) by aptitude, at least at first.
 2. Eventually, the leadership will introduce a [bias](mind-bias.md), often presented as enforcing [fairness](morality-justice.md). This bias (often [leftism](politics-leftism.md), but doesn't have to be) will over-emphasize a people group, typically racial or ethnic, and will naturally pick a "losing" subgroup.
 3. The individuals, in individually-defined acts of self-preservation, will [identify](identity.md) (at least publicly) as anything *but* the scapegoat group.
 4. The group's and leadership's judgments will slowly base on secondary characteristics to aptitude, which may include racial or ethnic domains, or may branch into another division (e.g., [ideology](values.md)).

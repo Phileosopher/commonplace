@@ -87,7 +87,7 @@ The very real nature of [sin](morality-sins.md) and our implicit need for a Savi
 - **Nominalism** can't be true because the truth of sin requires there to be an objective reality associated with a moral failing.
   - However, **conceptualism** is still possible, especially if we lean into idealism.
 - **Illusionism** can't be true, since God creates actual, tangible things.
-- **Immaterialism** can't be true either, since there are material, real consequences that we face as a consequence of material, real [decisions](decisions.md) we have made.
+- **Immaterialism** can't be true either, since there are material, real consequences that we face as a consequence of material, real [decisions](people-decisions.md) we have made.
 
 **Eternalism** is certainly *partly* true, at least with reference to God. Our beliefs about what God knows and how long He has known it will affect how far it goes.
 
@@ -217,7 +217,7 @@ Christianity is essentially and indisputably a subset of **theism**.
 
 - In particular, it's vastly and non-negotiably **monotheism**.
   - **Augustinianism** is definitely true, since the dichotomy of spiritual and physical does *not* have an implicit goodness or badness (i.e., there are spiritual [demons](spiritual-warfare.md) and angels, there are physical sinners and physical Jesus Christ as sinless).
-  - **Classical theism** is at least *somewhat* true, but the essence of Jesus makes it impossible to go all the way with the idea (since He wants a [friendship](people-4_friends.md) with us and is therefore affected by our lives and [decisions](decisions.md) by extension).
+  - **Classical theism** is at least *somewhat* true, but the essence of Jesus makes it impossible to go all the way with the idea (since He wants a [friendship](people-4_friends.md) with us and is therefore affected by our lives and [decisions](people-decisions.md) by extension).
   - **Deism** can't be true, since God has a clearly vested interest in humanity's decisions and development.
   - Since God is *clearly* distinct from the universe, **pantheism**, **panentheism**, **pandeism**, **monistic theism** can't be true.
   - **Substance monotheism** is necessary in some form as a necessary basis of understanding the Trinity.
@@ -404,7 +404,7 @@ It's entirely possible to have a meaningless form of Christianity, though it's n
 
 - **Absurdism** is difficult to justify, since God designed the universe for us and it is literally *designed* to give us purposes.
 - **Nihilism** is also possible, but sabotages the implicit meaning of God's design.
-  - **Fatalism**, in particular, is only possible with Christian doctrine if we see God's omniscience as taking away the value of our [agency](decisions.md).
+  - **Fatalism**, in particular, is only possible with Christian doctrine if we see God's omniscience as taking away the value of our [agency](people-decisions.md).
 
 **Anthropomorphism** is acceptable, and in some ways *encouraged* by God (i.e., the Bible refers to God's "hands", God's pronoun is a "him/he").
 

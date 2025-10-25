@@ -33,7 +33,7 @@ The ideas of a word are *not* simple. Each word often contains *dozens* of assoc
 
 Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
 
-We must delicately balance between precision and brevity, and our [choice](decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
+We must delicately balance between precision and brevity, and our [choice](people-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
 
 The complexity of expressing ideas either succintly or elaborately, as well as the [image](image.md) we wish to convey, means we will create similar words for nearly the same idea to convey different [feelings](mind-feelings.md) and [values](values.md). We will also employ body language, timing, visual cues, and context to [emphasize or diminish parts of those ideas](language-speaking.md).
 
@@ -109,7 +109,7 @@ We use modifier words to streamline everything, and most of them are simple impr
 
 APPLICATION: Most language starts simple, but we tend to complicate words as we add to them. There's value in contractions and pronouns, but elegant language keeps prefixes and suffixes to a relative minimum and avoids turning nouns into verbs whenever possible. Awful writers, on the other hand, destroy any [meaning](meaning.md) they were attempting to convey.
 
-kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](understanding.md) we'll [choose](decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
+kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](understanding.md) we'll [choose](people-decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
 
 - [Dominance](power.md) will strip away *everything* for the sake of simplicity.
 - [Influence](power-influence.md) removes details about things.
@@ -204,7 +204,7 @@ Further, we tend to use language to convey concepts on "levels" of depth:
 
 APPLICATION: If a specific idea doesn't have a word, we tend not to think about it. If we run across one, we should [make](creations.md) a new word to more thoroughly [understand](understanding.md) it, and the easiest way is to convert a noun into a verb or use the same idea from a different domain.
 
-The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](decisions.md).
+The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](people-decisions.md).
 
 APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](https://adequate.life/fix/)) whenever [uncertain](understanding-certainty.md).
 

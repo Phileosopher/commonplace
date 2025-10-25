@@ -27,7 +27,7 @@ We're automatically associated with a few groups from our upbringing:
 - Our family's [trades](jobs-specialization.md) and [skills](understanding.md).
 - Formalized education and clubs we've attended or been forced to attend.
 
-While we all naturally identify with at least some of our [culturally](people-culture.md) established groups, we make [decisions](decisions.md) later that identify with *other* scopes of living:
+While we all naturally identify with at least some of our [culturally](people-culture.md) established groups, we make [decisions](people-decisions.md) later that identify with *other* scopes of living:
 
 - [Risk-averse](safety.md) people tend to identify with [accountants](money-accounting.md), [insurance](money-insurance.md), [cybersecurity](computers-cysec.md), and [bureaucrats](bureaucracy.md).
 - Social people identify with salespeople and [marketers](marketing.md).
@@ -40,7 +40,7 @@ As followers of various groups, the [leaders](groups-large.md) of that group (al
 
 To join a group, a member must demonstrate a sacrifice of [power](power.md) (and likely promising a future sacrifice) in exchange for a different form of power (or future power) inside the group (e.g., promising labor/expertise for the promise of money). It typically leans to more power submitted by the member (such as becoming a member of a church), and is usually meant to [represent](image.md) loyalty through that sacrifice. This sacrifice creates an in/out-group mentality that forms the group's [culture](people-culture.md) compared to its surrounding environment.
 
-APPLICATION: Each group we [choose](decisions.md) has an opportunity cost:
+APPLICATION: Each group we [choose](people-decisions.md) has an opportunity cost:
 
 - If we're not associated with a group we're unsupported but have unlimited freedom to choose a group, but associating with a group gives us [power](power.md) and frequently comes with implications to outsiders.
 - We must sacrifice some [personal values](understanding-certainty.md) to join a group.
@@ -61,7 +61,7 @@ APPLICATION: Join large groups to [learn](understanding.md), especially from the
 
 By existing in a group long enough, our [purposes](purpose.md) [change](people-changes.md). As we grow to [trust](trust.md) the group, we associate more [future purposes](imagination.md) to it.
 
-APPLICATION: We must stay vigilant to the influence our groups have upon us. Most people imagine their thoughts to be self-determined, but that is almost completely false, since their [decisions](decisions.md) are a reactive consequence of the group they're in.
+APPLICATION: We must stay vigilant to the influence our groups have upon us. Most people imagine their thoughts to be self-determined, but that is almost completely false, since their [decisions](people-decisions.md) are a reactive consequence of the group they're in.
 
 We continue thinking of the group as our source of [meaning](meaning.md) and [purpose](purpose.md), until it fails our [expectations](imagination.md). While *everyone* will have their own [inner conflict](conflicts-inner.md) about a leader doing something [scandalous](morality-taboo.md), each group member is constantly wrestling with [their individual changes](people-changes.md) and how they'll conform those changes to match their [reputation](image.md) in that group.
 
@@ -116,7 +116,7 @@ As we gain [influence](influence.md), our group-related tasks become more compli
 
 APPLICATION: [Unloving](people-love.md) groups are all power games. A [cult leader](culture-cults.md) focuses power upwards, and self-help seminars focus power on each individual, but it's all the same mechanism of rearranging power from its natural state.
 
-The group's size and collective [influence](influence.md) represent the ceiling of how much [power](power.md) a person can [use](purpose.md). A low-ranking member, however, must spend *much* more work and more time [influencing](influence.md) until they have the [power](power.md) to make far-reaching [decisions](decisions.md).
+The group's size and collective [influence](influence.md) represent the ceiling of how much [power](power.md) a person can [use](purpose.md). A low-ranking member, however, must spend *much* more work and more time [influencing](influence.md) until they have the [power](power.md) to make far-reaching [decisions](people-decisions.md).
 
 APPLICATION: The larger a group grows, the more extreme [personalities](personality.md) it'll acquire, and those extreme personalities become the [representation](image.md) of that group to everyone else. For that reason, by the time a group becomes [large](groups-large.md), it's already become different from it was when it was small.
 

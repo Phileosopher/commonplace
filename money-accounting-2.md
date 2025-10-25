@@ -92,7 +92,7 @@ Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, an
 
 Assets deals with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
 
-- Since [investors](money-investing.md) often make [decisions](decisions.md) from [optics](image.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
+- Since [investors](money-investing.md) often make [decisions](people-decisions.md) from [optics](image.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
 - The only 2 ways to increase profits are to increase revenues or decrease expenses.
 
 There are a few forms a business can take. They are either taxed *before* the owner receives money, or it's pass-through to the owners:

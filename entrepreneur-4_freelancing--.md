@@ -1,4 +1,14 @@
 
+when you want a better service
+
+1. bring the price it reasonably should be
+2. they'll ask to bring it down
+3. have things you can do already in mind to lower the price
+  - less quality parts
+  - longer deadline
+  - simpler design
+
+
 # articles
 
 ## freelancing organizations

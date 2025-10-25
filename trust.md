@@ -10,7 +10,7 @@ We're all [certain](understanding-certainty.md) about many things, but to varyin
 We place inherent trust in things when a specific mechanism arises:
 
 1. We make [habits](habits.md) revolving around something.
-2. The habits become automatic [decisions](decisions.md) that take [risks](safety.md).
+2. The habits become automatic [decisions](people-decisions.md) that take [risks](safety.md).
 3. We could potentially have made [reasonable](logic.md) decisions to avoid those risks, but we resist [changing](people-changes.md) to the new information.
 
 Trust of any sort directs itself toward an object of trust, and we feel peace and empowered when we trust something that proves itself to work.
@@ -33,7 +33,7 @@ We may *think* we see something obvious and *know* it exists, but our minds play
 3. The brain dissects that composite sensation into forms and [abstractions](symbols.md).
 4. Through associations to things stored in memory, the brain pulls from a network of [information](information.md), frequently adding more and more information along the way from [memory](mind-memory.md).
 5. For whatever [purpose](purpose.md) the brain was tasked to, it draws up all potentially useful or relevant stored information.
-6. [Habits](habits.md), [intuition](understanding.md), and [decisions](decisions.md) dictate the next action or thought.
+6. [Habits](habits.md), [intuition](understanding.md), and [decisions](people-decisions.md) dictate the next action or thought.
 7. Barring some form of mental illness, the final thought on the matter will land on some sort of [conclusion](logic.md), which we consciously identify as "perception".
 
 Everything we can use to build out our understanding of reality is only somewhat reliable:
@@ -47,7 +47,7 @@ While each person's methods vary, we only feel "certain" when we attain enough i
 
 - Enough information to satisfy our sense of [curiosity](purpose.md)
 - Enough information to get a mental [image](image.md) of the relationship between things
-- Evidence to [verify](understanding-certainty.md) our likely best [decision](decisions.md)
+- Evidence to [verify](understanding-certainty.md) our likely best [decision](people-decisions.md)
 
 ## Near-certain
 
@@ -64,7 +64,7 @@ APPLICATION: Even when we act with [certainty](understanding-certainty.md), we'r
 
 This isn't an isolated experience in one's mind, however. Other people may not [see](understanding.md) the way we do, and our [culture](people-culture.md) tells us how we're supposed to [think](understanding.md) and [believe](understanding-certainty.md). We will agree with them proportionally to how much our [personality](personality.md) is willing to consent to others' values over our own.
 
-This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
+This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](people-decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
 
 APPLICATION: Since we must trust things constantly, we must *never* declare anything as 100% certain unless we'd unflinchingly give our lives for that premise.
 
@@ -82,7 +82,7 @@ Not everyone trusts easily. Our [first Erikson stage](https://en.wikipedia.org/w
 
 Nobody is ever fully trust-free, and we have very little [control](results.md) over most things we perceive. And, no amount of [justification](logic.md) can remove some of our trust-based needs:
 
-- We still must trust [our pain is real](mind-feelings-fear.md), and that our [decisions](decisions.md) mean anything.
+- We still must trust [our pain is real](mind-feelings-fear.md), and that our [decisions](people-decisions.md) mean anything.
 - Even if we think we trust nothing else, we are trusting our [perceptions](image.md) and [understanding](understanding.md).
 
 Our entire *framework* of thinking relies on trusting indirectly connected elements, even when we don't perceive [their connections](https://gainedin.site/networks/):
@@ -138,7 +138,7 @@ One of the largest indicators of over-trust arises when we see something that do
 
 - Free trials that require [opting *out* of](people-contracts.md).
 - [Government benefits](groups-large.md) that require [taxes](rules-methods.md) to fund.
-- Offering [safety](safety.md) in exchange for [civil liberties](decisions.md).
+- Offering [safety](safety.md) in exchange for [civil liberties](people-decisions.md).
 - Giving a [contract](people-contracts.md), but adding things in the fine print like termination clauses and non-compete requirements.
 
-APPLICATION: To attain "[the good life](goodlife.md)", we must balance our trust through [decisions](decisions.md) and [actions](results.md) toward the correct people and things.
+APPLICATION: To attain "[the good life](goodlife.md)", we must balance our trust through [decisions](people-decisions.md) and [actions](results.md) toward the correct people and things.

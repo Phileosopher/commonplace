@@ -36,7 +36,7 @@ Some immoral things *aren't* taboo:
 
 Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
 
-The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](decisions.md) that may include it.
+The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](people-decisions.md) that may include it.
 
 Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](people-culture.md). But, many times, leaders only use taboos for [power](power.md).
 
@@ -82,7 +82,7 @@ Many times, the rules that maintain social order can backfire and create pockets
 The reason these awkward arrangements stay around for so long is from two fronts:
 
 - The only people that can do anything about it are [leaders](groups-small.md), but individuals must deal directly with the [consequences](results.md). While leaders are *supposed* to confront those [conflicts](people-conflicts.md) from their position of [strength](power.md), the members' need to survive means they must avoid receiving shame for the conflict.
-- Often, the *leaders* are forced to do nothing from the blow to their [reputation](image.md) from making changes. Many social issues could be resolved with a simple [decision](decisions.md) by a leader who wasn't concerned with their [reputation](image.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
+- Often, the *leaders* are forced to do nothing from the blow to their [reputation](image.md) from making changes. Many social issues could be resolved with a simple [decision](people-decisions.md) by a leader who wasn't concerned with their [reputation](image.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
 - The typical result, then, becomes oppressive [laws](people-rules.md) that create a social hedge around the taboo but never fix anything about it.
 
 APPLICATION: Since [group members](groups-member.md) can [feel](mind-feelings.md) fierce reactions to taboos, some leaders can skillfully exploit it by implying that someone they want to remove from the group is violating that taboo.

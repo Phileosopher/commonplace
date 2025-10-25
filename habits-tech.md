@@ -25,6 +25,16 @@ Functionality Planning
 - Write out each of the features the program should have, then examine all the functions necessary to make the program work.
 - This is a bit like the flowchart, but scaled out across the *entire* program.
 
+## Optimization
+
+Since that person is in front a computer all day, practically every day, they will do everything they can to [optimize their routine](success-4_routine.md), even if it's eccentric:
+
+- Set the computer up higher to work while standing, or place it on a treadmill to permit walking while working.
+- Adopting an odd [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md) that maximizes ergonomics.
+- Getting *extremely* high-resolution [computer screens](engineering-screen.md).
+- Disabling features in the operating system, or simply downgrading the entire operating system to a lower set of features (e.g., [command line](computers-cli.md)-based).
+- Using a less visually-appealing [IDE](computers-software-ide.md) that's more keyboard-based.
+
 ## Acceptance
 
 Persevering in programming is extremely hard because the perfect logic of computers breaks down in computer code. Computers and their code are so deeply complex and challenging, and a developer is *constantly* learning better techniques, that it's impossible to get anything absolutely perfect.

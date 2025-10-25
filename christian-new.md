@@ -127,7 +127,7 @@ Engages in [cultural activities](people-culture.md) that God doesn't like.
 Believing "Christian" media to be a vastly superior classification of media, even when it's [low-quality](values-quality.md).
 
 - Many Christian [stories](stories.md) are absolute garbage because they don't give room for the experience to express itself.
-  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](decisions.md).
+  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](people-decisions.md).
 - For whatever reason, many Christian creatives have zero [faith](trust.md) in their ability to convey the correct [meaning](meaning.md):
   1. The audience might not understand the implication that a bad thing is bad.
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
@@ -203,7 +203,7 @@ Jealousy over another person's spiritual status.
 - Each person has their walk, and God holds them individually responsible.
   - [Romans 14:4](https://biblehub.com/romans/14-4.htm)
 
-Harsh or inconsiderate [decision-making](decisions.md) about others' lives.
+Harsh or inconsiderate [decision-making](people-decisions.md) about others' lives.
 
 - They have likely let the world's methods of [power management](power-types.md) corrupt them (e.g., [management roles](mgmt-1_why.md)).
 - This can often be expressed as [political activism](politics-conservativeliberal.md), especially in [a free society where the people have more power](politics-systems.md).
@@ -222,7 +222,7 @@ They've been at least somewhat [persecuted](hardship-persecution-church.md) for 
 - This can represent as simply being turned down in [a job interview](jobs-5_interview.md) or rejected from a social gathering.
 - However, many contexts can extend it to public shame on an internet message board or an [inter-church conflict](history-church.md).
 
-A general sense of peace about others' [decisions](decisions.md).
+A general sense of peace about others' [decisions](people-decisions.md).
 
 - Newer believers frequently try to get others to [change their minds](power-influence.md) toward [moral actions](morality.md) out of new spiritual desires, but they will eventually become familiar enough with [boundaries](people-3_respect.md) that those decisions will grieve them instead.
 - Their [conflict](conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](people-rules.md).

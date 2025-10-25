@@ -130,7 +130,7 @@ Principle 4 - Full Disclosure Principle
 
 - Preparing and using information costs money, so analyzing the tradeoffs determines which information should be disclosed.
   - Accountants can store their information in the main body of financial statements, in the notes, or as supplementary information.
-- The disclosed information should provide enough knowledge for all organizational [decisions](decisions.md), but shouldn't become unreasonably expensive.
+- The disclosed information should provide enough knowledge for all organizational [decisions](people-decisions.md), but shouldn't become unreasonably expensive.
 - Without it, accountants would endlessly peruse the record keeping and drive a company out of business.
 
 Constraint 1 - Objectivity Principle

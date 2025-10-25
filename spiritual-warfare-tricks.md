@@ -61,14 +61,14 @@ The devil invalidates [prayer](spiritual-exercises-prayer.md) by shifting it fro
 - Plus, if we pray for vague things, God won't grant them. Then, if the devil makes us misremember what we prayed, we can think He's not answering our prayers.
 - The Satan will also magnify the effort God will need to change things. While God designed the universe where it's a relatively easy effort to tweak something to answer our prayers, we often [imagine](imagination.md) He has to go through a gargantuan effort to answer *any* of our problems.
 
-While God is more concerned about what we [decide](decisions.md) and [do](results.md), the Satan redirects us to thinking about [what will happen](results.md) to us:
+While God is more concerned about what we [decide](people-decisions.md) and [do](results.md), the Satan redirects us to thinking about [what will happen](results.md) to us:
 
 - More uncertainties creates more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
 - If possible, when we're [praying](spiritual-exercises-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
 - We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
 - Further, by abstracting humanity into sub-human monsters inside [stories](stories.md), the devil can further blur the line about morality (e.g., zombies, vampires).
 
-[Moral decay](morality-sins.md) is a slow fade, so the Satan keeps us [unaware](awareness.md) for as long as possible by telling us that it's always unimportant and easily reversible. The smallest [habitual](habits.md) sins can work more effectively than large, [decisive](decisions.md) ones to send people to hell:
+[Moral decay](morality-sins.md) is a slow fade, so the Satan keeps us [unaware](awareness.md) for as long as possible by telling us that it's always unimportant and easily reversible. The smallest [habitual](habits.md) sins can work more effectively than large, [decisive](people-decisions.md) ones to send people to hell:
 
 1. He'll use consistent [church attendance](church.md) and [good lifestyle decisions](habits.md) to shift attention away from those [tiny sins](morality-sins.md).
 2. Since backsliding creates unease, it'd normally push someone to full-blown repentance. So, he directs it toward reluctance about [God](god.md) and [spiritual things](identity-christian.md).
@@ -213,7 +213,7 @@ The devil makes us hate people groups, but only as a passive, brewing hatred:
 Christianity is a [simple message](jesus-gospel.md) that naturally unifies *all* humanity through recognizing their need for salvation in light of their sin. The Satan responds with "Christianity and..." to create [special interests](jobs-specialization.md) that make the person feel separate from the rest of the Church:
 
 - While God built us to have an interest in cycling seasons of new things (e.g., yearly seasons, [fashions](trends.md), [technologies](technology.md)), this can easily pervert to a desire for novelty and [change](people-changes.md) merely for its own sake.
-- Novelty has a [diminishing return](decisions.md), and requires progressively more investment to maintain. Believers ensnared in [fashions](trends.md) will invariably feel dissatisfied or greedy as their interest persists, which can lead to many other sins.
+- Novelty has a [diminishing return](people-decisions.md), and requires progressively more investment to maintain. Believers ensnared in [fashions](trends.md) will invariably feel dissatisfied or greedy as their interest persists, which can lead to many other sins.
 - Across society, fashions create *many* other vices that convert some of God's [values](values.md) with their time and place into an antagonist. Cruel societies fight sentiment, [emotional](mind-feelings.md) ones fight [reasoning](logic.md), lazy ones fight honor, [liberal ones fight convention](https://theologos.site/the-west/).
 - To answer our roles in these trends, we should ask simple questions (Is it right? Is it possible?), but the devil provokes us to ask complicated questions (Is it progressive or reactionary? Is it on the right side of history? Will this make an impact?). Those questions [wonder](imagination.md) about the future, which is a vacuum of [understanding](understanding.md), so the Satan has full control to make suggestions that provoke more misery.
 
@@ -226,7 +226,7 @@ After enough time away from other believers, demons can provoke someone to [go t
 
 - Some leaders will dilute their teaching to make it more palatable, but make it utterly irrelevant to their congregation.
 - Other leaders are so embittered that they teach audaciously only for the [shock effect](mind-feelings-surprise.md).
-- Most church divisions come through his redirection of thoughts away from spiritual matters and theological differences and toward various procedures and minutiae of running a church (e.g., worship music, [marketing materials](marketing.md), organizational [decisions](decisions.md)).
+- Most church divisions come through his redirection of thoughts away from spiritual matters and theological differences and toward various procedures and minutiae of running a church (e.g., worship music, [marketing materials](marketing.md), organizational [decisions](people-decisions.md)).
 
 Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](people-changes.md) to the point that people feel peer pressure to build out their vices:
 

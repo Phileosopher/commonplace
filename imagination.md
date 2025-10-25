@@ -30,13 +30,13 @@ APPLICATION: Imagination is a form of [understanding](understanding.md) that isn
 
 ## Purpose
 
-We only feel a sense of [meaning](meaning.md) to imagine when our predictions are at least partly useful for our [decisions](decisions.md), which is why experience sabotages imagination. If we consistently fail too many of our predictions, we tend to risk an [existential crisis](hardship-depression.md).
+We only feel a sense of [meaning](meaning.md) to imagine when our predictions are at least partly useful for our [decisions](people-decisions.md), which is why experience sabotages imagination. If we consistently fail too many of our predictions, we tend to risk an [existential crisis](hardship-depression.md).
 
 APPLICATION: Imagination is unfettered by nothing and nobody but our mental limits, but the practical effects of [science](science.md) and [culture](people-culture.md) can impede our attempts to [build](results.md) whatever we imagine. If we become too [conceited](morality-evil.md), we lose the ability to conform our thoughts to [reality](reality.md), which makes our imagination and [feelings](mind-feelings.md) about them effectively [useless](purpose.md).
 
 We must predict the future because it dictates what we presently [create](creations.md) and [consider](purpose.md). If you knew you'd probably die tomorrow, you'd live today differently than if you knew you had forty years left to live.
 
-Since we must act, we make a [calculated wager](decisions.md) on the most likely thing, then give the rest up to whatever we [trust](trust.md).
+Since we must act, we make a [calculated wager](people-decisions.md) on the most likely thing, then give the rest up to whatever we [trust](trust.md).
 
 APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-feelings-happiness-stress.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
 
@@ -60,9 +60,9 @@ The perceptions of "past" and "future" makes us [feel](mind-feelings.md) our exi
 
 With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](trust.md).
 
-Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](decisions.md) that create [results](results.md) we want.
+Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](people-decisions.md) that create [results](results.md) we want.
 
-Some predictions go *backward* from the present. By assembling likely past circumstances, we can often infer what caused a situation that presently exists (i.e., "blame"). We give plenty of value to it because we assume it's necessary for [fair retribution](morality-justice.md) for [hardship](hardship-ptsd.md). However, blame isn't very [useful](purpose.md) because it rarely provides legitimate answers to present [decisions](decisions.md) (which are inherently about the future).
+Some predictions go *backward* from the present. By assembling likely past circumstances, we can often infer what caused a situation that presently exists (i.e., "blame"). We give plenty of value to it because we assume it's necessary for [fair retribution](morality-justice.md) for [hardship](hardship-ptsd.md). However, blame isn't very [useful](purpose.md) because it rarely provides legitimate answers to present [decisions](people-decisions.md) (which are inherently about the future).
 
 ## Predicting people
 
@@ -70,7 +70,7 @@ We tend to underestimate how we'll [change](people-changes.md) from our environm
 
 We tend to suppose other people will say or do things, and usually create [habits](habits.md) around those beliefs, which is the basis for [cultural](people-culture.md) rituals and [social standards](people-rules.md).
 
-We're perpetually making and breaking predictions, and it gives us tremendous [power](power.md) to [decide](decisions.md) and [create](creations.md).
+We're perpetually making and breaking predictions, and it gives us tremendous [power](power.md) to [decide](people-decisions.md) and [create](creations.md).
 
 ## Predicting the unknown
 
@@ -78,7 +78,7 @@ For whatever reason, some things are simply [unknowable](unknown.md). As a [purp
 
 We tend to expect the unknown more than the known because we focus on it. Therefore, unknown things seem to stand out for us more, even while mundane things constitute more of our time and [purposes](purpose.md).
 
-However, vast [power](power.md) is at stake for massive [decisions](decisions.md), so people pursue many ways to capture and subdue [uncertainties](understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
+However, vast [power](power.md) is at stake for massive [decisions](people-decisions.md), so people pursue many ways to capture and subdue [uncertainties](understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
 
 The constant [uncertainties](trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](trends.md) before they emerge, and it can create the [illusion](image.md) that we understand when we really don't.
 

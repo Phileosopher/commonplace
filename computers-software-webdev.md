@@ -3,6 +3,8 @@
 
 The internet is a fascinating experience, but people often take it for granted and don't know how it works.
 
+Historically, the internet is a relatively new technology (becoming what it is today starting in the 1990s), but has become so necessary for daily life in most [modern society](success-modern.md) that we have in some ways forgotten what life was like before it.
+
 Like most other aspects of computers, web development encompasses *many* sub-disciplines.
 
 Every single "thing" on the internet is given a sequence of characters as a "uniform resource identifier" (URI) to indicate its location. Sometimes multiple URIs can point to the same thing, and other times a URI is simply routing to multiple other URIs. It's simply a means of specifying a location for the computer.

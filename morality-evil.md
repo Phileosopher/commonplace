@@ -3,15 +3,15 @@
 
 We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
 
-Evil is discomforting to us, so we tend to [politicize](image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](decisions.md) or groups may be evil.
+Evil is discomforting to us, so we tend to [politicize](image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](people-decisions.md) or groups may be evil.
 
-We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](decisions.md) in a situation.
+We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](people-decisions.md) in a situation.
 
 Evil, however, does exist. Even to the most morally relativistic person, they'll still regard moral absolutes or things that encroach on their self-preservation as evil.
 
 Evil always has a few elements:
 
-1. An active [decision](decisions.md) or [plan](imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
+1. An active [decision](people-decisions.md) or [plan](imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
 2. Self-interested [gain](purpose.md) for the decider or desire to destroy another living being.
 3. If it's [performed](results.md), pain for the victim through [unjustly](morality-justice.md) violating their [boundaries](people-boundaries.md).
 
@@ -55,9 +55,9 @@ When we become [aware](awareness.md) of evil [habits](habits.md), we are more li
 
 APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
-APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](decisions.md) to [change](people-changes.md) for the better.
+APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](people-decisions.md) to [change](people-changes.md) for the better.
 
-Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](decisions.md) come through all possible scopes of [understanding](understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
+Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](people-decisions.md) come through all possible scopes of [understanding](understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
 
 APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some of the most evil people on the planet are so intelligent that they hide it well.
 
@@ -65,7 +65,7 @@ APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some o
 
 Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](imagination.md).
 
-Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](decisions.md), then committing them to [habit](habits.md):
+Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](people-decisions.md), then committing them to [habit](habits.md):
 
 1. Ignore when [other people say "no"](people-conflicts.md), which requires intentionally not [observing them](image.md).
 2. Attack anyone who enforces their [rights](morality-justice.md) or questions your [privileges](results.md).
@@ -75,7 +75,7 @@ Every single person has the capacity for evil by making a few key [immoral](mora
 6. Insult and degrade anyone you [dislike](mind-feelings-disgust.md) or who threatens your [power](power.md).
 7. Scale upwards to make a [system](mgmt-badsystems.md) that serves your interests more than others, but maintain a kind-looking [image](image.md) of [morality](morality.md) to subdue any opposition.
 
-APPLICATION: Everyone is about 20-50 key [decisions](decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
+APPLICATION: Everyone is about 20-50 key [decisions](people-decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:
 
@@ -83,7 +83,7 @@ On the other hand, being good requires trained [virtue](morality.md) that goes a
 2. Maintain respect for others when they disregard your privileges.
 3. Give to others when they require things more than you.
 4. Only exercise your rights.
-5. Take responsibility for failures and fully own [decisions](decisions.md).
+5. Take responsibility for failures and fully own [decisions](people-decisions.md).
 6. Sacrifice [power](power.md) out of [love](people-love.md) for others.
 7. Scale upwards to [influence](influence.md) others to serve others themselves, driven by building virtuous [habits](habits.md).
 

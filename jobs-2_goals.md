@@ -149,7 +149,7 @@ You must have *something* you're passionate about in any future job, but don't e
 
 No matter what, all sufficiently worthwhile jobs have the same components:
 
-1. The ability to make autonomous decisions for yourself ([control](decisions.md))
+1. The ability to make autonomous decisions for yourself ([control](people-decisions.md))
 2. The freedom for you to address problems as needed ([creativity](mind-creativity.md))
 3. The ability to influence others with your decisions ([impact](power-influence.md))
 4. [What you're good at](success-6_humility.md) and [built to love doing](personality.md) ([competence](results.md))

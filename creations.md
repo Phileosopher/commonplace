@@ -52,7 +52,7 @@ We try to find the best tools for the task. A hammer can pound things better, bu
 Every tool's [purpose](purpose.md) represents something like a vitamin, pill, or candy:
 
 - Vitamins are solutions to mandatory, [routine](habits.md) needs and wants, such as [housekeeping](home-housekeeping.md), [budgeting](money-3_budget.md), [culinary arts](cooking.md), and [groceries](cooking-shelflife.md).
-- Pills are solutions to mandatory, unusual needs and wants that almost always require a clear [decision](decisions.md), such as repair work or surgery.
+- Pills are solutions to mandatory, unusual needs and wants that almost always require a clear [decision](people-decisions.md), such as repair work or surgery.
 - Candy are solutions to non-mandatory, [fun](purpose.md) things we don't need, such as video games or recreational reading.
 
 As we gain [understanding](understanding.md) in our preferred [specializations](jobs-specialization.md), we tend to accumulate things that are more specific and less general. A professional mechanic, for example, will use their wrench set (and oil filter wrench) *far* more than their crescent wrench.
@@ -81,7 +81,7 @@ Every creator is trying to [convince](influence.md) a series of [ideas](values.m
 
 APPLICATION: Since a creator built from their [instincts](mind-feelings.md), we can frequently infer the spirit and soul of something if we trust our instincts (which are similar enough to others' to [match](humanity-universals.md)). Even automated [technology](technology.md) has a creator's "fingerprint", though it'll be on the backend and deep inside it instead of what the technology itself creates.
 
-Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](decisions.md) how to add the experience to our [identity](identity.md).
+Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](people-decisions.md) how to add the experience to our [identity](identity.md).
 
 APPLICATION: The trouble with modern art is that it often claims that the interpretation of [quality](values-quality.md) lies in the observer and not the piece itself. If that's the case, there's no [reason](purpose.md) to go to an art museum when someone can build a sandcastle with their kids or watch dumb videos.
 

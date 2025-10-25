@@ -25,7 +25,7 @@ Beliefs
 - Invalidate premises to reposition or open up the possibilities for reasoning.
 - Add new premises that change the [story](stories.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
-- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
+- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](people-decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
 - Make someone doubt and question [understanding](understanding.md), [perceptions](image.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
 - Justify the basis of something by virtue of someone's [authority](jobs-specialization.md).
 - Express a secondary motive as the primary [purpose](purpose.md).
@@ -46,7 +46,7 @@ Word Choice - Replacement
 Word Choice - Additions
 
 - Include adjectives to modify the present image of something (e.g., "The People's Democratic Republic of North Korea").
-- Use the word "free" to imply an obvious [decision](decisions.md) while hiding other costs.
+- Use the word "free" to imply an obvious [decision](people-decisions.md) while hiding other costs.
 - Borrow a different word that evokes a [feeling](mind-feelings.md) formerly unrelated to the value, which can *completely* rearrange the [story](stories.md).
 
 Math
@@ -80,7 +80,7 @@ Comparing Numbers/Ideas
 
 Comparing [Values](values.md)
 
-- Implying something has a [symbolic](symbols.md) connection with [moral](morality.md) principles or [decisions](decisions.md).
+- Implying something has a [symbolic](symbols.md) connection with [moral](morality.md) principles or [decisions](people-decisions.md).
 
 Feelings Comparison
 
@@ -94,7 +94,7 @@ Feelings Comparison
 Comparing with the Unknown
 
 - Allude to something as particularly exclusive, rare, unique, special, or unheard of.
-- Give an implication that there are very few of something left to force a belief in [scarcity](decisions.md), especially regarding [trends](trends.md).
+- Give an implication that there are very few of something left to force a belief in [scarcity](people-decisions.md), especially regarding [trends](trends.md).
 
 ## [Conversation](people-conversation.md)
 
@@ -127,7 +127,7 @@ Pressure
 - Ask a yes/no question with many elements, then demand the person answer yes or no.
 - Ask two pseudo-related ideas within the same question.
 - Push intense [feelings](mind-feelings.md) as if they're valid [logic](logic.md), frequently controlling the [conversation](people-conversation.md) with [shame](image.md).
-- Push the matter as urgent when it's not to force a [decision](decisions.md) without [critically thinking](logic.md) it through first.
+- Push the matter as urgent when it's not to force a [decision](people-decisions.md) without [critically thinking](logic.md) it through first.
 - Use an unusual time or adverse weather conditions to make people uncomfortable.
 - Misstate what someone said to make it sound worse, usually to provoke defensiveness.
 - Force a "with or against me" stance on someone.
@@ -141,7 +141,7 @@ Feelings
 
 Blame
 
-- Blame [technology](technology.md) or its [power](power.md) for [decisions](decisions.md) (e.g., guns, [computers](computers.md)).
+- Blame [technology](technology.md) or its [power](power.md) for [decisions](people-decisions.md) (e.g., guns, [computers](computers.md)).
 - Redirect an idea by using the implications from specific patterns of words.
 - Imply someone's guilt, but without saying anything that would [legally](people-rules.md) indicate the implication.
 - Claim something difficult to disprove against someone.
@@ -175,7 +175,7 @@ Redirection
 - Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](understanding-certainty.md) or a few specific people in that group.
 - Use existing [reputation](image.md) to hide laziness or incompetence.
 - Imply that their thing is the new [trend](trends.md), which makes others [imagine](imagination.md) they'll miss out on it.
-- Imply there are only a few possible [options](decisions.md), even when there are more.
+- Imply there are only a few possible [options](people-decisions.md), even when there are more.
 - A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
 
 Blame
@@ -207,10 +207,10 @@ Inter-Organization
 - Establish a test to prove [group status](groups-member.md) that requires specific information only attainable by the leadership.
 - Separate [members'](groups-member.md) roles along lines that make very little sense.
 - Bestowing titles to avoid bestowing legitimate [power](power-types.md).
-- Physically separate members' [experiences](results.md) from their [decisions](decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
+- Physically separate members' [experiences](results.md) from their [decisions](people-decisions.md) to reduce [emotional](mind-feelings.md) involvement (e.g., bank cards, credit cards, preferred player cards in casinos).
 - Create a [reward](habits.md) system with complex [rules](people-rules.md) that make the game look easy to hack (e.g., credit card points, shopper loyalty cards, social score).
 - Use a numerical system without a conventional base-10 basis (e.g., school grades, credit card scores).
-- Frame a [decision](decisions.md) as "opt-in" or "opt-out" to imply the rest of the group is doing something automatically or set apart people who weren't paying attention.
+- Frame a [decision](people-decisions.md) as "opt-in" or "opt-out" to imply the rest of the group is doing something automatically or set apart people who weren't paying attention.
 
 Multi-Organization - Hiding
 

@@ -9,9 +9,9 @@ APPLICATION: There is very little [justice](morality-justice.md) to any large-sc
 
 Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](image.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md). The strongest motivation to attack other groups comes from overstating [fears](mind-feelings-fear.md) of what may happen if the other group wins.
 
-Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries.md) unless they're making a strategic and significant [decision](decisions.md).
+Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries.md) unless they're making a strategic and significant [decision](people-decisions.md).
 
-These dramatic conflicts have *many* interconnected elements, and each element is its own sub-conflict driven by unique [decisions](decisions.md) separate from the [large groups' leadership](groups-large.md). Alliances often shuffle around, but nothing quite solidifies the group's loyalty like an outside threat.
+These dramatic conflicts have *many* interconnected elements, and each element is its own sub-conflict driven by unique [decisions](people-decisions.md) separate from the [large groups' leadership](groups-large.md). Alliances often shuffle around, but nothing quite solidifies the group's loyalty like an outside threat.
 
 ## Inevitable
 
@@ -67,10 +67,10 @@ Creating an alliance, merger, union, or truce can prevent conflicts by making mu
 
 Destroying key components of a larger group can delay or nullify that group's [purposes](purpose.md), typically by making them [ineffective](mgmt-badsystems.md). This can create [power](power.md) vacuums the subverting group can then fill:
 
-- [Destroy that group's image](image-distortion.md) to make the people fight with each other or destroy their reputation outside the group. The easiest way is to draw extra attention to one of that group's past [decisions](decisions.md), which often includes [starting](trends.md) a protest.
+- [Destroy that group's image](image-distortion.md) to make the people fight with each other or destroy their reputation outside the group. The easiest way is to draw extra attention to one of that group's past [decisions](people-decisions.md), which often includes [starting](trends.md) a protest.
 - Sabotage resources or the means to acquire resources, usually by attacking the weakest points (which is often their [communications](people-conversation.md) [technology](technology.md)).
 - Redirect and reroute resources toward the subverting group's [purposes](purpose.md). This can involve redirecting physical things (e.g., raw materials) or mental things (e.g., information).
-- Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](decisions.md) ability.
+- Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](people-decisions.md) ability.
 
 If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](socialrisk.md) against their [authorities](power.md) to start the [trend](trends.md).
 
@@ -100,7 +100,7 @@ Of course, that group will always [seek](purpose.md) another source for it, and 
 Unless the conflict is relatively short, there's a general calculus that approximates how well each group will do:
 
 1. Take everything that can be [purposed](purpose.md) toward destroying the enemy.
-2. Distribute it among the people who are both [willing](decisions.md) and able to fight.
+2. Distribute it among the people who are both [willing](people-decisions.md) and able to fight.
 3. Add in the long-term capacity for other people who are both willing and able to make supplies for the fighters (e.g., food, more weapons).
 4. Diminish the capacity by the risks toward non-fighters from opponents (i.e., [logistical supply chain](logistics.md) disruption).
 5. Multiply or divide by prevailing [philosophical values](values.md) that can affect everyone:
@@ -131,7 +131,7 @@ Larger and more powerful groups tend to assume they have an automatic victory be
 
 The large group will act quickly, but always slower than the smaller group, since they have more to move and often less of a [compulsion to survive](mind-feelings-fear.md).
 
-The larger group's effort will be focused on preserving resources as much as possible. The leadership will constantly [calculate](decisions.md) if the effort is worth the cost, since they're usually free to back out any time.
+The larger group's effort will be focused on preserving resources as much as possible. The leadership will constantly [calculate](people-decisions.md) if the effort is worth the cost, since they're usually free to back out any time.
 
 Because of large groups' size, they're a bit more impersonal, and individuals must trust strangers they don't know directly much more frequently. These two factors together mean distrust within a group is disastrous to the harmony of the group proportionally to its size.
 
@@ -172,7 +172,7 @@ A close battle between two [large groups](groups-large.md) quickly becomes extre
 
 - Military and communications [technology](technology.md) developments.
 - Recruiting *any* other groups. This can include pretty much anyone who sympathizes with the battling group, and can be public or private.
-- [Manipulating their image](image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
+- [Manipulating their image](image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](people-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
 - Most war strategies involve cutting off resources from their opponent. This can include core needs (e.g., food, water), military supplies (e.g., guns, ammunition), or communications technology. At the farthest, a group can destroy its *own* supplies so the enemy doesn't receive it (scorched earth policy).
   - Each unit, squadron, battalion, and legion must be as self-reliant as possible to ensure they're safe from any disruptions.
 - Diplomatically ending any further conflict is the greatest net win for everyone, but it's not always in the interests of a group that's significantly more powerful.
@@ -203,7 +203,7 @@ APPLICATION: Controlling and directing a riot is very difficult. While some peop
 
 However, since the protesters are leaders of an opposition force that may run the system soon, the current leadership can often backfire spectacularly in how they handle the unruly dissenters. The leaders who oppose the rioters are typically [laggards](trends.md) of the rioting trend, and it's not uncommon for them to be ejected or die from it.
 
-Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
+Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](people-decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
 
 APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
 
@@ -246,7 +246,7 @@ One of the benefits of a well-trained military is that it builds [habits](habits
 
 ## Resolving the conflict
 
-When two groups fight, there are too many unknown factors to know exactly what's going on at any given moment ("fog of war"). However, leaders still must make [decisions](decisions.md) with their limited information and often try to increase the fog of war for their opponent whenever possible.
+When two groups fight, there are too many unknown factors to know exactly what's going on at any given moment ("fog of war"). However, leaders still must make [decisions](people-decisions.md) with their limited information and often try to increase the fog of war for their opponent whenever possible.
 
 In practice, strategic decisions are essentially [game theory](math-gametheory.md), with the entire engagement built around at least two actors. Even seemingly harmless activities that simply [change how things look](image-distortion.md) can be *highly* effective in deterring purposes (e.g., "false flag operation").
 

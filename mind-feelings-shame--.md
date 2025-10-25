@@ -1,4 +1,22 @@
 
+https://www.psychologytoday.com/us/blog/off-the-couch/201710/7-ways-to-respond-when-someone-shames-you
+
+https://www.nerdycreator.com/blog/how-to-deal-with-shame/
+
+https://thesensehub.com/healthy-and-firm-ways-to-respond-to-shaming-statements/
+
+https://themindsjournal.com/how-to-respond-when-someone-shames-you/
+
+https://www.cliffordtaylormd.com/the-benefits-of-psychiatric-care/response-styles-to-feelings-of-shame/
+
+https://woventraumatherapy.com/blog/guilt-and-shame
+
+https://www.stephaniemartineztherapy.com/blog/shames-silent-impact-unveiling-common-reactions-and-their-influence-on-relationships
+
+https://beattycounselling.com/dealing-with-shame-how-to-recognize-feelings-of-shame-in-our-day-to-day-lives-and-address-them-with-practical-examples/
+
+https://togetheraz.com/2025/01/overdose-a-public-health-issue-not-a-private-shame/
+
 
 Guilt is the [feeling](mind-feelings.md) of having done something wrong, but shame is the [feeling](mind-feelings.md) that something was *so* wrong that exoneration requires far more than merely [eye-for-an-eye retribution](morality-justice.md). It represents beyond an "[action](results.md)" performed, and implies the person themselves is "wrong".
 
@@ -30,9 +48,9 @@ Over time, regret converts into shame:
 
 ## Living with regret and shame
 
-If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md). Instead of learning to [cope with it](decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), often as a result of being trained to be controlled by the [bullies](power.md) of that group.
+If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md). Instead of learning to [cope with it](people-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), often as a result of being trained to be controlled by the [bullies](power.md) of that group.
 
-Regret is [useless](results.md), *except for* when we have [not learned](understanding.md) from the [decision](decisions.md) we had made.
+Regret is [useless](results.md), *except for* when we have [not learned](understanding.md) from the [decision](people-decisions.md) we had made.
 
 - It's effectively useless when we did [the right thing](morality.md) at the time with the information we had available.
 

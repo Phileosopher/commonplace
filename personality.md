@@ -3,7 +3,7 @@
 
 We often don't know what we ought to do, how to do it, or have the resources to do things, but the most defining factor about whether we'll do something is if we *[want](purpose.md)* to do it, which is heavily defined by our personality.
 
-A personality is based on the [experiences](reality.md) we endured and how we responded to them. We have zero control over our upbringing, but we [decided](decisions.md) on [changes](people-changes.md) to survive in that environment starting around 6 months old, and we tend to develop that personality with complete independence of our [genetics](people-family.md) starting around the ages of [5 to 10](maturity.md).
+A personality is based on the [experiences](reality.md) we endured and how we responded to them. We have zero control over our upbringing, but we [decided](people-decisions.md) on [changes](people-changes.md) to survive in that environment starting around 6 months old, and we tend to develop that personality with complete independence of our [genetics](people-family.md) starting around the ages of [5 to 10](maturity.md).
 
 In many ways, a personality is the closest we can observe as a "[soul](humanity.md)" within others. While the soul itself is more akin to the decisions we make *now*, our personality uses many [mental habits](habits.md) from the past to create a larger [expression](image.md) than the individual moments that make up the individual moments that define who we are at any given second.
 
@@ -15,7 +15,7 @@ No personality is "best", but each person is "best suited" toward certain times 
 
 APPLICATION: Each personality is a disposition, so nobody will respond the way we anticipate them to unless we're aware of what their personality is, which is difficult because *they* often aren't aware of what they're really disposed toward.
 
-It's difficult to intuitively [classify](logic.md) personality because psychologists are attempting to group the basis for how we make [decisions](decisions.md). For this reason, most personality indicators and tests are vaguely close to reality but always miss certain elements. The only exception to this is the Big 5 personality indicator, which is the only one with any [scientific rigor](science.md) behind it.
+It's difficult to intuitively [classify](logic.md) personality because psychologists are attempting to group the basis for how we make [decisions](people-decisions.md). For this reason, most personality indicators and tests are vaguely close to reality but always miss certain elements. The only exception to this is the Big 5 personality indicator, which is the only one with any [scientific rigor](science.md) behind it.
 
 Personality carves itself into [5 major classifications (with 2 subclasses)](personality-ocean.md) that conveniently break out into an OCEAN acronym. It typically represents as the [conflict](conflicts-inner.md) between two decisions that have [benefits](meaning.md) and [risks](safety.md), with our [soul's](humanity.md) decisions making the deciding factor that determines how we wish to continue from that point.
 
@@ -121,7 +121,7 @@ Generally, most cultures form an expected "false self" with a specific range of 
 Proportional to our *actual* agreeableness, our actions with society's responses create a feedback loop of shame that reinforces and magnifies our "shadow self":
 
 1. We quickly [learn](education.md) to [habitually](habits.md) repress the true desires and [perceptions](image.md) we'd otherwise express.
-2. To the degree we can restrain ourselves, we maintain that [image](image.md), but make a lapse in [judgment](decisions.md) when we face a severe breakdown of our [willpower](decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
+2. To the degree we can restrain ourselves, we maintain that [image](image.md), but make a lapse in [judgment](people-decisions.md) when we face a severe breakdown of our [willpower](people-decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
 
@@ -132,7 +132,7 @@ Only a few methods work to "integrate" a shadow, and every healthy solution uses
 1. Stop taking yourself seriously, since your [purpose](purpose.md) and [feelings](mind-feelings.md) are determined by severely [limited information](image.md).
 2. Apologize sincerely, in the deepest possible desire for repentance, for all misbehavior or misjudgment that potentially [harmed others](morality-evil.md).
 3. Maintain a harmonious focus on [loving](people-love.md) yourself and everyone else the same (i.e., love others like yourself).
-4. Release *everything* about yourself as a product of the environment that was given to you, minus what you have [control](decisions.md) over right now. In practice, all aspects of [identity](identity.md) must come strictly from [decisions](decisions.md) you still stand by.
+4. Release *everything* about yourself as a product of the environment that was given to you, minus what you have [control](people-decisions.md) over right now. In practice, all aspects of [identity](identity.md) must come strictly from [decisions](people-decisions.md) you still stand by.
 
 Most people will never integrate their shadow, so the ones who succeed tend to [lead groups](groups-small.md) from their enhanced natural connection to themselves. This is *not* a [moral](morality.md) matter either way, but it heavily defines a person's ability to [influence](influence.md) and achieve [meaning](meaning.md).
 

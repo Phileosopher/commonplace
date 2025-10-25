@@ -66,7 +66,7 @@ In all engagements, either include or request a mediation/arbitration clause or 
 - If you can't read it because it's too difficult, make sure someone you trust (e.g., a legal-minded family member, an attorney) skims through it.
 - If you don't have access to what you're signing, do *not* sign.
 
-To avoid an urgent [decision](decisions.md), give as much time as possible to review a contract (e.g., set a future effective date).
+To avoid an urgent [decision](people-decisions.md), give as much time as possible to review a contract (e.g., set a future effective date).
 
 - If you're not sure about *all* the clauses involved in the contract, give it time to read through it or consult a professional who would know more.
 - Generally, more disclosures and clauses are *them* trying to protect or insulate themselves from *you*.

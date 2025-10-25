@@ -65,7 +65,7 @@ You're the chaotic accumulation of various experiences and responses:
   - Natural talents and weaknesses
   - Culture of origin including [habits](habits.md), traditions, and rituals
 - Every experience you've been through, good or bad
-- Each [decision](decisions.md) you've made, with each one creating some type of [consequence](results.md).
+- Each [decision](people-decisions.md) you've made, with each one creating some type of [consequence](results.md).
   - Further, the things you've [learned](understanding.md) from those experiences.
 - [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.
@@ -76,7 +76,7 @@ Thus, you are not a "static" existence:
   - Your muscles are constantly breaking down or healing.
   - You can't have the same thought twice.
 - You have less in common with the version of you 10 years ago than with your peers.
-- Every [decision](decisions.md) you make from this point dictates who "Future You" can become.
+- Every [decision](people-decisions.md) you make from this point dictates who "Future You" can become.
 
 If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
 
@@ -85,6 +85,8 @@ If you don't remove "static" thinking, you're guaranteed to become (and stay) a 
 - You must replace your "victim" identity with a more powerful one like "overcomer", "persevering", "conqueror", "adaptable", "changing" or "resilient".
 
 Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
+
+Life is guaranteed to be difficult, but we get to [choose](people-decisions.md) what version of difficult we can experience.
 
 Give yourself plenty of grace:
 
@@ -117,7 +119,7 @@ The only cure to stopping the "temporary insanity" of emotional overwhelm is sel
 
 Most professional therapists are simply assisting with our self-analysis process:
 
-- Their goal is to equip you with information (and sometimes medication or [habits](habits.md)) that empower you to stop reacting to your self-destructive [feelings](mind-feelings.md) and make better [decisions](decisions.md).
+- Their goal is to equip you with information (and sometimes medication or [habits](habits.md)) that empower you to stop reacting to your self-destructive [feelings](mind-feelings.md) and make better [decisions](people-decisions.md).
 - While psychological therapy is often worth it, it's not for everyone:
   - Being [poor](money-1_why.md) means a professional therapist may be too expensive.
   - People with trust issues will have a hard time believing the therapist's diagnosis.
@@ -273,7 +275,7 @@ Extreme hardship, especially when it includes poverty, often drives away close f
 - [Friendship](people-4_friends.md) comes through shared experience, so you've now out-experienced the friends you once had.
 - Hardship changes us, so we often become unrecognizable to family and close friends.
 - Many of the friends you once had before the hardship will feel uncomfortable about the new situation and won't associate with you anymore.
-- Often, the *consequences* of the hardship can alienate as well (often from prejudice or anger about your [decisions](decisions.md)).
+- Often, the *consequences* of the hardship can alienate as well (often from prejudice or anger about your [decisions](people-decisions.md)).
 
 You'll only find friends who can either empathize with your experiences or will love you irrespective of those experiences:
 

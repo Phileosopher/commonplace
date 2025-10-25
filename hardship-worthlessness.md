@@ -26,7 +26,7 @@ A. [Toxic shame](mind-feelings-shame.md) is a complete non-acceptance of oneself
   - Trouble playing and [having fun](fun.md)
   - Lives in the past
   - Fearful, anxious, or depressed
-  - Afraid to make [decisions](decisions.md)
+  - Afraid to make [decisions](people-decisions.md)
 - Note any disconnect from reality:
   - Overly theatrical
   - Overly rational or logical

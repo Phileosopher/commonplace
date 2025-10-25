@@ -5,7 +5,7 @@ Love is always a type of fondness, affection, or connection. We usually say "lov
 
 The greatest psychological [motivator](purpose.md) is [fear](mind-feelings-fear.md), but that fear *always* comes through loving something else we don't want to lose. However, we're frequently unaware of what we love when we're more afraid of losing it.
 
-Love is typically [habitual](habits.md) in day-to-day life, and we begin loving when we make [decisions](decisions.md) that give ultimate [priority](purpose.md) to something.
+Love is typically [habitual](habits.md) in day-to-day life, and we begin loving when we make [decisions](people-decisions.md) that give ultimate [priority](purpose.md) to something.
 
 The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
@@ -15,7 +15,7 @@ APPLICATION: Many people who talk about "undying affection" or "oneness with the
 
 Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](results.md) or [being](humanity.md).
 
-APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
+APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](people-decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
 
 Love is not only the pinnacle of human existence. It is *the* foundation of all human [purpose](purpose.md) and [meaning](meaning.md):
 
@@ -34,7 +34,7 @@ APPLICATION: All human purpose is driven by love of something, so all people are
 - Rebellion is the love *against* something.
 - Self-destructive desires are frequently the love of nonexistence or a misplaced sense of [justice](morality-justice.md).
 
-We can't directly control what we love. We can only make [decisions](decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
+We can't directly control what we love. We can only make [decisions](people-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
 APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
 
@@ -110,7 +110,7 @@ Small variations in portions of what we love creates profound differences in how
 
 - Loving someone's [safety](safety.md) more than their [happiness](mind-feelings-happiness.md) will mean protecting them against their [will](purpose.md).
 - Loving something's [use](purpose.md) over its [appearance](image.md) will mean we will damage its exterior over time.
-- Loving an idea's [application](decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
+- Loving an idea's [application](people-decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
 - Loving our present self over our future self provokes us to avoid [planning for the future](imagination.md).
 
 APPLICATION: Most of what we do is prioritizing what we love in some form. A faithful [marriage](gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).

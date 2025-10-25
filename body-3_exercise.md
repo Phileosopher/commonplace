@@ -163,7 +163,7 @@ You don't need much equipment for a workout:
 - Games - Dance Dance Revolution, Double Dutch, hopscotch, hula-hooping, Kinect games, jump rope, Wii games
 - A jump rope works out many muscles at the same time, and 15-20 minutes of it is a full-body workout.
 
-If you want something to increase mental skills ([decision-making](decisions.md), [analysis](logic.md), [creativity](mind-creativity.md)) *and* stay active, practice table tennis, juggling, or fencing.
+If you want something to increase mental skills ([decision-making](people-decisions.md), [analysis](logic.md), [creativity](mind-creativity.md)) *and* stay active, practice table tennis, juggling, or fencing.
 
 Train your body to hold breath longer (by breathing deeply and holding) to increase your resting metabolism.
 

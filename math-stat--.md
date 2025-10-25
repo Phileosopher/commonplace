@@ -9,7 +9,7 @@ bad graphs
 
 ## Statistics uses
 
-Most [reality](reality.md) yields [statistical results](math-stat.md), so statistics has a vast range of applications. It can track how far someone can throw a ball, a rocket's likely trajectory, radioactive chemicals' half-life, and [social trends](trends.md). It can also often show how we change [habits](habits.md), [behave in groups](groups-member.md), and [make decisions](decisions.md).
+Most [reality](reality.md) yields [statistical results](math-stat.md), so statistics has a vast range of applications. It can track how far someone can throw a ball, a rocket's likely trajectory, radioactive chemicals' half-life, and [social trends](trends.md). It can also often show how we change [habits](habits.md), [behave in groups](groups-member.md), and [make decisions](people-decisions.md).
 
 Normally, we interpret [certainty](understanding-certainty.md) in our minds through convictions grounded in [experiences](understanding.md). Statistical systems, however, create an anomaly to that mode of reasoning:
 

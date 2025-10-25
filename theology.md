@@ -124,7 +124,7 @@ These are the groups formally defined in most systematic theologies.
 
 God made mankind for a relationship with Him.
 
-- To permit this to happen, He gives a freedom of [decision](decisions.md) to all His intelligent creations.
+- To permit this to happen, He gives a freedom of [decision](people-decisions.md) to all His intelligent creations.
 
 Our fallen state (see Harmatiology) essentially makes our bodies (and souls, to a secondary extent) live in *constant* opposition to God's desires.
 
@@ -257,7 +257,7 @@ God's design for angels, unlike our design for relationship, was for [utilitaria
 
 - While humanity has a "multitool" design that permits all forms of action without constraint, angels are designed to do one task *really* well.
 
-Being intelligent, God gave them the freedom of [decision](decisions.md), and some of them have rebelled against what God wants.
+Being intelligent, God gave them the freedom of [decision](people-decisions.md), and some of them have rebelled against what God wants.
 
 - The Satan, led by Lucifer and his followers, are constantly trying to destroy what God has made and subvert His purposes.
 - The dominant way they work is through creating more [inner conflicts](conflicts-inner.md) over our decisions.

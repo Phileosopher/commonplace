@@ -11,7 +11,7 @@ As a whole, a brain consists of several inter-related parts:
 
 - A brain stem connected to the spinal cord that manages *very* basic motor skills and sensations.
 - A cerebrum that makes up most of the volume of the brain that controls most activities:
-  - The frontal lobe is the largest, and regulates [personality](personality.md), [decisions](decisions.md), and [movement](reality.md).
+  - The frontal lobe is the largest, and regulates [personality](personality.md), [decisions](people-decisions.md), and [movement](reality.md).
   - The parietal lobe helps [identify objects and make relationships](symbols.md) between things.
   - The occipital lobe is at the back, and regulates vision.
   - The temporal lobe is on both sides of the brain at the bottom, and regulates how we perceive time and make stories, which translates to [short-term memory](mind-memory.md), [speech](language.md), musical rhythm, and some aspects of smell.

@@ -21,7 +21,7 @@ Whenever the [design of the interface/hardware](engineering-design.md) doesn't c
 The absence of good technical writing sabotages the entire community around the product:
 
 - Other technical people who have to work on the project will spend countless hours of rework just to figure out what the original creator did.
-- Non-technical people in positions of [leadership](mgmt-1_why.md) and [decision-making](decisions.md) will have trouble knowing exactly what to do in many situations, which means they won't be as willing to support advantageous decisions for that project, such as extra funding.
+- Non-technical people in positions of [leadership](mgmt-1_why.md) and [decision-making](people-decisions.md) will have trouble knowing exactly what to do in many situations, which means they won't be as willing to support advantageous decisions for that project, such as extra funding.
 - Non-technical people outside of the project won't be as quick to adopt the product, especially when it's an [open-source](legal-ip-floss.md) or [not-for-profit](mgmt-npo.md) project.
 
 ## Timing

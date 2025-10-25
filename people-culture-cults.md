@@ -68,7 +68,7 @@ To gain the necessary influence and maintain it, cult leaders are a *very* speci
 
 A cult proponent must be suggestible and malleable enough that they'll believe a consistent [pattern](symbols.md) of indoctrination from a single source across months and years.
 
-Only a specific group of [personalities](personality.md) will *ever* [choose](decisions.md) to join a cult:
+Only a specific group of [personalities](personality.md) will *ever* [choose](people-decisions.md) to join a cult:
 
 - Openness to Experience
   - Low-enough Openness to simply [trust](trust.md) someone else for information.
@@ -93,7 +93,7 @@ Usually, joining a cult requires a large personal sacrifice.
 
 - This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
 - Further sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
-- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries.md), or [agency](decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
+- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries.md), or [agency](people-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
 ## Advancing
 
@@ -118,7 +118,7 @@ By the end, the person has been transformed into a perfect extension of the lead
 
 **Behavior control** involves [changing habits](habits.md), and is the most obvious for the public to notice:
 
-- Instilling dependency and obedience, with permission required for all major [decisions](decisions.md).
+- Instilling dependency and obedience, with permission required for all major [decisions](people-decisions.md).
 - Rewards and punishments modify positive and negative behaviors.
 - Rigid rules:
   - How, where, and who that person can live with, associate with, or isolates from.
@@ -222,7 +222,7 @@ Generally, the public only notices cults when they violate [basic human rights](
 - Engagement in [questionable arrangements](people-contracts.md) with others.
 - *Severely* [inappropriate behavior](morality-taboo.md) to advance the cult's cause.
 
-Once a cult has fully indoctrinated members, they will [decide](decisions.md) to perform acts of violence on their own:
+Once a cult has fully indoctrinated members, they will [decide](people-decisions.md) to perform acts of violence on their own:
 
 - Killing people who [didn't deserve it](morality-justice.md), sometimes while making it a [public spectacle](stories-storytellers.md).
 - Operating a vehicle (e.g., [auto](autos.md), plane) to crash into buildings or crowds of people.
@@ -266,7 +266,7 @@ Often, cult membership creates very severe effects upon a participant:
 
 - Absolute sabotage of [personal freedoms](people-boundaries.md), to the point of having a broken [personality](personality.md) and unable to make [good boundaries](people-boundaries.md).
 - Severe [trauma](hardship-ptsd.md) from the events performed *to* them.
-- Bad [decisions](decisions.md) and [their effects](results.md) they [chose](decisions.md) to make *on behalf of* the group they trusted.
+- Bad [decisions](people-decisions.md) and [their effects](results.md) they [chose](people-decisions.md) to make *on behalf of* the group they trusted.
 
 Generally, they'll veer *hard* into the polar opposite extreme value system:
 
@@ -277,5 +277,5 @@ Generally, they'll veer *hard* into the polar opposite extreme value system:
 
 The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts.md) those cults are typically the people who have [integrated their shadow self](personality.md).
 
-- They must acknowledge they were partly responsible for submitting their [will](decisions.md) to another person.
+- They must acknowledge they were partly responsible for submitting their [will](people-decisions.md) to another person.
 - They *also* must acknowledge they were a victim of that leader exploiting their [trust](trust.md).

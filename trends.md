@@ -24,7 +24,7 @@ APPLICATION: Healthy [routines](habits.md) are upward trends:
 - Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
 - [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](results.md), [growing](maturity.md), and [learning](education.md).
 - [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
-- [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](decisions.md).
+- [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](people-decisions.md).
 
 Almost everything we do that affects others is influenced by a [group's](groups-small.md) standards, and those standards are mostly previous trends that have reached maturity. With the possible exception of [technology](technology.md), *everything* is simply a [remix](mind-creativity.md) of a previous trend.
 
@@ -69,7 +69,7 @@ Unlike everyone else, these people have often made [habits](habits.md) of breaki
 
 While they're *called* "innovators", they're not that innovative because most of their rule-breaking will get them in trouble and *other* people later will reap the brilliance. At most, across their lifetime, they'll probably break 1-2 conventions that become dramatic trends. The rest of their efforts are either too premature or *awful* ideas that never take off.
 
-Often, many of them are labeled heretics and outcasts. Their [risk-taking](socialrisk.md) and public [shame](image.md) provokes them to usually live solitary lives, but they can sometimes congregate in a [community](groups-member.md) of like-minded risk-takers. Their [choice](decisions.md) is usually driven by an overwhelming [passion](purpose.md).
+Often, many of them are labeled heretics and outcasts. Their [risk-taking](socialrisk.md) and public [shame](image.md) provokes them to usually live solitary lives, but they can sometimes congregate in a [community](groups-member.md) of like-minded risk-takers. Their [choice](people-decisions.md) is usually driven by an overwhelming [passion](purpose.md).
 
 Large trends start with innovators who were extremely [creative](mind-creativity.md) or extremely foolish. However it happened, they broke an invisible "wall" of society in a way that was useful.
 
@@ -78,7 +78,7 @@ APPLICATION: To be a major influencer in pretty much any domain, you must be luc
 - Be born with a high-Conscientiousness and high-Openness [personality](personality.md) to [drive hard](success-4_routine.md) and [take risks](socialrisk.md)
 - The fortune to live in a [technologically](technology.md) strong and [demographically](people-culture.md) varied [large social group](groups-large.md)
 - Be born about 20-40 years before a major new innovation
-- Have the [wisdom](understanding.md) to make the right [decisions](decisions.md) at the time of a new trend, without sacrificing all your resources on an ultimately failed trend
+- Have the [wisdom](understanding.md) to make the right [decisions](people-decisions.md) at the time of a new trend, without sacrificing all your resources on an ultimately failed trend
 - If it's a physically or mentally demanding role to lead the adoption, you must also have certain genetic dispositions as well
 
 ### C. Cool, but uncommon
@@ -234,7 +234,7 @@ The [leadership](groups-large.md) of a dead trend is usually unaware of the warn
 
 APPLICATION: When most people of any [group](groups-small.md) start growing tired of a trend, the trend is losing its [influence](power-influence.md) and about to shift.
 
-If a trend has many people who [invested](decisions.md) tons of [power](power.md) into it, the trend will fade *very* quickly.
+If a trend has many people who [invested](people-decisions.md) tons of [power](power.md) into it, the trend will fade *very* quickly.
 
 ### G. Quaint/relic
 
@@ -294,9 +294,9 @@ APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) 
 
 The only way we'd be able to reliably predict the timing of a trend would be to [understanding](understanding.md) all the trends and [technology](technology.md) that haven't happened yet in between where we are and what we envision. We'd also have to consider all major factors that could tweak the trend's adoption ([example here](https://ncase.me/attractors/)).
 
-The length of a trend's phase comes from how new something is, according to each person's [calculation](decisions.md):
+The length of a trend's phase comes from how new something is, according to each person's [calculation](people-decisions.md):
 
-- Outside of innovators, each person requires a certain percentage of the people (or certain people) around them to like something before they can [trust](trust.md) that adopting it is worth the [social risk](socialrisk.md). This calculation comes from how much conflict they'll expect from the [decision](decisions.md). For example, early adopters may need to know that 2-5% of their friends already like it and that 30% of their friends like them doing it, or maybe they'll do it if their friend John is doing it.
+- Outside of innovators, each person requires a certain percentage of the people (or certain people) around them to like something before they can [trust](trust.md) that adopting it is worth the [social risk](socialrisk.md). This calculation comes from how much conflict they'll expect from the [decision](people-decisions.md). For example, early adopters may need to know that 2-5% of their friends already like it and that 30% of their friends like them doing it, or maybe they'll do it if their friend John is doing it.
 - Then, except for the late majority and laggards, each person *stops* adopting that thing when a specific people group has now *adopted it*. The early majority, for example, start questioning their trend when laggards begin adopting.
 - Laggards will never adopt the thing until it's practically [required](people-rules.md) by the group. Even then, they'll never [identify](identity.md) with it. The speed of a *new* trend developing to replace that one often comes from how much the laggards hate the current trend.
 - New mini-trends around an initial trend can restart the trend cycle all over again at any time. Often, they'll send the public in a previously unexpected direction, destroying unrelated trends and revitalizing loosely connected ones.
@@ -337,7 +337,7 @@ Forward-thinking people who want power will try to hasten a trend. New trends re
 
 Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](image.md) people were [feeling](mind-feelings.md) for a while.
 
-Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](decisions.md) *any* trend outside of that one, and it shifts unsettlingly fast.
+Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](people-decisions.md) *any* trend outside of that one, and it shifts unsettlingly fast.
 
 ### Trends that affect trends
 

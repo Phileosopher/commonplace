@@ -71,7 +71,7 @@ Wagner's Law - The more [technology](technology.md) a country adopts, the bigger
 
 5% Rule - In any group, about 3-5% of people are absolutely horrible.
 
-Briffault's Law - Women's [choices](decisions.md) in men determine what [families](people-family.md) are made.
+Briffault's Law - Women's [choices](people-decisions.md) in men determine what [families](people-family.md) are made.
 
 Broken Windows Theory - Visible signs of crime or destruction (like broken windows) lead to further and worse of them.
 

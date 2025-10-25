@@ -21,7 +21,7 @@ Like any biological being, every drive of a body is based on two primary [themes
 
 However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](results.md) within that domain of error.
 
-Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
+Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](people-decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
 
 While the base configuration of [reality](reality.md) is semi-ordered [chaos](unknown.md), our existence as [understanding](understanding.md) beings is semi-chaotic order.
 
@@ -44,9 +44,9 @@ APPLICATION: The soul is the only vehicle that we keep after this life, in whate
 
 We can't know precisely what a soul *is* (including whether it's simply a component of the body), but we can still identify certain things as being "soul-like" that express onto [reality](reality.md).
 
-The soul contains the will, which finds some form of [purpose](purpose.md) through adhering to [values](values.md) that always advance some sort of [meaning](meaning.md). The stronger that will, the more determination toward that purpose. A will can partly be trained, but a large portion of the will comes from [birth](maturity.md) and [personal decisions](decisions.md).
+The soul contains the will, which finds some form of [purpose](purpose.md) through adhering to [values](values.md) that always advance some sort of [meaning](meaning.md). The stronger that will, the more determination toward that purpose. A will can partly be trained, but a large portion of the will comes from [birth](maturity.md) and [personal decisions](people-decisions.md).
 
-Souls also each contain a type of [personality](personality.md), which is a product of pure [preference](mind-feelings.md). Both preference and [decisions](decisions.md) derived from preference means multiple people can grow up in the same environment, while they will all respond differently to it.
+Souls also each contain a type of [personality](personality.md), which is a product of pure [preference](mind-feelings.md). Both preference and [decisions](people-decisions.md) derived from preference means multiple people can grow up in the same environment, while they will all respond differently to it.
 
 The soul constructs an [identity](identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
 
@@ -58,11 +58,11 @@ Our subconscious mind is designed to protect us by automatically performing [rou
 
 We have many [depicted expressions of self-concept](image.md), which are all built on the [purposes](purpose.md) within our [environment](reality.md). There are many ways to [group](logic.md) those faces, but they broadly classify as short-term selfish (the "id"), long-term selfish (the "ego"), and [love](people-love.md) beyond oneself for others (the "superego").
 
-It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](decisions.md) more than what we [do](results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
+It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](people-decisions.md) more than what we [do](results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
 
 APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will implies they're born, then fostered.
 
-[Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
+[Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](people-decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
 
 From a [moral](morality.md) perspective, the soul has plenty of [evil](morality-evil.md). Whether you believe it's in-born or inherited, by the time people can [reason](logic.md), they will do things with at least passive intent to harm others, and with far more capacity than any other animal is capable of performing. It's typically driven by self-interest, but a soul is often not aware of its own moral state, especially when [young](maturity.md). It can be retrained, but [requires the trainers to believe](politics-leftism.md) the moral issue exists in the first place.
 
@@ -86,7 +86,7 @@ APPLICATION: To not value a soul, while valuing anything else of a person, is to
 
 APPLICATION: We can't directly observe a soul, and the easiest way to discover the value of a soul is through changing the situation that person is in. Make a rich man penniless, or give a low-ranking person ultimate authority. Their value is in the [virtues and goodness](morality.md) they keep or change as the situation shifts.
 
-People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](people-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
 
 APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 

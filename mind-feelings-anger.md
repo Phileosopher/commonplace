@@ -7,7 +7,7 @@ In particular, anger is always driven by a [perceived](image.md) sense of [injus
 
 1. Belief of [loss](hardship.md) or perceived loss.
 2. A belief that the loss was unjust.
-3. Belief that [action](decisions.md) can be taken that will resolve the injustice.
+3. Belief that [action](people-decisions.md) can be taken that will resolve the injustice.
 
 Or, to put it more simply, all anger can be articulated by the following statement:
 

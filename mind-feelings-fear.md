@@ -3,9 +3,9 @@
 
 More than anything else, fear is the strongest [motivator](purpose.md), though we're often [unaware](awareness.md) of its presence in our minds. Beyond fear, the only close contender for overwhelming motivational drive is [love](people-love.md).
 
-- However, while love is a [choice](decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](understanding.md).
+- However, while love is a [choice](people-decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](understanding.md).
 
-When we [imagine](imagination.md) loss in the past, we tend to experience [sadness](mind-feelings-sadness.md), but fear arises when we imagine loss in the future. Fear is a type of "cost" we expect to sacrifice for a [decision](decisions.md).
+When we [imagine](imagination.md) loss in the past, we tend to experience [sadness](mind-feelings-sadness.md), but fear arises when we imagine loss in the future. Fear is a type of "cost" we expect to sacrifice for a [decision](people-decisions.md).
 
 If we're consistently anxious, we usually have an unknown "dread" we can't put into [language](language.md), but we're afraid of [the unknown](unknown.md) enough that we don't want to confront it.
 
@@ -33,7 +33,7 @@ All fear is driven by perceived pain:
 
 - If it's pain from the past, it's [trauma](hardship-ptsd.md).
 - Pain of the [perceived future](imagination.md) is the fear of perceived risks, and we feel plenty of it because it makes [intuitive](mind-feelings.md) sense for us to feel that fear now instead of the pain about the matter later.
-- If it's in the present, it usually revolves around a [decision](decisions.md) that affects the future.
+- If it's in the present, it usually revolves around a [decision](people-decisions.md) that affects the future.
 - It can be self-pain or pain upon others, depending on who we [love](people-love.md) more at the moment.
 
 We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](people-culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.

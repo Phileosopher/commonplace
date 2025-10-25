@@ -141,7 +141,7 @@ Always give precise clarifications to your testimony and promises.
 - Only state what you know to be true.
   - *Always* clarify if you don't precisely remember something.
   - [Lying](people-lying.md) in many contexts risks a wide variety of problems: lying under oath, defamation, libel, slander, false advertising, fraud.
-- Give all relevant information to permit others to make the most educated [decision](decisions.md) possible.
+- Give all relevant information to permit others to make the most educated [decision](people-decisions.md) possible.
 - You will [*not* remember everything perfectly](mind-bias.md), and that humility can protect you in many capacities.
 - Always add modifiers that imply uncertainty ("I remember...", "By my recollection...", "The statement I read was...").
 - If you're giving advice, add modifiers that imply expertise but no promises ("I've experienced this...", "This has happened before elsewhere...").

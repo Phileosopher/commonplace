@@ -9,7 +9,7 @@ Morality comes from "mores", which is at least partly a [social construct](group
 
 Moral decisions are *always* a connection between several elements:
 
-1. Decider - Someone who makes the agency of [choice](decisions.md) upon the matter.
+1. Decider - Someone who makes the agency of [choice](people-decisions.md) upon the matter.
 2. Subject - Someone else who experiences the [consequences](results.md) of that choice, though it may sometimes be the Decider.
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
@@ -40,7 +40,7 @@ APPLICATION: People always abide by a moralized [value](values.md) system, even 
 
 Morality must have a basis for its actions. There are some things that *can't* define morality:
 
-- Individual [choice](decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
+- Individual [choice](people-decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
 - [Justice](morality-justice.md) - Morality *determines* the basis of [laws](people-rules.md) and justice, not the other way around.
 - [Group decisions](groups-large.md) or the collective of humanity - If that were the case, Nazi Germany would have the moral right to do what they did. [Power](power.md) may magnify morality but can't define it.
 
@@ -63,7 +63,7 @@ In practice, most people want moral relativism to justify their views as a type 
 
 We must [learn](understanding.md) virtue because [thinking about others](people-friends.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
-A virtue is a trained [habit](habits.md) of making [decisions](decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
+A virtue is a trained [habit](habits.md) of making [decisions](people-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
 Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](politics-leftism.md).
 
@@ -86,7 +86,7 @@ Some virtues are strictly products of the [mind](understanding.md):
 
 - [Creativity](mind-creativity.md) - [making things](creations.md) after drawing connections from observations
 - [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
-- [Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](decisions.md)
+- [Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](people-decisions.md)
 
 Some virtues come through how we [see](image.md) things:
 
@@ -103,7 +103,7 @@ Some virtues tie to our relationships with others:
 
 A few virtues *are* a "middle ground":
 
-- Prudence/meekness - makes [decisions](decisions.md) carefully, even when it's possible to indulge in a bad decision
+- Prudence/meekness - makes [decisions](people-decisions.md) carefully, even when it's possible to indulge in a bad decision
 - Self-regulation/patience - holds back from [excess](addiction.md), even when we feel compelled to act
 
 APPLICATION: Since virtue is a [habit](habits.md), we must carefully consider what we're doing. If we're wrong, we'll destroy quite a bit before we realize what we've been doing.
@@ -116,7 +116,7 @@ We already naturally [understand](understanding.md) these principles, at least i
 
 APPLICATION: Loving behavior toward others begins with patience:
 
-- Patience to suspend [judgment](decisions.md)
+- Patience to suspend [judgment](people-decisions.md)
 - Patience to [understand](understanding.md) others and the situations involved
 - Patience to find [creative solutions](mind-creativity.md) that benefit everyone
 - Patience to [work toward](results.md) an ideal
@@ -125,7 +125,7 @@ Even when we don't understand virtue directly, we form a selfishly driven altern
 
 Some of the most powerful [evil](morality-evil.md) channels virtues and healthy principles toward destructive ends. This is easier than it sounds because many principles are *very* similar, but convey *entirely* different [implications](mind-feelings.md) (e.g., equality versus fairness, wisdom versus knowledge).
 
-The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
+The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](people-decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
 
 APPLICATION: Good moral education requires people to develop an [intuition](mind-feelings.md) for it, *not* [rote memorization](mind-memory.md). However, it's possible that the people who pay the educators [don't want a moral person](mgmt-badsystems.md) to change how they do things.
 

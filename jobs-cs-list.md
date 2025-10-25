@@ -15,7 +15,7 @@ Completely [marketing](marketing.md)/design-based (for non-tech people who still
 - **Digital Marketing Manager** and **Content Strategist** are a hybrid of all the above.
 - **QA (Quality Assurance) Specialist** [tests](computers-software-redesign.md) to make sure things are high-quality.
 
-Fiddling with the [UX](engineering-design.md) (for people who understand [how people think](decisions.md)):
+Fiddling with the [UX](engineering-design.md) (for people who understand [how people think](people-decisions.md)):
 
 - **Information Architect** manages the UX behavior flow from a [psychology](mind-feelings.md) angle.
 - **UX Designer** manages the UX behavior flow from a [design](mind-creativity.md) angle (wireframing, prototyping, mockups, and tracking user flow).

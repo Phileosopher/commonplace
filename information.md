@@ -91,7 +91,7 @@ Being frequently inundated with information is *not* healthy for us:
 - We adopt a heavily [biased](mind-bias.md) and judgmental [culture](people-culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
 - Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](trends.md) [language](language.md) for offline use.
 
-Without [awareness](awareness.md) and making [decisions](decisions.md) that enforce limits, we tend to perform "[crash diets](body-2_diet.md)" of information control:
+Without [awareness](awareness.md) and making [decisions](people-decisions.md) that enforce limits, we tend to perform "[crash diets](body-2_diet.md)" of information control:
 
 1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
 2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.

@@ -11,7 +11,7 @@ In a [perfect society](politics-perfectsociety.md), this hierarchy would be moti
 
 People find shared interest over relatively unimportant things. It protects them from cultural "outsiders" who could threaten their [power](power.md), but also operates as the beginning of [meaning](meaning.md) inside a group.
 
-We typically inherit our social class from our [family](people-family.md). While we didn't earn it, we can certainly change it with our [decisions](decisions.md).
+We typically inherit our social class from our [family](people-family.md). While we didn't earn it, we can certainly change it with our [decisions](people-decisions.md).
 
 ## Divisions
 
@@ -57,7 +57,7 @@ Parents of the middle class tend to raise their children to out-succeed them and
 
 Except for [love](people-love.md) towards other people, they're not that concerned with the lower class, and many of them are too busy conforming to the [cultural requirements](people-culture.md) for climbing the social ladder to care about too much else.
 
-The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](decisions.md) that steer society at large.
+The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](people-decisions.md) that steer society at large.
 
 APPLICATION: The underclass requires an [attainable means to survive](hardship-poverty.md). But, beyond that, provoking the poor to be motivated to become independently middle-class is *far* more effective at fixing their mindset (and builds *much* more [meaning](meaning.md)) than giving more things to the poor beyond the basics.
 
@@ -92,7 +92,7 @@ Beyond the standard cultural adaptations like specific [language](language.md) a
 
 Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](imagination.md) their social status typically expresses itself in how people react to it.
 
-Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends.md) with others. The person must make [wise](understanding.md) [decisions](decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
+Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends.md) with others. The person must make [wise](understanding.md) [decisions](people-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
 When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
 
@@ -102,7 +102,7 @@ Most people moving *down* a social class are permanent outsiders because they do
 
 Unless someone is a [cross-cultural](people-culture.md) [missionary](religion.md) or raised in a different culture than their [family](people-family.md), almost nobody *ever* [voluntarily](purpose.md) goes down a social class, but people always seem to want to climb that ladder.
 
-APPLICATION: The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once, mixed with enough wealthy people facing the logical [consequences](results.md) of their bad [decisions](decisions.md).
+APPLICATION: The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once, mixed with enough wealthy people facing the logical [consequences](results.md) of their bad [decisions](people-decisions.md).
 
 ## Conflicts
 
@@ -152,7 +152,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - Education is focused on success and money.
   - Language is a formal mechanism for [negotiation](people-conflicts-negotiation.md).
   - Family structure is patriarchal (from fathers earning more money).
-  - Destiny is defined by [decisions](decisions.md) we make.
+  - Destiny is defined by [decisions](people-decisions.md) we make.
   - The social standards prioritize polite behavior, and sometimes honesty.
 - Wealthy is about maintaining and growing [power of all forms](power-types.md):
   - Money is to be [invested](money-investing.md).

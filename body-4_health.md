@@ -272,7 +272,7 @@ Often, we tend to manage small [risks](money-insurance.md) and increase larger o
 
 ### Expose yourself
 
-Our body responds *very* well to [measured hardships](hardship.md), especially when we're [actively choosing](decisions.md) to expose ourselves to them.
+Our body responds *very* well to [measured hardships](hardship.md), especially when we're [actively choosing](people-decisions.md) to expose ourselves to them.
 
 Expose yourself to occasional diseases wherever you go.
 

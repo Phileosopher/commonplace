@@ -1,7 +1,7 @@
 
 # What economics is
 
-Economics is the "soft [science](science.md)" of how (and more importantly why) people transfer goods and services throughout society, which requires observing how and why people transfer [value](values-quality.md), especially regarding [decisions](decisions.md).
+Economics is the "soft [science](science.md)" of how (and more importantly why) people transfer goods and services throughout society, which requires observing how and why people transfer [value](values-quality.md), especially regarding [decisions](people-decisions.md).
 
 Money is the easiest way we can store and retrieve value, so measuring the flow of money is a decent-enough way to track how [power and wealth](power.md) are created and moves between people.
 
@@ -17,7 +17,7 @@ Irrespective, there is a type of free market wired into our existence, which rep
 
 ## Value
 
-We make [choices](decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
+We make [choices](people-decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
 
 APPLICATION: Because we consider the price of things compared to what other people would pay, the easiest form of reflecting uninhibited demand would be a [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction), where everyone privately [communicates](people-conversation.md) their price to the seller and the winner pays the *second*-highest price.
 
@@ -33,7 +33,7 @@ Anything associated with the physical world has a certain limited quantity ("sca
 
 APPLICATION: Value is very relative to [utility](purpose.md). For that reason, more of something (e.g., from [technology](technology.md)) makes life easier in general but decreases the unit value of each of those things. In the process, creating more of something slowly decreases its [meaningfulness](meaning.md) as more of it exists.
 
-With the odd exception of [addiction](addiction.md), our [decisions](decisions.md) tend toward scarcer things.
+With the odd exception of [addiction](addiction.md), our [decisions](people-decisions.md) tend toward scarcer things.
 
 Our concept of economic value is based on [information](understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
 
@@ -169,7 +169,7 @@ Supply is how much of something there is, and demand is how much people [want](p
 - When there's less supply or more demand, people will trade more to get it.
 - This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](imagination.md) everyone else will do.
 
-People make [decisions](decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
+People make [decisions](people-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
 
 Cost increases for trading are sometimes predictable:
 
@@ -247,9 +247,9 @@ Everyone [expects](imagination.md) markets, or at least certain items on those m
 
 Several factors mean the patterns of market behavior will never occur the same way each time:
 
-- Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](decisions.md) will be a little different.
+- Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](people-decisions.md) will be a little different.
 - The [technology](technology.md) has changed, often for the better, meaning [information](understanding.md) will flow *much* faster and change [narratives](stories-storytellers.md) more rapidly.
-- People *know* [what happened last time](stories-storytellers.md), so they will make [changes](decisions.md) based on that information. Often, they'll start a [trend of knowledge](trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
+- People *know* [what happened last time](stories-storytellers.md), so they will make [changes](people-decisions.md) based on that information. Often, they'll start a [trend of knowledge](trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
 
 Further, in an [over-information society](https://stucky.tech/purpose/), *multiple* trends may be playing out at the same time. It can be very unclear *which* trend will most articulately replay itself, and the results can be dramatically different.
 
@@ -274,7 +274,7 @@ In any [disaster](hardship-disaster-1_short.md), the risks to civilization's col
 
 ## Market corrections
 
-Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](decisions.md) and how easily [power](power.md) can shift.
+Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](people-decisions.md) and how easily [power](power.md) can shift.
 
 Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
 
@@ -290,13 +290,13 @@ Centralized planning taken to its farthest becomes fascism or [communism](politi
 
 Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
 
-[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war.md), people need at least some freedom to make [decisions](decisions.md), even if they're bad.
+[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war.md), people need at least some freedom to make [decisions](people-decisions.md), even if they're bad.
 
 Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](imagination.md) models.
 
 ## Conflicts
 
-One of the most hotly contested [ideological](values.md) [battles](conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
+One of the most hotly contested [ideological](values.md) [battles](conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](people-decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
 
 Proponents of John Maynard Keynes tend to believe that output and production are generally fixed realities of individuals, determined by their social context. Further, we can most effectively measure a society's wealth by spending. For that reason, further social engineering (and large-scale [government intervention](groups-large.md)) is the solution to most economic issues.
 

@@ -87,7 +87,7 @@ Scientifically, we get the most [happiness](mind-feelings-happiness.md) out of o
 *Not* needing money is more valuable than wealth itself:
 
 - Wealthy people require constant maintenance of their possessions.
-- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-4_friends.md), [personal achievement](success-1_why.md), [inner satisfaction](mind-feelings-happiness-focus.md), and the freedom to [make choices](decisions.md).
+- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-4_friends.md), [personal achievement](success-1_why.md), [inner satisfaction](mind-feelings-happiness-focus.md), and the freedom to [make choices](people-decisions.md).
 
 ## The portrayal of wealthy lifestyles is wrong
 

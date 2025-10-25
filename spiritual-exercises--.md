@@ -1,4 +1,6 @@
 
+https://biblehub.com/q/what_is_bibliomancy.htm
+
 GOOD WORKS
 from Hebrews 10:19-25
 stir one another up to good works

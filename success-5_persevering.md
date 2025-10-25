@@ -274,7 +274,7 @@ All other things being equal, more failures increases statistical chances of suc
 You *must* take time off to recover because you usually won't realize how much you're harming yourself until it's too late:
 
 - Nearly every failure is at least somewhat [traumatic](hardship-ptsd.md).
-- We tend to reap the consequences of bad [decisions](decisions.md) *long* after we've made them.
+- We tend to reap the consequences of bad [decisions](people-decisions.md) *long* after we've made them.
 - Many [addictions](addiction-substances.md) come from burnout when we're trying too hard.
 - We tend to forget that we have limits in some domains (like our mind and feelings) and that we don't need to keep investing into others (like our [bodies](body-1_why.md) and [souls](humanity.md)).
 

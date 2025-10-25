@@ -55,7 +55,7 @@ APPLICATION: When you encounter a different culture, you're engaging with someon
 
 ## Dimensions
 
-Each culture broadly classifies across multiple [measured](math.md) spectra, based on the [virtues](morality.md) they prefer to prioritize. There's no defined set of rules to demarcate a culture because there are *many* ways to [analyze](logic.md) how a people group can [decide](decisions.md).
+Each culture broadly classifies across multiple [measured](math.md) spectra, based on the [virtues](morality.md) they prefer to prioritize. There's no defined set of rules to demarcate a culture because there are *many* ways to [analyze](logic.md) how a people group can [decide](people-decisions.md).
 
 Conflict style - confront the issues vs. coexist without conflict:
 
@@ -110,8 +110,8 @@ Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](res
 
 Power Distance - how much [power](power.md) comes from [status](image.md):
 
-- Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](decisions.md) involve everyone.
-- High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](decisions.md).
+- Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](people-decisions.md) involve everyone.
+- High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](people-decisions.md).
 - Low Power Distance requires [fair-mindedness](morality-justice.md), while High Power Distance requires [trust](trust.md).
 
 Time Flexibility - how important deadlines are:
@@ -150,7 +150,7 @@ APPLICATION: Each cultural value builds specific life skills:
 
 - Confrontational people develop strong [conflict management skills](people-5_conflicts.md), and Conflict Avoidance people become skillful at avoiding and defusing conflicts.
 - Low Context people keep things simple and High Context people learn to include kind language that hide ugly [realities](reality.md).
-- Individualistic people become highly effective at calculating a [decision's](decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
+- Individualistic people become highly effective at calculating a [decision's](people-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
 - Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
 - Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-4_friends.md).
@@ -163,7 +163,7 @@ APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-
 
 - Confrontational people find Conflict Avoidance people evasive. Conflict Avoidance people find Confrontational people rude.
 - Low Context people find High Context people vague. High Context people find Low Context people destructive.
-- Individualistic people find Collectivist people terrible at [decision-making](decisions.md), but Collectivist people find Individualistic people selfish.
+- Individualistic people find Collectivist people terrible at [decision-making](people-decisions.md), but Collectivist people find Individualistic people selfish.
 - Masculine people find Feminine people [needlessly cautious](safety.md) and unproductive, but Feminine people find Masculine people needlessly reckless and [workaholics](success-4_routine.md).
 - Low Power Distance people will find High Power Distance people rigidly over-trusting. High Power Distance people find Low Power Distance people rebellious.
 - Linear-Time people find Flexible-Time people as lazy and distracted, but Flexible-Time people see Linear-Time people as obsessive and change-resistant.
@@ -174,7 +174,7 @@ APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-
 
 ## Inheritance
 
-Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
+Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](people-decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
 
 After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 

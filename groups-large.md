@@ -36,13 +36,13 @@ As groups become progressively larger, top-ranking people will become dramatical
 - Multimillionaires will wear working-class clothing or avoid showing their wealth.
 - [Religious leaders](religion.md) will feign humility (e.g., "I'm the worst of sinners").
 
-APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](image.md), often with nearby assistants performing [research](understanding.md) for them.
+APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](people-decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](image.md), often with nearby assistants performing [research](understanding.md) for them.
 
 APPLICATION: Most large organizations create homogeneous experiences to promote a shared [image](image.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
 
 To clearly understand *any* group, an observer needs to see 3 perspectives at once:
 
-1. Legal entity: It's a separate existence which makes its own collective [decisions](decisions.md), though its [civil rights](people-boundaries.md) are generally treated as sub-human.
+1. Legal entity: It's a separate existence which makes its own collective [decisions](people-decisions.md), though its [civil rights](people-boundaries.md) are generally treated as sub-human.
 2. Holistic entity: It's made of people, most of them normal workers doing various [specialized roles](jobs-specialization.md), and some of those are only partly of that entity (e.g., contractors) and others with more power (e.g., shareholders, leadership).
 3. [Power](power.md): It advances [an agenda](purpose.md), defined and curated by its leadership, which impacts its individual members and other people around it.
 
@@ -62,7 +62,7 @@ As a group grows, each individual's [influence](power-influence.md) in the group
 
 Over time, members' [specializations](jobs-specialization.md) in various aspects will create special-purpose authorities beyond the central leadership roles (e.g., bureaus, coalitions). [Bureaucracy](bureaucracy.md) is when those bureaus have most of the [power](power.md), and they are [subgroups](groups-small.md) of their own inside the meta-group that are subject to [intergroup conflicts and misunderstandings](people-conflicts-war.md).
 
-Since every person has a different reaction to [new information](education.md), [unexpected](imagination.md) [consequences](results.md) will come from any large [decision](decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
+Since every person has a different reaction to [new information](education.md), [unexpected](imagination.md) [consequences](results.md) will come from any large [decision](people-decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
 
 As a group expands, leaders don't see [results](results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
@@ -78,17 +78,17 @@ To gather more [understanding](understanding.md) or [certainty](understanding-ce
 
 In any formal hierarchy or organization structure, [power](power.md) is abstracted and redistributed proportional to its rigidity. This makes large groups more able to perform gargantuan tasks (which are often easy to [measure](math.md)), even while being completely [non-human](humanity.md) in how they do it. The highest form of this abstraction comes through [money](economics.md).
 
-Unlike a [smaller group](groups-small.md) with an organization run by the [personality](personality.md) and [decisions](decisions.md) of a few leaders, larger groups consist of a *very* formalized hierarchy of leadership, often at least three layers deep (e.g., boss, his boss, and the CEO).
+Unlike a [smaller group](groups-small.md) with an organization run by the [personality](personality.md) and [decisions](people-decisions.md) of a few leaders, larger groups consist of a *very* formalized hierarchy of leadership, often at least three layers deep (e.g., boss, his boss, and the CEO).
 
 Top leaders are usually at least 2-3 degrees removed from any actual work done, but they're responsible for making all the decisions. If trends or technology change, they must stay aware of it, or the entire group will become [irrelevant](mgmt-badsystems.md). This is why most top leaders spend most of their time [communicating](people-conversation.md) and [consuming information](creations.md), and why they're not very [useful](purpose.md) in any practical sense.
 
 APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](image.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](image.md) of the group's [goals](purpose.md).
 
-Often, top leaders will let lower-ranking leaders of smaller subgroups have unique roles. This ranges by how much [trust](trust.md) the leaders give, and can range from the top leader merely existing as a [symbolic](symbols.md) "publishing" or "producing" role all the way to completely micromanaging the subgroup. Absolutely nobody *ever* likes being micromanaged, and it's the product of a [dysfunctional system](mgmt-badsystems.md) caused by bad leadership not respecting individual [decision](decisions.md).
+Often, top leaders will let lower-ranking leaders of smaller subgroups have unique roles. This ranges by how much [trust](trust.md) the leaders give, and can range from the top leader merely existing as a [symbolic](symbols.md) "publishing" or "producing" role all the way to completely micromanaging the subgroup. Absolutely nobody *ever* likes being micromanaged, and it's the product of a [dysfunctional system](mgmt-badsystems.md) caused by bad leadership not respecting individual [decision](people-decisions.md).
 
 APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
 
-Middle leaders (e.g., middle management) are effectively an extension of their top leadership to manage the bottom leadership. Middle leadership often makes very few [decisions](decisions.md) compared to the top and bottom leadership. However, their [willingness](purpose.md) to comply with the organization's [policies](people-rules.md) keeps the entire organization unified in [purpose](purpose.md) (or, at least, the [appearance](image.md) of it). In practice, most middle management is simply the above-stated "connecting-point" to other subgroups.
+Middle leaders (e.g., middle management) are effectively an extension of their top leadership to manage the bottom leadership. Middle leadership often makes very few [decisions](people-decisions.md) compared to the top and bottom leadership. However, their [willingness](purpose.md) to comply with the organization's [policies](people-rules.md) keeps the entire organization unified in [purpose](purpose.md) (or, at least, the [appearance](image.md) of it). In practice, most middle management is simply the above-stated "connecting-point" to other subgroups.
 
 Leadership getting feedback about the members, and acting on it, is *critical* for the entire group's success, and the entire group can become [dysfunctional](mgmt-badsystems.md) surprisingly easily. Leadership failures usually come from incompetence more than malice, though their [public image](image.md) may imply something else.
 
@@ -96,7 +96,7 @@ APPLICATION: To determine a [high-quality](values-quality.md) leader, observe so
 
 ## Decisions
 
-Top leaders only have limited [influence](power-influence.md) over the entire group's [culture](people-culture.md). They only maintain it by making specific [decisions](decisions.md) that craft an [image](image.md) for everyone to interpret for themselves. That image promotes collective [values](values.md) (at least in [appearance](image.md)) that everyone holds to:
+Top leaders only have limited [influence](power-influence.md) over the entire group's [culture](people-culture.md). They only maintain it by making specific [decisions](people-decisions.md) that craft an [image](image.md) for everyone to interpret for themselves. That image promotes collective [values](values.md) (at least in [appearance](image.md)) that everyone holds to:
 
 1. Messages to everyone in the group about the shared [purpose](purpose.md) they're all aspiring toward.
 2. Appointing, promoting, disciplining, and dismissing sub-leaders who conform with the [culture](people-culture.md) they want to promote.
@@ -109,9 +109,9 @@ Members' awareness of each large-scale decision ripples outward like a [trend](t
 
 Low-ranking members have *much* less freedom than if they were in a [smaller group](groups-small.md), since the leadership redirects most of the lower ranks' [power](power.md) to other [purposes](purpose.md). Low-rank members won't usually [trust](trust.md) their large group much, since they're not given much freedom, but they [pretend to](image.md) well enough that most leaders don't realize this.
 
-Over time, large groups must make dramatic [decisions](decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
+Over time, large groups must make dramatic [decisions](people-decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
 
-APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
+APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](people-decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
 
 ## Subcultures
 
@@ -125,11 +125,11 @@ Each subgroup ends up behaving precisely like its own small group, with a few no
 
 1. There's a more complex distribution of [power](power.md) and redirection of resources toward [purposes](purpose.md) that many of the members don't know than a smaller group.
 2. Everyone in a subgroup has many more resources available than an independent group would have.
-3. The large-scale leader's [decisions](decisions.md) have a far-reaching, soft effect. Everyone [feels](mind-feelings.md) like they're part of the organization without as much evidence as a small group, even when they're in a well-connected subgroup.
+3. The large-scale leader's [decisions](people-decisions.md) have a far-reaching, soft effect. Everyone [feels](mind-feelings.md) like they're part of the organization without as much evidence as a small group, even when they're in a well-connected subgroup.
 
 Each subgroup usually has different [purposes](purpose.md) to accomplish, and they [redefine](identity.md) their [culture](people-culture.md) around those purposes. This can create dramatic differences among subgroups in the same large group.
 
-Even in a complete autocracy, the presence of others' [decisions](decisions.md) in [carrying out](results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
+Even in a complete autocracy, the presence of others' [decisions](people-decisions.md) in [carrying out](results.md) the dictator's authority dilutes the [power](power.md) dynamic across multiple people. This makes *all* systems subject to [tampering and misuse](mgmt-badsystems.md).
 
 APPLICATION: A group is made of its members, so every individual person entering or leaving a group changes the group's [culture](people-culture.md). A large and long-standing group won't change as much from 1 person, but the progressive changes of the group through membership always express a [trend](trends.md) over months and years.
 
@@ -150,7 +150,7 @@ Instead of *stopping* people from doing what they want with [rules](people-rules
 
 Every large organization will try to socially engineer, at least a little. Even if they don't have the [power](power.md) to do it, the draw from how much [power](power.md) they can gain is too tempting to pass up.
 
-Social engineering is risky, proportionally to how much it's done. [Human nature](humanity-universals.md) hates to be "boxed in", but leaders' human nature won't let them easily reverse a bad [decision](decisions.md), so it often becomes a [bad system](mgmt-badsystems.md) in the process of trying to [craft an ideal](politics-perfectsociety.md).
+Social engineering is risky, proportionally to how much it's done. [Human nature](humanity-universals.md) hates to be "boxed in", but leaders' human nature won't let them easily reverse a bad [decision](people-decisions.md), so it often becomes a [bad system](mgmt-badsystems.md) in the process of trying to [craft an ideal](politics-perfectsociety.md).
 
 Every [imposed rule](rules-methods.md) can hurt people and damage [purposes](purpose.md), and social engineering is trying to use the bludgeoning [force](power.md) of the law to coax, so it usually leads to [negative externalities](economics.md) (e.g., overlooking people who don't *precisely* quality for beneficial things, or shouldn't qualify for beneficial things but still do).
 
@@ -182,18 +182,18 @@ When a [bad system](mgmt-badsystems.md) starts socially engineering, they're oft
 
 Every far-reaching decision in a large group requires a lead time between [communicating](people-conversation.md) it and everyone [doing it](results.md). That can range from minutes to weeks, depending on the [technology](technology.md) available for communicating and acting. If the group has any [dysfunction](mgmt-badsystems.md), or it's a particularly [unexpected](imagination.md) task by most of the group, it'll take *much* longer or may result in an [inner conflict](people-conflicts-war.md) where the task is never performed.
 
-Every single [result](results.md) of an organization is [created](creations.md) by the members' [decisions](decisions.md) and actions. Thus, even when the leaders get *all* the [credit](image.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
+Every single [result](results.md) of an organization is [created](creations.md) by the members' [decisions](people-decisions.md) and actions. Thus, even when the leaders get *all* the [credit](image.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
 
 Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](people-conflicts.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
 
 - Outward growth comes through absorbing other groups and people, often with [large-scale conflicts](people-conflicts-war.md). If uncontested by other groups, it becomes an [empire or monopoly](politics-monopolies.md).
 - Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](education.md) and expanding individuals' roles into broader group responsibilities.
 
-The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](decisions.md) they make.
+The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](people-decisions.md) they make.
 
 While it's impossible to track how a group will respond, there are a few conditions to more easily track changes:
 
-1. Make frequent, small [decisions](decisions.md) and poll the results over time. This permits the group to adapt to [trends](trends.md) before another trend hits.
+1. Make frequent, small [decisions](people-decisions.md) and poll the results over time. This permits the group to adapt to [trends](trends.md) before another trend hits.
 2. Maintain an endless [image management](image-distortion.md) that stays up-to-date with every change.
 3. Expect that history *never* repeats itself, but has a similar pattern. It's never the same because the [culture](people-culture.md) is different between both cases of deciding, sometimes simply because people *remember* the prior decision.
 4. Always give approximate estimates, and avoid trusting something simply because it was [mathematically](math.md) communicated.

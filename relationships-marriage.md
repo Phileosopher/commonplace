@@ -6,7 +6,7 @@ In healthy marriages, both spouses make tremendous sacrifices for each other:
 - From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-4_friends.md) and learning to [love](people-love.md).
 - Your relationship *can* be [fun](fun.md), but it also comes with responsibilities.
 - Whenever possible, stay emotionally supportive and available for them.
-- Respect them and their [decisions](decisions.md), even when they're not around.
+- Respect them and their [decisions](people-decisions.md), even when they're not around.
 - Their advice and input must be important to you somehow, or the relationship needs to change.
 
 All relationships build on trust:
@@ -75,7 +75,7 @@ Build daily and weekly [rituals](habits.md) that include your partner, even if t
 
 Don't compare your relationship:
 
-- Everyone has their own unique experiences and had to make their own [decisions](decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
+- Everyone has their own unique experiences and had to make their own [decisions](people-decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
 - Unless you're trying to improve yourself, comparing your relationship to others' is a terrible idea.
 - Most people will compare their relationship to yours, but that's *their* [misery](mind-feelings-happiness.md) they need to work through.
 
