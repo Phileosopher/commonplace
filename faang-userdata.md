@@ -109,3 +109,11 @@ Other companies
 - [2023-09 Many mobile apps illegally share user data without the users' consent](https://web.archive.org/web/20230922080538/https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data).
 - [2023-09 Philips Hue will soon force users to login into an account to control their lighting](https://web.archive.org/web/20230922001304/https://defcon.social/@mysk/111097362983335713).
 - [2023-10 GSK will pay $20 million to access DNA data from 23andMe](https://web.archive.org/web/20231031033724/https://science.slashdot.org/story/23/10/30/2259251/drugmakers-are-set-to-pay-23andme-millions-to-access-consumer-dna).
+
+Synergistic relationships
+
+- [2022-05 Apoteket, a Swedish government-run pharmacy, sends private user data to Facebook](https://web.archive.org/web/20220525022049/https://sverigesradio.se/artikel/pharmacy-passed-information-about-online-customers-to-facebook).
+- [2022-06 Kry, a Swedish healthcare company, sends private doctor and patient data to Facebook](https://web.archive.org/web/20220628194605/https://sverigesradio.se/artikel/health-service-marketed-as-secure-leaked-patient-information-to-facebook).
+- [2022-07 Google Let Sberbank-Owned RuTarget Harvest User Data for Months](https://web.archive.org/web/20220702041119/https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine).
+- [2022-07 Police can Google Nest data without a warrant](https://web.archive.org/web/20220727105630/https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/).
+- [2022-07 Police can access Amazon Ring data without a warrant](https://web.archive.org/web/20220726201328/https://reason.com/2022/07/26/police-can-access-your-ring-camera-footage-without-a-warrant/), [which Amazon openly admits](https://web.archive.org/web/20220713111607/https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/) and [has been a prevalent issue for at least months](https://web.archive.org/web/20230307120742/https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979).
