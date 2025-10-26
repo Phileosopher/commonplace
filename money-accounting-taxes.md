@@ -282,11 +282,26 @@ Wealthy individuals have several progressively more favorable routes to reduce t
 2. Strictly receiving company stock as income, then selling the stock and paying comparatively lower capital gains tax on it.
 3. Strictly receiving company stock as income, then using the stocks as collateral to borrow money, then spending borrowed money (which is untaxed) while still receiving unrealized capital gains.
 
+Further, the wealthy can take advantage of how [debt](money-2_debt.md) is structured with the combination of the [living trust/corporation](here-america.md):
+
+1. Assets are handed to a trust (i.e., a corporation or family trust).
+2. The assets may be used freely by the individual (basically being "borrowed" from that estate).
+3. If the asset ever needs to be transferred to the individual, issue a loan (which isn't taxable) with the trust's assets as collateral.
+4. As the individual pays off the loan, it amortizes to the trust, with interest, all non-taxable activities except possibly within the trust.
+5. When the loan is finally paid, the individual has an asset that wasn't taxed on its transfer from the trust.
+
 Even then, tax evasion is a frequent practice:
 
 - Migrate money in between a vast network of banks to hide the record, often across national boundaries.
 - Involve many associates who serve as board members of various entities.
 - Use accounting across multiple nations, and with different legitimate accounting standards each time.
+
+In particular, modern art is an effective way to move money without taxes:
+
+1. Wealthy individual pays a comparatively modest amount to an artist to paint something (e.g., $24,000).
+2. Individual takes the piece to an appraiser who values it at an absurd amount (e.g., $40,000,000).
+3. Individual donates the newly appraised artwork to a museum, which is a qualifying not-for-profit.
+4. Wealthy individual gets a tax write-off for that amount, reducing the tax liability they otherwise would have had.
 
 While most income tax code requires you to pay at least *some* portion of your income, Section 121 gives a free opportunity:
 

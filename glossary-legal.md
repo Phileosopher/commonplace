@@ -391,5 +391,3 @@ Custodian - An entity responsible to maintain assets
 Custody - Ownership or authority over an entity or asset, implicit for parents and some property depending on the law
 
 Custody Affidavit - A sworn statement containing facts about a child involved in a case, including full name of the child, date of birth, current and past residences and other information as may be required by law
-
-[Continued](glossary-legal-2.md)

@@ -1,6 +1,220 @@
 
 # Computers glossary - part 2
 
+## C
+
+CA - aka certificate authority, an organization that issues digital certificates to authenticate a computer's permissions
+
+Cache - information stored to make it easier to use later, a solution to the memory hierarchy
+
+CAD - computer-aided design, a very broad class of software that helps design things such as 3D models and visual elements on a website
+
+Call - an instruction that points to something stored in memory previously, a type of reference that's a bit like an arrow
+
+Callback - a function in code that feeds backward in time into another function, effectively making the other function hung until it returns a value
+
+Callback hell - many callbacks that slow down code and make it difficult to understand
+
+Canonical - a standardized input format that's the "right" way for the computer to understand, often specific in [technical documentation](language-writing-documentation.md)
+
+Capacitor - two surfaces close to each other separated by an insulator, a means of holding a charge for future use (such as memory)
+
+Captive portal - a proxy server that blocks access to the rest of a network until a user does something, often involves consenting to [Terms of Service](people-contracts.md)
+
+Carry - the product of a half-adder, the leftmost number of adding, like the carry of normal algebra but used *way* more often in binary
+
+CD - Compact Disc, stores binary information in a removable media disc by reflecting laser light, typically read-only, modern iterations are DVDs (digital video discs) and Blu-ray (which uses blue-wavelength lasers instead of red-wavelength to store more information)
+
+CDN - content delivery network, a network configuration where nearby computers save cached copies of mainframe data to make accessing it faster across long distances
+
+Cel shading - a graphics technique of stripping down a color palette into clearly defined colors, which gives a timeless cartoon-like feel to the elements
+
+Cell - a predefined zone where a cell tower operates, as a cell phone moves around the cell tower hands off the connection to an adjacent cell
+
+Cell phone - a phone that sends and receives signals with a cell tower
+
+Cell tower - a communications tower that relays information to other towers in adjacent cells or to landlines
+
+Cellular network - a network of cell towers that a cell phone uses
+
+Centralized ledger - where one computer has priority on the record of changes it's making, in contrast to distributed ledger
+
+Certificate - relatively long-term credentials among computers that last weeks, months, or sometimes indefinitely
+
+CGI - common gateway interface, a set of standards that allow a server to run a program remotely
+
+Chain of custody - aka provenance, a sequence of historical events, typically refers to blockchain
+
+Changelog - aka release notes, documentation for technical people to read that summarizes changes that happen between versions
+
+Channel - designated streams of independent information, can refer to radio frequencies or sound, signals from neighboring channels may bleed over
+
+Character - a data type of one piece of text information, represented by a number (typically as Unicode or ASCII)
+
+Checksum - a method of verifying a large block of data with a small block, often by adding up the 1s together to create a "check sum" that another computer can verify on the other side
+
+Chipset - the baked-in circuitry built into a CPU or printed circuit board
+
+Chromatic aberration - aka spherochromatism, a camera artifact where the lens refracts light differently from its focus, which makes the light change hue depending on where it was focused
+
+CIDR - classless inter-domain routing, a system to demarcate classes of IPv4 addresses
+
+Cipher - a key that encrypts or decrypts
+
+Ciphertext - encoded computer information, often looks like gibberish in a text file, in contrast to plaintext
+
+Circuit board - a prefabricated silicon board designed as a framework for electrical circuits
+
+CISC - complex instruction set computer, a computer architecture designed to use complex instructions, meaning less code and more processing per command, in contrast to RISC
+
+Class - short for classification, refers to a portion of the whole, can be synonymous with folders or types depending on its use
+
+Clause - (mostly) optional elements to add to a function, applies especially to SQL
+
+Cleaning - a data term for making a consistent dataset (e.g., converting "John Smith, Marksmith, Diane Johnson" into "John Smith, Mark Smith, Diane Johnson")
+
+CLI - command-line interface, aka terminal or command prompt or console, a simple interface that only takes text input and almost always only outputs text
+
+Client - the application in a host-client network relationship which is requesting data, can sometimes *be* the host (especially with a VM) so it's not always with 2 computers
+
+Clipboard - a memory buffer for holding temporary computer information, part of most GUI OS's
+
+Clock - the way a computer keeps track of time, using a CMOS powered by a rechargeable battery and based on each back-and-forth of an oscillator, typically measured in Hz
+
+Clock cycle - one measure of discrete time, measured using a clock on the BIOS
+
+Clone - software term for "copying", usually large-scale
+
+Closed-source - the source code of a software program is inaccessible to the public, in contrast to open source
+
+Cloud - remotely accessible computers, often meant for enterprise use
+
+Cluster - a small computer that runs on a clusterboard as part of a distributed system
+
+Clusterboard - a motherboard for a cluster
+
+CMOS - complementary metal-oxide semiconductor, typically used for computer clocks and BIOS settings
+
+CNC - computer numerical control, the system that gives precise numerical instructions to a computer for a physical implementation
+
+Code as law - a legal concept that computer code is legally binding, regardless of the intent of the programmer
+
+Code base - the non-plugin, non-feature-added primitive of software code, contrasts to the database
+
+Code page - a reference table that creates a symbolic association between text characters and numbers for computers to work with, often tends to be ASCII or Unicode nowadays
+
+Code point - a designated spot where computer code is located
+
+Codec - short for compressor/decompressor, a proprietary media standard, often refers to audio or video
+
+Cold storage - holding computer information in a relatively unsynced drive, opposite of hot storage
+
+Collision - data that confuses the computer because it was sent at the same time
+
+Collision detection - a system designed to detect a collision
+
+Colocation - aka colo, a server that can use its computes and storage for multiple users
+
+Color space - an arbitrarily established barrier for a range of represented color, is typically bounded but can be unbounded
+
+Color temperature - a tweak to the domain of color represented by a screen, with the colors representing as either cool (blue-leaning) or warm (red-leaning)
+
+Combinational logic - where a computer performs logic calculations instantly, rather than sequential logic
+
+Combinatorials - aka combinatorics, a branch of math that deals exclusively with the broad concept of counting things, constantly involved with computers because that's all that they technically do
+
+Command - input that a computer receives and does something with
+
+Comment - documentation within code but can also be unused code by "commenting out", about as important as computer code itself for future programmers who may need to modify it
+
+Commit - to send an update to computer code, typically referring to Git
+
+Common case - a typical situation, usually referring to the input elements that a typical user would use, opposite of edge case, important to understand for debugging purposes
+
+Compiler - computer code that converts high-level programming language into assembly or machine code all at once (often before runtime), in contrast to interpreter
+
+Complement - a math idea that implies that there's a wholeness of something, and then the complement of something is the other part of it (e.g., if A+B=C, the complement of A is B)
+
+Composite - combine together
+
+Compute - enterprise-grade computer term for CPU
+
+Computer - a machine that performs [logic](logic.md) and [math](math.md) based on what people command it to do
+
+Concatenate - combine multiple strings together (e.g., ABC and DEF becomes ABCDEF)
+
+Conditional jump - aka branching, an instruction in code that will tell the computer to jump only if a specific condition is met, absolutely critical to permit computers to work correctly, in contrast to unconditional jump
+
+Configuration - settings on a computer, starts with a default setting but can often be changed to something else
+
+Configuration/settings - broad term for various defined instructions in a computer, reverts to default settings with new software/hardware
+
+Connectionless communication - aka CL-mode, the status of a packet transfer where the only routing information comes from inside the packet
+
+Connection-oriented communication - the status of a packet transfer where the computers have to first establish a connection
+
+Constant - a math concept of something that's fixed, usually refers to very specific numbers in math but can also be letters in programming, opposite of variable
+
+Container - aka endpoint, an instance or box inside a virtual machine hypervisor
+
+Content negotiation - mechanisms in the HTTP protocol that make it possible to serve different version of a resource from the same URI (e.g., different languages)
+
+Continuing education - learning without specific certifications or projects in mind, a necessity for knowledge workers
+
+Continuous integration - regularly merging work from multiple software developers
+
+Continuous time - the regular flow of time without breaking it up into segments, rather than discrete time
+
+Continuous wattage - evenly fed power through a power supply
+
+Convention - something everyone has been doing, often becomes a standard but doesn't have to be
+
+Cookie - a file that a host saves on a client computer, typically for web browsing purposes
+
+Copy - duplicating computer code, rather than moving
+
+Copyleft - the legal requirement to keep created works completely free, such as code, in contrast with copyright or permissive license
+
+Copyright - the legal right to profit from written works, such as code, in contrast to copyleft
+
+Core - one processor on a CPU's chipset, can be dual-core, quad-core, or more
+
+CPU - central processing unit, the component that performs most of the computer's [logic](logic.md) and [math](math.md), can have one core or multiple, often has L1/L2/L3/etc. cache memory in the chip, an implementation of an ISA
+
+CPU socket - the place on the motherboard for inserting a CPU, arranged as LGA or PGA
+
+Crack - breaking or removing DRM on media or software
+
+Crash - broad computer term for failing, often refers to OS failure but can also refer to a network
+
+Critical path - the core gameplay experience of a game
+
+CRC - cyclic redundancy check, a mathematical means of checking [Boolean math](logic.md), often part of an FCS
+
+Credential - something that a computer uses to authenticate a user/computer, is often a password but can be various things
+
+Critical consensus - where all the blocks in a blockchain are synchronized
+
+CRM - customer relationship management, software designed to manage a company's [marketing](marketing.md) needs
+
+Cross-platform - software that runs on multiple platforms
+
+Crosstalk - conflicting signals, an annoying byproduct of Wi-Fi and UTP
+
+CRT - cathode ray tube, a type of screen that involves shooting 3 beams of light at a fluorescent screen and routing the lights to get the desired intensities
+
+Cryptocurrency - aka crypto, blockchains that are used as a currency or commodity
+
+Crypto wallet - software meant to make managing cryptocurrency more sane
+
+CSE - custom search engine, a custom-made search engine configured to search specific things, such as a particular set of websites
+
+CSS - cascading style sheet, a language that visually styles information, usually pairs with HTML and often activates with JavaScript
+
+CSS reset - changing the default CSS style to conform to a designer's preferred style
+
+Cursor - An indicator to show where the user input is pointing to on a screen, tends to angle rightward because [expectations](imagination.md) are difficult to break
+
 ## D
 
 Dark mode - a color scheme that emphasizes darker colors, typically useful for users in darker rooms but is strictly a matter of preference
@@ -204,221 +418,3 @@ Expansion slots - places on the motherboard for adding stuff like graphics cards
 Exploit/Vulnerability - a portion of computer code/interface that a hacker can use to gain access that would otherwise be impossible
 
 External media - removable memory, such as a USB stick or CD
-
-## F
-
-FAANG - the private publicly traded technology companies Facebook, Apple, Amazon, Netflix, and Google, an enormous consolidation of power that goes farther than the Roman Empire in many respects
-
-False negative - a missed hit on a scan that should have hit
-
-False positive - a hit on an incorrect scan (e.g., spam email filter)
-
-Falsy - a data value that has nothing in it and expresses to FALSE, opposite of truthy
-
-Fault tolerance - the ability for a computer or network to keep working even though something failed in it
-
-FCS - frame check sequence, ECC put into the trailer of a frame
-
-FDM - fused deposition modeling, the standard implementation for 3D printing since it was invented in 1988
-
-Feed - a social media system that involves date-sorted data entered by a user
-
-Fetch-execute cycle - the CPU's basic repetitive cycle of fetching instructions from memory, then executing them
-
-Fidelity - the quality of a copied visual element
-
-Field - a place in a table that holds data, typically part of a record/row in an RDMS
-
-Filament - a thin layer of melted plastic
-
-File - a block of information on a computer, not always physically together in the same place but logically looks that way in the operating system
-
-Finite state machine - a mathematical model to clarify the status of information at any given time, often represented with flowcharts
-
-Firewall - software designed to prevent hackers from accessing a computer
-
-Firmware - software that runs hardware directly, often for BIOS/UEFI but also a significant portion of updating smaller personal electronics
-
-Flash drive/Memory stick/USB drive/Pen drive/Thumb drive - portable long-term storage that uses flash memory
-
-Flash memory - long-term storage that uses semiconductors to activate and deactivate cells inside the memory unit, similar but not the same as EEPROM (NAND gates instead of NOR and meant to be read and written frequently)
-
-Float - a data type that holds decimal places up to 32 bits (4,294,967,296 combinations)
-
-Floppy drive - old form of removable media because the disk was floppy, used to be the *only* way to store information between power cycles
-
-FLOSS - free/libre open-source software, a catchall term for software that gives complete freedom, in contrast to the more vague FOSS
-
-Flow control - redirecting where a computer next reads instructions from, using conditional and unconditional jumps
-
-Folder - an imaginary box inside a file system that arbitrarily divides out files, permits easy organization as well as the ability to name multiple files the same name by placing them in different logical locations
-
-Font - a particular style of text, such as Times New Roman or Helvetica, can be monospaced or proportional
-
-For loop - a function that allows iterations of itself (e.g., for x=1 and y=5, add 1 to x and do something, and in this case, repeat until x=6)
-
-Fork - a variation of a program that shares at least some of its code base
-
-Form factor - the industry-standard size and shape of something
-
-Forum - a commenting system that allows nested comments, meaning users can have in-depth topics grouped around comments of other topics.
-
-FOSS - free and open-source software, a vague term referring to any free software, in contrast to the more specific FLOSS
-
-FQDN - fully qualified domain name, aka absolute domain name, a complete domain name that isn't relative to the current place on the network
-
-Fragmentation - when files are spread across non-consecutive blocks on a drive
-
-Frame (networking) - a Layer 2 PDU, assembles into packets
-
-Frame (screen) - one instance of a screen, usually measured by frame rate
-
-Frame relay - relaying frames in a network along to another network node
-
-Frame rate - the number of frames per second (FPS), tends to be 59-60 in modern computers, but can go higher and will go *much* lower if the computer is burdened
-
-Freemium - a business model of selling a stripped-down software with fewer features, with the chance to upgrade to paid software with more features, the evolution of shareware
-
-Front-end - refers to development and design of the visual aesthetic of a computer
-
-Frontrun - a financial term involving sending an insider-trading transaction before the legitimate transaction can move, applies to cryptocurrency
-
-Full-adder - the means of doing binary addition, two half-adders with both the carries inputted to an OR gate, can be scaled indefinitely
-
-Full-scene - a software restriction where an image must be entirely processed before antialiasing can remove the jagged edges
-
-Function - a set of instructions that's supposed to do 1 thing based on possible definitions, then deliver 1 output, borrows from the math idea of a relationship between fixed and variable sides of an equation
-
-Function hoisting - moving the definitions of a function upwards in the code to make the computer read them more quickly
-
-## G
-
-G-code - a programming language that operates CNC
-
-Gain - an antenna's capacity to broadcast, which combines its direction and power
-
-Game - narrowly, a competitive activity where players compete to accomplish a specific condition based on a set of rules, but broadly anything designed for entertainment that users interact with
-
-Game developer - a software designer who makes games, broadly classifies into "indie developer" (teams that never get past a few dozen) and "AAA developer" (a multi-million-dollar organization with at least a few hundred developers)
-
-Game mechanic - a feature within a game
-
-Gameplay loop - a hot-and-cold habitual cycle that a game runs most of its action through
-
-Ganged RAM - RAM that has been "ganged" up together, so two channels of 64-bit RAM becomes 128-bit RAM, not as fast as independent channels because those separate channels can go to multiple cores
-
-Garbage collection - general programming concept for freeing up memory after it's no longer needed, critical for long-term software development
-
-Gateway - a device that connects to the internet at large, typically has 2 IP addresses
-
-Gateway device - a combination device that's a modem, router, and often a telephone adapter that pulls double-duty for routing network traffic and connecting to the internet
-
-General-purpose computer - a machine that performs [logic](logic.md) and [math](math.md) based on what people command it to do, and it can be easily reconfigured
-
-Geolocation - geographical location, a numerical depiction of location coordinates
-
-Ghosting - pressing multiple keys in a way that further keys are incorrectly read as pressed, often limited by a keyboard's n-key rollover
-
-Git - a very popular version control system
-
-GIS - geographic information system, a map software for managing geographical data, often allows interfacing and layers of information
-
-Glue record - a DNS resource record that helps prevent a circular reference when finding DNS records.
-
-GPL - GNU General Public License, an extremely permissive copyleft legal framework for distributing code
-
-Geolocation - computer information about geographical location
-
-GNSS - global navigation satellite systems, a meta-concept referring to GPS and other related systems for satellite-based navigation
-
-Gorilla/monkey testing - testing by using incompetent behavior to see what happens
-
-Gouraud shading - using interpolation to create a continuous shading of polygon surfaces
-
-Gradient - a designated front-end color range typically selected to evoke a particular mood
-
-Guerilla testing - testing by going to public places to see how others respond to it
-
-GPU - graphics processing unit, a CPU dedicated for graphics-based things
-
-GPS - Global Positioning System, a system designed for determining your location on Earth
-
-Gradient - a photograph that smoothly transitions between at least 2 colors
-
-Graphics card - dedicated memory and GPU for [graphics](engineering-graphics.md)-based needs, often comes baked onto the motherboard but is the most common expansion slot attachment
-
-Green screen - capturing a video on a green/blue background with the person having clearly demarcated color indicators, allows computers an easier time to capture movement between frames
-
-GUI - graphical user interface, a visual representation for users to interact with, typically displays on a screen
-
-## H
-
-Hack - a useful method that operates outside something's intended purpose
-
-Hacker - someone who uses something outside its designed/intended purpose
-
-Half-adder - a logic gate that adds two bits and contains a carry
-
-Hamburger menu - a symbol most prevalent in mobile design that usually consists of 3 horizontal lines parallel to each other or 3 consecutive dots that open to a larger menu when selected
-
-Hard drive - long-term memory attached to the motherboard, comes in SSD and HDD, used to be opposed to floppy drive
-
-Hardening - cutting down on computer vulnerabilities by removing access to unused features/ports/code
-
-Hardware - physical parts of a computer like the RAM or hard drive, physically exists as contrasted with software
-
-Harvard architecture - a variation of the von Neumann architecture, where programs and data are stored separately in memory, most modern computers use various hybrids of both
-
-Hash - aka message digest, an encrypted line of code produced from a key on a message
-
-Hash function - computer code that creates a fixed-length hash from unencrypted data
-
-HCI - human computer interface, a design philosophy built around how people interact with computers, has been largely replaced by UX
-
-HDD - hard disk drive, an older method of storing binary information using magnets on plates, one of the cheapest ways outside of tape drives to store lots of information
-
-Header - supplemental data at the beginning of a file or packet that isn't part of the "body" of main data, used for [storage](computers-memory.md) or [network transmission](networks-computer.md) reasons, contains metadata
-
-Heading - text designed to clarify a section of text
-
-Heap memory allocation - memory assigned by an operating system as public-access to all programs, opposite of stack memory allocation, can cause memory leaks
-
-Heat map - a map overlay that indicates colors ranging from blue to red to represent differences in values
-
-Hertz - one cycle of something, represented by Hz, can scale up by the thousands with Hz, kHz, MHz, THz, etc.
-
-Heuristic - a good-enough rule of thumb
-
-HDMI - high definition multimedia interface, a plug specifically designed for sending video information, sometimes with audio included
-
-Hexadecimal/Hex numbering - a means of communicating 4 binary numbers by using 0 through f, then putting 0x in front to clarify what it is (e.g., 0010100111010100001001100111 becomes 0x29d4267)
-
-Hierarchical file system - a method of separating files with a hierarchy (C:\file.txt versus C:\Documents\file.txt)
-
-High-level language - typed instructions that can perform many lines of assembly code at once
-
-HMD - head-mounted display, aka VR headset, a helmet I/O that combines a screen, location-tracking, and often wireless signals and input devices
-
-Hop - jumping between nodes, refers to internet connections and the routing information protocol (RIP)
-
-Host - aka server, the application in a host-client network relationship which is sending data, very often does more of the heavy processing activities because it's often a supercomputer
-
-Hot spot - a camera artifact where one part of the image is more exposed than another part, washing out its contrast by comparison
-
-Hot storage - holding computer information in a frequently synced drive, opposite of cold storage
-
-HSA - heterogeneous system architecture, where software inside the CPU manages everything between cores instead of requiring software developers to juggle resources, nonexistent in Intel CPUs
-
-HTML - hyper-text markup language, the displayed language that most internet content expresses through, usually pairs with CSS and changes with JavaScript
-
-HTTP - hyper-text transfer protocol, the common language for most internet browsing, has a secure version called HTTPS
-
-Hub - a network repeater that sends information to *all* the cables connected to it, contrast to a switch
-
-Hung - the state of a function waiting for a callback function
-
-Hybrid - a combination of two things (e.g., a hybrid interface is mixing Interface A and Interface B)
-
-Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and an "href" (e.g., `[this site](stucky.tech/notes)` in Markdown or `<a href="https://stucky.tech/notes">this site</a>` in HTML)
-
-Hypervisor - software designed to run virtual machine containers, can be Level 1 (BIOS-level) or Level 2 (OS-level)

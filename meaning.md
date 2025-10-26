@@ -20,6 +20,12 @@ The word "responsible", as used here, is referring specifically to the above. Th
 
 APPLICATION: Opportunities to [succeed](success-1_why.md) exist wherever responsibility was neglected.
 
+Broadly, the scope of how much impact we created is defined as "importance", and we feel important in proportion to how responsible we feel for something.
+
+APPLICATION: Bullying is coercive importance, which arises in the absence of [love](love.md). It's a demand for respect, or at the very least to be [feared](mind-feelings-fear.md).
+
+FURTHER APPLICATION: All intentional [criminal deviance](legal-crimes.md) come through a perversion of finding meaning, often through a derived [neurodivergence](mind-neurodivergence.md) that doesn't recognize or interact correctly with [loving behavior](love.md)
+
 Responsibility-based meaning doesn't necessarily come from legitimately changing [reality](reality.md), but instead from the *[appearance](image.md)* of having changed reality. We measure it by whether we [feel](mind-feelings.md) accomplishment.
 
 The nature of responsibility also means that we must always conquer the [unknown](unknown.md), which ends up always reverting to some type of [religious theme](religion.md), no matter how secular we become.

@@ -25,6 +25,12 @@ Depending on the definition of each class and [economic freedoms](economics.md) 
 2. Middle class - 5-50%
 3. Upper class - usually <1%, but can sometimes be up to 10-15%
 
+This breaks apart based on their household [accounting](money-accounting.md):
+
+1. The underclass receives income, but has to directly send it to expenses.
+2. The middle class income goes to assets, and both assets and liabilities cover expenses.
+3. The upper class uses [tax-advantaged](money-accounting-taxes.md) arrangements (such as liabilities) to pay expenses.
+
 Historically, the middle class has been a comparatively small support system for the middle class, but [modern society](https://gainedin.site/here/) has shifted the middle class to represent a large, near-majority of society through endless [specializations](jobs-specialization.md).
 
 APPLICATION: The effort connected to the social classes depends heavily on how much [wealth](power-types.md) a [society](groups-large.md) has. In poor societies, the people who work hardest are the lower class because they need every bit they have to survive, while the wealthy will splurge on luxuries. In wealthy societies, the people who work hardest are the middle class because they must exploit every advantage they can to outpace others' wealth, while the poor will [buy dumb things](money-1_why.md) that fritter away any chance at acquiring wealth.
@@ -76,15 +82,19 @@ The upper class has four major concerns:
 
 The upper class *never* has to worry about what they require. Often, they'll spend absurd amounts of money to [show](image.md) their [power](power.md). This lifestyle is an intentional [insurance](money-insurance.md) policy to [scare](mind-feelings-fear.md) anyone from considering [attacking](people-conflicts.md) them.
 
-While they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts.md) with other people to keep their power. They work hard to [tweak their image](image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
+While the underclass and middle class have common concerns, the upper class lives a relatively comfortable life. They have connections with various wealthy and famous people, and appear to be living a fantasy.
 
-Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](people-culture.md) and avoid shaming their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
+However, while they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts.md) with other people to keep their power. They work hard to [tweak their image](image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
 
-Morality is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](results.md) for what they do.
+APPLICATION: The upper class are not as well-off as they appear. Their additional wealth is both the provider of their comfort, but also their primary concern to maintain. While the underclass and middle class can find a release through [leisure](fun.md), there is *never* a release from their financial concerns.
+
+Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](people-culture.md) and avoid [shaming](mind-feelings-shame.md) their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
+
+[Morality](morality.md) is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](results.md) for what they do.
 
 For this reason, the upper class isn't too concerned with the lower and middle class until there's a [coup or revolution](people-conflicts-war.md).
 
-## Migrating
+## Migrating between classes
 
 Because of how people use power in each class, migrating back-and-forth across them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).
 
@@ -104,7 +114,7 @@ Unless someone is a [cross-cultural](people-culture.md) [missionary](religion.md
 
 APPLICATION: The healthiest society is where individuals in the classes constantly cycle up and down. This is a collective social product of many people living [the good life](goodlife.md) at once, mixed with enough wealthy people facing the logical [consequences](results.md) of their bad [decisions](people-decisions.md).
 
-## Conflicts
+## Inter-class conflicts
 
 There is an endless conflict over power between the classes:
 
@@ -165,3 +175,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - Family structure is from whichever parent has the money.
   - Destiny is defined by [expectations](imagination.md) of what can happen.
   - The social standards prioritize both [values](values.md) and polite behavior.
+
+Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](economics.md) to make everything come to a grinding halt.
+
+APPLICATION: If things get bad enough (and history has shown it can, such as the Roman Empire), the people can abandon their roles and render everyone in charge completely helpless. This never happens except under true societal [hardship](hardship.md), though, because it would also guarantee [anarchy](politics-systems.md) and risk [an invasion from foreigners](people-conflicts-war.md).

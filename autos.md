@@ -7,6 +7,8 @@ Having a car is *very* useful, but it should match your lifestyle.
 - If you don't have much money, consider using public transportation, a bicycle, motorcycle, or a motorized scooter/moped.
 - Even when you're [raising a family](parenting-babies.md), you typically only *need* 1 vehicle.
 
+[Do your research when buying one](autos-buying.md).
+
 Make sure your [budget](money-3_budget.md) reflects its unspoken additional costs:
 
 - Vehicle registration fees for each vehicle, usually based on its value and generally proportional to the size of the city you live in.
@@ -14,15 +16,31 @@ Make sure your [budget](money-3_budget.md) reflects its unspoken additional cost
 - Generally, a vehicle costs about 20-30% more if it has built-in towing capacity (e.g., pickup truck, SUV).
 - Whether they're running or not, autos have maintenance requirements.
 
-Only get a *second* auto for the right reasons:
-
-- You need multiple vehicles for [a growing family](parenting-children.md).
-- You don't trust your current vehicle to reliably navigate from one place to another.
-- Your time is important, so you want a [risk management solution](safety-riskmgmt.md) if your car fails.
-
-Before getting rid of an old car, consider repurposing it as one of your children's first cars, a commuter vehicle or a recreational vehicle.
-
 ## Driving
+
+Each vehicle, even with the same year, make, and model, handles a little differently.
+
+- The actual vehicle's [design](engineering-design.md) makes the most difference, but it can also reflect through each vehicle's parts wearing and the driver's relative use of the vehicle.
+- It's easiest to think of each vehicle developing a type of [personality](personality.md).
+
+In general, there are [engineering](engineering.md) tradeoffs for operating each vehicle:
+
+- Better handling means more parts that are usually more expensive.
+- More fuel efficiency means less power.
+- Older vehicles are known-good, but also often rock at every bump in the road.
+- Newer vehicles often have better sound-dampening, but often have [manufacturer-designed constraints](faang.md).
+
+Pay attention to which tires generate movement:
+
+- Front-wheel drive (FWD) only sends torque to the front tires.
+  - Quicker handling, faster braking, more compact design.
+- Rear-wheel drive (RWD) only sends torque to the rear tires.
+  - Slower handling, slower braking, spread-out design, easier to go fast.
+- All-wheel drive (AWD) sends torque to all four tires.
+  - More control, more tire wear.
+- Four-wheel drive (4WD) is like AWD, but has an option to lock the axles to torque each tire.
+  - This is ideal for off-road conditions.
+- If there is a trailer, note whether it has any drives as well (which it usually won't).
 
 Routinely perform a trip inspection:
 
@@ -95,128 +113,6 @@ Driving out of the region:
 - When you have an out-of-region license plate, you'll be a [larger target for local law enforcement](legal-safety.md).
 - Research beforehand on local customs regarding the speed limit, and make sure to *always* drive 3-5 mph slower than the fastest drivers on the road.
 - If you're accustomed to driving on one side of the road and are in a region that drives on the other (left vs. right side), exercise extreme caution to not fall back into any old [habits](habits.md).
-
-## Always buy used
-
-Many auto manufacturers tend to design their vehicles to fail precisely *beyond* the five-year warranty.
-
-- The only way to avoid "planned obsolescence" is to avoid purchasing vehicles that may be poorly [engineered](engineering.md).
-- If you buy new, you can't be certain how well-built that year's make and model is.
-
-Select a brand with a reputation for reliability:
-
-- The first-year model of every auto is likely to have issues, so never buy them.
-- Some vehicle brands will go through troughs of poor reliability, so a vehicle brand that *was* reliable might not be anymore.
-
-Never lease a car, since it's unquestionably the most expensive way to own a vehicle.
-
-- Right behind that, owning a vehicle within its 5-year warranty is the most expensive way to own it.
-
-Buy autos between 5 and 15 years old:
-
-- Anything newer than five years old will *dramatically* drop in value, and if you *refuse* to learn basic auto repair skills, buy at least two years old.
-- Aim for a low-mileage vehicle whenever possible, since that determines how much wear the vehicle will endure.
-- Only buy older than 15 years if you're willing to make frequent repairs yourself.
-
-A dealership uses a self-created authority that "certify" pre-owned cars, so it shouldn't be part of your decision.
-
-If you don't need a larger vehicle every week, get a smaller vehicle:
-
-- Larger vehicles burn more petrol and are far pricier to fix when they break down.
-- Even if you occasionally need a pickup truck or SUV once or twice a month, consider the price difference from renting when you need it.
-
-### Research beforehand
-
-[Look at the VIN](autos-vin.png) for precise information about the factory design of the vehicle.
-
-Check the car's approximate market value, since auto quality varies wildly by brand and year:
-
-- High-end brands are excellent, but are expensive to repair and [insure](money-insurance.md) because finding parts is difficult (e.g., BMW, Renault, Ferrari).
-- Large brands are often reputable and tend to be affordable to repair (e.g., Toyota, Honda, Ford, Acura, Subaru, Mini).
-- Mid-level brands create reliable cars, but they have a higher chance of breaking down (e.g., GM, Nissan).
-- Value-priced companies make affordable cars that *frequently* break down (e.g., Volkswagen, Fiat, Kia, Hyundai).
-
-Irrespective of brand, *every* used car is different.
-
-- The types of failures each car demonstrates gives it a type of "personality" (e.g., frequent transmission issues, engine runs hot, false-positive engine codes).
-
-Used vehicles will have 3 potential problems:
-
-1. Mechanical problems
-   - Take someone with you experienced with autos when you inspect it.
-2. Poor maintenance
-   - Request any maintenance records from the owner, like oil changes or repairs.
-3. Was stolen or involved in a major accident
-
-Write down *any* questions or thoughts you have while examining the vehicle, since you can always disregard them later.
-
-### Inspect it *before* buying
-
-*Always* perform a thorough inspection before you pay for a used car.
-
-A. Ask for the VIN before arriving there and get a vehicle inspection report.
-
-B. Examine the outside and body of the car in broad daylight.
-
-- Check underneath for oil leaks and white dust (body filler).
-- Look at the tires for cupping or gouges, which points to a more significant problem.
-- Inspect for body damage:
-  - Open and close all doors, then check if the door seams are the same.
-  - Pull back the rubber around the doors and windows to compare whether the paint is the same.
-  - Slam the hood to see if it's correctly aligned all the way around.
-  - Compare the left and right side.
-  - Pop the trunk to see any rear-end damage.
-  - Check the factory seams underneath the trunk's spare tire.
-  - Observe the paint reflection to spot any dings or fixes.
-
-C. If you're allowed to, crank up the bottom of the car.
-
-- Check the CV joints.
-- Check if the engine or transmission has any leaks near it.
-
-D. If you're allowed to, scan it with an OBD-II reader.
-
-- OBD-II readers are as cheap as $40.
-- The OBD-II port is usually somewhere under the steering wheel.
-- Read any engine codes, if there are any.
-
-E. Test drive it.
-
-1. Cold start it.
-   - A cold start is under 90 °F without the keys in the ignition for at least 8 hours.
-2. Let it idle for 3-5 minutes.
-   - Test the signal lights and all headlights.
-   - Test the heater/defroster, rear defroster, and air conditioner.
-   - Shift the gears several times.
-   - Test the windshield wipers and radio.
-   - Check the exhaust for drips or black smoke.
-   - If the car is running hot after idling, turn it off and walk away for any price above its scrap value.
-3. Drive through the city to the highway from 25 to 40 mph.
-   - Listen for buzzing noises, humming noises, clicking noises.
-   - Set the inside fan to hot and defrost, then set it to high and try to smell any leaking fluids.
-   - Hit the brakes quickly without touching the steering wheel and see if the car swerves left or right.
-   - Test the power steering by turning the wheels while stopped.
-   - Drive it through an alleyway or near a flat wall to hear its running sounds.
-   - Swerve back and forth in a parking lot to test the suspension.
-4. Accelerate at 1/2 to 3/4 throttle onto the highway, then stay on it for at least 5 miles at 55-60 mph.
-   - Check to see if the steering wheel shakes or the whole car seems to lean one direction.
-5. Drive through the city back to the location, continuing to test the different systems.
-   - If it overheats during the drive, don't buy it.
-
-F. Assuming you're allowed to, reread the codes with the OBD-II reader.
-
-- If the seller reset the codes, a test drive lets you see them.
-
-G. If you like what you see, bring it to a mechanic you trust to do a final check.
-
-- A $100 inspection may save you thousands.
-
-H. [Negotiate](people-conflicts-negotiation.md) the price down if you can.
-
-- If possible, avoid gender bias with a male present.
-- Do *not* let the seller exploit you.
-- If you can, have cash available to pay the full amount for the car.
-- Never look desperate, and always be prepared to walk away.
 
 ## Preventative Maintenance
 

@@ -1,6 +1,226 @@
 
 # Computers glossary - part 3
 
+## F
+
+FAANG - the private publicly traded technology companies Facebook, Apple, Amazon, Netflix, and Google, an enormous consolidation of power that goes farther than the Roman Empire in many respects
+
+False negative - a missed hit on a scan that should have hit
+
+False positive - a hit on an incorrect scan (e.g., spam email filter)
+
+Falsy - a data value that has nothing in it and expresses to FALSE, opposite of truthy
+
+Fault tolerance - the ability for a computer or network to keep working even though something failed in it
+
+FCS - frame check sequence, ECC put into the trailer of a frame
+
+FDM - fused deposition modeling, the standard implementation for 3D printing since it was invented in 1988
+
+Feed - a social media system that involves date-sorted data entered by a user
+
+Fetch-execute cycle - the CPU's basic repetitive cycle of fetching instructions from memory, then executing them
+
+Fidelity - the quality of a copied visual element
+
+Field - a place in a table that holds data, typically part of a record/row in an RDMS
+
+Filament - a thin layer of melted plastic
+
+File - a block of information on a computer, not always physically together in the same place but logically looks that way in the operating system
+
+Finite state machine - a mathematical model to clarify the status of information at any given time, often represented with flowcharts
+
+Firewall - software designed to prevent hackers from accessing a computer
+
+Firmware - software that runs hardware directly, often for BIOS/UEFI but also a significant portion of updating smaller personal electronics
+
+Flash drive/Memory stick/USB drive/Pen drive/Thumb drive - portable long-term storage that uses flash memory
+
+Flash memory - long-term storage that uses semiconductors to activate and deactivate cells inside the memory unit, similar but not the same as EEPROM (NAND gates instead of NOR and meant to be read and written frequently)
+
+Float - a data type that holds decimal places up to 32 bits (4,294,967,296 combinations)
+
+Floppy drive - old form of removable media because the disk was floppy, used to be the *only* way to store information between power cycles
+
+FLOSS - free/libre open-source software, a catchall term for software that gives complete freedom, in contrast to the more vague FOSS
+
+Flow control - redirecting where a computer next reads instructions from, using conditional and unconditional jumps
+
+Folder - an imaginary box inside a file system that arbitrarily divides out files, permits easy organization as well as the ability to name multiple files the same name by placing them in different logical locations
+
+Font - a particular style of text, such as Times New Roman or Helvetica, can be monospaced or proportional
+
+For loop - a function that allows iterations of itself (e.g., for x=1 and y=5, add 1 to x and do something, and in this case, repeat until x=6)
+
+Fork - a variation of a program that shares at least some of its code base
+
+Form factor - the industry-standard size and shape of something
+
+Forum - a commenting system that allows nested comments, meaning users can have in-depth topics grouped around comments of other topics.
+
+FOSS - free and open-source software, a vague term referring to any free software, in contrast to the more specific FLOSS
+
+FQDN - fully qualified domain name, aka absolute domain name, a complete domain name that isn't relative to the current place on the network
+
+Fragmentation - when files are spread across non-consecutive blocks on a drive
+
+Frame (networking) - a Layer 2 PDU, assembles into packets
+
+Frame (screen) - one instance of a screen, usually measured by frame rate
+
+Frame relay - relaying frames in a network along to another network node
+
+Frame rate - the number of frames per second (FPS), tends to be 59-60 in modern computers, but can go higher and will go *much* lower if the computer is burdened
+
+Freemium - a business model of selling a stripped-down software with fewer features, with the chance to upgrade to paid software with more features, the evolution of shareware
+
+Front-end - refers to development and design of the visual aesthetic of a computer
+
+Frontrun - a financial term involving sending an insider-trading transaction before the legitimate transaction can move, applies to cryptocurrency
+
+Full-adder - the means of doing binary addition, two half-adders with both the carries inputted to an OR gate, can be scaled indefinitely
+
+Full-scene - a software restriction where an image must be entirely processed before antialiasing can remove the jagged edges
+
+Function - a set of instructions that's supposed to do 1 thing based on possible definitions, then deliver 1 output, borrows from the math idea of a relationship between fixed and variable sides of an equation
+
+Function hoisting - moving the definitions of a function upwards in the code to make the computer read them more quickly
+
+## G
+
+G-code - a programming language that operates CNC
+
+Gain - an antenna's capacity to broadcast, which combines its direction and power
+
+Game - narrowly, a competitive activity where players compete to accomplish a specific condition based on a set of rules, but broadly anything designed for entertainment that users interact with
+
+Game developer - a software designer who makes games, broadly classifies into "indie developer" (teams that never get past a few dozen) and "AAA developer" (a multi-million-dollar organization with at least a few hundred developers)
+
+Game mechanic - a feature within a game
+
+Gameplay loop - a hot-and-cold habitual cycle that a game runs most of its action through
+
+Ganged RAM - RAM that has been "ganged" up together, so two channels of 64-bit RAM becomes 128-bit RAM, not as fast as independent channels because those separate channels can go to multiple cores
+
+Garbage collection - general programming concept for freeing up memory after it's no longer needed, critical for long-term software development
+
+Gateway - a device that connects to the internet at large, typically has 2 IP addresses
+
+Gateway device - a combination device that's a modem, router, and often a telephone adapter that pulls double-duty for routing network traffic and connecting to the internet
+
+General-purpose computer - a machine that performs [logic](logic.md) and [math](math.md) based on what people command it to do, and it can be easily reconfigured
+
+Geolocation - geographical location, a numerical depiction of location coordinates
+
+Ghosting - pressing multiple keys in a way that further keys are incorrectly read as pressed, often limited by a keyboard's n-key rollover
+
+Git - a very popular version control system
+
+GIS - geographic information system, a map software for managing geographical data, often allows interfacing and layers of information
+
+Glue record - a DNS resource record that helps prevent a circular reference when finding DNS records.
+
+GPL - GNU General Public License, an extremely permissive copyleft legal framework for distributing code
+
+Geolocation - computer information about geographical location
+
+GNSS - global navigation satellite systems, a meta-concept referring to GPS and other related systems for satellite-based navigation
+
+Gorilla/monkey testing - testing by using incompetent behavior to see what happens
+
+Gouraud shading - using interpolation to create a continuous shading of polygon surfaces
+
+Gradient - a designated front-end color range typically selected to evoke a particular mood
+
+Guerilla testing - testing by going to public places to see how others respond to it
+
+GPU - graphics processing unit, a CPU dedicated for graphics-based things
+
+GPS - Global Positioning System, a system designed for determining your location on Earth
+
+Gradient - a photograph that smoothly transitions between at least 2 colors
+
+Graphics card - dedicated memory and GPU for [graphics](engineering-graphics.md)-based needs, often comes baked onto the motherboard but is the most common expansion slot attachment
+
+Green screen - capturing a video on a green/blue background with the person having clearly demarcated color indicators, allows computers an easier time to capture movement between frames
+
+GUI - graphical user interface, a visual representation for users to interact with, typically displays on a screen
+
+## H
+
+Hack - a useful method that operates outside something's intended purpose
+
+Hacker - someone who uses something outside its designed/intended purpose
+
+Half-adder - a logic gate that adds two bits and contains a carry
+
+Hallucination - a machine learning approach that involves the computer making an averaged-out guess when it doesn't have a sufficient answer for something
+
+Hamburger menu - a symbol most prevalent in mobile design that usually consists of 3 horizontal lines parallel to each other or 3 consecutive dots that open to a larger menu when selected
+
+Hard drive - long-term memory attached to the motherboard, comes in SSD and HDD, used to be opposed to floppy drive
+
+Hardening - cutting down on computer vulnerabilities by removing access to unused features/ports/code
+
+Hardware - physical parts of a computer like the RAM or hard drive, physically exists as contrasted with software
+
+Harvard architecture - a variation of the von Neumann architecture, where programs and data are stored separately in memory, most modern computers use various hybrids of both
+
+Hash - aka message digest, an encrypted line of code produced from a key on a message
+
+Hash function - computer code that creates a fixed-length hash from unencrypted data
+
+HCI - human computer interface, a design philosophy built around how people interact with computers, has been largely replaced by UX
+
+HDD - hard disk drive, an older method of storing binary information using magnets on plates, one of the cheapest ways outside of tape drives to store lots of information
+
+Header - supplemental data at the beginning of a file or packet that isn't part of the "body" of main data, used for [storage](computers-memory.md) or [network transmission](networks-computer.md) reasons, contains metadata
+
+Heading - text designed to clarify a section of text
+
+Heap memory allocation - memory assigned by an operating system as public-access to all programs, opposite of stack memory allocation, can cause memory leaks
+
+Heat map - a map overlay that indicates colors ranging from blue to red to represent differences in values
+
+Hertz - one cycle of something, represented by Hz, can scale up by the thousands with Hz, kHz, MHz, THz, etc.
+
+Heuristic - a good-enough rule of thumb
+
+HDMI - high definition multimedia interface, a plug specifically designed for sending video information, sometimes with audio included
+
+Hexadecimal/Hex numbering - a means of communicating 4 binary numbers by using 0 through f, then putting 0x in front to clarify what it is (e.g., 0010100111010100001001100111 becomes 0x29d4267)
+
+Hierarchical file system - a method of separating files with a hierarchy (C:\file.txt versus C:\Documents\file.txt)
+
+High-level language - typed instructions that can perform many lines of assembly code at once
+
+HMD - head-mounted display, aka VR headset, a helmet I/O that combines a screen, location-tracking, and often wireless signals and input devices
+
+Hop - jumping between nodes, refers to internet connections and the routing information protocol (RIP)
+
+Host - aka server, the application in a host-client network relationship which is sending data, very often does more of the heavy processing activities because it's often a supercomputer
+
+Hot spot - a camera artifact where one part of the image is more exposed than another part, washing out its contrast by comparison
+
+Hot storage - holding computer information in a frequently synced drive, opposite of cold storage
+
+HSA - heterogeneous system architecture, where software inside the CPU manages everything between cores instead of requiring software developers to juggle resources, nonexistent in Intel CPUs
+
+HTML - hyper-text markup language, the displayed language that most internet content expresses through, usually pairs with CSS and changes with JavaScript
+
+HTTP - hyper-text transfer protocol, the common language for most internet browsing, has a secure version called HTTPS
+
+Hub - a network repeater that sends information to *all* the cables connected to it, contrast to a switch
+
+Hung - the state of a function waiting for a callback function
+
+Hybrid - a combination of two things (e.g., a hybrid interface is mixing Interface A and Interface B)
+
+Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and an "href" (e.g., `[this site](stucky.tech/notes)` in Markdown or `<a href="https://stucky.tech/notes">this site</a>` in HTML)
+
+Hypervisor - software designed to run virtual machine containers, can be Level 1 (BIOS-level) or Level 2 (OS-level)
+
 ## I
 
 I/O - input/output, a common identifier for most computers since some peripherals serve both purposes
@@ -192,221 +412,3 @@ Low-pass filter - a signal filter that only permits lower audio/video frequencie
 LSA - link state advertisement, protocol that informs other computers of its linked computers
 
 Ludonarrative - the difference in a game between how the game world and the story work
-
-## M
-
-MAC - media access control, a subset of the [Data Link layer](https://gainedin.site/networks/) that deals with labeling various nodes, moves to logical link control (LLC)
-
-MAC address - media access control address, a unique identifier for network-enabled computer parts, uses hexadecimal and often uses colons for ease of reading (e.g., 0f:4c:3b:a5:a3:d1)
-
-Machine code - binary information that computers work with, often directly translates from assembly code from a high-level language
-
-Machine learning - an algorithm designed to track a flow of repetitive trained information, then repeat back permutations of that information
-
-Magic pixels - the edge pixels of a screen, named because of their relatively easy UX compared to the rest of the screen
-
-Magnet link - a hash for a BitTorrent client to open and interpret, contains information about that torrent and its contents
-
-Mainframe - an enterprise-grade computer that often has many terminals/endpoints
-
-Malvertising - ads that direct to malicious software that are designed to look like legitimate software
-
-Malware - malicious software, designed by a hacker to destroy or steal
-
-Man-in-the-Middle (MitM) attack - a hack that involves appearing legitimate while standing in the middle of a transaction, the mobile version is Man-in-the-Mobile
-
-Managed services - a technology contract with a routine fee to keep technology running, contrast with break-fix
-
-Map - to make a link between something and something else, such as mapping a game controller button to a keyboard key
-
-Markdown - a lightweight markup language, useful for maintaining formatting elements (e.g., headings, hyperlinks) when storing things as plaintext
-
-Marker-based AR - augmented reality that displays content on top of an image
-
-Markerless AR - augmented reality that simply needs an empty space
-
-Master - aka main (now that [Leftism](politics-leftism.md) has gotten offended at it), a dominant drive or record that has a higher importance than others, contrast to slave
-
-Matrix - a grid of data
-
-MBR - master boot record, a relatively small record placed at the beginning of a hard drive that indicates what's on that drive and what memory register to start accessing it
-
-MDF - main distribution frame, the location for most of a data center's network activity, may connect to an IDF
-
-Media - information expressed via a medium, typically refers to audio, video, and image files
-
-Media query - a set of CSS styles that activate when a property of a media is activated (e.g., min/max width/height on a screen/printer)
-
-Megatransfer - 10^6, or 1,000,000, cycles per second, measured specifically for data transfer, also known as MB/s
-
-Memory - stored information, can be short-term (like RAM) and deleted on power-off, or long-term (like HDD) and stored between power cycles
-
-Memory hierarchy - the engineering reality that you can't have lots of memory that's also fast, so there's a constant speed/amount tradeoff that visually looks like a pyramid (e.g., 5 kb @ 10,000 writes/sec vs. 5,000 kb @ 1,000 writes/sec)
-
-Memory leak - memory in that was heap allocated, but the program wasn't instructed to release it when it was finished, creates stack overflows and other weird issues
-
-Memristor - memory resistor, a relatively new component made of electric switches that hold their memory even without electrical charge
-
-Merkle tree - aka hash tree, a data structure that converts each element into a hash, then makes hashes off multiple hashes, until there's eventually 1 hash for all of it.
-
-Merge - a necessary and complicated procedure of combining code bases together, a core feature of Git
-
-Metadata - quick-access information placed in the header of a file meant to make managing the files easier without the computer having to dig through them each time
-
-Metrics - measurements
-
-Microcomputer - aka mini, an old term for a silicon-based computer, rather than older vacuum tube computers
-
-Microcontroller - affordable, cheap computers with a very limited capacity and are designed to do a relatively small set of computing tasks, often to serve a more robust computer elsewhere
-
-Microkernel - an operating system kernel architecture that has a minimalist system management that takes up less memory, contrast with monolithic kernel
-
-Middleware - software designed to be in the middle of other things
-
-MIDI - musical instrument digital interface, a standard that sends musical instrument input to time-mapped data
-
-MIDI voice - sounds mapped to MIDI inputs, which permits a musical instrument to play as an entirely different instrument at the user's preference
-
-Mining - creating a new block in a blockchain, often is *very* resource-intensive, especially with cryptocurrency
-
-MMU - memory management unit, a specialized component that connects virtual and physical memory locations, uses the translation lookaside buffer
-
-MNO - mobile network operator, the organization that manages a cell tower, compare to MVNO
-
-Modal window - a pop-out context window in design that temporarily locks out interaction with other elements
-
-Mode - a state that allows for more varieties or iterations of inputs or outputs
-
-Modem - modulator/demodulator, translates information for sending via a network, then translates back for the computer to use, usually built right into the motherboard
-
-Modular - components of something are interchangeable
-
-Module - aka subsystem, an independent piece of a larger thing
-
-Modulo operator - A math calculation represented by % that effectively returns the remainder of a division operation, not to be confused with a modulus (the entire *range* of numbers that fit in that operation's set)
-
-Monolithic kernel - an operating system kernel architecture that encompasses almost all aspects of system management at the expense of taking more memory and everything running as superuser, contrast with microkernel
-
-Monospaced font - a font that uses the same width for each character, popular in older computers and with ASCII art
-
-Motherboard - a specific printed circuit board designed to have at least a CPU, input, memory, and output
-
-Motion blur - a camera artifact caused by the aperture being open too long or an object moving too fast, a convenient way to cut down on graphics load
-
-Mount - to connect a partition to a computer for accessing, can be a hard drive or external media
-
-Mount file - a file used as a placeholder for a temporary file system, such as a virtual machine
-
-Mouse/Trackball/Touchpad - a peripheral that sends x/y coordinates into the computer using relative motion, represented by a cursor on the screen
-
-Move - either copying computer code and deleting the original, or re-linking an association in memory (such as in a hierarchical file system)
-
-MTU - maximum transmission unit, the limit of how large a frame can get, can be subverted by jumbo frames
-
-MU-MIMO - multiple-user multiple-input multiple-output, a transceiver configuration that allows the most bandwidth on a network compared to SU-MIMO or SISO
-
-MVNO - mobile variable network operator, organizations that rent out the extra bandwidth from MNOs' cell towers
-
-Multi-licensing - issuing multiple types of software license for the same software product
-
-Multimap - a data structure where the key is designed to grab more than one value
-
-Multiplexer - a logic gate where one set of inputs is a selector to determine which of the inputs will go out
-
-Multiset - a data structure that's a set, but can store multiple values of the same thing
-
-## N
-
-N-key rollover - the maximum number of keys that can be reliably pressed on a mechanical keyboard before noticing ghosting/blocking, requires diodes so higher n-key rollover will cost more
-
-Name server - a computer in a DNS that stores a record of domains corresponding with IP addresses
-
-Namespace - a system that separates things into groups to allow the same names across multiple areas, very useful for programming
-
-Nanosheet - a panel of *tiny* transistors, also known as nanoribbon, nanowire or gate-all-around device, depending on who you ask
-
-NAS - network-attached storage, a computer designed to do nothing but keep information available on a network
-
-NAT - network address translation, converting IPs into other IPs, necessary for IPv4 when they started running out of IPs but not necessary for IPv6
-
-Netcode - computer code that executes across a network, often refers to internet-based games
-
-Nested function - a function inside a function, extremely useful but can get complicated to follow the code (especially if there's a recursion)
-
-Network - computers connected where they can send and receive data
-
-Network edge - the closest network connection to the endpoint
-
-Network interface card - aka NIC, a device that's designed to connect to a network, can be a peripheral or built straight into a motherboard
-
-Network sniffing - using software to capture packets, can be used for hacking or for diagnostics/learning
-
-Neural network - a mechanism of machine learning that consists of a network of individual rule-defining components
-
-NFT - non-fungible token, a unique cryptographic token for something, refers to blockchain
-
-Node - very broad word for a place on a network that has connections to other things
-
-Noise floor - the minimum amount of white noise that exists throughout a recording
-
-Non-diegetic - not naturally part of the established environment, such as lighting or sound
-
-Nonce - unimportant code that's used to validate a cryptographic hash
-
-Non-validated input - an exploit that involves entering data information in a way that the computer mistakes it for code
-
-Non-volatile/Long-term storage - memory that persists in between power cycles (i.e., non-volatile), often is a hard drive or removable media, opposite of volatile storage
-
-NOP - an opcode for no operation, which basically tells the computer to wait for a cycle
-
-NOP slide - an exploit that slides data into NOP opcodes
-
-Normalize - make a database have less memory, but with a longer read time, opposite of denormalize, an alternately mean reducing data into a canonical form
-
-NoSQL - any database that isn't strictly a relational database
-
-Null - a completely blank value in memory, it's *not* a "zero" value
-
-## O
-
-OCR - optical character recognition, software that detects [language](language.md) on scanned media
-
-OEM - original equipment manufacturer, the organization that creates the original components of a computer, can often be several organizations removed from the group that actually sells the whole computer
-
-OLED - organic light-emitting diode, the next technological evolution of the plasma screen, not at all associated to LED screens despite the name
-
-OMR - optical mark recognition, informally called scantron, a method of computer input that involves reading marks on a paper
-
-Onboarding - the UX from first initializing software that stores configuration information and starts differently the second time onward
-
-On-prem - on-premises, having a computer that you can physically touch
-
-One-to-one correspondence - one instruction creates one machine code instruction, the major limitation of low-level languages
-
-Opacity - how opaque, or invisible, an element or color is
-
-Opcodes - operation codes, control bits of an ALU that determine which logic to run on the inputs
-
-Open-core - software that is open source, but has a proprietary implementation or front-end that isn't
-
-Open-source - computer code that's free to view and therefore modify, allows for easier debugging at the risk of losing potential profit off it, often contrasts to proprietary software or closed-source
-
-Operating system - the large system that runs the basic things in a computer, is most often Windows, Mac, or Linux in most general-purpose computers
-
-Oscillator - something that goes back-and-forth to track time, a major component of a clock
-
-OSINT - open-source intelligence, any potentially useful information or information-gathering tool
-
-OSPF - open shortest path first, a link-state routing protocol
-
-Out-of-band - outside a natural hardware environment, often remotely, contrast to in-band
-
-Output - any information the computer sends out, which could be anything from a screen to other computers
-
-Overclocking - cranking up the speed of the computer beyond the manufacturer specifications, which may make better benchmarks but might melt your processor, opposite of underclocking
-
-Overflow - the leftmost carry gets dropped in adding, a huge difference between computer math and algebra (e.g., 1000 plus 1001 makes 0001 instead of 10001)
-
-Overhead - a general concept usually referring to maintenance cost, space, electrical use, or processing power
-
-Over-provisioning - giving more resources than necessary, can be a good idea or a bad idea depending on whether you want redundancy or efficiency, opposite of under-provisioning

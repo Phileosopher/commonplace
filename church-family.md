@@ -28,6 +28,15 @@ The New Testament *constantly* references other believers as brothers and sister
 - Inspire them to good works ([Hebrews 10:24-25](https://biblehub.com/bsb/hebrews/10.htm)).
 - Meet with them frequently ([Hebrews 10:26](https://biblehub.com/hebrews/10-26.htm)).
 
+The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/bsb/1_corinthians/7.htm):
+
+1. Your body, upon marriage, is no longer yours, but is your spouse's.
+2. Therefore, don't turn down their offers for [sexual intimacy](relationships-sex.md)
+3. Only separate intimately for a time with mutual consent for the sake of prayer.
+4. Women may leave, but they must stay single or come back to their husband.
+5. Men must not divorce.
+6. As Paul's opinion (i.e., not a hard rule but a good guideline), nonbelievers and believers should stay married if the nonbeliever is okay with it, but it's fine if they leave.
+
 While it never excuses [bad boundaries](people-boundaries.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
 
 1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))

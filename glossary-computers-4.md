@@ -1,6 +1,224 @@
 
 # Computers glossary - part 4
 
+## M
+
+MAC - media access control, a subset of the [Data Link layer](https://gainedin.site/networks/) that deals with labeling various nodes, moves to logical link control (LLC)
+
+MAC address - media access control address, a unique identifier for network-enabled computer parts, uses hexadecimal and often uses colons for ease of reading (e.g., 0f:4c:3b:a5:a3:d1)
+
+Machine code - binary information that computers work with, often directly translates from assembly code from a high-level language
+
+Machine learning - an algorithm designed to track a flow of repetitive trained information, then repeat back permutations of that information
+
+Magic pixels - the edge pixels of a screen, named because of their relatively easy UX compared to the rest of the screen
+
+Magnet link - a hash for a BitTorrent client to open and interpret, contains information about that torrent and its contents
+
+Mainframe - an enterprise-grade computer that often has many terminals/endpoints
+
+Malvertising - ads that direct to malicious software that are designed to look like legitimate software
+
+Malware - malicious software, designed by a hacker to destroy or steal
+
+Man-in-the-Middle (MitM) attack - a hack that involves appearing legitimate while standing in the middle of a transaction, the mobile version is Man-in-the-Mobile
+
+Managed services - a technology contract with a routine fee to keep technology running, contrast with break-fix
+
+Map - to make a link between something and something else, such as mapping a game controller button to a keyboard key
+
+Markdown - a lightweight markup language, useful for maintaining formatting elements (e.g., headings, hyperlinks) when storing things as plaintext
+
+Marker-based AR - augmented reality that displays content on top of an image
+
+Markerless AR - augmented reality that simply needs an empty space
+
+Master - aka main (now that [Leftism](politics-leftism.md) has gotten offended at it), a dominant drive or record that has a higher importance than others, contrast to slave
+
+Matrix - a grid of data
+
+MBR - master boot record, a relatively small record placed at the beginning of a hard drive that indicates what's on that drive and what memory register to start accessing it
+
+MDF - main distribution frame, the location for most of a data center's network activity, may connect to an IDF
+
+Media - information expressed via a medium, typically refers to audio, video, and image files
+
+Media query - a set of CSS styles that activate when a property of a media is activated (e.g., min/max width/height on a screen/printer)
+
+Megatransfer - 10^6, or 1,000,000, cycles per second, measured specifically for data transfer, also known as MB/s
+
+Memory - stored information, can be short-term (like RAM) and deleted on power-off, or long-term (like HDD) and stored between power cycles
+
+Memory hierarchy - the engineering reality that you can't have lots of memory that's also fast, so there's a constant speed/amount tradeoff that visually looks like a pyramid (e.g., 5 kb @ 10,000 writes/sec vs. 5,000 kb @ 1,000 writes/sec)
+
+Memory leak - memory in that was heap allocated, but the program wasn't instructed to release it when it was finished, creates stack overflows and other weird issues
+
+Memristor - memory resistor, a relatively new component made of electric switches that hold their memory even without electrical charge
+
+Merkle tree - aka hash tree, a data structure that converts each element into a hash, then makes hashes off multiple hashes, until there's eventually 1 hash for all of it.
+
+Merge - a necessary and complicated procedure of combining code bases together, a core feature of Git
+
+Metadata - quick-access information placed in the header of a file meant to make managing the files easier without the computer having to dig through them each time
+
+Metrics - measurements
+
+Microcomputer - aka mini, an old term for a silicon-based computer, rather than older vacuum tube computers
+
+Microcontroller - affordable, cheap computers with a very limited capacity and are designed to do a relatively small set of computing tasks, often to serve a more robust computer elsewhere
+
+Microkernel - an operating system kernel architecture that has a minimalist system management that takes up less memory, contrast with monolithic kernel
+
+Middleware - software designed to be in the middle of other things
+
+MIDI - musical instrument digital interface, a standard that sends musical instrument input to time-mapped data
+
+MIDI voice - sounds mapped to MIDI inputs, which permits a musical instrument to play as an entirely different instrument at the user's preference
+
+Mining - creating a new block in a blockchain, often is *very* resource-intensive, especially with cryptocurrency
+
+MMU - memory management unit, a specialized component that connects virtual and physical memory locations, uses the translation lookaside buffer
+
+MNO - mobile network operator, the organization that manages a cell tower, compare to MVNO
+
+Modal window - a pop-out context window in design that temporarily locks out interaction with other elements
+
+Mode - a state that allows for more varieties or iterations of inputs or outputs
+
+Modem - modulator/demodulator, translates information for sending via a network, then translates back for the computer to use, usually built right into the motherboard
+
+Modular - components of something are interchangeable
+
+Module - aka subsystem, an independent piece of a larger thing
+
+Modulo operator - A math calculation represented by % that effectively returns the remainder of a division operation, not to be confused with a modulus (the entire *range* of numbers that fit in that operation's set)
+
+Monolithic kernel - an operating system kernel architecture that encompasses almost all aspects of system management at the expense of taking more memory and everything running as superuser, contrast with microkernel
+
+Monospaced font - a font that uses the same width for each character, popular in older computers and with ASCII art
+
+Motherboard - a specific printed circuit board designed to have at least a CPU, input, memory, and output
+
+Motion blur - a camera artifact caused by the aperture being open too long or an object moving too fast, a convenient way to cut down on graphics load
+
+Mount - to connect a partition to a computer for accessing, can be a hard drive or external media
+
+Mount file - a file used as a placeholder for a temporary file system, such as a virtual machine
+
+Mouse/Trackball/Touchpad - a peripheral that sends x/y coordinates into the computer using relative motion, represented by a cursor on the screen
+
+Move - either copying computer code and deleting the original, or re-linking an association in memory (such as in a hierarchical file system)
+
+MTU - maximum transmission unit, the limit of how large a frame can get, can be subverted by jumbo frames
+
+MU-MIMO - multiple-user multiple-input multiple-output, a transceiver configuration that allows the most bandwidth on a network compared to SU-MIMO or SISO
+
+MVNO - mobile variable network operator, organizations that rent out the extra bandwidth from MNOs' cell towers
+
+Multi-licensing - issuing multiple types of software license for the same software product
+
+Multimap - a data structure where the key is designed to grab more than one value
+
+Multiplexer - a logic gate where one set of inputs is a selector to determine which of the inputs will go out
+
+Multiset - a data structure that's a set, but can store multiple values of the same thing
+
+## N
+
+N-key rollover - the maximum number of keys that can be reliably pressed on a mechanical keyboard before noticing ghosting/blocking, requires diodes so higher n-key rollover will cost more
+
+Name server - a computer in a DNS that stores a record of domains corresponding with IP addresses
+
+Namespace - a system that separates things into groups to allow the same names across multiple areas, very useful for programming
+
+Nanosheet - a panel of *tiny* transistors, also known as nanoribbon, nanowire or gate-all-around device, depending on who you ask
+
+NAS - network-attached storage, a computer designed to do nothing but keep information available on a network
+
+NAT - network address translation, converting IPs into other IPs, necessary for IPv4 when they started running out of IPs but not necessary for IPv6
+
+Netcode - computer code that executes across a network, often refers to internet-based games
+
+Nested function - a function inside a function, extremely useful but can get complicated to follow the code (especially if there's a recursion)
+
+Network - computers connected where they can send and receive data
+
+Network edge - the closest network connection to the endpoint
+
+Network interface card - aka NIC, a device that's designed to connect to a network, can be a peripheral or built straight into a motherboard
+
+Network sniffing - using software to capture packets, can be used for hacking or for diagnostics/learning
+
+Neural network - a mechanism of machine learning that consists of a network of individual rule-defining components
+
+NFT - non-fungible token, a unique cryptographic token for something, refers to blockchain
+
+Node - very broad word for a place on a network that has connections to other things
+
+Noise floor - the minimum amount of white noise that exists throughout a recording
+
+Non-diegetic - not naturally part of the established environment, such as lighting or sound
+
+Nonce - unimportant code that's used to validate a cryptographic hash
+
+Non-validated input - an exploit that involves entering data information in a way that the computer mistakes it for code
+
+Non-volatile/Long-term storage - memory that persists in between power cycles (i.e., non-volatile), often is a hard drive or removable media, opposite of volatile storage
+
+NOP - an opcode for no operation, which basically tells the computer to wait for a cycle
+
+NOP slide - an exploit that slides data into NOP opcodes
+
+Normalize - make a database have less memory, but with a longer read time, opposite of denormalize, an alternately mean reducing data into a canonical form
+
+NoSQL - any database that isn't strictly a relational database
+
+Null - a completely blank value in memory, it's *not* a "zero" value
+
+## O
+
+OCR - optical character recognition, software that detects [language](language.md) on scanned media
+
+OEM - original equipment manufacturer, the organization that creates the original components of a computer, can often be several organizations removed from the group that actually sells the whole computer
+
+OLED - organic light-emitting diode, the next technological evolution of the plasma screen, not at all associated to LED screens despite the name
+
+OMR - optical mark recognition, informally called scantron, a method of computer input that involves reading marks on a paper
+
+Onboarding - the UX from first initializing software that stores configuration information and starts differently the second time onward
+
+On-prem - on-premises, having a computer that you can physically touch
+
+One-to-one correspondence - one instruction creates one machine code instruction, the major limitation of low-level languages
+
+Opacity - how opaque, or invisible, an element or color is
+
+Opcodes - operation codes, control bits of an ALU that determine which logic to run on the inputs
+
+Open-core - software that is open source, but has a proprietary implementation or front-end that isn't
+
+Open-source - computer code that's free to view and therefore modify, allows for easier debugging at the risk of losing potential profit off it, often contrasts to proprietary software or closed-source
+
+Operating system - the large system that runs the basic things in a computer, is most often Windows, Mac, or Linux in most general-purpose computers
+
+Oscillator - something that goes back-and-forth to track time, a major component of a clock
+
+OSINT - open-source intelligence, any potentially useful information or information-gathering tool
+
+OSPF - open shortest path first, a link-state routing protocol
+
+Out-of-band - outside a natural hardware environment, often remotely, contrast to in-band
+
+Output - any information the computer sends out, which could be anything from a screen to other computers
+
+Overclocking - cranking up the speed of the computer beyond the manufacturer specifications, which may make better benchmarks but might melt your processor, opposite of underclocking
+
+Overflow - the leftmost carry gets dropped in adding, a huge difference between computer math and algebra (e.g., 1000 plus 1001 makes 0001 instead of 10001)
+
+Overhead - a general concept usually referring to maintenance cost, space, electrical use, or processing power
+
+Over-provisioning - giving more resources than necessary, can be a good idea or a bad idea depending on whether you want redundancy or efficiency, opposite of under-provisioning
+
 ## P
 
 P/E cycle - a unit of measurement to determine how fast memory can read and write
@@ -178,131 +396,3 @@ PUP - potentially unwanted program, a program that installs alongside a legitima
 Push - add information to a stack
 
 Pushdown automation - information that has been ordered into a stack, can be pushed onto or popped
-
-## Q
-
-QLED - quantum light-emitting diode, the next evolution of LED screens that uses quantum dots
-
-Quantization - a digital signal processing that maps an analog signal into a less dynamic digital one
-
-Quantum dots - small dots only a few nanometers long that are overlaid on a screen on top of pixels
-
-QPU - quantum processing unit, a CPU that uses qubits instead of bits
-
-QR code - Quick Response code, a barcode with two dimensions of information involved
-
-Qubit - a quantum computing bit, can be in a superstate of 0/1 as well as 0 or 1
-
-Query - a computer requesting information and possibly doing something with it, often used in databases and networks
-
-Queue - a specific type of stack data structure where information is placed onto one end of the sequence and removed from the other
-
-QoS - Quality of Service, a router/switch feature that prioritizes some protocols, IP addresses, or MAC addresses more than others, is either a tedious experience requiring networking knowledge to set up or is well-automated
-
-## R
-
-Race condition - a bad situation where the various speeds of data traveling (usually via electricity) changes the information in a later clock cycle, a hardware issue but can be used as an exploit
-
-Racers - pirates who access FTP sites to download and redistribute a *lot* of media
-
-Radar - radio detection and ranging, determining a location and distance using radio signals
-
-Rage-quit - leaving software, usually a game, out of frustration
-
-RAID - redundant array of independent disks, a specialized array of disks that hold data, can be
-
-RAM - random access memory, a set of memory outside the CPU that's quickly accessible but disappears after power-off, often designed as a detachable and upgradeable circuit board that plugs into the motherboard
-
-RAM slots - memory slots on the circuit board, the RAM must match its form factor
-
-Range header - a header that only requests a specified range
-
-Ransomware - malware designed to scare the user into paying an extortionate fee
-
-Raster - using a grid matrix of dots to represent a screen (with pixels) or a printer
-
-RAT - remote access tool, software, or a feature that controls a computer over a network, often used by hackers
-
-Rate-limit - aka throttling, slowing the bandwidth speed of a network or data transfer
-
-Ray casting - aka ray tracing, following the pathway of a straight line in a 3D environment, often used to cut down on graphics rendering or create shadow effects
-
-RCE - remote code execution, a type of attack where code is remotely executed
-
-RDMS - relational database management system, a database system that uses SQL to create a relational database
-
-Readahead - a feature of a file system designed to read ahead in a memory block
-
-Read-only memory - media that's meant to only be read from, includes EEPROM and most CDs
-
-Rear ports - ports on the back of a device that allows you to plug other stuff into it
-
-Recommender system - an algorithm designed to recommend user data to other users
-
-Recursion - code that references itself (see: recursion), very useful for extremely tedious tasks
-
-Red Team - the attacking Pentester who tests the resilience of a cybersecurity implementation, in contrast with Blue Team
-
-Redundant - a broad computing concept meaning there's a backup system in place for the currently working one
-
-Refactor - to redesign existing code, often code from someone the programmer never met or a public repository
-
-Reference - aka "ref", a mapped location elsewhere that can be anything including a network/memory location, a variable, or function
-
-Register - a DFF attached to a multiplexer, the implementation of storing memory in a computer
-
-Regular expression - aka regex, the sequence of characters used in computer code to sort through text for specific conditions, syntax varies by programming language
-
-Relational database - a database that links its data together with a primary key, uses SQL to interact with it, contrast to NoSQL
-
-Relative motion - the distance between two points irrespective of where they're at, how a mouse and touchpad send information, opposite of absolute motion
-
-Rem - aka root em, a measurement of pixels based on the standard font size (em), typically defaults to 16 pixels
-
-Remote - broad concept for something that's not nearby, contrast to local
-
-Removable media - long-term storage that's designed for removing while the computer is still on, such as CDs or flash drives
-
-Render - produce an end-user graphics element
-
-Repeater - a device that simply magnifies and duplicates a signal, useful to send a long-distance signal such as Wi-Fi in a large house or a poor cell connection
-
-Repository - a place where computer code is stored and maintained
-
-Resource/asset - jargon that can apply contextually to memory (disk space or RAM), processing (CPUs or GPUs), network speed, computer code, database entries, and sometimes peripherals
-
-Resource record - a DNS record that indicates where something is
-
-Responsive web design - using media queries to manage the UX for various screen sizes a browser may use
-
-Reverse-engineer - to re-engineer something by observing what that thing does
-
-Right to repair - an individual's rights to fix the things they own, should be implicit but many FAANG companies try to subvert it, works directly against planned obsolescence
-
-Rip - copy physical media into a digital format, typically associated with piracy
-
-RISC - reduced instruction set computer, a computer architecture designed to simplify individual instructions, meaning more code and less processing per command, contrast to CISC
-
-RISC-V - pronounced "risk-five", an open-source implementation of the RISC standard
-
-RMF - risk management framework, a system created by NIST to implement risk management organizational programs
-
-Roll back - to restore a previous known-good version of software
-
-Roll out - when software is released to the public
-
-ROM - read-only memory, often doesn't depend on electricity, but you can't write anything to it
-
-Rootkit - malware that affects core operating system files
-
-Rotoscoping - a tedious animation technique of drawing over an existing thing, frame by frame
-
-Router - effectively, a switch that works with IP addresses instead of MAC addresses
-
-Routing table - a record of IP addresses that a router records for reference
-
-RPC - remote procedure call, a protocol for managing another computer's service
-
-Runtime - the period of time when a computer is running a program
-
-Runtime error - a situation where a computer does exactly what it's told, but won't finish a task because it's waiting on a condition that can never be met (e.g., add 1 to 5 over and over, stop when it reaches 4)
