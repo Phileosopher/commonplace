@@ -13,16 +13,16 @@ Justice is an attempt to create fairness. People can debate endlessly about what
 - Harming or killing others maliciously without motive.
 - Destroying others' property strictly out of [preference](humanity.md).
 
-We tend to believe things we [feel](mind-feelings.md) are right, even if it's not particularly [fair](people-boundaries.md). Since we're all [human](humanity-universals.md), we all have a sentiment about matters of fairness, and can never think [purely rationally](logic.md) on the matter because our [feelings](mind-feelings.md) always mix into it.
+We tend to believe things we [feel](mind-feelings.md) are right, even if it's not particularly [fair](people-boundaries-why.md). Since we're all [human](humanity-universals.md), we all have a sentiment about matters of fairness, and can never think [purely rationally](logic.md) on the matter because our [feelings](mind-feelings.md) always mix into it.
 
 APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](trust.md) the authorities. This makes *all* life more complicated for *everyone*.
 
 ## Purpose
 
-Authorities reserve the [moral](morality.md) use of justice to give or take away freedoms. Their purpose (at least as it [appears](image.md)) is to enforce healthy [boundaries](people-boundaries.md) for everyone:
+Authorities reserve the [moral](morality.md) use of justice to give or take away freedoms. Their purpose (at least as it [appears](people-image-why.md)) is to enforce healthy [boundaries](people-boundaries-why.md) for everyone:
 
 - We need authorities to apply justice because completely unrestrained freedom would let the most [powerful](power.md) people [force everyone else to submit](slavery.md). With a powerful authority, other [large groups](groups-large.md) with [other types of power](power-types.md) will [fear](mind-feelings-fear.md) what will happen if they break the [rules](people-rules.md) too far.
-- We also need third-parties to manage natural conflicts among people who [can't agree among each other](people-conflicts.md). Often, some people are the [victims](hardship-ptsd.md) of previous [evil](morality-evil.md) and feel justified in abusing someone else in turn.
+- We also need third-parties to manage natural conflicts among people who [can't agree among each other](people-conflicts-why.md). Often, some people are the [victims](hardship-ptsd.md) of previous [evil](morality-evil.md) and feel justified in abusing someone else in turn.
 
 APPLICATION: While "eye for an eye" is the fairest universal standard, we tend to [feel](mind-feelings.md) like we must take more than that when we're wronged (i.e., "face for an eye"). At that point, though, we've perverted justice away from [goodness](morality.md).
 
@@ -50,9 +50,9 @@ Thus, *[how](logic.md)* a ruling was decided is just as important as *[what](res
 
 This becomes complicated to track when skillful lawyers use those rules to navigate the [best interests](purpose.md) of their clients, irrespective of [morality](morality.md) altogether.
 
-On top of that, each judge has a [bias](image.md), since they're [human](humanity.md). In many legal systems, they become [corrupt](mgmt-badsystems.md) when the judge is [friends](people-friends.md) with or [sympathizes](image.md) with one side of the legal case.
+On top of that, each judge has a [bias](people-image-why.md), since they're [human](humanity.md). In many legal systems, they become [corrupt](mgmt-badsystems.md) when the judge is [friends](people-friends-why.md) with or [sympathizes](people-image-why.md) with one side of the legal case.
 
-APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends.md) with the [judge](people-decisions.md) or a [highly agreeable personality](personality.md).
+APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends-why.md) with the [judge](people-decisions.md) or a [highly agreeable personality](personality.md).
 
 For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-specialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
 
@@ -60,9 +60,9 @@ APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflat
 
 ## Basis
 
-*Where* we get our [inherent rights](people-boundaries.md) has a *huge* impact on the moral scope of the authorities:
+*Where* we get our [inherent rights](people-boundaries-why.md) has a *huge* impact on the moral scope of the authorities:
 
-- If [God(s)](religion.md) (theonomos) define rights, we must be subordinate to that authority, in whatever form it comes, and even the State must give [certain rights](people-boundaries.md).
+- If [God(s)](religion.md) (theonomos) define rights, we must be subordinate to that authority, in whatever form it comes, and even the State must give [certain rights](people-boundaries-why.md).
 - If the [State](groups-large.md) (heteronomos) defines rights, it has full liberty to take them away and we have no right to protest it.
 - If the [majority](trends.md) defines rights, then we must follow whatever is [fashionable](trends.md).
 - If the individual (autonomos) defines rights, there's no standard for [evil](morality-evil.md) unless we designate evil people as a separate sub-human class of citizen, since the "evil" person often feels they have a right to others' rights.
@@ -84,19 +84,19 @@ The intent of an action dictates *everything* about whether the consequences of 
 
 One mistake many people make is to confuse helplessness with innocence, especially with [children](maturity.md) and poor people. Helplessness comes from someone with no [power](power.md), but innocence comes from someone with no [intent](purpose.md).
 
-APPLICATION: By using a jury, the judge's [power](power.md) is decentralized. It filters through the [bias](image.md) of a [small group](groups-small.md) of (generally less-[educated](education.md)) people instead of one person. It's theoretically more fair, to the degree that we can trust the common sense of a group of relatively less-educated individuals over an interpreter of the law.
+APPLICATION: By using a jury, the judge's [power](power.md) is decentralized. It filters through the [bias](people-image-why.md) of a [small group](groups-small.md) of (generally less-[educated](education.md)) people instead of one person. It's theoretically more fair, to the degree that we can trust the common sense of a group of relatively less-educated individuals over an interpreter of the law.
 
 ## Execution
 
 Society's definition of "fair" or "equality" is often unclear:
 
 - Equal [value](values.md) means each person is regarded as inherently valuable, but never addresses their needs.
-- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](imagination.md), but it won't be equal [status](image.md) at the end.
-- Equal [status](image.md) means anyone achieving a [purpose](purpose.md) to gain [power](power.md), for any [reason](purpose.md), will be thwarted to maintain that status.
+- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](imagination.md), but it won't be equal [status](people-image-why.md) at the end.
+- Equal [status](people-image-why.md) means anyone achieving a [purpose](purpose.md) to gain [power](power.md), for any [reason](purpose.md), will be thwarted to maintain that status.
 - Equal retribution means "eye for an eye", but doesn't consider how anyone could [feel](mind-feelings.md) with the arrangement.
 
-One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](imagination.md) at it, which often reflects on our [view of the world](image.md).
+One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](imagination.md) at it, which often reflects on our [view of the world](people-image-why.md).
 
-Broadly, most people conflate equality with [love](people-love.md). To be equal is to have the same of something as everyone else, but it won't fix the gaping hole of unfulfilled [purpose](purpose.md) and [loneliness](people-friends.md) we're constantly carrying around.
+Broadly, most people conflate equality with [love](people-love.md). To be equal is to have the same of something as everyone else, but it won't fix the gaping hole of unfulfilled [purpose](purpose.md) and [loneliness](people-friends-why.md) we're constantly carrying around.
 
 Many times, people can sidestep justice by redefining [language](language.md). By using a technicality or a specific element of the law to their advantage (*especially* if they can [influence](influence.md) its writing) a wealthy person or [an entire organization](mgmt-badsystems.md) can ignore severe penalties for non-compliance.

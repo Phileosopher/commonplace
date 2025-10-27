@@ -1,7 +1,7 @@
 
 # Universal standards for specific designed elements
 
-Each design has to go through a *lot* of testing to make sure it works correctly. The organization designing the object will typically provide a [marketing](marketing.md)-driven [image](image.md) to:
+Each design has to go through a *lot* of testing to make sure it works correctly. The organization designing the object will typically provide a [marketing](marketing.md)-driven [image](people-image-why.md) to:
 
 - Using "personas" of various types of people to rapidly define what [purposes](purpose.md) that user can use the interface for.
 - Creating an "information architecture" to visually inform users of their location relative to the rest of the interface.

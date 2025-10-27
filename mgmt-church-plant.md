@@ -19,4 +19,4 @@ Church plants only come from a few good [purposes](purpose.md):
 
 1. A missionary has been reaping new converts enough that the region requires more support.
 2. The church is changing venues or splitting, and enough members want to risk starting a new gathering.
-3. A church had been [practicing heresy](conflicts-christian-1_why.md) and the true Christians left to establish a new church.
+3. A church had been [practicing heresy](people-conflicts-christian-1_why.md) and the true Christians left to establish a new church.

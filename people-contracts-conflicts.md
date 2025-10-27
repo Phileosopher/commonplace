@@ -46,7 +46,7 @@ Using an "arbitration" clause has pros and cons compared to a civil court case:
 - If the arbitration is mandatory and binding, the parties waive their rights to access the courts, with a judge and jury deciding the case.
 - A judge generally has no reason to lean one way or another, but repeat business for the arbitrator gives them incentive to rule against the interests of the employee or consumer.
 
-Ideally, "mediation" resolves the issue while [making all parties satisfied](people-5_conflicts.md):
+Ideally, "mediation" resolves the issue while [making all parties satisfied](people-conflicts.md):
 
 - The very fact that parties are willing to mediate means they're willing to "move" on their position.
 - Professional mediators are trained to work with difficult situations, and guide the parties through the process while assisting in finding [creative solutions](mind-creativity-how.md) for the conflict.

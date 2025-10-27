@@ -42,7 +42,7 @@ To attain fullness in Christ, we must manage all three components of ourselves.
 
 The *exact* nature of these domains is at least somewhat expressed via Christian tradition.
 
-- The finer details of how this becomes practical are *very* [up for debate](conflicts-christian-1_why.md).
+- The finer details of how this becomes practical are *very* [up for debate](people-conflicts-christian-1_why.md).
   - Most Protestants demarcate body and soul, but some of them conflate the spirit with the soul.
   - As an official stance, Roman Catholicism holds a relatively vague view on the domains of the soul.
   - Eastern Orthodoxy groups us as "nous"/soul, word, and spirit, which has layers of nous/word/spirit inside each domain as well.
@@ -69,7 +69,7 @@ B. Reproduction - copulation for the purpose of [carrying one's essence onward](
 
 C. Defense - [protection](safety-riskmgmt.md) from bad things:
 
-- When perverted, the interests of self-preservation advance to [destroying others](people-conflicts-war.md), sometimes merely from anticipation of what we [imagine](imagination.md) they *could* do.
+- When perverted, the interests of self-preservation advance to [destroying others](people-conflicts-war-why.md), sometimes merely from anticipation of what we [imagine](imagination.md) they *could* do.
 
 We can be [scientifically precise](science.md) about all aspects of the body's functions, including the brain.
 
@@ -107,7 +107,7 @@ The soul is also known as "sentience", and is the part of us that give us [power
 - It's a hybrid existence between the body and spirit, and is uniquely separate from all other living beings.
   - Our souls aren't really "natural" like the body because they're non-[habitual](habits.md), but aren't "spiritual" because they don't directly interact with God.
   - Our souls contain all our non-spiritual [meditation](awareness-meditation.md) and [decision-making](people-decisions.md), and we're able to [logically](logic.md) weigh and process information from experiences along with emotional stimuli that influence a [value system](values.md).
-- Our souls are where our [inner conflicts](conflicts-inner.md) take place.
+- Our souls are where our [inner conflicts](people-conflicts-inner.md) take place.
 - While many [sins](morality-sins.md) express as habits within the body, the soul is necessary for crafting any sins that aren't immediate gratification.
 
 Christian tradition has demarcated the soul as having emotions, mind, and volition or will.
@@ -287,7 +287,7 @@ Some people have erroneously imagined that we must separate out the spirit or sp
   - [1 Corinthians 14:15](https://biblehub.com/1_corinthians/14-15.htm)
 - It's possible to maintain an emotion-based, dead faith in the soul while performing no action in the body that may benefit the spirit.
   - [James 2:26](https://biblehub.com/james/2-26.htm)
-- If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](conflicts-christian-1_why.md) through several channels:
+- If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](people-conflicts-christian-1_why.md) through several channels:
   - Asceticism
     - [1 Timothy 4:1-3](https://biblehub.com/bsb/1_timothy/4.htm)
     [Colossians 2:20-23](https://biblehub.com/bsb/colossians/2.htm)
@@ -295,7 +295,7 @@ Some people have erroneously imagined that we must separate out the spirit or sp
     - [2 Peter 2:13-22](https://biblehub.com/bsb/2_peter/2.htm)
     - [Jude](https://biblehub.com/bsb/jude/1.htm)
 - [Spiritual exercises](spiritual-exercises.md) serve to strengthen and expand our relationship with God, but they're often *very* physical things (e.g., a [church service](church.md), [serving others](church-serve.md)).
-- As we work to operate our bodies according to spiritual purposes, we will face many [inner conflicts](conflicts-inner.md) and kill [bad habits](habits.md) along the way, but we never fully stop being "body-like".
+- As we work to operate our bodies according to spiritual purposes, we will face many [inner conflicts](people-conflicts-inner.md) and kill [bad habits](habits.md) along the way, but we never fully stop being "body-like".
   - [Romans 7:15-23](https://biblehub.com/bsb/romans/7.htm)
   - [Colossians 3:5-7](https://biblehub.com/bsb/colossians/3.htm)
 

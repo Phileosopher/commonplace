@@ -8,7 +8,7 @@ Broadly, the table of contents:
 1. Metaphysics: reality, existence, being, big meta stuff
 2. Epistemology: knowledge, knowing, understanding, values
 3. Axiology: values which connect with [purpose](purpose.md)
-4. Aesthetics: specific values regarding [beauty and art](image.md)
+4. Aesthetics: specific values regarding [beauty and art](people-image-why.md)
 5. Ethics: Specific values about [right and wrong](morality.md)
 6. Political Science: how everyone should [live together](jobs-specialization.md)
 7. Philosophy's Culture: broad matters of how philosophers [approach their craft](philosophy.md)

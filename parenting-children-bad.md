@@ -108,7 +108,7 @@ Underneath the facade, dysfunctional families share a similar attitude:
 
 - The group, family, or environment is responsible for changing, not the individual
 - While members feel controlled by others, they take responsibility for others' feelings, thoughts, and actions
-- [Conflicts](people-5_conflicts.md) are locked in a vicious cycle of blame toward other members
+- [Conflicts](people-conflicts.md) are locked in a vicious cycle of blame toward other members
 - Members can't set or enforce effective [boundaries](people-3_respect.md) to protect themselves
 
 Dysfunctional families adopt extreme roles:
@@ -121,6 +121,7 @@ Dysfunctional families adopt extreme roles:
   - Workaholic or addicted to a lifestyle
 
 Dysfunctional families always form a few major archetypes:
+
 - Hero
   - Expected to fix everything, and they usually rise to that challenge.
   - They usually outwork everyone and [succeed](success-1_why.md) tremendously, but are usually [addicted to something](addiction-substances.md), never feel good enough, and are rarely [satisfied](mind-feelings-happiness.md).
@@ -132,7 +133,7 @@ Dysfunctional families always form a few major archetypes:
   - They usually have trouble working with others or when others depend on them.
 - Clown/Mascot
   - They're trying to release all the stress of everyone else by being funny and entertaining.
-  - They tend to have trouble seriously discussing [in-depth issues](people-5_conflicts.md).
+  - They tend to have trouble seriously discussing [in-depth issues](people-conflicts.md).
 - Enabler/Caretaker
   - They assume responsibility for everyone else's possessions and actions.
   - Their greatest fear is for others to not need them.

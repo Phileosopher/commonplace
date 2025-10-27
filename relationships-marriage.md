@@ -12,10 +12,10 @@ In healthy marriages, both spouses make tremendous sacrifices for each other:
 All relationships build on trust:
 
 - Every relationship issue can be fixed with open [communication](language-speaking.md) and faithful behavior.
-  - As your relationship develops, you'll *always* find more [conflicts and disagreements](people-5_conflicts.md) you must sort out together.
+  - As your relationship develops, you'll *always* find more [conflicts and disagreements](people-conflicts.md) you must sort out together.
   - Open communication shows each person the other's thoughts and removes them having to guess.
 - If you don't trust them with your life, they have no reason to trust *you* with *their* life.
-  - Everyone is a little odd, so loving relationships require mutually accepting each other despite [disagreements](people-5_conflicts.md).
+  - Everyone is a little odd, so loving relationships require mutually accepting each other despite [disagreements](people-conflicts.md).
 
 ## Building the relationship
 
@@ -82,7 +82,7 @@ Don't compare your relationship:
 Protect yourself sexually:
 
 - Sex allows people to "reset" how they feel about their partner, which is crucial with marriage's constant conflicts.
-  - Since [dating](relationships-dating.md) doesn't have nearly as many issues, sex while dating will ruin your [conflict management skills](people-5_conflicts.md) for when the consequences get more severe.
+  - Since [dating](relationships-dating.md) doesn't have nearly as many issues, sex while dating will ruin your [conflict management skills](people-conflicts.md) for when the consequences get more severe.
 - If you *ever* break up, the deep intimacy that comes from sex will emotionally destroy you.
   - Only have sex with someone you're fully certain you'll be with for the rest of your life (i.e., marriage for life).
 - Even when you're desperate, sex with strangers is never worth the emotional pain, risks of venereal disease, and risks of an unwanted pregnancy.
@@ -122,7 +122,7 @@ Marriage involves sharing every aspect of daily life with your partner:
 - Bathroom use and shower times
 - [Dining/cooking](cooking.md) habits and [etiquette](people-rules.md)
 - Possessions like [cars](autos.md) and [real estate](homes-buysell.md)
-- Their punctuality, [productivity](success-4_routine.md), and [hygiene](people-2_image.md) habits
+- Their punctuality, [productivity](success-4_routine.md), and [hygiene](people-image.md) habits
 - [Shopping](money-saving.md) habits
 - Decisions to throw out, save or recycle
 - Climate control settings
@@ -150,7 +150,7 @@ Your extended families *will* play a role in your shared life:
 - Outside of [cultural norms](people-rules.md), you can involve or exclude your family as much as you want, but it's a shared decision with your partner.
 - If your in-laws aren't destructive or abusive, find value in time you must spend with them.
 - Say "no" to any boundaries they cross, especially about large decisions that affect *your* family.
-- Generally, keep [conflicts](people-5_conflicts.md) between the adult child and their direct extended family and away from in-laws whenever possible.
+- Generally, keep [conflicts](people-conflicts.md) between the adult child and their direct extended family and away from in-laws whenever possible.
 
 Your old friendships will change:
 
@@ -241,7 +241,7 @@ Every single marriage eventually has a rough period:
 A marriage "crisis" is the buildup of small issues:
 
 - An unhealthy marriage will draw children, friends, and extended family into the conflict and force them to choose a side.
-- Dysfunctional marriages end in divorce when one of the two has completely given up hope that they can resolve the relationship's [conflicts](people-5_conflicts.md):
+- Dysfunctional marriages end in divorce when one of the two has completely given up hope that they can resolve the relationship's [conflicts](people-conflicts.md):
   1. Both spouses imagine divorce is not even *possible*.
   2. They realize and become discouraged that marriage is harder than they expected.
   3. Both spouses find the marriage tedious and frustrating, but are waiting for improvement instead of talking out their feelings and concerns.
@@ -272,7 +272,7 @@ Even in a loveless marriage, staying married has some benefits:
   - For the [children](parenting-children.md) to grow up in a good home
   - [Financial stability](money-1_why.md)
   - A shared desire to not be alone to unwilling to start again with another [relationship](relationships-dating.md)
-  - The [reputation damage](image.md) from divorce or the extra work it creates
+  - The [reputation damage](people-image-why.md) from divorce or the extra work it creates
 - The best way to keep a loveless marriage is through detachment.
   - Detachment is setting difficult [boundaries](people-3_respect.md) that treat the spouse like a respected stranger.
   - Don't give advice or try to change them or their decisions.

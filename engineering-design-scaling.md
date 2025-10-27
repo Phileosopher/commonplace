@@ -77,12 +77,12 @@ Most of the time, UX developers follow safe fashions, but frequently they'll [ru
 - Designers have seen the same old, tired thing. They tend to not understand that the thing exists in its current form is because it was often *the* best way to do it, or they're disregarding conventions that everyone is used to.
 - When a new design trend or [technology](technology.md) becomes popular, designers tend to abuse it.
 - Sometimes, [managers](mgmt-1_why.md) will override the designers' professional experience, testing, and common sense based on their personal preferences or interests.
-- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](marketing.md) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](economics.md) through appealing to an [image](image.md) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](entrepreneur-1_why.md) elsewhere).
+- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](marketing.md) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](economics.md) through appealing to an [image](people-image-why.md) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](entrepreneur-1_why.md) elsewhere).
 
 There are plenty of examples of bad fashions:
 
 - Using touchscreens instead of buttons in [automotives](autos.md).
-- Having [internet-connected](networks-computer.md) devices that don't need to be connected to the internet.
+- Having [internet-connected](networks-cs.md) devices that don't need to be connected to the internet.
 - Aggressively auto-connecting Bluetooth when the user doesn't want it.
 - Giving "popular choices" that are *clearly* not popular.
 - Washing out the visual contrast for style reasons, but making it somewhat unreadable.

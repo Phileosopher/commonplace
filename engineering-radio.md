@@ -92,7 +92,7 @@ At the same time, streaming devices needed separate standards:
 - 802.11ay is a high-data, long-distance standard for a wide variety of uses.
   - 8×8 MU-MIMO, 8.64 MHz channel bandwidth, >45 GHz bands
 
-[IoT](networks-computer.md) had to have a separate sub-GHz spectrum for their low-data long-range needs:
+[IoT](networks-cs.md) had to have a separate sub-GHz spectrum for their low-data long-range needs:
 
 - 802.11af was for Television Very High Throughput (TVHT)
   - 4×4 DL-MU-MIMO, 6/7/8 MHz channel bandwidths, <1 GHz band

@@ -167,7 +167,7 @@ Periodically rebalance your portfolio.
 By [borrowing money](money-2_debt.md) to invest, you're *not* making a better investment or increasing the chances of gains.
 
 - All you're doing is magnifying the gains and losses that may materialize.
-- If your portfolio fails to satisfy a [contractual](people-6_contracts.md) value test, the lenders may demand their money back when the investment is lower than you want.
+- If your portfolio fails to satisfy a [contractual](people-contracts.md) value test, the lenders may demand their money back when the investment is lower than you want.
 - You'll always owe the money, but you won't always be able to *get* the money from others (even when their loans are technically safer than yours).
 
 Some people create *unbelievable* wealth by borrowing, but they're more often ruined.
@@ -288,7 +288,7 @@ The best time to invest is when large-scale events happen.
 - Every natural disaster is an opportunity to fund rebuilding.
 - Every economic crash will make debt collectors (e.g., repossessions) flourish.
 - A collapse of civil society increases the need for personal security and healthcare.
-- For centuries, [war](people-conflicts-war.md) has been one of the most profitable ways to profit (i.e., invest in the military supplies, then invest in rebuilding).
+- For centuries, [war](people-conflicts-war-why.md) has been one of the most profitable ways to profit (i.e., invest in the military supplies, then invest in rebuilding).
   - However, war funding is *highly* risky because there's too much vagueness and misinformation to accurately understand anything.
 
 When markets drop, [your feelings](mind-feelings.md) are your enemy.
@@ -339,7 +339,7 @@ Be careful with investment advice.
 Look at what people are *actually doing*, not what they say.
 
 - If a financial advisor is giving advice, their money comes from somewhere.
-- Numbers are simply [measurements of what people are doing](math.md), and [they can be manipulated](image-distortion.md).
+- Numbers are simply [measurements of what people are doing](math.md), and [they can be manipulated](people-image-distortion.md).
 - Being realistic is the best way to prevent following an overheated market into a crash.
 
 No matter how elite or prestigious it sounds, it's likely that many people will follow a popular media personality's recommendation, even though potentially [millions of others are doing the same thing](money-investing-risk.jpg).
@@ -460,5 +460,5 @@ Criminally [prosecuting](legal-safety.md) over securities fraud is difficult.
 
 - Someone can frequently misstate the truth, then say it enough times they actually believe it.
 - It's easy to legally prove that someone didn't state the truth, but *very* challenging to prove they [lied](people-lying.md).
-- A society that's free enough to allow private investing is also usually free enough that people can make [bad deals](people-6_contracts.md).
+- A society that's free enough to allow private investing is also usually free enough that people can make [bad deals](people-contracts.md).
 - Further, there are numerous bad lawsuits because hiring a good lawyer at $250K to sue someone who *might* be blamed is *very* worth the cost if an organization loses $200M.

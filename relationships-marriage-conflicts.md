@@ -16,7 +16,7 @@ A. Raise your issues early:
 - Ask yourself openly why you feel upset.
 - Don't overthink it, since they probably see the problem from their point of view as well.
   - Gently approaching issues is difficult if you've spent lots of time thinking about it without feedback.
-- Expect they want to resolve the [conflict](people-5_conflicts.md) as much as you.
+- Expect they want to resolve the [conflict](people-conflicts.md) as much as you.
   - If you have a grudge with them, they're entitled to one with you as well.
   - [Release your resentment](mind-feelings-happiness-stress.md) with them, and openly express if you have any.
 
@@ -50,7 +50,7 @@ C. Respect them and their views:
 D. Stay on topic:
 
 - Stay on *one* topic at a time.
-- [Conflicts](people-5_conflicts.md) are a shared battle against an issue, *not* between you and your partner.
+- [Conflicts](people-conflicts.md) are a shared battle against an issue, *not* between you and your partner.
 - Honestly share your thoughts and feelings.
   - Expect them to not understand the first time.
   - If it may hurt them, apologize in advance.
@@ -61,7 +61,7 @@ D. Stay on topic:
   - If you're overwhelmed or it becomes too severe, ask for time to calm down or reschedule the discussion.
 - Establish healthy boundaries.
   - If they say hurtful or abusive things, leave the conversation and specify when you'll revisit it.
-  - If they demand you stay in the [conflict](people-5_conflicts.md), reschedule a specific time when you'll discuss the issue again.
+  - If they demand you stay in the [conflict](people-conflicts.md), reschedule a specific time when you'll discuss the issue again.
   - If they press the matter and don't honor your boundaries when you've indicated when you're revisiting it, leave immediately.
 
 E. Make a plan to resolve the issue:

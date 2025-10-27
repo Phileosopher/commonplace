@@ -16,10 +16,10 @@ Law and order
 
 Contracts and agreements
 
-- Never trust the [marketing](marketing.md): everyone [lies](people-lying.md) and [distort the truth](image-distortion.md) until you're [reading a contract](people-6_contracts.md).
+- Never trust the [marketing](marketing.md): everyone [lies](people-lying.md) and [distort the truth](people-image-distortion.md) until you're [reading a contract](people-contracts.md).
 - No matter what, [stay legally safe](legal-safety.md) by only consenting to what you understand.
 - Marketing lies are often *heavily* reinforced for the purpose of selling [debt](money-2_debt.md).
-  - Typically, they'll bind you into a predatory (but legal) [contract](people-6_contracts.md), though they'll never fully take away [your rights](people-boundaries.md).
+  - Typically, they'll bind you into a predatory (but legal) [contract](people-contracts.md), though they'll never fully take away [your rights](people-boundaries-why.md).
   - Some predatory contracts will create a situation that will function effectively like [indentured servitude](slavery.md).
 
 Communicating with others
@@ -30,13 +30,13 @@ Communicating with others
 
 Your data reputation
 
-- Pay close attention to *anything* that affects [your legal fiction](image-modern.md).
+- Pay close attention to *anything* that affects [your legal fiction](people-image-modern.md).
 - File your [yearly taxes](money-accounting.md), ideally by early February but *definitely* by April 15th.
 - *Constantly* [update your address](home-moving.md) every time you move, or use a PO box when you can.
 
 Society and in public
 
-- Make sure your [body odors](people-2_image.md) are at a minimum *every* day you're around other people.
+- Make sure your [body odors](people-image.md) are at a minimum *every* day you're around other people.
 - Whatever you eat will make it into your body odor, so wash at least once a day.
 
 ## What you should do
@@ -47,9 +47,9 @@ Law and order
 
 Contracts and agreements
 
-- Distrust *any* [contract](people-6_contracts.md) you sign until it's been thoroughly explained to you.
+- Distrust *any* [contract](people-contracts.md) you sign until it's been thoroughly explained to you.
 - If you still aren't sure and anything significant depends on it, get assistance interpreting it by a legal professional.
-- Have a network of experts for the variety of needs you may run across (e.g., [accounting](money-accounting.md), [insurance](money-insurance.md), [law](people-6_contracts.md), etc.).
+- Have a network of experts for the variety of needs you may run across (e.g., [accounting](money-accounting.md), [insurance](money-insurance.md), [law](people-contracts.md), etc.).
 
 Purchasing products
 
@@ -76,7 +76,7 @@ Protecting your things
 
 Save records of all relevant correspondence.
 
-- Record every important [business engagement](people-6_contracts.md) or [accident](safety-accidents.md) you experience (e.g., security camera, phone recordings, dashcam).
+- Record every important [business engagement](people-contracts.md) or [accident](safety-accidents.md) you experience (e.g., security camera, phone recordings, dashcam).
 
 Digitize all your documentation and keep it on secured cloud storage.
 

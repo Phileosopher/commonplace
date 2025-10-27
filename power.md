@@ -8,7 +8,7 @@ Power always comes through another perceived [purpose](purpose.md) and is the to
 - Present purposes, usually through things we can [manipulate](results.md) directly or gain through others' means.
 - Future purposes, based on our [predictions](imagination.md), for ourselves.
 - Things we [predict](imagination.md) *other* people might have a [purpose](purpose.md) for.
-- [Story](stories.md) adaptation, which alters the [image](image.md) of something to imply any of the previous things have more or less power.
+- [Story](stories.md) adaptation, which alters the [image](people-image-why.md) of something to imply any of the previous things have more or less power.
 
 Power is completely relative. For example, money is highly valuable only because everyone else finds it valuable, but is useless if nobody else finds value in it. Horse manure, on the other hand, is only valuable to specific people, but critical to the purposes those people possess.
 
@@ -18,7 +18,7 @@ Without [love](people-love.md), the only useful thing any person's purpose can e
 
 ## Power's basis
 
-Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](people-decisions.md). It can come from [family/group reputation](image.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](people-decisions.md) would yield.
+Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](people-decisions.md). It can come from [family/group reputation](people-image-why.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](people-decisions.md) would yield.
 
 APPLICATION: Power is somewhat randomly distributed to each of us through [upbringing](people-family.md) and [personality](personality.md), but we can make [decisions](people-decisions.md) that determine how our power shifts over time.
 
@@ -29,14 +29,14 @@ APPLICATION: Power reflects on capacity for [purpose](purpose.md), so we can gai
 - Fully [understanding](understanding.md) a concept, especially something [specialized](jobs-specialization.md) or [philosophical](philosophy.md).
 - Raising a [child](maturity.md) or [teaching](education.md) others.
 - [Creating or improvising](mind-creativity.md) something.
-- Doing someone a [favor](people-friends.md).
+- Doing someone a [favor](people-friends-why.md).
 
 Power is typically expressed and interpreted through [symbolic](symbols.md) associations, and is a *massive* component of gaining [influence](influence.md) (which is a specific [type of power](power-types.md)).
 
 Money is tangible, but [most power isn't](power-types.md). We can't discern *precisely* how much power others have, so we tend to build a framework in our minds to estimate it:
 
 1. We guess how much power we have to accomplish our [purposes](purpose.md).
-2. We observe and trust the [image](image.md) of others' power to discern *their* power compared to ours.
+2. We observe and trust the [image](people-image-why.md) of others' power to discern *their* power compared to ours.
 3. Then, we make [decisions](people-decisions.md) based on a complex power calculus to achieve [results](results.md) we want to see.
 4. After we see what happened, we correct our [prediction](imagination.md) later of others as we gain [experience](understanding.md).
 
@@ -68,9 +68,9 @@ We tend to [feel](mind-feelings.md) power when we observe [results](results.md).
 
 Often, we have *tons* of power but don't realize it because we're [unaware](awareness.md) of it. We'll frequently overlook these freedoms and privileges because we haven't made a tangible [purpose](purpose.md) that would use them.
 
-We are all susceptible to ridiculous mistakes, but power compounds them. With enough power, we can build a [public image](image.md) that will follow us for decades. If we don't respect that power, we may [mismanage](mgmt-badsystems.md) it. All attributes of [virtue](morality.md) or [evil](morality-evil.md) exist in how we manage our power.
+We are all susceptible to ridiculous mistakes, but power compounds them. With enough power, we can build a [public image](people-image-why.md) that will follow us for decades. If we don't respect that power, we may [mismanage](mgmt-badsystems.md) it. All attributes of [virtue](morality.md) or [evil](morality-evil.md) exist in how we manage our power.
 
-We tend not to give much [respect](image.md) to [children](maturity.md) because they don't have the experience of managing power, and therefore misuse it. This can persist with adults who behave like children as well.
+We tend not to give much [respect](people-image-why.md) to [children](maturity.md) because they don't have the experience of managing power, and therefore misuse it. This can persist with adults who behave like children as well.
 
 As we manage power, we become more confident with it, and tend to see ourselves as more entitled to wield it. The reverse is true as well, and *not* managing power makes us more inclined to not manage it. The only people who don't have power but can still comfortably work with it have *other* power from an unrelated domain that they've been able to manage.
 
@@ -78,13 +78,13 @@ As we manage power, we become more confident with it, and tend to see ourselves 
 
 Using [technology](technology.md), [creations](creations.md), and [others' labor](groups-small.md) will compound our power [exponentially](math.md).
 
-Very frequently, we trade our power from one to another (e.g., a wage is renting out time in exchange for money). That trade usually leans toward the thing we [believe](understanding-certainty.md) is less available (scarcity). This is all about [perception](image.md), not [reality](reality.md), and some people [abuse appearances](image-distortion.md) to gain power.
+Very frequently, we trade our power from one to another (e.g., a wage is renting out time in exchange for money). That trade usually leans toward the thing we [believe](understanding-certainty.md) is less available (scarcity). This is all about [perception](people-image-why.md), not [reality](reality.md), and some people [abuse appearances](people-image-distortion.md) to gain power.
 
-There are many forms of power trading, but maintaining an [image](image.md) is often physically the same thing as a [loving](people-love.md) person's [actions](results.md):
+There are many forms of power trading, but maintaining an [image](people-image-why.md) is often physically the same thing as a [loving](people-love.md) person's [actions](results.md):
 
-- Giving gifts to others we favor can gain [reputation](image.md)
+- Giving gifts to others we favor can gain [reputation](people-image-why.md)
 - Sacrificing time with others can gain [knowledge](understanding.md)
-- Submitting or subordinating to a stronger person can gain [favor](image.md)
+- Submitting or subordinating to a stronger person can gain [favor](people-image-why.md)
 
 With the exception of [love](people-love.md), nobody ever intentionally gives up their power without gaining what we see as an [alternate power](power-types.md) (i.e., an opportunity), [love](people-love.md) for someone else, or to [protect](safety.md) a [future loss](imagination.md) in power (driven by [fear](mind-feelings-fear.md)).
 
@@ -92,17 +92,17 @@ APPLICATION: Battery [technology](technology.md) and guns will never be as influ
 
 We often sacrifice for future power as much as present power, which is the basis for [entrepreneurship](socialrisk.md) and [success in the world](results.md).
 
-We typically can't [predict](imagination.md) things beyond our [perceptions](image.md), so we frequently trade power that creates poor long-term [results](results.md).
+We typically can't [predict](imagination.md) things beyond our [perceptions](people-image-why.md), so we frequently trade power that creates poor long-term [results](results.md).
 
 APPLICATION: We must be sure we [understand](understanding.md) the entire situation before acting to avoid giving up power.
 
 Things like raw intellectual power or physical strength are useful forms of power, but power that enhances and magnifies *other* forms of power (e.g., [technology](technology.md), [influence](influence.md)) is far more effective in the long term.
 
-Most of our [decisions](people-decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries.md) with others and [adopting trends](trends.md).
+Most of our [decisions](people-decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries-why.md) with others and [adopting trends](trends.md).
 
-APPLICATION: Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
+APPLICATION: Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts-why.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
 
-[Image](image.md) is easier to curate than [reality](reality.md) and has more [social benefits](influence.md), so people typically desire to gain externally facing power over inner strengths. However, wise decision-making tends to value inner strength because it has much more long-term use.
+[Image](people-image-why.md) is easier to curate than [reality](reality.md) and has more [social benefits](influence.md), so people typically desire to gain externally facing power over inner strengths. However, wise decision-making tends to value inner strength because it has much more long-term use.
 
 ## Comparing power
 
@@ -112,11 +112,11 @@ If we [desire](purpose.md) others' power, we [envy](morality-evil.md) them.
 
 People only want others to be wildly successful, up to a certain point:
 
-- First, many people are [afraid](mind-feelings-fear.md) of risks to *their* power, so they try to destroy perceived [competition](people-conflicts.md).
+- First, many people are [afraid](mind-feelings-fear.md) of risks to *their* power, so they try to destroy perceived [competition](people-conflicts-why.md).
 - Even without that, when their opponents haven't attained a perceived [social status](groups-member.md) they [believe](understanding-certainty.md) that person should have attained, their [conceit](morality-evil.md) often makes them envious or jealous.
 - Hardly any people find satisfaction with other people outperforming them. Any non-[evil](morality-evil.md) satisfaction requires [loving](people-love.md) them.
 
-APPLICATION: People don't want others to be *more* [successful](success-1_why.md) than they are, so most people with [wisdom](understanding.md) frequently [obscure](image.md) how much power they really have.
+APPLICATION: People don't want others to be *more* [successful](success-1_why.md) than they are, so most people with [wisdom](understanding.md) frequently [obscure](people-image-why.md) how much power they really have.
 
 Power pertaining to others' [wills](purpose.md) is also known as "politics". Making other people [successful](success-1_why.md) adds political power, and making [unpopular decisions](trends.md) decreases it.
 
@@ -132,20 +132,20 @@ APPLICATION: Generally, people with less power and know it are far more [dangero
 
 As a privilege, every aspect of power also comes with responsibility. We often overlook that responsibility aspect because we [fantasize](imagination.md) over the [gains](purpose.md) we could make, and the cost is typically far greater than we'd be willing to pay if we were [aware](understanding.md) of it.
 
-APPLICATION: Focusing solely on one power sacrifices other qualities of [the good life](goodlife.md). The desire for additional power should point to non-power things. However, most people [wish](purpose.md) to learn it firsthand by becoming [wealthy](money-1_why.md) or [popular](image.md) first, at the risk of their [moral state](morality.md).
+APPLICATION: Focusing solely on one power sacrifices other qualities of [the good life](goodlife.md). The desire for additional power should point to non-power things. However, most people [wish](purpose.md) to learn it firsthand by becoming [wealthy](money-1_why.md) or [popular](people-image-why.md) first, at the risk of their [moral state](morality.md).
 
 ## Overpowering
 
-People engage in [conflicts](people-conflicts.md) to overpower someone else when several conditions are met at once:
+People engage in [conflicts](people-conflicts-why.md) to overpower someone else when several conditions are met at once:
 
 1. The attacker doesn't care how the defender would [feel](mind-feelings.md).
 2. The [calculated](math.md) benefit of the attacker is greater by attacking than not.
 3. The attacker, if defeated, can recover from their loss.
 4. Any other possible conflicts from observers won't leave the attacker worse off than by attacking.
 
-Typically, to [negotiate](people-conflicts-negotiation.md), the attacker will show something [symbolic](symbols.md) to convey their superior power (e.g., a weapon, [language](language.md) implying the defender could be destroyed). If the defender gives up without a fight, then everyone experiences less pain and loss overall. This is why [slavery](slavery.md) is such a common institution and why [political journalists](stories-storytellers.md) focus on making their opponent [look](image.md) bad.
+Typically, to [negotiate](people-conflicts-negotiation.md), the attacker will show something [symbolic](symbols.md) to convey their superior power (e.g., a weapon, [language](language.md) implying the defender could be destroyed). If the defender gives up without a fight, then everyone experiences less pain and loss overall. This is why [slavery](slavery.md) is such a common institution and why [political journalists](stories-storytellers.md) focus on making their opponent [look](people-image-why.md) bad.
 
-Vulnerability is our willingness to [trust](understanding-certainty.md) that others won't damage our power. We tend to be less vulnerable when we're [afraid](mind-feelings-fear.md) of others, especially from [past trauma](hardship-ptsd.md). The more power we have, the higher the risk of loss, and the less we trust. People tend to believe confidence is a sign of significant power because they [look like](image.md) they'll recover from any loss, which means they must have more power.
+Vulnerability is our willingness to [trust](understanding-certainty.md) that others won't damage our power. We tend to be less vulnerable when we're [afraid](mind-feelings-fear.md) of others, especially from [past trauma](hardship-ptsd.md). The more power we have, the higher the risk of loss, and the less we trust. People tend to believe confidence is a sign of significant power because they [look like](people-image-why.md) they'll recover from any loss, which means they must have more power.
 
 Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](economics.md) and [evolutionary theory](science-life.md), but there's very little value to knowing it on an individual basis.
 
@@ -161,13 +161,13 @@ All power has the [opportunity cost](people-decisions.md) of another power:
 - Being larger and stronger means slower and less mobile.
 - Speed sacrifices safety.
 - [Leadership skills](groups-small.md) mean building fewer [member](groups-member.md) skills.
-- [Fame](image.md) costs almost all [privacy](people-boundaries.md), and maintaining it requires constantly [adopting trends](trends.md).
+- [Fame](people-image-why.md) costs almost all [privacy](people-boundaries-why.md), and maintaining it requires constantly [adopting trends](trends.md).
 
 Trying to maintain power can also create very unpleasant consequences:
 
 - [Addiction](addiction.md) is devoting *all* power to gaining a specific substance.
 - Hoarding is not seeing that past-tense power is not presently [useful](purpose.md).
-- By withholding or gaining [knowledge](understanding.md), we often risk [reputation](image.md).
+- By withholding or gaining [knowledge](understanding.md), we often risk [reputation](people-image-why.md).
 - Every form of power is subject to [diminishing return](results.md) as it scales.
 - All power beyond ourselves makes us [slaves](slavery.md) to others' [results](results.md), even when we're in positions of [authority](groups-small.md).
 - The more power you have, the more you [can lose](safety.md) and the less [aware](awareness.md) you become of *other* [forms of power](power-types.md).

@@ -33,7 +33,7 @@ Instead, focus on yourself and your safety:
 
 Keep yourself safe:
 
-- Learn to handle [conflicts](conflicts-inner.md) with your abuser as they arise.
+- Learn to handle [conflicts](people-conflicts-inner.md) with your abuser as they arise.
 - Find ways to create distance from anyone who abuses you.
   - Try to create distance from the people who *enable* that abuse as well.
 - If you don't take time and effort to self-heal, you'll often abuse back, and the situation will typically worsen.

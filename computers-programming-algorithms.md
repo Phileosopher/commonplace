@@ -16,7 +16,7 @@ In computers, algorithms and [data structures](data-structures.md) work hand-in-
 
 Unfortunately, it's difficult to imagine a verb without a noun, and a noun without a verb isn't very useful, which is why the concepts are often merged. Further, some algorithms are designed for specific data structures, further adding complexity.
 
-Hiding an actual calculation for an algorithm is a very effective way to [distort how things appear](image-distortion.md). The people who run most [computer technologies](technology.md) over a network can often tweak information for various reasons from what it legitimately was expressing.
+Hiding an actual calculation for an algorithm is a very effective way to [distort how things appear](people-image-distortion.md). The people who run most [computer technologies](technology.md) over a network can often tweak information for various reasons from what it legitimately was expressing.
 
 Whenever a computer receives information and converts it into something else, it uses an algorithm of *some* sort. It can create strange consequences, so it can be helpful for most people to broadly understand what algorithms even are and what they do.
 
@@ -84,7 +84,7 @@ Because of the ubiquity of encryption (as well as the constant changes from all 
 
 ## Compression algorithms
 
-To send [files](computers-files.md) across a [network](networks-computer.md) or [store long-term](computers-memory.md) without using it, it makes sense to cut down on as much space as possible.
+To send [files](computers-files.md) across a [network](networks-cs.md) or [store long-term](computers-memory.md) without using it, it makes sense to cut down on as much space as possible.
 
 To do this, compression algorithms essentially run a sequential process of shrinking all the data:
 

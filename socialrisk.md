@@ -12,9 +12,9 @@ We tend to make [calculated decisions](people-decisions.md) and assessment about
 
 We end up either trusting that we'll yield [meaningful](meaning.md) [results](results.md), or we don't bother starting it.
 
-Unfortunately, people often don't have the same [values](values.md) or [purposes](purpose.md) as us. This can be the source of many [conflicts](people-conflicts.md) and can discourage us from future endeavors.
+Unfortunately, people often don't have the same [values](values.md) or [purposes](purpose.md) as us. This can be the source of many [conflicts](people-conflicts-why.md) and can discourage us from future endeavors.
 
-Every time we [create](creations.md) things that may affect others, we risk our [expectations](imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](image.md) over time.
+Every time we [create](creations.md) things that may affect others, we risk our [expectations](imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](people-image-why.md) over time.
 
 Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](people-decisions.md) calculating between what we like and the chances other people will like it.
 
@@ -30,7 +30,7 @@ These people will then make sacrifices toward finding an interest that fulfills 
 2. Other people like it, but it's not fulfilled by existing [solutions](results.md).
 3. Other people are willing to give [power](power.md) to them for it, especially in the [form](power-types.md) of money.
 
-APPLICATION: Most people *can't* be entrepreneurs because they're not willing to make the sacrifices to [friendships](people-friends.md) and other [purposes](purpose.md) to achieve it.
+APPLICATION: Most people *can't* be entrepreneurs because they're not willing to make the sacrifices to [friendships](people-friends-why.md) and other [purposes](purpose.md) to achieve it.
 
 ## Idea
 
@@ -42,7 +42,7 @@ To meet all these criteria at once usually requires focused [creativity](mind-cr
 
 Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](awareness.md), and often exists within [nature](reality.md).
 
-One *severe* requirement of these people succeeding is that they have a high [conscientiousness](personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts.md) from the surrounding [culture](people-culture.md).
+One *severe* requirement of these people succeeding is that they have a high [conscientiousness](personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
 
 The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume, but if it fulfills a niche (e.g., phone cases) most people won't want it so it will require more [searching and advertisement](marketing.md).
 
@@ -64,8 +64,8 @@ People often attribute this entire experience to [entrepreneurship](entrepreneur
 - Colonizing unoccupied territory (though it's not as common anymore now that the planet has been largely settled)
 - [Scientists](science.md) pursuing [unpopular](trends.md) ideas
 - Running a church or not-for-profit organization (i.e., it's a for-profit organization where the [accounting](money-accounting.md) separates profit from expenses)
-- Government organizations which will lose [power](power.md) if they fail or face [competition](people-conflicts-war.md) from the private sector or other nations
-- Making a government coup or declaring [war](people-conflicts-war.md)
+- Government organizations which will lose [power](power.md) if they fail or face [competition](people-conflicts-war-why.md) from the private sector or other nations
+- Making a government coup or declaring [war](people-conflicts-war-why.md)
 
 While they're usually fulfilling a very specific [specialization](jobs-specialization.md) that's a niche of a niche, they don't typically start that way. Instead, they're doing dozens of tiny tasks across a broader range of disciplines, since nobody else has specialized in that way yet, and they're typically running a tiny operation. As their organization [grows](groups-small.md), they can hand off work, but not at first.
 
@@ -111,7 +111,7 @@ However, the [establishment](groups-large.md) is always fighting a losing battle
 
 APPLICATION: Since every success story has *many* failure stories attached elsewhere to it, pay close attention to unlikely circumstances that they were entrenched in. Imitating them won't get you to their status, but [trusting](understanding-certainty.md) in the same kind of [luck](unknown.md) they played certainly will.
 
-It never works indefinitely, though. It only persists as long as the public remains [unaware](understanding.md) of how the new trend's benefits outweigh its risks. Both sides (innovator and old group) will make huge [political shows](image-distortion.md) of [their side](stories-storytellers.md) of the situation.
+It never works indefinitely, though. It only persists as long as the public remains [unaware](understanding.md) of how the new trend's benefits outweigh its risks. Both sides (innovator and old group) will make huge [political shows](people-image-distortion.md) of [their side](stories-storytellers.md) of the situation.
 
 APPLICATION: If you're going to take a risk, keep your head down and stay as undetected as you can for as long as possible. Once you start making [ripples across society](trends.md), expect the [big and established systems](mgmt-badsystems.md) to come after you with [everything they have](people-rules.md).
 
@@ -134,13 +134,13 @@ APPLICATION: Social risk requires scarcity. When people don't have a shortage, t
 
 Unfortunately, [history](stories-storytellers.md) tends to forget that aspect. We see the end of the [story](stories.md) as we [consume it](creations.md), so we can often overlook how it [felt](mind-feelings.md) in the middle of it, as well as the *many* stories of failed attempts for every [success story](success-1_why.md).
 
-A person can lose tremendous [power](power.md) in a giant risk, as well as their willingness to try [new things](image.md), so most raw risk-takers are [younger people](maturity.md) in their 20s and 30s. When people get older, they frequently have too much to lose for it to be [worthwhile](purpose.md) for them.
+A person can lose tremendous [power](power.md) in a giant risk, as well as their willingness to try [new things](people-image-why.md), so most raw risk-takers are [younger people](maturity.md) in their 20s and 30s. When people get older, they frequently have too much to lose for it to be [worthwhile](purpose.md) for them.
 
 Further, even a tremendously successful risk-taker can become *very* [risk-averse](safety.md) as they [age](maturity.md). It may be because they've gained enough [power](power.md) they have something to lose, or that they're fatigued from all the existing loss they've already incurred.
 
 ## Incubating
 
-It's in [large groups'](groups-large.md) best interests (e.g., governments, massive corporations) to foster risk-takers. Besides cutting down on competition (since they're profiting directly from it and gaining [favor](people-friends.md)) they can often build and [frame](image.md) the new [trends](trends.md) themselves instead of fighting them later.
+It's in [large groups'](groups-large.md) best interests (e.g., governments, massive corporations) to foster risk-takers. Besides cutting down on competition (since they're profiting directly from it and gaining [favor](people-friends-why.md)) they can often build and [frame](people-image-why.md) the new [trends](trends.md) themselves instead of fighting them later.
 
 Unfortunately, no reliable system can "make" risk-takers. Risk-taking is an [attitude](purpose.md) more than [understanding](understanding.md), so the creators are experiencing a highly personal [journey](stories.md) of self-discovery as they [influence](influence.md) their environment.
 

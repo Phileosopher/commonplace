@@ -130,7 +130,7 @@ Giving blessing, healing, or authority with physical contact.
 
 ### The Peace
 
-A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](people-5_conflicts.md).
+A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](people-conflicts.md).
 
 Inspired by Jesus' command to leave your gift at the altar and find closure first ([Matthew 5:23-24](https://biblehub.com/bsb/matthew/5.htm)).
 

@@ -13,13 +13,13 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
 
 1. When you receive a government-issued identification card, that government has created a legal entity that has your name in all-capital letters (a "legal fiction").
    - This entity is nothing more than a documented name with a few linking concepts like date of birth, city of birth, driver's license number, etc.
-2. In places where that system has matured (e.g., USA) that legal entity is influenced *every* time a [formal agreement](people-6_contracts.md) is made or amended:
+2. In places where that system has matured (e.g., USA) that legal entity is influenced *every* time a [formal agreement](people-contracts.md) is made or amended:
    - Rental and mortgage agreements
    - Bank accounts and [lines of credit](money-2_debt.md)
    - Financial purchases with any card associated to your name
    - [Insurance](money-insurance.md)
    - [School](education.md) attendance
-   - [Telecom](networks-computer.md) and utility agreements (e.g., cell phone, cable TV)
+   - [Telecom](networks-cs.md) and utility agreements (e.g., cell phone, cable TV)
    - Hospital and [healthcare](body-4_health.md) visits
    - Official [employment](jobs-1_why.md)
    - Government records, including tax filings and driver's license/vehicle registration
@@ -29,7 +29,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Car rentals, [auto](autos.md) repairs
    - Mass transit (bus, airline, etc.)
    - Customer loyalty cards
-3. Anything that affects that legal entity (change in terms, termination, late payment, new agreements, etc.) is your [reputation](image.md).
+3. Anything that affects that legal entity (change in terms, termination, late payment, new agreements, etc.) is your [reputation](people-image-why.md).
    - Multiple organizations track those legal arrangements (e.g., LexisNexis, Equifax, Experian, TransUnion).
    - Many *other* organizations request reports for $20-350 per individual from those tracking entities, context-depending.
    - Nobody individually sees *how* the situation unfolded, but they do see dates and events corresponding to the decisions they are required to make, going back a fixed number of years to the date.
@@ -40,7 +40,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - The Gramm-Leach-Bliley Act typically requires a privacy notice disclosure (initial and annually), an opt-out notification for information sent to an unaffiliated third party, and clarified data security procedures.
    - You can generally request the information available to you through [precedents](legal-doctrines.md) established in the Freedom of Information Act (FOIA) and Fair Credit Reporting Act (FCRA).
    - However, you typically have no control over that information disseminating.
-5. If you don't work with that system (e.g., [lying](people-lying.md), failure to perform [your end of the contract](people-6_contracts.md)), you'll be quickly gray listed or blacklisted.
+5. If you don't work with that system (e.g., [lying](people-lying.md), failure to perform [your end of the contract](people-contracts.md)), you'll be quickly gray listed or blacklisted.
    - You may lose the opportunity to get a bank account, access the internet, or get a [loan](money-2_debt.md).
 6. Further, depending on what you've done, almost any entity can conduct a skip trace to find you.
    - Bail bondsmen, lawyers, legal personnel, process servers
@@ -59,7 +59,7 @@ To that end, your reputation involves a few arcane tasks:
    - When it doesn't matter much, use "standard" institutional services (e.g., mainstream large-scale [insurance](money-insurance.md), large branded banks).
 2. Keep your reputation clear with large entities.
    - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
-   - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-6_contracts.md) with another organization and terminate that one.
+   - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
 3. Watch for the people who abuse this knowledge.
    - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](computers-cysec.md).
    - There are [*many* laws](legal-doctrines.md) around most situations where this information could be misused, so it's not common.
@@ -115,5 +115,5 @@ This also creates many practical implications:
 
 [Culturally](people-culture.md), many people [identify](identity.md) themselves by their discrete, arbitrary measurement.
 
-- The scoring is based on the approval of the people who may render a [mutual benefit](people-6_contracts.md) to you.
+- The scoring is based on the approval of the people who may render a [mutual benefit](people-contracts.md) to you.
 - There is *no* [direct meaning](goodlife.md) from having a great insurance score, credit score, or health score.

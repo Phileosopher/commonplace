@@ -97,17 +97,17 @@ Christianity and society have a unique [trend](trends.md) across centuries that 
 First, every society is relatively open to missionaries and new Christians:
 
 - Except for some opponents, the public will coexist peacefully with Christians if they keep to themselves and limit how much they [share the Gospel](evangelism.md).
-- While some groups (e.g., witch doctors, idol crafters) will protest, Christians will still have their normal [civil liberties](people-boundaries.md) available to them.
+- While some groups (e.g., witch doctors, idol crafters) will protest, Christians will still have their normal [civil liberties](people-boundaries-why.md) available to them.
 
 Eventually, the Satan will inspire people to reject Christians:
 
-- That society will reject [Jesus' message](jesus-gospel.md), not the Christians themselves, but they'll usually [imply](image-distortion.md) the Christians deserved it.
+- That society will reject [Jesus' message](jesus-gospel.md), not the Christians themselves, but they'll usually [imply](people-image-distortion.md) the Christians deserved it.
 - It'll be publicly shameful (maybe even [taboo](morality-taboo.md)) to profess a faith in Jesus.
 - Since the Satan is constantly [rearranging his strategy](spiritual-warfare-tricks.md), this will *never* show predictably, and the culture defines how it'll express itself.
 
 From there, Christians will start incurring public [shame](mind-feelings-shame.md):
 
-- They'll start losing their [status and reputation](image.md) in their [communities](groups-small.md).
+- They'll start losing their [status and reputation](people-image-why.md) in their [communities](groups-small.md).
 - [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
 - Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-4_friends.md) will slowly alienate them.
 - Officials will forbid or restrict certain Christian practices like [public evangelism](evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
@@ -150,7 +150,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 - Our relationship with God should be *irrespective* of this world, not as a reaction to it.
 - It's the same [disciplines](spiritual-exercises.md) of [prayer](spiritual-exercises-prayer.md) and [Bible study](bible-study.md) as Christianity in the free world but has a *much* deeper significance, and with a more scattered [church experience](church.md).
-- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](conflicts-christian-1_why.md).
+- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](people-conflicts-christian-1_why.md).
 
 "Liberal" Christianity can never survive persecution:
 
@@ -187,7 +187,7 @@ Persecution is practically measurable on a chart, and falls into the same predic
 
 1. Public [shaming](mind-feelings-shame.md) and ridicule
 2. Verbal assault and screaming
-3. Violence and [taking away rights](people-boundaries.md)
+3. Violence and [taking away rights](people-boundaries-why.md)
 
 Beyond intentionally targeting Christians, persecution tends to happen through several major vectors:
 
@@ -202,7 +202,7 @@ Even the devil makes mistakes:
 
 Through all the hardship, the Holy Spirit will *still* shine through:
 
-- Christians will lose [families](people-family.md), [friends](people-4_friends.md), [reputations](image.md), and [opportunities](power.md), and they'll *still* be joyful.
+- Christians will lose [families](people-family.md), [friends](people-4_friends.md), [reputations](people-image-why.md), and [opportunities](power.md), and they'll *still* be joyful.
 - While the free world has a difficult time [imagining](imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
@@ -234,11 +234,11 @@ Respond to the world's attacks with Christ-like behavior:
    - It's new for us, but [not to God](https://theologos.site/god-sight/).
 7. Regardless of what happens, trust the Lord and let the Church aid you when it can.
    - God is *always* in control, even when you feel it's hopeless ([Matthew 28:20](https://biblehub.com/matthew/28-20.htm)).
-8. Even if the world [looks](image.md) [terrifying](mind-feelings-fear.md), it's not as scary as they imply.
+8. Even if the world [looks](people-image-why.md) [terrifying](mind-feelings-fear.md), it's not as scary as they imply.
    - They can only destroy your body ([Matthew 10:28](https://biblehub.com/matthew/10-28.htm)).
    - God has the power to build and destroy *everything* as He wishes, so you should pity them more than fear them.
 9. Expect the Satan to [work tirelessly](spiritual-warfare-tricks.md) to destabilize you.
-   - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](people-5_conflicts.md) the world's representatives.
+   - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](people-conflicts.md) the world's representatives.
 10. You're a representative of Christ, so act like it.
     - Worldly people often [know](understanding.md) that antagonizing you will provoke you to violence, which they can then justify action against.
     - Endure the suffering to show your new nature.
@@ -246,7 +246,7 @@ Respond to the world's attacks with Christ-like behavior:
     - Be prepared to confront [sin](morality-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
     - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
-12. Anticipate that the world will hate, [misrepresent](image.md), [misunderstand](understanding.md), misquote, and alienate you.
+12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
     - You can't [change their minds](people-changes.md) any more than they want.
@@ -255,9 +255,9 @@ The *specifics* on how believers can stand against authority depends heavily on 
 
 Learn how to speak carefully to keep secrets:
 
-- People who ask probing questions [have no right](people-boundaries.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
-- On the other hand, avoid [confrontations](people-5_conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
-- Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](image-distortion.md) which may [harm](safety.md) other believers.
+- People who ask probing questions [have no right](people-boundaries-why.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
+- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
+- Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](people-image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
   - State [the law](people-rules.md) when they ask your [purpose](purpose.md).
   - Give away as much information as possible that has nothing to do with the people you're protecting (e.g., less-relevant but highly private information like medication usage or sex life).
@@ -300,11 +300,11 @@ The most significant battle in prison is within your mind:
 - The *fear* of things is always worse than the thing itself.
 - You can maintain your strength through your [love](people-love.md) for others and ability to handle pain, but only through the Holy Spirit ([Zechariah 4:6](https://biblehub.com/zechariah/4-6.htm)).
 - The only way to resist [brainwashing](power-influence.md) and [indoctrination](culture-cults.md) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
-- Many prisons are run by [image distortion](image-distortion.md) experts who fully control the prisoners' environment.
+- Many prisons are run by [image distortion](people-image-distortion.md) experts who fully control the prisoners' environment.
 
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:
 
-- At specific thresholds, we lose our capacity to detect [our reputations](image.md), then other people in general, then finally even [the presence of God](god.md).
+- At specific thresholds, we lose our capacity to detect [our reputations](people-image-why.md), then other people in general, then finally even [the presence of God](god.md).
 - At those times, we must [focus on](awareness.md) the present moment and God within it to find peace in the pain.
 - The most important thing to focus on is steady breathing.
 - All the sacrifice must be a matter of love and duty to the Church, *not* just survival.

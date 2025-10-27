@@ -64,7 +64,7 @@ Never let each team or sub-team surpass 4-8 people.
 - Going past a team consisting of a few people guarantees multiple problems at once:
   - [Communicating](mgmt-5_communication.md) to everyone at once becomes far more complex and time-consuming.
   - People won't feel like their contribution means much, so some members won't adequately perform their roles.
-  - There will be unavoidable [personality](personality.md) [conflicts](people-5_conflicts.md), *especially* when trying to achieve group consensus.
+  - There will be unavoidable [personality](personality.md) [conflicts](people-conflicts.md), *especially* when trying to achieve group consensus.
   - The [corporate culture](groups-small.md) of large groups tends to generate enough [peer pressure](power-influence.md) that everyone will be more likely to resist [change](people-changes.md).
 - If you expect your team needs more than 8 people, break apart the tasks into more explicitly-defined specializations.
   - You can make as many teams as you want, as long as your team *leads* communicate with each other.
@@ -80,7 +80,7 @@ Each role should have overlapping tasks with other people.
 Clarify each role with a full job description:
 
 - Even if you're working informally with others you know personally beforehand, a job description clarifies expectations.
-  - It's a lightly enforceable [contract](people-6_contracts.md) that keeps the manager safe from misunderstood expectations and the subordinate safe from coercion or abuse.
+  - It's a lightly enforceable [contract](people-contracts.md) that keeps the manager safe from misunderstood expectations and the subordinate safe from coercion or abuse.
   - Frame job descriptions around necessary performance more than required skills.
 - **Job title and duration** - the actual name of the role.
   - Look at other roles similar to what you need for inspiration, which may mean titling the role *last*.
@@ -130,7 +130,7 @@ There are several places to find new hires:
    - Gives *tremendous* breadth, but very little depth.
 3. Delegated to a placement agency.
    - They'll receive a commission if you hire them, but successful placement agencies will do a preliminary interview to see if you're a good fit.
-   - It adds another party to the arrangement, which can make the hiring process more complicated (e.g., constraints from the [right to represent](people-6_contracts.md)).
+   - It adds another party to the arrangement, which can make the hiring process more complicated (e.g., constraints from the [right to represent](people-contracts.md)).
 
 Focus on growth, impact, and care when [marketing](marketing.md) the job:
 
@@ -162,7 +162,7 @@ Consider your own [personality](personality.md) when hiring.
 
 While every potential candidate *could* do the job, aim for a [culture](people-culture.md) fit.
 
-- A diverse range of demographics ([age](maturity.md), [gender](gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-5_conflicts.md).
+- A diverse range of demographics ([age](maturity.md), [gender](gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-conflicts.md).
 - Diverse workplaces are *not* conducive to mindless tasks (e.g., factory work).
 - Pay close attention to how a candidate interacts with current members or leadership, since *any* social friction will magnify itself later.
   - At the same time, a neurodivergent (e.g., [ASD](https://books2read.com/autism/), Cluster B) in many industries is literally *the* most diverse hire you can acquire.
@@ -260,7 +260,7 @@ Do *not* fire someone on an impulse.
 
 - Firing should be the last action of a long process.
   - A termination is the direct loss of an investment, with the added bad faith (and [risks](safety-riskmgmt.md)) that comes with someone forcefully terminated.
-- Some people have bad days or [toxic arguments](people-5_conflicts.md), but one event alone is rarely enough that you should outright terminate them.
+- Some people have bad days or [toxic arguments](people-conflicts.md), but one event alone is rarely enough that you should outright terminate them.
 - If that worker has a [family](people-family.md), your termination will impact those people as well.
 - Unless that person is completely unproductive, firing and rehiring for the role is typically more resource-intensive than [giving that person more motivation to work](mgmt-6_morale.md).
 - In many places, firing someone may require you'll have to pay the government for their unemployment afterward.
@@ -275,7 +275,7 @@ Barring truly awful human behavior, you should *never* [want](purpose.md) for th
 The absence of someone in a necessary role can create extra costs and burden:
 
 - Missed deadlines and interrupted workflow.
-- Damaged [reputation](image.md) of the team and organization.
+- Damaged [reputation](people-image-why.md) of the team and organization.
 - Whatever knowledge or systems that person exclusively controlled will need someone else to do the same.
 - The extra stress can create more absences from other members.
 - Depending how the person left, it can disrupt the group's harmony and potentially cause others to leave as well.

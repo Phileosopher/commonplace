@@ -88,7 +88,7 @@ Making procedures involves parsing already-known things into language.
    - Before beginning the meeting or message, clarify you will *not* discipline any past-tense violations of the standard.
    - Often, the instructions were either written poorly enough that the workers didn't understand it or difficult to read.
    - End the meeting on good news by telling them what you removed from the instructions as well.
-10. Expect [conflicts](people-conflicts.md) and possible re-edits.
+10. Expect [conflicts](people-conflicts-why.md) and possible re-edits.
     - If people are [accustomed to the old way of doing things](habits.md), and it isn't creating adverse consequences, let them deep doing it.
     - If people don't like the change, clearly and candidly ask them why.
 11. Draw extra attention for at least the next few months to divergences from the reviewed tasks from that meeting.

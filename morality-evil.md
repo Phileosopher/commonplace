@@ -3,7 +3,7 @@
 
 We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
 
-Evil is discomforting to us, so we tend to [politicize](image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](people-decisions.md) or groups may be evil.
+Evil is discomforting to us, so we tend to [politicize](people-image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](people-decisions.md) or groups may be evil.
 
 We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](people-decisions.md) in a situation.
 
@@ -13,7 +13,7 @@ Evil always has a few elements:
 
 1. An active [decision](people-decisions.md) or [plan](imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
 2. Self-interested [gain](purpose.md) for the decider or desire to destroy another living being.
-3. If it's [performed](results.md), pain for the victim through [unjustly](morality-justice.md) violating their [boundaries](people-boundaries.md).
+3. If it's [performed](results.md), pain for the victim through [unjustly](morality-justice.md) violating their [boundaries](people-boundaries-why.md).
 
 Any [value](values.md) which isn't a [virtue](morality.md) can become evil if it's taken to excess:
 
@@ -49,9 +49,9 @@ APPLICATION: Every child is born with the capacity to be evil, so society will *
 
 As we [grow](maturity.md), continuing to care more about ourselves than others will develop that selfishness into evil. In that sense, everyone is born a little evil and must be trained against it by their [parents](people-family.md) by demonstrating how our [actions can affect others](results.md).
 
-Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries.md). Some people may debate an infant's [understanding](understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
+Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries-why.md). Some people may debate an infant's [understanding](understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
 
-When we become [aware](awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](image-distortion.md) further.
+When we become [aware](awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
 
 APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
@@ -67,19 +67,19 @@ Evil decisions require [power](power.md) to perform it. Otherwise, the only evil
 
 Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](people-decisions.md), then committing them to [habit](habits.md):
 
-1. Ignore when [other people say "no"](people-conflicts.md), which requires intentionally not [observing them](image.md).
+1. Ignore when [other people say "no"](people-conflicts-why.md), which requires intentionally not [observing them](people-image-why.md).
 2. Attack anyone who enforces their [rights](morality-justice.md) or questions your [privileges](results.md).
 3. Withhold from anyone who needs anything.
 4. Exercise every privilege as far as you [feel](mind-feelings.md) like.
-5. [Hide](image-distortion.md) anything that may threaten your [power](power.md) as much as possible, then [blame others](image-distortion.md) for anything others discover.
+5. [Hide](people-image-distortion.md) anything that may threaten your [power](power.md) as much as possible, then [blame others](people-image-distortion.md) for anything others discover.
 6. Insult and degrade anyone you [dislike](mind-feelings-disgust.md) or who threatens your [power](power.md).
-7. Scale upwards to make a [system](mgmt-badsystems.md) that serves your interests more than others, but maintain a kind-looking [image](image.md) of [morality](morality.md) to subdue any opposition.
+7. Scale upwards to make a [system](mgmt-badsystems.md) that serves your interests more than others, but maintain a kind-looking [image](people-image-why.md) of [morality](morality.md) to subdue any opposition.
 
 APPLICATION: Everyone is about 20-50 key [decisions](people-decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:
 
-1. Respect others' [boundaries](people-boundaries.md) and honor their right to say "no" about their [rights](morality-justice.md).
+1. Respect others' [boundaries](people-boundaries-why.md) and honor their right to say "no" about their [rights](morality-justice.md).
 2. Maintain respect for others when they disregard your privileges.
 3. Give to others when they require things more than you.
 4. Only exercise your rights.
@@ -113,7 +113,7 @@ APPLICATION: The desire for [power](power.md), whenever it's the final [purpose]
 
 Conceit is the desire to be better than others. Unlike almost anything else that could drive evil, it's strictly competitive.
 
-Conceit never concerns itself with [status](image.md) or [power,](power.md) except as a comparison. It's not about being "rich" or "smart", but about being "richer than" or "smarter than".
+Conceit never concerns itself with [status](people-image-why.md) or [power,](power.md) except as a comparison. It's not about being "rich" or "smart", but about being "richer than" or "smarter than".
 
 Arrogance is dangerous because it's never fully satisfied. If someone wishes to be *the* best, they're working against the statistical likelihood that they're [built](reality.md) a certain way. If they accomplish something, the competitive drive will naturally turn to something else, and it will never stop.
 
@@ -125,9 +125,9 @@ After conceit has taken hold, a person will only view others in one of three len
 
 1. They're a means to their greatness, which is evil by using people to a self-promoting [end](purpose.md). Its only cure is [love](people-love.md) for the person they're abusing.
 2. They're an impediment to their greatness, which will become evil when the person decides to overthrow that greatness. Its only cure is [humility](morality.md).
-3. They're irrelevant to their greatness. This can build [friendship](people-friends.md) when there are shared goals, our [development](maturity.md) means that person will later become one of the other two.
+3. They're irrelevant to their greatness. This can build [friendship](people-friends-why.md) when there are shared goals, our [development](maturity.md) means that person will later become one of the other two.
 
-Every human is at least a little arrogant. The clearest sign is when we try to [hide reality](image-distortion.md) from others or use our [influence](influence.md) to [control others](power.md).
+Every human is at least a little arrogant. The clearest sign is when we try to [hide reality](people-image-distortion.md) from others or use our [influence](influence.md) to [control others](power.md).
 
 ### Revenge
 
@@ -137,13 +137,13 @@ However, since we have a limited [understanding](understanding.md) of others' [f
 
 The product of vengeful thinking, therefore, is that we tend to hurt people *more* than they hurt us: "eye for an eye" becomes "face for an eye".
 
-One variation of revenge is envy. However, instead of pure vengeance directed at a person's [actions](results.md), it's directed at a person's [status](image.md). It's a passive hatred that broadly focuses toward the [groups](groups-member.md) that formed that status, though most envious people are unaware exactly what their hatred or arrogance stands against.
+One variation of revenge is envy. However, instead of pure vengeance directed at a person's [actions](results.md), it's directed at a person's [status](people-image-why.md). It's a passive hatred that broadly focuses toward the [groups](groups-member.md) that formed that status, though most envious people are unaware exactly what their hatred or arrogance stands against.
 
 ### Mix-and-match motives
 
 Evil is a void and not an opposite, so there are *many* varieties of it, from an endless supply of distorted motivations.
 
-We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries.md) to [understand](understanding.md) what we want.
+We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries-why.md) to [understand](understanding.md) what we want.
 
 One of the easiest ways we can mix in evil is by morally "balancing" ourselves. We'll frequently desire to do good things (and [feel](mind-feelings.md) good from it), but don't [do](results.md) anything to reflect our desires. Good [intentions](purpose.md) only make people good if we make efforts to perform it, and well-intended evil actions are still evil.
 

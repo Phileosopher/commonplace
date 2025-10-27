@@ -24,7 +24,7 @@ Users travel through a predictable flow of thought as they use something (known 
 2. A [decision](people-decisions.md) to do an action.
 3. The [physical action itself](results.md).
 4. Their observation of the action.
-5. Their [interpretation](image.md) of the state of the thing they're interacting with.
+5. Their [interpretation](people-image-why.md) of the state of the thing they're interacting with.
 6. An [evaluation](understanding.md) of that state.
 
 As they attempt to perform an action, they perform a complex [decisions-based calculus](people-decisions.md) to determine whether they still want to keep doing it.
@@ -122,7 +122,7 @@ In the absence of being able to reliably communicate, [documentation](language-w
 
 Make sure to record the documentation *before* wrapping up the project or closing everything in. After the concrete has hardened, the software has been compiled, the network is live, and the engineers have left, there should be plenty of information to indicate how everything works inside.
 
-If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](networks-computer.md)), make sure the content is legible:
+If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](networks-cs.md)), make sure the content is legible:
 
 - Avoid using similar symbols (e.g., S vs. 5).
 - Group the elements out with standardized characters (e.g., 513-424-0945, 8/192.168.0.1).

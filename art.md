@@ -64,7 +64,7 @@ Change: a depiction of movement
 Visual Capture: representing a visual state of the world
 
 - Capturing the world around us via visual expression
-- As an [image](image.md), has an inherent relativity mixed with an inherent absolute
+- As an [image](people-image-why.md), has an inherent relativity mixed with an inherent absolute
 - Includes what people call "doodling" as well as photography
 
 #### Level 2

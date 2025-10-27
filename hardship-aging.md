@@ -6,7 +6,7 @@ As we grow older, we start falling behind the [trends](trends.md) until we event
 - This only gets worse as we get older, especially as [technology](technology.md) keeps improving.
 - While nothing is legitimately "new", there are *many* remixes worth enjoying.
   - Never give up the spark of curiosity that you once thrived on when you were a child.
-- No matter how much you [maintain your appearance](people-2_image.md), your gray hair and wrinkles will signal your age.
+- No matter how much you [maintain your appearance](people-image.md), your gray hair and wrinkles will signal your age.
 
 Contrary to popular belief, we tend to become happier as we get older:
 

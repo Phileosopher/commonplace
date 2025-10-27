@@ -24,7 +24,7 @@ Developing as a Christian is inward (esoteric) *much* more than outward (exoteri
 
 - The greatest two commandments God gives us are to love Him, and to love others ([Mark 12:28-34](https://biblehub.com/bsb/mark/12.htm)).
 - To put it another way, [loving](people-love.md) starts as a type of [contract](people-contracts.md) with God, which then extends outward to kindness and love for all His creation, meaning our results should be defined by how much we advance others' collective [interests](purpose.md).
-- If we ever wish to *guide* other people in that endeavor without [falling into heresy](conflicts-christian-4_false.md), we need at least a good decade or two of [healthy spiritual exercises](spiritual-exercises.md) for [God to change us](identity.md).
+- If we ever wish to *guide* other people in that endeavor without [falling into heresy](people-conflicts-christian-4_false.md), we need at least a good decade or two of [healthy spiritual exercises](spiritual-exercises.md) for [God to change us](identity.md).
 
 God judges leaders more harshly than non-leaders ([Matthew 18:6](https://biblehub.com/matthew/18-6.htm)).
 
@@ -61,7 +61,7 @@ A good disciple must be teachable and faithful.
 - Avoid leading people who crave emotional support, but refuse to [change](people-changes.md) from their [sins](morality-sins.md).
 - They can be curious or smart enough to ask plenty questions, but can't be rebellious.
 - Focus on heavenly prizes ([1 Corinthians 9:24-27](https://biblehub.com/bsb/1_corinthians/9.htm), [Philippians 3:12-20](https://biblehub.com/bsb/philippians/3.htm), [Hebrews 11:24-26](https://biblehub.com/bsb/hebrews/11.htm)).
-- Don't judge their [outward appearance](image.md) ([1 Samuel 16:6-7](https://biblehub.com/bsb/1_samuel/16.htm), [1 Corinthians 1:27-29](https://biblehub.com/bsb/1_corinthians/1.htm)).
+- Don't judge their [outward appearance](people-image-why.md) ([1 Samuel 16:6-7](https://biblehub.com/bsb/1_samuel/16.htm), [1 Corinthians 1:27-29](https://biblehub.com/bsb/1_corinthians/1.htm)).
 
 Avoid mentoring a few demographics relative to yourself:
 
@@ -118,7 +118,7 @@ Successful discipleship makes them partners in ministry, not subordinates ([Roma
 
 You won't get it precisely correct.
 
-- They may stray off into [heresies](conflicts-christian-4_false.md) or [pursue ministries](mgmt-church.md) you don't approve of.
+- They may stray off into [heresies](people-conflicts-christian-4_false.md) or [pursue ministries](mgmt-church.md) you don't approve of.
 - It's your responsibility to still love them, [just as if they were your own children](parenting-3_teenagers.md).
 
 You *will* be a hypocrite.

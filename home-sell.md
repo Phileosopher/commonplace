@@ -25,7 +25,7 @@ C. The house is too expensive to maintain.
 When you want to sell, think like a retailer.
 
 - Most people act on their feelings through the whole experience and are usually unprepared.
-- Treat it as a business transaction that requires [marketing](marketing.md), [haggling](people-5_conflicts.md), and awareness of [agreements](people-6_contracts.md).
+- Treat it as a business transaction that requires [marketing](marketing.md), [haggling](people-conflicts.md), and awareness of [agreements](people-contracts.md).
 
 ## A. Immediately shop for a realtor
 
@@ -55,7 +55,7 @@ A great realtor has *very* specific qualities:
 Observe their communication skills:
 
 - Promptly returns phone calls, ideally within a day.
-- Expresses their point [politely](people-3_boundaries.md) and [quickly](language-speaking.md).
+- Expresses their point [politely](people-boundaries.md) and [quickly](language-speaking.md).
 - Patiently explains their methods and the industry's processes.
 - Firmly grasps information about the industry.
 
@@ -114,7 +114,7 @@ Avoid taking on more responsibilities like a [job change](jobs-1_why.md) or [get
 To avoid extra stress, try to arrange a home sale contingency if you already have a home:
 
 - A sale and settlement contingency means you haven't found a buyer yet and are [marketing](marketing.md) the home, which isn't that attractive to potential sellers because it has many potential snags.
-- A home settlement contingency is when your home is already [under contract](people-6_contracts.md), is in escrow, has a home inspection, and is moving toward a closing date, and sellers tend to like the arrangement pretty well.
+- A home settlement contingency is when your home is already [under contract](people-contracts.md), is in escrow, has a home inspection, and is moving toward a closing date, and sellers tend to like the arrangement pretty well.
 
 If you haven't found another house by the time you're considering selling, find a rental property with a short-term lease as a backup or in-between instead of backing out of the deal entirely.
 
@@ -271,7 +271,7 @@ A. the potential buyer will give an initial offer:
 - Until you make a deal, the numbers don't matter, so be prepared for hard-hitting [negotiations](people-conflicts-negotiation.md) over the house's value.
 - Every potential buyer will want to [save money](money-4_spending.md), so they *will* bring up problems with the house you'll need to explain.
 - Offering a home warranty will not typically close the sale, but consider it if the buyer wants it.
-- Stay fully aware of the details of *any* [papers you sign](people-6_contracts.md), especially:
+- Stay fully aware of the details of *any* [papers you sign](people-contracts.md), especially:
   - Purchase price
   - Closing or escrow date
   - Special allowances for personal property, home improvements, and closing costs

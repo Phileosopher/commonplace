@@ -18,7 +18,7 @@ Learn safe habits *before* a crisis:
 - Any phone can call emergency services, so always leave a charged, powered-off phone in your car.
 - [Stay in shape](body-3_exercise.md) and [eat healthily](cooking.md).
 - Stay [ever-vigilant](awareness.md) of your surroundings, and trust your instincts.
-- Avoid getting into [conflicts](people-5_conflicts.md) that create enemies.
+- Avoid getting into [conflicts](people-conflicts.md) that create enemies.
 
 Avoid dangerous locations:
 

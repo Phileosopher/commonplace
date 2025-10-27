@@ -98,7 +98,7 @@ Obviously, memory must be stored *somewhere*. That location defines what its "ph
 
 However, by using [distributed systems](computers-distsys.md), a computer can have more memory (by pretending multiple memory units are the same) or less memory (and allowing *other* computers to use the leftover memory). The portion the computer has designated as *its* memory (or how it's grouped across multiple media) determines is "logical memory".
 
-This distinction between logical and physical memory, along with balancing [CPU load](computers-cpu.md) and [bandwidth](networks-computer.md), is essentially the basis of all [cloud systems](computers-distsys-cloud.md).
+This distinction between logical and physical memory, along with balancing [CPU load](computers-cpu.md) and [bandwidth](networks-cs.md), is essentially the basis of all [cloud systems](computers-distsys-cloud.md).
 
 ## Memory hierarchy
 
@@ -132,7 +132,7 @@ ROM (read only memory), on the other hand, doesn't depend on electricity. But, y
 
 There are a few critical measurements of memory. They're often representing [statistical averages](math-stat-cs.md) more than precise numbers, but can be significant for [planning](mgmt-2_projects-cs.md) (especially [at scale](computers-distsys-enterprise.md)):
 
-1. Its transfer speed. It uses [standard network speeds](networks-computer.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
+1. Its transfer speed. It uses [standard network speeds](networks-cs.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
 2. Its projected lifespan, which is measured by "program-erase cycles" (or simply P/E).
 
 There's a frequent RAM/ROM hybrid called "electronically-erasable programmable read-only memory" (EEPROM) that lets you read and write things to it, but it sticks around after turning the computer off.
@@ -162,7 +162,7 @@ If you're trying to store *lots* of information, you likely have only a few poss
 - Network Attached Storage (NAS) - mixed read/write, but not accessed for days, weeks, or months.
 - Surveillance - *heavy* amounts of writing data, but less than 1% of the data is ever read.
 - Cold storage - idle for most of the time, but requires enormously fast response and speed when accessed.
-- [Data center](computers-distsys-enterprise.md) - *constant* read/write on a hefty [network connection](networks-computer.md).
+- [Data center](computers-distsys-enterprise.md) - *constant* read/write on a hefty [network connection](networks-cs.md).
 
 To store *lots* of information for a long time, there are several specific options:
 

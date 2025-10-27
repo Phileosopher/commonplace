@@ -7,21 +7,21 @@ Without a derived [purpose](purpose.md), a creature may be alive, but thriving a
 
 In a broad sense, "the good life" comes when we experience consistent [meaning](meaning.md). While we can find meaning on a moment-by-moment basis, the good life is a *lifestyle* of meaning.
 
-APPLICATION: A well-lived life is more significant than being well-received by others or possessing many things. In fact, it's also lower-maintenance: both [reputation](image.md) and possessions require much more work to maintain than a wealth of experiences.
+APPLICATION: A well-lived life is more significant than being well-received by others or possessing many things. In fact, it's also lower-maintenance: both [reputation](people-image-why.md) and possessions require much more work to maintain than a wealth of experiences.
 
-The good life is a model we [build in our minds](imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](image.md), and are the strongest source of [wisdom](understanding.md) we can ever possess in this life.
+The good life is a model we [build in our minds](imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](people-image-why.md), and are the strongest source of [wisdom](understanding.md) we can ever possess in this life.
 
 The good things that encompass the good life are the basis for all our [morality](morality.md).
 
-Most of the [conflicts](people-conflicts.md) come from [limits we impose](power.md) on others regarding those things we see lacking, as well as [our responses to those limits](morality-justice.md).
+Most of the [conflicts](people-conflicts-why.md) come from [limits we impose](power.md) on others regarding those things we see lacking, as well as [our responses to those limits](morality-justice.md).
 
-One *very* heated philosophical debate worth considering is whether the good life consists in maximizing pleasure or minimizing pain. All [decisions are a calculus](people-decisions.md), and many good decisions do *both*, but how we prioritize them determines how we reconcile most [inner conflicts](conflicts-inner.md).
+One *very* heated philosophical debate worth considering is whether the good life consists in maximizing pleasure or minimizing pain. All [decisions are a calculus](people-decisions.md), and many good decisions do *both*, but how we prioritize them determines how we reconcile most [inner conflicts](people-conflicts-inner.md).
 
 ## Reinforcement
 
 Living well requires *constant* [change](people-changes.md) and pushing against the [resistance](meaning.md) we experience around us. This requires a type of "comfort" in unpleasant things that serve us well in the long term.
 
-We must associate with others who share our values, whether it's in finding [friendship](people-friends.md) or associating with (and sometimes [leading](groups-small.md)) [groups](groups-member.md). This should express as a [love](people-love.md) for oneself and others, not merely for the sake of gaining [power](power.md).
+We must associate with others who share our values, whether it's in finding [friendship](people-friends-why.md) or associating with (and sometimes [leading](groups-small.md)) [groups](groups-member.md). This should express as a [love](people-love.md) for oneself and others, not merely for the sake of gaining [power](power.md).
 
 We must also be authentic with what we say and do. Honesty with ourselves is critical to keeping ourselves connected closely to [reality](reality.md), and is critical to simplifying reality to permit our [intuitions](mind-feelings.md) to develop a strong [understanding](understanding.md) of what we [learn](education.md).
 
@@ -45,7 +45,7 @@ APPLICATION: To discern the [quality](values-quality.md) of what a person really
 
 The good life has a broader application than merely attaining comfort. Our [decisions](people-decisions.md) are only responses to our environment, so an environment filled with extremes will most likely yield the best possible life:
 
-- Understanding the beauty of peace can only come after experiencing [war](people-conflicts-war.md).
+- Understanding the beauty of peace can only come after experiencing [war](people-conflicts-war-why.md).
 - Living under injustice teaches us more wholly about [justice](morality-justice.md).
 - Wealth can only be appreciated the most by someone who has been poor.
 - Joy only gives its fullness through experiencing sorrow.
@@ -53,11 +53,11 @@ The good life has a broader application than merely attaining comfort. Our [deci
 APPLICATION: At certain times, every person must be the following:
 
 1. An artist who [creates](mind-creativity.md) something.
-2. A warrior who [fights](people-conflicts.md) something.
+2. A warrior who [fights](people-conflicts-why.md) something.
 3. A philosopher who seeks to [understand](understanding.md) something.
 4. A laborer who [builds](creations.md) something.
 
-Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](image.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](image.md).
+Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](people-image-why.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](people-image-why.md).
 
 The good life, therefore, is constantly changing between prosperity and [hardship](hardship.md) to give us context for the [stories](stories.md) we build from our environment.
 
@@ -82,9 +82,9 @@ We need a bit more than merely "moderation":
 
 APPLICATION: There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](trust.md) or [certain](understanding-certainty.md) about.
 
-[Most people shouldn't be philosophers](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](trends.md) to the next. Otherwise, we'll subject ourselves to [needless conflicts](people-conflicts.md) and [distorting](image-distortion.md) how we [understand](understanding.md) [reality](reality.md).
+[Most people shouldn't be philosophers](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](trends.md) to the next. Otherwise, we'll subject ourselves to [needless conflicts](people-conflicts-why.md) and [distorting](people-image-distortion.md) how we [understand](understanding.md) [reality](reality.md).
 
-We should be driven by [standards](values.md), not [opposition to something else](people-conflicts.md). The standards themselves have their [source of authority](power.md), so we must know what that standard is and whether we want to submit to it.
+We should be driven by [standards](values.md), not [opposition to something else](people-conflicts-why.md). The standards themselves have their [source of authority](power.md), so we must know what that standard is and whether we want to submit to it.
 
 APPLICATION: We must decide to identify with [good](morality.md) things, and to [resist hardship](hardship.md), if we want to live [the good life](goodlife.md).
 
@@ -98,7 +98,7 @@ The evidence that a life is well-lived comes from several simultaneous condition
 APPLICATION: *Everyone* near the end of a well-lived life will have the following:
 
 1. Has experienced facing and overcoming their [fears](mind-feelings-fear.md).
-2. Has [opposed](people-conflicts.md) something significantly [immoral](morality.md).
+2. Has [opposed](people-conflicts-why.md) something significantly [immoral](morality.md).
 3. [Accomplished](success-1_why.md) something that gave them tremendous [meaning](meaning.md).
 4. [Enjoyed themselves](fun.md) when they had nothing to [do](purpose.md).
 5. Knows how to [cope with death](hardship-death.md).

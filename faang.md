@@ -21,7 +21,7 @@ Since the beginning of [the American Military-Industrial Complex](https://gained
 - After the dot-com crash, FAANG emerged after a decade: Facebook/Meta, Apple, Amazon, Netflix, and Google/Alphabet, but other companies like Tencent (owned by China) and Microsoft still fit into it as well.
 - Given the tremendous power that comes from all the data extraction, governments can often fit into this as well, so this issue isn't strictly a matter of corporate power.
 - Lately, the acronym is more accurately Facebook/Apple/Microsoft/Amazon/Government, or FAMAG.
-- Most recently, in the 2020s, there has been significant public attention toward [privacy](people-boundaries.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
+- Most recently, in the 2020s, there has been significant public attention toward [privacy](people-boundaries-why.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
 
 The largest difference between the computers of today and of decades ago (besides processing speed) comes in how networked they all are. Up to the internet becoming popular, computers were stand-alone, so the information couldn't be used as quickly, and often required physically inserting a disk into the computer. Now, the computers are all linked together, communicating exponentially more information, and *constantly*.
 
@@ -72,7 +72,7 @@ As time goes on and technologies improve, it becomes increasingly trivial for la
 
 One of the best ways to stay private is using end-to-end [encryption](encryption.md), which means only the sender and intended recipient can see the content. This means anyone who intercepts or holds it (e.g., the company that holds the [cloud storage](computers-distsys-cloud.md), a government official) won't be able to see what it is. [Many entities don't like this](faang-e2e.md).
 
-There's plenty of reason for governments to rally support for their cause, so they'll [distort the truth](image-distortion.md) and shut down E2E as much as they can.
+There's plenty of reason for governments to rally support for their cause, so they'll [distort the truth](people-image-distortion.md) and shut down E2E as much as they can.
 
 This is a battle worth fighting for, which is why some groups like [Signal](https://web.archive.org/web/20221018145152/https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china) and [Matrix](https://web.archive.org/web/20200506153643/https://matrix.org/blog/2020/05/06/cross-signing-and-end-to-end-encryption-by-default-is-here/) won't back down on it.
 
@@ -126,7 +126,7 @@ There are different versions of this:
 
 Another mechanism to manipulate the situation is to prevent net neutrality:
 
-1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](networks-computer.md).
+1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](networks-cs.md).
 2. Software *in the computer itself* should monitor that information for risks (i.e., layers 5 and up).
 3. Internet service providers are giving the lowest network layers (i.e., levels up to 4), so they shouldn't monitor that information.
 4. However, there is plenty of political incentive to allow prioritized web traffic for some websites over others.
@@ -146,7 +146,7 @@ This is a [scientifically proven trend with electronics](https://web.archive.org
 
 Users can push back on this by learning [how to replace parts](https://adequate.life/fix/), meaning an aftermarket battery or hard drive can often make devices last *years* beyond when the company wants them to buy another product.
 
-Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](people-boundaries.md) to repair" by [inserting arbitrary barriers to the product or obstructing the users' rights](faang-r2r.md).
+Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](people-boundaries-why.md) to repair" by [inserting arbitrary barriers to the product or obstructing the users' rights](faang-r2r.md).
 
 This makes general sense about why people accept this situation. As computers get [cheaper and smaller](computers-embedded.md), they become more commodities than tools. However, it means people can't repair their things, meaning that companies can ratchet up prices with consumers being stuck either paying for it or living without it. It also means it creates more waste.
 

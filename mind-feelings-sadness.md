@@ -3,7 +3,7 @@
 
 Sadness is the [emotional](mind-feelings.md) interpretation of experiencing a [loss](safety.md)
 
-While it can apply to almost anything, we usually experience sadness over the loss of a [friendship](people-friends.md) or of [power](power.md), though it can also apply to possessions.
+While it can apply to almost anything, we usually experience sadness over the loss of a [friendship](people-friends-why.md) or of [power](power.md), though it can also apply to possessions.
 
 ## Chronic sadness
 

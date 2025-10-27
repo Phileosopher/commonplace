@@ -53,14 +53,14 @@ Most operating system security consists of sequential layers of authentication. 
 
 ## Network hardening
 
-Making a [network](networks-computer.md) secure includes *many* inter-related and comparatively smaller tasks.
+Making a [network](networks-cs.md) secure includes *many* inter-related and comparatively smaller tasks.
 
 ### Blocking transfer
 
 Most computer security policies manage specific portions of what the computer interacts with:
 
 - Blocking specific ports that will likely send particular unwanted [protocols](standards-computers.md).
-- Blocking [networks](networks-computer.md) that may be insecure.
+- Blocking [networks](networks-cs.md) that may be insecure.
 - Blocking certain forms of code that may run on system files or read user-made documents.
 
 Disable *any* unused ports:
@@ -88,7 +88,7 @@ One of the most important aspects of keeping a network safe is to have "end-to-e
 
 ### DNS
 
-One of the easiest forms of [network](networks-computer.md) hardening involves sending "DNS" requests to a safe [DNS server](computers-browser.md).
+One of the easiest forms of [network](networks-cs.md) hardening involves sending "DNS" requests to a safe [DNS server](computers-browser.md).
 
 - You *can* easily set up your own DNS server, but it's worth researching to find a good one elsewhere, at least as a backup if yours fails. Otherwise, you won't get on the internet at all!
 
@@ -125,13 +125,13 @@ Wireless networks are a *huge* vulnerability because they weren't designed to be
 - Always, *always* use a VPN over a public network.
 - Try to avoid doing highly important things (like banking) on public networks.
 
-[Hackers](hacking.md) can hit public WiFi networks with a "man-in-the-middle attack" by using the same [SSID](networks-computer.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public WiFi network.
+[Hackers](hacking.md) can hit public WiFi networks with a "man-in-the-middle attack" by using the same [SSID](networks-cs.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public WiFi network.
 
 ## Scanning software
 
 The highest-risk [files](computers-files.md) in a computer are core system files, so an [operating system](computers-os.md) has a constant need to track *any* changes to them.
 
-A "firewall" is meant to stop hackers from accessing the computer in the first place. It's a set of rules that it applies to any data packets that pass through it. They are usually "stateful" now and often analyze the [application layer](networks-computer.md) for policy violations. Because of how complicated and interconnected networks have gotten, cybersecurity professionals debate quite a bit about how effective firewalls really are.
+A "firewall" is meant to stop hackers from accessing the computer in the first place. It's a set of rules that it applies to any data packets that pass through it. They are usually "stateful" now and often analyze the [application layer](networks-cs.md) for policy violations. Because of how complicated and interconnected networks have gotten, cybersecurity professionals debate quite a bit about how effective firewalls really are.
 
 A much elaborate system than a firewall is called an IPS or IDS ("intrusion prevention/detection system") depending on how active the software protects you from the problem.
 

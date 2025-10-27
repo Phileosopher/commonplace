@@ -14,7 +14,7 @@ For the most part, this copy is *stunningly* accurate. It allows us to relive th
 
 While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](imagination.md) diverges from it.
 
-Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts.md) are over relative things we *think* are absolute, often from our [culture](people-culture.md) and [upbringing](people-family.md).
+Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts-why.md) are over relative things we *think* are absolute, often from our [culture](people-culture.md) and [upbringing](people-family.md).
 
 One complicated part of our perception comes in how things come together. In [reality](reality.md), the larger thing is *precisely* the same as the individual components combined, but our [values](values.md) make the whole *greater* than the sum of its parts based on its association to other values.
 
@@ -76,17 +76,17 @@ Very often, two people can have vastly different images while perceiving a simil
 
 This bias opens up a guaranteed [risk](safety.md) that [deception and control](power-influence.md) can take hold in our minds. However, if we keep pursuing [the truth](reality.md), [the lies](people-lying.md) will fade away.
 
-APPLICATION: The cure for [image distortion](image-distortion.md) is curiosity.
+APPLICATION: The cure for [image distortion](people-image-distortion.md) is curiosity.
 
-APPLICATION: To live [sincerely](goodlife.md), our inner lives must reflect our outer lives, including our [conflicts](conflicts-inner.md).
+APPLICATION: To live [sincerely](goodlife.md), our inner lives must reflect our outer lives, including our [conflicts](people-conflicts-inner.md).
 
 ## Culture's image
 
-The basis of all [culture](people-culture.md), [social conflict](people-conflicts.md), and grander [social trends](trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
+The basis of all [culture](people-culture.md), [social conflict](people-conflicts-why.md), and grander [social trends](trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
 
-A person's reputation is the composite of everyone else's [image](image.md) of that person. It's extremely fickle and chaotic because it's what other people [feel](mind-feelings.md) about someone, which changes constantly.
+A person's reputation is the composite of everyone else's [image](people-image-why.md) of that person. It's extremely fickle and chaotic because it's what other people [feel](mind-feelings.md) about someone, which changes constantly.
 
-While having a reputation isn't a direct [boundary](people-boundaries.md), there is a certain type of [morality](morality.md) to a society thinking appropriately of someone. [Evil](morality-evil.md) people given honor is as much a perversion of [justice](morality-justice.md) as good people who are [condemned](mind-feelings-shame.md).
+While having a reputation isn't a direct [boundary](people-boundaries-why.md), there is a certain type of [morality](morality.md) to a society thinking appropriately of someone. [Evil](morality-evil.md) people given honor is as much a perversion of [justice](morality-justice.md) as good people who are [condemned](mind-feelings-shame.md).
 
 All reputation is nothing but [sentiments](mind-feelings.md) about past events. Those sentiments, however, are [powerful](power.md), and define entire [cultures](people-culture.md).
 
@@ -104,11 +104,11 @@ To be famous is to have so much attention on you that you have no medium to suff
 
 APPLICATION: Everyone who runs this world has gotten there either through knowing someone powerful (e.g., monarchies), military strength (e.g., dictatorships), or popularity (e.g., democracy).
 
-Because of how much [power](power.md) a reputation can give, people will [work hard](results.md) to [distort and tweak their image](image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
+Because of how much [power](power.md) a reputation can give, people will [work hard](results.md) to [distort and tweak their image](people-image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
 
 APPLICATION: There's a lot of power in "the enemy of my enemy is my friend". Nobody can be fully [trusted](trust.md), but everyone can be [useful](purpose.md).
 
-When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](people-friends.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
+When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
 
 ### Wielding the power of reputation
 
@@ -116,14 +116,14 @@ Reputation affects much of what we do because we care about it so much:
 
 - Many times, we will shun unpopular [trends](trends.md) until they're popular.
 - We can subconsciously [identify](identity.md) with things based on what other people think of them.
-- Our [choice](people-decisions.md) of [friends](people-friends.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
+- Our [choice](people-decisions.md) of [friends](people-friends-why.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
 - We pursue job titles, club roles, memberships in [groups](groups-member.md), good grades in [school](education.md), and achievements/badges in games and social media strictly for the sake of reputation.
 
-While reputation beyond a certain point isn't necessary to [coexist](people-boundaries.md) well in society or attain [the good life](goodlife.md), we do need at least some of it to gain our [purposes](purpose.md).
+While reputation beyond a certain point isn't necessary to [coexist](people-boundaries-why.md) well in society or attain [the good life](goodlife.md), we do need at least some of it to gain our [purposes](purpose.md).
 
 APPLICATION: *Everyone* is horrifically flawed. However, they typically look better than reality. This is *very* [intentional](purpose.md) and often done long-term through a wide variety of people who [pass on](stories-storytellers.md) that person's reputation.
 
-[Lies](people-lying.md) tend to accumulate like [debts](money-2_debt.md), and [managing image](image-distortion.md) becomes increasingly difficult as we continue trying to adapt away from whatever represents [reality](reality.md) the most accurately. However, unlike most debt collectors, a liar frequently has to remit payment immediately before they lose their [power](power-types.md).
+[Lies](people-lying.md) tend to accumulate like [debts](money-2_debt.md), and [managing image](people-image-distortion.md) becomes increasingly difficult as we continue trying to adapt away from whatever represents [reality](reality.md) the most accurately. However, unlike most debt collectors, a liar frequently has to remit payment immediately before they lose their [power](power-types.md).
 
 APPLICATION: Seeking honor is perfectly fine until it compromises [virtue](morality.md), *especially* when redirecting shame. It's why people [respect power structures](groups-member.md) and [honor leaders](groups-small.md).
 
@@ -135,4 +135,4 @@ APPLICATION: Being famous is torture, since you will be naked to criticism that 
 
 APPLICATION: Unless a person's popularity is based on their [direct aptitude](jobs-specialization.md) with what they address, anyone popular (i.e., celebrities) are the worst possible guides on [how to live](goodlife.md).
 
-On the other end of the spectrum, people who concern themselves with reality (e.g., [engineers](engineering.md), [accountants](money-accounting.md), [trade workers](jobs-specialization.md)) are so preoccupied with reality that they forget how difficult, geeky, nerdy, or obtuse they look. Many of them could stand to learn [basic people skills](people-3_boundaries.md), and often sabotage their long-term [influence](power-influence.md) through the limits of their medium.
+On the other end of the spectrum, people who concern themselves with reality (e.g., [engineers](engineering.md), [accountants](money-accounting.md), [trade workers](jobs-specialization.md)) are so preoccupied with reality that they forget how difficult, geeky, nerdy, or obtuse they look. Many of them could stand to learn [basic people skills](people-boundaries.md), and often sabotage their long-term [influence](power-influence.md) through the limits of their medium.

@@ -17,7 +17,7 @@ Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 
 
 Preoccupation with at least one of the four major idols ([1 John 2:15-16](https://biblehub.com/bsb/1_john/2.htm)):
 
-1. [honor/reputation](image.md)
+1. [honor/reputation](people-image-why.md)
 2. [money](money-1_why.md)
 3. [power](power.md)
 4. [comfort](mind-feelings-happiness.md)
@@ -28,7 +28,7 @@ This will show itself through how they prioritize their life, some examples:
 - Aspiring [executive/ceo](mgmt-1_why.md): money/power/honor
 - [Intellectual](understanding.md): power
 - Worship of their [body's strength](body-3_exercise.md) (power)
-- Worship of their [body's appearance](people-2_image.md): honor
+- Worship of their [body's appearance](people-image.md): honor
 - Aspiring to be religious or a celebrity: honor
 - Drug addict: comfort
 - Game addict: comfort/power
@@ -44,7 +44,7 @@ This will show itself through how they prioritize their life, some examples:
 - Anti-Catholic over their [vast variety of rituals](mgmt-church.md).
 - Anti-Protestant over their limited scope of ritual.
 - Belief that one denomination is more spiritual or correct than the rest.
-- Belief that everyone in a particular denomination with [a false doctrine](conflicts-christian-1_why.md) is also non-Christian as a result.
+- Belief that everyone in a particular denomination with [a false doctrine](people-conflicts-christian-1_why.md) is also non-Christian as a result.
 
 Belief in extraterrestrials, potentially interpreting or referring to God Himself as an alien entity.
 
@@ -75,7 +75,7 @@ Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](
 
 [Moral](morality.md) extremism, typically about things they previously idolized.
 
-- They tend to attack their [interpretation](image.md) of things *much* more than the moral [reality](reality.md) of those things.
+- They tend to attack their [interpretation](people-image-why.md) of things *much* more than the moral [reality](reality.md) of those things.
 - Their efforts *must* stay contained toward their [sins](morality-sins.md), and then expand only to the things they have legitimate [influence](power-influence.md) over.
 
 Treating their body as a despicable, awful thing they must perpetually damage or thwart.
@@ -108,13 +108,13 @@ Extreme insistence on creating large-scale [political changes](politics-conserva
 Maintains [habitual](habits.md) [sins](morality-sins.md) out of ignorance or unawareness.
 
 - Obviously, we all battle with sins, but they'll generally try to avoid the [consequences](results.md) of their sins while finding ways to keep doing it.
-- Most [denominational](conflicts-inner.md) [cultures](people-culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
+- Most [denominational](people-conflicts-inner.md) [cultures](people-culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
 
 Confrontational or inappropriate behavior as a type of "ministry".
 
 - They typically imply that God loves people but still permits awful things to happen to them, so sharing the truth is acting in [God's will](god-will.md), even if they're being rude.
 - They're projecting their [family](church-family.md) background onto who God is and don't understand [His loving and gracious nature](god.md).
-- Long-term, magnified [conflicts](people-5_conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
+- Long-term, magnified [conflicts](people-conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
 
 Engages in [cultural activities](people-culture.md) that God doesn't like.
 
@@ -133,13 +133,13 @@ Believing "Christian" media to be a vastly superior classification of media, eve
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
   3. The audience may misunderstand why the creator is portraying a bad thing and attack them over it.
 
-Allegiance to a [denomination](conflicts-christian-1_why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
+Allegiance to a [denomination](people-conflicts-christian-1_why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
 
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
   - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)
 - They can often engage in trying to [convert others](power-influence.md) to their perspective more than converting others to the way of Christ.
 - Frequently, they'll spend more effort arguing about how wrong other people are (and enhancing their [understanding](understanding.md) to that end) than [loving](people-love.md) other people enough to respect (and politely disagree with) their beliefs.
-- At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](conflicts-christian-1_why.md) have equal spiritual significance.
+- At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](people-conflicts-christian-1_why.md) have equal spiritual significance.
 
 Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem.
 
@@ -225,7 +225,7 @@ They've been at least somewhat [persecuted](hardship-persecution-church.md) for 
 A general sense of peace about others' [decisions](people-decisions.md).
 
 - Newer believers frequently try to get others to [change their minds](power-influence.md) toward [moral actions](morality.md) out of new spiritual desires, but they will eventually become familiar enough with [boundaries](people-3_respect.md) that those decisions will grieve them instead.
-- Their [conflict](conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](people-rules.md).
+- Their [conflict](people-conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](people-rules.md).
 
 They'll find something lacking in mainstream Christian church services.
 

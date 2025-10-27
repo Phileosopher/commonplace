@@ -5,7 +5,7 @@ Every game is a type of [story](stories.md) with a few components:
 
 1. A setup where everyone has a limited amount of at least some [resources](power-types.md) and must honor some [rules](people-rules.md).
 2. Everyone has a definite purpose, or "win conditions" that provide a reward or prevent a risk, though they may not always be the same. Those [purposes](purpose.md) are usually against other players' purposes, directly or indirectly.
-3. Each person has to make decisions that [anticipate what could happen](imagination.md) and consider others' decisions [in light of theirs](image.md).
+3. Each person has to make decisions that [anticipate what could happen](imagination.md) and consider others' decisions [in light of theirs](people-image-why.md).
 4. At the end of the game, each person either wins or loses immediately, without much waiting to find out.
 
 Games start from childhood. Typically, they're simplified games that recreate [real life](reality.md). Most people [outgrow](maturity.md) this, but some will convert it into careers in [performance arts](creations.md).
@@ -29,7 +29,7 @@ Because of [human nature](humanity.md), every single game will have cheaters, in
 
 While the cheaters may enjoy it, everyone else will stop having any more [fun](fun.md) with the game because it's an abuse of [power](power.md) and doesn't feel very [fair](morality-justice.md). However, at that point it's not wrong at all to cheat back, and some games (e.g., [cybersecurity](safety-security.md)) become meta-games from everyone trying to win the "game-over-a-game".
 
-Note, however, that some people who are far more [creative](mind-creativity.md) will find ways to stay *inside* the [rules](people-rules.md) while taking advantage of facts that require experience or perceptiveness to exploit. They can [distort appearances](image-distortion.md), imply they'll [act](people-decisions.md) or [think](logic.md) a certain way, or force their opponent to misuse their [power](power.md).
+Note, however, that some people who are far more [creative](mind-creativity.md) will find ways to stay *inside* the [rules](people-rules.md) while taking advantage of facts that require experience or perceptiveness to exploit. They can [distort appearances](people-image-distortion.md), imply they'll [act](people-decisions.md) or [think](logic.md) a certain way, or force their opponent to misuse their [power](power.md).
 
 With [technology](technology.md), we can [recreate](creations.md) the experience of most things, which means we can give a *very* similar experience and [feeling](mind-feelings.md) of [reality](reality.md):
 

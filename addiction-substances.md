@@ -232,7 +232,7 @@ Accumulating possessions or wealth
 
 - Purchasing new possessions
 
-Acquiring [social status](image.md)
+Acquiring [social status](people-image-why.md)
 
 [Having children](parenting-children.md)
 

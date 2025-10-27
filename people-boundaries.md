@@ -1,146 +1,207 @@
 
-# What boundaries are
+# How to set and honor boundaries
 
-When we put together everything everyone is entitled to do, we have a set of barriers that demarcate each individual's [philosophical](philosophy.md) "territory".
+People talk about you in your absence, so your reputation will precede you:
 
-Boundaries are the various divisions between ourselves, others, and our environment that create a convergence of everyone's rights.
+- Reputation is power earned through trust, so the best reputation is that people can depend on you.
+- If you maintain good boundaries over time, you'll build a great reputation.
+- A dimwitted and kind person will often succeed *far* more than an insufferable genius.
 
-While the fringes of these boundaries have plenty of gray area up for debate, some things inherently within the sole [control](people-decisions.md) of a living being are non-negotiable. Those things are called "rights".
+We all need good boundaries:
 
-## Rights
+- Boundaries are emotional and physical spaces between you and others.
+- Boundaries create the framework for all healthy communication.
+- Boundaries aren't selfish or disobedient, but they *are* self-preserving.
+- Boundaries are the only way to protect everyone from harm.
 
-There are *many* human rights:
+## Setting boundaries benefits everyone
 
-- Complete equality of their [soul](humanity.md) with all others of like souls (i.e., all humans have equal standing, all dogs have equal standing).
-- Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
-  - The right to consent or decline to any medical procedure or practice of their body.
-- The [safety and security](safety.md) that they will stay alive, without additional unnecessary pain imposed onto them.
-- Freedom to act without fear of others sabotaging many of their things:
-  - Able to move about freely, rest, and have an adequate living arrangement.
-  - Able to [think](understanding.md) and [believe](understanding-certainty.md) what they want (which includes being wrong).
-  - They can freely pursue their [identity](identity.md), [change](people-changes.md), and [learn](understanding.md).
-  - They can express their ideas through [language](language.md).
-  - They can [communicate with others](people-conversation.md) and to privacy.
-  - They can [have a family](people-family.md), [marry](gender.md), and [be in a community](groups-member.md).
-  - They have title to their property, both owned and [possibly](imagination.md) owned.
-  - They can maintain their [honor/reputation](image.md).
-- Legal recognition and [equality](morality-justice.md) before [the law](people-rules.md):
-  - They're [presumed](imagination.md) innocent until proven guilty.
-  - They will get a fair [public](groups-large.md) hearing.
-  - They can develop their [national identity](groups-large.md), get their government's [protection](safety.md), and can [participate in government](groups-large.md).
-  - They're informed about any reports or communications about them with others.
-  - They can choose not to [say things](language.md) that would otherwise [incriminate them](people-rules.md) (i.e., "Miranda rights").
-  - They're not discriminated against or favored based on their race, [gender](gender.md), [age](maturity.md), [political belief](politics-conservativeliberal.md), or [religion](religion.md).
-- They can get [asylum](safety.md) from prosecution if others are abusing *their* rights.
-- Freedom to profit from things they've [created](creations.md) or [thought of](legal-ip.md).
+Good boundaries fulfill our urges for safety and comfort, which are necessary for human connection:
 
-Animals have rights as well, but only proportionally to their sentience.
+- Each person clarifies where they begin and other people end.
+- Everyone specifies exactly where other people can't cross, and other people respond appropriately.
+- Everyone is free to think and feel anything without judgment, condemnation, or unhealthy peer pressure.
+- Everyone can act freely until they start impeding others' ability to act.
 
-This isn't the limit to human rights, and there's technically no end to what can be demarcated as legitimate implicit rights. Rights are derived from the [responsibilities](meaning.md) that they're connected to, and those responsibilities determine the scope of what a person must do to maintain those rights.
+While it's counterintuitive, good boundaries give everyone more freedom:
 
-- Don't [lie](people-lying.md).
-- Don't steal from others.
-- Notify affected parties of relevant changes.
-- Honor what you say you'll do.
+- Because everyone in a relationship is protected, that relationship can easily persist long-term.
+- When people rely on others for a mutual benefit instead of necessity, they're interdependent.
+- Interdependence opens people up to being [creative](mind-creativity-how.md) and original.
 
-APPLICATION: Don't seek extra privileges or the enforcement of your rights unless you're ready to take on the responsibilities that come with them. This will be [meaningful](meaning.md) if you do, but will be torture when you're required to act later.
+## Bad boundaries damage relationships
 
-Privileges are expansions on our rights, but have further responsibilities associated with them.
+Every single [conflict](people-conflicts.md) or social issue comes through improper boundaries:
 
-- The freedom to travel across public spaces without harassment.
-- The ability to use assets, such as [technology](technology.md) or [information](information.md).
-- The ability to use *others'* assets, including their [ideas](legal-ip.md).
-- Every other [form of power](power-types.md).
+- Can't say "no" (Compliant) - feel too guilty or controlled to assert self, letting others abuse us.
+- Can't say "yes" (Unresponsive) - too afraid to accept vulnerabilities or weaknesses, distancing ourselves from others.
+- Can't hear "no" (Controller) - refuses to observe or respect others' boundaries, and eventually abuses others.
+- Can't hear "yes" (Avoidant) - unwilling to connect with others, and isolates from social needs.
 
-## Rights vs. rights
+Poor boundaries damage our self-worth and distort our view of others:
 
-The complicated part about each person's rights is that it applies to *everyone else*.
+- No sense of personal identity.
+- Our feelings and thoughts over-conform to others' standards and seem inauthentic.
+- Unnecessary, alienating autonomy.
+- Inappropriately trusting others' promises.
+- Failing to understand human behavior.
+- Believing that nothing thought, felt, or done is private or personal.
+- Expectations that people must report every feeling, reaction, opinion, relationship, and outside activity.
+- Withdrawn or over-controlling behavior that conceals feelings to others and self.
+- Intentions to stay unseen or unheard to prevent future boundary violations.
+- "Blanking out" when stressed.
+- Feelings of others physically or emotionally violating unspoken rules or boundaries.
+- Deconstructive and discouraging self-talk.
+- Selective amnesia and feelings of detachment about the past.
+- Guilt and shame without any rational explanation why.
+- Cold, distant attitude toward others who may violate boundaries.
+- Harsh defensive or offensive behavior to protect personal space.
+- Holding others to unenforceable rules or promising impossible consequences.
+- Insists that everyone is completely independent of everyone else.
+- Unable to share a common purpose, goal, identity, or rationale.
+- Anger bleeding over from unrelated incidents.
+- Sense of justice in violating others' rights.
+- Has an attitude that "dares" others to come close or cross their boundaries.
+- Insecure from feeling ignored, invalidated, or rejected in the past.
+- Intimacy feels like violating boundaries.
+- Tries to reject others before they can reject them first.
+- Small failings are justifications for permanent rejection.
+- Treats self as a victim, justified toward hyper-defensive behavior to fight further violations.
+- Seeks martyrdom to fulfill purpose for a prolonged victimhood.
 
-Most [interpersonal conflicts](people-conflicts.md) are grounded on either [misunderstanding](understanding.md) boundaries or trying to [assert privileges](power.md) as if they were rights.
+Two or more people with bad boundaries make strange relationships:
 
-Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](politics-leftism.md) actually *thrive* on this sense of injustice.
+- Members shun or shame [creativity](mind-creativity-how.md).
+- We become overdependent and over-involved in others' needs and interests, which becomes abuse when pushed far enough.
+- People feel violated, used, overwhelmed, strangled, smothered, or imprisoned.
+- Activities are *only* with others, without any solo tasks.
+- Everyone is required to feel, act, and think the same way.
 
-The [laws of a territory](people-rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
+## Healthy relationships require mutually healthy attitudes
 
-History has shown that enforcing of a person's rights can only come from a specific perspective:
+You don't really need to be "nice" if it's not your [personality](personality.md), but being respectful is absolutely critical for coexistence with others.
 
-1. Rights are [God](god.md)-given, bestowed implicitly as inherent liberties that give people the freedom to act.
-   - If [a deity](religion.md) doesn't give rights, then the State gives it, meaning [slavery](slavery.md) is always justified as long as the State has the [power](power.md) to enforce it.
-2. While mankind can bestow more privileges (e.g., free food), their most effective means of getting people to act is to [take away rights](people-rules-methods.md).
-3. Therefore, every criminal justice system is built around taking away rights, and the entire civil justice system is built around paying lawyers tons of money to enforce one's own rights.
+Healthy boundaries are reasonable and adapt as the situation changes.
 
-For everyone to be truly free, we need [rules](people-rules.md) to protect when people violate others' freedoms.
+Boundaries must be kindly expressed as public information.
 
-- Those rules involve taking away the rights of people who have failed in the responsibilities associated with those rights.
-- The rights-enforcers also run the risk of abusing their privileges bestowed to them, which is the formation of a [bad system](mgmt-badsystems.md).
-- In the void of sufficient rights, some people are granted privileges, which come with further responsibilities.
+Everyone is solely responsible for themselves:
 
-APPLICATION: Asserting human rights is probably most of the trouble plaguing [society](groups-large.md).
+- Everyone is responsible for their feelings and thoughts.
+- Everyone is free to make decisions, including wrong ones.
+- Everyone should receive all consequences for their actions because it was their decision.
+- If someone makes a good decision, they're free to reap the rewards without condemnation.
+- If someone makes a bad decision, others can choose to help but aren't required to.
+- If anyone compares anyone to someone else, they're never entirely accurate.
 
-- We're consenting to obey a government because they do a good-enough job protecting us from [evil](morality-evil.md), but that only happens as long as we keep consenting.
-- We often create complex [rules](people-rules.md) to find [justice](morality-justice.md) or [peace](safety.md), but it often only slows [evil](morality-evil.md) desire and rarely ever stops it entirely.
+Everyone is responsible for correctly handling their failures:
 
-Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](imagination.md) the desire to violate others' rights for self-interest.
+1. Confess their inability, failings, and wrongdoing.
+2. Submit their failures to [God](religion.md) and others.
+3. Turn from their bad behaviors.
+4. Ask others for help when they need it.
+5. Make amends to others whenever possible.
 
-Our [upbringing](people-family.md) can also communicate to us that we don't have certain rights when we legitimately do. Even though our [intuition](mind-feelings.md) will disagree, we'll often sabotage our [understanding](understanding.md) of the world to accommodate or fight what we're taught.
+Each person must act with the right motivation:
 
-The only way any one person can reliably satisfy another's human rights is through [loving](people-love.md) them. Otherwise, we usually won't consider others' mental rights, even with elaborate [social engineering](mgmt-badsystems.md).
+- Everyone should consider the consequences of their decisions.
+- Everyone should communicate with everyone affected by a decision.
 
-In the absence of love, the only way people can ever make sensible [decisions](people-decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
+Healthy boundaries foster worthwhile habits and behaviors:
 
-One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](trust.md) the average citizen.
+- Accepting personal responsibility and building self-control.
+- Tempering survivalist and destructive thinking.
+- Taking risks and overcoming fears.
+- Managing insecurity and fears of rejection.
+- Appropriately expressing vulnerability and building trust.
+- Supporting a healing environment and encouraging intimacy.
+- Eliminating manipulation, abuse of power, and any obsession with control.
+- Getting rid of overdependence and victim or martyr roles.
+- Improving assertive behavior and removing passive aggressiveness.
+- Setting relationship goals with others.
+- Handling conflict and confrontation.
+- Forgiving and forgetting.
+- Removing guilt and shame.
 
-## Privileges
+## Pay attention to when others violate your boundaries
 
-Beyond rights, we also have privileges. Rights are things we ought to have, but privileges are things we *can* do even when we have no inherent right to them because they're part of *others'* rights.
+A. Identify symptoms of past or present violated/ignored boundaries:
 
-Many times, people believe their privileges *are* rights, often from a privileged [upbringing](people-family.md) or [cultural](people-culture.md) indoctrination:
+1. Identify which of the symptoms are current or past-tense.
+2. Write down details in a journal about the triggers for those behaviors.
+3. Provide details about how those symptoms influence the present.
+4. Describe how you feel about the symptom's effect on your life.
 
-- Being believed isn't a right because that would infringe on others' rights to think and believe what they want.
-- Any physical possession or property isn't a right if it significantly harms other individuals.
-- [Love](people-love.md) isn't a right, since that would require others to desire differently than they prefer.
-- Any service another person provides (e.g., [education](education.md), [auto](autos.md) repair) isn't a right because it would force them into [slavery](slavery.md)
+B. Understand what caused the boundary violations:
 
-APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
+1. Track any irrational or unhealthy thoughts leading to the boundary violation.
+2. Trace which beliefs drive those thoughts.
 
-Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](people-rules.md).
+C. Replace the unhealthy thoughts with better ones:
 
-APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](socialrisk.md) on adding value to the public.
+- Find more reasonable thoughts, affirmations, and beliefs that encourage [habits](habits.md) that respect yourself and others more.
 
-APPLICATION: Nothing is technically free, and receiving *anything* is technically consenting to an unspoken agreement.
+We cycle roughly through stages as we learn good boundaries:
 
-## Privacy
+1. Resentment, frustration, or anger at the various recurring violations as we discover them.
+2. Finding role models for new behaviors we want to model.
+3. Connecting with others who also love good boundaries.
+4. Learning love for ourselves and gratitude for blessings.
+5. Saying "no" in small ways in a nurturing environment.
+6. Finding happiness as we bypass former feelings of guilt.
+7. Saying "no" to larger things with difficult people or a legitimate risk.
+8. Realigning our conscience to the new standard.
+9. Respecting others' views and boundaries as much as ourselves.
+10. Instinctively aligning our boundaries to goals by saying "no" when unsure and "yes" when it's called for.
 
-Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](understanding.md).
+## Honoring others' boundaries requires tact
 
-The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](people-culture.md):
+Tact is behaving inoffensively:
 
-- Observing a person while they're not fully clothed.
-- Knowledge of what a person possesses or may possess.
-- Past events tied to someone.
-- Ability to do specific things or with a specific [tool](technology.md).
+- Avoiding offense requires honoring norms and sharing empathy for others.
+- Everyone has a fragile ego, though most people learn defenses to protect it.
+- We respect others' hurt to the degree we feel it, which is often how we connect and build relationships.
 
-Our [feeling](mind-feelings.md) against others violating our privacy is usually [irrational](logic.md). We tend to [imagine](imagination.md) that all violations of our [safety](safety.md) represent a risk:
+The Golden Rule is "treat others the way you want to be treated", but empathy is more than that:
 
-- If everyone knew where you lived, most people wouldn't care.
-- Where you ate lunch or spent last Friday isn't typically relevant to most people.
-- Your music preferences can't do much if everyone else knows.
+- The Platinum Rule is "treat others the way *they* wish to be treated".
+- While sympathy identifies others' experiences, empathy can identify their feelings and thoughts.
+- Try to understand their background and see their perspective.
+- Deliver authentic praise and avoid input that doesn't help.
+- Never say clichés like "everything happens for a reason" or "this will pass".
+- Only expect from others what they can legitimately do.
 
-Most privacy concerns over small things are associated with others' ability to [predict](imagination.md) your behavior. However, people keep making [decisions](people-decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
+Giving empathy isn't difficult to understand, but is uncomfortably open:
 
-This privacy sometimes extends to everyone, but more often only applies to outsiders of a [group](groups-member.md). Typically, there's someone responsible for managing that privacy, so they usually have disproportionate [power](power.md) over that information.
+- We must use feelings to interpret what other people are thinking instead of merely our expectations, which becomes more difficult the more that we know.
+- Sharing feelings requires vulnerability.
+- We frequently become accustomed to distrust if we weren't raised in it, and [it's difficult to break from it](habits.md).
+- Empathy usually requires patience to hold your thoughts and slow your speaking until you know the exact words to express meaningful and relevant feelings.
 
-Often, in a [larger group](groups-large.md), the leader doesn't have the time to keep close track of everything. In that case, the manager will often assign "keys" to everyone who's in that group (e.g., ID cards, [passwords](encryption.md), physical keys).
+### Tact honors many, many small rules
 
-Unfortunately, there's no easy way to keep track of those keys. The manager must [trust](trust.md) everyone's ability to keep track of them. And, if any of them are stolen, it creates two possibilities:
+Your attitude is more important than your conduct:
 
-1. Everyone had the same key, so they must get new ones.
-2. Everyone had a different key, and the stolen keys are rendered invalid.
+- Promptly responding is a sign of respect, and people will forgive a cultural failing if they know you're *trying* to respect them.
+- Typically, people are vaguely aware of your background from their first impression of you.
+  - If you honor their customs, but they insist on what you're familiar with, use them even if they do it poorly.
+  - If they instruct you about their methods, oblige and graciously thank them.
+- Generally, you're safe if you can match the body language, speaking style, mannerisms, and posture of others around you with a similar social position.
+- Learn to give plenty of affirming, inoffensive compliments to people when they're there and *not* there.
+- There's no way to kindly communicate that you already know something, so simply say "thank you" and move on.
 
-Unfortunately, every single security idea requires a comparatively [unsafe](safety.md) "door" or entryway that someone could theoretically enter without official authorization. Power and [understanding](understanding.md) *always* tempts our [human nature](humanity.md), so every effective privacy measure is complicated, ridiculous, and time-intensive.
+Give many affordances for others:
 
-APPLICATION: We tend to trust [larger groups](groups-large.md) because they seem [stronger](power.md), but a larger group is *less* [safe](safety.md) than a [smaller one](groups-small.md) because they can't handle privacy as intimately.
+- People need to know when they're free to interject or respond.
+- *Frequently* give them silence at the end of your complete idea.
+- Provide simple questions throughout the conversation and adapt the flow of the discussion to their answers.
+- The conversation will go *many* places, so if you have many things to say, you'll probably only say about 10% of them.
 
-[Technology](technology.md) magnifies our results, so it also magnifies the role of privacy against intruders. We can make elaborate [security](safety.md) systems, but it allows elaborate invasions of those systems.
+Research what you don't know:
 
-APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](understanding.md) about it.
+- There are [many, *many* social rules](people-rules.md) to watch for, and you won't know all of them without lots of experience.
+- Search the internet for advice.
+- Ask friends familiar with the culture.
+- Be careful, though, since asking strangers about appropriate behavior is sometimes [taboo](morality-taboo.md) as well.
+
+Once you've learned tactfulness, you can often learn to [be more influential with others](power-influence-how.md), but it's not a necessary part of living well.

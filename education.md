@@ -18,10 +18,10 @@ Everyone in a modern society must learn the basics of [reading](language.md), [w
 1. Consuming real-life [stories](stories.md) from the learner's favorite past era (i.e., [History](stories-storytellers.md))
 2. The learner's preferred tactile form of [creation](mind-creativity.md) such as [computer programming](computers-software.md), sculpting, writing or fine art (i.e., "the Arts")
 3. Showcased models of [virtue](morality.md) and [success](success-1_why.md) through the learner's preference of [media](creations.md), which typically includes music, video, literature, poetry, and video games (i.e., Comedy in classical Greek vernacular)
-4. Showcased models of human [conflict](conflicts-inner.md) and [pain](mind-feelings-fear.md) in difficult situations, again through the learner's preference of [media](creations.md) (i.e., Tragedy)
+4. Showcased models of human [conflict](people-conflicts-inner.md) and [pain](mind-feelings-fear.md) in difficult situations, again through the learner's preference of [media](creations.md) (i.e., Tragedy)
 5. Discipline in the learner's preference of the [sciences](science.md), such as astronomy, biology, or physics
 6. Broad coverage of all the [religions](religion.md) as far as the learner wishes to understand
-7. Understanding [basic life skills](https://adequate.life/habits/) and [technology](technology.md) enough to [coexist](people-boundaries.md) with others, as well as any [specializations for modern society](jobs-specialization.md)
+7. Understanding [basic life skills](https://adequate.life/habits/) and [technology](technology.md) enough to [coexist](people-boundaries-why.md) with others, as well as any [specializations for modern society](jobs-specialization.md)
 
 Learning a wide range of interests gives us more skills at creatively [solving our problems](https://adequate.life/fix/), *especially* when we are in a [hyper-specialized](jobs-specialization.md) [social group](groups-member.md).
 
@@ -35,7 +35,7 @@ APPLICATION: Kids are generally learning more from their free time and recess th
 
 Learning isn't technically necessary to try things, and someone can [try anything](purpose.md) without prior education. Someone who wishes to learn is moderately afraid of the risks of failure, and wishes to avoid them. On the other end of the relationship, a teacher is afraid of *other* people failing.
 
-People who enjoy education for its own sake (e.g., teachers, professors, philosophers) have a tendency to find [meaning](meaning.md) and [relationships](people-friends.md) inside the [created works](creations.md) of others in a secluded environment. For many of them, their [friends](people-friends.md) *are* their books, since they're able to penetrate past the writing into the [meaning](meaning.md) and [soul](humanity.md) of the writers themselves.
+People who enjoy education for its own sake (e.g., teachers, professors, philosophers) have a tendency to find [meaning](meaning.md) and [relationships](people-friends-why.md) inside the [created works](creations.md) of others in a secluded environment. For many of them, their [friends](people-friends-why.md) *are* their books, since they're able to penetrate past the writing into the [meaning](meaning.md) and [soul](humanity.md) of the writers themselves.
 
 APPLICATION: To learn the most, we must desire *many* uses of the information we find. More desire means we naturally understand the information more.
 
@@ -47,7 +47,7 @@ APPLICATION: We learn when we need to or want to, but not because others told us
 
 FURTHER APPLICATION: Good teachers start with a passion for the subject, which they then [influence](power-influence.md) into their students. You're only around a good teacher if you learn something new with them every time you have a conversation with them and find new joy in the subjects they're covering.
 
-If the knowledge is worthwhile, it's difficult for it to go away. Any [meaningful](meaning.md) knowledge, however, will persist across societies. Even when [war](people-conflicts-war.md) destroys the knowledge itself, people can reconstruct it rather quickly in another form or media. This only works in proportion to that society's [literacy](language-writing.md), though (which is why we may likely have had 3 [Bronze Ages](history-eras.md))
+If the knowledge is worthwhile, it's difficult for it to go away. Any [meaningful](meaning.md) knowledge, however, will persist across societies. Even when [war](people-conflicts-war-why.md) destroys the knowledge itself, people can reconstruct it rather quickly in another form or media. This only works in proportion to that society's [literacy](language-writing.md), though (which is why we may likely have had 3 [Bronze Ages](history-eras.md))
 
 ## Measuring
 
@@ -65,9 +65,9 @@ The most distinctive measure of education is that a person can rely on their [un
 
 APPLICATION: To detect the quality of a teacher, ask students a week or month after the test what they learned.
 
-A person will, however, aspire to gain an educational credential because they're trying to [signal](image.md) specific [groups](groups-large.md) that they're a new [member](groups-member.md).
+A person will, however, aspire to gain an educational credential because they're trying to [signal](people-image-why.md) specific [groups](groups-large.md) that they're a new [member](groups-member.md).
 
-In the absence of a standard test, the entire system becomes a [political free-for-all](mgmt-badsystems.md), with [reputation](image.md) management and [wealthy](power-types.md) [families](people-family.md) overriding any measure of [quality](values-quality.md).
+In the absence of a standard test, the entire system becomes a [political free-for-all](mgmt-badsystems.md), with [reputation](people-image-why.md) management and [wealthy](power-types.md) [families](people-family.md) overriding any measure of [quality](values-quality.md).
 
 ## Conveying
 
@@ -79,7 +79,7 @@ One blind spot with any teacher, by the nature of who they are, is that they hav
 
 APPLICATION: Those who are most afraid of things will teach about them. While ineptitude may instigate that fear, over-thinking is just as sufficient.
 
-Beyond decent-enough [speaking](language-speaking.md) and [writing](language-writing.md) skills, a good teacher has a profoundly accurate [impression](image.md) of the student's [understanding](understanding.md) that approximates what the student is thinking. This means they can communicate the information exactly to that person, while also being able to anticipate and answer the rational questions the student was going to ask next. To keep it interesting, they'll appeal to [novelty](unknown.md) over [repetition](habits.md).
+Beyond decent-enough [speaking](language-speaking.md) and [writing](language-writing.md) skills, a good teacher has a profoundly accurate [impression](people-image-why.md) of the student's [understanding](understanding.md) that approximates what the student is thinking. This means they can communicate the information exactly to that person, while also being able to anticipate and answer the rational questions the student was going to ask next. To keep it interesting, they'll appeal to [novelty](unknown.md) over [repetition](habits.md).
 
 The limits of our abilities to [understand](understanding.md) and teach have an inverted relationship. If we become *extremely* specialized into a domain, we often can't articulate it to others. On the other hand, if we're preoccupied with teaching well, we'll often disregard our continued studies further into the subject.
 
@@ -137,7 +137,7 @@ Great teaching is [not scalable](groups-large.md), and the most effective teachi
 
 ## Bad teaching
 
-The role of teaching, like every other form of [power](power.md), draws many people who selfishly desire [social status](groups-small.md) or [specialized ability](jobs-specialization.md) to leverage elsewhere. A teacher's knowledge makes them inherently more [powerful](power.md) in their [understanding](understanding.md) than the students (or, at least, they [appear](image-distortion.md) to be).
+The role of teaching, like every other form of [power](power.md), draws many people who selfishly desire [social status](groups-small.md) or [specialized ability](jobs-specialization.md) to leverage elsewhere. A teacher's knowledge makes them inherently more [powerful](power.md) in their [understanding](understanding.md) than the students (or, at least, they [appear](people-image-distortion.md) to be).
 
 Most [educational institutions](groups-large.md), though, have no other measurement of a teacher's [influence](influence.md), so they revert to how *long* someone was an educator (i.e., tenure). For this reason, most of the promotion and advancement of a teacher's status comes through [political influence](influence.md) and merely existing in a role, rather than any comparatively universal standard of quality.
 
@@ -147,8 +147,8 @@ For this reason, many formal teaching institutions run the same risks of any oth
 
 - Teachers in many schools are often required to teach the same curriculum to every group of students who arrive, meaning they effectively stop learning themselves unless they pursue their education *outside* the classroom.
 - In their [hubris](morality-evil.md), many teachers desire to be right more than correct. They hamper the pursuit of the truth for their students.
-- Some ideas are [self-created](creations.md), but teachers are frequently taught their ideas are worthless. They often hide behind [circuitous references to other sources](image-distortion.md) to avoid self-ownership.
-- In a classroom, teachers possess legitimate [authority](power.md) to control the class, so a bad teacher can easily devolve into small-scale [tyranny](people-boundaries.md) if the administration gives them too much additional authority.
+- Some ideas are [self-created](creations.md), but teachers are frequently taught their ideas are worthless. They often hide behind [circuitous references to other sources](people-image-distortion.md) to avoid self-ownership.
+- In a classroom, teachers possess legitimate [authority](power.md) to control the class, so a bad teacher can easily devolve into small-scale [tyranny](people-boundaries-why.md) if the administration gives them too much additional authority.
 - Teachers will frequently hide how little they know with confusing [language](language.md) (e.g., Latin). It tends to impress the majority of the students, but more intelligent students often see right through it after some experience with it.
 - Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
 - If school standards start failing, school systems will often start drilling and training their students harder to compete with other schools.
@@ -206,7 +206,7 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
-APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](trends.md) by seeking the [compromise](conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
+APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
 
 Bad educators wish to be important as much as good educators, but most bad educators will find their students out-succeeding them to be [unacceptable](morality-taboo.md), similarly to [awful parents](people-family.md).
 
@@ -217,10 +217,10 @@ APPLICATION: A smart student can still learn from a dumb teacher, though they'll
 Intelligent people who are formally educated in a bad teaching system without much [life experience](goodlife.md) tend to create a distinctive [culture](people-culture.md) that's not particularly good for society at large:
 
 - They don't [trust](trust.md) their own or others' [instincts](mind-feelings.md). They'll [reason](logic.md) that those instincts are [irrational cognitive biases](mind-bias.md), but fail to see that there is still [utility](purpose.md) in everyone's perception.
-- They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).
+- They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](people-image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).
 - Any [common-sense](reality.md) explanation will make them say "it's not that simple", similarly to how a person defends a [religion](religion.md). They are often unaware that they're suffering a crisis of [faith](trust.md).
 
-APPLICATION: Generally, experts are 98% right on more straightforward matters, but any [conflicted discussion](people-boundaries.md) within that community (e.g., the ideal way to [amortize an asset](money-accounting.md) or [cover a risk](money-insurance.md)) guarantees they'll only be about 30-50% right. At that point, it's better to trust your [instincts](mind-feelings.md) or simply *distrust* the experts.
+APPLICATION: Generally, experts are 98% right on more straightforward matters, but any [conflicted discussion](people-boundaries-why.md) within that community (e.g., the ideal way to [amortize an asset](money-accounting.md) or [cover a risk](money-insurance.md)) guarantees they'll only be about 30-50% right. At that point, it's better to trust your [instincts](mind-feelings.md) or simply *distrust* the experts.
 
 [Technology](technology.md) gives tremendous [power](power.md) for people to educate others in many ways, *without* the approval of an educational institution. This, in turn, gives more power to everyone else to understand just about everything that could be understood:
 

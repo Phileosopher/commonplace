@@ -22,7 +22,7 @@ We only tend to notice addicts when they're *more* addicted than us. Below a cer
 
 Cultures will frequently share similar addictions, so most people end up believing themselves to be generally free of addiction to a substance while they cling desperately to something they never thought of as an addiction alongside their peers.
 
-APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries.md) them, sometimes because it's [culturally](people-culture.md) accepted, but must stay aware of their substances when dealing with them.
+APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries-why.md) them, sometimes because it's [culturally](people-culture.md) accepted, but must stay aware of their substances when dealing with them.
 
 If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](culture-cults.md).
 
@@ -33,7 +33,7 @@ Every person risks an addiction, at any time, when they have unrestrained [desir
 Addicts never start off as addicts. As children, the decisions that begin their descent into obsession are typical children's behaviors:
 
 - Children who want to fit in with others will sacrifice their virtues in the process.
-- A child will work to improve their [image](image.md) by stretching their [stories](stories.md), which is the basis for a future con artist or compulsive liar.
+- A child will work to improve their [image](people-image-why.md) by stretching their [stories](stories.md), which is the basis for a future con artist or compulsive liar.
 - A child with anger issues can easily become an abusive father.
 
 Addicts start by letting [feelings](reality.md) overstep [reality](reality.md), then slowly end up [falling in love](people-love.md) with something that can make them happy.
@@ -48,7 +48,7 @@ However, we tend not to notice an advancing addiction because it takes over slow
 4. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](people-decisions.md) our allegiance to that thing.
 5. We start small with our sacrifices and give up things we deem unnecessary by comparison. As the diminishing return scales, we progressively give up more to maintain the habit.
 6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](people-decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
-7. At this point, *everyone* close to the addict will have [noticed](image.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-4_friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](image.md). In this sense, they're a public disgrace from a worse place.
+7. At this point, *everyone* close to the addict will have [noticed](people-image-why.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-4_friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](people-conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](people-image-why.md). In this sense, they're a public disgrace from a worse place.
 8. To run from all the [pain](hardship-ptsd.md) of the bad decisions, addicts push themselves harder into the substance. They were running *from* life before, but now they're running *to* the object that will "fix" their pain.
 9. Eventually, an addict will have to [invest](power.md) so much into the substance that they'll devote *everything* to it.
 10. If the person doesn't realize they have a *huge* problem and are willing to receive help for it, they'll end up [destroying](morality-evil.md) their lives and everyone else around them.
@@ -102,7 +102,7 @@ People frequently use [technology](technology.md) to enhance their addiction and
 
 - Many new food products are [delicious](cooking.md) from [unhealthy additions](body-4_health.md).
 - Many gamers are modern book addicts who no longer need a vivid [imagination](imagination.md).
-- New mind-altering drugs create novel, intense [experiences](image.md), legally or non-.
+- New mind-altering drugs create novel, intense [experiences](people-image-why.md), legally or non-.
 
 For the sake of [marketing](marketing.md), many addictive products are very accessible, and the addicts often become *very* loyal to particular brands. This creates a codependent synergy between the institution and individual. This can include governments that legalize the product as well.
 

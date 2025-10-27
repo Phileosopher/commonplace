@@ -153,7 +153,7 @@ Get advice from a friend or family member who has tech industry experience. Or, 
 
 When you first start out, junior software development is a bit of a demotion, both in pay and status, if you have a few years of experience in something else. It's worth the sacrifice if it's something you want to do, but it might be disorienting if you're older than 25 or [in a management position](mgmt-1_why.md).
 
-The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of them craft their [image](image.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on who's managing you.
+The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of them craft their [image](people-image-why.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on who's managing you.
 
 No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](people-culture.md) you may grow to love) will ever last more than 2-5 years.
 
@@ -203,7 +203,7 @@ Thankfully, your experience isn't useless. One soft skill that only comes throug
 3. Non-people-focused and team-based: R&D, Security Analyst, Data Science
 4. Non-people-focused and independent: QA Engineer, No-Code Developer, Sysadmin
 
-In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](people-contracts.md), [expertly handling conflicts](people-5_conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-1_why.md).
+In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](people-contracts.md), [expertly handling conflicts](people-conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-1_why.md).
 
 If you prefer, aim for part-time work [during the negotiation](jobs-6_negotiating.md), which you can usually do if the work is trivial enough for you to do it easily. Very often, you can get paid a bit less, but with more freedom to do what you want (which you're *not* getting paid for).
 

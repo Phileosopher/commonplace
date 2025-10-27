@@ -3,7 +3,7 @@
 
 Housekeeping is [organization](organization.md), but with more cleaning.
 
-Cleaning is removing debris and filth from things with the three major purposes of maintaining a visual [appearance](image.md), odor control, and hygiene.
+Cleaning is removing debris and filth from things with the three major purposes of maintaining a visual [appearance](people-image-why.md), odor control, and hygiene.
 
 Cleaning is easier if you understand how pH works:
 

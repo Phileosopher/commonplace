@@ -9,11 +9,11 @@ In fact, barring [human universals themselves](humanity-universals.md), *everyth
 - Choices of [language](language.md), body language, gesture, or behavior
 - [Created things](creations.md) like [media](stories.md), [consumer goods](creations.md), [art](values-quality.md)
 - Forms of [thinking](understanding.md) and lines of [reasoning](logic.md)
-- The [friendships](people-friends.md) and [influence](influence.md) of a new person in a [group](groups-member.md)
+- The [friendships](people-friends-why.md) and [influence](influence.md) of a new person in a [group](groups-member.md)
 - [Agreements](people-contracts.md) among interested parties
-- The [image](image.md) of an [organization or social movement](groups-small.md) as witnessed by everyone observing it
+- The [image](people-image-why.md) of an [organization or social movement](groups-small.md) as witnessed by everyone observing it
 - [Technologies and tools](technology.md), as well as toys
-- Certain political things like [civil liberties](people-boundaries.md) and approval of government policies
+- Certain political things like [civil liberties](people-boundaries-why.md) and approval of government policies
 - Even the way we interpret thoughts is a "trend". People gain interest in something, then become familiar, then grow bored with it after a while.
 
 Most people must [understand](understanding.md) a trend to adopt it, so every successful trend's [essence](values.md) can be simply described. Each trend is a [symbolic](symbols.md) conclusion to a [story](stories.md) that started with a [group](groups-small.md) that recognized a [problem](purpose.md) and tried to fix it.
@@ -47,11 +47,11 @@ Every trend's cycle, if spread across more than a few years, travels through a f
 
 When we [predict](imagination.md) trends, we're relatively reliable at guessing *what* trends will come, but are awful at predicting timing, even with robust [analysis](logic.md).
 
-Each trend consists of sub-trends that can spin off on their own (all of them drilling down to each individual's [understanding](understanding.md) and [inner conflicts](conflicts-inner.md)), so we can only [look ahead](imagination.md) a few months at the most before every model becomes useless.
+Each trend consists of sub-trends that can spin off on their own (all of them drilling down to each individual's [understanding](understanding.md) and [inner conflicts](people-conflicts-inner.md)), so we can only [look ahead](imagination.md) a few months at the most before every model becomes useless.
 
 A trend is a series of many [stories](stories.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
 
-APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](image.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
+APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](people-image-why.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
 
 The only way we'd be able to reliably predict the timing of a trend would be to [understanding](understanding.md) all the trends and [technology](technology.md) that haven't happened yet in between where we are and what we envision. We'd also have to consider all major factors that could tweak the trend's adoption ([example here](https://ncase.me/attractors/)).
 
@@ -70,7 +70,7 @@ A trend can't be stopped, but it *can* be dramatically altered.
 
 The [value system](values.md) of a group determines how quickly they'll adopt new trends, specifically regarding [risk tolerance](socialrisk.md):
 
-- Governments never need to move quickly unless they're in a [war](people-conflicts-war.md), so they tend to drag at adopting in any other field.
+- Governments never need to move quickly unless they're in a [war](people-conflicts-war-why.md), so they tend to drag at adopting in any other field.
 - Healthcare has many life-and-death situations where they can be [blamed](people-contracts.md) for killing people with [uncertain](understanding-certainty.md) things. Thus, it's in their best interests to *always* adopt slowly, even if it kills people who couldn't receive the new life-saving medicine or procedure.
 - [Education](education.md)-based groups are massive and have an aversion to large-scale changes, largely from [how long they've been around](people-culture.md) and their [attitude about new things](mgmt-badsystems.md).
 
@@ -82,21 +82,21 @@ If a trend wields a new [type of power](power-types.md) that would make an older
 - Big Ice tried to stop refrigerators.
 - The Catholic Church tried to stop the propagation of Bibles that spoke against pay-to-play sin forgiveness, then tried to stop the Protestants who believed it.
 
-The more [taboo](morality-taboo.md) the trend is, the longer it'll take for everyone to adopt it. But, if it *does* get adopted, it'll create *many* more [conflicts](people-conflicts.md) across society as it becomes a [social standard](people-culture.md).
+The more [taboo](morality-taboo.md) the trend is, the longer it'll take for everyone to adopt it. But, if it *does* get adopted, it'll create *many* more [conflicts](people-conflicts-why.md) across society as it becomes a [social standard](people-culture.md).
 
 There are a few ways to slow a trend, but nothing that can fully stop it:
 
 - Get in front of the trend and prevent the early adopters from [understanding](understanding.md) the thing. This can range from [severing](morality-taboo.md) [group interaction](people-conversation.md) with innovators and early adopters all the way to excommunicating or killing them.
 - [Influence](influence.md) people away from the trend with well-made [stories](stories.md) that inspire [fear](mind-feelings-fear.md). Often, they'll [moralize](morality.md) an otherwise non-moral matter or compare the trend to an unrelated trend.
-- Destroy everything related to the trend, including forbidding [language](language.md), [portraying](image-distortion.md) [false stories](stories-storytellers.md), and [killing people](morality-evil.md).
+- Destroy everything related to the trend, including forbidding [language](language.md), [portraying](people-image-distortion.md) [false stories](stories-storytellers.md), and [killing people](morality-evil.md).
 
 ### Speeding a trend's transition
 
 Generally, the longer a trend stays popular, the more excited everyone will be about a replacement trend. In that sense, [bad systems](mgmt-badsystems.md) are often magnifying the [power](power.md) of the new trend.
 
-Forward-thinking people who want power will try to hasten a trend. New trends require [creativity](mind-creativity.md), so they're fostered more than provoked. Like any other creative thing, starting trends requires giving more information or [influence](influence.md) to people, either to aid [understanding](understanding.md) or promote the trend's [status](image.md).
+Forward-thinking people who want power will try to hasten a trend. New trends require [creativity](mind-creativity.md), so they're fostered more than provoked. Like any other creative thing, starting trends requires giving more information or [influence](influence.md) to people, either to aid [understanding](understanding.md) or promote the trend's [status](people-image-why.md).
 
-Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](image.md) people were [feeling](mind-feelings.md) for a while.
+Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](people-image-why.md) people were [feeling](mind-feelings.md) for a while.
 
 Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](people-decisions.md) *any* trend outside of that one, and it shifts unsettlingly fast.
 
@@ -117,7 +117,7 @@ Most large-scale trends tend to cycle themselves into other associated trends:
 - [Technology](technology.md) will often create [trend cycles](https://trendless.tech/trends/) that didn't exist before. For example, our [idea](values.md) of "seconds" and "milliseconds" comes from how well we can now [measure](math.md) time.
 - When [mechanical objects](engineering.md) first came into existence, most [science](science.md) of the time treated the body and mind as a mechanical object. The same is true right now with [computers](computers.md).
 
-Many trends feed into each other. Often, society-rocking trends are usually the convergence of *many* people with multiple types of [desires](purpose.md) that get fulfilled from one thing. Typically, they'll fade as fast as they started because our [image](image.md) of [reality](reality.md) often deceives us, especially when we hear a [story](stories-storytellers.md) that gives us false [hope](understanding-certainty.md).
+Many trends feed into each other. Often, society-rocking trends are usually the convergence of *many* people with multiple types of [desires](purpose.md) that get fulfilled from one thing. Typically, they'll fade as fast as they started because our [image](people-image-why.md) of [reality](reality.md) often deceives us, especially when we hear a [story](stories-storytellers.md) that gives us false [hope](understanding-certainty.md).
 
 APPLICATION: To make the most strides in [advancing](purpose.md), society needs a precarious balance that gives enough conflict to create resistance, but not enough conflict that [bad systems](mgmt-badsystems.md) can take over. The only [safety](safety.md) is in [change](people-changes.md), and the only progress arises from [convention](habits.md).
 
@@ -133,7 +133,7 @@ Often, [values](values.md) associated with things will *completely* invert thems
 - Clothing fashions move from conservative, back to liberal, back to conservative again, and often split and go in *opposite* directions at the same time.
 - Writing styles across centuries tend to shift from blunt, to poetic and florid, and back to terse again.
 
-APPLICATION: When we hear of [political movements](politics-conservativeliberal.md) that overstep their boundaries, the tide will shift when most people get sick of it enough to [react](people-conflicts-war.md).
+APPLICATION: When we hear of [political movements](politics-conservativeliberal.md) that overstep their boundaries, the tide will shift when most people get sick of it enough to [react](people-conflicts-war-why.md).
 
 This pendulum effect means [moralizing](morality.md) non-moral things can be dangerous to anyone's sanity, and [exiling](morality-taboo.md) heretics often comes back around later.
 
@@ -152,9 +152,9 @@ APPLICATION: Everything has its season, and watching for the timing of a season 
 
 Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](politics-leftism.md)):
 
-1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries.md)).
+1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries-why.md)).
 2. No slow exposure to increasing challenges sabotages the means of [accomplishing](purpose.md) (e.g., burning/exiling heretics, insufficient [resources](power-types.md)), and growth that's too slow won't make the [impact](results.md) it could have otherwise (since we all must contend with our [eventual end](legacy.md)).
-3. Without a full-intensity resistance at the end the [story](stories.md) never becomes a [legend](stories-storytellers.md) to inspire others later without [lying about it](image-distortion.md) and can often leave [doubt](unknown.md) within the participants' mind that can sabotage longevity (i.e., "did I really reach my peak?"). But, if the resistance goes so heavily that it destroys someone, it becomes a crushing [story](stories.md) of defeat and despair (e.g., a crushed [political resistance](people-conflicts-war.md), cultural [taboos](morality-taboo.md) based on others who came before).
+3. Without a full-intensity resistance at the end the [story](stories.md) never becomes a [legend](stories-storytellers.md) to inspire others later without [lying about it](people-image-distortion.md) and can often leave [doubt](unknown.md) within the participants' mind that can sabotage longevity (i.e., "did I really reach my peak?"). But, if the resistance goes so heavily that it destroys someone, it becomes a crushing [story](stories.md) of defeat and despair (e.g., a crushed [political resistance](people-conflicts-war-why.md), cultural [taboos](morality-taboo.md) based on others who came before).
 
 A cycle may appear unsustainable as a positive feedback loop (where the cycle becomes more extreme). But, when scoped out far enough, the meta-cycle is always a negative feedback loop (where elements of the cycle maintain that cycle).
 
@@ -172,9 +172,9 @@ Part of the existence of cycles comes through [aging](maturity.md):
 1. People tend to nostalgically remember the trends of their teenage years as the "best time of their lives".
 2. Younger people are more likely to (loudly) adopt trends, though their influence to advance them will be very limited until their early 30's.
 3. Our [understanding](understanding.md) maxes out around age 51, and we tend to resist new trends at that time.
-4. For that reason, society as a collective whole always [fights](people-conflicts-war.md) between trends from 35 years ago and trends from 10-15 years ago.
+4. For that reason, society as a collective whole always [fights](people-conflicts-war-why.md) between trends from 35 years ago and trends from 10-15 years ago.
 
-APPLICATION: Beyond [technology](technology.md), most of society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](image.md), and the [youth](maturity.md) *always* think a trend is new.
+APPLICATION: Beyond [technology](technology.md), most of society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](people-image-why.md), and the [youth](maturity.md) *always* think a trend is new.
 
 APPLICATION: If you believe something people had believed 100 years ago and still do, you'll likely be right 100 years from now. Those things are likely [universal to humanity](humanity-universals.md), and transcend [culture](people-culture.md). The same generally applies for wrong things as well.
 

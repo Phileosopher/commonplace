@@ -9,7 +9,7 @@ Despite our differences, people want approximately the [same abstracted things](
 - Work a [job](jobs-specialization.md) they can stand.
 - Come home to their [family](people-family.md) and spend time with them.
 - [Recreate](purpose.md) after work.
-- [Connect](people-friends.md) consistently with friends and family.
+- [Connect](people-friends-why.md) consistently with friends and family.
 - Generally, within reason, do whatever they [feel](mind-feelings.md) like.
 
 While these things are the some, some methods won out the majority of a group's approval to achieve the [purposes](purpose.md) they were striving for, so it became the [standard](standards.md).
@@ -18,13 +18,13 @@ APPLICATION: *Everything* we do [habitually](habits.md) with others is a cultura
 
 These groups span [all sorts of ranges](groups-small.md).
 
-Unlike [things universal to humanity](humanity-universals.md), cultural traits are *not* universal to everyone, and the [specific methods](people-boundaries.md) for that group can be contrasted heavily against others.
+Unlike [things universal to humanity](humanity-universals.md), cultural traits are *not* universal to everyone, and the [specific methods](people-boundaries-why.md) for that group can be contrasted heavily against others.
 
-We tend to think something is "normal" if it matches our culture and "odd" if it doesn't. However, if we insist on influencing others against *their* version of "normal" (instead of simply accepting their views), we experience a cultural [conflict](people-conflicts.md).
+We tend to think something is "normal" if it matches our culture and "odd" if it doesn't. However, if we insist on influencing others against *their* version of "normal" (instead of simply accepting their views), we experience a cultural [conflict](people-conflicts-why.md).
 
 Social status in a culture is always a [biased](mind-bias.md) judgment, but it's *generally* consistent enough to [measure](math.md) across a population.
 
-Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](image.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](people-rules.md) than standing by any particular [principle or value system](values.md).
+Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](people-image-why.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](people-rules.md) than standing by any particular [principle or value system](values.md).
 
 A culture has value because it maintains a people group's [inherent trust](trust.md) of one another, which in turn affects their [overall happiness](goodlife.md).
 
@@ -37,7 +37,7 @@ Many cultural standards are established from the [natural environment](reality.m
 - Coastal societies require more people to know how to swim, which gives more tolerance for [the unknown](unknown.md).
 - Societies with more [technology](technology.md) have more order, implemented as [bureaucracy](bureaucracy.md).
 - People groups with limited access to other people groups will be more self-sufficient and less sociable.
-- Societies with more [networked *information* technology](networks-computer.md) will trust a [data reputation](image-modern.md) over their [story](stories.md).
+- Societies with more [networked *information* technology](networks-cs.md) will trust a [data reputation](people-image-modern.md) over their [story](stories.md).
 
 Many cultures also draw from their surrounding cultures. An isolated tribe will only pull from nature, but a culture spread across many other cultural groups will adopt a plethora of small details from each.
 
@@ -51,7 +51,7 @@ APPLICATION: Depending on your [personality](personality.md), it may make a grea
 
 APPLICATION: Cultures are critical to give us the framing for [meaning](meaning.md) among our social groups. Even when they're [defective](mgmt-badsystems.md), the [familiarity](habits.md) gives us [certainty](understanding-certainty.md) against the [chaos of the unknown](unknown.md).
 
-APPLICATION: When you encounter a different culture, you're engaging with someone who has a radically different view of the world. Some of their actions *will* be ineffective for certain situations, but your [friendship](people-friends.md) with them will help you [understand](understanding.md) enough to see its benefits. From there, you can judge which behavior between yours and theirs is ideal for which circumstance.
+APPLICATION: When you encounter a different culture, you're engaging with someone who has a radically different view of the world. Some of their actions *will* be ineffective for certain situations, but your [friendship](people-friends-why.md) with them will help you [understand](understanding.md) enough to see its benefits. From there, you can judge which behavior between yours and theirs is ideal for which circumstance.
 
 ## Dimensions
 
@@ -76,7 +76,7 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
   - "Luxury" to the British translates as "detachment" because [sophistication](classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
   - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
   - "Shopping" is, to the French, "[learning](understanding.md) your culture" because they consider the experience to be [educational](education.md).
-  - "Luxury" to the French means "freedom" because it demonstrates the [image](image.md) of wealth.
+  - "Luxury" to the French means "freedom" because it demonstrates the [image](people-image-why.md) of wealth.
   - "[Education](education.md)" in Germany means "social status" because they consider [understanding](understanding.md) to be highly important.
   - "America" in Europe creates multiple meanings: France sees it as "space travelers", Germany sees it as "John Wayne", England sees it as "unashamedly abundant".
 - China
@@ -89,7 +89,7 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
 - USA
   - American culture is preoccupied with "[doers](results.md)" more than [thinkers](philosophy.md).
   - "[Love](people-love.md)" translates to "false expectation" because they [idolize](addiction.md) their [romantic relationships](gender.md).
-  - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries.md).
+  - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries-why.md).
   - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
   - "[Work](results.md)" translates to "[who you are](identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
   - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
@@ -108,7 +108,7 @@ Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](res
 - Feminine/Relationship-Based/[Dialogue](people-conversation.md)-Oriented focuses on harmony, context, and coexistence.
 - Masculine requires [ambition](purpose.md), but Feminine requires [understanding](understanding.md).
 
-Power Distance - how much [power](power.md) comes from [status](image.md):
+Power Distance - how much [power](power.md) comes from [status](people-image-why.md):
 
 - Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](people-decisions.md) involve everyone.
 - High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](people-decisions.md).
@@ -117,14 +117,14 @@ Power Distance - how much [power](power.md) comes from [status](image.md):
 Time Flexibility - how important deadlines are:
 
 - Linear-Time emphasizes punctuality and fulfilling deadlines (and is often more [productive](results.md) with stronger [economies](economics.md)).
-- Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends.md), and the [unknown](unknown.md)).
+- Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends-why.md), and the [unknown](unknown.md)).
 - Linear-Time requires discipline, but Flexible-Time requires grace.
 
 Time Orientation - how far into the past and future to [predict](imagination.md) things:
 
 - Short-Term Orientation/Indulgence/Monochronic focuses on the present and near future.
 - Long-Term Orientation/Restraint/Polychronic focuses on the far future and past (often with more [changes](people-changes.md)).
-- Short-Term requires [awareness](awareness.md) of present [feelings](mind-feelings.md) and [impressions](image.md), but Long-Term requires [careful planning](success-3_goals.md) and restraint.
+- Short-Term requires [awareness](awareness.md) of present [feelings](mind-feelings.md) and [impressions](people-image-why.md), but Long-Term requires [careful planning](success-3_goals.md) and restraint.
 
 Thought Mode - consider things with principles or applications:
 
@@ -148,7 +148,7 @@ Clearly, these are not exclusive dimensions. It's difficult to measure something
 
 APPLICATION: Each cultural value builds specific life skills:
 
-- Confrontational people develop strong [conflict management skills](people-5_conflicts.md), and Conflict Avoidance people become skillful at avoiding and defusing conflicts.
+- Confrontational people develop strong [conflict management skills](people-conflicts.md), and Conflict Avoidance people become skillful at avoiding and defusing conflicts.
 - Low Context people keep things simple and High Context people learn to include kind language that hide ugly [realities](reality.md).
 - Individualistic people become highly effective at calculating a [decision's](people-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
@@ -159,7 +159,7 @@ APPLICATION: Each cultural value builds specific life skills:
 - Low Uncertainty Avoidance people are [at peace](trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
 - Low Risk Tolerance people maintain a [strong community](groups-small.md), and High Risk Tolerance people withstand [changes](people-changes.md) better.
 
-APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-boundaries.md):
+APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-boundaries-why.md):
 
 - Confrontational people find Conflict Avoidance people evasive. Conflict Avoidance people find Confrontational people rude.
 - Low Context people find High Context people vague. High Context people find Low Context people destructive.
@@ -189,7 +189,7 @@ Our choice and flow of [language](language.md) show our cultural background:
 
 *Everyone* in a group is mostly conforming to what they see as the group's standards. With the possible exception of the [highest leadership](groups-small.md) in a group that's been around for only a few years, each person is trying to honor the values that the group's standards have employed.
 
-This doesn't mean we don't possess unique opinions and ideas apart from the group. But, we tend to scale them back to prevent [conflicts with others](people-conflicts.md) in that group. Generally, the desires are expressed via over-[identification](identity.md) with specific [trends](trends.md) that reflect what we want that go against the group standards.
+This doesn't mean we don't possess unique opinions and ideas apart from the group. But, we tend to scale them back to prevent [conflicts with others](people-conflicts-why.md) in that group. Generally, the desires are expressed via over-[identification](identity.md) with specific [trends](trends.md) that reflect what we want that go against the group standards.
 
 Most cultures adopt mindless traditions over time:
 
@@ -226,7 +226,7 @@ Some well-established people in a formerly [powerful](power.md) culture will som
 
 Most people, especially [younger people](maturity.md), will naturally adapt to other cultures they come across. As they pick-and-choose the elements they like the most, they'll become less like their old culture and will eventually become a "third culture" that synthesizes their two backgrounds. We can't really help this, since we're always at least somewhat [influenced](influence.md) by the world around us.
 
-Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](image.md) contains many profound [truths](understanding.md) that other cultures' hubris will overlook.
+Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](people-image-why.md) contains many profound [truths](understanding.md) that other cultures' hubris will overlook.
 
 Third-culture people are in key positions to frame [brand-new cultures of their own](socialrisk.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](people-changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
 
@@ -238,8 +238,8 @@ Anytime someone encounters someone else from a different culture (and sometimes 
 
 If the younger members of a culture are significantly different enough from the older members (often from them heavily [adopting trends](trends.md), and often through major [technological leaps](technology.md) across generations), there will be dramatic changes within a culture that will permanently shift a culture.
 
-The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* cultural revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war.md).
+The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* cultural revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war-why.md).
 
 In the mix of the deconstruction, a culture can suffer severe "anomie" (normlessness). While the younger people may find unlimited possibility in it, it can easily create a crisis of [meaninglessness](meaning.md) and a general feeling of [instability](unknown.md). The only solution is to institute new [rituals](habits.md) that everyone can agree to, which will likely be a [creative re-imagining](mind-creativity.md) of older rituals.
 
-APPLICATION: Global cultures are simply impossible because they would require complete acceptance of dramatically different points of view. The only way they'd set aside those differences would be through a [war](people-conflicts-war.md) against a greater external threat (e.g., space aliens, [God](religion.md)).
+APPLICATION: Global cultures are simply impossible because they would require complete acceptance of dramatically different points of view. The only way they'd set aside those differences would be through a [war](people-conflicts-war-why.md) against a greater external threat (e.g., space aliens, [God](religion.md)).

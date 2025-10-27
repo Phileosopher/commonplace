@@ -1,7 +1,7 @@
 
 # Navigation explained
 
-Ever since we wanted to explore things, [own land](hom-homestead.md), and [conquer land](people-conflicts-war.md), we have have been trying various methods to navigate for a long time.
+Ever since we wanted to explore things, [own land](hom-homestead.md), and [conquer land](people-conflicts-war-why.md), we have have been trying various methods to navigate for a long time.
 
 At one time, navigating an unknown region required a few things:
 

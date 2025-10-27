@@ -5,7 +5,7 @@ When we [create](mind-creativity.md), we're aiming for a result that conforms to
 
 While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](imagination.md) they'll likely happen so similarly that we don't have to think about them.
 
-Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](understanding.md), or [influence](influence.md) among others. However, we can only [observe](image.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
+Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](understanding.md), or [influence](influence.md) among others. However, we can only [observe](people-image-why.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
 
 Results come largely from how well we've used what we have. Throughout [history](trends.md), there is a *very* limited link between opportunities people have available to them and how well they've taken advantage of them.
 
@@ -43,10 +43,10 @@ Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sac
 
 There are two broad types of consequences:
 
-- Relational consequences affect our [relationships](people-friends.md) and aspects of [understanding](understanding.md) with others and [status](image.md) in a [group](groups-member.md).
+- Relational consequences affect our [relationships](people-friends-why.md) and aspects of [understanding](understanding.md) with others and [status](people-image-why.md) in a [group](groups-member.md).
 - Reality consequences influence [fact-based](reality.md) circumstances.
 
-We can usually do [many things](image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
+We can usually do [many things](people-image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
 
 Consequences are not always directly connected. Occasionally, they can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](people-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain.
 
@@ -80,7 +80,7 @@ APPLICATION: While adequacy is statistically normal, unusually successful people
 2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](imagination.md).
 3. [Predict](imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
 
-FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends.md), [career](jobs-1_why.md), or whatever.
+FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends-why.md), [career](jobs-1_why.md), or whatever.
 
 Even when we fully [know](understanding.md) simple things, they have a chance of failure. The line between success and failure is painfully thin (as little as 1% sometimes), so success is *rarely* [certain](understanding-certainty.md). We are always susceptible to fumbling, [miscommunication](language.md), interference, obstructions, fatigue, and distractions.
 
@@ -88,7 +88,7 @@ We often can't know many other things, many of which can further decrease our ch
 
 APPLICATION: Except for the people who [entertain us](stories-storytellers.md), we tend to imagine ourselves as less capable than we really are. This means there's *always* untapped potential within everyone except professional entertainers.
 
-The result of a successful creation will *always* create more, similar creations by others. They may be derivative works or, in the case of [intellectual properties](legal-ip.md) or risks of [civil liberties](people-boundaries.md), a suppressed combination of ideas that form into something else that's considered entirely new. Either way, the effective creator starts [trends](trends.md).
+The result of a successful creation will *always* create more, similar creations by others. They may be derivative works or, in the case of [intellectual properties](legal-ip.md) or risks of [civil liberties](people-boundaries-why.md), a suppressed combination of ideas that form into something else that's considered entirely new. Either way, the effective creator starts [trends](trends.md).
 
 APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](politics-leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
 
@@ -99,7 +99,7 @@ We frequently [imagine](imagination.md) our greatest results happen when we're r
 We don't respond well to failure. Usually, we'll react inappropriately:
 
 1. [Feel](mind-feelings.md) awful about the failure and its consequences.
-2. Drill into our [perceptions](image.md) of [cause-and-effect](logic.md) and find the broken link in the chain.
+2. Drill into our [perceptions](people-image-why.md) of [cause-and-effect](logic.md) and find the broken link in the chain.
 3. Focus all our effort into blaming and distancing from the perceived problem.
 
 APPLICATION: Artists are hypersensitive to the responses to their creative works because they've poured their hearts into it. The rest of the world must give artists more grace, and artists must learn to emotionally detach from what they create after they're finished with it.
@@ -156,7 +156,7 @@ A diminishing return isn't necessarily bad. It's usually a sign that our [purpos
 
 ## Re-trending
 
-Frequently, by adapting the [image](image.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](economics.md) or to reach a [new audience](stories-storytellers.md).
+Frequently, by adapting the [image](people-image-why.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](economics.md) or to reach a [new audience](stories-storytellers.md).
 
 APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
 
@@ -173,6 +173,6 @@ By observing and exploring, through repeated exposure and rumination, various me
 However, there are multiple reasons it's generally wiser to be skeptical of anyone who claims to predict the future beyond basic reasoning:
 
 - [Predicting](imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
-- When someone actually *does* predict the future, it's [debatable](people-conflicts.md) how well they performed, especially if they were vague.
+- When someone actually *does* predict the future, it's [debatable](people-conflicts-why.md) how well they performed, especially if they were vague.
 - Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](trends.md).
-- We're all very prone to error, and tend to [redirect attention](image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!
+- We're all very prone to error, and tend to [redirect attention](people-image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!

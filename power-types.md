@@ -21,13 +21,13 @@ Natural
 
 Social (also known as "politics")
 
-- Status - general [opinions](image.md) from others.
+- Status - general [opinions](people-image-why.md) from others.
 - Coercive - can [punish](people-rules.md) people, driven by others' [fears](mind-feelings-fear.md).
 - Reward - can [reward](results.md) people, driven by others' [loves](people-love.md).
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
-- Formal - [honor](image.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
-- Fame - [familiarity](image.md) with a name.
-- Property/Wealth - ownership of things, [people](slavery.md), [intellectual properties](legal-ip.md), or [rights](people-boundaries.md) that can accomplish a [purpose](purpose.md).
+- Formal - [honor](people-image-why.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
+- Fame - [familiarity](people-image-why.md) with a name.
+- Property/Wealth - ownership of things, [people](slavery.md), [intellectual properties](legal-ip.md), or [rights](people-boundaries-why.md) that can accomplish a [purpose](purpose.md).
 - Money - a specific means of stockpiling others' [power](power.md) for later, with each person basing its [value](values-quality.md) on how much they [believe](understanding-certainty.md) everyone else [values](values-quality.md) it (i.e., [economics](economics.md)). It's relatively [measurable](math.md) compared to all the other forms of power, and is one of the few that we can trade.
 
 Contextual
@@ -42,15 +42,15 @@ Contextual
 
 ## Social Modifiers
 
-NOTE: Social modifiers "tweak" power. None of these are legitimately as powerful as a similar one from the above list, but they can often [appear](image.md) to be.
+NOTE: Social modifiers "tweak" power. None of these are legitimately as powerful as a similar one from the above list, but they can often [appear](people-image-why.md) to be.
 
-Expectations - any [perception](image.md) of the above power, based on the [past](stories-storytellers.md).
+Expectations - any [perception](people-image-why.md) of the above power, based on the [past](stories-storytellers.md).
 
 Anticipation - any perception of the above power, but predicted in the [future](imagination.md).
 
 Reference - [familiar](people-4_friends.md) with other people with the means to do any of the above, which frequently includes [family](people-family.md) or [cultural ties](people-culture.md).
 
-Narrative - [language](language.md) skills to [adapt](mind-creativity.md) or [distort](image-distortion.md) the [appearance](image.md) of [reality](reality.md) to fit a [desirable](purpose.md) [story](stories.md), typically with the ability to blame others.
+Narrative - [language](language.md) skills to [adapt](mind-creativity.md) or [distort](people-image-distortion.md) the [appearance](people-image-why.md) of [reality](reality.md) to fit a [desirable](purpose.md) [story](stories.md), typically with the ability to blame others.
 
 Subdivisions - anything that breaks out power where multiple people can own the same thing:
 

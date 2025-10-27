@@ -143,8 +143,8 @@ All lasting [meaning](meaning.md) that can ever be derived for [living a good li
 Our fallen state creates a stable-enough, [morally disastrous social existence](https://theologos.site/unnatural-law/).
 
 - It's a vastly [elaborate social system](lawsaxioms.md) built around [power management](power-types.md), which creates an emergent [economic system](economics.md) around a medium (i.e., money).
-  - This system creates the consequence of [class stratification](classes.md) and [slavery](slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](socialrisk.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](image-distortion.md).
-  - Eventually, we will always develop the [vast variety of political systems](politics-systems.md) we're accustomed to, and will engage in [endless conflicts](people-conflicts-war.md) over all sorts of stupid reasons.
+  - This system creates the consequence of [class stratification](classes.md) and [slavery](slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](socialrisk.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](people-image-distortion.md).
+  - Eventually, we will always develop the [vast variety of political systems](politics-systems.md) we're accustomed to, and will engage in [endless conflicts](people-conflicts-war-why.md) over all sorts of stupid reasons.
   - Even if a perfect system were to conjecturally be created, it would eventually [descend into corruption](mgmt-badsystems.md), thereby perpetuating our [cycle](trends.md) of inflicting misery on each other.
 - As we [specialize](jobs-specialization.md), we can more and more easily create idols among our [specialized groups](groups-member.md), further hastening our decline.
 - It keeps growing more fallen, though, and its full emergence represented when Noah was alive to where God had to "reset" humanity to prevent further destruction of nature.
@@ -260,7 +260,7 @@ God's design for angels, unlike our design for relationship, was for [utilitaria
 Being intelligent, God gave them the freedom of [decision](people-decisions.md), and some of them have rebelled against what God wants.
 
 - The Satan, led by Lucifer and his followers, are constantly trying to destroy what God has made and subvert His purposes.
-- The dominant way they work is through creating more [inner conflicts](conflicts-inner.md) over our decisions.
+- The dominant way they work is through creating more [inner conflicts](people-conflicts-inner.md) over our decisions.
   - It almost always involves magnifying our [imagination](imagination.md) of bad things to subdue what we [believe](understanding.md) through [fear](mind-feelings-fear.md) or false [certainty](understanding-certainty.md).
   - For non-believers, he distracts people from broad thinking about our spiritual state, then sends any variety of [religious doctrine](religion.md) or [philosophy](glossary-philosophy.md) to hide the truth.
 
@@ -277,7 +277,7 @@ God created the entire universe for a relationship with man ([Genesis 1-2](https
     4. Celestial bodies across the universe
     5. All fauna
 - The sixth day was devoted solely to making mankind.
-  - Within that "day", God created both [man and woman](https://theologos.site/gender/), indicating the utterly [social design](people-friends.md) He has for us.
+  - Within that "day", God created both [man and woman](https://theologos.site/gender/), indicating the utterly [social design](people-friends-why.md) He has for us.
 - The seventh day was God's rest, and the fulfillment of His work through His interaction with man.
 
 Therefore, the essence of nature is subservient to God's design.
@@ -308,7 +308,7 @@ However, the entire scope of what God plans is not possible to be known.
 The group of believers who have a relationship with God are known as [the Church](church.md).
 
 - This word can be risky to use: it is highly contextual to either a [cultural group](people-culture.md) or the people among that group who will have an eternal relationship with God.
-- If we refer to the former, it is composed of every person who associates with Christian culture, including [debatably spiritual practices](conflicts-christian-3_debatable.md).
+- If we refer to the former, it is composed of every person who associates with Christian culture, including [debatably spiritual practices](people-conflicts-christian-3_debatable.md).
 - If we refer to the latter, it includes everyone who had believed in the coming Messiah *before* Jesus was born.
 
 Christians who choose to lead the Church are held to a higher moral standard.
@@ -342,7 +342,7 @@ The Father's plan is for the Son to come back, which will be the final finish to
 In one sense, His kingdom has already come.
 
 - The Holy Spirit has descended on all believers, and works intimately with each one in their own walk.
-- Walking with God expresses in this life as a small, day-to-day experience, with a relative disregard to [social status](image.md) or [other forms of success](success-1_why.md).
+- Walking with God expresses in this life as a small, day-to-day experience, with a relative disregard to [social status](people-image-why.md) or [other forms of success](success-1_why.md).
 
 But, in another, His kingdom isn't here yet.
 

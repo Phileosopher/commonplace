@@ -11,7 +11,7 @@ When planning, take advantage of the team's natural strengths.
 
 There are many progress-tracking systems that can help evaluate where a team is and where it's likely going.
 
-- Each one is capturing [certainty](understanding-certainty.md) from a specific [perspective](image.md).
+- Each one is capturing [certainty](understanding-certainty.md) from a specific [perspective](people-image-why.md).
 
 There are [many ways to track whether the team is effective at what they do](mgmt-4_status-theories.md), but they tend to only be rough estimates that don't consider complexities within the project.
 
@@ -27,7 +27,7 @@ Very often, a team will require at least 2-4 models to gain any useful analysis 
 People almost never work as much as they say they do.
 
 - The hourly pay structure incentivizes being physically present at a location, but not necessarily busy.
-- Most people figure out *very* quickly that [appearing](image.md) busy can get them out of more work.
+- Most people figure out *very* quickly that [appearing](people-image-why.md) busy can get them out of more work.
 - Typically, they will *not* respond well if you give them more work without a reward for their efforts.
   - If you want them to work more, create better incentives.
   - If someone does the work of 2 or 3 people, they deserve to be paid double what they currently make.
@@ -100,7 +100,7 @@ When you must be *constantly* present, work alongside them.
 - Maintain the the humility to accept that your [specialization](jobs-specialization.md) as a manager makes you worse at the actual tasks than them.
   - Even when you've done their job for *decades*, you haven't kept the skills as sharp as them, and you're older, meaning they have more energy to do the work than you.
 
-While an open-office environment is easy to track workers, it has repeatedly been proven to cause more [stress](mind-feelings-happiness-stress.md), [conflicts](people-5_conflicts.md), and [employee turnover](jobs-1_why.md).
+While an open-office environment is easy to track workers, it has repeatedly been proven to cause more [stress](mind-feelings-happiness-stress.md), [conflicts](people-conflicts.md), and [employee turnover](jobs-1_why.md).
 
 - The extra invasion of privacy generally forces people to retreat into their mobile phones or headphones.
 - While they're convenient for managers (since they can look over *everyone's* shoulder at once), they stifle everyone's ability to focus on a task without distractions.

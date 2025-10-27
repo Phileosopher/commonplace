@@ -47,7 +47,7 @@ We also have a certain tolerance and enjoyment of exploring [unknown](unknown.md
 - Enjoys solving complex [problems](purpose.md)
 - Enjoys [philosophical discussions](philosophy.md) and [difficult reading material](education.md)
 
-Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](understanding.md) and [logic](logic.md), but is a highly [controversial](conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
+Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](understanding.md) and [logic](logic.md), but is a highly [controversial](people-conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
 
 Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
 
@@ -79,7 +79,7 @@ Often, we make things out of a sense of guilt or shame that our [value](values-q
 
 ### Orderliness
 
-We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md) of the [unknown](unknown.md), so we value [certainty](understanding-certainty.md) through honoring [details](understanding.md), [organization](organization.md), and [boundaries](people-boundaries.md):
+We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md) of the [unknown](unknown.md), so we value [certainty](understanding-certainty.md) through honoring [details](understanding.md), [organization](organization.md), and [boundaries](people-boundaries-why.md):
 
 - [Cleans up](home-housekeeping.md) belongings and keeps things organized
 - Follows a schedule and enjoys [routine](habits.md)
@@ -92,7 +92,7 @@ We either find renewal [with people](people-friends.mdds.md), or [without them](
 
 Extraversion dictates whether we devote more of our [tasks](purpose.md) toward people or things. Both of them have challenges, and require [practice](education.md) to get correct, so we'll see better [results](results.md) with the one that makes us more comfortable.
 
-On the high end, we're constantly [choosing](people-decisions.md) to [interact with others](people-conversation.md). It provides the advantage of connecting with many people at once, but requires our constant involvement in a healthy group of people, and we're more susceptible to [lying](people-lying.md) to [gain favor from others](image-distortion.md).
+On the high end, we're constantly [choosing](people-decisions.md) to [interact with others](people-conversation.md). It provides the advantage of connecting with many people at once, but requires our constant involvement in a healthy group of people, and we're more susceptible to [lying](people-lying.md) to [gain favor from others](people-image-distortion.md).
 
 Extroverts have a tendency to live impulsively in the present. While they end up enjoying life more (a necessary quality of the [good life](goodlife.md)), they also risk overlooking adverse long-term [adverse consequences](results.md).
 
@@ -113,7 +113,7 @@ Enthusiastic people tend to find a certain amount of excitement and joy from [so
 
 ### Assertiveness
 
-Conflicts themselves can be difficult, but assertive people often find a sense of [closure](understanding-certainty.md) out of practicing and enforcing our [boundaries](people-boundaries.md):
+Conflicts themselves can be difficult, but assertive people often find a sense of [closure](understanding-certainty.md) out of practicing and enforcing our [boundaries](people-boundaries-why.md):
 
 - [Sees themselves](identity.md) as a strong person and a good leader, and takes control in a [group](groups-small.md)
 - Has plenty of experience and talent [influencing](influence.md) and [captivating](stories-storytellers.md) people
@@ -121,11 +121,11 @@ Conflicts themselves can be difficult, but assertive people often find a sense o
 
 ## Agreeableness (versus Disagreeableness)
 
-In [conflicts](people-conflicts.md), we either wish to reconcile with others, or don't care what others think. This extends to how our [mental conflicts](conflicts-inner.md) operate as well. Agreeableness directly connects to how we resolve the conflict between our natural [compassion](mind-feelings.md) for babies and [predatory aggression](mind-feelings-fear.md).
+In [conflicts](people-conflicts-why.md), we either wish to reconcile with others, or don't care what others think. This extends to how our [mental conflicts](people-conflicts-inner.md) operate as well. Agreeableness directly connects to how we resolve the conflict between our natural [compassion](mind-feelings.md) for babies and [predatory aggression](mind-feelings-fear.md).
 
-On the high end, we [coexist well with others](people-friends.mdds.md). It provides the advantage of creating a harmonious society because we're inclined to like people, but with the downside of making [conflicts](people-5_conflicts.md) *very* complicated and other people taking advantage of the readiness to reconcile. It also has risks of us [lying](people-lying.md) to [please others](image-distortion.md).
+On the high end, we [coexist well with others](people-friends.mdds.md). It provides the advantage of creating a harmonious society because we're inclined to like people, but with the downside of making [conflicts](people-conflicts.md) *very* complicated and other people taking advantage of the readiness to reconcile. It also has risks of us [lying](people-lying.md) to [please others](people-image-distortion.md).
 
-On the low end, we disagree more readily. It provides the advantage of [enforcing boundaries](people-boundaries.md), but with the risk of intensifying conflicts among well-meaning people.
+On the low end, we disagree more readily. It provides the advantage of [enforcing boundaries](people-boundaries-why.md), but with the risk of intensifying conflicts among well-meaning people.
 
 While disagreeable people typically know *exactly* what they [want](purpose.md), agreeable people often have no idea what they want because they're so busy paying attention to *others'* needs. Disagreeable people can often help agreeable people [understand](understanding.md) their latent [desires](purpose.md) through their more competitive nature.
 
@@ -139,13 +139,13 @@ We have a specific built-in capacity for [empathy](mind-feelings.md) when dealin
 
 ### Politeness
 
-We have a preference toward a certain amount of [tactfulness](people-3_boundaries.md):
+We have a preference toward a certain amount of [tactfulness](people-boundaries.md):
 
 - Respects [authority](groups-large.md)
-- Believes they're [equal](people-boundaries.md) with others
+- Believes they're [equal](people-boundaries-why.md) with others
 - Avoids imposing their will or taking advantage of others for personal gain
 - Hate to insult people or put them under pressure
-- Avoids [conflicts](people-conflicts.md) whenever possible
+- Avoids [conflicts](people-conflicts-why.md) whenever possible
 
 ## Neuroticism (versus Emotional Stability)
 
@@ -161,7 +161,7 @@ APPLICATION: Most miserable people are *actually* concerned about skills managin
 
 ### Withdrawal
 
-We have a tendency to freeze when exposed to threats, which is a survival impulse of managing an [unknown risk](unknown.md). Withdrawal measures our self-consciousness, which determines how much we [wrestle](conflicts-inner.md) with the things that we're [afraid of](mind-feelings-fear.md):
+We have a tendency to freeze when exposed to threats, which is a survival impulse of managing an [unknown risk](unknown.md). Withdrawal measures our self-consciousness, which determines how much we [wrestle](people-conflicts-inner.md) with the things that we're [afraid of](mind-feelings-fear.md):
 
 - Easily feeling [threatened](safety.md) or [afraid](mind-feelings-fear.md)
 - Feelings of depression and [discouragement](success-5_persevering.md)
@@ -190,7 +190,7 @@ Generally, we can fix most of our personality defects with *other* personality c
 - Low openness to experience when managing high [social risk](socialrisk.md):
   - Conscientiousness can abide by known-working [standards](habits.md).
   - Extraversion can find how other people solve the problem.
-  - Agreeableness can find a healthy [compromise](people-conflicts.md) for the problem.
+  - Agreeableness can find a healthy [compromise](people-conflicts-why.md) for the problem.
 - High openness to experience when facing a [tradition-based](people-culture.md) conflict:
   - Conscientiousness can honor the [leadership](groups-small.md), even without agreeing on the matter.
   - Extraversion can find new [people groups](groups-member.md) to explore more risks.
@@ -205,9 +205,9 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Extraversion can find [meaning](meaning.md) in the [friendship](people-friends.mdds.md) through [love](people-love.md) even while experiencing disgust.
   - Agreeableness can learn to accept others' way of life.
 - Low extraversion when required to associate with other people:
-  - Openness to experience can research new information about [how to have social skills](people-3_boundaries.md).
+  - Openness to experience can research new information about [how to have social skills](people-boundaries.md).
   - Conscientiousness can focus on [tasks](results.md) while around others.
-  - Agreeableness can learn how to [listen more](people-3_boundaries.md) and find interesting qualities in others.
+  - Agreeableness can learn how to [listen more](people-boundaries.md) and find interesting qualities in others.
   - Neuroticism can learn to open up more transparently about their [feelings](mind-feelings.md) with strangers.
 - High extraversion when required to perform mundane [tasks](results.md):
   - Openness to experience can find new ways to [imagine](imagination.md) and anthropomorphize those tasks.

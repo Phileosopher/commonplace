@@ -19,7 +19,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 
 We create when our [decisions](people-decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
 
-Our creations are always borrowing from our environment. They may be "[new](image.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
+Our creations are always borrowing from our environment. They may be "[new](people-image-why.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
 APPLICATION: Very often, large trends come from little trends that faded away long before the listener has processed that large idea later.
 
@@ -102,7 +102,7 @@ All creators travel through approximately the same stages, which makes a [rhythm
 
 ### 1. Mess/Inefficiency
 
-We observe sensory cues and learn the steps to perform tasks. We have little to no established [habits](habits.md) at this stage, and build things that are generally [low-quality](values-quality.md) and [awful-looking](image.md).
+We observe sensory cues and learn the steps to perform tasks. We have little to no established [habits](habits.md) at this stage, and build things that are generally [low-quality](values-quality.md) and [awful-looking](people-image-why.md).
 
 There are [techniques](jobs-specialization.md) to do everything faster, create less waste, and improve overall quality, but we always start with a very weak grasp on how to actually *do* the task, let alone improving it.
 
@@ -121,7 +121,7 @@ APPLICATION: The easiest way to create magnificent creations is to rapidly get a
 - Sketch the idea on scratch paper.
 - Make statues in wax before stone.
 - Get [feedback](people-conversation.md).
-- Ask [friends](people-friends.md) and [family](people-family.md).
+- Ask [friends](people-friends-why.md) and [family](people-family.md).
 - Release version 1.0 or 0.8, depending on what you're making.
 - [Publish](language-writing.md) immediately.
 
@@ -135,7 +135,7 @@ Once we've discovered nearly all the [rules](people-rules.md), we'll find it rep
 
 We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different than what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
 
-Since nothing is really [new](image.md), we might be breaking [convention](people-culture.md), but are more often making something [ugly](values-quality.md) that doesn't add any legitimate [value](purpose.md). Young people may find it interesting, but the [industry in general](jobs-specialization.md) won't care.
+Since nothing is really [new](people-image-why.md), we might be breaking [convention](people-culture.md), but are more often making something [ugly](values-quality.md) that doesn't add any legitimate [value](purpose.md). Young people may find it interesting, but the [industry in general](jobs-specialization.md) won't care.
 
 On occasion, the creator's style at this stage will skyrocket them to outlandish fame, but more often they'll just be the creative inspiration for someone else who was loosely inspired by it but does something better with the medium.
 
@@ -163,8 +163,8 @@ This is the creative limit for most people in things that aren't their natural d
 
 From this stage, we'll only improve for a few specific reasons:
 
-- We're perfectionistic and [obsessed](addiction.md) about [fighting](people-5_conflicts.md) [reality's](reality.md) slow decay into [chaos](unknown.md).
-- We're [competitive](people-conflicts.md) and trying to apply [technology](technology.md) and [skills](jobs-specialization.md) to outperform others.
+- We're perfectionistic and [obsessed](addiction.md) about [fighting](people-conflicts.md) [reality's](reality.md) slow decay into [chaos](unknown.md).
+- We're [competitive](people-conflicts-why.md) and trying to apply [technology](technology.md) and [skills](jobs-specialization.md) to outperform others.
 - The medium has constraints, so we work along the edges of the medium to "clean up" inherent flaws with that medium.
 - We want a new challenge with a hybrid medium, so we start at the first stage and build up to this stage with that one as well.
 
@@ -174,7 +174,7 @@ Otherwise, we'll stick with what we're comfortable with and [pass it on to other
 
 If we're [unusually disposed](personality.md) to [naturally understanding](humanity.md) the medium and are able to draw from other unrelated fields of experience, our [creations](creations.md) will take on a surreal, otherworldly characteristic.
 
-At this stage, the creator has found a way to conceal *all* the messy parts of the creation, leaving nothing but pure [beauty](values-quality.md). Frequently, they will invert the [appearance](image.md) of anything they touch with that talent simply by exploring [facts](reality.md) that most people had overlooked.
+At this stage, the creator has found a way to conceal *all* the messy parts of the creation, leaving nothing but pure [beauty](values-quality.md). Frequently, they will invert the [appearance](people-image-why.md) of anything they touch with that talent simply by exploring [facts](reality.md) that most people had overlooked.
 
 Often, the creator will make the task look so easy that it'll feel like *anyone* could do it. They'll treat their tools or performance as if it were as familiar as breathing or walking. Since the consumers are aware of the effort it takes, they will feel the effort at making a hard thing look easy.
 
@@ -194,7 +194,7 @@ Most of that work is unpleasant, so we try to find ways around it. We'll typical
 
 APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](personality.md).
 
-The creative process itself is always messy. Creators have a constant [inner war](conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
+The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
 
 APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](people-culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
 
@@ -202,7 +202,7 @@ The [timing](datetime.md) of creativity is difficult to track. Sometimes, great 
 
 Since creativity requires breaking [rules](people-rules.md), most creative people end up living in a state of protracted [childhood](maturity.md).
 
-- A child's [image](image.md) of [reality](reality.md) has unclear or nonexistent rules.
+- A child's [image](people-image-why.md) of [reality](reality.md) has unclear or nonexistent rules.
 - The [hardships](hardship.md) of this world often bring around "adult" thinking by showing how things really are.
 - In a sense, the collective potential of a society can be defined by how small a minority are represented as artists.
 - At the same time, it's part of a [cycle](trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](politics-leftism.md)), until the eventual decline decreases the ratio of artists again.

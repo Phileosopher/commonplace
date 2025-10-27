@@ -18,7 +18,7 @@ APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against
 
 The mechanism to create humor requires a very specific skill of performing several tasks in sequence:
 
-1. Mentally assemble an [imaginary model](image.md) of the experience.
+1. Mentally assemble an [imaginary model](people-image-why.md) of the experience.
 2. Detect any discrepancies in all the [possible interpretations](understanding.md) of the experience. This particular step requires *severe* [awareness](awareness.md) that only comes through pushing past any [trauma](hardship-ptsd.md) or [fear](mind-feelings-fear.md).
 3. Remove any uninteresting perspectives from that set of experiences to only leave the discrepancies and their relationships.
 4. Add [artistic flair](mind-creativity.md) to those discrepancies to distort those relationships even further.
@@ -30,7 +30,7 @@ There are a few ways to stretch reality to make humor:
 - Farce makes [improbable](math.md) things probable by delivering the concept through a distorted form of [logic](logic.md). Adults behaving precisely like [children](maturity.md), for example, is a profound source of humor.
 - Hyperbole exaggerates [truth](reality.md) to the point of [emotional](mind-feelings.md) extremes, which includes body language ("pantomime").
 - Metaphor and puns create [symbolic](symbols.md) connections that create extra [meanings](values.md).
-- Like with magicians, re-framing and timing can exploit [expectations](imagination.md) to [fool](image-distortion.md) the audience into believing an implication.
+- Like with magicians, re-framing and timing can exploit [expectations](imagination.md) to [fool](people-image-distortion.md) the audience into believing an implication.
 
 Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](understanding.md) scales, most funny things become less funny.
 
@@ -104,6 +104,6 @@ One of the easiest ways to [influence](influence.md) others is through adding at
 
 APPLICATION: Humor is necessary for [the good life](goodlife.md) because it helps us cope with [stress](mind-feelings-happiness.md), specifically with surprising and painful things. While serious-minded people may appear to be [successful or competent](success-1_why.md), they are frequently mentally unwell.
 
-APPLICATION: To dismantle a [centralized power structure](groups-large.md), learn to be funny. Many [wars](people-conflicts-war.md) have been fought over, in part, giving people [the right to laugh](people-boundaries.md) at their leadership.
+APPLICATION: To dismantle a [centralized power structure](groups-large.md), learn to be funny. Many [wars](people-conflicts-war-why.md) have been fought over, in part, giving people [the right to laugh](people-boundaries-why.md) at their leadership.
 
-By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](image.md) of [reality](reality.md).
+By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](people-image-why.md) of [reality](reality.md).

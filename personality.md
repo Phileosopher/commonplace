@@ -5,7 +5,7 @@ We often don't know what we ought to do, how to do it, or have the resources to 
 
 A personality is based on the [experiences](reality.md) we endured and how we responded to them. We have zero control over our upbringing, but we [decided](people-decisions.md) on [changes](people-changes.md) to survive in that environment starting around 6 months old, and we tend to develop that personality with complete independence of our [genetics](people-family.md) starting around the ages of [5 to 10](maturity.md).
 
-In many ways, a personality is the closest we can observe as a "[soul](humanity.md)" within others. While the soul itself is more akin to the decisions we make *now*, our personality uses many [mental habits](habits.md) from the past to create a larger [expression](image.md) than the individual moments that make up the individual moments that define who we are at any given second.
+In many ways, a personality is the closest we can observe as a "[soul](humanity.md)" within others. While the soul itself is more akin to the decisions we make *now*, our personality uses many [mental habits](habits.md) from the past to create a larger [expression](people-image-why.md) than the individual moments that make up the individual moments that define who we are at any given second.
 
 Our past decisions create a [habitual](habits.md) framework to dictate our preferences in [potential future situations](imagination.md). The cycle of present and past [identities](identity.md) based on our decisions converge together into our general disposition about life.
 
@@ -17,7 +17,7 @@ APPLICATION: Each personality is a disposition, so nobody will respond the way w
 
 It's difficult to intuitively [classify](logic.md) personality because psychologists are attempting to group the basis for how we make [decisions](people-decisions.md). For this reason, most personality indicators and tests are vaguely close to reality but always miss certain elements. The only exception to this is the Big 5 personality indicator, which is the only one with any [scientific rigor](science.md) behind it.
 
-Personality carves itself into [5 major classifications (with 2 subclasses)](personality-ocean.md) that conveniently break out into an OCEAN acronym. It typically represents as the [conflict](conflicts-inner.md) between two decisions that have [benefits](meaning.md) and [risks](safety.md), with our [soul's](humanity.md) decisions making the deciding factor that determines how we wish to continue from that point.
+Personality carves itself into [5 major classifications (with 2 subclasses)](personality-ocean.md) that conveniently break out into an OCEAN acronym. It typically represents as the [conflict](people-conflicts-inner.md) between two decisions that have [benefits](meaning.md) and [risks](safety.md), with our [soul's](humanity.md) decisions making the deciding factor that determines how we wish to continue from that point.
 
 ## Differences
 
@@ -29,9 +29,9 @@ High conscientiousness must respect others' differing standards, while low consc
 
 High extraversion must respect that others need alone time, and low extraversion must respect others' need for more social interaction.
 
-High agreeableness must discover and enforce their convictions, and low agreeableness must learn to [tactfully](people-3_boundaries.md) respect others and their [views](values.md).
+High agreeableness must discover and enforce their convictions, and low agreeableness must learn to [tactfully](people-boundaries.md) respect others and their [views](values.md).
 
-High neuroticism must emphasize [healthy boundaries](people-3_boundaries.md), and low neuroticism must be more compassionate for others' [feelings](mind-feelings.md).
+High neuroticism must emphasize [healthy boundaries](people-boundaries.md), and low neuroticism must be more compassionate for others' [feelings](mind-feelings.md).
 
 Regarding [gender](gender.md) differences within personalities, men and women tend to be more alike than different, but there are some distinctions:
 
@@ -53,8 +53,8 @@ The most important indicators of [success](results.md) come firstly through our 
 
 Agreeableness and conscientiousness are at constant odds with each other in most social contexts:
 
-- Agreeable people typically permit others to take advantage of them until they learn to set good [boundaries](people-boundaries.md), though *enforcing* those boundaries requires conscientiousness.
-- Conscientious people will naturally sideline agreeableness in pursuit of what they [perceive](image.md) to be right.
+- Agreeable people typically permit others to take advantage of them until they learn to set good [boundaries](people-boundaries-why.md), though *enforcing* those boundaries requires conscientiousness.
+- Conscientious people will naturally sideline agreeableness in pursuit of what they [perceive](people-image-why.md) to be right.
 
 Personality often has a direct correlation with [political association](politics-conservativeliberal.md):
 
@@ -72,7 +72,7 @@ Our [self-esteem](identity.md) is essentially our extraversion (as a positive em
 
 Most things we call "personality disorders" are simply the combination of personality characteristics that create adverse [consequences](results.md) for society:
 
-- Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](image.md) about [reality](reality.md).
+- Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](people-image-why.md) about [reality](reality.md).
 - Cluster B personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion.
 - Cluster C personality disorders break into several domains:
   - Avoidant personality disorder is high agreeableness and low extraversion.
@@ -101,27 +101,27 @@ Finally, the "energy" of each of the spectra becomes *severe* conflicts when som
 
 ## Image/shadow
 
-For the most (or entire) part, we are [image-based](image.md) people. Our [cultures](people-culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](understanding.md), and [be](identity.md).
+For the most (or entire) part, we are [image-based](people-image-why.md) people. Our [cultures](people-culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](understanding.md), and [be](identity.md).
 
-We maintain that [image](image.md) of how we expect others to want us to behave, and it forces us to express at *least* two personalities:
+We maintain that [image](people-image-why.md) of how we expect others to want us to behave, and it forces us to express at *least* two personalities:
 
 1. The way we would behave if nobody was around whatsoever, including the absence of any [god(s)](religion.md) who may see us otherwise.
-2. How we believe we must be for others to [accept us](people-boundaries.md), or at least for us to gain [influence](influence.md) and [power](power.md).
+2. How we believe we must be for others to [accept us](people-boundaries-why.md), or at least for us to gain [influence](influence.md) and [power](power.md).
 
-One consequence of this is that measuring personalities is very difficult. People will often adapt the [image](image.md) of their disposition to whatever they [believe](understanding-certainty.md) to be advantageous at the time.
+One consequence of this is that measuring personalities is very difficult. People will often adapt the [image](people-image-why.md) of their disposition to whatever they [believe](understanding-certainty.md) to be advantageous at the time.
 
 Generally, most cultures form an expected "false self" with a specific range of personality:
 
 - Openness to Experience - [adapt and change](people-changes.md) to whatever the group [expects](imagination.md), but never take on enough [risk](socialrisk.md) that may potentially create adverse events for the group.
 - Conscientiousness - always do what's [right](morality.md), until it doesn't conform with the desires of the highest-ranking [group leader](groups-large.md).
 - Extraversion - do whatever you want, but always attend required [group events](groups-member.md) and conform to the [cultural mores](people-culture.md) of your group.
-- Agreeableness - never [disagree](people-conflicts.md) with the group leader and only [politely disagree](people-5_conflicts.md) with others, and [females must be more agreeable than males](gender.md).
-- Neuroticism - you're free to express your [feelings](mind-feelings.md), up to the point where the group's tasks may be disrupted or will portray an adverse [image](image.md) to others outside the group.
+- Agreeableness - never [disagree](people-conflicts-why.md) with the group leader and only [politely disagree](people-conflicts.md) with others, and [females must be more agreeable than males](gender.md).
+- Neuroticism - you're free to express your [feelings](mind-feelings.md), up to the point where the group's tasks may be disrupted or will portray an adverse [image](people-image-why.md) to others outside the group.
 
 Proportional to our *actual* agreeableness, our actions with society's responses create a feedback loop of shame that reinforces and magnifies our "shadow self":
 
-1. We quickly [learn](education.md) to [habitually](habits.md) repress the true desires and [perceptions](image.md) we'd otherwise express.
-2. To the degree we can restrain ourselves, we maintain that [image](image.md), but make a lapse in [judgment](people-decisions.md) when we face a severe breakdown of our [willpower](people-decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
+1. We quickly [learn](education.md) to [habitually](habits.md) repress the true desires and [perceptions](people-image-why.md) we'd otherwise express.
+2. To the degree we can restrain ourselves, we maintain that [image](people-image-why.md), but make a lapse in [judgment](people-decisions.md) when we face a severe breakdown of our [willpower](people-decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
 
@@ -129,14 +129,14 @@ Most modern [non-medication](body-4_health.md) psychotherapy is devoted to explo
 
 Only a few methods work to "integrate" a shadow, and every healthy solution uses at least some of them, but even the *methods* that resolve the problem are highly controversial:
 
-1. Stop taking yourself seriously, since your [purpose](purpose.md) and [feelings](mind-feelings.md) are determined by severely [limited information](image.md).
+1. Stop taking yourself seriously, since your [purpose](purpose.md) and [feelings](mind-feelings.md) are determined by severely [limited information](people-image-why.md).
 2. Apologize sincerely, in the deepest possible desire for repentance, for all misbehavior or misjudgment that potentially [harmed others](morality-evil.md).
 3. Maintain a harmonious focus on [loving](people-love.md) yourself and everyone else the same (i.e., love others like yourself).
 4. Release *everything* about yourself as a product of the environment that was given to you, minus what you have [control](people-decisions.md) over right now. In practice, all aspects of [identity](identity.md) must come strictly from [decisions](people-decisions.md) you still stand by.
 
 Most people will never integrate their shadow, so the ones who succeed tend to [lead groups](groups-small.md) from their enhanced natural connection to themselves. This is *not* a [moral](morality.md) matter either way, but it heavily defines a person's ability to [influence](influence.md) and achieve [meaning](meaning.md).
 
-APPLICATION: People who integrate their shadow can be terrifying for those who haven't. They have, in a way, transcended to another [frame](image.md) of existence where their [identity](identity.md) is only contained in who they are instead of the [environment](reality.md) they're in. This arrangement makes it *very* difficult to exercise [raw power](power-types.md) over them, and they can only be influenced via [persuasion](influence.md).
+APPLICATION: People who integrate their shadow can be terrifying for those who haven't. They have, in a way, transcended to another [frame](people-image-why.md) of existence where their [identity](identity.md) is only contained in who they are instead of the [environment](reality.md) they're in. This arrangement makes it *very* difficult to exercise [raw power](power-types.md) over them, and they can only be influenced via [persuasion](influence.md).
 
 If a person who doesn't integrate their shadow is asked to describe the one type of personality they despise the most, they'll likely give a close approximation of their own repressed characteristics. If they *have* integrated their shadow, they'll likely give the *opposite* of their authentic self.
 

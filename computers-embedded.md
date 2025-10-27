@@ -24,7 +24,7 @@ At this point, the only reason anyone really *needs* a new computer is for one o
 
 1. The user's [purpose](purpose.md) has expanded that they need a particularly powerful one to do something (most often for [playing games](computers-software-gamedev.md) or professional media creation).
 2. They need to add a peripheral and the computer is so old that it can no longer support a modern [standard](standards-computers.md), even with a converter/adapter.
-3. The user has money to burn on ego or [image](image.md) and want something faster or shinier than what they currently have.
+3. The user has money to burn on ego or [image](people-image-why.md) and want something faster or shinier than what they currently have.
 
 ## Cheap computers
 

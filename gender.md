@@ -12,7 +12,7 @@ Even people who don't [identify](identity.md) with their birth gender require re
 Like everything else we perceive, we tend to observe gender differences as complete demarcations. However, only a few key facts differentiate the genders:
 
 - Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](understanding.md) more.
-- Men don't value [friendships](people-friends.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
+- Men don't value [friendships](people-friends-why.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
 - Women don't persevere with [decisions](people-decisions.md) as much as men because their nature is to revisit them for verification.
 
 The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
@@ -39,10 +39,10 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men tend to have simpler thoughts than women.
 - Men have more upper-body strength while women have more lower-body strength.
 - Men tend to not reconsider a thought after it was [decided](people-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
-- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](people-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
+- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](people-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends-why.md).
 - Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories.md) across many components.
 
-The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
+The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries-why.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
 
 Further, men and women have neurological and biological distinctions:
 
@@ -68,17 +68,17 @@ Sexual development comes in waves of identification, with each one adding onto t
 
 First, the distinction begins with **biological sex**. This happens very early on in childhood, and people will [identify](identity.md) as their biological given sex barring [sexual abuse](morality-evil.md) or [past trauma](hardship-ptsd.md). Occasionally, people will identify as the opposite or as neither.
 
-Next, sometime during [adolescence](maturity.md), people identify with their **gender**. This distinction pulls from [natural animal urges](mind-feelings.md), but it also connects with our [friendships](people-friends.md) with others and has heavy influence from our [family](people-family.md) of origin.
+Next, sometime during [adolescence](maturity.md), people identify with their **gender**. This distinction pulls from [natural animal urges](mind-feelings.md), but it also connects with our [friendships](people-friends-why.md) with others and has heavy influence from our [family](people-family.md) of origin.
 
-As we get older, we localize and adapt our sexual desires to [specific groups](image.md) of people, up until we've decided on **marriage**, which is when two people have matching interests in the other. At that point, we've set ourselves upon that one standard for (hopefully) the rest of our lives, proportional to the quality of the aggregate relationship. That standard will be like our opposite-gender parent unless that parent has given us [traumatic experiences](hardship-ptsd.md). In a traumatic situation, people will often prefer the *opposite* race, body type, ideals, or gender.
+As we get older, we localize and adapt our sexual desires to [specific groups](people-image-why.md) of people, up until we've decided on **marriage**, which is when two people have matching interests in the other. At that point, we've set ourselves upon that one standard for (hopefully) the rest of our lives, proportional to the quality of the aggregate relationship. That standard will be like our opposite-gender parent unless that parent has given us [traumatic experiences](hardship-ptsd.md). In a traumatic situation, people will often prefer the *opposite* race, body type, ideals, or gender.
 
 Finally, we transition outward to the biological design of sex: procreation and [family](people-family.md).
 
-[Cultures](people-culture.md) that believe in premarital sex tend to jump-start sexual identity. From there, sex becomes an intimate expression of the ultimate form of human [friendship](people-friends.md), and is typically far more complicated from its rearranging of roles. Sexual identity can become even further complicated when aspects like abortion and homosexuality exist, since they deviate from the animal base that sustains life and reproduction.
+[Cultures](people-culture.md) that believe in premarital sex tend to jump-start sexual identity. From there, sex becomes an intimate expression of the ultimate form of human [friendship](people-friends-why.md), and is typically far more complicated from its rearranging of roles. Sexual identity can become even further complicated when aspects like abortion and homosexuality exist, since they deviate from the animal base that sustains life and reproduction.
 
 The cultural obsession with sex is completely natural. It's similar to our interest in [food](fun-food.md) or [making a home](home-maintenance.md). It can link to our desire for a [family](people-family.md) but doesn't have to, especially when we've experienced past family [trauma](hardship-ptsd.md).
 
-Our gender identity, like all the rest of our [identity](identity.md), is fluctuating all the time. It adapts based on our [relationship status](people-friends.md), our belief about how we should [appear](image.md), and our physical ability to perform sexually. Some people don't *ever* find sexual attraction in others. Most people have non-relationally faithful heterosexual *and* homosexual thoughts, though they usually don't act on them, and it's often [taboo](morality-taboo.md) to openly [discuss](language.md).
+Our gender identity, like all the rest of our [identity](identity.md), is fluctuating all the time. It adapts based on our [relationship status](people-friends-why.md), our belief about how we should [appear](people-image-why.md), and our physical ability to perform sexually. Some people don't *ever* find sexual attraction in others. Most people have non-relationally faithful heterosexual *and* homosexual thoughts, though they usually don't act on them, and it's often [taboo](morality-taboo.md) to openly [discuss](language.md).
 
 ## Civilization
 
@@ -89,7 +89,7 @@ Even in a completely free society, males have more roles with heavy lifting and 
 With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](people-culture.md):
 
 - Men are usually seen as laborers, hunters, providers, and [establishers](socialrisk.md). They're usually more likely to steal from  and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
-- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries.md) well with others and find a harmonious [solution](results.md).
+- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md).
 
 This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have an harder time curbing their [feelings](mind-feelings.md).
 
@@ -119,7 +119,7 @@ APPLICATION: The conventional roles of "men work and women stay home" *can* be d
 
 Making a marriage is a type of [agreement](people-contracts.md). Irrespective of [love](people-love.md) for each other, it's a promise to maintain and support each other for the rest of their lives. This becomes *very* complicated when each partner finds [past issues](hardship-ptsd.md) that were never properly dealt with and carried into the present (e.g., a prior marriage).
 
-APPLICATION: Marriage is *not* rational, but is necessary to find [meaning](meaning.md) because it forces people to work out [conflicts](people-conflicts.md) with each other.
+APPLICATION: Marriage is *not* rational, but is necessary to find [meaning](meaning.md) because it forces people to work out [conflicts](people-conflicts-why.md) with each other.
 
 Men tend to be more physically attracted to women than the other way around. For this reason, men tend to aim for [younger](maturity.md) women by a margin of 3-10 years. The stronger [risk-taking](socialrisk.md) tendencies in men also means they tend to live 3-4 years less than women.
 
@@ -127,16 +127,16 @@ APPLICATION: Men pick younger women and tend to not live as long as women, which
 
 ## Controversy
 
-Gender differences create a [conflict](people-conflicts.md), mostly from women who don't like the discrepant [power](power.md) dynamics built into genders. Most men aren't naturally willing to diminish their power without [cultural training](people-culture.md), and most women can't compete on a completely level playing field with the raw power of men in many domains.
+Gender differences create a [conflict](people-conflicts-why.md), mostly from women who don't like the discrepant [power](power.md) dynamics built into genders. Most men aren't naturally willing to diminish their power without [cultural training](people-culture.md), and most women can't compete on a completely level playing field with the raw power of men in many domains.
 
 A huge component of gender conflicts comes from our specific needs:
 
-- Men need respect, which revolves around what men [do](results.md) and others [honoring](image.md) those actions.
+- Men need respect, which revolves around what men [do](results.md) and others [honoring](people-image-why.md) those actions.
 - Women need affection, which is about [communicating](language.md) [sentiment](mind-feelings.md) to them.
 
 Men often give respect to women who don't want it, and women often give affection to men who don't care for it. Each gender doesn't naturally communicate in the other's [language](language.md) and must learn it from them, which requires patience to [teach](understanding.md).
 
-APPLICATION: If men gave women affection and women gave men respect, most [inter-gender conflicts](people-conflicts.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
+APPLICATION: If men gave women affection and women gave men respect, most [inter-gender conflicts](people-conflicts-why.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
 
 APPLICATION: If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-marriage.md). Women must simply learn to [respect](results.md) men, and men must simply learn to [cherish](values-quality.md) women.
 
@@ -144,6 +144,6 @@ The battle for women's rights is to give them enough [power](power.md) that they
 
 APPLICATION: The [Left](politics-leftism.md) pushes to magnify gender differences, then tries to equalize women to fully play out men's roles. But, everyone is uniquely different, with unique needs and [desires](purpose.md). Females want affection and adoration, while males want respect.
 
-Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](image.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach.
+Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](people-image-why.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach.
 
-APPLICATION: The genders work fantastically well with one another, assuming basic human [love](people-love.md). Otherwise, it's all a [power](power.md) game that men can ultimately win by a show of force, which is the [stereotype](image.md) of an authoritarian male.
+APPLICATION: The genders work fantastically well with one another, assuming basic human [love](people-love.md). Otherwise, it's all a [power](power.md) game that men can ultimately win by a show of force, which is the [stereotype](people-image-why.md) of an authoritarian male.

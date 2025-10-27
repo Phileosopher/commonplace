@@ -106,7 +106,7 @@ People tend to take technology for granted, especially when they're [young](matu
 
 APPLICATION: At one time in the 1800s, people perceived the mind as a [mechanical object](engineering-mechanical.md), and has lately been perceived as a computer. The [fashion](trends.md) will change once something is more advanced than a computer.
 
-Some people will always want to keep their job, even after technology takes it away. They'll often fight a [losing battle](people-boundaries.md), but are usually too [set in their ways](habits.md) to [change](people-changes.md) to the [trend](trends.md). Many [political](politics-conservativeliberal.md) [organizations](groups-large.md) like unions and politicians can benefit those people, but are only stalling the [trend](trends.md).
+Some people will always want to keep their job, even after technology takes it away. They'll often fight a [losing battle](people-boundaries-why.md), but are usually too [set in their ways](habits.md) to [change](people-changes.md) to the [trend](trends.md). Many [political](politics-conservativeliberal.md) [organizations](groups-large.md) like unions and politicians can benefit those people, but are only stalling the [trend](trends.md).
 
 APPLICATION: In a [fully just society](politics-perfectsociety.md), the people who replace other's roles with technology should find [creative](mind-creativity.md) solutions for what they can [do](results.md) instead. This is frequently a difficult task that requires plenty of consideration, and requires that people [have compassion](people-love.md) on the least-qualified individuals in society.
 
@@ -120,7 +120,7 @@ Technology's power magnifies *everything*, including [moral](morality.md) decisi
 
 APPLICATION: Technology never really solves [moral](morality.md) problems. It only magnifies them as it removes physical constraints.
 
-APPLICATION: [Political](stories-storytellers.md) and [military power](people-conflicts-war.md) comes through technology. You can travel wherever you want with the correct vehicles and spread information wherever you want with the appropriate [computer systems](technology.md).
+APPLICATION: [Political](stories-storytellers.md) and [military power](people-conflicts-war-why.md) comes through technology. You can travel wherever you want with the correct vehicles and spread information wherever you want with the appropriate [computer systems](technology.md).
 
 APPLICATION: Don't blame technology, blame the user. This applies to guns, written publications, and any [trendy](trends.md) tech. There's a [good](morality.md) and [productive](results.md) use for every [evil](morality-evil.md) application of technology.
 
@@ -132,7 +132,7 @@ Further, technologies make us weak. We sacrifice the opportunity cost of [liftin
 
 Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
 
-When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war.md), the only reliable way to prevent that technology from destroying a large number of people is with other technology owned by the potential victims, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
+When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-why.md), the only reliable way to prevent that technology from destroying a large number of people is with other technology owned by the potential victims, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
 
 ## Limits
 
@@ -156,7 +156,7 @@ Technology is also tremendous [power](power.md), often more than we can [safely]
 
 APPLICATION: Technology has allowed the average college student today to have more knowledge than Socrates or Josephus. This doesn't reflect as wisdom because [understanding](understanding.md) requires things influencing our [intuition](mind-feelings.md) for our [souls](humanity.md) to recognize it.
 
-Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
+Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts-why.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
 
 APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](trends.md) dies. If they do, they can slow the trend indefinitely.
 

@@ -82,7 +82,7 @@ For pre-rendered work (such as Pixar movies), the graphics rendering is run thro
 
 ## Networks
 
-While [networking concepts](networks-computer.md) apply the same in both consumer and enterprise, there are some additional hurdles:
+While [networking concepts](networks-cs.md) apply the same in both consumer and enterprise, there are some additional hurdles:
 
 - IP addresses on a network can get complicated, so networks often need "IP address management" (IPAM) software to track them.
 - Most of the updates and management of the computers will be "out-of-band" to make life easier for the people running the updates. This will require an "intelligent platform management interface" (IPMI) that tracks everything across a [distributed system](computers-distsys.md).

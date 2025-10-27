@@ -23,11 +23,11 @@ To simplify, here's the blunt and stripped-down version of the same 5 Solae with
 
 The 5 Solae were originally the first 3, but it truly all stems from the first assertion: if Scripture alone has the only true authority, then human institutions are only optional.
 
-Naturally, this was offensive to the then-only Church at the time. This caused many [conflicts](conflicts-christian-4_false.md) that, among other things, created the Enlightenment-era value systems that fashioned [Western thought](https://theologos.site/the-west/) (and, naturally, the [post-modern afterbirth](philosophy.md) we presently live under).
+Naturally, this was offensive to the then-only Church at the time. This caused many [conflicts](people-conflicts-christian-4_false.md) that, among other things, created the Enlightenment-era value systems that fashioned [Western thought](https://theologos.site/the-west/) (and, naturally, the [post-modern afterbirth](philosophy.md) we presently live under).
 
 [Philosophy](philosophy.md) has tremendous value when used properly. In the case of the Solae, their historical basis tends to override the more prominent meaning attached to the ideas themselves.
 
-So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](conflicts-christian-4_false.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
+So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-4_false.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
 
 It's worth noting the Solae are *not* matters of [salvation](jesus-gospel.md), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/bsb/luke/22.htm)).
 
@@ -43,7 +43,7 @@ This isn't a black-and-white concept, and "Scripture alone" itself is more of a 
 4. Scripture alone is *not* the dominant authority for some things.
 5. Scripture alone is *not* sufficient authority for most things.
 
-Parsing the concept further shows several moving parts from how much the Bible actually covers any given [subject](conflicts-christian-1_why.md):
+Parsing the concept further shows several moving parts from how much the Bible actually covers any given [subject](people-conflicts-christian-1_why.md):
 
 1. When Scripture says something about a matter, can [cultural](people-culture.md) considerations add or modify the idea?
 2. When Scripture is vague on a matter, are we safe to clarify any spiritual authority on it?
@@ -59,7 +59,7 @@ This vagueness does provide freedom ([Galatians 5](https://biblehub.com/bsb/gala
 
 1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/bsb/romans/1.htm)) as a good thing.
 2. If we make clarifications of vague passages, *our* faith and beliefs in God creates that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
-3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-3_boundaries.md) and a type of [sin](morality-sins.md).
+3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](morality-sins.md).
 4. In particular, [church leaders](mgmt-church.md) must be careful what they forbid and how they do it within their domain of [influence](power-influence.md).
 
 Every Christian believes in the spiritual authority of the Bible, but the Church's authority certainly isn't as clear:
@@ -141,7 +141,7 @@ So, what you think of the Deuterocanon/Apocrypha heavily define what you think o
 "Glory" is another nuanced word, similar to "faith", with at least a few definitions:
 
 1. [Influence](power-influence.md), such as the ability to create [consequences](results.md).
-2. Reputation, implied to be others' [opinions](image.md).
+2. Reputation, implied to be others' [opinions](people-image-why.md).
 3. Strength, which alludes to aptitude or limits.
 
 So, the idea of "everything for God's glory" can mean:

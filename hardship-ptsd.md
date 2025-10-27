@@ -3,7 +3,7 @@
 
 We all experience trauma. It's an inevitable reality of life that started when we were small children. It might have been from legitimate abuse, but was pain over a thing we [wanted or needed](purpose.md) that we couldn't have. Further, it only has to be [imagined](imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
 
-For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war.md)).
+For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war-why.md)).
 
 While everyone experiences trauma, each person responds to it differently:
 

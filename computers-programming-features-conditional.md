@@ -22,7 +22,7 @@ In one sense, *everything* in programming is merely "if" and "for" loops:
 
 ## Statement types
 
-IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if if it's not true. They don't tend to permit [alternative interpretations](image.md) of "true", either.
+IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if if it's not true. They don't tend to permit [alternative interpretations](people-image-why.md) of "true", either.
 
 - IF (*statement that must be true*) {
 

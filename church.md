@@ -70,15 +70,15 @@ Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.
 
 Beyond deacons, church elders have a few additional qualifications:
 
-- [Reputable](image.md) among the Church and non-believers.
+- [Reputable](people-image-why.md) among the Church and non-believers.
 - Monogamous and faithful to his wife.
-- If he has [children](parenting-children.md), they're *also* Christians with a good [reputation](image.md).
+- If he has [children](parenting-children.md), they're *also* Christians with a good [reputation](people-image-why.md).
 
 Finally, the church pastors/overseer have even *more* criteria:
 
 - He's in a well-[led](mgmt-church.md) household with submissive children.
 - He's *not* a [new convert](christian-new.md), since new believers can easily become [conceited](morality-evil.md).
-- He has a good [reputation](image.md) in the Church and the world.
+- He has a good [reputation](people-image-why.md) in the Church and the world.
 - He's not conceited, quick-tempered, or violent.
 - He's hospitable, loves goodness, disciplined, morally upright, and holy.
 - He holds firmly to Scripture and teaches correct doctrine as well as rebuking others that contradict it.
@@ -130,7 +130,7 @@ Joining a new church is sometimes difficult when we don't have [connections](peo
 
 ## All churches are flawed
 
-No specific [church denomination](conflicts-christian-1_why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
+No specific [church denomination](people-conflicts-christian-1_why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
 
 - Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name ([1 Corinthians 3:3-7](https://biblehub.com/bsb/1_corinthians/3.htm)).
 

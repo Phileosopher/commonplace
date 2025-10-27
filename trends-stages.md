@@ -9,7 +9,7 @@ It's worth noting that each person's status in a trend doesn't really mean much 
 
 At first, something is unusual. If it's *really* unusual, it'll often be [taboo](morality-taboo.md).
 
-Typically, the trend starts by not even [*existing*](reality.md) within the [group](groups-large.md), and only a few [brave](mind-feelings-fear.md), [creative](mind-creativity.md), or unconventional people are exploring it. But, nearly everyone is [afraid](mind-feelings-fear.md) to [try it](results.md), outside of people who don't concern themselves with [how they'll appear](image.md), who simply haven't gotten around to trying it yet.
+Typically, the trend starts by not even [*existing*](reality.md) within the [group](groups-large.md), and only a few [brave](mind-feelings-fear.md), [creative](mind-creativity.md), or unconventional people are exploring it. But, nearly everyone is [afraid](mind-feelings-fear.md) to [try it](results.md), outside of people who don't concern themselves with [how they'll appear](people-image-why.md), who simply haven't gotten around to trying it yet.
 
 The trend *always* start at the fringe of the group's [understanding](understanding.md). The only people who engage with it are willing to break from that group's [expectations](imagination.md), typically because they're exploring *another* [culture](people-culture.md).
 
@@ -17,7 +17,7 @@ APPLICATION: Innovators are often [venerated in stories](stories-storytellers.md
 
 While the thing may exist in another group, nobody will [believe](understanding-certainty.md) it to be worth trying, or will have additional untrue beliefs that imply it's [useless](purpose.md) or [bad](morality.md).
 
-The trend will have advocates, though, who sincerely [believe](understanding-certainty.md) that the thing will answer a [problem](purpose.md). Most of the time, they're [watching](people-3_boundaries.md) what they [say](language.md) about it. Most [large systems](groups-large.md) [turn bad](mgmt-badsystems.md) by crafting elaborate [stories](stories-storytellers.md) to maintain the [taboo](morality-taboo.md).
+The trend will have advocates, though, who sincerely [believe](understanding-certainty.md) that the thing will answer a [problem](purpose.md). Most of the time, they're [watching](people-boundaries.md) what they [say](language.md) about it. Most [large systems](groups-large.md) [turn bad](mgmt-badsystems.md) by crafting elaborate [stories](stories-storytellers.md) to maintain the [taboo](morality-taboo.md).
 
 For smaller trends, like variations of a different trend, people won't [feel](mind-feelings.md) opposed to it, but will wonder why that remix is even necessary.
 
@@ -27,16 +27,16 @@ APPLICATION: If you're the architect of an idea, you didn't really "think" it yo
 
 At this point, a few outliers will have the [courage](mind-feelings-fear.md) to [try](results.md) that thing. They're about 2.5% of the group, and almost always fit a few specific archetypes:
 
-- [Young people](maturity.md) who haven't [identified](identity.md) closely with their [culture of origin](people-culture.md) and want [new things](image.md).
-- Geeks and nerds who either don't care [how they look](image.md) or are utterly oblivious to it.
+- [Young people](maturity.md) who haven't [identified](identity.md) closely with their [culture of origin](people-culture.md) and want [new things](people-image-why.md).
+- Geeks and nerds who either don't care [how they look](people-image-why.md) or are utterly oblivious to it.
 - People trying to break the [rules](people-rules.md) for fun or who enjoy exploring [uncertain](understanding-certainty.md) things.
 - Mentally unstable people battling [past trauma](hardship-ptsd.md).
 
-Unlike everyone else, these people have often made [habits](habits.md) of breaking [convention](people-culture.md), and usually explore the thing for fun or to [fight](people-conflicts.md) presently [established](people-culture.md) things. This unique way of living means their [personalities](personality.md) are completely different from the rest of their [group](groups-small.md).
+Unlike everyone else, these people have often made [habits](habits.md) of breaking [convention](people-culture.md), and usually explore the thing for fun or to [fight](people-conflicts-why.md) presently [established](people-culture.md) things. This unique way of living means their [personalities](personality.md) are completely different from the rest of their [group](groups-small.md).
 
 While they're *called* "innovators", they're not that innovative because most of their rule-breaking will get them in trouble and *other* people later will reap the brilliance. At most, across their lifetime, they'll probably break 1-2 conventions that become dramatic trends. The rest of their efforts are either too premature or *awful* ideas that never take off.
 
-Often, many of them are labeled heretics and outcasts. Their [risk-taking](socialrisk.md) and public [shame](image.md) provokes them to usually live solitary lives, but they can sometimes congregate in a [community](groups-member.md) of like-minded risk-takers. Their [choice](people-decisions.md) is usually driven by an overwhelming [passion](purpose.md).
+Often, many of them are labeled heretics and outcasts. Their [risk-taking](socialrisk.md) and public [shame](people-image-why.md) provokes them to usually live solitary lives, but they can sometimes congregate in a [community](groups-member.md) of like-minded risk-takers. Their [choice](people-decisions.md) is usually driven by an overwhelming [passion](purpose.md).
 
 Large trends start with innovators who were extremely [creative](mind-creativity.md) or extremely foolish. However it happened, they broke an invisible "wall" of society in a way that was useful.
 
@@ -54,9 +54,9 @@ Some people like to break [convention](habits.md) but are still [afraid](mind-fe
 
 Most early adopters are closely watching the innovators to gain [influence](influence.md) with the rest of the group by attaching their [identity](identity.md) to something before anyone else. They're paying *very* close attention to a few specific things:
 
-1. The [conflicts](people-conflicts.md) between the innovators and everyone else over time.
+1. The [conflicts](people-conflicts-why.md) between the innovators and everyone else over time.
 2. Whether the innovators' ideas are feasible.
-3. Whether the innovators' ideas could be [fashionable](image.md).
+3. Whether the innovators' ideas could be [fashionable](people-image-why.md).
 
 When their [intuition](mind-feelings.md) senses that the public will generally accept something, they'll adopt it in an attempt to [influence](influence.md) everyone else toward it. They not only have to have evidence that the idea is [true](reality.md), but that others will also like it.
 
@@ -66,9 +66,9 @@ The most [creative](mind-creativity.md) uses of the thing come with the early ad
 
 Early adopters' experiments will yield remarkable [solutions](purpose.md) and abuses of [power](power.md), but nowhere *near* as prevalent as later on. However, its novelty will generate *major* public reactions from it.
 
-APPLICATION: Trendy people *[want](purpose.md)* everything to conform to their trends, but society can never run that way. Instead, trendy people spend lots of effort on failed trends before other people take on [proven](results.md) things. However, trendy people try to [distort the perceived popularity](image-distortion.md) of the trends they [wish](purpose.md) to advance.
+APPLICATION: Trendy people *[want](purpose.md)* everything to conform to their trends, but society can never run that way. Instead, trendy people spend lots of effort on failed trends before other people take on [proven](results.md) things. However, trendy people try to [distort the perceived popularity](people-image-distortion.md) of the trends they [wish](purpose.md) to advance.
 
-An early adopter successfully advancing a trend is unlikely. However, they're closely calculating and straddling social [expectations](imagination.md), so they never really suffer the [stigma](socialrisk.md) that innovators tend to receive. Early adopters and groups made of early adopters, though, almost *always* interpret those trends as "game-changers", and will [share](stories-storytellers.md) them with [inflated](image-distortion.md) [expectations](imagination.md) on the belief everyone will love it with mere [persuasion](influence.md).
+An early adopter successfully advancing a trend is unlikely. However, they're closely calculating and straddling social [expectations](imagination.md), so they never really suffer the [stigma](socialrisk.md) that innovators tend to receive. Early adopters and groups made of early adopters, though, almost *always* interpret those trends as "game-changers", and will [share](stories-storytellers.md) them with [inflated](people-image-distortion.md) [expectations](imagination.md) on the belief everyone will love it with mere [persuasion](influence.md).
 
 Most of the time, [looking back](stories-storytellers.md), trends are attributed more to early adopters than innovators. The name (which is usually from the early adopter) becomes a [symbol](symbols.md) for the thing that [unfairly](morality-justice.md) disregards innovators who actually *started* the trend or the previous trends that warmed everyone up to it.
 
@@ -78,11 +78,11 @@ APPLICATION: The most lucrative time to invest in something is when the innovato
 
 ## D. Public, and popular
 
-As the majority of people [see](image.md) the [results](results.md) of something with the early adopters, an early majority (about 34% of the group) will [change](people-changes.md) their [beliefs](understanding-certainty.md) to adopt the thing. The earliest people in the early majority may not earn all the popularity, but they frequently gain the most [power](power.md) through the trend from the early adopters paving the way already.
+As the majority of people [see](people-image-why.md) the [results](results.md) of something with the early adopters, an early majority (about 34% of the group) will [change](people-changes.md) their [beliefs](understanding-certainty.md) to adopt the thing. The earliest people in the early majority may not earn all the popularity, but they frequently gain the most [power](power.md) through the trend from the early adopters paving the way already.
 
 The early majority starts something because they see proof it has worked and has been proven to benefit their [purposes](purpose.md):
 
-- The thing is stable and well-received already, or at least [looks like it is](image.md).
+- The thing is stable and well-received already, or at least [looks like it is](people-image-why.md).
 - The [group's leaders](groups-small.md) approve of it (at least enough that they imagine it's [useful](purpose.md) and they don't [feel](mind-feelings-fear.md) threats to their [power](power.md)).
 - There's a defined [educational](education.md) system on how to work with it or operate it.
 - Other people with the same [personality](personality.md) as them have already adopted it.
@@ -96,13 +96,13 @@ APPLICATION: Huge, society-spanning trends often come from awful conflicts and h
 - After The Great World War (WWI), Germany was utterly ravaged. That hatred led to [passions](purpose.md) which advanced Germany's Nazi Party in an election, mostly from a desire to [justly](morality-justice.md) take back the [power](power.md) they had held.
 - France was [economically](economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
 
-Like early adopters' [conflict](conflicts-inner.md), the early majority also care a *lot* about [how they look](image.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](people-rules.md).
+Like early adopters' [conflict](people-conflicts-inner.md), the early majority also care a *lot* about [how they look](people-image-why.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](people-rules.md).
 
 APPLICATION: Trends require multiple people to take hold of it:
 
 1. Innovators must be willing to break convention and explore [taboos](morality-taboo.md).
 2. Early adopters must be willing to [take a risk](socialrisk.md) on the trend enough to [influence](power-influence.md) others.
-3. Quite a few [sensible](logic.md), [respectable](image.md) people have to agree that the early adopters' approach is worth the [risks](safety.md) to adopt.
+3. Quite a few [sensible](logic.md), [respectable](people-image-why.md) people have to agree that the early adopters' approach is worth the [risks](safety.md) to adopt.
 
 At this point, the trend will spread across a variety of social groups beyond simple [hearsay](stories-storytellers.md) or [small talk](people-conversation.md):
 
@@ -116,7 +116,7 @@ At this point, the trend will spread across a variety of social groups beyond si
 
 As the majority starts making the trend a [habit](habits.md), another late majority (about 34% of the population) will notice that most people have adopted the trend.
 
-At this point, the late majority will conform standards to that trend, but not [willingly](purpose.md). Instead, they're afraid of the [social push-back](people-conflicts.md) if they break the newly established [social rules](people-rules.md), since the trend has become so prevalent that they're at risk of committing a [taboo](morality-taboo.md) by *not* honoring it.
+At this point, the late majority will conform standards to that trend, but not [willingly](purpose.md). Instead, they're afraid of the [social push-back](people-conflicts-why.md) if they break the newly established [social rules](people-rules.md), since the trend has become so prevalent that they're at risk of committing a [taboo](morality-taboo.md) by *not* honoring it.
 
 APPLICATION: To avoid becoming obsolete, focus on things that won't change anytime during your lifetime.
 
@@ -125,7 +125,7 @@ A trend that becomes a social standard is a constraint because everyone [assumes
 At this stage, most [creative](mind-creativity.md) efforts that change the trend are streamlining its use, so there's very little development toward exploring new ideas:
 
 - Making it cheaper, faster, or easier to [understand](understanding.md).
-- Simplifying it, removing elements, or making it more [attractive](image.md) to engage otherwise uninterested people.
+- Simplifying it, removing elements, or making it more [attractive](people-image-why.md) to engage otherwise uninterested people.
 
 The result of all this is that it becomes very, very boring, and all the innovators find more interesting things to do.
 
@@ -135,7 +135,7 @@ Every [organization](groups-large.md) that benefits from a trend wants to keep a
 
 If enough people abide by the standard, there's a chance a sub-trend will arise inside that constrained trend. This will become a microcosm of the original trend. If *that* trend becomes a social standard, and enough people continue using it, a sub-sub-trend system can persist into indefinitely specific capacities.
 
-If a [bad system](mgmt-badsystems.md) exploits a trend, they're overstepping their [boundaries](people-boundaries.md) and pushing their [power](power.md) as far as the trend will permit them. If they're sensible, they can often create a Social Standard Zombie while sacrificing [quality](values-quality.md). Otherwise, they'll make everyone sick of the trend and it'll quickly fade.
+If a [bad system](mgmt-badsystems.md) exploits a trend, they're overstepping their [boundaries](people-boundaries-why.md) and pushing their [power](power.md) as far as the trend will permit them. If they're sensible, they can often create a Social Standard Zombie while sacrificing [quality](values-quality.md). Otherwise, they'll make everyone sick of the trend and it'll quickly fade.
 
 The peak of a trend is right *before* the demonstration of a grandiose, obscene, audacious over-expression of that trend:
 
@@ -178,9 +178,9 @@ When looking ahead, people tend to [imagine](imagination.md) a social standard w
 Naturally, every [organization](groups-large.md) that profits off a trend will do what they can to maintain it, since they [want](purpose.md) their thing to stay a social standard:
 
 - Most trend leaders attach their [identity](identity.md) and [legacy](legacy.md) to their trend, which means they lose even *more* [power](power.md) and [influence](influence.md) when that trend inevitably dies than if they hadn't.
-- They'll make new trends that dovetail into their original one. Since they're already [making](creations.md) the first thing (and often own the [intellectual property rights](legal-ip.md)), they have a [competitive](people-conflicts.md) edge on everyone else.
-- They'll usually [distort](image-distortion.md) how necessary or crucial their trend is. At the most extreme, they'll claim their trend [defines civilization or is the future of humanity](politics-conservativeliberal.md).
-- When possible, they'll shut down new trends that could take away their [power](power.md), often [viciously](people-conflicts.md) or with [evil intent](morality-evil.md). People *inside* the organization aren't exempt, even when they're fiercely [loyal](image.md) to the [group](groups-small.md).
+- They'll make new trends that dovetail into their original one. Since they're already [making](creations.md) the first thing (and often own the [intellectual property rights](legal-ip.md)), they have a [competitive](people-conflicts-why.md) edge on everyone else.
+- They'll usually [distort](people-image-distortion.md) how necessary or crucial their trend is. At the most extreme, they'll claim their trend [defines civilization or is the future of humanity](politics-conservativeliberal.md).
+- When possible, they'll shut down new trends that could take away their [power](power.md), often [viciously](people-conflicts-why.md) or with [evil intent](morality-evil.md). People *inside* the organization aren't exempt, even when they're fiercely [loyal](people-image-why.md) to the [group](groups-small.md).
 
 Plus, most [older people](maturity.md) simply like things the way they are.
 
@@ -209,7 +209,7 @@ A trend will eventually fade from [use](purpose.md), but not from everyone's mem
 
 Anyone who chooses to use the trend at this point will either be an innovator looking for a variation from current conventions or a laggard unwilling to move on to another trend.
 
-Most late adopters and laggards have a [habitual](habits.md) association with an old trend, so they tend to not [change](people-changes.md) as fast as everyone else. They tend to be older, with that trend peaking when they were about 10-20 years old. This tends to dissuade the [youth](maturity.md) from their trends and magnifies the trend's [image](image.md) as a product of its era.
+Most late adopters and laggards have a [habitual](habits.md) association with an old trend, so they tend to not [change](people-changes.md) as fast as everyone else. They tend to be older, with that trend peaking when they were about 10-20 years old. This tends to dissuade the [youth](maturity.md) from their trends and magnifies the trend's [image](people-image-why.md) as a product of its era.
 
 If anyone ever [creates](creations.md) with an old trend without remixing it, they're usually [bad systems](mgmt-badsystems.md) with [low-quality](values-quality.md) offerings that satisfy [aging](maturity.md) laggards. They're either [retrofitting](purpose.md) another more popular trend or working in a cottage [industry](jobs-specialization.md) to meet laggards' [expectations](imagination.md). After a certain point, it won't be worth sustaining.
 
@@ -217,13 +217,13 @@ If anyone ever [creates](creations.md) with an old trend without remixing it, th
 
 If the public has become fully aware of something, it will keep itself as part of the [culture's tradition](people-culture.md). It'll show up in small ways, in a variety of formats but mostly through [small talk](people-conversation.md), often as a reference to the past:
 
-- A [nostalgic](image.md) remembrance of a different time.
+- A [nostalgic](people-image-why.md) remembrance of a different time.
 - An accounted [history](stories-storytellers.md) of the right way to [live](goodlife.md) or [do](results.md).
 - A cautionary tale of what to *not* [do](results.md).
 
 The oral tradition of sharing past trends keeps the trend alive, but as a "soft" [understanding](understanding.md) that misses many key details about the reason for that trend in the first place.
 
-The tradition of re-telling the [story](stories.md) [empowers](power.md) that trend to begin again in the future as a cycle with another generation. Without it, that new generation will rediscover it and the trend will start again as if it were [new](image.md).
+The tradition of re-telling the [story](stories.md) [empowers](power.md) that trend to begin again in the future as a cycle with another generation. Without it, that new generation will rediscover it and the trend will start again as if it were [new](people-image-why.md).
 
 As time persists, the trend will lose all sense of its original meaning. It'll get smashed together with other fashions of the time. Since our memory of [history](stories-storytellers.md) is [fuzzy](legacy.md), it'll lose progressively more context until it becomes the long-distant echoes of a mysterious practice. The [youth](maturity.md) will see it as a mark of human achievement or shame, depending on how the [culture](people-culture.md) values its elderly.
 
@@ -231,7 +231,7 @@ Furthrr, older things are usually disregarded by the [youth](maturity.md), even 
 
 APPLICATION: If someone calls something "new", look for what it's similar to across the lens of [history](trends.md).
 
-Sometimes, a trend-resistant [organization](groups-large.md) (e.g., [education](education.md) [industry](jobs-specialization.md)) will take give old trends from the past undue [praise](image.md) by virtue of their age. Often, they'll make a tedious mess of something originally intended for fun. Other times, history simply fades the [story](stories-storytellers.md):
+Sometimes, a trend-resistant [organization](groups-large.md) (e.g., [education](education.md) [industry](jobs-specialization.md)) will take give old trends from the past undue [praise](people-image-why.md) by virtue of their age. Often, they'll make a tedious mess of something originally intended for fun. Other times, history simply fades the [story](stories-storytellers.md):
 
 - Most clothing fashions of any artistic depiction are only the ceremonial wear, and people wore more mundane work clothes most of the time: Rome's senate didn't always wear togas, guards didn't always wear full gear, Reformation-era settlers didn't always wear buckled hats.
 - Hygiene in the Middle Ages was a well-honored value. However, it's [funnier](humor.md) to see the [peasantry](classes.md) clothed in more mud than clothing, so the [trope](stories.md) maintains itself.

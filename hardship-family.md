@@ -4,7 +4,7 @@
 Hardship with family is particularly difficult because of how close you are to them.
 
 - Generally, it's harder to permanently sever ties without serious ripple effects.
-- Even when you *do* sever ties [in a peaceable way](people-5_conflicts.md), other members not tied to the conflict may not be as comfortable with the situation.
+- Even when you *do* sever ties [in a peaceable way](people-conflicts.md), other members not tied to the conflict may not be as comfortable with the situation.
 
 Each member must undo their dysfunction:
 
@@ -60,7 +60,7 @@ You now have a small child you must take care of:
 
 If you don't believe you'll give the baby a good home, look into giving the child up for adoption or having an extended family member take care of them:
 
-- You will often have social workers who will be present to assist, but [know your rights](people-boundaries.md) before [consenting](people-contracts.md) to anything.
+- You will often have social workers who will be present to assist, but [know your rights](people-boundaries-why.md) before [consenting](people-contracts.md) to anything.
 - If you think you *can* be a good [parent](parenting-children.md) but aren't ready yet, give them to someone you know so you can still take care of them.
   - Contrary to popular culture, [parenting](parenting-babies.md) is difficult only in how children *steadily* have needs (e.g., food, diaper change, hygiene).
 - Ignore the [religious discussions](religion.md) that condemn your situation, and try to find people who will [love](people-love.md) you in your time of need.
@@ -91,7 +91,7 @@ Your child may have formed dysfunctional patterns:
 - Has trouble finishing tasks from beginning to end or is overly irresponsible.
 - Doesn't adapt to other people and their needs.
 - Needs constant approval or affirmation.
-- Never handles [conflict](people-5_conflicts.md) well, and often avoids or intensifies it.
+- Never handles [conflict](people-conflicts.md) well, and often avoids or intensifies it.
 - Fears rejection and abandonment, but rejects others.
 
 To move on, you *must* apologize to them:

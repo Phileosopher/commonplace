@@ -6,7 +6,7 @@ In general, the art of customer service is behaving like a nice person, even whe
 - Working with customers is a generally unpleasant experience, proportionally to how little you know how to navigate interactions with complete strangers.
 - There's a way to be polite with customers while also setting boundaries, but it requires using a [higher-context](culture.md) approach than they do.
 
-The art of working with the public involves many small details of [tact](people-3_boundaries.md), but adds behaviors that make the consumer feel important.
+The art of working with the public involves many small details of [tact](people-boundaries.md), but adds behaviors that make the consumer feel important.
 
 - One rude clerk will completely offset *hundreds* of well-placed and well-framed [advertisements](marketing.md).
 - Therefore, it's wise to over-invest into how everyone in an organization interacts with the public.
@@ -50,7 +50,7 @@ If everyone is busy, immediately inform the customer that someone will be with t
 
 ## Conflicts
 
-Most [conflict management skills](people-5_conflicts.md) that assert a win/win are *not* useful in most customer service capacities.
+Most [conflict management skills](people-conflicts.md) that assert a win/win are *not* useful in most customer service capacities.
 
 - While you often *might* have some authority as a manager, you're also facing competing interests with the organization that employs you.
 - Before providing any solutions, let them throw their adult tantrum and run at least some of their energy out.

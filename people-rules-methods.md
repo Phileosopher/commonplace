@@ -11,7 +11,7 @@ If an organization doesn't have the power to safely destroy someone's image publ
 
 A public declaration of someone's misbehavior.
 
-Usually the most common rule method, and only impacts someone's [reputation](image.md).
+Usually the most common rule method, and only impacts someone's [reputation](people-image-why.md).
 
 ## C. Rights Suppression
 
@@ -63,7 +63,7 @@ The most dramatic form of punishment.
 
 - The authority will try to cause pain to that person, either permanently (e.g., severing limbs) or temporarily (e.g., beating).
 
-Most forms of torture connect to something in that person's mind, while a few of them (e.g., flogging) are meant for public [humiliation](image.md).
+Most forms of torture connect to something in that person's mind, while a few of them (e.g., flogging) are meant for public [humiliation](people-image-why.md).
 
 ## I. Exile
 

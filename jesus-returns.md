@@ -39,7 +39,7 @@ We would need to transition into a single world government:
 
 - It doesn't need to be only one central leader, but there needs to be unity ([Revelation 13:1-7](https://biblehub.com/bsb/revelation/13.htm), [Daniel 7:16-24](https://biblehub.com/bsb/daniel/7.htm)).
 - There's *plenty* of in-fighting among nations right now.
-- To get to a shared government, *all* the world's leaders would have to honor either some form of [leftism](politics-leftism.md) or a [tyrannical takeover](people-conflicts-war.md).
+- To get to a shared government, *all* the world's leaders would have to honor either some form of [leftism](politics-leftism.md) or a [tyrannical takeover](people-conflicts-war-why.md).
 
 Israel must be at peace with its neighbors:
 
@@ -72,7 +72,7 @@ The world is slowly trending toward leftism:
 
 - [Leftism](politics-leftism.md) is a religion without any connection to God or religiousness, and might become a prototype of the end times' one-world religion ([Revelation 13:11-15](https://biblehub.com/bsb/revelation/13.htm)).
 - Leftism attempts to recreate Jesus' [Millennial Kingdom](https://theologos.site/millennium/) without God ([Revelation 21:1-8](https://biblehub.com/bsb/revelation/21.htm)).
-- In the process, they destroy God's design for [gender](gender.md), [family](church-family.md), [justice](morality-justice.md), and [boundaries](people-boundaries.md).
+- In the process, they destroy God's design for [gender](gender.md), [family](church-family.md), [justice](morality-justice.md), and [boundaries](people-boundaries-why.md).
 - Traveling the stars and colonizing other planets is a modern [technological](technology.md) update of the Tower of Babel ([Genesis 11](https://biblehub.com/bsb/genesis/11.htm)).
 - Leftism only gains [power](power.md) because people trust the [government](groups-large.md) out of [fear](mind-feelings-fear.md) of doing *anything* on their own or trusting God.
 - However, it simply doesn't have any good false hope to believe in beyond this life, since it's strictly a [political](politics-systems.md) perspective.
@@ -93,7 +93,7 @@ There are still decent people spread throughout society, so it's not likely that
 - People will be disobedient to their [parents](parenting-babies.md).
 - People will be [ungrateful](mind-feelings-happiness-stress.md) and hold grudges.
 - People will live unholy lives and hate good things.
-- People will betray others and lie to harm others' [reputations](image.md).
+- People will betray others and lie to harm others' [reputations](people-image-why.md).
 - Unrestrained and reckless people will love pleasure more than God.
 - People will have a form of godliness, but deny any of its power.
 - Whenever possible, avoid those awful people and don't even associate with or *eat* with them if they call themselves Christians.

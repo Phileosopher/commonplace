@@ -3,7 +3,7 @@
 
 When you don't have *any* money, you often can't even reliably [hunt for a job](jobs-3_image.md).
 
-- In [modern society](image-modern.md), you need a cell phone and email address you access daily more than a fixed address!
+- In [modern society](people-image-modern.md), you need a cell phone and email address you access daily more than a fixed address!
 
 To get out of poverty, save *everything* you can:
 

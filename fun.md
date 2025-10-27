@@ -85,7 +85,7 @@ If you don't believe you're particularly funny, it's a trainable skill:
 
 Games are simplified life:
 
-- Games, like life, have [rules](people-rules.md), requirements, [conflicts](people-5_conflicts.md), [social interaction](people-1_why.md), [challenges](success-3_goals.md), and [resource management](power-types.md).
+- Games, like life, have [rules](people-rules.md), requirements, [conflicts](people-conflicts.md), [social interaction](people-1_why.md), [challenges](success-3_goals.md), and [resource management](power-types.md).
 - Throughout life starting from early [childhood](parenting-children.md), playing games has many psychological benefits.
 
 Since they're the most interactive and give the most feedback, play games that require hand-eye coordination.

@@ -7,7 +7,7 @@ In a litigious society, everyone must learn basic legal safety.
 
 - 80%+ of the people, in *any* society, are decent-enough that they honor laws and don't like litigation at all.
 - The other ~20% of the people may cause trouble for you in a legal capacity, since they're willing to profit off the experience without regard to others.
-- 3-10% of that 20% are *superb* at unethically exploiting legal boundaries and conducting [lawfare](people-conflicts-war.md), and they're very dangerous to even *associate* with.
+- 3-10% of that 20% are *superb* at unethically exploiting legal boundaries and conducting [lawfare](people-conflicts-war-why.md), and they're very dangerous to even *associate* with.
 
 In short, basic legal safety involves several things:
 
@@ -39,7 +39,7 @@ The nature of [human bias](mind-bias.md) means *all* law enforcement will profil
 
 - For much of the law enforcement world, you're a name and a list of prior events they know about.
 - The opinions of prior law enforcement will *heavily* influence how they see you, especially anything codified in a dropdown menu.
-- You can't run from your [data reputation](image-modern.md), but you can certainly change the trajectory by behaving as compliant as reasonably possible for the circumstances.
+- You can't run from your [data reputation](people-image-modern.md), but you can certainly change the trajectory by behaving as compliant as reasonably possible for the circumstances.
 
 Every court hearing is [inherently biased](mind-bias.md).
 
@@ -54,7 +54,7 @@ To put it another way, laws aren't directly morality:
 2. At first, the values reflect the leaders' [philosophies](philosophy.md), but adapt and conform to [trends](trends.md) over time to enforce [justice](morality-justice.md).
 3. Law enforcement will create [consequences](results.md) for those laws, but those consequences aren't necessarily moral.
 4. If there is anything moral about the laws, they exist in the framers' minds, and future morality comes through how future leaders interpret it.
-5. We all, in our mind, have an [imitation](image.md) of those laws, which is perpetually over-ruled by permutations and misunderstandings of those laws relative to how large organizations use them.
+5. We all, in our mind, have an [imitation](people-image-why.md) of those laws, which is perpetually over-ruled by permutations and misunderstandings of those laws relative to how large organizations use them.
 
 ## Be tactful
 
@@ -63,11 +63,11 @@ Your legitimate innocence is the best legal defense, and being a decent human be
 People don't usually sue well-liked people.
 
 - The only people who [good people](people-love.md) are varying degrees of [evil](morality-evil.md), and are either conceited enough to waste money or know how to abuse the legal system.
-- Your reputation (in [whatever form it takes](image-modern.md)) is a history of past interactions with other people, and people [trust](trust.md) it because it expresses your [habits](habits.md) over time.
+- Your reputation (in [whatever form it takes](people-image-modern.md)) is a history of past interactions with other people, and people [trust](trust.md) it because it expresses your [habits](habits.md) over time.
 - Behave [fairly](morality-justice.md), with *everyone*.
-  - Without people who value you (e.g., your [legal fiction](image-modern.md)), your reputation is defined by the pettiness and cruelty of your worst enemies.
+  - Without people who value you (e.g., your [legal fiction](people-image-modern.md)), your reputation is defined by the pettiness and cruelty of your worst enemies.
 
-Manage [conflicts](people-5_conflicts.md) correctly.
+Manage [conflicts](people-conflicts.md) correctly.
 
 - If someone will *not* like what you want to do, conflict is unavoidable.
 - Even when others deserve it, avoid harshness.
@@ -86,11 +86,11 @@ Make your public presence (e.g., social media) as a persona.
 
 ## Be careful when you're not sure
 
-Be very cautious about [every contract you consent to](people-6_contracts.md).
+Be very cautious about [every contract you consent to](people-contracts.md).
 
 Most legal issues come through inappropriate behavior or inappropriate [boundaries](people-3_boundaries.md).
 
-- How you behave establishes a [habitual precedent](habits.md), and deciding to change toward practicing healthy boundaries may become a [breach of contract](people-6_contracts.md).
+- How you behave establishes a [habitual precedent](habits.md), and deciding to change toward practicing healthy boundaries may become a [breach of contract](people-contracts.md).
 - If you *had* been overstepping your authority, then stopped, a court may still consider you to perform your over-reached actions (since you had set a precedent).
 - The longer your relationship with someone else in a professional capacity, the more implied expectations, and the higher the likelihood of bad boundaries.
 - Carefully consider *anything* you do [habitually](habits.md) with others.
@@ -157,7 +157,7 @@ Trust others, but verify everything.
 
 Research who you're working with.
 
-- Ask a wide variety of people to assess the [reputation](image.md) of a person or entity, *especially* professionals in industries close to them (e.g., asking an [accountant](money-accounting.md) about a bank).
+- Ask a wide variety of people to assess the [reputation](people-image-why.md) of a person or entity, *especially* professionals in industries close to them (e.g., asking an [accountant](money-accounting.md) about a bank).
 - If you're particularly concerned, pay for background checks to make sure (such as private detectives or [credit checks](money-2_debt.md)).
 - If you act on behalf of someone else (e.g., sales representative, agent), misstatements you make are often legally enforceable as being from the organization you represent.
 - Even if you have no criminal background, associating with criminals could [get you in legal trouble with them](legal-safety-crime.md)
@@ -294,7 +294,7 @@ Don't say anything.
 
 Never begin paying for installments unless you intend to finish paying it.
 
-- The first $1 payment declares a [contract](people-6_contracts.md) as legitimate.
+- The first $1 payment declares a [contract](people-contracts.md) as legitimate.
 
 For a minimal fee, you can register your dog as an "emotional support animal" and landlords can't discriminate or raise their rent for it.
 
@@ -333,7 +333,7 @@ If you're *writing* the contract, keep the language simple.
 
 ### Going on the offensive
 
-Treat most interactions as [contracts](people-6_contracts.md).
+Treat most interactions as [contracts](people-contracts.md).
 
 - There's a requirement to perform on both sides.
 - If they don't perform, you are entitled to sue.

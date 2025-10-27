@@ -1,4 +1,4 @@
-## Apologetics
+# Apologetics summarized
 
 The word apologetics goes back to the idea of an "apology", which comes from the Greek meaning a justification or defense (literally, apo-logos, or "away-from knowledge").
 
@@ -15,7 +15,7 @@ Be careful with apologetics.
 - There is a steady subculture of Christians who obsess with making strong, articulate arguments to defend every aspect of their faith.
 - However, each person has their path to walk, and they should walk with conviction even if it's not *precisely* correct the way you understand it ([Romans 14:1-6](https://biblehub.com/romans/14.htm)).
   - In general, you're wasting your time with denominational politics, and should focus on shared values instead ([Mark 9:38-41](https://biblehub.com/mark/9.htm)).
-  - The *one* exception, though, is when that denomination is practicing [legitimate heresy](conflicts-christian-1_why.md).
+  - The *one* exception, though, is when that denomination is practicing [legitimate heresy](people-conflicts-christian-1_why.md).
 - Make sure you keep in mind that Christians aren't known by their rock-solid views *nearly* as much as their love for each other ([John 13:34-35](https://biblehub.com/john/13.htm)).
 
 Most apologetics does *not* start with the Bible.
@@ -47,7 +47,7 @@ In general, ask questions more than give statements.
   - By asking questions, people ask those same questions in their mind even after you're done talking with them.
   - The person answering the question has to make more assertions to defend their beliefs.
 - Do *not* answer the questions unless they ask you, since it robs them of their [meaning](meaning.md) from discovering a truth.
-- Most of the time, a spiritual [conflict](people-5_conflicts.md) is based in [emotions](mind-feelings.md), *not* [logic](logic.md).
+- Most of the time, a spiritual [conflict](people-conflicts.md) is based in [emotions](mind-feelings.md), *not* [logic](logic.md).
   - Your purpose should be to [understand and learn](understanding.md) about them and their views, *not* to dismantle their perspective.
 
 Eventually, you *will* get a question you don't know the answer to.
@@ -61,7 +61,7 @@ Eventually, you *will* get a question you don't know the answer to.
 
 - Don't run from the conflict or pretend they're not asking legitimate questions.
 - Focus on sharing ideas and alternate views, and don't get distracted by their behavior in the discussion ([John 4:37](https://biblehub.com/john/4-37.htm)).
-- Even if they become [verbally abusive](people-5_conflicts.md), your conduct can show Christ-like behavior.
+- Even if they become [verbally abusive](people-conflicts.md), your conduct can show Christ-like behavior.
 - The situation becomes vastly more complex (and more important) when [dealing with cults](culture-cults.md).
 
 Do *not* let yourself fall into a rhetorical trap.

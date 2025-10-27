@@ -20,7 +20,7 @@ Your success as a parent comes from [your success in everything else](success-1_
 
 - [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
 - Learn [self-awareness](awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
-- [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-2_image.md).
+- [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-image.md).
 - Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
 - Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-marriage.md).
 
@@ -37,7 +37,7 @@ Children will rarely thank their parents for their self-improvement until they'v
 
 Each new child adds new dynamics to the family:
 
-- When a child doesn't have siblings, they'll fail to learn how to [get along with others](people-rules.md) and [resolve disputes](people-5_conflicts.md) if their parents don't intentionally expose them to other children.
+- When a child doesn't have siblings, they'll fail to learn how to [get along with others](people-rules.md) and [resolve disputes](people-conflicts.md) if their parents don't intentionally expose them to other children.
 - A [married couple](relationships-marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
 - With three or more children, parents' attention is often split so heavily that each child may not receive enough attention from their parents.
 
@@ -128,7 +128,7 @@ Be careful with what you give them, and on what terms:
 
 - For the sake of exploration, children typically don't understand that things have the value you've given to the objects you give them.
 - Explicitly indicate whether you're simply letting them use it or if they're free to do what they want with it.
-- Most of the trouble comes from parents who give something, presuming their child will handle it carefully, and a [conflict](people-5_conflicts.md) erupting when the child does something they shouldn't have with it.
+- Most of the trouble comes from parents who give something, presuming their child will handle it carefully, and a [conflict](people-conflicts.md) erupting when the child does something they shouldn't have with it.
 
 ## Your romantic relationship affects parenting
 

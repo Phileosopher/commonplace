@@ -22,7 +22,7 @@ Very frequently, a bad system has the means to continue growing through question
 - Charge rent and royalties at [unfairly](morality-justice.md) high rates, often permitting the parent organization to profit under a [contract](people-contracts.md) while the subsidiary organizations or individuals will get nearly nothing by comparison.
 - Disregarding any [ethical considerations](morality.md) and taking advantage of the lettering of vaguely worded or poorly considered [laws](people-rules.md) to perform activities that are *not* in the spirit of its design.
 - Underpaying the people in the group, often by implying the roles are tremendous [career-starting](jobs-1_why.md) opportunities or that the person can "grow with the company".
-- [Distorting the truth](image-distortion.md) about a product in a way that either hides the harm it may cause or [advertises](marketing.md) a feature the product in no way can remedy. This can include coining the [term](language.md) for a new disease (e.g., halitosis) or bribing/deterring [scientists](science.md) to prevent research.
+- [Distorting the truth](people-image-distortion.md) about a product in a way that either hides the harm it may cause or [advertises](marketing.md) a feature the product in no way can remedy. This can include coining the [term](language.md) for a new disease (e.g., halitosis) or bribing/deterring [scientists](science.md) to prevent research.
 
 As they defeat progressively more competitors and gain more [power](power.md), a large system can operate at *enormous* scale, meaning they can act more efficiently than their competitors:
 
@@ -36,14 +36,14 @@ Bad systems can only subsist and grow on [goods and services](results.md) treate
 
 APPLICATION: Don't publicly shame a large system with hearsay or lies. Stay as close to [the truth](reality.md) as you possibly can (and make sure you know other people to advance [the cause](values.md) if they shut you down) or they'll repudiate you faster than you can respond.
 
-Typically, the leader of a [large group](groups-large.md) is *not* aware they're inspiring a gigantic force of individuals that [portray](image.md) that leadership as an antagonist. Often, they have a sincere and misguided [belief](trust.md) that they're establishing a new level of [order](unknown.md), but either fail to incorporate [how humanity works](humanity-universals.md) (especially their [range of personalities](personality.md)) or [overstep their boundaries](people-boundaries.md). They'll often perform their tasks in secret, and it will often [backfire](stories-storytellers.md) later.
+Typically, the leader of a [large group](groups-large.md) is *not* aware they're inspiring a gigantic force of individuals that [portray](people-image-why.md) that leadership as an antagonist. Often, they have a sincere and misguided [belief](trust.md) that they're establishing a new level of [order](unknown.md), but either fail to incorporate [how humanity works](humanity-universals.md) (especially their [range of personalities](personality.md)) or [overstep their boundaries](people-boundaries-why.md). They'll often perform their tasks in secret, and it will often [backfire](stories-storytellers.md) later.
 
 ## Merging
 
 A large group's expansion typically comes through taking over and absorbing other smaller groups, with a few tactics:
 
-- [Selling](marketing.md) people on the [inspirational idea](purpose.md) itself, often with certain [religious](religion.md) implications. This can be a legitimately sincere desire if the person is receiving [company stock](money-investing.md) as compensation without any [strange arrangements](image-distortion.md) involved.
-- Using [charm](influence.md) to convince smaller groups that their [security](safety.md) is far better than their [freedom](people-boundaries.md), often with a [contract](people-contracts.md) that provides *much* more benefit to the larger group.
+- [Selling](marketing.md) people on the [inspirational idea](purpose.md) itself, often with certain [religious](religion.md) implications. This can be a legitimately sincere desire if the person is receiving [company stock](money-investing.md) as compensation without any [strange arrangements](people-image-distortion.md) involved.
+- Using [charm](influence.md) to convince smaller groups that their [security](safety.md) is far better than their [freedom](people-boundaries-why.md), often with a [contract](people-contracts.md) that provides *much* more benefit to the larger group.
 - Using [fear](mind-feelings-fear.md) to coerce them to give up, often through threats of the unknown, which can be accomplished effectively with anything that represents legitimate [risk](safety.md) to the smaller group (e.g., a pre-existing [story](stories.md) of their previous conquests, [legal](legal-safety.md) environment changing).
 
 If a large business has been expanding their operations for a long time, they'll often create subsidiary organizations that do *nothing* but seek smaller groups to absorb ("roll-ups"):
@@ -56,7 +56,7 @@ Often, a bad system will give incredibly generous incentives to the [smaller gro
 
 In a merger or acquisition, a significantly larger group will merge and absorb the smaller group's [culture](people-culture.md) and names, but the smaller group will only exist as a name after that point. The original [spirit](values.md) of the group will be gone unless the larger group treats that smaller group as its own autonomous unit.
 
-At some point, it'll make tremendous [marketing](marketing.md) sense to present a component of the organization with a separate [public image](image.md). Often, they can have such effective [marketers](stories-storytellers.md) that the public won't even *realize* it's the same organization!
+At some point, it'll make tremendous [marketing](marketing.md) sense to present a component of the organization with a separate [public image](people-image-why.md). Often, they can have such effective [marketers](stories-storytellers.md) that the public won't even *realize* it's the same organization!
 
 APPLICATION: Government elections are corrupt proportionally to the amount of work it takes to even run a campaign. Therefore, corruption in government scales with population.
 
@@ -66,7 +66,7 @@ Government bureaus work similarly to business units in merging, but without the 
 
 ## Monopoly
 
-At some point, without a [large conflict](people-conflicts-war.md) to keep a bad system beholden to [results](results.md), it becomes unstoppable by any competitors. Their sheer size in an [industry](jobs-specialization.md) will make them impossible to defeat through any conventional means. In other words, success for a [large group](groups-large.md) eventually becomes monopolization, at least toward a [niche](jobs-specialization.md).
+At some point, without a [large conflict](people-conflicts-war-why.md) to keep a bad system beholden to [results](results.md), it becomes unstoppable by any competitors. Their sheer size in an [industry](jobs-specialization.md) will make them impossible to defeat through any conventional means. In other words, success for a [large group](groups-large.md) eventually becomes monopolization, at least toward a [niche](jobs-specialization.md).
 
 It's worth noting that monopolies are *relatively* successful. It means there was a void that someone was waiting to [seize](socialrisk.md), and especially when there's a commodity which nobody cares where it came from (a product of [technological innovation](technology.md)).
 
@@ -74,11 +74,11 @@ APPLICATION: Monopolies are inevitable as long as people desire [power](power.md
 
 When large systems [have control](politics-monopolies.md) of vast portions of entire [specializations](jobs-specialization.md), they can dictate what people must [choose](people-decisions.md) to build by redefining the [consequences](results.md) to reward/punish activities in line with the group's interests. It's [our nature](humanity-universals.md) to dislike competition, so it's an inevitability.
 
-Gaining [power](power.md) usually takes far more effort than maintaining it. Instead of fighting *many* [competitors](people-conflicts.md) while focusing on much more powerful people, the fight is against other competitors in *other* groups and a few lower-ranking competitors who may become a future threat if not swiftly [dealt with](morality-evil.md).
+Gaining [power](power.md) usually takes far more effort than maintaining it. Instead of fighting *many* [competitors](people-conflicts-why.md) while focusing on much more powerful people, the fight is against other competitors in *other* groups and a few lower-ranking competitors who may become a future threat if not swiftly [dealt with](morality-evil.md).
 
 APPLICATION: The only reason people use [Verizon, Google, Facebook, Ford, and Coca-Cola](politics-monopolies.md) right now is because they're [familiar](habits.md) with it or don't see much to [choose](people-decisions.md) instead. However, assuming they didn't exist, their present [quality](values-quality.md) probably isn't enough to start a new trend if people hadn't been familiar with it in the first place.
 
-Thus, once someone has command of a large system in a comparatively small domain, they'll often focus all their efforts on stifling [competition](people-conflicts.md). They'll usually become complacent and forget the organization's [purposes](purpose.md) they were originally trying to advance.
+Thus, once someone has command of a large system in a comparatively small domain, they'll often focus all their efforts on stifling [competition](people-conflicts-why.md). They'll usually become complacent and forget the organization's [purposes](purpose.md) they were originally trying to advance.
 
 Each type of monopoly creates limits on members' [decision-making](people-decisions.md):
 
@@ -91,8 +91,8 @@ While a monopoly may not be corrupt in its inception, the most apparent indicato
 
 - Raising fees beyond natural [economic](economics.md) [trends](trends.md) like inflation, but without adding [quality](values-quality.md) to the offering.
 - Decreasing the [quality](values-quality.md) of the organization's offerings, but without lowering their costs.
-- Devoting more effort toward [advertising](image.md) to draw in people than to improving overall [quality](values-quality.md).
-- Advancing a [conflict](people-conflicts-war.md) or [fear](mind-feelings-fear.md) of that conflict, then [justifying](logic.md) a substandard situation with it (often by raising the price inappropriately).
+- Devoting more effort toward [advertising](people-image-why.md) to draw in people than to improving overall [quality](values-quality.md).
+- Advancing a [conflict](people-conflicts-war-why.md) or [fear](mind-feelings-fear.md) of that conflict, then [justifying](logic.md) a substandard situation with it (often by raising the price inappropriately).
 - Under-producing the available product to create [scarcity](economics.md), then supplying plenty of the product later once the demand for it goes up.
 - Giving varying regional prices for the same goods and services in relationship to *much* smaller competitors in that area ("price fixing").
 - Prevent over-producing, since it'll [flood the market](economics.md) and drive down demand in relation to supply, and find ways to maintain it with everyone else in that domain.
@@ -105,18 +105,18 @@ To stifle new [trends](trends.md) that may unseat their [power](power.md), most 
 - Giving an "open forum" for discussion, but preventing dissenters from saying what they want.
 - Observing any new [trends](trends.md), then buying out all the [ideas](mind-creativity.md) or their [creators](purpose.md) as they arise.
 - Publicly shaming anyone [building](creations.md) a [technology](technology.md) (or the technology itself) that could render their most profitable endeavors obsolete.
-- [Attacking](people-conflicts-war.md) any [intellectual property](legal-ip.md) that vaguely resembles the group's [symbols](symbols.md) or techniques (e.g., patent trolls).
-- Driving down the monetary value of a competitor's organization via [smear campaign](stories-storytellers.md) or [sabotage](people-conflicts-war.md), then buying them out when they're *just* about to go out of business.
-- Stalling and delaying reliable delivery of products to inhibit the [image](image.md) of a competitor.
+- [Attacking](people-conflicts-war-why.md) any [intellectual property](legal-ip.md) that vaguely resembles the group's [symbols](symbols.md) or techniques (e.g., patent trolls).
+- Driving down the monetary value of a competitor's organization via [smear campaign](stories-storytellers.md) or [sabotage](people-conflicts-war-why.md), then buying them out when they're *just* about to go out of business.
+- Stalling and delaying reliable delivery of products to inhibit the [image](people-image-why.md) of a competitor.
 - Blacklist anyone who performs business with a competitor, as well as forbidding business with anyone *else* who does business with that competitor.
 - Buy out all key things the competitor may need (e.g., real estate, [logistics](logistics.md), factories).
 - Continuing to create situations that generate problems the system was originally designed to solve.
 
-One of the most significant features of a persistent monopoly is when people *outside* the group entirely (e.g., producers, consumers) have very little [power](power.md) compared to various middle individuals and groups with [obscured purposes](image-distortion.md).
+One of the most significant features of a persistent monopoly is when people *outside* the group entirely (e.g., producers, consumers) have very little [power](power.md) compared to various middle individuals and groups with [obscured purposes](people-image-distortion.md).
 
 Free societies come with unique problems, and [political parties](politics-conservativeliberal.md) can do an election-based version of the same thing:
 
-- [Influence](influence.md) people to hate the opposition party with a [portrayed event](stories-storytellers.md) approximately 1-3 months before election day. This can include a [manufactured crisis](image-distortion.md).
+- [Influence](influence.md) people to hate the opposition party with a [portrayed event](stories-storytellers.md) approximately 1-3 months before election day. This can include a [manufactured crisis](people-image-distortion.md).
 - Have an electoral system that only has limited [regulation](people-rules.md) of the voting, then add in votes from another source. This can work if the vote is declared as [justice](morality-justice.md) only *without* the regulation.
 - Disqualify votes through rules that are difficult to [define](language.md), but serve to benefit one political party more than the other.
 - Maintain [power](power.md) with new legal directives after the public has voted the leader out, but before that leader must change roles with the next one.
@@ -128,10 +128,10 @@ APPLICATION: Most [large systems](groups-large.md) are at least partly bad syste
 Often, a bad system's leadership will ally with other large groups to suppress shared threats:
 
 - Giving [power](power.md) to other groups' leaders to [influence](influence.md) them to steer clear of conflicting [purposes](purpose.md).
-- Creating proxy organizations or appointing people who [appear](image.md) unrelated. Those people can then "verify" and "authorize" that group. They'll also sometimes discredit their source group's rivals with those organizations, who can often act without the [rules](people-rules.md) or formalized leadership of their host group.
+- Creating proxy organizations or appointing people who [appear](people-image-why.md) unrelated. Those people can then "verify" and "authorize" that group. They'll also sometimes discredit their source group's rivals with those organizations, who can often act without the [rules](people-rules.md) or formalized leadership of their host group.
 - Conspiring with other [large groups](groups-large.md) to create [government rules](people-rules.md) that prevent other [smaller groups](groups-small.md) from [fairly](morality-justice.md) competing ("crony capitalism").
 - Conspiring with other [large groups](groups-large.md) to prevent [smaller groups](groups-small.md) from establishing themselves in a domain ("cartels").
 - Creating [rules](people-rules.md) that prevent people from competing with other organizations in the same domain for a certain amount of time after leaving that organization ("non-compete agreements").
 - Using publicized [awards shows](stories-storytellers.md) to demonstrate "insider" [influence](influence.md) to signal affiliated groups.
 - Delaying [law enforcement](people-rules.md) which may harm them for as long as possible, with the expectation that their opponents will run out of [hope](understanding-certainty.md) and no longer want to keep sacrificing resources for the conflict.
-- Using protesters to "take action" through the [appearance](image-distortion.md) of being forced to act.
+- Using protesters to "take action" through the [appearance](people-image-distortion.md) of being forced to act.

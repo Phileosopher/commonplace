@@ -3,7 +3,7 @@
 
 Anger is a secondary [emotion](mind-feelings.md), meaning it derived from a primary emotion and then permuted with new information.
 
-In particular, anger is always driven by a [perceived](image.md) sense of [injustice](morality-justice.md), which requires two beliefs at once:
+In particular, anger is always driven by a [perceived](people-image-why.md) sense of [injustice](morality-justice.md), which requires two beliefs at once:
 
 1. Belief of [loss](hardship.md) or perceived loss.
 2. A belief that the loss was unjust.
@@ -25,7 +25,7 @@ Generally, anger is a catch-all feeling when we don't understand how to feel oth
 
 Anger is *very* useful to get things done, but it ruins our finesse. The only times anger is justified are against objects that can withstand it (e.g., [lifting weights](body-3_exercise.md)) or against people who are performing [evil](morality-evil.md). Otherwise, we must instead acknowledge the [fears](mind-feelings-fear.md) that drive that anger.
 
-"Letting off steam" is simply adding anger onto anger, and doesn't work to resolve anything, even while it gives the [illusion](image.md) of [creating results](results.md).
+"Letting off steam" is simply adding anger onto anger, and doesn't work to resolve anything, even while it gives the [illusion](people-image-why.md) of [creating results](results.md).
 
 ## Chronic anger
 

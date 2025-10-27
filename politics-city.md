@@ -38,7 +38,7 @@ The [cultural](people-culture.md) mix of a city is difficult to [measure](math.m
 APPLICATION: The three population density groups have irreconcilable differences in [value](values.md) systems:
 
 - Above a certain threshold, everyone *must* depend on others, but below a certain threshold, everyone *must* be self-sufficient.
-- More population creates more [trends](trends.md) and [conflicts of opinion](people-conflicts.md), so bigger cities are *far* more [liberal](politics-conservativeliberal.md) than the countryside.
+- More population creates more [trends](trends.md) and [conflicts of opinion](people-conflicts-why.md), so bigger cities are *far* more [liberal](politics-conservativeliberal.md) than the countryside.
 
 ## Multi-region
 

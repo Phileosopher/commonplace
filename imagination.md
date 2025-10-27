@@ -1,11 +1,11 @@
 
 # What imagination is
 
-Imagination is [understanding](understanding.md) something enough that we can [rebuild](creations.md) a [decent copy](image.md) of it in our minds.
+Imagination is [understanding](understanding.md) something enough that we can [rebuild](creations.md) a [decent copy](people-image-why.md) of it in our minds.
 
 Imagination comes from two facts:
 
-1. We can capture a somewhat reliable [image](image.md) of [reality](reality.md).
+1. We can capture a somewhat reliable [image](people-image-why.md) of [reality](reality.md).
 2. We can manipulate and tweak that image.
 
 While imagination can broadly be defined when we stop recollecting our [memory](mind-memory.md) and change or insert information, we *technically* start imagining when we take a step away from perceiving [reality](reality.md).
@@ -14,7 +14,7 @@ Once we've disconnected from sensory experiences (e.g., closing our eyes), we un
 
 By removing and adding various elements, we can form a remarkable variety of [stories](stories.md). Literally, all knowable possibilities of what is, was, and can happen sits inside the mind as an imagined thing. If we focus on it enough we can [feel](mind-feelings.md) as if it's [reality](reality.md) itself.
 
-Most of what we [perceive](image.md) as "[reality](reality.md)" is simply our imagination, proportional to our [creative ability](mind-creativity.md). We incessantly play with our memories to create horrific [mental illnesses](mind-feelings-fear.md), but absolutely any [willfully created](creations.md) thing has to be imagined first as well.
+Most of what we [perceive](people-image-why.md) as "[reality](reality.md)" is simply our imagination, proportional to our [creative ability](mind-creativity.md). We incessantly play with our memories to create horrific [mental illnesses](mind-feelings-fear.md), but absolutely any [willfully created](creations.md) thing has to be imagined first as well.
 
 APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
 
@@ -80,7 +80,7 @@ We tend to expect the unknown more than the known because we focus on it. Theref
 
 However, vast [power](power.md) is at stake for massive [decisions](people-decisions.md), so people pursue many ways to capture and subdue [uncertainties](understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
 
-The constant [uncertainties](trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](trends.md) before they emerge, and it can create the [illusion](image.md) that we understand when we really don't.
+The constant [uncertainties](trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](trends.md) before they emerge, and it can create the [illusion](people-image-why.md) that we understand when we really don't.
 
 ## Expecting chaos
 
@@ -102,7 +102,7 @@ We need experience to see the correct details because our values tend to oversim
 1. The difference between passing and failing can be as little as 1%.
 2. There's only a subtle difference between 89% and 90%.
 3. However, in a given situation 89% versus 90% may define "pass" or "fail".
-4. Therefore, most of the ingredients for something changing are already present in an 89% condition, even if they [appear](image.md) to be as bad as a 1% condition.
+4. Therefore, most of the ingredients for something changing are already present in an 89% condition, even if they [appear](people-image-why.md) to be as bad as a 1% condition.
 
 Further, the Pareto Principle compounds for each effect inside an abstraction:
 
@@ -132,7 +132,7 @@ APPLICATION: Often, the most "likely" [trends](trends.md) are the ones that were
 
 Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](understanding-certainty.md) than they really are.
 
-However, since everything we work with in our minds is essentially a [story](stories.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](image.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
+However, since everything we work with in our minds is essentially a [story](stories.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
 
 APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
 
@@ -147,13 +147,13 @@ Further, we're pretty good at guessing what has happened, but are typically awfu
 3. We tend to overstate what we [feel](mind-feelings.md), even when we're experiencing a distinctly unlikely situation.
 4. We don't like [uncertainty](understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groups-member.md)). This means technical realities and constraints are lost in our pursuit for [certainty](understanding-certainty.md).
 
-Even with [statistics](math.md), capturing [information](image.md) for [analysis](logic.md) doesn't make our predictions more reliable:
+Even with [statistics](math.md), capturing [information](people-image-why.md) for [analysis](logic.md) doesn't make our predictions more reliable:
 
 1. [Technology](technology.md) can't currently capture all the variables necessary to reliably predict [reality](reality.md) and account for [random chaos](unknown.md), especially when dealing with [social behaviors](trends.md).
-2. Capturing information is a secondary [image](image.md) to reality, which can make models difficult to represent reality itself, even with reliable data.
+2. Capturing information is a secondary [image](people-image-why.md) to reality, which can make models difficult to represent reality itself, even with reliable data.
 3. All events are statistical likelihoods stacked on statistical likelihoods, so finding legitimate chances with averages requires assigning it to multiple statistics, which become layers of abstraction removed even further away from reality. Eventually, [feelings](mind-feelings.md) grounded in [experience](understanding.md) are often more reliable.
 4. [Statistics](math.md) will find remarkably accurate correlations, but only [logic](logic.md) in the scope of an individual's [understanding](understanding.md) can build causation, which is necessary for predictions.
-5. Sometimes, people who make or [sell](marketing.md) statistics are [lying](image-distortion.md) about where they got their information, and are simply working off an [educated](understanding.md) [hunch](mind-feelings.md).
+5. Sometimes, people who make or [sell](marketing.md) statistics are [lying](people-image-distortion.md) about where they got their information, and are simply working off an [educated](understanding.md) [hunch](mind-feelings.md).
 
 ## Predicting many people
 

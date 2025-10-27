@@ -15,7 +15,7 @@ While most fears have a valid basis, we create fantastically ridiculous [expecta
 
 When we have a fear-based reaction, our [purposes](purpose.md) will clearly address a problem we observe. If we're still anxious after exhausting everything we could have done, we will quickly explore impossible solutions through [trust](trust.md) in ourselves that we can still control the situation (also known as "panic").
 
-We have many things to fear, and we tend to reposition it behind other [language](language.md) like "anxiety", "resistance", "nerves", "sensibility" or "walls". We often only stop reacting in fear because of a *greater* fear we're [fighting](conflicts-inner.md).
+We have many things to fear, and we tend to reposition it behind other [language](language.md) like "anxiety", "resistance", "nerves", "sensibility" or "walls". We often only stop reacting in fear because of a *greater* fear we're [fighting](people-conflicts-inner.md).
 
 We tend to be afraid about short-term issues or things we imagine (e.g., sharks, public speaking) and often overlook some things we *should* be afraid of:
 
@@ -42,7 +42,7 @@ The pain itself broadly reaches to *everything* we are capable of [identifying](
 
 APPLICATION: The thought and image of something is most likely scarier than the thing itself.
 
-Often, the reason people inflict pain is from [evil](morality-evil.md), but not necessarily. It can also come from negligence, naïveté, ignorance, self-defense, or merely [poor communication skills](people-3_boundaries.md).
+Often, the reason people inflict pain is from [evil](morality-evil.md), but not necessarily. It can also come from negligence, naïveté, ignorance, self-defense, or merely [poor communication skills](people-boundaries.md).
 
 Pain and pleasure aren't entirely separate. The pain of pursuing a worthy [purpose](purpose.md), for example, will heighten pleasure after overcoming it.
 
@@ -77,11 +77,11 @@ The fear of death contributes to far more [illogical](logic.md) behavior than we
 - People generally [trust](trust.md) [law](people-rules.md) enforcement out of a sense of self-preservation.
 - We'll believe [prophecies](religion.md) that promise to avoid death (e.g., rapture, immortality).
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
-- Even [wars](people-conflicts-war.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](image.md) of fighting for scarce resources that would lead to death if depleted.
+- Even [wars](people-conflicts-war-why.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](people-image-why.md) of fighting for scarce resources that would lead to death if depleted.
 
 APPLICATION: If death had no consequences, nothing would be serious, which is why most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories.md) have a great [sense of humor](humor.md).
 
-Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-2_image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
+Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
 
 The fear of death isn't *the* worst fear, though. Dying is, after all, only a few seconds of painful transition to something else that [we can't know](unknown.md). People will generally have a far worse fear of [eternal hell](religion.md), which would in some capacity harm the [soul](humanity.md) directly.
 
@@ -89,7 +89,7 @@ When we take that fear of death into a more broad application, we tend to create
 
 ## Fear of truth
 
-[Reality](reality.md) itself can be scary, and we'll frequently block or [distort](image-distortion.md) our perception of it.
+[Reality](reality.md) itself can be scary, and we'll frequently block or [distort](people-image-distortion.md) our perception of it.
 
 We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
 
@@ -123,7 +123,7 @@ Most fears, when nurtured, become an obsession with [power](power.md) towards [s
 
 ## Fighting fear
 
-Courage is [pushing](conflicts-inner.md) against fear to accomplish a [purpose](purpose.md). We find courage when we're trying to [preserve](safety.md) something we [love](people-love.md), but can also summon a lesser form of courage out of [social shame](mind-feelings-shame.md).
+Courage is [pushing](people-conflicts-inner.md) against fear to accomplish a [purpose](purpose.md). We find courage when we're trying to [preserve](safety.md) something we [love](people-love.md), but can also summon a lesser form of courage out of [social shame](mind-feelings-shame.md).
 
 APPLICATION: Since fear is a [feeling](mind-feelings.md), it's fundamentally comparative. Therefore, being gripped by fear can be easily resolved by addressing a much larger fear (e.g., of death), which makes the other fears trivial by comparison.
 
@@ -131,7 +131,7 @@ We don't typically need much courage to counteract fear, and a few seconds of bo
 
 APPLICATION: One of the greatest forms of [hardship](hardship.md) we must endure is finding the courage to suffer. Feeling things that harm us is painful, but we are [responsible](meaning.md) for enduring it.
 
-Most people are more afraid than they appear. Ironically, they have a fear of expressing their fear as well, which stems from what would they imagine would happen if [others saw](image.md) their fear in its entirety. Within a [confrontational environment](people-conflicts.md), most fear can be made useful as [anger](mind-feelings-anger.md).
+Most people are more afraid than they appear. Ironically, they have a fear of expressing their fear as well, which stems from what would they imagine would happen if [others saw](people-image-why.md) their fear in its entirety. Within a [confrontational environment](people-conflicts-why.md), most fear can be made useful as [anger](mind-feelings-anger.md).
 
 Most [worthwhile endeavors](purpose.md) require us to face our fears. Over time, if we keep [succeeding](success-1_why.md), we will start noticing that the presence of our fear is also where we can gain the most success. Eventually, we'll start *looking* for things that scare us because those will create the most significant [results](results.md).
 
@@ -149,11 +149,11 @@ A fearful group is toxic. People will repeat [stories](stories.md) that bear few
 
 Fearful people [trust](trust.md) a [large group](groups-large.md) to address their problem, mostly because they trust that [power](power.md) over what they can't see.
 
-One courageous person is capable of sparking a [trend](trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](understanding-certainty.md).
+One courageous person is capable of sparking a [trend](trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war-why.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](understanding-certainty.md).
 
 Leaders often become aware of the individuals' trust in them, and can use a steadily reliable [political](power-types.md) trick:
 
 1. Heighten existing fears.
 2. Make impossible promises to make people feel [secure](safety.md).
 3. Claim those promises can only work sufficiently if everyone honors [the group's standards](people-rules.md) (which are usually directing [power](power.md) toward the leadership).
-4. Use various [forms of image distortion](image-distortion.md) if the leadership doesn't meet those promises.
+4. Use various [forms of image distortion](people-image-distortion.md) if the leadership doesn't meet those promises.

@@ -88,7 +88,7 @@ Indicate its [legal form of ownership](money-accounting.md), and why.
 If you're selling a variety of products, you should be intimately familiar with every single one of them.
 
 - Look at the products as if you're a new customer who is first learning about it.
-- Consider [how you look](image.md) as you perform your services.
+- Consider [how you look](people-image-why.md) as you perform your services.
 
 When you think you've tested your product, test it some more.
 
@@ -276,7 +276,7 @@ Indicate the product's pricing or pricing models:
   - Include frequently overlooked costs connected to sales staff:
     - Necessary consulting costs, meals, and entertainment
     - Travel expenses
-    - Profit loss from a customer's potential [price negotiations](people-5_conflicts.md)
+    - Profit loss from a customer's potential [price negotiations](people-conflicts.md)
   - Indicate any overhead costs (e.g., administrative, [accounting](money-accounting.md), [attorney](legal-safety.md)).
 - Under-charging is *not* sustainable.
   - Your startup will need a high profit margin to manage [unknown risks](safety-riskmgmt.md).

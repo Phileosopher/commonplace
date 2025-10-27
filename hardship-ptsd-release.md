@@ -53,7 +53,7 @@ When you are ready, release your feelings about anything you fear or resent:
   - Play a high-reflex video game.
   - Take ten deep breaths, focusing particularly on the exhaling.
   - [Eat something](cooking.md) that's high-protein.
-  - [Wash your hands with warm water or take a hot shower](people-2_image.md).
+  - [Wash your hands with warm water or take a hot shower](people-image.md).
   - Give or request a hug from someone.
 - Make releasing a [morning or evening practice](habits.md) to prevent any further buildup of fears or resentments.
 

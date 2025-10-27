@@ -75,11 +75,11 @@ Avoid installing any plugins into your browser unless you know *exactly* what th
 
 If you don't know if you feel comfortable with your computer keeping information about where you went, then use private/incognito mode. Regularly clear your browsing history if you don't want advertisers to know what you're doing.
 
-Many other computers ([the OS](computers-os.md), [other apps](faang.md), governments, [internet service providers](networks-computer.md), [hackers](hacking.md)) can see your browser history, so regularly clear your browser history, or use separate browsers/profiles for different activities.
+Many other computers ([the OS](computers-os.md), [other apps](faang.md), governments, [internet service providers](networks-cs.md), [hackers](hacking.md)) can see your browser history, so regularly clear your browser history, or use separate browsers/profiles for different activities.
 
 If you're particularly paranoid, get Tor browser, which is a fork of Firefox that hyper-emphasizes security, and will delete your browsing history and cookies every time you close it.
 
-If you don't want other people to see your [IP address](networks-computer.md), use a VPN. Preferably, pay for it, since free VPNs tend to [track data](faang.md).
+If you don't want other people to see your [IP address](networks-cs.md), use a VPN. Preferably, pay for it, since free VPNs tend to [track data](faang.md).
 
 Even with all this, you're never fully safe from someone hacking you, though the above measures make you much safer.
 
@@ -101,7 +101,7 @@ Even then, there are mentally unwell people who *will* try to force an argument 
 
 Beyond this, there's also the risk of [your technological relationship with large organizations](faang.md). They don't always have your best interests in mind, and have the ability to surveil and subdue you if it serves their interests.
 
-When signing the [terms of service](people-6_contracts.md), pay very close attention to their policies on data security, data sharing with third parties, and data collection. People often click through without realizing how much they're giving up.
+When signing the [terms of service](people-contracts.md), pay very close attention to their policies on data security, data sharing with third parties, and data collection. People often click through without realizing how much they're giving up.
 
 ### Canaries
 

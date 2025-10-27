@@ -10,7 +10,7 @@ Small talk is the most frequent, necessary communication skill, even though quit
 - Emotionally secure people tend to hate circumventing topics.
 - Introverts don't like it because it pads out the time spent in a public setting with others.
 - Socially awkward people tend to face rejection and have [past trauma](hardship-ptsd.md) from small talk.
-- Highly successful people in non-social disciplines hate small talk because it circumvents legitimate [conflicts](people-5_conflicts.md).
+- Highly successful people in non-social disciplines hate small talk because it circumvents legitimate [conflicts](people-conflicts.md).
 
 While small talk is shallow, it's critical:
 

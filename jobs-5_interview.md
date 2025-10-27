@@ -43,7 +43,7 @@ If possible, schedule the interview either in the morning or an hour before the 
 
 Generally, try to look as good as one of the supervisors in your field.
 
-Observe tiny [clothing details](people-2_image.md) about other people in your industry.
+Observe tiny [clothing details](people-image.md) about other people in your industry.
 
 For Men:
 
@@ -267,7 +267,7 @@ Future Role Questions:
   - While you should have a number before walking in, only discuss it once they've given a [job offer](jobs-6_negotiating.md).
   - Confess you don't know enough.
   - Tell them you're flexible.
-  - If you're confident in [your negotiation skills](people-5_conflicts.md), ask how much salary they've budgeted for the position.
+  - If you're confident in [your negotiation skills](people-conflicts.md), ask how much salary they've budgeted for the position.
 - What is most important to you in a new position?
   - Give things that reflect the company's values.
 - What are the first five things you would do if you got this position? / How quickly do you think you will be ready to contribute to our organization?
@@ -304,7 +304,7 @@ Overall Career/Future Questions:
   - You don't need to share your salary, and the interviewer is behaving disrespectfully by asking.
   - Since they won't tell you the salary of the last person in that position, it's not fair for you to share yours.
     - They're asking so they can [offer](jobs-6_negotiating.md) a small additional amount than what you currently make, even when you're worth much more.
-    - Giving salary information is a form of [submission](people-5_conflicts.md) that [self-respecting](people-3_respect.md) people don't offer.
+    - Giving salary information is a form of [submission](people-conflicts.md) that [self-respecting](people-3_respect.md) people don't offer.
   - Delicately handle this question.
     - Ask the salary range of the position in response, then express your need for privacy if they don't share it.
     - Asking the salary range gives an ultimatum to the employer to either value their employees or their money more.
@@ -586,7 +586,7 @@ If you suspect anything that could be a larger problem later, walk away:
   - You felt oppressed and pressured.
   - The company's interviewing method makes you feel like a slave.
   - Your gut instinct says something is wrong.
-  - If you walk into the situation with a premonition, the situation [*will* get worse](people-5_conflicts.md).
+  - If you walk into the situation with a premonition, the situation [*will* get worse](people-conflicts.md).
 
 If you like what you see, write a professional thank-you letter to everyone you spoke to, including the secretary:
 

@@ -56,9 +56,9 @@ We have thoughts in our mind, which are fleeting glimpses of [patterns](symbols.
 
 Our subconscious mind is designed to protect us by automatically performing [routine actions](habits.md), but is *ridiculously* hypersensitive to input. These inputs can either be thoughts or [environmental experience](reality.md). Anything we can potentially do automatically and regard as [unimportant](purpose.md), including our [feelings](mind-feelings.md), can become part of that subconscious.
 
-We have many [depicted expressions of self-concept](image.md), which are all built on the [purposes](purpose.md) within our [environment](reality.md). There are many ways to [group](logic.md) those faces, but they broadly classify as short-term selfish (the "id"), long-term selfish (the "ego"), and [love](people-love.md) beyond oneself for others (the "superego").
+We have many [depicted expressions of self-concept](people-image-why.md), which are all built on the [purposes](purpose.md) within our [environment](reality.md). There are many ways to [group](logic.md) those faces, but they broadly classify as short-term selfish (the "id"), long-term selfish (the "ego"), and [love](people-love.md) beyond oneself for others (the "superego").
 
-It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](people-decisions.md) more than what we [do](results.md). But, everyone else only [sees](image.md) what we do, and their [judgments](image.md) are typically on that aspect alone.
+It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](people-decisions.md) more than what we [do](results.md). But, everyone else only [sees](people-image-why.md) what we do, and their [judgments](people-image-why.md) are typically on that aspect alone.
 
 APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will implies they're born, then fostered.
 
@@ -74,7 +74,7 @@ Nobody is particularly unique, and not particularly mysterious compared to anyon
 
 APPLICATION: We are often entitled because we believe we deserve something. In truth, we only deserve things the same as anyone else (meaning we must consider the needs of everyone around us) or by our merit (which is based on [results](results.md) just as much as [intention](purpose.md)).
 
-Any particular human is typically accessible and pleasant-enough to coexist with. However, they become *very* dangerous and unreasonable when [provoked](people-conflicts.md). In [large groups](groups-large.md), any individual capacity for [evil](morality-evil.md) is dramatically magnified, and that capacity is why most [political systems](politics-systems.md) devolve into [dysfunction](mgmt-badsystems.md).
+Any particular human is typically accessible and pleasant-enough to coexist with. However, they become *very* dangerous and unreasonable when [provoked](people-conflicts-why.md). In [large groups](groups-large.md), any individual capacity for [evil](morality-evil.md) is dramatically magnified, and that capacity is why most [political systems](politics-systems.md) devolve into [dysfunction](mgmt-badsystems.md).
 
 ## Human worth
 
@@ -86,7 +86,7 @@ APPLICATION: To not value a soul, while valuing anything else of a person, is to
 
 APPLICATION: We can't directly observe a soul, and the easiest way to discover the value of a soul is through changing the situation that person is in. Make a rich man penniless, or give a low-ranking person ultimate authority. Their value is in the [virtues and goodness](morality.md) they keep or change as the situation shifts.
 
-People don't usually pay attention to others' legitimate human worth because they focus more on [status](image.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](people-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+People don't usually pay attention to others' legitimate human worth because they focus more on [status](people-image-why.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](people-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
 
 APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 

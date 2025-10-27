@@ -139,7 +139,7 @@ Indicators:
     - Their qualities become worse as they lose the ability to manipulate people (first physically as they age, then mentally/emotionally)
   - Higher likelihood of fake smiles or no smiles at all.
   - Many of them use [lying](people-lying.md) to maintain their state of mind and lifestyle, often to the point of compulsive lying.
-  - They will tend to move [conflicts](people-5_conflicts.md) from simple disagreement to arguments *much* faster than most other people.
+  - They will tend to move [conflicts](people-conflicts.md) from simple disagreement to arguments *much* faster than most other people.
 - If you're close to one:
   - They will often blame you for their faults ("projection").
   - They will often use other people against you ("triangulation").
@@ -183,7 +183,7 @@ Indicators:
 
 How to behave with them:
 
-- Respect their views, since they often have endless [conflicts in their mind](conflicts-inner.md) without you adding your input.
+- Respect their views, since they often have endless [conflicts in their mind](people-conflicts-inner.md) without you adding your input.
 - Don't make any sudden movements or impulsive actions around them, especially if they have ever experienced [trauma](hardship-ptsd.md) in their past.
 
 The cure for it:

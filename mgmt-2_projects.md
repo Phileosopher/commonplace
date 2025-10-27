@@ -18,7 +18,7 @@ The second, however, can be used universally.
 
 - All you need is a vision, even if it's not possible.
 - When the situation proves the project impossible to achieve, you *will* need to move the project goals.
-- Moving project goals requires both [mental flexibility to change](people-changes.md) and the social skills to [influence others](people-3_boundaries.md) to new truths unveiled as the project carries forward.
+- Moving project goals requires both [mental flexibility to change](people-changes.md) and the social skills to [influence others](people-boundaries.md) to new truths unveiled as the project carries forward.
 
 ## A. Have a vision
 
@@ -33,7 +33,7 @@ Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.m
 Reflect your vision with your lifestyle.
 
 - Your own way of life should reflect on the projects and goals you're aspiring to achieve.
-- Associate with other people who constantly [challenge](people-conflicts.md) your ideas.
+- Associate with other people who constantly [challenge](people-conflicts-why.md) your ideas.
 - Stay [creative](mind-creativity.md), and continually seek out new experiences and new ways to see the world.
 - If you don't constantly seek new information and points of view, your group will [influence](power-influence.md) you enough that you'll become stagnant through a leader-member [cultural](people-culture.md) feedback loop.
 

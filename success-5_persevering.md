@@ -400,7 +400,7 @@ Listen to them if there's value in what they say, or drop them:
 
 - Keeping around friends who don't believe in you is a drain on your resources.
 - Good friends will see your point of view, even when they don't entirely agree with it.
-- If they're giving constructive input but still think you're striving for the right thing, they may be worthwhile even if you're [arguing](people-5_conflicts.md) with them.
+- If they're giving constructive input but still think you're striving for the right thing, they may be worthwhile even if you're [arguing](people-conflicts.md) with them.
 
 Find ways to give to others wherever you can:
 

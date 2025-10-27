@@ -28,7 +28,7 @@ The Bible is 66 books written across 2,000 years by 27 authors, with the Catholi
 The Bible is inspired by God through people, without personal or [political](politics-conservativeliberal.md) bias
 
 - [2 Peter 1:20-21](https://biblehub.com/bsb/2_peter/1.htm)
-- Most of the biblical inconsistencies are either false extrapolations or [false attribution](conflicts-christian-1_why.md).
+- Most of the biblical inconsistencies are either false extrapolations or [false attribution](people-conflicts-christian-1_why.md).
 - Remarkably, even when the precise words differ between translations, it maintains the same core ideas and spirit.
 
 The Bible has two major parts: the Hebrew Tanakh (the "Old Testament") and the Apostles' letters (the "New Testament").
@@ -206,7 +206,7 @@ In 325 AD at the Council of Nicaea, the people who compiled the books presumed t
 
 For a host of reasons at the time, the Christian leaders of the time didn't admit other possible candidates into the Bible's canonization:
 
-- The canonized books have consistent central ideas across each other, but Christians [debate endlessly](conflicts-christian-1_why.md) about possible contradictions in other works' core ideas.
+- The canonized books have consistent central ideas across each other, but Christians [debate endlessly](people-conflicts-christian-1_why.md) about possible contradictions in other works' core ideas.
 - Some ancient Jewish texts like Enoch and Jubilees have historical and theological significance, but have analytical and consistency issues.
 - Many Gnostic books (e.g., Gospel of Peter, Gospel of Judas) were written *long* after the apostles died.
 
@@ -332,7 +332,7 @@ Many people have made dramatic modifications to the Bible, but they *never* gain
 
 The Bible is vague on *many* things, and that was God's intent.
 
-- By God intentionally omitting certain information, each [culture](people-culture.md) can fill in the gaps on how to implement many of His commands (even if they have [conflicts with each other](conflicts-christian-1_why.md) about *how* something implements).
+- By God intentionally omitting certain information, each [culture](people-culture.md) can fill in the gaps on how to implement many of His commands (even if they have [conflicts with each other](people-conflicts-christian-1_why.md) about *how* something implements).
   - God works through [the Church at large](church.md) just as much as through the messages contained in the Bible.
 - The Bible will answer every "what" question you could have about [ethical matters](morality.md), and answers *many* practical "how" questions, but rarely gives a direct "why" answer to an abstract concept.
 - We'll often discover the answers to our "why" questions if we're [open-minded](understanding.md) and meditate deeply on [how God framed the Bible](bible-study.md).

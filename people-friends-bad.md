@@ -19,7 +19,7 @@ To see friendships transition, observe how those people behave:
 1. How they treat small children or animals.
 2. How they handle practical inconveniences like a slow internet connection or [car trouble](autos.md).
 3. How they behave in a group of strangers.
-4. How they manage [conflicts](people-5_conflicts.md) with others.
+4. How they manage [conflicts](people-conflicts.md) with others.
 5. The way they explain a technical matter to someone with a non-technical background.
 6. Who their five closest friends are.
 7. How they handle hardships and unpleasant surprises.

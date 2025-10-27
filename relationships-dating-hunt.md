@@ -118,7 +118,7 @@ Are you doing something unattractive?
 
 - Focus on first impressions.
   - For example, 80% of a woman's first impression comes from whether a man is slouching.
-- [Clean and groom yourself more](people-2_image.md).
+- [Clean and groom yourself more](people-image.md).
   - Depending on the context, either smelling nice or body odor is extremely attractive.
   - If you're male, grow facial hair.
 - Learn to be more charming and [gracious](people-3_respect.md).

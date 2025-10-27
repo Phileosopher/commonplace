@@ -35,8 +35,8 @@ While the only constant in business is [change](people-trends.md), the abstracti
 
 - Data entry and submission for [payroll](money-accounting.md).
 - Manage distributions to [retirement plans](money-investing.md).
-- Resolving employee [disputes](people-5_conflicts.md).
-- Running [background checks](image-modern.md) for possible hires.
+- Resolving employee [disputes](people-conflicts.md).
+- Running [background checks](people-image-modern.md) for possible hires.
 - Managing the processes for new hires (onboarding) and terminations (offboarding), including ergonomic/ADA issues.
 - Serving as a loss control manager to prevent and manage [insurance claims](money-insurance.md) (especially regarding workers' comp insurance).
 - Archiving employee records and performance reviews.
@@ -44,4 +44,4 @@ While the only constant in business is [change](people-trends.md), the abstracti
 - Managing various other employee benefits (paid time off, company [vehicles](autos.md), etc.).
 - Conducting periodic audits about the [balance of power](power-types.md) and [responsibilities](meaning.md) in an organization.
 
-**Public Relations (PR)** directly manages the public [reputation](image.md) of the organization, and serves to [conform the organization's appearance](image-distortion.md) to offset scandalous events.
+**Public Relations (PR)** directly manages the public [reputation](people-image-why.md) of the organization, and serves to [conform the organization's appearance](people-image-distortion.md) to offset scandalous events.

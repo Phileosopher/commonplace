@@ -28,7 +28,7 @@ In the smallest sense, a personal crisis is never really a breakdown of any supp
 - A house fire or significant plumbing failure
 - Thieves breaking in and stealing things
 - Lightning or some other natural disaster striking no more than a few houses
-- [Conflicts](people-5_conflicts.md) among people which end with someone [getting hurt](body-firstaid.md) or [killed](hardship-death.md)
+- [Conflicts](people-conflicts.md) among people which end with someone [getting hurt](body-firstaid.md) or [killed](hardship-death.md)
 
 Many people are prepared for personal crises (e.g., [insurance](money-insurance.md)), but not much worse.
 
@@ -47,14 +47,14 @@ On the other hand, some disasters are long-term:
 - Large-scale natural disasters that destroy most of the infrastructure (like a Category 5 hurricane).
 - Large-scale pandemics that kill a significant proportion of the people.
 - Political revolution, such as a new government seizing power or a coup.
-- [War](people-conflicts-war.md) with neighboring countries, especially with long-term effects like landmines and nuclear fallout.
+- [War](people-conflicts-war-why.md) with neighboring countries, especially with long-term effects like landmines and nuclear fallout.
 
 Finally, any aspect of civilization in a society will collapse when 5 conditions occur at once:
 
 1. People make enough impact on the ecosystem that it changes to [that culture's](people-culture.md) disadvantage.
 2. The [weather](science-earth-weather.md) shifts unfavorably to that culture.
 3. That [group of people](groups-large.md) pull away from mutually beneficial relationships with friendly groups.
-4. Relative military strength worsens that group's relationships with [other hostile groups](people-conflicts-war.md).
+4. Relative military strength worsens that group's relationships with [other hostile groups](people-conflicts-war-why.md).
 5. The group uses [deconstructive or short-term solutions](mgmt-badsystems.md) to solve its problems.
 
 ## Over-planning
@@ -63,7 +63,7 @@ We tend to preoccupy ourselves with unlikely events and ignore likely ones, and 
 
 - Specific viruses that uniquely mutate/kill humanity (e.g., The Walking Dead).
 - Tyrannical government that radically changes the [sociopolitical landscape](groups-large.md) (e.g., Nineteen Eighty Four, Brave New World).
-- Global thermonuclear [war](people-conflicts-war.md) (e.g, Doctor Strangelove, Fallout).
+- Global thermonuclear [war](people-conflicts-war-why.md) (e.g, Doctor Strangelove, Fallout).
 - [AI](computers-ai.md)/robots that become sentient and rapidly decide to destroy humanity (e.g, Terminator).
 - Extraterrestrials that invade earth (e.g, War of the Worlds, Independence Day).
 - Absurdly violent natural disasters (e.g, 2012, The Day After Tomorrow).

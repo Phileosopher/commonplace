@@ -11,7 +11,7 @@ Did you [work out](body-3_exercise.md)?
 
 Have you had enough water (preferably filtered)?
 
-Have you had a [shower or bath](people-2_image.md)?
+Have you had a [shower or bath](people-image.md)?
 
 Have you stretched?
 

@@ -341,7 +341,7 @@ Don't worry about having the "right" tools:
 
 ### G. The idea will appear
 
-The idea will appear out of seemingly nowhere, and often when you're [sleeping](sleep.md) or during a boring routine like [showering](people-2_image.md) or [driving](autos.md).
+The idea will appear out of seemingly nowhere, and often when you're [sleeping](sleep.md) or during a boring routine like [showering](people-image.md) or [driving](autos.md).
 
 Since you have *no* idea when it'll happen, *always* keep a notebook with you.
 

@@ -14,7 +14,7 @@ Since we have many synthetic and affordable textiles to choose from, we no longe
 - [Idols](addiction-substances.md) and [religious](religion.md) [symbols](symbols.md) we associate with
 - [Social class](classes.md) and ethnicity
 
-To that end, most of the effort regarding following clothing [fashions](trends.md) centers around [image](image.md) management.
+To that end, most of the effort regarding following clothing [fashions](trends.md) centers around [image](people-image-why.md) management.
 
 ## Choosing and coordinating outfits
 
@@ -50,7 +50,7 @@ Whatever you wear, be comfortable in it:
 Dress at or slightly above those around you:
 
 - Wherever you go, try to honor the dress code.
-- If you overdress, make sure you're matching your appearance with better [speaking](language-speaking.md) and [appearance](people-2_image.md) than them.
+- If you overdress, make sure you're matching your appearance with better [speaking](language-speaking.md) and [appearance](people-image.md) than them.
 - If your [partner](relationships-marriage.md) is with you, coordinate your appearance with theirs.
 
 ### Aim for an appropriate social status with your attire

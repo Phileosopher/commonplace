@@ -16,7 +16,7 @@ Drama and comedy are a portrayal of the difficult and enjoyable parts of the [go
 Fantasy, science fiction, and horror are based on how we [imagine](imagination.md), but as a [hypothetical](paradoxes.md) into the future.
 
 - Historical fiction are thought experiments for the audience to imagine themselves in that past period of time.
-- Alternate histories are heavily curated thought experiments, often with [political](people-conflicts-war.md) predictions involved.
+- Alternate histories are heavily curated thought experiments, often with [political](people-conflicts-war-why.md) predictions involved.
 
 ## Themes
 
@@ -46,7 +46,7 @@ Depictions of heaven and hell (as well as any other variations, including Nirvan
 
 Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](people-decisions.md).
 
-[Intelligent](understanding.md) beings are often seen as [contenders](people-conflicts.md) with the gods, and often as villains.
+[Intelligent](understanding.md) beings are often seen as [contenders](people-conflicts-why.md) with the gods, and often as villains.
 
 ## Beings/Races
 
@@ -54,7 +54,7 @@ Often, monsters represented fantastic versions of real-life animals:
 
 - Dragons and drakes are simply dinosaurs, but with fire.
   - Wyrms and wyverns are snakes, but often with limbs, flying, and fire-breathing.
-- Basilisks/cockatrices are hybrids of snakes and chickens, with the [fear](mind-feelings-fear.md) element ratcheted up heavily by making them absurdly dangerous to even [perceive](image.md).
+- Basilisks/cockatrices are hybrids of snakes and chickens, with the [fear](mind-feelings-fear.md) element ratcheted up heavily by making them absurdly dangerous to even [perceive](people-image-why.md).
 - There is some historical precedent in ancient myths that some type of dragons may have existed.
 
 Most grandiose stories of giants (e.g., Titans, Paul Bunyan) are simple explanations of how incredibly large, naturally occurring things came into existence. They often merge their phenomenology with the natural disasters surrounding where they purportedly reside.
@@ -146,4 +146,4 @@ Many stories have a flood or some sort of early near-apocalypse. Beside the poss
 Every apocalypse story is the same thing: termination of everything we understand as our existence, with final judgment on humanity. We all know [evil](morality-evil.md) ought to be repaid, and that there's something waiting after this life.
 
 - The apocalypse stories of mainstream monotheistic religions (e.g., Islam, Christianity) is the final connection between man and God before God has no more distance from us.
-- Ragnarök is a final battle for all great warriors, which indicates the pinnacle of life is [war](people-conflicts-war.md).
+- Ragnarök is a final battle for all great warriors, which indicates the pinnacle of life is [war](people-conflicts-war-why.md).

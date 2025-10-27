@@ -6,7 +6,7 @@
 We're *surrounded* by lies:
 
 - People lie about 3 times for every 10 minutes of talking.
-- Everyone wants to adapt their [image](image-distortion.md) to its best possible interpretation.
+- Everyone wants to adapt their [image](people-image-distortion.md) to its best possible interpretation.
 - [Modern marketing](marketing.md) creates false perceptions to sell their products.
 - Most of the time, success requires small lies, or "bending the truth", especially when we've [endured severe hardship](hardship.md) and are afraid of what others may think.
 - Even trustworthy people are worse liars than you may expect.
@@ -40,7 +40,7 @@ Self-enhancement lies are for personal gain:
 - Most self-enhancement lies are harmless, but can create [unhealthy habits](habits.md).
 - Common examples:
   - Owning knock-offs of expensive products
-  - [Clothing selection](people-2_image.md) like embellishing size or padded bras
+  - [Clothing selection](people-image.md) like embellishing size or padded bras
   - Cosmetic surgery
 - Some people can get *very* [creative](mind-creativity-how.md) with self-enhancing lies:
   - Buying a birthday card with something embarrassing you want to buy
@@ -93,7 +93,7 @@ People lie differently online:
 
 The truth is uncomfortable, but lying is disastrous.
 
-While most people curate their [appearance](people-2_image.md), the most well-managed and easily maintained [image](image.md) very closely reflects [reality](reality.md).
+While most people curate their [appearance](people-image.md), the most well-managed and easily maintained [image](people-image-why.md) very closely reflects [reality](reality.md).
 
 Lying corrupts the truth:
 
@@ -363,7 +363,7 @@ F. Confront the liar:
 - Many people are uncertain about whether to confront a liar and when.
   - This often comes from the risks of losing a [friendship](people-4_friends.md) or reputation.
   - The liar will often want revenge against anything they lose from their confession.
-  - Stay [legally safe](legal-safety.md) with perpetual documentation, since a confession may trigger a future [open conflict](people-5_conflicts.md) with them.
+  - Stay [legally safe](legal-safety.md) with perpetual documentation, since a confession may trigger a future [open conflict](people-conflicts.md) with them.
 - Confidently, earnestly ask for their admission.
   - Intimidating or persuading them into it will never work.
   - The liar must feel they're resolving a problem that affects both of you.

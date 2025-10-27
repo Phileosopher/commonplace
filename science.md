@@ -24,8 +24,8 @@ The scientific method is an established procedure designed to remove individual 
    - Keep many notes about how you got the data so anyone else can get the same results if they reproduce your conditions ("reproducibility").
    - The conclusion should be so blatantly obvious that any other sane person with the same evidence will infer the same conclusion.
 6. [Communicate](people-conversation.md) the results and get feedback.
-   - The communication step is *loaded* with [politics](power.md) and [bias](image.md) from [human nature](humanity.md), though many in the scientific community [believe](trust.md) the system is self-correcting.
-   - If the results diverge from [convention or tradition](habits.md), the feedback will likely create [controversy](people-conflicts.md).
+   - The communication step is *loaded* with [politics](power.md) and [bias](people-image-why.md) from [human nature](humanity.md), though many in the scientific community [believe](trust.md) the system is self-correcting.
+   - If the results diverge from [convention or tradition](habits.md), the feedback will likely create [controversy](people-conflicts-why.md).
    - Often, editing the [presentation](stories.md) of the scientific paper can advance the controversial result through [virtue signaling](stories-storytellers.md) the community's [pre-existing beliefs](trust.md).
 
 ## Science has limits

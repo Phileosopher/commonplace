@@ -17,25 +17,25 @@ At the same time, language *isn't* understanding, and is only the reference poin
 
 Words have implicit feelings that associate to [human universal interpretations](humanity-universals.md) (e.g., the nonsense word "ah-no-ma-ha" feels *far* less threatening than "ch-ak'tchnapth"). This can have a cultural impact depending on which words apply to which [physical things](reality.md).
 
-APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](image-distortion.md) words, and the beginning of [living well](goodlife.md) comes in speaking its existence correctly.
+APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](people-image-distortion.md) words, and the beginning of [living well](goodlife.md) comes in speaking its existence correctly.
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
 When speaking, each sound represents a syllable (e.g., "ah", "em"), and a combination of syllables creates a "word", which represents a complete idea. Vowel sounds link a word together (e.g., a, e, i), and consonants provide more of the [story](stories.md) about how the word makes us [feel](mind-feelings.md).
 
-Every letter, word, and phrase is a [symbol](symbols.md) that represents both as an [idea](values.md) of its own and as a relationship to other ideas. Each idea comes with unique [images](image.md) and [feelings](mind-feelings.md) as we interpret it in our minds.
+Every letter, word, and phrase is a [symbol](symbols.md) that represents both as an [idea](values.md) of its own and as a relationship to other ideas. Each idea comes with unique [images](people-image-why.md) and [feelings](mind-feelings.md) as we interpret it in our minds.
 
 In languages like English, each character has an abstract meaning that only forms [ideas](values.md) when they're assembled into words. In other languages (e.g., Eastern languages like Chinese), the letter itself has a clearer meaning.
 
 Written and spoken language are *not* the same language, and run parallel to one another in any [culture](people-culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
 
-The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](image.md), and even *more* of the same from other words' relationship to those ideas.
+The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](people-image-why.md), and even *more* of the same from other words' relationship to those ideas.
 
 Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
 
 We must delicately balance between precision and brevity, and our [choice](people-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
 
-The complexity of expressing ideas either succintly or elaborately, as well as the [image](image.md) we wish to convey, means we will create similar words for nearly the same idea to convey different [feelings](mind-feelings.md) and [values](values.md). We will also employ body language, timing, visual cues, and context to [emphasize or diminish parts of those ideas](language-speaking.md).
+The complexity of expressing ideas either succintly or elaborately, as well as the [image](people-image-why.md) we wish to convey, means we will create similar words for nearly the same idea to convey different [feelings](mind-feelings.md) and [values](values.md). We will also employ body language, timing, visual cues, and context to [emphasize or diminish parts of those ideas](language-speaking.md).
 
 ## The stucture of language
 
@@ -43,7 +43,7 @@ All ideas start with nouns. Nouns state something as a concrete [value](values.m
 
 Verbs are values of action, and are *always* connected to a noun (even when the noun is simply implied) and help us understand what [purpose](purpose.md) to assign those nouns.
 
-While nouns are relatively static, verbs come in *many* forms, including time (e.g., "was", "will be"), details (e.g., "ran" vs. "dashed"), and [framing](image.md) (e.g., "escaped" vs. "infiltrated").
+While nouns are relatively static, verbs come in *many* forms, including time (e.g., "was", "will be"), details (e.g., "ran" vs. "dashed"), and [framing](people-image-why.md) (e.g., "escaped" vs. "infiltrated").
 
 APPLICATION: Time travel [stories](stories.md) are exceedingly difficult because they mess with our fixed perspective of time. In a time travel story, "What I'm doing right now will be before what I had done, which comes after what I will do next" can be a syntactically correct statement in the story's world.
 
@@ -53,17 +53,17 @@ Adjectives and adverbs expand on nouns and verbs. By using many descriptors, we 
 
 APPLICATION: The breadth and range of descriptors like adjectives and adverbs gives us the unlimited ability to express ideas. But, words can weigh down a sentence. Descriptors can be poetry applied to writing, but often sabotages everyday language.
 
-We connect words to similar and opposing ideas to create synonyms and antonyms. Their power comes through association: mere awareness of related words can create [understanding](understanding.md), but can also [distort perceptions](image-distortion.md).
+We connect words to similar and opposing ideas to create synonyms and antonyms. Their power comes through association: mere awareness of related words can create [understanding](understanding.md), but can also [distort perceptions](people-image-distortion.md).
 
 APPLICATION: Synonyms and antonyms are useful, but they're also risky if we over-simplify the concepts. "Part" is the antonym of "whole", but also of "non-part", and "whole" and "non-part" are completely unrelated ideas.
 
-Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](legal-doctrines.md)).
+Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](people-image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](legal-doctrines.md)).
 
 APPLICATION: At their farthest use, words carry [legal](people-rules.md) power. In those cases, the difference between small words like "of" and "for" can change the *entire* [purpose](purpose.md) of a document or statement.
 
 ## The format of language
 
-By drawing from [feelings](mind-feelings.md), our choice of words will form [symbolic](symbols.md) comparisons, which crafts a [sensation](image.md) with words. Decent-[quality](values-quality.md) writing and speaking combines those words together (which represent ideas individually) to [create](creations.md) unique idea combinations that we call "sentences".
+By drawing from [feelings](mind-feelings.md), our choice of words will form [symbolic](symbols.md) comparisons, which crafts a [sensation](people-image-why.md) with words. Decent-[quality](values-quality.md) writing and speaking combines those words together (which represent ideas individually) to [create](creations.md) unique idea combinations that we call "sentences".
 
 APPLICATION: Words' [emotions](mind-feelings.md) make us associate them to [action](results.md):
 
@@ -90,7 +90,7 @@ Underneath the surface, there are *many* aspects professional communicators obse
 - Intelligence level, typically written as slightly smarter than the reader
 - The audience's interest
 - Tense (past, current, future)
-- The [points of view](image.md) involved
+- The [points of view](people-image-why.md) involved
 - Editing (grammar, spelling, vocabulary)
 - Conveyed [emotions](mind-feelings.md)
 
@@ -102,7 +102,7 @@ We use modifier words to streamline everything, and most of them are simple impr
 - We use pronouns instead of proper nouns to take away emphasis or speed up [conversations](people-conversation.md).
 - We'll often make contractions to [efficiently](success-4_routine.md) use less letters and syllables.
 - Prefixes and suffixes are useful to easily assert a relationship with something else (e.g., antidisestablishmentarianism is anti-dis-**establish**-ment-arian-ism).
-- We'll sometimes use nouns as verbs to sound more [official](image.md) (e.g., monetize instead of "make something become money").
+- We'll sometimes use nouns as verbs to sound more [official](people-image-why.md) (e.g., monetize instead of "make something become money").
 - We make words that create sweeping generalizations for people groups, both as demonyms for regions (e.g., "Germans") and ethnonyms for [identity](identity.md) (e.g., "Catholics").
 - We'll condense the idea to a simple [feeling](mind-feelings.md) in the form of slang when we frequently express an idea but don't have a suitable word (e.g, "paper-pusher" instead of "bureaucrat" or "office worker").
 - We'll remove precise modifiers if we use a word frequently enough, since they're already implied (e.g., "power" instead of "electrical power")
@@ -143,7 +143,7 @@ This isn't confined to spoken language, and can apply to body language or timing
 - Many specific things are similar to other things, so tradespeak lets everyone demarcate them without many adjectives.
 - As a side benefit, a person's knowledge of that jargon indicates their [standing in that group](groups-member.md), with more jargon implying more allegiance to the group's collective purposes.
 
-These specific words *don't* translate well across industries. For example, "depreciation" has at least three distinct meanings: [accounting](money-accounting.md) depreciation decreases the value of an asset over its expected life, [economics](economics.md) depreciation means something drops in [market value](image.md), and [legal](people-contracts.md) depreciation is when something deteriorates to [uselessness](purpose.md).
+These specific words *don't* translate well across industries. For example, "depreciation" has at least three distinct meanings: [accounting](money-accounting.md) depreciation decreases the value of an asset over its expected life, [economics](economics.md) depreciation means something drops in [market value](people-image-why.md), and [legal](people-contracts.md) depreciation is when something deteriorates to [uselessness](purpose.md).
 
 ## Ordering of words
 
@@ -169,7 +169,7 @@ A word never exists in a vacuum, and it tends to "stick" to nearby words and evo
   - "John was at a party, and happened to be nearby someone who was regarded as a philanderer."
 - ...which is yet far more condemning than...
   - "You know John, right? Well, anyway, something you may know already. He was nearby someone at a party who was regarded as a philanderer."
-- ...and can be completely [redirected](image-distortion.md)...
+- ...and can be completely [redirected](people-image-distortion.md)...
   - There's a philanderer, whom anyone with an ounce of human decency should despise, a person of distinctively bad taste. At a party, John was unfortunate enough to be nearby them.
 
 Most people [automatically](habits.md) sift through this with other people, so nobody tends to realize [how frequently](stories-storytellers.md) people "stick" things near other things.
@@ -214,13 +214,13 @@ Language generally states [reality](reality.md) itself ("constantive"), which me
 
 Most people misuse language, either from [inexperience](maturity.md) or with [purposes](purpose.md) to gain [power](power.md).
 
-The most frequent misuse of language comes through barriers to shared [understanding](understanding.md). Various reasons will mean we don't [get the message across correctly](people-conversation.md), and the other person [concludes](logic.md) the wrong thing. Miscommunication is a major cause of [human conflict](people-conflicts.md), and differing languages are the strongest aspect of it.
+The most frequent misuse of language comes through barriers to shared [understanding](understanding.md). Various reasons will mean we don't [get the message across correctly](people-conversation.md), and the other person [concludes](logic.md) the wrong thing. Miscommunication is a major cause of [human conflict](people-conflicts-why.md), and differing languages are the strongest aspect of it.
 
 APPLICATION: Florid language is as dangerous to clearly getting a point across as technical jargon. Saying, "the world in which the great man inhabited, of which we all wish to aspire to, was one of remarkable prudence and authority in contrast to the drudgery of today's benign challenges" is as bad as "the neoliberal fashions of the time presented remarkable stigmas that generated a retrospective inverse correlation to today's fashions", and not as good as "in his time, things were different, so the decisions were more severe".
 
 When people abuse language, they are often either using a word with a stronger feeling than they have as an [emotional](mind-feelings.md) bludgeon, or mincing specific words to [imply](symbols.md) a more subdued [belief](understanding-certainty.md) than they really have.
 
-By changing words, leaders can [conceal the truth](image-distortion.md), at least for a time. They typically remove the emphasis of that word over time, rather than legitimately change anything with the redefinition.
+By changing words, leaders can [conceal the truth](people-image-distortion.md), at least for a time. They typically remove the emphasis of that word over time, rather than legitimately change anything with the redefinition.
 
 When we use our language to make excuses (e.g, "I can't do X because Y", "X caused me to Y"), we give [power](power.md) to others outside ourselves. Over time, we can often [identify](identity.md) with that helplessness and destroy any chance at [living well](goodlife.md).
 

@@ -5,7 +5,7 @@ Meaning is contained within whatever we call our [souls](humanity.md).
 
 We find meaning through [purposes](purpose.md) we do. However, not *all* purposes create meaning. Meaning is the "[why](understanding.md)" we do things.
 
-Our indirect sense of meaning comes through relationships. It can be [God](religion.md), [family](people-family.md), or [friendships](people-friends.md), but is attached to our [innate essence](humanity.md).
+Our indirect sense of meaning comes through relationships. It can be [God](religion.md), [family](people-family.md), or [friendships](people-friends-why.md), but is attached to our [innate essence](humanity.md).
 
 The direct sense of meaning we have control over is derived from [purposes](purpose.md) through a sense of responsibility. Broadly, responsibility is a series of elements:
 
@@ -26,7 +26,7 @@ APPLICATION: Bullying is coercive importance, which arises in the absence of [lo
 
 FURTHER APPLICATION: All intentional [criminal deviance](legal-crimes.md) come through a perversion of finding meaning, often through a derived [neurodivergence](mind-neurodivergence.md) that doesn't recognize or interact correctly with [loving behavior](love.md)
 
-Responsibility-based meaning doesn't necessarily come from legitimately changing [reality](reality.md), but instead from the *[appearance](image.md)* of having changed reality. We measure it by whether we [feel](mind-feelings.md) accomplishment.
+Responsibility-based meaning doesn't necessarily come from legitimately changing [reality](reality.md), but instead from the *[appearance](people-image-why.md)* of having changed reality. We measure it by whether we [feel](mind-feelings.md) accomplishment.
 
 The nature of responsibility also means that we must always conquer the [unknown](unknown.md), which ends up always reverting to some type of [religious theme](religion.md), no matter how secular we become.
 
@@ -55,7 +55,7 @@ Even without that provocation, anyone will turn around and pursue the difficult 
 APPLICATION: We can find meaning anywhere if we think about it long enough, and it contains many shared parallels:
 
 - A [scientist](science.md) and [theologian](religion.md) will both find meaning because they increase the store of [human knowledge](understanding.md).
-- A [soldier](people-conflicts-war.md), of *any* country, will find meaning because they fight to defend their [homeland](groups-large.md).
+- A [soldier](people-conflicts-war-why.md), of *any* country, will find meaning because they fight to defend their [homeland](groups-large.md).
 - The [entrepreneur](socialrisk.md) and builder finds meaning by [building something new](creations.md).
 
 ## Recovering from meaninglessness
@@ -76,7 +76,7 @@ The only way to get out of an unpleasant situation is to claim responsibility of
 
 APPLICATION: To find meaning, start with what you can control, then [link it together](mind-creativity.md) with one of your problems. There are too many issues to focus on them exclusively, and we can't do anything about what we *can't* control, but it's not hard to find [things we can do something about](https://stucky.tech/notes/meaning-checklist.md).
 
-Some people imagine a broadened scope of existence (e.g., a million years) makes everything meaningless. That's only proving itself true from that specific [perspective](image.md), but doesn't prove anything else. Those people find a paradoxical meaning in defining meaninglessness.
+Some people imagine a broadened scope of existence (e.g., a million years) makes everything meaningless. That's only proving itself true from that specific [perspective](people-image-why.md), but doesn't prove anything else. Those people find a paradoxical meaning in defining meaninglessness.
 
 APPLICATION: Nihilism implies everything is meaningless because it eventually won't matter. They're only correct if they believe that we live all instances at once. There's quite a lot of meaning to find in self-preservation and [love for others](people-love.md) we can do *right now*. Most nihilists believe in meaninglessness because they prioritize [certainty](understanding-certainty.md) too much.
 
@@ -88,7 +88,7 @@ APPLICATION: Enjoyment in something isn't in the attainment, but the effort and 
 
 The pathway to fulfilling a [purpose](purpose.md) is *far* more [influential](influence.md) to our sense of meaning than actually getting there. The only requirement is that we [feel](mind-feelings.md) we're making progress toward it, which is usually possible as long as we [hope](understanding-certainty.md) it [can happen](results.md), and it's much easier to maintain hope when we can't [measure](math.md) our goals.
 
-APPLICATION: Video games give the [appearance](image.md) of creating results from actions, so they can still provide a sense of meaning even when there aren't any legitimate [results](results.md).
+APPLICATION: Video games give the [appearance](people-image-why.md) of creating results from actions, so they can still provide a sense of meaning even when there aren't any legitimate [results](results.md).
 
 Once we've attained something, we're guaranteed to get bored. The only way we'll ever find purpose that provides meaning *after* building something is to find new [purposes](purpose.md) to attain.
 

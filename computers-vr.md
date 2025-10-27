@@ -48,7 +48,7 @@ VR development is always a slower [trend](trends.md) than many other tech trends
 14. 1990 - the first line of VR arcade [games](computers-software-gamedev.md) was called Virtuality.
 15. 1994 - SEGA released a motion simulator arcade machine called the VR-1, and VictorMaxx released a headset called CyberMaxx.
 16. 1995 - Nintendo released the Virtual Boy console to represent 3D graphics in monochrome. It failed within a year miserably because it was in red-and-black (and gave eye strain), the software was [poorly maintained](computers-software-redesign.md), and it was uncomfortable to use. At the same time, Virtual IO released the I-Glasses and Forte released the VFX1 Headgear.
-17. 1997 - Georgia Tech and Emory University researchers used VR for [war zone](people-conflicts-war.md) scenarios to treat soldiers with PTSD via exposure therapy.
+17. 1997 - Georgia Tech and Emory University researchers used VR for [war zone](people-conflicts-war-why.md) scenarios to treat soldiers with PTSD via exposure therapy.
 18. 2001 - The first PC-based room was SAS Cube, which led to the Virtools VR Pack.
 19. 2007 - Google introduced Street View, which eventually included photos of most roads across the world. In 2010, they added a stereoscopic 3D mode.
 20. 2012 - The Oculus Rift was released by Luckey through a Kickstarter campaign, which was subsequently bought by Facebook in 2014.

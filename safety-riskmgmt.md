@@ -11,7 +11,7 @@ This is a list of everything necessary to [manage risks](safety.md) that may com
 - Operation risk - the chances of an organization's procedures failing
 - Concentration risk - too many assets connected to one entity/client
 - Legal/Compliance risk - the chance of lawsuits or [legal action](legal-safety.md)
-- Reputation risk - the dangers of a defiled [public image](image.md)
+- Reputation risk - the dangers of a defiled [public image](people-image-why.md)
 - Strategic risk - the risks that come from any type of [internal changes](mgmt-7_changes.md)
 - Global risk - the dangers from worldwide events
 - Competitive risk - issues that may come from competitors acting against the entity's interests
@@ -51,7 +51,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 ## Mental Basics
 
-- [Inner conflicts](conflicts-inner.md) aren't enough to interfere with [creating results](results.md).
+- [Inner conflicts](people-conflicts-inner.md) aren't enough to interfere with [creating results](results.md).
 - Have [inner peace](mind-feelings-happiness.md) that's free of risk management thoughts.
 - No chance of being overwhelmed by a steady flow of [information](information.md).
 
@@ -97,7 +97,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Protecting From Conflicts
 
 - Behave [appropriately](people-rules.md) and [tactfully](people-3_respect.md) with everyone.
-- Have experience [defusing conflicts](people-5_conflicts.md).
+- Have experience [defusing conflicts](people-conflicts.md).
 - Maintain [legally safe](legal-safety.md) habits.
 - Every possession you own is [legally approved](legal-doctrines.md).
 - Carefully examine every [agreement](people-contracts.md) you sign, and only sign it with groups you [trust](understanding-certainty.md).

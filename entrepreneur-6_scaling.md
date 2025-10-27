@@ -68,7 +68,7 @@ Not all investors are the same.
 
 - Some investors are sharks waiting for a timely return on their money, while others legitimately believe in you as a person.
 - People who fund startups ("angels") aren't that hard to find, but it can be challenging to convince them to invest in your idea.
-- Conventional banks are highly reputable, but you'll likely need to collateralize assets and you'll be a [data point](image-modern.md) on their books.
+- Conventional banks are highly reputable, but you'll likely need to collateralize assets and you'll be a [data point](people-image-modern.md) on their books.
 
 Search outside your present network for investors who have already invested in your type of business:
 
@@ -80,7 +80,7 @@ Search outside your present network for investors who have already invested in y
 
 Be careful with private loans.
 
-- Many loans with investors are *not* regulated by any government authority, which makes them more flexible but also more dangerous if you don't [read the contract](people-6_contracts.md).
+- Many loans with investors are *not* regulated by any government authority, which makes them more flexible but also more dangerous if you don't [read the contract](people-contracts.md).
 - Loan terms can often change arbitrarily, so stay informed on any changes to a contract.
 
 You can give equity to investors instead of acquiring a loan, but be careful with whom.
@@ -114,7 +114,7 @@ Employees are, by far, *the* most expensive increase to costs in a startup.
 - Further, that hourly rate requires extra considerations:
   - Extra accounting concerns like payroll tax filings.
   - Administration of any benefits (e.g., [insurance](money-insurance.md) needs).
-  - Extra legal needs to draft [employment contracts](people-6_contracts.md) and manage [potential conflicts](legal-safety.md).
+  - Extra legal needs to draft [employment contracts](people-contracts.md) and manage [potential conflicts](legal-safety.md).
 - To that end, hire *very* slowly, and only the right people for the role.
 
 Your first employees, like you, will have *many* small tasks.
@@ -151,7 +151,7 @@ Educate yourself on the following conditions for your region:
 
 - Laws about hiring people (e.g., non-citizens, convicted criminals).
 - Laws about firing people, as well as unemployment claims you'd have to pay.
-- Non-negotiable legally-defined employee [rights](people-boundaries.md) (e.g., discrimination, paid leave).
+- Non-negotiable legally-defined employee [rights](people-boundaries-why.md) (e.g., discrimination, paid leave).
 - Any restrictions, if any, on conditions for termination.
 
 If you need to hire someone, but aren't sure how much you'll need them, consider working through a temp/placement agency instead of hiring a formal employee.

@@ -7,7 +7,7 @@ Every decision is a type of "[values](values.md) calculus" that weighs benefits 
 
 A. general factors:
 
-- The [impression](image.md) we get and our reactions to it.
+- The [impression](people-image-why.md) we get and our reactions to it.
 - [Short-term](logic.md) versus [long-term](imagination.md) effects of almost everything.
 - Every one of the possibilities we can [imagine](imagination.md), including "[third options](mind-creativity.md)" that often require more [risk](safety.md).
 - The shortage of a specific resource (i.e., "[scarcity](economics.md)").
@@ -50,7 +50,7 @@ E. factors from other people:
 - *Every* aspect of the above, but for other people.
 - How much we [love](people-love.md) others versus ourselves, and how much any of the above affect others.
 
-APPLICATION: We can't remove our [bias](mind-bias.md), but we can definitely feed in opposing bias from a different [perspective](image.md). This is why getting others' viewpoints is critical.
+APPLICATION: We can't remove our [bias](mind-bias.md), but we can definitely feed in opposing bias from a different [perspective](people-image-why.md). This is why getting others' viewpoints is critical.
 
 By the end of the values calculus, we've [emotionally](mind-feelings.md) lumped the risks and benefits together into a few broad [patterns](symbols.md), and we will make reactive judgments toward them based on [goals](purpose.md) we have in our minds at that moment.
 
@@ -72,7 +72,7 @@ Except for [principles](understanding-certainty.md), we tend to choose the path 
 
 When we consider more aspects of [power](power.md), we tend to think more [selfishly](morality-evil.md). Otherwise, if we don't think about them (or use a principle or [love toward others](people-love.md) to disregard them), we become more [altruistic](morality.md).
 
-Even with training, we tend to weigh anecdotal evidence that incorporates many [feelings](mind-feelings.md) than others' hard, concrete [scientific](science.md) evidence. The only way to fix the discrepancy is by feeling that science ourselves, but accomplishing that requires tremendous [wisdom](understanding.md) (especially when many other people have reason to [distort the truth](image-distortion.md)).
+Even with training, we tend to weigh anecdotal evidence that incorporates many [feelings](mind-feelings.md) than others' hard, concrete [scientific](science.md) evidence. The only way to fix the discrepancy is by feeling that science ourselves, but accomplishing that requires tremendous [wisdom](understanding.md) (especially when many other people have reason to [distort the truth](people-image-distortion.md)).
 
 When we're very [inexperienced](maturity.md), we tend to underestimate the resources we need. However, once we've amassed enough [wisdom](understanding.md), we'll often risk *over*estimating resources. The most precise way to [predict](imagination.md) resource use is from remembering and correctly applying [results](results.md) from the past that have a similar context. Even then, [we can never be fully sure](unknown.md).
 
@@ -84,7 +84,7 @@ APPLICATION: Our risk-averse tendencies create a type of social order (since onl
 
 At the end of weighing our decision, it will go one of two ways:
 
-1. Consider, [observe](image.md), or [analyze](logic.md) more. [Creating](creations.md) models to analyze or [measure](math.md) (e.g., spreadsheets or graphs) is the attempt to more deeply [understand](understanding.md) by adding information to a [perspective](image.md).
+1. Consider, [observe](people-image-why.md), or [analyze](logic.md) more. [Creating](creations.md) models to analyze or [measure](math.md) (e.g., spreadsheets or graphs) is the attempt to more deeply [understand](understanding.md) by adding information to a [perspective](people-image-why.md).
 2. Decide toward [outward action](results.md) or inaction.
 
 Our calculations are critical because of opportunity cost. Every decision we *can* take to gain [power](power.md) will cost us [other opportunities](power-types.md) to take it, and even *free* things cost time or energy. We tend to hate giving up options and will often maintain our freedom to decide, *long* after it is [reasonable](logic.md).
@@ -106,10 +106,10 @@ These feelings come from many sources, and aren't always connected directly with
 - Something beyond our control which we can [sense](mind-feelings.md) but don't [know](understanding.md) about.
 - Decision fatigue, which is stress from chronic [uncertainty](understanding-certainty.md) with many decisions.
 - New things we're [unfamiliar](habits.md) with, to the degree they [scare](mind-feelings-fear.md) us.
-- Things we [interpret](image.md) may make us lose [power](power.md).
-- Actions we [observe](image.md) or [do](results.md) that are [improper](people-rules.md) or [taboo](morality-taboo.md).
+- Things we [interpret](people-image-why.md) may make us lose [power](power.md).
+- Actions we [observe](people-image-why.md) or [do](results.md) that are [improper](people-rules.md) or [taboo](morality-taboo.md).
 
-APPLICATION: Our [feelings](mind-feelings.md), to the degree we aren't [aware](awareness.md) of them, affect *all* our decisions. If they're tuned correctly, it's a tremendous force of aptitude, but [past trauma](hardship-ptsd.md) can distort it, and it's highly subject to [disorientation](image-distortion.md).
+APPLICATION: Our [feelings](mind-feelings.md), to the degree we aren't [aware](awareness.md) of them, affect *all* our decisions. If they're tuned correctly, it's a tremendous force of aptitude, but [past trauma](hardship-ptsd.md) can distort it, and it's highly subject to [disorientation](people-image-distortion.md).
 
 Stress can frequently "strip away" new habits and force us to regress back to the desires from when we were *much* younger. At that point, people will select chocolate cake over fruit salad, fall back into long-abandoned [addictions](addiction.md), make rude remarks over [propriety](people-rules.md), and make [self-interested](morality-evil.md) choices over selfless ones.
 
@@ -121,7 +121,7 @@ In other words, every choice has its benefits and downsides, and we become progr
 
 APPLICATION: People who don't decide are simply deciding to stall their decision until they have additional information.
 
-APPLICATION: Someone has to decide, and the best decider is the one who has the most to lose and gain. Any [expert](jobs-specialization.md) who doesn't respect that reality (or try to [influence](power-influence.md) them away from it by [adapting reality](image-distortion.md)) is taking away someone's [right to choose](people-boundaries.md).
+APPLICATION: Someone has to decide, and the best decider is the one who has the most to lose and gain. Any [expert](jobs-specialization.md) who doesn't respect that reality (or try to [influence](power-influence.md) them away from it by [adapting reality](people-image-distortion.md)) is taking away someone's [right to choose](people-boundaries-why.md).
 
 The more we think about a decision, the more [important](meaning.md) that decision [feels](mind-feelings.md) to us, and the more stress we feel from deciding. Once we've reached the breaking point, we become *worse* at making clear decisions from a [fear](mind-feelings-fear.md) the decision won't pay out what we invested in it.
 
@@ -129,9 +129,9 @@ APPLICATION: If we're stressed about a decision, we should instead [recondition]
 
 The more choices we have, the more accurate and dissatisfied we'll be with the result. This is fine for things like what [job](jobs-1_why.md) to train for, but *terrible* for when we must decide to do something [fun](fun.md).
 
-Most [influential](power-influence.md) people take the most advantage of others' stress, with their effort focused on adding stress to what they don't want them to select and removing stress from what they'd prefer them to select. This can be through [creating results](results.md) to that end, or simply the [appearance](image-distortion.md) of it.
+Most [influential](power-influence.md) people take the most advantage of others' stress, with their effort focused on adding stress to what they don't want them to select and removing stress from what they'd prefer them to select. This can be through [creating results](results.md) to that end, or simply the [appearance](people-image-distortion.md) of it.
 
-APPLICATION: When [conflicted](conflicts-inner.md) between two decisions, pick neither of them and find a more [creative](mind-creativity.md) solution.
+APPLICATION: When [conflicted](people-conflicts-inner.md) between two decisions, pick neither of them and find a more [creative](mind-creativity.md) solution.
 
 ## Calculus part 4: certainty
 
@@ -159,12 +159,12 @@ APPLICATION: If you're unhappy with your decisions, stop overthinking them, just
 
 We may consult [friends](hardship-friends.md) or an [expert](jobs-specialization.md), which allows us several opportunities:
 
-1. We can more clearly [understand](understanding.md) the likely consequences of our decisions through another [perspective](image.md).
+1. We can more clearly [understand](understanding.md) the likely consequences of our decisions through another [perspective](people-image-why.md).
 2. We don't feel like we're entirely [responsible](meaning.md) for the decision we ultimately make, since their advice guided it.
 3. Our relationship with that [friend](hardship-friends.md) or [institution](groups-large.md) is strengthened.
 4. In the case of an expert and [their institution](groups-large.md), we can learn whether they are [trustworthy](trust.md) for future decisions.
 
-APPLICATION: There's always an alternative you don't know about, but it's critical to bounce the ideas off other people who have a different [perspective](image.md) than you.
+APPLICATION: There's always an alternative you don't know about, but it's critical to bounce the ideas off other people who have a different [perspective](people-image-why.md) than you.
 
 However, any expert or friend has [limitations](mind-bias.md) and [interests](purpose.md) that may go against our own best interests compared to deciding something ourselves. And, if we trust others too much, we'll start feeling helpless, which devastates our capacity for finding [meaning](meaning.md).
 

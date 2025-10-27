@@ -58,7 +58,7 @@ Sometimes, charges need to be reversed, usually for defective goods or poor serv
 Debts can be secured (with some form of collateral) or unsecured (with a promise and wishful thinking).
 
 - Unsecured debt is essentially impossible for the lienholder to ensure it will be paid.
-- While most secured debt is against the object in question (e.g., an [automotive](autos.md) for an auto loan), it can be collateralized on essentially anything the lienholder will [agree to](people-6_contracts.md), typically with a refinancing agreement.
+- While most secured debt is against the object in question (e.g., an [automotive](autos.md) for an auto loan), it can be collateralized on essentially anything the lienholder will [agree to](people-contracts.md), typically with a refinancing agreement.
 
 ### Bonds
 
@@ -77,7 +77,7 @@ In its most straightforward use, a bond's structure is relatively straightforwar
 This gets *much* more complex, though:
 
 - Some bonds are callable *before* the maturity date. In that situation, the yield-to-call will be lower than the yield-to-maturity (e.g., 1.7% instead of 4%).
-- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](economics.md) for the bond, as well as the [reputation](image.md) of the organization.
+- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](economics.md) for the bond, as well as the [reputation](people-image-why.md) of the organization.
 - The organization can use a coupon rate, which is where the organization pays a set percentage of interest every year (e.g., a 4% coupon rate on $1,000 pays $40 a year).
 - If the coupon rate is the same as the yield rate, the organization will simply pay back the original amount when it's called.
 
@@ -92,7 +92,7 @@ Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, an
 
 Assets deals with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
 
-- Since [investors](money-investing.md) often make [decisions](people-decisions.md) from [optics](image.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
+- Since [investors](money-investing.md) often make [decisions](people-decisions.md) from [optics](people-image-why.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
 - The only 2 ways to increase profits are to increase revenues or decrease expenses.
 
 There are a few forms a business can take. They are either taxed *before* the owner receives money, or it's pass-through to the owners:
@@ -185,7 +185,7 @@ The nominal value of a share, when it's first issued, establishes its initial pu
 
 The complexity of stock markets comes through a proliferation of third parties.
 
-- Market makers are individuals or entities that arrange [two-sided transactions](people-6_contracts.md) to buy or sell securities and make a profit between the bid (buying) and ask (selling) price.
+- Market makers are individuals or entities that arrange [two-sided transactions](people-contracts.md) to buy or sell securities and make a profit between the bid (buying) and ask (selling) price.
 - The National Best Bid and Offer (NBBO) represents the highest bid and lowest ask for a security, making it the tightest bid-ask spread.
 - Payment for Order Flow (PFOF) is a small commission the market makers make when
 
@@ -316,7 +316,7 @@ When a company is purchased, the relationship between the entities gets complica
 - A consolidation combines all of a subsidiary company's accounts into a parent company, and shares being exchanged in a stock-for-stock merger.
 - Consolidated financial statements track *all* activities of a parent company, along with its subsidiaries.
 
-Most of the issues tie into [conflicts](people-conflicts.md) about company valuations, along with the [rights and privileges](people-boundaries.md) that naturally emanate from the forms of the final business entities from the procedure.
+Most of the issues tie into [conflicts](people-conflicts-why.md) about company valuations, along with the [rights and privileges](people-boundaries-why.md) that naturally emanate from the forms of the final business entities from the procedure.
 
 Beyond the value of an asset (which may have [sentimental value](mind-feelings.md) for some investors), there's a Total Cost of Ownership (TCO) that diminishes the simple value of something:
 
@@ -346,8 +346,8 @@ An IPO is pricier and more complicated compared to a merger/acquisition, so a re
 
 A company can sometimes become too large. At that point, it may need to break up:
 
-- The company has too much [bad publicity](image.md) and needs a [new brand](marketing.md).
-- The leadership had a [difference of opinion](people-conflicts.md), and they agree to segment the company internally into several subsidiaries.
+- The company has too much [bad publicity](people-image-why.md) and needs a [new brand](marketing.md).
+- The leadership had a [difference of opinion](people-conflicts-why.md), and they agree to segment the company internally into several subsidiaries.
 - A government considers them too large as a [monopoly](politics-monopolies.md), and uses [laws](people-rules.md) to break them apart.
 
 However it happens, the accounting typically records the information as at least a partial liquidation of the original entity, then the formation of a new entity.

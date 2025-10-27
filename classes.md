@@ -3,9 +3,9 @@
 
 In any [large group](groups-large.md), people divide out into [smaller groups](groups-small.md) from [distinctions](people-discrimination.md) between [values](values.md) they [believe](understanding-certainty.md).
 
-Even though they share certain values across their [group](groups-large.md), smaller and more specific values arise from differences in [status](image.md), [power](power.md), [purpose](jobs-specialization.md), and [appearance](image.md).
+Even though they share certain values across their [group](groups-large.md), smaller and more specific values arise from differences in [status](people-image-why.md), [power](power.md), [purpose](jobs-specialization.md), and [appearance](people-image-why.md).
 
-No matter how much anyone tries to [equalize](politics-leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](image.md) to the majority to be the most competent at those purposes.
+No matter how much anyone tries to [equalize](politics-leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](people-image-why.md) to the majority to be the most competent at those purposes.
 
 In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](people-culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](mind-feelings-happiness-stress.md) attitude over something that happened in the past.
 
@@ -15,7 +15,7 @@ We typically inherit our social class from our [family](people-family.md). While
 
 ## Divisions
 
-Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](image.md), [gender](gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war.md).
+Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war-why.md).
 
 APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 
@@ -76,23 +76,23 @@ At any time, the upper class only uses a small fraction of the [power](power.md)
 The upper class has four major concerns:
 
 1. They worry about losing their [influence](influence.md) within their [small group](groups-small.md).
-2. They're concerned with losing power from any other upper-class people who are trying to [compete](people-conflicts-war.md) for the position.
-3. They must maintain a public [image](image.md) of [virtue](morality.md) to prevent the lower and middle classes from growing too dissatisfied with the situation.
+2. They're concerned with losing power from any other upper-class people who are trying to [compete](people-conflicts-war-why.md) for the position.
+3. They must maintain a public [image](people-image-why.md) of [virtue](morality.md) to prevent the lower and middle classes from growing too dissatisfied with the situation.
 4. They must ally with the rest of the upper class to prevent the other classes from taking away their privileges.
 
-The upper class *never* has to worry about what they require. Often, they'll spend absurd amounts of money to [show](image.md) their [power](power.md). This lifestyle is an intentional [insurance](money-insurance.md) policy to [scare](mind-feelings-fear.md) anyone from considering [attacking](people-conflicts.md) them.
+The upper class *never* has to worry about what they require. Often, they'll spend absurd amounts of money to [show](people-image-why.md) their [power](power.md). This lifestyle is an intentional [insurance](money-insurance.md) policy to [scare](mind-feelings-fear.md) anyone from considering [attacking](people-conflicts-why.md) them.
 
 While the underclass and middle class have common concerns, the upper class lives a relatively comfortable life. They have connections with various wealthy and famous people, and appear to be living a fantasy.
 
-However, while they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts.md) with other people to keep their power. They work hard to [tweak their image](image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
+However, while they may appear to live a life of comfort and sophistication, they're in a constant [battle](people-conflicts-why.md) with other people to keep their power. They work hard to [tweak their image](people-image-distortion.md), so their titles and forms of power maintenance constantly change (e.g., aristocracy, executive class, political beltway).
 
 APPLICATION: The upper class are not as well-off as they appear. Their additional wealth is both the provider of their comfort, but also their primary concern to maintain. While the underclass and middle class can find a release through [leisure](fun.md), there is *never* a release from their financial concerns.
 
-Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](people-culture.md) and avoid [shaming](mind-feelings-shame.md) their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
+Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](people-culture.md) and avoid [shaming](mind-feelings-shame.md) their [public image](people-image-why.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
 
 [Morality](morality.md) is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](results.md) for what they do.
 
-For this reason, the upper class isn't too concerned with the lower and middle class until there's a [coup or revolution](people-conflicts-war.md).
+For this reason, the upper class isn't too concerned with the lower and middle class until there's a [coup or revolution](people-conflicts-war-why.md).
 
 ## Migrating between classes
 
@@ -102,9 +102,9 @@ Beyond the standard cultural adaptations like specific [language](language.md) a
 
 Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](imagination.md) their social status typically expresses itself in how people react to it.
 
-Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends.md) with others. The person must make [wise](understanding.md) [decisions](people-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
+Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends-why.md) with others. The person must make [wise](understanding.md) [decisions](people-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
-When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-3_boundaries.md) and make more [friends](people-friends.md).
+When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-boundaries.md) and make more [friends](people-friends-why.md).
 
 Because of the difficulty of transitioning upward in social classes, most people don't succeed at it. They often hit a "glass ceiling" at the top of their class. Sometimes, if they're willing to take [social risks](socialrisk.md) that backfire tremendously, they'll go *down* a social class!
 
@@ -124,11 +124,11 @@ There is an endless conflict over power between the classes:
 
 APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](politics-leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](people-culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
 
-Someone in the upper class will frequently try to overthrow someone else in the upper class. To make this happen, they will engage in a [large-scale conflict](people-conflicts-war.md).
+Someone in the upper class will frequently try to overthrow someone else in the upper class. To make this happen, they will engage in a [large-scale conflict](people-conflicts-war-why.md).
 
 To recruit people for their purposes, upper-class people employ various methods:
 
-- They'll make [agreements](people-contracts.md) with other upper-class people to form an [alliance](people-conflicts-war.md).
+- They'll make [agreements](people-contracts.md) with other upper-class people to form an [alliance](people-conflicts-war-why.md).
 - They'll promise the middle class will become the upper class.
 - They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](politics-leftism.md) angle involved.
 
@@ -138,11 +138,11 @@ Generally, they'll also appeal to [specific political values](politics-conservat
 
 At the end of the conflict, though, nothing [really](reality.md) changes except that a few upper-class people have changed roles. Often, if the new leadership was more [evil](morality-evil.md), everyone loses some of their [freedoms](morality-justice.md).
 
-APPLICATION: We only make decisions as part of a social class as far as we [identify](identity.md) with our situation. We can frequently [appear](image.md) as a different class, and there is sometimes [wisdom](understanding.md) in appearing to be a lower class than we are.
+APPLICATION: We only make decisions as part of a social class as far as we [identify](identity.md) with our situation. We can frequently [appear](people-image-why.md) as a different class, and there is sometimes [wisdom](understanding.md) in appearing to be a lower class than we are.
 
 APPLICATION: The social expectations and use of things vary heavily by each class:
 
-- Underclass is preoccupied with handling [hardships](hardship.md) and emphasizing [relationships with others](people-friends.md):
+- Underclass is preoccupied with handling [hardships](hardship.md) and emphasizing [relationships with others](people-friends-why.md):
   - [Money](money-1_why.md) is to be spent (living paycheck-to-paycheck).
   - The best [personality](personality.md) is within a [sense of humor](humor.md) (High Openness + Extraversion).
   - The social emphasis is on inclusion (to stick together through harship).
@@ -166,9 +166,9 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - The social standards prioritize polite behavior, and sometimes honesty.
 - Wealthy is about maintaining and growing [power of all forms](power-types.md):
   - Money is to be [invested](money-investing.md).
-  - The best personality is through [connections](people-friends.md) (to make the largest social network).
+  - The best personality is through [connections](people-friends-why.md) (to make the largest social network).
   - The social emphasis is on exclusion (to protect wealth).
-  - The food is focused on presentation (for [reputation](image.md) reasons).
+  - The food is focused on presentation (for [reputation](people-image-why.md) reasons).
   - Time is about preserving [tradition](habits.md).
   - Education is focused on maintaining connections.
   - Language is a formal mechanism for networking with others.
@@ -178,4 +178,4 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
 
 Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](economics.md) to make everything come to a grinding halt.
 
-APPLICATION: If things get bad enough (and history has shown it can, such as the Roman Empire), the people can abandon their roles and render everyone in charge completely helpless. This never happens except under true societal [hardship](hardship.md), though, because it would also guarantee [anarchy](politics-systems.md) and risk [an invasion from foreigners](people-conflicts-war.md).
+APPLICATION: If things get bad enough (and history has shown it can, such as the Roman Empire), the people can abandon their roles and render everyone in charge completely helpless. This never happens except under true societal [hardship](hardship.md), though, because it would also guarantee [anarchy](politics-systems.md) and risk [an invasion from foreigners](people-conflicts-war-why.md).

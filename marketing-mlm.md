@@ -59,7 +59,7 @@ Who do these sellers sell to?
 
 ## Distribution models
 
-MLM makes needlessly complicated pricing structures for products and materials to make products [appear](image.md) sophisticated.
+MLM makes needlessly complicated pricing structures for products and materials to make products [appear](people-image-why.md) sophisticated.
 
 Free market price competition and [technology](technology.md) usually takes arbitrary [distributor layers](logistics.md) out of the chain.
 

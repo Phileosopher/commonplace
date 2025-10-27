@@ -5,7 +5,7 @@ We don't [know](understanding.md) most things. We start [from before birth](matu
 
 Very soon (often within a few months), something we didn't know will have hurt us. From that point, we live [fearing](mind-feelings-fear.md) "the Unknown". As we gain experiences, this compounds as we discover new forms of the Unknown that may hurt us. If we don't, our recklessness will tend to get us killed while we're still [young](maturity.md).
 
-APPLICATION: The Unknown isn't "bad", but it's unpredictable. From our [perspective](image.md), [God and the devil](religion.md) come from the same place. However, we focus on the bad, so we [group](logic.md) it that way.
+APPLICATION: The Unknown isn't "bad", but it's unpredictable. From our [perspective](people-image-why.md), [God and the devil](religion.md) come from the same place. However, we focus on the bad, so we [group](logic.md) it that way.
 
 Most of our efforts in life are in conquering the Unknown. Most of our [creations](creations.md) are either attempts to make us [feel](mind-feelings.md) things more accurately about the Unknown, or to minimize pain from what the Unknown may bring. [Science](science.md) is a powerful method of reducing the Unknown.
 
@@ -17,11 +17,11 @@ APPLICATION: We're stuck with incessant chaos in our most mundane experiences:
 - Nothing you [trust](trust.md) is entirely [safe](safety.md).
 - No two of your thoughts are technically the same, since they travel down different neural pathways each time, and [habits](habits.md) reinforce any thought that *does* repeat.
 
-Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](people-decisions.md) that drove them, but we [deceive](image.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](identity.md).
+Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](people-decisions.md) that drove them, but we [deceive](people-image-why.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](identity.md).
 
 APPLICATION: We often [believe](understanding-certainty.md) our memories are pristine. However, they're open to failure and not very reliable as time passes. Thus, we should only partly trust ourselves about our perspective as a [scientific](science.md) reality, consistently [cross-reference it](people-conversation.md) with others' to be as certain as possible, and quickly change our [value system](values.md) if we find we're wrong.
 
-We are stubborn, though, and we *constantly* try to conquer the Unknown. Most of our [stories](stories.md) are the [conflict](people-conflicts.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
+We are stubborn, though, and we *constantly* try to conquer the Unknown. Most of our [stories](stories.md) are the [conflict](people-conflicts-why.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
 
 APPLICATION: Chaos isn't as bad as you think, even if it's absolutely [terrifying](mind-feelings-fear.md). You're in the right to be afraid, but are more capable toward [acting](results.md) than you realize (and [absolutely must](meaning.md)).
 
@@ -35,13 +35,13 @@ APPLICATION: Never disrespect [creations](creations.md) that ever add [value](va
 
 We [believe](understanding-certainty.md) something to have order when we've distinctly separated [values](values.md) in our mind, especially as we perceive our [environment](reality.md).
 
-We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories.md) we [perceive](image.md) conflicts with our [expectations](imagination.md) (e.g., a messy room or a cluttered sentence).
+We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories.md) we [perceive](people-image-why.md) conflicts with our [expectations](imagination.md) (e.g., a messy room or a cluttered sentence).
 
 We treat completely unordered chaos as bad, but it's nothing more than pure randomness that sometimes works [against what we want](purpose.md), and it can work in our favor just as much.
 
 APPLICATION: We're always stuck with the Unknown, so we *must* learn to accept it. This is terrifying, and people with an ambitious [personality](personality.md) will often act without realizing how much they let the possibilities of the Unknown define their actions. These people are frequently the most [successful](success-1_why.md), but also the most [unaware](awareness.md). The converse of this problem makes intelligence create inaction.
 
-Our minds naturally repel chaos and strive for order when we [perceive](image.md), but this operates from an opposing point from the inherent state of nature.
+Our minds naturally repel chaos and strive for order when we [perceive](people-image-why.md), but this operates from an opposing point from the inherent state of nature.
 
 - [Nature itself](reality.md) is inherently chaotic, with a semi-maintained semblance of order contained within it (e.g., how rivers form).
 - We, in [our humanity](humanity.md), are the opposite: inherently ordered, with a semi-deconstructed chaotic element contained within it.
@@ -60,7 +60,7 @@ Contrary to what many people [imagine](imagination.md), chaos isn't *complete* d
 
 Partial chaos doesn't work well with us, and we tend to treat *any* chaos with distrust, even when we *know* of the Unknown, and that [uncertainty](understanding-certainty.md) frequently interferes with rational [decision-making](people-decisions.md). The nature of [mnemonics](mind-memory.md) and [symbols](symbols.md) is our mind's attempt to impose patterns onto things without patterns, and [language](language.md) is how we harness the unknown.
 
-Interestingly, as we perceive chaos, Cthulhu Chaos doesn't actually "exist", but our [perceptions](image.md) tend to deceive us to where our [feelings](mind-feelings.md) define Natural Chaos as Cthulhu Chaos.
+Interestingly, as we perceive chaos, Cthulhu Chaos doesn't actually "exist", but our [perceptions](people-image-why.md) tend to deceive us to where our [feelings](mind-feelings.md) define Natural Chaos as Cthulhu Chaos.
 
 We tend to demarcate between "man-made" and "natural" by how much order we interpret something to have. A rock is natural, but a statue is man-made. However, [science](science.md) can demonstrate that everything possesses some base sense of order behind all the chaos.
 
@@ -113,7 +113,7 @@ Past ("what was")
 - [Rituals](people-culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
 - Dominant feeling of [guilt](mind-feelings-shame.md)
 - Avoids [risks](socialrisk.md) and adventures
-- Often more [cooperative than competitive](people-conflicts.md)
+- Often more [cooperative than competitive](people-conflicts-why.md)
 
 Present ("what is")
 
@@ -145,7 +145,7 @@ Our [personality](personality.md) dictates this balance, but those personalities
 
 1. The Present is the most known we have, and the basis for all [phenomenology](mind-feelings.md) and anything we can actually call [reality](reality.md), but also isn't very [useful](purpose.md) by itself.
 2. The Past is the second-most known we have, proportional to how near it is to us in time and how reliable our memories are. It also represents some of the worst qualities that we need to [change](people-changes.md), and we run the risk of falling behind the [trends](trends.md).
-3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends.md) with others and too much focus on it can destroy [society](people-culture.md).
+3. The Future is the least known possible, and represents many possibilities based on many parts of what we don't know. However, it's also where we [accomplish things](results.md) and find the most [meaning](meaning.md). Unfortunately, it's also devastating to our [relationships](people-friends-why.md) with others and too much focus on it can destroy [society](people-culture.md).
 
 APPLICATION: How we focus on the past, present, and future dictates how we prioritize the Unknown for our [purposes](purpose.md). This represents itself in the way we [choose](people-decisions.md) to live and [the groups we associate with](groups-member.md).
 

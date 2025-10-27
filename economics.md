@@ -11,7 +11,7 @@ However, economic measurements aren't very precise:
 
 - They're good for approximate understanding (e.g., a doctor gets paid more than an unskilled laborer) but terrible at precision (e.g., a lousy doctor is *worse* for society than a brilliant unskilled laborer).
 - Any change to 1 thing automatically affects at least 3 other things, and nobody can predict how many things it'll change.
-- We gain value based on what we *[appear](image.md)* to do, not what we actually do. This is often the same, but [not always](image-distortion.md).
+- We gain value based on what we *[appear](people-image-why.md)* to do, not what we actually do. This is often the same, but [not always](people-image-distortion.md).
 
 Irrespective, there is a type of free market wired into our existence, which represents a type of social "natural selection".
 
@@ -23,7 +23,7 @@ APPLICATION: Because we consider the price of things compared to what other peop
 
 We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
-APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](image.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
+APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
 We tend to assign more value to things we have than things we don't, which means we tend to only [feel right](mind-feelings.md) about selling our things at a price higher than what we paid for. For this reason, even when the price of something is *very* fixed, there's always 2 prices (a lower "asking price" and a higher "receiving price").
 
@@ -63,9 +63,9 @@ A country *has* to print more money constantly to keep up with the growth of a c
 
 If inflation becomes too uncontrolled, it can ravage society. However, a steady inflation rate is only a risk to [those who have wealth stored](classes.md). For non-wealthy people, they just have to find [a better source of income](jobs-1_why.md) instead of finding another place to safely weather out an inflationary spike.
 
-Because of things like [technology](technology.md) and society's [trends](trends.md) about commonplace activities, measuring inflation is absurdly complicated and somewhat controversial on how to approach it. Plus, because so many people are observing metrics like inflation, some government policies can play math games with the money supply to make inflation [appear](image.md) differently than it really is. However, technology *does* create inequality, to the degree that some people don't have it.
+Because of things like [technology](technology.md) and society's [trends](trends.md) about commonplace activities, measuring inflation is absurdly complicated and somewhat controversial on how to approach it. Plus, because so many people are observing metrics like inflation, some government policies can play math games with the money supply to make inflation [appear](people-image-why.md) differently than it really is. However, technology *does* create inequality, to the degree that some people don't have it.
 
-Very often, when a disastrous destruction of value happens (such as [getting invaded](people-conflicts-war.md)), a [country](groups-large.md) will suffer *massive* hyperinflation. This can make ridiculous situations like someone having to cart a wheelbarrow full of bills to the market just for a loaf of bread. On the other hand, tremendous increases in value (such as winning a war) can generate *immense* wealth for a country to print tons more money and keep it relatively at the same value.
+Very often, when a disastrous destruction of value happens (such as [getting invaded](people-conflicts-war-why.md)), a [country](groups-large.md) will suffer *massive* hyperinflation. This can make ridiculous situations like someone having to cart a wheelbarrow full of bills to the market just for a loaf of bread. On the other hand, tremendous increases in value (such as winning a war) can generate *immense* wealth for a country to print tons more money and keep it relatively at the same value.
 
 ## Exchanges
 
@@ -83,7 +83,7 @@ We exchange many types of goods and services:
 - Feelings of peace or freedom from guilt
 - Reputation or affiliation with groups
 
-APPLICATION: In a hyper-capitalistic society connected by many [social networks](people-conversation.md), the most extreme [personalities](personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war.md) but where nobody dies:
+APPLICATION: In a hyper-capitalistic society connected by many [social networks](people-conversation.md), the most extreme [personalities](personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war-why.md) but where nobody dies:
 
 - The hardest-working people will run the [leadership structures](groups-large.md).
 - The [funniest](humor.md) and most [charming](influence.md) people draw all the attention.
@@ -100,7 +100,7 @@ APPLICATION: The stunning reality of capitalism is that it *constantly* plays ou
 Even when we *give* things away, we're usually calculating a more elaborate [purpose](purpose.md):
 
 - How those people interpret [value](values-quality.md)
-- Our [relationship](people-friends.md) with those people
+- Our [relationship](people-friends-why.md) with those people
 - The [feelings](mind-feelings.md) we'll have when they [respond](people-conversation.md) to our gift
 
 A free market is where someone wants to trade something of value, and nothing else interferes with it. While the value of things is compared to other similar things, that value is *constantly* moving around because of how relative it is.
@@ -150,7 +150,7 @@ Thus, governments issue uncollected [debts](money-2_debt.md) as a tradable commo
 
 People instinctively separate tasks and take [specialized roles](jobs-specialization.md) they prefer (industries and occupations).
 
-Economies are immensely diverse. People of all types who would normally *never* [associate](people-friends.md) with each other voluntarily will constantly and frequently meet to trade.
+Economies are immensely diverse. People of all types who would normally *never* [associate](people-friends-why.md) with each other voluntarily will constantly and frequently meet to trade.
 
 Income inequality comes from how each job has a different value to everyone. [Leftist](politics-leftism.md) governments typically lower the pay of high-paying jobs to equalize labor, but they always have to force future workers to invest their human capital in that task (e.g., becoming a lawyer takes lots of school, so it's not worth the effort if welding pays the same).
 
@@ -231,15 +231,15 @@ These trades fulfill our wants and needs through exchanges, so business [organiz
 
 1. Each individual in a business has the self-interested need to survive.
 2. Businesses increase their survivability through maximizing profit.
-3. Businesses maximize profit by provoking others' [trust](trust.md) to trade with them. If there's [competition](people-conflicts.md), they *must* do a better [job](image.md) than their competitors.
+3. Businesses maximize profit by provoking others' [trust](trust.md) to trade with them. If there's [competition](people-conflicts-why.md), they *must* do a better [job](people-image-why.md) than their competitors.
 
-Capitalist societies reward organizations and individuals who add what the public [perceives](image.md) as value. While many people can [distort their image](image-distortion.md), [reality](reality.md) eventually catches up to them.
+Capitalist societies reward organizations and individuals who add what the public [perceives](people-image-why.md) as value. While many people can [distort their image](people-image-distortion.md), [reality](reality.md) eventually catches up to them.
 
-[Entrepreneurship](socialrisk.md) and corporate management aren't at odds with charitable giving. A capitalist society permits entrepreneurs to [find ways](mind-creativity.md) to fill society's needs while profiting in the process. A massive corporation only exists because it has added [value](values-quality.md) to many people (even when it's [horrifically inefficient](mgmt-badsystems.md)), not by [stealing power](people-conflicts-war.md) away from everyone else.
+[Entrepreneurship](socialrisk.md) and corporate management aren't at odds with charitable giving. A capitalist society permits entrepreneurs to [find ways](mind-creativity.md) to fill society's needs while profiting in the process. A massive corporation only exists because it has added [value](values-quality.md) to many people (even when it's [horrifically inefficient](mgmt-badsystems.md)), not by [stealing power](people-conflicts-war-why.md) away from everyone else.
 
 As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies of scale") permit enormous companies to produce items for far cheaper than individuals ever could.
 
-[Accounting](money-accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](image.md) for customers and governments.
+[Accounting](money-accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](people-image-why.md) for customers and governments.
 
 ## Speculation
 
@@ -290,13 +290,13 @@ Centralized planning taken to its farthest becomes fascism or [communism](politi
 
 Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
 
-[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war.md), people need at least some freedom to make [decisions](people-decisions.md), even if they're bad.
+[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](people-decisions.md), even if they're bad.
 
 Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](imagination.md) models.
 
 ## Conflicts
 
-One of the most hotly contested [ideological](values.md) [battles](conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](people-decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
+One of the most hotly contested [ideological](values.md) [battles](people-conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](people-decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
 
 Proponents of John Maynard Keynes tend to believe that output and production are generally fixed realities of individuals, determined by their social context. Further, we can most effectively measure a society's wealth by spending. For that reason, further social engineering (and large-scale [government intervention](groups-large.md)) is the solution to most economic issues.
 

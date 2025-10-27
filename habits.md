@@ -17,7 +17,7 @@ Habits are a type of neurological [story](stories.md) with a relatively simple m
 
 Another way to see habits is as the transition our conscious [decisions](people-decisions.md) to the subconscious.
 
-Habits are more powerful than mere [decisions](people-decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](conflicts-inner.md) from the [decision-making](people-decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
+Habits are more powerful than mere [decisions](people-decisions.md) because they bypass our conscious mind, which removes our [internal negotiation](people-conflicts-inner.md) from the [decision-making](people-decisions.md) process. They are effectively the long-term way we [conform](people-changes.md) to a situation.
 
 We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](people-decisions.md) or [consequence](results.md).
 
@@ -59,7 +59,7 @@ Living "[in the moment](awareness.md)" is the only way to fight habits' eventual
 
 As we [age](maturity.md), habits become increasingly difficult to change, mostly because our brains run *many* neural pathways along highly-used pathways. It's always possible for us to change, but we tend to [fear](mind-feelings-fear.md) it more as we get older because we've grown accustomed to the way we've done things.
 
-Since we're not directly conscious of most of our habits, time passes *much* more quickly when we let them run our lives. People will remember the events of their first 20 years (especially [adolescence](maturity.md)) much more than the next 30 because there are comparatively few *[new](image.md)* events that require new [decisions](people-decisions.md).
+Since we're not directly conscious of most of our habits, time passes *much* more quickly when we let them run our lives. People will remember the events of their first 20 years (especially [adolescence](maturity.md)) much more than the next 30 because there are comparatively few *[new](people-image-why.md)* events that require new [decisions](people-decisions.md).
 
 ## Adaptations
 
@@ -120,7 +120,7 @@ APPLICATION: The value of tradition comes through how much we find meaning in it
 
 However, traditions only have value to the degree they're not boring. As soon as they're boring, they're simply a mindless set of tasks to accomplish a [purpose](purpose.md). Each of our [personalities'](personality.md) openness to new experiences dictates how fast we get bored.
 
-Over time, if a tradition becomes a set of mindless tasks, and [the younger generation](maturity.md) is successfully [suppressed](people-conflicts.md), the [group](groups-small.md) will forget the original purpose for the tradition.
+Over time, if a tradition becomes a set of mindless tasks, and [the younger generation](maturity.md) is successfully [suppressed](people-conflicts-why.md), the [group](groups-small.md) will forget the original purpose for the tradition.
 
 APPLICATION: The mechanism of convention (i.e., habits across society) explains many elements of society:
 

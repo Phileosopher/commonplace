@@ -314,7 +314,7 @@ Your ability to adapt in a moment is crucial:
 - If the media fails, tell anecdotes to pass the time.
 - If someone is talking on their phone or having a side conversation, politely and directly telling them to be silent or go outside will earn the audience's respect.
   - Keep in mind that people on their laptop or phone might be live-messaging or taking notes, so they might not be ignoring you.
-- Being interesting with a valuable idea *will* send mixed messages, and some people will [oppose you](people-5_conflicts.md).
+- Being interesting with a valuable idea *will* send mixed messages, and some people will [oppose you](people-conflicts.md).
   - Have a plan in place for people who try to derail the discussion, especially in a question-and-answer session.
 - Constantly ask yourself self-critical questions throughout the speech:
   - Do they know this fact or lesson already?
@@ -337,3 +337,4 @@ Try to get feedback afterward:
   - How substantive did you find the speaker's material?
 - Contrary to intuition, you've given a great presentation when people want you to have spoken longer.
   - If you want to get your ideas even more fleshed out, [write and publish them](language-writing.md).
+  

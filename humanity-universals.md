@@ -5,21 +5,21 @@ NOTE: This is a list of what people *all* seem to do. We could argue about outli
 
 Abstractions
 
-- We all [perceive](image.md) stuff, then pull [patterns](symbols.md) off it to use elsewhere.
+- We all [perceive](people-image-why.md) stuff, then pull [patterns](symbols.md) off it to use elsewhere.
 - Those patterns reproduce all over our [understanding](understanding.md), including in [analysis](logic.md) and [stories](stories.md).
 - We then convert those abstractions into [values](values.md) and create [habitual](habits.md) thoughts around them.
 
 Aesthetics
 
-- We concern ourselves with the function and [appearance](image.md) of things, then assign graded [qualities](values-quality.md) to them.
-- We create captured [images](image.md) of [reality](reality.md), repetitive elements like music and poetry, and written or spoken [stories](stories.md).
+- We concern ourselves with the function and [appearance](people-image-why.md) of things, then assign graded [qualities](values-quality.md) to them.
+- We create captured [images](people-image-why.md) of [reality](reality.md), repetitive elements like music and poetry, and written or spoken [stories](stories.md).
 - This aesthetic bleeds into our sense of [identity](identity.md), and we adorn ourselves with clothing, [icons](symbols.md), hair fashions, and piercings that reflect it.
 
 Affection
 
 - We send and receive [affection](mind-feelings.md), often as expressions of [love](people-love.md).
 - We use endearing terms like nicknames and recognize people by their faces.
-- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](imagination.md) them to [coexist](people-boundaries.md).
+- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](imagination.md) them to [coexist](people-boundaries-why.md).
 - We constantly redirect that [attachment](people-love.md) to others towards things that [represent](symbols.md) human-like traits, as well as to strangers.
 
 Amusement
@@ -37,14 +37,14 @@ Comparisons
 - We're perpetually making "like" comparisons to things, from [stories](stories.md) to [logic](logic.md).
 - Our comparisons express in [language](language.md) as analogies and metaphors.
 - Beyond our environment, we also tend to compare ourselves with others, and our [relationships](people-4_friends.md) with other relationships.
-- This often inspires us to [compete](people-conflicts.md) with others, for [work](results.md) *and* [play](fun.md).
+- This often inspires us to [compete](people-conflicts-why.md) with others, for [work](results.md) *and* [play](fun.md).
 
 Conflicts
 
 - We all possess different points of view and opinions, which clash against each other.
-- First, they [clash](conflicts-inner.md) against our [understanding](understanding.md) inside our minds.
-- Then, we [push](people-conflicts.md) against others around us with our [beliefs](understanding-certainty.md).
-- Taken far enough, multiple [groups](groups-large.md) will [oppose](people-conflicts-war.md) each other.
+- First, they [clash](people-conflicts-inner.md) against our [understanding](understanding.md) inside our minds.
+- Then, we [push](people-conflicts-why.md) against others around us with our [beliefs](understanding-certainty.md).
+- Taken far enough, multiple [groups](groups-large.md) will [oppose](people-conflicts-war-why.md) each other.
 
 Companionship
 
@@ -89,7 +89,7 @@ Exploration
 Expressions
 
 - We use elaborate [language](language.md) to [communicate](people-conversation.md) ideas *far* more complex than our environment.
-- Experts of language can [direct](image-distortion.md) their [image](image.md), and everyone else will consider them far more [powerful](power.md) than they [are](reality.md).
+- Experts of language can [direct](people-image-distortion.md) their [image](people-image-why.md), and everyone else will consider them far more [powerful](power.md) than they [are](reality.md).
 - We use the same facial expressions when we [feel](mind-feelings.md) fear, anger, contempt, disgust, happiness, and surprise.
 - We create body language and gestures to emphasize ourselves, often imitating our [upbringing](people-family.md).
 - We impulsively cry and laugh to exclaim our thoughts.
@@ -126,7 +126,7 @@ Gender Roles
 Healthcare
 
 - Every society tries to stave off [death](mind-feelings-fear.md) at varying levels of success.
-- As a preventative measure, most people practice [hygienic care](people-2_image.md) like brushing teeth or washing hands, which extends to [social interaction](people-3_respect.md).
+- As a preventative measure, most people practice [hygienic care](people-image.md) like brushing teeth or washing hands, which extends to [social interaction](people-3_respect.md).
 
 Heat
 
@@ -142,18 +142,18 @@ Humor
 
 Identity
 
-- We [connect ourselves](identity.md) to a self-created [image](image.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
-- We often manipulate that [image](image.md) of ourselves as our [understanding](understanding.md) changes.
+- We [connect ourselves](identity.md) to a self-created [image](people-image-why.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
+- We often manipulate that [image](people-image-why.md) of ourselves as our [understanding](understanding.md) changes.
 
 Image
 
-- We maintain an [appearance](image.md) that's different from [reality](reality.md).
-- We frequently [embellish our image](image-distortion.md) by [lying](people-lying.md), accumulating/flaunting possessions, and false modesty.
+- We maintain an [appearance](people-image-why.md) that's different from [reality](reality.md).
+- We frequently [embellish our image](people-image-distortion.md) by [lying](people-lying.md), accumulating/flaunting possessions, and false modesty.
 - Further, we'll judge others by our [values](values.md), [expectations](imagination.md), and [conceit](morality-evil.md).
 
 Imagination
 
-- To understand reality, we [rebuild](image.md) it inside our minds.
+- To understand reality, we [rebuild](people-image-why.md) it inside our minds.
 - Since we're reproducing a bad copy of [reality](reality.md), we can and do manipulate it.
 - While everyone uses it for specific [purposes](purpose.md), they also do it for fun.
 
@@ -213,7 +213,7 @@ Privacy
 
 - We all separate our [private](safety.md) life from our public life, even if it's simply going to the bathroom.
 - We typically keep things like sex, [marital conflicts](relationships-marriage.md), and dysfunction away from strangers.
-- We also regularly desire to [hide](image.md) even more things.
+- We also regularly desire to [hide](people-image-why.md) even more things.
 
 Routines/Rituals/Habits
 
@@ -226,7 +226,7 @@ Routines/Rituals/Habits
 Rules
 
 - Whoever has the most [power](power.md) in a group is declared the [leadership](groups-small.md) and makes the [rules](people-rules.md).
-- The rules are generally considered [immoral](morality.md) to break, but people still break them and try to [hide it](image-distortion.md).
+- The rules are generally considered [immoral](morality.md) to break, but people still break them and try to [hide it](people-image-distortion.md).
 - The most powerful social structure in a region is a [government](groups-large.md).
 
 Selfishness
@@ -245,7 +245,7 @@ Social Structures
 - Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
 - While we'll still [identify](identity.md) as separate beings, we'll also identify as part of that group.
 - We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
-- We give permanent [statuses](image.md) to people in that group for their [achievements](results.md), which become [types of power](power-types.md).
+- We give permanent [statuses](people-image-why.md) to people in that group for their [achievements](results.md), which become [types of power](power-types.md).
 - The group, as a whole, all shares a vague [value](values.md) that separates "in the group" from "outside the group" things and people.
 
 Specializations
@@ -281,14 +281,14 @@ Technology
 
 Understanding
 
-- We assemble [ideas](values.md) using our [memory](mind-memory.md) and [perceptions](image.md) until we believe we [know something](understanding.md).
+- We assemble [ideas](values.md) using our [memory](mind-memory.md) and [perceptions](people-image-why.md) until we believe we [know something](understanding.md).
 - We must practice repetitively to [succeed](success-1_why.md).
 - We use substances and techniques to increase [awareness](awareness.md) or alter consciousness.
 
 Vagueness
 
 - We don't generally like vague or [uncertain](understanding-certainty.md) things, especially if they might make us [unsafe](safety.md).
-- For the sake of [image](image.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](understanding.md), we often keep things vague inside ourselves.
+- For the sake of [image](people-image-why.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](understanding.md), we often keep things vague inside ourselves.
 - This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](imagination.md).
 - To avoid vagueness, we [explain](logic.md) things to ourselves and others.
 
@@ -301,7 +301,7 @@ Values
   - Speech versus thought versus action
   - Relative locations and directions
   - [Elements](science.md) of the [world](reality.md) around us, including [weather conditions](science-earth-weather.md)
-  - [Social status](image.md)
+  - [Social status](people-image-why.md)
 - Our separations start as binary distinctions, then divide further as we gain [maturity](maturity.md).
 - We form [words](language.md) for every one of these categories as we [understand](understanding.md) them.
 - We tend to [imagine](imagination.md) everyone else thinks the way we do.
@@ -309,19 +309,19 @@ Values
 Violence
 
 - Even the most peaceful societies have [evil](morality-evil.md).
-- This evil frequently becomes outright [fighting and brutality](people-conflicts.md).
+- This evil frequently becomes outright [fighting and brutality](people-conflicts-why.md).
 - Because of this, every society needs [rules](rules-methods.md) for dealing with it.
-- Sometimes, for the sake of [power](power.md), [large organizations](groups-large.md) will [fight](people-conflicts-war.md) with one another, which can include war.
+- Sometimes, for the sake of [power](power.md), [large organizations](groups-large.md) will [fight](people-conflicts-war-why.md) with one another, which can include war.
 
 Water
 
-- We require water to survive, practice [good hygiene](people-2_image.md), and [prepare food](cooking.md).
+- We require water to survive, practice [good hygiene](people-image.md), and [prepare food](cooking.md).
 - Societies very frequently [congregate and form](jobs-specialization.md) around bodies of water.
 - We [associate](symbols.md) water with life.
 
 Youth Love/Hate Relationship
 
-- We give children extra [honor](image.md) and care for their untapped potential, which includes specialized [media](creations.md) like music and toys.
+- We give children extra [honor](people-image-why.md) and care for their untapped potential, which includes specialized [media](creations.md) like music and toys.
 - Children have temporary behaviors they lose as they [mature](maturity.md), such as pretend play, thumb-sucking, and weaning.
 - We usually don't regard them as adults until they've attained some [rite of passage](maturity.md).
 - The roles from our [parenting](people-family.md) become the roles we expect from our spouse and self in [marriage](relationships-marriage.md) later.

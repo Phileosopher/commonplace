@@ -38,7 +38,7 @@ Further, many version control systems track each *line* of code, so they can eas
 
 In the early 2000s, most software development had various issues with awkward "commits" and "branches", and BitKeeper had provided a relatively seamless solution. However, their software wasn't [open-source](legal-ip-floss.md) and BitKeeper's terms of service indicated that they weren't allowed to "reverse-engineer" the software. However, because it worked, much of [Linux](computers-os-unix.md) was maintained with it.
 
-The issue came to a severe conflict when a developer was able to figure out how to work with BitKeeper by observing [network packets](networks-computer.md) (which wasn't *technically* reverse-engineering). While it didn't outright violate the terms of service, BitKeeper shut down Linux development.
+The issue came to a severe conflict when a developer was able to figure out how to work with BitKeeper by observing [network packets](networks-cs.md) (which wasn't *technically* reverse-engineering). While it didn't outright violate the terms of service, BitKeeper shut down Linux development.
 
 In ten days, the creator of [Linux](computers-os-unix.md), Linus Torvalds, created [Git](https://git-scm.com/) as a response to the need. Its design philosophy was "release early, iterate often", which has had a profound elegance. However, its mandatory complexities and [command-line interface](computers-cli.md) require a steep learning curve to understand it.
 

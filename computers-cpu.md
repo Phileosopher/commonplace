@@ -119,7 +119,7 @@ While Average User You can ratchet up or dial back the clock speed to give you b
 - Add hardware-based code into the CPU to do more things that would have normally been implemented as software (e.g., [advanced math](math.md), [machine learning](computers-ai-ml.md)).
 - Give better [code](computers-programming.md) that better balance how multiple cores handle information. This may mean changing the workload of each core when one is idle, translating the data into another format that's quicker to work with, condensing the information and getting rid of it before a core sees it, or timing cores to handle certain things at certain times.
 
-It's worth indicating that performance benchmarks are rarely representative of real-world hardware performance. Besides [Goodhart's Law](lawsaxioms.md) regarding benchmarks against competitors, the device would only hit those marks in a perfect environment (e.g., near sub-zero temperatures, brand-new motherboard, zero peripherals). This happens to be true for [networking equipment](networks-computer.md) as well (e.g., in a vacuum on the moon).
+It's worth indicating that performance benchmarks are rarely representative of real-world hardware performance. Besides [Goodhart's Law](lawsaxioms.md) regarding benchmarks against competitors, the device would only hit those marks in a perfect environment (e.g., near sub-zero temperatures, brand-new motherboard, zero peripherals). This happens to be true for [networking equipment](networks-cs.md) as well (e.g., in a vacuum on the moon).
 
 Even in relatively mundane chip-making manufacturing plants, the technology to make them is remarkable. The "extreme ultraviolet lithography" (EUV) technique, for example:
 
@@ -135,7 +135,7 @@ Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has st
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 
-There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](networks-computer.md) component. However, beyond the affordability aspect, it does beg the question whether it's economically worth labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
+There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](networks-cs.md) component. However, beyond the affordability aspect, it does beg the question whether it's economically worth labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
 
 The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
 

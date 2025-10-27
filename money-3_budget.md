@@ -32,7 +32,7 @@ Budgets will always improve your life if you honor a few rules:
 You will need your life partner on the same page as you:
 
 - A budget only works when everyone who spends and earns honors it.
-- [Disagreements](people-5_conflicts.md) about money are normal.
+- [Disagreements](people-conflicts.md) about money are normal.
   - The only solution is to talk through them.
   - Learn to compromise with your partner to succeed with them.
 - If you [can't trust your partner](relationships-marriage.md) with your money, separate your assets to avoid more misery.

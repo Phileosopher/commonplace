@@ -66,7 +66,7 @@ None of the following are technically "necessary" for any salvation-based matter
 
 The statement of faith is essentially a [philosophical assertion](philosophy.md) of all aspects that unite your church together.
 
-- It can be long or short, but it *will* be [controversial](conflicts-christian-1_why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+- It can be long or short, but it *will* be [controversial](people-conflicts-christian-1_why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
 - Generally, the more details, the more controversial, but the more likelihood you'll find like-minded believers joining your church (if any).
 
 The [sacraments and rituals](mgmt-church-worship-rituals.md) directly flow from the creeds and catechisms you choose to adopt.
@@ -113,7 +113,7 @@ One combined solution can accommodate *every* member's individual needs:
 Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 - Beyond [Scripture](bible.md), this will be *highly* personal, and won't apply to others.
-- However, Jesus promised [conflict](conflicts-christian-1_why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/bsb/matthew/10.htm)).
+- However, Jesus promised [conflict](people-conflicts-christian-1_why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/bsb/matthew/10.htm)).
 
 If you pull *anything* from existing denominations, you'll also often draw their added criticism because it was inspired from them.
 
@@ -121,7 +121,7 @@ If you pull *anything* from existing denominations, you'll also often draw their
 - Most Catholics believe their rituals *are* part of the journey to salvation (instead of a response that accompanies it) so to them removing the rituals is a lesser version of their faith or outright wrong.
 - Big Eva has tailored the rituals and sacraments to maximize [engagement and appeal](marketing.md), but requires minimal involvement or requirement to change.
 
-Expect [conflicts](conflicts-christian-1_why.md) with other Christians.
+Expect [conflicts](people-conflicts-christian-1_why.md) with other Christians.
 
 - God designed all good things, and using a good thing in its place with Him as part of it is just as spiritual as any long-standing traditions or denominations.
 - Even extremely *non*-religious domains (e.g., [science](science.md), [engineering](engineering.md)) can be holy if Christ is at the center of it.
@@ -133,7 +133,7 @@ Most pastors are territorial, but they sin when they do.
 
 - God appoints each person to a job, and He grants the increase ([1 Corinthians 3:5-9](https://biblehub.com/bsb/1_corinthians/3.htm)).
 - His Church is a vast variety of [cultures](people-culture.md) and [groups](groups-small.md), and anything you do is merely one of those groups.
-- [Every denomination](history-church.md) is simply the result of [conflicts with other denominations](conflicts-christian-1_why.md), and [none of them will last indefinitely](https://theologos.site/millennium/).
+- [Every denomination](history-church.md) is simply the result of [conflicts with other denominations](people-conflicts-christian-1_why.md), and [none of them will last indefinitely](https://theologos.site/millennium/).
 
 ### Organizational hierarchy
 

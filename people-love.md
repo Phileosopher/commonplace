@@ -9,7 +9,7 @@ Love is typically [habitual](habits.md) in day-to-day life, and we begin loving 
 
 The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
-True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
+True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts-why.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
 
 APPLICATION: Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
 
@@ -21,7 +21,7 @@ Love is not only the pinnacle of human existence. It is *the* foundation of all 
 
 1. [Survival](mind-feelings-fear.md) is loving oneself at the present moment.
 2. [Safety](safety.md) is loving one's [foreseeable](imagination.md) future self.
-3. Love/Affection is to love others to gain [friendship](people-friends.md).
+3. Love/Affection is to love others to gain [friendship](people-friends-why.md).
 4. Self-esteem is to love one's [essence](humanity.md).
 5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all of the above.
 
@@ -34,7 +34,7 @@ APPLICATION: All human purpose is driven by love of something, so all people are
 - Rebellion is the love *against* something.
 - Self-destructive desires are frequently the love of nonexistence or a misplaced sense of [justice](morality-justice.md).
 
-We can't directly control what we love. We can only make [decisions](people-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
+We can't directly control what we love. We can only make [decisions](people-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](people-conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
 APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
 
@@ -60,7 +60,7 @@ If we sacrifice more for others than ourselves, we are frequently doing it from 
 
 There are many components for how we can love other people, and it's indefinitely [divisible](logic.md).
 
-APPLICATION: Even when people [pursue](purpose.md) the same thing, they typically don't love the same thing behind the pursuit, and this will eventually create a [conflict](people-conflicts.md) later.
+APPLICATION: Even when people [pursue](purpose.md) the same thing, they typically don't love the same thing behind the pursuit, and this will eventually create a [conflict](people-conflicts-why.md) later.
 
 We can love what a person possesses.
 
@@ -91,7 +91,7 @@ APPLICATION: The most significant [meaning](meaning.md) we can ever find is thro
 
 We can love a [deity](religion.md), [idea](values.md), [feeling](mind-feelings.md), or possession as if it were a physical, present, living thing. Frequently, we'll love specifically what a god possesses, does, etc. as if they were another person.
 
-We can even love the *idea* of someone or something. In this case, we're stripping the [values](values.md) we like from the person and creating an [image](image.md) that [reality](reality.md) can't touch, often harming the actual being that was the [source of inspiration](mind-creativity.md).
+We can even love the *idea* of someone or something. In this case, we're stripping the [values](values.md) we like from the person and creating an [image](people-image-why.md) that [reality](reality.md) can't touch, often harming the actual being that was the [source of inspiration](mind-creativity.md).
 
 Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings-happiness.md) [change](people-changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
 
@@ -109,7 +109,7 @@ We can't see love directly from the [soul](humanity.md), but we can see it throu
 Small variations in portions of what we love creates profound differences in how we demonstrate it:
 
 - Loving someone's [safety](safety.md) more than their [happiness](mind-feelings-happiness.md) will mean protecting them against their [will](purpose.md).
-- Loving something's [use](purpose.md) over its [appearance](image.md) will mean we will damage its exterior over time.
+- Loving something's [use](purpose.md) over its [appearance](people-image-why.md) will mean we will damage its exterior over time.
 - Loving an idea's [application](people-decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
 - Loving our present self over our future self provokes us to avoid [planning for the future](imagination.md).
 
@@ -142,6 +142,6 @@ APPLICATION: We don't always see the results of love immediately, so the groundw
 
 Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
-Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
+Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts-why.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
 Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").

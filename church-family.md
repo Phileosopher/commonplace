@@ -37,7 +37,7 @@ The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians
 5. Men must not divorce.
 6. As Paul's opinion (i.e., not a hard rule but a good guideline), nonbelievers and believers should stay married if the nonbeliever is okay with it, but it's fine if they leave.
 
-While it never excuses [bad boundaries](people-boundaries.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
+While it never excuses [bad boundaries](people-boundaries-why.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
 
 1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))
 2. [Spouse](gender.md), even when you can't stand them, they [sin](morality-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/bsb/ephesians/5.htm))

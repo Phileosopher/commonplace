@@ -5,7 +5,7 @@ Symbols are [value](values.md) patterns we've connected across our perceptions. 
 
 When we process [facts](reality.md), we use symbols to track patterns that create the [stories](stories.md) we eventually encode into our [memories](mind-memory.md).
 
-Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* more loudly in our [minds](humanity.md) than [perceptions](image.md) or [language](language.md) alone.
+Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* more loudly in our [minds](humanity.md) than [perceptions](people-image-why.md) or [language](language.md) alone.
 
 We send and store ideas with symbols. The more elaborate and complicated the idea, the more symbols we need.
 
@@ -15,7 +15,7 @@ Because of its emotional nature, a symbol represents many elements a person will
 
 APPLICATION: Symbols resonate with feelings, and our eyes determine a *lot* of our perception, which is why a picture says a thousand words.
 
-People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts.md) typically comes through the [feelings](mind-feelings.md) they associate toward that group.
+People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts-why.md) typically comes through the [feelings](mind-feelings.md) they associate toward that group.
 
 Skill in [communication](people-conversation.md) allows us to use fewer symbols to say the same things. Expert writers can say more in three sentences than an awful writer can in ten pages.
 
@@ -82,7 +82,7 @@ The volatility of our symbolic associations shows itself when we rebuild the sam
 
 ## Risks
 
-We create symbols from literally everything, so we have no other way to understand the world. It's usually reliable, but people who desire [power](power.md) will [distort how something looks](image-distortion.md) for their purposes.
+We create symbols from literally everything, so we have no other way to understand the world. It's usually reliable, but people who desire [power](power.md) will [distort how something looks](people-image-distortion.md) for their purposes.
 
 APPLICATION: Don't fall for symbolic association enough that your ability to perceive the [facts](reality.md) of anything becomes clouded.
 

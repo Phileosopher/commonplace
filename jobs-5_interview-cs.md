@@ -71,4 +71,4 @@ If you're interviewing for a smaller tech company (like a startup), don't be afr
 
 The tech industry, at least in the early 2020's when I write this, is susceptible to [severe discrimination](hardship.md) based on age (preferring younger), and often leans [leftward](politics-leftism.md) in its discrimination against race (preferring against white) and gender (preferring against cisheteronormative nonquestioning male).
 
-The beauty of remote work, however, is that you don't have to *be* whatever you wish to be. You just have to [look it](image.md) for the interviews.
+The beauty of remote work, however, is that you don't have to *be* whatever you wish to be. You just have to [look it](people-image-why.md) for the interviews.

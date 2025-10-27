@@ -1,5 +1,5 @@
 
-# List of universal laws and axioms - large-scale rules 
+# List of universal laws and axioms - large-scale rules
 
 Ashby's Law of Requisite Variety - The number of unique states to control something is always more than the number of unique states of the thing being controlled.
 
@@ -178,7 +178,7 @@ Wiio's Third Law - People understand your message better than you.
 
 Wiio's Fourth Law - More communication creates more and faster confusion.
 
-Wiio's Fifth Law - Mass communication is more focused on [appearances](image.md) than [reality](reality.md).
+Wiio's Fifth Law - Mass communication is more focused on [appearances](people-image-why.md) than [reality](reality.md).
 
 Wiio's Sixth Law - The more information travels, the less important it is.
 

@@ -113,7 +113,7 @@ Stay mindful of what you say during another person's speech:
 Note any [power dynamics](power.md):
 
 - Even if you aren't concerned about power dynamics, most people keep a small score of everyone's status and *constantly* compare their status with you.
-- Further, people tend to try to "even the score" wherever they are, which often involves performing favors or asking for them, and sometimes [generating conflicts](people-5_conflicts.md).
+- Further, people tend to try to "even the score" wherever they are, which often involves performing favors or asking for them, and sometimes [generating conflicts](people-conflicts.md).
 - If you're speaking to someone with authority, keep your responses shorter and let them talk more.
 - If someone is famous, only discuss their latest work, or don't mention it.
 - Don't be afraid to bring someone else without as much power into the conversation affiliated with that powerful person.
@@ -129,12 +129,12 @@ Depending on everyone's cooperation and judgment, communication is a diatribe, d
   - Discourse is when the listener is quietly cooperating, but diatribes are when the speaker is forcing the conversation.
   - Most public speeches and written articles are discourse, the rest are diatribes.
   - People share one-way exchanges (such as this guide here) when they want to say something important.
-  - Generally, discourse tries to inform while diatribe tries to convince or [coerce](people-5_conflicts.md).
+  - Generally, discourse tries to inform while diatribe tries to convince or [coerce](people-conflicts.md).
 - Dialogue and debate are two-way exchanges:
   - Dialogue is when everyone in the conversation wants to exchange information and build relationships, which means suspending their judgment.
   - The conversation switches to a debate when one person is trying to convince or coerce, but while other people can still provide feedback.
   - Most healthy conversations are dialogue.
-  - Debates usually arise over a [conflict](people-5_conflicts.md) or are formally established to discuss that conflict.
+  - Debates usually arise over a [conflict](people-conflicts.md) or are formally established to discuss that conflict.
 
 In dialogue and debate, only share 1-2 ideas at a time:
 
@@ -229,7 +229,7 @@ Pay careful attention to whether the culture respects asking or guessing:
 
 - "Ask" culture is low-context, and requires the requester to plainly ask if they need something.
   - It revolves around the idea that if someone needs something, they're responsible to ask it.
-  - This does place a burden on the recipient saying "no", but means nobody will have hurt feelings if they *do* [politely decline it](people-5_conflicts.md).
+  - This does place a burden on the recipient saying "no", but means nobody will have hurt feelings if they *do* [politely decline it](people-conflicts.md).
 - "Guess" culture is low-context, and requires the responder to read nonverbal cues to see if the other person needs something.
   - It revolves around the idea that someone else who has something should be considerate of what other people need.
   - The other person is legitimately inconvenienced to serve the person asking, but gives them the comfort that they were thinking about them.
@@ -249,7 +249,7 @@ People make their first impressions within 7 seconds of seeing someone:
 
 Work on your image for when people see you enter a room:
 
-- [Dress and groom](people-2_image.md) as well as the best-dressed people at the venue.
+- [Dress and groom](people-image.md) as well as the best-dressed people at the venue.
 - Improve your physical appearance by working on your [weight and fitness](body-3_exercise.md).
 
 Practice greeting people:
@@ -347,7 +347,7 @@ Stay focused on your purpose for being there:
 - The purpose of the engagement is to brush shoulders and leave a first impression and contact details for later with everyone who might serve a future [purpose](purpose.md) to you.
 - After you've met everyone you wanted to meet, leave for your next event.
 - Ideally, show up early and meet people as they arrive, then leave before the event is over.
-  - Never staying too long has the advantage of making you mysterious (and therefore interesting) and avoiding any potential public [conflicts](people-5_conflicts.md).
+  - Never staying too long has the advantage of making you mysterious (and therefore interesting) and avoiding any potential public [conflicts](people-conflicts.md).
 
 Carefully listen before entering an in-progress conversation:
 

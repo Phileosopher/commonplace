@@ -1,7 +1,7 @@
 
 # How understanding works
 
-To understand is to grasp [reality](reality.md) by interpreting and deriving [meaning](meaning.md) through the [purposes](purpose.md) we interpret. This usually requires looking beyond whatever things [look like](image.md) to see how things really are.
+To understand is to grasp [reality](reality.md) by interpreting and deriving [meaning](meaning.md) through the [purposes](purpose.md) we interpret. This usually requires looking beyond whatever things [look like](people-image-why.md) to see how things really are.
 
 All forms of [logic](logic.md), [math](math.md), [beauty](values-quality.md), [grouping](values.md), and [social groups](groups-small.md) compose together to create our understanding. We usually can't handle the [uncertainty](unknown.md) from not knowing, so we far more often tend to misunderstand than *not* understand.
 
@@ -15,7 +15,7 @@ When we understand things to the point of [usefulness](purpose.md), we've acquir
 
 APPLICATION: There are far too many [unknown](unknown.md) things with elements we can't know to reliably reach the end of understanding anything. For that reason, knowledge is only worth gaining if we can direct ourselves to a tangible [purpose](purpose.md).
 
-Our [perceptions](image.md) are limited, so we take perceived facts by [trusting](understanding-certainty.md) something. We always structure our beliefs [logically](logic.md), but they're not always rational.
+Our [perceptions](people-image-why.md) are limited, so we take perceived facts by [trusting](understanding-certainty.md) something. We always structure our beliefs [logically](logic.md), but they're not always rational.
 
 - *Rational* thoughts, by contrast to logical ones, are tempered by intuition derived from [feelings](mind-feelings.md).
 
@@ -44,7 +44,7 @@ With adverse experiences, we can only learn from them if we take [responsibility
 
 We then process the information:
 
-1. We assemble the information in our mind using [visual imagery](image.md) and [language](language.md).
+1. We assemble the information in our mind using [visual imagery](people-image-why.md) and [language](language.md).
 2. [Our bias](mind-bias.md) filters the information to get rid of the useless parts.
 3. If we're not sure, we'll either [analyze](logic.md) or [meditate](awareness-meditation.md) on what we've received, or will seek our environment for more information.
 4. Our [soul](humanity.md) identifies when the remainder is sufficient that we can adequately [imagine](imagination.md) what we're observing.
@@ -99,7 +99,7 @@ Often, the best way to understand something is to [write it down](language-writi
 
 ## The perspectives from understanding
 
-There are *many* ways to [see something](image.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](people-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
+There are *many* ways to [see something](people-image-why.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](people-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
 
 The best way to understand other perspectives isn't from simply understanding what someone believes, or whether it's [right or wrong](morality.md). To understand another viewpoint, you must understand *why* they came to that conclusion, and the implications of that set of ideas.
 
@@ -109,11 +109,11 @@ APPLICATION: To gain the greatest understanding, we must push to find new experi
 
 Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](https://gainedin.site/networks/) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
 
-Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](people-decisions.md) how they want to [see things](image.md). This also bleeds into the range of their [identity](identity.md) as well.
+Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](people-decisions.md) how they want to [see things](people-image-why.md). This also bleeds into the range of their [identity](identity.md) as well.
 
 We also must revisit the same expression multiple times to accurately capture it, often through [self-reflection](imagination.md). For that reason, people with heavy understanding are often very ponderous and thoughtful, and sometimes very slow to act.
 
-Of course, when people *don't* want to understand, they build [relationships](people-friends.md) with each other over that ignorance. We tend to [associate](people-friends.md) others who share our level of [passion](purpose.md) for understanding far more than [specific disciplines](jobs-spcialization.md) we share.
+Of course, when people *don't* want to understand, they build [relationships](people-friends-why.md) with each other over that ignorance. We tend to [associate](people-friends-why.md) others who share our level of [passion](purpose.md) for understanding far more than [specific disciplines](jobs-spcialization.md) we share.
 
 ## The depth of understanding
 
@@ -121,8 +121,8 @@ We experience degrees of understanding as we become familiar with something. It'
 
 There are three broad classes of things we can understand:
 
-1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](image.md), and [doing](results.md). Usually, it's proportional to [perceived](image.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
-2. Second, we can understand things. Those things are always [perceptible](image.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
+1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
+2. Second, we can understand things. Those things are always [perceptible](people-image-why.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
    - Physical context - [location-based](logistics-navigation.md) attributes
    - [Cultural](people-culture.md) context - human beliefs and perceptions
    - [Historical](stories.md) context - period of time and events
@@ -163,7 +163,7 @@ E. Rebuilding
 
 F. Integration
 
-- We have complete understanding of something, with all its [facts](reality.md) and [implications](image.md).
+- We have complete understanding of something, with all its [facts](reality.md) and [implications](people-image-why.md).
 - Skills are unconscious competence: our muscle memory does it well [without our conscious thought](habits.md), and we often even [identify](identity.md) with it.
 - Once we've integrated understanding, we judge other ideas and methods from this basis of understanding.
 - If we can stay in this domain, we continue mastery on the subject.
@@ -221,7 +221,7 @@ We generally attain the peak of our understanding on a subject when we can maint
 
 ## What intellect is
 
-Whether our understanding *is* [truth](reality.md) depends on the range of the experiences we've gathered and how much we've tested them. The thoroughness of that testing is often called "[intelligence](personality.md)". This comes through both our abilities to [observe](image.md) our environment alongside [introspection](conflicts-inner.md).
+Whether our understanding *is* [truth](reality.md) depends on the range of the experiences we've gathered and how much we've tested them. The thoroughness of that testing is often called "[intelligence](personality.md)". This comes through both our abilities to [observe](people-image-why.md) our environment alongside [introspection](people-conflicts-inner.md).
 
 Intelligence is our raw ability to work with things, but understanding is the ability to know *what* to do with the things we observe. Wisdom takes it a bit further about knowing *when* it's a good idea to do those things.
 
@@ -233,19 +233,19 @@ In a sense, the [virtue](morality.md) of honesty or integrity directly correspon
 
 APPLICATION: If an intellectual has been able to easily comprehend their environment, that person is often less wise because they never had to learn the patience necessary to understand the fullest aspect of the things they observe.
 
-We often gain the most wisdom from things we [disagree with](conflicts-inner.md) and hate, since they're so diametrically opposed to our [way of life](people-culture.md) that we're immediately [purposed](purpose.md) to [disprove it](conflicts-inner.md) or discover [the truth](reality.md).
+We often gain the most wisdom from things we [disagree with](people-conflicts-inner.md) and hate, since they're so diametrically opposed to our [way of life](people-culture.md) that we're immediately [purposed](purpose.md) to [disprove it](people-conflicts-inner.md) or discover [the truth](reality.md).
 
 ## Confidence in understanding something
 
-As we're trying to understand things, we often discover what we don't know and feel *less* certain about it. This is only natural since we're unfamiliar with new things, but anything "new" [only seems that way to us at the time](image.md).
+As we're trying to understand things, we often discover what we don't know and feel *less* certain about it. This is only natural since we're unfamiliar with new things, but anything "new" [only seems that way to us at the time](people-image-why.md).
 
-Wise people know how little they understand, but also aren't afraid to [look](image.md) stupid in their [search](purpose.md), so they're still [confident](trust.md) they *can* attain understanding and that it's worth at least some sacrifice of their [reputation](image.md) to get it.
+Wise people know how little they understand, but also aren't afraid to [look](people-image-why.md) stupid in their [search](purpose.md), so they're still [confident](trust.md) they *can* attain understanding and that it's worth at least some sacrifice of their [reputation](people-image-why.md) to get it.
 
-APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](people-culture.md) and [conflict](conflicts-inner.md), but fools often disregard them.
+APPLICATION: The wise and foolish are the most confident, both of them from believing they've discovered the end of things. The difference is in whether they have. Wise people typically consider [culture](people-culture.md) and [conflict](people-conflicts-inner.md), but fools often disregard them.
 
 APPLICATION: Question obvious things. The more mundane and obvious, the more likely everyone else overlooks an apparent fact. The same rule goes for [taboo](morality-taboo.md) subjects.
 
-At a certain point, increasing our understanding will simplify things and create more clarity. Once we've grasped the full [image](image.md) of that thing as far as it can go (which happens eventually because everything but [God](religion-answers.md) has finite components), we find [certainty](understanding-certainty.md) in what we understand.
+At a certain point, increasing our understanding will simplify things and create more clarity. Once we've grasped the full [image](people-image-why.md) of that thing as far as it can go (which happens eventually because everything but [God](religion-answers.md) has finite components), we find [certainty](understanding-certainty.md) in what we understand.
 
 APPLICATION: The more we know, the more possible perspectives we see we may be able to have, and the more we realize we don't know. The pinnacle of understanding is to see how little we ultimately know while also enjoying the journey.
 
@@ -257,7 +257,7 @@ At the same time, confidence for wise people is granular. For example, someone m
 
 APPLICATION: Often, true understanding doesn't come in what you know, but in knowing intuitively that something is wrong or worth ignoring. The only way to find it out is through very close observation.
 
-APPLICATION: Since we must accept how little we know, more [information](image.md) makes wisdom harder to maintain. The only way to stay wise *and* intelligent is with many [inner conflicts](conflicts-inner.md) over what we'd conventionally [perceive](image.md) and [believe](understanding-certainty.md).
+APPLICATION: Since we must accept how little we know, more [information](people-image-why.md) makes wisdom harder to maintain. The only way to stay wise *and* intelligent is with many [inner conflicts](people-conflicts-inner.md) over what we'd conventionally [perceive](people-image-why.md) and [believe](understanding-certainty.md).
 
 When someone tests experience against [reality](reality.md), they will discover truth. They know with [absolute certainty](understanding-certainty.md) they've found it, so they don't need to reassess it, and it becomes a [mental habit](habits.md) that slowly moves to the subconscious. People often describe tested experiences as "experience" or "enlightenment", but it's also known as "common sense" when most people in a [group](groups-member.md) automatically believe it.
 
@@ -279,7 +279,7 @@ Small, trite experiences that veer close to feeling like a paradox represent the
 
 Most [creative works](creations.md) and [leadership](groups-small.md) harness these shared experiences to [influence](influence.md) others toward [purposes](purpose.md), usually sprinkled throughout a larger body of work. When those purposes are grandiose, the individuals engaged in it attain a type of [religious fervor](religion.md) driven by a collective understanding and unified purpose.
 
-Of course, the idiosyncratic details of those [values](values.md) are partially lost in the process, but the shared [effects](results.md) of everyone's belief (along with the [conflicts they're engaged in](people-conflicts-war.md)) obscure that fact.
+Of course, the idiosyncratic details of those [values](values.md) are partially lost in the process, but the shared [effects](results.md) of everyone's belief (along with the [conflicts they're engaged in](people-conflicts-war-why.md)) obscure that fact.
 
 We never entirely understand *each other* fully, though. The domain of others' minds is always partly off-limits to our deepest capacity to know and experience.
 
@@ -288,7 +288,7 @@ We never entirely understand *each other* fully, though. The domain of others' m
 We tend to measure others' understanding by *their* [confidence](understanding-certainty.md), but it's a double-edged sword:
 
 1. Increasing understanding often creates *less* confidence as we gain awareness of the sophisticated components of the thing.
-2. People can [fake](image-distortion.md) confidence, so they'll exploit the [image](image.md) of confidence to gain [power](power.md) with what they're not showing (sprezzatura).
+2. People can [fake](people-image-distortion.md) confidence, so they'll exploit the [image](people-image-why.md) of confidence to gain [power](power.md) with what they're not showing (sprezzatura).
 
 Understanding is difficult to measure because that measurement can come through various [results](results.md) that vary wildly:
 
@@ -298,7 +298,7 @@ Understanding is difficult to measure because that measurement can come through 
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
 
-APPLICATION: We only understand something when we can articulate the opposing views to that idea so well that believers in that opposition will agree. The best thing we can do is frequently [disagree](conflicts-inner.md) with what we read and hear even when it [feels](mind-feelings.md) like sound reasoning, just to see what happens when we do.
+APPLICATION: We only understand something when we can articulate the opposing views to that idea so well that believers in that opposition will agree. The best thing we can do is frequently [disagree](people-conflicts-inner.md) with what we read and hear even when it [feels](mind-feelings.md) like sound reasoning, just to see what happens when we do.
 
 However, civilized society requires that people be [educated](education.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](results.md).
 
@@ -320,7 +320,7 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 Possessing understanding creates a severe blind spot because it makes us [certain](understanding-certainty.md) of specific things, which will slowly develop as presumed [patterns](symbols.md) of how [reality](reality.md) works.
 
-- If someone else has a differing [viewpoint](image.md), even with a similar scope of logical rigor, it's *extremely* tempting to dismiss the person without considering their ideas.
+- If someone else has a differing [viewpoint](people-image-why.md), even with a similar scope of logical rigor, it's *extremely* tempting to dismiss the person without considering their ideas.
 - Since understanding is effectively a composite of finely-tuned [bias](mind-bias.md), there is a strategic advantage to having no knowledge, especially as [reality changes](reality.md).
 - Rational people can be susceptible to dumb ideas proportional to how much they [trust](understanding-certainty.md) their intelligence.
 

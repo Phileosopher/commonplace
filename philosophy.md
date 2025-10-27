@@ -9,7 +9,7 @@ Every discipline is configured to address a specific portion of living:
 
 - [Accountants](money-accounting.md) keep financial records.
 - Farmers and ranchers tend to [nature](reality.md) to create [food](agriculture.md) for others.
-- [Attorneys](legal-doctrines.md) maintain and enforce [boundaries](people-boundaries.md) and [potential conflicts](people-5_conflicts.md) between people.
+- [Attorneys](legal-doctrines.md) maintain and enforce [boundaries](people-boundaries-why.md) and [potential conflicts](people-conflicts.md) between people.
 - [Computer programmers](computers-software.md) create [logic](logic.md)-based [automation](computers-programming.md).
 - Mechanics and technicians [repair](https://adequate.life/fix/) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
@@ -78,7 +78,7 @@ The major downside of their approach, though is that they were obsessed with usi
 
 At some point, philosophers had broadly explored almost everything about how to live and be, but many of them weren't finding the [purpose](purpose.md) they were seeking without the support of a [religious framework](religion.md). Most of the modern philosophers like Hume, Kant, and Kierkegaard were seeking absolute [understanding](understanding.md) without any foundation based on [things we're unable to know](unknown.md).
 
-In the process of trying to find something that requires zero [uncertainty](trust.md) to know, post-modern philosophers dismantled the building blocks of antiquity. They separated [perception](image.md) from [reality](reality.md), [morality](morality.md) from [perception](image.md), and [morality](morality.md) from [reality](reality.md).
+In the process of trying to find something that requires zero [uncertainty](trust.md) to know, post-modern philosophers dismantled the building blocks of antiquity. They separated [perception](people-image-why.md) from [reality](reality.md), [morality](morality.md) from [perception](people-image-why.md), and [morality](morality.md) from [reality](reality.md).
 
 To the casual reader seeking [meaning](meaning.md) through post-modern writing, the results of this effot makes very little sense. They spent lots of time telling us how to *not* live, but they give very little guidance on how *to* live. Some philosophers (e.g., Nietzsche, Mill) imply we must find [purpose](purpose.md) in a purposeless philosophical void, but they don't give practical reasons why that's even worth trying.
 
@@ -113,7 +113,7 @@ Philosophy's [culture](people-culture.md) has become a [trended](trends.md)-out 
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
 - At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science-social.md), and [computer science](computers.md).
 
-The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](image.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
+The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](people-image-why.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 
 APPLICATION: Most philosophy (as well as [theology](theology.md)) [educators](education.md) teach *about* philosophy, but fail to teach *with* philosophy or *how* to use philosophy.
 
@@ -144,7 +144,7 @@ APPLICATION: The time and place for philosophy is when it builds into [the good 
 Be careful who you read, though. The [culture](people-culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
 1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
-2. Transforming society is an [uphill battle](people-conflicts.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
+2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
 APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories.md) or a few years of life experience.

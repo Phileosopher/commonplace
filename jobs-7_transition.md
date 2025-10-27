@@ -103,7 +103,7 @@ Watch out for exit interviews:
 - Be very, very careful about what you say.
   - If you speak vaguely or positively about why you left, you have nothing to lose.
   - By speaking out directly against the organization, the management may hate you and you could potentially get into [legal trouble](legal-safety.md).
-- Of course, if you believe what you say will create change, and you already have a well-established [reputation](image.md) elsewhere, be as blunt as you want and don't expect anyone to care or change.
+- Of course, if you believe what you say will create change, and you already have a well-established [reputation](people-image-why.md) elsewhere, be as blunt as you want and don't expect anyone to care or change.
 - The most useful thing to do with your experience is to clearly know what to *not* do in your own life and decisions in the future.
 - Know beforehand what you want to say and how much information you want to share.
 

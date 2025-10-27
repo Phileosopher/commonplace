@@ -105,7 +105,7 @@ Social skills encompass a *wide* variety of small skills that fit various circum
 8. Ability to [detect lies](people-lying.md)
 9. Politely confronting others about genuine feelings
 10. Capturing and keeping others' attention
-11. Navigating around or defusing [conflicts](people-5_conflicts.md)
+11. Navigating around or defusing [conflicts](people-conflicts.md)
 12. Capacity for language and the ability to [write](language-writing.md)
 13. Public [speaking](language-speaking.md)
 14. Special situations like a business environment, leadership roles, and formal events
@@ -115,4 +115,4 @@ Social skills encompass a *wide* variety of small skills that fit various circum
 
 The full breadth of social skills goes beyond this guide, but everyone requires at least a little of each social skill.
 
-Before showing yourself in public, though, you must [make yourself presentable](people-2_image.md).
+Before showing yourself in public, though, you must [make yourself presentable](people-image.md).

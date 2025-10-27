@@ -19,7 +19,7 @@ What men must learn:
   - Give at least two months' notice for any large decision, including [marriage proposals](relationships-weddings.md) and [children](parenting-babies.md).
   - Always stay open to expanding your [awareness](awareness.md) of feelings and sentiments.
 - Usually, a woman will vent her frustrations, but do *not* try to fix it: just [listen](language-speaking.md).
-- Learn additional [self-maintenance](people-2_image.md) to meet a woman's standard.
+- Learn additional [self-maintenance](people-image.md) to meet a woman's standard.
 - Men are typically unaware of many situational risks, so listen to women.
 
 What women must learn:

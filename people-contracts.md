@@ -1,346 +1,209 @@
 
-# How social contracts work
+# How to make contracts with others
 
-*NOTE: I'm not a lawyer. This simply explains business contracts in plain English. This is not legal advice.*
+To stay [safe](legal-safety.md), losely consider *your* responsibilities in any explicit or implicit contract.
 
-When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](imagination.md) there will be future performance.
+- Never take a gift if you have *any* questions about the other person's trustworthiness.
+  - Receiving a gift from someone earns them an unspoken favor, which is [exposure](safety-riskmgmt.md) to an unknown obligation.
+  - Stay *especially* careful of gifts given outside the normal flow of gift-giving behavior.
+- Be careful even providing *information*, since it may represent an implicit contract.
+  - Often, most [marketing](marketing.md) gimmicks (e.g., free car sweepstakes) are designed to get information they can use for future contact.
+- Since anything can exist as a contract, many scams are also viable contracts.
+- Many contract provisions may be a perfectly legal violation of [civil rights](people-boundaries-why.md):
+  - Punitive non-compete agreements
+  - No-criticism agreements
+  - Usage of personal [intellectual property](legal-ip.md)
 
-*Everything* we do with others that isn't out of [love](people-love.md) is an agreement for one of our [purposes](purpose.md):
+Only make promises you can fulfill.
 
-- [Expectations](imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
-- A [fear](mind-feelings-fear.md), driven by self-preservation, from witnessing someone else's [power](power.md) to harm them.
-- [Trust](trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
+- If they want more promises, plainly state what you'll do and promise you'll do your best.
+- *Never* promise you'll do something when you're unsure, and make *constant* disclaimers that your performance is likely but not guaranteed.
+- You *can* use terms that imply intent but don't state it:
+  - e.g., "I can definitely do that." (later, after not doing it) "I didn't say I would."
+  - It's [unethical](morality.md) and will get you in court more frequently, but you'll probably win the case unless the judge doesn't like you.
+- When estimating the consequences (e.g., as a consultant), bluntly give the worst-case possibility alongside the worst-case *likely* possibility (to prepare them for the worst).
+  - The safest way to consult is to *never* be more optimistic than what's likely to happen.
 
-These agreements exist so we can feel safe about what others will do with us. In the absence of [evil](morality-evil.md), we wouldn't need them.
+Watch the timing of what you say.
 
-Each agreement works through a similar [story](stories.md):
+- Only speak freely when you know with *absolute* certainty that nobody is recording you.
+- If you know someone tends to take screenshots of conversations, send them audio recordings instead.
+- Interacting with the wrong person in the wrong context can lead to a civil case.
 
-1. Initial engagement by at least one person [expressing interest](people-conversation.md) in a [purpose](purpose.md) connected with someone else. In a casual engagement, it's usually a slow transition, with both sides respecting what they [see](image.md) as the others' rights.
-2. Discussing a negotiation of terms, both implicit and explicit.
-3. The entire duration of the agreement, which can last for minutes to decades. Both sides usually can [feel](mind-feelings.md) how long they [expect](imagination.md) the agreement to last, even without anything formalized.
-4. The agreement will terminate if it stops being useful to *both* sides, sometimes prematurely. If the side with more [power](power.md) still wants the agreement, they can often [coerce](influence.md) the other side to stay in that agreement. In this world, nobody usually cares about the side with less power, though there's plenty of [politics](politics-conservativeliberal.md) in discussing it.
+When you get a middle party, pay *very* close attention to what you are gaining from their existence.
 
-The negotiation often involves making promises based on boundaries set in the future (i.e., [expectations](imagination.md)). Even if we don't articulate those boundaries, we still hold them and expect others to respond at a later time.
+- Many people find ways to get in the middle of things where they're not necessary.
+- In the case of many long-term arrangements, they'll treat you very well on the first engagement, then ignore your needs on subsequent interactions.
 
-The value we give to others in exchange for doing something (often represented as money) comes from a few variables:
+## Consenting
 
-1. How much we don't [enjoy](mind-feelings-happiness.md) the task.
-2. How difficult it would be for us to [learn or do it ourselves](understanding.md).
-3. How little we'd [trust](understanding-certainty.md) complete strangers to do the work.
-4. The likelihood we [believe](understanding-certainty.md) that person would succeed at the task.
-5. The consistency or inconsistency of finding *other* people to do that job.
-6. How [dishonorable](image.md) or [disreputable](morality-taboo.md) the job is.
+Before consenting to *anything*, research beforehand about the reasonable cost and standards for goods and services.
 
-By using [language](language.md), we can make promises to clarify what we agree on. How well we honor those agreements has an *immense* impact on our [reputation](image.md).
+- If you're not careful, consenting to a contract may force you to:
+  - Pay more than you expected
+  - Make less than you thought was promised
+  - Do something unethical
+  - Waive your rights
+  - Continue to perform until an arbitrary standard (e.g., "until work has been completed")
+- Make sure you have the right to terminate a contract for any reason whatsoever and, in the interest of [fairness](morality-justice.md), they have that right as well.
+  - If termination will cause an undue burden, clearly demarcate the consequences (e.g., cancellation fee, notice required before cancellation).
+- Watch for "all-in-one" services that could be inadequate for what you need.
+- Stay cautious of emerging high-risk areas, especially [new ventures](entrepreneur-1_why.md) or small operations.
 
-Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](trends.md) across its duration.
+Pay close attention to opt-in or opt-out status, since its default state can be a [dark pattern](engineering-design.md).
 
-The person or group who most wants to leave the engagement will transition through phases of distancing if they've found a better means to their [purpose](purpose.md):
+- Opt-in makes the default condition to opt-out, and it may be discriminatory or work against the interests of the consenting party.
+- Opt-out makes the default condition opt-in, which may make the consenting party agree to something they weren't aware of.
 
-1. Pursuing different [interests](purpose.md) than the other.
-2. Performing different [actions](results.md) than the other's [expectations](imagination.md).
-3. Waiting indefinitely for the other party to engage in the inevitable looming [conflict](people-5_conflicts.md), and often intentionally avoiding them to prevent it.
-4. Officially confronting the tension and terminating the shared experience.
+In all engagements, either include or request a mediation/arbitration clause or limitation of liability clause.
 
-In the case of a group who wants to keep [power](power.md), they'll try to make *new* agreements that intensify or add to possible [purposes](purpose.md) of the departing party. This is the cause of both harsh [government regulations](people-rules.md) and [pay increases](power-types.md).
+*Always* read the contracts you sign ("caveat emptor"), and never sign an agreement you don't fully [understand](understanding.md).
 
-## Agreements
+- The large print hides what the small print can take away.
+- Pay close attention to the definitions at the beginning of the contract, since it typically frames the scope of words and their usage in the document.
+- Stay closely aware of the rights for any named entities (e.g., The Holding Company).
+  - Often, a third party has the power to perform actions the contract-writer can't do, but can [ask *them* to do it](mgmt-badsystems.md).
+- If you can't read it because it's too difficult, make sure someone you trust (e.g., a legal-minded family member, an attorney) skims through it.
+- If you don't have access to what you're signing, do *not* sign.
 
-Since written history, people make agreements. Most [religions](religion.md) and [stories](stories.md) involve *some* type of tit-for-tat obligation, and it extends to how we carry out activities within society.
+To avoid an urgent [decision](people-decisions.md), give as much time as possible to review a contract (e.g., set a future effective date).
 
-When a person acts, they are only performing any form of sacrifice from 3 possible non-exclusive motivations:
+- If you're not sure about *all* the clauses involved in the contract, give it time to read through it or consult a professional who would know more.
+- Generally, more disclosures and clauses are *them* trying to protect or insulate themselves from *you*.
+- Watch for [dark patterns](engineering-design.md) that streamline your consent, since it's usually to coerce consent, which no reasonable person would agree to if they read them.
 
-1. Generosity, which is typically driven by [love](people-love.md) or [moral duty](morality.md).
-2. [Habit](habits.md), typically without thinking about it.
-3. Some form of [belief](understanding-certainty.md) or [expectation](imagination.md) about a return on that sacrifice, which is a "contract".
+Note any terms which may hurt your capacity for choices later.
 
-Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](relationships-marriage-secularcontract.md) and [religious arrangements](god-contracts.md) are a type of contract.
+- When the other party is *much* more powerful than you (e.g., large organization, franchisor), be very cautious about your responsibilities in the arrangement and the procedure for resolving [conflicts](people-conflicts.md).
+- Pay extra attention to any exclusive or non-exclusive domains, since the power dynamic is tilted against your interests if *they* have unlimited license, but *you* must exclusively use something in particular.
+- Pay close attention to the scope of automatic renewal clauses. You may consent to a service that you must pay for *way* longer than you expected.
 
-Absolutely *any* promise ("covenant") can veer into becoming an implicit contract. If a person feels responsible for anything, and it's connected to something the other person gave, it's technically an implied contract.
+If there's a warranty, track its duration.
 
-Generally, we gain our [reputation](image.md) in society at large by fulfilling contracts, so understanding how they work and what to do with them is critical to avoid exploitation. A government can never grant the contracts we make beyond their influence, but they *can* enforce them.
+- The warranty period is often a precise measurement before the device was [engineered](engineering.md) for planned obsolescence.
+- If it's "as is", expect the possibility you'll [fix something yourself](https://adequate.life/fix/) soon.
+- If you can pay for an extended warranty, closely consider if it's worth the cost and its additional terms (since they often profit from it).
 
-A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](slavery.md) or a [mental disorder](personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
+*Always* look ahead to how a contract terminates, even if you don't think it ever will.
 
-The [legal jargon](glossary-legal.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
+- Note the region's laws or arbitration remedies that take effect in the most likely adverse events.
+  - The rules for the region may be different based on the offering party's location versus yours.
+- Watch for mandatory arbitration clauses that prevent you from taking action against the other party in the case of an injury without their approval.
+- Calculate the cost for canceling the contract later.
+  - If you're required to provide a notice before the cancellation date, you'll be responsible to pay that difference.
+  - Add in any administration fees indicated for cancellation.
+  - If there is *no* cancellation clause, you'll likely have to pay for the entire term each time.
 
-The philosophy of the contract can be a bit dense, and is typically only discussed by law geeks:
+If at all possible, try to manage every arrangement which could cause adverse situations.
 
-- Jean-Jacques Rousseau's social contract implied that each person had their own innate and inalienable rights, which couldn't be taken legitimately by a governing authority.
-- The "complete contract" implies that there's a theoretical complete contract that outlines *all* rights and duties for every possible future state of the world, but it would be prohibitively expensive to write, so attorneys settle on being as thorough as possible with unspoken "default rules" that can be amended and "mandatory rules" that can't.
-- Classical and neoclassical contract theory treats each contract as its own independent transaction, without any context to the world around it.
-- Relational contract theory interprets each contract as a set of relationships, *not* as discrete transactions.
-- The psychological contract is implied to exist as a framework of trust within employment/employee relationships.
-- For goods and services, there's a presumption a buyer who chooses to purchase from a seller has certain implicit assurances that create an "implied warranty", though "as is" can disclaim it.
+- If you have a [loan](money-2_debt.md), the collateral is *always* at risk of being lawfully claimed by the lienholder, even if you only owe $1.
+- In any [employment](jobs-1_why.md) capacity, the non-compete, non-disclosure and non-solicitation agreements are *very* enforceable in a civil lawsuit.
+- Fewer contracts mean you get less done, but also have less [risk exposure](safety-riskmgmt.md).
 
-There are *many* clauses and conditions which could make a contract more complex, and [creative](mind-creativity.md) lawyers think of more permutations all the time. Most non-lawyers don't need anything that complicated, and simple contracts are a *very* effective way to enforce what we say we will do.
+In an uneven power dynamic (e.g., you're an [employee looking for a job](jobs-1_why.md)), don't be afraid to discuss amending the contract.
 
-The durability of a contract comes from how much both sides view it as fair. If one side feels they're being exploited, they'll likely terminate the contract, and both sides will generally be unhappier for the experience.
+- Instead of editing the proposed contract itself (since lawyers may require it to be there), add a rider.
+  - Make sure the rider says at the bottom, "If any portion of this rider conflicts with the main contract, the terms of this rider will override the terms of the contract."
+- You can also simply say, "this contract isn't worth enough to justify these provisions. We can bump the contract if you'd like, but otherwise I'm not interested".
+  - They'll typically modify their contract, since they would rather not pay more money.
+- Learn [the power of saying "no"](people-conflicts.md), since absolutely any contract comes with *many* implications.
+  - If you do *not* modify the contract, any verbal promises will *not* be enforceable ("parol evidence rule").
+- If you're working with a *very* prestigious party, you *will* be enslaved to their terms unless you have a lawyer specialized in the situation.
 
-There are many [types of contracts](people-contracts-types.md) that serve a vast variety of needs.
+*H*igh-value items (e.g., [auto](autos.md), [home](home-maintenance.md)) often require *multiple* parties, and not fulfilling obligations with one party can ripple onto the others:
 
-## Methods
+1. The one-time contract that transfers title to your name, a lease for a duration of time, or possibly a hybrid of lease/purchase.
+2. If you don't have all the money up-front, an ongoing contract with a bank.
+3. If the bank requires it, you may need to pay for [insurance](money-insurance.md).
+4. If you're receiving government assistance (e.g., FHA mortgage loans), that government has another contract involved, with *many* conditions of its own.
+5. An extended warranty is essentially an ongoing service agreement, which may be with the seller or a third party.
+6. Very frequently, failing an obligation can involve *another* third party (e.g., debt collector), and can rapidly make the experience unpleasant and [bureaucratic](bureaucracy.md).
 
-One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](people-rules.md).
+Throughout the business relationship, watch for changes over time.
 
-When most people think of contracts, they're usually thinking of "standard" contracts, where one party has set all the terms and conditions, and the other party has agreed and signed it with very little negotiation or review. Standard contracts can represent *many* domains of a typical person's life:
+- Generally, the more parties involved and named in a contract, the shorter-term that contract will be without modifications.
+- Every time you hear about an "update to the terms", *read them*, since you're consenting to them by continuing to engage with that contract.
+- Sometimes, your contract can become "grandfathered" into a favorable situation, which may make maintaining that contract *very* worthwhile, even if it costs a bit more or the business' service on that contract becomes scattered.
 
-- Employment agreements (especially for [managers](mgmt-1_why.md_why.md) hiring [employees](jobs-1_why.md))
-- [Insurance](money-insurance.md) agreements
-- [Loan](money-2_debt.md) agreements
-- Service agreements (e.g., plumber, [accountant](money-accounting.md))
-- Release of information (e.g., medical information)
-- Terms of service (e.g., social media)
-- "Shrink wrap contracts" are attached to the product itself, with usage of the product indicating acceptance of the contract.
-- "Clickwrap agreements" or click-accept/click-to-sign/clickthrough are standardized software agreements with an "Accept" button after a wall of text before using a software product or website
+Be mindful that if you choose to [frame a contract](people-6_contracts-framing.md), their consent means you've automatically implicitly consented by sending over that contract.
 
-The formal structure of standard contracts is to basically provide a dense wall of standard language (which can surpass dozens of pages), with a cover page that clarifies the definitions which apply to the receiving parties.
+## Amending contracts
 
-A few specific types of contracts can *only* be written because of a region's "statute of frauds":
+Stay on top of *any* changes to the contract.
 
-- Something sold with a value greater than ~$500.
-- Selling or transferring an interest in land or real estate.
-- The terms of the contract outlast the lifetime of one of the parties (e.g., [copyright](legal-ip.md)).
-- Marriage or divorce agreements that promise an exchange of consideration.
-- The terms of the contract will take a long time (i.e., at least a year and a day).
-- The contract involves someone promising to pay someone else's [debt](money-2_debt.md).
+- The provider may force binding arbitration.
+- There may be new opt-out windows for added components or cancellation of a service.
 
-Contracts can also, however, be spoken agreements as well. If it has all the required elements and a court recognizes it, it's a "quasi-contract".
+Watch and confront any drift from the agreed terms (e.g., situation has changed).
 
-- People can't use the law to change what they promised ("estoppel").
-- The challenge with oral contracts comes from challenges in enforcing them. Two people in a civil case disagreeing over what they agreed on will lean onto other reference points (e.g., the [fairness](morality-justice.md) of the contract, the [reputation](image.md) of the parties, the soundness of the parties' minds).
-- Recording a conversation is not always sufficient, either. Unless the other person consents to the recording, it may not be admissible evidence in a court.
-- Further, if there are *any* written agreements that are signed, they supersede verbal promises ("parol evidence rule").
+- Stay aware of specific relevant domains which may change the situation:
+  - Any new connections with other entities or related fields.
+  - All geographically nearby associations to them or you.
+  - All new risk factors that emerge (e.g., [news stories](stories-storytellers.md)).
+  - Possible changes from potential new arrangements they make with others (e.g., bank loans).
+  - Possible *other* people who may be affected by the change, and all of the above for *them*.
+- Append or amend the contract as needed to keep everyone safely within their scope of duty.
+  - Inform them *as soon as possible* about the consequences of any changes you're aware of.
+  - Communicate all new changes *before* they happen.
+- Let *every* affected party know of any relevant changes as soon as possible, and preferably in writing.
+- Make sure you're only performing according to the parties with the authority to amend or cancel the contract.
 
-A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](habits.md)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](people-4_friends.md) and [family](people-family.md).
+Every time the contract renews (e.g., annually, semi-annually, quarterly), you're *very* obligated to review *everything*:
 
-- Many [high-context cultures](people-culture.md) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](people-culture.md), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](image-modern.md), [tourists](fun-vacations.md)).
-- A contract can be obligation by consent ("obligatio consensu"), where there's no requirement for *any* formalities or parties' presence.
+- The current status of the agreement.
+- Increased costs from various factors (e.g., inflation, population growth, urban decay).
+- Recommendations for better opportunities (e.g., low prices for scaling operations, discounts by changing agreements to an updated one).
+- Alternative options that exist and are available if their situation has changed.
+- Ask important, in-depth questions about the agreement:
+  - Why are you still in business with them?
+  - How will that relationship unfold in the future?
 
-A "letter of intent" can communicate willingness to enter into a contractual obligation, but without the elements of a legally binding contract. Its purpose is to create a morally binding assurance, even if it's unenforceable.
+If a contract will be cancelled, make sure all relevant parties are *completely* aware.
 
-At the farthest end, there can be a "gentleman's agreement", which is a *very* informal agreement that's implied by implication, convention or through mutually beneficial etiquette. Gentlemen's agreements are non-binding, and require the [honor](image.md) or [integrity](morality.md) of the parties to fulfill it.
+- If you're *completely* terminating your engagement with them, send them an off-account letter to clearly indicate your arrangement.
+- Let everyone know, send mail, return money promptly, and keep customers publicly informed.
 
-## Requirements
+### Performing a contract
 
-There are six major elements required to make a contract ("essentiala negotii"). If they're missing any of those elements, that contract is an "illusory promise".
+If you're required to mail something, make sure the package will be signed for, and have a clause/backup plan for the possibility the package doesn't arrive.
 
-A formal contract is when the parties have signed it under a seal (e.g., wax seal). Historically, it was more common, but 99.99% of contracts today are informal.
+Perform only within your range of expertise and comfort.
 
-Not all contracts are "binding". Binding contracts *must* have all six elements to be sufficiently enforceable in a court.
+- Be careful moving out of your comfort zone to round out your service capacity.
+- Keep an excellent attorney with a specialization in your needed legal coverage.
 
-### A. Offer and acceptance
+There's usually a critical time frame where something *must* be performed.
 
-This section is technically 3 parts, known as the "meeting of the minds":
+- You usually have a reasonable amount of time, assuming you're somewhat [organized](organization.md).
+- Keep yourself organized with a daily [project management](mgmt-2_projects.md)/suspense/diary system that tracks *all* important transactions.
+- Make sure [everyone in your organization uses that system](mgmt-4_status.md), and ask for help if you ever get behind.
 
-1. One party makes a "solicitation" with "provisions" that provide "conditions" and "warranties" with a "contract price".
-2. The other party uses their "power of acceptance" to "consent".
-3. Both parties must benefit in some way from the relationship.
+Stay on top of communication.
 
-This may not always apply:
+- Most legal notices give 30-60 days to perform, which means you may be late if you check your mail once a month.
+- Make a habit of checking your email/voicemail/mail every week.
+- Thoroughly [change your address](home-moving.md) every time you move (e.g., [insurance](money-insurance.md), bank information, [loans](money-2_debt.md), etc.).
 
-- An "invitation to bargain" means the person wants to discuss terms, but is open to it, so acceptance may come *much* later after a proposal and [negotiation](people-conflicts-negotiation.md).
-- A "firm offer" can remain open for a certain period of time or event and is incapable of being revoked during that time (up to 3 months if not indicated otherwise, though it's not an *acceptance* until the other party consents).
+Try to give degrees of separation whenever possible.
 
-The acceptance of the contract is *typically* at the precise time the other party communicates their acceptance, though there are exceptions:
+- Run things through a PO box instead of a physical address.
+- Establish a trust, corporation, not-for-profit organization, or limited liability company for large-scale activities.
+- Use bank safety deposit boxes and storage units instead of storing things on-site.
 
-- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](people-decisions.md).
-- The "posting rule" considers the time delay for sending messages and goods:
-  1. The offering party sends the offer by mail, and the effective date is when they send it (e.g., January 12).
-  2. The offer isn't valid until the receiving party gets it (e.g., January 17).
-  3. For the offering party to revoke it, they must do it before the receiving party receives it.
-- If there are any legal notices or changes, the address is indicated as the *domicilium citandi et executandi*, which the party is responsible to indicate when they [move](home-moving.md).
+When an agreement has adverse consequences for termination, watch for people performing strange behavior with it.
 
-This agreement connects to the right of property or the power to enforce a promise or warranty, which means it can also connect to a close, mutual, or successive relationship (e.g., family's trustee, parent company).
+- They may try tempting you to breach the contract, then [lie](people-lying.md) that they didn't know it was a breach but need to enforce it.
+- If the person who cancels the contract must pay, then they may try to get *you* to terminate the engagement.
 
-Historically, before 1800 the meeting of the minds was *not* as important as whether an exchange was sufficiently [fair](morality-justice.md). Then, a [trend](trends.md) throughout the 19th century shifted society from a focus on property to a focus on contract and their intentions/promises. That trend has somewhat died after 1900 with the growth of consumer protection, rent and employment legislation to drive contract law back into a smaller domain, though it's a *very* odd and inorganic existence to this day that defies common sense.
+If you're not sure, do nothing.
 
-### B. Lawful purpose
+- Except for fully defined "negligence", doing nothing rarely runs the risk of implicitly consenting and there's no prior performance to create an implicit contract.
+- It may be harsh at times, but non-involvement is the strongest way to be legally safe.
+- If you *do* care about the person who you may be able to help, it typically doesn't hurt to communicate why you're not helping them (e.g., "I would rather not establish a precedent").
+- However, while *not* acting is the most legally safe thing to do, it's often also [unethical](morality.md).
 
-The entire arrangement must be [lawful](people-rules.md). If it isn't, the contract can't be enforced by a governing authority. This includes not adversely affecting a third party ("res inter alios acta, aliis nec nocet nec prodest"), and "kickbacks".
+Be careful when [transporting goods](logistics.md).
 
-If the contract is illegal, it still *can* be enforced by illegal entities (e.g., the mafia), but it will probably not be enforced [fairly](morality-justice.md).
-
-Sometimes, even *lawful* contracts are simply [unethical](morality.md) (e.g., "nokku kooli").
-
-### C. Lawful consideration
-
-"Consideration" is simply something given that's deemed to be [of value](values.md). This is often money, but it can be almost anything.
-
-- While a present thing is certainly consideration, the *promise* of something in the future can also be consideration.
-- Both parties may have a "reciprocal obligation" to perform in the future, but one party can make an "accommodation" within a contract that has no reciprocation.
-
-If a written or oral contract isn't formally acknowledged (e.g., an actuary), it's a "simple contract" and can only be bound with physical consideration like a "security" (e.g., a loan's down payment) or a "peppercorn".
-
-Without consideration, a promise isn't legally enforceable ("nudum pactum").
-
-### D. Terms are certain and complete
-
-This can't be a vague expression with an approximate promise. It should be obvious what the conditions of the agreement are:
-
-- Who the parties to the contract are
-- Each party's obligations
-- The expected price everyone is paying
-- The obligations everyone is required to perform
-- The subject of the contract and any periods of time
-
-It's worth noting these terms do *not* have to be complex:
-
-- John Smith and Adam Jones agree...
-- ...that Adam will mow John's yard...
-- ...for $10...
-- ...and the yard will be completely mowed...
-- ...and this doesn't imply any future mowing by Adam.
-
-However, to clarify the language, most written contracts have definitions explicitly clarified at the beginning of it.
-
-- These definitions are *constantly* referenced throughout the document, typically in capital letters or quotes.
-
-### E. Parties' free consent
-
-The parties should and consent freely, which means an absence of a few things:
-
-- There can't be any "undue influence", which is when one party [pressures](power-influence.md) another into signing a contract.
-- There can't be any coercion or duress, which includes using tactics like threats ("per minas"), physical violence, or psychological pressure. This can also include an unequal [power dynamic](power-types.md) ("arm's length principle").
-- Neither party can misrepresent facts. If one of them was [lying](people-lying.md) ("fraud") or exaggerating ("puffery"), that could nullify the contract.
-- Both parties must be aware of the contract, meaning there can't be an "officious intermeddler".
-
-While lawyers don't concern themselves as much with the [economics](economics.md) of services as much as the clarified rules, a service's general fair market value comes from several specific social effects that accumulate together into a lump sum:
-
-1. An hourly rate, which is defined heavily by how much someone doesn't want to perform the task.
-2. An ignorance fee, which covers the amount of necessary information to perform the service that someone doesn't want to have to learn.
-3. An equipment fee, which covers the use of tools and supplies someone doesn't or can't acquire.
-4. Expertise fee, which covers the specialized skills they wouldn't be able to perform.
-5. Black market or legal fee, which comes through scarcity from [legal constraints](legal-safety.md).
-
-By implication, most contracts are performed in "good faith", where there's [mutual trust](trust.md) that the other party will try to create advantageous [results](results.md) for the other. Without that trust, there's no contract.
-
-Unfortunately, clarifying whether someone was consenting freely without undue influence or misrepresented facts can be *very* difficult later, which is another major duty for lawyers to wrestle with it.
-
-### F. Mental capacity
-
-First, the parties must be old enough (i.e., "age of consent" or "age of majority"). This age varies by region, but means someone is old enough to make their own decisions.
-
-Second, the parties must be of "sound mind", which means they're not mentally incapacitated:
-
-- Cognitive impairments (e.g., senility, dementia, legal insanity)
-- Affected by a mind-altering substance (e.g., alcohol, drugs)
-- Sleep-deprived
-
-## Clarifications
-
-Each party must have their duties clearly defined:
-
-- If a party was *already* performing a duty, that duty generally can't be part of a contract ("pre-existing duty rule").
-- Most parties may have retention obligations, where they must archive and maintain specific information (e.g., chat history).
-- Many contracts provide a "drop-dead date" that indicates the final day a responsibility must be fulfilled before specified consequences occur.
-- A "morals clause" may indicate certain behaviors a party is *not* permitted to do (e.g., actors, educators, athletes).
-- An "acceptable use policy" outlines the acceptable ways to use of the good or service.
-- Sometimes, on a prolonged agreement, one of the parties may grant an "allowance" to assist in purchasing needed supplies or labor.
-
-While standard form contracts are ubiquitous, they're difficult to enforce for several reasons:
-
-1. Most of the people never read them, and typically consent through trusting the contract was well-written in good faith.
-2. Accessing the full terms may be difficult or impossible before they accept.
-   - Often, multiple large organizations can have a "battle of the forms" over contract terms that contradict.
-3. Boilerplate terms don't typically cover unlikely events, and the purchaser typically only thinks about the price and quality of the offering while disregarding those events.
-   - Any poorly worded contract will fall back on the organization that wrote it ("contra proferentem").
-4. The person signing may be [socially pressured](power-influence.md) to sign it:
-   - The salesperson may imply the person is being unreasonable by wanting to read or question the terms.
-   - If they're in a queue, they may be pressured to quickly sign.
-   - If there was any negotiation over price or particular details, the salesperson's concessions may be interpreted as a gift, meaning social cooperation to sign.
-   - The contract may exploit unequal power dynamics between parties.
-5. During the renewal of the term, the situation may have changed, but the speed of making the renewal may mean the contract's terms are still in effect for an inaccurate agreement.
-
-For many interactions, third parties may often need to be involved in a contract:
-
-- A party may have a "right of first refusal", meaning they must first refuse a contract before that contract is offered to a third party.
-- "Novation" is either adding an obligation, replacing an obligation to perform with another obligation, or replacing a party of an agreement with another party.
-- "Subrogation" is when a third party (e.g., second creditor or insurance company) assumes another party's legal right to collect a debt or damages.
-- "Assignment" is a process where an assignor transfers rights or benefits to an assignee.
-- "Delegation" is a process where a delegator transfers responsibilities to a delegate.
-- A "third-party beneficiary" gives another party not in the contract the right to sue.
-
-Most contracts in most countries are based on all parts of the exchange being one transaction, though a few nations parse it further:
-
-- Canada uses Contract A (a process contract between *all* parties requesting a proposal) and Contract B (an acceptance when an owner formally accepts a bid)
-- Germany uses the "abstraction principle" to separate contracts into 3 uniquely individual contracts:
-  1. The contract of sale itself: the seller is obligated to transfer ownership to the buyer, and the buyer is obligated to pay for it.
-  2. Another contract to benefit the buyer: transferring the seller's consideration to the buyer's ownership.
-  3. A final contract to the benefit of the seller: transferring the buyer's consideration to the seller's ownership.
-
-### Complexities
-
-An "integration clause", at the end of the contract, can declare that the contract is the complete and final agreement between the parties, which is often placed at or toward the end of the contract and make the entire contract an "integrated contract". It's a strong constraint where any pre-contractual discussions *must* be placed into that integration clause.
-
-Constraining rights and freedoms:
-
-- A class action waiver prohibits a party from filing a "class action suit" against the other party.
-- An "exclusion clause" can seek to restrict the rights of the parties to the contract, though it may make the contract unenforceable.
-- An inclusion/equity rider can require an actor's or filmmaker's contract to discriminate toward a certain level of [politically-left-favored](politics-leftism.md) diversity in casting and production staff.
-- A "negative pledge" prohibits a party to the contract to creating any security interests over specific property.
-
-Granting more rights and freedoms:
-
-- A "bonus clause" can reward a contract for doing more than the letter of the contract, typically to finish the job early. Alternately, there can also be a "penalty clause" for *not* fulfilling the letter of the contract.
-- A "preemption right" can give contractual rights to acquire newly existing property before anyone else can acquire it.
-- Buy now, pay later (BNPL) is short-term financing that permits consumers to make purchases and pay for them at a future date, typically in an installment plan ("hire-purchase") and without the need for conventional financing.
-
-Clarifying more terms:
-
-- A "condition precedent" is a state of things or event required for something else to occur.
-- A "condition subsequent" is a state of things or event that causes something to end.
-- A "contingent contract" adds an agreement where certain conditions will result in specific outcomes (e.g., additional vacation time after working a certain number of months).
-- An "escalation clause" can allow a change in the agreed-upon price if a specific factor beyond the control of the parties changes the situation.
-- "Liquidated damages" define the exact damages in the event of specific breaches of contract (e.g., late performance).
-- The "risk of loss" determines which party is responsible after a sale but before the product's delivery.
-
-Involving third parties:
-
-- A "beneficial interest" is a third party's right that arose from a contract where they're *not* a party (e.g., agreement to pay a third person), the basis of most trusts.
-- A "buyout clause" can require another entity wishing to purchase an employee's services to pay a fee to the employer.
-- A "collateral warranty" creates a warranty for a third party that would otherwise not be able to seek damages in the event of an injury.
-- A piggyback clause applies in shareholder selling rights, where a primary shareholder's actions will affect other shareholders (e.g., a primary shareholder's sale price of selling shares is the selling price for all other shares).
-- An "escrow party" will hold on to assets until both sides can finalize the agreement.
-
-Adding more terms:
-
-- An "accord" is a secondary contract with loans that give alternative consideration outside the original contract. This permits releasing responsibility ("satisfaction") for both parties when the accord contract is fulfilled (e.g., give back the automobile instead of the remainder of the [auto](autos.md) loan). In a sense, it's a backup plan.
-- "Collateral contracts" are secondary contracts where the consideration is both parties guaranteeing they'll maintain and uphold the original contract. They're typically unilateral (with one party making it) but it can be bipartite or tripartite (2 or 3 parties). Typically, assuming nothing unethical, they exist because the primary agreement can't be amended:
-  - The primary agreement's terms conflict with later-known facts.
-  - The primary agreement was written incorrectly.
-  - A third-party mediator must resolve the [dispute](people-5_conflicts.md) between the original parties.
-  - The parties don't want to amend or overstep the primary contract's terms.
-- Retained interest (aka payout penalty) is an unpaid future interest that some lenders add to the remaining principal of a loan to determine a payout amount in the event the loan is terminated before it's completed its original term.
-- A "rider" can adapt the language to override specific provisions.
-- A "guillotine clause" can indicate that *all* aspects of involved contracts must be accepted, or all the contracts are terminated.
-
-## Termination/amendment
-
-An "amendment" is a formal or official change to the document, which may be necessary to prevent it from being "revoked" in most situations.
-
-In many situations (e.g., mistake, misrepresentation, duress, undue influence) the transaction can be unwound as if it had never happened ("rescission"). Other times, it's called "rectification" if a court corrects the mistake.
-
-If a contract term can be ongoing indefinitely, most contracts include an "automatic renewal clause", which "renews" the policy until it is formally terminated. If the contract "lapses", it can also be "reinstated".
-
-An offer must be accepted absolutely without modification ("mirror image rule"), which means the recipient accepting the offer on different terms (e.g., "interlineation") actually creates a *counter*-offer, which is binding based on the original offeror accepting *that* offer instead.
-
-- The "last shot rule" means a party implicitly consented to a counter-offer by not indicating objection to it.
-
-The experience of [severe hardship](hardship.md) on an entity from an "external risk" can nullify or modify a contract.
-
-A contract can be "repudiated" if a party can prove that their signature was not authentic, though typically "non-repudiation" is in effect except for outright fraud.
-
-Force majeure (French for "overwhelming force") is a common clause that frees both parties from liability or obligation when an extraordinary event or circumstance beyond the parties' control (e.g., war, natural disaster, riot, epidemic):
-
-- "Impossibility" - the circumstances have changed, and nobody presumed they would, so performing the contract is now literally impossible.
-- "Impracticability" - the circumstances have changed, and nobody presumed they would, so performing the contract is now too burdensome for one party.
-- "Frustration of purpose" - both parties knew the contract's purpose could be used for a very different purpose than when it was made, and it is now being misused.
-
-When a contract involves *both* parties having to pay ("cross claims"), they can perform a "set-off" by "netting", which combines the payments for the sake of efficiency.
-
-The "perfect tender rule" in the USA indicates that, in the case of goods not conforming to the terms of a contract, a buyer can choose to accept it anyway, reject it outright, or reject *only* the non-conforming parts of the delivered goods.
-
-Many contracts end with "extinguishment", which often destroys a right and voids the contract.
-
-Of course, there's always a posibility of a [conflict regarding the contract](people-contracts-conflicts.md) as well.
+- Even when you don't know, you can often become the accomplice to a crime.
+- Require them to seal it so you can't know what's in the container.
+- Make sure the seal is unbroken until the receiving party signs off on it.

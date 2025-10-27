@@ -57,7 +57,7 @@ There are many default programs built into most general-purpose operating system
   - Windows - press CTRL+SHIFT+ESC (or CTRL+ALT+DEL if it's an old version of Windows)
   - Linux - type "top" from a terminal (or quickly upgrade to htop with "sudo [usually apt or dnf] install htop")
   - Mac - access via Launchpad->Other->Activity Monitor or the Dock's Application/Utilities/Activity Monitor
-- Notifications to indicate events from the system or relevant updated information from across a [network](networks-computer.md).
+- Notifications to indicate events from the system or relevant updated information from across a [network](networks-cs.md).
 - A shortcut system that allows quick access to programs, documents, and various scripts. In a [console-based GUI](computers-cli.md), quick-reference help documentation on the commands and their syntax.
 - A "clipboard" system that allows copying something, then pasting it somewhere else.
 - To prevent [malicious actors](computers-cysec-pentest.md), a built-in scanner/verification process to [authenticate](computers-cysec-authentication.md) the validity of a program that's about to run.

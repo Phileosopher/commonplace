@@ -1,7 +1,7 @@
 
 # How to wisely work with insurance
 
-Since insurance is a contract, the same [wisdom for contracts](people-6_contracts.md) applies in insurance.
+Since insurance is a contract, the same [wisdom for contracts](people-contracts.md) applies in insurance.
 
 Unless it's the law, insurance never has to be permanent.
 
@@ -16,7 +16,7 @@ Insurance is a significantly complex business model that creates many [hyper-spe
 - Most people in the insurance industry are imprecise with insurance jargon, so ask for *specific* clarification on any trade-based term you hear, and [record every conversation you make](legal-safety.md).
 - Nobody in an insurance office is particularly aware of your business and personal needs, though they're often aware of the way they frame in the context of a policy.
 
-The best way to save on insurance is to carry a [reputation](image.md) within your [legal fiction](image-modern.md) that implies [safety](safety.md).
+The best way to save on insurance is to carry a [reputation](people-image-why.md) within your [legal fiction](people-image-modern.md) that implies [safety](safety.md).
 
 - The credit score is for banks asking "will you pay off your debts on time?" and the insurance score is for insurance carriers asking "will you stay continuously covered and not file claims?"
 - Generally, shopping around can save 20-40%, but the most affordable insurance will often include a decrease in quality (and possibly claim payout) when you need to file a claim.
@@ -38,7 +38,7 @@ Aim for as many premium discounts as possible that *don't* cut back on coverage:
 - Most extra features are absolutely unnecessary, especially if you don't understand them.
 - Raise the deductible as high as the [emergency fund](money-3_budget.md) you typically maintain (at least $1,000 if possible).
   - There are also privacy benefits to a high-deductible arrangement, since small events don't have to be reported.
-  - If you can, make and sign [legal agreements](people-6_contracts.md) with others to settle *without* involving insurance companies.
+  - If you can, make and sign [legal agreements](people-contracts.md) with others to settle *without* involving insurance companies.
 - You can sometimes get a discount for staying with an insurance company for several years.
 - How and when you pay insurance can provide discounts.
   - To get an early quote discount, shop about 1-2 months before a policy is up for renewal.
@@ -57,7 +57,7 @@ Don't cut back on coverages that may legitimately matter:
   - Customer service is only secondary to high-quality claim payments, but it can make [the process of claim payments](bureaucracy.md) faster.
   - *Always* carry coverage for natural disasters common to your area.
 
-When insurance *is* the law or part of a [contractual obligation](people-6_contracts.md), pay close attention to what you need and why.
+When insurance *is* the law or part of a [contractual obligation](people-contracts.md), pay close attention to what you need and why.
 
 - Most contractual requirements for insurance are also tests of financial responsibility.
 - When a [lienholder](money-2_debt.md) requires insurance on their property, they aren't concerned with your liability, and only that an unfortunate event won't destroy their collateral.
@@ -67,7 +67,7 @@ When insurance *is* the law or part of a [contractual obligation](people-6_contr
 Be explicitly honest with your insurance agent.
 
 - Many people will [lie](people-lying.md) on their insurance (including concealment), and that will adversely affect the rate when a reporting bureau finds out, and can lead to nonpayment of a claim.
-- A claim submitted within a few weeks or months of starting a policy can often show up on the LexisNexis report to generate a *very* adverse [reputation](image.md).
+- A claim submitted within a few weeks or months of starting a policy can often show up on the LexisNexis report to generate a *very* adverse [reputation](people-image-why.md).
 
 Online-only insurance companies are generally pricier because people are more likely to submit fraudulent claims online than directly to an agent.
 

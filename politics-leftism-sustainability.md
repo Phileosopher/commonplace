@@ -115,7 +115,7 @@ Very often, governments of many countries [strip motivations](mgmt-badsystems.md
 
 Other times, non-government groups possess enough power to control what a government does (e.g., oppressive religious groups, corporations).
 
-- In those situations, clearing out corruption pushes against *many* groups at once and becomes nearly impossible without a proper [war](people-conflicts-war.md).
+- In those situations, clearing out corruption pushes against *many* groups at once and becomes nearly impossible without a proper [war](people-conflicts-war-why.md).
 
 Either way, giving freedom for people to work the way they want, on things they want, without large-scale oppression, typically requires [outside competition](economics.md).
 
@@ -162,7 +162,7 @@ The only legitimate deterioration of things persisting indefinitely comes throug
 
 To make something sustainable, everyone should feel peace about their [purposes](purpose.md). This requires all classes of society to have equal and fair [rules](rules-methods.md), [equally enforced](morality-justice.md).
 
-But, equal rules aren't easy because corruption often creeps into the highest places of society. The answer is a [hybrid republic and democracy form of government](politics-systems.md), along with term limits, complete public transparency about everything, and a completely unfettered [press](stories-storytellers.md), just in case anything starts becoming [suspicious](mgmt-badsystems.md). Even then, it can implode at any time if enough [groups](groups-large.md) conspire together to overthrow it, from [inside or out](people-conflicts-war.md).
+But, equal rules aren't easy because corruption often creeps into the highest places of society. The answer is a [hybrid republic and democracy form of government](politics-systems.md), along with term limits, complete public transparency about everything, and a completely unfettered [press](stories-storytellers.md), just in case anything starts becoming [suspicious](mgmt-badsystems.md). Even then, it can implode at any time if enough [groups](groups-large.md) conspire together to overthrow it, from [inside or out](people-conflicts-war-why.md).
 
 ## Goal 12: Responsible Consumption and Production
 
@@ -224,7 +224,7 @@ The culture of a society is determined by its leaders, both [big](groups-large.m
 
 The closest thing we have, barring a theocracy, is a [free-market solution](economics.md): everyone gets a vote.
 
-- This is subject to abuse since political power becomes a [popularity contest](image-distortion.md), but it's worked the best so far to preserve life and [liberties](people-3_respect.md) compared to all the other solutions (e.g., military takeovers).
+- This is subject to abuse since political power becomes a [popularity contest](people-image-distortion.md), but it's worked the best so far to preserve life and [liberties](people-3_respect.md) compared to all the other solutions (e.g., military takeovers).
 
 It's a compounding issue: the culture affects the leadership, which affects the culture. The solution goes back to *everyone* receiving [basic human rights](people-3_respect.md), then making sure in some way that the [leadership](groups-large.md) is punished for violating them.
 
@@ -232,7 +232,7 @@ It's a compounding issue: the culture affects the leadership, which affects the 
 
 The entire idea of everyone partnering together is a pleasant-sounding one, but a poor one.
 
-History has shown that people most frequently unify over a [common enemy](people-conflicts-war.md). It's the reason we have the history of the nations as they are.
+History has shown that people most frequently unify over a [common enemy](people-conflicts-war-why.md). It's the reason we have the history of the nations as they are.
 
 The only way for there to be any unity is to have a shared hatred of the same thing threatening society. Goal 13 is an attempt at it, but COVID-19 has shown that a few short months of society shutting down can undo *decades* of unhealthy pollution, so it's difficult to get everyone on a shared [purpose](purpose.md) about it.
 

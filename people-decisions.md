@@ -7,7 +7,7 @@ We tend to judge our [identity](identity.md) by our decisions when they yield po
 
 We are *constantly* deciding things. When we were little, nearly all our decisions were conscious. However, we quickly developed many [habits](habits.md) automatically, and those decisions were pushed into the subconscious. In a single day, the average adult makes about 35,000 decisions, though we're only aware of about 100 of them.
 
-Contrary to how it may [seem](image.md), decision-making is far more of a strain on our willpower than actually [*doing* most things](results.md).
+Contrary to how it may [seem](people-image-why.md), decision-making is far more of a strain on our willpower than actually [*doing* most things](results.md).
 
 As we develop [habits](habits.md) from infancy onward and our [identity](identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](people-changes.md) without [awareness](awareness.md) of it.
 
@@ -15,7 +15,7 @@ As we gain [experience](understanding.md), *most* decisions become [habitual](ha
 
 ## Willpower
 
-We face [conflicts](conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](imagination.md) [doing](results.md) or [believing](understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
+We face [conflicts](people-conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](imagination.md) [doing](results.md) or [believing](understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
 
 Every day, we wake up with a certain amount of willpower based on how much we're [certain](understanding-certainty.md) about what we can do. Over the day, we can refresh that [certainty](understanding-certainty.md) through affirmations or rest, but that willpower reserve will slowly drain until we become incapable of even performing basic [tasks](purpose.md) or resisting *any* [substance](addiction-substances.md).
 

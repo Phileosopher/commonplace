@@ -34,21 +34,21 @@ Multiple tiers of middle managers *can* add value to a large organization, but o
 When individual contributions are easy to determine or completely irrelevant, a simple alternative to middle managers is a head communicator (e.g., "account manager", "project lead").
 
 - By having someone relay information, there's no need for a middle manager, since the person themselves is held to that task.
-- This *can* create more [chaos](unknown.md), especially when there are any [conflicts](people-5_conflicts.md), but also gives people more responsibility (and therefore they'll find more [meaning](meaning.md) and be more [productive](success-4_routine.md)).
+- This *can* create more [chaos](unknown.md), especially when there are any [conflicts](people-conflicts.md), but also gives people more responsibility (and therefore they'll find more [meaning](meaning.md) and be more [productive](success-4_routine.md)).
 
 ## High above
 
-No matter how human you are, and no matter how well you [craft your image](image.md), your public presence over an organization of several thousand people is *guaranteed* to have at least a few ugly marks on it.
+No matter how human you are, and no matter how well you [craft your image](people-image-why.md), your public presence over an organization of several thousand people is *guaranteed* to have at least a few ugly marks on it.
 
 - Learn to [integrate your shadow](personality.md) and humbly understand your place in the hierarchy.
 - Being an executive is a bit like being a monarch, where everyone imagines they can do it better but don't realize the stress and limitations required within the role.
-- Executive and magisterial roles are *very* abstracted from humanity, and have more in common with a [strategy video game](computers-software-gamedev.md) than any legitimate [human connection](people-3_boundaries.md).
+- Executive and magisterial roles are *very* abstracted from humanity, and have more in common with a [strategy video game](computers-software-gamedev.md) than any legitimate [human connection](people-boundaries.md).
 
 From 2nd-level middle management and higher (i.e., no longer working alongside the workers), everyone quickly becomes a [data point](database.md).
 
 - If you wish to work in that environment, you'll find yourself competing with many [personalities](personality.md) who will have no ethical problems with harming many people to provide a little personal gain (e.g., Cluster B personality).
 - In general, it's far easier to fire a 15-person team or cut pay for 200 people when you have no sense of [ethics](morality.md) or [humanity](humanity.md).
-  - Making or keeping lower-ranking [friends](people-4_friends.md) in a high-ranking role can represent an opportunity for your rivals to make accusations of [political favoritism](stories-storytellers.md) or imposing *their* scandals or unfavorable [reputation](image.md) onto you.
+  - Making or keeping lower-ranking [friends](people-4_friends.md) in a high-ranking role can represent an opportunity for your rivals to make accusations of [political favoritism](stories-storytellers.md) or imposing *their* scandals or unfavorable [reputation](people-image-why.md) onto you.
 - By delegating *every* task, a manager has a unique [power](power.md) discrepancy:
   - They can claim the benefits of anything good their subordinates do.
   - If someone keeps making mistakes, they can fire the under-performer.

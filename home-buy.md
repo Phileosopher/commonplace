@@ -110,7 +110,7 @@ Owner financing lets you pay the owner directly, which lets you be more [creativ
 
 - You'll have to prove your credit-worthiness to the seller more than a bank.
 - Be careful that [you're not exploited](legal-safety.md):
-  - Make sure everything you discussed is [signed in writing](people-6_contracts.md).
+  - Make sure everything you discussed is [signed in writing](people-contracts.md).
   - If you're unsure about the agreement, have a real estate accountant, attorney, or realtor look it over.
   - Avoid any balloon payments at the end even if the payments are less, since *not* having the balance available allows the lender to repossess the home with most of your house already paid-for.
   - Watch for buydowns because their terms may be worse in the long term.

@@ -93,7 +93,7 @@ Beyond reality, robots have a tremendous draw in the world of fiction, and peopl
 - *All* low-skill jobs replaced by robots, to the point that unions will fight their use in the workplace.
 - Human-looking robots in customer service roles.
 - Use cases in the sex industry.
-- Robots becoming sentient and demanding [right](people-boundaries.md).
+- Robots becoming sentient and demanding [right](people-boundaries-why.md).
 
 However, beyond the above concepts about how dumb they are at tasks, there are specific problems for many of the perceived domains:
 

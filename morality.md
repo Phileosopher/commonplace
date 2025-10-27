@@ -14,7 +14,7 @@ Moral decisions are *always* a connection between several elements:
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](image.md) or [imagining](imagination.md) the [experience](stories.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
+6. Authority - anyone [observing](people-image-why.md) or [imagining](imagination.md) the [experience](stories.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
 Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
 
@@ -48,7 +48,7 @@ As a general concept, we are all born with a conscience that maintains a semblan
 
 In practice, morality can only exist as a reference to [whatever authority formed us](religion.md). In whatever case, we must submit to that authority and are morally [enslaved](slavery.md) to that construct:
 
-- If Islam is true, [jihad](people-conflicts-war.md) has its time and place.
+- If Islam is true, [jihad](people-conflicts-war-why.md) has its time and place.
 - If Christianity is true, everyone must renounce their [ego](humanity.md) for the sake of [love](people-love.md).
 - If atheism is true, the preservation of the most fit of our species is ideal.
 - If pantheism, of any type, is true, then [self-happiness](mind-feelings-happiness.md) is the greatest achievement.
@@ -61,7 +61,7 @@ In practice, most people want moral relativism to justify their views as a type 
 
 ## Virtue
 
-We must [learn](understanding.md) virtue because [thinking about others](people-friends.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
+We must [learn](understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
 A virtue is a trained [habit](habits.md) of making [decisions](people-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
@@ -76,7 +76,7 @@ Some virtues stand alone as states of being:
 - Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
 - Forgiveness - [reconciles and releases](mind-feelings-happiness-stress.md)
 
-Some virtues are responses to [conflicts](conflicts-inner.md):
+Some virtues are responses to [conflicts](people-conflicts-inner.md):
 
 - Bravery/Courage - stands against opposition
 - Persistence/Perseverance - maintains a [purpose](purpose.md) [faithfully](understanding-certainty.md) with little or no outside support
@@ -88,7 +88,7 @@ Some virtues are strictly products of the [mind](understanding.md):
 - [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
 - [Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](people-decisions.md)
 
-Some virtues come through how we [see](image.md) things:
+Some virtues come through how we [see](people-image-why.md) things:
 
 - Appreciation of [beauty/nature](values-quality.md) - regards the inner quality of [nature](reality.md) and [creations](creations.md)
 - [Humor](humor.md) - sees things from a less serious perspective
@@ -96,9 +96,9 @@ Some virtues come through how we [see](image.md) things:
 
 Some virtues tie to our relationships with others:
 
-- [Social intelligence](people-boundaries.md) - aware of motives and [feelings](mind-feelings.md) in oneself and others
-- [Teamwork](people-boundaries.md) - able to [work](results.md) well with others
-- [Fairness](morality-justice.md) - treats others without [bias](image.md)
+- [Social intelligence](people-boundaries-why.md) - aware of motives and [feelings](mind-feelings.md) in oneself and others
+- [Teamwork](people-boundaries-why.md) - able to [work](results.md) well with others
+- [Fairness](morality-justice.md) - treats others without [bias](people-image-why.md)
 - [Leadership](influence.md) - encourages others to do well
 
 A few virtues *are* a "middle ground":
@@ -145,7 +145,7 @@ APPLICATION: Most conceited people are severely blind to themselves and don't re
 
 There are *many* places we can try to be "best" at:
 
-- Possessing more [power](power.md), [reputation](image.md), strength, intelligence, possessions, or [education](understanding.md) than someone else.
+- Possessing more [power](power.md), [reputation](people-image-why.md), strength, intelligence, possessions, or [education](understanding.md) than someone else.
 - Having *less* of anyone else of the above.
 - Being more religious or humble than others.
 
@@ -159,20 +159,20 @@ Humility isn't a focus *on* one's own faults, but more a focus *away* from onese
 
 APPLICATION: Selflessness can be trained, but it must be sincere. If anyone performs a virtue *for* someone else, they're likely trying to gain something from it. Even people trying to [please God](religion.md) might be doing it selfishly. The only reason someone should do *anything* virtuous is out of [love](people-love.md) for others around them.
 
-The greatest moral hazard to any soul comes through false humility, which involves heavy preoccupation with [appearing](image.md) to consider others' best interests instead of doing it. A falsely humble person will live a paradoxical life of self-sacrifice for the purpose of gaining [reputation](image.md) and the [power](power.md) that comes with it. Ironically, most outsiders of religious [groups](groups-member.md) think of false humility when they observe a [religion](religion.md).
+The greatest moral hazard to any soul comes through false humility, which involves heavy preoccupation with [appearing](people-image-why.md) to consider others' best interests instead of doing it. A falsely humble person will live a paradoxical life of self-sacrifice for the purpose of gaining [reputation](people-image-why.md) and the [power](power.md) that comes with it. Ironically, most outsiders of religious [groups](groups-member.md) think of false humility when they observe a [religion](religion.md).
 
 APPLICATION: Living virtuously is typically unpopular, but some [trends](trends.md) will imply the participants are behaving virtuously. Often, their "virtue" will lead to persecution of the truly virtuous.
 
 Conceit has a cure, but requires a few things:
 
 1. Regard others as equally significant as oneself. This requires *more* [work](results.md) toward others than toward oneself because we don't know exactly what other people are thinking and [feeling](mind-feelings.md).
-2. Never [over-identify](identity.md) with anything that attributes to self-importance, especially on [how it appears to others](image.md).
+2. Never [over-identify](identity.md) with anything that attributes to self-importance, especially on [how it appears to others](people-image-why.md).
 3. Accept all other perspectives are equally valid, even when the [reasoning](logic.md) isn't always as sound or is missing apparent portions of [reality](reality.md) that other people can plainly see.
-4. Quickly admit failure as it arises, irrespective of [what it looks like](image.md) or [implies](stories.md).
+4. Quickly admit failure as it arises, irrespective of [what it looks like](people-image-why.md) or [implies](stories.md).
 
 Humility is critical for the [good life](goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
 
-- Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](image.md).
+- Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](people-image-why.md).
 - Giving a humble person power may provoke them to self-conceit and make them a poor [role model](people-culture.md) for others.
 - Even if a humble person received all the power, they're not always shrewd enough to hold back the [evil](morality-evil.md) or conceited people from taking power again.
 - True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.

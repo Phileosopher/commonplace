@@ -8,7 +8,7 @@ When people say they *believe* in values, they actually mean they believe in [*g
 All ideas and thoughts use values:
 
 - The values can sometimes be of tangible things or can be completely abstract (also known as "principles").
-- Values driven by [perceptions](image.md) are considered [qualities](values-quality.md), while values that [group things together](symbols.md) are called [quantity](math.md).
+- Values driven by [perceptions](people-image-why.md) are considered [qualities](values-quality.md), while values that [group things together](symbols.md) are called [quantity](math.md).
 - We can mix-and-match values in innumerable combinations with other values to create every possible idea.
 
 The [power](power.md) of those ideas in our minds heavily determines how [certain](understanding-certainty.md) we are of them, and our [feelings](mind-feelings.md) are closely connected to that certainty. Those feelings directly structure how we interpret [reality](reality.md) and what we must [do](purpose.md), which creates a type of holistic feedback loop over [time](datetime.md).
@@ -56,7 +56,7 @@ Therefore, for values to be useful, they must fulfill several simultaneous crite
 1. Based on [reality](reality.md).
 2. Socially [constructive](results.md).
 3. Immediate and [controllable](people-decisions.md).
-4. Free of any general aspects that could lead to [confusion](image-distortion.md) or [uncertainty](unknown.md).
+4. Free of any general aspects that could lead to [confusion](people-image-distortion.md) or [uncertainty](unknown.md).
 
 APPLICATION: General ideas are generally useful, but not in a practical sense until we start [testing them](results.md). However, specific ideas can create patterns across other domains, and are the foundation for how we make general ideas. For that reason, theory is *never* as effective as implementation, though it's longer-lasting (which is why [teachers](education.md) love theory and [experts](jobs-specialization.md) don't).
 
@@ -88,7 +88,7 @@ Our desire for [safety](safety.md) and the tremendous magnifying [power](power.m
 
 APPLICATION: The more powerful a value feels upon us, the more we're [enslaved](addiction.md) to it instead of thinking [rationally](logic.md). This isn't always bad, however, and is often how we can accomplish otherwise-impossible [purposes](purpose.md).
 
-Also, people can often [manipulate](image-distortion.md) the associations of values to other values to gain [power](power.md). Many aspects of [shame](mind-feelings-shame.md) and [taboo social structures](morality-taboo.md) come from this manipulation.
+Also, people can often [manipulate](people-image-distortion.md) the associations of values to other values to gain [power](power.md). Many aspects of [shame](mind-feelings-shame.md) and [taboo social structures](morality-taboo.md) come from this manipulation.
 
 APPLICATION: We can control our values to the degree we [understand](understanding.md) them.
 

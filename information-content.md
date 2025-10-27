@@ -71,7 +71,7 @@ News organizations are typically funded by governments and corporations to sprea
 - This never really stops, so no news outlet is "safe" from bias.
 - The only way to fully understand is to consume *both* sides of the story (where the hero politician is the villain, and vice versa).
 
-Generally, smaller news organizations have different reasons than larger ones to [distort the truth](image-distortion.md).
+Generally, smaller news organizations have different reasons than larger ones to [distort the truth](people-image-distortion.md).
 
 - Independent journalists tend to be more sincere because their credibility can't take the blows a reputable outlet can.
 - However, they also can have sincerely *extreme* opinions a popular media organization wouldn't be able to maintain.

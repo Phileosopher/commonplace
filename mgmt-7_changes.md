@@ -120,7 +120,7 @@ As organizations get larger, several things will happen to your role:
 
 1. You will need to delegate *most* of your tasks to others, meaning you'll eventually be doing nothing *but* [make decisions](people-decisions.md) all day.
 2. Everyone who was part of your team as a worker will likely grow with you (and become managers as well) or depart the organization.
-3. To most people, you will become a symbol more than a human being, meaning the rules of [celebrity management](image.md) apply.
+3. To most people, you will become a symbol more than a human being, meaning the rules of [celebrity management](people-image-why.md) apply.
 
 To that end, your role (if you choose to stay with the organization) will adapt to endless [meetings and communications](mgmt-5_communication.md) with a wide variety of short interactions.
 

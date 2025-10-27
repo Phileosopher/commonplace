@@ -15,7 +15,7 @@ Make long batches of similar work:
 - Group similar tasks together that you can do one after the other.
 - When the work is critical, carve out massive chunks of time when you can stay uninterrupted.
 
-Learn [tactful ways to say "no"](people-5_conflicts.md).
+Learn [tactful ways to say "no"](people-conflicts.md).
 
 Avoid water-cooler gossip.
 

@@ -54,7 +54,7 @@ Signs the company doesn't care about their employees:
 - The employees either look away from the manager or act like they don't want to be there:
   - The manager is either controlling or the employees are embarrassed by them.
 - The workers are brutally honest and hate their job:
-  - The manager maintains a [false image](image-distortion.md) of a great workplace.
+  - The manager maintains a [false image](people-image-distortion.md) of a great workplace.
 
 Signs of deep corporate dysfunction:
 

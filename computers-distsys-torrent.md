@@ -62,7 +62,7 @@ Before going into the technical side of it, it's worth understanding how "peer-t
 - P2P protocols typically hold an entire network together with a "magnet link", which sends out a communication to the other computers that share that magnet link. If they have the same magnet link, they'll share information.
 - Magnet links can be quickly and easily converted into a [hash](encryption.md) for quickly referencing the information across the internet.
 
-There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols), but the most popular [network protocol](networks-computer.md) for P2P, by far, is the BitTorrent protocol. "Torrenting" operates on a relatively straightforward system:
+There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols), but the most popular [network protocol](networks-cs.md) for P2P, by far, is the BitTorrent protocol. "Torrenting" operates on a relatively straightforward system:
 
 1. A computer (typically a "tracker") hosts a "magnet link" as a .torrent file, which specifies a [hash](encryption.md) that a BitTorrent "client" can open.
 2. That magnet link refers to one of the clients, which has an authoritative set of complete data.
@@ -73,7 +73,7 @@ There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protoco
    - The emphasis on sending the lowest-available is part of the reason BitTorrent is so difficult to shut down.
 7. If other BitTorrent clients have that same magnet link enabled, they'll *also* upload/download the data, with multiple other clients at once.
 8. Even if a client goes offline, the packet-based transfer means it can resume precisely where it left off.
-9. When there are enough clients seeding, the content has a torrent "swarm", and is pretty much impossible to take down without destroying *all* the [network connections](networks-computer.md) of those computers at once. Enabling a "distributed hash table" (DHT) in the client can magnify user interactions after the initial leeching.
+9. When there are enough clients seeding, the content has a torrent "swarm", and is pretty much impossible to take down without destroying *all* the [network connections](networks-cs.md) of those computers at once. Enabling a "distributed hash table" (DHT) in the client can magnify user interactions after the initial leeching.
 
 The most popular group that manages torrents is the Pirate Bay. They continue to stick around because they never legally hold content, but constantly hold the hashes that point *to* the content that other people hold. It's a legal technicality that keeps them around.
 
@@ -145,9 +145,9 @@ While governments often take down indexing for pirated addresses, hosting, and s
 In short, piracy is a portion of the never-ending arms race within the larger domain of [cybersecurity](computers-cysec.md). Every site torn down is only a fraction of where the content is available.
 
 - Any formal efforts to suppress it will, like every other aspect of [human nature](people-rules.md), drive it underground.
-- The implementation of circumventing the law is constantly changing to respond to the situation ([IP](legal-ip.md)-disrespecting government, endless rapidly-deployed [websites](computers-sofware-webdev.md), [new decentralized protocols](standards-computers.md), [new network infrastructure](networks-computer.md)).
+- The implementation of circumventing the law is constantly changing to respond to the situation ([IP](legal-ip.md)-disrespecting government, endless rapidly-deployed [websites](computers-sofware-webdev.md), [new decentralized protocols](standards-computers.md), [new network infrastructure](networks-cs.md)).
 - The piracy community, however, sees the legislative moves as a type of challenge to overcome, and they're *constantly* changing tactics, with endless temporary [storage](computers-memory.md) and [decentralization](computers-distsys.md) for just about everything.
-- In fact, the only way to sufficiently crush internet piracy is to employ a single, worldwide [government](politics-systems.md) that micromanages [human freedoms](people-boundaries.md).
+- In fact, the only way to sufficiently crush internet piracy is to employ a single, worldwide [government](politics-systems.md) that micromanages [human freedoms](people-boundaries-why.md).
 
 There's no way to fully prevent [intellectual property](legal-ip.md) violations, since it only takes a few (typically young) people on the internet devoted to uploading content. The only solution to avoid the fight while also making a living is to [release the content for free](legal-ip-floss.md).
 
@@ -159,8 +159,8 @@ The controversy of torrenting has become almost a mainstay of society:
 
 Many software entrepreneurs and executives [aren't particularly aware](trends.md) of the mindset of pirates, and it creates a few odd arrangements:
 
-1. Particularly freedom-loving software developers will open the doors wide-open for [complete software freedom](legal-ip-floss.md), which will attract piracy-based users. This may include free [network use](networks-computer.md), free [storage](computers-memory.md), or [free hosting](computers-sofware-webdev.md).
-2. If they're not careful, that [risk exposure](safety-riskmgmt.md) will make them stand out as the go-to piracy solution, drawing in more users in that community. If they don't diversify their [marketing](marketing.md), they'll become [notorious](image.md) for piracy-based activities.
+1. Particularly freedom-loving software developers will open the doors wide-open for [complete software freedom](legal-ip-floss.md), which will attract piracy-based users. This may include free [network use](networks-cs.md), free [storage](computers-memory.md), or [free hosting](computers-sofware-webdev.md).
+2. If they're not careful, that [risk exposure](safety-riskmgmt.md) will make them stand out as the go-to piracy solution, drawing in more users in that community. If they don't diversify their [marketing](marketing.md), they'll become [notorious](people-image-why.md) for piracy-based activities.
 3. Eventually, government authorities will approach those developers, typically either requesting key information about users or to deactivate/delete content. The situation forces them into an ultimatum:
    - Give that information or act on behalf of the government, and receive the public resentment of the piracy world.
    - Withhold that information or resist taking down content, and get flagged by that government for noncompliance.

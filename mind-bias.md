@@ -3,7 +3,7 @@
 
 These are the biases and fallacies that define and distort how we [understand](understanding.md) the world around us.
 
-While cognitive bias and fallacy crafts a [false image](image.md) relative to [reality](reality.md), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
+While cognitive bias and fallacy crafts a [false image](people-image-why.md) relative to [reality](reality.md), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
 
 - There's *much* less mental work from filtering out information or converting it into a [story](stories.md).
 - Quick-and-easy solutions lets us sift through *much* more information, even if it's not that thorough.

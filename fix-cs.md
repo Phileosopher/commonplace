@@ -25,7 +25,7 @@ Avoid the following:
 On a regular basis, do the following to a slow computer:
 
 1. Run an [antivirus scan](computers-cysec-malware.md), just to confirm.
-2. Check for any running tasks, and sort by [CPU](computers-cpu.md), [memory](computers-memory.md), and [network](networks-computer.md) use to find what's using them the most.
+2. Check for any running tasks, and sort by [CPU](computers-cpu.md), [memory](computers-memory.md), and [network](networks-cs.md) use to find what's using them the most.
 3. Turn the power settings to the max (on Windows, "Always On" or "High Performance" setting for plugged-in).
 4. Check the interior for dust and blow it out with an air compressor.
    - Canned air has chemicals that can corrode motherboard circuits.
@@ -53,7 +53,7 @@ On a regular basis, do the following to a slow computer:
 
 ## Networked
 
-Typically, it helps to triple-check that *every* [networked](networks-computer.md) component is offline, and preferably unplugged.
+Typically, it helps to triple-check that *every* [networked](networks-cs.md) component is offline, and preferably unplugged.
 
 - For a long while afterward, a powered-off device can still register as connected (especially network switches).
 
@@ -92,7 +92,7 @@ First, ask what the simplest likely thing would be that could have failed. It's 
 - For software, check the [version numbers](computers-software-versionctrl.md) to be sure everything is up-to-date.
   - For [enterprise](computers-distsys.md) software, examine if there *were* any updates corresponding to the outage.
 - Make sure the configurations are set correctly.
-- Check the [network](networks-computer.md) to be sure it's working correctly.
+- Check the [network](networks-cs.md) to be sure it's working correctly.
 
 To avoid reference issues, don't let a CPU run updates or install *anything* while it's multitasking something else:
 
@@ -130,7 +130,7 @@ For the most part, software fixes simply require having the software pre-downloa
 - Antistatic mat or antistatic wrist strap
 - Head-mounted magnifier or magnifying glass
 - POST card for [boot](computers-boot.md) issues
-- Loopback plug for [network](networks-computer.md) diagnosis
+- Loopback plug for [network](networks-cs.md) diagnosis
 - Multimeter for testing circuitry
 - Power supply tester
 - Soldering iron with solder wire
@@ -183,9 +183,9 @@ Pay attention to the slowest part of the system. Any new subsystem that resolves
 
 If a [training model](ai-ml.md) has been poisoned, you have several options:
 
-1.  Start all over and retrain. This is technically the most obvious, but also the most time-consuming and potentially the most expensive.
-2.  Train the entire model on fixed, predictable, safe data, which dilutes the poison. It's not foolproof, but it's technically the lowest-effort, and further exposure to good data will make the model fix itself over time.
-3.  Delete and retrain the specific faulty nodes. If you can pull it off, this is ideal.
+1. Start all over and retrain. This is technically the most obvious, but also the most time-consuming and potentially the most expensive.
+2. Train the entire model on fixed, predictable, safe data, which dilutes the poison. It's not foolproof, but it's technically the lowest-effort, and further exposure to good data will make the model fix itself over time.
+3. Delete and retrain the specific faulty nodes. If you can pull it off, this is ideal.
 
 ## Postmortem
 

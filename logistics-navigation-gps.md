@@ -28,7 +28,7 @@ Further, a device often has the means to draw other information for trilateratio
 - Emergency 911 services use cell tower strength to triangulate the position of mobile devices.
 - Wi-Fi Positioning Systems (WPS) use Wi-Fi networks to trace location, similarly to E911.
 
-Beyond GPS, other services exist beyond the scope of US control (typically in case of [a war](people-conflicts-war.md)):
+Beyond GPS, other services exist beyond the scope of US control (typically in case of [a war](people-conflicts-war-why.md)):
 
 - Russia has GLONASS.
 - India has IRNSS.

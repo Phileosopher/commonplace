@@ -1,9 +1,9 @@
 
 # Why bad systems persist
 
-All political, social, and interpersonal systems convey and reinforce the [appearance](image.md) of accomplishing a good [purpose](purpose.md).
+All political, social, and interpersonal systems convey and reinforce the [appearance](people-image-why.md) of accomplishing a good [purpose](purpose.md).
 
-Bad systems are rarely created [maliciously](morality-evil.md) with a highly [distorted image](image-distortion.md). More often, they start good and turn bad. At least, they start as good as [human nature](humanity.md) can [make](creations.md) it.
+Bad systems are rarely created [maliciously](morality-evil.md) with a highly [distorted image](people-image-distortion.md). More often, they start good and turn bad. At least, they start as good as [human nature](humanity.md) can [make](creations.md) it.
 
 By "bad", something has been [purposed](purpose.md) or repurposed to the point that it doesn't [add legitimate value](meaning.md), [foster growth](people-changes.md), or inspire [moral behavior](morality.md). The causes are from evil or incompetence and don't have to be [intentional](purpose.md). But, [evil](morality-evil.md) people can (and eventually do if when they amass enough [power](power.md)) direct a group's [purpose](purpose.md) to a malicious [end](results.md). This begins when the entity starts acting toward the best interests of the [leadership](groups-large.md) instead of the group ("realpolitik").
 
@@ -17,9 +17,9 @@ A bad system has clear indicators:
 - The most [creative](mind-creativity.md) or [productive](results.md) members [loyal](trust.md) to the group can't work as hard as they want or create better solutions.
 - Any [safety](safety.md) measures either don't work or aren't honored.
 - [Measurements](math.md) to judge merit in the system are easy to cheat at, and most members do.
-- Leaders have no motivation to value merit, so they promote people who fit their [preferences](humanity.md). Over time, all the leadership will look eerily similar because they've all been [close friends](people-friends.md) for a long time.
-- People are [unsafe](safety.md) or [dying](mind-feelings-fear.md), but the leaders either don't acknowledge it or [shift blame](image-distortion.md).
-- The [image](image.md) of the [organization](groups-large.md) as seen from outside is vastly different from [the reality](reality.md) inside it.
+- Leaders have no motivation to value merit, so they promote people who fit their [preferences](humanity.md). Over time, all the leadership will look eerily similar because they've all been [close friends](people-friends-why.md) for a long time.
+- People are [unsafe](safety.md) or [dying](mind-feelings-fear.md), but the leaders either don't acknowledge it or [shift blame](people-image-distortion.md).
+- The [image](people-image-why.md) of the [organization](groups-large.md) as seen from outside is vastly different from [the reality](reality.md) inside it.
 - The [documentation and communication](language.md) is vague or difficult to [understand](understanding.md), and often obsolete.
 - Any processes or systems have a slow response time or are utterly insufficient for what they're supposed to do.
 - The leadership is unusually [young](maturity.md), unusually [related](people-family.md) to the rest of the leadership, or all share membership of a smaller and unrelated special interest group.
@@ -32,7 +32,7 @@ One of the most frequent behaviors of bad systems is to suppress better solution
 - A simple cure for cancer, if it exists, would never be as profitable as [all the treatments](body-4_health.md).
 - [Tax filing](money-accounting.md) services in the USA presently work to prevent free tax filing services through the government.
 
-APPLICATION: Scandals are common because leaders have to enforce an [image](image.md) of values, but they're human and fallible.
+APPLICATION: Scandals are common because leaders have to enforce an [image](people-image-why.md) of values, but they're human and fallible.
 
 This has been divided for convenience:
 

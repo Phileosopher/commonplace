@@ -100,7 +100,7 @@ Artistic and [creative](mind-creativity.md) skills:
 
 Rent a room in your [home](home-maintenance.md) or secondary property:
 
-- If you hire a management company to rent it out, be careful who you hire and what their [contract](people-6_contracts.md) stipulates.
+- If you hire a management company to rent it out, be careful who you hire and what their [contract](people-contracts.md) stipulates.
 - Alternately, you can rent them out as temporary vacation lodging.
 
 [Save](money-saving.md) and [invest](money-investing.md) extra money.
@@ -111,7 +111,7 @@ Some things won't necessarily make *much* money, but can add a small amount of i
 
 - Look for [tax-favored](money-accounting.md) improvements and tax rebates for various lifestyle decisions.
 - Cash in your company's paid vacation days in at the end of the year instead of using them.
-- Read the terms and conditions of many of your [contracts](people-6_contracts.md), since some include a $1000 prize for anyone who notices.
+- Read the terms and conditions of many of your [contracts](people-contracts.md), since some include a $1000 prize for anyone who notices.
 
 Sell things you never use, don't need, or can find affordably:
 

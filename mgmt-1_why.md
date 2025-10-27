@@ -25,14 +25,14 @@ Like [accounting](money-accounting.md), [marketing](marketing.md), or [IT](compu
 Like [success](success-1_why.md) and [investing](money-investing.md), there's a *lot* of bad management advice:
 
 - Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](safety.md) without much work or crave [power](power-types.md) over others.
-- A manager who [appears](image.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
+- A manager who [appears](people-image-why.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
   - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](results.md).
 - The formal [culture](people-culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
 ## The image of management
 
-Our [religious tendencies](religion.md) mean we tend to draw behind the [image](image.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
+Our [religious tendencies](religion.md) mean we tend to draw behind the [image](people-image-why.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
 
 - It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
 - Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
@@ -45,7 +45,7 @@ Management reproduces the role of high-quality [fatherhood](parenting-children.m
 
 Actual management, however, includes a few extra details the image fails to portray:
 
-1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](people-decisions.md) leaders that give clear and practical examples of what to do.
+1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts-why.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](people-decisions.md) leaders that give clear and practical examples of what to do.
 2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
 3. Managers are forced to take responsibility for difficult [decisions](people-decisions.md). Most of them are choices between an awful thing and something worse.
 
@@ -91,7 +91,7 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
   - But, most of them must have at least a few important [conversations](mgmt-5_communication.md) or [public speeches](language-speaking.md) every day.
 - Agreeableness must be average to above-average.
   - They'll often have to make goals and [decisions](people-decisions.md) without others' input.
-  - They'll also need to confront [conflicts](people-5_conflicts.md) as they happen, which will likely include firing someone at least once.
+  - They'll also need to confront [conflicts](people-conflicts.md) as they happen, which will likely include firing someone at least once.
   - At the exact same time, they must win [friends](people-4_friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
   - Maintaining their composure is the only way to build and maintain others' [trust](trust.md) as being reliable.
@@ -113,11 +113,11 @@ Managers have to battle the conflicting interests between their subordinates and
    - They generally have no idea what they're doing.
    - Typically, if they keep working they'll either stay as a manager and lose the skills they had sharpened to get to that position, or downgrade themselves back to being a worker in another role.
    - Sometimes a manager is simply the wrong personality for the role.
-     - Some roles require more [organization](organization.md), and others require more [people](people-3_boundaries.md).
+     - Some roles require more [organization](organization.md), and others require more [people](people-boundaries.md).
      - The only way to distinguish between whether a manager was a bad choice or simply misplaced is through observing their performance in other management roles.
 4. Prioritize themselves over others.
    - Their leadership role is simply a means for self-promotion.
-   - Many of them will hide their selfishness through plenty of education and [clever language tricks](image-distortion.md).
+   - Many of them will hide their selfishness through plenty of education and [clever language tricks](people-image-distortion.md).
    - In fact, many of them are experts at hiding their failures.
    - However, there are some clear ways to tell:
      - They appear to be the most capable person in an otherwise inept team.
@@ -147,13 +147,13 @@ Decent management is *always* coaching.
 
 - While "human resources" implies people are interchangeable supplies, they all have individual lifestyles and personalities.
 - Mentorship and leadership guides members to be better people overall, which is a long-term investment of both showing by example and consistently serving others.
-- Good coaching comes through complete trust and honesty, which requires at least [adequate interpersonal skills](people-3_boundaries.md).
+- Good coaching comes through complete trust and honesty, which requires at least [adequate interpersonal skills](people-boundaries.md).
 
 Managers are granted roles from someone in a position of authority who liked them, but leaders express their competence before they *ever* become managers:
 
 - Others tend to stop and listen whenever they speak.
 - Wherever they go, they'll tend to take charge, and others will want to follow them.
-- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts.md) to something else or following a [social fashion](trends.md).
+- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts-why.md) to something else or following a [social fashion](trends.md).
 
 The primary distinguishing features between a leader/manager and a manager-in-title-only comes through:
 
@@ -171,11 +171,11 @@ The stereotype of bad managers distill to a few key details:
 
 - Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](awareness.md) of that fact.
 - Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which leads to some amount of hypocrisy with their expectations of others.
-- Either poor [interpersonal](people-3_boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
+- Either poor [interpersonal](people-boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
 - Poorly [understood](understanding.md) or poorly articulated [vision](imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
-- Unwilling to hear [constructive input](people-conflicts.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
+- Unwilling to hear [constructive input](people-conflicts-why.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
 - Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged.
-- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](image.md).
+- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](people-image-why.md).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
 Most of the time, these managers rise into their role because the organization needed a human being in a spot, and nobody else was around.
@@ -190,8 +190,8 @@ Many [larger group](groups-large.md) managers are *not* leaders:
 - Further, if a manager promotes someone (even badly), they might have [political](power-types.md) reasons:
   - Giving power to someone takes power away from someone else.
   - The boost to that worker's ego means they're more likely to stay loyal to the group, which means they're less likely to leave.
-  - [Groups can't admit they're wrong](groups-small.md), so a manager can easily [become the public scapegoat](image-distortion.md) for a change the manager wants to make.
-- Business [schools](education.md) tend to churn out MBA [technical idiots](https://gainedin.site/idiot/) who have poor [people skills](people-3_boundaries.md), but are skilled at [negotiating](people-conflicts-negotiation.md) lower employee pay.
+  - [Groups can't admit they're wrong](groups-small.md), so a manager can easily [become the public scapegoat](people-image-distortion.md) for a change the manager wants to make.
+- Business [schools](education.md) tend to churn out MBA [technical idiots](https://gainedin.site/idiot/) who have poor [people skills](people-boundaries.md), but are skilled at [negotiating](people-conflicts-negotiation.md) lower employee pay.
   - In a group of them, their culture may often even instill outright *contempt* for subordinates.
 
 Watch for key phrases and behaviors that show non-leader managers (NLMs):
@@ -211,12 +211,12 @@ When nobody leads by asking questions that provoke change, NLM [culture](people-
 - Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
 - Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](results.md) within those projects.
 - Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
-- Often dismally [unaware](awareness.md) of how everyone else [sees them](image.md).
+- Often dismally [unaware](awareness.md) of how everyone else [sees them](people-image-why.md).
 
 Great management can't be trained because the managers must *choose* to be authentic and behave maturely.
 
 - Identifying with members' feelings and defects requires vulnerability about personal weaknesses.
-- Healthy [conflict resolution](people-5_conflicts.md) requires understanding everyone's interests.
+- Healthy [conflict resolution](people-conflicts.md) requires understanding everyone's interests.
 
 In most management capacities, it's surprisingly easy to *appear* productive, but also not *be* productive.
 
@@ -240,7 +240,7 @@ The manager's skills will need to be appropriate to the team's purposes:
 
 - Excellent communication skills.
 - Skill at [influencing others](power-influence.md) to their perspective.
-- [Curates their image](image-distortion.md) and [crafts stories](stories.md) to appear at least a little better than [reality](reality.md).
+- [Curates their image](people-image-distortion.md) and [crafts stories](stories.md) to appear at least a little better than [reality](reality.md).
 - Adapts to change and inspires others to it as well.
 - Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.

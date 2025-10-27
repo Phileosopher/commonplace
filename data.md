@@ -75,7 +75,7 @@ Date/Time
 
 Refs
 
-- Refs (short for references) are pointing to other things such as [memory](computers-memory.md) locations, [variables](computers-programming.md), or [network locations](networks-computer.md).
+- Refs (short for references) are pointing to other things such as [memory](computers-memory.md) locations, [variables](computers-programming.md), or [network locations](networks-cs.md).
 - They can be overwritten with a re-reference to something else, but the only operating is on what that reference points *to*.
 
 Enumerated type
@@ -106,6 +106,6 @@ Data itself is stored in [memory](computers-memory.md), and computers only do a 
 
 1. Wait and do nothing, with the information held for later use.
 2. Do further logical things with it, based on what a [program](computers-programming.md) is instructed to do.
-3. Output the information somewhere. It may be nearby (e.g., a [screen](engineering-screen.md)) or sent out to another computer via a [network](networks-computer.md).
+3. Output the information somewhere. It may be nearby (e.g., a [screen](engineering-screen.md)) or sent out to another computer via a [network](networks-cs.md).
 
 Individually, data doesn't mean much, but combining data with other data can generate *immense* results, especially as [databases](database.md) grow substantially larger.

@@ -33,14 +33,14 @@ Generally, when [deciding](people-decisions.md) when you don't know what to [exp
 
 Any security system, of any type, can't 100% stop things. A sufficiently [motivated](purpose.md), [creative](mind-creativity.md), and [talented](humanity.md) person can break through anything made by another person.
 
-The *actual* purpose of a security system (and a benevolent [legal system](people-boundaries.md)) is to make the intruders [work](results.md) harder than the reward by requiring them to spend more [power](power.md) to get it than it appears to be worth ("deterrence"). Nobody will outright admit it, but defenders are often trying to direct the attackers' efforts to the defender's neighbors.
+The *actual* purpose of a security system (and a benevolent [legal system](people-boundaries-why.md)) is to make the intruders [work](results.md) harder than the reward by requiring them to spend more [power](power.md) to get it than it appears to be worth ("deterrence"). Nobody will outright admit it, but defenders are often trying to direct the attackers' efforts to the defender's neighbors.
 
-Most people don't separate the concept, but *appearing* secure is different from *being* secure. The [image](image.md) of security can imply more [power](power.md) than reality, which is why people use "security theater":
+Most people don't separate the concept, but *appearing* secure is different from *being* secure. The [image](people-image-why.md) of security can imply more [power](power.md) than reality, which is why people use "security theater":
 
 - Security guards make their rounds to look more intimidating to potential thieves and vandals, even though a hidden camera with a motion sensor does a better job.
 - Thoroughly searching everyone who gets on an airplane will ensure nobody brings a bomb, but random searches (theoretically) [scare](mind-feelings-fear.md) bombers just as much.
 
-APPLICATION: Legitimate security and the [appearance](image.md) of security are completely unrelated, so don't assume the appearance is [reality](reality.md), especially with [leaders](groups-large.md).
+APPLICATION: Legitimate security and the [appearance](people-image-why.md) of security are completely unrelated, so don't assume the appearance is [reality](reality.md), especially with [leaders](groups-large.md).
 
 Thieves and vandals are interested in things they can use to gain [some type of power](power-types.md), so another tactic is for defenders to hide their [power](power.md):
 
@@ -75,11 +75,11 @@ So, because of this, most security systems build "back doors" to prevent [human 
 Because of our [habitual](habits.md) nature, we often forget *why* the security system is there and will fail to verify that it's a legitimate situation:
 
 - Man-in-the-middle attacks involve the person thinking they're accessing a legitimate website (which isn't) to enter their credentials like normal.
-- In a key-card system, people will be quick to give grace to someone who "forgot" their key-card, especially if they share a [common interest](people-friends.md) (like smoking).
+- In a key-card system, people will be quick to give grace to someone who "forgot" their key-card, especially if they share a [common interest](people-friends-why.md) (like smoking).
 
 Distrust can also be [habit-forming](habits.md). We tend to [identify](identity.md) what we [focus](purpose.md) on, so we can become [obsessive](addiction.md) about protecting things. The cure is to ask *what* we're protecting and how much we're willing to [lose it](mind-feelings-fear.md).
 
-It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](people-decisions.md)!
+It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](people-image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](people-decisions.md)!
 
 Security and freedom are inversely correlated, so something [valuable](values.md) that is also useful will invariably have to be protected by something inconvenient, and will likely still be exposed to risks:
 

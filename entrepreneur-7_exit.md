@@ -44,9 +44,9 @@ Try to sell before you have to.
 
 Unless you're in an industry that doesn't care about [brand](marketing.md), the value of the company is *not* simply its [asset value minus its liabilities](money-accounting.md).
 
-- You have built a reputation, and the premium over the equity value of the company is the direct market price of your company's name's [reputation](image.md).
+- You have built a reputation, and the premium over the equity value of the company is the direct market price of your company's name's [reputation](people-image-why.md).
 - Most buyers are asking what financial gain your reputation will have on the future, then discount it over that window of time.
-  - e.g., if they expect to gain $10 million from your company's brand within 3 years, they may propose buying it for $3 million but be willing to [haggle](people-5_conflicts.md) up to $5 million for it.
+  - e.g., if they expect to gain $10 million from your company's brand within 3 years, they may propose buying it for $3 million but be willing to [haggle](people-conflicts.md) up to $5 million for it.
 
 ### Mergers & acquisitions
 

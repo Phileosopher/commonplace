@@ -67,7 +67,7 @@ For this reason, the tech recruiting industry is filled with a barely-fluent arm
 
 Most recruiters are *not* aware of (and don't care about) specific details that may complicate the process:
 
-1. Any [background history](image-modern.md) (e.g., criminal convictions) that would impede an applicant.
+1. Any [background history](people-image-modern.md) (e.g., criminal convictions) that would impede an applicant.
 2. Residency/citizenship status (e.g., H1B visa vs. citizen) that would prevent hiring for legal reasons.
 3. Specific requirements that are absolutely critical to the role, as opposed to listed skills that are simply convenient for the applicant to have.
 

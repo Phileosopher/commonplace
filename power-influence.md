@@ -1,15 +1,15 @@
 
 # How influence works
 
-Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends.md) with the speaker and their [choice](people-decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
+Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends-why.md) with the speaker and their [choice](people-decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
 
-An influencer is controlling a [story](stories.md), typically to advance an [idea](values.md) or change someone's [reputation](image.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
+An influencer is controlling a [story](stories.md), typically to advance an [idea](values.md) or change someone's [reputation](people-image-why.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
 
 When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](people-decisions.md) to [trust](trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
 
 ## Purpose
 
-Influence is trying to change the [story](stories.md) someone already has about something. Over time, this influence becomes our [reputation](image.md).
+Influence is trying to change the [story](stories.md) someone already has about something. Over time, this influence becomes our [reputation](people-image-why.md).
 
 Every influential action someone takes has a [purpose](purpose.md) behind it:
 
@@ -24,13 +24,13 @@ The most significant [purpose](purpose.md) we ever have with others is to be imp
 
 APPLICATION: Most people don't naturally make others feel relevant, so everyone is incessantly starved for attention from others. It's why the Ben Franklin Effect works (requesting others to perform many tiny, small favors to build a reputation with them).
 
-APPLICATION: We're *all* naturally sensitive to rejection, so we must be careful to not reject people without a [purpose](purpose.md) behind it, even when we face [conflicts](people-conflicts.md) with others.
+APPLICATION: We're *all* naturally sensitive to rejection, so we must be careful to not reject people without a [purpose](purpose.md) behind it, even when we face [conflicts](people-conflicts-why.md) with others.
 
-Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](image.md). Most people typically [feel](mind-feelings.md) like they're impostors because they don't realize *everyone else* is doing the same thing.
+Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](people-image-why.md). Most people typically [feel](mind-feelings.md) like they're impostors because they don't realize *everyone else* is doing the same thing.
 
-APPLICATION: We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](image.md).
+APPLICATION: We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](people-image-why.md).
 
-APPLICATION: Nerds and geeks don't really care much about [image](image.md), mostly because they don't know how to wield it. However, they're often less influential merely from not learning a few tricks.
+APPLICATION: Nerds and geeks don't really care much about [image](people-image-why.md), mostly because they don't know how to wield it. However, they're often less influential merely from not learning a few tricks.
 
 Even unpleasant actions like whining and complaining can be a form of influence. However, its purpose is to elicit [pity](mind-feelings-sadness.md) from others about an unattainable [purpose](purpose.md), *not* to gain power by implying we have power already. It's the easiest thing to do (i.e., feel sorry for yourself), so most people don't respect it, and it sabotages other forms of power in the process.
 
@@ -50,15 +50,15 @@ Broadly, every influential thing has 5 components:
 
 People pay *close* attention to the messenger when hearing a message.
 
-Influential people use their [image](image.md) to draw from others' [imagination](imagination.md) about [reality](reality.md), so they have a vast toolbox to draw from:
+Influential people use their [image](people-image-why.md) to draw from others' [imagination](imagination.md) about [reality](reality.md), so they have a vast toolbox to draw from:
 
 - The various [feelings](mind-feelings.md) we can evoke with our [choice](people-decisions.md) of words.
-- Provoking recollection of others' past [favor](image.md) toward us or [affiliations](groups-member.md) with us as we speak.
+- Provoking recollection of others' past [favor](people-image-why.md) toward us or [affiliations](groups-member.md) with us as we speak.
 - Even repulsion or rejection can be used for influence in the right hands (e.g., [bad press](stories-storytellers.md), reverse psychology).
 
 That messenger must appear to have authority on what they're talking about.
 
-- The authority usually comes through bold [confidence](understanding-certainty.md) or an [appearance](image.md) of [prior success](success-1_why.md), but can also come through choice of clothing.
+- The authority usually comes through bold [confidence](understanding-certainty.md) or an [appearance](people-image-why.md) of [prior success](success-1_why.md), but can also come through choice of clothing.
 - Their authority should appear to be [effortless](purpose.md) to them.
 - Even if it's not authority in competence, they can still demonstrate [moral](morality.md) authority (e.g., [clergy](religion.md)).
 - Staying quiet, taking time to go through things, or appearing unaffected by others' behavior or status can imply a *lot* of authority (i.e., "meekness").
@@ -86,10 +86,10 @@ APPLICATION: By giving more to people, they're more likely to want to give back.
 The messenger must be charming:
 
 - Consistently draw attention to themselves and associate with [trends](trends.md) to *constantly* surround themselves with others (and may even become a trend [value](values.md) of their own if others [believe](understanding-certainty.md) in them).
-- Physically attractive, or at least decent-looking and [well-kept](people-2_image.md).
-- Gives [affirmations](people-3_boundaries.md) to the audience to make them feel important, even when those affirmations are complete [lies](people-lying.md).
+- Physically attractive, or at least decent-looking and [well-kept](people-image.md).
+- Gives [affirmations](people-boundaries.md) to the audience to make them feel important, even when those affirmations are complete [lies](people-lying.md).
 - Keeps a [mystery](unknown.md) around them by omitting or hiding information, making themselves relatively scarce by comparison to others, and evoking a small amount of [fear](mind-feelings-fear.md).
-- When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](people-rules.md).
+- When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](people-image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](people-rules.md).
 
 ### The story
 
@@ -107,7 +107,7 @@ The [story](stories.md) must give a clear [purpose](purpose.md) at the end:
 
 - In effect, the audience must feel that the [changes](people-changes.md) required for that purpose are worth it.
 - The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](people-decisions.md).
-- That value must aspire to an element of [virtue](morality.md). Even to people who only care about [image](image.md) or [power](power.md), they still want to *[feel](mind-feelings.md)* or look as if they were virtuous!
+- That value must aspire to an element of [virtue](morality.md). Even to people who only care about [image](people-image-why.md) or [power](power.md), they still want to *[feel](mind-feelings.md)* or look as if they were virtuous!
 - Have the audience physically interact or experience the item to [feel](mind-feelings.md) its impact.
 - If the story is tied to the messenger *at all*, the messenger will express their current (or potentially [future](imagination.md)) state as the end of their story.
 
@@ -125,15 +125,15 @@ The setting also has a massive effect on the story:
 
 ## Persuading people
 
-Persuasion is the long-term effort of influence, and expresses the same regardless of [speaking](language-speaking.md), [conflicts](people-conflicts.md), or [relationships](people-friends.md):
+Persuasion is the long-term effort of influence, and expresses the same regardless of [speaking](language-speaking.md), [conflicts](people-conflicts-why.md), or [relationships](people-friends-why.md):
 
 1. Demonstrate why a belief may be worth investigating.
    - [Prove](logic.md) the person is missing out on a growing [trend](trends.md). That way, people [feel](mind-feelings.md) like others will like them, and they'll be important within a [group](groups-member.md).
 2. Communicate [uncertainty](unknown.md) about what they currently know.
-   - Deepen the intricacies of the belief by adding [understanding](understanding.md) of multiple [perspectives](image.md), with refutations for each one of them.
+   - Deepen the intricacies of the belief by adding [understanding](understanding.md) of multiple [perspectives](people-image-why.md), with refutations for each one of them.
    - It may simply come through asking many "why?" questions to test what that person [understands](understanding.md).
 3. Give a clue into the correct answer, but do *not* answer it all the way for the audience (which makes them find [meaning](meaning.md) in [learning](education.md) it themselves).
-4. [Show](image.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
+4. [Show](people-image-why.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
    - They need additional information to verify that their [values calculus](people-decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
 5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](trust.md).
@@ -150,9 +150,9 @@ We call influential people "leaders", but we *all* constantly swap from leading 
 1. When a person speaks, they "lead" with their idea. Every listener "follows", proportional to their open-mindedness.
 2. When that person finishes speaking, they typically "follow" back by [listening](people-4_friends.md) to the other person's response.
 3. At any point, any follower can "challenge" that leadership by interrupting or correcting that person.
-4. While an uneven distribution of [power](power.md) has one of the people leading more (such as in [parenting](people-family.md) or [group leadership](groups-small.md)), a general [friendship](people-friends.md) among peers will each share about 50% of the power.
+4. While an uneven distribution of [power](power.md) has one of the people leading more (such as in [parenting](people-family.md) or [group leadership](groups-small.md)), a general [friendship](people-friends-why.md) among peers will each share about 50% of the power.
 
-We don't often see it, but the [image](image.md) we're trying to convey as we're influencing often becomes our [self-image/identity](identity.md). While trying to win people over, we tend to win *ourselves* over as well. Associating with strong people will make us stronger, having [entrepreneur](socialrisk.md) friends will make us more risk-resistant, and [successful living](success-1_why.md) requires successful associates.
+We don't often see it, but the [image](people-image-why.md) we're trying to convey as we're influencing often becomes our [self-image/identity](identity.md). While trying to win people over, we tend to win *ourselves* over as well. Associating with strong people will make us stronger, having [entrepreneur](socialrisk.md) friends will make us more risk-resistant, and [successful living](success-1_why.md) requires successful associates.
 
 Often, people who can manage their [fear](mind-feelings-fear.md) discover [opportunities](purpose.md) hiding behind a crisis:
 
@@ -165,20 +165,20 @@ These people frequently become [leaders](groups-large.md) and heroes, depending 
 
 At its farthest, a *highly* influential and [immoral](morality.md) person can "gaslight" other people, which effectively allows complete [power](power.md) over that person:
 
-1. Intentionally [distort](image-distortion.md) the [truth](reality.md)
+1. Intentionally [distort](people-image-distortion.md) the [truth](reality.md)
 2. Provoke that person to [trust them implicitly](trust.md)
-3. Drive them to [distrust](unknown.md) their [perception](image.md)
+3. Drive them to [distrust](unknown.md) their [perception](people-image-why.md)
 
 [Cults](culture-cults.md) are effectively gaslighting entire groups of people.
 
-Most [bad systems](mgmt-badsystems.md) are simply the [logical](logic.md) consequence of exploiting how people are influenced, mixed with anyone with a [scrupulous](morality.md) enough [personality](personality.md) in a position of [power](power.md) to [confront](people-conflicts.md) them.
+Most [bad systems](mgmt-badsystems.md) are simply the [logical](logic.md) consequence of exploiting how people are influenced, mixed with anyone with a [scrupulous](morality.md) enough [personality](personality.md) in a position of [power](power.md) to [confront](people-conflicts-why.md) them.
 
 Often, people will naturally avoid giving freely to others for the purpose of garnering more positive connection (as counter-[intuitive](mind-feelings.md) as it sounds).
 
 Quite a few tricks can be abused to dishonestly gain others' favor:
 
-- [Make an appearance](image-distortion.md) of performing more [kindness](morality.md) or possessing more [competence](purpose.md) than they really do, frequently with elegant [story-telling](stories-storytellers.md).
-- Request others share intimate personal information (their birthday, favorite hobbies) or assist with small tasks to imply a [friendship](people-friends.md).
+- [Make an appearance](people-image-distortion.md) of performing more [kindness](morality.md) or possessing more [competence](purpose.md) than they really do, frequently with elegant [story-telling](stories-storytellers.md).
+- Request others share intimate personal information (their birthday, favorite hobbies) or assist with small tasks to imply a [friendship](people-friends-why.md).
 - Give small things with an implicit [meaning](meaning.md) to imply that person is important.
 - Declare a vague attribute about others (e.g., a strong-willed person), which provokes [bias](mind-bias.md) that confirms what they were alluding to.
 
@@ -213,7 +213,7 @@ Many influencers want to maintain the social connections that maintain their [po
 
 APPLICATION: We must be careful who we're influencing with what. We tend to [identify](identity.md) with what we're trying to influence, so it should be [good](morality.md), [true](reality.md), [beautiful](values-quality.md) things to attain [the good life](goodlife.md). Our [belief in what we share](trust.md) should have at least as much evidence proportionally to how unlikely it is.
 
-Usually, they will apply their skills toward a perverse end, including [distorting image](image-distortion.md) and abusing the [power](power-types.md) they still wield. Often, they'll treat abuse other people when they know they can exploit their [power](power-types.md) without any adverse [consequences](results.md).
+Usually, they will apply their skills toward a perverse end, including [distorting image](people-image-distortion.md) and abusing the [power](power-types.md) they still wield. Often, they'll treat abuse other people when they know they can exploit their [power](power-types.md) without any adverse [consequences](results.md).
 
 APPLICATION: If self-help and [philosophy](philosophy.md) writers were humble and open-minded enough to let people come to their own conclusions, most of their books would never go past 50 pages unless it was covering multiple topics at once.
 

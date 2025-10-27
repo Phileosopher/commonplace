@@ -10,7 +10,7 @@ Most tech managers and lead developers are promoted once they've proven their wo
 
 ## Bad culture
 
-You can usually track some signs the company's [culture](people-culture.md) isn't a good fit for you, even when the leadership is [messaging](image.md) that your values *are* important in that workplace:
+You can usually track some signs the company's [culture](people-culture.md) isn't a good fit for you, even when the leadership is [messaging](people-image-why.md) that your values *are* important in that workplace:
 
 - Being forced to not tell others about the cool technology you're working with (such as a non-disclosure agreement) or the company regularly takes workers' intellectual properties for itself.
 - Not being permitted to work in competitor companies (such as a non-compete agreement), effectively forcing you to work with them until you change industries.
@@ -117,7 +117,7 @@ It's not wise to imagine your situation will become better on its own. Badly man
 
 Further, even if you're working on something that *does* provide [meaning](meaning.md), don't expect the work to continue:
 
-- Even if it's making a *lot* of money, it may be discontinued by management due to profit justifications (which isn't too infrequent when waging [managerial political battles](people-conflicts-war.md) or [distorting the organization's image](image-distortion.md)).
+- Even if it's making a *lot* of money, it may be discontinued by management due to profit justifications (which isn't too infrequent when waging [managerial political battles](people-conflicts-war-why.md) or [distorting the organization's image](people-image-distortion.md)).
 - The company may rebuild a closed-source version of a previously [open-source codebase](legal-ip-floss.md), meaning it's no longer open to the community.
 - Sometimes, they'll deliver layoffs simply under the premise of cutting costs.
 - Other times, if you're the highest-paid staff member, your job security may be at risk (simply because no longer working would dramatically cut their costs).
@@ -132,7 +132,7 @@ Watch yourself to see if you're falling into corporate Stockholm Syndrome.
 Some people can take advantage of two bad companies and work two jobs simultaneously.
 
 - This requires some adjusting and non-communication, but it's perfectly possible to collect two full-time paychecks if you can work from home for both of them.
-- The only downside, though, is that the reporting will show up on your [legal fiction](image-modern.md) (e.g., Equifax), so you may experience adverse consequences of that decision.
+- The only downside, though, is that the reporting will show up on your [legal fiction](people-image-modern.md) (e.g., Equifax), so you may experience adverse consequences of that decision.
 
 If you want to stay at a company, keep yourself [legally safe](legal-safety.md) by tracking what you're doing.
 
@@ -157,7 +157,7 @@ Many, *many* veterans of the tech industry have the same general attitude:
 
 Of course, if you don't like working with tech, there are *many* in-demand trades elsewhere, and [it's worth exploring](jobs-1_why.md) if you're curious.
 
-- The tech industry's [youthful nature](https://trendless.tech/trends/) means the positivity people have for working on their role is *vastly* [inflated](image-distortion.md).
+- The tech industry's [youthful nature](https://trendless.tech/trends/) means the positivity people have for working on their role is *vastly* [inflated](people-image-distortion.md).
 - If you enjoy the work, even if it doesn't pay that well, you're [living a better life](goodlife.md) than someone enduring an awful job.
 
 ## Additional reading

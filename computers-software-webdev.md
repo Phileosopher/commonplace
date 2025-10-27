@@ -25,7 +25,7 @@ To add to the above complexity, there are also [cybersecurity](computers-cysec.m
 
 ## Hardware
 
-The hardware of the internet is a worldwide [network](networks-computer.md), mostly connected through various cables and [wireless signals](engineering-radio.md), along with some [satellite connections](logistics-navigation.md).
+The hardware of the internet is a worldwide [network](networks-cs.md), mostly connected through various cables and [wireless signals](engineering-radio.md), along with some [satellite connections](logistics-navigation.md).
 
 While computers maintain constant connection with each other (by human standards), the systems involved require *constant* asynchronous data transfer:
 

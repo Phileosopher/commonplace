@@ -88,7 +88,7 @@ The concept of value, however, is [a philosophically complicated one](values.md)
 1. Momentum investing - looking at the current price of something and [creating expectations](imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
    - The idea is that the right mode of [intuitive](mind-feelings.md) analysis and understanding alone can predict future performance.
    - This is patently ridiculous, since we can't [predict the future](imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
-2. Value investing - find the investment's intrinsic underlying value, [without distortion](image-distortion.md), then buying or selling based on the divergence from that value.
+2. Value investing - find the investment's intrinsic underlying value, [without distortion](people-image-distortion.md), then buying or selling based on the divergence from that value.
    - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](trends.md), and long-term growth potential.
    - Its primary focus emphasizes cheapness and concrete facts, but it can become myopic to bad decisions.
    - At the far end, net-net investing directs funds to places where a company's stock is less than the company's current assets.
@@ -160,7 +160,7 @@ The efficiency of an asset class as an investment vehicle is proportional to a f
    - The information should be widely distributed, and preferably approved by a reputable [government](people-rules.md).
 2. The asset is socially acceptable and not [controversial or taboo](morality-taboo.md), which exposes you to non-financial risks:
    - [Potential legal issues](legal-safety.md) if a [law](people-rules.md) *might* forbid it.
-   - Potential [publicity](image.md) problems, irrespective of legality.
+   - Potential [publicity](people-image-why.md) problems, irrespective of legality.
    - [Ethical issues](morality.md) you won't be immediately aware of through the [culture](people-culture.md) of the people who engage in that asset.
 3. The benefits of that asset class are instantly clear and comprehensible.
    - The risk of a scam increases with how opaque their system is (see below under Scams).

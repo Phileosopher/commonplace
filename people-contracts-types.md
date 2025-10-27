@@ -95,7 +95,7 @@ Service contract - general contract defining the scope of performing a service.
 Sharing benefits:
 
 - Cohabitation agreement - two people, irrespective of [sexuality](gender.md), who have agreed to live together (a bit like [marriage](relationships-marriage.md), but only in some domains).
-- Interconnect agreement - telecommunications companies agreeing to connect their networks and exchange [network traffic](networks-computer.md).
+- Interconnect agreement - telecommunications companies agreeing to connect their networks and exchange [network traffic](networks-cs.md).
 - Joint venture agreement - the goals, obligations, and financial contributions of parties in a joint business venture.
 - Material transfer agreement - governs the transfer of tangible research materials between 2 entities for the purpose of the recipient using it for their own research.
 - Memorandum of understanding - a bilateral (2 parties) or multilateral (3+ parties) agreement that expresses a convergence of will between the parties.

@@ -9,7 +9,7 @@ In summary, everyone must [love](people-love.md) each other for a perfect societ
 
 ## Law and order
 
-[Misunderstandings](understanding.md) frequently create [conflicts](people-conflicts.md). But, if everyone loved each other, they'd presume the best of the other person and the conflicts would never be prolonged, suppressed, or devolve into [violence](people-boundaries.md). Everyone would sort out their issues as quickly as possible.
+[Misunderstandings](understanding.md) frequently create [conflicts](people-conflicts-why.md). But, if everyone loved each other, they'd presume the best of the other person and the conflicts would never be prolonged, suppressed, or devolve into [violence](people-boundaries-why.md). Everyone would sort out their issues as quickly as possible.
 
 [Laws](people-rules.md) would only serve to enforce common sense and self-respect, and would rarely be broken intentionally. Thus, the laws would exist as a fail-safe for everything else.
 
@@ -27,7 +27,7 @@ The entire culture would encourage and support each person to act in [love](peop
 
 However, selflessness is still a [choice](people-decisions.md), so selfish people would still exist. They'd be the equivalent of today's "village idiots". Many of them would submit themselves to vices, and the destructive nature of their lifestyles would impede their ability to [succeed](success-1_why.md).
 
-The concept of money would be gone. Since nobody would care to stockpile [power](power.md), the only "currency" people would honor would be their reputations. But, since everyone would understand how [artificially inflating](image-distortion.md) their reputation could harm others, nobody would deceive anyone else.
+The concept of money would be gone. Since nobody would care to stockpile [power](power.md), the only "currency" people would honor would be their reputations. But, since everyone would understand how [artificially inflating](people-image-distortion.md) their reputation could harm others, nobody would deceive anyone else.
 
 ## Culture
 
@@ -37,7 +37,7 @@ Each [group](groups-small.md) would exist with its own distinct variety of cultu
 
 The [cultures](people-culture.md) of *all* people groups in a perfect society would be within a specific range:
 
-- Conflict Style - Everyone would be graciously confrontational, since they'd have no [fear](mind-feelings-fear.md) that other people would become offended or [distort the truth](image-distortion.md).
+- Conflict Style - Everyone would be graciously confrontational, since they'd have no [fear](mind-feelings-fear.md) that other people would become offended or [distort the truth](people-image-distortion.md).
 - Context Level - It would vary broadly by everyone's preference. However, everyone would patiently lower their context as they saw others not quite [understanding](understanding.md) the higher context.
 - Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](people-decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
 - Masculinity/Femininity - Everyone would be as results-oriented or harmony-oriented as they wanted. However, everyone would *also* patiently endure others' different approach to tasks. Men would be compassionate toward women, women would respect men.
@@ -67,7 +67,7 @@ Presently, there's *zero* work for particularly unintelligent people. The more w
 
 [Exchanges](economics.md) would be dramatically different than we're accustomed to. Someone would make something that someone else wanted. The receiving person wouldn't pay for it, but they'd be grateful, along with everyone else. Thus, if the [creator](creations.md) ever needed or wanted for anything, they could freely take it, but would also love everyone else to the point that they'd consider *others'* needs as well when taking (i.e., give up what they had or not take something if it would otherwise deprive someone else of their needs).
 
-Property ownership would still exist, but [conflicts over it](people-boundaries.md) wouldn't be as toxic. The purpose of property would be less about [power](power.md) and more about [responsibility](meaning.md). Someone would have a well, for example, who was responsible for keeping it cleared, but *everyone* would profit from the well-being cleared, and they'd often gift the owner out of gratitude.
+Property ownership would still exist, but [conflicts over it](people-boundaries-why.md) wouldn't be as toxic. The purpose of property would be less about [power](power.md) and more about [responsibility](meaning.md). Someone would have a well, for example, who was responsible for keeping it cleared, but *everyone* would profit from the well-being cleared, and they'd often gift the owner out of gratitude.
 
 When people would build, they'll have the time to do things right, so the architecture would blend beautifully with the natural scenery. We'd see the wide variety of domiciles there that we see now, likely wider from all the expanded [understanding](understanding.md) of each person.
 
@@ -75,11 +75,11 @@ We'd see most of the same [specializations](jobs-specialization.md) as [engineer
 
 - [Money](money-1_why.md)-based services, such as gambling and [stock trading](money-investing.md), wouldn't exist.
 - Since people would rarely break the [law](people-rules.md), law enforcement and lawyers, as well as paramilitary groups, wouldn't be *nearly* as necessary.
-- [Trust-based](trust.md) services like security guards and cybersecurity wouldn't be necessary because everyone would generally [respect](people-boundaries.md) each other's property.
+- [Trust-based](trust.md) services like security guards and cybersecurity wouldn't be necessary because everyone would generally [respect](people-boundaries-why.md) each other's property.
 
 There'd be no [power](power.md) games to gain more work, since the [purpose](purpose.md) would be strictly out of [love](people-love.md) for everyone else, and people would simply [adapt](people-changes.md) to the shortage of available work.
 
-People would be more patient in their work, and everyone else patient with them as they worked. People would only move slowly to get the job done right, *not* out of laziness, since they'd understand the importance of their job. There'd be no pressure to cut corners or rush deadlines, so [safety risks](safety.md) from those created things would be rare or nonexistent. Useless jobs wouldn't exist because nobody would have any need to [appear](image.md) busy.
+People would be more patient in their work, and everyone else patient with them as they worked. People would only move slowly to get the job done right, *not* out of laziness, since they'd understand the importance of their job. There'd be no pressure to cut corners or rush deadlines, so [safety risks](safety.md) from those created things would be rare or nonexistent. Useless jobs wouldn't exist because nobody would have any need to [appear](people-image-why.md) busy.
 
 To [advertise](marketing.md) work, a person would only need word-of-mouth. Everyone else, in their love for others, would be constantly trying to connect two people they knew, but wouldn't try to [profit](economics.md) off the exchange.
 
@@ -135,8 +135,8 @@ Technology would develop *much* more quickly than we're accustomed to because pe
 
 If multiple people were working on the same problem, they'd quickly do one of the following:
 
-1.  One of them ceases to build anymore, then gives all their resources to the other with their complete moral support.
-2.  They both combine their efforts, with each one [specializing](jobs-specialization.md) in their natural abilities.
+1. One of them ceases to build anymore, then gives all their resources to the other with their complete moral support.
+2. They both combine their efforts, with each one [specializing](jobs-specialization.md) in their natural abilities.
 
 Inventors' love for others would mean they'd carefully consider the ecological impact of their creations on the environment. Thus, while inventions would start as messy and polluting, people would go out of their way to create [safer](safety.md), healthier, cleaner versions of everything.
 
@@ -157,7 +157,7 @@ Some technologies, naturally, go obsolete. This would render job roles obsolete 
 
 ## Not Possible
 
-To accomplish this society, everyone would have to be [loving](people-love.md). Otherwise, all the trusting people will be used and abused by a select few who can [distort how everyone sees reality](image-distortion.md).
+To accomplish this society, everyone would have to be [loving](people-love.md). Otherwise, all the trusting people will be used and abused by a select few who can [distort how everyone sees reality](people-image-distortion.md).
 
 We're stuck with the unpleasant constraints of reality as we now llive it. It can't get better until we change [human nature](humanity.md) to be more [loving](people-love.md), and the only solutions that can do it come through [religious doctrines](religion.md). Without that love, it'll become another complicated dictatorship by a new name.
 

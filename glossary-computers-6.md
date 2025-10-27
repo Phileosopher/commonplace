@@ -11,7 +11,7 @@ Tape drive - long-term storage that puts binary information on a long string of 
 
 Task-based testing - testing by giving people tasks to complete, then measuring how well they do and any hangups in that task
 
-TCP - transmission control protocol, the [Transport-level](networks-computer.md) standard for sending high-quality information across a network, in contrast with UDP
+TCP - transmission control protocol, the [Transport-level](networks-cs.md) standard for sending high-quality information across a network, in contrast with UDP
 
 TCP/IP - a hybrid of TCP and IP, since they work together so frequently
 
@@ -99,7 +99,7 @@ Typography - the design and style of text
 
 ## U
 
-UDP - user datagram protocol, the [Transport-level](networks-computer.md) standard for sending information rapidly across a network, contrast to TCP
+UDP - user datagram protocol, the [Transport-level](networks-cs.md) standard for sending information rapidly across a network, contrast to TCP
 
 UEFI - unified extended firmware interface, a BIOS-like system designed for more advanced drivers
 

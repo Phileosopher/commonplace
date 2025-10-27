@@ -5,7 +5,7 @@ This is an informal list of how to manage vast groups of people based on geograp
 
 While every political system is heavily influenced by its [regional culture](people-culture.md), there are some broad patterns of how the leadership will run things.
 
-It's worth noting that these classifications aren't clear-cut because of politicized [image distortion](image-distortion.md) and [trends](trends.md), so countries often represent multiple groups at once. They also can be [left or right](politics-conservativeliberal.md), since this simply has to do with balancing control, but not on what direction to guide it.
+It's worth noting that these classifications aren't clear-cut because of politicized [image distortion](people-image-distortion.md) and [trends](trends.md), so countries often represent multiple groups at once. They also can be [left or right](politics-conservativeliberal.md), since this simply has to do with balancing control, but not on what direction to guide it.
 
 ## Features/divisions
 
@@ -18,7 +18,7 @@ In a large government, there are multiple organizational elements:
 
 These four elements can mix-and-match depending on how the government is framed. Typically, the public has *no* control over anything except (possibly) electing their legislature, though more free societies will have elections for their heads of state and government. The nature of [corruption in large systems](mgmt-badsystems.md) guarantees that the public will never get much control over the bureaucracy.
 
-In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries.md) of its public than its form of government.
+In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries-why.md) of its public than its form of government.
 
 ## Socio-economic ideologies
 
@@ -53,13 +53,13 @@ Monarchy - a ruling group defines the nation's identity, which classifies by the
 - Absolute monarchy - traditional style where the monarch controls pretty much everything
 - Constitutional monarchy - a [law or formal constitution](people-rules.md) limits a monarch's power
 - Elective monarchy - the monarch is elected to represent the nation (though it may be an oligarchical election)
-- Crowned republic - a monarch is simply a [ceremonial feature](image.md), with no actual power
+- Crowned republic - a monarch is simply a [ceremonial feature](people-image-why.md), with no actual power
 
 Republic/commonwealth - elected individuals define the national identity, which classifies by elected officials' power versus other institutions:
 
 - Democratic republic - the popular vote determines *all* the laws
 - Presidential republic - the head of state is also the head of government, but is elected
-- People's republic - the people are [legally recognized](image.md) as ruling
+- People's republic - the people are [legally recognized](people-image-why.md) as ruling
 - Federal republic - there's a central (federal) immutable law, but each region can make their own laws that are unrelated to federal law
 - Parliamentary republic - a hybrid where the head of state isn't affected by elected officials
 - Constitutional republic - the power of anyone is limited by a [formal constitution or law](people-rules.md)
@@ -77,13 +77,13 @@ Autocracies only come in two forms:
 Pros:
 
 - Easy to set up, since it's basically how *every* [small group](groups-small.md) starts.
-- Easy to control people directly, assuming they don't [rebel](people-conflicts-war.md).
+- Easy to control people directly, assuming they don't [rebel](people-conflicts-war-why.md).
 
 Cons:
 
-- Extremely limited [civil liberties](people-boundaries.md), depending on the dictator.
+- Extremely limited [civil liberties](people-boundaries-why.md), depending on the dictator.
 - Since it's a small group running everything, it's difficult to scale.
-  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](people-decisions.md) that are completely [inconsistent](people-5_conflicts.md) with the dictator's [purposes](purpose.md).
+  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](people-decisions.md) that are completely [inconsistent](people-conflicts.md) with the dictator's [purposes](purpose.md).
   - If the leader is strict, it becomes tyrannical, since everyone else will have better ideas for their situation that the leader will have to suppress to maintain order.
 - Without clearly [communicating](people-conversation.md) the rules to everyone, the line-of-succession for the next dictator gets complicated.
 - If overthrown, anyone else can make a new autocracy in its place (i.e., no [lasting legacy](legacy.md) and often destroying any legitimate [progress](people-changes.md)).
@@ -111,7 +111,7 @@ Pros:
 
 - Less rigid than autocracy.
 - Generally can be scaled up as needed.
-- [Disagreements](people-5_conflicts.md) in the ruling class only spill into affecting the rest of society for a minority of circumstances.
+- [Disagreements](people-conflicts.md) in the ruling class only spill into affecting the rest of society for a minority of circumstances.
 
 Cons:
 
@@ -146,17 +146,17 @@ Democracy sits on a spectrum of citizens' direct versus indirect control:
 
 Pros:
 
-- When done right, gives the most [civil liberties](people-boundaries.md) to everyone.
+- When done right, gives the most [civil liberties](people-boundaries-why.md) to everyone.
 - All the extra [creativity](mind-creativity.md) from the populace make it the most adaptive form of government.
 
 Cons:
 
 - Extremely volatile, changes with the [purposes](purpose.md) of the majority.
 - It's straightforward to corrupt and destabilize democracy without a [free press](stories-storytellers.md):
-  - It's easy to [influence](power-influence.md) and [mislead](image-distortion.md) the public about which candidate to vote for.
+  - It's easy to [influence](power-influence.md) and [mislead](people-image-distortion.md) the public about which candidate to vote for.
   - The leadership can disregard citizens' votes, which eventually makes it an oligarchy.
   - With enough [money and manpower](power-types.md), *anyone* can buy an election.
-  - If the voters are satisfied, they'll become *very* [unaware](understanding.md) of the political system and invite severe corruption through [image management](image-distortion.md).
+  - If the voters are satisfied, they'll become *very* [unaware](understanding.md) of the political system and invite severe corruption through [image management](people-image-distortion.md).
 - Even when a democracy doesn't devolve into an oligarchy, it can become a [bad system](mgmt-badsystems.md):
   - Adhocracy - the government is relatively disorganized
   - [Bureaucracy](bureaucracy.md) - the government is *overly* organized to the point of being redundant or ineffective
@@ -243,13 +243,13 @@ Cons:
 Not all governments want to acknowledge the existence of other governments:
 
 - Cartel - a group of organizations that share a common illegal purpose
-- Separatism - a [large conflict](people-conflicts-war.md) that formed into a politically separate group of people
+- Separatism - a [large conflict](people-conflicts-war-why.md) that formed into a politically separate group of people
 - Government in exile - a political group that claims to be a country's legitimate government, but can't exercise legal power
 - Micronation - a government that claims to belong to a sovereign state, but the world's governments don't recognize it
 
 Further, many times there's simply an unpleasant reason for why a government exists in the first place:
 
-- Neutral zone - a region has been demarcated as owned by nobody, usually to prevent a [regional conflict](people-conflicts-war.md)
+- Neutral zone - a region has been demarcated as owned by nobody, usually to prevent a [regional conflict](people-conflicts-war-why.md)
 - Non-self-governing territories - a region that doesn't have its own centrally controlled government, usually because it was once a colony of some sort
 - Occupied territory - a region that a military has "temporarily" moved into
 - Provisional/interim/emergency government - a (hopefully) temporary government to (supposedly) resolve a problem

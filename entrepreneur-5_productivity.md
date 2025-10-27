@@ -16,7 +16,7 @@ At the onset, your job will involve ~20 small part-time jobs.
 - Most small business work is solitary or with strangers:
   - [Brainstorming possible ideas](mind-creativity-how.md)
   - [Advertising](marketing.md)
-  - [Networking](people-3_boundaries.md)
+  - [Networking](people-boundaries.md)
   - Researching [legal limits](legal-safety.md)
   - [Managing finances](money-3_budget.md)
   - [Cleaning](home-housekeeping.md), waste disposal, [organizing](organization.md)
@@ -56,7 +56,7 @@ Sometimes you'll have to redesign the business.
 
 ## Contracts
 
-For every product you provide, create a [standardized contract](people-6_contracts.md) for clients with the following:
+For every product you provide, create a [standardized contract](people-contracts.md) for clients with the following:
 
 - Warranty and return policy.
 - If it's connected to software at all, have a privileged user agreement.

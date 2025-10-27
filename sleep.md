@@ -10,7 +10,7 @@ If someone isn’t getting enough sleep, improving sleep is *the* most dramatic 
 Staying well-rested has many, many benefits:
 
 - Physically [healthier](body-4_health.md)
-- More [attractive](people-2_image.md)
+- More [attractive](people-image.md)
 - Better [memory](mind-memory.md)
 - Generally [happier](mind-feelings-happiness.md)
 - More energy

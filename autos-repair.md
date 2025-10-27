@@ -47,7 +47,7 @@ Only replace the tires when you need to.
 
 Buy the specialized tools you need, since a $200 tool is less than a $500 mechanic's repair, and you can use it later.
 
-### Technological Problems
+## Technological Problems
 
 The newer design features in autos have created issues for many drivers:
 
@@ -59,7 +59,7 @@ New technologies designed by a [dysfunctional corporation](mgmt-badsystems.md) w
 
 The best solution is to deactivate those features whenever possible:
 
-- Deactivate any [network-based components](networks-computer.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
+- Deactivate any [network-based components](networks-cs.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
 - Disable any automated features, such as auto-locking or auto-closing.
 - Disable the driving assists, or diminish them to alert-only status.
 

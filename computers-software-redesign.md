@@ -32,7 +32,7 @@ There are a *ton* of simple rookie mistakes with [file/folder management](comput
 
 One good practice is to name the development folder with a space and, preferably, a permitted special character. That way, you can catch errors *before* someone else's computer runs it.
 
-**Platform errors** are issues with the code once it hits the real world: [network](networks-computer.md) issues, [hard drive](computers-memory.md) failure, invalid [file permissions](computers-cysec.md), etc.
+**Platform errors** are issues with the code once it hits the real world: [network](networks-cs.md) issues, [hard drive](computers-memory.md) failure, invalid [file permissions](computers-cysec.md), etc.
 
 The easiest way to save misery long-term is to have preset error messages at the beginning of the code (e.g., "Syntax Error", "Runtime Error"). Even simply putting "error" as the output of an "if statement" for an error will go a long way to prevent misery.
 

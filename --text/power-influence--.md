@@ -1,10 +1,9 @@
 
-When people indicate an assertion that isn't necessarily true to be patently obvious, they may have a hidden [purpose](purpose.md) to [obscure the truth](image-distortion.md). Other times, their [perspective](image.md) has a different set of [values](understanding-certainty.md) that define how their [bias](mind-bias.md) runs. Often, everyone is at least somewhat correct, though some are certainly more correct than others.
-
+When people indicate an assertion that isn't necessarily true to be patently obvious, they may have a hidden [purpose](purpose.md) to [obscure the truth](people-image-distortion.md). Other times, their [perspective](people-image-why.md) has a different set of [values](understanding-certainty.md) that define how their [bias](mind-bias.md) runs. Often, everyone is at least somewhat correct, though some are certainly more correct than others.
 
 ## Deception
 
-We're constantly at risk of [lying](people-lying.md) to ourselves. We may not [understand](understanding.md) and think we do, or our [purposes](purpose.md) may be more [evil](morality-evil.md) than we realize. With [creativity](mind-creativity.md) or intelligence, we can maintain multiple [conflicting opinions](conflicts-inner.md) in our minds at the same time.
+We're constantly at risk of [lying](people-lying.md) to ourselves. We may not [understand](understanding.md) and think we do, or our [purposes](purpose.md) may be more [evil](morality-evil.md) than we realize. With [creativity](mind-creativity.md) or intelligence, we can maintain multiple [conflicting opinions](people-conflicts-inner.md) in our minds at the same time.
 
 When someone can find other people who share their type of deception, they may form a [group](groups-small.md) around it. This [emboldens](understanding-certainty.md) everyone in the group to [believe](understanding-certainty.md) those thoughts even more.
 

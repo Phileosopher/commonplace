@@ -12,7 +12,7 @@ Broadly, macroeconomic activity of any entity is measured as "gross domestic pro
 - Government (G) - administrative "maintenance" costs to keep things going (e.g., [police](legal-safety.md), [tax collectors](money-accounting.md)).
 - Net Exports (NX) - the quantity of goods and services sent out to other groups.
 
-Like any other measurable thing, people can play [math](math.md) games to [distort](image-distortion.md) GDP compared to a group's actual wealth (e.g., extra government spending), and it doesn't account for human [welfare](goodlife.md).
+Like any other measurable thing, people can play [math](math.md) games to [distort](people-image-distortion.md) GDP compared to a group's actual wealth (e.g., extra government spending), and it doesn't account for human [welfare](goodlife.md).
 
 There are five major ways macroeconomists track movement:
 
@@ -143,17 +143,17 @@ Frequently, governments will set price controls on various domains, which can cr
 - Rent controls can prevent prices for rent going up above a certain legally defined amount instead of letting the price fluctuate from market demand. Without the rent controls staying *extremely* lax, landlords eventually won't be able to pay for basic maintenance on the rental properties.
 - Minimum wage laws set a minimum price. However, it prevents inexperienced people who want the work experience to work for employers who wouldn't hire them for a higher wage. Over time, it also raises the cost of living in areas that implement it due to a diminished scarcity of money in the region.
 
-APPLICATION: A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](classes.md) will always want to vote for whatever gets them more free stuff.
+APPLICATION: A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries-why.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](classes.md) will always want to vote for whatever gets them more free stuff.
 
 ### Trade
 
 The domains of trade come from the fact that each nation has the means to [specialize](jobs-specialization.md) in certain goods and services. If everyone had the unrestrained freedom to trade with each other, everyone would collectively benefit.
 
-However, a nation's leadership [doesn't always want completely free trade](mgmt-badsystems.md). By placing tariffs and laws that make trade more difficult, they can protect themselves from losing [power](power.md). For that reason, the [discussions](people-conversation.md) and [optics](image.md) about free trade are always more prominent than actual [legislation](people-rules.md) that promotes it.
+However, a nation's leadership [doesn't always want completely free trade](mgmt-badsystems.md). By placing tariffs and laws that make trade more difficult, they can protect themselves from losing [power](power.md). For that reason, the [discussions](people-conversation.md) and [optics](people-image-why.md) about free trade are always more prominent than actual [legislation](people-rules.md) that promotes it.
 
 Even when a group is collectively producing more than exporting, they may operate at a trade surplus because of the relative market value of that product. This can get confusing when a rich nation is somehow making more of a product than they need from other countries, but the supplier countries *still* influence the market price.
 
-Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](people-culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war.md) or [bureaucratic incompetence](mgmt-badsystems.md).
+Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](people-culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war-why.md) or [bureaucratic incompetence](mgmt-badsystems.md).
 
 A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 

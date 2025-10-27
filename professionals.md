@@ -23,7 +23,7 @@ For *any* specialization, it's vitally critical to know the gist of what those p
 
 Since [the over-information age](information.md), finding legitimately high-skilled people is harder to sift from the many people who *claim* to be high-skilled.
 
-- Many professionals are also experts at hiding their mistakes, such as renaming their failures as "new" things or [curating a flawless-looking image](image-distortion.md).
+- Many professionals are also experts at hiding their mistakes, such as renaming their failures as "new" things or [curating a flawless-looking image](people-image-distortion.md).
 - If you're not sure how qualified they are, ask questions you *do* know the answer to.
   - If they're a legitimate professional, they'll indicate when they don't know.
 - Even most "consultants" are "people paid to be held liable if something goes wrong".
@@ -31,7 +31,7 @@ Since [the over-information age](information.md), finding legitimately high-skil
 Generally, a 4-hour summarized class or poking around online videos/articles is all you need to get the gist of the information.
 
 - Consider your [health](body-4_health.md), [diet](body-2_diet.md) and [exercise](body-3_exercise.md), [self-determined goals](success-1_why.md), and [money management](money-1_why.md).
-- Learn the basics of [investing](money-investing.md), [laws](legal-safety.md), [contracts](people-6_contracts.md), [money management](money-3_budget.md), and [taxes](money-accounting.md).
+- Learn the basics of [investing](money-investing.md), [laws](legal-safety.md), [contracts](people-contracts.md), [money management](money-3_budget.md), and [taxes](money-accounting.md).
 - Further, learn the basics of any privileges of your lifestyle: [autos](autos.md), [homeownership](home-maintenance.md), and [intellectual property](legal-ip.md) (if you [create](mind-creativity.md) anything).
 - You need a *lot* more to actually perform in most domains, but you don't need to because you can hire a [specialized](jobs-specialization.md) professional!
 
@@ -120,11 +120,11 @@ Attorney (Must have passed the bar exam):
   - Family law (for [legal issues](legal-safety.md) with your family)
   - Environmental and natural resource law (for large-group [managers](mgmt-1_why.md), especially factory production and mining)
   - [Health care](body-4_health.md) law
-  - Immigration law (for [citizenship](image-modern.md) issues)
+  - Immigration law (for [citizenship](people-image-modern.md) issues)
   - [Intellectual property](legal-ip.md) law specialized in patent, trademark, and copyright
   - International law (for [government](bureaucracy.md) issues)
   - Military law (for military needs)
-  - Personal injury law (for [breaches of contract](people-6_contracts.md))
+  - Personal injury law (for [breaches of contract](people-contracts.md))
   - Real estate law (for [real estate](home-maintenance.md) issues)
   - Tax law (for [accounting](money-accounting.md) legal issues)
 - High-profile attorneys will charge for an initial consultation, but younger attorneys that need clientele do consults for free.

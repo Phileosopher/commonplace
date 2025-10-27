@@ -46,7 +46,7 @@ Conveniences have benefits but can sometimes impede the ministry's [purpose](pur
 
 More than anything, the most significant risk to the Church is leaven, or religiosity ([Matthew 16:11](https://biblehub.com/matthew/16-11.htm)).
 
-- Religious thinking is a type of inward [bureaucracy](bureaucracy.md) that separates our [image](image.md) from [reality](reality.md).
+- Religious thinking is a type of inward [bureaucracy](bureaucracy.md) that separates our [image](people-image-why.md) from [reality](reality.md).
 - Without that authentic connection to reality around us, we have no hope of connecting our unseen [souls](humanity-christian.md) to an unseen [God](god.md).
 
 It's far too common for members of a ministry community to fall into an unhealthy group pattern:
@@ -136,7 +136,7 @@ Little or no teaching makes the ministry theologically vague:
 Little or no prophecy/declaration shifts the focus to good feelings and happiness:
 
 - [Love](people-love.md) will only communicate as sentimental affection without considering others' long-term best interests.
-- The ministry will often [look](image.md) loving, but none of the members will [change](people-changes.md) much, even while they're increasing [understanding](understanding.md).
+- The ministry will often [look](people-image-why.md) loving, but none of the members will [change](people-changes.md) much, even while they're increasing [understanding](understanding.md).
 - While the Church will do good works, the community won't notice because it lacks Christ's boldness and audacity.
 - Invite more bold speakers to teach the congregation and discuss controversial issues.
 
@@ -144,7 +144,7 @@ Little or no encouragement/exhortation makes a ministry legalistic:
 
 - The community will compel people to religious action and not consider God's grace.
 - The ministry will become overly systematic and rigid to gain God's approval.
-- Teach *much* more about God's grace and love and show by example with [authentic interpersonal skills](people-3_boundaries.md).
+- Teach *much* more about God's grace and love and show by example with [authentic interpersonal skills](people-boundaries.md).
 
 Little or no ruling/administration creates a chaotic mess of people that barely resembles a ministry:
 

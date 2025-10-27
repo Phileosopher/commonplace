@@ -129,7 +129,7 @@ However, computers still run as fast as necessary irrespective of this delay. Th
 
 ## The future
 
-While [some futurists](https://trendless.tech/trends/) imagine that we may migrate away from text (such as a society that exclusively communicates via voice or videoconferencing), this has proven itself false. Text is *very* low-data to [transfer](networks-computer.md) compared to audio or video, and is easy to [search and index](computers-programming-algorithms.md). For that reason, text (and by association, keyboards) will always be around in some fashion.
+While [some futurists](https://trendless.tech/trends/) imagine that we may migrate away from text (such as a society that exclusively communicates via voice or videoconferencing), this has proven itself false. Text is *very* low-data to [transfer](networks-cs.md) compared to audio or video, and is easy to [search and index](computers-programming-algorithms.md). For that reason, text (and by association, keyboards) will always be around in some fashion.
 
 Keyboard interfaces migrated naturally from hardware to software, mostly because [habits and rituals](habits.md) are difficult to change. The future of keyboards will be much of the same.
 

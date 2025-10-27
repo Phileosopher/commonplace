@@ -18,11 +18,11 @@ People hate change, especially from the outside.
 
 You *can* publicly defame them, but they'll fight you on principle alone at that point.
 
-- Corporations only optimize their systems from the risks of their [public image](image.md) being damaged, and typically only if they have [competitors](politics-monopolies.md).
+- Corporations only optimize their systems from the risks of their [public image](people-image-why.md) being damaged, and typically only if they have [competitors](politics-monopolies.md).
 - Governments only change when there's a regime change or the public's reactions affect fairly elected politicians.
   - And, sometimes they *can't* due to dumb [laws](people-rules.md) that require compliance against all common sense.
 
-Unless you run the organization or can generate wide-scale attention to your problem, you can only make small, individual changes through [human decency](people-3_boundaries.md), compassion, and patience.
+Unless you run the organization or can generate wide-scale attention to your problem, you can only make small, individual changes through [human decency](people-boundaries.md), compassion, and patience.
 
 ## Start as soon as possible
 
@@ -62,7 +62,7 @@ The most rapidly processed paperwork will give precisely what they need to know 
 Every bit of information must be all the following:
 
 1. They need the information to make an informed [decision](people-decisions.md).
-2. Your submitted information doesn't [imply](image.md) something worse than reality.
+2. Your submitted information doesn't [imply](people-image-why.md) something worse than reality.
 3. You're absolutely [certain](understanding-certainty.md) that the information is correct.
 
 ### Don't provide wrong information
@@ -70,7 +70,7 @@ Every bit of information must be all the following:
 Only record the cold truth.
 
 - People often [adapt their story](people-lying.md) to give what someone else wants, but a giant organization will want opposite things at different times.
-- Lying on a document can make a six-month application even longer, revoke it, or at worst sever the [business relationship](people-6_contracts.md) or lead to [criminal prosecution](legal-safety.md).
+- Lying on a document can make a six-month application even longer, revoke it, or at worst sever the [business relationship](people-contracts.md) or lead to [criminal prosecution](legal-safety.md).
 - Even when you might get away with it, that organization has a *lot* of information about you that you're not aware of.
 
 Don't *ever* submit information you don't know.
@@ -167,7 +167,7 @@ B. Actual deciders
 
 - Deciders include social and caseworkers, [managers](mgmt-1_why.md), supervisors, and leads.
 - These people have experience making decisions and can typically solve your issue if they like you.
-- Be as [courteous, professional, and respectful](people-3_boundaries.md) as you can. They're accustomed to impatient people referred to them after mistreatment by the bottom-level workers.
+- Be as [courteous, professional, and respectful](people-boundaries.md) as you can. They're accustomed to impatient people referred to them after mistreatment by the bottom-level workers.
 
 C. High-level deciders
 

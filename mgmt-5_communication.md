@@ -54,8 +54,8 @@ Stay on top of *any* conflicts that would disrupt the harmony of the group.
   - Often, their complaints are valid, even when their solutions aren't.
   - If you're willing to listen, you may be able to accommodate or assist with their problem.
   - Focus on the problem, not on them or their behavior.
-- To avoid intergroup [conflicts](people-5_conflicts.md), try to keep the workers who get along with others together, and assign the disagreeable ones to non-social roles away from everyone else.
-- Every time there's a new [conflict](people-conflicts.md), separate the workers from each other for at *least* a few weeks.
+- To avoid intergroup [conflicts](people-conflicts.md), try to keep the workers who get along with others together, and assign the disagreeable ones to non-social roles away from everyone else.
+- Every time there's a new [conflict](people-conflicts-why.md), separate the workers from each other for at *least* a few weeks.
 - Every time someone leaves, redefine the roles based on what needs to be done and any new conflict-free dynamics.
 
 ## Communication approaches
@@ -313,7 +313,7 @@ Never delegate things that nobody else but you can do.
   - Sometimes, you simply need to be physically present in a location to be available for questions or customers.
   - Often, when you've been promoted, [force of habit](habits.md) will provoke you to perform tasks that were part of your primary role.
 - Beyond specific authorities, your [personality](personality.md) is designed to excel at certain tasks over others.
-- Typically, your [reputation](image.md) and [creativity](mind-creativity.md) are irreplaceable, but someone else can do your time-consuming tasks.
+- Typically, your [reputation](people-image-why.md) and [creativity](mind-creativity.md) are irreplaceable, but someone else can do your time-consuming tasks.
 
 The more you give tasks, the more they develop their skills in that direction.
 

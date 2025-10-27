@@ -62,7 +62,7 @@ The domain of technology has *magnitudes* of complexity, so users have a dramati
 2. They also often don't communicate that lack of understanding to others, for various reasons.
 3. This lack of shared non-understanding creates a conspiracy of silence.
 
-[Software engineers](computers-programming.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-2_image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
+[Software engineers](computers-programming.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
 
 This is almost standard in tech, and never seems to [trend](trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
 

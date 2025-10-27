@@ -77,7 +77,7 @@ Assumption 1 - Accounting Entity
 
 - The organization is [logically separate](logic.md) from its owners and other organizations.
 - As much as possible, revenue and expenses for the entity aren't affiliated with personal expenses.
-- Without it, the [boundaries](people-boundaries.md) between entities gets complicated or nonexistent and opens everything up to abuse and fraud.
+- Without it, the [boundaries](people-boundaries-why.md) between entities gets complicated or nonexistent and opens everything up to abuse and fraud.
 
 Assumption 2 - Going Concern/Continuity
 
@@ -108,14 +108,14 @@ Assumption 4 - Time-Period Principle
 Principle 1 - Historical Cost Principle
 
 - The costs of most Assets and Liabilities must be based on how much they paid, and not fair market value.
-- While it conflicts with [marketing](marketing.md) (and [investors](money-investing.md), to an extent), it avoids [subjective](image.md) or [biased](mind-bias.md) values based on [the market](economics.md).
+- While it conflicts with [marketing](marketing.md) (and [investors](money-investing.md), to an extent), it avoids [subjective](people-image-why.md) or [biased](mind-bias.md) values based on [the market](economics.md).
 - This principle doesn't always apply: most [debts](money-2_debt.md) and [securities](money-investing.md) report at market values.
 - Without it, the value of things can be over-stated, meaning extreme dissatisfaction and potential complications later on when the value is more accurately determined (instead of simply dissatisfaction right now).
 
 Principle 2 - Revenue Recognition Principle
 
 - Organizations must either record when they receive revenue (Cash Basis) or when they earn it (Accrual Basis).
-- Most organizations, for various [legal](legal-safety.md) and [contractual](people-6_contracts.md) reasons, *can't* use a Cash Basis.
+- Most organizations, for various [legal](legal-safety.md) and [contractual](people-contracts.md) reasons, *can't* use a Cash Basis.
 - Without this distinction, the cash flow becomes hard to clearly track.
 
 Principle 3 - Matching Principle
@@ -166,7 +166,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
      - Borrowing or paying off a [debt](money-2_debt.md).
      - Depositing from or paying the organization's owners.
      - Losses from natural disasters or theft, or collecting an [insurance payment](money-insurance.md).
-   - Cash basis looks only at events that have happened, while Accrual basis looks at [promises of events happening](people-6_contracts.md) as well.
+   - Cash basis looks only at events that have happened, while Accrual basis looks at [promises of events happening](people-contracts.md) as well.
 2. Journal entries - use [language](language.md) to articulate chronologically what happened.
    - The first accounting documentation is in the journal.
    - Each journal entry always affects at least 2 accounts (as shown above).
@@ -256,7 +256,7 @@ Some financial statements are required by the Securities and Exchange Commission
 
 - Proxy Statements help shareholders make informed decisions about matters that will be addressed at a stockholder meeting.
 - Prospectus provide details about an investment's offering (i.e., stocks, bonds, mutual funds) to the public.
-- A Confirmation indicates a legally affirmed indication of a completed [trade](people-6_contracts.md).
+- A Confirmation indicates a legally affirmed indication of a completed [trade](people-contracts.md).
 
 Even when a company is liquidated or merged into another company, the financials must still reflect those periods of time and what happened.
 
@@ -366,7 +366,7 @@ A/R uses some shorthand terms when invoicing for specific, common arrangements:
 
 People sometimes don't pay their bills, so organizations need a procedure for managing them:
 
-1. Before it happens, the [contract](people-6_contracts.md) should *clearly* indicate late fees and the consequences for what should happen.
+1. Before it happens, the [contract](people-contracts.md) should *clearly* indicate late fees and the consequences for what should happen.
 2. Try to contact them about the unpaid debt.
 3. Write off the debt as Bad Debt Expense.
 4. Make a record to prevent them from abuse the situation again.

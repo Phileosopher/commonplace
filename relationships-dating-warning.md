@@ -72,14 +72,14 @@ Their have no personal goals or ambitions:
 - They have no personal [goals or ambitions](success-3_goals.md).
 - Without [goals](success-3_goals.md) and [purpose](success-2_attitude.md) people become stagnant, lazy deadbeats.
 - If they quickly adapt to what you like, they haven't discovered what they like in themselves.
-- Note if they've learned how to [cook](cooking.md), [clean](home-housekeeping.md), or [take care of themselves](people-2_image.md).
+- Note if they've learned how to [cook](cooking.md), [clean](home-housekeeping.md), or [take care of themselves](people-image.md).
 - Since they may *never* find purpose, don't wait for them to find it.
 - At its most severe, this person is unwilling to take care of children from a previous marriage.
 
 They're reckless with their possessions or body:
 
-- They're reckless with their [money](money-1_why.md), resources or [self](people-2_image.md).
-- Living in excess with [money](money-1_why.md) or resources, neglecting [self-maintenance](people-2_image.md), and taking unnecessary risks is disrespecting their own boundaries.
+- They're reckless with their [money](money-1_why.md), resources or [self](people-image.md).
+- Living in excess with [money](money-1_why.md) or resources, neglecting [self-maintenance](people-image.md), and taking unnecessary risks is disrespecting their own boundaries.
 - Usually, they'll expect *you* to maintain their stability, but also won't respect your boundaries.
 - Any recklessness or extreme behavior is usually a sign of addiction, which makes you a means to their substance.
 
@@ -95,7 +95,7 @@ They compromise their morals:
 
 - If they disrespect their morals, they won't respect yours.
 - They're usually [lying](people-lying.md) about many seemingly unimportant things or constantly breaking promises.
-- While they can learn morality, they often have a hard time saying "no" in [conflicts](people-5_conflicts.md), which means they won't listen when *you* say it.
+- While they can learn morality, they often have a hard time saying "no" in [conflicts](people-conflicts.md), which means they won't listen when *you* say it.
 
 They mistreat others:
 
@@ -114,7 +114,7 @@ They're an addict:
 
 - [Addicts](addiction.md) value their substance more than anyone or anything else.
 - Addictions can include [alcohol](fun-alcohol.md), pornography, prescription drugs, video games, television, feelings, [housekeeping](home-housekeeping.md), [traveling](fun-vacations.md), and [productivity](success-3_goals.md).
-- That person needs significant help, but your position in a relationship will create a [conflict](people-5_conflicts.md) of interest that will typically end in them using you or you becoming an addict yourself.
+- That person needs significant help, but your position in a relationship will create a [conflict](people-conflicts.md) of interest that will typically end in them using you or you becoming an addict yourself.
 - Direct them to a recovery group, then leave them if they don't change genuinely and permanently.
 
 Has no long-term friends:

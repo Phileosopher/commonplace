@@ -9,7 +9,7 @@ Before [he shows his hand](spiritual-warfare.md), the devil uses *many* techniqu
 
 If it weren't so [evil](morality-evil.md) and destroyed [souls](humanity.md), it'd be truly [fascinating](values-quality.md) how [creative](mind-creativity.md) he gets!
 
-You can expand this concept even further by internalizing and applying everything *humanity* normally does to [distort image](image-distortion.md).
+You can expand this concept even further by internalizing and applying everything *humanity* normally does to [distort image](people-image-distortion.md).
 
 ## The Devil's Purpose
 
@@ -19,7 +19,7 @@ Since the battle is over the mind, and information is the vehicle for how we [un
 
 The devil's entire [purpose](purpose.md) is to create a constantly [fearful](mind-feelings-fear.md), anxious, bewildered, unsettled person who [reacts](habits.md) before thinking.
 
-- [Political events](groups-large.md) like [war](people-conflicts-war.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
+- [Political events](groups-large.md) like [war](people-conflicts-war-why.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
 - In peacetime, we can turn to materialism and worldliness, since it distracts from the [inevitability of death](hardship-death.md).
 - However, incessant war is bad for the devil because it brings out [good things](morality.md) in people, even non-believers.
 - If we internalize it correctly, [hardship](hardship.md) can be very valuable for our spiritual development. Otherwise, the devil can make us live with perpetual [PTSD](hardship-ptsd.md).
@@ -56,7 +56,7 @@ The devil invalidates [prayer](spiritual-exercises-prayer.md) by shifting it fro
 - We often think the devil is making us connect things, when in reality he's working hard to *disconnect* them.
 - By directing our attention to conjuring a feeling instead of actually *doing* anything, we can make [habits](habits.md) of doing absolutely nothing while thinking we're being [spiritually productive](spiritual-exercises.md).
 - e.g., trying to feel forgiven instead of asking for forgiveness.
-- A more subtle version is to redirect attention away from [the eternal, all-reaching God](god.md) into a [fabricated image](image.md) in our minds of God.
+- A more subtle version is to redirect attention away from [the eternal, all-reaching God](god.md) into a [fabricated image](people-image-why.md) in our minds of God.
 - Another approach is to train us into thinking that our prayers for daily needs are less spiritual than vague prayers for supposedly spiritual things. This can extend to our prayers for others' needs as well, rendering our prayers relatively useless.
 - Plus, if we pray for vague things, God won't grant them. Then, if the devil makes us misremember what we prayed, we can think He's not answering our prayers.
 - The Satan will also magnify the effort God will need to change things. While God designed the universe where it's a relatively easy effort to tweak something to answer our prayers, we often [imagine](imagination.md) He has to go through a gargantuan effort to answer *any* of our problems.
@@ -91,7 +91,7 @@ It's healthy to focus on the present state and the [very near future](imaginatio
 
 To destroy deeper [philosophical](philosophy.md) and theological thought, demons will refocus any transcendent thought toward the stream of daily activities and experiences:
 
-- By calling it "real life", "the real world", or "[reality](reality.md)", we stop considering that our perceptions are *all* subject to [interpretation](image.md) or the [unknown](unknown.md).
+- By calling it "real life", "the real world", or "[reality](reality.md)", we stop considering that our perceptions are *all* subject to [interpretation](people-image-why.md) or the [unknown](unknown.md).
 - Often, he'll push bad things we [imagine](imagination.md) into the "real" space and good things into the "ideal" space, away from what we see as reality.
 - One major variation of this is to provoke people into thinking they're being "[scientific](science.md)" when they're merely avoiding things that we can't explicitly measure.
 
@@ -123,7 +123,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 
 - God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-4_friends.md), [understanding](understanding.md), our [essence itself](people-love.md), and time.
 - Specifically, we tend to see as "ours" when we wake up, so any duties that require our attention are "stealing" or "taxing" our time.
-- We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](people-boundaries.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
+- We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](people-boundaries-why.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
 
 [Humor](humor.md) is valuable for our healing, and the devil can distort it:
 
@@ -150,7 +150,7 @@ God designed us to be sexually pure or monogamous, and the devil has spent hundr
 
 While staying sexually pure has no adverse health effects, the devil tells us sexuality must be explored:
 
-- We have two types of "romantic" desire. One is a good marital desire from our [soul](humanity-christian.md) for [love](people-love.md), obedience, reverence, and dignity. The other is a bodily desire for [novelty](image.md), [control](power.md), and [recklessness](addiction.md).
+- We have two types of "romantic" desire. One is a good marital desire from our [soul](humanity-christian.md) for [love](people-love.md), obedience, reverence, and dignity. The other is a bodily desire for [novelty](people-image-why.md), [control](power.md), and [recklessness](addiction.md).
 - The first desire *can* be perverted, but the devil far more often uses the second desire to trap people. He'll use popular [trends](trends.md) to emphasize a specific body type or specific physical features a "trendy" person would like. This places *all* emphasis on that human body, with no emphasis on other good qualities like [moral character](morality.md).
 - He starts by tempting us to fornicate. Then, he'll push our desire for another person's seductive skill to draw us into an unhealthy marriage.
 - If someone later decides to divorce, the devil will try to draw out the divorce experience as long as physically possible. If successful, that person's [soul](humanity-christian.md) will be so devastated that they'll no longer serve any earthly or spiritual benefit.
@@ -167,12 +167,12 @@ The Satan will magnify our attention on daily nuisances people may have with one
 
 When we discover the nature of new [friends](people-4_friends.md), he uses a technique to tempt and distort reality:
 
-1. If the person is [unaware](awareness.md) enough, they can be tempted to wear many masks to maintain a [false image](image.md) among various social circles.
+1. If the person is [unaware](awareness.md) enough, they can be tempted to wear many masks to maintain a [false image](people-image-why.md) among various social circles.
 2. Once that person has seen their double life, they can be inspired to feel superior over their "open-mindedness" to other [groups](groups-small.md).
 3. Finally, convince them that avoiding association with their more worldly friends would be something vaguely "intolerant" or "unloving".
-4. From here, people may spend too much [money](money-1_why.md) on the wrong things and experience [division](people-conflicts.md) with their [families](church-family.md).
+4. From here, people may spend too much [money](money-1_why.md) on the wrong things and experience [division](people-conflicts-why.md) with their [families](church-family.md).
 
-By using our [images](image.md) of others around us, we can fall into very destructive behaviors like superficiality or callousness:
+By using our [images](people-image-why.md) of others around us, we can fall into very destructive behaviors like superficiality or callousness:
 
 - We'll imitate certain behaviors from our recurring patterns of shame, pride, modesty, and vanity, which eventually become a part of us through [habit](habits.md).
 - By delaying our [awareness](awareness.md) for as long as possible, we become less able to [change](people-changes.md) those behaviors, especially about small worldly vices like [trendiness](trends.md), [friends](people-4_friends.md), or [ambition](success-4_routine.md).
@@ -183,7 +183,7 @@ We can often misunderstand through [language](language.md), and the Satan can ma
 - We often use words to refer to the experience *of* a thing as well as much as the thing itself, which gives room to provoke impatience and anger.
 - In [hardship](hardship.md), men tend to talk less and women more, which can put a rift between the [genders](gender.md).
 
-Any [conflict or struggle](conflicts-inner.md) is a golden opportunity for the devil:
+Any [conflict or struggle](people-conflicts-inner.md) is a golden opportunity for the devil:
 
 - First, the devil will try to inspire one of three types of sins, then redirect the natural [triggers](habits.md) from the situation into more destructive [purposes](purpose.md):
   1. Dishonorable, cowardly [fear](mind-feelings-fear.md). Since it's extremely painful, it can't last indefinitely. However, there *is* some pleasure in the other two, which can make them mental sanctuaries if a conflict persists long enough.
@@ -197,14 +197,14 @@ Any [conflict or struggle](conflicts-inner.md) is a golden opportunity for the d
 
 Even when he can't provoke us to conceited thinking or distract us with a bad [belief](understanding-certainty.md) from inexperience, he can still use our behaviors to make others [stumble](morality-sins.md):
 
-- He'll provoke people to imitate bad behaviors alongside good ones, then will magnify the bad behaviors until the person is imitating a [caricature](image-distortion.md) of their role model's original bad behavior.
-- God will often endure our [prejudices](image.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groups-small.md), starting with unbelievers and eventually covering other believers.
+- He'll provoke people to imitate bad behaviors alongside good ones, then will magnify the bad behaviors until the person is imitating a [caricature](people-image-distortion.md) of their role model's original bad behavior.
+- God will often endure our [prejudices](people-image-why.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groups-small.md), starting with unbelievers and eventually covering other believers.
 
 ## Tricks With Groups
 
 The devil makes us hate people groups, but only as a passive, brewing hatred:
 
-- We tend to [connect](people-friends.md) with other people when we observe [details about their lives](stories.md).
+- We tend to [connect](people-friends-why.md) with other people when we observe [details about their lives](stories.md).
 - Thus, we may grow dissatisfied from general hate, and enough hatred without a motive toward [destruction](morality-evil.md) will make us focus on people enough that we realize we've been [unfair](morality-justice.md).
 - So, the devil tries to keep us distant from [understanding](understanding.md) anyone we don't like.
 - When people believe [fringe ideas](trends.md), the devil will work *very* hard to turn those beliefs into rebellious ideals.
@@ -231,7 +231,7 @@ After enough time away from other believers, demons can provoke someone to [go t
 Through a *lot* of work, the demons have built a society that promotes not [changing inwardly](people-changes.md) to the point that people feel peer pressure to build out their vices:
 
 - Heavy sinners who willfully rebel against God are uncommon in civilized society, but many smaller and pettier sinners are merely selfish, though the [fashions of the time](trends.md) make the trend adapt constantly in different directions.
-- The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-5_conflicts.md) and the source for more of his work.
+- The devil uses many vague good-sounding [words](language.md) like "democracy" and "equality", but makes a fierce effort to avoid letting anyone define them clearly. This can be the cause of endless [conflicts](people-conflicts.md) and the source for more of his work.
 - Eventually, he'll bring about his [One World Order](jesus-returns.md) on a principle of "equality" and "democracy" to make a society of ineffective, self-satisfied, entitled, [unhappy](mind-feelings-happiness.md) people.
 
 ## Tricks About Himself
@@ -264,7 +264,7 @@ Whenever God wants, He can stop *everything* the Satan can try to do:
 
 - He can speak directly to believers' hearts to inspire or encourage.
 - A simple walk outside or genuine [intellectual discovery](understanding.md) can undo *decades* of the devil's work, merely through our [soul's connections with ourselves and each other](humanity-christian.md). It's why he so desperately wants us to do things we hate and avoid things we [like](purpose.md).
-- Very often, he'll try to push us against what we really [want to do](identity-christian.md) (e.g., stamp collecting, playing basketball) out of a [fear](mind-feelings-fear.md) that it's not the "[right](image.md)" or "best" or "[important](purpose.md)" thing to do.
+- Very often, he'll try to push us against what we really [want to do](identity-christian.md) (e.g., stamp collecting, playing basketball) out of a [fear](mind-feelings-fear.md) that it's not the "[right](people-image-why.md)" or "best" or "[important](purpose.md)" thing to do.
 - Self-discovery can be *very* profound, so anytime we run across a genuine thought, he'll try to scramble it before we can [write it down](language-writing.md) or [say it](language-speaking.md) (especially to [those close to us](people-4_friends.md) or on [social media](technology.md)).
 - Of course, if we avoid publishing it, he can foster a sense of self-righteous superiority that we're "above all that". Taken far enough, it can become the cause of tremendous intellectual [pride](morality-sins.md).
 

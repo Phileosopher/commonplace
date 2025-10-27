@@ -52,7 +52,7 @@ It indicates that a manager has to perform 4 main functions:
 
 - Planning - [setting goals](success-3_goals.md), creating strategies, and preparing plans
 - Organizing - identifying tasks, dividing them out, assigning, tracking, and building [decision-making systems](people-decisions.md)
-- Leading - [motivating](power-influence.md) workers, directing actions, choosing communication channels, resolving [conflicts](people-5_conflicts.md)
+- Leading - [motivating](power-influence.md) workers, directing actions, choosing communication channels, resolving [conflicts](people-conflicts.md)
 - Controlling - determining others' work outcomes, checking on status, [taking corrective actions](mgmt-5_communication.md)
 
 While it captures each member's specific traits, it also runs the risk of overlooking *how* people achieve unity together.
@@ -102,7 +102,7 @@ It theorizes that highly effective teams move through a [story](stories.md) of
    - Not much focus on processes.
    - The leadership will need to give very clear instructions on the team's purpose, goals, and outside relationships.
 2. Storming
-   - Clear [disagreements](people-conflicts.md) about group decisions.
+   - Clear [disagreements](people-conflicts-why.md) about group decisions.
    - While some purpose is clear, other things are still uncertain.
    - Cliques and factions form over values.
    - The leader will have to [convince](power-influence.md) the members to align their goals with the group's.

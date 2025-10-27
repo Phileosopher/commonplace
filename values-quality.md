@@ -43,7 +43,7 @@ APPLICATION: Beauty is relative, but not entirely. Its staying power comes in ho
 
 All art references [nature](reality.md), so poorly made [media](creations.md) can *still* draw [feelings](mind-feelings.md) that remind people of experiencing the original thing. When people use media in that fashion, the [creation](creations.md) itself doesn't need any beauty of its own.
 
-But, if a person is valuing the beauty of the thing itself, irrespective of what it references, that's a universal beauty that likely could exist in the essence of the thing itself. For those things, they are worth [consuming](image.md) over and over, especially across different [stages of life](maturity.md).
+But, if a person is valuing the beauty of the thing itself, irrespective of what it references, that's a universal beauty that likely could exist in the essence of the thing itself. For those things, they are worth [consuming](people-image-why.md) over and over, especially across different [stages of life](maturity.md).
 
 APPLICATION: Beautiful art always has a [purpose](purpose.md) for its existence, and that purpose will be obvious because it'll tie to [human universals](humanity-universals.md). For that reason, if the created work's *title* has more [meaning](meaning.md) than the work itself (e.g., post-modern art, crayon drawings), it's a badly made work.
 
@@ -51,11 +51,11 @@ Not all attributes of a thing are inherently beautiful. Often, something can be 
 
 The realm of [understanding](understanding.md) various varieties of beauty is known as "taste". Our tastes are flavored by [moral disposition](morality.md), [personality](humanity.md), and [prior experience](understanding.md), so each person's taste will differentiate wildly.
 
-We have a constant need for [novelty](image.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
+We have a constant need for [novelty](people-image-why.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
 
 - A [story](stories.md) that ends differently than we were [expecting](imagination.md).
 - [Media](creations.md) in a genre we've explored, but crosses into other genres.
-- A new [friendship](people-friends.md) with someone who has a [personality](personality.md) similar to someone else we knew.
+- A new [friendship](people-friends-why.md) with someone who has a [personality](personality.md) similar to someone else we knew.
 - A climate like the one we know, but with a different [atmosphere](jobs-specialization.md) or ecosystem.
 
 Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md) creators will have an easier time [targeting](purpose.md) young people, which is how most [media](creations.md) for mass appeal is [marketed](marketing.md). The simple reason for this is that [older people](maturity.md) are harder to [please](meaning.md):
@@ -67,7 +67,7 @@ Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md
 As we gain awareness of what we're consuming, we discover more of the interwoven [patterns](values.md) placed in [created things](creations.md). By understanding a creator's historical context, perceptions, and what that creator was [unaware](awareness.md) of while thinking of those things, we can understand into *far* more than just that [media](creations.md) and what it alludes to:
 
 - We learn about [the human condition](humanity.md) and [its universals](humanity-universals.md) as it proceeded to build that thing.
-- We [con](people-friends.md)[n](people-conversation.md)[ect](people-friends.md) with others' perspectives, most notably the creator's, to derive *further* understanding of the world around us.
+- We [con](people-friends-why.md)[n](people-conversation.md)[ect](people-friends-why.md) with others' perspectives, most notably the creator's, to derive *further* understanding of the world around us.
 - When other people observe it, our [conversations](people-conversation.md) with them add even *more* meaning to the experience.
 
 APPLICATION: When someone [desires](purpose.md) to explore a media, they can unveil a remarkable amount of potential [truth](reality.md) through consuming the commentary of another creator. They're essentially receiving a second perspective on the same subject, but arranged into a meticulously crafted [story](stories.md). The insights can both be of the subject *and* the creator!
@@ -78,6 +78,6 @@ We see connoisseurs of beauty arise in every form of [media](creations.md), from
 
 However, the [leaders](groups-small.md) of that group are typically [addicts](addiction.md) of the subject, with their [identity](identity.md) closely intertwined with whatever they advance. They frequently demarcate their interest as a sign of [social status](power-types.md), usually with some implication of "only a *true* [lover of the interest] can understand the [positive attribute] of [[marginally](trends.md) popular [media](creations.md)]".
 
-APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories.md) around the thing to give it a false [reputation](image.md). Don't condemn or venerate a creation just because [everyone else](trends.md) seems to be.
+APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories.md) around the thing to give it a false [reputation](people-image-why.md). Don't condemn or venerate a creation just because [everyone else](trends.md) seems to be.
 
-They're often skillful in maintaining their [reputation](image.md) in their clan, though, so [conflicts](people-conflicts.md) with them are rarely worth the exchange.
+They're often skillful in maintaining their [reputation](people-image-why.md) in their clan, though, so [conflicts](people-conflicts-why.md) with them are rarely worth the exchange.

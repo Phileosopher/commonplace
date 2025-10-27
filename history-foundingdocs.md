@@ -38,7 +38,7 @@ It's non-negotiable that all people are:
   - The pursuit of [meaning](meaning.md)
 - Everyone is entitled to these rights, excepting specific cases under the justice system such as criminals and minors.
 
-Governments get their power from the [consent](people-boundaries.md) of the governed.
+Governments get their power from the [consent](people-boundaries-why.md) of the governed.
 
 - Governments are designed to secure human rights with that power.
 
@@ -63,7 +63,7 @@ There are various examples of government leaders who should be removed:
 - Refusing to make laws that serve large populations unless they benefit the leaders' interests.
 - Calling leadership meetings at odd times or locations to disorient them into compliance.
 - Ending leadership meetings prematurely when they don't serve the leaders' interests.
-- Refusing others to be elected, which would return the power to the people, and meanwhile creating both [security](security.md) and [corruption](image-distortion.md) risks.
+- Refusing others to be elected, which would return the power to the people, and meanwhile creating both [security](security.md) and [corruption](people-image-distortion.md) risks.
 - Preventing smaller subsidiary governments from running things how they wish.
 - Forbidding the free travel of people to where they wish to go.
 - Preventing the courts from acting on the laws they're supposed to act on.
@@ -94,7 +94,7 @@ There are various examples of government leaders who should be removed:
 
 A government should have its own power for the following:
 
-- Start [wars](people-conflicts-war.md).
+- Start [wars](people-conflicts-war-why.md).
 - End wars.
 - Make alliances with other nations.
 - Direct the flow of [business](business.md).

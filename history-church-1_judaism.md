@@ -10,7 +10,7 @@ In 30 AD, the Jews were in a period of constant controversy from a crisis of nat
 - They had been released from Babylon, but were thralls of the largest empire around, and Caesar could heavily define their permitted religious activities.
 - They were besieged by a melting pot of conflicting values that were mixing into their culture, the most notable being intellectual echoes of Greek thought.
 - They had a second Temple Herod built that wasn't as awesome as Solomon's (and had strings attached because Herod expanded on it).
-- There were [power struggles](people-conflicts-war.md) between that Temple and the relatively newer synagogues over how to conduct services.
+- There were [power struggles](people-conflicts-war-why.md) between that Temple and the relatively newer synagogues over how to conduct services.
 
 In this situation, the Jews attended synagogues ritually, with the approximate format:
 

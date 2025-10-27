@@ -79,7 +79,7 @@ Take an interest in their interests:
 - Once you find something they like that you also like, you can easily let your curiosity take over.
 - At your leisure, read a few magazines or skim the internet about what they like.
 
-## How to listen
+## The method for listening
 
 Avoid any prejudice or bias:
 
@@ -188,7 +188,7 @@ Repeat what they said to show you're listening:
 
 1. Paraphrase what you feel about the matter.
    - Be careful because paraphrasing how *you* feel isn't acknowledging their feelings.
-   - Expressing feelings before understanding is only useful in a [conflict](people-5_conflicts.md) to prove vulnerability.
+   - Expressing feelings before understanding is only useful in a [conflict](people-conflicts.md) to prove vulnerability.
 2. Repeat the message with their exact words.
    - Use exact repetition for a conflict or technical discussion.
    - In some contexts, repeating exact words sounds condescending.
@@ -278,7 +278,7 @@ The scope of your questions determines where the conversation goes:
 - Open questions encourage people to open up.
   - They often start with why, what, where, which, and how.
   - e.g., How was that strategy useful? What did you do then? Which approach did you use? How did you feel after that?
-  - Use open questions unless you need [certainty](people-5_conflicts.md).
+  - Use open questions unless you need [certainty](people-conflicts.md).
 - Closed questions require a specific answer.
   - The can start with "did you", "will you", "have you", "who", or "when".
   - They often make conversations feel awkward and one-sided to the other person, so use them sparingly.

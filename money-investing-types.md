@@ -20,7 +20,7 @@ Generally, every trading system goes through a [trend](trends.md) of growth, but
 - Frequently, investors will jump in the middle to create additional products that reduce earnings while also mitigating risk.
 - At some point, the system will start lagging on its exchange/market updates.
 
-For many of the below, there are also [contracts](people-6_contracts.md) for future investments, called options:
+For many of the below, there are also [contracts](people-contracts.md) for future investments, called options:
 
 - Call options allow someone the right (but not the obligation) to *buy* something at a future time for a set price.
   - This is most frequent in stock markets, where someone can pay a relatively small amount to gamble on an unlikely situation (e.g., a very affordable call option for selling a stock at 5 times its current value).
@@ -130,7 +130,7 @@ Business startup (investing) - investing in someone else's [business idea](entre
 - High risk, high returns, moderate/high taxes (depending on political climate), low fees.
 - Pros:
   - Possible chance of tremendous success.
-  - Your skills at [reading people](people-5_conflicts.md) will pay off.
+  - Your skills at [reading people](people-conflicts.md) will pay off.
   - Can be done online.
   - You can contribute to a [meaningful idea](entrepreneur-2_idea.md).
 - Cons:
@@ -305,7 +305,7 @@ Real estate (renting) - lending out space for someone else to borrow:
   - Your skills in maintaining a property can be useful.
   - There's always a rental market available.
 - Cons:
-  - Inability to successfully frame or manage [contracts](people-6_contracts.md) can involve bad tenants you can't get rid of.
+  - Inability to successfully frame or manage [contracts](people-contracts.md) can involve bad tenants you can't get rid of.
   - When the market goes down, you won't be able to get great returns.
   - Constant maintenance on the property.
 - If you're purchasing a secondary property, never own it farther than an hour's drive from your home.

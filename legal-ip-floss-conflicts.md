@@ -26,16 +26,16 @@ While the codebase is completely public and open, open-source [version control](
 Open-source projects are *not* exempt from politics and [social decay](mgmt-badsystems.md).
 
 - Many open-source developers feel entitled:
-  - They may feel their contributions deserve [recognition](image.md), they deserve payment, or their pull requests should be automatically approved from [what they've done in the past](power-influence.md).
+  - They may feel their contributions deserve [recognition](people-image-why.md), they deserve payment, or their pull requests should be automatically approved from [what they've done in the past](power-influence.md).
 - The scope of authority in an open-source project comes through how much contribution someone invests into it, and an open-source community has the same [group hierarchy](groups-small.md) as any other organization.
   - They often must invest time to follow the project's mailing list or pull requests, and typically must follow the group's [social norms](people-rules.md).
 - Every open-source project goes through the same predictable [trend](trends.md) of growth, stagnation, then decay, which will eventually spawn a [defective culture](mgmt-badsystems.md) around it.
-  - Sometimes, a long-standing and popular open software may be significantly inferior to another open-source product, but can screw up the [reputation](image.md) of the *entire* open-source community by dominating everyone's attention. This entire situation can make proprietary choices prevail for longer.
+  - Sometimes, a long-standing and popular open software may be significantly inferior to another open-source product, but can screw up the [reputation](people-image-why.md) of the *entire* open-source community by dominating everyone's attention. This entire situation can make proprietary choices prevail for longer.
 - It's not uncommon for large organizations running on open-source software to *not* credit specific developers who [find bugs](computers-software-redesign.md) in the code, often with them responding rudely to the developer before publicizing they fixed the bug.
 - [Technical idiots](https://gainedin.site/idiot/) who are *not* aware of how open-source works may demand answers or fixes from open-source developers.
   - Ironically, if they *do* perform without compensation, this can [set a precedent](people-contracts.md) that frames a type of business contract, though it's not typically enforced (since it's [too unethical](morality.md) for any reasonable judge to rule in the favor of the requestor).
   - Some of the more [contract-savvy](people-contracts.md) developers will ask them to arrange a business arrangement first before acting more promptly.
-  - Every software developer must learn [healthy boundaries](people-boundaries.md) to avoid the exploit and abuse from ignorant [managers](mgmt-1_why.md).
+  - Every software developer must learn [healthy boundaries](people-boundaries-why.md) to avoid the exploit and abuse from ignorant [managers](mgmt-1_why.md).
 - If a company offers both a proprietary and open-source version, and the proprietary version makes more money, they may completely disregard the open-source version.
 - If a developer significant to a project ever starts committing implementations of their current [political views](politics-conservativeliberal.md) into the project, political fashions can overtake projects and corrupt them away from their simple purpose.
 - Since the developers have to [pay their bills](money-3_budget.md), they need *some* sort of funding. This may connect to the software itself (see above), or the project may have to run like a [not-for-profit](mgmt-npo.md).
@@ -84,5 +84,5 @@ The [trend](trends.md) for free software, as of 2023, is a bit complex:
 The reality about software developers is many of them (especially anyone who wants to work on an open-source project) does *not* care as much about money as they do about their [specialization](jobs-specialization.md) inside computers.
 
 - Legal battles are unpleasant, and it's very difficult to visualize anyone who [engages in lawfare](legal-safety.md) against software developers that make software free to the public as anything *but* an [antagonistic](stories.md) or [evil](morality-evil.md) entity.
-- The [win/win solution](people-5_conflicts.md) is to give substantial wealth to those developers: if a tool generated a few hundred million dollars for a company, give a few million to that developer.
+- The [win/win solution](people-conflicts.md) is to give substantial wealth to those developers: if a tool generated a few hundred million dollars for a company, give a few million to that developer.
 - However, barring that, some software-based lawyers [near the end of their life](legacy.md) would be *thrilled* to lend their time to winning legal battles that promote free software.

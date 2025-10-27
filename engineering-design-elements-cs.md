@@ -129,7 +129,7 @@ Any feedback systems should be *very* well-articulated (error messages, further 
 - Clearly demarcate *where* the user is in the software system.
 - If there are any "empty states", indicate clearly that there's no additional information (e.g., "you have no credit cards on file").
 - The user should *always* know what they should do next.
-- Be careful with toggle switches (i.e., sliding checkboxes), since they give poor feedback compared to checkboxes (since they're pulling from [network](networks-computer.md) information instead of sending that information *after* the user submits it).
+- Be careful with toggle switches (i.e., sliding checkboxes), since they give poor feedback compared to checkboxes (since they're pulling from [network](networks-cs.md) information instead of sending that information *after* the user submits it).
 
 "Validation error" messages should give their response *very* near where the user made their selection.
 
@@ -150,7 +150,7 @@ Other selection features ought to be industry-standard, but often aren't:
 
 Media (especially visual media) in computers must be managed carefully:
 
-- Present most typical media in as downsampled a format as possible to save on [bandwidth](networks-computer.md) and loading.
+- Present most typical media in as downsampled a format as possible to save on [bandwidth](networks-cs.md) and loading.
 - "Media queries" that resize elements appropriately relative to the [screen size](engineering-screen.md) or other elements.
 - Clear text or other types of media as a fallback if that media can't present itself (e.g., [sound](computers-speakersmic.md) has been muted, poor internet connection).
 - Maintain standard requirements for common user disability use cases (the most obvious being deaf, blind, and amputee).

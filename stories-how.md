@@ -14,7 +14,7 @@ Even when it's nonfiction or an email, all written works travel through a [story
   - An interesting fact
   - A question
 - All the future sentences and paragraphs are expanding on that first sentence, wrapping up with the final sentence.
-- The events of the story are based on how the character (or reader) experiences a [conflict](people-5_conflicts.md), then [changes](people-changes.md) by making [meaningful](meaning.md) [decisions](people-decisions.md).
+- The events of the story are based on how the character (or reader) experiences a [conflict](people-conflicts.md), then [changes](people-changes.md) by making [meaningful](meaning.md) [decisions](people-decisions.md).
 
 Add clues to imply what will happen before it does (foreshadowing):
 
@@ -256,7 +256,7 @@ People always begin reading with at least some expectations:
 - Expert writers can pile the answers to all 3 questions into the first *sentence* of the story.
 - A story will start straying without all the critical information:
   1. The protagonist is clear, but doesn't appear to have a goal.
-  2. The protagonist's goal is clear, but it's not clear how it's forcing them to have [inner conflicts](conflicts-inner.md).
+  2. The protagonist's goal is clear, but it's not clear how it's forcing them to have [inner conflicts](people-conflicts-inner.md).
   3. The protagonist's [decisions](people-decisions.md) have no connection to what happens.
 
 Unless you plan to write something *really* long and drawn-out, don't use a prologue.
@@ -271,9 +271,9 @@ Every story revolves around a character's conflict:
   - The protagonist's [inner goal](purpose.md) vs. the protagonist's [external goal](results.md)
   - The protagonist's [fear](mind-feelings-fear.md) vs. the protagonist's goal (internal, external, or both)
   - The protagonist vs. the antagonist
-  - The antagonist vs. mercy (or the [appearance](image-distortion.md) of it)
+  - The antagonist vs. mercy (or the [appearance](people-image-distortion.md) of it)
 - The plot should force the protagonist to directly face almost everything they've spent their entire lives avoiding.
-  - This doesn't mean it has to be huge, since we tend to hate small [conflicts](people-5_conflicts.md) more than large ones.
+  - This doesn't mean it has to be huge, since we tend to hate small [conflicts](people-conflicts.md) more than large ones.
 - Most of the plot should involve the character trying to circle the problem and, as a consequence, worsening it.
 
 Many story elements give the reader promises and expectations:
@@ -393,7 +393,7 @@ Every phrase or line of dialogue must either change behavior or set up condition
   - Readers automatically slip into the protagonist's frame of reference and see the world through their perception.
 - You shift "perspective" each time another character speaks or you make an explanation, and you should do this frequently to keep the story at an interesting pace.
 
-Use outer behavior to demonstrate the character's [conflicts](conflicts-inner.md), then move to their thoughts for more private desires:
+Use outer behavior to demonstrate the character's [conflicts](people-conflicts-inner.md), then move to their thoughts for more private desires:
 
 - Use active verbs that explicitly clarify *how* someone did something, not just that they did it.
 

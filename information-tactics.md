@@ -277,12 +277,12 @@ Large media organizations frequently use an abundance of information to overwhel
 - The most profound version of this comes from an abundance of poorly gathered [data](database.md).
 - [AI-assisted](computers-ai.md) media makes this tactic even *more* powerful.
 
-There are many, many ways to [distort image](image-distortion.md), and [technology](technology.md) *constantly* opens more possibilities.
+There are many, many ways to [distort image](people-image-distortion.md), and [technology](technology.md) *constantly* opens more possibilities.
 
 - To discover the truth, take time to methodically sift through the presented information.
 - If you can understand the ideas *behind* what you're consuming, everything that repeats the same idea will be easier to process.
 
-Typically, finding truth becomes increasingly hard when at least one side of a viewpoint is [controversial](people-5_conflicts.md).
+Typically, finding truth becomes increasingly hard when at least one side of a viewpoint is [controversial](people-conflicts.md).
 
 - Usually, if there's "consensus" without much explanation, any contrasting views will be difficult to find.
 - To save energy, carefully consider if even *knowing* a competing viewpoint has any [use](purpose.md) to you.
@@ -329,11 +329,11 @@ For myself, I also have a few dogmatic rules to avoid unproductive information:
 
 1. There is *always* truth, even when it's unknowable or without consensus, and the only meaningful dialogue comes through discussing whatever truth we have.
 2. Truth won't contradict itself later, though it may be imprecise and need clarifications later. It's a reliable truth if its broad-sweeping practical implications don't change.
-3. No matter the truth, *someone* in the room will disagree, and that [conflict](people-5_conflicts.md) has two productive uses:
+3. No matter the truth, *someone* in the room will disagree, and that [conflict](people-conflicts.md) has two productive uses:
    - The extra hardship against the assertion will burn off the citation. Mussolini, Kennedy, Joseph Stalin, and Gandhi all had valid points.
    - The conflict sheds light on the relative [power](power.md) of the individuals holding that view. This is highly useful to see how soon [trends](trends.md) about [taboo topics](morality-taboo.md) will shift.
 4. The highest form of meaningful living requires [love for others](people-love.md), which considers others' interests equally with one's own. Love focuses equally on the truth and the individuals' [feelings](mind-feelings.md) about that truth.
-5. [Agrippa's Trilemma](paradoxes.md) means the place for truth isn't self-referenced and is inherently a religious matter. We [fight and kill](people-conflicts-war.md) over where that information resides, but the only solution (albeit not very reliably) is to incorporate love.
+5. [Agrippa's Trilemma](paradoxes.md) means the place for truth isn't self-referenced and is inherently a religious matter. We [fight and kill](people-conflicts-war-why.md) over where that information resides, but the only solution (albeit not very reliably) is to incorporate love.
 6. We learn most things through trial-and-error before they're "[known good](https://adequate.life/fix/)", so there will be many screwups along the way. It does save tons of effort to know *what* is deductively true (Rule 1), but nobody will agree on it (Rule 3).
 
 Your own dogmatic rules *will* vary, but they should distill into equally potent axioms.

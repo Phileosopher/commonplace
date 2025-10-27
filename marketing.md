@@ -54,7 +54,7 @@ Marketing is a resonating message that the product is the precise connection the
 
 The product has to be remarkable, which doesn't necessarily mean weird, cheap, expensive, big, or small.
 
-- That meaning comes from how the consumer interprets the provider [performing](people-6_contracts.md) for them, *not* from how the consumer sees the product compared to competitors' alternatives.
+- That meaning comes from how the consumer interprets the provider [performing](people-contracts.md) for them, *not* from how the consumer sees the product compared to competitors' alternatives.
 - Marketing words tend to use verbs more than nouns (e.g., "shopping" versus "shop", "investing" more than "invest").
 - Focus heavily on the "why" questions from consumers, not just "what".
 
@@ -245,7 +245,7 @@ The market environment itself:
 
 ## Brand management
 
-*Everything* connected to the product/service can connect with a unified [brand](image.md) that demonstrates uniqueness:
+*Everything* connected to the product/service can connect with a unified [brand](people-image-why.md) that demonstrates uniqueness:
 
 1. Product - the object itself
 2. Service - the experience of the product's delivery
@@ -279,7 +279,7 @@ Successfully building a brand involves investing a *lot* into [the Unknown](unkn
 Marketing plans are attempts to influence specific demographics to find [meaning](meaning.md) in a product.
 
 - It's impossible to please everyone, so your best investment comes from focusing your efforts on the people you want.
-- The entire purpose of a marketing plan and marketing research is to match your [perspective](image.md) with the people you're serving.
+- The entire purpose of a marketing plan and marketing research is to match your [perspective](people-image-why.md) with the people you're serving.
 
 A. Identify the demographics of the audience you want leads for.
 
@@ -541,7 +541,7 @@ The product itself can convey through multiple avenues as well:
   - Through a wholesaler
   - With a third-party agent
   - Through independent representatives
-- Making and fulfilling bids on [contracts](people-6_contracts.md) on a market.
+- Making and fulfilling bids on [contracts](people-contracts.md) on a market.
 
 The internet has opened up a wide variety of new advertising and distribution approaches:
 
@@ -663,8 +663,8 @@ The correct way to sell involves most [rules of influence](power-influence.md), 
 
 Often, [lying](people-lying.md) builds leads.
 
-- Making false or unenforceable promises often provokes someone to [sign the contract](people-6_contracts.md) that makes the sale.
-- Fabricating a crowd who raves about a product often creates enough [artificial social pressure](image-distortion.md) to generate a legitimate crowd.
+- Making false or unenforceable promises often provokes someone to [sign the contract](people-contracts.md) that makes the sale.
+- Fabricating a crowd who raves about a product often creates enough [artificial social pressure](people-image-distortion.md) to generate a legitimate crowd.
 
 The [personalities](personality.md) of sales staff (i.e., high Extroversion) mean they typically need to learn [the art of listening](language-speaking.md).
 
@@ -679,7 +679,7 @@ There are 4 major ways to improve sales:
 1. Upsell - generate more income from an existing product through more features.
 2. Cross-sell - add more products to the first product, often with discounts across all the products.
 3. Follow-up - sell more products at a later time.
-4. Continuity - sell a [long-term contract](people-6_contracts.md) instead of a one-time sale.
+4. Continuity - sell a [long-term contract](people-contracts.md) instead of a one-time sale.
 
 More connections between a product and other offerings creates more natural product placement.
 
@@ -697,7 +697,7 @@ Focus all your effort on specific types of consumers who may still yield a mutua
 Maintaining relationships with current customers is much cheaper than getting new ones, and the Customer Relationship Management (CRM) philosophy has mostly replaced the aggressive sales model.
 
 - CRM believes in a give-and-take relationship between the customer and the service provider.
-- CRM focuses on [win-win](people-5_conflicts.md) through prolonged relationship-building beyond a simple one-time benefit.
+- CRM focuses on [win-win](people-conflicts.md) through prolonged relationship-building beyond a simple one-time benefit.
 
 CRM's strength comes from how it builds its network:
 
@@ -721,7 +721,7 @@ However, a defective or dysfunctional CRM system can be worse than none.
 
 - If there's customer data tracked with software (e.g., Salesforce) and the customer has to keep providing it over and over, it's worse for the customer than simply asking as-needed.
 - Large organizations can often create headaches for customers who simply want a plain datasheet or a quick summary.
-- People can often feel privacy violations if they didn't [consent to](people-6_contracts.md) information the CRM uses.
+- People can often feel privacy violations if they didn't [consent to](people-contracts.md) information the CRM uses.
 - Paying too much attention to CRM may miss that some customers are worth *not* having.
 
 ### Customer service
@@ -736,8 +736,8 @@ Without a human aspect, you can only convey value through the product itself:
 
 On a [large-scale](groups-large.md), customer service becomes "public relations".
 
-- Most [PR](image-distortion.md) is [adapting the story](stories-storytellers.md) to fit a particular viewpoint that's favorable to the organization.
-- The art of public relations involves using proven [psychology methods](mind-bias.md) to [manage a brand's optics](image-distortion.md).
+- Most [PR](people-image-distortion.md) is [adapting the story](stories-storytellers.md) to fit a particular viewpoint that's favorable to the organization.
+- The art of public relations involves using proven [psychology methods](mind-bias.md) to [manage a brand's optics](people-image-distortion.md).
 
 If there are multiple stages in the marketing process, and employees are paid based on moving customers to the next stage, it creates a perverse incentive (i.e., [Goodhart's Law](lawsaxioms.md)).
 
@@ -784,16 +784,16 @@ Ever since Edward Bernays' propagation of Sigmund Freud's psychoanalytic approac
 
 A *lot* of the marketing industry is built on bad data.
 
-- The occupation of marketing requires constant concern with [image and appearance](image.md), so it creates catastrophic results when appearance isn't [reality](reality.md).
+- The occupation of marketing requires constant concern with [image and appearance](people-image-why.md), so it creates catastrophic results when appearance isn't [reality](reality.md).
 - [Selection-augmenting](mind-bias.md) aspects like ad-blockers and the actual usage of certain media make marketing data deceptively [inaccurate](math.md) about many demographics.
 - There's plenty of [money](power.md) in selling bad marketing data, so double-check how people and computers gathered it.
 
-Marketing is the art of [image](image.md), and some things *don't* have any form of value to almost anyone.
+Marketing is the art of [image](people-image-why.md), and some things *don't* have any form of value to almost anyone.
 
 - The marketing is a waste of time if it isn't spreading the message farther, making more money per person, or selling more products to existing customers.
 - Waste products *might* have value under an [eco-friendly brand](politics-leftism.md), but only if it still fulfills the [purposes](purpose.md) people were pursuing.
 - Above a certain price, it's impossible to [influence](power-influence.md) to purchase something.
-- If you're not [staying honest](people-lying.md), you'll have a harder time gaining trust throughout the [business relationship](people-6_contracts.md).
+- If you're not [staying honest](people-lying.md), you'll have a harder time gaining trust throughout the [business relationship](people-contracts.md).
 
 Marketing abuse is a vastly expensive and culturally damaging experience.
 
@@ -816,7 +816,7 @@ The simplest ways to detect marketing abuse are by observing "glittering general
   - A person advancing a controversial, [fashionable](trends.md) idea is called a hero, then a martyr if other people disagree.
   - An antagonist is first backwards, then a bigot, then a racist.
 
-Within a few years, people will detect *any* mass-marketing or [image manipulation](image-distortion.md) tactic and will learn to disregard it.
+Within a few years, people will detect *any* mass-marketing or [image manipulation](people-image-distortion.md) tactic and will learn to disregard it.
 
 - While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](people-decisions.md).
 - Avoid [dark patterns and predatory design tactics](engineering-design.md) on your internet content.

@@ -47,7 +47,7 @@ When the financial situation is *not* going well, cut back on *both* rewards and
 
 - Removing existing rewards is a type of collective discipline, weighted heavily toward the highest achievers suffering the most.
 - Stay brutally honest when the situation isn't going well, or the members will resent you for not telling them.
-- Only make [promises](people-6_contracts.md) you can keep, and avoid agreeing to what you can't [predict](imagination.md).
+- Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](imagination.md).
 - If times are hard enough, the best workers *will* leave.
   - Postponing information to get more work out of them is [unethical](morality.md).
   - Depending on your situation, if things get harsh enough, *you* should leave too.
@@ -61,7 +61,7 @@ A manager delivers the greatest direct motivation through 2 things:
 
 Managers will go *very* far if they can master the [skills for being a decent human being](https://adequate.life/):
 
-- [Respect](people-3_boundaries.md) your workers.
+- [Respect](people-boundaries.md) your workers.
 - Encourage them to [think independently](understanding.md).
 - Allow them to make [decisions](people-decisions.md) on their own.
 - Connect their work to a legitimately important [collective effort](groups-small.md).
@@ -118,7 +118,7 @@ Openly ask them directly what they want.
 However, some things *always* discourage people from working:
 
 - Stifling organizational policies or [needless bureaucracy](mgmt-badsystems.md)
-- Over-involved supervision or any [conflicts](people-conflicts.md) with the leadership
+- Over-involved supervision or any [conflicts](people-conflicts-why.md) with the leadership
 - Unhealthy relationships with peers
 - Unsafe or needlessly uncomfortable work environment
 - Salary/benefits feel inadequate
@@ -323,7 +323,7 @@ Most conflicts are inevitable, meaning your best option is to let most of them p
 
 Keep your position in mind whenever confronting anyone.
 
-- If you intercede to [mediate](people-6_contracts.md), you're typically *not* an unbiased third-party and more along the lines of being an official [arbitrator](people-5_conflicts.md).
+- If you intercede to [mediate](people-contracts.md), you're typically *not* an unbiased third-party and more along the lines of being an official [arbitrator](people-conflicts.md).
   - Your arbitration begins when the consequences of their conflict affects the interests of you or the team.
 - When you get involved more than you should, members will typically try to lobby your opinion to their side of things.
 
@@ -332,7 +332,7 @@ Always assume every conflict might be worse than it appears.
 - Over-reacting protects against unseen risks, but under-reacting allows risks to magnify themselves.
 - If you're worried about [legal risks](legal-safety.md), it is often wiser to ignore conflicts until they escalate into something you must react to.
 
-Set a few ground rules for yourself and everyone before getting involved in a team member [conflict](people-5_conflicts.md):
+Set a few ground rules for yourself and everyone before getting involved in a team member [conflict](people-conflicts.md):
 
 1. Everyone must believe the best of everyone else (i.e., nobody is being intentionally malicious).
 2. Information is free for everyone, and anyone can bring up anyone and anything.
@@ -357,7 +357,7 @@ Presume that there are no secrets, and that everyone else will hear about the is
 
 - Always get ahead of the story by plainly speaking the simple truth about the controversial events.
 - If you try to hide the problem or stop the spread of information, people will see you as part of the scandal.
-- People tend to be distrustful with authority figures, so expect plenty of [bias](mind-bias.md) against *any* [spin](image-distortion.md) you make to the information you know.
+- People tend to be distrustful with authority figures, so expect plenty of [bias](mind-bias.md) against *any* [spin](people-image-distortion.md) you make to the information you know.
 
 ### Disciplinary action
 
@@ -452,7 +452,7 @@ Handling emergencies is a critical part of management.
 
 It's worth having at least some contingency plan for most of the common crises you may face:
 
-- Specific [conflicts](people-5_conflicts.md) among workers.
+- Specific [conflicts](people-conflicts.md) among workers.
 - [Natural disasters](safety-nature.md) in operational regions.
 - Failures by members or yourself.
 - Failures by another team or organization your team depends on.
@@ -495,7 +495,7 @@ Unless they insist, do *not* let them regularly work late or on weekends.
   - Overtime pays time-and-a-half (150% the pay), while they're also tired (at 75% productivity), meaning you pay twice the normal rate.
   - Extra overtime pays double-time (200% the pay), while they're also exhausted (at 50% productivity), meaning you pay a quarter the normal rate, and often with lower-quality work as well.
   - After 13 hours of staying awake, people produce the same results as if they were drunk.
-  - Further, exhausted teams have far less patience with each other, which will increase the risks of [interpersonal conflicts](people-5_conflicts.md).
+  - Further, exhausted teams have far less patience with each other, which will increase the risks of [interpersonal conflicts](people-conflicts.md).
 - Focus more on efficiency with the time they already have than on persevering for longer periods.
 - If the workload is particularly severe, get temporary or part-time workers under the full-time workers' supervision.
   - Often, overwork to make up for lost income can create a vicious cycle of overworking until burnout.

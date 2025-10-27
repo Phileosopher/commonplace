@@ -1,7 +1,7 @@
 
 # What Christian conflicts should look like
 
-[Conflicts](people-conflicts.md) are absolutely inevitable for Christians ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+[Conflicts](people-conflicts-why.md) are absolutely inevitable for Christians ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
 
 - Most [denominations across Christian history](history-church.md) were formed through some type of disagreement.
 - Many Christians higher on the Agreeableness [personality](personality.md) dimension (especially [leaders](mgmt-church.md)) have trouble with this fact.
@@ -13,7 +13,7 @@ However, we *must* engage any disagreements in love ([1 Corinthians 13:1-3](http
 - Most cults have been indoctrinated to believe Christians have perverted the truth, are following false doctrines, are in severe error, or the [Church's leadership](mgmt-church.md) is exploitative in nature.
 - To [lovingly](https://theologos.site/devotion-chaos/) accepting them while rejecting their beliefs is the first step to *any* healthy dialogue.
 
-Everyone is [entitled to their beliefs](people-boundaries.md) and [traditions](habits.md) (or lack thereof).
+Everyone is [entitled to their beliefs](people-boundaries-why.md) and [traditions](habits.md) (or lack thereof).
 
 - Some people can believe a contradiction that defies naturally healthy conflict-management strategies:
   - They'll hate you, with "loving" you being through condemning behavior to show you the truth.
@@ -27,9 +27,9 @@ Working through disagreements, heresies, and cults is a *very* intense form of [
 - To be a peacemaker, you will need *tremendous* patience in understanding everyone's points of view ([Matthew 5:9](https://biblehub.com/matthew/5-9.htm)).
 - It takes a *tremendously* open mind to respect each person's [culture](people-culture.md) as uniquely different while maintaining your views.
   - A Bible verse can be descriptive (with a precise application) or prescriptive (should be adapted to the [culture](people-culture.md)).
-- Only pursue a ministry in [resolving disputes](people-5_conflicts.md) if God has [specifically equipped you](spiritual-gifts.md) for the purpose.
+- Only pursue a ministry in [resolving disputes](people-conflicts.md) if God has [specifically equipped you](spiritual-gifts.md) for the purpose.
 
-In general, prioritize your [conflict management](people-5_conflicts.md) skills correctly:
+In general, prioritize your [conflict management](people-conflicts.md) skills correctly:
 
 1. As much as it depends on you, be at peace with everyone ([Romans 12:18](https://biblehub.com/romans/12-18.htm)).
    - This may mean dropping disagreements that get too heated or don't have much earthly significance.
@@ -54,7 +54,7 @@ Most of the more durable heresies and bad theology comes through a few major rou
 
 The only worthwhile debates are the ones that affect how to rightly [understand](understanding.md) the truth and [walk with God](spiritual-exercises.md) ([Titus 3:9](https://biblehub.com/titus/3-9.htm)).
 
-- [The devil works overtime](spiritual-warfare-tricks.md) to deter and discourage [healthy disagreements](people-5_conflicts.md).
+- [The devil works overtime](spiritual-warfare-tricks.md) to deter and discourage [healthy disagreements](people-conflicts.md).
 - Healthy Christian disagreements are loving, patient discussions over [philosophies](philosophy.md) and [ideas](values.md).
 
 Do *not* back down from clear-cut language Christianity uses (e.g., don't accept that Jesus was "a God" instead of "God").
@@ -63,7 +63,7 @@ Do *not* back down from clear-cut language Christianity uses (e.g., don't accept
 
 Frequently, the best thing for [your thought life](spiritual-exercises.md) is to back out of the conflict and reflect or [read your Bible](bible-study.md) more thoroughly.
 
-- You can still coexist with them, and do *not* have to conform your ideals to them, but must [agree to disagree](people-5_conflicts.md).
+- You can still coexist with them, and do *not* have to conform your ideals to them, but must [agree to disagree](people-conflicts.md).
 - Unfortunately, you only have a few options if they won't relent on an issue:
   1. Out of love for them, avoid the subject or practice entirely, which is safest for everyone.
   2. Hide your beliefs or practice from them if possible, which can be a *severe* issue if they find out (especially if you [lied](people-lying.md)).

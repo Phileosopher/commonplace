@@ -44,7 +44,7 @@ They'll try to assert their independence:
 - They may speak disrespectfully or rudely.
 - Spanking, grounding, and taking away privileges usually won't work at all anymore.
 - The only discipline or correction you should *ever* give at this stage is over decisions with legitimately life-long consequences, the same way you'd treat an adult:
-  - Defuse their rude behavior with a combination of humor and [emotional vulnerability](people-5_conflicts.md).
+  - Defuse their rude behavior with a combination of humor and [emotional vulnerability](people-conflicts.md).
   - There are no adverse lifetime consequences from getting drunk or trying most illegal recreational drugs.
   - However, there *are* often permanent consequences from inhaling paint, a sex change, or committing suicide.
 

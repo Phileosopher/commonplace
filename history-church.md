@@ -9,7 +9,7 @@ The original rituals and customs of the Church are extremely ancient [traditions
 
 Frequently, a denomination forms through a specific pattern:
 
-1. Have a [disagreement](people-conflicts.md) about something in a different denomination.
+1. Have a [disagreement](people-conflicts-why.md) about something in a different denomination.
 2. Break off and attempt to reconcile that disagreement.
 3. Within a few decades, resist *other* changes proposed by the younger members.
 4. After enough time, culturally freeze at least some traditions as members oppose [new trends](trends.md) and lock [habits](habits.md) against [changes](people-changes.md).

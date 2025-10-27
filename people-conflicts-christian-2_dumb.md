@@ -3,7 +3,7 @@
 
 Christians *frequently* argue over relatively small lifestyle elements while forgetting broader issues.
 
-- Expect [disagreements](people-5_conflicts.md) when the Bible doesn't address an issue or has 1 verse that *might* apply.
+- Expect [disagreements](people-conflicts.md) when the Bible doesn't address an issue or has 1 verse that *might* apply.
 - Petty disagreements are the most frequent cause for [a church split](history-church.md).
 - Ironically, most of the issues serve little practical benefit for anyone's [spiritual journey](spiritual-exercises.md).
   - If there *are* any advantages to one side or another, that will be sorted out with a more significant issue.
@@ -27,7 +27,7 @@ Political views mixed with faith:
 - This is *far* more common in [cultures that give people the right to vote](politics-systems.md).
 - Advancing a political agenda can have potentially good qualities:
   - Conservatives want to align the nation more with [God's will](god-will.md).
-  - Liberals want to give more [freedoms and protections](people-boundaries.md) for the oppressed.
+  - Liberals want to give more [freedoms and protections](people-boundaries-why.md) for the oppressed.
 - Whether you're a Christian is determined by [*your* relationship with God](identity.md), not someone else's.
   - However, politics can define other people have *their* relationship with God.
 - The most significant factor about whether politics are worth pursuing is *why* you endorse it.

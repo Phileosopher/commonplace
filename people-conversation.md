@@ -12,27 +12,27 @@ The expression of [language](language.md) for that particular purpose implies th
 We're [habituated](habits.md) to conversations, so we treat them as a relatively simple process, but it's a rather elaborate mechanism:
 
 1. Person A makes [decisions](people-decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](imagination.md) what Person B is likely perceiving.
-2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](image.md) and [understood](understanding.md) them as they send it.
+2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](people-image-why.md) and [understood](understanding.md) them as they send it.
 3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
 4. Person B [decides](people-decisions.md) how to respond to Person A, then the role is reversed.
 5. As the conversation persists, Person A and Person B maintain partial [memory](mind-memory.md) of *all* the past information they recorded, and will draw on it at *any* time in the future, even decades later.
 
-This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](image.md) with the partial perspective of another person. This is effectively another [story](stories.md) to add to our experiences.
+This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](people-image-why.md) with the partial perspective of another person. This is effectively another [story](stories.md) to add to our experiences.
 
 APPLICATION: Conversations help us [understand](understanding.md) reality from others' points of view, so we gain the maximum possible understanding when we seek to understand others' views and have frequent conversations with as many people as possible.
 
-We are such social creatures that we have conversations with *ourselves*! That dialogue helps us [reason](logic.md) and [understand](understanding.md) things better, but it's a quirky trait that shows how much we need [companionship](people-friends.md).
+We are such social creatures that we have conversations with *ourselves*! That dialogue helps us [reason](logic.md) and [understand](understanding.md) things better, but it's a quirky trait that shows how much we need [companionship](people-friends-why.md).
 
 Our communication skill comes through two major sub-skills:
 
-1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](image.md) they see (listening).
-2. How well we can [convey](results.md) the [image](image.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
+1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](people-image-why.md) they see (listening).
+2. How well we can [convey](results.md) the [image](people-image-why.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
 
-Our [creative](mind-creativity.md) [decisions](people-decisions.md) are essentially the [image](image.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](trust.md) us.
+Our [creative](mind-creativity.md) [decisions](people-decisions.md) are essentially the [image](people-image-why.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](trust.md) us.
 
-- At the very least, if they don't trust us, they see our image of reality as the viewpoint we hold and make a [judgment](image.md) from that.
+- At the very least, if they don't trust us, they see our image of reality as the viewpoint we hold and make a [judgment](people-image-why.md) from that.
 
-We're always constrained by our [medium](creations.md), whether it's through [writing](language-writing.md), [speaking](language-speaking.md), or [body language](people-3_boundaries.md).
+We're always constrained by our [medium](creations.md), whether it's through [writing](language-writing.md), [speaking](language-speaking.md), or [body language](people-boundaries.md).
 
 ## Background information
 
@@ -40,7 +40,7 @@ Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [va
 
 We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](results.md).
 
-Even if we *could* precisely share an idea, we wouldn't have time to completely share it! Thus, we compromise by using various [images](image.md) and [symbols](symbols.md) to deliver our central point.
+Even if we *could* precisely share an idea, we wouldn't have time to completely share it! Thus, we compromise by using various [images](people-image-why.md) and [symbols](symbols.md) to deliver our central point.
 
 ## Image
 
@@ -54,23 +54,23 @@ We use several factors to choose which and how many details to incorporate into 
 Our choices broadly create a few possible general communication approaches (DISC communication styles):
 
 1. Strip things down to concise [stories](stories.md) (Dominance).
-2. Emphasize social [relationships](people-friends.md) (Influence).
+2. Emphasize social [relationships](people-friends-why.md) (Influence).
 3. Focus on [facts and information](reality.md) with many details (Steadiness).
 4. Focus on others' [understanding](understanding.md) by repeating ideas multiple times (Compliance).
 
 Beyond this, we will adapt our style with many, many subtle approaches, all [purposed](purpose.md) to [influence](influence.md) others.
 
-People often add, remove, or change important details (aka "[lying](people-lying.md)") to [distort the image](image-distortion.md) from what others would have otherwise plainly seen.
+People often add, remove, or change important details (aka "[lying](people-lying.md)") to [distort the image](people-image-distortion.md) from what others would have otherwise plainly seen.
 
 ## Failing at conversation
 
-Even with complete and brutal honesty, [conflicts](people-conflicts.md) from [misunderstandings](understanding.md) are a fact of communication.
+Even with complete and brutal honesty, [conflicts](people-conflicts-why.md) from [misunderstandings](understanding.md) are a fact of communication.
 
-Firstly, each person has a different [background](people-family.md) and [view](image.md) of the world, so we each speak with a slightly different form of [logical structuring](logic.md). Most people aren't patient enough to discover that structure, so they focus solely on [elements](image.md) they [disagree with](people-conflicts.md).
+Firstly, each person has a different [background](people-family.md) and [view](people-image-why.md) of the world, so we each speak with a slightly different form of [logical structuring](logic.md). Most people aren't patient enough to discover that structure, so they focus solely on [elements](people-image-why.md) they [disagree with](people-conflicts-why.md).
 
-APPLICATION: People who fail at communication tend to concern themselves with things they easily [identify](identity.md) and [specialize](jobs-specialization.md) in, instead of [identifying](people-friends.md) and [specializing with people](power-influence.md).
+APPLICATION: People who fail at communication tend to concern themselves with things they easily [identify](identity.md) and [specialize](jobs-specialization.md) in, instead of [identifying](people-friends-why.md) and [specializing with people](power-influence.md).
 
-Second, most people misuse [language](language.md) (at least a little). It's occasionally from inexperience (e.g., a foreign-language speaker), but the abuse language can also [nurture an image](image-distortion.md) that could grant more [power](power.md). Unfortunately, misused words trivializes their [value](values-quality.md), *especially* with [emotionally charged](mind-feelings.md) words.
+Second, most people misuse [language](language.md) (at least a little). It's occasionally from inexperience (e.g., a foreign-language speaker), but the abuse language can also [nurture an image](people-image-distortion.md) that could grant more [power](power.md). Unfortunately, misused words trivializes their [value](values-quality.md), *especially* with [emotionally charged](mind-feelings.md) words.
 
 The long-term effect of abusing words, beyond the [individual risks](safety-riskmgmt.md) that eventually arise, no matter how, is that those words become a [relic of their times](trends.md) and depict more about the *speaker* than the idea the speaker was referencing.
 
@@ -78,29 +78,29 @@ APPLICATION: When people misuse words, we must clarify what that person [means](
 
 Finally, we tend to [identify](identity.md) with certain words or against other words. In doing this, we give *much* more [value](purpose.md) to those words than the words would typically associate. Nobody can be defined with only a few words.
 
-Identity with a few words to the point of [excessive assertion](people-conflicts.md) is a common product of [immaturity](maturity.md), even if it [hurts](mind-feelings-sadness.md) or causes [past damage](hardship-ptsd.md).
+Identity with a few words to the point of [excessive assertion](people-conflicts-why.md) is a common product of [immaturity](maturity.md), even if it [hurts](mind-feelings-sadness.md) or causes [past damage](hardship-ptsd.md).
 
 ## *Not* failing at conversation
 
 To avoid failing with words, we must focus on [fixing](https://adequate.life/fix/) each problem separately, and will [intuitively](mind-feelings.md) do it automatically if we're [paying attention](awareness.md). We must do several things at once, so it's not easy.
 
-First, we must think through what people said more thoroughly. This requires taking time to parse what they said and what it may [imply](mind-feelings.md). The flow of conversation moves slower, but people understand each other more. This probably won't happen across society, but individuals can gain *tremendously* from the practice, especially in [heated conflicts](people-5_conflicts.md).
+First, we must think through what people said more thoroughly. This requires taking time to parse what they said and what it may [imply](mind-feelings.md). The flow of conversation moves slower, but people understand each other more. This probably won't happen across society, but individuals can gain *tremendously* from the practice, especially in [heated conflicts](people-conflicts.md).
 
-Second, we should be cautious about how our usage of words can imply an [image](image.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](results.md) of [decisions](people-decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
+Second, we should be cautious about how our usage of words can imply an [image](people-image-why.md) that's inconsistent with reality. Again, this can't happen across society because it would require complete [self-ownership](meaning.md) about the [consequences](results.md) of [decisions](people-decisions.md) we've made. It does, however, demonstrate as the mark of all good [leaders](groups-large.md) and [successful people](success-1_why.md).
 
 Finally, we must closely examine every time we [identify](identity.md) with words. One useful trick is to compare any discrepancy between the words we use to describe ourselves versus how we'd feel if others said it about us.
 
 ## Shared understanding
 
-When we listen and respond, we tend to gather a type of "shared [understanding](understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends.md).
+When we listen and respond, we tend to gather a type of "shared [understanding](understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends-why.md).
 
-This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](image.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](image.md) from them through the [medium](creations.md) of [stories](stories.md) and [feelings](mind-feelings.md).
+This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](people-image-why.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](people-image-why.md) from them through the [medium](creations.md) of [stories](stories.md) and [feelings](mind-feelings.md).
 
 This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 
 APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](people-culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
 
-As we integrate this understanding in with ours, we end up having two [perspectives](image.md) in our mind at the same time: theirs and ours. If we can successfully harmonize both views as equally valid, without [needless invalidation](conflicts-inner.md), we can frequently see other things as if we *were* two people seeing something.
+As we integrate this understanding in with ours, we end up having two [perspectives](people-image-why.md) in our mind at the same time: theirs and ours. If we can successfully harmonize both views as equally valid, without [needless invalidation](people-conflicts-inner.md), we can frequently see other things as if we *were* two people seeing something.
 
 When we compound this form of understanding across all people, any one person can be as [wise](understanding.md) as everyone that person has encountered and learned from, up to the limits of their mental capacity and [desire](purpose.md).
 

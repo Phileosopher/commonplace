@@ -115,7 +115,7 @@ New [technological developments](technology.md) with any vessel don't typically 
 Quite a bit of [political power](power-types.md) is tied to energy due to its ability to convey payloads.
 
 - Highly refined fuel permits vehicles to travel more with comparatively less fuel.
-- While [free market economics](economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war.md), [political reasons](politics-leftism.md)).
+- While [free market economics](economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war-why.md), [political reasons](politics-leftism.md)).
 
 In theory, there would be no downtime in a self-replenishing system (e.g., solar cells).
 
@@ -208,7 +208,7 @@ For that reason, carriers can [insure against it](money-insurance.md) or resell 
 
 When there are multiple conveyors, the entire string of logistical arrangements is called a supply chain, and it's a relatively newer concept compared strictly to logistics (similar to [UX versus interface/control mechanisms](engineering-design.md), or [customer relationship management versus sales](marketing.md)).
 
-Good supply chain management is a key [management](mgmt-2_projects.md) concept, especially regarding projects. In the world of computers, this abstracts to managing [network flow](networks-computer.md) of information within [distributed systems](computers-distsys.md).
+Good supply chain management is a key [management](mgmt-2_projects.md) concept, especially regarding projects. In the world of computers, this abstracts to managing [network flow](networks-cs.md) of information within [distributed systems](computers-distsys.md).
 
 Supply chains can break down, so they need several *more* aspects beyond the elegant simplicity of high-quality logistics:
 
@@ -364,4 +364,4 @@ The domain of energy dominance is one of the most significant [political battles
 - If someone has control of all the means to convey things, they operate as an incessant middle for just about everything.
 - Amazon's corporate growth has been through serving the middle of just about everything, but angled toward a [business](business.md) perspective (e.g., [retail](marketing.md), [computer hosting](computers-distsys-cloud.md)).
 
-In [war](people-conflicts-war.md), supply chains become *highly* focused on time management. Every aspect of delivering even the smallest components becomes intensely critical toward a war effort. It's a gigantic reason why wars are so expensive, along with the fact that supply chain disruption is also a *major* component of military strategy (i.e., it needs extra defense and ideally redundancy).
+In [war](people-conflicts-war-why.md), supply chains become *highly* focused on time management. Every aspect of delivering even the smallest components becomes intensely critical toward a war effort. It's a gigantic reason why wars are so expensive, along with the fact that supply chain disruption is also a *major* component of military strategy (i.e., it needs extra defense and ideally redundancy).

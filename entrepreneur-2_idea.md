@@ -57,7 +57,7 @@ Finding a mentor can prevent the most common (and the most extreme) mistakes.
 Regularly network with others.
 
 - Try to find a wide variety of mentors, investors, consultants, vendors, entrepreneurs, and various professionals.
-- Most of the time, their [specializations](jobs-specialization.md) can round out your understanding of a concept or arrange for a new [business arrangement](people-6_contracts.md).
+- Most of the time, their [specializations](jobs-specialization.md) can round out your understanding of a concept or arrange for a new [business arrangement](people-contracts.md).
 
 Within the first 5 years, 90% of startups fail for the same predictable reasons:
 
@@ -84,7 +84,7 @@ Be careful with partnerships.
 
 - The primary benefit of a business partner is that they can help carry the load and share in the experience.
 - Everyone involved will work at differing levels, and on different things.
-  - Unless the boundaries are clearly established in a [contract](people-6_contracts.md), it's *very* easy for a harder-working partner to grow resentful.
+  - Unless the boundaries are clearly established in a [contract](people-contracts.md), it's *very* easy for a harder-working partner to grow resentful.
 - The partnership is for the purpose of making money, or for a shared cause, but is *not* permanent.
   - Everyone should have the freedom to back out of the arrangement anytime they want.
 - Choose partners carefully.

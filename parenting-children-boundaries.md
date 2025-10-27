@@ -40,7 +40,7 @@ They must learn awareness and reasoning:
 
 - Children have the reasoning skills of drunk people.
   - Don't expect them to understand subtleties.
-  - They're literally oblivious to [clutter](organization.md), [messes](home-housekeeping.md), [personal hygiene](people-2_image.md), or [good manners](people-3_respect.md).
+  - They're literally oblivious to [clutter](organization.md), [messes](home-housekeeping.md), [personal hygiene](people-image.md), or [good manners](people-3_respect.md).
   - Expect that you'll frequently repeat yourself.
   - Stay vigilant about their behaviors and motivations.
 - Teach children to slow down and [meditate](awareness.md) whenever they start losing control of themselves.
@@ -62,11 +62,11 @@ They must learn a wide variety of life skills:
 
 - [Effectively communicating](language-speaking.md) their thoughts and feelings
   - They must learn [good manners](people-3_respect.md).
-  - They must learn to properly handle [conflicts](people-5_conflicts.md), ideally through negotiating a "third option".
+  - They must learn to properly handle [conflicts](people-conflicts.md), ideally through negotiating a "third option".
 - [Writing](language-writing.md) well
   - The ability to write well in modern society by typing is *far* more powerful than speaking or handwriting well.
 - Home skills like [cooking](cooking.md) and [housekeeping](home-housekeeping.md)
-- Self-maintenance skills like [hygiene](people-2_image.md) and [weight management](body-2_diet.md)
+- Self-maintenance skills like [hygiene](people-image.md) and [weight management](body-2_diet.md)
 - How to stay safe, both physically and [legally](legal-safety.md)
 - How to make responsible and healthy decisions later about [dating](relationships-dating.md), [relationships](relationships-marriage.md), and [having children of their own](parenting-babies.md).
 - It's worth noting that, as a parent, they'll learn far more from your example than from anything you'll verbally teach them, and [they'll still have to discover it on their own](parenting-3_teenagers.md).
@@ -166,7 +166,7 @@ Never, ever reward bad behavior.
 - If you've relented and rewarded bad behavior, a child will learn they can get what they want if they persevere with enough bad behavior.
 - Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-marriage.md), tons of love, and a community to consult for advice.
 
-Closely consider their motivations, and don't be afraid of a [direct conflict](people-5_conflicts.md) with them.
+Closely consider their motivations, and don't be afraid of a [direct conflict](people-conflicts.md) with them.
 
 If you have a reward for them planned for the future, do *not* make it something you or other family members will enjoy as well (e.g., an amusement park).
 
@@ -200,7 +200,7 @@ Never, *ever* argue:
      - (nonverbal sigh of affirmation)
   3. Calmly repeat that line with empathy, not anger or sarcasm.
 - The reason you're using a one-line statement is to say "I love you enough to set some limits" and "I love you too much to waste time arguing with you."
-  - If done correctly, it completely sidesteps the argument because the parent isn't dropping into a [contention](people-5_conflicts.md).
+  - If done correctly, it completely sidesteps the argument because the parent isn't dropping into a [contention](people-conflicts.md).
 
 If you ever say "no", stay consistent and *never, ever relent*.
 
@@ -231,7 +231,7 @@ Setting reliable limits is a relatively straightforward process:
 5. After you're 100% sure you know how to respond to every possible action they take, execute the plan.
 6. Avoid nagging or reminding them, and let them experience the consequences of your predetermined, well-researched framework.
 
-If you succeed with one specific consequence, children will rapidly pick up a pattern and make changes on their own without further [conflicts](people-5_conflicts.md) about it.
+If you succeed with one specific consequence, children will rapidly pick up a pattern and make changes on their own without further [conflicts](people-conflicts.md) about it.
 The only way consequences work is because the child knows they are loved.
 
 - Otherwise, without love, the child will see their consequences as a challenge to overcome or an obstacle in the way of what they want.
@@ -436,7 +436,7 @@ You won't treat any two children the same because they're entirely different peo
   - Self-centered and defiant children must understand they share the world with other people, which usually requires your discipline.
   - Aggressive and energetic children need their efforts directed toward something useful.
 
-To address [conflicts](people-5_conflicts.md) as soon as they arise, allow anyone in the household to call a family meeting at a pre-designated place at any time.
+To address [conflicts](people-conflicts.md) as soon as they arise, allow anyone in the household to call a family meeting at a pre-designated place at any time.
 
 ## Teach them to resolve their problems without your help
 

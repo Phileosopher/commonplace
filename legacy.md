@@ -51,7 +51,7 @@ Only the top 5% of our [creations](creations.md) will outlast us enough to start
 
 APPLICATION: You don't know how much influence you'll have after you die. As I write this, I may only influence a few hundred people with it and pass on as a decent-enough person, or historians will consider me one of the "Great Writers of the 21st Century" in 200 years. It doesn't technically [matter](meaning.md) either way for my day-to-day life, though, and I guarantee the future possible readers will misunderstand what I'm writing.
 
-No matter what we pursue, we will eventually be *completely* forgotten. Either our posthumous [influence](influence.md) will dilute through blending into everyone else's, or we'll be lost to time through [history's endless revisions](stories-storytellers.md). The only hope someone has is to advance a mythological set of [symbols](symbols.md) to assist a future group in discovering [meaning](meaning.md) through [interpreting](image.md) what they've found.
+No matter what we pursue, we will eventually be *completely* forgotten. Either our posthumous [influence](influence.md) will dilute through blending into everyone else's, or we'll be lost to time through [history's endless revisions](stories-storytellers.md). The only hope someone has is to advance a mythological set of [symbols](symbols.md) to assist a future group in discovering [meaning](meaning.md) through [interpreting](people-image-why.md) what they've found.
 
 APPLICATION: The only way to reliably maintain a legacy that lasts for more than a few hundred years is to instill simple [habits](habits.md) that create [meaning](meaning.md) through framing an [identity](identity.md) associated with a [family](people-family.md).
 

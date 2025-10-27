@@ -74,7 +74,7 @@ Have a leader describe their feelings to their least-liked coworker on a scale o
 
 The score (up to 128) determines how people-oriented the leader is, with task-oriented being the alternative.
 
-- Task-oriented managers tend to see less-liked coworkers poorly, and are great in situations requiring tasks or organizing a group but terrible at relationship-building and managing [conflicts](people-5_conflicts.md).
+- Task-oriented managers tend to see less-liked coworkers poorly, and are great in situations requiring tasks or organizing a group but terrible at relationship-building and managing [conflicts](people-conflicts.md).
 - People-oriented managers tend to see less-liked coworkers more positively, and are great at avoiding/managing conflicts and making complex decisions.
 
 Next, measure 3 factors to determine what the situation is:

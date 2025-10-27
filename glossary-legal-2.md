@@ -195,7 +195,7 @@ Forum Selection Clause - A contract clause which indicates what forum a contract
 
 Fraud - Falsely representing matters of fact, can be intrinsic (core misstatements about the issue at hand) or extrinsic (subtly destroying the means to acquire facts)
 
-Freedom of Contract - The right of individuals and entities to [bargain](people-5_conflicts.md) freely among themselves about contracts without government interference
+Freedom of Contract - The right of individuals and entities to [bargain](people-conflicts.md) freely among themselves about contracts without government interference
 
 Freeze - Preventing or restricting use or transfer of assets
 

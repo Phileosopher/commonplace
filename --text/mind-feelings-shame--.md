@@ -20,7 +20,7 @@ https://togetheraz.com/2025/01/overdose-a-public-health-issue-not-a-private-sham
 
 Guilt is the [feeling](mind-feelings.md) of having done something wrong, but shame is the [feeling](mind-feelings.md) that something was *so* wrong that exoneration requires far more than merely [eye-for-an-eye retribution](morality-justice.md). It represents beyond an "[action](results.md)" performed, and implies the person themselves is "wrong".
 
-Shame frequently comes through [conflicts](people-conflicts.md) about a taboo, but anyone can [distort someone else's image](image-distortion.md) to imply they [should](imagination.md) be ashamed.
+Shame frequently comes through [conflicts](people-conflicts-why.md) about a taboo, but anyone can [distort someone else's image](people-image-distortion.md) to imply they [should](imagination.md) be ashamed.
 
 APPLICATION: Shame is the [feeling](mind-feelings.md) of being cast out of society, and is therefore an unhealthy feeling to possess. The feeling of toxic shame is one of the primary shapers of most [neurodivergent thinking](mind-neurodivergence.md).
 

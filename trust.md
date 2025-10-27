@@ -5,7 +5,7 @@ We're all [certain](understanding-certainty.md) about many things, but to varyin
 
 - Most things aren't entirely trustworthy.
 - However, some of those things stay consistent over time.
-- When we trust enough, those things we trust permeate throughout much of our [understanding](understanding.md) and [perception](image.md).
+- When we trust enough, those things we trust permeate throughout much of our [understanding](understanding.md) and [perception](people-image-why.md).
 
 We place inherent trust in things when a specific mechanism arises:
 
@@ -15,7 +15,7 @@ We place inherent trust in things when a specific mechanism arises:
 
 Trust of any sort directs itself toward an object of trust, and we feel peace and empowered when we trust something that proves itself to work.
 
-- Often, the evidence is through a [conflict](people-conflicts.md) resolution or a general [feeling](mind-feelings.md) of [empowerment](power.md).
+- Often, the evidence is through a [conflict](people-conflicts-why.md) resolution or a general [feeling](mind-feelings.md) of [empowerment](power.md).
 
 ## Illusion
 
@@ -46,7 +46,7 @@ Everything we can use to build out our understanding of reality is only somewhat
 While each person's methods vary, we only feel "certain" when we attain enough information to fulfill several criteria at once:
 
 - Enough information to satisfy our sense of [curiosity](purpose.md)
-- Enough information to get a mental [image](image.md) of the relationship between things
+- Enough information to get a mental [image](people-image-why.md) of the relationship between things
 - Evidence to [verify](understanding-certainty.md) our likely best [decision](people-decisions.md)
 
 ## Near-certain
@@ -58,7 +58,7 @@ To reconcile between reality and our copy, we have a few sources that validate w
 3. Trust our [analytical ability](logic.md) to the degree we believe we can [understand](understanding.md) sensations with a mental framework
 4. Trust [others and our environment](groups-member.md) to the degree we believe they're [safe](safety.md) to trust over our sensations
 
-Even when we're 99.99999% certain of things, we still must [contend](conflicts-inner.md) with an unlikely 0.00001%. Much of our [identity](identity.md) comes from a few ways we handle that highly unlikely chance we're wrong, and we are forced to resolve that tiny bit of [uncertainty](unknown.md) if we ever wish to use that information for anything.
+Even when we're 99.99999% certain of things, we still must [contend](people-conflicts-inner.md) with an unlikely 0.00001%. Much of our [identity](identity.md) comes from a few ways we handle that highly unlikely chance we're wrong, and we are forced to resolve that tiny bit of [uncertainty](unknown.md) if we ever wish to use that information for anything.
 
 APPLICATION: Even when we act with [certainty](understanding-certainty.md), we're always taking a type of [risk](safety.md).
 
@@ -83,7 +83,7 @@ Not everyone trusts easily. Our [first Erikson stage](https://en.wikipedia.org/w
 Nobody is ever fully trust-free, and we have very little [control](results.md) over most things we perceive. And, no amount of [justification](logic.md) can remove some of our trust-based needs:
 
 - We still must trust [our pain is real](mind-feelings-fear.md), and that our [decisions](people-decisions.md) mean anything.
-- Even if we think we trust nothing else, we are trusting our [perceptions](image.md) and [understanding](understanding.md).
+- Even if we think we trust nothing else, we are trusting our [perceptions](people-image-why.md) and [understanding](understanding.md).
 
 Our entire *framework* of thinking relies on trusting indirectly connected elements, even when we don't perceive [their connections](https://gainedin.site/networks/):
 
@@ -113,7 +113,7 @@ The journey to find something "trustworthy" is fruitless. Post-modern philosophe
 
 Further, the quest to clarify certainty isn't very reliable. For every question we answer, we're faced with more questions proportional to our [curiosity](meaning.md) or [fear](mind-feelings-fear.md). We literally believe we understand to the degree that we don't [desire](purpose.md) to know about something anymore.
 
-APPLICATION: Some of the most brilliant minds on the planet are [miserable](mind-feelings-happiness.md) because they can't trust [basic realities](reality.md), but [over-trusting the wrong things](image-distortion.md) can *also* lead to utter destruction.
+APPLICATION: Some of the most brilliant minds on the planet are [miserable](mind-feelings-happiness.md) because they can't trust [basic realities](reality.md), but [over-trusting the wrong things](people-image-distortion.md) can *also* lead to utter destruction.
 
 ## Downsides
 
@@ -128,7 +128,7 @@ Counter-intuitively, when we're *not* [certain](understanding-certainty.md) of s
 
 APPLICATION: Often, people with trust issues will try to overcompensate with [action](results.md). Passionate zealots are often *less* trusting of their beliefs than the declared "moderates" of an ideal, though the [storytellers](stories-storytellers.md) will obscure this fact.
 
-To the degree we trust something, we don't observe the costs of believing it. Most notably, we lose the [power](power-types.md) to move our opinions around about that trusted element without a major [inner conflict](conflicts-inner.md).
+To the degree we trust something, we don't observe the costs of believing it. Most notably, we lose the [power](power-types.md) to move our opinions around about that trusted element without a major [inner conflict](people-conflicts-inner.md).
 
 APPLICATION: Whether you choose to change your mind about something or not, intimately understand *what* you are trusting and why.
 

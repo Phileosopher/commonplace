@@ -92,7 +92,7 @@ However, computers can use several possible types of encryption systems:
   - Unfortunately, sending a key to decrypt information is also sending the means to encrypt it as well.
 - Assymetric/public key: one key encrypts, and another decrypts.
   - e.g., Computer 1 encodes ABC into XYZ with Key 1, Computer 2 uses Key 2 to decode XYZ back into ABC.
-  - Very useful for internet transfers (on [Layer 6](networks-computer.md)), since *anyone* can freely access the encryption key as long as the decryption key is private. TLS and SSL are the most popular internet encryption [protocols](standards-computers.md).
+  - Very useful for internet transfers (on [Layer 6](networks-cs.md)), since *anyone* can freely access the encryption key as long as the decryption key is private. TLS and SSL are the most popular internet encryption [protocols](standards-computers.md).
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
 

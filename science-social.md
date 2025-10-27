@@ -3,7 +3,7 @@
 
 All the social sciences are a "soft science" because the [human mind](humanity.md) is vastly complicated, and examining it is inherently recursive. Most of the solid scientific work in social science floats back to neurology, which is itself more a division of biochemistry.
 
-The domain of psychology may be the largest "hard" science in this field because it observes [human behavior](humanity-universals.md) and [bias](mind-bias.md) mostly in a vacuum. It only gathers a small portion of the picture, though, since we are [*very* social creatures](people-friends.md).
+The domain of psychology may be the largest "hard" science in this field because it observes [human behavior](humanity-universals.md) and [bias](mind-bias.md) mostly in a vacuum. It only gathers a small portion of the picture, though, since we are [*very* social creatures](people-friends-why.md).
 
 To make matters even more complicated, some "fixed" things like DNA are influenced by psychological states. Parents' [trauma](hardship-ptsd.md), for example, can pass on through genetics, further complicating an already-hazy "nature vs. nurture" debate within psychology.
 

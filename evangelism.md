@@ -45,11 +45,11 @@ We frequently overlook opportunities to share Jesus.
 
 Most people won't care about what you have to say until they've seen evidence of you changing.
 
-Expect dramatic [conflict](people-5_conflicts.md) ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+Expect dramatic [conflict](people-conflicts.md) ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
 
 - If any pre-conversion friends *also* convert to Christ, it's usually long after they've parted ways with you.
 
-Your new lifestyle will create [rumors](image.md).
+Your new lifestyle will create [rumors](people-image-why.md).
 
 - Extended family, casual friends, and coworkers will see your changes.
 - Expect to lose more relationships as time goes on.
@@ -111,9 +111,9 @@ Spiritual discussions inspire [spiritual attention](spiritual-warfare.md).
 - Find ways to become comfortable with unexpected breaches of [unspoken social standards](morality-taboo.md).
 - Your success comes from how much you and other believers have been [praying](spiritual-exercises-prayer.md), *not* from your skills or ability.
 
-Behave as [politely and respectfully](people-3_boundaries.md) as possible with everyone.
+Behave as [politely and respectfully](people-boundaries.md) as possible with everyone.
 
-- Even if others start [behaving inappropriately](people-5_conflicts.md), stay peaceable.
+- Even if others start [behaving inappropriately](people-conflicts.md), stay peaceable.
 - If they would rather not hear it, don't even *try* to convince or convert them from what they [believe](understanding-certainty.md).
 - If you're speaking with multiple people present, only share toward the most open-minded people there.
 - Never control the conversation or over-assert yourself.
@@ -287,7 +287,7 @@ Many political issues have very few grounds for a Christian to make an opinion o
 - [Election systems](politics-systems.md) and ballot fraud
 - Gay marriage (though gay [parenting](parenting-children.md) may have precedent)
 - Violence and sexual content in media
-- [War](people-conflicts-war.md), unless they run the country
+- [War](people-conflicts-war-why.md), unless they run the country
 
 Or, to put it another way, Christians are waiting for a King that will [do away with plenty of our political issues](https://theologos.site/millennium/):
 

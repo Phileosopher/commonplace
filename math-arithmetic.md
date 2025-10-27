@@ -56,7 +56,7 @@ Around 4th and 5th grade, there's a bit of a divergence into partial numbers:
 9. Adding and subtracting fractions with different denominators by factoring to a common denominator (e.g., 1/2 + 1/3 = 3/6 + 2/6 = 5/6).
 10. Understanding the concept of scale with fractions relative to each other.
 
-At this point, many people hit a mental wall, usually because they have a hard time imagining the point of representing 8/4 and 2 at the same time, or why 1/2 and 0.5 are both valid numbers. Most mathematicians are *not* aware that math represents a [perspective](image.md) upon reality, and their obsession with certainty and abstraction blinds them from the fact that math itself is expressing different points of view. Since this all heavily compounds, algebra becomes impossible to explain later.
+At this point, many people hit a mental wall, usually because they have a hard time imagining the point of representing 8/4 and 2 at the same time, or why 1/2 and 0.5 are both valid numbers. Most mathematicians are *not* aware that math represents a [perspective](people-image-why.md) upon reality, and their obsession with certainty and abstraction blinds them from the fact that math itself is expressing different points of view. Since this all heavily compounds, algebra becomes impossible to explain later.
 
 However, whether we understand it or not, the cumulative education continues:
 

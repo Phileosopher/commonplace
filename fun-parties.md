@@ -5,7 +5,7 @@
 
 Parties should be [fun](fun.md), and a party is *always* worth it if people [enjoy themselves](mind-feelings-happiness-perma.md).
 
-You can succeed at a party, even with very little skill, if you're [generally satisfied with life](mind-feelings-happiness.md), [somewhat organized](organization.md) enough to take advantage of a venue, have some skill at defusing [major group conflicts](people-5_conflicts.md), and (if it's a large party) can [direct people](mgmt-6_morale.md).
+You can succeed at a party, even with very little skill, if you're [generally satisfied with life](mind-feelings-happiness.md), [somewhat organized](organization.md) enough to take advantage of a venue, have some skill at defusing [major group conflicts](people-conflicts.md), and (if it's a large party) can [direct people](mgmt-6_morale.md).
 
 To keep everyone happy, you only need to ensure there are enough seats for everyone (though you can often improvise) and to *never* run out of [food](cooking.md).
 

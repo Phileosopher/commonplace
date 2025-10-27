@@ -26,7 +26,7 @@ To record sound, the device captures the vibrations, at the speed they're travel
 
 Depending on [the standards used](standards-computers.md), the electromagnetic waves can come from analog electrical pulses or digital electrical signals.
 
-The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](networks-computer.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
+The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](networks-cs.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
 
 Speakers are either passive (without internal amplification abilities) or amplified (and often with their own volume control).
 
@@ -101,7 +101,7 @@ Audio recordings have different use cases, and the "lossiness" of the informatio
 
 This isn't exclusive to audio, and many audio formats also combine [video](engineering-screen.md) information as well, and often in parallel.
 
-The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](networks-computer.md) experience.
+The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](networks-cs.md) experience.
 
 Another unique standard allows musicians to directly input information via musical instrument digital interface (MIDI), which sends the inputs from a musical instrument (e.g., synthesizer keyboard) to a very time-sensitive mapping. This allows the information to send various outputs, including [storage for later](computers-memory.md). By using "MIDI voices", the audio can output as whatever the [creator](mind-creativity.md) wants.
 

@@ -194,7 +194,7 @@ Reflect on possibilities:
 Reflect on the people around you:
 
 - Learn how to expand your understanding of [how other people behave and think](people-1_why.md).
-- Accept everything you can't change regarding other people, including [conflicts with others](people-5_conflicts.md) and [in your relationship](relationships-why.md).
+- Accept everything you can't change regarding other people, including [conflicts with others](people-conflicts.md) and [in your relationship](relationships-why.md).
   - Examine the social context of what others are saying and doing, including the fact that you're *always* present for them.
 - Take the time to [analyze](logic.md) and consider typically agreed-upon things more thoroughly.
 

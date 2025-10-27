@@ -14,7 +14,7 @@ When we observe [nature](reality.md), the incoming perception assembles itself i
 - Knowledge - information that has been adjusted from additional information
   - e.g., the two cats had gotten along, but not right now because of the ball of yard
 - Wisdom - focused knowledge toward perceived [purposes](purpose.md)
-  - e.g., the two cats are having a dispute over that ball of yarn, which may lead to a [conflict](people-conflicts.md)
+  - e.g., the two cats are having a dispute over that ball of yarn, which may lead to a [conflict](people-conflicts-why.md)
 
 Therefore, we should only consume information relative to what our [purposes](purpose.md) are.
 
@@ -40,7 +40,7 @@ The only thing even *close* to being similar is the invention of the [automotive
 
 ### The Over-Information Age
 
-In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-computer.md) called "the internet". Once the [trend](trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
+In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-cs.md) called "the internet". Once the [trend](trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
 
 By the 2010s, nearly anyone with a portable computer (e.g., a cell phone) and a reliable internet connection had *instant* access to *far* more information than kings had a century ago.
 
@@ -78,7 +78,7 @@ For various reasons, most information doesn't have much value:
 - People don't apply much [common sense](understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](computers-ai.md) assists with the [creative](mind-creativity.md) process).
 - The creator has intentionally made the information inadequate to provoke people to pay more [money](money-1_why.md) to get the complete information.
 - The creator's [bias](mind-bias.md) overshadows the truth.
-- The goal of the content is to [influence](power-influence.md) people by [distorting the truth](image-distortion.md).
+- The goal of the content is to [influence](power-influence.md) people by [distorting the truth](people-image-distortion.md).
 
 Everyone has a limit on how much information they can consume.
 
@@ -127,7 +127,7 @@ This information blast [trend](trends.md) will only slow down when two condition
 1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
 2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.
 
-The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war.md).
+The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war-why.md).
 
 Since this will likely not happen soon:
 

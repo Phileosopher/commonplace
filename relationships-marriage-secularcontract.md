@@ -120,7 +120,7 @@ The following conditions, however, may lead to a separation, and may open discus
 
 - Pursuing a romantic relationship with someone else
 - [Addiction](addiction.md) of [any type](addiction-substances.md)
-- Endless, unceasing [conflicts](people-5_conflicts.md)
+- Endless, unceasing [conflicts](people-conflicts.md)
 - Physical violence
 - [Money management](money-1_why.md) issues
 - Uneven [power dynamics](power-types.md)

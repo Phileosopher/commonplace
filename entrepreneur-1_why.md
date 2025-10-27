@@ -17,10 +17,10 @@ Almost everyone is capable of being an entrepreneur, but not everyone has the [p
 - Since they'll likely have to do a little of [*all* the business skills](business.md), they must have a high enough Openness to Experience to learn domains like [taxes](money-accounting.md), researching [regulations](legal-doctrines.md), and negotiating with a [supplier](logistics.md), as well as the willingness to take every variety of risk.
 - They must be Conscientious enough to make sacrifices, [productively get work done](success-4_routine.md) *before* it must be done, and [pay bills on time](money-3_budget.md), but not so much that they're a perfectionist.
 - While it varies on the industry, they must be Extraverted enough to steadily, consistently [connect](language-speaking.md) with dozens to hundreds of strangers.
-- They must be low-enough Agreeableness to both [negotiate better prices](people-conflicts-negotiation.md) and resist the [conflicts](people-conflicts.md) they create from disregarding [social fashions](trends.md), *especially* against [large-scale systems](mgmt-badsystems.md) who will suppress their [rise to power](power.md).
+- They must be low-enough Agreeableness to both [negotiate better prices](people-conflicts-negotiation.md) and resist the [conflicts](people-conflicts-why.md) they create from disregarding [social fashions](trends.md), *especially* against [large-scale systems](mgmt-badsystems.md) who will suppress their [rise to power](power.md).
 - Their Neuroticism must be high enough to [make creative connections](mind-creativity.md), but not enough that it interferes with their ability to get work done.
 
-They also must be stubborn enough to indefinitely face [criticism](people-5_conflicts.md), [failure](success-1_why.md), [obstacles](success-5_persevering.md), and the ever-present [unknown](unknown.md).
+They also must be stubborn enough to indefinitely face [criticism](people-conflicts.md), [failure](success-1_why.md), [obstacles](success-5_persevering.md), and the ever-present [unknown](unknown.md).
 
 - It's practically a requirement to adopt an abnormally high tolerance for [social risks](socialrisk.md).
 - They'll need to constantly seek out guidance from mentors and associates.
@@ -68,7 +68,7 @@ Deviance - they need to have a rebellious streak.
 
 - While they do care about [morality](morality.md), they don't care as much about [social standards](people-rules.md).
 
-Friendship - it's a *huge* advantage if they know [how to get along with others](people-3_boundaries.md).
+Friendship - it's a *huge* advantage if they know [how to get along with others](people-boundaries.md).
 
 - Their ability to coexist and work together becomes *much* more significant once they have partners.
 - Irrespective of their social skills, an entrepreneur will be preoccupied with how they can fulfill others' needs.

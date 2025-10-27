@@ -56,7 +56,7 @@ Further, old computers and computer parts also have plenty of reusability if you
 
 - Obsolete desktop computers and laptops
 - [Printers](engineering-printers.md) and [scanners](computers-ocr.md)
-- Old [networking](networks-computer.md) equipment like routers, modems, telephones, and fax machines
+- Old [networking](networks-cs.md) equipment like routers, modems, telephones, and fax machines
 - Old [cameras](engineering-camera.md), especially webcams
 - While they take more work to fiddle with, most old smartphones are a complete computer with other features like a camera, accelerometer, and GPS.
   - Generally, for reusing, you'll want to focus your efforts on the parts that can be reused the most (which is typically the phone's processor and memory).

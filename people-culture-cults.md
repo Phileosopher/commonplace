@@ -15,15 +15,15 @@ In short, a cult is most easily defined as "[group](groups-small.md) [gaslightin
 1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](personality.md) as the values phase out
 2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
 3. A [strict](people-rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
-4. The group violates members' [rights and boundaries](people-boundaries.md) while also redefining the [members'](groups-member.md) thoughts and feelings
+4. The group violates members' [rights and boundaries](people-boundaries-why.md) while also redefining the [members'](groups-member.md) thoughts and feelings
 
-APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](people-rules.md) society that advances genocide.
+APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries-why.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](people-rules.md) society that advances genocide.
 
 ## Undue influence
 
 Undue influence is a [legal term](glossary-legal.md) where an entity takes advantage of their [position of power](power-types.md) over another entity:
 
-- [Deception](image-distortion.md)
+- [Deception](people-image-distortion.md)
 - [Flattery](influence.md)
 - [Outright lies](people-lying.md)
 - [Coercion](power-types.md)
@@ -93,7 +93,7 @@ Usually, joining a cult requires a large personal sacrifice.
 
 - This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
 - Further sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
-- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries.md), or [agency](people-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
+- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries-why.md), or [agency](people-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
 ## Advancing
 
@@ -103,7 +103,7 @@ Incrementally, the members are then introduced to further sacrifices to release 
    - The collective group ends up owning *all* their individual [creations and results](results.md).
    - This typically starts with [legitimately good habits](https://adequate.life/habits/), then moves to more intimate control methods.
 2. Information control - how they [understand](understanding.md) [reality](reality.md):
-   - The group will typically give clear answers to more [controversial matters](people-conflicts.md), then work inward to otherwise non-negotiable or [taboo](morality-taboo.md) beliefs.
+   - The group will typically give clear answers to more [controversial matters](people-conflicts-why.md), then work inward to otherwise non-negotiable or [taboo](morality-taboo.md) beliefs.
 3. Thought control - how they [think](values.md):
    - Their values will be subtly shifted to conform with the group's shared standards.
 4. Emotional control - how they [feel](mind-feelings.md):
@@ -112,9 +112,9 @@ Incrementally, the members are then introduced to further sacrifices to release 
 By the end, the person has been transformed into a perfect extension of the leader's [desires](purpose.md):
 
 - Complete compliance to the group's [cause](purpose.md), which is open to change if it's driven by a charismatic [personality](personality.md) more than a [value system](values.md).
-- Tremendous hatred of everything that obstructs the group's cause, sometimes to the point of [violence](people-conflicts-war.md).
+- Tremendous hatred of everything that obstructs the group's cause, sometimes to the point of [violence](people-conflicts-war-why.md).
 - Trusting the group more than themselves for just about everything, with all [conversations](people-conversation.md) involving the group or group activities.
-- Any time they experience a [conflict](people-conflicts.md) with an outside source, they defer or deflect to their group's authority.
+- Any time they experience a [conflict](people-conflicts-why.md) with an outside source, they defer or deflect to their group's authority.
 
 **Behavior control** involves [changing habits](habits.md), and is the most obvious for the public to notice:
 
@@ -130,7 +130,7 @@ By the end, the person has been transformed into a perfect extension of the lead
 - Threatening harm to family or friends or separating families.
 - Forcing rape or for them to rape, encouraging corporal punishment, imprisonment, or murder.
 
-**Information control** involves a *lot* of [image distortion](image-distortion.md):
+**Information control** involves a *lot* of [image distortion](people-image-distortion.md):
 
 - Deliberately, systematically lying to the person, often consistently across all members.
   - Only leadership is permitted to decide who needs to know what, and when.
@@ -190,7 +190,7 @@ By the end, the person has been transformed into a perfect extension of the lead
 
 APPLICATION: Gaslighting is a person trying to create a cult with a 1-person following.
 
-In a [larger cult](groups-large.md), the [classes](classes.md) of leader/follower are *explicitly* enforced with formalized titles and a rigid hierarchy. Any [disputes](people-conflicts.md) are *never* addressed among peers, and *always* involve the leadership making a directed decision.
+In a [larger cult](groups-large.md), the [classes](classes.md) of leader/follower are *explicitly* enforced with formalized titles and a rigid hierarchy. Any [disputes](people-conflicts-why.md) are *never* addressed among peers, and *always* involve the leadership making a directed decision.
 
 ## Power expressed
 
@@ -200,7 +200,7 @@ Most [small groups](groups-small.md) can sit latent for *decades* without becomi
 
 Some of these groups are patently obvious to anyone on the outside:
 
-- [Violent](people-conflicts-war.md) extremist groups (e.g., terrorists)
+- [Violent](people-conflicts-war-why.md) extremist groups (e.g., terrorists)
 - Cartels and organized crime (e.g., mafia)
 - [Human traffickers](slavery.md)
 - [Charming](influence.md) [religious](religion.md) leaders and [human potential](politics-leftism.md) leadership
@@ -210,10 +210,10 @@ Some of these groups are patently obvious to anyone on the outside:
 
 APPLICATION: Calling something a cult isn't very relevant because most things in life have their cult [subculture](people-culture.md). Instead, look at *who* calls it a cult.
 
-Generally, the public only notices cults when they violate [basic human rights](people-boundaries.md):
+Generally, the public only notices cults when they violate [basic human rights](people-boundaries-why.md):
 
 - People give up their property or inheritance to the group they're swearing allegiance toward.
-- A person shuns their [family](people-family.md) and [friends](people-friends.md) while believing it's a [loving act](people-love.md), or leaves their family entirely.
+- A person shuns their [family](people-family.md) and [friends](people-friends-why.md) while believing it's a [loving act](people-love.md), or leaves their family entirely.
 - Belief in [corporal punishment](people-rules.md) without examining its basis.
 - Desire to trust "God's will" to the point of letting a person die.
 - Principled disregard for [human universals](humanity-universals.md) to the point of severe, permanent damage.
@@ -232,7 +232,7 @@ Once a cult has fully indoctrinated members, they will [decide](people-decisions
 
 Some cults are vilified, but many cults can be endorsed by [strong authority figures](groups-large.md).
 
-- Cult leadership can often curate a [public image](image-distortion.md) of generosity or kindness, even when most of the contributions don't serve anyone but the leadership.
+- Cult leadership can often curate a [public image](people-image-distortion.md) of generosity or kindness, even when most of the contributions don't serve anyone but the leadership.
 - Cults are frequently part of the mechanism behind many [defective social systems](mgmt-badsystems.md).
 - A cult may have tax-exempt or charitable [government status](people-rules.md).
 - Most government intelligence agencies and militaries borrow from cult practices, if not outright being cults themselves.
@@ -264,7 +264,7 @@ APPLICATION: Because of the [range of our personalities](personality.md), even a
 
 Often, cult membership creates very severe effects upon a participant:
 
-- Absolute sabotage of [personal freedoms](people-boundaries.md), to the point of having a broken [personality](personality.md) and unable to make [good boundaries](people-boundaries.md).
+- Absolute sabotage of [personal freedoms](people-boundaries-why.md), to the point of having a broken [personality](personality.md) and unable to make [good boundaries](people-boundaries-why.md).
 - Severe [trauma](hardship-ptsd.md) from the events performed *to* them.
 - Bad [decisions](people-decisions.md) and [their effects](results.md) they [chose](people-decisions.md) to make *on behalf of* the group they trusted.
 
@@ -275,7 +275,7 @@ Generally, they'll veer *hard* into the polar opposite extreme value system:
   - An extremely [liberal](politics-conservativeliberal.md) activist may become highly conservative or apolitical.
 - The only way they'll ever find [a healthy balance](goodlife.md) is by becoming equally entrenched in several groups until they start seeing they need to change their tactic.
 
-The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts.md) those cults are typically the people who have [integrated their shadow self](personality.md).
+The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts-why.md) those cults are typically the people who have [integrated their shadow self](personality.md).
 
 - They must acknowledge they were partly responsible for submitting their [will](people-decisions.md) to another person.
 - They *also* must acknowledge they were a victim of that leader exploiting their [trust](trust.md).

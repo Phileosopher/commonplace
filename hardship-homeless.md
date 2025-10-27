@@ -3,7 +3,7 @@
 
 When you have less than a month's worth of expenses left, start planning to move:
 
-- The only alternative will be to incur [debts](money-2_debt.md) for unpaid rent, which [will make your life more difficult later](image-modern.md).
+- The only alternative will be to incur [debts](money-2_debt.md) for unpaid rent, which [will make your life more difficult later](people-image-modern.md).
 - Try to sell as many possessions as you can, then give away anything that's relatively valueless to reduce your "footprint".
 - Make sure you're *extremely* [organized](organization.md) to cut down on the stress of [moving](home-moving.md).
 
@@ -54,7 +54,7 @@ The most versatile (and second-easiest) is living in your car or a tent:
   - Shape aluminum foil and cook on the exhaust manifold.
   - Boil water with a heat source, then store it in a high-quality thermos all day.
   - Unless you get a generator, any electric cooking will be *very* low-powered.
-- Stay [hygienic](people-2_image.md).
+- Stay [hygienic](people-image.md).
   - Use a chain-store gym.
   - Swim at a beach or lake.
   - Use truck stop showers.

@@ -1,7 +1,7 @@
 
 # List of image distortion methods
 
-NOTE: We often don't know how to get [power](power.md) and often [fear](mind-feelings-fear.md) losing it. So, we do weird things to [lie](people-lying.md) about it, usually to make ourselves [look](image.md) more powerful. While this list isn't comprehensive, it gives an indicator of the types of things worth watching out for in other people and [groups](groups-large.md).
+NOTE: We often don't know how to get [power](power.md) and often [fear](mind-feelings-fear.md) losing it. So, we do weird things to [lie](people-lying.md) about it, usually to make ourselves [look](people-image-why.md) more powerful. While this list isn't comprehensive, it gives an indicator of the types of things worth watching out for in other people and [groups](groups-large.md).
 
 Almost everything in this list works to serve a few main themes:
 
@@ -26,7 +26,7 @@ Beliefs
 - Add new premises that change the [story](stories.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
 - Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](people-decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
-- Make someone doubt and question [understanding](understanding.md), [perceptions](image.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
+- Make someone doubt and question [understanding](understanding.md), [perceptions](people-image-why.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
 - Justify the basis of something by virtue of someone's [authority](jobs-specialization.md).
 - Express a secondary motive as the primary [purpose](purpose.md).
 
@@ -101,7 +101,7 @@ Comparing with the Unknown
 Topic
 
 - Redirect the discussion away from the central issue.
-- Redirect a [conflict](people-conflicts.md) to a vaguely related one.
+- Redirect a [conflict](people-conflicts-why.md) to a vaguely related one.
 - Rapidly shift [conversation](people-conversation.md) or [tone](language.md) to confuse or disorient someone, often to discover a secret.
 - Focus more on qualities than on quantities to evoke more [feelings](mind-feelings.md).
 - Focus more on quantities than on qualities to dismiss a matter.
@@ -126,7 +126,7 @@ Pressure
 
 - Ask a yes/no question with many elements, then demand the person answer yes or no.
 - Ask two pseudo-related ideas within the same question.
-- Push intense [feelings](mind-feelings.md) as if they're valid [logic](logic.md), frequently controlling the [conversation](people-conversation.md) with [shame](image.md).
+- Push intense [feelings](mind-feelings.md) as if they're valid [logic](logic.md), frequently controlling the [conversation](people-conversation.md) with [shame](people-image-why.md).
 - Push the matter as urgent when it's not to force a [decision](people-decisions.md) without [critically thinking](logic.md) it through first.
 - Use an unusual time or adverse weather conditions to make people uncomfortable.
 - Misstate what someone said to make it sound worse, usually to provoke defensiveness.
@@ -147,12 +147,12 @@ Blame
 - Claim something difficult to disprove against someone.
 - Misquote, then attack a statement ("straw man").
 
-## [Image](image.md)
+## [Image](people-image-why.md)
 
 First Impressions
 
-- Prominently display [symbols](symbols.md) that evoke [status](image.md) or discredit others' status.
-- Pay for [advertising](marketing.md) to imply a larger [reputation](image.md) than [reality](reality.md).
+- Prominently display [symbols](symbols.md) that evoke [status](people-image-why.md) or discredit others' status.
+- Pay for [advertising](marketing.md) to imply a larger [reputation](people-image-why.md) than [reality](reality.md).
 - Purchase and display possessions to appear larger, more important, or to [scare](mind-feelings-fear.md) others.
 - Use possessions flippantly as if they had no [value](purpose.md) to its owner.
 - Gain a formal title or role that yields no additional [power](power.md).
@@ -173,7 +173,7 @@ Redirection
 
 - Call another group by a label that only fits a few [outliers](trends.md) of the group.
 - Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](understanding-certainty.md) or a few specific people in that group.
-- Use existing [reputation](image.md) to hide laziness or incompetence.
+- Use existing [reputation](people-image-why.md) to hide laziness or incompetence.
 - Imply that their thing is the new [trend](trends.md), which makes others [imagine](imagination.md) they'll miss out on it.
 - Imply there are only a few possible [options](people-decisions.md), even when there are more.
 - A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
@@ -183,12 +183,12 @@ Blame
 - Condemn a [group's leadership](groups-large.md) that they haven't fixed a completely unfixable thing.
 - Blame an opponent or a common enemy for public failures.
 - Blame a [larger group](groups-large.md) to appear as a [victim](hardship-ptsd.md) or more [moral](morality.md).
-- Shame anyone who rejects their [bias](image.md).
+- Shame anyone who rejects their [bias](people-image-why.md).
 - Imply their opponent is the laggard of a [trend](trends.md).
 
 ## [Organizations](groups-large.md)
 
-Public [Image](image.md)
+Public [Image](people-image-why.md)
 
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
 - Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](politics-leftism.md)).
@@ -215,8 +215,8 @@ Inter-Organization
 Multi-Organization - Hiding
 
 - Use third parties, middlemen, and outside contractors who can be held solely responsible if caught, especially about [illegal things](people-rules.md).
-- Create separate [images](image.md) for various [created](creations.md) things in the same organization (e.g., [marketing brands](marketing.md)).
-- Making another organization that holds assets, which can often have [legal](people-rules.md) benefits along with [image](image.md).
+- Create separate [images](people-image-why.md) for various [created](creations.md) things in the same organization (e.g., [marketing brands](marketing.md)).
+- Making another organization that holds assets, which can often have [legal](people-rules.md) benefits along with [image](people-image-why.md).
 
 Multi-Organization - [Crisis](mind-feelings-fear.md)
 
@@ -228,9 +228,9 @@ Multi-Organization - Referencing
 
 - Cite another organization that cited them.
 - Create a separate organization to authorize, review, or approve things, then have them authorize their mother organization (e.g., committees, bureaus).
-- Use [large-scale media](stories-storytellers.md) to advertise a [bias](image.md) as if it were a [fact](reality.md).
+- Use [large-scale media](stories-storytellers.md) to advertise a [bias](people-image-why.md) as if it were a [fact](reality.md).
 - Have another organization [publish](creations.md) something, then cite it.
-- Create multiple organizations that do the same thing to make something [appear](image.md) to be a [trend](trends.md).
+- Create multiple organizations that do the same thing to make something [appear](people-image-why.md) to be a [trend](trends.md).
 - Make [creations](creations.md) that magnify the importance of a first creation, frequently drawing on nostalgic memories and vague [feelings](mind-feelings.md).
 - A pump-and-dump/Ponzi scheme:
   1. Make [lots of hype](stories-storytellers.md) about something to inflate its value.

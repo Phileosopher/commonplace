@@ -29,7 +29,7 @@ Parenting is high-risk and high-reward because children directly mimic the posit
 
 - If you're [self-aware](awareness.md), [have a good marriage](relationships-marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
 - As you fail, acknowledge your mistakes and flaws to your children and work as they grow to change them.
-- [Confront every issue](people-5_conflicts.md) as early on as possible.
+- [Confront every issue](people-conflicts.md) as early on as possible.
   - While it's good to know what to expect before it happens, the children changing and growing *require* you to [creatively](mind-creativity-how.md) adapt to the situation.
 
 ## Mentally preparing
@@ -397,7 +397,7 @@ By their first birthday, they're usually about 1/3 their full-grown height.
 Starting with their first birthday, get routine medical checkups:
 
 - Most medical checkups are preventative maintenance, which means you don't *have* to perform them, even if [the government](legal-safety.md) implies you do.
-- Since you're the parent, you have [the right](people-boundaries.md) to vaccinate your children when *you* get to say.
+- Since you're the parent, you have [the right](people-boundaries-why.md) to vaccinate your children when *you* get to say.
   - Some vaccinations aren't worth the effort because of how fast the viruses mutate:
     - Influenza (flu)
     - SARS-CoV-2 (COVID-19)

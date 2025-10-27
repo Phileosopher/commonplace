@@ -1,9 +1,9 @@
 
 # How bad systems decline
 
-The only cure to avoid bad systems starting is a [completely free market](economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](people-decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](image.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
+The only cure to avoid bad systems starting is a [completely free market](economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](people-decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](people-image-why.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
 
-At a certain point, though, a bad system will eventually emerge if they can amass enough alliances with other organizations, especially through pervasive [media](stories-storytellers.md) presence that [redirects the truth](image-distortion.md).
+At a certain point, though, a bad system will eventually emerge if they can amass enough alliances with other organizations, especially through pervasive [media](stories-storytellers.md) presence that [redirects the truth](people-image-distortion.md).
 
 APPLICATION: The greatness of a nation is its own [trend](trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](imagination.md) they're migrating their [culture](people-culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.
 
@@ -13,14 +13,14 @@ Several situations can, however, prolong or enhance a monopoly's presence:
 2. A government can authorize only specific organizations to perform an activity (e.g., [patents](legal-ip.md), permits).
 3. An organization funnels its control from a relatively unrelated domain to gain power in an otherwise under-served marketplace.
 4. An organization can grow large enough where they can act beyond the scope of any government's control (e.g., multinational corporation, flouting government [rules](people-rules.md) while [politicizing](stories-storytellers.md) that they're "too big to fail").
-5. Sometimes, they can get public opinion on their side through groups they privately control that advance their agenda (e.g., conveying an [image](image.md) that a group must be "free of political influence" to stop the big system).
+5. Sometimes, they can get public opinion on their side through groups they privately control that advance their agenda (e.g., conveying an [image](people-image-why.md) that a group must be "free of political influence" to stop the big system).
 
 The only solution to fixing a bad system from the inside is revolutionary [change](people-changes.md) on every level:
 
 - Against [human nature](humanity-universals.md), the system dramatically sheds a huge chunk of its [power](power.md), giving it more control over its smaller remaining base.
 - New management that throws out [convention](habits.md) and large portions of the organization's established [culture](people-culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](understanding.md) and [influential](influence.md) [values](values.md).
 - Massive reorganization of members and roles, with a significant portion of the group getting promoted or removed from the group.
-- Adoption of a key [trend](trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](image-distortion.md) virtue (e.g., [leftism](politics-leftism.md)).
+- Adoption of a key [trend](trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](people-image-distortion.md) virtue (e.g., [leftism](politics-leftism.md)).
 - Complete destruction of the group, often by removing the massive central authority and dividing the group into smaller components.
 
 APPLICATION: All systems become bad eventually, at some point. They must then be rebuilt through a change in leadership or will be replaced by another system. Thus, all systems run through a relatively predictable [cycle](trends.md):
@@ -31,7 +31,7 @@ APPLICATION: All systems become bad eventually, at some point. They must then be
 4. [Strong](power.md) leaders are appointed more than [wise](understanding.md) or [good](morality.md) leaders.
 5. The group becomes a bad system, ready for restructuring or another system to take its [power](power.md) away.
 
-People don't typically like [change](people-changes.md), so the only way to make *all* the necessary changes is when the system is already disrupting everyone's [habits](habits.md). A crisis is the best trigger for this, but a [manufactured crisis](image-distortion.md) can [work just as well](results.md) if [people will buy it](influence.md).
+People don't typically like [change](people-changes.md), so the only way to make *all* the necessary changes is when the system is already disrupting everyone's [habits](habits.md). A crisis is the best trigger for this, but a [manufactured crisis](people-image-distortion.md) can [work just as well](results.md) if [people will buy it](influence.md).
 
 APPLICATION: In a large organization that's become a bad system, *all* the leadership is partially responsible, as well as all the individual participants who contributed to their power. It's difficult to tell how much for each, though, since most committee-based leadership [decisions](people-decisions.md) are opaque, and they'll each blame everyone and everything but themselves. The only solution to reliably tell is to remove the leaders, one by one, put them in another situation, then closely watch the [changes](people-changes.md) to both the system they were removed from and the system they were placed in.
 
@@ -45,9 +45,9 @@ The more likely scenario, though, for most bad systems, is decay through tribali
 
 Ironically, the [middle-class](classes.md) people in a group become that organization's hope. The upper-class are too concerned with [power](power.md) (and will do whatever it takes to get more of it) and the lower-class are too concerned with [survival](mind-feelings-fear.md) (and will take short-term [promises](people-contracts.md) without considering their viability or long-term benefit). In particular, the lower-class opinion will become "tyranny of the majority".
 
-Of course, this will often be met by [dramatic conflict](people-conflicts-war.md) from members who had more power, as well as risks from outside groups who may [influence](influence.md) the new leadership. However, they won't have the means to build the skills necessary for a critical [trend](trends.md) that comes from [what they can't know](unknown.md). For that reason, every large group leader always persists only for a season, even when they can extend it with many more [rules](people-rules.md) and [restrictions](rules-methods.md).
+Of course, this will often be met by [dramatic conflict](people-conflicts-war-why.md) from members who had more power, as well as risks from outside groups who may [influence](influence.md) the new leadership. However, they won't have the means to build the skills necessary for a critical [trend](trends.md) that comes from [what they can't know](unknown.md). For that reason, every large group leader always persists only for a season, even when they can extend it with many more [rules](people-rules.md) and [restrictions](rules-methods.md).
 
-Fixing a bad system is unlikely, and the better solution is to tear it down and start again entirely. Generally, they can only be defeated by implosion through their incompetence (and thereby motivating people to do *anything* else) or through defeat by something [stronger](power.md) than it. In the event of an attack, they'll [fight](people-conflicts-war.md) desperately to maintain their [power](power.md), so the implosion from inside is preferable for everyone else.
+Fixing a bad system is unlikely, and the better solution is to tear it down and start again entirely. Generally, they can only be defeated by implosion through their incompetence (and thereby motivating people to do *anything* else) or through defeat by something [stronger](power.md) than it. In the event of an attack, they'll [fight](people-conflicts-war-why.md) desperately to maintain their [power](power.md), so the implosion from inside is preferable for everyone else.
 
 The destruction of a bad system is very near when more effort is spent on things that don't add value to the organization's [purpose](purpose.md), and there is a public image that that is the case.
 
@@ -59,7 +59,7 @@ A bad system can become permanently hampered, which opens the path for other gro
 
 - Unionized workers who require higher pay but with no incentive to work harder (since unions are based strictly on length of time existing in the [group](groups-member.md)).
 - Government [laws](people-rules.md) that prohibit expansion into new related territories (e.g., AT&T's lack of expansion permitted [computers](computers.md) to exist separately from AT&T).
-- People who die using their service or product, or die while trying to publicize the organization's failings. If the deaths are [advertised](stories-storytellers.md) severely enough (which means the system didn't bribe media outlets enough), the organization can incur a [long-term mark](image.md) on its reputation. This can be extra effective if the story is [interesting or symbolic](symbols.md).
+- People who die using their service or product, or die while trying to publicize the organization's failings. If the deaths are [advertised](stories-storytellers.md) severely enough (which means the system didn't bribe media outlets enough), the organization can incur a [long-term mark](people-image-why.md) on its reputation. This can be extra effective if the story is [interesting or symbolic](symbols.md).
 
 There's no easy way to replace a bad system, either:
 
@@ -71,7 +71,7 @@ A bad system will often be replaced by a much more efficient, newer system that 
 
 One of the most significant ways a bad system loses public favor is when they *completely* fail the [trust](understanding-certainty.md) of the public who had placed faith in them:
 
-- Violate private individuals' [rights](people-boundaries.md), usually in a way that people die. This gets worse if they try to bury or destroy the evidence of their actions, and can be *much* worse if it's a new [technology](technology.md) (since it'll magnify everyone's [fears](mind-feelings-fear.md) of the [unknown](unknown.md)).
+- Violate private individuals' [rights](people-boundaries-why.md), usually in a way that people die. This gets worse if they try to bury or destroy the evidence of their actions, and can be *much* worse if it's a new [technology](technology.md) (since it'll magnify everyone's [fears](mind-feelings-fear.md) of the [unknown](unknown.md)).
 - Suffer a [logistical](logistics.md) failure that creates a supply chain disruption, often in a way that people are permanently injured or die.
 - Create something and [advertise](marketing.md) it as a dramatic new [trend](trends.md), but it's [poorly designed](results.md) to make them the object of [ridicule](humor.md) or the trend is absolutely [taboo](morality-taboo.md).
 
@@ -83,7 +83,7 @@ Depending on their [scope of power](politics-monopolies.md), both governments an
 
 - A gigantic corporation can be subdued or divided on the outside by a government, often by labeling them as a "common carrier" and requiring they stay autonomously separate.
 - In the absence of government intervention, a corporation must be starved by *another* corporation that serves [members'](groups-member.md) interests better.
-- A government or political party can only be stopped by another government/party with more [power](power.md) or in another country, assuming they haven't oppressed the people enough to make them [revolt](people-conflicts-war.md) or break the [rules](people-rules.md).
+- A government or political party can only be stopped by another government/party with more [power](power.md) or in another country, assuming they haven't oppressed the people enough to make them [revolt](people-conflicts-war-why.md) or break the [rules](people-rules.md).
 - Any terrible government or corporation, however, will fall apart quickly if the public finds a reliable way to live without it, though governments may overstep their power to keep their control.
 
 APPLICATION: If anyone deems an organization as "too big to fail", the more accurate description is "so big it'll inevitably fail".
@@ -110,7 +110,7 @@ APPLICATION: We don't like oppressive dictators, but there are *always* worse al
 
 One of the most powerful forms of destroying a bad system comes through mandatory transparency. It's impossible for bad systems to present the openness that more effective organizations could provide. If enough competing entities give that openness, the older systems will be required to divulge more information, which makes corruption harder to perform.
 
-Transparency is technically impossible to completely attain, since some information must be private to avoid harming [reputation](image.md). However, transparency is an absolute concept in comparison with other entities' openness of information. There are many [creative](mind-creativity.md) ways to state the blatant truth without using names.
+Transparency is technically impossible to completely attain, since some information must be private to avoid harming [reputation](people-image-why.md). However, transparency is an absolute concept in comparison with other entities' openness of information. There are many [creative](mind-creativity.md) ways to state the blatant truth without using names.
 
 APPLICATION: Society will never work its issues out without massive, [large-scale transformation](politics-perfectsociety.md) of human [purpose](purpose.md) and [motivation](humanity.md). We'll always have a "deep state" inside every [large system](groups-large.md) waiting to abuse their [power](power.md) until another system of a new generation [takes its place](trends.md).
 

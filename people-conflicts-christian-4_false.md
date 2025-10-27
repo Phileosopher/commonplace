@@ -53,7 +53,7 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
   - In this life, we're destined to battle hardship, which includes [not being able to fully trust those around us](hardship-persecution-church.md).
 - A variation of this is Christian nationalism, which indicates a person's Christian background should reflect on their [political views](politics-conservativeliberal.md).
   - While our political views can be shaped by our spirituality, [sound economic theory](economics.md) and [governance principles](legal-doctrines.md) will *not* have relevance once [Jesus returns](jesus-returns.md).
-  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war.md), or our [political activism](culture-cults.md).
+  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](culture-cults.md).
 
 Second Work Theology - Salvation can be enhanced through the baptism of the Holy Spirit ([Acts 2:38](https://biblehub.com/acts/2-38.htm)):
 
@@ -155,7 +155,7 @@ There is no hell, it isn't eternal, or is a figurative state of mind:
   2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
   3. He therefore has no choice for infinite, unrepentant souls except to put them away from the rest of creation.
 
-Some heresies about Christian [rituals and practices](mgmt-church.md) create an environment with [bad boundaries](people-boundaries.md):
+Some heresies about Christian [rituals and practices](mgmt-church.md) create an environment with [bad boundaries](people-boundaries-why.md):
 
 - Adamism - Everyone should live naked, like Adam and Eve.
 - Barallots - Everyone should share *everything* in common, including wives and children.
@@ -209,7 +209,7 @@ Heresies that take away part of the Bible:
 Heresies that add content to the Bible:
 
 - Montanism - The Bible is either insufficient or incomplete, and God regularly gives new revelations that change based on the [culture](people-culture.md) He's speaking to.
-  - Their attitude created a *lot* of [political friction](people-conflicts-war.md) for the Christian church.
+  - Their attitude created a *lot* of [political friction](people-conflicts-war-why.md) for the Christian church.
   - There are multiple works inspired by them (mostly apocalypse-focused), including the Apocalypse of Peter, and the fact that they accepted the Apocalypse of St. John (now known as Revelation in the Bible) is why the Assyrian Church of the East won't accept it as canon.
 - Some works have *very* significant historical value (e.g., Jasher, other early Christian letters).
   - This information is *very* valuable to gather context and understanding of the culture and context around the Bible.

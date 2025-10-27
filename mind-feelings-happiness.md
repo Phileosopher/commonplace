@@ -17,7 +17,7 @@ To [live well](goodlife.md), someone should find some form of happiness approxim
 
 We often attribute good things to joy, but [mentally well people](mind-feelings-happiness.md) find joy in [habitual](habits.md) things without provocation.
 
-We tend to experience joy more over things that [appear](image.md) to be new or [meaningful](meaning.md).
+We tend to experience joy more over things that [appear](people-image-why.md) to be new or [meaningful](meaning.md).
 
 The pursuit of happiness has a risk, though: if we live only in a state of joy too far, the pursuit of the feeling (or [the substance that gives it](addiction-substances.md)) becomes [addiction](addiction.md).
 

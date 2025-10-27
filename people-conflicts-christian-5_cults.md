@@ -127,7 +127,7 @@ Mormonism - founded through the Church of Jesus Christ of Latter Day Saints by J
 - Incriminating evidence:
   - Before running a religion, Joseph Smith had a dishonorable reputation with his father as a treasure hunter and used spiritual divination techniques to that end, but emphatically denied his background later in life.
   - Joseph Smith Jr. changed his story later and said the Golden Plates came from the angel Nephi, not Moroni.
-  - The original doctrine promoted polygamy (multiple wives), but they've later changed their stance on it, with [divisions](people-conflicts-war.md) on the subject.
+  - The original doctrine promoted polygamy (multiple wives), but they've later changed their stance on it, with [divisions](people-conflicts-war-why.md) on the subject.
   - There's no reported evidence of either the Golden Plates or archeological evidence of white Native Americans.
   - There are 3,913 separate instances of the Book of Mormon edited with material distinctions.
   - In 1844 Joseph and his brother Hyrum destroyed an anti-Mormon publication called The Nauvoo Expositor and were placed in a Carthage, Illinois jail on trial for it, but a mob of ~200 people brutally murdered both of them.
@@ -194,8 +194,8 @@ Further, other religions/cults are *very* much incompatible with Christianity be
 Some cults do *not* conform to a religious basis (i.e., no explanation of [the Big 3 questions](religion.md), especially the afterlife).
 
 - The authority isn't spiritual, so it doesn't typically centralize on one personality, but they tend to have specific [influencers](power-influence.md) who advance the cause.
-- They don't promise immortality, meaning members are never motivated to perform tremendous sacrifices that could create severe loss in this world (e.g., [violence](people-conflicts-war.md)).
-- However, the group's leadership still demands unfailing devotion to specific core doctrines, without any open-mindedness to [alternative perspectives](image.md).
+- They don't promise immortality, meaning members are never motivated to perform tremendous sacrifices that could create severe loss in this world (e.g., [violence](people-conflicts-war-why.md)).
+- However, the group's leadership still demands unfailing devotion to specific core doctrines, without any open-mindedness to [alternative perspectives](people-image-why.md).
 - Ironically (and in alignment with cult affiliation) many of their proponents are unaware of their value system's dogmatism, but have an obsession with destroying other groups they've deemed as dogmatic (especially [religion](religion.md)).
 
 Christians can be part of a secular cult without realizing it.
@@ -218,7 +218,7 @@ Political campaigns - began significantly as a group in the USA in 1860 through 
 - Core values:
   - The hope of the nation, and the world, rests in the selected candidate being elected.
   - (for [conservatives](politics-conservativeliberal.md)) We must bring society back to [known-good virtues](values.md) we once had.
-  - (for [liberals](politics-leftism.md)) We must give more [freedoms](people-boundaries.md) to people who don't have them.
+  - (for [liberals](politics-leftism.md)) We must give more [freedoms](people-boundaries-why.md) to people who don't have them.
 - Incriminating evidence:
   - At its extreme, it has become [Fascism and Marxism](politics-systems.md), which are both tyrannical regimes that strip society of its freedoms.
   - It's not possible to scale Jesus' [command to love](https://theologos.site/devotion-chaos/) upward to a political scale (at least, [not yet](https://theologos.site/millennium/)), so we can *only* work with the domain of what we have control over, then release the rest to God.
@@ -230,7 +230,7 @@ Political campaigns - began significantly as a group in the USA in 1860 through 
   - Self-sufficiency through an MLM organization is the secret to [living well](goodlife.md).
   - Everyone can benefit well from MLM, and the people who don't follow its winning formula are an inferior type of person.
 - Incriminating evidence:
-  - Most MLM culture advances greed and shameless violation of [boundaries](people-boundaries.md) with their former friends and family.
+  - Most MLM culture advances greed and shameless violation of [boundaries](people-boundaries-why.md) with their former friends and family.
   - Many MLM companies' leadership are run by convicted white-collar criminals.
 
 Pride - started in 1970 in the USA as Gay Pride but grew heavily as a political movement starting in the 1980s

@@ -5,19 +5,19 @@ At our core, beyond [reasoning or sensibility](logic.md), we experience the worl
 
 ## Basis
 
-Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](imagination.md). This stimulus can come from our [perceptions](image.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](people-decisions.md) and [purposes](purpose.md).
+Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](imagination.md). This stimulus can come from our [perceptions](people-image-why.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](people-decisions.md) and [purposes](purpose.md).
 
 APPLICATION: If you want to change your feelings, change your physical state. Furrowing your brow will make you think harder, standing up straight will make you more confident, walking faster will make you more productive.
 
-In one sense, feelings are a status indicator of what we generally [understand](understanding.md) is happening. But, in another sense, feelings are low-level forms of [logic](logic.md), framed on reactionary premises (which we [trust](trust.md)) instead of well-formed ones (which may be harder to quickly [identify](image.md)).
+In one sense, feelings are a status indicator of what we generally [understand](understanding.md) is happening. But, in another sense, feelings are low-level forms of [logic](logic.md), framed on reactionary premises (which we [trust](trust.md)) instead of well-formed ones (which may be harder to quickly [identify](people-image-why.md)).
 
-APPLICATION: Below everything else that we perceive, we feel. Those feelings define the components we can [logically](logic.md) assemble into our [perceptions](image.md). They're the raw information we must synthesize, but also must never forget where we got them.
+APPLICATION: Below everything else that we perceive, we feel. Those feelings define the components we can [logically](logic.md) assemble into our [perceptions](people-image-why.md). They're the raw information we must synthesize, but also must never forget where we got them.
 
 Our impulses also form into thoughts of their own, which can also trigger our beliefs as we think them, meaning we can feel things from while noticing our feelings. All of it becomes even messier because our [beliefs](understanding-certainty.md) only have a loose relationship to [reasoning](logic.md) or [reality](reality.md).
 
 Even analytical, [logical](logic.md) people are bound by their feelings, though they're often [afraid](mind-feelings-fear.md) of their feelings guiding them.
 
-Feelings are the product of a [perceived](image.md) change. The feeling happens upon perception of the information.
+Feelings are the product of a [perceived](people-image-why.md) change. The feeling happens upon perception of the information.
 
 APPLICATION: We can only feel things if we believe we're a participant in that thing, or it's new to us. If we see ourselves as simply an outside observer of *everything* and constantly [educate](education.md) ourselves, we'd have very few feelings about anything.
 
@@ -36,11 +36,11 @@ The need fulfillment (and its associated feelings) work through our needs in pai
 - Then, we look for significance to feel we matter (what we do), but at the same time see love and acceptance (who we are).
 - Finally, we look to grow (inward development) and contribute (outward development).
 
-Feelings are inherently social, and our [connections with others](people-friends.md), starting with our [parenting](people-family.md), define how much we feel others' feelings.
+Feelings are inherently social, and our [connections with others](people-friends-why.md), starting with our [parenting](people-family.md), define how much we feel others' feelings.
 
 ## Bias
 
-Feelings create [bias](mind-bias.md), and we tend to call things that are heavy with feelings "personal experiences". Our so-called "personal experience" makes us very prone to [deceiving](image-distortion.md) ourselves in many directions. When we experience [trauma](hardship-ptsd.md), we have feelings we're [unaware](awareness.md) of that profoundly affect our lives long after the events have passed.
+Feelings create [bias](mind-bias.md), and we tend to call things that are heavy with feelings "personal experiences". Our so-called "personal experience" makes us very prone to [deceiving](people-image-distortion.md) ourselves in many directions. When we experience [trauma](hardship-ptsd.md), we have feelings we're [unaware](awareness.md) of that profoundly affect our lives long after the events have passed.
 
 We can discipline ourselves to focus on [reality](reality.md) more, but have no direct [control](people-decisions.md) over the feelings that flavor our thought. We must experience our feelings to find what beliefs drive them (which is frequently painful) and there's no shortcut to [understanding](understanding.md) them.
 
@@ -91,7 +91,7 @@ We tend to be *very* unaware of our feelings until we experience [results](resul
 
 Generally, feelings hold [power](power.md) over our [decisions](people-decisions.md) proportionally to how unaware we are of them.
 
-All feelings have an object in mind, at least when we first [perceive](image.md) that object. However, we can often forget the source later, which will leave a neurological haze of generalized thought that triggers that feeling again without much explanation.
+All feelings have an object in mind, at least when we first [perceive](people-image-why.md) that object. However, we can often forget the source later, which will leave a neurological haze of generalized thought that triggers that feeling again without much explanation.
 
 When a person isn't [self-aware](awareness.md) of a feeling, they usually staple a quick [decision](people-decisions.md) to it. People frequently redirect feelings to another source, which psychology calls transference or projection.
 
@@ -115,9 +115,9 @@ APPLICATION: Most of our feelings *would* be precisely accurate if they were bas
 
 ## Intensified
 
-If an [experience](image.md) was particularly [influential](influence.md) towards our [understanding](understanding.md) or [desire](purpose.md) (especially if it was [traumatic](hardship-ptsd.md)), our feelings can persist to frame further beliefs, which can create secondary feelings with *much* more power over our actions.
+If an [experience](people-image-why.md) was particularly [influential](influence.md) towards our [understanding](understanding.md) or [desire](purpose.md) (especially if it was [traumatic](hardship-ptsd.md)), our feelings can persist to frame further beliefs, which can create secondary feelings with *much* more power over our actions.
 
-APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](trust.md) proportionally to the [sensationalism](image.md). This isn't easy because anger gives us the [impression](image.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
+APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](trust.md) proportionally to the [sensationalism](people-image-why.md). This isn't easy because anger gives us the [impression](people-image-why.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
 
 If a feeling persists and is reinforced enough, it becomes a [conviction](understanding-certainty.md).
 

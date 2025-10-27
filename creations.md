@@ -5,11 +5,11 @@ Creations aren't merely beautiful things, and include anything where we add [qua
 
 - Adding value to an eyewitness account with a recorded video.
 - Adding value to information in a spreadsheet by compiling a report.
-- Adding value to a [friendship](people-friends.md) by giving a gift.
+- Adding value to a [friendship](people-friends-why.md) by giving a gift.
 - Adding value to [understanding](understanding.md) by using [science](science.md) or [philosophy](philosophy.md)
-- Adding value to a [human connection](people-friends.md) by making an [agreement](people-contracts.md) or settling a [conflict](people-conflicts.md).
+- Adding value to a [human connection](people-friends-why.md) by making an [agreement](people-contracts.md) or settling a [conflict](people-conflicts-why.md).
 
-We always add what we *[perceive](image.md)* as value. According to others' [perceptions](image.md), the value-adding may or may not be [legitimate](reality.md), or it may be *more* than others can interpret.
+We always add what we *[perceive](people-image-why.md)* as value. According to others' [perceptions](people-image-why.md), the value-adding may or may not be [legitimate](reality.md), or it may be *more* than others can interpret.
 
 APPLICATION: Even anal-retentive [bureaucrats](bureaucracy.md) and obsessive hobbyists are adding what they imagine is value. The only way to [influence](influence.md) them is to treat their contributions as important (even when they aren't).
 
@@ -28,13 +28,13 @@ We only create because we [believe](understanding-certainty.md) the creation wil
 
 When people create, they are either [imagining](imagination.md) it first or acting from [habit](habits.md), and they're *always* drawing from the [world around them](reality.md).
 
-Sadly, while some creators are taking [social risks](socialrisk.md) to explore truths, most of them are imitating other creators for the purpose of self-interested [reputation](image.md) or [wealth](power-types.md).
+Sadly, while some creators are taking [social risks](socialrisk.md) to explore truths, most of them are imitating other creators for the purpose of self-interested [reputation](people-image-why.md) or [wealth](power-types.md).
 
 Creations that aren't designed for a specific need are typically either tools or media, and are always designed for present-tense or future-tense use.
 
 The longer that we [imagine](imagination.md) a creation in our minds, the higher and more grandiose we imagine its created value will be when it becomes [reality](reality.md).
 
-Broadly speaking, across [societies](groups-large.md), people use a few major [angles](image.md) that refine [chaos](unknown.md) into [meaning](meaning.md). The creators' efforts funnel into an approximate [trend](trends.md) derived from how much [understanding](understanding.md) they have of the subject:
+Broadly speaking, across [societies](groups-large.md), people use a few major [angles](people-image-why.md) that refine [chaos](unknown.md) into [meaning](meaning.md). The creators' efforts funnel into an approximate [trend](trends.md) derived from how much [understanding](understanding.md) they have of the subject:
 
 1. [Art](art.md) - grabbing from the [unknown](unknown.md) and making clearly understood [stories](stories.md) that capture the [human condition](humanity.md).
 2. [Science](science.md) - understanding [facts](reality.md) extracted from those stories.
@@ -81,7 +81,7 @@ Every creator is trying to [convince](influence.md) a series of [ideas](values.m
 
 APPLICATION: Since a creator built from their [instincts](mind-feelings.md), we can frequently infer the spirit and soul of something if we trust our instincts (which are similar enough to others' to [match](humanity-universals.md)). Even automated [technology](technology.md) has a creator's "fingerprint", though it'll be on the backend and deep inside it instead of what the technology itself creates.
 
-Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](people-decisions.md) how to add the experience to our [identity](identity.md).
+Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends-why.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](people-decisions.md) how to add the experience to our [identity](identity.md).
 
 APPLICATION: The trouble with modern art is that it often claims that the interpretation of [quality](values-quality.md) lies in the observer and not the piece itself. If that's the case, there's no [reason](purpose.md) to go to an art museum when someone can build a sandcastle with their kids or watch dumb videos.
 
@@ -93,7 +93,7 @@ In the case of fiction, which is essentially [imagination](imagination.md) by ad
 
 ### Future use
 
-For nearly everything else that isn't a tool or communication, it's a stockpile or a decoration, which are both future-tense. It's either a useful tool/communication at some indeterminate point in the future or communicating an [image](image.md) the owner wants to express.
+For nearly everything else that isn't a tool or communication, it's a stockpile or a decoration, which are both future-tense. It's either a useful tool/communication at some indeterminate point in the future or communicating an [image](people-image-why.md) the owner wants to express.
 
 APPLICATION: If someone imagines something as "the best", consider what they're using it for. The best of anything might be the cheapest or worst-quality if it's disposable or intended for [humor](humor.md)!
 
@@ -105,7 +105,7 @@ One of the most profound creations is a "hack". By using something beyond its or
 - Using a screwdriver to hold open a door.
 - Using common office supplies to secure an object.
 - Finding the easiest way [to learn something](understanding.md).
-- Using others' interpreted [statuses](image.md) to climb to the top of a [group](groups-member.md).
+- Using others' interpreted [statuses](people-image-why.md) to climb to the top of a [group](groups-member.md).
 
 The natural result of most significant hacks is that they're a tremendous [social risk](socialrisk.md). Compared to [what they can gain from it](power.md), most hackers either don't [know](understanding.md) or don't [care](purpose.md).
 
@@ -121,9 +121,9 @@ APPLICATION: Even fools will sometimes absorb something wise, which is why wisdo
 
 APPLICATION: Exploring truths is such a high risk that artists can't afford to be fragile. They must be durable enough to brave [the unknown](unknown.md) and the very high chance of failure.
 
-When we [imagine](imagination.md) what we [want](purpose.md) to build, we summon [beauty](values-quality.md) as we [understand](understanding.md) it. However, we tend to forget our sources and smash multiple elements together as we imagine and manipulate them. In the process, the creation's "mold" is an [image](image.md) of our [soul](humanity.md).
+When we [imagine](imagination.md) what we [want](purpose.md) to build, we summon [beauty](values-quality.md) as we [understand](understanding.md) it. However, we tend to forget our sources and smash multiple elements together as we imagine and manipulate them. In the process, the creation's "mold" is an [image](people-image-why.md) of our [soul](humanity.md).
 
-The ability for someone to build a seemingly new thing is a product of their [soul's](humanity.md) ability to connect unrelated elements. But, since it's borrowing from nature, none of it is technically "[new](image.md)". It's more that nobody noticed where they borrowed it from, often because the creator skillfully hid their sources.
+The ability for someone to build a seemingly new thing is a product of their [soul's](humanity.md) ability to connect unrelated elements. But, since it's borrowing from nature, none of it is technically "[new](people-image-why.md)". It's more that nobody noticed where they borrowed it from, often because the creator skillfully hid their sources.
 
 Usually, a created thing will be the foundation for other things by future creators. In retrospect, that creation will become "quaint" (e.g., a tired trope). However, the higher-quality work by later creators *needed* the lesser thing as the foundation for their existence.
 
@@ -167,7 +167,7 @@ Most creators are [determined](purpose.md) to [accomplish](results.md) through t
 - Uber converted anyone with a car into a taxi driver.
 - Netflix was tape rentals, but digitally streaming.
 
-The limitations often define the work itself. [Beautiful](values-quality.md) things arise from our ability to overcome the [inner conflicts](conflicts-inner.md) of our creation not quite looking like what we [envision](imagination.md) it to be.
+The limitations often define the work itself. [Beautiful](values-quality.md) things arise from our ability to overcome the [inner conflicts](people-conflicts-inner.md) of our creation not quite looking like what we [envision](imagination.md) it to be.
 
 Naturally, those limits go away with [technological developments](technology.md):
 
@@ -175,13 +175,13 @@ Naturally, those limits go away with [technological developments](technology.md)
 - Capturing audio as digital [symbols](symbols.md) for disassembly and reconstruction.
 - Sending [language](language.md) across long distances.
 
-APPLICATION: Brilliance operates against limits, so followup creations *can't* capture the original sensation of the original. Movie, book, and game sequels all try to evoke the [feeling](mind-feelings.md) of the original, but always lack the intensity of their predecessor because they weren't created with the [inner conflicts](conflicts-inner.md) or context that surrounded it.
+APPLICATION: Brilliance operates against limits, so followup creations *can't* capture the original sensation of the original. Movie, book, and game sequels all try to evoke the [feeling](mind-feelings.md) of the original, but always lack the intensity of their predecessor because they weren't created with the [inner conflicts](people-conflicts-inner.md) or context that surrounded it.
 
 Usually, there's a [creative](mind-creativity.md) person in the right place at the right time (like Shakespeare, Bach, or Charlie Chaplin) who can take advantage of the new technology to make a [permanent reputation](legacy.md) for themselves.
 
 If creators are confronting [cultural tradition](people-culture.md), they may start a [far-reaching trend](trends.md).
 
-APPLICATION: Don't disrespect early [trendsetters](trends.md). They didn't have the pre-existing [understanding](understanding.md) of the finished creation that you, the current observer, possess. Creations always take more [work](results.md) and [risk](socialrisk.md) than they [appear](image.md) to.
+APPLICATION: Don't disrespect early [trendsetters](trends.md). They didn't have the pre-existing [understanding](understanding.md) of the finished creation that you, the current observer, possess. Creations always take more [work](results.md) and [risk](socialrisk.md) than they [appear](people-image-why.md) to.
 
 ## The creation's image
 
@@ -189,15 +189,15 @@ The people who consume a designed thing *always* come into the experience with [
 
 APPLICATION: If we take the time to create things ourselves (instead of merely consuming), we find more [meaning](meaning.md) in absolutely everything we touch, *if* we can [succeed](results.md) at it. It often comes with added [skills](habits.md) and [understanding](understanding.md) as well.
 
-The elegance and quality of a creative work come in how well the creator can hide the garbage-looking parts of the thing while maintaining the complexity of the thing itself. Hiding weld points, plastic seams, excess inventory in a store, or [technologies](technology.md) available but rarely used in an operating system all increase the value of those things by maintaining a high-quality [image](image.md).
+The elegance and quality of a creative work come in how well the creator can hide the garbage-looking parts of the thing while maintaining the complexity of the thing itself. Hiding weld points, plastic seams, excess inventory in a store, or [technologies](technology.md) available but rarely used in an operating system all increase the value of those things by maintaining a high-quality [image](people-image-why.md).
 
-For the sake of gaining [influence](influence.md) or [power](power.md), creators *frequently* try to [distort](image-distortion.md) how [high-quality](values-quality.md) their creation appears, often by imitating or [marketing](marketing.md) tricks.
+For the sake of gaining [influence](influence.md) or [power](power.md), creators *frequently* try to [distort](people-image-distortion.md) how [high-quality](values-quality.md) their creation appears, often by imitating or [marketing](marketing.md) tricks.
 
 APPLICATION: We could probably measure the quality of a creation by how many awful imitators try to shortcut [the process](mind-creativity-how.md) with bad copies!
 
 APPLICATION: Nothing is really new, so people don't tend to spend much money for values contained in media, and creators can't legally [patent most creative works](legal-ip.md). Instead, a creator must [sell their creation](socialrisk.md) by either generating enough [popular demand](economics.md) to make plenty of extra money or by setting constraints on the physical media that contains the ideas.
 
-The creation, after it's been created, tends to create a fan base, which is a [group](groups-member.md) that reflects the [values](values.md) of the created work, complete with [traditions](people-culture.md), [symbols](symbols.md), and [statuses](image.md). Occasionally, the fans can run with that idea *much* farther than the creator of the idea (often verging into a type of [religion](religion.md)), especially after the creator has [died](legacy.md) and can't communicate their [original vision](understanding-certainty.md) anymore.
+The creation, after it's been created, tends to create a fan base, which is a [group](groups-member.md) that reflects the [values](values.md) of the created work, complete with [traditions](people-culture.md), [symbols](symbols.md), and [statuses](people-image-why.md). Occasionally, the fans can run with that idea *much* farther than the creator of the idea (often verging into a type of [religion](religion.md)), especially after the creator has [died](legacy.md) and can't communicate their [original vision](understanding-certainty.md) anymore.
 
 The fan base of a media can occasionally have enough [powerful](power.md) people in positions of authority who favor it. When *that* happens, the media itself becomes a pillar of society:
 
@@ -216,4 +216,4 @@ After enough time, we've [matured](maturity.md) since we last consumed a creatio
 
 A creator will often find more [meaning](meaning.md) in their creation than anyone else around them, many times to the point of [over-valuing it](mind-bias.md). It doesn't mean others *won't* find [value](purpose.md) in it, but they'll never be as closely [associated](identity.md) with it as the person who [sacrificed](people-love.md) for it, including [groups](groups-large.md) who [carry on](legacy.md) the creation (e.g., sequels, spinoff works).
 
-APPLICATION: We can frequently form a [bias](image.md) toward creators and give grace for bad creations. The best way to fight this is to remove our association with that creator or their other creations while judging a work.
+APPLICATION: We can frequently form a [bias](people-image-why.md) toward creators and give grace for bad creations. The best way to fight this is to remove our association with that creator or their other creations while judging a work.

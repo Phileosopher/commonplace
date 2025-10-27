@@ -3,11 +3,11 @@
 
 Unless we're merely trying to survive, we're always [purposing](purpose.md) ourselves toward a set of [values](values.md), and we call that collective pile our "identity".
 
-These values we identify with are an [image](image.md) we've [created](creations.md) through [self-observation](awareness.md) of our daily lives:
+These values we identify with are an [image](people-image-why.md) we've [created](creations.md) through [self-observation](awareness.md) of our daily lives:
 
 - Pastimes, consumer goods, [trends](trends.md), and heroes.
 - [Physical things](reality.md) like [sexuality](gender.md), psychological diagnosis, race, or [social class](classes.md).
-- [Friends](people-friends.md) and [social groups](groups-member.md).
+- [Friends](people-friends-why.md) and [social groups](groups-member.md).
 - Long-term [purposes](purpose.md) like [career](jobs-1_why.md), [family](people-family.md), and [legacy](legacy.md).
 - Raw [principles and concepts](values.md) or [understanding](understanding.md) of specific things.
 - Absence of a thing (e.g., "not pretty enough", "stupid", "weak").
@@ -21,7 +21,7 @@ Even with multiple people doing the same things, they will regularly identify wi
 
 If we keep [living life well](goodlife.md), we spend more time *doing* new things than making conscious choices to identify with them.
 
-The name for a thing holds tremendous [power](power.md) through giving [certainty](understanding-certainty.md) about something's presence. It [logical](logic.md) separation from other things represents into [how we see that thing](image.md) in relationship to other things, and at the farthest extreme can often create [religious implications](religion.md).
+The name for a thing holds tremendous [power](power.md) through giving [certainty](understanding-certainty.md) about something's presence. It [logical](logic.md) separation from other things represents into [how we see that thing](people-image-why.md) in relationship to other things, and at the farthest extreme can often create [religious implications](religion.md).
 
 ## Shifting
 
@@ -35,7 +35,7 @@ Assuming we're becoming [more mature](maturity.md) and are mentally well, we ten
 
 Our childhood identities will combine to generate most of how we build our [personalities](personality.md), and the personality will persist even after we've moved on from the identifying elements.
 
-We tend to distinguish ourselves as "special" compared to others. This may represent as a strong difference in [qualities](values.md), or it might be in how we [see things](image.md), or ways our beliefs are different from others'. Generally, though, more unites people than differentiates them.
+We tend to distinguish ourselves as "special" compared to others. This may represent as a strong difference in [qualities](values.md), or it might be in how we [see things](people-image-why.md), or ways our beliefs are different from others'. Generally, though, more unites people than differentiates them.
 
 With enough time and [introspection](awareness.md), certain values will surface to reflect what we like to relate to.
 
@@ -59,11 +59,11 @@ We have "authentic" identities when we have [created](mind-creativity.md) an ori
 
 APPLICATION: People who use clichés and trite sayings aren't being authentic with their [language](language.md) because they're [afraid](mind-feelings-fear.md) of [what others may think](morality-taboo.md) or what they may [learn](understanding.md) about themselves, and observers can see it clearly.
 
-APPLICATION: The easiest way to detect what others identify with is to see them when they're experiencing changing circumstances. That person will [choose](people-decisions.md) to keep what they identify with, even when they [deny](image-distortion.md) or [feel](mind-feelings.md) shame over it. Often, abrupt [decisions](people-decisions.md) come *from* those specific identifiers they've finally [made a move](results.md) toward.
+APPLICATION: The easiest way to detect what others identify with is to see them when they're experiencing changing circumstances. That person will [choose](people-decisions.md) to keep what they identify with, even when they [deny](people-image-distortion.md) or [feel](mind-feelings.md) shame over it. Often, abrupt [decisions](people-decisions.md) come *from* those specific identifiers they've finally [made a move](results.md) toward.
 
 Nobody ever considers themselves to be average or typical. Even though most of what we are is *very* similar to [all the rest of humanity](humanity-universals.md), we like to think our idiosyncratic details have far more value than what we have in common with everyone else. It's sometimes better than everyone else (e.g., easy tasks) and sometimes worse (e.g., hard tasks), but we sincerely believe ourselves (both flaws and strengths) to be uniquely important in some way.
 
-Everyone wants to be important, so they identify with whatever can make them important. Importance is the [value](purpose.md) *other* people place on someone, with each person trying to gain a [reputation](image.md) for something and responding to [consequences](results.md) for a personally beneficial end.
+Everyone wants to be important, so they identify with whatever can make them important. Importance is the [value](purpose.md) *other* people place on someone, with each person trying to gain a [reputation](people-image-why.md) for something and responding to [consequences](results.md) for a personally beneficial end.
 
 APPLICATION: We all want to be "special", but we're not. There are over 7,000,000,000 people on the planet right now, with billions more who were once born, and it's *very* likely that someone on Earth is or was precisely like you in every way. This fact makes most people [uncomfortable](mind-feelings.md), so it's usually [taboo](morality-taboo.md) to tell people that individually.
 

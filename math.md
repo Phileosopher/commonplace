@@ -5,7 +5,7 @@ Most people in modern society have been trained in [arithmetic and algebra](math
 
 ## The basis of math
 
-Math can best be described as the [science](science.md) of [structure and order](unknown.md), which represents as patterns across our [perception](image.md). Unlike other sciences, though, repetition doesn't prove a mathematical concept: the only way we can tell is with [deductive certainty](logic.md) that it can't be anything else.
+Math can best be described as the [science](science.md) of [structure and order](unknown.md), which represents as patterns across our [perception](people-image-why.md). Unlike other sciences, though, repetition doesn't prove a mathematical concept: the only way we can tell is with [deductive certainty](logic.md) that it can't be anything else.
 
 Structurally, math is grounded in [logic](logic.md), with zero room for [uncertainty](understanding-certainty.md). Every concept in math is a precisely parsed concept in an imaginary space. Even uncertain things are clarified on *how* uncertain they are.
 
@@ -17,7 +17,7 @@ APPLICATION: Math is a [logical](logic.md) [symbol](symbols.md), so enough input
 
 ## The purpose and place for math
 
-Math is grouping logical values we've [interpreted](image.md), but has no [purpose](purpose.md) inherently in itself. The form of "3" may exist in some ethereal plane (like Plato had once thought), but our human structure links objects together into [patterns](symbols.md). Therefore, "3" itself isn't useful for anything, but it can be *very* useful to say there's "3 apples" or "3 cars" or "3 letters".
+Math is grouping logical values we've [interpreted](people-image-why.md), but has no [purpose](purpose.md) inherently in itself. The form of "3" may exist in some ethereal plane (like Plato had once thought), but our human structure links objects together into [patterns](symbols.md). Therefore, "3" itself isn't useful for anything, but it can be *very* useful to say there's "3 apples" or "3 cars" or "3 letters".
 
 Technically, math only exists in the mind. It's an advanced overlap of [logic](logic.md) that sits on top of what we see as [reality](reality.md) to help us [understand](understanding.md) it more clearly.
 
@@ -35,7 +35,7 @@ Numerical values are useful to achieve and [track outward results](results.md). 
 - A scientist wishes to [understand](understanding.md) how black holes interact with space (non-numeric), so they measure light bending from surrounding stars (numeric).
 - A CEO aims to know how well a company is doing (non-numeric), so they run reports that measure different parts of the company (numeric).
 
-The numbers we use are simply relational to other numbers. If someone attained 4, then later attained 6, someone would consider that an improvement, but that would change if you knew they were expected to attain 793. This is a *major* tactic for [deception](image-distortion.md), especially when we [anchor](mind-bias.md) to the first number we hear.
+The numbers we use are simply relational to other numbers. If someone attained 4, then later attained 6, someone would consider that an improvement, but that would change if you knew they were expected to attain 793. This is a *major* tactic for [deception](people-image-distortion.md), especially when we [anchor](mind-bias.md) to the first number we hear.
 
 APPLICATION: Math is useful, but it's always comparative [logic](logic.md). We must keep in mind what *any* number is comparing itself to, such as percentages or statistics.
 

@@ -9,7 +9,7 @@ Influence is the general art of manipulation, and iis easy enough if you know wh
 
 However, this is *not* the right way to live, and is *highly* [unethical](morality.md).
 
-Therefore, the following is how to behave in a way that still respects their [boundaries](people-boundaries.md).
+Therefore, the following is how to behave in a way that still respects their [boundaries](people-boundaries-why.md).
 
 ## Strive for high emotional intelligence
 
@@ -30,7 +30,7 @@ EQ is, by far, the strongest determination of [success](success-1_why.md):
 Low-EQ people are often oblivious to how they come across:
 
 - While facts and information don't interest people, feelings, and passions do.
-- Low EQ causes consistent [conflicts](people-5_conflicts.md) with others:
+- Low EQ causes consistent [conflicts](people-conflicts.md) with others:
   - Inappropriate reactions to feelings in oneself and others.
   - Seeking blame instead of understanding events.
   - Consistent impatience and frustration with others and their behaviors.
@@ -54,7 +54,7 @@ Unlike IQ, people can train EQ through learning certain awareness skills:
 People with high EQ manage life better:
 
 - They appropriately express their feelings in face, voice, and body language, as well as reading others' feelings well.
-- They can exercise self-control, delay gratification, have more patience with uncertainty, and tolerate [conflict](people-5_conflicts.md) well.
+- They can exercise self-control, delay gratification, have more patience with uncertainty, and tolerate [conflict](people-conflicts.md) well.
 - Focused inward, they can stop an unhealthy train of thought.
 - They have an easier time [making realistic goals](success-3_goals.md) and focusing.
 - When observing, they understand why the feelings arise in themselves and others.
@@ -93,7 +93,7 @@ High-EQ people can master social interactions:
 - They can spot the most influential person in a room within seconds of walking into it.
 - Someone can slowly navigate across a room toward the person they want to meet while tactfully dismissing everyone else where they feel valued.
 - Their inner emotional strength will make them so confident that they inspire confidence in others, but they're also willing to change from others' actions.
-- They'll sidestep avoidable arguments but won't be afraid of [conflicts](people-5_conflicts.md), especially pertaining to [philosophy](philosophy.md), [religion](religion.md), or [politics](groups-large.md).
+- They'll sidestep avoidable arguments but won't be afraid of [conflicts](people-conflicts.md), especially pertaining to [philosophy](philosophy.md), [religion](religion.md), or [politics](groups-large.md).
 
 ## People with high EQ are naturally charming
 

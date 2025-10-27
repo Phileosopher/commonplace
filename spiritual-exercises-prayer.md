@@ -102,7 +102,7 @@ Jesus gives Christians the best way to pray while maintaining a healthy perspect
 
 ## Routines worth considering
 
-There's some [controversy](conflicts-christian-1_why.md) over Jesus' admonition against repetition ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
+There's some [controversy](people-conflicts-christian-1_why.md) over Jesus' admonition against repetition ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
 - Your actual *conversation* with God is where you'll experience any spirituality, with the rest of it taking up more time.
 - However, everyone has a different [personality](personality.md), so you may need more [ritual](habits.md) if you're lower on the Openness spectrum.

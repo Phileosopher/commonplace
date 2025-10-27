@@ -23,7 +23,7 @@ Dysregulation *does* have its time and place:
 - Spaced-out behavior and not feeling parts of your body makes unpleasant things easier to work through.
 - Trying many things together can often [build connections](mind-creativity.md) that otherwise wouldn't be connected.
 - Being clumsy or absent-minded can sometimes make boring experiences more interesting.
-- A flat voice or blank facial expression prevents others from misusing your reactions, especially [in a conflict](people-5_conflicts.md).
+- A flat voice or blank facial expression prevents others from misusing your reactions, especially [in a conflict](people-conflicts.md).
 - Extreme emotions, being in a rage, or a sense of urgency can frequently provoke others to act when they otherwise wouldn't.
 - While [radical focus](success-4_routine.md) is necessary at times, it's absolutely critical for us to re-regulate, *especially* when we must [make critical decisions](people-decisions.md).
 

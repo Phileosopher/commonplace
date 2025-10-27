@@ -6,7 +6,7 @@ God sees Christians differently.
 - We are accepted, and Jesus isn't ashamed to call us His siblings and friends ([Romans 15:7](https://biblehub.com/romans/15-7.htm), [John 15:15](https://biblehub.com/john/15-15.htm), [Hebrews 2:11](https://biblehub.com/hebrews/2-11.htm)).
 - God intends to see you as perfect ([Hebrews 12:2](https://biblehub.com/hebrews/12-2.htm)).
 - He sees us as His chosen priesthood and a holy nation ([1 Peter 2:9](https://biblehub.com/1_peter/2-9.htm)).
-- We receive the [right](people-boundaries.md) to become children of God through faith. ([John 1:12](https://biblehub.com/john/1-12.htm), [Galatians 3:26](https://biblehub.com/galatians/3-26.htm)).
+- We receive the [right](people-boundaries-why.md) to become children of God through faith. ([John 1:12](https://biblehub.com/john/1-12.htm), [Galatians 3:26](https://biblehub.com/galatians/3-26.htm)).
 - God gives us a new heart and newly reborn [spirit](humanity-christian.md) ([Ezekiel 36:26](https://biblehub.com/ezekiel/36-26.htm)).
 
 As new [creations](creations.md) in Christ, Christians have a new [identity](identity.md) ([2 Corinthians 5:17](https://biblehub.com/2_corinthians/5-17.htm)).
@@ -75,8 +75,8 @@ God will typically frame our [hardships](hardship.md) to confront the defects of
 - Low conscientiousness: He'll give more [duties and obligations](success-4_routine.md) where you must honor your [promises](language.md).
 - High extraversion: He'll isolate you and require you to spend more time alone in [meditation](awareness.md).
 - Low extraversion: He'll bring many more people around you on a consistent basis, and may even [make you a leader](mgmt-1_why.md).
-- High agreeableness: He'll give more [conflicts and contentions](conflicts-christian-1_why.md) where you must take a [moral](morality.md) stand against others.
-- Low agreeableness: He'll force circumstances that require [getting along](people-5_conflicts.md) more often with other people.
+- High agreeableness: He'll give more [conflicts and contentions](people-conflicts-christian-1_why.md) where you must take a [moral](morality.md) stand against others.
+- Low agreeableness: He'll force circumstances that require [getting along](people-conflicts.md) more often with other people.
 - High neuroticism: He'll require you to give over the [unknown](unknown.md) to Him more frequently.
 - Low neuroticism: He'll introduce more [emotionally volatile](mind-feelings.md) people into your life.
 
@@ -105,7 +105,7 @@ It's not uncommon for things we *think* are Christian behaviors to actually be i
 - Feelings of [guilt and shame](mind-feelings-shame.md) for resting.
   - A misunderstanding of what a relationship with God looks like ([Matthew 11:28](https://biblehub.com/matthew/11-28.htm)).
 - Apologizing for things that aren't your fault.
-  - Another implementation of shame, driven by an inaccurate understanding of [boundaries](people-3_boundaries.md).
+  - Another implementation of shame, driven by an inaccurate understanding of [boundaries](people-boundaries.md).
 
 While on this earth, we can't be wholly sinless or perfect ([Philippians 3:12](https://biblehub.com/philippians/3-12.htm), [1 John 1:8](https://biblehub.com/1_john/1-8.htm)).
 
@@ -159,7 +159,7 @@ Our relationship with God either thrives or falters.
 - Jesus wants our full submission ([Matthew 10:37-38](https://biblehub.com/bsb/matthew/10.htm)).
 - We must give up everything else for Him in [faith](understanding-certainty.md) ([Luke 9:24](https://biblehub.com/luke/9-24.htm)).
 - God wants complete submission from us, all the way to our [souls](humanity-christian.md) ([Romans 6:13](https://biblehub.com/romans/6-13.htm)).
-- Christianity is a near-constant [inner battle](conflicts-inner.md) between our body's [impulses](habits.md) and the [Holy Spirit's commands](god-will.md) ([Romans 7:22-25](https://biblehub.com/bsb/romans/7.htm)).
+- Christianity is a near-constant [inner battle](people-conflicts-inner.md) between our body's [impulses](habits.md) and the [Holy Spirit's commands](god-will.md) ([Romans 7:22-25](https://biblehub.com/bsb/romans/7.htm)).
 - We must even submit [personal shame](hardship-worthlessness.md) and [past trauma](hardship-ptsd.md) to Him ([1 John 3:20](https://biblehub.com/1_john/3-20.htm)).
 
 Christianity is a long-term commitment ([Luke 9:61-62](https://biblehub.com/bsb/luke/9.htm)).

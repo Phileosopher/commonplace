@@ -5,7 +5,7 @@ The initial extraction is from Ignatius of Loyola's *Spiritual Exercises*, thoug
 
 ## Background
 
-Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](conflicts-christian-1_why.md), and [persecution](hardship-persecution-church.md), but they often don't realize that they can start preparation for it *long* before it happens.
+Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](people-conflicts-christian-1_why.md), and [persecution](hardship-persecution-church.md), but they often don't realize that they can start preparation for it *long* before it happens.
 
 Like [physically](body-3_exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
 
@@ -135,8 +135,8 @@ Thank God every time you see a naturally occurring thing.
 
 Work to improve relationships with everyone around you, such as your [marriage](relationships-marriage.md) and [children](parenting-children.md).
 
-- Avoid needless [conflicts](people-conflicts.md) and learn [how to defuse them](people-5_conflicts.md).
-  - Try to defuse needless debates about small Christian matters, then [set boundaries](people-boundaries.md) against them ([Titus 3:9-11](https://biblehub.com/titus/3.htm)).
+- Avoid needless [conflicts](people-conflicts-why.md) and learn [how to defuse them](people-conflicts.md).
+  - Try to defuse needless debates about small Christian matters, then [set boundaries](people-boundaries-why.md) against them ([Titus 3:9-11](https://biblehub.com/titus/3.htm)).
 - Submit yourself to anyone in authority (i.e., [police](legal-safety.md), [government officials](politics-systems.md), [employer](success-4_routine.md)).
   - [The West](https://theologos.site/the-west/) hasn't always had a healthy relationship with submission.
   - You don't have to completely [*comply* with everything](hardship-persecution-church.md), but always remember that God appointed the hierarchy that runs us ([Romans 13:1-7](https://biblehub.com/romans/13.htm)).

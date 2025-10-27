@@ -3,7 +3,7 @@
 
 While most [business plans](entrepreneur-3_plan.md) require plenty of assets, the assets tech always needs are computers and tools.
 
-- For things like [distributed hosting](computers-distsys.md) or far-reaching [telecommunications networks](networks-computer.md), you will need a *lot* of hardware.
+- For things like [distributed hosting](computers-distsys.md) or far-reaching [telecommunications networks](networks-cs.md), you will need a *lot* of hardware.
 - If it's a technician or maintenance role, you'll need a wide variety of tools beforehand.
 - However, for something like [software development](computers-software.md), you'll only need software tools besides a few computers, and most of them have [open-source](legal-ip-floss.md) alternatives.
 

@@ -189,7 +189,7 @@ Watch where you keep your hands:
 Honor gender differences:
 
 - Men sometimes shouldn't shake hands with women
-- Men often shouldn't discuss female-only topics, such as their [hygiene](people-2_image.md) practices or children (if he wants to know, he can ask if she has any children)
+- Men often shouldn't discuss female-only topics, such as their [hygiene](people-image.md) practices or children (if he wants to know, he can ask if she has any children)
 - Men should usually hold the door for women and walk closer to the street
 
 Respect professionals' specializations:

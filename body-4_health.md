@@ -134,7 +134,7 @@ With all the risks from toxins and concentrated energy, [maintaining balance in 
 
 ## Seek better habits more than treatments
 
-Most of our body's capacity to heal comes through our exposure to resistance, though it can be difficult to remember in [modern society](image-modern.md) when we're surrounded by [immaterial engineered objects](engineering.md).
+Most of our body's capacity to heal comes through our exposure to resistance, though it can be difficult to remember in [modern society](people-image-modern.md) when we're surrounded by [immaterial engineered objects](engineering.md).
 
 - In Western society, about 1 in 10 people have autoimmune disorders, where their immune system somehow attacks its body.
 

@@ -1,5 +1,5 @@
 
-# Making yourself presentable with others
+# How to maintain a good physical image with others
 
 People only take you seriously when you appear healthy:
 
@@ -12,12 +12,12 @@ People begin their [story](stories.md) about you based on the impression they ge
 
 [Your clothing](clothes.md) communicates many messages about who you are:
 
-- Even when *you* don't [identify](identity.md) with what you wear, other people define your [image](image.md) (especially your [social class](classes.md)) from your clothes.
+- Even when *you* don't [identify](identity.md) with what you wear, other people define your [image](people-image-why.md) (especially your [social class](classes.md)) from your clothes.
 - Often, the clothes we wear shape small characteristics of how we express ourselves.
 
 ## Wash consistently
 
-The most significant rule [in developed nations](image-modern.md) is to manage how you smell.
+The most significant rule [in developed nations](people-image-modern.md) is to manage how you smell.
 
 - A society that has extremely affordable soap and laundry detergent expects people to use it profusely.
 - While it doesn't mean you have to have *no* smell, it *does* mean people are more sensitive to it.

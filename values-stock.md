@@ -49,11 +49,11 @@ The [Natural World](reality.md):
 - Every scientific discovery is inherently good.
 - To help someone is equipping them for today, but teaching them to help themselves equips them for life.
 
-[Appearance](image.md):
+[Appearance](people-image-why.md):
 
-- [Beautiful people](people-2_image.md) are good (or inverted where beautiful people are bad).
+- [Beautiful people](people-image.md) are good (or inverted where beautiful people are bad).
 - [Evil](morality-evil.md) people are ugly (or inverted where evil people are attractive).
-- [Clothes and hygiene](people-2_image.md) define who a person is, so they should take pride in it.
+- [Clothes and hygiene](people-image.md) define who a person is, so they should take pride in it.
 - Good people dress modestly.
 - Appearance [isn't everything](values.md).
 - It's not good to be vain.
@@ -90,7 +90,7 @@ The [Natural World](reality.md):
 
 [Power](power.md):
 
-- Not everything that [seems to have value](image.md) is valuable.
+- Not everything that [seems to have value](people-image-why.md) is valuable.
 - Not everything that seems to have no value is worthless.
 - Desiring things is better than getting them.
 - Giving is better than receiving.
@@ -147,11 +147,11 @@ The [Natural World](reality.md):
 - It's fine to download media without paying for it.
 - Social media is bad.
 
-[Conflicts](people-5_conflicts.md):
+[Conflicts](people-conflicts.md):
 
 - Accept people for who they are.
 - It's sometimes okay to agree to disagree.
-- Two unlikely people *can* [agree](people-5_conflicts.md) on something.
+- Two unlikely people *can* [agree](people-conflicts.md) on something.
 - You should always agree with your friends.
 - Having enemies is good for us.
 - Treat others with acceptance and tolerance.
@@ -162,7 +162,7 @@ The [Natural World](reality.md):
 
 - [Change](people-changes.md) and [progress](trends.md) are bad.
 - We should [influence progress](power-influence.md), and opposing it is bad.
-- Be cautious with powerful technology, especially if it was [designed to kill](people-conflicts-war.md) (e.g., guns).
+- Be cautious with powerful technology, especially if it was [designed to kill](people-conflicts-war-why.md) (e.g., guns).
 
 [Morality](morality.md):
 
@@ -287,7 +287,7 @@ Group [expectations](imagination.md):
 - Living forever is worth the sacrifice.
 - Living forever is awful.
 
-[War](people-conflicts-war.md) and military:
+[War](people-conflicts-war-why.md) and military:
 
 - War is simply cruel and terrible, so peace is always worth it.
 - War is heroic and a patriotic adventure, and pacifism is for cowards and traitors.
@@ -301,7 +301,7 @@ Group [expectations](imagination.md):
 - People should *not* [trust](trust.md) authority.
 - Think for yourself (as stated by authority figures).
 - An [idea](values.md) is more important and durable than an individual.
-- It's noble to [fight](people-conflicts-war.md) for your [country](groups-large.md) strictly on that principle alone.
+- It's noble to [fight](people-conflicts-war-why.md) for your [country](groups-large.md) strictly on that principle alone.
 - Even when simply following orders, war crimes are bad.
 - There is good in [humanity](humanity.md).
 - Leading through [fear](mind-feelings-fear.md) is necessary.

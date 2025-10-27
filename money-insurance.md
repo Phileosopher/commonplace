@@ -33,13 +33,13 @@ To be insurable, a risk must meet a few criteria:
 
 1. [Predictable](imagination.md), typically with [statistics](math-stat.md).
 2. Outside the insured's control ([unexpected](imagination.md), [accidental](humanity.md), or [uncertain](understanding-certainty.md)).
-3. *Not* a catastrophic thing affecting many people (e.g., [war](people-conflicts-war.md), nuclear hazards, flood), though excess and surplus lines can often cover those events.
+3. *Not* a catastrophic thing affecting many people (e.g., [war](people-conflicts-war-why.md), nuclear hazards, flood), though excess and surplus lines can often cover those events.
 4. Be measurable, with a clear monetary value.
 5. Causes a legitimate financial/economic [hardship](hardship.md) (i.e., that party has an insurable interest).
 
 ## The insurance policy
 
-An insurance policy is a [contract](people-6_contracts.md) between an insurer and insured:
+An insurance policy is a [contract](people-contracts.md) between an insurer and insured:
 
 1. The insured is responsible for multiple actions:
    - Fully report the values of properties and risks (honesty clause)
@@ -73,7 +73,7 @@ A policy has a few classifications of insured:
 
 The terms are abstractly and explicitly clarified in a policy document, which is precisely the same for *every* written policy in that classification of insurance.
 
-- The Definitions clarify *exactly* what specific terms mean in the [contract](people-6_contracts.md) (e.g., Named Insured, Vehicle, Address, etc.).
+- The Definitions clarify *exactly* what specific terms mean in the [contract](people-contracts.md) (e.g., Named Insured, Vehicle, Address, etc.).
 - The Conditions that indicate rules, duties, provisions, and obligations of both the insured and insurer.
   - Insurance policies are typically standard contracts with a vast collection of pre-defined conditions.
   - Conditions often address problem areas that may arise later (e.g., value disputes regarding appraisal, multiple insurance policies at the time of loss).
@@ -85,7 +85,7 @@ The terms are abstractly and explicitly clarified in a policy document, which is
   - They may be included when the policy is issued, later in the term, or during a renewal.
   - Mostly, endorsements add/change names and correct names/addresses.
 
-Since an insurance policy is a frequently used [contract](people-6_contracts.md), it has many standard terms/provisions.
+Since an insurance policy is a frequently used [contract](people-contracts.md), it has many standard terms/provisions.
 
 - Policy period - a window of time when coverage is provided.
   - Policy periods are most often 1 year, but can be 6 months or closer to a decade.
@@ -268,7 +268,7 @@ Many businesses have larger, more specific needs, and is a key part of any Human
 - Garage and dealers insurance
 - Glass and sign insurance
 - Group policies are *any* policy purchased in bulk (and typically discounted).
-  - If a large organization serves many clients with their [contract](people-6_contracts.md) requiring insurance (e.g., rental property, auto lien), they can have their own force-placed insurance policy and send the bill to *their* client.
+  - If a large organization serves many clients with their [contract](people-contracts.md) requiring insurance (e.g., rental property, auto lien), they can have their own force-placed insurance policy and send the bill to *their* client.
 - Furrier's block coverage is inland marine coverage for a jewelry dealer
 - Hole-in-one insurance for golf courses that run promotions for hitting a hole in one
 - Installation/builders risk
@@ -278,7 +278,7 @@ Many businesses have larger, more specific needs, and is a key part of any Human
 - Professional errors and omissions insurance protects the liability of a professional in the course of their work.
   - Malpractice insurance is designated specifically for high-ranking roles (e.g., attorneys and doctors)
 - Stop-loss/excess insurance (for companies who self-insure benefit plans but want liability protection)
-- Surety bond - a three-party [written agreement](people-6_contracts.md) where a principal pays a surety/insurance company to guarantee performance (and possibly pay) an obligee
+- Surety bond - a three-party [written agreement](people-contracts.md) where a principal pays a surety/insurance company to guarantee performance (and possibly pay) an obligee
   - Bail bonds
 - [Transportation](logistics.md) insurance
   - Truckers insurance
@@ -355,7 +355,7 @@ Occasionally, your lifestyle or situation can create a non-standard situation, a
 - Owning high-value possessions.
 - Operating salvage title vehicles that were previously declared a total loss.
 - Living in a region with a high crime rate.
-- Being inexperienced (which includes the conditions that come with being [foreign](image-modern.md)).
+- Being inexperienced (which includes the conditions that come with being [foreign](people-image-modern.md)).
 - Having a condition that makes you more likely to be irresponsible (young, elderly, psychological disorders).
 - Having no prior insurance, a gap in days covered, or an insurance policy canceled or non-renewed.
 - Having many claims or accidents within a short window of time.

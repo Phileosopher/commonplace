@@ -58,7 +58,7 @@ You can't out-earn reckless spending habits.
 Proper money management simplifies life:
 
 - Self-managed money gives power and control.
-- Well-discussed budgeting eradicates money [conflicts](people-5_conflicts.md) in [marriage](relationships-marriage.md).
+- Well-discussed budgeting eradicates money [conflicts](people-conflicts.md) in [marriage](relationships-marriage.md).
 - Purchasing staple items won't cause guilt, shame, or fear.
 - Good management directs money toward future goals and dreams.
 - Unexpected events become far less traumatic.

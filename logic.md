@@ -9,9 +9,9 @@ APPLICATION: Logic has no bearing on reality, meaning it might be [useless](purp
 
 As a structure, logic builds on logic, but [the human condition](humanity.md) requires the most foundational logic structured on top of [feelings and intuitions](mind-feelings.md).
 
-APPLICATION: Logic is frequently built on [feelings](mind-feelings.md) within our [perception](image.md), so we must consider *why* we believe things whenever we [disagree](people-conflicts.md) with others. Instead of fighting against an outside force, our [largest conflicts](conflicts-inner.md) should be in our minds (and typically are anyway).
+APPLICATION: Logic is frequently built on [feelings](mind-feelings.md) within our [perception](people-image-why.md), so we must consider *why* we believe things whenever we [disagree](people-conflicts-why.md) with others. Instead of fighting against an outside force, our [largest conflicts](people-conflicts-inner.md) should be in our minds (and typically are anyway).
 
-FURTHER APPLICATION: Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](image.md).
+FURTHER APPLICATION: Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](people-image-why.md).
 
 We infer logic from everything, and everyone naturally forms all their thoughts with some form of logic. However, that logic may not link to reality, for various reasons. But, even when someone isn't sensible, they're still logical upon the framing of thought they've held.
 
@@ -23,13 +23,13 @@ Each logical statement is a [value](values.md) of its own, but is made of multip
 
 ### 1. Data collection
 
-First, a person gathers data from [perceptions](image.md), both theirs and others. Each datum is a "premise", which is a declared statement of [fact](reality.md):
+First, a person gathers data from [perceptions](people-image-why.md), both theirs and others. Each datum is a "premise", which is a declared statement of [fact](reality.md):
 
 - A exists
 - B exists
 - C exists
 
-The data can be inferred or perceived, but finding a 100% true datum is always difficult. We're stuck with mostly secondhand perceptions, and frequently [trust](trust.md) the secondhand perceptions of other people, and it could all be based on a networked set of beliefs that go back to one person who was actually [lying](people-lying.md) or [delusional](image.md).
+The data can be inferred or perceived, but finding a 100% true datum is always difficult. We're stuck with mostly secondhand perceptions, and frequently [trust](trust.md) the secondhand perceptions of other people, and it could all be based on a networked set of beliefs that go back to one person who was actually [lying](people-lying.md) or [delusional](people-image-why.md).
 
 APPLICATION: Deductive logic makes us more [certain](understanding-certainty.md) about everything related to it, so we must seek it out whenever possible. For example, you may not know if someone will say "yes", but you *do* know that people *never* refuse certain things without other reasons.
 
@@ -111,7 +111,7 @@ This built-up logic system is immensely helpful because we don't have to think a
 
 ## Input
 
-Contrary to how we may [intuitively](mind-feelings.md) [imagine](imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](image.md). We first perceive what exists, *then* try to [estimate](imagination.md) what caused that thing.
+Contrary to how we may [intuitively](mind-feelings.md) [imagine](imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](people-image-why.md). We first perceive what exists, *then* try to [estimate](imagination.md) what caused that thing.
 
 [Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](understanding-certainty.md) certain things over others.
 
@@ -148,7 +148,7 @@ Further, the basis of logic must, by its nature, be inductive. All logic can com
 
 At its core, we're forced to [believe](understanding-certainty.md) at least one thing is the original source to avoid the ultimate flow of logic from becoming circular:
 
-- [Self-perception](image.md)
+- [Self-perception](people-image-why.md)
 - A trustworthy [group](groups-member.md) of others' self-perceptions
 - [God/gods](religion.md)
 
@@ -165,7 +165,7 @@ To make sense of the world, we slice up [reality](reality.md) into various group
 - STAR points: Situation, Task, Action, Result
 - The 5 "Why's": ask "why" in a sequential chain five times to discover something close to the original cause
 
-We form those groupings as separate [values](values.md). In a sense, we're [creating](creations.md) and imposing a model of reality onto our raw [perceptions](image.md). [Math](math.md) is the most popular form of this analysis, and is a broader derivation of logic with [symbolic](symbols.md) numbers instead of simply true/false.
+We form those groupings as separate [values](values.md). In a sense, we're [creating](creations.md) and imposing a model of reality onto our raw [perceptions](people-image-why.md). [Math](math.md) is the most popular form of this analysis, and is a broader derivation of logic with [symbolic](symbols.md) numbers instead of simply true/false.
 
 Great analysis of anything in particular will always include questioning [preconceived](habits.md) [beliefs](understanding-certainty.md) and [ideas](values.md), meaning that true critical thinking includes self-criticism. While anyone *can* think critically with patience, intelligent people don't need as much patience to do it, which is why smart people have an easier time thinking critically (even if they don't).
 
@@ -189,7 +189,7 @@ While everyone is logical, everyone is *not* sensible. To have "sense" is to und
 
 - All Icelanders are professional dancers, and all professional dancers are women, so all Icelanders are women.
 
-APPLICATION: If you disagree with someone, they [understand](understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-3_boundaries.md), [reputation](image.md), or [popular opinion](trends.md).
+APPLICATION: If you disagree with someone, they [understand](understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-boundaries.md), [reputation](people-image-why.md), or [popular opinion](trends.md).
 
 Most people [understand](understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](education.md) or are mentally unwell).
 
@@ -199,10 +199,10 @@ APPLICATION: Just because you can't prove that a set of logic isn't sound doesn'
 
 While analysis divides, sense combines. But, most intelligent people look down on sensible thinking and often fail to conflate information to make it more [useful](purpose.md).
 
-APPLICATION: Over-analysis is the easiest way to lose track of the [truth](reality.md). It also sabotages [common sense](understanding.md), deadens [intuition](mind-feelings.md), and makes the person generally [insufferable](people-3_boundaries.md).
+APPLICATION: Over-analysis is the easiest way to lose track of the [truth](reality.md). It also sabotages [common sense](understanding.md), deadens [intuition](mind-feelings.md), and makes the person generally [insufferable](people-boundaries.md).
 
 We can all become sensible by doing the following, but they all require a great deal of [humility](morality.md):
 
 - Believe the opposite of what you believe, then debate fairly with yourself how you're wrong, both ways.
-- Consider all [perceptions](image.md) and perceived [facts](reality.md) as simply opinions.
+- Consider all [perceptions](people-image-why.md) and perceived [facts](reality.md) as simply opinions.
 - [Expect](imagination.md) that everything you believe might be wrong.

@@ -9,7 +9,7 @@ If you grew up in a good home:
 - Discover many [ways to save money](money-saving.md).
 - Develop [cooking](cooking.md) and basic [housekeeping](home-housekeeping.md) skills.
 - Improve your [speaking](language-speaking.md) and [writing](language-writing.md) skills.
-- Learn to manage [conflicts](people-5_conflicts.md) well and [detect liars](people-lying.md).
+- Learn to manage [conflicts](people-conflicts.md) well and [detect liars](people-lying.md).
 - Learn how to [easily move](home-moving.md) as well as [decorate and improve](home-decorations.md) your house.
 - Develop good [party-throwing](fun-parties.md) skills.
 - Learn relationship skills, including [dating](relationships-dating.md) and [marriage](relationships-marriage.md).
@@ -32,7 +32,7 @@ If you're starting a family or building your career:
 
 - Learn [what happiness is](mind-feelings-happiness.md) and how to [maintain](mind-feelings-happiness-focus.md) it.
 - Learn [why managing money is critical](money-1_why.md), healthy [debt](money-2_debt.md) and [budgeting](money-3_budget.md), and [how to save money on everything](money-saving.md).
-- Work on your [image](people-2_image.md), learn [tact](people-3_boundaries.md), and build your [speaking](language-speaking.md) and [writing](language-writing.md) skills.
+- Work on your [image](people-image.md), learn [tact](people-boundaries.md), and build your [speaking](language-speaking.md) and [writing](language-writing.md) skills.
 - Learn how to [find a career](jobs-1_why.md), [sell your career](jobs-4_hunt.md), and [interview](jobs-5_interview.md).
 - Learn [basic first aid](body-firstaid.md).
 - Learn how to get enough [sleep](sleep.md).
@@ -75,7 +75,7 @@ If you feel like you never seem to have fun:
 
 If you think nobody cares about you:
 
-- You might be [miserable](mind-feelings-happiness.md), [homely](people-2_image.md), or [rude](people-3_boundaries.md) enough that nobody wants to be around you.
+- You might be [miserable](mind-feelings-happiness.md), [homely](people-image.md), or [rude](people-boundaries.md) enough that nobody wants to be around you.
 - Define [success](success-1_why.md) for yourself.
 - Start [dating](relationships-dating.md) new people.
 - Learn to get enough [sleep](sleep.md) and get a [pet](fun-pets.md).
@@ -86,7 +86,7 @@ If you're coming out of [prison](hardship-incarceration.md) or grew up on the st
 
 - Make [goals](success-3_goals.md) and learn to [persevere](success-5_persevering.md) against hardship.
 - Learn [why managing money is important](money-1_why.md), especially with [debt](money-2_debt.md).
-- Learn [hygiene](people-2_image.md) on the outside, [good boundaries](people-3_boundaries.md), and [which friends to choose](people-4_friends.md).
+- Learn [hygiene](people-image.md) on the outside, [good boundaries](people-boundaries.md), and [which friends to choose](people-4_friends.md).
 - Work heavily on your [speaking](language-speaking.md) and [writing](language-writing.md).
 - Understand [how computers work](computers.md).
 - Expand your [creativity](mind-creativity-how.md), especially about your [need for a legal job](jobs-1_why.md).
@@ -97,12 +97,12 @@ If you're coming out of [prison](hardship-incarceration.md) or grew up on the st
 If you're coming clean from an [addiction](addiction.md):
 
 - Learn [self-awareness](awareness.md) and how to be [happy](mind-feelings-happiness.md).
-- Self-regulate your [hygiene](people-2_image.md) and [sleep](sleep.md).
+- Self-regulate your [hygiene](people-image.md) and [sleep](sleep.md).
 - Start setting reasonable [goals](success-3_goals.md) and learn to [persevere](success-5_persevering.md).
 - Learn how to [find a career](jobs-1_why.md).
 - Learn [how to manage money](money-1_why.md), especially with [debt](money-2_debt.md) and [budgeting](money-3_budget.md).
 - Understand [why people skills matter](people-1_why.md) and focus on making new, better [friends](people-4_friends.md).
-- Build your [conflict management](people-5_conflicts.md) and [lie detection skills](people-lying.md).
+- Build your [conflict management](people-conflicts.md) and [lie detection skills](people-lying.md).
 - Work on your [weight and diet](body-2_diet.md), and learn to [cook](cooking.md) for yourself.
 - Get yourself [organized](organization.md) and [clean your home](home-housekeeping.md).
 - Learn responsibility by getting a [pet](fun-pets.md).

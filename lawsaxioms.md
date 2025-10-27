@@ -83,7 +83,7 @@ Vierordt's Law - We tend to overestimate relatively short amounts of time and un
 
 ## Thoughts/Understanding
 
-Basket Case Theory - Everyone, no matter [how good they look](image.md), is screwed up.
+Basket Case Theory - Everyone, no matter [how good they look](people-image-why.md), is screwed up.
 
 Bellisario's Maxim - Every [creation](creations.md) has elements the creator overlooked.
 
@@ -291,4 +291,4 @@ The Two Pizza Rule - A team that requires more than two pizzas (i.e., 4--8 peopl
 
 Walras' Law - Because each decision means deciding against something else, every this/that decision together adds up to zero.
 
-[Continued](lawsaxioms-large.md)
+[Larger-scale axioms](lawsaxioms-large.md)

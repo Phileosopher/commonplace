@@ -39,7 +39,7 @@ Our specific choice of words create implications:
 - Polite forms of statements minimize the severity of bad things.
 - Leading questions (e.g., "you're not hungry, are you?") can passively guide an idea.
 - Disclaimers are apologizing for something in advance.
-- [Discriminatory](image.md) language classifies a group as better or worse.
+- [Discriminatory](people-image-why.md) language classifies a group as better or worse.
 - While most words cover a broad range of possible feelings others may have, some carry extreme, deep universal feelings (e.g., poison, death, joy).
 - Avoid any "filler" sounds (ah, um, er, etc.) and sounds that don't translate into words.
 - Avoid extreme words like "always" and "never".
@@ -69,7 +69,7 @@ Inflections and emphasis on spoken words transform the idea far more than writin
 - I was **born** in Australia - declares country of origin instead of being in Australia later in life
 - I was born **in** Australia - instead of outside Australia
 - I was born in **Australia** - instead of somewhere nearby like New Zealand
-- **I** was born in **Australia** - indicates anger and [conflict](people-5_conflicts.md).
+- **I** was born in **Australia** - indicates anger and [conflict](people-conflicts.md).
 
 Watch your speed and pacing:
 

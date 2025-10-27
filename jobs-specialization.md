@@ -3,7 +3,7 @@
 
 For various reasons, we live together:
 
-- We [value](values-quality.md) [human connection](people-friends.md).
+- We [value](values-quality.md) [human connection](people-friends-why.md).
 - We [survive against nature](safety-nature.md) better in [groups](groups-small.md).
 - We can prevent [disasters](results.md) from errors by covering for each other's failures.
 
@@ -28,13 +28,13 @@ Very frequently, any [rules](people-rules.md) that broadly define elements of th
 
 ## Grouping together
 
-As we find [common interests](people-friends.md) with others with what we [do](results.md), we associate with other people who share those [values](values.md). Eventually, we find ourselves in a [small group](groups-small.md) specialized toward something.
+As we find [common interests](people-friends-why.md) with others with what we [do](results.md), we associate with other people who share those [values](values.md). Eventually, we find ourselves in a [small group](groups-small.md) specialized toward something.
 
 Since our [purposes](purpose.md) overlap, we converge them together and our roles naturally converge into a hierarchy, with everyone submitting to more [powerful](power.md) members.
 
 APPLICATION: Most [success](success-1_why.md) is defined by expertise in a specialization, which means that more success comes from knowing the right specialists than in [knowledge](understanding.md) or [performance](results.md).
 
-APPLICATION: The fastest way to [appear](image.md) to be an expert is to get a few very specific people to [imagine](imagination.md) you as an expert.
+APPLICATION: The fastest way to [appear](people-image-why.md) to be an expert is to get a few very specific people to [imagine](imagination.md) you as an expert.
 
 But, the [purposes](purpose.md) don't *entirely* overlap. Within that group, some people want to do some things more than others. Thus, they specialize in one direction or another, often separating into [other groups](groups-small.md) or broadly expanding the collective group as a subgroup if enough people are associated with that specific interest.
 
@@ -68,7 +68,7 @@ These specializations can apply to *any* [task](results.md) or [purpose](purpose
 - Underwriters and notaries are third-party people who [verify](understanding-certainty.md) someone's [trustworthiness](trust.md).
 - [Insurance](money-insurance.md) is the specialization of a [large group](groups-large.md) taking on [risks](safety.md) that individuals wouldn't be able to afford.
 
-While [war](people-conflicts-war.md) will broadly unite differing groups, the conflicts within niche domains are *far* more [emotionally charged](mind-feelings.md). Frequently, small niches can fight over things like a preferred main character in [popular media](stories-storytellers.md) or which of three possible ways to weld a beam works best.
+While [war](people-conflicts-war-why.md) will broadly unite differing groups, the conflicts within niche domains are *far* more [emotionally charged](mind-feelings.md). Frequently, small niches can fight over things like a preferred main character in [popular media](stories-storytellers.md) or which of three possible ways to weld a beam works best.
 
 One of the most important specialization concepts implements through [technology](technology.md) with interchangeable parts. Each component of a sophisticated thing is mass-produced by one person or group, meaning thousands of people can produce *millions* of something, with each person or group only responsible for one small piece of the process. As more people are involved, this can be divided even further as [needed](purpose.md).
 
@@ -84,7 +84,7 @@ For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay g
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
-- Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
+- Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries-why.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
 - [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).
 - Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](imagination.md).
@@ -112,7 +112,7 @@ Individuals who transition *inside* their specialized [groups](groups-large.md) 
 - After enough [experience](maturity.md), people often become consultants (e.g., independent contractors, political lobbyists, bounty hunters).
 - Frequently, if someone is [influential](influence.md) enough, they can venture into a new area and [build](socialrisk.md) an entire [subgroup](groups-small.md) for themselves!
 
-Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends.md) than their immediate neighbors.
+Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends-why.md) than their immediate neighbors.
 
 APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](imagination.md) they *do* understand.
 

@@ -307,7 +307,7 @@ We don't have any decent comparisons to the Trinity:
 - Water (solid, liquid, and gas) or light (primary colors that add to make white) fail in their analogy because external conditions define their form.
 - Our [body, soul, and spirit](people-spiritual.md) can somewhat compare, but our essence is still all contained entirely within the same being.
 
-With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](image.md), each with at least a slightly different [understanding](understanding.md) of something:
+With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](people-image-why.md), each with at least a slightly different [understanding](understanding.md) of something:
 
 - [Matthew 24:36](https://biblehub.com/matthew/24-36.htm)
 - [John 6:38](https://biblehub.com/john/6-38.htm)
@@ -325,7 +325,7 @@ The presence of a Trinity is the only logical way many things can happen within 
 
 ## We can't know everything about God
 
-God created us in His [image](image.md), but we aren't God:
+God created us in His [image](people-image-why.md), but we aren't God:
 
 - [Genesis 1:27](https://www.bible.com/bible/206/gen.1.27)
 

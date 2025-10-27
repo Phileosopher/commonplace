@@ -86,7 +86,7 @@ While not all the parts are expressed, insurance claims use the same framework e
 4. If the insured and insurer can't agree on the value of damaged property, either one can make a demand for an appraisal.
    - Each party will select an appraiser who will each select an impartial umpire, then submit their estimate of damage, and any 2 of them agreeing creates a final decision.
    - This specific process promotes claim settlement and cuts down on expenses by requiring each party to split the costs equally for their appraiser instead of hiring attorneys.
-   - If the insured and insurer *still* can't agree on the amount for the loss, anyone can demand [arbitration](people-6_contracts.md), each with an appointed arbitrator who selects an impartial umpire, and any 2 of them agreeing creates a final decision.
+   - If the insured and insurer *still* can't agree on the amount for the loss, anyone can demand [arbitration](people-contracts.md), each with an appointed arbitrator who selects an impartial umpire, and any 2 of them agreeing creates a final decision.
 5. The insurance carrier pays.
    - Typically, the payment will be to a service provider to fix things.
    - If the damages are too significant and the insurance company can take the asset, they'll purchase the asset for the value minus the deductible/copay.
@@ -96,7 +96,7 @@ Most claims departments, to some small effect, take advantage of people who are 
 
 - They may imply retaining legal representation (i.e., an attorney) will void their claim.
 - The statements they gather may provide leading questions that may invoke an insured to confess to something they don't mean to.
-- They may delay claims for the claimants' bills to pile up, meaning they'll [settle for less](people-5_conflicts.md).
+- They may delay claims for the claimants' bills to pile up, meaning they'll [settle for less](people-conflicts.md).
 - Finally, they may simply rush the case as fast as possible before claimants can understand their rights.
 
 ## Property valuation/limits

@@ -1,13 +1,13 @@
 
 # List of monopolies and oligopolies
 
-The one major difference between a [large organization](groups-large.md) and a country is the [culturally](people-culture.md) accepted power to kill people (particularly [criminals](people-rules.md)) without severe intergroup [intervention](people-conflicts-war.md).
+The one major difference between a [large organization](groups-large.md) and a country is the [culturally](people-culture.md) accepted power to kill people (particularly [criminals](people-rules.md)) without severe intergroup [intervention](people-conflicts-war-why.md).
 
 This is a list of organizations that have *tremendous* power but aren't formally defined as "countries". They sometimes aren't formally a "[monopoly](mgmt-badsystems.md)", but sometimes less than four *massive* organizations operate in a particular domain. If a country owns something by another name (e.g., China), listing it here isn't valid because that country already has the [power](power-types.md) to kill whoever they want.
 
 The only way these organizations *ever* break up is either through government intervention to forcibly separate them or complete government disengagement, with the final blow coming through *other* organizations [creatively](mind-creativity.md) making [competitively similar-quality](economics.md) [products](results.md). The [solution](results.md) being more government involvement or less is a *major* [political discussion](politics-conservativeliberal.md).
 
-Without anyone stopping them, they'll stomp out [trending](trends.md) threats to their power, but only when people aren't [taking risks](socialrisk.md) as a group to compete. They're superb at [changing their faces](image-distortion.md), so they'll likely change their names from this list. Since they frequently hide their [less-moral](morality.md) activity, it's not a hill I wish to die on, though I'm a target to them simply by compiling this list.
+Without anyone stopping them, they'll stomp out [trending](trends.md) threats to their power, but only when people aren't [taking risks](socialrisk.md) as a group to compete. They're superb at [changing their faces](people-image-distortion.md), so they'll likely change their names from this list. Since they frequently hide their [less-moral](morality.md) activity, it's not a hill I wish to die on, though I'm a target to them simply by compiling this list.
 
 The lack of significant competition makes them rather poor at adding non-commoditized [value](values-quality.md), though, so this is technically a list of organizations that need replacing if someone can find [meaning](meaning.md) in taking the necessary [risk](socialrisk.md).
 

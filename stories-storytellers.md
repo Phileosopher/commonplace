@@ -21,7 +21,7 @@ We gossip for various reasons:
 - We're [afraid](mind-feelings-fear.md) of someone's reaction if we told them something or did something.
 - We want to [do things](results.md) without someone knowing.
 - We have more interest in the people we're referring to than the people we're with.
-- We specifically care more about our [*connection*](people-friends.md) with the people we're with than the people we discuss.
+- We specifically care more about our [*connection*](people-friends-why.md) with the people we're with than the people we discuss.
 
 APPLICATION: The means to communicate 1 idea powerfully is critical to conveying ideas and influencing others. If someone isn't [certain](understanding-certainty.md) about their ideas, they'll speak [vaguely](unknown.md). Adding more ideas complicates others' [understanding](understanding.md).
 
@@ -29,7 +29,7 @@ APPLICATION: The means to communicate 1 idea powerfully is critical to conveying
 
 Each person is sharing a [story](stories.md) through the [medium](creations.md) of their speaking or recordings, so their story is at least one degree removed from the [facts](reality.md) than if we had perceived it firsthand. This isn't an attempt to lie, though, but to instead [artistically associate](mind-creativity.md) to the [symbols](symbols.md) that attribute to [mythological realities](stories-myths.md).
 
-APPLICATION: Since the news of information isn't the information itself, a story and its [implications](image.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](awareness.md) to say), but it's impossible to [predict it](imagination.md).
+APPLICATION: Since the news of information isn't the information itself, a story and its [implications](people-image-why.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](awareness.md) to say), but it's impossible to [predict it](imagination.md).
 
 People typically [understand](understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* for that story to reach anyone. This is determined by a few factors:
 
@@ -41,28 +41,28 @@ Storytellers of all forms want their listeners to suspend our natural [disbelief
 
 Some people or [groups](groups-small.md) make a [career](jobs-specialization.md) of sharing these stories. They can do this from one of several avenues:
 
-1. The [authority in charge](groups-large.md) wants someone to spread information, sometimes as if it were an independent [perspective](image.md).
+1. The [authority in charge](groups-large.md) wants someone to spread information, sometimes as if it were an independent [perspective](people-image-why.md).
 2. Enough people are willing to pay someone who will deliver gossip.
 
-In the case of both, they often have a good [reason](purpose.md) to be [influential](influence.md). A dull restatement of the facts typically doesn't [resonate](mind-feelings.md) as heavily as a [sensational](mind-feelings.md) [story](stories.md). This means there's *always* a [spin](image.md) to the story that oversimplifies the [truth](reality.md) and dramatizes certain elements of reality to make it more interesting. This embellishment is always present, even if it simply includes aspects of virtue signaling.
+In the case of both, they often have a good [reason](purpose.md) to be [influential](influence.md). A dull restatement of the facts typically doesn't [resonate](mind-feelings.md) as heavily as a [sensational](mind-feelings.md) [story](stories.md). This means there's *always* a [spin](people-image-why.md) to the story that oversimplifies the [truth](reality.md) and dramatizes certain elements of reality to make it more interesting. This embellishment is always present, even if it simply includes aspects of virtue signaling.
 
 In a fast-paced society, one of the easiest methods to create the greatest [marketing](marketing.md) [results](results.md) is to employ A/B testing. By sending two alternating versions of the same headline to people who encounter it and [measuring](math.md) responses, creators can keep testing which information creates the greatest [emotional](mind-feelings.md) reaction.
 
-Unfortunately, the most intense emotional reaction is usually wrong because it's also simple. Revising facts to provoke [feelings](mind-feelings.md) (frequently to gain [power](power.md) from a [large organization](mgmt-badsystems.md) or from [large demographic groups](groups-large.md) via popularity) can also falsely defame or venerate someone. When used correctly, language can redirect the [image of power](image-distortion.md) to intentionally [favor or shame](image.md) specific people.
+Unfortunately, the most intense emotional reaction is usually wrong because it's also simple. Revising facts to provoke [feelings](mind-feelings.md) (frequently to gain [power](power.md) from a [large organization](mgmt-badsystems.md) or from [large demographic groups](groups-large.md) via popularity) can also falsely defame or venerate someone. When used correctly, language can redirect the [image of power](people-image-distortion.md) to intentionally [favor or shame](people-image-why.md) specific people.
 
-Further, even by simply stating facts, the proportion of stated information can *still* [distort what things look like](image-distortion.md). Making 100 articles about an incident and only 1 about the events leading up to the incident, for example, can make the incident [feel](mind-feelings.md) more severe without the context of its surrounding events. Even when they *say* they're stating the truth and the statements they make are true, the [production values](values-quality.md) often embellish the truth or avoid saying other things that are just as relevant.
+Further, even by simply stating facts, the proportion of stated information can *still* [distort what things look like](people-image-distortion.md). Making 100 articles about an incident and only 1 about the events leading up to the incident, for example, can make the incident [feel](mind-feelings.md) more severe without the context of its surrounding events. Even when they *say* they're stating the truth and the statements they make are true, the [production values](values-quality.md) often embellish the truth or avoid saying other things that are just as relevant.
 
 APPLICATION: We must be [critical](logic.md) of what we hear, but also *why* people are saying things. Observe closely what you're *not* hearing. The untold stories are, often, the more important ones.
 
 APPLICATION: The second-best way to discover the historical and journalistic facts are to read *both* sides of the story and [conclude](logic.md) for yourself. However, it's difficult to share those conclusions (or not share) without your *own* [political](power.md) manipulation. The *best* way is to read the facts themselves, but that's typically more boring than most people can withstand.
 
-Naturally, a masterful image manager can make themselves look more authoritative. The [natural trust](groups-member.md) people give [large groups](groups-large.md) makes large-scale "news outlets" sound [reputable](image.md), even when they haven't [proven](results.md) their reputation's [trustworthiness](trust.md). This maintains itself because they build stories designed to confirm the audience's [bias](mind-bias.md).
+Naturally, a masterful image manager can make themselves look more authoritative. The [natural trust](groups-member.md) people give [large groups](groups-large.md) makes large-scale "news outlets" sound [reputable](people-image-why.md), even when they haven't [proven](results.md) their reputation's [trustworthiness](trust.md). This maintains itself because they build stories designed to confirm the audience's [bias](mind-bias.md).
 
 APPLICATION: The most reliable way to convey a message is through embellishing the truth. By converting the story into a [mythological tale](stories-myths.md), it travels farther because it hits the [emotions](mind-feelings.md) more. Plus, if the reality of the story is *also* absurd, the "fact-checkers" who oppose the story will give more weight to that story's credibility.
 
 ## Retelling
 
-Irrespective of their factual truth, [stories](stories.md) can give [meaning](meaning.md), so their characters have a tendency to [appear](image.md) "living". A creator with few to no constraints (e.g., unlimited license to express, unlimited budget) will create a predictable [trend](trends.md):
+Irrespective of their factual truth, [stories](stories.md) can give [meaning](meaning.md), so their characters have a tendency to [appear](people-image-why.md) "living". A creator with few to no constraints (e.g., unlimited license to express, unlimited budget) will create a predictable [trend](trends.md):
 
 1. The story will significantly expand itself to the point that the main character is lost in a *much* larger world.
 2. Derivative and parallel works will arise that expand smaller characters' roles into altogether new content.
@@ -77,9 +77,9 @@ While we're more likely to propagate positive fictional stories over negative on
 
 ## Legendary people
 
-When a person *becomes* a [story](stories.md), they're officially a "celebrity". At that point, they're simply a well-groomed [image](image.md) designed to evoke strong [feelings](mind-feelings.md) and [beliefs](trust.md).
+When a person *becomes* a [story](stories.md), they're officially a "celebrity". At that point, they're simply a well-groomed [image](people-image-why.md) designed to evoke strong [feelings](mind-feelings.md) and [beliefs](trust.md).
 
-Anytime we only hear about someone but don't have a [personal connection](people-friends.md) with them, they're nothing but a story. While a person [ages](maturity.md), [changes](people-changes.md), and is prone to errors and silly behaviors, but the [myth](stories-myths.md) transcends that person and will [often persist](legacy.md) *long* after that person has died.
+Anytime we only hear about someone but don't have a [personal connection](people-friends-why.md) with them, they're nothing but a story. While a person [ages](maturity.md), [changes](people-changes.md), and is prone to errors and silly behaviors, but the [myth](stories-myths.md) transcends that person and will [often persist](legacy.md) *long* after that person has died.
 
 Every [large group leader](groups-large.md) is some form of celebrity. Successful leaders must always maintain some aspect of their celebrity status to have long-distance [influence](influence.md) with their group.
 
@@ -87,7 +87,7 @@ When a [creation](creations.md) becomes extremely [popular](trends.md), the crea
 
 A [large group](groups-large.md) can work *very* hard at maintaining a myth of a person. While an organization is an unfeeling combination of relatively similar people, a dramatic performer is easier to tailor and [market](marketing.md) as a "mascot", which can imply they lead and direct that organization.
 
-APPLICATION: [Advertising](marketing.md) mascots are an attempt to create a human face on an otherwise emotionless legal organization. People fall for the false [image](image.md) because it appeals to whatever [sentiment](mind-feelings.md) a demographic prefers to associate with.
+APPLICATION: [Advertising](marketing.md) mascots are an attempt to create a human face on an otherwise emotionless legal organization. People fall for the false [image](people-image-why.md) because it appeals to whatever [sentiment](mind-feelings.md) a demographic prefers to associate with.
 
 APPLICATION: Since [stories are a relatively straightforward mechanism](stories.md), they're easy to duplicate when you make [a popular one](trends.md). Barring the artist [devoted](purpose.md) to creating [meaning](meaning.md), most storytellers will simply reproduce the same tired framework over and over.
 
@@ -97,7 +97,7 @@ The people who define the world's style are between their 30s and 50s. Since the
 
 APPLICATION: If you want to know what will be popular 5 years from now, it'll probably incorporate whatever was overwhelmingly popular about 15-35 years ago from today.
 
-Today's news, after enough time, becomes a historical record. Historians in [a free society](politics-conservativeliberal.md) have less [reason](purpose.md) to [skew](image.md) the story, but they still advance [religious](religion.md) or [political](politics-leftism.md) causes just as frequently, and they *frequently* miss the context of the original creation.
+Today's news, after enough time, becomes a historical record. Historians in [a free society](politics-conservativeliberal.md) have less [reason](purpose.md) to [skew](people-image-why.md) the story, but they still advance [religious](religion.md) or [political](politics-leftism.md) causes just as frequently, and they *frequently* miss the context of the original creation.
 
 APPLICATION: Most of the tales and creative works of the distant past that have survived were propaganda, [parody](humor.md), and designed for unsophisticated people. We lose that in translation (especially with the people who [teach it](education.md)), so we assume there was something more dignified about the past than there really was.
 
@@ -135,26 +135,26 @@ There is a [political reason](politics-conservativeliberal.md) to add specific t
 - When a scandal happens:
   - For an ideological opponent, the scandal is non-negotiable and requires [punishment](people-rules.md).
   - For an ideological ally, there's constant questioning over the source of the information.
-- If an extremist of an idea exists (often to the point of [violence](people-conflicts-war.md)):
+- If an extremist of an idea exists (often to the point of [violence](people-conflicts-war-why.md)):
   - For an ideological opponent, highlight and focus heavily on them.
   - For an ideological ally, ignore their existence.
-  - As a further step, [curate the environment](image-distortion.md) to prevent that information from arising.
+  - As a further step, [curate the environment](people-image-distortion.md) to prevent that information from arising.
 
-APPLICATION: News coverage and history are *never* exempt from [political manipulation](image-distortion.md), since the ability to craft [convincing](power-influence.md) [stories](stories.md) is a *tremendous* [form of power](power-types.md).
+APPLICATION: News coverage and history are *never* exempt from [political manipulation](people-image-distortion.md), since the ability to craft [convincing](power-influence.md) [stories](stories.md) is a *tremendous* [form of power](power-types.md).
 
-If someone gains enough [power](power.md) telling the news, they will actually *make* future news events. By claiming things about [public opinion](image.md) or [informing](understanding.md) people about details, a news outlet has the [power](power.md) to bend the [opinions](understanding-certainty.md) of sometimes millions with a few choice [words](awareness.md).
+If someone gains enough [power](power.md) telling the news, they will actually *make* future news events. By claiming things about [public opinion](people-image-why.md) or [informing](understanding.md) people about details, a news outlet has the [power](power.md) to bend the [opinions](understanding-certainty.md) of sometimes millions with a few choice [words](awareness.md).
 
 APPLICATION: While we can gain a tiny bit of power via publicly protesting, boycotting, and writing letters, it's *rarely* as much [power](power.md) as communicating to the public with a form of large-scale media (e.g., social media).
 
 ## Censorship
 
-The [image](image.md)-based form of how we perceive means half-truths are easy to spread and excessively difficult to [disprove](science.md). Every culture has to wrestle with this reality by taking preemptive action.
+The [image](people-image-why.md)-based form of how we perceive means half-truths are easy to spread and excessively difficult to [disprove](science.md). Every culture has to wrestle with this reality by taking preemptive action.
 
 Our intuition may oppose the distribution of shameless lies, and preventing the free publication of false information seems like a [morally good](morality.md) action.
 
 Unfortunately, it's also difficult to detect *which* things are lies, especially since many statements have portions of [truth](reality.md) contained within them. Far too often, [extremists](morality-taboo.md) will say [unfashionable](trends.md) truths that begin radical social [changes](people-changes.md).
 
-APPLICATION: People with the power to censor have *tremendous* control. Unless those people are held fully accountable for each censorship activity they perform, a benevolent situation will *rapidly* become [oppressive](people-boundaries.md).
+APPLICATION: People with the power to censor have *tremendous* control. Unless those people are held fully accountable for each censorship activity they perform, a benevolent situation will *rapidly* become [oppressive](people-boundaries-why.md).
 
 Stifling the free expression of false stories is *always* a bad idea because the people who censor are essentially given full [dictatorial control](politics-systems.md) over the flow of [ideas](values.md). The [power](power.md) is so significant that it's far too tempting to abuse that power for self-interest. Given enough time, any [culturally](people-culture.md) accepted censorship will lead to propaganda for a certain [value system](values.md), which will eventually unbalance the culture enough to create a [bad system](mgmt-badsystems.md).
 
@@ -172,12 +172,12 @@ APPLICATION: Given [human universals](humanity-universals.md), if you're angry a
 
 Since we can't even know what we *don't* know about the future, we hire people to deliver [certain](understanding-certainty.md) statements about [the unknown](unknown.md). At one time they were part of a [religious order](religion.md) as prophets, soothsayers, or seers. With the move toward secularization and [post-modern thinking](philosophy.md), they are now game theorists, quantitative analysts, actuaries, statisticians, and poll analysts under a type of [scientific order](science.md). Irrespective, they are effectively [imagining](imagination.md) everything they do to create compelling [stories](stories.md).
 
-APPLICATION: Statistics and statisticians [feel](mind-feelings.md) more accurate because they're a [group](groups-member.md) instead of an individual, but look very closely at how they receive and manipulate their data, and don't [trust](trust.md) their predictions if it doesn't match your [instincts](mind-feelings.md). They might be trying to [distort the truth](image-distortion.md), especially when they have something to gain or have [competitors](people-conflicts-war.md).
+APPLICATION: Statistics and statisticians [feel](mind-feelings.md) more accurate because they're a [group](groups-member.md) instead of an individual, but look very closely at how they receive and manipulate their data, and don't [trust](trust.md) their predictions if it doesn't match your [instincts](mind-feelings.md). They might be trying to [distort the truth](people-image-distortion.md), especially when they have something to gain or have [competitors](people-conflicts-war-why.md).
 
-They can only work on the [logic](logic.md) of known things, but they continue having jobs and receiving [honor](image.md) because they're the [safest](safety.md) way to explore the [fear](mind-feelings-fear.md) of [the unknown](unknown.md). Ironically, most of their analysis comes from *their* fears, and their risk aversion frequently contributes heavily to suppressing healthy [social risks](socialrisk.md).
+They can only work on the [logic](logic.md) of known things, but they continue having jobs and receiving [honor](people-image-why.md) because they're the [safest](safety.md) way to explore the [fear](mind-feelings-fear.md) of [the unknown](unknown.md). Ironically, most of their analysis comes from *their* fears, and their risk aversion frequently contributes heavily to suppressing healthy [social risks](socialrisk.md).
 
 APPLICATION: Statistical analysis is useful for finding correlations, not causation, so it's reliable to see whether your expectations have become [reality](reality.md). If you must [decide](people-decisions.md) instead of tracking [results](results.md), ask for advice from [industry](jobs-specialization.md) veterans instead.
 
-For the sake of their livelihood, most of them will justify their [beliefs](understanding-certainty.md) with many [reports](math.md). If it confuses [leaders](groups-large.md) enough, those leaders will often [agree](people-conflicts.md) and trust them even more. However, the opinions of a veteran professional in a [specialty](jobs-specialization.md) still have more validity.
+For the sake of their livelihood, most of them will justify their [beliefs](understanding-certainty.md) with many [reports](math.md). If it confuses [leaders](groups-large.md) enough, those leaders will often [agree](people-conflicts-why.md) and trust them even more. However, the opinions of a veteran professional in a [specialty](jobs-specialization.md) still have more validity.
 
 APPLICATION: We can't predict the future, so we must stay open-minded for all imagined circumstances to be [logically](logic.md) possible, then stop thinking about it. Unless we're having [fun](purpose.md) with it or minimizing [presently fixable risks](safety.md), dwelling on the future serves little benefit to our [souls](humanity.md).

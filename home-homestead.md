@@ -104,7 +104,7 @@ The need for water is *huge*:
 
 - It's essential for us to survive, in relatively small quantities.
 - We need water to [prepare most of our food](cooking.md).
-- We typically require water for [basic hygiene](people-2_image.md).
+- We typically require water for [basic hygiene](people-image.md).
 
 There are a few options for getting water:
 
@@ -242,7 +242,7 @@ Spend more money than you'd expect on the building's basic structure.
 
 - If you get low-quality building materials, you *will* have to [fix it](https://adequate.life/fix/) later.
 - However, don't obsess too much about finishing materials, since they're more for [design](engineering-design.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
-- If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](image.md).
+- If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](people-image-why.md).
 
 If you're building something larger, adapt your strategy as constraints arise at [each phase of the project](mgmt-2_projects.md):
 
@@ -264,7 +264,7 @@ While you can use CAD software to create construction drawings, builders work of
 
 - You can find plenty of open construction diagrams online, then adapt them according to [local code](legal-safety.md) or necessary specifications.
 
-If you're hiring a [contractor](people-6_contracts.md) to build (which is a good idea if you don't have a background in construction), hire good help, or they'll install things poorly.
+If you're hiring a [contractor](people-contracts.md) to build (which is a good idea if you don't have a background in construction), hire good help, or they'll install things poorly.
 
 - Note who you can [save on](money-saving.md): cheap siding installation isn't as devastating as cheap masonry.
 - Your building is a [creative outflow](creations.md) of your [personality](personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
@@ -430,7 +430,7 @@ Water runoff is a common reality of large tracts of land, and you can assist aga
 We generally need enough [technology](technology.md) to communicate with others, which tends to simply be a phone line and internet.
 
 - However, you can find *many* [domains of expertise](jobs-specialization.md) available for free on the internet, making it almost completely necessary if you depend on it for your lifestyle.
-- In particularly remote areas, [cellular networks](networks-computer.md) are limited or nonexistent, and your only internet option is often satellite networks.
+- In particularly remote areas, [cellular networks](networks-cs.md) are limited or nonexistent, and your only internet option is often satellite networks.
 
 Further, the availability of information on the internet makes internet access *critical* for [fixing things](https://adequate.life/fix/) and [creative ideas](mind-creativity.md) for *all* the above.
 

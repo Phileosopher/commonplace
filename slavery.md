@@ -5,10 +5,10 @@ Slavery is when someone has [power](power.md) over someone against their [will](
 
 Most references to slavery have historically been the concept of owning people, with most instances being:
 
-- Domination via [war](people-conflicts-war.md), with the loser becoming the property of the winner.
+- Domination via [war](people-conflicts-war-why.md), with the loser becoming the property of the winner.
 - That person was born into an owned family.
 
-A slave, however, is anyone unable to make free [decisions](people-decisions.md) to the scope of [their rights](people-boundaries.md).
+A slave, however, is anyone unable to make free [decisions](people-decisions.md) to the scope of [their rights](people-boundaries-why.md).
 
 APPLICATION: The current [fashions](trends.md) of modern society treat slavery discussions as [taboo](morality-taboo.md), but the concept is farther-reaching than most people realize.
 
@@ -31,7 +31,7 @@ And, since people can make decisions on them, some things are *not* entirely sla
 
 Further, when a society gives people the freedom to escape slavery, they can also make decisions that put them *into* slavery as well. As long as slavery exists, it'll be a revolving door.
 
-A slave is a tradable commodity. From debt to children, the elements of a slave can be bought and sold. This certainly violates [human rights](people-boundaries.md), but doesn't change the [power](power.md) it gives the owners, and therefore is still [culturally](people-culture.md) acceptable.
+A slave is a tradable commodity. From debt to children, the elements of a slave can be bought and sold. This certainly violates [human rights](people-boundaries-why.md), but doesn't change the [power](power.md) it gives the owners, and therefore is still [culturally](people-culture.md) acceptable.
 
 ## Servant vs. slave
 
@@ -39,7 +39,7 @@ People who are temporary slaves are bound by either an [agreement](people-contra
 
 When someone selects slavery willingly, rather than being forced into it, that person is a servant, which has an *entirely* different framing.
 
-Servants, unlike slaves, can both say and enforce [their right](people-boundaries.md) to say "no" to something. This [possibility](imagination.md) of choice distinguishes them because the servant has (or had) dictated who they're serving, while the slave is forced without negotiation to serve whether they desire to or not.
+Servants, unlike slaves, can both say and enforce [their right](people-boundaries-why.md) to say "no" to something. This [possibility](imagination.md) of choice distinguishes them because the servant has (or had) dictated who they're serving, while the slave is forced without negotiation to serve whether they desire to or not.
 
 Servants, therefore, are considered "voluntarily" slaves, and society interprets them as "free" even when they're bound by an [agreement](people-contracts.md) because they made a [choice](people-decisions.md). On the other hand, slaves' [decisions](people-decisions.md) mean nothing except how much [power](power-types.md) is necessary to keep them bound.
 
@@ -87,7 +87,7 @@ Because slavery is the act of forcing power over another, it's difficult in free
 4. Many shareholders are employees.
 5. The [cult leader](culture-cults.md) owns the members.
 
-APPLICATION: In free societies, slavery typically comes from [perspective](image.md) more than [reality](reality.md). If everyone were to change their attitude to [self-ownership](success-1_why.md), millions of slaves would be freed overnight.
+APPLICATION: In free societies, slavery typically comes from [perspective](people-image-why.md) more than [reality](reality.md). If everyone were to change their attitude to [self-ownership](success-1_why.md), millions of slaves would be freed overnight.
 
 Most people, barring [Christians](https://theologos.site/devotion-chaos/) and [leftists](politics-leftism.md), are uncomfortable with [self-identifying](identity.md) as slaves. It's humiliating in most contexts without someone to fix it or someone to blame.
 
@@ -105,4 +105,4 @@ In one way or another, we are always [at risk](safety.md) of something or someon
 
 APPLICATION: Slavery is ubiquitous, even if we don't use that specific word, and [human nature](humanity.md) means it'll always be with us barring something that would directly change human nature.
 
-This temptation to own slaves is so profound that the concept of equity ownership (i.e., owning an [imaginary person](image-modern.md) defined as a "corporation") is effectively slavery without an actual slave.
+This temptation to own slaves is so profound that the concept of equity ownership (i.e., owning an [imaginary person](people-image-modern.md) defined as a "corporation") is effectively slavery without an actual slave.

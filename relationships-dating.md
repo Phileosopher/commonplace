@@ -13,7 +13,7 @@ Most people want a life partner, but it comes with many risks:
 Your ideal mate will *always* have certain characteristics:
 
 - They're willing to [change](people-changes.md), regardless of risks.
-- They openly [communicate](language-speaking.md) their [issues](people-5_conflicts.md) and concerns with you.
+- They openly [communicate](language-speaking.md) their [issues](people-conflicts.md) and concerns with you.
 - You can trust them, with proven stories of their loyalty.
 - You share a natural intimacy with them ("chemistry").
 - You share a similar sense of [humor](humor.md) with them.
@@ -24,7 +24,7 @@ Your ideal mate will *always* have certain characteristics:
 
 Contrary to popular opinion, compatibility is mostly unrelated to relationship satisfaction:
 
-- Any two people who have healthy [conflict-management skills](people-5_conflicts.md) and [the right attitudes](success-2_attitude.md) to stay honest and work hard at the relationship can live well with each other.
+- Any two people who have healthy [conflict-management skills](people-conflicts.md) and [the right attitudes](success-2_attitude.md) to stay honest and work hard at the relationship can live well with each other.
 - Vast differences between people create more misunderstanding, but they also create more benefits:
   - More unique ways of approaching issues
   - More diverse opinions means more perceived solutions
@@ -51,7 +51,7 @@ Social style:
 - How much do you/they need to control or be in control?
 - How much do you/they want to be [around other people](people-4_friends.md)?
 - How much do you/they make personal time more important than intimate time?
-- How quickly do you/they [compromise](people-5_conflicts.md) and adjust to circumstances?
+- How quickly do you/they [compromise](people-conflicts.md) and adjust to circumstances?
 
 Prevailing mentality and thinking:
 
@@ -78,7 +78,7 @@ Current relationship skills:
 - How capable are you/they at reducing damage from anger?
 - How capable are you/they in honestly and constructively expressing all emotions?
 - How well can you/they control mood and feelings?
-- What is your/their [conflict management style](people-5_conflicts.md)?
+- What is your/their [conflict management style](people-conflicts.md)?
   - How respectful are you/they of others in conflicts?
   - How well can you/they drop a resolved issue?
 
@@ -95,7 +95,7 @@ Values and beliefs:
 
 Background:
 
-- How healthy a family did you/they come from and how do you/they see their overall [health](body-4_health.md) and [hygiene](people-2_image.md)?
+- How healthy a family did you/they come from and how do you/they see their overall [health](body-4_health.md) and [hygiene](people-image.md)?
   - How close are you/they to family and how much involvement do they have in life?
 - How educated are you/they, and how important do you/they see it?
 - How much are they willing to change to have a relationship?
@@ -142,7 +142,7 @@ Focus more on their needs, not yours:
 
 Set physical standards on how intimate you'll go, since you *will* cross them and will need to back away.
 
-Small issues today will become larger ones in the future, so your ability to wisely and quickly [handle conflicts](people-5_conflicts.md) play a huge part of a successful relationship.
+Small issues today will become larger ones in the future, so your ability to wisely and quickly [handle conflicts](people-conflicts.md) play a huge part of a successful relationship.
 
 Try to [break from conventional dating](relationships-dating-ideas.md) to discover more about them in less time.
 
@@ -296,7 +296,7 @@ Some reasons are *terrible* to get married over:
 - You've spent a long time with them and think life would be easier.
 - You don't feel right and imagine a marriage will resolve that unease.
 - The other person is wealthy.
-- You see a friendship with them forever, but have significant [unresolved issues](people-5_conflicts.md) with them.
+- You see a friendship with them forever, but have significant [unresolved issues](people-conflicts.md) with them.
 - You both share children and want to get married to hide your shame.
 
 If you're sure you want to get married, don't hesitate:

@@ -5,7 +5,7 @@ NOTE: This is highly contextual to [social norms](people-rules.md):
 
 - *Anything* done against others' wishes, especially without [love](people-love.md), is likely (or ought to be) a crime.
 - Nearly everything *isn't* a crime, however, if someone had [consented](people-contracts.md) to it, even implicitly.
-- These [boundaries](people-boundaries.md) can become more clear if a government requires some sort of certification or permit (e.g., an underground fight club versus an exhibition MMA match).
+- These [boundaries](people-boundaries-why.md) can become more clear if a government requires some sort of certification or permit (e.g., an underground fight club versus an exhibition MMA match).
 
 Criminal deviance comes in two forms, which are indicated when it's explicit:
 
@@ -107,7 +107,7 @@ Fraud: lying to gain something
   - Insider trading: trading on the value of an asset based on unfairly obtained information
 - Wire fraud: fraud with a telecommunications device like a computer or phone
 
-Identity theft: pretending to be someone else's [legal fiction](image-modern.md) to their detriment
+Identity theft: pretending to be someone else's [legal fiction](people-image-modern.md) to their detriment
 
 - Telemarketing fraud: pretending to sell a product to gain financial information
 

@@ -27,11 +27,11 @@ Beyond imposing a black substance onto a paper medium, there are various other p
 
 - Color printing allows color-based cartridges alongside black. Unlike the [screen](engineering-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
 - "Duplex printing" will print a page on both sides. This isn't *strictly* necessary, but can be a severe logistical headache if you're trying to print out a lot of content (e.g., print odd-numbered pages, then load up the pages again and print even-numbered pages).
-- [Network](networks-computer.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
+- [Network](networks-cs.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
 - Secure printing allows a [password-protected](computers-cysec-authentication.md) print job, which may be important in a large office.
 - For larger printers, including a decent-enough [scanner](computers-ocr.md).
 - If it comes with the functionality of a scanner, it technically has a copier feature as well. However, it's simply printing a scanned (and spooled) copy instead of how copier technology directly imposes a scanned image.
-- While it's not as popular anymore, including a [fax machine](networks-computer.md).
+- While it's not as popular anymore, including a [fax machine](networks-cs.md).
 - Multiple trays to allow printing different paper sizes or types, which can also include a multipurpose tray.
 - Toner/ink page counter, which can *also* serve to cost more money long-term in wasted toner/ink (see below).
 
