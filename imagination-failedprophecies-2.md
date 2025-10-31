@@ -340,4 +340,4 @@
 
 - Jeane Dixon and various Indian astrologers predicted a planetary alignment on February 4, 1962, that was to bring destruction to the world. Mass prayer meetings were reported from India.
 
-[Next page](imagination-failedprophecies-3.md)
+[Continued](imagination-failedprophecies-3.md)

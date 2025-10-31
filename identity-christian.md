@@ -75,7 +75,7 @@ God will typically frame our [hardships](hardship.md) to confront the defects of
 - Low conscientiousness: He'll give more [duties and obligations](success-4_routine.md) where you must honor your [promises](language.md).
 - High extraversion: He'll isolate you and require you to spend more time alone in [meditation](awareness.md).
 - Low extraversion: He'll bring many more people around you on a consistent basis, and may even [make you a leader](mgmt-1_why.md).
-- High agreeableness: He'll give more [conflicts and contentions](people-conflicts-christian-1_why.md) where you must take a [moral](morality.md) stand against others.
+- High agreeableness: He'll give more [conflicts and contentions](people-conflicts-christian-why.md) where you must take a [moral](morality.md) stand against others.
 - Low agreeableness: He'll force circumstances that require [getting along](people-conflicts.md) more often with other people.
 - High neuroticism: He'll require you to give over the [unknown](unknown.md) to Him more frequently.
 - Low neuroticism: He'll introduce more [emotionally volatile](mind-feelings.md) people into your life.

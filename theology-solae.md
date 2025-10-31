@@ -23,11 +23,11 @@ To simplify, here's the blunt and stripped-down version of the same 5 Solae with
 
 The 5 Solae were originally the first 3, but it truly all stems from the first assertion: if Scripture alone has the only true authority, then human institutions are only optional.
 
-Naturally, this was offensive to the then-only Church at the time. This caused many [conflicts](people-conflicts-christian-4_false.md) that, among other things, created the Enlightenment-era value systems that fashioned [Western thought](https://theologos.site/the-west/) (and, naturally, the [post-modern afterbirth](philosophy.md) we presently live under).
+Naturally, this was offensive to the then-only Church at the time. This caused many [conflicts](people-conflicts-christian-3_near.md) that, among other things, created the Enlightenment-era value systems that fashioned [Western thought](https://theologos.site/the-west/) (and, naturally, the [post-modern afterbirth](philosophy.md) we presently live under).
 
 [Philosophy](philosophy.md) has tremendous value when used properly. In the case of the Solae, their historical basis tends to override the more prominent meaning attached to the ideas themselves.
 
-So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-4_false.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
+So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-3_near.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
 
 It's worth noting the Solae are *not* matters of [salvation](jesus-gospel.md), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/bsb/luke/22.htm)).
 
@@ -43,7 +43,7 @@ This isn't a black-and-white concept, and "Scripture alone" itself is more of a 
 4. Scripture alone is *not* the dominant authority for some things.
 5. Scripture alone is *not* sufficient authority for most things.
 
-Parsing the concept further shows several moving parts from how much the Bible actually covers any given [subject](people-conflicts-christian-1_why.md):
+Parsing the concept further shows several moving parts from how much the Bible actually covers any given [subject](people-conflicts-christian-why.md):
 
 1. When Scripture says something about a matter, can [cultural](people-culture.md) considerations add or modify the idea?
 2. When Scripture is vague on a matter, are we safe to clarify any spiritual authority on it?

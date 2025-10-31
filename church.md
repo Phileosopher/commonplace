@@ -130,7 +130,7 @@ Joining a new church is sometimes difficult when we don't have [connections](peo
 
 ## All churches are flawed
 
-No specific [church denomination](people-conflicts-christian-1_why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
+No specific [church denomination](people-conflicts-christian-why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
 
 - Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name ([1 Corinthians 3:3-7](https://biblehub.com/bsb/1_corinthians/3.htm)).
 

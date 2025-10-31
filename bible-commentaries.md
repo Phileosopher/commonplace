@@ -18,7 +18,7 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
 3. What type of commentary is it?
    - **Exegetical** (aka Word) works to give technical details tied to the original [language](language.md) and its [meaning](meaning.md).
    - **Expository** (aka Homiletical) work toward applying the Bible to everyday life and designed to help with making a sermon.
-     - They are useful to get a context, but can *quickly* create [conflicts](people-conflicts-christian-1_why.md) around others' opinions more than the actual text.
+     - They are useful to get a context, but can *quickly* create [conflicts](people-conflicts-christian-why.md) around others' opinions more than the actual text.
      - **Devotional** are reading-focused mini-essays on verses or passages.
      - **Critical** commentaries look at various perspectives, so they end up becoming commentaries on commentaries.
      - **Cultural** is built to give [historical context](people-culture.md) around when the text was written.
@@ -30,7 +30,7 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
    - More specific implies that it will have more in-depth analysis and clear application, but that all depends on the quality of the commentator's work.
 5. Where can I find that commentary?
 
-Also, the abundance of links to that particular work may give some hint on how popular it has been among Christians. If it's difficult to find online, it is likely either [heresy](people-conflicts-christian-1_why.md) or its creators are [violating the spirit of the Bible through intellectual property trolling](https://theologos.site/ip/) and not worth existing on this page.
+Also, the abundance of links to that particular work may give some hint on how popular it has been among Christians. If it's difficult to find online, it is likely either [heresy](people-conflicts-christian-why.md) or its creators are [violating the spirit of the Bible through intellectual property trolling](https://theologos.site/ip/) and not worth existing on this page.
 
 It's sorted by year of approximate publication.
 

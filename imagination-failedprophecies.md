@@ -287,4 +287,4 @@ All of these are here for your benefit to understand how much humanity has faile
 
 - The "Letter of Toledo" warned everyone to hide in the caves and mountains. The world would be destroyed and only a few would be spared. This was based on the alignments of planets.
 
-[Next page](imagination-failedprophecies-2.md)
+[Continued](imagination-failedprophecies-2.md)

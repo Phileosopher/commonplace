@@ -35,7 +35,7 @@ Carefully evaluate why you want to engage in public ministry.
 - There are a *lot* of bad reasons to start (or continue) a public ministry:
   - Projected hatred of anyone due to their [sins](morality-sins.md).
   - Desire to create [social change](trends.md) to fight [injustice](morality-justice.md) driven by *any* revenge.
-  - Frustration at present Christian leaders who [lead believers wrongly](people-conflicts-christian-1_why.md).
+  - Frustration at present Christian leaders who [lead believers wrongly](people-conflicts-christian-why.md).
   - [Feedback](power-influence.md) from others for doing well in a ministry setting.
 - The reason should *always* be a straightforward desire to [follow God's will](god-will.md) and expand His Kingdom ([Matthew 6:10](https://biblehub.com/matthew/6-10.htm)).
   - Ideas from Him are good, honorable, fair, pure, lovely, and reputable ([Philippians 4:8-9](https://biblehub.com/bsb/philippians/4.htm)).
@@ -144,7 +144,7 @@ Every ministry leader is responsible to foster a [culture](people-culture.md) fo
 
 A healthy ministry should heal and equip believers.
 
-- Christians are susceptible to [false doctrine](people-conflicts-christian-1_why.md) *everywhere* ([1 Timothy 4:6-7](https://biblehub.com/bsb/1_timothy/4.htm)).
+- Christians are susceptible to [false doctrine](people-conflicts-christian-why.md) *everywhere* ([1 Timothy 4:6-7](https://biblehub.com/bsb/1_timothy/4.htm)).
 - We're all in a perpetual [spiritual war with Satan](spiritual-warfare.md) ([James 4:7](https://biblehub.com/james/4-7.htm)).
 - Believers experience far more [persecution](hardship-persecution-church.md) than the world would ever admit ([2 Timothy 3:10-13](https://biblehub.com/bsb/2_timothy/3.htm)).
 
@@ -315,24 +315,24 @@ After becoming established, most leaders tend to [distrust](trust.md) new ideas.
 - At that point, they've forgotten their role as a messenger and curator and see themselves as an authority on a subject.
 - However, what they often find uncomfortable is a matter of personal preference or [theological semantics](theology.md).
 - When leaders distrust, they inspire the entire group to become distrustful.
-  - Unless it's [heresy](people-conflicts-christian-1_why.md), rejecting people with different viewpoints begins precedent that can lead to a [cult-like culture](culture-cults.md).
+  - Unless it's [heresy](people-conflicts-christian-why.md), rejecting people with different viewpoints begins precedent that can lead to a [cult-like culture](culture-cults.md).
 
-Healthy [conflict management](people-conflicts-christian-1_why.md) means you may have to exile some people from a group.
+Healthy [conflict management](people-conflicts-christian-why.md) means you may have to exile some people from a group.
 
-- [Disciplinary action in the Church](people-conflicts-christian-1_why.md) is very clear, and leads to 4 possible outcomes ([Matthew 18:15-20](https://biblehub.com/bsb/matthew/18.htm)):
+- [Disciplinary action in the Church](people-conflicts-christian-why.md) is very clear, and leads to 4 possible outcomes ([Matthew 18:15-20](https://biblehub.com/bsb/matthew/18.htm)):
   1. Reconciliation among everyone in spirit and truth, which should be the ultimate aim ([John 4:24](https://biblehub.com/john/4-24.htm)).
   2. The leader is ejected/defrocked from their formal ministry status, which strengthens the Body through a public lesson on how [sinful behaviors](morality-sins.md) and [vices](addiction-substances.md) will destroy us.
   3. The leader is ejected/defrocked, but they *didn't* sin, meaning 50-70% of the group will leave with that leader.
   4. The situation was complicated, and the leader has gained allies, and 10-30% of the group will leave or back away from involvement in the church.
 - If the heresy is bad enough, know ahead of time how to deal with it, and be prepared to create [a church split](history-church.md) if necessary.
   - The risks of social pushback mean most churches do *not* have plans in place on how to exile their members.
-  - At the same time, some churches veer into the other extreme and exile people over [stupid conflicts](people-conflicts-christian-1_why.md).
+  - At the same time, some churches veer into the other extreme and exile people over [stupid conflicts](people-conflicts-christian-why.md).
 
 Make sure you demarcate between God's opinion and yours.
 
 - It's inevitable that your opinion will differ from God's, since [you don't see exactly as He sees](https://theologos.site/god-sight/).
 - When you're a leader, people *will* weigh your opinion as having relevance, irrespective of whether God officially holds it or not.
-- However, speaking on behalf of God about something He didn't overtly say is a very subtle form of [heresy](people-conflicts-christian-1_why.md), and can get you in trouble long-term.
+- However, speaking on behalf of God about something He didn't overtly say is a very subtle form of [heresy](people-conflicts-christian-why.md), and can get you in trouble long-term.
 
 At any time, be prepared to step down.
 
@@ -341,7 +341,7 @@ At any time, be prepared to step down.
   - Your children have shown themselves as rebellious.
   - You've become absolutely exhausted in your ministry role.
   - You've become [an addict](addiction.md).
-  - You've found out you practice at least some [heresy](people-conflicts-christian-1_why.md).
+  - You've found out you practice at least some [heresy](people-conflicts-christian-why.md).
 - It may seem like you're still doing God's work, but you're sabotaging His plans when you do.
   - If you're not acting out of love, you're wasting your time ([1 Corinthians 13:1-3](https://biblehub.com/bsb/1_corinthians/13.htm)).
   - If you feel compelled to do it, it might just be a [habit](habits.md).

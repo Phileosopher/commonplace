@@ -44,7 +44,7 @@ This will show itself through how they prioritize their life, some examples:
 - Anti-Catholic over their [vast variety of rituals](mgmt-church.md).
 - Anti-Protestant over their limited scope of ritual.
 - Belief that one denomination is more spiritual or correct than the rest.
-- Belief that everyone in a particular denomination with [a false doctrine](people-conflicts-christian-1_why.md) is also non-Christian as a result.
+- Belief that everyone in a particular denomination with [a false doctrine](people-conflicts-christian-why.md) is also non-Christian as a result.
 
 Belief in extraterrestrials, potentially interpreting or referring to God Himself as an alien entity.
 
@@ -133,13 +133,13 @@ Believing "Christian" media to be a vastly superior classification of media, eve
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
   3. The audience may misunderstand why the creator is portraying a bad thing and attack them over it.
 
-Allegiance to a [denomination](people-conflicts-christian-1_why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
+Allegiance to a [denomination](people-conflicts-christian-why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
 
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
   - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)
 - They can often engage in trying to [convert others](power-influence.md) to their perspective more than converting others to the way of Christ.
 - Frequently, they'll spend more effort arguing about how wrong other people are (and enhancing their [understanding](understanding.md) to that end) than [loving](people-love.md) other people enough to respect (and politely disagree with) their beliefs.
-- At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](people-conflicts-christian-1_why.md) have equal spiritual significance.
+- At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](people-conflicts-christian-why.md) have equal spiritual significance.
 
 Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem.
 

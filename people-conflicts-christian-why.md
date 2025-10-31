@@ -81,3 +81,11 @@ Any attempts to harmonize Christianity will lead to disaster.
 - There are simply too many cultures and ways of life to sufficiently harmonize all of them.
 
 [Living like Christ](https://theologos.site/devotion-chaos/) is a much more individual experience, and binding together everyone with the same [agenda](purpose.md) starts veering quickly into the realm of [political influence](power-influence.md).
+
+## Specific conflicts
+
+1. [Dumb conflicts](people-conflicts-christian-1_dumb.md)
+2. [Debatable issues](people-conflicts-christian-2_debatable.md)
+3. [Near-heresy](people-conflicts-christian-3_near.md)
+4. [False beliefs](people-conflicts-christian-4_false.md)
+5. [Cults](people-conflicts-christian-5_cults.md)

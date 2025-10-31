@@ -19,7 +19,7 @@ Constantine himself practiced Sol Invictus, which was a less-popular worship of 
 - He built multiple basilicas of the saints, and established sites showing Jesus' walk by his mother's guidance (which are still in [Israel](history-israel.md) to this day).
 - Constantine used a *lot* of solar imagery, which was likely merging Christianity and Sol Invictus, and it has persisted in Catholic tradition.
 - He set Sunday as the day of rest for all Christians, and assembled a canon of the Bible.
-- Constantine sought for Christians to peaceably work out their differences, and financed the first Ecumenical Council, which was able to get all Christians to theologically agree on issues about core doctrine, especially on [Arianism](people-conflicts-christian-1_why.md).
+- Constantine sought for Christians to peaceably work out their differences, and financed the first Ecumenical Council, which was able to get all Christians to theologically agree on issues about core doctrine, especially on [Arianism](people-conflicts-christian-why.md).
 - In many ways, he broke the precedent of the Roman emperors of the past, which utterly destroyed the Roman Empire while also bringing a Catholic presence into the political void.
 
 The new freedoms for Christians in the 4th century opened up room for the Church to expand. This expansion meant that the [Church leadership](mgmt-church.md) became a modified form of Roman [government](politics-systems.md) (with the pope and emperor side-by-side), and the theological discussions added in a hefty grade of Greek [philosophy](philosophy.md).
@@ -32,7 +32,7 @@ Ecumenical Council #1 in 325 AD - the First Council of Nicaea, feat. Pope Sylves
 
 However, Constantine's three children were bitter over him killing their mother in 327, and the government descended into standard Roman chaos again after Constantine died in 337. But, Roman politics had now become inextricably commingled with Christianity.
 
-For Christians, things were also contentious, since Arius posited a [theological conflict](people-conflicts-christian-1_why.md) that argued about the substance of Christ versus the Father. This created severe issues for within the Church for about 55 years.
+For Christians, things were also contentious, since Arius posited a [theological conflict](people-conflicts-christian-why.md) that argued about the substance of Christ versus the Father. This created severe issues for within the Church for about 55 years.
 
 In the year 380 AD, emperor Theodosius I declared Christianity the state religion of the Roman Empire, which destroyed the last portions of Rome's polytheistic [culture](people-culture.md) until its official end in 476 AD by instituting the **Roman Catholic Church**.
 

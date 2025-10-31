@@ -308,7 +308,7 @@ However, the entire scope of what God plans is not possible to be known.
 The group of believers who have a relationship with God are known as [the Church](church.md).
 
 - This word can be risky to use: it is highly contextual to either a [cultural group](people-culture.md) or the people among that group who will have an eternal relationship with God.
-- If we refer to the former, it is composed of every person who associates with Christian culture, including [debatably spiritual practices](people-conflicts-christian-3_debatable.md).
+- If we refer to the former, it is composed of every person who associates with Christian culture, including [debatably spiritual practices](people-conflicts-christian-2_debatable.md).
 - If we refer to the latter, it includes everyone who had believed in the coming Messiah *before* Jesus was born.
 
 Christians who choose to lead the Church are held to a higher moral standard.
