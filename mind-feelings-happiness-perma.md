@@ -99,7 +99,7 @@ Encourage someone
 
 Enjoy your [pet](fun-pets.md)
 
-Have fun with some [friends](people-4_friends.md)
+Have fun with some [friends](people-friends.md)
 
 Hug someone
 

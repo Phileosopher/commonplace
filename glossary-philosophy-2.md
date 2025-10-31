@@ -1,6 +1,171 @@
 
 # Philosophy glossary - part 2
 
+## Axiology
+
+Axiology - The branch of philosophy concerned with the concept of "[value](symbols.md)".
+
+### How do we find purpose?
+
+Absurdism - [Reality](reality.md) doesn't give us meaning, so we must accept that fact to find [purpose](purpose.md).
+
+Nihilism - Absolutely everything has zero meaning, purpose, knowable truth, or value.
+
+- Fatalism - Because determinism (see above) is true, thinking and doing anything is pointless to determine events.
+
+Anthropomorphism - People tend to make human-like qualities for non-human things, including animals and deities.
+
+Egoism (descriptively) - Everything people do consciously is inherently self-interested.
+
+- Cynicism - Everyone is likely doing things for self-interested reasons.
+- Psychological egoism - Everyone is always motivated by self-interest, consciously or subconsciously.
+
+Freudianism - People psychologically repress experiences, it gets mixed up with sexual desire, and the very act of talking about bad experiences will often fix them.
+
+Hedonism (descriptively) - People are motivated to seek pleasure and avoid pain.
+
+### Where *should* we place our purposes?
+
+Amor fati - Everything that happens is either good or at least necessary.
+
+Anthropocentrism/Homocentrism - Human beings are the central reason/fact/purpose for the universe.
+
+Immortalism - People are able to, at least theoretically, live forever.
+
+Pragmatism - The practical use or consequences of something gives it [meaning](purpose.md) and truth.
+
+Teleologism - There's an inherent design/purpose/principle/clarity in [reality's](reality.md) [patterns](symbols.md).
+
+### How should we gain knowledge?
+
+Coherentism (coherence theory of truth) - Someone's beliefs are only true if they're consistent with at least most of their other beliefs.
+
+Coherentism (coherence theory of justification) - We can be [certain](understanding-certainty.md) of beliefs when they're consistent with at least most other beliefs that person has. Opposite of foundationalism.
+
+Critical rationalism - To keep their value, all elements of [science](science.md) should be constantly criticized and questioned.
+
+- Pancritical rationalism - All elements of science or truth should be constantly criticized and questioned, irrespective of any authority's justifications.
+
+Deism - Reasoning is the only basis for knowledge. Thus, someone should only believe in God through reason, not tradition or gained insight.
+
+Experientialism - Knowledge should be measured by experiences and first-hand accounts.
+
+Foundationalism - We can be [certain](understanding-certainty.md) of beliefs when when they're based on self-evident basic beliefs that are based on non-belief things like experiences. Opposite of coherence theory of justification.
+
+Functionalism - Since reductive materialism (see above) and logical behaviorism (see above) are wrong, we must consult [beliefs](understanding-certainty.md), [desires](purpose.md), and [emotions](mind-feelings.md) to [understand](understanding.md) people. The opposite of coherence theory of justification.
+
+Falsificationism/Deductivism - Things are only [scientific](science.md) if there's a possibility they could be wrong.
+
+Inductionism - We can use inductive reasoning on sets of information to create [theories and laws](lawsaxioms.md) to live by.
+
+- Inductivism - The body of science is guided by previous scientific data, so it's always advancing toward truth.
+- Psychologism - We can only grow in understanding via [philosophical study](philosophy.md).
+- Scientism - We can best grow in understanding via [scientific study](science.md).
+
+Instrumentalism - Knowledge doesn't need to be true, but must be useful.
+
+Irrealism - We should swap phenomenalism (see above) with physicalism (see above) back-and-forth to understand things from the best perspective.
+
+Kierkegaardianism - While truth may be absolute, finding the things that are subjective is the most important thing.
+
+Methodological reductionism/Scientific reductionism/Occamism/Occam's razor - Explaining things should be continually reduced to the very simplest they can get, but no simpler.
+
+- Greedy reductionism - Too many people reduce too much to too little.
+
+Logical positivism - Philosophy should have the same rigor as [science](science.md), with strict rules for judging sentences as true, false, or meaningless.
+
+- Comtism - All metaphysics and theology should be replaced by a hierarchy of [sciences](science.md) that start with [math](math.md) at the bottom to [sociology](groups-member.md) at the top.
+
+Phenomenal conservatism - It's reasonable to assume things are as they appear unless there's a good reason to doubt it.
+
+Skepticism - Doubt things that are held as knowledge.
+
+- Postmodernism - Question absolutely everything.
+- Probabiliorism - While knowledge is impossible, strong beliefs for likely things is a good idea. Opposed to probabilism.
+- Probabilism - While knowledge is impossible, strong beliefs for practical things is a good idea. Opposited to probabiliorism.
+- Pyrrhonism/Pyrrhonian skepticism - All things are unprovable, so learn to be comfortable knowing nothing for certain.
+
+Structuralism - All elements of human culture are connected to a broader system.
+
+- Post-structuralism - Since all elements of human culture are relative, there's no certain connection between any of them but there's a type of absolute to all of it.
+
+Subjectivism - Things are subjective, and they either don't independently exist or it doesn't matter.
+
+Syncretism - Contradicting things can be converged and unified into one harmonizing thought pattern.
+
+### What is the most moral thing to do (greatest good)?
+
+Altruism - People are morally required to serve the "greater good".
+
+Antinatalism - Giving birth is a morally bad thing.
+
+Antinomianism - Nobody has to follow moral laws, typically referring to theology.
+
+Asceticism - The [good life](goodlife.md) requires refraining from pleasurable things in this world.
+
+Careerism - The greatest good comes in someone advancing their career, even if it risks them growing in other areas of life.
+
+Collectivism - People should serve the interests of the group, not the self. Opposite of egoism.
+
+Consumerism - The greatest good is attachment to physical things.
+
+Defeatism - The greatest good is to give up without a fight.
+
+Egoism (normatively)/Ethical egoism - People should serve their own self-interests, not the group. Opposite of collectivism.
+
+Emotionalism - Focusing on feelings is the greatest good.
+
+Hedonism (ethics) - Pleasure is the greatest good.
+
+- Epicureanism - Happiness comes from success in avoiding all forms of pain, in both mental worry and physical discomfort. Opposite of Stoicism.
+- Utilitarianism - An act is moral when it maximizes the most wellness for the most people.
+
+Humanistic naturalism - assuming naturalism (see above), humans are extensions of nature, so living naturally is the best way to live, which is against [industry](jobs-specialization.md) and [technology](technology.md).
+
+Immoralism - Since morality doesn't matter, people should strive for an aesthetic (see below) that imitates living forever.
+
+Intellectualism - Assuming rationalism (see above), reasoning is the best way to gain understanding.
+
+Irrationalism - Science is inferior to intuition, and the ultimate transcendence of humanity comes through art and conquering aesthetics.
+
+Mysticism - A good life comes from a direct experience that creates conscious awareness of ultimate reality, divinity, spiritual truth, or God.
+
+Objectivism - At least some actions are universally right or wrong.
+
+Pacifism - Peace is the greatest good.
+
+Perfectionism - People live [the good life](goodlife.md) to the degree that they successfully do things that are part of their nature.
+
+Randianism - People are best as heroic beings morally focused on [self-happiness](mind-feelings-happiness.md), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
+
+Role ethics - People are best defined by their role in a [family](people-family.md).
+
+Stoicism - Self-control of all types creates inner strength that builds harmony with the universe. Opposite of Epicureanism. Has largely been disproven by [psychology](science-social.md).
+
+### Do we have free will?
+
+Compatibilism/Soft determinism - Because we can [imagine](imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
+
+Incompatibilism - Free will and determinism (see above) cannot [logically](logic.md) coexist.
+
+Libertarianism (metaphysics) - Free will exists. Generally opposed to determinism.
+
+Open theism/Openness theology/Free will theism - Since God and humans have free will, God's knowledge and providing are flexible.
+
+Personalism - Only people are real, have value, and have free will.
+
+### How can mankind be morally saved by an all-knowing God?
+
+Soteriology - The theological study of salvation (soteria).
+
+- Arminianism - Man's faith, empowered by God's grace, gives the condition for salvation. Jesus saves everyone who wants him, but people can resist the Holy Spirit.
+- Calvinism/Janesenism - God's grace, empowering man, gives the condition for salvation. Jesus saves everyone by his decree, and people can't resist the Holy Spirit.
+- Fideism/Solifidianism - Reasoning is only somewhat relevant to [religious belief](religion-answers.md).
+- Gnosticism - Salvation depends on some degree of reasoning.
+- Molinism - God has 3 types of knowledge: a permanent and immutable knowledge, condition-based knowledge, and free knowledge that can move around and he doesn't have to know everything all at once.
+- Pelagianism - People are always able to choose good or evil, irrespective of any sin nature.
+- Semipelagianism - People must make the first step toward God, then God will complete their salvation.
+
 ## Aesthetics
 
 Aesthetics - The branch of philosophy concerned with the nature of [beauty and taste](values-quality.md) values.
@@ -82,142 +247,4 @@ Moral relativism - Presuming relativism (see above), morality is completely rela
 
 Moral universalism/Universalism - Moral statements can apply universally. A middle ground between moral absolutism and moral relativism.
 
-## [Government/Politics](groups-large.md)
-
-### Can we understand politics and society?
-
-Behavioralism - Political activity can be measured and explained with a [scientific](science.md), unbiased approach.
-
-Formalism (economic anthropology) - Far-reaching principles of economics can apply to *all* humanity.
-
-Interactionism - Large-scale elements of society form through [social interaction](people-conversation.md).
-
-Social atomism - Every [group of people](groups-small.md) should be assessed by each individual, since their collective [purposes](purpose.md) constitute the entire group's actions.
-
-### What's wrong with society?
-
-Anarchism - Remove rulers/governors.
-
-- Anarcho-primitivism - The shifts from [technology](technology.md) created a [hierarchy](mgmt-badsystems.md), so we must remove [specialization](jobs-specialization.md) and technology to create fairness.
-- Anarcho-syndicalism - Replace capitalism, wages, private property, and the state with labor unions for everything.
-
-Complementarianism - [Females and males](gender.md) are far too different to compete fairly. Contrasts with feminism.
-
-Environmentalism - [High-technology](technology.md) humanity destroys nature, so low-technology living is the solution.
-
-Feminism - Females should never be unequal to males. Contrasts with complementarianism.
-
-Marxism - Because of dialectical materialism (see above), all [social classes](classes.md) will eventually be destroyed as the weaker gain more [power](power.md) through social darwinism (see above).
-
-- Communism - Abolish all private property.
-- Distributism - Whenever anyone makes things, everyone gets a portion of it, with no central control over it.
-- Neo-Marxism - A broad term for things that adapt the Marxist theory to fit new social standards (e.g., critical race).
-- Socialism - Specific collectives control everything. It's often claimed as the transitionary stage into communism.
-
-Mohism - People are unevenly [loving](people-love.md) toward others, and should balance it more fairly.
-
-Reconstructivism - Society should continually rebuild and remake itself to become more perfect.
-
-### Who should have power in society?
-
-Communalism - The government should focus on protecting cultures and groups. Opposite of individualism.
-
-- Communitarianism - Because society forms [identity](identity.md) and [personality](personality.md), the individual *and* the community must be protected.
-
-Conservatism - [Traditions and cultures](people-culture.md) should be cherished.
-
-Egalitarianism/Equalitarianism - Everyone should be treated as equals.
-
-Individualism - The government should focus on protecting individuals. Opposite of communalism.
-
-Liberalism - Individuals should be free to do as they please.
-
-- Libertarianism - Individuals should be free to do as they please, without large group intervention.
-
-Mercantilism/Colbertism - A society should concern aim for the best interests of its own people.
-
-- Fascism - Everyone should be loyal to their nation, more than anything else.
-
-Nativism - Presuming ethnocentrism (see above), the original [culture](people-culture.md) of a [group](groups-large.md) has more important values than the culture of people joining the group.
-
-[Contractarianism](people-contracts.md)/Social contract - People give up some of their [power](power.md) to governments to protect the rest of their rights or maintain [order](people-boundaries-why.md).
-
-Social Darwinism - Some people are more fit to rule society than others.
-
-- Critical race - Some racially-divided [groups of people](groups-large.md) are so [powerful](power.md) that other groups are destined to always lag behind, so rulers must help those weaker races.
-
-Speciesism - Social status should be based on species membership, usually implying that humans have more value than other animals.
-
-Techno-progressivism/Democratic transhumanism - Everyone should equally access transhuman technologies.
-
-Youthism - Young people should have the same [rights](people-boundaries-why.md) as adults.
-
-### How should we pick our leaders?
-
-Capitalism/laissez-faire economy/free market economy/free enterprise system/economic liberalism/economic individualism - Everyone owns stuff and a free market sets the prices of everything.
-
-- Anarcho-capitalism/Voluntaryism - The private sector's free market, not the natural monopoly of the government, should control everything.
-
-Democracy - The subjects should choose their rulers.
-
-- Associationalism/Associative democracy - Voluntary and democratically self-governing associations should run as much of society as possible.
-
-Political absolutism - One person should hold all the power.
-
-- Enlightened absolutism - One person who does things that benefit the subjects should hold all the power.
-
-Secularism - The government shouldn't include [religion](religion-answers.md) in its rule.
-
-Theocracy - The government should rule by a specific [religion's](religion-answers.md) doctrine.
-
-- Islamism - Everyone must abide by the Qu'ran's Sharia Law.
-
-### How should we enforce laws?
-
-Authoritarianism - Leaders' power should be used with extreme force, in domains that the subjects will often not like.
-
-- Totalitarianism/Statism - The government should control nearly every part of public and private behavior.
-
-Formalism (legal) - The fairness of the process is more important than its outcomes.
-
-Individualism (politics) - Governments should protect the best interests of individuals, not groups.
-
-Legal interpretivism - [Laws](people-rules.md) are not a set of facts or data, but frameworks made by lawyers, and completely open to interpretation. They also dictate [morality](morality.md). The opposite of natural law.
-
-Legal positivism/Positive law - Human beings made laws, so they're not necessarily ethical or moral. Distinct from natural law.
-
-- Legal naturalism - Natural law itself is simply made by society.
-
-Natural law - There are specific, unaltered [patterns](humanity-universals.md) in human nature that laws must conform with to be ethical. Distinct from positive law.
-
-- Legal realism - Laws should reflect the natural laws of [science](science.md).
-
-Legalism - Making laws should follow a mechanical, logical way of interpreting laws from previous rulings, regardless of the context those laws were made in.
-
-- Original intent/Originalism - The laws should be interpreted by the [purpose](purpose.md) the law-writers were trying to achieve.
-
-## Philosophy's [Purpose](purpose.md) and [Culture](people-culture.md)
-
-Aristotelianism/Perpatetic school/Scotism - Start with the facts that experience gives things.
-
-- Neo-Aristotelianism - See things the way the [creators](creations.md) originally saw it.
-
-Cognitivism - Sentences people say come from their brain, and can be declared as [logically](logic.md) true or false.
-
-Contextualism - People can only understand something within the context where something happens.
-
-Eclecticism - To fully understand things, you need more than 1 set of assumptions and have to look at it from different viewpoints. Syncretism, but more broad.
-
-Particularism - Ask "what do I know?" before "how do I know?"
-
-Platonic school - Start with the ideals, then work downward into the experiences.
-
-Scholasticism/Dialectical method - Use conversations between opposing views to draw distinctions and resolve contradictions.
-
-Sophism (ancient) - Teaching with a heavy emphasis on virtue.
-
-Sophism/Sophistry (modern) - Giving an illogical argument, especially to deceive.
-
-Thomism - Someone should accept truth, no matter how they found it.
-
-Truth claim - A [logical](logic.md) sentence stated as either true or false, and claimed to be true.
+[Continued](glossary-philosophy-3.md)

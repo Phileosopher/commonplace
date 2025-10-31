@@ -123,7 +123,7 @@ Large churches are often easier to attend, but tend to be impersonal.
 - The downside of the main service is that you can easily stay anonymous for the entire performance.
 - Instead of *only* attending the larger congregation, find connections with others in small groups or ministries.
 
-Joining a new church is sometimes difficult when we don't have [connections](people-4_friends.md) to people in that church already.
+Joining a new church is sometimes difficult when we don't have [connections](people-friends.md) to people in that church already.
 
 - However, if you're willing to follow Jesus into eternity, start by getting to know a few strangers.
 - Going to a healthy church will give plenty of [opposition from Satan](spiritual-warfare.md).
@@ -159,7 +159,7 @@ Worship God at whatever church you go to.
 
 - Sometimes you may have to cycle between churches to find a healthy church body.
 - Don't let that church's flaws interfere with your [devotion to God](identity.md).
-- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-4_friends.md) ([Matthew 13:24-30](https://biblehub.com/bsb/matthew/13.htm)).
+- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) ([Matthew 13:24-30](https://biblehub.com/bsb/matthew/13.htm)).
 
 Wherever you go, [give freely](church-serve.md).
 

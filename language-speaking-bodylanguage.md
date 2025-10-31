@@ -1,5 +1,5 @@
 
-# How to use body language            
+# How to use body language
 
 People create their first impression from your body language when they first see you:
 
@@ -14,7 +14,7 @@ Most body language is subconscious:
 - Copy your feelings naturally to your body and learn to move freely.
 - Always turn your entire body to the person you're speaking to.
 - Imagine how valuable that person is (or can be) and fully focus on that, and your body language will reflect that openness.
-  - When you act as though you like someone, you'll often earn their respect and build a [bond](people-4_friends.md).
+  - When you act as though you like someone, you'll often earn their respect and build a [bond](people-friends.md).
 
 Your body will clarify your words:
 

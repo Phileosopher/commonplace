@@ -23,5 +23,5 @@ Learn to enjoy passing time with solitary activities:
 
 If you can, try to go to more social events:
 
-- [Making friends](people-4_friends.md) takes time, so don't expect immediate results.
+- [Making friends](people-friends.md) takes time, so don't expect immediate results.
 - Even if it's *not* your preference, all you need to do is find one connection with someone within the crowd.

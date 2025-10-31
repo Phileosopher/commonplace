@@ -21,7 +21,7 @@ While we can debate the extent of "freedom", slavery in modern civilization is s
 - [Debt](money-2_debt.md) holders when their loans have a high interest or arbitrary terms
 - Incarcerated individuals
 
-APPLICATION: The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories.md) people interpret about it.
+APPLICATION: The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories-why.md) people interpret about it.
 
 And, since people can make decisions on them, some things are *not* entirely slavery:
 

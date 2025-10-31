@@ -42,13 +42,6 @@ Some situations will make your unemployment situation far more severe:
 - A shortage of skills proportional to your age (e.g., a college graduate who can't clean a gutter)
 - Failing to have had [money saved](money-3_budget.md) for the situation
 
-Scammers target desperate, poor, unemployed people with "job offers", so watch for anything suspicious:
-
-- Email-only communications
-- A vague job description
-- Unreasonably high pay for the work involved
-- They're requesting for money or "administration fees"
-
 If you receive severance pay or government unemployment, don't treat it as guaranteed:
 
 - Stockpile all your money until the next job comes in.
@@ -73,6 +66,29 @@ You might see the unemployment as God's will and may want to pursue full-time mi
 - While discovering [God](god.md) is easiest in the darkest period of your life, it's a terrible place to make a far-reaching decision, so take each day at a time and don't make long-term commitments until you're in a safer place.
 - Physical success is loosely connected to [spiritual success](spiritual-exercises.md), so humbly consider your record so far.
 - If you weren't successful in your current career path, your efforts to become a professional minister will likely deter others from your religion.
+
+As time persists, you will generally travel through a few stages in response to being unemployed:
+
+1. Shock (i.e., denial)
+   - Unless you've been expecting you'll leave, it will take at least a few days to a few weeks to adjust to the new circumstances.
+   - While you may hunt for a new job, it's more likely that you'll have to [grieve the loss](mind-feelings-sadness.md) of that portion of your lifestyle. 
+2. Jaded
+   - At this point, you'll be [applying for other jobs and networking](jobs-4_hunt.md) with everyone.
+   - You will be feeling a state of prolonged [anger](mind-feelings-anger.md), which will channel into applying everywhere.
+   - This will be the most productive point in the process.
+3. Discouragement
+   - Within at least a few weeks or months, you'll run out of willpower to keep applying for another job.
+   - At this point, you start becoming more vulnerable to scams, and will be more willing to take a role you normally wouldn't consider.
+4. Despair
+   - After 2-6 months, you'll lose motivation to keep looking.
+   - While you'll probably keep hunting, the constant discouragement will likely mean you'll be slower to act in general out of [distrust](trust.md) that the next opportunity is legitimate.
+
+Scammers target desperate, poor, unemployed people with "job offers", so watch for anything suspicious:
+
+- Email-only communications
+- A vague job description
+- Unreasonably high pay for the work involved
+- They're requesting for money or "administration fees"
 
 ## Look outside your work experience
 

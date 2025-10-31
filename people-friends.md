@@ -241,9 +241,9 @@ Broaden communication with them when possible:
 - If a new person joins a group, call out the other people by name to give them a chance to memorize them.
 - Text more than social media, and call more than text.
 
-Finally, always [look for new friends](people-4_friends-hunt.md) wherever you go.
+Finally, always [look for new friends](people-friends-hunt.md) wherever you go.
 
-- Even if you're only making acquaintances, they'll often grow as [people change](people-changes.md) and [some friendships turn sour](people-4_friends-bad.md).
+- Even if you're only making acquaintances, they'll often grow as [people change](people-changes.md) and [some friendships turn sour](people-friends-bad.md).
 
 ## Work to keep good friends
 

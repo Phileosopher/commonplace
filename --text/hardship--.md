@@ -1,11 +1,4 @@
 
-PSYCHOLOGICAL STAGES OF UNEMPLOYMENT
-
-1. shock (i.e., denial)
-2. Jaded (anger prolonged)
-3. Discouragement
-4. Despair
-
 ## hardship test - me
 
 in a crisis or chaotic situation, I calm myself and focus on taking useful actions

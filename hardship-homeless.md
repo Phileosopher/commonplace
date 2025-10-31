@@ -10,7 +10,7 @@ When you have less than a month's worth of expenses left, start planning to move
 To survive, you must be able to sleep, eat, and hold things:
 
 - [Sleeping](sleep.md) simply requires a flat enough surface that's moderately soft and warm enough that you won't freeze to death, though you can adapt to *anything* within a few weeks.
-- [Eating](body-2_diet.md) requires getting [enough nutrients](body-4_health.md), though storing and preparing food can often be challenging with limited access to electricity.
+- [Eating](body-diet.md) requires getting [enough nutrients](body-health.md), though storing and preparing food can often be challenging with limited access to electricity.
 - Storage will be your worst challenge, though measurably less if you're located in the same region for a while.
 
 Your success will be determined by how [creative](mind-creativity.md) you can be.
@@ -26,7 +26,7 @@ How far you downsize and where you move depends on a few limits:
    - More specifically, you must specify which items can go to storage and which items must stay readily available.
 3. Who can you rely on, and for what?
    - Even if someone won't let you spend the night, they're often willing to hold on to your things temporarily.
-   - But, since you're asking a favor, make plans to repay them later or [lose their friendship](people-4_friends.md).
+   - But, since you're asking a favor, make plans to repay them later or [lose their friendship](people-friends.md).
 
 You'll want to find a "safe" place to gather yourself in case you need privacy or have to wait:
 

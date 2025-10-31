@@ -12,7 +12,7 @@ Meditation is low-effort and easy enough to do almost anywhere:
 - Repeat a phrase over and over.
 - Pray a mantra repeatedly or slowly process something you're reading.
 - Fixate on familiar or calming music.
-- Go for a walk or [work out](body-3_exercise.md).
+- Go for a walk or [work out](body-exercise.md).
 - Deeply focus on a [routine task](success-4_routine.md).
 
 The ability to meditate for a long time is rare, and things like [technology](technology.md) and [the fear of death](hardship-death.md) make meditation [harder in modern society](information.md).
@@ -55,9 +55,9 @@ Meditation adds an additional mental state:
 
 Meditation should be habitual:
 
-- Most aspects of living well are one-time solutions (e.g., [making friends](people-4_friends.md)).
+- Most aspects of living well are one-time solutions (e.g., [making friends](people-friends.md)).
 - Each day we meditate, we manage the new problems of that day.
-- In that sense, meditation should be seen like [weight management](body-2_diet.md), but for the mind.
+- In that sense, meditation should be seen like [weight management](body-diet.md), but for the mind.
 
 ## The method for meditation
 
@@ -154,7 +154,7 @@ F. Make a habit of prolonged awareness:
 - Only improve yourself in that meditative state.
   - Any time you become anxious or stressed, realign yourself with meditation.
   - Make a routine to realign throughout your day.
-  - Stay in this frame of mind when walking, driving, studying, [socializing](people-1_why.md), or [working](success-3_goals.md).
+  - Stay in this frame of mind when walking, driving, studying, [socializing](people-why.md), or [working](success-3_goals.md).
 - When you feel [anxious or uneasy](mind-feelings-fear.md), force yourself to stop and slow down.
 - Learn to disconnect each individual thought from the other sequential thoughts and actions that flow from them.
 
@@ -193,7 +193,7 @@ Reflect on possibilities:
 
 Reflect on the people around you:
 
-- Learn how to expand your understanding of [how other people behave and think](people-1_why.md).
+- Learn how to expand your understanding of [how other people behave and think](people-why.md).
 - Accept everything you can't change regarding other people, including [conflicts with others](people-conflicts.md) and [in your relationship](relationships-why.md).
   - Examine the social context of what others are saying and doing, including the fact that you're *always* present for them.
 - Take the time to [analyze](logic.md) and consider typically agreed-upon things more thoroughly.

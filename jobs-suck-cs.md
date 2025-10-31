@@ -99,7 +99,7 @@ If you do find yourself in this situation, you have a few options:
 
 Their only hope is to [find a smaller company](jobs-2_goals.md) or [become their own boss](entrepreneur-1_why.md).
 
-However, if you're [losing sleep](sleep.md), your [health is slipping](body-4_health.md), and you're [miserable](mind-feelings-happiness-stress.md), find a new job as fast as possible:
+However, if you're [losing sleep](sleep.md), your [health is slipping](body-health.md), and you're [miserable](mind-feelings-happiness-stress.md), find a new job as fast as possible:
 
 - When you toil nonstop, you're not [making yourself more efficient](success-4_routine.md) or expanding your skills.
 - Working tirelessly means you're not [building out your professional network](jobs-4_hunt.md) as much as you should, both inside *and* outside the company.

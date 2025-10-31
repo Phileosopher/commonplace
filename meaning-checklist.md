@@ -7,7 +7,7 @@ This is a checklist of everything you routinely need to find [meaning](meaning.m
 
 Have you [eaten well](cooking.md)?
 
-Did you [work out](body-3_exercise.md)?
+Did you [work out](body-exercise.md)?
 
 Have you had enough water (preferably filtered)?
 
@@ -53,11 +53,11 @@ Have you had a meaningful [conversation](people-conversation.md)?
 
 Have you given someone a compliment?
 
-Have you talked with a trusted [friend or family member](people-4_friends.md)?
+Have you talked with a trusted [friend or family member](people-friends.md)?
 
 ## Weekly Physical
 
-Has your [weight](body-2_diet.md) improved?
+Has your [weight](body-diet.md) improved?
 
 Have you gotten stronger?
 

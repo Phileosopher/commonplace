@@ -12,7 +12,7 @@ A little preventative maintenance can go a long way toward your safety:
 - When your body temperature reaches 105 degrees, your vital organs are at risk of failure.
 - Having a beard can help with asthma and allergies, and will also protect facial skin from the sun's radiation.
 
-Maintain a healthy [diet](cooking.md), avoid too much [alcohol](fun-alcohol.md) or drugs, and [manage your weight](body-2_diet.md) correctly.
+Maintain a healthy [diet](cooking.md), avoid too much [alcohol](fun-alcohol.md) or drugs, and [manage your weight](body-diet.md) correctly.
 
 Closely watch symptoms as they arise, but don't presume the worst:
 

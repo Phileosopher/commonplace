@@ -67,9 +67,13 @@ Fleeing felon rule - it's lawful to use force (including deadly force) against a
 
 Massiah doctrine - A confession obtained without a defendant's right to counsel (i.e., elicited by the police directly from them) is inadmissible in a court, holds up the 6th Amendment
 
+Moment of threat rule - police are free to fire when they are in a moment where they are under threat, contrast to "totality of the circumstances"
+
 Physical proximity doctrine - preparing and attempting a crime don't form a clear standard, so preparatory acts are considered stronger evidence of action if the preparatory act is physically closer to the completed crime, mixes with dangerous proximity doctrine
 
 Stand-your-ground law - aka "line in the sand" or "no duty to retreat" law, people may use deadly force when they reasonably believe it necessary to defend against certain violent crimes, in contrast with duty to retreat
+
+Totality of the circumstances rule - police are only permitted to fire when the circumstances dictate in all surrounding contexts that they are under threat of being harmed, contrast to "moment of threat"
 
 ## Germany
 

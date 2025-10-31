@@ -28,7 +28,7 @@ Even *extremely* busy people have room for prayer:
 - Time in the bathroom
 - Commuting to and from work
 - During routine or mindless work
-- Quiet, non-thought times during [personal hobbies](fun.md) and [exercise](body-3_exercise.md)
+- Quiet, non-thought times during [personal hobbies](fun.md) and [exercise](body-exercise.md)
 
 ## Things worth discussing with Him
 

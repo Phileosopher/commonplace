@@ -23,7 +23,7 @@ Beliefs
 [Logic](logic.md)
 
 - Invalidate premises to reposition or open up the possibilities for reasoning.
-- Add new premises that change the [story](stories.md), typically intensifying it.
+- Add new premises that change the [story](stories-why.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
 - Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](people-decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
 - Make someone doubt and question [understanding](understanding.md), [perceptions](people-image-why.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
@@ -47,7 +47,7 @@ Word Choice - Additions
 
 - Include adjectives to modify the present image of something (e.g., "The People's Democratic Republic of North Korea").
 - Use the word "free" to imply an obvious [decision](people-decisions.md) while hiding other costs.
-- Borrow a different word that evokes a [feeling](mind-feelings.md) formerly unrelated to the value, which can *completely* rearrange the [story](stories.md).
+- Borrow a different word that evokes a [feeling](mind-feelings.md) formerly unrelated to the value, which can *completely* rearrange the [story](stories-why.md).
 
 Math
 
@@ -84,7 +84,7 @@ Comparing [Values](values.md)
 
 Feelings Comparison
 
-- Use social proof with [anecdotes](stories.md) of others' experiences.
+- Use social proof with [anecdotes](stories-why.md) of others' experiences.
 - Signal [wealth or social status](classes.md) to others with a behavior or expensive trinket/clothing.
 - Counter-signal as a high-status person with a [lower-class](classes.md) behavior or trinket/clothing to evoke relative poverty or sincerity.
 - Use a loosely related metaphor or comparative story to explain the [results](results.md) of something.
@@ -135,7 +135,7 @@ Pressure
 
 Feelings
 
-- Use imagery for people to [imagine](imagination.md) something enough that they [feel](mind-feelings.md) a [story](stories.md) around the stated thing.
+- Use imagery for people to [imagine](imagination.md) something enough that they [feel](mind-feelings.md) a [story](stories-why.md) around the stated thing.
 - Choose specific phrases that draw associated [feelings](mind-feelings.md) to the thing.
 - Use [humor](humor.md) to hide a message.
 
@@ -193,7 +193,7 @@ Public [Image](people-image-why.md)
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
 - Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](politics-leftism.md)).
 - Use [authoritative](power.md)-sounding labels (e.g., "association", "endowment", "coalition", "opportunity fund")
-- Establish [traditions](people-culture.md) that imply [stories](stories.md) about the organization.
+- Establish [traditions](people-culture.md) that imply [stories](stories-why.md) about the organization.
 - Donating to other organizations that serve the public good.
 
 Blame

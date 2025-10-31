@@ -20,7 +20,7 @@ As a bare minimum, make sure you have the following:
 - Portfolio website as a central hub for all your projects
 - LinkedIn account that points to your work
 
-For [front-end work](computers-sofware-webdev.md), you may have a more nuanced public image, but maintaining a public image *really* doesn't take much work or [creativity](mind-creativity.md). All you need is to publish what you're already building or have built, and it's typically an [impressive story](stories.md) if you practice [expressing it correctly](language-writing.md). 1-2 blog posts or a public code repository can go a *long* way.
+For [front-end work](computers-sofware-webdev.md), you may have a more nuanced public image, but maintaining a public image *really* doesn't take much work or [creativity](mind-creativity.md). All you need is to publish what you're already building or have built, and it's typically an [impressive story](stories-why.md) if you practice [expressing it correctly](language-writing.md). 1-2 blog posts or a public code repository can go a *long* way.
 
 Hiring managers want to see you actually did something, *not* that you completed many tutorials, so focus more on making interesting projects than on official certifications. Often, you can get more mileage by adding a [creative flair](mind-creativity-how.md) to an *existing* project you've already completed (e.g., a boring calculator you made now says exclamations like "cool!" or "not today!" about the results) over slogging through a course on React Native.
 

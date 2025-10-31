@@ -15,7 +15,7 @@ Though it's not as common as the indirect approach, there are several ways an en
 2. Eject them from the group entirely
 3. [attack them](people-conflicts-war-why.md) if they can successfully create another group
 
-Leaders can also adapt [language](language.md) to represent the people paranoid about conspiracies as [fringe](trends.md) believers, then destroy their [credibility](people-image-why.md) in the process. In response, many of those people will often feed into their [fears](mind-feelings-fear.md) and reinforce unhealthy [bias](mind-bias.md) in their [stories](stories.md), further destroying their credibility.
+Leaders can also adapt [language](language.md) to represent the people paranoid about conspiracies as [fringe](trends.md) believers, then destroy their [credibility](people-image-why.md) in the process. In response, many of those people will often feed into their [fears](mind-feelings-fear.md) and reinforce unhealthy [bias](mind-bias.md) in their [stories](stories-why.md), further destroying their credibility.
 
 Often, they'll be [portrayed](people-image-why.md) as the [martyrs of the trend](trends.md). This doesn't mean those people were necessarily [noble](morality.md), though. Those people were often [fairly](morality-justice.md) outmaneuvered by someone who out-succeeded them. Other times, they simply had a very confrontational [personality](personality.md) against *any* [authority figure](people-rules.md).
 

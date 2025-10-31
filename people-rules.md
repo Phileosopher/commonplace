@@ -57,7 +57,7 @@ APPLICATION: Rules are only valid if they transcend [culture](people-culture.md)
 
 Therefore, the best rule system has very few rules which are universally applied and *very* well-enforced.
 
-Since stated rules have no room for the nuances and [stories](stories.md) that accompany [reality](reality.md), they can be utterly [devastating](hardship-ptsd.md) to [outlier](trends.md) individuals in a group if the people in power don't employ a case-by-case judgment. In practice, the rules are the culture's likely [responses](people-decisions.md) to events.
+Since stated rules have no room for the nuances and [stories](stories-why.md) that accompany [reality](reality.md), they can be utterly [devastating](hardship-ptsd.md) to [outlier](trends.md) individuals in a group if the people in power don't employ a case-by-case judgment. In practice, the rules are the culture's likely [responses](people-decisions.md) to events.
 
 Further, the rules must be maintained evenly. Detaining, impeding, or killing a person can provoke dramatic [distrust](trust.md) from that person's [family](people-family.md), [friends](people-friends-why.md), and bystanders about the leaders' [justice](morality-justice.md) if a technicality permits someone else to go free after performing a similar action:
 
@@ -100,7 +100,7 @@ If there is a hierarchy of power, it's almost guaranteed each tier will have the
 
 The exclusive [power](power.md) to make [rules over others](rules-methods.md) comes with the very legitimate risks of people in control who want to keep their power.
 
-Rules, when properly enforced, are *[supposed](imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-4_health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
+Rules, when properly enforced, are *[supposed](imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
 
 APPLICATION: There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
@@ -184,7 +184,7 @@ More rules become harder to enforce, but most rule-makers will make more rules w
 
 One of the most common forms of redistributing who makes the rules comes through the concept of voting. By giving each person an equal measure in the [decision](people-decisions.md), the majority can determine what the group [does](results.md).
 
-However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
+However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories-why.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
 The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](people-decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
 

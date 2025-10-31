@@ -30,7 +30,7 @@ By using technology, we can do less work to achieve more [results](results.md):
 - Moving boulders requires operating controls with our hands instead of lifting with our whole body.
 - Transporting ourselves requires operating controls with our hands and feet instead of running or using a trained animal.
 - We can gain *much* quicker [understanding](understanding.md) by using [media](creations.md) to [create](mind-creativity.md) and [share](people-conversation.md) things.
-- By storing [media](information.md), we can use technology to remember things so we don't have to. Or, more often, send a [good story](stories.md) to others.
+- By storing [media](information.md), we can use technology to remember things so we don't have to. Or, more often, send a [good story](stories-why.md) to others.
 
 From one development to the next, these magnifications give an [exponential](math.md) yield. One person with today's technology has more [power](power.md) for some [purposes](purpose.md) than an entire village 500 years ago, and someone 500 years from now will appear to us as if they were magicians.
 
@@ -128,7 +128,7 @@ Frequently, leaders declare certain technologies (e.g., weapons, drugs) [evil](m
 
 Typically, because of the way technologies develop, they create waste, though the technology is frequently *far* better than the downsides of its [pollution](politics-leftism.md). Like any other [creation](mind-creativity.md), refining the technology can remove that waste, but most of the creators aren't concerned with the [damage](results.md) they inflict while creating. There's no reliable way to [regulate](people-rules.md) this without stifling the [creative process](mind-creativity-how.md) until the technology has reached [full maturity](trends.md).
 
-Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-3_exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
+Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
 
 Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
 
@@ -136,7 +136,7 @@ When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-w
 
 ## Limits
 
-When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](people-culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
+When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](people-culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories-why.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
 
 People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](people-decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
 

@@ -6,7 +6,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
 - Be patient with yourself and your thoughts to let yourself work through the pain:
   - Visualize yourself as a small child, as well as everyone else involved.
   - Talk to yourself like you would talk to someone you [love](people-love.md).
-  - Talk to yourself or a [friend](people-4_friends.md) about how you feel.
+  - Talk to yourself or a [friend](people-friends.md) about how you feel.
 - Crying is one of the most effective ways to release trauma.
   - If you can't cry, yawning also releases stress.
 - Focus on [meditative](awareness-meditation.md) deep breathing:
@@ -15,7 +15,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
   3. Hold your breath for 7 seconds.
   4. Take 8 seconds to exhale, then repeat.
 - Focus on [repetitive, mindless tasks](success-4_routine.md) to relieve tension:
-  - [Cleaning](home-housekeeping.md) and [exercise](body-3_exercise.md) helps you feel a direct improvement.
+  - [Cleaning](home-housekeeping.md) and [exercise](body-exercise.md) helps you feel a direct improvement.
   - Playing Tetris or other video games may help break from severe trauma, but only for a few hours at a time.
   - Avoid anything that takes a long time, is unproductive, or can be unhealthy (such as marathon game sessions or overeating).
   - Pain medicine numbs emotional pain along with physical pain, but don't self-medicate unless you're making a critical decision you can't postpone.
@@ -48,7 +48,7 @@ When you are ready, release your feelings about anything you fear or resent:
 - For your brain stem to register, you may need to connect your feelings to a physical action to release them.
   - Press your tongue to the back of your teeth.
   - Tense every single muscle in your body, increasing in intensity, then release all of the muscles at once.
-  - [Go exercise](body-3_exercise.md).
+  - [Go exercise](body-exercise.md).
   - Stamp your feet.
   - Play a high-reflex video game.
   - Take ten deep breaths, focusing particularly on the exhaling.

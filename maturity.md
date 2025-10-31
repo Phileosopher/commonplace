@@ -88,7 +88,7 @@ Can I make my life count? (~40-64 years old)
 
 Was it okay to have been me? (~65+ years old)
 
-- Concerned with society, the entire world, and life itself to find [life achievements](success-1_why.md) and create [meaning and purpose](purpose.md) from the [past](stories.md).
+- Concerned with society, the entire world, and life itself to find [life achievements](success-1_why.md) and create [meaning and purpose](purpose.md) from the [past](stories-why.md).
 - If we're successful, we develop unbelievable [wisdom](understanding.md) and learn to renounce our connection with [physical things](humanity.md).
 - If we fail, we either become presumptuous about everyone or bitter at everything.
 - This stage determines how well we approach [death and mortality](mind-feelings-fear.md).
@@ -101,7 +101,7 @@ Among the other prejudices we make when encountering people, we tend to gauge ot
 
 When we look at someone younger, we track their maturity by how we [imagine](imagination.md) we were at that age. Often, for someone older, we only consider them immature if they behave *worse* than how we behave at our present age observing them (e.g., a 25-year-old not realizing a 50-year-old is immature until they behave like an adolescent).
 
-APPLICATION: Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war-why.md) for the younger generation. At that point, the older generation will either feel [shame](mind-feelings-shame.md) or arrogance, depending on how they [internalized the story](stories.md).
+APPLICATION: Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war-why.md) for the younger generation. At that point, the older generation will either feel [shame](mind-feelings-shame.md) or arrogance, depending on how they [internalized the story](stories-why.md).
 
 APPLICATION: As people age, their [decisions](people-decisions.md) are *always* more well-considered, but not always wiser. Wisdom requires adding [morality](morality.md) to [understanding](understanding.md).
 
@@ -158,7 +158,7 @@ Often, [marriage](relationships-marriage.md) can mix with a rite of passage, tho
 
 ## Advancing
 
-As a person gains more life experiences, their [decisions](people-decisions.md) start developing clear patterns. Over time, the best measure of a person will frequently be expressed through the series of changes they engage in. They will endure more rites of passage through their life stages, which will slowly form into an ever-adapting, slowly solidifying [story](stories.md).
+As a person gains more life experiences, their [decisions](people-decisions.md) start developing clear patterns. Over time, the best measure of a person will frequently be expressed through the series of changes they engage in. They will endure more rites of passage through their life stages, which will slowly form into an ever-adapting, slowly solidifying [story](stories-why.md).
 
 As someone keeps experiencing life and starts finding their ideal approach, they stop being as [malleable](people-changes.md) as when they were younger. This is a sign someone's experiences have conformed them to a distinct [personality](personality.md) and [expression](people-image-why.md), but anyone significantly younger will see them as more an "institution" than a changing and dynamic individual.
 

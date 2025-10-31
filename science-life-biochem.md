@@ -35,7 +35,7 @@ Depending on the belief system, the taxonomy is dramatically different:
 6. Genus - further classifications that delineate nuances in families
 7. Species - the final division that demarcates idiosyncrasies between various organisms
 
-While we've sequenced the genome to measure where various traits are located, we haven't *completely* sequenced it. Instead, as of 2023, we still use the "shotgun method", which involves grabbing chunks of gene sequences and using [statistics](math-stat.md) to model the rest.
+While we've sequenced the genome to measure where various traits are located, we haven't *completely* sequenced it. Instead, as of 2023, we still use "shotgun sequencing", which involves grabbing chunks of gene sequences and using [statistics](math-stat.md) to model the rest.
 
 Further reading:
 

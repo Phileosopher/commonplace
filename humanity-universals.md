@@ -6,13 +6,13 @@ NOTE: This is a list of what people *all* seem to do. We could argue about outli
 Abstractions
 
 - We all [perceive](people-image-why.md) stuff, then pull [patterns](symbols.md) off it to use elsewhere.
-- Those patterns reproduce all over our [understanding](understanding.md), including in [analysis](logic.md) and [stories](stories.md).
+- Those patterns reproduce all over our [understanding](understanding.md), including in [analysis](logic.md) and [stories](stories-why.md).
 - We then convert those abstractions into [values](values.md) and create [habitual](habits.md) thoughts around them.
 
 Aesthetics
 
 - We concern ourselves with the function and [appearance](people-image-why.md) of things, then assign graded [qualities](values-quality.md) to them.
-- We create captured [images](people-image-why.md) of [reality](reality.md), repetitive elements like music and poetry, and written or spoken [stories](stories.md).
+- We create captured [images](people-image-why.md) of [reality](reality.md), repetitive elements like music and poetry, and written or spoken [stories](stories-why.md).
 - This aesthetic bleeds into our sense of [identity](identity.md), and we adorn ourselves with clothing, [icons](symbols.md), hair fashions, and piercings that reflect it.
 
 Affection
@@ -25,7 +25,7 @@ Affection
 Amusement
 
 - We use the leftover time from our work to recreate.
-- Our [recreation](fun.md) can include imitating [reality](reality.md) with games, consuming [stories](stories.md) from others, listening or dancing to music, or partaking in [play and humor](humor.md).
+- Our [recreation](fun.md) can include imitating [reality](reality.md) with games, consuming [stories](stories-why.md) from others, listening or dancing to music, or partaking in [play and humor](humor.md).
 
 Change
 
@@ -34,9 +34,9 @@ Change
 
 Comparisons
 
-- We're perpetually making "like" comparisons to things, from [stories](stories.md) to [logic](logic.md).
+- We're perpetually making "like" comparisons to things, from [stories](stories-why.md) to [logic](logic.md).
 - Our comparisons express in [language](language.md) as analogies and metaphors.
-- Beyond our environment, we also tend to compare ourselves with others, and our [relationships](people-4_friends.md) with other relationships.
+- Beyond our environment, we also tend to compare ourselves with others, and our [relationships](people-friends.md) with other relationships.
 - This often inspires us to [compete](people-conflicts-why.md) with others, for [work](results.md) *and* [play](fun.md).
 
 Conflicts
@@ -48,8 +48,8 @@ Conflicts
 
 Companionship
 
-- We all need [friends](people-4_friends.md), even if they're non-human or merely in our [imagination](imagination.md).
-- Consuming [stories](stories.md) or [religious](religion-answers.md) devotion frequently serves as a reliable proxy for friendship.
+- We all need [friends](people-friends.md), even if they're non-human or merely in our [imagination](imagination.md).
+- Consuming [stories](stories-why.md) or [religious](religion-answers.md) devotion frequently serves as a reliable proxy for friendship.
 
 Conscious/Subconscious
 
@@ -103,7 +103,7 @@ Feelings
 
 - We experience a vast variety of [feelings](mind-feelings.md), which are the same feelings every other human feels, based on a reaction in the brain stem.
 - We're [happy](mind-feelings-happiness.md) when we don't feel anything is wrong, [scared](mind-feelings-fear.md) when we don't feel [safe](safety.md), angry when we feel [injustice](morality-justice.md), sad when we feel loss, and hopeful when we [believe](understanding-certainty.md) something.
-- Our feelings are the basis for how we express [sympathy and empathy](people-4_friends.md).
+- Our feelings are the basis for how we express [sympathy and empathy](people-friends.md).
 
 Focus
 
@@ -171,7 +171,7 @@ Math/Measuring
 Media
 
 - We gain [understanding](understanding.md) of ourselves by observing how others [do things](results.md).
-- We use [creations](creations.md) to [communicate](people-conversation.md) [stories](stories.md) with others when we believe it will increase their [understanding](understanding.md).
+- We use [creations](creations.md) to [communicate](people-conversation.md) [stories](stories-why.md) with others when we believe it will increase their [understanding](understanding.md).
 
 Money
 
@@ -255,7 +255,7 @@ Specializations
 
 Stories
 
-- We all form our thoughts into [narratives](stories.md) with a beginning, middle, and end.
+- We all form our thoughts into [narratives](stories-why.md) with a beginning, middle, and end.
 - That end usually implies a [value](values.md) that everyone ought to [understand](understanding.md).
 - Those stories often take on mythological proportions, folklore, and proverbial statements as [facts](reality.md) are obscured.
 

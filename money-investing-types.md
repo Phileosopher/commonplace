@@ -72,7 +72,7 @@ Stocks (to receive company dividends) - owning a portion of a company:
   - [Cars](autos.md)
   - [Logistics](logistics.md)
   - [Food](cooking.md)
-  - [Healthcare](body-4_health.md)
+  - [Healthcare](body-health.md)
 - If it's a foreign stock market, it may be subject to higher fees and more risks of political unrest sabotaging the investment.
 
 Mutual funds - multiple investors combine their money, then a fund manager buys and sells securities to increase returns:

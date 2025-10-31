@@ -3,7 +3,7 @@
 
 In healthy marriages, both spouses make tremendous sacrifices for each other:
 
-- From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-4_friends.md) and learning to [love](people-love.md).
+- From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-friends.md) and learning to [love](people-love.md).
 - Your relationship *can* be [fun](fun.md), but it also comes with responsibilities.
 - Whenever possible, stay emotionally supportive and available for them.
 - Respect them and their [decisions](people-decisions.md), even when they're not around.
@@ -110,7 +110,7 @@ Marriage is a *huge* commitment:
 
 Marriage involves sharing every aspect of daily life with your partner:
 
-- Relationships with their [friends](people-4_friends.md) and family
+- Relationships with their [friends](people-friends.md) and family
 - Expressions of affection, sexual desire, and sexual expression
 - Likes, dislikes, preferences, and [habits](habits.md)
 - [Sleep habits and cycle](sleep.md)
@@ -154,7 +154,7 @@ Your extended families *will* play a role in your shared life:
 
 Your old friendships will change:
 
-- As your relationship intensifies, especially when you marry, *all* your [friends'](people-4_friends.md) roles will change.
+- As your relationship intensifies, especially when you marry, *all* your [friends'](people-friends.md) roles will change.
   - Your single friends will be more distant, especially around your spouse.
   - Your newly married friends will compare their life with yours.
   - Your [dating/engaged](relationships-dating.md) friends will start considering either [a wedding](relationships-weddings.md) or breaking up.
@@ -224,7 +224,7 @@ Marriages need a strong foundation:
 - Healthy marriages are based more on commitment and trust than sentiment, feelings or love.
   - Love in marriage is wonderful and exciting, but commitment keeps spouses together through *all* their lives.
 - Mental disorders and personality defects don't necessarily ruin marriages, but a spouse's *response* to them will.
-  - [Practice good boundaries](people-3_respect.md) and [stay their friend](people-4_friends.md).
+  - [Practice good boundaries](people-3_respect.md) and [stay their friend](people-friends.md).
   - Don't complain about them to casual friends (e.g., coworkers or online).
   - Doing *everything* together can foster unhealthy codependency and destroy both your [happiness](mind-feelings-happiness.md), but doesn't necessarily end a marriage.
 - Shared interests alone don't keep a marriage together.

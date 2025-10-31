@@ -109,7 +109,7 @@ From there, Christians will start incurring public [shame](mind-feelings-shame.m
 
 - They'll start losing their [status and reputation](people-image-why.md) in their [communities](groups-small.md).
 - [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
-- Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-4_friends.md) will slowly alienate them.
+- Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-friends.md) will slowly alienate them.
 - Officials will forbid or restrict certain Christian practices like [public evangelism](evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
 - The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.
 - Even if the government doesn't get involved, it'll often require churches to register their gatherings and report to them.
@@ -163,7 +163,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 Irrespective of persecution, we must discover God for ourselves:
 
 1. The [culture](people-culture.md) of Christianity moves forward by powerful [language](language.md) that speaks [influential](power-influence.md) truth.
-2. A good sermon is a powerful [story](stories.md) that alludes to good theology.
+2. A good sermon is a powerful [story](stories-why.md) that alludes to good theology.
 3. Good theology is a strong [philosophy](philosophy.md) that anchors to the Bible.
 4. The [Bible](bible.md) is God's Word, which is the [creative](mind-creativity.md) output of the living God.
 
@@ -202,7 +202,7 @@ Even the devil makes mistakes:
 
 Through all the hardship, the Holy Spirit will *still* shine through:
 
-- Christians will lose [families](people-family.md), [friends](people-4_friends.md), [reputations](people-image-why.md), and [opportunities](power.md), and they'll *still* be joyful.
+- Christians will lose [families](people-family.md), [friends](people-friends.md), [reputations](people-image-why.md), and [opportunities](power.md), and they'll *still* be joyful.
 - While the free world has a difficult time [imagining](imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
@@ -315,7 +315,7 @@ We must perform vigils to fight solitude and loneliness:
 - Mentally travel around the world, praying for people you know of and their groups.
 - Rejoice with those who rejoice by imagining the details of their happiness outside prison ([Romans 12:15](https://biblehub.com/romans/12-15.htm)).
 - Recite Bible verses from memory, which is where all that prior [Bible study](bible-study.md) paid off.
-- Create [stories](stories.md) and [jokes](humor.md) as you [imagine](imagination.md) everything.
+- Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](imagination.md) everything.
 - While all this sounds like what crazy people do, staying mentally busy allows us to stay in a solitary situation indefinitely.
 
 Beware of the "moment of crisis":

@@ -88,13 +88,13 @@ Other drugs
   - Compulsive overeating
   - Sugar
   - Fast food
-- [Exercise](body-3_exercise.md)
+- [Exercise](body-exercise.md)
 - Drinking
   - Ritually drinking
   - Shotgunning drinks
   - Bars/pubs
   - Wine tasting
-- Media and [stories](stories.md)
+- Media and [stories](stories-why.md)
   - Books
   - Emails/web browsing
   - Movies/TV
@@ -157,7 +157,7 @@ Pain
 
 - Love/Romance
 - Sex (nymphomania)
-- [Friendships](people-4_friends.md)
+- [Friendships](people-friends.md)
 - [Family connections](people-family.md)
 
 [Spending](money-3_budget.md)/shopping

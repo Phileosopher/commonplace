@@ -8,7 +8,7 @@ Being in prison or jail is a psychological battle more than anything else:
 
 From the moment you're arrested, the police and law enforcement are *not* on your side:
 
-- Your best chance of survival comes through compliance with the prison guards, alongside making [friends](people-4_friends.md) on the inside.
+- Your best chance of survival comes through compliance with the prison guards, alongside making [friends](people-friends.md) on the inside.
 
 Until the sentencing is finalized, don't panic:
 

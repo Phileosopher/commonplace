@@ -27,7 +27,7 @@ We learn well when we enjoy what we're studying, so try to make learning fun (or
 - Build something out of the information.
 - Make a summarized format of all the material.
 - Connect what you learn to practical matters in the rest of your life.
-- Try studying [with friends](people-4_friends.md) to enjoy it more.
+- Try studying [with friends](people-friends.md) to enjoy it more.
 
 If you want to deeply understand the information, add variety:
 
@@ -92,7 +92,7 @@ Consider the time of day for studying:
 
 Eat a healthy meal to peak your blood sugar beforehand:
 
-- Eat a [balanced diet](body-2_diet.md) with an emphasis on healthy fats.
+- Eat a [balanced diet](body-diet.md) with an emphasis on healthy fats.
 - To stay steadily supplied, have a healthy, slow-digesting food like oatmeal.
 - On the other hand, an empty stomach has been scientifically proven to help focus.
 - Stay well-hydrated with water or herbal tea.
@@ -189,7 +189,7 @@ Focus intently the next time on any gaps in your [understanding](understanding.m
 - You should know the content well enough to teach it.
 - Reward yourself for accomplishing predefined milestones.
 
-[Find others](people-4_friends.md) who care about what you're studying and share your thoughts with them.
+[Find others](people-friends.md) who care about what you're studying and share your thoughts with them.
 
 The scientifically easiest way to remember things requires recalling something precisely when your brain is about to forget it (spaced repetition):
 

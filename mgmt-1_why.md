@@ -37,7 +37,7 @@ Our [religious tendencies](religion.md) mean we tend to draw behind the [image](
 - It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
 - Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
 
-Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-4_friends.md):
+Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-friends.md):
 
 - [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
 - Behavior that appears [decisive](understanding-certainty.md).
@@ -92,7 +92,7 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
 - Agreeableness must be average to above-average.
   - They'll often have to make goals and [decisions](people-decisions.md) without others' input.
   - They'll also need to confront [conflicts](people-conflicts.md) as they happen, which will likely include firing someone at least once.
-  - At the exact same time, they must win [friends](people-4_friends.md) over and avoid most conflicts *before* they become an issue.
+  - At the exact same time, they must win [friends](people-friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
   - Maintaining their composure is the only way to build and maintain others' [trust](trust.md) as being reliable.
 - The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](mind-neurodivergence.md) are unusually frequent compared to many other domains.
@@ -240,7 +240,7 @@ The manager's skills will need to be appropriate to the team's purposes:
 
 - Excellent communication skills.
 - Skill at [influencing others](power-influence.md) to their perspective.
-- [Curates their image](people-image-distortion.md) and [crafts stories](stories.md) to appear at least a little better than [reality](reality.md).
+- [Curates their image](people-image-distortion.md) and [crafts stories](stories-why.md) to appear at least a little better than [reality](reality.md).
 - Adapts to change and inspires others to it as well.
 - Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.

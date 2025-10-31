@@ -3,7 +3,7 @@
 
 Symbols are [value](values.md) patterns we've connected across our perceptions. They don't exist in [reality](reality.md), but [feel](mind-feelings.md) more real than what the symbol references.
 
-When we process [facts](reality.md), we use symbols to track patterns that create the [stories](stories.md) we eventually encode into our [memories](mind-memory.md).
+When we process [facts](reality.md), we use symbols to track patterns that create the [stories](stories-why.md) we eventually encode into our [memories](mind-memory.md).
 
 Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* more loudly in our [minds](humanity.md) than [perceptions](people-image-why.md) or [language](language.md) alone.
 
@@ -17,6 +17,8 @@ APPLICATION: Symbols resonate with feelings, and our eyes determine a *lot* of o
 
 People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts-why.md) typically comes through the [feelings](mind-feelings.md) they associate toward that group.
 
+APPLICATION: When we have no [love for others](people-love.md) in a different people group, we draw *massive* comparisons that imply [value systems](values.md) are irreconcilable when, in practice, they link together on many elements.
+
 Skill in [communication](people-conversation.md) allows us to use fewer symbols to say the same things. Expert writers can say more in three sentences than an awful writer can in ten pages.
 
 ## Power
@@ -27,7 +29,7 @@ Symbols are powerful. As an example, here's a quote from *The Matrix* movie:
 
 The visuals around the quote are merely two attractive guys in lots of leather in a poorly lit room. However, pondering the words or hearing it in the movie creates a profound thoughtful consideration. You visualize your routine and the implications of that statement, using details ([work](success-4_routine.md), [church](religion.md), [taxes](money-accounting.md)). If we analyze further, the quote draws us into the perpetual [uncertainty](trust.md) we live with and a possible answer to that vagueness that would allude to finding [meaning](meaning.md).
 
-We extrapolate an idea automatically from that quote because our [stories](stories.md) (and, more technically, [our memories](mind-memory.md)) are using constant symbols. Parsing further, certain [language](language.md) elements like sentence pacing and how nouns connect with each other can add even *more* symbolism.
+We extrapolate an idea automatically from that quote because our [stories](stories-why.md) (and, more technically, [our memories](mind-memory.md)) are using constant symbols. Parsing further, certain [language](language.md) elements like sentence pacing and how nouns connect with each other can add even *more* symbolism.
 
 ## Types
 
@@ -88,7 +90,7 @@ APPLICATION: Don't fall for symbolic association enough that your ability to per
 
 Beyond [religious iconography](religion.md), everyone creates symbolic associations and patterns *somewhere*. These represent through [emotional associations](mind-feelings.md) to unspoken [subconscious](unknown.md) things, and [trigger](habits.md) at weird and [unpredictable](imagination.md) times.
 
-Most efforts to distort appearances are [designed](purpose.md) to rebuild the symbols to fit a different [story](stories.md), and it usually comes through a few possible methods:
+Most efforts to distort appearances are [designed](purpose.md) to rebuild the symbols to fit a different [story](stories-why.md), and it usually comes through a few possible methods:
 
 1. Portray untrue ideas as if they were [true](reality.md).
 2. Portray true ideas as if they were untrue.
@@ -98,6 +100,6 @@ APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, 
 
 FURTHER APPLICATION: Don't waste too much time trying to [influence](influence.md) others' ideas without approaching the symbols. Typically, you'll need symbols of your own to make a difference.
 
-Either way, a firm [understanding](understanding.md) of [reality](reality.md) will deter most false [stories](stories.md). But, to the people who want to [believe](understanding-certainty.md) those stories, it'll *always* seem perfectly [reasonable](logic.md).
+Either way, a firm [understanding](understanding.md) of [reality](reality.md) will deter most false [stories](stories-why.md). But, to the people who want to [believe](understanding-certainty.md) those stories, it'll *always* seem perfectly [reasonable](logic.md).
 
 APPLICATION: Watch for patterns you may trigger in a [culture](people-culture.md) that's not your own. For example, the implication of breaking [rules](people-rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](classes.md).

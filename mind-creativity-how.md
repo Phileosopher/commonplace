@@ -28,7 +28,7 @@ To find unconventional solutions, you must let yourself think outside the conven
 Reacting to impulses or survival instincts always produces conventional results:
 
 - Learn [happiness](mind-feelings-happiness.md) and self-love to protect your sense of wellness.
-- [Sleep enough](sleep.md) and [stay physically active](body-3_exercise.md).
+- [Sleep enough](sleep.md) and [stay physically active](body-exercise.md).
 
 Stay constantly curious and perpetually interested in everything:
 
@@ -300,7 +300,7 @@ Find new, fun, and unfamiliar things to do:
 - Find a new hobby.
 - [Get a pet](fun-pets.md).
 - Finesse something you're already good at.
-- [Hang out with friends](people-4_friends.md).
+- [Hang out with friends](people-friends.md).
 - Read books.
 - Sing.
 - Watch films.
@@ -349,7 +349,7 @@ Since you have *no* idea when it'll happen, *always* keep a notebook with you.
 
 Learn patience and try to postpone any deadlines.
 
-Talk out your problem, whether by [writing](language-writing.md), to a [friend](people-4_friends.md), or to an inanimate object.
+Talk out your problem, whether by [writing](language-writing.md), to a [friend](people-friends.md), or to an inanimate object.
 
 If all else fails, you might have to begin without a good idea:
 
@@ -368,7 +368,7 @@ As much as physically possible, never start anything until you feel that creativ
 
 Many "creatives" destroy their future capability by using mind-altering [substances](addiction-substances.md):
 
-- While this *might* give you a new view of the world, it creates long-term [health problems](body-4_health.md).
+- While this *might* give you a new view of the world, it creates long-term [health problems](body-health.md).
 - It's far healthier to keep feeding your brain with healthy inputs instead of pushing it past its biological limits.
 
 ### I. Build the idea
@@ -512,4 +512,4 @@ The creative process is *not* the same as building it:
 As soon as you stop, you may lose it:
 
 - When we stop fostering our creativity for a couple weeks, we become stale and less effective almost instantly.
-- Like [weight management](body-1_why.md), we must have a [purpose](purpose.md) for what we want to achieve and stick with it to the end.
+- Like [weight management](body-why.md), we must have a [purpose](purpose.md) for what we want to achieve and stick with it to the end.

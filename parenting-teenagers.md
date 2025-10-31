@@ -105,7 +105,7 @@ Let them discover life beyond your control:
 - They aren't interested in what you want for them anymore.
 - Only give advice if they ask it
 - Accept who they are and not what you wanted them to be.
-- Honor their decisions the way an older [friend](people-4_friends.md) would.
+- Honor their decisions the way an older [friend](people-friends.md) would.
 
 Keep yourself savvy on popular culture:
 

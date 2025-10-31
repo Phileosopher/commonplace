@@ -60,7 +60,7 @@ These are the broad branches that most philosophers articulate.
 
 - [Since the 19th century](philosophy.md), philosophy has [deconstructively trended](trends.md) to where the branches themselves become subjected to endless debate.
 
-Our minds are framed on [stories](stories.md), meaning that *any* basis of understanding becomes the foundation for all the rest of the branches:
+Our minds are framed on [stories](stories-why.md), meaning that *any* basis of understanding becomes the foundation for all the rest of the branches:
 
 - For example, someone who defines [beauty](values-quality.md) as the purpose of all existence will then form the rest as subordinate to beauty.
   - Metaphysics is an inherently beautiful thing.
@@ -85,7 +85,7 @@ God designed [values and order](values.md) in our minds as an intentional discre
 
 - Within [our essence](humanity.md), we have a beautifully-constructed design that fits itself into a series of "[layers](https://gainedin.site/layers/)", traveling upward as a [network](https://gainedin.site/networks/) from subconscious animal reaction all the way to advanced, higher-order thinking.
 - Within nature, then, we create a desire to "[fix](https://adequate.life/fix/)" the inherent chaos that always floats within nature, and it represents as [creativity](mind-creativity.md).
-- Since God designed us, He directly [speaks](language.md) to us through [stories](stories.md) (including [bias](mind-bias.md)), held together by [symbolic associations](symbols.md).
+- Since God designed us, He directly [speaks](language.md) to us through [stories](stories-why.md) (including [bias](mind-bias.md)), held together by [symbolic associations](symbols.md).
 
 This entire design was made by God, and is an implementation of how He Himself creates that allows us to see a microcosm of Him through our actions.
 

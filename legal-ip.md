@@ -92,7 +92,7 @@ Disney has paid *numerous* legal fees to extend copyright laws.
 
 Copyright's laws are now broad enough that they inhibit [creativity](mind-creativity.md).
 
-- If an artistic industry has reached maturity, it's almost guaranteed to repeat the same [tropes](stories.md), notes, movements, and [symbols](symbols.md).
+- If an artistic industry has reached maturity, it's almost guaranteed to repeat the same [tropes](stories-why.md), notes, movements, and [symbols](symbols.md).
 - The entire conflict revolves around the philosophical concept of "newness", but [nothing is technically ever new](trends.md).
 - With enough [legal enforcement](legal-doctrines.md), attorneys can easily enforce copyrighted works from nearly a *century* ago.
 

@@ -8,7 +8,7 @@ Often, if you can't find a friend, you're simply not going to places you'd find 
   - Sit outside your home and make small talk with every single person who comes by.
   - Throw a block party and invite *all* your neighbors.
   - Volunteer at something you like (e.g., a club or [hobby](fun.md) group).
-  - Get involved in a [fitness](body-3_exercise.md), [sports](fun-sports.md), or martial arts community.
+  - Get involved in a [fitness](body-exercise.md), [sports](fun-sports.md), or martial arts community.
   - Get involved in [a church](religion.md).
 
 Most people passively seek friends and wait for others to make the first move:

@@ -113,6 +113,8 @@ Made a donkey speak ([Numbers 22:21-35](https://biblehub.com/numbers/22.htm)).
 
 Samson given tremendous strength ([Judges 14-16](https://biblehub.com/judges/14.htm)).
 
+Made a donkey wander off ([1 Samuel 9](https://biblehub.com/1_samuel/9.htm)).
+
 Killed a prophet with a lion ([1 Kings 13:3-30](https://biblehub.com/1_kings/13.htm)).
 
 Fed by ravens ([1 Kings 17:5-6](https://biblehub.com/1_kings/17.htm)).
@@ -153,15 +155,17 @@ Opening prison doors ([Acts 5:17-20](https://biblehub.com/acts/5.htm), [Acts 12:
 
 Gave elderly people a child ([Genesis 21:1-2](https://biblehub.com/genesis/21.htm), [2 Kings 4:11-17](https://biblehub.com/2_kings/4.htm), [Luke 1:5-25](https://biblehub.com/luke/1.htm)).
 
-Poison reversed ([Numbers 21:8-9](https://biblehub.com/numbers/21.htm), [2 Kings 4:38-41](https://biblehub.com/2_kings/4.htm), [Acts 28:3-6](https://biblehub.com/acts/28.htm)).
+Striking dead immediately ([Acts 5:1-10](https://biblehub.com/acts/5.htm), [Acts 12:23](https://biblehub.com/acts/12-23.htm)).
 
 Spontaneously killing people for disrespecting the Ark of the Covenant ([1 Samuel 6:19](https://biblehub.com/1_samuel/6-19.htm), [2 Samuel 6:6-7](https://biblehub.com/2_samuel/6.htm)).
+
+Resurrected from the dead ([1 Kings 17:17-24](https://biblehub.com/1_kings/17.htm), [2 Kings 4:18-37](https://biblehub.com/2_kings/4.htm), [2 Kings 13:20-21](https://biblehub.com/2_kings/13.htm), [Luke 7:11-17](https://biblehub.com/luke/7.htm), [John 11:38-44](https://biblehub.com/john/11.htm), [Matthew 28](https://biblehub.com/matthew/28.htm)/[Mark 16](https://biblehub.com/mark/16.htm)/[Luke 24](https://biblehub.com/luke/24.htm)/[John 20-21](https://biblehub.com/john/20.htm), [Acts 9:36-41](https://biblehub.com/acts/9.htm), [Acts 20:8-12](https://biblehub.com/acts/20.htm)).
+
+Poison reversed ([Numbers 21:8-9](https://biblehub.com/numbers/21.htm), [2 Kings 4:38-41](https://biblehub.com/2_kings/4.htm), [Acts 28:3-6](https://biblehub.com/acts/28.htm)).
 
 Destroyed a body part ([1 Kings 13:4](https://biblehub.com/1_kings/13-4.htm)).
 
 Restored a body part ([1 Kings 13:6](https://biblehub.com/1_kings/13-6.htm), [Luke 22:50-51](https://biblehub.com/luke/22.htm), [Matthew 12:9-13](https://biblehub.com/matthew/12.htm)/[Mark 3:1-5](https://biblehub.com/mark/3.htm)/[Luke 6:6-10](https://biblehub.com/luke/6.htm), [Acts 3:1-11](https://biblehub.com/acts/3.htm), [Acts 14:8-10](https://biblehub.com/acts/14.htm)).
-
-Resurrected from the dead ([1 Kings 17:17-24](https://biblehub.com/1_kings/17.htm), [2 Kings 4:18-37](https://biblehub.com/2_kings/4.htm), [2 Kings 13:20-21](https://biblehub.com/2_kings/13.htm), [Luke 7:11-17](https://biblehub.com/luke/7.htm), [John 11:38-44](https://biblehub.com/john/11.htm), [Matthew 28](https://biblehub.com/matthew/28.htm)/[Mark 16](https://biblehub.com/mark/16.htm)/[Luke 24](https://biblehub.com/luke/24.htm)/[John 20-21](https://biblehub.com/john/20.htm), [Acts 9:36-41](https://biblehub.com/acts/9.htm), [Acts 20:8-12](https://biblehub.com/acts/20.htm)).
 
 Leprosy cured ([2 Kings 5:10-19](https://biblehub.com/2_kings/5.htm), [Matthew 8:1-4](https://biblehub.com/matthew/8.htm)/[Mark 1:40-45](https://biblehub.com/mark/1.htm)/[Luke 5:12-15](https://biblehub.com/luke/5.htm), [Luke 17:11-19](https://biblehub.com/luke/17.htm)).
 
@@ -181,7 +185,7 @@ Paralysis cured ([Matthew 9:1-7](https://biblehub.com/matthew/9.htm)/[Mark 2:1-1
 
 Unspecified infirmity cured ([Luke 13:10-13](https://biblehub.com/luke/13.htm), [John 5:2-9](https://biblehub.com/john/5.htm), [Matthew 8:5-13](https://biblehub.com/matthew/8.htm)/[Luke 7:1-10](https://biblehub.com/luke/7.htm), [Matthew 9:18-25](https://biblehub.com/matthew/9.htm)/[Mark 5:21-43](https://biblehub.com/mark/5.htm)/[Luke 8:40-56](https://biblehub.com/luke/8.htm), [Acts 5:12-16](https://biblehub.com/acts/5.htm), [Acts 28:7-9](https://biblehub.com/acts/28.htm)).
 
-Striking dead immediately ([Acts 5:1-10](https://biblehub.com/acts/5.htm), [Acts 12:23](https://biblehub.com/acts/12-23.htm)).
+Cause insomnia ([Esther 6:`1](https://biblehub.com/esther/6-1.htm)).
 
 ### Smaller-Scale Other
 

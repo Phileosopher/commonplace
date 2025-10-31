@@ -223,7 +223,7 @@ If the public has become fully aware of something, it will keep itself as part o
 
 The oral tradition of sharing past trends keeps the trend alive, but as a "soft" [understanding](understanding.md) that misses many key details about the reason for that trend in the first place.
 
-The tradition of re-telling the [story](stories.md) [empowers](power.md) that trend to begin again in the future as a cycle with another generation. Without it, that new generation will rediscover it and the trend will start again as if it were [new](people-image-why.md).
+The tradition of re-telling the [story](stories-why.md) [empowers](power.md) that trend to begin again in the future as a cycle with another generation. Without it, that new generation will rediscover it and the trend will start again as if it were [new](people-image-why.md).
 
 As time persists, the trend will lose all sense of its original meaning. It'll get smashed together with other fashions of the time. Since our memory of [history](stories-storytellers.md) is [fuzzy](legacy.md), it'll lose progressively more context until it becomes the long-distant echoes of a mysterious practice. The [youth](maturity.md) will see it as a mark of human achievement or shame, depending on how the [culture](people-culture.md) values its elderly.
 
@@ -234,8 +234,8 @@ APPLICATION: If someone calls something "new", look for what it's similar to acr
 Sometimes, a trend-resistant [organization](groups-large.md) (e.g., [education](education.md) [industry](jobs-specialization.md)) will take give old trends from the past undue [praise](people-image-why.md) by virtue of their age. Often, they'll make a tedious mess of something originally intended for fun. Other times, history simply fades the [story](stories-storytellers.md):
 
 - Most clothing fashions of any artistic depiction are only the ceremonial wear, and people wore more mundane work clothes most of the time: Rome's senate didn't always wear togas, guards didn't always wear full gear, Reformation-era settlers didn't always wear buckled hats.
-- Hygiene in the Middle Ages was a well-honored value. However, it's [funnier](humor.md) to see the [peasantry](classes.md) clothed in more mud than clothing, so the [trope](stories.md) maintains itself.
+- Hygiene in the Middle Ages was a well-honored value. However, it's [funnier](humor.md) to see the [peasantry](classes.md) clothed in more mud than clothing, so the [trope](stories-why.md) maintains itself.
 - Ancient Greek and Roman art was vibrant and colorful. However, the paint wore off the marble, meaning the popular image was that white marble was the standard.
-- William Shakespeare's works are dry and dull for us to read. In his time, they were full of pop culture references, slang, base [humor](humor.md), and silly [stories](stories.md).
+- William Shakespeare's works are dry and dull for us to read. In his time, they were full of pop culture references, slang, base [humor](humor.md), and silly [stories](stories-why.md).
 - Poetry was once a song and dance, more like our modern-day rock concerts. Somewhere in between, [educators](education.md) removed the performance aspect and translating [languages](language.md) removed the rest of any flow it would have had.
 - Most classic films and music were the [best-quality](values-quality.md) offerings of a relatively homogeneous spread at the time they were [created](creations.md). We look at them as original because nobody imitates that style anymore, but most of them were just doing a [good job](results.md) at standard practice for the time.

@@ -87,6 +87,8 @@ Salus populi est suprema lex - The people's welfare is the supreme law
 
 De minimis non curat lex - The law does not govern unimportant things
 
+Res ipsa loquitur - The thing speaks for itself
+
 Communis hostis omnium - They are common enemies of all
 
 Violenti non fit injuria - To a willing person, injury is not done

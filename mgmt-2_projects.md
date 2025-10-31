@@ -47,7 +47,7 @@ With that idea in place, clarify the values you want to see with your team.
   1. Recruit - selecting people who share those values.
   2. Reward - promoting people who reflect those values.
   3. Release - letting go of people who *don't* share those values.
-- Closely consider the [story](stories.md) of the group and where it came from, since that determines where it'll go next.
+- Closely consider the [story](stories-why.md) of the group and where it came from, since that determines where it'll go next.
 
 Clarify any critical [customs](people-rules.md) or [habits](habits.md) that will reinforce those values.
 

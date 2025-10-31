@@ -96,7 +96,7 @@ APPLICATION: To find someone's actual opinion, ask for their advice for [resolvi
 
 We tend to have an [inner conflict](people-conflicts-inner.md), but many people with [trauma](hardship-ptsd.md) will [mix their trauma into what they believe about others' lives](people-boundaries-why.md). Some [political systems](politics-leftism.md) and [institutions](mgmt-badsystems.md) take advantage of this.
 
-Eventually, a person must decide: accept the new information they perceive, or believe something is "testing" their faith. Either way, they're rebuilding their [story](stories.md), either by changing the [logical](logic.md) conclusion (aka "changing their mind") or adding/removing premises.
+Eventually, a person must decide: accept the new information they perceive, or believe something is "testing" their faith. Either way, they're rebuilding their [story](stories-why.md), either by changing the [logical](logic.md) conclusion (aka "changing their mind") or adding/removing premises.
 
 APPLICATION: Hypnosis is all around us (especially through our [past trauma](hardship-ptsd.md), [public media](creations.md), and [politics](politics-leftism.md)), but we can use it for our [purposes](purpose.md). By repeating something specific, we can channel our subconscious (e.g., "I will find a new job by the end of March."). It's [the secret to most success](success-2_attitude.md).
 
@@ -129,4 +129,4 @@ APPLICATION: Hope is based around a [purpose](purpose.md), so if someone feels h
 
 Since we trust our [habits of thought and action](habits.md), the only way to prevent a crisis of faith from even starting is to continually [revisit old habits](https://adequate.life/habits/) and [beliefs](awareness.md).
 
-APPLICATION: It's extremely difficult to change a person's opinions. The only way to do this is to [influence](power-influence.md) them with a compelling [story](stories.md) about an alternative opinion, then wait.
+APPLICATION: It's extremely difficult to change a person's opinions. The only way to do this is to [influence](power-influence.md) them with a compelling [story](stories-why.md) about an alternative opinion, then wait.

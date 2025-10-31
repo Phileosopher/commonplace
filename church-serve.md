@@ -74,7 +74,7 @@ Request money/resources
 
 Visit people
 
-- Become a [friend/mentor](people-4_friends.md) to someone
+- Become a [friend/mentor](people-friends.md) to someone
 - Send cards (e.g., birthdays)
 - Babysitting/childcare
 

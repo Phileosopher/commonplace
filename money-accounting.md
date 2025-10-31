@@ -171,7 +171,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
    - The first accounting documentation is in the journal.
    - Each journal entry always affects at least 2 accounts (as shown above).
 3. Posting - record the same information from the journals to the General Ledger.
-   - It's effectively the same information, but [classified](organization.md) by account and without the [story](stories.md) of what happened.
+   - It's effectively the same information, but [classified](organization.md) by account and without the [story](stories-why.md) of what happened.
 4. Trial balance - calculate the total balances at the end of the period.
    - This is a redundant step that [ensures](understanding-certainty.md) the debits and credits are clearly balanced before moving forward.
 5. Worksheet - for any discrepancies in the trial balance, make corrections (adjustments) on a worksheet.

@@ -1,7 +1,7 @@
 
 # How large groups do things
 
-As a group grows, we have a harder time [personally connecting](people-4_friends.md) with everyone in that group. Starting around 20 people, other members can just as often be acquaintances as close friends. We hit a hard limit on human interaction at about 150 people, both psychologically and [logistically](logistics.md).
+As a group grows, we have a harder time [personally connecting](people-friends.md) with everyone in that group. Starting around 20 people, other members can just as often be acquaintances as close friends. We hit a hard limit on human interaction at about 150 people, both psychologically and [logistically](logistics.md).
 
 A [social network](networks-social.md) user, a citizen of a [city](politics-city.md) or [country](politics-country.md), an employee of a corporation, and a member of a large club are all functionally in a large group. Broadly speaking, modern society consists *mostly* of large groups, segmented into [smaller groups](groups-small.md) according to who and what's most [convenient](purpose.md) or [familiar](symbols.md).
 
@@ -11,7 +11,7 @@ We tend to purpose ourselves toward larger groups for several reasons:
 2. Each person is capable of [*heavily* specializing](jobs-specialization.md) in things they want and giving others what *they* specialize in.
 3. Everyone amasses more [shared knowledge](technology.md), meaning cutting down on [work](results.md).
 
-APPLICATION: Since [fear](mind-feelings-fear.md) binds people together, and fear is rarely subtle, most massive groups tend to operate as diametric opponents of one another (e.g., [conservative/liberal](politics-conservativeliberal.md), [Christian/secular](religion.md), [Star Wars/Star Trek](stories.md))
+APPLICATION: Since [fear](mind-feelings-fear.md) binds people together, and fear is rarely subtle, most massive groups tend to operate as diametric opponents of one another (e.g., [conservative/liberal](politics-conservativeliberal.md), [Christian/secular](religion.md), [Star Wars/Star Trek](stories-why.md))
 
 In larger groups, we tend to associate with a few people in that group and maintain many acquaintances. Some people, like leaders, have many more connections, but there are too many people in a large group to stay in touch with all of them.
 
@@ -46,7 +46,7 @@ To clearly understand *any* group, an observer needs to see 3 perspectives at on
 2. Holistic entity: It's made of people, most of them normal workers doing various [specialized roles](jobs-specialization.md), and some of those are only partly of that entity (e.g., contractors) and others with more power (e.g., shareholders, leadership).
 3. [Power](power.md): It advances [an agenda](purpose.md), defined and curated by its leadership, which impacts its individual members and other people around it.
 
-Unlike leaders in times past, their effort is to [identify](identity.md) with the rest of the people instead of demonstrating raw [force](power.md). It's [influence](power-influence.md) via [being relatable](people-4_friends.md) instead of [through fear](mind-feelings-fear.md).
+Unlike leaders in times past, their effort is to [identify](identity.md) with the rest of the people instead of demonstrating raw [force](power.md). It's [influence](power-influence.md) via [being relatable](people-friends.md) instead of [through fear](mind-feelings-fear.md).
 
 Leaders must reflect [values](values.md) that align with the [purpose](purpose.md) of the organization. If they ever break from it, the organization will change in different directions. At its worst, it becomes an [intergroup conflict](people-conflicts-war-why.md) or a [bad system](mgmt-badsystems.md). Leaders have so many observers that they *must* publicly [identify](identity.md) with those values, or they'll sow [dissent](mgmt-badsystems.md) among the members.
 

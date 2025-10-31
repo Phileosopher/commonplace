@@ -8,7 +8,7 @@ Money is necessary to do nearly anything with other people.
 - The amount of money you have measures approximately how much value you've added to others' lives.
 - However, money is only as valuable as other people interpret it to be (i.e., what other people can actually do).
 
-Our availability of money is closely connected to our [people skills](people-1_why.md).
+Our availability of money is closely connected to our [people skills](people-why.md).
 
 - More people means we spend more around them, but also that more money becomes associated with us.
 - The money you make pales in comparison to the money circulating *because* of you.
@@ -87,7 +87,7 @@ Scientifically, we get the most [happiness](mind-feelings-happiness.md) out of o
 *Not* needing money is more valuable than wealth itself:
 
 - Wealthy people require constant maintenance of their possessions.
-- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-4_friends.md), [personal achievement](success-1_why.md), [inner satisfaction](mind-feelings-happiness-focus.md), and the freedom to [make choices](people-decisions.md).
+- Money and possessions may give *some* satisfaction in life, but we get much more out of things like [meaningful friendships](people-friends.md), [personal achievement](success-1_why.md), [inner satisfaction](mind-feelings-happiness-focus.md), and the freedom to [make choices](people-decisions.md).
 
 ## The portrayal of wealthy lifestyles is wrong
 
@@ -156,7 +156,7 @@ To live well, we must also practice a few other out-of-the-box habits:
 - [Pray](spiritual-exercises-prayer.md) consistently and expect unexpected things to happen.
 - Whenever possible, produce more than you consume.
 - Ignore what everyone else is doing, and have pre-planned responses for others.
-- Invest in your [career](jobs-1_why.md), [mind](mind-memory.md), strength, and [health](body-4_health.md).
+- Invest in your [career](jobs-1_why.md), [mind](mind-memory.md), strength, and [health](body-health.md).
 - Be prepared for [high-risk investing](money-investing.md).
   - Only rich people can live on and invest interest income.
   - Even a high income doesn't guarantee a high net worth.

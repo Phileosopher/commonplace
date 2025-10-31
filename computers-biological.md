@@ -24,7 +24,7 @@ As an emerging technology, it's *possible* to [build computers with DNA](https:/
 
 If we sidestep the [Sars-CoV-19 conspiracy theory](conspiracy.md), the actual implementation of an mRNA vaccine is the beginning of reprogramming DNA, and the technology has been developing as rapidly as they can finance it.
 
-Before we get there, we'd have support systems to *monitor* DNA (e.g., nanobots). This would be much easier, and could detect things like [cancer](body-4_health.md) much earlier than simply waiting for symptoms to express.
+Before we get there, we'd have support systems to *monitor* DNA (e.g., nanobots). This would be much easier, and could detect things like [cancer](body-health.md) much earlier than simply waiting for symptoms to express.
 
 We'll need at least a few decades before we can even explore that domain. Even then, there are too many unknowns (e.g., unintentionally bound proteins, consequences of mutations, how to fix an error).
 

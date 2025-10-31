@@ -150,7 +150,7 @@ Pack lunches for work:
   2. Tie the filter with unscented dental floss or string.
   3. Store the filter bags in plastic sandwich bags for use later.
 
-Drink plenty of water in between meals to [cut down](body-2_diet.md) on how much you eat:
+Drink plenty of water in between meals to [cut down](body-diet.md) on how much you eat:
 
 - Drink more water and tea than milk or sweetened drinks.
 - Don't buy bottled water and keep a portable filter or drink tap water.

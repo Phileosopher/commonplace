@@ -175,6 +175,8 @@ Vibe coding - using machine learning algorithms to generate sloppy code without 
 
 Video game console - a specialized computer designed to play video games, not to be confused with input consoles/terminals, functionally the same as a PC since the late-2010's
 
+Viewport - the size of what is being expressed on the screen (such as the [browser](computers-browser.md)), can often change with the zoom feature
+
 Virtualization - aka virtual machine, using a portion of computer assets to create a virtual computer-in-a-computer
 
 Virtual memory - hard drive memory that has been converted into a swap space

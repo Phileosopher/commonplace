@@ -21,7 +21,7 @@ Children need proportionally more food:
 
 - Help them grow fast by giving them plenty of protein.
 - Their taste buds are more inclined toward sweet foods, so don't trust their judgment except with respect to fruits.
-- If they start growing obese, replace their diet with [healthier alternatives](body-2_diet.md).
+- If they start growing obese, replace their diet with [healthier alternatives](body-diet.md).
 - If they're accustomed to junk food, teaching them to eat well will be a battle of [creativity](mind-creativity-how.md) and discipline.
   - Use dessert as an incentive for them to finish their meal.
   - Place treats on the table for them to see what they get if they finish their meal.
@@ -133,7 +133,7 @@ As they grow, give them chances to build toward their purposes:
   - Appearance and feelings versus reality and substance
 - Help them to accept and re-learn attitudes, beliefs, habits, and ideas that no longer fit their new understanding of reality.
 
-Try to choose their [acquaintances](people-4_friends.md) carefully, since those small encounters will define how they see the world.
+Try to choose their [acquaintances](people-friends.md) carefully, since those small encounters will define how they see the world.
 
 If you [educate](education.md) them correctly, they'll use school to build their skills:
 

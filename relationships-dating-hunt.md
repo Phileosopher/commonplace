@@ -57,14 +57,14 @@ When dating, you're essentially "[selling](marketing.md)" yourself:
     4. 100 of them won't find you attractive.
     5. Of the remaining 50, 20-40 won't meet your standards, and you'll find 10 possible candidates you can get to know more.
 - [Marketing](marketing.md) is conveying your value at each event by improving how you appear:
-  - Learn better [social](people-4_friends.md) and [speaking](language-speaking.md) skills.
+  - Learn better [social](people-friends.md) and [speaking](language-speaking.md) skills.
   - Find way to at least *appear* [successful](success-1_why.md) and [happy](mind-feelings-happiness.md).
-  - [Lose weight](body-2_diet.md) and learn to [have fun](fun.md).
+  - [Lose weight](body-diet.md) and learn to [have fun](fun.md).
 
 Search *everywhere* for a date:
 
 - Ask family and friends.
-- Pursue group events for the things you enjoy and [find new friends](people-4_friends.md).
+- Pursue group events for the things you enjoy and [find new friends](people-friends.md).
 - Invite people to your home.
 - Visit an official dating event or a dating website.
 
@@ -112,7 +112,7 @@ Deeply ask yourself why you can't seem to find anyone:
 
 Are you exposing yourself to enough people?
 
-- Learn to connect with more people and [make more friends](people-4_friends.md).
+- Learn to connect with more people and [make more friends](people-friends.md).
 
 Are you doing something unattractive?
 

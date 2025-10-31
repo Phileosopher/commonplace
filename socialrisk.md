@@ -128,11 +128,11 @@ There are two major sources of failure:
 - [Cultural](people-culture.md) opposition from the risk-taker's violation of existing [standards](habits.md), which is why the [geeks and heretics](trends.md) never reap much from their efforts.
 - Competition from other people doing the same things, which is why the majority never reap those rewards.
 
-For this reason, people who walk the fine line of honoring [taboo](morality-taboo.md) but also breaking convention can ever win. However, since this is based on [feelings](mind-feelings.md), it can change at an *instant* with a small shift in [narrative](stories.md), and much of it is bound up in [luck](unknown.md).
+For this reason, people who walk the fine line of honoring [taboo](morality-taboo.md) but also breaking convention can ever win. However, since this is based on [feelings](mind-feelings.md), it can change at an *instant* with a small shift in [narrative](stories-why.md), and much of it is bound up in [luck](unknown.md).
 
 APPLICATION: Social risk requires scarcity. When people don't have a shortage, they don't maximize their efforts to go as far as possible with the limited amount of something they have.
 
-Unfortunately, [history](stories-storytellers.md) tends to forget that aspect. We see the end of the [story](stories.md) as we [consume it](creations.md), so we can often overlook how it [felt](mind-feelings.md) in the middle of it, as well as the *many* stories of failed attempts for every [success story](success-1_why.md).
+Unfortunately, [history](stories-storytellers.md) tends to forget that aspect. We see the end of the [story](stories-why.md) as we [consume it](creations.md), so we can often overlook how it [felt](mind-feelings.md) in the middle of it, as well as the *many* stories of failed attempts for every [success story](success-1_why.md).
 
 A person can lose tremendous [power](power.md) in a giant risk, as well as their willingness to try [new things](people-image-why.md), so most raw risk-takers are [younger people](maturity.md) in their 20s and 30s. When people get older, they frequently have too much to lose for it to be [worthwhile](purpose.md) for them.
 
@@ -142,7 +142,7 @@ Further, even a tremendously successful risk-taker can become *very* [risk-avers
 
 It's in [large groups'](groups-large.md) best interests (e.g., governments, massive corporations) to foster risk-takers. Besides cutting down on competition (since they're profiting directly from it and gaining [favor](people-friends-why.md)) they can often build and [frame](people-image-why.md) the new [trends](trends.md) themselves instead of fighting them later.
 
-Unfortunately, no reliable system can "make" risk-takers. Risk-taking is an [attitude](purpose.md) more than [understanding](understanding.md), so the creators are experiencing a highly personal [journey](stories.md) of self-discovery as they [influence](influence.md) their environment.
+Unfortunately, no reliable system can "make" risk-takers. Risk-taking is an [attitude](purpose.md) more than [understanding](understanding.md), so the creators are experiencing a highly personal [journey](stories-why.md) of self-discovery as they [influence](influence.md) their environment.
 
 APPLICATION: What got you *to* overwhelming success won't take you farther into running ever-larger applications of [power](power.md). Unfortunately, this also means [leadership skills](groups-small.md) (which consider others' [fears](mind-feelings-fear.md)) sabotage the drive to perform high-risk tasks over time.
 

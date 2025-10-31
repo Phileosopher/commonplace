@@ -34,7 +34,7 @@ There are a few ways to stretch reality to make humor:
 
 Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](understanding.md) scales, most funny things become less funny.
 
-Humor always has the same components that form into a [story](stories.md):
+Humor always has the same components that form into a [story](stories-why.md):
 
 1. A setup that builds up expectations, usually by imitating [reality](reality.md) somehow. It can be as simple as saying "a lawyer" or "a man walks into a bar". Typically, it's when a comedian walks on stage or when someone crouches a little in an "I'm going to hunt" pose.
 2. A drawn-out delivery. The more drawn-out, the more people are setting [expectations](imagination.md), at least until they get bored.

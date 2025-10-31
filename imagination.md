@@ -12,13 +12,13 @@ While imagination can broadly be defined when we stop recollecting our [memory](
 
 Once we've disconnected from sensory experiences (e.g., closing our eyes), we unlink our attachment from the world around us and can more easily [work with](mind-creativity.md) the thoughts in our minds. Then, when we engage our senses again, we can snap back instantly.
 
-By removing and adding various elements, we can form a remarkable variety of [stories](stories.md). Literally, all knowable possibilities of what is, was, and can happen sits inside the mind as an imagined thing. If we focus on it enough we can [feel](mind-feelings.md) as if it's [reality](reality.md) itself.
+By removing and adding various elements, we can form a remarkable variety of [stories](stories-why.md). Literally, all knowable possibilities of what is, was, and can happen sits inside the mind as an imagined thing. If we focus on it enough we can [feel](mind-feelings.md) as if it's [reality](reality.md) itself.
 
 Most of what we [perceive](people-image-why.md) as "[reality](reality.md)" is simply our imagination, proportional to our [creative ability](mind-creativity.md). We incessantly play with our memories to create horrific [mental illnesses](mind-feelings-fear.md), but absolutely any [willfully created](creations.md) thing has to be imagined first as well.
 
 APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
 
-Anything that isn't real is the domain of [fictional stories](stories.md). But often, we constrain that imagining into only [likely](understanding-certainty.md) things. The non-fiction version of imagination, usually regarding the future, is called "predictions" or "expectations".
+Anything that isn't real is the domain of [fictional stories](stories-why.md). But often, we constrain that imagining into only [likely](understanding-certainty.md) things. The non-fiction version of imagination, usually regarding the future, is called "predictions" or "expectations".
 
 ## Predictions and expectations
 
@@ -44,7 +44,7 @@ APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-f
 
 Time itself doesn't exist the way we think it does.
 
-We perceive "now", but the past doesn't technically exist. The past version of "now" is only in our minds as [memory](mind-memory.md) (former versions of "now") and our connections of cause-and-effect to craft a [story](stories.md) that ends in "now".
+We perceive "now", but the past doesn't technically exist. The past version of "now" is only in our minds as [memory](mind-memory.md) (former versions of "now") and our connections of cause-and-effect to craft a [story](stories-why.md) that ends in "now".
 
 Since we can cross-reference the past against [reality](reality.md), we have good [reasons](logic.md) to [trust](trust.md) it for our perspective of the future.
 
@@ -132,7 +132,7 @@ APPLICATION: Often, the most "likely" [trends](trends.md) are the ones that were
 
 Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](understanding-certainty.md) than they really are.
 
-However, since everything we work with in our minds is essentially a [story](stories.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
+However, since everything we work with in our minds is essentially a [story](stories-why.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
 
 APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
 
@@ -159,7 +159,7 @@ Even with [statistics](math.md), capturing [information](people-image-why.md) fo
 
 Proportional to our desire for [certainty](understanding-certainty.md) and opportunity to [gain power](power.md), we will track large-scale [social trends](trends.md). We can frequently feel them out from our shared [human universals](humanity-universals.md), but too many unknown variables make us unable to precisely track what other people are likely to do, even with [technological assistance](technology.md).
 
-Predicting a trend is trying to [understand](understanding.md) a [story](stories.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
+Predicting a trend is trying to [understand](understanding.md) a [story](stories-why.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
 
 In fact, most of the people who *make* gigantic trends are blissfully unaware of what their impact will be. If someone [who has died](legacy.md) is presently famous, there's a good chance they never would have thought that they'd be as famous as they became.
 

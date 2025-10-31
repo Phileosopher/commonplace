@@ -67,9 +67,9 @@ To stay [mentally well](mind-feelings-happiness.md), we subconsciously employ a 
 To fight death, we tend to obsess about preserving life:
 
 - The survival impulses for food, water, and shelter are [themed](symbols.md) extensions of death.
-- We try to prolong its inevitability with [risk management](safety-riskmgmt.md) tactics such as [weight management](body-2_diet.md) and [preventative healthcare](body-4_health.md).
+- We try to prolong its inevitability with [risk management](safety-riskmgmt.md) tactics such as [weight management](body-diet.md) and [preventative healthcare](body-health.md).
 
-APPLICATION: The [healthcare industry](body-4_health.md) (and [law](people-rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
+APPLICATION: The [healthcare industry](body-health.md) (and [law](people-rules.md) enforcement, to a more abstracted degree) concerns itself constantly with death and pain management, so they have an unusual perspective compared to the rest of society.
 
 The fear of death contributes to far more [illogical](logic.md) behavior than we often realize:
 
@@ -79,7 +79,7 @@ The fear of death contributes to far more [illogical](logic.md) behavior than we
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
 - Even [wars](people-conflicts-war-why.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](people-image-why.md) of fighting for scarce resources that would lead to death if depleted.
 
-APPLICATION: If death had no consequences, nothing would be serious, which is why most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories.md) have a great [sense of humor](humor.md).
+APPLICATION: If death had no consequences, nothing would be serious, which is why most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories-why.md) have a great [sense of humor](humor.md).
 
 Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
 
@@ -93,11 +93,11 @@ When we take that fear of death into a more broad application, we tend to create
 
 We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
 
-APPLICATION: Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-4_friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
+APPLICATION: Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
 
 ## Fear as fun
 
-Like with other feelings, we find comfort in the familiarity of fear within [fiction](stories.md). We find joy in [entertaining ourselves](fun.md) when we know we won't feel pain from an observed consequence.
+Like with other feelings, we find comfort in the familiarity of fear within [fiction](stories-why.md). We find joy in [entertaining ourselves](fun.md) when we know we won't feel pain from an observed consequence.
 
 The fear-based themes in [fantasy stories](stories-myths.md) take on a [symbolic](symbols.md) association to real-life experiences, and are typically derived from them.
 
@@ -113,11 +113,11 @@ Most prolonged fear comes from [past trauma](hardship-ptsd.md), but it can also 
 
 We don't do well with extended fear. With enough [imagination](imagination.md), all possible adverse events are likely, so we tend to become increasingly fearful of *everything* if we focus solely on those fears.
 
-When left unattended, fear can create a [feedback loop](habits.md) that [dramatizes](stories.md) everything to the point of [obsession](addiction.md).
+When left unattended, fear can create a [feedback loop](habits.md) that [dramatizes](stories-why.md) everything to the point of [obsession](addiction.md).
 
 Among others, we'll also often try to hide our fears from a different fear of [what other people think](power-types.md), which will make us even *more* fearful over time.
 
-If we persist in fear, we can [extend](stories.md) our connection with death to other needs and wants that are *completely* unrelated to death.
+If we persist in fear, we can [extend](stories-why.md) our connection with death to other needs and wants that are *completely* unrelated to death.
 
 Most fears, when nurtured, become an obsession with [power](power.md) towards [staying safe](safety.md) against any perceived *and* [imagined](imagination.md) threats. At its farthest, a person becomes a victim of their reactions and loses their [humanity](humanity.md) as they create more victims from the [consequences](results.md) they feel justified in delivering.
 
@@ -145,7 +145,7 @@ APPLICATION: We all must reconcile how to live our lives without fear, given how
 
 Some people know how to [exploit](influence.md) fear within others to get their way. This is almost always [evil](morality-evil.md), but is the basis of most [large-scale leadership](groups-large.md).
 
-A fearful group is toxic. People will repeat [stories](stories.md) that bear few facts as if they were [true](reality.md), with the only [group members](groups-member.md) opposing it risking [popularity](influence.md) in that group.
+A fearful group is toxic. People will repeat [stories](stories-why.md) that bear few facts as if they were [true](reality.md), with the only [group members](groups-member.md) opposing it risking [popularity](influence.md) in that group.
 
 Fearful people [trust](trust.md) a [large group](groups-large.md) to address their problem, mostly because they trust that [power](power.md) over what they can't see.
 

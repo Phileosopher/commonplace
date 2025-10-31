@@ -62,7 +62,7 @@ Antisocial lies are intentionally malicious:
 
 - Antisocial lies are statements and implications designed to sabotage someone else.
 - These lies, unquestionably, are always [evil](morality-evil.md).
-- If your friend makes antisocial lies, [find a new friend immediately](people-4_friends.md).
+- If your friend makes antisocial lies, [find a new friend immediately](people-friends.md).
 - Often, a liar's reputation can mask an antisocial lie.
 - Common examples:
   - Misstating what someone said or did
@@ -109,7 +109,7 @@ By lying, you risk permanently ruining your reputation:
 
 Liars must maintain more than one story:
 
-- A liar must juggle many [stories](stories.md) at once:
+- A liar must juggle many [stories](stories-why.md) at once:
   1. What they told Person 1
   2. What they told Person 2
   3. (every other story they told)
@@ -120,7 +120,7 @@ Liars must maintain more than one story:
 Frequent lying becomes habitual:
 
 - [Habits](habits.md) are difficult to break already, but lying is addictive because it can feel like a competition to "outsmart" others.
-- Nobody can trust liars, so they have a hard time with [keeping friends](people-4_friends.md) and [having intimate relationships](relationships-marriage.md).
+- Nobody can trust liars, so they have a hard time with [keeping friends](people-friends.md) and [having intimate relationships](relationships-marriage.md).
 - Because we're maintaining multiple false stories as part of our experience, lying makes wise decisions harder to discern.
 
 Lying makes it difficult to trust:
@@ -214,7 +214,7 @@ Declaratory statements of honesty or goodness:
 
 Emphasis on certain details:
 
-- Since a liar is creating a [story](stories.md), it takes lots of energy to build it.
+- Since a liar is creating a [story](stories-why.md), it takes lots of energy to build it.
 - Since they're trying to hide some details, note the areas that person is addressing the least and why.
   - Liars give fewer details about themselves and their [feelings](mind-feelings.md).
 - In general, a liar will give fewer details to keep their story straight and will get defensive when asked about them, while honest people comfortably know they forgot certain things.
@@ -248,7 +248,7 @@ People can often control the lower half of their faces, but not the upper half.
 
 Watch for a split-second micro-expression of someone's true feelings when they first perceive something:
 
-- Raise your eyebrows as soon as you see them: they'll only raise them in response if they see you as their [friend](people-4_friends.md).
+- Raise your eyebrows as soon as you see them: they'll only raise them in response if they see you as their [friend](people-friends.md).
 
 Genuine facial expressions are typically symmetrical.
 
@@ -361,7 +361,7 @@ F. Confront the liar:
   2. Convince them there's enough evidence of their guilt to act, and that they have no reason to keep lying.
   3. Provide a way out for the person by showing they must merely find a way to frame and deliver the confession.
 - Many people are uncertain about whether to confront a liar and when.
-  - This often comes from the risks of losing a [friendship](people-4_friends.md) or reputation.
+  - This often comes from the risks of losing a [friendship](people-friends.md) or reputation.
   - The liar will often want revenge against anything they lose from their confession.
   - Stay [legally safe](legal-safety.md) with perpetual documentation, since a confession may trigger a future [open conflict](people-conflicts.md) with them.
 - Confidently, earnestly ask for their admission.

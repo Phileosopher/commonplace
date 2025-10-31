@@ -1,7 +1,7 @@
 
 # What games are
 
-Every game is a type of [story](stories.md) with a few components:
+Every game is a type of [story](stories-why.md) with a few components:
 
 1. A setup where everyone has a limited amount of at least some [resources](power-types.md) and must honor some [rules](people-rules.md).
 2. Everyone has a definite purpose, or "win conditions" that provide a reward or prevent a risk, though they may not always be the same. Those [purposes](purpose.md) are usually against other players' purposes, directly or indirectly.
@@ -23,7 +23,7 @@ To recreate [reality](reality.md) while not precisely reproducing the most unple
 
 - Luck: Reality has many elements that are completely random, but games tend to distill the luck down to specific [predictable](imagination.md) actions like a die roll or card draw. Casino games like roulette and craps do this the least.
 - Challenge: Reality requires hundreds of hours of tedious practice, but games make simpler and easier challenges. Skill games like sports and strategy games do this the least.
-- Immersion: Reality requires prolonged exposure and research, but games limit the involvement to understanding the rules and lore of the game's [backstory](stories.md). Role-playing games and simulators do this the least.
+- Immersion: Reality requires prolonged exposure and research, but games limit the involvement to understanding the rules and lore of the game's [backstory](stories-why.md). Role-playing games and simulators do this the least.
 
 Because of [human nature](humanity.md), every single game will have cheaters, including in life. People find [creative](mind-creativity.md) ways to break the [rules](people-rules.md) to win, usually by arbitrarily changing them to fit their desire.
 
@@ -38,4 +38,4 @@ With [technology](technology.md), we can [recreate](creations.md) the experience
 - [Achieving and overcoming](success-1_why.md) challenges, especially [unlikely](math.md) ones.
 - The proxy character [learning](understanding.md) from prior experiences (often simulated with "experience points" in [electronic games](computers-software-gamedev.md)).
 
-Like [humor](humor.md), games help us to cope. It's a small system designed to [symbolize](symbols.md) the greater reality we're in. It creates a type of [closure](stories.md) in the unfamiliar [reality](reality.md) that surrounds us. However, while humor is a deconstruction of [disorder](unknown.md), games are an extreme form of order.
+Like [humor](humor.md), games help us to cope. It's a small system designed to [symbolize](symbols.md) the greater reality we're in. It creates a type of [closure](stories-why.md) in the unfamiliar [reality](reality.md) that surrounds us. However, while humor is a deconstruction of [disorder](unknown.md), games are an extreme form of order.

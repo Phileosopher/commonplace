@@ -67,7 +67,7 @@ Everyone wants to be important, so they identify with whatever can make them imp
 
 APPLICATION: We all want to be "special", but we're not. There are over 7,000,000,000 people on the planet right now, with billions more who were once born, and it's *very* likely that someone on Earth is or was precisely like you in every way. This fact makes most people [uncomfortable](mind-feelings.md), so it's usually [taboo](morality-taboo.md) to tell people that individually.
 
-The [ideas](values.md) we focus on and [words](language.md) we choose play a *massive* part of our identity because they determine how we frame the [stories](stories.md) of ourselves. These decisions may be helpful or hurtful, context-sensitively, depending on the [results](results.md) they create with our environment.
+The [ideas](values.md) we focus on and [words](language.md) we choose play a *massive* part of our identity because they determine how we frame the [stories](stories-why.md) of ourselves. These decisions may be helpful or hurtful, context-sensitively, depending on the [results](results.md) they create with our environment.
 
 APPLICATION: We control and associate with things in our environment, such as our bodies, [tools](technology.md), and vehicles, but those [results](results.md) are a degree removed from our [true selves](humanity.md), which are far more immaterial and tied closely to our [decisions](people-decisions.md).
 

@@ -5,7 +5,7 @@ In many ways, a good memory is the foundation for all wellness:
 
 - Good memories allows us to fully absorb and understand ideas, which is critical for us to [connect concepts](mind-creativity.md).
 - A reliable memory is not only necessary for [success](success-1_why.md), it also makes us [happier](mind-feelings-happiness.md).
-- Like [weight management](body-1_why.md), memory can be trained, and high-powered memory competitions (e.g., trivia, quizzes) are people with normal brains who worked hard to build mnemonics.
+- Like [weight management](body-why.md), memory can be trained, and high-powered memory competitions (e.g., trivia, quizzes) are people with normal brains who worked hard to build mnemonics.
 - All aspects of [understanding and learning](understanding.md) are connected with a good memory.
 
 ## How memory works
@@ -63,7 +63,7 @@ Memory also has various forms:
 - Procedural memory, or motor memory, is how we work through body movements and build muscle [habits](habits.md).
 - Working memory is "short-term memory".
 - Episodic memory is a snapshot of each particular experience we've had.
-- Autobiographical memory combines episodic memory to create a [story](stories.md) about ourselves and the world around us.
+- Autobiographical memory combines episodic memory to create a [story](stories-why.md) about ourselves and the world around us.
 - Semantic memory is long-term storage of simple information.
 - Prospective memory is how we store information we [imagine](imagination.md).
 
@@ -248,7 +248,7 @@ Rebuild each connection into an image:
 - Focus on the image more than the associated meanings.
 - This can even work well for [speeches](language-speaking.md).
 
-Our minds use [stories](stories.md) to understand the world, so make everything into silly, elaborate stories:
+Our minds use [stories](stories-why.md) to understand the world, so make everything into silly, elaborate stories:
 
 - To remember lists of things, convert it into a silly story.
 - We remember the story to the degree we [feel](mind-feelings.md) it.

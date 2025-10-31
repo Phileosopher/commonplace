@@ -48,7 +48,7 @@ From 2nd-level middle management and higher (i.e., no longer working alongside t
 
 - If you wish to work in that environment, you'll find yourself competing with many [personalities](personality.md) who will have no ethical problems with harming many people to provide a little personal gain (e.g., Cluster B personality).
 - In general, it's far easier to fire a 15-person team or cut pay for 200 people when you have no sense of [ethics](morality.md) or [humanity](humanity.md).
-  - Making or keeping lower-ranking [friends](people-4_friends.md) in a high-ranking role can represent an opportunity for your rivals to make accusations of [political favoritism](stories-storytellers.md) or imposing *their* scandals or unfavorable [reputation](people-image-why.md) onto you.
+  - Making or keeping lower-ranking [friends](people-friends.md) in a high-ranking role can represent an opportunity for your rivals to make accusations of [political favoritism](stories-storytellers.md) or imposing *their* scandals or unfavorable [reputation](people-image-why.md) onto you.
 - By delegating *every* task, a manager has a unique [power](power.md) discrepancy:
   - They can claim the benefits of anything good their subordinates do.
   - If someone keeps making mistakes, they can fire the under-performer.

@@ -7,7 +7,7 @@ In fact, barring [human universals themselves](humanity-universals.md), *everyth
 
 - [Values](values.md) (especially [morals](morality.md) or [taboos](morality-taboo.md)), [philosophical concepts](philosophy.md), [understanding](understanding.md), and [proven understanding](science.md)
 - Choices of [language](language.md), body language, gesture, or behavior
-- [Created things](creations.md) like [media](stories.md), [consumer goods](creations.md), [art](values-quality.md)
+- [Created things](creations.md) like [media](stories-why.md), [consumer goods](creations.md), [art](values-quality.md)
 - Forms of [thinking](understanding.md) and lines of [reasoning](logic.md)
 - The [friendships](people-friends-why.md) and [influence](influence.md) of a new person in a [group](groups-member.md)
 - [Agreements](people-contracts.md) among interested parties
@@ -16,11 +16,11 @@ In fact, barring [human universals themselves](humanity-universals.md), *everyth
 - Certain political things like [civil liberties](people-boundaries-why.md) and approval of government policies
 - Even the way we interpret thoughts is a "trend". People gain interest in something, then become familiar, then grow bored with it after a while.
 
-Most people must [understand](understanding.md) a trend to adopt it, so every successful trend's [essence](values.md) can be simply described. Each trend is a [symbolic](symbols.md) conclusion to a [story](stories.md) that started with a [group](groups-small.md) that recognized a [problem](purpose.md) and tried to fix it.
+Most people must [understand](understanding.md) a trend to adopt it, so every successful trend's [essence](values.md) can be simply described. Each trend is a [symbolic](symbols.md) conclusion to a [story](stories-why.md) that started with a [group](groups-small.md) that recognized a [problem](purpose.md) and tried to fix it.
 
 APPLICATION: Healthy [routines](habits.md) are upward trends:
 
-- General physical well-being [to the best of our ability](body-4_health.jpg) requires [eating well](body-2_diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-3_exercise.md).
+- General physical well-being [to the best of our ability](body-4_health.jpg) requires [eating well](body-diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-exercise.md).
 - Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
 - [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](results.md), [growing](maturity.md), and [learning](education.md).
 - [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
@@ -49,7 +49,7 @@ When we [predict](imagination.md) trends, we're relatively reliable at guessing 
 
 Each trend consists of sub-trends that can spin off on their own (all of them drilling down to each individual's [understanding](understanding.md) and [inner conflicts](people-conflicts-inner.md)), so we can only [look ahead](imagination.md) a few months at the most before every model becomes useless.
 
-A trend is a series of many [stories](stories.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
+A trend is a series of many [stories](stories-why.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
 
 APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](people-image-why.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
 
@@ -87,7 +87,7 @@ The more [taboo](morality-taboo.md) the trend is, the longer it'll take for ever
 There are a few ways to slow a trend, but nothing that can fully stop it:
 
 - Get in front of the trend and prevent the early adopters from [understanding](understanding.md) the thing. This can range from [severing](morality-taboo.md) [group interaction](people-conversation.md) with innovators and early adopters all the way to excommunicating or killing them.
-- [Influence](influence.md) people away from the trend with well-made [stories](stories.md) that inspire [fear](mind-feelings-fear.md). Often, they'll [moralize](morality.md) an otherwise non-moral matter or compare the trend to an unrelated trend.
+- [Influence](influence.md) people away from the trend with well-made [stories](stories-why.md) that inspire [fear](mind-feelings-fear.md). Often, they'll [moralize](morality.md) an otherwise non-moral matter or compare the trend to an unrelated trend.
 - Destroy everything related to the trend, including forbidding [language](language.md), [portraying](people-image-distortion.md) [false stories](stories-storytellers.md), and [killing people](morality-evil.md).
 
 ### Speeding a trend's transition
@@ -96,7 +96,7 @@ Generally, the longer a trend stays popular, the more excited everyone will be a
 
 Forward-thinking people who want power will try to hasten a trend. New trends require [creativity](mind-creativity.md), so they're fostered more than provoked. Like any other creative thing, starting trends requires giving more information or [influence](influence.md) to people, either to aid [understanding](understanding.md) or promote the trend's [status](people-image-why.md).
 
-Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](people-image-why.md) people were [feeling](mind-feelings.md) for a while.
+Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories-why.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](people-image-why.md) people were [feeling](mind-feelings.md) for a while.
 
 Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](people-decisions.md) *any* trend outside of that one, and it shifts unsettlingly fast.
 
@@ -154,7 +154,7 @@ Without this resistance pattern in a constant flow, the pattern that creates gro
 
 1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries-why.md)).
 2. No slow exposure to increasing challenges sabotages the means of [accomplishing](purpose.md) (e.g., burning/exiling heretics, insufficient [resources](power-types.md)), and growth that's too slow won't make the [impact](results.md) it could have otherwise (since we all must contend with our [eventual end](legacy.md)).
-3. Without a full-intensity resistance at the end the [story](stories.md) never becomes a [legend](stories-storytellers.md) to inspire others later without [lying about it](people-image-distortion.md) and can often leave [doubt](unknown.md) within the participants' mind that can sabotage longevity (i.e., "did I really reach my peak?"). But, if the resistance goes so heavily that it destroys someone, it becomes a crushing [story](stories.md) of defeat and despair (e.g., a crushed [political resistance](people-conflicts-war-why.md), cultural [taboos](morality-taboo.md) based on others who came before).
+3. Without a full-intensity resistance at the end the [story](stories-why.md) never becomes a [legend](stories-storytellers.md) to inspire others later without [lying about it](people-image-distortion.md) and can often leave [doubt](unknown.md) within the participants' mind that can sabotage longevity (i.e., "did I really reach my peak?"). But, if the resistance goes so heavily that it destroys someone, it becomes a crushing [story](stories-why.md) of defeat and despair (e.g., a crushed [political resistance](people-conflicts-war-why.md), cultural [taboos](morality-taboo.md) based on others who came before).
 
 A cycle may appear unsustainable as a positive feedback loop (where the cycle becomes more extreme). But, when scoped out far enough, the meta-cycle is always a negative feedback loop (where elements of the cycle maintain that cycle).
 

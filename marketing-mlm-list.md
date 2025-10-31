@@ -3,7 +3,7 @@
 
 This is only a partial list of [MLM entities](marketing-mlm.md), with constant rebranding and new MLM endeavors all the time.
 
-[Health products](body-4_health.md)
+[Health products](body-health.md)
 
 - AdvoCare - dietary supplements
 - Arbonne International - vegan skincare, cosmetics, nutrition

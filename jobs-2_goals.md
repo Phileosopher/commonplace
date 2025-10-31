@@ -117,7 +117,7 @@ Remove any distractions from your search:
 The rarest resources in your job search will be time and motivation:
 
 - Expect more restructuring, planning, and recuperation than you'd otherwise plan to need.
-- Throughout the job hunt, consistently consult your [friends](people-4_friends.md) for emotional support.
+- Throughout the job hunt, consistently consult your [friends](people-friends.md) for emotional support.
 
 ## B. Roughly sketch out your future career
 
@@ -160,7 +160,7 @@ Every job is a hybrid of only a few types of roles:
 - Entertainers [express themselves](people-image-why.md) to the public (difficult to start in).
 - Creatives develop [new artistic works](creations.md) (hard to start in).
 - Merchants buy and sell items at a profit (needs [industry-specific knowledge](jobs-specialization.md)).
-- Relaters connect [people](people-4_friends.md) to other people and things (needs connections).
+- Relaters connect [people](people-friends.md) to other people and things (needs connections).
 - Brains critically think, analyze, and come to solutions (needs intelligence).
 - Movers make things happen and help people (needs strength and social skills).
 - Record-keepers maintain and transmit information (needs thoroughness and patience).
@@ -226,7 +226,7 @@ If you wish to work for yourself, [start a business](entrepreneur-1_why.md) inst
 To survive the job hunt, you *must* surround yourself with positive, encouraging people:
 
 - At least once a week, connect with them to re-energize yourself for the search.
-- [High-quality friends](people-4_friends.md) give realistic, useful constructive criticism.
+- [High-quality friends](people-friends.md) give realistic, useful constructive criticism.
 - Ignore people who aren't concerned with your best interests.
 
 Find a mentor:

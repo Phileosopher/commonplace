@@ -264,7 +264,7 @@ As much as possible, encourage them to share their views:
 - You're trying to let them feel their ideas have been heard, *not* to "get everyone to make a decision".
 - Ask them what their sincere thoughts are, and don't judge anything they say.
 - Mirror their behaviors and statements to confirm their feelings.
-- Paraphrase their statements to acknowledge the [story](stories.md) they're trying to present.
+- Paraphrase their statements to acknowledge the [story](stories-why.md) they're trying to present.
 - When you're getting nowhere, provoke them by being *more* vulnerable.
   - Vulnerability requires trust and belief.
 
@@ -361,7 +361,7 @@ If you find a workable answer, know beforehand how to decide:
 
 - Since people value their freedom, decide as sparingly as possible.
 - There are 4 possible forms of making a decision:
-  1. Commanding, which will almost certainly burn most [friendships](people-4_friends.md) if not done carefully.
+  1. Commanding, which will almost certainly burn most [friendships](people-friends.md) if not done carefully.
   2. Consult, which will only work if you legitimately consider their opinions.
   3. Vote, which removes any legitimate power you may have unless you're part of the majority view.
      - State the full natural consequences of various options, with your preferred option as the first or last one.

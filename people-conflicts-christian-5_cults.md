@@ -32,7 +32,7 @@ Many religious cults end up believing a few additional things alongside their he
 1. Most Christians are deceived (typically by the devil) to the point that they deserve condemnation or condescension.
 2. There is no hell.
 3. Any manifestation of [Satan](spiritual-warfare-tricks.md) can only come as a horned, evil-looking thing, and not as a beautiful angel of light.
-4. [Modern health treatments](body-4_health.md) are inherently obstructing spiritual faith, and the only solution is either prayer or a prescribed set of obscure rituals.
+4. [Modern health treatments](body-health.md) are inherently obstructing spiritual faith, and the only solution is either prayer or a prescribed set of obscure rituals.
 
 The loss of "self" in light of a [greater purpose](meaning.md) can be attractive to many people.
 
@@ -41,7 +41,7 @@ The loss of "self" in light of a [greater purpose](meaning.md) can be attractive
 
 One fascinating truth about many false religions is that they frequently embody the *opposite* values of Christianity within their [myths](stories-myths.md).
 
-- The story of Adam and Eve involves a fall from grace that requires God's intervention (therefore making mankind an antihero in the [story](stories.md)), but that same story reflects itself in other religions (e.g., Sethians, Prometheus) as man being the heroic bringer of hidden knowledge (making mankind a general hero and the gods as antagonists).
+- The story of Adam and Eve involves a fall from grace that requires God's intervention (therefore making mankind an antihero in the [story](stories-why.md)), but that same story reflects itself in other religions (e.g., Sethians, Prometheus) as man being the heroic bringer of hidden knowledge (making mankind a general hero and the gods as antagonists).
 - Most ancient myths portray the gods as if they were as fickle as humanity, including broken promises and unexpected obstructions. The God of the Bible, however, is absolutely in control, with *people* being the one impediment to the goodness God wants.
 
 It's worth being aware of the [charismatic leader](people-culture-cults.md) who founded the movement and their general views.

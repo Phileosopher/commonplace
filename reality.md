@@ -63,7 +63,7 @@ Facts are aspects of [understanding](understanding.md) that *do* exist, to the b
 
 Multiple facts can't contradict each other, though different [points of view](people-image-why.md) can imply that two true statements are contradictions. We tend to grab more facts that prioritize and confirm our preconceived [bias](mind-bias.md) unless we've disciplined ourselves otherwise. It takes tremendous patience to look beyond [initial impressions](people-image-why.md).
 
-We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](people-culture.md) or [repelling](people-conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
+We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories-why.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](people-culture.md) or [repelling](people-conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
 
 Good facts are often difficult to find. Usually, we must [purpose](purpose.md) ourselves to seek diligently for them, and they're typically not that useful by themselves.
 
@@ -71,7 +71,7 @@ To find good facts, we require hefty amounts of [analysis](logic.md) to process 
 
 APPLICATION: No amount of [education](education.md) or [technology](technology.md) can offset the destruction of [understanding](understanding.md) from learning from the wrong sources.
 
-Our [story](stories.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
+Our [story](stories-why.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 
 APPLICATION: Believing things are [changing](trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
 
@@ -93,7 +93,7 @@ APPLICATION: Each of us must find our journey to truth in our own way, and there
 
 ## Denial
 
-Accepting reality at its most raw can force overwhelming [internal and external changes](people-changes.md). Because of this, most people deny or adapt elements of reality to cope with those changes (especially if it'll affect their [social standing](groups-member.md)), and the easiest ways to deny/adapt reality is through altering [language](language.md) to shift the portrayed [implications](mind-feelings.md) of the [story](stories.md) provided by reality.
+Accepting reality at its most raw can force overwhelming [internal and external changes](people-changes.md). Because of this, most people deny or adapt elements of reality to cope with those changes (especially if it'll affect their [social standing](groups-member.md)), and the easiest ways to deny/adapt reality is through altering [language](language.md) to shift the portrayed [implications](mind-feelings.md) of the [story](stories-why.md) provided by reality.
 
 Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](people-image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 

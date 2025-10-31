@@ -1,1 +1,0 @@
-Without [love for others](people-love.md), we draw *massive* comparisons that imply different types of [value systems](values.md) are irreconcilably different when, in practice, they link together on many elements.

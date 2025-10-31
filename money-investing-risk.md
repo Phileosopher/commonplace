@@ -311,7 +311,7 @@ If you want to beat conventional thought, bet on unlikely odds.
 
 ### Public narratives
 
-The public [narrative](stories.md) defines where markets travel.
+The public [narrative](stories-why.md) defines where markets travel.
 
 - It's our [natural bias](mind-bias.md) to [create order](understanding-certainty.md) even when something is *completely* [random](unknown.md).
   - The market is a random progression with a slightly upward slope over long periods, and that's all that anyone can say with certainty.

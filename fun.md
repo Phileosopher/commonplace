@@ -51,7 +51,7 @@ Try new things, but deepen your appreciation of familiar things:
 
 Avoid addictive substances and recreational drugs:
 
-- While substances like street drugs and alcohol *are* fun, they won't let you have fun indefinitely from the [health problems](body-4_health.md) you'll face.
+- While substances like street drugs and alcohol *are* fun, they won't let you have fun indefinitely from the [health problems](body-health.md) you'll face.
 - The best fun is the type that you can have for the rest of your life.
 
 Be careful with permanent tattoos:
@@ -85,7 +85,7 @@ If you don't believe you're particularly funny, it's a trainable skill:
 
 Games are simplified life:
 
-- Games, like life, have [rules](people-rules.md), requirements, [conflicts](people-conflicts.md), [social interaction](people-1_why.md), [challenges](success-3_goals.md), and [resource management](power-types.md).
+- Games, like life, have [rules](people-rules.md), requirements, [conflicts](people-conflicts.md), [social interaction](people-why.md), [challenges](success-3_goals.md), and [resource management](power-types.md).
 - Throughout life starting from early [childhood](parenting-children.md), playing games has many psychological benefits.
 
 Since they're the most interactive and give the most feedback, play games that require hand-eye coordination.

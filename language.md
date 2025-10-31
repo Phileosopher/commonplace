@@ -21,15 +21,17 @@ APPLICATION: [Communication](people-conversation.md) is a massive part of the [h
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
-When speaking, each sound represents a syllable (e.g., "ah", "em"), and a combination of syllables creates a "word", which represents a complete idea. Vowel sounds link a word together (e.g., a, e, i), and consonants provide more of the [story](stories.md) about how the word makes us [feel](mind-feelings.md).
+When speaking, each sound represents a syllable (e.g., "ah", "em"), and a combination of syllables creates a "word", which represents a complete idea. Vowel sounds link a word together (e.g., a, e, i), and consonants provide more of the [story](stories-why.md) about how the word makes us [feel](mind-feelings.md).
 
 Every letter, word, and phrase is a [symbol](symbols.md) that represents both as an [idea](values.md) of its own and as a relationship to other ideas. Each idea comes with unique [images](people-image-why.md) and [feelings](mind-feelings.md) as we interpret it in our minds.
+
+These symbolic associations always have a central basis they hinge on. That basis ends up always being a word, and frames the beginning of the [story](stories.md) being conveyed.
 
 In languages like English, each character has an abstract meaning that only forms [ideas](values.md) when they're assembled into words. In other languages (e.g., Eastern languages like Chinese), the letter itself has a clearer meaning.
 
 Written and spoken language are *not* the same language, and run parallel to one another in any [culture](people-culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
 
-The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](people-image-why.md), and even *more* of the same from other words' relationship to those ideas.
+The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories-why.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](people-image-why.md), and even *more* of the same from other words' relationship to those ideas.
 
 Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
 
@@ -45,7 +47,7 @@ Verbs are values of action, and are *always* connected to a noun (even when the 
 
 While nouns are relatively static, verbs come in *many* forms, including time (e.g., "was", "will be"), details (e.g., "ran" vs. "dashed"), and [framing](people-image-why.md) (e.g., "escaped" vs. "infiltrated").
 
-APPLICATION: Time travel [stories](stories.md) are exceedingly difficult because they mess with our fixed perspective of time. In a time travel story, "What I'm doing right now will be before what I had done, which comes after what I will do next" can be a syntactically correct statement in the story's world.
+APPLICATION: Time travel [stories](stories-why.md) are exceedingly difficult because they mess with our fixed perspective of time. In a time travel story, "What I'm doing right now will be before what I had done, which comes after what I will do next" can be a syntactically correct statement in the story's world.
 
 Nouns and verbs are the basis of all things. Without the noun, there is nothing to [identify or understand](understanding.md), but a noun without a verb is meaningless because it simply states a thing without a [purpose](purpose.md). We often "verb-ize" nouns for the sake of creating meaning, and almost any noun can be colloquially converted into a verb.
 
@@ -147,7 +149,7 @@ These specific words *don't* translate well across industries. For example, "dep
 
 ## Ordering of words
 
-The order of words matters heavily. Our minds are [story-based](stories.md), so the passive voice can rearrange the noun's location and remove/add emphasis to the verb before the noun:
+The order of words matters heavily. Our minds are [story-based](stories-why.md), so the passive voice can rearrange the noun's location and remove/add emphasis to the verb before the noun:
 
 - "The assailant hid the body, then dug a grave for it and threw it in."
 - "The body was hidden until a grave was dug, then the assailant threw it in."
@@ -161,7 +163,7 @@ The order and number of words can very frequently demonstrate the true [purpose]
 
 ## Sticky words
 
-A word never exists in a vacuum, and it tends to "stick" to nearby words and evoke different degrees of [feeling](mind-feelings.md) based on its relationship to other words. By adding more words and swapping out nouns for pronouns, we can dramatically change a sentence's [story](stories.md):
+A word never exists in a vacuum, and it tends to "stick" to nearby words and evoke different degrees of [feeling](mind-feelings.md) based on its relationship to other words. By adding more words and swapping out nouns for pronouns, we can dramatically change a sentence's [story](stories-why.md):
 
 - One sentence...
   - "At a party, John was near a philanderer."

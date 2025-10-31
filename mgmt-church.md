@@ -44,7 +44,7 @@ Carefully evaluate why you want to engage in public ministry.
 
 Before taking the plunge, have the wisdom to count the cost.
 
-- Consider the [relationships](people-4_friends.md) you'll likely gain and lose, your affiliations and [professional network](professionals.md), necessary lifestyle changes, and likely sacrifices.
+- Consider the [relationships](people-friends.md) you'll likely gain and lose, your affiliations and [professional network](professionals.md), necessary lifestyle changes, and likely sacrifices.
 - Examine the financial shift to your lifestyle.
   1. Think about all your likely future needs and research their costs.
   2. Make a budget that doesn't veer into extreme poverty or opulence.
@@ -155,7 +155,7 @@ Contrary to popular belief, the ministry system itself will *not* help believers
 3. To that end, all ministries should work to perform several possible objectives:
    - Magnify the [influence](power-influence.md) of individuals that demonstrate Christ-like behavior.
    - Give freedom for Christians and seeking non-believers to ask questions, with [mature Christians being able to answer them](spiritual-discipleship.md).
-   - Give more opportunities for believers to informally [network](people-4_friends.md) with each other.
+   - Give more opportunities for believers to informally [network](people-friends.md) with each other.
 
 Play [political chess](groups-large.md) *very* sparingly.
 

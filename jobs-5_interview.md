@@ -499,7 +499,7 @@ B. Morning Routine:
   - Teeth clean and breath smelling nice
   - Lightly scented cologne/perfume
 - Since asking for a pen appears very unprofessional, keep a pen in your pocket.
-- Get support from [God](spiritual-exercises-prayer.md) and [your social network](people-4_friends.md).
+- Get support from [God](spiritual-exercises-prayer.md) and [your social network](people-friends.md).
 - [Focus](awareness.md) on yourself and what you want:
   - What you want out of your work.
   - What you can contribute to your potential workplace.

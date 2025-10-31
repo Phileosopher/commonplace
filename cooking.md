@@ -5,7 +5,7 @@
 
 While not everyone needs to be a master chef, everyone should (and can) know how to prepare food.
 
-Making meals is a basic human need, paying others to do it is expensive, and instant meals are usually [unhealthy](body-4_health.md).
+Making meals is a basic human need, paying others to do it is expensive, and instant meals are usually [unhealthy](body-health.md).
 
 Cooking is a part-time job that pays immediately:
 
@@ -58,7 +58,7 @@ Fix poor time and heat management:
 
 Save time by breaking apart cooking into batches:
 
-- Plan your meal prep [and diet](body-2_diet.md) a week out.
+- Plan your meal prep [and diet](body-diet.md) a week out.
 - Style your work as an assembly line to prepare the ingredients quickly.
 
 Note the [weather](science-earth-weather.md):
@@ -313,7 +313,7 @@ Cooking is an artistic science:
 
 Find new ways to improve your cooking experience:
 
-- Reach out to [friends and family](people-4_friends.md) for ideas.
+- Reach out to [friends and family](people-friends.md) for ideas.
 - Read recipe books for new cooking challenges and explore .
 - Try to limit yourself to specific ingredients for an added challenge.
 

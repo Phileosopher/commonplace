@@ -124,7 +124,7 @@ Clarify each role with a full job description:
 There are several places to find new hires:
 
 1. Via network, among the people you know.
-   - Gives the least opportunities, but can create a more well-adjusted team because people like to [associate](people-4_friends.md) with others who are like them.
+   - Gives the least opportunities, but can create a more well-adjusted team because people like to [associate](people-friends.md) with others who are like them.
 2. Over the internet with a job board.
    - Will require you to manually sift through dozens or hundreds of roles, though an Applicant Tracking System (ATS) can help deduce candidates based on keywords.
    - Gives *tremendous* breadth, but very little depth.

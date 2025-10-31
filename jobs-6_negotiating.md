@@ -197,6 +197,6 @@ If your new employer wants referrals, give them former coworkers and colleagues 
 
 If the negotiation doesn't work out, don't burn any bridges:
 
-- You can often build a professional [friendship](people-4_friends.md) that can follow you into your career later.
+- You can often build a professional [friendship](people-friends.md) that can follow you into your career later.
 - Sometimes they'll pass you on that role, but [since you're a consultant](jobs-1_why.md), another job could just as easily open up later.
 - If you continue building your skills and maintaining your relationship, you might become an *advisor* to them someday!

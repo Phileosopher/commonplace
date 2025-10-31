@@ -97,7 +97,7 @@ When a person isn't [self-aware](awareness.md) of a feeling, they usually staple
 
 APPLICATION: We can differentiate between our [bias](mind-bias.md) and [reality](reality.md) by distinguishing what we're feeling and when. By imagining how we'd perceive if we felt differently, we gain further perspectives and heighten our [understanding](understanding.md) without needing others' input.
 
-Our feelings are the basis for intuition. Intuition is an instinctual [reaction](habits.md) that streamlines how we respond to things, built around the [stories](stories.md) from our subconscious [understanding](understanding.md) of [reality](reality.md).
+Our feelings are the basis for intuition. Intuition is an instinctual [reaction](habits.md) that streamlines how we respond to things, built around the [stories](stories-why.md) from our subconscious [understanding](understanding.md) of [reality](reality.md).
 
 APPLICATION: Most of our feelings *would* be precisely accurate if they were based on all available information, without imagined information included. Therefore, the best way to perceive [fairly](morality-justice.md) is to note when we're being irrational, then [scientifically](science.md) process *all* information that's contrary to what we feel:
 

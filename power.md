@@ -8,7 +8,7 @@ Power always comes through another perceived [purpose](purpose.md) and is the to
 - Present purposes, usually through things we can [manipulate](results.md) directly or gain through others' means.
 - Future purposes, based on our [predictions](imagination.md), for ourselves.
 - Things we [predict](imagination.md) *other* people might have a [purpose](purpose.md) for.
-- [Story](stories.md) adaptation, which alters the [image](people-image-why.md) of something to imply any of the previous things have more or less power.
+- [Story](stories-why.md) adaptation, which alters the [image](people-image-why.md) of something to imply any of the previous things have more or less power.
 
 Power is completely relative. For example, money is highly valuable only because everyone else finds it valuable, but is useless if nobody else finds value in it. Horse manure, on the other hand, is only valuable to specific people, but critical to the purposes those people possess.
 

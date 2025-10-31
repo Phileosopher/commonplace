@@ -26,7 +26,7 @@ The simpler your outfit, the more straightforward you'll appear:
 - Try to avoid stark colors (i.e., black, white, bright colors).
 - If you're in doubt about an accessory or feature, remove it.
 
-Try to convey a [story](stories.md) from bottom to top:
+Try to convey a [story](stories-why.md) from bottom to top:
 
 - In most contexts, people will observe your shoes first, then your legs, then up to your face, then your chest.
 - Generally, aim for conservative old styles with a modest sprinkling of newer styles mixed in.

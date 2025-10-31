@@ -391,7 +391,7 @@ There are quite a few common perils:
 - Collision
 - Explosion
 - Flood
-- [Disease](body-4_health.md)
+- [Disease](body-health.md)
 - [Death](hardship-death.md)
 - Some perils are defined by context:
   - Theft is taking property from a *known* place.

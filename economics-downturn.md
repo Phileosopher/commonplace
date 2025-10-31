@@ -86,7 +86,7 @@ People have more time, but less money:
 - Media services (e.g., streaming TV shows) have more viewership, but a lower proportion of paid subscribers.
   - Unemployed people are waiting to get a job, so they have time, but they don't have any expendable income.
 - More people walk or ride bicycles.
-  - They either can't drive (because their car is broken down) or they're trying to combine [saving money](money-saving.md) with [being healthier](body-4_health.md).
+  - They either can't drive (because their car is broken down) or they're trying to combine [saving money](money-saving.md) with [being healthier](body-health.md).
 
 Investors are nervous:
 

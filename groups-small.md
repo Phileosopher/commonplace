@@ -39,7 +39,7 @@ When a shared [purpose](purpose.md) is strong enough, people can get along bette
 
 [Leadership](mgmt-1_why.md) is nothing more than [making decisions](people-decisions.md) that affect a group.
 
-People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-4_friends.md) the other group members.
+People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
 
 The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](personality.md).
 
@@ -67,7 +67,7 @@ When confronting [evil](morality-evil.md) inside a group, leaders are at a treme
 
 In most groups, the various [forms of power](power-types.md) grant different types of leadership to various members. There's a significant difference between a [natural specialty](jobs-specialization.md) and [personality](personality.md) that creates different types of [value](values-quality.md), versus conveying that value to others, and at least a few archetypes typically arise through different members:
 
-1. Social leadership - usually the [connections](people-4_friends.md) inside the group.
+1. Social leadership - usually the [connections](people-friends.md) inside the group.
 2. Thought leadership - has the most [understanding](understanding.md) of many specific matters in the group.
 3. [Image](people-image-why.md) leadership - has the most connections with people outside the group.
 4. [Creative](mind-creativity.md) leadership - has the most understanding of things outside the group to draw inspiration from.

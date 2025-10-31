@@ -83,7 +83,7 @@ Marauder Effect - When comparatively comfortable people become instantly deprive
 
 Mooers' Law - People only gather information from a system if it's less trouble than not knowing.
 
-Narrative Gravity Law - People are drawn to [stories](stories.md) that skew facts proportional to how many people believe those stories.
+Narrative Gravity Law - People are drawn to [stories](stories-why.md) that skew facts proportional to how many people believe those stories.
 
 Orgel's Second Rule - The collective system is smarter than anyone in it.
 

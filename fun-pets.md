@@ -17,7 +17,7 @@ A pet, especially a dog, is also great practice for [small children](parenting-b
 
 At the same time, a pet isn't a replacement for meaningful human relationships:
 
-- We need time with others and [friends](people-4_friends.md).
+- We need time with others and [friends](people-friends.md).
 - If we've spent lots of time [alone](hardship-solitude.md), we'll often impose our need for companionship and [love](people-love.md) onto an animal and imagine they love us back more than they really do.
 
 ## Match your pet to your commitment level
@@ -40,6 +40,18 @@ If possible, avoid purebred dogs:
 - Mutts have better personalities, a longer lifespan, and a happier life, and they're [much more affordable to get](money-4_spending.md).
 
 Reptiles are often higher-maintenance (with heat lamps and glass containers), and sometimes carry unique diseases.
+
+If you want to, you can befriend crows:
+
+1. Aim for crows that have been in urban or suburban areas, which are more friendly to people than rural crows.
+2. Give them food, such as peanuts in the shell. They're omnivores, so they can eat what we eat.
+   - Avoid watching them or the food you've offered, and walk away from it to show them that you don't mean any harm.
+   - Once they're familiar with you, you'll be more free to vary your behavior around them.
+3. Feed them regularly until they come to recognize you.
+   - They are very good at detecting your gait, face, and even your car's engine sound.
+4. Consistently feed them every time, which trains them to be familiar with you.
+   - When they have fledglings, they will be less responsive, but will revert to their familiar pattern once the fledgling has grown at least a few weeks.
+5. If you want to, talk with them. you can also try saying something specific every time you're about to bring food out.
 
 ## Make what you can for your pet
 

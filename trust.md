@@ -38,7 +38,7 @@ We may *think* we see something obvious and *know* it exists, but our minds play
 
 Everything we can use to build out our understanding of reality is only somewhat reliable:
 
-1. Perceptions that come from the world around us, captured in moment-by-moment snapshots and combined into a [story](stories.md)
+1. Perceptions that come from the world around us, captured in moment-by-moment snapshots and combined into a [story](stories-why.md)
 2. Things we derive from those perceptions, ranging from [feelings](mind-feelings.md) to legitimate [understanding](understanding.md)
 3. Whatever our environment tells us, including things we infer and [other people](people-conversation.md)
 4. Broad-reaching things made by or for [many people](groups-member.md)
@@ -103,7 +103,7 @@ To understand how bound to trust we are, try to prove with absolute certainty th
 - Prove that we're not living in a shared computer simulation.
 - Demonstrate that the words you're reading *aren't* reading your mind and stealing your life force.
 - Verify that [death](mind-feelings-fear.md) *really* happens, and that people don't teleport away at that moment and replace themselves with a sack of realistic-looking meat.
-- The very *essence* of [speculative](imagination.md) [fiction](stories.md) is to play with the things we often trust, so try to prove that each one of them is either impossible or [will be](imagination.md) impossible.
+- The very *essence* of [speculative](imagination.md) [fiction](stories-why.md) is to play with the things we often trust, so try to prove that each one of them is either impossible or [will be](imagination.md) impossible.
 
 Frequently, people with trust issues will attempt to tear down *all* forms of trust. It's the same obsession whether they're trying to manage their [understanding](understanding.md) of [science](science.md) or [religion](religion.md). They're powering their decisions by [past trauma](hardship-ptsd.md) and don't want to accept that their need for [certainty](understanding-certainty.md) has been unmet.
 

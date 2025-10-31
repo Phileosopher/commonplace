@@ -48,9 +48,9 @@ Expectations - any [perception](people-image-why.md) of the above power, based o
 
 Anticipation - any perception of the above power, but predicted in the [future](imagination.md).
 
-Reference - [familiar](people-4_friends.md) with other people with the means to do any of the above, which frequently includes [family](people-family.md) or [cultural ties](people-culture.md).
+Reference - [familiar](people-friends.md) with other people with the means to do any of the above, which frequently includes [family](people-family.md) or [cultural ties](people-culture.md).
 
-Narrative - [language](language.md) skills to [adapt](mind-creativity.md) or [distort](people-image-distortion.md) the [appearance](people-image-why.md) of [reality](reality.md) to fit a [desirable](purpose.md) [story](stories.md), typically with the ability to blame others.
+Narrative - [language](language.md) skills to [adapt](mind-creativity.md) or [distort](people-image-distortion.md) the [appearance](people-image-why.md) of [reality](reality.md) to fit a [desirable](purpose.md) [story](stories-why.md), typically with the ability to blame others.
 
 Subdivisions - anything that breaks out power where multiple people can own the same thing:
 

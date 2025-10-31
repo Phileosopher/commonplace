@@ -103,7 +103,7 @@ We can't control our [feelings](mind-feelings.md) directly, but we *can* control
 
 It's our nature to make stories about how the situation has played out, but *never* do that in the midst of any hardship:
 
-- When we suffer, we often tend to make a [story](stories.md) of our experiences that ends in "now".
+- When we suffer, we often tend to make a [story](stories-why.md) of our experiences that ends in "now".
   - Further, if we dwell on it, we tend to make stories based on that miserable story to imagine all the possible *future* bad stories that could happen.
 - You're in the middle of the story, and *every* good story has an awful middle.
 - The [stress](mind-feelings-happiness-stress.md) of your experiences means you must think of yourself as "temporarily insane".
@@ -216,8 +216,8 @@ Wherever we are, we can add hope to our lives:
 - Read inspiring stories or [the Bible](bible.md).
 - [Meditate](awareness-meditation.md.md).
 - Perform a small task toward a [goal](success-3_goals.md) you want to accomplish.
-- [Spend time around others](people-4_friends.md) who are doing as badly or worse than you.
-- [Exercise](body-3_exercise.md) to let out the stress.
+- [Spend time around others](people-friends.md) who are doing as badly or worse than you.
+- [Exercise](body-exercise.md) to let out the stress.
 
 Work tenaciously to avoid things that will sabotage hope:
 
@@ -272,7 +272,7 @@ Even with plenty of support, you still must make difficult decisions to change.
 
 Extreme hardship, especially when it includes poverty, often drives away close friends from before that hardship:
 
-- [Friendship](people-4_friends.md) comes through shared experience, so you've now out-experienced the friends you once had.
+- [Friendship](people-friends.md) comes through shared experience, so you've now out-experienced the friends you once had.
 - Hardship changes us, so we often become unrecognizable to family and close friends.
 - Many of the friends you once had before the hardship will feel uncomfortable about the new situation and won't associate with you anymore.
 - Often, the *consequences* of the hardship can alienate as well (often from prejudice or anger about your [decisions](people-decisions.md)).
@@ -294,7 +294,7 @@ It's not uncommon for people you once thought were your friends to become your e
 
 - The community that supported you through your hardship might not be willing to change in response to your self-improvement.
 - [Group leaders](groups-small.md), especially, have trouble accepting the shifting dynamics that come from supporting someone who runs with that support.
-- Keep the [friends](people-4_friends.md) who matter, but drop a community when [they reject you](morality-taboo.md) or interfere with your [goals](success-3_goals.md).
+- Keep the [friends](people-friends.md) who matter, but drop a community when [they reject you](morality-taboo.md) or interfere with your [goals](success-3_goals.md).
 
 ## Give yourself time
 

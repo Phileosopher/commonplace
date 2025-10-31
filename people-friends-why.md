@@ -3,7 +3,7 @@
 
 It's a [human universal](humanity-universals.md) that we need someone to implicitly [trust](trust.md).
 
-Broadly, favor is when a person like someone else, and it's usually for a clear and specific [reason](purpose.md). A friendship is when two people [like each other](people-4_friends.md), or at least [perceive](people-image-why.md) it to be that way, in a way that transcends anything particularly reasonable.
+Broadly, favor is when a person like someone else, and it's usually for a clear and specific [reason](purpose.md). A friendship is when two people [like each other](people-friends.md), or at least [perceive](people-image-why.md) it to be that way, in a way that transcends anything particularly reasonable.
 
 Friendships aren't *always* a two-way experience, but a person can only have a friend if they [expect](imagination.md) it's two-way.
 

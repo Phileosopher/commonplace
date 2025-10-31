@@ -74,7 +74,7 @@ Some study techniques are better than others, but none of them are "perfect".
 
 A. Read a Bible book in one sitting, with at least two different translations, at least 2-4 times.
 
-- The best way to understand the themes of the Bible is to read it from the perspective of it being a dramatized [story](stories.md), *not* as an exhaustive text that covers every unimportant detail of its subject.
+- The best way to understand the themes of the Bible is to read it from the perspective of it being a dramatized [story](stories-why.md), *not* as an exhaustive text that covers every unimportant detail of its subject.
 
 B. Ask questions about the book as you read it:
 

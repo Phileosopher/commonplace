@@ -112,7 +112,7 @@ Not everyone disagrees on the same [values](values.md), even when they're in a [
 6. Attacking the person: They redirect the focus to the speaker's [authority](people-image-why.md) ("ad hominem"). At this point, they're often [afraid](mind-feelings-fear.md) their opponent might be right.
 7. Blindly attacking: They'll use [insults](morality-taboo.md) and call their opponent names. This person is operating strictly on [animal impulses](mind-feelings.md) and isn't expressing enough present [maturity](maturity.md) for a useful engagement.
 
-APPLICATION: Hardly any people are as thoroughly convinced on a subject as they appear to be. Usually, a bit of solid [reasoning](logic.md) based on their existing [perspective](people-image-why.md) that incorporates yours (often delivered with a [compelling story](stories.md)), combined with time for them to ruminate on it, is enough to radically [influence](power-influence.md) them over to your perspective, but that doesn't mean they'll shift their inner thoughts on the matter.
+APPLICATION: Hardly any people are as thoroughly convinced on a subject as they appear to be. Usually, a bit of solid [reasoning](logic.md) based on their existing [perspective](people-image-why.md) that incorporates yours (often delivered with a [compelling story](stories-why.md)), combined with time for them to ruminate on it, is enough to radically [influence](power-influence.md) them over to your perspective, but that doesn't mean they'll shift their inner thoughts on the matter.
 
 The range of disagreement a person typically sits within will indicate plenty of information about their motivations:
 

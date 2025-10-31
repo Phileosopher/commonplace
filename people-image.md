@@ -6,9 +6,9 @@ People only take you seriously when you appear healthy:
 - People draw many intuitive prejudices from your presentation.
 - Good hygiene is the implication of health through hiding any odors or dirt.
 
-People begin their [story](stories.md) about you based on the impression they get from your grooming:
+People begin their [story](stories-why.md) about you based on the impression they get from your grooming:
 
-- You don't need to look *fabulous*, but certain ways you can look or smell will violate [folkways and mores](people-1_why.md).
+- You don't need to look *fabulous*, but certain ways you can look or smell will violate [folkways and mores](people-why.md).
 
 [Your clothing](clothes.md) communicates many messages about who you are:
 
@@ -146,7 +146,7 @@ Avoid bad breath:
 
 Most cultures require grooming because it gives an added impression of hygiene.
 
-To look well-groomed without trying, [have a proper diet](body-2_diet.md) and [exercise regularly](body-3_exercise.md).
+To look well-groomed without trying, [have a proper diet](body-diet.md) and [exercise regularly](body-exercise.md).
 
 Never groom around others, especially when you're trimming nails.
 

@@ -73,7 +73,7 @@ Our message changes because of the environment:
 
 Maintain proper spacing:
 
-- Intimate space is under 18 inches and only for very close [friends](people-4_friends.md).
+- Intimate space is under 18 inches and only for very close [friends](people-friends.md).
 - Personal space is from 18 inches to four feet and only for people you're comfortable with.
 - Social space goes out from four feet to twelve feet, and for most one-on-one interaction.
 - Public space is anything farther than twelve feet, and usually for groups and strangers.
@@ -243,14 +243,14 @@ People tend to remember the first and last things the most.
 
 People make their first impressions within 7 seconds of seeing someone:
 
-- Whether it's fair or accurate, their impression is the beginning of a [story](stories.md) that determines whether they like you.
+- Whether it's fair or accurate, their impression is the beginning of a [story](stories-why.md) that determines whether they like you.
 - 80% of that impression is from your posture while standing or sitting.
 - Over the internet or phone, your presence is usually defined by your published content or voice instead.
 
 Work on your image for when people see you enter a room:
 
 - [Dress and groom](people-image.md) as well as the best-dressed people at the venue.
-- Improve your physical appearance by working on your [weight and fitness](body-3_exercise.md).
+- Improve your physical appearance by working on your [weight and fitness](body-exercise.md).
 
 Practice greeting people:
 

@@ -27,7 +27,7 @@ This will show itself through how they prioritize their life, some examples:
 - Aspiring [entrepreneur](entrepreneur-1_why.md): money/power/honor
 - Aspiring [executive/ceo](mgmt-1_why.md): money/power/honor
 - [Intellectual](understanding.md): power
-- Worship of their [body's strength](body-3_exercise.md) (power)
+- Worship of their [body's strength](body-exercise.md) (power)
 - Worship of their [body's appearance](people-image.md): honor
 - Aspiring to be religious or a celebrity: honor
 - Drug addict: comfort
@@ -126,7 +126,7 @@ Engages in [cultural activities](people-culture.md) that God doesn't like.
 
 Believing "Christian" media to be a vastly superior classification of media, even when it's [low-quality](values-quality.md).
 
-- Many Christian [stories](stories.md) are absolute garbage because they don't give room for the experience to express itself.
+- Many Christian [stories](stories-why.md) are absolute garbage because they don't give room for the experience to express itself.
   - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](people-decisions.md).
 - For whatever reason, many Christian creatives have zero [faith](trust.md) in their ability to convey the correct [meaning](meaning.md):
   1. The audience might not understand the implication that a bad thing is bad.

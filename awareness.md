@@ -4,7 +4,7 @@
 We can't live healthy lives when our subconscious always drives us:
 
 - Constant fear of loss leads to more stress.
-- We experience less [connection](people-1_why.md) with others and trouble experiencing [love](people-love.md).
+- We experience less [connection](people-why.md) with others and trouble experiencing [love](people-love.md).
 - A false sense of crisis can lead to neglected needs.
 - We'll fixate on something and ignore important details around it.
 

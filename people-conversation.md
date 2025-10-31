@@ -13,11 +13,11 @@ We're [habituated](habits.md) to conversations, so we treat them as a relatively
 
 1. Person A makes [decisions](people-decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](imagination.md) what Person B is likely perceiving.
 2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](people-image-why.md) and [understood](understanding.md) them as they send it.
-3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
+3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories-why.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
 4. Person B [decides](people-decisions.md) how to respond to Person A, then the role is reversed.
 5. As the conversation persists, Person A and Person B maintain partial [memory](mind-memory.md) of *all* the past information they recorded, and will draw on it at *any* time in the future, even decades later.
 
-This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](people-image-why.md) with the partial perspective of another person. This is effectively another [story](stories.md) to add to our experiences.
+This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](people-image-why.md) with the partial perspective of another person. This is effectively another [story](stories-why.md) to add to our experiences.
 
 APPLICATION: Conversations help us [understand](understanding.md) reality from others' points of view, so we gain the maximum possible understanding when we seek to understand others' views and have frequent conversations with as many people as possible.
 
@@ -36,7 +36,7 @@ We're always constrained by our [medium](creations.md), whether it's through [wr
 
 ## Background information
 
-Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](people-decisions.md) with respect to our culture or [integrate our shadow](personality.md).
+Our [cultural](people-culture.md) [upbringing](people-family.md) defines the [values](values.md) we interpret and the [stories](stories-why.md) we choose. More specifically, our culture dictates our subconscious [bias](mind-bias.md), offset by the values we've [identified](identity.md) with once we've attained enough [maturity](maturity.md) to [decide](people-decisions.md) with respect to our culture or [integrate our shadow](personality.md).
 
 We constantly must [logically induce](logic.md) what other people are saying because we can't *precisely* [imagine](imagination.md) what they're thinking. Typically, we can more easily communicate through [feelings](mind-feelings.md), but expressing anything [logically](logic.md) takes *tons* of [effort](results.md).
 
@@ -53,7 +53,7 @@ We use several factors to choose which and how many details to incorporate into 
 
 Our choices broadly create a few possible general communication approaches (DISC communication styles):
 
-1. Strip things down to concise [stories](stories.md) (Dominance).
+1. Strip things down to concise [stories](stories-why.md) (Dominance).
 2. Emphasize social [relationships](people-friends-why.md) (Influence).
 3. Focus on [facts and information](reality.md) with many details (Steadiness).
 4. Focus on others' [understanding](understanding.md) by repeating ideas multiple times (Compliance).
@@ -94,9 +94,9 @@ Finally, we must closely examine every time we [identify](identity.md) with word
 
 When we listen and respond, we tend to gather a type of "shared [understanding](understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends-why.md).
 
-This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](people-image-why.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](people-image-why.md) from them through the [medium](creations.md) of [stories](stories.md) and [feelings](mind-feelings.md).
+This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](people-image-why.md) how they see life, so we can somewhat reliably [imagine](imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](people-image-why.md) from them through the [medium](creations.md) of [stories](stories-why.md) and [feelings](mind-feelings.md).
 
-This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
+This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories-why.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories-why.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 
 APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](people-culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
 
@@ -106,7 +106,7 @@ When we compound this form of understanding across all people, any one person ca
 
 ## Shared dismissal of information
 
-One hidden, counterintuitive benefit of discussing topics is that it gives us [closure](stories.md), specifically when the topics are difficult to express.
+One hidden, counterintuitive benefit of discussing topics is that it gives us [closure](stories-why.md), specifically when the topics are difficult to express.
 
 When we discuss a [painful](hardship-ptsd.md) part of our experiences, we frame [language](language.md) around it to make it clearer to us.
 
@@ -114,4 +114,4 @@ There is another effect, though. By reliving an experience in a way that include
 
 With the response of someone else, we'll often feel less alone about that experience, but will also consider the situation resolved through its expression. It may feel like a [creative result](results.md) that somehow created a benefit for someone else's life, or simply the acknowledgement that our [feelings](mind-feelings.md) from an experience were not a completely [solitary](hardship-solitude.md) phenomenon.
 
-APPLICATION: The only way to make an [AI](computers-ai.md) chatbot work correctly is to prevent the conversation from going on too long. After about 2-3 minutes (or maybe longer), the AI won't have enough memory to remember *everything* in the conversation. That AI would also have to have selective memory loss as well that refines the information into human-like [stories](stories.md).
+APPLICATION: The only way to make an [AI](computers-ai.md) chatbot work correctly is to prevent the conversation from going on too long. After about 2-3 minutes (or maybe longer), the AI won't have enough memory to remember *everything* in the conversation. That AI would also have to have selective memory loss as well that refines the information into human-like [stories](stories-why.md).

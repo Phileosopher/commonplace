@@ -13,7 +13,7 @@ Every discipline is configured to address a specific portion of living:
 - [Computer programmers](computers-software.md) create [logic](logic.md)-based [automation](computers-programming.md).
 - Mechanics and technicians [repair](https://adequate.life/fix/) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
-- Media professionals [create](creations.md) and [perform](results.md) [stories](stories.md).
+- Media professionals [create](creations.md) and [perform](results.md) [stories](stories-why.md).
 
 Though those roles seem dramatically different, they have *many* abstract components in common with one another. As someone [develops a craft](mind-creativity.md), they start straddling into neighboring [specializations](jobs-specialization.md), and masters of a craft often become highly skilled at *multiple* disciplines to accomplish their [purposes](purpose.md).
 
@@ -28,7 +28,7 @@ These abstractions are *far* more [useful](purpose.md) than just that line of wo
 - [Art and criticism](values-quality.md) are dividing and reproducing [beauty](mind-creativity.md).
 - Physical labor is manipulating [metaphysics](reality.md).
 - Engineering is making knowable [metaphysics](reality.md) observable and reproducible.
-- [Friendships](people-4_friends.md), [social trends](trends.md), and [politics](groups-large.md) are the connections between minds.
+- [Friendships](people-friends.md), [social trends](trends.md), and [politics](groups-large.md) are the connections between minds.
 
 ### Abstracted
 
@@ -129,7 +129,7 @@ APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.
 
 On the other hand, philosophical understanding makes *many* other aspects of life easier:
 
-- More ability to distinguish between [facts](reality.md) and [opinions](stories.md).
+- More ability to distinguish between [facts](reality.md) and [opinions](stories-why.md).
 - Easier to detect [patterns](symbols.md) across unrelated elements.
 - After some practice, broadly applied ideas are *much* easier to [learn](understanding.md) and (more importantly) unlearn.
 - To stay precise to the truth, learning things requires *far* less mental rework later.
@@ -147,7 +147,7 @@ Be careful who you read, though. The [culture](people-culture.md) a philosopher 
 2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
-APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories.md) or a few years of life experience.
+APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories-why.md) or a few years of life experience.
 
 In that sense, all philosophers are idealists (or bitter idealists), which is why most practical people find them insufferable.
 

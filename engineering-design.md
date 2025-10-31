@@ -34,7 +34,7 @@ As they attempt to perform an action, they perform a complex [decisions-based ca
 - When that object has alternative objects for accomplishing the same task, they may use another object.
 - If that object is absolutely necessary to perform the task, they'll either have to exercise willpower to complete it or will find [a creative way](mind-creativity.md) to *not* perform that task at all.
 
-On a large-scale, many projects have lengthy meetings that discuss the size of a logo or the precise location a webpage opens to because absolutely *inane-looking* details can provoke dramatic philosophical distinctions within the user's [story](stories.md).
+On a large-scale, many projects have lengthy meetings that discuss the size of a logo or the precise location a webpage opens to because absolutely *inane-looking* details can provoke dramatic philosophical distinctions within the user's [story](stories-why.md).
 
 However, since [cultures](people-culture.md) change and [technologies](technology.md) improve, a good design at one time can easily become a bad design later.
 

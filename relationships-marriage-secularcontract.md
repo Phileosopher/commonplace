@@ -42,7 +42,7 @@ Beyond my current capacity to perform them, I will exercise the following virtue
 - Respect
 - Compassion
 
-To the farthest possible, I will be your [friend](people-4_friends.md).
+To the farthest possible, I will be your [friend](people-friends.md).
 
 - I will honor and cherish you.
 - My [sentiment](mind-feelings.md) runs strongly for you, and I intend to maintain at least some of that sentiment for the rest of my life.

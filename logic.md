@@ -1,7 +1,7 @@
 
 # What logic is
 
-Logic is structured thinking. Like all thoughts, logic is a [story](stories.md), but very specific and highly well-organized.
+Logic is structured thinking. Like all thoughts, logic is a [story](stories-why.md), but very specific and highly well-organized.
 
 Logic is an abstraction. Unlike [understanding](understanding.md), logic doesn't have to connect to [reality](reality.md).
 
@@ -113,7 +113,7 @@ This built-up logic system is immensely helpful because we don't have to think a
 
 Contrary to how we may [intuitively](mind-feelings.md) [imagine](imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](people-image-why.md). We first perceive what exists, *then* try to [estimate](imagination.md) what caused that thing.
 
-[Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](understanding-certainty.md) certain things over others.
+[Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories-why.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](understanding-certainty.md) certain things over others.
 
 ## Failing
 
@@ -179,7 +179,7 @@ APPLICATION: Even if you have many qualifiers, you can still find complete certa
 
 One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](paradoxes.md). By creating [imagined](imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
 
-APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories.md), of every type of media, are [created](creations.md) this way.
+APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
 
 Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
 

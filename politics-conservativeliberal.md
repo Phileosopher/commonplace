@@ -69,7 +69,7 @@ However, both conservatives and liberals run the risk of abusing their power, me
 Conservatives believe in natural law:
 
 - [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](people-decisions.md). This makes the death penalty acceptable and abortion bad.
-- Individual [morality](morality.md) is irrespective of what an individual [interprets](people-image-why.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](people-decisions.md).
+- Individual [morality](morality.md) is irrespective of what an individual [interprets](people-image-why.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories-why.md) behind a [bad decision](people-decisions.md).
 - Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](people-rules.md).
 
 Progressives believe natural law is relative, nonexistent, or doesn't matter:

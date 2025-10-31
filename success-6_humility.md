@@ -154,10 +154,10 @@ You'll never get it completely right:
 - Your [identity](identity.md) should *always* be in something more important than your accomplishments.
 - Ironically, the experience of success makes you more close-minded (since that's what you needed to [persevere](success-5_persevering.md)), so you're guaranteed to be less prepared for [any emerging trends](trends.md).
 - You always have room to grow, no matter what:
-  - [Nerds](jobs-specialization.md) can [work out](body-3_exercise.md) more.
+  - [Nerds](jobs-specialization.md) can [work out](body-exercise.md) more.
   - [Marketing](marketing.md) people can learn [math](math.md).
   - [Trendy](trends.md) people can learn [philosophy](philosophy.md).
-- Constantly work to [improve *others'* lives](people-1_why.md).
+- Constantly work to [improve *others'* lives](people-why.md).
   - Give the glory to others.
   - Praise others whenever they're responsible for a thought, even if it was yours to begin with.
 
@@ -165,7 +165,7 @@ Keep following people stronger and better than you:
 
 - Read books written by people smarter than you.
 - Learn from people who have grown and expanded in directions you'll never achieve.
-- Keep nurturing a community of [people around you](people-4_friends.md) who aren't afraid to challenge your ideas.
+- Keep nurturing a community of [people around you](people-friends.md) who aren't afraid to challenge your ideas.
 - Keep seeking people who can equip you to succeed even further.
 - Measure yourself against the greatest people of all time, not just your contemporaries.
 

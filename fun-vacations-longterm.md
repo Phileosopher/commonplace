@@ -37,7 +37,7 @@ Learn the culture *before* you go:
 
 [Traveler's insurance](money-insurance.md) is *always* worth the expense if you're visiting an unfamiliar [culture](people-culture.md), though a standard renter's or homeowner's insurance policy can cover at least part of the risk.
 
-If the region doesn't provide universal [health coverage](body-4_health.md), traveler's health insurance is also worth the cost.
+If the region doesn't provide universal [health coverage](body-health.md), traveler's health insurance is also worth the cost.
 
 Consider a separate bank card or credit card attached to a vacation-only expense account, preferably without high fees for that particular region.
 

@@ -12,7 +12,7 @@ While leftism started with some ideas from intellectuals like Plato and Thomas M
 
 In practice, though, leftism *always* has the same mechanism:
 
-1. Establish a powerful minority as a [capitalizing](economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-4_health.md), [family structure](family.md), or anything else.
+1. Establish a powerful minority as a [capitalizing](economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
 2. Blame many of the current issues on the excessive ownership by that powerful minority.
 3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
 4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
@@ -87,7 +87,7 @@ Most leftist apologists state that it's a working system that simply needs more 
 
 ## Rebranding leftism
 
-The leftist [narrative](stories.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](classes.md) society in other directions.
+The leftist [narrative](stories-why.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](classes.md) society in other directions.
 
 The most prominent form of classification comes through [identity](identity.md) politics. Instead of grouping people by their financial "oppressor" status (i.e., poor proletariat vs. wealthy bourgeois), every person is demarcated by additional oppressive states of existence:
 
@@ -101,7 +101,7 @@ The most prominent form of classification comes through [identity](identity.md) 
 - Housing - property owners oppress renters and the homeless.
 - Metabolism - slim people oppress average and fat people.
 
-In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](https://books2read.com/autism/) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-2_diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
+In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](https://books2read.com/autism/) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
 
 By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against the alleged oppressor class (i.e., heterosexual white neurotypical males within identity politics).
 
@@ -117,7 +117,7 @@ The ideal domain is a diversity of thought, which requires constant organization
 
 ## The climate cult
 
-Another topic the left has adopted is the [story](stories.md) that humanity is destroying nature ("ecocide"). The claim has moved around, but the general idea is that human-produced carbon emissions cause [instability](politics-leftism-sustainability.md) in the climate, which can cause extreme weather conditions.
+Another topic the left has adopted is the [story](stories-why.md) that humanity is destroying nature ("ecocide"). The claim has moved around, but the general idea is that human-produced carbon emissions cause [instability](politics-leftism-sustainability.md) in the climate, which can cause extreme weather conditions.
 
 There are a few realities (mostly [scientifically](science.md) proven) that conflict with the climate apocalypse story:
 

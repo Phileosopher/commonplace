@@ -5,7 +5,7 @@
 
 Investing is committing money to financial instruments with the broad [purpose](purpose.md) of gaining a profit.
 
-We technically "invest" when we [lose weight](body-2_diet.md), [organize](organization.md), [advance our career](jobs-1_why.md), and [succeed](success-1_why.md), but *financial* investing is strictly using [money](money-1_why.md) to make more money.
+We technically "invest" when we [lose weight](body-diet.md), [organize](organization.md), [advance our career](jobs-1_why.md), and [succeed](success-1_why.md), but *financial* investing is strictly using [money](money-1_why.md) to make more money.
 
 ## Don't invest full-time
 
@@ -31,7 +31,7 @@ A vast minority of people do *not* have all four:
 
 - However, anyone can still invest casually if they simply have 1-2 of them.
 - People can still find luck in the markets.
-- Making investor groups with [friends](people-4_friends.md) can also offset some elements you may lack.
+- Making investor groups with [friends](people-friends.md) can also offset some elements you may lack.
 - *Anyone* can invest with money they're willing to risk.
 
 ## Start soon
@@ -239,7 +239,7 @@ The best choices have more benefits than downsides, but still have downsides.
 
 Getting a second opinion can weed out your shortcomings.
 
-- Find [friends](people-4_friends.md) who you can discuss your investing strategies and ideas with.
+- Find [friends](people-friends.md) who you can discuss your investing strategies and ideas with.
 
 Average out your five closest friends' income to see the financial lifestyle you'll have in five years.
 
@@ -386,7 +386,7 @@ You should have at least a few idiosyncrasies resolved regarding your retirement
 The markets are driven heavily by luck, so stay both optimistic and humble.
 
 - Your most important investment is in yourself, beyond the [money](money-1_why.md).
-  - Your [personal life](fun.md), [professional life](jobs-1_why.md), and [health](body-4_health.md) are more important than your portfolio or wealth.
+  - Your [personal life](fun.md), [professional life](jobs-1_why.md), and [health](body-health.md) are more important than your portfolio or wealth.
 - Learn to cool off anytime you start thinking you're a financial genius.
   - Even if you *are* a genius, your hubris will become your undoing.
 

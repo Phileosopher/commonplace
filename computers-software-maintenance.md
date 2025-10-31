@@ -24,6 +24,8 @@ However, it usually makes sense to have other people improve the creator's origi
 
 The best feature in computers, no matter what, is speed. The faster the computer performs tasks, the more efficiently it's using resources, and the more burden that task can take on when it's part of a much larger system.
 
+Beyond the speed of the computer performing the action, the *second*-best feature is the speed of usability. While the first is a question of optimized code, the second is a matter of [UX/design](engineering-design-cs.md).
+
 Every feature that accommodates different situations adds to the complexity of the program. Imagine, for example, a non-software comparison with a screwdriver:
 
 1. At the onset, the screwdriver is a simple tip, shaft, and handle.
@@ -35,7 +37,7 @@ Every feature that accommodates different situations adds to the complexity of t
 
 In software, [the UI](engineering-design.md) can hide away most features, so there are nowhere *near* as many constraints to adding features as most other engineering. This is good because it allows the core function of the software to be relatively unaffected, and bad because the list of features can be theoretically endless.
 
-The more time software developers work on features, the less they're working on the core function of the software.
+The more time software developers work on features, the less they're working on the core function of the software, and this contributes to the eventual decay of the software as a whole.
 
 One of the most significant sources of slowdown and [cybersecurity risks](computers-cysec.md) comes from using an off-the-shelf [framework](computers-programming.md) for an application:
 

@@ -5,7 +5,7 @@
 
 Game development is all effective aspects of [software development](computers-software.md), but requires *many* [specialized](jobs-specialization.md) roles that would otherwise be optional or unnecessary in most other software domains:
 
-- Direct game designers, which can branch out into gameplay, levels, monetization, [usability/UI](engineering-design.md), cinematic cutscenes, [narrative](stories.md), [writing](language-writing.md), and [missions/quests](purpose.md).
+- Direct game designers, which can branch out into gameplay, levels, monetization, [usability/UI](engineering-design.md), cinematic cutscenes, [narrative](stories-why.md), [writing](language-writing.md), and [missions/quests](purpose.md).
 - Programming roles that branch out into all standard software development, including [graphics](engineering-graphics.md), [animation](art.md), [AI](computers-ai.md), [servers](computers-distsys.md), physics, pipeline engineers, build engineers, testing, visual effects, databases, [language-specific](computers-languages.md) roles, and roles specific to game engines.
 - A wide variety of [art](art.md) roles including 2D and 3D versions of environments, animation, rigging, motion capture, textures, lighting, 2D characters, 2D concept art, 3D camera, storyboarding, and both UI *and* UX.
 - [Quality assurance](computers-software-redesign.md) roles, especially play testing.
@@ -107,7 +107,7 @@ Every game developer must balance three major psychological balances throughout 
 
 1. The game has to be fun, which is balancing between enjoyable familiar things and novelty.
 2. The game must be challenging enough: too much and the player will "ragequit", too little and the player will be bored. The challenge must come from the player's *interaction* with the game, not from [software errors](computers-software-redesign.md) or arbitrary game design that stretches out time.
-3. The game must make the person curious, or they won't want to keep playing. This sometimes come from the game's [story](stories.md), but more often comes from the functionality of what the player controls and the possibilities that it opens (e.g., seeing if they can jump across a normally impassable large chasm using a weapon that launches them backward).
+3. The game must make the person curious, or they won't want to keep playing. This sometimes come from the game's [story](stories-why.md), but more often comes from the functionality of what the player controls and the possibilities that it opens (e.g., seeing if they can jump across a normally impassable large chasm using a weapon that launches them backward).
 
 The most reliable way to keep a player engaged with the game is to give them a clear way to overcome the challenge, as well as potentially helping them to overcome it more easily:
 

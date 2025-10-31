@@ -5,7 +5,7 @@ Human beings aren't capable of understanding the raw information in a [database]
 
 - Our minds have a tendency to quickly assign [meaning](meaning.md) as we perceive the information, so columns of numbers will represent as a feeling instead of being held as separate values.
 - Even when they're low-enough on the [autism spectrum](mind-neurodivergence.md), a database has to be comparatively smaller for them to understand the information.
-- The data may evoke a [story](stories.md) as a collective set of information that would never be expressed on an element-by-element basis.
+- The data may evoke a [story](stories-why.md) as a collective set of information that would never be expressed on an element-by-element basis.
 
 Therefore, we must use more articulate ways to express this information.
 

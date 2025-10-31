@@ -29,7 +29,7 @@ If you've been hurt by a parent, don't wait for them to change:
 
 If your emotional scarring is severe, spend time completely away from them:
 
-- About 5-10 years can dramatically change the situation, especially if you've been building out your [network](people-4_friends.md) and [career](jobs-1_why.md) elsewhere.
+- About 5-10 years can dramatically change the situation, especially if you've been building out your [network](people-friends.md) and [career](jobs-1_why.md) elsewhere.
 
 Whatever issues you don't work through *will* express in your [romantic relationships](relationships-why.md), so work intentionally on your [self-awareness](awareness.md) and [growth](maturity.md).
 

@@ -53,7 +53,7 @@ The implications of this culture would mean that young people will respect their
 
 Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](trends.md) to transform the host group as they observe the stranger.
 
-Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories.md) of other cultures and places, with their ideas representing as [new trends](trends.md) among those cultures.
+Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories-why.md) of other cultures and places, with their ideas representing as [new trends](trends.md) among those cultures.
 
 ## Language
 
@@ -163,6 +163,6 @@ We're stuck with the unpleasant constraints of reality as we now llive it. It ca
 
 The most clear evidence of this comes through how we presently have all the [technology](technology.md) available to easily cure many human afflictions (many diseases, hunger, etc.) but haven't done it yet. The only reliable way it gets done is through [capitalism](economics.md), which is clear evidence of a lack of [inherent virtue](morality.md) within people. Even scaling up through the [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale) will create a fiction that looks more like Warhammer 40K than Star Trek.
 
-The [leftists](politics-leftism.md) and [libertarians](economics.md) both have a theory that there's a group that "distorts" the natural flow of human nature (the capitalists for the leftists, and the legislators for the libertarians). However, neither of them are indicating particularly *where* those [antagonists](stories.md) came from.
+The [leftists](politics-leftism.md) and [libertarians](economics.md) both have a theory that there's a group that "distorts" the natural flow of human nature (the capitalists for the leftists, and the legislators for the libertarians). However, neither of them are indicating particularly *where* those [antagonists](stories-why.md) came from.
 
 This is perfectly possible, but it requires [a perfect, benevolent King to run things](https://theologos.site/millennium/), which is certainly [religious](https://theologos.site/gospel/).

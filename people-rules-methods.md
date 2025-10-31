@@ -87,7 +87,7 @@ While it may appear to be the most severe, it is also the most final, since the 
 
 Forbidding contact with a specified individual or group.
 
-It can be *any* of the above, but directed toward [family](people-family.md) and [friends](people-4_friends.md) close to someone.
+It can be *any* of the above, but directed toward [family](people-family.md) and [friends](people-friends.md) close to someone.
 
 ---
 

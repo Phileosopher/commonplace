@@ -15,7 +15,7 @@ Wake up at the same time every morning.
 
 Drink plenty of water.
 
-[Exercise](body-3_exercise.md) regularly.
+[Exercise](body-exercise.md) regularly.
 
 - As little as 10 minutes a day can set a sleep pattern.
 
@@ -45,7 +45,7 @@ Avoid self-care that works against good sleep:
 
 - [Alcohol](fun-alcohol.md) will induce sleep, but it sabotages sleep cycles.
 - Eating elevates the heart rate from digesting food for up to 4 hours.
-- [Exercising](body-3_exercise.md) increases the body's metabolism for 4–5 hours.
+- [Exercising](body-exercise.md) increases the body's metabolism for 4–5 hours.
 - Sleeping pills (such as melatonin) can disrupt circadian rhythms or your neurochemical balance.
 - Using a mobile device stirs up brain activity from using it (not necessarily from blue light).
 

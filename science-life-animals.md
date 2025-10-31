@@ -19,7 +19,7 @@ As a whole, a brain consists of several inter-related parts:
 - The brain is split into two hemispheres, with the left side generally managing more [logic](logic.md) and the right side more [emotions](mind-feelings.md). Each hemisphere controls the opposite side of the body.
 - Within this framework, there are many deeper structures inside the brain that perform *very* specific things:
   - The pituitary gland is a pea-sized chunk right behind the bridge of the nose and regulates the function of other glands in the body.
-  - The hypothalamus is right above the pituitary gland and sends chemical messages to regulate body temperature, synchronize [sleep patterns](sleep.md), control [hunger and thirst](body-2_diet.md), and influence parts of [memory](mind-memory.md) and [emotion](mind-feelings.md).
+  - The hypothalamus is right above the pituitary gland and sends chemical messages to regulate body temperature, synchronize [sleep patterns](sleep.md), control [hunger and thirst](body-diet.md), and influence parts of [memory](mind-memory.md) and [emotion](mind-feelings.md).
   - The pineal gland is *very* deep in the brain and manages sleep cycles with the hormone melatonin.
 - Also, the limbic system is heavily connected to the brain stem, but extends outward into the cerebrum:
   - The amygdala is an almond-shaped chunk right under each hemisphere of the brain that's part of the limbic system.

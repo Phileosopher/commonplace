@@ -20,9 +20,9 @@ Your success as a parent comes from [your success in everything else](success-1_
 
 - [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
 - Learn [self-awareness](awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
-- [Sleep well](sleep.md), [manage your weight](body-2_diet.md), [learn to cook](cooking.md), and [take care of yourself](people-image.md).
+- [Sleep well](sleep.md), [manage your weight](body-diet.md), [learn to cook](cooking.md), and [take care of yourself](people-image.md).
 - Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
-- Build [loving friendships](people-4_friends.md), [especially with your spouse](relationships-marriage.md).
+- Build [loving friendships](people-friends.md), [especially with your spouse](relationships-marriage.md).
 
 However, a *child's* success goes far beyond simply their parents:
 
@@ -169,7 +169,7 @@ You're never going to get parenting completely right:
 - It's practically a guarantee that, in some capacity, you'll be [a bad parent](parenting-children-bad.md)
 - The only way to be a perfect parent is to be a perfect role model, which is humanly impossible.
 - Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](people-decisions.md), *not* the quality of their parenting.
-- At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-4_friends.md) in adulthood, decades later.
+- At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-friends.md) in adulthood, decades later.
 - There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](people-culture.md).
 
 Society vilifies relatively innocuous issues compared to what really matters:

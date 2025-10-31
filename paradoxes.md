@@ -3,7 +3,7 @@
 
 This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](imagination.md) designed to carve out very particular elements of [understanding](understanding.md).
 
-They're usually implied as entertaining [stories](stories.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](glossary-philosophy.md) and why [some laws are universal](lawsaxioms.md).
+They're usually implied as entertaining [stories](stories-why.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](glossary-philosophy.md) and why [some laws are universal](lawsaxioms.md).
 
 Others who are more visually [creative](mind-creativity.md) than me (e.g., [Nicky Case](https://ncase.me/)) have made better summaries, but this is a simplified distillation.
 

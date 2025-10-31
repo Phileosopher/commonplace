@@ -93,7 +93,7 @@ It gives a broad overview of the team's effectiveness, but doesn't work well at 
 
 ### Tuckman's FSNP/FSNPA model
 
-It theorizes that highly effective teams move through a [story](stories.md) of 4-5 stages:
+It theorizes that highly effective teams move through a [story](stories-why.md) of 4-5 stages:
 
 1. Forming
    - Everyone depends highly on the leaders for guidance.

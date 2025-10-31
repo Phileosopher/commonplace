@@ -19,6 +19,20 @@ Small sins [habitually](habits.md) prepare us for larger sins on the same spectr
 - People usually see good and evil as a dualistic battle, but evil is more of a void (like darkness or cold).
 - Apathy and hate are the absence of love, and selfishness is the absence of consideration for others.
 
+From the beginning ([Genesis 3-4](https://biblehub.com/bsb/genesis/3.htm)), the first seven sins show how complex we can make things, and how bad things can become:
+
+1. Eve permitted the temptation to eat the fruit, and Adam didn't stand up to oppose it.
+2. Eve, and then Adam, violated the boundary God placed by eating the fruit.
+   - The consequence of this was that we [understood](understanding.md) [morality](morality.md) before we were ready for it (e.g., our [anger](mind-feelings-anger.md) is usually in the wrong place).
+3. Adam blames Eve, who then blames the serpent.
+   - God cursed Adam's work, Eve's sense of safety, and the serpent.
+4. Cain envied the favor God gave his brother Abel.
+   - This was even while God warned him to be careful ("sin is crouching at the door").
+5. Cain murdered Abel.
+6. Cain covered up the murder.
+   - God cursed Cain's work more severely.
+7. Cain tried to negotiate with God to save his body (and not his soul).
+
 All followers of Christ are responsible for removing sin from their lives by submitting themselves to God.
 
 - Submission is a constant and disciplined reliance on the Holy Spirit, and requires [many habits](spiritual-exercises.md) to maintain.
@@ -74,7 +88,7 @@ God didn't create the laws to needlessly oppress.
 
 - Each of the laws, when examined for their intent, teaches either how to [live well](goodlife.md), [love](people-love.md), or have a relationship with Christ.
   - [Galatians 3:23-24](https://biblehub.com/bsb/galatians/3.htm)
-- Some odder laws (like forbidding shellfish) often have [health implications](body-4_health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
+- Some odder laws (like forbidding shellfish) often have [health implications](body-health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
 
 ## Every sin centers on an idol
 
@@ -105,6 +119,11 @@ We can find our idols relatively easily if we examine what we value:
 - What do you believe would make you happy?
 - What is your hope for the future?
 
+Even with self-reflection, we can often be blind to our idols:
+
+- Our [culture](people-culture.md) can often normalize idols so much that we're strange for *not* sharing in that idolatry (e.g., career ambition, family).
+- For competitive reasons, we can often participate in different idols than those around us (meaning less scarce resources).
+
 We must constantly cast down our idols. If we don't, God will remind us. If we *really* don't, God will cast them down for us.
 
 ## Nearly every sin involves pride
@@ -129,6 +148,8 @@ Pride can apply to absolutely *anything*:
 - More spiritual, humble, or religious
 - More poor, more disliked, or weaker
 - Less popular, less talented, or more incapable
+
+Pride is a constant battle against ourselves, since we often want to do *our* will instead of [God's will](god-will.md).
 
 Humility, the opposite of pride, is simply ignoring our status compared to others.
 

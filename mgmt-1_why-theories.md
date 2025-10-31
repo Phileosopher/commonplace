@@ -10,7 +10,7 @@ Separate out and list a Leader, their Tasks, the Teams, and Individuals.
 1. Leaders only exist for a Task.
 2. The quality of a Leader comes from how well they understand how to do the Task.
 3. The Team is a group devoted to performing the Tasks.
-4. Each Individual has various [desires](mind-feelings.md), [fears](mind-feelings-fear.md), [motivations](purpose.md), and [experiences](stories.md).
+4. Each Individual has various [desires](mind-feelings.md), [fears](mind-feelings-fear.md), [motivations](purpose.md), and [experiences](stories-why.md).
 5. A Leader's job is to encourage the Team to do the Tasks.
 6. The Leader will have to modify *how* they encourage the Individual based on that person's context from D.
 

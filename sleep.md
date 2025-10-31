@@ -9,12 +9,12 @@ If someone isn’t getting enough sleep, improving sleep is *the* most dramatic 
 
 Staying well-rested has many, many benefits:
 
-- Physically [healthier](body-4_health.md)
+- Physically [healthier](body-health.md)
 - More [attractive](people-image.md)
 - Better [memory](mind-memory.md)
 - Generally [happier](mind-feelings-happiness.md)
 - More energy
-- [Family and friends](people-4_friends.md) are happier because all the above makes you a generally better person to be around
+- [Family and friends](people-friends.md) are happier because all the above makes you a generally better person to be around
 
 Sleeping allows the body to heal and washes out waste from the brain.
 

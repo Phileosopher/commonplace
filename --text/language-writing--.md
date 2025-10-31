@@ -1,14 +1,4 @@
 
-Whether you're writing a report, a letter, or a presentation, ask yourself:
-- Who's the audience?
-- What are they looking for?
-- How much detail do they want or need?
-- How will the information I have help them in going forward?
-- How much background information do they need?
-- Is anyone likely to be hostile toward what I have to say?
-- Are they familiar with industry jargons?
-- What kinds of examples and analogies will be most helpful to them?
-
 Which ad would catch your attention? "Loaded with fiber and vitamins" or "will lower your blood pressure, cholesterol level, and help prevent a stroke"?
 Don't just tell people the benefits - show them how it will benefit their lives.
 BAD: "This car has antilock brakes and passenger-side airbag." GOOD: "This car will save your life."

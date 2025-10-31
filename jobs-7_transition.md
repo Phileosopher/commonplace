@@ -156,7 +156,7 @@ Stay mindful of your rights and responsibilities:
 
 - You have the right to promptly receive wages promised by your employer, but also have a duty to do your best.
 - You have the right to find a better job with better wages, but are also responsible to follow instructions.
-- You have the right to speak up in the workplace, especially if you feel something is immoral, but are responsible to be [courteous about it](people-4_friends.md).
+- You have the right to speak up in the workplace, especially if you feel something is immoral, but are responsible to be [courteous about it](people-friends.md).
 - You have the right to form employee groups (e.g., unions), but must respect your employer's property.
 - You have the right to decide what goes into your own body (e.g., vaccines).
 

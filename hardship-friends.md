@@ -13,7 +13,7 @@ Carefully consider *why* you lost that friend.
 
 Accept that some things just can't work out, and move on:
 
-- Find [new friends](people-4_friends.md) to fill that void.
+- Find [new friends](people-friends.md) to fill that void.
 - [Release](mind-feelings-happiness-focus.md) the misery and anger to [God](spiritual-exercises-prayer.md).
 
 Since the first few months will be difficult, spend as much time with other friends as you can to avoid the pangs of loneliness.
@@ -35,6 +35,6 @@ Once you start achieving personal growth after enduring hardship, *all* your fri
   2. Become unhappy with your perseverance and [success](success-6_humility.md).
 - New friends won't know what to make of your success, especially if you communicate too early into the friendship about the hardship you had experienced.
 
-This can be devastating, but isn't as severe if you [find a new network of friends](people-4_friends.md) to replace the ones who push you away.
+This can be devastating, but isn't as severe if you [find a new network of friends](people-friends.md) to replace the ones who push you away.
 
-Keep on pushing, since you have now become a phenomenal [story](stories.md) with a happy ending.
+Keep on pushing, since you have now become a phenomenal [story](stories-why.md) with a happy ending.

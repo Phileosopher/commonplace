@@ -4,7 +4,7 @@
 A job search is you, a product, marketing yourself to potential employers:
 
 - Every rule of [marketing](marketing.md) applies to your job search.
-  - You're trying to tell a convincing [story](stories.md) to a manager who needs someone for a job role.
+  - You're trying to tell a convincing [story](stories-why.md) to a manager who needs someone for a job role.
 - You're a consultant filling a role, not simply a commodity.
 
 Besides [crafting a résumé](language-writing-resume.md), your [social network](networks-social.md) presence is a critical portion of the job search:

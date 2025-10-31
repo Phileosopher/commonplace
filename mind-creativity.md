@@ -54,7 +54,7 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 - Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
 - In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](people-decisions.md) is worth the [risk](socialrisk.md).
+We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](people-decisions.md) is worth the [risk](socialrisk.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
@@ -96,7 +96,7 @@ APPLICATION: Many creators won't include themselves as the target audience. By d
 
 ## How we create
 
-Creativity always transitions through a few broad phases. We're building a new [story](stories.md) out of existing ones, so it's *always* messy and unpredictable. Since stories create themselves into new stories as we split and reassemble them, we're perpetually wading through a wall of incomplete things to get to our final [purpose](purpose.md).
+Creativity always transitions through a few broad phases. We're building a new [story](stories-why.md) out of existing ones, so it's *always* messy and unpredictable. Since stories create themselves into new stories as we split and reassemble them, we're perpetually wading through a wall of incomplete things to get to our final [purpose](purpose.md).
 
 All creators travel through approximately the same stages, which makes a [rhythm](trends.md) interposed across any creative [movement](trends.md). Creators will typically stop or linger for decades at one stage if they stop [growing as a person](maturity.md).
 
@@ -106,7 +106,7 @@ We observe sensory cues and learn the steps to perform tasks. We have little to 
 
 There are [techniques](jobs-specialization.md) to do everything faster, create less waste, and improve overall quality, but we always start with a very weak grasp on how to actually *do* the task, let alone improving it.
 
-Most people live within this stage on most things. It's usually so frustrating that we're discouraged to venture farther into it. [Excellent teachers](education.md) will [encourage](people-4_friends.md) and [motivate](purpose.md) us, as well as give us all the "shortcuts" they found to save us dozens or even *hundreds* of hours of time.
+Most people live within this stage on most things. It's usually so frustrating that we're discouraged to venture farther into it. [Excellent teachers](education.md) will [encourage](people-friends.md) and [motivate](purpose.md) us, as well as give us all the "shortcuts" they found to save us dozens or even *hundreds* of hours of time.
 
 It's important to note that this mess is absolutely *required*. Without it, the range of [the unknown](unknown.md) can't expand enough to create anything [meaningful](meaning.md) from the [final result](results.md).
 
@@ -157,7 +157,7 @@ Instead of making something that evokes a specific [feeling](mind-feelings.md), 
 - Including only [features](engineering-design.md) that give the user a better experience.
 - Adding decorations that contribute more to the story.
 
-By removing unnecessary elements, we magnify the the [story](stories.md) we're trying to build by punctuating what's left after we've removed the extra noise.
+By removing unnecessary elements, we magnify the the [story](stories-why.md) we're trying to build by punctuating what's left after we've removed the extra noise.
 
 This is the creative limit for most people in things that aren't their natural disposition at this stage.
 

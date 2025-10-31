@@ -303,7 +303,7 @@ Provide support for them to have a healthier lifestyle:
 
 - Pay them for personal philanthropic time.
 - Enroll in a wellness program (e.g., counseling, [substance abuse](addiction-substances.md)).
-- Establish an on-site gym or give incentives for [weight loss](body-2_diet.md).
+- Establish an on-site gym or give incentives for [weight loss](body-diet.md).
 - Give unlimited vacation days or flexible hours, or simply don't track their hours at all.
 - Fund an adoption assistance program.
 - Furnish a family resource room with books, toys, games, and educational material.

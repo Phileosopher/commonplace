@@ -14,7 +14,7 @@ As early as kindergarten education, we start math with what we observe:
 5. Addition by combining those groups together (e.g., 2 + 3).
 6. Subtraction by removing groups from other groups (e.g., 7 - 2).
 7. Composing numbers in different ways to come to the same answer (e.g., [fact families](https://www.splashlearn.com/math-vocabulary/number-sense/fact-family)).
-8. Exploring applied mathematics by giving [story-based](stories.md) problems.
+8. Exploring applied mathematics by giving [story-based](stories-why.md) problems.
 9. Using a base-10 number system to familiarize everyone with it as a mathematical convention.
 
 From there, most of the effort is applied toward repetition and scaling upward:

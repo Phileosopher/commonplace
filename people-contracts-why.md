@@ -13,7 +13,7 @@ When people are willing to comply with others' standards, they're engaging in a 
 
 These agreements exist so we can feel safe about what others will do with us. In the absence of [evil](morality-evil.md), we wouldn't need them.
 
-Each agreement works through a similar [story](stories.md):
+Each agreement works through a similar [story](stories-why.md):
 
 1. Initial engagement by at least one person [expressing interest](people-conversation.md) in a [purpose](purpose.md) connected with someone else. In a casual engagement, it's usually a slow transition, with both sides respecting what they [see](people-image-why.md) as the others' rights.
 2. Discussing a negotiation of terms, both implicit and explicit.
@@ -46,7 +46,7 @@ In the case of a group who wants to keep [power](power.md), they'll try to make 
 
 ## Agreements
 
-Since written history, people make agreements. Most [religions](religion.md) and [stories](stories.md) involve *some* type of tit-for-tat obligation, and it extends to how we carry out activities within society.
+Since written history, people make agreements. Most [religions](religion.md) and [stories](stories-why.md) involve *some* type of tit-for-tat obligation, and it extends to how we carry out activities within society.
 
 When a person acts, they are only performing any form of sacrifice from 3 possible non-exclusive motivations:
 
@@ -112,7 +112,7 @@ Contracts can also, however, be spoken agreements as well. If it has all the req
 - Recording a conversation is not always sufficient, either. Unless the other person consents to the recording, it may not be admissible evidence in a court.
 - Further, if there are *any* written agreements that are signed, they supersede verbal promises ("parol evidence rule").
 
-A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](habits.md)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](people-4_friends.md) and [family](people-family.md).
+A contract can also be "implied-in-fact", which means the facts expressed (typically through [habit](habits.md)) are inferring the tacit understanding of both parties of that agreement. This probably defines *most* of our daily transactions, especially with [friends](people-friends.md) and [family](people-family.md).
 
 - Many [high-context cultures](people-culture.md) provide gifts with unspoken implications. The motivation is often based on [cultural presumptions](people-culture.md), but has been used to extort future terms out of the other party. This is *very* frequent when someone doesn't understand the customs of a region (e.g., [foreigners](people-image-modern.md), [tourists](fun-vacations.md)).
 - A contract can be obligation by consent ("obligatio consensu"), where there's no requirement for *any* formalities or parties' presence.

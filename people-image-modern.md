@@ -20,7 +20,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - [Insurance](money-insurance.md)
    - [School](education.md) attendance
    - [Telecom](networks-cs.md) and utility agreements (e.g., cell phone, cable TV)
-   - Hospital and [healthcare](body-4_health.md) visits
+   - Hospital and [healthcare](body-health.md) visits
    - Official [employment](jobs-1_why.md)
    - Government records, including tax filings and driver's license/vehicle registration
    - Owned [real estate](home-buy.md)
@@ -68,7 +68,7 @@ This situation means most casual (and typically cost-effective) interactions are
 
 - The [credit score](money-2_debt.md) asks 3 possible reporting companies (Experian, TransUnion, Equifax) if other banks found this entity trustworthy to lend money to.
 - The [insurance score](money-insurance.md) asks a reporting company (LexisNexis) who this entity has had insurance with and what dates.
-- [Health](body-4_health.md) information is accessible through the Medical Information Bureau.
+- [Health](body-health.md) information is accessible through the Medical Information Bureau.
 - There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](education.md) records to bank accounts open in your name.
 - The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals.md) to do their job.
 
@@ -95,7 +95,7 @@ But, there are also major risks with it:
 - The information tracks correlation, but not causation. It is very easy to cause trouble for yourself without realizing it:
   - Having an argument with an awful neighbor who escalates by calling the police on you and lying about you could give you the same reputation as someone who legitimately causes trouble.
 
-The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-4_health.md), or [tax](money-accounting.md) information.
+The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-health.md), or [tax](money-accounting.md) information.
 
 - It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
 - There's zero grace if you screw up, since any chance to explain your situation will *only* work with one person at a time.

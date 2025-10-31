@@ -37,7 +37,7 @@ Many cultural standards are established from the [natural environment](reality.m
 - Coastal societies require more people to know how to swim, which gives more tolerance for [the unknown](unknown.md).
 - Societies with more [technology](technology.md) have more order, implemented as [bureaucracy](bureaucracy.md).
 - People groups with limited access to other people groups will be more self-sufficient and less sociable.
-- Societies with more [networked *information* technology](networks-cs.md) will trust a [data reputation](people-image-modern.md) over their [story](stories.md).
+- Societies with more [networked *information* technology](networks-cs.md) will trust a [data reputation](people-image-modern.md) over their [story](stories-why.md).
 
 Many cultures also draw from their surrounding cultures. An isolated tribe will only pull from nature, but a culture spread across many other cultural groups will adopt a plethora of small details from each.
 
@@ -153,7 +153,7 @@ APPLICATION: Each cultural value builds specific life skills:
 - Individualistic people become highly effective at calculating a [decision's](people-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
 - Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
-- Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-4_friends.md).
+- Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-friends.md).
 - Indulgent people understand [happiness](mind-feelings-happiness.md), while Restrained people understand [sacrifice](purpose.md).
 - Principles-First people [get more things done](results.md), but Applications-First people [understand things better](understanding.md).
 - Low Uncertainty Avoidance people are [at peace](trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
@@ -178,7 +178,7 @@ Our first culture is our [family](people-family.md). They told us what we should
 
 After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 
-We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](understanding.md), and [stories](stories.md) we [believe](understanding-certainty.md) are shifting around.
+We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](understanding.md), and [stories](stories-why.md) we [believe](understanding-certainty.md) are shifting around.
 
 Our choice and flow of [language](language.md) show our cultural background:
 
@@ -195,12 +195,12 @@ Most cultures adopt mindless traditions over time:
 
 1. Someone creates a [ritual or tradition](habits.md) to [remind](mind-memory.md) the group of something.
 2. A generation later, people honor the action but never experienced what the tradition served to remind.
-3. The next generation after that has only heard of the original experience as a distant [fable](stories.md).
+3. The next generation after that has only heard of the original experience as a distant [fable](stories-why.md).
 4. Eventually, everyone performs a stale ritual because it's always been done that way, and [creates arguments just to talk about modifying it](politics-conservativeliberal.md).
 
 APPLICATION: Nobody really knows why some traditions exist. This doesn't stop them from honoring it, and it often gives [meaning](meaning.md) to that person irrespective of the tradition itself. Except for [immoral](morality.md) traditions, be careful how you condemn them, since some members need those traditions to find [peace](safety.md), and they may honor them for a [reason](purpose.md) you don't know.
 
-As traditions become [stories](stories.md), they often develop [superstition and folklore](stories-myths.md) around them. Those stories often have [wisdom](understanding.md) inside them, at least with their messages (e.g., don't go into the woods at night), but are far divorced from [reality](reality.md) and can often spin off into new [religious sects](religion.md).
+As traditions become [stories](stories-why.md), they often develop [superstition and folklore](stories-myths.md) around them. Those stories often have [wisdom](understanding.md) inside them, at least with their messages (e.g., don't go into the woods at night), but are far divorced from [reality](reality.md) and can often spin off into new [religious sects](religion.md).
 
 APPLICATION: Every new member of a group must learn the value of their culture's traditions for themselves. The best way to destroy a culture is for the older order to be bad at [teaching](education.md). The easiest way to teach is through a [rite of passage](maturity.md) because the next generation can maintain the older generation's [beliefs](understanding-certainty.md) through [feeling](mind-feelings.md) the experience for themselves.
 

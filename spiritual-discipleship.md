@@ -34,7 +34,7 @@ God judges leaders more harshly than non-leaders ([Matthew 18:6](https://biblehu
 Even by [secular standards](mgmt-1_why.md), spiritual mentors are [leaders](mgmt-1_why.md).
 
 - Leaders must be an example of [what they're teaching](understanding.md) ([Matthew 7:15-20](https://biblehub.com/bsb/matthew/7.htm)).
-- Since they *should* be at least somewhat loving, they'll have a natural ability to [make friends](people-4_friends.md).
+- Since they *should* be at least somewhat loving, they'll have a natural ability to [make friends](people-friends.md).
 
 A leader guides others' issues beyond themselves, so they must have a few desires before they even consider the role:
 

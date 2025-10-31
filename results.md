@@ -35,7 +35,7 @@ There are only a few ways the unfair reality of delayed consequences can be avoi
 
 - A [healthy childhood](maturity.md) to learn things beforehand.
 - Observe *others'* bad decisions instead of making them ourselves.
-- Have [good friends](people-4_friends.md) who will call us out on our bad decisions.
+- Have [good friends](people-friends.md) who will call us out on our bad decisions.
 
 Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](imagination.md) future self, and will slowly gravitate toward a more [pleasant life](goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
 
@@ -115,7 +115,7 @@ In reality, the "at fault" person or [group](groups-member.md) isn't easy to dis
 
 For all failings, everyone connected is at fault somehow, and it's only a matter of assigning [percentages](math.md). Since the entire planet is connected by about six degrees of social relationships, everyone is somewhat [morally](morality.md) responsible for all bad things.
 
-APPLICATION: Fan theories and hacks, while often [hilarious](humor.md), are brilliant ways the public answers clear [story](stories.md) and [engineering](engineering.md) failures the original creator could *never* have considered. These theories show the consumers have been so [affected](meaning.md) by the creative work that they decide to produce for themselves.
+APPLICATION: Fan theories and hacks, while often [hilarious](humor.md), are brilliant ways the public answers clear [story](stories-why.md) and [engineering](engineering.md) failures the original creator could *never* have considered. These theories show the consumers have been so [affected](meaning.md) by the creative work that they decide to produce for themselves.
 
 We *should* be finding ways to not see failure again in the future, but that requires halting the [habit](habits.md) of blame. Most people don't, though, because they feel [injustice](morality-justice.md) over the [past trauma](hardship-ptsd.md) that haunts them, and they often start down the path to [evil](morality-evil.md).
 
@@ -141,7 +141,7 @@ There are various reasons diminishing return exists:
 
 - We want more [power](power.md) after we've gained it in proportional comparison to what we have, *not* incrementally to what we first had.
 - Once things get too large for us to [feel](mind-feelings.md) each additional increment, we tend to take more [risks](safety.md).
-- In individual experiences, each additional iteration is another miniature [story](stories.md) of something similar.
+- In individual experiences, each additional iteration is another miniature [story](stories-why.md) of something similar.
 - In [measurements](math.md), more distance or objects are harder to [understand](understanding.md) and account for.
 - Organic tissues wear down and require energy to maintain, which becomes exponentially more as mass increments.
 

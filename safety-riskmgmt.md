@@ -37,17 +37,18 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Add extra time for all predicted tasks.
 - Say "no" to all obligations at even the slightest chance of non-fulfillment.
 - Replacing all things *before* they need [fixing](https://adequate.life/fix/).
-- Ensuring everyone gets enough [sleep](sleep.md), [nutrition](body-2_diet.md), and [exercise](body-3_exercise.md).
+- Ensuring everyone gets enough [sleep](sleep.md), [nutrition](body-diet.md), and [exercise](body-exercise.md).
 - Never permitting any system to get to 100% utilization or capacity.
 - Terminating meetings at least 10 minutes earlier than future scheduled meetings.
 
 ## Survival Basics
 
-- Have a sufficient group of [friends or family](people-4_friends.md) you're in steady contact with.
+- Have a sufficient group of [friends or family](people-friends.md) you're in steady contact with.
 - Maintain [cooking](cooking.md) skills.
 - Consistently maintain [cleaning](home-housekeeping.md) and [organization](organization.md) habits.
 - Have a [skill](jobs-1_why.md) that's both [marketable](marketing.md) and [in demand](economics.md).
 - Have a well-maintained [means of conveyance](autos.md) to acquire goods you require, as well as a backup plan if it fails.
+- Keep a journal of all health issues, and report them to your doctor immediately.
 
 ## Mental Basics
 
@@ -109,10 +110,11 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Keep your computer [safely maintained](computers-cysec.md).
 - Keep your personal information private, from [scammers](social-engineering.md) and [Big Tech](faang.md).
 - Keep a portable firearm, with experience using it.
+- Always have a bodycam and [auto](autos.md) dashcam equipped.
 
 ## Protecting From The Unknown
 
-- Low enough stress that won't cause a [health issue](body-4_health.md).
+- Low enough stress that won't cause a [health issue](body-health.md).
 - Prepared for the [collapse of society](hardship-disaster-2), either through [stockpiling and prepping](hardship-disaster-3_long-stay.md) or [staying mobile](hardship-disaster-3_long-go.md).
 - Reconcile with [God](god.md).
 - [Speak truthfully](people-lying.md) about absolutely everything.

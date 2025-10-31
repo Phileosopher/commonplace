@@ -29,7 +29,7 @@ Even when they don't say anything, other people *do* see your mistreatment.
 Cut down on bigotry by redefining yourself:
 
 - Age discrimination is usually by younger people, mostly because older people *were* once young.
-  - To look younger, [lose weight and get in shape](body-3_exercise.md).
+  - To look younger, [lose weight and get in shape](body-exercise.md).
   - Shave off hair to look younger as a male, and grow it out to look older.
 - Race discrimination usually establishes itself upon skin color, but sometimes on [family background](church-family.md).
   - Most of the time, it's between whites and non-whites, but often blurs into [cultural aspects](people-culture.md) as well.

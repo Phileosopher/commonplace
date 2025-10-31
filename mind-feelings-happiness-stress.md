@@ -35,7 +35,7 @@ Are you suffering severe physical or emotional pain?
 
 - You may have a medical condition causing pain, or may have [just had a breakup or divorce](relationships-3_dating.md), or could simply be in extreme solitude.
 - Whatever the case is, acknowledge that it's [real](reality.md), but that it's okay to feel terrified or sad.
-- Avoid making any [large-scale goals](success-3_goals.md) during the darkest times, and [reach out to people who will support and encourage you](people-4_friends.md).
+- Avoid making any [large-scale goals](success-3_goals.md) during the darkest times, and [reach out to people who will support and encourage you](people-friends.md).
 - Often, if the problem persists long enough, it'll become more bearable, but don't let it ever become your "normal".
 
 Do you have chronic long-term problems?
@@ -63,7 +63,7 @@ Are you happy with your living situation?
 Are you happy with your social network?
 
 - Poor [social skills](people-3_respect.md) cause tremendous anxiety with others.
-- Take time to get to know other people more and [make more friends](people-4_friends.md).
+- Take time to get to know other people more and [make more friends](people-friends.md).
 - Sometimes you need a new social group, and sometimes you're the reason you don't have friends.
 
 Are you satisfied with the past, present, and future?

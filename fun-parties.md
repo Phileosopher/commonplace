@@ -17,7 +17,7 @@ Clarify your expectations by asking probing questions:
 
 - What is your budget, and what matters the most to you?
 - Is the event invite-only, or should guests bring their friends?
-- What kind of people are your [friends](people-4_friends.md)?
+- What kind of people are your [friends](people-friends.md)?
 - Are you serving alcohol?
   - [Alcohol](fun-alcohol.md) can be plenty of fun, but drunk people make [massive messes](home-housekeeping.md), break things, and may disrupt your neighbors.
 - Can (or should) others bring alcohol, food, or drinks as well?
@@ -74,7 +74,7 @@ People often find themes interesting:
 - The theme is one of the most [fun](fun.md) ways to [exercise your creativity](mind-creativity.md).
 - Get a powerful enough projector for a group to play video games or watch movies.
 - Have a costume party or a dinner theater.
-- Use your [friends'](people-4_friends.md) talents to make creative and exciting games or decorations.
+- Use your [friends'](people-friends.md) talents to make creative and exciting games or decorations.
 - Even in a professional party, you can still be silly as long as it's subdued.
 
 Find music that fits the theme:
@@ -92,7 +92,7 @@ Find music that fits the theme:
 
 Make or buy decorations that fit your theme, and consult social media image board sites for more ideas.
 
-Find artistic [friends](people-4_friends.md) willing to help.
+Find artistic [friends](people-friends.md) willing to help.
 
 Find fun ways to display your food:
 

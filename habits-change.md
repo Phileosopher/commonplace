@@ -21,7 +21,7 @@ If you're a high school student or just starting out from your parents' home:
 - Find out [what your parents *should* have been doing](parenting-children.md) to not repeat their mistakes.
 - Discover the parts of [dating](relationships-dating.md) and [marriage](relationships-marriage.md) your [parents](parenting-children.md) didn't tell you.
 - Learn [why managing money is important](money-1_why.md), especially with [debt](money-2_debt.md) and [budgeting](money-3_budget.md).
-- Find out [how to spot good friends](people-4_friends.md).
+- Find out [how to spot good friends](people-friends.md).
 - Learn to [cook](cooking.md) for yourself.
 - Learn [basic first aid](body-firstaid.md).
 - Learn how to easily [move](home-moving.md).
@@ -44,10 +44,10 @@ If you're coming out of [a divorce](hardship-family-divorce.md):
 
 - Find [contentment](mind-feelings-happiness-connect.md) in what you still have.
 - If the divorce involves money, learn how to [budget](money-3_budget.md).
-- Make new and better [friends](people-4_friends.md) elsewhere, and get a [pet](fun-pets.md).
+- Make new and better [friends](people-friends.md) elsewhere, and get a [pet](fun-pets.md).
 - Learn to [cook](cooking.md) for yourself.
 - Discover how to [move](home-moving.md) easily.
-- Work on your [weight and diet](body-2_diet.md) to prepare for [dating](relationships-dating.md) again.
+- Work on your [weight and diet](body-diet.md) to prepare for [dating](relationships-dating.md) again.
 
 If you feel like a washed-out failure or stuck in a rut:
 
@@ -56,8 +56,8 @@ If you feel like a washed-out failure or stuck in a rut:
 - Learn [how to manage money](money-1_why.md), especially [debt](money-2_debt.md) and [budgeting](money-3_budget.md).
 - Learn how to [find a rewarding career](jobs-1_why.md) and make [a good impression](jobs-3_image.md) with employers.
 - If you have kids, learn [how to release them into the world](parenting-teenagers.md).
-- Discover [why social skills matter](people-1_why.md) and [how to make good friends](people-4_friends.md).
-- Work on your [weight and diet](body-2_diet.md), and learn to [cook](cooking.md) for yourself.
+- Discover [why social skills matter](people-why.md) and [how to make good friends](people-friends.md).
+- Work on your [weight and diet](body-diet.md), and learn to [cook](cooking.md) for yourself.
 - Learn to be more [creative](mind-creativity-how.md), [organize](organization.md) yourself, [maintain](home-housekeeping.md) your house, and [decorate](home-decorations.md) it.
 - Discover how to [improve your memory](mind-memory.md).
 - Get a [pet](fun-pets.md).
@@ -66,7 +66,7 @@ If you feel like you never seem to have fun:
 
 - Learn how to have [fun](fun.md) and enjoy your [vacations](fun-vacations.md).
 - Find [contentment](mind-feelings-happiness-perma.md) in what you have and get enough [sleep](sleep.md).
-- Look for [the right kind of friends](people-4_friends.md).
+- Look for [the right kind of friends](people-friends.md).
 - Start [dating](relationships-dating.md) new people.
 - Improve your [alcohol](fun-alcohol.md), [coffee](fun-coffee.md), and [tea](fun-tea.md).
 - Try to be more [creative](mind-creativity-how.md) and [learn to decorate](home-decorations.md).
@@ -79,14 +79,14 @@ If you think nobody cares about you:
 - Define [success](success-1_why.md) for yourself.
 - Start [dating](relationships-dating.md) new people.
 - Learn to get enough [sleep](sleep.md) and get a [pet](fun-pets.md).
-- Work on your [weight and diet](body-2_diet.md).
-- Focus on [finding good friends](people-4_friends.md) and having more [parties](fun-parties.md).
+- Work on your [weight and diet](body-diet.md).
+- Focus on [finding good friends](people-friends.md) and having more [parties](fun-parties.md).
 
 If you're coming out of [prison](hardship-incarceration.md) or grew up on the streets:
 
 - Make [goals](success-3_goals.md) and learn to [persevere](success-5_persevering.md) against hardship.
 - Learn [why managing money is important](money-1_why.md), especially with [debt](money-2_debt.md).
-- Learn [hygiene](people-image.md) on the outside, [good boundaries](people-boundaries.md), and [which friends to choose](people-4_friends.md).
+- Learn [hygiene](people-image.md) on the outside, [good boundaries](people-boundaries.md), and [which friends to choose](people-friends.md).
 - Work heavily on your [speaking](language-speaking.md) and [writing](language-writing.md).
 - Understand [how computers work](computers.md).
 - Expand your [creativity](mind-creativity-how.md), especially about your [need for a legal job](jobs-1_why.md).
@@ -101,8 +101,8 @@ If you're coming clean from an [addiction](addiction.md):
 - Start setting reasonable [goals](success-3_goals.md) and learn to [persevere](success-5_persevering.md).
 - Learn how to [find a career](jobs-1_why.md).
 - Learn [how to manage money](money-1_why.md), especially with [debt](money-2_debt.md) and [budgeting](money-3_budget.md).
-- Understand [why people skills matter](people-1_why.md) and focus on making new, better [friends](people-4_friends.md).
+- Understand [why people skills matter](people-why.md) and focus on making new, better [friends](people-friends.md).
 - Build your [conflict management](people-conflicts.md) and [lie detection skills](people-lying.md).
-- Work on your [weight and diet](body-2_diet.md), and learn to [cook](cooking.md) for yourself.
+- Work on your [weight and diet](body-diet.md), and learn to [cook](cooking.md) for yourself.
 - Get yourself [organized](organization.md) and [clean your home](home-housekeeping.md).
 - Learn responsibility by getting a [pet](fun-pets.md).

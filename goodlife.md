@@ -59,7 +59,7 @@ APPLICATION: At certain times, every person must be the following:
 
 Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](people-image-why.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](people-image-why.md).
 
-The good life, therefore, is constantly changing between prosperity and [hardship](hardship.md) to give us context for the [stories](stories.md) we build from our environment.
+The good life, therefore, is constantly changing between prosperity and [hardship](hardship.md) to give us context for the [stories](stories-why.md) we build from our environment.
 
 Of course, those stories should probably have happy endings. Unfortunately, [death](hardship-death.md) takes us all, and we don't know what happens after that, so complete closure [for us](religion.md) or [for those who survive us](legacy.md) is very limited without [myths](stories-myths.md) of the world beyond this one that we're willing to bet our lives on.
 

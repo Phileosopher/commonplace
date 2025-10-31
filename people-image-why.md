@@ -35,13 +35,13 @@ APPLICATION: Since intelligent and creative people can adapt their image more th
 
 Since some connection-building skill is [innate](humanity.md) and some is [trainable](understanding.md), it's difficult to [measure](math.md).
 
-Barring low-functioning [autism](autism.md) or specific [traumatic events](hardship-ptsd.md), we can't easily hold all this information at once in our minds. To condense it and make the [values](values.md) more clear, we build [stories](stories.md) out of it with the most important information, then throw out the rest, sometimes with the source information.
+Barring low-functioning [autism](autism.md) or specific [traumatic events](hardship-ptsd.md), we can't easily hold all this information at once in our minds. To condense it and make the [values](values.md) more clear, we build [stories](stories-why.md) out of it with the most important information, then throw out the rest, sometimes with the source information.
 
 We build these story-images rapidly in the subconscious, so we're not fact-checking everything we've built. Further, since we're pulling from *other* stories encoded in our memories, this entire system is extremely faulty. We don't notice, though, because we automatically correct errors as soon as we re-perceive things, irrespective of prevailing facts beyond initial impressions. People usually only re-examine, however, when they aren't [sure](trust.md) what they saw or when they train themselves to have more [scientific rigor](science.md).
 
 APPLICATION: Never [trust](understanding-certainty.md) your first impression of anything.
 
-Over time, as we [age](maturity.md), our environment becomes increasingly familiar. Since we understand life as a series of [stories](stories.md), aging creates fewer interesting stories, and we interpret the passage of time as moving faster. The only cure to this is to find [uncomfortable](mind-feelings.md) experiences that are new to us, though we're often [afraid](mind-feelings-fear.md) to do so and [wiser](understanding.md) at avoiding them.
+Over time, as we [age](maturity.md), our environment becomes increasingly familiar. Since we understand life as a series of [stories](stories-why.md), aging creates fewer interesting stories, and we interpret the passage of time as moving faster. The only cure to this is to find [uncomfortable](mind-feelings.md) experiences that are new to us, though we're often [afraid](mind-feelings-fear.md) to do so and [wiser](understanding.md) at avoiding them.
 
 ## Bias
 
@@ -55,7 +55,7 @@ Generally, you can detect bias by how much people respond with [feelings](mind-f
 
 APPLICATION: It's difficult to accept views that don't match your own, which is why no [culture](people-culture.md) is ever completely open-minded.
 
-We have a highly self-centered view of the universe, where we impose our [purposes](purpose.md), problems, and [values](values.md) upon our environment as if they existed outside our minds. Even when we gather copious amounts of [data](math.md), we're just creating an [anecdotal story](stories.md) built around aggregation.
+We have a highly self-centered view of the universe, where we impose our [purposes](purpose.md), problems, and [values](values.md) upon our environment as if they existed outside our minds. Even when we gather copious amounts of [data](math.md), we're just creating an [anecdotal story](stories-why.md) built around aggregation.
 
 The only time we don't use ourselves as the center is when we [develop another center instead](addiction-centers.md), and our bias is made of a few "angles" that map our meaning to various elements:
 
@@ -66,7 +66,7 @@ The only time we don't use ourselves as the center is when we [develop another c
 
 We tend to add others' views to ours, proportional to our belief that we don't [understand](understanding.md) something ourselves. It requires a Herculean feat of [humility](morality.md) to accept we don't understand things enough that we give *all* other perspectives at least some value.
 
-APPLICATION: Since we can't avoid bias, the only way to successfully discover [the truth](reality.md) is to gather as many biases as possible, from every possible angle, then find [consistent patterns](stories.md) across all of them.
+APPLICATION: Since we can't avoid bias, the only way to successfully discover [the truth](reality.md) is to gather as many biases as possible, from every possible angle, then find [consistent patterns](stories-why.md) across all of them.
 
 More often than not, when we find we're wrong, we will believe a *part* of what we saw was correct and will adapt other beliefs to fit it. Slowly, as some of those things never change [over time](maturity.md), we become more [certain](understanding-certainty.md) of ourselves.
 
@@ -108,7 +108,7 @@ Because of how much [power](power.md) a reputation can give, people will [work h
 
 APPLICATION: There's a lot of power in "the enemy of my enemy is my friend". Nobody can be fully [trusted](trust.md), but everyone can be [useful](purpose.md).
 
-When people are [skillful enough with others](people-4_friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
+When people are [skillful enough with others](people-friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
 
 ### Wielding the power of reputation
 

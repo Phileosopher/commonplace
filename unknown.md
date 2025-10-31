@@ -21,7 +21,7 @@ Even complete [understanding](understanding.md) isn't exempt from the Unknown. A
 
 APPLICATION: We often [believe](understanding-certainty.md) our memories are pristine. However, they're open to failure and not very reliable as time passes. Thus, we should only partly trust ourselves about our perspective as a [scientific](science.md) reality, consistently [cross-reference it](people-conversation.md) with others' to be as certain as possible, and quickly change our [value system](values.md) if we find we're wrong.
 
-We are stubborn, though, and we *constantly* try to conquer the Unknown. Most of our [stories](stories.md) are the [conflict](people-conflicts-why.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
+We are stubborn, though, and we *constantly* try to conquer the Unknown. Most of our [stories](stories-why.md) are the [conflict](people-conflicts-why.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
 
 APPLICATION: Chaos isn't as bad as you think, even if it's absolutely [terrifying](mind-feelings-fear.md). You're in the right to be afraid, but are more capable toward [acting](results.md) than you realize (and [absolutely must](meaning.md)).
 
@@ -35,7 +35,7 @@ APPLICATION: Never disrespect [creations](creations.md) that ever add [value](va
 
 We [believe](understanding-certainty.md) something to have order when we've distinctly separated [values](values.md) in our mind, especially as we perceive our [environment](reality.md).
 
-We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories.md) we [perceive](people-image-why.md) conflicts with our [expectations](imagination.md) (e.g., a messy room or a cluttered sentence).
+We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories-why.md) we [perceive](people-image-why.md) conflicts with our [expectations](imagination.md) (e.g., a messy room or a cluttered sentence).
 
 We treat completely unordered chaos as bad, but it's nothing more than pure randomness that sometimes works [against what we want](purpose.md), and it can work in our favor just as much.
 
@@ -120,7 +120,7 @@ Present ("what is")
 - Concrete > abstract
 - Harder to [resist temptations](addiction.md) or wait, easier to procrastinate
 - Focus on bringing pleasure and avoiding pain
-- Often poorer [health management](body-4_health.md) and [substance abuse](addiction.md)
+- Often poorer [health management](body-health.md) and [substance abuse](addiction.md)
 - [Understanding](understanding.md) might not deter actions
 - Seeks more sensation and novelty, less [emotionally stable](mind-feelings.md) and more [risk-taking](socialrisk.md), more likely to [lie](people-lying.md)
 - Tend to be [poor](classes.md) or [uneducated](education.md)
@@ -132,9 +132,9 @@ Future ("what will/might be")
 - [Goal-oriented](success-4_routine.md), works harder
 - [Saves money](money-3_budget.md) and resources more
 - [Results-oriented](results.md), and cooperative/competitive to that end
-- More often [health-conscious](body-4_health.md)
+- More often [health-conscious](body-health.md)
 - Trouble having [fun](fun.md)
-- Trouble with spontaneity and [relationships](people-4_friends.md)
+- Trouble with spontaneity and [relationships](people-friends.md)
 - Generally lower anxiety, but concern for the future can create anxiety
 - Tends to be [addicted to work](addiction.md) and have [midlife crises](maturity.md)
 - Tend to be more [conscientious](morality.md), less aggressive, more [emotionally stable](mind-feelings.md), and more [creative](mind-creativity.md)
@@ -161,7 +161,7 @@ APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the p
 
 APPLICATION: Over time, as the Unknown becomes [known](science.md), a society will prioritize the domain of [predictable](imagination.md) and [controllable](results.md) things over sending [efforts](purpose.md) into unknowable things. This means secular societies who abandon their [religious](religion.md) background tend to lean farther into [environmentalism](politics-leftism-sustainability.md) and prioritize [mathematical](math.md) [estimation](imagination.md) over [intuition](mind-feelings.md).
 
-Different [cultures](people-culture.md) create order in different forms, which often builds along the patterns of what [language](language.md) provide (e.g., number of words to describe one specific thing) and frames itself through the [myths](stories-myths.md), [superstitions](people-culture.md), and [stories](stories.md) they share with each other.
+Different [cultures](people-culture.md) create order in different forms, which often builds along the patterns of what [language](language.md) provide (e.g., number of words to describe one specific thing) and frames itself through the [myths](stories-myths.md), [superstitions](people-culture.md), and [stories](stories-why.md) they share with each other.
 
 APPLICATION: We wish to find [meaning](meaning.md) in the Unknown so heavily that we trust things we probably shouldn't:
 

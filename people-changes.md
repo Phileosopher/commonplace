@@ -19,7 +19,7 @@ We can always [choose](people-decisions.md) to generally direct where our change
 
 - Physically - exercising [creativity](mind-creativity.md)/[control](results.md) on the world around us
 - Empirically - adding/invalidating things we've [understood](understanding.md)
-- Psychologically - changing our [story](stories.md) of how the world works
+- Psychologically - changing our [story](stories-why.md) of how the world works
 - Socially - anything involving others including [venting](influence.md), directing, and [politics](influence.md)
 - [Habitually](habits.md) - intensifying what we've done before and adding to our [certainty](understanding-certainty.md)
 
@@ -45,7 +45,7 @@ We can't easily [calculate](math.md) how much we'll conform to something. Like w
 
 Inner changes show themselves less directly on [reality](reality.md), but they're *much* farther-reaching than external changes.
 
-Typically, every change has most parts of the following [story](stories.md):
+Typically, every change has most parts of the following [story](stories-why.md):
 
 1. Suffer repeated [consequences](reality.md) that could indicate there's a need to [understand](understanding.md) more or [act](creations.md).
 2. If applicable, [emotionally](mind-feelings.md) recuperate from the [trauma](hardship-ptsd.md) of the experience.
@@ -63,7 +63,7 @@ Each decision is relatively unimportant in a grand sense, but it slightly tweaks
 
 Over a *long* time, we can clearly see the products of our decisions. A decade of living [the good life](goodlife.md) will yield a philosophically well-established person, a decade of [mindless living](habits.md) will create a bore, and a decade of [pure hedonic pursuits](addiction-substances.md) will destroy a person's life.
 
-Across a lifetime, natural [trends](trends.md) will emerge [regarding](stories.md) a person. They're only approximate, but they'll usually give a relatively reliable [prediction](imagination.md) of that person's future [decisions](people-decisions.md).
+Across a lifetime, natural [trends](trends.md) will emerge [regarding](stories-why.md) a person. They're only approximate, but they'll usually give a relatively reliable [prediction](imagination.md) of that person's future [decisions](people-decisions.md).
 
 No matter how we live, we're building additional [understanding](understanding.md). That understanding comes from how we can recall the [perspective](people-image-why.md) we had when younger compared to now, a bit like a [friendship](people-friends-why.md) with our past selves.
 

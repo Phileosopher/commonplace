@@ -44,7 +44,7 @@ Most of the time, the emotional energy of the [deciding](people-decisions.md) ju
 
 Court [decisions](people-decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
 
-While [morality](morality.md) in a courtroom is grounded in a unique [story](stories.md) with a prosecutor and defendant, [laws](people-rules.md) must remove those stories to stay fair to all instances.
+While [morality](morality.md) in a courtroom is grounded in a unique [story](stories-why.md) with a prosecutor and defendant, [laws](people-rules.md) must remove those stories to stay fair to all instances.
 
 Thus, *[how](logic.md)* a ruling was decided is just as important as *[what](results.md)* the ruling was in the first place.
 

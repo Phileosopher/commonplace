@@ -32,7 +32,7 @@ Many Christians, especially new ones, ask whether God permits something specific
   - Drinking [alcohol](cooking.md)
   - [Romance](relationships-why.md) before marriage
   - Dancing
-  - [Medical care](body-4_health.md) decisions
+  - [Medical care](body-health.md) decisions
 
 Cessationism vs. Continuationism - The modern-day usage/validity of spiritual gifts like prophecy, tongues, knowledge, and healing ([1 Corinthians 12-14](https://biblehub.com/bsb/1_corinthians/12.htm)):
 

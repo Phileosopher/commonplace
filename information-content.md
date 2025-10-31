@@ -80,7 +80,7 @@ News outlets work *very* hard to trigger [emotions](mind-feelings.md).
 
 - People are more inclined to continuously read stories of injustice and catastrophe than updates on what's actually happening.
 - Continuous consumption is in the news outlet's best interests, so they prioritize sensationalism over journalism.
-- Feeling concern over things may make us feel connected, but it's a poor alternative to [legitimate friendships](people-4_friends.md) and [meaningful](meaning.md) activities.
+- Feeling concern over things may make us feel connected, but it's a poor alternative to [legitimate friendships](people-friends.md) and [meaningful](meaning.md) activities.
 
 ## Social media
 

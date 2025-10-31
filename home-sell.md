@@ -59,6 +59,11 @@ Observe their communication skills:
 - Patiently explains their methods and the industry's processes.
 - Firmly grasps information about the industry.
 
+While a realtor can be effective, don't waste your time with open houses:
+
+- The open house won't do much to generate leads, and is more in the interests of the *realtor* to do it.
+- It's better to market yourself by using online services (e.g., Zillow, Redfin, Realtor.com).
+
 ## B. Accurately value the house *before* listing
 
 Note the housing market:
@@ -68,6 +73,11 @@ Note the housing market:
 - Is your estimated house value trending up or down?
 - How does your house value compare to the rest of your city?
 - Expand your search to look for nearby current listings, recently sold houses, and foreclosures.
+
+When the market is dropping, it's almost always wisest to hold onto your house until the market goes up again.
+
+- It's hard to do *anything* with a property in a dropping market, since the rental market also goes down (since many renters become buyers during that time).
+- Lower-priced houses will swing the hardest in a market drop.
 
 To sell faster, time the listing during the winter.
 

@@ -43,7 +43,7 @@ Ask your friends and family what they think of the idea.
 
 Expect feedback from people you know to be [biased](mind-bias.md):
 
-- Some people [believe in you](understanding-certainty.md) or want to [stay your friend](people-4_friends.md), meaning they'll give more praise than criticism.
+- Some people [believe in you](understanding-certainty.md) or want to [stay your friend](people-friends.md), meaning they'll give more praise than criticism.
 - Others will be jealous or have their own agenda, meaning they'll give criticism that isn't helpful.
 - The best feedback comes from people who tell you what's wrong, and *why* it's wrong, and the theoretical way to get around it.
 
@@ -137,7 +137,7 @@ As applicable, consider open licensing for your product.
 You should be able to sacrifice almost *everything* for that vision.
 
 - For a long time, you will *not* have [vacations](fun-vacations.md) or [extra spending money](money-3_budget.md).
-- At least at first, your [friends](people-4_friends.md) and [family](people-family.md) will likely *not* support that vision.
+- At least at first, your [friends](people-friends.md) and [family](people-family.md) will likely *not* support that vision.
 - You'll have less time with family, friends, or [recreation](fun.md).
 - There will always be *something* you need to do: networking, busywork, or time-sensitive tasks.
 - If you're aiming for a grandiose idea, you *will* need to sacrifice your entire life for that purpose.

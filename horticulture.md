@@ -4,7 +4,7 @@
 Besides [accounting](money-accounting.md) and [construction](engineering.md), one of the oldest-standing professions was farming.
 
 - Across written history, *most* humanity worked a farm until recent developments in technology freed them up to [make their own career](jobs-specialization.md).
-- Having a side garden can be a [healthy](body-4_health.md) addition (or even *replacement*) to your standard diet, as well as giving you more [protection](safety-riskmgmt.md) against [a large-scale disaster](hardship-disaster-1_short.md).
+- Having a side garden can be a [healthy](body-health.md) addition (or even *replacement*) to your standard diet, as well as giving you more [protection](safety-riskmgmt.md) against [a large-scale disaster](hardship-disaster-1_short.md).
 
 Growing plants runs through a relatively predictable yearly pattern:
 
@@ -103,6 +103,12 @@ Water about once a week, either via rainfall, irrigation, or manually.
 - Water in the morning for the plants to absorb it before it evaporates.
 - Don't water at night or fungus might grow.
 - If the soil is too alkaline and the plants need more acid, mix vinegar into the water.
+
+Watering stakes make watering easier
+
+1. Get a large reservoir of water
+2. Get a watering stake or insert aquarium tubing into a small hole in a plastic bottle
+3. Place the stake in the soil for water to slowly migrate from the reservoir to the soil
 
 Keep up *every* day with weeds.
 

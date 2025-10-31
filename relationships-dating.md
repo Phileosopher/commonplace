@@ -6,8 +6,8 @@ Most people want a life partner, but it comes with many risks:
 - Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](awareness.md), and you *will* be forced to change.
 - If you're [unhappy](mind-feelings-happiness.md), you'll make others unhappy, no matter who they are.
   - Relationships give more *chances* at happiness, but you must use them.
-- Relationships dramatically alter lifestyle [habits](habits.md) about [health](body-4_health.md), [money](money-1_why.md), [housekeeping](home-housekeeping.md), and overall [success](success-1_why.md).
-- Relationships test the skills for [good boundaries](people-3_respect.md) far more than [more casual friendships](people-4_friends.md).
+- Relationships dramatically alter lifestyle [habits](habits.md) about [health](body-health.md), [money](money-1_why.md), [housekeeping](home-housekeeping.md), and overall [success](success-1_why.md).
+- Relationships test the skills for [good boundaries](people-3_respect.md) far more than [more casual friendships](people-friends.md).
 - To be successful at dating (and eventually [relationships](relationships-3_marriage.md)), you must have [succeeded](success-1_why.md) at other parts of life.
 
 Your ideal mate will *always* have certain characteristics:
@@ -49,7 +49,7 @@ Social style:
 - How much [moral character](morality.md) do you/they have (e.g., integrity, honesty, fairness)?
 - How capable are you/they for sensitivity and empathy?
 - How much do you/they need to control or be in control?
-- How much do you/they want to be [around other people](people-4_friends.md)?
+- How much do you/they want to be [around other people](people-friends.md)?
 - How much do you/they make personal time more important than intimate time?
 - How quickly do you/they [compromise](people-conflicts.md) and adjust to circumstances?
 
@@ -65,7 +65,7 @@ Lifestyle:
 - How much day-to-day life do you/they expend?
 - Do you/they enjoy physically challenging activities?
 - How much interest and enjoyment do you/they get out of the physical act of sex?
-- What is your/their attitude towards [physical health](body-4_health.md) in general?
+- What is your/their attitude towards [physical health](body-health.md) in general?
 - What is your/their desire regarding safely and securely [raising a family](parenting-babies.md)?
 - How [efficient](success-4_routine.md), productive and [driven towards self-improvement](success-1_why.md) are you/they?
 - How physically attractive do you/they feel?
@@ -95,12 +95,12 @@ Values and beliefs:
 
 Background:
 
-- How healthy a family did you/they come from and how do you/they see their overall [health](body-4_health.md) and [hygiene](people-image.md)?
+- How healthy a family did you/they come from and how do you/they see their overall [health](body-health.md) and [hygiene](people-image.md)?
   - How close are you/they to family and how much involvement do they have in life?
 - How educated are you/they, and how important do you/they see it?
 - How much are they willing to change to have a relationship?
 - How many past relationships did you/they have, how did they go, and why did they end?
-- What kinds of [friends](people-4_friends.md) do you/they have? Are they healthy?
+- What kinds of [friends](people-friends.md) do you/they have? Are they healthy?
 
 Age differences:
 
@@ -126,7 +126,7 @@ You're dating to learn, *not* to make lifetime commitments:
 You must have [fun](fun.md) with them:
 
 - You both should *want* to spend time together.
-- Your priority is to [make friends](people-4_friends.md), not sexual conquest or fighting loneliness.
+- Your priority is to [make friends](people-friends.md), not sexual conquest or fighting loneliness.
 
 Be authentic:
 
@@ -150,7 +150,7 @@ Try to [break from conventional dating](relationships-dating-ideas.md) to discov
 
 Your date should be having as much fun as you:
 
-- Romantic relationships are merely high-risk, high-reward [friendships](people-4_friends.md).
+- Romantic relationships are merely high-risk, high-reward [friendships](people-friends.md).
 - If they can't enjoy things *with* you, even if they don't prefer it, the relationship is already shaky.
 - Don't take it personally, since plenty of good people aren't a good fit for you specifically.
 
@@ -219,7 +219,7 @@ Your biological clock will probably hasten your schedule:
 - The relationship must form naturally, so don't rush it.
   - If you're not going steady with them, keep dating around.
   - If the other person is trying to rush the relationship, they may have control or codependency issues.
-- Take the time to get to know their [friends](people-4_friends.md), [values](values.md), family, [faith](religion.md), and anything else you can learn about them.
+- Take the time to get to know their [friends](people-friends.md), [values](values.md), family, [faith](religion.md), and anything else you can learn about them.
 
 ## End relationships correctly
 

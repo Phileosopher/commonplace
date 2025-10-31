@@ -40,7 +40,7 @@ Our concept of economic value is based on [information](understanding.md), mostl
 The measurable value of something fluctuates *constantly* for several reasons:
 
 - Information about things is constantly changing, and we're constantly [learning more](understanding.md) about that thing as we observe it.
-- Changing information implies a [story](stories.md), and therefore a [trend](trends.md) we try to [predict](imagination.md).
+- Changing information implies a [story](stories-why.md), and therefore a [trend](trends.md) we try to [predict](imagination.md).
 - We [imagine](imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
 
 Economists define "income" differently than [accountants](money-accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").

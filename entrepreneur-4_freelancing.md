@@ -29,7 +29,7 @@ As you work on a small-scale, you'll be able to adapt your long-term plans to co
 
 If you're trying to make a living off a hobby, you will very likely *not* succeed if that hobby is:
 
-1. Whatever people do anyway for [fun](fun.md) (e.g., [video games](computers-software-gamedev.md), reading [stories](stories.md)).
+1. Whatever people do anyway for [fun](fun.md) (e.g., [video games](computers-software-gamedev.md), reading [stories](stories-why.md)).
    - However, you can still make a living on the tedious experience of *making* things that are fun.
 2. Easy to do (e.g., writing articles about movies, giving lectures on a video).
    - If you want to make a living at easy things, do something that's very hard with them.
@@ -82,7 +82,7 @@ High-demand certifications:
   - Teach high-demand trade skills
   - Do private tutoring, which typically avoids most [legal requirements](legal-safety.md)
   - Teach English in another country
-- [Healthcare](body-4_health.md) roles like caregiver, nurse's aide, and medical assistant
+- [Healthcare](body-health.md) roles like caregiver, nurse's aide, and medical assistant
 - Commercial driver's license (CDL)
 
 Artistic and [creative](mind-creativity.md) skills:

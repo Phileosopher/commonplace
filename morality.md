@@ -3,6 +3,8 @@
 
 Morals are actions that prioritize serving [individual beings](humanity.md) and [social groups](groups-small.md) over things, though how much and who is a [constantly debated question](paradoxes.md).
 
+Philosophers love to talk independently about the "good", the "[beautiful](values-quality.md)", and the "[true](reality.md)", but both beautiful and true things have absolutely no value whatsoever without goodness.
+
 Morality comes from "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md). When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).
 
 ## Context
@@ -14,7 +16,7 @@ Moral decisions are *always* a connection between several elements:
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](people-image-why.md) or [imagining](imagination.md) the [experience](stories.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
+6. Authority - anyone [observing](people-image-why.md) or [imagining](imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
 Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
 
@@ -63,48 +65,9 @@ In practice, most people want moral relativism to justify their views as a type 
 
 We must [learn](understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
-A virtue is a trained [habit](habits.md) of making [decisions](people-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
+[A virtue](morality-virtues.md is a trained [habit](habits.md) of making [decisions](people-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
 Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](politics-leftism.md).
-
-Some virtues stand alone as states of being:
-
-- Empathy - [understanding](understanding.md) and [feeling](mind-feelings.md) others' experiences
-- Kindness - [doing](results.md) good things for others
-- Gratitude - [aware](awareness.md) and thankful for good things
-- Hope - [expects](imagination.md) the best and works toward it
-- Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
-- Forgiveness - [reconciles and releases](mind-feelings-happiness-stress.md)
-
-Some virtues are responses to [conflicts](people-conflicts-inner.md):
-
-- Bravery/Courage - stands against opposition
-- Persistence/Perseverance - maintains a [purpose](purpose.md) [faithfully](understanding-certainty.md) with little or no outside support
-- Integrity - holds fast to important [values](values.md) and [promises](people-contracts.md), no matter what
-
-Some virtues are strictly products of the [mind](understanding.md):
-
-- [Creativity](mind-creativity.md) - [making things](creations.md) after drawing connections from observations
-- [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
-- [Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](people-decisions.md)
-
-Some virtues come through how we [see](people-image-why.md) things:
-
-- Appreciation of [beauty/nature](values-quality.md) - regards the inner quality of [nature](reality.md) and [creations](creations.md)
-- [Humor](humor.md) - sees things from a less serious perspective
-- Spirituality - finds [purposes](purpose.md) that [transcend this life](legacy.md)
-
-Some virtues tie to our relationships with others:
-
-- [Social intelligence](people-boundaries-why.md) - aware of motives and [feelings](mind-feelings.md) in oneself and others
-- [Teamwork](people-boundaries-why.md) - able to [work](results.md) well with others
-- [Fairness](morality-justice.md) - treats others without [bias](people-image-why.md)
-- [Leadership](influence.md) - encourages others to do well
-
-A few virtues *are* a "middle ground":
-
-- Prudence/meekness - makes [decisions](people-decisions.md) carefully, even when it's possible to indulge in a bad decision
-- Self-regulation/patience - holds back from [excess](addiction.md), even when we feel compelled to act
 
 APPLICATION: Since virtue is a [habit](habits.md), we must carefully consider what we're doing. If we're wrong, we'll destroy quite a bit before we realize what we've been doing.
 
@@ -168,7 +131,7 @@ Conceit has a cure, but requires a few things:
 1. Regard others as equally significant as oneself. This requires *more* [work](results.md) toward others than toward oneself because we don't know exactly what other people are thinking and [feeling](mind-feelings.md).
 2. Never [over-identify](identity.md) with anything that attributes to self-importance, especially on [how it appears to others](people-image-why.md).
 3. Accept all other perspectives are equally valid, even when the [reasoning](logic.md) isn't always as sound or is missing apparent portions of [reality](reality.md) that other people can plainly see.
-4. Quickly admit failure as it arises, irrespective of [what it looks like](people-image-why.md) or [implies](stories.md).
+4. Quickly admit failure as it arises, irrespective of [what it looks like](people-image-why.md) or [implies](stories-why.md).
 
 Humility is critical for the [good life](goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
 

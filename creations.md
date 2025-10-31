@@ -36,7 +36,7 @@ The longer that we [imagine](imagination.md) a creation in our minds, the higher
 
 Broadly speaking, across [societies](groups-large.md), people use a few major [angles](people-image-why.md) that refine [chaos](unknown.md) into [meaning](meaning.md). The creators' efforts funnel into an approximate [trend](trends.md) derived from how much [understanding](understanding.md) they have of the subject:
 
-1. [Art](art.md) - grabbing from the [unknown](unknown.md) and making clearly understood [stories](stories.md) that capture the [human condition](humanity.md).
+1. [Art](art.md) - grabbing from the [unknown](unknown.md) and making clearly understood [stories](stories-why.md) that capture the [human condition](humanity.md).
 2. [Science](science.md) - understanding [facts](reality.md) extracted from those stories.
 3. [Engineering/Inventing](engineering.md) - using scientific facts to create [technological](technology.md) answers to [problems](purpose.md).
 4. Pioneering - taking [risks](socialrisk.md) to build order from [chaos](unknown.md) using [known-working](understanding-certainty.md) solutions.
@@ -67,7 +67,7 @@ Most other creations are a medium of communication. It may have a long-term purp
 
 - Spoken and nonverbal [language](language.md)
 - [Humor](humor.md)
-- [Written](language-writing.md) works like [stories](stories.md)
+- [Written](language-writing.md) works like [stories](stories-why.md)
 - Visual works like paintings, sculptures, and film
 - Performances like plays, music dancing, and orchestras
 - Practical designs like a cell phone case or [automobile](autos.md)
@@ -75,13 +75,13 @@ Most other creations are a medium of communication. It may have a long-term purp
 - Social space designs like architecture or interior design.
 - Answers to complex [problems](purpose.md).
 
-A creation's [quality](values-quality.md) in expressing [the human experience](humanity.md) is also known as "[art](art.md)". In that sense, *all* things made by people in any capacity are somehow forms of art. Their [story](stories.md) may drill down into small text messages or encapsulate a person's entire life, and they are subject to the rules of how [quality](values-quality.md) works (the most prominent being that most of the instances of that thing aren't particularly good).
+A creation's [quality](values-quality.md) in expressing [the human experience](humanity.md) is also known as "[art](art.md)". In that sense, *all* things made by people in any capacity are somehow forms of art. Their [story](stories-why.md) may drill down into small text messages or encapsulate a person's entire life, and they are subject to the rules of how [quality](values-quality.md) works (the most prominent being that most of the instances of that thing aren't particularly good).
 
 Every creator is trying to [convince](influence.md) a series of [ideas](values.md) with their creation. They may give specific context or add details to communicate their point.
 
 APPLICATION: Since a creator built from their [instincts](mind-feelings.md), we can frequently infer the spirit and soul of something if we trust our instincts (which are similar enough to others' to [match](humanity-universals.md)). Even automated [technology](technology.md) has a creator's "fingerprint", though it'll be on the backend and deep inside it instead of what the technology itself creates.
 
-Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends-why.md) with others' [stories](stories.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](people-decisions.md) how to add the experience to our [identity](identity.md).
+Media has a specific [purpose](purpose.md), not only for creators, but also for consumers. Consumers are usually trying to find [connection](people-friends-why.md) with others' [stories](stories-why.md) to [understand](understanding.md) how those people [reasoned](logic.md) and whether it gave them [the good life](goodlife.md). At the end of the story, we [decide](people-decisions.md) how to add the experience to our [identity](identity.md).
 
 APPLICATION: The trouble with modern art is that it often claims that the interpretation of [quality](values-quality.md) lies in the observer and not the piece itself. If that's the case, there's no [reason](purpose.md) to go to an art museum when someone can build a sandcastle with their kids or watch dumb videos.
 
@@ -144,7 +144,7 @@ First, all creative works have inherent limits:
 - The possible things the creator can express or how long it would take for them to communicate it.
 - The other media that may have already done something before, or the fact that *no* other media has!
 
-All media is a commentary of other media. We often imagine the "classics" to be original, but we usually don't see the unoriginal elements that existed in the context where they *weren't* original. For example, historical documents and a historian's textbook of historical documents are equally [anecdotal](stories.md), but from different eras.
+All media is a commentary of other media. We often imagine the "classics" to be original, but we usually don't see the unoriginal elements that existed in the context where they *weren't* original. For example, historical documents and a historian's textbook of historical documents are equally [anecdotal](stories-why.md), but from different eras.
 
 Each media also has its own special limits:
 

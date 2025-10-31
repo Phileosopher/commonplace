@@ -3,7 +3,7 @@
 
 A habit is anything that psychology broadly classifies as "conditioned response". Unless we're making a [conscious](humanity.md) [choice](people-decisions.md), our behaviors are dictated by habits.
 
-Habits are a type of neurological [story](stories.md) with a relatively simple mechanism:
+Habits are a type of neurological [story](stories-why.md) with a relatively simple mechanism:
 
 1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](imagination.md) of a [result](results.md).
    - We regard it as enough of a [perceived fact](reality.md) that we [believe it](understanding-certainty.md).

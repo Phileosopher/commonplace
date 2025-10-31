@@ -5,6 +5,10 @@ Sadness is the [emotional](mind-feelings.md) interpretation of experiencing a [l
 
 While it can apply to almost anything, we usually experience sadness over the loss of a [friendship](people-friends-why.md) or of [power](power.md), though it can also apply to possessions.
 
+The autonomic response to sadness is through crying, which is a physical representation of the breaking of a [mental model](values.md).
+
+- This is actually healing, since it opens up the possibility for another model to replace it.
+
 ## Chronic sadness
 
 When sadness moves beyond the initial experience and becomes chronic, it becomes grief. Grief is always present when a loss is [significant enough](values-quality.md) to our lives.

@@ -32,8 +32,8 @@ Undue influence is a [legal term](glossary-legal.md) where an entity takes advan
 Any person, however, only becomes a victim of undue influence when several simultaneous conditions happen:
 
 1. They trust a person with [influencing skills](influence.md) as an authority figure farther than that person's legitimate authority.
-2. That authority figure has a [story](stories.md) that doesn't reflect or accommodate [reality](reality.md).
-3. That person decides to trust the authority figure's [story](stories.md) over their [understanding](understanding.md).
+2. That authority figure has a [story](stories-why.md) that doesn't reflect or accommodate [reality](reality.md).
+3. That person decides to trust the authority figure's [story](stories-why.md) over their [understanding](understanding.md).
 
 ## Power
 

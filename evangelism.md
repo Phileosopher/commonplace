@@ -28,7 +28,7 @@ Your [personality](identity.md) defines how you may want to approach others abou
 Some people imagine sharing the Gospel is telling as many people as possible.
 
 - Effective Gospel *presentations* share Christ's story and why it's important.
-- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](people-decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories.md).
+- However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](people-decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories-why.md).
 
 Many people groups have *never* heard of Jesus.
 
@@ -59,7 +59,7 @@ Your new lifestyle will create [rumors](people-image-why.md).
 
 Search within the Church to fill the new void.
 
-- Find a [healthy church](church.md) (irrespective of [denomination](history-church.md)) where you can [connect](people-4_friends.md) with other believers.
+- Find a [healthy church](church.md) (irrespective of [denomination](history-church.md)) where you can [connect](people-friends.md) with other believers.
 - As you lose friends, you'll connect with other believers (even ones you may have previously disliked).
 - Not all people in Christian culture are Christians, so don't implicitly trust a [church's brand](marketing.md).
 - God is faithful to give you new friends as you lose the old ones.
@@ -76,7 +76,7 @@ The easiest way to share the Gospel is to donate something you have (e.g., time,
 Some churches make rigid Gospel presentation systems.
 
 - If it helps you, use that system to share Jesus, but the Holy Spirit will more often draw from your personal experiences than a formalized.
-- However, most believers will eventually have a unique [story](stories.md) as they gain personal experiences.
+- However, most believers will eventually have a unique [story](stories-why.md) as they gain personal experiences.
   - It's a presentation of what God has done, so style it to your preference and experiment.
 - The best Gospel presentations come from personal experience and established [beliefs](values.md), *not* a [scripted speech](language-speaking.md).
 
@@ -103,7 +103,7 @@ Don't obsess about appearing professional, precise, or [convincing](power-influe
 
 ## Spiritual conversations
 
-[Make casual friendships](people-4_friends.md) with non-believers and seek opportunities to serve your neighbors ([Mark 12:28-31](https://biblehub.com/bsb/mark/12.htm)).
+[Make casual friendships](people-friends.md) with non-believers and seek opportunities to serve your neighbors ([Mark 12:28-31](https://biblehub.com/bsb/mark/12.htm)).
 
 Spiritual discussions inspire [spiritual attention](spiritual-warfare.md).
 
@@ -199,7 +199,7 @@ They may have unease or anxiety about the risks of becoming a Christian.
 
 - At that point in their lives, they want comfort more than truth.
 - Only God can change their situation, typically by exposing them to [hardship or loss](hardship.md).
-- Feel free to [coexist](people-4_friends.md) around them as long as they'll accept you, but spending [too much time](people-4_friends.md) with them may make you complacent.
+- Feel free to [coexist](people-friends.md) around them as long as they'll accept you, but spending [too much time](people-friends.md) with them may make you complacent.
 
 They may simply be bitter or angry regarding [past trauma](hardship-ptsd.md) or [unconfessed sins](morality-sins.md).
 

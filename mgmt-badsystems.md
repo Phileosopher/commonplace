@@ -29,7 +29,7 @@ APPLICATION: The more specific and odd a system's mandatory activities for succe
 One of the most frequent behaviors of bad systems is to suppress better solutions to [problems](purpose.md) they may not provide themselves. That way, they can continue benefiting from a less sufficient service:
 
 - Big ice worked very hard to prevent refrigerators, including deceptive [advertising campaigns](marketing.md) that implied children would get trapped inside and die.
-- A simple cure for cancer, if it exists, would never be as profitable as [all the treatments](body-4_health.md).
+- A simple cure for cancer, if it exists, would never be as profitable as [all the treatments](body-health.md).
 - [Tax filing](money-accounting.md) services in the USA presently work to prevent free tax filing services through the government.
 
 APPLICATION: Scandals are common because leaders have to enforce an [image](people-image-why.md) of values, but they're human and fallible.

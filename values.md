@@ -13,13 +13,13 @@ All ideas and thoughts use values:
 
 The [power](power.md) of those ideas in our minds heavily determines how [certain](understanding-certainty.md) we are of them, and our [feelings](mind-feelings.md) are closely connected to that certainty. Those feelings directly structure how we interpret [reality](reality.md) and what we must [do](purpose.md), which creates a type of holistic feedback loop over [time](datetime.md).
 
-We use [language](language.md) to [communicate](people-conversation.md) those values back and forth, but we store those values as [feeling](mind-feelings.md)-based [stories](stories.md) in our brains that use language as a reference and [trigger](habits.md).
+We use [language](language.md) to [communicate](people-conversation.md) those values back and forth, but we store those values as [feeling](mind-feelings.md)-based [stories](stories-why.md) in our brains that use language as a reference and [trigger](habits.md).
 
 APPLICATION: Our [feelings-based](mind-feelings.md) approach to values means we never find [meaning](meaning.md) in [quantities](math.md) unless we've assigned some special significance to the comparative aspect of those numbers with other numbers. Otherwise, all meaning is contained in [quality](values-quality.md).
 
 ## The source of values
 
-Values are *not* [reality](reality.md), and are merely synthesized and processed [adaptations](creations.md) of reality. They're abstract [patterns](symbols.md) that exist only in our minds as commentaries *on* reality. Things like "[car](autos.md)", "[relationship](people-4_friends.md)", "[trust](trust.md)", "[political system](politics-systems.md)" *do* exist beyond our minds, but in some other form than we can perceive. The idea of "car" or "trust" as a fabrication is the one that's actually [shared with other people](humanity-universals.md).
+Values are *not* [reality](reality.md), and are merely synthesized and processed [adaptations](creations.md) of reality. They're abstract [patterns](symbols.md) that exist only in our minds as commentaries *on* reality. Things like "[car](autos.md)", "[relationship](people-friends.md)", "[trust](trust.md)", "[political system](politics-systems.md)" *do* exist beyond our minds, but in some other form than we can perceive. The idea of "car" or "trust" as a fabrication is the one that's actually [shared with other people](humanity-universals.md).
 
 APPLICATION: We can only determine if a value is [real](reality.md) by constantly exposing it to the world around us, mostly through [language](awareness.md) but through all forms of [creation](creations.md).
 
@@ -31,7 +31,7 @@ The easiest way to distinguish between what we have in our minds versus the worl
 
 We use [language](language.md) to understand these values. By speaking or writing them, we can [understand](understanding.md) them more clearly. We gain power over the [unknown](unknown.md) simply by giving it a name.
 
-We frequently define those values through something that broke from a [pattern](symbols.md) we were perceiving (e.g., a red line on a white piece of paper generates a [story](stories.md) about a red line).
+We frequently define those values through something that broke from a [pattern](symbols.md) we were perceiving (e.g., a red line on a white piece of paper generates a [story](stories-why.md) about a red line).
 
 We presume these abstractions are reality because we frequently [share parts of them with other people](humanity-universals.md). We build them by combining our perceptions of [reality](reality.md) with our previous [understanding](understanding.md).
 
@@ -60,7 +60,7 @@ Therefore, for values to be useful, they must fulfill several simultaneous crite
 
 APPLICATION: General ideas are generally useful, but not in a practical sense until we start [testing them](results.md). However, specific ideas can create patterns across other domains, and are the foundation for how we make general ideas. For that reason, theory is *never* as effective as implementation, though it's longer-lasting (which is why [teachers](education.md) love theory and [experts](jobs-specialization.md) don't).
 
-Most professional [storytellers](stories.md) and [comedians](humor.md) use associations with value to tremendous effect. By inserting an object at the right timing, they can evoke tremendous [associations](symbols.md) with a relatively small gesture.
+Most professional [storytellers](stories-why.md) and [comedians](humor.md) use associations with value to tremendous effect. By inserting an object at the right timing, they can evoke tremendous [associations](symbols.md) with a relatively small gesture.
 
 This can get us into a ton of trouble if we're not careful, and is the source of many [large-scale misuses of power](mgmt-badsystems.md). Beyond [divine revelation](religion.md), the only way to clarify values is through [philosophically examining](philosophy.md) and [analyzing](logic.md) them. Otherwise, we let our [feelings](mind-feelings.md) define our values.
 

@@ -44,7 +44,7 @@ A large group's expansion typically comes through taking over and absorbing othe
 
 - [Selling](marketing.md) people on the [inspirational idea](purpose.md) itself, often with certain [religious](religion.md) implications. This can be a legitimately sincere desire if the person is receiving [company stock](money-investing.md) as compensation without any [strange arrangements](people-image-distortion.md) involved.
 - Using [charm](influence.md) to convince smaller groups that their [security](safety.md) is far better than their [freedom](people-boundaries-why.md), often with a [contract](people-contracts.md) that provides *much* more benefit to the larger group.
-- Using [fear](mind-feelings-fear.md) to coerce them to give up, often through threats of the unknown, which can be accomplished effectively with anything that represents legitimate [risk](safety.md) to the smaller group (e.g., a pre-existing [story](stories.md) of their previous conquests, [legal](legal-safety.md) environment changing).
+- Using [fear](mind-feelings-fear.md) to coerce them to give up, often through threats of the unknown, which can be accomplished effectively with anything that represents legitimate [risk](safety.md) to the smaller group (e.g., a pre-existing [story](stories-why.md) of their previous conquests, [legal](legal-safety.md) environment changing).
 
 If a large business has been expanding their operations for a long time, they'll often create subsidiary organizations that do *nothing* but seek smaller groups to absorb ("roll-ups"):
 

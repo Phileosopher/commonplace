@@ -1,7 +1,7 @@
 
 # Stock values
 
-These are the stock-standard tropes that persist throughout many, many [stories](stories.md).
+These are the stock-standard tropes that persist throughout many, many [stories](stories-why.md).
 
 - These stories are conventional wisdom for [almost all humanity](humanity-universals.md), with each [culture](people-culture.md) having different emphasis and priority on each.
 - Without considering time and place, these values often contradict.
@@ -16,7 +16,7 @@ The [Natural World](reality.md):
 - We must be cautious and respectful of wild animals, even if they seem docile.
 - Proper hygiene and sanitation helps [avoid infection](body-firstaid.md).
 - Don't skip [meals](cooking.md).
-- Eat the [right food](body-4_health.md) (i.e., not junk food).
+- Eat the [right food](body-health.md) (i.e., not junk food).
 - [Drive](autos.md) safely.
 - Get enough [sleep](sleep.md).
 
@@ -94,7 +94,7 @@ The [Natural World](reality.md):
 - Not everything that seems to have no value is worthless.
 - Desiring things is better than getting them.
 - Giving is better than receiving.
-- [Success](success-1_why.md) can be [lonely](people-4_friends.md).
+- [Success](success-1_why.md) can be [lonely](people-friends.md).
 - Don't play [God](religion-answers.md).
 - [Capitalism](economics.md) is bad.
 - Fools lose their money quickly.
@@ -132,7 +132,7 @@ The [Natural World](reality.md):
 
 - Some [suffering](hardship.md) is good for us.
 
-[Language](language.md), [Stories](stories.md), and [Communication](people-conversation.md):
+[Language](language.md), [Stories](stories-why.md), and [Communication](people-conversation.md):
 
 - Language has [power](power.md).
 - Actions are more important than words.
@@ -180,7 +180,7 @@ The [Natural World](reality.md):
 - Evil is easy, but doing the right thing is hard.
 - [Evil](morality-evil.md) people can't understand the value of being good, so they'll eventually fail.
 
-[Friendship](people-4_friends.md):
+[Friendship](people-friends.md):
 
 - Friendship's power can conquer anything.
 - [Trust](trust.md) makes people stronger.
@@ -223,7 +223,7 @@ Romantic [love](people-love.md):
 - Children are innocent.
 - Children are cruel.
 - You're [responsible](meaning.md) for your children's well-being and [understanding](understanding.md), *not* any media or authority figures.
-- Your relationships with relatives are stronger than any other [friends](people-4_friends.md).
+- Your relationships with relatives are stronger than any other [friends](people-friends.md).
 - Build bonds with your children before it's too late.
 - You must [prove yourself](maturity.md) to the older generation.
 - Not everyone from an awful family is bad.

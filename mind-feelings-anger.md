@@ -23,7 +23,7 @@ The basis of our anger, therefore, can come from many domains:
 
 Generally, anger is a catch-all feeling when we don't understand how to feel otherwise.
 
-Anger is *very* useful to get things done, but it ruins our finesse. The only times anger is justified are against objects that can withstand it (e.g., [lifting weights](body-3_exercise.md)) or against people who are performing [evil](morality-evil.md). Otherwise, we must instead acknowledge the [fears](mind-feelings-fear.md) that drive that anger.
+Anger is *very* useful to get things done, but it ruins our finesse. The only times anger is justified are against objects that can withstand it (e.g., [lifting weights](body-exercise.md)) or against people who are performing [evil](morality-evil.md). Otherwise, we must instead acknowledge the [fears](mind-feelings-fear.md) that drive that anger.
 
 "Letting off steam" is simply adding anger onto anger, and doesn't work to resolve anything, even while it gives the [illusion](people-image-why.md) of [creating results](results.md).
 

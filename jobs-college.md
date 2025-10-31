@@ -5,7 +5,7 @@ College is specialized training:
 
 - College education expands on the primary and secondary education you've already received, formally or informally.
 - While college experiences are unique, they're typically reproducible elsewhere for far less [money](money-3_budget.md), especially through the military or trades.
-- While a fraternity or sorority is a [powerful network](people-4_friends.md), there are *many* equally powerful networks elsewhere for nearly any mainstream industry and interest.
+- While a fraternity or sorority is a [powerful network](people-friends.md), there are *many* equally powerful networks elsewhere for nearly any mainstream industry and interest.
 
 Your college experience must support your career plan:
 
@@ -83,7 +83,7 @@ Some degrees are completely useless for any work except teaching in it:
 - Art, of all types, represents what we already do for fun: creative writing, fashion design, film/video, music, photography, studio/fine art, theater arts, art history, art appreciation, et al.
 - Humanities degrees are vague enough that they don't connect to *any* [marketable job skills](jobs-3_image.md): history, languages, [philosophy](philosophy.md), [political science](politics-systems.md), ethnic/civilization studies, [religious studies](religion-answers.md), gender studies, et al.
 - Some degrees are simply learning better [speaking](language-speaking.md) and [writing](language-writing.md), such as communications and advertising.
-- Many [sciences](science.md) are "soft" sciences, where the subject itself has a limited scope of necessary rigor to study it: psychology, sociology, anthropology, archaeology, [economics](economics.md), [holistic health](body-4_health.md), et al.
+- Many [sciences](science.md) are "soft" sciences, where the subject itself has a limited scope of necessary rigor to study it: psychology, sociology, anthropology, archaeology, [economics](economics.md), [holistic health](body-health.md), et al.
 
 Many high-paying jobs don't even *need* college:
 

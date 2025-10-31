@@ -185,7 +185,7 @@ The cause for *why* we decide on something has a tremendous impact on how we int
 - The amount we believe our decisions *can* make [reality](reality.md) change.
 - Whether we're focusing on what we're [afraid](mind-feelings-fear.md) of or what we [love](people-love.md) that first inspired that fear.
 
-APPLICATION: For the sake of amending how we understand reality, we have direct control over the conclusions of [stories](stories.md) (And therefore our [beliefs](understanding-certainty.md)) that feed into our [feelings](mind-feelings.md), even if we don't have any direct control of [feelings](mind-feelings.md).
+APPLICATION: For the sake of amending how we understand reality, we have direct control over the conclusions of [stories](stories-why.md) (And therefore our [beliefs](understanding-certainty.md)) that feed into our [feelings](mind-feelings.md), even if we don't have any direct control of [feelings](mind-feelings.md).
 
 The most useful experience from any decision is to learn from it. There's no shortcut to [understanding](understanding.md), and only comes through carefully observing the [results](results.md) of our decisions. This creates a set of ideal behaviors for decisions:
 

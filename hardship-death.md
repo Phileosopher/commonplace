@@ -67,7 +67,7 @@ At any point, we can regress back to any of the stages, but will have to progres
 Generally, witnessing a death is a painful reminder of our mortality:
 
 - We all live for a relatively short time, and the reality and suddenness of death can be severely painful.
-- The worst part is that, contrary to [stories](stories.md) we consume, most deaths have no context to create [meaning](meaning.md) and come without any clear warning.
+- The worst part is that, contrary to [stories](stories-why.md) we consume, most deaths have no context to create [meaning](meaning.md) and come without any clear warning.
 - For this reason, we can be devastated even when a [pet](fun-pets.md) or celebrity dies after a very long life.
 
 Generally, the death of almost anyone excluding evil dictators is considered a loss for humanity, so avoid jokes that make light of that person.

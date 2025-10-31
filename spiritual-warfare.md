@@ -116,7 +116,7 @@ The Satan only risks direct assault if someone directly observes spiritual activ
 A. Rule out the possibility of any physical issues:
 
 - The Satan can easily sow distrust and fear in the Body through people who become "demon inspectors".
-- We can frequently think awful things and even hallucinate when we're [exhausted](sleep.md), [starved](body-2_diet.md), or [stressed](mind-feelings-happiness-stress.md).
+- We can frequently think awful things and even hallucinate when we're [exhausted](sleep.md), [starved](body-diet.md), or [stressed](mind-feelings-happiness-stress.md).
 
 B. Search for any violation of biblical principles:
 

@@ -130,7 +130,7 @@ Memory
 - Negativity bias - we tend to remember negative events more than positive ones
 - Picture superiority effect - we tend to remember pictures more than words
 - Serial position effect - we more easily remember the first and last things in a series
-- Storytelling effect - we remember [stories](stories.md) more than [facts](reality.md)
+- Storytelling effect - we remember [stories](stories-why.md) more than [facts](reality.md)
 - Zeigarnik effect - we remember uncompleted or interrupted tasks more than completed ones
 
 Consequences

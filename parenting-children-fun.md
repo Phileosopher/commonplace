@@ -11,7 +11,7 @@ Playing is a child-specific "love language" for communicating and expressing the
 - While adults work through their feelings by talking, children unleash them by using their bodies to play.
 
 - A child's play is how they experiment and learn about the world, and broken bones heal more easily than [timidity and fear](mind-feelings-fear.md).
-- All children's games are about [connecting](people-1_why.md) with others (e.g., chase, tag, hide-and-seek, follow the leader).
+- All children's games are about [connecting](people-why.md) with others (e.g., chase, tag, hide-and-seek, follow the leader).
 
 Initiate physical contact with them lightly or ask a simple question, then work off of their behavior.
 
@@ -54,6 +54,7 @@ Teach [active listening](language-speaking.md) by assigning speaker/listener rol
   4. The child can only speak for 30 seconds, then asks another question and throws the ball.
 
 Being silly takes practice because you have to violate most of the [social rules](people-rules.md) you were trained to honor.
+
 - You'll look silly to other adults when you interact, climb, and run with children, especially when you're the only one.
 - When frustrated, make a mock threat that turns the situation into play.
 
@@ -275,7 +276,7 @@ Give them games to play with each other:
   - Someone is declared "it" and counts down while everyone hides, then the person who is "it" has to find everyone.
 
 ## Play with them for the right reason
- 
+
 Be careful with status-enhancing activities:
 
 - Your activities should grow and add [meaning](meaning.md) to your children, not necessarily *your* social status.
@@ -286,6 +287,6 @@ If a child doesn't want something (e.g., baseball league), try to understand exa
 
 Sometimes, if you already have [money](money-3_budget.md) invested in the situation, you can compromise:
 
-  - Have them agree to endure the next few months, then cancel the activity.
-  - Work with them to help sell what you bought.
-  - Have them work an agreed amount to pay off what you had to pay.
+- Have them agree to endure the next few months, then cancel the activity.
+- Work with them to help sell what you bought.
+- Have them work an agreed amount to pay off what you had to pay.

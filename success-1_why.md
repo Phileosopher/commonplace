@@ -16,6 +16,7 @@ In some ways, success is difficult to define:
 - [Zig Ziglar](https://www.ziglar.com/) called it "the greatest usage of your ability".
 - [John Wooden](http://www.coachwooden.com/) described success as "peace of mind attained only through self-satisfaction in knowing you made the effort to do your very best".
 - [Nassim Nicholas Taleb](https://fooledbyrandomness.com/) defined success as simply "leading an honorable life".
+- [Tony Evans](https://tonyevans.org/) defined success as "fulfilling and completing [God's divine designation](god-will.md) for your life".
 - No matter how, success always involves achieving, overcoming a problem, and finding [meaning](meaning.md) and [purpose](purpose.md) that [affects others](power-influence.md).
 
 However, each culture values different things:
@@ -49,7 +50,7 @@ Success is more of a daily grind of good decisions than any specific, measurable
 
 Ignore the number of friends you have:
 
-- Each person can only logistically maintain 150--300 [relationships](people-4_friends.md) in a year.
+- Each person can only logistically maintain 150--300 [relationships](people-friends.md) in a year.
 - Maintaining a crowd of friends is expensive and time-consuming.
 - We find [meaning](meaning.md) in the *depth* of individual friendships, not in many of them.
 
@@ -92,7 +93,7 @@ Don't compare yourself to others:
 
 Everything in the physical world changes, decays, and [becomes obsolete](trends.md).
 
-Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-1_why.md), [relationships](relationships-why.md), [large organizations](groups-large.md)).
+Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-why.md), [relationships](relationships-why.md), [large organizations](groups-large.md)).
 
 The most long-lasting success involves self-discipline:
 
@@ -132,7 +133,7 @@ For most of us, our success will start with smaller goals:
 
 - Plan for the future
   - Get a [retirement fund](money-investing.md)
-  - Become [healthy](body-4_health.md)
+  - Become [healthy](body-health.md)
   - Get a [career plan](jobs-1_why.md)
   - Manage [money](money-1_why.md) well
 - Remove bad [habits](habits.md) you're aware of (which are likely your worst traits)
@@ -153,7 +154,7 @@ For most of us, our success will start with smaller goals:
   - Find what causes facts and experiences, without excuses
 - Reputation
   - Reconcile quickly with others when possible
-  - Find new [friends](people-4_friends.md) and open yourself to finding more
+  - Find new [friends](people-friends.md) and open yourself to finding more
   - Avoid unnecessary [arguments](people-conflicts.md), especially on the internet
 - Connection
   - Learn gratitude for encouraging and supportive friends, family, and associates

@@ -26,7 +26,7 @@ The best way to save on insurance is to carry a [reputation](people-image-why.md
   - Clean driving record
   - Good [credit score](money-2_debt.md)
   - Low-mileage vehicle (i.e., don't drive it around much)
-  - [Gym membership](body-3_exercise.md)
+  - [Gym membership](body-exercise.md)
 
 Only pay insurance premiums with already-[taxed](money-accounting.md) money to ensure claims are *also* after-tax.
 
@@ -117,7 +117,7 @@ Health insurance
   - 70% of a person's lifetime medical expenses are in the last year of their life, and 80% in the past 6 months.
   - At the point of reaching morbidity, additional healthcare is simply delaying the inevitable by a few months.
 - Since it's too much risk, *never* decrease the maximum pay.
-- Your healthcare can improve your quality of life, but only after you've [taken care of yourself](body-4_health.md) *without* healthcare providers.
+- Your healthcare can improve your quality of life, but only after you've [taken care of yourself](body-health.md) *without* healthcare providers.
   - A health insurance company will often wholly reimburse the cost of a gym membership.
 - Healthcare won't prevent the [inevitable death](hardship-death.md) that we all must face, so [learn to accept what may come after it](religion.md).
 - If you're healthy and don't expect children, try to bring insurance costs down:

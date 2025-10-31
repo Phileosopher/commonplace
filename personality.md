@@ -66,7 +66,7 @@ When choosing a [mate](gender.md) or [leader](groups-small.md), personality is *
 
 - Identical personalities for a [relationship](relationships-marriage.md) are ideal in *all* the aspects (because they share a common [identity](identity.md)) except neuroticism: two emotionally volatile people are *very* dysfunctional and dangerous. However, pairing two people who are *very* similar means a smaller range of [creativity](mind-creativity.md) to find legitimately useful [solutions](purpose.md).
 - While [hiring people](mgmt-1_why.md) should be based at least somewhat on conscientiousness, this is *especially* true for managers who [direct other people](groups-small.md). However, the appearance of most leaders demonstrates through assertiveness, which often creates [awful social systems](mgmt-badsystems.md) if the appointing leaders aren't careful.
-- For [creative](mind-creativity.md) solutions (e.g., [writers](stories.md), [entertainers](stories-storytellers.md), [artists](mind-creativity.md)), look for low-conscientiousness people, since they don't obsess about following existing [constraints](people-rules.md).
+- For [creative](mind-creativity.md) solutions (e.g., [writers](stories-why.md), [entertainers](stories-storytellers.md), [artists](mind-creativity.md)), look for low-conscientiousness people, since they don't obsess about following existing [constraints](people-rules.md).
 
 Our [self-esteem](identity.md) is essentially our extraversion (as a positive emotional state) minus our neuroticism (as a negative emotional state).
 
@@ -125,7 +125,7 @@ Proportional to our *actual* agreeableness, our actions with society's responses
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
 
-Most modern [non-medication](body-4_health.md) psychotherapy is devoted to exploring and unpacking [awareness](awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](trends.md)) if everyone did it at once.
+Most modern [non-medication](body-health.md) psychotherapy is devoted to exploring and unpacking [awareness](awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](trends.md)) if everyone did it at once.
 
 Only a few methods work to "integrate" a shadow, and every healthy solution uses at least some of them, but even the *methods* that resolve the problem are highly controversial:
 

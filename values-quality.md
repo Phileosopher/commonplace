@@ -3,7 +3,7 @@
 
 Quality is an assembled value in our minds which combines a string of *other* [values](values.md) we perceive from [nature](reality.md). The more values pulled in through our [understanding](understanding.md) that are [harmonious](mind-feelings.md) and reliable, the more quality.
 
-For example, the quality of a sunset comes from the associations to familiarity, color, connections to [related experiences](stories.md), understanding of the [science](science.md) of color, and how we [feel](mind-feelings.md) about it.
+For example, the quality of a sunset comes from the associations to familiarity, color, connections to [related experiences](stories-why.md), understanding of the [science](science.md) of color, and how we [feel](mind-feelings.md) about it.
 
 When we interpret a [value](values.md) as something higher than another value, we've assigned a type of comparative quality to it. When we say "quality work", we usually mean "*high*-quality work".
 
@@ -13,7 +13,7 @@ Quality gives us tremendous insight into the world around us. By elegantly portr
 
 APPLICATION: There is an inherent beauty within many things, to the degree they reference nature and reality. We can gain tremendous [happiness](mind-feelings-happiness.md) by finding it.
 
-One specific type of quality is beauty, which we *frequently* [communicate](people-conversation.md) through [forms of media](creations.md). Beauty is when the patterns allude to things that travel into [implication and allusion](stories.md) in a way that pleases us.
+One specific type of quality is beauty, which we *frequently* [communicate](people-conversation.md) through [forms of media](creations.md). Beauty is when the patterns allude to things that travel into [implication and allusion](stories-why.md) in a way that pleases us.
 
 Each combined [work](creations.md) is greater than its components. A car, ecosystem, or person is more than a list of its parts. It ends up having something greater in it through the constructed elements that make it what it is.
 
@@ -25,7 +25,7 @@ The only response that we can say when we witness beauty is a [feeling](mind-fee
 
 Beauty floats within the animal essence, so there's a limited scope of what we can classify as beauty, which is mostly patterned on how we [feel](mind-feelings.md) about [nature](reality.md) around us:
 
-- Most things, including [stories](stories.md), incorporate a type of symmetry (like with plants and animals).
+- Most things, including [stories](stories-why.md), incorporate a type of symmetry (like with plants and animals).
 - Everything uses a rhythm, repetition, or recursion (like with the [life cycle](people-family.md), [habit](habits.md), or a heartbeat).
 - In music, songs only transition in one of 3 possible ways from one tonic to the next (like with the limited tones we use in our [language](language.md)).
 - Visual representations almost always honor geometric patterns and contrasting triad colors (like we see in naturally occurring landscapes).
@@ -53,7 +53,7 @@ The realm of [understanding](understanding.md) various varieties of beauty is kn
 
 We have a constant need for [novelty](people-image-why.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
 
-- A [story](stories.md) that ends differently than we were [expecting](imagination.md).
+- A [story](stories-why.md) that ends differently than we were [expecting](imagination.md).
 - [Media](creations.md) in a genre we've explored, but crosses into other genres.
 - A new [friendship](people-friends-why.md) with someone who has a [personality](personality.md) similar to someone else we knew.
 - A climate like the one we know, but with a different [atmosphere](jobs-specialization.md) or ecosystem.
@@ -62,7 +62,7 @@ Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md
 
 - They usually [understand](understanding.md) more than younger people.
 - They have experienced more [cultures](people-culture.md) by virtue of having lived in a time with less [technology](technology.md).
-- Older people can often [analyze](logic.md) better and detect more [symbols](symbols.md) in [stories](stories.md).
+- Older people can often [analyze](logic.md) better and detect more [symbols](symbols.md) in [stories](stories-why.md).
 
 As we gain awareness of what we're consuming, we discover more of the interwoven [patterns](values.md) placed in [created things](creations.md). By understanding a creator's historical context, perceptions, and what that creator was [unaware](awareness.md) of while thinking of those things, we can understand into *far* more than just that [media](creations.md) and what it alludes to:
 
@@ -70,7 +70,7 @@ As we gain awareness of what we're consuming, we discover more of the interwoven
 - We [con](people-friends-why.md)[n](people-conversation.md)[ect](people-friends-why.md) with others' perspectives, most notably the creator's, to derive *further* understanding of the world around us.
 - When other people observe it, our [conversations](people-conversation.md) with them add even *more* meaning to the experience.
 
-APPLICATION: When someone [desires](purpose.md) to explore a media, they can unveil a remarkable amount of potential [truth](reality.md) through consuming the commentary of another creator. They're essentially receiving a second perspective on the same subject, but arranged into a meticulously crafted [story](stories.md). The insights can both be of the subject *and* the creator!
+APPLICATION: When someone [desires](purpose.md) to explore a media, they can unveil a remarkable amount of potential [truth](reality.md) through consuming the commentary of another creator. They're essentially receiving a second perspective on the same subject, but arranged into a meticulously crafted [story](stories-why.md). The insights can both be of the subject *and* the creator!
 
 ## Hubris
 
@@ -78,6 +78,6 @@ We see connoisseurs of beauty arise in every form of [media](creations.md), from
 
 However, the [leaders](groups-small.md) of that group are typically [addicts](addiction.md) of the subject, with their [identity](identity.md) closely intertwined with whatever they advance. They frequently demarcate their interest as a sign of [social status](power-types.md), usually with some implication of "only a *true* [lover of the interest] can understand the [positive attribute] of [[marginally](trends.md) popular [media](creations.md)]".
 
-APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories.md) around the thing to give it a false [reputation](people-image-why.md). Don't condemn or venerate a creation just because [everyone else](trends.md) seems to be.
+APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories-why.md) around the thing to give it a false [reputation](people-image-why.md). Don't condemn or venerate a creation just because [everyone else](trends.md) seems to be.
 
 They're often skillful in maintaining their [reputation](people-image-why.md) in their clan, though, so [conflicts](people-conflicts-why.md) with them are rarely worth the exchange.

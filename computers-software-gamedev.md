@@ -5,7 +5,7 @@ In terms of raw talent and delivering results, game development requires [peak p
 
 ## Storytelling
 
-Most games, with the exception of some skill or puzzle games, are driven by a [story](stories.md).
+Most games, with the exception of some skill or puzzle games, are driven by a [story](stories-why.md).
 
 When an interactive story is created correctly, the capabilities and uniqueness of immersion are immense. Almost every other medium (book, movie, radio drama, etc.) involves the audience viewing the experiences of that character, but game development is typically designed for a player to *be* a character.
 
@@ -17,7 +17,7 @@ There are, however, inherent limits to the range of usable stories within a game
 
 Compared to movie or book stories, most game stories are passable or awful, for many interconnected reasons:
 
-1. [Writing high-quality stories](stories.md) requires a completely different skillset and talent than coding a game.
+1. [Writing high-quality stories](stories-why.md) requires a completely different skillset and talent than coding a game.
 2. The most important part of a game is that it's playable: people are more inclined to buy and play a decent game with a terrible storyline than an unplayable game with an award-winning story.
 3. A story that adapts as the player interacts with it requires extensive "dialogue trees" that cover all the forms of the story according to player's decisions, which is *much* more challenging than the one-story design of a movie.
 4. The game's "ludonarrative" (difference between gameplay and story) has to stay small. To avoid dissonance, the story is forced to adapt to the gameplay, or the gameplay to the story (e.g., either a character can shrug off dozens of bullets and another one in a cutscene shouldn't change anything, or the character can only ever get hit by one or two bullets).

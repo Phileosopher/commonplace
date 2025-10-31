@@ -3,13 +3,13 @@
 
 Science is a robust branch of metaphysics that specializes in the knowable, known, and potentially knowable, with ventures into [the unknown](unknown.md) focusing heavily on what is already known.
 
-Science starts with what people consider common sense, then develops as a [story](stories.md) to clarify whether that [sense](mind-feelings.md) is accurate.
+Science starts with what people consider common sense, then develops as a [story](stories-why.md) to clarify whether that [sense](mind-feelings.md) is accurate.
 
 The scientific method is an established procedure designed to remove individual [bias](mind-bias.md):
 
 1. Ask a question.
    - Someone must be able to test and observe that question's answer.
-   - This question comes from a [desire](purpose.md) to discover [facts](reality.md), but the rest of the steps are a [story](stories.md) that concludes with communicating the findings.
+   - This question comes from a [desire](purpose.md) to discover [facts](reality.md), but the rest of the steps are a [story](stories-why.md) that concludes with communicating the findings.
 2. Do background research.
    - Investigate any existing discoveries from publications, past data, wikis, anecdotes, and personal experiences.
    - Good scientists work hard to suspend *all* [judgment](understanding-certainty.md) as they thoroughly sift through the information, though [they can never be entirely precise](mind-bias.md).
@@ -26,7 +26,7 @@ The scientific method is an established procedure designed to remove individual 
 6. [Communicate](people-conversation.md) the results and get feedback.
    - The communication step is *loaded* with [politics](power.md) and [bias](people-image-why.md) from [human nature](humanity.md), though many in the scientific community [believe](trust.md) the system is self-correcting.
    - If the results diverge from [convention or tradition](habits.md), the feedback will likely create [controversy](people-conflicts-why.md).
-   - Often, editing the [presentation](stories.md) of the scientific paper can advance the controversial result through [virtue signaling](stories-storytellers.md) the community's [pre-existing beliefs](trust.md).
+   - Often, editing the [presentation](stories-why.md) of the scientific paper can advance the controversial result through [virtue signaling](stories-storytellers.md) the community's [pre-existing beliefs](trust.md).
 
 ## Science has limits
 
@@ -103,7 +103,7 @@ All of the above sciences apply to the world around us, and that application nat
   - [Engineering](engineering.md)
   - [Agricultural science](horticulture.md)
   - Almost the entire [medical industry](body-firstaid.md)
-  - [Health sciences](body-4_health.md)
+  - [Health sciences](body-health.md)
 - Social sciences build out, among others:
   - [Business administration](mgmt-1_why.md)
   - [Jurisprudence](legal-doctrines.md)

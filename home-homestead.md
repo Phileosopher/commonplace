@@ -71,7 +71,7 @@ Some skills are non-negotiable:
 - Freezing to preserve food
 - Hand-washing laundry
 - Basic [survival skills](safety-nature.md)
-- Basic [social skills](people-1_why.md)
+- Basic [social skills](people-why.md)
 
 While not critical for living, some skills are good to have:
 

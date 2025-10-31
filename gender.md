@@ -40,7 +40,7 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men have more upper-body strength while women have more lower-body strength.
 - Men tend to not reconsider a thought after it was [decided](people-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
 - Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](people-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends-why.md).
-- Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories.md) across many components.
+- Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories-why.md) across many components.
 
 The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries-why.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
 

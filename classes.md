@@ -157,7 +157,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - Money is to be managed (living on prior paychecks).
   - The best personality is ambitious (High Conscientiousness).
   - The social emphasis is on self-sufficiency.
-  - The food is focused on quality (for [health reasons](body-4_health.md))
+  - The food is focused on quality (for [health reasons](body-health.md))
   - Time is about focusing on the future.
   - Education is focused on success and money.
   - Language is a formal mechanism for [negotiation](people-conflicts-negotiation.md).

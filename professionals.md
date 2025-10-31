@@ -30,7 +30,7 @@ Since [the over-information age](information.md), finding legitimately high-skil
 
 Generally, a 4-hour summarized class or poking around online videos/articles is all you need to get the gist of the information.
 
-- Consider your [health](body-4_health.md), [diet](body-2_diet.md) and [exercise](body-3_exercise.md), [self-determined goals](success-1_why.md), and [money management](money-1_why.md).
+- Consider your [health](body-health.md), [diet](body-diet.md) and [exercise](body-exercise.md), [self-determined goals](success-1_why.md), and [money management](money-1_why.md).
 - Learn the basics of [investing](money-investing.md), [laws](legal-safety.md), [contracts](people-contracts.md), [money management](money-3_budget.md), and [taxes](money-accounting.md).
 - Further, learn the basics of any privileges of your lifestyle: [autos](autos.md), [homeownership](home-maintenance.md), and [intellectual property](legal-ip.md) (if you [create](mind-creativity.md) anything).
 - You need a *lot* more to actually perform in most domains, but you don't need to because you can hire a [specialized](jobs-specialization.md) professional!
@@ -119,7 +119,7 @@ Attorney (Must have passed the bar exam):
   - Entertainment law (if you're a [performer](stories-storytellers.md))
   - Family law (for [legal issues](legal-safety.md) with your family)
   - Environmental and natural resource law (for large-group [managers](mgmt-1_why.md), especially factory production and mining)
-  - [Health care](body-4_health.md) law
+  - [Health care](body-health.md) law
   - Immigration law (for [citizenship](people-image-modern.md) issues)
   - [Intellectual property](legal-ip.md) law specialized in patent, trademark, and copyright
   - International law (for [government](bureaucracy.md) issues)

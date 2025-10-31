@@ -74,7 +74,7 @@ Foster the four types of resilience:
 1. Physical resilience (staying [productive](success-4_routine.md))
 2. Mental resilience (staying [focused and determined](purpose.md))
 3. Emotional resilience ([associating three positive feelings](mind-feelings-happiness-stress.md) with every negative one)
-4. Social resilience ([connecting with others](people-4_friends.md) when you fail)
+4. Social resilience ([connecting with others](people-friends.md) when you fail)
 
 Work more to actually *finish* tasks than start them:
 
@@ -214,7 +214,7 @@ There are different forms of failure:
 
 Most of the time, we will experience a string of non-start failures before we personally witness results.
 
-- Others will typically see our results before we do, so openly ask [your friends](people-4_friends.md) for their feedback.
+- Others will typically see our results before we do, so openly ask [your friends](people-friends.md) for their feedback.
 
 If you keep failing, redefine "success":
 
@@ -276,7 +276,7 @@ You *must* take time off to recover because you usually won't realize how much y
 - Nearly every failure is at least somewhat [traumatic](hardship-ptsd.md).
 - We tend to reap the consequences of bad [decisions](people-decisions.md) *long* after we've made them.
 - Many [addictions](addiction-substances.md) come from burnout when we're trying too hard.
-- We tend to forget that we have limits in some domains (like our mind and feelings) and that we don't need to keep investing into others (like our [bodies](body-1_why.md) and [souls](humanity.md)).
+- We tend to forget that we have limits in some domains (like our mind and feelings) and that we don't need to keep investing into others (like our [bodies](body-why.md) and [souls](humanity.md)).
 
 Watch for boredom:
 
@@ -304,7 +304,7 @@ Devote extra effort to recovering:
 - Focus on [having fun](fun.md) and [doing things that make you happy](mind-feelings-happiness-perma.md).
 - Spend more time in nature, *away* from a bustling city.
 - Say mantras for beliefs you want to internalize.
-- Dialogue with yourself [and others](people-4_friends.md) about your feelings.
+- Dialogue with yourself [and others](people-friends.md) about your feelings.
 - Examine the details of how you failed.
 - When you're emotionally ready, write out *everything* you can think of that caused your failure.
 
@@ -462,7 +462,7 @@ Reward yourself when you reach small goals:
 
 It's possible nobody else will celebrate with you, at least at first:
 
-- If anyone *does* celebrate your small wins, keep that person as your [friend](people-4_friends.md), since they're worth your time even after you've succeeded.
+- If anyone *does* celebrate your small wins, keep that person as your [friend](people-friends.md), since they're worth your time even after you've succeeded.
 
 One of the first signs of your success will be various forms of plagiarism:
 
@@ -475,7 +475,7 @@ If you keep trying over and over again, and keep adapting every time, you will e
 
 - It's critical to adapt each time, since doing the same thing becomes mindless practice.
 - Focus more on your improvement each time than getting it "perfect".
-- Make sure you [tell people](people-1_why.md), since they'll give you guidance on what to avoid, and it's not much success unless it affects others.
+- Make sure you [tell people](people-why.md), since they'll give you guidance on what to avoid, and it's not much success unless it affects others.
 - Learn to trust others as you encounter them, since they'll be the ones who draw out your success.
 
 Your success will rarely look like what you had envisioned, but you will often outperform your greatest expectations:

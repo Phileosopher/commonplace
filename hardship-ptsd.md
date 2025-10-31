@@ -30,7 +30,7 @@ Stress has a unique journey into our minds:
 1. When we [trust](trust.md) that everything is fine, we don't feel any issues.
 2. At the moment we are [afraid](mind-feelings-fear.md) of the possibility of [a risk](safety.md) to something we [value](values.md), we feel stress.
 3. We can sometimes react to the fear to resolve the issue, but society typically [forbids](morality-taboo.md) it.
-4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](awareness-meditation.md), venting to [friends](people-4_friends.md)).
+4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](awareness-meditation.md), venting to [friends](people-friends.md)).
 5. When that doesn't happen, it slowly infiltrates into long-term [dysregulation](awareness-dysregulation.md) that alter our [beliefs](understanding.md) (e.g., bitterness, depression).
 6. At that point, we aren't aware that those feelings drive what we do, and have become victims of our own trauma.
 
@@ -69,11 +69,11 @@ Nobody experiences trauma the same way, and they express it even more differentl
 
 The hatred is a [habit loop](habits.md) that triggers on anything that reminds the person of the original pain. Those triggers can move *far* from the original source.
 
-Since our grasp on [reality](reality.md) is already pretty [uncertain](trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
+Since our grasp on [reality](reality.md) is already pretty [uncertain](trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories-why.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
 
-Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](awareness.md) of that pain and therefore [respond](people-decisions.md) as if it doesn't exist. This is known as "[dysregulation](awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-4_health.md).
+Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](awareness.md) of that pain and therefore [respond](people-decisions.md) as if it doesn't exist. This is known as "[dysregulation](awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-health.md).
 
-Thankfully, because of our tendency to [anticipate](stories.md) and [imagine](imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
+Thankfully, because of our tendency to [anticipate](stories-why.md) and [imagine](imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
 
 APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](mind-feelings-happiness-stress.md) about the [injustices](morality-justice.md) they've suffered.
 

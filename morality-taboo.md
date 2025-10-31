@@ -36,7 +36,7 @@ Some immoral things *aren't* taboo:
 
 Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
 
-The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](people-decisions.md) that may include it.
+The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories-why.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](people-decisions.md) that may include it.
 
 Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](people-culture.md). But, many times, leaders only use taboos for [power](power.md).
 
@@ -104,6 +104,6 @@ APPLICATION: Breaking taboos is risky, but can be rewarding if you know what you
 
 Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [aware](understanding.md) of taboos, but use them to their advantage. Many of them become [entrepreneurs and inventors](socialrisk.md).
 
-Typically, they will add more room for failure by becoming more sophisticated. By [habitually](habits.md) using appropriate [language](language.md), expert [image](people-image-why.md) managers can rearrange their [story](stories.md) to [imply](people-image-distortion.md) better [motivations](purpose.md) than the culture's prejudice of a taboo-breaker. This isn't 100% reliable, but the public can often give more grace than otherwise.
+Typically, they will add more room for failure by becoming more sophisticated. By [habitually](habits.md) using appropriate [language](language.md), expert [image](people-image-why.md) managers can rearrange their [story](stories-why.md) to [imply](people-image-distortion.md) better [motivations](purpose.md) than the culture's prejudice of a taboo-breaker. This isn't 100% reliable, but the public can often give more grace than otherwise.
 
 Generally, the most interesting people aren't afraid to explore taboos. Most of them are closely in touch with their [soul](humanity.md). This doesn't always mean they're [good people](morality.md), but they're always the best people to [learn](education.md) from.

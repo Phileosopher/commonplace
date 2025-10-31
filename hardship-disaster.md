@@ -84,7 +84,7 @@ To counter anxiety, we must focus only on what will *likely* happen, then worry 
 Apocalypse fiction often romanticizes antisocial behavior (since it often [markets](marketing.md) to that crowd), but other people are your most powerful resource:
 
 - Any group of people between 2 and 30 can *easily* distribute roles, protect each other, and start [specializing](jobs-specialization.md) (with more people meaning more specialization).
-- Stay [friends](people-4_friends.md) with your neighbors, since they'll be more available than response teams.
+- Stay [friends](people-friends.md) with your neighbors, since they'll be more available than response teams.
 - Find people in your community who have the same sane, risk-averse attitude as you.
 
 Be very cautious about the antisocial "prepper" culture:
@@ -110,7 +110,7 @@ Your mental state is just as important as your physical preparedness:
 1. Visualize and imagine the disasters that may arise.
 2. Imagine what you will do in those situations, and how specific decisions may or may not work.
 3. After thinking deeply on the subject, find closure in *not* thinking about it anymore because you know what you need to do.
-4. [Train your body](body-3_exercise.md) in advance for the foreseen risks which may arise.
+4. [Train your body](body-exercise.md) in advance for the foreseen risks which may arise.
 5. If you're exposed to risks, breathe slowly to calm yourself and [maintain awareness](awareness.md).
 6. Assert what you know you're capable of to suppress the [fears](mind-feelings-fear.md) that arise, which may boil over into a physical yell.
 

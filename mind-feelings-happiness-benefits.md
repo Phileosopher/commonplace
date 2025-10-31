@@ -9,7 +9,7 @@ Satisfied people have an easier life:
 - Positive thinking makes [learning](mind-memory.md) easier.
 - Without bad feelings, [creativity](mind-creativity.md) is easier.
 - [Self-control](habits.md) is easier because happy people run "to" instead of "from" things.
-- [Friendships](people-4_friends.md) are better:
+- [Friendships](people-friends.md) are better:
   - More people want to be friends with an enthusiastic person, but less with an unhappy one.
 - Everything has more [meaning](meaning.md) when we're happy.
 

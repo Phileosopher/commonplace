@@ -96,7 +96,7 @@ If feeling pleasure is the center of your life:
 - Principles: Natural drives or instincts that must be satisfied
 - God: A non-entity
 
-If your [friends](people-4_friends.md) are the center of your life:
+If your [friends](people-friends.md) are the center of your life:
 
 - Spouse: Possible friend or possible competitor, social status symbol
 - Family: Friends or an obstacle to developing friendships, social status symbol

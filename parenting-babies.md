@@ -6,7 +6,7 @@ As much as they're a choice, raising children is one of the most significant dec
 However, any healthy marriage will mean it's neither possible to prepare for *or* prevent having children:
 
 - If you want a baby, there's no guarantee you'll have one.
-  - Conception is very much a combination of fertility, [diet](body-2_diet.md), [exercise](body-3_exercise.md), [age](maturity.md), and [genetics](science-life-biochem.md).
+  - Conception is very much a combination of fertility, [diet](body-diet.md), [exercise](body-exercise.md), [age](maturity.md), and [genetics](science-life-biochem.md).
   - The chances of a woman conceiving is highest at the peak of her fertility cycle.
 - Beyond abstinence, birth control never has a 100% chance of preventing conception.
   - Most of them are about 99% effective.
@@ -57,7 +57,7 @@ Pregnancy is preparation time:
 - Bring a set of preventative items wherever you go:
   - Always bring extra water and food that won't make you nauseous.
   - Keep bags available for morning sickness.
-- Adapt your [exercise](body-3_exercise.md) regimen to lower-stress workouts.
+- Adapt your [exercise](body-exercise.md) regimen to lower-stress workouts.
 - Anticipate losing [sleep](sleep.md) and [under-performing](success-4_routine.md) at work.
 - Avoid or limit any major life decisions like [moving](home-moving.md), [buying a house](homes-buysell.md), or [changing jobs](jobs-1_why.md).
 - Plan for your new [tax](money-accounting.md) situation, and consider [setting up a college/marriage fund](money-3_budget.md).
@@ -203,7 +203,7 @@ Some things you feel about parenting are [taboo](morality-taboo.md) to address:
 - You're *not* allowed to express how parenting has made you lonely or unhappy.
   - Feeling alienated from society is typical, especially after the constant attention *during* the pregnancy.
   - Many cultures [idolize children](addiction-substances.md) as if they were perfect, so many people can't understand how a child can give misery.
-- Thankfully, you can still discuss everything with other new parents or [authentic people](people-4_friends.md).
+- Thankfully, you can still discuss everything with other new parents or [authentic people](people-friends.md).
 
 If it's your first child, expect your relationships to change:
 
@@ -212,7 +212,7 @@ If it's your first child, expect your relationships to change:
 - Many of your friends will disappear for no apparent reason.
   - Disassociation is typical, and usually from their desire for a child or anxiety about babies.
   - Some of them may wish you well but don't care for your company anymore.
-- Work to [maintain any friends](people-4_friends.md) who stick around after the baby is born.
+- Work to [maintain any friends](people-friends.md) who stick around after the baby is born.
   - Some friends, especially women, will be obsessed with your baby.
   - [Set proper boundaries](people-3_respect.md) with them and let them babysit when you need a break.
 - Most of your parent friends will respect and connect with you more.
@@ -220,7 +220,7 @@ If it's your first child, expect your relationships to change:
   - Don't take offense if parents of older children try to impose themselves as mentors.
 - Be prepared for grandparents to involve themselves more, especially if they're new grandparents.
   - This may come as a surprise if you don't have a great relationship with them.
-  - Since your decisions affect the entire family, [wisely manage family friendships](people-4_friends.md).
+  - Since your decisions affect the entire family, [wisely manage family friendships](people-friends.md).
 
 Keep your marriage a priority:
 
@@ -298,7 +298,7 @@ Feeding them:
 - Breastfeeding is ideal, but not necessary:
   - Babies have a stronger immune system while they're breastfeeding.
   - You can still breastfeed when you're sick.
-  - If you're nursing, don't [try dieting](body-2_diet.md).
+  - If you're nursing, don't [try dieting](body-diet.md).
   - If you're breastfeeding, don't give babies pacifiers.
 - Bottle-feeding is far more convenient than breastfeeding:
   - However, baby formula is expensive.
@@ -334,7 +334,7 @@ Bathing:
 
 Let them grow:
 
-- Babies need "tummy time" for a few hours a day to [work out](body-3_exercise.md).
+- Babies need "tummy time" for a few hours a day to [work out](body-exercise.md).
 - Constantly expose them to new places, new experiences, and things they've never done before, even a mundane experience like visiting a farm or going to a hardware store.
 
 Plan for wherever you go:

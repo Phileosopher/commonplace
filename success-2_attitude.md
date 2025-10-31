@@ -42,7 +42,7 @@ The correct beliefs for the situation use at least some of the following non-exc
 As we keep attempting things, we'll learn pretty quickly what we're good at.
 
 Our impulse is to decrease our weaknesses, but we'll get more results by magnifying our strengths.
-[Foster relationships](people-4_friends.md) with people around you who are strong where you're weak.
+[Foster relationships](people-friends.md) with people around you who are strong where you're weak.
 
 ### 2. Go for results that endure
 
@@ -101,7 +101,7 @@ We must believe we *can* succeed, or we're wasting our time.
 The tasks for working on most projects often involve hours and days of complete solitude.
 Choosing to succeed can often create rejection.
 
-- Most of your close family and [friends](people-4_friends.md) will expect you to fulfill a preconceived role.
+- Most of your close family and [friends](people-friends.md) will expect you to fulfill a preconceived role.
 - Unless the people around you are also succeeding, you'll outpace and lose relationships with them.
 - If an endeavor is particularly unexpected, it's not uncommon to face denials and disinterest.
 
@@ -215,7 +215,7 @@ Seek advice everywhere.
 - Your [genetics](people-family.md) give you some insight into what you're good at, and your [culture of origin](people-culture.md) alludes to that.
 - Most people are happy to give advice.
 - When you hear or read about others' methods, always [analyze *why*](logic.md) those methods worked.
-- While general advice is useful, [your friends'](people-4_friends.md) advice may be more valuable because it's personalized for you.
+- While general advice is useful, [your friends'](people-friends.md) advice may be more valuable because it's personalized for you.
 - Watch for anyone who contradicts their advice or has [succeeded through trends that have passed](trends.md).
 
 At the same time, don't sabotage what you *do* know.
@@ -289,7 +289,7 @@ The rules you *do* break can become a defining moment of glory or misery, depend
 
 ### 17. Life on this planet is too short to obsess about hypotheticals
 
-We're all slowly dying, and we only have [some control](body-4_health.md) over it beyond [managing risks](safety-riskmgmt.md).
+We're all slowly dying, and we only have [some control](body-health.md) over it beyond [managing risks](safety-riskmgmt.md).
 
 A full life is approximately 78 years:
 

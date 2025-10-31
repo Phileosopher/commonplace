@@ -3,13 +3,13 @@
 
 Influence is a [conversational](people-conversation.md) form of [power](power.md) driven by our [human relationship](people-friends-why.md) with the speaker and their [choice](people-decisions.md) of [language](language.md), though it can also represent itself strictly on [ideas](values.md) alone if the [language](language.md) has captured them.
 
-An influencer is controlling a [story](stories.md), typically to advance an [idea](values.md) or change someone's [reputation](people-image-why.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
+An influencer is controlling a [story](stories-why.md), typically to advance an [idea](values.md) or change someone's [reputation](people-image-why.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
 
 When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](people-decisions.md) to [trust](trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
 
 ## Purpose
 
-Influence is trying to change the [story](stories.md) someone already has about something. Over time, this influence becomes our [reputation](people-image-why.md).
+Influence is trying to change the [story](stories-why.md) someone already has about something. Over time, this influence becomes our [reputation](people-image-why.md).
 
 Every influential action someone takes has a [purpose](purpose.md) behind it:
 
@@ -44,7 +44,7 @@ Broadly, every influential thing has 5 components:
 2. [Unexpected](imagination.md), which varies by intellect, [creativity](mind-creativity.md), and [experience](understanding.md).
 3. Practical, which solidifies in something that [appears real](results.md).
 4. Sentimental, which tend to push feelings into the realms of [humor](humor.md), [love](people-love.md), or [fear](mind-feelings-fear.md).
-5. Composed as a [story](stories.md).
+5. Composed as a [story](stories-why.md).
 
 ### The messenger
 
@@ -93,7 +93,7 @@ The messenger must be charming:
 
 ### The story
 
-Skillful influence requires careful [language](language.md) placement to emphasize or sidestep specific words and sensations. The entire experience will feel like an elaborate [story](stories.md) to the listener. While the approach and [purposes](purpose.md) are different, it's the same mechanism for magicians, thieves, and [advertisers](marketing.md).
+Skillful influence requires careful [language](language.md) placement to emphasize or sidestep specific words and sensations. The entire experience will feel like an elaborate [story](stories-why.md) to the listener. While the approach and [purposes](purpose.md) are different, it's the same mechanism for magicians, thieves, and [advertisers](marketing.md).
 
 That story will reach into the audience's existing [habits](habits.md):
 
@@ -103,7 +103,7 @@ That story will reach into the audience's existing [habits](habits.md):
 
 Typically, the story will allude to a [mystery](unknown.md) the audience already wanted to know before the speaker expressed anything about it.
 
-The [story](stories.md) must give a clear [purpose](purpose.md) at the end:
+The [story](stories-why.md) must give a clear [purpose](purpose.md) at the end:
 
 - In effect, the audience must feel that the [changes](people-changes.md) required for that purpose are worth it.
 - The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](people-decisions.md).
@@ -136,10 +136,10 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
 4. [Show](people-image-why.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
    - They need additional information to verify that their [values calculus](people-decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
-5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](trust.md).
+5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories-why.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](trust.md).
 6. With enough perseverance and no contradicting outside influence, *anyone* can convince anyone of anything if they don't already have a deep [conviction](understanding-certainty.md) against it.
 
-APPLICATION: Since every influencer is advancing a [story](stories.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
+APPLICATION: Since every influencer is advancing a [story](stories-why.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
 
 ## Influencing vs. following
 
@@ -148,7 +148,7 @@ The ability to guide [thoughts](logic.md) and [feelings](mind-feelings.md) gives
 We call influential people "leaders", but we *all* constantly swap from leading to following, moment by moment:
 
 1. When a person speaks, they "lead" with their idea. Every listener "follows", proportional to their open-mindedness.
-2. When that person finishes speaking, they typically "follow" back by [listening](people-4_friends.md) to the other person's response.
+2. When that person finishes speaking, they typically "follow" back by [listening](people-friends.md) to the other person's response.
 3. At any point, any follower can "challenge" that leadership by interrupting or correcting that person.
 4. While an uneven distribution of [power](power.md) has one of the people leading more (such as in [parenting](people-family.md) or [group leadership](groups-small.md)), a general [friendship](people-friends-why.md) among peers will each share about 50% of the power.
 

@@ -26,7 +26,7 @@ Optimism is easier when you're being specific:
 
 Only focus on true, good, and beautiful things:
 
-- Good things, like [friendship](people-4_friends.md) or [love](people-love.md)
+- Good things, like [friendship](people-friends.md) or [love](people-love.md)
 - True things, like [principles](philosophy.md) and [values](values.md)
 - Beautiful things, like a sunrise or [art](art.md)
 
@@ -53,7 +53,7 @@ Learn self-acceptance:
 
 Avoid cynical thinking that seems positive:
 
-- Gossiping may feel like [close friendship](people-4_friends.md), but it's a veiled form of complaining, which reinforces negative thinking.
+- Gossiping may feel like [close friendship](people-friends.md), but it's a veiled form of complaining, which reinforces negative thinking.
 - Black-and-white thinking may create [certainty](understanding-certainty.md), but stifles [creativity](mind-creativity.md) and gives us a false understanding of the world.
 - Sad music and sad thinking in general can provoke more miserable thoughts.
 
@@ -186,7 +186,7 @@ Define your feelings better:
 Get healthier:
 
 - Do a short morning workout to avoid feeling guilty the rest of the day (20 minutes will improve the next 12 hours).
-- Eat [reasonable, consistent portions](body-2_diet.md).
+- Eat [reasonable, consistent portions](body-diet.md).
 - Eat more fruits and vegetables.
 - Practice breathing slowly.
 - Drink plenty of water.

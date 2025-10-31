@@ -198,7 +198,7 @@ If the information may cause an adverse situation (e.g., [intellectual property]
 Our [technological](technology.md) tools are *very* effective at managing raw information:
 
 - Starting with [the idea of the memex in 1945](https://en.wikipedia.org/wiki/Memex), we can use a wide variety of [productivity and tracking systems](success-4_routine.md) to directly collect and sort all our information.
-- Wellness apps can fulfill every conceivable need, ranging from [sleeping](sleep.md) to [eating](cooking.md) to [working out](body-3_exercise.md) to [making friends](people-4_friends.md).
+- Wellness apps can fulfill every conceivable need, ranging from [sleeping](sleep.md) to [eating](cooking.md) to [working out](body-exercise.md) to [making friends](people-friends.md).
 - Even further, [human nature](humanity.md) is predictable enough that [software algorithms](computers-programming-algorithms.md) can find intervals connected to our [habits](habits.md) and prepare *just* before we have a need or want.
 - [Artificial intelligence](computers-ai.md), such as [machine learning](computers-ai-ml.md), heavily expands on any previous algorithms' scope and can learn behaviors simply by observing tens of thousands of iterations.
 
@@ -341,12 +341,12 @@ Your own dogmatic rules *will* vary, but they should distill into equally potent
 Most information is a waste of time, but don't sift out *valuable* information:
 
 - Specific, timeless, career-relevant information
-- Important information about [friends](people-4_friends.md) and [family](people-family.md)
+- Important information about [friends](people-friends.md) and [family](people-family.md)
 - In-person, speaking with actual people
 
 The entire end of this, after all, is to add [meaning](meaning.md) to life:
 
-- The absence of information allows us to manufacture high-quality [stories](stories.md).
+- The absence of information allows us to manufacture high-quality [stories](stories-why.md).
 - Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](imagination.md).
 - We need boredom to find [creativity](mind-creativity.md).
 

@@ -131,7 +131,7 @@ Beyond the extreme emphasis on recruitment, the rest of MLM capitalizes on the "
 
 - [Marketing and sales](marketing.md) are [specializations](jobs-specialization.md), so self-training for sales without research or mentorship is a terrible idea.
 
-MLM growth sabotages representatives' personal relationships with [family members](people-family.md) and [friends](people-4_friends.md).
+MLM growth sabotages representatives' personal relationships with [family members](people-family.md) and [friends](people-friends.md).
 
 1. Members will justify exploiting relationships as networking or business-building.
 2. Outside the company, most people believe MLM pitches are shallow, selfish exploitation.

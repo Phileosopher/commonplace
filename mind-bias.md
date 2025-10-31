@@ -5,7 +5,7 @@ These are the biases and fallacies that define and distort how we [understand](u
 
 While cognitive bias and fallacy crafts a [false image](people-image-why.md) relative to [reality](reality.md), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
 
-- There's *much* less mental work from filtering out information or converting it into a [story](stories.md).
+- There's *much* less mental work from filtering out information or converting it into a [story](stories-why.md).
 - Quick-and-easy solutions lets us sift through *much* more information, even if it's not that thorough.
 - By trusting things beyond ourselves, we [get along in society](people-culture.md) more easily.
 - By honoring our [fear impulses](mind-feelings-fear.md), we can successfully avoid most bad things that may happen, even if [modern society](jobs-specialization.md) often requires the *opposite* approach.
@@ -200,7 +200,7 @@ Salience bias - we focus on things that [emotionally](mind-feelings.md) affect u
 
 Sample size insensitivity - we judge likelihoods while ignoring the number of events that had that likelihood
 
-Storytelling effect - we remember [stories](stories.md) more than [facts](reality.md)
+Storytelling effect - we remember [stories](stories-why.md) more than [facts](reality.md)
 
 Survivor's guilt - we feel guilty if we survived an event that killed those around us
 

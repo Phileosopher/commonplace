@@ -61,7 +61,7 @@ We have a new home in heaven ([John 14:2](https://biblehub.com/john/14-2.htm)) w
 
 The world won't like this "new you" ([John 15:18-19](https://biblehub.com/bsb/john/15.htm)).
 
-- In fact, you *can't* be [friends](people-4_friends.md) with the world ([James 4:4](https://biblehub.com/james/4-4.htm)).
+- In fact, you *can't* be [friends](people-friends.md) with the world ([James 4:4](https://biblehub.com/james/4-4.htm)).
 
 The sacrifice is worth it, but you *will* endure [hardship](hardship.md) ([2 Corinthians 6:3-5](https://biblehub.com/bsb/2_corinthians/6.htm), [2 Timothy 4:5](https://biblehub.com/2_timothy/4-5.htm)).
 
@@ -114,13 +114,13 @@ We won't have an easier life and may not gain [financial wealth](money-investing
 We don't need "Christ and nobody else", and *always* need 3 other [same-sex](gender.md) believers in our lives:
 
 1. A mentor who gives us input and guidance from their superior experience (e.g., [Paul with Timothy](https://www.bible.com/bible/206/1TI.1.WEBUS)).
-2. A [friend](people-4_friends.md) walking through the same challenges and experiences we're having (e.g., [Paul with Barnabas](https://www.bible.com/bible/206/act.13)).
+2. A [friend](people-friends.md) walking through the same challenges and experiences we're having (e.g., [Paul with Barnabas](https://www.bible.com/bible/206/act.13)).
 3. Someone less experience we can [mentor](spiritual-discipleship.md) (e.g., Timothy with Paul).
 
 God *does* often bless us in ways money can't provide:
 
-- [Family](people-family.md), [friends](people-4_friends.md), and a [community](groups-member.md)
-- Physical health, often from [lifestyle decisions](body-1_why.md)
+- [Family](people-family.md), [friends](people-friends.md), and a [community](groups-member.md)
+- Physical health, often from [lifestyle decisions](body-why.md)
 - God providing every need we have
 - Giving [purpose](purpose.md) and [meaning](meaning.md)
 

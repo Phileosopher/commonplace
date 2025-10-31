@@ -18,7 +18,7 @@ You'll need a gun or other deadly long-distance weapon (such as a crossbow):
 Contrary to many fictional stories, you'll only survive with friends:
 
 - Groups of people can take turns watching the base, look out for each other, tend to each other's [wounds](safety-injury.md), and overall get *much* more [work](success-4_routine.md) done.
-- High-quality [friendships](people-4_friends.md) come from being a high-quality person, which is why the rules of [success](success-1_why.md) and [happiness](mind-feelings-happiness.md) still apply even if the world nearly ends.
+- High-quality [friendships](people-friends.md) come from being a high-quality person, which is why the rules of [success](success-1_why.md) and [happiness](mind-feelings-happiness.md) still apply even if the world nearly ends.
 
 Make sure you've stockpiled paper [guidebooks](hardship-disaster-checklist.md) for the situation and skills you plan to use.
 
@@ -50,7 +50,7 @@ The more you're preparing for future possible risks, the less you're living for 
 
 Plan ahead, since seeds today can become [next year's food](horticulture.md).
 
-Aim for high-calorie foods with plenty of [vitamins and minerals](body-4_health.md).
+Aim for high-calorie foods with plenty of [vitamins and minerals](body-health.md).
 
 Factor in water weight, since more water means less nutritional yield and higher chance of spoiling.
 

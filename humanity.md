@@ -34,7 +34,7 @@ As it stands, [science](science.md) hasn't found the soul, so there's no empiric
 
 We automatically believe in our own souls, which is because we presume the "soul" in some form exists.
 
-If a soul exists distinctly from the body, it only naturally stands that it'd last beyond the body's [death](mind-feelings-fear.md). There are many competing ideas about [what happens then](religion-answers.md), each expanding the [story](stories.md) of our existence into something we can't [know](understanding.md) right now, often with many [myths](stories-myths.md) interspersed that add [meaning](meaning.md) to this present life.
+If a soul exists distinctly from the body, it only naturally stands that it'd last beyond the body's [death](mind-feelings-fear.md). There are many competing ideas about [what happens then](religion-answers.md), each expanding the [story](stories-why.md) of our existence into something we can't [know](understanding.md) right now, often with many [myths](stories-myths.md) interspersed that add [meaning](meaning.md) to this present life.
 
 If the soul exists, the essence of a person is that soul, and their body is simply the thing the person operates.
 

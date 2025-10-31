@@ -30,72 +30,7 @@ Understanding isn't necessarily [logical](logic.md). It incorporates [feelings](
 
 APPLICATION: To be fully sure we're not reacting to [feelings](mind-feelings.md), give any piece of information five minutes for it to percolate into our understanding.
 
-## How we learn
-
-We build our understanding through [learning/education](education.md), which always starts with gathered observations:
-
-1. Performing something and witnessing its [results](results.md). This form gives the most information but is the most [unsafe](safety.md) without [creatively](mind-creativity.md) using [technology](technology.md).
-2. Directly observing something, often by seeing or touching it. Often, [media](creations.md) will reproduce that experience.
-3. Observing second-hand through [language](language.md). By reading or listening to other people who have experienced, we can [imagine](imagination.md) the experience for ourselves.
-
-APPLICATION: We can't simply learn by [rote memorization](mind-memory.md) or [acquiring information](information.md). Instead, we must experience the information to know how to work with it.
-
-With adverse experiences, we can only learn from them if we take [responsibility](meaning.md) to [change](people-changes.md).
-
-We then process the information:
-
-1. We assemble the information in our mind using [visual imagery](people-image-why.md) and [language](language.md).
-2. [Our bias](mind-bias.md) filters the information to get rid of the useless parts.
-3. If we're not sure, we'll either [analyze](logic.md) or [meditate](awareness-meditation.md) on what we've received, or will seek our environment for more information.
-4. Our [soul](humanity.md) identifies when the remainder is sufficient that we can adequately [imagine](imagination.md) what we're observing.
-
-APPLICATION: [Small children](maturity.md) often can understand, but don't have words for what they understand. A considerable portion of their [parents'](people-family.md) job to give them those words.
-
-APPLICATION: We must understand what to do before we [start anything](results.md), since acting in the wrong direction will make things worse than doing nothing. With experience, we can become highly qualified at knowing what specific information we need.
-
-The result of this process is a set of abstracted things we can quickly experience through our [feelings](mind-feelings.md) as we sense them.
-
-APPLICATION: In a sense, understanding is like [philosophy](philosophy.md) or [investing](money-investing.md) knowledge: useless by itself, but severely magnifies [power](power.md) if it's applied to a [specialty](jobs-specialization.md).
-
-After we've integrated those experiences, we tend to call those things "our ideas". They're mostly others' ideas adapted to our form of thinking, but we've worked with them them so heavily that we make them a part of our [identity](identity.md).
-
-However, we can never fully attain a comprehensive grasp of [reality](reality.md). Most of the foundational things we [believe](understanding-certainty.md) exist on the periphery of our fullest capacity for understanding something.
-
-## The method for understanding
-
-We can only focus on 1 thing at a time. Every so often we can hold things in our memory to combine ideas together, but we're incapable of thinking 2 things at once without rapidly switching.
-
-To gain more understanding of [something we don't know](unknown.md), we generally must maintain awareness that we don't know alongside [curiosity](purpose.md) about it (which requires a certain type of [fearlessness](mind-feelings-fear.md)). This forced paradox expands itself into several tracks of inquiry to investigate ideas further:
-
-- WHAT asks about status.
-  - It's meant to distill the answer down to "bottom-line" information that strips away as many details as reasonably possible.
-  - "What" is the most basic question possible, and creates the simplest answers.
-- WHO asks about individuals.
-  - The questions typically allude to [relationships](people-friends.mdds.md) and [group affiliations](groups-member.md).
-  - Asking "who" questions is always the means to *more* questions, though it's not always necessary.
-- WHERE and WHEN ask for location and time, respectively.
-  - Like "what", "where" and "when" shred away all details except the most relevant.
-- HOW inquires more intimately with the matter.
-  - "How" questions are strictly [logical](logic.md), analytical dissections of cause-and-effect.
-  - "How" gives the most useful answers for [practical reasons](purpose.md), especially when the stay focused on the present (as opposed to cause-and-effect across [time](datetime.md)).
-- WHY is a difficult question to define because it's a *very* open-ended large-scale domain:
-  - Why is that? - broadly asking any form of basis
-  - Why do they? - asking the [motivation](purpose.md) behind the known action
-  - Why does it? - asking the cause behind the known effect
-  - Why can/will it? - asking the [logic](logic.md) behind a [prediction](imagination.md)
-  - Why won't it? - finding the [unknown](unknown.md) obstruction toward a [purpose](purpose.md)
-
-APPLICATION: The types of questions we ask define most of the things we grow to understand. Asking "what" will never get anyone as far as asking "how" or "why". Curiosity is necessary to gain wisdom.
-
-In particular, "why" questions generate the most information because they request the broadest possible range of information. They also help [bridge connections](https://gainedin.site/networks/) the easiest between things, since they most easily help us to detect [patterns](symbols.md) across domains.
-
-We tend to be very accurate about *what* we're paying attention to, but often fail at explaining *why* it is that way or *how* it would respond to any [changes](people-changes.md) around it.
-
-APPLICATION: The quality of our learning comes through the forms of questions we ask and how deeply we try to answer them. If we're particularly intelligent, we should ask "why", but *everyone* should be asking "how".
-
-When we face complex questions, we tend to answer a far more simple question in place of it. Unfortunately, we tend to also not notice that we made that switch, and we'll commit a simple answer to memory about an inherently complicated idea.
-
-Often, the best way to understand something is to [write it down](language-writing.md). It forces us to use the [logic-based](logic.md) portions of our minds to [order](understanding-certainty.md) our thoughts.
+We gain understanding through [learning](understanding-learn.md), which we broadly call "[education](education.md)".
 
 ## The perspectives from understanding
 
@@ -115,89 +50,7 @@ We also must revisit the same expression multiple times to accurately capture it
 
 Of course, when people *don't* want to understand, they build [relationships](people-friends-why.md) with each other over that ignorance. We tend to [associate](people-friends-why.md) others who share our level of [passion](purpose.md) for understanding far more than [specific disciplines](jobs-spcialization.md) we share.
 
-## The depth of understanding
-
-We experience degrees of understanding as we become familiar with something. It's not always conscious, and often involves [habitual](habits.md) methods, both in our mind and (often) with the [physical world](reality.md) around us. When this set of habits applies to the physical world around us, they're also known as "skills".
-
-There are three broad classes of things we can understand:
-
-1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-4_health.md), and [journalists](stories-journalism.md).
-2. Second, we can understand things. Those things are always [perceptible](people-image-why.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
-   - Physical context - [location-based](logistics-navigation.md) attributes
-   - [Cultural](people-culture.md) context - human beliefs and perceptions
-   - [Historical](stories.md) context - period of time and events
-   - [Situational context](https://gainedin.site/networks/) - event-based things that are "not normal"
-3. Finally, we can understand ideas. Ideas are constructed [values](values.md) in the mind and can be as concrete or abstract as we need:
-   - General understanding routes through our [feelings](mind-feelings.md), and isn't very specific but is moderately useful in *many* domains (e.g., [philosophy](philosophy.md)).
-   - Technical understanding requires conscious thought, and isn't that applicable to anything else, though it's far more [useful](purpose.md) than general understanding (e.g., technical specs). Thankfully, it can cross domains if we [convert it](philosophy.md) to general understanding.
-   - Outside certain unique [personalities](personality.md), we gain technical understanding through firsthand experience, *then* build out our general understanding via [intuition](mind-feelings.md) or [desire](purpose.md).
-
-Further, we tend to climb a type of ladder of understanding that builds on itself cumulatively.
-
-A. Awareness
-
-- Knows a term, idea, or procedure exists.
-- Skills are unconscious incompetence: we don't know what we don't know.
-
-B. Grasp
-
-- We intellectually understand how a thing exists, but don't understand how it exists in reality.
-- Skills are conscious incompetence: we don't understand it, but are also aware we don't.
-
-C. Feeling
-
-- We have an [emotional](mind-feelings.md) connection to that thing and grasp it beyond merely a concept to the point that we can feel its [practical use](purpose.md).
-- Skills are conscious adequacy: we understand it enough to feel broadly sufficient at it (i.e., past the "frustration paradox").
-
-D. Familiarity
-
-- We understand the necessary [values](values.md) of that thing well enough that we can [separate it](logic.md) into its components and understand which ones matter most for [various purposes](purpose.md).
-- Skills are interchangeable adequacy: we've broken it apart and can work on our weakest points.
-
-APPLICATION: There are far too many [unknown](unknown.md) things with elements we can't know to reliably reach the end of understanding anything. For that reason, knowledge is only worth gaining if we can direct ourselves to a tangible [purpose](purpose.md).
-
-E. Rebuilding
-
-- We have so much intimate connection with that thing that we [imagine and predict](imagination.md) it relatively well, and can [create](creations.md) new ideas by combining multiple sources together.
-- Skills are consciously competent: we know how to do it if we focus.
-
-F. Integration
-
-- We have complete understanding of something, with all its [facts](reality.md) and [implications](people-image-why.md).
-- Skills are unconscious competence: our muscle memory does it well [without our conscious thought](habits.md), and we often even [identify](identity.md) with it.
-- Once we've integrated understanding, we judge other ideas and methods from this basis of understanding.
-- If we can stay in this domain, we continue mastery on the subject.
-
-APPLICATION: What you think isn't as unique as how *far* you think. To fully understand the capacity for just about anything, take it to its farthest and most ridiculous [logical conclusion](logic.md). Most people are [afraid](mind-feelings-fear.md) of what they may discover.
-
-G. Simplification
-
-- After enough time using it, we've thrown out most of the useless information and converted only the critical information into [habits](habits.md).
-- Literally *all* the understanding is a reflexive skill, connected both as a mental and muscular experience.
-- Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](education.md) it, and it becomes *much* easier for our skills to fade.
-- At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](identity.md) with our performance with it.
-
-APPLICATION: To fully understand something, we should be able to use [language](awareness.md) that defines something, then be able to define its opposite.
-
-Generally, the farther we understand things, the more complicated they become in our mind to capture the complexities inherent to it. If we stop using the information before reaching the final stage of habitual simplification, we slowly slide back down that ladder, but *always* retain small [patterns](symbols.md) that we can [use](purpose.md) for the rest of our lives.
-
-To apply understanding, there are three major ways we can gain skills:
-
-1. We can conceptually understand the raw information (though we won't necessarily be skilled with *working* with it)
-2. We can train toward it (i.e., "nurture")
-3. [Nature](reality.md) or [culture](people-culture.md) can grant it automatically, which often works as a multiplier for the rest
-
-APPLICATION: The only difference between understanding and skill is whether we know something consciously or subconsciously, which isn't always clearly defined.
-
-The most abstracted form of wisdom represents as proverbs, which have the following characteristics:
-
-- Short enough to be memorable
-- Direct or blunt enough to evoke strong [feelings](mind-feelings.md)
-- Clear and [certain](understanding-certainty.md) about what is being indicated
-- [Patterned](symbols.md) after [general realities of life](humanity-universals.md)
-- Poetically paced, or with a poetic choice of words
-
-APPLICATION: You can only understand something someone else says when you can say a statement back to them in your words in a way they can agree is accurate. This is *very* difficult to do, requires *tremendous* [emotional intelligence](mind-feelings.md), and most people will never do it.
+The essence of understanding comes through [its depth](understanding-depth.md), but also ends up constraining itself by its specialization.
 
 ## Specialized understanding
 
@@ -293,7 +146,7 @@ We tend to measure others' understanding by *their* [confidence](understanding-c
 Understanding is difficult to measure because that measurement can come through various [results](results.md) that vary wildly:
 
 - How easily or simply they can put those ideas in [words](language.md) or [explain](people-conversation.md) things.
-- How well someone can [imagine](imagination.md) easily [believable](understanding-certainty.md) [stories](stories.md).
+- How well someone can [imagine](imagination.md) easily [believable](understanding-certainty.md) [stories](stories-why.md).
 - Capability of mentally [rebuilding](imagination.md) the form of something and dividing it into [logical](logic.md) components.
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
@@ -314,7 +167,7 @@ Understanding certain things can also become tremendously risky for successfully
 
 More understanding takes work to maintain, proportionally to the intellect aspect of our [personality](personality.md). We tend to focus and filter other perspectives through whatever it is we already know because it's the easiest way to link things. Every [specialization](jobs-spcialization.md) will possess its opportunity cost of not being able to see things in the plain way that a [child](maturity.md) would be able to see things. Thankfully, this changes after we leave that specialization and start forgetting information.
 
-APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-4_health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
+APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
 
 [Past trauma](hardship-ptsd.md) or [fears](mind-feelings-fear.md) of what things may imply will often make us sidestep having to understand certain things. With enough experience, some people find [creative](mind-creativity.md) ways to avoid understanding something entirely!
 

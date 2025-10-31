@@ -7,7 +7,7 @@ The initial extraction is from Ignatius of Loyola's *Spiritual Exercises*, thoug
 
 Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](people-conflicts-christian-1_why.md), and [persecution](hardship-persecution-church.md), but they often don't realize that they can start preparation for it *long* before it happens.
 
-Like [physically](body-3_exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
+Like [physically](body-exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
 
 - The Catholic Church has practiced exercises for a few millennia, but has added plenty of unnecessary aspects to their format.
 - Many Protestants don't tend to practice spiritual exercises at all, except for regular Bible study.
@@ -169,7 +169,7 @@ Take one day off each week (a "sabbath") to rest and relax.
 
 Carefully consider any [media](creations.md) you consume, especially fiction:
 
-- Analyze [promoted](purpose.md) values within the [story](stories.md).
+- Analyze [promoted](purpose.md) values within the [story](stories-why.md).
   - Watch for repeated phrases or statements throughout the story.
   - Carefully examine pivotal events, like how the story started or how the characters came to their conclusions.
   - Consider the opponent's [reasoning](logic.md) to see what the storyteller wants you to decide against.

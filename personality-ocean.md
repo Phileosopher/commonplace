@@ -106,7 +106,7 @@ The amount people interrupt is a product of extraversion's two sub-dimensions. A
 
 Enthusiastic people tend to find a certain amount of excitement and joy from [social interaction](people-conversation.md):
 
-- Easy to [get to know](people-4_friends.md) and makes [friends](people-friends.mdds.md) easily
+- Easy to [get to know](people-friends.md) and makes [friends](people-friends.mdds.md) easily
 - Reveals more private information and is less likely to maintain distance with others
 - Warms up quickly to others, has lots of fun, and laughs a lot
 - Sees themselves as enthusiastic and explores their [feelings](mind-feelings.md) within themselves and with others

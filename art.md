@@ -59,7 +59,7 @@ Calligraphy: a form of visual expression
 Change: a depiction of movement
 
 - Expressing two states, one after the other
-- May be a [story](stories.md), but can also indicate two bits of [information](information.md)
+- May be a [story](stories-why.md), but can also indicate two bits of [information](information.md)
 
 Visual Capture: representing a visual state of the world
 
@@ -86,7 +86,7 @@ Portraiture: capturing a visual composite
 
 #### Level 3
 
-Prose: a form of expressing a [story](stories.md)
+Prose: a form of expressing a [story](stories-why.md)
 
 - Storytelling + Diction
 - Choosing sentences to build a sequence of concepts

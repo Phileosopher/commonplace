@@ -121,7 +121,7 @@ Moving frequently between jobs has some drawbacks:
 But, done right, rapid job-hopping has some hidden benefits:
 
 - More work experience across various industries makes you more [creative](mind-creativity.md) and indispensable.
-- If you know what you're doing, you can build a [potent professional network](people-4_friends.md).
+- If you know what you're doing, you can build a [potent professional network](people-friends.md).
 - You can quickly upgrade your title, salary, and benefits after only a few years.
 
 However, staying in the same position or the *wrong* position for a long time will make you look unambitious:
@@ -219,7 +219,7 @@ Download your bank statement and figure out how much money you have left:
 
 Even if you were let go, your work results at that company might still be useful:
 
-- If you were terminated, do *not* use your boss as a reference: use a coworker you were [friends with](people-4_friends.md) at the time instead.
+- If you were terminated, do *not* use your boss as a reference: use a coworker you were [friends with](people-friends.md) at the time instead.
 - It's not your fault for things you couldn't have prevented.
 - However, if automation made your job obsolete, try to avoid looking for a similar future role.
 

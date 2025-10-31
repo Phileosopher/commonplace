@@ -42,7 +42,7 @@ As of now, world hunger should no longer be an issue. We have enough [technology
 
 ## Goal 3: Good Health and Well-Being
 
-As of now, uneven [healthcare](body-4_health.md) shouldn't be an issue.
+As of now, uneven [healthcare](body-health.md) shouldn't be an issue.
 
 - Medical [technology](technology.md) is sufficient to address many issues, with many geniuses building increasingly cheaper solutions to resolve this problem.
 
@@ -198,7 +198,7 @@ If the climate is in utter peril, and we're all precariously close to imminent d
 
 Otherwise, if there's even the remotest doubt about the measurements' connection to the climate, or there's been tremendous political swaying of the legitimate risks associated to the climate, we should seriously consider whether all these anti-human-activity actions are even necessary.
 
-The fatalist Climate Changeism is more a [religion](religion-answers.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
+The fatalist Climate Changeism is more a [religion](religion-answers.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories-why.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
 
 ## Goal 14: Life Below Water
 

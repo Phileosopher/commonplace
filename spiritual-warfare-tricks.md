@@ -66,7 +66,7 @@ While God is more concerned about what we [decide](people-decisions.md) and [do]
 - More uncertainties creates more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
 - If possible, when we're [praying](spiritual-exercises-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
 - We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
-- Further, by abstracting humanity into sub-human monsters inside [stories](stories.md), the devil can further blur the line about morality (e.g., zombies, vampires).
+- Further, by abstracting humanity into sub-human monsters inside [stories](stories-why.md), the devil can further blur the line about morality (e.g., zombies, vampires).
 
 [Moral decay](morality-sins.md) is a slow fade, so the Satan keeps us [unaware](awareness.md) for as long as possible by telling us that it's always unimportant and easily reversible. The smallest [habitual](habits.md) sins can work more effectively than large, [decisive](people-decisions.md) ones to send people to hell:
 
@@ -121,14 +121,14 @@ Demons can never create pleasures, but will distort them into less pleasurable f
 
 One of the devil's simplest tricks is for us to feel entitled to specific things that aren't really ours. Naturally, any misfortunes regarding that thing will feel like an [injustice](morality-justice.md) to us:
 
-- God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-4_friends.md), [understanding](understanding.md), our [essence itself](people-love.md), and time.
+- God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-friends.md), [understanding](understanding.md), our [essence itself](people-love.md), and time.
 - Specifically, we tend to see as "ours" when we wake up, so any duties that require our attention are "stealing" or "taxing" our time.
 - We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](people-boundaries-why.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
 
 [Humor](humor.md) is valuable for our healing, and the devil can distort it:
 
 - Humor can make almost anything [enjoyable](mind-feelings-happiness.md) that would otherwise be inappropriate or immoral.
-- However, by twisting it around, the devil can promote repulsive, awful [values](values.md) through immoral [characters](stories.md), simply because they're funny.
+- However, by twisting it around, the devil can promote repulsive, awful [values](values.md) through immoral [characters](stories-why.md), simply because they're funny.
 - There's a profound [moral](morality.md) difference between enjoying base sexual humor for its merit as a joke and enjoying it to [imagine](imagination.md) performing it. The first is an acceptable appreciation of [quality](values-quality.md), but the second is simply lewdness.
 - Very [creative](mind-creativity.md) people can make completely harmless jokes about [virtue](morality.md), but humor about *[practicing](results.md)* virtue can deaden us to [loving](people-love.md) it.
 
@@ -136,7 +136,7 @@ Gluttony isn't merely from excess, and can often be from delicacy. [Western Chri
 
 - The idolatry of gluttony runs the range of anything we can consume and goes beyond food to domains such as chocolate, cigarettes, beer, television, [consumed media](stories-storytellers.md), and [technology](technology.md).
 - The dangers of gluttony in delicacy come when someone isn't satisfied with what they have and merely wants something "a little better". Females can become obsessed with one "single, little thing" they want, while males can believe they're merely acting out of [understanding](understanding.md) "real [quality](values-quality.md)".
-- To provoke gluttony of excess, demons redirect someone into a false sense of spirituality through their awareness. If they start considering the [medical effects](body-4_health.md) of their lifestyle, the devil can redirect them to a love/hate obsession with over-exercise or make them even *more* picky with their food decisions.
+- To provoke gluttony of excess, demons redirect someone into a false sense of spirituality through their awareness. If they start considering the [medical effects](body-health.md) of their lifestyle, the devil can redirect them to a love/hate obsession with over-exercise or make them even *more* picky with their food decisions.
 - To counter God's command for selfless sacrifice, the Satan will often direct a selfish [purpose](purpose.md) to an internal dialogue that justifies how that action is somehow selfless.
 - Once someone is a [glutton](addiction.md), they'll lose all sense of goodness or kindness once a substance is removed. This can be strategically useful for disrupting an entire group [pursuing God's will](god-will.md), especially if it triggers that person's [shadow self](personality.md).
 
@@ -165,7 +165,7 @@ The Satan will magnify our attention on daily nuisances people may have with one
 4. Build a self-righteousness with a double standard about appropriate [conduct](people-culture.md).
 5. Magnify any [feelings](mind-feelings.md) of [injustice](morality-justice.md) or jealousy.
 
-When we discover the nature of new [friends](people-4_friends.md), he uses a technique to tempt and distort reality:
+When we discover the nature of new [friends](people-friends.md), he uses a technique to tempt and distort reality:
 
 1. If the person is [unaware](awareness.md) enough, they can be tempted to wear many masks to maintain a [false image](people-image-why.md) among various social circles.
 2. Once that person has seen their double life, they can be inspired to feel superior over their "open-mindedness" to other [groups](groups-small.md).
@@ -175,7 +175,7 @@ When we discover the nature of new [friends](people-4_friends.md), he uses a tec
 By using our [images](people-image-why.md) of others around us, we can fall into very destructive behaviors like superficiality or callousness:
 
 - We'll imitate certain behaviors from our recurring patterns of shame, pride, modesty, and vanity, which eventually become a part of us through [habit](habits.md).
-- By delaying our [awareness](awareness.md) for as long as possible, we become less able to [change](people-changes.md) those behaviors, especially about small worldly vices like [trendiness](trends.md), [friends](people-4_friends.md), or [ambition](success-4_routine.md).
+- By delaying our [awareness](awareness.md) for as long as possible, we become less able to [change](people-changes.md) those behaviors, especially about small worldly vices like [trendiness](trends.md), [friends](people-friends.md), or [ambition](success-4_routine.md).
 - Frequently, if the Satan can direct our attention to compare ourselves with others as a matter of self-valuation, he can provoke us to self-hatred over impossible standards or conceit over standards that are beneath the way God designed us.
 
 We can often misunderstand through [language](language.md), and the Satan can magnify it:
@@ -204,7 +204,7 @@ Even when he can't provoke us to conceited thinking or distract us with a bad [b
 
 The devil makes us hate people groups, but only as a passive, brewing hatred:
 
-- We tend to [connect](people-friends-why.md) with other people when we observe [details about their lives](stories.md).
+- We tend to [connect](people-friends-why.md) with other people when we observe [details about their lives](stories-why.md).
 - Thus, we may grow dissatisfied from general hate, and enough hatred without a motive toward [destruction](morality-evil.md) will make us focus on people enough that we realize we've been [unfair](morality-justice.md).
 - So, the devil tries to keep us distant from [understanding](understanding.md) anyone we don't like.
 - When people believe [fringe ideas](trends.md), the devil will work *very* hard to turn those beliefs into rebellious ideals.
@@ -219,7 +219,7 @@ Christianity is a [simple message](jesus-gospel.md) that naturally unifies *all*
 
 After enough time away from other believers, demons can provoke someone to [go to many churches](church.md) on the justification of being a type of "connoisseur":
 
-- All the devil needs to do is to regularly stir up memories of the worst qualities of the worst actions that person remembers, and the person will develop a habit of never growing [close](people-4_friends.md) to *any* church.
+- All the devil needs to do is to regularly stir up memories of the worst qualities of the worst actions that person remembers, and the person will develop a habit of never growing [close](people-friends.md) to *any* church.
 - This will make them judgmental of others' ideas that they *should* be openly receptive toward.
 
 [Spiritual leaders](mgmt-church.md) are especially susceptible to the Satan's tricks:
@@ -250,7 +250,7 @@ We [cycle](trends.md) through good and bad times, but the devil isn't necessaril
 Lucifer can and often does show himself. He transforms into a celestial being, which often draws people into an illusion:
 
 - Often, he'll blur the line between [religion](religion-answers.md) and [politics](politics-conservativeliberal.md) and redirect people from the reality that the Jesus of the Bible hasn't changed in thousands of years.
-- He'll over-emphasize some parts of the Bible and downplay others until it removes all context for the [story](stories.md). This then creates a distant Jesus as if it were a historical biography instead of the living God who came to earth for humanity's sin.
+- He'll over-emphasize some parts of the Bible and downplay others until it removes all context for the [story](stories-why.md). This then creates a distant Jesus as if it were a historical biography instead of the living God who came to earth for humanity's sin.
 - By doing this, Christians can be directed zealously to all forms of [social justice](politics-leftism.md) or an entirely new [cult](culture-cults.md) instead of [Jesus' coming](jesus-returns.md) or [God's Kingdom](https://theologos.site/millennium/).
 - If he's *really* successful, he can make people believe a whole separate document as if it were [Scripture](bible.md)!
 
@@ -265,7 +265,7 @@ Whenever God wants, He can stop *everything* the Satan can try to do:
 - He can speak directly to believers' hearts to inspire or encourage.
 - A simple walk outside or genuine [intellectual discovery](understanding.md) can undo *decades* of the devil's work, merely through our [soul's connections with ourselves and each other](humanity-christian.md). It's why he so desperately wants us to do things we hate and avoid things we [like](purpose.md).
 - Very often, he'll try to push us against what we really [want to do](identity-christian.md) (e.g., stamp collecting, playing basketball) out of a [fear](mind-feelings-fear.md) that it's not the "[right](people-image-why.md)" or "best" or "[important](purpose.md)" thing to do.
-- Self-discovery can be *very* profound, so anytime we run across a genuine thought, he'll try to scramble it before we can [write it down](language-writing.md) or [say it](language-speaking.md) (especially to [those close to us](people-4_friends.md) or on [social media](technology.md)).
+- Self-discovery can be *very* profound, so anytime we run across a genuine thought, he'll try to scramble it before we can [write it down](language-writing.md) or [say it](language-speaking.md) (especially to [those close to us](people-friends.md) or on [social media](technology.md)).
 - Of course, if we avoid publishing it, he can foster a sense of self-righteous superiority that we're "above all that". Taken far enough, it can become the cause of tremendous intellectual [pride](morality-sins.md).
 
 One of the Satan's biggest lies is that he won't let up on tempting us until we relent:

@@ -29,7 +29,7 @@ When we must consciously choose something, we must [decide](people-decisions.md)
 
 We usually don't like confronting inner conflicts because it will often require *many* [changes](people-changes.md) if we must revisit a [habit](habits.md), proportional to how long we've had that habit. Often, accepting a small, one-sentence fact can rearrange our entire perspective of the world and disrupt our [way of life](people-culture.md).
 
-These conflicts represent in [literature](stories.md), and embody 9 relatively separate domains:
+These conflicts represent in [literature](stories-why.md), and embody 9 relatively separate domains:
 
 1. Man vs. [Nature](reality.md) - specifically, the non-man environment around us
 2. Man vs. [Society](groups-small.md) - specifically, people in groups
@@ -57,7 +57,7 @@ APPLICATION: To find the truth, we *must* constantly disagree with ourselves. Ot
 
 Further, the inner battles of our mind determine the external [results](results.md) we create. Without an inner struggle, that struggle will become others' [suffering](people-boundaries-why.md) (and also make them [responsible](meaning.md) to act on it).
 
-APPLICATION: The notion of an action-free Utopian society is flawed because it disregards humanity's most basic conflicts in their minds. We're never really "finished" with anything because we're constantly finding new things to form, adapt, build, remix, discover, unearth, categorize, finalize, destroy, rebuild, or develop. The conflict is a necessary part of the [story](stories.md) that creates our sense of [meaning](meaning.md) later.
+APPLICATION: The notion of an action-free Utopian society is flawed because it disregards humanity's most basic conflicts in their minds. We're never really "finished" with anything because we're constantly finding new things to form, adapt, build, remix, discover, unearth, categorize, finalize, destroy, rebuild, or develop. The conflict is a necessary part of the [story](stories-why.md) that creates our sense of [meaning](meaning.md) later.
 
 ## Inner conflicts from our environment
 

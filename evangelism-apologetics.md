@@ -6,7 +6,7 @@ Apologetics, in general, boils down to two approaches:
 
 1. Deconstruct the other person's beliefs and provoke them to doubt their particular faith.
 2. Convey a reliable framework of thought for your beliefs.
-   - Everyone's faith starts as an individual [story](stories.md), then branches out into [understanding](understanding.md).
+   - Everyone's faith starts as an individual [story](stories-why.md), then branches out into [understanding](understanding.md).
 
 - You must choose one of them, and it's not possible to do both.
 

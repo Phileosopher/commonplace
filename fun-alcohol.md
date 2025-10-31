@@ -25,7 +25,7 @@ Removing mental filters can make us do dangerous things:
 No matter what, don't get drunk:
 
 - Every drunk person is temporarily a complete idiot.
-- Alcohol will inspire you to say and do things that permanently [destroy friendships](people-4_friends.md).
+- Alcohol will inspire you to say and do things that permanently [destroy friendships](people-friends.md).
 - Drunk people sometimes do terrible things they can't even [remember](mind-memory.md).
 - Since alcohol is a low-grade poison that causes disorientation, abusing it will destroy your liver.
 
@@ -190,7 +190,7 @@ Nouns for ordering:
 - Shooter: strong mixed drinks served in shot glasses, sometimes are cocktails
 - Shot: pure alcohol served in shot glasses
 - Sour: a cocktail usually consisting of whiskey, sugar, and lime or lemon juice
-- Toddy: liquor mixed with hot water and sometimes spices, sometimes considered a [holistic remedy](body-4_health.md)
+- Toddy: liquor mixed with hot water and sometimes spices, sometimes considered a [holistic remedy](body-health.md)
 - Well drink: less expensive off-brand alcohol meant for mixing when no brand is specified
 
 Adjectives for ordering:

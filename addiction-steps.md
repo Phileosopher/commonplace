@@ -64,12 +64,12 @@ The steps distill into several conditions necessary to break free:
 
 1. Accept we have a problem we can't fix.
 2. Place something else at the center of our lives instead of that substance. Many [religious](religion.md) leaders state that it's a product of our need to be [devoted to God](https://theologos.site/devotion-chaos/). The one advantage of trusting God is that obsession with God creates a secondary obsession with all [reality](reality.md) (i.e., God's [creative work](creations.md), which is the entire universe).
-3. Find [friendship](people-4_friends.md) with supportive people who will *not* drag us back into the lifestyle we want to break from.
+3. Find [friendship](people-friends.md) with supportive people who will *not* drag us back into the lifestyle we want to break from.
 4. Maintain a sense of [meaning](meaning.md) in freeing ourselves in that substance: first by making amends, then [self-improvement](success-1_why.md), then provoking other people to do the same.
 
 ## The mechanical view
 
-If we remove our human constraints and tendency to [build stories](stories.md) and [find meaning](meaning.md), the 12 steps are the motivational element for a very specific flow of [habitual](habits.md) shifts:
+If we remove our human constraints and tendency to [build stories](stories-why.md) and [find meaning](meaning.md), the 12 steps are the motivational element for a very specific flow of [habitual](habits.md) shifts:
 
 1. Subdivide the addiction into its component parts.
    - Break apart each ritual and routine into smaller, more malleable components.

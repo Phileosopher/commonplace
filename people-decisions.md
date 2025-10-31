@@ -36,7 +36,7 @@ APPLICATION: Generally, experiences and decisions we make beforehand craft our m
 There is a spectrum between conscious decisions and habits. Across repetition, decisions become habits through a specific flow:
 
 1. Experience [perceived facts](reality.md).
-2. Condense the information into reasonable [stories](stories.md) that answer ["how", "why", and "what"](understanding.md).
+2. Condense the information into reasonable [stories](stories-why.md) that answer ["how", "why", and "what"](understanding.md).
 3. The end of the story creates a [feeling](mind-feelings.md) that defines the [purpose](purpose.md) we ascribe to the experience.
 
 We feel comfortable handing off most decisions to the subconscious, except for when that decision either may create [painful](mind-feelings-fear.md) [results](results.md) or makes us feel something [unfamiliar](understanding-certainty.md).

@@ -3,7 +3,7 @@
 
 Purpose is an orientation toward accomplishing some sort of [expected](imagination.md) task, which requires presuming that task can be accomplished.
 
-All things in the universe, barring a [Creator](religion.md), has no inherent purpose or meaning. We impose that onto our [perception](people-image-why.md) of [reality](reality.md) from [stories](stories.md) we [create](creations.md) in our minds. In fact, we can *only* perceive reality with a purpose first, with the only "true" perspective coming from [training](habits.md) ourselves to be [scientific](science.md).
+All things in the universe, barring a [Creator](religion.md), has no inherent purpose or meaning. We impose that onto our [perception](people-image-why.md) of [reality](reality.md) from [stories](stories-why.md) we [create](creations.md) in our minds. In fact, we can *only* perceive reality with a purpose first, with the only "true" perspective coming from [training](habits.md) ourselves to be [scientific](science.md).
 
 The existence of a self-determined purpose, usually involving survival, is a major indicator that something is a living being, though it can be [programmed](computers-ai-ml.md).
 
@@ -13,7 +13,7 @@ Our purposes make endless [decisions](people-decisions.md) that slowly form into
 
 Every purpose we make is a response to our environment:
 
-1. [Reality](reality.md) demonstrates something, which we construct into associations to remembered things into a [story](stories.md) which has an ending that generates a [feeling](mind-feelings.md).
+1. [Reality](reality.md) demonstrates something, which we construct into associations to remembered things into a [story](stories-why.md) which has an ending that generates a [feeling](mind-feelings.md).
 2. That feeling provokes us to engage in a type of [inner conflict](people-conflicts-inner.md) over a need or want we presently don't have.
 3. We continue to perceive that thing as a "problem" until we [decide](people-decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
 4. We then search for a [means](results.md) to "fix" that problem.
@@ -40,7 +40,7 @@ We tend to pursue our physical needs, then move to psychological ones. Often bef
 
 - Autonomy - the opportunity to make [decisions](people-decisions.md) for ourselves
 - Competence - the ability to be [important](identity.md) about something
-- Relatedness - a chance to [connect with others](people-4_friends.md) and be part of something larger than ourselves, usually through [love](people-love.md) or [influence](power-influence.md)
+- Relatedness - a chance to [connect with others](people-friends.md) and be part of something larger than ourselves, usually through [love](people-love.md) or [influence](power-influence.md)
 
 Our stubbornness is how much we maintain a purpose and refuse to relinquish it for another purpose, and is sometimes called "grit". It can often be magnified by our ability to detect others' desires that contradict ours.
 
@@ -126,7 +126,7 @@ Across time and with [more people](groups-member.md) involved, problems become c
 - Sometimes we want something we ought not to and will try to [maintain](people-image-distortion.md) the [appearance](people-image-why.md) that we don't want it while we pursue it.
 - If we believe we can't do something but still want it, we may detach from [reality](reality.md) and let our [imaginations](imagination.md) run free.
 - Most of the time, problems create [consequences](results.md) that create other problems, and by the time we're [aware](awareness.md) of them they've become so nasty that we have to ask "why" multiple times to get to the original cause.
-- We tend to compare and compete with others. To the degree we care about [appearances](people-image-why.md), we'll often do things we *really* hate for the sake of others' [approval](people-4_friends.md).
+- We tend to compare and compete with others. To the degree we care about [appearances](people-image-why.md), we'll often do things we *really* hate for the sake of others' [approval](people-friends.md).
 
 APPLICATION: Finding purpose is relatively simple when the current purposes or solutions don't work. Just break apart your interests into their base wants, then find different interests that meet those needs.
 
@@ -166,7 +166,7 @@ Recreation and work are *both* necessary for [the good life](goodlife.md), and s
 
 While we recreate, we tend to only relax in a few specific ways, usually dictated by [preference](personality.md) and [culture](people-culture.md):
 
-- Creating and consuming [stories](stories.md) through various [media](stories-storytellers.md)
+- Creating and consuming [stories](stories-why.md) through various [media](stories-storytellers.md)
 - Creating and consuming [humor](humor.md)
 - Low-energy activities like fishing, camping, or drinking [alcohol](fun-alcohol.md)
 - Playing games
