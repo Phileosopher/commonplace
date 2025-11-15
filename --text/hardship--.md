@@ -1,4 +1,6 @@
 
+[Dreading the Holidays? It’s Not Just You.](https://www.yearofmentalhealth.com/p/dreading-the-holidays)
+
 ## hardship test - me
 
 in a crisis or chaotic situation, I calm myself and focus on taking useful actions
