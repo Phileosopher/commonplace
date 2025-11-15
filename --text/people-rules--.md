@@ -49,3 +49,5 @@ In a house without a maid (gasp), guests should look to the host to serve the me
 
 1950s: Cut asparagus in half before eating it.
 Traditionally, the vegetable was known in British society as finger food. However, in Emily Post's 1975 revision of her etiquette book, she suggests cutting your stalk in half before picking it up to avoid, "the ungraceful appearance of a bent stalk of asparagus falling limply into someone's mouth and the fact that moisture is also likely to drip from the end."
+
+https://www.goodhousekeeping.com/life/g30809332/weird-etiquette-advice-from-the-past-100-years/

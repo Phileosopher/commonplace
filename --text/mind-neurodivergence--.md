@@ -1,4 +1,8 @@
 
+https://www.webmd.com/schizophrenia/ss/slideshow-schizophrenia-overview
+
+https://neurolaunch.com/mental-disorders-similar-to-narcissism/
+
 [David Wood (Christian apologist) - Wikipedia](https://en.wikipedia.org/wiki/David_Wood_(Christian_apologist))
 [Acts 17](https://acts17.com/)
 [Former Psychopath David Wood Shares His Astounding Transformation Into Christian Apologist : Christianity](https://old.reddit.com/r/Christianity/comments/hz608e/former_psychopath_david_wood_shares_his/)

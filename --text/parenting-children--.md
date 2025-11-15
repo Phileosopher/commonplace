@@ -1,4 +1,6 @@
 
+https://www.usatoday.com/story/life/health-wellness/2025/10/22/what-are-velcro-parents-and-how-to-avoid-the-pitfalls/86708311007/
+
 Consider playing [games] with them to fix many of their issues:
 - red light/green light is good for learning to listen and follow directions
 - patty cake and clapping games for hand/eye coordination

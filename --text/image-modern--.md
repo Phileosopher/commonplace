@@ -1,4 +1,8 @@
 
+https://en.wikipedia.org/wiki/Sovereign_citizen_movement
+
+https://www.mashed.com/370544/the-reason-dave-dahl-of-daves-killer-bread-went-to-jail/
+
 1. Have you ever wondered why convicted felons have a hard time getting jobs? Absolutely anyone who has a criminal record in anything ever gets barred from employment in most legitimate businesses. Mine was a felony child endangerment from 2021, and has nothing to do with my ability to mow lawns, dig holes, clean windows, work with customers, clean gutters, operate heavy machinery, and so on.
 
 2. There are several first impressions, which are all somewhat the case:

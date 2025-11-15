@@ -10,3 +10,5 @@ tech work is 3
 1 requires (trusting) things will work out
 3 runs the world right now comparatively, but we only reap from (the unknown) when we live by 1
 - this is essentially trusting God
+
+https://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/

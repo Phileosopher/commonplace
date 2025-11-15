@@ -61,6 +61,8 @@ Bobby Knight Problem - Large-scale leaders draw people around them who protect t
 
 Bullwhip/Forrester Effect - As something ripples outward from a cause, its effect becomes more radical and unpredictable.
 
+Charlie Kirk Effect - When a Christian is publicly killed, many other Christians become more faithful.
+
 Dunbar's Number - A person can only maintain stable social relationships up to a limit (~100-250).
 
 Economist Effect - When we understand a one-paragraph summary of a concept, we often believe we understand how to work with that concept.

@@ -7,6 +7,18 @@ When a [large group](groups-large.md) permits us to vote, we must make [decision
 
 Broadly, we have a simple decision across a spectrum: "conserve" things we're [familiar](habits.md) with, or "liberally" try things we've not [seen](people-image-why.md) before (or "progressing" towards a [new trend](trends.md)). Thus, beyond our [desires](purpose.md), our [personalities](personality.md) heavily define our politics.
 
+While there are many things that can be "conserved", there are some things that stand out:
+
+1. The equal dignity of each [human being](humanity.md).
+2. [Institutions](groups-large.md) of healthy society (which conventionally have always begun with a marriage-originated [family](family.md)).
+3. A limited, accountable government (which has been proven to work best as a [constitutional republic](politics-systems.md)).
+4. All [basic civil rights and liberties](people-boundaries.md).
+5. [Educational institutions](education.md) that are genuinely truth-seeking on all levels.
+6. A market-based, prosperous [economy](economics.md) that improves living standards for everyone (at the same time, only operating within the scope of the common good).
+7. [Public safety](people-rules.md) officials who are uncorrupted, efficient, and effective (including police, prosecutorial, and judicial authorities).
+8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children).
+9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
+
 When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](trends.md), since they have [hope](trust.md) in what they haven't seen.
 
 As people [age](maturity.md), they tend to discover that there's nothing really "[new](people-image-why.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](trends.md), they have more to lose and tend to vote more conservatively.
@@ -110,3 +122,20 @@ Finally, human politics have a nasty, irreconcilable paradox that transcends *an
 5. One of the most just places to destroy tyranny is when power transfers from one [generation](people-family.md) to the next (i.e., inheritance and inheritance tax).
 6. However, since parents [love](people-love.md) their children more than society, they will find ways to secretly transfer that power to their children, even if the children were given *complete* equality of situation (e.g., all receive the same [education](education.md) and starting income).
 7. Punishing any parents will mean the entrusted children will conspire to destroy the social system, since they're not getting what they want and have the reckless [power of youth and time](maturity.md) to exact their revenge.
+
+## Cycling trends
+
+Like all other [fashions](trends.md), conservative and liberal views vacillate through a 4-stage due to the [culture](people-culture.md) surrounding it:
+
+1. Strong people create good times.
+   - Conservative + Libertarian
+   - They are strong enough to make the necessary sacrifices, and are willing to sacrifice their independence for their purposes.
+2. Good times create weak people.
+   - Liberal + Libertarian
+   - They didn't build what they consume, so they expect others to fix the problems they see.
+3. Weak people create hard times.
+   - Liberal + Authoritarian
+   - As the [collective group becomes more dysfunctional](mgmt-badsystems.md), everyone suffers under tyranny.
+4. Harsh times create strong men.
+   - Conservative + Authoritarian
+   - The new group of people forged by [hardship](hardship.md) come together to overthrow the tyrannical system presently in place.

@@ -109,7 +109,7 @@ The cure for it:
 
 A perspective that represents a dualistic paradox:
 
-1. They have a completely worthless sense of self-worth, to the point of feeling deeply unloved and unfulfilled.
+1. They have a completely empty sense of self-worth, to the point of feeling deeply unloved and unfulfilled.
 2. They refuse to acknowledge the worthlessness, so they develop an entitlement mindset that implies they deserve much more substantial treatment than they're receiving.
 
 This viewpoint may be a psychological coping mechanism ("narcissistic behavior") or may be a core part of their personality ("narcissistic personality disorder").
@@ -146,7 +146,8 @@ Indicators:
 
 How to behave with them:
 
-- Generally, they will only use you, so don't consider any long-term friendship or partnership with them.
+- They will only use you, so don't consider any long-term friendship or partnership with them.
+  - If you suspect narcisssistic behavior (i.e., many words in a conflict that are confusing and obfuscating), candidly ask them what their goal is to find out if the conversation is worth continuing.
 - Given their inability to admit fault, there are many ways to exit the conversation with them:
   - Ask them what their greatest regret is, their insecurities, or their weaknesses.
   - Ask them why they feel they have the right to something.
@@ -154,7 +155,7 @@ How to behave with them:
   - However, any of the above will make them look to exact revenge on you at some point.
   - The better approach is to be as boring as possible with them until they get bored and go somewhere else ("gray-rocking").
 - Don't bother arguing with them.
-  - Most people argue to prove a point, but narcissists are simply trying to maintain their supply.
+  - Most people argue to prove a point, but narcissists are simply trying to maintain their supply of others' attention.
   - Ask them why they are so uncomfortable with having a different perspective.
   - The quickest way to defuse every conflict, however, is to say "I accept that's how you feel".
 - Be careful when [trusting](trust.md) them, and only give them information you're satisfied with them misusing.

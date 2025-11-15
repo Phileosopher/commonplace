@@ -1,0 +1,33 @@
+
+#### Altmaning - Matt Levine
+
+Usually, the founder and chief executive officer of a startup would like to be able to raise money from investors while keeping complete control of the company, while the investors would prefer to have some control over how their money is used. Ultimately, if there is a sharp disagreement, the investors would like to be able to _fire_ the founder and keep the company for themselves; the founder would like to be able to prevent that, and keep the company (and their money) for herself.
+
+This is a real tension, both sides have good reasons for their positions - it's her vision, her blood, sweat and tears; it's their money - and different startups strike the balance different ways. Some startups have dual-class stock structures and shareholder agreements that allow the founder to keep control of the board no matter how much outside money she raises. Other startups have single-class stock and shareholder agreements that give outside investors a lot of power. Generally, startups will have more founder-friendly structures if (1) they are in high demand (and can thus dictate terms to investors) and (2) their founders _care_ about this stuff; some founders are sort of innocent and say "if I focus on doing a good job the governance will work itself out," while other founders fight really hard for board control. And there are trends over time: When it is easy for startups to raise money, and hard for venture capitalists to get into deals, the founders get to dictate the terms, and the venture capitalists compete over who can be most founder-friendly. When capital is scarce, the providers of capital get to set the terms.
+
+All of this is pretty straightforward stuff, a somewhat zero-sum battle between founders and investors for control. It's the investors' money, it's the founder's vision, they each want protection, etc.
+
+A weird innovation that OpenAI came up with was to introduce a _third_ party that, technically, [has absolute control of the company](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai), and can ignore _both_ what the founder/CEO wants _and_ what the investors want. OpenAI has a board of (mostly) independent directors, and that board is founder/CEO Sam Altman's boss and does _not_ answer to the investors: It is the board of directors of a nonprofit, who appoint themselves, and who have a fiduciary duty to the nonprofit's mission of "building safe and beneficial artificial general intelligence for the benefit of humanity." In this structure:
+
+- Altman has no power over the board: He was a board member until November, but he had only one vote, and now the board has [kicked him off](https://openai.com/our-structure).
+- The investors have no power over the board: They had no voting rights at all, and OpenAI [told them](https://openai.com/our-structure), in its operating agreement, that "it would be wise to view any investment in OpenAI Global, LLC in the spirit of a donation."
+
+And then the board fired Altman as CEO, and Altman and the investors were both extremely upset about this and entirely aligned with each other in wanting him back as CEO, and in the course of a few frantic days he did in fact come back as CEO. The board's practical power was limited _by the fact that it was neither running the company nor supplying the money:_ It was just some outsiders with some votes; it could neither fund the development of OpenAI's large language models nor, you know, do that development itself. But the board's _theoretical_ power was total.
+
+Anyway here's a Wall Street Journal story about how, post-Open AI, [founders want to get more control back from investors](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c):
+
+> The entrepreneur world was stunned to see the board of hot artificial-intelligence company OpenAI fire Sam Altman just before Thanksgiving. He had been the face of one of the biggest successes of the year and suddenly he was out. In startup land, founders and advisers say they started discussing new ways to protect themselves.
+> 
+> Altman eventually made it back to OpenAI in a countercoup. But the tension at one of the country's biggest startups is playing out in a longstanding debate about who should control a burgeoning company. It is an inherent conflict in business, with founders wanting protection for their jobs while investors want it for their money.
+> 
+> Among startups, tougher economic conditions have recently given venture capitalists and investors the upper hand. After OpenAI, founders are going to try to regain their footing.
+
+Sure, fine. "Tougher economic conditions have recently given venture capitalists and investors the upper hand," so terms are less founder-friendly, and founders would like them to be more founder-friendly, because that is an eternal and universal tension. And "well look at what happened to Sam Altman" is, I suppose, an argument to make in that negotiation.
+
+But it has nothing to do with anything! What happened to Sam Altman is not that his investors disagreed with his vision and fired him! What happened to Sam Altman is that OpenAI, almost uniquely, is an [$86 billion startup](https://www.bloomberg.com/opinion/articles/2023-11-27/openai-is-still-an-86-billion-nonprofit) whose governance terms are _neither_ founder-friendly _nor_ investor-friendly. They are nonprofit-board-friendly. That's so weird! If you're a tech startup, you don't need a nonprofit board! The number of tech startups that answer to a nonprofit board is very close to one! If you don't have a nonprofit board, this whole problem doesn't exist! 
+
+On the other hand, if you are a founder looking to keep more control over your company, there is a lot to learn from OpenAI? The Journal story discusses the normal founder-friendly approaches:
+
+> Eric Ries, founder of the Long-Term Stock Exchange and something of a corporate governance guru and go-to mentor among the Silicon Valley set … has a system of hurdles founders can set up that would make it harder for a board to move against a company's mission or management. The most protective moves, Ries and lawyers say, are implementing supervoting shares or dual-class shares, which give founders ultimate control over their companies. These structures create multiple classes of shares to give founders, and sometimes early employees or investors, voting control.
+
+Okay sure but OpenAI has an operating agreement that (1) gives investors _no votes at all_ and (2) tells them, in writing, that they should "view any investment … in the spirit of a donation." That's _way_ better for a founder than dual-class stock, _if the founder is sure she controls the board_.

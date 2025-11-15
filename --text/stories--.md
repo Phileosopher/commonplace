@@ -10,3 +10,7 @@
 
 [Juliet Lara](https://hackernoon.com/youre-doing-stories-wrong-bfd8623977c7)
 (2018) You’re doing Stories wrong!
+
+[Bathos - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Bathos)
+
+[Deuteragonist - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Deuteragonist)

@@ -15,6 +15,8 @@ Tumblr: <https://{USERNAME}.tumblr.com/rss>
 
 Mastodon: <{WEBSITE}/@{HANDLE}.rss>
 
+- works for any username on any instance
+
 ## Content Sites
 
 Flickr: <https://www.flickr.com/photos_user.gne?path={USERNAME}&details=1>, then look for the link at the bottom

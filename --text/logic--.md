@@ -1,4 +1,6 @@
 
+[Straw Vulcan - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan)
+
 NOTE: THIS MAY OVERLAP WITH NAG MATH:LOGIC
 
 The key thing about being logical is to make clear distinctions

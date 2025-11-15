@@ -79,6 +79,20 @@ If everyone were required to share when there wasn't enough to go around, is tha
 
 Is it better for everyone to suffer equally, or for some people to not suffer at all?
 
+## The Drowning Child
+
+If you saw a small child drowning in a lake, would you be obligated to save them?
+
+What about if it would ruin a new pair of shoes?
+
+If there was no guarantee that the child would be saved, would it still be worth doing?
+
+What about if there was a high likelihood that the area around the lake had a high chance of you being robbed?
+
+What about if it was a drowning child in a foreign country, and was someone else?
+
+Is it, therefore, a good idea to send money to foreign aid to help the poorest in the world?
+
 ## Evil God Challenge
 
 Presuming the belief of a God, why do we believe an all-good God is more likely than an all-evil God?

@@ -1,4 +1,6 @@
 
+https://pensandwrenches.com/2025/10/21/the-most-troublesome-problem-in-the-church-today/
+
 ## signaling
 
 [Don't Announce the Revolution - Discipleship.org](https://discipleship.org/blog/dont-announce-the-revolution/)

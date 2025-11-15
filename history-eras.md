@@ -43,7 +43,7 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 - 1724 - 1741: Liberty Generation (generational)
 - 1742 - 1766: Republican Generation (generational)
 - ~1760 - ~1840: First Industrial Revolution (technological)
-- 1764 - 1848: Revolutionary Period (political/wars)
+- 1764 - 1849: Revolutionary Period / Age of Revolution (political/wars)
   - 1765 - 1791: American Revolution
   - 1791 - 1804: Haitan Revolution
   - 1804 - 1835: Serbian Revolution

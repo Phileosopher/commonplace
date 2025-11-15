@@ -1,4 +1,5 @@
 
+[The Meaning of Heresy in the Christian Church](https://www.learnreligions.com/what-is-heresy-700684)
 
 [Fundamentalist–modernist controversy - Wikipedia](https://en.wikipedia.org/wiki/Fundamentalist%E2%80%93Modernist_controversy)
 
@@ -10,6 +11,9 @@
 [Archbishop critical of Pope Francis excommunicated for schism… | WORLD](https://wng.org/sift/archbishop-critical-of-pope-francis-excommunicated-for-schism-charge-1720197143)
 
 [EARLY CHRISTIAN AND CHRISTIAN-LIKE SECTS: THOMASINES, ASCETICS AND MANICHEISM | Facts and Details](https://factsanddetails.com/world/cat55/sub352/item1417.html)
+
+[Catholicity - Wikipedia](https://en.wikipedia.org/wiki/Catholicity)
+[Four Marks of the Church - Wikipedia](https://en.wikipedia.org/wiki/Four_Marks_of_the_Church)
 
 ## theotokos
 

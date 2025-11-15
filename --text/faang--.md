@@ -1,4 +1,6 @@
 
+https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
+
 ## 4_tonsofuserdata
 
 [Browsers & Search Engines | My Thoughts - b3n.org](https://b3n.org/browsers-and-search-engines)

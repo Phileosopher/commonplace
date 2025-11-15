@@ -15,6 +15,7 @@ Monthly tasks usually require more work, but are less frequent:
 
 - Clear out the refrigerator and wipe it down inside.
 - Wash the trash cans and sprinkle baking soda at the bottom.
+- Clean the garbage disposal.
 - Dust the furniture and tops of surfaces.
 - Wash the [autos](autos.md).
 - Prune all foliage.
@@ -23,6 +24,7 @@ Monthly tasks usually require more work, but are less frequent:
 - Organize the [budget](money-3_budget.md) and pay the bills.
 - Clean the dishwasher.
 - Pour treatment down to the septic tank.
+- Check the air filters for the heater and air conditioner.
 
 Every 3-4 months:
 

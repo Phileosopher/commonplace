@@ -1,4 +1,8 @@
 
+[Faithful saying - Wikipedia](https://en.wikipedia.org/wiki/Faithful_saying)
+
+[What Is Epiphany? - Topical Studies](https://www.biblestudytools.com/bible-study/topical-studies/what-is-epiphany-bst.html)
+
 https://biblehub.com/q/what_is_bibliomancy.htm
 
 GOOD WORKS
