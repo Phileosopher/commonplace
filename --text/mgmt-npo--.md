@@ -1,4 +1,6 @@
 
+[OpenAI set to become for-profit company after mass leader exit | WORLD](https://wng.org/sift/openai-set-to-become-for-profit-company-after-mass-leader-exit-1727378990)
+
 Don't measure people served, measure the turnover rate (eg ppl rehabilitated)
 
 [Wikipedians are rebelling against "unethical" Wikipedia fundraising banners | Hacker News](https://news.ycombinator.com/item?id=33609240)

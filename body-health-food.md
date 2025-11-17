@@ -135,8 +135,25 @@ Try to improve your gut bacteria:
 
 - There is at least some scientific correlation between gut microbiota and Alzheimer's disease.
 - Alcohol ethoxylates in dishwasher detergent cause heavy damage to gut bacteria.
-- Probiotic supplements and foods tend to improve the ecosystem of your digestion (though it'll cause discomfort at first).
-- Fermented foods tend to improve gut bacteria, which include yogurt, certain cheeses, Japanese natto, kefir, kimchi, sauerkraut, and fermented fish.
+- Probiotic supplements and foods add to your microbiome with fermented cultures (though it'll cause discomfort at first):
+  - Certain cheeses (e.g., raw cheese)
+  - Fermented fish
+  - Japanese natto
+  - Kimchi
+  - Sauerkraut
+  - Sourdough bread
+  - Sour pickles
+  - Tempeh
+  - Yogurt (e.g., kefir, coconut yogurt)
+- Prebiotic supplements give more opportunity for healthy microbes to thrive:
+  - Asparagus
+  - Bananas
+  - Cabbage
+  - Cocoa
+  - Flaxseeds
+  - Garlic
+  - Mushrooms
+  - Onions
 
 Avoid processed meats like ground hamburger, hot dogs, and sausage, since they're "miscellaneous" meat products and usually have added hormones, antibiotics, and veterinary drugs.
 

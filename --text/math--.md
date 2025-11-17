@@ -1,4 +1,6 @@
 
+https://www.iflscience.com/scientists-have-discovered-a-new-way-to-count-and-its-actually-really-important-74327
+
 [TeachYourselfCS1] Develop a working understanding of discrete mathematics:
     - logic
     - combinatorics and probability

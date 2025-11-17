@@ -1,4 +1,7 @@
 
+generally, the more someone talks, the more they're selected to be the leader, even if they're not qualified
+- this is because [language] implies someone has [power]
+
 ## beliefs
 
 [At this company, we are family | Hacker News](https://news.ycombinator.com/item?id=36864476)

@@ -13,3 +13,5 @@
 [When Water Flows Uphill - YouTube](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 
 [Three-body problem - Wikipedia](https://en.wikipedia.org/wiki/Three-body_problem)
+
+https://historyfacts.com/science-industry/fact/solar-eclipse-einstein-theory-of-general-relativity/

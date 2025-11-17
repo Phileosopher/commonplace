@@ -1,4 +1,6 @@
 
+https://www.cnn.com/2025/07/21/health/smartphones-not-safe-preteens-wellness
+
 ## Website structure
 
 Websites, and by extension "social media", have degrees of complexity:

@@ -1,4 +1,6 @@
 
+https://www.rethinknow.org/when-to-leave-a-church-changing-churches/
+
 FROM AUSTIN STUCKY
 
 I was thinking today about what I mean when I say church versus what other people mean when they say church. When I say church, I mean the invisible body of believers around the world scattered within various denominations, home groups and more isolated assignments and seasons.

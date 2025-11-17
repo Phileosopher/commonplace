@@ -1,4 +1,6 @@
 
+https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/exploring-and-comparing-different-llms-generative-ai-for-beginners
+
 [SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning](https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/)
 
 ## machine learning

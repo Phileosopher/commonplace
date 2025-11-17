@@ -34,6 +34,26 @@ Your urine color is a profound indicator of health:
 
 There are also [many tricks for most minor issues](body-firstaid-minor.md).
 
+## Frostbite
+
+Identify it by red and sore skin at first, followed by the skin becoming pale, numb, and unusually firm.
+
+Dry the area if wet by dabbing with a dry cloth.
+
+- Do not rub frostbitten skin, since it may further damage the area.
+
+Cover the affected skin with a clean, dry cloth to keep it protected from abrasion and further exposure.
+
+Find a protected environment where you can start the thawing process.
+
+- Do not begin treatment until you are sure the affected area won't freeze again.
+
+Heat water to 100-112 °F.
+
+- If you don't have a thermometer, test that the water is warm, but not hot.
+
+Soak the skin, adding more warm water as necessary, until you have regained sensation and color in the skin.
+
 ## Itches, bug bites, and skin irritations
 
 Use any anti-itch solution to tighten the blood vessels and reduce any skin itching:

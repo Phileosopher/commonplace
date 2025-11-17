@@ -1,9 +1,17 @@
 
+https://meditationmusiclibrary.com/blogs/wednesday-wisdom-blog/8-healing-benefits-of-852-hz-solfeggio-frequency
+
 The heart has 40,000 neurons on it, which is an unusually high amount of computation necessary for a simple pump. This "small brain" actually connects to a secondary function of the heart, represented as a low-level electromagnetic field. I've experienced that EM field interaction with large-scale computers, as well as with [spiritual warfare](https://theologos.site/spiritual-warfare/).
 
 https://thecreatorsclassroom.com/heart-posture-what-is-it-why-is-it-important/
 
 https://www.doctorkiltz.com/foods-that-cause-leaky-gut/
+
+https://brownstone.org/articles/the-only-medical-specialty-that-survives-on-lies/
+
+https://www.outsideonline.com/health/training-performance/movement-key-to-living-longer
+
+https://wng.org/podcasts/healthier-options-1755703246
 
 whooping cough comes from pigs
 flu comes from pigs and birds
@@ -17,6 +25,8 @@ it takes 48 hours for the body to cycle out what was digested in it
 therefore, the body needs that much time for the [supply chain] to clear out
 thus, by eating more crap during that time, it can create autointoxication
 fasting for 48 hrs can fix it
+
+https://www.webmd.com/a-to-z-guides/manuka-honey-medicinal-uses
 
 MAKE A NOTE ABOUT DEODORANT AND THE METALS IN IT (SILICON DIOXIDE?)
 
@@ -179,4 +189,3 @@ vitamin b3 aka niacin
 
 [How do our brains adapt to control an extra body part? | Hacker News](https://news.ycombinator.com/item?id=40551070)
 [Getting to grips with an extra thumb](https://www.cam.ac.uk/stories/third-thumb)
-

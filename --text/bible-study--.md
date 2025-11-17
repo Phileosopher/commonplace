@@ -1,4 +1,6 @@
 
+https://jesusalive.cc/need-spirit-to-understand-bible/
+
 [SOAP Bible Study: Method, Example, and Template – Bible Wonderlife](https://biblewonderlife.com/soap/)
 
 do NOT start with the question on any passage, "what does this mean to me?"

@@ -1,4 +1,6 @@
 
+https://efinancemanagement.com/investment-decisions/libor-vs-sofr
+
 [What Is the SWIFT Banking System?](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp)
 
 [How Online Money Transfers Work | HowStuffWorks](https://money.howstuffworks.com/personal-finance/online-banking/online-money-transfer.htm)

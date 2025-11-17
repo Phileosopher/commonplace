@@ -1,6 +1,20 @@
 
 [Dreading the Holidays? It’s Not Just You.](https://www.yearofmentalhealth.com/p/dreading-the-holidays)
 
+https://reflectandrefresh.org/2017/02/02/the-dangers-of-self-pity/
+
+JORDAN PETERSON
+A Reason To Go To Therapy
+The classic therapist-produced view of mental health sees it as inside you — in your psyche, in your mind. However, mental health is not inside you. Mental health is the harmony of your existence in relationship to other people and to the future. The sense of wellbeing that infuses you (if you get the balance right) is not a reflection of the proper functioning of your mind or brain; it is a phenomenon that emerges when everything is in its proper place and operating harmoniously. 
+If you have the proclivity to feel one negative emotion more intensely, then you also have the proclivity to feel all negative emotions. They covary — meaning, they tend to occur together — because all negative emotions are the manifestation of the abstraction of a system that stops you from moving forward or moves you backwards or, in another variant, prepares you to fight. 
+But when you go to therapy, you aim to make your life better, and your therapist is on your side, wanting to help you. So, you explore what “better” means for you because, in some ways, “better” is something you conceivably determine in joint consultation with your therapist. Jointly, you attempt to solve the problem, but you must define what “better” is because that is what you are aiming at. First your therapist helps you explore the complexities of your identity — past, present, and future — so that your misery can be ameliorated. 
+
+JORDAN PETERSON
+Justify The Catastrophe Of Your Life By Developing A Vision
+Craft a vision. Craft a compelling vision. As human beings, we are visionaries, which is how we confront the horizon of the future. In other words, we meet the horizon of the future by crafting a compelling vision. Your vision should be one that, if you could make it come to fruition, it would justify the trouble it would take you to manage it. That is the right attitude to take in your life. 
+We all have our crosses to bear in the most fundamental manner. We must contend with the catastrophe of mortality, and we must face the reality of hell (which you can think about in the religious sense or not). There are other types of hell on earth that we certainly have no shortage of in the 21st century. So we must all grapple with the realities of mortality and hell. 
+Then, we must accept the fact we have to develop a vision for our life so compelling that it justifies those bitter realities. That is the nature of the religious enterprise, a journey upon which you can embark. If you are attempting to figure out who you are, figure out who you need to be in order to justify the catastrophe of your life. It will be difficult, but it will also be worth it. 
+
 ## hardship test - me
 
 in a crisis or chaotic situation, I calm myself and focus on taking useful actions

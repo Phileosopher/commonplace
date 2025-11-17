@@ -1,4 +1,14 @@
 
+JORDAN PETERSON
+Why You Should Write 
+When I taught at university, I often explained to my students why they should write: You write in order to think something through. When you write, you can start by asking yourself a question — hopefully an important question and one you want an answer to. If it is not an important question, then why bother answering it? And if you do not want the answer, then why bother asking the question? 
+If people stumble when they are writing, thinking, speaking, or interacting with others, it is because they have not identified an important question, nor one about which they care. Then, the answer is not an attempt to find an answer; it is an attempt to appear as though you are seeking an answer or to rationalize an answer you have already assumed to be the case. Neither of those responses is interesting or helpful. 
+You write so you can address a topic (i.e., a question) that is important to you, one that announces itself as important, so that you can think it through. That way, you properly act it out. After all, you look at the world through ideas, and then act them out in the world. You can facilitate doing so through writing. 
+
+https://buttondown.com/untools/archive/how-to-write-so-busy-people-will-read/
+
+https://www.yearofmentalhealth.com/p/every-message-is-a-gift
+
 Which ad would catch your attention? "Loaded with fiber and vitamins" or "will lower your blood pressure, cholesterol level, and help prevent a stroke"?
 Don't just tell people the benefits - show them how it will benefit their lives.
 BAD: "This car has antilock brakes and passenger-side airbag." GOOD: "This car will save your life."

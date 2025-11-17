@@ -1,4 +1,6 @@
 
+https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/
+
 HOW TO SUE
 it pays, more than anything else, to:
 1. know the judge or a close associate of the judge

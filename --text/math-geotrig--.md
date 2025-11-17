@@ -1,4 +1,6 @@
 
+https://www.geeksforgeeks.org/maths/surface-area-of-sphere/
+
 NOTE: COVER TRILATERATION (i.e., circles-based triangulation), FROM GPS
 
 Golden Mean

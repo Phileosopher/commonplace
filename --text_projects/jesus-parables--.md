@@ -1,3 +1,6 @@
+
+https://biblehub.com/q/how_long_was_jesus'_ministry.htm
+
 Summarize the parables Jesus gave
 
 1. what the parables were: TL;DR

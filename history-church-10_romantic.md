@@ -18,7 +18,7 @@ During the Second Great Awakening, the Methodists started the Holiness Movement 
 2. On a religious festival day, a Christian denomination would hold an event where people could arrive and listen to someone preach.
 3. The service would start with a solemn and ceremonious approach, with a preacher delivering a homily mixed into it.
 4. As the preacher grew tired after a few hours, another preacher would swap out with them.
-5. Over the days of the ceremony, the message and its attitude would become increasingly impassioned as they depicted dramatically scaling, vivid demonstrations of the Christian life and afterlife (especially [hell](spiritual-hell.md)).
+5. Over the days of the ceremony, the message and its attitude would become increasingly impassioned as they depicted dramatically scaling, vivid demonstrations of the Christian life and afterlife (especially [hell](theology-heavenhell.md)).
 6. Eventually, the congregants would start screaming during the sermon, sobbing uncontrollably, grabbing their neighbors and begging them desperately to repent, or running in terror throughout the crowd.
 
 The Church of Scotland experienced the Disruption of 1843, which was a conflict over whether the Church of Scotland or the British government could control clerical positions in the church. The group that believed the church had its own sovereignty became the **Free Church of Scotland**.

@@ -1,4 +1,8 @@
 
+https://wng.org/podcasts/the-tech-exit-1755288004
+
+[A Digital Revolt | WORLD](https://wng.org/podcasts/a-digital-revolt-1733406757)
+
 Building fieldstone walls: you don't plan ahead to gather these
 particular stones for that wall. You just walk around and pick up a few
 good-looking stones for the future and make a pile. Then when you get

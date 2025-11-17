@@ -1,4 +1,6 @@
 
+https://www.templeton.org/news/profound-nonsense-exposing-the-recipe-for-fake-depth-and-profundity
+
 REDDIT COMMENT
 Academic here — to get a PDF of a paper you can usually email the author and ask for one, the times I’ve tried this they’ve been happy to share. After checking if it’s available on https://oa.mg of course.
 Don’t mess around with formatting your references manually — use something like https://citationsy.com to automate the whole process

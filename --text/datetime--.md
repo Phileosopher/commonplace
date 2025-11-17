@@ -1,4 +1,8 @@
 
+https://www.longpelaexpertise.com.au/toolsJulian.php
+
+https://historyfacts.com/world-history/fact/september-was-the-seventh-month-of-the-year/
+
 [Old Style and New Style dates - Wikipedia](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates)
 
 indicate history

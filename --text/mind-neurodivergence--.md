@@ -1,4 +1,6 @@
 
+https://en.m.wikipedia.org/wiki/Borderline_personality_disorder
+
 https://www.webmd.com/schizophrenia/ss/slideshow-schizophrenia-overview
 
 https://neurolaunch.com/mental-disorders-similar-to-narcissism/

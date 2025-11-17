@@ -1,5 +1,20 @@
 
+https://founders.archives.gov/documents/Franklin/01-02-02-0028
+
+## Judiciary
+
+https://wng.org/podcasts/legal-docket-beyond-punishment-1753554483
+- the plea deal system is a total circus
+- it has created an excess of punishment for optics, followed by little to no actual accountability
+
+https://wng.org/roundups/criminal-calculations-1756156439
+- deterrence is best: the ideal amount of crime is non-zero
+
 ## Congress
+
+[An alternative funding timeline | WORLD](https://wng.org/podcasts/an-alternative-funding-timeline-1726541280)
+- NEED TO INDICATE HOW TO HANDLE A TRUE CRISIS
+- MAKE A FULL-STOP GOVERNMENT LIQUIDATION?
 
 CHECK RAINDROP
 

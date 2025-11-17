@@ -1,5 +1,4 @@
 
-
 ## Gender differences
 
 However, men and women *can* work very well with each other:

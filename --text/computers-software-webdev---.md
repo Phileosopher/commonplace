@@ -1,4 +1,6 @@
 
+https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough
+
 ## htaccess
 
 [AskApache](https://www.askapache.com/htaccess/)

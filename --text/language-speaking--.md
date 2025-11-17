@@ -1,4 +1,11 @@
 
+JORDAN PETERSON
+Listen With Serious Intent 
+In the third chapter of Exodus, before Moses is called on before God to act as a leader of his people, Moses is tending to his flock, and he notices something glistening in the periphery of his vision. He takes the time to deviate from his path, to investigate it, and to pay attention to this phenomenon that captures his interest. 
+As Moses gets closer, he can see it is a living form — a bush that is on fire. That is a strange paradox because a bush that is on fire would burn into ashes; bushes do not just continually burn. Although, in some sense, they actually do because living things are on fire in that they oxidize and transform. Everything living is like that. 
+Everything living is a combination of being and becoming. That is particularly obvious in the case for living things, but it is also true for everything because nothing is static in its form. It is what it is, and it is what it is going to be. The burning bush is being and transformation at the same time, paradoxical and compelling. It is static because it still has this treelike form (which is emblematic of life), and it is burning. 
+Then, a voice speaks to Moses from the bush and tells him to stop because he is beginning to tread on holy ground. What would happen if you listened seriously? If you listened — and listened seriously — the person to whom you are listening would reveal themselves more. People will tell you everything, including things you do not even want to know. If people are not telling you, then you are not listening because they will reveal themselves more deeply, whether it be your wife or husband, a friend, anyone. And if you think the people around you are not that interesting, then you are not listening. If you were, you might come to understand that people are no shortage of interesting.
+
 [How to ask questions the smart way](http://catb.org/~esr/faqs/smart-questions.html)
 (2001) How To Ask Questions The Smart Way
 

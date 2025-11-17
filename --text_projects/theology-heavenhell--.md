@@ -1,4 +1,12 @@
 
+Annihilationism
+Eternal conscious punishment
+- God strikes them
+- God turns them over to their sin
+
+https://www.equip.org/articles/the-dark-side-of-eternity-hell-as-eternal-conscious-punishment/
+
+
 Essay on
 A. What heaven and hell are, according to traditiion
 B. What heaven and hell are, according to scripture

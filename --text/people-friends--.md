@@ -1,4 +1,6 @@
 
+https://wng.org/podcasts/lynn-vincent-greet-one-anothe-1753978436
+
 [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/)
 On Giving Advice to Friends
 

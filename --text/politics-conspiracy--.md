@@ -1,4 +1,8 @@
 
+https://en.m.wikipedia.org/wiki/Robert_Willner
+
+[Thread by @johnkonrad on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1886916890427318673.html)
+
 # tinfoil
 
 [The terrorists are NOT who you think they are: - Index page](https://pacsteam.org/)

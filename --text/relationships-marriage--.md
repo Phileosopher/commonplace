@@ -1,6 +1,12 @@
 
 [4 Rarely Used Love Languages Every Couple Should Embrace, By A Psychologist](https://www.forbes.com/sites/traversmark/2024/11/13/4-rarely-used-love-languages-every-couple-should-embrace-by-a-psychologist/)
 
+JORDAN PETERSON
+Commit For A Lifetime: How To Know You Are Ready For Marriage
+To know if you are ready to marry someone, you should know if you can negotiate with the person in such a way you have started to formulate a vision of a joint future that you can both look forward to with enthusiasm and confidence. That means considering if you have a sufficient number of joint interests and are oriented in the same direction with regard to careers, the possibility of children, and the manner in which you will interact with your in-laws, for example. 
+Experiencing the attraction that is associated with love is extraordinarily important. If you have it, you are unbelievably fortunate and should do everything you can to maintain it — and that takes effort. However, your relationship and future marriage cannot just be about attraction. You have to start considering your life together from the perspective of practicality and economics. You need to ally the attraction with maturity and intelligence in regard to how you are going to put your lives together on a level of detail. Ask and talk about: How are we going to handle our finances? Where are we going to live? What are our joint plans going to be? You should know the person well enough that you start discussing the real practical issues of life and determine if you are capable of negotiating those together. 
+Unless you make a lifelong commitment (i.e., one that you are not going to back out of), you are not going to take the relationship with the seriousness necessary to make it the highest possible quality and sustainability. The relationship you jointly operate adds immensely to the quality and depth of your life. You have the rope and strand of your life, and your partner has the rope and strand of theirs; those are tied together to make a stronger rope that unites you across time so you can undertake massive adventures together. It is challenging, but it is a process that produces an unbreakable bond between two beings. If the relationship is based on trust and genuine communication, that bond makes both individuals better in every way.
+
 [4 Reminders to Help When Your Marriage is Tough](https://fiercemarriage.com/4-reminders-help-marriage-tough)
 
 [5 Phrases Every Wife Needs to Hear Daily - Fierce Marriage](https://fiercemarriage.com/5-phrases-every-wife-needs-hear-often)

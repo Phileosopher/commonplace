@@ -1,4 +1,6 @@
 
+[The Rise and Fall of Purity Culture | WORLD](https://wng.org/podcasts/the-rise-and-fall-of-purity-culture-1731711527)
+
 write a guide using the kama sutra and personal XP
 - make it mechanical and logistically-minded
 
@@ -7,3 +9,5 @@ write a guide using the kama sutra and personal XP
 [Crushing Porn Use With God's Joy Over You - Fierce Marriage](https://fiercemarriage.com/crushing-porn-use-with-gods-joy-over-you)
 
 https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/
+
+https://wng.org/podcasts/flynn-evans-the-porn-illusion-1752631857

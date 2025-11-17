@@ -2,6 +2,8 @@
 
 [Celebrate the Gift of Closed Doors - by Chris Guillebeau](https://www.yearofmentalhealth.com/p/celebrate-the-gift-of-closed-doors)
 
+https://wng.org/podcasts/kicker-the-science-of-saying-sorry-1758667342
+
 to avoid the worst of a projection while asserting a boundary
 - swap the pronoun of their accusation and use a high-context response
 - e.g., "you're not being very nice" 

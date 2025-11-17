@@ -1,6 +1,10 @@
 
 # First aid for minor issues
 
+## Acne and blackheads
+
+Apply neem oil to the skin and navel
+
 ## Allergies
 
 Eat a spoonful of apple cider vinegar or a cup of yogurt
@@ -15,15 +19,9 @@ Eat onions
 
 Slow down your breathing
 
-## Arthritis/joint pain
+## Blurred vision
 
-Eat fish or take fish oil
-
-Eat marshmallows
-
-Eat pineapple
-
-Rub aloe vera on your joints
+Apply tea tree oil to the navel
 
 ## Brain freeze
 
@@ -69,11 +67,15 @@ Mix a teaspoon of apple cider vinegar into water and drink
 
 Push your tongue against the roof of your mouth and press your finger between your eyebrows for twenty seconds
 
+Apply thyme oil to the navel
+
 ## Constipation
 
 Drink senna leaf tea or dried aloe vera juice
 
 For painful gas, lay on your back and lift your left knee to your chest to fart it out
+
+Apply mustard oil to the navel
 
 ## Coughing/cold
 
@@ -97,6 +99,8 @@ Raise your hands above your head
 
 Mix two lemons, half a cucumber, and ten to twelve mint leaves in three quarts of water, brew it overnight, then drink it throughout the day
 
+Set a cotton ball soaked in alcohol in the navel
+
 ## Cramps
 
 Drink children's pediatric electrolyte solution
@@ -117,6 +121,24 @@ Drink fiber mix:
 
 Eat apples
 
+## Dry eyes
+
+Apply tea tree oil to the navel
+
+## Dry skin
+
+Skin moisturizer generally works, but many brands also use desiccants (e.g., formaldehyde) that dry out skin long-term.
+
+Apply essential oil to the skin
+
+- Almond
+- Mustard
+- Tea tree
+
+## Fever
+
+Set a cotton ball soaked in alcohol in the navel
+
 ## Heartburn (acid reflux)
 
 Kneel with your head bowed lower than your stomach, which strengthens your lower esophageal sphincter
@@ -132,6 +154,30 @@ Inhale through your mouth, swallow your saliva twice, and slowly exhale through 
 Masturbate
 
 Try to force yourself to hiccup
+
+## Indigestion and nausea
+
+Apply equal parts mustard oil and ginger oil to the navel
+
+## Joint pain and arthritis
+
+Eat something
+
+- Fish or take fish oil
+- Glucosamine supplement
+- Marshmallows
+- Pineapple
+
+Rub onto the joint
+
+- Aloe vera
+- Sesame oil
+- Tea tree oil
+
+Apply oil on and around the navel before bed
+
+- Castor
+- Mustard
 
 ## Need to pee
 
@@ -163,7 +209,7 @@ To suffocate lice, apply mayonnaise or any other high-oil product
 
 To remove worms and other parasites, eat honey with vinegar
 
-## Period cramps
+## Menstrual cramps
 
 Blend a smoothie of a cup of fat-free milk, a tablespoon of chocolate syrup, half a banana, half a cup of strawberries, a kiwi peel, and ice
 
@@ -176,6 +222,8 @@ Masturbate with a tampon to barely touch it, then pee afterward and change the t
 Run hot water onto a cloth or paper towel and wring it out until damp, then place it over the cramp
 
 Use a pad instead of a tampon or menstrual cup
+
+Set a cotton ball soaked in brandy in the navel
 
 ## Shivering
 

@@ -125,6 +125,11 @@ Maintain healthy brain activity by maintaining nimble finger skills (e.g., typin
 
 Sitting all day increases the risk of dementia, even if you exercise, so stand up and walk around more often or consider a [career change](jobs-1_why.md).
 
+- Adults 18-59 should walk 7,000-10,000 steps a day
+- Adults over 60 should walk 6,000-8,000 steps a day
+- Anything that gets the walking in, including tracking steps, is worth the effort
+- Slowly graduating steps by 1,000 each day or over weeks, or participating in walking challenges, can also make it easier
+
 Frequently sitting or performing repetitive actions can lead to back pain, and stretching exercises (e.g., yoga, Pilates) fix it *far* better than any type of workout, chiropractors, or drugs/treatment.
 
 One of the most important cures for chronic pain is to get moving.

@@ -1,4 +1,15 @@
 
+https://en.m.wikipedia.org/wiki/Guilt%E2%80%93shame%E2%80%93fear_spectrum_of_cultures
+- SHAME VS FEAR VS GUILT
+
+https://www.yearofmentalhealth.com/p/the-feelings-wheel-beyond-good-bad
+
+JORDAN PETERSON
+Become A Part Of A Social Context To Find Meaning
+You can walk through someone’s life and find out if they are reasonably embedded in a hierarchy of social institutions. If they are not — no intimate partner, no family, no children, no friends, no job, no career, no educational pathway, no engagement in civic responsibility, no church attendance, no spiritual life, no routine — then they are not depressed; they just have a horrible life, multidimensionally. It is no wonder they would think they are depressed; there is nothing in their life that is working. But that is not exactly a diagnosis at the level of the individual; it is a diagnosis of the relationship between the individual and the structure containing social institutions. 
+If you do not have an intimate partner, a family, any friends, a career or a job, any civic involvement or any involvement with religious institutions, and no creative striving, all you have left is pain. Though your mess of fragmented subpersonalities — anger, anxiety, impulsive enthusiasm, lust, and so on — can pull you different directions, you need to integrate them within yourself so that as an individual, you are integrated. But the nature of that integration is dependent on your integration within the broader social context.
+We are deeply social creatures. We are unbelievably social. One of the corollaries of being miraculously social is that to be well-constituted, you have to be a harmonious player in a multidimensional symphony of social interaction. 
+
 emotions are lenses upon reality
 - long-term emotions create warped lenses (e.g., sadness becomes depression)
 

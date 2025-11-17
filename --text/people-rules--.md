@@ -1,4 +1,11 @@
 
+laws and policy are never truly followed
+- the purpose of laws and policy is to punish or give a good excuse to punish
+
+https://open.substack.com/pub/yearofmentalhealth/p/pretending-is-exhausting
+
+https://www.yearofmentalhealth.com/p/it-takes-time-to-just-be-yourself
+
 1880: A lady shouldn't have more than one glass of champagne.
 The British manual, The Habits of Good Society: A Handbook of Etiquette for Ladies and Gentlemen, says that a proper lady should only accept one glass of champagne — anything more or less would be improper.
 

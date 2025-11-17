@@ -1,4 +1,8 @@
 
+https://www.tovima.com/wsj/goodbye-gentle-parenting-hello-f-around-and-find-out/
+
+https://wng.org/podcasts/culture-friday-what-kids-really-need-1754587076
+
 https://www.usatoday.com/story/life/health-wellness/2025/10/22/what-are-velcro-parents-and-how-to-avoid-the-pitfalls/86708311007/
 
 Consider playing [games] with them to fix many of their issues:

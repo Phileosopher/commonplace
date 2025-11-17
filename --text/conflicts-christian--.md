@@ -15,6 +15,12 @@
 [Catholicity - Wikipedia](https://en.wikipedia.org/wiki/Catholicity)
 [Four Marks of the Church - Wikipedia](https://en.wikipedia.org/wiki/Four_Marks_of_the_Church)
 
+https://www.family2000.net/ChristianDenominationAlignmentQuiz/
+
+[Rapture Refuted! Pre-tribulation Rapture and Premillennialism Refuted Home page](https://www.bible.ca/rapture.htm)
+
+[PreBorn! | Saving Babies and Souls](https://preborn.com/)
+
 ## theotokos
 
 clarify the distinction of Mary being the mother of God

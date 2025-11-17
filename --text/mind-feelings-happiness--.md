@@ -1,4 +1,30 @@
 
+
+JORDAN PETERSON
+Practice Gratitude
+Gratitude can be an elixir for victimhood. Gratitude is not the naive insistence that the world is a perfectly delightful place and that everything is going to go well. Gratitude is a practice. It is a moral virtue. The virtuous part of gratitude is the courage to find light in even the darkest place that can guide you through. The willingness to and the understanding of that is a practice. 
+A few years ago, my wife was extraordinarily, fatally ill. During that time, she diligently strived to look for what she could be grateful for in each moment of each day. This practice was not only an aide to her physically and immunologically, as it helped her be less stressed, but it also helped her spiritually. This is very often the case in situations such as hers, in situations that people are facing serious illness. 
+Ask questions about gratitude, and give others space to practice it as well. Be grateful for the love and support you receive when that love and support is genuine because they will be of genuine aid to you. And when you practice gratitude, know that it is not a kind of naivety; it is a courageous practice. Ask questions about gratitude, and give others space to practice it as well. 
+
+JORDAN PETERSON
+Gather At The Table With Gratefulness 
+When people sit at a table, they share food. This is strange; humans are the only animals who formally share food. But it is also normal — so normal in some ways that no one notices its strangeness. The fact that people can actually share food, even when they are hungry, is really quite remarkable.
+The dinner table represents a kind of nostalgic ideal. The Old Testament places an immense emphasis on hospitality to a stranger, but the same principle applies within your family. At the dinner table, you get to share your day. You each get to talk and to listen. It is a place to inculcate manners into your children. It is a place for everyone to keep track of everyone else and what is going on in their day, week, and so forth. Sharing food at the table is a time and place for everyone to come together and discuss the separate elements of their life. 
+Then, a mealtime prayer offers an opportunity to be grateful. People often incorrectly think of prayer as a kind of wish or confuse it as a time to ask for favors, but it is actually a practice. You can practice gratitude, and there are certainly reasons to do so — one of which being that you notice what you have for which to be grateful. In other words, the practice makes you much more aware. It is also a way to stave off resentment. If you become an expert at the very useful practice of gratitude, your life will become much better.
+
+JORDAN PETERSON
+Create And Move Toward A Goal To Experience Positive Emotion
+There are different types of positive emotion, but enthusiasm and joy  — not to be confused with satiation — are fully dependent on observing progression toward a valued goal. Separately, the feeling of satiation, or obtainment, occurs when you obtain something you want and feel satisfied. (Satiation involves a completely different neurochemical system.) But enthusiasm and joy, which are often associated with happiness, manifest themselves when you are moving toward a valued goal. Therefore, if you do not prioritize your goals, then you do not experience positive emotion. 
+In terms of forward movement, positive emotion is almost all its motivation because the embodied manifestation of positive emotion is movement toward a valued goal. That is the purpose of positive emotion; that is why you experience positive emotion. The emotional implication of being a creature that can move toward goals is positive emotion. If you lack a goal, you will not experience positive emotion. In like manner, if you are inclined to accomplish 10 tasks at once, you will accomplish none. Put another way, if you have 100 goals and cannot prioritize them, then every goal has 1% of the significance necessary to move you forward. To be maximally motivated, you must know the reason for your actions. 
+Consciousness is an incredibly narrow channel. Generally, we can only concentrate on one thing at a time — because we can only act out one thing at a time. This means that not only do you need to prioritize your perception, but you must also prioritize your actions. By doing so, you create a structure of priority, which is a structure of compared value. 
+
+JORDAN PETERSON
+How To Experience Positivity In Life
+In order to stop your current anxiety system from tagging older anxiety systems, you have to do something about it. Otherwise, you will continue to be tortured by negative memories forever — because that is how an alarm system works. 
+You may need to return to your past memories for clarity and understanding. You should figure out how the situation happened, and ask what role you played. Your role may, indeed, have been minor, but the degree to which you were involved does not necessarily matter, as that is not the point of your discovery. The point is that you do not want to be put in the same vulnerable position again; instead, you want to strengthen yourself however you can. 
+If it is a really old memory from your childhood, for instance, you probably have a variety of techniques you could use now — because you are not a child now. However, you must update the part of your brain that still thinks you are four years old. It is possible that parts of yourself are still caught in a traumatic childhood experience. Thus, you need to know where you are now, so to speak, to then address the memory. 
+When you decide to move from one point to another — specifically, somewhere slightly better — that is good. The positive emotion system that runs on dopamine will respond neurochemically for the sole reason you are going somewhere worth going. This system, deeply rooted in your brain’s exploratory circuitry, is happy when you have somewhere to go; then, it is happy when you are progressing. 
+
 ## holmes-rahe life stress inventory
 
 marital separation

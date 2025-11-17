@@ -3,6 +3,10 @@
 
 [What Is Epiphany? - Topical Studies](https://www.biblestudytools.com/bible-study/topical-studies/what-is-epiphany-bst.html)
 
+https://www.myjewishlearning.com/article/dayenu-it-would-have-been-enough/
+
+[What Is Midrash? | My Jewish Learning](https://www.myjewishlearning.com/article/midrash-101/)
+
 https://biblehub.com/q/what_is_bibliomancy.htm
 
 GOOD WORKS

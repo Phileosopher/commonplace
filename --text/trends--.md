@@ -1,4 +1,6 @@
 
+[A warning from history | WORLD](https://wng.org/podcasts/a-warning-from-history-1726710164)
+
 "Anything that is in the world when you're born is normal and ordinary
 and is just a natural part of the way the world works. Anything that's
 invented between when you're 15 and 35 is new and exciting and

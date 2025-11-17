@@ -1,7 +1,7 @@
 
 # How to implement healthy treatment solutions
 
-## Lean toward preventative treatments
+## Lean toward prevention first
 
 Prevention is *always* better than treatment.
 
@@ -12,19 +12,76 @@ Learn to [stay positive](mind-feelings-happiness.md).
 
 - Often, our [fears](mind-feelings-fear.md) of health problems tend to *increase* our chances of anxiety-based health issues like heart attacks.
 
-Skin moisturizer generally works, but many brands also use desiccants (e.g., formaldehyde) that dry out skin long-term.
+Add a few routine things to your daily diet:
 
-Not all vaccines are the same:
+- A daily multivitamin (with Vitamin D3 if you're indoors).
+- Fermented garlic:
+  1. Cover peeled garlic cloves in raw honey
+  2. Let sit 30 days
+  3. Take 1 tsp every day
+- Infused vinegar:
+  1. Add rosemary and garlic to apple cider vinegar
+  2. let steep 3 weeks
+  3. take 1 tsp in water or tea daily
+- Elderberry syrup:
+  1. Simmer 1 cup of berries and cinnamon in 4 cups water
+  2. Add 1/2 to 1 cup honey
+  3. Take 1 tbsp daily
 
-1. Some vaccines are simply placebos, meaning they do *nothing* except what you believe they'll do.
-2. Historically, most vaccines are collections of dead virus cells that allow the body to attack a dormant virus and learn its specific DNA signature.
-   - However, it's not uncommon for vaccines to still have *live* cells mixed into them, so there's always a risk of actually *getting* a small dosage of the disease you're trying to prevent.
-   - The vaccine for shingles has been linked to preventing dementia cases.
-3. Starting with COVID-19, some vaccines are mRNA gene therapy.
-   - They use an advanced technology that swaps out the genetic code in your body's cells.
-   - This is, as of the early 2020s, highly experimental, and could potentially cause cancer in the long term.
+The body works best when it [faces resistance](goodlife.md), but most doctors tend to recommend bed rest for recovery.
 
-Most wrinkle-preventing solutions don't work, but tretinoin (branded as Retin-A) does. It also increases UV intake, meaning an increased chance of sunburn.
+- When we push against something, we get stronger, even when recovering.
+- Resting after an injury often (even for lower back pain or a heart attack) causes *more* damage.
+- If you haven't worked out in a while, shorter bursts of rigorous exercise are *far* faster at getting your body in shape again than prolonged low-exposure exercise.
+
+Consider fasting to improve your overall health:
+
+- After 4-8 hours:
+  - Blood sugar falls
+  - All food leaves the stomach
+  - The pancreas is no longer producing insulin
+- After 12 hours:
+  - All food in the digestive system has been used
+  - The digestive system goes dormant
+  - The body begins a healing process
+  - Glucagon is relaxed, which balances blood sugars
+  - Human growth hormone begins to increase
+- After 14 hours:
+  - The body has converted to using stored fat as energy
+  - Human growth hormone increases dramatically
+- After 24 hours:
+  - All glycogen stores are drained
+  - Ketones are released into the blood system
+  - Broken or dysfunctional cells start breaking down (autophagy)
+- After 36 hours:
+  - Autophagy has increased by 300%
+- After 48 hours:
+  - Autophagy increases by 30% more
+  - The immune system resets and regenerates
+  - The body's inflammation response is reduced
+- After 72 hours:
+  - Autophagy maxes out
+
+## Prioritize preventative and noninvasive treatments
+
+Many over-the-counter painkillers are *very* effective at suppressing pain:
+
+- Ibuprofen affects the kidneys, and a healthy adult shouldn't go past 3200 mg/day.
+- Acetaminophen affects the liver, and a healthy adult shouldn't go past 3000 mg/day.
+- Naproxen sodium affects the liver, and a healthy adult shouldn't go past 1375 mg/day the first day and 1100 mg/day every day afterward.
+  - Of the three, naproxen sodium is the most effective at treating headaches.
+
+[Specific minor ailment treatments](body-firstaid-minor.md)
+
+Affordable snake oil will work for your health when you believe it will.
+
+- Even when a treatment is entirely psychosomatic, a $40 bottle every month of useless essential oil is cheaper than a $10,000 surgery.
+
+Essential oils applied to the navel will directly affect stem cells, and will have a holistic effect across your whole body.
+
+Aim for [specific treatments for your situation](body-health-treatments-specific.md).
+
+## Don't neglect checkups
 
 As soon as you feel a risk to your health or [start aging](hardship-aging.md), adapt a habit of taking routine exams:
 
@@ -35,20 +92,30 @@ As soon as you feel a risk to your health or [start aging](hardship-aging.md), a
 - If your family has a history of diabetes, get a fasting blood glucose test yearly after age 40.
 - However, general annual checkups (even when you're healthy) do *not* do much to save lives because it gives people the [bias](mind-bias.md) that they're fine because the doctor had checked already.
 
-The body works best when it [faces resistance](goodlife.md), but most doctors tend to recommend bed rest for recovery.
+However, always take the doctor's advice as a consultant or sales personnel, *not* as a certain truth.
 
-- When we push against something, we get stronger, even when recovering.
-- Resting after an injury often (even for lower back pain or a heart attack) causes *more* damage.
-- If you haven't worked out in a while, shorter bursts of rigorous exercise are *far* faster at getting your body in shape again than prolonged low-exposure exercise.
+- If you're not certain, ask a second doctor's opinion without informing them about the first doctor.
 
-Cold exposure has been loosely proven to reduce tumor growth.
+## Carefully consider institutionalized medical treatments
 
-Many over-the-counter painkillers are *very* effective at suppressing pain:
+Most of the afflictions have simply been renamed or localized based on symptoms:
 
-- Ibuprofen affects the kidneys, and a healthy adult shouldn't go past 3200 mg/day.
-- Acetaminophen affects the liver, and a healthy adult shouldn't go past 3000 mg/day.
-- Naproxen sodium affects the liver, and a healthy adult shouldn't go past 1375 mg/day the first day and 1100 mg/day every day afterward.
-  - Of the three, naproxen sodium is the most effective at treating headaches.
+- Polio became viral meningitis
+- Scarlet fever became strep throat
+- Consumption became tuberculosis
+- Diptheria became a respiratory infection
+- Rickets is now Vitamin D deficiency
+- Spanish flu now can be pneumonia or ARDS
+
+Not all vaccines are the same:
+
+1. Some vaccines are simply placebos, meaning they do *nothing* except what you believe they'll do.
+2. Historically, most vaccines are collections of dead virus cells that allow the body to attack a dormant virus and learn its specific DNA signature.
+   - However, it's not uncommon for vaccines to still have *live* cells mixed into them, so there's always a risk of actually *getting* a small dosage of the disease you're trying to prevent.
+   - The vaccine for shingles has been linked to preventing dementia cases.
+3. Starting with COVID-19, some vaccines are mRNA gene therapy.
+   - They use an advanced technology that swaps out the genetic code in your body's cells.
+   - This is, as of the early 2020s, highly experimental, and could potentially cause cancer in the long term.
 
 If you need medical equipment, look into what the private payment price is (rather than billing your insurance).
 
@@ -88,6 +155,8 @@ Therefore, only go to the hospital if it's a severe-enough event that worsens wi
 
 - If it's a minor issue, you may take home a worse disease than you brought there.
 
+## Navigate the healthcare system correctly to save time and money
+
 Before going to the hospital, call the nurse line on the back of your insurance card to avoid an expensive or risky trip.
 
 - By calling and being recommended to go to the hospital, the insurance company is more likely to cover you.
@@ -102,10 +171,11 @@ If you *do* visit a hospital, your bills are often negotiable.
 
 - Always ask for an itemized bill, then [haggle](money-4_spending.md) over the clearly arbitrary items.
 - Hospitals will often take pennies on the dollar if you're willing to pay directly to them right away.
+- Price-compare for treatments with other hospitals *before* consenting to them.
 
 While in a hospital, the staff will ask what your pain level is, from 1 to 10.
 
-- For some reason (possibly [drug addicts](addiction-substances.md)), they will [bias](mind-bias.md) your experience of 10 as being dramatic, even if it truly is the most severe pain you could imagine.
+- For some reason (including [drug addicts](addiction-substances.md)), they will [bias](mind-bias.md) your experience of 10 as being dramatic, even if it truly is the most severe pain you could imagine.
 
 If you've received similar treatment before, you can save a *lot* of time and energy by communicating what happened and what was prescribed.
 

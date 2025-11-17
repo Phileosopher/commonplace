@@ -1,4 +1,14 @@
 
+https://wng.org/podcasts/brad-littlejohn-the-soul-stakes-of-ai-1754412500
+
+https://techxplore.com/news/2025-08-ai-breakthrough-power-images.html
+
+https://buttondown.com/untools/archive/why-ai-is-making-us-worse-thinkers-and-how-to/
+
+https://www.thebrink.me/chatgpt-induced-psychosis-how-ai-companions-are-triggering-delusion-loneliness-and-a-mental-health-crisis-no-one-saw-coming/
+
+[Should we use AI and LLMs for Christian Apologetics? - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
+
 AI is essentially reproducing "average" behavior
 - it isn't going to create anything that hasn't been done many times before
 - it's a dumb computer still, so it's just following rules and does NOT have an intuition for anything
