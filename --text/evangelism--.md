@@ -1,4 +1,12 @@
 
+TWO WAYS TO LIVE
+1. God, the good ruler and creator (Rev 4:11)
+2. Our rebellion against God (Isa 53:6a)
+3. God's justice (Heb 9:27)
+4. God sent JEsus to die for us (Isa 53:6)
+5. Jesus, the risen ruler and savior (1 Pe 1:3)
+6. Two ways to live (John 3:36)
+
 An ambassador is...
 1 READY. An Ambassador is alert for chances to represent Christ and will not back away from a challenge or an opportunity.
 2 PATIENT. An Ambassador won’t quarrel, but will listen in order to understand, then with gentleness seek to respectfully correct those in opposition.

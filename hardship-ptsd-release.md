@@ -57,9 +57,14 @@ When you are ready, release your feelings about anything you fear or resent:
   - Give or request a hug from someone.
 - Make releasing a [morning or evening practice](habits.md) to prevent any further buildup of fears or resentments.
 
+As release happens, you will feel a surreal change, almost as if part of you was [dying](hardship-death.md).
+
+- This is because a portion you had [purposed](purpose.md) as being critically important has now been updated to be presently useless, and you're removing those thought patterns.
+- It will be disorienting, but isn't permanent.
+
 ## Forgiveness
 
-Forgiveness is technically the final stage of releasing trauma.
+Forgiveness is the final stage of releasing trauma.
 
 There are multiple possible realms where we may not forgive:
 

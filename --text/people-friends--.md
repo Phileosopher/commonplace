@@ -1,4 +1,9 @@
 
+Friends are:
+
+1. available to listen when things are going bad: they make no judgment
+2. they are available to BIRG without stealing the thunder
+
 https://wng.org/podcasts/lynn-vincent-greet-one-anothe-1753978436
 
 [Daniel Miessler](https://danielmiessler.com/blog/on-giving-advice-to-friends/)

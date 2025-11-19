@@ -17,3 +17,5 @@ Don Basham
 Cross & switchblade
 
 https://en.m.wikipedia.org/wiki/Vitalis_of_Gaza
+
+Peace Child: missionary to Papua New Guinea
