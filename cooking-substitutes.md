@@ -56,7 +56,7 @@ Butter
 - The same volume of puréed avocados (for brownies and chocolate cookies)
 - A half-volume of applesauce mixed with a half-volume of butter, but more if you can't tell the taste difference (for any sweetbreads or muffins)
 - 3/4 volume of prunes blended with 1/4 volume of boiling water (for dark baked goods like brownies, chocolate cookies, and cakes)
-- 3/16 volume of flax meal mixed with a 1/16 volume of water and left to sit for 5--10 minutes (for anything with a strong nutty flavor)
+- 3/16 volume of flax meal mixed with a 1/16 volume of water and left to sit for 5-10 minutes (for anything with a strong nutty flavor)
 - 1/5 volume of chia seeds mixed with a comparative volume of water and left to sit for about 15 minutes (for muffins, cakes, and breads)
 
 Buttermilk
@@ -193,7 +193,7 @@ Eggs (1 egg)
   - Two tablespoons of potato starch
   - 3 tablespoons of boiled chickpea gel (leftover water after boiling)
   - A tablespoon of chia seeds mixed into 1 cup of water and left to sit for about 15 minutes
-  - A tablespoon of flax meal mixed into three tablespoons of water and left to sit for 5--10 minutes (for muffins, cakes, and cookies)
+  - A tablespoon of flax meal mixed into three tablespoons of water and left to sit for 5-10 minutes (for muffins, cakes, and cookies)
 
 Lemon juice
 

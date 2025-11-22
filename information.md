@@ -1,7 +1,7 @@
 
 # Information management explained
 
-When we observe [nature](reality.md), the incoming perception assembles itself into a hierarchy:
+When we observe [nature](reality.md), the incoming perception assembles itself into a hierarchy (MFDKIW Pyramid):
 
 - Measurements - [values](values.md) and [sensations](mind-feelings.md) we experience.
   - e.g., a being we regard as a cat, two of those beings, colors, numbers, opinions, memories, etc.

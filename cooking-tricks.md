@@ -68,7 +68,7 @@ Slice mushrooms with an egg slicer.
 Separate garlic easily:
 
 - Place the cloves together in a covered container and shake well for the skins to separate.
-- Microwave cloves for 15--20 seconds for them to slip out of their skins.
+- Microwave cloves for 15-20 seconds for them to slip out of their skins.
 
 After chopping garlic, sprinkle in salt to bring out the flavor.
 
@@ -121,7 +121,7 @@ Clean fruits more easily:
 Get more juice out of fruits:
 
 - Roll them on the counter before cutting them.
-- Microwave lemons and limes for 10--30 seconds before slicing.
+- Microwave lemons and limes for 10-30 seconds before slicing.
 - Squeeze your fruits with tongs to save your hands.
 
 Cut fruits easily:
@@ -176,9 +176,9 @@ Soak lentils and beans quickly:
 
 1. Add a pinch of baking soda to enough water.
 2. Microwave for 10 minutes.
-3. Let sit for 30--40 minutes.
+3. Let sit for 30-40 minutes.
 
-Toast nuts in the microwave for 4--5 minutes by stirring them every minute.
+Toast nuts in the microwave for 4-5 minutes by stirring them every minute.
 
 ## Seasoning
 
@@ -217,7 +217,7 @@ Muffins: reheat in the oven covered at 350 °F (177 °C) for 15 minutes and then
 
 Pasta: reheat on a hot plate with a little oil and water added.
 
-Pizza: reheat in a nonstick frying pan for 3--4 minutes at mid-low heat.
+Pizza: reheat in a nonstick frying pan for 3-4 minutes at mid-low heat.
 
 Reuse stale bread as croutons:
 

@@ -93,6 +93,8 @@ Diminishing Intent Law - If someone doesn't act quickly with an idea, the idea w
 
 Hume's Law - No statement of "what is" can ever describe "what ought to be".
 
+Kidlin's Law - Writing down a problem clearly and specifically solves half of it.
+
 Kranzberg's Second Law of Technology - Inventions create needs. Inverts the proverb, "needs create inventions".
 
 Lem's Law - Most people don't read, reading isn't understanding, and understanding isn't remembering.
@@ -125,6 +127,8 @@ Second Law of Thermodynamics - Order always decays into complete chaos.
 
 Von Restorff Effect/Isolation Effect - When people see multiple similar objects, they'll most likely remember the one that's the most different.
 
+Wilson's Law - Money drifts toward knowledge and intelligence.
+
 Wirth's Law - Ideas compound faster than physical reality can keep up.
 
 ## Power/Purpose
@@ -139,7 +143,11 @@ Doherty Threshold - People are most productive when they're interacting with the
 
 Dunning-Kruger Effect - People tend to overstate their competence.
 
+Empty Plate Effect - Scarcity creates desire.
+
 Engelbart's Law - People perform exponentially better across time.
+
+Falkland's Law - When a decision doesn't have to be made, it's better to postpone it.
 
 Familiarity Heuristic/Availability Heuristic/Mere-Exposure Effect - People tend to favor things they're familiar with, a major component of how [culture](people-culture.md) forms.
 
@@ -148,6 +156,8 @@ Fitts' Law - The longer the distance and smaller the size, the longer it takes t
 Forbidden Fruit Effect - We want things more when we can't have them.
 
 Gérson's Law - The most advantageous decision will disregard [ethics](morality.md).
+
+Gilbert's Law - The person who decides to perform a task is always responsible to find the best way to accomplish it.
 
 Goal-Gradient Effect - The closer someone is to a goal, the faster they approach it.
 
@@ -246,6 +256,8 @@ Akin's Twentieth Law of Spacecraft Design - Bad designs with a good image are ev
 Adverse Selection - When people have more information than others, they use that information to gain an advantage with those other people.
 
 Alder's Razor / Newton's Flaming Laser Sword - If it can't be tested, it's not worth a debate.
+
+Dirty Window Rule - Imperfection demonstrates humanity, and is therefore more appealing than perfection.
 
 Doctorow's Law - If someone puts a lock on your thing against your wishes and doesn't give you the key, they aren't doing it for your benefit.
 

@@ -44,22 +44,32 @@ Signs the company doesn't care about your career:
   - The role is a dead-end job.
 - The employer assumes you'll automatically take their job offer:
   - The manager presumes that hiring you is doing you a favor.
+  - They will often show their assumptions if you show any hesitation about taking the role.
 
 Signs the company doesn't care about their employees:
 
-- The interviewer complains about the current staff when they first meet you:
+- They're very quick to say they can work with all accommodations:
+  - They're trying to promise everything in the hopes that someone takes the job.
+- The interviewer complains about any of the current staff:
   - It's a trickle-down abuse culture.
+  - It can also be the case when they talk badly at length about the previous people in the role.
 - Managers make jokes at the expense of the team:
   - It's a passive-aggressive trickle-down abuse culture.
 - The employees either look away from the manager or act like they don't want to be there:
   - The manager is either controlling or the employees are embarrassed by them.
 - The workers are brutally honest and hate their job:
   - The manager maintains a [false image](people-image-distortion.md) of a great workplace.
+- When asked about overtime, the interviewer indicates that people like to stick around most days.
+  - The overtime is mandatory, but they can't legally say that.
 
 Signs of deep corporate dysfunction:
 
+- When the interviewer is asked about what they like about working there, they respond by describing the location of the work:
+  - They don't want to openly admit to a candidate that they hate their role.
 - Many new employees in a long-standing business:
   - The company is experiencing a high employee turnover rate because people keep quitting or getting fired.
+- The business is run almost exclusively by people who have been in the company a long time:
+  - They're resistant to any change whatsoever, and expect everyone to conform to their wishes.
 - Not enough appropriate communication in the office:
   - You won't know what to do, but everyone will frequently panic.
 - Little or no respect for others' time and talent:
@@ -86,7 +96,7 @@ Over-controlling company policies:
 - Payroll deductions for workplace items:
   - This can include gas expense, company lunches, and supplies.
   - This is a corporate money-saving trick that completely disrespects you and your ability to work.
-- Dictated hours for salaried employees or mandatory office time for a job that canb e completely work-from-home:
+- Dictated hours for salaried employees or mandatory office time for a job that can be completely work-from-home:
   - Every employee is required to work a certain number of hours.
   - Dictated hours force salary employees to loiter in an office.
 - Managers dictate internal job transfers:
@@ -105,7 +115,7 @@ Be careful with unions:
 - In practice, labor unions will work tirelessly to defend the lowest-performing workers, while removing any chance you'll be rewarded for hard work by measuring the time from your hire date instead.
 - Work in a union if you want job where you'll never get fired, but don't expect any [meaning](meaning.md) or recognition for your work.
 
-## Negotiating the Job
+## Negotiating the job
 
 Most people miss out on the extra advantages of negotiating their role:
 

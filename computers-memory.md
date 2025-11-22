@@ -193,7 +193,7 @@ For long-term storage, it's not always safe to only have one place to hold the m
 
 - If it's your desktop computer, you won't really need any redundancy besides [cloud backup](computers-distsys-cloud.md) of your important user files.
 - Because of the sensitivity of the information, NAS and surveillance utterly *require* a "redundant array of independent disks" (RAID).
-- For cold storage, it's safest to use at least 12--24 drives in a RAID array, possibly higher.
+- For cold storage, it's safest to use at least 12-24 drives in a RAID array, possibly higher.
 - In a data center, the vast size of the project can mean hundreds or even thousands of drives.
 
 RAID configurations are based on redundant information ("parity") and spreading the information across multiple drives ("striping"):

@@ -147,7 +147,7 @@ Drink something:
 
 Eat something:
 
-- 15--20 almonds
+- 15-20 almonds
 - Applesauce
 - Bananas
 - Chicken broth
@@ -367,7 +367,7 @@ There are many other small indicators:
 - Trying to roll over on the back
 - It looks like they're climbing an invisible ladder
 
-A drowning person can only stay above water for about 20--60 seconds, so it's worth taking the time to [train yourself](http://spotthedrowningchild.com/) on what to see.
+A drowning person can only stay above water for about 20-60 seconds, so it's worth taking the time to [train yourself](http://spotthedrowningchild.com/) on what to see.
 
 #### Choking
 
@@ -568,7 +568,7 @@ A. Have the victim lie on their side
 
 B. Fill the infected ear with 3% hydrogen peroxide
 
-C. Wait about 5--10 minutes until the bubbling stops, then clean out all the earwax with a cotton swab
+C. Wait about 5-10 minutes until the bubbling stops, then clean out all the earwax with a cotton swab
 
 #### Sprained ankles
 

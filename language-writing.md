@@ -47,6 +47,10 @@ Writing is communicating information to someone where they forget they're [imagi
 
 When writing, you gain a more thorough [understanding](understanding.md) of what you're trying to communicate.
 
+- In general, the [information](information.md) contained in writing should be focused on conveying wisdom.
+- This wisdom frequently uses fewer words to convey more information at once.
+- Without deep, profound [understanding](understanding.md) of something, we can't write well.
+
 Your best writing is the best version of *your* [creative](mind-creativity-how.md) style, not how well you imitate another writer.
 
 Sometimes, though, you might have to write about something that doesn't interest you:

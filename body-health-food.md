@@ -302,7 +302,7 @@ Consider other supplements that have been scientifically proven to be beneficial
 - Coenzyme Q10: a powerful antioxidant that reduces certain issues such as heart conditions, diabetes, and physical performance
 - L-theanine: 50-200 mg/day or add more green tea to your diet
 - Vitamin C: ~500 mg/day (or more if you're at risk of getting sick)
-- Vitamin E: ~100 mg, 2x/day (has a relatively short action duration of 2--4 hours)
+- Vitamin E: ~100 mg, 2x/day (has a relatively short action duration of 2-4 hours)
   - Alpha-tocopherols are the most common form sold in stores, but mixed tocopherols (e.g., alpha and gamma) are more effective.
 - Magnesium: ~500 mg right before bed (helps with [sleep](sleep.md))
 

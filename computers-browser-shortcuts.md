@@ -55,9 +55,9 @@ Narrow the search to exact ordering of words:
 
 use [Boolean logic](logic-cs.md) to clarify concepts:
 
-- OR -- (dancing OR singing) online courses
-- AND -- (dancing AND singing) online courses
-- NOT -- dancing online courses -free
+- OR - (dancing OR singing) online courses
+- AND - (dancing AND singing) online courses
+- NOT - dancing online courses -free
 
 Use wildcards:
 

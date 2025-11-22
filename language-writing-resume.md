@@ -29,7 +29,17 @@ Recruiters look at résumés all day long, so they're trying to throw out as man
   - If your industry is open to it, make your résumé fun or unconventional.
 - Logically break apart the résumé chronologically, functionally, or any other way the reader can understand.
 
-Keep your résumé at about 600--700 words:
+Focus on résumé content that fits the typical reading flow:
+
+- Recruiters read in an "F" format:
+  1. Heading, cover content
+  2. Most recent job title and bullet points
+  3. Skim everything else
+- This gives about 10 seconds of reading to leave an impression.
+- Therefore, avoid big blocks of text, and focus on the bullet points more than the font or template.
+- For the sake of [marketing yourself](jobs-3_image.md), the information you don't place in your résumé doesn't exist.
+
+Keep your résumé at about 600-700 words:
 
 - Too many details will turn off a potential employer.
 - Keep it long enough to avoid lots of white space.

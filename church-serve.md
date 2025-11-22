@@ -12,11 +12,18 @@ Most healthy churches have plenty of volunteers, and they'll usually pick people
 - Many people within a church can be motivated towards self-interested purposes, so it can get complicated.
 - Look *beyond* official church meetings for the greatest needs, such as community services and parachurch organizations.
 
-## Types of People
+## Types of people
 
 [Family](people-family.md) members
 
+- Your [spouse](relationships-marriage.md)
+- Your [children](parenting-children.md)
+
 Poverty-stricken and involuntarily homeless
+
+- Transients
+- Drug [addicts](addiction-substances.md)
+- [Disaster](hardship-disaster.md) victims
 
 Inexperienced people
 
@@ -31,13 +38,18 @@ Disabled people
 - Deaf
 - Mentally disabled
 - Elderly
+- Temporarily sick (friend)
+- Temporarily sick (stranger)
 - Chronically sick and infirm
 
 Abandoned people
 
+- Church absentees
 - Antisocial people
 - Widows
 - Shut-ins/home bound
+- Elderly people
+- Newly pregnant mothers (e.g., going to abortion clinic)
 - Stay-at-home mothers
 - Nursing home tenants
 
@@ -48,7 +60,18 @@ Organizations that serve suffering people
 
 The volunteers themselves
 
-## Things to Try
+- Pastors/elders/priests
+- Lay church leadership
+- [Evangelists](evangelism.md)
+- Foreign [missionaries](mgmt-church-missions.md)
+
+## Things to try
+
+Improve church events
+
+- Sing loudly
+- Greet/encourage people
+- Work in the nursery/childcare
 
 [Pray](spiritual-exercises-prayer.md) steadily
 
@@ -56,6 +79,35 @@ The volunteers themselves
 - For individuals' [souls and spirits](humanity.md)
 - That the workers have what they need
 - For blessings to the workers
+
+Meet basic needs
+
+- Distribute food to needy people
+- Prepare food for people
+- [Maintain a budget](money-3_budget.md) and give the surplus to others
+- [Plant a garden](horticulture.md) and give the proceeds to others
+- Give clothing to people
+- Babysitting/childcare
+- Give in-home care for a day
+- [Clean someone's home](home-housekeeping.md)
+- Transport people
+
+Connect with people
+
+- Become a [friend/mentor](people-friends.md) to someone
+- Call to encourage someone
+- Send cards (e.g., birthdays)
+- Write letters to people
+- Invite people to your home
+- Have an "open house" for people
+- Throw [parties](fun-parties.md) for people
+- Take gifts to people (flowers, plant, food, Bible, etc.)
+- Take someone out, such as to the library or park
+
+Connect people
+
+- Bring a young child to spend time with someone
+- Have a youth group sing for someone
 
 Create systems and events
 
@@ -72,17 +124,14 @@ Request money/resources
 - Food drive
 - Supplies/clothes
 
-Visit people
-
-- Become a [friend/mentor](people-friends.md) to someone
-- Send cards (e.g., birthdays)
-- Babysitting/childcare
-
 Busywork
 
 - Do [chores](home-housekeeping.md) and clean things up
 - Admin and office work
+- Transcribe, edit, and write copy
 - Run errands
+- Organize areas
+- [Fix](https://adequate.life/fix/) things
 
 Creating
 
@@ -93,17 +142,19 @@ Creating
 - Knit/crochet/quilt
 - Decorate
 - Photography
-- Web design
-- Write letters
+- [Web design](computers-software-webdev.md)
 
-Teaching
+[Educate](education.md) people
 
+- [Bible studies](bible-study.md)
+- [Write articles](language-writing.md) for others
+- [Homeschooling](education-homeschool.md)
 - [Spiritual discipleship](spiritual-discipleship.md)
+- Read to others
 - Tutoring
 - Job training
-- Read to others
 
-## Across the World
+## Across the world
 
 Advertise the [persecution](hardship-persecution-church.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
 

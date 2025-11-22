@@ -14,7 +14,7 @@ Keep bacon from shrinking:
 
 Pan-frying bacon lets bacon cook in its grease.
 
-Cook bacon in the microwave by wrapping in paper towels on high for 3--5 minutes.
+Cook bacon in the microwave by wrapping in paper towels on high for 3-5 minutes.
 
 The best bacon is baked open in the oven at 365 °F (185 °C) for 10 minutes, or on tinfoil at 400 °F (204 °C) for 12 minutes.
 
@@ -59,7 +59,7 @@ Omelets are scrambled eggs with more form:
   3. Add cheese on top of it and fold over if desired.
 - With a coffee mug in the microwave:
   1. Mix two eggs, cheese, add-ins, salt, and pepper in a coffee mug.
-  2. Microwave for 30--60 seconds, stir, then microwave for another 30--60 seconds.
+  2. Microwave for 30-60 seconds, stir, then microwave for another 30-60 seconds.
 
 Fried eggs are cracked over a greased frying pan and cooked on both sides:
 
@@ -102,7 +102,7 @@ Other fun ways to cook an egg:
   1. Cut out a circle in the middle of hamburger meat with a cup.
   2. Set the hamburger meat in a frying pan.
   3. Crack an egg open in the middle of the hamburger.
-- Bake a dozen eggs for English muffins in a muffin tray for 15--20 minutes at 350 °F (177 °C).
+- Bake a dozen eggs for English muffins in a muffin tray for 15-20 minutes at 350 °F (177 °C).
   - Make breakfast bites by mixing them with bacon or ham.
 
 ### Pancakes
@@ -123,16 +123,16 @@ Mix new ingredients into pancakes:
 French Toast Casserole
 
 1. Cut half a loaf of dried bread or six day-old biscuits into 1-inch cubes.
-2. Whisk 6--8 eggs with 1/2 cup of milk or whipping cream.
+2. Whisk 6-8 eggs with 1/2 cup of milk or whipping cream.
 3. Mix the eggs/dairy mix, cut bread, sausage or bacon, and salt/pepper to taste in a large mixing bowl.
-4. Let it soak for 1--24 hours.
+4. Let it soak for 1-24 hours.
 5. Bake in greased casserole dish at 350 °F (177 °C) ~20 minutes (until golden brown).
 
 ## Lunch
 
 You can bake potatoes in the microwave.
 
-Cook and shuck corn by putting husked corn in the microwave for 2--5 minutes, cutting on one side, and sliding the cob out of the husk.
+Cook and shuck corn by putting husked corn in the microwave for 2-5 minutes, cutting on one side, and sliding the cob out of the husk.
 
 When boiling cob corn, add a pinch of sugar to bring out the corn's natural sweetness.
 
@@ -201,7 +201,7 @@ Bake a French baguette:
 7. Remove the dough from the bowl and punch it down, then let it rest for several more minutes.
 8. Place the dough on a baking tray and make three or four balls from it.
 9. Elongate the dough balls into ovals, then make deep diagonal cuts.
-10. Bake at 400 °F (204 °C) for 30--40 minutes.
+10. Bake at 400 °F (204 °C) for 30-40 minutes.
 
 ## Homemade seasoning
 
@@ -259,5 +259,5 @@ Curry powder:
 
 Dry herbs yourself:
 
-1. Microwave them in a cup for 2--4 minutes.
+1. Microwave them in a cup for 2-4 minutes.
 2. Crumple the herbs onto paper towels.

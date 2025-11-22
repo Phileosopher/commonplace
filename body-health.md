@@ -46,7 +46,7 @@ With all the risks from toxins and concentrated energy, [maintaining balance in 
 
 1. Develop a habit of dogmatically using all [safety precautions](safety-riskmgmt.md) without any lapse.
 2. Pay *very* close attention to what your body is telling you.
-3. Only work in that field for 2--5 years, then [move to a field](jobs-1_why.md) that doesn't have those risks.
+3. Only work in that field for 2-5 years, then [move to a field](jobs-1_why.md) that doesn't have those risks.
 
 ## Seek better habits more than treatments
 
@@ -109,7 +109,7 @@ Adverse weather conditions help our bodies get stronger and healthier:
 
 Restricting calorie intake (i.e., fasting or severe dieting) builds stronger muscle and stimulates healthy aging.
 
-Consider bloodletting (i.e., donating blood) 1--4 times a month to get rid of excess iron in your blood.
+Consider bloodletting (i.e., donating blood) 1-4 times a month to get rid of excess iron in your blood.
 
 - To get rid of toxins in the blood that store in fat, donate a double portion of plasma and drink a cup of coffee an hour before going in to donate.
 
