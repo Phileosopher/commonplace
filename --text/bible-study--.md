@@ -1,8 +1,4 @@
 
-https://jesusalive.cc/need-spirit-to-understand-bible/
-
-[SOAP Bible Study: Method, Example, and Template – Bible Wonderlife](https://biblewonderlife.com/soap/)
-
 do NOT start with the question on any passage, "what does this mean to me?"
 - instead, that's the LAST question you ask
 
@@ -34,10 +30,6 @@ I like to think of it like "layers".
 - Layer 3 - interconnecting it with other verses and historical context (which commentary is great for)
 - Layer 4 - meditating so deeply on it that God gives further connections through prolonged study
 All the layers give inspiration, because God is very clever.
-
-[hermeneutical approaches - What is morphological analysis, as it relates to Bible study? - Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/questions/2243/what-is-morphological-analysis-as-it-relates-to-bible-study)
-
-[What is the Wisdom of Solomon? | GotQuestions.org](https://www.gotquestions.org/Wisdom-of-Solomon.html)
 
 ## from gospel splice intro
 

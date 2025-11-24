@@ -1,8 +1,4 @@
 
-https://www.yearofmentalhealth.com/p/costs-and-benefits-of-following-your
-
-https://www.yearofmentalhealth.com/p/where-do-your-goals-come-from
-
 JORDAN PETERSON
 Improve The World Around You
 Ego inflation is not something to be tampered with; it is incredibly dangerous. I teach and discuss archetypal stories, but I learned 30 years ago from Carl Jung, who warned of the danger of ego inflation, that knowing the stories does not make you the archetype. That is important to understand. 

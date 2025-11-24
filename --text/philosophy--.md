@@ -9,6 +9,3 @@ These presumptions can then frame a healthier dialogue.
 I AM SO VERY WRONG HERE!
 - GOD LITERALLY DESIGNED THE UNIVERSE FOR A RELATIONSHIP WITH HIM
 - THIS MEANS THAT MY AXIOMATIC BELIEFS STARTING FROM "FIRST PRINCIPLES" WITHIN THE SELF ARE UTTERLY MISGUIDED
-
-[Indifferentism - Wikipedia](https://en.wikipedia.org/wiki/Indifferentism)
-- also goes to GIS glossary

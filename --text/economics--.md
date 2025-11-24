@@ -1,8 +1,6 @@
 
 because of the opinions and preferences of the majority who are NOT [specialized], major market movements always hit the lower-priced parts of the market worse than the boutique range of products
 
-[Kicker: The Waffle House index | WORLD](https://wng.org/podcasts/kicker-the-waffle-house-index-1729119944)
-
 ## Black markets
 
 it's a difficult battle of tradeoffs with illegalizing things

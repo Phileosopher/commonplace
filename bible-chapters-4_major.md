@@ -79,8 +79,8 @@
 5. nobody is just, God's judgment proclaimed
 6. Jerusalem's final warning, an invasion is coming from the north
 7. Jeremiah's message at the temple gate, Judah's idolatry persists, the valley of slaughter
-8. 
-9. 
+8. Judah's sin and God's punishment, the people respond by fleeing, Jeremiah weeps for his people
+9. a lament over Zion, God's promises
 10. 
 11. 
 12. 

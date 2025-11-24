@@ -213,7 +213,7 @@
 
 1836
 
-- John Wesley, the founder of the Methodist Church, foresaw the Millennium beginning this year. He wrote that "the time, times and half a time" in Revelation 12:14 referred to the years 1058--1836 "when Christ should come".
+- John Wesley, the founder of the Methodist Church, foresaw the Millennium beginning this year. He wrote that "the time, times and half a time" in Revelation 12:14 referred to the years 1058-1836 "when Christ should come".
 - Johann Albrecht Bengel divided 666 by 42 (months) and came out that each month = 15-6/7 years. He came up with the date of the beginning of the Millennium using this formula.
 
 1843
@@ -223,7 +223,7 @@
 
 1844
 
-- William Miller predicted Christ would return on March 21, 1844. Some followers set another date of October 22, 1844, which resulted in the Great Disappointment that collapsed the movement.
+- William Miller predicted Christ would return on March 21, 1844. Some followers set another date of October 22, 1844, which resulted in the Great Disappointment that collapsed the movement that eventually became both the Seventh Day Adventists and Jehovah's Witnesses.
 
 1847
 

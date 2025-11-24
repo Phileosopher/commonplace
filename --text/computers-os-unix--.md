@@ -32,16 +32,10 @@ freeCodeCamp dev quiz - Unix
 - The "core" of Linux is the "kernel", which has critical things for everything else
 - ps shows currently running processes
 
-[F-Droid - alternative to Google Play store | Hacker News](https://news.ycombinator.com/item?id=30506413)
-[F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
-- Check the comments for tools
-
 The tar command is used to create an archive, grouping multiple files in a single file, without compressing them
 
 DIFFICULT BUT AWESOME:
 Among Linux distributions, Gentoo. This distro will give you Stockholm Syndrome. Its installation isn't merely user unfriendly, it often borders on being downright user abusive, but once installed, it is guaranteed to deliver the absolute maximum level of performance your hardware is capable of providing, beyond what you had ever seen your hardware accomplish on any other operating system (with the possible exception of MenuetOS, but that system's written entirely in assembly code, which is sort of cheating).
-
-[MenuetOS](http://menuetos.net/)
 
 CompTIA - Unix-likes
 - A technician is using the YUM package manager to install software on Linux. What setup file format does YUM use? RPM
@@ -88,32 +82,3 @@ Idea: consider what it would take to make VERY simple syntax for the CLI (e.g., 
 [Explaining Why We Don't Endorse Other Systems - GNU Project - Free Software Foundation🆓](https://www.gnu.org/distros/common-distros.html)
 - there's a type of "puritanism" oriented toward completely-free software/hardware/everything
 - this drives a LOT of the culture, even at the risk of (alienating users)(UX)
-
-## 128-bit systems
-
-[The road to Zettalinux | Hacker News](https://news.ycombinator.com/item?id=32950988)
-[The road to Zettalinux [LWN.net]](https://lwn.net/Articles/908026/)
-
-## applications
-
-[A new wave of Linux applications | Hacker News](https://news.ycombinator.com/item?id=30364337)
-[A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
-
-## binary tools
-
-[Binutils - GNU Project - Free Software Foundation🆓](https://www.gnu.org/software/binutils)
-
-## bin folder
-
-[Alexander Blagoev](http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
-(2017) Adventures in /usr/bin and the likes
-
-## bin
-
-[Understanding the bin, sbin, usr/bin, usr/sbin split (2010) | Hacker News](https://news.ycombinator.com/item?id=31336396)
-[Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
-
-## building a unix clone
-
-[Writing a Unix clone in about a month | Hacker News](https://news.ycombinator.com/item?id=40467297)
-[Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)

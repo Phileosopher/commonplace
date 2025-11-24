@@ -21,6 +21,7 @@ Some carcinogens exist in most food, on surfaces, and even the air, but our live
 Regular exposure to small amounts of toxins (hormesis) will often make us *stronger*.
 
 - To avoid peanut allergies in children, expose them to peanut butter during [infancy](parenting-babies.md).
+- The existence of microplastics in our body systems means it exists, but does *not* necessarily mean it harms us.
 
 However, chronic exposure to some toxins can be *very* devastating.
 

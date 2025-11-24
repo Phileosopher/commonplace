@@ -1,6 +1,4 @@
 
-Jeremiah 8-9
-Day 222
 Jeremiah 10-13
 Day 223
 Jeremiah 14-17

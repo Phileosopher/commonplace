@@ -1,4 +1,6 @@
 
-https://wng.org/articles/visions-of-the-apocalypse-1754438621
+ethics is lived eschatology
+- we essentially live out what we believe is going to happen
 
-https://notthebee.com/article/world-war-2-was-not-the-end-of-history-thoughts-from-a-christian-millennial-who-grew-up-in-dispy-land
+we will see a MAJOR merger of all religions at that time
+- there won't be anything but shared hatred against the Christians and Jews

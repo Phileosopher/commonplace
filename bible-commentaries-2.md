@@ -64,6 +64,7 @@ Keil & Delitzsch Old Testament Commentary
 2. Protestant (Lutheran)
 3. Exegetical
 4. OT
+   - [BibleHub](https://biblehub.com/commentaries/kad/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/kdo.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
    - [Worthy.Bible](https://worthy.bible/commentaries/keil-delitzsch-commentary)
@@ -143,6 +144,7 @@ Commentary Critical and Explanatory on the Whole Bible
      - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
      - [Worthy.Bible](https://worthy.bible/commentaries/commentary-critical-and-explanatory-on-the-whole-bible)
    - Unabridged:
+     - [BibleHub](https://biblehub.com/commentaries/jfb/)
      - [StudyLight](https://www.studylight.org/commentaries/eng/jfu.html)
      - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -152,6 +154,7 @@ Darby's Synopsis of the New Testament
 2. Dispensational, Protestant (Plymouth Brethren)
 3. Exegetical
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/darby/)
    - [Bible Portal](https://www.bibleportal.com/commentary/darby-s-synopsis-of-the-new-testament)
    - [StudyLight](https://www.studylight.org/commentaries/eng/dsn.html)
 
@@ -169,6 +172,7 @@ Lange's Commentary on the Holy Scriptures: Critical, Doctrinal and Homiletical
 2. Calvinist, Protestant (Presbyterian)
 3. Expository (Critical), Sermonic
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/lange/genesis/) ([Intros](https://biblehub.com/commentaries/lange/))
    - [Bible Portal](https://www.bibleportal.com/commentary/lange-s-commentary-on-the-holy-scriptures-critical-doctrinal-and-homiletical)
    - [StudyLight](https://www.studylight.org/commentaries/eng/lcc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
@@ -201,6 +205,7 @@ Vincent's Word Studies
 2. Calvinism, Protestant (Presbyterian)
 3. Exegetical
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/vws/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/vnt.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -210,6 +215,7 @@ Light & Truth: Bible Thoughts and Themes on Revelation
 2. Calvinist, Protestant (Scottish Free)
 3. Sermonic
 4. Revelation
+   - [BibleHub](https://biblehub.com/commentaries/bonar/revelation/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/bch/revelation.html)
 
 The Pulpit Commentaries
@@ -229,6 +235,7 @@ People's New Testament
 2. Arminian, Protestant (Restoration Movement)
 3. Exegetical
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/pnt/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/pnt.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -249,6 +256,7 @@ Treasury of David
 2. Calvinist, Protestant (Baptist)
 3. Sermonic
 4. Psalms
+   - [BibleHub](https://biblehub.com/commentaries/tod/psalms/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/tod/psalms.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -268,6 +276,7 @@ Schaff's Popular Commentary on the New Testament
 2. Calvinism, Protestant (Presbyterian)
 3. Expository
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/schaff/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/scn.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 

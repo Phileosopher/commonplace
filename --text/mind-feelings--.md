@@ -1,11 +1,6 @@
 
 When we let our feelings run our lives, though, we'll typically develop [habits](habits.md) that ignore the finer details that would empower us to think ina  more sophisticated way about our [memories](mind-memory.md). Over time, our memories will throw out those details and we'll stay etched into permanent [unforgiveness](hardship-ptsd-release.md), which will slowly yield bitterness.
 
-https://en.m.wikipedia.org/wiki/Guilt%E2%80%93shame%E2%80%93fear_spectrum_of_cultures
-- SHAME VS FEAR VS GUILT
-
-https://www.yearofmentalhealth.com/p/the-feelings-wheel-beyond-good-bad
-
 JORDAN PETERSON
 Become A Part Of A Social Context To Find Meaning
 You can walk through someone’s life and find out if they are reasonably embedded in a hierarchy of social institutions. If they are not — no intimate partner, no family, no children, no friends, no job, no career, no educational pathway, no engagement in civic responsibility, no church attendance, no spiritual life, no routine — then they are not depressed; they just have a horrible life, multidimensionally. It is no wonder they would think they are depressed; there is nothing in their life that is working. But that is not exactly a diagnosis at the level of the individual; it is a diagnosis of the relationship between the individual and the structure containing social institutions. 

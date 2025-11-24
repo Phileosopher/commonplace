@@ -1,29 +1,4 @@
 
-https://wng.org/podcasts/brad-littlejohn-the-soul-stakes-of-ai-1754412500
-
-https://techxplore.com/news/2025-08-ai-breakthrough-power-images.html
-
-https://buttondown.com/untools/archive/why-ai-is-making-us-worse-thinkers-and-how-to/
-
-https://www.thebrink.me/chatgpt-induced-psychosis-how-ai-companions-are-triggering-delusion-loneliness-and-a-mental-health-crisis-no-one-saw-coming/
-
-[Should we use AI and LLMs for Christian Apologetics? - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
-
-AI is essentially reproducing "average" behavior
-- it isn't going to create anything that hasn't been done many times before
-- it's a dumb computer still, so it's just following rules and does NOT have an intuition for anything
-- any assertions to the contrary are [trends] spurting up by self-interested individuals who want to sell something
-
-AI hasn't been new
-- 1966 saw machine translation
-- it was a total dud, with lots of hype that went nowhere
-- these trends create an "AI winter" where the trend and hype dies, so funding gets cut
-- the entire thing is driven by a misrepresentation of what constitutes a human soul (i.e., naturalism), and how it can be reproduced
-- we can reproduce intelligent behavior, but it's always dumb as it does it
-- Lisp was originally the program of the artificial intelligence language
-    - it failed, and we're left with emacs
-    - in the late 1980s, the AI revolution in Japan collapsed, and all venture capital that even MENTIONED ai was rejected outright as "wide-eyed dreaming"
-
 Black box vs explainable AI
 - black box AI is popular, and the designers CAN'T describe what happens because the [algorithm] has too many complexities to reliably tell them (so they have to approximately guess where-ish a bug might be).
 - explainable AI (XAI) is easy to [diagnose], by contrast, but also will quickly reveal any [agenda](bad systems) an individual or organization may have.
@@ -40,16 +15,6 @@ AI is a bit like [engineering] in general
     - that tool isn't "our thinking", but we still command it and there is a defined order that clarifies its logic
     - therefore, we should never suspect an AI will go out of control without a clear and obvious originating external cause
 
-[A guide to why advanced AI could destroy the world - Vox](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction)
-- reminiscent of CGP Grey's "Humans Need Not Apply"
-- the problem is that it's logic-based emotions (very granular) instead of emotions-based logic (i.e., things even toddlers can outperform adequately-enough)
-- the modularity of human behavior is its engineered advantage over a specialized computer implementation
-
-[Instrumental convergence - Wikipedia](https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer)
-- i.e., even AI are subject to aspects of perverse incentive
-
----
-
 The "how" of machine learning, as an abstraction, is pretty easy to understand:
 1. Give a computer many, many instances of a labeled thing (e.g., a cat photo).
 2. Eventually, the computer makes rules that it cross-references that define those instances (e.g., fuzzy-looking, ear shape).
@@ -64,8 +29,6 @@ The implications, then, are reasonable to understand:
 3. It can make documents or coding, but probably needs a human to review it.
 4. It'll make a hell of a security camera.
 5. It's still a dumb computer.
-
----
 
 AI is largely a branding, a bit like "cloud" or ".com" was
 - from a [marketing] standpoint, anything logic-based can be spun as "AI"
@@ -249,15 +212,6 @@ Bayesians make hypotheses about uncertain situations and updates its degree of b
 Analogisers: new phenomenon is likely to follow the same behaviour as the previously observed phenomenon which is most like it.
 Connectionists are trying to reverse engineer the brain by developing artificial neural networks.
 Connectionism has been re-branded as deep learning, and it has been the most successful form of machine learning so far.
-
-## Asserting Facts
-
-[Peter Zeihan || Is the AI Revolution Here? - YouTube](https://www.youtube.com/watch?v=8jEmIDwqnL4)
-- review for content on essay
-
-[Meta disbanded its Responsible AI team | Hacker News](https://news.ycombinator.com/item?id=38328355)
-[Meta disbanded its Responsible AI team - The Verge](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
-- comments have good opinions
 
 ## careers in light of ai
 

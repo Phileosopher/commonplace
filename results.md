@@ -48,7 +48,13 @@ There are two broad types of consequences:
 
 We can usually do [many things](people-image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
 
-Consequences are not always directly connected. Occasionally, they can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](people-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain.
+Consequences are not always directly connected. They can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](people-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain, and these consequences come in three levels:
+
+1. Industrial - There is immediate feedback on nearly all actions (i.e., most labor).
+2. Technological - The work itself is comparatively low-information to industrial, but the results are magnified and sometimes delayed (e.g., almost all [computer](computers.md) work).
+3. Agricultural - There is a significant time delay on all actions (e.g., most [management](mgmt-1_why.md)).
+   - We can only reap from [the unknown](unknown.md) with this type of work.
+   - However, it requires [trusting](trust.md) that things will work out.
 
 We like to see the consequences of our actions because we can [feel](mind-feelings.md) them. This need for [certainty](understanding-certainty.md) often dictates whether we [specialize](jobs-specialization.md) in people (relational) or things (reality) as [children](maturity.md).
 

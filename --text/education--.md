@@ -1,6 +1,4 @@
 
-https://www.templeton.org/news/profound-nonsense-exposing-the-recipe-for-fake-depth-and-profundity
-
 REDDIT COMMENT
 Academic here — to get a PDF of a paper you can usually email the author and ask for one, the times I’ve tried this they’ve been happy to share. After checking if it’s available on https://oa.mg of course.
 Don’t mess around with formatting your references manually — use something like https://citationsy.com to automate the whole process
@@ -26,8 +24,6 @@ Guy gets a warning from professor. Copies again but carefully rewords his answer
 I absolutely took some liberty in grading his final to ensure an F (he had a D) and have zero regrets. If he wasn’t such a tool I would’ve shrugged or tried to help him study prior to the exam. Kid wrote me a bunch of nasty emails after that
 My favorite student review ever was from the serial plagiarizer who complained that he should have gotten an A because the person he copied from got an A. :facepalm:
 I had one student say it was fine that he had copied an assignment because he had paid the kid he had copied it from.
-
-[Ask HN: Teach me something new | Hacker News](https://news.ycombinator.com/item?id=31204611)
 
 It is a difficult reality that it's very hard to discern the following as a student:
 1. a meaningful and well-intended exposition and explanation of a deep set of ideas

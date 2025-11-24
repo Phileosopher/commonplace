@@ -203,6 +203,8 @@ APPLICATION: When most people of any [group](groups-small.md) start growing tire
 
 If a trend has many people who [invested](people-decisions.md) tons of [power](power.md) into it, the trend will fade *very* quickly.
 
+If this trend becomes something later, it goes through a type of "winter" phase where it's highly unpopular.
+
 ## G. Quaint/relic
 
 A trend will eventually fade from [use](purpose.md), but not from everyone's memory. For decades, people will [talk](people-conversation.md) about that trend and compare it to others, often symbolizing [past life stages](maturity.md). After about 20 years, a generation of people will nostalgically remember it so much (and have the resources to re-live it) that the trend will resurge into the public consciousness again.

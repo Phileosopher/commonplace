@@ -292,6 +292,7 @@ Enduring Word Bible Commentary (text or audio)
 3. Expository
 4. OT+NT
    - [main page](https://enduringword.com/bible-commentary/)
+   - [BibleHub](https://biblehub.com/commentaries/guzik/)
 
 Light of Israel Bible Commentary
 
@@ -367,6 +368,7 @@ Kingcomments on the Whole Bible
 2. Protestant (non-denominational)
 3. Exegetical
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/king-en/)
    - [main page](https://www.kingcomments.com/en)
    - [Bible Tools](https://bibletools.io/commentaries/en/ger%20de%20koning/kingcomments%20on%20the%20whole%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/kng.html)

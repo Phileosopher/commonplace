@@ -1,4 +1,10 @@
 
+JORDAN PETERSON
+Commit For A Lifetime: How To Know You Are Ready For Marriage
+To know if you are ready to marry someone, you should know if you can negotiate with the person in such a way you have started to formulate a vision of a joint future that you can both look forward to with enthusiasm and confidence. That means considering if you have a sufficient number of joint interests and are oriented in the same direction with regard to careers, the possibility of children, and the manner in which you will interact with your in-laws, for example. 
+Experiencing the attraction that is associated with love is extraordinarily important. If you have it, you are unbelievably fortunate and should do everything you can to maintain it — and that takes effort. However, your relationship and future marriage cannot just be about attraction. You have to start considering your life together from the perspective of practicality and economics. You need to ally the attraction with maturity and intelligence in regard to how you are going to put your lives together on a level of detail. Ask and talk about: How are we going to handle our finances? Where are we going to live? What are our joint plans going to be? You should know the person well enough that you start discussing the real practical issues of life and determine if you are capable of negotiating those together. 
+Unless you make a lifelong commitment (i.e., one that you are not going to back out of), you are not going to take the relationship with the seriousness necessary to make it the highest possible quality and sustainability. The relationship you jointly operate adds immensely to the quality and depth of your life. You have the rope and strand of your life, and your partner has the rope and strand of theirs; those are tied together to make a stronger rope that unites you across time so you can undertake massive adventures together. It is challenging, but it is a process that produces an unbreakable bond between two beings. If the relationship is based on trust and genuine communication, that bond makes both individuals better in every way.
+
 My marriage had the same breakdown as my dad's and probably everyone's:
 1 life is a Shakespeare sonnet
 2 life gets rhythmic
@@ -190,24 +196,6 @@ Choose an activity and time for a date night
 Be proactive about doing something together that she enjoys. Make a date, get her excited and share her enthusiasm!
 Play together: Paintball, laser tag, sand volleyball. Have a picnic, go to the drive-in…
 
-[15 Real Ways to Honor Your Wife | Paul Chappell](https://paulchappell.com/2015/02/13/15-real-ways-to-honor-your-wife/)
-
-[How to Love Your Wife According to the Bible: 13 Steps](https://www.wikihow.com/Love-Your-Wife-According-to-the-Bible)
-
-[How to Love Your Wife: 100 Ways to Show Love](https://www.marriage.com/advice/romance/how-to-love-your-wife/)
-
-[How to Make Your Wife Feel Special (A Cheat Sheet for Husbands)](https://www.crosswalk.com/family/marriage/how-to-make-your-wife-feel-special-a-cheat-sheet-for-husbands.html)
-
-[Cherishing Her Daily: Practical Ways to Show Love to Your Wife -](https://jakijellz.com/relationships/cherishing-her-daily-practical-ways-to-show-love-to-your-wife/)
-
-[Three Ways to Cherish Your Wife (Ephesians 5:29)](https://www.scottlapierre.org/ways-to-cherish-your-wife/)
-
-[20 Ways to Make your Wife Feel Cherished - Cheat Sheet](https://mikeandsusandawson.com/20-ways-wife-feel-cherished/)
-
-[How a Husband Can Nourish and Cherish His Wife](https://www.familylife.com/articles/topics/marriage/staying-married/husbands/nourishing-and-cherishing-your-wife/)
-
-[5 Sex Tips To Satisfy Her Like Never Before](https://www.nicknotas.com/blog/sex-tips-for-men/)
-
 ## marriage agreements
 
 I do...make you a priority.
@@ -228,4 +216,51 @@ ask, "Do you want me to give you a solution, or do you want me to listen?"
 A happy marriage is the union of two good forgivers.
 - Ruth Bell Graham
 
-[3 Ways To Respond When Your Partner Triggers You—By A Psychologist](https://www.forbes.com/sites/traversmark/2024/09/08/3-ways-to-respond-when-your-partner-triggers-you-by-a-psychologist/)
+## Gottman Four Horsemen
+
+emotional bank account
+	keep investing into it in small, little ways
+
+it leads to issues:
+
+criticism
+  the cure is to complain about behavior, but without criticizing character
+  "When you do X, I feel..."
+contempt - air of superiority
+  create a culture of appreciation
+  when you see something nice, say it
+stonewalling
+  it's a type of "flight" response
+  take a break, at least 20 minutes to calm down
+  pursuer-distancer model of dysfunction can happen
+defensiveness
+  take responsibility for your part of the problem
+
+regular family meeting is necessary
+- include appreciation
+- give the opportunity to look back and talk about repair over the prior week
+- open up the discussion to work through any misunderstandings or hurt feelings over the past week
+- discuss possible things that would be good for everyone to work on
+The Six Hours A Week To A Better Relationship
+
+emerson eckridge - male/female
+
+how play shapes the brain - stuart brown
+
+hand model of the brain - on YT
+
+gottman - love map
+
+two-person journal for partners
+
+healthy kids happy kids - lisa song
+
+## meant for marriage
+
+You Were Not Meant For Marriage
+If sex doesn’t matter to you, marriage isn’t for you. In marriage, sex is not optional - it’s core. If you don’t want sex, seek support from friends and relatives, and consider adopting children.
+If you want to keep your money separate, stay single. Marriage is a shared vision, shared wallet, and shared sacrifice. You can’t pay bills like roommates and expect the full rewards of marriage. 
+If you love your parents and children more than your spouse, marriage will feel like a burden. Your partner must come first. If not, live with your parents and raise your children there.
+If you can’t listen, stay alone. Marriage is not ruled by one voice. It’s built by two humble hearts that listen to each other. Know-it-alls depress their partner. Humility holds love together.
+If you’re not correctable, stay single. If you can’t say “I’m sorry,” you can’t live with anyone. Marriage is not for the proud. Marriage is for people who own up their mistakes and apologize. 
+Dr. K. N. Jacob

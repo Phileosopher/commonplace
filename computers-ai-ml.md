@@ -18,7 +18,21 @@ The effective consequence of a machine learning algorithm is that it will have "
 - Pass everything made by William Shakespeare, and it will be able to generate content that sounds like his writing.
 - Run every Hollywood movie through it, and it'll be able to reproduce a decent-looking movie by itself.
 
+The constraints, in light of this, are obvious:
+
+- it isn't going to create anything that hasn't been done many times before.
+- it's still  a dumb computer still, so it's just following rules and does *not* develop any type of intuition.
+- any assertions to the contrary are either [trends] spurting up by self-interested individuals who want to sell something or [religiousness about what technology can do](https://gainedin.site/machines/).
+
 However, the constraint comes through its averaging. Computers are [logic machines](logic-cs.md), so they simply operate everything as a calculation. This means that a person has to curate the content if they want a higher quality than average.
+
+However, machine learning is excellent for *very* specific tasks which are highly similar across each iteration:
+
+- Detecting if a photo is of a specific animal (e.g., a cat), which also allows it to regenerate a decent-enough photo on command. It would need re-training for something else, though (e.g., a dog).
+- Whether a sentence is appropriate or vulgar, which allows it to generate its own sentences as well. It would need re-training for each different writing style, though.
+- Reviewing [business contracts](people-contracts.md) for compliance and [risk assessment](safety-riskmgmt.md), which can also mean building them as well. It would need re-training for each purpose, though.
+- Observing [trends](trends.md) across [data](database.md), which *theoretically* can allow the algorithm to make future predictions.
+- Observing an incredibly boring and repetitive thing, then detecting variances in it (e.g., factory quality control).
 
 ## Big data
 

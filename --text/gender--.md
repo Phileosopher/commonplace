@@ -55,8 +55,6 @@ MUCH OF OUR GENDER IDENTITY IS IN THE FORMATIVE UTILITY AS WE EXPLORE OUR INFANT
 - MEN ARE RUDIMENTARY, AND ONLY ALIGN TO [PURPOSE]
 - WOMEN HAVE A REPRODUCTION MECHANISM THAT CREATES A [SAFETY] MODEL, WHICH IS ESSENTIALLY WIRED AROUND 2 THINGS AT ONCE
 
-[Men, Need Not Apply... - by Sheldon Yakiwchuk - Yakk Stack](https://sheldonyakiwchuk.substack.com/p/men-need-not-apply)
-
 [That guy with 1 self aware post a week: "Women's lib was a mistake " - NAS](https://noauthority.social/@Monsignor_DickFace@poa.st/112198466621760531)
 - the genders are irreconcilably different on the biological level, which means they are NOT equally good for the same things
   - it may be true for statistical outliers, but there are still fully-encompassing probabilities that can't be ignored

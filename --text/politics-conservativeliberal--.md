@@ -1,6 +1,4 @@
+libertarianism and democracy are both impossible in their purest forms simply because ppl don't care enough
 
-[Why the Mental Health of Liberal Girls Sank First and Fastest](https://www.thefp.com/p/why-the-mental-health-of-liberal)
-
-[Nazis, Marxists, and the History of Ideas › American Greatness](https://amgreatness.com/2024/09/07/nazis-marxists-and-the-history-of-ideas/)
-
-[New right, old right, and free lunch | WORLD](https://wng.org/articles/recruiting-the-future-1725123171)
+- democracy won't work because some people will (delegate their vote to "experts"){specialization}, which will devolve into choosing (factions)
+- libertarianism won't work because people will eventually give their (power) away for the sake of (safety)

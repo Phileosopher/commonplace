@@ -186,8 +186,6 @@ No effort at creating group value can be successful without some form of governa
 a large group is "soft"-defined by its leadership's [decisions]
 - in a coalition of large groups, the aggregate averages out across all the leadership, with the leadership having its own dominance hierarchy according to power
 
-[Hate on Display™ Hate Symbols Database](https://www.adl.org/hate-symbols)
-
 ## gangs
 
 gangs are essentially [youth](maturity)-formed organizations that implement a type of order that is absent from the rest of society
@@ -237,4 +235,3 @@ The institution is an essence we can make, and that is why we need and {trust} i
 - however, we are not the institution even if we run it
 
 God designs institutions, even evil ones, to further His agenda
-

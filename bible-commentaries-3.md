@@ -26,6 +26,7 @@ The Biblical Illustrator
 2. Non-denominational
 3. Expository (Critical)
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/illustrator/)
    - [Bible Portal](https://www.bibleportal.com/commentary/the-biblical-illustrator)
    - [Bible Tools](https://bibletools.io/commentaries/en/joseph%20s.%20exell/the%20biblical%20illustrator)
    - [StudyLight](https://www.studylight.org/commentaries/eng/tbi.html)
@@ -46,6 +47,7 @@ Treasury of Scripture Knowledge
 2. Calvinist, non-denominational
 3. Holistic
 4. OT+NT
+   - [BibleHub](https://biblehub.com/tsk/)
    - [Bible Portal](https://www.bibleportal.com/commentary/treasury-of-scripture-knowledge)
    - [Bible Tools](https://bibletools.io/commentaries/en/r.%20a.%20torrey/treasury%20of%20scripture%20knowledge)
    - [main site](https://tsk-online.com/)
@@ -96,6 +98,7 @@ Kelly Commentary on Books of the Bible
 2. Dispensational, Protestant (Plymouth Brethren)
 3. Expository
 4. Genesis through 2 Kings, Hosea through Malachi, NT
+   - [BibleHub](https://biblehub.com/commentaries/kelly/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/wkc.html)
 
 Dummelow's Commentary on the Bible
@@ -115,6 +118,7 @@ Scofield's Reference Notes
 2. Dispensational, Protestant (Congregationalist), Gap creationism
 3. Expository
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/sco/)
    - [Bible Portal](https://www.bibleportal.com/commentary/scofield-s-reference-notes)
    - [StudyLight](https://www.studylight.org/commentaries/eng/srn.html)
 
@@ -126,6 +130,7 @@ MacLaren's Expositions of Holy Scripture
 2. Calvinist, Protestant (Baptist)
 3. Expository
 4. Genesis through Ecclesiastes, Isaiah through Micah, Habakkuk, Zechariah, Malachi, NT
+   - [BibleHub](https://biblehub.com/commentaries/maclaren/)
    - [Bible Portal](https://www.bibleportal.com/commentary/alexander-maclaren-s-expositions-of-holy-scripture)
    - [StudyLight](https://www.studylight.org/commentaries/eng/mac.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
@@ -144,6 +149,7 @@ International Critical Commentary
 2. Protestant (Presbyterian)
 3. Expository (Critical)
 4. OT+NT
+   - [BibleHub (NT only)](https://biblehub.com/commentaries/icc/matthew/1.htm) ([Intros](https://biblehub.com/commentaries/icc/matthew/))
    - [StudyLight](https://www.studylight.org/commentaries/eng/icc.html)
 
 Carroll's Interpretation of the English Bible
@@ -205,6 +211,7 @@ Hastings' Great Text of the Bible
 2. Calvinist, Protestant (Non-denominational)
 3. Expository
 4. Genesis through 1 Chronicles, Nehemiah through Hosea, Amos, Jonah, Micah, Habakkuk, Zechariah, Malachi, Matthew through Titus, Hebrews through 1 John, Jude, Revelation
+   - [BibleHub](https://biblehub.com/commentaries/hastings/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/gtb.html)
 
 Bullinger's Companion Bible Notes
@@ -233,6 +240,7 @@ The Expositor's Bible Commentary
 2. Calvinist, Protestant (non-denominational)
 3. Expository
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/expositors/)
    - [Bible Portal](https://www.bibleportal.com/commentary/expositor-s-bible-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/william%20robertson%20nicoll/the%20expositor's%20bible%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/teb.html)
@@ -244,6 +252,7 @@ Expositor's Dictionary of Texts
 2. Calvinist, Protestant (Scottish Free)
 3. Expository (Critical)
 4. Genesis through Micah, Habakkuk, Haggai through Malachi, NT
+   - [BibleHub](https://biblehub.com/commentaries/edt/genesis/1.htm)
    - [Bible Portal](https://www.bibleportal.com/commentary/expositor-s-dictionary-of-texts)
    - [StudyLight](https://www.studylight.org/commentaries/eng/edt.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
@@ -254,6 +263,7 @@ The Expositor's Greek Testament
 2. Calvinism, Protestant (Scottish Free)
 3. Exegetical
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/egt/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/egt.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -263,6 +273,7 @@ Sermon Bible Commentary
 2. Calvinist, Protestant (Scottish Free)
 3. Sermonic
 4. Genesis through Amos, Jonah through Malachi, NT
+   - [BibleHub](https://biblehub.com/commentaries/sermon/)
    - [Bible Portal](https://www.bibleportal.com/commentary/sermon-bible-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/william%20robertson%20nicoll/sermon%20bible%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/sbc.html)
@@ -313,6 +324,7 @@ F.B. Meyer's 'Through the Bible' Commentary
 2. Calvinist, Protestant (Baptist)
 3. Expository (Devotional)
 4. Genesis through Ecclesiastes, Isaiah through Malachi, NT
+   - [BibleHub](https://biblehub.com/commentaries/ttb/)
    - [Bible Portal](https://www.bibleportal.com/commentary/f-b-meyer-s-through-the-bible-commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/fbm.html)
 
@@ -347,6 +359,7 @@ Gray's Concise Bible Commentary
 2. Dispensational, Protestant (Reformed Episcopal)
 3. Expository
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/gray/genesis/1.htm) ([Intros](https://biblehub.com/commentaries/gray/))
    - [Bible Portal](https://www.bibleportal.com/commentary/james-gray-s-concise-bible-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/james%20martin%20gray/gray's%20concise%20bible%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/jgc.html)
@@ -357,6 +370,7 @@ Newell's Commentary on Romans, Hebrews and Revelation
 2. Dispensational, Protestant (Congregationalist)
 3. Expository
 4. Romans, Hebrews, Revelation
+   - [BibleHub](https://biblehub.com/commentaries/newell/romans/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/wnc.html)
 
 Wells of Living Water Commentary

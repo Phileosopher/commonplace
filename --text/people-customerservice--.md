@@ -1,12 +1,6 @@
 
 ## 1 frustrated customers
 
-[The Mom Test - How to talk to customers | Hacker News](https://news.ycombinator.com/item?id=28667439)
-[The Mom Test - How to talk to customers. A Summary](https://sandro.volpee.de/the-mom-test-summary-validate-ideas)
-
-[Giving a Shit as a Service (2022) | Hacker News](https://news.ycombinator.com/item?id=38056637)
-[Giving a Shit as a Service - Allen Pike](https://allenpike.com/2022/giving-a-shit)
-
 REDDIT COMMENTS
 Our physical presence / approach toward the user will sometimes fix the problem they are facing without any additional effort - IT Support
 I always tell users that I scared the computer into working by showing up.
@@ -36,9 +30,6 @@ sorry for the delay -> thank you for your patience
 apologies for the oversight -> you're free to do it instead
 
 ## 2 fixing things
-
-[Asking your customers what they want doesn't work | Hacker News](https://news.ycombinator.com/item?id=38814152)
-[Why asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
 
 Most of the "fixing" issue is NOT [actual fixing problems], but is instead "user error"
 - their ego is, however, too weak to accept that in that moment, so that's what most tech support is there to do
@@ -108,8 +99,6 @@ himself, it's "Oh of course, Mr. Whoozit. I'll put you right though."
 When the secretary comes back with the bad news that Mr. or Ms. Bigwig
 is unavailable, callers don't take it personally and never feel
 screened. They fall for it every time, just like I did.
-
-[Tell HN: I salute everyone on call/working support through the holidays | Hacker News](https://news.ycombinator.com/item?id=38725015)
 
 REDDIT COMMENTS
 Just because you’re on hold doesn’t mean we can’t hear you.

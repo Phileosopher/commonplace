@@ -1,9 +1,4 @@
 
-
-[Celebrate the Gift of Closed Doors - by Chris Guillebeau](https://www.yearofmentalhealth.com/p/celebrate-the-gift-of-closed-doors)
-
-https://wng.org/podcasts/kicker-the-science-of-saying-sorry-1758667342
-
 to avoid the worst of a projection while asserting a boundary
 - swap the pronoun of their accusation and use a high-context response
 - e.g., "you're not being very nice" 
@@ -26,5 +21,3 @@ one of the most critical skills in conflict management is knowing WHEN to diseng
 if you do it right, there is never a major problem with calling out BS
 - even if it's someone above you, asking gently and in good faith often elicits very little irritation directly at you
 - avoid, at all costs, ANY harshness when confronting someone
-
-https://buttondown.com/untools/archive/nonviolent-communication-conversations-without-conflict/

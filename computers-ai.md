@@ -25,17 +25,13 @@ The most popular way of testing any artificial intelligence is through the Turin
 
 The first type of AI was created in 1965, and was called an expert system. It operated on a set of if/then rules based on a body of knowledge. It works well-enough for things with a limited set of choices and purely logical decisions (e.g., playing chess, "paper or plastic", [some video games](computers-software-gamedev.md)).
 
-However, expert systems were absolutely *terrible* at making decisions with many complexities. It also didn't learn to detect patterns, and simply did what it was told. The first chatbot was created in 1966 named ELIZA to respond to patients' questions, but didn't work very well at all.
+However, expert systems were absolutely *terrible* at making decisions with many complexities. It also didn't learn to detect patterns, and simply did what it was told ("machine translation").
+
+The first chatbot was created in 1966 named ELIZA to respond to patients' questions, but didn't work very well at all.
+
+The effort to invest into AI was led throughout the 1970s and 1980s in Japan, but the excessive hype with nothing to show for it caused the collapse of the Japanese [economy](economics-macro.md) in the late 1980s.
 
 [Machine learning](computers-ai-ml.md) is the new AI. If a machine learning [algorithm](computers-programming-algorithms.md) is capable of detecting something, it is also capable of reproducing it.
-
-Machine learning, however, is only good for *very* specific tasks which are highly similar across each iteration:
-
-- Detecting if a photo is of a specific animal (e.g., a cat), which also allows it to regenerate a decent-enough photo on command. It would need re-training for something else, though (e.g., a dog).
-- Whether a sentence is appropriate or vulgar, which allows it to generate its own sentences as well. It would need re-training for each different writing style, though.
-- Reviewing [business contracts](people-contracts.md) for compliance and [risk assessment](safety-riskmgmt.md), which can also mean building them as well. It would need re-training for each purpose, though.
-- Observing [trends](trends.md) across [data](database.md), which *theoretically* can allow the algorithm to make future predictions.
-- Observing an incredibly boring and repetitive thing, then detecting variances in it (e.g., factory quality control).
 
 ## Limits
 

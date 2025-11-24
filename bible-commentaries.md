@@ -65,6 +65,7 @@ Geneva Study Bible
 2. Calvinist, Protestant (Lutheran)
 3. Expository (short)
 4. OT+NT
+   - [bibleHub](https://biblehub.com/commentaries/gsb/)
    - [Bible Portal](https://www.bibleportal.com/commentary/geneva-study-bible)
    - [Bible Tools](https://bibletools.io/commentaries/en/theodore%20beza/geneva%20study%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/gsb.html)
@@ -76,6 +77,7 @@ Calvin's Commentary on the Bible
 2. Calvinist, Protestant (non-denominational)
 3. Expository
 4. Genesis through Joshua, Psalms, Isaiah through Malachi, Matthew through 1 John, Jude
+   - [BibleHub](https://biblehub.com/commentaries/calvin/)
    - [Bible Portal](https://www.bibleportal.com/commentary/john-calvin)
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20calvin/calvin's%20commentary%20on%20the%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/cal.html)
@@ -127,6 +129,7 @@ Poole's English Annotations on the Holy Bible
 2. Protestant (nonconformist)
 3. Exegetical (short)
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/poole/) ([Intros](https://biblehub.com/commentaries/poole/))
    - [Bible Portal](https://www.bibleportal.com/commentary/matthew-poole-s-english-annotations-on-the-holy-bible)
    - [Bible Tools](https://bibletools.io/commentaries/en/matthew%20poole/poole's%20english%20annotations%20on%20the%20holy%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/mpc.html)
@@ -158,11 +161,13 @@ Henry's Commentary on the Bible
 3. Expository
 4. OT+NT
    - Concise:
+     - [BibleHub](https://biblehub.com/commentaries/mhc/)
      - [Bible Portal](https://www.bibleportal.com/commentary/matthew-henry-s-concise-commentary-on-the-bible)
      - [Bible Tools](https://bibletools.io/commentaries/en/matthew%20henry/henry's%20concise%20commentary%20on%20the%20bible)
      - [StudyLight](https://www.studylight.org/commentaries/eng/mhn.html)
      - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
    - Complete:
+     - [BibleHub](https://biblehub.com/commentaries/mhcw/)
      - [Bible Portal](https://www.bibleportal.com/commentary/mhc)
      - [Bible Tools](https://bibletools.io/commentaries/en/matthew%20henry/henry's%20complete%20commentary%20on%20the%20bible)
      - [StudyLight](https://www.studylight.org/commentaries/eng/mhm.html)
@@ -172,9 +177,10 @@ Henry's Commentary on the Bible
 Bengel's Gnomon of the New Testament
 
 1. Johann Albrecht Bengel - 1742
-2. Protestant (Lutheran)
+2. Protestant (Lutheran), [false prediction](imagination-failedprophecies-2.md)
 3. Exegetical
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/bengel/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/jab.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -184,6 +190,7 @@ The Church Pulpit Commentary
 2. Calvinist, Protestant (Church of Scotland)
 3. Sermonic
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/pulpit/)
    - [Bible Portal](https://www.bibleportal.com/commentary/james-nisbet-s-church-pulpit-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/james%20nisbet/the%20church%20pulpit%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/cpc.html)
@@ -192,9 +199,10 @@ The Church Pulpit Commentary
 Wesley's Explanatory Notes
 
 1. John Wesley - 1754-1765
-2. Arminian, Protestant (Wesleyan/Methodist)
+2. Arminian, Protestant (Wesleyan/Methodist), [false prediction](imagination-failedprophecies-2.md)
 3. Sermonic
 4. OT, Matthew through Titus, Hebrews through Revelation
+   - [BibleHub](https://biblehub.com/commentaries/wes/)
    - [Bible Portal](https://www.bibleportal.com/commentary/wesley-s-explanatory-notes)
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20wesley/wesley's%20explanatory%20notes)
    - [StudyLight](https://www.studylight.org/commentaries/eng/wen.html)
@@ -206,6 +214,7 @@ Gill's Exposition of the Whole Bible
 2. Calvinist, Protestant (Baptist)
 3. Expository
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/gill/)
    - [Bible Portal](https://www.bibleportal.com/commentary/john-gill)
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20gill/gill's%20exposition%20of%20the%20whole%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/geb.html)
@@ -249,6 +258,7 @@ Benson's Commentary of the Old and New Testaments
 2. Arminian, Protestant (Wesleyan/Methodist)
 3. Expository
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/benson/) ([Intros](https://biblehub.com/commentaries/benson/))
    - [Bible Portal](https://www.bibleportal.com/commentary/joseph-benson-s-commentary-of-the-old-and-new-testaments)
    - [Bible Tools](https://bibletools.io/commentaries/en/joseph%20benson/benson's%20commentary%20of%20the%20old%20and%20new%20testaments)
    - [StudyLight](https://www.studylight.org/commentaries/eng/rbc.html)
@@ -282,6 +292,7 @@ Clarke's Commentary
 2. Arminian, Protestant (Wesleyan/Methodist)
 3. Exegetical
 4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/clarke/)
    - [Bible Portal](https://www.bibleportal.com/commentary/adam-clarke)
    - [Bible Tools](https://bibletools.io/commentaries/en/adam%20clarke/clarke's%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/acc.html)
@@ -293,6 +304,7 @@ Meyer's Critical and Exegetical Commentary on the New Testament
 2. Calvinism, Protestant (Lutheran)
 3. Exegetical - Expository (Critical)
 4. NT
+   - [BibleHub](https://biblehub.com/commentaries/meyer/matthew/1.htm) ([Intros](https://biblehub.com/commentaries/meyer/))
    - [StudyLight](https://www.studylight.org/commentaries/eng/hmc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -313,6 +325,7 @@ Albert Barnes' Notes on the Whole Bible
 2. Calvinist, Protestant (Presbyterian)
 3. Exegetical
 4. OT (most)+NT
+   - [BibleHub](https://biblehub.com/commentaries/barnes/)
    - [Bible Portal](https://www.bibleportal.com/commentary/albert-barnes-notes-on-the-whole-bible)
    - [Bible Tools](https://bibletools.io/commentaries/en/albert%20barnes/barnes'%20notes%20on%20the%20whole%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/bnb.html)

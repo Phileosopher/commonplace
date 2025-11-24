@@ -3,8 +3,6 @@
 
 [Commentaries - Bible Support](http://www.biblesupport.com/e-sword-downloads/category/3-commentaries/)
 
-[The SWORD Project](https://crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries)
-
 ## SOLO
 
 [Audio & Video Commentaries by Chuck Missler](https://www.blueletterbible.org/audio_video/missler_chuck)
@@ -29,46 +27,21 @@
 
 [Library](https://www.restorationlibrary.org/texts/)
 
-## FROM BIBLEHUB.COM
+[Essential 40: Summaries, Commentaries, Bible Studies, Outlines](https://essential40.com)
 
-Whole Bible Commentaries
-2. Benson Commentary
-3. Biblical Illustrator
-*4. Cambridge Bible for Schools and Colleges
-5. Clarke's Commentary
-    SWORD
-6. Darby's Bible Synopsis
-    SWORD: Darby Translation Notes
-*Ellicott's Commentary for English Learners
-7. Expositor's Bible Commentary
-8. Expositor's Dictionary of Texts
-Gaebelein's Study Bible
-9. Geneva Study Bible
-    SWORD: Geneva Bible Translation Notes
-10. Gill's Bible Exposition
-11. Gray's Concise Bible Commentary
-12. Guzik Bible Commentary
-Haydock Catholic Bible Commentary
-13. Jamieson-Fausset-Brown
-    SWORD
-14. Kingcomments Bible Studies
-    SWORD
-15. Lange Commentary on the Holy Scriptures
-16. MacLaren Expositions Of Holy Scripture
-17. Matthew Henry Concise
-18. Matthew Henry Full
-19. Matthew Poole's Commentary
-People's Bible by Joseph Parker
-20. Pulpit Commentary
-21. Pulpit Homiletics
-22. Sermon Bible - Nicoll
-23. Scofield Reference Notes
-    SWORD
-24. Through the Bible Day by Day - Meyer
-25. Treasury of Scripture Knowledge
-    SWORD
-26. Wesley's Notes
-    SWORD
+
+
+
+
+
+
+## SWORD MODULES
+
+[The SWORD Project](https://crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries)
+
+SWORD:
+    Illustrated New Testament (Abbott)
+    Tischendorf's Spurious Passages of the GNT
 SWORD:
     Burkitt's Expository Notes
     Catena Aurea (Thomas Aquinas)
@@ -77,64 +50,65 @@ SWORD:
     Kretzmann Popular Commentary
     Robertson's Word Pictures
     Tyndale Open Study Notes
-    
-OT and NT Commentaries
-27. Keil and Delitsch OT Commentary
-    SWORD
-28. Bengel's Gnomon of the NT
-29. Expositor's Greek Testament
-30. ICC NT Commentary
-31. Meyer's NT Commentary
-32. People's New Testament
-    SWORD
-33. Vincent's Word Studies
-SWORD:
-    Illustrated New Testament (Abbott)
-    Tischendorf's Spurious Passages of the GNT
-
-Selected Books and Passages
-Henry Alford Greek Testament Critical Exegetical Commentary
-34. Hastings Great Texts of the Bible
-35. Kelly Major Works Commentary
-36. Teed Bible Commentary
-37. Bonar Commentary on Revelation
-38. Chrysostom Homilies
-    SWORD
-39. Spurgeon's Treasury of David - Psalms
-    SWORD
-40. Newell Commentary - Romans, Revelation
-41. Bliss - A Brief Commentary on the Apocalypse
-42. A Commentary on Acts of the Apostles – Mcgarvey
-43. Calvin's Commentaries
-    SWORD
-44. Commentary on Genesis, Vol. II – Luther
-45. Exposition of Genesis: Volume 1 – Leupold
-46. Exposition on the Book of Psalms – Augustine
-47. Jeremiah – Smith
-48. Old Groans and New Songs – Jennings
-49. Philippian Studies – Moule
-50. Song of Songs of Solomon – Guyon
-51. The Epistle of James, Practically Explained – Neander
-52. The Epistle of Paul to the Philippians, Practically Explained – Neander
-53. The First Epistle of John, Practically Explained – Neander
-54. The Gospel of Luke, An Exposition – Erdman
-55. The Gospel of St. Mark – Chadwick
-56. The New Testament Commentary Vol. III: John – Johnson
-57. Union and Communion - Song of Solomon – Taylor
 SWORD
     Luther's Commentary on Selected Bible Passages
     The Fourfold Gospel and Commentary on Acts of Apostles
 
+
+## FROM BIBLEHUB.COM
+
+https://biblehub.com/commentaries/
+
+   - [Cambridge Bible for Schools and Colleges](https://biblehub.com/commentaries/cambridge/)
+     - [Cambridge Commentary Intros](https://biblehub.com/commentaries/cambridge/)
+
+   - [Pulpit Homiletics](https://biblehub.com/commentaries/homiletics/)
+
+Selected Books and Passages
+
+   - [Teed Bible Commentary](https://biblehub.com/commentaries/teed/isaiah/)
+
+   - [Chrysostom Homilies](https://biblehub.com/commentaries/chrysostom/)
+
+   - [Bliss    - A Brief Commentary on the Apocalypse](https://biblehub.com/library/bliss/a_brief_commentary_on_the_apocalypse/index.html)
+
+   - [A Commentary on Acts of the Apostles -   - Mcgarvey](https://biblehub.com/library/mcgarvey/a_commentary_on_acts_of_the_apostles/index.html)
+
+
+
+
+   - [Commentary on Genesis, Vol. II -   - Luther](https://biblehub.com/library/luther/commentary_on_genesis_vol_ii/index.html)
+
+   - [Exposition of Genesis: Volume 1 -   - Leupold](https://biblehub.com/library/leupold/exposition_of_genesis_volume_1/index.html)
+
+   - [Exposition on the Book of Psalms -   - Augustine](https://biblehub.com/library/augustine/exposition_on_the_book_of_psalms/index.html)
+
+   - [Jeremiah -   - Smith](https://biblehub.com/library/smith/jeremiah/index.html)
+
+   - [Old Groans and New Songs -   - Jennings](https://biblehub.com/library/jennings/old_groans_and_new_songs/index.html)
+
+   - [Philippian Studies -   - Moule](https://biblehub.com/library/moule/philippian_studies/index.html)
+
+   - [Song of Songs of Solomon -   - Guyon](https://biblehub.com/library/guyon/song_of_songs_of_solomon/index.html)
+
+   - [The Epistle of James, Practically Explained -   - Neander](https://biblehub.com/library/neander/the_epistle_of_james_practically_explained/index.html)
+
+   - [The Epistle of Paul to the Philippians, Practically Explained -   - Neander](https://biblehub.com/library/neander/the_epistle_of_paul_to_the_philippians_practically_explained/index.html)
+
+   - [The First Epistle of John, Practically Explained -   - Neander](https://biblehub.com/library/neander/the_first_epistle_of_john/index.html)
+
+   - [The Gospel of Luke, An Exposition -   - Erdman](https://biblehub.com/library/erdman/the_gospel_of_luke_an_exposition/index.html)
+
+   - [The Gospel of St. Mark -   - Chadwick](https://biblehub.com/library/chadwick/the_gospel_of_st_mark/index.html)
+
+   - [The New Testament Commentary Vol. III: John -   - Johnson](https://biblehub.com/library/johnson/the_new_testament_commentary_vol_iii_john/index.html)
+
+   - [Union and Communion    - Song of Solomon -   - Taylor](https://biblehub.com/library/taylor/union_and_communion/index.html)
+
 Book by Book Summaries and Intros
-58. Ultimate Bible Summary Collection - Jay Smith
-59. The Bible Book by Book - Tidell
-60. Benson Commentary Intros
-61. Cambridge Commentary Intros
-62. Gray Commentary Intros
-63. ICC NT Commentary Intros
-64. Lange Commentary Intros
-65. Lightfoot NT Commentary from the Talmud and Hebraica
-    SWORD (may be complete or NT)
-66. Meyer's Commentary Intros
-67. Poole Commentary Intros
-68. Schaff's Popular Commentary on the NT
+
+[Ultimate Bible Summary Collection    - Jay Smith](https://biblehub.com/summary/genesis/1.htm)
+
+[The Bible Book by Book    - Tidell](https://biblehub.com/genesis/)
+
+[Lightfoot NT Commentary from the Talmud and Hebraica](https://biblehub.com/commentaries/lightfoot/)

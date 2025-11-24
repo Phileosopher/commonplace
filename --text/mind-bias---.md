@@ -1,4 +1,5 @@
 
-[Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism)
-Neo-Luddism or new Luddism is a philosophy opposing many forms of modern technology.
-- "luddite fallacy" goes into fallacies page
+3 major fallacies:
+1. fallacies of relevance - information that seems to prove something, but is actually not relevant
+2. fallacies of evidence
+3. fallacies of assumption

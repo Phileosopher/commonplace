@@ -2,7 +2,7 @@
 ## antivirus
 
 [Do you need antivirus for your phone? @ AskWoody](https://www.askwoody.com/2024/do-you-need-antivirus-for-your-phone/)
-
+- consider if that's the case
 
 
 There is a such thing as TOO secure:

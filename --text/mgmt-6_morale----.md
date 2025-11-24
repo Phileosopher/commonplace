@@ -46,12 +46,6 @@ When you're newly promoted to manager, MAKE SURE TO ABDICATE SOME OF YOUR RESPON
 
 ## dysfunction
 
-[Simple Sabotage Field Manual - How to Destroy Your Organizations | Hacker News](https://news.ycombinator.com/item?id=36831946)
-[Simple Sabotage Field Manual - How to Destroy Your Organizations](https://historyinvestor.com/p/simple-sabotage-field-manual-destroy-organizations)
-- examine the reverse viewpoint: how to detect saboteurs
-[Excerpt from CIA's Simple Sabotage Field Manual (1944) | Hacker News](https://news.ycombinator.com/item?id=29597454)
-[OSS Simple Sabotage Manual, Sections 11, 12](http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html)
-
 Having just one bad apple in a small group can drag down performance by
 up to 40 percent.
 

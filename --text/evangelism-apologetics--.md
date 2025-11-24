@@ -25,40 +25,6 @@ For many of the above, most of the fallibility of these eyewitness accounts do p
 
 It’s also much more impressive that this ancient set of documents was so reliably and accurately reproduced across the entire known world. With the exception of the Greek majority and minority text differences (which are all relatively minor differences), these accounts are more reliable than what actually happened a few short centuries later to unseat the entirety of the Roman Empire.
 
-[Alleged Bible Contradictions](http://www.bible-apologetics.com/bible-contradictions.htm)
-
-[List of Apparent Bible Contradictions | Thy Word is True](https://www.thywordistrue.com/contradictions#solved)
-
-[Answering Bible Difficulties](https://defendinginerrancy.com/bible-difficulties)
-
-### Evangelists
-
-[Cliffe Knechtle](https://newcanaansociety.org/new-canaan/team-member/cliffe-knechtle)
-
-[Home - David J Lynn](https://davidjlynn.com)
-
-[Ray Comfort - Living Waters](https://livingwaters.com/team/ray-comfort)
-
-[Off The Kirb Ministries](https://www.offthekirb.co.uk)
-
-ATHEIST APOLOGETICS:
-[Patheos | Hosting The Conversation On Faith](https://www.patheos.com/)
-
-SKEPTICS LIST
-[SAB Contradictions](https://skepticsannotatedbible.com/first/contra2_list.html)
-
-[About Greg Koukl](https://www.str.org/greg-koukl)
-
-[Family Research Council](https://www.frc.org/advanced-search)
-
-[4Witness.org – Witnesses for Jesus, Inc. – For Christian Witness to Jehovah's Witnesses and Mormons](https://www.4witness.org/)
-
-[SAB Romans 1](https://www.skepticsannotatedbible.com/rom/1.html#S1)
-
-Creationism:
-https://www.facebook.com/groups/322864737904915/
-
- 
 Pantheists often say everything we know is only an illusion.
 
 - Since every copy needs an original, what is that illusion of?
@@ -198,25 +164,6 @@ Educated non-believers may point out any of [these supposed Bible contradictions
     1. A this/that explanation for something that is both/and (though it may require some thought to find it).
     2. Cultural norms of the time which are foreign to the reader.
     3. Differing eyewitness accounts, which prove the apostles didn't collude.
-
-
-[Alleged Bible Contradictions](http://www.bible-apologetics.com/bible-contradictions.htm)
-
-[List of Apparent Bible Contradictions | Thy Word is True](https://www.thywordistrue.com/contradictions#solved)
-
-[Answering Bible Difficulties](https://defendinginerrancy.com/bible-difficulties)
-
-### Evangelists
-
-[Cliffe Knechtle](https://newcanaansociety.org/new-canaan/team-member/cliffe-knechtle)
-
-[Home - David J Lynn](https://davidjlynn.com)
-
-[Ray Comfort - Living Waters](https://livingwaters.com/team/ray-comfort)
-
-[Off The Kirb Ministries](https://www.offthekirb.co.uk)
-
-
 
 While good apologetics is contextual to the situation, some tried-and-true logical refutations are difficult to sidestep that validate Christianity over any other belief system.
 

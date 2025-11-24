@@ -3,6 +3,8 @@
 
 We can only find satisfaction in life when we connect with others.
 
+- The [medical establishment](body-health.md) has failed to find any link between depression and chemical imbalances in the brain.
+
 Turn off social media:
 
 - Everyone paints their social media as the "greatest hits" of their lives.

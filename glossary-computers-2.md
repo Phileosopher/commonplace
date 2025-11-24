@@ -375,6 +375,8 @@ Electrostatic interference - interference of electrical signals from other elect
 
 Element - a piece of something designed, often refers to visually designed things, can also refer to a mathematical value
 
+Embedded systems - small computers designed to be affordable and small
+
 Empty state - a database entry that has no information in it
 
 Emulator - software designed to reproduce the conditions of a different hardware to make *other* software run correctly (e.g., make Linux run on Windows)

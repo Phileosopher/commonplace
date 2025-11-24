@@ -1,8 +1,4 @@
 
-[MacOS Backup Strategy - b3n.org](https://b3n.org/macos-backup-strategy/)
-
-https://www.tactical.com/how-to-be-a-gray-man/
-
 NOTE: THIS IS TL;DR CYBERSECURITY
 - the Security page will be more complete
 - focus on basic aspects of what non-tech people want to know

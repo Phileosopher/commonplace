@@ -1,8 +1,4 @@
 
-[Tools for Growing Healthy Churches](https://givethemlife.com/)
-
-https://standinthegapmedia.org/
-
 once established in a non-persecuted country, the church is composed of multiple units with secular analogues:
 
 a concert and public speaking venue

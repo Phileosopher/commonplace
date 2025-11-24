@@ -53,6 +53,8 @@ Signs the company doesn't care about their employees:
 - The interviewer complains about any of the current staff:
   - It's a trickle-down abuse culture.
   - It can also be the case when they talk badly at length about the previous people in the role.
+- The interviewer says they "work hard and play hard":
+  - They tend to cause worker burnout and won't consider your personal needs.
 - Managers make jokes at the expense of the team:
   - It's a passive-aggressive trickle-down abuse culture.
 - The employees either look away from the manager or act like they don't want to be there:

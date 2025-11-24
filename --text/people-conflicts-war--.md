@@ -3,18 +3,6 @@ it's worth indicating that EVERY conflict has war associated, since people [imag
 - of course, most people don't want to admit it, since their [shame] or [fear] of what others would think (as a power tactic) prevents them from openly disclosing the value
 - this doesn't have any [class] distinction, either: the [evil] would represent in the weak if they became strong
 
-[Bad-jacketing - Wikipedia](https://en.m.wikipedia.org/wiki/Bad-jacketing)
-
-[Something Every Cop Should Hear – Dude Named Ben](https://namedben.com/something-every-cop-should-hear/)
-
-[Charles Petzold](http://www.charlespetzold.com/blog/2015/07/De-Obfuscating-the-Statistics-of-Mass-Shootings.html)
-(2015) De-Obfuscating the Statistics of Mass Shootings
-
-[United States discloses nuclear warhead numbers; restores nuclear transparency | Hacker News](https://news.ycombinator.com/item?id=41040417)
-[United States Discloses Nuclear Warhead Numbers; Restores Nuclear Transparency - Federation of American Scientists](https://fas.org/publication/united-states-discloses-nuclear-warhead-numbers-restores-nuclear-transparency/)
-- public intelligence
-
-
 wars are always unpleasant, and nobody likes to accept this, but they determine who can exert the power and the winners (and, equally importantly, the [story] about how they won and what they did) determine the [values] and [rules] that dictate a region of the world
 
 ironically, when a war is between A and B, C is waiting to take advantage of the situation, and will often do it when A or B fails against the other
@@ -37,7 +25,7 @@ wars are won or lost either by a few possible things:
 3. the [supply chains](logistics) are cut off, on any side, in such a way that one side sees they can't win
 
 WAR NARRATIVE
-the best war to keep on fighting is one that has an element of implied [virtue], but doesn't have any clear goals
+the most effective war to keep on fighting is one that has an element of implied [virtue], but doesn't have any clear goals
 - e.g., "war on terror", "war on drugs"
 - that way, you can always justify that you need to keep fighting it
 - if things get better, you can say it's working

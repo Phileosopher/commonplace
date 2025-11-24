@@ -1,8 +1,6 @@
 
 # Macroeconomics explained
 
-## Macroeconomics
-
 Macroeconomics is difficult to track. Political events can break and redefine economies, and each country or corporation tends to operate as a separate group among others, with larger ones defining new elements that redefine the economic ecosystem. [Game theoretical models](math-gametheory.md) often capture these distinctions, but only in a broad sense, and with many degrees of uncertainty because countries often *know* other countries are using game theoretical models on them (thus fulfilling [Goodhart's Law](lawsaxioms.md)).
 
 Broadly, macroeconomic activity of any entity is measured as "gross domestic product" (GDP), which adds together several major categories:
@@ -30,7 +28,7 @@ Authorities can directly control supply, but can't *fully* [influence](influence
 
 One popular form of [social engineering](rules-methods.md) in the world of economics is to employ large-scale [design patterns](engineering-design.md) to steer people toward decisions that they "ought" to do ("libertarian paternalism") to influence behavior and send wealth from whoever a government deems unworthy to whoever is deemed worthy.
 
-### Taxes
+## Taxes
 
 Generally, people will try to avoid a government's taxes, and often hire exceptional [accountants](money-accounting.md) for the job:
 
@@ -75,7 +73,7 @@ Even when they don't outright ban things, governments often set price limits on 
 
 APPLICATION: By hiking the price on something, consumers won't change up to where they start [changing](people-changes.md) their [motivation](purpose.md) about buying that thing. In fact, extra income for a business often gives more opportunities to make risky and potentially value-adding [risks](socialrisk.md) elsewhere, so increased prices are a net benefit to society if that group hasn't become [dysfunctional](mgmt-badsystems.md).
 
-### Spending
+## Spending
 
 While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](trends.md)-resistant, and often poorly made.
 
@@ -87,7 +85,7 @@ Often, governments can provide "stimulus spending" to provoke more people to spe
 
 A government can tweak its monetary policy to offset the timing of the taxation from their stimulus spending, but governments only redistribute things and don't really make them.
 
-### Monetary policy
+## Monetary policy
 
 Whatever form of money a government takes, it must be 5 things:
 
@@ -118,7 +116,7 @@ The only problem, however, is that [debt](money-2_debt.md) has inherent risks be
 
 When looking at the [accounting](money-accounting.md) of a country, make sure the balance sheet and income statement numbers aren't crossed for projections. The total debt is a balance sheet item (as well as a nation's wealth), while GDP is an income statement item (as well as debt payments).
 
-### Regulatory policy
+## Regulatory policy
 
 Individual motivations magnified to a massive body can blow vast sums of money on niche needs ("concentrated benefits" and "dispersed costs").
 
@@ -145,7 +143,7 @@ Frequently, governments will set price controls on various domains, which can cr
 
 APPLICATION: A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries-why.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](classes.md) will always want to vote for whatever gets them more free stuff.
 
-### Trade
+## Trade
 
 The domains of trade come from the fact that each nation has the means to [specialize](jobs-specialization.md) in certain goods and services. If everyone had the unrestrained freedom to trade with each other, everyone would collectively benefit.
 
@@ -158,6 +156,27 @@ Over time, as long as people continue to trade, savvy [traders](money-investing.
 A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 
 These discrepancies can make it difficult to measure. To that end, economists try to use a universal standard. For a while, they used the Big Mac Index, which measured the cost for for a Big Mac at a McDonald's restaurant (since the sandwich was all across the world). This worked because most of the ingredients had to be locally sourced.
+
+## Market cycles
+
+Every market goes through an ebb and flow, and can be described under the domain of "market corrections".
+
+However, while a market can't be permanently augmented, it *can* be engineered for the timing of the collapse to change.
+
+- Lowering taxes causes more spending, which prolongs a market collapse.
+- Raising taxes causes a market collapse earlier.
+- Raising a government debt can speed up a market collapse.
+- Extra laws going into effect cause a market to slow down.
+- Removing laws cause markets to improve.
+
+Most of this is common sense. The timing is also predictable if you know who has the government power.
+
+- A market collapse can [redirect attention](people-image-distortion.md) off a scandal.
+- The quality of the economy can directly affect [an election](politics-systems.md), steering toward the incumbent if it's good and away if it's bad.
+
+Endless distortions and doping to an economy start doing strange things to it.
+
+- "Normal" market dynamics start breaking down when the public pays attention and develops any sort of opinion over it (e.g., people start saving more, people are less likely to [change jobs](jobs-1_why.md)).
 
 ## Additional reading
 
