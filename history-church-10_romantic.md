@@ -26,3 +26,10 @@ The Church of Scotland experienced the Disruption of 1843, which was a conflict 
 The Millerites [predicted](imagination-failedprophecies.md) Jesus was coming back on October 22, 1844, after a few other recent false predictions. That didn't really work out for them, and created the Great Disappointment, but the **Seventh-Day Adventists** were strengthened to believe in the "shut-door" concept (that Jesus *had* come, and had "shut the door" to the foolish believers like the Parable of the Virgins in [Matthew 25:1-13](https://biblehub.com/bsb/matthew/25.htm)).
 
 The South African Revival of 1860 brought plenty of Christian culture to Africa, with Andrew Murray being a significant influence on it, as well as David Livingstone traveling *all over* the continent.
+
+The Welsh Revival of 1904-1905 was the largest Christian revival in Wales, and was Pentecostal in nature. It has been traced to the first formation of the modern megachurch. They insisted on 4 axioms:
+
+1. Confess all known sin.
+2. Put away all doubtful things and forgive everyone.
+3. Obey the promptings of the Holy Spirit.
+4. Publicly confess Christ as your savior.

@@ -19,7 +19,7 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 ## Post-classical history
 
 - 476 AD - 1450: Middle Ages (political)
-  - 476 AD - ~1000: Late Antiquity / Early Middle Ages
+  - 476 AD - ~1000: Late Antiquity / Early Middle Ages ([Europe, c. 500](history-500-europe.jpg))
   - ~1000 - ~1250: High Middle Ages
   - ~1250 - ~1450: Late Middle Ages
 - 1336 - 1700: Age of Discovery/Exploration (economic)

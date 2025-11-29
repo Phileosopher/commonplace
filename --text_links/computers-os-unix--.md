@@ -1,4 +1,8 @@
 
+[How to Install Arch Linux [Step by Step Guide]](https://itsfoss.com/install-arch-linux/)
+
+[7 Essential Things To Do After Installing Arch Linux](https://itsfoss.com/things-to-do-after-installing-arch-linux/)
+
 [F-Droid - alternative to Google Play store | Hacker News](https://news.ycombinator.com/item?id=30506413)
 [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
 - Check the comments for tools

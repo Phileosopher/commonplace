@@ -439,6 +439,22 @@ Beyond the board, clarify your management advisory board:
 
 Indicate any other outside consultants, including mentors or key advisors to the company.
 
+Think ahead and behave appropriately to be [legally safe](legal-safety.md) in filing a "limited liability company" (LLC).
+
+- Filing the paperwork is only the first step, and you must do more than that to keep yourself safe.
+- You must act like the business is actually separate, or the LLC is worthless.
+  - Every transaction you make will either prove the separation or destroy it.
+  - Courts look carefully for any evidence where you've ignored that separation.
+  - 75% of small business owners will mix their personal and business finances.
+- An LLC will need other documentation:
+  - An operating agreement (even when you're working alone)
+  - Meeting minutes that demonstrate actual business
+  - [Organized](organization.md) and recorded documentation of everything.
+- Only sign documents as an association:
+  - "John Smith" destroys the separation.
+  - "John Smith, manager of XYZ LLC" maintains separation.
+- Treat the business as an actual separate entity, not just "you" doing things (even if it is only you doing them).
+
 ## 7. Draft Financial Statements
 
 Give draft statements to estimate the organization's future status.

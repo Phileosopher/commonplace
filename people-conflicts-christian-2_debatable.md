@@ -57,6 +57,16 @@ Cessationism vs. Continuationism - The modern-day usage/validity of spiritual gi
   - It's entirely possible that *some* spiritual gifts have ceased, while others are *very* active.
 - The entire debate is relatively dumb, and people who speak in tongues should desire more [useful](purpose.md) gifts ([1 Corinthians 14:19](https://biblehub.com/1_corinthians/14-19.htm)).
 
+Holy Tradition vs. Holy Scripture:
+
+- Protestants generally believe that [the Bible](bible.md) is [the sole or dominant authority](theology-solae.md) for everything.
+- Catholics, on the other hand, believe the traditions of the Catholic church have as much validity as Scripture.
+- At its most extreme, the Protestants will fall into error:
+  - Removing *all* traditional elements of church service (e.g., pews, worship music, preaching, etc.)
+  - It creates trouble with hermeneutics without a basis of tradition
+- On the other extreme, though, the Catholic church will also be utterly wrong at the extreme:
+  - Emphasizing what they've been doing for centuries when it goes directly against the Bible
+
 How long God's "days" were to create the universe in [Genesis 1](https://biblehub.com/bsb/genesis/1.htm):
 
 - New/Young Earth Creationism - The six days are literal 24-hour days.
@@ -105,10 +115,30 @@ Specific Bible translations having more authority:
 
 Papal Primacy - The Pope is the head of the Church and acting on behalf of Christ.
 
-- Catholics tend to state that the Pope's authority travels a succession all the way back to Peter, with Jesus commanding him to feed His sheep ([John 21:15-25](https://biblehub.com/bsb/john/21.htm)).
+- Roman Catholics (and some Eastern Orthodox) state that the Pope's authority travels a succession all the way back to Peter, with Jesus commanding him to feed His sheep ([John 21:15-25](https://biblehub.com/bsb/john/21.htm)).
   - There are very few, if any, Bible verses that point to Peter's authority relative to the other Apostles.
   - The Protestant interpretation applies the admonition to Peter to apply to *anyone* in a position of [church leadership](spiritual-discipleship.md).
 - As long as the Pope says what's consistent with Scripture it really doesn't matter, but [that hasn't always been the case](history-church.md).
+
+Early Church Rituals - Christians should practice more early church rituals to have a better church
+
+- This is founded on the basis that the Church was more aligned with the original disciples' teaching than what has come later.
+  - Many of these practices are still in effect today in some places:
+    - Devotion to the apostles' teaching
+    - [Enduring persecution](hardship-persecution-church.md) with joy
+    - Prioritizing spiritual unity over social status
+  - Others can be agreed on to be a good thing to do:
+    - Exceedingly private services for believers to spend time together without nonbelievers present
+    - Expecting (and seeing) God [work miracles](god-capabilities.md)
+    - Meeting regularly in homes
+    - Radical generosity
+    - Living with an urgency over [Jesus returning](jesus-returns.md)
+    - Women wearing head coverings
+- The counter-argument, however, is that those rituals are also representing ancient Roman culture.
+  - Some practices have debatable elements among Christianity regarding their full implementation:
+    - Publicly exiling members who regularly sin
+  - Some practices are probably best to not consider:
+    - Using baptism as an exorcism rite
 
 Contemplative Prayer - Practicing a multi-stage [prayer](spiritual-exercises-prayer.md) session:
 
@@ -123,6 +153,7 @@ Contemplative Prayer - Practicing a multi-stage [prayer](spiritual-exercises-pra
 Some Christians (mostly Catholics) believe we can pray to saints who came before us for their support:
 
 - The most common idea is that they can pray for us and our needs ([Ephesians 6:18](https://biblehub.com/ephesians/6-18.htm)).
+  - This "veneration" is [prayer](spiritual-exercises-prayer.md), but not directly toward God.
   - Most Protestants denounce this idea without any further discussion.
 - One variation is to adapt Jesus' mother Mary as a holy figure who can make special requests to Jesus ([John 2:1-5](https://biblehub.com/bsb/john/2.htm)).
 - There *is* evidence the saints definitely may pray for us ([Hebrews 12:1](https://biblehub.com/hebrews/12-1.htm), [22-23](https://biblehub.com/bsb/hebrews/12.htm), [Revelation 5:8](https://biblehub.com/revelation/5-8.htm)).

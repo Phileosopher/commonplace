@@ -23,13 +23,24 @@ Interestingly, their privacy actually created confusion for the Romans:
 - On the 3rd, 9th, and 30/40th day after a believer passed, Christians would gather at the departed's tomb, read Scripture, pray together, give money to the poor, and eat a meal together.
 - Altogether, some Romans had misunderstood (to the point of justifying [persecution](hardship-persecution-church.md)) that the Christians were cannibals (Eucharist+graves), ate boys baked into bread (baptism+Eucharist), and performed lewd acts with each other (holy kiss+Thanksgiving Service).
 
-It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an evolution of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/bsb/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
+It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/bsb/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
 
 The logical outflow of the "new priesthood" thought was that [Jesus returning](jesus-returns.md), and [His eventual reign](https://theologos.site/millennium/), was a coming reality more than merely something to hope for. Death wasn't as much "permanent departure" as much as "will return soon", and they didn't believe in a Rapture.
 
 Once the new believers started noticing that Jesus was *not* coming back right away, some disciples recorded what they had experienced, mostly in their native language of Greek, but some in Aramaic. These passed around through the persecuted Church, and eventually became the Gospels of Matthew, Mark, Luke, and John. This included plenty of other letters, with some of them becoming canonized later as well.
 
-While it's lost to history, there was a Greek version of the Bible called the Septuagint, first completed in 132 AD. Its entire purpose was to create a Bible in the plain language of the time.
+There were notable figures who carried on the work established largely through the original disciples.
+
+- Clement of Rome was a direct disciple of Paul and Peter.
+- Ignatius of Antioch was a direct disciple of Peter and John.
+- Polycarp was a direct disciple of John, and was also acquainted with Ignatius.
+- Irenaeus was discipled by Polycarp.
+- Hippolytus was a disciple of Irenaeus.
+- Justin Martyr was acquainted with Irenaeus.
+- Tatian was a disciple of Justin Martyr.
+- Clement of Alexandria was a disciple of Tatian.
+
+Alongside the Hebrew canon, there was a Greek version of the Bible called the Septuagint (which also made the Old Testament Greek), first completed in 132 AD. Its entire purpose was to create a Bible in the plain language of the time.
 
 By the year 200 AD, the Christians had added quite a few things, though their religion was still certainly at least partly [illegal](people-rules.md):
 

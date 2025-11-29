@@ -1,4 +1,8 @@
 
+[Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
+
+[Willow Creek at 50: The Extensive Impact & Profound Damage](https://julieroys.com/podcast/willow-creek-at-50-the-extensive-impact-profound-damage/)
+
 [Tools for Growing Healthy Churches](https://givethemlife.com/)
 
 https://standinthegapmedia.org/

@@ -178,7 +178,7 @@ Once a culture has been exposed to *lots* of evangelism, that society becomes po
   - Condemning the group may be misplaced, since that person may have experienced a misplaced memory or had an isolated experience.
   - Their [feelings](mind-feelings.md) are legitimate, irrespective of [reality](reality.md).
 
-### Response Types
+### Response types
 
 There are a few possible, predictable ways a non-Christian will respond to a Gospel presentation.
 
@@ -224,6 +224,18 @@ Some non-believers defend their views through elaborate thinking that they're ty
   - Nobody, whatsoever, is [trustworthy](trust.md).
 - Many of them are *very* skilled at making Christians lose their patience and dragging out an argument.
 - Other people are legitimately seeking Jesus, and your joy is more important (and likely) than winning an argument with them.
+
+### Conversions
+
+A Christian's conversion is *not* simply a goal, and is the beginning of a long journey.
+
+- Jesus' Great Commission was first to preach the Gospel ([Mark 16:15](https://biblehub.com/mark/16-15.htm)), but also to make disciples ([Matthew 28:19-20](https://biblehub.com/matthew/28.htm)).
+
+The Sinner's Prayer comes in a variety of forms (including [Psalm 51](https://biblehub.com/psalms/51.htm)effectively covers the first part of [receiving the Gospel](https://theologos.site/gospel/):
+
+- "Lord, I admit I am a sinner. I need and want Your forgiveness. I accept Your death as the penalty for my sin, and recognize that Your mercy and grace is a gift You offer to me because of Your great love, not based on anything I have done. Cleanse me and make me Your child. By faith I receive You into my heart as the Son of God and as Savior and Lord of my life. From now on, help me live for You, with You in control. In Your precious name, Amen.
+
+However, that conversion requires a *lot* more work, in the form of [discipleship](spiritual-discipleship.md).
 
 ## Evangelism and politics
 

@@ -1,4 +1,6 @@
 
+[Semaphore (programming) - Wikipedia](https://en.wikipedia.org/wiki/Semaphore_(programming))
+
 freeCodeCamp dev quiz - Algorithms
 - The worst case time complexity would be O(n) in a binary search tree because we might need to visit all of the nodes.
     [Binary Search Tree Data Structure Explained with Examples](https://www.freecodecamp.org/news/binary-search-tree-what-is-it/)

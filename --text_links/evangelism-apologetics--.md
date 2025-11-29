@@ -1,4 +1,6 @@
 
+[History Book: Too good to be true | WORLD](https://wng.org/podcasts/history-book-too-good-to-be-true-1763312156)
+
 [Alleged Bible Contradictions](http://www.bible-apologetics.com/bible-contradictions.htm)
 
 [List of Apparent Bible Contradictions | Thy Word is True](https://www.thywordistrue.com/contradictions#solved)

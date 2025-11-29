@@ -1,4 +1,6 @@
 
+[16 Characteristics Of Highly Toxic Parents](https://www.scarymommy.com/16-characteristics-toxic-parents)
+
 https://www.tovima.com/wsj/goodbye-gentle-parenting-hello-f-around-and-find-out/
 
 https://wng.org/podcasts/culture-friday-what-kids-really-need-1754587076

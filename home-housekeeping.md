@@ -103,6 +103,46 @@ If you must clean for company, only clean visually apparent things:
 
 Cyclodextrin, the active chemical behind Febreze, is the only chemical available that actually *removes* odors from the air and surfaces. All others simply cover them up.
 
+## Emergency cleaning
+
+Even when you're *very* [organized](organization.md), you may have company when the house is a mess. This is especially true when you have [children](parenting-children.md)
+
+First of all, don't panic, since [fear](mind-bias-fear.md) makes us procrastinate and overthink things.
+
+The aim isn't for perfection, but instead about getting rid of the worst things and working into smaller domains from there.
+
+- The purpose should be to clean the entire home a bit, not on a highly clean and specific domain.
+
+Kill any distractions.
+
+- Put away your phone and turn off your computer.
+- Have all your cleaning supplies and trash bags available already to avoid an errand.
+- Set your music playlist ahead of time.
+
+Work in sprints to maintain your pace.
+
+- Marathon cleaning can be exhausting if you're not experienced doing it, so take consistent breaks.
+- Work in 20-minute bursts with 10-minute breaks, or 45-minute bursts with 15-minute breaks, and use a stopwatch if you need.
+- Don't forget to eat and rehydrate on your breaks.
+
+Make your bed first.
+
+- This empowers you to sleep or have a break location if you need to rest.
+
+Start with the trash.
+
+- Go from room to room and throw out any obvious trash.
+- As you fill a bag, take it out or place it next to the door if you can carry multiple bags out of your home.
+
+Move to the dishes.
+
+- Gather the dishes from all over the house and bring them to the kitchen.
+- Start soaking them in a sink of hot, soapy water or start loading the dishwasher.
+
+Keep aiming for what seems worst.
+
+- If it seems the most unsightly, it likely needs cleaning.
+
 ## Saving on cleaning supplies
 
 Cleaning doesn't have to be expensive, and you can clean most surfaces with a few pre-made solutions with a few bases:
@@ -149,7 +189,7 @@ Stain remover fluid:
 
 ## Specific domains
 
-[Standard housekeeping routines](home-housekeeping-routines.md)
+[Standard maintenance routines](home-maintenance.md)
 
 [Cleaning surfaces](home-housekeeping-surfaces.md)
 

@@ -1,4 +1,7 @@
 
+[Idée fixe (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology))
+- this creates neurodivergence?
+
 https://en.m.wikipedia.org/wiki/Borderline_personality_disorder
 
 https://www.webmd.com/schizophrenia/ss/slideshow-schizophrenia-overview

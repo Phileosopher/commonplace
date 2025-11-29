@@ -34,7 +34,11 @@ If you want extra security, tell the computer to use 2 or 3 "factors" to "authen
 
 ## Backups
 
-The easiest way to protect computer information from being lost is to keep regular, consistent backups of everything. That way, if anything fails, you can revert to a "known good" configuration or set of files.
+The easiest way to protect computer information from being lost is to keep regular, consistent backups of everything. That way, if anything fails, you can revert to a "known good" configuration or set of files. The best way is through the 3-2-1 Backup Rule:
+
+- 3 copies of the data
+- 2 different types of storage
+- 1 copy offsite (under your bed or office)
 
 A backup can be cold or hot storage:
 

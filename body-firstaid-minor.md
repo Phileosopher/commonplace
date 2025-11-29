@@ -69,6 +69,12 @@ Push your tongue against the roof of your mouth and press your finger between yo
 
 Apply thyme oil to the navel
 
+Drink clove tea:
+
+1. Mix 1/2" of ginger, a cinnamon stick, and 1/4 tsp cloves into 3 cups boiling water.
+2. Set to medium boil and steep 5 minutes.
+3. Strain and allow to cool, add honey if desired.
+
 ## Constipation
 
 Drink senna leaf tea or dried aloe vera juice
@@ -159,7 +165,7 @@ Try to force yourself to hiccup
 
 Apply equal parts mustard oil and ginger oil to the navel
 
-## Joint pain and arthritis
+## Joint pain, arthritis, and neuropathy
 
 Eat something
 
@@ -171,8 +177,10 @@ Eat something
 Rub onto the joint
 
 - Aloe vera
+- Capsaicin cream
 - Sesame oil
 - Tea tree oil
+- Mix 1 cup rubbing alcohol and 1 tsp cloves in a glass bottle and shake until it turns dark
 
 Apply oil on and around the navel before bed
 

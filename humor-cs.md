@@ -192,6 +192,23 @@ The speaker turned his attention to the man, "Well, how about you? What would yo
 
 If Java had garbage collection, it would collect itself.
 
+## IT paranoia
+
+Tech enthusiasts: "Everything in my house is wired to the Internet of Things! I control it all from my smartphone! My smart-house is Bluetooth enabled and I can give it voice commands via Alexa! I'll be first in line for cybernetic implants! I love the future!"
+
+Programmers/Engineers: "The most recent piece of technology I own is a printer from 2004. I keep a gun near in the event it makes an unexpected noise."
+
+I work in IT, so that means our home has:
+
+- mechanical locks
+- mechanical windows
+- routers using OpenWRT
+- no smart home crap
+- no Alexa/Google Assistant crap
+- no internet-connected thermostats
+
+
+
 ## Additional reading
 
 [devjoke](https://github.com/shrutikapoor08/devjoke) - A collection of software development jokes.

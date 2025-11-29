@@ -96,7 +96,32 @@ For this reason, the upper class isn't too concerned with the lower and middle c
 
 ## Migrating between classes
 
-Because of how people use power in each class, migrating back-and-forth across them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).
+The classes can be demarcated clearly by approximate levels of possessed wealth (approximated with USD in 2025):
+
+1. Surviving, likely struggling, must be employed, every dollar is precious (~$0-25K)
+   - They are guaranteed to be underclass.
+2. Must be employed, strict money management is critical to not drop to a worse condition (~$25K-75K)
+   - They are the top end of the underclass, but can live like the middle class with [loans](money-2_debt.md).
+3. [Compound interest](money-investing.md) can assist in building wealth, no longer in peril (~$75K-150K)
+   - They are directly in the middle class, though they might appear to live like the underclass to [save more money](money-saving.md).
+4. Employment is still necessary, but money is plentiful (~$150K-300K)
+   - From this point upward, they are effectively the upper class, though they may try to conceal it.
+   - They have power over their own household at this point.
+5. Part-time employment is optional depending on cash flow from investments (~$300K-750K)
+   - They can either have power over their household or a solo operation.
+6. With the exception of recklessness or foolishness, they will have lifelong prosperity (~$750K-1M)
+   - Limited power, but can have multiple domains.
+7. For almost everyone, employment is completely optional (~$1M-5M)
+   - Their influence can be felt to where they steer smaller social circles.
+8. The entire family should have no financial worries, with the freedom to live anywhere on the planet comfortably (~$5M-15M)
+   - They have influence, reputation, and clout within their local community or within a specific industry.
+   - At this point, it is nearly impossible for them to hide their upper class status.
+9. All luxury lifestyle elements are easily accessible (~$15M-50M)
+   - Their influence can expand to the politics of an entire city or of entire industries.
+10. They have access to the highest levels of [privacy](security-privacy.md), [security](security.md), [business](business.md), and extravagance (~$50M+)
+    - They have regional and possibly national political influence in business and culture.
+
+Because of how people use power in each class, migrating between them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).
 
 Beyond the standard cultural adaptations like specific [language](language.md) and [rituals](people-culture.md), there are a few others.
 

@@ -40,12 +40,12 @@ Null
   2. Prints it (e.g., "John's email is null")
   3. Gives a NullPointerException [error](computers-software-redesign.md)
 
-Boolean
+Boolean (bool)
 
 - True or False, that's it. Simple [binary logic](logic-cs.md). 0 or 1.
 - They can't be operated on at all.
 
-Integers
+Integers (int)
 
 - Integers are whole numbers, *never* decimals, and can include 0.
 - Comes from putting Boolean numbers together (counting up as 0, 1, 10, 11, 100, 101, 110, etc.).
@@ -59,7 +59,7 @@ Floats/Doubles
 - They're fully operable.
 - There are also fixed-point numbers that only hold digits out to a certain specific decimal place (e.g., 98.20), which can be very useful for specific things like money.
 
-Chars
+Characters (char)
 
 - Chars are 1 letter/number ("character"). You can store a [string](data-structures.md) with 1 character as a char.
 - They're *really* useful for tracking [keyboard](computers-keyboard.md) presses (such as a [computer game](computers-software-gamedev.md)).
@@ -93,6 +93,9 @@ Most additional data types are *not* standardized as much as the above primitive
 3. Those data types are far too important to allow slowdown through translation into a standardized system, so it's not wise to even *think* of adding any constraints to speed.
 
 Even then, data types can often be standardized more locally, such as in a programming language (e.g., graphs exist as a standard in the Datalog [programming language](computers-languages.md)).
+
+- Objects, which are abstractly meant to hold a standardized form
+- [Structures](data-structures.md), which represent a modular and scalable form
 
 ## To what end?
 

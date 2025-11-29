@@ -121,4 +121,6 @@ Theophany - A direct and personal encounter with God
 
 Theological anthropology - The systematic theology branch that addresses who people are with respect to God creating us
 
+Veneration - praying to saints or Mary, demarcated by Catholics but considered idolatry by Protestants
+
 Young Earth creationism - The belief that God created the universe in a relatively short period of time (i.e., days or years), contrasts with Old Earth creationism

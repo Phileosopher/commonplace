@@ -5,39 +5,39 @@ NOTE: Most of these work on non-Windows computers with the Function key.
 
 ## Opening
 
-Open Start/Applications menu: (Win) or CTRL+ESC
+Open Start/Applications menu: (Super) or CTRL+ESC
 
-Lock the computer for security: (Win)+L
+Lock the computer for security: (Super)+L
 
 Open the Task Manager: CTRL+SHIFT+ESC
 
 Open the security screen: CTRL+ALT+DEL
 
-Open System Properties: (Win)+Pause/Break
+Open System Properties: (Super)+Pause/Break
 
-Open File Explorer: (Win)+E
+Open File Explorer: (Super)+E
 
-Open Windows Search: (Win)+Q
+Open Windows Search: (Super)+Q
 
-Open Run: (Win)+R
+Open Run: (Super)+R
 
-Open a hidden power-user menu: (Win)+X
+Open a hidden power-user menu: (Super)+X
 
-Open Task View: (Win)+TAB
+Open Task View: (Super)+TAB
 
 ## Display
 
-Zoom the entire screen: (Win)+(+) or (Win)+(-)
+Zoom the entire screen: (Super)+(+) or (Super)+(-)
 
-Minimize all windows and show the desktop: (Win)+D or (Win)+M
+Minimize all windows and show the desktop: (Super)+D or (Super)+M
 
-Restore all the windows you just minimized: (Win)+SHIFT+M
+Restore all the windows you just minimized: (Super)+SHIFT+M
 
-Make a new virtual desktop: (Win)+CTRL+D
+Make a new virtual desktop: (Super)+CTRL+D
 
-Cycle between virtual desktops: (Win)+CTRL+Left/Right
+Cycle between virtual desktops: (Super)+CTRL+Left/Right
 
-Close your current desktop: (Win)+CTRL+F4
+Close your current desktop: (Super)+CTRL+F4
 
 Switch windows: ALT+TAB or ALT+SHIFT+TAB
 
@@ -51,7 +51,7 @@ Capture a screen for pasting into a document: Print Screen
 
 Capture a screenshot: ALT+Print Screen
 
-Run a program corresponding to the taskbar location: (Win)+(#)
+Run a program corresponding to the taskbar location: (Super)+(#)
 
 Enter a special character: ALT+(# on the number pad)
 
@@ -89,13 +89,13 @@ Restore the zoom to normal: CTRL+0
 
 Refresh/reload the view: CTRL+R or F5
 
-Maximize window or restore it to its original size: (Win)+Up/Down
+Maximize window or restore it to its original size: (Super)+Up/Down
 
-Move the window to the left/right of the screen: (Win)+Left/Right
+Move the window to the left/right of the screen: (Super)+Left/Right
 
 - Keep tapping to move across multiple screens
 
-Move the window to the left or right screen: (Win)+Shift+Left/Right
+Move the window to the left or right screen: (Super)+Shift+Left/Right
 
 Move to the next or previous text box: TAB and SHIFT+TAB
 

@@ -321,6 +321,11 @@ Bird poop on a car:
 - Scrub Canada Dry into it.
 - Tape a toy snake to the top of your car.
 
+Glass surfaces:
+
+- Spray with ammonia and wipe off with a clean cloth.
+- Rub with a wet cloth immersed in wood ash.
+
 Car windshield:
 
 - Place silica bags on the dashboard as a fog remover.
@@ -378,3 +383,8 @@ Microwave cleaning:
 Septic tank cleaning:
 
 - Flush yeast down the toilet.
+
+Garbage disposal:
+
+- Run used coffee grounds through it.
+- Place vinegar in an ice cube tray, let it freeze, then run them through the disposal.

@@ -14,3 +14,19 @@ The problem is that the church has largely emphasized the later, and diminished 
 So when people go encounter the God of the Bible out in the world, or in their closet, in the street, or in their homes. And they get fired up and filled with new revelation and zeal, they naturally go looking for fellowship among those who they figure to be walking in the same degree of lived experience that they have. What they often encounter is disappointment and disillusionment when they discover that the majority of institutions that label themselves as churches today fancy themselves more as social clubs that pander to families. These groups tend to emphasize safety over sanctification, conformity at the expense of truth and real healing. 
 They’re more concerned that the details of every wedding ceremony are perfect, that we have the right number of songs in the service, that people are dressed appropriately, that the food isn’t cold for the potluck after service etc.
 They’ve effectively lost vision of the mission, the proper emphasis, and the reality of the spirit realm, and yet, we still need regular connection with others walking in these experiences to keep our fires burning bright so we can be a light to those within and outside the church proper.
+
+
+12 Deep Questions to Ask Pastors
+
+    Do you prefer to officiate at weddings or funerals? I may be wrong, but I think many pastors would rather lead a funeral.
+    Are you naturally evangelistic, or do you have to force yourself to do it? I don’t know a lot of pastors whose hearts just beat for evangelism.
+    Would you hire again all the current staff you have? I realize that’s a difficult question to answer, but the response will tell you a lot.
+    How much do you pray each week? Previous studies have suggested that pastors don’t pray nearly like church members might assume.
+    What would you say to your “young ministry self” if you were starting all over again? I know what I’d say to myself: “Don’t assume you’re God’s gift to the kingdom.”
+    What’s your least favorite part of doing pastoral ministry? For me, I think it’s having confrontational meetings—even though I know they’re necessary at times.
+    How important is physical exercise to you? I fear that many pastors betray an undisciplined life in general when they don’t take good care of themselves.
+    How many times have you thought about quitting ministry? Maybe the answer is 0 in your case, but I know pastors who’ve thought about it more than once.
+    In what area does your preaching need to improve? If you haven’t thought about this question, it’s possible your preaching hasn’t improved much in some time. All of us have room for improvement.
+    Would your spouse and kids all want to do ministry again? I’m not sure how some folks would answer this question.
+    Do you look forward to going to work every day? Every Sunday? I hope so, though I doubt everybody does.
+    What steps have you taken to guard against moral failure? I trust we can all learn from pastors who’ve worked hard to finish well.

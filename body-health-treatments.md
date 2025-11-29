@@ -98,12 +98,13 @@ However, always take the doctor's advice as a consultant or sales personnel, *no
 
 ## Carefully consider institutionalized medical treatments
 
-Most of the afflictions have simply been renamed or localized based on symptoms:
+Most of the afflictions have simply been renamed or localized from their origin to their symptoms:
 
 - Polio became viral meningitis
 - Scarlet fever became strep throat
 - Consumption became tuberculosis
 - Diptheria became a respiratory infection
+- Scurvy is now Vitamin C deficiency
 - Rickets is now Vitamin D deficiency
 - Spanish flu now can be pneumonia or ARDS
 

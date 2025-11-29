@@ -62,6 +62,37 @@ One of the most prominent heresies stems from [magical thinking](understanding-c
     - To treat giving like a spiritual form of [investing](money-investing.md) (expecting future gain) is absolutely against the spirit of denying oneself ([Matthew 16:24](https://biblehub.com/matthew/16-24.htm)).
   - The only Apostle who cared heavily about [money](money-1_why.md) was Judas, who betrayed Jesus at the end.
   - Jesus and the Apostles were [homeless wanderers](hardship-homeless.md), and almost all of them suffered shameful and brutal deaths by [persecution](hardship-persecution-church.md).
+  - A *very* incomplete list of various prosperity doctrine leaders:
+    - Heidi Baker
+    - Jim Bakker
+    - Todd Bentley
+    - Mike Bickle
+    - Christine Caine
+    - Kenneth Copeland
+    - Paul Crouch
+    - John Crowder
+    - Creflo Dollar
+    - Jesse Duplantis
+    - Jentzen Franklin
+    - Steven Furtick
+    - John Gray
+    - John Hagee
+    - Kenneth E. Hagin
+    - Benny Hinn
+    - Brian Houston
+    - Rodney Howard-Browne
+    - TD Jakes
+    - Bill Johnson
+    - Carl Lentz
+    - Joyce Meyer
+    - Joel Osteen
+    - Rod Parsley
+    - Peter Popoff
+    - Fred Price
+    - Joseph Prince
+    - Pat Robertson
+    - Todd White
+    - Andrew Wommack
 - Popularity Gospel - Jesus calls for us to love our neighbor, and God loves us so much that what we do is immaterial.
   - At the farthest end, we don't need to maintain any [correct conduct](spiritual-exercises.md), to the point that *any* disliking of [sins](morality-sins.md) (e.g., LGBetc.) is unloving.
   - Popularity Gospel churches tend to focus on growing church numbers more than strong doctrine.
@@ -69,10 +100,20 @@ One of the most prominent heresies stems from [magical thinking](understanding-c
     - To that end, it's impossible to indicate *precisely* what they believe, except that [they're not very rigorous about it](understanding.md).
   - While they insist on having compassion and kindness (which *is* a product of love), they tend to disregard God's justice against sinners ([Romans 2:1-9](https://biblehub.com/bsb/romans/2.htm)).
 - Word of Faith - Spoken words can form reality (either by the words alone, or with God's empowerment).
+  - This is also known as "magical thinking".
   - Some go as far as saying *all* Christians with enough belief can receive [spiritual sign gifts](spiritual-gifts.md) like the Apostles.
   - Scripture indicates our [desires](purpose.md) will change, but makes [no promise](people-contracts.md) of physical gain in this life ([Galatians 2:20](https://biblehub.com/galatians/2-20.htm)).
-- Magical thinking doesn't bar anyone from salvation, but it *will* discourage Christians long-term.
-  - At its farthest, magical thinking will become a standard cult if a very [eloquent](power-influence.md) speaker can [influence](power-influence.md) enough people.
+  - Magical thinking doesn't bar anyone from salvation, but it *will* discourage Christians long-term.
+    - At its farthest, magical thinking will become a standard cult if a very [eloquent](power-influence.md) speaker can [influence](power-influence.md) enough people.
+  - This type of expression represents sometimes as a "prophecy", with some people being clearly false prophets ([Matthew 7:15](https://biblehub.com/matthew/7-15.htm)):
+    - John Hagee
+    - C. Peter Hagner
+    - TB Joshua
+    - Patricia King
+    - Beth Moore
+    - Sid Roth
+    - Charles Russell Taze
+    - Sarah Young
 
 Heresies that take away part of the Bible:
 

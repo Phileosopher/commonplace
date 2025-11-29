@@ -1,4 +1,12 @@
 
+Part of the Apostolic Fathers collection, some early Christians treated 1 Clement as a sacred text. It was included in some Bibles, such as the Codex Alexandrinus and Codex Hierosolymitanus, but not in the 27-book New Testament canon that is shared across most modern Christian churches. Such works are known as New Testament apocrypha, and 1 Clement ranks Didache as one of the earliest, if not the earliest, of those that still exist.
+- [Apostolic Fathers - Wikipedia](https://en.wikipedia.org/wiki/Apostolic_Fathers)
+- [New Testament apocrypha - Wikipedia](https://en.wikipedia.org/wiki/New_Testament_apocrypha)
+- [Codex Alexandrinus - Wikipedia](https://en.wikipedia.org/wiki/Codex_Alexandrinus)
+- [Codex Hierosolymitanus - Wikipedia](https://en.wikipedia.org/wiki/Codex_Hierosolymitanus)
+- [Didache - Wikipedia](https://en.wikipedia.org/wiki/Didache)
+
+[bible - When was the Biblical canon formalised? - Christianity Stack Exchange](https://christianity.stackexchange.com/questions/27555/when-was-the-biblical-canon-formalised/56186#56186)
 give a list of ALL books that didn't make its way into the Bible
 
 give a basic reason why

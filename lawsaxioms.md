@@ -7,55 +7,7 @@ It's worth noting that I've broadened the ideas when possible. It's also worth n
 
 I've grouped them starting with where the law starts coming into effect, progressing from inanimate objects, through individual perception, upwards into large groups.
 
-I've separated the [technology-specific axioms](lawsaxioms-tech.md).
-
-## Physical Objects
-
-Archimedes' Principle / Avogadro's Law - Physical things, all things being equal, take up the same space.
-
-Chesterton's Fence - Making changes without understanding the reasoning behind the present condition is a terrible idea.
-
-Clarke's Second Law - Knowing how far things are possible requires venturing a little into the impossible.
-
-Newton's Law of Cooling - Things change proportionally the difference between the two things.
-
-De Morgan's Laws - When at least one of two things aren't, they aren't when put together. When both of something isn't, one of them certainly isn't.
-
-Emmert's Law - Things that are the same size appear to be different sizes when they're at different distances.
-
-Faraday's Law of Electrolysis - The new mass made on an electrode is proportional to the electric current run through it.
-
-Faraday's Law of Induction - A changing magnetic field creates a proportional amount of electricity.
-
-Fisher's Fundamental Theorem of Natural Selection - Living things adapt proportionally to their environment based on the variety of what they have.
-
-Grassman's Law/Abney's Law - Each visible color is a precise combination of various colors.
-
-Heisenberg Uncertainty Principle - Many things operate in pairs, where measuring one of them makes another measurement impossible.
-
-Hess' Law - Chemical reactions create the same results, no matter how many steps you take.
-
-Kirchhoff's Three Laws of Spectroscopy - If a solid, liquid, and gas emit light, it'll cover the entire light spectrum. A gas will only emit certain light wave frequencies, and will absorb certain light wave frequencies.
-
-Kopp's Law - Physically, the whole is *precisely* the sum of its parts.
-
-Mendel's Second Law - New things are always a remix of old things.
-
-Newton's First Law of Motion - Things stay the same or keep moving until something else affects them.
-
-Newton's Third Law of Motion - If something exerts a force on something else, that thing in turn responds with the same amount of opposite force.
-
-Oddo-Harkins Rule - Elements with an even atomic number are more common than with an odd one.
-
-Ohm's Acoustic Law - People perceive in harmonized blocks, not with individual data.
-
-Square-Cube Law - When something scales proportionally in surface area, it scales exponentially in volume.
-
-Third Law of Thermodynamics - Chaos is easier to predict as activity ceases.
-
-Wiedemann-Franz Law - The heat and electricity through a metal is proportional to its temperature.
-
-Wolff's Law - Structures adapt to pressure, or lack of it.
+I've separated the [science-specific](lawsaxioms-science.md) and [technology-specific axioms](lawsaxioms-tech.md).
 
 ## Brain/Psychology
 
@@ -143,8 +95,6 @@ Doherty Threshold - People are most productive when they're interacting with the
 
 Dunning-Kruger Effect - People tend to overstate their competence.
 
-Empty Plate Effect - Scarcity creates desire.
-
 Engelbart's Law - People perform exponentially better across time.
 
 Falkland's Law - When a decision doesn't have to be made, it's better to postpone it.
@@ -153,7 +103,7 @@ Familiarity Heuristic/Availability Heuristic/Mere-Exposure Effect - People tend 
 
 Fitts' Law - The longer the distance and smaller the size, the longer it takes to acquire a target.
 
-Forbidden Fruit Effect - We want things more when we can't have them.
+Forbidden Fruit Effect/Empty Plate Effect - We want things more when access to them is limited.
 
 Gérson's Law - The most advantageous decision will disregard [ethics](morality.md).
 
@@ -218,6 +168,8 @@ Akin's Twenty-Third Law of Spacecraft Design - The project schedule doesn't matt
 Akin's Forty-First Law of Spacecraft Design - Somehow, there's never enough time to do it right, but always enough time to do it over.
 
 Atwood's Law - Everything that can be [created](creations.md) on the most commonplace media will eventually be recreated on that media.
+
+Chesterton's Fence - Making changes without understanding the reasoning behind the present condition is a terrible idea.
 
 Edison's Law - "Better" is the enemy of "Good".
 

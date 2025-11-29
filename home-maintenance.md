@@ -1,6 +1,161 @@
 
 # How to maintain a home
 
+Every home needs basic housekeeping routines to maintain it.
+
+## Weekly
+
+Depending on use, they don't have to be done *every* week.
+
+[ ] Clean out all food preparation appliances used in the last week (toaster, blender, stove/oven, microwave, grill).
+[ ] Clean the outside of the refrigerator.
+[ ] Wipe down all kitchen and bathroom surfaces.
+[ ] Vacuum, sweep, and mop all indoor flooring.
+[ ] Clean bathroom toilets, sinks, showers, and shower curtains.
+
+## Monthly
+
+Cleaning
+
+[ ] Clear out the refrigerator and wipe it down inside.
+[ ] Wash the trash cans and sprinkle baking soda at the bottom.
+[ ] Clean the kitchen sink garbage disposal.
+[ ] Dust the furniture and tops of surfaces.
+[ ] Wash the [autos](autos.md).
+[ ] Prune all foliage.
+[ ] Pull the hair out of the vacuum's spinning brush to prevent it from damaging the motor.
+[ ] Water all indoor plants.
+[ ] Clean range hood filters.
+[ ] Clean the dishwasher.
+[ ] Pour treatment down to the septic tank.
+
+Checking/Replacing
+
+[ ] Organize the [budget](money-3_budget.md) and pay the bills.
+[ ] Check the air filters for the heater and air conditioner.
+
+## Seasonally (every 3-4 months)
+
+[ ] Clean the inside and outside of all windows and mirrors.
+[ ] Clean the stove underneath by popping off the top.
+[ ] Polish all furniture.
+[ ] If you have a dryer, clean the duct that runs from the dryer to the vent.
+[ ] Run the water and flush the toilets in unused spaces.
+
+Checking/Replacing
+
+[ ] Check air conditioner and fan filters.
+[ ] Change the water filter, if you have one.
+[ ] Check for termites, mice, and other pests.
+[ ] Test garage door auto-reverse feature (trip the sensor).
+[ ] Check the water softener and add salt if needed.
+
+## Twice a year
+
+Cleaning
+
+[ ] Vacuum the couches.
+[ ] Clean out any air conditioner and fan filters.
+[ ] Drain the water heater tank to reduce sediment.
+[ ] Pressure wash the decks, driveways, and walkways.
+[ ] Clean all appliances.
+[ ] Vacuum refrigerator coils.
+
+Checking/Replacing
+
+[ ] Check and clean the refrigerator gasket and replace it if necessary.
+[ ] Replace the refrigerator's water filter.
+[ ] Place a new container of baking soda in the refrigerator.
+[ ] Test and replace the batteries for for carbon monoxide and smoke detectors.
+[ ] Test the water heater's pressure relief valve.
+
+## Once a year
+
+### Anytime
+
+Cleaning
+
+[ ] Clean and seal indoor tile and grout.
+[ ] Recaulk joints between tiling and other materials.
+[ ] Check for masonry holes or cracks and tuckpoint as needed.
+[ ] Seal drives and walks.
+[ ] Pressure wash walls and siding.
+[ ] Vacuum and clean the carbon monoxide and smoke detectors.
+[ ] Wash all curtains and shower curtains.
+
+Checking/Replacing
+
+[ ] Visually inspect the fire extinguisher (i.e., gauge shows pressure, no signs of wear, accessible in home) or have a professional inspect it.
+[ ] Check window wells and cellar ways for debris and damage.
+[ ] Walk the exterior perimeter of the home and check for potential entry points for bugs and vermin.
+[ ] Inspect all power plugs and replace them as needed.
+[ ] Check wood surfaces for paint failure and damage.
+[ ] If you have a septic tank, pump it and inspect it.
+[ ] Check for wasp and hornet nests around the property.
+[ ] Check for leaks in toilets and sinks.
+
+### The start of spring
+
+Cleaning
+
+[ ] Clean the window screens.
+[ ] Clear dead plants and shrubs from the house.
+
+Checking/Replacing
+
+[ ] Inspect the entire exterior of the home, especially where the elements may have affected it.
+[ ] Inspect the status of decorative vines on the exterior.
+[ ] Check the air conditioner's condensate drain hose.
+[ ] Have a professional inspect the air conditioner.
+[ ] Check the exterior drainage.
+[ ] Prepare receipts for taxes.
+[ ] When you start using the air conditioner more than the heating unit, adjust the ceiling fan blades to push downward.
+
+### The start of summer
+
+Cleaning
+
+[ ] Clean the roof's gutters and downspouts.
+
+Checking/Replacing
+
+[ ] Inspect the roof for damages or leaks.
+
+### The start of fall
+
+Cleaning
+
+[ ] Trim the trees and shrubs.
+
+Checking/Replacing
+
+[ ] Have a professional inspect and clean the fireplace
+[ ] Have a professional check the heating unit
+[ ] Check trees for interference with electric lines.
+
+### The start of winter
+
+Cleaning
+
+[ ] Clean the roof's gutters and downspouts.
+
+Checking/Replacing
+
+[ ] When you start using the heating unit more than the air conditioner, adjust the ceiling fan blades to push upward.
+[ ] Check water lines, insulation, and anything else vulnerable to cold.
+[ ] Disconnect all hoses from hose bibs, drain, and store.
+[ ] Drain all exterior faucets and protect them with covers.
+[ ] Confirm access to all water supply cutoff valves in case of burst pipes.
+[ ] Turn off and drain the irrigation systems.
+
+## Every other year or as needed
+
+[ ] Shampoo the couches and carpet.
+[ ] Get any required [vehicle](autos.md) smog checks.
+[ ] Change out furniture to accommodate new lifestyles.
+
+## Fixing and improving
+
 Upkeep of a house simply involves making steady, consistent [decorations and renovations](home-decorations.md), along with repairs.
 
 - Prioritize survival-based and structural needs (e.g., roof, plumbing) over conveniences (e.g., internet) or luxury/cosmetic (e.g., carpet, smart doorbell):

@@ -1,6 +1,9 @@
 
 because of the opinions and preferences of the majority who are NOT [specialized], major market movements always hit the lower-priced parts of the market worse than the boutique range of products
 
+Employment requires a fixed minimum
+- people die, retire, move, and become disabled
+
 ## Black markets
 
 it's a difficult battle of tradeoffs with illegalizing things

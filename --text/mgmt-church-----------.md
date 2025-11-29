@@ -1,4 +1,62 @@
 
+50 Sermon Topics that Can’t Be Skipped 
+Dear Pastors, 
+These topics are too important to skip.
+In the last 50 weeks, have you preached these 50 crucial topics?
+Please don’t go a year without telling your people what they need to know about each one. 
+Any of the following could be a full sermon, or multiple sermons, but these topics can and should appear more frequently than that.
+Even when they are not the main theme of the sermon, these key points should find their way into many sermons.
+1. What is the gospel?
+2. As a longtime believer, how do I still need the gospel?
+3. How did Jesus live his life?
+4. What happened on Good Friday?
+5. What happened on Easter Sunday?
+6. Will Christ return?
+7. Who is saved?
+8. What is it to live in sin?
+9. If I live in sin, am I saved?
+10. Why is cheap grace a heresy?
+11. What is faith?
+12. What is holiness?
+13. What is heaven?
+14. What are hell and judgment?
+15. What is the evidence for Christianity?
+16. What is election?
+17. What happened at creation?
+18. Did miracles really happen?
+19. What about modern miracles?
+20. Does God know the future?
+21. What is inerrancy?
+22. How are the Old and New Testaments connected?
+23. What are the Ten Commandments?
+24. What is the story of the nation of Israel?
+25. What is the story of Christianity over the last 2000 years?
+26. What is the church?
+27. What is church discipline?
+28. Should I give money to the church?
+29. Why do we follow God?
+30. Why do we worship as we do?
+31. What are false churches?
+32. How does a church know it is in God’s will?
+33. What is church unity?
+34. What is mission?
+35. What is evangelism?
+36. What is baptism?
+37. What is godly preaching?
+38. How do I study Scripture?
+39. What is marriage?
+40. How do I lead my family?
+41. How do I disciple and minister to others?
+42. What do I need to know about forgiveness?
+43. What do I need to know about sanctification?
+44. What do I need to know about repentance?
+45. What do I need to know about temptation?
+46. What do I need to know about prayer?
+47. Why is abortion wrong?
+48. What is love, according to Scripture?
+49. What is sexual purity?
+50. What is the kingdom of God?
+
 ## 1 Running a Worship-Based Church
 
 ### fundraising

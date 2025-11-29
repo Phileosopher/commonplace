@@ -186,6 +186,7 @@ Nail polish stains:
 
 Oil/grease stains:
 
+- Mix auto degreaser with hot water to make a solution.
 - Rub vinegar into it.
 - Pour eucalyptus oil on the stain.
 - For concrete stains, apply cat litter to the stain, then let it sit for a day.

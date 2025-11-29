@@ -1,6 +1,15 @@
 
 # Specific Windows trivia and information
 
+Customize the menu by right-clicking the Start button, selecting Settings, then selecting "Adjust links".
+
+## Bypass Microsoft Account requirement
+
+This worked for Windows 11, but may have changed.
+
+1. When the screen says "Let's connect you to a network", press Shift+F10 to open a console.
+2. Type "start ms-cxh:localonly" to create a new local user
+
 ## Windows file paths
 
 Start menu shortcuts
@@ -137,9 +146,6 @@ Disable as much as possible, since Windows devs don't always use it and it takes
 
 ## Windows Run commands
 
-- Windows 10's drive:
-  -
-
 - Home folder of current user:
   - .
 - Users folder:
@@ -164,3 +170,29 @@ Disable as much as possible, since Windows devs don't always use it and it takes
   - mstsc
 - System info:
   - msinfo32
+
+## Windows super key shortcuts
+
+Shut down the PC without confirmation dialog: (Win)+U, U
+
+Restart the PC without confirmation dialog: (Win)+X, U, R
+
+Place PC into sleep mode: (Win)+X, U, S
+
+Sign out of user account: (Win)+X, U, I
+
+Open an administrator terminal: (Win)+X, A
+
+Open Run dialog: (Win)+X, R
+
+Specific programs:
+
+- File Explorer: (Win)+X, E
+- Device Manager: (Win)+X, D
+- Event Viewer: (Win)+X, V
+- Windows Settings: (Win)+X, S
+- Disk Management: (Win)+X, K
+- Computer Management: (Win)+X, G
+- Network Connections: (Win)+X, N
+- Apps & Features: (Win)+X, W
+- Mobility Center: (Win)+X, M

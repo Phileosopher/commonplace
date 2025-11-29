@@ -70,3 +70,12 @@ Since the screen is an array, and modern ones typically have a backlight, comput
 - By removing the backlight and other unnecessary layers, a screen can be laid on top of an overhead projector to create a projection video screen.
 - Smaller LCD screens (such as on old cellphones or landline telephones) can be reused to make small readout displays and smart watches.
   - Placing them behind a mirror can create a smart mirror.
+
+## Ports
+
+The screens all work off a few port [standards](standards-computers.md).
+
+- 15-pin VGA was finicky, but was the standard for most computers up until the mid-2000s.
+- HDMI is generally designed to max out at 1080p, but can be used for larger.
+- DVI is the superior port that transcends HDMI for high-resolution needs.
+- USB is often a catch-all, but doesn't often give the amount of bandwidth for a high-resolution video feed.

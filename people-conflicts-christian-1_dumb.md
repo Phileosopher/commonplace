@@ -21,6 +21,8 @@ The concept of free will:
   - People who believe humans have no free will usually have a severely undervalued sense of [humanity's worth](humanity-christian.md).
   - People who believe God doesn't know ahead of time invalidate Scripture.
 - Most mature Christians are aware of the strange paradox that [God is three *persons*](god.md), so they eventually come to [understand](understanding.md) (or at least [sense](mind-feelings.md)) the entire discussion is irrelevant because God/Jesus has [more than one will](god-will.md).
+  - The idea is built more from classical Greek philosophy than anything in Scripture, so it becomes a pointless contention that likely misses some truths entirely by asking the wrong questions.
+  - the early church (e.g., Origen) believed that the philosophical debates were ridiculous when they abolished the concept of free will.
 
 Political views mixed with faith:
 
@@ -57,3 +59,12 @@ Since Jesus is both God *and* man, there are disputes about His will:
 - Dyothelitism - Jesus has both a divine and human will.
 - Trithelitism - Jesus has a divine and human will, but also a will through the Holy Spirit.
 - Trinitrithelitism - Jesus, the Father, and the Holy Spirit all have separate wills.
+
+Debates about how to perform the Eucharist/Communion:
+
+- The original church may have had bread and diluted wine mixed with water.
+- After a few hundred years, the tradition became everyone corporately drinking from a cup and taking pieces of bread.
+- Modern Protestants use tiny predesigned disposable plastic grape juice cups and a small piece of bread like an oyster cracker.
+- At the farthest end, some of them come in tiny foil-sealed plastic containers (for the Christian on the go!).
+- All of these are acceptable as long as they honor the spirit of the tradition.
+- However, some people who have issues with the stigma of [alcoholism](addiction-substances.md) have issues with wine instead of grape juice.

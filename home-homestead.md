@@ -270,14 +270,6 @@ If you're hiring a [contractor](people-contracts.md) to build (which is a good i
 - Your building is a [creative outflow](creations.md) of your [personality](personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
 - Try to be physically present through *all* stages of the construction, since you may miss something important about your preference (e.g., placement of fridge or sinks, counter height).
 
-### Heating and cooling
-
-Make a candle-based clay heater:
-
-1. Place candles at the base.
-2. Surround the candles with bricks, with an opening for lighting them.
-3. On top of the bricks, place a clay pot (for gardening) upside down.
-
 ## Food
 
 You have a few options with food:
@@ -398,6 +390,47 @@ You have several options available:
 - Electrical heating makes your heating needs overlap with electricity, which gives the benefit of one less resource to manage, and the downside of failing when the electricity fails.
 - Combusting a fuel source (e.g., propane) is very efficient and affordable, but also typically requires importing it from somewhere.
 - If you run a pipeline underground, you can use a heat pump to draw in geothermal heat.
+
+### Homemade solutions
+
+The general trick for low-effort heat management involves the following:
+
+1. Preserve as much of everyone's natural warmth as possible.
+2. Supplement with a heater, fire, or stove as little as possible.
+
+Burning fuel requires a ton of work, saps energy, and exposes you to [risk](safety-riskmgmt.md).
+
+At the most basic, you can create layers:
+
+1. Wear layered clothing.
+2. Sleep inside a small tent.
+3. Have the small tent inside a larger tent.
+4. Have the large tent inside a house, which also serves as weather cover.
+5. Have a wood stove inside the house.
+
+Make a candle-based clay heater:
+
+1. Place candles at the base.
+2. Surround the candles with bricks, with an opening for lighting them.
+3. On top of the bricks, place a clay pot (for gardening) upside down.
+
+Make a cooler that uses the [Venturi Effect](lawsaxioms-science.md) to naturally cool:
+
+1. Get lots of plastic bottles, a sturdy board that fits a window, and scissors or a knife.
+2. Cut holes on the board that are the size of the rim of the bottles. Space out the holes to accommodate the body of the bottles.
+3. Cut the bottles in half crosswise.
+4. Carefully cut away the tops of the bottle caps.
+5. Mount the cut bottles in the board by screwing them in.
+6. Fit the assembly onto the window, with the bottlenecks facing inward.
+
+Make your own water heater:
+
+1. Acquire a large water container (~300 gallons), bendable copper tubing, two gaskets, and a wood-burning stove.
+2. Place the stove and water tank about 18" from each other.
+3. Cut a hole in the water tank parallel to the bottom of the stovepipe.
+4. Secure and seal the copper pipe, then run it as an ascending coil around the stovepipe.
+5. Cut a hole on the tank parallel to the copper pipe's topmost location next to the pipe, then run back across, then secure and seal.
+6. While running the stove, thermal siphoning will change the ambient water temperature from ~60 °F to ~115 °F.
 
 ## Barriers & access
 

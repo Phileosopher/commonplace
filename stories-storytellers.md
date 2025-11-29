@@ -140,7 +140,7 @@ There is a [political reason](politics-conservativeliberal.md) to add specific t
   - For an ideological ally, ignore their existence.
   - As a further step, [curate the environment](people-image-distortion.md) to prevent that information from arising.
 
-APPLICATION: News coverage and history are *never* exempt from [political manipulation](people-image-distortion.md), since the ability to craft [convincing](power-influence.md) [stories](stories-why.md) is a *tremendous* [form of power](power-types.md).
+APPLICATION: News coverage and [history](history.md) are *never* exempt from [political manipulation](people-image-distortion.md), since the ability to craft [convincing](power-influence.md) [stories](stories-why.md) is a *tremendous* [form of power](power-types.md).
 
 If someone gains enough [power](power.md) telling the news, they will actually *make* future news events. By claiming things about [public opinion](people-image-why.md) or [informing](understanding.md) people about details, a news outlet has the [power](power.md) to bend the [opinions](understanding-certainty.md) of sometimes millions with a few choice [words](awareness.md).
 
