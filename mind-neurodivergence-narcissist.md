@@ -1,14 +1,21 @@
 
 # The basis of narcissism
 
-Narcissism is a unique perspective that represents a dualistic paradox:
+Narcissism is a unique perspective that represents a dualistic paradox of worthlessness and entitlement.
 
-1. They have a completely empty sense of self-worth, to the point of feeling deeply unloved and unfulfilled.
-2. They refuse to acknowledge the worthlessness, so they develop an entitlement mindset that implies they deserve much more substantial treatment than they're receiving.
-
-This viewpoint may be a psychological coping mechanism ("narcissistic behavior") or may be a core part of their personality ("narcissistic personality disorder").
+This viewpoint may be a psychological coping mechanism ("narcissistic behavior") or may be a core part of their personality ("narcissistic personality disorder" or NPD).
 
 - The scope of the narcissism is closely connected with how strongly their self-directed feelings impede their ability to have sympathy for others' feelings.
+- To qualify as NPD, at least 5 of the following attributes must be present:
+  - Exaggerated sense of self-importance.
+  - Fantasies of things being perfect or that they deserve things more than others.
+  - Belief that they're in some way special compared to others.
+  - Constant need for others to praise and admire them.
+  - Convinced they deserve special treatment.
+  - Takes advantage of others.
+  - Unable to feel empathy for others.
+  - Belief that others are competing with or envious of them.
+  - Arrogance through believing others to be worthless, ridiculous, or despicable.
 - While it may express during early childhood, it represents itself when selfishness starts surpassing a desire for others' benefit.
 - There are also derivations of this mechanism in the forms of the sociopathy/psychopathy spectrum.
 
@@ -21,6 +28,42 @@ Narcissism has two major forms and some sub-forms:
   - Malignant narcissism captures more antisocial behaviors such as sadism, revenge, aggression, and paranoia.
 
 Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](religion.md) could likely be defined as highly influential narcissists.
+
+## How they think
+
+The process that builds narcissistic behavior is somewhat straightforward:
+
+1. They have a completely empty sense of self-worth, to the point of feeling deeply unloved and unfulfilled.
+   - "I'm worthless."
+   - "Nothing I do matters."
+   - "Nobody can love me."
+   - "I'm only good for what I do."
+   - "I'm not good enough."
+   - "Everyone hates me."
+2. They conclude and closely [identify](identity.md) as a victim of their circumstances.
+   - "Life is unfair."
+   - "I wasn't taught the right lessons in life."
+   - Nobody ever gives me a chance."
+3. They feel tremendous [anger](mind-feelings-anger.md) at their situation, but refuse to self-reflect because of their terrible sense of self.
+4. The anger develops an entitlement mindset that implies they deserve much more substantial treatment than they're receiving.
+5. Their entitlement boils over into narcissistic behaviors as an attempt to regain control of their life.
+6. When confronted to [change](people-changes.md) for the better, they lapse again into victimhood, perpetuating the cycle.
+
+Their inappropriate behavior will create a loop over time:
+
+1. An action performed in anger, which will often be a [sin](morality-sins.md) against someone.
+2. Unconscious, repressed guilt over that action's consequences.
+3. Through not being [self-aware](awareness.md), the unresolved guilt becomes [shame](mind-feelings-shame.md).
+4. That guilt arises later from another experience (often from those consequences or someone else triggering them).
+5. Generalized rage, directed toward the trigger of the shame.
+6. Go back to Step 1.
+
+If they were being bluntly honest, they'd say the following:
+
+1. "Why can't everyone just let me say what I want without consequence?"
+2. "I don't really mean it, and I just need to vent my issues."
+3. "It seems like everyone is out to get me when they try to shut it down."
+4. "I do know what's best, so why can't everything just go my way so I can be free to have my tantrum?"
 
 ## The primary indicator
 
