@@ -5,6 +5,6 @@ A specific programming language for physical implementations of a computer (e.g.
 
 The code is very low-level: almost like C, but for physical space.
 
-Further reading:
+## More information
 
-- [G-code Explained](https://howtomechatronics.com/tutorials/g-code-explained-list-of-most-important-g-code-commands/)
+[G-code Explained](https://howtomechatronics.com/tutorials/g-code-explained-list-of-most-important-g-code-commands/)

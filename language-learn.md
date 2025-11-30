@@ -93,11 +93,13 @@ You only use 3 parts of your body to make words:
 3. Your vocal cords are either activated (e.g., "zzz") or not (e.g., "sss").
 
  Every consonant requires 3 major bits of information:
+
 1. Where's your tongue?
 2. What's your tongue doing there?
 3. Are your vocal cords doing anything?
 
 Vowels have 2 bits of information:
+
 1. Where's your tongue?
 2. Are your lips in a circle?
 

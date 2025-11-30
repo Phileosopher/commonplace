@@ -71,7 +71,7 @@ Further, perspective in our eyes works differently than perspective in a photogr
 
 Among the [market](economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](engineering-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
 
-## Additional reading
+## More information
 
 [The Ultimate Guide to Lens Design Forms](https://www.pencilofrays.com/lens-design-forms/)
 

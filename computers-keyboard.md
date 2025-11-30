@@ -137,7 +137,7 @@ Keyboard interfaces have become more advanced. As of this writing (June 2022), n
 
 However, keyboards must conform to healthy [UX standards](engineering-design.md). Pushing too many [trendy changes](trends.md) will invariably alienate most of the users, so it's likely keyboard conventions will stick around *long* after nearly everything uses a software-only digital keyboard.
 
-## Additional reading
+## More information
 
 [Computer latency: 1977-2017](https://danluu.com/input-lag/)
 

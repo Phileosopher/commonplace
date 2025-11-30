@@ -32,11 +32,11 @@ By contrast, more complex life reproduces sexually (meiosis) with another relati
 
 It's worth noting that sexual reproduction requires similar-enough animals. While cross-species mating isn't uncommon and cross-genus mating is sometimes possible, cross-family mating isn't.
 
-Further reading:
-
-- [How do viruses assemble?](http://viruspatterns.com/)
-
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - Can, and how can we beat bacteria?
 - How do mitochondria work?
+
+## More information
+
+[How do viruses assemble?](http://viruspatterns.com/)

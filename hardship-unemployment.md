@@ -71,7 +71,7 @@ As time persists, you will generally travel through a few stages in response to 
 
 1. Shock (i.e., denial)
    - Unless you've been expecting you'll leave, it will take at least a few days to a few weeks to adjust to the new circumstances.
-   - While you may hunt for a new job, it's more likely that you'll have to [grieve the loss](mind-feelings-sadness.md) of that portion of your lifestyle. 
+   - While you may hunt for a new job, it's more likely that you'll have to [grieve the loss](mind-feelings-sadness.md) of that portion of your lifestyle.
 2. Jaded
    - At this point, you'll be [applying for other jobs and networking](jobs-4_hunt.md) with everyone.
    - You will be feeling a state of prolonged [anger](mind-feelings-anger.md), which will channel into applying everywhere.

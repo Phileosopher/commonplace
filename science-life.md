@@ -10,6 +10,6 @@ Every living being has a few universal characteristics:
 
 In many ways, the structures that form life are akin to remarkably well-designed [technology](technology.md), with many built-in redundancies and fail-safes.
 
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - How did life begin?

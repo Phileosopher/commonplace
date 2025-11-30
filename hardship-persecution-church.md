@@ -5,7 +5,7 @@ Every one of Jesus' disciples, and many of the other original followers, were he
 
 1. Peter was crucified upside-down on an X-shaped cross, likely because he told his persecutors that he didn't feel worthy to die the exact way Jesus did.
 2. Andrew was flogged severely by seven soldiers, then crucified on an X-shaped cross in Patras, Greece. He was tied to the cross with ropes to prolong his suffering, and preached to his persecutors for two days before dying.
-3. James the son of Zebedee defended his faith in a trial, and was beheaded in Jerusalem ([Acts 12:1-3](https://biblehub.com/bsb/acts/12.htm)). Right before his beheading, a Roman officer knelt beside James to also accept a new faith in Christ.
+3. James the son of Zebedee defended his faith in a trial, and was beheaded in Jerusalem ([Acts 12:1-3](https://biblehub.com/acts/12.htm)). Right before his beheading, a Roman officer knelt beside James to also accept a new faith in Christ.
 4. John was boiled in a basin of oil but delivered from death, then sentenced to the island prison mines of Patmos by Domitian, then later freed due to old age and died peacefully in Ephesus (Turkey).
 5. Philip was stoned and crucified in Hierapolis, Phrygia.
 6. Bartholomew/Nathaniel was flayed to death by a whip in Albinopolis, Armenia.
@@ -21,7 +21,7 @@ Every one of Jesus' disciples, and many of the other original followers, were he
 
 Christianity is the only faith that treats [persecution](hardship-persecution.md) as an inherently positive experience:
 
-- Mature Christians consider persecution honorable ([Matthew 5:10-12](https://biblehub.com/bsb/matthew/5.htm), [1 Corinthians 4:12](https://biblehub.com/1_corinthians/4-12.htm), [James 1:2](https://biblehub.com/james/1-2.htm)).
+- Mature Christians consider persecution honorable ([Matthew 5:10-12](https://biblehub.com/matthew/5.htm), [1 Corinthians 4:12](https://biblehub.com/1_corinthians/4-12.htm), [James 1:2](https://biblehub.com/james/1-2.htm)).
 - Some Christians *do* [fear](mind-feelings-fear.md) persecution, but mostly from inexperience.
 
 Legitimate persecution isn't merely martyrdom complex:
@@ -31,7 +31,7 @@ Legitimate persecution isn't merely martyrdom complex:
 
 Jesus practically *promises* suffering and persecution:
 
-- It's nothing personal, since they hated Jesus as well ([John 15:18-20](https://biblehub.com/bsb/john/15.htm)).
+- It's nothing personal, since they hated Jesus as well ([John 15:18-20](https://biblehub.com/john/15.htm)).
 - History has shown that the Church expands its influence every time authority figures have tried to shut down or oppress Christianity.
 
 ## Persecution is power games by people who love evil
@@ -211,7 +211,7 @@ Through all the hardship, the Holy Spirit will *still* shine through:
 When the Church goes underground, everyone who wishes to keep their faith will have to suffer:
 
 - Be prepared to suffer because the police *will* take you immediately if you're not ready.
-- Some Christians contend that "submit to authority" ([Romans 13:1-7](https://biblehub.com/bsb/romans/13.htm)) means permitting them to exploit you, but we must be gentle *and* clever ([Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
+- Some Christians contend that "submit to authority" ([Romans 13:1-7](https://biblehub.com/romans/13.htm)) means permitting them to exploit you, but we must be gentle *and* clever ([Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
 
 Respond to the world's attacks with Christ-like behavior:
 
@@ -226,11 +226,11 @@ Respond to the world's attacks with Christ-like behavior:
 4. Openly confess your sin when anyone calls you on it.
    - Own what you've done and vow to never consciously [sin](morality-sins.md) again.
 5. Patiently endure criticism and shame.
-   - Jesus chose to stay silent in an all-night kangaroo court ([Matthew 26:57-68](https://biblehub.com/bsb/matthew/26.htm)).
-   - God will judge everyone rightly on [Judgment Day](jesus-returns.md) ([Revelation 20:11-15](https://biblehub.com/bsb/revelation/20.htm)).
+   - Jesus chose to stay silent in an all-night kangaroo court ([Matthew 26:57-68](https://biblehub.com/matthew/26.htm)).
+   - God will judge everyone rightly on [Judgment Day](jesus-returns.md) ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
 6. Don't concern yourself with evil.
    - Nothing is new under the sun ([Ecclesiastes 1:9](https://biblehub.com/ecclesiastes/1-9.htm)).
-   - We will see the same evil as Noah's time saw ([Luke 17:26-27](https://biblehub.com/bsb/luke/17.htm)).
+   - We will see the same evil as Noah's time saw ([Luke 17:26-27](https://biblehub.com/luke/17.htm)).
    - It's new for us, but [not to God](https://theologos.site/god-sight/).
 7. Regardless of what happens, trust the Lord and let the Church aid you when it can.
    - God is *always* in control, even when you feel it's hopeless ([Matthew 28:20](https://biblehub.com/matthew/28-20.htm)).
@@ -245,7 +245,7 @@ Respond to the world's attacks with Christ-like behavior:
 11. Ignore the world's strategies against you.
     - Be prepared to confront [sin](morality-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
-    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/bsb/james/1.htm)).
+    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/james/1.htm)).
 12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
@@ -256,7 +256,7 @@ The *specifics* on how believers can stand against authority depends heavily on 
 Learn how to speak carefully to keep secrets:
 
 - People who ask probing questions [have no right](people-boundaries-why.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
-- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/bsb/1_corinthians/6.htm)).
+- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/1_corinthians/6.htm)).
 - Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](people-image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
   - State [the law](people-rules.md) when they ask your [purpose](purpose.md).
@@ -323,7 +323,7 @@ Beware of the "moment of crisis":
 - Torturers work to attain a specific state of mind where a person has been completely broken down.
 - At that point, a Christian will feel that nothing really matters anymore.
 - In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](politics-leftism.md), plead guilty, and anything else the torturer [wants](purpose.md).
-- At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/bsb/romans/8.htm)).
+- At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/romans/8.htm)).
 - Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation ([1 Peter 1:4](https://biblehub.com/1_peter/1-4.htm)).
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!
 - Once that happens, the torturer will give up or kill us, since they now know they can't [change](people-changes.md) us anymore.
@@ -334,7 +334,7 @@ Persecution against Christianity has been "normal" for 2,000 years:
 
 - Christians have been shamed, beaten, flogged, imprisoned, exiled, and killed for their faith since Jesus gave His life.
   - Presently, the "10/40 Window" (between 10 and 40 degrees latitude in the eastern hemisphere) is the most frequent place in the world for persecution.
-- And, [for the end to come](jesus-returns.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/bsb/2_timothy/3.htm)).
+- And, [for the end to come](jesus-returns.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/2_timothy/3.htm)).
 - God uses persecution in a predictable cycle:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.

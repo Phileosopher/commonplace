@@ -116,6 +116,6 @@ Another issue comes from specifically *AR* systems. While it may seem useful, *a
 
 Currently, as of the early 2020s, VR is a fine-enough upgrade to your screen experience, but has arcane failings that won't be resolved until much later. A lot of the surrounding hype (e.g., Facebook's Metaverse) has largely collapsed, and it's likely the OS development in that area won't yield much in the short term either.
 
-## Additional reading
+## More information
 
 [Working From Orbit. VR Productivity in (or Above) a WFA...](https://medium.com/immersedteam/working-from-orbit-39bf95a6d385)

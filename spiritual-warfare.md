@@ -5,9 +5,9 @@ Beyond our bodies and environment, we must resist another force that works again
 
 The Bible frequently mentions the Satan, who isn't symbolic or figurative:
 
-- He tempted the first sin ([Genesis 3:4-5](https://biblehub.com/bsb/genesis/3.htm)).
-- He fell from heaven and roams the earth ([Job 1:6-7](https://biblehub.com/bsb/job/1.htm), [Isaiah 14:12-14](https://biblehub.com/bsb/isaiah/14.htm)).
-- He is exceptionally glorious, beautiful, and intelligent, and can disguise himself as an angel of light ([Ezekiel 28:11-19](https://biblehub.com/bsb/ezekiel/28.htm), [2 Corinthians 11:14](https://biblehub.com/2_corinthians/11-14.htm)).
+- He tempted the first sin ([Genesis 3:4-5](https://biblehub.com/genesis/3.htm)).
+- He fell from heaven and roams the earth ([Job 1:6-7](https://biblehub.com/job/1.htm), [Isaiah 14:12-14](https://biblehub.com/isaiah/14.htm)).
+- He is exceptionally glorious, beautiful, and intelligent, and can disguise himself as an angel of light ([Ezekiel 28:11-19](https://biblehub.com/ezekiel/28.htm), [2 Corinthians 11:14](https://biblehub.com/2_corinthians/11-14.htm)).
 - He continually steals truths people hear before they can understand ([Matthew 13:19](https://biblehub.com/matthew/13-19.htm)).
 - The original Bible's word use calls him "the Satan", not simply "Satan", and our antagonists are numerous even while they share a similar goal.
 
@@ -22,7 +22,7 @@ He's more powerful than most Christians think:
 - You can *only* resist the Satan through Christ ([Ephesians 6:11](https://biblehub.com/ephesians/6-11.htm)).
   - God will protect you from him ([2 Thessalonians 3:3](https://biblehub.com/2_thessalonians/3-3.htm)).
   - God has granted all Christians full power over the Satan in Jesus' name ([Luke 10:19](https://biblehub.com/luke/10-19.htm)).
-  - Even non-believers who use Jesus' name have power over him ([Matthew 7:21-23](https://biblehub.com/bsb/matthew/7.htm)).
+  - Even non-believers who use Jesus' name have power over him ([Matthew 7:21-23](https://biblehub.com/matthew/7.htm)).
 - However, the Satan's power only extends as far as God permits ([Job 1:12](https://biblehub.com/job/1-12.htm)).
   - God keeps the Satan constantly within the range of temptations we can overcome ([1 Corinthians 10:13](https://biblehub.com/1_corinthians/10-13.htm)).
 
@@ -30,7 +30,7 @@ We face an army of demons.
 
 - A large portion of Jesus' ministry was casting out demons ([Matthew 8:16](https://biblehub.com/matthew/8-16.htm), [Mark 1:34](https://biblehub.com/mark/1-34.htm)).
 - Jesus' followers were granted power to cast out demons ([Luke 9:1](https://biblehub.com/luke/9-1.htm)).
-- The demons have names, and knowing their names gives us power ([Luke 8:27-33](https://biblehub.com/bsb/luke/8.htm)).
+- The demons have names, and knowing their names gives us power ([Luke 8:27-33](https://biblehub.com/luke/8.htm)).
 
 ## The Satan's battle campaigns in minds
 
@@ -75,8 +75,8 @@ The Satan tries to interest people in self-glorifying religion:
 
 - Outside their [fruits](results.md), self-worship is difficult to distinguish from people who love God:
   - They declare their belief in Jesus ([James 2:19](https://biblehub.com/james/2-19.htm)).
-  - They act in the name of Jesus ([Matthew 7:21-23](https://biblehub.com/bsb/matthew/7.htm)).
-  - If they [teach](spiritual-discipleship.md), they'll mislead people from the truth ([Matthew 24:10-11](https://biblehub.com/bsb/matthew/24.htm)).
+  - They act in the name of Jesus ([Matthew 7:21-23](https://biblehub.com/matthew/7.htm)).
+  - If they [teach](spiritual-discipleship.md), they'll mislead people from the truth ([Matthew 24:10-11](https://biblehub.com/matthew/24.htm)).
   - They'll place personal experience before God's word but will misuse Scripture to enforce those experiences.
 - These people must repent, and some of them have been possessed or oppressed by a demon.
 
@@ -89,7 +89,7 @@ The Satan attracts people with the occult and its practices:
   - They all require a passive meditative state before the spirit world can operate properly.
   - Typically, participants will feel a strange magnetism with an underlying [fear](mind-feelings-fear.md).
 - These activities open a door for *massive* demonic influence and can often lead to possession.
-  - These experiences can pass to the third and fourth generations of a family ([Deuteronomy 5:8-10](https://biblehub.com/bsb/deuteronomy/5.htm)).
+  - These experiences can pass to the third and fourth generations of a family ([Deuteronomy 5:8-10](https://biblehub.com/deuteronomy/5.htm)).
 
 The Satan attacks any straggler sins believers may maintain:
 
@@ -108,10 +108,10 @@ If he can't destroy someone any longer, he'll find ways to entice and bring down
 
 The Satan only risks direct assault if someone directly observes spiritual activity without distraction:
 
-- The Satan's forces are keenly aware that Jesus has ultimate authority, so he only attacks when he has nothing left to lose ([Mark 5:6-7](https://biblehub.com/bsb/mark/5.htm)).
+- The Satan's forces are keenly aware that Jesus has ultimate authority, so he only attacks when he has nothing left to lose ([Mark 5:6-7](https://biblehub.com/mark/5.htm)).
 - To cure *any* curses, make specific prayer requests to Jesus for protection and healing ([Luke 9:1](https://biblehub.com/luke/9-1.htm)).
-- Even *Christians* risk experiencing curses ([Deuteronomy 29:24-28](https://biblehub.com/bsb/deuteronomy/29.htm)).
-- [Prayer and fasting](spiritual-exercises-prayer.md) is the most consistent, effective way to fight the Satan's forces ([Mark 9:14-29](https://biblehub.com/bsb/mark/9.htm)).
+- Even *Christians* risk experiencing curses ([Deuteronomy 29:24-28](https://biblehub.com/deuteronomy/29.htm)).
+- [Prayer and fasting](spiritual-exercises-prayer.md) is the most consistent, effective way to fight the Satan's forces ([Mark 9:14-29](https://biblehub.com/mark/9.htm)).
 
 A. Rule out the possibility of any physical issues:
 
@@ -196,7 +196,7 @@ Write down everything God brings to mind:
 
 ### Step 2 - Deception vs. Truth
 
-([John 8:32](https://biblehub.com/john/8-32.htm), [John 8:44](https://biblehub.com/john/8-44.htm), [1 John 1:8](https://biblehub.com/1_john/1-8.htm), [Ephesians 2:6](https://biblehub.com/ephesians/2-6.htm), [John 16:3](https://biblehub.com/john/16-3.htm), [Psalm 139:23-24](https://biblehub.com/bsb/psalms/139.htm))
+([John 8:32](https://biblehub.com/john/8-32.htm), [John 8:44](https://biblehub.com/john/8-44.htm), [1 John 1:8](https://biblehub.com/1_john/1-8.htm), [Ephesians 2:6](https://biblehub.com/ephesians/2-6.htm), [John 16:3](https://biblehub.com/john/16-3.htm), [Psalm 139:23-24](https://biblehub.com/psalms/139.htm))
 
 Pray for God to give you direct understanding of the truth:
 
@@ -210,7 +210,7 @@ Pray for God to give you direct understanding of the truth:
 
 ### Step 3 - Bitterness vs. Forgiveness
 
-([Romans 2:4](https://biblehub.com/romans/2-4.htm), [Matthew 18:35](https://biblehub.com/matthew/18-35.htm), [Matthew 5:23-24](https://biblehub.com/bsb/matthew/5.htm))
+([Romans 2:4](https://biblehub.com/romans/2-4.htm), [Matthew 18:35](https://biblehub.com/matthew/18-35.htm), [Matthew 5:23-24](https://biblehub.com/matthew/5.htm))
 
 Most of the Satan's victories in Christians come through unforgiveness:
 
@@ -231,10 +231,10 @@ Pray for the ability to forgive:
 
 Rebellion can be against many authority figures:
 
-- [Government authorities](rules-methods.md) ([Romans 13:1-5](https://biblehub.com/bsb/romans/13.htm), [1 Timothy 2:1-4](https://biblehub.com/bsb/1_timothy/2.htm), [1 Peter 2:13-16](https://biblehub.com/bsb/1_peter/2.htm))
-- [Parents](parenting-3_teenagers.md) ([Ephesians 6:1-3](https://biblehub.com/bsb/ephesians/6.htm))
-- [Husband](relationships-marriage.md) ([1 Peter 2:1-2](https://biblehub.com/bsb/1_peter/2.htm))
-- [Employer](jobs-1_why.md) ([1 Peter 2:18-21](https://biblehub.com/bsb/1_peter/2.htm))
+- [Government authorities](rules-methods.md) ([Romans 13:1-5](https://biblehub.com/romans/13.htm), [1 Timothy 2:1-4](https://biblehub.com/1_timothy/2.htm), [1 Peter 2:13-16](https://biblehub.com/1_peter/2.htm))
+- [Parents](parenting-3_teenagers.md) ([Ephesians 6:1-3](https://biblehub.com/ephesians/6.htm))
+- [Husband](relationships-marriage.md) ([1 Peter 2:1-2](https://biblehub.com/1_peter/2.htm))
+- [Employer](jobs-1_why.md) ([1 Peter 2:18-21](https://biblehub.com/1_peter/2.htm))
 - [Church leaders](mgmt-church.md) ([Hebrews 13:17](https://biblehub.com/hebrews/13-17.htm))
 
 Ask for God's forgiveness for your rebellion:
@@ -246,7 +246,7 @@ Ask for God's forgiveness for your rebellion:
 
 ### Step 5 - Pride vs. Humility
 
-([James 4:6-19](https://biblehub.com/bsb/james/4.htm), [1 Peter 5:1-10](https://biblehub.com/bsb/1_peter/5.htm), [Proverbs 16:18](https://biblehub.com/proverbs/16-18.htm), [Matthew 16:24](https://biblehub.com/matthew/16-24.htm), [Philippians 2:3](https://biblehub.com/philippians/2-3.htm), [Romans 12:10](https://biblehub.com/romans/12-10.htm))
+([James 4:6-19](https://biblehub.com/james/4.htm), [1 Peter 5:1-10](https://biblehub.com/1_peter/5.htm), [Proverbs 16:18](https://biblehub.com/proverbs/16-18.htm), [Matthew 16:24](https://biblehub.com/matthew/16-24.htm), [Philippians 2:3](https://biblehub.com/philippians/2-3.htm), [Romans 12:10](https://biblehub.com/romans/12-10.htm))
 
 Pride can arise in many regions of the mind:
 
@@ -280,7 +280,7 @@ For each of the areas that have been true in your life, pray out loud for forgiv
 
 ### Step 6 - Bondage vs. Freedom
 
-([James 5:16](https://biblehub.com/james/5-16.htm), [Romans 13:14](https://biblehub.com/romans/13-14.htm), [1 Peter 2:11](https://biblehub.com/1_peter/2-11.htm), [Romans 6:12-13](https://biblehub.com/bsb/romans/6.htm), [James 4:1](https://biblehub.com/james/4-1.htm), [1 Peter 5:8](https://biblehub.com/1_peter/5-8.htm), [1 John 1:9](https://biblehub.com/1_john/1-9.htm))
+([James 5:16](https://biblehub.com/james/5-16.htm), [Romans 13:14](https://biblehub.com/romans/13-14.htm), [1 Peter 2:11](https://biblehub.com/1_peter/2-11.htm), [Romans 6:12-13](https://biblehub.com/romans/6.htm), [James 4:1](https://biblehub.com/james/4-1.htm), [1 Peter 5:8](https://biblehub.com/1_peter/5-8.htm), [1 John 1:9](https://biblehub.com/1_john/1-9.htm))
 
 Pray for forgiveness from sinning:
 
@@ -290,7 +290,7 @@ Pray for forgiveness from sinning:
 - Entreat Him to acknowledge those sins and to seek His cleansing that you might be free from the bondage of sin.
 - Ask Him to reveal to your mind the ways that you've transgressed His moral law and grieved the Holy Spirit.
 
-#### Pray through [Galatians 5:19-21](https://biblehub.com/bsb/galatians/5.htm)
+#### Pray through [Galatians 5:19-21](https://biblehub.com/galatians/5.htm)
 
 Pray for sexual sins, sexual difficulties, and lack of intimacy in your marriage:
 
@@ -344,7 +344,7 @@ After confessing all known sins, pray a final confession:
 
 ### Step 7: Acquiescence vs. Renunciation
 
-([Exodus 20:4-5](https://biblehub.com/bsb/exodus/20.htm), [Galatians 3:13](https://biblehub.com/galatians/3-13.htm))
+([Exodus 20:4-5](https://biblehub.com/exodus/20.htm), [Galatians 3:13](https://biblehub.com/galatians/3-13.htm))
 
 Renounce your ancestors' sins and any curses they may have placed on you:
 
@@ -423,7 +423,7 @@ Pray specifically over your room:
 
 ## The Satan won't stop
 
-Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](spiritual-exercises-prayer.md) and keep [removing sins](morality-sins.md) ([Luke 11:24-26](https://biblehub.com/bsb/luke/11.htm)).
+Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](spiritual-exercises-prayer.md) and keep [removing sins](morality-sins.md) ([Luke 11:24-26](https://biblehub.com/luke/11.htm)).
 
 We must [contend with him](spiritual-warfare-tricks.md) until [the day Jesus comes back](jesus-returns.md).
 

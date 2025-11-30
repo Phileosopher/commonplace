@@ -190,3 +190,7 @@ Since we still often must use words, the text *itself* must also concretely conn
 - Use the same choice of words for specific commands (e.g., "Continue" vs. "Next", "Back" vs. "Previous", "Home" vs. "Main").
 
 Avoid using redundant text (e.g., "Enter your email and password" heading with "Your email address" above the entry).
+
+## More information
+
+[growth.design](https://growth.design/case-studies/)

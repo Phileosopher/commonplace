@@ -34,7 +34,7 @@ Multiplying 2-digit numbers by 11 involves adding the 2 digits together, then pl
 
 Multiplying and dividing decimals is easy:
 
-1. Move the decimals all the way to the right and count the number of places, which is effectively multiplying the entire operation by increments of 10 (e.g., 5.8 * 7.21 becomes 58 * 721 with 3 decimal places).
+1. Move the decimals all the way to the right and count the number of places, which is effectively multiplying the entire operation by increments of 10 (e.g., ``` 5.8 * 7.21 becomes 58 * 721 with 3 decimal places ```).
 2. Perform standard multiplication or division (e.g., 58 * 721 = 41,818).
 3. Put the decimal places back in, which is effectively dividing the entire operation by the same increments of 10 (e.g., 41,818 becomes 41.818).
 

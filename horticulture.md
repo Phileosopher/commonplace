@@ -319,7 +319,7 @@ If you're looking for more yield, you'll probably need to consider GMOs (genetic
 
 Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](mgmt-1_why.md) and [economics](economics.md).
 
-## Additional reading
+## More information
 
 [OpenFarm](https://openfarm.cc/)
 

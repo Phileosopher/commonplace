@@ -23,6 +23,15 @@ Inside an atom, the state of its electrons typically changes more than its nucle
 
 When released, electromagnetic energy radiates outward as measurable photon waves. These [waves have vast ranges](engineering-radio.md) with wavelengths from 1 picometer (0.0000000001 centimeter) as gamma rays up to 100 megameter (1,000,000 meters) as radio waves. Visible light are the photons between 380 and 750 nanometers (0.000038-0.000075 centimeters).
 
-## Further reading
+## More information
 
 [What's inside the proton?](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+
+Interactive games:
+
+- [Quantum Flytrap](https://quantumgame.io/)
+- [Quantum Marble Maze](https://fiftysevendegreesofrad.github.io/quantum/)
+
+Quantum entanglement:
+
+- [Quantum Roulette and the Nature of Reality](https://freelanceastro.github.io/bell/)

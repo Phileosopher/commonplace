@@ -17,8 +17,8 @@ Even without [the Bible](bible.md), we can still [logically](logic.md) conclude 
 
 God is unlike any other being in our experience:
 
-- [Psalm 113:5-6](https://biblehub.com/bsb/psalms/113.htm)
-- [Isaiah 55:8-9](https://biblehub.com/bsb/isaiah/55.htm)
+- [Psalm 113:5-6](https://biblehub.com/psalms/113.htm)
+- [Isaiah 55:8-9](https://biblehub.com/isaiah/55.htm)
 - [Isaiah 57:15](https://biblehub.com/isaiah/57-15.htm)
 - [John 8:23](https://biblehub.com/john/8-23.htm)
 
@@ -26,7 +26,7 @@ We [understand](understanding.md) God through theology (i.e., "knowledge of God"
 
 - God has an eternal and infinite nature, so we need a decent capacity for [philosophy](philosophy.md) to [understand His viewpoint](https://theologos.site/god-sight/).
   - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](jesus-gospel.md) ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm))
-- We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life ([1 Corinthians 13:9-12](https://biblehub.com/bsb/1_corinthians/13.htm)).
+- We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life ([1 Corinthians 13:9-12](https://biblehub.com/1_corinthians/13.htm)).
 - Thankfully, there are no intellectual barriers to [loving people](church-serve.md), meaning everyone can act in awareness of God.
 
 ## God is forever the same
@@ -44,9 +44,9 @@ God is self-existing:
 
 - [Exodus 3:14](https://biblehub.com/exodus/3-14.htm)
 - [Psalm 90:2](https://biblehub.com/psalms/90-2.htm)
-- [John 1:1-5](https://biblehub.com/bsb/john/1.htm)
+- [John 1:1-5](https://biblehub.com/john/1.htm)
 - [John 5:26](https://biblehub.com/john/5-26.htm)
-- [Colossians 1:15-17](https://biblehub.com/bsb/colossians/1.htm)
+- [Colossians 1:15-17](https://biblehub.com/colossians/1.htm)
 
 God is eternal:
 
@@ -65,15 +65,15 @@ God doesn't change, even from outside influences:
 
 God's attributes literally *define* love:
 
-- [Deuteronomy 7:7-8](https://biblehub.com/bsb/deuteronomy/7.htm)
+- [Deuteronomy 7:7-8](https://biblehub.com/deuteronomy/7.htm)
 - [John 14:31](https://biblehub.com/john/14-31.htm)
-- [Romans 5:5-8](https://biblehub.com/bsb/romans/5.htm)
-- [Romans 8:35-39](https://biblehub.com/bsb/romans/8.htm)
-- [1 John 4:8-16](https://biblehub.com/bsb/1_john/4.htm)
+- [Romans 5:5-8](https://biblehub.com/romans/5.htm)
+- [Romans 8:35-39](https://biblehub.com/romans/8.htm)
+- [1 John 4:8-16](https://biblehub.com/1_john/4.htm)
 
 God is good:
 
-- [Exodus 34:6-7](https://biblehub.com/bsb/exodus/34.htm)
+- [Exodus 34:6-7](https://biblehub.com/exodus/34.htm)
 - [Psalm 25:8](https://biblehub.com/psalms/25-8.htm)
 - [James 1:17](https://biblehub.com/james/1-17.htm)
 
@@ -88,24 +88,24 @@ God is gracious:
 
 God is nearby and actively involved:
 
-- [Jeremiah 23:23-24](https://biblehub.com/bsb/jeremiah/23.htm)
-- [Acts 17:27-28](https://biblehub.com/bsb/acts/17.htm)
+- [Jeremiah 23:23-24](https://biblehub.com/jeremiah/23.htm)
+- [Acts 17:27-28](https://biblehub.com/acts/17.htm)
 - [Haggai 2:5](https://biblehub.com/haggai/2-5.htm)
 
 ## Only God has the right and ability to deliver judgment
 
 God is holy, which means perfectly pure:
 
-- [Exodus 3:5-6](https://biblehub.com/bsb/exodus/3.htm)
-- [1 Samuel 2:2](https://biblehub.com/bsb/1_samuel/2.htm)
-- [Psalm 99:2-3](https://biblehub.com/bsb/psalms/99.htm)
+- [Exodus 3:5-6](https://biblehub.com/exodus/3.htm)
+- [1 Samuel 2:2](https://biblehub.com/1_samuel/2.htm)
+- [Psalm 99:2-3](https://biblehub.com/psalms/99.htm)
 - [Isaiah 6:3](https://biblehub.com/isaiah/6-3.htm)
 - [Revelation 4:8](https://biblehub.com/revelation/4-8.htm)
 
 God is righteous, which is holiness applied to [action](results.md):
 
 - [Genesis 18:25](https://biblehub.com/genesis/18-25.htm)
-- [Psalm 19:7-9](https://biblehub.com/bsb/psalms/19.htm)
+- [Psalm 19:7-9](https://biblehub.com/psalms/19.htm)
 - [Psalm 145:17](https://biblehub.com/psalms/145-17.htm)
 - [Jeremiah 9:24](https://biblehub.com/jeremiah/9-24.htm)
 
@@ -122,17 +122,17 @@ God [knows](understanding.md) everything:
 God is fair and [just](morality-justice.md):
 
 - [Genesis 18:25](https://biblehub.com/genesis/18-25.htm)
-[Exodus 34:6-7](https://biblehub.com/bsb/exodus/34.htm)
-- [Nehemiah 9:32-33](https://biblehub.com/bsb/nehemiah/9.htm)
+[Exodus 34:6-7](https://biblehub.com/exodus/34.htm)
+- [Nehemiah 9:32-33](https://biblehub.com/nehemiah/9.htm)
 - [Psalm 99:4](https://biblehub.com/psalms/99-4.htm)
 - [Romans 1:32](https://biblehub.com/romans/1-32.htm)
-- [Romans 9:14-33](https://biblehub.com/bsb/romans/9.htm)
+- [Romans 9:14-33](https://biblehub.com/romans/9.htm)
 - [1 Peter 1:17](https://biblehub.com/1_peter/1-17.htm)
 
 God is merciful:
 
 - [Psalm 6:4](https://biblehub.com/psalms/6-4.htm)
-- [Romans 9:23-24](https://biblehub.com/bsb/romans/9.htm)
+- [Romans 9:23-24](https://biblehub.com/romans/9.htm)
 - [Ephesians 2:4](https://biblehub.com/ephesians/2-4.htm)
 - [Titus 3:5](https://biblehub.com/titus/3-5.htm)
 - [Hebrews 4:16](https://biblehub.com/hebrews/4-16.htm)
@@ -151,10 +151,10 @@ God is [all-powerful](power.md):
 God is all-present:
 
 - [1 Kings 8:27](https://biblehub.com/1_kings/8-27.htm)
-- [Job 11:7-9](https://biblehub.com/bsb/job/11.htm)
-- [Psalm 90:1-2](https://biblehub.com/bsb/psalms/90.htm)
-- [Psalm 139:7-10](https://biblehub.com/bsb/psalms/139.htm)
-- [Jeremiah 23:23-24](https://biblehub.com/bsb/jeremiah/23.htm)
+- [Job 11:7-9](https://biblehub.com/job/11.htm)
+- [Psalm 90:1-2](https://biblehub.com/psalms/90.htm)
+- [Psalm 139:7-10](https://biblehub.com/psalms/139.htm)
+- [Jeremiah 23:23-24](https://biblehub.com/jeremiah/23.htm)
 - God isn't necessarily *in* everything, but He certainly can be anywhere He wants.
 
 ## God's characteristics and actions are *not* the same
@@ -179,8 +179,8 @@ Relative to us, He has many roles:
   - [Job 35:11](https://biblehub.com/job/35-11.htm)
   - [1 Corinthians 1:27](https://biblehub.com/1_corinthians/1-27.htm)
 - The Great Artist
-  - [Job 37:14-16](https://biblehub.com/bsb/job/37.htm)
-  - [Psalm 96:11-12](https://biblehub.com/bsb/psalms/96.htm)
+  - [Job 37:14-16](https://biblehub.com/job/37.htm)
+  - [Psalm 96:11-12](https://biblehub.com/psalms/96.htm)
   - [Ecclesiastes 3:11](https://biblehub.com/ecclesiastes/3-11.htm)
 - The Great Recordkeeper
   - [2 Samuel 14:11](https://biblehub.com/2_samuel/14-11.htm)
@@ -194,9 +194,9 @@ Relative to us, He has many roles:
 Jesus consistently claimed to be equal with God using an intentionally concealed tone:
 
 - [John 8:58](https://biblehub.com/john/8-58.htm)
-- [Mark 2:1-12](https://biblehub.com/bsb/mark/2.htm)
+- [Mark 2:1-12](https://biblehub.com/mark/2.htm)
 - [Mark 2:28](https://biblehub.com/mark/2-28.htm)
-- [Mark 14:60-64](https://biblehub.com/bsb/mark/14.htm)
+- [Mark 14:60-64](https://biblehub.com/mark/14.htm)
 
 Jesus is also, however, fully man:
 
@@ -239,9 +239,9 @@ God is a Father, a Son, and a Spirit
 - [Acts 5:3](https://biblehub.com/acts/5-3.htm)
 - [Acts 7:51](https://biblehub.com/acts/7-51.htm)
 - [Acts 8:39](https://biblehub.com/acts/8-39.htm)
-- [Acts 10:19-20](https://biblehub.com/bsb/acts/10.htm)
-- [Romans 8:26-27](https://biblehub.com/bsb/romans/8.htm)
-- [1 Corinthians 2:10-11](https://biblehub.com/bsb/1_corinthians/2.htm)
+- [Acts 10:19-20](https://biblehub.com/acts/10.htm)
+- [Romans 8:26-27](https://biblehub.com/romans/8.htm)
+- [1 Corinthians 2:10-11](https://biblehub.com/1_corinthians/2.htm)
 - [1 Corinthians 12:11](https://biblehub.com/1_corinthians/12-11.htm)
 - [Ephesians 4:30](https://biblehub.com/ephesians/4-30.htm)
 - [Hebrews 10:29](https://biblehub.com/hebrews/10-29.htm)
@@ -250,7 +250,7 @@ At least two persons of God (the Father and Son) are distinctly male.
 
 - Some metaphors express female attributes, but *very* rarely:
   - [Matthew 23:37](https://biblehub.com/matthew/23-37.htm)
-  - [Luke 15](https://biblehub.com/bsb/luke/15.htm)
+  - [Luke 15](https://biblehub.com/luke/15.htm)
 
 God is One, but also three unique people who are all the same God
 
@@ -271,7 +271,7 @@ Jesus is distinctly different from God:
 
 - ([John 1:1](https://biblehub.com/john/1-1.htm)
 - [John 1:14](https://biblehub.com/john/1-14.htm)
-- [John 4:25-26](https://biblehub.com/bsb/john/4.htm)
+- [John 4:25-26](https://biblehub.com/john/4.htm)
 - [John 8:24](https://biblehub.com/john/8-24.htm)
 - [John 10:30](https://biblehub.com/john/10-30.htm)
 - [1 John 5:7](https://biblehub.com/1_john/5-7.htm)).
@@ -280,7 +280,7 @@ At the same time, Jesus is the same as God:
 
 - [Isaiah 7:14](https://biblehub.com/isaiah/7-14.htm)
 - [Luke 2:21](https://biblehub.com/luke/2-21.htm)
-- [Colossians 2:9-10](https://biblehub.com/bsb/colossians/2.htm)
+- [Colossians 2:9-10](https://biblehub.com/colossians/2.htm)
 - [Hebrews 1:8](https://biblehub.com/hebrews/1-14.htm)
 - [1 Timothy 3:16](https://biblehub.com/1_timothy/3-16.htm)
 
@@ -343,13 +343,13 @@ God isn't [conventional](habits.md) or [predictable](imagination.md).
 
 God isn't simply a cosmic energy or "in all of us".
 
-## Further Reading
+## More information
 
-God's Names
+God's names:
 
 - [The Names of Jesus - Elmer Towns](https://ntslibrary.com/PDF%20Books/The_Names_Of_Jesus%5BETowns%5D.pdf)
 - [The Names of the Holy Spirit - Elmer Towns](https://www.ntslibrary.com/PDF%20Books/The_Names_Of_The_HolySpirit[ETowns].pdf)
 
-In-depth
+In-depth analysis:
 
 - [On the Holy Trinity; Doctrinal Treatises; Moral Treatises - Compilation](https://www.ccel.org/ccel/schaff/npnf103.html)

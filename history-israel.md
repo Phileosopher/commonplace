@@ -9,12 +9,12 @@ For the sake of a well-rounded education, every Christian should eventually be a
 
 ## Ancient Times
 
-The first promise given to Abraham has a greater reach, and simply says God will make Abram a great nation ([Genesis 12:1-3](https://biblehub.com/bsb/genesis/12.htm)).
+The first promise given to Abraham has a greater reach, and simply says God will make Abram a great nation ([Genesis 12:1-3](https://biblehub.com/genesis/12.htm)).
 
-- The promises about blessings and curses very well may apply to Christians, at least to some extent ([John 15:1-8](https://biblehub.com/bsb/john/15.htm)).
-- However, those promises aren't *completely* transferable ([Numbers 24:2-9](https://biblehub.com/bsb/numbers/24.htm)).
+- The promises about blessings and curses very well may apply to Christians, at least to some extent ([John 15:1-8](https://biblehub.com/john/15.htm)).
+- However, those promises aren't *completely* transferable ([Numbers 24:2-9](https://biblehub.com/numbers/24.htm)).
 
-The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel-1875.jpg) ([Genesis 15:18-19](https://biblehub.com/bsb/genesis/15.htm)).
+The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel-1875.jpg) ([Genesis 15:18-19](https://biblehub.com/genesis/15.htm)).
 
 - This was approximately 1875 BC.
 - He was promised to take over the land of the Kenites, Kennizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites, Canaanites, Girgashites, and Jebusites.

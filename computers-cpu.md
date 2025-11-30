@@ -139,7 +139,7 @@ There are attempts at creating affordable, flexible plastic 32-bit chips. They w
 
 The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
 
-## Further Learning
+## More information
 
 [nand2tetris](https://www.nand2tetris.org/) Part 1 is a definite recommendation, and there are several implementations of it:
 

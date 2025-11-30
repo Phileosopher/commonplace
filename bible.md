@@ -4,14 +4,14 @@
 [Nature](reality.md) and [science](science.md) provides *some* insight about God:
 
 - Nature shows God's presence:
-  - [Psalm 8:3-4](https://biblehub.com/bsb/psalms/8.htm)
-  - [Romans 1:19-20](https://biblehub.com/bsb/romans/1.htm)
+  - [Psalm 8:3-4](https://biblehub.com/psalms/8.htm)
+  - [Romans 1:19-20](https://biblehub.com/romans/1.htm)
 - We can see God's design and creative capacity in nature.
 - Most nature is irreducibly complex, meaning organisms didn't appear by random permutation.
 
 God made the universe but isn't a part of it:
 
-- [1 Kings 19:11-12](https://biblehub.com/bsb/1_kings/19.htm)
+- [1 Kings 19:11-12](https://biblehub.com/1_kings/19.htm)
 
 We have enough evidence of *something* that made nature, so we have no reason to reject this Creator as existing.
 
@@ -27,7 +27,7 @@ The Bible is 66 books written across 2,000 years by 27 authors, with the Catholi
 
 The Bible is inspired by God through people, without personal or [political](politics-conservativeliberal.md) bias
 
-- [2 Peter 1:20-21](https://biblehub.com/bsb/2_peter/1.htm)
+- [2 Peter 1:20-21](https://biblehub.com/2_peter/1.htm)
 - Most of the biblical inconsistencies are either false extrapolations or [false attribution](people-conflicts-christian-why.md).
 - Remarkably, even when the precise words differ between translations, it maintains the same core ideas and spirit.
 
@@ -52,11 +52,11 @@ Torah:
 - Canonized around 500 BC.
 - Gives an introduction to the Israelite people, gives the Jewish Law, and sets a covenant with them as God's chosen people.
 - The first 5 books:
-  - [Genesis](https://biblehub.com/bsb/genesis/1.htm)
-  - [Exodus](https://biblehub.com/bsb/exodus/1.htm)
-  - [Leviticus](https://biblehub.com/bsb/leviticus/1.htm)
-  - [Numbers](https://biblehub.com/bsb/numbers/1.htm)
-  - [Deuteronomy](https://biblehub.com/bsb/deuteronomy/1.htm)
+  - [Genesis](https://biblehub.com/genesis/1.htm)
+  - [Exodus](https://biblehub.com/exodus/1.htm)
+  - [Leviticus](https://biblehub.com/leviticus/1.htm)
+  - [Numbers](https://biblehub.com/numbers/1.htm)
+  - [Deuteronomy](https://biblehub.com/deuteronomy/1.htm)
 
 Nevi'im:
 
@@ -64,25 +64,25 @@ Nevi'im:
 - Continues to admonish the Israelite people as they consistently break the Law and suffer its consequences.
 
 1. The Former Prophets
-   - [Joshua](https://biblehub.com/bsb/joshua/1.htm)/[Judges](https://biblehub.com/bsb/judges/1.htm)
-   - [Samuel](https://biblehub.com/bsb/1_samuel/1.htm) ([split in half](https://biblehub.com/bsb/2_samuel/1.htm) for convenience)
-   - [Kings](https://biblehub.com/bsb/1_kings/1.htm) ([split in half](https://biblehub.com/bsb/2_kings/1.htm) for convenience)
-   - [Isaiah](https://biblehub.com/bsb/isaiah/1.htm)
-   - [Jeremiah](https://biblehub.com/bsb/jeremiah/1.htm)
-   - [Ezekiel](https://biblehub.com/bsb/ezekiel/1.htm)
+   - [Joshua](https://biblehub.com/joshua/1.htm)/[Judges](https://biblehub.com/judges/1.htm)
+   - [Samuel](https://biblehub.com/1_samuel/1.htm) ([split in half](https://biblehub.com/2_samuel/1.htm) for convenience)
+   - [Kings](https://biblehub.com/1_kings/1.htm) ([split in half](https://biblehub.com/2_kings/1.htm) for convenience)
+   - [Isaiah](https://biblehub.com/isaiah/1.htm)
+   - [Jeremiah](https://biblehub.com/jeremiah/1.htm)
+   - [Ezekiel](https://biblehub.com/ezekiel/1.htm)
 2. The Latter 12 Minor Prophets
-   - [Hosea](https://biblehub.com/bsb/hosea/1.htm)
-   - [Joel](https://biblehub.com/bsb/joel/1.htm)
-   - [Amos](https://biblehub.com/bsb/amos/1.htm)
-   - [Obadiah](https://biblehub.com/bsb/obadiah/1.htm)
-   - [Jonah](https://biblehub.com/bsb/jonah/1.htm)
-   - [Micah](https://biblehub.com/bsb/micah/1.htm)
-   - [Nahum](https://biblehub.com/bsb/nahum/1.htm)
-   - [Habakkuk](https://biblehub.com/bsb/habakkuk/1.htm)
-   - [Zephaniah](https://biblehub.com/bsb/zephaniah/1.htm)
-   - [Haggai](https://biblehub.com/bsb/haggai/1.htm)
-   - [Zechariah](https://biblehub.com/bsb/zechariah/1.htm)
-   - [Malachi](https://biblehub.com/bsb/malachi/1.htm)).
+   - [Hosea](https://biblehub.com/hosea/1.htm)
+   - [Joel](https://biblehub.com/joel/1.htm)
+   - [Amos](https://biblehub.com/amos/1.htm)
+   - [Obadiah](https://biblehub.com/obadiah/1.htm)
+   - [Jonah](https://biblehub.com/jonah/1.htm)
+   - [Micah](https://biblehub.com/micah/1.htm)
+   - [Nahum](https://biblehub.com/nahum/1.htm)
+   - [Habakkuk](https://biblehub.com/habakkuk/1.htm)
+   - [Zephaniah](https://biblehub.com/zephaniah/1.htm)
+   - [Haggai](https://biblehub.com/haggai/1.htm)
+   - [Zechariah](https://biblehub.com/zechariah/1.htm)
+   - [Malachi](https://biblehub.com/malachi/1.htm).
 
 Ketuvim:
 
@@ -90,19 +90,19 @@ Ketuvim:
 - Continues the theme of a Messiah coming to redeem the Israelites from bondage, which persists through their exile to Babylon.
 
 1. Poetic Books:
-   - [Psalms](https://biblehub.com/bsb/psalms/1.htm)
-   - [Proverbs](https://biblehub.com/bsb/proverbs/1.htm)
-   - [Job](https://biblehub.com/bsb/job/1.htm)
+   - [Psalms](https://biblehub.com/psalms/1.htm)
+   - [Proverbs](https://biblehub.com/proverbs/1.htm)
+   - [Job](https://biblehub.com/job/1.htm)
 2. Five Scrolls:
-   - [Song of Songs](https://biblehub.com/bsb/songs/1.htm)
-   - [Ruth](https://biblehub.com/bsb/ruth/1.htm)
-   - [Lamentations](https://biblehub.com/bsb/lamentations/1.htm)
-   - [Ecclesiastes](https://biblehub.com/bsb/ecclesiastes/1.htm)
-   - [Esther](https://biblehub.com/bsb/esther/1.htm)
+   - [Song of Songs](https://biblehub.com/songs/1.htm)
+   - [Ruth](https://biblehub.com/ruth/1.htm)
+   - [Lamentations](https://biblehub.com/lamentations/1.htm)
+   - [Ecclesiastes](https://biblehub.com/ecclesiastes/1.htm)
+   - [Esther](https://biblehub.com/esther/1.htm)
 3. Others:
-   - [Daniel](https://biblehub.com/bsb/daniel/1.htm)
-   - [Ezra](https://biblehub.com/bsb/ezra/1.htm)/[Nehemiah](https://biblehub.com/bsb/nehemiah/1.htm)
-   - [Chronicles](https://biblehub.com/bsb/1_chronicles/1.htm) ([split in half](https://biblehub.com/bsb/2_chronicles/1.htm) for convenience)
+   - [Daniel](https://biblehub.com/daniel/1.htm)
+   - [Ezra](https://biblehub.com/ezra/1.htm)/[Nehemiah](https://biblehub.com/nehemiah/1.htm)
+   - [Chronicles](https://biblehub.com/1_chronicles/1.htm) ([split in half](https://biblehub.com/2_chronicles/1.htm) for convenience)
 
 ## New Testament
 
@@ -113,40 +113,40 @@ The New Testament is made of 27 letters written in Greek (except for the book of
 The Four Gospels - four accounts of Jesus' life:
 
 - Three "synoptic" Gospels (i.e., sharing the same point of view):
-  - [Matthew's](https://biblehub.com/bsb/matthew/1.htm)
-  - [Mark's](https://biblehub.com/bsb/mark/1.htm)
-  - [Luke's](https://biblehub.com/bsb/luke/1.htm)
-- [John's](https://biblehub.com/bsb/john/1.htm), which was written later
+  - [Matthew's](https://biblehub.com/matthew/1.htm)
+  - [Mark's](https://biblehub.com/mark/1.htm)
+  - [Luke's](https://biblehub.com/luke/1.htm)
+- [John's](https://biblehub.com/john/1.htm), which was written later
 
 Luke's account of the events immediately following Jesus' resurrection:
 
-- [Acts of the Apostles](https://biblehub.com/bsb/acts/1.htm):
+- [Acts of the Apostles](https://biblehub.com/acts/1.htm):
 
 Epistles:
 
 - General Epistles written for a broad audience:
-  - 1 from [James](https://biblehub.com/bsb/james/1.htm)
-  - 2 from [Peter](https://biblehub.com/bsb/1_peter/1.htm)
-  - 3 from [John](https://biblehub.com/bsb/1_john/1.htm)
-  - 1 from [Jude](https://biblehub.com/bsb/jude/1.htm)
+  - 1 from [James](https://biblehub.com/james/1.htm)
+  - 2 from [Peter](https://biblehub.com/1_peter/1.htm)
+  - 3 from [John](https://biblehub.com/1_john/1.htm)
+  - 1 from [Jude](https://biblehub.com/jude/1.htm)
 - Paul's Epistles written to various churches:
-  - [Rome](https://biblehub.com/bsb/romans/1.htm)
-  - [Corinth](https://biblehub.com/bsb/1_corinthians/1.htm) ([twice](https://biblehub.com/bsb/2_corinthians/1.htm))
-  - [Galatia](https://biblehub.com/bsb/galatians/1.htm)
-  - [Ephesus](https://biblehub.com/bsb/ephesians/1.htm)
-  - [Philippi](https://biblehub.com/bsb/philippians/1.htm)
-  - [Colossae](https://biblehub.com/bsb/colossians/1.htm)
-  - [Thessaloniki](https://biblehub.com/bsb/1_thessalonians/1.htm) ([twice](https://biblehub.com/bsb/2_thessalonians/1.htm))
+  - [Rome](https://biblehub.com/romans/1.htm)
+  - [Corinth](https://biblehub.com/1_corinthians/1.htm) ([twice](https://biblehub.com/2_corinthians/1.htm))
+  - [Galatia](https://biblehub.com/galatians/1.htm)
+  - [Ephesus](https://biblehub.com/ephesians/1.htm)
+  - [Philippi](https://biblehub.com/philippians/1.htm)
+  - [Colossae](https://biblehub.com/colossians/1.htm)
+  - [Thessaloniki](https://biblehub.com/1_thessalonians/1.htm) ([twice](https://biblehub.com/2_thessalonians/1.htm))
 - A letter written to Jews by an unknown author:
-  - [Hebrews](https://biblehub.com/bsb/hebrews/1.htm)
+  - [Hebrews](https://biblehub.com/hebrews/1.htm)
 - Pastor's training epistles by Paul to specific people:
-  - [Timothy](https://biblehub.com/bsb/1_timothy/1.htm) ([twice](https://biblehub.com/bsb/2_timothy/1.htm))
-  - [Titus](https://biblehub.com/bsb/titus/1.htm)
-  - [Philemon](https://biblehub.com/bsb/philemon/1.htm)
+  - [Timothy](https://biblehub.com/1_timothy/1.htm) ([twice](https://biblehub.com/2_timothy/1.htm))
+  - [Titus](https://biblehub.com/titus/1.htm)
+  - [Philemon](https://biblehub.com/philemon/1.htm)
 
 A letter to seven churches, followed by prophecies of [how this age will end](jesus-returns.md):
 
-- [The Apocalypse of John, or the Book of Revelation](https://biblehub.com/bsb/revelation/1.htm)
+- [The Apocalypse of John, or the Book of Revelation](https://biblehub.com/revelation/1.htm)
 
 ## Apocrypha/Deuterocanon
 
@@ -212,7 +212,7 @@ For a host of reasons at the time, the Christian leaders of the time didn't admi
 
 ## The Bible couldn't have been man-made
 
-The Jews, as God's chosen people ([Deuteronomy 7:6-8](https://biblehub.com/bsb/deuteronomy/7.htm), have been extremely meticulous transcribing the Old Testament, even across multiple genocides and invasions.
+The Jews, as God's chosen people ([Deuteronomy 7:6-8](https://biblehub.com/deuteronomy/7.htm), have been extremely meticulous transcribing the Old Testament, even across multiple genocides and invasions.
 
 - One recent evidence for the Jews' accuracy is the discovery of the Dead Sea Scrolls in the 1940s and 1950s.
 
@@ -254,46 +254,46 @@ Archaeological evidence consistently and frequently proves the Bible's authentic
 Many passages predicted Israel's status:
 
 - [Israel](history-israel.md) would lose its land by being conquered twice, have no official government, then return later in one day:
-  - [Deuteronomy 29](https://biblehub.com/bsb/deuteronomy/29.htm)
-  - [Hosea 3:4-5](https://biblehub.com/bsb/hosea/3.htm)
+  - [Deuteronomy 29](https://biblehub.com/deuteronomy/29.htm)
+  - [Hosea 3:4-5](https://biblehub.com/hosea/3.htm)
   - [Hosea 6:1](https://biblehub.com/hosea/6-1.htm)
   - [Ezekiel 20:34](https://biblehub.com/ezekiel/20-34.htm)
-  - [Isaiah 11:11-13](https://biblehub.com/bsb/isaiah/11.htm)
-  - [Isaiah 43:5-21](https://biblehub.com/bsb/isaiah/43.htm)
+  - [Isaiah 11:11-13](https://biblehub.com/isaiah/11.htm)
+  - [Isaiah 43:5-21](https://biblehub.com/isaiah/43.htm)
   - [Isaiah 66:8](https://biblehub.com/isaiah/66-8.htm)
   - [Jeremiah 25:11](https://biblehub.com/jeremiah/25-11.htm)
   - [Jeremiah 32:44](https://biblehub.com/jeremiah/32-44.htm)
-  - [Luke 21:23-24](https://biblehub.com/bsb/luke/21.htm)
+  - [Luke 21:23-24](https://biblehub.com/luke/21.htm)
 - One man would rebuild Jericho and lose his oldest son when starting construction and his youngest son when completing it
   - [Joshua 6:26](https://biblehub.com/joshua/6-26.htm)
-  - [1 Kings 16:33-34](https://biblehub.com/bsb/1_kings/16.htm)
+  - [1 Kings 16:33-34](https://biblehub.com/1_kings/16.htm)
 - Israel would regain its agriculture and ecosystem
   - [Isaiah 26:6](https://biblehub.com/isaiah/26-6.htm)
-  - [Isaiah 35:1-2](https://biblehub.com/bsb/isaiah/35.htm)
+  - [Isaiah 35:1-2](https://biblehub.com/isaiah/35.htm)
 - Israel would form again with a pure language
-  - [Zephaniah 3:8-10](https://biblehub.com/bsb/zephaniah/3.htm)
+  - [Zephaniah 3:8-10](https://biblehub.com/zephaniah/3.htm)
 - Israel would adopt the shekel as currency again
-  - [Ezekiel 45:12-16](https://biblehub.com/bsb/ezekiel/45.htm)
+  - [Ezekiel 45:12-16](https://biblehub.com/ezekiel/45.htm)
 - All ancient names and settlements would return
   - [Ezekiel 36:11](https://biblehub.com/ezekiel/36-11.htm)
   - [Ezekiel 36:24](https://biblehub.com/ezekiel/36-24.htm)
 - Israel's nine suburbs would rebuild in specific locations and specific chronological order
-  - [Jeremiah 31:38-40](https://biblehub.com/bsb/jeremiah/9.htm)
+  - [Jeremiah 31:38-40](https://biblehub.com/jeremiah/9.htm)
 - Three cities would remain in ruins
-  - [Matthew 11:21-23](https://biblehub.com/bsb/matthew/11.htm)
+  - [Matthew 11:21-23](https://biblehub.com/matthew/11.htm)
 - Though Edom (now a part of Jordan) was once a fertile area, it would become a barren wasteland
-  - [Jeremiah 49:15-20](https://biblehub.com/bsb/jeremiah/49.htm)
-  - [Ezekiel 25:12-14](https://biblehub.com/bsb/ezekiel/25.htm)
+  - [Jeremiah 49:15-20](https://biblehub.com/jeremiah/49.htm)
+  - [Ezekiel 25:12-14](https://biblehub.com/ezekiel/25.htm)
 
 Babylon was considered impenetrable at the time, but the Bible predicted its fall:
 
-- [Isaiah 13:17-22](https://biblehub.com/bsb/isaiah/13.htm)
-- [Jeremiah 51:26,43](https://biblehub.com/bsb/jeremiah/51.htm)
+- [Isaiah 13:17-22](https://biblehub.com/isaiah/13.htm)
+- [Jeremiah 51:26,43](https://biblehub.com/jeremiah/51.htm)
 
 Isaiah predicted that Cyrus would overtake Babylon and liberate the Jews exiled at the time:
 
 - [Isaiah 44:28](https://biblehub.com/isaiah/44-28.htm)
-- [Isaiah 45:1,13](https://biblehub.com/bsb/isaiah/45.htm)
+- [Isaiah 45:1,13](https://biblehub.com/isaiah/45.htm)
 
 Jesus' coming had [*hundreds* more prophecies fulfilled](jesus-prophecies.md).
 

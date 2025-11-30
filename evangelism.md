@@ -9,7 +9,7 @@ Sharing Jesus is a lifestyle [decision](people-decisions.md) that comes from [un
 
 Evangelism is for everyone.
 
-- The angels could do a better job than Christians, but God wants believers to share in the experience ([Luke 1:11-20](https://biblehub.com/bsb/luke/1.htm), [Acts 1:10-11](https://biblehub.com/bsb/acts/1.htm)).
+- The angels could do a better job than Christians, but God wants believers to share in the experience ([Luke 1:11-20](https://biblehub.com/luke/1.htm), [Acts 1:10-11](https://biblehub.com/acts/1.htm)).
 - Any Christian can share the Gospel, even right after becoming one, and can simply be a 2-minute conversation.
 - God will place people close to your skill level for sharing, so don't worry about fouling it up.
 
@@ -45,7 +45,7 @@ We frequently overlook opportunities to share Jesus.
 
 Most people won't care about what you have to say until they've seen evidence of you changing.
 
-Expect dramatic [conflict](people-conflicts.md) ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+Expect dramatic [conflict](people-conflicts.md) ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 
 - If any pre-conversion friends *also* convert to Christ, it's usually long after they've parted ways with you.
 
@@ -103,7 +103,7 @@ Don't obsess about appearing professional, precise, or [convincing](power-influe
 
 ## Spiritual conversations
 
-[Make casual friendships](people-friends.md) with non-believers and seek opportunities to serve your neighbors ([Mark 12:28-31](https://biblehub.com/bsb/mark/12.htm)).
+[Make casual friendships](people-friends.md) with non-believers and seek opportunities to serve your neighbors ([Mark 12:28-31](https://biblehub.com/mark/12.htm)).
 
 Spiritual discussions inspire [spiritual attention](spiritual-warfare.md).
 
@@ -123,13 +123,13 @@ Behave as [politely and respectfully](people-boundaries.md) as possible with eve
 
 Fit your presentations with the culture.
 
-- In Jesus' day, society permitted open-air preaching ([Acts 2:14-36](https://biblehub.com/bsb/acts/2.htm)).
+- In Jesus' day, society permitted open-air preaching ([Acts 2:14-36](https://biblehub.com/acts/2.htm)).
   - Open-air preaching is actually *harmful* to the Gospel in societies that value privacy.
 - Find [creative](mind-creativity.md) ways to share the Gospel:
   - Open a booth at an event to advertise fulfillment and meaning, then share the Gospel to anyone who wants to hear.
   - Print, make or buy small tracts you can give to others.
   - Always keep copies of the Bible or [pocket Gospel presentations](http://www.ptl.org) with you.
-- However, sharing with people will *never* influence anyone as much as helping them with what they need because you love them ([1 Corinthians 13:1-3](https://biblehub.com/bsb/1_corinthians/13.htm)).
+- However, sharing with people will *never* influence anyone as much as helping them with what they need because you love them ([1 Corinthians 13:1-3](https://biblehub.com/1_corinthians/13.htm)).
 
 A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to dislike [persuasive messages](power-influence.md), but won't mind you sharing your personal experience.
 
@@ -140,7 +140,7 @@ A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to
 - If they're still interested, ask them if they mind you using your Bible.
 - Walk them through the [basics of salvation](jesus-gospel.md) and either drop it or pray with them as the situation permits.
 
-God calls us to make [disciples](spiritual-discipleship.md), *not* fix the world ([Matthew 28:19-20](https://biblehub.com/bsb/matthew/28.htm)).
+God calls us to make [disciples](spiritual-discipleship.md), *not* fix the world ([Matthew 28:19-20](https://biblehub.com/matthew/28.htm)).
 
 - The humanitarian needs in this world are severe, but only Jesus can solve them (and [He eventually will](https://theologos.site/millennium/)).
 - Jesus came to fix the sin condition, which has caused *all* the world's issues.
@@ -163,7 +163,7 @@ Pay very, *very* close attention to what anyone has to say about what you're sha
 
 *Never*, *ever* try to force a conversion.
 
-- [Identifying with Christ](identity.md) requires a long-term commitment to give up *everything* ([Matthew 10:39](https://www.bible.com/bible/206/mat.10.39)), which is too much of a sacrifice for most people ([Matthew 7:13-14](https://biblehub.com/bsb/matthew/7.htm)).
+- [Identifying with Christ](identity.md) requires a long-term commitment to give up *everything* ([Matthew 10:39](https://www.bible.com/bible/206/mat.10.39)), which is too much of a sacrifice for most people ([Matthew 7:13-14](https://biblehub.com/matthew/7.htm)).
 - Successfully converting someone to Christianity in a fit of [emotional intensity](mind-feelings.md) will *not* create good [disciples](spiritual-discipleship.md) ([Matthew 13:5](https://biblehub.com/matthew/13-5.htm)).
   - A non-believer typically needs to hear the Gospel message about 12 times before they convert.
 - Christians who give a sense of urgency in an evangelistic presentation don't trust God will protect them if He has plans for them ([Matthew 6:26](https://biblehub.com/matthew/6-26.htm)).
@@ -249,7 +249,7 @@ Your *[ministry](mgmt-church.md)* may attempt to address a problem in the world,
 
 By honoring authority, you're showing the world how we should honor God.
 
-- God told us to honor them, irrespective of whether they hate or love Christians ([Luke 6:27-36](https://biblehub.com/bsb/luke/6.htm)).
+- God told us to honor them, irrespective of whether they hate or love Christians ([Luke 6:27-36](https://biblehub.com/luke/6.htm)).
 - A permissive government provides opportunities to share the Gospel message, but an oppressive government gives room for God to work through Christians prevailing over hardship.
 - The world's laws were designed for the wicked, so believers have nothing to fear ([1 Timothy 1:8-10](https://biblehub.com/1_timothy/1.htm)).
 
@@ -266,16 +266,16 @@ Don't stop appropriately sharing the Gospel.
 
 It's awful [optics](marketing.md) and detrimental to the Gospel message to use [political activism](power-types.md) tactics (e.g., publicly screaming, making demands).
 
-- [Jesus died for everyone](jesus-gospel.md), and takes it *very* personally when people are mistreated ([Matthew 25:41-45](https://biblehub.com/bsb/matthew/25.htm)).
+- [Jesus died for everyone](jesus-gospel.md), and takes it *very* personally when people are mistreated ([Matthew 25:41-45](https://biblehub.com/matthew/25.htm)).
 
 Sins like homosexuality aren't necessarily worse than fornication or adultery.
 
 - Homosexuality and every other variety of sexual deviation need Jesus and the Gospel as much as everyone else.
-- Even the most dogmatic Christians tend to fail at seeing that homosexuality simply God permitting a symptom of self-worship ([Romans 1:22-28](https://biblehub.com/bsb/romans/1.htm)).
+- Even the most dogmatic Christians tend to fail at seeing that homosexuality simply God permitting a symptom of self-worship ([Romans 1:22-28](https://biblehub.com/romans/1.htm)).
 
 Take a stand against abortion, suicide, and murder.
 
-- Life is God's creation, and every person is an image of God ([Genesis 1:27](https://biblehub.com/bsb/genesis/1.htm)).
+- Life is God's creation, and every person is an image of God ([Genesis 1:27](https://biblehub.com/genesis/1.htm)).
 - Outside of fulfilling [justice](morality-justice.md), only God is entitled to give or take it away.
 - Instead of protesting or condemning abortion, adopt the children or help them find good homes.
 
@@ -316,7 +316,7 @@ Most Christians can stand for many civil rights, they must only do it within the
 Christianity has a complex, predictable pattern with all authority:
 
 1. Leaders tolerate Christians until they interfere with those leaders' power.
-2. Christians are called to submit to both God and anyone He sets in authority, even under heavy persecution ([Romans 13](https://biblehub.com/bsb/romans/13.htm)).
+2. Christians are called to submit to both God and anyone He sets in authority, even under heavy persecution ([Romans 13](https://biblehub.com/romans/13.htm)).
 3. Over time, a successful Christian presence creates a [politically relevant](politics-conservativeliberal.md) minority.
 4. After many years, Christians are eventually in [high-ranking leadership](groups-large.md) roles.
 5. Christian [values](values.md) slowly [trend](trends.md) into public opinion.

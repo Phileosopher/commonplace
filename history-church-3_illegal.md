@@ -5,7 +5,7 @@ Naturally, some believers were more [educated](education.md) or gifted than othe
 
 Politically, Rome didn't know what to do with them. They stubbornly honored their beliefs in God (which defied the [Roman pantheon](religion.md)), but they were *excellent* Roman citizens. Their general approach was to leave them alone, but heavily persecute them for *any* law they may potentially have broken.
 
-In 62 AD, Rome had a massive fire, potentially set by the Roman emperor Nero, who blamed Christians for the fire. This forced *heavy* persecution on the Christians, and their response created *massive* influence as they were scattered across the Roman Empire.
+In 64 AD, Rome had a massive fire, potentially set by the Roman emperor Nero, who blamed Christians for the fire. This forced *heavy* persecution on the Christians, and their response created *massive* influence as they were scattered across the Roman Empire.
 
 The Christian Church was *not* popular with Rome, and had been at least partly attributed to why Rome had fallen as an empire. This became *especially* toxic for Christians between the death of Marcus Aurelius in 180 and the rise of Diocletian in 284.
 

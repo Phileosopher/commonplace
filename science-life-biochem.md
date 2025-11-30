@@ -37,14 +37,15 @@ Depending on the belief system, the taxonomy is dramatically different:
 
 While we've sequenced the genome to measure where various traits are located, we haven't *completely* sequenced it. Instead, as of 2023, we still use "shotgun sequencing", which involves grabbing chunks of gene sequences and using [statistics](math-stat.md) to model the rest.
 
-Further reading:
-
-- [How does natural selection work?](https://rupertdeese.com/posts/critters/)
-- [What is genomics?](https://learngenomics.dev/)
-
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - Will we ever fully cure cancer?
 - Why do we have blood types?
 - How long can we possibly live?
 - What do probiotics do?
+
+## More information
+
+[How does natural selection work?](https://rupertdeese.com/posts/critters/)
+
+[What is genomics?](https://learngenomics.dev/)

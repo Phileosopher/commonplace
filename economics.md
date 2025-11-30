@@ -304,6 +304,6 @@ Friedrich Hayek's values, on the other hand, adhere to the belief that output an
 
 APPLICATION: Anyone who praises how well capitalism works should have some awareness that it only works because of the selfish [moral state](morality.md) of [human nature](humanity.md). It proves how despicable our natural state is and should lead us to some level of individual repentance. It tends to create [class divisions](classes.md) as an inherent nature, and the weakest or least qualified will often suffer under capitalist societies that honor the presence of the free market. Unfortunately, [all other alternatives](politics-systems.md) are worse.
 
-## Additional reading
+## More information
 
-[Building an economy simulator from scratch](https://thomassimon.dev/ps/4) - a reductionist computer simulation from the ground up
+[Building an economy simulator from scratch](https://thomassimon.dev/ps/4)

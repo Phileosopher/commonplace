@@ -153,7 +153,7 @@ Jehovah's Witnesses - founded through the Watchtower Society in 1879 by Charles 
   - The Watchtower Society regularly produces publications that declare themselves as having the most biblical authority and interpretation of any published work.
   - Jesus was simply created *by* Jehovah as the "firstborn", and isn't God or part of a Trinity.
   - The Trinity doctrine is inspired directly by Satan.
-  - The only people who receive salvation are 144,000 selected people by God in [Revelation 14:1-5](https://biblehub.com/bsb/revelation/14.htm), and not simply people who will prevail through the rest of those 21 judgments.
+  - The only people who receive salvation are 144,000 selected people by God in [Revelation 14:1-5](https://biblehub.com/revelation/14.htm), and not simply people who will prevail through the rest of those 21 judgments.
   - There is no hell, simply the soul's disappearance.
   - Nobody will see Jesus return.
 - Incriminating evidence:
@@ -265,7 +265,7 @@ Atheism 2.0 - provoked by Alain de Botton in 2012 but previously explored in the
   - The realm of [science](science.md) holds the greatest authority for mankind.
   - The values contained within religious doctrine must be extracted from all faith-based ideologies.
   - Atheism must substitute *all* religion with secularized distillations of calendars, [art](mind-creativity.md), [speech](language-speaking.md), [propaganda](stories-storytellers.md), [gathering](groups-small.md), and [collaborative works](creations.md).
-  - Atheists in the scientific community have used various tactics to justify *all* supernatural events, including God's flood in [Genesis 7-8](https://biblehub.com/bsb/genesis/7.htm) (most recently, a large meteor) and explain where all life came from.
+  - Atheists in the scientific community have used various tactics to justify *all* supernatural events, including God's flood in [Genesis 7-8](https://biblehub.com/genesis/7.htm) (most recently, a large meteor) and explain where all life came from.
 - Incriminating evidence:
   - Relative to most religious groups, most of the atheistic communities on the internet are relatively unkind, unpleasant, and critical.
   - Atheists' insistence of science as a rigor is a dogmatic validation of the published works of scientific journals, *not* the [gathered body of knowledge](science.md) according to [what can be empirically proven](science.md).

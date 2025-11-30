@@ -1,7 +1,7 @@
 
 # How Christians should see family
 
-As a believer, you have a new [family](people-family.md) by relation through Jesus ([Matthew 12:48-50](https://biblehub.com/bsb/matthew/12.htm)).
+As a believer, you have a new [family](people-family.md) by relation through Jesus ([Matthew 12:48-50](https://biblehub.com/matthew/12.htm)).
 
 This family is a spiritual one that adds on top of (and sometimes supersedes) your biological family.
 
@@ -12,23 +12,23 @@ This family is a spiritual one that adds on top of (and sometimes supersedes) yo
 
 Your relationship with God *must* extend beyond you and Him.
 
-- God has placed you in [the Body of Christ](church.md) to [love and be loved](people-love.md) ([John 13:34-35](https://biblehub.com/bsb/john/13.htm)).
-- Loving others is messy and challenging ([1 Corinthians 13](https://biblehub.com/bsb/1_corinthians/13.htm)).
+- God has placed you in [the Body of Christ](church.md) to [love and be loved](people-love.md) ([John 13:34-35](https://biblehub.com/john/13.htm)).
+- Loving others is messy and challenging ([1 Corinthians 13](https://biblehub.com/1_corinthians/13.htm)).
 
 ## Don't over-prioritize biological family
 
 We tend to give *much* more grace to our biological family than anyone else.
 
-- However, Jesus wants to intentionally divide biological families ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+- However, Jesus wants to intentionally divide biological families ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 - Jesus makes it abundantly clear that our desire for our family should never get in between us and Him ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
 
 The New Testament *constantly* references other believers as brothers and sisters in Christ.
 
-- Love them ([1 Corinthians 13](https://biblehub.com/bsb/1_corinthians/13.htm)).
-- Inspire them to good works ([Hebrews 10:24-25](https://biblehub.com/bsb/hebrews/10.htm)).
+- Love them ([1 Corinthians 13](https://biblehub.com/1_corinthians/13.htm)).
+- Inspire them to good works ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
 - Meet with them frequently ([Hebrews 10:26](https://biblehub.com/hebrews/10-26.htm)).
 
-The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/bsb/1_corinthians/7.htm):
+The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/1_corinthians/7.htm):
 
 1. Your body, upon marriage, is no longer yours, but is your spouse's.
 2. Therefore, don't turn down their offers for [sexual intimacy](relationships-sex.md)
@@ -40,23 +40,23 @@ The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians
 While it never excuses [bad boundaries](people-boundaries-why.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
 
 1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))
-2. [Spouse](gender.md), even when you can't stand them, they [sin](morality-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/bsb/ephesians/5.htm))
+2. [Spouse](gender.md), even when you can't stand them, they [sin](morality-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/ephesians/5.htm))
 3. [Children](parenting-children.md), with no partiality, irrespective of genetics, until they are adults, along with extended family who are helpless
-4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/bsb/matthew/12.htm))
+4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/matthew/12.htm))
 5. Suffering people like the poor, orphans, and widows ([James 1:27](https://biblehub.com/james/1-27.htm))
-6. All official authority figures ([Romans 13:1-7](https://biblehub.com/bsb/romans/13.htm))
+6. All official authority figures ([Romans 13:1-7](https://biblehub.com/romans/13.htm))
 7. All nonbelieving extended family members (e.g., adult children, grandparents, grandchildren, aunts and uncles, nieces and nephews)
 8. [Everyone and everything else](evangelism.md)
 
 ## If single, take your time
 
-Single people can serve God with fewer distractions ([1 Corinthians 7:6-7](https://biblehub.com/bsb/1_corinthians/7.htm)).
+Single people can serve God with fewer distractions ([1 Corinthians 7:6-7](https://biblehub.com/1_corinthians/7.htm)).
 
 Deeply consider all possible romantic relationships.
 
 - [Marriage](relationships-marriage.md) is exceedingly challenging and has many risks of its own.
 - Unwisely marrying guarantees a lifetime of misery ([Proverbs 21:9](https://biblehub.com/proverbs/21-9.htm)).
-- If you marry poorly and divorce, you've made things spiritually complicated ([Matthew 5:31-32](https://biblehub.com/bsb/matthew/5.htm)).
+- If you marry poorly and divorce, you've made things spiritually complicated ([Matthew 5:31-32](https://biblehub.com/matthew/5.htm)).
 - If you're in love, imagine a person never changing, then ask if you can live with that person for the rest of your time on earth, even when everything you love about them becomes annoying.
 
 Pick your [dates](relationships-dating.md) carefully.
@@ -77,15 +77,15 @@ Don't [idolize](addiction-substances.md) romantic relationships.
 
 The father, mother, and child symbolize a type of trinity.
 
-A marriage relationship symbolizes Christ and the Church ([Ephesians 5](https://biblehub.com/bsb/ephesians/5.htm)).
+A marriage relationship symbolizes Christ and the Church ([Ephesians 5](https://biblehub.com/ephesians/5.htm)).
 
-- God created men and women for [specific roles](gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/bsb/ephesians/5.htm)).
-- His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/bsb/ephesians/5.htm)), even [when she doesn't respect his role](gender.md).
+- God created men and women for [specific roles](gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/ephesians/5.htm)).
+- His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/ephesians/5.htm)), even [when she doesn't respect his role](gender.md).
 - Everything about healthy [*secular* marriage](relationships-marriage.md) applies to a Christian marriage, but with even more love.
 
-Children are an inherent blessing from God ([Psalm 127:3-5](https://biblehub.com/bsb/psalms/127.htm)), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).
+Children are an inherent blessing from God ([Psalm 127:3-5](https://biblehub.com/psalms/127.htm)), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).
 
-Children should obey their parents, and fathers shouldn't provoke their children ([Ephesians 6:1-4](https://biblehub.com/bsb/ephesians/6.htm)).
+Children should obey their parents, and fathers shouldn't provoke their children ([Ephesians 6:1-4](https://biblehub.com/ephesians/6.htm)).
 
 - Spoiled children bring shame to a family ([Proverbs 29:15](https://biblehub.com/proverbs/29-15.htm)).
 - Children learn to obey their parents through discipline ([Proverbs 29:17](https://biblehub.com/proverbs/29-17.htm)).
@@ -96,7 +96,7 @@ Until they are adults, a parent's most important ministry is their children.
 - No matter who you are, your role as a parent is to [lead them](spiritual-discipleship.md) through example, because they see your *entire* life.
 - They will have many years to observe whether you have a genuine love for Christ.
 - When they're ready, you're responsible to [lead them to Christ](jesus-gospel.md).
-- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) ([1 Timothy 3:4-5](https://biblehub.com/bsb/1_timothy/3.htm)).
+- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) ([1 Timothy 3:4-5](https://biblehub.com/1_timothy/3.htm)).
 
 Teach children about God.
 
@@ -111,7 +111,7 @@ Family households are never permanent, and God designed them to grow children in
 - Once you've seen them off, accept the inherent risks from their journey of faith in God.
 - If you *are* an adult and still with your parents, get out there and [succeed](success-1_why.md) already!
 
-God redeems and forgives, so fully [forgive](mind-feelings-happiness-stress.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/bsb/luke/15.htm)).
+God redeems and forgives, so fully [forgive](mind-feelings-happiness-stress.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/luke/15.htm)).
 
 - Jesus demonstrates how much love fathers should have for their lost sons.
 - However, your adult child should still reap the [consequences](results.md) of their decisions.

@@ -14,22 +14,22 @@ He will judge among the nations
 When Isaiah saw His glory
 
 - [Isaiah 6:1](https://biblehub.com/isaiah/6-1.htm)
-- [John 12:40-41](https://biblehub.com/bsb/john/12.htm)
+- [John 12:40-41](https://biblehub.com/john/12.htm)
 
 The one sent by God
 
 - [Isaiah 6:8](https://biblehub.com/isaiah/6-8.htm)
-- [John 12:38-45](https://biblehub.com/bsb/john/12.htm)
+- [John 12:38-45](https://biblehub.com/john/12.htm)
 
 Parables fall on deaf ears
 
 - [Isaiah 6:9-10](https://biblehub.com/isaiah/6.htm)
-- [Matthew 13:13-15](https://biblehub.com/bsb/matthew/13.htm)
+- [Matthew 13:13-15](https://biblehub.com/matthew/13.htm)
 
 The people blinded to Christ and deaf to his words
 
-- [Isaiah 6:9-12](https://biblehub.com/bsb/isaiah/6.htm)
-- [Acts 28:23-29](https://biblehub.com/bsb/acts/28.htm)
+- [Isaiah 6:9-12](https://biblehub.com/isaiah/6.htm)
+- [Acts 28:23-29](https://biblehub.com/acts/28.htm)
 
 To be born of a virgin
 
@@ -39,7 +39,7 @@ To be born of a virgin
 To be called Emmanuel: God with us
 
 - [Isaiah 7:14](https://biblehub.com/isaiah/7-14.htm), [Isaiah 8:8](https://biblehub.com/isaiah/8-8.htm)
-- [Matthew 1:18-23](https://biblehub.com/bsb/matthew/1.htm), [Matthew 28:20](https://biblehub.com/matthew/28-20.htm), [1 Timothy 3:16](https://biblehub.com/1_timothy/3-16.htm)
+- [Matthew 1:18-23](https://biblehub.com/matthew/1.htm), [Matthew 28:20](https://biblehub.com/matthew/28-20.htm), [1 Timothy 3:16](https://biblehub.com/1_timothy/3-16.htm)
 
 A stone of stumbling, a rock of offense
 
@@ -48,8 +48,8 @@ A stone of stumbling, a rock of offense
 
 His ministry will begin in Galilee
 
-- [Isaiah 9:1-2](https://biblehub.com/bsb/isaiah/9.htm)
-- [Matthew 4:12-17](https://biblehub.com/bsb/matthew/4.htm)
+- [Isaiah 9:1-2](https://biblehub.com/isaiah/9.htm)
+- [Matthew 4:12-17](https://biblehub.com/matthew/4.htm)
 
 A child born - Humanity
 
@@ -64,7 +64,7 @@ A Son is given - Deity
 Declared to be the Son of God with power
 
 - [Isaiah 9:6](https://biblehub.com/isaiah/9-6.htm)
-- [Romans 1:3-4](https://biblehub.com/bsb/romans/1.htm)
+- [Romans 1:3-4](https://biblehub.com/romans/1.htm)
 
 The Wonderful One, Peleh
 
@@ -94,7 +94,7 @@ The Prince of Peace, Sar Shalom
 To establish an everlasting kingdom
 
 - [Isaiah 9:7](https://biblehub.com/isaiah/9-7.htm)
-- [Luke 1:32-33](https://biblehub.com/bsb/luke/1.htm)
+- [Luke 1:32-33](https://biblehub.com/luke/1.htm)
 
 His character is Just
 
@@ -104,7 +104,7 @@ His character is Just
 No end to his government, throne, and peace
 
 - [Isaiah 9:7](https://biblehub.com/isaiah/9-7.htm)
-- [Luke 1:32-33](https://biblehub.com/bsb/luke/1.htm)
+- [Luke 1:32-33](https://biblehub.com/luke/1.htm)
 
 Called a Nazarene-the Branch, Netzer
 
@@ -144,7 +144,7 @@ He would be righteous and faithful
 The Gentiles seek Him
 
 - [Isaiah 11:10](https://biblehub.com/isaiah/11-10.htm)
-- [John 12:18-21](https://biblehub.com/bsb/john/12.htm)
+- [John 12:18-21](https://biblehub.com/john/12.htm)
 
 Called Jesus-Yeshua
 
@@ -164,12 +164,12 @@ The resurrection was predicted
 His power of resurrection was predicted
 
 - [Isaiah 26:19](https://biblehub.com/isaiah/26-19.htm)
-- [Matthew 27:50-54](https://biblehub.com/bsb/matthew/27.htm)
+- [Matthew 27:50-54](https://biblehub.com/matthew/27.htm)
 
 The Messiah is the precious cornerstone
 
 - [Isaiah 28:16](https://biblehub.com/isaiah/28-16.htm), [Zechariah 10:4](https://biblehub.com/zechariah/10-4.htm)
-- [Acts 4:11-12](https://biblehub.com/bsb/acts/4.htm), [Ephesians 2:20](https://biblehub.com/ephesians/2-20.htm)
+- [Acts 4:11-12](https://biblehub.com/acts/4.htm), [Ephesians 2:20](https://biblehub.com/ephesians/2-20.htm)
 
 The Sure Foundation
 
@@ -179,12 +179,12 @@ The Sure Foundation
 He indicated hypocritical obedience to His Word
 
 - [Isaiah 29:13](https://biblehub.com/isaiah/29-13.htm)
-- [Matthew 15:7-9](https://biblehub.com/bsb/matthew/15.htm)
+- [Matthew 15:7-9](https://biblehub.com/matthew/15.htm)
 
 Wise people are confounded by the Word
 
 - [Isaiah 29:14](https://biblehub.com/isaiah/29-14.htm)
-- [1 Corinthians 1:18-31](https://biblehub.com/bsb/1_corinthians/1.htm)
+- [1 Corinthians 1:18-31](https://biblehub.com/1_corinthians/1.htm)
 
 A human refuge and hiding place
 
@@ -198,12 +198,12 @@ He will come and save you
 
 To have a ministry of miracles
 
-- [Isaiah 35:5-6](https://biblehub.com/bsb/isaiah/35.htm)
-- [Matthew 11:2-6](https://biblehub.com/bsb/matthew/11.htm)
+- [Isaiah 35:5-6](https://biblehub.com/isaiah/35.htm)
+- [Matthew 11:2-6](https://biblehub.com/matthew/11.htm)
 
 Preceded by forerunner
 
-- [Isaiah 40:3-4](https://biblehub.com/bsb/isaiah/40.htm)
+- [Isaiah 40:3-4](https://biblehub.com/isaiah/40.htm)
 - [John 1:23](https://biblehub.com/john/1-23.htm)
 
 "Behold your God"
@@ -219,42 +219,42 @@ He will come to reward
 A shepherd-compassionate life-giver
 
 - [Isaiah 40:11](https://biblehub.com/isaiah/40-11.htm)
-- [John 10:10-18](https://biblehub.com/bsb/john/10.htm)
+- [John 10:10-18](https://biblehub.com/john/10.htm)
 
 The servant as a faithful, patient redeemer
 
-- [Isaiah 42:1-4](https://biblehub.com/bsb/isaiah/42.htm)
-- [Matthew 12:18-21](https://biblehub.com/bsb/matthew/12.htm)
+- [Isaiah 42:1-4](https://biblehub.com/isaiah/42.htm)
+- [Matthew 12:18-21](https://biblehub.com/matthew/12.htm)
 
 Meek and lowly
 
 - [Isaiah 42:2](https://biblehub.com/isaiah/42-2.htm)
-- [Matthew 11:28-30](https://biblehub.com/bsb/matthew/11.htm)
+- [Matthew 11:28-30](https://biblehub.com/matthew/11.htm)
 
 He brings hope to the hopeless
 
 - [Isaiah 42:3](https://biblehub.com/isaiah/42-3.htm)
-- [John 4](https://biblehub.com/bsb/john/4.htm)
+- [John 4](https://biblehub.com/john/4.htm)
 
 The nations will wait on His teachings
 
 - [Isaiah 42:4](https://biblehub.com/isaiah/42-4.htm)
-- [John 12:20-26](https://biblehub.com/bsb/john/12.htm)
+- [John 12:20-26](https://biblehub.com/john/12.htm)
 
 The light and salvation of the Gentiles
 
-- [Isaiah 42:6](https://biblehub.com/isaiah/42-6.htm), [Isaiah 49:6](https://biblehub.com/isaiah/49-6.htm), [Isaiah 60:1-3](https://biblehub.com/bsb/isaiah/60.htm)
+- [Isaiah 42:6](https://biblehub.com/isaiah/42-6.htm), [Isaiah 49:6](https://biblehub.com/isaiah/49-6.htm), [Isaiah 60:1-3](https://biblehub.com/isaiah/60.htm)
 - [Luke 2:32](https://biblehub.com/luke/2-32.htm), [John 8:12](https://biblehub.com/john/8-12.htm), [Acts 13:47](https://biblehub.com/acts/13-47.htm), [Acts 26:23](https://biblehub.com/acts/26-23.htm)
 
 Has a worldwide compassion
 
-- [Isaiah 42:1,6](https://biblehub.com/bsb/isaiah/42.htm)
-- [Matthew 28:19-20](https://biblehub.com/bsb/matthew/28.htm)
+- [Isaiah 42:1,6](https://biblehub.com/isaiah/42.htm)
+- [Matthew 28:19-20](https://biblehub.com/matthew/28.htm)
 
 Blind eyes opened
 
 - [Isaiah 42:7](https://biblehub.com/isaiah/42-7.htm)
-- [John 9:25-38](https://biblehub.com/bsb/john/9.htm)
+- [John 9:25-38](https://biblehub.com/john/9.htm)
 
 He is the only Savior
 
@@ -268,7 +268,7 @@ He will send the Spirit of God
 
 Lord and Savior
 
-- [Isaiah 45:21-25](https://biblehub.com/bsb/isaiah/45.htm)
+- [Isaiah 45:21-25](https://biblehub.com/isaiah/45.htm)
 - [Philippians 3:20](https://biblehub.com/philippians/3-20.htm), [Titus 2:13](https://biblehub.com/titus/2-13.htm)
 
 Will be the Judge
@@ -278,7 +278,7 @@ Will be the Judge
 
 Declares things aren't done yet
 
-- [Isaiah 46:9-10](https://biblehub.com/bsb/isaiah/46.htm)
+- [Isaiah 46:9-10](https://biblehub.com/isaiah/46.htm)
 - [John 13:19](https://biblehub.com/john/13-19.htm)
 
 The First and the Last
@@ -288,7 +288,7 @@ The First and the Last
 
 Came as a teacher
 
-- [Isaiah 48:16-17](https://biblehub.com/bsb/isaiah/48.htm)
+- [Isaiah 48:16-17](https://biblehub.com/isaiah/48.htm)
 - [John 3:2](https://biblehub.com/john/3-2.htm)
 
 Called from the womb-His humanity
@@ -304,32 +304,32 @@ Servant from the womb
 Will restore Israel
 
 - [Isaiah 49:6](https://biblehub.com/isaiah/49-6.htm)
-- [Acts 3:19-21](https://biblehub.com/bsb/acts/3.htm), [15:16-17](https://biblehub.com/bsb/acts/15.htm)
+- [Acts 3:19-21](https://biblehub.com/acts/3.htm), [15:16-17](https://biblehub.com/acts/15.htm)
 
 He is salvation for Israel
 
 - [Isaiah 49:6](https://biblehub.com/isaiah/49-6.htm)
-- [Luke 2:29-32](https://biblehub.com/bsb/luke/2.htm)
+- [Luke 2:29-32](https://biblehub.com/luke/2.htm)
 
 He is salvation to the ends of the earth
 
 - [Isaiah 49:6](https://biblehub.com/isaiah/49-6.htm)
-- [Acts 15:7-18](https://biblehub.com/bsb/acts/15.htm)
+- [Acts 15:7-18](https://biblehub.com/acts/15.htm)
 
 The nation despises Him
 
 - [Isaiah 49:7](https://biblehub.com/isaiah/49-7.htm)
-- [John 1:11](https://biblehub.com/john/1-11.htm), [8:48-49](https://biblehub.com/bsb/john/8.htm), [19:14-15](https://biblehub.com/bsb/john/19.htm)
+- [John 1:11](https://biblehub.com/john/1-11.htm), [8:48-49](https://biblehub.com/john/8.htm), [19:14-15](https://biblehub.com/john/19.htm)
 
 Heaven is clothed in black at His humiliation
 
 - [Isaiah 50:3](https://biblehub.com/isaiah/50-3.htm)
-- [Luke 23:44-45](https://biblehub.com/bsb/luke/23.htm)
+- [Luke 23:44-45](https://biblehub.com/luke/23.htm)
 
 He is a learned counselor for the weary
 
 - [Isaiah 50:4](https://biblehub.com/isaiah/50-4.htm)
-- [Matthew 7:29](https://biblehub.com/matthew/7-29.htm), [11:28-29](https://biblehub.com/bsb/matthew/11.htm)
+- [Matthew 7:29](https://biblehub.com/matthew/7-29.htm), [11:28-29](https://biblehub.com/matthew/11.htm)
 
 The servant bound willingly to obedience
 
@@ -359,62 +359,62 @@ Published good tidings upon mountains
 The servant exalted
 
 - [Isaiah 52:13](https://biblehub.com/isaiah/52-13.htm)
-- [Acts 1:8-11](https://biblehub.com/bsb/acts/1.htm), [Ephesians 1:19-22](https://biblehub.com/bsb/ephesians/1.htm), [Philippians 2:5-9](https://biblehub.com/bsb/philippians/2.htm)
+- [Acts 1:8-11](https://biblehub.com/acts/1.htm), [Ephesians 1:19-22](https://biblehub.com/ephesians/1.htm), [Philippians 2:5-9](https://biblehub.com/philippians/2.htm)
 
 The servant shockingly abused
 
 - [Isaiah 52:14](https://biblehub.com/isaiah/52-14.htm)
-- [Luke 18:31-34](https://biblehub.com/bsb/luke/18.htm), [Matthew 26:67-68](https://biblehub.com/bsb/matthew/26.htm)
+- [Luke 18:31-34](https://biblehub.com/luke/18.htm), [Matthew 26:67-68](https://biblehub.com/matthew/26.htm)
 
 Nations startled by the message of the servant
 
 - [Isaiah 52:15](https://biblehub.com/isaiah/52-15.htm)
-- [Luke 18:31-34](https://biblehub.com/bsb/luke/18.htm), [Matthew 26:67-68](https://biblehub.com/bsb/matthew/26.htm)
+- [Luke 18:31-34](https://biblehub.com/luke/18.htm), [Matthew 26:67-68](https://biblehub.com/matthew/26.htm)
 
 His spilled blood sprinkles nations
 
 - [Isaiah 52:15](https://biblehub.com/isaiah/52-15.htm)
-- [Hebrews 9:13-14](https://biblehub.com/bsb/hebrews/9.htm), [Revelation 1:5](https://biblehub.com/revelation/1-5.htm)
+- [Hebrews 9:13-14](https://biblehub.com/hebrews/9.htm), [Revelation 1:5](https://biblehub.com/revelation/1-5.htm)
 
 His people would not believe him
 
 - [Isaiah 53:1](https://biblehub.com/isaiah/53-1.htm)
-- [John 12:37-38](https://biblehub.com/bsb/john/12.htm)
+- [John 12:37-38](https://biblehub.com/john/12.htm)
 
 Appearance of an ordinary man
 
 - [Isaiah 53:2](https://biblehub.com/isaiah/53-2.htm)
-- [Philippians 2:6-8](https://biblehub.com/bsb/philippians/2.htm)
+- [Philippians 2:6-8](https://biblehub.com/philippians/2.htm)
 
 Despised
 
 - [Isaiah 53:3a](https://biblehub.com/isaiah/53-3.htm)
-- [Luke 4:28-29](https://biblehub.com/bsb/luke/4.htm)
+- [Luke 4:28-29](https://biblehub.com/luke/4.htm)
 
 Rejected
 
 - [Isaiah 53:3b](https://biblehub.com/isaiah/53-3.htm)
-- [Matthew 27:21-23](https://biblehub.com/bsb/matthew/27.htm)
+- [Matthew 27:21-23](https://biblehub.com/matthew/27.htm)
 
 Great sorrow and grief
 
 - [Isaiah 53:3c](https://biblehub.com/isaiah/53-3.htm)
-- [Matthew 26:37-38](https://biblehub.com/bsb/matthew/26.htm), [Luke 19:41](https://biblehub.com/luke/19-41.htm), [Hebrews 4:15](https://biblehub.com/hebrews/4-15.htm)
+- [Matthew 26:37-38](https://biblehub.com/matthew/26.htm), [Luke 19:41](https://biblehub.com/luke/19-41.htm), [Hebrews 4:15](https://biblehub.com/hebrews/4-15.htm)
 
 Men hide from being associated with Him
 
 - [Isaiah 53:3d](https://biblehub.com/isaiah/53-3.htm)
-- [Mark 14:50-52](https://biblehub.com/bsb/mark/14.htm)
+- [Mark 14:50-52](https://biblehub.com/mark/14.htm)
 
 He would have a healing ministry
 
 - [Isaiah 53:4a](https://biblehub.com/isaiah/53-4.htm)
-- [Matthew 8:16-17](https://biblehub.com/bsb/matthew/8.htm)
+- [Matthew 8:16-17](https://biblehub.com/matthew/8.htm)
 
 Thought to be cursed by God
 
 - [Isaiah 53:4b](https://biblehub.com/isaiah/53-4.htm)
-- [Matthew 26:66](https://biblehub.com/matthew/26-66.htm), [27:41-43](https://biblehub.com/bsb/matthew/27.htm)
+- [Matthew 26:66](https://biblehub.com/matthew/26-66.htm), [27:41-43](https://biblehub.com/matthew/27.htm)
 
 Bears penalty for humanity's sins
 
@@ -444,27 +444,27 @@ God's will for him to bear sin for all humanity
 Oppressed and afflicted
 
 - [Isaiah 53:7a](https://biblehub.com/isaiah/53-7.htm)
-- [Matthew 27:27-31](https://biblehub.com/bsb/matthew/27.htm)
+- [Matthew 27:27-31](https://biblehub.com/matthew/27.htm)
 
 Silent before his accusers
 
 - [Isaiah 53:7b](https://biblehub.com/isaiah/53-7.htm)
-- [Matthew 27:12-14](https://biblehub.com/bsb/matthew/27.htm)
+- [Matthew 27:12-14](https://biblehub.com/matthew/27.htm)
 
 Sacrificial lamb
 
 - [Isaiah 53:7c](https://biblehub.com/isaiah/53-7.htm)
-- [John 1:29](https://biblehub.com/john/1-29.htm), [1 Peter 1:18-19](https://biblehub.com/bsb/1_peter/1.htm)
+- [John 1:29](https://biblehub.com/john/1-29.htm), [1 Peter 1:18-19](https://biblehub.com/1_peter/1.htm)
 
 Confined and persecuted
 
 - [Isaiah 53:8a](https://biblehub.com/isaiah/53-8.htm)
-- [Matthew 26:47-27:31](https://biblehub.com/bsb/matthew/26.htm)
+- [Matthew 26:47-27:31](https://biblehub.com/matthew/26.htm)
 
 He'd be judged
 
 - [Isaiah 53:8b](https://biblehub.com/isaiah/53-8.htm)
-- [John 18:13-22](https://biblehub.com/bsb/john/18.htm)
+- [John 18:13-22](https://biblehub.com/john/18.htm)
 
 Killed
 
@@ -509,7 +509,7 @@ Resurrected and lives forever
 He would prosper
 
 - [Isaiah 53:10d](https://biblehub.com/isaiah/53-10.htm)
-- [John 17:1-5](https://biblehub.com/bsb/john/17.htm)
+- [John 17:1-5](https://biblehub.com/john/17.htm)
 
 God would be fully satisfied with His suffering
 
@@ -519,7 +519,7 @@ God would be fully satisfied with His suffering
 God's servant would justify man
 
 - [Isaiah 53:11b](https://biblehub.com/isaiah/53-11.htm)
-- [Romans 5:8-9, 18-19](https://biblehub.com/bsb/romans/5.htm)
+- [Romans 5:8-9, 18-19](https://biblehub.com/romans/5.htm)
 
 The sin-bearer for all humanity
 
@@ -539,7 +539,7 @@ He would give up his life to save humanity
 Numbered with the transgressors
 
 - [Isaiah 53:12c](https://biblehub.com/isaiah/53-12.htm)
-- [Mark 15:27-28](https://biblehub.com/bsb/mark/15.htm)
+- [Mark 15:27-28](https://biblehub.com/mark/15.htm)
 
 Sin-bearer for all humanity
 
@@ -589,19 +589,19 @@ He would come to Zion as their Redeemer
 The Spirit of God upon him
 
 - [Isaiah 61:1a](https://biblehub.com/isaiah/61-1.htm)
-- [Matthew 3:16-17](https://biblehub.com/bsb/matthew/3.htm)
+- [Matthew 3:16-17](https://biblehub.com/matthew/3.htm)
 
 The Messiah would preach the good news
 
 - [Isaiah 61:1b](https://biblehub.com/isaiah/61-1.htm)
-- [Luke 4:16-21](https://biblehub.com/bsb/luke/4.htm)
+- [Luke 4:16-21](https://biblehub.com/luke/4.htm)
 
 Provide freedom from the bondage of sin
 
 - [Isaiah 61:1c](https://biblehub.com/isaiah/61-1.htm)
-- [John 8:31-36](https://biblehub.com/bsb/john/8.htm)
+- [John 8:31-36](https://biblehub.com/john/8.htm)
 
 Proclaim a period of grace
 
-- [Isaiah 61:1-2a](https://biblehub.com/bsb/isaiah/61.htm)
-- [Galatians 4:4-5](https://biblehub.com/bsb/galatians/4.htm)
+- [Isaiah 61:1-2a](https://biblehub.com/isaiah/61.htm)
+- [Galatians 4:4-5](https://biblehub.com/galatians/4.htm)

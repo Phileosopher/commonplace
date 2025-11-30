@@ -12,10 +12,10 @@ When a star doesn't have enough energy to keep fusing, it collapses. Depending o
 
 Black holes are extremely dense objects. They're *so* dense, in fact, that even visible light can't escape it. For that reason, the only way to measure black holes is to track the stretched-out photon waves that became x-rays.
 
-Further reading:
-
-- [How does the earth's spinning around the sun make seasons and years?](https://ciechanow.ski/earth-and-sun/)
-
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - What's at the bottom of a black hole?
+
+## More information
+
+[How does the earth's spinning around the sun make seasons and years?](https://ciechanow.ski/earth-and-sun/)

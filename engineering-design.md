@@ -185,11 +185,11 @@ Frequently, focus groups can add features that destroy the core [functionality](
 
 Any small issue in a design becomes a large one [when it becomes large-scale](engineering-design-scaling.md).
 
-## Additional reading
+## More information
 
 [A tech-oriented dive into this content](engineering-design-computers.md)
 
-UX in General
+UX in general:
 
 - [Laws of UX](https://lawsofux.com/)
 - [growth.design's UX Case Studies](https://growth.design/case-studies)
@@ -200,11 +200,11 @@ UX in General
 - [DesignCourse (YouTube)](https://www.youtube.com/c/DesignCourse/featured)
 - [Design Principles](https://principles.design/)
 
-Colors
+Colors:
 
 - [A scientific synopsis of color](http://jamie-wong.com/post/color/)
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 
-Fitts' Law
+Fitts' Law:
 
 - [A Deep Dive Into Fitts' Law](https://timmarco.com/fitts/)

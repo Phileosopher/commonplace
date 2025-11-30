@@ -11,7 +11,7 @@ Christians *frequently* argue over relatively small lifestyle elements while for
 The concept of free will:
 
 - On one end, Bible verses show how God has set up everything into a plan, even evil people who will go to hell ([Proverbs 16:4](https://biblehub.com/proverbs/16-4.htm), [Romans 9:11](https://biblehub.com/romans/9-11.htm)).
-  - God has also called an elect to serve Him ([Romans 8:28-30](https://biblehub.com/bsb/romans/8.htm), [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)).
+  - God has also called an elect to serve Him ([Romans 8:28-30](https://biblehub.com/romans/8.htm), [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)).
 - At the same time, God sent His Son to save the *entire* world ([John 3:16](https://biblehub.com/john/3-16.htm)).
 - We must philosophically reconcile that God knows everything and that we can make independent [decisions](people-decisions.md).
   - Calvinism - God has complete knowledge of absolutely everything, and we have no free will.

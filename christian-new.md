@@ -15,7 +15,7 @@ Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 
 
 ## Old idols
 
-Preoccupation with at least one of the four major idols ([1 John 2:15-16](https://biblehub.com/bsb/1_john/2.htm)):
+Preoccupation with at least one of the four major idols ([1 John 2:15-16](https://biblehub.com/1_john/2.htm)):
 
 1. [honor/reputation](people-image-why.md)
 2. [money](money-1_why.md)
@@ -68,7 +68,7 @@ Odd non-Christian beliefs that closely identify with Christian values (e.g., [Ra
 
 ## Extremism
 
-Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](morality-sins.md), typically including "blasphemy of the Holy Spirit" referenced in [Mark 3:28-29](https://biblehub.com/bsb/mark/3.htm).
+Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](morality-sins.md), typically including "blasphemy of the Holy Spirit" referenced in [Mark 3:28-29](https://biblehub.com/mark/3.htm).
 
 - They typically haven't internalized God's [undying love](https://theologos.site/devotion-chaos/) and have contextualized one Bible verse against the context of many other *far* more articulated parts of Scripture (e.g., a Christian's [new identity](identity-christian.md)).
 - Every sin can be forgiven, and has been in Christ, but that doesn't mean it always [feels](mind-feelings.md) that way.
@@ -83,19 +83,19 @@ Treating their body as a despicable, awful thing they must perpetually damage or
 - While our flesh has certainly died in Christ ([Romans 6:6](https://biblehub.com/romans/6-6.htm)), it's a *past-tense* reality.
 - God's long-term goal is that we may be resurrected, free of sin, with a *new* body.
   - [Romans 6:8](https://biblehub.com/romans/6-8.htm)
-  - [2 Corinthians 5:1-10](https://biblehub.com/bsb/2_corinthians/5.htm)
-  - [Revelation 21:1-4](https://biblehub.com/bsb/revelation/21.htm)
+  - [2 Corinthians 5:1-10](https://biblehub.com/2_corinthians/5.htm)
+  - [Revelation 21:1-4](https://biblehub.com/revelation/21.htm)
 - The true way to live in Christ is through self-discipline, *not* self-effacement.
 
 Condemning specific genres of media (e.g., music, movies, video games).
 
 - Everything of [quality](values-quality.md) is good, in its right place
-  - [1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm)
+  - [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)
 
 Complete individualism or antisocial behavior (e.g., claiming they only need Jesus and nobody else).
 
 - God designed the Body of Christ as a vast collection of various people, each with unique [personalities](personality.md) and [gifts](spiritual-gifts.md)
-  - [1 Corinthians 12:12-26](https://biblehub.com/bsb/1_corinthians/12.htm)
+  - [1 Corinthians 12:12-26](https://biblehub.com/1_corinthians/12.htm)
 
 Extreme insistence on creating large-scale [political changes](politics-conservativeliberal.md) for a Christian cause (e.g., "end all poverty").
 
@@ -144,8 +144,8 @@ Allegiance to a [denomination](people-conflicts-christian-why.md) or its [cultur
 Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem.
 
 - At its core, prayer is our release of control to God.
-  - [Matthew 6:5-14](https://biblehub.com/bsb/matthew/6.htm)
-  - [Luke 11:1-4](https://biblehub.com/bsb/luke/11.htm)
+  - [Matthew 6:5-14](https://biblehub.com/matthew/6.htm)
+  - [Luke 11:1-4](https://biblehub.com/luke/11.htm)
 - We can only request something to Him humbly, and He can't be [bargained with](people-contracts.md).
 
 ## Ambitious
@@ -169,7 +169,7 @@ Seeking spiritual experiences over [self-management](habits.md).
 - Frequently, denominations that draw in people like this can create a dramatic spectacle of unregulated [emotional](mind-feelings.md) expression.
 - They still haven't learned the scope of God's power, so they interpret unusual things but overlook [God's amazing feats of engineering](science.md) that He designed into our day-to-day existence.
 - They also haven't realized yet that a spectacular redemption story doesn't show growth in Christ *nearly* as much as enduring trials.
-  - [1 Peter 1:6-7](https://biblehub.com/bsb/1_peter/1.htm)
+  - [1 Peter 1:6-7](https://biblehub.com/1_peter/1.htm)
 
 ## Chronic Symptoms
 
@@ -211,7 +211,7 @@ Harsh or inconsiderate [decision-making](people-decisions.md) about others' live
 Once in a while, they'll become the [leaders](mgmt-church.md) of an organization that, in some way, advances many of the above.
 
 - They have a worse fate waiting for them if they don't repent.
-  - [Luke 17:1-2](https://biblehub.com/bsb/luke/17.htm)
+  - [Luke 17:1-2](https://biblehub.com/luke/17.htm)
 
 ## Signs of Growth
 

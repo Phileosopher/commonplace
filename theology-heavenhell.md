@@ -15,7 +15,7 @@ The attributes of hell, according to the Bible, are relatively straightforward:
 - The fire of hell never goes out ([Mark 9:43](https://biblehub.com/mark/9-43.htm))
 - It is a fiery lake of burning sulfur ([Revelation 21:8](https://biblehub.com/revelation/21-8.htm))
 
-There is quite a bit of theology contained within [Luke 16:19-31](https://biblehub.com/bsb/luke/16.htm) that addresses a certain type of afterlife picture:
+There is quite a bit of theology contained within [Luke 16:19-31](https://biblehub.com/luke/16.htm) that addresses a certain type of afterlife picture:
 
 1. All people went to a shared place with a divide in it (i.e., "Sheol" or "Hades").
 2. When Jesus came, He unlocked the gates of Hades, then took the believers from before that time to be with Him.
@@ -43,7 +43,7 @@ But, it's my opinion that some of these things are a bit maligned from the truth
 
 ## The evil we know
 
-We can look at the world around us and see God's law in force ([1 Timothy 1:8-10](https://biblehub.com/bsb/1_timothy/1.htm)).
+We can look at the world around us and see God's law in force ([1 Timothy 1:8-10](https://biblehub.com/1_timothy/1.htm)).
 
 1. God uses the laws of this world to exercise His will.
 2. Whenever anyone starts overstepping too far, God can use another force to destroy it.
@@ -76,7 +76,7 @@ Thus, there is a highly likely form of destruction through the actions of *other
 
 If you've ever spent time [incarcerated](hardship-incarceration.md), that entire culture is an unusually high concentration of evil thoughts and actions. Even when there is peace, that peace could turn bad at any time if someone has something to gain by it.
 
-And, in light of the largest prison of all time, there is an interesting admonition at the end of Jesus' parable of the unjust manager ([Luke 16:1-9](https://biblehub.com/bsb/luke/16.htm), emphasis added):
+And, in light of the largest prison of all time, there is an interesting admonition at the end of Jesus' parable of the unjust manager ([Luke 16:1-9](https://biblehub.com/luke/16.htm), emphasis added):
 
 - The master commended the dishonest manager because he had acted shrewdly. For the sons of this age are more shrewd in dealing with their own kind than are the sons of light. I tell you, **use worldly wealth to make friends for yourselves, so that** when it is gone, **they will welcome you into eternal dwellings**.
 
@@ -140,7 +140,7 @@ In all of this, everyone *could*, in theory, repent and come to Christ and confe
 
 However, in the same way that they didn't listen to Moses and the Prophets ([Luke 16:31](https://biblehub.com/luke/16-31.htm)), or [to the believers on this earth when they had the chance](evangelism.md), they wouldn't listen to an angel or God Himself coming down to them.
 
-Instead, if they had the opportunity, they'd conspire with the devil to overthrow God's goodness, similar to the battle in [Revelation 20:7-15](https://biblehub.com/bsb/revelation/20.htm).
+Instead, if they had the opportunity, they'd conspire with the devil to overthrow God's goodness, similar to the battle in [Revelation 20:7-15](https://biblehub.com/revelation/20.htm).
 
 All of this, more than anything else, is why [not heeding the Gospel message](https://theologos.site/gospel/) is a type of self-induced foolishness.
 

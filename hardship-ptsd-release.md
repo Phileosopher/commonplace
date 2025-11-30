@@ -147,3 +147,4 @@ C. Release
   - If you ever [go to sleep](sleep.md) without releasing the grudge, it will encode itself into your [subconscious](awareness.md) and become harder to work through later.
   - By not releasing the old pain, those people will repeatedly re-hurt you in your mind without your permission.
   - Psychotherapy, your individual efforts, or [religion](religion-answers.md) can all get you there, but only [Christian doctrine](jesus-gospel.md) can reliably wipe away our resentments.
+  

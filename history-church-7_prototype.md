@@ -54,8 +54,9 @@ Jan Hus' execution in 1415 served to radicalize his followers, and it developed 
 3. The clergy can't have expensive things or run the government.
 4. Anyone, no matter who, will be strictly punished for "mortal public sins" (i.e., really obviously bad things).
 
-Roman Catholic Ecumenical Council #17 in 1438-1443 - The Council of Basle/Ferrara/Florence feat. Pope Eugene IV and Emperors Albert II and Frederick III w/ ~117 people
+Roman Catholic Ecumenical Council #17 in 1431-1445 - The Council of Basel/Ferrara/Florence feat. Pope Eugene IV and Emperors Albert II and Frederick III w/ ~117 people
 
+- The whole thing was a mess
 - Bohemia was having issues, so the council was established to pacify it
 - Reaffirmed the pope's authority over an ecumenical council
 - Temporarily reunified part of the Greek Church with Rome

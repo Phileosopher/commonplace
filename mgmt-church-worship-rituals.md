@@ -30,7 +30,7 @@ P: Typically not used in most denominations except [Pentecostal](history-church.
 
 A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scripture ([1 Peter 3:21](https://biblehub.com/1_peter/3-21.htm)).
 
-- Water baptism doesn't give salvation, but does show it to the world ([Luke 23:29-43](https://biblehub.com/bsb/luke/23.htm)).
+- Water baptism doesn't give salvation, but does show it to the world ([Luke 23:29-43](https://biblehub.com/luke/23.htm)).
   - Most churches that baptize will stress the significance of baptism.
 - The water can be by immersion or sprinkling.
   - Immersion symbolizes the complete end of one's [identity](identity.md) as part of this world.
@@ -56,7 +56,7 @@ While there's no ritual for Protestants, they honor someone's private prayer to 
 
 The elements include a type of bread representing Christ's bodily sacrifice and grape juice or wine to represent covering our sins with His blood.
 
-- Irrespective of its meaning, communion is Jesus' command ([John 6:53-58](https://biblehub.com/bsb/john/6.htm)).
+- Irrespective of its meaning, communion is Jesus' command ([John 6:53-58](https://biblehub.com/john/6.htm)).
 
 Elements
 
@@ -101,7 +101,7 @@ P: Most don't perform *any* type of confession, but usually imply it can be a pr
 
 Ceremonies are frequently performed in churches.
 
-- Marriage ceremonies show a man and woman's union symbolizing how Christ will someday unite with the Church ([Ephesians 5:25-27](https://biblehub.com/bsb/ephesians/5.htm), [Revelation 19:6-9](https://biblehub.com/bsb/revelation/19.htm)).
+- Marriage ceremonies show a man and woman's union symbolizing how Christ will someday unite with the Church ([Ephesians 5:25-27](https://biblehub.com/ephesians/5.htm), [Revelation 19:6-9](https://biblehub.com/revelation/19.htm)).
 
 While all Christians agree with the marriage ceremony, the details vary tremendously.
 
@@ -132,7 +132,7 @@ Giving blessing, healing, or authority with physical contact.
 
 A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](people-conflicts.md).
 
-Inspired by Jesus' command to leave your gift at the altar and find closure first ([Matthew 5:23-24](https://biblehub.com/bsb/matthew/5.htm)).
+Inspired by Jesus' command to leave your gift at the altar and find closure first ([Matthew 5:23-24](https://biblehub.com/matthew/5.htm)).
 
 P: Only practiced occasionally, if at all.
 
@@ -218,7 +218,7 @@ Conditional Routines - Sundays and solemn days
 
 ### C. Eucharist/communion
 
-A sacrament involving eating and drinking to [symbolize](symbols.md) Jesus' sacrifice (see above) ([Luke 22:19-20](https://biblehub.com/bsb/luke/22.htm)).
+A sacrament involving eating and drinking to [symbolize](symbols.md) Jesus' sacrifice (see above) ([Luke 22:19-20](https://biblehub.com/luke/22.htm)).
 
 - While its basis does vary dramatically, the ritual *must* be distinguished as for believers only.
 
@@ -254,13 +254,13 @@ P: Practiced on occasion, but typically as a mid-week Bible study.
 
 ### Crowd participation
 
-The conformity of Christian culture should reflect the principles God established in the Hebrew law ([1 Corinthians 14:26-40](https://biblehub.com/bsb/1_corinthians/14.htm)).
+The conformity of Christian culture should reflect the principles God established in the Hebrew law ([1 Corinthians 14:26-40](https://biblehub.com/1_corinthians/14.htm)).
 
 - Whatever you do, do it peacefully.
 - Don't condemn prophecies or tongues, but make sure it's one at a time and builds up the Body.
 
 However, *some* practices are [taboo](morality-taboo.md) according to the Bible.
 
-- When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/bsb/1_corinthians/14.htm)).
+- When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/1_corinthians/14.htm)).
   - This doesn't forbid female *teachers*, but individual questions can be very distracting.
-- [Sinful](morality-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/bsb/1_corinthians/5.htm)).
+- [Sinful](morality-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).

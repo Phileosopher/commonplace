@@ -248,6 +248,7 @@ Inspect the fluids monthly and keep them filled:
 - Power steering fluid
 - Transmission fluid
   - Replace the transmission fluid about every 100K miles.
+
 ## When you can't fix it
 
 It's usually worth paying for a towing service beforehand.

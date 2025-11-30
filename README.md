@@ -9,8 +9,5 @@ A repository of my public [commonplacing](https://en.wikipedia.org/wiki/Commonpl
 
 The following schema applies:
 
-- (file_name).md: A "final" source of information
-- (file_name).(image_extension): a "final" image that I can't distill to language
-- (file_name)--.md: stray notes I found somewhere
-- (file_name)--.(image_extension): a scraped image I found somewhere, recurses with additional dashes as needed
-
+- (file_name): A "final" source of information, with text taking precedence over images
+- (file_name)--: stray notes or scraped images I found somewhere, recurses with additional dashes as needed

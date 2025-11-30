@@ -12,7 +12,7 @@ The Neo-charismatic Movement started in the early 1980s with groups like the Vin
 
 The **Hebrew Roots Movement/Awakening** emerged in 1997 when Dean Cozzens of Open Church Ministries indicated that returning to living according to the Torah was the final stage of empowerment after 3 other movements: the Pentecostal movement, faith healing, and the Charismatic movement. The movement implies the Torah is a clear way for all people (Jews *and* Gentiles) to live and follow God, though they typically don't imply it's required for salvation.
 
-The Online Church movement started in 2007 when Life Covenant Church broadcast their church services within the online game Second Life. They renamed themselves **Life.Church** later, and devote their efforts to almost strictly online church attendance. The movement expanded when COVID-19 happened in 2020 and everyone worldwide was forced to stay indoors.
+The Online Church Movement started in 2007 when Life Covenant Church broadcast their church services within the online game Second Life. They renamed themselves **Life.Church** later, and devote their efforts to almost strictly online church attendance. The movement expanded when COVID-19 happened in 2020 and everyone worldwide was forced to stay indoors.
 
 More to come, since I'm writing this February 2023.
 

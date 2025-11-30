@@ -149,6 +149,6 @@ Someone may imagine that "sK8thrul1fE" is harder to guess than "I skate through 
 
 To that end, "passphrases" are more effective than passwords. People often forget their password when using substitution characters, but typing a complete sentence and remembering it is comparatively *much* easier.
 
-## Further Reading
+## More information
 
 [Comparison of cryptographic hash functions](https://en.wikipedia.org/wiki/Comparison_of_cryptographic_hash_functions)

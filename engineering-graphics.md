@@ -184,7 +184,7 @@ To give the impression of motion and interaction, a static image can give a wobb
 
 To give an impression of movement or fill in an otherwise bland view, backgrounds can be "gradients" or have dynamically updated content on them.
 
-## Additional reading
+## More information
 
 [LCD monitor technology and tests](https://www.techmind.org/lcd/index.html)
 

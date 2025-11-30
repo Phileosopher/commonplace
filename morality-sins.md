@@ -19,7 +19,7 @@ Small sins [habitually](habits.md) prepare us for larger sins on the same spectr
 - People usually see good and evil as a dualistic battle, but evil is more of a void (like darkness or cold).
 - Apathy and hate are the absence of love, and selfishness is the absence of consideration for others.
 
-From the beginning ([Genesis 3-4](https://biblehub.com/bsb/genesis/3.htm)), the first seven sins show how complex we can make things, and how bad things can become:
+From the beginning ([Genesis 3-4](https://biblehub.com/genesis/3.htm)), the first seven sins show how complex we can make things, and how bad things can become:
 
 1. Eve permitted the temptation to eat the fruit, and Adam didn't stand up to oppose it.
 2. Eve, and then Adam, violated the boundary God placed by eating the fruit.
@@ -41,8 +41,8 @@ All followers of Christ are responsible for removing sin from their lives by sub
 
 Removing sin doesn't matter for salvation from hell:
 
-- [Romans 3:20-24](https://biblehub.com/bsb/romans/3.htm)
-- [Ephesians 2:8-9](https://biblehub.com/bsb/ephesians/2.htm)
+- [Romans 3:20-24](https://biblehub.com/romans/3.htm)
+- [Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)
 - We can never purify ourselves to a place of worthiness, and are under judgment from the moment we've first sinned.
 - In fact, sins run so deep that only God's divine intervention can stop us from committing them.
 
@@ -63,7 +63,7 @@ To avoid sin, we must draw near to God and stay far away from even thinking of s
 - While Christ's sacrifice gives us the freedom to sin, it has no use in the new life.
   - [1 Corinthians 10:23](https://biblehub.com/1_corinthians/10-23.htm)
 - For the sake of your soul, stay away from anyone or anything that can cause you to sin.
-  - [Matthew 5:29-30](https://biblehub.com/bsb/matthew/5.htm)
+  - [Matthew 5:29-30](https://biblehub.com/matthew/5.htm)
 
 God gave us each a specific amount of grace according to our needs.
 
@@ -87,7 +87,7 @@ God designed the Law within a historical context to separate the [culture](peopl
 God didn't create the laws to needlessly oppress.
 
 - Each of the laws, when examined for their intent, teaches either how to [live well](goodlife.md), [love](people-love.md), or have a relationship with Christ.
-  - [Galatians 3:23-24](https://biblehub.com/bsb/galatians/3.htm)
+  - [Galatians 3:23-24](https://biblehub.com/galatians/3.htm)
 - Some odder laws (like forbidding shellfish) often have [health implications](body-health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
 
 ## Every sin centers on an idol
@@ -187,7 +187,7 @@ Fight complacency as much as possible:
 Religiousness is also known as "leaven" (yeast) and leads to legalism.
 
 - [Luke 12:1](https://biblehub.com/luke/12-1.htm)
-- [1 Corinthians 5:6-8](https://biblehub.com/bsb/1_corinthians/5.htm)
+- [1 Corinthians 5:6-8](https://biblehub.com/1_corinthians/5.htm)
 - Once it's mixed, yeast and dough can never be separated, and religious thinking inflates the simple truth into dogmatic fluff.
 
 Watch for legalism in yourself and others:
@@ -210,12 +210,12 @@ Legalism builds through stages:
 
 Jesus commanded us to carry our cross daily.
 
-- [Matthew 16:24-25](https://biblehub.com/bsb/matthew/16.htm)
+- [Matthew 16:24-25](https://biblehub.com/matthew/16.htm)
 - The cross was a death penalty, and you must put your flesh to death on a daily, hourly, and per-minute basis.
 - You will face opposition from [the Satan](spiritual-warfare.md), the [world](hardship-persecution-church.md), and your [desires](humanity-christian.md).
 - Most risks to our souls are completely irrelevant when we follow God's commands.
 - You're not alone, and the Holy Spirit is with you if you desire Him.
-  - [Romans 8:2-6](https://biblehub.com/bsb/romans/8.htm)
+  - [Romans 8:2-6](https://biblehub.com/romans/8.htm)
 
 Avoiding temptation *requires* associating closely with other believers:
 

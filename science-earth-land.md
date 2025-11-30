@@ -18,7 +18,7 @@ Underneath the earth, there are many plates made of that shift. This can create 
 
 The highest naturally occurring element is uranium, and most natural radioactive elements are deep underground. The further down, the hotter it gets. Digging past the crust will quickly yield the mantle, then the core, which is so hot that everything is a liquid.
 
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - How could we put carbon back in the earth?
 - Why do rocks sail across the desert floor?

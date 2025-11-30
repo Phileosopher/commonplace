@@ -128,6 +128,6 @@ Observe when the sky is red.
 - Remember the mantra: red sky at night, sailor's delight, red sky at morning, sailors take warning.
 - Sometimes you can observe it with a red tint or paleness from the moon.
 
-## Additional reading
+## More information
 
 [100R: weather](https://100r.co/site/weather.html)

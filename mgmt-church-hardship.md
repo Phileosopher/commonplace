@@ -15,8 +15,8 @@ Draw a clear line between needs and conveniences.
 
 Needs are whatever Scripture commands and necessary for the Church to operate.
 
-- Music that sings praise to the Lord ([Psalm 33:1-13](https://biblehub.com/bsb/psalms/33.htm)).
-- In-reach - Teaching or [discipleship](spiritual-discipleship.md) through preaching and [Bible study](bible-study.md) ([Titus 2:7-8](https://biblehub.com/bsb/titus/2.htm)).
+- Music that sings praise to the Lord ([Psalm 33:1-13](https://biblehub.com/psalms/33.htm)).
+- In-reach - Teaching or [discipleship](spiritual-discipleship.md) through preaching and [Bible study](bible-study.md) ([Titus 2:7-8](https://biblehub.com/titus/2.htm)).
 - Outreach - Opportunities for [evangelism](evangelism.md) and other ministries, sending missionaries and ministers, and minister elections.
   - In most conventional churches, this is the public weekly congregation.
 - Communion/ Eucharist, public baptisms, marriages, and funerals.
@@ -178,7 +178,7 @@ Little or no faith will make a ministry reluctant to hear God's will:
 
 If the ministry has more than two of the above issues from deficient motivational gifts, it might not have enough hardship.
 
-- Hardship brings out character and hope for groups *and* individuals ([Romans 5:3-5](https://biblehub.com/bsb/romans/5.htm)).
+- Hardship brings out character and hope for groups *and* individuals ([Romans 5:3-5](https://biblehub.com/romans/5.htm)).
 - In the absence of hardship, every ministry becomes a [dysfunctional system](mgmt-badsystems.md).
 - Pray for God to bring hardship for spiritual growth and ask trustworthy leaders to do the same.
 
@@ -190,5 +190,5 @@ Watch for how believers' constant sin condition affects the group:
   - Condemning trends without a legitimate moral cause will shut off opportunities for the Gospel.
 - Focusing on the [end times](jesus-returns.md) and the geopolitical circumstances has no spiritual gain.
   - When you bring up the world, show how our lives should differ from its culture.
-  - The purpose of prophecy is to inspire us, not create present anxiety ([Revelation 22:16-17](https://biblehub.com/bsb/revelation/22.htm)).
+  - The purpose of prophecy is to inspire us, not create present anxiety ([Revelation 22:16-17](https://biblehub.com/revelation/22.htm)).
   - Focus steadfastly on [what's coming long-term](https://theologos.site/millennium/).

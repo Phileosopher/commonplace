@@ -21,12 +21,12 @@ An "angel" is a "messenger".
 The "seraphim" is a throne room guardian spirit.
 
 - The word "seraph" is connected to Hebrew for "burn" and "serpent", so they're often portrayed as fiery winged serpents.
-- [Isaiah 6:2](https://biblehub.com/bsb/isaiah/6-2.htm)
+- [Isaiah 6:2](https://biblehub.com/isaiah/6-2.htm)
 
 The "cherubim" are also divine throne guardians.
 
 - They have a very strange appearance that lends itself to a LOT of [symbolic](symbols.md) speculation.
-- [Ezekiel 1:5-10](https://biblehub.com/bsb/ezekiel/1.htm)
+- [Ezekiel 1:5-10](https://biblehub.com/ezekiel/1.htm)
 
 Thomas Aquinas grouped the heavenly beings into 3 orders:
 

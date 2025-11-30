@@ -94,11 +94,3 @@ Later, we may see [high-level languages](computers-languages.md), [compilers](co
 In fact, many quantum computer developers are already working on [programming](computers-languages.md) within the quantum computing field, even if there's not much hardware right now that can actually *run* the software. In effect, its abstraction is a very far extension of parallel processing.
 
 However, quantum computers can become an immense source of [informational power](power-types.md). They'd be able to sift through [the unbelievably massive piles of accumulated data obtained by many corporations and governments](faang.md), and the people in power would have a tremendous edge in [whatever they wish to do](purpose.md). This could be a [major risk](mgmt-badsystems.md).
-
-## Further Exploration
-
-[Quantum Flytrap](https://quantumgame.io/) - a browser-based game that explores quantum physics
-
-[Quantum Marble Maze](https://fiftysevendegreesofrad.github.io/quantum/) - a game that explores quantum physics
-
-[Quantum Roulette and the Nature of Reality](https://freelanceastro.github.io/bell/) - a simple dive into quantum entanglement

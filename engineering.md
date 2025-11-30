@@ -131,17 +131,17 @@ Money can often push the limits, but only to a specific point, and it'll simply 
 
 On every dimension of [computer design](computers.md), these same tradeoffs express themselves within the abstract as well.
 
-## Additional reading
+## More information
 
-- [Scan of the Month](https://www.scanofthemonth.com/)
+[Scan of the Month](https://www.scanofthemonth.com/)
 
-Simple Mechanical
+Simple mechanical:
 
 - [Animated Knots](https://www.animatedknots.com/)
 - [Mechanical Movements](http://507movements.com/)
 - [How a Mechanical Watch Works](https://ciechanow.ski/mechanical-watch/)
 
-Advanced Mechanical
+Advanced mechanical:
 
 - [Mechanical Engines](http://animatedengines.com/)
 - [How Gears Work](https://ciechanow.ski/gears/)

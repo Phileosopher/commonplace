@@ -254,6 +254,6 @@ FOR EACH functions allow loops over arrays. The loop will run across the array, 
 
 This can be *really* useful for lots of data. You can count the data that matches something, or make the computer do something related to where that data is stored (like modify the previous values or increment the data).
 
-## Additional reading
+## More information
 
 [freeCodeCamp](https://freecodecamp.org/) made [a high-quality 2-hour video](https://www.youtube.com/watch?v=zOjov-2OZ0E) that I nearly copied verbatim.

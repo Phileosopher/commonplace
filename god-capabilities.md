@@ -5,11 +5,11 @@ This is a formal list of possible ways that God has worked, followed by how He *
 
 ## Large-Scale
 
-Created the universe ([Genesis 1-2](https://biblehub.com/bsb/genesis/1.htm)).
+Created the universe ([Genesis 1-2](https://biblehub.com/genesis/1.htm)).
 
 ### Large-Scale Physical
 
-Worldwide flood event ([Genesis 7-8](https://biblehub.com/bsb/genesis/7.htm)).
+Worldwide flood event ([Genesis 7-8](https://biblehub.com/genesis/7.htm)).
 
 Destroyed Sodom and Gomorrah ([Genesis 19:24-25](https://biblehub.com/genesis/19.htm)).
 
@@ -29,11 +29,11 @@ Sent food from heaven every day except the Sabbath ([Exodus 16:4-15](https://bib
 
 Made water spring from a struck rock ([Exodus 17:5-6](https://biblehub.com/exodus/17.htm), [Numbers 20:7-11](https://biblehub.com/numbers/20.htm)).
 
-Parted the Jordan River ([Joshua 3:14-17](https://biblehub.com/bsb/joshua/3.htm), [2 Kings 2:7-8](https://biblehub.com/2_kings/2.htm), [2:14](https://biblehub.com/2_kings/2-14.htm)).
+Parted the Jordan River ([Joshua 3:14-17](https://biblehub.com/joshua/3.htm), [2 Kings 2:7-8](https://biblehub.com/2_kings/2.htm), [2:14](https://biblehub.com/2_kings/2-14.htm)).
 
-A strategic earthquake destroyed Jericho ([Joshua 6:6-20](https://biblehub.com/bsb/joshua/6.htm)).
+A strategic earthquake destroyed Jericho ([Joshua 6:6-20](https://biblehub.com/joshua/6.htm)).
 
-Changed the earth's rotation ([Joshua 10:12-14](https://biblehub.com/bsb/joshua/10.htm), [2 Kings 20:9-11](https://biblehub.com/2_kings/20.htm)).
+Changed the earth's rotation ([Joshua 10:12-14](https://biblehub.com/joshua/10.htm), [2 Kings 20:9-11](https://biblehub.com/2_kings/20.htm)).
 
 Rain for harvest ([1 Samuel 12:16-18](https://biblehub.com/1_samuel/12.htm), [1 Kings 18:41-45](https://biblehub.com/1_kings/18.htm)).
 
@@ -47,7 +47,7 @@ Star leads to Bethlehem ([Matthew 2:1-11](https://biblehub.com/matthew/2.htm)).
 
 ### Large-Scale Biological/Anthropological
 
-Confusion of [human languages](language.md) ([Genesis 11:1-9](https://biblehub.com/bsb/genesis/11.htm)).
+Confusion of [human languages](language.md) ([Genesis 11:1-9](https://biblehub.com/genesis/11.htm)).
 
 Covered Egypt with frogs ([Exodus 8:2-14](https://biblehub.com/exodus/8.htm)).
 

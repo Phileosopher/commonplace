@@ -93,7 +93,7 @@ Unfortunately, it's not uncommon for information to parse incorrectly, even with
 
 From [a design standpoint](engineering-design.md), adding barcode technology to an inherently social experience (e.g., restaurants, concerts) can create a *very* antisocial experience altogether, especially if people are conditioned to social interaction in a [culture](people-culture.md).
 
-## Additional reading
+## More information
 
 [GRAIL Text Recognizer](https://jackschaedler.github.io/handwriting-recognition/)
 

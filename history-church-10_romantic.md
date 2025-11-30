@@ -12,7 +12,7 @@ Almost all the denominations from before this time culturally froze somewhere in
 - The [Latter Day Saints](people-conflicts-christian-why.md) (**Mormons**) also arose during the Second Great Awakening, preaching a different Gospel that drew from an entirely new set of Scriptures.
 - Around this time, the Anabaptists created the **Apostolic Christian Church**, who practice adult baptism, members-only communion, greeting other Christians with a kiss, worship with limited or no musical instruments, women wearing head coverings during services. There are at least 5 divisions, with one of them in the early 1900s coming over whether some European customs were acceptable (specifically, having a mustache).
 
-During the Second Great Awakening, the Methodists started the Holiness Movement that advanced "second work" theology (that the baptism of the Holy Spirit at Pentecost in [Acts 2:1-4](https://biblehub.com/bsb/acts/2.htm) is a uniquely different work for believers from God than [salvation](jesus-gospel.md)). A secondary effect of "second work" theology is the belief of Christian perfectichurch-creeds.mdon (that Christians could become perfect in this life with the correct spiritual treatment). The consequences of this theology added a performative aspect to Christian traditions, the most sensational of the time coming from camp meetings:
+During the Second Great Awakening, the Methodists started the Holiness Movement that advanced "second work" theology (that the baptism of the Holy Spirit at Pentecost in [Acts 2:1-4](https://biblehub.com/acts/2.htm) is a uniquely different work for believers from God than [salvation](jesus-gospel.md)). A secondary effect of "second work" theology is the belief of Christian perfectichurch-creeds.mdon (that Christians could become perfect in this life with the correct spiritual treatment). The consequences of this theology added a performative aspect to Christian traditions, the most sensational of the time coming from camp meetings:
 
 1. In places like the unsettled USA, many people would move into an area but wouldn't have any religious community.
 2. On a religious festival day, a Christian denomination would hold an event where people could arrive and listen to someone preach.
@@ -23,7 +23,7 @@ During the Second Great Awakening, the Methodists started the Holiness Movement 
 
 The Church of Scotland experienced the Disruption of 1843, which was a conflict over whether the Church of Scotland or the British government could control clerical positions in the church. The group that believed the church had its own sovereignty became the **Free Church of Scotland**.
 
-The Millerites [predicted](imagination-failedprophecies.md) Jesus was coming back on October 22, 1844, after a few other recent false predictions. That didn't really work out for them, and created the Great Disappointment, but the **Seventh-Day Adventists** were strengthened to believe in the "shut-door" concept (that Jesus *had* come, and had "shut the door" to the foolish believers like the Parable of the Virgins in [Matthew 25:1-13](https://biblehub.com/bsb/matthew/25.htm)).
+The Millerites [predicted](imagination-failedprophecies.md) Jesus was coming back on October 22, 1844, after a few other recent false predictions. That didn't really work out for them, and created the Great Disappointment, but the **Seventh-Day Adventists** were strengthened to believe in the "shut-door" concept (that Jesus *had* come, and had "shut the door" to the foolish believers like the Parable of the Virgins in [Matthew 25:1-13](https://biblehub.com/matthew/25.htm)).
 
 The South African Revival of 1860 brought plenty of Christian culture to Africa, with Andrew Murray being a significant influence on it, as well as David Livingstone traveling *all over* the continent.
 
@@ -33,3 +33,8 @@ The Welsh Revival of 1904-1905 was the largest Christian revival in Wales, and w
 2. Put away all doubtful things and forgive everyone.
 3. Obey the promptings of the Holy Spirit.
 4. Publicly confess Christ as your savior.
+
+Roman Catholic Ecumenical Council #20 in 1869-1870 - The First Vatican Council feat. Pope Pius IX w/ 6 archbishop-princes, 49 cardinals, 11 patriarchs, 680 archbishops/bishops, 28 abbots, and 9 generals of orders
+
+- Decreed important canons relating to the Faith and the constitution of the Church
+- Decreed the pope is infallible when speaking "ex cathedra" (from "the chair")

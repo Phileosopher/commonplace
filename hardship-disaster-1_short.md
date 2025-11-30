@@ -231,7 +231,7 @@ While most disasters sort themselves out within 2-3 days, some won't get resolve
 
 Even if you didn't expect it, and no matter [how prepared you were](hardship-disaster-checklist.md), you'll eventually have to decide to [stick around](hardship-disaster-2_long-stay.md) or [leave](hardship-disaster-3_long-go.md).
 
-## Additional Reading
+## More information
 
 [DISASTERSAFETY.ORG](https://disastersafety.org/)
 

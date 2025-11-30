@@ -70,7 +70,7 @@ If they were being bluntly honest, they'd say the following:
 More than anything else, they are completely unwilling to admit fault in any error.
 
 - This creates the side effect that they simply never learn from their mistakes or change in any meaningful way.
-- Most of their changes will be the improvement of skills and increased [creativity](mind-creativity.md) in hiding their flaws.
+- Most of their changes will be the improvement of skills and increased [cleverness](mind-creativity.md) in hiding their flaws.
 
 They are continuously preoccupied with getting others to attend to them, pay attention to them, spend time with them, etc. ("narcissistic supply").
 

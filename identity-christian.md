@@ -13,10 +13,10 @@ As new [creations](creations.md) in Christ, Christians have a new [identity](ide
 
 - We have been set free from [moral slavery](morality-sins.md) ([Galatians 5:1](https://biblehub.com/galatians/5-1.htm)).
 - We are holy and dearly loved ([Colossians 3:12](https://biblehub.com/colossians/3-12.htm)).
-- We've been blessed with the Holy Spirit and can now communicate with God ([John 14:15-18](https://biblehub.com/bsb/john/14.htm)).
+- We've been blessed with the Holy Spirit and can now communicate with God ([John 14:15-18](https://biblehub.com/john/14.htm)).
 - The Holy Spirit will transform and renew our mind as far as we permit Him ([Romans 12:2](https://biblehub.com/romans/12-2.htm)).
 
-As part of the Church, we are becoming the Bride of Christ for an eternal union with Him ([Revelation 19:6-9](https://biblehub.com/bsb/revelation/19.htm)).
+As part of the Church, we are becoming the Bride of Christ for an eternal union with Him ([Revelation 19:6-9](https://biblehub.com/revelation/19.htm)).
 
 - This union makes us one in spirit with Him ([1 Corinthians 6:17](https://biblehub.com/1_corinthians/6-17.htm)).
 - When [Jesus comes back](jesus-returns.md), we will appear with Him in glory ([Colossians 3:4](https://biblehub.com/colossians/3-4.htm)).
@@ -32,7 +32,7 @@ We're supposed to let God renew our minds and put on a new self ([Ephesians 4:21
 - Our mind, in particular, is a present reality ([1 Corinthians 2:16](https://biblehub.com/1_corinthians/2-16.htm)).
 - We are made complete in Christ ([Colossians 2:10](https://biblehub.com/colossians/2-10.htm)).
 
-We will slowly bear more [spiritual fruits](morality.md) over time ([Galatians 5:22-23](https://biblehub.com/bsb/galatians/5.htm)).
+We will slowly bear more [spiritual fruits](morality.md) over time ([Galatians 5:22-23](https://biblehub.com/galatians/5.htm)).
 
 - More [loving](people-love.md), kinder, gentler, humbler and more patient ([Colossians 3:12](https://biblehub.com/colossians/3-12.htm)).
 - More [joyful](mind-feelings-happiness.md) and good.
@@ -59,11 +59,11 @@ We have a new home in heaven ([John 14:2](https://biblehub.com/john/14-2.htm)) w
 
 ## Our new identity won't mix with our old life
 
-The world won't like this "new you" ([John 15:18-19](https://biblehub.com/bsb/john/15.htm)).
+The world won't like this "new you" ([John 15:18-19](https://biblehub.com/john/15.htm)).
 
 - In fact, you *can't* be [friends](people-friends.md) with the world ([James 4:4](https://biblehub.com/james/4-4.htm)).
 
-The sacrifice is worth it, but you *will* endure [hardship](hardship.md) ([2 Corinthians 6:3-5](https://biblehub.com/bsb/2_corinthians/6.htm), [2 Timothy 4:5](https://biblehub.com/2_timothy/4-5.htm)).
+The sacrifice is worth it, but you *will* endure [hardship](hardship.md) ([2 Corinthians 6:3-5](https://biblehub.com/2_corinthians/6.htm), [2 Timothy 4:5](https://biblehub.com/2_timothy/4-5.htm)).
 
 Our [social support network](groups-large.md) will be in [the Body of Christ](church.md).
 
@@ -109,7 +109,7 @@ It's not uncommon for things we *think* are Christian behaviors to actually be i
 
 While on this earth, we can't be wholly sinless or perfect ([Philippians 3:12](https://biblehub.com/philippians/3-12.htm), [1 John 1:8](https://biblehub.com/1_john/1-8.htm)).
 
-We won't have an easier life and may not gain [financial wealth](money-investing.md) ([Malachi 3:10](https://biblehub.com/malachi/3-10.htm), [Luke 6:38](https://biblehub.com/luke/6-38.htm), [James 5:1-6](https://biblehub.com/bsb/james/5.htm)).
+We won't have an easier life and may not gain [financial wealth](money-investing.md) ([Malachi 3:10](https://biblehub.com/malachi/3-10.htm), [Luke 6:38](https://biblehub.com/luke/6-38.htm), [James 5:1-6](https://biblehub.com/james/5.htm)).
 
 We don't need "Christ and nobody else", and *always* need 3 other [same-sex](gender.md) believers in our lives:
 
@@ -126,9 +126,9 @@ God *does* often bless us in ways money can't provide:
 
 Religious rituals won't always help our relationship with Jesus.
 
-- We can strengthen our [faith](understanding-certainty.md) with [religious routines](spiritual-exercises.md), but doing them for the wrong reasons can *separate* us from God ([Matthew 23:27-28](https://biblehub.com/bsb/matthew/23.htm)).
+- We can strengthen our [faith](understanding-certainty.md) with [religious routines](spiritual-exercises.md), but doing them for the wrong reasons can *separate* us from God ([Matthew 23:27-28](https://biblehub.com/matthew/23.htm)).
 
-Don't search for mystical experiences such as miracles, healing, or supernatural phenomena ([Matthew 12:38-39](https://biblehub.com/bsb/matthew/12.htm)).
+Don't search for mystical experiences such as miracles, healing, or supernatural phenomena ([Matthew 12:38-39](https://biblehub.com/matthew/12.htm)).
 
 - God will bring mystical experiences when He wants to, and our faith is more important to Him than miracles ([John 20:29](https://biblehub.com/john/20-29.htm)).
 - Many Christians will pursue a spiritual [feeling](mind-feelings.md) from listening to worship music, but there's no good in seeking it without [understanding](understanding.md).
@@ -137,32 +137,32 @@ Don't search for mystical experiences such as miracles, healing, or supernatural
 
 God paid heavily for you with His son's life ([1 Corinthians 6:20](https://biblehub.com/1_corinthians/6-20.htm)).
 
-- We were [slaves](slavery.md) to sin, but now slaves to Christ ([Romans 6:18-22](https://biblehub.com/bsb/romans/6.htm)).
-- Slavery to Jesus has many, many liberties because we have a *very* kind master ([Matthew 11:29-30](https://biblehub.com/bsb/matthew/11.htm)).
+- We were [slaves](slavery.md) to sin, but now slaves to Christ ([Romans 6:18-22](https://biblehub.com/romans/6.htm)).
+- Slavery to Jesus has many, many liberties because we have a *very* kind master ([Matthew 11:29-30](https://biblehub.com/matthew/11.htm)).
 - Christians, however, often [abuse the freedoms](christian-new.md) God gives them.
 
-Everything we own is God's ([Matthew 5:27-30](https://biblehub.com/bsb/matthew/5.htm), [Matthew 13:44-46](https://biblehub.com/bsb/matthew/13.htm)).
+Everything we own is God's ([Matthew 5:27-30](https://biblehub.com/matthew/5.htm), [Matthew 13:44-46](https://biblehub.com/matthew/13.htm)).
 
-- God will give us more than we can acquire ourselves, but we must sacrifice everything for it ([Matthew 19:27-30](https://biblehub.com/bsb/matthew/19.htm), [Mark 10:28-31](https://biblehub.com/bsb/mark/10.htm)).
+- God will give us more than we can acquire ourselves, but we must sacrifice everything for it ([Matthew 19:27-30](https://biblehub.com/matthew/19.htm), [Mark 10:28-31](https://biblehub.com/mark/10.htm)).
 - We don't always have to burn bridges, relationships, and opportunities, but must always be prepared to release control of them if He asks.
 - The Bible doesn't provide details for *what* we must give because each person and the timing for each sacrifice is different.
 
 We are frequently ungrateful for many of the things He gives us:
 
-- Possessions, of any kind ([Matthew 19:23-26](https://biblehub.com/bsb/matthew/19.htm)).
+- Possessions, of any kind ([Matthew 19:23-26](https://biblehub.com/matthew/19.htm)).
 - Money ([Luke 6:30](https://biblehub.com/luke/6-30.htm)).
-- Any relationships with family or friends ([Matthew 10:37-39](https://biblehub.com/bsb/matthew/10.htm)).
-- Dreams, goals, and plans ([Matthew 6:26-34](https://biblehub.com/bsb/matthew/6.htm), [Luke 12:22-30](https://biblehub.com/bsb/luke/12.htm), [James 4:13-16](https://biblehub.com/bsb/james/4.htm))
+- Any relationships with family or friends ([Matthew 10:37-39](https://biblehub.com/matthew/10.htm)).
+- Dreams, goals, and plans ([Matthew 6:26-34](https://biblehub.com/matthew/6.htm), [Luke 12:22-30](https://biblehub.com/luke/12.htm), [James 4:13-16](https://biblehub.com/james/4.htm))
 
 Our relationship with God either thrives or falters.
 
-- Jesus wants our full submission ([Matthew 10:37-38](https://biblehub.com/bsb/matthew/10.htm)).
+- Jesus wants our full submission ([Matthew 10:37-38](https://biblehub.com/matthew/10.htm)).
 - We must give up everything else for Him in [faith](understanding-certainty.md) ([Luke 9:24](https://biblehub.com/luke/9-24.htm)).
 - God wants complete submission from us, all the way to our [souls](humanity-christian.md) ([Romans 6:13](https://biblehub.com/romans/6-13.htm)).
-- Christianity is a near-constant [inner battle](people-conflicts-inner.md) between our body's [impulses](habits.md) and the [Holy Spirit's commands](god-will.md) ([Romans 7:22-25](https://biblehub.com/bsb/romans/7.htm)).
+- Christianity is a near-constant [inner battle](people-conflicts-inner.md) between our body's [impulses](habits.md) and the [Holy Spirit's commands](god-will.md) ([Romans 7:22-25](https://biblehub.com/romans/7.htm)).
 - We must even submit [personal shame](hardship-worthlessness.md) and [past trauma](hardship-ptsd.md) to Him ([1 John 3:20](https://biblehub.com/1_john/3-20.htm)).
 
-Christianity is a long-term commitment ([Luke 9:61-62](https://biblehub.com/bsb/luke/9.htm)).
+Christianity is a long-term commitment ([Luke 9:61-62](https://biblehub.com/luke/9.htm)).
 
 - To build our relationship with God, we will grow to desire a variety of activities oriented toward [following His will](god-will.md):
 

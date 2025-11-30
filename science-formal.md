@@ -1,8 +1,7 @@
 
 # The formal sciences
 
-The formal sciences fail
-to answer the following obvious questions:
+## Obvious unanswered questions
 
 - Given the improbability of our existence, is it strictly random?
 - How did consciousness come into existence? What benefit does it give?

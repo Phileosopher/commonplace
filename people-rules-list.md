@@ -386,6 +386,6 @@ There are many customs specific to each culture:
 - Sometimes talking and yelling during a movie is considered appropriate, and other times it's offensive.
 - Sitting in a chair at a group event can be rude if someone else claimed it, even if you weren't aware.
 
-## Further reading
+## More information
 
 [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)

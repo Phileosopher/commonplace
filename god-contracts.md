@@ -111,12 +111,12 @@ Many, *many* [conflicts](people-conflicts-christian-why.md) have arisen about th
 
 ## 5. Mosaic Covenant
 
-Made between God and Israel, with Moses as an intermediary ([Exodus 19-24](https://biblehub.com/bsb/exodus/19.htm))
+Made between God and Israel, with Moses as an intermediary ([Exodus 19-24](https://biblehub.com/exodus/19.htm))
 
 Israel's consideration:
 
 - Trust God
-- Honor God's commands (stipulated in [Exodus 20](https://biblehub.com/bsb/exodus/20.htm)):
+- Honor God's commands (stipulated in [Exodus 20](https://biblehub.com/exodus/20.htm)):
   1. No other gods before God
   2. No idols made of anything, nor bowing down to them or worshiping them
      - In particular, God is jealous of any attention drawn away from Him

@@ -179,6 +179,6 @@ Possessing understanding creates a severe blind spot because it makes us [certai
 
 APPLICATION: The elderly have lived so long in their [habits](habits.md), so they either possess some of the strongest understanding of all humanity or some of the worst. There's very little room for them to be in the middle.
 
-## Additional Reading
+## More information
 
 [Mental Models](https://fs.blog/mental-models/)

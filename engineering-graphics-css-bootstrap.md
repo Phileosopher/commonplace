@@ -12,12 +12,12 @@ To start with, drop a link and the script into the header of the file.
 It's composed of 3 major elements:
 
 1. Containers - wraps the grid system, big boxes to hold stuff
-   - <div class="container">
+   - `<div class="container">`
    - The containers also have templates: container-fluid, container-lg, etc
 2. Rows - vertically parses the containers, nested inside "container"
-   - <div class="row">
+   - `<div class="row">`
 3. Columns - horizontally parses the rows, nested inside "row"
-   - <div class="col">
+   - `<div class="col">`
 
 - Rows and columns can be recursively nested inside each other, but all columns should sit directly inside rows and all rows should sit directly inside containers
 
@@ -57,7 +57,7 @@ The rows have conditions that can make columns easier to work with
 
 Bootstrap works off of HTML tables
 
-- <table class="table">
+- `<table class="table">`
 - there are themes within Bootstrap for coloring tables
   - there are 8 to choose from
     - primary
@@ -68,9 +68,9 @@ Bootstrap works off of HTML tables
     - info
     - light
     - dark
-  - <table class="table table-success">
-  - <tr class="table-danger">
-  - <td class="table-warning">
+  - `<table class="table table-success">`
+  - `<tr class="table-danger">`
+  - `<td class="table-warning">`
   - It can also alternate colors:
     - "table-striped" = alternating rows
     - "table-striped-columns" = alternating columns
@@ -80,11 +80,11 @@ Bootstrap works off of HTML tables
   - "table-bordered" = more borders
   - "table-borderless" = remove borders
 - "table-sm" makes the elements smaller to show more information
-- <div class="table-responsive"> allows responsive design (i.e., scrolls sideways)
+- `<div class="table-responsive">` allows responsive design (i.e., scrolls sideways)
   - without this, it'll just overflow past the screen
   - "table-responsive-lg" makes it responsive up until that size
 - dividers can be applied to thead, tbody, or tfooter:
-  - <thead class="table-group-divider">
+  - `<thead class="table-group-divider">`
   - it places a vertical line to visually divide it
 
 [LEFT OFF AT 22:45, ROWS](https://www.youtube.com/watch?v=Jyvffr3aCp0)

@@ -237,22 +237,22 @@ Except for casinos, [game development](computers-software-gamedev.md) contains s
 
 At its most sinister, social media can provoke people to "doomscroll" (consume a large amount of bad news at once) to keep people constantly engaged with that platform.
 
-## Additional reading
+## More information
 
-Delivering Impact
+Delivering impact:
 
 - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
-Colors
+Colors:
 
 - [Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)
 - [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - [Contrast Rebellion](https://contrastrebellion.com/)
 
-Specific Elements
+Specific elements:
 
 - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 
-Generating Addiction
+Generating addiction:
 
 - [Dark Patterns](https://neal.fun/dark-patterns/)

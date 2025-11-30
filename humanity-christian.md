@@ -3,7 +3,7 @@
 
 [Man](humanity.md) is unique among all creatures, and God [created](creations.md) us in His image.
 
-- [Genesis 1:26-27](https://biblehub.com/bsb/genesis/1.htm)
+- [Genesis 1:26-27](https://biblehub.com/genesis/1.htm)
 - We were *designed* to have a continuing relationship with God.
 
 Animals and plants, in a sense, also possess a type of soul, but not like people.
@@ -33,7 +33,7 @@ Every person is a tripartite being with a body, a soul, and a spirit.
 
 To attain fullness in Christ, we must manage all three components of ourselves.
 
-- [Romans 12:1-2](https://biblehub.com/bsb/romans/12.htm)
+- [Romans 12:1-2](https://biblehub.com/romans/12.htm)
 - [1 Thessalonians 5:23](https://biblehub.com/1_thessalonians/5-23.htm)
 - We can only find true [meaning](meaning.md) when we've harmonized all three:
   1. Our spirit must be directed to [God's will](god-will.md) to recognize spiritual truths.
@@ -58,13 +58,13 @@ The body itself has three major functions, though they have been largely corrupt
 A. Nourishment - consuming something for the purpose of survival:
 
 - When perverted, we submit to "mammon" (the endless consumer), which represents by a person devouring or taking another's things, all the way down the spectrum to cannibalism.
-  - [Luke 16:9-13](https://biblehub.com/bsb/luke/16.htm)
+  - [Luke 16:9-13](https://biblehub.com/luke/16.htm)
 - We can also pervert nourishment into reliance on [an idol](addiction.md).
 
 B. Reproduction - copulation for the purpose of [carrying one's essence onward](legacy.md):
 
 - When perverted, we desire further expansion beyond the [seasonal nature](trends.md) of our existence.
-  - [Ecclesiastes 3:1-8](https://biblehub.com/bsb/ecclesiastes/3.htm)
+  - [Ecclesiastes 3:1-8](https://biblehub.com/ecclesiastes/3.htm)
 - Reproduction can also be perverted toward desires to reproduce one's [power](power.md) and [methods](understanding.md) upon others, attain a great [name](language.md) that persists for millennia, or polygamy.
 
 C. Defense - [protection](safety-riskmgmt.md) from bad things:
@@ -75,7 +75,7 @@ We can be [scientifically precise](science.md) about all aspects of the body's f
 
 - Anytime we form [habits or routines](habits.md), our body is in exclusive control.
 - The body isn't inherently evil or good, but our bodies and their [actions](results.md) were ultimately made for God.
-  - [1 Corinthians 6:13-20](https://biblehub.com/bsb/1_corinthians/6.htm)
+  - [1 Corinthians 6:13-20](https://biblehub.com/1_corinthians/6.htm)
 - We must restrain our bodies from a wide variety of lusts.
   - [Romans 6:12](https://biblehub.com/romans/6-12.htm)
 
@@ -97,7 +97,7 @@ There are a few traits of "fleshly" living:
 
 We must treat our bodies like a wild beast that requires God's effort to tame, *not* like a despicable monster that deserves all condemnation.
 
-- [Romans 8:1-15](https://biblehub.com/bsb/romans/8.htm)
+- [Romans 8:1-15](https://biblehub.com/romans/8.htm)
 - The flesh itself was crucified in Christ, so we *do* have control over it, but must act on that knowledge.
 
 ## The Soul
@@ -155,7 +155,7 @@ The soul itself is infinite.
 - This doesn't necessarily mean it's *eternal*, but more that God built souls to last forever, which is likely a portion of how we're made in His image.
 - God requires a corrupted soul to exist separate from everything else to [protect the rest of creation](https://theologos.site/god-sight/), which is why hell needs to exist.
   - [Revelation 21:8](https://biblehub.com/revelation/21-8.htm)
-  - [2 Thessalonians 1:6-10](https://biblehub.com/bsb/2_thessalonians/1.htm)
+  - [2 Thessalonians 1:6-10](https://biblehub.com/2_thessalonians/1.htm)
 
 Generally, [meditation and release](awareness-meditation.md) come through separating our mind and will far enough that our spirit and body can send signals to us.
 
@@ -183,7 +183,7 @@ Even a dead spirit extends its influence outward from that person into the envir
 
 Mature Christians have internalized so much of [God's word](bible-study.md) that their spirit determines most of their conscious decisions.
 
-- [1 Corinthians 2:9-3:2](https://biblehub.com/bsb/1_corinthians/2.htm)
+- [1 Corinthians 2:9-3:2](https://biblehub.com/1_corinthians/2.htm)
 - A person's spirit is separate from God's Holy Spirit.
   - [1 Corinthians 2:11](https://biblehub.com/1_corinthians/2-11.htm).
 - Even Jesus has a spirit.
@@ -231,13 +231,13 @@ As we grow, we transition from body to soul, then to spirit:
 1. The dominant force for a newborn baby is their body because their soul and spirit hasn't developed yet, which also happens to be the way most animals function.
 2. To the degree we're not acting out of [habit](habits.md), we use our souls, and most adults *heavily* use their souls to understand and think.
 3. When a person sacrifices everything before Christ, their spirit is reborn.
-   - [John 12:24-26](https://biblehub.com/bsb/john/12.htm)
+   - [John 12:24-26](https://biblehub.com/john/12.htm)
 4. Once a person has had a reborn spirit, they value things differently than when they operated heavily on their soul's understanding.
    - [2 Corinthians 5:17](https://biblehub.com/2_corinthians/5-7.htm)
-   - [Ezekiel 36:24-30](https://biblehub.com/bsb/ezekiel/36.htm)
+   - [Ezekiel 36:24-30](https://biblehub.com/ezekiel/36.htm)
 5. Post-Christ, God is [constantly battling](spiritual-warfare.md) with our old nature, the devil, and the corrupting influences of the world to convert our nature to a spirit-led soul that [controls](spiritual-exercises.md) the body's impulses.
 6. A soul may mostly direct the body right *now*, but will eventually interact more with the spirit later.
-   - [1 Corinthians 15:42-44](https://biblehub.com/bsb/1_corinthians/15.htm)
+   - [1 Corinthians 15:42-44](https://biblehub.com/1_corinthians/15.htm)
 
 Our bodies can only react, and anything that requires more elaborate thought or consideration requires our soul (e.g., [sins](morality-sins.md) like envy, jealousy, vengeance).
 
@@ -275,11 +275,11 @@ There's a strong chance that integration of our [shadow persona](personality.md)
 The devil can [work to malign](spiritual-warfare.md) our body, soul, *and* spirit:
 
 - His general plan is to prevent us from using our spirit in relationship with God and instead trust the understanding within our souls.
-  - [Proverbs 3:5-6](https://biblehub.com/bsb/proverbs/3.htm)
+  - [Proverbs 3:5-6](https://biblehub.com/proverbs/3.htm)
 - He typically spends most of his time stirring up our [fears](mind-feelings-fear.md), distracting our [purpose](purpose.md) within our soul, and attaching the soul's shame to our conscience.
 - However, he has the power to manifest all *types* of hallucinations and visions that our body can perceive.
 - If a person submits themselves willingly to the devil, he can grant them an intuition (e.g., fortune-telling), though it's filled with [lies](people-lying.md). This can also happen when people don't test the spirits against God's wisdom.
-  - [1 John 4:1-2](https://biblehub.com/bsb/1_john/4.htm)
+  - [1 John 4:1-2](https://biblehub.com/1_john/4.htm)
 
 Some people have erroneously imagined that we must separate out the spirit or spirit/soul from the rest of us.
 
@@ -289,15 +289,15 @@ Some people have erroneously imagined that we must separate out the spirit or sp
   - [James 2:26](https://biblehub.com/james/2-26.htm)
 - If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](people-conflicts-christian-why.md) through several channels:
   - Asceticism
-    - [1 Timothy 4:1-3](https://biblehub.com/bsb/1_timothy/4.htm)
-    [Colossians 2:20-23](https://biblehub.com/bsb/colossians/2.htm)
+    - [1 Timothy 4:1-3](https://biblehub.com/1_timothy/4.htm)
+    [Colossians 2:20-23](https://biblehub.com/colossians/2.htm)
   - Libertinism
-    - [2 Peter 2:13-22](https://biblehub.com/bsb/2_peter/2.htm)
-    - [Jude](https://biblehub.com/bsb/jude/1.htm)
+    - [2 Peter 2:13-22](https://biblehub.com/2_peter/2.htm)
+    - [Jude](https://biblehub.com/jude/1.htm)
 - [Spiritual exercises](spiritual-exercises.md) serve to strengthen and expand our relationship with God, but they're often *very* physical things (e.g., a [church service](church.md), [serving others](church-serve.md)).
 - As we work to operate our bodies according to spiritual purposes, we will face many [inner conflicts](people-conflicts-inner.md) and kill [bad habits](habits.md) along the way, but we never fully stop being "body-like".
-  - [Romans 7:15-23](https://biblehub.com/bsb/romans/7.htm)
-  - [Colossians 3:5-7](https://biblehub.com/bsb/colossians/3.htm)
+  - [Romans 7:15-23](https://biblehub.com/romans/7.htm)
+  - [Colossians 3:5-7](https://biblehub.com/colossians/3.htm)
 
 When our body is fatigued or suffering, or when our soul is distracted or overwhelmed, it will *definitely* affect our spirit.
 

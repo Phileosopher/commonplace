@@ -47,14 +47,7 @@ Wave effects, both with sound and with light, happen relative to the location of
 - The best example comes from observing a train honking its horn as it speeds past. First, the train sounds more high-pitched than if it were standing still, then shifts rapidly downward to a much lower pitch as it drives by.
 - This red shift/blue shift also blends in with spacetime (proven partially by [GPS](logistics-navigation.md) calculations), so a person traveling near the speed of light will age slower than someone who stays still.
 
-## Further reading
-
-- [How does entropy work?](https://aatishb.com/entropy/)
-- [How does sound work?](https://pudding.cool/2018/02/waveforms/)
-- [How do lights work?](https://ciechanow.ski/lights-and-shadows/)
-- [Physics: Susan Rigetti](https://www.susanrigetti.com/physics)
-
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - Where did the matter in the universe first come from?
 - How long has the universe been around?
@@ -65,3 +58,10 @@ Obvious questions that remain unanswered:
 - Is light a wave or a particle? If it's both, when does it change?
 - What causes gravity?
 - How does a bicycle stay up while in motion?
+
+## More information
+
+- [How does entropy work?](https://aatishb.com/entropy/)
+- [How does sound work?](https://pudding.cool/2018/02/waveforms/)
+- [How do lights work?](https://ciechanow.ski/lights-and-shadows/)
+- [Physics: Susan Rigetti](https://www.susanrigetti.com/physics)

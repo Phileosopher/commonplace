@@ -1,7 +1,7 @@
 
 # Non-systematic theology
 
-Following Jesus is *not* intellectually demanding, and Jesus places a straightforward and easy path for us ([Matthew 11:28-30](https://biblehub.com/bsb/matthew/11.htm)).
+Following Jesus is *not* intellectually demanding, and Jesus places a straightforward and easy path for us ([Matthew 11:28-30](https://biblehub.com/matthew/11.htm)).
 
 - Theology, however, is simply a branch of "[applied philosophy](philosophy.md)" toward knowing God.
   - The higher the theological thought, the closer the study compares to raw philosophy.
@@ -10,7 +10,7 @@ Following Jesus is *not* intellectually demanding, and Jesus places a straightfo
 We all need *some* form of theology.
 
 - Without the [logical reasoning](logic.md) of philosophy, we'd have nothing but [sentiment](mind-feelings.md).
-  - [Personality](personality.md) and [culture](people-culture.md) will make each theology a little different, but God takes care of His people ([Matthew 18:12-14](https://biblehub.com/bsb/matthew/18.htm)).
+  - [Personality](personality.md) and [culture](people-culture.md) will make each theology a little different, but God takes care of His people ([Matthew 18:12-14](https://biblehub.com/matthew/18.htm)).
 - "Theology", as a word, has two possible perspectives, which profoundly affects *how* far we'll need it:
     1. Self-defined [understanding](understanding.md) of God, as we perceive and conclude it in our minds.
     2. God-given understanding, since we have at least a limited ability to come to understanding of God's wisdom ourselves ([2 Timothy 2:7](https://biblehub.com/2_timothy/2-7.htm)).

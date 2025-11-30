@@ -436,7 +436,7 @@ Listen to your [significant other's](relationships-marriage.md) advice, since th
 
 - Money is only one way to accomplish most [purposes](purpose.md), and also happens to be the least [creative](mind-creativity.md).
 
-## Additional content
+## More information
 
 Books:
 

@@ -19,8 +19,8 @@ The entire convergence on this page is *not* precise, but accurate-enough.
 
 Most of the conventions that make a "typical" church are borrowed from a few source traditions:
 
-1. The Hebrew temple had many traditions established (many of them from [Levitical law](https://biblehub.com/bsb/leviticus/1.htm)).
-2. After the Temple fell in [2 Kings 24:10-14](https://biblehub.com/bsb/2_kings/24.htm), the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
+1. The Hebrew temple had many traditions established (many of them from [Levitical law](https://biblehub.com/leviticus/1.htm)).
+2. After the Temple fell in [2 Kings 24:10-14](https://biblehub.com/2_kings/24.htm), the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
 3. New followers of Christ [imitated synagogue tradition](history-church.md) (mostly) and added their own adaptations.
 4. As Gentiles arrived, some traditions were removed or permuted to accommodate non-Hebrews.
 5. By approximately 200 AD, the Catholic Church later codified and standardized those traditions.
@@ -49,7 +49,7 @@ Each denomination derives a certain form of [meaning](meaning.md) over rituals b
 To that end, this is an attempt to indicate all the ways you *could* do church.
 
 - You can, however, apply any Bible verses about living well on an individual level to make new rituals and sacraments, which will likely spin into [a different denomination](history-church.md) over time.
-- A church should develop its own creativity in discovering new ways to live more like Christ ([Hebrews 10:24-25](https://biblehub.com/bsb/hebrews/10.htm)).
+- A church should develop its own creativity in discovering new ways to live more like Christ ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
 
 Therefore, while most of the essays here use Bible citations, this page doesn't call for an exhaustive listing.
 
@@ -57,16 +57,16 @@ Therefore, while most of the essays here use Bible citations, this page doesn't 
 
 None of the following are technically "necessary" for any salvation-based matters.
 
-- The Bible makes it clear that God saves us, not the way we conduct our rituals ([Ephesians 2:8-9](https://biblehub.com/bsb/ephesians/2.htm)).
+- The Bible makes it clear that God saves us, not the way we conduct our rituals ([Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)).
 - Instead, a ritual's purpose is the same as any other [spiritual exercise](spiritual-exercises.md): to create a [habitual rhythm](habits.md) that fosters [virtuous living](morality.md).
 - Religious observance also creates a type of [group cohesion](values.md) through a [shared purpose](purpose.md).
-- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) ([1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm), [Romans 14:1-12](https://biblehub.com/bsb/romans/14.htm)).
+- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm), [Romans 14:1-12](https://biblehub.com/romans/14.htm)).
 
 ## Statement of faith
 
 The statement of faith is essentially a [philosophical assertion](philosophy.md) of all aspects that unite your church together.
 
-- It can be long or short, but it *will* be [controversial](people-conflicts-christian-why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+- It can be long or short, but it *will* be [controversial](people-conflicts-christian-why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 - Generally, the more details, the more controversial, but the more likelihood you'll find like-minded believers joining your church (if any).
 
 The [sacraments and rituals](mgmt-church-worship-rituals.md) directly flow from the creeds and catechisms you choose to adopt.
@@ -113,7 +113,7 @@ One combined solution can accommodate *every* member's individual needs:
 Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 - Beyond [Scripture](bible.md), this will be *highly* personal, and won't apply to others.
-- However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/bsb/matthew/10.htm)).
+- However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/matthew/10.htm)).
 
 If you pull *anything* from existing denominations, you'll also often draw their added criticism because it was inspired from them.
 
@@ -125,13 +125,13 @@ Expect [conflicts](people-conflicts-christian-why.md) with other Christians.
 
 - God designed all good things, and using a good thing in its place with Him as part of it is just as spiritual as any long-standing traditions or denominations.
 - Even extremely *non*-religious domains (e.g., [science](science.md), [engineering](engineering.md)) can be holy if Christ is at the center of it.
-- By implication, this means all secular things can be holy, and that is [taboo](morality-taboo.md) among most Christians, even though the Bible indicates it clearly ([1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm)).
+- By implication, this means all secular things can be holy, and that is [taboo](morality-taboo.md) among most Christians, even though the Bible indicates it clearly ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
 
 ## Growth
 
 Most pastors are territorial, but they sin when they do.
 
-- God appoints each person to a job, and He grants the increase ([1 Corinthians 3:5-9](https://biblehub.com/bsb/1_corinthians/3.htm)).
+- God appoints each person to a job, and He grants the increase ([1 Corinthians 3:5-9](https://biblehub.com/1_corinthians/3.htm)).
 - His Church is a vast variety of [cultures](people-culture.md) and [groups](groups-small.md), and anything you do is merely one of those groups.
 - [Every denomination](history-church.md) is simply the result of [conflicts with other denominations](people-conflicts-christian-why.md), and [none of them will last indefinitely](https://theologos.site/millennium/).
 

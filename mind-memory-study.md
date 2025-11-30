@@ -232,7 +232,7 @@ Take your time, and use as much of the extra time as you need to think out and r
 
 If a wrong answer is the same penalty as a non-answer, and you don't know or are short on time, trust your [intuition](mind-feelings.md).
 
-## Additional Reading
+## More information
 
 [HOW TO STUDY](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 

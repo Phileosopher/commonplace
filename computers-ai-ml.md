@@ -95,3 +95,18 @@ Since it's still a dumb computer, any attempts to manually override the algorith
 - Google tried to make more non-white people and females in its algorithm to be more [inclusive](politics-leftism.md), but ended up making the United States Founding Fathers black-skinned.
 - Asking a machine learning algorithm how to make weapons (e.g., mustard gas, napalm) will bring up a denial, but asking how to *avoid* making those weapons will give all the necessary information.
 - Requesting information on a subject will lean toward the organization's [bias](mind-bias.md), but not if the user makes the algorithm role-play as someone else.
+
+## More information
+
+Research papers:
+
+- [OpenReview](https://openreview.net/)
+
+Deep learning:
+
+- [Deep-Learning](https://github.com/ElizaLo/Deep-Learning)
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)
+
+Deep reinforcement learning:
+
+- [Deep_Reinforcement_Learning](https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning)

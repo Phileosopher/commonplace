@@ -3,8 +3,7 @@
 
 Algebraic calculations are highly critical for computers to work correctly. In fact, behind the syntax, the bulk of [programming](computers-programming.md) is simply [algebraic](math-algebra.md) notation.
 
-Signals
--------
+## Signals
 
 One of the most frequently-used computer uses of algebra is with converting [visual](computer-screen.md) and [auditory](computers-speakersmic.md) information. The formula for this is the [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform). It is designed to convert a signal and change properties of it with a calculation (e.g., stretching/shrinking across time, changing pitch/volume, scaling up/down).
 

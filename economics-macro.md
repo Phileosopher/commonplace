@@ -178,6 +178,8 @@ Endless distortions and doping to an economy start doing strange things to it.
 
 - "Normal" market dynamics start breaking down when the public pays attention and develops any sort of opinion over it (e.g., people start saving more, people are less likely to [change jobs](jobs-1_why.md)).
 
-## Additional reading
+## More information
 
-[Sim CB](https://benoitessiambre.com/macro.html) - try to regulate central banking like the Federal Reserve
+Central banking simulator:
+
+- [Sim CB](https://benoitessiambre.com/macro.html)

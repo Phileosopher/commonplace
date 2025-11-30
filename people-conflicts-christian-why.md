@@ -1,13 +1,13 @@
 
 # What Christian conflicts should look like
 
-[Conflicts](people-conflicts-why.md) are absolutely inevitable for Christians ([Matthew 10:34-36](https://biblehub.com/bsb/matthew/10.htm)).
+[Conflicts](people-conflicts-why.md) are absolutely inevitable for Christians ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 
 - Most [denominations across Christian history](history-church.md) were formed through some type of disagreement.
 - Many Christians higher on the Agreeableness [personality](personality.md) dimension (especially [leaders](mgmt-church.md)) have trouble with this fact.
-- This won't change until [Jesus comes back](jesus-returns.md) and [sets up His Kingdom](https://theologos.site/millennium/), though it *still* won't be completely gone until the Final Judgment in [Revelation 21](https://biblehub.com/bsb/revelation/21.htm).
+- This won't change until [Jesus comes back](jesus-returns.md) and [sets up His Kingdom](https://theologos.site/millennium/), though it *still* won't be completely gone until the Final Judgment in [Revelation 21](https://biblehub.com/revelation/21.htm).
 
-However, we *must* engage any disagreements in love ([1 Corinthians 13:1-3](https://biblehub.com/bsb/1_corinthians/13.htm)).
+However, we *must* engage any disagreements in love ([1 Corinthians 13:1-3](https://biblehub.com/1_corinthians/13.htm)).
 
 - Many people who claim Christianity do *not* follow Christ, but can gain [influence](power-influence.md) by associating with it.
 - Most cults have been indoctrinated to believe Christians have perverted the truth, are following false doctrines, are in severe error, or the [Church's leadership](mgmt-church.md) is exploitative in nature.
@@ -18,7 +18,7 @@ Everyone is [entitled to their beliefs](people-boundaries-why.md) and [tradition
 - Some people can believe a contradiction that defies naturally healthy conflict-management strategies:
   - They'll hate you, with "loving" you being through condemning behavior to show you the truth.
   - They won't realize they're being rude, or imagine the rudeness is perfectly justified.
-  - Typically, they won't see living graciously or peaceably as important ([1 Timothy 2:1-4](https://biblehub.com/bsb/1_timothy/2.htm)).
+  - Typically, they won't see living graciously or peaceably as important ([1 Timothy 2:1-4](https://biblehub.com/1_timothy/2.htm)).
 - Even while they may be trying desperately to [influence you](power-influence.md) or force you to react, do *not* lose your temper.
 - The battle is [*much* larger than just your interaction](spiritual-warfare.md), and you can show Christ [even if they persecute you](hardship-persecution-church.md).
 
@@ -34,14 +34,14 @@ In general, prioritize your [conflict management](people-conflicts.md) skills co
 1. As much as it depends on you, be at peace with everyone ([Romans 12:18](https://biblehub.com/romans/12-18.htm)).
    - This may mean dropping disagreements that get too heated or don't have much earthly significance.
    - It also means [staying legally safe](legal-safety.md), but exercising restraint in delivering [legal action](legal-doctrines.md).
-2. If it's a [legitimate sin](morality-sins.md) with another Christian, confront them about it ([Matthew 18:15-17](https://biblehub.com/bsb/matthew/18.htm), [Deuteronomy 19:15-21](https://biblehub.com/bsb/deuteronomy/19.htm)).
+2. If it's a [legitimate sin](morality-sins.md) with another Christian, confront them about it ([Matthew 18:15-17](https://biblehub.com/matthew/18.htm), [Deuteronomy 19:15-21](https://biblehub.com/deuteronomy/19.htm)).
    - If that doesn't work, bring 1-2 others with you to validate what they're saying with evidence.
    - Take it to the church at large if that doesn't clear up the issue.
    - Finally, if nothing changes, exile them outright from your group.
-   - Do *not* take issues with other Christians in front of a secular group ([1 Corinthians 6:1-8](https://biblehub.com/bsb/1_corinthians/6.htm)).
-3. Lastly, if a so-called Christian is openly practicing outright lawlessness, don't even associate with them ([2 Timothy 3:1-5](https://biblehub.com/bsb/2_timothy/3.htm)).
-   - Some people have a *lot* of experience with following God, but have no hope of salvation ([Hebrews 6:4-6](https://biblehub.com/bsb/hebrews/6.htm)).
-   - Most controversies with this level of opposition with others fail to recognize that we receive [eternal salvation in Christ](jesus-gospel.md) when we die ([2 Timothy 4:7-8](https://biblehub.com/bsb/2_timothy/4.htm)).
+   - Do *not* take issues with other Christians in front of a secular group ([1 Corinthians 6:1-8](https://biblehub.com/1_corinthians/6.htm)).
+3. Lastly, if a so-called Christian is openly practicing outright lawlessness, don't even associate with them ([2 Timothy 3:1-5](https://biblehub.com/2_timothy/3.htm)).
+   - Some people have a *lot* of experience with following God, but have no hope of salvation ([Hebrews 6:4-6](https://biblehub.com/hebrews/6.htm)).
+   - Most controversies with this level of opposition with others fail to recognize that we receive [eternal salvation in Christ](jesus-gospel.md) when we die ([2 Timothy 4:7-8](https://biblehub.com/2_timothy/4.htm)).
 
 Most of the more durable heresies and bad theology comes through a few major routes:
 
@@ -59,7 +59,7 @@ The only worthwhile debates are the ones that affect how to rightly [understand]
 
 Do *not* back down from clear-cut language Christianity uses (e.g., don't accept that Jesus was "a God" instead of "God").
 
-- The [devil himself](spiritual-warfare.md) leads many cults, so expect a *massive* fight over seemingly minor matters ([2 Corinthians 11:13-15](https://biblehub.com/bsb/2_corinthians/11.htm)).
+- The [devil himself](spiritual-warfare.md) leads many cults, so expect a *massive* fight over seemingly minor matters ([2 Corinthians 11:13-15](https://biblehub.com/2_corinthians/11.htm)).
 
 Frequently, the best thing for [your thought life](spiritual-exercises.md) is to back out of the conflict and reflect or [read your Bible](bible-study.md) more thoroughly.
 

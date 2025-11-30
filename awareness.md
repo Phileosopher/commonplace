@@ -90,6 +90,6 @@ Too much awareness can sometimes make people more *selfish*.
 
 Further, we sometimes must pace ourselves, since too much truth at once may overwhelm us.
 
-## Additional Reading
+## More information
 
 [Relaxation Response](http://www.relaxationresponse.org/)

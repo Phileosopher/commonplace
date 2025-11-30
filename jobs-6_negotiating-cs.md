@@ -62,8 +62,6 @@ Of course, it might be possible you're battling a general dissatisfaction bleedi
 
 However, some companies are *so* bad that they'll actually fail to contact you *after* getting a job offer. In many ways, [you dodged a bullet](jobs-suck-cs.md).
 
----
-
-## Further Reading
+## More information
 
 - [Equity for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)

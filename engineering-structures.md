@@ -15,6 +15,6 @@ Concrete itself, as a material, involves a specific process:
 
 Large structures are typically designed for long-term use, so they have *dramatically* more factors to consider regarding weather, erosion, and chemical breakdown. They also suffer *many* more risks from internal failure of various smaller systems (e.g., air conditioner).
 
-## Additional reading
+## More information
 
 [How Ships Are Built](https://ciechanow.ski/naval-architecture/)

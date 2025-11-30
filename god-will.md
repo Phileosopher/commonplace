@@ -17,8 +17,8 @@ All Christians must learn to submit to God
 
 God gives us a season of distance to make us grow through submission:
 
-- This journey is a spiritual [rite of passage](maturity.md) ([Exodus](https://biblehub.com/bsb/exodus/1.htm), [Matthew 4:1-10](https://biblehub.com/bsb/matthew/4.htm)).
-- God designed that hardship to provoke us to better [spiritual exercises](spiritual-exercises.md) ([2 Corinthians 4:7-10](https://biblehub.com/bsb/2_corinthians/4.htm)).
+- This journey is a spiritual [rite of passage](maturity.md) ([Exodus](https://biblehub.com/exodus/1.htm), [Matthew 4:1-10](https://biblehub.com/matthew/4.htm)).
+- God designed that hardship to provoke us to better [spiritual exercises](spiritual-exercises.md) ([2 Corinthians 4:7-10](https://biblehub.com/2_corinthians/4.htm)).
 - Some believers presume *all* life with Christ is this wilderness, while others imagine that it simply never happens.
 
 There are some clear signs we haven't submitted:
@@ -50,12 +50,12 @@ God directs people for several reasons at once:
 He gives us what we need, but never more than that.
 
 - We are given enough information to go through our day, and that's it.
-- He makes it *very* clear that we aren't supposed to worry about tomorrow ([Matthew 6:25-34](https://biblehub.com/bsb/matthew/6.htm)).
+- He makes it *very* clear that we aren't supposed to worry about tomorrow ([Matthew 6:25-34](https://biblehub.com/matthew/6.htm)).
 
 When we aren't at peace, we seek God's will for a few key reasons:
 
-1. Anxiety or fear of perceived [consequences](results.md) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
-2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](people-decisions.md) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
+1. Anxiety or fear of perceived [consequences](results.md) ([Philippians 4:6-7](https://biblehub.com/philippians/4.htm)).
+2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](people-decisions.md) ([Galatians 6:7-8](https://biblehub.com/galatians/6.htm)).
 3. Our [desires](purpose.md) are split between personal fulfillment and following God ([Revelation 3:16](https://biblehub.com/revelation/3-16.htm)).
 
 We should only want to know God's will because we sincerely desire to please Him (i.e., "The Lord is leading" instead of "God told me to").
@@ -74,7 +74,7 @@ We should want wisdom more than specific guidance:
 - Biblical wisdom is a disciplined and prudent life with a fear of the Lord ([Proverbs 9:10](https://biblehub.com/proverbs/9-10.htm)).
 - Wisdom is more important than silver or gold ([Proverbs 8:11](https://biblehub.com/proverbs/8-11.htm)).
 - We should longingly seek for wisdom.
-- Wisdom gives freedom and life through understanding it ([Proverbs 4:6-7](https://biblehub.com/bsb/proverbs/4.htm)).
+- Wisdom gives freedom and life through understanding it ([Proverbs 4:6-7](https://biblehub.com/proverbs/4.htm)).
 
 Discipline yourself to wisdom:
 
@@ -95,17 +95,17 @@ A. Have an eternal relationship with Jesus Christ:
 
 B. Let God sanctify you:
 
-- Sanctification is setting something aside for a holy purpose ([1 Thessalonians 4](https://biblehub.com/bsb/1_thessalonians/4.htm)).
+- Sanctification is setting something aside for a holy purpose ([1 Thessalonians 4](https://biblehub.com/1_thessalonians/4.htm)).
 - Remove any [sins](morality-sins.md) that could get in between you and God.
-- Be holy like Jesus ([1 Peter 1:15-16](https://biblehub.com/bsb/1_peter/1.htm)).
+- Be holy like Jesus ([1 Peter 1:15-16](https://biblehub.com/1_peter/1.htm)).
 
 C. Let God fill you with the Holy Spirit:
 
-- Live by the power of the Holy Spirit, not [feelings](mind-feelings.md) or [knowledge](understanding.md) ([Galatians 5:16-25](https://biblehub.com/bsb/galatians/5.htm), [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm), [Ephesians 5:17](https://biblehub.com/ephesians/5-17.htm)).
+- Live by the power of the Holy Spirit, not [feelings](mind-feelings.md) or [knowledge](understanding.md) ([Galatians 5:16-25](https://biblehub.com/galatians/5.htm), [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm), [Ephesians 5:17](https://biblehub.com/ephesians/5-17.htm)).
 
 D. Stay humble with everyone:
 
-- Practice [spiritual exercises](spiritual-exercises.md) and [change bad habits](https://adequate.life/habits/) as you discover them ([1 Peter 2](https://biblehub.com/bsb/1_peter/2.htm)).
+- Practice [spiritual exercises](spiritual-exercises.md) and [change bad habits](https://adequate.life/habits/) as you discover them ([1 Peter 2](https://biblehub.com/1_peter/2.htm)).
 
 E. Suffer righteously:
 
@@ -115,13 +115,13 @@ E. Suffer righteously:
 
 F. Act when He calls us to special projects:
 
-- There is a time and place for everything under the sun ([Ecclesiastes 3:1-8](https://biblehub.com/bsb/ecclesiastes/3.htm)).
+- There is a time and place for everything under the sun ([Ecclesiastes 3:1-8](https://biblehub.com/ecclesiastes/3.htm)).
 - Most of the Bible involves people who were performing a relatively uninteresting life until God called them to a (typically unexpected) interesting role.
 
 G. Thank Him for His availability and your situation:
 
-- One of the most significant signs of a healthy Christian walk is gratitude ([Ephesians 5](https://biblehub.com/bsb/ephesians/5.htm)).
-- In general, Christians should have nothing to [be afraid](mind-feelings-fear.md) of, not even *death* ([1 Corinthians 15:54-58](https://biblehub.com/bsb/1_corinthians/15.htm)).
+- One of the most significant signs of a healthy Christian walk is gratitude ([Ephesians 5](https://biblehub.com/ephesians/5.htm)).
+- In general, Christians should have nothing to [be afraid](mind-feelings-fear.md) of, not even *death* ([1 Corinthians 15:54-58](https://biblehub.com/1_corinthians/15.htm)).
 
 ## We complicate His will
 
@@ -152,7 +152,7 @@ The Bible does *not* guarantee external benefits:
 - Reasonable and low-stress challenges
   - God *frequently* gives you more than you can handle to force you to rely on Him!
 - A stable lifestyle
-  - Christians usually transition through cycles of hardship and prosperity ([Philippians 4:11-13](https://biblehub.com/bsb/philippians/4.htm))
+  - Christians usually transition through cycles of hardship and prosperity ([Philippians 4:11-13](https://biblehub.com/philippians/4.htm))
 - Any of the above for someone you care about
 
 ## While in His will, you can do whatever you want
@@ -162,8 +162,8 @@ If you have the right attitude with Him, *anything* you do is His will:
 If you have the right attitude with Him, *anything* you do is His will:
 
 - God cares *far* more about your relationship with Him than [doctrines](theology.md), [churches](church.md), [living situation](homes-buysell.md), [career decisions](jobs-1_why.md), [friendships](people-friends.md), [relationships](relationships-marriage.md), and [family decisions](parenting-babies.md) ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
-- Eat and drink what you want, assuming it doesn't harm others' conscience ([1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm)).
-- Travel or live anywhere you want, assuming He didn't call you to go somewhere ([Acts 8:26-27](https://biblehub.com/bsb/acts/8.htm)).
+- Eat and drink what you want, assuming it doesn't harm others' conscience ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
+- Travel or live anywhere you want, assuming He didn't call you to go somewhere ([Acts 8:26-27](https://biblehub.com/acts/8.htm)).
 - [Associate](people-friends.md) with anyone you want, assuming you weren't called to a specific ministry.
 - In general, adopt any lifestyle you want that's [loving](people-love.md).
 

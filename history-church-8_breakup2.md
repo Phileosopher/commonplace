@@ -21,6 +21,6 @@ In the 1520s, Hundrych Zwingli in Switzerland publicly attacked the custom of fa
 
 There was another problem the Catholic Church hadn't considered, starting in 1492. Christopher Columbus had discovered the New World, and people were starting to colonize it. This meant anyone willing to take on the risks of starting life in a new place could be as self-governing as they wanted, with much less religious influence from the Catholic Church.
 
-The Catholic Church's authority was under attack from more than the heretics, too. Henry VIII wanted to legally divorce, but the Catholic Church forbade it, so he simply broke off the **Church of England** to fulfill his specific desire (which had been around but until that point was aligned with the Roman Catholic Church).
+The Catholic Church's authority was under attack from more than the heretics, too. Henry VIII wanted to legally divorce, but the Catholic Church forbade it, so he simply broke off the **Church of England** in 1534 to fulfill his specific desire (which had been around but until that point was aligned with the Roman Catholic Church).
 
-**Lutherans** closely followed and advanced the idea of Pietism (individual piety and devotion to God is most important, *not* the corporate body of worshipers), and they culturally froze around the year 1530.
+**Lutherans** closely followed and advanced the idea of Pietism (individual piety and devotion to God is most important, *not* the corporate body of worshipers), and they culturally froze around the year 1534.

@@ -212,7 +212,7 @@ Develop "soft skills" that apply to many tasks:
 
 - Touch typing
 - Speed reading
-- [Computer use](computers-fast.md)
+- [Computer use](https://trendless.tech/fast/)
 - Hand-eye coordination
 
 ### Use music appropriately

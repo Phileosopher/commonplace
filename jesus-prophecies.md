@@ -13,7 +13,7 @@ The chances of even *some* of Jesus' prophecies happening, with their prediction
 Seed of a woman (virgin birth)
 
 - [Genesis 3:15](https://biblehub.com/genesis/3-15.htm)
-- [Galatians 4:4-5](https://biblehub.com/bsb/galatians/4.htm), [Matthew 1:18](https://biblehub.com/matthew/1-18.htm)
+- [Galatians 4:4-5](https://biblehub.com/galatians/4.htm), [Matthew 1:18](https://biblehub.com/matthew/1-18.htm)
 
 He will bruise Satan's head
 
@@ -27,13 +27,13 @@ The bodily ascension to heaven illustrated
 
 The God of Shem will be the Son of Shem
 
-- [Genesis 9:26-27](https://biblehub.com/bsb/genesis/9.htm)
+- [Genesis 9:26-27](https://biblehub.com/genesis/9.htm)
 - [Luke 3:36](https://biblehub.com/luke/3-36.htm)
 
 The Seed of Abraham will bless all nations
 
 - [Genesis 12:3](https://biblehub.com/genesis/12-3.htm)
-- [Galatians 3:8](https://biblehub.com/galatians/3-8.htm), [Acts 3:25-26](https://biblehub.com/bsb/acts/3.htm)
+- [Galatians 3:8](https://biblehub.com/galatians/3-8.htm), [Acts 3:25-26](https://biblehub.com/acts/3.htm)
 
 The promise made to Abraham's seed
 
@@ -53,7 +53,7 @@ King of peace and righteousness
 The Last Supper foreshadowed
 
 - [Genesis 14:18](https://biblehub.com/genesis/14-18.htm)
-- [Matthew 26:26-29](https://biblehub.com/bsb/matthew/26.htm)
+- [Matthew 26:26-29](https://biblehub.com/matthew/26.htm)
 
 Seed of Isaac
 
@@ -72,7 +72,7 @@ Isaac's seed, will bless all nations
 
 Isaac's seed, promised as the redeemer
 
-- [Genesis 26:2-5](https://biblehub.com/bsb/genesis/26.htm)
+- [Genesis 26:2-5](https://biblehub.com/genesis/26.htm)
 - [Hebrews 11:18](https://biblehub.com/hebrews/11-18.htm)
 
 The bridge to heaven
@@ -88,7 +88,7 @@ Jacob's seed
 The time of His coming
 
 - [Genesis 49:10](https://biblehub.com/genesis/49-10.htm)
-- [Luke 2:1-7](https://biblehub.com/bsb/luke/2.htm), [Galatians 4:4](https://biblehub.com/galatians/4-4.htm)
+- [Luke 2:1-7](https://biblehub.com/luke/2.htm), [Galatians 4:4](https://biblehub.com/galatians/4-4.htm)
 
 The Seed of Judah
 
@@ -103,7 +103,7 @@ Called Shiloh or One Sent
 Messiah to come before Judah lost identity
 
 - [Genesis 49:10](https://biblehub.com/genesis/49-10.htm)
-- [John 11:47-52](https://biblehub.com/bsb/john/11.htm)
+- [John 11:47-52](https://biblehub.com/john/11.htm)
 
 The obedience of the nations will be his
 
@@ -112,7 +112,7 @@ The obedience of the nations will be his
 
 The Great "I AM"
 
-- [Exodus 3:13-15](https://biblehub.com/bsb/exodus/3.htm)
+- [Exodus 3:13-15](https://biblehub.com/exodus/3.htm)
 - [John 4:26](https://biblehub.com/john/4-26.htm), [8:58](https://biblehub.com/john/8-58.htm)
 
 A Lamb without blemish
@@ -127,18 +127,18 @@ The blood of the Lamb saves from wrath
 
 Christ is our Passover
 
-- [Exodus 12:21-27](https://biblehub.com/bsb/exodus/12.htm)
+- [Exodus 12:21-27](https://biblehub.com/exodus/12.htm)
 - [1 Corinthians 5:7](https://biblehub.com/1_corinthians/5-7.htm)
 
 Not a bone of the Lamb will be broken
 
 - [Exodus 12:46](https://biblehub.com/exodus/12-46.htm)
-- [John 19:31-36](https://biblehub.com/bsb/john/19.htm)
+- [John 19:31-36](https://biblehub.com/john/19.htm)
 
 His exaltation predicted as Yeshua
 
 - [Exodus 15:2](https://biblehub.com/exodus/15-2.htm)
-- [Acts 7:55-56](https://biblehub.com/bsb/acts/7.htm)
+- [Acts 7:55-56](https://biblehub.com/acts/7.htm)
 
 He would be holy
 
@@ -157,23 +157,23 @@ He would be merciful
 
 His sacrifice as a sweet-smelling savor to God
 
-- [Leviticus 1:2-9](https://biblehub.com/bsb/leviticus/1.htm)
+- [Leviticus 1:2-9](https://biblehub.com/leviticus/1.htm)
 - [Ephesians 5:2](https://biblehub.com/ephesians/5-2.htm)
 
 The leper was cleansed, gave a sign to the priesthood
 
 - [Leviticus 14:11](https://biblehub.com/leviticus/14-11.htm)
-- [Luke 5:12-14](https://biblehub.com/bsb/luke/5.htm), [Acts 6:7](https://biblehub.com/acts/6-7.htm)
+- [Luke 5:12-14](https://biblehub.com/luke/5.htm), [Acts 6:7](https://biblehub.com/acts/6-7.htm)
 
 Prefigures Christ's once-for-all death
 
-- [Leviticus 16:15-17](https://biblehub.com/bsb/leviticus/16.htm)
-- [Hebrews 9:7-14](https://biblehub.com/bsb/hebrews/9.htm)
+- [Leviticus 16:15-17](https://biblehub.com/leviticus/16.htm)
+- [Hebrews 9:7-14](https://biblehub.com/hebrews/9.htm)
 
 Suffering outside the Camp
 
 - [Leviticus 16:27](https://biblehub.com/leviticus/16-27.htm)
-- [Matthew 27:33](https://biblehub.com/matthew/27-33.htm), [Hebrews 13:11-12](https://biblehub.com/bsb/hebrews/13.htm)
+- [Matthew 27:33](https://biblehub.com/matthew/27-33.htm), [Hebrews 13:11-12](https://biblehub.com/hebrews/13.htm)
 
 The blood is the life of the body
 
@@ -183,22 +183,22 @@ The blood is the life of the body
 It is the blood that makes atonement
 
 - [Leviticus 17:11](https://biblehub.com/leviticus/17-11.htm)
-- [Romans 3:23-24](https://biblehub.com/bsb/romans/3.htm), [1 John 1:7](https://biblehub.com/1_john/1-7.htm)
+- [Romans 3:23-24](https://biblehub.com/romans/3.htm), [1 John 1:7](https://biblehub.com/1_john/1-7.htm)
 
 The Drink-offering: "If any man thirsts"
 
-- [Leviticus 23:36-37](https://biblehub.com/bsb/leviticus/23.htm)
+- [Leviticus 23:36-37](https://biblehub.com/leviticus/23.htm)
 - [John 7:37](https://biblehub.com/john/7-37.htm)
 
 Not a bone of Him broken
 
 - [Numbers 9:12](https://biblehub.com/numbers/9-12.htm)
-- [John 19:31-36](https://biblehub.com/bsb/john/19.htm)
+- [John 19:31-36](https://biblehub.com/john/19.htm)
 
 Lifted onto a pole
 
 - [Numbers 21:9](https://biblehub.com/numbers/21-9.htm)
-- [John 3:14-18](https://biblehub.com/bsb/john/3.htm), [12:32](https://biblehub.com/john/12-32.htm)
+- [John 3:14-18](https://biblehub.com/john/3.htm), [12:32](https://biblehub.com/john/12-32.htm)
 
 Time: "I will see him, but not now"
 
@@ -212,33 +212,33 @@ The prophet that must be listened to
 
 Had you believed Moses, you would believe me
 
-- [Deuteronomy 18:15-16](https://biblehub.com/bsb/deuteronomy/18.htm)
-- [John 5:45-47](https://biblehub.com/bsb/john/5.htm)
+- [Deuteronomy 18:15-16](https://biblehub.com/deuteronomy/18.htm)
+- [John 5:45-47](https://biblehub.com/john/5.htm)
 
 Sent by the Father to speak His word
 
 - [Deuteronomy 18:18](https://biblehub.com/deuteronomy/18-18.htm)
-- [John 8:28-29](https://biblehub.com/bsb/john/8.htm)
+- [John 8:28-29](https://biblehub.com/john/8.htm)
 
 Whoever will not hear must bear his sin
 
 - [Deuteronomy 18:19](https://biblehub.com/deuteronomy/18-19.htm)
-- [Acts 3:22-23](https://biblehub.com/bsb/acts/3.htm)
+- [Acts 3:22-23](https://biblehub.com/acts/3.htm)
 
 "Cursed is he who hangs on a tree"
 
 - [Deuteronomy 21:23](https://biblehub.com/deuteronomy/21-23.htm)
-- [Galatians 3:10-13](https://biblehub.com/bsb/galatians/3.htm)
+- [Galatians 3:10-13](https://biblehub.com/galatians/3.htm)
 
 The captain of our salvation
 
-- [Joshua 5:14-15](https://biblehub.com/bsb/joshua/5.htm)
+- [Joshua 5:14-15](https://biblehub.com/joshua/5.htm)
 - [Hebrews 2:10](https://biblehub.com/hebrews/2-10.htm)
 
 Christ, our kinsman, has redeemed us
 
-- [Ruth 4:4-10](https://biblehub.com/bsb/ruth/4.htm)
-- [Ephesians 1:3-7](https://biblehub.com/bsb/ephesians/1.htm)
+- [Ruth 4:4-10](https://biblehub.com/ruth/4.htm)
+- [Ephesians 1:3-7](https://biblehub.com/ephesians/1.htm)
 
 An anointed King to the Lord
 
@@ -247,8 +247,8 @@ An anointed King to the Lord
 
 David's seed or descendant (the fruit of his body), called Lord
 
-- [2 Samuel 7:12](https://biblehub.com/2_samuel/7-12.htm), [1 Chronicles 17:11](https://biblehub.com/1_chronicles/17-11.htm), [Jeremiah 23:5-6](https://biblehub.com/bsb/jeremiah/23.htm), [Jeremiah 33:14-15](https://biblehub.com/bsb/jeremiah/33.htm), [Ezekiel 34:23-24](https://biblehub.com/bsb/ezekiel/34.htm), [Ezekiel 37:24-25](https://biblehub.com/bsb/ezekiel/37.htm), [Psalm 110:1](https://biblehub.com/psalms/110-1.htm), [Psalm 132:11](https://biblehub.com/psalms/132-11.htm)
-- [Matthew 1:1](https://biblehub.com/matthew/1-1.htm), [9:27](https://biblehub.com/matthew/9-27.htm), [22:42-45](https://biblehub.com/bsb/matthew/22.htm), [Luke 1:31-33](https://biblehub.com/bsb/luke/1.htm), [Luke 3:23-31](https://biblehub.com/bsb/luke/3.htm), [Acts 2:30](https://biblehub.com/acts/2-30.htm)
+- [2 Samuel 7:12](https://biblehub.com/2_samuel/7-12.htm), [1 Chronicles 17:11](https://biblehub.com/1_chronicles/17-11.htm), [Jeremiah 23:5-6](https://biblehub.com/jeremiah/23.htm), [Jeremiah 33:14-15](https://biblehub.com/jeremiah/33.htm), [Ezekiel 34:23-24](https://biblehub.com/ezekiel/34.htm), [Ezekiel 37:24-25](https://biblehub.com/ezekiel/37.htm), [Psalm 110:1](https://biblehub.com/psalms/110-1.htm), [Psalm 132:11](https://biblehub.com/psalms/132-11.htm)
+- [Matthew 1:1](https://biblehub.com/matthew/1-1.htm), [9:27](https://biblehub.com/matthew/9-27.htm), [22:42-45](https://biblehub.com/matthew/22.htm), [Luke 1:31-33](https://biblehub.com/luke/1.htm), [Luke 3:23-31](https://biblehub.com/luke/3.htm), [Acts 2:30](https://biblehub.com/acts/2-30.htm)
 
 His kingdom is everlasting
 
@@ -258,12 +258,12 @@ His kingdom is everlasting
 The Son of God
 
 - [2 Samuel 7:14a](https://biblehub.com/2_samuel/7-14.htm)
-- [Luke 1:32](https://biblehub.com/luke/1-32.htm), [Romans 1:3-4](https://biblehub.com/bsb/romans/1.htm)
+- [Luke 1:32](https://biblehub.com/luke/1-32.htm), [Romans 1:3-4](https://biblehub.com/romans/1.htm)
 
 David's house is established and will reign forever
 
-- [2 Samuel 7:16](https://biblehub.com/2_samuel/7-16.htm), [1 Chronicles 17:12-13](https://biblehub.com/bsb/1_chronicles/17.htm)
-- [Luke 1:32-33](https://biblehub.com/bsb/luke/1.htm), [Luke 3:31](https://biblehub.com/luke/3-31.htm), [Revelation 22:16](https://biblehub.com/revelation/22-16.htm)
+- [2 Samuel 7:16](https://biblehub.com/2_samuel/7-16.htm), [1 Chronicles 17:12-13](https://biblehub.com/1_chronicles/17.htm)
+- [Luke 1:32-33](https://biblehub.com/luke/1.htm), [Luke 3:31](https://biblehub.com/luke/3-31.htm), [Revelation 22:16](https://biblehub.com/revelation/22-16.htm)
 
 The bodily ascension to heaven illustrated
 
@@ -277,10 +277,10 @@ I will be His Father, and he will be my Son
 
 Mediator between man and God
 
-- [Job 9:32-33](https://biblehub.com/bsb/job/9.htm)
+- [Job 9:32-33](https://biblehub.com/job/9.htm)
 - [1 Timothy 2:5](https://biblehub.com/1_timothy/2-5.htm)
 
 Resurrection predicted
 
-- [Job 19:23-27](https://biblehub.com/bsb/job/19.htm), [Psalm 17:15](https://biblehub.com/psalms/17-15.htm), [Psalm 30:3](https://biblehub.com/psalms/30-3.htm)
-- [John 5:24-29](https://biblehub.com/bsb/john/5.htm), [Luke 24:6](https://biblehub.com/luke/24-6.htm), [Acts 2:32](https://biblehub.com/acts/2-32.htm)
+- [Job 19:23-27](https://biblehub.com/job/19.htm), [Psalm 17:15](https://biblehub.com/psalms/17-15.htm), [Psalm 30:3](https://biblehub.com/psalms/30-3.htm)
+- [John 5:24-29](https://biblehub.com/john/5.htm), [Luke 24:6](https://biblehub.com/luke/24-6.htm), [Acts 2:32](https://biblehub.com/acts/2-32.htm)

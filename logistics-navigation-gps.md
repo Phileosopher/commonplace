@@ -82,6 +82,6 @@ And, social requirements can make the UX even more complex:
 - Political issues, specifically [territorial disputes](https://en.wikipedia.org/wiki/List_of_territorial_disputes), may create *severe* conflicts over the colored shading of a region or its given name. Ironically, most software developers were simply pulling from other maps and didn't think about it.
 - For military reasons, satellite imagery may be removed or redefined, especially in a [conflict zone](https://gainedn.site/war/).
 
-## Additional reading
+## More information
 
 [How Trilateration Works](https://ciechanow.ski/gps/)

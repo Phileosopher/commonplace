@@ -285,6 +285,6 @@ Water stains and water rings:
 
 - Rub toothpaste or mayonnaise into it.
 
-## Further Reading
+## More information
 
 [Removing Fabric Stains from Clothing](https://www.bhg.com/homekeeping/laundry-linens/stain-removal/removing-stains-from-fabrics/)

@@ -128,11 +128,6 @@ In other words, it's interoperable and simple enough to use anywhere. That's not
 
 There are other components to SQL. For example, a function can sit inside another function to make it a "nested function". SQL can also do JOIN to a newly created table with data derived off the source table, which is called a "self join".
 
-### Additional reading
-
-- [Select Star SQL](https://selectstarsql.com/) - a much better and in-depth tutorial than this could ever be
-- [SQL Police Department](https://sqlpd.com/) - solve crimes while learning SQL
-
 ### Redundant
 
 There are several ways to design a database. You can "normalize" it by making it have less redundant data points:
@@ -174,3 +169,10 @@ In short, NoSQL refers to any data that isn't held strictly in a relational data
 At one time, SQL databases were a great idea to hold lots of information, back when the cost of storing data was more expensive than the cost of having developers work on it. However, now that we can hold comparatively huge amounts of information cheaply, NoSQL makes more sense.
 
 When you scale up to [enterprise-grade](computers-distsys-enterprise.md) databases, NoSQL makes even more sense, since developers have more options to store data without being bound by the old relational database rules.
+
+## More information
+
+SQL:
+
+- [Select Star SQL](https://selectstarsql.com/) - a much better and in-depth tutorial than this could ever be
+- [SQL Police Department](https://sqlpd.com/) - solve crimes while learning SQL

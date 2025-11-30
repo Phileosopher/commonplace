@@ -160,7 +160,12 @@ Of course, if you don't like working with tech, there are *many* in-demand trade
 - The tech industry's [youthful nature](https://trendless.tech/trends/) means the positivity people have for working on their role is *vastly* [inflated](people-image-distortion.md).
 - If you enjoy the work, even if it doesn't pay that well, you're [living a better life](goodlife.md) than someone enduring an awful job.
 
-## Additional reading
+## More information
 
-- [Goomics](https://goomics.net/) - Google internal comics
-- [Overemployed](https://overemployed.com/) - Learn how to work two jobs at once
+Google internal comics:
+
+- [Goomics](https://goomics.net/)
+
+Working two jobs at once:
+
+- [Overemployed](https://overemployed.com/)

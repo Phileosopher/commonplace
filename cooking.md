@@ -317,6 +317,6 @@ Find new ways to improve your cooking experience:
 - Read recipe books for new cooking challenges and explore .
 - Try to limit yourself to specific ingredients for an added challenge.
 
-## Additional Reading
+## More information
 
 [Based Cooking](https://based.cooking/)

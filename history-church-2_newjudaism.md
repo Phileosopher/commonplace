@@ -23,7 +23,7 @@ Interestingly, their privacy actually created confusion for the Romans:
 - On the 3rd, 9th, and 30/40th day after a believer passed, Christians would gather at the departed's tomb, read Scripture, pray together, give money to the poor, and eat a meal together.
 - Altogether, some Romans had misunderstood (to the point of justifying [persecution](hardship-persecution-church.md)) that the Christians were cannibals (Eucharist+graves), ate boys baked into bread (baptism+Eucharist), and performed lewd acts with each other (holy kiss+Thanksgiving Service).
 
-It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/bsb/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
+It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
 
 The logical outflow of the "new priesthood" thought was that [Jesus returning](jesus-returns.md), and [His eventual reign](https://theologos.site/millennium/), was a coming reality more than merely something to hope for. Death wasn't as much "permanent departure" as much as "will return soon", and they didn't believe in a Rapture.
 

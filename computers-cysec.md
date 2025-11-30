@@ -185,3 +185,13 @@ Tor has received negative attention from vague popularized concepts about the "[
 In all reality, there are likely more legitimate services from privacy-concerned individuals on the Onion Network than illegitimate ones.
 
 Tor also serves as a useful tech admin tool, since you have access to multiple random IP addresses.
+
+## More information
+
+Tutorials and guides:
+
+- [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university)
+
+Notes:
+
+- [SecNotes](https://github.com/0xRar/SecNotes)

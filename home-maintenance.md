@@ -210,6 +210,6 @@ The maintenance of your home will add to the [quality of your life](goodlife.md)
 - Projects that improve life for [children](parenting-children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
 - Building a workshop can make *all* the above, as well as [fixing](https://adequate.life/fix/), much easier.
 
-## Additional reading
+## More information
 
 [EPA Mold Course](https://www.epa.gov/mold/mold-course-introduction)

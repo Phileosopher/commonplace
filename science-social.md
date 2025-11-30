@@ -14,7 +14,7 @@ There are *many* social sciences, and they all have a limited scope of influence
 - [Political science](politics-systems.md): measuring how to govern large groups of people
 - [Economics](economics.md): measuring interactions and activity in large groups
 
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
 
 - What is the purpose of living?
 - Why does the placebo effect work?

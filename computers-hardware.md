@@ -190,6 +190,6 @@ Computers will always be a big career-maker as long as the following chain of ev
 
 In other words, if you're patient with computers, you have job security.
 
-$$ Further Reading
+## More information
 
 [Effects of Grill Patterns on Fan Performance/Noise](https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/)

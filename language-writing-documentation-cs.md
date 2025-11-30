@@ -73,6 +73,6 @@ Many technical software honor UML and markdown, which opens up many varieties of
 
 Also, ASCII is monospaced, so it can be used to make ASCII charts and diagrams, beyond simply ASCII art.
 
-## Additional Information
+## More information
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)

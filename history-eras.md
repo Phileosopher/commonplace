@@ -8,7 +8,7 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 ## Ancient history
 
 - ? - ~2000 BC: Stone/Neolithic Age (technological)
-- ~5000 BC - ~300 BC: Copper Age (technological), transition to Bronze Age
+- ~5000 BC - ~3300 BC: Copper Age (technological), transition to Bronze Age
 - ~3300 BC - ~1200 BC: Bronze Age (technological)
 - ~1200 BC - 550 BC: Iron Age (technological)
 - 753 BC - 476 AD: Roman Empire (political)
@@ -51,6 +51,8 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
   - 1821 - 1832: Greek War of Independence
   - 1822 - 1825: Brazilian War of Independence
   - 1789 - 1799: French Revolution
+  - 1857 - 1858: Indian Rebellion (political/wars)
+  - 1850 - 1864: Taiping Revolution (political/wars)
 - 1767 - 1791: Compromise Generation (generational)
 - 1788 - 1868: Convict Era (political/cultural)
 - 1792 - 1821: Transcendental Generation (generational)
@@ -61,8 +63,6 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 - 1822 - 1842: Gilded Generation (generational)
 - 1843 - 1859: Progressive Generation (generational)
 - 1846 - present: Oil Age (technological)
-- 1857 - 1858: Indian Rebellion (political/wars)
-- 1850 - 1864: Taiping Revolution (political/wars)
 - 1860 - 1882: Missionary Generation (generational)
 - 1861 - 1865: American Civil War (political/wars/cultural)
 - 1870 - 1914: Second Industrial Revolution (technological)
@@ -80,7 +80,7 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 
 - 1944 - 1976: Jet Age (technological)
 - 1946 - 1964: Baby Boomers (generational)
-- 1945 - 1991: Atomic Age (cultural/technological)
+- 1945 - 1991: Atomic/Nuclear Age (cultural/technological)
 - 1947 - present: Digital/Third Industrial Revolution (cultural/technological)
 - 1957 - 2011: Space Age (cultural/technological)
 - 1965 - 1980: Generation X (generational)

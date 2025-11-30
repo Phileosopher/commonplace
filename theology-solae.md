@@ -29,7 +29,7 @@ Naturally, this was offensive to the then-only Church at the time. This caused m
 
 So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-3_near.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
 
-It's worth noting the Solae are *not* matters of [salvation](jesus-gospel.md), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/bsb/luke/22.htm)).
+It's worth noting the Solae are *not* matters of [salvation](jesus-gospel.md), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/luke/22.htm)).
 
 ## A. Sola Scriptura
 
@@ -55,9 +55,9 @@ Human culture across the lens of geography and history is vast, and it's *very* 
 
 God loves variety (as evidenced by [His vast array of life, celestial objects, and physical structures](science.md)), so open-ended statements are logically consistent with His nature. This results in God intentionally framing the Bible with few to no verses about many subjects.
 
-This vagueness does provide freedom ([Galatians 5](https://biblehub.com/bsb/galatians/5.htm)), but we can *easily* overstep into error:
+This vagueness does provide freedom ([Galatians 5](https://biblehub.com/galatians/5.htm)), but we can *easily* overstep into error:
 
-1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/bsb/romans/1.htm)) as a good thing.
+1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/romans/1.htm)) as a good thing.
 2. If we make clarifications of vague passages, *our* faith and beliefs in God creates that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
 3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](morality-sins.md).
 4. In particular, [church leaders](mgmt-church.md) must be careful what they forbid and how they do it within their domain of [influence](power-influence.md).
@@ -74,7 +74,7 @@ Church and Scripture with the same authority permits more clear guidance from th
 
 The advantage of Scripture over Church is that the Scripture holds more true, meaning it won't change with [social fashions](trends.md), but it comes with the disadvantage that there's no true authority where the Bible is silent.
 
-It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love ([John 13:35](https://www.bible.com/bible/206/jhn.13.35)) and that there's at least *some* sense of [order](unknown.md) ([1 Corinthians 14:26-32](https://biblehub.com/bsb/1_corinthians/14.htm)).
+It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love ([John 13:35](https://www.bible.com/bible/206/jhn.13.35)) and that there's at least *some* sense of [order](unknown.md) ([1 Corinthians 14:26-32](https://biblehub.com/1_corinthians/14.htm)).
 
 ### Problem 2: *Which* Scriptura?
 
@@ -96,7 +96,7 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 
 Trusting God takes *far* more work than simply believing in Him, and requires [taking action](people-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
 
-The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](jesus-gospel.md) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/bsb/matthew/21.htm)).
+The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](jesus-gospel.md) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
 
 The Sola Fide battle came largely out of an archaic conflict around the Catholic Church's [politics](politics-systems.md). Failing the Church's standards will *not* banish us to hell, and nearly every Christian would agree with that now: God's standards are where we find or lose salvation.
 

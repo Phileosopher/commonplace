@@ -5,10 +5,10 @@ Being a Christian means you have a [relationship with Jesus](identity.md).
 
 - This does *not* mean you go to any particular church, but it *does* mean you'll naturally become part *of* the Church at large.
 
-God calls believers to connect with each other, so Christians shouldn't neglect fellowship ([Hebrews 10:23-25](https://biblehub.com/bsb/hebrews/10.htm)).
+God calls believers to connect with each other, so Christians shouldn't neglect fellowship ([Hebrews 10:23-25](https://biblehub.com/hebrews/10.htm)).
 
 - Fellowship is effectively sharing a lifestyle in a loving community with other believers ([Acts 2:42](https://biblehub.com/acts/2-42.htm)).
-- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](understanding-certainty.md) sound doctrine ([John 4:19-24](https://biblehub.com/bsb/john/4.htm)).
+- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](understanding-certainty.md) sound doctrine ([John 4:19-24](https://biblehub.com/john/4.htm)).
 - We don't need a routine congregation, but we *do* need routine fellowship, which is most conveniently fulfilled with a congregation in [a free society](hardship-persecution-church.md).
 - Without this fellowship, we start developing strange beliefs, which adversely affects our ability to [walk patiently and faithfully with God](https://theologos.site/devotion-chaos/).
 
@@ -18,7 +18,7 @@ The church network is connected through the catholic church.
 
 A church is a Christian [community](groups-small.md), not a building or location.
 
-- A church spiritually grounds itself on God's Word ([Ephesians 2:19-22](https://biblehub.com/bsb/ephesians/2.htm)), and any believers gathering to worship together are a church.
+- A church spiritually grounds itself on God's Word ([Ephesians 2:19-22](https://biblehub.com/ephesians/2.htm)), and any believers gathering to worship together are a church.
 - God shows Himself in church services when that church focuses on giving God praise.
 
 Without [persecution](hardship-persecution-church.md), church members usually form into demographically similar groups based on [personality](personality.md), with the [leadership](mgmt-church.md) made of the most extreme personalities:
@@ -46,13 +46,13 @@ Church locations can be *anywhere*.
 
 Some believers insist on meeting in specific buildings or avoiding a routine venue.
 
-- While their meetings are good, they sin if they hate other parts of the church ([Acts 9:1-5](https://biblehub.com/bsb/acts/9.htm)).
+- While their meetings are good, they sin if they hate other parts of the church ([Acts 9:1-5](https://biblehub.com/acts/9.htm)).
 
 ## Wisely choose your leaders
 
-Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https://biblehub.com/bsb/1_timothy/2.htm), [Titus 1:5-9](https://biblehub.com/bsb/titus/1.htm)).
+Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https://biblehub.com/1_timothy/2.htm), [Titus 1:5-9](https://biblehub.com/titus/1.htm)).
 
-- Church leaders must adequately [succeed](success-1_why.md) and be leaders by [the world's standards](mgmt-1_why.md) ([1 Timothy 3](https://biblehub.com/bsb/1_timothy/3.htm)).
+- Church leaders must adequately [succeed](success-1_why.md) and be leaders by [the world's standards](mgmt-1_why.md) ([1 Timothy 3](https://biblehub.com/1_timothy/3.htm)).
 - If you're not a leader yourself and don't have a specific secondary [purpose](purpose.md) for attending a church, your presence is voting to endorse that church's leadership.
 - There are *many* healthy churches out there, and it's often an act of faith to migrate to another church.
 
@@ -63,7 +63,7 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 - They believe strongly in the [mystery](jesus-gospel.md) of the Christian faith with a clear [conscience](humanity-christian.md).
 - If they're [married](relationships-marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
 
-Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/bsb/1_timothy/3.htm)).
+Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/1_timothy/3.htm)).
 
 - While it's controversial, the Bible *clearly* states that [only men should fill leadership roles](gender.md).
 - However, this is *not* applicable to simply preaching, and is much more regarding [discipleship](spiritual-discipleship).
@@ -99,7 +99,7 @@ A healthy church should see a wide variety of believers, relative to the geograp
 Most churches give joy to the Lord by singing and dancing ([Psalm 98:4](https://biblehub.com/psalms/98-4.htm)).
 
 - The Bible has very little basis for whether you can or should laugh, move strangely, roll in the aisles, sit, stand, the style of music.
-- The only important detail is to maintain some sense of [order](unknown.md) in all of it ([1 Corinthians 14](https://biblehub.com/bsb/1_corinthians/14.htm)).
+- The only important detail is to maintain some sense of [order](unknown.md) in all of it ([1 Corinthians 14](https://biblehub.com/1_corinthians/14.htm)).
 
 Churches often [pray and fast](spiritual-exercises-prayer.md) for God's kingdom to grow and His will done.
 
@@ -132,7 +132,7 @@ Joining a new church is sometimes difficult when we don't have [connections](peo
 
 No specific [church denomination](people-conflicts-christian-why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
 
-- Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name ([1 Corinthians 3:3-7](https://biblehub.com/bsb/1_corinthians/3.htm)).
+- Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name ([1 Corinthians 3:3-7](https://biblehub.com/1_corinthians/3.htm)).
 
 Every church is the sum of the Holy Spirit's presence working within each of its members, so each church has sins that prevent its perfect operation.
 
@@ -159,7 +159,7 @@ Worship God at whatever church you go to.
 
 - Sometimes you may have to cycle between churches to find a healthy church body.
 - Don't let that church's flaws interfere with your [devotion to God](identity.md).
-- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) ([Matthew 13:24-30](https://biblehub.com/bsb/matthew/13.htm)).
+- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) ([Matthew 13:24-30](https://biblehub.com/matthew/13.htm)).
 
 Wherever you go, [give freely](church-serve.md).
 

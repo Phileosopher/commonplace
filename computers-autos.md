@@ -64,6 +64,8 @@ Another AV issue comes through [insurance](money-insurance.md) issues. The AV's 
 
 Finally, the existence of AV making decisions creates [situational ethics](morality.md) issues that had once been pure chance. An AV can swerve to prioritize saving the driver, saving the passengers, saving the most vulnerable people (e.g., motorcyclists or pedestrians), or causing the least property damage, so [which should it prioritize](paradoxes.md)?
 
-## Additional reading
+## More information
 
-[My Car Does What](https://mycardoeswhat.org/) - built-in safety features of manufactured cars
+Safety features:
+
+- [My Car Does What](https://mycardoeswhat.org/)

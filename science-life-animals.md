@@ -39,30 +39,11 @@ Animals require food, which can come from several sources:
 
 One unique trait of animals is the means of communication via vocal cords. The concept is relatively simple: constrain the flow of air in such a way that sound is produced. This implementation varies wildly across animals, but the abstraction stays the same. Humans, among others, have a unique addition to that with tongues that give *very* precise control over those sounds, and that's how we orchestrate [language](language.md).
 
-Further reading:
-
-- [How does the human eye work?](https://idyll.pub/post/the-eye-5b169094cce3bece5d95e964/)
-- [How does color work?](http://jamie-wong.com/post/color/)
-
-Obvious questions that remain unanswered:
-
-- Why do we need sleep?
-- Why do we dream?
-- Why do we yawn?
-- Why do we have fingerprints?
-- Why do giraffes have long necks?
-- Why do cats purr?
-- Approximately how many species of animals exist?
-
 ## Ornithology (bird science) explained
 
 Birds are typically defined by egg-laying, moderate nurture of their young, and feathers directly inserted into the skin.
 
 A bird's feathers are typically hollow, which gives the lightweight composition necessary to fly.
-
-Obvious questions that remain unanswered:
-
-- How do birds migrate to the same area every year?
 
 ## Entomology (bug science) explained
 
@@ -80,6 +61,28 @@ Most of them have a common anatomy:
 
 Flying bugs navigate around light sources at night because of a navigational error. When the sun is out, they can orient themselves to the light and fly straight, but they're always angled to fly relative to the light source at night as well, meaning they'll keep autocorrecting and be caught in a loop.
 
-Obvious questions that remain unanswered:
+## Obvious unanswered questions
+
+Zoology in general:
+
+- Why do we need sleep?
+- Why do we dream?
+- Why do we yawn?
+- Why do we have fingerprints?
+- Why do giraffes have long necks?
+- Why do cats purr?
+- Approximately how many species of animals exist?
+
+Ornithology:
+
+- How do birds migrate to the same area every year?
+
+Entomology:
 
 - How do monarch butterflies know how to migrate?
+
+## More information
+
+[How does the human eye work?](https://idyll.pub/post/the-eye-5b169094cce3bece5d95e964/)
+
+[How does color work?](http://jamie-wong.com/post/color/)

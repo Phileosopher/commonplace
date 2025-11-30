@@ -203,7 +203,7 @@ There are many standards about how to setup cabling arrangements as well:
 - Structured cabling for nearby systems, like twisted-pair and optical cabling.
 - Arrangements for wireless technologies' power output, which considers their range and materials that the signals are passing through.
 
-## Additional reading
+## More information
 
 [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 

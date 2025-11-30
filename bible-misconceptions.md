@@ -56,12 +56,12 @@ We all worship the same God.
 We are all God's children.
 
 - A popular religious saying.
-- Only Christians become adopted children of God ([Romans 8:15-16](https://biblehub.com/bsb/romans/8.htm), [Galatians 3:26-29](https://biblehub.com/bsb/galatians/3.htm)).
+- Only Christians become adopted children of God ([Romans 8:15-16](https://biblehub.com/romans/8.htm), [Galatians 3:26-29](https://biblehub.com/galatians/3.htm)).
 
 We're all going to the same place when we die.
 
 - A misapplication of [Ecclesiastes 3:20](https://biblehub.com/ecclesiastes/3-20.htm).
-- We technically are going to the Great White Throne Judgment together, but Christians and non-believers will part ways afterward ([Revelation 20:11-15](https://biblehub.com/bsb/revelation/20.htm)).
+- We technically are going to the Great White Throne Judgment together, but Christians and non-believers will part ways afterward ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
 
 When God closes a door, He opens a window.
 

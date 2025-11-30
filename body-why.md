@@ -230,6 +230,6 @@ Don't rush it:
 - You're trying to make permanent lifestyle decisions, so it will take some time to adjust (up to 60 days to see a positive effect).
 - Usually, people have 20+ pounds of weight they want to lose, but the recommended healthy weight loss limit is 2.5 pounds a week.
 
-## Additional Reading
+## More information
 
 [Beginner's Health and Fitness Guide](https://liamrosen.com/fitness.html)

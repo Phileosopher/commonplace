@@ -1,4 +1,6 @@
 
+# Microsoft Windows explained
+
 Most people on the planet with a computer have at least heard of Microsoft Windows, but most people aren't aware of much more than its brand and [marketing](marketing.md).
 
 ## Licensing

@@ -7,6 +7,8 @@ The simplest way to depict rich text is via Markdown format.
 
 Most markdown files are saved as ".md" extension, but the syntax is often enabled by default within many web-based text editors.
 
+```markdown
+
 # Heading 1
 
 Heading 1

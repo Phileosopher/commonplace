@@ -96,7 +96,7 @@ There are only 3 ways to keep carriers accountable to prevent abuse:
 2. [Enact laws to prevent their misuse](people-rules.md), which requires [government intervention](groups-large.md).
 3. [Maintain a competitive free market](economics.md), which requires government *non*-intervention.
 
-## Further learning
+## More information
 
 [Specific networking trivia](networks-cs-specific.md)
 

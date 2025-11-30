@@ -94,7 +94,7 @@ Some [enterprise software](computers-distsys-enterprise.md) can be so feature-la
 
 Eventually, Git may be phased out itself, likely with a new system that implements [blockchain](computers-blockchain.md).
 
-## Additional reading
+## More information
 
 - [Semantic Versioning](https://semver.org/)
 - [ZeroVer: 0-based Versioning](https://0ver.org/)

@@ -6,7 +6,7 @@ The Third Great Awakening came between the late 1850s and late 1920s, and had a 
 - They focused heavily on the Social Gospel (a more practical approach to spirituality focused on [activism](church-serve.md)), and endorsed quite a few political/moral causes such as abolitionism (which at least partly provoked the American Civil War) and prohibition (preventing people from drinking [alcohol](fun-alcohol.md)).
 - The **Pentecostals** arose in the early 1890s from R.C. Horner asserting there was a *third* work of the Holy Spirit beyond baptism of the Holy Spirit: speaking in tongues. They exploded in membership and involvement during the Azusa Street Revival, which was regarded by most Christianity at the time as outrageous and unorthodox. Some Pentecostal, like **Oneness Pentecostals**, believe that God isn't a Trinity.
 - In 1887, Albert Benjamin Simpson founded The Christian Alliance and The Evangelical Missionary Alliance. The two organizations merged in 1897 to create the **Christian and Missionary Alliance (or CMA)**. By 1912, there were major rifts between them and the Pentecostals over whether speaking in tongues was an indicator of the Holy Spirit, and they distanced themselves from Pentecostalism by 1919. Eventually, in 1975, they reformed into the **Alliance World Fellowship (AWF)** in 1975.
-- There were plenty of less-than-Gospel-centered denominations/[cults](people-conflicts-christian-why.md) that arose, including:
+- There were plenty of less-than-Gospel-centered denominations/[cults](people-conflicts-christian-5_cults.md) that arose, including:
   - Mary Baker Eddy's **Christian Science**
   - The Watchtower Bible and Tract Society's **Jehovah's Witnesses** by Charles Taze Russell as an offshoot of the Millerites
   - The New Thought movement's **Unity Church** and **Church of Divine Science**
@@ -17,11 +17,6 @@ The Third Great Awakening came between the late 1850s and late 1920s, and had a 
 - The **Christian Catholic Apostolic Church** was founded by John Alexander Dowie in 1896 by founding a city called Zion in Illinois, which was an attempt to create God's Kingdom on earth. They emphasized faith healing, not eating pork, and wearing white robes. They weren't relevant in the USA much, but had a profound impact on Africa:
   - In 1908, the **Apostolic Faith Movement** was founded in Africa as a Pentecostal amalgamation that combined the South African Revival of 1860 with the Christian Catholic Apostolic Church. Other **African Independent Churches** arose with a similar background.
   - The **Zion Christian Church** was founded by Engenas Lekganyane in 1910 from his claim he had received a revelation from God. His life and subsequent succession of leadership is marked by constant conflict, including conflicting testimonies.
-
-Roman Catholic Ecumenical Council #20 in 1869-1870 - The First Vatican Council feat. Pope Pius IX w/ 6 archbishop-princes, 49 cardinals, 11 patriarchs, 680 archbishops/bishops, 28 abbots, and 9 generals of orders
-
-- Decreed important canons relating to the Faith and the constitution of the Church
-- Decreed the pope is infallible when speaking "ex cathedra" (from "the chair")
 
 The **Church of the Nazarene** arose as a set of mergers of various Holiness Movement churches, starting in 1907, though they slowed down on the mergers around the end of the late-2000's. Broadly, this was one of the first churches that pioneered the Ecumenical Movement (where churches try to come together and partner even though they're from different [cultures](people-culture.md)).
 

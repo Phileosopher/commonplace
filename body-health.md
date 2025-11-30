@@ -204,6 +204,6 @@ As you get older, your body *will* start deteriorating faster than you can heal.
 
 If you're losing weight without trying, you may have cancer.
 
-## Additional Reading
+## More information
 
 [ExRx.net](https://exrx.net/)

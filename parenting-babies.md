@@ -421,6 +421,6 @@ Their last teeth will come in between ages 2-3.
 
 From about age 3, the role of parenting [takes on an entire different form](parenting-2_children.md).
 
-## Additional reading
+## More information
 
 [Baby Center](http://www.babycenter.com/)

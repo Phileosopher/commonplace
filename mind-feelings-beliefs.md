@@ -1,5 +1,4 @@
 
-
 # What feelings believe
 
 Since [feelings are low-level beliefs](mind-feelings.md), this is a list of all the beliefs we can impulsively have.

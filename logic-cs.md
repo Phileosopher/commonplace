@@ -68,6 +68,8 @@ The first one is tiresome, and becomes obsolete if you bring in a third color. T
 
 Thus, understanding these primitives and how they operate is to get inside the mind of a computer and how to work with it. All this math compiles itself inside meaningful mathematics inside the [arithmetic logic unit](computers-alu.md). It's a big reason why computer scientists are some of the most logical people on the planet, even if they're [not always the most sensible](trends.md).
 
-## Additional reading
+## More information
 
-[QED](https://teorth.github.io/QED/) - a simple, interactive primer on formal logic
+Formal logic primer:
+
+- [QED](https://teorth.github.io/QED/)

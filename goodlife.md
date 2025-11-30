@@ -109,6 +109,6 @@ APPLICATION: Transforming ourselves is far more important, and longer-lasting, t
 
 APPLICATION: Having sophistication can give us a broader understanding of [society](people-culture.md), but it's not necessary to live well because it may go against how we wish to [identify](identity.md). We would do better to [integrate our shadow](personality.md) than pretend we don't have one.
 
-## Additional reading
+## More information
 
 [Aristotle: How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)

@@ -114,7 +114,7 @@ On the other end, most short-wave non-visible light can't harm us, at least in t
 
 Since our bodies are bioelectrical systems, electromagnetic interference is a legitimate risk, though there hasn't been much research into the long-term effects of being near radio. However, [a 2012 report does indicate there are long-term risks to electromagnetic radiation](https://bioinitiative.org/table-of-contents/).
 
-## Additional reading
+## More information
 
 [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
 

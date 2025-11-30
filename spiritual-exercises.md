@@ -24,7 +24,7 @@ We *must* take our exercises seriously if we want to see [results](results.md) f
 - It's only worth doing it if we *look forward* to spending time and energy with God.
 - Faith is a matter of contemplation and focus, which will lead to a type of pleasure as we continue performing it.
 
-Spiritual exercises are essentially the works-based portion of faith ([James 2:14-18](https://biblehub.com/bsb/james/2.htm)), and it expresses differently for each person.
+Spiritual exercises are essentially the works-based portion of faith ([James 2:14-18](https://biblehub.com/james/2.htm)), and it expresses differently for each person.
 
 - Everyone's [personality](personality.md) is different, so nobody else will do it quite the same way as you.
 - Not even your *style* will be quite the same as anyone else's.
@@ -61,7 +61,7 @@ Focus on sins as they happen, but go further:
 
 Focus on responding *much* more slowly to literally *anything*.
 
-- Your body is God's temple, so loving God means maintaining your body and actions within your physical control ([1 Corinthians 6:13-19](https://biblehub.com/bsb/1_corinthians/6.htm)).
+- Your body is God's temple, so loving God means maintaining your body and actions within your physical control ([1 Corinthians 6:13-19](https://biblehub.com/1_corinthians/6.htm)).
 
 Find ways to elevate others above yourself ([Romans 12:6](https://biblehub.com/romans/12-16.htm)).
 
@@ -91,7 +91,7 @@ To the degree that you need it, have an opening routine when you speak with God:
    - The purpose for this is for *you* to get in the right frame of mind, so it can be whatever rituals work for you.
 4. Consider the sin nature we are all in when you speak with Him.
    - This doesn't necessarily mean you must dwell on it (since Jesus certainly doesn't), but pay attention to any sins still in your life that [He died on the cross for](jesus-gospel.md).
-   - If you *didn't* have Jesus' sacrifice, God sees that the things you have done justify eternal punishment in hell ([Luke 18](https://biblehub.com/bsb/luke/18.htm)).
+   - If you *didn't* have Jesus' sacrifice, God sees that the things you have done justify eternal punishment in hell ([Luke 18](https://biblehub.com/luke/18.htm)).
 
 Ask God to do something humanly impossible to advance the kingdom of Heaven.
 

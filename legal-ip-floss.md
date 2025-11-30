@@ -185,7 +185,7 @@ There need to always be freedom advocates willing to obsess about everyone's fre
 - The [degradation into a defective society](mgmt-badsystems.md) that violates [individual liberties](people-boundaries-why.md) comes through nobody taking action against those risks when they arise.
 - [Far too often](humanity-universals.md), people tend to react to the crisis *after* it has become severe, instead of facing the issues when they can be easily resolved.
 
-## Additional Reading
+## More information
 
 [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)
 

@@ -104,11 +104,11 @@ All of the above sciences apply to the world around us, and that application nat
   - [Agricultural science](horticulture.md)
   - Almost the entire [medical industry](body-firstaid.md)
   - [Health sciences](body-health.md)
-- Social sciences build out, among others:
+- Social sciences, while [not technically sciences](https://trendless.tech/scientism/), build out, among others:
   - [Business administration](mgmt-1_why.md)
   - [Jurisprudence](legal-doctrines.md)
   - [Pedagogy](understanding.md)
 
-Further reading:
+## More information
 
-- [Open, rigorous and reproducible research: A practitioner's handbook](https://stanforddatascience.github.io/best-practices/index.html)
+[Open, rigorous and reproducible research: A practitioner's handbook](https://stanforddatascience.github.io/best-practices/index.html)

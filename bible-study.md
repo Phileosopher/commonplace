@@ -20,7 +20,7 @@ Wisely interpret the Bible:
 
 - God gives progressive revelation as you read back-and-forth across Scripture.
 - The Bible *will* interpret itself: Scripture explains Scripture.
-- We can only understand and properly comprehend Scripture through faith and the Holy Spirit ([1 Corinthians 2:14-15](https://biblehub.com/bsb/1_corinthians/2.htm)).
+- We can only understand and properly comprehend Scripture through faith and the Holy Spirit ([1 Corinthians 2:14-15](https://biblehub.com/1_corinthians/2.htm)).
 - Interpret personal experience through Scripture, not the other way around.
 - God wrote the Bible to [change our lives](goodlife.md), not [increase our knowledge](understanding.md).
 - Listen to Scripture's common-sense interpretation first, then its historical context, and finally Bible scholars' opinions and commentaries.
@@ -160,4 +160,4 @@ F. Explore unconventional ways to read the Bible:
 
 Bear in mind that no matter how deep you dig, you're expanding complexities regarding the profound [Gospel message](jesus-gospel.md) and God's guidance on [how to live our lives](spiritual-exercises.md).
 
-- God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) ([1 Corinthians  1:26-29](https://biblehub.com/bsb/1_corinthians/1.htm)).
+- God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) ([1 Corinthians  1:26-29](https://biblehub.com/1_corinthians/1.htm)).

@@ -44,7 +44,7 @@ The discussion of sin was a key part of the Reformation. Catholics at Trent said
 
 Around 1604, King James saw some issues with the precision of the current English translations (most notably because he wanted to know what the Bible said about divorce), so he paid to have the Bible translated more reliably, which created the King James Version.
 
-Certain [leftist ideals](politics-leftism.md) mixed into Christian doctrine as early as the 1620s that emphasized completely removing the clergy and strongly emphasizing Bible study, all for the purpose of bringing about God's Millennial Kingdom. That group became known as the Seekers, and they had a few other odd ideas, like mortalism (that upon death the soul sleeps until Jesus comes back) and rejecting the Trinity.
+Certain [leftist ideals](politics-leftism.md) mixed into Christian doctrine as early as the 1620s that emphasized completely removing the clergy and strongly emphasizing Bible study, all for the purpose of bringing about God's Millennial Kingdom. That group became known as the **Seekers**, and they had a few other odd ideas, like mortalism (that upon death the soul sleeps until Jesus comes back) and rejecting the Trinity.
 
 After the English Civil War from 1642-1651, many dissenting Christian groups emerged, such as the **Quakers** (who drew from many of the Seekers) and **Congregationalists**. For the time, many of them established a *very* emotional and romanticized spiritual tradition relative to the views of the time (though still very buttoned-down by today's standards).
 

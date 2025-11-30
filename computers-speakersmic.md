@@ -139,7 +139,7 @@ Most equalizers include presets for specific frequencies, though they can be man
 
 One of the most frequent tools to work with (and create) recorded sound is a "Digital Audio Workstation" (DAW). It borrows heavily from [IDEs](computers-software-ide.md), with an extensible "Virtual Studio Technology" (VST) plugin standard that works somewhat independently of the workstation software itself. To that end, there are *thousands* of VSTs available, for a wide variety of purposes, and any new DAW can use most of them.
 
-## Additional reading
+## More information
 
 [Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework)](https://www.youtube.com/watch?v=i_Iq4_Kd7Rc)
 

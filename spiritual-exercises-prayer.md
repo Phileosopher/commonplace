@@ -89,9 +89,9 @@ We must also have good motives for our prayers.
 If you have the right attitude and want what He desires, God will *always* answer your prayers ([Mark 11:24](https://biblehub.com/mark/11-24.htm)).
 
 - God loves heartfelt devotion, so He answers specific prayers for [good](morality.md) things much more frequently than vague ones.
-- God doesn't usually give what we don't ask for, so ask persistently and intentionally ([Luke 18:1-8](https://biblehub.com/bsb/luke/18.htm)).
+- God doesn't usually give what we don't ask for, so ask persistently and intentionally ([Luke 18:1-8](https://biblehub.com/luke/18.htm)).
 
-Jesus gives Christians the best way to pray while maintaining a healthy perspective ([Matthew 6:9-13](https://biblehub.com/bsb/matthew/6.htm)):
+Jesus gives Christians the best way to pray while maintaining a healthy perspective ([Matthew 6:9-13](https://biblehub.com/matthew/6.htm)):
 
 1. Use one of God's names and remember He's your heavenly father.
 2. Ask for His will to be done on earth in the same way He has it in heaven.
@@ -115,7 +115,7 @@ Add nonverbal mantra-less [meditation](awareness.md) to your prayer (i.e., conte
 
 You can intensify your prayer with fasting ([Mark 9:29](https://biblehub.com/mark/9-29.htm), [Acts 14:23](https://biblehub.com/acts/14-23.htm)).
 
-- Fasting is critical for growing in Christ, but only for the right reasons ([Matthew 6:16-18](https://biblehub.com/bsb/matthew/6.htm)).
+- Fasting is critical for growing in Christ, but only for the right reasons ([Matthew 6:16-18](https://biblehub.com/matthew/6.htm)).
 - Even fasting for a few hours or a day can have an effect on your spirituality.
 - On an even farther level, you can take a *major* step in faith by dry fasting (i.e., not taking in *any* food or drink).
 

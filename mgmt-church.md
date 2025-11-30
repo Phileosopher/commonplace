@@ -3,7 +3,7 @@
 
 God may call you to lead in professional ministry.
 
-The qualifications of elders are *more* severe than general [spiritual mentors](spiritual-discipleship.md) (i.e., "deacons") ([Titus 1:5-9](https://biblehub.com/bsb/titus/1.htm), [1 Timothy 3:1-13](https://biblehub.com/bsb/1_timothy/3.htm)):
+The qualifications of elders are *more* severe than general [spiritual mentors](spiritual-discipleship.md) (i.e., "deacons") ([Titus 1:5-9](https://biblehub.com/titus/1.htm), [1 Timothy 3:1-13](https://biblehub.com/1_timothy/3.htm)):
 
 - Has a clean [public reputation](people-image-why.md) through established [habits](spiritual-exercises.md) that reinforce their [beliefs](jesus-gospel.md).
 - Clear with their [words](language.md), and not [dishonest](people-lying.md).
@@ -25,7 +25,7 @@ Don't assume a larger leadership role until you have experience [teaching and me
 
 Carefully evaluate why you want to engage in public ministry.
 
-- The ministry will arise out of a perceived need within the Church ([Acts 6:1-6](https://biblehub.com/bsb/acts/6.htm)).
+- The ministry will arise out of a perceived need within the Church ([Acts 6:1-6](https://biblehub.com/acts/6.htm)).
 - Every inspiration comes from several possible sources:
   - [Your mind](understanding.md)
   - [Others' thoughts](power-influence.md)
@@ -38,7 +38,7 @@ Carefully evaluate why you want to engage in public ministry.
   - Frustration at present Christian leaders who [lead believers wrongly](people-conflicts-christian-why.md).
   - [Feedback](power-influence.md) from others for doing well in a ministry setting.
 - The reason should *always* be a straightforward desire to [follow God's will](god-will.md) and expand His Kingdom ([Matthew 6:10](https://biblehub.com/matthew/6-10.htm)).
-  - Ideas from Him are good, honorable, fair, pure, lovely, and reputable ([Philippians 4:8-9](https://biblehub.com/bsb/philippians/4.htm)).
+  - Ideas from Him are good, honorable, fair, pure, lovely, and reputable ([Philippians 4:8-9](https://biblehub.com/philippians/4.htm)).
   - God doesn't speak vaguely, and He *will* confirm it's His idea ([1 Corinthians 14:33](https://biblehub.com/1_corinthians/14-33.htm)).
   - When you've been walking with Him for a while, [ideas you arrive at yourself](mind-creativity.md) are often directly inspired by Him.
 
@@ -59,7 +59,7 @@ Your financial lifestyle will change, but if it's His plan He'll give [meaning](
 
 - Live with a modest family [budget](money-3_budget.md), *especially* if your lifestyle will be funded by others' donations.
 - Keep giving to serve His church as He leads you.
-- God has promised He'll give many, many resources for your success by following Him ([Psalm 37](https://biblehub.com/bsb/psalms/37.htm)).
+- God has promised He'll give many, many resources for your success by following Him ([Psalm 37](https://biblehub.com/psalms/37.htm)).
 
 Never live far above *or* below the lifestyles of the people you serve and lead.
 
@@ -101,7 +101,7 @@ If you must register your ministry with the government (e.g., 501(c)3 status), y
 
 Keep [working hard and consistently](success-4_routine.md), even when [you don't see results](success-5_persevering.md).
 
-- Sometimes, for the sake of the ministry, consider [a side job](entrepreneur-4_freelancing.md), *especially* at the beginning ([Acts 18:1-4](https://biblehub.com/bsb/acts/18.htm)).
+- Sometimes, for the sake of the ministry, consider [a side job](entrepreneur-4_freelancing.md), *especially* at the beginning ([Acts 18:1-4](https://biblehub.com/acts/18.htm)).
 - A minister's work never ends, so enjoy any rest, even a few hours.
 
 Get other believers to assist you in diligently [praying and fasting](spiritual-exercises-prayer.md).
@@ -114,7 +114,7 @@ Your necessary range of skills will change as you grow.
 Don't over-reach your [specialization](jobs-specialization.md).
 
 - If you're experiencing any fatigue, you're probably acting outside the range of your [spiritual gifts](spiritual-gifts.md).
-- Ask for wisdom on what to do ([James 1:5-6](https://biblehub.com/bsb/james/1.htm)):
+- Ask for wisdom on what to do ([James 1:5-6](https://biblehub.com/james/1.htm)):
   1. Ask a believer more gifted in that capacity who can help you with it instead.
   2. Brainstorm a [creative](mind-creativity-how.md) way around it (e.g., avoiding a [specific project](mgmt-2_projects.md) entirely that's not mission-critical).
   3. If nobody can help, ask Him directly to grant you the power to perform the tasks you're trying to accomplish ([1 Corinthians 14:1](https://biblehub.com/1_corinthians/14-1.htm)).
@@ -144,9 +144,9 @@ Every ministry leader is responsible to foster a [culture](people-culture.md) fo
 
 A healthy ministry should heal and equip believers.
 
-- Christians are susceptible to [false doctrine](people-conflicts-christian-why.md) *everywhere* ([1 Timothy 4:6-7](https://biblehub.com/bsb/1_timothy/4.htm)).
+- Christians are susceptible to [false doctrine](people-conflicts-christian-why.md) *everywhere* ([1 Timothy 4:6-7](https://biblehub.com/1_timothy/4.htm)).
 - We're all in a perpetual [spiritual war with Satan](spiritual-warfare.md) ([James 4:7](https://biblehub.com/james/4-7.htm)).
-- Believers experience far more [persecution](hardship-persecution-church.md) than the world would ever admit ([2 Timothy 3:10-13](https://biblehub.com/bsb/2_timothy/3.htm)).
+- Believers experience far more [persecution](hardship-persecution-church.md) than the world would ever admit ([2 Timothy 3:10-13](https://biblehub.com/2_timothy/3.htm)).
 
 Contrary to popular belief, the ministry system itself will *not* help believers grow.
 
@@ -226,7 +226,7 @@ B. Missionaries/ministers are financed, at least partly, by others' donations.
   1. Annual salary, drawn from a collective ministry offering.
   2. Volunteer donations from the part-time work of making requests through calls, emails, and letters.
   3. Specific missionary/parachurch organizations that provide partial or full aid.
-  4. Some of them have at least part-time day jobs ([Acts 20:33-35](https://biblehub.com/bsb/acts/20.htm)).
+  4. Some of them have at least part-time day jobs ([Acts 20:33-35](https://biblehub.com/acts/20.htm)).
 
 C. The poor/needy will *always* be with us ([Matthew 26:11](https://biblehub.com/matthew/26-11.htm)).
 
@@ -271,7 +271,7 @@ Discipline yourself about money matters.
 
 1. Don't worry about money issues, but [be aware of them](money-1_why.md).
 2. [Set priorities](money-3_budget.md) with money you have and might have.
-3. Diligently and responsibly take care of your needs first ([1 Timothy 5:17-18](https://biblehub.com/bsb/1_timothy/5.htm), [2 Timothy 2:6](https://biblehub.com/2_timothy/2-16.htm)).
+3. Diligently and responsibly take care of your needs first ([1 Timothy 5:17-18](https://biblehub.com/1_timothy/5.htm), [2 Timothy 2:6](https://biblehub.com/2_timothy/2-16.htm)).
 4. [Invest money](money-investing.md) instead of hoarding it to see it grow character and God's kingdom.
 
 Stay on top of any [logistical needs](logistics.md) to avoid wasting time for others or incurring extra costs.
@@ -280,7 +280,7 @@ Stay [legally safe](legal-safety.md) to make [persecution](hardship-persecution-
 
 - Unless they're asking for the names of each member, register and file your organization if the government expects it.
 - Avoid *any* potentially questionable practices that don't honor the spirit of the law (e.g., tax evasion with cash receipts).
-  - Remember that God rules us all, and He will repay any mistreatment of you if *you* were doing the right thing ([1 Peter 2:11-19](https://biblehub.com/bsb/1_peter/2.htm)).
+  - Remember that God rules us all, and He will repay any mistreatment of you if *you* were doing the right thing ([1 Peter 2:11-19](https://biblehub.com/1_peter/2.htm)).
 - Members of your organization *might* commit [sins](morality-sins.md) that are [culturally taboo](morality-taboo.md), so clearly establish a non-disparagement clause on any [contracts](people-contracts.md) with workers.
 - Avoid complete submission to the authorities, since we still must use wisdom against [evil](morality-evil.md) ([Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
 
@@ -319,7 +319,7 @@ After becoming established, most leaders tend to [distrust](trust.md) new ideas.
 
 Healthy [conflict management](people-conflicts-christian-why.md) means you may have to exile some people from a group.
 
-- [Disciplinary action in the Church](people-conflicts-christian-why.md) is very clear, and leads to 4 possible outcomes ([Matthew 18:15-20](https://biblehub.com/bsb/matthew/18.htm)):
+- [Disciplinary action in the Church](people-conflicts-christian-why.md) is very clear, and leads to 4 possible outcomes ([Matthew 18:15-20](https://biblehub.com/matthew/18.htm)):
   1. Reconciliation among everyone in spirit and truth, which should be the ultimate aim ([John 4:24](https://biblehub.com/john/4-24.htm)).
   2. The leader is ejected/defrocked from their formal ministry status, which strengthens the Body through a public lesson on how [sinful behaviors](morality-sins.md) and [vices](addiction-substances.md) will destroy us.
   3. The leader is ejected/defrocked, but they *didn't* sin, meaning 50-70% of the group will leave with that leader.
@@ -343,7 +343,7 @@ At any time, be prepared to step down.
   - You've become [an addict](addiction.md).
   - You've found out you practice at least some [heresy](people-conflicts-christian-why.md).
 - It may seem like you're still doing God's work, but you're sabotaging His plans when you do.
-  - If you're not acting out of love, you're wasting your time ([1 Corinthians 13:1-3](https://biblehub.com/bsb/1_corinthians/13.htm)).
+  - If you're not acting out of love, you're wasting your time ([1 Corinthians 13:1-3](https://biblehub.com/1_corinthians/13.htm)).
   - If you feel compelled to do it, it might just be a [habit](habits.md).
   - Even when we persevere indefinitely, it's our responsibility near the end of our lives to [pass the role on to others](legacy.md) ([2 Timothy 4](https://www.bible.com/bible/206/2ti.4)).
 
@@ -357,7 +357,7 @@ Ministries [scale](jobs-specialization.md) like any other [secular organization]
 Never try growing faster than [God has planned](god-will.md).
 
 - The easiest, and most [unethical](morality.md), way to grow is by [generating fake hype](marketing.md) to create a nucleus of sincere followers.
-- If you create many followers with a little [deception](people-image-distortion.md), it's not reasonable to assume He will be proud of your work, irrespective of the [results](results.md) it created ([Matthew 25:1-23](https://biblehub.com/bsb/matthew/25.htm)).
+- If you create many followers with a little [deception](people-image-distortion.md), it's not reasonable to assume He will be proud of your work, irrespective of the [results](results.md) it created ([Matthew 25:1-23](https://biblehub.com/matthew/25.htm)).
 
 As a church grows, expect [organizational hardship](mgmt-church-hardship.md) to come to the group, especially as [the devil notices your success](spiritual-warfare.md).
 
@@ -412,7 +412,7 @@ Typically, once any ministry grows beyond a few dozen people, it'll need some by
 
 A ministry's [formalized documentation](people-contracts.md) represents its [moral stance](morality.md).
 
-- Take your rules *very* seriously, since God will hold you accountable for it ([Luke 17:1-2](https://biblehub.com/bsb/luke/17.htm)).
+- Take your rules *very* seriously, since God will hold you accountable for it ([Luke 17:1-2](https://biblehub.com/luke/17.htm)).
 - *Never* accept or condone [sins](morality-sins.md), and *never* condemn loving actions or [Christlike behavior](spiritual-exercises.md).
 
 ## Leaving leadership
@@ -420,7 +420,7 @@ A ministry's [formalized documentation](people-contracts.md) represents its [mor
 At some point, you *will* need to step down from leadership:
 
 1. At some point, your particular [gifting](spiritual-gifts.md) may have run its course.
-2. It's not uncommon to experience burnout, and it will become a spiritual risk to pursue farther ([2 Timothy 2:3-7](https://biblehub.com/bsb/2_timothy/2.htm)).
+2. It's not uncommon to experience burnout, and it will become a spiritual risk to pursue farther ([2 Timothy 2:3-7](https://biblehub.com/2_timothy/2.htm)).
 3. An unknown [sin](morality-sins.md) (or its consequence) may have corrupted any further good you can perform in that role.
 4. The ministry may have grown far enough that it needs to diverge into specific [purposes](purpose.md).
 5. Eventually, you will be [too old](legacy.md) to maintain the ministry as needed.

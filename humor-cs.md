@@ -207,8 +207,6 @@ I work in IT, so that means our home has:
 - no Alexa/Google Assistant crap
 - no internet-connected thermostats
 
+## More information
 
-
-## Additional reading
-
-[devjoke](https://github.com/shrutikapoor08/devjoke) - A collection of software development jokes.
+[devjoke](https://github.com/shrutikapoor08/devjoke)

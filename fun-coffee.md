@@ -158,12 +158,20 @@ There are *many* additional types of coffee roasting methods and jargon, but the
 
 For the most part, it's still the same coffee, but with more features and presentation added to it.
 
-## Further Reading
+## More information
 
-[Coffee Brewing Guide](https://ineedcoffee.com/coffee-brewing-guide/)
+Coffee guides:
 
-[Types of Coffee Drinks](https://coffeehow.co/coffee-drink-types/)
+- [Coffee Brewing Guide](https://ineedcoffee.com/coffee-brewing-guide/)
+- [Types of Coffee Drinks](https://coffeehow.co/coffee-drink-types/)
+- [An Espresso Glossary](https://coffeegeek.com/opinions/state-of-coffee/an-espresso-glossary/)
+- [Common Coffee Brewing Mistakes](https://fullcoffeeroast.com/coffee-brewing-mistakes/)
 
-[An Espresso Glossary](https://coffeegeek.com/opinions/state-of-coffee/an-espresso-glossary/)
+Coffee blogs:
 
-[Common Coffee Brewing Mistakes](https://fullcoffeeroast.com/coffee-brewing-mistakes/)
+- [CoffeeGeek](https://coffeegeek.com/),
+- [Coffee or Bust](https://coffeeorbust.com/),
+- [CoffeeResearch.org](https://www.coffeeresearch.org/),
+- [Home-Barista.com](https://www.home-barista.com/) (with [How-Tos](https://www.home-barista.com/howtos.html)),
+- [Home Grounds](https://www.homegrounds.co/),
+- [JavaPresse](https://www.javapresse.com/)
