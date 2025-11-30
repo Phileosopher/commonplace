@@ -53,6 +53,7 @@ How to behave with them:
 
 - Take your time and spell things out, give as many details as they'd like
 - Don't rush them, and communicate as early as possible about *any* [changes](people-changes.md)
+- I've also created [an entire book on the matter](https://adequate.life/autism/)
 
 The cure for it:
 
@@ -104,70 +105,11 @@ How to behave with them:
 The cure for it:
 
 - Socialization is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
+- Without socialization, they will often descend into other forms of neurodivergence.
 
 ## Narcissism
 
-A perspective that represents a dualistic paradox:
-
-1. They have a completely empty sense of self-worth, to the point of feeling deeply unloved and unfulfilled.
-2. They refuse to acknowledge the worthlessness, so they develop an entitlement mindset that implies they deserve much more substantial treatment than they're receiving.
-
-This viewpoint may be a psychological coping mechanism ("narcissistic behavior") or may be a core part of their personality ("narcissistic personality disorder").
-
-- The scope of the narcissism is closely connected with how strongly their self-directed feelings impede their ability to have sympathy for others' feelings.
-- While it may express during early childhood, it represents itself when selfishness starts surpassing a desire for others' benefit.
-- There are also derivations of this mechanism in the forms of the sociopathy/psychopathy spectrum.
-
-Narcissism has two major forms and some sub-forms:
-
-- Overt/extroverted narcissism is a public image of grandiosity and magnanimity, with a feeling of emptiness that represents as rage and resentment when they don't get what they want.
-  - Antagonistic narcissism focuses more on rivalry and competition.
-  - Communal narcissism focuses on drawing people together over moral outrage, even while oblivious to their own shortcomings in that domain.
-- Covert/introverted narcissism is a public image of shame and self-hatred, but there is a feeling of entitlement they secretly believe they deserve.
-  - Malignant narcissism captures more antisocial behaviors such as sadism, revenge, aggression, and paranoia.
-
-Indicators:
-
-- Direct boredom at others' interests, thoughts, or feelings that don't involve them.
-- Continuous preoccupation with getting others to attend to them, pay attention to them, spend time with them, etc. ("narcissistic supply")
-  - The core goal is for them to see you react to them in some way, which gives them validation that they have made a difference in something.
-- Unwillingness to admit complete fault in any error.
-  - This creates the side effect that they simply never learn from their mistakes.
-- Context-sensitive indicators:
-  - Since the world hasn't given them what they want for a long time, and they have tremendous [anger](mind-feelings-anger.md) over it.
-    - This will give them an unwavering crease in the center of their forehead.
-    - Their qualities become worse as they lose the ability to manipulate people (first physically as they age, then mentally/emotionally)
-  - Higher likelihood of fake smiles or no smiles at all.
-  - Many of them use [lying](people-lying.md) to maintain their state of mind and lifestyle, often to the point of compulsive lying.
-  - They will tend to move [conflicts](people-conflicts.md) from simple disagreement to arguments *much* faster than most other people.
-- If you're close to one:
-  - They will often blame you for their faults ("projection").
-  - They will often use other people against you ("triangulation").
-
-How to behave with them:
-
-- They will only use you, so don't consider any long-term friendship or partnership with them.
-  - If you suspect narcisssistic behavior (i.e., many words in a conflict that are confusing and obfuscating), candidly ask them what their goal is to find out if the conversation is worth continuing.
-- Given their inability to admit fault, there are many ways to exit the conversation with them:
-  - Ask them what their greatest regret is, their insecurities, or their weaknesses.
-  - Ask them why they feel they have the right to something.
-  - Call them out on a lie they've made, then tell them you don't care if they try to justify it.
-  - However, any of the above will make them look to exact revenge on you at some point.
-  - The better approach is to be as boring as possible with them until they get bored and go somewhere else ("gray-rocking").
-- Don't bother arguing with them.
-  - Most people argue to prove a point, but narcissists are simply trying to maintain their supply of others' attention.
-  - Ask them why they are so uncomfortable with having a different perspective.
-  - The quickest way to defuse every conflict, however, is to say "I accept that's how you feel".
-- Be careful when [trusting](trust.md) them, and only give them information you're satisfied with them misusing.
-
-The cure for it:
-
-- The direct solution requires several stages:
-  1. Accept they are loved by God.
-  2. Act lovingly toward others who need it.
-  3. Recognize others' feelings as having equal validity to their own.
-- Since this is a self-discovery, they may need to experience tremendous [hardship](hardship.md) by their own doing to come to their realization.
-  - You must take care of yourself, so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
+This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-narcissist.md).
 
 ## Schizophrenia
 
