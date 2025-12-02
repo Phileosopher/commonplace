@@ -1,4 +1,10 @@
 
+[Embodying the Kingdom While Facing Mental Health Challenges](https://hebraicthought.org/mental-health-challenges-christian-kingdom/)
+
+[Iowa Concern | Iowa State University Extension and Outreach](https://www.extension.iastate.edu/iowaconcern/)
+
+[Rings – Hope Rings](https://hoperings.com/collections/rings)
+
 [15 Real Ways to Honor Your Wife | Paul Chappell](https://paulchappell.com/2015/02/13/15-real-ways-to-honor-your-wife/)
 
 [How to Love Your Wife According to the Bible: 13 Steps](https://www.wikihow.com/Love-Your-Wife-According-to-the-Bible)
@@ -61,3 +67,9 @@ https://fiercemarriage.com/how-to-pray-as-a-couple-with-less-awkwardness
 ## marriage conflicts
 
 [3 Ways To Respond When Your Partner Triggers You—By A Psychologist](https://www.forbes.com/sites/traversmark/2024/09/08/3-ways-to-respond-when-your-partner-triggers-you-by-a-psychologist/)
+
+## therapy
+
+[Affordable Counseling | Affordable Therapy | Open Path Collective](https://openpathcollective.org/?)
+
+[Gottman Seven Principles for Making Marriage Work Private Class — Fall in Love with Parenting... Together](https://www.little-elf.org/register/7-principles-private-class)

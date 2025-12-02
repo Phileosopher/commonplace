@@ -131,6 +131,15 @@ We don't typically need much courage to counteract fear, and a few seconds of bo
 
 APPLICATION: One of the greatest forms of [hardship](hardship.md) we must endure is finding the courage to suffer. Feeling things that harm us is painful, but we are [responsible](meaning.md) for enduring it.
 
+Courage comes in various forms, depending on what is being [risked](safety-riskmgmt.md):
+
+- Moral: courage to [do what's right](morality.md)
+- Civic: courage to do [what's publicly right](people-image.md)
+- Physical: risking [infirmity](hardship-infirmity.md) or [death](hardship-death.md)
+- Personal: facing [the things inside us](awareness.md)
+- Spiritual: [trusting God](god-will.md)
+- Intellectual: willing to expand knowledge (which [changes one's understanding](people-changes.md))
+
 Most people are more afraid than they appear. Ironically, they have a fear of expressing their fear as well, which stems from what would they imagine would happen if [others saw](people-image-why.md) their fear in its entirety. Within a [confrontational environment](people-conflicts-why.md), most fear can be made useful as [anger](mind-feelings-anger.md).
 
 Most [worthwhile endeavors](purpose.md) require us to face our fears. Over time, if we keep [succeeding](success-1_why.md), we will start noticing that the presence of our fear is also where we can gain the most success. Eventually, we'll start *looking* for things that scare us because those will create the most significant [results](results.md).

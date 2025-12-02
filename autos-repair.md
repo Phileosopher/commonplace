@@ -5,6 +5,7 @@ As soon as you see a problem, fix it, since tiny problems can quickly become exp
 
 If you see smoke coming from the exhaust, the color can give you some indication of what's wrong:
 
+- Brown smoke means nothing is probably wrong, except that your catalytic converter may be failing (which would affect a smog check).
 - Black smoke means the engine is burning too much fuel ("running rich").
 - White smoke usually means coolant is burning inside the engine, which is a *very* bad problem (likely a blown head gasket), and will mean the engine will overheat.
 - Blue or gray smoke is because the engine is burning oil, which often comes from a leak into the combustion chamber, and could come from many places (e.g., leaky valve seals, bad piston rings). The vehicle may also shake more than normal when idle or misfire when starting the car.
@@ -16,6 +17,7 @@ If you're willing to research, you can swap out most parts on your car *without*
 
 Get essential equipment *before* you need it.
 
+- [Emergency kit](hardship-disaster-checklist.md) in the car.
 - Jack and jack stands
 - Latex gloves
 - Air tools and an air compressor, which can be a few hundred bucks
@@ -42,8 +44,15 @@ Try to buy replacement parts with a lifetime warranty, and keep the receipts in 
 
 Only replace the tires when you need to.
 
-- Unless you live in a mountainous area, you can still drive with nearly bald tires.
-- Test tire treads with a penny (replace when you can see Lincoln's head through the groove).
+- Unless you live in a mountainous area or have snow, you can still drive with nearly bald tires.
+  - Test tire treads with a penny (replace when you can see Lincoln's head through the groove).
+  - If the sidewall has cracks, the tire is old and will probably blow with tread still on it.
+- Inspect the tires' wear to diagnose other potential issues:
+  - Wear along the outside means insufficient air pressure.
+  - Wear in the middle means excessive air pressure.
+  - If there are uneven spots, there is a balancing issue (which is a very affordable fix).
+  - If one side is worn, there is an alignment issue.
+  - If there are uneven crosses across the tires, there's a suspension issue.
 
 Buy the specialized tools you need, since a $200 tool is less than a $500 mechanic's repair, and you can use it later.
 

@@ -16,7 +16,7 @@ While there are many things that can be "conserved", there are some things that 
 5. [Educational institutions](education.md) that are genuinely truth-seeking on all levels.
 6. A market-based, prosperous [economy](economics.md) that improves living standards for everyone (at the same time, only operating within the scope of the common good).
 7. [Public safety](people-rules.md) officials who are uncorrupted, efficient, and effective (including police, prosecutorial, and judicial authorities).
-8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children).
+8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children)).
 9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
 
 When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](trends.md), since they have [hope](trust.md) in what they haven't seen.
@@ -30,7 +30,7 @@ Conservatives tend to vote for civilization and liberals for equality, but this 
 - At the farthest extremes, a conservative will *always* enforce [rules](people-rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](people-image-why.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
 - Most normal people have a case-by-case [inner conflict](people-conflicts-inner.md) tied to their [beliefs](understanding-certainty.md). Those beliefs come from [religious views](religion.md), definitions of [humanity](humanity.md), how we should [empower](power.md) the weakest in society, and many other [philosophical](philosophy.md) elements.
 
-APPLICATION: By nature, conservatives will be somewhat antagonistic agaomst overly used [technology](technology.md), and liberals against overly applied [virtue](morality.md).
+APPLICATION: By nature, conservatives will be somewhat antagonistic against overly used [technology](technology.md), and liberals against overly applied [virtue](morality.md).
 
 While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
 
@@ -39,7 +39,10 @@ While liberalism can embrace anything [trendy](trends.md), conservatives can als
 
 ## Undefined
 
-They're both partly wrong. History never *precisely* repeats itself, but every expectation of what may happen in a complex system (e.g., a nation) isn't very accurate either.
+They're both partly wrong:
+
+- History never *precisely* repeats itself.
+- Every expectation of what may happen in a complex system (e.g., a nation) isn't very accurate.
 
 APPLICATION: Some issues are *not* aligned on the political spectrum:
 
@@ -78,13 +81,25 @@ All [political conflicts](people-conflicts-war-why.md) are driven by philosophic
 
 However, both conservatives and liberals run the risk of abusing their power, meaning that too far in either spectrum becomes an oppressive, [unjust](morality-justice.md) society with punitive [rules](rules-methods.md) ("horseshoe effect").
 
-Conservatives believe in natural law:
+## Precise definitions
+
+Underneath the surface, there are two competing value systems that define where the greatest problems in society are located:
+
+1. Constrained - social problems emerge from basic [human constraints](humanity-universals.md).
+   - Scarcity is real and unavoidable.
+   - People are naturally selfish.
+   - Knowledge is limited and naturally decentralized.
+   - If this is the case, all we can do is to build institutions that harness what already exists.
+2. Unconstrained - social problems are the failure of some form of [wisdom](understanding.md) or [willpower](purpose.md).
+   - Every problem can be solved with the right [leadership](mgmt-1_why.md), [education](education.md), or system.
+
+The constrained value system means conservatives believe in natural law:
 
 - [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](people-decisions.md). This makes the death penalty acceptable and abortion bad.
 - Individual [morality](morality.md) is irrespective of what an individual [interprets](people-image-why.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories-why.md) behind a [bad decision](people-decisions.md).
 - Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](people-rules.md).
 
-Progressives believe natural law is relative, nonexistent, or doesn't matter:
+The unconstrained value system means progressives believe natural law is relative, nonexistent, or doesn't matter:
 
 - Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](people-decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
 - Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](people-rules.md) should flow from individual [perceptions](people-image-why.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
@@ -92,8 +107,8 @@ Progressives believe natural law is relative, nonexistent, or doesn't matter:
 
 APPLICATION: [Gender](gender.md) roles can easily fit into both conservative and liberal molds.
 
-- On the conservative side, females prefer its [safety](safety.md) and makes prefer its conquest of the [unknown](unknown.md) via historical precedent.
-- For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts-why.md), and males can conquer the unknown through novelty.
+- On the conservative side, females prefer its [safety](safety.md) and males prefer its conquest of the [unknown](unknown.md) via historical precedent.
+- For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts-why.md) and males can conquer the unknown through novelty.
 
 Further, in the midst of the two poles, other value systems diverge from the spectrum by emphasizing individuals' freedom:
 

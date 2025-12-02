@@ -31,6 +31,7 @@ As it stands, [science](science.md) hasn't found the soul, so there's no empiric
 
 1. The cessation of biological function is literally impossible to restart, in all instances, after only a few minutes without oxygen or a functioning organ.
 2. In a few isolated events, people have recorded that a person upon death diminishes in weight by less than a few ounces.
+3. Living beings emit an "ultraweak photon emission" (UPE) for some reason, and it stops emitting when they die.
 
 We automatically believe in our own souls, which is because we presume the "soul" in some form exists.
 

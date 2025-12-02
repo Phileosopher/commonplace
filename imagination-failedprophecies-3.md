@@ -28,6 +28,7 @@
 
 - From 1966 on, Jehovah's Witnesses published articles which stated that the fall of 1975 would be 6000 years since man's creation, and suggest that Armageddon could be finished by then.
 - Armstrong's fourth and final false prediction.
+- A dire famine was forecast for 1975 by climate change experts.
 
 1977
 
@@ -80,6 +81,7 @@
 1989
 
 - After all his 1988 predictions failed to come true, Whisenant revised his prediction date to September 30, 1989.
+- Climate change experts predicted in 1969 that everyone would disappear in a cloud of blue steam by 1989.
 
 1990
 

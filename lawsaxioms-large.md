@@ -55,21 +55,17 @@ YAGNI / You Ain't Gonna Need It - It's only worth the time to add things as you 
 
 Zipf's Law/Lotka's Law - The more an individual has something, the less likely other individuals will share that quantity.
 
-## Large Systems - Social Interactions
+## Large systems - social interactions
 
 Bobby Knight Problem - Large-scale leaders draw people around them who protect their [power](power-types.md).
 
 Bullwhip/Forrester Effect - As something ripples outward from a cause, its effect becomes more radical and unpredictable.
-
-Charlie Kirk Effect - When a Christian is publicly killed, many other Christians become more faithful.
 
 Dunbar's Number - A person can only maintain stable social relationships up to a limit (~100-250).
 
 Economist Effect - When we understand a one-paragraph summary of a concept, we often believe we understand how to work with that concept.
 
 Elliott Wave Principle - Large groups tend to cycle between optimism and cynicism.
-
-Greenhouse Effect - Supreme Court [justices](people-rules.md) tend to vote with [liberals](politics-conservativeliberal.md) more often as their [careers progress](legacy.md) because they want more favorable [press coverage](stories-storytellers.md).
 
 Jevons Paradox - The more efficient people are with a resource, the more they consume that resource.
 
@@ -85,8 +81,6 @@ Marauder Effect - When comparatively comfortable people become instantly deprive
 
 Mooers' Law - People only gather information from a system if it's less trouble than not knowing.
 
-Narrative Gravity Law - People are drawn to [stories](stories-why.md) that skew facts proportional to how many people believe those stories.
-
 Orgel's Second Rule - The collective system is smarter than anyone in it.
 
 Poe's Law - Every parody will eventually be mistaken by someone else as truth.
@@ -99,7 +93,7 @@ Reilly's Law of Retail Gravitation - People tend to consume at the largest suppl
 
 Rothbard's Law - Everyone has a specific, specialized weakness.
 
-## Large Projects
+## Large projects
 
 Akin's Seventh Law of Spacecraft Design - At the beginning of an effort, the person who most wants to lead the project will be the least qualified for it.
 
@@ -144,15 +138,15 @@ Swanson's Law - Every time solar cell manufacturing is doubled, solar cells get 
 
 Wike's Law of Low Odd Primes - If the number of classifications of something is a low, odd, prime number (e.g., 3, 5, 7, 11, etc.), then it's not taking everything into account.
 
-## Communication-Specific
+## Communication-specific
 
 Betteridge's Law of Headlines - Any headline framed as a question can be answered with "no".
+
+Boghossian Principle - Any system that forbids open conversation about that system's core problems can't be trusted.
 
 Brandolini's Law - Refuting lies takes dramatically more work than promoting them.
 
 Celine's Second Law - Communication only happens among equals.
-
-Chekov's Gun - Good stories remove all nonessential elements.
 
 Chris Carter Effect - If people conclude others won't finish what they're trying to say, they'll stop paying attention.
 
@@ -180,15 +174,27 @@ Wiio's Third Law - People understand your message better than you.
 
 Wiio's Fourth Law - More communication creates more and faster confusion.
 
+Wiio's Seventh Law - The more important something is, the easier you'll forget something important about it.
+
+### Story/publicity-specific
+
+Charlie Kirk Effect - When a Christian is publicly killed, many other Christians become more faithful.
+
+Chekov's Gun - Good stories remove all nonessential elements.
+
+Narrative Gravity Law - People are drawn to [stories](stories-why.md) that skew facts proportional to how many people believe those stories.
+
+Seinfeld is Unfunny - Entertaining stories are less entertaining once they become popular.
+
+Streisand Effect - Hiding or removing information will often backfire and make it *more* public.
+
 Wiio's Fifth Law - Mass communication is more focused on [appearances](people-image-why.md) than [reality](reality.md).
 
 Wiio's Sixth Law - The more information travels, the less important it is.
 
-Wiio's Seventh Law - The more important something is, the easier you'll forget something important about it.
-
 Yoga Effect - An obscure, mundane trend somewhat connected to a religious culture will become more religious as later generations revisit the trend
 
-## Economics-Specific
+## Economics-specific
 
 Baumol's Cost Disease - In low-productivity jobs, the workers can simply jump to higher-productivity jobs whenever they want more money, so hiring managers have to pay more for those jobs over time.
 
@@ -210,9 +216,11 @@ Third-Party Payer Problem - When a third-party is involved in a two-party transa
 
 Wagner's Law - The more [technology](technology.md) a country adopts, the bigger its [government](politics-systems.md) gets.
 
-## Society/History-Specific
+## Society/history-specific
 
 5% Rule - In any group, about 3-5% of people are absolutely horrible.
+
+Avatar Paradox - When a product becomes so successful that everyone consumes it, it has no cultural relevance.
 
 Briffault's Law - Women's [choices](people-decisions.md) in men determine what [families](people-family.md) are made.
 
@@ -232,15 +240,13 @@ Norman Augustine's Tenth Law - Counterintuitively, bullfights are won by people,
 
 Robin Hood Effect - If [rules](people-rules.md) are in place to redistribute [power](power.md), the powerful will redirect their efforts around those rules and the weaker will be hurt *worse* than if those rules weren't in place.
 
-Seinfeld is Unfunny - Entertaining stories are less entertaining once they become popular.
-
 Stigler's Law - Discoveries aren't named after their original discoverer.
 
 Teeter's Law - The oldest language of a group of languages always happens to be the one you're an expert in.
 
 Tytler's Civilization Cycle - Every free society cycles through bondage, to spiritual faith, to courage, to liberty, to abundance, to selfishness, to apathy, to dependence, and back to bondage
 
-## Politics/Law-Specific
+## Politics/law-specific
 
 Celine's First Law - The more a government is concerned with national security, the more insecure everyone gets.
 
@@ -250,6 +256,8 @@ Duverger's Law - Winner-take-all elections tend to create 2-party government sys
 
 Gibson's Law - Every expert has an equal and opposing expert.
 
+Greenhouse Effect - Supreme Court [justices](people-rules.md) tend to vote with [liberals](politics-conservativeliberal.md) more often as their [careers progress](legacy.md) because they want more favorable [press coverage](stories-storytellers.md).
+
 Hauser's Tax Law - Federal tax receipts, since WWII, always seem to be 19.5% of the goods and services Americans produce.
 
 Kranzberg's Fourth Law of Technology - While technology is critical for public issues, nontechnical things determine technology decisions.
@@ -258,4 +266,4 @@ Leftward Effect/Go Woke Go Broke - If an organization pushes an [ideology](value
 
 O'Sullivan's First Law - Any organization that's not overtly right-wing/[conservative](politics-conservativeliberal.md) will trend leftward/liberal over time.
 
-Streisand Effect - Hiding or removing information will often backfire and make it *more* public.
+- Werry's Law - Any conservative woman with a public platform is on a trajectory toward liberalism.

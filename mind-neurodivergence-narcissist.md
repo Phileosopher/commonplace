@@ -337,12 +337,15 @@ When we've encountered a narcissist, we must learn to [love others](people-love.
 
 Being raised by a narcissist can severely affect someone's [personality](personality.md).
 
-- Beyond anything else, narcissist parents create an inherent risk that their children become that as they [mature](maturity.md).
+- A child raised in that environment will come to believe that they can only receive love conditionally based on what they do, and are never worthy of love for their intrinsic nature.
+- Beyond anything else, narcissist parents create an inherent risk that their children become narcissists as they [mature](maturity.md).
 - Many other [neurodivergences](mind-neurodivergence.md) can arise, such as autism (through feeling entirely unloved to the point of severe [distrust](trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).
 
 ## The cure for narcissism
 
-The direct solution requires several stages:
+The only cure is for God to directly touch their heart, since nobody else will be able to perform the patience and kindness necessary to prove to the narcissist that they are worthy of love.
+
+The solution requires several stages:
 
 1. Accept they are loved by [God](god.md).
 2. Sacrifice their personal experiences to pay attention to others who legitimately need love.

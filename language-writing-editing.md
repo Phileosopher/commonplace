@@ -32,6 +32,7 @@ Good writing sounds excellent when read out loud:
 
 - Read out loud as you write, then remove awkward language you'd never actually say.
 - Unless you're trying to be vague or artistic, poetic styling is inappropriate.
+- To avoid giving a monotone feel, never write with the same number of words from sentence to sentence.
 - Formalized language gives extra work for the reader, so use easy-to-understand words.
 - Harder subjects generally call for simple words.
 - Which of the two is better to read?

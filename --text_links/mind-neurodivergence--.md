@@ -47,3 +47,6 @@ https://www.choosingtherapy.com/narcissistic-rage/
 [How To Deal With A Narcissist According To Relationship Experts | mindbodygreen](https://www.mindbodygreen.com/articles/how-to-deal-with-a-narcissist)
 
 [How to Be in a Relationship with a Narcissist: 12 Strategies](https://www.wikihow.com/Be-in-a-Relationship-with-a-Narcissist)
+
+[What Are the Phases of Schizophrenia?](https://www.webmd.com/schizophrenia/schizophrenia-phases)
+

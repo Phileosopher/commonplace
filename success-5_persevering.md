@@ -269,6 +269,45 @@ All other things being equal, more failures increases statistical chances of suc
 - If there's a set chance of success, doing something as many times as possible with that same chance will yield the highest likelihood of that success.
 - The only time to ever cut back on attempting something many times is when the sacrifices for all those attempts become greater than you can withstand.
 
+## Handling criticism
+
+Nobody likes criticism, but it does have value.
+
+- You are hearing the unfiltered views of someone else.
+- Even when they're [lying](people-lying.md), you can gain insight on how that person (and others like them) see the world.
+- If the criticism is constructive, then you can still use their information if you can separate it from the [feelings](mind-feelings.md) from any rudeness they may have given.
+
+However, criticism is often psychological abuse, and you must protect yourself from it.
+
+- Not all critics deserve access to you.
+  - If you don't respect them, their feedback will simply be what *not* to do, and often with emotional baggage included.
+- Many times, their issues are fundamentally unimportant.
+  - Focus only on information that will matter in the long-term.
+- If you're not sure how much of the criticism is true:
+  1. Write down the criticism.
+  2. Underline or highlight the part that is legitimately useful.
+
+You're not responsible to respond to every criticism.
+
+- They don't need to be corrected.
+  - If you react at all, they will often react back harder.
+  - Simply say "I hear you, and I'll reflect on that."
+- Only save counter-criticism for someone who actually cares what you think.
+  - While they may have valuable information, most people are more concerned about fueling their ego than pursuing truth.
+- Admit your mistakes without [shame](mind-feelings-shame.md).
+  - Your errors stop being present-tense (and the cause of shame) when you've changed from them.
+  - But, to change from them, you need to accept you have them.
+  - Thus, you are responsible to own your errors, and then work on them.
+- Learn to be kind in the face of their behaviors.
+  - Respect their desires, even if it includes not wanting the truth.
+
+Criticism is proof you've tried something.
+
+- The criticism comes from someone else finding a thing "different" and "unacceptable".
+- This means that you'll face criticism in proportion to your comparative [success](success-1_why.md) *and* failures.
+  - However, your failures are necessary to fuel your successes.
+- Learn to [trust](trust.md) yourself and your experiences, as well as rely on your [faith](identity-christian.md).
+
 ## Give yourself time to recover
 
 You *must* take time off to recover because you usually won't realize how much you're harming yourself until it's too late:

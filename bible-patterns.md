@@ -21,11 +21,16 @@ There are several numbers that represent themselves constantly throughout the Bi
 - 1: unity, primacy, beginnings, and God's singular nature
 - 2: duality, partnership, and balance
 - 3: divine completeness, unity, resurrection, new beginnings
-- 4: stability, foundation, order
+- 4: stability, righteous division, foundation, order
 - 5: grace, mercy, God's favor
-- 6: imperfection, humanity
+- 6: imperfection, humanity, weakness
 - 7: completeness, perfection, divine intervention
-- 8: redemption, rebirth, resurrection
+- 8: redemption, rebirth, resurrection (combination of 3 and 5)
+- 9: divine completeness, finality
+- 10: testimony, law, responsibility, completeness of order (combination of 4 and 6)
+- 11: irresponsibility of breaking the law
+- 12: God's power and authority
+- 13: rebellion and lawlessness
 - 40: trial, hardship
 - 1000: many, a multitude
 

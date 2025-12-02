@@ -147,6 +147,6 @@ Fishing is the standard hobby of fishing, but with a time constraint and the obj
 
 Bowling is the standard hobby of bowling, but in parallel with other players.
 
-All target shooting involves striking a distant object (or hitting as close as possible) with a specified distance weapon.
+All [target shooting](fun-sports-target.jpg) involves striking a distant object (or hitting as close as possible) with a specified distance weapon.
 
 - Whether it's shooting guns, bows, or horseshoes, the objective is effectively the same with small variations.

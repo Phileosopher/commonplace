@@ -164,11 +164,15 @@ Focus on one object at a time and ignore the size of the mess:
 
 For each item, ask why you still keep it:
 
-- We always have a reason to keep something.
-- We become hoarders when we focus on past-tense [value](values-quality.md) more than present-tense.
-- If you have many inferior items of something (e.g., knives, pens), then get rid of all the bad ones unless you can specifically think of a reason you'd need that many of them.
-  - Often, those items are cheap to replace when you require them, so they're taking up valuable space.
-- Pay close attention to the space you *can't* use by holding on to an item.
+1. Is it replaceable?
+   - Often, those items are cheap to replace when you require them, so they're taking up valuable space.
+   - Pay close attention to the space you *can't* use by holding on to an item.
+2. Will you remember having it, and will be able to find it?
+   - We often get multiple items of something because we've forgotten where it is.
+   - If you have many inferior items of something (e.g., knives, pens), then get rid of all the bad ones unless you can specifically think of a reason you'd need that many of them.
+3. Are you certain you'll ever use it?
+   - We always have a reason to keep something.
+   - We become hoarders when we focus on past-tense [value](values-quality.md) more than present-tense.
 
 Look at its *current* and calculate its possible *future* worth:
 

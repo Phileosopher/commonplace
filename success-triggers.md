@@ -420,6 +420,12 @@ Using books:
 - Clip a pants' hanger to the top of a laptop to easily transcribe a book.
 - When putting paper in a binder, tape over the holes to prevent them from breaking.
 
+Getting advice online:
+
+1. Post a question you can't find the answer to.
+2. Make a throwaway account and post a reply to that question with an obscenely incorrect answer.
+3. Wait for people to react to your second account by replying with the correct answer.
+
 Hammering:
 
 - Secure a magnet to the bottom of a hammer.

@@ -176,70 +176,190 @@ When you must share bad news:
 
 If you're starting to feel any unpleasant emotions, say something to give yourself space (e.g., "I need a few seconds to process this"), then take some time to calm down.
 
+### High-context language
+
+For many reasons, people are [afraid](mind-feelings-fear.md) of a [dysfunctional confrontation](people-conflicts-bad.md).
+
+- For that reason, they use polite language in correspondence that means nothing close to what they say.
+
+To avoid any confusion, it's wisest to respond to the low-context variation of what they really mean.
+
+"Thanks in advance"
+
+- Meaning: "get this done right now."
+- Either communicate your present status, or ignore them.
+
+" Thanks for your interest about (subject)"
+
+- Meaning: "Why did you have to bring (subject) up?"
+- No response necessary, but be prepared for them to react negatively.
+
+"Best"
+
+- Meaning: "I don't really know who you are"
+- Don't take it personally, since they're likely a [narcissist](mind-neurodivergence-narcissist.md)
+
+"All best"
+
+- Meaning: "This conversation is over"
+- Any further discussion is a risk, and it's [legally safest](legal-safety.md) to know how all your written correspondence would look in a court hearing.
+- "All my best" is the escalated version of this.
+
+"Happy to help"
+
+- Meaning: "This is the easiest thing in my inbox"
+- They will likely help, up until it becomes inconvenient for them.
+
+"I hope this helps"
+
+- Meaning: "I've done all I'm willing to do"
+- Don't expect anything else from them.
+
+"I did a bit of research"
+
+- Meaning: "I did a websearch because you're too lazy to"
+- They don't want to help at all, so look to someone else to solve the issue.
+
+"Sorry to chase"
+
+- Meaning: "Answer my email"
+- Respond to them with *something*, even if it's nothing legitimately meaningful.
+- The escalations of this are "so sorry to chase" or "I am really sorry to bug you but..."
+
+"Please contact my colleague..."
+
+- Meaning: "This isn't my problem"
+- They're handing it off to someone else.
+- The escalation of this is "I'm copying in my colleague on this message", which is because they're thrilled that it's not their problem.
+
+"I'll check and get back to you."
+
+- Meaning: "I might forget to get back to you"
+- Set a date on your calendar and ask them sometime later about it.
+- The escalation to this is "I'll let you know when I hear anything", which is a certainty they'll forget about it.
+- "Can you check back with me in a week" means they hope you'll forget.
+
+"Per our earlier conversation..."
+
+- Meaning: "I hope you emotionally remember the violence I demonstrated over the phone call"
+- Disregard their behavior or make plans to get away from them, since they don't feel any [shame](mind-feelings-shame.md) about it.
+- The person on the receiving end will often say "great to chat just now."
+
+"Please advise."
+
+- Meaning: "This might be your fault"
+- If it is your fault, own it. Otherwise, indicate the exact problem as you understand it.
+- The escalation to this is "kindly advise".
+
+"Mind if I swing by?"
+
+- Meaning: "I'm coming over right now"
+- Expect them to come in.
+
+"Can you confirm for me...?"
+
+- Meaning: "I know you told me before, but I deleted the email"
+- Resend the email or ask for more detail on what to confirm.
+
+"Sorry if that was unclear."
+
+- Meaning: "I think you're an idiot"
+- Expect an eroded relationship in the future with them.
+
+"Let me know if you need anything else."
+
+- Meaning: "Please never contact me again"
+- They want distance, so give it to them.
+
+In general, you can disrupt the facade quickly by doing a few things:
+
+- Aim for the lowest-context language possible in your reply.
+  - This includes technical details and trivia that may not mean anything to them.
+- If they speak like they want to be helpful (e.g., "Please let me know if you need anything else"), then openly ask for their help.
+- When they ever say "sorry", say "I forgive you" or "no you aren't".
+- When they say "thanks", say "you're welcome"
+  - If it's them saying "thanks" for something you haven't [agreed to](people-contracts.md) yet, say "I haven't agreed to it yet".
+- If they give information that makes them appear helpful, tell them how that information isn't useful or it's insufficient.
+  - You can also make them feel unimportant by asking who would be more qualified to help you.
+- Answer questions that imply you must say "yes" with "no".
+  - Alternately, answer the question they're asking, not the question they're implying.
+
 ## Say "no" politely
 
 While it's critical to say "no" to others, stating it harshly will always lose *much* more reputation with others than graciously expressing it.
 
 Try to acknowledge others' statements, but respond with "yes, and..." more than "no":
 
-1. "Unfortunately, I have too much to do today. I can help you another time."
-2. "I'm flattered by your offer, but no thank you."
-3. "That sounds fun, but I have a lot going on at home."
-4. "I'm not comfortable doing that task. Is there anything else I can help you with?"
-5. "It's not a good time for me, but I'll let you know if my schedule frees up."
-6. "I'm not comfortable discussing that with people who aren't part of my inner circle."
-7. "I need time to process that before I can give you a response."
-8. " Sorry, I have already committed to something else. I hope you understand."
-9. "I need some time right now to recharge, so I won't be able to go tonight."
-10. "No, I won't be able to fit that into my schedule this week."
-11. "I would love to join you, but I'm a little overwhelmed with work right now."
-12. "I'm not taking on any other work right now. Maybe check with another department?"
-13. "Thank you for thinking of me, but I don't wish to accept your offer."
-14. "Sadly, I can't help with that. I'm not qualified for that type of work."
-15. "The timing right now isn't good. Can you keep me in mind for next time?
-16. "How about you try it on your own first, and then I can help you?"
-17. "I know this isn't the answer you wanted, but I can't accept your offer."
-18. "I enjoyed helping you last time, but I am too busy to assist you right now."
-19. "Thanks, but I'm all good. I appreciate the offer."
-20. "I'm not interested this time. I'm sure someone else would love the opportunity."
-21. "No, sorry. I must prioritize my family right now."
-22. "I've been feeling too busy lately. I will have to decline this time."
-23. "I've had a negative experience with that before, so I'll have to decline."
-24. "I've done that many times already. Let's give someone else a chance to try."
-25. "I feel honored by you asking me this question, but I still must say 'no' this time."
-26. "That's very thoughtful of you. I appreciate the offer, but I'm simply too busy with work this time."
-27. "I'm not the right fit for this task. I can help you think of someone else to ask."
-28. "Unfortunately, that's just not possible. It won't work out this time."
-29. "That sounds so exciting, but we'll have to wait for another time."
-30. "Are you sure you want me to do that? I would rather not, but I appreciate you asking."
-31. "That's not the right choice for you, let's look at this one instead."
-32. "I really shouldn't this time, but thank you."
-33. "Let me get back to you, but I'm not confident about it working out."
-34. "This task doesn't align with my own principles. Could we change what I need to do?"
-35. "I told myself I wouldn't do that again. Thanks for respecting my decision."
-36. "No, thank you. I would appreciate it if you accepted my choice."
-37. "I know that's challenging for you, but I don't have the capacity to help you at the moment."
-38. "I can't help, but I have some resources I can forward to you."
-39. "Out of respect to my privacy, I hope you can understand my answer is no."
-40. "I've been spending too much money lately, can I join you after our next paycheck?"
-41. "I'm low on cash right now. Can we do something that's free?"
-42. "I would love to help, but I have too much going on. Best of luck with your endeavors."
-43. "I've actually changed my mind. I no longer can help you. Sorry for the inconvenience this may cause."
-44. "Unfortunately, I cannot say 'yes' this time. I hope you can find someone who can."
-45. "I don't feel comfortable with you asking me that. Can you please refrain from doing so in the future?"
-46. "How about instead of me doing that, I help you with something else?"
-47. "This deal doesn't feel right to me, so I'll have to decline this time."
-48. "This doesn't seem like a healthy decision for me, so I must regretfully decline."
-49. "Agreeing to this would go against what I believe in. Thank you for understanding that."
-50. "I can't because my own team needs me."
-51. "I'm afraid I can't. Let's discuss this another time."
-52. "I'm going to pass this time. Perhaps we can discuss this again next month."
-53. "This doesn't fall under my job description. Please refer to our manager to learn who to ask."
-54. "What would you like me to stop doing in place of this?"
-55. "Since this will cost more, do you still want me to do it?"
-56. "I won't tolerate any form of physical aggression or violence."
-57. "I won't get to this anytime soon, is that okay?"
-58. "I will discuss this when I can do something about it."
+- "Unfortunately, I have too much to do today. I can help you another time."
+- "I'm flattered by your offer, but no thank you."
+- "That sounds fun, but I have a lot going on at home."
+- "I'm not comfortable doing that task. Is there anything else I can help you with?"
+- "It's not a good time for me, but I'll let you know if my schedule frees up."
+- "I'm not comfortable discussing that with people who aren't part of my inner circle."
+- "I need time to process that before I can give you a response."
+- " Sorry, I have already committed to something else. I hope you understand."
+- "I need some time right now to recharge, so I won't be able to go tonight."
+- "No, I won't be able to fit that into my schedule this week."
+- "I would love to join you, but I'm a little overwhelmed with work right now."
+- "I'm not taking on any other work right now. Maybe check with another department?"
+- "Thank you for thinking of me, but I don't wish to accept your offer."
+- "Sadly, I can't help with that. I'm not qualified for that type of work."
+- "The timing right now isn't good. Can you keep me in mind for next time?
+- "How about you try it on your own first, and then I can help you?"
+- "I know this isn't the answer you wanted, but I can't accept your offer."
+- "I enjoyed helping you last time, but I am too busy to assist you right now."
+- "Thanks, but I'm all good. I appreciate the offer."
+- "I'm not interested this time. I'm sure someone else would love the opportunity."
+- "No, sorry. I must prioritize my family right now."
+- "I've been feeling too busy lately. I will have to decline this time."
+- "I've had a negative experience with that before, so I'll have to decline."
+- "I've done that many times already. Let's give someone else a chance to try."
+- "I feel honored by you asking me this question, but I still must say 'no' this time."
+- "That's very thoughtful of you. I appreciate the offer, but I'm simply too busy with work this time."
+- "I'm not the right fit for this task. I can help you think of someone else to ask."
+- "Unfortunately, that's just not possible. It won't work out this time."
+- "That sounds so exciting, but we'll have to wait for another time."
+- "Are you sure you want me to do that? I would rather not, but I appreciate you asking."
+- "That's not the right choice for you, let's look at this one instead."
+- "I really shouldn't this time, but thank you."
+- "Let me get back to you, but I'm not confident about it working out."
+- "This task doesn't align with my own principles. Could we change what I need to do?"
+- "I told myself I wouldn't do that again. Thanks for respecting my decision."
+- "No, thank you. I would appreciate it if you accepted my choice."
+- "I know that's challenging for you, but I don't have the capacity to help you at the moment."
+- "I can't help, but I have some resources I can forward to you."
+- "Out of respect to my privacy, I hope you can understand my answer is no."
+- "I've been spending too much money lately, can I join you after our next paycheck?"
+- "I'm low on cash right now. Can we do something that's free?"
+- "I would love to help, but I have too much going on. Best of luck with your endeavors."
+- "I've actually changed my mind. I no longer can help you. Sorry for the inconvenience this may cause."
+- "Unfortunately, I cannot say 'yes' this time. I hope you can find someone who can."
+- "I don't feel comfortable with you asking me that. Can you please refrain from doing so in the future?"
+- "How about instead of me doing that, I help you with something else?"
+- "This deal doesn't feel right to me, so I'll have to decline this time."
+- "This doesn't seem like a healthy decision for me, so I must regretfully decline."
+- "Agreeing to this would go against what I believe in. Thank you for understanding that."
+- "I can't because my own team needs me."
+- "I'm afraid I can't. Let's discuss this another time."
+- "I'm going to pass this time. Perhaps we can discuss this again next month."
+- "This doesn't fall under my job description. Please refer to our manager to learn who to ask."
+- "What would you like me to stop doing in place of this?"
+- "Since this will cost more, do you still want me to do it?"
+- "I won't tolerate any form of physical aggression or violence."
+- "I won't get to this anytime soon, is that okay?"
+- "I will discuss this when I can do something about it."
+
+Of course, sometimes you do need to simply say "no":
+
+- "I understand you're upset. I'm not okay with being spoken to that way."
+- "I can help, but I cannot do this for you."
+- "I need you to understand what I'm feeling. I do not need help problem-solving right now."
+- "You have the right to think that. I also don't see the solution that way."
+- "I am not responsible for your emotions."
+- "I understand I'm important to you. While I care about you, I also need some space."
+- "I am done talking about this."
+- "Right now, I need some time to myself. I would love to hear more about this tomorrow."
+- "No."
 
 If you have guests at your house and want them to leave:
 
@@ -293,11 +413,3 @@ When others ask you to review their work and you don't want to:
 - We usually don't want to review others' work because we know they'll treat the review as if it's about *them* instead of their work.
 - If they ask for brutal honesty, they likely aren't ready for it.
 - To avoid crossing boundaries, ask what specific feedback they want.
-
-Defuse someone very angry at you or screaming:
-
-1. Stay calmer than they are, and never let yourself lose control of your tone.
-2. If they don't calm themselves on their own, deliver a warning with consequences that'll give them time to calm down (e.g., walking out the door and coming back in an hour), and carry it out if they don't.
-3. Once they've calmed themselves (which may be after a while), acknowledge their feeling, and add an anecdote if you can empathize with their situation.
-4. If you're at all responsible, offer an apology for any portion you have done wrong.
-5. If you have control over any part of it, promise you'll do what you can to improve things (but only if you expect to).

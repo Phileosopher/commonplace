@@ -206,6 +206,17 @@ Through all the hardship, the Holy Spirit will *still* shine through:
 - While the free world has a difficult time [imagining](imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
+There are *many* people who have said that Christianity would cease to exist:
+
+- Nero
+- Diocletian
+- Julian
+- Umayyad Caliphate
+- Ottoman Empire
+- Modern atheism
+- Communist China
+- USSR
+
 ## How to prepare
 
 When the Church goes underground, everyone who wishes to keep their faith will have to suffer:
@@ -339,5 +350,10 @@ Persecution against Christianity has been "normal" for 2,000 years:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
   3. The survivors of the tragedy, in their faithfulness, continue on in society across generations while the evil regime falls apart.
+
+Further, there most certainly is a double standard people hold against Christians:
+
+- Communist dictators have historically claimed homosexuality is a perversion, vice, or disease, but Christians' opinions are often treated with more severity.
+- Christian opinions on abolition and pro-life positions tend to receive far more negative media attention than violent protesters and criminals.
 
 As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](jesus-returns.md) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).

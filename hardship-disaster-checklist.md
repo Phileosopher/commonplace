@@ -18,23 +18,33 @@ Naturally, some of these things aren't reasonable for your situation, and some a
 [Auto](autos.md) emergency kit (for each car):
 
 - [ ] Pocket knife reachable from the driver's seat (for cutting seatbelt)
+- [ ] Seat belt cutter reachable from the driver's seat
 - [ ] Ball peen hammer or automatic center punch reachable from the driver's seat (for breaking window)
 - [ ] High-visibility vest
 - [ ] A simple [first aid](body-firstaid.md) kit with bandages, triple-antibiotic ointment, decongestant, and painkillers
 - [ ] Some food:
-  - [ ] At least 6 bottles of water, cycled out every 4 months
+  - [ ] At least 6 bottles or a gallon of water, cycled out every 4 months
   - [ ] At least 6 packs of beef jerky or MRE's and a box of granola bars, cycled out every year
   - [ ] Some hard candy
-- Extreme weather gear:
+- Cold weather gear
+  - [ ] Ice scraper
   - [ ] Thick blankets
   - [ ] Hand warmers
   - [ ] Gloves
   - [ ] Socks
   - [ ] Ski hat
+  - [ ] Portable shovel
+  - [ ] Cat litter
+  - [ ] Candles
+  - [ ] Tire chains
+- Hot weather gear
   - [ ] Bandana
   - [ ] Hat
   - [ ] Sunscreen
-- [ ] Maps, a Thomas guide, and a compass for navigation
+- Navigation gear
+  - [ ] Maps
+  - [ ] Thomas guide
+  - [ ] Compass
 - [ ] A simple toolbox for basic maintenance tasks:
   - [ ] Screwdrivers
   - [ ] Channel-locks
@@ -53,12 +63,16 @@ Naturally, some of these things aren't reasonable for your situation, and some a
   - [ ] Jumper cables or a car starter
   - [ ] Ice scraper and snow brush
   - [ ] Extra cell phone charger
+  - [ ] Portable air compressor
+  - [ ] Extra windshield wipers
 - Multi-use supplies
   - [ ] Zip ties
   - [ ] Trash bags
   - [ ] Pen, pencil, and paper
   - [ ] Safety pins and paperclips
+  - [ ] Tow strap
 - [ ] A spare, charged cell phone in the glove compartment (for calling emergency services)
+- [ ] A small fire extinguisher
 
 [ ] Dashcam for each car
 

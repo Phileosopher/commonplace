@@ -19,6 +19,8 @@ The problem with any [group](groups-small.md) is that it's bound together by [fe
 
 The differences in opinion, combined with a few individuals' [unscrupulous](morality-evil.md) desire for [power](power.md) by a minority of individuals, [guarantees](people-conflicts.md) there will *always* be [smaller-scale conflicts](people-conflicts-why.md). Since there's simply not enough time to resolve all the smaller conflicts, some of them will eventually become larger and spill out into becoming larger-scale. Most leaders, in seeing conflicts, are [afraid](mind-feelings-fear.md) enough to address many conflicts (due to their scope of destroying the group), and that inaction will often magnify the force of the ideas.
 
+Many of the large-scale conflicts represent the same sort of [bad boundaries](people-boundaries.md) on [an individual level](people-conflicts.md), but they frequently magnify them into absurdly large effects that often give entire people groups [severe hardships](hardship.md).
+
 Groups can coexist for *much* longer with conflicting values than individuals alongside each other, but once a [trend](trends.md) has turned toward crushing the competition, it's difficult to stop [humanity's competitive or destructive nature](humanity.md).
 
 Usually, the trigger for a large-scale conflict comes through an existing disagreement among groups where a leader develops at least one of a few specific [desires](purpose.md):

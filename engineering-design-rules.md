@@ -19,7 +19,7 @@ Information filtering
 - Expectations bias - we are influenced by their own predetermined expectations
 - Fitts' law - things are easier for us to interact with when they're large and close
 - Framing - how information is presented determines how users decide
-- Hick's Law - more options makes decisions harder
+- Hick's Law - more options makes decisions harder (specifically, a logarithm based on quantity and complexity)
 - Isolation/von Restorff effect - when showing multiple items, the most different of them will stand out the most
 - Juxtaposition - elements tend to get grouped when they're similar
 - Law of proximity - elements tend to get grouped when they're near each other

@@ -165,6 +165,25 @@ Even when he can't provoke us to conceited thinking or distract us with a bad [b
 - He'll provoke people to imitate bad behaviors alongside good ones, then will magnify the bad behaviors until the person is imitating a [caricature](people-image-distortion.md) of their role model's original bad behavior.
 - God will often endure our [prejudices](people-image-why.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groups-small.md), starting with unbelievers and eventually covering other believers.
 
+## Tricks for women
+
+A woman was deceived first, so she is the easiest target for further spiritual deception.
+
+- Any effort made to distort a woman's sense of reality will be far more holistically destructive than a man's, which by contrast is far more overtly destructive.
+
+The devil aims to condition them to bleieve that growing physically into womanhood is a horrible thing.
+
+- By keeping a young girl from positive and healthy female role models, they'll have to learn from each other in snippets (e.g., sleepovers, lunch table gossip, social media).
+- The devil gives tons of information that is wrong and misstated, which leads to confusion and uncertainty.
+- The devil then stirs up fear about bringing up the topics with anyone, which magnifies the confusion.
+
+Once they've been left alone, they're forced to to guess, which leaves them remembering how confused they felt.
+
+- In this, they won't be informed about how menstruation and fertility are the power for humanity to even go on, so they'll only be able to focus on its unpleasant elements.
+- This divides them with the belief that they have a needless struggle that men don't have to face.
+- This leads into adulthood, and will ruin their ability to see themselves as anything but as an oppressed and misunderstood creature.
+- Eventually, this means they will come to believe that they would better serve the world by taking on the role of men in formal leadership roles.
+
 ## Tricks with groups
 
 The devil makes us hate people groups, but only as a passive, brewing hatred:

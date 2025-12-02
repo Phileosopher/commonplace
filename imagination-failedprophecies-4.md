@@ -99,6 +99,10 @@
 
 - Professor Lloyd Cunningdale was excavating with his students at the Donner Party disaster site. They found a time capsule left by the settlers that has many predictions for the future, including a weaponized disease wiping out all humanity in 2016.
 
+2018
+
+- Climate change experts in 2008 predicted that the Arctic Circle would be ice-free by 2018.
+
 2020
 
 - Jeane Dixon claimed that Armageddon would take place in 2020 and Jesus would return to defeat the unholy Trinity of the Antichrist, Satan and the False prophet between 2020 and 2037. Dixon previously predicted the world would end on February 4, 1962.
@@ -107,6 +111,10 @@
 2021
 
 - F. Kenton Beshore bases his prediction on the prior suggestion that Jesus could return in 1988 (i.e., within one Biblical generation of 40 years) of the founding of Israel in 1948. Beshore argues that the prediction was correct, but that the definition of a Biblical generation was incorrect and was actually 70--80 years, placing the Second Coming of Jesus between 2018 and 2028 and the Rapture by 2021 at the latest.
+
+2024
+
+- Climate change experts in 2004 predicted that Britain would be as inhabitable as Siberia by 2024.
 
 * * * * *
 
@@ -128,6 +136,10 @@ COMING SOON!
 2050
 
 - An Australian think tank as of June 2019 claims that the world's ice sheets will collapse and humanity will cease to exist by 2050 if major pollution controls aren't set in place.
+
+2070
+
+- Climate experts predicted in 1972 that a new ice age is coming.
 
 2120
 

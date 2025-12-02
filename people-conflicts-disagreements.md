@@ -8,6 +8,7 @@ When you disagree with someone, mind a few realities:
 - You can only [influence](power-influence.md) others if they let you.
 - If someone doesn't want to believe something, their mind will only change with proof.
 - Every human, yourself included, believes certain things without proof.
+  - Be [open to criticism](success-5_persevering.md), even when it's uncomfortable.
 
 Most innocent conflicts have a few particular, silly causes:
 
@@ -15,27 +16,15 @@ Most innocent conflicts have a few particular, silly causes:
 - Solutions to issues that someone else sees as backward or incomplete.
 - Expectations about others' behavior which assume malicious intent.
 
-Conflicts tend to escalate through stages:
+## Focusing on the issue
 
-1. First, everyone will start interrupting each other at the end of a sentence, even if the idea wasn't complete.
-2. Then, people will start interrupting before someone can fully articulate an idea.
-3. The interruptions will lead to raised voices.
-4. Raised voices will lead to yelling.
-5. Beyond yelling, people will start name-calling and blaming, though they may jump ahead to it without yelling.
-6. After name-calling, they'll make threats proportional to their feelings (though they won't actually meditate doing anything).
-7. If they're sufficiently motivated, they'll perform direct deviant behavior, which will either express as physical aggression or plotting revenge.
+When you disagree, have a goal in mind:
 
-The only way to slow this escalation is to speak gently and slowly.
+- There are at least two sides to every disagreement, as well as a straightforward "third option" that nobody has talked about yet.
+- Every single person has exclusive awareness of at least some facts, including some facts *you're* not aware of.
+- Don't take anyone's behavior personally: since it's likely [habitual](habits.md), their hateful, rude, or unkind behavior toward you is more like a mental disease they can't control.
 
-- This doesn't stop it, though, and only stops escalating through the other person feeling they've been understood.
-- The only other solution is to give time to cool off, but it only works to improve relations if it's done before the interruptions have become yelling.
-
-Work *very* hard to find "shared facts":
-
-- You'll often need quite a bit of [awareness](awareness.md) about the situation and how others might be thinking, as well as what you certainly *don't* know.
-- However, if you're aware of what drives a disagreement, you can effectively deflect or defuse *any* conflict, or at the very least mitigate its risks.
-
-Give clear, specific feedback on problems:
+Give clear, specific feedback on problems you observe:
 
 1. Approach them with the problem when they're calm and undistracted.
    - If you don't approach them, they'll have no motivation to change their behavior.
@@ -47,6 +36,11 @@ Give clear, specific feedback on problems:
 7. If relevant, tell them the consequences you see if they keep doing what they've done, as well as what you want.
 8. Encourage that they carefully consider the matter, then leave it alone.
 
+Work *very* hard to find "shared facts":
+
+- You'll often need quite a bit of [awareness](awareness.md) about the situation and how others might be thinking, as well as what you certainly *don't* know.
+- However, if you're aware of what drives a disagreement, you can effectively deflect or defuse *any* conflict, or at the very least mitigate its risks.
+
 Everyone [disagrees on a hierarchy](http://paulgraham.com/disagree.html):
 
 1. Refuting the other person's central point(s) ("You're saying this idea, but this idea doesn't work because...").
@@ -57,15 +51,20 @@ Everyone [disagrees on a hierarchy](http://paulgraham.com/disagree.html):
 6. Attacking the person's characteristics or authority without addressing their points ("You have no right to say that").
 7. Calling the person names or using insults without presenting a counterargument ("You're an idiot.").
 
-When you disagree, have a goal in mind:
+To gain more information and [understanding](understanding.md), behave like you're stupid.
 
-- There are at least two sides to every disagreement, as well as a straightforward "third option" that nobody has talked about yet.
-- Every single person has exclusive awareness of at least some facts, including some facts *you're* not aware of.
-- Don't take anyone's behavior personally: since it's likely [habitual](habits.md), their hateful, rude, or unkind behavior toward you is more like a mental disease they can't control.
+- Only do this if you don't desire a further [friendship](people-friends.md) with this person.
+  - This tactic sabotages their direct trust with you, even if it creates a more advantageous long-term solution.
+- Ask dumb questions and behave as if you're confused.
+  - Apologize for not quite understanding, then ask them to explain various details again.
+- Frame your requests as if they just occurred to you.
+- Of course, if *they* are doing it to *you*, they're trying to gather their own information.
+  - If you've been [honest](people-lying.md), there really is nothing to worry about.
+  - However, that behavior without justifiable cause is a trait of a [narcissist](mind-neurodivergence-narcissist.md), so limit your time with them.
 
-- If you're in an argument with someone publicly, and it's a waste of time, either find a way to terminate the conversation or focus your statements to resonate with the *audience* of your argument instead.
+## Convincing them
 
-Influential people confirm what people agree with, then add new information to adapt others' views:
+Influential people confirm what people agree with, then add new information to adapt their views:
 
 1. Think deeply about what you believe until you fully [understand](understanding.md) it.
 2. Share what causes your beliefs, but not what you believe.
@@ -81,23 +80,30 @@ If you have a strong opinion on something, use the Two-And-Done Rule:
 4. If they still don't agree, yield to their decision while retaining your opinion.
 5. Never bring it up again.
 
-Never say "no" more than once: state [healthy boundaries](people-3_respect.md) the first time, then enforce them if someone tests it again.
+## Escalations
 
-If you feel [your rights](people-boundaries-why.md) are being violated, take personal responsibility that *you* put yourself in that situation:
+Conflicts tend to escalate through stages:
 
-- If you focus more on the person who violated your rights, you're keeping yourself open to that event repeating itself with someone else.
+1. First, everyone will start interrupting each other at the end of a sentence, even if the idea wasn't complete.
+2. Then, people will start interrupting before someone can fully articulate an idea.
+3. The interruptions will lead to raised voices.
+4. Raised voices will lead to yelling.
+5. Beyond yelling, people will start name-calling and blaming.
+6. After name-calling, they'll make threats proportional to their feelings (though they won't actually plan to do anything).
+7. If they're sufficiently motivated and [immoral](morality.md), they'll perform direct deviant behavior, which will either express as physical aggression or plotting revenge.
 
-Watch for [dysregulation](awareness-dysregulation.md):
+However, if people are restrained, they will skip over some of the escalation stages.
 
-- We can often become unaware of our own feelings, but still act in a way we believe is completely rational.
-- Over a long period, we may even normalize irrational behavior.
-- Learn to stay fully [self-aware](awareness.md) of your feelings, even in the middle of a conflict.
-  - They are often behaving on the precedent of their childhood backgrounds.
-- If you see someone else in a dysregulated state, maintain *extremely* consistent boundaries to prevent their misbehavior from harming you.
+- [Narcissists](mind-neurodivergence-narcissist.md) will typically skip over yelling.
+- Criminally-minded people will often move straight to deviant behavior.
 
-Irrespective of the situation, *every* encounter has a possibility for [negotiation](people-conflicts-negotiation.md), even including [a large-scale war](people-conflicts-war-why.md).
+The only way to slow this escalation is to speak gently and slowly.
 
-## Avoid escalations
+- This doesn't stop it, though, and only stops escalating through the other person feeling they've been understood and are safe.
+- Since de-escalation is also their responsibility, it's wisest to give time to cool off, but will only improves relations if it's done before the interruptions have become yelling.
+  - Alternately, if any de-escalations don't improve relations, that person may be a [narcissist](mind-neurodivergence-narcissist.md)
+
+### Avoid escalations
 
 Conflicts create trouble through stages of escalation:
 
@@ -113,6 +119,14 @@ Conflicts create trouble through stages of escalation:
 8. Annihilation - The opponents are now worth destroying by any means possible.
 9. Abyss - Even complete self-destruction is acceptable as long as their opponents also suffer.
    - When someone wishes to destroy their opponent, forcible intervention is the only available option.
+
+Defuse someone very angry at you or screaming:
+
+1. Stay calmer than they are, and never let yourself lose control of your tone.
+2. If they don't calm themselves on their own, deliver a warning with consequences that'll give them time to calm down (e.g., walking out the door and coming back in an hour), and carry it out if they don't.
+3. Once they've calmed themselves (which may be after a while), acknowledge their feeling, and add an anecdote if you can empathize with their situation.
+4. If you're at all responsible, offer an apology for any portion you have done wrong.
+5. If you have control over any part of it, promise you'll do what you can to improve things (but only if you expect to).
 
 If it gets heated, go to separate rooms or outside, with indication that you can both come back when you're ready:
 
@@ -147,3 +161,26 @@ If you legitimately hurt others, apologize sincerely and quickly:
   6. Requesting forgiveness for your actions.
 - However, [never apologize for something you didn't do](legal-safety.md).
   - If you're careful, you can usually express heartfelt sympathy without apologizing.
+
+## Setting boundaries for yourself
+
+Watch for [dysregulation](awareness-dysregulation.md)in yourself:
+
+- We can often become unaware of our own feelings, but still act in a way we believe is completely rational.
+- Over a long period, we may even normalize irrational behavior.
+- Learn to stay fully [self-aware](awareness.md) of your feelings, even in the middle of a conflict.
+  - They are often behaving on the precedent of their childhood backgrounds.
+- If you see someone else in a dysregulated state, maintain *extremely* consistent boundaries to prevent their misbehavior from harming you.
+
+Never say "no" more than once: state [healthy boundaries](people-respect.md) the first time, then enforce them if someone tests it again.
+
+If you feel [your rights](people-boundaries-why.md) are being violated, take personal responsibility that *you* put yourself in that situation:
+
+- If you focus more on the person who violated your rights, you're keeping yourself open to that event repeating itself with someone else.
+
+If you're in an argument with someone publicly and it's a waste of time, either terminate the conversation or focus your statements solely toward the *audience* of the argument.
+
+Every encounter has a possibility for [negotiation](people-conflicts-negotiation.md) as the situation changes, even including [a large-scale war](people-conflicts-war-why.md).
+
+- Since people and circumstances change, never permit the door to be entirely shut.
+- Beyond the opportunities it can open up, you are taking the [moral high ground](morality.md).

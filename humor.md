@@ -3,16 +3,31 @@
 
 Everyone has a sense of humor. It's a deep, subconscious [feeling](mind-feelings.md) that resonates through many [symbolic](symbols.md) associations to create a unique form of amusement.
 
-At its core, humor is an out-of-place connection. It can come from various places:
+At its core, humor is an out-of-place connection.
 
 - Exaggeration and blowing things *way* out of proportion
-- A play on [words](language.md) (i.e., puns)
 - Broken [logic](logic.md) where "fixing" the logic is literally impossible
 - Connecting unrelated things by a purely coincidental or incidental association
+- Behaving completely differently from how people typically behave
+
+It can come through various forms:
+
+- Dumb jokes: stating the patently obvious
+  - Scatological humor: using feces or farts, but can extend to other body functions
+- Puns: a play on [words](language.md)
+  - Often represented in the children's "Knock-Knock joke"
+  - Double entendre: a word or phrase with both an innocent and inappropriate meaning
+- Practical jokes: a joke that humiliates someone else
+  - Impractical jokes: a joke intended to humiliate someone else, but is needlessly elaborate
+- Irony: someone being exposed to an event that goes against what their [purpose](purpose.md) is
+- Surreal humor/modern art: things that don't make any sense
+- Slapstick: violence causing physical pain
+- Self-deprecation: humor at the expense of the creator of it
+- Dark humor: includes [death](hardship-death.md) in some form
 
 Humor is *highly* contextual for the simple reason that it requires an [emotional](mind-feelings.md) connection to something [familiar](understanding.md).
 
-Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](imagination.md) in every conceivable direction, *including* our expectations of the unknown or severe hardship!
+Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](imagination.md) in every direction, *including* our expectations of the unknown or severe hardship.
 
 APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
 

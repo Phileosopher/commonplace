@@ -21,7 +21,11 @@ APPLICATION: [Communication](people-conversation.md) is a massive part of the [h
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
+## Word structure
+
 When speaking, each sound represents a syllable (e.g., "ah", "em"), and a combination of syllables creates a "word", which represents a complete idea. Vowel sounds link a word together (e.g., a, e, i), and consonants provide more of the [story](stories-why.md) about how the word makes us [feel](mind-feelings.md).
+
+Written and spoken language are *not* the same language, and run parallel to one another in any [culture](people-culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
 
 Every letter, word, and phrase is a [symbol](symbols.md) that represents both as an [idea](values.md) of its own and as a relationship to other ideas. Each idea comes with unique [images](people-image-why.md) and [feelings](mind-feelings.md) as we interpret it in our minds.
 
@@ -29,11 +33,36 @@ These symbolic associations always have a central basis they hinge on. That basi
 
 In languages like English, each character has an abstract meaning that only forms [ideas](values.md) when they're assembled into words. In other languages (e.g., Eastern languages like Chinese), the letter itself has a clearer meaning.
 
-Written and spoken language are *not* the same language, and run parallel to one another in any [culture](people-culture.md). They're connected directly with each other, though, so we tend to treat them as one singular codex.
+Latin-based letters can have cases ("upper" and "lower" referring to where they were stored in the movable type print case) that can be used to emphasize the formal beginning of a statement.
+
+Further, punctuation (e.g., exclamation point, question mark) can be used to alter the implied meaning of a statement.
 
 The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories-why.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](people-image-why.md), and even *more* of the same from other words' relationship to those ideas.
 
 Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
+
+## Complexities
+
+The choice of word we use has a degree of abstracting away from the source object we are trying to indicate:
+
+1. Process level - we are describing the technical realities that are presently existing in an area
+   - e.g., [scientific facts](science.md), stated testimony
+   - This is highly tedious to communicate, so only necessary for [troubleshooting](https://adequate.life/fix/).
+2. Distinction level - we describe the specific technical realities connected to a thing itself
+   - e.g., specific scientific facts, specific testimony
+   - This is still tedious, so only useful for highly technical work.
+3. Identifier level - we give a name to that thing, which removes even more characteristics of the object
+   - e.g., Toyota, Bessie
+4. Object level - we broadly define the thing with a word that distinguishes its essence from everything else
+   - e.g., car, cow
+5. Group level - we remove information to distinguish the object within a broader group that shares something in common
+   - e.g., automobiles, livestock
+6. Large group level - we remove more information to distinguish the object as part of an even broader common domain
+   - e.g., vehicles, farm assets
+7. Vague group level - even more information is removed from the object to create a vast common domain
+   - e.g., asset
+8. Full abstraction - we have removed so much information that the word describing the object can be used to describe almost everything else
+   - e.g., wealth
 
 We must delicately balance between precision and brevity, and our [choice](people-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
 
@@ -58,6 +87,15 @@ APPLICATION: The breadth and range of descriptors like adjectives and adverbs gi
 We connect words to similar and opposing ideas to create synonyms and antonyms. Their power comes through association: mere awareness of related words can create [understanding](understanding.md), but can also [distort perceptions](people-image-distortion.md).
 
 APPLICATION: Synonyms and antonyms are useful, but they're also risky if we over-simplify the concepts. "Part" is the antonym of "whole", but also of "non-part", and "whole" and "non-part" are completely unrelated ideas.
+
+One wacky concept with well-used words is that sometimes a word can become a synonym for two opposing ideas. At that point, it becomes a contronym/auto-antonym:
+
+- Sanction: to officially allow, to punish for breaking a rule
+- Bound: heading toward a destination, restricted from moving
+- Dust: remove dirt, cover with fine particles
+- Screen: to display something (like a movie), to hide from sight
+- Weather: to survive or endure, to be worn down over time
+- Left: to go away, to remain behind
 
 Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](people-image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](legal-doctrines.md)).
 

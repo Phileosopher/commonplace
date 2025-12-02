@@ -47,7 +47,7 @@ The Torah, Nevi'im, and Ketuvim are combined to make TNK, or Tanakh.
 - The Hebrew Bible was translated into Greek (the Septuagint) sometime between 250 and 100 BC.
 - Christians often simply call it the "Old Testament", but it's the exact same books as the Jews' Bible.
 
-Torah:
+Torah (the Law):
 
 - Canonized around 500 BC.
 - Gives an introduction to the Israelite people, gives the Jewish Law, and sets a covenant with them as God's chosen people.
@@ -110,6 +110,8 @@ The New Testament is made of 27 letters written in Greek (except for the book of
 
 - The same 27 books were constantly reproduced and shared across the Roman Empire.
 
+Given that the documents were *very* illegal for the time, they were distributed as letters ("Epistles").
+
 The Four Gospels - four accounts of Jesus' life:
 
 - Three "synoptic" Gospels (i.e., sharing the same point of view):
@@ -118,31 +120,37 @@ The Four Gospels - four accounts of Jesus' life:
   - [Luke's](https://biblehub.com/luke/1.htm)
 - [John's](https://biblehub.com/john/1.htm), which was written later
 
-Luke's account of the events immediately following Jesus' resurrection:
+Luke's historical account of the events immediately following Jesus' resurrection:
 
 - [Acts of the Apostles](https://biblehub.com/acts/1.htm):
 
-Epistles:
+Paul's Epistles written to various churches:
 
-- General Epistles written for a broad audience:
-  - 1 from [James](https://biblehub.com/james/1.htm)
-  - 2 from [Peter](https://biblehub.com/1_peter/1.htm)
-  - 3 from [John](https://biblehub.com/1_john/1.htm)
-  - 1 from [Jude](https://biblehub.com/jude/1.htm)
-- Paul's Epistles written to various churches:
-  - [Rome](https://biblehub.com/romans/1.htm)
-  - [Corinth](https://biblehub.com/1_corinthians/1.htm) ([twice](https://biblehub.com/2_corinthians/1.htm))
-  - [Galatia](https://biblehub.com/galatians/1.htm)
+- [Rome](https://biblehub.com/romans/1.htm)
+- [Corinth](https://biblehub.com/1_corinthians/1.htm) ([twice](https://biblehub.com/2_corinthians/1.htm))
+- [Galatia](https://biblehub.com/galatians/1.htm)
+- Paul's Prison Epistles
   - [Ephesus](https://biblehub.com/ephesians/1.htm)
   - [Philippi](https://biblehub.com/philippians/1.htm)
   - [Colossae](https://biblehub.com/colossians/1.htm)
-  - [Thessaloniki](https://biblehub.com/1_thessalonians/1.htm) ([twice](https://biblehub.com/2_thessalonians/1.htm))
-- A letter written to Jews by an unknown author:
-  - [Hebrews](https://biblehub.com/hebrews/1.htm)
-- Pastor's training epistles by Paul to specific people:
-  - [Timothy](https://biblehub.com/1_timothy/1.htm) ([twice](https://biblehub.com/2_timothy/1.htm))
-  - [Titus](https://biblehub.com/titus/1.htm)
-  - [Philemon](https://biblehub.com/philemon/1.htm)
+- [Thessaloniki](https://biblehub.com/1_thessalonians/1.htm) ([twice](https://biblehub.com/2_thessalonians/1.htm))
+
+Pastor's training epistles by Paul to specific people (Pastoral Letters):
+
+- [Timothy](https://biblehub.com/1_timothy/1.htm) ([twice](https://biblehub.com/2_timothy/1.htm))
+- [Titus](https://biblehub.com/titus/1.htm)
+- [Philemon](https://biblehub.com/philemon/1.htm)
+
+A letter written to Jewish Christians by an unknown author:
+
+- [Hebrews](https://biblehub.com/hebrews/1.htm)
+
+General Epistles written for a broad audience:
+
+- 1 from [James](https://biblehub.com/james/1.htm)
+- 2 from [Peter](https://biblehub.com/1_peter/1.htm)
+- 3 from [John](https://biblehub.com/1_john/1.htm)
+- 1 from [Jude](https://biblehub.com/jude/1.htm)
 
 A letter to seven churches, followed by prophecies of [how this age will end](jesus-returns.md):
 

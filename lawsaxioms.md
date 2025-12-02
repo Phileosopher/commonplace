@@ -7,7 +7,7 @@ It's worth noting that I've broadened the ideas when possible. It's also worth n
 
 I've grouped them starting with where the law starts coming into effect, progressing from inanimate objects, through individual perception, upwards into large groups.
 
-I've separated the [science-specific](lawsaxioms-science.md) and [technology-specific axioms](lawsaxioms-tech.md).
+I've separated the [science-specific](lawsaxioms-science.md), [design](engineering-design-rules.md), and [technology-specific axioms](lawsaxioms-tech.md).
 
 ## Brain/Psychology
 
@@ -59,6 +59,8 @@ Navy SEAL Training Mantra - Slow is smooth, smooth is steady, steady is fast.
 
 Niven's Fourth Law - Technology changes [ethics](morality.md).
 
+Objective Value Doctrine - Some attitudes about the universe are entirely true, and others are entirely false.
+
 Occam's Razor - All things equal, a simpler explanation with the least assumptions is better.
 
 Okrent's Law - Balancing an opinion becomes unbalancing it when an extreme reality threatens it.
@@ -91,6 +93,8 @@ Andy and Bill's Law - New [power](power.md) is almost immediately used for a new
 
 Amara's Law / Hype Cycle - We usually overestimate how [technology](technology.md) can affect us short-term and underestimate its long-term [trends](trends.md).
 
+Bent Key Principle - If something feels "off" somehow, it probably hides a spectacularly large problem.
+
 Doherty Threshold - People are most productive when they're interacting with their objects with less than 0.4 seconds' delay between events.
 
 Dunning-Kruger Effect - People tend to overstate their competence.
@@ -105,6 +109,8 @@ Fitts' Law - The longer the distance and smaller the size, the longer it takes t
 
 Forbidden Fruit Effect/Empty Plate Effect - We want things more when access to them is limited.
 
+Frankl's Inverse Law - When someone can't find a deep sense of meaning, they distract themselves with pleasure.
+
 Gérson's Law - The most advantageous decision will disregard [ethics](morality.md).
 
 Gilbert's Law - The person who decides to perform a task is always responsible to find the best way to accomplish it.
@@ -112,8 +118,6 @@ Gilbert's Law - The person who decides to perform a task is always responsible t
 Goal-Gradient Effect - The closer someone is to a goal, the faster they approach it.
 
 Goodhart's Law / Perverse Incentive - When a goal becomes a measurement, that measurement isn't a good goal anymore.
-
-Hick's/Hick-Hyman Law - Each additional choice makes deciding longer (specifically, a logarithm based on quantity and complexity).
 
 Jakob's Law - When people interact with something, they treat it like other things they're familiar with.
 

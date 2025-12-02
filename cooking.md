@@ -5,18 +5,57 @@
 
 While not everyone needs to be a master chef, everyone should (and can) know how to prepare food.
 
-Making meals is a basic human need, paying others to do it is expensive, and instant meals are usually [unhealthy](body-health.md).
+- Making meals is a basic human need.
+- Paying others to cook is expensive.
+- Instant meals are usually [unhealthy](body-health.md).
 
 Cooking is a part-time job that pays immediately:
 
 - A few hours of batch preparation a week can give a week of healthy, cheap eating.
-- To their loss, many people (especially men) find cooking unpleasant.
+- In fact, you often don't have to stand up to cook.
+- To their loss, many people (especially [men](gender.md)) find cooking unpleasant.
 
 Thankfully, cooking isn't complicated:
 
 - Cooking is a [creative](mind-creativity.md) activity of calculated trial-and-error.
-- Many well-known recipes came from a scarcity of resources (e.g., [the Great Depression](https://www.youtube.com/user/DepressionCooking)).
+- Many well-known recipes were simply from a scarcity of resources (e.g., [the Great Depression](https://www.youtube.com/user/DepressionCooking)).
+
+What matters is that you enjoy the food:
+
+- It's fine if the food is frozen or canned.
+- The powder or box version is fine.
+- It's fine if you're only microwaving something.
+- The correct recipe is the one you like the most.
+- The correct method is the one you can do.
+  - The correct texture for pasta and eggs is the one you're happy eating.
+- The correct amount of spices or condiments is the amount you want.
+  - Salt can easily fix most bland food.
+  - If you want cheese on it, add it.
+- Since your stomach doesn't care, it doesn't have to present well.
+- If someone thinks your food is inferior, their opinion doesn't matter unless they're giving practical advice on how to improve it.
+- It can be [more expensive](money-saving.md), but you can buy things pre-chopped.
 - Experiment with various ideas to see what works, even if you waste some food for the learning experience.
+  - Unusual flavor combinations can often be *very* effective.
+  - Most things can be recycled as part of soup.
+  - It can be helpful to have a [dog](fun-pets.md) to clean up your failed experiments.
+
+It's healthy if you eat and enjoy it, especially if the alternative is eating out.
+
+Food safety is mostly common sense:
+
+- Most food can be frozen.
+- It's *not* fine if it's moldy or rotten.
+  - Don't take chances with eggs that are unusual.
+- Wash your hands before handling cheese you're not cooking and after handling raw meat.
+- The cooking utensil needs washing if the [cat or dog](fun-pets.md) has touched it.
+- Anything at cooking-level heat is almost completely sterilized.
+- There are no health benefits to washing something you'll cook, and may be *un*healthy from spreading the contaminated water everywhere.
+- There *is* a health risk in using a used and unwashed meat knife to chop cheese or raw veggies.
+- Don't put wet things into the toaster.
+- Check that the container is safe to heat before putting boiling water in it.
+- Never put a dripping wet thing into hot fat.
+- Set a timer, and don't trust your judgment for time.
+- Check that you've turned the stove and oven off after you're done.
 
 ## Cooking chemically changes food
 
@@ -45,6 +84,12 @@ Most poorly cooked food is either from the wrong time or wrong temperature:
 - Too short - food isn't cooked thoroughly and has a "raw" taste.
 - Too long - dry and brittle with very little moisture or flavor left.
 
+You often need a heat carrier to prevent anything from burning.
+
+- Water is fine for many things (e.g., boiling) and changes the consistency if it directly contacts the food.
+- However, oil also enhances the flavor as long as you don't hit the smoke point.
+  - Each oil has a different smoke point, which is when the oil burns off and leaves carbon (charcoal) as residue.
+
 Fix poor time and heat management:
 
 - Take everything off your burners, then observe each one as you turn up the heat to get a feel for your stove.
@@ -53,6 +98,10 @@ Fix poor time and heat management:
 - Most food burns after the water evaporates, so keep adding water if it gets low.
 - When you're new to cooking, do *not* walk away from the cooking area or [multitask](success-4_routine.md).
   - When you're ready, you can use more than one burner to multitask.
+
+As a general rule, aim for less heat for longer.
+
+- When using an oven, always preheat it to prevent odd aberrations from heat variance.
 
 ## Note time and space limits
 

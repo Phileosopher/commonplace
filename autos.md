@@ -122,6 +122,13 @@ Auto parts have a predictable lifespan.
 - Part lifespans vary between vehicle models and relative size.
 - Keep track of the date and mileage when parts are replaced.
 
+Often, you can be fortunate to spot an issue *before* it becomes a crisis by [interpreting warning lights](autos-lights.jpg) on the dashboard.
+
+Small routine needs
+
+- Car lamp - 6 months
+- Windshield wiper - 6-12 months
+
 Starting system
 
 - Alternator - 80K-100K miles

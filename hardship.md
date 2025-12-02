@@ -18,6 +18,13 @@ Do *not* take any of your hardships personally:
 - When you made bad decisions, you didn't know what you know now, and would make that decision differently if you could relive the experience.
 - You can make decisions with what you have, *not* what you ought to have done.
 
+While you may be suffering severely, try to avoid making the pain "dirty":
+
+- Pain is "dirty" when we are at least partly at fault for something.
+- We can frequently suffer tremendous pain, but then do the wrong thing in that pain and create more suffering for ourselves.
+- Even when we are undergoing excruciating pain that we brought on ourselves, accepting the suffering as the natural consequence beyond our control is the beginning of making the pain "clean".
+- This is much harder than it sounds, since we often have [habits](habits.md) from [our development](maturity.md) that make more trouble for ourselves.
+
 If others judge you, treat their behavior as part of the package of your current hardship.
 
 - When people judge you, they're boxing you into a category of something sub-human, but they do it to *everyone* in that situation like you, and it's nothing worth [identifying with](identity.md).
@@ -129,6 +136,8 @@ Most professional therapists are simply assisting with our self-analysis process
   - Find a friend willing to listen through your issues.
   - Learn and research psychology, with an emphasis on developmental stages and [trauma](hardship-ptsd.md) recovery.
   - Find support groups for your problems.
+
+Life is always hard, but you can control *which* form of hard you will encounter.
 
 ## Focus on reality
 

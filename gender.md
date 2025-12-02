@@ -97,6 +97,12 @@ Biology dictates itself to the degree we [identify](identity.md) with the compar
 
 In ancient societies, nobody had the luxury to explore these identities because of the public [shame](mind-feelings-shame.md) they'd incur, largely from the [fear](mind-feelings-fear.md) that came from survival necessities (e.g., if a man doesn't hunt and a woman doesn't cook, they both die).
 
+APPLICATION: The philosophy of "complementarianism" is valid, in many respects:
+
+- There is an inherent double standard that people [universally](humanity-universals.md) miantain between men and women.
+- Women [economically](economics.md) take far more in taxes than they ever pay into it, but this is an acceptable circumstance.
+- If we were to completely disregard gender, then nobody would be able to [specialize](jobs-specialization.md) into what they liked.
+
 ## Mating
 
 The nature of [personality](personality.md) makes us naturally lopsided with the need for others to balance us out. We also happen to have animal sexual desires as well. These two needs combine together and drive us to find a mate.

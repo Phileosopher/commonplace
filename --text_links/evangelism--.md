@@ -19,6 +19,10 @@
 
 ## pensandwrenches (RSS)
 
+[The 4 M’s of Leadership Excellence – Pens & Wrenches](https://pensandwrenches.com/2025/11/12/the-4-ms-of-leadership-excellence/)
+
+[The Truth Wants to be Found – Pens & Wrenches](https://pensandwrenches.com/2025/11/07/the-truth-wants-to-be-found/)
+
 https://pensandwrenches.com/2025/08/20/jesus-is-enough-the-2025-iowa-state-fair/
 
 https://pensandwrenches.com/2025/08/19/it-is-finished-the-2025-iowa-state-fair/

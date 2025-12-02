@@ -1,4 +1,6 @@
 
+[Changing Your Church With a Pickaxe](https://worshipevaluation.substack.com/p/changing-your-church-with-a-pickaxe)
+
 [Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
 
 [Willow Creek at 50: The Extensive Impact & Profound Damage](https://julieroys.com/podcast/willow-creek-at-50-the-extensive-impact-profound-damage/)

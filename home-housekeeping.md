@@ -5,6 +5,15 @@ Housekeeping is [organization](organization.md), but with more cleaning.
 
 Cleaning is removing debris and filth from things with the three major purposes of maintaining a visual [appearance](people-image-why.md), odor control, and hygiene.
 
+We tend to clean what we visually can see, but we do *not* clean some things that dramatically affect our [health](body-health.md):
+
+- Floors are often filthy, especially if you have wall-to-wall carpeting.
+  - In fact, it is a major health upgrade to get a tile, hardwood or panel floor and use rugs.
+- Couches often have plenty of accumulation, as well as the fabric never being cleaned.
+- Shower drains accumulate tremendous amounts of hair and other disgusting elements, which can sometimes plug up a bathtub.
+- HVAC vents accumulate tremendous amounts of dust.
+- Sink drains, especially bathroom sinks, accumulate soap residue, which builds up plenty of other filth.
+
 Cleaning is easier if you understand how pH works:
 
 Every chemical has an acidity or alkalinity, on a scale from 1 to 14.

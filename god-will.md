@@ -157,8 +157,6 @@ The Bible does *not* guarantee external benefits:
 
 ## While in His will, you can do whatever you want
 
-If you have the right attitude with Him, *anything* you do is His will:
-
 If you have the right attitude with Him, *anything* you do is His will:
 
 - God cares *far* more about your relationship with Him than [doctrines](theology.md), [churches](church.md), [living situation](homes-buysell.md), [career decisions](jobs-1_why.md), [friendships](people-friends.md), [relationships](relationships-marriage.md), and [family decisions](parenting-babies.md) ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
@@ -166,5 +164,7 @@ If you have the right attitude with Him, *anything* you do is His will:
 - Travel or live anywhere you want, assuming He didn't call you to go somewhere ([Acts 8:26-27](https://biblehub.com/acts/8.htm)).
 - [Associate](people-friends.md) with anyone you want, assuming you weren't called to a specific ministry.
 - In general, adopt any lifestyle you want that's [loving](people-love.md).
+
+Of course, God knows what you'll do anyway, so you can never botch the plans He has already.
 
 On a more practical level, the most sufficient fulfillment of His will comes through [daily rituals in Christ](spiritual-exercises.md) and [serving others](church-serve.md).

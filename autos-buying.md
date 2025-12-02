@@ -41,6 +41,32 @@ Check the car's approximate market value, since auto quality varies wildly by br
 - Mid-level brands create reliable cars, but they have a higher chance of breaking down (e.g., GM, Nissan).
 - Value-priced companies make affordable cars that *frequently* break down (e.g., Volkswagen, Fiat, Kia, Hyundai).
 
+Since mechanics are the experts on knowing autos' dependability and cost of repairs, consider what they tend to own (in the US):
+
+- The most common:
+  1. Toyota/Lexus
+  2. Honda/Acura
+  3. Chevrolet trucks
+  4. Subaru
+  5. Hyundai/Kia
+  6. Ford Trucks, depending on the engine type.
+- Less common (worth skepticism):
+  7. Mitsubishi
+  8. Nissan/Infiniti
+  9. Chrysler (Dodge/Chrysler/Jeep)
+  10. BMW
+  11. VW/Audi
+  12. Mercedes-Benz
+  13. Volvo
+  14. Saab
+  15. Any other European-made vehicles (e.g., Fiat)
+  16. Any vehicle with a continuous velocity transmission (CVT)
+- Not mentioned (worth avoiding):
+  - GM (Chevrolet, GMC, Buick, Cadillac)
+  - Hybrid vehicles
+  - Tesla
+  - Everything else that isn't proven to be popular
+
 Irrespective of brand, *every* used car is different.
 
 - The types of failures each car demonstrates gives it a type of "personality" (e.g., frequent transmission issues, engine runs hot, false-positive engine codes).

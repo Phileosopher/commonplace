@@ -54,6 +54,7 @@ Math
 - [Lie](people-lying.md) about quantities, especially small lies that could be mistaken as simply accidental.
 - Hide trailing zeros with "K" or "M" to make a number seem larger or smaller, especially by comparison to other numbers.
 - Invert percentages to make the numbers [feel](mind-feelings.md) higher or lower (e.g., 3% chance of death vs. 97% chance of living).
+- Use proofs that are needlessly complex (which can be done as much as necessary).
 - Use algorithms (i.e., a set of number-based conditional rules) to hide bias, typically with the claim that the algorithm is neutral.
 
 Word Placement
