@@ -65,11 +65,6 @@ best practices in building High Scalability, High Availability, High Stability, 
 
 [Migrating to Elasticsearch with dense vector for Carousell Spotlight search engine](https://medium.com/carousell-insider/migrating-to-elasticsearch-with-dense-vector-for-carousell-spotlight-search-engine-e328b16155fc)
 
-## separation of concerns
-
-[Derek Greer](http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/)
-(2008) The Art of Separation of Concerns
-
 ## serverless
 
 [Finnian Anderson](https://finnian.io/blog/colourising-video-with-openfaas-serverless-functions/)

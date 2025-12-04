@@ -191,6 +191,17 @@ Since we still often must use words, the text *itself* must also concretely conn
 
 Avoid using redundant text (e.g., "Enter your email and password" heading with "Your email address" above the entry).
 
+## Icons
+
+For icons, use SVGs instead of icon fonts.
+
+- They're easier and quicker to express, though they're harder to setup and take more memory on the host server.
+
 ## More information
 
 [growth.design](https://growth.design/case-studies/)
+
+Icons:
+
+- [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
+- [Stop Using Icon Fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/)

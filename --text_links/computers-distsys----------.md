@@ -92,9 +92,6 @@ Versioning is a programmer decision
 [Steve Ropa](https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/)
 (2018) A Craftsman looks at continuous integration
 
-[Derek Greer](http://aspiringcraftsman.com/2016/02/28/separation-of-concerns-application-builds-continuous-integration/)
-(2016) Separation of Concerns: Application Builds & Continuous Integration
-
 [Eero Laukkanena & Juha Itkonena & Casper Lassenius](https://www.sciencedirect.com/science/article/pii/S0950584916302324)
 (2015) Problems, causes and solutions when adopting continuous delivery - A systematic literature review
 > When adopting continuous delivery, problems related to system design are common, critical and little studied. The found problems, causes and solutions can be used to solve problems when adopting continuous delivery in practice.

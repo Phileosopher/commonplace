@@ -35,6 +35,8 @@ Liskov Substitution Principle - When inserted into a system, a subtype must be i
 
 Miller's Law - All large-group discussions about a small software update will eventually include discussing giant redesigns, adding features, or replacing that software.
 
+Separation of Concerns - Each thing should be separated by their specific designed [purpose](purpose.md)
+
 Shea's Law - The most significant design improvements are in its interface, but are also the easiest to screw up.
 
 Unix Philosophy - The best-designed computer software should do one thing well (like a building block), which will include sending out a standardized flow of text information.

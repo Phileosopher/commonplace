@@ -14,14 +14,14 @@ The first promise given to Abraham has a greater reach, and simply says God will
 - The promises about blessings and curses very well may apply to Christians, at least to some extent ([John 15:1-8](https://biblehub.com/john/15.htm)).
 - However, those promises aren't *completely* transferable ([Numbers 24:2-9](https://biblehub.com/numbers/24.htm)).
 
-The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel-1875.jpg) ([Genesis 15:18-19](https://biblehub.com/genesis/15.htm)).
+The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel--1875.jpg) ([Genesis 15:18-19](https://biblehub.com/genesis/15.htm)).
 
 - This was approximately 1875 BC.
 - He was promised to take over the land of the Kenites, Kennizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites, Canaanites, Girgashites, and Jebusites.
 
 It's worth noting in our [GPS-laden culture](logistics-navigation.md), across almost any map before the 18th century and [Age of Exploration](history-eras.md), that territory wasn't precisely stated according to mileage and measurements, and used landmarks instead. It's also worth noting that ancient society's years always have a 5-20 year margin of error.
 
-However, this territory never actualized into anything until *much* later, around 1406-1405 BC with [Joshua conquering a large chunk of the land](history-israel-1405.jpg) ([Joshua 6-22](https://biblehub.com/joshua/6.htm)).
+However, this territory never actualized into anything until *much* later, around 1406-1405 BC with [Joshua conquering a large chunk of the land](history-israel--1405.jpg) ([Joshua 6-22](https://biblehub.com/joshua/6.htm)).
 
 This was the realistic high-point of Israel's geography. After Joshua, no further land was taken, and they have never had that much territory.
 
@@ -31,7 +31,7 @@ The geography of Israel moved around a bit for a long while,
 
 ## Israel's Fall
 
-In 1043 BC, Saul was crowned as Israel's first king, officially converting the kingdom to a monarchy. [Rehoboam's rebellion divided Israel into the kingdoms of Israel and Judah](history-israel-931.jpg) by 931 BC ([1 Kings 12-13](https://biblehub.com/1_kings/12.htm)). The division started because the southern tribes helped sneak David across the Jordan at night.
+In 1043 BC, Saul was crowned as Israel's first king, officially converting the kingdom to a monarchy. [Rehoboam's rebellion divided Israel into the kingdoms of Israel and Judah](history-israel--931.jpg) by 931 BC ([1 Kings 12-13](https://biblehub.com/1_kings/12.htm)). The division started because the southern tribes helped sneak David across the Jordan at night.
 
 Shortly later, around 995 BC, Solomon built the First Temple ([2 Chronicles 3:1-2](https://biblehub.com/2_chronicles/3.htm)).
 
@@ -66,9 +66,9 @@ Somewhere in the 4th century BC, the term for the region was coined as "Palestin
 
 In 332 BC, Alexander the Great of Macedon conquered the region, meaning Israel was part of Macedonia.
 
-After Alexander's death in 323 BC, Israel was [split in half between the Ptolemaic empire and the Seleucid empire](history-israel-323.jpg), in the broader region of Coele-Syria.
+After Alexander's death in 323 BC, Israel was [split in half between the Ptolemaic empire and the Seleucid empire](history-israel--323.jpg), in the broader region of Coele-Syria.
 
-In 167 BC, some Jewish rebels called the Maccabees were able to establish the Maccabean Revolt, which led to [the Hasmonean dynasty](history-israel-167.jpg).
+In 167 BC, some Jewish rebels called the Maccabees were able to establish the Maccabean Revolt, which led to [the Hasmonean dynasty](history-israel--167.jpg).
 
 - The revolt came from one of the altars of the Second Temple being dedicated to the worship of Zeus, including sacrificing a pig on the Jewish altar.
 - Around this time in 150 BC, an Essene sect established a monastery at Qumran on the edge of the Dead Sea.
@@ -77,7 +77,7 @@ In 167 BC, some Jewish rebels called the Maccabees were able to establish the Ma
 
 ## Owned by Rome
 
-[Rome invaded Palestine](history-israel-63.jpg) in 63 BC, starting with an intervention in the Hasmonean civil war.
+[Rome invaded Palestine](history-israel--63.jpg) in 63 BC, starting with an intervention in the Hasmonean civil war.
 
 - Rome established peace through ruthless suppression of *all* dissent.
 - Herod I, or Herod the Great, was an Edomite/Jewish-heritage vassal for the Roman Empire, established over the Roman province of Judaea in 47 BC to prevent any developing sentiments toward the Parthian empire.

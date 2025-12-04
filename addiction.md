@@ -3,7 +3,7 @@
 
 Addiction is when a person has [purposed](purpose.md) themselves to pursue any [habit](habits.md) to the point of excess, and its clearest indicator shows through someone [trusting](understanding-certainty.md) that substance to fulfill a [purpose](purpose.md) that it can't adequately fulfill.
 
-Addicts' actions are often [vilified](morality-taboo.md) in the case of drugs or alcohol, but there are [many, *many* more](addiction-substances.md), and most people don't realize addiction's ubiquity.
+Addicts' actions with drugs or alcohol are often [vilified](morality-taboo.md), but there are [many, *many* more](addiction-substances.md), and most people don't realize addiction's ubiquity.
 
 - Absolutely *any* [habit](habits.md) that gives us [meaning](meaning.md) in the wrong time or place can become an addiction.
 

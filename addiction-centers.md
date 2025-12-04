@@ -6,7 +6,7 @@ We conform our attitude to whatever we've placed at our center:
 - Our center is whatever we've placed our faith in.
 - All good centers transcend self-interested goals.
 
-If your [spouse](relationships-why.md) is the center of your life:
+If your [spouse](relationships-why.md) is your life's purpose:
 
 - Spouse: Meets all needs
 - Family: Good in its place, but less important
@@ -19,9 +19,9 @@ If your [spouse](relationships-why.md) is the center of your life:
 - Church: An activity to enjoy together, but subordinate to the relationship
 - Self: Self-worth is spouse-based and highly vulnerable to spouse's attitudes and behaviors
 - Principles: Ideas that create and maintain marriage relationship
-- God: Either the originator of the spouse, or a risk to the spouse's well-being
+- God: Either the spouse's originator, or a risk to the spouse's well-being
 
-If your [family](people-family.md) is the center of your life:
+If your [family](people-family.md) is your life's purpose:
 
 - Spouse: Part of the family
 - Family: Highest priority
@@ -36,12 +36,12 @@ If your [family](people-family.md) is the center of your life:
 - Principles: Rules that keep family unified and strong, subordinate to family
 - God: The builder and maintainer of the family
 
-If your [money](money-1_why.md) is the center of your life:
+If your [money](money-1_why.md) is your life's purpose:
 
 - Spouse: Asset or liability in acquiring money
 - Family: Economic drain
 - Money: Gives security and meaning
-- Work: Necessary to the acquisition of money
+- Work: Necessary for acquiring money
 - Possessions: Evidence of economic success
 - Pleasure: Economic drain or evidence of economic stress
 - Friend(s): Chosen because of economic status, or influence
@@ -51,7 +51,7 @@ If your [money](money-1_why.md) is the center of your life:
 - Principles: Ways that work in making or managing money
 - God: A valuable coworker in gaining money or a risk to acquiring wealth
 
-If your [work](results.md) is the center of your life:
+If your [work](results.md) is your life's purpose:
 
 - Spouse: Help or hindrance in worth
 - Family: Help or interruption to work, people to instruct in work ethic
@@ -64,9 +64,9 @@ If your [work](results.md) is the center of your life:
 - Church: Important to corporate image, waste of time, opportunity for professional networking
 - Self: Defined by job role
 - Principles: Ideas that create success at work, adapts to work conditions
-- God: The provider of work results
+- God: How the work creates results
 
-If your possessions are the center of your life:
+If your possessions are your life's purpose:
 
 - Spouse: Main possession, assistant in acquiring possessions
 - Family: Possession to use, exploit, dominate, smother, control and showcase
@@ -81,7 +81,7 @@ If your possessions are the center of your life:
 - Principles: Concepts of enabling, acquiring, and enhancing possessions
 - God: A threat that can take away any possession
 
-If feeling pleasure is the center of your life:
+If feeling pleasure is your life's purpose:
 
 - Spouse: Companion in fun and pleasure, or an obstacle to it
 - Family: Vehicle or interference
@@ -96,7 +96,7 @@ If feeling pleasure is the center of your life:
 - Principles: Natural drives or instincts that must be satisfied
 - God: A non-entity
 
-If your [friends](people-friends.md) are the center of your life:
+If your [friends](people-friends.md) are your life's purpose:
 
 - Spouse: Possible friend or possible competitor, social status symbol
 - Family: Friends or an obstacle to developing friendships, social status symbol
@@ -111,7 +111,7 @@ If your [friends](people-friends.md) are the center of your life:
 - Principles: [Basic laws that enable getting along with others](people-rules.md)
 - God: Either a friend or enemy, depending on His affiliation with friends
 
-If your [enemies](people-conflicts.md) are the center of your life:
+If your [enemies](people-conflicts.md) are your life's purpose:
 
 - Spouse: Sympathizer or scapegoat
 - Family: Emotional refuge or scapegoat
@@ -120,13 +120,13 @@ If your [enemies](people-conflicts.md) are the center of your life:
 - Possessions: Fighting tools, means to secure allies, escape, refuge
 - Pleasure: Rest and relaxation time before the next battle
 - Friend(s): Emotional supporters or sympathizers, possibly defined by a common enemy
-- Enemy(s): Source of all problems and the cause of all self-protection and justification
+- Enemy(s): Source of all problems and the the need for all self-protection and justification
 - Church: Source of self-justification
 - Self: Victimized, immobilized by the enemy
 - Principles: Justification for labeling enemies, source of enemy's wrongness
-- God: The destroyer of enemies, or a non-entity
+- God: Enemies' destroyer, a non-entity, or possibly another enemy
 
-If your [church](church.md) is the center of your life:
+If your [church](church.md) is your life's purpose:
 
 - Spouse: A companion in/facilitator for church service or a trial of faith
 - Family: Models to exemplify adherence to church teachings or trials of faith
@@ -141,7 +141,7 @@ If your [church](church.md) is the center of your life:
 - Principles: Doctrines taught by the church, subordinate to the church
 - God: Represented through the church, can only act through the church
 
-If the center of your life is yourself:
+If your life's purpose is yourself:
 
 - Spouse: Possession and source of satisfaction
 - Family: Possession and fulfiller of needs
@@ -152,11 +152,11 @@ If the center of your life is yourself:
 - Friend(s): Source of self-definition and self-justification
 - Enemy(s): Impediments to self-interests
 - Church: Vehicle to serve self-interests
-- Self: Better, smarter, superior, and the purpose of all gratification
+- Self: Better, smarter, superior, and the reason for all gratification
 - Principles: Source of justification, those ideas that serve "my" best interests, can be adapted to need
 - God: An obtruction or non-entity
 
-If your [principles](values.md) are the center of your life:
+If your [principles](values.md) are your life's purpose:
 
 - Spouse: Equal partner in a mutually beneficial, interdependent relationship or an opponent of conflicting values
 - Family: Friends, opportunities for service, contribution, fulfillment, intergenerational re-scripting and change
@@ -171,10 +171,10 @@ If your [principles](values.md) are the center of your life:
 - Principles: Immutable natural laws with immutable consequences, preserves integrity which leads to legitimate growth and happiness
 - God: The Designer and Maintainer of principles, subordinate to understood constraints provided by principles
 
-If [God](god.md) is the center of your life:
+If [God](god.md) is your life's purpose:
 
 - Spouse: A person given by God to love in a mutually beneficial, interdependent relationship
-- Family: A group of people placed in proximity to oneself for the purpose of service, growth, contribution, and intergenerational re-scripting and change
+- Family: A group of people placed in proximity to oneself for service, growth, contribution, and intergenerational re-scripting and change
 - Money: Given by God to accomplish important priorities and goals
 - Work: Opportunity given by God to use talents and abilities meaningfully
 - Possessions: Enabling resources lent by God that come with responsibilities, secondary to people in importance

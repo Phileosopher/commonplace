@@ -13,26 +13,24 @@ Modern marketing *needs* a decent web presence.
 - Not every industry requires a well-made site, but a poorly designed website is often worse than none.
 - Social media profiles can typically be sufficient, but [self-maintained websites](computers-sofware-webdev.md) allow a centralized brand and more flexibility for marketing professionals by not having the social network as an intermediary.
 
-The most common measurement of a website's success is from visits by users (hit count).
-
-- Hit count matters somewhat, but the more important detail is that people will want to type in your brand name over a generic alternative.
-
-Like any other [marketing](marketing.md), tailor your marketing messages to the media.
-
-## Improving hit count
-
 The art of search engine optimization (SEO) is through improving your web presence via keyword management and [design](engineering-design.md).
 
 - This effort goes all the way from the search engine results page (SERP) all the way to [the design of the website itself](computers-sofware-webdev.md), from landing page all the way to after the customer has made a purchase.
 - After learning it, most SEO work is as tedious as [accounting](money-accounting.md).
 
-There are several billing options for internet marketing:
+For internet marketing, there are several standardized billing arrangements:
 
 - Depending on the billing, there's plenty of incentive to get many people to get *to* your site who won't be that interested in your product.
 - Cost per thousand/mil (CPM) is the charge for every thousand impressions/views of an ad (it should be no more than ~4.2 cents per user, or $42).
 - Cost per click (CPC) charges every time a user clicks on an advertisement.
 - Cost per lead (CPL) charges every time someone expresses an interest in the product (e.g., a mailing list).
 - Cost per acquisition (CPA) charges every time there's a new customer or sale.
+
+## Improving hit count
+
+The most common measurement of a website's success is from visits by users (hit count).
+
+- Hit count matters somewhat, but the more important detail is that people will want to type in your brand name over a generic alternative.
 
 Not all hits are good.
 
@@ -44,39 +42,60 @@ Not all hits are good.
   - The conversion numbers (from view to click to lead to acquisition to retention) will show how well each step of the marketing process has been doing.
   - Generally, CPA or lifetime value (LTV) are the best indicators, though you may want to measure the return on investment (ROI).
 
-Make sure to communicate clearly within the site where the user is, what they can do, and what will happen if they do it.
+## Designing a website
 
-- If you're not communicating things plainly, people will tune out the information.
-  - The [content/copy](language-writing.md), photos, and overall message should all match up.
-- Frequently, your writing will be too broad (and therefore too many people won't be interested) or too specific (and will drive people who might be interested away).
-- Have a decisive, clear call to action (CTA) to work through it.
+There are [many, many design rules](engineering-design-elements.md) to nitpick about.
 
-When creating the site:
+There are many content management systems (CMS), and almost *all* of them will work fine for the average user who just wants an online billboard (assuming they aren't a tech company with specific needs).
 
-- There are many content management systems (CMS), and almost *all* of them will work fine for the average user (assuming they aren't a tech company with specific needs).
-  - However, if you need one that's both versatile and affordable, the best solution is WordPress hosting on a distributed hosting platform, with the upsell of dedicated hosting when you need it.
-- Advertise the content on official channels to bring your keywords more frequently into search results.
-- Naturally and seamlessly connect everything in the site with links.
+- However, you'll need to learn [software development](computers-software.md) or hire someone who knows it to eventually accomodating the natural consequences of a [scaling business](entrepreneur-6_scaling.md).
+
+Naturally and seamlessly connect everything in the site with links.
+
 - Add social media sharing buttons to every page.
 - The web domain (something.com) should associate to what you sell.
-- Keep the homepage clutter-free with a separate blog page.
-- Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-sofware-webdev.md) headaches with form fills and caching.
-- The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](engineering-design.md) the user.
-- While it may be tempting to expand your leads with a mailing list, only ask about the mailing list *after* the product was sold.
 
-To make search engines favor your site and users enjoy the experience, optimize it for speed:
+Avoid using modal windows, since they're absurdly difficult to link to, create accessibility problems, and are often a world of additional [web design](computers-sofware-webdev.md) headaches with form fills and caching.
 
-- You should have the clicks-to-loading speed ratio over 90%.
-- Embed videos to a video streaming service instead of hosting them yourself.
-- Lazy-load images, with placeholder images to keep the format while it's loading.
-- Self-host your fonts instead of pulling from somewhere else.
-- Trim out extra computer code you don't need whenever possible.
-  - Many WordPress plugins can do this for you.
-- Test the site repeatedly as you go to make sure it's optimized.
+The checkout experience should be seamless, with multiple payment options, but not so many that it [overloads](engineering-design.md) the user.
+
+While it may be tempting to expand your leads with a mailing list, only ask about the mailing list *after* the product was sold.
 
 To maintain a consistent design, maintain fewer website pages.
 
 - A few [well-designed](engineering-design.md) pages are *much* easier to update and rebuild than a few hundred.
+
+## Making it fast
+
+To make search engines favor your site and users enjoy the experience, optimize it for speed.
+
+You should have the clicks-to-loading speed ratio over 90%.
+
+Embed videos to a video streaming service instead of hosting them yourself.
+
+Downgrade images:
+
+- Use smaller images on the screen.
+  - Don't downscale the image inside the CMS: downgrade it *before* you upload it.
+  - If it's a very large image that matters (e.g., a [chart](data-viz.md)), have a small image that links to that one.
+- Lazy-load images, with placeholder images to keep the format while it's loading.
+- Since JPG images are "lossy", downgrading them means they'll look crappy, so choose something else (e.g,. PNG, GIF, WEBP)
+
+- The [text expression of icons](computers-keyboard.md) is acceptable, but SVGs tend to load faster even if the filesizes get larger.
+
+Self-host your fonts instead of pulling from somewhere else.
+
+Trim out extra computer code you don't need whenever possible.
+
+- Your CMS often will have a plugin to do this.
+
+Test the site repeatedly as you go to make sure it's optimized.
+
+- Test the site's loading on the slowest possible internet connection with the crappiest possible computer you can find.
+
+## Building publicity
+
+Advertise the content on official channels to bring your keywords more frequently into search results.
 
 Use guerrilla marketing to get site views:
 
@@ -94,7 +113,29 @@ Use guerrilla marketing to get site views:
 - Give a commission of *your* commission to other people who refer business to you.
 - Provide a free community service, with casual advertisements for more service if they're interested.
 
-## Blogs
+## Specific forms of content
+
+Like any other [marketing](marketing.md), tailor your marketing messages to the media.
+
+From the content in the website, all the way into the "meta tags" in HTML, each keyword has to be parsed very carefully.
+
+- Further, the meta tags can have the Open Graph Protocol (popularized by Facebook) to specify the content in it.
+  - The most essential tags are:
+    - og:title (the title of the content)
+    - og:type (the expressed format, such as image or text)
+    - og:image (a link to the image representing the content)
+    - og:url (the canonical and permanent URL, which also represents as its [database](database.md) ID)
+
+Make sure to communicate clearly within the site where the user is, what they can do, and what will happen if they do it.
+
+- If you're not communicating things plainly, people will tune out the information.
+  - The [content/copy](language-writing.md), photos, and overall message should all match up.
+- Frequently, your writing will be too broad (and therefore too many people won't be interested) or too specific (and will drive people who might be interested away).
+- Have a decisive, clear call to action (CTA) to work through it.
+
+### Blogs
+
+Keep a separate blog page to avoid cluttering the homepage.
 
 A blog is only successful if it has at least 4 of the following 6 components:
 
@@ -134,7 +175,7 @@ Routinely:
 - Invite industry experts to contribute to your blog.
 - Constantly look for new content channels and layers.
 
-## Social Media
+### Social media
 
 Don't waste time on social channels that don't speak to your audience:
 

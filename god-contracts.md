@@ -164,6 +164,7 @@ God's consideration upon breach of contract:
 In some ways, it's an expansion of the Mosaic covenant, but indicates conditions from breaching the covenant.
 
 - [History has shown](history-israel.md) that this *has* happened, though it's debatable whether Israel is actively being gathered or if its current government is God's will.
+- This covenant is renewed in [Nehemiah 9-10](biblehub.com/nehemiah/9.htm).
 
 ## 7. Davidic Covenant
 

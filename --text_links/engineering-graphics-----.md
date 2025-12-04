@@ -45,12 +45,6 @@
 [HTML and CSS techniques to reduce your JavaScript | Hacker News](https://news.ycombinator.com/item?id=27388691)
 [Web Performance Calendar - HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)
 
-## icon fonts
-
-[Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
-
-[Stop Using Icon Fonts by Michael Irigoyen](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/)
-
 ## illustrations
 
 [Ask HN: What's your favorite illustration in computer science? | Hacker News](https://news.ycombinator.com/item?id=34322303)

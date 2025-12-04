@@ -89,6 +89,7 @@ Later, they created a universal standard called Unicode, which ambitiously tried
 - UTF-8 is meant to be backwards-compatible with ASCII.
 - UTF-16 wasn't and is generally not used as much. The original Unicode standard would have given 65,536 characters, which they imagined would be enough code points, but they needed a few more.
 - UTF-32 is the current standard for an all-inclusive text format. It's still being added to, but is presently over 140,000 characters. Until [software standards](standards-computers.md) can use 262,145 characters, Unicode only requires 18 bits per character to transfer.
+  - The wealth of characters means there have been many icons that can be used in-text as emoji (e.g., each country's flag, happy face).
 - As of the early 2020s, UTF-8 is *usually* the standard for [most websites](computers-sofware-webdev.md). The intuition would be that UTF-32 is the best solution, but it often requires multiple "code points" to store the information, so it's easier to use a smaller UTF format.
 
 To save on data (since a database can frequently be *trillions* of characters), engineers developed "variable-length" encodings, where the leading bits can communicate how many bits the rest of the text has. The human-readable code point for each character looks like U+0041 U+0052, and doesn't carry over any [graphic design](engineering-graphics.md) or font selection.

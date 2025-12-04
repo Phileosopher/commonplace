@@ -25,7 +25,7 @@ When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080)
   - TXAA (temporal anti-aliasing) uses a complex hybrid of supersampling and blurring to create a graceful feeling of motion, but uses a lot of graphics power to do it.
   - SMAA (enhanced subpixel morphological anti-aliasing) smooths pixels with the same blurring method as MLAA/FXAA, but also uses supersampling to sharpen the entire image. It's popular because it uses less computing power than MLAA/FXAA.
 
-## Rastered pixels
+### Rastered pixels
 
 Pixelated screens have been the standard since the 1980's because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](engineering-printers.md), so it's easy to migrate from one to the other.
 
@@ -56,6 +56,27 @@ Some standard sizes are described by encoded jargon:
 - 4096x2160 - 4K, though it may also refer to 4096x3112
 - 5120x2880 - 5K
 - 7680x4320 - 8K or 8K UHD
+
+Rastered graphics are great for accurately capturing information, but they don't scale well and take more memory to encode compared to vector information.
+
+### Scalable vector graphics
+
+By employing vector graphics, designers have employed "scalable vector graphics" (SVGs) to maintain image quality at any size.
+
+The general concept of SVG is that it holds XML [data](database.md):
+
+1. It holds everything within a rectangular container.
+2. Objects are indicated with reference points.
+   - Circles indicate the center point and the radius.
+   - Lines have starting and ending points.
+   - Bezier curve lines have starting and ending points, with other points to represent the curve.
+   - More complex [shapes](math-geotrig.md) can be created in the same way (e.g., rectangles, ovals).
+3. There are different preconfigured conditions for how the objects are filled (e.g., transparent, black) and the lines' stroke (e.g., dotted, black)
+4. If the rectangular container changes dimensions, it's a simple matter of algebra to realign the coordinates of everything (e.g., if 100x150 becomes 220x225, all X coordinates would multiply by 2.2 and all Y coordinates by 1.5).
+
+Thus, every visual representation can be encoded into a text-based SVG, and then re-expressed elsewhere.
+
+The only downside is that details will be missed, which is why SVG is ideal for symbolic expressions (e.g., [UX](engineering-design.md)) but terrible for real-life depictions of things.
 
 ## Video quality
 
@@ -137,7 +158,7 @@ Once the technology improved enough, the scrolling effects could be offset on di
 
 For a long time, "wireframe" models were the only way to capture a 3-dimensional view, which mostly used the above-mentioned vector graphics technology imposed onto a pixellated screen. Once the technology became advanced enough, the graphical designers were able to fill in the shapes to create polygon-based art. Flight simulators were the first to embrace the idea fully, but many games at first would use polygon-based rendering for the characters with paneled or static backgrounds. Polygons for *everything*, though, became industry standard by the early 2000's, though it has generally not aged well.
 
-One of the short-lived divergences from wireframe modeling involved using "voxels" (volumetric pixels) to use a 3-dimensional grid of blocks to capture a game world. It looked awkward, but about as effective as the polygons of the time. However, increasing polygon counts was less CPU-intensive compared to shrinking voxel size, so the trend died quickly.
+One of the short-lived divergences from wireframe modeling involved using "voxels" (volumetric pixels) to use a 3-dimensional grid of blocks to capture a game world. It looked awkward, but it was impressive given the constraints of the polygon count. However, increasing polygon counts was less CPU-intensive compared to shrinking voxel size, so the trend died quickly.
 
 To compensate for the increased load in graphics, one clever workaround was to use "raycasting", which draws lines out from the 3D-modeled perspective of the user, then only renders the portion of the world that the user actually sees. This can also be coupled with the illusion of "motion blur" caused by [cameras](engineering-camera.md) to further cut down on graphics processing requirements.
 

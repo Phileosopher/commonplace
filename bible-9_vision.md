@@ -23,5 +23,5 @@
 18. Babylon is fallen, lament over Babylon, the doom of Babylon
 19. rejoicing in heaven, the marriage of the Lamb, the rider on the white horse, defeat of the beast and false prophet
 20. the devil bound and cast into the lake of fire, judgment before the Great White Throne
-21. a new heaven and earth, a new Jerusalem
+21. the new heaven and earth, the new Jerusalem
 22. the river of life, Jesus is coming, nothing may be added or removed

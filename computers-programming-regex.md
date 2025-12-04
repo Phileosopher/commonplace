@@ -5,26 +5,26 @@ Obviously, it's a good idea to search inside text and numbers for things. A "reg
 
 The syntax changes depending on the programming language, but we'll use JavaScript here. Here's some examples of what text you could look for:
 
-- /a/ - the letter "a"
-- /a|b/ - the letter "a" or "b"
-- /.a./ - the letter "a" when there's anything before it and after it
-- /a/g - all instances of the letter "a" (outputted as an array)
-- /a+/g - all times that you see "a", "aa", "aaa", etc. (outputted as an array)
-- /a/i - the letter "a" or "A"
-- /[a-g]/ - any of the range from "a" through "g"
-- /[0-4]/ - any of the numbers 0 through 4
-- /ahem/ - the specific string "ahem" somewhere in the text
-- /^ahem/ - the string "ahem" at the beginning of the text
-- /ahem$/ - the string "ahem" at the end of the text
-- /aher*m/ - the string "ahem", but also "aherm" or "aherrm"
-- /aher?m/ - the string "ahem, but also "aherm"
-- /a{2,5}/ - the strings "aa", "aaa", "aaaa", or "aaaaa"
-- /\s/ - a space (" ") in the text
-- /\S/ - NOT a space in the text
-- /\w/ - any of a-z, A-Z, or 0-9
-- /\W/ - NOT a-z, A-Z, or 0-9
-- /\d/ - any of 0-9
-- /\D/ - anything that's NOT 0-9
+- a - the letter "a"
+- a|b - the letter "a" or "b"
+- .a. - the letter "a" when there's anything before it and after it
+- a/g - all instances of the letter "a" (outputted as an array)
+- a+/g - all times that you see "a", "aa", "aaa", etc. (outputted as an array)
+- a/i - the letter "a" or "A"
+- [a-g] - any of the range from "a" through "g"
+- [0-4] - any of the numbers 0 through 4
+- ahem - the specific string "ahem" somewhere in the text
+- ^ahem - the string "ahem" at the beginning of the text
+- ahem$ - the string "ahem" at the end of the text
+- aher*m - the string "ahem", but also "aherm" or "aherrm"
+- aher?m - the string "ahem, but also "aherm"
+- a{2,5} - the strings "aa", "aaa", "aaaa", or "aaaaa"
+- \s - a space (" ") in the text
+- \S - NOT a space in the text
+- \w - any of a-z, A-Z, or 0-9
+- \W - NOT a-z, A-Z, or 0-9
+- \d - any of 0-9
+- \D - anything that's NOT 0-9
 
 Thus, you can slam them all together and create /^\w\s*.bla+h{,6}\W$/ that fulfills the following:
 

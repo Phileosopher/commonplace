@@ -48,7 +48,7 @@
 16. Samson escapes Gaza, Samson and Delilah, Samson's vengeance and death
 17. Micah establishes an idol with a Levite
 18. Dan's tribe takes Micah's idol, then conquers and settles in Laish
-19. A Levite's concubine is raped to death in Gibeah, he chops her into 12 pieces and sends her across Israel
+19. Levite's concubine is raped to death in Gibeah, he chops her into 12 pieces and sends her across Israel
 20. Israel fights against the Benjamites in Gibeah in response to the Levite, they defeat them after the third attempt
 21. Israel had killed Benjamin's women but didn't want to destroy the tribe, they had Benjamin steal women from the Lord's feast in Shiloh
 
@@ -101,7 +101,7 @@
 4. Recheb and Baanah kill Ish-bosheth, David kills Recheb and Baanah when they come to him with his head
 5. David is anointed king of all Israel, David conquers Jerusalem, David's family grows, David makes two victories over the Philistines
 6. David fetches the ark, Uzzah dies and it stays at Obed-edom for 3 months, ark brought to Jerusalem and David dances, Michal has contempt for David (1 Chronicles 13, 15)
-7. David wants to build a temple for God, God makes a covenant with David, David's prayer of thanksgiving (1 Chronicles 17)
+7. David wants to build a Temple for God, God makes a covenant with David, David's prayer of thanksgiving (1 Chronicles 17)
 8. David defeats the Philistines, Moabites, Hadadezer, and Arameans, David dedicates the spoils and gifts from King Toi to the Lord, list of David's officers  (1 Chronicles 18)
 9. David shows favor to Jonathan's son Mephibosheth
 10. Ammonite king disrespects David's messengers, David defeats Ammon and Aram (1 Chronicles 19)
@@ -168,10 +168,10 @@
 19. Hezekiah sends for Isaiah who sends a message of deliverance, Sennacherib sends a blasphemous letter, Hezekiah's prayer, Isaiah prophesies Sennacherib's fall, 185,000 Assyrians killed by God that night (Isaiah 37)
 20. Hezekiah's illness and recovery, Hezekiah shows his treasures to Babylon, Manasseh succeeds Hezekiah (2 Chronicles 32:24–31; Isaiah 38:1–8, 39)
 21. Manasseh reigns in Judah, God rebukes Manasseh's idols, Amon reigns in Judah and Josiah succeeds him (2 Chronicles 33)
-22. Josiah reigns in Judah, Josiah funds the temple repairs, Hilkiah finds the Book of the Law and informs Josiah, Josiah repents, Huldah's prophecy (2 Chronicles 34:1-28)
+22. Josiah reigns in Judah, Josiah funds the Temple repairs, Hilkiah finds the Book of the Law and informs Josiah, Josiah repents, Huldah's prophecy (2 Chronicles 34:1-28)
 23. Josiah renews God's covenant, Josiah destroys idolatry, Josiah restores the Passover, Josiah's death, Josiah succeeded by Jehoahaz, Jehoiachim reigns in Judah (2 Chronicles 34:3-7, 34:29-33, 35:1-19, 36:1-8)
 24. Babylon controls Jehoiachim, Jehoiachin reigns in Judah, Jerusalem's captivity, Zekediah reigns in Judah (2 Chronicles 36:9-14, Jeremiah 52:1-11)
-25. Nebuchadnezzar sieges Jerusalem, the temple is destroyed, the captives are carried to Babylon, Gedaliah governs in Judah and is murdered, Jehoiachin released from prison (2 Chronicles 36:15-21, Jeremiah 39:1-10, 40:1-16, 41:1-10, 52:12-34)
+25. Nebuchadnezzar sieges Jerusalem, the Temple is destroyed, the captives are carried to Babylon, Gedaliah governs in Judah and is murdered, Jehoiachin released from prison (2 Chronicles 36:15-21, Jeremiah 39:1-10, 40:1-16, 41:1-10, 52:12-34)
 
 ## 1 Chronicles
 
@@ -180,7 +180,7 @@
 3. genealogy of David and Solomon, genealogy after the exile
 4. genealogy of Judah and Simeon, the prayer of Jabez
 5. genealogy of Ruben, Gad, and Manasseh
-6. genealogy of Levi, the temple musicians, genealogy of Aaron, Levites' assigned territories
+6. genealogy of Levi, the Temple musicians, genealogy of Aaron, Levites' assigned territories
 7. genealogy of Isachaar, Benjamin, Naphtali, Manasseh, Ephraim and Asher
 8. genealogy of Benjamin to Saul, Saul's family
 9. the people of Jerusalem listed, the descendants of Saul
@@ -190,8 +190,8 @@
 13. David fetches the ark, Uzzah touches the ark (2 Samuel 6:1-15)
 14. David gets more wives and children, David retaliates against the Philistines twice
 15. David prepares to move the Ark, the priests and Levites move the Ark, the Ark is moved to Jerusalem, Michal has contempt for David (2 Samuel 6:12-23)
-16. A tent is established for the Ark, David performs Psalm 105 and 96, David commits Asaph and his brothers to minister to God
-17. David wants to build a temple for God, God makes a covenant with David, David's prayer of thanksgiving (2 Samuel 7)
+16. tent is established for the Ark, David performs Psalm 105 and 96, David commits Asaph and his brothers to minister to God
+17. David wants to build a Temple for God, God makes a covenant with David, David's prayer of thanksgiving (2 Samuel 7)
 18. David defeats the Philistines, Moabites, Hadadezer, and Arameans, David dedicates the spoils and gifts from King Toi to the Lord, list of David's officers  (2 Samuel 8)
 19. Ammonite king disrespects David's messengers, David defeats Ammon and Aram (2 Samuel 10)
 20. the capture of Rabbah (2 Samuel 12:26-31), four battles against the Philistines (2 Samuel 21:15-22)
@@ -202,8 +202,8 @@
 25. list of musicians' 24 divisions
 26. lists for gatekeepers, treasurers, officers, and judges
 27. list of 12 captains on rotating monthly duty, leaders of the 12 tribes, department heads, and counselors
-28. David commissions Solomon and gives him the plans for the temple
-29. offerings made for the temple, David's prayer of blessing, Solomon anointed king, David's death
+28. David commissions Solomon and gives him the plans for the Temple
+29. offerings made for the Temple, David's prayer of blessing, Solomon anointed king, David's death
 
 ## 2 Chronicles
 
@@ -235,53 +235,53 @@
 26. Uzziah/Azariah reigns in Judah (2 Kings 14:21-22, 15:1-7, Amos)
 27. Jotham reigns in Judah
 28. Ahaz reigns in Judah, Aram defeats Judah, Ahaz' idolatry (2 Kings 16)
-29. Hezekiah cleanses the Temple and restores temple worship (2 Kings 18:1-9)
+29. Hezekiah cleanses the Temple and restores Temple worship (2 Kings 18:1-9)
 30. Hezekiah proclaims and celebrates the Passover
 31. idols destroyed, contributions made for worship, Hezekiah organizes the priests
 32. Sennacherib from Assyria invades Judah and threatens Jerusalem, Hezekiah asks for God's deliverance and He saves them by killing 185,000 Assyrians, Hezekiah's illness and recovery, other works of Hezekiah, Hezekiah's death and Manasseh's succession (2 Kings 18:9-37, 19:35-20:11, Isaiah 36, 37:36-38:9)
 33. Manasseh reigns in Judah, God rebukes Manasseh and he repents, Amon reigns in Judah and Josiah succeeds him (2 Kings 21)
-34. Josiah reigns in Judah, Josiah destroys idolatry, Josiah funds the temple repairs, Hilkiah finds the Book of the Law and informs Josiah, Josiah repents, Huldah's prophecy (2 Kings 22, 23:1-20)
+34. Josiah reigns in Judah, Josiah destroys idolatry, Josiah funds the Temple repairs, Hilkiah finds the Book of the Law and informs Josiah, Josiah repents, Huldah's prophecy (2 Kings 22, 23:1-20)
 35. Josiah restores the Passover, Josiah's death, lamentations over Josiah (2 Kings 23:21-30)
 36. Josiah succeeded by Jehoahaz, Jehoiakim reigns in Judah, Jehoiachin reigns in Judah, Zedekiah reigns in Judah, Jerusalem's fall, the proclamation of Cyrus (2 Kings 23:31-37, 24:6-9, 24:8-12, 25:1-7, Isaiah 45, Ezra 1:1-4)
 
 ## Ezra
 
 1. the proclamation of Cyrus, Cyrus restores the holy vessels (2 Chronicles 36:22–23, Isaiah 45:1–25)
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+2. list returning exiles, offerings by the returned exiles (Nehemiah 7:4-73)
+3. sacrifices are restored, Temple restoration begins
+4. adversaries hinder the work, opposition under Xerxes and Artaxerxes, the decree of Artaxerxes
+5. the Temple rebuilding resumes, Tattenai's letter to Darius (Haggai 1:1-17)
+6. the decree of Darius, the Temple completed, dedication of the Temple, the returned exiles keep the Passover
+7. Ezra arrives in Jerusalem, Artaxerxes' letter for Ezra, Ezra blesses God
+8. list of exiles who returned with Ezra, Ezra sends for the Levites, fasting for protection, priests to guard the offerings, the arrival in Jerusalem
+9. intermarriage with the neighboring peoples, Ezra's prayer of confession (Nehemiah 13:23–31)
+10. Shecaniah's encouragement, the people's confession of sin, list of people guilty of intermarriage
 
 ## Nehemiah
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
+1. Nehemiah's prayer
+2. Nehemiah sent to Jerusalem, Nehemiah inspects the walls
+3. list of people who rebuilt the walls
+4. the surrounding nations ridiculed them, they stayed on guard and kept working
+5. Nehemiah defends the oppressed, Nehemiah didn't take his full governor's pay
+6. Sanballat's conspiracy, the wall is completed (Ezra 4)
+7. the city is secured, list of returning exiles, offerings by the returned exiles, (Ezra 2)
+8. Ezra reads the Law, the Feast of Tabernacles
+9. the people confess their sins and renew their covenant
+10. list of covenant signers, the vows of the covenant
+11. list of Jerusalem's new settlers, list of residents outside Jerusalem
+12. list of priests and Levites who returned, the dedication of the wall, provisions for Temple worship
+13. foreigners are excluded from Israel, the Temple is cleansed, tithes are restored, the Sabbath is restored, intermarriage is forbidden (Ezra 9:1-4)
 
 ## Esther
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Xerxes' royal feast, Queen Vashti's refusal, Queen Vashti is deposed
+2. the hunt for Vashti's successor, the king favors Esther, Esther becomes queen, Mordecai uncovers a conspiracy
+3. Haman's plot against the Jews
+4. Mordecai appeals to Esther
+5. Esther approaches the king, Haman's plot against Mordecai
+6. Mordecai is honored
+7. Esther pleads for her people, the hanging of Haman
+8. Esther appeals for the Jews, the decree of Xerxes
+9. the Jews destroy their enemies, Haman's sons hanged, the Feast of Purim instituted
+10. tribute to Xerxes and Mordecai

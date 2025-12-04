@@ -65,41 +65,41 @@
 
 ## Habakkuk
 
-1. 
-2. 
-3. 
+1. Habakkuk's first complaint and God's answer, Habakkuk's second complaint
+2. God's second answer, woe to the Chaldeans
+3. Habakkuk's prayer and rejoicing
 
 ## Zephaniah
 
 1. judgment on Judah, the Day of the Lord
-2. a call to repentance, judgments on: the Philistines, Moab and Ammon Cush and Assyria
+2. a call to repentance, judgments on the Philistines, Moab and Ammon Cush and Assyria
 3. judgment on Jerusalem, judgment on the nations, a faithful remnant, Israel's restoration
 
 ## Haggai
 
-1. 
-2. 
+1. a call to rebuild the Temple, the people obey (Ezra 5:1-5)
+2. the coming glory of God's house, blessings for a defiled people, God will make Zerubbabel His signet ring
 
 ## Zechariah
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
+1. call to repentance, vision of horses, vision of horns and craftsmen
+2. vision of measuring line, Zion's redemption
+3. vision of Joshua the high priest
+4. vision of lampstand and olive trees
+5. vision of flying scroll, vision of woman in a basket
+6. vision of four chariots, the crown and the Temple
+7. call to justice and mercy
+8. restoration of Jerusalem
+9. burden against Israel's enemies, Zion's coming king, God will save His people
+10. Judah and Israel will be restored
+11. the doomed flock, thirty pieces of silver
+12. Jerusalem's coming deliverance, mourning the one they pierced
+13. idolatry's end, the shepherd struck and sheep scattered
+14. Jerusalem's destroyers destroyed, all nations will worship the King
 
 ## Malachi
 
-1. 
-2. 
-3. 
-4. 
+1. God's love for Israel, the polluted offerings
+2. warning to the priests, Judah's unfaithfulness
+3. God will send His messenger, robbing God, the book of remembrance
+4. the Lord's day

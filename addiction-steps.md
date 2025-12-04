@@ -31,13 +31,13 @@ This is a representation of all the steps, articulated in excruciating step-by-s
 7. Understood that Power as God.
 8. Understood that God was capable to affect our will.
 9. Understood that God was capable to affect our lives.
-10. Made a decision to turn our will and our lives over to the care of God.
+10. Made a decision to turn our will and our lives over to God's care.
 11. Accepted we have moral failings.
 12. Accepted our moral failings are things at least somewhat within our scope of control.
 13. Accepted that we must start discovering our moral failings if we wish to make any decisions.
 14. Made a searching and fearless moral inventory of ourselves.
 15. Parsed that moral inventory to find patterns.
-16. Obsessed about that moral inventory until we were certain what the basis of our wrongdoings were.
+16. Obsessed about that moral inventory until we were certain what we did to cause our wrongdoings.
 17. Admitted to God, to ourselves, and to another human being the exact nature of our wrongs.
 18. Accepted the reality that our defects of character were the basis for the problems we were experiencing.
 19. Became entirely ready for God to remove all these defects of character.
@@ -63,7 +63,7 @@ This is a representation of all the steps, articulated in excruciating step-by-s
 The steps distill into several conditions necessary to break free:
 
 1. Accept we have a problem we can't fix.
-2. Place something else at the center of our lives instead of that substance. Many [religious](religion.md) leaders state that it's a product of our need to be [devoted to God](https://theologos.site/devotion-chaos/). The one advantage of trusting God is that obsession with God creates a secondary obsession with all [reality](reality.md) (i.e., God's [creative work](creations.md), which is the entire universe).
+2. Place something else as our life's purpose instead of that substance. Many [religious](religion.md) leaders state that it's a product of our need to be [devoted to God](https://theologos.site/devotion-chaos/). The one advantage of trusting God is that obsession with God creates a secondary obsession with all [reality](reality.md) (i.e., God's [creative work](creations.md), which is the entire universe).
 3. Find [friendship](people-friends.md) with supportive people who will *not* drag us back into the lifestyle we want to break from.
 4. Maintain a sense of [meaning](meaning.md) in freeing ourselves in that substance: first by making amends, then [self-improvement](success-1_why.md), then provoking other people to do the same.
 

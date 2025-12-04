@@ -4,7 +4,7 @@
 ## Genesis
 
 1. God made the heavens and earth in 6 days, ending with man
-2. God rested the seventh day, made man and women in the Garden of Eden
+2. God rested the seventh day, made man and women in Eden's Garden
 3. The serpent deceives mankind, God exiles them
 4. Cain kills Abel, God curses him, listed lineage of Cain, Seth established
 5. Listed lineage from Adam to Noah
@@ -26,7 +26,7 @@
 21. Isaac born, Hagar exiled, angel blesses Ishmael, Abraham makes covenant with Abimelech
 22. Abraham sacrifices Isaac, God intervenes, listed lineage of Nahor
 23. Sarah dies and is buried
-24. A servant finds Isaac a wife with Rebekah, and they are married
+24. the servant finds Isaac a wife with Rebekah, and they are married
 25. Abraham's secondary listed lineage and death, listed lineage of Ishmael, Esau sells birthright to Jacob
 26. God promises Isaac, Isaac lies about his wife, is prosperous, makes covenant with Abimelech, Esau takes wives
 27. Isaac blesses Jacob, then gives an inferior blessing to Esau
@@ -86,7 +86,7 @@
 28. Guidelines for various parts of priest's garments
 29. Guidelines for consecrating priests, sacrifices for them, food for them, and daily offerings, with a promise God will dwell among the people
 30. Guidelines for incense altar, census offering, washing basin, anointing oil, and incense
-31. God appoints Bezalel and Oholiab as craftsmen, God gives sign of the Sabbath, Moses receives the tablets of all the above
+31. God appoints Bezalel and Oholiab as craftsmen, God gives sign of the Sabbath, Moses receives tablets of all the above
 32. Israel worships a golden calf, Moses breaks the tablets, Moses commands Levites to kill their idolatrous family, Moses prays for repentance, God sends a plague on the people
 33. Israel commanded to leave Sinai and that God will go ahead but not with them, Temt of Meeting established, God shows His presence to Moses
 34. Moses makes new stone tablets, God renews the covenant
@@ -104,8 +104,8 @@
 3. Laws for peace offerings
 4. Laws for sin offerings
 5. Sins that require a sin offering, laws for guilt offerings
-6. Sins that require a guilt offering, more laws for the burnt offering, more laws for the grain offering, more laws for the sin offering
-7. More laws for the guilt offering, more laws for the peace offering, fat adn blood are forbidden, the priests' portion of the offering
+6. Sins that require a guilt offering, more laws for burnt offering, more laws for grain offering, more laws for sin offering
+7. More laws for guilt offering, more laws for peace offering, fat adn blood are forbidden, the priests' portion of the offering
 8. Moses consecrates Aaron and his sons then gives a sin offering, burnt offering, and a ram of ordination for them
 9. Aaron's first offerings
 10. Nadab and Abihu sin and die in God's presence, priests are restricted from drinking wine
@@ -123,17 +123,17 @@
 22. Restrictions against the unclean, worthy offerings
 23. Feasts and Sabbaths established including Passover, Feast of Unleavened Bread, Feast of Firstfruits, Feast of Weeks, Feast of Trumpets, Day of Atonement, and Feast of Tabernacles
 24. Laws for lamp maintenance and showbread, punishment for blasphemy, "eye for an eye"
-25. Establishing the Sabbath year, the Year of Jubilee and the return of property, God gives blessings for obedience, laws of redemption
+25. Establishing the Sabbath year, Jubilee Year and returning property, God gives blessings for obedience, laws of redemption
 26. Blessings for obedience, punishments for disobedience, God's promise for those who repent
 27. Laws on valuations and tithes
 
 ## Numbers
 
 1. God commands Moses to take a census, list of every person, Levites were exempted
-2. The tribes were ordered to camp at a distance around the Tent of Meeting
-3. Aaron's lineage, the numbering of the Levites (Gershonites, Kohathites, and Merarites), every firstborn numbered
+2. The tribes were ordered to camp at a distance around Meeting Tent
+3. Aaron's lineage, the Levites's numbering (Gershonites, Kohathites, and Merarites), every firstborn numbered
 4. Duties of Kohathites, Gershonites, Merarites, total Levite numbers
-5. Cleansing the camps of unclean people, restitution for behaving unfaithfully, the test for adultery
+5. Cleansing unclean people from the camps, restitution for behaving unfaithfully, the test for adultery
 6. The Nazirite vow, how Aaron should bless Israel
 7. Altar dedication offerings from Israel
 8. The lampstand, Levite cleansing rituals, retiring Levites from work
@@ -143,7 +143,7 @@
 12. Miriam and Aaron complain, Miriam struck with leprosy
 13. Men appointed from each tribe to spy out Canaan, spies give back a mixed report
 14. Israel rebels, Moses intercedes for Israel, God forgives but delivers judgment, the spies who gave a bad report die from a plague, defeat at Hormah
-15. Laws about offerings and unintentional sin offerings, Sabbath-breaker is stoned, the law of tassels
+15. Laws about offerings and unintentional sin offerings, Sabbath-breaker is stoned, tassels law
 16. Korah's rebellion and consequences, censers are reserved for holy use, murmuring about Korah that leads to a plague
 17. Aaron's staff buds
 18. Duties and offerings for priests and Levites
