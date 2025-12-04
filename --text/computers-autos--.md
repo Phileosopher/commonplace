@@ -1,5 +1,0 @@
-
-[Megahertz: "Privacy tip: When you sell or …" - Mastodon.Radio](https://mastodon.radio/@megahertz/112090868684225437)
-- THIS IS BAD ON SEVERAL LEVELS:
-  1. THE OEM IS UNDERPREPARED FOR THE DATA MANAGEMENT
-  2. THE USER IS UNPREPARED FROM LACK OF COMMUNICATION

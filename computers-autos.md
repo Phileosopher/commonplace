@@ -44,6 +44,12 @@ Further, most cars are also equipped with EDRs (electronic data recorders), so t
 - You can gather driving metrics by plugging in an OBD-II device that connects via a [wireless network](networks-cs.md).
 - Many vehicles can also send data wirelessly, without an OBD-II port.
 
+It's worth noting that the data on a technologically advanced vehicle is stored until it's erased.
+
+- This exposes a consumer who sells their vehicle to the risk of the next owner seeing what their name is, their taste in music, geographic location of them and everyone they visit, and their daily habits.
+- The manufacturers don't tend to care, and the user tends to be unprepared for this circumstance.
+- Thus, it's wisest to either not use the built-in vehicle services or to delete the information before selling or scrapping the vehicle.
+
 ## EVs
 
 Electric vehicles (EVs) are unrelated to autonomous vehicles, but they're often discussed at the same time because they're [new technology](trends.md).

@@ -410,6 +410,8 @@ Christians are *not* responsible for involving themselves with the politics of I
   - God is faithful enough that the Hebrew people will never be fully destroyed ([Revelation 7](https://biblehub.com/revelation/7.htm)), but that says *nothing* directly about the political entity we call Israel today.
 - Jesus [loves every single human being](jesus-gospel.md), which includes all Jews *and* all Arabs, and Christians are responsible to love their neighbors and enemies in the same way.
 
+If we take it literally, the Bible makes it very clear from [Ezekiel 45-48](https://biblehub.com/ezekiel/48.htm) about [what Israel will look like](history-israel-future.jpg).
+
 While it may seem contradictory, it's easy enough for all Christians to generally do the following:
 
 1. Denounce all forms of violence or terrorism.
