@@ -3,7 +3,7 @@
 
 Many claims and premises by self-professed health experts are contradictory or false:
 
-- They're trying to [sell a product](marketing.md), so they'll usually include the truth while [omitting key details](people-lying.md) that may make that product unnecessary.
+- They're trying to [sell a product](marketing-sales.md), so they'll usually include the truth while [omitting key details](people-lying.md) that may make that product unnecessary.
 - For that reason, there's a *lot* of [misinformation](stories-storytellers.md).
 
 ## 1. Saliva, stomach acid, and bile digest food

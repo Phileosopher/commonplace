@@ -102,7 +102,7 @@ Fraud: lying to gain something
 
 - Credit card fraud: stealing someone's payment card and pretending to be that person
 - Insurance fraud: lying about [an insurance claim](money-insurance.md)
-- Pyramid scheme: pretending to [sell a product](marketing.md) but actually [selling others on selling a product](marketing-mlm.md)
+- Pyramid scheme: pretending to [sell a product](marketing-sales.md) but actually [selling others on selling a product](marketing-mlm.md)
 - Securities fraud: falsely indicating the value of an asset
   - Insider trading: trading on the value of an asset based on unfairly obtained information
 - Wire fraud: fraud with a telecommunications device like a computer or phone

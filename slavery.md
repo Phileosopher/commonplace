@@ -70,7 +70,7 @@ Generally, the actual value people treat their enslaved subjects is contingent o
 
 Hypothetically, if everyone were enslaved to a perfectly [good](morality.md) and [loving](people-love.md) master, the arrangement would be mutually beneficial. That master would take care of every need, and the slaves would be [satisfied](mind-feelings-happiness.md) and [live well](success-1_why.md).
 
-APPLICATION: Slavery is always [wrong](morality.md), with the single exception of when an individual is incapable of tending to their personal needs. This is why we have no problem with guardianship of children or the [extremely elderly](maturity.md).
+APPLICATION: Slavery is always [wrong](morality.md), with the single exception of when an individual is incapable of tending to their personal needs. This is why we have no problem with guardianship of children, the [extremely elderly](maturity.md), and mentally challenged people.
 
 But, for several reasons, humans will always exert some level of evil when they enslave others:
 

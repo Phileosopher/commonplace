@@ -99,6 +99,12 @@ APPLICATION: If you want to know what will be popular 5 years from now, it'll pr
 
 Today's news, after enough time, becomes a historical record. Historians in [a free society](politics-conservativeliberal.md) have less [reason](purpose.md) to [skew](people-image-why.md) the story, but they still advance [religious](religion.md) or [political](politics-leftism.md) causes just as frequently, and they *frequently* miss the context of the original creation.
 
+Beyond misinformation, history magnifies its [distorted lens](people-image-distortion.md) through only several motivations that drive the people who record the information:
+
+1. Highly successful [narcissists](mind-neurodivergence-narcissist.md) sharing their opinion of their successes.
+2. Nostalgic memories recorded as if they were fact.
+3. People who want to memorialize every detail of what had happened.
+
 APPLICATION: Most of the tales and creative works of the distant past that have survived were propaganda, [parody](humor.md), and designed for unsophisticated people. We lose that in translation (especially with the people who [teach it](education.md)), so we assume there was something more dignified about the past than there really was.
 
 Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](trends.md) of the present time:

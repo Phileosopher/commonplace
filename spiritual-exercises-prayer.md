@@ -60,20 +60,43 @@ Relationships and social dynamics:
 
 Churches and groups you associate with:
 
-- Ask for unity and diversity in the Church.
-- Pray for leaders' strength to maintain their calling.
-- Pray for effective, Christ-minded leaders to step forward in your group.
-- Pray for the group to adopt a [discipleship culture](spiritual-discipleship.md), especially with younger members.
-- Pray for more frequent, meaningful relationships that remove anonymity.
+- Unity and diversity in the Church.
+  - Patience with each other.
+  - Boldness, faith, and strength.
+  - The group adopts a [discipleship culture](spiritual-discipleship.md), especially with younger members.
+- Leaders' strength to maintain their calling.
+  - Wisdom and strength for pastors/elders/bishops.
+  - Protection for leaders' families.
+  - Lay-leadership/deacons.
+  - Specialized ministry leaders.
+  - Worship team.
+- Effective, Christ-minded leaders to step forward in your group.
+- More frequent, meaningful relationships that remove anonymity.
+  - More witness to neighbors and church visitors
+  - Members delivering the Gospel through their careers in the world.
+  - The Gospel is spread.
+  - Members give more joyfully, faithfully, consistently, and boldly.
+  - Members share the Gospel in their separate lives.
+  - A biblically consistent and spiritually driven sharing of God's Word.
 
 The Church at large:
 
-- Pray that members give more joyfully, faithfully, consistently, and boldly.
-- Pray for members to share the Gospel in their separate lives.
-- Pray for a biblically consistent and spiritually driven sharing of God's Word.
-- Pray for prayer warriors to step in and spiritually empower the Church.
-- Pray for preparedness for persecution. Pray for people to desire spiritual change more than political change.
-- Pray for members to deliver the Gospel through their careers in the world.
+- The Church being a light and witness to humanity.
+- Prayer warriors will step in and spiritually empower the Church.
+- Revival in the Church.
+  - Preparedness for [persecution](hardship-persecution-church.md).
+  - Chirstians who are facing persecution.
+- People desiring spiritual change more than political change.
+
+The government:
+
+- Leaders having wisdom in decisions affecting believers.
+- Leadership in each level of government:
+  - City
+  - Local
+  - State
+  - Federal
+- Believers in government to be strong and courageous.
 
 ## Pray sincerely
 

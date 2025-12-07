@@ -120,6 +120,7 @@ Get a more comfortable, efficient, or elegant desk and chair:
 - Ergonomic or flexible desk chair
 - Medicine ball or yoga ball
 - Treadmill desk or standing desk
+- [Deskhunt](http://deskhunt.com/) for inspiration
 
 ## Working from home
 

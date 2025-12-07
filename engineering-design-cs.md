@@ -3,7 +3,14 @@
 
 Designing a "user interface" (UI) is a subdivision of visual artistry. At one time, the design field was oriented toward "human computer interaction" (HCI) but has since moved to the realm of "user experience" (UX) from the ubiquity of business within technology. UI is what users perceive, while UX/HCI is what users do.
 
-All the [general rules of good design](engineering-design.md) apply, but computers take a divergence in a few key areas.
+All the [general rules of good design](engineering-design.md) apply, but computers take a divergence in a few key areas. These can be summarized by the four major common-sense principles that hold together "Web Content Accessibility Guidelines" (WCAG), which form the acronym "POUR":
+
+- Perceivable: users can perceive the information being presented
+- Operable: users must be able to interact with the interface
+- Understandable: users must be able to understand the information
+- Robust: a wide range of technologies accessing the information must be able to interpret the content.
+
+To that end, simpler is almost always better.
 
 ## Rules
 

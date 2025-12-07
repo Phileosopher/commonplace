@@ -32,7 +32,7 @@ When you want to sell, think like a retailer.
 Unless you are sufficiently experienced in real estate [sales](marketing.md), a great real estate agent is *absolutely* worth the cost:
 
 - They can expose you to many more potential buyers through their MLS.
-- A good real estate agent [sells more](marketing.md) houses in a week than you will in your *life*.
+- A good real estate agent [sells more](marketing-sales.md) houses in a week than you will in your *life*.
 - You'll likely sacrifice a 6% commission for a 10% increase in the selling price.
 
 Before deciding, interview at least 3 agents:

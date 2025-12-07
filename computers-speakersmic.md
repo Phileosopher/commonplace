@@ -26,6 +26,11 @@ To record sound, the device captures the vibrations, at the speed they're travel
 
 Depending on [the standards used](standards-computers.md), the electromagnetic waves can come from analog electrical pulses or digital electrical signals.
 
+To synchronize these standards across everything, the pitch has been [standardized](standards-computers.md) at 440 Hz for the A note above middle C.
+
+- This was at least somewhat arbitrary as Germany's standard, and the standard could have been 435 Hz if France's preference took precedence, or ranged anywhere from 433-455 if Great Britain had had control.
+- There is some debate about the "purity" of 432 Hz because it's supposed to be the resonance of the heart. However, there is no hard evidence for it. Lower tones definitely create a more calming effect, but going down to bass would then be the [holistic solution](body-health-treatments.md).
+
 The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](networks-cs.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
 
 Speakers are either passive (without internal amplification abilities) or amplified (and often with their own volume control).

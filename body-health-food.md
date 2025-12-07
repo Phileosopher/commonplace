@@ -24,7 +24,7 @@ Another cost-saving method is to pull off useful elements for *other* products o
 
 ## The diet/health industry has advertised *many* myths
 
-The modern approach to [diet](body-diet.md) and [exercise](body-exercise.md) complicates an otherwise straightforward topic to [sell things you don't need](art.mdmarketing).
+The modern approach to [diet](body-diet.md) and [exercise](body-exercise.md) complicates an otherwise straightforward topic to [sell things you don't need](marketing-sales.md).
 
 Fat is a necessary, healthy part of the body.
 

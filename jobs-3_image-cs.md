@@ -34,9 +34,14 @@ When passing the résumé through an ATS, *obsess* about keyword optimization, a
 - Many managers are oblivious to tech synonyms and related concepts, so add all applicable words (e.g.,"HTML", "CSS", and "UX" instead of simply "web design").
 - Also, to avoid the HR system weeding out your résumé, use the *exact* lettering as you see on the job posting. If it says "nodejs", don't put "node.js".
 
-Each role requires many specific skills, so *always* tweak your résumé's skills for every role you apply to. To make it easier, add in *all* the possible skills and terms you'd use, then remove them to fit the image you're implying for the role.
+Each role requires many specific skills, so *always* tweak your résumé's skills for every role you apply to.
 
-Make sure the skills are listed as part of the story and *not* simply in a list. This is a [generally good idea](jobs-3_image.md), but desperately critical to emphasize because tech people tend to forget that humans (including [managers](mgmt-2_projects-cs.md)) don't read [data](data.md) like computers do.
+- To make it easier, add in *all* the possible skills and terms you'd use, then remove them to fit the image you're implying for the role.
+
+Make sure the skills are listed as part of the story and *not* simply in a list.
+
+- This is a [generally good idea](jobs-3_image.md), but desperately critical to emphasize because tech people tend to forget that humans (including [managers](mgmt-2_projects-cs.md)) don't read [data](data.md) like computers do.
+- Don't use a bar chart to indicate your skills. It may look like video game stats, but showcases what you're *not* good at, as well as potentially deprecated technologies that don't apply to that role.
 
 As much as you *can* build out a stylish and original résumé format, the hiring portal's automation will make a weird output for the hiring manager, which is another reason for them to throw it out. Use a boring format that won't parse incorrectly, and you won't have to manage multiple résumé styles.
 

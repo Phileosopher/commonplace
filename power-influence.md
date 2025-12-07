@@ -194,7 +194,7 @@ When provoking people to give resources, our bias constructs a specific procedur
 6. Work upward to larger increments as they become [habituated](habits.md) to consistently giving.
 7. Ask them to ask others as well.
 
-APPLICATION: Watch for easy ways people influence you without noticing, especially for [selling things](marketing.md):
+APPLICATION: Watch for easy ways people influence you without noticing, especially for [selling things](marketing-sales.md):
 
 - Behave with small idiosyncrasies like the people they're [speaking with](people-conversation.md).
 - Providing affirming, unsolicited compliments.

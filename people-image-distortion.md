@@ -32,7 +32,7 @@ Beliefs
 
 ## [Language](language.md)
 
-Word Choice - Replacement
+Word choice: replacement
 
 - [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](understanding.md), signals [group membership](groups-member.md), or hides how things [feel](mind-feelings.md).
 - A word that [feels](mind-feelings.md) stronger indicates more [power](power.md) or provokes more [fear](mind-feelings-fear.md) (e.g., "weapon of war" instead of "gun").
@@ -43,7 +43,7 @@ Word Choice - Replacement
 - Change a verb or conjunction to make something a [lie](people-lying.md) (e.g., "walked *in* the room" vs "walked *near* the room").
 - Swapping out a word in a familiar saying.
 
-Word Choice - Additions
+Word choice: additions
 
 - Include adjectives to modify the present image of something (e.g., "The People's Democratic Republic of North Korea").
 - Use the word "free" to imply an obvious [decision](people-decisions.md) while hiding other costs.
@@ -57,20 +57,20 @@ Math
 - Use proofs that are needlessly complex (which can be done as much as necessary).
 - Use algorithms (i.e., a set of number-based conditional rules) to hide bias, typically with the claim that the algorithm is neutral.
 
-Word Placement
+Word placement
 
 - Separate two words in a sentence to create [emotional](mind-feelings.md) distance ("The **senator**, in many ways, was a just man, but he was caught having **murdered** his wife.")
 - Stick two words in a sentence closer together ("The **officer's murder** case was solved today in the arrest of a local clerk.").
 - Frequently place a word next to another word to entirely change its implication (e.g., "pompous" was once a positive implication, but now implies "pompous ass").
 
-Sentence Choice
+Sentence choice
 
 - Use the passive voice to remove the subject of the sentence from the idea ("The murder had been done by him").
 - Use long sentences, extended oration, and elaborate sentences to give ideas [emotional](mind-feelings.md) distance.
 
 ## Comparisons
 
-Comparing Numbers/Ideas
+Comparing numbers/ideas
 
 - State an arbitrary number or idea that will seem much less favorable than the one they want to [influence](power-influence.md) people toward.
 - Use extremely specific words or numbers to imply something was particularly [calculated](logic.md).
@@ -79,11 +79,11 @@ Comparing Numbers/Ideas
 - Make a statement that seems [logical](logic.md), but isn't (e.g., "Feeding someone means they won't want to work.").
 - Repeating something incessantly until it seems more prevalent than something else.
 
-Comparing [Values](values.md)
+Comparing [values](values.md)
 
 - Implying something has a [symbolic](symbols.md) connection with [moral](morality.md) principles or [decisions](people-decisions.md).
 
-Feelings Comparison
+Comparing [feelings](mind-feelings.md)
 
 - Use social proof with [anecdotes](stories-why.md) of others' experiences.
 - Signal [wealth or social status](classes.md) to others with a behavior or expensive trinket/clothing.
@@ -92,7 +92,12 @@ Feelings Comparison
 - Attach two events as if they were connected, but only connect through a shared [feeling](mind-feelings.md).
 - Offering something that's awful to then offer something that appears to be a compromise ([door-in-the-face technique](https://en.wikipedia.org/wiki/Door-in-the-face_technique)).
 
-Comparing with the Unknown
+Comparing with other stories
+
+- Show associations with other things that aren't related to give the impression that it's tied to the story ("associative stories").
+- Referencing a supporting story that has absolutely nothing to do with the current story ("whipsaw effect").
+
+Comparing with [the unknown](unknown.md)
 
 - Allude to something as particularly exclusive, rare, unique, special, or unheard of.
 - Give an implication that there are very few of something left to force a belief in [scarcity](people-decisions.md), especially regarding [trends](trends.md).
@@ -107,7 +112,7 @@ Topic
 - Focus more on qualities than on quantities to evoke more [feelings](mind-feelings.md).
 - Focus more on quantities than on qualities to dismiss a matter.
 
-Implying about Self
+Implying about self
 
 - Speak vaguely or avoid saying certain things to evoke others [imagining](imagination.md) sophistication, [power](power.md), or [expertise](jobs-specialization.md).
 - Repeat [virtues](morality.md) others [may](understanding.md) believe ("virtue signaling") to indicate loyalty.
@@ -116,7 +121,7 @@ Implying about Self
 - Make a [creation](creations.md) appear rushed or improvised when it was well-rehearsed, staged, or meticulously craft, which will inspire the audience to give more grace to it.
 - State that a previously discussed topic (e.g., a web forum) answers a topic that it doesn't.
 
-Implying with Others
+Implying with others
 
 - Allude vaguely to what "experts" say or believe.
 - State what a non-present person would have thought on an issue, though it's often impossible to precisely [know](imagination.md).
@@ -150,7 +155,7 @@ Blame
 
 ## [Image](people-image-why.md)
 
-First Impressions
+First impressions
 
 - Prominently display [symbols](symbols.md) that evoke [status](people-image-why.md) or discredit others' status.
 - Pay for [advertising](marketing.md) to imply a larger [reputation](people-image-why.md) than [reality](reality.md).
@@ -163,7 +168,7 @@ First Impressions
 - Use a good-looking messenger with a bad message, or vice versa.
 - Appear trustworthy to make others [trust](trust.md).
 
-Tone of Voice/Context
+Tone of voice/context
 
 - Express more [confidence](understanding-certainty.md) than what they think to [convince](power-influence.md) others of [power](power.md) or [certainty](understanding-certainty.md).
 - Express less [confidence](understanding-certainty.md) than what they think to appear more open-minded.
@@ -189,7 +194,7 @@ Blame
 
 ## [Organizations](groups-large.md)
 
-Public [Image](people-image-why.md)
+Public [image](people-image-why.md)
 
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
 - Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](politics-leftism.md)).
@@ -203,7 +208,7 @@ Blame
 - Blame a low-ranking [member](groups-member.md), then eject them from the group as publicly as possible.
 - Blame the predecessor of the organization, *especially* if they had any differences of [opinion](understanding-certainty.md).
 
-Inter-Organization
+Inter-organization
 
 - Establish a test to prove [group status](groups-member.md) that requires specific information only attainable by the leadership.
 - Separate [members'](groups-member.md) roles along lines that make very little sense.
@@ -213,19 +218,19 @@ Inter-Organization
 - Use a numerical system without a conventional base-10 basis (e.g., school grades, credit card scores).
 - Frame a [decision](people-decisions.md) as "opt-in" or "opt-out" to imply the rest of the group is doing something automatically or set apart people who weren't paying attention.
 
-Multi-Organization - Hiding
+Multi-organization: hiding
 
 - Use third parties, middlemen, and outside contractors who can be held solely responsible if caught, especially about [illegal things](people-rules.md).
 - Create separate [images](people-image-why.md) for various [created](creations.md) things in the same organization (e.g., [marketing brands](marketing.md)).
 - Making another organization that holds assets, which can often have [legal](people-rules.md) benefits along with [image](people-image-why.md).
 
-Multi-Organization - [Crisis](mind-feelings-fear.md)
+Multi-organization: [crisis](mind-feelings-fear.md)
 
 - Escalate [fear](mind-feelings-fear.md) from a crisis to direct everyone's [purposes](purpose.md).
 - Manufacture a crisis by destroying things or giving [power](power.md) to a [bad system](mgmt-badsystems.md) ("false flag operation").
 - Direct anger and [fear](mind-feelings-fear.md) by declaring [war](science-earth-weather.md) on another group.
 
-Multi-Organization - Referencing
+Multi-organization: referencing
 
 - Cite another organization that cited them.
 - Create a separate organization to authorize, review, or approve things, then have them authorize their mother organization (e.g., committees, bureaus).

@@ -30,7 +30,7 @@ At the onset, your job will involve ~20 small part-time jobs.
 Keep testing and using your own product.
 
 - You can only stay in touch with the product as it develops if you use it yourself.
-- Further, you can only *[sell](marketing.md)* your product well if you're constantly becoming more familiar with it.
+- Further, you can only *[sell](marketing-sales.md)* your product well if you're constantly becoming more familiar with it.
 
 Watch for warning signs of being "busy" more than productive:
 

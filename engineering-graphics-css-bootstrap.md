@@ -114,7 +114,7 @@ Floating labels are where there's a label inside the text box, which then become
 
 1. there must be an "input", then a "label" HTML tag
 2. the "input" needs a "placeholder" of whatever text you want for a digital reader (doesn't express in most use cases)
-2. wrap the entire "input" and "label" tags inside a div with "form-floating" class
+3. wrap the entire "input" and "label" tags inside a div with "form-floating" class
    - you can even remove the "form-label" class from the "input" tag and it'll still work fine
 
 There are other visuals for form validation
@@ -122,6 +122,7 @@ There are other visuals for form validation
 1. add "novalidate" to the form HTML tag
    - this will make "required" handles fail
 2. paste the following into a "script" HTML tag later:
+
    ```javascript
     const form = document.querySelector("form")
 
@@ -134,6 +135,7 @@ There are other visuals for form validation
     })
     // it prevents the default checkValidity of the browser, then adds a class to Bootstrap called "was-validated"
    ```
+
 3. use "was-validated" only on the input handles
 
 - adding the class "is-valid" or "is-invalid" gives a visual demarcation of whether the input box is validated upon page load

@@ -118,7 +118,7 @@ It takes years to develop a [cultural](people-culture.md) expectation of transpa
 
 APPLICATION: There is one certain way to destroy a bad system, or at least injure it:
 
-1. [Sell](marketing.md) your product as a superior [quality](values-quality.md), and make sure it really is (likely through a superior [technology](technology.md)).
+1. [Sell](marketing-sales.md) your product as a superior [quality](values-quality.md), and make sure it really is (likely through a superior [technology](technology.md)).
 2. Engage in *complete* information transparency and [advertise](stories-storytellers.md) that fact as well, including of that technology.
 3. Others will imitate and steal ideas, but the horde of improved products with extra transparency will make that bad system irrelevant by comparison.
 4. You won't get a reputation for it among the public, but will amass tremendous power through the [influence](influence.md) with the people who took your ideas, which you can summon later from their gratitude.

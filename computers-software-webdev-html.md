@@ -71,7 +71,7 @@ and nobody notices-->
 
 ## Input forms
 
-The data is passed through to a database, which goes fully beyond the scope of HTML unless you're a hacker.
+The data is passed through to another site (the "action" handle alongside the "form" handle), which goes fully beyond the scope of HTML unless you're a hacker.
 
 ```html
 <form>
@@ -119,5 +119,6 @@ NOTE: the "type" is optional and defaults to "text":
 Input handles:
 
 - readonly (makes the information read-only)
+- disabled (similar to readonly but can't be focused by user selection)
 - required (must be entered to submit query)
 - value=(default value you want to place in it)

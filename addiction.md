@@ -114,7 +114,11 @@ There is a simple way to detect whether someone has a substance abuse problem:
 
 ## An addict's recovery
 
-Addicts are self-destructive. They must [restrain](morality.md) themselves, but are afraid of [imagined](imagination.md) pain that might come from holding back their [baser desires](mind-feelings.md). In that sense, they have the [reasoning](logic.md) skills of small children. Since [reality](reality.md) doesn't respond well to mismanagement, they are some of the most [traumatized](hardship-ptsd.md) people on the planet, and are guaranteed to bring more suffering upon themselves over time.
+Addicts are self-destructive. They must [restrain](morality.md) themselves, but are afraid of [imagined](imagination.md) pain that might come from holding back their [baser desires](mind-feelings.md). In that sense, they have the [reasoning](logic.md) skills of small children.
+
+This issue goes deeper than mere animal impulse, and infects our [souls](humanity.md). Animals have been proven to easily stop a drug addiction if they are exposed to other pleasurable stimuli that naturally fulfill needs (e.g., eating, mating). For humans, it is the gnawing absence of [God](god.md) that hits us harder than any physical need.
+
+Since [reality](reality.md) doesn't respond well to mismanagement, they are some of the most [traumatized](hardship-ptsd.md) people on the planet, and are guaranteed to bring more suffering upon themselves over time.
 
 An addict who sold their [soul](humanity.md) to a substance will not find [wellness](goodlife.md) until they learn restraint. The closest thing to "balance" they'll understand is to cycle through obsessions before [diminishing return](results.md) can set in, and most out-of-control addicts can become high-functioning by quickly jumping from one substance to another.
 

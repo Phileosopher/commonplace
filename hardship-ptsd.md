@@ -5,13 +5,6 @@ We all experience trauma. It's an inevitable reality of life that started when w
 
 For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war-why.md)).
 
-While everyone experiences trauma, each person responds to it differently:
-
-- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](results.md) they want.
-- Others will [pursue something else](mind-creativity.md) to meet their needs.
-- Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
-- In extreme cases, people will tell themselves they don't need something they legitimately need.
-
 APPLICATION: If something hurts a small child, it likely can hurt anyone. The only difference is that most adults harden themselves to that pain and learn to ignore it.
 
 If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
@@ -20,6 +13,19 @@ The psychological term for PTSD is literally a **Disorder** of **Stress** from *
 
 1. Every person alive has suffered in a way that felt unfair.
 2. Every child and most adults are at least somewhat unaware of [effective mind management](mind-feelings-happiness-focus.md).
+
+We hold onto our past memories because we still believe we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
+
+1. We must hold onto that information to deliver appropriate [justice](morality-justice.md). This must be [released](mind-feelings-happiness-stress.md) or it will destroy us.
+2. We must still [learn](education.md) from that information, since those events may affect future [decisions](people-decisions.md) we must make.
+3. We must remember that information to [create](creations.md) something with it, which is a bit like justice but more focused on our efforts than on the cause of the trauma.
+
+While everyone experiences trauma, each person responds to it differently:
+
+- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](results.md) they want.
+- Others will [pursue something else](mind-creativity.md) to meet their needs.
+- Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
+- In extreme cases, people will tell themselves they don't need something they legitimately need.
 
 Replaying memories is a subconscious habit, so everyone who has felt [pain or fear](mind-feelings-fear.md) has been disrupted from [perfect wellness](goodlife.md), even though they typically don't know it.
 
@@ -130,7 +136,7 @@ While identifying a problem is a good start, it's *more* destructive without a [
 
 ## Unresolved trauma
 
-Unfortunately, when we don't release trauma, we will often re-experience its consequences.
+Unfortunately, when we don't release trauma by working through it, we will often re-experience its consequences.
 
 Anything that isn't completely resolved in our mind *will* come back to haunt us:
 

@@ -31,9 +31,12 @@ Generally, when [deciding](people-decisions.md) when you don't know what to [exp
 
 ## The image of safety
 
-Any security system, of any type, can't 100% stop things. A sufficiently [motivated](purpose.md), [creative](mind-creativity.md), and [talented](humanity.md) person can break through anything made by another person.
+We feel "home" wherever we feel safest, which comes from several connected elements working together:
 
-The *actual* purpose of a security system (and a benevolent [legal system](people-boundaries-why.md)) is to make the intruders [work](results.md) harder than the reward by requiring them to spend more [power](power.md) to get it than it appears to be worth ("deterrence"). Nobody will outright admit it, but defenders are often trying to direct the attackers' efforts to the defender's neighbors.
+1. Application: we regularly have a [purpose](purpose.md) for visiting that location.
+2. Reliability: the location (or something we have) is familiar.
+3. Safety: the place is free of [conflict](people-conflicts.md).
+4. Emotion: we have good [feelings](mind-feelings.md) associated with that location.
 
 Most people don't separate the concept, but *appearing* secure is different from *being* secure. The [image](people-image-why.md) of security can imply more [power](power.md) than reality, which is why people use "security theater":
 
@@ -63,26 +66,9 @@ The only way to avoid a security breach entirely is to hide the appearance of *a
 
 The trouble with safety is that we can put too much effort into it. Taken far enough, safety can stifle healthy changes that may have otherwise led to a [meaningful](meaning.md) experience or [good life](goodlife.md).
 
-[Security](safety-security.md) and safety also come with an immovable cost. No matter what, increasing security sacrifices freedom and accessibility. This is because each layer of verification is both time-consuming and could yield a lockdown against the people who *should* have access ("false-negative"):
+One specific example of this phenomenon comes through safety equipment. Designers of the equipment are often looking to protect the anatomy of the individuals using it, but often fail to recognize how people will change their behavior in light of those changes.
 
-- A *completely* walled city would only be accessible by skilled wall climbers. That's why cities have historically set gates on each side of the city.
-- It's near-impossible to crack an incredibly elaborate password, but it's also difficult to remember and has to be safely stored if it's written down.
-- An elaborate key mechanism is difficult to pick, but the key is difficult to reproduce, especially if it's lost.
-- In [modern society](technology.md), people probably spend at least 10 minutes a day with [habits](habits.md) that activate and deactivate security measures (passwords, car doors, etc.).
+- Adding plastic padding and protective shells to sports equipment (as opposed to leather-based gear) has made those sports *much* more dangerous (e.g., boxing, American football) through the participants using the additional shielding as an offensive opportunity.
+- Increasing the reliability and stopping power of body armor has created increasingly dangerous hollow point bullets that go through them, making modern warfare dramatically more lethal than it has ever been before.
 
-So, because of this, most security systems build "back doors" to prevent [human error](humanity.md) from locking the entire system down and losing the [valuable](values.md) thing inside. Most [bad actors](morality-evil.md) become far more aware of this than most people want to admit.
-
-Because of our [habitual](habits.md) nature, we often forget *why* the security system is there and will fail to verify that it's a legitimate situation:
-
-- Man-in-the-middle attacks involve the person thinking they're accessing a legitimate website (which isn't) to enter their credentials like normal.
-- In a key-card system, people will be quick to give grace to someone who "forgot" their key-card, especially if they share a [common interest](people-friends-why.md) (like smoking).
-
-Distrust can also be [habit-forming](habits.md). We tend to [identify](identity.md) what we [focus](purpose.md) on, so we can become [obsessive](addiction.md) about protecting things. The cure is to ask *what* we're protecting and how much we're willing to [lose it](mind-feelings-fear.md).
-
-It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](people-image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](people-decisions.md)!
-
-Security and freedom are inversely correlated, so something [valuable](values.md) that is also useful will invariably have to be protected by something inconvenient, and will likely still be exposed to risks:
-
-- Every country needs a military.
-- Preserving the freedom of speech requires permitting [hate speech](politics-leftism.md).
-- [Success requires loss](success-5_persevering.md).
+The answer is to foster an [attitude](understanding.md) of safety in the users, but that would require training more [maturity](maturity.md) into people, so [it won't happen](https://theologos.site/unnatural-law/).

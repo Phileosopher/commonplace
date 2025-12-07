@@ -9,6 +9,8 @@ Angelology - The systematic theology branch that addresses what angels are
 
 Arminianism - The belief that humanity's free will is distinct from God's sovereignty, tends to exist as [compatibilism](glossary-philosophy.md), often emphasizes [spiritual gifts](spiritual-gifts.md)
 
+Atonement - establishing a decent relationship between two parties through reparations and agreement
+
 Bibliology - The systematic theology branch that addresses the Bible
 
 Calvinism - The belief that God is sovereign, can veer into [fatalism](glossary-philosophy.md)
@@ -61,7 +63,7 @@ Imputation - Transferring the judgment of sin from one individual to another, pa
 
 Intuition - part of our spirit that provides spiritual information the mind couldn't have acquired or inferred by outside events
 
-Justification - God's [legal status](legal-safety.md) regarding our eternal state, contrast with regeneration and sanctification
+Justification - God's [legal status](legal-safety.md) regarding our eternal state, contrast with regeneration, sanctification, and atonement
 
 Levitical law - A Hebrew tribe descended from Levi who was responsible for maintaining the Jewish temple
 

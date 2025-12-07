@@ -13,11 +13,16 @@ Besides [crafting a résumé](language-writing-resume.md), your [social network]
 - Display great photos throughout your networks that enforce your "personal brand".
 - Bring your [creative works](mind-creativity.md) into your public image.
 
-*Anything* you've made public on the internet is available to hiring managers:
+*Anything* you've made public on the internet is available to hiring managers.
 
 - Employers often pass on a candidate from what they find on a social network or background check.
 - Look at your online image, even the portions you feel are private.
 - Take some time to clean up your informal social networks (e.g., Facebook, Twitter).
+
+Many things you've done with corporations can also be available to hiring managers.
+
+- The data is for sale abotu whether you didn't show up to work, were hostile at the workplace, had an issue with HR, or anything else unpleasant.
+- Absolutely anything and everything can cause you to be rejected before you even have an interview.
 
 It's not about what you know, or *who* you know, but *how* you're remembered:
 

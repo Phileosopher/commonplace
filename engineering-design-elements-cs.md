@@ -191,6 +191,13 @@ Since we still often must use words, the text *itself* must also concretely conn
 
 Avoid using redundant text (e.g., "Enter your email and password" heading with "Your email address" above the entry).
 
+Accessibility via text-to-speech is possible on all the major operating systems:
+
+- macOS/iOS has VoiceOver (CMD+F5 or in the settings)
+- Windows has Narrator (WIN+CTRL+ENTER)
+- Linux has Orca for desktop and Speakup for the terminal
+- Android has TalkBack (under Accessibility>TalkBack)
+
 ## Icons
 
 For icons, use SVGs instead of icon fonts.

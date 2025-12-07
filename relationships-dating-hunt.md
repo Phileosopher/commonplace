@@ -44,12 +44,12 @@ Female-specific cues:
 
 Even if you're attractive and [successful](success-1_why.md), the most likely candidates for a relationship haven't met you yet, so keep meeting new people.
 
-When dating, you're essentially "[selling](marketing.md)" yourself:
+When dating, you're essentially "selling" yourself:
 
 - Successful dating is a bit of both sales and marketing:
   - A complete slob won't get a date after 1,000 tries.
   - An attractive, successful person who doesn't meet new people will probably never find a mate.
-- Sales requires increasing the chances of an unlikely thing happening.
+- [Sales](marketing-sales.md) requires increasing the chances of an unlikely thing happening.
   - The most obvious way to improve chances is to increase your events:
     1. If you go to one new venue every week, you've visited about 50 places in a year.
     2. At each venue, it's likely you'll find 5 new people you find attractive, which is 250 people a year.

@@ -158,8 +158,13 @@ D. Test the spirits:
   - By the time spiritual oppression has set in, the person is a victim of that demon's influence.
 - Every spirit that confesses that Jesus Christ has come in the flesh is from God ([1 John 4:2](https://biblehub.com/1_john/4-2.htm)).
 - An unholy spirit will either say "Jesus is cursed" or won't be able to say "Jesus is Lord" ([1 Corinthians 12:3](https://biblehub.com/1_corinthians/12-13.htm)).
+  - This is an ironclad test regarding *any* allegations or prophetic sayings.
 - The Holy Spirit bears witness that Jesus came by water and blood, not just by water ([1 John 5:6](https://biblehub.com/1_john/5-6.htm)).
 - Evil spirits acknowledge extra-biblical and non-biblical activity, but only the Holy Spirit confirms biblical things ([1 Corinthians 4:6](https://biblehub.com/1_corinthians/4-6.htm)).
+- In light of this, there are plenty of obvious, good questions to ask a dubious spirit:
+  - "Is Jesus Lord?"
+  - "Is Jesus cursed?"
+  - "Did Jesus Christ come in the flesh?"
 
 ## Systematically remove the Satan's strongholds
 

@@ -153,7 +153,7 @@ Even with [statistics](math.md), capturing [information](people-image-why.md) fo
 2. Capturing information is a secondary [image](people-image-why.md) to reality, which can make models difficult to represent reality itself, even with reliable data.
 3. All events are statistical likelihoods stacked on statistical likelihoods, so finding legitimate chances with averages requires assigning it to multiple statistics, which become layers of abstraction removed even further away from reality. Eventually, [feelings](mind-feelings.md) grounded in [experience](understanding.md) are often more reliable.
 4. [Statistics](math.md) will find remarkably accurate correlations, but only [logic](logic.md) in the scope of an individual's [understanding](understanding.md) can build causation, which is necessary for predictions.
-5. Sometimes, people who make or [sell](marketing.md) statistics are [lying](people-image-distortion.md) about where they got their information, and are simply working off an [educated](understanding.md) [hunch](mind-feelings.md).
+5. Sometimes, people who make or [sell](marketing-sales.md) statistics are [lying](people-image-distortion.md) about where they got their information, and are simply working off an [educated](understanding.md) [hunch](mind-feelings.md).
 
 ## Predicting many people
 

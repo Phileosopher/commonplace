@@ -51,7 +51,7 @@ To get the best deal, have a list prepared of questions for their Final Question
 - How many [rounds of funding](entrepreneur-6_scaling-cs.md) has the organization had yet?
 - What is the *actual* title of the role you're applying for, and what do you actually *do* most of the time?
 
-Do *not* ask those questions to recruiters, only hiring managers. Recruiters won't be able to answer your question, or may try [selling](marketing.md) you on a not-so-good fit.
+Do *not* ask those questions to recruiters, only hiring managers. Recruiters won't be able to answer your question, or may try [selling](marketing-sales.md) you on a not-so-good fit.
 
 ## The Big Question
 
