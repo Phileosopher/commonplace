@@ -15,7 +15,7 @@ The automation of AVs comes in degrees, and we've already flawlessly attained so
 - Level 1 - There is 1 automated element. The most common version of this is cruise control (or adaptive cruise control that slows from detecting vehicles ahead), where the driver is still in full control of steering and braking. These are as old as governors, and predates the automotive.
 - Level 2 - Employs "advanced driver assistance systems" (ADAS) that help the driver. The driver still sits in the driver's seat and can fully control the car at any time, though, so the features are simply for safety.
 - Level 3 - The car can do most basic tasks, but a human override is still necessary for various "edge cases" (e.g., rainy weather, steep hills, etc.). The automotive has complete autonomy at this point, so this is a major technological wall.
-- Level 4 - The car can do almost everything, but someone can still override the tasks whenever they need. Safety concerns mean it creates very specific and contentious [political issues](power.md) and [moral questions](paradoxes.md).
+- Level 4 - The car can do almost everything, but someone can still override the tasks whenever they need. Safety concerns mean it creates very specific and contentious [political issues](power.md) and [moral questions](philosophy-paradoxes.md).
 - Level 5 - The car can do absolutely everything expected of it, and human interaction is gone, which also means a steering wheel and pedals aren't present anymore.
 
 As it stands in 2022, AVs require tons of development and test data until they can legally drive at Level 3 with full responsibility, and still encounter very profound issues in commonplace edge cases like construction zones. The [marketing hype](marketing.md) definitely lies about [how soon it'll happen](trends.md). However, with enough [machine learning](computers-ai-ml.md) and data, it will eventually become commonplace.
@@ -68,7 +68,7 @@ Laws can also be very difficult to enforce with a vehicle that doesn't have a dr
 
 Another AV issue comes through [insurance](money-insurance.md) issues. The AV's company is fully responsible for events that happen when the car's auto-drive is on, but the human driver behind the wheel is responsible when they're controlling the vehicle. When a human driver can override the automatic driving feature at any time, a person may panic and assume full responsibility for an otherwise-safe maneuver, leaving the human (and not the company) liable for damages caused by that split-second impulse.
 
-Finally, the existence of AV making decisions creates [situational ethics](morality.md) issues that had once been pure chance. An AV can swerve to prioritize saving the driver, saving the passengers, saving the most vulnerable people (e.g., motorcyclists or pedestrians), or causing the least property damage, so [which should it prioritize](paradoxes.md)?
+Finally, the existence of AV making decisions creates [situational ethics](morality.md) issues that had once been pure chance. An AV can swerve to prioritize saving the driver, saving the passengers, saving the most vulnerable people (e.g., motorcyclists or pedestrians), or causing the least property damage, so [which should it prioritize](philosophy-paradoxes.md)?
 
 ## More information
 

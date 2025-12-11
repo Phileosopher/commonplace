@@ -126,7 +126,7 @@ Skilled/smart players want a difficult and unforgiving experience, but newer/uns
   - The easiest implementation of this is a star or rating system.
 - However, no game can please everyone. It'll be too hard for some people, or too easy for others.
 
-In online games that have in-game currency and permit players to trade with each other, the emergent nature of [economic bartering](economics.md) arises.
+In online games that have in-game currency and permit players to trade with each other, the emergent nature of [economic bartering](money-economics.md) arises.
 
 - If the developers only permit cash to flow into the system (i.e., through natural gameplay) but don't allow it to flow *out* of the system, the bartering will slowly yield a natural inflation.
 - To that end, most online game developers have to deal with rudimentary economic policy concepts.

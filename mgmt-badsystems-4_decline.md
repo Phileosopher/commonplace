@@ -1,7 +1,7 @@
 
 # How bad systems decline
 
-The only cure to avoid bad systems starting is a [completely free market](economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](people-decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](people-image-why.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
+The only cure to avoid bad systems starting is a [completely free market](money-economics.md) combined with *tons* of focused [public attention](stories-storytellers.md) on those systems. By permitting the public to freely [decide](people-decisions.md), every organization must devote *all* their [effort](purpose.md) to improving the group's [quality](values-quality.md) or [image](people-image-why.md) to stay competitive. Without that external pressure, the organizations will instead [redirect](purpose.md) their [effort](results.md) to funneling and consolidating [power](power.md) upward.
 
 At a certain point, though, a bad system will eventually emerge if they can amass enough alliances with other organizations, especially through pervasive [media](stories-storytellers.md) presence that [redirects the truth](people-image-distortion.md).
 

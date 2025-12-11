@@ -147,7 +147,7 @@ By the end, the person has been transformed into a perfect extension of the lead
   - Any deviant thoughts, feelings, and actions are reported to leadership.
 - Uses confession unethically:
   - The leadership use any information about transgressions to disrupt and dissolve identity boundaries.
-  - [Forgiveness and exoneration](mind-feelings-happiness-stress.md) are withheld until they perform a significantly burdensome sacrifice to repay it.
+  - [Forgiveness and exoneration](hardship-forgiveness.md) are withheld until they perform a significantly burdensome sacrifice to repay it.
 
 **Thought control** is a [philosophical](philosophy.md) redirection that conforms a mind to a predetermined [value system](values.md):
 

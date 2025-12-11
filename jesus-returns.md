@@ -79,7 +79,7 @@ The world is slowly trending toward leftism:
 
 Many people will adopt a unified "mark" on the hand or forehead required for all financial transactions:
 
-- This [trend](trends.md) hasn't attained [cultural](people-culture.md) acceptance yet ([Revelation 13:16-17](https://biblehub.com/revelation/13.htm)), but it's believable that people will accept it for [economic payments](economics.md) in the future.
+- This [trend](trends.md) hasn't attained [cultural](people-culture.md) acceptance yet ([Revelation 13:16-17](https://biblehub.com/revelation/13.htm)), but it's believable that people will accept it for [economic payments](money-economics.md) in the future.
 - That mark will somehow connect to "666".
 
 There are still decent people spread throughout society, so it's not likely that we're quite at the end yet:
@@ -141,7 +141,7 @@ From Revelation 6 to 18, the prophecies work down a simple sequence, which is li
 
 1. The world's most powerful dictator (Horseman #1, crowned and with a bow, but no arrow)
 2. The world's worst war (Horseman #2, with a large sword)
-3. The world's worst [economic](economics.md) disaster (Horseman #3, with a scale)
+3. The world's worst [economic](money-economics.md) disaster (Horseman #3, with a scale)
 4. The world's worst death blow (Horseman #4, killing with sword/famine/death/animals)
 5. The world's worst [persecution](hardship-persecution-church.md) (jumps to heaven, with the persecuted calling for justice)
 6. The world's worst earthquake (where everyone asks the rocks to fall on them)

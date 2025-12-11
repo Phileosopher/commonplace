@@ -75,6 +75,16 @@ Every single person has the capacity for evil by making a few key [immoral](mora
 6. Insult and degrade anyone you [dislike](mind-feelings-disgust.md) or who threatens your [power](power.md).
 7. Scale upwards to make a [system](mgmt-badsystems.md) that serves your interests more than others, but maintain a kind-looking [image](people-image-why.md) of [morality](morality.md) to subdue any opposition.
 
+The psychologist Philip Zimbardo charted *exactly* how people become evil:
+
+1. People start by mindlessly taking a first small step, usually because an authority figure told them to.
+2. If they have any attacks of [conscience](humanity-christian.md), they justify their actions by dehumanizing their victims.
+3. By doing someone else's [will](purpose.md), they feel anonymous and, thus, [morally](morality.md) exempt from their actions.
+4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](meaning.md) for their behaviors.
+5. The culture's [power structure](power.md) will mandate blind obedience to authority figures.
+6. Eventually, everyone will adapt to the group's [rules](people-rules.md) without asking questions.
+7. Finally, everyone will passively tolerate [evil](morality-evil.md) through inaction or indifference.
+
 APPLICATION: Everyone is about 20-50 key [decisions](people-decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:
@@ -108,6 +118,41 @@ APPLICATION: If it [feels](mind-feelings.md) good, we should only do it unquesti
 When that self-gratification is left unchecked, we will often seek more [power](power.md) to gain the [substance](addiction-substances.md), and will slowly descend into an [addiction](addiction.md) state.
 
 APPLICATION: The desire for [power](power.md), whenever it's the final [purpose](purpose.md) above all else, is always evil. Even when it started as a desire for [safety](safety.md) or was driven by [fear](mind-feelings-fear.md), desiring power becomes evil when it prioritizes things or [values](values.md) over others. The only cure to this is [humility](morality.md) toward and [love](people-love.md) for others.
+
+The politician Saul Alinsky described the unconstrained playbook for acquiring raw power without ethics:
+
+1. Power is not only what you have, but what the enemy thinks you have.
+   - Power comes from either money or people.
+   - People without power must build it from flesh and blood.
+2. Never go outside your peoples' expertise.
+   - It results in confusion, fear, and retreat.
+   - Feeling secure adds to anyone's backbone.
+3. Whenever possible, go outside the enemy's expertise.
+   - Find ways to increase insecurity, anxiety, and uncertainty.
+4. Make the enemy live up to their rule book.
+   - If the rule is that every letter gets a reply, send 30,000 letters.
+   - You can kill them with this because no one can obey all their rules.
+5. Ridicule is man's most potent weapon.
+   - There is no defense: it's irrational and infuriating.
+   - It also works as a key pressure point to force the enemy into concessions.
+6. A good tactic is one your people enjoy.
+   - They'll keep doing it without urging and come back to do more.
+   - They're doing their thing, and will even suggest better ones.
+   - A tactic that drags on too long becomes a drag, so don't become old news.
+7. Keep the pressure on and never let up.
+   - Keep trying new things to throw the opposition off-balance.
+   - As the opposition masters one approach, hit them from the flank with something new.
+8. The threat is usually more terrifying than the thing itself.
+   - Imagination and ego can dream up many more consequences than any activist.
+9. The best tactics develop operations that keep constant pressure on the opposition.
+   - The unceasing pressure gives reactions from the opposition essential for your campaign's success.
+10. By pushing a negative hard enough, it will push through and become a positive.
+    - Violence from the other side can win the public to your side because the public sympathizes with the underdog.
+11. The price of a successful attack is a constructive alternative.
+    - Never let the enemy score points from catching you without a solution to the problem.
+12. Pick the target, freeze it, personalize it, and polarize it.
+    - Cut off the support network and isolate the target from sympathy.
+    - Go after people and not institutions since people hurt faster than institutions.
 
 ### Conceit/arrogance/pride
 

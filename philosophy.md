@@ -90,7 +90,7 @@ Whether it was through finding [happiness](mind-feelings-happiness.md) irrespect
 
 Ironically, the modern philosophers were utterly dismayed at their discovery of the meaningless. They were seeking truth, but without considering whether something was good or beautiful, and in the utter absence of any [religion](religion.md) to frame it.
 
-APPLICATION: Any philosopher who says we can't know anything, then continues to assert themselves without explaining how knowing that gives any [meaning](meaning.md), has [logically](logic.md) invalidated themselves and isn't worth listening to. This also broadly applies to people in *many* domains (e.g., [science](science.md), [economics](economics.md)) who believe in [statistics](math-stat.md) but claim that correlation doesn't connect with causation.
+APPLICATION: Any philosopher who says we can't know anything, then continues to assert themselves without explaining how knowing that gives any [meaning](meaning.md), has [logically](logic.md) invalidated themselves and isn't worth listening to. This also broadly applies to people in *many* domains (e.g., [science](science.md), [economics](money-economics.md)) who believe in [statistics](math-stat.md) but claim that correlation doesn't connect with causation.
 
 The only way out of it is to accept Lewis' Tao: that [universals](humanity-universals.md) non-negotiably exist, no matter how much we [say](language.md) they don't.
 
@@ -123,7 +123,7 @@ Philosophy is raw [power](power.md), like money or [understanding](understanding
 
 APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](understanding.md), or they're wasting their time.
 
-Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
+Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](money-economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
 
 APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.md) and [traditionally minded](people-culture.md) people) because they ask uncomfortable questions that may threaten the [power of those leaders](power-types.md) and change [the way things have always been done](habits.md).
 

@@ -10,7 +10,7 @@ A. general factors:
 - The [impression](people-image-why.md) we get and our reactions to it.
 - [Short-term](logic.md) versus [long-term](imagination.md) effects of almost everything.
 - Every one of the possibilities we can [imagine](imagination.md), including "[third options](mind-creativity.md)" that often require more [risk](safety.md).
-- The shortage of a specific resource (i.e., "[scarcity](economics.md)").
+- The shortage of a specific resource (i.e., "[scarcity](money-economics.md)").
 
 B. [comfort](mind-feelings.md) factors:
 

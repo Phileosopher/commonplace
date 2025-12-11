@@ -13,12 +13,14 @@ Most modern vernacular runs on the same [mythology](religion-answers.md) (e.g., 
 
 Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](goodlife.md), respectively
 
-Fantasy, science fiction, and horror are based on how we [imagine](imagination.md), but as a [hypothetical](paradoxes.md) into the future.
+Fantasy, science fiction, and horror are based on how we [imagine](imagination.md), but as a [hypothetical](philosophy-paradoxes.md) into the future.
 
 - Historical fiction are thought experiments for the audience to imagine themselves in that past period of time.
 - Alternate histories are heavily curated thought experiments, often with [political](people-conflicts-war-why.md) predictions involved.
 
 ## Themes
+
+[Beauty](values-quality.md) itself represents as a [worthy purpose](purpose.md) in and of itself (e.g., action stories, romance stories).
 
 Water always symbolizes [the unknown](unknown.md), which closely connects with the risks of dying, and the unbounded opportunities that come with traveling on bodies of water. At the same time, running water represents life, which is why it's a popular deterrent against certain monsters like vampires.
 
@@ -90,9 +92,9 @@ Other creatures represent males and masculinity:
 A few directly represent extremes of mental illness:
 
 - Werewolves represent [rageaholics](mind-feelings-anger.md) who abuse people during their fits of rage.
-- Vampires represent narcissists who [selfishly](morality-evil.md) steal life and [meaning](meaning.md) from others.
+- Vampires represent [narcissists](mind-neurodivergence-clusterb-narcissist.md) who [selfishly](morality-evil.md) steal life and [meaning](meaning.md) from others.
 - Ogres and orcs are deformed humans, often representing physical manifestations of [evil](morality-evil.md) people.
-  - Mutants in science fiction represent the capacity for [technology](technology.md) to turn us [evil](morality-evil.md)
+  - Mutants in science fiction represent the capacity for [technology](technology.md) to turn us [evil](morality-evil.md).
 
 A golem is the symbol of [technologically](technology.md) creating automation that reproduces human behavior. This includes Frankenstein's monster, and goes all the way to its modern implementation of [artificial intelligence](computers-ai.md).
 

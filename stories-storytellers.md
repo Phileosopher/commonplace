@@ -39,6 +39,8 @@ People typically [understand](understanding.md) any kind of story, but they need
 
 Storytellers of all forms want their listeners to suspend our natural [disbelief](understanding-certainty.md). They use [feelings](mind-feelings.md) to evoke a realistic experience, and would prefer if we don't ask questions that sabotage that experience.
 
+APPLICATION: The top things that [kill people](hardship-death.md) are diseases, cancer, and accidents. The stories that make the news will always be homicide, suicide, [terrorism](people-conflicts-war-why.md), and dramatic accidents.
+
 Some people or [groups](groups-small.md) make a [career](jobs-specialization.md) of sharing these stories. They can do this from one of several avenues:
 
 1. The [authority in charge](groups-large.md) wants someone to spread information, sometimes as if it were an independent [perspective](people-image-why.md).
@@ -56,9 +58,53 @@ APPLICATION: We must be [critical](logic.md) of what we hear, but also *why* peo
 
 APPLICATION: The second-best way to discover the historical and journalistic facts are to read *both* sides of the story and [conclude](logic.md) for yourself. However, it's difficult to share those conclusions (or not share) without your *own* [political](power.md) manipulation. The *best* way is to read the facts themselves, but that's typically more boring than most people can withstand.
 
+## Propaganda
+
 Naturally, a masterful image manager can make themselves look more authoritative. The [natural trust](groups-member.md) people give [large groups](groups-large.md) makes large-scale "news outlets" sound [reputable](people-image-why.md), even when they haven't [proven](results.md) their reputation's [trustworthiness](trust.md). This maintains itself because they build stories designed to confirm the audience's [bias](mind-bias.md).
 
 APPLICATION: The most reliable way to convey a message is through embellishing the truth. By converting the story into a [mythological tale](stories-myths.md), it travels farther because it hits the [emotions](mind-feelings.md) more. Plus, if the reality of the story is *also* absurd, the "fact-checkers" who oppose the story will give more weight to that story's credibility.
+
+In general, effective propaganda will exploit our [feelings](mind-feelings.md) and [bias](mind-bias.md) to [distort the image](people-image-distortion.md) so heavily that it bypasses any [logic](logic.md) we'd be able to throw at it. It distills to nine major principles:
+
+1. [Lie](people-lying.md) big: Grandiose lies are easier to [sell](marketing.md) because people feel there must be a grain of truth to them, and that nobody would make up a story that preposterous.
+2. Focus: Avoid complicating the story with [history](history.md) to keep it simple.
+3. Repeat: People can't tell the difference between facts and familiarity, so repeating the same words or phrases endlessly will appear to be true.
+4. Blame: Never credit the opposition with anything, and direct all bad things toward them until they are no longer human.
+5. Provoke: Use vague and broad assertions that stir up [anger](mind-feelings-anger.md), [fear](mind-feelings-fear.md), and resentment. Avoid specific [language](language.md) that would otherwise stir up logic, reasoning, or facts.
+6. Crisis: Issues must always be binary life-or-death, good-versus-evil, love-versus-hate, us-versus-them battles. There is no room to object if it's urgent.
+7. Emotion: People can questions facts, but they can never question their feelings or others' feelings.
+8. Pander: Generously praise allies and demonize everyone who doesn't as acting in bad faith or a non-expert in the matter.
+9. No limit: If anyone wins, they define what is [moral](morality.md), so winning has no place for ethics.
+
+In the [information age](information.md), there is a reliable method for disseminating propaganda across [large groups of people](groups-large.md):
+
+1. Nozzle (injection jet)
+   - Make a small, fast, directed stream of attention to begin the motion.
+   - Have a journalist, outlet, or influencer make a claim.
+   - The claim doesn't need to be true, it just needs velocity: moves fast, emotionally charge, and sounds plausible.
+   - e.g., "Homeowners are in an uproar over the new tax bill"
+2. Low-Pressure Zone (emotive vacuum)
+   - There's a drop in pressure around the higher velocity, which is an affective void that needs others to fill it.
+   - Neutral observers will feel the "suction" of its relevance.
+     - It'll represent as, "Wait, are people really angry about that?"
+   - Other media players will rush to fill the void (e.g., fact-checkers, reactions, memes, counter-reactions).
+   - Now, both sides are pulled into the uproar:
+     - One side is *defending* against the imaginary outrage.
+     - The other side is *mocking* and *exaggerating* it.
+   - Even when people don't care, they're now tangled into it as well with debates, reposts, and reactions.
+3. Entrainment
+   - The original high-velocity jet "entrains" a much larger and slower mass of cultural fluid (i.e., the public).
+   - The victims of the original allegation are represented as antagonists.
+     - The "defenders" form an [identity](identity.md) around opposing them.
+   - The real antagonism, however, never existed, and was instead induced in the first stage.
+   - The public discourse is now the circulating energy between the two groups.
+     - It maintains an illusion of a genuine cultural conflict.
+4. Sustainability
+   - This process reinforces itself.
+     - More coverage creates more suction.
+     - More reaction creates more flow velocity.
+   - Eventually, even neutral participants will feel pressure to pick a side.
+   - The only way this stops is through the collective public's fatigue.
 
 ## Retelling
 
@@ -101,7 +147,7 @@ Today's news, after enough time, becomes a historical record. Historians in [a f
 
 Beyond misinformation, history magnifies its [distorted lens](people-image-distortion.md) through only several motivations that drive the people who record the information:
 
-1. Highly successful [narcissists](mind-neurodivergence-narcissist.md) sharing their opinion of their successes.
+1. Highly successful [narcissists](mind-neurodivergence-clusterb-narcissist.md) sharing their opinion of their successes.
 2. Nostalgic memories recorded as if they were fact.
 3. People who want to memorialize every detail of what had happened.
 

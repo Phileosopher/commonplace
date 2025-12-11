@@ -74,7 +74,7 @@ They must learn a wide variety of life skills:
 Help them manage uncertainty and ambiguity:
 
 - Give them the correct context to express and anticipate trauma, joy, hope, and love.
-- By age 7, they can imagine the concept of infinity, so openly discuss the [eternal questions](paradoxes.md) about life, conception, aging, [death](hardship-death.md), and [things *nobody* knows](religion.md).
+- By age 7, they can imagine the concept of infinity, so openly discuss the [eternal questions](philosophy-paradoxes.md) about life, conception, aging, [death](hardship-death.md), and [things *nobody* knows](religion.md).
 
 They must learn how to manage money:
 

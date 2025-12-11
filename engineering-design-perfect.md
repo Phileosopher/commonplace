@@ -79,4 +79,4 @@ The demands to create this only require changing a few key components of human n
 
 Also, this entire system must be open-ended enough to accept any changes I haven't thought of. Human nature must be inherently good in such a way as to prevent this system getting perverted beyond repair.
 
-If these requirements can't be met, don't bother, since you'll make a more horrifying arrangement than the [free market](economics.md) already has, and you may as well aim for "good enough".
+If these requirements can't be met, don't bother, since you'll make a more horrifying arrangement than the [free market](money-economics.md) already has, and you may as well aim for "good enough".

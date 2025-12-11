@@ -18,7 +18,7 @@ A. Raise your issues early:
   - Gently approaching issues is difficult if you've spent lots of time thinking about it without feedback.
 - Expect they want to resolve the [conflict](people-conflicts.md) as much as you.
   - If you have a grudge with them, they're entitled to one with you as well.
-  - [Release your resentment](mind-feelings-happiness-stress.md) with them, and openly express if you have any.
+  - [Release your resentment](hardship-forgiveness.md) with them, and openly express if you have any.
 
 B. Approach at the right time:
 

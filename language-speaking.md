@@ -52,7 +52,7 @@ If you want to continue the discussion later, agree on a time or place with them
 
 When you accidentally offend, apologize and leave:
 
-- You *can't* back out of an [offense](hardship-ptsd.md) because they must [forgive](mind-feelings-happiness-stress.md) you for it at their timing.
+- You *can't* back out of an [offense](hardship-ptsd.md) because they must [forgive](hardship-forgiveness.md) you for it at their timing.
 - The best thing you can do is give them time to process it and connect with other people.
 - Often, if you *do* readdress the matter to recover your reputation, you will seem even *more* offensive unless you can make yourself suffer more than them.
 

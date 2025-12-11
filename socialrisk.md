@@ -96,7 +96,7 @@ If it's not obvious, this is a *massive* vote of [confidence](trust.md) in the [
 
 APPLICATION: Pay close attention to the heretics, since the [new trends](trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
 
-The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](people-decisions.md)* to give them [power](power.md) to keep them going.
+The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](money-economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](people-decisions.md)* to give them [power](power.md) to keep them going.
 
 This success won't be without opposition. Every new trend means the death of an old one, and the [groups losing power](mgmt-badsystems.md) will try to shut it down to maintain their way of life. For this reason, most of the individuals who make the risks against established convention will *not* succeed.
 
@@ -117,7 +117,7 @@ APPLICATION: If you're going to take a risk, keep your head down and stay as und
 
 If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](trends.md) to arise and the role to replay itself.
 
-APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](economics.md).
+APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](money-economics.md).
 
 ## Failure
 

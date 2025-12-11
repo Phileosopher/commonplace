@@ -63,7 +63,7 @@ However, since the protesters are leaders of an opposition force that may run th
 
 Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](people-decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
 
-APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
+APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](money-economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
 
 If there's enough opposition, that protesting group can split off into its own group altogether. If the original group [disagrees](people-conflicts-why.md) (which is common because it's a tremendous loss of [power](power.md)) this will incite a large-scale civil war, and the former leader will almost always fight the split with everything they can employ.
 

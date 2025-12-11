@@ -158,6 +158,13 @@ Focus on smaller chunks of information as you observe:
 
 Incorporate as many senses into the experience as possible:
 
+- After 2 weeks, studies have shown we have more long-term memory of events we're more involved in:
+  - 90% of what we say and do (e.g., doing something, simulations, public demonstration)
+  - 70% of what we say (e.g., giving a talk, speaking in a group)
+  - 50% of what we hear and see (e.g., seeing it done, watching a demonstration, looking at an exhibit, watching a video)
+  - 30% of what we see (e.g., looking at photos)
+  - 20% of what we hear (e.g., audiobook, podcast)
+  - 10% of what we read (e.g., articles, books)
 - Physically act out with your body as you listen or see things you want to remember.
 - If you can use expressive body language (which may look like interpretive dance) you can create a strong connection to the words.
 - Try to associate the experience to as many other experiences you've had in your past, and focus on things that tie to your [feelings](mind-feelings.md).

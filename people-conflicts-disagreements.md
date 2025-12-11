@@ -60,7 +60,7 @@ To gain more information and [understanding](understanding.md), behave like you'
 - Frame your requests as if they just occurred to you.
 - Of course, if *they* are doing it to *you*, they're trying to gather their own information.
   - If you've been [honest](people-lying.md), there really is nothing to worry about.
-  - However, that behavior without justifiable cause is a trait of a [narcissist](mind-neurodivergence-narcissist.md), so limit your time with them.
+  - However, that behavior without justifiable cause is a trait of a [narcissist](mind-neurodivergence-clusterb-narcissist.md), so limit your time with them.
 
 ## Convincing them
 
@@ -94,14 +94,14 @@ Conflicts tend to escalate through stages:
 
 However, if people are restrained, they will skip over some of the escalation stages.
 
-- [Narcissists](mind-neurodivergence-narcissist.md) will typically skip over yelling.
+- [Narcissists](mind-neurodivergence-clusterb-narcissist.md) will typically skip over yelling.
 - Criminally-minded people will often move straight to deviant behavior.
 
 The only way to slow this escalation is to speak gently and slowly.
 
 - This doesn't stop it, though, and only stops escalating through the other person feeling they've been understood and are safe.
 - Since de-escalation is also their responsibility, it's wisest to give time to cool off, but will only improves relations if it's done before the interruptions have become yelling.
-  - Alternately, if any de-escalations don't improve relations, that person may be a [narcissist](mind-neurodivergence-narcissist.md)
+  - Alternately, if any de-escalations don't improve relations, that person may be a [narcissist](mind-neurodivergence-clusterb-narcissist.md)
 
 ### Avoid escalations
 

@@ -7,6 +7,10 @@ Amillennial - The eschatological view that Revelation is not depicting a millenn
 
 Angelology - The systematic theology branch that addresses what angels are
 
+Apophatic theology - aka negative theology, finding truths by affirming what things aren't, contrasts with cataphatic theology
+
+Apotheosis - aka divinization, the process of God's grace on man, contrasts with theosis, Western churches use the concept more
+
 Arminianism - The belief that humanity's free will is distinct from God's sovereignty, tends to exist as [compatibilism](glossary-philosophy.md), often emphasizes [spiritual gifts](spiritual-gifts.md)
 
 Atonement - establishing a decent relationship between two parties through reparations and agreement
@@ -14,6 +18,8 @@ Atonement - establishing a decent relationship between two parties through repar
 Bibliology - The systematic theology branch that addresses the Bible
 
 Calvinism - The belief that God is sovereign, can veer into [fatalism](glossary-philosophy.md)
+
+Cataphatic theology - aka affirmative theology, finding truths by affirming what things are, contrasts with apophatic theology
 
 Christology - The systematic theology branch that addresses God as Jesus Christ
 
@@ -120,6 +126,8 @@ Teleology - The systematic theology branch that addresses God's reasoning
 Theistic evolution - An Old Earth creationism view that God created the Earth across millions of years of evolution, with each "day" being a distinct era
 
 Theophany - A direct and personal encounter with God
+
+Theosis - aka deification, the process of man becoming unified with God, contrasts with apotheosis, Eastern churches use the concept more
 
 Theological anthropology - The systematic theology branch that addresses who people are with respect to God creating us
 

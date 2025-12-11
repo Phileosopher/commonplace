@@ -72,4 +72,4 @@ However, compared to many other things, your possessions aren't that important.
 - If nobody gets hurt, you and those you love are fortunate.
 - What you're likely *more* upset about than losing your possessions is the feeling that someone can violate your boundaries so inconsiderately.
 
-You can't do anything about what you've lost, so learn to be [safer](safety-security.md) for the future and learn to [forgive and release](mind-feelings-happiness-stress.md).
+You can't do anything about what you've lost, so learn to be [safer](safety-security.md) for the future and learn to [forgive and release](hardship-forgiveness.md).

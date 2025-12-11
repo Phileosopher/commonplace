@@ -12,7 +12,7 @@ While leftism started with some ideas from intellectuals like Plato and Thomas M
 
 In practice, though, leftism *always* has the same mechanism:
 
-1. Establish a powerful minority as a [capitalizing](economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
+1. Establish a powerful minority as a [capitalizing](money-economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
 2. Blame many of the current issues on the excessive ownership by that powerful minority.
 3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
 4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
@@ -33,7 +33,7 @@ Leftists are mostly correct that most [social movements](trends.md) have been [p
 
 The concept of a State that runs society requires believing that people can't run themselves. Thus, [specialized experts](jobs-specialization.md) can run their lives more productively and people will be happier and find [meaning](meaning.md) from their needs being met.
 
-This also applies to geopolitical events. Instead of permitting human nature to wrestle it out in a [free market](economics.md), the general approach instead is that [large groups](groups-large.md) can be run by administrators in other large groups.
+This also applies to geopolitical events. Instead of permitting human nature to wrestle it out in a [free market](money-economics.md), the general approach instead is that [large groups](groups-large.md) can be run by administrators in other large groups.
 
 This presumption, however, implies all things can be [known](understanding.md). [Empirically](science.md), the more we know, the more we're [aware](awareness.md) of what we *don't* know. Thus, to have overseers directing people to performing specific tasks (which they may not want to do) is far less reliable than each person working their respective tasks while [competing](people-conflicts-why.md) against their peers for personal gain.
 
@@ -58,7 +58,7 @@ People must operate on a few [presumptions](understanding-certainty.md) to belie
 2. There is no absolute [morality](morality.md) or [truth](reality.md). The State defines [justice](morality-justice.md), not [God](religion.md).
 3. As a product of the non-absolute nature of humanity, human nature can be changed directly, with enough centralized control over the process.
 4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
-5. Even with central [control](people-rules.md), free-market [economies](economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
+5. Even with central [control](people-rules.md), free-market [economies](money-economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
 6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](people-decisions.md) or [doing](results.md).
 
 The practical effect of leftism is that the government should receive [power](power.md) to give the better [results](results.md) of the stronger to the weaker. Thus, everyone will have the same things. Their reasoning is that ordered [justice](morality-justice.md) is more important than the chaotic nature of many opportunities, which is a product of disbelieving in [natural law](politics-conservativeliberal.md).
@@ -101,7 +101,7 @@ The most prominent form of classification comes through [identity](identity.md) 
 - Housing - property owners oppress renters and the homeless.
 - Metabolism - slim people oppress average and fat people.
 
-In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](https://books2read.com/autism/) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
+In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](mind-neurodivergence-autism.md) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
 
 By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against the alleged oppressor class (i.e., heterosexual white neurotypical males within identity politics).
 
@@ -130,7 +130,7 @@ There are a few realities (mostly [scientifically](science.md) proven) that conf
 However, leftists can still politicize the weather because people are [afraid](mind-feelings-fear.md) of [uncertainties](unknown.md) about [what really runs the universe](religion.md):
 
 - The risks of climate change shift with [political](politics-conservativeliberal.md) fashions. It's sometimes global warming (especially in the summer), and other times global cooling (especially in the winter), and usually stays vague while implying it's a political opponent's fault.
-- They claim that our water supply is diminishing. In reality, we have [technology](technology.md) to desalinate any water we need if our water supply became [scarce](economics.md) enough.
+- They claim that our water supply is diminishing. In reality, we have [technology](technology.md) to desalinate any water we need if our water supply became [scarce](money-economics.md) enough.
 - They've claimed that man-made [industrialization](jobs-specialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
 - One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](people-culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
 

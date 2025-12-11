@@ -49,7 +49,7 @@ Opponents quickly respond:
 - There's no way to permanently suppress illegal distribution of content.
 - It's unethical that individuals can't consume something that could positively improve their lives, especially when specific national laws suppress freedom to consume that media.
 
-There's not much scientific information about money lost on IPs, but the EU *did* try to suppress [a 300-page scientific study](https://felixreda.eu/wp-content/uploads/2017/09/displacement_study.pdf) that indicates that the only time [IP](legal-ip.md)-holders lose money is when it's a new release. This does make sense, since media typically becomes easy to acquire (and also part of the public consciousness to where it's not as [in-demand](economics.md)) proportionally to how long it has been published.
+There's not much scientific information about money lost on IPs, but the EU *did* try to suppress [a 300-page scientific study](https://felixreda.eu/wp-content/uploads/2017/09/displacement_study.pdf) that indicates that the only time [IP](legal-ip.md)-holders lose money is when it's a new release. This does make sense, since media typically becomes easy to acquire (and also part of the public consciousness to where it's not as [in-demand](money-economics.md)) proportionally to how long it has been published.
 
 This doesn't change the current legality of intellectual property, though. There are specific clauses such as fair use that permit educational purposes and parody, and many varieties of more lenient IPs exist for people who don't feel driven to the severely confining scope of copyright (e.g., [creative commons](legal-ip.md), [LGPL](legal-ip-floss.md)).
 
@@ -155,7 +155,7 @@ The controversy of torrenting has become almost a mainstay of society:
 
 1. As long as [large organizations wish to exert power](groups-large.md), and [the law honors it](people-rules.md), they will try to shut piracy down.
 2. However, law enforcement only abates the wave, and never successfully shuts anything down completely.
-3. New technologies give the public even *more* power. The decentralized BitTorrent protocol, for example, has inspired [blockchain](computers-blockchain.md), which now competes as a strange de facto alternative to [government-issued currency](economics.md).
+3. New technologies give the public even *more* power. The decentralized BitTorrent protocol, for example, has inspired [blockchain](computers-blockchain.md), which now competes as a strange de facto alternative to [government-issued currency](money-economics.md).
 
 Many software entrepreneurs and executives [aren't particularly aware](trends.md) of the mindset of pirates, and it creates a few odd arrangements:
 

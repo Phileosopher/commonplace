@@ -69,7 +69,7 @@ Post-processing isn't exempt from [politics](power-types.md), either. Film indus
 
 Further, perspective in our eyes works differently than perspective in a photograph. Photos capture the raw information evenly across a panel, while we capture *more* information at the center of our eye's focus than on the edge. This makes the center of something look somewhat larger by comparison to everything else, and photos are incapable of capturing that distinction.
 
-Among the [market](economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](engineering-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
+Among the [market](money-economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](engineering-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
 
 ## More information
 

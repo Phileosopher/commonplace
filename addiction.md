@@ -65,7 +65,7 @@ Addicts' obsession tends to disregard the natural state of [habits](habits.md):
 
 - Habits are made of a trigger, method, and reward.
 - An addict will [desire](purpose.md) their reward so much that they'll perform every method possible just to attain a *[chance](trust.md)* or *[hope](imagination.md)* of that reward.
-- Every single thing we use more than once gives a diminishing return, which is the [economic](economics.md) fact that using one more of something will be slightly less effective than the previous one.
+- Every single thing we use more than once gives a diminishing return, which is the [economic](money-economics.md) fact that using one more of something will be slightly less effective than the previous one.
 
 Every addict of every substance has a few shared characteristics:
 
@@ -98,7 +98,7 @@ Even when someone hates a substance (like most late-stage addicts do), its power
 
 The substance's absence doesn't resolve the issue, either. Addicts can often engage in [habits](habits.md) of abstinence, which can develop a [cycle](trends.md) of abuse, excess, burnout, abstinence, relapse, and back to abuse. Since abstinence often enhances an experience, this can become a long-term lifestyle.
 
-People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](economics.md) will create more addicting things:
+People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](money-economics.md) will create more addicting things:
 
 - Many new food products are [delicious](cooking.md) from [unhealthy additions](body-health.md).
 - Many gamers are modern book addicts who no longer need a vivid [imagination](imagination.md).

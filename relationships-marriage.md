@@ -253,13 +253,13 @@ A marriage "crisis" is the buildup of small issues:
   8. The rift between the spouses grows and the cheating spouse will suspect the *faithful* spouse of cheating.
      - They will suspect them to the degree they distrust them.
      - The faithful spouse will have no clue and be puzzled by the others' behavior.
-  9. Eventually, unless they both start expressing more vulnerability (and sincerely apologizing and [forgiving](mind-feelings-happiness-stress.md)), the marriage will become a hollow existence or lead to divorce.
+  9. Eventually, unless they both start expressing more vulnerability (and sincerely apologizing and [forgiving](hardship-forgiveness.md)), the marriage will become a hollow existence or lead to divorce.
 
 The best way to stop the risk of cheating is to increase your transparency with your spouse and encourage them to do the same.
 
 If your partner is resentful or angry, you can't do much about it:
 
-- Seek forgiveness, but [release it](mind-feelings-happiness-stress.md) if they won't forgive you and won't communicate what you must do for them to forgive you.
+- Seek forgiveness, but [release it](hardship-forgiveness.md) if they won't forgive you and won't communicate what you must do for them to forgive you.
 - The only way for them to change is through their own decision to release and forgive.
 - If you've openly apologized and done everything you can to improve the situation, and they still won't change, all you can do is wait for them to have a life-changing experience:
   - A [near-death experience](hardship-death.md) or death of a loved one

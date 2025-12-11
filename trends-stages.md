@@ -94,7 +94,7 @@ APPLICATION: Huge, society-spanning trends often come from awful conflicts and h
 
 - The Golden Age of the Renaissance in Europe arose from the tragic experiences of seeing the Bubonic Plague destroy most of the continent, likely because people focused on [meaning](meaning.md) from [mortality](legacy.md) and how to [live well](goodlife.md) in light of it.
 - After The Great World War (WWI), Germany was utterly ravaged. That hatred led to [passions](purpose.md) which advanced Germany's Nazi Party in an election, mostly from a desire to [justly](morality-justice.md) take back the [power](power.md) they had held.
-- France was [economically](economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
+- France was [economically](money-economics.md) ruined after World War II. In that depression, they created the Eiffel Tower to express their [patriotic solidarity](groups-member.md).
 
 Like early adopters' [conflict](people-conflicts-inner.md), the early majority also care a *lot* about [how they look](people-image-why.md). However, they're *far* more [terrified](mind-feelings-fear.md) of [breaking](morality-taboo.md) the group's [rules](people-rules.md).
 

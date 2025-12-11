@@ -153,7 +153,7 @@ No matter what, all sufficiently worthwhile jobs have the same components:
 2. The freedom for you to address problems as needed ([creativity](mind-creativity.md))
 3. The ability to influence others with your decisions ([impact](power-influence.md))
 4. [What you're good at](success-6_humility.md) and [built to love doing](personality.md) ([competence](results.md))
-5. Someone else doesn't want to or can't do it, so they'll pay you to do it ([demand](economics.md))
+5. Someone else doesn't want to or can't do it, so they'll pay you to do it ([demand](money-economics.md))
 
 Every job is a hybrid of only a few types of roles:
 

@@ -40,50 +40,7 @@ Everyone who hates God will hate God's people [by association](symbols.md).
 
 The world's authorities abuse [power](power.md) to prove they're more powerful than God, and [feel](mind-feelings.md) they will have subdued or killed Him if they can capture, [coerce](power-influence.md), or kill *all* Christians.
 
-The politician Saul Alinsky describes the Satan's playbook well:
-
-1. Power is not only what you have, but what the enemy thinks you have.
-   - Power comes from either money or people.
-   - People without power must build it from flesh and blood.
-2. Never go outside your peoples' expertise.
-   - It results in confusion, fear, and retreat.
-   - Feeling secure adds to anyone's backbone.
-3. Whenever possible, go outside the enemy's expertise.
-   - Find ways to increase insecurity, anxiety, and uncertainty.
-4. Make the enemy live up to their rule book.
-   - If the rule is that every letter gets a reply, send 30,000 letters.
-   - You can kill them with this because no one can obey all their rules.
-5. Ridicule is man's most potent weapon.
-   - There is no defense: it's irrational and infuriating.
-   - It also works as a key pressure point to force the enemy into concessions.
-6. A good tactic is one your people enjoy.
-   - They'll keep doing it without urging and come back to do more.
-   - They're doing their thing, and will even suggest better ones.
-   - A tactic that drags on too long becomes a drag, so don't become old news.
-7. Keep the pressure on and never let up.
-   - Keep trying new things to throw the opposition off-balance.
-   - As the opposition masters one approach, hit them from the flank with something new.
-8. The threat is usually more terrifying than the thing itself.
-   - Imagination and ego can dream up many more consequences than any activist.
-9. The best tactics develop operations that keep constant pressure on the opposition.
-   - The unceasing pressure gives reactions from the opposition essential for your campaign's success.
-10. By pushing a negative hard enough, it will push through and become a positive.
-    - Violence from the other side can win the public to your side because the public sympathizes with the underdog.
-11. The price of a successful attack is a constructive alternative.
-    - Never let the enemy score points from catching you without a solution to the problem.
-12. Pick the target, freeze it, personalize it, and polarize it.
-    - Cut off the support network and isolate the target from sympathy.
-    - Go after people and not institutions since people hurt faster than institutions.
-
-And, the psychologist Philip Zimbardo charted *exactly* how people become evil:
-
-1. People start by mindlessly taking a first small step, usually because an authority figure told them to.
-2. If they have any attacks of [conscience](humanity-christian.md), they justify their actions by dehumanizing their victims.
-3. By doing someone else's [will](purpose.md), they feel anonymous and, thus, [morally](morality.md) exempt from their actions.
-4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](meaning.md) for their behaviors.
-5. The culture's [power structure](power.md) will mandate blind obedience to authority figures.
-6. Eventually, everyone will adapt to the group's [rules](people-rules.md) without asking questions.
-7. Finally, everyone will passively tolerate [evil](morality-evil.md) through inaction or indifference.
+- As [evil](morality-evil.md) as this is, we must remember that God is greater.
 
 Even in tyrannical societies, *most* of the people are simply watching:
 

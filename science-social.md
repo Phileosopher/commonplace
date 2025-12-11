@@ -12,7 +12,7 @@ There are *many* social sciences, and they all have a limited scope of influence
 - [Sociology](groups-small.md): measuring how groups of people behave
 - [Cultural anthropology](people-culture.md): measuring [comparisons](people-culture.md) of how groups of people behave
 - [Political science](politics-systems.md): measuring how to govern large groups of people
-- [Economics](economics.md): measuring interactions and activity in large groups
+- [Economics](money-economics.md): measuring interactions and activity in large groups
 
 ## Obvious unanswered questions
 

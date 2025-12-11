@@ -25,7 +25,8 @@ B. The lender expects a minimum payment:
 C. Loans with higher balances often stagger payments toward interest:
 
 1. The lender assumes the borrower will make minimum payments and calculates all future interest (e.g., $1000 at 10% across 65 months is $299).
-2. Most of the first payments go almost entirely to interest (e.g., (e.g., in Month 1, a $20 payment sends $19 to interest and $1 to principal).
+2. Most of the first payments go almost entirely to interest (e.g., in Month 1, a $20 payment sends $19 to interest and $1 to principal).
+   - This is called "front-loaded interest", and is a predatory debt issuing tactic.
 3. Overpayment goes to principal, assuming the loan hadn't specified different terms (in Month 2, a $30 payment sends $19 to interest and $11 to principal).
 4. Near the end of the loan's life, the principal is a larger portion of the payment (in Month 40, a $20 payment will send $4 to interest and $16 to principal).
 5. This staggered payment ratio makes minimum loan payments *dramatically* pricier than paying them off early.
@@ -126,7 +127,7 @@ Credit reports pull data from your past 7-10 years:
   - Any bankruptcies or judgments in the past ten years
   - Bank overdrafts
   - Missing or on-time bill payments
-- 30%: debt level
+- 30%: debt level ("credit utilization")
   - Credit accounts and their limits
   - Unused credit accounts that are left o:pen
   - A manageable percentage of your income going to payments is considered best
@@ -136,7 +137,7 @@ Credit reports pull data from your past 7-10 years:
   - Credit cards, large purchases, mobile phone and rent contracts, mortgages
   - Personal loans
   - How frequently you apply for credit and where (less is better)
-- 10%: the types of credit, with any financial associates and bank details (fewer banks are better)
+- 10%: the types of credit, with any financial associates and bank details ("credit mix", fewer banks are better)
 
 3 different bureaus calculate your credit scores (Equifax, Experian, TransUnion)
 
@@ -157,7 +158,7 @@ A credit score is a measurement of how much you use and manage debt:
 
 Getting a high credit score is easy:
 
-1. Only have 1 credit card that reports to all 3 bureaus.
+1. Only have 1 credit card that reports to all 3 bureaus. Don't ever close old credit cards.
 2. Accrue less than 10% on that credit card routinely (e.g., refueling gasoline).
 3. Pay off the *entire* balance twice a month
 4. If you're ever performing multiple hard inquiries (e.g., [mortgage shopping](home-buy.md)), do it within a 14-day window to make it register as one hard check.

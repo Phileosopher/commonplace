@@ -73,12 +73,12 @@ Our [self-esteem](identity.md) is essentially our extraversion (as a positive em
 Most things we call "personality disorders" are simply the combination of personality characteristics that create adverse [consequences](results.md) for society:
 
 - Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](people-image-why.md) about [reality](reality.md).
-- Cluster B personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion.
+- [Cluster B](mind-neurodivergence-clusterb.md) personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion mixed with early childhood [PTSD](hardship-ptsd.md).
 - Cluster C personality disorders break into several domains:
   - Avoidant personality disorder is high agreeableness and low extraversion.
   - Dependent personality disorder is high agreeableness and low conscientiousness.
   - Obsessive-compulsive disorder is low agreeableness and high conscientiousness.
-- While it's more neurological than personality, the [autism spectrum](https://books2read.com/autism/) is the extremes of extraversion low enough to not detect others' body language, high conscientiousness, and high neuroticism.
+- While it's more neurological than personality, the [autism spectrum](mind-neurodivergence-autism.md) is the extremes of extraversion low enough to not detect others' body language, high conscientiousness, and high neuroticism.
 
 Beyond that, there are a wide variety of mixtures when these 5 base components fit together into synergies.
 

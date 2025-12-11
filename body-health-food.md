@@ -10,7 +10,7 @@ Modern manufacturers want foods and drinks to be more [addicting](addiction.md) 
 - Removing dietary fiber.
 - Adding oil or fat, especially saturated and trans fat.
 
-To lower costs, lengthen shelf life, and [stay competitive](economics.md), many foods can remove or substitute healthy options for not-so-healthy ones:
+To lower costs, lengthen shelf life, and [stay competitive](money-economics.md), many foods can remove or substitute healthy options for not-so-healthy ones:
 
 - Adding preservatives and colorants that can cause liver damage (e.g., most canned foods contain at least some BPA).
 - Adding allergens like soy-based derivatives (soy lecithin, soy protein isolate) or Red 40 colorant instead of something else.
@@ -127,7 +127,7 @@ Most food is only a *little* unhealthy:
 
 Avoid concentrated sugars, in everything.
 
-- This is by far *the* hardest diet decision you can ever make in a civilized society with a [free market](economics.md) because they stick sweetener in *absolutely everything*!
+- This is by far *the* hardest diet decision you can ever make in a civilized society with a [free market](money-economics.md) because they stick sweetener in *absolutely everything*!
 
 Generally, avoid saturated fat (especially trans fat) and lean heavier into unsaturated fats (monounsaturated and polyunsaturated).
 

@@ -9,7 +9,7 @@ Formalized arrangements are the foundation of most business, and they're all con
 - Property law - for high-value properties like [real estate](home-maintenance.md)
 - Intellectual property law - for [intellectual property](legal-ip.md) ownership and enforcement
 - Commercial/trade law - for [large-scale](groups-large.md) law matters such as corporations across multiple nations
-- Competition law - for preserving [free market competition](economics.md)
+- Competition law - for preserving [free market competition](money-economics.md)
 - Insurance law - for protecting against losses in the course of contractual agreements
 
 Generally, contracts are either payment (trading a good for another good or a service) or reciprocal (where both sides must perform).

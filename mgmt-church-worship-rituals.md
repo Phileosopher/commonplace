@@ -1,12 +1,56 @@
 
-# Sacraments and rituals list
+# Church sacraments and rituals
 
-This is a list of sacraments and rituals historically kept through the Church.
+Most of the conventions that make a "typical" church are borrowed from a few source traditions:
 
-To make it simpler, there's a clarification legend throughout this body of text:
+1. The Hebrew temple had many traditions established (many of them from [Levitical law](https://biblehub.com/leviticus/1.htm)).
+2. After the Temple fell in [2 Kings 24:10-14](https://biblehub.com/2_kings/24.htm), the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
+3. New followers of Christ [imitated synagogue tradition](history-church.md) (mostly) and added their own adaptations.
+4. As Gentiles arrived, some traditions were removed or permuted to accommodate non-Hebrews.
+5. By approximately 200 AD, the Catholic Church later codified and standardized those traditions.
+6. Within a few centuries, the Catholic traditions were practically the law, and the cultural assimilation meant pagan rituals merged into the practice.
+7. Starting in 1517, the Protestant Church *removed* many of those traditions, but didn't add many.
 
-- R: Roman Catholic tradition
-- E: Eastern Orthodox tradition
+The [Bible](bible.md) itself only has a few verses that indicate daily details on how to run a church:
+
+- *Some* sacraments (i.e., communion/Eucharist and baptism), though on a more personal level and without many details.
+- Specific qualifications necessary within people you wish to appoint as [leaders](mgmt-church.md).
+- Almost every other Bible verse about the church are simply [patterned expansions](symbols.md) into a [corporate culture](groups-small.md) from living among [family and friends](people-family.md).
+
+However, across a few thousand years, the Church *has* had some good ideas.
+
+- Those ideas may or may not be good for your [culture](people-culture.md), and they're not necessary to run a church.
+- The things you pick-and-choose should conform to [how that congregation is gifted](spiritual-gifts.md) and [how God designed them](identity.md).
+
+While [Christian rituals](mgmt-church-worship-rituals.md) are *very* heavily inspired by Jewish and pagan tradition, the [redemption in Christ](jesus-gospel.md) makes the entire experience direct into a different form towards the [unknown](unknown.md).
+
+- Further, *how* the rituals are performed can create a dramatic difference in how the congregants interpret it.
+
+Each denomination derives a certain form of [meaning](meaning.md) over rituals by *their* interpretation.
+
+- Over the centuries, many of the rituals have been expanded *far* beyond the Bible, and the biblical basis is either [nonexistent](theology-solae.md) or only partly applicable.
+
+To that end, this is an attempt to indicate all the ways you *could* do church.
+
+- You can, however, apply any Bible verses about living well on an individual level to make new rituals and sacraments, which will likely spin into [a different denomination](history-church.md) over time.
+- A church should develop its own creativity in discovering new ways to live more like Christ ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
+
+Therefore, while most of the essays here use Bible citations, this page doesn't call for an exhaustive listing.
+
+- If a believer has read through the Bible at least once, they should be able to see what the pattern is and why it would make sense.
+
+None of the following are technically "necessary" for any salvation-based matters.
+
+- The Bible makes it clear that God saves us, not the way we conduct our rituals ([Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)).
+- Instead, a ritual's purpose is the same as any other [spiritual exercise](spiritual-exercises.md): to create a [habitual rhythm](habits.md) that fosters [virtuous living](morality.md).
+- Religious observance also creates a type of [group cohesion](values.md) through a [shared purpose](purpose.md).
+- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm), [Romans 14:1-12](https://biblehub.com/romans/14.htm)).
+
+To make it simpler for the specific rituals, there's a clarification legend throughout this body of text:
+
+- C: Catholic in general
+  - R: Roman Catholic tradition
+  - E: Eastern Orthodox tradition
 - P: Protestant tradition preserved from Catholicism
 - I: independent tradition outside the Catholic canon, or idea that has been proposed or tried in some churches
 
@@ -20,9 +64,9 @@ Churches often have [ritual](habits.md) ceremonies, also called sacraments.
 
 ### Greetings
 
-Calling each other by familial titles (e.g., brother, sister).
+I: Calling each other by familial titles (e.g., brother, sister).
 
-C/E: Deprecated in most uses, but leaders are still referred to as "Father".
+C: Deprecated in most uses, but leaders are still referred to as "Father".
 
 P: Typically not used in most denominations except [Pentecostal](history-church.md), except with smaller groups of believers among each other.
 
@@ -36,7 +80,7 @@ A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scri
   - Immersion symbolizes the complete end of one's [identity](identity.md) as part of this world.
   - However, sprinkling can imply that we're imperfect and will still sin (and therefore need [God's continued work](jesus-gospel.md)).
 
-C/E: Baptism is at birth (often with circumcision), or possibly during Confirmation.
+C: Baptism is at birth (often with circumcision), or possibly during Confirmation.
 
 - Along with baptism, many Christians borrow from Hebrew tradition and circumcise infants as well.
 
@@ -46,11 +90,9 @@ P: Baptism is only after conversion.
 
 A public declaration of faith in Christ.
 
-C/E: Confirmation is the completion of the water baptism.
+C: Confirmation is the completion of the water baptism.
 
-While there's no ritual for Protestants, they honor someone's private prayer to receive Christ ("the Sinner's Prayer"):
-
-- e.g., "Father, I know that I have broken your laws and my sins have separated me from you. I am very sorry and now want to turn away from my past life toward you. Please forgive me and help me to avoid sinning again. I believe your son Jesus Christ died for my sins, was resurrected from the dead, is alive, and hears my prayer. I invite Jesus to become the Lord of my life, to rule and reign in my heart from this day forward. Please send your Holy Spirit to help me obey You, and to do Your will for the rest of my life. In Jesus' name, I pray, Amen."
+P: While there's no ritual for Protestants, they honor someone's private prayer to receive Christ ("[the Sinner's Prayer](evangelism.md)")
 
 ### Eucharist/communion
 
@@ -60,10 +102,10 @@ The elements include a type of bread representing Christ's bodily sacrifice and 
 
 Elements
 
-- C/E: official sacramental bread, made without yeast
+- C: official sacramental bread, made without yeast
   - P: saltine crackers or any bread made without yeast
-  - I: standard bread
-- C/E: a cup of wine
+  - P/I: standard bread
+- C: a cup of wine
   - P: individual half-shot glasses of grape juice
 
 Routine
@@ -72,7 +114,7 @@ Routine
   - The bread and wine are brought in front of the altar to be blessed.
 - C: Prayer over the Offerings
 - Eucharistic/Communion Prayer
-  - C/E: a highly ordered set of multiple prayers and sayings that converts the bread and wine into Jesus' physical body and blood (transubstantiation).
+  - C: a highly ordered set of multiple prayers and sayings that converts the bread and wine into Jesus' physical body and blood (transubstantiation).
     - The timing of *when* this happens differs between Catholic and Eastern Orthodox.
   - P: a prayer and meditative song.
 - C: The Lord's Prayer
@@ -130,11 +172,13 @@ Giving blessing, healing, or authority with physical contact.
 
 ### The Peace
 
-A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](people-conflicts.md).
+A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](hardship-forgiveness.md).
 
 Inspired by Jesus' command to leave your gift at the altar and find closure first ([Matthew 5:23-24](https://biblehub.com/matthew/5.htm)).
 
 P: Only practiced occasionally, if at all.
+
+- It's the only way to institutionally create a culture of forgiveness.
 
 ### Love feasts
 
@@ -211,9 +255,9 @@ Routine
 Conditional Routines - Sundays and solemn days
 
 - Additional Bible Reading
-  - C/E: On Easter, a reading from the book of the New Testament church from Acts.
+  - C: On Easter, a reading from the book of the New Testament church from Acts.
   - P: On Easter, a reading about Jesus' resurrection and the empty tomb.
-  - C/E: A final reading from one of the four Gospels.
+  - C: A final reading from one of the four Gospels.
 - C: Profession of Faith
 
 ### C. Eucharist/communion
@@ -233,7 +277,7 @@ Elements
 Routine
 
 - Optional announcements
-  - C/E: Leader describes the schedule for any upcoming liturgical events.
+  - C: Leader describes the schedule for any upcoming liturgical events.
   - P: Indicates any events happening right after the current event or [logistical considerations](logistics.md) the people may need to know.
   - I: Expresses practical needs within the Church and who to contact about them.
 - C: Greeting and Blessing
@@ -241,7 +285,7 @@ Routine
 - P: Altar Call
   - A meditative song with a simple [Gospel presentation](jesus-gospel.md) that petitions non-believers to follow Jesus.
 - Dismissal
-  - C/E: the leader says a Latin translation of "Go, it is the dismissal".
+  - C: the leader says a Latin translation of "Go, it is the dismissal".
   - P: the leader formally concludes the meeting, often with a [future call to action](marketing.md) tied to the Homily.
 
 ### E. Christians-only fellowship
@@ -251,16 +295,3 @@ A period of time following the main service for believers to spend more time wit
 - If it happens on the same day as the main service, The Peace will be in-between.
 
 P: Practiced on occasion, but typically as a mid-week Bible study.
-
-### Crowd participation
-
-The conformity of Christian culture should reflect the principles God established in the Hebrew law ([1 Corinthians 14:26-40](https://biblehub.com/1_corinthians/14.htm)).
-
-- Whatever you do, do it peacefully.
-- Don't condemn prophecies or tongues, but make sure it's one at a time and builds up the Body.
-
-However, *some* practices are [taboo](morality-taboo.md) according to the Bible.
-
-- When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/1_corinthians/14.htm)).
-  - This doesn't forbid female *teachers*, but individual questions can be very distracting.
-- [Sinful](morality-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).

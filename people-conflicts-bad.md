@@ -5,7 +5,7 @@ Some people are completely impossible to please, and should always be a low prio
 
 ## Ego defense tactics
 
-When people aren't [examining themselves](awareness.md), they will exercise [narcissistic behavior](mind-neurodivergence-narcissist.md) by subconsciously using unhealthy defense mechanisms to protect their ego.
+When people aren't [examining themselves](awareness.md), they will exercise [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) by subconsciously using unhealthy defense mechanisms to protect their ego.
 
 - Every single person does this in one form or another.
 - Since you have no control over their behavior, your only responsibility and resistance with those tactics is through [self-awareness](awareness.md) and self-discipline of *your* impulses.
@@ -121,7 +121,7 @@ Intellectualization: overusing logic and reasoning to avoid uncomfortable [feeli
 
 ### Narcissistic behavior
 
-These are effectively [narcissistic behavior](mind-neurodivergence-narcissist.md).
+These are effectively [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md).
 
 - The more the person does these, the more [habit-forming](habits.md) it becomees, and the higher chance of developing into a more mature form of NPD.
 
@@ -237,7 +237,7 @@ If you need to stop a subversive control tactic mid-conflict:
 
 When engaging with toxic people, you can often tell you've succeeded in proper boundary-setting, even if they don't affirm it.
 
-- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](mind-neurodivergence-narcissist.md).
+- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](mind-neurodivergence-clusterb-narcissist.md).
 - Most of the time, their assertions are "you" statements.
 - "You've changed. / You're not the same person."
   - They likely feel out of control or unable to manipulate you.
@@ -248,7 +248,7 @@ When engaging with toxic people, you can often tell you've succeeded in proper b
   - You've probably accepted that you're worthy of love, even when you don't receive it.
 - "You're so cold/distant now. / You don't care anymore."
   - You're no longer reacting to their behaviors and have withdrawn your emotional validation of them.
-  - You have a right to be distant, but also must have boundaries that permit [forgiveness](mind-feelings-happiness-stress.md) if they're willing to change as well.
+  - You have a right to be distant, but also must have boundaries that permit [forgiveness](hardship-forgiveness.md) if they're willing to change as well.
 
 If you're in a new community that thrives on frequent conflict, find the highest-ranking member of the organization you expect to win against and antagonize them into a fight:
 

@@ -48,7 +48,7 @@ Depending on culture, other topics may be off-limits for small talk:
 - Politics and controversial social issues
   - Sometimes you can't criticize what others openly condemn (such as race or financial status)
 - Religious views or philosophy
-- The [economy](economics.md), the stock market or current events
+- The [economy](money-economics.md), the stock market or current events
 - Anything that can offend someone's nationality or criticize royalty
 - Any compliments that may look like [flirting](relationships-dating.md)
 - Intimate details about love life or sex life

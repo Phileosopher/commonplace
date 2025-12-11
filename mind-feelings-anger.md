@@ -29,4 +29,4 @@ Anger is *very* useful to get things done, but it ruins our finesse. The only ti
 
 ## Chronic anger
 
-If anger persists, it develops the secondary feeling of bitterness as [purposes](purpose.md) demonstrate they can't be performed. The only way to resolve bitterness is through [release](mind-feelings-happiness-stress.md) of whatever that person believes they can [control](purpose.md).
+If anger persists, it develops the secondary feeling of bitterness as [purposes](purpose.md) demonstrate they can't be performed. The only way to resolve bitterness is through [release](hardship-forgiveness.md) of whatever that person believes they can [control](purpose.md).

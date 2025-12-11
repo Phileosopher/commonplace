@@ -16,6 +16,7 @@ Unlike stress, stressors exist in the world around us:
 While finding stress simply requires [meditation](awareness.md), changing it requires [changing our stressors](mind-feelings-happiness-stress.md).
 
 - Approaching this change needs [the right attitude](success-2_attitude.md) because you must sacrifice many, *many* old ways of thinking.
+- The speed of [this particular optical illusion](mind-feelings-happiness-stress.jpg) is a good indicator of how fast our mind is racing.
 
 Not all stress is bad:
 
@@ -139,7 +140,8 @@ Resolving distress requires understanding your stressors:
 2. Recognize the line between what you can and can't control.
    - Focus on the facts behind your feelings.
 3. Release anything uncontrollable and focus on managing what you *can* change.
-4. Releasing becomes exponentially important *and* difficult as we experience more [hardship](hardship.md)
+   - When you [succeed](success-1_why.md) at what you can control, you'll make progress against the larger-scale issues that can arise later (e.g., [saving money](money-saving.md) to be prepared for [unemployment](hardship-unemployment.md)).
+4. Releasing becomes exponentially important *and* difficult as we experience more [hardship](hardship.md).
 
 ## B. Find what causes your stressors
 

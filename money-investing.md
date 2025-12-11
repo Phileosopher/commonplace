@@ -24,7 +24,7 @@ While anyone *can* make investing a full-time lifestyle (and many people are gre
 
 1. A legitimate interest and [desire to learn](education.md) about the intricacies of investing.
 2. Plenty of math skill, specifically regarding [statistics](math-stat.md).
-3. A firm grasp of [economic](economics.md) history, including as far back as the Great Depression and South Sea Bubble.
+3. A firm grasp of [economic](money-economics.md) history, including as far back as the Great Depression and South Sea Bubble.
 4. [Emotional](mind-feelings.md) discipline and [stubbornness](purpose.md) to stick with what they know to be true.
 
 A vast minority of people do *not* have all four:
@@ -61,7 +61,7 @@ Watch for idle cash in your accounts:
 
 ## Keep your portfolio organized
 
-Good investors have a common-sense [understanding](understanding.md) of [how we exchange goods and services](economics.md).
+Good investors have a common-sense [understanding](understanding.md) of [how we exchange goods and services](money-economics.md).
 
 - Everyone else investing is just as self-interested, and it helps to have a basic understanding of [game theory](math-gametheory.md) and the [types of investments that exist](money-investing-types.md).
 
@@ -298,7 +298,7 @@ Expect a 7-11% return across your investments.
 Take your investment, then expect inflation and taxes to remove your returns.
 
 - Inflation and taxes will turn a 10% investment into a 4% return.
-  - e.g., each $100 will yield $10, then the [economy](economics.md) will take away 3% from inflation, then the government will and 3% to the government.
+  - e.g., each $100 will yield $10, then the [economy](money-economics.md) will take away 3% from inflation, then the government will and 3% to the government.
 - Learn to think in inflation-adjusted numbers to have an accurate estimation of your returns.
 
 Further, [depreciation](money-accounting.md) is one of the most substantial expenses in the world.

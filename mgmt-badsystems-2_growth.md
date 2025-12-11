@@ -60,9 +60,9 @@ At some point, it'll make tremendous [marketing](marketing.md) sense to present 
 
 APPLICATION: Government elections are corrupt proportionally to the amount of work it takes to even run a campaign. Therefore, corruption in government scales with population.
 
-In the political domain of a [free society](politics-systems.md), it takes many resources to win an election, proportionally to the size of the electorate. For that reason, every politician *requires* [funding](economics.md) from a large system, which distorts the interests of the public at large.
+In the political domain of a [free society](politics-systems.md), it takes many resources to win an election, proportionally to the size of the electorate. For that reason, every politician *requires* [funding](money-economics.md) from a large system, which distorts the interests of the public at large.
 
-Government bureaus work similarly to business units in merging, but without the [economic motivation](economics.md) and with a motivation for [control](power.md), and typically through a top-down consolidation of departments through a government order instead of any agreement.
+Government bureaus work similarly to business units in merging, but without the [economic motivation](money-economics.md) and with a motivation for [control](power.md), and typically through a top-down consolidation of departments through a government order instead of any agreement.
 
 ## Monopoly
 
@@ -89,19 +89,19 @@ Each type of monopoly creates limits on members' [decision-making](people-decisi
 
 While a monopoly may not be corrupt in its inception, the most apparent indicator of corruption comes through the organization quietly decreasing the [value](values-quality.md) of their [created](creations.md) goods and services:
 
-- Raising fees beyond natural [economic](economics.md) [trends](trends.md) like inflation, but without adding [quality](values-quality.md) to the offering.
+- Raising fees beyond natural [economic](money-economics.md) [trends](trends.md) like inflation, but without adding [quality](values-quality.md) to the offering.
 - Decreasing the [quality](values-quality.md) of the organization's offerings, but without lowering their costs.
 - Devoting more effort toward [advertising](people-image-why.md) to draw in people than to improving overall [quality](values-quality.md).
 - Advancing a [conflict](people-conflicts-war-why.md) or [fear](mind-feelings-fear.md) of that conflict, then [justifying](logic.md) a substandard situation with it (often by raising the price inappropriately).
-- Under-producing the available product to create [scarcity](economics.md), then supplying plenty of the product later once the demand for it goes up.
+- Under-producing the available product to create [scarcity](money-economics.md), then supplying plenty of the product later once the demand for it goes up.
 - Giving varying regional prices for the same goods and services in relationship to *much* smaller competitors in that area ("price fixing").
-- Prevent over-producing, since it'll [flood the market](economics.md) and drive down demand in relation to supply, and find ways to maintain it with everyone else in that domain.
+- Prevent over-producing, since it'll [flood the market](money-economics.md) and drive down demand in relation to supply, and find ways to maintain it with everyone else in that domain.
 
 APPLICATION: Research *every* company you buy things from. You'll often find that the company is simply [one of the many faces](politics-monopolies.md) of a gigantic bad system.
 
-To stifle new [trends](trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](socialrisk.md) to build a [competitive](economics.md) alternative that gives the public more [choices](people-decisions.md) ("anti-competitive practices"):
+To stifle new [trends](trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](socialrisk.md) to build a [competitive](money-economics.md) alternative that gives the public more [choices](people-decisions.md) ("anti-competitive practices"):
 
-- Lowering prices beyond the lowest-possible cost of the item (i.e., taking a severe financial loss) to make it completely impossible for smaller [competitors](economics.md) to have a reasonably comparable price.
+- Lowering prices beyond the lowest-possible cost of the item (i.e., taking a severe financial loss) to make it completely impossible for smaller [competitors](money-economics.md) to have a reasonably comparable price.
 - Giving an "open forum" for discussion, but preventing dissenters from saying what they want.
 - Observing any new [trends](trends.md), then buying out all the [ideas](mind-creativity.md) or their [creators](purpose.md) as they arise.
 - Publicly shaming anyone [building](creations.md) a [technology](technology.md) (or the technology itself) that could render their most profitable endeavors obsolete.

@@ -42,7 +42,7 @@ Ever since the "Internet of Things", just about every computer has an "IP addres
 
 The "public IP address" is usually the internet-facing "router" or "gateway device" that the computer is connecting through, though it can be a [VPN's IP](computers-cysec.md) if you have one. Underneath that, there are multiple "private IP addresses" assigned to every computer on that network.
 
-There are 3,706,452,992 possible public IPv4 addresses, and IPv6 has some technical hangups. Part of it comes from the fact that IPv4's dotted-quad notation is on the upper threshold of [standard human memorization](mind-memory.md), while IPv6 is absurdly hard to memorize. To that effect, IPv4 addresses have become [somewhat of a tradable commodity](economics.md) due to scarcity.
+There are 3,706,452,992 possible public IPv4 addresses, and IPv6 has some technical hangups. Part of it comes from the fact that IPv4's dotted-quad notation is on the upper threshold of [standard human memorization](mind-memory.md), while IPv6 is absurdly hard to memorize. To that effect, IPv4 addresses have become [somewhat of a tradable commodity](money-economics.md) due to scarcity.
 
 However, IP management has become more complex in light of increased VPN usage. With a VPN, there's another VPN IP to consider as well, meaning that IP blocking isn't necessarily a good solution anymore to deal with people trying to access a website.
 

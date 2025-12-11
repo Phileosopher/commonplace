@@ -172,7 +172,7 @@ APPLICATION: [Safety restricts freedom](safety.md), so many people believe the r
 
 Almost any rule established in a group will work against the [purposes](purpose.md) of a minority of the group. Unless the rule is excessive, that minority will find ways to avoid honoring the rule.
 
-Rules can never capture the subtlety of changing individuals' [wills](purpose.md), and only serve to externally deter or motivate people. If enough people are willing to sidestep the rule, that group now has a black [market](economics.md).
+Rules can never capture the subtlety of changing individuals' [wills](purpose.md), and only serve to externally deter or motivate people. If enough people are willing to sidestep the rule, that group now has a black [market](money-economics.md).
 
 APPLICATION: Following the rules is a mundane existence. It means you won't fail miserably, but also means you won't succeed overly much either. Most [success](success-1_why.md) in life involves knowing the time and place to [risk](socialrisk.md) breaking rules versus [following them](legal-safety.md).
 

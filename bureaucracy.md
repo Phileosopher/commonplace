@@ -34,7 +34,7 @@ Assume the process will take at least 3-6 times longer than you'll expect.
 
 - 4-6 weeks in a government bureau can easily become 6-8 months.
 - If a company predicts a month, expect it to take three.
-- Double *those* expectations if a natural disaster impacts the organization or the [economy](economics.md) slumps.
+- Double *those* expectations if a natural disaster impacts the organization or the [economy](money-economics.md) slumps.
 
 ## Give the right information
 

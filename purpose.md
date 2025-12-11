@@ -99,7 +99,7 @@ No two people see the same problem. They will both gather *mostly* the same [fac
 
 One major problem with a problem-based way of perception is that we get distracted from Problem A with Problem B, and it can keep going. For that reason, we typically need frequent reminding (i.e., "virtue signaling").
 
-APPLICATION: Since human purpose is driven by a problem-based mentality, unresolved problems *really* get in the way of our [satisfaction](mind-feelings-happiness.md). Mysteries, unfinished business, and [paradoxes](paradoxes.md) plague us much more than solved issues unless we learn to [release them](mind-feelings-happiness-stress.md).
+APPLICATION: Since human purpose is driven by a problem-based mentality, unresolved problems *really* get in the way of our [satisfaction](mind-feelings-happiness.md). Mysteries, unfinished business, and [paradoxes](philosophy-paradoxes.md) plague us much more than solved issues unless we learn to [release them](hardship-forgiveness.md).
 
 Without a problem, we face utter, crippling existential crisis. No matter what, a [good life](goodlife.md) requires the constant cycle of interpreting problems, looking for rational solutions for them, then [succeeding](success-1_why.md) (at least somewhat) at addressing those problems.
 

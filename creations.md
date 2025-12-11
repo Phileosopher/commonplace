@@ -195,7 +195,7 @@ For the sake of gaining [influence](influence.md) or [power](power.md), creators
 
 APPLICATION: We could probably measure the quality of a creation by how many awful imitators try to shortcut [the process](mind-creativity-how.md) with bad copies!
 
-APPLICATION: Nothing is really new, so people don't tend to spend much money for values contained in media, and creators can't legally [patent most creative works](legal-ip.md). Instead, a creator must [sell their creation](socialrisk.md) by either generating enough [popular demand](economics.md) to make plenty of extra money or by setting constraints on the physical media that contains the ideas.
+APPLICATION: Nothing is really new, so people don't tend to spend much money for values contained in media, and creators can't legally [patent most creative works](legal-ip.md). Instead, a creator must [sell their creation](socialrisk.md) by either generating enough [popular demand](money-economics.md) to make plenty of extra money or by setting constraints on the physical media that contains the ideas.
 
 The creation, after it's been created, tends to create a fan base, which is a [group](groups-member.md) that reflects the [values](values.md) of the created work, complete with [traditions](people-culture.md), [symbols](symbols.md), and [statuses](people-image-why.md). Occasionally, the fans can run with that idea *much* farther than the creator of the idea (often verging into a type of [religion](religion.md)), especially after the creator has [died](legacy.md) and can't communicate their [original vision](understanding-certainty.md) anymore.
 

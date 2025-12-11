@@ -7,7 +7,7 @@ It's worth noting that I've broadened the ideas when possible. It's also worth n
 
 I've grouped them starting with where the law starts coming into effect, progressing from inanimate objects, through individual perception, upwards into large groups.
 
-I've separated the [science-specific](lawsaxioms-science.md), [design](engineering-design-rules.md), and [technology-specific axioms](lawsaxioms-tech.md).
+I've separated the [science-specific](lawsaxioms-science.md), [design](lawsaxioms-design.md), and [technology-specific axioms](lawsaxioms-tech.md).
 
 ## Brain/Psychology
 

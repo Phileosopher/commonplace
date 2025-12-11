@@ -292,6 +292,11 @@ Running a ministry requires the same [logistics](logistics.md) as most other [la
 - Musicians and performers to lead everyone in group worship music.
 - Recordkeepers like accountants and office workers.
 
+Consider [creative](mind-creativity.md) ways to raise more funds:
+
+- Directly specify the exact needs of congregants and how much money they need.
+- Make an auction that blocks a hymn for a year.
+
 ### Distributing content
 
 Distribute all public content with [open licensing](legal-ip.md).

@@ -317,7 +317,7 @@ If you're looking for more yield, you'll probably need to consider GMOs (genetic
 - GMO seeds are also chemically resistant to pesticides, meaning higher yield as well.
 - However, the downside comes through the food's quality, which will require a faster [logistical system](logistics.md) to get it to market.
 
-Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](mgmt-1_why.md) and [economics](economics.md).
+Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](mgmt-1_why.md) and [economics](money-economics.md).
 
 ## More information
 

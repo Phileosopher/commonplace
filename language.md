@@ -183,7 +183,7 @@ This isn't confined to spoken language, and can apply to body language or timing
 - Many specific things are similar to other things, so tradespeak lets everyone demarcate them without many adjectives.
 - As a side benefit, a person's knowledge of that jargon indicates their [standing in that group](groups-member.md), with more jargon implying more allegiance to the group's collective purposes.
 
-These specific words *don't* translate well across industries. For example, "depreciation" has at least three distinct meanings: [accounting](money-accounting.md) depreciation decreases the value of an asset over its expected life, [economics](economics.md) depreciation means something drops in [market value](people-image-why.md), and [legal](people-contracts.md) depreciation is when something deteriorates to [uselessness](purpose.md).
+These specific words *don't* translate well across industries. For example, "depreciation" has at least three distinct meanings: [accounting](money-accounting.md) depreciation decreases the value of an asset over its expected life, [economics](money-economics.md) depreciation means something drops in [market value](people-image-why.md), and [legal](people-contracts.md) depreciation is when something deteriorates to [uselessness](purpose.md).
 
 ## Ordering of words
 

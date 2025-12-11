@@ -64,7 +64,7 @@ Pleasant things by themselves don't connect to inner happiness:
   - Safety provides comfort, but never [purpose](purpose.md) or satisfaction.
   - [Success](success-1_why.md) may provoke happiness, but it never guarantees it.
 - Any other enjoyable experience or series of experiences (concert, movie, game, song, or anything else) fades.
-- Further, anything that *does* give satisfaction will provide a [diminishing return](economics.md) the more you do it.
+- Further, anything that *does* give satisfaction will provide a [diminishing return](money-economics.md) the more you do it.
 
 Each person is solely responsible for their happiness, and nobody else can change it:
 

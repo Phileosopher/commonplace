@@ -54,7 +54,7 @@ Often, unscrupulous developers will borrow heavily from the [operant conditionin
 3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](people-decisions.md).
 4. Repeat indefinitely, changing out rewards occasionally, adding new types of rewards, and scaling them up before the user gets bored.
 5. Branch out the rewards into tiers (e.g., an easily acquired type of coin and a rare type of coin).
-6. Eventually, extend the experience into real-world [economics](economics.md) by making real-world currency necessary to advance the game.
+6. Eventually, extend the experience into real-world [economics](money-economics.md) by making real-world currency necessary to advance the game.
 
 Most of the time, game developers will [scale up](mgmt-7_changes.md) by having *other* developers make the games, contributing their accumulated experience in [ideas](mind-creativity-how.md)/[marketing](marketing.md)/[debugging](computers-software-redesign.md), then publishing with their brand attached to it and likely a royalty for sales.
 

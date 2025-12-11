@@ -4,7 +4,7 @@
 Money is necessary to do nearly anything with other people.
 
 - Money is a relative, absolutely measurable form of [power](power-types.md).
-- It stores [value](economics.md) in the form of [influence](people-3_respect.md).
+- It stores [value](money-economics.md) in the form of [influence](people-3_respect.md).
 - The amount of money you have measures approximately how much value you've added to others' lives.
 - However, money is only as valuable as other people interpret it to be (i.e., what other people can actually do).
 

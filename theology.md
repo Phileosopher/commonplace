@@ -142,7 +142,7 @@ All lasting [meaning](meaning.md) that can ever be derived for [living a good li
 
 Our fallen state creates a stable-enough, [morally disastrous social existence](https://theologos.site/unnatural-law/).
 
-- It's a vastly [elaborate social system](lawsaxioms.md) built around [power management](power-types.md), which creates an emergent [economic system](economics.md) around a medium (i.e., money).
+- It's a vastly [elaborate social system](lawsaxioms.md) built around [power management](power-types.md), which creates an emergent [economic system](money-economics.md) around a medium (i.e., money).
   - This system creates the consequence of [class stratification](classes.md) and [slavery](slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](socialrisk.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](people-image-distortion.md).
   - Eventually, we will always develop the [vast variety of political systems](politics-systems.md) we're accustomed to, and will engage in [endless conflicts](people-conflicts-war-why.md) over all sorts of stupid reasons.
   - Even if a perfect system were to conjecturally be created, it would eventually [descend into corruption](mgmt-badsystems.md), thereby perpetuating our [cycle](trends.md) of inflicting misery on each other.

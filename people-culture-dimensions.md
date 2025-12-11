@@ -38,7 +38,7 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
   - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries-why.md).
   - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
   - "[Work](results.md)" translates to "[who you are](identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
-  - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
+  - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](money-economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
   - "[Quality](values-quality.md)" means "it [works](results.md)" because they're obsessed about [functionality](purpose.md) and convenience.
   - "Perfection" means "death" because American society *does* value [performance](results.md), but also values the [unknown](unknown.md).
 
@@ -62,7 +62,7 @@ Power Distance - how much [power](power.md) comes from [status](people-image-why
 
 Time Flexibility - how important deadlines are:
 
-- Linear-Time emphasizes punctuality and fulfilling deadlines (and is often more [productive](results.md) with stronger [economies](economics.md)).
+- Linear-Time emphasizes punctuality and fulfilling deadlines (and is often more [productive](results.md) with stronger [economies](money-economics.md)).
 - Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends-why.md), and the [unknown](unknown.md)).
 - Linear-Time requires discipline, but Flexible-Time requires grace.
 

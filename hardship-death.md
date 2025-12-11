@@ -167,7 +167,7 @@ Keep in mind that the *absolute worst* nature of people will come out after some
 
 - Often, wills aren't always clear about who gets what, and family members will become *severely* vicious if they see an opportunity to gain from it.
 - Adhere as much as possible to the [stated will](people-contracts.md), and don't get distracted by anyone's [manipulation tactics](people-conflicts.md).
-- If you've been unfairly treated, you can't control what the deceased had done, so [release it and move on](mind-feelings-happiness-stress.md).
+- If you've been unfairly treated, you can't control what the deceased had done, so [release it and move on](hardship-forgiveness.md).
 
 Discuss with the executor of their estate to learn the provisions of their will:
 

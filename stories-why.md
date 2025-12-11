@@ -101,7 +101,7 @@ Since it's a map and not an accurate depiction, a story is always an exploration
 
 Every story communicates a [value](values.md). The stories people remember will communicate values that reference beyond itself and add meaning to the audience's life beyond the story. To achieve this, the [creator](mind-creativity.md) *must* draw from associations the audience [already had](understanding.md) before the story started.
 
-One of the most critical messages in most stories involves how we must [decide](people-decisions.md) in the face of [scarcity](economics.md). This leads to *severe* [conflict](people-conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts-why.md).
+One of the most critical messages in most stories involves how we must [decide](people-decisions.md) in the face of [scarcity](money-economics.md). This leads to *severe* [conflict](people-conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts-why.md).
 
 The best way to detect a good story is from how much everyone in the audience observes [quality](values-quality.md) as they experience it. People only stay [interested](purpose.md) in stories as long as they see anything [unexpected or unusual](imagination.md), which requires a vast [emotional range](mind-feelings.md) to trigger the audience's attention.
 

@@ -5,7 +5,7 @@ The one major difference between a [large organization](groups-large.md) and a c
 
 This is a list of organizations that have *tremendous* power but aren't formally defined as "countries". They sometimes aren't formally a "[monopoly](mgmt-badsystems.md)", but sometimes less than four *massive* organizations operate in a particular domain. If a country owns something by another name (e.g., China), listing it here isn't valid because that country already has the [power](power-types.md) to kill whoever they want.
 
-The only way these organizations *ever* break up is either through government intervention to forcibly separate them or complete government disengagement, with the final blow coming through *other* organizations [creatively](mind-creativity.md) making [competitively similar-quality](economics.md) [products](results.md). The [solution](results.md) being more government involvement or less is a *major* [political discussion](politics-conservativeliberal.md).
+The only way these organizations *ever* break up is either through government intervention to forcibly separate them or complete government disengagement, with the final blow coming through *other* organizations [creatively](mind-creativity.md) making [competitively similar-quality](money-economics.md) [products](results.md). The [solution](results.md) being more government involvement or less is a *major* [political discussion](politics-conservativeliberal.md).
 
 Without anyone stopping them, they'll stomp out [trending](trends.md) threats to their power, but only when people aren't [taking risks](socialrisk.md) as a group to compete. They're superb at [changing their faces](people-image-distortion.md), so they'll likely change their names from this list. Since they frequently hide their [less-moral](morality.md) activity, it's not a hill I wish to die on, though I'm a target to them simply by compiling this list.
 
@@ -20,7 +20,7 @@ This is also not particularly new. The same [stories](stories-why.md) of today h
 Each of these domains is a separate [trending](trends.md) empire complete with a dramatic rise, stagnation, and will someday [fall](legacy.md). They came mostly through the government permitting mergers and consolidation. The past dissolution of those organizations came with [legal precedents](legal-doctrines.md) outlined in the Sherman Act, Clayton Act, and Robinson-Patman Act, and the legal precedents can be summarized by 13 principles:
 
 1. Mergers shouldn't significantly reduce the number of competitors in a market without many competitors to start with.
-2. Mergers shouldn't eliminate the need for organizations to [compete](economics.md).
+2. Mergers shouldn't eliminate the need for organizations to [compete](money-economics.md).
 3. Mergers shouldn't increase the chances the organizations' leadership will [coordinate](people-conversation.md) with each other.
 4. Mergers shouldn't eliminate someone else from [entering the market](entrepreneur-1_why.md).
 5. Mergers shouldn't allow organizations to control products and services their competitors need to compete with them.

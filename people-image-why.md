@@ -35,7 +35,7 @@ APPLICATION: Since intelligent and creative people can adapt their image more th
 
 Since some connection-building skill is [innate](humanity.md) and some is [trainable](understanding.md), it's difficult to [measure](math.md).
 
-Barring low-functioning [autism](autism.md) or specific [traumatic events](hardship-ptsd.md), we can't easily hold all this information at once in our minds. To condense it and make the [values](values.md) more clear, we build [stories](stories-why.md) out of it with the most important information, then throw out the rest, sometimes with the source information.
+Barring low-functioning [autism](mind-neurodivergence-autism.md) or specific [traumatic events](hardship-ptsd.md), we can't easily hold all this information at once in our minds. To condense it and make the [values](values.md) more clear, we build [stories](stories-why.md) out of it with the most important information, then throw out the rest, sometimes with the source information.
 
 We build these story-images rapidly in the subconscious, so we're not fact-checking everything we've built. Further, since we're pulling from *other* stories encoded in our memories, this entire system is extremely faulty. We don't notice, though, because we automatically correct errors as soon as we re-perceive things, irrespective of prevailing facts beyond initial impressions. People usually only re-examine, however, when they aren't [sure](trust.md) what they saw or when they train themselves to have more [scientific rigor](science.md).
 

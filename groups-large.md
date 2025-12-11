@@ -76,7 +76,7 @@ To gather more [understanding](understanding.md) or [certainty](understanding-ce
 
 ## Hierarchy
 
-In any formal hierarchy or organization structure, [power](power.md) is abstracted and redistributed proportional to its rigidity. This makes large groups more able to perform gargantuan tasks (which are often easy to [measure](math.md)), even while being completely [non-human](humanity.md) in how they do it. The highest form of this abstraction comes through [money](economics.md).
+In any formal hierarchy or organization structure, [power](power.md) is abstracted and redistributed proportional to its rigidity. This makes large groups more able to perform gargantuan tasks (which are often easy to [measure](math.md)), even while being completely [non-human](humanity.md) in how they do it. The highest form of this abstraction comes through [money](money-economics.md).
 
 Unlike a [smaller group](groups-small.md) with an organization run by the [personality](personality.md) and [decisions](people-decisions.md) of a few leaders, larger groups consist of a *very* formalized hierarchy of leadership, often at least three layers deep (e.g., boss, his boss, and the CEO).
 
@@ -152,7 +152,7 @@ Every large organization will try to socially engineer, at least a little. Even 
 
 Social engineering is risky, proportionally to how much it's done. [Human nature](humanity-universals.md) hates to be "boxed in", but leaders' human nature won't let them easily reverse a bad [decision](people-decisions.md), so it often becomes a [bad system](mgmt-badsystems.md) in the process of trying to [craft an ideal](politics-perfectsociety.md).
 
-Every [imposed rule](rules-methods.md) can hurt people and damage [purposes](purpose.md), and social engineering is trying to use the bludgeoning [force](power.md) of the law to coax, so it usually leads to [negative externalities](economics.md) (e.g., overlooking people who don't *precisely* quality for beneficial things, or shouldn't qualify for beneficial things but still do).
+Every [imposed rule](rules-methods.md) can hurt people and damage [purposes](purpose.md), and social engineering is trying to use the bludgeoning [force](power.md) of the law to coax, so it usually leads to [negative externalities](money-economics.md) (e.g., overlooking people who don't *precisely* quality for beneficial things, or shouldn't qualify for beneficial things but still do).
 
 Taxing, especially, will broadly destroy [purposes](purpose.md):
 

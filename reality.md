@@ -85,7 +85,7 @@ When we [analyze](logic.md) reality closely, every single thing can be divided i
 
 The small components form parts of a whole. The entire collection, whatever it is, is (typically) of dramatically more value to us than the individual parts. We tend to find value in the collective more than the components, either for our [purposes](purpose.md) or what we [love](people-love.md). That added value usually includes something that makes us [feel](mind-feelings.md) like the thing is somehow more complete.
 
-Barring mental disorders like [autism](mind-neurodivergence.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
+Barring mental disorders like [autism](mind-neurodivergence-autism.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
 
 [Wisdom and understanding](understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](people-culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
 
@@ -97,6 +97,6 @@ Accepting reality at its most raw can force overwhelming [internal and external 
 
 Also, since most people are [terrified](mind-feelings-fear.md) of the [consequences](results.md) of reality in its rawest form, so their [habitual mode of thinking](habits.md) will subconsciously [alter their views](people-image-distortion.md) to fit more easily with what they knew *before* the new discovery. In this case, they find more [usefulness](purpose.md) in their past perception of reality than in the updated information they're witnessing.
 
-The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](mind-feelings-happiness-stress.md)).
+The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](hardship-forgiveness.md)).
 
 APPLICATION: Whether we can or can't know reality doesn't really matter. It's very consistent either way. Even if we're really in some *dream*, we can find [meaning](meaning.md) through doing the best with that dream's rules, and living [the good life](goodlife.md) requires more [performance](purpose.md) than concerning ourselves with what may or may not exist.

@@ -96,7 +96,7 @@ D. Every good homeschool parent *must* be humble.
 E. Your geographical region has a profound influence on how your government sees homeschooling.
 
 - When you live in a population-dense area, many government precincts require children to attend a government-approved school.
-  - Generally, governments prefer to school children themselves for [financial](economics.md) reasons, and any [indoctrination](power-influence.md) reasons are simply a bonus for them.
+  - Generally, governments prefer to school children themselves for [financial](money-economics.md) reasons, and any [indoctrination](power-influence.md) reasons are simply a bonus for them.
 - The challenges you're *far* more likely to face will come through the [bureaucracy](bureaucracy.md) from [government requirements](legal-safety.md) more than the education itself.
 
 F. Find a healthy homeschool community that can plug you into homeschooling resources at large.

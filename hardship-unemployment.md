@@ -92,7 +92,7 @@ Scammers target desperate, poor, unemployed people with "job offers", so watch f
 
 ## Look outside your work experience
 
-Before considering your career, you need a *job that [lets you survive](economics.md)*, so take *any* job in *any* industry.
+Before considering your career, you need a *job that [lets you survive](money-economics.md)*, so take *any* job in *any* industry.
 
 Look for *any* work you can do until you find stable employment:
 
@@ -102,7 +102,7 @@ Look for *any* work you can do until you find stable employment:
   - Since you have plenty of free time, learn a universally marketable skill you can take anywhere.
 - If you start liking the [side work](entrepreneur-4_freelancing.md), consider how much work you'd need to replace your lost job and never hunt for a job again!
 - Artistic skills are usually low-demand and based heavily on popularity, so don't expect them to help much.
-  - Further, art roles are typically luxury services, [which disappear as soon as the economy turns downward](economics-downturn.md).
+  - Further, art roles are typically luxury services, [which disappear as soon as the economy turns downward](money-economics-downturn.md).
 
 Sometimes, you can't go back to your role or industry:
 

@@ -56,9 +56,9 @@ Unless we're acting out of [love](people-love.md), our causes are easy to forget
 
 Money is one of the easiest ways to store and trade power. We can often satisfy nearly every [purpose](purpose.md) with money. Thus, desiring money is desiring power, which leads to [evil](morality-evil.md) because that power has a self-seeking aspect by default.
 
-APPLICATION: Eventually, most people are driven by the desire or need for [money](economics.md), in one way or another. Without awareness of this, any [group](groups-small.md) will eventually disband when the members find something else that will satisfy their purposes.
+APPLICATION: Eventually, most people are driven by the desire or need for [money](money-economics.md), in one way or another. Without awareness of this, any [group](groups-small.md) will eventually disband when the members find something else that will satisfy their purposes.
 
-Money is merely a [medium of exchange](economics.md) because it has no intrinsic value. If it had intrinsic value, people would [use it](purpose.md) instead of simply exchanging it.
+Money is merely a [medium of exchange](money-economics.md) because it has no intrinsic value. If it had intrinsic value, people would [use it](purpose.md) instead of simply exchanging it.
 
 The power of money comes through how it's interoperable with almost all other forms of power. If a person had an infinite supply of money that maintained spending power indefinitely, the only [purpose](purpose.md) they wouldn't be able to overcome would be [death](legacy.md).
 
@@ -147,7 +147,7 @@ Typically, to [negotiate](people-conflicts-negotiation.md), the attacker will sh
 
 Vulnerability is our willingness to [trust](understanding-certainty.md) that others won't damage our power. We tend to be less vulnerable when we're [afraid](mind-feelings-fear.md) of others, especially from [past trauma](hardship-ptsd.md). The more power we have, the higher the risk of loss, and the less we trust. People tend to believe confidence is a sign of significant power because they [look like](people-image-why.md) they'll recover from any loss, which means they must have more power.
 
-Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](economics.md) and [evolutionary theory](science-life.md), but there's very little value to knowing it on an individual basis.
+Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](money-economics.md) and [evolutionary theory](science-life.md), but there's very little value to knowing it on an individual basis.
 
 APPLICATION: Most demarcations of [social class](classes.md) are built around how well people manage power. The poor tend to burn up their power on frivolous [purposes](purpose.md), while the wealthy are hyper-vigilant about *anything* that may harm their means of control.
 

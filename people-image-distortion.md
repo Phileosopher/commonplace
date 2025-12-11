@@ -151,7 +151,7 @@ Blame
 - Redirect an idea by using the implications from specific patterns of words.
 - Imply someone's guilt, but without saying anything that would [legally](people-rules.md) indicate the implication.
 - Claim something difficult to disprove against someone.
-- Misquote, then attack a statement ("straw man").
+- Misquote, then attack a statement ("[straw man](mind-bias-social.md)").
 
 ## [Image](people-image-why.md)
 

@@ -7,6 +7,7 @@ While it can apply to almost anything, we usually experience sadness over the lo
 
 The autonomic response to sadness is through crying, which is a physical representation of the breaking of a [mental model](values.md).
 
+- Crying is how we use our eyes to explain what our [language](language.md) can't capture.
 - This is actually healing, since it opens up the possibility for another model to replace it.
 
 ## Chronic sadness

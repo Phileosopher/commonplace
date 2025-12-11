@@ -1,7 +1,7 @@
 
 # What business is
 
-"Business" comes from the root word "busy", and represents everything normally necessary to [make money](jobs-1_why.md) that doesn't use a direct [specialized](jobs-specialization.md), [in-demand](economics.md) skill.
+"Business" comes from the root word "busy", and represents everything normally necessary to [make money](jobs-1_why.md) that doesn't use a direct [specialized](jobs-specialization.md), [in-demand](money-economics.md) skill.
 
 - Someone's business may be [poultry farming](agriculture.md) or [custodial work](home-housekeeping.md), but they still must do the same of some things as [distributed internet hosting providers](computers-distsys.md) or [taxi drivers](autos.md).
 - Often, their business can *be* one of those things that everyone needs.

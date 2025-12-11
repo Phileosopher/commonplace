@@ -141,7 +141,7 @@ Over time, the math [pedagogical culture](education.md) has also created [their 
 
 For all intents and purposes, 99.99% of humanity only needs the four domains of [arithmetic with algebra](math-algebra.md), [geometry/trigonometry](math-geotrig.md), and sometimes [calculus](math-calc.md).
 
-- The rest are simply highly precise [thought experiments](paradoxes.md).
+- The rest are simply highly precise [thought experiments](philosophy-paradoxes.md).
 - [Accounting](money-accounting.md) manages large piles of numbers using basic arithmetic and algebra.
 - Most [science](science.md) uses [statistics](math-stat.md).
 - Geography can often use non-euclidean math to represent planes on spherical objects (since the planet is a sphere)

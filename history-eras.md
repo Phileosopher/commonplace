@@ -1,7 +1,7 @@
 
 # Historical eras
 
-These are the eras of society according to historians, chronologically sorted and grouped by whether the revolution is [technological](technology.md), [economic](economics.md), [political](politics-systems.md), [religious](religion-answers.md), [wars](people-conflicts-war-why.md), [cultural](people-culture.md), or [generational](people-family.md).
+These are the eras of society according to historians, chronologically sorted and grouped by whether the revolution is [technological](technology.md), [economic](money-economics.md), [political](politics-systems.md), [religious](religion-answers.md), [wars](people-conflicts-war-why.md), [cultural](people-culture.md), or [generational](people-family.md).
 
 This is, by no means, exhaustive. Grouping historical eras is a [human-made value of the mind](values.md), and can be [endlessly divided](logic.md) all the way down to daily or hourly activities if someone were obsessive enough. But, it's a fun way to observe [social trends](trends.md), especially when you impose the trends on top of each other.
 

@@ -13,7 +13,7 @@ First Adopters Rule - The first pioneers to something new will reap the greatest
 
 Gibrat's Law - Groups grow proportionally, no matter their size.
 
-Graham's Addiction Axiom - In any [free market](economics.md), products become more [addictive](addiction.md).
+Graham's Addiction Axiom - In any [free market](money-economics.md), products become more [addictive](addiction.md).
 
 Hickam's Dictum - For multiple issues, several simple explanations are better than an odd circumstance that explains all of them.
 

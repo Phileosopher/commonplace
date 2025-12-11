@@ -90,7 +90,7 @@ These NFTs can associate to pretty much anything:
 - Social media status updates
 - [Graphical assets](engineering-graphics.md) like GIFs or photos
 
-They have no inherent value, but each one is unique compared to any other NFTs in their class, which can give value from that fact alone. It's why people paid money for NFTs of a Lebron James tweet or [CryptoPunks](https://www.larvalabs.com/cryptopunks). It's mostly the same force that drives the the [Tickle Me Elmo craze](https://en.wikipedia.org/wiki/Tickle_Me_Elmo#1996_Elmo_craze) or [tulip mania](https://en.wikipedia.org/wiki/Tulip_mania): the concept of [scarcity](economics.md).
+They have no inherent value, but each one is unique compared to any other NFTs in their class, which can give value from that fact alone. It's why people paid money for NFTs of a Lebron James tweet or [CryptoPunks](https://www.larvalabs.com/cryptopunks). It's mostly the same force that drives the the [Tickle Me Elmo craze](https://en.wikipedia.org/wiki/Tickle_Me_Elmo#1996_Elmo_craze) or [tulip mania](https://en.wikipedia.org/wiki/Tulip_mania): the concept of [scarcity](money-economics.md).
 
 ### Crypto mining
 

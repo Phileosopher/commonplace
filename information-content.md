@@ -102,7 +102,7 @@ Most people can't reliably penetrate heavily made content because their thoughts
 
 A specialized author is generally writing for their field of expertise.
 
-- To read a reliable [philosophy](philosophy.md) or [history](stories-storytellers.md) text (as well as spinoff domains like [economics](economics.md)), it usually helps to understand the [culture](people-culture.md) of that specific time, as well as *their* perspective of history when they looked back.
+- To read a reliable [philosophy](philosophy.md) or [history](stories-storytellers.md) text (as well as spinoff domains like [economics](money-economics.md)), it usually helps to understand the [culture](people-culture.md) of that specific time, as well as *their* perspective of history when they looked back.
 - To read [math](math.md) and trade-related information (such as [science](science.md)), it requires clearly and simply understanding the basics of the discipline.
 
 When consuming something particularly dense with information, you *must* try to think like the author.

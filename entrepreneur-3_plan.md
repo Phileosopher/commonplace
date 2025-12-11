@@ -245,7 +245,7 @@ Indicate how changes in [social trends](trends.md) and society will affect the o
 
 - Will it take advantage of new [technology](technology.md), or will that technology be a risk to the business model?
 - Are there any [government regulations](legal-doctrines.md) which may affect business operations?
-- Will the [economy](economics.md) or [industry](jobs-specialization.md) shift enough to change how the business model can survive?
+- Will the [economy](money-economics.md) or [industry](jobs-specialization.md) shift enough to change how the business model can survive?
 
 ### Marketing Strategy
 

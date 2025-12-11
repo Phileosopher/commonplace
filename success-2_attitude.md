@@ -64,7 +64,7 @@ Success looks a *lot* easier when you're planning it, so you're guaranteed to un
 - Money, time, energy
 - Pain from self-discipline
 - Social sacrifices like lost friends and difficulty relating
-- Lost opportunities from other forsaken decisions ([opportunity cost](economics.md))
+- Lost opportunities from other forsaken decisions ([opportunity cost](money-economics.md))
 - The feeling of being unimportant, underappreciated, or disappointed
 - Late nights, early mornings, multitasking, or uncomfortable sacrifices
 

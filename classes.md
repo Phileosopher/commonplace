@@ -7,7 +7,7 @@ Even though they share certain values across their [group](groups-large.md), sma
 
 No matter how much anyone tries to [equalize](politics-leftism.md) everyone's [power](power.md), it's uneven because people will [always](humanity-universals.md) have uneven [purposes](purpose.md) directed toward different things. Over time, they'll always subordinate themselves to others and form an informal hierarchy toward the [purpose](purpose.md) they want, with the leadership of that hierarchy arising through [appearing](people-image-why.md) to the majority to be the most competent at those purposes.
 
-In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](people-culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](mind-feelings-happiness-stress.md) attitude over something that happened in the past.
+In a [perfect society](politics-perfectsociety.md), this hierarchy would be motivated by [love](people-love.md) that promoted [good purposes](purpose.md) and valued effective [interaction](people-conversation.md) *beyond* the familiar [culture](people-culture.md) of the local group. But, throughout [history](stories-storytellers.md), people near the top have tended to abuse the hierarchy to exert even *more* power on their group. Further, any attempts to relate across groups are often met by hostility, typically from an [unforgiving](hardship-forgiveness.md) attitude over something that happened in the past.
 
 People find shared interest over relatively unimportant things. It protects them from cultural "outsiders" who could threaten their [power](power.md), but also operates as the beginning of [meaning](meaning.md) inside a group.
 
@@ -19,7 +19,7 @@ Social classes *always* arise through how much power each person sees compared t
 
 APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 
-Depending on the definition of each class and [economic freedoms](economics.md) of the group, there's a "soft" [statistical](imagination.md) range of three major classes:
+Depending on the definition of each class and [economic freedoms](money-economics.md) of the group, there's a "soft" [statistical](imagination.md) range of three major classes:
 
 1. Underclass - 40-94%
 2. Middle class - 5-50%
@@ -201,6 +201,6 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - Destiny is defined by [expectations](imagination.md) of what can happen.
   - The social standards prioritize both [values](values.md) and polite behavior.
 
-Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](economics.md) to make everything come to a grinding halt.
+Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](money-economics.md) to make everything come to a grinding halt.
 
 APPLICATION: If things get bad enough (and history has shown it can, such as the Roman Empire), the people can abandon their roles and render everyone in charge completely helpless. This never happens except under true societal [hardship](hardship.md), though, because it would also guarantee [anarchy](politics-systems.md) and risk [an invasion from foreigners](people-conflicts-war-why.md).

@@ -21,7 +21,7 @@ Law enforcement would still exist in some form, but wouldn't need *near* as much
 
 ## Motivation
 
-Our current society forms from [decisions](people-decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
+Our current society forms from [decisions](people-decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](money-economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
 
 The entire culture would encourage and support each person to act in [love](people-love.md) beyond themselves. Thus, people would make all [creations](creations.md), even things like plumbing or scientific discoveries, *strictly* to solve others' [problems](purpose.md).
 
@@ -65,7 +65,7 @@ Everyone would work. Not everyone would produce the same, but everyone would gai
 
 Presently, there's *zero* work for particularly unintelligent people. The more we [specialize](jobs-specialization.md), the worse it gets, since specialties require intelligence. In a perfect society, the people who develop their specialization would find [creative](mind-creativity.md) solutions to create [meaningful](meaning.md) alternate work for the less intelligent.
 
-[Exchanges](economics.md) would be dramatically different than we're accustomed to. Someone would make something that someone else wanted. The receiving person wouldn't pay for it, but they'd be grateful, along with everyone else. Thus, if the [creator](creations.md) ever needed or wanted for anything, they could freely take it, but would also love everyone else to the point that they'd consider *others'* needs as well when taking (i.e., give up what they had or not take something if it would otherwise deprive someone else of their needs).
+[Exchanges](money-economics.md) would be dramatically different than we're accustomed to. Someone would make something that someone else wanted. The receiving person wouldn't pay for it, but they'd be grateful, along with everyone else. Thus, if the [creator](creations.md) ever needed or wanted for anything, they could freely take it, but would also love everyone else to the point that they'd consider *others'* needs as well when taking (i.e., give up what they had or not take something if it would otherwise deprive someone else of their needs).
 
 Property ownership would still exist, but [conflicts over it](people-boundaries-why.md) wouldn't be as toxic. The purpose of property would be less about [power](power.md) and more about [responsibility](meaning.md). Someone would have a well, for example, who was responsible for keeping it cleared, but *everyone* would profit from the well-being cleared, and they'd often gift the owner out of gratitude.
 
@@ -81,7 +81,7 @@ There'd be no [power](power.md) games to gain more work, since the [purpose](pur
 
 People would be more patient in their work, and everyone else patient with them as they worked. People would only move slowly to get the job done right, *not* out of laziness, since they'd understand the importance of their job. There'd be no pressure to cut corners or rush deadlines, so [safety risks](safety.md) from those created things would be rare or nonexistent. Useless jobs wouldn't exist because nobody would have any need to [appear](people-image-why.md) busy.
 
-To [advertise](marketing.md) work, a person would only need word-of-mouth. Everyone else, in their love for others, would be constantly trying to connect two people they knew, but wouldn't try to [profit](economics.md) off the exchange.
+To [advertise](marketing.md) work, a person would only need word-of-mouth. Everyone else, in their love for others, would be constantly trying to connect two people they knew, but wouldn't try to [profit](money-economics.md) off the exchange.
 
 Marketplaces would look dramatically different from what we have now. Instead of people screaming for attention or obstructing the view with advertising, they'd only attempt to indicate their services clearly or heighten the customer's enjoyment of their product. In the case of similar vendors, passersby would visit the least-visited services to consume.
 
@@ -91,7 +91,7 @@ If the market for something ever over-saturates, whatever it is, then *everyone*
 
 Since people wouldn't generally be lazy or too conceited to receive correction, they wouldn't need managers, with the possible exception of massive projects. However, managers of large projects would serve more as record-keepers and convenient points of contact with others than taskmasters.
 
-Whenever someone could *not* find work, for whatever reason, there would be a public allowance for them for all the resources they'd need to survive (e.g., food, shelter, internet). However, they'd only be permitted to take what they required, and they'd never receive a money-based allowance (since it would inevitably cause [economic inflation](economics.md) and dilute the value it would give to the needy).
+Whenever someone could *not* find work, for whatever reason, there would be a public allowance for them for all the resources they'd need to survive (e.g., food, shelter, internet). However, they'd only be permitted to take what they required, and they'd never receive a money-based allowance (since it would inevitably cause [economic inflation](money-economics.md) and dilute the value it would give to the needy).
 
 ## Creativity
 
@@ -161,8 +161,8 @@ To accomplish this society, everyone would have to be [loving](people-love.md). 
 
 We're stuck with the unpleasant constraints of reality as we now llive it. It can't get better until we change [human nature](humanity.md) to be more [loving](people-love.md), and the only solutions that can do it come through [religious doctrines](religion.md). Without that love, it'll become another complicated dictatorship by a new name.
 
-The most clear evidence of this comes through how we presently have all the [technology](technology.md) available to easily cure many human afflictions (many diseases, hunger, etc.) but haven't done it yet. The only reliable way it gets done is through [capitalism](economics.md), which is clear evidence of a lack of [inherent virtue](morality.md) within people. Even scaling up through the [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale) will create a fiction that looks more like Warhammer 40K than Star Trek.
+The most clear evidence of this comes through how we presently have all the [technology](technology.md) available to easily cure many human afflictions (many diseases, hunger, etc.) but haven't done it yet. The only reliable way it gets done is through [capitalism](money-economics.md), which is clear evidence of a lack of [inherent virtue](morality.md) within people. Even scaling up through the [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale) will create a fiction that looks more like Warhammer 40K than Star Trek.
 
-The [leftists](politics-leftism.md) and [libertarians](economics.md) both have a theory that there's a group that "distorts" the natural flow of human nature (the capitalists for the leftists, and the legislators for the libertarians). However, neither of them are indicating particularly *where* those [antagonists](stories-why.md) came from.
+The [leftists](politics-leftism.md) and [libertarians](money-economics.md) both have a theory that there's a group that "distorts" the natural flow of human nature (the capitalists for the leftists, and the legislators for the libertarians). However, neither of them are indicating particularly *where* those [antagonists](stories-why.md) came from.
 
 This is perfectly possible, but it requires [a perfect, benevolent King to run things](https://theologos.site/millennium/), which is certainly [religious](https://theologos.site/gospel/).

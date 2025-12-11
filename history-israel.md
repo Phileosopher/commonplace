@@ -207,7 +207,7 @@ In 1920, after the war, [the territory was split between Britain and France](his
 
 The League of Nations [granted Britain's Mandate](history-israel-1923.jpg) in 1922 that included the Balfour Declaration, but also gave similar provisions for Arab Palestinians.
 
-The Third Aliyah was between 1919 right after the war, up to 1923, when Palestine suffered an [economic](economics.md) crisis.
+The Third Aliyah was between 1919 right after the war, up to 1923, when Palestine suffered an [economic](money-economics.md) crisis.
 
 - Russia's October Revolution, antisemitic pogroms in Eastern Europe, and the Balfour Declaration all contributed to the move.
 

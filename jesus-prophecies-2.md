@@ -1,5 +1,5 @@
 
-# List of prophecies fulfilled through Jesus - part 2
+# List of prophecies fulfilled through Jesus part 2
 
 The enmity of kings foreordained
 

@@ -3,7 +3,9 @@
 
 Often in large organizations, a [committee](groups-large.md) makes changes to the UX, and it tends to follow a lengthy procedure for it to roll out.
 
-First, there are a variety of techniques to learn what the users' optimal behaviors will be:
+While it may take a few minutes to do something and reverse it in a small operation, most organizations require a design brief to ensure a project is within scope of what the leadership wants.
+
+FThere are a variety of techniques to learn what the users' optimal behaviors will be:
 
 - Focus groups will ask for opinions and feelings related to specific cues.
 - Card sorting, where people organize and categorize information in a way that makes sense to them.
@@ -77,7 +79,7 @@ Most of the time, UX developers follow safe fashions, but frequently they'll [ru
 - Designers have seen the same old, tired thing. They tend to not understand that the thing exists in its current form is because it was often *the* best way to do it, or they're disregarding conventions that everyone is used to.
 - When a new design trend or [technology](technology.md) becomes popular, designers tend to abuse it.
 - Sometimes, [managers](mgmt-1_why.md) will override the designers' professional experience, testing, and common sense based on their personal preferences or interests.
-- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](marketing.md) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](economics.md) through appealing to an [image](people-image-why.md) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](entrepreneur-1_why.md) elsewhere).
+- Often, once a product has become complex enough to fulfill a specific use, its complexity forms a [cult-like](marketing.md) culture around it that elevates the object as more valuable than what it actually *does*. At that point, it satisfies [market demand](money-economics.md) through appealing to an [image](people-image-why.md) of sophistication, while being awful for the user (and also opening up the opportunity for [a better version](entrepreneur-1_why.md) elsewhere).
 
 There are plenty of examples of bad fashions:
 

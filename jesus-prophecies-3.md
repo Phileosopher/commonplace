@@ -1,5 +1,5 @@
 
-# List of prophecies fulfilled through Jesus - part 3
+# List of prophecies fulfilled through Jesus part 3
 
 He will teach all nations
 

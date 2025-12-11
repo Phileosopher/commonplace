@@ -44,7 +44,7 @@ Technology [empowers](power.md) civilization:
 
 Technology makes our world cleaner, more productive, and wealthier. It allows us to fix "unfixable [problems](purpose.md)", assuming [political systems](politics-systems.md) permit those technologies to flourish.
 
-Technological development is fueled the most by [capitalism](economics.md) (because people want to benefit from what they [make](creations.md)) and [science](science.md). Most societies who don't embrace both of these will often [steal those ideas](mgmt-badsystems.md) from other societies who do.
+Technological development is fueled the most by [capitalism](money-economics.md) (because people want to benefit from what they [make](creations.md)) and [science](science.md). Most societies who don't embrace both of these will often [steal those ideas](mgmt-badsystems.md) from other societies who do.
 
 Of course, while technology adds wealth, it creates more inequality. A few people with a complex tool that can perform the work of hundreds is guaranteed to have more power than a hundred people without that tool.
 
@@ -144,7 +144,7 @@ Technology can never fully replace human [creativity](mind-creativity.md) unless
 
 Some people inclined toward technology find comfort in technology fully replacing in-person [interaction](people-conversation.md), but it's impossible without absurdly more powerful computers. We send a *lot* of information back-and-forth, with tons of context that draws from the entire interaction. This context includes a prioritized matrix of *forgetting* information proportionally to how far back it is and when it's no longer [useful](purpose.md). Even with something like a "hard" hologram, we'd always [intuitively](mind-feelings.md) [know](understanding.md) a person isn't there.
 
-APPLICATION: Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](economics.md) and lean *very* heavily into [scientific values](science.md).
+APPLICATION: Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](money-economics.md) and lean *very* heavily into [scientific values](science.md).
 
 ## Drawbacks
 

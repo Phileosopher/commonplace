@@ -60,7 +60,7 @@ We get more emotional proportionally to how frequently we check our investments.
 
 Don't assume a present windfall means you can re-gain it.
 
-- [Markets](economics.md) and opportunities change, [technology](technology.md) changes, [laws](legal-safety.md) change, and conditions today may be different from when you had made a gain before.
+- [Markets](money-economics.md) and opportunities change, [technology](technology.md) changes, [laws](legal-safety.md) change, and conditions today may be different from when you had made a gain before.
 
 ## Calculate returns
 
@@ -229,7 +229,7 @@ At any given moment, a market trend exists as one of 4 movements, and you should
 
 1. Prosperity:
    - Living standards are rising
-   - The [economy](economics.md) is growing
+   - The [economy](money-economics.md) is growing
    - Business is thriving
    - Interest rates are typically falling
    - Unemployment is declining

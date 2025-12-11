@@ -8,6 +8,10 @@ This is an informal list of the varieties of neurodivergence.
 
 Everyone likely possesses at least a *little* of each of these as well, so the classification really has no place for [prejudice](people-discrimination.md).
 
+- Most people see [aberrant behavior](people-rules-list.md) as something dangerous.
+- Most of the time, there is a very specific place for neurodivergence, and an utterly *terrible* place for it as well.
+- Often, the needs of a neurodivergent are the same as everyone else's, but in differing quantities.
+
 ## Attention deficit disorder (ADD)
 
 A hyperactive focus on many things, often with many connections and associations, but with very little refinement of the thoughts.
@@ -18,14 +22,35 @@ A hyperactive focus on many things, often with many connections and associations
 
 Indicators:
 
-- Easily shifts subjects without any provocation.
-- Difficulty staying focused on one task.
-  - However, this is not true when mixed with autism, where the hyperfocus draws in associations from *everything* toward a singular task.
+1. Hyperactive
+   - Trouble with patiently waiting their turn
+   - Excessively talking
+   - Speaks very quickly
+   - Has no internal language "filter" and over-shares information
+2. Impulsive
+   - Interjects rapid, emotional answers
+   - Rambles or veers off-topic
+   - Easily shifts subjects without provocation
+   - Fidgets when others are speaking
+   - Difficulty staying focused on one task
+3. Inattentive
+   - Easily bored and distracted by external stimuli or background information
+   - Unintentionally loud
+   - May unintentionally dominate conversations
+   - Forgets details and needs to have information repeated
+   - Appears to ignore others
+
+ADD often mixes with [autism](mind-neurodivergence-autism.md).
+
+- The dominant different is the lack of autistic hyperfocus, which draws in associations from *everything* toward a singular task (e.g., everything is about Star Wars).
 
 How to behave with them:
 
 - Give them room to run their mind all over the place.
 - Don't expect them to be reliable.
+- If you're patient, you can often train them to be more socially acceptable:
+  - Openly state when they've interrupted you.
+  - If they ever indicate two unrelated domains, ask them how they are related.
 
 The cure for it:
 
@@ -33,33 +58,7 @@ The cure for it:
 
 ## Autism spectrum disorder (ASD)
 
-A granular perspective, drawing stories from the bottom-up instead of the natural top-down view.
-
-- Represented as a broad spectrum, ranging from high-functioning (aka "Asperger's symdrome") all the way down to nonverbal.
-- Typically unable to see the "big picture" of things (i.e., "can't see the forest from the trees")
-- Likely caused by *very* early childhood [PTSD](hardship-ptsd.md) before [language](language.md) could be implemented to make sense of their severe [feelings](mind-feelings.md) and sensations.
-
-Indicators:
-
-- Poor body language and expression (though capable of processing the information they experience).
-- A general hyperfixation on specific subjects, lack of interest in other related subjects.
-- General focus on [understanding](understanding.md) to the point of complete [certainty](understanding-certainty.md), often over-certain regarding [unknown things](unknown.md).
-- Context-sensitive indicators:
-  - Tendency to stare too much
-  - Oblivious to personal space or implied messaging (e.g., not noticing you're signaling that you're leaving soon)
-- As they age, harder to diagnose as they develop better masking skills.
-
-How to behave with them:
-
-- Take your time and spell things out, give as many details as they'd like
-- Don't rush them, and communicate as early as possible about *any* [changes](people-changes.md)
-- I've also created [an entire book on the matter](https://adequate.life/autism/)
-
-The cure for it:
-
-- There is no cure, as it is a neurological state of existence.
-- However, socialization is critical, which can only safely happen within a community that can love and validate them.
-- Even without socialization, they can often find tremendous [meaning](meaning.md) through working within their preferred specializations.
+I have enough information on this that [it merits a separate section](mind-neurodivergence-autism.md).
 
 ## Bipolar personality disorder (BPD)
 
@@ -109,9 +108,27 @@ The cure for it:
 
 ## Narcissism
 
-This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-narcissist.md).
+This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-clusterb-narcissist.md).
 
-## Schizophrenia
+## Oppositional Defiance Disorder (ODD)
+
+An antagonism against any authority figures.
+
+- Tends to oppose anything [standardized](standards.md) or "institutionalized".
+- Often participates in anti-institution institutions (e.g., punk culture, hippies, hacker culture).
+- Often simply a product of lower-than-average agreeableness.
+
+How to behave with them:
+
+- Even when hypocritical, respect their views.
+- Avoid behaving like an institutional or authority figure.
+
+The cure for it:
+
+- It typically expresses in adolescence and represents as a [phase of maturation](maturity.md).
+- However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](personality.md).
+
+## Cluster A/Schizophrenia
 
 A viewpoint that is overcrowded with [imagination](imagination.md), to the point of hallucinations and [identity](identity.md) issues.
 

@@ -16,7 +16,7 @@ The psychological term for PTSD is literally a **Disorder** of **Stress** from *
 
 We hold onto our past memories because we still believe we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
 
-1. We must hold onto that information to deliver appropriate [justice](morality-justice.md). This must be [released](mind-feelings-happiness-stress.md) or it will destroy us.
+1. We must hold onto that information to deliver appropriate [justice](morality-justice.md). This must be [released](hardship-forgiveness.md) or it will destroy us.
 2. We must still [learn](education.md) from that information, since those events may affect future [decisions](people-decisions.md) we must make.
 3. We must remember that information to [create](creations.md) something with it, which is a bit like justice but more focused on our efforts than on the cause of the trauma.
 
@@ -24,7 +24,7 @@ While everyone experiences trauma, each person responds to it differently:
 
 - Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](results.md) they want.
 - Others will [pursue something else](mind-creativity.md) to meet their needs.
-- Many people broadly complain about their pain until they've [released the stress from it](mind-feelings-happiness-stress.md).
+- Many people broadly complain about their pain until they've [released the stress from it](hardship-forgiveness.md).
 - In extreme cases, people will tell themselves they don't need something they legitimately need.
 
 Replaying memories is a subconscious habit, so everyone who has felt [pain or fear](mind-feelings-fear.md) has been disrupted from [perfect wellness](goodlife.md), even though they typically don't know it.
@@ -81,7 +81,7 @@ Most of the time that people experience chronic trauma, they develop an increase
 
 Thankfully, because of our tendency to [anticipate](stories-why.md) and [imagine](imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
 
-APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](mind-feelings-happiness-stress.md) about the [injustices](morality-justice.md) they've suffered.
+APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](hardship-forgiveness.md) about the [injustices](morality-justice.md) they've suffered.
 
 ## Detecting
 
@@ -156,7 +156,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
 
 The only solution is to patiently expose ourselves to experiences that relive the trauma until we remove the harsh emotional ties to our past. While each person has their own way to fix it, there likely only one very specific way to release it that *all* trauma release mechanisms employ:
 
-1. Relive the trauma directly, then consciously [release associations with it](mind-feelings-happiness-stress.md). The easiest way to do this is through [self-reflection](awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
+1. Relive the trauma directly, then consciously [release associations with it](hardship-forgiveness.md). The easiest way to do this is through [self-reflection](awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
 2. Discover for ourselves, plainly, what constitutes [the good life](goodlife.md) for ourselves if freed from trauma.
 3. Clarify to ourselves with *exact* [wording](language.md) the things that [trigger](habits.md) our trauma, which is typically a very specific and simple experience that gets in the way of our well-being.
 4. [Find a way](mind-creativity.md) to [circumvent](purpose.md) those tasks while performing all the aspects of a [good life](goodlife.md).

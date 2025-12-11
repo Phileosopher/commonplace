@@ -1,7 +1,7 @@
 
 # What morality is
 
-Morals are actions that prioritize serving [individual beings](humanity.md) and [social groups](groups-small.md) over things, though how much and who is a [constantly debated question](paradoxes.md).
+Morals are actions that prioritize serving [individual beings](humanity.md) and [social groups](groups-small.md) over things, though how much and who is a [constantly debated question](philosophy-paradoxes.md).
 
 Philosophers love to talk independently about the "good", the "[beautiful](values-quality.md)", and the "[true](reality.md)", but both beautiful and true things have absolutely no value whatsoever without goodness.
 

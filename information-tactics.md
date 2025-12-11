@@ -153,7 +153,7 @@ The Over-Information Age has effectively reversed the constraints:
 
 Our inherently social nature, mixed with the ubiquity of [social media](networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.
 
-The sheer supply of information will create an [economic devaluation](economics.md), but off-hand information means that much of that excessive information will be *bad* information. That thing you wanted to say will become more semi-decent noise for others to sift through.
+The sheer supply of information will create an [economic devaluation](money-economics.md), but off-hand information means that much of that excessive information will be *bad* information. That thing you wanted to say will become more semi-decent noise for others to sift through.
 
 As an extreme [artistic depiction](mind-creativity.md), [Minus](https://minus.social/) gives the farthest end of the scarcity of our resources: 100 posts for life. Nobody, however, needs to be that dramatic.
 
@@ -333,7 +333,7 @@ For myself, I also have a few dogmatic rules to avoid unproductive information:
    - The extra hardship against the assertion will burn off the citation. Mussolini, Kennedy, Joseph Stalin, and Gandhi all had valid points.
    - The conflict sheds light on the relative [power](power.md) of the individuals holding that view. This is highly useful to see how soon [trends](trends.md) about [taboo topics](morality-taboo.md) will shift.
 4. The highest form of meaningful living requires [love for others](people-love.md), which considers others' interests equally with one's own. Love focuses equally on the truth and the individuals' [feelings](mind-feelings.md) about that truth.
-5. [Agrippa's Trilemma](paradoxes.md) means the place for truth isn't self-referenced and is inherently a religious matter. We [fight and kill](people-conflicts-war-why.md) over where that information resides, but the only solution (albeit not very reliably) is to incorporate love.
+5. [Agrippa's Trilemma](philosophy-paradoxes.md) means the place for truth isn't self-referenced and is inherently a religious matter. We [fight and kill](people-conflicts-war-why.md) over where that information resides, but the only solution (albeit not very reliably) is to incorporate love.
 6. We learn most things through trial-and-error before they're "[known good](https://adequate.life/fix/)", so there will be many screwups along the way. It does save tons of effort to know *what* is deductively true (Rule 1), but nobody will agree on it (Rule 3).
 
 Your own dogmatic rules *will* vary, but they should distill into equally potent axioms.

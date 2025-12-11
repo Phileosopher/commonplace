@@ -119,7 +119,7 @@ Jesus gives Christians the best way to pray while maintaining a healthy perspect
 1. Use one of God's names and remember He's your heavenly father.
 2. Ask for His will to be done on earth in the same way He has it in heaven.
 3. Ask Him to provide today's physical needs.
-4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](mind-feelings-happiness-stress.md) against you.
+4. Ask Him to forgive any sins in the same way that you've [forgiven others' sins](hardship-forgiveness.md) against you.
 5. Ask for [protection and safety](safety.md) from [evil](morality-evil.md) and destruction.
 6. Thank him and acknowledge His complete [power and authority](power.md).
 

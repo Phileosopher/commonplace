@@ -212,7 +212,7 @@ They may simply be bitter or angry regarding [past trauma](hardship-ptsd.md) or 
 Occasionally, they're completely uninterested in the discussion.
 
 - Most [younger life stages](maturity.md) in [developed cultures](engineering-conveniences.md) don't have to think about [death](hardship-death.md).
-- At that point, it's a [philosophical thought experiment](paradoxes.md) or hobby to them.
+- At that point, it's a [philosophical thought experiment](philosophy-paradoxes.md) or hobby to them.
 - The best thing is to share with them if they want to hear it, and move on.
 
 Some non-believers defend their views through elaborate thinking that they're typically unaware of.
@@ -290,7 +290,7 @@ Many political issues have very few grounds for a Christian to make an opinion o
 - Gun rights
 - Recreational drug use or legalization (except *maybe* [1 Peter 5:8](https://biblehub.com/1_peter/5-8.htm))
 - [Privacy](faang.md) rights
-- The [economy](economics.md)
+- The [economy](money-economics.md)
 - [Climate change](politics-leftism.md) (except that God has full control of it all)
 - Government decisions and spending
 - The government's use of the death penalty
@@ -304,7 +304,7 @@ Many political issues have very few grounds for a Christian to make an opinion o
 Or, to put it another way, Christians are waiting for a King that will [do away with plenty of our political issues](https://theologos.site/millennium/):
 
 - Gun rights and privacy rights are a part of [security](security.md), which wouldn't be necessary with Jesus ruling fairly.
-- Society won't run on greed (which drives [capitalism](economics.md)), so economic and poverty issues would be nonexistent.
+- Society won't run on greed (which drives [capitalism](money-economics.md)), so economic and poverty issues would be nonexistent.
 - With Jesus physically present, the government's activities would be fair and thorough. This would also extend to ecological and military issues, as well as social issues like gay marriage or violence in public media.
 
 Most Christians can stand for many civil rights, they must only do it within the realm of what they can control, and must always keep [God's long-game](https://theologos.site/millennium/) in mind.

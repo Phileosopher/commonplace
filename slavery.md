@@ -64,9 +64,9 @@ We can also make [decisions](people-decisions.md) to *increase* our enslaved sta
 
 Often, the word "slave" has implications of forced labor, separating [families](people-family.md), and [destroying lives for entertainment](morality-evil.md). The practice is [*far* from abolished](http://www.endslaverynow.org), and likely never will be.
 
-The institution of slavery in practice, however, is merely an unfeeling structure that cuts off opportunities purely because of a social status. The only people worth declaring [evil](morality-evil.md) are the direct slaveholders and that [society's](people-culture.md) acceptance of the practice. However, depending on the culture and [economic necessity](economics.md), [good people](morality.md) may still own slaves.
+The institution of slavery in practice, however, is merely an unfeeling structure that cuts off opportunities purely because of a social status. The only people worth declaring [evil](morality-evil.md) are the direct slaveholders and that [society's](people-culture.md) acceptance of the practice. However, depending on the culture and [economic necessity](money-economics.md), [good people](morality.md) may still own slaves.
 
-Generally, the actual value people treat their enslaved subjects is contingent on [economics](economics.md). Historically, slaves who had highly valuable [specializations](jobs-specialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
+Generally, the actual value people treat their enslaved subjects is contingent on [economics](money-economics.md). Historically, slaves who had highly valuable [specializations](jobs-specialization.md) were assigned to the household and treated as if they were [family members](people-family.md).
 
 Hypothetically, if everyone were enslaved to a perfectly [good](morality.md) and [loving](people-love.md) master, the arrangement would be mutually beneficial. That master would take care of every need, and the slaves would be [satisfied](mind-feelings-happiness.md) and [live well](success-1_why.md).
 

@@ -96,7 +96,7 @@ The [Natural World](reality.md):
 - Giving is better than receiving.
 - [Success](success-1_why.md) can be [lonely](people-friends.md).
 - Don't play [God](religion-answers.md).
-- [Capitalism](economics.md) is bad.
+- [Capitalism](money-economics.md) is bad.
 - Fools lose their money quickly.
 - Saving money is as good as earning it.
 - The more power, the more [responsibility](meaning.md).

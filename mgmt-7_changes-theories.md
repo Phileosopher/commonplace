@@ -128,7 +128,7 @@ It emphasizes a focus on making important things urgent and fosters a culture of
 
 ## Kubler-Ross change management framework
 
-It draws on the 5 stages of [how we handle losses](mind-feelings-happiness-stress.md):
+It draws on the 5 stages of [how we handle losses](hardship-forgiveness.md):
 
 1. Denial - not able to admit the change.
 2. Anger - generally upset in response to the change.

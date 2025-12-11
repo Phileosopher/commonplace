@@ -18,11 +18,11 @@ In a large government, there are multiple organizational elements:
 
 These four elements can mix-and-match depending on how the government is framed. Typically, the public has *no* control over anything except (possibly) electing their legislature, though more free societies will have elections for their heads of state and government. The nature of [corruption in large systems](mgmt-badsystems.md) guarantees that the public will never get much control over the bureaucracy.
 
-In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries-why.md) of its public than its form of government.
+In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](money-economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries-why.md) of its public than its form of government.
 
 ## Socio-economic ideologies
 
-Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](people-culture.md) and [economic](economics.md) factors that emphasize certain aspects of [living well](goodlife.md):
+Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](people-culture.md) and [economic](money-economics.md) factors that emphasize certain aspects of [living well](goodlife.md):
 
 - Anarchism/stateless societies - emphasizes self-governance and voluntary institutions
 - Capitalism - individuals can "capitalize" on what they own (i.e., "private property")
@@ -124,7 +124,7 @@ Cons:
   - Corporatocracy - run by [corporations](groups-large.md)
   - Kakistocracy - run by the least-qualified citizens
   - Kleptocracy - run by thieves
-    - Banana republic - [economically](economics.md) run through a multi-organization plutocracy exporting a scarce resource
+    - Banana republic - [economically](money-economics.md) run through a multi-organization plutocracy exporting a scarce resource
   - Nepotocracy - run by [family members](people-family.md) of existing leadership
   - Ochlocracy - run by [mob rule](trends.md) via [intimidation](mind-feelings-fear.md) of authorities
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:

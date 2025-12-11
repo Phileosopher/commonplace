@@ -11,7 +11,7 @@ Multi-Level [Marketing](marketing.md) (MLM) is an absurdly volatile domain:
 
 A company must carefully consider their production because mismanaging supply will drive demand down.
 
-- MLM companies don't observe or regulate the [supply/demand relationship](economics.md).
+- MLM companies don't observe or regulate the [supply/demand relationship](money-economics.md).
 
 MLM disregards any supply target.
 
@@ -174,7 +174,7 @@ Conversations with "old friends" tend to become awkward.
 MLM representatives, like [cult members](culture-cults.md), don't hold MLM directly responsible.
 
 - A long-term MLM representative will avoid family and friends, but won't hold the organization responsible for [influencing](power-influence.md) their decision.
-- They'll typically blame themselves, blame their family and friends for not supporting them, or blame the [economy](economics.md).
+- They'll typically blame themselves, blame their family and friends for not supporting them, or blame the [economy](money-economics.md).
 
 Addressing an MLM representative's behavior is usually a waste of time.
 

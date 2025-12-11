@@ -1,5 +1,5 @@
 
-# List of prophecies fulfilled through Jesus - part 1
+# List of prophecies fulfilled through Jesus part 1
 
 This is a non-exhaustive list of Jesus' fulfilled prophecies.
 

@@ -151,7 +151,7 @@ People get products for various reasons:
 - A cause (e.g., bake sale)
 - Name recognition
 
-If a product is marketed well, people will believe taking action toward it will give more value, [meaning](meaning.md), or [purpose](purpose.md) than its [opportunity cost](economics.md) or alternatives:
+If a product is marketed well, people will believe taking action toward it will give more value, [meaning](meaning.md), or [purpose](purpose.md) than its [opportunity cost](money-economics.md) or alternatives:
 
 - Adapting their lifestyle for the product
 - Identifying with the culture associated with the product
@@ -302,7 +302,7 @@ When done correctly, marketing *does* work.
 
 - An object that sells for $10 can easily sell for $15 or $20 with the correct amount of publicity, attention, press events, and website design.
 - With the right story that conveys the correct meaning to the right audience, an object that's free or nearly worthless can sell as a luxury product.
-- However, there are limits to its effectiveness: barring [the economy changing](economics.md), a $10 commodity will never sell for $100.
+- However, there are limits to its effectiveness: barring [the economy changing](money-economics.md), a $10 commodity will never sell for $100.
 
 Unfortunately, in our [over-information society](information.md), many marketing messages miss the mark in several possible ways:
 

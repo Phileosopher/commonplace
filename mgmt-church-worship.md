@@ -15,53 +15,6 @@ The entire convergence on this page is *not* precise, but accurate-enough.
 - Denominations have been split over relatively minor aspects like placement of elements and choice of music.
 - While the Catholic Church suppresses *all* dissent, Protestantism has a vast and immeasurable range of permutations to every single rite.
 
-## How rituals/sacraments matter
-
-Most of the conventions that make a "typical" church are borrowed from a few source traditions:
-
-1. The Hebrew temple had many traditions established (many of them from [Levitical law](https://biblehub.com/leviticus/1.htm)).
-2. After the Temple fell in [2 Kings 24:10-14](https://biblehub.com/2_kings/24.htm), the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
-3. New followers of Christ [imitated synagogue tradition](history-church.md) (mostly) and added their own adaptations.
-4. As Gentiles arrived, some traditions were removed or permuted to accommodate non-Hebrews.
-5. By approximately 200 AD, the Catholic Church later codified and standardized those traditions.
-6. Within a few centuries, the Catholic traditions were practically the law, and the cultural assimilation meant pagan rituals merged into the practice.
-7. Starting in 1517, the Protestant Church *removed* many of those traditions, but didn't add many.
-
-The [Bible](bible.md) itself only has a few verses that indicate daily details on how to run a church:
-
-- *Some* sacraments (i.e., communion/Eucharist and baptism), though on a more personal level and without many details.
-- Specific qualifications necessary within people you wish to appoint as [leaders](mgmt-church.md).
-- Almost every other Bible verse about the church are simply [patterned expansions](symbols.md) into a [corporate culture](groups-small.md) from living among [family and friends](people-family.md).
-
-However, across a few thousand years, the Church *has* had some good ideas.
-
-- Those ideas may or may not be good for your [culture](people-culture.md), and they're not necessary to run a church.
-- The things you pick-and-choose should conform to [how that congregation is gifted](spiritual-gifts.md) and [how God designed them](identity.md).
-
-While [Christian rituals](mgmt-church-worship-rituals.md) are *very* heavily inspired by Jewish and pagan tradition, the [redemption in Christ](jesus-gospel.md) makes the entire experience direct into a different form towards the [unknown](unknown.md).
-
-- Further, *how* the rituals are performed can create a dramatic difference in how the congregants interpret it.
-
-Each denomination derives a certain form of [meaning](meaning.md) over rituals by *their* interpretation.
-
-- Over the centuries, many of the rituals have been expanded *far* beyond the Bible, and the biblical basis is either [nonexistent](theology-solae.md) or only partly applicable.
-
-To that end, this is an attempt to indicate all the ways you *could* do church.
-
-- You can, however, apply any Bible verses about living well on an individual level to make new rituals and sacraments, which will likely spin into [a different denomination](history-church.md) over time.
-- A church should develop its own creativity in discovering new ways to live more like Christ ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
-
-Therefore, while most of the essays here use Bible citations, this page doesn't call for an exhaustive listing.
-
-- If a believer has read through the Bible at least once, they should be able to see what the pattern is and why it would make sense.
-
-None of the following are technically "necessary" for any salvation-based matters.
-
-- The Bible makes it clear that God saves us, not the way we conduct our rituals ([Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)).
-- Instead, a ritual's purpose is the same as any other [spiritual exercise](spiritual-exercises.md): to create a [habitual rhythm](habits.md) that fosters [virtuous living](morality.md).
-- Religious observance also creates a type of [group cohesion](values.md) through a [shared purpose](purpose.md).
-- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm), [Romans 14:1-12](https://biblehub.com/romans/14.htm)).
-
 ## Statement of faith
 
 The statement of faith is essentially a [philosophical assertion](philosophy.md) of all aspects that unite your church together.
@@ -69,9 +22,11 @@ The statement of faith is essentially a [philosophical assertion](philosophy.md)
 - It can be long or short, but it *will* be [controversial](people-conflicts-christian-why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 - Generally, the more details, the more controversial, but the more likelihood you'll find like-minded believers joining your church (if any).
 
-The [sacraments and rituals](mgmt-church-worship-rituals.md) directly flow from the creeds and catechisms you choose to adopt.
-
 You can draw from a wide variety of creeds and catechisms for inspiration.
+
+## Rituals and sacraments
+
+The [sacraments and rituals](mgmt-church-worship-rituals.md) directly flow from the creeds and catechisms you choose to adopt.
 
 ## Implicit meaning
 
@@ -82,38 +37,16 @@ All Christian tradition older than 20 years is simply how the Church had adopted
 - Most modern (and any future) Christian tradition is assembled on a Protestant framework, but with *very* [modern views](trends.md).
 - Your [culture](people-culture.md) will vary on practicing church, and no church model is ideal because each person [derives meaning](meaning.md) differently.
 
-## Common failures
-
-Weekly church gatherings tend to partially alienate the [motivational gifts](spiritual-gifts.md) from serving in a broader capacity:
-
-- Encouragement will find the most satisfaction in the uplifting music and good news in the announcements.
-- Serving will be satisfied when they see opportunities to help in the ministry's operations.
-- Giving will be satisfied in supporting the group at large.
-- Teaching will be most satisfied with the preacher's study and additional Bible studies, or a teaching role for themselves.
-- Prophecy will be satisfied by the preacher speaking difficult truths.
-- Mercy won't find any satisfaction in the main service, but often through off-topic discussions about personal issues during meetings.
-- Administration finds satisfaction when they see everything well-organized, or if they're free to run a ministry.
-- Faith will usually never find satisfaction outside of stories of missionaries, church plants, or new ministry opportunities.
-
-One combined solution can accommodate *every* member's individual needs:
-
-1. The weekly meeting is encouraged as a pick-and-choose experience:
-   - Unless they're conducting it, each person can meet for any particular element of the service.
-   - There's no requirement for them to attend the *entire* service.
-2. Preaching and teaching *never* expand beyond crowds of ~150 people.
-   - Above that point, people have [issues personally connecting](groups-small.md).
-3. When sub-leaders are appointed to preach and teach, each group has its own autonomy.
-   - If anyone discovers new [ideas](trends.md), *everyone* hears about them, even if they're bad.
-   - Leaders are responsible to publicly address their decisions with the entire gathering.
-4. If anyone has a divergent opinion from the group's [culture](people-culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
-   - This shoudl include sending a significant minority with that person to pursue other unrelated ministries.
-
 ## Denominational distinctions
 
 Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 - Beyond [Scripture](bible.md), this will be *highly* personal, and won't apply to others.
 - However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/matthew/10.htm)).
+
+Unfortunately, the [culture](people-culture.md) surrounding a Church will heavily define how people interpret Scripture.
+
+- Currently in the USA, [leftward thinking](politics-leftism.md) drives church leadership, while the congregation represents the approximate [political views](politics-conservativeliberal.md) of American society. This reflects the general leftism of the [capital and governing class](classes.md)
 
 If you pull *anything* from existing denominations, you'll also often draw their added criticism because it was inspired from them.
 
@@ -126,6 +59,12 @@ Expect [conflicts](people-conflicts-christian-why.md) with other Christians.
 - God designed all good things, and using a good thing in its place with Him as part of it is just as spiritual as any long-standing traditions or denominations.
 - Even extremely *non*-religious domains (e.g., [science](science.md), [engineering](engineering.md)) can be holy if Christ is at the center of it.
 - By implication, this means all secular things can be holy, and that is [taboo](morality-taboo.md) among most Christians, even though the Bible indicates it clearly ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
+
+Don't get tangled with tiny [theological](theology.md) details that distinguish your church from others.
+
+- Far too often, [dumb issues](people-conflicts-christian-1_dumb.md) interrupt the [spiritual connections](church-family.md) that would otherwise emerge.
+- Be careful to *precisely* understand what other denominations believe.
+  - Far too often, leaders will [oppose a straw man](mind-bias-social.md) instead of what anyone legitimately believes.
 
 ## Growth
 
@@ -157,6 +96,75 @@ However, the Bible itself only refers to appointing "elders" and "deacons".
 
 - In other words, there's not much regarding the hierarchy of [trust](trust.md) beyond whether someone is fit to [lead](spiritual-discipleship.md).
 - The greatest spiritual leader will have [endured persecution](hardship-persecution-church.md) in Jesus' name.
+
+#### Organizational crisis
+
+Stay *very* vigilant of any burnout or overwork in the leadership.
+
+There are several things together that make church leadership understaffed:
+
+1. Many members are complacent.
+2. Many incumbent leaders have [trust issues](trust.md), especially when they're [NPD](mind-neurodivergence-clusterb-narcissist.md).
+3. Church donations aren't always sufficient to hire people a substantial full-time wage for tasks they perform.
+
+Watch for warning signs:
+
+- Church leaders' turnover is relatively high.
+  - In particular, youth pastors are particularly overworked.
+- The administrative tasks aren't being completed in a timely manner.
+  - Bulletins and calendars aren't sent out on time.
+  - There's no clear centralized information structure.
+- There's a constant call to help, but nobody seems to volunteer for the role.
+
+There are only several solutions to the issue:
+
+1. Give [responsibility](meaning.md) to newer or less-involved members.
+   - This may yield adverse effects, but the failings give spiritual opportunities for repentance and forgiveness.
+2. Give leadership duties to other leaders.
+   - Many times, we don't realize the full scope of what roles require, especially as church leaders [specialize](jobs-specialization.md).
+3. Ask the congregation for advice on what to do.
+   - This is a huge risk, but opens up the [creativity](mind-creativity.md) of members, and gives opportunities for God to work.
+
+After enough years as an active church, expect politics to constantly revolve around the direct family of the leadership.
+
+- The children of pastors are the most susceptible, and run the highest risk of developing a neurodivergence from the experience.
+
+#### Members' participation
+
+Weekly church gatherings tend to partially alienate the [motivational gifts](spiritual-gifts.md) from serving in a broader capacity:
+
+- Encouragement will find the most satisfaction in the uplifting music and good news in the announcements.
+- Serving will be satisfied when they see opportunities to help in the ministry's operations.
+- Giving will be satisfied in supporting the group at large.
+- Teaching will be most satisfied with the preacher's study and additional Bible studies, or a teaching role for themselves.
+- Prophecy will be satisfied by the preacher speaking difficult truths.
+- Mercy won't find any satisfaction in the main service, but often through off-topic discussions about personal issues during meetings.
+- Administration finds satisfaction when they see everything well-organized, or if they're free to run a ministry.
+- Faith will usually never find satisfaction outside of stories of missionaries, church plants, or new ministry opportunities.
+
+One combined solution can accommodate *every* member's individual needs:
+
+1. The weekly meeting is encouraged as a pick-and-choose experience:
+   - Unless they're conducting it, each person can meet for any particular element of the service.
+   - There's no requirement for them to attend the *entire* service.
+2. Preaching and teaching *never* expand beyond crowds of ~150 people.
+   - Above that point, people have [issues personally connecting](groups-small.md).
+3. When sub-leaders are appointed to preach and teach, each group has its own autonomy.
+   - If anyone discovers new [ideas](trends.md), *everyone* hears about them, even if they're bad.
+   - Leaders are responsible to publicly address their decisions with the entire gathering.
+4. If anyone has a divergent opinion from the group's [culture](people-culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
+   - This shoudl include sending a significant minority with that person to pursue other unrelated ministries.
+
+The conformity of Christian culture should reflect the principles God established in the Hebrew law ([1 Corinthians 14:26-40](https://biblehub.com/1_corinthians/14.htm)).
+
+- Whatever you do, do it peacefully.
+- Don't condemn prophecies or tongues, but make sure it's one at a time and builds up the Body.
+
+However, *some* practices are [taboo](people-conflicts-christian-4_false.md) according to the Bible.
+
+- When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/1_corinthians/14.htm)).
+  - This doesn't forbid female *teachers*, but individual questions can be very distracting.
+- [Sinful](morality-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).
 
 Deductively, every church will have 3 different classifications of "believer" ([Matthew 7:22-23](https://biblehub.com/matthew/7.htm) and [13:24-30](https://biblehub.com/matthew/13.htm), [1 Corinthians 3:10-15](https://biblehub.com/1_corinthians/3.htm)):
 

@@ -14,7 +14,7 @@ While there are many things that can be "conserved", there are some things that 
 3. A limited, accountable government (which has been proven to work best as a [constitutional republic](politics-systems.md)).
 4. All [basic civil rights and liberties](people-boundaries.md).
 5. [Educational institutions](education.md) that are genuinely truth-seeking on all levels.
-6. A market-based, prosperous [economy](economics.md) that improves living standards for everyone (at the same time, only operating within the scope of the common good).
+6. A market-based, prosperous [economy](money-economics.md) that improves living standards for everyone (at the same time, only operating within the scope of the common good).
 7. [Public safety](people-rules.md) officials who are uncorrupted, efficient, and effective (including police, prosecutorial, and judicial authorities).
 8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children)).
 9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
@@ -47,11 +47,11 @@ They're both partly wrong:
 APPLICATION: Some issues are *not* aligned on the political spectrum:
 
 - The development of [technology](technology.md) makes unintelligent people less necessary, and society currently doesn't have jobs for anyone with an IQ of 85 or lower. Conservatives claim they need fewer barriers to the job market, and liberals believe they can get job training for anything whatsoever, and they're both wrong.
-- Government [debt](money-2_debt.md) is an [economic](economics.md) risk, but a conservative nation will gladly spend more on its military, while a liberal nation will spend more on social welfare programs. There is usually limited discussion on how to frame taxes that minimize pain to the public, since that would require cutting back on military or social welfare programs, which are government forms of [power](power.md).
+- Government [debt](money-2_debt.md) is an [economic](money-economics.md) risk, but a conservative nation will gladly spend more on its military, while a liberal nation will spend more on social welfare programs. There is usually limited discussion on how to frame taxes that minimize pain to the public, since that would require cutting back on military or social welfare programs, which are government forms of [power](power.md).
 
 Conservative and liberal are difficult to define because they're responses to [trends](trends.md), which means they move as the trends move. If something was once a certain way 400 years ago, it's a conservative or liberal idea depending on whether anyone remembers it, and this creates a much smaller "window" inside the larger spectrum of extreme political values called the Overton Window.
 
-- At one time, in the 1880s, it was a conservative thought in the USA to want complete isolationism from the rest of the nations, and a progressive thought to want the government to get involved with [economic](economics.md) and [military](people-conflicts-war-why.md) arrangements.
+- At one time, in the 1880s, it was a conservative thought in the USA to want complete isolationism from the rest of the nations, and a progressive thought to want the government to get involved with [economic](money-economics.md) and [military](people-conflicts-war-why.md) arrangements.
 - However, in the 1950s, it was a conservative thought to be anti-[communist](politics-leftism.md) and enhance the military, and a liberal thought to increase economic partnerships with communist countries.
 
 Political power often requires bending public opinion, so "conservative" and "liberal" are often hijacked for other [purposes](purpose.md). Sometimes, *conservatives* are looking for new things and liberals are trying to restore an old social order, but [feelings](mind-feelings.md) run so strongly that the definition and meaning of the words everyone uses is very difficult to separate out.

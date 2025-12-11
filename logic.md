@@ -161,7 +161,7 @@ While we *can* use logic to discover truths, it's not always the best solution. 
 To make sense of the world, we slice up [reality](reality.md) into various groups:
 
 - SWOT analysis: Strengths, Weaknesses, Opportunities, Strengths
-- PEST analysis: [Political](groups-large.md), [Economic](economics.md), [Socio-Cultural](people-culture.md), and [Technological](technology.md) factors
+- PEST analysis: [Political](groups-large.md), [Economic](money-economics.md), [Socio-Cultural](people-culture.md), and [Technological](technology.md) factors
 - STAR points: Situation, Task, Action, Result
 - The 5 "Why's": ask "why" in a sequential chain five times to discover something close to the original cause
 
@@ -177,7 +177,7 @@ Since we can't gather *all* the inputs, we can never fully [predict the future](
 
 APPLICATION: Even if you have many qualifiers, you can still find complete certainty in [reality](reality.md) (e.g., "I am completely certain that, assuming the world is not an illusion and that I'm not crazy, I am presently sitting in a chair"). The easiest of these are negations (e.g., "I know I am not a fish").
 
-One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](paradoxes.md). By creating [imagined](imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
+One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](philosophy-paradoxes.md). By creating [imagined](imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
 
 APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
 

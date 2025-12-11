@@ -31,7 +31,7 @@ But, don't simply release your software to the public domain without a sufficien
 
 ## Free Use
 
-One of the major pioneers of the free software movement was Richard Stallman. He presented an extreme viewpoint of *completely* free software, embodied in the GPL (see below). There have been many personal criticisms leveled against him (mostly about his demeanor or hygiene), but most of that (along with his extreme views) can be simply explained by his [high-functioning autism](autism.md).
+One of the major pioneers of the free software movement was Richard Stallman. He presented an extreme viewpoint of *completely* free software, embodied in the GPL (see below). There have been many personal criticisms leveled against him (mostly about his demeanor or hygiene), but most of that (along with his extreme views) can be simply explained by his [high-functioning autism](mind-neurodivergence-autism.md).
 
 A software's "source code" is either open or closed based on how accessible the "code base" is to the public:
 

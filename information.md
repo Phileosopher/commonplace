@@ -57,7 +57,7 @@ Our present social trend is the Over-Information Age, and I anticipate this era 
 
 The Over-Information Age consists of each individual person possessing many lightweight connections across the world, irrespective of geography but dependent on [technology](technology.md), and comparatively few in-person interactions with their predecessors.
 
-While information itself used to have value, most of the competition has now pivoted to a *desperate* competition for everyone's scarce attention, which creates a type of "attention [economy](economics.md)". While it empowers compared to the past, it now creates a *new* problem of endless distraction.
+While information itself used to have value, most of the competition has now pivoted to a *desperate* competition for everyone's scarce attention, which creates a type of "attention [economy](money-economics.md)". While it empowers compared to the past, it now creates a *new* problem of endless distraction.
 
 Further, this perpetual cosmopolitanism ensures that [cultures](people-culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
 

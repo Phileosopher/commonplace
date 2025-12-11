@@ -33,7 +33,7 @@ Learn the culture *before* you go:
 - [Food](cooking.md) and water safety risks.
 - The likelihood and forms of [corruption](legal-safety.md).
 - Political threats that may exist in the region, especially regarding your nationality.
-- The [economic](economics.md) exchange rate of currency.
+- The [economic](money-economics.md) exchange rate of currency.
 
 [Traveler's insurance](money-insurance.md) is *always* worth the expense if you're visiting an unfamiliar [culture](people-culture.md), though a standard renter's or homeowner's insurance policy can cover at least part of the risk.
 

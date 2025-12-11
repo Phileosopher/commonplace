@@ -165,7 +165,7 @@ While every potential candidate *could* do the job, aim for a [culture](people-c
 - A diverse range of demographics ([age](maturity.md), [gender](gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-conflicts.md).
 - Diverse workplaces are *not* conducive to mindless tasks (e.g., factory work).
 - Pay close attention to how a candidate interacts with current members or leadership, since *any* social friction will magnify itself later.
-  - At the same time, a neurodivergent (e.g., [ASD](https://books2read.com/autism/), Cluster B) in many industries is literally *the* most diverse hire you can acquire.
+  - At the same time, a neurodivergent (e.g., [ASD](mind-neurodivergence-autism.md), Cluster B) in many industries is literally *the* most diverse hire you can acquire.
 
 Team involvement and great work aren't necessarily related.
 

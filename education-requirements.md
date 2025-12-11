@@ -446,7 +446,7 @@ There are *many* specializations in high school, but there's a wide range of edu
 - Literacy can range from simply revisiting 8th Grade up to working with collegiate-level literature (e.g., British Literature).
 - Math can range from a slightly more advanced algebra, all the way into trigonometry, statistics, and [calculus](math-calc.md).
 - Science starts focusing on more specific domains like biology, chemistry, and physics.
-- Humanities typically involves *much* more political discussion, as well as [economic theory](economics.md) and more details on how governments work.
+- Humanities typically involves *much* more political discussion, as well as [economic theory](money-economics.md) and more details on how governments work.
 - Arts branch out into a vast set of specializations which may include painting, visual arts, woodworking, or performance arts.
 
 Depending on the situation, older students can try going to school online (e.g., [Khan World School](https://asuprep.asu.edu/khan-world-school/)). If they're self-determining and their lifestyle can still be balanced outside a classroom, it's worth considering.

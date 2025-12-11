@@ -150,7 +150,7 @@ For most of us, our success will start with smaller goals:
 - Character
   - [Understand](understanding.md) without passing judgment
   - Do the right thing without looking for praise
-  - [Forgive and release](mind-feelings-happiness-stress.md) everything
+  - [Forgive and release](hardship-forgiveness.md) everything
   - Find what causes facts and experiences, without excuses
 - Reputation
   - Reconcile quickly with others when possible

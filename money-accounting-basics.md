@@ -81,7 +81,7 @@ Assumption 3 - Monetary Unit Principle
   - The [FASB](http://www.fasb.org/) accepts the nominal value of the US Dollar, unadjusted for inflation.
 - That currency is as fixed as possible to accurately reflect value compared to everything else.
   - In other words, the USD is the standard of currency because everyone uses it as the standard of currency.
-  - Barring a major upset in the world [economic](economics.md) system (this was written in 2023) even other *currencies* are pegged to the dollar.
+  - Barring a major upset in the world [economic](money-economics.md) system (this was written in 2023) even other *currencies* are pegged to the dollar.
 - Without it, there's no clear, measurable [certainty](understanding-certainty.md) on the value of anything relative to other items or periods.
 
 Assumption 4 - Time-Period Principle
@@ -94,7 +94,7 @@ Assumption 4 - Time-Period Principle
 Principle 1 - Historical Cost Principle
 
 - The costs of most Assets and Liabilities must be based on how much they paid, and not fair market value.
-- While it conflicts with [marketing](marketing.md) (and [investors](money-investing.md), to an extent), it avoids [subjective](people-image-why.md) or [biased](mind-bias.md) values based on [the market](economics.md).
+- While it conflicts with [marketing](marketing.md) (and [investors](money-investing.md), to an extent), it avoids [subjective](people-image-why.md) or [biased](mind-bias.md) values based on [the market](money-economics.md).
 - This principle doesn't always apply: most [debts](money-2_debt.md) and [securities](money-investing.md) report at market values.
 - Without it, the value of things can be over-stated, meaning extreme dissatisfaction and potential complications later on when the value is more accurately determined (instead of simply dissatisfaction right now).
 
@@ -251,7 +251,7 @@ Even when a company is liquidated or merged into another company, the financials
 Beyond the above, accounting is a world of endless details.
 
 - More than anything else, accounting looks at each small thing from the bottom-up.
-- Unless someone is on [the autism spectrum](https://books2read.com/autism/), they're *not* qualified to work well as an accountant.
+- Unless someone is on [the autism spectrum](mind-neurodivergence-autism.md), they're *not* qualified to work well as an accountant.
 
 This is by no means exhaustive, but is thorough enough to cover important components.
 

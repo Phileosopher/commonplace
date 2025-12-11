@@ -29,7 +29,7 @@ However, expert systems were absolutely *terrible* at making decisions with many
 
 The first chatbot was created in 1966 named ELIZA to respond to patients' questions, but didn't work very well at all.
 
-The effort to invest into AI was led throughout the 1970s and 1980s in Japan, but the excessive hype with nothing to show for it caused the collapse of the Japanese [economy](economics-macro.md) in the late 1980s.
+The effort to invest into AI was led throughout the 1970s and 1980s in Japan, but the excessive hype with nothing to show for it caused the collapse of the Japanese [economy](money-economics-macro.md) in the late 1980s.
 
 [Machine learning](computers-ai-ml.md) is the new AI. If a machine learning [algorithm](computers-programming-algorithms.md) is capable of detecting something, it is also capable of reproducing it.
 

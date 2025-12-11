@@ -38,7 +38,7 @@ We must predict the future because it dictates what we presently [create](creati
 
 Since we must act, we make a [calculated wager](people-decisions.md) on the most likely thing, then give the rest up to whatever we [trust](trust.md).
 
-APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](mind-feelings-happiness-stress.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
+APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](hardship-forgiveness.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
 
 ## Predicting across time
 

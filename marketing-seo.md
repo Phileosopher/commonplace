@@ -181,7 +181,7 @@ Don't waste time on social channels that don't speak to your audience:
 
 - Not everyone wants the product, so don't follow everyone.
 - Discussion forums gives profound long-term results, but takes *lots* of content and time.
-- In-person events actually have [*dis*-economies of scale](economics.md).
+- In-person events actually have [*dis*-economies of scale](money-economics.md).
 - Streaming networks are only good when you've reached a critical mass (often ~40,000 followers).
 
 Increase the volume of posts, add visual media, and create videos to fight the deluge of competitors.

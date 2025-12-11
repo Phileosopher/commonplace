@@ -64,7 +64,7 @@ In-group favoritism/in-group-out-group bias/in-group bias/intergroup bias/in-gro
 
 Original position fallacy - we prefer a change because we assume we'll be on the good side of that change
 
-Public goods game - we assume an [economic system](economics.md) could exist where we didn't have to regulate lazy people, cheaters, liars, and thieves
+Public goods game - we assume an [economic system](money-economics.md) could exist where we didn't have to regulate lazy people, cheaters, liars, and thieves
 
 Sexual overperception bias - we assume others are sexually attracted to us when they aren't
 

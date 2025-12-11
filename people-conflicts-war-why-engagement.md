@@ -45,7 +45,10 @@ Often, a sufficiently [motivated](purpose.md) smaller group can [scare](mind-fee
 
 Smaller groups, if [motivated](purpose.md) by an [influential](influence.md) leader, are usually *far* more determined and focused than their larger opponents. In lieu of those leaders, the group *can* consist of [determined](purpose.md) [self-leaders](success-1_why.md). However, without any leadership, the group will focus strictly on [surviving](mind-feelings-fear.md) and won't make any sensible long-term strategies.
 
-When that group is significantly smaller, their only reliable tactics come through [fear](mind-feelings-fear.md) (e.g., terrorism and guerrilla warfare) and [creatively](mind-creativity.md) using their environment (i.e., tactics). Both of these techniques can often give the means for a group to confront another group 10 times larger than they are.
+When that group is significantly smaller, their only reliable tactics come through [fear](mind-feelings-fear.md) (e.g., terrorism and guerrilla warfare) and [creatively](mind-creativity.md) using their environment (i.e., tactics).
+
+- Both of these techniques can often give the means for a group to confront another group 10 times larger than they are.
+- Except for ideology (e.g., desired [political system](politics-systems.md)), they'll often gain more favor simply because they're smaller and people like underdog [stories](stories.md).
 
 Often, the smaller group will try to gain support from another group or increase their members. They'll [show stories](stories-storytellers.md) of suffering, destruction, oppression, and devastation, from the larger group and will usually portray themselves as [innocent](morality-justice.md) [victims](hardship-ptsd.md). Sometimes, they'll merely appeal to [morality](morality.md).
 

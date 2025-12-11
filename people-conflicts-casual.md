@@ -83,7 +83,7 @@ If someone is sharing something you wanted to keep private:
 1. Consider why they let the secret slip.
 2. If they're telling another person involved with the problem, don't blame them since that person needed to know anyway.
 3. Since it's public, get ahead of the secret by telling everyone who may know next.
-4. [Forgive them](mind-feelings-happiness-stress.md) and move on after you've confronted them about it and seen their attitude.
+4. [Forgive them](hardship-forgiveness.md) and move on after you've confronted them about it and seen their attitude.
 
 ## Approach others' failings correctly
 
@@ -197,7 +197,7 @@ To avoid any confusion, it's wisest to respond to the low-context variation of w
 "Best"
 
 - Meaning: "I don't really know who you are"
-- Don't take it personally, since they're likely a [narcissist](mind-neurodivergence-narcissist.md)
+- Don't take it personally, since they're likely a [narcissist](mind-neurodivergence-clusterb-narcissist.md)
 
 "All best"
 

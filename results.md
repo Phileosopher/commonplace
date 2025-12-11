@@ -162,7 +162,7 @@ A diminishing return isn't necessarily bad. It's usually a sign that our [purpos
 
 ## Re-trending
 
-Frequently, by adapting the [image](people-image-why.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](economics.md) or to reach a [new audience](stories-storytellers.md).
+Frequently, by adapting the [image](people-image-why.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](money-economics.md) or to reach a [new audience](stories-storytellers.md).
 
 APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
 

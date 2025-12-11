@@ -46,7 +46,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Have a sufficient group of [friends or family](people-friends.md) you're in steady contact with.
 - Maintain [cooking](cooking.md) skills.
 - Consistently maintain [cleaning](home-housekeeping.md) and [organization](organization.md) habits.
-- Have a [skill](jobs-1_why.md) that's both [marketable](marketing.md) and [in demand](economics.md).
+- Have a [skill](jobs-1_why.md) that's both [marketable](marketing.md) and [in demand](money-economics.md).
 - Have a well-maintained [means of conveyance](autos.md) to acquire goods you require, as well as a backup plan if it fails.
 - Keep a journal of all health issues, and report them to your doctor immediately.
 

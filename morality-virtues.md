@@ -15,7 +15,7 @@ Hope - [expects](imagination.md) the best and works toward it
 
 Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
 
-Forgiveness - [reconciles and releases](mind-feelings-happiness-stress.md)
+Forgiveness - [reconciles and releases](hardship-forgiveness.md)
 
 ## Products of the [mind](understanding.md) alone
 

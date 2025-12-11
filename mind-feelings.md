@@ -125,13 +125,22 @@ If any adverse feeling lingers long enough, it becomes a [mental illness](hardsh
 
 APPLICATION: Living by feelings, even anger, is an inherent risk. It means we don't [understand](understanding.md) things clearly enough to be [rational](logic.md), and it's possible we may be wrong about something and not know it.
 
-## Patterns and intuition
-
 Even while the object of the feelings changes, our feelings are [the same as anyone else's](humanity-universals.md), so we can easily understand our feelings by observing others' feelings ("surrogation"). The only alternative is self-reflection, which is difficult to perform because our minds aren't entirely [tethered to reality](imagination.md).
 
 And, when we feel something, continuing to feel it without any restraint will intensify our feelings about it even further.
 
+## Patterns and intuition
+
 When our feelings are configured to experienced [patterns](symbols.md), we have what's called an "intuition" for something.
+
+Intuition, however, is a synthesis of multiple feelings:
+
+1. A person has one experience that generates a strong feeling in one direction (e.g., [anger](mind-feelings-anger.md)).
+2. They then experience an opposing feeling that provides contrasting information (e.g., regret).
+3. The synthesis of those feelings composes a [story](stories-why.md), which represents as a more complex feeling.
+4. This recurses as a person's life experience happens and their [awareness](awareness.md) increases.
+
+Most [forms of neurodivergence](mind-neurodivergence.md) are stunted in their capacity for intuition in some form or another.
 
 Intuitive thinking is *extremely* useful, in its place. It's the basis for how we form [habits](habits.md), and experts in [most fields](jobs-specialization.md) develop intuitive [skills and understanding](understanding.md) that make their job easier and faster.
 
@@ -145,7 +154,7 @@ Further, intuition is *really* difficult to [analyze](logic.md). If our self-ref
 
 The beauty of our mind's neuroplasticity is that we are always capable to rewire how we [habituate](habits.md) our feelings. While we don't typically need to reconfigure our baser feelings (e.g., fear, anger), protracted mental feeling-beliefs can *always* be rebuilt into more useful mental structures:
 
-- [Bitterness](mind-feelings-anger.md) - [Release](mind-feelings-happiness-stress.md) whatever you feel compelled to [control](purpose.md).
+- [Bitterness](mind-feelings-anger.md) - [Release](hardship-forgiveness.md) whatever you feel compelled to [control](purpose.md).
 - Anxiety - Find [fear](mind-feelings-fear.md) in *much* worse things, which is typically through death.
 - [Grief](mind-feelings-sadness.md) - Add [understanding](understanding.md) that your suffering isn't permanent, and that your loss isn't as bad as you feel.
 - [Shame](mind-feelings-shame.md) - Form [an identity](identity.md) around something that's *not* the actions you've performed.

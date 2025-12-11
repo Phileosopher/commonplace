@@ -4,7 +4,7 @@
 Shame is the internalization of regret or guilt.
 
 - Guilt is the [feeling](mind-feelings.md) of having done something [immoral](morality-justice.md).
-- Regret is [not forgiving](mind-feelings-happiness-stress.md) ourselves over past decisions.
+- Regret is [not forgiving](hardship-forgiveness.md) ourselves over past decisions.
 - Both are a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
 - We tend to fail at moving on from guilt and regret when we [relive trauma](hardship-ptsd.md).
 

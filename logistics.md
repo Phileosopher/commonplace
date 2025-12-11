@@ -108,14 +108,14 @@ Spacecraft navigate outside the boundaries of our atmosphere.
 - Their largest risk comes from the hopelessly empty vacuum of space, destroying all life and existence with its void.
 - They are *prohibitively* expensive, and slight miscalculations or low-quality design can cause the vehicle to erupt in a rapid, unscheduled disassembly.
 
-New [technological developments](technology.md) with any vessel don't typically become worthwhile for transport until the [economics](economics.md) of the [trend](trends.md) makes them cost-effective.
+New [technological developments](technology.md) with any vessel don't typically become worthwhile for transport until the [economics](money-economics.md) of the [trend](trends.md) makes them cost-effective.
 
 ### Replenishing Systems
 
 Quite a bit of [political power](power-types.md) is tied to energy due to its ability to convey payloads.
 
 - Highly refined fuel permits vehicles to travel more with comparatively less fuel.
-- While [free market economics](economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war-why.md), [political reasons](politics-leftism.md)).
+- While [free market economics](money-economics.md) will direct carriers to use whatever fuel is most affordable, governments can slow the flow of affordable logistical systems for other reasons (e.g., [war](people-conflicts-war-why.md), [political reasons](politics-leftism.md)).
 
 In theory, there would be no downtime in a self-replenishing system (e.g., solar cells).
 

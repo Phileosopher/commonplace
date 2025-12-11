@@ -279,7 +279,7 @@ Don't let *anything* get in the way of a great friendship:
 - The love of two friends shifts from "you" or "me" to "us".
 - Share how much they mean to you before you lose touch with them.
 - Prioritize your friend's needs above your own, and be supportive and helpful whenever they need it.
-- If a friend hurt you, [forgive them and move on if they've changed](mind-feelings-happiness-stress.md).
+- If a friend hurt you, [forgive them and move on if they've changed](hardship-forgiveness.md).
 - When you borrow anything from them, promptly give it back.
 - If you wish to [date](relationships-dating.md) someone your friend has dated, ask permission first.
 - If they live with you, openly communicate household responsibilities and [keep the common areas clean](home-housekeeping.md) without them asking.

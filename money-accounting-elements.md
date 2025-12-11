@@ -218,7 +218,7 @@ In its most straightforward use, a bond's structure is relatively straightforwar
 This gets *much* more complex, though:
 
 - Some bonds are callable *before* the maturity date. In that situation, the yield-to-call will be lower than the yield-to-maturity (e.g., 1.7% instead of 4%).
-- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](economics.md) for the bond, as well as the [reputation](people-image-why.md) of the organization.
+- Bonds can be sold at par, but also can be sold at a premium or discount. This can happen from [market conditions](money-economics.md) for the bond, as well as the [reputation](people-image-why.md) of the organization.
 - The organization can use a coupon rate, which is where the organization pays a set percentage of interest every year (e.g., a 4% coupon rate on $1,000 pays $40 a year).
 - If the coupon rate is the same as the yield rate, the organization will simply pay back the original amount when it's called.
 

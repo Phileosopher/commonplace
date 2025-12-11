@@ -8,7 +8,7 @@ After you've started seeing a profit, you should start considering how you plan 
 
 If you have a good-enough business idea and promising-looking [financial statements](money-accounting.md), you can still sell the company even when you haven't turned a profit yet!
 
-- You're almost guaranteed to have a marketable business, even if it loses money, if you own [high-demand](economics.md) [intellectual property](legal-ip.md) tied to the company.
+- You're almost guaranteed to have a marketable business, even if it loses money, if you own [high-demand](money-economics.md) [intellectual property](legal-ip.md) tied to the company.
 
 Logically, there are only several possible ways you can go:
 

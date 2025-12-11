@@ -1,7 +1,7 @@
 
 # Enterprise systems
 
-As a natural product of [economics](economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
+As a natural product of [economics](money-economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
 
 - A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](computers-sofware-webdev.md) or hosting app data).
 - Consumer computers are typically designed with the understanding that people won't use it at full capacity very frequently, though that's frequently an exception for [playing games](computers-software-gamedev.md). This means that things like heat management and more error-correcting code are *much* more important in businesses than for consumers.

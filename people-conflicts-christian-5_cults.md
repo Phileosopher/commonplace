@@ -211,7 +211,7 @@ Organized crime - existing as long as civilization, but grew in scale with indus
 - Incriminating evidence:
   - *Some* goods may require Christians may use the black market (Bibles and Christian literature, mostly), but it carries [too many risks](safety-riskmgmt.md) for a Christian to safely conduct if there's a legitimate alternative (Romans 13:1-7).
   - Most black market transactions exploit [vices a Christian shouldn't engage with](morality-sins.md) and provide services that work *against* the reigning government's interests (and therefore subordinating their role and God's direct authority over them).
-  - If an organized crime organization *becomes* the [government](politics-systems.md) (typically through [building enough power](power-types.md)), then their black market activities fall under "normal" [market conditions](economics.md).
+  - If an organized crime organization *becomes* the [government](politics-systems.md) (typically through [building enough power](power-types.md)), then their black market activities fall under "normal" [market conditions](money-economics.md).
 
 Political campaigns - began significantly as a group in the USA in 1860 through a vast [marketing](marketing.md) effort
 

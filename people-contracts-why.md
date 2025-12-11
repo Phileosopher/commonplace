@@ -205,7 +205,7 @@ The parties should and consent freely, which means an absence of a few things:
 - Neither party can misrepresent facts. If one of them was [lying](people-lying.md) ("fraud") or exaggerating ("puffery"), that could nullify the contract.
 - Both parties must be aware of the contract, meaning there can't be an "officious intermeddler".
 
-While lawyers don't concern themselves as much with the [economics](economics.md) of services as much as the clarified rules, a service's general fair market value comes from several specific social effects that accumulate together into a lump sum:
+While lawyers don't concern themselves as much with the [economics](money-economics.md) of services as much as the clarified rules, a service's general fair market value comes from several specific social effects that accumulate together into a lump sum:
 
 1. An hourly rate, which is defined heavily by how much someone doesn't want to perform the task.
 2. An ignorance fee, which covers the amount of necessary information to perform the service that someone doesn't want to have to learn.

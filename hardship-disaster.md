@@ -19,7 +19,7 @@ The beauty of this system is that it's [not centralized](jobs-specialization.md)
 
 If anything bad happens to any part of the system (e.g., a mine caves in), there are usually alternatives to a primary source of something.
 
-- Sometimes the supplies get more expensive (extra shipping costs, international tariffs, etc.) through [decreased supply](economics.md), but the supply chain maintains itself as long as there's a means to send the products and consumers are willing to buy them.
+- Sometimes the supplies get more expensive (extra shipping costs, international tariffs, etc.) through [decreased supply](money-economics.md), but the supply chain maintains itself as long as there's a means to send the products and consumers are willing to buy them.
 
 ## Supply Chain Failure
 
@@ -114,7 +114,7 @@ Your mental state is just as important as your physical preparedness:
 5. If you're exposed to risks, breathe slowly to calm yourself and [maintain awareness](awareness.md).
 6. Assert what you know you're capable of to suppress the [fears](mind-feelings-fear.md) that arise, which may boil over into a physical yell.
 
-Plan for the worst likely event, and [forgive yourself](mind-feelings-happiness-stress.md) if something happens you had no control over.
+Plan for the worst likely event, and [forgive yourself](hardship-forgiveness.md) if something happens you had no control over.
 
 Be prepared for [death](hardship-death.md), for either yourself or anyone you love, and [learn to recover from whatever happens](hardship.md).
 

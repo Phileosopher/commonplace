@@ -69,7 +69,7 @@ Whenever the pleasure of a reward lasts for more than 8 seconds, it's hitting *f
 
 APPLICATION: To change our habits, we must control our methods, since we can only control our triggers in a [cult](culture-cults.md) and have no control over the [results](results.md) directly.
 
-The pleasurable reward for habits [diminishes](results.md) as we do it more frequently, and is a huge component of [diminishing return](economics.md).
+The pleasurable reward for habits [diminishes](results.md) as we do it more frequently, and is a huge component of [diminishing return](money-economics.md).
 
 We can develop pleasure from the habit of *not* doing a habit as a type of counter-habit. Since our experiences are so relative, abstinence can sometimes *intensify* our pleasure.
 

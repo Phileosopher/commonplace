@@ -26,7 +26,7 @@ Make sure you've stockpiled paper [guidebooks](hardship-disaster-checklist.md) f
 
 Since everything will become much more scarce, you'll need to be more [frugal](money-1_why.md) with *everything* you have.
 
-History has shown that society still uses some form of [currency](economics.md) and never completely moves away from the concept, so you'll always need tradable items.
+History has shown that society still uses some form of [currency](money-economics.md) and never completely moves away from the concept, so you'll always need tradable items.
 
 As much as reasonably possible, consider how you can cut down on civilized living:
 

@@ -100,7 +100,7 @@ In ancient societies, nobody had the luxury to explore these identities because 
 APPLICATION: The philosophy of "complementarianism" is valid, in many respects:
 
 - There is an inherent double standard that people [universally](humanity-universals.md) miantain between men and women.
-- Women [economically](economics.md) take far more in taxes than they ever pay into it, but this is an acceptable circumstance.
+- Women [economically](money-economics.md) take far more in taxes than they ever pay into it, but this is an acceptable circumstance.
 - If we were to completely disregard gender, then nobody would be able to [specialize](jobs-specialization.md) into what they liked.
 
 ## Mating

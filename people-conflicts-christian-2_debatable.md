@@ -74,7 +74,7 @@ How long God's "days" were to create the universe in [Genesis 1](https://biblehu
   - Their values also must go against atheistic science (indicated near the bottom of this page).
 - Old Earth Creationism/Theistic Evolution - God used evolution across millions of years to [design](creations.md) nature.
   - A middle point between creationism and [evolutionary theory](science-life.md): God still created everything, but over a period of time reflecting science cults' [projections](imagination.md) (see below).
-  - Indicating that God can instantly create something out of nothing, then constraining it to require millions or billions of years is a bit silly (e.g., [Omphalos Hypothesis](paradoxes.md)).
+  - Indicating that God can instantly create something out of nothing, then constraining it to require millions or billions of years is a bit silly (e.g., [Omphalos Hypothesis](philosophy-paradoxes.md)).
   - "Gap theory" is an in-between compromise, where God created everything as-is, but that the earth is still millions of years old after that creation.
 - One simple compromise is "day-age creationism", where the days were symbolically longer periods of time (up to millions of years), similar to how [prophecies](jesus-returns.md) are interpreted.
 - God created the universe ([Genesis 1:1](https://biblehub.com/genesis/1-1.htm)), and how long He took to make the universe isn't particularly relevant as much as God having made all of it.

@@ -1,7 +1,7 @@
 
 # How design (UX/UI) works
 
-Visual design creates a user experience (UX) that designates how people [understand](understanding.md) the nature and implications of [created works](creations.md), and in most [capitalistic](economics.md) societies closely connected to [advertising](marketing.md).
+Visual design creates a user experience (UX) that designates how people [understand](understanding.md) the nature and implications of [created works](creations.md), and in most [capitalistic](money-economics.md) societies closely connected to [advertising](marketing.md).
 
 Good design contains a *lot* of psychology because users create models in their mind of how something is supposed to work, so it dovetails with most of our [cognitive biases](mind-bias.md).
 
@@ -40,7 +40,7 @@ However, since [cultures](people-culture.md) change and [technologies](technolog
 
 ## Rules
 
-Good design distills into a wide variety of [reliable axioms](engineering-design-rules.md). These span the entire range of psychological perception and [bias](mind-bias.md), and social scientists and UX designers are *constantly* discovering new ones.
+Good design distills into a wide variety of [reliable axioms](lawsaxioms-design.md). These span the entire range of psychological perception and [bias](mind-bias.md), and social scientists and UX designers are *constantly* discovering new ones.
 
 Anyone who follows the rules can design well, even when they're not very [creative](mind-creativity-how.md).
 

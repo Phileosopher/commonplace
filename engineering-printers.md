@@ -113,7 +113,7 @@ The ability for *anyone* with [design](engineering-graphics.md) skills to make w
 1. Engineers can effectively prototype and test their creations within a matter of days, not weeks or months.
 2. The opportunity to create anything can include protected [intellectual property](legal-ip.md) and [illegal](people-rules.md) objects (e.g., guns).
 
-Currently, as of 2023, an affordable and decent 3D printer for small uses can be $200, and [that price will only go down over time](economics.md) without government intervention. This situation will only magnify as the technology improves.
+Currently, as of 2023, an affordable and decent 3D printer for small uses can be $200, and [that price will only go down over time](money-economics.md) without government intervention. This situation will only magnify as the technology improves.
 
 Naturally, this extra power provides tremendous independence. Someone can, in theory, print the components necessary for the object they're working with. Even if it's sub-par, it gives the ability to only need copious amounts of filament to make anything the CAD can design.
 

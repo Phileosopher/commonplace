@@ -44,7 +44,7 @@ Metaphysics concerns itself with *everything* that exists, but scientific thinki
 - Where the universe came from
 - How life exists
 - [What happens after we die](religion.md)
-- Most of the "social sciences" surrounding [psychology](humanity.md), [economics](economics.md), and [politics](groups-large.md)
+- Most of the "social sciences" surrounding [psychology](humanity.md), [economics](money-economics.md), and [politics](groups-large.md)
 - Whether a [soul](humanity.md) exists
 
 Even within the realm of [known things](understanding-certainty.md), a conversation with a small child will reveal *many* obvious things outside the scope of science.

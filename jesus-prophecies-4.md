@@ -1,5 +1,5 @@
 
-# List of prophecies fulfilled through Jesus - part 4
+# List of prophecies fulfilled through Jesus part 4
 
 The Messiah would be both God and Man
 

@@ -54,7 +54,7 @@ There are several solutions:
 
 1. More control over that nation's leadership.
 2. More incentive for their government to distribute medical equipment.
-3. More access to a [free market](economics.md) for medical components and services.
+3. More access to a [free market](money-economics.md) for medical components and services.
 
 Healthy, happy people make a country thrive, but they also start climbing Maslow's ladder enough to ask why they can't have a [democratically elected](politics-systems.md) leader, and most military-enforced governments don't like those questions.
 
@@ -117,7 +117,7 @@ Other times, non-government groups possess enough power to control what a govern
 
 - In those situations, clearing out corruption pushes against *many* groups at once and becomes nearly impossible without a proper [war](people-conflicts-war-why.md).
 
-Either way, giving freedom for people to work the way they want, on things they want, without large-scale oppression, typically requires [outside competition](economics.md).
+Either way, giving freedom for people to work the way they want, on things they want, without large-scale oppression, typically requires [outside competition](money-economics.md).
 
 - If governments [fear](mind-feelings-fear.md) invasion (especially when they may fall behind on [technology](technology.md) [trends](trends.md)), their leaders will frequently adopt changes they wouldn't have otherwise made that work in the best interests of the public.
 
@@ -158,7 +158,7 @@ Sustainable, like many other words, is often stated and rarely defined. Broadly,
 The only legitimate deterioration of things persisting indefinitely comes through misuse of an object:
 
 1. [Tragedy of the commons](lawsaxioms.md) is when people don't maintain what they don't believe they own (i.e., public property). Privatizing *everything* runs the risk of [monopoly](mgmt-badsystems.md), but no monopolist wants to lose [power](power-types.md), so they'll continue making something (and farming it) as long as they gain from it. As it stands now, we live in an oligopoly, which seems to be the sensible solution to the issue of deteriorating commons.
-2. Abuse, typically through [addiction](addiction.md) or [hoarding power](power-types.md), prevents maximizing resources. This can best be solved by allowing a [free market](economics.md) that permits [inventors](socialrisk.md) to pursue further [purposes](purpose.md) that use [as-yet unknown](unknown.md) resources. [Technology](technology.md) tends to generate new resources *all the time* (e.g., copper was just a pottery material until we developed electricity).
+2. Abuse, typically through [addiction](addiction.md) or [hoarding power](power-types.md), prevents maximizing resources. This can best be solved by allowing a [free market](money-economics.md) that permits [inventors](socialrisk.md) to pursue further [purposes](purpose.md) that use [as-yet unknown](unknown.md) resources. [Technology](technology.md) tends to generate new resources *all the time* (e.g., copper was just a pottery material until we developed electricity).
 
 To make something sustainable, everyone should feel peace about their [purposes](purpose.md). This requires all classes of society to have equal and fair [rules](rules-methods.md), [equally enforced](morality-justice.md).
 
@@ -222,7 +222,7 @@ The culture of a society is determined by its leaders, both [big](groups-large.m
 
 - While [Plato's philosopher-kings](https://en.wikipedia.org/wiki/Philosopher_king) is a silly elitist concept, we must know the [moral basis](morality.md) for everyone who comes into power.
 
-The closest thing we have, barring a theocracy, is a [free-market solution](economics.md): everyone gets a vote.
+The closest thing we have, barring a theocracy, is a [free-market solution](money-economics.md): everyone gets a vote.
 
 - This is subject to abuse since political power becomes a [popularity contest](people-image-distortion.md), but it's worked the best so far to preserve life and [liberties](people-3_respect.md) compared to all the other solutions (e.g., military takeovers).
 

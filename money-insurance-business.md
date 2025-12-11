@@ -36,7 +36,7 @@ However, government and private insurance are *not* the same:
 1. Participating in government insurance programs is mandatory and automatic for all citizens (i.e., through [taxation](money-accounting.md)).
 2. The benefits to participants are through passing specific laws, *not* through a policy, and changing benefits means a cumbersome legislation process.
 3. Social insurance programs are always adequate to meet public needs, but aren't equitable: while private insurance payments are approximately proportional to statistical likelihood, the least-contributors (indigent, elderly, dependents) benefit the most in government insurance.
-4. Any government insurance provider effectively owns a [monopoly](mgmt-badsystems.md) on the system from the lack of [competitive alternatives](economics.md).
+4. Any government insurance provider effectively owns a [monopoly](mgmt-badsystems.md) on the system from the lack of [competitive alternatives](money-economics.md).
 
 ## Insurance product distribution
 

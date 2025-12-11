@@ -124,7 +124,7 @@ Sell things you never use, don't need, or can find affordably:
    - Furniture
 2. Calculate the cost and time to replace or reacquire it.
 3. Determine the item's sale value:
-   - Unless it somehow became more [collectible](economics.md), you will *not* get the retail price for it.
+   - Unless it somehow became more [collectible](money-economics.md), you will *not* get the retail price for it.
    - You might be able to quickly sell it if it's commonly sold as like new or rarely used.
    - If your item is usually sold used but is still new, you may have trouble selling it unless you dramatically lower your price.
 4. Use other similar items for sale to determine where to sell it:

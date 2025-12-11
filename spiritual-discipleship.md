@@ -39,7 +39,7 @@ Even by [secular standards](mgmt-1_why.md), spiritual mentors are [leaders](mgmt
 A leader guides others' issues beyond themselves, so they must have a few desires before they even consider the role:
 
 - They must be faithful to God's promises ([Hebrews 6:11-15](https://biblehub.com/hebrews/6.htm), [Romans 4:16-21](https://biblehub.com/romans/4.htm)).
-- They must be free of [anxiety](mind-feelings-happiness-stress.md) ([Philippians 4:6-9](https://biblehub.com/philippians/4.htm)).
+- They must be free of [anxiety](mind-feelings-fear.md) ([Philippians 4:6-9](https://biblehub.com/philippians/4.htm)).
 - Further, they live for God's word, listen to His Spirit, and [follow His will](god-will.md) ([Isaiah 30:21](https://biblehub.com/isaiah/30-21.htm), [Mark 4:24](https://biblehub.com/mark/4-24.htm)).
 - Finally, they must desire to [see the lost come to Christ](evangelism.md) ([1 Corinthians 10:33](https://biblehub.com/1_corinthians/10-33.htm), [1 Corinthians 11:1](https://biblehub.com/1_corinthians/11-1.htm)).
 
