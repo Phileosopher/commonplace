@@ -19,6 +19,14 @@ All relationships build on trust:
 
 ## Building the relationship
 
+Intimacy is a holistic connection of several interconnected domains where we don't [fear](mind-feelings-fear.md) rejection or loss with someone:
+
+1. Intellectual intimacy - sharing your thoughts
+2. Emotional intimacy - discussing [feelings](mind-feelings.md)
+3. Social intimacy - discussing time spent apart with others
+4. Physical intimacy - sharing your body, all the way up to [sex](relationships-sex.md)
+5. Spiritual intimacy - sharing your [soul](humanity.md) and [spirituality](humanity-christian.md) with them
+
 Routinely express your love for them how *they* prefer it, not you:
 
 1. Quality time - completely uninterrupted time with them:

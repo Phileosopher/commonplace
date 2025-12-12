@@ -16,13 +16,13 @@ While avoiding all these aren't necessarily important to live a [good](goodlife.
 
 It's worth noting that awareness of these biases don't necessarily change anything. We tend to veer into an *opposite* bias while trying to be accurate, and [influencing](power-influence.md) others with incentives to be unbiased doesn't help at all.
 
-This is not a complete list, and probably can never be. It's all based on a "rational actor model", which implies that everyone is [reasonable](understanding.md) until distorted by a bias. The rational actor model is likely wrong.
+This is not a complete list, and probably can never be. Besides including all optical illusions into it, it's based on a "rational actor model", which implies that everyone is [reasonable](understanding.md) until distorted by a bias. The rational actor model is likely wrong.
 
-[Bias rooted in fear](mind-bias-fear.md)
+Other specific bias:
 
-[Bias built around social interaction](mind-bias-social.md)
-
-[Bias about the future](mind-bias-future.md)
+- [Bias rooted in fear](mind-bias-fear.md)
+- [Bias built around social interaction](mind-bias-social.md)
+- [Bias about the future](mind-bias-future.md)
 
 ## Detecting Information
 

@@ -51,7 +51,7 @@ In mixed media (e.g., movies, video games), there are multiple avenues to provid
 
 ## Genre-specific conventions
 
-Every story effectively works through at least one of ten possible [primal](mind-feelings.md) associations:
+Blake Snyder observed that every story effectively works through at least one of ten possible [primal](mind-feelings.md) associations:
 
 1. Whydunit:
    - The story may be about the protagonist asking *who* performed a [sin](morality-sins.md), but the audience will want to know *why* it happened.

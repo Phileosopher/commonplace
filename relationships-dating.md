@@ -132,8 +132,11 @@ Be authentic:
 
 - The most exciting and fun dates come from natural chemistry, which comes from differences.
 - If you de-emphasize your quirks, you'll be acceptable to most people, but some people absolutely adore them, and they're your best chances for a long-term relationship.
+  - If you hide your authentic self before marriage, the facade will collapse later.
 - Long-term intimacy is impossible if you pretend to be someone else.
 - If you have trouble knowing what to say, just say whatever comes into your head.
+- Feel free to talk about money, career, and future plans.
+  - If they find that level of authenticity difficult, they're not ready for anything deeper.
 
 Focus more on their needs, not yours:
 
@@ -261,6 +264,31 @@ A great marriage is *far* less about finding the "right" person than finding som
 
 - When you're in love, you're oblivious to how much that person actually cares.
 - Having a life partner is less "finding" and more "making".
+
+However, there are some key qualities worth observing in a partner:
+
+- Don't look at how they treat you (since they have an obvious agenda) and pay attention instead to their friends' opinion of them.
+  - If they [lie](people-lying.md) to others, they'll lie to you someday.
+  - They should be responsible in other domains of their life, so look at the [results](results.md) they've created elsewhere.
+- Marry for loyalty, patience, and values.
+  - They should be able to handle boredom well, since life *will* have boring and repetitive moments.
+  - They should share the same key [values](values.md) as you, especially in matters of [religion](religion.md) and [politics](politics-systems.md).
+  - They should never see [divorce](hardship-family-divorce.md) as a viable option.
+- They should be celebrating [your successes](success-1_why.md), not competing with them.
+  - If they mock your dreams, they'll resent your successes someday.
+- They'll drag you down or punish you if they ridicule therapy or growth.
+  - If they're an [addict](addiction.md), they'll add you into their downward spiral.
+- Find a time when they are [angry](mind-feelings-anger.md) and observe them closely.
+  - If they can't handle "no", they won't respect your boundaries later.
+  - They should be kind (not just calm) when angry.
+- If they can't handle [stress](mind-feelings-happiness-stress.md), they'll take it out on you.
+  - They should be willing to engage in [crucial conversations](people-conflicts-crucial.md)
+- If they don't apologize, you'll be apologizing for both of you later.
+- If they use silence as a weapon, they'll emotionally starve you later.
+- Watch for jealousy.
+  - If they resent your current opposite-gender friends, they'll be hyper-possessive later.
+  - If they're comparing themselves or you, they'll do it later as well.
+- They should respect your decisions, even if they don't agree with them.
 
 Most cultures imply a relationship is a testing ground for marriage:
 

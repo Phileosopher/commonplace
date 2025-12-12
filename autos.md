@@ -18,6 +18,12 @@ Make sure your [budget](money-3_budget.md) reflects its unspoken additional cost
 
 ## Driving
 
+Usually, it's a good idea to warm up the engine.
+
+- Diesel engines only work best when you've warmed them first.
+- Gasoline engines don't *need* warming when it's warm outside, but do need it when it gets below freezing.
+- If, for whatever reason, the engine is still cold, avoid over-accelerating it until it has reached operating temperature.
+
 Each vehicle, even with the same year, make, and model, handles a little differently.
 
 - The actual vehicle's [design](engineering-design.md) makes the most difference, but it can also reflect through each vehicle's parts wearing and the driver's relative use of the vehicle.
@@ -41,6 +47,15 @@ Pay attention to which tires generate movement:
 - Four-wheel drive (4WD) is like AWD, but has an option to lock the axles to torque each tire.
   - This is ideal for off-road conditions.
 - If there is a trailer, note whether it has any drives as well (which it usually won't).
+
+Refuel correctly:
+
+- Cheap fuel can work fine on most lower-grade vehicles, but only use higher-quality fuel if you regularly tow a heavy load with that vehicle.
+- Except for stop-leak (which should only be used if you have a leak) add additives of all sorts periodically and liberally:
+  - Fuel injector cleaner
+  - Coolant detergent
+  - Fuel treatment
+  - Oil treatment
 
 Routinely perform a trip inspection:
 

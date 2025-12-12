@@ -12,3 +12,14 @@ To that end, most people should never fly.
 
 - It requires constant alertness and conformity to procedure.
 - Further, it requires a proper education in operating an aircraft.
+
+There are several vestibular [illusions](mind-bias.md) (i.e., dizziness) that every pilot must stay perpetually conscious they may be having (acronym ICEFLAGS):
+
+- Inversion - a tumbling backwards sensation, comes from abrupt change from a climb to a level flight
+- Coriolis - spinning effect, comes from abrupt head movements while in the middle of a maneuver
+- Elevator - feel like being in a climb or descent, comes from abrupt vertical acceleration (i.e., updrafts/downdrafts)
+- False horizon - incorrectly aligning the craft, comes from using incorrect objects to align to the horizon
+- the Leans - feels like the craft is in a bank but is in level flight
+- Autokinesis - a point in a dark and featureless background starts to move, comes from staring at it too long
+- Graveyard spiral - not noticing a bank and atittude change, pulling up can cause a spiral
+- Somatogravic - the nose feels like it's moving up or down, caused by rapid acceleration/deceleration

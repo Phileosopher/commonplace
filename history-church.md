@@ -15,6 +15,21 @@ Frequently, a denomination forms through a specific pattern:
 4. After enough time, culturally freeze at least some traditions as members oppose [new trends](trends.md) and lock [habits](habits.md) against [changes](people-changes.md).
 5. These traditions become the cornerstone of the denomination, with other derivative denominations borrowing from them.
 
+These distinctions come through [four spectra](history-church.jpg) that capture all the truths of God's existence:
+
+1. Collective scope:
+   - Me (Evangelical): Faith is a personal relationship with Jesus.
+   - We (Catholic): Faith is about belonging to the Church.
+2. Presence scope:
+   - There (Orthodox): God is other, sovereign, transcendent, and holy.
+   - Here (Charismatic): God is very close, friend, brother, and lover.
+3. Action scope:
+   - Be (Contemplative): Faith is resting in God accepting you, through His work and not yours.
+   - Do (Activist): Faith is a choice that leads to action and striving to do the right thing.
+4. Trends scope:
+   - Stop (Traditional): Stability and preservationists, focus on how things were handled in the past.
+   - Go (Innovative): Relevance and modernith, asks if there's a new or better way to approach things.
+
 The history is divided into several sections:
 
 1. [Judaism](history-church-1_judaism.md)

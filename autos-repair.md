@@ -78,4 +78,7 @@ The design of the vehicle may make deactivating features difficult or impossible
 - Reinstall an [open-source](legal-ip-floss.md) [operating system](computers-os.md) created by a developer community to run your vehicle.
 - Retrofit the vehicle's engine to a non-computerized system.
 
-To dramatically improve the life of your car by avoiding overheating, install an oil cooler.
+Watch for overheating.
+
+- If the temperature gauge ever ticks upward, you risk melting pistons or the gasket.
+- To dramatically improve the life of your car by avoiding overheating, install an oil cooler.
