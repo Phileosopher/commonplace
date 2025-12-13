@@ -35,6 +35,7 @@ In practice, knowing how things could be infiltrated (#3) is *not* conducive to 
 Generally, people are more willing to take risks when they are cornered or at risk of losing assets.
 
 - While their circumstance will typically make them more reckless, they'll often [retell the story](stories-storytellers.md) as an experience of triumphant willpower instead of pure desperation.
+- For many reasons, [privacy](safety-security-privacy.md) is typically a worthwhile sacrifice for the benefit of safety in most other domains.
 
 A strong security force, therefore, is exposed to risks on a regular basis.
 

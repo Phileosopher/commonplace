@@ -31,7 +31,29 @@ The pace and severity of the work depends *very* heavily on the role:
 - Warehouse and storage workers have a comparatively boring task of filling up and emptying containers within the replenishing system. The same applies to the steward/concierge/conductor role, but with the additional aspect of [customer service](people-3_respect.md).
 - The operator of the vehicle (train, ship, truck) has a relaxing and somewhat antisocial role of safely navigating their vehicle to avoid the worst possible conditions caused by weather and other vehicles.
 
-In general, it takes 18-24 months for an entire supply chain to fully conform to a large-scale change (e.g., disasters, war, [political events](groups-large.md)).
+[Technologies](technology.md) frequently magnify and shift logistics.
+
+- The [US' settlement](logistics-us.jpg) was profoundly affected by first the rail, then by [the automobile](autos.md).
+- The [construction of the Panama and Suez Canal](logistics-canals.jpg) have completed redefined sea travel.
+
+In general, modern delivery systems takes 18-24 months for an entire supply chain to fully conform to a large-scale change (e.g., disasters, war, [political events](groups-large.md)).
+
+The local flow of goods has a profoundly predictable pattern every year in the USA (outbound tender volumes index):
+
+1. Ramp up after Christmas, with most things arriving in a massive spike around January 3rd.
+2. A steep drop from the post-Christmas spending lapse through mid-January.
+3. General mid-winter decline, with a spike and subsequent drop for Valentine's Day.
+4. Holding steady with minor permutations for Easter until late May.
+5. A steep out-of-school-year decline, follwed by a very steep spike.
+6. General stability just below the spike until July 4th.
+7. A steep drop for July 4th and a few days after that, then a return to normal flow.
+8. Slight climbing with a steep back-to-school drop and slight spike.
+9. Holding steady until late September.
+10. Slow decline starting late September into early October.
+11. Holding steady until a very slight dip in early November.
+12. Steep increase followed by a slight decline in mid-November, a rapid spike at the end of mid-November, then a severe drop for Thanksgiving.
+13. Post-thanksgiving spike returns to the mid-November spike, a slight decline in early December, then a very steady and rapid dropoff until Christmas.
+14. A very severe drop until January 2nd.
 
 ## Tradeoffs
 

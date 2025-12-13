@@ -20,7 +20,7 @@ And in effect, there are two broad approaches to legal safety, depending on [how
 1. Live a [moral, ethical](morality.md) life, meaning you simply must record everything you do if it becomes intricate or complex.
 2. Live a hyper-vigilant life, where you stay near the razor's edge of legality, but requires *constantly* paying attention to any changes in the rules.
 
-## Courts often aren't fair
+## Courts and police often aren't fair
 
 Laws are the most intensely enforced social norms.
 
@@ -33,7 +33,16 @@ Unfair discrimination in law is tragically frequent.
 - In principle justice is blind to favoritism, but imperfect and corruptible people carry it out, and it's *also* sometimes [blind to facts outside the situation](https://gainedin.site/idiot/).
 - Most court cases are a battle of attrition through attorney fees, and the groups that typically win court battles have more money to pay their lawyers.
 - People can often abuse laws to operate against the spirit they were originally designed for.
-- While "innocent until proven guilty" is often [the doctrine *within* the courts](legal-doctrines.md), the police system around it is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+- While "innocent until proven guilty" is often [the doctrine *within* the courts](legal-doctrines.md), the system around it is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+
+There is legitimate hypocrisy in the system, but there's not much you can do about it.
+
+- Family of police and judges get away with more [crimes](legal-crimes.md).
+- Police commit many, many traffic violations in the course of their jobs (e.g., changing lanes without signaling or lights, operating laptops while driving).
+- If you try to push back with rude behavior, you'll likely lose.
+  - Keeping your vehicle windows up with a sign saying "I remain silent, no search, I want my lawyer" will likely lead to a broken window.
+  - Insisting that you be spoken to in court as "the natural man" will still mean the rules will apply to you.
+- Never forget that all governments are run through [monopolizing](politics-monopolies.md) the freedom to [kill people](hardship-death.md).
 
 The nature of [human bias](mind-bias.md) means *all* law enforcement will profile you.
 

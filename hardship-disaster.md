@@ -93,6 +93,12 @@ Be very cautious about the antisocial "prepper" culture:
 - Most preppers are also hoarders, and their [disorganization](organization.md) will make it impossible to handle a legitimate crisis.
 - In the event of a disaster, they'll frequently be completely focused on themselves, so they'll likely be useless for any group tasks and will disrupt the harmony of [everyone working together](mgmt-3_teams.md) to prevent any further crisis.
 
+More than anything, once supplies run out, your ability to forage will become the most important short-term skill, as well as your ability to [leave the area](hardship-disaster-3_long-go.md).
+
+- A horde of unskilled people will absolutely ravage the local resources, including yours.
+- Hunting will not be possible with everyone else doing it.
+- All you can do is be prepared, then [release the rest to God](spiritual-exercises-prayer.md).
+
 ## Cover every likely event
 
 Have a pre-planned escape and disaster routine for all likely events:

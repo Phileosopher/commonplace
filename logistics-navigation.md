@@ -9,6 +9,8 @@ At one time, navigating an unknown region required a few things:
 2. If anyone was available to provide guidance, asking for directions.
 3. Awareness of your environment, which referenced the landmarks given by the map or directions.
 
+Pretty soon, the specificity of using the sun's guidance was replaced by [the compass](logistics.compass.jpg). This permitted travel in adverse weather, at night, and more precision over long distances.
+
 Our modern methods are [vastly better](logistics-navigation-gps.md), but it has taken many centuries of trial-and-error to get here.
 
 Before we handed off the work to computers, most of the effort involved using reference points in the environment.

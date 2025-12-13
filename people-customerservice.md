@@ -13,7 +13,13 @@ The art of working with the public involves many small details of [tact](people-
 
 ## Support systems
 
-The quality of a customer's interaction starts with the information available to the workers.
+The quality of a customer's interaction starts with the information available to them before they even interact with workers.
+
+- Don't simply point them to a knowledge base, since most of them will feel disrespected.
+  - However, giving them access to it at any time may help the more technical customers.
+- Openly communicate the exact information they need to alleviate most of their frustrations.
+
+Then, once that information has been exhausted or they're frustrated, the workers' availability and knowledge determines how they'll feel.
 
 - Once an organization is large enough that it has more than one site, it *must* have a written and centralized system.
 - With computers, the easiest system for keeping track of customers is often as a [database](database.md) with employee-specific [permissions](computers-cysec-authentication.md).

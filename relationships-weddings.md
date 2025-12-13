@@ -59,6 +59,10 @@ Ask potential wedding party members whether they can participate on the wedding 
 
 ## Preliminary plans
 
+Whatever you do, do *not* indicate to any service provider that you're planning a wedding.
+
+- A product or service that provides for weddings will often charge 2-5 times more than the exact same thing without the wedding association.
+
 Stay [organized](organization.md) with a checklist and itinerary.
 
 Set a budget:

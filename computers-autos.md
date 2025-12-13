@@ -44,6 +44,19 @@ Further, most cars are also equipped with EDRs (electronic data recorders), so t
 - You can gather driving metrics by plugging in an OBD-II device that connects via a [wireless network](networks-cs.md).
 - Many vehicles can also send data wirelessly, without an OBD-II port.
 
+For the sake of [privacy](security-privacy.md), pay attention to what data the vehicle is gathering:
+
+- Phone data (absolutely everyone)
+- App preferences (absolutely everyone)
+- [GPS history](logistics-navigation-gps.md) (nearly everyone)
+- Driving style (nearly everyone)
+- In-cabin audio (almost everyone)
+- Camera footage (most of them)
+- Face analytics (nearly everyone)
+- Biometric data (many of them)
+- Purchases (about half of them)
+- Sensitive data (almost all of them)
+
 It's worth noting that the data on a technologically advanced vehicle is stored until it's erased.
 
 - This exposes a consumer who sells their vehicle to the risk of the next owner seeing what their name is, their taste in music, geographic location of them and everyone they visit, and their daily habits.

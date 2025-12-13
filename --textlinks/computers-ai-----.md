@@ -4,12 +4,14 @@
 [I record myself on audio 24x7 and use an AI to process the information | Hacker News](https://news.ycombinator.com/item?id=33608437)
 [I record myself on audio 24x7 and use an AI to process the information. Is this the future?](https://roberdam.com/en/wisper.html)
 
-## ai benefits - creating jobs
+## ai benefits
 
 [The Rise of the AI Engineer | Hacker News](https://news.ycombinator.com/item?id=36538423)
 [The Rise of the AI Engineer - by swyx & Alessio](https://www.latent.space/p/ai-engineer)
-
-## ai benefits
+[Latent Space | swyx & Alessio | Substack](https://www.latent.space/)
+L-Space Diaries
+[Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week | Hacker News](https://news.ycombinator.com/item?id=35803435)
+[Training a SOTA Code LLM in 1 week and Quantifying the Vibes - with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details)
 
 [AI-enhanced development makes me more ambitious with my projects | Hacker News](https://news.ycombinator.com/item?id=35382698)
 [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)

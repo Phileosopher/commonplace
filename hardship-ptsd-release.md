@@ -21,6 +21,11 @@ We tend to incorrectly redirect past trauma through several possible pathways:
   - Pain medicine numbs emotional pain along with physical pain, but don't self-medicate unless you're making a critical decision you can't postpone.
 - If you can't break through after a few months of self-reflection, seriously consider professional psychotherapy to gain some traction.
 
+Time doesn't necessarily help anyone heal.
+
+- We only start to heal when we feel we're safe enough from the thing that caused the trauma.
+- This only takes place when we can fully accept that the event's trauma will not happen again.
+
 Before anything, accept that a traumatic event has happened:
 
 - Avoid making any additional judgments or adding any [meaning](meaning.md) to the trauma.

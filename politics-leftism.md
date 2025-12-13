@@ -8,6 +8,8 @@ Rightism isn't an abstracted ideal, but leftism is. There are two reasons for th
 1. All right-wing thinking fits easily into existing [religions](religion.md) and [conservatism](politics-conservativeliberal.md).
 2. Left-wing thinking requires a secular viewpoint to carry it out.
 
+APPLICATION: Leftism is an inherently political religion, and absolutely everything connected to [the human experience](humanity-universals.md) can be affected by it.
+
 While leftism started with some ideas from intellectuals like Plato and Thomas More, Karl Marx emphasized the idea that people would live in coexistence with each other if everyone were to abolish [private property](people-boundaries-why.md), and the Progressive Movement starting in the 1890s brought many new ideas about human nature against established centuries-old beliefs.
 
 In practice, though, leftism *always* has the same mechanism:
@@ -16,6 +18,13 @@ In practice, though, leftism *always* has the same mechanism:
 2. Blame many of the current issues on the excessive ownership by that powerful minority.
 3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
 4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
+
+APPLICATION: By principle of leftism's ideal, left-leaning people tend to hate a few things:
+
+- [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](people-culture.md).
+- [Competition](people-conflicts-why.md) - even though human [purpose](purpose.md) is driven by *many* [inner conflicts](people-conflicts-inner.md), leftism claims external conflicts are generally bad.
+- Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](people-rules.md).
+- [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
 
 ## Public goods
 
@@ -50,6 +59,8 @@ They do this with many well-placed choices of [language](language.md) that separ
 
 The promises from leftist leaders create an [image](people-image-why.md) of complete equality of [outcome](results.md). This contrasts strongly with the natural law view of humanity's inherent equality of [essence](humanity.md) because it requires *constant* redistribution of [power](power.md).
 
+APPLICATION: Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](people-decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
+
 ## Faith
 
 People must operate on a few [presumptions](understanding-certainty.md) to believe the promises of leftist thought leaders:
@@ -73,9 +84,17 @@ Naturally, many people in the [lower and lower-middle classes](classes.md) will 
 - [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](people-image-why.md) benevolent. By doing so, their [image](people-image-why.md) is [risk management](safety-riskmgmt.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](people-image-why.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](trends.md) without regard to its [risks](safety.md).
 
+APPLICATION: Attacking someone because they attacked you is two wrong actions, or at the very best one wrong action and a retaliation. Nothing [good](morality.md) comes of it, but the scope of the actions can destroy quite a lot. However, the Left frequently uses evil-for-evil to [justify](logic.md) a political revolution.
+
+APPLICATION: Larger cities tend to create more leftward thinking. This isn't because of intelligence, but because city-dwellers are so [specialized](jobs-specialization.md) that they've normalized trusting large institutions like governments and corporations for everything they need.
+
+APPLICATION: The religious nature of neo-Marxism slowly shifts it to a form of neo-paganism. With [futurism](https://trendless.tech/trends/) involved, it may include [AI](computers-ai.md) worship.
+
 ## The system's failure
 
 The breakdown in this system involves the transactions. Every Marx-like revolution has resulted in taking things taken away from the upper class, but the system has always been [corrupt enough](mgmt-badsystems.md) that the poorest people never seem to get those things. Often, the class revolution destroys many aspects of civilization, including the core mechanics of the [family](people-family.md).
+
+APPLICATION: A [perfect society](politics-perfectsociety.md) has the [claimed](people-image-why.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
 
 Further, once the new government is in place, nobody [creates](creations.md) with the same [passion](mind-feelings.md) they had compared to before. Once self-interested purpose is completely removed, people would *theoretically* work harder out of [love](people-love.md) for other people, but that goes against [human nature](humanity-universals.md) to not have personal gain mixed into it somewhere. Thus, the government must force people to work harder, which over time creates a cycle within society that forces everyone into a form of [slavery](slavery.md).
 
@@ -83,7 +102,14 @@ Leftist government models also tend to give at least some overseers a centralize
 
 [Historically](stories-storytellers.md), leftism hasn't had a [safe](safety.md) track record. In the past 150 years, more people have been killed for political reasons (including [religious](religion.md) persecution) in leftist countries than almost all other written history combined. Leftist thought leaders tend to refer to an ideal instead of historical basis, but the model consistently fails in practice, from the Mayflower Pact onward.
 
+APPLICATION: Leftward thinking frequently leads to disasters. For the sake of the Party, people will use [vulgarities](language.md) and [violence](people-conflicts-war-why.md). [Mentally unwell](hardship-ptsd.md) people will destroy [beautiful](values-quality.md) things, [technology](technology.md), and priceless [creations](creations.md). It's all [justified](understanding.md) in their mind for what they [perceive](people-image-why.md) as a greater good.
+
 Most leftist apologists state that it's a working system that simply needs more re-engineering. However, most efforts to adapt leftism [distort its image](people-image-distortion.md) more than changing its [model](logic.md). Thus, it stays the same even as it keeps [renaming](language.md) and [re-branding](marketing.md).
+
+In practice, leftism also has a history of political violence, but tends to hyper-focus on religious violence.
+
+- Their value system is configured based on the idea that their political views are inherently sensible.
+- Since there's no higher authority (i.e., [God](god.md)), there's no accountability if the group pivots on a specific issue.
 
 ## Rebranding leftism
 
@@ -113,7 +139,11 @@ The concept of "diversity" mixes into the identity politics debate. But, they te
 
 Having *both* diversity of thought *and* culture is absurdly difficult because long-standing [cultures](people-culture.md) tend to publicly [assault](morality-taboo.md) thoughts that extend beyond a certain difference from them. Take the most ethnically diverse group of people, put them together, and within months they'll form a culture that can easily eject ideas that "diverse" group doesn't like.
 
+APPLICATION: Since it [challenges](people-conflicts-inner.md) [viewpoints](people-image-why.md), diversity of thought requires *frequent* discomfort from everyone involved. It's necessary for [the good life](goodlife.md) and would be ubiquitous in a [perfect society](politics-perfectsociety.md), but leftism shuns it.
+
 The ideal domain is a diversity of thought, which requires constant organizational change, but it would mean an organization that also questions the shortcomings of leftist ideals as well.
+
+APPLICATION: DEI (diversity, equity, and inclusion) and ESG (environmental, sustainability, and governance) are [managerial-class](groups-large.md) implementations of leftist ideologies. Many of them involve keeping a score that defines how leftward a person is inclined to act, and rewarding people toward that end.
 
 ## The climate cult
 
@@ -138,9 +168,13 @@ The climate change story is ubiquitous for a simple, broader reason. We're highl
 
 The cure for any potential forthcoming climate catastrophe is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free [information](information.md), not fewer people, with government grants oriented toward performance. [Sustainability](politics-leftism-sustainability.md) is difficult to measure, so it quickly creates a [bureaucratic mess](mgmt-badsystems.md).
 
+APPLICATION: A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](people-image-why.md), [strength](results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](people-image-why.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
+
 The solutions proposed by leftist leaders are complete [misdirections](people-image-distortion.md). Extended surveillance, shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries-why.md).
 
 While most leftists don't realize it, the leadership of the far left heavily endorses climate change because it's a [creative](mind-creativity.md) method to gain more [power](power.md). By closely tracking someone's "carbon footprint", they can see exactly where someone goes, what they [do](results.md), who they [interact with](people-conversation.md), and often [deduce](logic.md) with somewhat reliable accuracy what they're [thinking](understanding.md).
+
+APPLICATION: At its farthest, leftism is a [cult](culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
 
 ## Language
 
@@ -153,35 +187,4 @@ Typically, the Left uses [shame](people-image-why.md) to advance their [choice](
 
 Now, with [technology](technology.md), the Left has the [power](power.md) to direct [conversations](people-conversation.md) with [social](people-friends-why.md) [media](creations.md). While *any* [large group](groups-large.md) with a [dysfunctional desire](mgmt-badsystems.md) can control conversations, leftism has been successfully [doing it](results.md) for decades.
 
-* * * * *
-
-## Application
-
-Leftward thinking frequently leads to disasters. For the sake of the Party, people will use [vulgarities](language.md) and [violence](people-conflicts-war-why.md). [Mentally unwell](hardship-ptsd.md) people will destroy [beautiful](values-quality.md) things, [technology](technology.md), and priceless [creations](creations.md). It's all [justified](understanding.md) in their mind for what they [perceive](people-image-why.md) as a greater good.
-
-Attacking someone because they attacked you is two wrong actions, or at the very best one wrong action and a retaliation. Nothing [good](morality.md) comes of it, but the scope of the actions can destroy quite a lot. However, the Left frequently uses evil-for-evil to [justify](logic.md) a political revolution.
-
-A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](people-image-why.md), [strength](results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](people-image-why.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
-
-A [perfect society](politics-perfectsociety.md) has the [claimed](people-image-why.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
-
-Leftism is an inherently political religion, and absolutely everything connected to [the human experience](humanity-universals.md) can be affected by it.
-
-Since it [challenges](people-conflicts-inner.md) [viewpoints](people-image-why.md), diversity of thought requires *frequent* discomfort from everyone involved. It's necessary for [the good life](goodlife.md) and would be ubiquitous in a [perfect society](politics-perfectsociety.md), but leftism shuns it.
-
-The Left constantly redefines itself. The only time it ever succeeds is when people aren't [educated](understanding.md) about its history or methods.
-
-By principle of leftism's ideal, left-leaning people tend to hate a few things:
-
-- [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](people-culture.md).
-- [Competition](people-conflicts-why.md) - even though human [purpose](purpose.md) is driven by *many* [inner conflicts](people-conflicts-inner.md), leftism claims external conflicts are generally bad.
-- Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](people-rules.md).
-- [Devoted](understanding-certainty.md) work - working for an [unseen](imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
-
-Many people may feel guilt from past sins, but the Left tries to shame people against [decisions](people-decisions.md) on that premise. [Morality](morality.md) aside, it's unreliable to [lead](groups-small.md) *anyone* that way, since they'll defy orders if they ever have [convictions](understanding-certainty.md) that aren't directed to the Party.
-
-At its farthest, leftism is a [cult](culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
-
-DEI (diversity, equity, and inclusion) and ESG (environmental, sustainability, and governance) are [managerial-class](groups-large.md) implementations of leftist ideologies. Many of them involve keeping a score that defines how leftward a person is inclined to act, and rewarding people toward that end.
-
-The religious nature of neo-Marxism slowly shifts it to a form of neo-paganism. With [futurism](https://trendless.tech/trends/) involved, it may include [AI](computers-ai.md) worship.
+APPLICATION: The Left constantly redefines itself. The only time it ever succeeds is when people aren't [educated](understanding.md) about its history or methods.

@@ -36,6 +36,13 @@ We assembled many of our values automatically for specific [purposes](purpose.md
 
 At the bottom of the abstractions, we have universally applicable things that are *so* broad and *so* vague that very little can practically apply to anything. These "impracticals" are usually the realm of most philosophy books.
 
+The reason they're so impractical is *not* in their uselessness, but in the utter tedium it takes to work through them:
+
+- A practical statement:
+  - "The grass is green."
+- An impractical statement:
+  - "We know that 'greenness' is represented within our mind, and the repetitive nature of our ability to observe can give us enough certainty about the world around us, which means that, when we observe grass, our mind interprets it as green."
+
 Impracticals take tremendous work to drag them back down to daily life. Most philosophy fans imply it's a necessary "soft skill" for living [the good life](goodlife.md), but that's only proportional to the reader's genetic and trained intelligence.
 
 Contrary to their opinion, these impracticals are only valuable if they're theoretically useful somewhere. If practical understanding refutes an impractical later (e.g., a categorization doesn't conform with scientific discoveries 100 years later), then it wasn't a particularly reliable or worthwhile belief.

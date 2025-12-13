@@ -14,24 +14,20 @@ The process that builds Cluster B thinking is somewhat straightforward:
    - "I'm only good for what I do."
    - "I'm not good enough."
    - "Everyone hates me."
-2. They conclude and closely [identify](identity.md) as a victim of their circumstances.
-   - "Life is unfair."
-   - "I wasn't taught the right lessons in life."
-   - Nobody ever gives me a chance."
-3. They way they process the discrepancy of the above two determines how their mind configures the information from early childhood:
+2. They mix up other people and thoughts in their mind ("objects" in psychology terms):
+   - Outside experiences (i.e., other people and what they say or do) are beyond their control.
+   - Inside thoughts (i.e., memories of others) should be seen as the fully controllable elements of themselves.
+   - They don't distinguish the two:
+     - They'll think their thoughts are others' responsibility.
+     - They'll expect they can control others' actions and thoughts.
+   - This comes from [early childhood](maturity.md), where they never distinguished their "self" from their "mother" like typical childhood development should have created.
+3. They have to harmonize the discrepancies that arise, which determines how their mind configures the information from early childhood:
    1. Avoidance: Borderline Personality Disorder (BPD) creates a barrier between the conflicting values. This creates discomposed [images](people-image.md) of identity and self that can manifest as alter egos.
    2. Engagement: Histrionic Personality Disorder (HPD) concludes they can earn their attention through outward performance. This makes them excessively seek attention and endlessly crave stimulation.
    3. Acceptance: Antisocial Personality Disorder (ASPD) disregards others' [rights](people-boundaries.md) in the pursuit of their own. They seek stimulation, but the focus is for inward satisfaction instead of the outward focus of HPD.
-   4. Dissatisfaction: [Narcissistic Personality Disorder (NPD)](mind-neurodivergence-clusterb-narcissist.md) feel tremendous [anger](mind-feelings-anger.md) at their situation, but refuse to self-reflect because of their terrible sense of self. [Any other personality can shift to this over time](https://theologos.site/narcissism/).
+   4. Dissatisfaction: [Narcissistic Personality Disorder (NPD)](mind-neurodivergence-clusterb-narcissist.md).
 
-All of their thoughts mix up other people and thoughts in their mind ("objects" in psychology terms):
-
-- Outside experiences (i.e., other people and what they say or do) are beyond their control.
-- Inside thoughts (i.e., memories of others) should be seen as the fully controllable elements of themselves.
-- They don't distinguish the two:
-  - They'll think their thoughts are others' responsibility.
-  - They'll expect they can control others' actions and thoughts.
-- Due to this, the severity of their mental illness often comes through how intelligent they are.
+Due to this, the severity of their mental illness often comes through how intelligent they are.
 
 ## Difficulties due to their mental state
 

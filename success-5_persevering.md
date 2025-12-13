@@ -183,6 +183,15 @@ Instead of focusing on weaknesses, try to use your strengths to compensate for t
 
 Failures are a standard part of being human, but how we respond to them defines how they affect us.
 
+The failures that lead to success tend to move through a predictable [trend](trends.md):
+
+1. Uninformed Optimism: starting but not knowing what to expect.
+2. Informed Pessimism: failing enough to see the issues more clearly.
+3. Crisis of Meaning: frustration at being unable to achieve.
+4. Crash and Burn: giving up, which is often where most people stop.
+5. Informed Optimism: trying again with the hope that it could still be done with the new constraints.
+6. Achievement: successfully accomplishing it.
+
 Failing can often make us irrational and disoriented, especially when we feel shame over it:
 
 - Failing isn't a big deal, but permanently giving up is.

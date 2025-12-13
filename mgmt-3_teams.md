@@ -215,6 +215,8 @@ People tend to create workplace issues for several reasons:
 - They feel inadequate in their private life, so they seek revenge through their work.
 - They believe they'll find [meaning](meaning.md) or [solutions](purpose.md) to their problems by controlling things beyond themselves.
 
+Even one person in a ten-person team will drag down everyone's collective productivity by 30-40%.
+
 ## Don't micromanage
 
 Your first impulse as a manager who sees problems will be to micromanage.

@@ -74,19 +74,37 @@ Communicate with your spouse, partner, or roommate about plans to prevent a doub
 
 Buy produce through a food-sharing website or a co-op.
 
-Some food is *always* over-priced for convenience or inferior quality:
+Some food is *always* over-priced for convenience, or is absolutely a markup of something with inferior quality:
 
 - Bottled, prepared or powdered teas
 - Boxed rice or side-dish mixes
 - Frozen pre-formed meat patties
 - Gourmet frozen vegetables
 - Individual 100-calorie servings of anything
+- Kobe/Wagyu beef
 - Parmigiano Reggiano cheese
 - Pre-mixed alcoholic drinks
 - Salad kits
 - Snack/lunch packs
 - Spice mixes
 - Girl Scout cookies (Keebler sells them year-round under different branded names)
+
+Do research on the food, though, since health is enough of a concern that many products are [marketed](marketing.md) as healthy when they're not:
+
+- Balsamic vinegar may be dyed wine vinegar with added sugar.
+- Caviar may be fish roe from cheaper species or dyed seaweed spheres.
+- Chocolate can be made with palm oil, palm kernel oil, coconut oil, or shea butter instead of cocoa butter.
+- Coffee volume is often enhanced with roasted grains, chicory, or sawdust.
+- Honey is often mixed with corn syrup or sugar water.
+- Maple syrup sometimes has *no* real maple syrup whatsoever.
+- Olive oil is often diluted with cheaper vegetable oils, and can be mislabeled as "extra virgin".
+- Saffron can be bulked with dyed plant threads or paper.
+- Tea can often be fake, but mixed with non-tea leaves or synthetic flavorings.
+- Truffle oil is often olive oil flavored with synthetic truffle aroma.
+- Tuna can often be a cheaper fish like escolar or oilfish.
+- Vanilla extract may be synthetic vanilin.
+- Wasabi might be a mix of horseradish, mustard, and green dye.
+- Wine with rare wine may be filled with cheap wine and sold at a premium.
 
 Compare choices before committing to buying.
 

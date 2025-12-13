@@ -1,6 +1,54 @@
 
 # Specific browser-based information
 
+## DNS configs
+
+### Quick copy-paste
+
+v4:
+
+94.140.14.14
+1.1.1.1
+9.9.9.9
+
+v6:
+
+2a10:50c0::ad1:ff
+2606:4700:4700::1111
+2620:fe::fe
+
+### AdGuard
+
+*Very* effective at blocking ads
+
+Default servers:
+
+94.140.14.14
+94.140.15.15
+2a10:50c0::ad1:ff
+2a10:50c0::ad2:ff
+
+Family servers (blocks more filth):
+
+94.140.14.15
+94.140.15.16
+2a10:50c0::bad1:ff
+2a10:50c0::bad2:ff
+
+### Cloudflare
+
+Highly reliable, since Cloudflare is associated with running most of the internet
+
+1.1.1.1
+2606:4700:4700::1111
+
+### Quad9
+
+A great, lesser-known fallback
+
+9.9.9.9
+2620:fe::fe
+
 ## Firefox configs
 
 about:config

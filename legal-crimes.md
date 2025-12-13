@@ -56,6 +56,12 @@ Disorderly conduct: behaving inappropriately (aggressive)
 
 - Disturbing the peace: disorderly conduct in a public place (aggressive)
 
+Dumping: leaving something in a public place or where it disrupts someone else's life (subversive)
+
+Loitering: being present in a public place or where it disrupts someone else's life, often implied that they may be preparing to do something else (subversive)
+
+- Homelessness: living in a public location or where it disrupts someone else's life (subversive)
+
 Harassment: behavior meant to cause trouble for someone else (aggressive)
 
 - Cyberbullying: online harassment

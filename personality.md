@@ -70,7 +70,7 @@ When choosing a [mate](gender.md) or [leader](groups-small.md), personality is *
 
 Our [self-esteem](identity.md) is essentially our extraversion (as a positive emotional state) minus our neuroticism (as a negative emotional state).
 
-Most things we call "personality disorders" are simply the combination of personality characteristics that create adverse [consequences](results.md) for society:
+Most things we call "personality disorders" are simply the combination of [neurodivergent](mind-neurodivergence.md) personality characteristics that create adverse [consequences](results.md) for society:
 
 - Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](people-image-why.md) about [reality](reality.md).
 - [Cluster B](mind-neurodivergence-clusterb.md) personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion mixed with early childhood [PTSD](hardship-ptsd.md).

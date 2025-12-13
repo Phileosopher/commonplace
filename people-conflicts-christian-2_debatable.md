@@ -10,6 +10,7 @@ Some things labeled as "Christian" have little to do with the essence of Christi
 
 - A singular event of deciding to follow Jesus, making a prayer or getting baptized.
   - Following Jesus is a [journey until death](https://theologos.site/devotion-chaos/).
+  - For the first 1,500 years of Christianity, baptism was a means of God's grace and a spiritual event of its own, and not merely a memorial.
 - A visible sense of morality and a moral conviction of sin.
   - Even secular people can be morally convicted of wrongdoing ([Acts 24:24-27](https://biblehub.com/acts/24.htm)).
 - Intellectual knowledge of what Christianity believes and who Jesus is.

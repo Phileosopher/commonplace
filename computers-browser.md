@@ -11,6 +11,20 @@ Most of the internet's backbone for daily use is the HTTP protocol (hyper-text t
 
 The entire HTTP system is designed as a host/client relationship, with the client being the requester and the host being the responder.
 
+The structure of a URL indicates its information:
+
+- e.g., "```https://www.example.com:80/file.html?key1=value1&key2=value2#00s0350q```"
+- Protocol: "https://" - indicates what [protocol](standards-computers.md) to use
+- Subdomain: "www." - indicates which type of subdomain
+- Domain name: "example.com" - specifies [the domain](computers-browser-domains.md)
+- Port: ":80" - specifies what port to connect on
+- Path: "/file.html" - gives [the folder path](computers-files.md) for the element
+- Query: "?" - indicates there will be a specific [search](computers-programming-algorithms.md) for the information
+- Parameters: "key1=value1&key2=value2" - the parameters to query
+- Fragment: "#00s0350q" - further metadata
+
+APPLICATION: strip the query onward, and you've just cut off some information to the host. This is a good cybersecurity practice.
+
 Client computers submit a request to a host/server computer with a URL, an endpoint path off that URL, and one of a several possible methods:
 
 - GET - ask for information from a specified location (sent in the URL directly and therefore *not* [securely sent](computers-cysec.md))

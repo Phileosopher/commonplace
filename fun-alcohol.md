@@ -220,3 +220,5 @@ The lines on a Solo cup are measurement marks:
 Stir mix drinks with lollipops to give them extra flavor.
 
 There's no end of fun ways to drink, as long as you stay [creative](mind-creativity.md) and avoid [abuse](addiction-substances.md).
+
+If you mix Mike's Cranberry Harder Lemonade with Cucumber Lime Gatorade, you will find a flavor combination that defies words.

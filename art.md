@@ -35,83 +35,9 @@ It's only natural, in the flow of evoking feelings, that some media and [genres]
 
 Those standards often create tropes that represent repeatedly throughout that type of work.
 
-### Media
+These primitives expand into increasingly advanced forms of [media](art-media.md).
 
-The atomic components of art assemble into more complex aspects, as demonstrated below
-
-#### Level 1
-
-Reasoning: a form of thought
-
-- Assembles a new thought based on at least two other elements
-- Can be [logical](logic.md) reasoning, or [emotional](mind-feelings.md) expression put to [language](language.md)
-
-Inflection: a form of oral or written expression
-
-- Expressing certain sound variations of a word
-- Built around evoking a particular feeling [common to other people](humanity-universals.md)
-
-Calligraphy: a form of visual expression
-
-- Expressing symbols on a surface
-- Can also be described as [creative writing](language-writing.md), but also includes artistic typography
-
-Change: a depiction of movement
-
-- Expressing two states, one after the other
-- May be a [story](stories-why.md), but can also indicate two bits of [information](information.md)
-
-Visual Capture: representing a visual state of the world
-
-- Capturing the world around us via visual expression
-- As an [image](people-image-why.md), has an inherent relativity mixed with an inherent absolute
-- Includes what people call "doodling" as well as photography
-
-#### Level 2
-
-Storytelling: expressing a flow of thoughts with a beginning, middle, and end
-
-- Reasoning + Change
-- Expressing a type of [human or anthropomorphized change](people-changes.md)
-
-Diction: a form of oral expression
-
-- Reasoning + Inflection
-- Choosing words to convey an idea with sentences
-
-Portraiture: capturing a visual composite
-
-- Visual Capture + Change
-- depicts a scene for the purpose of showing a story
-
-#### Level 3
-
-Prose: a form of expressing a [story](stories-why.md)
-
-- Storytelling + Diction
-- Choosing sentences to build a sequence of concepts
-- can expand into fiction, nonfiction, novels, serials, epics, etc.
-
-Poetry: a structured means of expressing change
-
-- Calligraphy + Inflection
-
-Animation: Portraiture set to movement
-
-- Portraiture + Change
-
-#### Level 4
-
-Film: precise capturing, set to a story
-
-- Visual Capture + Prose
-- Can range from 10 minutes to several hours
-
-Stage:
-
-#### Level 5
-
-Games:
+The [genre](art-genres.md) contributes heavily to the desired and expected style.
 
 ### Tropes
 
@@ -131,18 +57,3 @@ Film
 Games
 
 - Make the player character either incredibly uninteresting (for the player to act out their preferred behaviors) or set to be a few major possible roles (to reflect the general decisions of the player)
-
-### Genre
-
-Action
-
-- Constantly changing scenes or perspectives that are only intentionally interspersed with calm moments to give a contrast
-
-Comedy
-
-- Set the character in a familiar setting that most of the audience will relate to
-
-Horror/Thriller
-
-- Only reveal portions of the antagonist, but never the full scope of the character, even during the climax of the story
-- If any audio is present, use extremely low-frequency audio (infrasound) to evoke [fear](mind-feelings-fear.md)

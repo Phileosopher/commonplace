@@ -47,6 +47,10 @@ We also have a certain tolerance and enjoyment of exploring [unknown](unknown.md
 - Enjoys solving complex [problems](purpose.md)
 - Enjoys [philosophical discussions](philosophy.md) and [difficult reading material](education.md)
 
+The problem with intelligence, however, is that all that internal information means they're also comparatively slow to make [decisions](people-decisions.md).
+
+- APPLICATION: Smart people are also slow thinkers for simple things.
+
 Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](understanding.md) and [logic](logic.md), but is a highly [controversial](people-conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
 
 Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
@@ -102,6 +106,8 @@ Introverts can often adapt to extroverted situations by more diligently [focusin
 
 The amount people interrupt is a product of extraversion's two sub-dimensions. An introvert finds interruptions to be disrespectful (because they're not letting the speaker finish), while an extrovert finds *not* interrupting a sign of disrespect (because they're wasting the speaker's time).
 
+One "middle ground" between an extrovert and introvert is the "otrovert", who loves being around people but prefers alone time afterward.
+
 ### Enthusiasm
 
 Enthusiastic people tend to find a certain amount of excitement and joy from [social interaction](people-conversation.md):
@@ -151,7 +157,10 @@ We have a preference toward a certain amount of [tactfulness](people-boundaries.
 
 We tend to interact with our environment with our [feelings](mind-feelings.md), which tend to react more toward negative experiences than positive ones.
 
-On the high end, most of our experiences are emotional experiences that run through the right side of our brain. It provides the advantage of contending with [the unknown](unknown.md), but with the downside of feeling severely drained. Most people heavily integrated into [religious](religion.md) phenomenology have high neuroticism.
+On the high end, most of our experiences are emotional experiences that run through the right side of our brain.
+
+- It provides the advantage of contending with [uncertainty](unknown.md), but with the downside of feeling severely drained in managing complexity and uncertainty.
+- Most people heavily integrated into [religious](religion.md) phenomenology have high neuroticism (e.g., Pentecostals).
 
 On the low end, most of our experiences are relatively [rational](logic.md) experiences that run through the left side of our brain. It provides the advantage of consistency and reproducibility, but with the downside of having little to no sympathy or compassion for others.
 

@@ -3,7 +3,7 @@
 
 If you can't jump out of the way of a car about to hit you, jump upwards.
 
-Jumping from a fast-moving vehicle:
+## Jumping from a fast-moving vehicle
 
 - The sudden stop is what kills you, not the jump, so try to find something that will distribute the force, such as something soft.
 - Avoid jumping down from a height (like a bridge), since you're adding downward acceleration to your horizontal speed.
@@ -11,13 +11,13 @@ Jumping from a fast-moving vehicle:
 - Ideally, jump with something you can slide on, like a sled, but otherwise aim for landing sideways to do a barrel roll.
 - Altogether with a train, it means jumping diagonally backwards from a running start onto a soft surface.
 
-If you're falling from several stories:
+## If you're falling from several stories
 
 1. Look for anything that will break your fall at least a little.
 2. Aim for something soft (but *not* water).
 3. Try to land on your feet and roll onto your sides while protecting your head.
 
-Aircraft failure:
+## Aircraft failure
 
 - Stay in the aircraft if you don't have a parachute.
   - Go to the back of a plane as it's going down to increase your chances of surviving.
@@ -33,20 +33,20 @@ Aircraft failure:
   - If you must hit water, assume a straight-legged vertical position, like a needle, with your butt clenched.
     - Alternately, go face-down, with your hands clasped together and extended to protect your face.
 
-Chairlift accident:
+## Chairlift accident
 
 1. Ditch any extra weight like skis or snowboards, but keep your gloves.
 2. Pull up onto the cable, first with your hands, then with your feet.
 3. Shimmy to the top if you're close, otherwise shimmy down.
 4. Go slowly, to avoid exhausting yourself.
 
-Falling elevator:
+## Falling elevator
 
 1. Stack any belongings on the floor and stand on them.
 2. Spread your weight across any handrails in the elevator.
 3. Slightly bend your knees (don't jump, since it's pointless).
 
-If your car falls into a body of water:
+## If your car falls into a body of water
 
 1. Brace for impact and stay buckled, since you don't know what will happen.
    - Make sure you have a blunt object to break the window, in case the circuitry fails.
@@ -61,7 +61,7 @@ If your car falls into a body of water:
    - Do *not* open the window, since the rush of water entering the car will prevent you from getting out.
    - By design, the car will generally be front-heavy, meaning the rear window is facing upward, so use the tip of the headrest to break through.
 
-Capsized boat:
+## Capsized boat
 
 1. Use VHF Channel 16 to notify emergency services.
 2. Grab any signal devices you can such as flashlights, mirrors, whistles, flares, or retro reflective tape.

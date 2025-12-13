@@ -55,7 +55,10 @@ The best way to placate members is with a rewards system, typically with decorat
 
 One of the easiest ways to [influence](influence.md) the group toward a continued effort against the opponent is to generate a disaster or emergency. If there's a crisis, people are more likely to act in [overt fear](mind-feelings-fear.md) and rally behind their leadership. This disaster can either be a relatively smaller legitimate problem [enhanced into a larger one](people-image-distortion.md), or can be a complete fabrication.
 
-Sometimes this group will express as protesting or rioting, with the people who incite the protest starting a [trend](trends.md) of opposition. This taps into a [base](mind-feelings.md) urge to rebel and directs it against the leadership.
+Sometimes this group will express as protesting or rioting, with the people who incite the protest starting a [trend](trends.md) of opposition.
+
+- This taps into a [base](mind-feelings.md) urge to rebel and directs it against the leadership.
+- However, both the leadership of that group *and* outside groups have the ability to steer the resentment with [propaganda](stories-storytellers.md).
 
 APPLICATION: Controlling and directing a riot is very difficult. While some people, especially the [Left](politics-leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 

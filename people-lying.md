@@ -18,6 +18,11 @@ Further, we often lie to ourselves:
 
 Frequently, when we endure [childhood trauma](hardship-ptsd.md), we [lie to *ourselves* so much that we believe it](hardship-worthlessness.md)!
 
+Many times, we're forced to lie.
+
+- We often have to avoid [shame](mind-feelings-shame.md), so we will make "little white lies" to prevent others from knowing we didn't do what we promised, then fix it ourselves.
+- This is [habit-forming](habits.md), and can extend to entire [cultures](people-culture.md) that *expect* everyone is lying at least a little.
+
 Because of all this, we frequently assume *falsely* that other people are lying, even when they're not.
 
 ## Liars' motivations

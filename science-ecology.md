@@ -16,6 +16,7 @@ Nothing is technically ever wasted by living beings. Every waste product of a li
 - Dung beetles and flies eat mammal excrement.
 - Oxygen is toxic to flora and critical for fauna, and the reverse for carbon dioxide.
 - Most odors we find unpleasant are because we've incubated a microbiome.
+- The carbon released from cow flatulence came from plants in the first place, and is absorbed by plants later.
 
 The scarcity of food creates a hard limit on how much and how varied life can thrive, and builds a type of food chain. A good rule of thumb is that, barring plant life, every organism requires 1,000 times its biomass to survive. Thus, a 5-kilogram herbivore requires 5,000 kilograms of plant matter and a 5-kilogram carnivore requires 5,000 kilograms of herbivore (i.e., 5,000,000 kilograms of plant matter). This is a giant reason why most predators don't primarily feed on other predators.
 

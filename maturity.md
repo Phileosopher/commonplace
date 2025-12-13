@@ -35,65 +35,93 @@ However, at the same time, aging also tends to provoke us to more risk-averse ac
 
 Every person, from birth to death, transitions through stages of questioning. Their entire existence is defined by the way they process their questions:
 
-Can I trust the world? (~0-2 years old)
-
-- Concerned with mother over issues like feeding, receiving comfort, pain from teething, and sleeping.
-- If [loved](people-love.md), we form a healthy degree of [hope](trust.md) and [determination to persevere](purpose.md).
-- When neglected, we'll instinctively draw away from others or have a poor understanding of [reality](reality.md).
-- We require *massive* introspection to even budge the results of this stage later in life, and it determines most of our [trust issues](trust.md).
-
-Is it okay to be me? (~2-4 years old)
-
-- Concerned with the relationship with both parents over issues like managing bodily functions, toilet training, controlling muscles, talking, and walking.
-- If [loved](people-love.md), we build willpower and restraint.
-- When neglected, we end up highly compulsive or highly impulsive.
-- Most of our issues about [identity](identity.md) come from this stage.
-
-Am I okay to move, do, and act? (~4-5 years old)
-
-- Concerned with immediate family over issues like exploring, discovering, having adventures, and playing.
-- If [loved](people-love.md), we give [purpose](purpose.md) to our actions.
-- When neglected, we either become ruthless toward others or needlessly inhibited toward ourselves.
-- Most of our issues about finding [purpose](purpose.md) come from this stage.
-
-Can I make it in the world of people and things? (~5-12 years old)
-
-- Concerned with school, teachers, friends, and neighborhood with the need to achieve and accomplish.
-- If loved, we [feel competent](success-1_why.md) and naturally make [methods](habits.md) from our actions.
-- When neglected, we either create a narrow sense of [virtue](morality.md) or maintain [mindless inertia](addiction.md) toward tasks.
-- Most of how we approach [work and play](results.md) comes from this stage.
-
-Who am I, and what can I be? (~13-19 years old)
-
-- Concerned with [peers](people-friends-why.md), [social groups](groups-member.md), and any [influencers](influence.md) with the need to clarify [identity](identity.md), find [direction](purpose.md), and become an adult.
-- If loved, we become [faithful, loyal, and devoted](understanding-certainty.md) to the groups we're in.
-- When neglected, we either become fanatical about our groups or become [outcasts](morality-taboo.md) from everyone.
-- Most of our approach to everything in life is specified at this stage.
-
-Can I love? (~20-39 years old)
-
-- Concerned with [lovers](gender.md), [friends](people-friends-why.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
-- Our physical peak usually takes place around our late 20s.
-- If loved, we learn the true [meaning of love](people-love.md) and affiliate ourselves with healthy social connections.
-- When neglected, we either become sexually or emotionally promiscuous or exclude everyone and become antisocial.
-- Most of our view of the world is clarified and reinforced at this stage.
-
-Can I make my life count? (~40-64 years old)
-
-- Concerned with our [children](people-family.md) and [the surrounding community](groups-member.md) with "giving back" to society, [helping others](success-1_why.md), and making others well.
-- If we're successful, we learn to [be more caring](morality.md) and produce meaningful [results](results.md).
-- Our mental peak typically takes place around our early 50s.
-- If we fail, we either overextend with our tasks or reject others and their needs.
-- Most of our legitimate [ability to influence](influence.md) comes from this stage.
-
-Was it okay to have been me? (~65+ years old)
-
-- Concerned with society, the entire world, and life itself to find [life achievements](success-1_why.md) and create [meaning and purpose](purpose.md) from the [past](stories-why.md).
-- If we're successful, we develop unbelievable [wisdom](understanding.md) and learn to renounce our connection with [physical things](humanity.md).
-- If we fail, we either become presumptuous about everyone or bitter at everything.
-- This stage determines how well we approach [death and mortality](mind-feelings-fear.md).
-
 APPLICATION: It's better to find [meaning](meaning.md) earlier in life when you have time and strength than later *after* you've expended much of your life.
+
+### Can I trust the world? (~0-2 years old)
+
+Concerned with mother over issues like feeding, receiving comfort, pain from teething, and sleeping.
+
+If [loved](people-love.md), we form a healthy degree of [hope](trust.md) and [determination to persevere](purpose.md).
+
+When neglected, we'll instinctively draw away from others or have a poor understanding of [reality](reality.md).
+
+We require *massive* introspection to even budge the results of this stage later in life, and it determines most of our [trust issues](trust.md).
+
+### Is it okay to be me? (~2-4 years old)
+
+Concerned with the relationship with both parents over issues like managing bodily functions, toilet training, controlling muscles, talking, and walking.
+
+If [loved](people-love.md), we build willpower and restraint.
+
+When neglected, we end up highly compulsive or highly impulsive.
+
+Most of our [personality](personality.md) and issues about [identity](identity.md) come from this stage.
+
+### Am I okay to move, do, and act? (~4-5 years old)
+
+Concerned with immediate family over issues like exploring, discovering, having adventures, and playing.
+
+If [loved](people-love.md), we give [purpose](purpose.md) to our actions.
+
+When neglected, we either become ruthless toward others or needlessly inhibited toward ourselves.
+
+Most of our issues about finding [purpose](purpose.md) come from this stage.
+
+### Can I make it in the world of people and things? (~5-12 years old)
+
+Concerned with school, teachers, friends, and neighborhood with the need to achieve and accomplish.
+
+If loved, we [feel competent](success-1_why.md) and naturally make [methods](habits.md) from our actions.
+
+When neglected, we either create a narrow sense of [virtue](morality.md) or maintain [mindless inertia](addiction.md) toward tasks.
+
+Most of how we approach [work and play](results.md) comes from this stage.
+
+### Who am I, and what can I be? (~13-19 years old)
+
+Concerned with [peers](people-friends-why.md), [social groups](groups-member.md), and any [influencers](influence.md) with the need to clarify [identity](identity.md), find [direction](purpose.md), and become an adult.
+
+If loved, we become [faithful, loyal, and devoted](understanding-certainty.md) to the groups we're in.
+
+When neglected, we either become fanatical about our groups or become [outcasts](morality-taboo.md) from everyone.
+
+Most of our approach to everything in life is specified at this stage.
+
+### Can I love? (~20-39 years old)
+
+Concerned with [lovers](gender.md), [friends](people-friends-why.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
+
+Our physical peak usually takes place around our late 20s.
+
+If loved, we learn the true [meaning of love](people-love.md) and affiliate ourselves with healthy social connections.
+
+When neglected, we either become sexually or emotionally promiscuous or exclude everyone and become antisocial.
+
+At this point, most of our teenage years' [culture](people-culture.md) will come back to haunt us (i.e., dated pop culture references).
+
+Most of our view of the world is clarified and reinforced at this stage.
+
+### Can I make my life count? (~40-64 years old)
+
+Concerned with our [children](people-family.md) and [the surrounding community](groups-member.md) with "giving back" to society, [helping others](success-1_why.md), and making others well.
+
+If we're successful, we learn to [be more caring](morality.md) and produce meaningful [results](results.md).
+
+Our mental peak typically takes place around our early 50s.
+
+If we fail, we either overextend with our tasks or reject others and their needs.
+
+Most of our legitimate [ability to influence](influence.md) comes from this stage.
+
+### Was it okay to have been me? (~65+ years old)
+
+Concerned with society, the entire world, and life itself to find [life achievements](success-1_why.md) and create [meaning and purpose](purpose.md) from the [past](stories-why.md).
+
+If we're successful, we develop unbelievable [wisdom](understanding.md) and learn to renounce our connection with [physical things](humanity.md).
+
+If we fail, we either become presumptuous about everyone or bitter at everything.
+
+This stage determines how well we approach [death and mortality](mind-feelings-fear.md).
 
 ## Judging
 

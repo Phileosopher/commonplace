@@ -22,6 +22,12 @@ There are [many ways to track whether the team is effective at what they do](mgm
 
 Very often, a team will require at least 2-4 models to gain any useful analysis on what to do next.
 
+Do *not* expect any systems to legitimately show the status of a project.
+
+- Many times, a phase will appear to be relatively quick, but will take *much* more time than anyone could have expected.
+- It's also likely that members of the group will leave the project or the original plan gets abandoned.
+- Often, the only way to resolve this is through *lots* of communication, mixed with having to make difficult decisions.
+
 ## Making schedules
 
 People almost never work as much as they say they do.

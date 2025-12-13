@@ -98,9 +98,6 @@ OpenAI (2022)
 [Finetuning Large Language Models | Hacker News](https://news.ycombinator.com/item?id=35666201)
 [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 
-[Replit's new Code LLM: Open Source, 77% smaller than Codex, trained in 1 week | Hacker News](https://news.ycombinator.com/item?id=35803435)
-[Training a SOTA Code LLM in 1 week and Quantifying the Vibes - with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details)
-
 [Takeaways from hundreds of LLM finetuning experiments with LoRA | Hacker News](https://news.ycombinator.com/item?id=37870930)
 [Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments - Lightning AI](https://lightning.ai/pages/community/lora-insights/)
 

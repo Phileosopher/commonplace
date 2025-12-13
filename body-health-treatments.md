@@ -98,15 +98,15 @@ However, always take the doctor's advice as a consultant or sales personnel, *no
 
 ## Carefully consider institutionalized medical treatments
 
-Most of the afflictions have simply been renamed or localized from their origin to their symptoms:
+Most of the afflictions have simply been renamed or localized from their origin to their symptoms.
 
-- Polio became viral meningitis
-- Scarlet fever became strep throat
-- Consumption became tuberculosis
-- Diptheria became a respiratory infection
-- Scurvy is now Vitamin C deficiency
-- Rickets is now Vitamin D deficiency
-- Spanish flu now can be pneumonia or ARDS
+- Polio: viral meningitis
+- Scarlet fever: strep throat
+- Consumption: tuberculosis
+- Diptheria: respiratory infection
+- Scurvy: Vitamin C deficiency
+- Rickets: Vitamin D deficiency
+- Spanish flu: pneumonia or ARDS
 
 Not all vaccines are the same:
 
@@ -168,7 +168,23 @@ Make sure, *before* you need it, what your [insurance](money-insurance.md) rules
 - Pay attention to what's in-network and out-of-network, and the conditions that make care covered versus not covered.
 - Irrespective of the situation, send *all* medical bills to the insurance company, since they may be able to negotiate a lower price for you even if they don't cover it.
 
-If you *do* visit a hospital, your bills are often negotiable.
+Urgent care services are often more affordable than hospitals, but the quality is frequently inferior.
+
+- They're only good if you have a major issue, but it's not a legitimate emergency.
+
+Make sure to keep correct documentation of any medical determinations:
+
+- Since medical systems are terrible at transferring information, ask for copies of all your charts and data.
+- Ask for the following:
+  1. Ask in writing for the name, board specialty and license number of the doctor who deemed a treatment as necessary or not medically necessary.
+  2. Ask for copies of all materials they relied on to make that determination.
+  3. Ask for proof the doctor making that determination has maintained registration in your specific state, and documentation they have met all their continuing education requirements.
+  4. Ask the aggregate rate where the doctor has made similar treatments denied versus approved.
+- You're not legally entitled to all the information in most states, but you can get some of them, and you can always ask for them.
+  - If the doctors are practicing medicine out of scope, without proper licensing and qualifications, in areas they're not competent in, the insurance companies can't use their information.
+  - Most insurance companies would rather pay the bill than hand you proof that they're violating regulations.
+
+When you *do* visit a hospital, your bills are often negotiable.
 
 - Always ask for an itemized bill, then [haggle](money-4_spending.md) over the clearly arbitrary items.
 - Hospitals will often take pennies on the dollar if you're willing to pay directly to them right away.

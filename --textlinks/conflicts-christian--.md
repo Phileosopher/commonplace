@@ -1,4 +1,8 @@
 
+[6 Questions for Christian Nationalists | Clearly Reformed](https://clearlyreformed.org/6-questions-for-christian-nationalists/)
+
+[Did Eve Have Sex with Satan? The Serpent Seed View of Genesis 3:15 | Christian Research Institute](https://www.equip.org/articles/eve-sex-satan-serpent-seed-view-genesis-315/)
+
 [The Meaning of Heresy in the Christian Church](https://www.learnreligions.com/what-is-heresy-700684)
 
 [Fundamentalist–modernist controversy - Wikipedia](https://en.wikipedia.org/wiki/Fundamentalist%E2%80%93Modernist_controversy)

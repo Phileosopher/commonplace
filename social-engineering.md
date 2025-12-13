@@ -25,3 +25,9 @@ Typically, in a modernized society, hackers only need *very* few pieces of infor
 - A few pieces of information from social media can guess someone's [password](encryption.md) security questions.
 
 "Sim swapping" is when a hacker can acquire a phone number's [two-factor authentication](computers-cysec-authentication.md) by authorizing a cell carrier with fraudulent information to migrate that phone number to another phone.
+
+Callers can clone voice recordings.
+
+- If you're unsure of the number, let it go to voicemail, then look it up before calling them back.
+- If that individual might be someone you know, send them a text message to be sure.
+- If you *do* answer, expect them to use your voice to [train a machine learning algorithm](computers-ai-ml.md).

@@ -106,32 +106,12 @@ The cure for it:
 - Socialization is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
 - Without socialization, they will often descend into other forms of neurodivergence.
 
-## Narcissism
-
-This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-clusterb-narcissist.md).
-
-## Oppositional Defiance Disorder (ODD)
-
-An antagonism against any authority figures.
-
-- Tends to oppose anything [standardized](standards.md) or "institutionalized".
-- Often participates in anti-institution institutions (e.g., punk culture, hippies, hacker culture).
-- Often simply a product of lower-than-average agreeableness.
-
-How to behave with them:
-
-- Even when hypocritical, respect their views.
-- Avoid behaving like an institutional or authority figure.
-
-The cure for it:
-
-- It typically expresses in adolescence and represents as a [phase of maturation](maturity.md).
-- However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](personality.md).
-
-## Cluster A/Schizophrenia
+## Cluster A
 
 A viewpoint that is overcrowded with [imagination](imagination.md), to the point of hallucinations and [identity](identity.md) issues.
 
+- Effectively a problem with perceptions about the present.
+- This can include schizophrenia, delusions, and split personality disorder.
 - Many modes of thought and perspective assembled, but not synthesized into the demarcation between "reality" and "imagination".
 - Typically a sign of extreme intelligence, especially visual processing aptitude.
 - At a farther extreme, their ability to self-identify is impeded, and they may have a mistaken sense of self relative to reality.
@@ -150,6 +130,56 @@ The cure for it:
 
 - They are often absurdly capable of drawing connections, so their occupation should require more [creativity](mind-creativity.md) than most people may be able to perform.
 - The only risks are contained in *what* forms of thought and perspective they maintain, so the best solution is to build a relationship with them to allow yourself to clarify to them when they are in error.
+
+## Cluster B
+
+This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-clusterb.md).
+
+- It is effectively a problem with processing memories of the past.
+
+## Cluster C
+
+A viewpoint that has problems with [anxiety](mind-bias-fear.md) and compulsive behaviors.
+
+- Effectively a problem with over-obsessing about the future.
+
+There are three major classifications:
+
+- Avoidant Personality Disorder (AVPD): heavily avoids circumstances.
+- Dependent Personality Disorder (DPD): heavily over-relies on others.
+- Obsessive-Compulsive Personality Disorder (OCPD): preoccupied with order, rules, and schedules.
+
+Indicators:
+
+- Constantly obsessed about the future, even when it doesn't make sense.
+- Obsessive actions taken in preparation for the future that don't materially change the circumstances.
+
+How to behave with them:
+
+- Be patient with their fears, since they believe those fears are legitimate.
+- When trying to talk them down from their anxieties, ask questions that undermine (not simply state) the reliability of their concerns.
+
+The cure for it:
+
+- Mostly, they need [awareness](awareness.md) of further information that diminishes their paranoia (e.g., [God is in control](god-will.md)).
+
+## Oppositional Defiance Disorder (ODD)
+
+An antagonism against any authority figures.
+
+- Tends to oppose anything [standardized](standards.md) or "institutionalized".
+- Often participates in anti-institution institutions (e.g., punk culture, hippies, hacker culture).
+- Often simply a product of lower-than-average agreeableness.
+
+How to behave with them:
+
+- Even when hypocritical, respect their views.
+- Avoid behaving like an institutional or authority figure.
+
+The cure for it:
+
+- It typically expresses in adolescence and represents as a [phase of maturation](maturity.md).
+- However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](personality.md).
 
 ## Synaesthesia and altered perceptual states
 

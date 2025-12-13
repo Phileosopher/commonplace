@@ -161,6 +161,11 @@ This progression of dissatisfaction can be slowed or restarted, but never stoppe
 - Making effective, dramatic [organizational changes](mgmt-7_changes.md) can restart the experience for them.
 - A pay increase is effective to inspire loyalty again, but typically not as much as a larger organizational change that more directly rewards hard work.
 
+While you may know this, it is [unethical](morality.md) to fire people simply because their morale is slightly dropping.
+
+- This demonstrates complete disloyalty for what someone has contributed.
+- It *will* make the rest of the team recognize the latent [narcissism](mind-neurodivergence-clusterb-narcissist.md) of their managers and respond accordingly.
+
 ### Quitting
 
 There are plenty of reasons people leave:

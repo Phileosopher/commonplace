@@ -30,6 +30,13 @@ Even *extremely* busy people have room for prayer:
 - During routine or mindless work
 - Quiet, non-thought times during [personal hobbies](fun.md) and [exercise](body-exercise.md)
 
+While Catholics believe it more than Protestants, you certainly *can* pray to believers who have come before us.
+
+- This is called "veneration" or intercessory prayer, where you're asking them to pray for you.
+- The practice may or may not be accurate, depending on very few Bible verses that cover the subject.
+  - In the absence of information, each person should be fully convinced of what they wish to do ([Romans 14:5](https://biblehub.com/romans/14-5.htm)).
+- Irrespective, your reasons for doing it should be out of a communal connection with other believers, but with the full knowledge that God is in control.
+
 ## Things worth discussing with Him
 
 Upcoming opportunities and risks:

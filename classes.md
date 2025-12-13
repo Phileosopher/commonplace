@@ -41,7 +41,10 @@ There's always a class with very little [power](power.md) to do much. They could
 
 As they encounter [power](power.md), they have very little experience or [wisdom](understanding.md) in managing it. Thus, many of them will quickly waste it instead of stockpiling it. Usually, the power they have is proportionally close to or less than the power they need merely to keep surviving.
 
-Generally, in a [large group](groups-large.md), the lower class is too preoccupied with surviving to concern themselves with the other groups. However, they do [imagine](imagination.md) it's not particularly [fair](morality-justice.md) that they don't have as much power as the other groups.
+Generally, in a [large group](groups-large.md), the lower class is too preoccupied with surviving to concern themselves with the other groups.
+
+- When the penalty for any [crime](legal-crimes.md) is merely paying money, that law only exists for the underclass.
+- However, they do [imagine](imagination.md) it's not particularly [fair](morality-justice.md) that they don't have as much power as the other groups.
 
 Parents of the lower class tend to raise their children to not ask questions that could get them in trouble, as well as teach them how to avoid suffering the worst of the [rules](people-rules.md) that would absolutely decimate them.
 

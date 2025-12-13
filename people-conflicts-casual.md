@@ -87,6 +87,8 @@ If someone is sharing something you wanted to keep private:
 
 ## Approach others' failings correctly
 
+Don't be afraid to confront them, especially if it's about a legitimate issue you both need to address.
+
 Beforehand, acknowledge that you don't want to hurt them with what you're about to say.
 
 Consistently praise whenever you see someone's behavior improve.
@@ -132,23 +134,28 @@ If, for whatever reason, you can't hear someone after they've repeated themselve
 - Thank them for their patience and restate what you heard.
 - If you'll unlikely hear them again clearly enough, suggest a more audible time in the future or to write to each other.
 
-When people ask probing questions you don't want to answer:
+### When people ask probing questions you don't want to answer
 
-- While they come across as pushy, people often speak in a way they imagine is fine in a discussion.
-- Ask *their* opinion on the matter, then give them information that changes their initial judgment.
-- If you *really* don't want to answer or believe they're interrogating, communicate a statement about it, then repeat that exact same statement if they circle around to that question later.
+While they come across as pushy, people often speak in a way they imagine is fine in a discussion.
 
-When someone is sharing too much personal information:
+Ask *their* opinion on the matter, then give them information that changes their initial judgment.
 
-- They want a connection and don't realize they're alienating themselves.
-- Immediately say one of the following:
-  - "I'm probably not the person to tell this to."
-  - "Whoa, TMI!"
-  - "Let's not talk about this, someone might hear you."
-  - "It hurts me to hear this, let's talk about something else."
-- If the person continues to over-share, use a more casual and engaging environment like going to a movie.
+If you *really* don't want to answer or believe they're interrogating, communicate a statement about it, then repeat that exact same statement if they circle around to that question later.
 
-If someone is talking incessantly or loudly:
+### When someone is sharing too much personal information
+
+They want a connection and don't realize they're alienating themselves.
+
+Immediately say one of the following:
+
+- "I'm probably not the person to tell this to."
+- "Whoa, TMI!"
+- "Let's not talk about this, someone might hear you."
+- "It hurts me to hear this, let's talk about something else."
+
+If the person continues to over-share, use a more casual and engaging environment like going to a movie.
+
+### If someone is talking incessantly or loudly
 
 1. Lean forward and assume a calm and patient demeanor.
    - People keep talking because they don't feel they've adequately expressed themselves.
@@ -158,13 +165,15 @@ If someone is talking incessantly or loudly:
    - In your response, speak more quietly or calmly than them.
 3. Redirect the conversation to something else.
 
-If someone is barely speaking:
+### If someone is barely speaking
 
-- Commenting on their how quiet they are or making general [small talk](language-speaking.md) will make them quieter.
-- Ask about them or talk about something you know they like.
-- Instead of trying to continually fill the silence, use it for contemplation.
+Commenting on their how quiet they are or making general [small talk](language-speaking.md) will make them quieter.
 
-When you must share bad news:
+Ask about them or talk about something you know they like.
+
+Instead of trying to continually fill the silence, use it for contemplation.
+
+### When you must share bad news
 
 1. Since there's a lead time between people hearing information and accepting it, tell them as early as possible to allow them more time to accept it.
 2. Express empathy about how you expect they'll feel about the news.
@@ -176,7 +185,22 @@ When you must share bad news:
 
 If you're starting to feel any unpleasant emotions, say something to give yourself space (e.g., "I need a few seconds to process this"), then take some time to calm down.
 
-### High-context language
+### If you're stuck at a meeting indefinitely
+
+NOTE: Only use this after the meeting has gone over on the estimated time it was scheduled to last.
+
+1. Don't wait for the moderator to end everyone's questions.
+2. At the next pause, start clapping.
+3. Everyone else will applaud, and there won't be anymore questions.
+
+### If you must get ahold of someone who is trying to avoid you
+
+1. Get ahold of a phone number you know they don't have.
+2. Send them a message:
+   - Hey (their name), I've been so turned on since we last spoke. I never felt this way about someone like this before! 😍♥️😉
+3. When they respond, make your intentions clear, which may include legal action.
+
+## High-context language
 
 For many reasons, people are [afraid](mind-feelings-fear.md) of a [dysfunctional confrontation](people-conflicts-bad.md).
 

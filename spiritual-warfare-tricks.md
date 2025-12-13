@@ -19,6 +19,7 @@ Since the battle is over the mind, and information is the vehicle for how we [un
 
 The devil's entire [purpose](purpose.md) is to create a constantly [fearful](mind-feelings-fear.md), anxious, bewildered, unsettled person who [reacts](habits.md) before thinking.
 
+- Ideally, he'd like people to worship *him*, but he'll settle for people worshiping absolutely anything except God.
 - [Political events](groups-large.md) like [war](people-conflicts-war-why.md) can turn attention away from [spiritual things](identity-christian.md) or [God's Kingdom](https://theologos.site/millennium/) to [nationalism](https://theologos.site/the-west/), patriotism, rebellion, or pacifism.
 - In peacetime, we can turn to materialism and worldliness, since it distracts from the [inevitability of death](hardship-death.md).
 - However, incessant war is bad for the devil because it brings out [good things](morality.md) in people, even non-believers.

@@ -8,6 +8,8 @@ Specifically with computers, the word "hack" has a few specific meanings:
 
 Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](computers-cysec-malware.md) and [social engineering](social-engineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
 
+Historically, modern hacker culture was inspired by a child playing with a toy whistle from a Cap'n Crunch cereal box that produced a 2600-hertz tone. He figured out that it was the same tone that accessed AT&T's phone network, and was able to get free long distance calls with it. It developed a culture of "phone phreaks", who developed a cottage industry of "blue boxes" that reproduced the whistle's tone for a short time.
+
 More broadly, hacking simply means using something outside of its creator's intended purpose (e.g., using an oven as a space heater). As a term, hacking usually implies computer crimes, but has positive associations within modern vernacular beyond computers (e.g., "life hacks").
 
 ## Deviant

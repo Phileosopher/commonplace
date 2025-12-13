@@ -100,3 +100,23 @@ If something is [wildly popular](trends.md), it will likely have diminished in [
 - Waiting in line to eat something famous is rarely worth the wait.
 
 Always stay attentive to [new ideas for having fun](fun-ideas.md).
+
+## Find hobbies
+
+Really, *really* dive deep into something you like.
+
+- This often starts with a series of Wikipedia pages, and can become a very dramatic personal project.
+- The more in-depth, the more likely it'll be a journey you'll take alone.
+
+Any hobbies you can find will invariably make you a [geek](mind-neurodivergence-geek.md) on the subject.
+
+- At first, people will find it odd, but eventually they'll respect you as you gain competence with it (e.g., playing the harp, welding soda cans together).
+- And, eventually, that geeky hobby has the potential to become a [side job](entrepreneur-4_freelancing.md)!
+
+## Try to make others' lives better
+
+Find strangers and greet them enthusiastically like they're a long-lost friend you haven't seen, which may include hugging them without their consent.
+
+Snip off the plug from an old pair of headphones, then plug it into a public television blaring the news when nobody's looking.
+
+- It cuts off the audio, but requires visually inspecting the plug to find the problem.

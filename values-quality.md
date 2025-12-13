@@ -23,8 +23,12 @@ Beauty resonates with our animal essence, which is why this concept is a "lower"
 
 The only response that we can say when we witness beauty is a [feeling](mind-feelings.md) that, in a nutshell, says "wow". It draws many connections to many associations at once and usually showcases tremendous [skill](mind-creativity.md) if it was [created](creations.md). The feeling is, in my opinion, a short-circuit by the brain where we've [purposed](purpose.md) to [understand](understanding.md) the entire breadth of the experience but are overwhelmed by the quality of the thing, all within a few seconds.
 
-Beauty floats within the animal essence, so there's a limited scope of what we can classify as beauty, which is mostly patterned on how we [feel](mind-feelings.md) about [nature](reality.md) around us:
+Since beauty floats within the animal essence, there's a limited scope of what we can classify as beauty, which is mostly patterned on how we [feel](mind-feelings.md) about [nature](reality.md) around us:
 
+- We seem to [symbolically](symbols.md) like things with an odd-numbered aspect to it and find even-numbered things boring.
+  - The eye regularly travels along an odd-numbered mechanism (e.g., 5 points).
+  - Everything represents visually as a triangle or some combination of triangles (i.e., the number 3).
+  - In social contexts, we represent 5 the most because it feels like a crowd (>3) without feeling overloaded.
 - Most things, including [stories](stories-why.md), incorporate a type of symmetry (like with plants and animals).
 - Everything uses a rhythm, repetition, or recursion (like with the [life cycle](people-family.md), [habit](habits.md), or a heartbeat).
 - In music, songs only transition in one of 3 possible ways from one tonic to the next (like with the limited tones we use in our [language](language.md)).

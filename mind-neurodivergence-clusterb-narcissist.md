@@ -3,6 +3,13 @@
 
 Narcissism is a unique perspective that represents a dualistic paradox of worthlessness and entitlement.
 
+1. They conclude and closely [identify](identity.md) as a victim of their circumstances.
+   - "Life is unfair."
+   - "I wasn't taught the right lessons in life."
+   - Nobody ever gives me a chance."
+2. They feel tremendous [anger](mind-feelings-anger.md) at their situation.
+3. Their terrible sense of self means they refuse to self-reflect.
+
 This viewpoint may be a psychological coping mechanism ("narcissistic behavior") or may be a core part of their personality ("narcissistic personality disorder" or NPD).
 
 - The scope of the narcissism is closely connected with how strongly their self-directed feelings impede their ability to have sympathy for others' feelings.
@@ -18,6 +25,7 @@ This viewpoint may be a psychological coping mechanism ("narcissistic behavior")
   - Arrogance through believing others to be worthless, ridiculous, or despicable.
 - While it may express during early childhood, it represents itself when selfishness starts surpassing a desire for others' benefit.
 - There are also derivations of this mechanism in the forms of the sociopathy/psychopathy spectrum.
+- Any other personality can shift to this by [mixing hardship over time without self-reflection](https://theologos.site/narcissism/).
 
 Narcissism has two major forms and some sub-forms:
 

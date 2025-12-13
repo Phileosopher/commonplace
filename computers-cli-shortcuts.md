@@ -3,6 +3,8 @@
 
 These are general command-line interface shortcuts, useful for most things. ⊞ for Windows, □ for Linux/Mac (⌘ if Mac is different).
 
+[Powershell Cheat Sheet](computers-cli-shortcuts-ps.png)
+
 ## Parameters/commands
 
 Most of the commands have special elements that modify the command's scope:

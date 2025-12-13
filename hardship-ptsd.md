@@ -50,6 +50,26 @@ Over time, not sifting through feelings creates a pent-up set of sentiments, whi
 - Longing becomes despair
 - Guilt becomes shame
 
+When you can't accept a traumatic event, you'll likely be able to accept that you're facing the consequences of it:
+
+- Insomnia, nightmares
+- Racing thoughts, severe anxiety
+- Hypervigilance
+- Social isolation, mistrust, loneliness
+- Outbursts of anger, irritability, agitation
+- Self-destructive behavior
+- Emotional numbing, loss of interest in activities
+- Unwanted thoughts, flashbacks
+- Guilt, shame
+
+This may be more difficult to accept if you're in a [culture](people-culture.md) that normalizes unhealthy responses to trauma:
+
+- Being a crybaby, likes to whine, failure to man up
+- Weak link in the chain, wimp, not willing to suck it up
+- Wasting everyone's time
+- Defective, mentally unstable
+- Coward, pitiful, pathetic
+
 Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](people-decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
 
 There are many clinical terms for our natural self-protection techniques:

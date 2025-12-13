@@ -134,6 +134,7 @@ Papert's Principle - Mental growth hinges less on making new skills and more on 
 Parkinson's Law/Roemer's Law/Bicycle-Shed Effect/Law of Triviality - Work and resources will rise to the allotted amount available (e.g., 2 hours of work takes 5 hours if nothing else obstructs it).
 
 - Asimov Corollary to Parkinson's Law - Twice the resources means twice the mismanagement.
+- Boimler's Law - To avoid more work or slashed pay, we avoid telling people how much time our tasks will take.
 
 Peltzman Effect - New safety measures create new risk-taking.
 

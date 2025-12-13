@@ -6,51 +6,6 @@ Every fictional account has to [feel](mind-feelings.md) like it is associated wi
 - Any breaks in reality must either be implicitly explainable as [humor](humor.md) or speculative (i.e., science fiction, fantasy, or horror).
 - Without that speculative explanation or humor, the entire story can only represent as an unreliable narrator.
 
-## Narration
-
-Fictional stories are also known as "narrative".
-
-- Narrative comes from its root "narrate", which means giving an account of events.
-- This goes back to the historical concept of a person sharing a story, often in the evening with a fire burning.
-- While information is presented in text is higher-quality, it doesn't change the exploration into [the unknown](unknown.md) that captured the attention of people thousands of years ago.
-
-Using an unreliable narrator is very convenient.
-
-- It allows a degree of separation to cover any plot holes.
-- The story can represent with more fluidity, since it's bound by the [personality](personality.md) of the fictional character instead of reality itself.
-
-There are multiple forms of unreliable narrator:
-
-1. Missing information
-   - This is the easiest to create, and simply requires imagining the character to be inexperienced.
-     - This is most easily done by referencing and permuting [an earlier personal life stage](maturity.md).
-   - Watson (Sherlock Holmes): present for the event, but not as perceptive as the protagonist
-   - Katniss Everdeen (The Hunger Games): present for the event and is the protagonist, but they don't fully understand what's happening
-   - Jonathan Harker (Dracula): absolutely clueless about logical consequences of their experience and doesn't know which details are significant
-   - Murderbot (Murderbot Diaries): describes details, but without feelings of any sort.
-2. Attempting truth, but adding incorrect information
-   - This requires a delicate touch of distortion, since you have to step a few paces away from the truth.
-     - It also requires enough comfort with [uncertainty](understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
-     - Lemony Snicket (A Series of Unfortunate Events): not present for the event, reconstructs the facts on later research that may be wrong or incomplete
-3. Subconsciously misbelieving the truth
-   - The distortion has to be present, but always toward the narrator's singular [purpose](purpose.md) of coping with the facts.
-   - Ted Moseby (How I Met Your Mother): present for the event, but misremembers or forgets details and nostalgia has embellisted parts of the story to make it unbelievable
-   - Goob (Meet the Robinsons): emotional [bias](mind-bias.md) distorts their judgment over actual events
-   - Rose Quartz (Steven Universe): present for the event, but depicts a [narcissistic](mind-neurodivergence-clusterb-narcissist.md) view where events made them appear better than the truth
-   - Tyler Durden (Fight Club): suffering from hallucinations, but doesn't know it
-   - Pi (Life of Pi): has suffered a [traumatic experience](hardship-ptsd.md) and turns it into a wonderful tale to cope with it
-4. Consciously distorting the truth
-   - This requires understanding the truth, then also clearly understanding the narrator's direct agenda for concealing it.
-   - Big Brother (Nineteen Eighty-Four): revises history to portray raw propaganda
-
-In mixed media (e.g., movies, video games), there are multiple avenues to provide degrees of unreliable narration.
-
-- Stream a mainline story, then add a secondary narrator later with a revision (e.g., the propaganda, then the resistance)
-- In the flow of the story, give an alternative take on events (e.g., the game's journey, then adding bits of recorded/printed media throughout the game)
-- As a second story altogether (e.g., the sequel with a second version of events)
-
-## Genre-specific conventions
-
 Blake Snyder observed that every story effectively works through at least one of ten possible [primal](mind-feelings.md) associations:
 
 1. Whydunit:
@@ -117,75 +72,61 @@ Blake Snyder observed that every story effectively works through at least one of
       2. A house
       3. A [sin](morality-sins.md) that brought the monster
 
-### Horror
+The [genre](art-genres.md) will heavily constrain  which narrative forms are permissible.
 
-The monster must always be hinted at before being shown, with an approximate order:
+## Narration
 
-1. Demonstrate what the monster can do through the main characters witnessing its destruction.
-2. Show a feature of the monster, but without the characters knowing.
-3. The characters witness a different feature of the monster.
-4. The monster causes more destruction.
-5. The characters have their first encounter with the monster.
-6. Everything intensifies up until the final conflict.
+Fictional stories are also known as "narrative".
 
-### Fantasy
+- Narrative comes from its root "narrate", which means giving an account of events.
+- This goes back to the historical concept of a person sharing a story, often in the evening with a fire burning.
+- While information is presented in text is higher-quality, it doesn't change the exploration into [the unknown](unknown.md) that captured the attention of people thousands of years ago.
 
-Every single fantasy story falls into several predictable tropes:
+Using an unreliable narrator is very convenient.
 
-- Fixed, predictable races (e.g., pretentious and long-lived elves, subterranean dwarves).
-- The presence of magic, but some type of explanation over why it isn't endlessly ubiquitous (e.g., needs incantations, drains lifeforce).
-- An [economic](money-economics.md) structure and [culture](people-culture.md) that borrows heavily from the [medieval period](history-500-europe.jpg).
+- It allows a degree of separation to cover any plot holes.
+- The story can represent with more fluidity, since it's bound by the [personality](personality.md) of the fictional character instead of reality itself.
 
-### Science fiction
+There are multiple forms of unreliable narrator:
 
-The dominant difference between sci-fi and fantasy comes in how much the author focuses on explaining the [technologies](technology.md) everyone uses.
+1. Missing information
+   - This is the easiest to create, and simply requires imagining the character to be inexperienced.
+     - This is most easily done by referencing and permuting [an earlier personal life stage](maturity.md).
+   - Watson (Sherlock Holmes): present for the event, but not as perceptive as the protagonist
+   - Katniss Everdeen (The Hunger Games): present for the event and is the protagonist, but they don't fully understand what's happening
+   - Jonathan Harker (Dracula): absolutely clueless about logical consequences of their experience and doesn't know which details are significant
+   - Murderbot (Murderbot Diaries): describes details, but without feelings of any sort.
+2. Attempting truth, but adding incorrect information
+   - This requires a delicate touch of distortion, since you have to step a few paces away from the truth.
+     - It also requires enough comfort with [uncertainty](understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
+     - Lemony Snicket (A Series of Unfortunate Events): not present for the event, reconstructs the facts on later research that may be wrong or incomplete
+3. Subconsciously misbelieving the truth
+   - The distortion has to be present, but always toward the narrator's singular [purpose](purpose.md) of coping with the facts.
+   - Ted Moseby (How I Met Your Mother): present for the event, but misremembers or forgets details and nostalgia has embellisted parts of the story to make it unbelievable
+   - Goob (Meet the Robinsons): emotional [bias](mind-bias.md) distorts their judgment over actual events
+   - Rose Quartz (Steven Universe): present for the event, but depicts a [narcissistic](mind-neurodivergence-clusterb-narcissist.md) view where events made them appear better than the truth
+   - Tyler Durden (Fight Club): suffering from hallucinations, but doesn't know it
+   - Pi (Life of Pi): has suffered a [traumatic experience](hardship-ptsd.md) and turns it into a wonderful tale to cope with it
+4. Consciously distorting the truth
+   - This requires understanding the truth, then also clearly understanding the narrator's direct agenda for concealing it.
+   - Big Brother (Nineteen Eighty-Four): revises history to portray raw propaganda
 
-- If the story focuses on the characters and their journeys, it's often a fantasy with science fiction elements (e.g., Star Wars).
-- When the story focuses on details that would typically bore non-[specialists](jobs-specialization.md), it's a science fiction (e.g., original Star Trek)
+In mixed media (e.g., movies, video games), there are multiple avenues to provide degrees of unreliable narration.
 
-When interstellar travel is involved and the story doesn't have something like long-distance teleportation, there are specific conventions for spacecraft in visual media:
+- Stream a mainline story, then add a secondary narrator later with a revision (e.g., the propaganda, then the resistance)
+- In the flow of the story, give an alternative take on events (e.g., the game's journey, then adding bits of recorded/printed media throughout the game)
+- As a second story altogether (e.g., the sequel with a second version of events)
 
-0. Retro-looking rocket
-   - Looks like a toy rocketship
-   - e.g., Buck Rogers, Flash Gordon
-   - Old-fashioned story, though it may be deliberate for [comedy](humor.md) reasons
-   - Science may be loosely based on reality, but the form of the technology won't be concerned with actual science
-1. Existing space hardware (or close enough)
-   - Looks like [what we presently use](science-space.md)
-   - e.g., Apollo 13, Marooned
-   - Will either be a documentary, dramatized account, or alternate-history version of our world
-2. Modular ring
-   - Has a rotating portion to reproduce gravity
-   - e.g., Interstellar, 2001: A Space Odyssey
-   - Implied to be in the near-enough future
-   - Things usually go badly for the crew, and there's a good chance something will smash into the rotating rings
-3. Consistent discrete elements
-   - Very distinct elements such as engine and sensors, but relatively uncomplicated
-   - e.g., Star Trek
-   - The simplicity lends to consistency, and the story has many details that create [geek](mind-neurodivergence-geek.md) fights
-4. Tons of detail
-   - Complex plumbing, ports, and probes, but with wild variations in size and design
-   - e.g., Star Wars, Battlestar Galactica
-   - Typically will be a space opera, with technical terms but a focus on the story than any coherent working theory
-   - Will be very character-focused, and the science will be closer to magic
-5. Space luxury liner
-   - Sleek design that borrows from modern luxury automotives
-   - e.g., The Fifth Element, Avenue 5
-   - A more focused story of wealthy people on a futuristic, gigantic pleasure vessel, potential story elements about [class struggle](classes.md) with the limited number of poor people on the ship
-6. Gigantic saucer
-   - A very large saucer, often within the Earth's atmosphere
-   - e.g., War of the Worlds, Independence Day
-   - The whole story will likely be about the saucer hovering motionless over a city, then lots of explosions
-7. Simple/biomorphic shapes
-   - Any variety of simple, pure geometric form or biological design components
-   - e.g., Arrival, 2001: A Space Odyssey
-   - A story that asks large questions about [human nature](humanity.md), with some [religious](religion.md) components mixed in
+In the case of a mature [genre](art-genres.md), it's almost necessary to provide unreliable narration.
 
-### Fantasy + Science Fiction
+- The genre-savviness of the audience makes a conventional story boring to them.
+- However, an unreliable narrator allows for a conventional story to become interesting.
 
-Any deviation from conventional fantasy will typically diverge into adding science fiction elements.
+## Inspiration
 
-- Unfortunately, the scope of explanation necessary to develop a* world that is *very* different from ours means the creator will likely end up explaining all the details about the world as well.
+To make a story, focus on what you love and hate.
+
+- If you can combine multiple things you love with multiple things you hate in an unexpected way, you'll be praised for your [creativity](mind-creativity-how.md).
 
 ## Role-playing and games
 

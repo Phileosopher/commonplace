@@ -27,7 +27,7 @@ Learning a wide range of interests gives us more skills at creatively [solving o
 
 APPLICATION: Education is training for the mind, similar to how physical fitness is training for the body. If you're going to exercise, you'll follow someone who is (or at least was) *very* physically fit. To learn, you'll follow someone who has a *lot* of understanding. Unfortunately, it usually expresses best as a more intimate one-on-one matter, so mainstream educational systems can't scale it.
 
-## Desire
+## Desire for education
 
 To live [the good life](goodlife.md), a person will learn to the degree they [desire](purpose.md), and no more. This is usually to [accomplish](results.md) or [create](creations.md) something, and comes from the fact that they've been [obsessing](purpose.md) and [analyzing](logic.md) heavily about the subject.
 
@@ -49,7 +49,7 @@ FURTHER APPLICATION: Good teachers start with a passion for the subject, which t
 
 If the knowledge is worthwhile, it's difficult for it to go away. Any [meaningful](meaning.md) knowledge, however, will persist across societies. Even when [war](people-conflicts-war-why.md) destroys the knowledge itself, people can reconstruct it rather quickly in another form or media. This only works in proportion to that society's [literacy](language-writing.md), though (which is why we may likely have had 3 [Bronze Ages](history-eras.md))
 
-## Measuring
+## Measuring an education
 
 Education is [understanding](understanding.md), which means it's difficult to measure. However, most [cultures](people-culture.md) must demarcate between educated and uneducated people for [specialized tasks](jobs-specialization.md), so they use [measurable](math.md) criteria to judge others' worth:
 
@@ -69,7 +69,7 @@ A person will, however, aspire to gain an educational credential because they're
 
 In the absence of a standard test, the entire system becomes a [political free-for-all](mgmt-badsystems.md), with [reputation](people-image-why.md) management and [wealthy](power-types.md) [families](people-family.md) overriding any measure of [quality](values-quality.md).
 
-## Conveying
+## Conveying experience
 
 Anyone who shares information that goes beyond [anecdotal belief](understanding-certainty.md) into a [represented value](values.md) is a teacher, even if only informally or for a few minutes. At that moment, the information they have is *far* more [important](meaning.md) than they are.
 
@@ -202,7 +202,7 @@ One of the most significant ways a school can become dysfunctional is through tr
 
 APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
 
-## Prevailing
+## Understanding that prevails
 
 The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
@@ -230,3 +230,11 @@ APPLICATION: Generally, experts are 98% right on more straightforward matters, b
 - Watching educational vlogs
 - Listening to informative podcasts
 - Reading blogs
+
+The best educators of most disciplines do expose their students to [hardship](hardship.md) pertaining to the focused discipline.
+
+- While they fail, their understanding will withstand the necessary hardships the students will likely encounter.
+
+To make sure the information stays in their minds, they also teach students to challenge established views that society has normalized.
+
+- They're not provoking the students to understand *what* is true, but *why* it is.
