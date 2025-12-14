@@ -8,8 +8,6 @@ any way that's helpful.
 
 ## 0 Languages To Address
 
-NOTE: these langs must be addressed within the trendless.tech/langs page
-
 MUST:
 BASIC
 C
@@ -19,14 +17,6 @@ COBOL
 MAYBE:
 Perl
     was designed for writing reports
-
-PROBABLY NOT:
-
-## cobol
-
-The preferred language of financial transactions is COBOL
-
-- it's REALLY REALLY fast
 
 ## datalog
 
