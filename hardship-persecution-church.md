@@ -89,7 +89,7 @@ Depending on the leadership's decisions, merely *existing* as a Christian become
 
 The most evil and cruel leaders never last more than a few years, but the persecution doesn't always stop with regime changes:
 
-- The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](legal-doctrines.md).
+- The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](lawsaxioms-legal.md).
 - Most of the time, the [trends](trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
 - Occasionally, the trends will *rapidly* pivot, especially during a [regime](groups-large.md) change.
 - Often, in [high-information](understanding.md) societies, the trends will pivot very rapidly across months or weeks.

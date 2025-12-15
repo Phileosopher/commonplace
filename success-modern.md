@@ -43,7 +43,7 @@ Society and in public
 
 Law and order
 
-- Understand the [legal doctrines](legal-doctrines.md) that frame the nation's laws.
+- Understand the [legal doctrines](lawsaxioms-legal.md) that frame the nation's laws.
 
 Contracts and agreements
 

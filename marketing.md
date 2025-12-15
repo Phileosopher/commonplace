@@ -4,7 +4,7 @@
 In short, marketing is the skill of conveying [value](values-quality.md) to others.
 
 - This value can range from a personal brand all the way up to a large organization's public image.
-- While most other domains of a business are cost centers (e.g., [accounting](money-accounting.md), [law](legal-doctrines.md), [IT](computers.md)), marketing is exclusively a profit center.
+- While most other domains of a business are cost centers (e.g., [accounting](money-accounting.md), [law](lawsaxioms-legal.md), [IT](computers.md)), marketing is exclusively a profit center.
 
 In practice, there are only 3 ways to make marketing increase an organization's revenue:
 

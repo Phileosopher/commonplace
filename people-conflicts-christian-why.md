@@ -33,7 +33,7 @@ In general, prioritize your [conflict management](people-conflicts.md) skills co
 
 1. As much as it depends on you, be at peace with everyone ([Romans 12:18](https://biblehub.com/romans/12-18.htm)).
    - This may mean dropping disagreements that get too heated or don't have much earthly significance.
-   - It also means [staying legally safe](legal-safety.md), but exercising restraint in delivering [legal action](legal-doctrines.md).
+   - It also means [staying legally safe](legal-safety.md), but exercising restraint in delivering [legal action](lawsaxioms-legal.md).
 2. If it's a [legitimate sin](morality-sins.md) with another Christian, confront them about it ([Matthew 18:15-17](https://biblehub.com/matthew/18.htm), [Deuteronomy 19:15-21](https://biblehub.com/deuteronomy/19.htm)).
    - If that doesn't work, bring 1-2 others with you to validate what they're saying with evidence.
    - Take it to the church at large if that doesn't clear up the issue.

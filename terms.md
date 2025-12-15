@@ -5,7 +5,7 @@ NOTE: These are my terms and conditions to demonstrate several points at once:
 
 1. I want to be [legally safe](legal-safety.md) as a service provider and essayist.
 2. I wish to [educate](education.md) people on how straightforward legality can be when parsed correctly.
-3. [Legally substantial](legal-doctrines.md) information does *not* need arbitrary complexity and *can* be [designed](engineering-design.md) for ease-of-use, though law school takes enough work that [it makes sense to obfuscate it](mgmt-badsystems.md).
+3. [Legally substantial](lawsaxioms-legal.md) information does *not* need arbitrary complexity and *can* be [designed](engineering-design.md) for ease-of-use, though law school takes enough work that [it makes sense to obfuscate it](mgmt-badsystems.md).
 
 This was parsed from selecting elements at [PrivacyPolicies.com](https://app.privacypolicies.com/) with modified language to fit my situation, then simplified. I'm not a lawyer and don't make enough money to hire one, so this represents the scope of my [risk management](safety-riskmgmt.md) for most typical use cases.
 
@@ -35,7 +35,7 @@ For the purposes of all following agreements:
 - **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 - **Cookies** are small files placed on Your computer, mobile device or any other device by a website, among its many uses containing the details of Your browsing history on that website.
 - **Country** refers to every state, municipality, and territory in the United States, except where inapplicable. It also may apply to Your national territory. In a situation representing conflicting laws, the laws of the country with the most permissive rights and privileges bestowed takes precedence.
-- **Dave** (also referred to by "I", "Me" or "My" in this Agreement) refers to Dave Stucky (also known as Greg Stucky) and the [legal fiction](legal-doctrines.md) declared from his birth as GREGORY DAVID STUCKY.
+- **Dave** (also referred to by "I", "Me" or "My" in this Agreement) refers to Dave Stucky (also known as Greg Stucky) and the [legal fiction](lawsaxioms-legal.md) declared from his birth as GREGORY DAVID STUCKY.
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Goods** refer to the items offered for sale on the Service, but not including Performed Service.
 - **Orders** mean a request by You to purchase Goods from Me.

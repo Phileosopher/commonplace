@@ -94,7 +94,7 @@ Scientifically, we get the most [happiness](mind-feelings-happiness.md) out of o
 Pop culture portrays an inaccurate demographic of millionaires:
 
 - Late 20s to mid-30s without children or adult children are heavily dependent on parental support.
-- Makes a very high income from a prestigious trade (e.g., [attorney](legal-doctrines.md), [stockbroker](money-investing.md), [artist](creations.md)).
+- Makes a very high income from a prestigious trade (e.g., [attorney](lawsaxioms-legal.md), [stockbroker](money-investing.md), [artist](creations.md)).
 - Works 60+ hours a week or less than 30.
 - Later-generation affluent, usually as an heir.
 - Drives the newest cars and has many expensive hobbies.

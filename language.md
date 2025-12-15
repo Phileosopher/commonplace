@@ -97,7 +97,7 @@ One wacky concept with well-used words is that sometimes a word can become a syn
 - Weather: to survive or endure, to be worn down over time
 - Left: to go away, to remain behind
 
-Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](people-image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](legal-doctrines.md)).
+Conjunctions allow compounded ideas and elaborate expressions. They are frequently the mechanism for [half-truths](people-image-distortion.md) (e.g., "talked to him" versus "talked about him"). Since they're so small, we tend to casually express them in daily language without much thought, but they define the details of most [rules](people-rules.md) (especially in [legal domains](lawsaxioms-legal.md)).
 
 APPLICATION: At their farthest use, words carry [legal](people-rules.md) power. In those cases, the difference between small words like "of" and "for" can change the *entire* [purpose](purpose.md) of a document or statement.
 

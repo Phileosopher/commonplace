@@ -179,7 +179,7 @@ Don't invest, or do *anything*, you don't understand.
 
 High-quality [analysis](logic.md) and [experience](understanding.md) can give a competitive edge if you can apply it to the psychology of [large groups](groups-large.md).
 
-- Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](legal-doctrines.md).
+- Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](lawsaxioms-legal.md).
 - Stay at least somewhat familiar with that investment's industry and related industries.
 - Your best opportunities to invest usually come from personal experience.
 

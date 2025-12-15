@@ -35,7 +35,7 @@ In practical reality, there *is* an [ethical universal](morality.md) on how inte
 4. At that statutory time, whether 5 years or 20 years, the property is public, for everyone to freely use as they prefer.
 5. Someone is entitled to their trademark, as their [symbolic](symbols.md) image, as long as people know who they are based on that symbol.
 
-A few [legal doctrines](legal-doctrines.md) broadly exist within intellectual property:
+A few [legal doctrines](lawsaxioms-legal.md) broadly exist within intellectual property:
 
 - Fair abridgment (copyright): aka "fair use" or "fair dealing", a copyrighted work is free for use in specific situations like parody, non-commercial use, and education.
 - Scène à faire (copyright): French for "scene that must be done", when a scene in a created work is almost required for that genre, certain elements of it are not protected by copyright (e.g., homeless people in a poor part of a city).
@@ -94,7 +94,7 @@ Copyright's laws are now broad enough that they inhibit [creativity](mind-creati
 
 - If an artistic industry has reached maturity, it's almost guaranteed to repeat the same [tropes](stories-why.md), notes, movements, and [symbols](symbols.md).
 - The entire conflict revolves around the philosophical concept of "newness", but [nothing is technically ever new](trends.md).
-- With enough [legal enforcement](legal-doctrines.md), attorneys can easily enforce copyrighted works from nearly a *century* ago.
+- With enough [legal enforcement](lawsaxioms-legal.md), attorneys can easily enforce copyrighted works from nearly a *century* ago.
 
 Even worse, the successors who inherit copyright (e.g., [impotent corporations](mgmt-badsystems.md)) can often severely abuse the intellectual property:
 
@@ -135,7 +135,7 @@ To own a copyrighted material, most people aren't aware they're consenting to an
 Very frequently, copyright holders would prefer people simply rent their service instead of outright buy the property.
 
 - Renting is a steady source of income (e.g., streaming services), while purchasing the object outright is a one-time revenue (e.g., a DVD).
-- It also gives room for the creator to adapt the work according to [fashions](trends.md), though it *does* violate the [first-sale doctrine](legal-doctrines.md).
+- It also gives room for the creator to adapt the work according to [fashions](trends.md), though it *does* violate the [first-sale doctrine](lawsaxioms-legal.md).
   - For example, [Roald Dahl e-book distributors forced censored versions onto readers](https://archive.fo/OSLQN).
 - More technology available to distribute copyrighted works means [large organizations](groups-large.md) can control more of the experience (i.e., [Wagner's Law](lawsaxioms.md)).
 

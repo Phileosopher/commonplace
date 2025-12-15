@@ -3,7 +3,7 @@
 
 Persecution is when [a large group](groups-large.md) is unfairly abusing and punishing a person whose ideas don't match that group.
 
-- It can be [religious](religion.md) or [political](politics-systems.md), but it can also simply be [legal](legal-doctrines.md) or [in the course of business](business.md).
+- It can be [religious](religion.md) or [political](politics-systems.md), but it can also simply be [legal](lawsaxioms-legal.md) or [in the course of business](business.md).
 - With newer [information technology](computers.md), persecution can also come through a social media mob or smear campaign.
 
 There are only a few ways a large organization can abuse you:

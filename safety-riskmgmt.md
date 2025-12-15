@@ -100,7 +100,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Behave [appropriately](people-rules.md) and [tactfully](people-3_respect.md) with everyone.
 - Have experience [defusing conflicts](people-conflicts.md).
 - Maintain [legally safe](legal-safety.md) habits.
-- Every possession you own is [legally approved](legal-doctrines.md).
+- Every possession you own is [legally approved](lawsaxioms-legal.md).
 - Carefully examine every [agreement](people-contracts.md) you sign, and only sign it with groups you [trust](understanding-certainty.md).
 - Never [agree](people-contracts.md) to anything unless you're [fully certain](understanding-certainty.md) you can fulfill it.
 - All your [agreements](people-contracts.md) are with people who [stay legally safe](legal-safety.md) and live [morally](morality.md).

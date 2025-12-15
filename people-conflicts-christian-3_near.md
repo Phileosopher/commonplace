@@ -50,7 +50,7 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
 - We'll never achieve any true spiritual culture until [Jesus establishes it directly and in-person](https://theologos.site/millennium/).
   - In this life, we're destined to battle hardship, which includes [not being able to fully trust those around us](hardship-persecution-church.md).
 - A variation of this is Christian nationalism, which indicates a person's Christian background should reflect on their [political views](politics-conservativeliberal.md).
-  - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](legal-doctrines.md) will *not* have relevance once [Jesus returns](jesus-returns.md).
+  - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](lawsaxioms-legal.md) will *not* have relevance once [Jesus returns](jesus-returns.md).
   - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](culture-cults.md).
 
 Second Work Theology - Salvation can be enhanced through the baptism of the Holy Spirit ([Acts 2:38](https://biblehub.com/acts/2-38.htm)):

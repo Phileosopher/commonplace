@@ -38,7 +38,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Governments send information to *each other* as well, but it's also not complete.
    - You may [save money](money-4_spending.md) with some of those unconventional services, but it won't reflect on your legal fiction.
    - The Gramm-Leach-Bliley Act typically requires a privacy notice disclosure (initial and annually), an opt-out notification for information sent to an unaffiliated third party, and clarified data security procedures.
-   - You can generally request the information available to you through [precedents](legal-doctrines.md) established in the Freedom of Information Act (FOIA) and Fair Credit Reporting Act (FCRA).
+   - You can generally request the information available to you through [precedents](lawsaxioms-legal.md) established in the Freedom of Information Act (FOIA) and Fair Credit Reporting Act (FCRA).
    - However, you typically have no control over that information disseminating.
 5. If you don't work with that system (e.g., [lying](people-lying.md), failure to perform [your end of the contract](people-contracts.md)), you'll be quickly gray listed or blacklisted.
    - You may lose the opportunity to get a bank account, access the internet, or get a [loan](money-2_debt.md).
@@ -62,7 +62,7 @@ To that end, your reputation involves a few arcane tasks:
    - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
 3. Watch for the people who abuse this knowledge.
    - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](computers-cysec.md).
-   - There are [*many* laws](legal-doctrines.md) around most situations where this information could be misused, so it's not common.
+   - There are [*many* laws](lawsaxioms-legal.md) around most situations where this information could be misused, so it's not common.
 
 This situation means most casual (and typically cost-effective) interactions are simply your name running by on a [database](database.md):
 

@@ -106,7 +106,7 @@ All of the above sciences apply to the world around us, and that application nat
   - [Health sciences](body-health.md)
 - Social sciences, while [not technically sciences](https://trendless.tech/scientism/), build out, among others:
   - [Business administration](mgmt-1_why.md)
-  - [Jurisprudence](legal-doctrines.md)
+  - [Jurisprudence](lawsaxioms-legal.md)
   - [Pedagogy](understanding.md)
 
 ## More information

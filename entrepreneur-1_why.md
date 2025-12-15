@@ -14,7 +14,7 @@ Outside of [parenting](parenting-children.md), a small business is the largest p
 
 Almost everyone is capable of being an entrepreneur, but not everyone has the [personality](personality.md) that they'd *enjoy* it:
 
-- Since they'll likely have to do a little of [*all* the business skills](business.md), they must have a high enough Openness to Experience to learn domains like [taxes](money-accounting.md), researching [regulations](legal-doctrines.md), and negotiating with a [supplier](logistics.md), as well as the willingness to take every variety of risk.
+- Since they'll likely have to do a little of [*all* the business skills](business.md), they must have a high enough Openness to Experience to learn domains like [taxes](money-accounting.md), researching [regulations](lawsaxioms-legal.md), and negotiating with a [supplier](logistics.md), as well as the willingness to take every variety of risk.
 - They must be Conscientious enough to make sacrifices, [productively get work done](success-4_routine.md) *before* it must be done, and [pay bills on time](money-3_budget.md), but not so much that they're a perfectionist.
 - While it varies on the industry, they must be Extraverted enough to steadily, consistently [connect](language-speaking.md) with dozens to hundreds of strangers.
 - They must be low-enough Agreeableness to both [negotiate better prices](people-conflicts-negotiation.md) and resist the [conflicts](people-conflicts-why.md) they create from disregarding [social fashions](trends.md), *especially* against [large-scale systems](mgmt-badsystems.md) who will suppress their [rise to power](power.md).

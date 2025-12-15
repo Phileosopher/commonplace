@@ -33,7 +33,7 @@ Unfair discrimination in law is tragically frequent.
 - In principle justice is blind to favoritism, but imperfect and corruptible people carry it out, and it's *also* sometimes [blind to facts outside the situation](https://gainedin.site/idiot/).
 - Most court cases are a battle of attrition through attorney fees, and the groups that typically win court battles have more money to pay their lawyers.
 - People can often abuse laws to operate against the spirit they were originally designed for.
-- While "innocent until proven guilty" is often [the doctrine *within* the courts](legal-doctrines.md), the system around it is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+- While "innocent until proven guilty" is often [the doctrine *within* the courts](lawsaxioms-legal.md), the system around it is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
 
 There is legitimate hypocrisy in the system, but there's not much you can do about it.
 
@@ -270,7 +270,7 @@ Don't get too curious.
 - Sometimes, merely *knowing* something can get you in trouble.
 - Don't ask questions unless you're prepared for the answer, as well as the legal implications that come from knowing it.
 
-Build a network of competent professionals including an [accountant](money-accounting.md), [insurance](money-insurance.md) agent, [lawyer](legal-doctrines.md), and [realtor](home-buy.md).
+Build a network of competent professionals including an [accountant](money-accounting.md), [insurance](money-insurance.md) agent, [lawyer](lawsaxioms-legal.md), and [realtor](home-buy.md).
 
 - A professional applies every thought, action, and spoken word as 3 possible forms of "status" toward the interests of their client:
   1. Advantageous

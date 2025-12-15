@@ -109,7 +109,7 @@ Record *everything* with as much supporting evidence as possible:
 - Who you communicated with and what they promised to do, with dates and times
 - When you talked and any text communications
 - Information from other departments and bureaus
-- Applicable [laws and regulations](legal-doctrines.md) that may apply to your situation
+- Applicable [laws and regulations](lawsaxioms-legal.md) that may apply to your situation
 
 You'll need this information for several possible reasons:
 

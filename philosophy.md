@@ -9,7 +9,7 @@ Every discipline is configured to address a specific portion of living:
 
 - [Accountants](money-accounting.md) keep financial records.
 - Farmers and ranchers tend to [nature](reality.md) to create [food](agriculture.md) for others.
-- [Attorneys](legal-doctrines.md) maintain and enforce [boundaries](people-boundaries-why.md) and [potential conflicts](people-conflicts.md) between people.
+- [Attorneys](lawsaxioms-legal.md) maintain and enforce [boundaries](people-boundaries-why.md) and [potential conflicts](people-conflicts.md) between people.
 - [Computer programmers](computers-software.md) create [logic](logic.md)-based [automation](computers-programming.md).
 - Mechanics and technicians [repair](https://adequate.life/fix/) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
@@ -118,7 +118,7 @@ One of the reasons for this change is the lack of any "philosophical common sens
 Philosophy's [culture](people-culture.md) has become a [trended](trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
 
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
-- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](legal-doctrines.md), [social sciences](science-social.md), and [computer science](computers.md).
+- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](lawsaxioms-legal.md), [social sciences](science-social.md), and [computer science](computers.md).
 
 The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](people-image-why.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 

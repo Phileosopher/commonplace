@@ -17,7 +17,7 @@ It's worth noting that *many* domains beyond this are *very* close to worldwide 
 
 This is also not particularly new. The same [stories](stories-why.md) of today have played out in the past with Standard Oil and John D. Rockefeller, International Harvester, American Tobacco, U.S. Steel with J.P. Morgan and Andrew Carnegie, AT&T, and De Beers.
 
-Each of these domains is a separate [trending](trends.md) empire complete with a dramatic rise, stagnation, and will someday [fall](legacy.md). They came mostly through the government permitting mergers and consolidation. The past dissolution of those organizations came with [legal precedents](legal-doctrines.md) outlined in the Sherman Act, Clayton Act, and Robinson-Patman Act, and the legal precedents can be summarized by 13 principles:
+Each of these domains is a separate [trending](trends.md) empire complete with a dramatic rise, stagnation, and will someday [fall](legacy.md). They came mostly through the government permitting mergers and consolidation. The past dissolution of those organizations came with [legal precedents](lawsaxioms-legal.md) outlined in the Sherman Act, Clayton Act, and Robinson-Patman Act, and the legal precedents can be summarized by 13 principles:
 
 1. Mergers shouldn't significantly reduce the number of competitors in a market without many competitors to start with.
 2. Mergers shouldn't eliminate the need for organizations to [compete](money-economics.md).
