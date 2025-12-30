@@ -3,9 +3,6 @@
 (2018) No, You Probably Don't Need a Blockchain
 On Bitcoins and Blockchains
 
-[Joseph Lubin](https://blockgeeks.com/news/blockchain-voting/)
-(2016) Is Blockchain Technology Going To Disrupt Our Political System: We Hope So
-
 [Lucca Runger-Field](https://bitshouts.com/blockchain-in-politics/)
 (2018) Blockchain In: Politics
 

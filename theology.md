@@ -15,7 +15,7 @@ We all need *some* form of theology.
     1. Self-defined [understanding](understanding.md) of God, as we perceive and conclude it in our minds.
     2. God-given understanding, since we have at least a limited ability to come to understanding of God's wisdom ourselves ([2 Timothy 2:7](https://biblehub.com/2_timothy/2-7.htm)).
 - Often, without extra thought, we often neglect any deeper thought and permit theological ideals that sit within worship music:
-  - [Time and chronological sequence](datetime.md) doesn't exist in eternity.
+  - [Time and chronological sequence](standards-datetime.md) doesn't exist in eternity.
   - [God](god.md) never changes.
   - God will heal all [pain](hardship.md) in this life.
 

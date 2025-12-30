@@ -27,6 +27,8 @@ Being at peace is the opposite of living in fear, and is one critical ingredient
 
 How we respond to fear dictates a *lot* of our [identity](identity.md) through how much we believe we can [do something about it](results.md).
 
+- In its place, it's actually [useful](purpose.md), when it's the counteracting force against what we want to do.
+
 ## Fear of pain
 
 All fear is driven by perceived pain:

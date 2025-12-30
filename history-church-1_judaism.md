@@ -3,7 +3,7 @@
 
 Ancient Judaism was grounded in God's established law, which made it unusual compared to any other ancient society. This law depicted *many* [sins](morality-sins.md), and was the beginning of quite a few implementations of [justice](morality-justice.md) that has persisted [to this day](https://theologos.site/the-west/).
 
-But, further than that, while the Jewish center of worship was a cultural center of society, in many capacities it wasn't as involved as other religions. Most temples also served as [date tracking](datetime.md), [weather reports](science-earth-weather.md), and even as [banks](money-investing.md). Other cultures saw the Hebrews as a type of "atheist" because they didn't display any statues of God.
+But, further than that, while the Jewish center of worship was a cultural center of society, in many capacities it wasn't as involved as other religions. Most temples also served as [date tracking](standards-datetime.md), [weather reports](science-earth-weather.md), and even as [banks](money-investing.md). Other cultures saw the Hebrews as a type of "atheist" because they didn't display any statues of God.
 
 In 30 AD, the Jews were in a period of constant controversy from a crisis of national identity:
 

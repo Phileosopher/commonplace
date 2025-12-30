@@ -21,6 +21,10 @@ APPLICATION: [Communication](people-conversation.md) is a massive part of the [h
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
+Our choice of language is heavily influenced by our environment. The objects we use and perceive have a heavy impact on our word choice, sentence structure, and emotional form of expression.
+
+APPLICATION: Simple language can obstruct our understanding. If we use the word "but" instead of "and", for example, the ideas present as a contrast that may not exist. This particular usage has dramatically increased in modern language since the development of the computer (i.e., due to operating a [logic-based](logic-cs.md) tool).
+
 ## Word structure
 
 When speaking, each sound represents a syllable (e.g., "ah", "em"), and a combination of syllables creates a "word", which represents a complete idea. Vowel sounds link a word together (e.g., a, e, i), and consonants provide more of the [story](stories-why.md) about how the word makes us [feel](mind-feelings.md).
@@ -120,7 +124,7 @@ One key difference between speaking and writing is through our interpretation of
 Underneath the surface, there are *many* aspects professional communicators obsess over:
 
 - [Logical](logic.md) flow
-- [Timing](datetime.md) and cadence
+- [Timing](standards-datetime.md) and cadence
 - The messenger matching with the message and [branding](marketing.md)
 - [Usefulness](purpose.md) or relevance to the audience
 - The audience's reading or language comprehension level

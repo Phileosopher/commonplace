@@ -29,12 +29,6 @@
 
 [Essential 40: Summaries, Commentaries, Bible Studies, Outlines](https://essential40.com)
 
-
-
-
-
-
-
 ## SWORD MODULES
 
 [The SWORD Project](https://crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries)

@@ -3,7 +3,7 @@
 
 Numerous people have tried to predict the end of the world with elaborate timetables.
 
-Most date-setters don't realize [humanity has a pretty unreliable record of time](datetime.md). Priests usually kept the days, and many of them would alter the dates to fit [political purposes](power-types.md).
+Most date-setters don't realize [humanity has a pretty unreliable record of time](standards-datetime.md). Priests usually kept the days, and many of them would alter the dates to fit [political purposes](power-types.md).
 
 A few failings from 100 B.C. to 2000 A.D.:
 

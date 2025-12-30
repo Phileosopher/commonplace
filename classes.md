@@ -175,7 +175,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - The best [personality](personality.md) is within a [sense of humor](humor.md) (High Openness + Extraversion).
   - The social emphasis is on inclusion (to stick together through harship).
   - The [food](cooking.md) is focused on more quantity.
-  - [Time](datetime.md) is about living in the moment.
+  - [Time](standards-datetime.md) is about living in the moment.
   - [Education](education.md) is an abstract and largely [useless](purpose.md) thing.
   - [Language](language.md) is a casual codex of information.
   - [Family structure](people-family.md) is matriarchal (from [mothers](gender.md) being forced to work *and* take care of children).

@@ -26,7 +26,7 @@ Thankfully, it's also often one of the least expensive parts of a computer.
 
 ## Clock
 
-Beyond keeping everything organized, motherboards tend to come with a built-in "[clock](datetime.md)" that oscillates a 0-1-0-1 signal. It's a bit like a ticking clock, with each 1 as a cycle. *All* the sequential logic circuits get this signal, and the clock runs at about 200,000,000 times a second (200 MHz).
+Beyond keeping everything organized, motherboards tend to come with a built-in "[clock](standards-datetime.md)" that oscillates a 0-1-0-1 signal. It's a bit like a ticking clock, with each 1 as a cycle. *All* the sequential logic circuits get this signal, and the clock runs at about 200,000,000 times a second (200 MHz).
 
 The clock is typically made of quartz, since quartz resonates at a predictable vibration when electricity runs through it. However, heat can modulate those vibrations, and the inaccuracies from that heat can resonate for upwards of 30 seconds a *month*. The easiest solution has been to [synchronize](https://gainedin.site/networks/) the time consistently with a timeserver ([NTP protocol](standards-computers.md)).
 

@@ -198,7 +198,7 @@ The creative process itself is always messy. Creators have a constant [inner war
 
 APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](people-culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
 
-The [timing](datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
+The [timing](standards-datetime.md) of creativity is difficult to track. Sometimes, great inspiration takes years, but other times it can take minutes.
 
 Since creativity requires breaking [rules](people-rules.md), most creative people end up living in a state of protracted [childhood](maturity.md).
 

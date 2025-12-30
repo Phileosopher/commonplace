@@ -103,6 +103,12 @@ Cats:
 - Cats make their hair stand on end to appear large to a potential predator.
 - Cats give small animal corpses as gifts because they believe you can't catch prey yourself.
 - Cats rest on warm surfaces like keyboards, but prefer a closed surface like a large bowl or shoebox.
+- Getting cats to get along with each other simply takes patience:
+  1. Place the two cats in separate areas where they don't interact with each other.
+  2. For both cats, regularly bring articles that have their scent into the other cat's domain.
+  3. Lift the barrier between the cats and keep their separate resources (food, litterbox, etc.) nearby each other but still separate.
+  4. Eventually, when they are familiar with each other, combine their resources.
+  5. If any of it goes badly, back away to a previous step.
 
 You can make friends with crows by training them:
 

@@ -94,7 +94,7 @@ APPLICATION: We make sense of chaos as we see it. This is often good, but can ba
 
 ## Time and order
 
-[Time](datetime.md) is a unique element of the Unknown that perpetually interferes with our daily existence:
+[Time](standards-datetime.md) is a unique element of the Unknown that perpetually interferes with our daily existence:
 
 1. Things happen and we vividly remember them.
 2. We slowly forget what happened, but hold on to information that might be [useful](purpose.md) later.

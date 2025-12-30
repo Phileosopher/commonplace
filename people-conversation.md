@@ -48,7 +48,7 @@ We use several factors to choose which and how many details to incorporate into 
 
 - Our interpretation of what our listener [wants](purpose.md) to see.
 - Our [personalities](personality.md) and [preferences](people-decisions.md) for how we wish to approach something.
-- The [social context](people-culture.md) for what we're sharing (e.g., location, [available time](datetime.md), [purpose](purpose.md) of the event).
+- The [social context](people-culture.md) for what we're sharing (e.g., location, [available time](standards-datetime.md), [purpose](purpose.md) of the event).
 - Our [interpretation](imagination.md) of the most successful means of [conveying information](education.md).
 
 Our choices broadly create a few possible general communication approaches (DISC communication styles):

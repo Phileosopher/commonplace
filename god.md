@@ -231,7 +231,20 @@ There is no direct significance about the name "Jesus" or "Jesus Christ".
 
 ## God is a Trinity of three persons
 
-God is a Father, a Son, and a Spirit
+The Bible is *filled* with references to God's three-person essence.
+
+All three were present during creation.
+
+- [John 1:1-3](https://biblehub.com/john/1.htm)
+- [Genesis 1:1-2](https://biblehub.com/genesis/1.htm)
+
+All three were present at Jesus' conception ([Luke 1:35](https://biblehub.com/luke/1-35.htm)).
+
+All three were present when Jesus started his ministry ([Luke 3:21-22](https://biblehub.com/luke/3.htm))
+
+Jesus placed all three on the same level of authority ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm))
+
+God is a Father, a Son, and a Spirit.
 
 - [Matthew 12:31](https://biblehub.com/matthew/12-31.htm)
 - [John 16:3](https://biblehub.com/john/16-3.htm)
@@ -252,7 +265,7 @@ At least two persons of God (the Father and Son) are distinctly male.
   - [Matthew 23:37](https://biblehub.com/matthew/23-37.htm)
   - [Luke 15](https://biblehub.com/luke/15.htm)
 
-God is One, but also three unique people who are all the same God
+God is One, but also three unique people who are all the same God.
 
 - [Matthew 28:19](https://biblehub.com/matthew/28-19.htm)
 - [Luke 1:35](https://biblehub.com/luke/1-35.htm)

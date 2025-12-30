@@ -32,6 +32,11 @@ Plan ahead as much as possible:
 - Start as early as possible to ensure you can schedule the time off and have everything you'll need.
 - If your vacation will be around a major holiday, start planning a year ahead.
 
+try to avoid vacations where a *lot* of people will be there:
+
+- Avoid the timing for major holidays, spring break, and large-scale sporting events.
+- When planning your lodging and itinerary, avoid the high-traffic areas where everyone else goes (e.g., downtown Venice in the summer).
+
 Keep everything trip-related in one place:
 
 - Destination, departing airport and airline, departure date and time

@@ -29,7 +29,7 @@ Even while [reality](reality.md) isn't relative, our [understanding](understandi
 We may *think* we see something obvious and *know* it exists, but our minds play a trick on us:
 
 1. Our sense organs take send many small electrical signals to the brain.
-2. Our brain converts those signals into a composite sensation that appears to be a complete sense, though it ignores some aspects of [time](datetime.md) to accomplish this.
+2. Our brain converts those signals into a composite sensation that appears to be a complete sense, though it ignores some aspects of [time](standards-datetime.md) to accomplish this.
 3. The brain dissects that composite sensation into forms and [abstractions](symbols.md).
 4. Through associations to things stored in memory, the brain pulls from a network of [information](information.md), frequently adding more and more information along the way from [memory](mind-memory.md).
 5. For whatever [purpose](purpose.md) the brain was tasked to, it draws up all potentially useful or relevant stored information.

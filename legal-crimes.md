@@ -14,9 +14,11 @@ Criminal deviance comes in two forms, which are indicated when it's explicit:
 
 Further, there are several types of categories connected to the severity of the crime:
 
+- Minor offense: things below a misdemeanor
 - Misdemeanor: generally, any crime with a maximum sentencing of up to a year
 - Felony: generally, any crime with a maximum sentencing surpassing a year
 - White-collar crime: a more complex crime that is subversive in nature and typically involves more money, often carries much more significant legal consequences
+  - Public corruption: actions that give preferential treatment through the government
 - Grand (crime): a large-scale version of the crime that involves a large amount (e.g., "grand theft" is stealing a lot of assets)
 
 ## Broadly applies
@@ -30,13 +32,29 @@ Attempt: trying to do something, irrespective of its [consequences](results.md)
 
 Computer crime: a crime involving a [computer](computers.md)
 
+- Internet crime: a crime involving the internet
+
+Criminal mischief: intentionally damaging or altering someone's property without their consent
+
+Lewd conduct/lewd and lascivious acts: doing something illegal for sexual reasons
+
 Racketeering: [organization-sized](mgmt-badsystems.md) criminal activity (subversive), typically falls under the RICO Act
+
+Weapon charges: laws against weapon-based activities
 
 ### Disrespecting authority
 
 Contempt of court: not honoring the [standards](people-rules.md) of a court hearing
 
+Driving/fishing/hunting/hairstyling/entrepreneuring/anything without a license: not honoring a government's requirement for a specific task
+
+Illegal sale or distribution of (something): not honoring a governments' restriction of selling something
+
+Jaywalking: not walking on government-established road lines for walking
+
 Obstruction of justice: preventing an official from performing their duties
+
+Parking ticket: parking a vehicle without the government's consent
 
 Parole/probation violation: not honoring a probation officer, or performing a crime while on probation/parole
 
@@ -49,6 +67,7 @@ Burglary: entering somewhere without permission and with intent to do something 
 Child abuse: causing abuse to a child
 
 - Child endangerment: exposing a child to a risk
+- Child molestation: sexually abusing a child
 - Child neglect: abandoning a child (subversive)
 - Child pornography: exploiting a child for sexual entertainment (aggressive)
 
@@ -57,6 +76,10 @@ Disorderly conduct: behaving inappropriately (aggressive)
 - Disturbing the peace: disorderly conduct in a public place (aggressive)
 
 Dumping: leaving something in a public place or where it disrupts someone else's life (subversive)
+
+- Littering: leaving trash in a public place (subversive)
+
+Indecent exposure/public indecency: inappropriately dressed in public
 
 Loitering: being present in a public place or where it disrupts someone else's life, often implied that they may be preparing to do something else (subversive)
 
@@ -69,9 +92,11 @@ Harassment: behavior meant to cause trouble for someone else (aggressive)
 
 Hate crime: any crime committed through an unfair [bias](mind-bias.md)
 
+Sexual abuse: doing something that abuses someone sexually
+
 ## Coercion against others' rights
 
-Bribery: giving resources to make someone do something (subversive)
+Bribery/Kickbacks: giving resources to make someone do something (subversive)
 
 Extortion: threatening to take resources to make someone do something (subversive)
 
@@ -83,11 +108,15 @@ Counterfeiting: making a fake version of an official thing (subversive)
 
 Forgery: modifying official documents falsely to make them appear official (subversive)
 
-Prostitution: unauthorized sale of [sexual activity](relationships-sex.md) (subversive)
+Prostitution solicitation: unauthorized sale of [sexual activity](relationships-sex.md) (subversive)
+
+- Pandering: unauthorized attempt to purchase a prostitute
 
 Sexual assault: any non-consensual sexual act
 
+- Luring a minor: trying to induce a minor to have sex
 - Rape: forcing onself sexually onto another person (aggressive)
+  - Date rape: raping someone around a dating experience
   - Statutory rape: rape with a minor
 
 ### Drug-related
@@ -104,10 +133,11 @@ Minor in possession (MIP): giving a minor a controlled substance (usually alcoho
 
 Embezzlement: abusing someone's [trust](trust.md) to take something
 
-Fraud: lying to gain something
+Fraud: lying or unethical behavior to gain something (subversive)
 
 - Credit card fraud: stealing someone's payment card and pretending to be that person
 - Insurance fraud: lying about [an insurance claim](money-insurance.md)
+- Government fraud: fraud against the government
 - Pyramid scheme: pretending to [sell a product](marketing-sales.md) but actually [selling others on selling a product](marketing-mlm.md)
 - Securities fraud: falsely indicating the value of an asset
   - Insider trading: trading on the value of an asset based on unfairly obtained information
@@ -131,10 +161,13 @@ Perjury: lying under oath or attesting to a document that states a lie
 
 Domestic violence: harming someone the person is close to (e.g., [family](people-family.md))
 
+- Spousal rape: nonconsensual sex with two spouses
+
 Assault: harming someone else, may include threats (aggressive)
 
 - Aggravated assault: assault, but causing significant harm
-- Battery: the movement toward the attempt to harm someone else
+- Battery: physically interacting with someone against their consent
+  - Sexual battery: physically behaving sexually without someone's consent
 
 Homicide: killing someone
 
@@ -142,6 +175,7 @@ Homicide: killing someone
   - First and second degree comes down to whether malice was thought of toward that person beforehand
 - Voluntary manslaughter: unintentionally killing someone when trying to cause harm (subversive)
 - Involuntary manslaughter: unintentionally killing someone from an unavoidable issue
+- Vehicular manslaughter: killing someone with a vehicle
 
 Terrorism: harming or threatening to harm a government or the public
 
@@ -157,9 +191,12 @@ Child abandonment: leaving a child alone when they need supervision
 
 Failure to report a crime: not reporting a crime to authorities (typically only a crime for mandatory reporters)
 
-Operating/driving under/with the influence (OWI/DWI/DUI): using a controlled substance while operating a vehicle
+Dangerous vehicle operation:
 
-- Open container (alcohol): having an opened container of alcohol present in a vehicle
+- Hit and run: causing an accident and not stopping
+- Operating/driving/boating under/with the influence (OWI/OUI/DWI/DUI/BUI): using a controlled substance while operating a vehicle
+  - Open container (alcohol): having an opened container of alcohol present in a vehicle
+- Reckless driving: operating a vehicle while not paying attention
 
 Public intoxication: using a controlled substance in a public place (usually alcohol)
 
@@ -167,7 +204,9 @@ Public intoxication: using a controlled substance in a public place (usually alc
 
 Theft/larceny: taking something without permission
 
+- Grand theft auto: stealing an automotive
 - Robbery: theft accomplished through violence or the threat of it
+  - Carjacking: robbing a vehicle
 - Shoplifting: taking merchandise without paying for it
 
 Espionage: taking information without permission

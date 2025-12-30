@@ -57,7 +57,7 @@ While we may be changing, our *rate* of change stays relatively constant, propor
 
 ## Time
 
-We don't [imagine](imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
+We don't [imagine](imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](standards-datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
 
 Each decision is relatively unimportant in a grand sense, but it slightly tweaks [what we are](humanity.md) and [identify](identity.md) with. Plus, that decision is easier to make [the next time around](habits.md), which makes us more extreme versions of ourselves if we leave [our decisions](people-conflicts-inner.md) unattended. By combining a decision with [results](results.md), then another decision with its results, and so on, anyone with enough [perspective](people-image-why.md) will see the slow story of how a person changes.
 

@@ -141,7 +141,7 @@ Frequently, under severe [conflicts](people-conflicts-why.md) or [hardship](hard
 
 [Young people](maturity.md) value novelty far more than older people because they believe a brand-new thing will give more [amusement](purpose.md) and answer their [questions](understanding.md). Older people don't only because they've found out that everything carries similar [patterns](symbols.md).
 
-We also tend to judge [time](datetime.md) differently as we age.
+We also tend to judge [time](standards-datetime.md) differently as we age.
 
 - When we're young, our experiences are new, and time moves slower. As we experience more life, time moves faster, and we all inevitably experience *years* with the same speed as we had seen weeks or months.
 - When we [imagine](imagination.md) what we will do, we are far more scrupulous of our time use as it becomes more scarce.

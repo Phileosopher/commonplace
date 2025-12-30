@@ -101,6 +101,8 @@ Shaking a building ([Acts 4:31](https://biblehub.com/acts/4-31.htm)).
 
 Instantly transports people ([Acts 8:39](https://biblehub.com/acts/8-39.htm)).
 
+Permit an evil spirit to physically assault Jewish exorcists ([Acts 19:13-17](https://biblehub.com/acts/19.htm))
+
 ### Smaller-Scale Biological/Anthropological
 
 Turned Lot's wife into a pillar of salt ([Genesis 19:26](https://biblehub.com/genesis/19-26.htm)).

@@ -46,7 +46,7 @@ To gain more understanding of [something we don't know](unknown.md), we generall
   - Like "what", "where" and "when" shred away all details except the most relevant.
 - HOW inquires more intimately with the matter.
   - "How" questions are strictly [logical](logic.md), analytical dissections of cause-and-effect.
-  - "How" gives the most useful answers for [practical reasons](purpose.md), especially when the stay focused on the present (as opposed to cause-and-effect across [time](datetime.md)).
+  - "How" gives the most useful answers for [practical reasons](purpose.md), especially when the stay focused on the present (as opposed to cause-and-effect across [time](standards-datetime.md)).
 - WHY is a difficult question to define because it's a *very* open-ended large-scale domain:
   - Why is that? - broadly asking any form of basis
   - Why do they? - asking the [motivation](purpose.md) behind the known action

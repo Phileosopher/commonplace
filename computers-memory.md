@@ -3,7 +3,7 @@
 
 Computers depend on time to perform their logic operations.
 
-There are many reasons why we might need to delay logic across [time](datetime.md):
+There are many reasons why we might need to delay logic across [time](standards-datetime.md):
 
 - With all the electricity flowing through, running all the logic gates at once will overheat everything.
 - We might only want the computer to calculate things when we hit a button.

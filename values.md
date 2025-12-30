@@ -11,7 +11,7 @@ All ideas and thoughts use values:
 - Values driven by [perceptions](people-image-why.md) are considered [qualities](values-quality.md), while values that [group things together](symbols.md) are called [quantity](math.md).
 - We can mix-and-match values in innumerable combinations with other values to create every possible idea.
 
-The [power](power.md) of those ideas in our minds heavily determines how [certain](understanding-certainty.md) we are of them, and our [feelings](mind-feelings.md) are closely connected to that certainty. Those feelings directly structure how we interpret [reality](reality.md) and what we must [do](purpose.md), which creates a type of holistic feedback loop over [time](datetime.md).
+The [power](power.md) of those ideas in our minds heavily determines how [certain](understanding-certainty.md) we are of them, and our [feelings](mind-feelings.md) are closely connected to that certainty. Those feelings directly structure how we interpret [reality](reality.md) and what we must [do](purpose.md), which creates a type of holistic feedback loop over [time](standards-datetime.md).
 
 We use [language](language.md) to [communicate](people-conversation.md) those values back and forth, but we store those values as [feeling](mind-feelings.md)-based [stories](stories-why.md) in our brains that use language as a reference and [trigger](habits.md).
 
