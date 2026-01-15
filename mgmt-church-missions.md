@@ -67,7 +67,7 @@ Healthy boundaries *requires* outsiders never move beyond Co-Leading.
 
 - Since work won't get done nearly as quickly, it can be *very* challenging to simply assist from the side.
 - However, without their own people running things, they will slowly become a second-class participant of *your* project.
-- At its most extreme, the [discrepancy in power](power-types.md) over time will devolve into a [slavery-like](slavery.md) condition.
+- At its most extreme, the [discrepancy in power](power-types.md) over time will devolve into a [slavery-like](people-slavery.md) condition.
 
 Deeply involve the people group you're helping in every stage of assessing, designing, applying, tracking and evaluating systems:
 

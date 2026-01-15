@@ -5,7 +5,7 @@
 
 The penalties for piracy are extremely steep, depending on the situation. We're often talking in the tens of thousands of dollars, with prison time often involved. The charges aren't anywhere *near* that scope for individual citizens who consume for personal use without money involved (often a simple misdemeanor instead of a felony), but depending on the situation someone can still get in serious trouble for simply downloading/copying copyright-protected media for a friend or family member.
 
-Even with punitive measures that would drive any convict to prison and make them [indebted for life](slavery.md), most pirates get away with it, and there are *constant* new pirates joining, even with the clearly apparent risks of the decision.
+Even with punitive measures that would drive any convict to prison and make them [indebted for life](people-slavery.md), most pirates get away with it, and there are *constant* new pirates joining, even with the clearly apparent risks of the decision.
 
 As the [internet](computers-sofware-webdev.md) has grown, piracy has as well, and entails quite a few forms of computer information:
 

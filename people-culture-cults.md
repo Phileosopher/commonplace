@@ -202,7 +202,7 @@ Some of these groups are patently obvious to anyone on the outside:
 
 - [Violent](people-conflicts-war-why.md) extremist groups (e.g., terrorists)
 - Cartels and organized crime (e.g., mafia)
-- [Human traffickers](slavery.md)
+- [Human traffickers](people-slavery.md)
 - [Charming](influence.md) [religious](religion.md) leaders and [human potential](politics-leftism.md) leadership
 - [Multi-level marketing](marketing-mlm.md)
 - Extreme [political action](politics-conservativeliberal.md) groups
@@ -217,7 +217,7 @@ Generally, the public only notices cults when they violate [basic human rights](
 - Belief in [corporal punishment](people-rules.md) without examining its basis.
 - Desire to trust "God's will" to the point of letting a person die.
 - Principled disregard for [human universals](humanity-universals.md) to the point of severe, permanent damage.
-- Adolescents coerced toward sexual acts, permanently changing their gender, or sold as [slaves/prostitutes](slavery.md).
+- Adolescents coerced toward sexual acts, permanently changing their gender, or sold as [slaves/prostitutes](people-slavery.md).
 - Threatening people who may report child molestation or domestic violence.
 - Engagement in [questionable arrangements](people-contracts.md) with others.
 - *Severely* [inappropriate behavior](morality-taboo.md) to advance the cult's cause.

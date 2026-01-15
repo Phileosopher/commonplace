@@ -135,7 +135,7 @@ There are only generally two constructive approaches to direct conflict manageme
 1. Be a nice person, which makes conflicts incredibly rare and skewed in your favor because others tend to make general [judgments](mind-bias.md) that nice people are [good](morality.md).
 2. Be competent in your [specialization](jobs-specialization.md), which means others will [trust](trust.md) you're more likely to be correct.
 
-In failing both, you're likely to become [enslaved](slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
+In failing both, you're likely to become [enslaved](people-slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
 
 Often, in most conflicts, there's a differing [understanding](understanding.md) of the [values](values.md) we express in [language](language.md), and the only solution is separating the values we [mean](purpose.md) versus the values we're [saying](results.md).
 

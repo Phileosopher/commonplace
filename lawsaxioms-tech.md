@@ -13,7 +13,7 @@ Maes-Garreau Law - The nearest predictions about large-scale future technology t
 
 Technology Life Cycle - Every invented technology is first not that useful, then becomes more useful up to a point, then becomes less useful as other technology replaces it, until it becomes generally obsolete.
 
-Van Loon's Law - Societies develop technology when they can't [make people do things for them](slavery.md).
+Van Loon's Law - Societies develop technology when they can't [make people do things for them](people-slavery.md).
 
 ## Dev/Design
 

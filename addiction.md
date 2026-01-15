@@ -128,7 +128,7 @@ An addict's [purpose](purpose.md) is the driving force, *not* the substance. If 
 
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 
-The only hope for any addict is for them to face their pain directly. This requires taking a sober, blunt look at themselves. This is *not* easy, and the reason they're [enslaved](slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it. In a sense, it's a type of cowardice that keeps them bound by the substance.
+The only hope for any addict is for them to face their pain directly. This requires taking a sober, blunt look at themselves. This is *not* easy, and the reason they're [enslaved](people-slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it. In a sense, it's a type of cowardice that keeps them bound by the substance.
 
 APPLICATION: As people devolve into substance abuse, they care about you progressively less. If you [love](people-love.md) them, release them to their desires to hasten their decline and, therefore, hasten any chance of recovery.
 

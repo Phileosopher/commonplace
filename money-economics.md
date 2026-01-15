@@ -217,7 +217,7 @@ Black markets will trade almost *any* goods or services [against organizational 
 - Certain [media](creations.md) like music, movies, or video games that [symbolize](symbols.md) specific [ideas](values.md) or [educate](understanding.md) about certain things.
 - Specific collectible things like animal horns or objects from another [people group](groups-member.md).
 - Objects that could be used as weapons (especially against the leadership), such as firearms, grenades, nuclear material, or biological weapons.
-- [Other people](slavery.md), typically for [labor](purpose.md) or [sexual](gender.md) reasons.
+- [Other people](people-slavery.md), typically for [labor](purpose.md) or [sexual](gender.md) reasons.
 
 With increased [risks](safety.md) to transferring goods, as well as having no overseers to regulate it, the product's [quality](values-quality.md) in a black market will suffer compared to an open market.
 

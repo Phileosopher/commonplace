@@ -70,7 +70,7 @@ Now, to avoid misrepresenting the truth, there *is* indication of nature destroy
 
 My point is that evil actions done by others bring far more pain than the unfeeling forces of nature acting on someone.
 
-And, without God intervening, there is no possible way to stop evil from prevailing. Anyone with [a security background](security.md) knows full well that it takes *far* more work to build up a thing than to destroy it.
+And, without God intervening, there is no possible way to stop evil from prevailing. Anyone with [a security background](safety-security.md) knows full well that it takes *far* more work to build up a thing than to destroy it.
 
 Thus, there is a highly likely form of destruction through the actions of *other* participants in hell.
 

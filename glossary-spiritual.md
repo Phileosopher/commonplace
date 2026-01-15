@@ -37,6 +37,8 @@ Demonology - The systematic theology branch that addresses fallen angels
 
 Dispensationalism - The theological view that there are seven distinct dispensations on how God interacts with humanity (Innocence, Conscience, Human Government, Promise, Mosaic, Grace, and [Kingdom/Millennium](https://theologos.site/millennium/)), contrasts with covenant theology
 
+Doxology - literally "glory word", a short hymn or speech giving praise to God (e.g., "Praise, honor, glory, and strength forever and ever to the one who sits on the throne and to the Lamb!" in Revelation 5:13)
+
 Ecclesiology - The systematic theology branch that addresses the Church
 
 Eschatology - The systematic theology branch that addresses the end times and Jesus returning

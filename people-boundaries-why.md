@@ -12,7 +12,7 @@ While the fringes of these boundaries have plenty of gray area up for debate, so
 There are *many* human rights:
 
 - Complete equality of their [soul](humanity.md) with all others of like souls (i.e., all humans have equal standing, all dogs have equal standing).
-- Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
+- Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](people-slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
   - The right to consent or decline to any medical procedure or practice of their body.
 - The [safety and security](safety.md) that they will stay alive, without additional unnecessary pain imposed onto them.
 - Freedom to act without fear of others sabotaging many of their things:
@@ -65,7 +65,7 @@ The [laws of a territory](people-rules.md) *should* abide by everyone's inherent
 History has shown that enforcing of a person's rights can only come from a specific perspective:
 
 1. Rights are [God](god.md)-given, bestowed implicitly as inherent liberties that give people the freedom to act.
-   - If [a deity](religion.md) doesn't give rights, then the State gives it, meaning [slavery](slavery.md) is always justified as long as the State has the [power](power.md) to enforce it.
+   - If [a deity](religion.md) doesn't give rights, then the State gives it, meaning [slavery](people-slavery.md) is always justified as long as the State has the [power](power.md) to enforce it.
 2. While mankind can bestow more privileges (e.g., free food), their most effective means of getting people to act is to [take away rights](people-rules-methods.md).
 3. Therefore, every criminal justice system is built around taking away rights, and the entire civil justice system is built around paying lawyers tons of money to enforce one's own rights.
 
@@ -99,7 +99,7 @@ Many times, people believe their privileges *are* rights, often from a privilege
 - Being believed isn't a right because that would infringe on others' rights to think and believe what they want.
 - Any physical possession or property isn't a right if it significantly harms other individuals.
 - [Love](people-love.md) isn't a right, since that would require others to desire differently than they prefer.
-- Any service another person provides (e.g., [education](education.md), [auto](autos.md) repair) isn't a right because it would force them into [slavery](slavery.md)
+- Any service another person provides (e.g., [education](education.md), [auto](autos.md) repair) isn't a right because it would force them into [slavery](people-slavery.md)
 
 APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
 

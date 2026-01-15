@@ -54,6 +54,46 @@ Heat water to 100-112 °F.
 
 Soak the skin, adding more warm water as necessary, until you have regained sensation and color in the skin.
 
+## Heat intolerance
+
+There are several stages that lead to heat stroke:
+
+1. Heat intolerance - unable to cool down, which may range from insufficient sweat to a heart condition.
+2. Heat exhaustion - the body has been unable to cool down for a while
+   - Symptoms:
+     - Faster or weak pulse
+     - Nausea
+     - Headache
+     - Increased fatigue or weakness
+     - Mild confusion
+     - Irritability
+     - Muscle cramps
+   - The effects can last 1-2 days.
+3. Heat stroke - the body has stopped regulating itself
+   - Symptoms:
+     - High body temperature
+     - Hot, dry/damp, red skin
+     - Rapid and strong pulse
+     - Confusion
+     - Agitation
+     - Slurred speech
+     - Loss of consciousness
+     - Feeling goosebumps
+   - It is always an emergency.
+
+To avoid it:
+
+- Wear loose, lightweight clothing.
+- Drink plenty of water, even when not thirsty.
+- Limit time in the sun during the hottest parts of the day.
+- Take frequent breaks when doing anything active.
+- Observe all the risk factors and get somewhere cooler as soon as they arise.
+- Apply a cool cloth to skin.
+
+Pay extra attention to children and older adults for risks.
+
+- Check for any extra risks from medications.
+
 ## Itches, bug bites, and skin irritations
 
 Use any anti-itch solution to tighten the blood vessels and reduce any skin itching:

@@ -118,6 +118,8 @@ Garner-Howes Baptist Commentary
 2. Dispensational, Protestant (Presbyterian)
 3. Sermonic
 4. OT+NT
+   - [Blue Letter Bible](https://www.blueletterbible.org/audio_video/mcgee_j_vernon/)
+   - [Blue Letter Bible (text)](https://www.blueletterbible.org/commentaries/mcgee_j_vernon/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/ttb.html)
 
 Mitchell's Commentary on Selected New Testament Books
@@ -146,6 +148,15 @@ Derickson's Notes on Selected Books
 3. Expository
 4. Mark, Galatians, Ephesians, Colossians, 1 Timothy through Philemon, James
    - [StudyLight](https://www.studylight.org/commentaries/eng/sdn.html)
+
+Chuck Missler Commentaries (audio/video)
+
+1. Chuck Missler - ~1973-~1992
+2. Protestant (non-denominational)
+3. Expository
+4. OT+NT
+   - [homepage (K-House TV)](https://www.khouse.tv/bible-commentaries-by-chuck-missler)
+   - [Blue Letter Bible](https://www.blueletterbible.org/audio_video/missler_chuck/)
 
 Gutzke's Plain Talk on Genesis
 
@@ -224,7 +235,10 @@ Utley's You Can Understand the Bible
 2. Calvinist, Protestant (Baptist)
 3. Expository
 4. Genesis, Deuteronomy, Joshua, Ezra, Nehemiah, Esther, Psalms, Ecclesiastes through Micah, Haggai, Zechariah, Malachi, NT
+   - [homepage](https://www.freebiblecommentary.org/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/ubc.html)
+
+[Free Bible Commentaries and Bible Study Tools](https://www.freebiblecommentary.org/)
 
 Koenig's Commentary on Revelation
 
@@ -271,6 +285,7 @@ Smith's Bible Commentary (text or audio)
    - [main page](https://robertcliftonrobinson.com/chuck-smith/)
    - [Bible Portal](https://www.bibleportal.com/commentary/chuck-smith-bible-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/charles%20ward%20smith/smith's%20bible%20commentary)
+   - [Blue Letter Bible](https://www.blueletterbible.org/audio_video/smith_chuck/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/csc.html)
    - [YouTube](https://www.youtube.com/playlist?list=PLZxWDsI_duM9kjgX7I39QPQTs8neCzTbA)
 
@@ -293,6 +308,7 @@ Enduring Word Bible Commentary (text or audio)
 4. OT+NT
    - [main page](https://enduringword.com/bible-commentary/)
    - [BibleHub](https://biblehub.com/commentaries/guzik/)
+   - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/guzik_david/)
 
 Light of Israel Bible Commentary
 
@@ -352,6 +368,14 @@ Brown's Commentary on the New Testament
 4. Matthew, Mark, Luke
    - [StudyLight](https://www.studylight.org/commentaries/eng/bnc.html)
 
+The Ultimate Bible Summary Collection
+
+1. Jay Smith - 2013
+2. Protestant (Non-denominational)
+3. Summary
+4. OT+NT
+   - [BibleHub](https://biblehub.com/summary/genesis/1.htm)
+
 ## 2022-2024
 
 Contending for the Faith
@@ -372,6 +396,7 @@ Kingcomments on the Whole Bible
    - [main page](https://www.kingcomments.com/en)
    - [Bible Tools](https://bibletools.io/commentaries/en/ger%20de%20koning/kingcomments%20on%20the%20whole%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/kng.html)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=KingComments)
 
 The Gospels Compared/Gospel Splice
 

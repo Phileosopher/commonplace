@@ -1,4 +1,0 @@
-
-## algorithms
-
-NOTE: CONNECTS TO TT ALGORITHMS ESSAYS

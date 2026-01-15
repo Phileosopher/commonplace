@@ -77,7 +77,7 @@ Door alarm/reminder
 
 Digital locks
 
-- A key fob is convenient, but is another [security](security.md) vector, meaning less safe
+- A key fob is convenient, but is another [security](safety-security.md) vector, meaning less safe
 
 ## Other
 

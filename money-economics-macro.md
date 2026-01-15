@@ -112,7 +112,7 @@ To avoid inflation, a government has a unique trick with reserve currency:
 
 As of the early 21st century, the exchange currency for the *entire world* is the US dollar, which is from them running a trade deficit for a long time (see below) and other countries pinning their currency's value to a stable comparison. Before this point, other countries like Spain and Portugal held the world reserve currency.
 
-The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There has been a time where the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
+The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](people-slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There has been a time where the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
 
 Further, the nature of fiat currency means that the [trust](trust.md) people will have in that currency will be *far* less than a tangible thing that could be redeemeda at any time, such as gold or silver.
 

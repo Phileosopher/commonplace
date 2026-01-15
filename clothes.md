@@ -132,6 +132,7 @@ Match your shoes to the rest of your outfit:
 - Wear shoes that match the color and style of everything else you're wearing.
 - For a comfortable pair of heels, wear dance heels.
 - Avoid felt-soled shoes if you plan to wear them outdoors, and always aim for rubber-soled if possible.
+- [Lace shoes to accommodate your specific foot physiology](clothes-shoes.jpg).
 
 Dress shirts should have enough slack to move around in, but not enough that the cloth sags.
 

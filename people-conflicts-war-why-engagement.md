@@ -69,7 +69,7 @@ However, victory for the smaller group is far more complex than the opportunisti
 
 Often, to become the larger group against a common enemy, several groups will ally together for that specific [purpose](purpose.md) alone. Their alliance is almost always temporary. It's not uncommon for *that* alliance to become its own conflict after the other group is eliminated. Often, one group will betray the other group's [trust](trust.md) from that previous alliance to gain [power](power.md) in the exchange.
 
-However, the smaller group will often surrender. If they do, they're either absorbed into the larger group as [slaves](slavery.md) or permitted to persist as [subsidiary groups](mgmt-badsystems.md). In modern society, the slavery is often much more nuanced and goes by other names.
+However, the smaller group will often surrender. If they do, they're either absorbed into the larger group as [slaves](people-slavery.md) or permitted to persist as [subsidiary groups](mgmt-badsystems.md). In modern society, the slavery is often much more nuanced and goes by other names.
 
 ## Evenly matched
 

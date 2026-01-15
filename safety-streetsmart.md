@@ -54,7 +54,7 @@ Have a general plan for what you will do in various situations.
 You can't be precisely prepared, but you can be *generally* prepared:
 
 - Be [in shape](body-exercise.md)
-- Have at least some training in [self-defense](security.md)
+- Have at least some training in [self-defense](safety-security.md)
 - Carry a low-profile weapon
   - It needs to be something nonviolent (e.g., can of mace) or it might cause you [legal trouble](legal-safety.md)
 

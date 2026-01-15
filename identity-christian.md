@@ -137,7 +137,7 @@ Don't search for mystical experiences such as miracles, healing, or supernatural
 
 God paid heavily for you with His son's life ([1 Corinthians 6:20](https://biblehub.com/1_corinthians/6-20.htm)).
 
-- We were [slaves](slavery.md) to sin, but now slaves to Christ ([Romans 6:18-22](https://biblehub.com/romans/6.htm)).
+- We were [slaves](people-slavery.md) to sin, but now slaves to Christ ([Romans 6:18-22](https://biblehub.com/romans/6.htm)).
 - Slavery to Jesus has many, many liberties because we have a *very* kind master ([Matthew 11:29-30](https://biblehub.com/matthew/11.htm)).
 - Christians, however, often [abuse the freedoms](christian-new.md) God gives them.
 

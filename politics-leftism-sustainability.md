@@ -109,7 +109,7 @@ The impact of this is huge. Charles Eliot once called electricity "carrier of li
 
 ## Goal 8: Decent Work and Economic Growth
 
-Generally, people work when they have [a reason](purpose.md) to work. The most clear version of this is money, but it can be any [form of power](power-types.md) to accomplish what they want, except for [enslavement](slavery.md).
+Generally, people work when they have [a reason](purpose.md) to work. The most clear version of this is money, but it can be any [form of power](power-types.md) to accomplish what they want, except for [enslavement](people-slavery.md).
 
 Very often, governments of many countries [strip motivations](mgmt-badsystems.md) to do society-enhancing things. A policy can create a perverse incentive, and other times a [totalitarian regime](politics-systems.md) makes people feel their sense of [identity](identity.md) can't extend into the world around them.
 

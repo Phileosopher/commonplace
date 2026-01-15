@@ -68,7 +68,7 @@ People must operate on a few [presumptions](understanding-certainty.md) to belie
 1. Humanity is inherently [good](morality.md). All [evil](morality-evil.md) is a product of victimhood. Evil [decisions](people-decisions.md) started with people oppressing other people innocently, and humanity can save itself without [inner transformation](people-changes.md).
 2. There is no absolute [morality](morality.md) or [truth](reality.md). The State defines [justice](morality-justice.md), not [God](religion.md).
 3. As a product of the non-absolute nature of humanity, human nature can be changed directly, with enough centralized control over the process.
-4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
+4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](people-slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
 5. Even with central [control](people-rules.md), free-market [economies](money-economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
 6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](people-decisions.md) or [doing](results.md).
 
@@ -96,7 +96,7 @@ The breakdown in this system involves the transactions. Every Marx-like revoluti
 
 APPLICATION: A [perfect society](politics-perfectsociety.md) has the [claimed](people-image-why.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
 
-Further, once the new government is in place, nobody [creates](creations.md) with the same [passion](mind-feelings.md) they had compared to before. Once self-interested purpose is completely removed, people would *theoretically* work harder out of [love](people-love.md) for other people, but that goes against [human nature](humanity-universals.md) to not have personal gain mixed into it somewhere. Thus, the government must force people to work harder, which over time creates a cycle within society that forces everyone into a form of [slavery](slavery.md).
+Further, once the new government is in place, nobody [creates](creations.md) with the same [passion](mind-feelings.md) they had compared to before. Once self-interested purpose is completely removed, people would *theoretically* work harder out of [love](people-love.md) for other people, but that goes against [human nature](humanity-universals.md) to not have personal gain mixed into it somewhere. Thus, the government must force people to work harder, which over time creates a cycle within society that forces everyone into a form of [slavery](people-slavery.md).
 
 Leftist government models also tend to give at least some overseers a centralized and unchecked authority. As long as people are human, *every* individual has the potential to perform [evil](morality-evil.md), and there need to be ways to cycle them out (e.g., [war](people-conflicts-war-why.md) [elections](politics-systems.md)).
 

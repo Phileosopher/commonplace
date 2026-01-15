@@ -60,7 +60,7 @@ Absolutely *any* promise ("covenant") can veer into becoming an implicit contrac
 
 Generally, we gain our [reputation](people-image-why.md) in society at large by fulfilling contracts, so understanding how they work and what to do with them is critical to avoid exploitation. A government can never grant the contracts we make beyond their influence, but they *can* enforce them.
 
-A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](slavery.md) or a [mental disorder](personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
+A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](people-slavery.md) or a [mental disorder](personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
 
 The [legal jargon](glossary-legal.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
 

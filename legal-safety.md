@@ -295,7 +295,7 @@ Don't own anything.
 
 Don't owe anything.
 
-- A [debt contract](money-2_debt.md) is effectively a localized form of [slavery](slavery.md).
+- A [debt contract](money-2_debt.md) is effectively a localized form of [slavery](people-slavery.md).
 
 Don't say anything.
 

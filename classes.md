@@ -121,7 +121,7 @@ The classes can be demarcated clearly by approximate levels of possessed wealth 
    - At this point, it is nearly impossible for them to hide their upper class status.
 9. All luxury lifestyle elements are easily accessible (~$15M-50M)
    - Their influence can expand to the politics of an entire city or of entire industries.
-10. They have access to the highest levels of [privacy](security-privacy.md), [security](security.md), [business](business.md), and extravagance (~$50M+)
+10. They have access to the highest levels of [privacy](security-privacy.md), [security](safety-security.md), [business](business.md), and extravagance (~$50M+)
     - They have regional and possibly national political influence in business and culture.
 
 Because of how people use power in each class, migrating between them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).

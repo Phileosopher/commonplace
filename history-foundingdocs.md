@@ -15,7 +15,7 @@ We have had 2.5 centuries of the most free, open time in written history. This i
 
 I have also made it my priority to address certain elements that we, looking back, can see in ways that *nobody* could have anticipated at the time:
 
-- [Slavery](slavery.md) is now formally abolished (though informally practiced through domains such as sex trafficking and tyrannically unfair [contracts](people-contracts.md)).
+- [Slavery](people-slavery.md) is now formally abolished (though informally practiced through domains such as sex trafficking and tyrannically unfair [contracts](people-contracts.md)).
 - The legal existence of a corporation's rights should be enumerated and clarified alongside legal persons, since a corporation is a relatively new 19th-century invention.
 - There should be a clear distinction of what a legal person is, versus what a living person is.
 
@@ -63,7 +63,7 @@ There are various examples of government leaders who should be removed:
 - Refusing to make laws that serve large populations unless they benefit the leaders' interests.
 - Calling leadership meetings at odd times or locations to disorient them into compliance.
 - Ending leadership meetings prematurely when they don't serve the leaders' interests.
-- Refusing others to be elected, which would return the power to the people, and meanwhile creating both [security](security.md) and [corruption](people-image-distortion.md) risks.
+- Refusing others to be elected, which would return the power to the people, and meanwhile creating both [security](safety-security.md) and [corruption](people-image-distortion.md) risks.
 - Preventing smaller subsidiary governments from running things how they wish.
 - Forbidding the free travel of people to where they wish to go.
 - Preventing the courts from acting on the laws they're supposed to act on.

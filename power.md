@@ -100,7 +100,7 @@ Things like raw intellectual power or physical strength are useful forms of powe
 
 Most of our [decisions](people-decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries-why.md) with others and [adopting trends](trends.md).
 
-APPLICATION: Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts-why.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
+APPLICATION: Power is based on means, so it's not possible to be the most powerful person without completely [enslaving](people-slavery.md) everyone else. Thus, most people [specialize](jobs-specialization.md) their focus and [compete](people-conflicts-why.md) on that limited domain instead. A [leader](groups-large.md) runs a [bad system](mgmt-badsystems.md) that abuses its power when it forgets that [unknown forces](religion.md) may have more power.
 
 [Image](people-image-why.md) is easier to curate than [reality](reality.md) and has more [social benefits](influence.md), so people typically desire to gain externally facing power over inner strengths. However, wise decision-making tends to value inner strength because it has much more long-term use.
 
@@ -143,7 +143,7 @@ People engage in [conflicts](people-conflicts-why.md) to overpower someone else 
 3. The attacker, if defeated, can recover from their loss.
 4. Any other possible conflicts from observers won't leave the attacker worse off than by attacking.
 
-Typically, to [negotiate](people-conflicts-negotiation.md), the attacker will show something [symbolic](symbols.md) to convey their superior power (e.g., a weapon, [language](language.md) implying the defender could be destroyed). If the defender gives up without a fight, then everyone experiences less pain and loss overall. This is why [slavery](slavery.md) is such a common institution and why [political journalists](stories-storytellers.md) focus on making their opponent [look](people-image-why.md) bad.
+Typically, to [negotiate](people-conflicts-negotiation.md), the attacker will show something [symbolic](symbols.md) to convey their superior power (e.g., a weapon, [language](language.md) implying the defender could be destroyed). If the defender gives up without a fight, then everyone experiences less pain and loss overall. This is why [slavery](people-slavery.md) is such a common institution and why [political journalists](stories-storytellers.md) focus on making their opponent [look](people-image-why.md) bad.
 
 Vulnerability is our willingness to [trust](understanding-certainty.md) that others won't damage our power. We tend to be less vulnerable when we're [afraid](mind-feelings-fear.md) of others, especially from [past trauma](hardship-ptsd.md). The more power we have, the higher the risk of loss, and the less we trust. People tend to believe confidence is a sign of significant power because they [look like](people-image-why.md) they'll recover from any loss, which means they must have more power.
 
@@ -169,7 +169,7 @@ Trying to maintain power can also create very unpleasant consequences:
 - Hoarding is not seeing that past-tense power is not presently [useful](purpose.md).
 - By withholding or gaining [knowledge](understanding.md), we often risk [reputation](people-image-why.md).
 - Every form of power is subject to [diminishing return](results.md) as it scales.
-- All power beyond ourselves makes us [slaves](slavery.md) to others' [results](results.md), even when we're in positions of [authority](groups-small.md).
+- All power beyond ourselves makes us [slaves](people-slavery.md) to others' [results](results.md), even when we're in positions of [authority](groups-small.md).
 - The more power you have, the more you [can lose](safety.md) and the less [aware](awareness.md) you become of *other* [forms of power](power-types.md).
 - If you're not paying attention, managing power can sometimes backfire and harm you.
 

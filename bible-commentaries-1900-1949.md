@@ -53,6 +53,7 @@ Treasury of Scripture Knowledge
    - [main site](https://tsk-online.com/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/tsk.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=TSK)
 
 Parker's The People's Bible
 
@@ -121,6 +122,7 @@ Scofield's Reference Notes
    - [BibleHub](https://biblehub.com/commentaries/sco/)
    - [Bible Portal](https://www.bibleportal.com/commentary/scofield-s-reference-notes)
    - [StudyLight](https://www.studylight.org/commentaries/eng/srn.html)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Scofield)
 
 ## 1910-1921
 
@@ -142,6 +144,16 @@ The Fourfold Gospel
 3. Expository (short)
 4. Matthew through John
    - [StudyLight](https://www.studylight.org/commentaries/eng/tfg.html)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=TFG)
+
+The Bible Book by Book
+
+1. Josiah Blake Tidwell - 1914
+2. Calvinist, Protestant (Baptist)
+3. Summary
+4. OT+NT
+   - [BibleHub](https://biblehub.com/genesis/)
+   - [Project Gutenberg](https://www.gutenberg.org/ebooks/16290)
 
 International Critical Commentary
 
@@ -315,6 +327,7 @@ Robertson's Word Pictures in the New Testament
 4. NT
    - [StudyLight](https://www.studylight.org/commentaries/eng/rwp.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=RWP)
 
 ## 1929-1949
 

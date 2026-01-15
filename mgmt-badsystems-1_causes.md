@@ -105,7 +105,7 @@ However, leadership shifts will *very* rarely fix anything. The people who have 
 If the organization persists to a [successor](legacy.md), the new leadership will often consist of a unique class of several groups of people:
 
 1. [Friends](people-friends-why.md) and [family](people-family.md) of the present leaders (i.e., nepotism).
-2. Members [enslaved](slavery.md) to the organization who have proven their loyalty to the leaders' [values](purpose.md) (i.e., a puppet).
+2. Members [enslaved](people-slavery.md) to the organization who have proven their loyalty to the leaders' [values](purpose.md) (i.e., a puppet).
 3. Individuals who haven't proven their loyalty, but show enough [power](power.md) that they can (and might) overpower the leadership (i.e., a populist).
 
 These leaders will likely have *no* aptitude or [ethics](morality.md) in comparison to their predecessors. Unlike the group's founders, the people who take over will only have one [social class](classes.md) to draw experience from, so they'll be outmatched by most of the competition inside their organization, as well as *any* outside competitor.

@@ -21,7 +21,7 @@ APPLICATION: The more that justice is perverted from what is [right](morality.md
 
 Authorities reserve the [moral](morality.md) use of justice to give or take away freedoms. Their purpose (at least as it [appears](people-image-why.md)) is to enforce healthy [boundaries](people-boundaries-why.md) for everyone:
 
-- We need authorities to apply justice because completely unrestrained freedom would let the most [powerful](power.md) people [force everyone else to submit](slavery.md). With a powerful authority, other [large groups](groups-large.md) with [other types of power](power-types.md) will [fear](mind-feelings-fear.md) what will happen if they break the [rules](people-rules.md) too far.
+- We need authorities to apply justice because completely unrestrained freedom would let the most [powerful](power.md) people [force everyone else to submit](people-slavery.md). With a powerful authority, other [large groups](groups-large.md) with [other types of power](power-types.md) will [fear](mind-feelings-fear.md) what will happen if they break the [rules](people-rules.md) too far.
 - We also need third-parties to manage natural conflicts among people who [can't agree among each other](people-conflicts-why.md). Often, some people are the [victims](hardship-ptsd.md) of previous [evil](morality-evil.md) and feel justified in abusing someone else in turn.
 
 APPLICATION: While "eye for an eye" is the fairest universal standard, we tend to [feel](mind-feelings.md) like we must take more than that when we're wronged (i.e., "face for an eye"). At that point, though, we've perverted justice away from [goodness](morality.md).
@@ -76,7 +76,7 @@ There are two forms of delivering the implementation of justice:
 1. The spirit of the standard, by honoring principles. Since [values](values.md) are challenging to maintain without [adaptation](mind-creativity.md), a judge must maintain requires [philosophical awareness](philosophy.md) of the [rules](people-rules.md) they're working with alongside a general obliviousness to [present fashions](trends.md).
 2. The letter of the standard, by parsing the [logic](logic.md) of the rules irrespective of its context or creator's intent. This can *completely* invert the original [meaning](meaning.md) of the text (especially after [a few generations](legacy.md)), and is often for self-interested [purposes](purpose.md) or [malice](morality-evil.md).
 
-Historically, judges didn't often concern themselves with implicit human rights, so the idea is relatively new. [Slavery](slavery.md), for example, is still ubiquitous but uses other names.
+Historically, judges didn't often concern themselves with implicit human rights, so the idea is relatively new. [Slavery](people-slavery.md), for example, is still ubiquitous but uses other names.
 
 A huge portion of the contention about rulings comes through how to [presume](imagination.md) (and therefore rule) in the absence of evidence. If someone is presumed evil until proven innocent then they're guilty without proof, but if they're presumed innocent until evil then some criminals will get away with crimes they had committed. Everyone has at least some [evil](morality-evil.md) intent, so both of those approaches are technically justifiable.
 

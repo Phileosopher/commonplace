@@ -72,3 +72,18 @@ Steel goes through the entire range of color as it heats:
 - ~815°C: bright red
 - ~927°C: orange
 - ~1093°C: yellow
+
+### Fences
+
+The most convenient and affordable form of steel fencing comes through a B40 wire mesh, also commonly called a "chain link fence". It allows for a see-through steel mesh that is difficult to scale but light on materials.
+
+To [make it yourself](https://www.youtube.com/watch?v=ZVcT1b1NH_4), you'll need to run steel wire through a self-created rotator:
+
+1. Get a pipe that is 3.25" wide, though you can vary it by your preferred width of each vertical stripe of chain.
+2. Glue a piece of paper angled at about 20 degrees around the perimeter of the pipe (enough that it spirals downwards).
+3. Cut a line down that angle, first with a guide and then straight through at least the width of your steel wire, then cut off the rest of the pipe.
+4. Get a flat bar that's just smaller than the diameter of the inside of the pipe and rotates around inside it.
+5. Cut the bar just a little longer than the pipe, then weld a bolt to it (knocking off excess and sanding like normal welds).
+6. Weld a washer to the bottom of the pipe, then screw two nuts onto the outside to firmly secure it.
+7. Make a handle by welding another nut to a drilled-out 16" hole, then welding another ergonomic grasp to the other side of the handle.
+8. After securing the handle, you can make as much B40 mesh as you want with a "meat grinder" motion.

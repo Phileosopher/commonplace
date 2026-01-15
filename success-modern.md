@@ -20,7 +20,7 @@ Contracts and agreements
 - No matter what, [stay legally safe](legal-safety.md) by only consenting to what you understand.
 - Marketing lies are often *heavily* reinforced for the purpose of selling [debt](money-2_debt.md).
   - Typically, they'll bind you into a predatory (but legal) [contract](people-contracts.md), though they'll never fully take away [your rights](people-boundaries-why.md).
-  - Some predatory contracts will create a situation that will function effectively like [indentured servitude](slavery.md).
+  - Some predatory contracts will create a situation that will function effectively like [indentured servitude](people-slavery.md).
 
 Communicating with others
 

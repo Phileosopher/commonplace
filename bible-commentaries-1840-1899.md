@@ -30,6 +30,14 @@ Haydock's Catholic Bible Commentary
    - [Bible Tools](https://bibletools.io/commentaries/en/george%20leo%20haydock/haydock's%20catholic%20bible%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/hcc.html)
 
+The Excellent Woman
+
+1. Anne Pratt - 1847
+2. Protestant (non-denominational)
+3. Expository (specific)
+4. Proverbs 31:10-31
+   - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/pratt_anne/)
+
 Edwards' Family Bible New Testament
 
 1. Justin Edwards - 1851
@@ -38,6 +46,7 @@ Edwards' Family Bible New Testament
 4. Judges, Matthew through 3 John, Revelation
    - [StudyLight](https://www.studylight.org/commentaries/eng/fam.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Family)
 
 Sutcliffe's Commentary on the Old and New Testaments
 
@@ -122,6 +131,7 @@ Abbott's Illustrated New Testament
 4. NT
    - [StudyLight](https://www.studylight.org/commentaries/eng/ain.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Abbott)
 
 Hodge's Commentary on Romans, Ephesians and First Corinthians
 
@@ -140,6 +150,7 @@ Commentary Critical and Explanatory on the Whole Bible
 4. OT+NT
    - Abridged:
      - [Bible Portal](https://www.bibleportal.com/commentary/commentary-critical-and-explanatory-on-the-whole-bible)
+     - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/jfb/)
      - [StudyLight](https://www.studylight.org/commentaries/eng/jfb.html)
      - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
      - [Worthy.Bible](https://worthy.bible/commentaries/commentary-critical-and-explanatory-on-the-whole-bible)
@@ -153,10 +164,11 @@ Darby's Synopsis of the New Testament
 1. John Darby - 1866
 2. Dispensational, Protestant (Plymouth Brethren)
 3. Exegetical
-4. OT+NT
+4. OT(some)+NT
    - [BibleHub](https://biblehub.com/commentaries/darby/)
    - [Bible Portal](https://www.bibleportal.com/commentary/darby-s-synopsis-of-the-new-testament)
    - [StudyLight](https://www.studylight.org/commentaries/eng/dsn.html)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=DTN)
 
 Hengstenberg on John, Revelation, Ecclesiastes, Ezekiel & Psalms
 
@@ -238,6 +250,7 @@ People's New Testament
    - [BibleHub](https://biblehub.com/commentaries/pnt/matthew/1.htm)
    - [StudyLight](https://www.studylight.org/commentaries/eng/pnt.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=PNT)
 
 Spurgeon's Verse Expositions of the Bible
 
@@ -279,6 +292,14 @@ Schaff's Popular Commentary on the New Testament
    - [BibleHub](https://biblehub.com/commentaries/schaff/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/scn.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+
+Union and Communion
+
+1. J. Hudson Taylor - 1893
+2. Protestant (non-denominational)
+3. Expository
+4. Song of Solomon  
+   - [BibleHub](https://biblehub.com/library/taylor/union_and_communion/index.html)
 
 Mackintosh's Notes on the Pentateuch
 

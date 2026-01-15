@@ -92,7 +92,7 @@ There are other rules that often become war crimes if not followed, most of them
 
 - If an aircraft has been disabled, the soldiers parachuting down are helpless and can't be fired on.
 - If a soldier wishes to surrender, they should wave something large and white (or sometimes black) and raise their hands. They're forbidden to "fake surrender". The other side may search and restrain them, and confiscate their items. The soldier only has to state their name, rank, and number, though it can sometimes include [religious preference](religion.md) and other small details that wouldn't run the risk of a court martial.
-- Prisoners of war (POWs) can be taken to a camp and treated well. They can only be [forced to work](slavery.md), but in non-military capacities that isn't dangerous or unhealthy, and they must be allowed to perform medical/ministerial duties. Prisoners are allowed to escape or impersonate the opposing force's officers, and executing them is a war crime.
+- Prisoners of war (POWs) can be taken to a camp and treated well. They can only be [forced to work](people-slavery.md), but in non-military capacities that isn't dangerous or unhealthy, and they must be allowed to perform medical/ministerial duties. Prisoners are allowed to escape or impersonate the opposing force's officers, and executing them is a war crime.
 - Torture and medical experiments that aren't benefiting the health of the prisoners are also war crimes.
 - Further, any soldier who performs a war crime can't say they were "just following orders".
 - If there's ever a cease-fire or an armistice (i.e., when the war is finishing), nobody is allowed to attack each other anymore.

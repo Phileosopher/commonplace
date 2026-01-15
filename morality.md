@@ -48,7 +48,7 @@ Morality must have a basis for its actions. There are some things that *can't* d
 
 As a general concept, we are all born with a conscience that maintains a semblance of morality. Based on our [upbringing](people-family.md), [culturally imposed standards](people-culture.md) will at least partially program our conscience.
 
-In practice, morality can only exist as a reference to [whatever authority formed us](religion.md). In whatever case, we must submit to that authority and are morally [enslaved](slavery.md) to that construct:
+In practice, morality can only exist as a reference to [whatever authority formed us](religion.md). In whatever case, we must submit to that authority and are morally [enslaved](people-slavery.md) to that construct:
 
 - If Islam is true, [jihad](people-conflicts-war-why.md) has its time and place.
 - If Christianity is true, everyone must renounce their [ego](humanity.md) for the sake of [love](people-love.md).
@@ -94,7 +94,7 @@ APPLICATION: Good moral education requires people to develop an [intuition](mind
 
 One of the easiest ways to perform immoral actions is to behave kindly to Person A while harming Person B. We're able to justify our actions by claiming Person B had it coming, and Person A is unlikely to complain. Taken across a [large organization](groups-large.md), this moral decay is a massive reason [bad systems](mgmt-badsystems.md) exist.
 
-Many times, entire societies have moved themselves around simply because a few people took a quiet stand against [evil](morality-evil.md). No matter how complicated a situation can get, it's not difficult to tell when a person is [unfairly treated](morality-justice.md), [enslaved](slavery.md), or killed without a good reason.
+Many times, entire societies have moved themselves around simply because a few people took a quiet stand against [evil](morality-evil.md). No matter how complicated a situation can get, it's not difficult to tell when a person is [unfairly treated](morality-justice.md), [enslaved](people-slavery.md), or killed without a good reason.
 
 ## Humility
 

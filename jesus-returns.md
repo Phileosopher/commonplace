@@ -116,7 +116,7 @@ Someone is coming who will work the Satan's will:
 - During the tribulation, the Satan will demand worship from everyone and command fire from heaven ([Revelation 13:13-14](https://biblehub.com/revelation/13.htm)).
 - There will be an "abomination of desolation" in the holy place, likely the Temple ([Matthew 24:15](https://biblehub.com/matthew/24-15.htm)).
   - It might be robots performing the sacrifices, sacrificing a pig on the altar, or ceasing the rituals entirely.
-- Among all this, the Satan will establish Babylon again, with the institution of [slavery](slavery.md) established worldwide ([Revelation 17](https://biblehub.com/revelation/17.htm)).
+- Among all this, the Satan will establish Babylon again, with the institution of [slavery](people-slavery.md) established worldwide ([Revelation 17](https://biblehub.com/revelation/17.htm)).
 
 At the same time, there can be *local* disasters:
 
@@ -173,9 +173,10 @@ Jesus will come back and defeat Babylon, the world, and Satan ([Revelation 18-19
 
 God will throw Satan into hell ([Revelation 20:1-3](https://biblehub.com/revelation/20.htm)).
 
-Many Christians believe Jesus will take up (rapture) all the Christians before the final times:
+Many Christians believe Jesus will take up (rapture) all the Christians in some timing within the final times:
 
 - Historically, the Rapture is a relatively new theological concept, established in the 1830s.
+  - It posits the general idea that Christians will be removed from the earth before Jesus delivers judgment to it.
 - Some people falsely attribute some passages to the rapture.
   - Jesus says one man will be taken from two walking, but the verses could just as easily imply genocide ([Matthew 24:40-41](https://biblehub.com/matthew/24.htm), [Luke 17:34-37](https://biblehub.com/luke/17.htm)).
 - At the same time, the Bible *explicitly* clarifies believers won't be present in the tribulation ([Revelation 7:9-14](https://biblehub.com/revelation/7.htm)).

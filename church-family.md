@@ -73,6 +73,11 @@ Don't [idolize](addiction-substances.md) romantic relationships.
 - [Share the Gospel](jesus-gospel.md) with unbelievers, but avoid "missionary dating" to prevent sexual immorality or an unequal marriage ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
 - Give everything to God, including *all* hopes of having a relationship with anyone.
 
+God *will* make it clear, whether by your observation, intuition, or others, about anyone who is a risk to your spiritual state ([1 Corinthians 14:33](https://biblehub.com/1_corinthians/14-33.htm)).
+
+- Their words or actions will contradict God's truth.
+- They'll be resistant to God's peace, and will instead be confused or anxious.
+
 ## God created families to symbolize human connection
 
 The father, mother, and child symbolize a type of trinity.

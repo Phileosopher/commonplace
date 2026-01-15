@@ -24,7 +24,8 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
      - **Cultural** is built to give [historical context](people-culture.md) around when the text was written.
    - **Sermonic** (aka Pastoral or Application) are essentially reworked sermons, so they end up as a hybrid of both exegetical and expository.
    - **Holistic** (aka Connective or Associative) focuses on Bible verse connections with other Bible verses.
-   - Commentary categories sit more on a "spectrum" between exegetical and expository, but it's sometimes difficult to precisely analyze.
+   - **Summary** focuses on a TL;DR summary of the content.
+   - Commentary categories sit more on a "spectrum" between exegetical and expository, and it's sometimes difficult to precisely analyze.
 4. What is the scope of books the commentary covers?
    - The commentary may range itself on a spectrum between the whole Bible and a single book.
    - More specific implies that it will have more in-depth analysis and clear application, but that all depends on the quality of the commentator's work.
@@ -70,6 +71,7 @@ Geneva Study Bible
    - [Bible Tools](https://bibletools.io/commentaries/en/theodore%20beza/geneva%20study%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/gsb.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Geneva)
 
 Calvin's Commentary on the Bible
 
@@ -82,6 +84,7 @@ Calvin's Commentary on the Bible
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20calvin/calvin's%20commentary%20on%20the%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/cal.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=CalvinCommentaries)
 
 ## 17th Century
 
@@ -111,8 +114,10 @@ Lightfoot's Commentary on the Gospels
 2. Calvinist, Protestant (Presbyterian)
 3. Expository
 4. Matthew through John
+   - [BibleHub](https://biblehub.com/commentaries/lightfoot/matthew/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/jlc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Lightfoot)
 
 Owen's Exposition of Hebrews
 
@@ -153,6 +158,7 @@ Burkitt's Expository Notes with Practical Observations on the NT
 4. NT
    - [StudyLight](https://www.studylight.org/commentaries/eng/wbc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Burkitt)
 
 Henry's Commentary on the Bible
 
@@ -170,6 +176,7 @@ Henry's Commentary on the Bible
      - [BibleHub](https://biblehub.com/commentaries/mhcw/)
      - [Bible Portal](https://www.bibleportal.com/commentary/mhc)
      - [Bible Tools](https://bibletools.io/commentaries/en/matthew%20henry/henry's%20complete%20commentary%20on%20the%20bible)
+     - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/mhc/)
      - [StudyLight](https://www.studylight.org/commentaries/eng/mhm.html)
      - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
      - [Worthy.Bible](https://worthy.bible/commentaries/matthew-henry-commentary)
@@ -207,6 +214,7 @@ Wesley's Explanatory Notes
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20wesley/wesley's%20explanatory%20notes)
    - [StudyLight](https://www.studylight.org/commentaries/eng/wen.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Wesley)
 
 Gill's Exposition of the Whole Bible
 
@@ -227,6 +235,7 @@ Brown's Commentary on Selected Book of the Bible
 2. Calvinist, Protestant (Presbyterian)
 3. Expository (short)
 4. Nehemiah, Esther, Job, Hosea, Jonah, Ephesians, Revelation
+   - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/brown_john/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/jbs.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
@@ -297,6 +306,7 @@ Clarke's Commentary
    - [Bible Tools](https://bibletools.io/commentaries/en/adam%20clarke/clarke's%20commentary)
    - [StudyLight](https://www.studylight.org/commentaries/eng/acc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Clarke)
 
 Meyer's Critical and Exegetical Commentary on the New Testament
 
@@ -330,3 +340,4 @@ Albert Barnes' Notes on the Whole Bible
    - [Bible Tools](https://bibletools.io/commentaries/en/albert%20barnes/barnes'%20notes%20on%20the%20whole%20bible)
    - [StudyLight](https://www.studylight.org/commentaries/eng/bnb.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module (NT only)](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Barnes)

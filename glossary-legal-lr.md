@@ -277,7 +277,7 @@ Production - Providing evidence that proves an assertion of fact is true, typica
 
 Promise to Appear - A type of non-financial bond where the defendant agrees to return to court without giving cash or property
 
-Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](people-contracts.md), or [assets](money-accounting.md), once involved [people](slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
+Property - A person's lawful possession, often refers to real estate but can also apply to [intellectual property](legal-ip.md), [contracts and service agreements](people-contracts.md), or [assets](money-accounting.md), once involved [people](people-slavery.md) directly but has generally transitioned strictly to [debt](money-2_debt.md)
 
 Protection - Broad word that refers to the state or means of being safe
 

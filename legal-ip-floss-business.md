@@ -57,7 +57,7 @@ Building a personal or closed-source company project into an open-source one doe
 3. Write the contribution guidelines (in CONTRIBUTING.md).
 4. Write templates for [bug reports](computers-software-redesign.md) and [pull requests](computers-software-versionctrl.md).
 5. Choose and insert the license (LICENSE.md).
-6. Write the [security](safety-security.md) policy (SECURITY.md).
+6. Write the [security](safety-security.md) policy (safety-security.md).
 7. Write the project's introduction (README.md).
 
 Human nature mixed with freely distributed software means it's constantly tweaked and rebuilt, which creates a few inevitable realities in comparison to closed-source software:

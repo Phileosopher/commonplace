@@ -103,7 +103,7 @@ Top leaders only have limited [influence](power-influence.md) over the entire gr
 3. Encounters with the sub-leadership and *very* limited encounters with the lower-ranking members to rally everyone toward that stated [purpose](purpose.md) and sort out details.
 4. Formally declared, often written, [policies](people-rules.md) and [procedures](habits.md), enforcing them, or changing them.
 
-These decisions are *always* designed for the interests of the people in the group or the people the group favors. For that reason, a group won't generally affect others it doesn't favor or assimilate already unless it's facing [competition](people-conflicts-war-why.md) with another group that may serve those other people or [subduing](slavery.md) those people for another [purpose](purpose.md).
+These decisions are *always* designed for the interests of the people in the group or the people the group favors. For that reason, a group won't generally affect others it doesn't favor or assimilate already unless it's facing [competition](people-conflicts-war-why.md) with another group that may serve those other people or [subduing](people-slavery.md) those people for another [purpose](purpose.md).
 
 Members' awareness of each large-scale decision ripples outward like a [trend](trends.md) at the speed of [technology](technology.md). It has a formative time with sub-leaders, then transitions outward to the majority, with the laggards *never* aware of the decision. This trend sticks proportional to the [leadership skills](mgmt-1_why.md) of the top leader.
 
