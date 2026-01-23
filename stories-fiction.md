@@ -1,10 +1,23 @@
 
 # Specific information about fiction stories
 
-Every fictional account has to [feel](mind-feelings.md) like it is associated with [reality](reality.md).
+## Driving force
 
-- Any breaks in reality must either be implicitly explainable as [humor](humor.md) or speculative (i.e., science fiction, fantasy, or horror).
-- Without that speculative explanation or humor, the entire story can only represent as an unreliable narrator.
+Fiction can be event-driven, but should dominantly be character-driven, and it shows through the creative process:
+
+- Event-driven
+  1. The creator wants to see an climax event the audience will remember through the complexity or grandiosity of events.
+  2. They conform the characters to make the event happen in the most dramatic way.
+  3. Everything serves the climax event's presentation.
+- Character-driven
+  1. The creator wants to see an climax event the audience will remember through the complexity or grandiosity of the character's changes.
+  2. They build a character, then get inside their mind to make them emotionally respond to the events.
+  3. Everything serves the character's experience in the climax event.
+- Character-driven is more difficult, and therefore harder to scale.
+  - Sequels and spinoffs become increasingly difficult with character-driven, since the climax will have to serve an increasingly complex personality.
+- The audience's interaction diminishes character-driven development, which is why video games either require removing audience involvement (e.g., A/B choices) or making event-driven stories.
+
+## Story types
 
 Blake Snyder observed that every story effectively works through at least one of ten possible [primal](mind-feelings.md) associations:
 
@@ -72,7 +85,7 @@ Blake Snyder observed that every story effectively works through at least one of
       2. A house
       3. A [sin](morality-sins.md) that brought the monster
 
-The [genre](art-genres.md) will heavily constrain  which narrative forms are permissible.
+The [genre](art-genres.md) will heavily constrain which narrative forms are permissible.
 
 ## Narration
 
@@ -81,6 +94,11 @@ Fictional stories are also known as "narrative".
 - Narrative comes from its root "narrate", which means giving an account of events.
 - This goes back to the historical concept of a person sharing a story, often in the evening with a fire burning.
 - While information is presented in text is higher-quality, it doesn't change the exploration into [the unknown](unknown.md) that captured the attention of people thousands of years ago.
+
+Every fictional account has to [feel](mind-feelings.md) like it is associated with [reality](reality.md).
+
+- Any clear breaks in reality must either be implicitly explainable as [humor](humor.md) or speculative (i.e., science fiction, fantasy, or horror).
+- Without that speculative explanation or humor, the entire story can only represent as an unreliable narrator.
 
 Using an unreliable narrator is very convenient.
 

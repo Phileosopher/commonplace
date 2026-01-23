@@ -285,7 +285,7 @@ Smith's Bible Commentary (text or audio)
    - [main page](https://robertcliftonrobinson.com/chuck-smith/)
    - [Bible Portal](https://www.bibleportal.com/commentary/chuck-smith-bible-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/charles%20ward%20smith/smith's%20bible%20commentary)
-   - [Blue Letter Bible](https://www.blueletterbible.org/audio_video/smith_chuck/)
+   - [Blue Letter Bible](https://www.blueletterbible.org/audio_video/smith_chuck/), ([text version](https://www.blueletterbible.org/commentaries/smith_chuck/))
    - [StudyLight](https://www.studylight.org/commentaries/eng/csc.html)
    - [YouTube](https://www.youtube.com/playlist?list=PLZxWDsI_duM9kjgX7I39QPQTs8neCzTbA)
 

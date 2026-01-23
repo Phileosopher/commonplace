@@ -105,6 +105,7 @@ Trapp's Complete Commentary
 4. OT, Matthew through Titus, Hebrews through Revelation
    - [Bible Portal](https://www.bibleportal.com/commentary/john-trapp-complete-commentary)
    - [Bible Tools](https://bibletools.io/commentaries/en/john%20trapp/trapp's%20complete%20commentary)
+   - [Blue Letter Bible](https://www.blueletterbible.org/commentaries/trapp_john/)
    - [StudyLight](https://www.studylight.org/commentaries/eng/jtc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 

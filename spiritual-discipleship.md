@@ -13,10 +13,11 @@ Jesus builds every Christian up to become a self-[leader](mgmt-church.md):
 - Conduct yourself gently ([2 Timothy 2:24-26](https://biblehub.com/2_timothy/2.htm)).
 - Obey God when you know [His will](god-will.md) ([1 Peter 1:13-15](https://biblehub.com/1_peter/1.htm)).
 
-Discipleship is one-on-one mentorship, teaching, and advising.
+Discipleship is an obsolete word, and could more accurately be described as "spiritual apprenticeship".
 
-- You simply don't have enough resources to disciple and mentor more than 3-4 people at any one time.
-- If you're a parent, your [non-adult children](parenting-children.md) are part of those 3-4 person limit.
+- It is one-on-one mentorship, teaching, and advising.
+- No single person has enough resources to mentor more than 3-4 people at any one time.
+- And, as a parent, your [non-adult children](parenting-children.md) are part of that 3-4 person limit.
 
 ## Be prepared
 

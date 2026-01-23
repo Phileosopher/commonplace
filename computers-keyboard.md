@@ -31,7 +31,7 @@ However, the keyboard convention has settled itself into a predictable layout si
 - To allow the user to send more information, keyboards have multiple "modes" that allow for capitalized letters (SHIFT key), along with [alternate and control key combinations](computers-keyboard-shortcuts.md) (ALT and CTRL key). To make it convenient, they're on both sides of the keyboard.
 - A Print Screen key. At one time, it would *actually* send the screen's display to the printer when everything was [terminal-based](computers-cli.md), but now serves to send a screenshot to the clipboard.
 - A Pause Break key. At one time, it would break a telegraph circuit, and is most reliable to stop a [console command](computers-cli.md). However, it doesn't have a well-defined purpose anymore.
-- Proprietary key (Win and CTRL, or ⌘) that add even *more* functionality and features.
+- A proprietary "super" key (Win and CTRL, or ⌘) that adds even *more* functionality and features.
 - Specific locks to make the user more efficient:
   - CAPS LOCK keeps SHIFT key pressed for entering letters.
   - SCROLL LOCK is a bit more software-specific (e.g., spreadsheets), but permits the arrow keys to either navigate the screen or their selection.
