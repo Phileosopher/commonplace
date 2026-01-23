@@ -43,7 +43,7 @@ Reflect on good events:
 - Write down things that make you happy, you like doing, people you love, and good things that happened to you.
 - Write down unhappy thoughts or concerns and either throw them in a trash can or fold them up.
 - Reminisce about how you've changed for the better.
-- Tell yourself one thing you're grateful for.
+- Tell yourself one thing you're [grateful](mind-feelings-happiness-gratitude.md) for.
 
 Use stress relievers that release endorphins:
 

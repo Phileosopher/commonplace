@@ -29,6 +29,8 @@ Most people do *not* need a tax accountant to file their taxes.
 
 Property taxes are assessed ad valorem (according to value), usually yearly.
 
+- Wealth tax is essentially the same thing, but extends the concept to *all* assets that contribute to net worth (instead of merely real estate).
+
 Realty - buildings or land
 
 - Buildings can depreciate, but land can't.
@@ -71,11 +73,12 @@ Except for [self-employment](entrepreneur-1_why.md), most employment taxes are p
 - Medicare
 - Unemployment tax
 
+## Income taxes
+
 Most people below a modest income threshold receive a refund at the end of the year *back* from the government, which creates the ironic consequence of them being *grateful* to the government for their already-earned money.
 
 - This compounds as well because there are certain tax credits (e.g., EITC) that give more money back to workers than they paid to the government.
-
-## Income taxes
+- However, it's entirely possible the income tax is illegal, both in law (since [it wasn't ratified fully by the states](https://professortom.substack.com/p/the-first-us-income-tax-and-the-road)) and unconstitutional (since it's an invasion of [privacy](safety-security-privacy.md)).
 
 The US Federal income tax system has a complex, specific formula:
 

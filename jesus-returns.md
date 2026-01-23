@@ -91,7 +91,7 @@ There are still decent people spread throughout society, so it's not likely that
 - Conceited, self-absorbed people will *constantly* brag about themselves.
 - People will be abusive, unloving, and brutal.
 - People will be disobedient to their [parents](parenting-babies.md).
-- People will be [ungrateful](mind-feelings-happiness-stress.md) and hold grudges.
+- People will be [ungrateful](mind-feelings-happiness-gratitude.md) and hold grudges.
 - People will live unholy lives and hate good things.
 - People will betray others and lie to harm others' [reputations](people-image-why.md).
 - Unrestrained and reckless people will love pleasure more than God.

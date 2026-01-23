@@ -172,7 +172,7 @@ Reflect on the present:
   - Radically accept all of your feelings as a unique part of your very useful body.
 - Pay close attention to pain and where it comes from.
   - Most mental disorders come from unpleasant things we've ignored.
-- Focus on [what you're grateful for](mind-feelings-happiness-focus.md).
+- Focus on [what you're grateful for](mind-feelings-happiness-gratitude.md).
 - Find aimless and idle thoughts you no longer need.
 - Practice brutal honesty in your thought life.
   - We often think we're being [rational](understanding.md), but we rarely are.

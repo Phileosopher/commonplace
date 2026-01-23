@@ -16,7 +16,7 @@ Chronic pain is severely difficult, and can become magnified if you think about 
 
 - We can only take one day at a time, so [focus on "now"](awareness.md).
 - Try to find comfort when the pain subsides, since it proves that long-term pain isn't guaranteed.
-- Don't expect anyone else to understand, but be grateful that they care enough to try.
+- Don't expect anyone else to understand, but be [grateful](mind-feelings-happiness-gratitude.md) that they care enough to try.
 
 Certain blessings can come with a terminal illness (e.g., cancer):
 

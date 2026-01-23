@@ -3,7 +3,7 @@
 
 Modern life is very convenient. However, most people are born into it without realizing the things that [technology](technology.md) and [large-scale systems](groups-large.md) can bring us.
 
-These tools should be cherished as a part of civilization, and something to be grateful to our ancestors for having made. In a sense, each time you use something invented by someone, you're connected to that person.
+These tools should be cherished as a part of civilization, and something to be [grateful](mind-feelings-happiness-gratitude.md) to our ancestors for having made. In a sense, each time you use something invented by someone, you're connected to that person.
 
 I've arranged the conveniences by order of approximate invention date, with the daily conveniences they bring. Granted, it takes years or *centuries* for [trends](trends.md) to proliferate, so that year is simply the approximate "first" of that thing coming around, and I'm not talking about the career opportunities of each.
 

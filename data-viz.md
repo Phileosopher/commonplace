@@ -21,10 +21,14 @@ For any report to be effective, it needs to have several qualities:
 - Accessible - It must be easy to [understand](understanding.md).
 - Auditable - The information must be easily reproducible for someone else to [verify](trust.md).
 
-To that end, good reports intentionally *omit* useless information and provide the supporting data as an accompaniment. The report should also draw directly from the data, and *not* use an intermediate system that could generate error or inaccuracy.
+For that reason, good reports intentionally *omit* useless information and accompany the supporting data. The report should also draw directly from the data, and *not* use an intermediate system that could generate error or inaccuracy.
 
-## Flow charts
+## Diagrams
 
-A flow chart is possible when there is a flow of [logic](logic.md) (especially across time) or [decisions](https://gainedin.slite/decisions/).
+A diagram is a visual representation of the information. It is essentially a report, but with extra [UX](engineering-design.md).
 
-The general appearance of flow charts allows a visual representation of complexities that would otherwise be difficult to show via text.
+The diagram must add value to the user, or it's a bad diagram. If it isn't intended for [humor](humor.md), the diagram should give an apparent flow for the eyes to see, from top to bottom.
+
+There are [a vast selection of diagrams](data-viz-specific.md), which all have their own benefits and drawbacks.
+
+One of the most common computer version of a diagram comes through Unified Modeling Language (UML), which gives an easy form of coding a diagram that can be usable anywhere.

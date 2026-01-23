@@ -101,7 +101,7 @@ Make God more important than things.
 
 - Materialism creeps in slowly.
 - Observe whether you're more concerned with meeting needs or learning what God wants to teach you.
-- Stay grateful and content for God's provision.
+- Stay [grateful](mind-feelings-happiness-gratitude.md) and content for God's provision.
 - Heaven's treasures are our relationships and what God teaches us.
 
 Live by faith, not presumption.

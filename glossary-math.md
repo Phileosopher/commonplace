@@ -41,6 +41,8 @@ Circumference - the perimeter of a circle
 
 Classical - a math discipline that uses Euclidean space and conventional perspectives of number theory, tends to be the most useful for practical tasks
 
+Cohort - a group, usually in statistics
+
 Combinatorial or Combinatorics - the study of various ways to count permutations and combinations of objects beyond addition or multiplication
 
 Commutative property - an operation that can rearrange the operands and come to the same answer (e.g., 4 + 3 = 3 + 4), contrast to non-commutative

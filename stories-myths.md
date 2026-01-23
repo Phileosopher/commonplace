@@ -9,6 +9,11 @@ If we connect those patterns, many universals will represent in common with all 
 
 Most modern vernacular runs on the same [mythology](religion-answers.md) (e.g., "witchcraft" becomes "pharmaceuticals") even while the faces have changed.
 
+The reason these myths work over the raw facts is because the [symbols](symbols.md) speak to us with an added flair of [meaning](meaning.md).
+
+- We commonly use [art](art.md) to infuse [joy](mind-feelings-happiness.md) into an otherwise miserable experience or [fear](mind-feelings-fear.md) into a seemingly safe experience.
+- In general, [children](parenting-children.md) get plenty of things to be afraid of, so it's usually better to provide joy more than fear.
+
 ## Genres
 
 Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](goodlife.md), respectively

@@ -119,6 +119,8 @@ Unicode - aka UTF-32, a character encoding format that uses up to 32 bits of dat
 
 Unicorn - a startup that's worth over $1 billion
 
+Unified Modeling Language (UML) - a standardized language for working with [data visualizations](data-viz.md)
+
 Unix-like - an operating system designed closely to the original Unix system, typically refers to GNU/Linux but can also refer to FreeBSD
 
 Unsorted list - a list that hasn't been sorted, or at least hasn't been identified as sorted by a computer
