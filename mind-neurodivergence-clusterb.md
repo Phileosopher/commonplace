@@ -31,6 +31,11 @@ Due to this, the severity of their mental illness often comes through how intell
 
 ## Difficulties due to their mental state
 
+Their shattered ego means their mind has trouble with articulately maintaining [memory](mind-memory.md) related to strong adverse feelings towards themselves.
+
+- This yields legitimate delusions about events and circumstances that happened.
+- To function in society, they tend to find social roles that are either vastly within their range of talent (so they can be near-immaculate at something) or requires maintaining constant [uncertainty](understanding-certainty.md) (which permits them to conveniently redefine their story as they need).
+
 Since they have a shaky value system, they will often have trouble with a few specific things:
 
 - Self-deprecating [humor](humor.md), though possible with HPD. However, HPD will *not* take a practical joke or teasing well.
@@ -40,6 +45,8 @@ Since they have a shaky value system, they will often have trouble with a few sp
   - HPD will often accept failings on the condition that it's shared with others.
   - ASPD will entirely ignore failings, though will often learn from their mistakes.
   - NPD will learn better [image management](people-image-distortion.md) skills from their mistakes, but won't fundamentally change.
+- Blunt truths regarding their failures:
+  - They're unable to cope with their failings, so they behave erratically and unreasonably when approached with failings, irrespective of how polite or nonconfrontational the accusation was.
 
 ## Conflict style
 
@@ -54,3 +61,16 @@ The reversals come in various forms, but tend to be successful in proportion to 
 1. How much that attacker can use social stereotypes (e.g., white female is an entitled person, black male is violent, poor person is stupid, etc.). This perpetuates the [lie](people-lying.md)
 2. How little information other people have about the other person. This permits the lie to take hold.
 3. How effective the attacker can be at hiding further information. This perpetuates the lie.
+
+## How to approach
+
+In light of this, there are some ways to easily detect Cluster B:
+
+- Watch for clearly premeditated behaviors over circumstances that wouldn't be appropriate.
+  - e.g., a delay in reflecting grief when hearing someone else's dog died
+- Use self-deprecating humor, then add humor at their expense immediately afterward.
+  - They will likely over-react to their "slight"
+  - If uncertain, make another self-deprecating joke and see how they respond.
+- Call them a narcissist outright.
+  - They will go into full-on meltdown, and will try to destroy you and your reputation with everything they have.
+  - If they're not, then they'll be confused.

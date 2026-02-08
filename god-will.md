@@ -89,7 +89,7 @@ Discipline yourself to wisdom:
 
 A. Have an eternal relationship with Jesus Christ:
 
-- He wants everyone to [come to repentance](jesus-gospel.md) for their [sins](morality-sins.md) ([2 Peter 3:9](https://biblehub.com/2_peter/3-9.htm), [John 3:16](https://biblehub.com/john/3-16.htm)).
+- He wants everyone to [come to repentance](https://theologos.site/gospel/) for their [sins](morality-sins.md) ([2 Peter 3:9](https://biblehub.com/2_peter/3-9.htm), [John 3:16](https://biblehub.com/john/3-16.htm)).
 - Deeply understand Jesus and who you are with him.
 - Purse Christ above everything else instead of as a religion or mystical experience.
 

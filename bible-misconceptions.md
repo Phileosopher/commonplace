@@ -35,7 +35,7 @@ God loves you just the way you are.
 
 God wants me to be happy / God loves you and has a wonderful plan for your life.
 
-- Originally a popular saying from the Four Spiritual Laws [Gospel](jesus-gospel.md) presentation.
+- Originally a popular saying from the Four Spiritual Laws [Gospel](https://theologos.site/gospel/) presentation.
 - God *will* work everything for good for those who love Him and whom He calls for His purpose ([Romans 8:28](https://biblehub.com/romans/8-28.htm)).
 
 God won't give you more than you can handle.

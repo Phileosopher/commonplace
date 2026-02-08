@@ -102,7 +102,7 @@ Implicitly, Christians do believe a form of **structuralism** within [God's ulti
 
 Believing in absolute truth defies **subjectivism**, and by implication **post-structuralism**.
 
-**Syncretism** is a *very* common reality within Christianity, in many directions, with the most prevalent one being the base concept of being "[born again](jesus-gospel.md)".
+**Syncretism** is a *very* common reality within Christianity, in many directions, with the most prevalent one being the base concept of being "[born again](https://theologos.site/gospel/)".
 
 ### The verdict on how we should gain knowledge
 

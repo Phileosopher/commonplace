@@ -194,7 +194,7 @@ The devil makes us hate people groups, but only as a passive, brewing hatred:
 - When people believe [fringe ideas](trends.md), the devil will work *very* hard to turn those beliefs into rebellious ideals.
 - Generally, strong-willed people with hard [convictions](understanding-certainty.md) are easily misled by divisive beliefs, while weak-willed and compliant people will be misled by pacifism and compromising ideals.
 
-Christianity is a [simple message](jesus-gospel.md) that naturally unifies *all* humanity through recognizing their need for salvation in light of their sin. The Satan responds with "Christianity and..." to create [special interests](jobs-specialization.md) that make the person feel separate from the rest of the Church:
+Christianity is a [simple message](https://theologos.site/gospel/) that naturally unifies *all* humanity through recognizing their need for salvation in light of their sin. The Satan responds with "Christianity and..." to create [special interests](jobs-specialization.md) that make the person feel separate from the rest of the Church:
 
 - While God built us to have an interest in cycling seasons of new things (e.g., yearly seasons, [fashions](trends.md), [technologies](technology.md)), this can easily pervert to a desire for novelty and [change](people-changes.md) merely for its own sake.
 - Novelty has a [diminishing return](people-decisions.md), and requires progressively more investment to maintain. Believers ensnared in [fashions](trends.md) will invariably feel dissatisfied or greedy as their interest persists, which can lead to many other sins.

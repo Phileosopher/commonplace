@@ -3,7 +3,7 @@
 
 As a general rule, most church leadership are at least somewhat territorial over [their congregation](mgmt-church.md).
 
-- This is both an egregious reality (since we're *all* the Body of Christ if we share the same [core Gospel beliefs](jesus-gospel.md)) and an unavoidable aspect of [human nature](humanity.md).
+- This is both an egregious reality (since we're *all* the Body of Christ if we share the same [core Gospel beliefs](https://theologos.site/gospel/)) and an unavoidable aspect of [human nature](humanity.md).
 
 Therefore, the best way to find [cross-cultural](people-culture.md) connection across the Body is through parachurch organizations.
 

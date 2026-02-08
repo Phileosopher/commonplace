@@ -169,7 +169,7 @@ The spirit is close to, but distinct from, the soul.
 - The spirit is how we connect with God, and He speaks through our spirit far more than our souls.
   - [Ephesians 1:17](https://biblehub.com/ephesians/1-17.htm)
 
-[Our fallen state](jesus-gospel.md) makes our spirits dead or at least dormant, though Christ can revive them.
+[Our fallen state](https://theologos.site/gospel/) makes our spirits dead or at least dormant, though Christ can revive them.
 
 - [Colossians 2:13](https://biblehub.com/colossians/2-13.htm)
 - The only way to accurately guess if someone has a reborn spirit (and therefore follows Jesus) is to observe their [decisions](people-decisions.md) in their private life over a long time.

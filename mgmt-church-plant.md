@@ -13,7 +13,7 @@ Carefully consider what elements to incorporate:
 Don't make a church plant unless the situation makes it necessary.
 
 - A small church is a gathering of mostly volunteers, so it needs *much* more timing and placement than [missionaries](mgmt-church-missions.md).
-- A church plant won't gain many new believers in a nation that freely permits the [Gospel](jesus-gospel.md) message everywhere.
+- A church plant won't gain many new believers in a nation that freely permits the [Gospel](https://theologos.site/gospel/) message everywhere.
 
 Church plants only come from a few good [purposes](purpose.md):
 

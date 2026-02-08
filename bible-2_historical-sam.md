@@ -1,5 +1,5 @@
 
-# Samuel
+# Samuel (1st and 2nd) commentary
 
 The book of Samuel is a historical narrative, so it is best seen as a series of [symbolic](symbols.md) patterns that represent theological truths.
 

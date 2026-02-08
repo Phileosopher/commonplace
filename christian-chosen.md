@@ -1,7 +1,7 @@
 
 # The Chosen vs. the Bible
 
-For visual storytelling of the Bible, [the Gospel](jesus-gospel.md) is likely most precisely portrayed through a 1979 film simply title Jesus (advanced through [The Jesus Film Project](https://www.jesusfilm.org/)).
+For visual storytelling of the Bible, [the Gospel](https://theologos.site/gospel/) is likely most precisely portrayed through a 1979 film simply title Jesus (advanced through [The Jesus Film Project](https://www.jesusfilm.org/)).
 
 However, most artists wish to expand on the relatively straightforward story, and many people wish to consume it, which is how [The Chosen](https://www.thechosen.tv/) has become a gigantic and popular project.
 

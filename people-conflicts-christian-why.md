@@ -41,7 +41,7 @@ In general, prioritize your [conflict management](people-conflicts.md) skills co
    - Do *not* take issues with other Christians in front of a secular group ([1 Corinthians 6:1-8](https://biblehub.com/1_corinthians/6.htm)).
 3. Lastly, if a so-called Christian is openly practicing outright lawlessness, don't even associate with them ([2 Timothy 3:1-5](https://biblehub.com/2_timothy/3.htm)).
    - Some people have a *lot* of experience with following God, but have no hope of salvation ([Hebrews 6:4-6](https://biblehub.com/hebrews/6.htm)).
-   - Most controversies with this level of opposition with others fail to recognize that we receive [eternal salvation in Christ](jesus-gospel.md) when we die ([2 Timothy 4:7-8](https://biblehub.com/2_timothy/4.htm)).
+   - Most controversies with this level of opposition with others fail to recognize that we receive [eternal salvation in Christ](https://theologos.site/gospel/) when we die ([2 Timothy 4:7-8](https://biblehub.com/2_timothy/4.htm)).
 
 Most of the more durable heresies and bad theology comes through a few major routes:
 

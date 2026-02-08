@@ -1,5 +1,5 @@
 
-# Jude
+# Jude commentary
 
 The book is a very short one, grouped with no chapters and 25 verses.
 

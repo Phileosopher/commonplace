@@ -64,7 +64,7 @@ Assertion that the scientific community's long-term time estimations have author
 
 Odd non-Christian beliefs that closely identify with Christian values (e.g., [Rastafarianism, Mormonism](religion-answers.md)).
 
-- A new Christian may still be part of that religious community for a time, even if they've [accepted Jesus as their Lord](jesus-gospel.md).
+- A new Christian may still be part of that religious community for a time, even if they've [accepted Jesus as their Lord](https://theologos.site/gospel/).
 
 ## Extremism
 
@@ -133,7 +133,7 @@ Believing "Christian" media to be a vastly superior classification of media, eve
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
   3. The audience may misunderstand why the creator is portraying a bad thing and attack them over it.
 
-Allegiance to a [denomination](people-conflicts-christian-why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](jesus-gospel.md).
+Allegiance to a [denomination](people-conflicts-christian-why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](https://theologos.site/gospel/).
 
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
   - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)

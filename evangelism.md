@@ -1,11 +1,11 @@
 
 # How to evangelize
 
-Time is short for people to hear the [Gospel](jesus-gospel.md).
+Time is short for people to hear the [Gospel](https://theologos.site/gospel/).
 
 - Jesus has called us to travel out and make [disciples](spiritual-discipleship.md) across the world ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm)), which starts with sharing it with everyone open to hearing it.
 
-Sharing Jesus is a lifestyle [decision](people-decisions.md) that comes from [understanding](understanding.md) and imitating [what Jesus did](jesus-gospel.md) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
+Sharing Jesus is a lifestyle [decision](people-decisions.md) that comes from [understanding](understanding.md) and imitating [what Jesus did](https://theologos.site/gospel/) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
 
 Evangelism is for everyone.
 
@@ -138,7 +138,7 @@ A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to
 - Avoid Christian jargon (e.g., sanctified, blessed) and refine your thoughts to simple concepts.
 - People focus on the ideas more when you use fewer words.
 - If they're still interested, ask them if they mind you using your Bible.
-- Walk them through the [basics of salvation](jesus-gospel.md) and either drop it or pray with them as the situation permits.
+- Walk them through the [basics of salvation](https://theologos.site/gospel/) and either drop it or pray with them as the situation permits.
 
 God calls us to make [disciples](spiritual-discipleship.md), *not* fix the world ([Matthew 28:19-20](https://biblehub.com/matthew/28.htm)).
 
@@ -170,7 +170,7 @@ Pay very, *very* close attention to what anyone has to say about what you're sha
 
 Once a culture has been exposed to *lots* of evangelism, that society becomes post-Christian.
 
-- Typically, post-Christian culture comes from generations raised in the [moralism](morality.md) of Christianity but without the parents stressing the importance of a [relationship with Jesus](jesus-gospel.md).
+- Typically, post-Christian culture comes from generations raised in the [moralism](morality.md) of Christianity but without the parents stressing the importance of a [relationship with Jesus](https://theologos.site/gospel/).
 - Post-Christian cultures typically need a *lot* of evidence, with can *only* come through a demonstrated lifestyle.
   - Break through the apprehension by openly discussing your own unpleasant experiences with cultural Christianity and the Church.
 - The only answer to clearly connect with post-Christianity is to have legitimate love and compassion for their suffering, *without* defending or condemning what happened to them.
@@ -185,7 +185,7 @@ There are a few possible, predictable ways a non-Christian will respond to a Gos
 The least likely response will be curiosity mixed with hesitant [hope](trust.md).
 
 - To some effect, they see a potential opportunity for redemption and healing.
-- They'll often distrust many elements of it, since [Jesus' sacrifice](jesus-gospel.md) does *not* require them to give [something back for the exchange](people-contracts.md).
+- They'll often distrust many elements of it, since [Jesus' sacrifice](https://theologos.site/gospel/) does *not* require them to give [something back for the exchange](people-contracts.md).
 - However, they're fully ready to follow Jesus.
 - If they have questions, and you're at least somewhat educated in [apologetics](evangelism-apologetics.md), openly answer any questions they have.
 
@@ -266,7 +266,7 @@ Don't stop appropriately sharing the Gospel.
 
 It's awful [optics](marketing.md) and detrimental to the Gospel message to use [political activism](power-types.md) tactics (e.g., publicly screaming, making demands).
 
-- [Jesus died for everyone](jesus-gospel.md), and takes it *very* personally when people are mistreated ([Matthew 25:41-45](https://biblehub.com/matthew/25.htm)).
+- [Jesus died for everyone](https://theologos.site/gospel/), and takes it *very* personally when people are mistreated ([Matthew 25:41-45](https://biblehub.com/matthew/25.htm)).
 
 Sins like homosexuality aren't necessarily worse than fornication or adultery.
 

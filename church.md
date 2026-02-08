@@ -60,7 +60,7 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 
 - They're honorable.
 - They're not [deceptive](people-lying.md), [an addict](addiction-substances.md), or greedy.
-- They believe strongly in the [mystery](jesus-gospel.md) of the Christian faith with a clear [conscience](humanity-christian.md).
+- They believe strongly in the [mystery](https://theologos.site/gospel/) of the Christian faith with a clear [conscience](humanity-christian.md).
 - If they're [married](relationships-marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
 
 Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/1_timothy/3.htm)).
@@ -107,7 +107,7 @@ Churches often [pray and fast](spiritual-exercises-prayer.md) for God's kingdom 
 
 The Bible doesn't specifically reference pastors' preaching *nearly* as much as meeting, but churches can spend plenty of time either [preaching the simple Gospel](evangelism.md) or [discipleship](spiritual-discipleship.md).
 
-- Experienced Christians don't typically need to hear [the Gospel message](jesus-gospel.md) every week.
+- Experienced Christians don't typically need to hear [the Gospel message](https://theologos.site/gospel/) every week.
 - Large-scale discipleship reaches more people, but the lack of feedback won't give any necessary context.
 - Test the quality of the message by how much [direct study of Scripture](bible-study.md) the preacher uses in the worship service.
 
@@ -119,7 +119,7 @@ One of the best forms of worship comes through giving.
 Large churches are often easier to attend, but tend to be impersonal.
 
 - Their worship services are frequently a performance, where members have limited involvement.
-- The main service is usually structured to include an entertaining and shallow [Gospel presentation](jesus-gospel.md) to nonbelievers.
+- The main service is usually structured to include an entertaining and shallow [Gospel presentation](https://theologos.site/gospel/) to nonbelievers.
 - The downside of the main service is that you can easily stay anonymous for the entire performance.
 - Instead of *only* attending the larger congregation, find connections with others in small groups or ministries.
 

@@ -22,7 +22,7 @@ However, across a few thousand years, the Church *has* had some good ideas.
 - Those ideas may or may not be good for your [culture](people-culture.md), and they're not necessary to run a church.
 - The things you pick-and-choose should conform to [how that congregation is gifted](spiritual-gifts.md) and [how God designed them](identity.md).
 
-While [Christian rituals](mgmt-church-worship-rituals.md) are *very* heavily inspired by Jewish and pagan tradition, the [redemption in Christ](jesus-gospel.md) makes the entire experience direct into a different form towards the [unknown](unknown.md).
+While [Christian rituals](mgmt-church-worship-rituals.md) are *very* heavily inspired by Jewish and pagan tradition, the [redemption in Christ](https://theologos.site/gospel/) makes the entire experience direct into a different form towards the [unknown](unknown.md).
 
 - Further, *how* the rituals are performed can create a dramatic difference in how the congregants interpret it.
 
@@ -78,7 +78,7 @@ A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scri
   - Most churches that baptize will stress the significance of baptism.
 - The water can be by immersion or sprinkling.
   - Immersion symbolizes the complete end of one's [identity](identity.md) as part of this world.
-  - However, sprinkling can imply that we're imperfect and will still sin (and therefore need [God's continued work](jesus-gospel.md)).
+  - However, sprinkling can imply that we're imperfect and will still sin (and therefore need [God's continued work](https://theologos.site/gospel/)).
 
 C: Baptism is at birth (often with circumcision), or possibly during Confirmation.
 
@@ -283,7 +283,7 @@ Routine
 - C: Greeting and Blessing
   - A formal blessing that typically refers to the [Trinity](god.md).
 - P: Altar Call
-  - A meditative song with a simple [Gospel presentation](jesus-gospel.md) that petitions non-believers to follow Jesus.
+  - A meditative song with a simple [Gospel presentation](https://theologos.site/gospel/) that petitions non-believers to follow Jesus.
 - Dismissal
   - C: the leader says a Latin translation of "Go, it is the dismissal".
   - P: the leader formally concludes the meeting, often with a [future call to action](marketing.md) tied to the Homily.

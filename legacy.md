@@ -65,6 +65,6 @@ Even if we could theoretically add something [meaningful](meaning.md) to the uni
 
 ## Worthwhile
 
-We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](jesus-gospel.md) heavily steeped in [religious bias](religion.md).
+We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](https://theologos.site/gospel/) heavily steeped in [religious bias](religion.md).
 
 Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](people-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](imagination.md) to the degree it affects the present.

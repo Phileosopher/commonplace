@@ -70,7 +70,7 @@ Pick your [dates](relationships-dating.md) carefully.
 Don't [idolize](addiction-substances.md) romantic relationships.
 
 - The idea of a "soul mate" or "the one" is a non-biblical Hindu belief.
-- [Share the Gospel](jesus-gospel.md) with unbelievers, but avoid "missionary dating" to prevent sexual immorality or an unequal marriage ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
+- [Share the Gospel](https://theologos.site/gospel/) with unbelievers, but avoid "missionary dating" to prevent sexual immorality or an unequal marriage ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
 - Give everything to God, including *all* hopes of having a relationship with anyone.
 
 God *will* make it clear, whether by your observation, intuition, or others, about anyone who is a risk to your spiritual state ([1 Corinthians 14:33](https://biblehub.com/1_corinthians/14-33.htm)).
@@ -100,7 +100,7 @@ Until they are adults, a parent's most important ministry is their children.
 
 - No matter who you are, your role as a parent is to [lead them](spiritual-discipleship.md) through example, because they see your *entire* life.
 - They will have many years to observe whether you have a genuine love for Christ.
-- When they're ready, you're responsible to [lead them to Christ](jesus-gospel.md).
+- When they're ready, you're responsible to [lead them to Christ](https://theologos.site/gospel/).
 - In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) ([1 Timothy 3:4-5](https://biblehub.com/1_timothy/3.htm)).
 
 Teach children about God.

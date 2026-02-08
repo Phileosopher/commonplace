@@ -1,5 +1,5 @@
 
-# Proverbs
+# Proverbs commentary
 
 ## 16
 

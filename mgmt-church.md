@@ -5,7 +5,7 @@ God may call you to lead in professional ministry.
 
 The qualifications of elders are *more* severe than general [spiritual mentors](spiritual-discipleship.md) (i.e., "deacons") ([Titus 1:5-9](https://biblehub.com/titus/1.htm), [1 Timothy 3:1-13](https://biblehub.com/1_timothy/3.htm)):
 
-- Has a clean [public reputation](people-image-why.md) through established [habits](spiritual-exercises.md) that reinforce their [beliefs](jesus-gospel.md).
+- Has a clean [public reputation](people-image-why.md) through established [habits](spiritual-exercises.md) that reinforce their [beliefs](https://theologos.site/gospel/).
 - Clear with their [words](language.md), and not [dishonest](people-lying.md).
 - Faithful to their [spouse](relationships-marriage.md), with their spouse also having a clean public reputation.
 - Their [children](parenting-3_teenagers.md) are also believers that haven't been accused of being wasteful or rebellious.
@@ -132,7 +132,7 @@ Keep your long-term focus on the large-scale impact on the Body of Christ.
 
 A spiritual leader's job has 4 components:
 
-1. [Advertise](evangelism.md) and teach [the message of Christ](jesus-gospel.md).
+1. [Advertise](evangelism.md) and teach [the message of Christ](https://theologos.site/gospel/).
 2. Connect people with other people in the global Church.
 3. Foster a culture for believers to [Love each other](people-love.md) inside the group as [spiritual family](people-family.md).
 4. Perform [discipleship](spiritual-discipleship.md) of their own.

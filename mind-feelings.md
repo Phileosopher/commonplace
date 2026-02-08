@@ -174,4 +174,4 @@ If we've suffered [trauma](hardship-ptsd.md), we must work through all the feeli
 
 APPLICATION: The long-term adverse feelings of depression, shame, and anxiety aren't *bad* to have, but they represent a long-term viewpoint that needs changing. This requires us to constrain our adverse emotional states to a minimum possible range to make room for other emotional experiences.
 
-In fact, the only way to reliably work through mental illness is through [devotion to God](god.md), and most effectively within the humility [mandated by Christianity](jesus-gospel.md).
+In fact, the only way to reliably work through mental illness is through [devotion to God](god.md), and most effectively within the humility [mandated by Christianity](https://theologos.site/gospel/).

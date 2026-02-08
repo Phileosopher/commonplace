@@ -12,7 +12,7 @@ These patterns, very likely, were God's work in binding the entire [Bible](bible
 Absolutely *everything* in the Bible is centered on [God](god.md) in some way:
 
 - In the Hebrew Scriptures, it's the God of Israel.
-- In the New Testament, it's Jesus, who is represented as [God coming to earth and dying](jesus-gospel.md).
+- In the New Testament, it's Jesus, who is represented as [God coming to earth and dying](https://theologos.site/gospel/).
 
 ## Physical Representations
 

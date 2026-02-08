@@ -36,7 +36,7 @@ APPLICATION: All human purpose is driven by love of something, so all people are
 
 We can't directly control what we love. We can only make [decisions](people-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](people-conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
-APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
+APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](https://theologos.site/gospel/)).
 
 The opposite of love is apathy, not hate. Hate is just as impassioned as love, but is a love for something opposed to the hated thing. Apathy, however, has no sentiment because it's the entire lack of [emotional](mind-feelings.md) association.
 

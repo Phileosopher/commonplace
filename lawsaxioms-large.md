@@ -93,6 +93,8 @@ Reilly's Law of Retail Gravitation - People tend to consume at the largest suppl
 
 Rothbard's Law - Everyone has a specific, specialized weakness.
 
+Zapruder Effect - With enough people witnessing an event, there is enough information and talent to reconstitute the truth of the event from many angles.
+
 ## Large projects
 
 Akin's Seventh Law of Spacecraft Design - At the beginning of an effort, the person who most wants to lead the project will be the least qualified for it.

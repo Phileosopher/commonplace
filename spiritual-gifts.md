@@ -166,7 +166,7 @@ A group of believers is eating at a table when someone drops an expensive gravy 
 
 God built motivational gifts into a person's [spirit](humanity-christian.md).
 
-- Non-believers can still demonstrate some of those traits (a bit like moving a corpse) when provoked by human goodness, but the Holy Spirit activates them when people [come to Christ](jesus-gospel.md).
+- Non-believers can still demonstrate some of those traits (a bit like moving a corpse) when provoked by human goodness, but the Holy Spirit activates them when people [come to Christ](https://theologos.site/gospel/).
 - People develop motivational gifts through the Holy Spirit's power, which comes from spiritual maturity in [daily living](spiritual-exercises.md).
 
 Motivational gifts are driven by our [decisions](people-decisions.md), which create the unfortunate result that believers are capable of directing their gifts *away* from [God's guidance](god-will.md) and toward selfish ambitions.

@@ -408,7 +408,7 @@ Christians are *not* responsible for involving themselves with the politics of I
 - Irrespective of [dispensational theology](people-conflicts-christian-why.md), the Jews certainly *were* God's people, but that doesn't mean Christians have *any* superiority over them in God's sight ([Romans 11](https://biblehub.com/romans/11.htm)).
   - Unlike [Christians' predictions of Jesus returning](jesus-returns.md), the Jewish majority is secular, and they've adopted a strange adaptation of the covenant with Noah ([Genesis 9:1-17](https://biblehub.com/genesis/9.htm)) called [Noahidism](https://en.wikipedia.org/wiki/Noahidism), which essentially takes on a much more [political approach](power-types.md) revolving around the Third Temple.
   - God is faithful enough that the Hebrew people will never be fully destroyed ([Revelation 7](https://biblehub.com/revelation/7.htm)), but that says *nothing* directly about the political entity we call Israel today.
-- Jesus [loves every single human being](jesus-gospel.md), which includes all Jews *and* all Arabs, and Christians are responsible to love their neighbors and enemies in the same way.
+- Jesus [loves every single human being](https://theologos.site/gospel/), which includes all Jews *and* all Arabs, and Christians are responsible to love their neighbors and enemies in the same way.
 
 If we take it literally, the Bible makes it very clear from [Ezekiel 45-48](https://biblehub.com/ezekiel/48.htm) about [what Israel will look like](history-israel-future.jpg).
 

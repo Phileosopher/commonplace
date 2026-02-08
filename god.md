@@ -25,7 +25,7 @@ God is unlike any other being in our experience:
 We [understand](understanding.md) God through theology (i.e., "knowledge of God").
 
 - God has an eternal and infinite nature, so we need a decent capacity for [philosophy](philosophy.md) to [understand His viewpoint](https://theologos.site/god-sight/).
-  - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](jesus-gospel.md) ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm))
+  - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](https://theologos.site/gospel/) ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm))
 - We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life ([1 Corinthians 13:9-12](https://biblehub.com/1_corinthians/13.htm)).
 - Thankfully, there are no intellectual barriers to [loving people](church-serve.md), meaning everyone can act in awareness of God.
 
@@ -209,7 +209,7 @@ Like the Trinity, it's difficult for us to understand how Jesus is 100% man and 
 - He couldn't have legitimately died if He wasn't a man.
 - *We're* obviously not God, so it requires more [philosophical](philosophy.md) [analysis](logic.md).
 
-[Jesus' *entire message*](jesus-gospel.md) requires people to take His divine humanity as a literal concept, so Christians in this life will always be stuck with a paradox of [understanding](understanding.md).
+[Jesus' *entire message*](https://theologos.site/gospel/) requires people to take His divine humanity as a literal concept, so Christians in this life will always be stuck with a paradox of [understanding](understanding.md).
 
 There is no direct significance about the name "Jesus" or "Jesus Christ".
 

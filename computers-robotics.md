@@ -27,6 +27,8 @@ However, robots are *terrible* at some tasks:
 
 Because of the excess of details and the *very* specific use cases of robotic machinery, the most prevalent use of robotics is in tedious factory and warehouse work. In fact, some warehouses are almost *entirely* automated. [Machine learning](computers-ai-ml.md) also won't likely expand their potential implementations much.
 
+The inherent hubris of the tech industry, mixed with [their delusions about computers](https://gainedin.site/machines/) means they tend to [market](marketing.md) human-like things that robots can do (e.g., playing with [a pet](fun-pets.md)) and forget that the whole purpose of robots is to replace the most tedious and dumb parts of our lives (e.g., vacuuming).
+
 ## Dumb machines
 
 Computers are the world's fastest idiots, and robots demonstrate it by understanding specificities without grasping anything in the realm of general principle or intuition.

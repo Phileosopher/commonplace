@@ -46,7 +46,7 @@ Removing sin doesn't matter for salvation from hell:
 - We can never purify ourselves to a place of worthiness, and are under judgment from the moment we've first sinned.
 - In fact, sins run so deep that only God's divine intervention can stop us from committing them.
 
-If you confess your sins and ask for forgiveness, [Jesus will forgive you](jesus-gospel.md)
+If you confess your sins and ask for forgiveness, [Jesus will forgive you](https://theologos.site/gospel/)
 
 - [1 John 1:9](https://biblehub.com/1_john/1-9.htm)
 
@@ -195,7 +195,7 @@ Watch for legalism in yourself and others:
 - A cold, distant, judgmental, or unloving attitude toward others
 - Stronger emphasis on holiness than grace
 - Emphasizing a specific translation of the Bible (often the King James Version)
-- A cynical attitude about [sharing the gospel](jesus-gospel.md) and [serving God](spiritual-exercises.md)
+- A cynical attitude about [sharing the gospel](https://theologos.site/gospel/) and [serving God](spiritual-exercises.md)
 - Culturally identifying with old popular culture and "the older and better way of things"
 - Self-unaware hypocrisy of judging others without accepting potential wrongdoing
 

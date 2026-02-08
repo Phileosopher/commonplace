@@ -319,7 +319,7 @@ The paper the Bible is written on doesn't have any inherent divinity, nor its an
 
 ## Take the Bible for what it is
 
-To put it simply, the Bible is a long-standing collection of books written by God that preaches a [message of salvation](jesus-gospel.md) through faith in Jesus.
+To put it simply, the Bible is a long-standing collection of books written by God that preaches a [message of salvation](https://theologos.site/gospel/) through faith in Jesus.
 
 There are several ways to take the Bible:
 

@@ -191,7 +191,7 @@ The **Traditional** model starts in a house, then transitions to a building.
 The **Launch Big** model is a high-cost growth strategy that reflects secular non-profit organizations.
 
 - It has a consumerist, atheist angle that attracts non-believers.
-- Launch Big churches give a verbal [Gospel](jesus-gospel.md) presentation that can potentially reach tens of thousands of people at once.
+- Launch Big churches give a verbal [Gospel](https://theologos.site/gospel/) presentation that can potentially reach tens of thousands of people at once.
 - Though it can grow enormous, it doesn't usually send many missionaries or church plants.
 - They often create a secular culture and usually have weak [discipleship](spiritual-discipleship.md).
 

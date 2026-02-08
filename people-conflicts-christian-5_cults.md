@@ -24,7 +24,7 @@ Cults often borrow directly from the Bible.
 Most people, including Christians, can be close-minded, but cult members can take it to extremes.
 
 - Cult members are told to accept everything at face value, with stern rebukes if they ask questions for [further understanding](understanding.md).
-- To accept the doctrine of a cult, cult members have to personally reject [the simple Gospel message](jesus-gospel.md), meaning they often have a personal antagonism against Christianity in general.
+- To accept the doctrine of a cult, cult members have to personally reject [the simple Gospel message](https://theologos.site/gospel/), meaning they often have a personal antagonism against Christianity in general.
 - A cult may have *many* well-reasoned components, but the core doctrine's [logic](logic.md) breaks down compared to Christianity.
 
 Many religious cults end up believing a few additional things alongside their heresies:

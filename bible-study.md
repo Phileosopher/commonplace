@@ -158,6 +158,6 @@ F. Explore unconventional ways to read the Bible:
 
 ## You'll never get to the end of it
 
-Bear in mind that no matter how deep you dig, you're expanding complexities regarding the profound [Gospel message](jesus-gospel.md) and God's guidance on [how to live our lives](spiritual-exercises.md).
+Bear in mind that no matter how deep you dig, you're expanding complexities regarding the profound [Gospel message](https://theologos.site/gospel/) and God's guidance on [how to live our lives](spiritual-exercises.md).
 
 - God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) ([1 Corinthians  1:26-29](https://biblehub.com/1_corinthians/1.htm)).

@@ -150,7 +150,7 @@ C. Closely consider how the Satan is attacking:
   - [Personality](personality.md) disorders (e.g., multiple personalities, schizophrenic behavior).
   - Sickness or affliction that coincides with spiritual or good things.
   - Hearing voices that oppose God or His values.
-  - An obsession with committing the "unpardonable sin" in [Mark 3:29](https://biblehub.com/mark/3-29.htm) (blaspheming the Holy Spirit is simply rejecting the Holy Spirit's work [that comes through Christ](jesus-gospel.md)).
+  - An obsession with committing the "unpardonable sin" in [Mark 3:29](https://biblehub.com/mark/3-29.htm) (blaspheming the Holy Spirit is simply rejecting the Holy Spirit's work [that comes through Christ](https://theologos.site/gospel/)).
 
 D. Test the spirits:
 

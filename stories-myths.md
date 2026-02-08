@@ -136,7 +136,7 @@ Multiple characters represent man's relationship with the divine or desired rela
 
 - Thor is a central character because lightning is a major convergence between celestial objects and earth.
 - Anytime there's a religious prophet (e.g., Muhammad, Joseph Smith), they are either the messenger or pathway to mankind's meaning and salvation for after this life.
-- The farthest version of this is [Jesus](jesus-gospel.md), representing God directly with a personal relationship with humanity.
+- The farthest version of this is [Jesus](https://theologos.site/gospel/), representing God directly with a personal relationship with humanity.
 
 ## Specific Stories
 

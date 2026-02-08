@@ -138,3 +138,11 @@ Search for something: CTRL+F
 Many keyboards come with special shortcut buttons, which can often be remapped with downloaded drivers.
 
 An underlined letter in a menu selection is usually connected to a keyboard shortcut.
+
+## More information
+
+[Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179)
+
+[Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
+
+[Mac keyboard shortcuts](https://support.apple.com/en-us/102650)

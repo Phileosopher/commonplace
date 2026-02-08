@@ -44,7 +44,7 @@ Do you have chronic long-term problems?
 - You might have [money issues](money-1_why.md), [relationship](relationships-why.md)/[family](parenting-children.md) problems, or are constantly pushing up against [deadlines](success-4_routine.md).
 - You usually can't fix most issues with others, but can often minimize their effects.
 - You *can*, however, usually fix or minimize most personal issues like money or time management as far as your willpower can persist.
-- Whatever your situation, you'll only succeed if you submit it all to [a power greater than yourself](jesus-gospel.md).
+- Whatever your situation, you'll only succeed if you submit it all to [a power greater than yourself](https://theologos.site/gospel/).
 
 Have you experienced any major life changes?
 

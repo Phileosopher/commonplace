@@ -1,7 +1,10 @@
 
 # List of commonly abused substances
 
-NOTE: This are only a set of typical examples. Absolutely *any* substance or lifestyle can become [an addiction](addiction.md) if someone doesn't pay attention to [diminishing returns](money-economics.md).
+NOTE: This are only a set of typical examples.
+
+- Absolutely *any* substance or lifestyle can become [an addiction](addiction.md) if someone doesn't pay attention to [diminishing returns](money-economics.md).
+- From another angle, all addictive substances are simply a form of codependency.
 
 ## Drugs and mind-altering substances
 

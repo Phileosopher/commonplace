@@ -35,7 +35,7 @@ Narcissism has two major forms and some sub-forms:
 - Covert/introverted narcissism is a public image of shame and self-hatred, but there is a feeling of entitlement they secretly believe they deserve.
   - Malignant narcissism captures more antisocial behaviors such as sadism, revenge, aggression, and paranoia.
 
-Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](religion.md) could likely be defined as highly influential narcissists.
+Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](religion.md) are highly influential narcissists.
 
 ## How they think
 

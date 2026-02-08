@@ -1,5 +1,5 @@
 
-# Jonah
+# Jonah commentary
 
 Jonah was, effectively, the worst prophet ever.
 

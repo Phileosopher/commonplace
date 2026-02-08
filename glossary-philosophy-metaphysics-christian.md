@@ -212,7 +212,7 @@ Christianity is essentially and indisputably a subset of **theism**.
   - **Young Earth creationism** is the only logical conclusion without incorporating [modern scientific trends](science.md).
     - It's even possible to believe the more radical **Omphalos creationism**.
   - **Theistic evolution** (and its neighbors **Old Earth creationism** and **gap creationism**) requires merging with Darwinism, and is difficult to logically validate.
-- While **philosophical theism** is *possible* for a Christian, it's a very shaky ground because it implies that one can find salvation without God's divine revelation (which [simply can't happen by merely observing nature](jesus-gospel.md)).
+- While **philosophical theism** is *possible* for a Christian, it's a very shaky ground because it implies that one can find salvation without God's divine revelation (which [simply can't happen by merely observing nature](https://theologos.site/gospel/)).
 - **Polytheism** is not true, at least with respect to the universe's creation.
   - However, it *is* possible to fully believe **monolatry** as a Christian, though **henotheism** (and its subset **kathenotheism**) go too far with the idea.
 - **Substantialism** is also possible, since God made everything.

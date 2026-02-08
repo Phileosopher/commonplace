@@ -23,7 +23,7 @@ To Christians, a heresy is a belief that deviates from a dominant Christian [the
 
 Within reason, someone can still believe heresies and have a [relationship with Jesus](identity.md).
 
-- Their salvation is certainly crippled, but can still exist as long as they [understand](understanding.md) and believe [the basics of the Gospel](jesus-gospel.md).
+- Their salvation is certainly crippled, but can still exist as long as they [understand](understanding.md) and believe [the basics of the Gospel](https://theologos.site/gospel/).
 - Cults, however, can easily arise in the absence of the solid theological foundation of good Christian doctrine.
 - Sometimes heresies are completely unintentional, and generations of mindless ritual can often create [institutional misunderstanding](mgmt-badsystems.md).
 - As long as the [leadership](mgmt-church.md) of that group still defers their authority to Christ and what is true, that group is never at risk of becoming a cult.
@@ -57,7 +57,7 @@ Second Work Theology - Salvation can be enhanced through the baptism of the Holy
 
 - Jesus died for our sins as a first work, but then God gave a second work in [Acts 2](https://biblehub.com/acts/2.htm) as the baptism of the Holy Spirit baptism that gives [spiritual gifts](spiritual-gifts.md) (most notably speaking in tongues).
   - Most of their experience can be traced to autonomous sensory meridian response (ASMR), which is a low-grade euphoria mixed with a tingling sensation.
-  - Scripture doesn't emphasize the idea of "repent, then receive the Spirit's baptism" as much as "[repent, and accept Jesus as your Lord and Savior](jesus-gospel.md)".
+  - Scripture doesn't emphasize the idea of "repent, then receive the Spirit's baptism" as much as "[repent, and accept Jesus as your Lord and Savior](https://theologos.site/gospel/)".
 - Second-work believers (typically associated with Pentecostalism) typically advance beliefs in extra-biblical revelation and dismiss portions of the Bible that clarify spiritual gifts (e.g., [1 Corinthians 12-14](https://biblehub.com/1_corinthians/12.htm)).
   - Paul addressed the Corinthian Church as if they had universally accepted the Holy Spirit's baptism ([1 Corinthians 12:1](https://biblehub.com/1_corinthians/12-1.htm)) but called them spiritually immature in the same letter ([1 Corinthians 3:2](https://biblehub.com/1_corinthians/3-2.htm)).
 - Aspiring for extra holiness or righteousness is a waste of time ([Colossians 2:20-22](https://biblehub.com/colossians/2.htm)).
@@ -72,7 +72,7 @@ Church services with drug use:
 
 Philosophical vagueness about aspects of Christianity:
 
-- [The Gospel](jesus-gospel.md) is a simple concept, designed to be absurdly simple to understand.
+- [The Gospel](https://theologos.site/gospel/) is a simple concept, designed to be absurdly simple to understand.
   - God Himself has many mysteries, but He's also *very* accessible ([James 1:5](https://biblehub.com/james/1-5.htm)).
 - Smart people are often foolish with their intellect and tend to clutter up doctrinal matters that would otherwise be easily [understood](understanding.md) ([Romans 1:22](https://biblehub.com/romans/1-22.htm)).
   - *Highly* intelligent people have a tendency to heavily parse [language](language.md) to the point that it's difficult to precisely follow them, and readers or listeners can often get lost.
@@ -105,7 +105,7 @@ Losing one's salvation:
   - These people have somehow followed Jesus but now have absolutely no redemption available to them.
 - Once Saved, Always Saved - Any person who decides to follow Jesus will prevail to the end.
   - The people stated in the above passages, however, *do* have significant experience with God working.
-- Most Christian culture tends to set the goals for salvation wrongly by implying it happens at the [conversion to Christ](jesus-gospel.md).
+- Most Christian culture tends to set the goals for salvation wrongly by implying it happens at the [conversion to Christ](https://theologos.site/gospel/).
   - Protestants are the worst at it, since they tend to treat a conversion to Christ as the only sufficiently necessary task.
   - Catholics, however, have a similar attitude about being confirmed and baptized, with the extra-biblical theology of Purgatory and indulgences often mixed in.
   - They're not considering that starting the spiritual journey isn't *nearly* as important as finishing it ([2 Timothy 4:7-8](https://biblehub.com/2_timothy/4.htm)).

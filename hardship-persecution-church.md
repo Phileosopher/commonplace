@@ -58,7 +58,7 @@ First, every society is relatively open to missionaries and new Christians:
 
 Eventually, the Satan will inspire people to reject Christians:
 
-- That society will reject [Jesus' message](jesus-gospel.md), not the Christians themselves, but they'll usually [imply](people-image-distortion.md) the Christians deserved it.
+- That society will reject [Jesus' message](https://theologos.site/gospel/), not the Christians themselves, but they'll usually [imply](people-image-distortion.md) the Christians deserved it.
 - It'll be publicly shameful (maybe even [taboo](morality-taboo.md)) to profess a faith in Jesus.
 - Since the Satan is constantly [rearranging his strategy](spiritual-warfare-tricks.md), this will *never* show predictably, and the culture defines how it'll express itself.
 
@@ -113,7 +113,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 - If the [Bible](bible.md) has faults, there's no substance to disprove the assertions of the world.
 - Without the God of the Bible, [God](god.md) is dead.
-- If the story of Adam and Eve and our [fallen state](morality-sins.md) isn't strictly true, [the Gospel](jesus-gospel.md) and Jesus aren't necessary.
+- If the story of Adam and Eve and our [fallen state](morality-sins.md) isn't strictly true, [the Gospel](https://theologos.site/gospel/) and Jesus aren't necessary.
 - If there's no reason we have to believe core Christian doctrinal ideas (e.g., Jesus was born from a virgin) then God isn't necessarily capable of causing dramatic miracles.
 - And, without the Bible, God's plans for Israel aren't clear, and there's nothing for Christians to [hope for](jesus-returns.md).
 
@@ -253,7 +253,7 @@ Stay in constant connection with other believers as much as you can:
 
 Prison, of any sort, is a new ministry opportunity:
 
-- Your fellow cellmates are literally a "captive" audience to the [Gospel](jesus-gospel.md) message.
+- Your fellow cellmates are literally a "captive" audience to the [Gospel](https://theologos.site/gospel/) message.
 - Solitary confinement can become a blessing in [spiritual meditation](awareness.md) and [prayer](spiritual-exercises-prayer.md) if you use the time correctly.
 - Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](imagination.md) any farther out than that.
 

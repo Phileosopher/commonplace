@@ -43,7 +43,7 @@ The more we do, the less we're aware.
 Gaining self-awareness can often be lonely.
 
 - Nobody else sees or knows our thoughts, no matter how well we [communicate them](language-speaking.md).
-- Barring [a higher power](religion-answers.md) directly speaking with us (such as [God](jesus-gospel.md)), we often sense nothing.
+- Barring [a higher power](religion-answers.md) directly speaking with us (such as [God](https://theologos.site/gospel/)), we often sense nothing.
 
 ## Language
 

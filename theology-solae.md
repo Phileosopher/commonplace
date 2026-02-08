@@ -1,7 +1,7 @@
 
 # The 5 Solae of Protestantism
 
-The origins of Christianity came with quite a few conflicts. One of the first came through the disagreements and opinions between the Jews who made [Jesus as their Messiah](jesus-gospel.md) (with many Hebrew customs associated with Him), and the Gentiles who had none of those sorts of customs.
+The origins of Christianity came with quite a few conflicts. One of the first came through the disagreements and opinions between the Jews who made [Jesus as their Messiah](https://theologos.site/gospel/) (with many Hebrew customs associated with Him), and the Gentiles who had none of those sorts of customs.
 
 In the same way as the Gentiles destroyed the institution of the Jews (and eventually created the Catholic Church), Protestants destroyed the institution of the Catholic Church by not honoring the sorts of customs the Catholics honored.
 
@@ -29,7 +29,7 @@ Naturally, this was offensive to the then-only Church at the time. This caused m
 
 So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-3_near.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
 
-It's worth noting the Solae are *not* matters of [salvation](jesus-gospel.md), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/luke/22.htm)).
+It's worth noting the Solae are *not* matters of [salvation](https://theologos.site/gospel/), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/luke/22.htm)).
 
 ## A. Sola Scriptura
 
@@ -96,7 +96,7 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 
 Trusting God takes *far* more work than simply believing in Him, and requires [taking action](people-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
 
-The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](jesus-gospel.md) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
+The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](https://theologos.site/gospel/) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
 
 The Sola Fide battle came largely out of an archaic conflict around the Catholic Church's [politics](politics-systems.md). Failing the Church's standards will *not* banish us to hell, and nearly every Christian would agree with that now: God's standards are where we find or lose salvation.
 

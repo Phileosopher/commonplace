@@ -69,7 +69,7 @@ Starting around the formation of the Catholic Church, philosophers like St. Augu
 
 This exploration used the building blocks toward each individual's [religious experience](religion.md) and the development of the [soul](humanity.md), so it maintained its lifestyle components but localized them toward a more specific purpose.
 
-But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](humanity-christian.md) should *really* read them, but it's only marginally useful to the rest of [our fallen world](jesus-gospel.md).
+But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](humanity-christian.md) should *really* read them, but it's only marginally useful to the rest of [our fallen world](https://theologos.site/gospel/).
 
 ### III. Political (Age of Reason ~1500-1800)
 

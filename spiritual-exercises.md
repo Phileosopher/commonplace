@@ -90,12 +90,12 @@ To the degree that you need it, have an opening routine when you speak with God:
    - It should be a routine that clarifies that you want what God wants more than yourself.
    - The purpose for this is for *you* to get in the right frame of mind, so it can be whatever rituals work for you.
 4. Consider the sin nature we are all in when you speak with Him.
-   - This doesn't necessarily mean you must dwell on it (since Jesus certainly doesn't), but pay attention to any sins still in your life that [He died on the cross for](jesus-gospel.md).
+   - This doesn't necessarily mean you must dwell on it (since Jesus certainly doesn't), but pay attention to any sins still in your life that [He died on the cross for](https://theologos.site/gospel/).
    - If you *didn't* have Jesus' sacrifice, God sees that the things you have done justify eternal punishment in hell ([Luke 18](https://biblehub.com/luke/18.htm)).
 
 Ask God to do something humanly impossible to advance the kingdom of Heaven.
 
-Pray deeply for someone's [salvation](jesus-gospel.md) or spiritual well-being.
+Pray deeply for someone's [salvation](https://theologos.site/gospel/) or spiritual well-being.
 
 If you wish, consider reading or gleaning inspiration from a prayer book or missal.
 
