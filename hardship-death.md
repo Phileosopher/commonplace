@@ -23,6 +23,21 @@ The best thing to do is find a [religion](religion.md) that conforms closest to 
 
 - Be prepared, in proportion to your intelligence, for the quest for truth to lead to an existential crisis.
 - In some ways, the easiest solution is to believe agnosticism or atheism, but neither of them give any legitimate [hope](trust.md), which [we need to endure anything](hardship.md).
+- As a [bias](mind-bias.md), this author is convinced of [Christianity](https://thoelogos.site/gospel/).
+
+## The experience of death
+
+Death is when a primary organ fails on a living being without a suitable replacement.
+
+- Some physiological triggers have proven the basis for a few common sensations from death:
+  - Peace and painlessness: endorphins released during trauma
+  - Replaying life experiences or seeing it flash before one's eyes: temporal lobe seizures
+  - Floating out of the body: lack of oxygen to the brain (anoxia)
+    - Bright light: rush of blood to the brain from regaining consciousness after anoxia
+  - Moving through a passageway or tunnel: subconscious memories of the birth experience
+  - Near-death images of heaven: the mind building pictures from previous religious education
+- At the same time, it paints evidence of something else beyond this life:
+  - Out-of-body experiences: the mind and brain may be able to exist separately
 
 ## How we grieve
 

@@ -183,6 +183,24 @@ APPLICATION: Analysis can be fun! If you can [understand](understanding.md) othe
 
 Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
 
+## Hegelian dialectic
+
+One particular form of analysis we tend to operate under is through finding a logical flow through examining contradictions:
+
+1. Statement A has been proven to be true.
+2. Statement B has been proven to be true.
+3. Statement A and Statement B contradict each other.
+
+This is an [intuitive](mind-feelings.md) deduction, and we resolve it by synthesizing the two:
+
+- Statement A is true in X case, and Statement B is true in Y case.
+
+However, this approach has constraints:
+
+1. It creates complexity which may be incorrect.
+2. The approach presumes an individual even has the capacity to discern anything close to truth through logical reasoning.
+3. It doesn't address the risks that arise from delusions and mis-[remembering](mind-memory.md).
+
 ## Sensibility
 
 While everyone is logical, everyone is *not* sensible. To have "sense" is to understand a broader intuitive context that clarifies whether logic conforms to truth. The following statement is 100% logical, but complete nonsense:

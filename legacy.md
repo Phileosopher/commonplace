@@ -5,6 +5,8 @@ Near the end of our [life cycles](maturity.md), we'll attempt [meaning](meaning.
 
 We typically want to [create](creations.md) something that transcends our existence. In a sense, it's an attempt to "live longer" by [being important](meaning.md) beyond when our body ceases to function.
 
+APPLICATION: We don't like [dying](hardship-death.md), and work very hard to avoid it, which includes deluding ourselves about our [influence](power-influence.md) on others.
+
 Generally, the signal for this is when our bodies and minds start to fade. Once we notice our [power](power.md) has diminished, we start reassessing the kinds of decisions we had made.
 
 APPLICATION: If people lived only a few short decades longer (e.g., to age 150), they'd accomplish about 10 times the [results](results.md). If there's any truth to [ancient religious texts](religion.md) implying that people lived hundreds of years, they'd have needed dramatically less time to accomplish *anything*.
