@@ -1,5 +1,5 @@
 
-# How to test the spirits
+# How to test spirits
 
 From our perspective, both God and the devil live in [The Unknown](unknown.md).
 
