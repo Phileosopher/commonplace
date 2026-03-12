@@ -88,7 +88,7 @@ We create symbols from literally everything, so we have no other way to understa
 
 APPLICATION: Don't fall for symbolic association enough that your ability to perceive the [facts](reality.md) of anything becomes clouded.
 
-Beyond [religious iconography](religion.md), everyone creates symbolic associations and patterns *somewhere*. These represent through [emotional associations](mind-feelings.md) to unspoken [subconscious](unknown.md) things, and [trigger](habits.md) at weird and [unpredictable](imagination.md) times.
+Beyond [religious iconography](religion.md), everyone creates symbolic associations and patterns *somewhere*. These represent through [emotional associations](mind-feelings.md) to unspoken [subconscious](unknown.md) things, and [trigger](habits.md) at weird and [unpredictable](people-imagination.md) times.
 
 Most efforts to distort appearances are [designed](purpose.md) to rebuild the symbols to fit a different [story](stories-why.md), and it usually comes through a few possible methods:
 
@@ -96,7 +96,7 @@ Most efforts to distort appearances are [designed](purpose.md) to rebuild the sy
 2. Portray true ideas as if they were untrue.
 3. Rearrange the symbols to portray a different [feeling](mind-feelings.md) behind them.
 
-APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, but it drifts into [evil](morality-evil.md) when it's evoking enough [feelings](mind-feelings.md) to make people change their [decision](people-decisions.md) they otherwise would have made while they were [perfectly rational](logic.md).
+APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, but it drifts into [evil](morality-evil.md) when it's evoking enough [feelings](mind-feelings.md) to make people change their [decision](mind-decisions.md) they otherwise would have made while they were [perfectly rational](logic.md).
 
 FURTHER APPLICATION: Don't waste too much time trying to [influence](influence.md) others' ideas without approaching the symbols. Typically, you'll need symbols of your own to make a difference.
 

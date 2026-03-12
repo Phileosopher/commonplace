@@ -29,4 +29,4 @@ Anecdotally, many believers have sinned spectacularly (e.g., the apostle Paul) a
 
 However, this is usually insufficient for most people.
 
-- The *real* question they're asking is [how God's will applies to *their* decision-making](people-decisions-christian.md).
+- The *real* question they're asking is [how God's will applies to *their* decision-making](mind-decisions-christian.md).

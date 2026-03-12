@@ -8,7 +8,7 @@ Philosophy is, by its etymology, the love of wisdom. However, that isn't necessa
 Every discipline is configured to address a specific portion of living:
 
 - [Accountants](money-accounting.md) keep financial records.
-- Farmers and ranchers tend to [nature](reality.md) to create [food](agriculture.md) for others.
+- Farmers and ranchers tend to [nature](reality.md) to create [food](livestock.md) for others.
 - [Attorneys](lawsaxioms-legal.md) maintain and enforce [boundaries](people-boundaries-why.md) and [potential conflicts](people-conflicts.md) between people.
 - [Computer programmers](computers-software.md) create [logic](logic.md)-based [automation](computers-programming.md).
 - Mechanics and technicians [repair](https://adequate.life/fix/) various types of [technology](technology.md).
@@ -19,7 +19,7 @@ Though those roles seem dramatically different, they have *many* abstract compon
 
 As we keep [creating](creations.md), we naturally form [abstract values](values.md). These values compile into broad-scoping things that run farther than what we presently [understand](understanding.md).
 
-We subconsciously, automatically abstract things because it's [easier](people-decisions.md) in the long term. Keeping [triggers](habits.md) and [symbols](symbols.md) in our conscious instead of step-by-step procedures or mental frameworks is quicker and more efficient to find in our minds. Professionals in *any* career do it naturally, and this most visibly represents as their ideas will naturally gravitate around trade-specific [language](language.md).
+We subconsciously, automatically abstract things because it's [easier](mind-decisions.md) in the long term. Keeping [triggers](habits.md) and [symbols](symbols.md) in our conscious instead of step-by-step procedures or mental frameworks is quicker and more efficient to find in our minds. Professionals in *any* career do it naturally, and this most visibly represents as their ideas will naturally gravitate around trade-specific [language](language.md).
 
 These abstractions are *far* more [useful](purpose.md) than just that line of work. Those values can apply to many, many elements across many disciplines. That is, in effect, what philosophy is:
 
@@ -28,7 +28,7 @@ These abstractions are *far* more [useful](purpose.md) than just that line of wo
 - [Art and criticism](values-quality.md) are dividing and reproducing [beauty](mind-creativity.md).
 - Physical labor is manipulating [metaphysics](reality.md).
 - Engineering is making knowable [metaphysics](reality.md) observable and reproducible.
-- [Friendships](people-friends.md), [social trends](trends.md), and [politics](groups-large.md) are the connections between minds.
+- [Friendships](people-friends.md), [social trends](people-trends.md), and [politics](groups-large.md) are the connections between minds.
 
 ### Abstracted
 
@@ -43,7 +43,7 @@ The reason they're so impractical is *not* in their uselessness, but in the utte
 - An impractical statement:
   - "We know that 'greenness' is represented within our mind, and the repetitive nature of our ability to observe can give us enough certainty about the world around us, which means that, when we observe grass, our mind interprets it as green."
 
-Impracticals take tremendous work to drag them back down to daily life. Most philosophy fans imply it's a necessary "soft skill" for living [the good life](goodlife.md), but that's only proportional to the reader's genetic and trained intelligence.
+Impracticals take tremendous work to drag them back down to daily life. Most philosophy fans imply it's a necessary "soft skill" for living [the good life](people-goodlife.md), but that's only proportional to the reader's genetic and trained intelligence.
 
 Contrary to their opinion, these impracticals are only valuable if they're theoretically useful somewhere. If practical understanding refutes an impractical later (e.g., a categorization doesn't conform with scientific discoveries 100 years later), then it wasn't a particularly reliable or worthwhile belief.
 
@@ -57,7 +57,7 @@ To consider the scope of philosophers' writings, most Western philosophy can bro
 
 Most of the philosophers of antiquity (e.g., Socrates, Plato, Aristotle) were Greek. They [logically](logic.md) broke apart the components of [reality](reality.md) to ask what things are.
 
-At the time, this was a relatively new idea, at least in its scope. They were asking [meaningful](meaning.md) questions that forced anyone from any discipline to stop and more wholly consider who they were and what they were doing. They also tried expressing the experience as a [lifestyle](goodlife.md) that extended out of their [thinking and understanding](understanding.md).
+At the time, this was a relatively new idea, at least in its scope. They were asking [meaningful](meaning.md) questions that forced anyone from any discipline to stop and more wholly consider who they were and what they were doing. They also tried expressing the experience as a [lifestyle](people-goodlife.md) that extended out of their [thinking and understanding](understanding.md).
 
 The lifestyle of a philosopher was often treated as an important basis for their understanding, and some philosophy students were never taught philosophy until age 30. This value has a bit of [upper-class privilege](classes.md), but has merit by avoiding [youthful arguing](maturity.md).
 
@@ -65,15 +65,15 @@ In effect, they created many "building blocks" to describe what reality is. Ever
 
 ### II. Religious (Medieval Era ~300-~1300)
 
-Starting around the formation of the Catholic Church, philosophers like St. Augustine, St. Anselm, and St. Thomas Aquinas asked questions designed to expand our understanding of [our relationship with God](god.md).
+Starting around the formation of the Catholic Church, philosophers like St. Augustine, St. Anselm, and St. Thomas Aquinas asked questions designed to expand our understanding of [our relationship with God](theology-god.md).
 
 This exploration used the building blocks toward each individual's [religious experience](religion.md) and the development of the [soul](humanity.md), so it maintained its lifestyle components but localized them toward a more specific purpose.
 
-But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](humanity-christian.md) should *really* read them, but it's only marginally useful to the rest of [our fallen world](https://theologos.site/gospel/).
+But, it has limited use because not everyone *cares* to develop their relationship with [the unknown](unknown.md). Anyone who is a [Christian](theology-godandman-humanity.md) should *really* read them, but it's only marginally useful to the rest of [our fallen world](https://theologos.site/gospel/).
 
 ### III. Political (Age of Reason ~1500-1800)
 
-During the [Protestant Reformation](history-church.md) and transition into a secularized society, philosophers like Locke, Voltaire, and Hobbes went *back* to the building blocks of antiquity. This time, they asked how to [live well](goodlife.md) individually, but expanded the question to broadly include how we should live in [groups](groups-member.md).
+During the [Protestant Reformation](history-church.md) and transition into a secularized society, philosophers like Locke, Voltaire, and Hobbes went *back* to the building blocks of antiquity. This time, they asked how to [live well](people-goodlife.md) individually, but expanded the question to broadly include how we should live in [groups](groups-member.md).
 
 These explorations diverge from daily life and ask how we can build society into a better place to live. The idea wasn't as a passive exploration of what existed, but as an attempt to *command* reality. They've somewhat succeeded in creating non-religious government, though that's very debatable [depending on who you ask](politics-conservativeliberal.md).
 
@@ -85,13 +85,24 @@ The major downside of their approach, though is that they were obsessed with usi
 
 At some point, philosophers had broadly explored almost everything about how to live and be, but many of them weren't finding the [purpose](purpose.md) they were seeking without the support of a [religious framework](religion.md). Most of the modern philosophers like Hume, Kant, and Kierkegaard were seeking absolute [understanding](understanding.md) without any foundation based on [things we're unable to know](unknown.md).
 
-In the process of trying to find something that requires zero [uncertainty](trust.md) to know, post-modern philosophers dismantled the building blocks of antiquity. They separated [perception](people-image-why.md) from [reality](reality.md), [morality](morality.md) from [perception](people-image-why.md), and [morality](morality.md) from [reality](reality.md).
+For most of written history, we have assumed people have an inherent glory or beauty. This was a starting point. In the process of trying to find something that requires zero [uncertainty](trust.md) to know, post-modern philosophers dismantled that beauty and focused instead of what could be proven.
 
-To the casual reader seeking [meaning](meaning.md) through post-modern writing, the results of this effot makes very little sense. They spent lots of time telling us how to *not* live, but they give very little guidance on how *to* live. Some philosophers (e.g., Nietzsche, Mill) imply we must find [purpose](purpose.md) in a purposeless philosophical void, but they don't give practical reasons why that's even worth trying.
+This deconstruction began a downward spiral into *many* highly parsed topics:
+
+- They separated [perception](people-image-why.md) from [reality](reality.md).
+- They defined [morality](morality.md) as separate from [perception](people-image-why.md).
+- With all that reasoning, [morality](morality.md) itself eventually split from [reality](reality.md).
+
+The focus of their writing removes any of humanity's relationship with [deity](religion.md). Instead, it focuses on mankind as a failing, insignificant, pathetic creature. Then, their assertions state how humanity can find [meaning](meaning.md) and hope in spite of these ugly truths.
+
+To the casual reader seeking [meaning](meaning.md) through post-modern writing, the results of this effort is both nonsense and depressing.
+
+- They spent lots of time telling us how to *not* live, but they give very little guidance on how *to* live.
+- Some philosophers (e.g., Nietzsche, Mill) imply we must find [purpose](purpose.md) in a purposeless philosophical void, but they don't give practical reasons why that's even worth trying.
 
 The trouble with this thinking, though, is that it only deconstructs. In postmodern thought, anything absolute, no matter how [good or right](morality.md), will be dismantled into vagueness and nothingness. Its natural consequence will always strip [meaning](meaning.md) from whatever it touches.
 
-APPLICATION: To find out if a philosophy *actually* works to live a [good life](goodlife.md), observe that philosopher's personal life, which is relatively easy to do across the [lens of history](stories-storytellers.md).
+APPLICATION: To find out if a philosophy *actually* works to live a [good life](people-goodlife.md), observe that philosopher's personal life, which is relatively easy to do across the [lens of history](stories-storytellers.md).
 
 Whether it was through finding [happiness](mind-feelings-happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](understanding.md) in the first place.
 
@@ -99,7 +110,16 @@ Ironically, the modern philosophers were utterly dismayed at their discovery of 
 
 APPLICATION: Any philosopher who says we can't know anything, then continues to assert themselves without explaining how knowing that gives any [meaning](meaning.md), has [logically](logic.md) invalidated themselves and isn't worth listening to. This also broadly applies to people in *many* domains (e.g., [science](science.md), [economics](money-economics.md)) who believe in [statistics](math-stat.md) but claim that correlation doesn't connect with causation.
 
-The only way out of it is to accept Lewis' Tao: that [universals](humanity-universals.md) non-negotiably exist, no matter how much we [say](language.md) they don't.
+Further, the philosophers who were *not* dismayed at the tragic predicament of an uncaring universe were likely [narcissists](mind-neurodivergence-clusterb-narcissist.md) who seemed to find sadistic pleasure in harming as many souls as possible.
+
+The only way out of it is to accept Lewis' Tao: that [universals](humanity-universals.md) non-negotiably exist, no matter how much we [say](language.md) they don't. Some examples:
+
+1. [God's existence is certain](god-proof.md).
+2. Given God's existence, humanity has value through God [value system](values.md).
+3. Given humanity's value, something is wrong with humanity.
+4. Given something is wrong with humanity and humanity's value, humanity is worth fixing.
+
+Broader than that, humanity's very design was for a relationship with God, but [that's a different topic](theology-godandman-humanity.md).
 
 ## Hubris
 
@@ -113,14 +133,14 @@ Most average readers can't really tell *why* they don't understand or find an in
 
 When anyone can more easily understand 2,000-year-old Greek philosophers translated to English than most modern philosophical works, the modern philosophers didn't [understand](understanding.md) their ideas as much as the Greek philosophers.
 
-One of the reasons for this change is the lack of any "philosophical common sense". This type of common sense can best be defined as "the sense one acquires over the course of [living well](goodlife.md) through the pursuit of [goodness](morality.md)". Modern philosophy doesn't concern itself with adding [value](values-quality.md) to any presumption of "well", and instead deconstructs every component of every aspect of living, and the reader is left worse off than when they started.
+One of the reasons for this change is the lack of any "philosophical common sense". This type of common sense can best be defined as "the sense one acquires over the course of [living well](people-goodlife.md) through the pursuit of [goodness](morality.md)". Modern philosophy doesn't concern itself with adding [value](values-quality.md) to any presumption of "well", and instead deconstructs every component of every aspect of living, and the reader is left worse off than when they started.
 
-Philosophy's [culture](people-culture.md) has become a [trended](trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
+Philosophy's [culture](people-culture.md) has become a [trended](people-trends.md)-out [creative](creations.md) domain that has run its course, a bit like the silent film or poetry.
 
 - At one time poetry originally included performance and music, and modern poetry recitals are dead by comparison to where poetry truly lives on with "rock concerts" and "rap music".
-- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](lawsaxioms-legal.md), [social sciences](science-social.md), and [computer science](computers.md).
+- At one time philosophy was originally meant to understand [reality](reality.md) to [live better](people-goodlife.md), and modern philosophy papers are dead by comparison to where philosophy truly lives on within [math](math.md), [law](lawsaxioms-legal.md), [social sciences](science-social.md), and [computer science](computers.md).
 
-The [philosophy educators](education.md) never kept up with the change in [trends](trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](people-image-why.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
+The [philosophy educators](education.md) never kept up with the change in [trends](people-trends.md), though, so they spend more time [creating](creations.md) [useless](purpose.md) documents to build [new](people-image-why.md) thoughts than legitimately answering questions everyone keeps asking. Their greatest hypocrisy is through praising others who say they're seeking truth, while condemning most of the people who say they've found it.
 
 APPLICATION: Most philosophy (as well as [theology](theology.md)) [educators](education.md) teach *about* philosophy, but fail to teach *with* philosophy or *how* to use philosophy.
 
@@ -140,18 +160,18 @@ On the other hand, philosophical understanding makes *many* other aspects of lif
 - Easier to detect [patterns](symbols.md) across unrelated elements.
 - After some practice, broadly applied ideas are *much* easier to [learn](understanding.md) and (more importantly) unlearn.
 - To stay precise to the truth, learning things requires *far* less mental rework later.
-- [Decisions](people-decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
+- [Decisions](mind-decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
 
 APPLICATION: Philosophy has gotten a bad reputation because of [educators](education.md) who fail to see how the average person is *not* seeing its use. However, average people will naturally build philosophies through living their lives.
 
-Some philosophy is *absolutely* necessary for [the good life](goodlife.md), but only as needed. Very often, people call philosophy by other names like "common sense", "critical thinking", and "sensibility".
+Some philosophy is *absolutely* necessary for [the good life](people-goodlife.md), but only as needed. Very often, people call philosophy by other names like "common sense", "critical thinking", and "sensibility".
 
-APPLICATION: The time and place for philosophy is when it builds into [the good life](goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](understanding.md).
+APPLICATION: The time and place for philosophy is when it builds into [the good life](people-goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](understanding.md).
 
 Be careful who you read, though. The [culture](people-culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
 1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
-2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](understanding.md) and applying [perfect living](goodlife.md).
+2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](understanding.md) and applying [perfect living](people-goodlife.md).
 3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
 APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories-why.md) or a few years of life experience.

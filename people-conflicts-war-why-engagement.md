@@ -4,11 +4,11 @@
 Unless the conflict is relatively short, there's a general calculus that approximates how well each group will do:
 
 1. Take everything that can be [purposed](purpose.md) toward destroying the enemy.
-2. Distribute it among the people who are both [willing](people-decisions.md) and able to fight.
+2. Distribute it among the people who are both [willing](mind-decisions.md) and able to fight.
 3. Add in the long-term capacity for other people who are both willing and able to make supplies for the fighters (e.g., food, more weapons).
 4. Diminish the capacity by the risks toward non-fighters from opponents (i.e., [logistical supply chain](logistics.md) disruption).
 5. Multiply or divide by prevailing [philosophical values](values.md) that can affect everyone:
-   - Belief in the importance of the conflict (as opposed to doing it out of [potential](imagination.md) personal gain).
+   - Belief in the importance of the conflict (as opposed to doing it out of [potential](people-imagination.md) personal gain).
    - Brutality toward enemies (as opposed to the polar opposite of taking prisoners and treating them well).
    - The relative [education](understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](results.md) as it scales).
    - Any sense of ownership by the groups over what they're trying to take or defend.
@@ -35,7 +35,7 @@ Larger and more powerful groups tend to assume they have an automatic victory be
 
 The large group will act quickly, but always slower than the smaller group, since they have more to move and often less of a [compulsion to survive](mind-feelings-fear.md).
 
-The larger group's effort will be focused on preserving resources as much as possible. The leadership will constantly [calculate](people-decisions.md) if the effort is worth the cost, since they're usually free to back out any time.
+The larger group's effort will be focused on preserving resources as much as possible. The leadership will constantly [calculate](mind-decisions.md) if the effort is worth the cost, since they're usually free to back out any time.
 
 Because of large groups' size, they're a bit more impersonal, and individuals must trust strangers they don't know directly much more frequently. These two factors together mean distrust within a group is disastrous to the harmony of the group proportionally to its size.
 
@@ -48,7 +48,7 @@ Smaller groups, if [motivated](purpose.md) by an [influential](influence.md) lea
 When that group is significantly smaller, their only reliable tactics come through [fear](mind-feelings-fear.md) (e.g., terrorism and guerrilla warfare) and [creatively](mind-creativity.md) using their environment (i.e., tactics).
 
 - Both of these techniques can often give the means for a group to confront another group 10 times larger than they are.
-- Except for ideology (e.g., desired [political system](politics-systems.md)), they'll often gain more favor simply because they're smaller and people like underdog [stories](stories.md).
+- Except for ideology (e.g., desired [political system](politics-systems.md)), they'll often gain more favor simply because they're smaller and people like underdog [stories](stories-why.md).
 
 Often, the smaller group will try to gain support from another group or increase their members. They'll [show stories](stories-storytellers.md) of suffering, destruction, oppression, and devastation, from the larger group and will usually portray themselves as [innocent](morality-justice.md) [victims](hardship-ptsd.md). Sometimes, they'll merely appeal to [morality](morality.md).
 
@@ -57,12 +57,12 @@ Their victory will [appear](people-image-why.md) decisive and usually is, though
 - A superior tactician to the larger group who can more efficiently use everything.
 - Superior [technology](technology.md) to the larger group that magnifies group members' combat effectiveness.
 - Time to spread out the engagement, which give more room to strategically think and wear down the larger group's morale and resources.
-- Enough of a [social revolution](trends.md) to empower the smaller group where the larger group is [afraid](mind-feelings-fear.md) of them.
+- Enough of a [social revolution](people-trends.md) to empower the smaller group where the larger group is [afraid](mind-feelings-fear.md) of them.
 
 However, victory for the smaller group is far more complex than the opportunistic goals of their larger opponent:
 
 - The "[win conditions](math-gametheory.md)" for the smaller group are far more specific, and are sometimes simply survival.
-- They've put up enough of a fight that the larger group doesn't [anticipate](imagination.md) their victory is worth the cost. This can be either in lost resources or bad [image](people-image-why.md).
+- They've put up enough of a fight that the larger group doesn't [anticipate](people-imagination.md) their victory is worth the cost. This can be either in lost resources or bad [image](people-image-why.md).
 - The larger group has lost so much to the conflict that they can't continue it.
 - The smaller group has lost everything the larger group would have [wanted](purpose.md).
 - Another group has distracted the large group. This often arises from that third group seizing the opportunity to take that large group's [power](power.md) while they're distracted.
@@ -79,7 +79,7 @@ A close battle between two [large groups](groups-large.md) quickly becomes extre
 
 - Military and communications [technology](technology.md) developments.
 - Recruiting *any* other groups. This can include pretty much anyone who sympathizes with the battling group, and can be public or private.
-- [Manipulating their image](people-image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](people-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
+- [Manipulating their image](people-image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](mind-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
 - Most war strategies involve cutting off resources from their opponent. This can include core needs (e.g., food, water), military supplies (e.g., guns, ammunition), or communications technology. At the farthest, a group can destroy its *own* supplies so the enemy doesn't receive it (scorched earth policy).
   - Each unit, squadron, battalion, and legion must be as self-reliant as possible to ensure they're safe from any disruptions.
 - Diplomatically ending any further conflict is the greatest net win for everyone, but it's not always in the interests of a group that's significantly more powerful.

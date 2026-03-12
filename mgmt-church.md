@@ -1,7 +1,17 @@
 
 # How to manage a ministry
 
-God may call you to lead in professional ministry.
+God designed us to have Him as our leader.
+
+- Our fallen state means that God is not physically present to lead us, which means we must have someone as an interim leader.
+- While He is certainly still *in control*, people need someone to look up to and embolden them.
+
+In the absence of God, a leader's role is both symbolic and practical.
+
+- The skills for a leader (e.g., [organization](organization.md), [conflict management](people-conflicts.md)) are therefore only part of the situation.
+- The other, equally significant portion is the [image](people-image.md) you're conveying.
+
+## God sets high standards for leaders
 
 The qualifications of elders are *more* severe than general [spiritual mentors](spiritual-discipleship.md) (i.e., "deacons") ([Titus 1:5-9](https://biblehub.com/titus/1.htm), [1 Timothy 3:1-13](https://biblehub.com/1_timothy/3.htm)):
 
@@ -16,12 +26,13 @@ The qualifications of elders are *more* severe than general [spiritual mentors](
 
 No matter *what* you do, prioritize your [family](people-family.md), especially your [wife](relationships-marriage.md) and [children](parenting-children.md).
 
+- While this applies to all leadership, spiritual leaders in particular must start with their home.
 - Your children will see your private life more than anyone else you lead, and how you treat them is the most controllable thing you can do for your ministry's [legacy](legacy.md).
 - In any ministry, leaders' wives are the most vulnerable because others expect her performance, but don't tend to give her much support.
 
-Don't assume a larger leadership role until you have experience [teaching and mentoring](spiritual-discipleship.md) ([1 Timothy 3:2](https://biblehub.com/1_timothy/3-2.htm)).
-
 ## God should want it
+
+God may call you to lead in professional ministry.
 
 Carefully evaluate why you want to engage in public ministry.
 
@@ -33,14 +44,20 @@ Carefully evaluate why you want to engage in public ministry.
   - [The devil's deceptions](spiritual-warfare-tricks.md)
 - Make 100% sure it's God's guidance, since it takes His name in vain to start something in His name ([Exodus 20:7](https://biblehub.com/exodus/20-7.htm)).
 - There are a *lot* of bad reasons to start (or continue) a public ministry:
-  - Projected hatred of anyone due to their [sins](morality-sins.md).
-  - Desire to create [social change](trends.md) to fight [injustice](morality-justice.md) driven by *any* revenge.
+  - Projected hatred of anyone due to their [sins](theology-sins.md).
+  - Desire to create [social change](people-trends.md) to fight [injustice](morality-justice.md) driven by *any* revenge.
   - Frustration at present Christian leaders who [lead believers wrongly](people-conflicts-christian-why.md).
   - [Feedback](power-influence.md) from others for doing well in a ministry setting.
 - The reason should *always* be a straightforward desire to [follow God's will](god-will.md) and expand His Kingdom ([Matthew 6:10](https://biblehub.com/matthew/6-10.htm)).
   - Ideas from Him are good, honorable, fair, pure, lovely, and reputable ([Philippians 4:8-9](https://biblehub.com/philippians/4.htm)).
   - God doesn't speak vaguely, and He *will* confirm it's His idea ([1 Corinthians 14:33](https://biblehub.com/1_corinthians/14-33.htm)).
   - When you've been walking with Him for a while, [ideas you arrive at yourself](mind-creativity.md) are often directly inspired by Him.
+
+There are some reasons you should *never* consider public ministry:
+
+- Your [career](jobs-1_why.md) has taken a downward turn and you see an opportunity to transfer your secular skills in [management](mgmt-1_why.md) or [communication](language-speaking.md).
+- You witness a [narcissist](mind-neurodivergence-clusterb-narcissist.md) of some form in a leadership role and want to make a change.
+- A power vacuum has emerged, adn other people are elevating you to that position of power without consulting God first.
 
 Before taking the plunge, have the wisdom to count the cost.
 
@@ -52,8 +69,9 @@ Before taking the plunge, have the wisdom to count the cost.
   4. Consider whom to share your need with (asking money from others is an act of faith).
   5. Give the rest you [can't determine or don't know](unknown.md) to God.
 - To serve the spiritual needs of others, you should have your own spiritual state sorted out.
-  - While you don't need to [have your shadow completely integrated](personality.md), you should be at least *somewhat* aware of every aspect of your emotional state.
+  - While you don't need to [have your shadow completely integrated](people-personality.md), you should be at least *somewhat* aware of every aspect of your emotional state.
 - God uses our inertia far more than our inaction, so look at what you can start now.
+- Don't assume a larger leadership role until you have other general experience [teaching and mentoring](spiritual-discipleship.md) ([1 Timothy 3:2](https://biblehub.com/1_timothy/3-2.htm)).
 
 Your financial lifestyle will change, but if it's His plan He'll give [meaning](meaning.md) through that change.
 
@@ -63,7 +81,7 @@ Your financial lifestyle will change, but if it's His plan He'll give [meaning](
 
 Never live far above *or* below the lifestyles of the people you serve and lead.
 
-- Your car, house, and lifestyle are tools to assist with [guiding people to Jesus](evangelism.md).
+- Your car, house, and lifestyle are tools to assist with [guiding people to Jesus](spiritual-exercises-evangelism.md).
 - Do *not* compare yourself to others.
 - Learn satisfaction with Jesus ruling your finances.
 
@@ -80,7 +98,7 @@ At its core, a [church](church.md) is simply a gathering of believers ([Matthew 
   - Christian music concerts
   - Parachurch and ecumenical organizations
 - To put it another way, a Christ-like church is simply *any* gathering of people who have performed [Christ-like habits](spiritual-exercises.md) long enough that their shared [habits](habits.md) have [fostered](power-influence.md) a [culture](people-culture.md) to arise from it.
-  - That Christian culture will be the hybrid of their culture of origin mixed with a sincere [Christian identity](identity.md).
+  - That Christian culture will be the hybrid of their culture of origin mixed with a sincere [Christian identity](people-identity.md).
   - The conventional term for "church" is more accurately a ["*worship-based* church"](mgmt-church-worship.md).
 
 You don't necessarily have to plant a "church", and it may be wiser to create a [parachurch organization](church-parachurch.md) if you see needs that serve churches directly.
@@ -119,7 +137,7 @@ Don't over-reach your [specialization](jobs-specialization.md).
   2. Brainstorm a [creative](mind-creativity-how.md) way around it (e.g., avoiding a [specific project](mgmt-2_projects.md) entirely that's not mission-critical).
   3. If nobody can help, ask Him directly to grant you the power to perform the tasks you're trying to accomplish ([1 Corinthians 14:1](https://biblehub.com/1_corinthians/14-1.htm)).
 
-Even when the [results](results.md) fail your [expectations](imagination.md), trust He will provide an increase when you need it.
+Even when the [results](results.md) fail your [expectations](people-imagination.md), trust He will provide an increase when you need it.
 
 - Your entire reason for working a ministry is for Jesus to be at the center of it.
 - God wants your ministry to fit a *specific* group of people He planned out in advance, so don't concern yourself as much with results as what He wants.
@@ -132,7 +150,7 @@ Keep your long-term focus on the large-scale impact on the Body of Christ.
 
 A spiritual leader's job has 4 components:
 
-1. [Advertise](evangelism.md) and teach [the message of Christ](https://theologos.site/gospel/).
+1. [Advertise](spiritual-exercises-evangelism.md) and teach [the message of Christ](https://theologos.site/gospel/).
 2. Connect people with other people in the global Church.
 3. Foster a culture for believers to [Love each other](people-love.md) inside the group as [spiritual family](people-family.md).
 4. Perform [discipleship](spiritual-discipleship.md) of their own.
@@ -170,7 +188,7 @@ Play [political chess](groups-large.md) *very* sparingly.
 Learn [effective communication](language-speaking.md).
 
 - Your messages must share *both* God's love and His hatred of sin.
-- Loving people starts with [respecting them](people-boundaries.md) and [their decisions](people-decisions.md).
+- Loving people starts with [respecting them](people-boundaries.md) and [their decisions](mind-decisions.md).
 - Most ministers must use [public speaking](language-speaking.md) and [conflict management](people-conflicts.md) skills multiple times every week.
 - Expect *lots* of [written correspondence](language-writing.md).
 
@@ -214,7 +232,7 @@ A. Wage earners constitute the majority of a ministry's strength.
   - Tell them to ask God themselves about meeting the available needs.
   - Describe the events as they actually are right now, without embellishment.
   - Clearly articulate [what you want to see](power-influence.md), and how their donation is a means to that end.
-- *Never* appeal to [the sin condition](morality-sins.md) through greed, fear, or donors' pride.
+- *Never* appeal to [the sin condition](theology-sins.md) through greed, fear, or donors' pride.
   - If you want to give them recognition, do *not* announce it to them beforehand.
 - Appealing to guilt or pity *does* get money, but it invalidates any blessings God could have given them.
   - Further, while they'll contribute more, they'll grow to resent your ministry when they learn [healthy boundaries](people-boundaries-why.md) later.
@@ -230,7 +248,7 @@ B. Missionaries/ministers are financed, at least partly, by others' donations.
 
 C. The poor/needy will *always* be with us ([Matthew 26:11](https://biblehub.com/matthew/26-11.htm)).
 
-- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](results.md) of their [decisions](people-decisions.md).
+- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](results.md) of their [decisions](mind-decisions.md).
   - How you treat them shows your priorities ([Matthew 25:31-40](https://biblehub.com/matthew/25.htm)).
   - While helping the poor against your better judgment can be challenging, God will still honor it.
 - They need love and nurturing care, even if they brought the entire experience on themselves.
@@ -281,7 +299,7 @@ Stay [legally safe](legal-safety.md) to make [persecution](hardship-persecution-
 - Unless they're asking for the names of each member, register and file your organization if the government expects it.
 - Avoid *any* potentially questionable practices that don't honor the spirit of the law (e.g., tax evasion with cash receipts).
   - Remember that God rules us all, and He will repay any mistreatment of you if *you* were doing the right thing ([1 Peter 2:11-19](https://biblehub.com/1_peter/2.htm)).
-- Members of your organization *might* commit [sins](morality-sins.md) that are [culturally taboo](morality-taboo.md), so clearly establish a non-disparagement clause on any [contracts](people-contracts.md) with workers.
+- Members of your organization *might* commit [sins](theology-sins.md) that are [culturally taboo](morality-taboo.md), so clearly establish a non-disparagement clause on any [contracts](people-contracts.md) with workers.
 - Avoid complete submission to the authorities, since we still must use wisdom against [evil](morality-evil.md) ([Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
 
 Running a ministry requires the same [logistics](logistics.md) as most other [large organizations](groups-large.md):
@@ -297,9 +315,9 @@ Consider [creative](mind-creativity.md) ways to raise more funds:
 - Directly specify the exact needs of congregants and how much money they need.
 - Make an auction that blocks a hymn for a year.
 
-### Distributing content
+### Distributing content and information
 
-Distribute all public content with [open licensing](legal-ip.md).
+Distribute all public content with [open licensing](https://theologos.site/ip/).
 
 - There is absolutely zero spiritual benefit in maintaining full copyright on everything you create.
   - If you wish to make money on a creative product, make that explicitly clear and avoid letting the for-profit motives interfere with your ministry's purposes.
@@ -326,7 +344,7 @@ Healthy [conflict management](people-conflicts-christian-why.md) means you may h
 
 - [Disciplinary action in the Church](people-conflicts-christian-why.md) is very clear, and leads to 4 possible outcomes ([Matthew 18:15-20](https://biblehub.com/matthew/18.htm)):
   1. Reconciliation among everyone in spirit and truth, which should be the ultimate aim ([John 4:24](https://biblehub.com/john/4-24.htm)).
-  2. The leader is ejected/defrocked from their formal ministry status, which strengthens the Body through a public lesson on how [sinful behaviors](morality-sins.md) and [vices](addiction-substances.md) will destroy us.
+  2. The leader is ejected/defrocked from their formal ministry status, which strengthens the Body through a public lesson on how [sinful behaviors](theology-sins.md) and [vices](addiction-substances.md) will destroy us.
   3. The leader is ejected/defrocked, but they *didn't* sin, meaning 50-70% of the group will leave with that leader.
   4. The situation was complicated, and the leader has gained allies, and 10-30% of the group will leave or back away from involvement in the church.
 - If the heresy is bad enough, know ahead of time how to deal with it, and be prepared to create [a church split](history-church.md) if necessary.
@@ -418,7 +436,7 @@ Typically, once any ministry grows beyond a few dozen people, it'll need some by
 A ministry's [formalized documentation](people-contracts.md) represents its [moral stance](morality.md).
 
 - Take your rules *very* seriously, since God will hold you accountable for it ([Luke 17:1-2](https://biblehub.com/luke/17.htm)).
-- *Never* accept or condone [sins](morality-sins.md), and *never* condemn loving actions or [Christlike behavior](spiritual-exercises.md).
+- *Never* accept or condone [sins](theology-sins.md), and *never* condemn loving actions or [Christlike behavior](spiritual-exercises.md).
 
 ## Leaving leadership
 
@@ -426,7 +444,7 @@ At some point, you *will* need to step down from leadership:
 
 1. At some point, your particular [gifting](spiritual-gifts.md) may have run its course.
 2. It's not uncommon to experience burnout, and it will become a spiritual risk to pursue farther ([2 Timothy 2:3-7](https://biblehub.com/2_timothy/2.htm)).
-3. An unknown [sin](morality-sins.md) (or its consequence) may have corrupted any further good you can perform in that role.
+3. An unknown [sin](theology-sins.md) (or its consequence) may have corrupted any further good you can perform in that role.
 4. The ministry may have grown far enough that it needs to diverge into specific [purposes](purpose.md).
 5. Eventually, you will be [too old](legacy.md) to maintain the ministry as needed.
 

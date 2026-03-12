@@ -158,7 +158,7 @@ Many, *many* veterans of the tech industry have the same general attitude:
 Of course, if you don't like working with tech, there are *many* in-demand trades elsewhere, and [it's worth exploring](jobs-1_why.md) if you're curious.
 
 - The tech industry's [youthful nature](https://trendless.tech/trends/) means the positivity people have for working on their role is *vastly* [inflated](people-image-distortion.md).
-- If you enjoy the work, even if it doesn't pay that well, you're [living a better life](goodlife.md) than someone enduring an awful job.
+- If you enjoy the work, even if it doesn't pay that well, you're [living a better life](people-goodlife.md) than someone enduring an awful job.
 
 ## More information
 

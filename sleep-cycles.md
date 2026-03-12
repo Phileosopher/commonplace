@@ -10,7 +10,7 @@ Monophasic:
 
 Segmented sleep (Biphasic):
 
-- The most common pattern across [the lens of history](trends.md).
+- The most common pattern across [the lens of history](people-trends.md).
   1. 13-15 hours awake
   2. 3-4 hours asleep
   3. 2 hours awake

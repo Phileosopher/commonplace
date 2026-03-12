@@ -15,7 +15,7 @@ All investment returns only come from 3 possible sources:
 3. Lending with [interest](money-2_debt.md) or rent - payment to use something
 4. Flipping - providing dividends, price appreciation, or interest/rent to others by using their money
 
-Generally, every trading system goes through a [trend](trends.md) of growth, but becomes less effective over time.
+Generally, every trading system goes through a [trend](people-trends.md) of growth, but becomes less effective over time.
 
 - Frequently, investors will jump in the middle to create additional products that reduce earnings while also mitigating risk.
 - At some point, the system will start lagging on its exchange/market updates.
@@ -149,7 +149,7 @@ Business startup (building) - building a [profitable business](entrepreneur-1_wh
   - You need marketable skills instead of severe risk tolerance.
 - Cons
   - Long hours, low-paid for a long time.
-  - Must have the right [personality](personality.md) to handle the rejection and hard work.
+  - Must have the right [personality](people-personality.md) to handle the rejection and hard work.
 
 ## 2. Price Appreciation
 
@@ -197,7 +197,7 @@ Commodities and futures - literally *anything* mass-produced:
 - Commodity cycles tend to represent themselves in a few patterns:
   - Some are used regularly year-round (e.g., petroleum, timber).
   - Most are seasonal and cycle based on routine needs (e.g., corn, Christmas trees).
-  - Some are based on [trends](trends.md) and buying frenzies (e.g., gold, [tulips at one time](https://en.wikipedia.org/wiki/Tulip_mania)).
+  - Some are based on [trends](people-trends.md) and buying frenzies (e.g., gold, [tulips at one time](https://en.wikipedia.org/wiki/Tulip_mania)).
 
 Stocks (for trading):
 
@@ -283,7 +283,7 @@ Bonds - an organization borrows money, then pays it back after a specified numbe
   - If interest rates drop too much, your bonds may have a call provision and the organization may prepay them.
   - This means you'll have to re-invest in a low-interest environment.
 - Compared to corporate bonds, government bonds are tax-exempt but provide significantly lower returns.
-  - They also give less anxiety, which may be important depending on your [personality](personality.md).
+  - They also give less anxiety, which may be important depending on your [personality](people-personality.md).
 
 Microloans - a mutual fund, but with loans:
 

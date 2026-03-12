@@ -11,7 +11,7 @@ As a structure, logic builds on logic, but [the human condition](humanity.md) re
 
 APPLICATION: Logic is frequently built on [feelings](mind-feelings.md) within our [perception](people-image-why.md), so we must consider *why* we believe things whenever we [disagree](people-conflicts-why.md) with others. Instead of fighting against an outside force, our [largest conflicts](people-conflicts-inner.md) should be in our minds (and typically are anyway).
 
-FURTHER APPLICATION: Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](people-image-why.md).
+FURTHER APPLICATION: Some [philosophers](philosophy.md) and [scientists](science.md) [imagine](people-imagination.md) we can make all things logical or even *deductively* logical with enough thinking or observation, but we can't. We're stuck as [feeling](mind-feelings.md) beings that form those feelings around logic, irrespective of [gender](gender.md), [religious doctrine](religion.md), or [understanding](people-image-why.md).
 
 We infer logic from everything, and everyone naturally forms all their thoughts with some form of logic. However, that logic may not link to reality, for various reasons. But, even when someone isn't sensible, they're still logical upon the framing of thought they've held.
 
@@ -81,7 +81,7 @@ If experience dictates differently than the conclusion, then the logical stateme
 - BUT at B time I remember when NOT A, but X was still true
 - Thus, if A or at B time, then X is true
 
-APPLICATION: [Imagine](imagination.md) daily life without the following inductive logic statements, all which require [trusting](trust.md) unknown things to achieve a habitual benefit:
+APPLICATION: [Imagine](people-imagination.md) daily life without the following inductive logic statements, all which require [trusting](trust.md) unknown things to achieve a habitual benefit:
 
 - "People will drive inside the lines on the road."
 - "My paycheck will come at the end of the month."
@@ -111,7 +111,7 @@ This built-up logic system is immensely helpful because we don't have to think a
 
 ## Input
 
-Contrary to how we may [intuitively](mind-feelings.md) [imagine](imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](people-image-why.md). We first perceive what exists, *then* try to [estimate](imagination.md) what caused that thing.
+Contrary to how we may [intuitively](mind-feelings.md) [imagine](people-imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](people-image-why.md). We first perceive what exists, *then* try to [estimate](people-imagination.md) what caused that thing.
 
 [Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories-why.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](understanding-certainty.md) certain things over others.
 
@@ -154,7 +154,7 @@ At its core, we're forced to [believe](understanding-certainty.md) at least one 
 
 Within reality, negations are largely easier to prove than assertions because it requires less effort. Saying "NOT all of X is Y" only requires finding 1 X that isn't Y, but saying "all of X is Y" requires proving a complete and absolute link between the two.
 
-While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](goodlife.md), but isn't the only tool necessary for healthy [understanding](understanding.md).
+While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](people-goodlife.md), but isn't the only tool necessary for healthy [understanding](understanding.md).
 
 ## Analysis
 
@@ -171,15 +171,15 @@ Great analysis of anything in particular will always include questioning [precon
 
 APPLICATION: To be more logical, think more slowly. Consider all the premises that make the idea 100% true for anyone observing. While an [intuition](mind-feelings.md) grounded on what you're [certain](understanding-certainty.md) of is possible, it requires *lots* of reasoning to [build](creations.md).
 
-With enough good inputs, analysis can be amazingly effective at [predicting reality](imagination.md). By magnifying it with logic [technology](technology.md) (i.e., a [computer](computers.md)), great analysis can be terrifyingly reliable about the approximate likelihood of large-scale [trends](trends.md) (though [not *precisely* accurate](imagination.md)).
+With enough good inputs, analysis can be amazingly effective at [predicting reality](people-imagination.md). By magnifying it with logic [technology](technology.md) (i.e., a [computer](computers.md)), great analysis can be terrifyingly reliable about the approximate likelihood of large-scale [trends](people-trends.md) (though [not *precisely* accurate](people-imagination.md)).
 
-Since we can't gather *all* the inputs, we can never fully [predict the future](imagination.md). There's no way to anticipate things we couldn't have known, so we should only try anticipating if we are [fully certain](understanding-certainty.md) we can do something with it.
+Since we can't gather *all* the inputs, we can never fully [predict the future](people-imagination.md). There's no way to anticipate things we couldn't have known, so we should only try anticipating if we are [fully certain](understanding-certainty.md) we can do something with it.
 
 APPLICATION: Even if you have many qualifiers, you can still find complete certainty in [reality](reality.md) (e.g., "I am completely certain that, assuming the world is not an illusion and that I'm not crazy, I am presently sitting in a chair"). The easiest of these are negations (e.g., "I know I am not a fish").
 
-One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](philosophy-paradoxes.md). By creating [imagined](imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
+One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](philosophy-paradoxes.md). By creating [imagined](people-imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
 
-APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
+APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](people-imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
 
 Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
 
@@ -207,7 +207,7 @@ While everyone is logical, everyone is *not* sensible. To have "sense" is to und
 
 - All Icelanders are professional dancers, and all professional dancers are women, so all Icelanders are women.
 
-APPLICATION: If you disagree with someone, they [understand](understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-boundaries.md), [reputation](people-image-why.md), or [popular opinion](trends.md).
+APPLICATION: If you disagree with someone, they [understand](understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-boundaries.md), [reputation](people-image-why.md), or [popular opinion](people-trends.md).
 
 Most people [understand](understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](education.md) or are mentally unwell).
 
@@ -223,4 +223,4 @@ We can all become sensible by doing the following, but they all require a great 
 
 - Believe the opposite of what you believe, then debate fairly with yourself how you're wrong, both ways.
 - Consider all [perceptions](people-image-why.md) and perceived [facts](reality.md) as simply opinions.
-- [Expect](imagination.md) that everything you believe might be wrong.
+- [Expect](people-imagination.md) that everything you believe might be wrong.

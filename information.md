@@ -34,17 +34,17 @@ Multiple information technologies across history have gotten us here, but the [I
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
 7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
 8. The internet has removed the need for much money to do all of the above, first for writing, then for everything else.
-9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](imagination.md).
+9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](people-imagination.md).
 
 The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
 
 ### The Over-Information Age
 
-In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-cs.md) called "the internet". Once the [trend](trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
+In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-cs.md) called "the internet". Once the [trend](people-trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
 
 By the 2010s, nearly anyone with a portable computer (e.g., a cell phone) and a reliable internet connection had *instant* access to *far* more information than kings had a century ago.
 
-This trend has Balkanized many established, long-standing monoliths of information exchange, leading to their general [obsolescence](trends.md):
+This trend has Balkanized many established, long-standing monoliths of information exchange, leading to their general [obsolescence](people-trends.md):
 
 - Why go to the library when the book is online or on your Kindle? As of now, a library's primary feature is that it's a quiet place, and its digital equivalent is a [DRM](legal-ip.md) enforcement vehicle for publishers.
 - Why ask a friend about their hobby? You can find just as much information on literally *thousands* of hobbies on numerous message boards or online videos.
@@ -84,14 +84,24 @@ Everyone has a limit on how much information they can consume.
 
 - When we reach that limit, we become [distracted](success-4_routine.md), [unhappy](mind-feelings-happiness.md), [unable to retain information](mind-memory.md).
 - Over time, we can adapt that distracted and miserable state into [habitual, mindless autopilot](habits.md).
-- We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](personality.md).
+- We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](people-personality.md).
+
+[Pay attention](awareness.md) to any signs of information [addiction](addiction.md) ("brainrot"):
+
+- Unable to think clearly.
+- Not able to remember the content you've consumed.
+- Idly grabbing your media or mobile device without thinking about it or knowing why you're grabbing it.
+- Unable to focus on one singular task without something else alongside it.
+- Constant need for background noise and unable to handle silence with your own thoughts.
+- Scrolling through content to avoid discomfort (instead of seeking pleasure).
+- No motivation to do anything else.
 
 Being frequently inundated with information is *not* healthy for us:
 
 - We adopt a heavily [biased](mind-bias.md) and judgmental [culture](people-culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
-- Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](trends.md) [language](language.md) for offline use.
+- Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](people-trends.md) [language](language.md) for offline use.
 
-Without [awareness](awareness.md) and making [decisions](people-decisions.md) that enforce limits, we tend to perform "[crash diets](body-diet.md)" of information control:
+Without [awareness](awareness.md) and making [decisions](mind-decisions.md) that enforce limits, we tend to perform "[crash diets](body-diet.md)" of information control:
 
 1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
 2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.
@@ -122,7 +132,7 @@ The fixes can be distilled into a set of questions, which can be asked for every
 9. Does anything else work?
    - If it does, make it a principle.
 
-This information blast [trend](trends.md) will only slow down when two conditions happen at once:
+This information blast [trend](people-trends.md) will only slow down when two conditions happen at once:
 
 1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
 2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.

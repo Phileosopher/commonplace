@@ -24,7 +24,7 @@ If you've worked hard to [build your image](jobs-3_image.md), you should be at l
 
 Even if you hate social interaction, networking isn't particularly difficult:
 
-- Your [personality](personality.md) may mean you *never* like interacting in a group setting, but it's [less trouble](people-3_respect.md) than you're afraid it is.
+- Your [personality](people-personality.md) may mean you *never* like interacting in a group setting, but it's [less trouble](people-3_respect.md) than you're afraid it is.
 - All you need to do is leave a good impression with recruiters and hiring managers.
 - Learn to find common ground and [have fun](fun.md) throughout the networking experience, even if it's uncomfortable.
 

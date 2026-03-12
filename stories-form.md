@@ -1,9 +1,9 @@
 
 # The form of stories
 
-Every story has a main character (protagonist), who always experiences an [inner conflict](people-conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](people-image-why.md) by the [creator](mind-creativity.md). A hero will always [decide](people-decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
+Every story has a main character (protagonist), who always experiences an [inner conflict](people-conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](people-image-why.md) by the [creator](mind-creativity.md). A hero will always [decide](mind-decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
 
-The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](imagination.md), [performing](people-decisions.md), or [experiencing consequences](results.md).
+The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](people-imagination.md), [performing](mind-decisions.md), or [experiencing consequences](results.md).
 
 The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
 
@@ -41,7 +41,7 @@ Often, the main character has [companion characters](people-friends-why.md) who 
 
 By the very end of the exposition, the main character must *always* want something they don't have they sincerely believe can be accomplished by performing a [risk](socialrisk.md).
 
-The starting point has a *massive* impact on the story because it determines the audience's [expectations](imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](people-decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
+The starting point has a *massive* impact on the story because it determines the audience's [expectations](people-imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](mind-decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
 
 ## Transition to middle (antithesis)
 
@@ -51,9 +51,9 @@ The middle of the story is where the character is first exposed to a [conflict](
 - [Another person](groups-member.md) inside the group who dabbles in the group's [taboos](morality-taboo.md), which may include the half-safe friend.
 - An outsider who attacks the group, usually to make [the leader](groups-small.md) feel [fearful](mind-feelings-fear.md).
 
-For whatever reason, the main character desires to interact with this change. Even if it's just to *prevent* change from what they're familiar with, they're still making a [conscious](humanity.md) [decision](people-decisions.md).
+For whatever reason, the main character desires to interact with this change. Even if it's just to *prevent* change from what they're familiar with, they're still making a [conscious](humanity.md) [decision](mind-decisions.md).
 
-The critical moment for the transition is when the main character [expects](imagination.md) a [result](results.md) from their environment. Great stories will either make their efforts absolutely ineffective (proving that they must try harder to [succeed](success-1_why.md)) or far *too* effective (proving that the other extreme is also awful). However, they can *never* stop and return to normal after they've performed the action, or the story won't have any [meaning](meaning.md).
+The critical moment for the transition is when the main character [expects](people-imagination.md) a [result](results.md) from their environment. Great stories will either make their efforts absolutely ineffective (proving that they must try harder to [succeed](success-1_why.md)) or far *too* effective (proving that the other extreme is also awful). However, they can *never* stop and return to normal after they've performed the action, or the story won't have any [meaning](meaning.md).
 
 In an [influential](influence.md) story, the [arguments](logic.md) and [values](values.md) presented within the antithesis will have as much sincerity and clarity as the thesis. This can be *very* difficult for things that may have good aspects because they must persist through much of the story uncontested.
 
@@ -72,7 +72,7 @@ The first change will come from a threshold guardian. They will have to change t
 
 Usually, the main character will interact with a mentor who gives [wisdom](understanding.md) about what to do, a bit like a [parental proxy](people-family.md). However, the mentor can also be [a creative work](creations.md) that [communicates or implies](language.md) the idea.
 
-There will also often be an antagonist the main character is [opposed to](imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
+There will also often be an antagonist the main character is [opposed to](people-imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
 
 Great stories require the challenges for the character to be difficult, and tend to use [changes](people-changes.md) which directly [confront](people-conflicts-inner.md) the main character's [fears](mind-feelings-fear.md).
 
@@ -113,19 +113,19 @@ Often, adding irony to the result will heighten its emotional impact:
 
 - Getting what they [wanted](purpose.md), but too late to have it.
 - Being pushed further and further from a goal, only to find they were led right to it. Or, reaching a goal they unwittingly were trying to run from.
-- Throwing away what they later find critical for their [happiness](goodlife.md).
+- Throwing away what they later find critical for their [happiness](people-goodlife.md).
 - The actions they take to destroy something are precisely what they needed for that thing to destroy them.
 - Coming into possession of something they're certain will make them miserable and does everything possible to get rid of it, to discover it's the cause of their happiness.
 
-The audience will admire characters *much* more for [trying](people-decisions.md) than for [succeeding](results.md).
+The audience will admire characters *much* more for [trying](mind-decisions.md) than for [succeeding](results.md).
 
 There's always a message at the end of the story. The [mood](mind-feelings.md) of the ending determines *everything* about the [values](values.md) the story is [communicating](language.md), and is often magnified by [symbolically](symbols.md) reproducing the beginning of the story with adaptations ("bookends"). It's why the last few minutes of a story, no matter how long, can destroy or redeem it.
 
 APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
 
-When done correctly, the end is the conclusion of a larger story, with a final [image](people-image-why.md) that leaves the audience with a personal [decision](people-decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](goodlife.md) or reject that [perspective](people-image-why.md) outright.
+When done correctly, the end is the conclusion of a larger story, with a final [image](people-image-why.md) that leaves the audience with a personal [decision](mind-decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](people-goodlife.md) or reject that [perspective](people-image-why.md) outright.
 
-APPLICATION: To live a [good life](goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
+APPLICATION: To live a [good life](people-goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
 
 To make a good story, the conclusion must inspire a strong [feeling](mind-feelings.md) (usually [love](people-love.md) but sometimes [fear](mind-feelings-fear.md)) that provokes [action](results.md) in the audience. The only way to accomplish this is through giving an ending they want (to clarify [purpose](purpose.md) to them), but in a way they don't expect (to provoke [trust](understanding-certainty.md) in the [unknown](unknown.md)).
 

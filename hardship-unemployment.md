@@ -6,7 +6,7 @@ Losing a job is unpleasant, but isn't the end of the world.
 The initial blow will always be the most difficult:
 
 - This can be more uncertain, and more painful, if you're in a tenuous situation for a long time before losing the job (e.g., pending layoffs).
-- For many people, losing a job is losing part of their [identity](identity.md).
+- For many people, losing a job is losing part of their [identity](people-identity.md).
 
 As soon as your termination is certain, ask all relevant questions to your HR department:
 
@@ -63,7 +63,7 @@ If you're on a work visa or probation, find *any* other employment:
 
 You might see the unemployment as God's will and may want to pursue full-time ministry:
 
-- While discovering [God](god.md) is easiest in the darkest period of your life, it's a terrible place to make a far-reaching decision, so take each day at a time and don't make long-term commitments until you're in a safer place.
+- While discovering [God](theology-god.md) is easiest in the darkest period of your life, it's a terrible place to make a far-reaching decision, so take each day at a time and don't make long-term commitments until you're in a safer place.
 - Physical success is loosely connected to [spiritual success](spiritual-exercises.md), so humbly consider your record so far.
 - If you weren't successful in your current career path, your efforts to become a professional minister will likely deter others from your religion.
 

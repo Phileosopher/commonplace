@@ -53,7 +53,7 @@ Most modern IDEs plug seamlessly into [git](computers-software-versionctrl.md) (
 
 VS Code is wildly popular because of how easy it is to use. Often, it requires nearly *zero* technical understanding to set it up. Most purists like to say that vim or emacs is the ideal IDE and always will be, similarly to how [Linux enthusiasts often say Arch Linux is the only "true" Linux distro](computers-os-unix.md).
 
-There are a variety of other IDEs that have generally kept pace with all these [trends](trends.md), each with their own strengths and weaknesses:
+There are a variety of other IDEs that have generally kept pace with all these [trends](people-trends.md), each with their own strengths and weaknesses:
 
 - JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) works intimately with Java, which happens to be what much of the internet runs on right now.
 - GitHub Copilot has a *very* powerful tab completion, which has a trained [machine learning](computers-ai-ml.md) algorithm that essentially fills in most of the standard code a typical programmer will use frequently.

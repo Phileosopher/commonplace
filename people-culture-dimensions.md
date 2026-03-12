@@ -1,11 +1,11 @@
 
 # The cultural dimensions
 
-Each culture broadly classifies across multiple [measured](math.md) spectra, based on the [virtues](morality.md) they prefer to prioritize. There's no defined set of rules to demarcate a culture because there are *many* ways to [analyze](logic.md) how a people group can [decide](people-decisions.md).
+Each culture broadly classifies across multiple [measured](math.md) spectra, based on the [virtues](morality.md) they prefer to prioritize. There's no defined set of rules to demarcate a culture because there are *many* ways to [analyze](logic.md) how a people group can [decide](mind-decisions.md).
 
 Conflict style - confront the issues vs. coexist without conflict:
 
-- Confrontational values directly addressing issues, which typically means [laws](people-rules.md) will change to reflect [trends](trends.md).
+- Confrontational values directly addressing issues, which typically means [laws](people-rules.md) will change to reflect [trends](people-trends.md).
 - Conflict Avoidance tries to coexist as much as possible, which often means long-standing [rules](people-rules.md) will stay uncontested.
 - Confrontational requires [courage](mind-feelings-fear.md), but Conflict Avoidance requires patience and [creativity](mind-creativity.md).
 
@@ -17,7 +17,7 @@ Context level - directly state vs. heavily imply:
 
 APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
 
-- Self-referencing words heavily define a nation's [identity](identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
+- Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](people-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
 - Europe
   - "Luxury" to the British translates as "detachment" because [sophistication](classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
   - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
@@ -37,12 +37,12 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
   - "[Love](people-love.md)" translates to "false expectation" because they [idolize](addiction.md) their [romantic relationships](gender.md).
   - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries-why.md).
   - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
-  - "[Work](results.md)" translates to "[who you are](identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
+  - "[Work](results.md)" translates to "[who you are](people-identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
   - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](money-economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
   - "[Quality](values-quality.md)" means "it [works](results.md)" because they're obsessed about [functionality](purpose.md) and convenience.
   - "Perfection" means "death" because American society *does* value [performance](results.md), but also values the [unknown](unknown.md).
 
-Individualism/Collectivism - creating [the good life](goodlife.md) for oneself vs. the group:
+Individualism/Collectivism - creating [the good life](people-goodlife.md) for oneself vs. the group:
 
 - Individualism focuses on self-interested gain (and will often take more severe [risks](socialrisk.md)).
 - Collectivism focuses on the best interests of the group (and often creates unique values that enforce harmony).
@@ -56,8 +56,8 @@ Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](res
 
 Power Distance - how much [power](power.md) comes from [status](people-image-why.md):
 
-- Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](people-decisions.md) involve everyone.
-- High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](people-decisions.md).
+- Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](mind-decisions.md) involve everyone.
+- High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](mind-decisions.md).
 - Low Power Distance requires [fair-mindedness](morality-justice.md), while High Power Distance requires [trust](trust.md).
 
 Time Flexibility - how important deadlines are:
@@ -66,7 +66,7 @@ Time Flexibility - how important deadlines are:
 - Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends-why.md), and the [unknown](unknown.md)).
 - Linear-Time requires discipline, but Flexible-Time requires grace.
 
-Time Orientation - how far into the past and future to [predict](imagination.md) things:
+Time Orientation - how far into the past and future to [predict](people-imagination.md) things:
 
 - Short-Term Orientation/Indulgence/Monochronic focuses on the present and near future.
 - Long-Term Orientation/Restraint/Polychronic focuses on the far future and past (often with more [changes](people-changes.md)).
@@ -87,8 +87,8 @@ Uncertainty Avoidance - the value of finding [certainty](understanding-certainty
 Risk Tolerance - capacity to endure [social risks](socialrisk.md):
 
 - Low Risk Tolerance calculates decisions based on [past events](hardship-ptsd.md).
-- High Risk Tolerance calculates decisions based on [influence](influence.md) and [imagination](imagination.md).
-- Low Risk Tolerance maintains [healthy traditions](habits.md), but High Risk Tolerance adopts [trends](trends.md) well.
+- High Risk Tolerance calculates decisions based on [influence](influence.md) and [imagination](people-imagination.md).
+- Low Risk Tolerance maintains [healthy traditions](habits.md), but High Risk Tolerance adopts [trends](people-trends.md) well.
 
 Clearly, these are not exclusive dimensions. It's difficult to measure something based on a [group's](groups-small.md) [feelings](mind-feelings.md). However, there is a broad range called the [Overton window](politics-conservativeliberal.md) that clarifies the range everyone will accept [changes](people-changes.md).
 
@@ -96,7 +96,7 @@ APPLICATION: Each cultural value builds specific life skills:
 
 - Confrontational people develop strong [conflict management skills](people-conflicts.md), and Conflict Avoidance people become skillful at avoiding and defusing conflicts.
 - Low Context people keep things simple and High Context people learn to include kind language that hide ugly [realities](reality.md).
-- Individualistic people become highly effective at calculating a [decision's](people-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
+- Individualistic people become highly effective at calculating a [decision's](mind-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
 - Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
 - Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-friends.md).
@@ -109,7 +109,7 @@ APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-
 
 - Confrontational people find Conflict Avoidance people evasive. Conflict Avoidance people find Confrontational people rude.
 - Low Context people find High Context people vague. High Context people find Low Context people destructive.
-- Individualistic people find Collectivist people terrible at [decision-making](people-decisions.md), but Collectivist people find Individualistic people selfish.
+- Individualistic people find Collectivist people terrible at [decision-making](mind-decisions.md), but Collectivist people find Individualistic people selfish.
 - Masculine people find Feminine people [needlessly cautious](safety.md) and unproductive, but Feminine people find Masculine people needlessly reckless and [workaholics](success-4_routine.md).
 - Low Power Distance people will find High Power Distance people rigidly over-trusting. High Power Distance people find Low Power Distance people rebellious.
 - Linear-Time people find Flexible-Time people as lazy and distracted, but Flexible-Time people see Linear-Time people as obsessive and change-resistant.

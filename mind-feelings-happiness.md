@@ -10,7 +10,7 @@ Joy, or "happiness", is simply the absence of [desire](purpose.md):
 
 Since the absence of desire is easy to detect, we can most easily identify when we're happy.
 
-To [live well](goodlife.md), someone should find some form of happiness approximately 30-70% of the time during any given day.
+To [live well](people-goodlife.md), someone should find some form of happiness approximately 30-70% of the time during any given day.
 
 - Any more, and that person is going to take unnecessary [risks](safety.md).
 - Any less, and they run the chance of being generally miserable.
@@ -24,7 +24,7 @@ The pursuit of happiness has a risk, though: if we live only in a state of joy t
 Happiness comes through our recognition of [value](values-quality.md), and there are three "happy lives" that can typically fulfill our desires:
 
 - The "[Pleasant Life](mind-feelings.md)" creates as much positive emotion as possible.
-- The "[Good Life](goodlife.md)" is a constant, engaged flow of worthwhile new life experiences.
+- The "[Good Life](people-goodlife.md)" is a constant, engaged flow of worthwhile new life experiences.
 - The "[Meaningful Life](meaning.md)" uses your natural strengths to serve a purpose larger than yourself.
 
 When we say "happiness", we often imply [meaningfulness](meaning.md), which is the only way to maintain [long-term success](success-6_humility.md), and is often *not* the Pleasant Life.
@@ -68,7 +68,7 @@ Pleasant things by themselves don't connect to inner happiness:
 
 Each person is solely responsible for their happiness, and nobody else can change it:
 
-- Our [personalities](personality.md) define quite a bit of how happy we generally are, but we get to choose how we process the information we receive.
+- Our [personalities](people-personality.md) define quite a bit of how happy we generally are, but we get to choose how we process the information we receive.
 - Even when we're disposed against ever being joyful, we can still find plenty of satisfaction if we know where to look.
 
 We can't change our feelings, but we have control over our responses:
@@ -98,7 +98,7 @@ The two avenues that interfere with life satisfaction are our [stressors](mind-f
 
 ## Not everything works for everyone
 
-Everyone's [personality](personality.md) is different, so they will need different things to find their happiness:
+Everyone's [personality](people-personality.md) is different, so they will need different things to find their happiness:
 
 - Some people simply need to focus on the present.
 - Others need a strong community, a sense of responsibility, *and* a focus on the present.

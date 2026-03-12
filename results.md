@@ -3,17 +3,17 @@
 
 When we [create](mind-creativity.md), we're aiming for a result that conforms to our [purposes](purpose.md).
 
-While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](imagination.md) they'll likely happen so similarly that we don't have to think about them.
+While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](people-imagination.md) they'll likely happen so similarly that we don't have to think about them.
 
 Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](understanding.md), or [influence](influence.md) among others. However, we can only [observe](people-image-why.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
 
-Results come largely from how well we've used what we have. Throughout [history](trends.md), there is a *very* limited link between opportunities people have available to them and how well they've taken advantage of them.
+Results come largely from how well we've used what we have. Throughout [history](people-trends.md), there is a *very* limited link between opportunities people have available to them and how well they've taken advantage of them.
 
 ## The decisions of the past
 
 [Reality](reality.md) responds to our results. But, there's always a drawn-out time in the middle where we must wait for those results.
 
-If we define "past" as "any point in time that is not the present moment", all consequences are derived from past decisions. From instant to instant, every experience we have is merely the consequences of a previous version of us making those [decisions](people-decisions.md). The only question is how far, since 5 seconds [feels](mind-feelings.md) very different from 5 years.
+If we define "past" as "any point in time that is not the present moment", all consequences are derived from past decisions. From instant to instant, every experience we have is merely the consequences of a previous version of us making those [decisions](mind-decisions.md). The only question is how far, since 5 seconds [feels](mind-feelings.md) very different from 5 years.
 
 We discover we're wrong *all the time*, but if we've acted on that information, we'll reap the consequences irrespective of what we've learned:
 
@@ -25,7 +25,7 @@ We discover we're wrong *all the time*, but if we've acted on that information, 
 
 APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
 
-Since we must suffer the consequences sometimes years or a decade later than a [decision](people-decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
+Since we must suffer the consequences sometimes years or a decade later than a [decision](mind-decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
 
 APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
 
@@ -37,7 +37,7 @@ There are only a few ways the unfair reality of delayed consequences can be avoi
 - Observe *others'* bad decisions instead of making them ourselves.
 - Have [good friends](people-friends.md) who will call us out on our bad decisions.
 
-Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](imagination.md) future self, and will slowly gravitate toward a more [pleasant life](goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
+Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](people-imagination.md) future self, and will slowly gravitate toward a more [pleasant life](people-goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
 
 ## Types of consequences
 
@@ -48,7 +48,7 @@ There are two broad types of consequences:
 
 We can usually do [many things](people-image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
 
-Consequences are not always directly connected. They can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](people-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain, and these consequences come in three levels:
+Consequences are not always directly connected. They can link as a chain of events with many [networked associations](https://gainedin.site/networks/) until they reach an actual [decision](mind-decisions.md). We are [powerless](power.md) to influence consequences proportionally to how many elements are in the chain, and these consequences come in three levels:
 
 1. Industrial - There is immediate feedback on nearly all actions (i.e., most labor).
 2. Technological - The work itself is comparatively low-information to industrial, but the results are magnified and sometimes delayed (e.g., almost all [computer](computers.md) work).
@@ -62,15 +62,15 @@ Relational consequences are the highest-risk. The audience of what we create hav
 
 Since there's very little personal [usefulness](purpose.md) to self-made [art](art.md) (rather than the convenience of something self-made like [technology](technology.md)), most artistic endeavors are relational creations. Since artists already contend with the [unknown](unknown.md) to *create* (and they made it very [personal](humanity.md) in the process), the unknown dimension of seeing what others *do* with those results is often [emotionally](mind-feelings.md) severe.
 
-APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
+APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](people-trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
 
 ## Success
 
-To perform well is to be [successful](success-1_why.md), but a successful person is difficult to measure because we tend to look at a person and [identify](identity.md) them as "one" success. Their success, however, was many smaller [decisions](people-decisions.md) and consequences layered on top of one another as a dynamic building relationship between the creator, [creation](creations.md), and any audience who witnessed it.
+To perform well is to be [successful](success-1_why.md), but a successful person is difficult to measure because we tend to look at a person and [identify](people-identity.md) them as "one" success. Their success, however, was many smaller [decisions](mind-decisions.md) and consequences layered on top of one another as a dynamic building relationship between the creator, [creation](creations.md), and any audience who witnessed it.
 
 APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
 
-The [quality](values-quality.md) of a successful [creation](creations.md), though, is usually defined by difficult-to-measure components. Beyond the period's [fashions](trends.md) and existing [technologies](technology.md) that make the task seem trivial, a well-received creation must feel "[human](humanity.md)" and sincere through many, many tiny imperfections placed throughout its work. It also must defy present [trends](trends.md) without breaking too many [taboos](morality-taboo.md).
+The [quality](values-quality.md) of a successful [creation](creations.md), though, is usually defined by difficult-to-measure components. Beyond the period's [fashions](people-trends.md) and existing [technologies](technology.md) that make the task seem trivial, a well-received creation must feel "[human](humanity.md)" and sincere through many, many tiny imperfections placed throughout its work. It also must defy present [trends](people-trends.md) without breaking too many [taboos](morality-taboo.md).
 
 Going from awful to adequate takes *much* more work than going from adequate to successful:
 
@@ -83,8 +83,8 @@ Going from awful to adequate takes *much* more work than going from adequate to 
 APPLICATION: While adequacy is statistically normal, unusually successful people do a few things to compensate:
 
 1. Expect that everything will go wrong, and become freakishly good at what they *can* control to compensate.
-2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](imagination.md).
-3. [Predict](imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
+2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](people-imagination.md).
+3. [Predict](people-imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
 
 FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends-why.md), [career](jobs-1_why.md), or whatever.
 
@@ -94,11 +94,11 @@ We often can't know many other things, many of which can further decrease our ch
 
 APPLICATION: Except for the people who [entertain us](stories-storytellers.md), we tend to imagine ourselves as less capable than we really are. This means there's *always* untapped potential within everyone except professional entertainers.
 
-The result of a successful creation will *always* create more, similar creations by others. They may be derivative works or, in the case of [intellectual properties](legal-ip.md) or risks of [civil liberties](people-boundaries-why.md), a suppressed combination of ideas that form into something else that's considered entirely new. Either way, the effective creator starts [trends](trends.md).
+The result of a successful creation will *always* create more, similar creations by others. They may be derivative works or, in the case of [intellectual properties](legal-ip.md) or risks of [civil liberties](people-boundaries-why.md), a suppressed combination of ideas that form into something else that's considered entirely new. Either way, the effective creator starts [trends](people-trends.md).
 
 APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](politics-leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
 
-We frequently [imagine](imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
+We frequently [imagine](people-imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
 
 ## Failure
 
@@ -135,13 +135,13 @@ Everything, as it increases toward our [purpose](purpose.md), gives incrementall
 - Two objects exert dramatically less gravity on each other the farther away they are (inverse square law)
 - Each person in a corporation of 10,000 people isn't as efficient as 100 corporations of 100 people.
 - The amount of [understanding](understanding.md) we gain from learning decreases incrementally as we develop more expertise with it.
-- Over time, the results from a [creative work](mind-creativity.md) will evoke less [feeling](mind-feelings.md) as [its trend cycle develops](trends.md).
+- Over time, the results from a [creative work](mind-creativity.md) will evoke less [feeling](mind-feelings.md) as [its trend cycle develops](people-trends.md).
 
 APPLICATION: One fascinating element of diminishing return arises in how we [understand](understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
 
 This diminishing return creates upper limits on almost everything we do. Leading up to those limits, everything tapers off until it becomes prohibitively resource-intensive.
 
-APPLICATION: Diminishing return means that simple [decisions](people-decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
+APPLICATION: Diminishing return means that simple [decisions](mind-decisions.md) are easier to make. Whenever possible, aim for minimalism to magnify your [purposes](purpose.md).
 
 There are various reasons diminishing return exists:
 
@@ -162,7 +162,7 @@ A diminishing return isn't necessarily bad. It's usually a sign that our [purpos
 
 ## Re-trending
 
-Frequently, by adapting the [image](people-image-why.md) of something, a creator can imply a creation is a nostalgic [trend](trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](money-economics.md) or to reach a [new audience](stories-storytellers.md).
+Frequently, by adapting the [image](people-image-why.md) of something, a creator can imply a creation is a nostalgic [trend](people-trends.md) or relatively newer. This typically comes out of a [desire](purpose.md) for [money](money-economics.md) or to reach a [new audience](stories-storytellers.md).
 
 APPLICATION: *How* a culture acquired its wealth determines how well it [empowers](power.md) its creators more than how *much* wealth it has.
 
@@ -172,13 +172,13 @@ APPLICATION: Unless a content creator has an alternative form of income, they'll
 
 ## Ripples
 
-Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](understanding.md), people can often make a relatively accurate [prediction](imagination.md) of deeper truths.
+Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](understanding.md), people can often make a relatively accurate [prediction](people-imagination.md) of deeper truths.
 
 By observing and exploring, through repeated exposure and rumination, various memories of cause-and-effect, someone can frequently develop an imagination that is accurate enough to reliably predict large-scale effects of smaller actions.
 
 However, there are multiple reasons it's generally wiser to be skeptical of anyone who claims to predict the future beyond basic reasoning:
 
-- [Predicting](imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
+- [Predicting](people-imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
 - When someone actually *does* predict the future, it's [debatable](people-conflicts-why.md) how well they performed, especially if they were vague.
-- Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](trends.md).
-- We're all very prone to error, and tend to [redirect attention](people-image-distortion.md) when we fail at something, and some [bad predictions](imagination-badpredictions.md) are legendary!
+- Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](people-trends.md).
+- We're all very prone to error, and tend to [redirect attention](people-image-distortion.md) when we fail at something, and some [bad predictions](people-imagination-badpredictions.md) are legendary!

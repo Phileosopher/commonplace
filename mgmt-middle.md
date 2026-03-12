@@ -12,7 +12,7 @@ Most middle managers "manage managers", and are often promoted into the role.
 The requirements to get *into* middle management are typically much harder than the requirements to actually do the job.
 
 - The work itself typically involves getting status updates from subordinates, then condensing and sending those status updates to a higher manager.
-- Most of your [decision-making](people-decisions.md) ability comes through permission you've been granted by *your* manager.
+- Most of your [decision-making](mind-decisions.md) ability comes through permission you've been granted by *your* manager.
 - To that end, most middle managers don't have much responsibility over what they do all day.
 
 It's vastly difficult to define a high-quality middle manager for several reasons:
@@ -40,13 +40,13 @@ When individual contributions are easy to determine or completely irrelevant, a 
 
 No matter how human you are, and no matter how well you [craft your image](people-image-why.md), your public presence over an organization of several thousand people is *guaranteed* to have at least a few ugly marks on it.
 
-- Learn to [integrate your shadow](personality.md) and humbly understand your place in the hierarchy.
+- Learn to [integrate your shadow](people-personality.md) and humbly understand your place in the hierarchy.
 - Being an executive is a bit like being a monarch, where everyone imagines they can do it better but don't realize the stress and limitations required within the role.
 - Executive and magisterial roles are *very* abstracted from humanity, and have more in common with a [strategy video game](computers-software-gamedev.md) than any legitimate [human connection](people-boundaries.md).
 
 From 2nd-level middle management and higher (i.e., no longer working alongside the workers), everyone quickly becomes a [data point](database.md).
 
-- If you wish to work in that environment, you'll find yourself competing with many [personalities](personality.md) who will have no ethical problems with harming many people to provide a little personal gain (e.g., Cluster B personality).
+- If you wish to work in that environment, you'll find yourself competing with many [personalities](people-personality.md) who will have no ethical problems with harming many people to provide a little personal gain (e.g., Cluster B personality).
 - In general, it's far easier to fire a 15-person team or cut pay for 200 people when you have no sense of [ethics](morality.md) or [humanity](humanity.md).
   - Making or keeping lower-ranking [friends](people-friends.md) in a high-ranking role can represent an opportunity for your rivals to make accusations of [political favoritism](stories-storytellers.md) or imposing *their* scandals or unfavorable [reputation](people-image-why.md) onto you.
 - By delegating *every* task, a manager has a unique [power](power.md) discrepancy:

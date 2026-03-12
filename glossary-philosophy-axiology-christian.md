@@ -7,7 +7,7 @@ It's entirely possible to have a meaningless form of Christianity, though it's n
 
 - **Absurdism** is difficult to justify, since God designed the universe for us and it is literally *designed* to give us purposes.
 - **Nihilism** is also possible, but sabotages the implicit meaning of God's design.
-  - **Fatalism**, in particular, is only possible with Christian doctrine if we see God's omniscience as taking away the value of our [agency](people-decisions.md).
+  - **Fatalism**, in particular, is only possible with Christian doctrine if we see God's omniscience as taking away the value of our [agency](mind-decisions.md).
 
 **Anthropomorphism** is acceptable, and in some ways *encouraged* by God (i.e., the Bible refers to God's "hands", God's pronoun is a "him/he").
 
@@ -178,7 +178,7 @@ Christianity *could* be classified as a type of **ethical hedonism**, with the j
 
 Since Christianity opposes naturalism, **humanistic naturalism** can't be consistent with it.
 
-The certainty of Scripture and God's commands makes **immoralism** impossible.
+The certainty of Scripture and God's commands makes **immoralism** impossible. However, **indifferentism** is possible on many domains if we parse it carefully.
 
 Since God's divine inspiration is the best way to gain understanding, **intellectualism** is difficult to maintain without defining divine inspiration as part of our reasoning.
 
@@ -208,6 +208,7 @@ Possible (and useful)
 Possible (or partial)
 
 - Asceticism
+- Indifferentism
 - Irrationalism
 - Utilitarianism
 

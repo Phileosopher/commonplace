@@ -4,8 +4,8 @@
 For thousands of years, we have worn clothing, which has provided several [purposes](purpose.md):
 
 1. To protect us from the elements (mostly heat, cold, and wind).
-2. To cover our [shame](mind-feelings-shame.md), which goes back to our [sinful state](morality-sins.md).
-3. To express our [identity](identity.md) to others.
+2. To cover our [shame](mind-feelings-shame.md), which goes back to our [sinful state](theology-sins.md).
+3. To express our [identity](people-identity.md) to others.
 
 Since we have many synthetic and affordable textiles to choose from, we no longer have a survival risk with most clothes, and instead wear it for the sake of identifying with particular [groups](groups-large.md):
 
@@ -14,7 +14,7 @@ Since we have many synthetic and affordable textiles to choose from, we no longe
 - [Idols](addiction-substances.md) and [religious](religion.md) [symbols](symbols.md) we associate with
 - [Social class](classes.md) and ethnicity
 
-To that end, most of the effort regarding following clothing [fashions](trends.md) centers around [image](people-image-why.md) management.
+To that end, most of the effort regarding following clothing [fashions](people-trends.md) centers around [image](people-image-why.md) management.
 
 ## Choosing and coordinating outfits
 

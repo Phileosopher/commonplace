@@ -1,11 +1,11 @@
 
 # What justice is
 
-We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](people-decisions.md).
+We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](mind-decisions.md).
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
-APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](people-rules.md).
+APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](people-imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](people-rules.md).
 
 Justice is an attempt to create fairness. People can debate endlessly about what's fair, but we very often know what's [*not* fair](morality-evil.md):
 
@@ -38,11 +38,11 @@ There are only a few forms of delivering justice, and it's based on desired [con
 
 ## Morality
 
-All matters of legal justice are issues of [morality](morality.md), with the State being the decider. They are responses to previous moral decisions that people had made, which is why they're always complicated. Small details like a coffee stain or location of a [tool](technology.md) sometimes define *everything* in a court [decision](people-decisions.md).
+All matters of legal justice are issues of [morality](morality.md), with the State being the decider. They are responses to previous moral decisions that people had made, which is why they're always complicated. Small details like a coffee stain or location of a [tool](technology.md) sometimes define *everything* in a court [decision](mind-decisions.md).
 
-Most of the time, the emotional energy of the [deciding](people-decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
+Most of the time, the emotional energy of the [deciding](mind-decisions.md) judges projects their own [trauma](hardship-ptsd.md) through the court onto the guilty party. It's not uncommon for someone who performed a small deviance from society's standards to be punished as if they'd performed a severe crime. This compounds if the victim comes from a different [culture](people-culture.md) with a differing set of social rules.
 
-Court [decisions](people-decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
+Court [decisions](mind-decisions.md) often become [laws](people-rules.md), which impact *way* more for years later than the original decision ever could.
 
 While [morality](morality.md) in a courtroom is grounded in a unique [story](stories-why.md) with a prosecutor and defendant, [laws](people-rules.md) must remove those stories to stay fair to all instances.
 
@@ -52,7 +52,7 @@ This becomes complicated to track when skillful lawyers use those rules to navig
 
 On top of that, each judge has a [bias](people-image-why.md), since they're [human](humanity.md). In many legal systems, they become [corrupt](mgmt-badsystems.md) when the judge is [friends](people-friends-why.md) with or [sympathizes](people-image-why.md) with one side of the legal case.
 
-APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends-why.md) with the [judge](people-decisions.md) or a [highly agreeable personality](personality.md).
+APPLICATION: Even when you have an ironclad, [logical](logic.md) case in your defense, it *always* helps to be [friends](people-friends-why.md) with the [judge](mind-decisions.md) or a [highly agreeable personality](people-personality.md).
 
 For this reason, the logic of legal decisions is an arcane mess of context-sensitive circumstances, and creates a [specialized web](jobs-specialization.md) of people who manipulate [logic](logic.md) in absurd ways that defy common sense and exploit [political fashions](politics-conservativeliberal.md) (i.e., lawyers).
 
@@ -64,7 +64,7 @@ APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflat
 
 - If [God(s)](religion.md) (theonomos) define rights, we must be subordinate to that authority, in whatever form it comes, and even the State must give [certain rights](people-boundaries-why.md).
 - If the [State](groups-large.md) (heteronomos) defines rights, it has full liberty to take them away and we have no right to protest it.
-- If the [majority](trends.md) defines rights, then we must follow whatever is [fashionable](trends.md).
+- If the [majority](people-trends.md) defines rights, then we must follow whatever is [fashionable](people-trends.md).
 - If the individual (autonomos) defines rights, there's no standard for [evil](morality-evil.md) unless we designate evil people as a separate sub-human class of citizen, since the "evil" person often feels they have a right to others' rights.
 
 APPLICATION: To enforce justice, we must honor a standard that goes beyond the place we administer justice. Whether it's [God](religion.md) or a set of [rules](people-rules.md), it becomes the [philosophical framework](philosophy.md) for how we judge.
@@ -73,12 +73,12 @@ A judge's job is to define rules to make sense of how to process everyone presen
 
 There are two forms of delivering the implementation of justice:
 
-1. The spirit of the standard, by honoring principles. Since [values](values.md) are challenging to maintain without [adaptation](mind-creativity.md), a judge must maintain requires [philosophical awareness](philosophy.md) of the [rules](people-rules.md) they're working with alongside a general obliviousness to [present fashions](trends.md).
+1. The spirit of the standard, by honoring principles. Since [values](values.md) are challenging to maintain without [adaptation](mind-creativity.md), a judge must maintain requires [philosophical awareness](philosophy.md) of the [rules](people-rules.md) they're working with alongside a general obliviousness to [present fashions](people-trends.md).
 2. The letter of the standard, by parsing the [logic](logic.md) of the rules irrespective of its context or creator's intent. This can *completely* invert the original [meaning](meaning.md) of the text (especially after [a few generations](legacy.md)), and is often for self-interested [purposes](purpose.md) or [malice](morality-evil.md).
 
 Historically, judges didn't often concern themselves with implicit human rights, so the idea is relatively new. [Slavery](people-slavery.md), for example, is still ubiquitous but uses other names.
 
-A huge portion of the contention about rulings comes through how to [presume](imagination.md) (and therefore rule) in the absence of evidence. If someone is presumed evil until proven innocent then they're guilty without proof, but if they're presumed innocent until evil then some criminals will get away with crimes they had committed. Everyone has at least some [evil](morality-evil.md) intent, so both of those approaches are technically justifiable.
+A huge portion of the contention about rulings comes through how to [presume](people-imagination.md) (and therefore rule) in the absence of evidence. If someone is presumed evil until proven innocent then they're guilty without proof, but if they're presumed innocent until evil then some criminals will get away with crimes they had committed. Everyone has at least some [evil](morality-evil.md) intent, so both of those approaches are technically justifiable.
 
 The intent of an action dictates *everything* about whether the consequences of a decision are someone's [evil](morality-evil.md) or incompetence. People will usually agree that we must punish evil people and give incompetent people at least some grace, but we have very little to no information to dictate what their [real](reality.md) [intent](purpose.md) was.
 
@@ -91,11 +91,11 @@ APPLICATION: By using a jury, the judge's [power](power.md) is decentralized. It
 Society's definition of "fair" or "equality" is often unclear:
 
 - Equal [value](values.md) means each person is regarded as inherently valuable, but never addresses their needs.
-- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](imagination.md), but it won't be equal [status](people-image-why.md) at the end.
+- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](people-imagination.md), but it won't be equal [status](people-image-why.md) at the end.
 - Equal [status](people-image-why.md) means anyone achieving a [purpose](purpose.md) to gain [power](power.md), for any [reason](purpose.md), will be thwarted to maintain that status.
 - Equal retribution means "eye for an eye", but doesn't consider how anyone could [feel](mind-feelings.md) with the arrangement.
 
-One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](imagination.md) at it, which often reflects on our [view of the world](people-image-why.md).
+One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](people-imagination.md) at it, which often reflects on our [view of the world](people-image-why.md).
 
 Broadly, most people conflate equality with [love](people-love.md). To be equal is to have the same of something as everyone else, but it won't fix the gaping hole of unfulfilled [purpose](purpose.md) and [loneliness](people-friends-why.md) we're constantly carrying around.
 

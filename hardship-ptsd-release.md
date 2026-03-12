@@ -49,7 +49,7 @@ When you are ready, release your feelings about anything you fear or resent:
   - If you find anything that makes you angry, write down "I am angry at (a being or institution) because I fear..." and fill it in.
   - Often, you'll find resentments behind resentments, so be sure to list *all* of them.
   - We have the least control over our fears and resentments, so focus specifically on them instead of any other [feelings](mind-feelings.md).
-  - At the end, clearly state how you're releasing them all (e.g., "...and that's okay.", "...and it doesn't matter.", "...but [God](god.md) is in control.")
+  - At the end, clearly state how you're releasing them all (e.g., "...and that's okay.", "...and it doesn't matter.", "...but [God](theology-god.md) is in control.")
 - For your brain stem to register, you may need to connect your feelings to a physical action to release them.
   - Press your tongue to the back of your teeth.
   - Tense every single muscle in your body, increasing in intensity, then release all of the muscles at once.

@@ -5,7 +5,7 @@ This is an informal list of how to manage vast groups of people based on geograp
 
 While every political system is heavily influenced by its [regional culture](people-culture.md), there are some broad patterns of how the leadership will run things.
 
-It's worth noting that these classifications aren't clear-cut because of politicized [image distortion](people-image-distortion.md) and [trends](trends.md), so countries often represent multiple groups at once. They also can be [left or right](politics-conservativeliberal.md), since this simply has to do with balancing control, but not on what direction to guide it.
+It's worth noting that these classifications aren't clear-cut because of politicized [image distortion](people-image-distortion.md) and [trends](people-trends.md), so countries often represent multiple groups at once. They also can be [left or right](politics-conservativeliberal.md), since this simply has to do with balancing control, but not on what direction to guide it.
 
 ## Features/divisions
 
@@ -22,7 +22,7 @@ In all reality, though, the amount of [power](power.md) at play means there's pl
 
 ## Socio-economic ideologies
 
-Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](people-culture.md) and [economic](money-economics.md) factors that emphasize certain aspects of [living well](goodlife.md):
+Most governments naturally form their [philosophies](philosophy.md) by [social/cultural](people-culture.md) and [economic](money-economics.md) factors that emphasize certain aspects of [living well](people-goodlife.md):
 
 - Anarchism/stateless societies - emphasizes self-governance and voluntary institutions
 - Capitalism - individuals can "capitalize" on what they own (i.e., "private property")
@@ -46,7 +46,7 @@ The framing of a country's [constitution](people-rules.md) has a *gigantic* effe
 - How much and which [religious doctrine](religion-answers.md) should mix with that constitution?
 - Should we lean more into a central authority to regulate/control everything (and risk [tyranny](power-types.md)), or more into individual choice (and risk [chaos](unknown.md))?
 
-Naturally, some people represent the [identity](identity.md) of the nation more than others.
+Naturally, some people represent the [identity](people-identity.md) of the nation more than others.
 
 Monarchy - a ruling group defines the nation's identity, which classifies by their control and ascension:
 
@@ -83,7 +83,7 @@ Cons:
 
 - Extremely limited [civil liberties](people-boundaries-why.md), depending on the dictator.
 - Since it's a small group running everything, it's difficult to scale.
-  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](people-decisions.md) that are completely [inconsistent](people-conflicts.md) with the dictator's [purposes](purpose.md).
+  - If the leader is benevolent, it becomes a chaotic mess, since everyone else will start to make their own [decisions](mind-decisions.md) that are completely [inconsistent](people-conflicts.md) with the dictator's [purposes](purpose.md).
   - If the leader is strict, it becomes tyrannical, since everyone else will have better ideas for their situation that the leader will have to suppress to maintain order.
 - Without clearly [communicating](people-conversation.md) the rules to everyone, the line-of-succession for the next dictator gets complicated.
 - If overthrown, anyone else can make a new autocracy in its place (i.e., no [lasting legacy](legacy.md) and often destroying any legitimate [progress](people-changes.md)).
@@ -126,7 +126,7 @@ Cons:
   - Kleptocracy - run by thieves
     - Banana republic - [economically](money-economics.md) run through a multi-organization plutocracy exporting a scarce resource
   - Nepotocracy - run by [family members](people-family.md) of existing leadership
-  - Ochlocracy - run by [mob rule](trends.md) via [intimidation](mind-feelings-fear.md) of authorities
+  - Ochlocracy - run by [mob rule](people-trends.md) via [intimidation](mind-feelings-fear.md) of authorities
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:
   - Algocracy - [computer algorithms](computers-programming-algorithms.md) run everything (i.e., programmers have complete rule)
   - Cyberocracy - [computers](computers.md) runs everything (i.e., computer users have complete rule)
@@ -176,7 +176,7 @@ Cons:
 
 ## How should power divide across regions?
 
-When a government gets particularly large (i.e., surpassing thousands of people, or over enough distance where [technology](technology.md) creates [communication](language.md) limits), people should understand beforehand who [decides](people-decisions.md) (i.e., "sovereignty").
+When a government gets particularly large (i.e., surpassing thousands of people, or over enough distance where [technology](technology.md) creates [communication](language.md) limits), people should understand beforehand who [decides](mind-decisions.md) (i.e., "sovereignty").
 
 There are a few regional groupings for governments:
 

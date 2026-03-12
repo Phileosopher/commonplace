@@ -44,16 +44,16 @@ The world's authorities abuse [power](power.md) to prove they're more powerful t
 
 Even in tyrannical societies, *most* of the people are simply watching:
 
-- They typically haven't decided *what* they believe about [God's people](identity.md) or the God of the [Bible](bible.md).
-- By showing [God's authority and love](god.md), you're demonstrating the hope of [a superior government](https://theologos.site/millennium/) to any other one in recorded history.
+- They typically haven't decided *what* they believe about [God's people](people-identity.md) or the God of the [Bible](theology-bible.md).
+- By showing [God's authority and love](theology-god.md), you're demonstrating the hope of [a superior government](https://theologos.site/millennium/) to any other one in recorded history.
 
 ## Persecution comes as a cycle
 
-Christianity and society have a unique [trend](trends.md) across centuries that always plays out the same way.
+Christianity and society have a unique [trend](people-trends.md) across centuries that always plays out the same way.
 
 First, every society is relatively open to missionaries and new Christians:
 
-- Except for some opponents, the public will coexist peacefully with Christians if they keep to themselves and limit how much they [share the Gospel](evangelism.md).
+- Except for some opponents, the public will coexist peacefully with Christians if they keep to themselves and limit how much they [share the Gospel](spiritual-exercises-evangelism.md).
 - While some groups (e.g., witch doctors, idol crafters) will protest, Christians will still have their normal [civil liberties](people-boundaries-why.md) available to them.
 
 Eventually, the Satan will inspire people to reject Christians:
@@ -67,20 +67,20 @@ From there, Christians will start incurring public [shame](mind-feelings-shame.m
 - They'll start losing their [status and reputation](people-image-why.md) in their [communities](groups-small.md).
 - [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
 - Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-friends.md) will slowly alienate them.
-- Officials will forbid or restrict certain Christian practices like [public evangelism](evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
+- Officials will forbid or restrict certain Christian practices like [public evangelism](spiritual-exercises-evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
 - The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.
 - Even if the government doesn't get involved, it'll often require churches to register their gatherings and report to them.
 
 Soon, Christianity becomes illegal to practice in public:
 
 - Churches will often lose their government authorization unless they comply with anti-Christian values.
-- [Evangelism](evangelism.md) and public worship will become [illegal](people-rules.md).
+- [Evangelism](spiritual-exercises-evangelism.md) and public worship will become [illegal](people-rules.md).
 - Officials will detain and possibly beat Christians after warning them.
 - This can happen *very* rapidly, sometimes in the course of one day!
 
 Depending on the leadership's decisions, merely *existing* as a Christian becomes illegal:
 
-- The types of persecution will vary on a dictator's [disposition](personality.md) and how much he hates God.
+- The types of persecution will vary on a dictator's [disposition](people-personality.md) and how much he hates God.
 - Christians will often have to endure incessant and oppressive government regulations.
 - At its most extreme, Christians are incarcerated and tortured.
 - Occasionally, particularly cruel nations will force them to perform in blood sport.
@@ -90,14 +90,14 @@ Depending on the leadership's decisions, merely *existing* as a Christian become
 The most evil and cruel leaders never last more than a few years, but the persecution doesn't always stop with regime changes:
 
 - The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](lawsaxioms-legal.md).
-- Most of the time, the [trends](trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
+- Most of the time, the [trends](people-trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
 - Occasionally, the trends will *rapidly* pivot, especially during a [regime](groups-large.md) change.
 - Often, in [high-information](understanding.md) societies, the trends will pivot very rapidly across months or weeks.
 
 Despite the hardship, the Church will persist:
 
 - Historically, the Church has *thrived* while standing against [evil](morality-evil.md) authorities who kill and destroy.
-- The [Holy Spirit](god.md) has a wide variety of [creative](mind-creativity.md) measures, including miracles and "strange coincidences" that work in believers' favor.
+- The [Holy Spirit](theology-god.md) has a wide variety of [creative](mind-creativity.md) measures, including miracles and "strange coincidences" that work in believers' favor.
 
 ## Preparing beforehand
 
@@ -111,22 +111,22 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 "Liberal" Christianity can never survive persecution:
 
-- If the [Bible](bible.md) has faults, there's no substance to disprove the assertions of the world.
-- Without the God of the Bible, [God](god.md) is dead.
-- If the story of Adam and Eve and our [fallen state](morality-sins.md) isn't strictly true, [the Gospel](https://theologos.site/gospel/) and Jesus aren't necessary.
+- If the [Bible](theology-bible.md) has faults, there's no substance to disprove the assertions of the world.
+- Without the God of the Bible, [God](theology-god.md) is dead.
+- If the story of Adam and Eve and our [fallen state](theology-sins.md) isn't strictly true, [the Gospel](https://theologos.site/gospel/) and Jesus aren't necessary.
 - If there's no reason we have to believe core Christian doctrinal ideas (e.g., Jesus was born from a virgin) then God isn't necessarily capable of causing dramatic miracles.
-- And, without the Bible, God's plans for Israel aren't clear, and there's nothing for Christians to [hope for](jesus-returns.md).
+- And, without the Bible, God's plans for Israel aren't clear, and there's nothing for Christians to [hope for](theology-end.md).
 
 Irrespective of persecution, we must discover God for ourselves:
 
 1. The [culture](people-culture.md) of Christianity moves forward by powerful [language](language.md) that speaks [influential](power-influence.md) truth.
 2. A good sermon is a powerful [story](stories-why.md) that alludes to good theology.
 3. Good theology is a strong [philosophy](philosophy.md) that anchors to the Bible.
-4. The [Bible](bible.md) is God's Word, which is the [creative](mind-creativity.md) output of the living God.
+4. The [Bible](theology-bible.md) is God's Word, which is the [creative](mind-creativity.md) output of the living God.
 
-We need to let God's [Scripture](bible.md) define how we see the world.
+We need to let God's [Scripture](theology-bible.md) define how we see the world.
 
-- Simply repeating a [Bible verse](bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](understanding.md) what it means.
+- Simply repeating a [Bible verse](theology-bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](understanding.md) what it means.
 - We must sort out our individual salvations, fearfully and shaking, *before* we encounter outward persecution ([Philippians 2:14](https://biblehub.com/philippians/2-12.htm)).
 
 ## The authorities aren't as powerful as they seem
@@ -160,7 +160,7 @@ Even the devil makes mistakes:
 Through all the hardship, the Holy Spirit will *still* shine through:
 
 - Christians will lose [families](people-family.md), [friends](people-friends.md), [reputations](people-image-why.md), and [opportunities](power.md), and they'll *still* be joyful.
-- While the free world has a difficult time [imagining](imagination.md) this, the persecuted Church treats this as normal.
+- While the free world has a difficult time [imagining](people-imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
 There are *many* people who have said that Christianity would cease to exist:
@@ -192,10 +192,10 @@ Respond to the world's attacks with Christ-like behavior:
    - You don't have to know everything because God knows.
    - Your peace in Him is your ministry to others.
 4. Openly confess your sin when anyone calls you on it.
-   - Own what you've done and vow to never consciously [sin](morality-sins.md) again.
+   - Own what you've done and vow to never consciously [sin](theology-sins.md) again.
 5. Patiently endure criticism and shame.
    - Jesus chose to stay silent in an all-night kangaroo court ([Matthew 26:57-68](https://biblehub.com/matthew/26.htm)).
-   - God will judge everyone rightly on [Judgment Day](jesus-returns.md) ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
+   - God will judge everyone rightly on [Judgment Day](theology-end.md) ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
 6. Don't concern yourself with evil.
    - Nothing is new under the sun ([Ecclesiastes 1:9](https://biblehub.com/ecclesiastes/1-9.htm)).
    - We will see the same evil as Noah's time saw ([Luke 17:26-27](https://biblehub.com/luke/17.htm)).
@@ -211,7 +211,7 @@ Respond to the world's attacks with Christ-like behavior:
     - Worldly people often [know](understanding.md) that antagonizing you will provoke you to violence, which they can then justify action against.
     - Endure the suffering to show your new nature.
 11. Ignore the world's strategies against you.
-    - Be prepared to confront [sin](morality-sins.md) when the time comes.
+    - Be prepared to confront [sin](theology-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
     - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/james/1.htm)).
 12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](understanding.md), misquote, and alienate you.
@@ -219,12 +219,12 @@ Respond to the world's attacks with Christ-like behavior:
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
     - You can't [change their minds](people-changes.md) any more than they want.
 
-The *specifics* on how believers can stand against authority depends heavily on [personality](personality.md) and skill, but falls under a few general themes.
+The *specifics* on how believers can stand against authority depends heavily on [personality](people-personality.md) and skill, but falls under a few general themes.
 
 Learn how to speak carefully to keep secrets:
 
 - People who ask probing questions [have no right](people-boundaries-why.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
-- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/1_corinthians/6.htm)).
+- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](people-identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/1_corinthians/6.htm)).
 - Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](people-image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
   - State [the law](people-rules.md) when they ask your [purpose](purpose.md).
@@ -255,7 +255,7 @@ Prison, of any sort, is a new ministry opportunity:
 
 - Your fellow cellmates are literally a "captive" audience to the [Gospel](https://theologos.site/gospel/) message.
 - Solitary confinement can become a blessing in [spiritual meditation](awareness.md) and [prayer](spiritual-exercises-prayer.md) if you use the time correctly.
-- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](imagination.md) any farther out than that.
+- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](people-imagination.md) any farther out than that.
 
 Be prepared for torture:
 
@@ -272,7 +272,7 @@ The most significant battle in prison is within your mind:
 
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:
 
-- At specific thresholds, we lose our capacity to detect [our reputations](people-image-why.md), then other people in general, then finally even [the presence of God](god.md).
+- At specific thresholds, we lose our capacity to detect [our reputations](people-image-why.md), then other people in general, then finally even [the presence of God](theology-god.md).
 - At those times, we must [focus on](awareness.md) the present moment and God within it to find peace in the pain.
 - The most important thing to focus on is steady breathing.
 - All the sacrifice must be a matter of love and duty to the Church, *not* just survival.
@@ -283,7 +283,7 @@ We must perform vigils to fight solitude and loneliness:
 - Mentally travel around the world, praying for people you know of and their groups.
 - Rejoice with those who rejoice by imagining the details of their happiness outside prison ([Romans 12:15](https://biblehub.com/romans/12-15.htm)).
 - Recite Bible verses from memory, which is where all that prior [Bible study](bible-study.md) paid off.
-- Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](imagination.md) everything.
+- Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](people-imagination.md) everything.
 - While all this sounds like what crazy people do, staying mentally busy allows us to stay in a solitary situation indefinitely.
 
 Beware of the "moment of crisis":
@@ -302,7 +302,7 @@ Persecution against Christianity has been "normal" for 2,000 years:
 
 - Christians have been shamed, beaten, flogged, imprisoned, exiled, and killed for their faith since Jesus gave His life.
   - Presently, the "10/40 Window" (between 10 and 40 degrees latitude in the eastern hemisphere) is the most frequent place in the world for persecution.
-- And, [for the end to come](jesus-returns.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/2_timothy/3.htm)).
+- And, [for the end to come](theology-end.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/2_timothy/3.htm)).
 - God uses persecution in a predictable cycle:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
@@ -313,4 +313,4 @@ Further, there most certainly is a double standard people hold against Christian
 - Communist dictators have historically claimed homosexuality is a perversion, vice, or disease, but Christians' opinions are often treated with more severity.
 - Christian opinions on abolition and pro-life positions tend to receive far more negative media attention than violent protesters and criminals.
 
-As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](jesus-returns.md) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
+As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](theology-end.md) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).

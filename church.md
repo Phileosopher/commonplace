@@ -1,7 +1,7 @@
 
 # How to go to church
 
-Being a Christian means you have a [relationship with Jesus](identity.md).
+Being a Christian means you have a [relationship with Jesus](people-identity.md).
 
 - This does *not* mean you go to any particular church, but it *does* mean you'll naturally become part *of* the Church at large.
 
@@ -21,7 +21,7 @@ A church is a Christian [community](groups-small.md), not a building or locatio
 - A church spiritually grounds itself on God's Word ([Ephesians 2:19-22](https://biblehub.com/ephesians/2.htm)), and any believers gathering to worship together are a church.
 - God shows Himself in church services when that church focuses on giving God praise.
 
-Without [persecution](hardship-persecution-church.md), church members usually form into demographically similar groups based on [personality](personality.md), with the [leadership](mgmt-church.md) made of the most extreme personalities:
+Without [persecution](hardship-persecution-church.md), church members usually form into demographically similar groups based on [personality](people-personality.md), with the [leadership](mgmt-church.md) made of the most extreme personalities:
 
 - High openness to experience - spirituality is represented as perpetual transience or change ([John 3:8](https://biblehub.com/john/3-8.htm))
 - Low openness to experience - spirituality is represented as tradition ([2 Thessalonians 2:15](https://biblehub.com/2_thessalonians/2-15.htm))
@@ -60,7 +60,7 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 
 - They're honorable.
 - They're not [deceptive](people-lying.md), [an addict](addiction-substances.md), or greedy.
-- They believe strongly in the [mystery](https://theologos.site/gospel/) of the Christian faith with a clear [conscience](humanity-christian.md).
+- They believe strongly in the [mystery](https://theologos.site/gospel/) of the Christian faith with a clear [conscience](theology-godandman-humanity.md).
 - If they're [married](relationships-marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
 
 Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/1_timothy/3.htm)).
@@ -83,7 +83,7 @@ Finally, the church pastors/overseer have even *more* criteria:
 - He's hospitable, loves goodness, disciplined, morally upright, and holy.
 - He holds firmly to Scripture and teaches correct doctrine as well as rebuking others that contradict it.
 
-God won't work much with leaders who are unrepentant about their [sins](morality-sins.md), but those people can still [draw a crowd](power-influence.md).
+God won't work much with leaders who are unrepentant about their [sins](theology-sins.md), but those people can still [draw a crowd](power-influence.md).
 
 - The only way to discern a leader's qualities is to see their personal life, which is *very* difficult to do in a large church.
 
@@ -94,7 +94,7 @@ A healthy church should see a wide variety of believers, relative to the geograp
 - There should be both older and younger people [serving](church-serve.md) in various capacities.
 - The leadership should represent the range of that region's [socioeconomic classes](classes.md).
 - Given Jesus' tendency to have compassion on the social outcasts, there should be a *higher* ratio of unusual people than a typical social group in the area.
-- If they're sufficiently [sharing the Gospel](evangelism.md), they will have new believers, meaning there should be a wide spread of new versus veteran Christians.
+- If they're sufficiently [sharing the Gospel](spiritual-exercises-evangelism.md), they will have new believers, meaning there should be a wide spread of new versus veteran Christians.
 
 Most churches give joy to the Lord by singing and dancing ([Psalm 98:4](https://biblehub.com/psalms/98-4.htm)).
 
@@ -105,7 +105,7 @@ Churches often [pray and fast](spiritual-exercises-prayer.md) for God's kingdom 
 
 - The best prayers are in privacy, so public praying isn't necessarily a biblical command ([Matthew 6:5](https://biblehub.com/matthew/6-5.htm)).
 
-The Bible doesn't specifically reference pastors' preaching *nearly* as much as meeting, but churches can spend plenty of time either [preaching the simple Gospel](evangelism.md) or [discipleship](spiritual-discipleship.md).
+The Bible doesn't specifically reference pastors' preaching *nearly* as much as meeting, but churches can spend plenty of time either [preaching the simple Gospel](spiritual-exercises-evangelism.md) or [discipleship](spiritual-discipleship.md).
 
 - Experienced Christians don't typically need to hear [the Gospel message](https://theologos.site/gospel/) every week.
 - Large-scale discipleship reaches more people, but the lack of feedback won't give any necessary context.
@@ -138,7 +138,7 @@ Every church is the sum of the Holy Spirit's presence working within each of its
 
 - A church's influence is a combination of the leader's [leadership skills](mgmt-1_why.md), the members' [motivation](purpose.md), and the Holy Spirit's guidance.
 
-Over time, the [new believers'](christian-new.md) culture will often corrupt most churches into accepting and sometimes endorsing [sins](morality-sins.md):
+Over time, the [new believers'](christian-new.md) culture will often corrupt most churches into accepting and sometimes endorsing [sins](theology-sins.md):
 
 - [Fear](mind-feelings-fear.md) of [risks or dangers](safety.md) (especially in [larger churches](groups-large.md))
 - Treating outsiders' suffering [without any compassion](people-discrimination.md) (especially when they associate with [regional politics](politics-conservativeliberal.md))
@@ -150,7 +150,7 @@ Over time, the [new believers'](christian-new.md) culture will often corrupt mos
 
 Attend church and disregard its imperfections.
 
-- Every Christian comes from the world, so God will [sanctify them](identity.md) in His timing.
+- Every Christian comes from the world, so God will [sanctify them](people-identity.md) in His timing.
 - Learn to [love](people-love.md) despite the corruption.
 - Leave when you see the *[leaders](mgmt-church.md)* accepting sinful behavior.
 - Don't try to "fix" the Church beyond what you can control.
@@ -158,7 +158,7 @@ Attend church and disregard its imperfections.
 Worship God at whatever church you go to.
 
 - Sometimes you may have to cycle between churches to find a healthy church body.
-- Don't let that church's flaws interfere with your [devotion to God](identity.md).
+- Don't let that church's flaws interfere with your [devotion to God](people-identity.md).
 - God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) ([Matthew 13:24-30](https://biblehub.com/matthew/13.htm)).
 
 Wherever you go, [give freely](church-serve.md).

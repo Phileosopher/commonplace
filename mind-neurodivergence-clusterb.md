@@ -1,7 +1,7 @@
 
 # The basics of Cluster B personality disorders
 
-Cluster B [personalities](personality.md) represents a large subset of society. The behaviors wildly differ, but come from the same mental basis.
+Cluster B [personalities](people-personality.md) represents a large subset of society. The behaviors wildly differ, but come from the same mental basis.
 
 ## How they think
 
@@ -29,6 +29,10 @@ The process that builds Cluster B thinking is somewhat straightforward:
 
 Due to this, the severity of their mental illness often comes through how intelligent they are.
 
+One noteworthy and potentially controversial view is that BPD is the same thing as covert NPD.
+
+- While it may be a minor detail, the practical distinction is certainly close enough that clinical psychologists have diagnosed the symptoms similarly.
+
 ## Difficulties due to their mental state
 
 Their shattered ego means their mind has trouble with articulately maintaining [memory](mind-memory.md) related to strong adverse feelings towards themselves.
@@ -40,7 +44,7 @@ Since they have a shaky value system, they will often have trouble with a few sp
 
 - Self-deprecating [humor](humor.md), though possible with HPD. However, HPD will *not* take a practical joke or teasing well.
   - Their humor will often express as unusually dark, and can sometimes be sadistic.
-- Admitting failing or [sin](morality-sins.md):
+- Admitting failing or [sin](theology-sins.md):
   - BPD will use it to intensify their "shame" states and will typically vacillate between overreaction and completely ignoring it.
   - HPD will often accept failings on the condition that it's shared with others.
   - ASPD will entirely ignore failings, though will often learn from their mistakes.
@@ -50,7 +54,23 @@ Since they have a shaky value system, they will often have trouble with a few sp
 
 ## Conflict style
 
-All of them, when pushed to [an unavoidable conflict](people-conflicts-crucial.md), will engage in a 3-step process (DARVO):
+Cluster B personality uses three major approaches, in approximate order.
+
+First, they will deny absolutely everything.
+
+- The [core of their personality](people-personality.md) is rooted in denial, so it's a survival strategy.
+- They're constantly pushing reality out, then swapping it for a delusional fantasy where they are the hero or victim, but never the antagonist of every one of their mind's [stories](stories-why.md).
+
+Next, they will engage in some form of attack.
+
+- This varies heavily on the Cluster B archetype, since each one has their own form of abuse.
+- However, one of the more notable distinctions is the fight-fawn response within narcissists:
+  1. Fawn - very charming, giving, and codependent
+  2. Fight - become aggressive and viciously attack others
+- There can be others, such as fawn-flight.
+- Irrespective of the approach, their response will be very inappropriate for the context of the situation.
+
+Finally, all of them, when pushed to [an unavoidable conflict](people-conflicts-crucial.md), will engage in a 3-step process (DARVO):
 
 1. Deny: Alleges the harm or abuse never took place. This can go as far as gaslighting.
 2. Attack: If they suspect the person doesn't buy their denial, they'll directly assault the person they harmed. This can include harming family or friends or using family or friends against that person ("triangulation").

@@ -4,8 +4,8 @@
 [Conflicts](people-conflicts-why.md) are absolutely inevitable for Christians ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
 
 - Most [denominations across Christian history](history-church.md) were formed through some type of disagreement.
-- Many Christians higher on the Agreeableness [personality](personality.md) dimension (especially [leaders](mgmt-church.md)) have trouble with this fact.
-- This won't change until [Jesus comes back](jesus-returns.md) and [sets up His Kingdom](https://theologos.site/millennium/), though it *still* won't be completely gone until the Final Judgment in [Revelation 21](https://biblehub.com/revelation/21.htm).
+- Many Christians higher on the Agreeableness [personality](people-personality.md) dimension (especially [leaders](mgmt-church.md)) have trouble with this fact.
+- This won't change until [Jesus comes back](theology-end.md) and [sets up His Kingdom](https://theologos.site/millennium/), though it *still* won't be completely gone until the Final Judgment in [Revelation 21](https://biblehub.com/revelation/21.htm).
 
 However, we *must* engage any disagreements in love ([1 Corinthians 13:1-3](https://biblehub.com/1_corinthians/13.htm)).
 
@@ -22,7 +22,7 @@ Everyone is [entitled to their beliefs](people-boundaries-why.md) and [tradition
 - Even while they may be trying desperately to [influence you](power-influence.md) or force you to react, do *not* lose your temper.
 - The battle is [*much* larger than just your interaction](spiritual-warfare.md), and you can show Christ [even if they persecute you](hardship-persecution-church.md).
 
-Working through disagreements, heresies, and cults is a *very* intense form of [personal evangelism](evangelism.md) and [leadership](mgmt-church.md).
+Working through disagreements, heresies, and cults is a *very* intense form of [personal evangelism](spiritual-exercises-evangelism.md) and [leadership](mgmt-church.md).
 
 - To be a peacemaker, you will need *tremendous* patience in understanding everyone's points of view ([Matthew 5:9](https://biblehub.com/matthew/5-9.htm)).
 - It takes a *tremendously* open mind to respect each person's [culture](people-culture.md) as uniquely different while maintaining your views.
@@ -34,7 +34,7 @@ In general, prioritize your [conflict management](people-conflicts.md) skills co
 1. As much as it depends on you, be at peace with everyone ([Romans 12:18](https://biblehub.com/romans/12-18.htm)).
    - This may mean dropping disagreements that get too heated or don't have much earthly significance.
    - It also means [staying legally safe](legal-safety.md), but exercising restraint in delivering [legal action](lawsaxioms-legal.md).
-2. If it's a [legitimate sin](morality-sins.md) with another Christian, confront them about it ([Matthew 18:15-17](https://biblehub.com/matthew/18.htm), [Deuteronomy 19:15-21](https://biblehub.com/deuteronomy/19.htm)).
+2. If it's a [legitimate sin](theology-sins.md) with another Christian, confront them about it ([Matthew 18:15-17](https://biblehub.com/matthew/18.htm), [Deuteronomy 19:15-21](https://biblehub.com/deuteronomy/19.htm)).
    - If that doesn't work, bring 1-2 others with you to validate what they're saying with evidence.
    - Take it to the church at large if that doesn't clear up the issue.
    - Finally, if nothing changes, exile them outright from your group.

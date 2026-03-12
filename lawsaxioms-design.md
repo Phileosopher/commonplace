@@ -24,7 +24,7 @@ Information filtering
 - Juxtaposition - elements tend to get grouped when they're similar
 - Law of proximity - elements tend to get grouped when they're near each other
 - Mental model - we have a preconceived opinion on how things work
-- Priming - previous perceptions will influence someone's [decision](people-decisions.md)
+- Priming - previous perceptions will influence someone's [decision](mind-decisions.md)
 - Progressive disclosure - we are less overwhelmed from complex features if they're shown later
 - Selective attention - we filter out things when they're focused on other things
 - Spark effect - we are more likely to take actions when they're small
@@ -97,7 +97,7 @@ Pseudo-conscious states of mind
 - Reciprocity - we feel the need to respond when we receive something
 - Recognition over recall - we recognize things more easily than recalling them from memory
 
-Mostly-conscious [decision-making](people-decisions.md)
+Mostly-conscious [decision-making](mind-decisions.md)
 
 - Availability heuristic - we favor recent and available information over past information
 - Decision fatigue - making many decisions makes us more irrational toward more decisions

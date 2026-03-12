@@ -41,7 +41,7 @@ Today's game development has many drag-and-drop interfaces that turn game progra
 
 The simplicity of making games now has created a heavily saturated market of game developers, and the increased demand from all the people who want to play games has made it a heavily competitive domain. Developers are *constantly* stealing [intellectual property](legal-ip.md) from one another, and most of the ideas from AAA game developers are blatantly pulled from an indie developer who wouldn't be able to sue for copyright infringement. In the long-term, AAA games spend so much on mass [marketing](marketing.md) that they receive credit for new features or gameplay elements.
 
-For each genre or style, game developers generally move through a [trend](trends.md) of motivations that drive them into the industry:
+For each genre or style, game developers generally move through a [trend](people-trends.md) of motivations that drive them into the industry:
 
 1. An independent developer [creatively](mind-creativity-how.md) designs their heartfelt art. The game is beautiful, but often unpolished from the fact that they're pioneering the entire thing and don't have the staff to clean it up.
 2. Further developers polish that first creator's art with their own games. Those games are superior to play (since the idea was already made), and they refine the formula.
@@ -51,7 +51,7 @@ Often, unscrupulous developers will borrow heavily from the [operant conditionin
 
 1. Present a set of possible actions for the user, with rewards for some of those actions.
 2. For the rewarded actions, modulate the chances of the actions occurring (e.g., 1 in 20 chance, every 15 times, etc).
-3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](people-decisions.md).
+3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](mind-decisions.md).
 4. Repeat indefinitely, changing out rewards occasionally, adding new types of rewards, and scaling them up before the user gets bored.
 5. Branch out the rewards into tiers (e.g., an easily acquired type of coin and a rare type of coin).
 6. Eventually, extend the experience into real-world [economics](money-economics.md) by making real-world currency necessary to advance the game.
@@ -60,7 +60,7 @@ Most of the time, game developers will [scale up](mgmt-7_changes.md) by having *
 
 ## Trends
 
-The electronic games industry has gone through many [trends](trends.md) that no longer exist, though they tend to pop up in weird places.
+The electronic games industry has gone through many [trends](people-trends.md) that no longer exist, though they tend to pop up in weird places.
 
 To change difficulty or configurations in the early 1980s, Atari games had simple toggle switches before starting a game that required [documentation](language-writing-documentation-cs.md) to decipher. By the 1990s, this difficulty switch eventually dissolved to an Easy/Medium/Hard selection when starting a game, and became an obscure feature hidden in the settings by the 2010s or simply nonexistent.
 

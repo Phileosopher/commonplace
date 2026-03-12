@@ -99,7 +99,7 @@ Antinatalism - Giving birth is a morally bad thing.
 
 Antinomianism - Nobody has to follow moral laws, typically referring to theology.
 
-Asceticism - The [good life](goodlife.md) requires refraining from pleasurable things in this world.
+Asceticism - The [good life](people-goodlife.md) requires refraining from pleasurable things in this world.
 
 Careerism - The greatest good comes in someone advancing their career, even if it risks them growing in other areas of life.
 
@@ -122,6 +122,8 @@ Humanistic naturalism - assuming naturalism (see above), humans are extensions o
 
 Immoralism - Since morality doesn't matter, people should strive for an aesthetic (see below) that imitates living forever.
 
+Indifferentism - No philosophy or value system is inherently better than any other one.
+
 Intellectualism - Assuming rationalism (see above), reasoning is the best way to gain understanding.
 
 Irrationalism - Science is inferior to intuition, and the ultimate transcendence of humanity comes through art and conquering aesthetics.
@@ -132,7 +134,7 @@ Objectivism - At least some actions are universally right or wrong.
 
 Pacifism - Peace is the greatest good.
 
-Perfectionism - People live [the good life](goodlife.md) to the degree that they successfully do things that are part of their nature.
+Perfectionism - People live [the good life](people-goodlife.md) to the degree that they successfully do things that are part of their nature.
 
 Randianism - People are best as heroic beings morally focused on [self-happiness](mind-feelings-happiness.md), focused on [productivity](success-3_goals.md) foremost, with their only absolute being [reason](logic.md). Often called objectivism by Randians.
 
@@ -142,7 +144,7 @@ Stoicism - Self-control of all types creates inner strength that builds harmony 
 
 ## Do we have free will?
 
-Compatibilism/Soft determinism - Because we can [imagine](imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
+Compatibilism/Soft determinism - Because we can [imagine](people-imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
 
 Incompatibilism - Free will and determinism (see above) cannot [logically](logic.md) coexist.
 

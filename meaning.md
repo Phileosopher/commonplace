@@ -9,10 +9,10 @@ Our indirect sense of meaning comes through relationships. It can be [God](relig
 
 The direct sense of meaning we have control over is derived from [purposes](purpose.md) through a sense of responsibility. Broadly, responsibility is a series of elements:
 
-1. Having the capacity to make [decisions](people-decisions.md)...
+1. Having the capacity to make [decisions](mind-decisions.md)...
 2. ...which create [actions](results.md), which may simply be thoughts...
 3. ...which accomplish a [purpose](purpose.md) directed toward an object.
-4. We've [predicted](imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
+4. We've [predicted](people-imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
 5. We [believe](understanding-certainty.md) our decision changed the [consequence](results.md).
 6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](mind-feelings-happiness.md).
 
@@ -30,7 +30,7 @@ Responsibility-based meaning doesn't necessarily come from legitimately changing
 
 The nature of responsibility also means that we must always conquer the [unknown](unknown.md), which ends up always reverting to some type of [religious theme](religion.md), no matter how secular we become.
 
-[Decisions](people-decisions.md) operate independently of [habit](habits.md), so we can only continue feeling meaning by continuing to make conscious choices. Otherwise, we will start to drift from our sense of meaning. [Building new habits](https://adequate.life/habits/) can *be* a choice, and is probably the only choice we can continuously make the same throughout our life, beyond anything regarding [religion](religion.md).
+[Decisions](mind-decisions.md) operate independently of [habit](habits.md), so we can only continue feeling meaning by continuing to make conscious choices. Otherwise, we will start to drift from our sense of meaning. [Building new habits](https://adequate.life/habits/) can *be* a choice, and is probably the only choice we can continuously make the same throughout our life, beyond anything regarding [religion](religion.md).
 
 From our biological origins, our [gender](gender.md) (i.e., XX or XY chromosome) has a *profound* impact on how we frame meaning.
 
@@ -42,7 +42,7 @@ APPLICATION: We find unbelievable meaning through sacrifice for others, and it's
 
 The second-greatest form of experiencing meaning comes through [creating](creations.md) things that benefit others, with the greatest in *being* someone that someone else [loves](people-love.md). When we *only* consider sacrificing for others' interests, we can find incomparable meaning through [love](people-love.md), especially toward others.
 
-Every second, our responsibility-based meaning is subject to change. It can shift from an [emotional state](mind-feelings.md), or from [understanding](understanding.md) something in a new way, or could simply be because we [decided](people-decisions.md) something differently.
+Every second, our responsibility-based meaning is subject to change. It can shift from an [emotional state](mind-feelings.md), or from [understanding](understanding.md) something in a new way, or could simply be because we [decided](mind-decisions.md) something differently.
 
 ## Irresponsibility and meaning
 
@@ -70,7 +70,7 @@ When people run from risks long enough to make it a [habit](habits.md), they los
 
 APPLICATION: In a [perfect society](politics-perfectsociety.md), everyone would build their own home, with the only exceptions being strictly by [love](people-love.md) that overlooked others' weaknesses.
 
-The one benefit to being a victim is that there's no need to personally [change](people-changes.md). Unfortunately, it leads to a life of existential misery, and typically leads to even more [hardship](hardship.md), since a person will feel more loss from their bad [decisions](people-decisions.md) over the same experience coming by outside [coercion](power.md).
+The one benefit to being a victim is that there's no need to personally [change](people-changes.md). Unfortunately, it leads to a life of existential misery, and typically leads to even more [hardship](hardship.md), since a person will feel more loss from their bad [decisions](mind-decisions.md) over the same experience coming by outside [coercion](power.md).
 
 The only way to get out of an unpleasant situation is to claim responsibility of what we should have done and still have control over. This can express as performing [basic housekeeping](home-housekeeping.md) or finding something that makes us [happy](mind-feelings-happiness.md).
 
@@ -82,7 +82,7 @@ APPLICATION: Nihilism implies everything is meaningless because it eventually wo
 
 ## The journey vs. the destination
 
-We don't find much meaning in the fulfillment of the things we want. Generally, shortly after we celebrate [attaining those things](success-1_why.md), we look immediately for something else to fulfill us. However, we anticipate that we will find *spectacular* meaning in things we do as we [imagine](imagination.md) it in the future.
+We don't find much meaning in the fulfillment of the things we want. Generally, shortly after we celebrate [attaining those things](success-1_why.md), we look immediately for something else to fulfill us. However, we anticipate that we will find *spectacular* meaning in things we do as we [imagine](people-imagination.md) it in the future.
 
 APPLICATION: Enjoyment in something isn't in the attainment, but the effort and [expected results](results.md). For that reason, accomplishing challenging and relatively unnoticed things that help others is far more rewarding than simply acquiring or achieving more.
 
@@ -94,13 +94,13 @@ Once we've attained something, we're guaranteed to get bored. The only way we'll
 
 APPLICATION: It's perfectly possible (and not uncommon) to become wildly [successful](success-1_why.md) and feel absolutely dead inside. It comes through a distinct absence of [love](people-love.md) for others.
 
-Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
+Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](people-goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
 
-APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](imagination.md) and [committed](people-decisions.md) to [believing](understanding-certainty.md).
+APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](people-imagination.md) and [committed](mind-decisions.md) to [believing](understanding-certainty.md).
 
 Too much [specialization](jobs-specialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
-APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](people-decisions.md), and far more [understanding](understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](goodlife.md).
+APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](people-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 

@@ -13,4 +13,4 @@ Philip the Arab was a Roman Emperor who ruled from 244 to 249. He was implied to
 
 The first incident of widespread, direct Christian-targeted persecution came through Decius in 250, though he spared Jews from it because he considered their religion to be more legitimate because it was older.
 
-It's worth noting that the [sinfulness](morality-sins.md) of the Church was also present. Christian culture had adopted the practice of using girls for sexual activities, as well as a legitimate abortion issue.
+It's worth noting that the [sinfulness](theology-sins.md) of the Church was also present. Christian culture had adopted the practice of using girls for sexual activities, as well as a legitimate abortion issue.

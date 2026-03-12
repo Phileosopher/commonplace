@@ -7,7 +7,7 @@ Don't confuse your depression with sadness:
   - It's okay to be sad, even if it's difficult.
   - Many times, we magnify our sadness into something worse by giving it more [meaning](meaning.md) than it deserves.
 - Depression is where you've come to believe that one of your needs can *never* be met (instead of just right now), then [relive the past](hardship-ptsd.md) repeatedly to find an answer.
-- Over time, depression will erode your [philosophical views](philosophy.md), which will lead to further decay of your [sense of identity](identity.md), which will eventually lead to an existential crisis.
+- Over time, depression will erode your [philosophical views](philosophy.md), which will lead to further decay of your [sense of identity](people-identity.md), which will eventually lead to an existential crisis.
 
 Contrary to what you feel, your first problem is *not* a lack of understanding or happiness:
 

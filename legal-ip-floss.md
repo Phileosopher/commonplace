@@ -127,7 +127,7 @@ But, this back-end/front-end dichotomy [travels backward several degrees](https:
 - Even when there are plenty of closed-source frameworks or front-end software, protocols are the farthest possible upstream system before getting to [computer hardware](computers-hardware.md).
 - The presence of an open protocol allows ambitious developers to circumvent any frameworks which may be closed off to them.
 - Many technology standards are *not* open (e.g., ISO standards), which adds a heavy financial burden that prevents innovation and reduces transparency.
-- If a hardware designer is particularly confident in what they're building, they'll make their own *hardware* standards open. Over time, this can create a tremendously loyal community, and [adoption](trends.md) can make it industry-standard.
+- If a hardware designer is particularly confident in what they're building, they'll make their own *hardware* standards open. Over time, this can create a tremendously loyal community, and [adoption](people-trends.md) can make it industry-standard.
 
 Beyond open software and data, one of the most popular open-source developments in [CPU design](computers-cpu.md) comes through a completely open software architecture called [RISC-V](https://riscv.org/), which superseded the open-architecture movement OpenRISC held for a while.
 
@@ -145,7 +145,7 @@ Anytime a popular closed-source version of a software becomes popular, *someone*
 - Most [games](computers-software-gamedev.md) have been modded with open-source plugins that improve or fix the game, and the entire *codebase* of some popular games have been entirely rebuilt as open-source (e.g., Elder Scrolls games, Command & Conquer).
 - Even many [enterprise-grade software](computers-distsys-enterprise.md) have been successfully reproduced as open-source.
 
-Often, when the tech-related economy starts dipping (often because [a tech trend](trends.md) failed spectacularly), open-source becomes less common. Gigantic open-source corporations may release projects as entirely closed-source, or create closed-source modules.
+Often, when the tech-related economy starts dipping (often because [a tech trend](people-trends.md) failed spectacularly), open-source becomes less common. Gigantic open-source corporations may release projects as entirely closed-source, or create closed-source modules.
 
 At the same time, open-source becomes the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](computers-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
 
@@ -153,18 +153,18 @@ At the same time, open-source becomes the dumping ground for anything Big Tech h
 
 A few decades ago, most operating systems and software were closed-source, but most software is at least *partially* open-source. In fact, for almost any technology older than a few years, there's an open-source alternative.
 
-This set of facts leads open-source advocates to conclude that the open-source [trend](trends.md) will *completely* take over software licensing, but they're forgetting a few additional facts:
+This set of facts leads open-source advocates to conclude that the open-source [trend](people-trends.md) will *completely* take over software licensing, but they're forgetting a few additional facts:
 
 - The required amount of research to create brand-new software can often be costly, so most companies concerned with profits tend to create closed-source software for new things.
 - By contrast, the motive for open-source development over closed-source is never directly for financial profit.
-- Thus, open-source development is always a trend that follows closely *after* a closed-source option became [a trend of its own](trends.md).
+- Thus, open-source development is always a trend that follows closely *after* a closed-source option became [a trend of its own](people-trends.md).
 
 In one sense, open-source has *already* taken over the tech industry, but [in name only](people-image-why.md) as mistaken [marketing jargon](marketing.md) for *free*.
 
 Any software or hardware industry only becomes open-source when several conditions are fulfilled:
 
 1. There haven't been any new developments that change the core function of the object or its implementation.
-2. It's [widely adopted](trends.md), in its standardized form.
+2. It's [widely adopted](people-trends.md), in its standardized form.
 3. Some open-source variants are significantly superior to their closed-source competitors.
 
 In other words, all tech become open-source when they become commodities and software developers can imitate them. All it needs is the software to be good-enough, then the users will trust the open-source solution more.

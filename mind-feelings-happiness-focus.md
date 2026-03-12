@@ -3,7 +3,7 @@
 
 The ability to change how we see the future and past is a sign of mental wellness:
 
-- The past is a pile of incomplete [memories](mind-memory.md), and the future is simply our [imagination](imagination.md).
+- The past is a pile of incomplete [memories](mind-memory.md), and the future is simply our [imagination](people-imagination.md).
 - Thus, we can't harm anything by bending how we see the future or past to our desires.
 - When we rewrite our past, it gives us greater control over how we see the future.
 

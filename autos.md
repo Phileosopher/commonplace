@@ -27,7 +27,7 @@ Usually, it's a good idea to warm up the engine.
 Each vehicle, even with the same year, make, and model, handles a little differently.
 
 - The actual vehicle's [design](engineering-design.md) makes the most difference, but it can also reflect through each vehicle's parts wearing and the driver's relative use of the vehicle.
-- It's easiest to think of each vehicle developing a type of [personality](personality.md).
+- It's easiest to think of each vehicle developing a type of [personality](people-personality.md).
 
 In general, there are [engineering](engineering.md) tradeoffs for operating each vehicle:
 

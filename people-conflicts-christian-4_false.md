@@ -35,8 +35,8 @@ There is no hell, it isn't eternal, or is a figurative state of mind:
   - God reserved hell for the Satan and his fallen angels ([2 Peter 2:4](https://biblehub.com/2_peter/2-4.htm)).
   - Irrespective of its controversy, the Bible makes it clear it's for unrepentant sinners.
 - Other people don't imagine how an all-loving God could deliver eternal punishment, but several independent thoughts shed some light on it:
-  1. [Our souls](humanity-christian.md) are designed to be infinite.
-  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
+  1. [Our souls](theology-godandman-humanity.md) are designed to be infinite.
+  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](theology-god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
   3. He therefore has no choice for infinite, unrepentant souls except to put them away from the rest of creation.
 
 Some heresies about Christian [rituals and practices](mgmt-church.md) create an environment with [bad boundaries](people-boundaries-why.md):
@@ -94,7 +94,7 @@ One of the most prominent heresies stems from [magical thinking](understanding-c
     - Todd White
     - Andrew Wommack
 - Popularity Gospel - Jesus calls for us to love our neighbor, and God loves us so much that what we do is immaterial.
-  - At the farthest end, we don't need to maintain any [correct conduct](spiritual-exercises.md), to the point that *any* disliking of [sins](morality-sins.md) (e.g., LGBetc.) is unloving.
+  - At the farthest end, we don't need to maintain any [correct conduct](spiritual-exercises.md), to the point that *any* disliking of [sins](theology-sins.md) (e.g., LGBetc.) is unloving.
   - Popularity Gospel churches tend to focus on growing church numbers more than strong doctrine.
     - There's typically more [cultural shaming](morality-taboo.md) than [theological](theology.md) strength to most of their arguments.
     - To that end, it's impossible to indicate *precisely* what they believe, except that [they're not very rigorous about it](understanding.md).
@@ -144,7 +144,7 @@ Heresies that add content to the Bible:
 
 ## Outright against the Bible
 
-Heresies about [God's nature](god.md):
+Heresies about [God's nature](theology-god.md):
 
 - Audianism - God has a human form, and we're precisely created in God's image.
 - Christian Deism - God does not intervene in or interact with the world.
@@ -158,13 +158,13 @@ Heresies about the Trinity:
 - Modalism/Patripassianism - The members of the Trinity are only three different aspects or modes of the same person, not three distinct persons.
   - Sabellianism (Emanations) - The Father was the Old Testament God, The Son was the New Testament God, and the Holy Spirit is God right now.
 - Partialism - Each member of the Trinity is not fully God, but only 1/3 of God.
-  - Swedenborgianism - Each member of the Trinity is like humanity's [body, soul, and spirit](humanity-christian.md).
+  - Swedenborgianism - Each member of the Trinity is like humanity's [body, soul, and spirit](theology-godandman-humanity.md).
 - Tritheism The Godhead is actually three separate gods.
 
 Heresies about Jesus' nature:
 
 - Adoptionism - Jesus became God sometime after His birth.
-- Apollinarism - Jesus did not have a rational [human soul or mind](humanity-christian.md), but instead His soul was simply a Logos.
+- Apollinarism - Jesus did not have a rational [human soul or mind](theology-godandman-humanity.md), but instead His soul was simply a Logos.
 - Arianism - Jesus and the Holy Spirit are lesser, created beings and not directly God.
 - Docetism - Jesus was divine, but only seemed to be human, and didn't experience any human experiences.
 - Ebionitism - Jesus was distinguished from other humans, but was nonetheless purely human.
@@ -183,7 +183,7 @@ Heresies about the Virgin Mary:
 - Collyridianism - The Virgin Mary, mother of Jesus, is a goddess.
 - Virgin birth denial - Jesus was not born of a virgin.
 
-Heresies about [sins](morality-sins.md) and [morality](morality.md):
+Heresies about [sins](theology-sins.md) and [morality](morality.md):
 
 - Antinomianism - Jesus rescues Christians from the legal guilt of sin, so they're free to sin as they please.
 - Manichaeism - Good and evil are both equally powerful in ability or authority.

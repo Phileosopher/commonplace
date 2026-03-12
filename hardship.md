@@ -27,7 +27,7 @@ While you may be suffering severely, try to avoid making the pain "dirty":
 
 If others judge you, treat their behavior as part of the package of your current hardship.
 
-- When people judge you, they're boxing you into a category of something sub-human, but they do it to *everyone* in that situation like you, and it's nothing worth [identifying with](identity.md).
+- When people judge you, they're boxing you into a category of something sub-human, but they do it to *everyone* in that situation like you, and it's nothing worth [identifying with](people-identity.md).
 - Others' harsh behaviors are often self-protective measures that have veered into excess.
 - You are [responsible](meaning.md) to [fix what you broke](https://adequate.life/fix/) and [alienate yourself](people-changes.md) from the decisions that created your situation.
   - You are *not* responsible for how others think about you.
@@ -51,7 +51,7 @@ People will use projection, transference, and poor self-management skills to beh
 
 Whatever happened, *you* must control how it'll influence you:
 
-- If you don't take control of your [identity](identity.md), your awful experience will force you into an extreme:
+- If you don't take control of your [identity](people-identity.md), your awful experience will force you into an extreme:
   - You will be driven into an endless pit of self-loathing or blame and, eventually, bitterness.
   - You'll disassociate from the experience, not learn from it, and slowly develop [narcissistic traits](mind-neurodivergence.md)
 - By not taking responsibility for yourself and your decisions, you permit the hardship to keep running its course after the events are over, along with any further [evil](morality-evil.md) anyone has committed against you.
@@ -72,7 +72,7 @@ You're the chaotic accumulation of various experiences and responses:
   - Natural talents and weaknesses
   - Culture of origin including [habits](habits.md), traditions, and rituals
 - Every experience you've been through, good or bad
-- Each [decision](people-decisions.md) you've made, with each one creating some type of [consequence](results.md).
+- Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
   - Further, the things you've [learned](understanding.md) from those experiences.
 - [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.
@@ -83,7 +83,7 @@ Thus, you are not a "static" existence:
   - Your muscles are constantly breaking down or healing.
   - You can't have the same thought twice.
 - You have less in common with the version of you 10 years ago than with your peers.
-- Every [decision](people-decisions.md) you make from this point dictates who "Future You" can become.
+- Every [decision](mind-decisions.md) you make from this point dictates who "Future You" can become.
 
 If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
 
@@ -93,7 +93,7 @@ If you don't remove "static" thinking, you're guaranteed to become (and stay) a 
 
 Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
 
-Life is guaranteed to be difficult, but we get to [choose](people-decisions.md) what version of difficult we can experience.
+Life is guaranteed to be difficult, but we get to [choose](mind-decisions.md) what version of difficult we can experience.
 
 Give yourself plenty of grace:
 
@@ -126,7 +126,7 @@ The only cure to stopping the "temporary insanity" of emotional overwhelm is sel
 
 Most professional therapists are simply assisting with our self-analysis process:
 
-- Their goal is to equip you with information (and sometimes medication or [habits](habits.md)) that empower you to stop reacting to your self-destructive [feelings](mind-feelings.md) and make better [decisions](people-decisions.md).
+- Their goal is to equip you with information (and sometimes medication or [habits](habits.md)) that empower you to stop reacting to your self-destructive [feelings](mind-feelings.md) and make better [decisions](mind-decisions.md).
 - While psychological therapy is often worth it, it's not for everyone:
   - Being [poor](money-1_why.md) means a professional therapist may be too expensive.
   - People with trust issues will have a hard time believing the therapist's diagnosis.
@@ -183,7 +183,7 @@ However, we don't need to accept *all* the painful realities at once:
 - We only need to focus on the scope of reality that sits within our direct control.
 - Any further than what we can emotionally withstand will create unbelievable anxiety and distress.
 - Depending on the situation, this may require observing reality second-by-second.
-- This is increasingly difficult in proportion to our [intelligence](personality.md) and [understanding](understanding.md).
+- This is increasingly difficult in proportion to our [intelligence](people-personality.md) and [understanding](understanding.md).
 
 The world of possibilities is never reality:
 
@@ -203,7 +203,7 @@ To accept and focus on reality, [stay centered on "now"](awareness.md):
 
 Getting to a place of "perpetual present-ness" requires self-disciplining ourselves to constantly release everything else:
 
-- While it's absolutely a worthwhile endeavor to find [God](god.md) in the darkest places of our lives, many people have released control without any religious components.
+- While it's absolutely a worthwhile endeavor to find [God](theology-god.md) in the darkest places of our lives, many people have released control without any religious components.
   - It's worth noting that legitimate spiritual experiences are more likely to happen while under severe hardship, so that's the best time to discover God.
 - If anything keeps floating into your consciousness, [write it out](language-writing.md) plainly and thoroughly to get a [grasp](understanding.md) of what that thing is.
 - Even when things are terrible, you can find [meaning](meaning.md) in suffering through focusing strictly on what you're responsible for.
@@ -222,7 +222,7 @@ Most people grow up habituated toward a certain amount of hope, but not everyone
 
 Wherever we are, we can add hope to our lives:
 
-- Read inspiring stories or [the Bible](bible.md).
+- Read inspiring stories or [the Bible](theology-bible.md).
 - [Meditate](awareness-meditation.md.md).
 - Perform a small task toward a [goal](success-3_goals.md) you want to accomplish.
 - [Spend time around others](people-friends.md) who are doing as badly or worse than you.
@@ -284,7 +284,7 @@ Extreme hardship, especially when it includes poverty, often drives away close f
 - [Friendship](people-friends.md) comes through shared experience, so you've now out-experienced the friends you once had.
 - Hardship changes us, so we often become unrecognizable to family and close friends.
 - Many of the friends you once had before the hardship will feel uncomfortable about the new situation and won't associate with you anymore.
-- Often, the *consequences* of the hardship can alienate as well (often from prejudice or anger about your [decisions](people-decisions.md)).
+- Often, the *consequences* of the hardship can alienate as well (often from prejudice or anger about your [decisions](mind-decisions.md)).
 
 You'll only find friends who can either empathize with your experiences or will love you irrespective of those experiences:
 

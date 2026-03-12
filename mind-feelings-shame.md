@@ -8,7 +8,7 @@ Shame is the internalization of regret or guilt.
 - Both are a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
 - We tend to fail at moving on from guilt and regret when we [relive trauma](hardship-ptsd.md).
 
-The only [use](results.md) for regret is when we have [not learned](understanding.md) from the [decision](people-decisions.md) we had made.
+The only [use](results.md) for regret is when we have [not learned](understanding.md) from the [decision](mind-decisions.md) we had made.
 
 - It's effectively useless when we did [the right thing](morality.md) at the time with the information we had available.
 
@@ -21,24 +21,24 @@ No matter what, people make decisions they think are [reasonable](logic.md) at t
 Over time, regret converts into shame:
 
 - Shame is the belief that we are defective, inadequate, or flawed.
-- Shame moves from the realm of action ("I did wrongly") to [identity](identity.md) ("I am wrong").
+- Shame moves from the realm of action ("I did wrongly") to [identity](people-identity.md) ("I am wrong").
 - We'll presume (often when we're highly susceptible as children) that we can "fix" ourselves to feel less shame.
 
 ## Living in regret and shame
 
 Shame is painful, and stops the ability to self-reflect.
 
-- At least some of the things we declare as "broken" are core parts of our [personality](personality.md).
+- At least some of the things we declare as "broken" are core parts of our [personality](people-personality.md).
 - *Any* [self-development](success-1_why.md) will be halted by shame, since the mind will interpret it as self-protection.
 
 Shame frequently comes through [conflicts](people-conflicts-why.md) about a [taboo](morality-taboo.md).
 
-- However, anyone can imply that a person [should](imagination.md) be ashamed (even when it's a [distortion of the truth](people-image-distortion.md)).
+- However, anyone can imply that a person [should](people-imagination.md) be ashamed (even when it's a [distortion of the truth](people-image-distortion.md)).
 
 If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md).
 
 - As time persists, we may be trained to be controlled by the [bullies](power.md) of that group.
-- Instead of learning to [cope with it](people-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md).
+- Instead of learning to [cope with it](mind-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md).
 
 ## Shame indicators
 
@@ -104,7 +104,7 @@ The solution to regret is to internalize the fact that, given what you knew at t
 
 - The solution to *shame*, however, starts with [awareness](awareness.md) of it, then shifts to self-forgiveness.
 
-The only lasting cure for shame is to form [an identity](identity.md) around something that's *not* the actions we had performed.
+The only lasting cure for shame is to form [an identity](people-identity.md) around something that's *not* the actions we had performed.
 
 - This can take the form of self-indemnifying, but should be conformed to [reality](reality.md).
-- The most powerful peace comes in becoming and closely identifying as [a child of God](humanity-christian.md).
+- The most powerful peace comes in becoming and closely identifying as [a child of God](theology-godandman-humanity.md).

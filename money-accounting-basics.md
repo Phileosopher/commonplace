@@ -73,7 +73,7 @@ Assumption 2 - Going Concern/Continuity
   - Short-term vs. long-term liabilities
   - Capital and revenue expenditures
   - The changes in value of an asset (Capitalization, Depreciation, and Amortization)
-- Without it, there will be no means of [projecting](imagination.md) what to do in the farther future.
+- Without it, there will be no means of [projecting](people-imagination.md) what to do in the farther future.
 
 Assumption 3 - Monetary Unit Principle
 
@@ -116,7 +116,7 @@ Principle 4 - Full Disclosure Principle
 
 - Preparing and using information costs money, so analyzing the tradeoffs determines which information should be disclosed.
   - Accountants can store their information in the main body of financial statements, in the notes, or as supplementary information.
-- The disclosed information should provide enough knowledge for all organizational [decisions](people-decisions.md), but shouldn't become unreasonably expensive.
+- The disclosed information should provide enough knowledge for all organizational [decisions](mind-decisions.md), but shouldn't become unreasonably expensive.
 - Without it, accountants would endlessly peruse the record keeping and drive a company out of business.
 
 Constraint 1 - Objectivity Principle
@@ -232,11 +232,11 @@ The statements could best be described by comparing the organization to a fruit-
 
 Typically, the reports are often bundled together into an Annual Report.
 
-- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](imagination.md).
+- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](people-imagination.md).
 
 Most [managerial](mgmt-1_why.md) accounting involves creating specialized reports to fit the needs of the people who influence a large company.
 
-- To create the reports, most of the data on graphs is smoothed out to show lines that indicate [a trend](trends.md) instead of jagged points.
+- To create the reports, most of the data on graphs is smoothed out to show lines that indicate [a trend](people-trends.md) instead of jagged points.
 
 Some financial statements are required by the Securities and Exchange Commission (SEC) to more clearly clarify equity-based information for owners:
 

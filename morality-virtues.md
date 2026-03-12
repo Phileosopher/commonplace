@@ -11,7 +11,7 @@ Kindness - [doing](results.md) good things for others
 
 Gratitude - [aware](awareness.md) and thankful for good things
 
-Hope - [expects](imagination.md) the best and works toward it
+Hope - [expects](people-imagination.md) the best and works toward it
 
 Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
 
@@ -27,7 +27,7 @@ Humility - seeing others as more important than ourselves
 
 [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
 
-[Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](people-decisions.md)
+[Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](mind-decisions.md)
 
 ## Perspectives we choose to [see](people-image-why.md)
 
@@ -57,6 +57,6 @@ Integrity - holds fast to important [values](values.md) and [promises](people-co
 
 ## The "middle ground" between things
 
-Prudence/meekness - makes [decisions](people-decisions.md) carefully, even when it's possible to indulge in a bad decision
+Prudence/meekness - makes [decisions](mind-decisions.md) carefully, even when it's possible to indulge in a bad decision
 
 Self-regulation/patience - holds back from [excess](addiction.md), even when we feel compelled to act

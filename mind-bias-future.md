@@ -69,13 +69,13 @@ Positivity effect/socioemotional selectivity theory - we prefer to hear positive
 
 Probability neglect - we ignore [likely consequences](results.md) when we're [uncertain](understanding-certainty.md)
 
-Pro-innovation bias - we believe [a new thing](trends.md) should be adopted universally by society without any adaptations
+Pro-innovation bias - we believe [a new thing](people-trends.md) should be adopted universally by society without any adaptations
 
 Restraint bias - we overestimate our ability to control our [impulses](habits.md)
 
 Scope neglect - we ignore the size of a problem when considering it
 
-Self-licensing/moral self-licensing/moral licensing/licensing effect - we make [immoral choices](morality.md) when we feel confident in [ourselves](identity.md)
+Self-licensing/moral self-licensing/moral licensing/licensing effect - we make [immoral choices](morality.md) when we feel confident in [ourselves](people-identity.md)
 
 Validity illusion - we overestimate our ability to accurately analyze data to interpret and predict [results](results.md)
 
@@ -83,7 +83,7 @@ Validity illusion - we overestimate our ability to accurately analyze data to in
 
 AI effect - we discredit the behavior of an [artificial intelligence](computers-ai.md) computer program because we claim it's not *real* intelligence
 
-External agency illusion - we assume our satisfaction comes from external factors and not our [decisions](people-decisions.md)
+External agency illusion - we assume our satisfaction comes from external factors and not our [decisions](mind-decisions.md)
 
 Hyperbolic discounting/current moment bias/present bias/dynamic inconsistency - we prioritize immediate benefits over larger long-term benefits
 
@@ -121,7 +121,7 @@ Moral luck - we give moral blame or praise to people not responsible for it
 
 Non-adaptive choice switching/once bitten, twice shy effect/hot stove effect - we avoid previous choices that were ideal because they caused us pain
 
-Outcome bias/defensive attribution hypothesis/consequences appeal/force appeal/fear appeal - we judge [decisions](people-decisions.md) by their outcome instead of the quality of the decision itself
+Outcome bias/defensive attribution hypothesis/consequences appeal/force appeal/fear appeal - we judge [decisions](mind-decisions.md) by their outcome instead of the quality of the decision itself
 
 Proportionality bias - we assume big events are caused by big things
 

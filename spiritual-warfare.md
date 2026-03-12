@@ -41,11 +41,11 @@ The mind is the Satan's battleground:
   1. Harassment and oppression by alluding to lies that someone might [believe](understanding-certainty.md).
   2. If someone is willing to listen (including believers, [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](understanding.md).
   3. Directly controlling them through their loss of control via bad [habits](habits.md), which can include possession.
-- [Our design](humanity-christian.md) means we become ineffective or destructive if he wins against our mind.
+- [Our design](theology-godandman-humanity.md) means we become ineffective or destructive if he wins against our mind.
 
 When we satisfy our sins, our thoughts dwell on them more:
 
-- We develop an [anxious](mind-feelings-fear.md), [distrustful](understanding-certainty.md), violent, envious attitude when we dwell on [sins](morality-sins.md).
+- We develop an [anxious](mind-feelings-fear.md), [distrustful](understanding-certainty.md), violent, envious attitude when we dwell on [sins](theology-sins.md).
 - The Satan uses our sins as vectors of attack against us.
 
 We only win the battle against the Satan when we fully submit our minds to Christ:
@@ -125,7 +125,7 @@ B. Search for any violation of biblical principles:
 
 C. Closely consider how the Satan is attacking:
 
-- [Sins](morality-sins.md) that are impossible to control:
+- [Sins](theology-sins.md) that are impossible to control:
   - Immorality, which usually manifests as an abnormal desire for sex.
   - Unrestrained, [impulsive behavior](addiction-substances.md).
   - Any expression of [feeling](mind-feelings.md) attribute taken to unreasonable extremes (e.g., unusual bitterness, severe rage).
@@ -136,7 +136,7 @@ C. Closely consider how the Satan is attacking:
   - Suicidal thoughts, often accompanied by attempting it.
 - Supernatural behavior:
   - Drug abuse (since most recreational drugs have a spiritual connection).
-  - Psychic power (the Satan has access to every [physically proven fact](reality.md), including information we [imagine](imagination.md) is private).
+  - Psychic power (the Satan has access to every [physically proven fact](reality.md), including information we [imagine](people-imagination.md) is private).
   - Extreme strength or [power](power-types.md), including the ability to [influence](power-influence.md) (where demons can directly manipulate the environment through the person).
 - Irritation during [prayer](spiritual-exercises-prayer.md), [Bible reading](bible-study.md), [worshiping](church.md) or [preaching](mgmt-church.md):
   - The most apparent sign is when that person reacted from a place they couldn't have observed that person's experience.
@@ -147,7 +147,7 @@ C. Closely consider how the Satan is attacking:
 - Psychological and physical disorders:
   - Antisocial and passive behavior, where someone will spend many days alone without any desire to connect with others.
   - Epilepsy and seizures.
-  - [Personality](personality.md) disorders (e.g., multiple personalities, schizophrenic behavior).
+  - [Personality](people-personality.md) disorders (e.g., multiple personalities, schizophrenic behavior).
   - Sickness or affliction that coincides with spiritual or good things.
   - Hearing voices that oppose God or His values.
   - An obsession with committing the "unpardonable sin" in [Mark 3:29](https://biblehub.com/mark/3-29.htm) (blaspheming the Holy Spirit is simply rejecting the Holy Spirit's work [that comes through Christ](https://theologos.site/gospel/)).
@@ -428,8 +428,8 @@ Pray specifically over your room:
 
 ## The Satan won't stop
 
-Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](spiritual-exercises-prayer.md) and keep [removing sins](morality-sins.md) ([Luke 11:24-26](https://biblehub.com/luke/11.htm)).
+Getting rid of the Satan is technically temporary, and he'll come back to harass us if we don't continue in our [relationship with God](spiritual-exercises-prayer.md) and keep [removing sins](theology-sins.md) ([Luke 11:24-26](https://biblehub.com/luke/11.htm)).
 
-We must [contend with him](spiritual-warfare-tricks.md) until [the day Jesus comes back](jesus-returns.md).
+We must [contend with him](spiritual-warfare-tricks.md) until [the day Jesus comes back](theology-end.md).
 
 However, we will prevail if we are His children, and the Satan can't stop it ([1 John 4:4](https://biblehub.com/1_john/4-4.htm), [1 John 5:4](https://biblehub.com/1_john/5-4.htm))

@@ -149,10 +149,10 @@ You must have *something* you're passionate about in any future job, but don't e
 
 No matter what, all sufficiently worthwhile jobs have the same components:
 
-1. The ability to make autonomous decisions for yourself ([control](people-decisions.md))
+1. The ability to make autonomous decisions for yourself ([control](mind-decisions.md))
 2. The freedom for you to address problems as needed ([creativity](mind-creativity.md))
 3. The ability to influence others with your decisions ([impact](power-influence.md))
-4. [What you're good at](success-6_humility.md) and [built to love doing](personality.md) ([competence](results.md))
+4. [What you're good at](success-6_humility.md) and [built to love doing](people-personality.md) ([competence](results.md))
 5. Someone else doesn't want to or can't do it, so they'll pay you to do it ([demand](money-economics.md))
 
 Every job is a hybrid of only a few types of roles:
@@ -196,7 +196,7 @@ Before moving on, make a clear image of what you want out of your work:
 
 Ignore what society calls a "great job":
 
-- Your current life status and [personality](personality.md) define what you'll call a "dream job".
+- Your current life status and [personality](people-personality.md) define what you'll call a "dream job".
 - There's a tradeoff for every job:
   - A [fun](fun.md) job is often not challenging, which will eventually bore you.
   - Stable jobs often give no chance of upward mobility or variety, which may make you feel oppressed or stifled.
@@ -367,17 +367,17 @@ Most jobs either require 1 specific skill or a wide variety of smaller skills:
 
 Note current trends within your desired industry:
 
-- Consider the 5-year implications of [current trends](trends.md).
+- Consider the 5-year implications of [current trends](people-trends.md).
   - Generally, your work becomes obsolete proportionally to how specialized you are.
 - Make three estimates of the future situation: the worst-case, the best-case, and the most likely.
   - If you're afraid of what may happen, shore up soft skills as a broad backup plan for anything that may arise.
-- Watch carefully for [political trends](trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](people-rules.md)).
+- Watch carefully for [political trends](people-trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](people-rules.md)).
   - If your job is slowly unionizing, you will be paid on existing in that job, *not* on your competence.
   - One consequence of a deregulated industry is that your pay will decrease for the same task, while [entrepreneurial opportunities](entrepreneur-1_why.md) will increase.
 
 While a 5-year plan is nice, it's not necessary:
 
-- Excluding change-resistant industries like [accounting](money-accounting.md), [insurance](money-insurance.md), and [law](legal-safety.md), most industries move around *constantly* from [new technology](technology.md) and [trends](trends.md).
+- Excluding change-resistant industries like [accounting](money-accounting.md), [insurance](money-insurance.md), and [law](legal-safety.md), most industries move around *constantly* from [new technology](technology.md) and [trends](people-trends.md).
 - Play the situation by ear a little, since you'll need to adapt to any changes that come your way.
   - Take smaller leaps before larger ones to avoid most of the risks from experience you couldn't have planned for.
 - Sometimes, depending on how much you can pivot from your current employment situation to what you want, it's better to only have a *one*-year goal.

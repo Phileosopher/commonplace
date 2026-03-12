@@ -6,7 +6,7 @@ While you can do whatever system works best for you, there are only a few popula
 Experiment with the note-taking style that works best for you:
 
 - Various strategies and styles may help you remember everything more easily.
-- Each person's brain is different, so each note-taking system works best for some [personalities](personality.md).
+- Each person's brain is different, so each note-taking system works best for some [personalities](people-personality.md).
 
 Outline system:
 

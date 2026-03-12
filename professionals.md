@@ -108,7 +108,7 @@ Attorney (Must have passed the bar exam):
 - A sloppy attorney will cost you irreparably by neglecting the legal environment for you or your business.
 - Look for at least two: a general-purpose attorney for filing documents, and one for every specialization you need:
   - Admiralty law (if you have maritime [logistical needs](logistics.md))
-  - Animal law (if you [raise livestock](agriculture.md))
+  - Animal law (if you [raise livestock](livestock.md))
   - Banking and finance law (if you're working with [large amounts of money](money-investing.md))
   - Bankruptcy law (if you have [too much debt](money-2_debt.md))
   - Business law (if you're an [entrepreneur](entrepreneur-1_why.md))

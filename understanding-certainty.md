@@ -3,7 +3,7 @@
 
 Dealing with the [unknown](unknown.md) is vastly difficult, so we tend to find [meaning](meaning.md) in declaring things to be certain.
 
-[We must constantly trust](trust.md) everything around us, but we make [decisions](people-decisions.md) to prioritize trusting one thing over another.
+[We must constantly trust](trust.md) everything around us, but we make [decisions](mind-decisions.md) to prioritize trusting one thing over another.
 
 We "believe" when we consider something to be [reality](reality.md), even without direct evidence.
 
@@ -11,9 +11,9 @@ We "believe" when we consider something to be [reality](reality.md), even withou
 - If you have a job, you believe you'll have it tomorrow.
 - You believe you will wake up tomorrow morning.
 
-Beliefs are how we establish things when we can't really know but have to make some type of [decision](people-decisions.md) based on that information, which is almost every time we have no [direct control](results.md) over something.
+Beliefs are how we establish things when we can't really know but have to make some type of [decision](mind-decisions.md) based on that information, which is almost every time we have no [direct control](results.md) over something.
 
-We start to believe when we [value](people-decisions.md) one thing as [true](reality.md) over another thing.
+We start to believe when we [value](mind-decisions.md) one thing as [true](reality.md) over another thing.
 
 APPLICATION: The only way we can prepare our minds for maximum [understanding](understanding.md) is by opening it up to *all* possibilities. While it's uncomfortable, all we have to do is convert every inner statement into a question to create an [inner conflict](people-conflicts-inner.md) about it.
 
@@ -21,9 +21,9 @@ As children, we start with 100% certainty about various things, but our beliefs 
 
 1. A [deterrence](safety.md)-based [fear](mind-feelings-fear.md) of worse alternatives.
 2. A broad belief that we [understand](understanding.md) something far enough that it's very likely.
-3. Believing the thing enough to [rely on](people-decisions.md).
+3. Believing the thing enough to [rely on](mind-decisions.md).
 4. Concluding the thing is [indisputable](people-conflicts-inner.md).
-5. [Identifying](identity.md) close enough with the thing to act boldly and publicly about it, even to the point of [confrontation](people-conflicts-why.md).
+5. [Identifying](people-identity.md) close enough with the thing to act boldly and publicly about it, even to the point of [confrontation](people-conflicts-why.md).
 
 A giant portion of what we believe in comes through the [authority](trust.md) we hold our beliefs on:
 
@@ -37,11 +37,11 @@ We can only know a small set of facts without needing *any* belief:
 2. [Pain](mind-feelings-fear.md), in whatever form it takes, is real.
 3. [Feelings](mind-feelings.md) exist, in whatever form they express as.
 
-Everything else, from the idea of a [perfect circle](math.md) to what we understand behind others' [language](language.md), has degrees of uncertainty that we gloss over with [habitual](habits.md) [expectations](imagination.md).
+Everything else, from the idea of a [perfect circle](math.md) to what we understand behind others' [language](language.md), has degrees of uncertainty that we gloss over with [habitual](habits.md) [expectations](people-imagination.md).
 
 Both fools *and* wise people become more certain as they gain [understanding](understanding.md). The major difference is the scope of where they claim that certainty. Wise people claim certainty on specific things and expand outward, while fools start with a broad claim that applies to many more things than it should.
 
-We make [commitments](purpose.md) and [predictions](imagination.md) about what we are certain of. Those commitments and predictions (and how well we [follow through with them](results.md)) demonstrate our true beliefs, [contrary to what we claim we believe](people-image-why.md).
+We make [commitments](purpose.md) and [predictions](people-imagination.md) about what we are certain of. Those commitments and predictions (and how well we [follow through with them](results.md)) demonstrate our true beliefs, [contrary to what we claim we believe](people-image-why.md).
 
 - You expect a noise when you turn the key in your car.
 - The screen on your phone responds when you touch it.
@@ -57,7 +57,7 @@ Occasionally, we'll place our trust in a bad idea. When that happens, we'll ofte
 
 - [Conceit or hubris](morality-evil.md) about [reputation](people-image-why.md) or [knowledge](understanding.md).
 - Believing a group's [promises](people-contracts.md) that they can solve our [issues](purpose.md).
-- [Addictions](addiction.md) that ravage our ability to [think rationally](logic.md) from [over-identifying](identity.md) with it.
+- [Addictions](addiction.md) that ravage our ability to [think rationally](logic.md) from [over-identifying](people-identity.md) with it.
 - Trusting in the unverifiable unknown, such as in many [cults and religions](religion.md).
 - Belief in [statistics](math.md) or, on the other end, statistical *unlikelihood* (i.e., luck).
 - [Shame](mind-feelings-shame.md) over the consequences of changing a thought or action, or of publicly informing people of a change.
@@ -68,7 +68,7 @@ Generally, it takes more work to maintain an [understanding](understanding.md) t
 
 ## Decisions and trust
 
-In [decisions](people-decisions.md), we can only trust things we see as the same or better than the alternatives. Since we [understand ourselves](awareness.md) more than anyone else, we tend to use our self-perception as the starting point for practically everything else.
+In [decisions](mind-decisions.md), we can only trust things we see as the same or better than the alternatives. Since we [understand ourselves](awareness.md) more than anyone else, we tend to use our self-perception as the starting point for practically everything else.
 
 Over our lives, we start creating a [purpose](purpose.md)-based hierarchy of what we can trust:
 
@@ -90,7 +90,7 @@ We don't always remember what we learned and its context, so we trust much of wh
 
 Occasionally, we make bad decisions we think are good. We'll invest a *ton* of [resources](power.md) toward them, but won't get the [results](results.md) we were expecting. This is *completely* irrespective of how well we've [reasoned](logic.md), and comes mostly from [applying experience](understanding.md).
 
-When this happens, we suffer a type of cognitive dissonance where we trust two incompatible things at once. A crisis of faith is when we become aware of that conflict because an [expectation](imagination.md) failed with the one that we trusted more.
+When this happens, we suffer a type of cognitive dissonance where we trust two incompatible things at once. A crisis of faith is when we become aware of that conflict because an [expectation](people-imagination.md) failed with the one that we trusted more.
 
 APPLICATION: To find someone's actual opinion, ask for their advice for [resolving a problem](https://adequate.life/fix/), or what they think everyone else believes.
 
@@ -106,10 +106,10 @@ When our faith is tested, but we still hold on, we call that "hope". There's a f
 
 APPLICATION: Conviction requires focus, so smarter people (who can often [see complexities](understanding.md)) are often lousy at sticking to convictions, which often makes them terrible leaders.
 
-If that person starts denying reality to "prove" something, they're removing premises. Once this becomes [habitual](habits.md), they will resort to magical thinking, which is interpreting the world to be what they [imagine](imagination.md) instead of [what it is](reality.md). Magical thinkers tend to share a few traits:
+If that person starts denying reality to "prove" something, they're removing premises. Once this becomes [habitual](habits.md), they will resort to magical thinking, which is interpreting the world to be what they [imagine](people-imagination.md) instead of [what it is](reality.md). Magical thinkers tend to share a few traits:
 
 - They trust their preconceived beliefs and their [affiliated groups](groups-member.md) more than the perceptions.
-- They believe reality is dictated more by [saying](language.md) and [doing](people-decisions.md) specific things than from [cause-and-effect](results.md).
+- They believe reality is dictated more by [saying](language.md) and [doing](mind-decisions.md) specific things than from [cause-and-effect](results.md).
 - If something is outside their [understanding](understanding.md), it doesn't exist or must be purged.
 - In their [conflicts with others](people-conflicts-why.md), they presume they're 100% correct, and will often shift their thoughts if they've been [logically](logic.md) convinced.
 

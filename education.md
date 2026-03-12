@@ -29,7 +29,7 @@ APPLICATION: Education is training for the mind, similar to how physical fitness
 
 ## Desire for education
 
-To live [the good life](goodlife.md), a person will learn to the degree they [desire](purpose.md), and no more. This is usually to [accomplish](results.md) or [create](creations.md) something, and comes from the fact that they've been [obsessing](purpose.md) and [analyzing](logic.md) heavily about the subject.
+To live [the good life](people-goodlife.md), a person will learn to the degree they [desire](purpose.md), and no more. This is usually to [accomplish](results.md) or [create](creations.md) something, and comes from the fact that they've been [obsessing](purpose.md) and [analyzing](logic.md) heavily about the subject.
 
 APPLICATION: Kids are generally learning more from their free time and recess than the classroom, and are learning more from experience with their parents than their parents' lectures.
 
@@ -103,8 +103,8 @@ APPLICATION: The best way to introduce students to a new concept:
 
 Teachers can use three forms of [communication](people-conversation.md) to get information across to the student:
 
-1. Since it's the simplest way to communicate, they'll often cover the raw [theory](imagination.md) and [methods](habits.md) via [spoken or written text](language.md).
-2. To capture an impression accurately in the student's [imagination](imagination.md), they'll include a visual/audio experience, often showing a performance of the idea fully expressed.
+1. Since it's the simplest way to communicate, they'll often cover the raw [theory](people-imagination.md) and [methods](habits.md) via [spoken or written text](language.md).
+2. To capture an impression accurately in the student's [imagination](people-imagination.md), they'll include a visual/audio experience, often showing a performance of the idea fully expressed.
 3. To ensure the student has an [intuition](mind-feelings.md) for the subject, they'll usually require them to [create](creations.md) their own things as well.
 
 Great teachers use all three elements at once. When done correctly, the experience will feel a bit more like a [game](fun.md) than a [rote memorization](mind-memory.md) chore. The most effective teaching methods (e.g., [Power Teaching](https://wholebrainteaching.com/)) are so reliable at educating that they can even convey deep concepts like [philosophy](philosophy.md).
@@ -150,7 +150,7 @@ For this reason, many formal teaching institutions run the same risks of any oth
 - Some ideas are [self-created](creations.md), but teachers are frequently taught their ideas are worthless. They often hide behind [circuitous references to other sources](people-image-distortion.md) to avoid self-ownership.
 - In a classroom, teachers possess legitimate [authority](power.md) to control the class, so a bad teacher can easily devolve into small-scale [tyranny](people-boundaries-why.md) if the administration gives them too much additional authority.
 - Teachers will frequently hide how little they know with confusing [language](language.md) (e.g., Latin). It tends to impress the majority of the students, but more intelligent students often see right through it after some experience with it.
-- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
+- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](people-trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
 - If school standards start failing, school systems will often start drilling and training their students harder to compete with other schools.
 
 APPLICATION: A major risk for all [teachers](education.md) is that they will invariably teach their subject enough that they're not as effective as actually [doing anything](purpose.md) with what they have. The only solution is for them to teach less and do more, but then they wouldn't be [specialized enough](jobs-specialization.md) for anything.
@@ -206,7 +206,7 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
-APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
+APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](people-trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
 
 Bad educators wish to be important as much as good educators, but most bad educators will find their students out-succeeding them to be [unacceptable](morality-taboo.md), similarly to [awful parents](people-family.md).
 
@@ -214,7 +214,7 @@ Intelligent students *can* learn from dumb teachers, but they will further widen
 
 APPLICATION: A smart student can still learn from a dumb teacher, though they'll often need to do separate research about what they're curious about.
 
-Intelligent people who are formally educated in a bad teaching system without much [life experience](goodlife.md) tend to create a distinctive [culture](people-culture.md) that's not particularly good for society at large:
+Intelligent people who are formally educated in a bad teaching system without much [life experience](people-goodlife.md) tend to create a distinctive [culture](people-culture.md) that's not particularly good for society at large:
 
 - They don't [trust](trust.md) their own or others' [instincts](mind-feelings.md). They'll [reason](logic.md) that those instincts are [irrational cognitive biases](mind-bias.md), but fail to see that there is still [utility](purpose.md) in everyone's perception.
 - They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](people-image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).

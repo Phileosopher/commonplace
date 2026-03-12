@@ -17,7 +17,7 @@ Needs are whatever Scripture commands and necessary for the Church to operate.
 
 - Music that sings praise to the Lord ([Psalm 33:1-13](https://biblehub.com/psalms/33.htm)).
 - In-reach - Teaching or [discipleship](spiritual-discipleship.md) through preaching and [Bible study](bible-study.md) ([Titus 2:7-8](https://biblehub.com/titus/2.htm)).
-- Outreach - Opportunities for [evangelism](evangelism.md) and other ministries, sending missionaries and ministers, and minister elections.
+- Outreach - Opportunities for [evangelism](spiritual-exercises-evangelism.md) and other ministries, sending missionaries and ministers, and minister elections.
   - In most conventional churches, this is the public weekly congregation.
 - Communion/ Eucharist, public baptisms, marriages, and funerals.
 - [Prayer](spiritual-exercises-prayer.md) to God, whether organization-run or with the core group.
@@ -47,7 +47,7 @@ Conveniences have benefits but can sometimes impede the ministry's [purpose](pur
 More than anything, the most significant risk to the Church is leaven, or religiosity ([Matthew 16:11](https://biblehub.com/matthew/16-11.htm)).
 
 - Religious thinking is a type of inward [bureaucracy](bureaucracy.md) that separates our [image](people-image-why.md) from [reality](reality.md).
-- Without that authentic connection to reality around us, we have no hope of connecting our unseen [souls](humanity-christian.md) to an unseen [God](god.md).
+- Without that authentic connection to reality around us, we have no hope of connecting our unseen [souls](theology-godandman-humanity.md) to an unseen [God](theology-god.md).
 
 It's far too common for members of a ministry community to fall into an unhealthy group pattern:
 
@@ -56,7 +56,7 @@ It's far too common for members of a ministry community to fall into an unhealth
 3. After a lapse in gainful employment, they find some sort of meaning out of a form of a religiousness.
 4. They eventually come to believe that their other failures are because God is calling them to professional ministry.
 5. They pursue a [Bible college degree](education.md), then become a sub-leader within a ministry capacity.
-6. When other believers depend on them, they won't have [integrated their shadow](personality.md) far enough to provide spiritual guidance to them.
+6. When other believers depend on them, they won't have [integrated their shadow](people-personality.md) far enough to provide spiritual guidance to them.
    - On occasion, they'll build a [church plant](mgmt-church-plant.md), but it'll look the same as its parent church because they're simply following what other people did instead of legitimately consulting God for help.
 
 Poorly appointing leaders can create *tremendous* problems:
@@ -87,7 +87,7 @@ Each leader needs plenty of [one-on-one time](spiritual-discipleship.md).
 
 Financial problems remind us of our limits, and the need for us to trust others.
 
-Check your heart to make sure *you're* not [sinning or disobeying God](morality-sins.md).
+Check your heart to make sure *you're* not [sinning or disobeying God](theology-sins.md).
 
 - You might be reaping past sins or choices.
 - Even if you can't find any sins, you might be too independent or conceited.
@@ -109,7 +109,7 @@ Live by faith, not presumption.
 - Stay in touch with God's presence and power.
 - Observe how you're [faithful](understanding-certainty.md) with small things.
   - God gives us the responsibility for small things before big things.
-- Give any [fears](mind-feelings-fear.md) about the [future](imagination.md) to Him.
+- Give any [fears](mind-feelings-fear.md) about the [future](people-imagination.md) to Him.
 - Ask God to supply your needs, even the smallest ones.
   - Look at God, not people, to answer those needs.
 
@@ -188,7 +188,7 @@ Watch for how believers' constant sin condition affects the group:
 - The Church should transform the world more than the world can change it.
 - Magnify Christ more than condemning the world's actions.
   - Condemning trends without a legitimate moral cause will shut off opportunities for the Gospel.
-- Focusing on the [end times](jesus-returns.md) and the geopolitical circumstances has no spiritual gain.
+- Focusing on the [end times](theology-end.md) and the geopolitical circumstances has no spiritual gain.
   - When you bring up the world, show how our lives should differ from its culture.
   - The purpose of prophecy is to inspire us, not create present anxiety ([Revelation 22:16-17](https://biblehub.com/revelation/22.htm)).
   - Focus steadfastly on [what's coming long-term](https://theologos.site/millennium/).

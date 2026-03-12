@@ -63,7 +63,7 @@ Except for the first case, the software will soon find itself among other, bette
 - Some do precisely the same thing, but are [open-source](legal-ip-floss.md) or disable telemetry.
 - There will be an entirely new implementation that carries the spirit of the original software.
 
-Even then, [software trends](trends.md) move so fast that it doesn't really matter. If the developer made money on it before it became obsolete, it was good enough.
+Even then, [software trends](people-trends.md) move so fast that it doesn't really matter. If the developer made money on it before it became obsolete, it was good enough.
 
 ## End-of-life
 

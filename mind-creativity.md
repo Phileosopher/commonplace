@@ -17,7 +17,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 - Within the human mind, any sense of order is tailored and curated over numerous revisions.
 - Further, any simplicity or elegance comes from even *more* revisions.
 
-We create when our [decisions](people-decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
+We create when our [decisions](mind-decisions.md) become [actions](results.md). *All* changes, from the [mind](people-changes.md) outward to what we can [communicate](language.md) or [build](results.md), are technically "created" by us.
 
 Our creations are always borrowing from our environment. They may be "[new](people-image-why.md)" in form, but they're *always* a remix of something else that has existed in nature. However, we are often oblivious to the source material that we borrowed.
 
@@ -27,7 +27,7 @@ APPLICATION: The exploration into [the unknown](unknown.md) makes anxiety and un
 
 All creations are meant to fulfill a [purpose](purpose.md). Since all purposes require a perceived problem, creativity is whatever we make to "[fix](https://adequate.life/fix/)" that problem.
 
-Creativity is necessary for the [good life](goodlife.md). Without creating anything whatsoever, we tend to [feel](mind-feelings.md) boredom and [meaninglessness](meaning.md).
+Creativity is necessary for the [good life](people-goodlife.md). Without creating anything whatsoever, we tend to [feel](mind-feelings.md) boredom and [meaninglessness](meaning.md).
 
 Each creative effort is unique to each person. No two people can make precisely the same guitar solo, dance routine, accounting report, or spoken sentence. Even while everyone can assemble precisely the same smaller elements (such as a music chord), the person's own [style](humanity.md) mixes into it as the [creation](creations.md) scales upward in complexity, even with a mundane task. This makes it impossible to [measure](math.md) against others' works.
 
@@ -47,14 +47,14 @@ The formation of most works regarded as "masterpieces" were simply cleverness mi
 - The role of DJ was to hide the fact that different songs' beats per minute (BPM) had to have a fractional relationship to each other (e.g., 60 BPM versus 90 or 120 BPM) or the song would [feel](mind-feelings.md) off-tempo.
 - The movie "Jaws" built a *lot* of dramatic tension about the shark attacking because the mechanical shark kept breaking down.
 
-APPLICATION: If a work wasn't created from constraints, it was created from [new technology](technology.md) and new [trends](trends.md):
+APPLICATION: If a work wasn't created from constraints, it was created from [new technology](technology.md) and new [trends](people-trends.md):
 
 - Around 1900, concert audiences weren't allowed to eat, shout, and chat during a performance. Once this convention was established, composers could explore very quiet themes in their music.
 - Once music could be recorded (and re-recorded) it started to become dramatically more complex.
 - Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
 - In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](imagination.md) to it to solidify its "realness", and will act when the [decision](people-decisions.md) is worth the [risk](socialrisk.md).
+We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](people-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](socialrisk.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
@@ -62,7 +62,7 @@ While the idea may [feel](mind-feelings.md) complete in our mind, it never reall
 
 APPLICATION: We can [foster creativity](mind-creativity-how.md) in ourselves by working to understand our problem alongside unexplored connections with that problem. The best way to form these connections is to possess as diverse a range of experience as humanly possible.
 
-However, once a value is communicated, in whatever form it takes, it spreads out as a small [trend](trends.md) proportional to its [influence](power-influence.md) in others' minds to re-share it, with micro-trends spinning off it in proportion to how much people dwell on the idea.
+However, once a value is communicated, in whatever form it takes, it spreads out as a small [trend](people-trends.md) proportional to its [influence](power-influence.md) in others' minds to re-share it, with micro-trends spinning off it in proportion to how much people dwell on the idea.
 
 ## Why we create
 
@@ -75,8 +75,8 @@ Often, in this world, people create to gain [power](power.md) (often for money),
 
 To create something, we need two beliefs:
 
-1. [WILLING](purpose.md) to do it, which is where we can [imagine](imagination.md) and [feel](mind-feelings.md) the value the creation can create.
-2. [ABLE](results.md) to do it, which is whether we can [imagine](imagination.md) ourselves [succeeding](success-1_why.md) at the task.
+1. [WILLING](purpose.md) to do it, which is where we can [imagine](people-imagination.md) and [feel](mind-feelings.md) the value the creation can create.
+2. [ABLE](results.md) to do it, which is whether we can [imagine](people-imagination.md) ourselves [succeeding](success-1_why.md) at the task.
 
 Most of the time, the only thing that impedes us is our willingness. If someone is sufficiently motivated and able to sufficiently imagine what they want to see, they can usually get *very* near to what they were trying to accomplish.
 
@@ -98,7 +98,7 @@ APPLICATION: Many creators won't include themselves as the target audience. By d
 
 Creativity always transitions through a few broad phases. We're building a new [story](stories-why.md) out of existing ones, so it's *always* messy and unpredictable. Since stories create themselves into new stories as we split and reassemble them, we're perpetually wading through a wall of incomplete things to get to our final [purpose](purpose.md).
 
-All creators travel through approximately the same stages, which makes a [rhythm](trends.md) interposed across any creative [movement](trends.md). Creators will typically stop or linger for decades at one stage if they stop [growing as a person](maturity.md).
+All creators travel through approximately the same stages, which makes a [rhythm](people-trends.md) interposed across any creative [movement](people-trends.md). Creators will typically stop or linger for decades at one stage if they stop [growing as a person](maturity.md).
 
 ### 1. Mess/Inefficiency
 
@@ -172,7 +172,7 @@ Otherwise, we'll stick with what we're comfortable with and [pass it on to other
 
 ### 5. Brilliance
 
-If we're [unusually disposed](personality.md) to [naturally understanding](humanity.md) the medium and are able to draw from other unrelated fields of experience, our [creations](creations.md) will take on a surreal, otherworldly characteristic.
+If we're [unusually disposed](people-personality.md) to [naturally understanding](humanity.md) the medium and are able to draw from other unrelated fields of experience, our [creations](creations.md) will take on a surreal, otherworldly characteristic.
 
 At this stage, the creator has found a way to conceal *all* the messy parts of the creation, leaving nothing but pure [beauty](values-quality.md). Frequently, they will invert the [appearance](people-image-why.md) of anything they touch with that talent simply by exploring [facts](reality.md) that most people had overlooked.
 
@@ -192,9 +192,9 @@ Everyone needs [power](power.md) to make something, so they usually calculate wh
 
 Most of that work is unpleasant, so we try to find ways around it. We'll typically use [tools](technology.md) to speed up the unpleasant work. Sometimes, we're making tools to make *those* tools.
 
-APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](personality.md).
+APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](people-personality.md).
 
-The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](trends.md) to distance themselves from their initial success.
+The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](people-imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](people-trends.md) to distance themselves from their initial success.
 
 APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](people-culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
 
@@ -205,4 +205,4 @@ Since creativity requires breaking [rules](people-rules.md), most creative peopl
 - A child's [image](people-image-why.md) of [reality](reality.md) has unclear or nonexistent rules.
 - The [hardships](hardship.md) of this world often bring around "adult" thinking by showing how things really are.
 - In a sense, the collective potential of a society can be defined by how small a minority are represented as artists.
-- At the same time, it's part of a [cycle](trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](politics-leftism.md)), until the eventual decline decreases the ratio of artists again.
+- At the same time, it's part of a [cycle](people-trends.md), where the artists will eventually destroy any [common sense](lawsaxioms.md) from their predecessors, then society will devolve as the artists continue making ever-increasingly sillier demands on society (often culminating in a form of [leftism](politics-leftism.md)), until the eventual decline decreases the ratio of artists again.

@@ -28,7 +28,7 @@ Deferring conflict frequently magnifies it:
 - All conflicts are risky, but the earliest possible moment to address it is typically the lowest-risk time to approach it.
 - Stalling a conflict, even a small one, makes it worse.
   - Many conflicts require [lying](people-lying.md) to stall it.
-  - Even without lying, the conflict sits as an [unresolved problem](purpose.md) interfering with [the perfect harmony we all desire](goodlife.md).
+  - Even without lying, the conflict sits as an [unresolved problem](purpose.md) interfering with [the perfect harmony we all desire](people-goodlife.md).
 - [Close relationships](people-friends.md) require trust, which requires talking out conflicts.
 
 ## Only create conflicts with a purpose in mind

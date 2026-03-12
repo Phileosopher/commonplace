@@ -41,7 +41,7 @@ Reconstructivism - Society should continually rebuild and remake itself to becom
 
 Communalism - The government should focus on protecting cultures and groups. Opposite of individualism.
 
-- Communitarianism - Because society forms [identity](identity.md) and [personality](personality.md), the individual *and* the community must be protected.
+- Communitarianism - Because society forms [identity](people-identity.md) and [personality](people-personality.md), the individual *and* the community must be protected.
 
 Conservatism - [Traditions and cultures](people-culture.md) should be cherished.
 
@@ -107,13 +107,15 @@ Legal positivism/Positive law - Human beings made laws, so they're not necessari
 
 - Legal naturalism - Natural law itself is simply made by society.
 
-Natural law - There are specific, unaltered [patterns](humanity-universals.md) in human nature that laws must conform with to be ethical. Distinct from positive law.
+Natural law/Uniformitarianism - There are specific, unaltered [patterns](humanity-universals.md) in human nature that laws must conform with to be ethical. Distinct from positive law.
 
 - Legal realism - Laws should reflect the natural laws of [science](science.md).
 
 Legalism - Making laws should follow a mechanical, logical way of interpreting laws from previous rulings, regardless of the context those laws were made in.
 
 - Original intent/Originalism - The laws should be interpreted by the [purpose](purpose.md) the law-writers were trying to achieve.
+
+Presentism - We should look at the past through the lens of present values and perspectives.
 
 ## Philosophy's [Purpose](purpose.md) and [Culture](people-culture.md)
 

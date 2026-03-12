@@ -7,7 +7,7 @@ For various reasons, we live together:
 - We [survive against nature](safety-nature.md) better in [groups](groups-small.md).
 - We can prevent [disasters](results.md) from errors by covering for each other's failures.
 
-To make life more convenient for everyone, we [decide](people-decisions.md) to do things we're better at and prefer more than everyone else:
+To make life more convenient for everyone, we [decide](mind-decisions.md) to do things we're better at and prefer more than everyone else:
 
 - [Realistic](reality.md) people are excellent at performing tasks that create [results](results.md).
 - [Conventional](people-culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
@@ -34,7 +34,7 @@ Since our [purposes](purpose.md) overlap, we converge them together and our role
 
 APPLICATION: Most [success](success-1_why.md) is defined by expertise in a specialization, which means that more success comes from knowing the right specialists than in [knowledge](understanding.md) or [performance](results.md).
 
-APPLICATION: The fastest way to [appear](people-image-why.md) to be an expert is to get a few very specific people to [imagine](imagination.md) you as an expert.
+APPLICATION: The fastest way to [appear](people-image-why.md) to be an expert is to get a few very specific people to [imagine](people-imagination.md) you as an expert.
 
 But, the [purposes](purpose.md) don't *entirely* overlap. Within that group, some people want to do some things more than others. Thus, they specialize in one direction or another, often separating into [other groups](groups-small.md) or broadly expanding the collective group as a subgroup if enough people are associated with that specific interest.
 
@@ -54,7 +54,7 @@ Second, that niche should require investing [time and energy](power-types.md) th
 
 Specialization has a cyclical nature to it: we converge together from shared interest, then break into further specializations as needed and as the scope of the work to be done grows. These niches can often form into a [supply chain](logistics.md) that travels from raw materials all the way to finished products.
 
-The niche roles become even more niche-focused as population and [technology](technology.md) increases. New techniques eventually become [tradition](people-culture.md) as [trends](trends.md) repeat themselves:
+The niche roles become even more niche-focused as population and [technology](technology.md) increases. New techniques eventually become [tradition](people-culture.md) as [trends](people-trends.md) repeat themselves:
 
 - Large truck driving is a specific type of vehicle operation of a specific type of vehicle with a specific type of trailer.
 - Automobile manufacturing was once one job, but now someone can be a [marketing](marketing.md) coordinator for mid-size family SUVs.
@@ -72,7 +72,7 @@ While [war](people-conflicts-war-why.md) will broadly unite differing groups, th
 
 One of the most important specialization concepts implements through [technology](technology.md) with interchangeable parts. Each component of a sophisticated thing is mass-produced by one person or group, meaning thousands of people can produce *millions* of something, with each person or group only responsible for one small piece of the process. As more people are involved, this can be divided even further as [needed](purpose.md).
 
-The [power](power.md) to accomplish for each of these niches grows proportionally higher as the niche gets smaller, but it also becomes more specific. The [opportunity cost](people-decisions.md) of this is that master specialists at one thing can lose the larger picture of what they're doing, and are often *awful* at almost everything else. Occasionally, they can be [awful at almost *any* general task](https://gainedin.site/idiot/), including when they're *closely* related to what they do all day.
+The [power](power.md) to accomplish for each of these niches grows proportionally higher as the niche gets smaller, but it also becomes more specific. The [opportunity cost](mind-decisions.md) of this is that master specialists at one thing can lose the larger picture of what they're doing, and are often *awful* at almost everything else. Occasionally, they can be [awful at almost *any* general task](https://gainedin.site/idiot/), including when they're *closely* related to what they do all day.
 
 APPLICATION: If someone is excellent at one thing (e.g., doctor), they're often awful at another (e.g., psychotherapy). Since people frequently [desire](purpose.md) to wield [power](power.md) beyond their niche, closely consider where they *do* have [power](power-types.md) before trusting them outright.
 
@@ -80,26 +80,26 @@ FURTHER APPLICATION: When we look back in [history](stories-storytellers.md), ev
 
 ## Settling together
 
-For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](people-culture.md) through everyone generally [identifying](identity.md) with their [tasks](results.md):
+For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](people-culture.md) through everyone generally [identifying](people-identity.md) with their [tasks](results.md):
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
 - Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries-why.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
 - [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).
-- Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](imagination.md).
+- Most trades require focusing on the present moment, so they tend to be more [self-aware](awareness.md) and terrible at [making plans](people-imagination.md).
 
 APPLICATION: Civilizations are maintained because some people took tremendous care and devotion to build it. Most people take it for granted as part of their [culture](people-culture.md) and don't realize the work it took to make it, until *they* have to maintain it themselves.
 
 We'll also cluster near other groups that can serve other needs (e.g., food, water, shelter, electricity). Over time, multiple specialties come together as people move there or are born to form a village, and can eventually become a city the same way.
 
-APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](people-rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
+APPLICATION: [Creative](mind-creativity.md) people and for people willing to take large-scale [social risks](socialrisk.md) thrive in large cities because they can revitalize social voids (i.e., ravaged by [criminal elements](people-rules.md) or [unfulfilled needs](purpose.md)). Then, other people follow that [trend](people-trends.md) and [new communities](groups-small.md) arise from the derelict remains of a long-forgotten [relic](legacy.md).
 
 As the settlements group from a [small](groups-small.md) to [large community](groups-large.md), the [members](groups-member.md) have more anonymity, and [human nature](humanity.md) means some of them will abuse the freedom.
 
-The geography and climate has a *profound* impact on the [culture](people-culture.md), starting from the individuals' [personalities](personality.md) and working outward through their [modes of thought](people-decisions.md) into the [tasks](purpose.md) required to survive and thrive.
+The geography and climate has a *profound* impact on the [culture](people-culture.md), starting from the individuals' [personalities](people-personality.md) and working outward through their [modes of thought](mind-decisions.md) into the [tasks](purpose.md) required to survive and thrive.
 
-As those [groups](groups-small.md) became more aware of other regions' [trends](trends.md), people will choose to move farther away to attain their purposes. Thus, various cities and regions can become increasingly specialized as information and transportation [technology](technology.md) improves.
+As those [groups](groups-small.md) became more aware of other regions' [trends](people-trends.md), people will choose to move farther away to attain their purposes. Thus, various cities and regions can become increasingly specialized as information and transportation [technology](technology.md) improves.
 
 APPLICATION: Population density profoundly changes how we behave and [see](understanding.md) the world. Often, this brings people to severe [culture](people-culture.md) shock when they move to a larger city or smaller town.
 
@@ -114,7 +114,7 @@ Individuals who transition *inside* their specialized [groups](groups-large.md) 
 
 Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends-why.md) than their immediate neighbors.
 
-APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](imagination.md) they *do* understand.
+APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](people-imagination.md) they *do* understand.
 
 FURTHER APPLICATION: People who lead societies statistically come from smaller towns because they have to learn a wider range of skills to survive and have a stronger sense of [responsibility](meaning.md).
 
@@ -126,4 +126,4 @@ Every time society suffers a *massive* decline in population, [technology](techn
 
 A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.
 
-APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.
+APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](people-trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.

@@ -88,7 +88,7 @@ Carefully examine and manage threats:
   2. Who will do what they're threatening?
   3. When would they be able to do it?
   4. How could they do it?
-- Often, their [personality](personality.md) can also give clues: more dramatic means less ability to act.
+- Often, their [personality](people-personality.md) can also give clues: more dramatic means less ability to act.
 - The inverse of threats come through shame, sometimes with [religious](religion.md) threats involved.
 - The only way to shut down an idle threat is to ignore it:
   - Stay mindful of what people will *actually* do, even when they're screaming and dancing next to your face.

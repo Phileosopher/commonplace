@@ -7,7 +7,7 @@ The world of computer work is *very* broad, even without including hardware-base
 
 All the rules of [setting goals for job-hunting](jobs-1_why.md) apply: know what you want, have a plan, make long-term goals.
 
-However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](trends.md). Aiming for front-end [web development](computers-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](computers-software-gamedev.md) or building [hardware](computers-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
+However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](people-trends.md). Aiming for front-end [web development](computers-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](computers-software-gamedev.md) or building [hardware](computers-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
 
 There are [a very large range of roles to choose from](jobs-cs-list.md).
 
@@ -18,7 +18,7 @@ You might want to crawl into an unimportant role somewhere to pursue [what you *
 - Watch for buzzword-heavy text (use [bullshit.js](https://mourner.github.io/bullshit.js/) to spot it easily).
 - Avoid the trend-chasing Big Tech corporations (like Google) and lean toward established, boring ones (like Oracle or IBM).
 
-The most important thing (tied closely to your [personality](personality.md)) is *enjoying* the work:
+The most important thing (tied closely to your [personality](people-personality.md)) is *enjoying* the work:
 
 - Most hardware/software diagnostics require knowing how to [resolve problems](fix-cs.md) with existing solutions. If you like following instructions to make customers happy, it's a great match for you.
 - For software development, you *must* love doing very hard logic puzzles alone in front of a computer for many hours. Try playing programming-based games (e.g., Spacechem, Factorio) to see if you can do it for fun.
@@ -52,7 +52,7 @@ There's also a trust factor worth considering in hunting for a role.
 
 ## Start Learning
 
-There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If you're self-starting [personality](personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
+There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If you're self-starting [personality](people-personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
 
 Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
 
@@ -104,11 +104,11 @@ If you're paying full-price, a college degree is prohibitively expensive relativ
 
 It doesn't really matter which courses, certifications, or tutorials you take as much as how well you apply it. Great tech work uses intuition to sift large piles of esoteric information to accomplish a practical purpose. However, your turnaround time until you can start working can be as short as a few *months* if you're dedicated and building passionately.
 
-Unfortunately, [tech trends](trends.md) are *constantly* moving, so only learn what you intend to use, as you need it.
+Unfortunately, [tech trends](people-trends.md) are *constantly* moving, so only learn what you intend to use, as you need it.
 
-One important "soft skill" specific to the tech world is detecting when certain technologies are variations of other [established technologies](trends.md) (e.g., machine learning, natural language processing, and deep learning are all types of [AI](computers-ai.md)). This allows you to *rapidly* attach ideas together.
+One important "soft skill" specific to the tech world is detecting when certain technologies are variations of other [established technologies](people-trends.md) (e.g., machine learning, natural language processing, and deep learning are all types of [AI](computers-ai.md)). This allows you to *rapidly* attach ideas together.
 
-Each domain has its own general software and tools. While [tech trends](trends.md) keep moving around and [open-source equivalents](legal-ip-floss.md) slowly take over, the core abstractions stay the same.
+Each domain has its own general software and tools. While [tech trends](people-trends.md) keep moving around and [open-source equivalents](legal-ip-floss.md) slowly take over, the core abstractions stay the same.
 
 One looming reality of the tech industry is constantly feeling you're less qualified than everyone thinks you are ([Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)). But, nearly *everyone* is clueless about most tech-related matters except what they work with, which [allows us to work on what we want instead of learning everything just to interface with it](https://trendless.tech/understanding/). Accept that you'll understand 1-5% of anything in that domain and move on.
 
@@ -157,7 +157,7 @@ The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of
 
 No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](people-culture.md) you may grow to love) will ever last more than 2-5 years.
 
-At the same time, understand how valuable you are relative to the job market. In the dot-com era and post-COVID, managers were *desperate* for tech people, and would give any benefits they'd ask for. But, after the dot-com bubble burst or the 2008 market crash, managers could set whatever standards they wanted. The [trends](trends.md) cycle through this constantly.
+At the same time, understand how valuable you are relative to the job market. In the dot-com era and post-COVID, managers were *desperate* for tech people, and would give any benefits they'd ask for. But, after the dot-com bubble burst or the 2008 market crash, managers could set whatever standards they wanted. The [trends](people-trends.md) cycle through this constantly.
 
 ### Remote Work
 
@@ -190,7 +190,7 @@ If you're experienced in the industry already, you may already have an idea of w
 
 There's plenty of discussion in the industry about only doing fun work, but the tech industry is *filled* with entitled, smart people who only do work they enjoy or will only do once (i.e., it can be automated). Unfortunately, [success](success-1_why.md) requires many situations where you *can't* optimize the work, and you'll probably only create [meaning](meaning.md) when you're willing to do what everyone else tries to avoid.
 
-If you're older than 30, expect [cultural pushback](trends.md) wherever you go. Your boss may be young enough to be your child, and ageism is a *very* real problem in the technology world.
+If you're older than 30, expect [cultural pushback](people-trends.md) wherever you go. Your boss may be young enough to be your child, and ageism is a *very* real problem in the technology world.
 
 Look for little niches that can be *very* lucrative. Instead of competing against 100 other people with that skill set, you'll likely only compete against 10.
 
@@ -207,7 +207,7 @@ In many ways, *you're* the largest protection against your misuse and abuse. It 
 
 If you prefer, aim for part-time work [during the negotiation](jobs-6_negotiating.md), which you can usually do if the work is trivial enough for you to do it easily. Very often, you can get paid a bit less, but with more freedom to do what you want (which you're *not* getting paid for).
 
-Even if you *leave* the tech industry, don't lose the original [creative spark](mind-creativity.md) that provoked you into the work in the first place. If you want to sidestep the craziness of the theoretical abstraction machines, there's always engineering (especially electrical engineering), or you could try a data-heavy non-tech industry (such as [farming](horticulture.md) or [accounting](money-accounting.md)).
+Even if you *leave* the tech industry, don't lose the original [creative spark](mind-creativity.md) that provoked you into the work in the first place. If you want to sidestep the craziness of the theoretical abstraction machines, there's always engineering (especially electrical engineering), or you could try a data-heavy non-tech industry (such as [farming](plants.md) or [accounting](money-accounting.md)).
 
 ## Get Going
 

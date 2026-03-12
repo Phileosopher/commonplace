@@ -18,7 +18,7 @@ The nature of it means the best computers money can buy today will technically b
 
 This has, however, slowed significantly. Once [processors](computers-cpu.md) started getting small enough, the electrons started interfering with each other. Due to heat management issues, processors can't run at an economical speed much faster than 4.8 MHz.
 
-However, the "[latest and greatest](trends.md)" is still a *very* fleeting [social trend](trends.md) with the continued miniaturization and improvements in quality.
+However, the "[latest and greatest](people-trends.md)" is still a *very* fleeting [social trend](people-trends.md) with the continued miniaturization and improvements in quality.
 
 At this point, the only reason anyone really *needs* a new computer is for one of the following:
 

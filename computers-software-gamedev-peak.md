@@ -81,7 +81,7 @@ And, a rollback netcode conversation:
 
 Games are a unique medium compared to books, audio, and movies because it's the only medium that directly interacts *back* with the user's interaction.
 
-- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](people-decisions.md)).
+- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](mind-decisions.md)).
 
 Game [UX](engineering-design.md) should be non-intrusive, where the user will feel or observe what they should do *without* explicit instruction. To avoid text boxes with instructions or written signage, there are several tools to guide the player:
 

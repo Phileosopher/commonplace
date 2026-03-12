@@ -1,7 +1,7 @@
 
 # How to make small talk
 
-Small talk is the most frequent, necessary communication skill, even though quite a few people [are disposed to](personality.md) always hate small talk:
+Small talk is the most frequent, necessary communication skill, even though quite a few people [are disposed to](people-personality.md) always hate small talk:
 
 - Detail-oriented people often want to discuss more in-depth about their interests.
 - Intelligent people often want to discuss more profound or meaningful subjects.

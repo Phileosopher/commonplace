@@ -4,7 +4,7 @@
 A cult is a relatively recent broad term representing a wide variety of concepts:
 
 1. A [religion](religion.md) someone regards as unorthodox or spurious.
-2. Great [devotion](addiction.md) to a [person](humanity.md), [idea](values.md), [object](reality.md), [movement](trends.md), or [work](creations.md).
+2. Great [devotion](addiction.md) to a [person](humanity.md), [idea](values.md), [object](reality.md), [movement](people-trends.md), or [work](creations.md).
 3. A [small group](groups-small.md) who identify heavily with the above.
 4. A [formal system](logic.md) of religious beliefs and rituals that veers into [taboo](morality-taboo.md) behavior.
 
@@ -12,7 +12,7 @@ Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively
 
 In short, a cult is most easily defined as "[group](groups-small.md) [gaslighting](influence.md)", and has the following elements:
 
-1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](personality.md) as the values phase out
+1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](people-personality.md) as the values phase out
 2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
 3. A [strict](people-rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
 4. The group violates members' [rights and boundaries](people-boundaries-why.md) while also redefining the [members'](groups-member.md) thoughts and feelings
@@ -21,7 +21,7 @@ APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-lik
 
 ## Undue influence
 
-Undue influence is a [legal term](glossary-legal.md) where an entity takes advantage of their [position of power](power-types.md) over another entity:
+Undue influence is a [legal term](glossary-legal-sz.md) where an entity takes advantage of their [position of power](power-types.md) over another entity:
 
 - [Deception](people-image-distortion.md)
 - [Flattery](influence.md)
@@ -49,7 +49,7 @@ Most cults start with at least a few of several distinct experiences:
 2. Grandiose promises of avoiding [pain](hardship.md) or never having to [die](legacy.md).
 3. Promises of special [power](power-types.md) unattainable otherwise, typically through becoming part of an elite society or ruling [class](classes.md).
 
-To gain the necessary influence and maintain it, cult leaders are a *very* specific type of [personality](personality.md):
+To gain the necessary influence and maintain it, cult leaders are a *very* specific type of [personality](people-personality.md):
 
 - Openness to Experience
   - High-enough Openness to express ideas in a new way, or revisit old ideas and share them with a new approach.
@@ -68,11 +68,11 @@ To gain the necessary influence and maintain it, cult leaders are a *very* speci
 
 A cult proponent must be suggestible and malleable enough that they'll believe a consistent [pattern](symbols.md) of indoctrination from a single source across months and years.
 
-Only a specific group of [personalities](personality.md) will *ever* [choose](people-decisions.md) to join a cult:
+Only a specific group of [personalities](people-personality.md) will *ever* [choose](mind-decisions.md) to join a cult:
 
 - Openness to Experience
   - Low-enough Openness to simply [trust](trust.md) someone else for information.
-  - High-enough Openness to adopt new [trends](trends.md) foreign to their lifestyle.
+  - High-enough Openness to adopt new [trends](people-trends.md) foreign to their lifestyle.
   - Low-enough Intelligence to not ask questions that would make the leadership demonstrate they *don't* [understand](understanding.md) everything.
 - Conscientiousness doesn't really matter, though the cult will need to be *much* more consistent and complex with their rules proportional to that person's conscientiousness.
 - Extraversion doesn't matter much, though introverts may be more susceptible from less social feedback from outside sources.
@@ -87,13 +87,13 @@ However, long-term cults will adopt a few other types of people:
 
 - [Cluster B personality disorders](mind-neurodivergence.md) will join a cult for [personal gain](purpose.md).
 - People [suffering severe hardship](hardship.md) will join cults if they think that's their only option.
-- Anyone born into a cult [family](people-family.md) will adopt the [lifestyle](people-culture.md) and a severe [false self](personality.md) which conforms to the above simply to survive.
+- Anyone born into a cult [family](people-family.md) will adopt the [lifestyle](people-culture.md) and a severe [false self](people-personality.md) which conforms to the above simply to survive.
 
 Usually, joining a cult requires a large personal sacrifice.
 
 - This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
 - Further sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
-- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](identity.md), [ownership](people-boundaries-why.md), or [agency](people-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
+- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](people-identity.md), [ownership](people-boundaries-why.md), or [agency](mind-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
 ## Advancing
 
@@ -111,14 +111,14 @@ Incrementally, the members are then introduced to further sacrifices to release 
 
 By the end, the person has been transformed into a perfect extension of the leader's [desires](purpose.md):
 
-- Complete compliance to the group's [cause](purpose.md), which is open to change if it's driven by a charismatic [personality](personality.md) more than a [value system](values.md).
+- Complete compliance to the group's [cause](purpose.md), which is open to change if it's driven by a charismatic [personality](people-personality.md) more than a [value system](values.md).
 - Tremendous hatred of everything that obstructs the group's cause, sometimes to the point of [violence](people-conflicts-war-why.md).
 - Trusting the group more than themselves for just about everything, with all [conversations](people-conversation.md) involving the group or group activities.
 - Any time they experience a [conflict](people-conflicts-why.md) with an outside source, they defer or deflect to their group's authority.
 
 **Behavior control** involves [changing habits](habits.md), and is the most obvious for the public to notice:
 
-- Instilling dependency and obedience, with permission required for all major [decisions](people-decisions.md).
+- Instilling dependency and obedience, with permission required for all major [decisions](mind-decisions.md).
 - Rewards and punishments modify positive and negative behaviors.
 - Rigid rules:
   - How, where, and who that person can live with, associate with, or isolates from.
@@ -157,7 +157,7 @@ By the end, the person has been transformed into a perfect extension of the lead
   - Rejection of [rational analysis, critical thinking](logic.md), and [constructive criticism](understanding.md).
   - Alternative belief systems are illegitimate, evil, or not useful, which may include *other* cults or [reality itself](reality.md).
 - Through repetition, manipulate memories to falsely insert past events that hadn't happened.
-- The member is required to adopt a new [name](language.md) and [identity](identity.md).
+- The member is required to adopt a new [name](language.md) and [identity](people-identity.md).
 - Copious amounts of [jargon and cliché](language.md) statements that obstruct access to [understanding](understanding.md).
 - [Hypnosis](habits.md) that alters mental states, undermine conscious thought, and can even make members [regress in age](maturity.md):
   - Denial, rationalization, justification, or [wishful](trust.md) thinking
@@ -170,7 +170,7 @@ By the end, the person has been transformed into a perfect extension of the lead
   - Teaching emotion-stopping techniques to block specific unpleasant feelings like homesickness, anger, and doubt.
 - Direct the person's feelings to them believing problems are *always* their fault, and never the leader's or group's fault.
 - Promoting feelings of guilt or unworthiness:
-  - [Identifying](identity.md) with inadequacy
+  - [Identifying](people-identity.md) with inadequacy
   - Not living up to their potential
   - Insufficient or deficient [family](people-family.md)
   - A condemned past, including guilt imposed by history/society
@@ -222,7 +222,7 @@ Generally, the public only notices cults when they violate [basic human rights](
 - Engagement in [questionable arrangements](people-contracts.md) with others.
 - *Severely* [inappropriate behavior](morality-taboo.md) to advance the cult's cause.
 
-Once a cult has fully indoctrinated members, they will [decide](people-decisions.md) to perform acts of violence on their own:
+Once a cult has fully indoctrinated members, they will [decide](mind-decisions.md) to perform acts of violence on their own:
 
 - Killing people who [didn't deserve it](morality-justice.md), sometimes while making it a [public spectacle](stories-storytellers.md).
 - Operating a vehicle (e.g., [auto](autos.md), plane) to crash into buildings or crowds of people.
@@ -254,28 +254,28 @@ The more [addicted](addiction.md) and isolated away from the rest of humanity, t
 
 APPLICATION: All [addictions](addiction.md) are cults of 1+ people centered on that substance.
 
-APPLICATION: To take extreme ownership of your life, with your thoughts, is essentially grabbing control of yourself and making a "cult" of your [personality](personality.md), for yourself alone.
+APPLICATION: To take extreme ownership of your life, with your thoughts, is essentially grabbing control of yourself and making a "cult" of your [personality](people-personality.md), for yourself alone.
 
 [Amusingly](humor.md), in a free society, each [political party](politics-conservativeliberal.md) creates its own cult, then tends to call the other party a cult.
 
-APPLICATION: Because of the [range of our personalities](personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](people-culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
+APPLICATION: Because of the [range of our personalities](people-personality.md), even a country-sized cult only has some adherents, with the rest only honoring the [culture](people-culture.md) for their [advantages](purpose.md). Even "mass formation psychosis" can only get 60-70% of the people all at once.
 
 ## Aftermath
 
 Often, cult membership creates very severe effects upon a participant:
 
-- Absolute sabotage of [personal freedoms](people-boundaries-why.md), to the point of having a broken [personality](personality.md) and unable to make [good boundaries](people-boundaries-why.md).
+- Absolute sabotage of [personal freedoms](people-boundaries-why.md), to the point of having a broken [personality](people-personality.md) and unable to make [good boundaries](people-boundaries-why.md).
 - Severe [trauma](hardship-ptsd.md) from the events performed *to* them.
-- Bad [decisions](people-decisions.md) and [their effects](results.md) they [chose](people-decisions.md) to make *on behalf of* the group they trusted.
+- Bad [decisions](mind-decisions.md) and [their effects](results.md) they [chose](mind-decisions.md) to make *on behalf of* the group they trusted.
 
 Generally, they'll veer *hard* into the polar opposite extreme value system:
 
 - The "opposite" is defined by the mode of thought the follower takes:
   - A hyper-[religious](religion.md) cult follower will leave and become an atheist or pantheist.
   - An extremely [liberal](politics-conservativeliberal.md) activist may become highly conservative or apolitical.
-- The only way they'll ever find [a healthy balance](goodlife.md) is by becoming equally entrenched in several groups until they start seeing they need to change their tactic.
+- The only way they'll ever find [a healthy balance](people-goodlife.md) is by becoming equally entrenched in several groups until they start seeing they need to change their tactic.
 
-The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts-why.md) those cults are typically the people who have [integrated their shadow self](personality.md).
+The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts-why.md) those cults are typically the people who have [integrated their shadow self](people-personality.md).
 
-- They must acknowledge they were partly responsible for submitting their [will](people-decisions.md) to another person.
+- They must acknowledge they were partly responsible for submitting their [will](mind-decisions.md) to another person.
 - They *also* must acknowledge they were a victim of that leader exploiting their [trust](trust.md).

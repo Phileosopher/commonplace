@@ -1,11 +1,11 @@
 
 # The conservative/liberal spectrum
 
-Discussing politics is a relatively new concept across the lens of history. Up to just under 300 years ago, political discussions among most people were either small talk about royalty or highly personal discussions about what [decision](people-decisions.md) to make in light of recent political events.
+Discussing politics is a relatively new concept across the lens of history. Up to just under 300 years ago, political discussions among most people were either small talk about royalty or highly personal discussions about what [decision](mind-decisions.md) to make in light of recent political events.
 
-When a [large group](groups-large.md) permits us to vote, we must make [decisions](people-decisions.md) between political parties. If we must choose representatives, we're a degree removed from the decision-making process, so we must use [philosophical](philosophy.md) standards to judge those representatives.
+When a [large group](groups-large.md) permits us to vote, we must make [decisions](mind-decisions.md) between political parties. If we must choose representatives, we're a degree removed from the decision-making process, so we must use [philosophical](philosophy.md) standards to judge those representatives.
 
-Broadly, we have a simple decision across a spectrum: "conserve" things we're [familiar](habits.md) with, or "liberally" try things we've not [seen](people-image-why.md) before (or "progressing" towards a [new trend](trends.md)). Thus, beyond our [desires](purpose.md), our [personalities](personality.md) heavily define our politics.
+Broadly, we have a simple decision across a spectrum: "conserve" things we're [familiar](habits.md) with, or "liberally" try things we've not [seen](people-image-why.md) before (or "progressing" towards a [new trend](people-trends.md)). Thus, beyond our [desires](purpose.md), our [personalities](people-personality.md) heavily define our politics.
 
 While there are many things that can be "conserved", there are some things that stand out:
 
@@ -19,11 +19,11 @@ While there are many things that can be "conserved", there are some things that 
 8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children)).
 9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
 
-When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](trends.md), since they have [hope](trust.md) in what they haven't seen.
+When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](people-imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](people-trends.md), since they have [hope](trust.md) in what they haven't seen.
 
-As people [age](maturity.md), they tend to discover that there's nothing really "[new](people-image-why.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](trends.md), they have more to lose and tend to vote more conservatively.
+As people [age](maturity.md), they tend to discover that there's nothing really "[new](people-image-why.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](people-trends.md), they have more to lose and tend to vote more conservatively.
 
-APPLICATION: Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](socialrisk.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](trends.md) that affect their children.
+APPLICATION: Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](socialrisk.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](people-trends.md) that affect their children.
 
 Conservatives tend to vote for civilization and liberals for equality, but this isn't precisely true:
 
@@ -32,9 +32,9 @@ Conservatives tend to vote for civilization and liberals for equality, but this 
 
 APPLICATION: By nature, conservatives will be somewhat antagonistic against overly used [technology](technology.md), and liberals against overly applied [virtue](morality.md).
 
-While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
+While liberalism can embrace anything [trendy](people-trends.md), conservatives can also embrace anything [trendy](people-trends.md) from the past. They're both adopting those trends through what they [imagine](people-imagination.md):
 
-- Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](trends.md) [cultures](people-culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
+- Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](people-trends.md) [cultures](people-culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
 - Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
 
 ## Undefined
@@ -49,26 +49,26 @@ APPLICATION: Some issues are *not* aligned on the political spectrum:
 - The development of [technology](technology.md) makes unintelligent people less necessary, and society currently doesn't have jobs for anyone with an IQ of 85 or lower. Conservatives claim they need fewer barriers to the job market, and liberals believe they can get job training for anything whatsoever, and they're both wrong.
 - Government [debt](money-2_debt.md) is an [economic](money-economics.md) risk, but a conservative nation will gladly spend more on its military, while a liberal nation will spend more on social welfare programs. There is usually limited discussion on how to frame taxes that minimize pain to the public, since that would require cutting back on military or social welfare programs, which are government forms of [power](power.md).
 
-Conservative and liberal are difficult to define because they're responses to [trends](trends.md), which means they move as the trends move. If something was once a certain way 400 years ago, it's a conservative or liberal idea depending on whether anyone remembers it, and this creates a much smaller "window" inside the larger spectrum of extreme political values called the Overton Window.
+Conservative and liberal are difficult to define because they're responses to [trends](people-trends.md), which means they move as the trends move. If something was once a certain way 400 years ago, it's a conservative or liberal idea depending on whether anyone remembers it, and this creates a much smaller "window" inside the larger spectrum of extreme political values called the Overton Window.
 
 - At one time, in the 1880s, it was a conservative thought in the USA to want complete isolationism from the rest of the nations, and a progressive thought to want the government to get involved with [economic](money-economics.md) and [military](people-conflicts-war-why.md) arrangements.
 - However, in the 1950s, it was a conservative thought to be anti-[communist](politics-leftism.md) and enhance the military, and a liberal thought to increase economic partnerships with communist countries.
 
 Political power often requires bending public opinion, so "conservative" and "liberal" are often hijacked for other [purposes](purpose.md). Sometimes, *conservatives* are looking for new things and liberals are trying to restore an old social order, but [feelings](mind-feelings.md) run so strongly that the definition and meaning of the words everyone uses is very difficult to separate out.
 
-APPLICATION: To live [the good life](goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](people-decisions.md) for themselves.
+APPLICATION: To live [the good life](people-goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](mind-decisions.md) for themselves.
 
 When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war-why.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](politics-leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
 
 APPLICATION: The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](people-image-why.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
-APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](people-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](people-decisions.md).
+APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](mind-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](mind-decisions.md).
 
 Most of this contention comes through a series of inter-related conflicts:
 
 - An intergroup conflict about nuances regarding who should lead.
 - Conflicts inside the group about the correct [image](people-image-why.md) to portray, which reflects the [values](values.md) the majority finds most [important](purpose.md).
-- Conflicts between groups, with the declared leader advancing the necessary [image](people-image-why.md) forward to let the public make their [decision](people-decisions.md).
+- Conflicts between groups, with the declared leader advancing the necessary [image](people-image-why.md) forward to let the public make their [decision](mind-decisions.md).
 
 ## Defining
 
@@ -95,13 +95,13 @@ Underneath the surface, there are two competing value systems that define where 
 
 The constrained value system means conservatives believe in natural law:
 
-- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](people-decisions.md). This makes the death penalty acceptable and abortion bad.
-- Individual [morality](morality.md) is irrespective of what an individual [interprets](people-image-why.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories-why.md) behind a [bad decision](people-decisions.md).
+- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](mind-decisions.md). This makes the death penalty acceptable and abortion bad.
+- Individual [morality](morality.md) is irrespective of what an individual [interprets](people-image-why.md). Thus, the [laws](people-rules.md) and sentencing should still stand even with a tragic [story](stories-why.md) behind a [bad decision](mind-decisions.md).
 - Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](people-rules.md).
 
 The unconstrained value system means progressives believe natural law is relative, nonexistent, or doesn't matter:
 
-- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](people-decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
+- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](mind-decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
 - Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](people-rules.md) should flow from individual [perceptions](people-image-why.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
 - [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
 
@@ -117,9 +117,9 @@ Further, in the midst of the two poles, other value systems diverge from the spe
 
 One of the most complicated problems about any of this political discussion comes in how people frequently want their [freedoms](people-boundaries-why.md), but tend to evade the [responsibilities](meaning.md) required to maintain them. This pattern creates a cycling trend ("Tytler's Civilization Cycle") that leaves people in various states of [slavery](people-slavery.md) and freedom.
 
-APPLICATION: If everyone were given complete freedom, but also complete responsibility to maintain those freedoms, only high-conscientiousness [personalities](personality.md) would want it. Everyone else is willing to give up at least some of their freedoms for [security](safety.md), which guarantees a perpetual risk of a [tyrant](morality-evil.md) taking advantage of them.
+APPLICATION: If everyone were given complete freedom, but also complete responsibility to maintain those freedoms, only high-conscientiousness [personalities](people-personality.md) would want it. Everyone else is willing to give up at least some of their freedoms for [security](safety.md), which guarantees a perpetual risk of a [tyrant](morality-evil.md) taking advantage of them.
 
-This becomes even *more* complicated because many political parties can adapt and change as a group. "Conservative" groups may adopt [new trends](trends.md), and "liberal" groups may try to maintain their political establishment.
+This becomes even *more* complicated because many political parties can adapt and change as a group. "Conservative" groups may adopt [new trends](people-trends.md), and "liberal" groups may try to maintain their political establishment.
 
 It also doesn't matter in another sense, since it's all built around [trust](trust.md) In a way, everyone is a unique flavor of political values:
 
@@ -140,7 +140,7 @@ Finally, human politics have a nasty, irreconcilable paradox that transcends *an
 
 ## Cycling trends
 
-Like all other [fashions](trends.md), conservative and liberal views vacillate through a 4-stage due to the [culture](people-culture.md) surrounding it:
+Like all other [fashions](people-trends.md), conservative and liberal views vacillate through a 4-stage due to the [culture](people-culture.md) surrounding it:
 
 1. Strong people create good times.
    - Conservative + Libertarian

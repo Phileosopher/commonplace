@@ -200,7 +200,7 @@ To make the room feel safe and inviting, bring in more light:
 
 [Pinterest](http://pinterest.com) has *thousands* of great decorating ideas.
 
-You can easily make unconventional decorations with items you already own, which is critical to add your [identity](identity.md) to your home.
+You can easily make unconventional decorations with items you already own, which is critical to add your [identity](people-identity.md) to your home.
 
 When planning, don't neglect closed-off doorways or small storage areas.
 

@@ -178,7 +178,7 @@ Only share things other people might find meaningful (THINK acronym):
 - Make sure your message is also KIND and free of judgment or negativity.
 - Since people will ask questions if they want to know more, it's better to lean toward fewer details and less time speaking.
 
-Consider their [personality](personality.md):
+Consider their [personality](people-personality.md):
 
 - Dominant, direct people hate pleasantries and small talk and want the point as quickly as possible, so learn conciseness for them.
 - Engaging, friendly people can lose sight of discussion goals, so keep them on track.
@@ -223,7 +223,7 @@ Mind their attitude toward you as you speak:
 If you're being recorded (or *might* be recorded), speak as if you don't know your audience:
 
 - While communication is simple, it's absurdly difficult to state things without offending someone.
-- The internet permanently memorializes everything, and [social fashions](trends.md) can often change across years, so be careful how you word *anything*.
+- The internet permanently memorializes everything, and [social fashions](people-trends.md) can often change across years, so be careful how you word *anything*.
 
 Pay careful attention to whether the culture respects asking or guessing:
 

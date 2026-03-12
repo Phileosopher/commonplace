@@ -29,7 +29,7 @@ Open-source projects are *not* exempt from politics and [social decay](mgmt-bads
   - They may feel their contributions deserve [recognition](people-image-why.md), they deserve payment, or their pull requests should be automatically approved from [what they've done in the past](power-influence.md).
 - The scope of authority in an open-source project comes through how much contribution someone invests into it, and an open-source community has the same [group hierarchy](groups-small.md) as any other organization.
   - They often must invest time to follow the project's mailing list or pull requests, and typically must follow the group's [social norms](people-rules.md).
-- Every open-source project goes through the same predictable [trend](trends.md) of growth, stagnation, then decay, which will eventually spawn a [defective culture](mgmt-badsystems.md) around it.
+- Every open-source project goes through the same predictable [trend](people-trends.md) of growth, stagnation, then decay, which will eventually spawn a [defective culture](mgmt-badsystems.md) around it.
   - Sometimes, a long-standing and popular open software may be significantly inferior to another open-source product, but can screw up the [reputation](people-image-why.md) of the *entire* open-source community by dominating everyone's attention. This entire situation can make proprietary choices prevail for longer.
 - It's not uncommon for large organizations running on open-source software to *not* credit specific developers who [find bugs](computers-software-redesign.md) in the code, often with them responding rudely to the developer before publicizing they fixed the bug.
 - [Technical idiots](https://gainedin.site/idiot/) who are *not* aware of how open-source works may demand answers or fixes from open-source developers.
@@ -73,7 +73,7 @@ However, the fight against open-source is a losing battle.
 - Open software and standards mean *any* developer or company can build on it (especially when the license allows them to create closed-source products). There's almost no business reason to reinvent and rebuild what has already been built, especially if it's good-enough.
 - Most closed-source developers and companies can fight off the inevitable open-sourcing by releasing it for free.
 
-The [trend](trends.md) for free software, as of 2023, is a bit complex:
+The [trend](people-trends.md) for free software, as of 2023, is a bit complex:
 
 - Open-source software terms are definitely enforceable, and failure to honor them can lead to a lawsuit.
 - GPL code has effectively been labeled as a [contract-based matter](people-contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](lawsaxioms-legal.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).

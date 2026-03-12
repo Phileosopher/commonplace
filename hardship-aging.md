@@ -1,7 +1,7 @@
 
 # How to handle aging
 
-As we grow older, we start falling behind the [trends](trends.md) until we eventually feel like the world is moving faster than us:
+As we grow older, we start falling behind the [trends](people-trends.md) until we eventually feel like the world is moving faster than us:
 
 - This only gets worse as we get older, especially as [technology](technology.md) keeps improving.
 - While nothing is legitimately "new", there are *many* remixes worth enjoying.
@@ -23,7 +23,7 @@ At a certain point, people stop seeing you more like an institution than an indi
 Don't dwell too much on the familiar past:
 
 - Your [memory](mind-memory.md) has shifted the past positively, but those days were *not* as good as your nostalgia remembers them.
-- Very often, *all* the problems that presently exist were around when you were young, but you're more [aware](awareness.md) of them now, or they've become [more ubiquitous](trends.md).
+- Very often, *all* the problems that presently exist were around when you were young, but you're more [aware](awareness.md) of them now, or they've become [more ubiquitous](people-trends.md).
 
 Instead, focus on what you can do now and in the future:
 

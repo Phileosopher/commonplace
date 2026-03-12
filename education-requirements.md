@@ -65,7 +65,7 @@ Literacy
 [Science](science.md)
 
 - Can identify certain materials (e.g, metal, wood) and their characteristics.
-- Understands what [plants](horticulture.md) and [animals](agriculture.md) need to grow.
+- Understands what [plants](plants.md) and [animals](livestock.md) need to grow.
 - Understands seasonal and [weather](science-earth-weather.md) changes.
 - Understands parts of the human body.
 - Has conducted little experiments like growing plants from seeds or caring for a pet.
@@ -220,7 +220,7 @@ They're now ready to [manage their time better](success-4_routine.md) and [organ
 
 Applied
 
-- Can participate in [group](groups-small.md) [decisions](people-decisions.md).
+- Can participate in [group](groups-small.md) [decisions](mind-decisions.md).
 - Able to [memorize](mind-memory.md) and recall facts.
 
 Literacy

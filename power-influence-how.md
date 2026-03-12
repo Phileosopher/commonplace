@@ -70,7 +70,7 @@ Most influential people, both evil and good, have *very* high EQ:
 
 EQ isn't a personality/disposition or "being nice":
 
-- EQ measures what you're capable of doing with others, while [personality](personality.md) is what you'd *prefer* to do.
+- EQ measures what you're capable of doing with others, while [personality](people-personality.md) is what you'd *prefer* to do.
 - EQ isn't kindness and is more about understanding the *time and place* for kindness.
 - People with EQ always respect others and recognize their feelings, even when they don't agree with them or identify what they see as [reality](reality.md).
 - EQ only comes through authenticity and awareness.
@@ -113,7 +113,7 @@ While there are many relative aspects to charm from [culture](people-culture.md)
 - People want to see more of that person's life.
 - Even when they disagree, they find that person entertaining or interesting.
 - They're frequently excellent communicators in [writing](language-writing.md) or [speech](language-speaking.md) who exude at least some [optimism](mind-feelings-happiness.md).
-- They're almost always confident from past [successes](success-1_why.md) they've [identified](identity.md) with.
+- They're almost always confident from past [successes](success-1_why.md) they've [identified](people-identity.md) with.
 
 Charming people are often more trusting than most:
 

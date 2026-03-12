@@ -35,7 +35,7 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 Our [religious tendencies](religion.md) mean we tend to draw behind the [image](people-image-why.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
 
 - It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
-- Even [inventions](technology.md) and [social trends](trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
+- Even [inventions](technology.md) and [social trends](people-trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
 
 Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-friends.md):
 
@@ -43,17 +43,22 @@ Management reproduces the role of high-quality [fatherhood](parenting-children.m
 - Behavior that appears [decisive](understanding-certainty.md).
 - Distant enough with subordinates to stay relatively [unbiased](mind-bias.md), but close enough to provide [emotional](mind-feelings.md)/[moral](morality.md) support.
 
+And generally, people tend to select their leaders from among the people who talk the most in a group.
+
+- This is because [language](language.md) is a form of [power](power.md), which implies someone has more control than everyone else.
+
 Actual management, however, includes a few extra details the image fails to portray:
 
-1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts-why.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](people-decisions.md) leaders that give clear and practical examples of what to do.
+1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts-why.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](mind-decisions.md) leaders that give clear and practical examples of what to do.
 2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
-3. Managers are forced to take responsibility for difficult [decisions](people-decisions.md). Most of them are choices between an awful thing and something worse.
+3. Managers are forced to take responsibility for difficult [decisions](mind-decisions.md). Most of them are choices between an awful thing and something worse.
 
 Management has also gotten a bad reputation for several reasons:
 
 1. Similarly to [entrepreneurship](entrepreneur-1_why.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
 2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
 3. we often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
+4. At least 20% of the management class are clinically diagnosable [psychopaths](mind-neurodivergence-clusterb-narcissist.md), with that number being much higher if we include other forms of narcissism, Cluster B personality, and the edge cases.
 
 ## Qualifications
 
@@ -78,7 +83,7 @@ Anyone can be a manager if they're given the role, but *successful* management d
   - High-quality [parenting](parenting-children.md).
   - Consistently active on social media.
 
-Almost everyone is *capable* of being a manager, but not everyone has the [personality](personality.md) that they'd enjoy it:
+Almost everyone is *capable* of being a manager, but not everyone has the [personality](people-personality.md) that they'd enjoy it:
 
 - Openness to Experience must be somewhere in the middle.
   - They must accept the [inevitable changes](people-changes.md) and [chaos](unknown.md) that come with [groups of people](groups-small.md) as well as [results](results.md) that are *rarely* in their direct control.
@@ -90,13 +95,13 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
   - They'll have to [organize and track projects](mgmt-2_projects.md).
   - But, most of them must have at least a few important [conversations](mgmt-5_communication.md) or [public speeches](language-speaking.md) every day.
 - Agreeableness must be average to above-average.
-  - They'll often have to make goals and [decisions](people-decisions.md) without others' input.
+  - They'll often have to make goals and [decisions](mind-decisions.md) without others' input.
   - They'll also need to confront [conflicts](people-conflicts.md) as they happen, which will likely include firing someone at least once.
   - At the exact same time, they must win [friends](people-friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
   - Maintaining their composure is the only way to build and maintain others' [trust](trust.md) as being reliable.
 - The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](mind-neurodivergence.md) are unusually frequent compared to many other domains.
-  - Both of them also tend to fail in the domain of social skills (ASD from [unawareness](awareness.md), Cluster B from apathy), which is part of why [management can develop stereotypes](mgmt-badsystems.md).
+  - Both of them also tend to fail in the domain of social skills (ASD from [unawareness](awareness.md), [Cluster B](mind-neurodivergence-clusterb.md) from apathy), which is part of why [management can develop stereotypes](mgmt-badsystems.md).
 
 Managers have to battle the conflicting interests between their subordinates and *their* managers, so there are several major ways to fail:
 
@@ -134,11 +139,11 @@ All managers *should* have leadership qualities because managers must perform sp
 - Fire or dismiss lazy, uncooperative, and complaining workers.
 - Adapt to the situation as it [changes](people-changes.md).
 - [Loyal](trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
-- Capable of making clear [decisions](people-decisions.md) confidently enough that others [trust](trust.md) them.
+- Capable of making clear [decisions](mind-decisions.md) confidently enough that others [trust](trust.md) them.
 
 While management itself is a role, leadership is a mindset and skillset:
 
-- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](people-decisions.md) that [take action](results.md).
+- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](mind-decisions.md) that [take action](results.md).
 - At least some degree of [maturity](maturity.md) and [awareness](awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
 - Concerned more about their group's or team's [interests](purpose.md) than themselves.
 - Confident about their decisions without regrets, but humble enough to make dramatic changes when they're wrong.
@@ -153,11 +158,11 @@ Managers are granted roles from someone in a position of authority who liked the
 
 - Others tend to stop and listen whenever they speak.
 - Wherever they go, they'll tend to take charge, and others will want to follow them.
-- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts-why.md) to something else or following a [social fashion](trends.md).
+- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](people-imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts-why.md) to something else or following a [social fashion](people-trends.md).
 
 The primary distinguishing features between a leader/manager and a manager-in-title-only comes through:
 
-1. How they make difficult [decisions](people-decisions.md).
+1. How they make difficult [decisions](mind-decisions.md).
 2. How they own those decisions when they make a mistake.
 
 ## Bad managers
@@ -170,12 +175,12 @@ Many managers only have a [formal title](power-types.md) that implies specific r
 The stereotype of bad managers distill to a few key details:
 
 - Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](awareness.md) of that fact.
-- Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which leads to some amount of hypocrisy with their expectations of others.
+- Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which make their expectations from others at least somewhat hypocritical.
 - Either poor [interpersonal](people-boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
-- Poorly [understood](understanding.md) or poorly articulated [vision](imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
+- Poorly [understood](understanding.md) or poorly articulated [vision](people-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
 - Unwilling to hear [constructive input](people-conflicts-why.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
-- Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged.
-- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](people-image-why.md).
+- Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged (a particular problem of [Cluster B diagnosis](mind-neurodivergence-clusterb.md)).
+- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](people-image-why.md) (a particular problem of [narcissism](mind-neurodivergence-clusterb-narcissist.md)).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
 Most of the time, these managers rise into their role because the organization needed a human being in a spot, and nobody else was around.
@@ -232,8 +237,8 @@ A manager has a few possible ways to interpret their role:
 
 No single management style works for all situations, for several reasons:
 
-1. Managers are usually held solely responsible for the [decisions](people-decisions.md) they've made, but each manager's [personality](personality.md) is uniquely different and they'll take that responsibility in different ways.
-2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](personality.md) has particular requirements or requires specific kinds of attention.
+1. Managers are usually held solely responsible for the [decisions](mind-decisions.md) they've made, but each manager's [personality](people-personality.md) is uniquely different and they'll take that responsibility in different ways.
+2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](people-personality.md) has particular requirements or requires specific kinds of attention.
 3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](money-accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
 
 The manager's skills will need to be appropriate to the team's purposes:

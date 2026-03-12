@@ -1,7 +1,7 @@
 
 # The summarized history of the Christian church 7: The Protestant Prototype
 
-The Roman Catholic Church was starting to develop an unfavorable reputation among certain [fringe groups](trends.md). Their attempts to suppress them only worked temporarily.
+The Roman Catholic Church was starting to develop an unfavorable reputation among certain [fringe groups](people-trends.md). Their attempts to suppress them only worked temporarily.
 
 Roman Catholic Ecumenical Council #11 in 1179 - The Third Lateran Council, feat. Pope Alexander III and Emperor Frederick Barbarossa w/ 302 bishops
 
@@ -39,7 +39,7 @@ Roman Catholic Ecumenical Council #15 in 1311 - The Council of Vienne feat. Pope
 
 In the 1370s and 1380s, university theologians and intellectuals in Prague started adopting conciliarism (that an ecumenical council should have more authority than the pope) and called for the priesthood to live less extravagant lifestyles, educate poorly educated priests, and practice the Eucharist more often.
 
-In 1412 in Prague, Jan Hus criticized selling indulgences (paying money to atone for [sins](morality-sins.md) instead of paying later in the afterlife). Before he left, he appealed to Jesus Christ as the supreme judge (which, in effect, bypassed the [laws and structures](people-rules.md) of the Church). Once he traveled the countryside, he saw the lack of education for the poorer Czech priesthood, and started writing many texts in Czech instead of Latin (the dead language that most Catholic texts were written in).
+In 1412 in Prague, Jan Hus criticized selling indulgences (paying money to atone for [sins](theology-sins.md) instead of paying later in the afterlife). Before he left, he appealed to Jesus Christ as the supreme judge (which, in effect, bypassed the [laws and structures](people-rules.md) of the Church). Once he traveled the countryside, he saw the lack of education for the poorer Czech priesthood, and started writing many texts in Czech instead of Latin (the dead language that most Catholic texts were written in).
 
 Roman Catholic Ecumenical Council #16 in 1414 - The Council of Constance feat. Popes Gregory XII and Emperor Sigismund w/ ~600 people
 

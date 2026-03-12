@@ -3,7 +3,7 @@
 
 We constantly make social risks to gain what we've [purposed](purpose.md).
 
-We tend to make [calculated decisions](people-decisions.md) and assessment about what we [create](creations.md) by how it applies to others:
+We tend to make [calculated decisions](mind-decisions.md) and assessment about what we [create](creations.md) by how it applies to others:
 
 - Whether we want something
 - Whether we'd want it if they wanted it
@@ -14,9 +14,9 @@ We end up either trusting that we'll yield [meaningful](meaning.md) [results](re
 
 Unfortunately, people often don't have the same [values](values.md) or [purposes](purpose.md) as us. This can be the source of many [conflicts](people-conflicts-why.md) and can discourage us from future endeavors.
 
-Every time we [create](creations.md) things that may affect others, we risk our [expectations](imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](people-image-why.md) over time.
+Every time we [create](creations.md) things that may affect others, we risk our [expectations](people-imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](people-image-why.md) over time.
 
-Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](people-decisions.md) calculating between what we like and the chances other people will like it.
+Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](mind-decisions.md) calculating between what we like and the chances other people will like it.
 
 ## Deviants
 
@@ -37,12 +37,12 @@ APPLICATION: Most people *can't* be entrepreneurs because they're not willing to
 To meet all these criteria at once usually requires focused [creativity](mind-creativity.md). People meet most of their typical, common [desires](purpose.md) through [large groups](groups-large.md) that can do things [more efficiently](jobs-specialization.md), so that creative solution usually has several constraints:
 
 1. It needs a [small group](groups-small.md), even if it's simply a nucleus group in the middle of the larger group.
-2. It typically uses [technology](technology.md) that wasn't there when the [trend](trends.md) of the largely satisfied need had started.
+2. It typically uses [technology](technology.md) that wasn't there when the [trend](people-trends.md) of the largely satisfied need had started.
 3. The creation fulfills a [desire](purpose.md) that people aren't even [aware](understanding.md) they have yet.
 
-Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](awareness.md), and often exists within [nature](reality.md).
+Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](people-trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](awareness.md), and often exists within [nature](reality.md).
 
-One *severe* requirement of these people succeeding is that they have a high [conscientiousness](personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
+One *severe* requirement of these people succeeding is that they have a high [conscientiousness](people-personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
 
 The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume, but if it fulfills a niche (e.g., phone cases) most people won't want it so it will require more [searching and advertisement](marketing.md).
 
@@ -62,7 +62,7 @@ People often attribute this entire experience to [entrepreneurship](entrepreneur
 - Performance arts, including [public speaking](language-speaking.md) and acting
 - Inventing things
 - Colonizing unoccupied territory (though it's not as common anymore now that the planet has been largely settled)
-- [Scientists](science.md) pursuing [unpopular](trends.md) ideas
+- [Scientists](science.md) pursuing [unpopular](people-trends.md) ideas
 - Running a church or not-for-profit organization (i.e., it's a for-profit organization where the [accounting](money-accounting.md) separates profit from expenses)
 - Government organizations which will lose [power](power.md) if they fail or face [competition](people-conflicts-war-why.md) from the private sector or other nations
 - Making a government coup or declaring [war](people-conflicts-war-why.md)
@@ -72,8 +72,8 @@ While they're usually fulfilling a very specific [specialization](jobs-specializ
 To accomplish this, most of the risk-takers have a near-opposite [attitude](purpose.md) about [reality](reality.md) compared to the rest of the members in that group:
 
 - While most people [fear](mind-feelings-fear.md) [risk](safety.md), they see [opportunities](purpose.md) in it.
-- Most people are working as part of a [group](groups-large.md) toward that group's predefined [goal](purpose.md), but they're constantly [deciding](people-decisions.md) to shift their [purposes](purpose.md) around.
-- While most people are in the early or late majority on most [trends](trends.md), they're often innovators or early adopters.
+- Most people are working as part of a [group](groups-large.md) toward that group's predefined [goal](purpose.md), but they're constantly [deciding](mind-decisions.md) to shift their [purposes](purpose.md) around.
+- While most people are in the early or late majority on most [trends](people-trends.md), they're often innovators or early adopters.
 - Most people have great ideas, but don't want to make the sacrifices for them.
 - Risk-takers regularly have an intense [understanding](understanding.md) of [reality](reality.md) and at least some awareness of [what they want](purpose.md).
 
@@ -81,26 +81,26 @@ To accomplish this, most of the risk-takers have a near-opposite [attitude](purp
 
 Their efforts will generally not succeed, simply because they're trying things that have tremendous risks, and frequently in competition with [large-scale systems](mgmt-badsystems.md) that don't want them to prevail.
 
-However, these risks, when successful, add new [value](purpose.md) to people in ways nobody could have anticipated. The risk-taker is regularly honored as the founder of a [trend](trends.md), even when they simply worked hard and [remixed others' works](mind-creativity.md).
+However, these risks, when successful, add new [value](purpose.md) to people in ways nobody could have anticipated. The risk-taker is regularly honored as the founder of a [trend](people-trends.md), even when they simply worked hard and [remixed others' works](mind-creativity.md).
 
 Frequently, success in taking social risks requires finding value that wasn't previously regarded as value, which requires a unique perspective that explores [creative](mind-creativity.md) and otherwise-[taboo](morality-taboo.md) perspectives:
 
 - A city's [gang problem](mgmt-badsystems.md) means many [young people](maturity.md) are finding [meaning](meaning.md) through honoring a semi-formalized ad-hoc social structure.
 - A high murder rate means people have severe, unspoken [feelings](mind-feelings.md) that can be redirected toward a more [useful](purpose.md) goal.
 - Destruction of the environment means many people have likely been productive [creating](creations.md) other things.
-- A fading [culture](people-culture.md) or [trend](trends.md) means people have adopted a *different* culture or trend instead.
+- A fading [culture](people-culture.md) or [trend](people-trends.md) means people have adopted a *different* culture or trend instead.
 
 APPLICATION: Since every system eventually turns [bad](mgmt-badsystems.md) from [human nature](humanity.md), there'll always be people breaking free from [a group's leadership](groups-large.md) somewhere to start something new.
 
 If it's not obvious, this is a *massive* vote of [confidence](trust.md) in the [unknown](unknown.md).
 
-APPLICATION: Pay close attention to the heretics, since the [new trends](trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
+APPLICATION: Pay close attention to the heretics, since the [new trends](people-trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
 
-The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](money-economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](people-decisions.md)* to give them [power](power.md) to keep them going.
+The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](money-economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](mind-decisions.md)* to give them [power](power.md) to keep them going.
 
 This success won't be without opposition. Every new trend means the death of an old one, and the [groups losing power](mgmt-badsystems.md) will try to shut it down to maintain their way of life. For this reason, most of the individuals who make the risks against established convention will *not* succeed.
 
-However, the new way of life advanced by the social risk will have advantages. Eventually, assuming there aren't any [government efforts to halt it](rules-methods.md), enough of a majority will follow in the risk-taking through the desire to have a more convenient life, and the [trend](trends.md) will win against the old way.
+However, the new way of life advanced by the social risk will have advantages. Eventually, assuming there aren't any [government efforts to halt it](rules-methods.md), enough of a majority will follow in the risk-taking through the desire to have a more convenient life, and the [trend](people-trends.md) will win against the old way.
 
 However, the [establishment](groups-large.md) is always fighting a losing battle of attrition with all those risk-takers. They may be able to postpone or destroy smaller groups that start the new trend, at least for a long time:
 
@@ -113,9 +113,9 @@ APPLICATION: Since every success story has *many* failure stories attached elsew
 
 It never works indefinitely, though. It only persists as long as the public remains [unaware](understanding.md) of how the new trend's benefits outweigh its risks. Both sides (innovator and old group) will make huge [political shows](people-image-distortion.md) of [their side](stories-storytellers.md) of the situation.
 
-APPLICATION: If you're going to take a risk, keep your head down and stay as undetected as you can for as long as possible. Once you start making [ripples across society](trends.md), expect the [big and established systems](mgmt-badsystems.md) to come after you with [everything they have](people-rules.md).
+APPLICATION: If you're going to take a risk, keep your head down and stay as undetected as you can for as long as possible. Once you start making [ripples across society](people-trends.md), expect the [big and established systems](mgmt-badsystems.md) to come after you with [everything they have](people-rules.md).
 
-If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](trends.md) to arise and the role to replay itself.
+If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](people-trends.md) to arise and the role to replay itself.
 
 APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](money-economics.md).
 
@@ -125,7 +125,7 @@ APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it
 
 There are two major sources of failure:
 
-- [Cultural](people-culture.md) opposition from the risk-taker's violation of existing [standards](habits.md), which is why the [geeks and heretics](trends.md) never reap much from their efforts.
+- [Cultural](people-culture.md) opposition from the risk-taker's violation of existing [standards](habits.md), which is why the [geeks and heretics](people-trends.md) never reap much from their efforts.
 - Competition from other people doing the same things, which is why the majority never reap those rewards.
 
 For this reason, people who walk the fine line of honoring [taboo](morality-taboo.md) but also breaking convention can ever win. However, since this is based on [feelings](mind-feelings.md), it can change at an *instant* with a small shift in [narrative](stories-why.md), and much of it is bound up in [luck](unknown.md).
@@ -140,7 +140,7 @@ Further, even a tremendously successful risk-taker can become *very* [risk-avers
 
 ## Incubating
 
-It's in [large groups'](groups-large.md) best interests (e.g., governments, massive corporations) to foster risk-takers. Besides cutting down on competition (since they're profiting directly from it and gaining [favor](people-friends-why.md)) they can often build and [frame](people-image-why.md) the new [trends](trends.md) themselves instead of fighting them later.
+It's in [large groups'](groups-large.md) best interests (e.g., governments, massive corporations) to foster risk-takers. Besides cutting down on competition (since they're profiting directly from it and gaining [favor](people-friends-why.md)) they can often build and [frame](people-image-why.md) the new [trends](people-trends.md) themselves instead of fighting them later.
 
 Unfortunately, no reliable system can "make" risk-takers. Risk-taking is an [attitude](purpose.md) more than [understanding](understanding.md), so the creators are experiencing a highly personal [journey](stories-why.md) of self-discovery as they [influence](influence.md) their environment.
 

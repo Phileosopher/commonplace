@@ -15,13 +15,13 @@ We're the only "mammals" who think about the future, but tend to make errors abo
 - We often [understand](understanding.md) things with an over-simplified [model](logic.md), and tend to [simplify things further](mind-bias.md) if we're ever overwhelmed or have things that violate our [beliefs](trust.md).
 - When we [try to do something](purpose.md), our bodies are very imprecise without *tons* of [practice](success-5_persevering.md), even when the tasks have become completely [routine](habits.md).
 
-[Moral](morality.md) decisions typically involve [how we use our body](goodlife.md), especially in our [language](language.md).
+[Moral](morality.md) decisions typically involve [how we use our body](people-goodlife.md), especially in our [language](language.md).
 
 Like any biological being, every drive of a body is based on two primary [themes](symbols.md): [fear of death](mind-feelings-fear.md) and [sex](gender.md). Or, in simpler terms, every action we make is either a reaction driven by fight/flight/freeze or pleasure.
 
 However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](results.md) within that domain of error.
 
-Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](people-decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
+Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](mind-decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
 
 While the base configuration of [reality](reality.md) is semi-ordered [chaos](unknown.md), our existence as [understanding](understanding.md) beings is semi-chaotic order.
 
@@ -45,25 +45,25 @@ APPLICATION: The soul is the only vehicle that we keep after this life, in whate
 
 We can't know precisely what a soul *is* (including whether it's simply a component of the body), but we can still identify certain things as being "soul-like" that express onto [reality](reality.md).
 
-The soul contains the will, which finds some form of [purpose](purpose.md) through adhering to [values](values.md) that always advance some sort of [meaning](meaning.md). The stronger that will, the more determination toward that purpose. A will can partly be trained, but a large portion of the will comes from [birth](maturity.md) and [personal decisions](people-decisions.md).
+The soul contains the will, which finds some form of [purpose](purpose.md) through adhering to [values](values.md) that always advance some sort of [meaning](meaning.md). The stronger that will, the more determination toward that purpose. A will can partly be trained, but a large portion of the will comes from [birth](maturity.md) and [personal decisions](mind-decisions.md).
 
-Souls also each contain a type of [personality](personality.md), which is a product of pure [preference](mind-feelings.md). Both preference and [decisions](people-decisions.md) derived from preference means multiple people can grow up in the same environment, while they will all respond differently to it.
+Souls also each contain a type of [personality](people-personality.md), which is a product of pure [preference](mind-feelings.md). Both preference and [decisions](mind-decisions.md) derived from preference means multiple people can grow up in the same environment, while they will all respond differently to it.
 
-The soul constructs an [identity](identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
+The soul constructs an [identity](people-identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
 
 The things we're naturally [good at](understanding.md) and [like](humanity.md) doing can be defined as natural talent, which comes from the soul's interaction with the body. While it expresses as we create and build, it has its potential *long* before we become [influential](influence.md) with that talent, often when we're [children](maturity.md) before we can even [speak](language.md).
 
-We have thoughts in our mind, which are fleeting glimpses of [patterns](symbols.md) that represent as [values](values.md). When thoughts group together enough to generate [certainty](understanding-certainty.md), they form [feelings](mind-feelings.md) that can last longer than mere thoughts. Over a longer stretch of time, feelings can create an intuition and sensations, which profoundly affect our [understanding](understanding.md) and [personality](personality.md).
+We have thoughts in our mind, which are fleeting glimpses of [patterns](symbols.md) that represent as [values](values.md). When thoughts group together enough to generate [certainty](understanding-certainty.md), they form [feelings](mind-feelings.md) that can last longer than mere thoughts. Over a longer stretch of time, feelings can create an intuition and sensations, which profoundly affect our [understanding](understanding.md) and [personality](people-personality.md).
 
 Our subconscious mind is designed to protect us by automatically performing [routine actions](habits.md), but is *ridiculously* hypersensitive to input. These inputs can either be thoughts or [environmental experience](reality.md). Anything we can potentially do automatically and regard as [unimportant](purpose.md), including our [feelings](mind-feelings.md), can become part of that subconscious.
 
 We have many [depicted expressions of self-concept](people-image-why.md), which are all built on the [purposes](purpose.md) within our [environment](reality.md). There are many ways to [group](logic.md) those faces, but they broadly classify as short-term selfish (the "id"), long-term selfish (the "ego"), and [love](people-love.md) beyond oneself for others (the "superego").
 
-It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](people-decisions.md) more than what we [do](results.md). But, everyone else only [sees](people-image-why.md) what we do, and their [judgments](people-image-why.md) are typically on that aspect alone.
+It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](mind-decisions.md) more than what we [do](results.md). But, everyone else only [sees](people-image-why.md) what we do, and their [judgments](people-image-why.md) are typically on that aspect alone.
 
 APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will implies they're born, then fostered.
 
-[Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](people-decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
+[Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](mind-decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
 
 From a [moral](morality.md) perspective, the soul has plenty of [evil](morality-evil.md). Whether you believe it's in-born or inherited, by the time people can [reason](logic.md), they will do things with at least passive intent to harm others, and with far more capacity than any other animal is capable of performing. It's typically driven by self-interest, but a soul is often not aware of its own moral state, especially when [young](maturity.md). It can be retrained, but [requires the trainers to believe](politics-leftism.md) the moral issue exists in the first place.
 
@@ -71,7 +71,7 @@ No two souls are precisely alike, but *many* overlaps are frequently [universal]
 
 APPLICATION: Humanity doesn't really change as a baseline. People will change individually, but everyone is born with approximately the same [base programming](humanity-universals.md), then adapts to their environment (which includes other humans' interactions). If the environmental stimuli stops, the new people being born will be the same as we've seen for all written history.
 
-Nobody is particularly unique, and not particularly mysterious compared to anyone else, but we all like to think we're more unique or mysterious in some special way. We live to gain that uniqueness (i.e., being important) and find tremendous [meaning](meaning.md) and [identity](identity.md) when others see us as special. Any uniqueness we do perceive or express comes through the [bias](mind-bias.md) caused by [love](people-love.md).
+Nobody is particularly unique, and not particularly mysterious compared to anyone else, but we all like to think we're more unique or mysterious in some special way. We live to gain that uniqueness (i.e., being important) and find tremendous [meaning](meaning.md) and [identity](people-identity.md) when others see us as special. Any uniqueness we do perceive or express comes through the [bias](mind-bias.md) caused by [love](people-love.md).
 
 APPLICATION: We are often entitled because we believe we deserve something. In truth, we only deserve things the same as anyone else (meaning we must consider the needs of everyone around us) or by our merit (which is based on [results](results.md) just as much as [intention](purpose.md)).
 
@@ -87,7 +87,7 @@ APPLICATION: To not value a soul, while valuing anything else of a person, is to
 
 APPLICATION: We can't directly observe a soul, and the easiest way to discover the value of a soul is through changing the situation that person is in. Make a rich man penniless, or give a low-ranking person ultimate authority. Their value is in the [virtues and goodness](morality.md) they keep or change as the situation shifts.
 
-People don't usually pay attention to others' legitimate human worth because they focus more on [status](people-image-why.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](people-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+People don't usually pay attention to others' legitimate human worth because they focus more on [status](people-image-why.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](mind-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
 
 APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 
@@ -97,7 +97,7 @@ As we age and transition through [life stages](maturity.md), we become known (an
 
 All [religion](religion.md) gives us directives to live in a [morally superior way](morality.md). While those morals are *not* the same according to each religion, they all give promises of humanity becoming better than it is right now. Most of them indicate that this superior existence comes after [death](legacy.md).
 
-Beyond religion, a relatively new type of [trend](trends.md) has arisen in light of [technology](technology.md), called "transhumanism". Instead of the promises coming through moral action that leads to post-mortem payout, the promises come [through technology](computers-biological.md), with the promise being a superior quality of life. At its farthest, the promises extend to ending death itself.
+Beyond religion, a relatively new type of [trend](people-trends.md) has arisen in light of [technology](technology.md), called "transhumanism". Instead of the promises coming through moral action that leads to post-mortem payout, the promises come [through technology](computers-biological.md), with the promise being a superior quality of life. At its farthest, the promises extend to ending death itself.
 
 Many [works of science fiction](stories-storytellers.md) magnify this story, to tremendous levels. It's not unusual in this mindset to visualize humanity:
 

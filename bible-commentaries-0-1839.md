@@ -13,7 +13,7 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
 1. Who wrote it, and approximately what window of time would it have been written?
 2. What theological basis or denomination was the author?
    - You can certainly read outside your denomination (and it can help to gain a deeper understanding through the diversity of [our gifts and roles](spiritual-gifts.md)).
-   - Many [philosophies](philosophy.md) and [beliefs](glossary-philosophy-christian.md) across the [lens of Christian history](history-church.md) have a *profound* effect on how you'll see the finer details of [Scripture](bible.md).
+   - Many [philosophies](philosophy.md) and [beliefs](glossary-philosophy-christian.md) across the [lens of Christian history](history-church.md) have a *profound* effect on how you'll see the finer details of [Scripture](theology-bible.md).
    - For the sake of your [workflow](success-4_routine.md), some opinions and approaches may impede your research into a [Bible study](bible-study.md) or [sermon](mgmt-church.md).
 3. What type of commentary is it?
    - **Exegetical** (aka Word) works to give technical details tied to the original [language](language.md) and its [meaning](meaning.md).
@@ -31,12 +31,14 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
    - More specific implies that it will have more in-depth analysis and clear application, but that all depends on the quality of the commentator's work.
 5. Where can I find that commentary?
 
-Also, the abundance of links to that particular work may give some hint on how popular it has been among Christians. If it's difficult to find online, it is likely either [heresy](people-conflicts-christian-why.md) or its creators are [violating the spirit of the Bible through intellectual property trolling](https://theologos.site/ip/) and not worth existing on this page.
+Also, the abundance of links to that particular work may give some hint on how popular it has been among Christians.
+
+- Every single pastor or theologian will effectively make *new* commentary as they teach, so by design this *can't* be an exhaustive list.
+- If it's difficult to find online, it has a higher chance of being either [heresy](people-conflicts-christian-why.md) or its creators are [violating the spirit of the Bible through intellectual property trolling](https://theologos.site/ip/).
 
 It's sorted by year of approximate publication.
 
 - It's only reasonable that many Bible commentators have pulled from prior commentators, *especially* within the same or parent denomination.
-- Almost every pastor or theologian will effectively make *new* commentary as they teach, so by design this *can't* be an exhaustive list.
 
 ## 14th Century
 
@@ -48,6 +50,7 @@ Golden Chain Commentary on the Gospels
 4. Matthew through John
    - [StudyLight](https://www.studylight.org/commentaries/eng/gcc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Catena)
 
 ## 16th Century
 
@@ -59,6 +62,7 @@ Luther's Commentary on Galatians
 4. Galatians
    - [StudyLight](https://www.studylight.org/commentaries/eng/mlg/galatians.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
+   - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=Luther)
 
 Geneva Study Bible
 
@@ -185,7 +189,7 @@ Henry's Commentary on the Bible
 Bengel's Gnomon of the New Testament
 
 1. Johann Albrecht Bengel - 1742
-2. Protestant (Lutheran), [false prediction](imagination-failedprophecies-2.md)
+2. Protestant (Lutheran), [false prediction](theology-end-prophecies-2.md)
 3. Exegetical
 4. NT
    - [BibleHub](https://biblehub.com/commentaries/bengel/matthew/1.htm)
@@ -207,7 +211,7 @@ The Church Pulpit Commentary
 Wesley's Explanatory Notes
 
 1. John Wesley - 1754-1765
-2. Arminian, Protestant (Wesleyan/Methodist), [false prediction](imagination-failedprophecies-2.md)
+2. Arminian, Protestant (Wesleyan/Methodist), [false prediction](theology-end-prophecies-2.md)
 3. Sermonic
 4. OT, Matthew through Titus, Hebrews through Revelation
    - [BibleHub](https://biblehub.com/commentaries/wes/)

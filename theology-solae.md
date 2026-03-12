@@ -33,7 +33,7 @@ It's worth noting the Solae are *not* matters of [salvation](https://theologos.s
 
 ## A. Sola Scriptura
 
-The first Sola has the most profound significance because it defines how much authority non-[Bible](bible.md)-specific things have for moral guidance.
+The first Sola has the most profound significance because it defines how much authority non-[Bible](theology-bible.md)-specific things have for moral guidance.
 
 This isn't a black-and-white concept, and "Scripture alone" itself is more of a spectrum:
 
@@ -59,7 +59,7 @@ This vagueness does provide freedom ([Galatians 5](https://biblehub.com/galatian
 
 1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/romans/1.htm)) as a good thing.
 2. If we make clarifications of vague passages, *our* faith and beliefs in God creates that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
-3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](morality-sins.md).
+3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](theology-sins.md).
 4. In particular, [church leaders](mgmt-church.md) must be careful what they forbid and how they do it within their domain of [influence](power-influence.md).
 
 Every Christian believes in the spiritual authority of the Bible, but the Church's authority certainly isn't as clear:
@@ -72,13 +72,13 @@ Every Christian believes in the spiritual authority of the Bible, but the Church
 
 Church and Scripture with the same authority permits more clear guidance from the leadership, but it means tremendous problems if the leadership were to ever make a contradictory decision in relationship to Scripture.
 
-The advantage of Scripture over Church is that the Scripture holds more true, meaning it won't change with [social fashions](trends.md), but it comes with the disadvantage that there's no true authority where the Bible is silent.
+The advantage of Scripture over Church is that the Scripture holds more true, meaning it won't change with [social fashions](people-trends.md), but it comes with the disadvantage that there's no true authority where the Bible is silent.
 
 It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love ([John 13:35](https://www.bible.com/bible/206/jhn.13.35)) and that there's at least *some* sense of [order](unknown.md) ([1 Corinthians 14:26-32](https://biblehub.com/1_corinthians/14.htm)).
 
 ### Problem 2: *Which* Scriptura?
 
-God designed everything as a self-contained unit inside each of His books. Each book gives a unique perspective on Him and, as a result, gives us standards on [how to live](goodlife.md) and behave ([2 Timothy 3:16](https://biblehub.com/2_timothy/3-16.htm)). However, all the books of [the Bible](bible.md) have differing *scope* of authority because they all contain different types of messages and concepts, even though they frequently carry [*very* similar themes](bible-patterns.md).
+God designed everything as a self-contained unit inside each of His books. Each book gives a unique perspective on Him and, as a result, gives us standards on [how to live](people-goodlife.md) and behave ([2 Timothy 3:16](https://biblehub.com/2_timothy/3-16.htm)). However, all the books of [the Bible](theology-bible.md) have differing *scope* of authority because they all contain different types of messages and concepts, even though they frequently carry [*very* similar themes](bible-patterns.md).
 
 The books of the Apocrypha/Deuterocanon distill to a difficult decision between two extremes:
 
@@ -91,10 +91,10 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 
 "Faith" is a unique word to Christianity, and takes on two uniquely separate meanings:
 
-1. Our belief in [God](god.md), who God is, God's nature, et al.
+1. Our belief in [God](theology-god.md), who God is, God's nature, et al.
 2. Our specific [trust](understanding-certainty.md) that God will [do something](results.md).
 
-Trusting God takes *far* more work than simply believing in Him, and requires [taking action](people-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
+Trusting God takes *far* more work than simply believing in Him, and requires [taking action](mind-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
 
 The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](https://theologos.site/gospel/) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
 
@@ -117,7 +117,7 @@ This entire debate of grace/works sprung historically from a long-standing disci
 Instead, we should ask better questions in light of this Sola:
 
 - Does our individual faith directly reflect with our works?
-- Are any of our works associated with [sins](morality-sins.md), even if we have good motivations?
+- Are any of our works associated with [sins](theology-sins.md), even if we have good motivations?
 - Are we spending more time trying to [gain understanding](understanding.md) than [doing things](results.md) with that understanding?
 
 ## D. Sola Christus
@@ -132,7 +132,7 @@ There are several broad questions we don't have precisely clear answers on:
 
 Protestants simply answer #3 with "none" and carry on, but Catholics have a more nuanced metaphysical view. Roman Catholics have a fixed hierarchy where saints are very prominently differentiated from the Christian rabble, while Eastern Orthodox are much more open to a wide variety of interpretations.
 
-The reality is, we don't actually know. However, some [not-universally-accepted books of the Bible](bible.md) allude to semiregular interaction between long-passed people and present people. They also allude to plenty of [demonic and angelic influence](spiritual-warfare.md) beyond a few references in Job. There are also a host of other interpretations of spiritual beings (such as Nephilim).
+The reality is, we don't actually know. However, some [not-universally-accepted books of the Bible](theology-bible.md) allude to semiregular interaction between long-passed people and present people. They also allude to plenty of [demonic and angelic influence](spiritual-warfare.md) beyond a few references in Job. There are also a host of other interpretations of spiritual beings (such as Nephilim).
 
 So, what you think of the Deuterocanon/Apocrypha heavily define what you think of Sola Christus. This represents more as a spectrum than as a binary viewpoint.
 

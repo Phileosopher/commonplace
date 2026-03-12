@@ -41,7 +41,7 @@ Further, like [exploring Bible translations](bible-study.md), there can be quite
 
 2:05-2:40 - priest reading Micah
 
-- LEGIT - uses English Standard Version (ESV), which is a good English-language [Bible translation](bible.md) hybrid of readability (idea-for-idea) and accuracy (word-for-word)
+- LEGIT - uses English Standard Version (ESV), which is a good English-language [Bible translation](theology-bible.md) hybrid of readability (idea-for-idea) and accuracy (word-for-word)
 - WRONG - the reading would have been from a local rabbi, and *not* a priest
 - WRONG - the priest reads [Micah 5:2-3a](https://biblehub.com/esv/micah/5.htm), then jumps to 5:5, which would probably get him fired as a rabbi or worse
 

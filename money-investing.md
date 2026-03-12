@@ -85,15 +85,15 @@ Successful investing, across *any* industry, is knowing when things are cheap or
 
 The concept of value, however, is [a philosophically complicated one](values.md), and investing uses a combination of several possible approaches to parse the value of money:
 
-1. Momentum investing - looking at the current price of something and [creating expectations](imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
+1. Momentum investing - looking at the current price of something and [creating expectations](people-imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
    - The idea is that the right mode of [intuitive](mind-feelings.md) analysis and understanding alone can predict future performance.
-   - This is patently ridiculous, since we can't [predict the future](imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
+   - This is patently ridiculous, since we can't [predict the future](people-imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
 2. Value investing - find the investment's intrinsic underlying value, [without distortion](people-image-distortion.md), then buying or selling based on the divergence from that value.
-   - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](trends.md), and long-term growth potential.
+   - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](people-trends.md), and long-term growth potential.
    - Its primary focus emphasizes cheapness and concrete facts, but it can become myopic to bad decisions.
    - At the far end, net-net investing directs funds to places where a company's stock is less than the company's current assets.
    - However, enough unwise money-losing operations or acquisitions can still burn up a company's assets, and the measurement of value *must* be accurate.
-3. Growth investing - find the price of something, then closely observe [trends](trends.md) that would make that value go up.
+3. Growth investing - find the price of something, then closely observe [trends](people-trends.md) that would make that value go up.
    - The focus is less on the company's current attributes (like value investing) and more on its potential future value.
    - At the same time, it incorporates the [trust](trust.md) that the investment will appreciate in value (like momentum investing).
    - Growth investing often fails because it concerns itself so heavily with known-good investments that it disregards what [technology's fashions](technology.md) can do to a company.
@@ -121,7 +121,7 @@ Only sell short if you see a looming negative change.
 
 The market will naturally cycle up and down:
 
-- A market cycle is a [trend](trends.md) that rises, crests, and falls.
+- A market cycle is a [trend](people-trends.md) that rises, crests, and falls.
   - There are predictable seasonal trends, such as from [weather](science-earth-weather.md) or [elections](politics-systems.md).
   - It tends to go up more slowly than it falls.
   - When it falls, it can devastate entire nations, but only happens periodically.
@@ -135,7 +135,7 @@ Timing the market ("speculation") is so ubiquitous that most people think it's t
 - Focus more on intimate familiarity with your investment than timing a buy or sell.
 - Only speculate with money you can withstand losing.
 
-Don't sway [emotionally](mind-feelings.md) toward industry [trends](trends.md) unless you know exactly *why* you want to invest there.
+Don't sway [emotionally](mind-feelings.md) toward industry [trends](people-trends.md) unless you know exactly *why* you want to invest there.
 
 Try Dollar-Cost Averaging to make safe, non-emotional [habits](https://adequate.life/habits/) out of investing:
 
@@ -156,7 +156,7 @@ The [efficient-market hypothesis](lawsaxioms.md) indicates that the price is ess
 The efficiency of an asset class as an investment vehicle is proportional to a few things:
 
 1. They're widely known and have a broad following.
-   - [New](trends.md) asset classes do *not* have much information on them, so they're extremely high-risk.
+   - [New](people-trends.md) asset classes do *not* have much information on them, so they're extremely high-risk.
    - The information should be widely distributed, and preferably approved by a reputable [government](people-rules.md).
 2. The asset is socially acceptable and not [controversial or taboo](morality-taboo.md), which exposes you to non-financial risks:
    - [Potential legal issues](legal-safety.md) if a [law](people-rules.md) *might* forbid it.
@@ -169,7 +169,7 @@ An inefficient (and possibly profitable) market will have a few characteristics:
 
 - The market prices are often entirely wrong, sometimes [hilariously](humor.md).
 - The returns, adjusted for risk, are *way* out of line with other asset classes.
-- Some specific people are making spectacular returns, and they're also typically praised as a [celebrity](trends.md) (sometimes [controversially](trends.md)).
+- Some specific people are making spectacular returns, and they're also typically praised as a [celebrity](people-trends.md) (sometimes [controversially](people-trends.md)).
 
 Don't invest, or do *anything*, you don't understand.
 
@@ -209,7 +209,7 @@ When you're ready to make the investment (and only then), intimately learn where
   - Have that company's profit margins steadily trended upward or downward?
 - Does that company provide value you believe in?
   - Is the product a sufficient quality for the market it goes to?
-  - Is the company leading or following a [trend](trends.md)?
+  - Is the company leading or following a [trend](people-trends.md)?
 - Do you know what the management team is like (such as their website or [LinkedIn](http://www.linkedin.com/))?
   - Are they well-respected and trustworthy?
   - Are the executives given fair compensation compared to others in the industry?
@@ -232,7 +232,7 @@ However, too much information can be a bad thing.
 The best choices have more benefits than downsides, but still have downsides.
 
 - Since *every* decision has a downside, you simply aren't paying attention to it if you don't see it.
-- As much as possible, live in the world of *[probabilities](math-stat.md)* more than *[possibilities](imagination.md)*.
+- As much as possible, live in the world of *[probabilities](math-stat.md)* more than *[possibilities](people-imagination.md)*.
 - Focus on [managing risk](money-investing-risk.md) as a known element instead of removing it entirely.
 
 ## Advisors
@@ -423,7 +423,7 @@ To understand how each of your investments fit with your financial goals, focus 
 2. Calculate returns you've received to see if you'll hit your goals.
 3. Estimate how much you're willing to lose and how bad things could get.
 4. Make your exit plan as thoroughly as you want.
-5. Never think about it again until you want to or need to adjust things, then [live the rest of your life](goodlife.md).
+5. Never think about it again until you want to or need to adjust things, then [live the rest of your life](people-goodlife.md).
 
 The faster you give away money, the more it flows back to you.
 

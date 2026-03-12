@@ -12,7 +12,7 @@ While cognitive bias and fallacy crafts a [false image](people-image-why.md) rel
 - We can discover [meaning](meaning.md) and [purpose](purpose.md) from observations to give us something to live for, even when there's nothing there.
 - Irrational behavior is often the most [compassionate and loving](people-love.md), which is where the ultimate meaning of life resides.
 
-While avoiding all these aren't necessarily important to live a [good](goodlife.md) and [meaningful](meaning.md) life, we *must* be aware of them to keep our [imaginations and predictions](imagination.md) tethered closely with [reality](reality.md).
+While avoiding all these aren't necessarily important to live a [good](people-goodlife.md) and [meaningful](meaning.md) life, we *must* be aware of them to keep our [imaginations and predictions](people-imagination.md) tethered closely with [reality](reality.md).
 
 It's worth noting that awareness of these biases don't necessarily change anything. We tend to veer into an *opposite* bias while trying to be accurate, and [influencing](power-influence.md) others with incentives to be unbiased doesn't help at all.
 

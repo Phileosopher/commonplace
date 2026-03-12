@@ -25,12 +25,12 @@ Creating an alliance, merger, union, or truce can prevent conflicts by making mu
 
 Destroying key components of a larger group can delay or nullify that group's [purposes](purpose.md), typically by making them [ineffective](mgmt-badsystems.md). This can create [power](power.md) vacuums the subverting group can then fill:
 
-- [Destroy that group's image](people-image-distortion.md) to make the people fight with each other or destroy their reputation outside the group. The easiest way is to draw extra attention to one of that group's past [decisions](people-decisions.md), which often includes [starting](trends.md) a protest.
+- [Destroy that group's image](people-image-distortion.md) to make the people fight with each other or destroy their reputation outside the group. The easiest way is to draw extra attention to one of that group's past [decisions](mind-decisions.md), which often includes [starting](people-trends.md) a protest.
 - Sabotage resources or the means to acquire resources, usually by attacking the weakest points (which is often their [communications](people-conversation.md) [technology](technology.md)).
 - Redirect and reroute resources toward the subverting group's [purposes](purpose.md). This can involve redirecting physical things (e.g., raw materials) or mental things (e.g., information).
-- Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](people-decisions.md) ability.
+- Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](mind-decisions.md) ability.
 
-If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](socialrisk.md) against their [authorities](power.md) to start the [trend](trends.md).
+If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](socialrisk.md) against their [authorities](power.md) to start the [trend](people-trends.md).
 
 ## Demonstrating
 

@@ -15,8 +15,8 @@ There are many homeschool books, curricula, styles, opinions, and philosophies, 
 You can typically adapt your routines *beyond* your children to accommodate their education:
 
 - [Cooking](cooking.md) is an excellent time to teach counting and writing (by naming foods).
-- If you [grow plants](horticulture.md), they can learn chemistry (through the soil).
-- If you have [pets](fun-pets.md) or [raise livestock](agriculture.md), they can learn biology at the same time.
+- If you [grow plants](plants.md), they can learn chemistry (through the soil).
+- If you have [pets](fun-pets.md) or [raise livestock](livestock.md), they can learn biology at the same time.
 - [Auto repair](autos.md) is a great time to teach shapes and geometry.
 - If you're willing to [get creative](mind-creativity.md), *every* mundane task can become an educational experience for your child.
 - While it's *highly* chaotic, almost all play time with siblings can be directed to educational ends as well.
@@ -52,7 +52,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
   - I am a person of great value.
   - I can do everything required of me.
   - I ought to serve others.
-  - I will [choose](people-decisions.md) to do [what's right](morality.md), even when I don't want to.
+  - I will [choose](mind-decisions.md) to do [what's right](morality.md), even when I don't want to.
 - It delays formal instruction until age 6 when children are developmentally ready.
 - Children will explore "living books" by taking nature walks to learn biology, visiting art museums to understand the arts, and learn aspects of geography, history, and literature similarly.
 - Instead of formalized testing, children are drilled on the subject via narration and discussion.
@@ -115,10 +115,10 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 
 - Gather various workbooks and content for math and literacy, and take an **unschooling** approach for less formalized subjects (e.g., history).
 - Mornings are typically mandatory schoolwork, while afternoons are for hobbies and special projects.
-- One *major* advantage of this style is that you can teach them about important details they may need to understand, such as [how to live well](goodlife.md) and [basic life skills](habits.md).
+- One *major* advantage of this style is that you can teach them about important details they may need to understand, such as [how to live well](people-goodlife.md) and [basic life skills](habits.md).
 
 If you know people and are [entrepreneur minded](entrepreneur-1_why.md), you can also start a **schoolhouse** yourself:
 
 1. Find at least 10--15 children who need educating and a *very* intelligent teacher in your community willing to sacrifice their time to educate.
 2. Establish a schoolhouse with those children, using a more streamlined version of a homeschool method.
-3. As the children grow and the schoolhouse becomes [popular](trends.md), start *separate* schoolhouses headed by other teachers.
+3. As the children grow and the schoolhouse becomes [popular](people-trends.md), start *separate* schoolhouses headed by other teachers.

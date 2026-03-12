@@ -5,7 +5,7 @@ There are *many* [elements every person have in common](humanity-universals.md) 
 
 Gender is a biological construct, and is as unchangeable as race. From birth, we come out as males and females, with a *very* small statistically anomalous group that ends up fitting into both at once or neither.
 
-Even people who don't [identify](identity.md) with their birth gender require rejecting or adapting the [reality](reality.md) of their birth to get to the point of non-identification.
+Even people who don't [identify](people-identity.md) with their birth gender require rejecting or adapting the [reality](reality.md) of their birth to get to the point of non-identification.
 
 ## Contrasts
 
@@ -13,7 +13,7 @@ Like everything else we perceive, we tend to observe gender differences as compl
 
 - Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](understanding.md) more.
 - Men don't value [friendships](people-friends-why.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
-- Women don't persevere with [decisions](people-decisions.md) as much as men because their nature is to revisit them for verification.
+- Women don't persevere with [decisions](mind-decisions.md) as much as men because their nature is to revisit them for verification.
 
 The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
 
@@ -38,8 +38,8 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men are generally physically larger than women.
 - Men tend to have simpler thoughts than women.
 - Men have more upper-body strength while women have more lower-body strength.
-- Men tend to not reconsider a thought after it was [decided](people-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
-- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](people-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends-why.md).
+- Men tend to not reconsider a thought after it was [decided](mind-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
+- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](mind-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends-why.md).
 - Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories-why.md) across many components.
 
 The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries-why.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
@@ -58,15 +58,15 @@ APPLICATION: Men are stronger than women, and women are weaker than men, and thi
 
 [Popular culture](people-culture.md) gives a disproportionate amount of attention to [sex](relationships-sex.md), given that normal marital intercourse is about 5-30 minutes, usually once every few days.
 
-However, many people heavily [identify](identity.md) with that portion of being human. Males, especially, will emphasize their penis, to the point that phallic [symbols](symbols.md) are perpetually present in daily life. Females express it as well, but often in more subtle ways.
+However, many people heavily [identify](people-identity.md) with that portion of being human. Males, especially, will emphasize their penis, to the point that phallic [symbols](symbols.md) are perpetually present in daily life. Females express it as well, but often in more subtle ways.
 
-Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](imagination.md) everyone else does as well.
+Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](people-imagination.md) everyone else does as well.
 
 ## Development
 
 Sexual development comes in waves of identification, with each one adding onto the previous.
 
-First, the distinction begins with **biological sex**. This happens very early on in childhood, and people will [identify](identity.md) as their biological given sex barring [sexual abuse](morality-evil.md) or [past trauma](hardship-ptsd.md). Occasionally, people will identify as the opposite or as neither.
+First, the distinction begins with **biological sex**. This happens very early on in childhood, and people will [identify](people-identity.md) as their biological given sex barring [sexual abuse](morality-evil.md) or [past trauma](hardship-ptsd.md). Occasionally, people will identify as the opposite or as neither.
 
 Next, sometime during [adolescence](maturity.md), people identify with their **gender**. This distinction pulls from [natural animal urges](mind-feelings.md), but it also connects with our [friendships](people-friends-why.md) with others and has heavy influence from our [family](people-family.md) of origin.
 
@@ -78,7 +78,7 @@ Finally, we transition outward to the biological design of sex: procreation and 
 
 The cultural obsession with sex is completely natural. It's similar to our interest in [food](fun-food.md) or [making a home](home-maintenance.md). It can link to our desire for a [family](people-family.md) but doesn't have to, especially when we've experienced past family [trauma](hardship-ptsd.md).
 
-Our gender identity, like all the rest of our [identity](identity.md), is fluctuating all the time. It adapts based on our [relationship status](people-friends-why.md), our belief about how we should [appear](people-image-why.md), and our physical ability to perform sexually. Some people don't *ever* find sexual attraction in others. Most people have non-relationally faithful heterosexual *and* homosexual thoughts, though they usually don't act on them, and it's often [taboo](morality-taboo.md) to openly [discuss](language.md).
+Our gender identity, like all the rest of our [identity](people-identity.md), is fluctuating all the time. It adapts based on our [relationship status](people-friends-why.md), our belief about how we should [appear](people-image-why.md), and our physical ability to perform sexually. Some people don't *ever* find sexual attraction in others. Most people have non-relationally faithful heterosexual *and* homosexual thoughts, though they usually don't act on them, and it's often [taboo](morality-taboo.md) to openly [discuss](language.md).
 
 ## Civilization
 
@@ -93,7 +93,7 @@ With very few social exceptions, [society](jobs-specialization.md) views men and
 
 This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have an harder time curbing their [feelings](mind-feelings.md).
 
-Biology dictates itself to the degree we [identify](identity.md) with the comparison, and there are nurturing males and commanding females. Barring physical limits, how we express and create is determined by *many* factors irrespective of gender, mostly from [attitude](success-2_attitude.md) and [habits](habits.md). Some aspects of living (e.g., martial arts) are inherently "male", while others (e.g., technology) are inherently "female".
+Biology dictates itself to the degree we [identify](people-identity.md) with the comparison, and there are nurturing males and commanding females. Barring physical limits, how we express and create is determined by *many* factors irrespective of gender, mostly from [attitude](success-2_attitude.md) and [habits](habits.md). Some aspects of living (e.g., martial arts) are inherently "male", while others (e.g., technology) are inherently "female".
 
 In ancient societies, nobody had the luxury to explore these identities because of the public [shame](mind-feelings-shame.md) they'd incur, largely from the [fear](mind-feelings-fear.md) that came from survival necessities (e.g., if a man doesn't hunt and a woman doesn't cook, they both die).
 
@@ -105,7 +105,7 @@ APPLICATION: The philosophy of "complementarianism" is valid, in many respects:
 
 ## Mating
 
-The nature of [personality](personality.md) makes us naturally lopsided with the need for others to balance us out. We also happen to have animal sexual desires as well. These two needs combine together and drive us to find a mate.
+The nature of [personality](people-personality.md) makes us naturally lopsided with the need for others to balance us out. We also happen to have animal sexual desires as well. These two needs combine together and drive us to find a mate.
 
 These two attributes together can be risky. We can often find a bad match because that person happens to contain many things that the exact *opposite* of what we are, even when certain [habits](habits.md) will lead to disastrous results later. One of the most common mismatched pairings comes through how there's always one person who is generally antisocial and the other is generally over-intimate.
 
@@ -119,7 +119,7 @@ APPLICATION: The most significant two developments that have equalized women the
 
 While men may seek a useless, beautiful woman, women require men to bring some form of competence to their lives that they don't have already. Otherwise, women become bored or irritated with a man very quickly.
 
-When we select a mate, we tend to match based on what we believe exists that's available to us, which makes a "ceiling" of what we pursue (i.e., people who are attractive enough that we like them, but not enough that they'd quickly select someone better than us). While we don't *turn down* a stunningly attractive person's interest in us, we won't see actively pursuing it to be worth our effort unless we have a *very* strong [ego](identity.md).
+When we select a mate, we tend to match based on what we believe exists that's available to us, which makes a "ceiling" of what we pursue (i.e., people who are attractive enough that we like them, but not enough that they'd quickly select someone better than us). While we don't *turn down* a stunningly attractive person's interest in us, we won't see actively pursuing it to be worth our effort unless we have a *very* strong [ego](people-identity.md).
 
 APPLICATION: The conventional roles of "men work and women stay home" *can* be different than a power game, and can easily serve a mutual benefit. Historically, housewives would often clean and cook out of *gratitude* for their husband's provision.
 

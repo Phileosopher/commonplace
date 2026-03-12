@@ -141,7 +141,7 @@ It's tempting to chase high returns, but focus more on diversity.
 Once you start making gains, your impulse will be to place more of your investments into that asset class.
 
 - However, while you *might* make more money, you're also risking losing it as well.
-- Keep at least 20% of your investment away from [trends](trends.md) you're currently capitalizing on.
+- Keep at least 20% of your investment away from [trends](people-trends.md) you're currently capitalizing on.
 
 For maximum diversification, have a portfolio composed of the following:
 
@@ -216,10 +216,10 @@ Some things can be *very* risky, so take your time with them.
 
 ### Trends
 
-Observe the markets' large-scale [trends](trends.md):
+Observe the markets' large-scale [trends](people-trends.md):
 
 - Stock market index futures are essentially indicators that determine everyone's sentiment on the market.
-- History *very* frequently [remixes from the past](trends.md), so learn to detect [patterns](symbols.md) that happened decades ago.
+- History *very* frequently [remixes from the past](people-trends.md), so learn to detect [patterns](symbols.md) that happened decades ago.
 - Ignore the minute gyrations of the market, which is harder than it sounds.
   - We tend to get caught up in the emotional rush of a [well-marketed](marketing.md) product.
   - Investors' subcultures can often closely reflect the [fanatical originators of cults](culture-cults.md).
@@ -279,7 +279,7 @@ It's generally easy to see a market bubble arise *long* before it pops.
   - [Influencers](power-influence.md) will advertise the product as [serving needs it was never designed to serve](addiction.md).
   - People who have no business investing will start putting money toward it.
   - Some people will treat it as a permanent fixture of society.
-- You can still capitalize on a bubble in the short term, but try to avoid long-term investments toward a [hot trend](trends.md).
+- You can still capitalize on a bubble in the short term, but try to avoid long-term investments toward a [hot trend](people-trends.md).
 
 ### Large-scale events
 
@@ -318,7 +318,7 @@ The public [narrative](stories-why.md) defines where markets travel.
   - High past returns might indicate low future returns, and low past returns might indicate high future returns.
   - A pessimistic set of investors dampening a stock price can often influence a company to perform better.
   - An optimistic set of investors can often make a company grow complacent.
-- [Large trends](trends.md) tend to start with individuals ignoring their inner thoughts to listen to what others are doing.
+- [Large trends](people-trends.md) tend to start with individuals ignoring their inner thoughts to listen to what others are doing.
   - Financial contagion is caused by us being *so* affected by what others think that we can spread misleading or false information rapidly across markets.
 - The crowd is often wrong over short periods, but the true value of the investment tends to win out in the long term.
   - For that reason, following the entire crowd is a generally good bet (e.g., index funds).
@@ -351,7 +351,7 @@ Nearly everyone who gives investing advice has something to gain when you take a
 
 For reliable investing thoughts, follow quants (quantitative analysts) who numerically follow market trends.
 
-- Keep in mind that they're simply crunching numbers, and [can't predict the future](imagination.md).
+- Keep in mind that they're simply crunching numbers, and [can't predict the future](people-imagination.md).
 - However, most of them will *not* tell you their actual strategies, since they'd lose their competitive edge.
 
 Stick with what you know and are familiar with, *not* simply what someone recommends.

@@ -23,7 +23,7 @@ Values are *not* [reality](reality.md), and are merely synthesized and processed
 
 APPLICATION: We can only determine if a value is [real](reality.md) by constantly exposing it to the world around us, mostly through [language](awareness.md) but through all forms of [creation](creations.md).
 
-APPLICATION: The [smarter](personality.md) a person is, the more likely they will derive values that deviate from truth. While intelligence is a [type of power](power-types.md), it's an inherent structural weakness, and part of why so many [creative and brilliant](mind-creativity.md) people are also mentally ill.
+APPLICATION: The [smarter](people-personality.md) a person is, the more likely they will derive values that deviate from truth. While intelligence is a [type of power](power-types.md), it's an inherent structural weakness, and part of why so many [creative and brilliant](mind-creativity.md) people are also mentally ill.
 
 All values are based on some form of [authority](power.md) that defines their existence, and we must [trust](trust.md) that thing legitimately exists.
 
@@ -35,13 +35,13 @@ We frequently define those values through something that broke from a [pattern](
 
 We presume these abstractions are reality because we frequently [share parts of them with other people](humanity-universals.md). We build them by combining our perceptions of [reality](reality.md) with our previous [understanding](understanding.md).
 
-The perceptions we make are *also* made of values, so our minds are vast structures of clumps of values, one on top of another, assembled through [associations](https://gainedin.site/networks/) through [feelings](mind-feelings.md) and [past understanding](understanding.md). They become less reliable the further we get from [actual](reality.md) perceptions, which is easier in proportion to [our intelligence](personality.md).
+The perceptions we make are *also* made of values, so our minds are vast structures of clumps of values, one on top of another, assembled through [associations](https://gainedin.site/networks/) through [feelings](mind-feelings.md) and [past understanding](understanding.md). They become less reliable the further we get from [actual](reality.md) perceptions, which is easier in proportion to [our intelligence](people-personality.md).
 
-While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](personality.md) or how much we [philosophize](philosophy.md).
+While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](people-imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](people-personality.md) or how much we [philosophize](philosophy.md).
 
 APPLICATION: Since we all understand values in a wobbly-pseudo-accurate state, the idea that values don't move around even while people do (i.e., [Plato's assertion](philosophy.md)) is patently wrong. We can definitely become [habituated](habits.md) to certain values, but that's only the *illusion* of consistency.
 
-We [understand](understanding.md) values and ideas to the proportion of [quality](values-quality.md) we can [create](creations.md) with them. Effective [teachers](education.md) and [popular](trends.md) depictions of an idea are demonstrating the most elegant understanding of something, since they've successfully [communicated](language.md) something elaborate in plain terms.
+We [understand](understanding.md) values and ideas to the proportion of [quality](values-quality.md) we can [create](creations.md) with them. Effective [teachers](education.md) and [popular](people-trends.md) depictions of an idea are demonstrating the most elegant understanding of something, since they've successfully [communicated](language.md) something elaborate in plain terms.
 
 ## The use of values
 
@@ -55,7 +55,7 @@ Therefore, for values to be useful, they must fulfill several simultaneous crite
 
 1. Based on [reality](reality.md).
 2. Socially [constructive](results.md).
-3. Immediate and [controllable](people-decisions.md).
+3. Immediate and [controllable](mind-decisions.md).
 4. Free of any general aspects that could lead to [confusion](people-image-distortion.md) or [uncertainty](unknown.md).
 
 APPLICATION: General ideas are generally useful, but not in a practical sense until we start [testing them](results.md). However, specific ideas can create patterns across other domains, and are the foundation for how we make general ideas. For that reason, theory is *never* as effective as implementation, though it's longer-lasting (which is why [teachers](education.md) love theory and [experts](jobs-specialization.md) don't).
@@ -72,13 +72,13 @@ We use a specific process to develop and solidify our [beliefs](trust.md):
 2. As we become more certain, we develop stronger [feelings](mind-feelings.md) about it, sometimes even associating it with [virtue](morality.md).
 3. The stronger our feelings about that value, the more we combine and conflate it with other things.
 4. Even when we [analyze](logic.md) to compensate for the stronger feelings, we will naturally keep adding emotional associations as the value is more intensely understood.
-5. As the values become more clear, they become a key part of our [identity](identity.md), thereby solidifying their presence in ourselves forever (since they'll become a [past part](legacy.md) of our identity if we change them later).
+5. As the values become more clear, they become a key part of our [identity](people-identity.md), thereby solidifying their presence in ourselves forever (since they'll become a [past part](legacy.md) of our identity if we change them later).
 
-APPLICATION: If we live with only the values of things and not the things themselves, our existence is a defective pile of vaguely recognizable abstractions. The [Stoics](philosophy.md) say this is a [good way to live](goodlife.md), but [modern psychology](science.md) has literally *proven* that it's not.
+APPLICATION: If we live with only the values of things and not the things themselves, our existence is a defective pile of vaguely recognizable abstractions. The [Stoics](philosophy.md) say this is a [good way to live](people-goodlife.md), but [modern psychology](science.md) has literally *proven* that it's not.
 
 We build our values into a loose hierarchy, with some values holding more [influence](power-influence.md) over our minds than others. At the top, we have [religious devotion](religion.md) and [addiction](addiction.md). At the bottom, we move into less-[certain](understanding-certainty.md) elements, extending out into further uncertainty into a formless [void](unknown.md).
 
-Whenever we [change](people-changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](personality.md).
+Whenever we [change](people-changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](people-personality.md).
 
 Our desire for [safety](safety.md) and the tremendous magnifying [power](power.md) of [exponents](math.md) mean some of the most powerful values we can hold are self-reinforced adverse ideas:
 
@@ -102,7 +102,7 @@ Firstly, since their very existence is bound by [language](language.md), no indi
 
 Further, we tend to "flavor" our thoughts with experiences that associate with them. For example, if you were instructed to think of a random color for a bird, you're [statistically](math.md) more likely to think of a blue-colored bird because your experience dictates its association, and you'd be affected by the prior paragraph either way.
 
-Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](people-decisions.md). This doesn't even include the [changes happening around us](trends.md) over time.
+Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](mind-decisions.md). This doesn't even include the [changes happening around us](people-trends.md) over time.
 
 APPLICATION: We must slow down if someone else uses the same [words](awareness.md) as us but is concluding something [irrational](logic.md). They're probably using a different definition of that word than you.
 

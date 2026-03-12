@@ -111,7 +111,7 @@ In all of this, there will be endless violence, but nobody would die. People wou
 
 People would be kind, but only to manipulate. The image of goodness would be as sufficient to the morally starved as the real thing, and there would be endless deceptions.
 
-One's [identity](identity.md) would be lost in all the survival and pain. It would be nothing but positioning for advantageous gain against others. Nobody would "be", and would only "do".
+One's [identity](people-identity.md) would be lost in all the survival and pain. It would be nothing but positioning for advantageous gain against others. Nobody would "be", and would only "do".
 
 There would be sexual immorality, and that would be even further sources of violence. People and angels would descend into every form of fetish imaginable, with the destruction coming from both the elements around them and others they betrayed in the process.
 
@@ -138,7 +138,7 @@ There would be joy, for a fleeting moment, when someone was able to exercise som
 
 In all of this, everyone *could*, in theory, repent and come to Christ and confess their sins, even afterward.
 
-However, in the same way that they didn't listen to Moses and the Prophets ([Luke 16:31](https://biblehub.com/luke/16-31.htm)), or [to the believers on this earth when they had the chance](evangelism.md), they wouldn't listen to an angel or God Himself coming down to them.
+However, in the same way that they didn't listen to Moses and the Prophets ([Luke 16:31](https://biblehub.com/luke/16-31.htm)), or [to the believers on this earth when they had the chance](spiritual-exercises-evangelism.md), they wouldn't listen to an angel or God Himself coming down to them.
 
 Instead, if they had the opportunity, they'd conspire with the devil to overthrow God's goodness, similar to the battle in [Revelation 20:7-15](https://biblehub.com/revelation/20.htm).
 

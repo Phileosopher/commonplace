@@ -11,20 +11,20 @@ Morality comes from "mores", which is at least partly a [social construct](group
 
 Moral decisions are *always* a connection between several elements:
 
-1. Decider - Someone who makes the agency of [choice](people-decisions.md) upon the matter.
+1. Decider - Someone who makes the agency of [choice](mind-decisions.md) upon the matter.
 2. Subject - Someone else who experiences the [consequences](results.md) of that choice, though it may sometimes be the Decider.
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](people-image-why.md) or [imagining](imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
+6. Authority - anyone [observing](people-image-why.md) or [imagining](people-imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
 Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
 
-APPLICATION: The moral hazard of a person is proportional to their [power](power-types.md), which means intelligent, wealthy, strong, and [influential](power-infleunce.md) people are far more capable and responsible for both [sin](morality-sins.md) and [virtue](morality-virtue.md).
+APPLICATION: The moral hazard of a person is proportional to their [power](power-types.md), which means intelligent, wealthy, strong, and [influential](power-infleunce.md) people are far more capable and responsible for both [sin](theology-sins.md) and [virtue](morality-virtue.md).
 
 Large moral decisions are conscious, but most moral decisions are unconscious [habits](habits.md). Ethics is strictly morality about the near-recent past, often driven by [animal impulses](mind-feelings.md) and [principles](values.md), with consequences that materialized in the present already.
 
-Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](imagination.md) the [consequences](results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
+Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](people-imagination.md) the [consequences](results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
 
 ## Basis
 
@@ -32,7 +32,7 @@ Depending on the [philosophy](philosophy.md) of the perceiver, the goodness of t
 
 - Goodness in the motive is driven by a belief that virtue holds the most [value](values-quality.md).
 - Goodness in the decision comes from believing that we have little [control](results.md) over our actions.
-- Goodness in consequences comes from a belief that goodness and [results](results.md) are directly connected. This can get extremely complicated because of how [unpredictable](imagination.md) things are!
+- Goodness in consequences comes from a belief that goodness and [results](results.md) are directly connected. This can get extremely complicated because of how [unpredictable](people-imagination.md) things are!
 
 APPLICATION: Moral decisions affect everyone differently, depending on their [philosophy](philosophy.md), but they're all built on a similar framework tied to our [universal wiring](humanity-universals.md) and have a relative component based on [cultural training](people-culture.md).
 
@@ -42,7 +42,7 @@ APPLICATION: People always abide by a moralized [value](values.md) system, even 
 
 Morality must have a basis for its actions. There are some things that *can't* define morality:
 
-- Individual [choice](people-decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
+- Individual [choice](mind-decisions.md) - Otherwise, murder is perfectly fine because people choose it. Claiming people are victims of their choice to murder is silly, but [a good political move](politics-leftism.md).
 - [Justice](morality-justice.md) - Morality *determines* the basis of [laws](people-rules.md) and justice, not the other way around.
 - [Group decisions](groups-large.md) or the collective of humanity - If that were the case, Nazi Germany would have the moral right to do what they did. [Power](power.md) may magnify morality but can't define it.
 
@@ -65,7 +65,7 @@ In practice, most people want moral relativism to justify their views as a type 
 
 We must [learn](understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
-[A virtue](morality-virtues.md is a trained [habit](habits.md) of making [decisions](people-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
+[A virtue](morality-virtues.md is a trained [habit](habits.md) of making [decisions](mind-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
 Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](politics-leftism.md).
 
@@ -79,7 +79,7 @@ We already naturally [understand](understanding.md) these principles, at least i
 
 APPLICATION: Loving behavior toward others begins with patience:
 
-- Patience to suspend [judgment](people-decisions.md)
+- Patience to suspend [judgment](mind-decisions.md)
 - Patience to [understand](understanding.md) others and the situations involved
 - Patience to find [creative solutions](mind-creativity.md) that benefit everyone
 - Patience to [work toward](results.md) an ideal
@@ -88,7 +88,7 @@ Even when we don't understand virtue directly, we form a selfishly driven altern
 
 Some of the most powerful [evil](morality-evil.md) channels virtues and healthy principles toward destructive ends. This is easier than it sounds because many principles are *very* similar, but convey *entirely* different [implications](mind-feelings.md) (e.g., equality versus fairness, wisdom versus knowledge).
 
-The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](people-decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
+The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](mind-decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
 
 APPLICATION: Good moral education requires people to develop an [intuition](mind-feelings.md) for it, *not* [rote memorization](mind-memory.md). However, it's possible that the people who pay the educators [don't want a moral person](mgmt-badsystems.md) to change how they do things.
 
@@ -124,20 +124,20 @@ APPLICATION: Selflessness can be trained, but it must be sincere. If anyone perf
 
 The greatest moral hazard to any soul comes through false humility, which involves heavy preoccupation with [appearing](people-image-why.md) to consider others' best interests instead of doing it. A falsely humble person will live a paradoxical life of self-sacrifice for the purpose of gaining [reputation](people-image-why.md) and the [power](power.md) that comes with it. Ironically, most outsiders of religious [groups](groups-member.md) think of false humility when they observe a [religion](religion.md).
 
-APPLICATION: Living virtuously is typically unpopular, but some [trends](trends.md) will imply the participants are behaving virtuously. Often, their "virtue" will lead to persecution of the truly virtuous.
+APPLICATION: Living virtuously is typically unpopular, but some [trends](people-trends.md) will imply the participants are behaving virtuously. Often, their "virtue" will lead to persecution of the truly virtuous.
 
 Conceit has a cure, but requires a few things:
 
 1. Regard others as equally significant as oneself. This requires *more* [work](results.md) toward others than toward oneself because we don't know exactly what other people are thinking and [feeling](mind-feelings.md).
-2. Never [over-identify](identity.md) with anything that attributes to self-importance, especially on [how it appears to others](people-image-why.md).
+2. Never [over-identify](people-identity.md) with anything that attributes to self-importance, especially on [how it appears to others](people-image-why.md).
 3. Accept all other perspectives are equally valid, even when the [reasoning](logic.md) isn't always as sound or is missing apparent portions of [reality](reality.md) that other people can plainly see.
 4. Quickly admit failure as it arises, irrespective of [what it looks like](people-image-why.md) or [implies](stories-why.md).
 
-Humility is critical for the [good life](goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
+Humility is critical for the [good life](people-goodlife.md) and a [healthy society](politics-perfectsociety.md), but it's extremely rare in this world for several reasons:
 
 - Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](people-image-why.md).
 - Giving a humble person power may provoke them to self-conceit and make them a poor [role model](people-culture.md) for others.
 - Even if a humble person received all the power, they're not always shrewd enough to hold back the [evil](morality-evil.md) or conceited people from taking power again.
 - True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
 
-APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](imagination.md) that we're moral, but it doesn't do anything for our inner wellness.
+APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](people-imagination.md) that we're moral, but it doesn't do anything for our inner wellness.

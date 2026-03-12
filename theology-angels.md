@@ -1,7 +1,27 @@
 
-# Angels and demons
+# What angels and demons are (Angelology, Demonology)
 
-Beyond humans and beasts, there are celestial beings referenced in the Bible
+There are intelligent beings beyond humanity, which we broadly call "angels".
+
+- There are multiple classifications of angels (Cherubim, Seraphim, etc.).
+- These angels are unseen, likely traveling along a parallel dimension to our standard three-dimensional perspective.
+
+God's design for angels, unlike our design for relationship, was for [utilitarian purposes](purpose.md).
+
+- While humanity has a "multitool" design that permits all forms of action without constraint, angels are designed to do one task *really* well.
+
+Being intelligent, God gave them the freedom of [decision](mind-decisions.md), and some of them have rebelled against what God wants.
+
+- The Satan, led by Lucifer and his followers, are constantly trying to destroy what God has made and subvert His purposes.
+- The dominant way they work is through creating more [inner conflicts](people-conflicts-inner.md) over our decisions.
+  - It almost always involves magnifying our [imagination](people-imagination.md) of bad things to subdue what we [believe](understanding.md) through [fear](mind-feelings-fear.md) or false [certainty](understanding-certainty.md).
+  - For non-believers, he distracts people from broad thinking about our spiritual state, then sends any variety of [religious doctrine](religion.md) or [philosophy](glossary-philosophy.md) to hide the truth.
+
+[Additional exposition about spiritual warfare](spiritual-warfare.md) (with [additional list of the devil's tricks](spiritual-warfare-tricks.md))
+
+## Classifications
+
+The Bible refers to four classifications of these celestial beings, which can't be human or beasts:
 
 - Angels
 - Seraphim
@@ -12,7 +32,7 @@ These beings have the term "elohim", which is confusing because it's also used a
 
 - In fact, some of these beings are *likely* gods of a lesser sort, with God having authority over them.
 
-Given [God's nature](god.md), there are likely more that have not been mentioned in the Bible.
+Given [God's nature](theology-god.md), there are likely more that have not been mentioned in the Bible.
 
 An "angel" is a "messenger".
 

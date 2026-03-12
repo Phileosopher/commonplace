@@ -130,7 +130,7 @@ Spacecraft navigate outside the boundaries of our atmosphere.
 - Their largest risk comes from the hopelessly empty vacuum of space, destroying all life and existence with its void.
 - They are *prohibitively* expensive, and slight miscalculations or low-quality design can cause the vehicle to erupt in a rapid, unscheduled disassembly.
 
-New [technological developments](technology.md) with any vessel don't typically become worthwhile for transport until the [economics](money-economics.md) of the [trend](trends.md) makes them cost-effective.
+New [technological developments](technology.md) with any vessel don't typically become worthwhile for transport until the [economics](money-economics.md) of the [trend](people-trends.md) makes them cost-effective.
 
 ### Replenishing Systems
 
@@ -322,7 +322,7 @@ Kanban, or Just In Time (JIT) is a "pull" system that doesn't permit extra produ
   - The daily schedule for everything must stay nearly the same every day.
 - Tries to minimize any idle equipment, facilities, or workers for the purpose of making low-cost, high-quality, on-time results.
 - Once implemented, any revisions to the situation must be small, and it can't tolerate load fluctuations beyond ±10%.
-- It presumes workers will perform at their best when they're given increasing responsibility and authority (i.e., high-conscientiousness [personality](personality.md)).
+- It presumes workers will perform at their best when they're given increasing responsibility and authority (i.e., high-conscientiousness [personality](people-personality.md)).
   - Each worker is entitled to stop *everything* in their domain when they're falling behind or discover a defective component.
   - It also assumes workers will help other workers when *they* fall behind, and that each person is capable of doing different types of jobs to help out.
 - Most kanban systems use quality circles to maximize efficiency (e.g., cut down on sizes when possible, reduce lead/setup times, minimize losses).

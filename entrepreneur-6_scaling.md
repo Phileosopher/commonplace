@@ -49,7 +49,7 @@ To get the [business plan](entrepreneur-3_plan.md) as perfect as possible for pr
 
 Fundraising is easier when the business model is simple.
 
-- With the exception of *absurdly* [trendy](trends.md) industries with lots of dumb investors, more complexities in your business model will make most investors skeptical over whether it'll succeed.
+- With the exception of *absurdly* [trendy](people-trends.md) industries with lots of dumb investors, more complexities in your business model will make most investors skeptical over whether it'll succeed.
 - More elaborate or untested plans are more likely to fail.
 - The only people you can successfully win over with a complex business model are typically *terrible* people to deal with when your returns don't satisfy them.
 

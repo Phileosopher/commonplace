@@ -103,6 +103,8 @@ Equilateral - a shape where all the edges have the same lateral angle
 
 Equation - a mathematical formula that shows whether two expressions are equal
 
+Equivalent expression - two expressions that are differently framed, but can calculate the same way
+
 Euclidean space - the realm of space that inhabits our 3 dimensions, and we call "reality", named after Euclid's proofs, contrasts with non-Euclidean space
 
 Evaluate - to parse out the math problem into something else (e.g., 3 + 3 = x becomes x = 6)
@@ -133,7 +135,7 @@ Fraction - a representation of unresolved division that indicates a part of anot
 
 Function - a clear pattern that can be represented by a formula
 
-Game theory - mathematical models of strategic interactions, most notably [decisions](people-decisions.md) based on [understood](understanding.md) and [imagined](imagination.md) circumstances
+Game theory - mathematical models of strategic interactions, most notably [decisions](mind-decisions.md) based on [understood](understanding.md) and [imagined](people-imagination.md) circumstances
 
 Galois theory - a connection between field theory and group theory
 

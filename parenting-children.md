@@ -69,7 +69,7 @@ Managing children is extremely challenging because they maintain a few paradoxes
 - They see almost everything other people are doing (more than adults), but have no words to express what they're witnessing.
 - They're technically smarter than adults, but have absolutely no life experience to filter their understanding or skills.
 - They're extremely determined toward what they want, but are also easily frightened away from things or into telling lies.
-- Children take concepts *very* literally (e.g., "put an animal to sleep") and [imagine](imagination.md) extreme ideas (e.g., an eye doctor's opthalmoscope might read their mind).
+- Children take concepts *very* literally (e.g., "put an animal to sleep") and [imagine](people-imagination.md) extreme ideas (e.g., an eye doctor's opthalmoscope might read their mind).
 - They poorly execute their words and actions, but they're *constantly* changing.
 
 If you understand how they think, it'll be easier to [take care of their needs](parenting-children-needs.md), [set boundaries with them](parenting-children-boundaries.md), and ultimately [have fun with them](parenting-children-fun.md)
@@ -87,11 +87,11 @@ From birth, children set goals by using their environment:
 
 Your child cares more about the approval and support of their guardians than *anything* else in the world:
 
-- A child gains their sense of [identity](identity.md) strictly from how they imagine you see them.
+- A child gains their sense of [identity](people-identity.md) strictly from how they imagine you see them.
 - They're constantly asking three questions throughout their entire upbringing and onward into adulthood:
   1. "Dad, what do you [believe](understanding.md) about me?"
   2. "Dad, what do you [feel](mind-feelings.md) about me?"
-  3. "Dad, what are your [hopes](imagination.md) for me?"
+  3. "Dad, what are your [hopes](people-imagination.md) for me?"
 - A child is so hypersensitive to rejection that small amounts of inauthentic affection or neglect may scar them for life.
   - When you hug a child, never let go first.
 - Imagine what your child sees, *not* how you [feel](mind-feelings.md) about it.
@@ -168,7 +168,7 @@ You're never going to get parenting completely right:
 
 - It's practically a guarantee that, in some capacity, you'll be [a bad parent](parenting-children-bad.md)
 - The only way to be a perfect parent is to be a perfect role model, which is humanly impossible.
-- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](people-decisions.md), *not* the quality of their parenting.
+- Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](mind-decisions.md), *not* the quality of their parenting.
 - At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-friends.md) in adulthood, decades later.
 - There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](people-culture.md).
 
@@ -189,7 +189,7 @@ Mind who you learn from:
 
 Some components of parenting are always controversial:
 
-- The scope of how much to discipline children (e.g., spanking, school choice) has swung back-and-forth with society's [trends](trends.md), and varies by world region and [religious belief](religion.md).
+- The scope of how much to discipline children (e.g., spanking, school choice) has swung back-and-forth with society's [trends](people-trends.md), and varies by world region and [religious belief](religion.md).
 - 20th-century post-WWII Western values advocate preserving their innocence, but parents have historically given more responsibility to children and taught them that they were bad at decision-making.
 - All of this expands outward into debate about [how to parent teenagers](parenting-3_teenagers.md), where the stakes are higher.
 

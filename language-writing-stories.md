@@ -14,7 +14,7 @@ Even when it's nonfiction or an email, all written works travel through a [story
   - An interesting fact
   - A question
 - All the future sentences and paragraphs are expanding on that first sentence, wrapping up with the final sentence.
-- The events of the story are based on how the character (or reader) experiences a [conflict](people-conflicts.md), then [changes](people-changes.md) by making [meaningful](meaning.md) [decisions](people-decisions.md).
+- The events of the story are based on how the character (or reader) experiences a [conflict](people-conflicts.md), then [changes](people-changes.md) by making [meaningful](meaning.md) [decisions](mind-decisions.md).
 
 Add clues to imply what will happen before it does (foreshadowing):
 
@@ -88,7 +88,7 @@ To persuade, write practical "what if...?" questions:
 
 Every worthwhile fiction story requires building the character first:
 
-- A good character is [imagining](imagination.md) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](people-decisions.md).
+- A good character is [imagining](people-imagination.md) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](mind-decisions.md).
 - To make the character at all relatable, give at *least* a few important details for the reader to latch onto.
   - Frame the character's experiences and challenges as the *audience* sees them, not you as the author.
 
@@ -145,7 +145,7 @@ Physical description:
 
 Personality:
 
-- What's their overall [personality](personality.md)? (e.g., shy, outgoing, insecure, dominant, etc.)?
+- What's their overall [personality](people-personality.md)? (e.g., shy, outgoing, insecure, dominant, etc.)?
 - Any distinguishing traits?
 - Any mental scars like complexes or neuroses?
 - What are their ambitions?
@@ -257,7 +257,7 @@ People always begin reading with at least some expectations:
 - A story will start straying without all the critical information:
   1. The protagonist is clear, but doesn't appear to have a goal.
   2. The protagonist's goal is clear, but it's not clear how it's forcing them to have [inner conflicts](people-conflicts-inner.md).
-  3. The protagonist's [decisions](people-decisions.md) have no connection to what happens.
+  3. The protagonist's [decisions](mind-decisions.md) have no connection to what happens.
 
 Unless you plan to write something *really* long and drawn-out, don't use a prologue.
 

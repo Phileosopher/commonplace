@@ -45,7 +45,7 @@ If you can't find something fun to do, spend time around children:
 
 Try new things, but deepen your appreciation of familiar things:
 
-- This all depends on your [personality](personality.md), so find your personal balance between exploring familiar and unfamiliar things.
+- This all depends on your [personality](people-personality.md), so find your personal balance between exploring familiar and unfamiliar things.
 
 ## Avoid fun that creates long-term issues
 
@@ -94,7 +94,7 @@ Since they're the most interactive and give the most feedback, play games that r
 
 Instead of doing what everyone else likes, try to find the hidden things everyone else overlooked.
 
-If something is [wildly popular](trends.md), it will likely have diminished in [quality](values-quality.md) by the time you've experienced it.
+If something is [wildly popular](people-trends.md), it will likely have diminished in [quality](values-quality.md) by the time you've experienced it.
 
 - Generally, the more popular it is, the more expensive it is, and the less likely it'll be worth the cost.
 - Waiting in line to eat something famous is rarely worth the wait.

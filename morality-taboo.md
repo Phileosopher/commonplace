@@ -21,7 +21,7 @@ On the other hand, many things have *very* gray areas to them that various group
 - Certain things someone can [say](language.md), including swear words, offensive language, and name-calling.
 - Expressing certain [ideas](values.md), sharing specific [media](creations.md), or publishing specific books.
 - Certain [technologies](technology.md), or specific application of them.
-- Unpopular [trends](trends.md) or uncommon ideas.
+- Unpopular [trends](people-trends.md) or uncommon ideas.
 - Burning specific flags, especially if they symbolize a [nation](groups-large.md).
 
 Taboos aren't necessarily [moral](morality.md) or matters of [justice](morality-justice.md). They're [cultural](people-culture.md) things that *might* be moral, but are often breaking a [rule](people-rules.md) everyone in that group is honoring and usually *wants* to honor. They also don't have to necessarily cause harm, either.
@@ -34,9 +34,9 @@ Some immoral things *aren't* taboo:
 - Many types of verbal or psychological abuse.
 - Harsh and [unloving](people-love.md) behavior.
 
-Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
+Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](people-identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
 
-The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories-why.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](people-decisions.md) that may include it.
+The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories-why.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](mind-decisions.md) that may include it.
 
 Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](people-culture.md). But, many times, leaders only use taboos for [power](power.md).
 
@@ -60,13 +60,13 @@ At the same time, a failing that *isn't* easy in the first place is never subjec
 - Emptying a hoarder's home of their possessions may be a violation of [privacy](people-boundaries-why.md), but not severely regarded as shameful because it required significant effort.
 - Getting 30th place in a 26-mile marathon is never something to be ashamed about, unless that person clearly could have done better.
 
-The "nerds/geeks" of society don't really think about shame. This makes them typically *both* the innovators and laggards of many [trends](trends.md).
+The "nerds/geeks" of society don't really think about shame. This makes them typically *both* the innovators and laggards of many [trends](people-trends.md).
 
 ## Risks from taboos
 
 Taboos have frequent risks.
 
-Firstly, taboos will make people [identify](identity.md) against their thoughts. They may [believe](understanding-certainty.md) something, but they have to keep it secret from everyone else. The shame will usually shut down any further discussion and will [feed their shadow self](personality.md), which frequently leads to hypocrisy.
+Firstly, taboos will make people [identify](people-identity.md) against their thoughts. They may [believe](understanding-certainty.md) something, but they have to keep it secret from everyone else. The shame will usually shut down any further discussion and will [feed their shadow self](people-personality.md), which frequently leads to hypocrisy.
 
 The very essence of believing a taboo without understanding why is the *opposite* of open-minded. It shuts down or stifles most [creative](mind-creativity.md) endeavors, including [social risks](socialrisk.md) that could have tremendously benefited others.
 
@@ -82,7 +82,7 @@ Many times, the rules that maintain social order can backfire and create pockets
 The reason these awkward arrangements stay around for so long is from two fronts:
 
 - The only people that can do anything about it are [leaders](groups-small.md), but individuals must deal directly with the [consequences](results.md). While leaders are *supposed* to confront those [conflicts](people-conflicts-why.md) from their position of [strength](power.md), the members' need to survive means they must avoid receiving shame for the conflict.
-- Often, the *leaders* are forced to do nothing from the blow to their [reputation](people-image-why.md) from making changes. Many social issues could be resolved with a simple [decision](people-decisions.md) by a leader who wasn't concerned with their [reputation](people-image-why.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
+- Often, the *leaders* are forced to do nothing from the blow to their [reputation](people-image-why.md) from making changes. Many social issues could be resolved with a simple [decision](mind-decisions.md) by a leader who wasn't concerned with their [reputation](people-image-why.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
 - The typical result, then, becomes oppressive [laws](people-rules.md) that create a social hedge around the taboo but never fix anything about it.
 
 APPLICATION: Since [group members](groups-member.md) can [feel](mind-feelings.md) fierce reactions to taboos, some leaders can skillfully exploit it by implying that someone they want to remove from the group is violating that taboo.
@@ -93,10 +93,10 @@ Exploring taboos has many benefits:
 
 - Most legitimately [high-quality](values-quality.md) [creative](mind-creativity.md) endeavors explore taboos directly or imply their existence.
 - If someone tenaciously pursues [truth](reality.md), they frequently won't pay attention to [rules](people-rules.md) they're breaking, especially if they're [philosophers](philosophy.md).
-- Typically, [social trends](trends.md) start with someone [taking the risk](socialrisk.md) to confront or explore a taboo.
+- Typically, [social trends](people-trends.md) start with someone [taking the risk](socialrisk.md) to confront or explore a taboo.
 - Why taboos exist often gives *tremendous* [understanding](understanding.md) to anyone willing to [explore it](purpose.md).
 
-Some people try to break taboos merely because they're there. Most of them are doing it to provoke socially adverse reactions (Oppositional Defiance Disorder, or ODD). This is in direct opposition to pursuing [the good life](goodlife.md). Many [leaders](groups-small.md) will try to make an example of these people and imply *all* the taboo-breakers have the same [motivation](purpose.md), but the motivations of everyone else in that position are more varied.
+Some people try to break taboos merely because they're there. Most of them are doing it to provoke socially adverse reactions (Oppositional Defiance Disorder, or ODD). This is in direct opposition to pursuing [the good life](people-goodlife.md). Many [leaders](groups-small.md) will try to make an example of these people and imply *all* the taboo-breakers have the same [motivation](purpose.md), but the motivations of everyone else in that position are more varied.
 
 APPLICATION: Breaking taboos is risky, but can be rewarding if you know what you're doing with how you [appear](people-image-why.md). Just brace yourself for public shame if the public image of what you're doing [gets out of control](stories-storytellers.md).
 

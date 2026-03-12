@@ -52,12 +52,12 @@ It's worth being aware of the [charismatic leader](people-culture-cults.md) who 
 
 ## 1. Religions/cults
 
-I've only included *current* practiced religions/cults. Many cults go back as far as ancient history (e.g., Zoroastrianism, ancient polytheism), but they're [no longer popular](trends.md) and therefore not as useful for staying informed.
+I've only included *current* practiced religions/cults. Many cults go back as far as ancient history (e.g., Zoroastrianism, ancient polytheism), but they're [no longer popular](people-trends.md) and therefore not as useful for staying informed.
 
 Judaism - founded by Abraham ~2081 B.C.
 
 - Differing core values:
-  - Christianity and Judaism share 2/3 of the [same Bible](bible.md) (the Christians' Old Testament), which dramatically changes the spirit of the
+  - Christianity and Judaism share 2/3 of the [same Bible](theology-bible.md) (the Christians' Old Testament), which dramatically changes the spirit of the
 - Incriminating evidence:
   - While Jews *did* crucify Jesus, they are *not* a cult.
   - Technically, Jewish doctrine is heresy to Christians (beyond Messianic Judaism), but they deserve at *least* some respect because Jesus is a Jew, and they *did* come first as a religion (i.e., everyone at the time who believed in God honored Judaism in some fashion).
@@ -210,7 +210,7 @@ Organized crime - existing as long as civilization, but grew in scale with indus
   - Anything that accomplishes a self-interested purpose is a worthwhile endeavor.
 - Incriminating evidence:
   - *Some* goods may require Christians may use the black market (Bibles and Christian literature, mostly), but it carries [too many risks](safety-riskmgmt.md) for a Christian to safely conduct if there's a legitimate alternative (Romans 13:1-7).
-  - Most black market transactions exploit [vices a Christian shouldn't engage with](morality-sins.md) and provide services that work *against* the reigning government's interests (and therefore subordinating their role and God's direct authority over them).
+  - Most black market transactions exploit [vices a Christian shouldn't engage with](theology-sins.md) and provide services that work *against* the reigning government's interests (and therefore subordinating their role and God's direct authority over them).
   - If an organized crime organization *becomes* the [government](politics-systems.md) (typically through [building enough power](power-types.md)), then their black market activities fall under "normal" [market conditions](money-economics.md).
 
 Political campaigns - began significantly as a group in the USA in 1860 through a vast [marketing](marketing.md) effort
@@ -227,7 +227,7 @@ Political campaigns - began significantly as a group in the USA in 1860 through 
 
 - Core values:
   - The leadership of the MLM company have the authority from their [success stories](success-1_why.md).
-  - Self-sufficiency through an MLM organization is the secret to [living well](goodlife.md).
+  - Self-sufficiency through an MLM organization is the secret to [living well](people-goodlife.md).
   - Everyone can benefit well from MLM, and the people who don't follow its winning formula are an inferior type of person.
 - Incriminating evidence:
   - Most MLM culture advances greed and shameless violation of [boundaries](people-boundaries-why.md) with their former friends and family.
@@ -240,7 +240,7 @@ Pride - started in 1970 in the USA as Gay Pride but grew heavily as a political 
   - All things involve sexuality, and reflects the primal desires we're based in, and the broad sexual range reflects the range of humanity's exploration (e.g., transitioned in language from "gay" to "LGBT" to "LGBTQQIAAP").
   - All society must accept all forms of sexual expression, and any conventional models of family must be updated to reflect that broader scope of sexuality.
 - Incriminating evidence:
-  - Except for the [trend followers](trends.md), every single person who publicly asserts their sexual deviancy has had a history of sexual abuse in their childhood.
+  - Except for the [trend followers](people-trends.md), every single person who publicly asserts their sexual deviancy has had a history of sexual abuse in their childhood.
   - The LGBetc. movement has a strong emphasis on sex, to the point that it's impossible to ever discuss anything *not* about sex with them.
 
 Climate change - started in the 1970s by several scattered scientific papers but asserted as a movement started in the 1990s

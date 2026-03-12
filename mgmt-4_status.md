@@ -60,7 +60,7 @@ Most managers over-track their workers for a few simple reasons:
 
 - They feel [out of control](unknown.md) and don't [trust](understanding-certainty.md) their workers.
 - They believe managers *ought* to track their workers, or they're simply imitating what they've experienced themselves when they were a worker.
-- They're trying to [predict the future](imagination.md) based on the workers' results.
+- They're trying to [predict the future](people-imagination.md) based on the workers' results.
 
 You should *very* clearly understand why you're tracking their work.
 

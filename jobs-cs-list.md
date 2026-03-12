@@ -15,7 +15,7 @@ Completely [marketing](marketing.md)/design-based (for non-tech people who still
 - **Digital Marketing Manager** and **Content Strategist** are a hybrid of all the above.
 - **QA (Quality Assurance) Specialist** [tests](computers-software-redesign.md) to make sure things are high-quality.
 
-Fiddling with the [UX](engineering-design.md) (for people who understand [how people think](people-decisions.md)):
+Fiddling with the [UX](engineering-design.md) (for people who understand [how people think](mind-decisions.md)):
 
 - **Information Architect** manages the UX behavior flow from a [psychology](mind-feelings.md) angle.
 - **UX Designer** manages the UX behavior flow from a [design](mind-creativity.md) angle (wireframing, prototyping, mockups, and tracking user flow).
@@ -55,7 +55,7 @@ Both-end development (for experienced developers):
 
 - **Business Systems Analyst** figures out what technology works best for specific situations.
   - **Technical Account Manager** maintains a technology-based relationship with the customer.
-- **Data Analyst** figures out existing [trends](trends.md) in data.
+- **Data Analyst** figures out existing [trends](people-trends.md) in data.
   - **Data Scientist** figures out future trends from data, often with [machine learning](computers-ai-ml.md), [algorithms](computers-programming-algorithms.md), and [statistics](math-stat.md).\
 - **Systems Engineer** "deploys" database technology.
 - **Systems Architect** designs systems.

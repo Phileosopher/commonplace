@@ -3,11 +3,11 @@
 
 *NOTE: I'm not a lawyer. This simply explains business contracts in plain English. This is not legal advice.*
 
-When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](imagination.md) there will be future performance.
+When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](people-imagination.md) there will be future performance.
 
 *Everything* we do with others that isn't out of [love](people-love.md) is an agreement for one of our [purposes](purpose.md):
 
-- [Expectations](imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
+- [Expectations](people-imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
 - A [fear](mind-feelings-fear.md), driven by self-preservation, from witnessing someone else's [power](power.md) to harm them.
 - [Trust](trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
 
@@ -17,10 +17,10 @@ Each agreement works through a similar [story](stories-why.md):
 
 1. Initial engagement by at least one person [expressing interest](people-conversation.md) in a [purpose](purpose.md) connected with someone else. In a casual engagement, it's usually a slow transition, with both sides respecting what they [see](people-image-why.md) as the others' rights.
 2. Discussing a negotiation of terms, both implicit and explicit.
-3. The entire duration of the agreement, which can last for minutes to decades. Both sides usually can [feel](mind-feelings.md) how long they [expect](imagination.md) the agreement to last, even without anything formalized.
+3. The entire duration of the agreement, which can last for minutes to decades. Both sides usually can [feel](mind-feelings.md) how long they [expect](people-imagination.md) the agreement to last, even without anything formalized.
 4. The agreement will terminate if it stops being useful to *both* sides, sometimes prematurely. If the side with more [power](power.md) still wants the agreement, they can often [coerce](influence.md) the other side to stay in that agreement. In this world, nobody usually cares about the side with less power, though there's plenty of [politics](politics-conservativeliberal.md) in discussing it.
 
-The negotiation often involves making promises based on boundaries set in the future (i.e., [expectations](imagination.md)). Even if we don't articulate those boundaries, we still hold them and expect others to respond at a later time.
+The negotiation often involves making promises based on boundaries set in the future (i.e., [expectations](people-imagination.md)). Even if we don't articulate those boundaries, we still hold them and expect others to respond at a later time.
 
 The value we give to others in exchange for doing something (often represented as money) comes from a few variables:
 
@@ -33,12 +33,12 @@ The value we give to others in exchange for doing something (often represented a
 
 By using [language](language.md), we can make promises to clarify what we agree on. How well we honor those agreements has an *immense* impact on our [reputation](people-image-why.md).
 
-Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](trends.md) across its duration.
+Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](people-trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](people-trends.md) across its duration.
 
 The person or group who most wants to leave the engagement will transition through phases of distancing if they've found a better means to their [purpose](purpose.md):
 
 1. Pursuing different [interests](purpose.md) than the other.
-2. Performing different [actions](results.md) than the other's [expectations](imagination.md).
+2. Performing different [actions](results.md) than the other's [expectations](people-imagination.md).
 3. Waiting indefinitely for the other party to engage in the inevitable looming [conflict](people-5_conflicts.md), and often intentionally avoiding them to prevent it.
 4. Officially confronting the tension and terminating the shared experience.
 
@@ -52,7 +52,7 @@ When a person acts, they are only performing any form of sacrifice from 3 possib
 
 1. Generosity, which is typically driven by [love](people-love.md) or [moral duty](morality.md).
 2. [Habit](habits.md), typically without thinking about it.
-3. Some form of [belief](understanding-certainty.md) or [expectation](imagination.md) about a return on that sacrifice, which is a "contract".
+3. Some form of [belief](understanding-certainty.md) or [expectation](people-imagination.md) about a return on that sacrifice, which is a "contract".
 
 Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](relationships-marriage-secularcontract.md) and [religious arrangements](god-contracts.md) are a type of contract.
 
@@ -60,9 +60,9 @@ Absolutely *any* promise ("covenant") can veer into becoming an implicit contrac
 
 Generally, we gain our [reputation](people-image-why.md) in society at large by fulfilling contracts, so understanding how they work and what to do with them is critical to avoid exploitation. A government can never grant the contracts we make beyond their influence, but they *can* enforce them.
 
-A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](people-slavery.md) or a [mental disorder](personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
+A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](people-slavery.md) or a [mental disorder](people-personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
 
-The [legal jargon](glossary-legal.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
+The [legal jargon](glossary-legal-ac.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
 
 The philosophy of the contract can be a bit dense, and is typically only discussed by law geeks:
 
@@ -144,7 +144,7 @@ This may not always apply:
 
 The acceptance of the contract is *typically* at the precise time the other party communicates their acceptance, though there are exceptions:
 
-- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](people-decisions.md).
+- A "Ulysses contract" binds a contract in the future when a person may not be capable of [deciding](mind-decisions.md).
 - The "posting rule" considers the time delay for sending messages and goods:
   1. The offering party sends the offer by mail, and the effective date is when they send it (e.g., January 12).
   2. The offer isn't valid until the receiving party gets it (e.g., January 17).
@@ -153,7 +153,7 @@ The acceptance of the contract is *typically* at the precise time the other part
 
 This agreement connects to the right of property or the power to enforce a promise or warranty, which means it can also connect to a close, mutual, or successive relationship (e.g., family's trustee, parent company).
 
-Historically, before 1800 the meeting of the minds was *not* as important as whether an exchange was sufficiently [fair](morality-justice.md). Then, a [trend](trends.md) throughout the 19th century shifted society from a focus on property to a focus on contract and their intentions/promises. That trend has somewhat died after 1900 with the growth of consumer protection, rent and employment legislation to drive contract law back into a smaller domain, though it's a *very* odd and inorganic existence to this day that defies common sense.
+Historically, before 1800 the meeting of the minds was *not* as important as whether an exchange was sufficiently [fair](morality-justice.md). Then, a [trend](people-trends.md) throughout the 19th century shifted society from a focus on property to a focus on contract and their intentions/promises. That trend has somewhat died after 1900 with the growth of consumer protection, rent and employment legislation to drive contract law back into a smaller domain, though it's a *very* odd and inorganic existence to this day that defies common sense.
 
 ### B. Lawful purpose
 

@@ -9,7 +9,7 @@ Christianity represents three distinct classes:
 
 Most stereotypes and opinions about Christianity come from those last two classes.
 
-Human nature has certain [universal qualities](humanity-universals.md), and God is most certainly the same God [throughout all history](https://theologos.site/god-sight/). So, when He begins a new work on a Christian, people will always show the same approximate characteristics, with a variance coming through the scope of their [personality](personality.md) and [culture](people-culture.md).
+Human nature has certain [universal qualities](humanity-universals.md), and God is most certainly the same God [throughout all history](https://theologos.site/god-sight/). So, when He begins a new work on a Christian, people will always show the same approximate characteristics, with a variance coming through the scope of their [personality](people-personality.md) and [culture](people-culture.md).
 
 Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 years. Eventually, they'll keep building healthier [habits](habits.md) and put their spiritual infancy behind them. However, it's a weird time, and it has shown itself with the same silly representations across two millennia.
 
@@ -68,15 +68,15 @@ Odd non-Christian beliefs that closely identify with Christian values (e.g., [Ra
 
 ## Extremism
 
-Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](morality-sins.md), typically including "blasphemy of the Holy Spirit" referenced in [Mark 3:28-29](https://biblehub.com/mark/3.htm).
+Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](theology-sins.md), typically including "blasphemy of the Holy Spirit" referenced in [Mark 3:28-29](https://biblehub.com/mark/3.htm).
 
-- They typically haven't internalized God's [undying love](https://theologos.site/devotion-chaos/) and have contextualized one Bible verse against the context of many other *far* more articulated parts of Scripture (e.g., a Christian's [new identity](identity-christian.md)).
+- They typically haven't internalized God's [undying love](https://theologos.site/devotion-chaos/) and have contextualized one Bible verse against the context of many other *far* more articulated parts of Scripture (e.g., a Christian's [new identity](theology-godandman.md)).
 - Every sin can be forgiven, and has been in Christ, but that doesn't mean it always [feels](mind-feelings.md) that way.
 
 [Moral](morality.md) extremism, typically about things they previously idolized.
 
 - They tend to attack their [interpretation](people-image-why.md) of things *much* more than the moral [reality](reality.md) of those things.
-- Their efforts *must* stay contained toward their [sins](morality-sins.md), and then expand only to the things they have legitimate [influence](power-influence.md) over.
+- Their efforts *must* stay contained toward their [sins](theology-sins.md), and then expand only to the things they have legitimate [influence](power-influence.md) over.
 
 Treating their body as a despicable, awful thing they must perpetually damage or thwart.
 
@@ -94,7 +94,7 @@ Condemning specific genres of media (e.g., music, movies, video games).
 
 Complete individualism or antisocial behavior (e.g., claiming they only need Jesus and nobody else).
 
-- God designed the Body of Christ as a vast collection of various people, each with unique [personalities](personality.md) and [gifts](spiritual-gifts.md)
+- God designed the Body of Christ as a vast collection of various people, each with unique [personalities](people-personality.md) and [gifts](spiritual-gifts.md)
   - [1 Corinthians 12:12-26](https://biblehub.com/1_corinthians/12.htm)
 
 Extreme insistence on creating large-scale [political changes](politics-conservativeliberal.md) for a Christian cause (e.g., "end all poverty").
@@ -105,7 +105,7 @@ Extreme insistence on creating large-scale [political changes](politics-conserva
 
 ## Dismissiveness
 
-Maintains [habitual](habits.md) [sins](morality-sins.md) out of ignorance or unawareness.
+Maintains [habitual](habits.md) [sins](theology-sins.md) out of ignorance or unawareness.
 
 - Obviously, we all battle with sins, but they'll generally try to avoid the [consequences](results.md) of their sins while finding ways to keep doing it.
 - Most [denominational](people-conflicts-inner.md) [cultures](people-culture.md) always have at least a few that even the *[leadership](mgmt-church.md)* dismisses as benign.
@@ -113,7 +113,7 @@ Maintains [habitual](habits.md) [sins](morality-sins.md) out of ignorance or una
 Confrontational or inappropriate behavior as a type of "ministry".
 
 - They typically imply that God loves people but still permits awful things to happen to them, so sharing the truth is acting in [God's will](god-will.md), even if they're being rude.
-- They're projecting their [family](church-family.md) background onto who God is and don't understand [His loving and gracious nature](god.md).
+- They're projecting their [family](church-family.md) background onto who God is and don't understand [His loving and gracious nature](theology-god.md).
 - Long-term, magnified [conflicts](people-conflicts.md) can provoke them to believe the logical consequence of their actions is a type of [martyrdom](hardship-persecution-church.md).
 
 Engages in [cultural activities](people-culture.md) that God doesn't like.
@@ -127,7 +127,7 @@ Engages in [cultural activities](people-culture.md) that God doesn't like.
 Believing "Christian" media to be a vastly superior classification of media, even when it's [low-quality](values-quality.md).
 
 - Many Christian [stories](stories-why.md) are absolute garbage because they don't give room for the experience to express itself.
-  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](people-decisions.md).
+  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](mind-decisions.md).
 - For whatever reason, many Christian creatives have zero [faith](trust.md) in their ability to convey the correct [meaning](meaning.md):
   1. The audience might not understand the implication that a bad thing is bad.
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
@@ -152,7 +152,7 @@ Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem
 
 Trying to achieve righteousness through their strength and willpower alone.
 
-- They haven't realized that only the Holy Spirit can grant our [spirits](humanity-christian.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it.
+- They haven't realized that only the Holy Spirit can grant our [spirits](theology-godandman-humanity.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it.
   - [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)
 
 Complete belief that they can accomplish *anything whatsoever* as long as they trust God intensely enough to provide.
@@ -173,7 +173,7 @@ Seeking spiritual experiences over [self-management](habits.md).
 
 ## Chronic Symptoms
 
-Much later, after a few months or years, if a person hasn't grown through integrating God's truths into [themselves](humanity-christian.md), they'll create many *new* [habits](habits.md) that merge the above domains into new, disgusting forms of religiousness.
+Much later, after a few months or years, if a person hasn't grown through integrating God's truths into [themselves](theology-godandman-humanity.md), they'll create many *new* [habits](habits.md) that merge the above domains into new, disgusting forms of religiousness.
 
 Asceticism, or some other deep belief that the body is a bad thing.
 
@@ -181,12 +181,12 @@ Asceticism, or some other deep belief that the body is a bad thing.
 - They haven't realized that their very *essence* is partly a body and that it's essentially an advanced animal they're supposed to restrain every day for *other* [moral](morality.md) purposes.
   - [Matthew 6:16](https://biblehub.com/matthew/6-16.htm)
 
-Rigidity and denial to even *think* about [speculative](imagination.md) elements that expand on what the Bible alludes to.
+Rigidity and denial to even *think* about [speculative](people-imagination.md) elements that expand on what the Bible alludes to.
 
-- If we dwell on the Bible, we're going to ask questions (and form theories) about what God may have done before He created us, whether [God](god.md) has always been a Trinity, etc.
+- If we dwell on the Bible, we're going to ask questions (and form theories) about what God may have done before He created us, whether [God](theology-god.md) has always been a Trinity, etc.
 - Most of this is driven by [fear](mind-feelings-fear.md) of heresy, but Christians will be improving their [understanding](understanding.md) for all eternity, so these ideas are worth peacefully discussing and wrestling with.
 
-Complete openness to discussing [speculative](imagination.md) elements that have absolutely *no* grounding in the Bible.
+Complete openness to discussing [speculative](people-imagination.md) elements that have absolutely *no* grounding in the Bible.
 
 - We must *constantly* renew our minds by conforming to the truths we discover ([Romans 12:2](https://biblehub.com/romans/12-2.htm)), so we must curb our imaginations to the [constraints](mind-creativity.md) of what we know to be [reality](reality.md).
 - The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long.
@@ -194,7 +194,7 @@ Complete openness to discussing [speculative](imagination.md) elements that have
 
 Confronting others over broader-reaching spiritual matters that have zero day-to-day significance.
 
-- They have obsessed heavily with some aspect of [theology](theology.md) (e.g., [the Millennial Kingdom](https://theologos.site/millennium/), [the Rapture](jesus-returns.md), [creation science](https://theologos.site/god-sight/)) and have transferred their lousy, [unloving](people-love.md) attitude to spiritual matters.
+- They have obsessed heavily with some aspect of [theology](theology.md) (e.g., [the Millennial Kingdom](https://theologos.site/millennium/), [the Rapture](theology-end.md), [creation science](https://theologos.site/god-sight/)) and have transferred their lousy, [unloving](people-love.md) attitude to spiritual matters.
 - The internet makes this situation particularly easy to abuse, especially on [message boards](networks-social.md).
 
 Jealousy over another person's spiritual status.
@@ -203,7 +203,7 @@ Jealousy over another person's spiritual status.
 - Each person has their walk, and God holds them individually responsible.
   - [Romans 14:4](https://biblehub.com/romans/14-4.htm)
 
-Harsh or inconsiderate [decision-making](people-decisions.md) about others' lives.
+Harsh or inconsiderate [decision-making](mind-decisions.md) about others' lives.
 
 - They have likely let the world's methods of [power management](power-types.md) corrupt them (e.g., [management roles](mgmt-1_why.md)).
 - This can often be expressed as [political activism](politics-conservativeliberal.md), especially in [a free society where the people have more power](politics-systems.md).
@@ -222,7 +222,7 @@ They've been at least somewhat [persecuted](hardship-persecution-church.md) for 
 - This can represent as simply being turned down in [a job interview](jobs-5_interview.md) or rejected from a social gathering.
 - However, many contexts can extend it to public shame on an internet message board or an [inter-church conflict](history-church.md).
 
-A general sense of peace about others' [decisions](people-decisions.md).
+A general sense of peace about others' [decisions](mind-decisions.md).
 
 - Newer believers frequently try to get others to [change their minds](power-influence.md) toward [moral actions](morality.md) out of new spiritual desires, but they will eventually become familiar enough with [boundaries](people-3_respect.md) that those decisions will grieve them instead.
 - Their [conflict](people-conflicts-inner.md) will become an internal struggle to [pray for them](spiritual-exercises-prayer.md) instead of an external [political aspiration](people-rules.md).

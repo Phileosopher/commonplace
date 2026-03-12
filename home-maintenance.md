@@ -178,7 +178,7 @@ Try to [address](https://adequate.life/fix/) small problems *before* they become
 - Fix most leaks as soon as you know of them, which typically comes from old roofing or an insufficient drainage system.
 - Improve the drain system with a reliable downspout termination:
   - Send it downhill on at least a 5% slope, which may need a splash block to prevent buildup.
-  - A rain barrel catchment system is very convenient for water-based hobbies (e.g., [gardening](horticulture.md)), but needs regular observation.
+  - A rain barrel catchment system is very convenient for water-based hobbies (e.g., [gardening](plants.md)), but needs regular observation.
 
 The issues in your house will be *heavily* defined by the [technologies](technology.md) legally available during its initial construction:
 
@@ -200,13 +200,13 @@ The issues in your house will be *heavily* defined by the [technologies](technol
 
 Even then, some things like radon and sewer problems can *always* arise.
 
-The maintenance of your home will add to the [quality of your life](goodlife.md), provide [meaning](meaning.md), and can be a significant [investment return](money-investing.md) when you choose to sell it.
+The maintenance of your home will add to the [quality of your life](people-goodlife.md), provide [meaning](meaning.md), and can be a significant [investment return](money-investing.md) when you choose to sell it.
 
 - Carpentry requires a steady hand, but is typically *much* more affordable and customizable than paying for work if you become skilled at it, especially furniture and finish carpentry.
 - Masonry and stonework is simple enough to do, if you have the strength for it.
 - [Pet](fun-pets.md) projects often give extra opportunities to have fun with your pet.
 - Custom shelves and built-in organization can *dramatically* help with [organization](organization.md).
-- Greenhouses can help with [gardening](horticulture.md).
+- Greenhouses can help with [gardening](plants.md).
 - Projects that improve life for [children](parenting-children.md) (e.g., treehouses, swing sets) can profoundly improve on their childhood.
 - Building a workshop can make *all* the above, as well as [fixing](https://adequate.life/fix/), much easier.
 

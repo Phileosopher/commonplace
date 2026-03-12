@@ -84,7 +84,7 @@ Depending on the scope of the disaster, you're not likely running from the crisi
 
 - Very often, hordes of refugees will flee wars or natural disasters and overwhelm the nearby infrastructure.
 - If everyone is leaving, and you're not certain where you're going, it may be better to [stick around](hardship-disaster-2_long-stay.md), at least for a while.
-  - The best way to fight against a government's control is to [grow your food](horticulture.md).
+  - The best way to fight against a government's control is to [grow your food](plants.md).
 
 When you leave, you're burning literally every social bridge you've built and may cause others to suffer:
 

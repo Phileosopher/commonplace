@@ -5,7 +5,7 @@ Reality is the part of existence that, with the exception of delusion or decepti
 
 Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](understanding.md)* as reality).
 
-Compared to what we [imagine](imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
+Compared to what we [imagine](people-imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
 
 Finding precise facts within reality is difficult. This is because the [purpose](purpose.md) we use to perceive and do something within reality will *profoundly* [define how we understand and perceive reality itself](people-image-why.md).
 
@@ -16,7 +16,7 @@ The mechanism of cause-and-effect exists in various forms beyond human perceptio
 1. Physical cause and effect (e.g., a ball rolling across the ground).
 2. An abstraction of the event (e.g., whatever is the same with all balls rolling across the ground).
 3. Contact of the thing with other things (e.g., a ball's relationship with the ground).
-4. [Imagination](imagination.md) of that thing (e.g., the mental activity when an individual perceives a ball rolling across the ground, along with any related thoughts linked to it).
+4. [Imagination](people-imagination.md) of that thing (e.g., the mental activity when an individual perceives a ball rolling across the ground, along with any related thoughts linked to it).
 
 [Knowing the nature of reality has very limited practical use](philosophy.md) because it doesn't remove the practical components of [cause-and-effect](results.md). Even if we were in a simulation or dream of some sort, pain is still pain.
 
@@ -29,12 +29,12 @@ Some intelligent, thoughtful people will fall into an existential froth over how
 In light of that uncertainty, there are [deductively](logic.md) only a few possibilities for ghow to act:
 
 1. Reality does exist irrespective of our beliefs, so existential uncertainty about it is silly.
-2. Everything doesn't exist and is some sort of illusion or fabrication. But, it's reliable enough to [predict](imagination.md) things somewhat accurately, so it's not worth worrying about.
+2. Everything doesn't exist and is some sort of illusion or fabrication. But, it's reliable enough to [predict](people-imagination.md) things somewhat accurately, so it's not worth worrying about.
 3. Everything is unknowable, but we can't really know, so it's probably one of the two above and should be treated as silly or not worth worrying about.
 
-But, like knowing reality itself, it doesn't really matter because it doesn't remove the practical components for the sake of [making decisions](people-decisions.md). It does, however, make it difficult for living above a day-to-day perspective.
+But, like knowing reality itself, it doesn't really matter because it doesn't remove the practical components for the sake of [making decisions](mind-decisions.md). It does, however, make it difficult for living above a day-to-day perspective.
 
-Since reality itself is filtered through our perception, we have trouble [imagining](imagination.md) reality without our thoughts tangled in it.
+Since reality itself is filtered through our perception, we have trouble [imagining](people-imagination.md) reality without our thoughts tangled in it.
 
 One of the benefits of [religon](religion.md) is that it gives us a perceiver beyond ourselves. If God sees reality and maintains it, we don't have to perceive something to [prove to others](power-influence.md) that it's true.
 
@@ -42,7 +42,7 @@ One thing we can't attribute to our minds is legitimate [pain](mind-feelings-fea
 
 Since we don't like pain, and it's so [certain](understanding-certainty.md) within reality, we're forced to believe one of a few possible [value structures](values.md):
 
-1. From our [perspective](people-image-why.md), reality is nothing but pain. This is the most accurate if we don't believe anything beyond it, but it's absolutely [useless](purpose.md) because it strips any [meaning](meaning.md) or capacity for [living well](goodlife.md).
+1. From our [perspective](people-image-why.md), reality is nothing but pain. This is the most accurate if we don't believe anything beyond it, but it's absolutely [useless](purpose.md) because it strips any [meaning](meaning.md) or capacity for [living well](people-goodlife.md).
 2. There are presently unknown good things. This requires [belief](understanding-certainty.md) in the [unknown](unknown.md), but it allows us to [accomplish](purpose.md) and [inspire](power-influence.md) others toward [meaningful](meaning.md) actions.
 
 ## Experience
@@ -53,7 +53,7 @@ We have sensations and experiences, but those aren't technically what we call "r
 - Scent is a cluster of molecules picked up by the nose, but we interpret the scent itself using [feelings](mind-feelings.md) and language.
 - Our nerve endings detect things we touch, but then we assign groupings to them, like "flat" or "sticky".
 
-[Time](standards-datetime.md) is particularly difficult to [understand](understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](imagination.md)).
+[Time](standards-datetime.md) is particularly difficult to [understand](understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](people-imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](people-imagination.md)).
 
 Even without outward [evidence](science.md), some things exist because of the pure principle that our minds create them. A relationship between two people, for example, is simply a person's collection of memories, beliefs, and ideas about another person, with the other person having something resembling the same. If there were no minds, there'd be no relationships.
 
@@ -73,7 +73,7 @@ APPLICATION: No amount of [education](education.md) or [technology](technology.m
 
 Our [story](stories-why.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 
-APPLICATION: Believing things are [changing](trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
+APPLICATION: Believing things are [changing](people-trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
 
 While [post-modern philosophy](philosophy.md) denies it, there *are* [universal qualities within humanity](humanity-universals.md). The thing that's constantly changing is our perceptions, but by comparison, reality itself is quite unmoving. Even aspects of [aesthetic](values-quality.md), which are relative in their finer points, have absolutes in the general case according to how humans view things.
 
@@ -99,4 +99,4 @@ Also, since most people are [terrified](mind-feelings-fear.md) of the [consequen
 
 The only cure for a defective understanding is [love](people-love.md), both from the conveyor (to expedite the change through gentleness) and by the receiver (to [forgive and release](hardship-forgiveness.md)).
 
-APPLICATION: Whether we can or can't know reality doesn't really matter. It's very consistent either way. Even if we're really in some *dream*, we can find [meaning](meaning.md) through doing the best with that dream's rules, and living [the good life](goodlife.md) requires more [performance](purpose.md) than concerning ourselves with what may or may not exist.
+APPLICATION: Whether we can or can't know reality doesn't really matter. It's very consistent either way. Even if we're really in some *dream*, we can find [meaning](meaning.md) through doing the best with that dream's rules, and living [the good life](people-goodlife.md) requires more [performance](purpose.md) than concerning ourselves with what may or may not exist.

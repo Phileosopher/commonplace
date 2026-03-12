@@ -20,7 +20,7 @@ This is not an exhaustive list, since I aim for quality over quantity and [other
 
 And, if the internet doesn't give a connection to a ministry in a group you think needs to exist, it may be time to [start your own ministry](mgmt-church.md).
 
-## [Bible](bible.md) Translation and Study
+## [Bible](theology-bible.md) Translation and Study
 
 [American Bible Society](https://www.americanbible.org/)
 
@@ -40,7 +40,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Zondervan](https://www.zondervan.com/)
 
-## [Evangelism and Apologetics](evangelism.md)
+## [Evangelism and Apologetics](spiritual-exercises-evangelism.md)
 
 [The Christian Apologetics & Research Ministry](https://carm.org/)
 
@@ -54,7 +54,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Youth With A Mission](https://ywam.org/)
 
-## Evangelism focused on [apologetics](evangelism-apologetics.md)
+## Evangelism focused on [apologetics](spiritual-exercises-evangelism-apologetics.md)
 
 [Answers in Genesis](https://answersingenesis.org/) - focuses on [science-based](science.md) apologetics
 

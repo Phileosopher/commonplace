@@ -180,7 +180,7 @@ Decentralized systems are a foreign concept because our human nature tends to di
 
 Even regulating crypto isn't particularly useful without lawmakers understanding what it is. Very often, many of the black market transfers are crypto-*adjacent*, meaning they're still using money, but it rides alongside crypto to hide the paper trail.
 
-And, since [investing](money-investing.md) is regulated based on [predictions about the future](imagination.md), any whiff of regulatory change will dramatically change the value of a blockchain implementation. The philosophical definition of [what humanity deems as having value](values.md) is critically important to understand.
+And, since [investing](money-investing.md) is regulated based on [predictions about the future](people-imagination.md), any whiff of regulatory change will dramatically change the value of a blockchain implementation. The philosophical definition of [what humanity deems as having value](values.md) is critically important to understand.
 
 One inescapable reality about cryptocurrency, however, is that it *does* create a parallel tradable commodity that works enough like money, and people can trade with it if their government's currency becomes unstable. Of course, if a government were to oppress it enough, [fear](mind-feelings-fear.md) would prevent it being anything *but* a black market activity.
 
@@ -229,7 +229,7 @@ It's also worth noting that hackers are the force that made blockchain in the fi
 
 The adoption of cryptocurrency is inevitable, but not precisely how crypto advocates believe it will be. Depending on legislation, it'll likely become an alternate payment option or a highly illegal activity.
 
-The [trend](trends.md) is still early enough that it's difficult to tell for sure. It may have a place as a high-risk [investment vehicle](money-investing.md), but not much else right now.
+The [trend](people-trends.md) is still early enough that it's difficult to tell for sure. It may have a place as a high-risk [investment vehicle](money-investing.md), but not much else right now.
 
 Unfortunately, as long as Ponzi schemes stay unregulated within crypto, the average person will *not* adopt it, and the longer it persists the more likely people will consider it an inherently sketchy proposal.
 

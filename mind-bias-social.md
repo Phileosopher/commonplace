@@ -86,7 +86,7 @@ Shared information bias - we spend lots of time retelling people things they alr
 
 Third-person effect - we believe other people are more influenced by large-scale [media](stories-storytellers.md) than we are
 
-Trait ascription bias - we assume our [personalities](personality.md) are flexible and others' aren't
+Trait ascription bias - we assume our [personalities](people-personality.md) are flexible and others' aren't
 
 Ultimate attribution error - we assume motivations for our groups are good and motivations for groups we're not in are bad
 
@@ -122,7 +122,7 @@ Pygmalion effect - we do what others expect of us
 
 Saying is believing effect - we listen more closely to when messages are adapted to the audience
 
-Survey bias/social desirability bias/courtesy bias/flattery appeal/popularity appeal - we tend to tweak our answers toward whatever is [socially acceptable](trends.md)
+Survey bias/social desirability bias/courtesy bias/flattery appeal/popularity appeal - we tend to tweak our answers toward whatever is [socially acceptable](people-trends.md)
 
 System justification - we believe any existing system is good to maintain
 

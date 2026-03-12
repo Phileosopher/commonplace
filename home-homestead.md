@@ -5,9 +5,9 @@ Homesteading is essentially the entire domain of [owning a home](home-maintenanc
 
 The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](engineering-conveniences.md) you have available:
 
-- At the farthest end, you can [have a garden](horticulture.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
+- At the farthest end, you can [have a garden](plants.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
 - You could live in a full-function house (indoor plumbing, central HVAC, wireless internet, etc.) with a nice view, a reasonable distance from town, and a slightly increased [risk](safety-riskmgmt.md) from nature and the elements.
-- On the far opposite end, you can live in self-made alternative housing, [grow your food](horticulture.md), dig your own well, compost your waste, and only visit town in the occasional event of a [medical emergency](body-firstaid.md) you can't handle yourself.
+- On the far opposite end, you can live in self-made alternative housing, [grow your food](plants.md), dig your own well, compost your waste, and only visit town in the occasional event of a [medical emergency](body-firstaid.md) you can't handle yourself.
 - On an even farther level, you can live without electricity, only eating food you've grown, composting your own fecal matter, and rarely using money to buy anything at all.
 
 You can definitely strike a balance between living within range of a relatively small town (and the convenience of a community) alongside the privacy and challenge from living remotely.
@@ -17,7 +17,7 @@ Most of the lifestyle comes through how you choose to generate income or goods y
 - It can be a *very* harsh life if you intentionally live completely off the land and produce your own products, especially if you don't know what you're doing.
 - On the other hand, if you generate enough income remotely (e.g., software developer) or travel for work (e.g., construction contractor), you can typically purchase most of what you need in a large-enough metropolitan area.
 
-In general, only consider living somewhat remotely if your [extraversion](personality.md) is low enough that you can withstand a week or two in complete isolation.
+In general, only consider living somewhat remotely if your [extraversion](people-personality.md) is low enough that you can withstand a week or two in complete isolation.
 
 - If you're not sure, try [vacationing somewhere](fun-vacations.md) without any communications technology for 2-4 days at a time to see how you do.
 
@@ -64,7 +64,7 @@ To make your life manageable, you will need to have or acquire *many* skills.
 
 Some skills are non-negotiable:
 
-- Basic [gardening and crops](horticulture.md)
+- Basic [gardening and crops](plants.md)
 - Basic construction
 - Planning meals based on what's in season
 - Cooking food from raw ingredients
@@ -75,7 +75,7 @@ Some skills are non-negotiable:
 
 While not critical for living, some skills are good to have:
 
-- Basic [livestock agriculture](agriculture.md)
+- Basic [livestock agriculture](livestock.md)
 - Canning and dehydrating
 - Making a greenhouse
 - Making your own [pet](fun-pets.md) and animal food
@@ -146,7 +146,7 @@ Broadly speaking, nature's elements group into a few major things:
 You do *not* need anything elaborate, though a larger dwelling allows you to do more without any distractions.
 
 - We tend to be distracted by adverse conditions that make us feel unsafe.
-- The amount of protection we need is *highly* contextual to [culture](people-culture.md), but [living well](goodlife.md) requires either accommodating those preferences or changing them.
+- The amount of protection we need is *highly* contextual to [culture](people-culture.md), but [living well](people-goodlife.md) requires either accommodating those preferences or changing them.
 
 The Tipi method is one of the easiest ways to create a durable-enough building:
 
@@ -241,7 +241,7 @@ Whatever dwelling you design, make sure it's accessible later:
 Spend more money than you'd expect on the building's basic structure.
 
 - If you get low-quality building materials, you *will* have to [fix it](https://adequate.life/fix/) later.
-- However, don't obsess too much about finishing materials, since they're more for [design](engineering-design.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
+- However, don't obsess too much about finishing materials, since they're more for [design](engineering-design.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](people-trends.md).
 - If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](people-image-why.md).
 
 If you're building something larger, adapt your strategy as constraints arise at [each phase of the project](mgmt-2_projects.md):
@@ -267,7 +267,7 @@ While you can use CAD software to create construction drawings, builders work of
 If you're hiring a [contractor](people-contracts.md) to build (which is a good idea if you don't have a background in construction), hire good help, or they'll install things poorly.
 
 - Note who you can [save on](money-saving.md): cheap siding installation isn't as devastating as cheap masonry.
-- Your building is a [creative outflow](creations.md) of your [personality](personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
+- Your building is a [creative outflow](creations.md) of your [personality](people-personality.md), but becomes less "yours" proportional to how disengaged you are with the project.
 - Try to be physically present through *all* stages of the construction, since you may miss something important about your preference (e.g., placement of fridge or sinks, counter height).
 
 ## Food
@@ -275,8 +275,8 @@ If you're hiring a [contractor](people-contracts.md) to build (which is a good i
 You have a few options with food:
 
 1. Import the food, which means routinely visiting town and making a large purchase.
-2. [Grow your food](horticulture.md), which is time-consuming and hard work.
-3. [Raise livestock](agriculture.md), which even *more* time-consuming and challenging, but yields far more rewards.
+2. [Grow your food](plants.md), which is time-consuming and hard work.
+3. [Raise livestock](livestock.md), which even *more* time-consuming and challenging, but yields far more rewards.
 
 When you grow your food, preserve *everything* you can.
 

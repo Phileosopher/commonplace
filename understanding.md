@@ -7,7 +7,7 @@ All forms of [logic](logic.md), [math](math.md), [beauty](values-quality.md), [g
 
 Understanding is a form of [power](power.md). Like [any other type of power](power-types.md), the pursuit of understanding quickly becomes [evil](morality-evil.md) if it isn't directed to a [purpose](purpose.md) that *isn't* a form of power.
 
-The [power](power.md) that comes from understanding can be deadly. The way we use [values](values.md) literally reshapes [entire countries](politics-systems.md), and we must stay vigilant of the people we may harm with extra information. Pay close attention to the [personal lives](goodlife.md) of the people who wield the values they hold to.
+The [power](power.md) that comes from understanding can be deadly. The way we use [values](values.md) literally reshapes [entire countries](politics-systems.md), and we must stay vigilant of the people we may harm with extra information. Pay close attention to the [personal lives](people-goodlife.md) of the people who wield the values they hold to.
 
 APPLICATION: Our learning must apply itself to a [meaningful](meaning.md) [purpose](purpose.md) beyond learning itself. Otherwise, we're sharpening a skill we're not using for anything useful and wasting our lives.
 
@@ -34,7 +34,7 @@ We gain understanding through [learning](understanding-learn.md), which we broad
 
 ## The perspectives from understanding
 
-There are *many* ways to [see something](people-image-why.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](people-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
+There are *many* ways to [see something](people-image-why.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](people-imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](mind-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
 
 The best way to understand other perspectives isn't from simply understanding what someone believes, or whether it's [right or wrong](morality.md). To understand another viewpoint, you must understand *why* they came to that conclusion, and the implications of that set of ideas.
 
@@ -44,9 +44,9 @@ APPLICATION: To gain the greatest understanding, we must push to find new experi
 
 Technically, we can't think of two perspectives at *precisely* the same time, and have to swap between them. For that reason, we tend to combine both those perspectives into a third perspective, which is a remix of the first two. That third perspective will slowly [associate](https://gainedin.site/networks/) with further beliefs that the first two value systems wouldn't have developed. Eventually, there will be enough experiences that the third perspective can *steeply* diverge from the other two.
 
-Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](people-decisions.md) how they want to [see things](people-image-why.md). This also bleeds into the range of their [identity](identity.md) as well.
+Thus, people with the greatest understanding also tend to have the most diverse minds across any group of them. They keep extracting truth from the world until they can understand precisely how others [think](logic.md), [feel](mind-feelings.md), and [behave](results.md), then have a broader range to [choose](mind-decisions.md) how they want to [see things](people-image-why.md). This also bleeds into the range of their [identity](people-identity.md) as well.
 
-We also must revisit the same expression multiple times to accurately capture it, often through [self-reflection](imagination.md). For that reason, people with heavy understanding are often very ponderous and thoughtful, and sometimes very slow to act.
+We also must revisit the same expression multiple times to accurately capture it, often through [self-reflection](people-imagination.md). For that reason, people with heavy understanding are often very ponderous and thoughtful, and sometimes very slow to act.
 
 Of course, when people *don't* want to understand, they build [relationships](people-friends-why.md) with each other over that ignorance. We tend to [associate](people-friends-why.md) others who share our level of [passion](purpose.md) for understanding far more than [specific disciplines](jobs-spcialization.md) we share.
 
@@ -54,7 +54,7 @@ The essence of understanding comes through [its depth](understanding-depth.md), 
 
 ## Specialized understanding
 
-Assembling our perceptions and experiences together presents us with a [decision](people-decisions.md):
+Assembling our perceptions and experiences together presents us with a [decision](mind-decisions.md):
 
 1. Heighten our knowledge to broaden all known possibilities.
 2. Test our theories to reduce the likely possibilities.
@@ -74,7 +74,7 @@ We generally attain the peak of our understanding on a subject when we can maint
 
 ## What intellect is
 
-Whether our understanding *is* [truth](reality.md) depends on the range of the experiences we've gathered and how much we've tested them. The thoroughness of that testing is often called "[intelligence](personality.md)". This comes through both our abilities to [observe](people-image-why.md) our environment alongside [introspection](people-conflicts-inner.md).
+Whether our understanding *is* [truth](reality.md) depends on the range of the experiences we've gathered and how much we've tested them. The thoroughness of that testing is often called "[intelligence](people-personality.md)". This comes through both our abilities to [observe](people-image-why.md) our environment alongside [introspection](people-conflicts-inner.md).
 
 Intelligence is our raw ability to work with things, but understanding is the ability to know *what* to do with the things we observe. Wisdom takes it a bit further about knowing *when* it's a good idea to do those things.
 
@@ -82,7 +82,7 @@ We tend to integrate what we understand slowly, so there's always a lead time be
 
 Understanding is more useful than raw intelligence, since it's the difference between [power](power.md) and [focus](purpose.md). We can train understanding, but intelligence is mostly genetic. Intelligence is sometimes useful, but understanding is *always* [useful](purpose.md), even if it's not always wise to use it.
 
-In a sense, the [virtue](morality.md) of honesty or integrity directly corresponds to wisdom because it indicates how much someone will work to understand. More intelligence means more *opportunities* for wisdom, though that person's [decisions](people-decisions.md) dictate how far they actually go.
+In a sense, the [virtue](morality.md) of honesty or integrity directly corresponds to wisdom because it indicates how much someone will work to understand. More intelligence means more *opportunities* for wisdom, though that person's [decisions](mind-decisions.md) dictate how far they actually go.
 
 APPLICATION: If an intellectual has been able to easily comprehend their environment, that person is often less wise because they never had to learn the patience necessary to understand the fullest aspect of the things they observe.
 
@@ -104,7 +104,7 @@ APPLICATION: The more we know, the more possible perspectives we see we may be a
 
 As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](people-culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
 
-APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](people-decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
+APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](mind-decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
 
 At the same time, confidence for wise people is granular. For example, someone may know they're an expert in commercial interior plumbing, but will know how little they understand in other plumbing-related disciplines.
 
@@ -116,7 +116,7 @@ When someone tests experience against [reality](reality.md), they will discover 
 
 APPLICATION: Common sense is the set of experiences that made their way into a group, but that doesn't mean the group understands *why* those experiences are good. This means there's always a push for [new ideas against tradition](politics-conservativeliberal.md) within any social group where nobody really knows what's going on.
 
-APPLICATION: While extreme beliefs aren't generally accurate, having a wide variety of extreme beliefs that are *highly* contextual is essentially the quickest way to live the [good life](goodlife.md).
+APPLICATION: While extreme beliefs aren't generally accurate, having a wide variety of extreme beliefs that are *highly* contextual is essentially the quickest way to live the [good life](people-goodlife.md).
 
 As we [age](maturity.md), we either build new understanding to build more assertion or will let our [past trauma](hardship-ptsd.md) scramble our understanding and erode any confidence we had.
 
@@ -127,7 +127,7 @@ As we continue to mull over the things we understand and make [conversations](pe
 Small, trite experiences that veer close to feeling like a paradox represent these shared sensations the most accurately:
 
 - Epigrams ([written statements](language-writing.md)) that express as [axioms](lawsaxioms.md) or proverbs
-- Simple drawings or animations that visually depict what we [imagine](imagination.md)
+- Simple drawings or animations that visually depict what we [imagine](people-imagination.md)
 - Verbal statements that employ body language to magnify a concept
 
 Most [creative works](creations.md) and [leadership](groups-small.md) harness these shared experiences to [influence](influence.md) others toward [purposes](purpose.md), usually sprinkled throughout a larger body of work. When those purposes are grandiose, the individuals engaged in it attain a type of [religious fervor](religion.md) driven by a collective understanding and unified purpose.
@@ -146,8 +146,8 @@ We tend to measure others' understanding by *their* [confidence](understanding-c
 Understanding is difficult to measure because that measurement can come through various [results](results.md) that vary wildly:
 
 - How easily or simply they can put those ideas in [words](language.md) or [explain](people-conversation.md) things.
-- How well someone can [imagine](imagination.md) easily [believable](understanding-certainty.md) [stories](stories-why.md).
-- Capability of mentally [rebuilding](imagination.md) the form of something and dividing it into [logical](logic.md) components.
+- How well someone can [imagine](people-imagination.md) easily [believable](understanding-certainty.md) [stories](stories-why.md).
+- Capability of mentally [rebuilding](people-imagination.md) the form of something and dividing it into [logical](logic.md) components.
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
 
@@ -155,17 +155,17 @@ APPLICATION: We only understand something when we can articulate the opposing vi
 
 However, civilized society requires that people be [educated](education.md). For that reason, they create various [precise](logic.md) ways to [measure it](math.md) that aren't entirely [reliable](results.md).
 
-And, since we have *much* more information over how little we really know versus everyone else, we tend to believe others' image more than our own knowledge, even when we are *much* more knowledgeable than they are (impostor syndrome). This issue can scale with [self-awareness](awareness.md) combined with [intelligence](personality.md).
+And, since we have *much* more information over how little we really know versus everyone else, we tend to believe others' image more than our own knowledge, even when we are *much* more knowledgeable than they are (impostor syndrome). This issue can scale with [self-awareness](awareness.md) combined with [intelligence](people-personality.md).
 
 ## Drawbacks of understanding
 
 Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](people-changes.md). In many [cultures](people-culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.
 
-APPLICATION: If we're constantly learning (which is a product of [living well](goodlife.md)), we must *constantly* rebuild our [language](awareness.md) to redefine what we understand more accurately. Otherwise, we'll become [set in our ways](habits.md) and won't [adapt](people-changes.md) to [environmental changes](trends.md).
+APPLICATION: If we're constantly learning (which is a product of [living well](people-goodlife.md)), we must *constantly* rebuild our [language](awareness.md) to redefine what we understand more accurately. Otherwise, we'll become [set in our ways](habits.md) and won't [adapt](people-changes.md) to [environmental changes](people-trends.md).
 
 Understanding certain things can also become tremendously risky for successfully integrating into the hierarchy of many [social groups](groups-member.md): one key bit of information can make a member more knowledgeable than the leader, which creates an [uneven power dynamic](power-types.md).
 
-More understanding takes work to maintain, proportionally to the intellect aspect of our [personality](personality.md). We tend to focus and filter other perspectives through whatever it is we already know because it's the easiest way to link things. Every [specialization](jobs-spcialization.md) will possess its opportunity cost of not being able to see things in the plain way that a [child](maturity.md) would be able to see things. Thankfully, this changes after we leave that specialization and start forgetting information.
+More understanding takes work to maintain, proportionally to the intellect aspect of our [personality](people-personality.md). We tend to focus and filter other perspectives through whatever it is we already know because it's the easiest way to link things. Every [specialization](jobs-spcialization.md) will possess its opportunity cost of not being able to see things in the plain way that a [child](maturity.md) would be able to see things. Thankfully, this changes after we leave that specialization and start forgetting information.
 
 APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
 

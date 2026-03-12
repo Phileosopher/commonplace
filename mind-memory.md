@@ -65,7 +65,7 @@ Memory also has various forms:
 - Episodic memory is a snapshot of each particular experience we've had.
 - Autobiographical memory combines episodic memory to create a [story](stories-why.md) about ourselves and the world around us.
 - Semantic memory is long-term storage of simple information.
-- Prospective memory is how we store information we [imagine](imagination.md).
+- Prospective memory is how we store information we [imagine](people-imagination.md).
 
 ## Our memory system is prone to errors
 

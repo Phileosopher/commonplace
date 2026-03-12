@@ -145,7 +145,7 @@ Liability insurance clarifies precise limits:
   - Per person - limits coverage per person.
   - Per occurrence - limits coverage per occurrence.
   - Most standard auto insurance policies give barely adequate liability coverage of $100K bodily injury per person capped at $300K per occurrence, with $100K property damage per occurrence (100/300/100).
-    - Boring and small cars (e.g., Toyota Camry, Honda Civic) are cheaper to insure than [identity-associating](identity.md) vehicles (e.g., Dodge Challenger).
+    - Boring and small cars (e.g., Toyota Camry, Honda Civic) are cheaper to insure than [identity-associating](people-identity.md) vehicles (e.g., Dodge Challenger).
 - Liability limits can also be aggregate limits instead of broken out.
   - Auto policies can have a combined single limit (CSL) instead of broken into BI/PD.
 - Liability policies can also point some of that liability back toward the insured as well.

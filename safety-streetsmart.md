@@ -7,7 +7,7 @@ There is a distinction in [understanding](understanding.md) between "book smart"
   - They're seen as great at ingesting [lots of information](information.md), [taking tests](mind-memory-tests.md), and possesses lots of [specialized](jobs-specialization.md) information.
   - The implication is that they can be taken advantage of very easily, and have very little skill in navigating the harsher parts of the world.
 - Street smart, by contrast, is the stereotypical experienced hustler in an urban ghetto:
-  - Able to [sell themselves](marketing-sales.md) and convince others, with a natural [charisma](people-influence.md) and [extraversion](personality-ocean.md).
+  - Able to [sell themselves](marketing-sales.md) and convince others, with a natural [charisma](people-influence.md) and [extraversion](people-personality-ocean.md).
   - The implication also implies they're generally uneducated, have poor [language](language.md) skills, and have no [compassion for others](people-love.md).
 
 In practice, there is a necessary component for both.

@@ -42,7 +42,7 @@ While Catholics believe it more than Protestants, you certainly *can* pray to be
 Upcoming opportunities and risks:
 
 - Ask for His blessing for the upcoming day.
-- What appears to be the [best option](people-decisions.md) might be a bad idea, so pray for God to accomplish [His will](god-will.md).
+- What appears to be the [best option](mind-decisions.md) might be a bad idea, so pray for God to accomplish [His will](god-will.md).
 - Ask for wisdom for decisions and success in them.
 - Ask for strength to endure any upcoming challenges, and that it comes through love.
 
@@ -135,7 +135,7 @@ Jesus gives Christians the best way to pray while maintaining a healthy perspect
 There's some [controversy](people-conflicts-christian-why.md) over Jesus' admonition against repetition ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
 - Your actual *conversation* with God is where you'll experience any spirituality, with the rest of it taking up more time.
-- However, everyone has a different [personality](personality.md), so you may need more [ritual](habits.md) if you're lower on the Openness spectrum.
+- However, everyone has a different [personality](people-personality.md), so you may need more [ritual](habits.md) if you're lower on the Openness spectrum.
 
 Place yourself in a familiar position such as kneeling or laying face-down.
 

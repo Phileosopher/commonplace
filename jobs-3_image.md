@@ -32,7 +32,7 @@ It's not about what you know, or *who* you know, but *how* you're remembered:
 If you're changing industries, note any differences between them:
 
 - Observe differences in [culture and norms](people-3_respect.md), as well as their [motivating values](purpose.md) and [beliefs](values.md).
-- Use your intuition to gauge the industry-specific [personality types](personality.md) you'll likely encounter.
+- Use your intuition to gauge the industry-specific [personality types](people-personality.md) you'll likely encounter.
 - Make a quick response to describe why you're changing (or changed) industries.
 
 Keep an eye out for discrimination, since it's [a fact of life](hardship-discrimination.md).
@@ -172,7 +172,7 @@ Join relevant LinkedIn groups to open doors for networking:
 
 Add at least 5 skills connected to your desired job.
 
-Add "soft skills" that fit your [personality](personality.md):
+Add "soft skills" that fit your [personality](people-personality.md):
 
 - Always punctual, creative thinker, critical thinker, easily adapts, friendly personality, good communicator, interpersonal communicator, social, team player, well-organized, quick study
 

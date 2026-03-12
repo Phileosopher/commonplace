@@ -19,7 +19,7 @@ Your ideal mate will *always* have certain characteristics:
 - You share a similar sense of [humor](humor.md) with them.
 - They encourage and support others' [successes](success-1_why.md).
 - You both share at least some [hobbies](fun.md).
-- You both bring out each other's best characteristics of your [personalities](personality.md).
+- You both bring out each other's best characteristics of your [personalities](people-personality.md).
 - You both [respect](people-3_respect.md) each other's lives, decisions, and opinions.
 
 Contrary to popular opinion, compatibility is mostly unrelated to relationship satisfaction:
@@ -29,7 +29,7 @@ Contrary to popular opinion, compatibility is mostly unrelated to relationship s
   - More unique ways of approaching issues
   - More diverse opinions means more perceived solutions
   - Broader set of skills to pull from
-- Each [personality](personality.md) is uniquely different, so you can't know simply from an internet profile or psychological assessment.
+- Each [personality](people-personality.md) is uniquely different, so you can't know simply from an internet profile or psychological assessment.
 
 ## Understand yourself compared to others
 

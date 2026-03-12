@@ -1,11 +1,11 @@
 
 # The summarized history of the Christian church 4: A Legal Religion
 
-The actual canonization of the [Bible](bible.md) emerged as a natural community-led movement, and it's difficult to place when the 27 books of the New Testament were *first* established, though Origen of Alexandria may have first compiled it around 250 AD.
+The actual canonization of the [Bible](theology-bible.md) emerged as a natural community-led movement, and it's difficult to place when the 27 books of the New Testament were *first* established, though Origen of Alexandria may have first compiled it around 250 AD.
 
 By the time Constantine came into power in 306, about 40% of Rome was Christian.
 
-- [Christian evangelism](evangelism.md) was highly prominent everywhere.
+- [Christian evangelism](spiritual-exercises-evangelism.md) was highly prominent everywhere.
 - The poor, slave class, and women were largely Christian.
 - Christians were shown as largely law-abiding citizens, with the small exceptions of the Montanists, Novationists, and later the Donatists.
 - Christian prayers and miracles often worked, which demonstrated the validity of the message.
@@ -50,7 +50,7 @@ Ecumenical Council #3 in 431 AD - the Council of Ephesus, feat. St. Cyril of Ale
 
 1. Condemned Nestorianism as heresy (that Jesus *wasn't* 100% God and 100% man), who eventually became groups like the **Assyrian Church of the East**
 2. Defined Mary as God's holy Mother
-3. Condemned Pelagianism as heresy (that we simply must [choose](people-decisions.md) God and don't need His grace for salvation)
+3. Condemned Pelagianism as heresy (that we simply must [choose](mind-decisions.md) God and don't need His grace for salvation)
 
 Ecumenical Council #4 in 451 AD - the Council of Chalcedon feat. Pope Leo the Great and Emperor Marcian w/ 150 bishops
 

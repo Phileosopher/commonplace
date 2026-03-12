@@ -22,7 +22,7 @@ The second, however, can be used universally.
 
 ## A. Have a vision
 
-Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.md), build a clear [vision](imagination.md) of what the team will need to do:
+Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.md), build a clear [vision](people-imagination.md) of what the team will need to do:
 
 - Will the project have many interconnected tasks (and require more [communication](language-speaking.md)), or are each of the tasks relatively independent of each other?
 - Is the task relatively straightforward, or more abstract?
@@ -42,7 +42,7 @@ Reflect your vision with your lifestyle.
 With that idea in place, clarify the values you want to see with your team.
 
 - These values are [philosophical concepts](values.md) that take precedence over other positive (e.g., kindness, strength, curiosity).
-  - Often, a [personality](personality.md) which is strong in one area is also weak in another (e.g., bold people tend to be less compassionate).
+  - Often, a [personality](people-personality.md) which is strong in one area is also weak in another (e.g., bold people tend to be less compassionate).
 - Your values will then resonate with the 3 R's:
   1. Recruit - selecting people who share those values.
   2. Reward - promoting people who reflect those values.
@@ -139,5 +139,5 @@ If you've inherited a prior project and team, you're walking into a new culture 
 - Have a transition [speech](language-speaking.md) prepared that will quickly and precisely articulate how you're similar and different from the prior manager.
   - If you don't *know* how the prior manager was, openly ask the members how they and the manager used to do everything.
   - Do *not* presume that the way you did things elsewhere applies here: even highly rigid systems can easily have permutations in [how things get done](habits.md).
-- Workplace politics are guaranteed, simply because your [natural disposition](personality.md) will favor people in differing proportion than the last manager.
+- Workplace politics are guaranteed, simply because your [natural disposition](people-personality.md) will favor people in differing proportion than the last manager.
 - Most of the group will *not* adapt quickly to your approach, but the ones who do may simply be [power-hungry](power.md).

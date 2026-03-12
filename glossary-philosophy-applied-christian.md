@@ -153,6 +153,7 @@ To believe in God's grace and mercy creates a general leaning against raw coerci
 There is Christian precedent on *both* sides of some domains:
 
 - **Legal formalism** (and **legalism** with **originalism**), since the rules represent the order of God, but loving behavior in a courtroom can mean bending the rules.
+- **Presentism** has value in how there should be practical justice for people, meaning that we should change laws to rightly approach modern [fashions](people-trends.md)
 - **Political individualism**, since the downtrodden and suffering may be an individual, or may be a group.
 
 Christians lean into the belief of **natural law** (and some level of **legal realism**), meaning they lean against **positive law** (as well as **legal interpretivism** and **legal naturalism**).
@@ -170,6 +171,7 @@ Possible (or partial)
 - Legal realism
 - Legalism
   - Originalism
+- Presentism
 
 Possible (but difficult)
 
@@ -184,7 +186,7 @@ Possible (but difficult)
 Christian philosophical discourse runs closer to their theological circles and applications toward [biblical interpretation](bible-study.md).
 
 - **Aristotelianism** (as well as **Neo-Aristotelianism** and **contextualism**) is *very* strong within much of Christian culture.
-- **Cognitivism** and **truth claims** is frequent in Christian tradition, typically within [apologetic evangelism](evangelism.md).
+- **Cognitivism** and **truth claims** is frequent in Christian tradition, typically within [apologetic evangelism](spiritual-exercises-evangelism.md).
 - **Eclecticism** is also frequent among Bible scholars.
 - **Scholasticism** is not only common among Christian dialogue, it's part of the Bible!
 - **Thomism** is necessary for any heavily measured Christian exploration, since there is no end to the study ([Ecclesiastes 12:12](https://biblehub.com/ecclesiastes/12-12.htm)).

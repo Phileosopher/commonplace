@@ -9,13 +9,14 @@ Divorce is the destruction of the most basic institution of human connection.
 
 Your life with that person is over, and you must accept that:
 
+- Many times, the shock of the divorce comes through the factual reality that confronts any denial about the marriage ending.
 - Even if your ex-spouse wants you back, after a few years they won't be that person you knew anymore.
 - Very likely, the reason they left was *because* they're not the person you knew.
 
 Every relationship with your family and friends will change:
 
 - [Your children](parenting-children.md) will endure the hardship of losing their parents for the rest of their lives.
-- Your family and friends will be devastated by the news, and some will judge you for it.
+- Your family and friends will often be devastated by the news, and some will judge you negatively for it.
 
 If you have children in the situation, you *must* avoid mixing them further into it:
 
@@ -25,10 +26,10 @@ If you have children in the situation, you *must* avoid mixing them further into
   2. They can't do anything to fix it.
   3. You (and their other parent, if applicable) still love them.
 - They'll likely cause more trouble in their reactions to the change, so scale back your discipline with them.
+  - Your divorce has at least partially eroded any authority you once had with them.
   - They're very anxious and angry because you've destroyed the foundation for their entire existence.
   - If they developmentally regress or lash out, they're often trying to recreate the "old" situation to get their other parent back.
   - They must figure out their own healthy perspective of the world, but their minds aren't equipped to do it.
-  - Your divorce has eroded any authority you once had with them.
 - Most of their innocence will disappear by the time the divorce is settled, so be *completely* honest with them about *everything*.
   - They can handle the truth, but [lies](people-lying.md) will destroy your relationship with them later.
   - Even if you want to protect them or yourself, they will likely find out because their [feelings](mind-feelings.md) are more affected by it than you.
@@ -38,11 +39,20 @@ If you have children in the situation, you *must* avoid mixing them further into
   - Having a "substitute" father or mother (i.e., other family) can allay some of their anxieties, though it'll never be perfect.
 - If there was a ton of fighting before the divorce, some kids will actually see a divorce as a *relief*.
 
+Legally, a divorce is the termination of a civil agreement.
+
+- Beyond criminal matters (e.g., kidnapping, assault), the courts will see everything as a mere civil dispute.
+- The case can be resolved out of court when both parties are willing to work with each other, but a disputed case becomes a nightmare on several fronts:
+  1. The battle over everyone's possessions, if any.
+  2. Alimony payments, if applicable.
+  3. Custody and visitation rights, if any children are involved.
+  4. Child support, if custody and visitation rights are involved.
+
 After you've grieved for a long while, you can start again:
 
 - Once the pain has worn off, get back in the [dating](relationships-dating.md) world if you don't have [religious reservations](church-family.md) against it.
   - Pay close attention to the kind of person you're attracted to, especially if they're either just like or the opposite of your ex.
-- You're guaranteed to have a "rebound" relationship, so don't take *anything* seriously or steadily for at least 2--3 years.
+- You're guaranteed to have a "rebound" relationship, so don't take *anything* seriously or steadily for at least 2-3 years.
 
 ## How to work through divorcing parents
 

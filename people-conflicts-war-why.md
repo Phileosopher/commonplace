@@ -9,9 +9,9 @@ APPLICATION: There is very little [justice](morality-justice.md) to any large-sc
 
 Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](people-image-why.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md). The strongest motivation to attack other groups comes from overstating [fears](mind-feelings-fear.md) of what may happen if the other group wins.
 
-Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries-why.md) unless they're making a strategic and significant [decision](people-decisions.md).
+Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries-why.md) unless they're making a strategic and significant [decision](mind-decisions.md).
 
-These dramatic conflicts have *many* interconnected elements, and each element is its own sub-conflict driven by unique [decisions](people-decisions.md) separate from the [large groups' leadership](groups-large.md). Alliances often shuffle around, but nothing quite solidifies the group's loyalty like an outside threat.
+These dramatic conflicts have *many* interconnected elements, and each element is its own sub-conflict driven by unique [decisions](mind-decisions.md) separate from the [large groups' leadership](groups-large.md). Alliances often shuffle around, but nothing quite solidifies the group's loyalty like an outside threat.
 
 ## Inevitable
 
@@ -21,7 +21,7 @@ The differences in opinion, combined with a few individuals' [unscrupulous](mora
 
 Many of the large-scale conflicts represent the same sort of [bad boundaries](people-boundaries.md) on [an individual level](people-conflicts.md), but they frequently magnify them into absurdly large effects that often give entire people groups [severe hardships](hardship.md).
 
-Groups can coexist for *much* longer with conflicting values than individuals alongside each other, but once a [trend](trends.md) has turned toward crushing the competition, it's difficult to stop [humanity's competitive or destructive nature](humanity.md).
+Groups can coexist for *much* longer with conflicting values than individuals alongside each other, but once a [trend](people-trends.md) has turned toward crushing the competition, it's difficult to stop [humanity's competitive or destructive nature](humanity.md).
 
 Usually, the trigger for a large-scale conflict comes through an existing disagreement among groups where a leader develops at least one of a few specific [desires](purpose.md):
 
@@ -35,13 +35,13 @@ APPLICATION: Nuclear weapons will never be as popular as the *threat* of nuclear
 
 Most groups tend to protect their most [educated and intelligent](education.md) members as much as possible from the group's highest risks. Strategists, among others, are often working closely with (or are) the ruling [class](classes.md) of the group, while less advantaged individuals (e.g., young, unintelligent) are far more exposed and disposable. To keep everyone in line, the lower class is implied to have access to those privileged positions if they work hard enough.
 
-When outright physical conflict isn't as advantageous to win, [legal battles](legal-safety.md) can become just as fierce. [Low-agreeableness personalities](personality.md) can even make *[sports](fun-sports.md)* a constrained form of warfare.
+When outright physical conflict isn't as advantageous to win, [legal battles](legal-safety.md) can become just as fierce. [Low-agreeableness personalities](people-personality.md) can even make *[sports](fun-sports.md)* a constrained form of warfare.
 
 APPLICATION: [Legal](people-rules.md) battles operate under the authority of that government (e.g., [intellectual property](legal-ip.md)), but [reach](influence.md) *much* farther than the two groups or their conflict. The [laws](people-rules.md) their conflict establishes create [philosophical](philosophy.md) [boundaries](people-boundaries-why.md) for *every* pair of groups with a similar conflict in the future, and often across regional boundaries.
 
 The resource costs for war preparedness are high. Any slack in [discipline](habits.md), even for a week or two, is enough to make the group lazy and ineffective.
 
-APPLICATION: Most effective large-scale leaders are either always interacting with a large-scale conflict or [have a plan](imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
+APPLICATION: Most effective large-scale leaders are either always interacting with a large-scale conflict or [have a plan](people-imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
 
 [Defusing a war](people-conflicts-war-why-defusing.md)
 
@@ -49,22 +49,22 @@ APPLICATION: Most effective large-scale leaders are either always interacting wi
 
 ## Inter-organizational conflicts
 
-Each large group will typically act as one unified force until a [trend](trends.md) reaches maturity to question the leadership's decisions. At that point, the group becomes unstable. This is most clearly onset when people aren't getting what they [need or want](purpose.md), and the violence of war guarantees at least *some* of the people will oppose their leadership.
+Each large group will typically act as one unified force until a [trend](people-trends.md) reaches maturity to question the leadership's decisions. At that point, the group becomes unstable. This is most clearly onset when people aren't getting what they [need or want](purpose.md), and the violence of war guarantees at least *some* of the people will oppose their leadership.
 
 The best way to placate members is with a rewards system, typically with decorated medals. By using incentives that create a sense of [meaning](meaning.md), people can keep fighting *long* after it makes any [rational](logic.md) sense.
 
 One of the easiest ways to [influence](influence.md) the group toward a continued effort against the opponent is to generate a disaster or emergency. If there's a crisis, people are more likely to act in [overt fear](mind-feelings-fear.md) and rally behind their leadership. This disaster can either be a relatively smaller legitimate problem [enhanced into a larger one](people-image-distortion.md), or can be a complete fabrication.
 
-Sometimes this group will express as protesting or rioting, with the people who incite the protest starting a [trend](trends.md) of opposition.
+Sometimes this group will express as protesting or rioting, with the people who incite the protest starting a [trend](people-trends.md) of opposition.
 
 - This taps into a [base](mind-feelings.md) urge to rebel and directs it against the leadership.
 - However, both the leadership of that group *and* outside groups have the ability to steer the resentment with [propaganda](stories-storytellers.md).
 
 APPLICATION: Controlling and directing a riot is very difficult. While some people, especially the [Left](politics-leftism.md), are somewhat skilled at it, an anti-leadership movement will eventually take out its own [leaders](groups-small.md) unless someone can skillfully [influence](influence.md) the [anger](mind-feelings-anger.md) and [fear](mind-feelings-fear.md) toward a [moral-looking](morality.md) [cause](purpose.md).
 
-However, since the protesters are leaders of an opposition force that may run the system soon, the current leadership can often backfire spectacularly in how they handle the unruly dissenters. The leaders who oppose the rioters are typically [laggards](trends.md) of the rioting trend, and it's not uncommon for them to be ejected or die from it.
+However, since the protesters are leaders of an opposition force that may run the system soon, the current leadership can often backfire spectacularly in how they handle the unruly dissenters. The leaders who oppose the rioters are typically [laggards](people-trends.md) of the rioting trend, and it's not uncommon for them to be ejected or die from it.
 
-Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](people-decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
+Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](mind-decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
 
 APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](money-economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
 
@@ -107,7 +107,7 @@ One of the benefits of a well-trained military is that it builds [habits](habits
 
 ## Resolving the conflict
 
-When two groups fight, there are too many unknown factors to know exactly what's going on at any given moment ("fog of war"). However, leaders still must make [decisions](people-decisions.md) with their limited information and often try to increase the fog of war for their opponent whenever possible.
+When two groups fight, there are too many unknown factors to know exactly what's going on at any given moment ("fog of war"). However, leaders still must make [decisions](mind-decisions.md) with their limited information and often try to increase the fog of war for their opponent whenever possible.
 
 In practice, strategic decisions are essentially [game theory](math-gametheory.md), with the entire engagement built around at least two actors. Even seemingly harmless activities that simply [change how things look](people-image-distortion.md) can be *highly* effective in deterring purposes (e.g., "false flag operation").
 
@@ -121,7 +121,7 @@ APPLICATION: The losing side of a battle will have the same [story](stories-why.
 
 On occasion, depending on the situation, the new opposition's leadership will have enough skills [influencing others](influence.md) that they'll negotiate a compromise. That new compromise won't necessarily please *anyone*, and will often create further [bureaucracy](mgmt-badsystems.md) (e.g., trade unions, national coalitions). This will sometimes happen without any violence or loss, but can create larger-scale conflicts later.
 
-APPLICATION: Often, the only grace a large group will give is to [maintain image](people-image-distortion.md). Don't *ever* [expect](imagination.md) [virtue](morality.md) from a conqueror.
+APPLICATION: Often, the only grace a large group will give is to [maintain image](people-image-distortion.md). Don't *ever* [expect](people-imagination.md) [virtue](morality.md) from a conqueror.
 
 Wars can sometimes persist for a *very* long time, and it only comes through two possible reasons. Either the goals keep changing (which often comes through the leaders lying about what they really want) or the attacker severely underestimated the defender.
 

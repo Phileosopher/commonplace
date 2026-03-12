@@ -5,7 +5,7 @@ Modern thinking leans a bit heavily on [science](science.md). The natural downsi
 
 While [stories](stories-why.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](understanding.md).
 
-If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
+If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](people-imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
 
 Most modern vernacular runs on the same [mythology](religion-answers.md) (e.g., "witchcraft" becomes "pharmaceuticals") even while the faces have changed.
 
@@ -16,9 +16,9 @@ The reason these myths work over the raw facts is because the [symbols](symbols.
 
 ## Genres
 
-Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](goodlife.md), respectively
+Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](people-goodlife.md), respectively
 
-Fantasy, science fiction, and horror are based on how we [imagine](imagination.md), but as a [hypothetical](philosophy-paradoxes.md) into the future.
+Fantasy, science fiction, and horror are based on how we [imagine](people-imagination.md), but as a [hypothetical](philosophy-paradoxes.md) into the future.
 
 - Historical fiction are thought experiments for the audience to imagine themselves in that past period of time.
 - Alternate histories are heavily curated thought experiments, often with [political](people-conflicts-war-why.md) predictions involved.
@@ -45,13 +45,13 @@ Repelling evil with salt comes from how salt symbolizes preservation of food (an
 
 An object of unbelievably extreme power (e.g., magic lamp, Holy Grail) is our imagination of a [technological](technology.md) (i.e., human-controlled) means of controlling the forces of nature directly.
 
-Multiple doors or pathways are the raw representation of [decisions and choice](people-decisions.md).
+Multiple doors or pathways are the raw representation of [decisions and choice](mind-decisions.md).
 
 The human body, especially when contrasted with a much larger environment or with death, represents how we are [finite and mortal](mind-feelings-fear.md).
 
 Depictions of heaven and hell (as well as any other variations, including Nirvana) are [moral balancing](morality.md) for the [unfair situations](morality-evil.md) we often find ourselves exposed to in this life. It's inescapably connected to some form of [judging authority](people-rules.md), though the rules move around a *lot* based on [implementation](religion-answers.md).
 
-Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](people-decisions.md).
+Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](mind-decisions.md).
 
 [Intelligent](understanding.md) beings are often seen as [contenders](people-conflicts-why.md) with the gods, and often as villains.
 
@@ -125,7 +125,7 @@ Most gods and deities are named depictions of concepts we understand, and there 
 - The chaos and the [unknown](unknown.md), often named (e.g., Loki, Anansi), and often takes on an antagonistic form (e.g., Satan)
 - Fertility gods/goddesses that express the uncertainty around [child-bearing](people-family.md)
 
-When gods start making fickle [decisions](people-decisions.md), they can also represent powerful [political figures](politics-conservativeliberal.md) who influence our lives.
+When gods start making fickle [decisions](mind-decisions.md), they can also represent powerful [political figures](politics-conservativeliberal.md) who influence our lives.
 
 Christmas has created a few repetitions:
 
@@ -144,11 +144,11 @@ Fair folk and gnomes are the masculine and feminine forms of the "little things"
 
 The Minotaur's labyrinth story represents the mentally strong Daedalus (i.e., intelligent person) ruling over the physically strong but mentally weak Minotaur (i.e., working class) using clever tricks to keep him contained.
 
-The story of the spiritual and physical realms temporarily merging or cross (e.g., Night Parade of 100 Demons, the Wild Hunt, Walpurgisnacht) represents the cyclical nature of seasonal change and how new [trends](trends.md) arise after a "reset".
+The story of the spiritual and physical realms temporarily merging or cross (e.g., Night Parade of 100 Demons, the Wild Hunt, Walpurgisnacht) represents the cyclical nature of seasonal change and how new [trends](people-trends.md) arise after a "reset".
 
 Fair folk were once regarded as volatile or hostile beings who would sometimes capture humans as a type of pet, but that story is now representative of personal development through a [coming-of-age story](maturity.md). Most of these tie to how we interpret our relationship with [God](religion-answers.md).
 
-Many stories have a flood or some sort of early near-apocalypse. Beside the possibility that it may have happened, they symbolize [hope](imagination.md) despite the utter destruction.
+Many stories have a flood or some sort of early near-apocalypse. Beside the possibility that it may have happened, they symbolize [hope](people-imagination.md) despite the utter destruction.
 
 Every apocalypse story is the same thing: termination of everything we understand as our existence, with final judgment on humanity. We all know [evil](morality-evil.md) ought to be repaid, and that there's something waiting after this life.
 

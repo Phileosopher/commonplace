@@ -95,21 +95,23 @@ Our intuition is a valuable detection system for [risks](safety-riskmgmt.md), so
 - Avoid subscribing to new things.
 - Spend more time [working](success-4_routine.md) and less time [chatting](language-speaking.md) with others.
 
+And, if anything seems to have unusually high value or could be potentially useful, make sure to [commonplace it](https://stucky.tech/notes/).
+
 ## Fix 3: Mindfully sift
 
 We consume because we're trying to stay informed about a few domains:
 
 1. Large-scale events (e.g., natural disasters)
-2. The latest [trends](trends.md), especially when they're connected to [our industry](jobs-specialization.md).
+2. The latest [trends](people-trends.md), especially when they're connected to [our industry](jobs-specialization.md).
 3. Specific people we want to follow, such as our friends or celebrities.
 
 These each require a different approach:
 
-1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
-2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](people-decisions.md).
+1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](people-imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
+2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](mind-decisions.md).
 3. Following people should never be unpleasant unless those people could create risks that we [may have to manage](safety-riskmgmt.md). Therefore, the experience should be a hobby, unless those people are simply the conduit for trends.
 
-The constant stream of data is valuable to us because it *sometimes* yields something we like, which can chain us to a gambling [addiction](addiction-substances.md) that risks our time and attention instead of money.
+The constant stream of data is valuable to us because it *sometimes* yields something we like, which can chain us to a gambling [addiction](addiction-substances.md) that sacrifices our time and attention instead of money.
 
 - The media industries advance this stream because they want you to stay casually inattentive to them (more time on their services means they make more money from [advertising](marketing.md)).
 - Work as hard as you can to attach whatever you're consuming to something legitimately practical.
@@ -117,7 +119,7 @@ The constant stream of data is valuable to us because it *sometimes* yields some
 
 Reading and watching content is *much* less effective than writing summaries.
 
-- While you don't need a [rigorous method](https://stucky.tech/method/), it's important to *do* something with that information to add any [meaning](meaning.md) to it.
+- While you don't need a [rigorous method](https://stucky.tech/method/), you must *do* something with that information to add any [meaning](meaning.md) to it.
 
 You must *enjoy* what you're consuming to pay attention to it.
 
@@ -128,7 +130,13 @@ Doing is faster than reading, and reading is faster than seeing.
 
 - Everything you consume should direct toward some type of [creative project](mind-creativity.md).
 
+The content length gives clues on how information-dense the subject will be.
+
+- If the content is short-form (e.g., 5-minute video, article), it will have far more information packed into it than a long-form equivalent (e.g., 1-hour video, book).
+
 If you wish to multitask, pair up mindless tasks whenever you can (e.g., listen to music or a lightweight podcast while doing something relatively repetitive like [household chores](home-housekeeping.md)).
+
+- Only use long-form content to multitask, since short-form will be so information-dense that you'll lose some of the information quality.
 
 However, do *not* pair thought-heavy tasks with anything else.
 
@@ -171,7 +179,7 @@ If you're recommending media to others, your journey will *not* be theirs:
 - You'll do a better job by [distilling the best parts for them](education.md), since people often don't have time or desire for reading or watching self-help, philosophy, or textbooks.
 - Keep your list very, very short and have a hidden extended list for the 2% who would care.
 
-*All* of this requires a specific type of humility: that [nothing is truly new](trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
+*All* of this requires a specific type of humility: that [nothing is truly new](people-trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
 
 ## Fix 5: Well-managed information
 
@@ -255,7 +263,7 @@ The language's tone can indicate many aspects of bias:
 
 - The article must adequately question its values and others, then point out potential flaws and complications with that particular view.
 - A content creator is typically paid to advance a particular perspective, so find out who pays them.
-- If you can, look at their past beliefs and projections, and whether they withstood the [fashions](trends.md) of that time (use an internet archive if you can).
+- If you can, look at their past beliefs and projections, and whether they withstood the [fashions](people-trends.md) of that time (use an internet archive if you can).
 - Examine *why* they're focusing heavily on one aspect or neglecting another aspect.
 
 If the perspective implies "unbiased facts", sharpen your instincts:
@@ -286,7 +294,7 @@ Typically, finding truth becomes increasingly hard when at least one side of a v
 
 - Usually, if there's "consensus" without much explanation, any contrasting views will be difficult to find.
 - To save energy, carefully consider if even *knowing* a competing viewpoint has any [use](purpose.md) to you.
-- If you're willing to wait 6 months not learning anything new about a topic, the [trends](trends.md) will typically have shifted, and the truth will slowly unveil itself.
+- If you're willing to wait 6 months not learning anything new about a topic, the [trends](people-trends.md) will typically have shifted, and the truth will slowly unveil itself.
 
 If you may need to know the opposing views, consider *both* of them.
 
@@ -295,7 +303,7 @@ If you may need to know the opposing views, consider *both* of them.
 
 ## Fix 7: Focus on known-good trends
 
-[New trends](trends.md) have a distinct pattern:
+[New trends](people-trends.md) have a distinct pattern:
 
 1. Destroy existing conventions via dominance in the public space.
 2. Overwhelm the public space to the point where everyone is tired of the trend.
@@ -311,7 +319,7 @@ So, this opens up a new set of constraints:
 2. When creating, aim for the style of proven trends, with [your creative spark](mind-creativity-how.md) guiding the rest.
 3. All other aspects being equal, prioritize older things over newer things.
 
-Some people may disagree with these ideas, but everything is a remix, and nothing is truly "new". If they would rather not admit that connection, they're probably a [technical idiot](https://gainedin.site/idiot/) and could stand to [integrate their shadow](personality.md) a bit.
+Some people may disagree with these ideas, but everything is a remix, and nothing is truly "new". If they would rather not admit that connection, they're probably a [technical idiot](https://gainedin.site/idiot/) and could stand to [integrate their shadow](people-personality.md) a bit.
 
 ## Fix 8: Stay practical
 
@@ -331,7 +339,7 @@ For myself, I also have a few dogmatic rules to avoid unproductive information:
 2. Truth won't contradict itself later, though it may be imprecise and need clarifications later. It's a reliable truth if its broad-sweeping practical implications don't change.
 3. No matter the truth, *someone* in the room will disagree, and that [conflict](people-conflicts.md) has two productive uses:
    - The extra hardship against the assertion will burn off the citation. Mussolini, Kennedy, Joseph Stalin, and Gandhi all had valid points.
-   - The conflict sheds light on the relative [power](power.md) of the individuals holding that view. This is highly useful to see how soon [trends](trends.md) about [taboo topics](morality-taboo.md) will shift.
+   - The conflict sheds light on the relative [power](power.md) of the individuals holding that view. This is highly useful to see how soon [trends](people-trends.md) about [taboo topics](morality-taboo.md) will shift.
 4. The highest form of meaningful living requires [love for others](people-love.md), which considers others' interests equally with one's own. Love focuses equally on the truth and the individuals' [feelings](mind-feelings.md) about that truth.
 5. [Agrippa's Trilemma](philosophy-paradoxes.md) means the place for truth isn't self-referenced and is inherently a religious matter. We [fight and kill](people-conflicts-war-why.md) over where that information resides, but the only solution (albeit not very reliably) is to incorporate love.
 6. We learn most things through trial-and-error before they're "[known good](https://adequate.life/fix/)", so there will be many screwups along the way. It does save tons of effort to know *what* is deductively true (Rule 1), but nobody will agree on it (Rule 3).
@@ -347,7 +355,7 @@ Most information is a waste of time, but don't sift out *valuable* information:
 The entire end of this, after all, is to add [meaning](meaning.md) to life:
 
 - The absence of information allows us to manufacture high-quality [stories](stories-why.md).
-- Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](imagination.md).
+- Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](people-imagination.md).
 - We need boredom to find [creativity](mind-creativity.md).
 
 Occasionally, it simply makes sense to release *all* of it and [have fun doing something else](fun.md) or [take a vacation](fun-vacations.md).

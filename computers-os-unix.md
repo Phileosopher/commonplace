@@ -11,7 +11,7 @@ Unix was an [operating system](computers-os.md) made by AT&T in 1969. However, A
 
 Later, once AT&T spun off Bell Labs, Bell was free to sell a proprietary license of Unix in 1984, but the damage to AT&T's potential hold on the market had already been done. Unix's source code was effectively public and legal to use.
 
-In 1983, Richard Stallman created the GNU Project, which aimed to create an entire Unix-compatible software system made of nothing but [free software](legal-ip-floss.md). GNU stands for "GNU is Not Unix", which is a [programmer joke](humor-cs.md) about [recursions](computers-programming.md), and he wrote [the GNU Manifesto](https://www.gnu.org/gnu/manifesto) to rally support for a completely free operating system.
+In 1983, Richard Stallman created the GNU Project, which aimed to create an entire Unix-compatible software system made of nothing but [free software](legal-ip-floss.md). GNU stands for "GNU is Not Unix", which is a programmer joke about [recursions](computers-programming.md), and he wrote [the GNU Manifesto](https://www.gnu.org/gnu/manifesto) to rally support for a completely free operating system.
 
 Many of the programs for a fully-functioning Unix "clone" were completed by the early 1990s ([libraries](computers-programming.md), [compilers](computers-compilers.md), [text editors](computers-software-ide.md), a [command-line shell](computers-cli.md), and a [windowing system](engineering-graphics.md)). However, the lower-level elements like device drivers, daemons, and the kernel were incomplete.
 
@@ -84,7 +84,7 @@ Some are designed for specific hardware:
 - [Steam OS](https://store.steampowered.com/steamos/) powers Steam gaming platform machines
 - [antiX](https://antixlinux.com/) is designed specifically to run well on older computers
 
-If you have the patience and time, as well as the [marketing](marketing.md) acumen to [gain adoption](trends.md), you could make your *own* GNU/Linux distro.
+If you have the patience and time, as well as the [marketing](marketing.md) acumen to [gain adoption](people-trends.md), you could make your *own* GNU/Linux distro.
 
 - In fact, for educational reasons, you could simply [make it yourself from scratch](https://www.linuxfromscratch.org/).
 

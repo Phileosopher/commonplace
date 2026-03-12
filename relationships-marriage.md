@@ -6,7 +6,7 @@ In healthy marriages, both spouses make tremendous sacrifices for each other:
 - From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-friends.md) and learning to [love](people-love.md).
 - Your relationship *can* be [fun](fun.md), but it also comes with responsibilities.
 - Whenever possible, stay emotionally supportive and available for them.
-- Respect them and their [decisions](people-decisions.md), even when they're not around.
+- Respect them and their [decisions](mind-decisions.md), even when they're not around.
 - Their advice and input must be important to you somehow, or the relationship needs to change.
 
 All relationships build on trust:
@@ -25,7 +25,7 @@ Intimacy is a holistic connection of several interconnected domains where we don
 2. Emotional intimacy - discussing [feelings](mind-feelings.md)
 3. Social intimacy - discussing time spent apart with others
 4. Physical intimacy - sharing your body, all the way up to [sex](relationships-sex.md)
-5. Spiritual intimacy - sharing your [soul](humanity.md) and [spirituality](humanity-christian.md) with them
+5. Spiritual intimacy - sharing your [soul](humanity.md) and [spirituality](theology-godandman-humanity.md) with them
 
 Routinely express your love for them how *they* prefer it, not you:
 
@@ -83,7 +83,7 @@ Build daily and weekly [rituals](habits.md) that include your partner, even if t
 
 Don't compare your relationship:
 
-- Everyone has their own unique experiences and had to make their own [decisions](people-decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
+- Everyone has their own unique experiences and had to make their own [decisions](mind-decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
 - Unless you're trying to improve yourself, comparing your relationship to others' is a terrible idea.
 - Most people will compare their relationship to yours, but that's *their* [misery](mind-feelings-happiness.md) they need to work through.
 
@@ -146,7 +146,7 @@ By living together, conflicts intensify:
   - Buying gifts, [sending letters](language-writing.md), arranging social activities
   - [Automotive maintenance and repairs](autos.md) and [home renovations](home-decorations.md)
 - Designate specific household tasks to the one who finds it least unpleasant.
-  - Traditional [gender roles](gender.md) are useful for assigning the many tasks for running a household, then reassigning based on each person's [personality](personality.md).
+  - Traditional [gender roles](gender.md) are useful for assigning the many tasks for running a household, then reassigning based on each person's [personality](people-personality.md).
   - Routinely revisit those designations, especially if a chore stays unfinished.
   - Make a "honey do list" for each other to complete.
 - Differences in religious, political, and philosophical have far-reaching effects on your relationship.
@@ -176,7 +176,7 @@ Your spouse will affect how you think:
 - Since you're sharing their life, your life experience slowly merges with theirs:
   - Triumphs and efforts
   - [Injuries and recoveries](hardship.md)
-  - [Emotional and mental world](imagination.md)
+  - [Emotional and mental world](people-imagination.md)
   - [Purposes](purpose.md) and [legacy](legacy.md)
   - Future desires
 - All your shared experiences and changes mean you will talk and think similarly after decades of marriage.

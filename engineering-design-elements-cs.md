@@ -56,7 +56,7 @@ One tiny and important detail is to never use straight black (i.e., #000000), wh
 - The entire interface should use sustained colors, typically gray, with (usually) black text and important elements using distinctive palette colors.
   - Make the elements distinctively contrasted in color from each other.
 
-Shadows are dark edges around the element to make the interface feel three-dimensional. They tend to vacillate with [social fashions](trends.md) with an attempt to make everything look three-dimensional:
+Shadows are dark edges around the element to make the interface feel three-dimensional. They tend to vacillate with [social fashions](people-trends.md) with an attempt to make everything look three-dimensional:
 
 - Sometimes they're "drop shadows" that fade, in the past they were "gradients", and are defined by a blur value. Generally, heighten the blur to give the illusion that it's nearer.
 - Light implies nearer, and dark implies farther.
@@ -65,7 +65,7 @@ Shadows are dark edges around the element to make the interface feel three-dimen
 
 ## Object selections
 
-A user needs *much* more information from computers than most products to make their [decisions](people-decisions.md):
+A user needs *much* more information from computers than most products to make their [decisions](mind-decisions.md):
 
 - The user's social feedback systems should reflect habitual prompts we perform in our daily life ("like" buttons, comment boxes, "share" buttons).
 - Use one primary button per page (e.g., "Next"), with secondary buttons have a more subdued presence.

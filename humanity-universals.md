@@ -13,13 +13,13 @@ Aesthetics
 
 - We concern ourselves with the function and [appearance](people-image-why.md) of things, then assign graded [qualities](values-quality.md) to them.
 - We create captured [images](people-image-why.md) of [reality](reality.md), repetitive elements like music and poetry, and written or spoken [stories](stories-why.md).
-- This aesthetic bleeds into our sense of [identity](identity.md), and we adorn ourselves with clothing, [icons](symbols.md), hair fashions, and piercings that reflect it.
+- This aesthetic bleeds into our sense of [identity](people-identity.md), and we adorn ourselves with clothing, [icons](symbols.md), hair fashions, and piercings that reflect it.
 
 Affection
 
 - We send and receive [affection](mind-feelings.md), often as expressions of [love](people-love.md).
 - We use endearing terms like nicknames and recognize people by their faces.
-- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](imagination.md) them to [coexist](people-boundaries-why.md).
+- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](people-imagination.md) them to [coexist](people-boundaries-why.md).
 - We constantly redirect that [attachment](people-love.md) to others towards things that [represent](symbols.md) human-like traits, as well as to strangers.
 
 Amusement
@@ -29,7 +29,7 @@ Amusement
 
 Change
 
-- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](trends.md), which frequently reflect in our [identity](identity.md) and [priorities](people-decisions.md).
+- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](people-trends.md), which frequently reflect in our [identity](people-identity.md) and [priorities](mind-decisions.md).
 - While we can't easily see these changes minute-by-minute, everyone changes slowly across years and decades.
 
 Comparisons
@@ -48,24 +48,24 @@ Conflicts
 
 Companionship
 
-- We all need [friends](people-friends.md), even if they're non-human or merely in our [imagination](imagination.md).
+- We all need [friends](people-friends.md), even if they're non-human or merely in our [imagination](people-imagination.md).
 - Consuming [stories](stories-why.md) or [religious](religion-answers.md) devotion frequently serves as a reliable proxy for friendship.
 
 Conscious/Subconscious
 
 - We're all ridiculously [unaware](awareness.md) of most of our thoughts.
-- Somewhere in the mix of it, we have a [soul](humanity.md) that makes [decisions](people-decisions.md).
+- Somewhere in the mix of it, we have a [soul](humanity.md) that makes [decisions](mind-decisions.md).
 
 Decisions
 
-- We all make decisions based on an elaborate [calculation](people-decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
+- We all make decisions based on an elaborate [calculation](mind-decisions.md) that includes managing [power](power.md) and what we [love](people-love.md).
 - We tend to hand those decisions to more powerful people as we conform to [group](groups-member.md) [standards](people-culture.md).
 
 Denying Death
 
 - We know we're going to die, but we don't talk or think about it [routinely](habits.md).
 - We tend to [associate](symbols.md) diseases with death.
-- Generally, our [beliefs](understanding-certainty.md) about diseases and [how to live](goodlife.md) involve [extending life](religion-answers.md) or [transcending it](legacy.md).
+- Generally, our [beliefs](understanding-certainty.md) about diseases and [how to live](people-goodlife.md) involve [extending life](religion-answers.md) or [transcending it](legacy.md).
 - We always [mourn](hardship-death.md) when we experience the death of those we [love](people-love.md).
 
 Dreams
@@ -76,7 +76,7 @@ Dreams
 
 Expectations
 
-- We're *constantly* looking to the future to [predict, expect, and plan](imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
+- We're *constantly* looking to the future to [predict, expect, and plan](people-imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
 - We build [traditions](people-culture.md) with others around consistent [patterns](symbols.md).
 - We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](results.md) a certain way.
 - Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
@@ -114,7 +114,7 @@ Food
 
 - Everyone loves [eating](fun-food.md) and [prefers](humanity.md) certain foods, especially sweets.
 - We work to constantly improve that experience through [cooking](cooking.md).
-- We're accustomed to [rituals](habits.md) around mealtime, [identify](identity.md) with it, and share the experience with others.
+- We're accustomed to [rituals](habits.md) around mealtime, [identify](people-identity.md) with it, and share the experience with others.
 
 Gender Roles
 
@@ -142,14 +142,14 @@ Humor
 
 Identity
 
-- We [connect ourselves](identity.md) to a self-created [image](people-image-why.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
+- We [connect ourselves](people-identity.md) to a self-created [image](people-image-why.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
 - We often manipulate that [image](people-image-why.md) of ourselves as our [understanding](understanding.md) changes.
 
 Image
 
 - We maintain an [appearance](people-image-why.md) that's different from [reality](reality.md).
 - We frequently [embellish our image](people-image-distortion.md) by [lying](people-lying.md), accumulating/flaunting possessions, and false modesty.
-- Further, we'll judge others by our [values](values.md), [expectations](imagination.md), and [conceit](morality-evil.md).
+- Further, we'll judge others by our [values](values.md), [expectations](people-imagination.md), and [conceit](morality-evil.md).
 
 Imagination
 
@@ -164,7 +164,7 @@ Logic
 
 Math/Measuring
 
-- We group [values](values.md) into homogeneous things, then start calculating and [predicting](imagination.md) with them.
+- We group [values](values.md) into homogeneous things, then start calculating and [predicting](people-imagination.md) with them.
 - Beyond presuming that time exists with a past, present, and future, we also evenly divide it for our [purposes](purpose.md).
 - We do this for distance, time, weight, movement, and increments.
 
@@ -195,7 +195,7 @@ Pain
 Power
 
 - We all consider how much [power](power.md) we have compared to others.
-- This power dramatically determines the [decisions](people-decisions.md) we make.
+- This power dramatically determines the [decisions](mind-decisions.md) we make.
 - The few end up ruling the many as a type of pyramid, which frequently [goes corrupt](mgmt-badsystems.md).
 
 Preferences
@@ -243,7 +243,7 @@ Social Structures
 
 - We have a [bias](mind-bias.md) toward our [children](parenting-children.md) and [family](people-family.md).
 - Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
-- While we'll still [identify](identity.md) as separate beings, we'll also identify as part of that group.
+- While we'll still [identify](people-identity.md) as separate beings, we'll also identify as part of that group.
 - We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
 - We give permanent [statuses](people-image-why.md) to people in that group for their [achievements](results.md), which become [types of power](power-types.md).
 - The group, as a whole, all shares a vague [value](values.md) that separates "in the group" from "outside the group" things and people.
@@ -261,7 +261,7 @@ Stories
 
 Substance Habituation
 
-- If we ever use something to the point of excess, we'll receive a [diminishing return](people-decisions.md) from it.
+- If we ever use something to the point of excess, we'll receive a [diminishing return](mind-decisions.md) from it.
 - Frequently, we'll get drawn into that excess and become [addicted](addiction.md).
 
 Supernatural
@@ -289,7 +289,7 @@ Vagueness
 
 - We don't generally like vague or [uncertain](understanding-certainty.md) things, especially if they might make us [unsafe](safety.md).
 - For the sake of [image](people-image-why.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](understanding.md), we often keep things vague inside ourselves.
-- This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](imagination.md).
+- This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](people-imagination.md).
 - To avoid vagueness, we [explain](logic.md) things to ourselves and others.
 
 Values
@@ -304,7 +304,7 @@ Values
   - [Social status](people-image-why.md)
 - Our separations start as binary distinctions, then divide further as we gain [maturity](maturity.md).
 - We form [words](language.md) for every one of these categories as we [understand](understanding.md) them.
-- We tend to [imagine](imagination.md) everyone else thinks the way we do.
+- We tend to [imagine](people-imagination.md) everyone else thinks the way we do.
 
 Violence
 

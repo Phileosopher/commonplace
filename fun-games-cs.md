@@ -124,7 +124,7 @@ Somewhere starting around 2009, most of the games started developing *huge* worl
 - Role-Playing (e.g., Dragon Age: Origins)
   - Action Role-Playing (e.g., Demon's Souls)
 
-Somewhere before 2010, game innovation had peaked its [trend](trends.md).
+Somewhere before 2010, game innovation had peaked its [trend](people-trends.md).
 
 From about 2010 and onward, almost all the new games became either high-budget "AAA games" or smaller-scale "indie games".
 
@@ -135,25 +135,28 @@ AAA games throw a *ton* of budget behind games they expect will safely sell, typ
   - Endless Customization! - add hundreds of useless features to the starting character interface
   - X Hours of Gameplay! - spread out the world with tons of relatively empty space to travel through
   - Character Progression! - add an incrementing bar that slowly leveled up, even if it didn't materially change the experience for the player
-- Since 2010, most popular games have been AAA, and the genres have been hybridized to the point that a genre is simply for marketing purposes:
-  - Platformer (e.g., Super Mario Galaxy 2, Super Mario Odyssey)
-    - Puzzle-Platformer (e.g., Portal 2)
-  - Action-Adventure/Open-World (e.g., God of War III, Red Dead Redemption, Batman: Arkham City, Grand Theft Auto V, The Last of Us, Uncharted 4, Legend of Zelda: Breath of the Wild, God of War remake, Red Dead Redemption 2)
-    - Stealth (e.g., Dishonored, Dishonored 2)
-    - Third-Person Shooter (e.g., Fortnite)
-  - Adventure/Narrative (e.g., Heavy Rain, The Walking Dead)
-  - First-Person Shooter (e.g., Borderlands 2, Far Cry 3, Bioshock Infinite, Destiny, Overwatch)
-  - Role-Playing (e.g., Fire Emblem Awakening)
-    - Action Role-Playing (e.g., Mass Effect 2, Xenoblade Chronicles, Dark Souls, Elder Scrolls V: Skyrim, Bloodborne, The Witcher 3)
-  - Strategy (e.g., Civilization V, Starcraft II, XCOM: Enemy Unknown)
-  - Sports (e.g., Rocket League)
-  - Fighting (Super Smash Bros. Ultimate)
-  - Rhythm (e.g., Rock Band 3)
-  - MOBA (e.g., Dota 2)
-  - Collectible Card Games (e.g., Hearthstone)
 
-Indie games, by contrast, are made by no more than a few dozen developers, but always less than 50 or so:
+Since 2010, most popular games have been AAA, and the genres have been hybridized to the point that a genre is simply for marketing purposes:
 
+- Platformer (e.g., Super Mario Galaxy 2, Super Mario Odyssey)
+  - Puzzle-Platformer (e.g., Portal 2)
+- Action-Adventure/Open-World (e.g., God of War III, Red Dead Redemption, Batman: Arkham City, Grand Theft Auto V, The Last of Us, Uncharted 4, Legend of Zelda: Breath of the Wild, God of War remake, Red Dead Redemption 2)
+  - Stealth (e.g., Dishonored, Dishonored 2)
+  - Third-Person Shooter (e.g., Fortnite)
+- Adventure/Narrative (e.g., Heavy Rain, The Walking Dead)
+- First-Person Shooter (e.g., Borderlands 2, Far Cry 3, Bioshock Infinite, Destiny, Overwatch)
+- Role-Playing (e.g., Fire Emblem Awakening)
+  - Action Role-Playing (e.g., Mass Effect 2, Xenoblade Chronicles, Dark Souls, Elder Scrolls V: Skyrim, Bloodborne, The Witcher 3)
+- Strategy (e.g., Civilization V, Starcraft II, XCOM: Enemy Unknown)
+- Sports (e.g., Rocket League)
+- Fighting (Super Smash Bros. Ultimate)
+- Rhythm (e.g., Rock Band 3)
+- MOBA (e.g., Dota 2)
+- Collectible Card Games (e.g., Hearthstone)
+
+Indie games, by contrast, are made by no more than a few dozen developers, but almost always less than 50 or so:
+
+- Sometimes, only *one* person makes the game!
 - The limited budget meant the games were [meaningful](meaning.md), but comparatively short.
 - Limited marketing resources also meant the game didn't stand out among the other developers, making it hard to find unless the developer was lucky.
 - Some of them have persisted alongside AAA games, however:

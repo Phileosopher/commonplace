@@ -77,11 +77,11 @@ Satellite [cameras](engineering-camera.md) are designed somewhat differently tha
 There are *many* useful implementations for satellite imagery over other domains, such as drones:
 
 - Firefighting - infrared imaging can detect precise locations of wildfires.
-- [Livestock](agriculture.md) - infrared imaging can detect animal movements.
+- [Livestock](livestock.md) - infrared imaging can detect animal movements.
 - Pipeline operators - consistent imaging can detect incursions into right-of-way zones.
 - [Insurance](money-insurance.md) - historical imaging can help investigations into fraudulent claims.
 - Retail investment - historical imaging can predict future profitability based on parking lot fullness
-- [Farm](horticulture.md) investment - historical imaging can predict crop yield before farmers report it
+- [Farm](plants.md) investment - historical imaging can predict crop yield before farmers report it
 - Government - imaging can track human trafficking, find illegal fishing activities, track criminals, and find insurgent/revolutionary groups
 - Not-for-profits - images can address large-scale human rights violations, draw attention to damages caused by [war](people-conflicts-war-why.md), and monitor oil spills
 
@@ -96,6 +96,8 @@ When the orbit is *very* low, a geomagnetic storm may hit some satellites and da
 Like all other spacecraft, satellites are expensive to launch. This would only be remediated if we had an easier way to get into space.
 
 Man-made satellites become space junk when they're done. While they don't individually represent any particular threat, their trajectories may potentially collide with future satellites (especially in LEO), and can [clutter up observation of other celestial objects further out](https://www.caltech.edu/about/news/palomar-survey-instrument-analyzes-impact-of-starlink-satellites).
+
+- In fact, this is a theoretical projection called the "Kessler syndrome", where space junk crashes into satellites in a cascade to exponentially create more space junk. This would make projected satellite lifespans increasingly smaller, adding more space junk to the situation.
 
 When LEO satellites re-enter Earth's atmosphere, they'll burn up. The debris [will *typically* burn up completely in a high-velocity cremation](https://www.space.com/6349-satellites-fall.html), but there are other possibilities we haven't experienced yet.
 

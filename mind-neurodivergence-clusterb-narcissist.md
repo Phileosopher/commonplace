@@ -3,7 +3,7 @@
 
 Narcissism is a unique perspective that represents a dualistic paradox of worthlessness and entitlement.
 
-1. They conclude and closely [identify](identity.md) as a victim of their circumstances.
+1. They conclude and closely [identify](people-identity.md) as a victim of their circumstances.
    - "Life is unfair."
    - "I wasn't taught the right lessons in life."
    - Nobody ever gives me a chance."
@@ -32,7 +32,7 @@ Narcissism has two major forms and some sub-forms:
 - Overt/extroverted narcissism is a public image of grandiosity and magnanimity, with a feeling of emptiness that represents as rage and resentment when they don't get what they want.
   - Antagonistic narcissism focuses more on rivalry and competition.
   - Communal narcissism focuses on drawing people together over moral outrage, even while oblivious to their own shortcomings in that domain.
-- Covert/introverted narcissism is a public image of shame and self-hatred, but there is a feeling of entitlement they secretly believe they deserve.
+- Covert/introverted/fragile narcissism is a public image of shame and self-hatred, but there is a feeling of entitlement they secretly believe they deserve.
   - Malignant narcissism captures more antisocial behaviors such as sadism, revenge, aggression, and paranoia.
 
 Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](religion.md) are highly influential narcissists.
@@ -42,16 +42,27 @@ Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](rel
 The narcissist personality is a Cluster B who has completely internalized their [anger](mind-feelings-anger.md).
 
 1. The anger develops an entitlement mindset that implies they deserve much more substantial treatment than they're receiving.
+   - The story they believe in their mind is that everyone is secretly envious or jealous of them.
 2. Their entitlement boils over into narcissistic behaviors as an attempt to regain control of their life.
-3. When confronted to [change](people-changes.md) for the better, they lapse again into victimhood, perpetuating the [cycle of worthlessness and anger](mind-neurodivergence-clusterb.md).
+3. They will feel a sense of [meaning](meaning.md) through successfully manipulating people.
+   - That manipulation will be the [good faith](people-contracts.md) of others, but the narcissist will mistake that manipulation as their cleverness or intelligence.
+4. When confronted to [change](people-changes.md) for the better, they lapse again into victimhood, perpetuating the [cycle of worthlessness and anger](mind-neurodivergence-clusterb.md).
+
+Behind the anger, their dominant motivation is [anxiety](mind-feelings-fear.md).
+
+- They're caught between two competing and incompatible motivations:
+  1. The perceived need for human connection.
+  2. The perceived need that they must release their pent-up anger, sadness, and unease.
+- Because of this, they're constantly waiting for the eventual end of every favorable social experience and for people to reject them.
+- All of their thoughts, feelings, and behavior is a direct reaction to that anxiety.
 
 Their inappropriate behavior will create a loop over time:
 
-1. An action performed in anger, which will often be a [sin](morality-sins.md) against someone.
+1. An action performed in anger, which will often be a [sin](morality-justice.md) against someone.
 2. Unconscious, repressed guilt over that action's consequences.
 3. Through not being [self-aware](awareness.md), the unresolved guilt becomes [shame](mind-feelings-shame.md).
 4. That guilt arises later from another experience (often from those consequences or someone else triggering them).
-5. Generalized rage, directed toward the trigger of the shame.
+5. Generalized rage, directed toward the trigger of the shame ("narcissistic rage").
 6. Go back to Step 1.
 
 If they were being bluntly honest, they'd say the following:
@@ -61,249 +72,45 @@ If they were being bluntly honest, they'd say the following:
 3. "It seems like everyone is out to get me when they try to shut it down."
 4. "I do know what's best, so why can't everything just go my way so I can be free to have my tantrum?"
 
-The nature this means anyone with a [Cluster B personality](mind-neurodivergence-clusterb.md) can become NPD if they have unresolved anger.
+The nature of this means anyone with a [Cluster B personality](mind-neurodivergence-clusterb.md) can become NPD if they have unresolved anger, and it's entirely possible that narcisstic behavior can lead to a narcissistic personality as well over time.
 
-## The primary indicator
+## The primary indicator of narcissism
+
+The one trait of a narcissist is denial.
+
+- They have learned to survive emotionally by living in constant denial of their moral state.
+- To compensate for the missing information, their subconscious fabricates a fantasy story about themselves that makes them either the hero or the victim, but never the antagonist.
 
 More than anything else, they are completely unwilling to admit fault in any error.
 
 - This creates the side effect that they simply never learn from their mistakes or change in any meaningful way.
 - Most of their changes will be the improvement of skills and increased [cleverness](mind-creativity.md) in hiding their flaws.
 
+Sometimes, they can circle around to admitting fault through a collective [moral assertion](morality.md), often with a [religious](religion.md) framing (e.g., "we are all sinners in God's eyes").
+
+- This mindset, however, never places them as worse in any capacity than anyone else.
+
 They are continuously preoccupied with getting others to attend to them, pay attention to them, spend time with them, etc. ("narcissistic supply").
 
 - Their core goal is to see you react to them in some way, which gives them validation that they have made a difference in something.
 - Their solution for feeling out of control will be to try exerting [some form of control](power-types.md) over others.
 
-## Context-sensitive indicators
-
-When pushed to it, they will only admit fault in a partial way:
-
-- "Everyone has done wrong here."
-- "I was distracted/busy with something else/occupied."
-- "They were asking for it."
-
-The tricky reality is that narcissists don't want to be found out, so it's not always easy to detect them.
-
-Direct boredom with others' interests, thoughts, or feelings that don't involve them.
-
-- The only time they'll pay attention is when it corresponds to their interests.
-- Most of the time, they'll stonewall but won't express their disinterest because they know it'll sabotage their ability to get narcissistic supply.
-
-Since the world hasn't given them what they want for a long time, and they have tremendous [anger](mind-feelings-anger.md) over it.
-
-- This will give them an unwavering crease in the center of their forehead.
-- Their qualities become worse as they lose the ability to manipulate people (first physically as they age, then mentally/emotionally as the [stress](mind-feelings-happiness-stress.md) wears on them).
-
-Higher likelihood of fake smiles or no smiles at all.
-
-Many of them use [lying](people-lying.md) to maintain their state of mind and lifestyle, often to the point of compulsive lying.
-
-They will tend to escalate [conflicts](people-conflicts.md) from simple disagreement into arguments *much* faster than most other people.
-
-They tend to gravitate toward open, inviting social environments where people are less likely to judge someone's outward appearance (e.g., [church](church.md)).
-
-- To earn admiration, they'll behave kind, humble, and spiritual.
-  - While they openly virtue signal love and forgiveness, they'll secretly gossip and judge others.
-- To feed their sense of self, they'll seek validation from pastors and church members.
-- To gain status and control, they'll happily volunteer or lead events.
-- They'll frequently misuse [Scripture](bible.md) to justify their actions or silence others' disagreements.
-- The greatest irony when they're in a Christian church is that they're part of [a social group devoted to publicly acknowledging and repenting from all their sins](https://theologos.site/gospel/).
-
-If you suspect narcisssistic behavior:
-
-- Ask them what their greatest regret is, their insecurities, or their weaknesses.
-- Ask them why they feel they have the right to something.
-- If they say many things that are hard to follow in a conflict, candidly ask them what their goal is for that conflict.
-
-## The stages of narcissistic psychological warfare
-
-There are eight predictable stages every victim will experience with a narcissist.
-
-- The length and severity of these stages are highly dependent on how the victim responds to them.
-
-It's worth noting that most narcissists are *not* actively aware of these stages, though they are often aware of the [moral](morality.md) consequences of what they're doing to their victims.
-
-### 1. Indoctrination
-
-They construct a false persona designed to reflect the victim's preferences ("love-bombing").
-
-- They make elaborate promises about the future.
-- They initiate premature intimacy ("sex-bombing").
-- They isolate the victim from outside perspectives.
-
-All of this happens before the abuse starts.
-
-- At this stage, this person is truly wonderful, and if the impression were true, they'd be a wonderful life partner, business partner, employee, church leader, etc.
-- The only indication at all about the risks beyond this is through small elements of [testing boundaries](people-boundaries.md).
-
-The victim will have to be [street smart enough](safety-streetsmart.md) to pick up the alienating cues amidst the charm.
-
-- Depending on the narcissist's experience, they'll push past the limits of their victim, then see how much the victim will accept their not-quite-apology.
-- This, sadly, often requires that a victim had gone through the stages of narcissism with someone else.
-
-Key indicators of possible narcissism in a casual setting:
-
-- Unusually dark humor
-- Unusually rapid intensification of a [friendship](people-friends.md) (though may be [ASD](mind-neurodivergence-autism.md))
-- Tendency to dominate conversations (though may be [ASD](mind-neurodivergence-autism.md))
-- Inability to graciously take a joke at their expense
-- Discrepancy between the appearance and actions of kindness (e.g., friendly at a party, but takes the last piece of something)
-- Humble-bragging (i.e., [stories](stories.md) that sound self-deprecating but promote them in some way)
-
-### 2. Psychological breakdown
-
-They become emotionally unavailable.
-
-- They start becoming more distant and cold toward the victim.
-- At this point, they'll start making the victim think they're crazy ("gaslighting").
-
-This experience will be so severe that the victim will question their sanity.
-
-- "I must be doing something wrong to make them behave this way."
-- "I remember what I saw, but I can't be sure since they said it wasn't."
-
-The victim will resist this to the degree they can maintain their hold on [reality](reality.md) and their [identity](identity.md).
-
-- A huge portion of this reality is through others' support, but the previous stage drove others out already.
-- This can also be resisted if they have a [spiritual identity](identity-christian.md) where they know they're loved.
-
-### 3. Psychological enslavement
-
-They systematically create dependency across all domains of the victim's life:
-
-- Neurological: they've provoked bonding that feels like an [addiction](addiction.md) to the victim through cycles of terror and relief ("trauma bonding")
-- Emotional: they are the victim's only source of [emotional](mind-feelings.md) validation
-- Financial: they take control of all the victim's [money](money-3_budget.md)
-- Practical: they have control over the victim's home
-- Social: they removed the victim's support system
-- Psychological: they've made the victim no longer trust their own mind
-
-The effectiveness of this all depends on the talent and desire of the narcissist.
-
-- Most of the time, it isn't a totality of control, but they'll continually exercise [shame](mind-feelings-shame.md) over any control the victim refuses to give up.
-
-The victim's ability to disregard shame and [set good boundaries](people-boundaries.md) determines how well they'll resist this stage.
-
-- The only way they set good boundaries, though, comes through how much of reality that they can accept, which was at least partly dismantled in the previous stage.
-- Without boundaries, they'll see their abuser as both their threat and safety, which will override rational decision-making.
-
-### 4. Mental reprogramming
-
-They rewrite the victim's entire perception of reality by [influencing](power-influence.md) the other person toward falsehoods ("neurological battery"):
-
-- The victim deserves mistreatment.
-- The narcissist is the victim.
-- The victim has no other options.
-
-The victim effectively sees the narcissst as the only decider of truth.
-
-This only works to the effect that the narcissist has them alone without competing views.
-
-- Often, [education](education.md) and casual [friends](people-friends.md) can deter this, but the victim may have [habituated](habits.md) away from those experiences.
-
-### 5. Psychological punishment
-
-While it happened subtly before, the narcissist ramps up the [conditioned response](habits.md) they had done:
-
-- The trigger happens whenever the victim tries to set a good boundary:
-  - Ignore their influence
-  - Assert independence
-  - Resist their behaviors
-  - Set boundaries
-- The mechanism is systematic psychological violence designed to break them down:
-  - Rage, threats, or violence
-  - Silent treatment
-  - Financial retaliation
-  - Threats to the victim's children
-  - Sexual coercion
-  - Public humiliation
-- The narcissist's desired result is for them to admit that resistance isn't worth the effort.
-
-The only way this ends is through several awful possibilities:
-
-1. Full submission and acceptance, which moves to the next stage.
-2. Full rebellion through narcissistic behavior thrown back at them, which leads to Stage 2 again, but with further shame to break them down as "the real abuser".
-3. Direct intervention by a third party or [severe hardship](hardship.md).
-
-### 6. Psychological submission
-
-The victim has now accepted that setting good boundaries or resisting the narcissist's [influence](power-influence.md) is impossible ("psychological homicide").
-
-- It becomes learned helplessness.
-- At this point, the victim has been stripped of all [identity](identity.md) and [meaning](meaning.md) and sees their entire existence as being the fulfillment of the narcissist.
-
-This persists as long as the victim fulfills the narcissist's supply.
-
-Sadly, the [personality](personality.md) of the victim determines whether it moves to the next stage or ends in something violent (e.g., murder, suicide, murder-suicide).
-
-### 7. Psychological captivity
-
-This is a holding pattern with the narcissist and victim:
-
-- The victim will become increasingly distraught over this arrangement, but will persist in it while feeling trapped.
-- The narcissist, however, is satisfied but feels they're losing control.
-
-Any time the narcissist feels dissatisfied with their supply, they'll simply cycle back to earlier stages:
-
-1. Reinforce kindness to give hope.
-2. Constant gaslighting to prevent them from discovering the truth.
-3. Removing their support to prevent them from fleeing.
-4. [Lying](people-lying.md) to maintain their [consent](people-contracts.md).
-5. Punishment to keep them submissive.
-
-Assuming the victim doesn't respond with the rebellion in Stage 5, the victim will slowly gain wisdom about their narcissist.
-
-1. They'll start giving up hope that the narcissist will ever change.
-2. They'll discover truths that make the narcissist's gaslighting ineffective.
-3. They'll experience the rest of the world enough that they'll push against the narcissist's effort to shut them out.
-4. They'll see the narcissist's lies for what they are.
-5. They'll see the punishment in the context of the manipulation that drives it.
-
-When the narcissist sees they're losing [influence](power-influence.md) that can't be regained, they'll move to the final stage.
-
-### 8. Destruction and erasure
-
-The narcissist will systematically destroy and discard their victim when they're done with them.
-
-This is very effective because of the skills to [appear](people-image.md) charming and attractive mentioned in the first stage.
-
-- They will retell the events of an experience, but will rearrange or omit a few details to make them the hero or victim.
-- Their [stories](stories-why.md) will be compelling, especially since they are often self-deluded into believing their version of the story.
-- When adverse events *do* factually occur, they are very good at [advertising](marketing.md) their victimhood by embellishing the truth.
-
-The cruelty of their disposing is relentless.
-
-- Most of it is because they tremendous [anger](mind-feelings-anger.md) at their victim not giving them what they want, and blame the victim for it.
-- They will try to destroy absolutely everything of their victim to maximize the destruction they can cause.
-  - This is their attempt to feel some sense of importance, even in their absence ("I know they won't forget about me now!").
-- This will include every relationship, resource, and even the victim's sense of reality.
-
-If the narcissist is particularly intelligent, they can exploit behaviors in their victims to justify their intentional absence:
-
-- Prodding their victims to yell, act out, or otherwise misbehave.
-- Provoking their victims to domestic violence.
-- Using a [politically advantageous demographic](politics-leftism.md) for their benefit (e.g., leveraging being [a female](gender.md) or African American).
-
-### Recap
-
-To put in very unsophisticated terms:
-
-1. They look nice.
-2. They gaslight you.
-3. They make you depend on them.
-4. They make themselves God to you.
-5. They punish you for resisting.
-6. You give up.
-7. They keep at it until you wake up.
-8. They ghost you.
+However, there are [many more indicators](mind-neurodivergence-clusterb-narcissist-indicators.md).
 
 ## Conflicts with narcissists
 
-Be careful when [trusting](trust.md) them, and only give them information you're satisfied with them misusing.
+A narcissist has a predictable conflict style:
 
-- They will only use you, so don't consider any long-term friendship or partnership with them.
-- Being stingy with information will save you trouble later, but will tip them off sooner that you know about them.
+1. Make some form of chaos, often where they can deny involvement.
+2. Wait for someone else to react to the chaos.
+3. Make that person's reaction the focus of the issue.
+4. Do everything they can to turn everyone against that person.
+
+If you do *any* of the following, they will absolutely seek to destroy you at some point in the future (you've basically moved to Stage 8):
+
+- Tell them that they are a narcissist.
+- Call them out on a lie they've made, then tell them you don't care if they try to justify it.
+- Conduct a "reverse discard", which is quietly detaching from them without drama before they detach from you.
 
 Don't bother arguing with them.
 
@@ -311,44 +118,114 @@ Don't bother arguing with them.
 - Ask them why they are so uncomfortable with having a different perspective.
 - The quickest way to defuse every conflict, however, is to say "I accept that's how you feel".
 
-The better approach is to be as boring as possible with them until they get bored and go somewhere else ("gray-rocking").
+[Love](people-love.md) covers a multitude of sins, but narcissists don't recognize love in any conventional sense.
 
-If you do *any* of the following, they will absolutely seek to destroy you at some point in the future (you've basically moved to Stage 8):
+- The only "love" they understand is others making disproportionate sacrifices for them relative to the sacrifices they make for others.
+- This mindset also means they find legitimate human connection with others a waste of time.
+  - They will also resent gentler [feelings](mind-feelings.md) than resentment and anger, such as joy or sadness.
 
-- Tell them that they are a narcissist.
-- Call them out on a lie they've made, then tell them you don't care if they try to justify it.
+While it isn't "nice", handling a narcissist requires a very specific approach:
 
-## How to recover from narcissistic abuse
+1. Spiritually turn from any [anger](mind-feelings-anger.md), which means releasing it to God.
+   - They are a tragic story that will only become more tragic as they accumulate more trouble for themselves.
+   - All you can do is grow yourself, separately from them.
+   - You don't need to expose them, since they'll expose themselves over time.
+2. Create distance with them, both physically and relationally.
+   - Behave in a very boring way with them until they get bored and go somewhere else ("gray-rocking").
+   - [Influencing](power-influence.md) them is an utter waste of time, and your vulnerability will expose you to risk.
+   - If you must stay around them, practice [healthy boundaries](people-boundaries.md) like your life depends on it.
+3. Stay in close community with others.
+   - You must [take care of yourself](hardship-abuse.md), so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
+   - Besides protecting you from their direct abuse, more people and institutions protect you from the reputation damage they'll inevitably give you.
+4. Avoid any open confrontation with them, since they *will* misuse it to their advantage.
+   - If they try to trap you into a response, use [healthy conflict management techniques](people-conflicts-bad.md)
+   - Stay gracious to them, even if they make you [angry](mind-feelings-anger.md).
+   - Learn to walk away when things become heated.
+5. Remove any connections they could misuse later:
+   - Secure your finances separately from them.
+   - Change passwords or close accounts.
+   - Adapt your lifestyle to not include them.
+6. Plan for the narcissist's [lies](people-lying.md) by [maintaining your character](morality-virtues.md).
+   - Document events that happen, and use facts over feelings as much as possible.
+   - Since you can't protect yourself from *everyone* they could come in contact with, openly share the truth with your closer friends and [family](people-family.md).
+   - You *will* lose mutual [friends](people-friends.md) in this encounter, but they often come back around later if they're worth your time.
+   - Some of the friends you lose [are *also* narcissists](people-friends-bad.md), which can be a good thing!
 
-Their behavior is, non-negotiably, the direct cause of most [family hardship](hardship-family.md).
+## A narcissist's descent
 
-- Most of them are *very* severe parents, often [disciplining their children](parenting-children-boundaries-rules.md) far more than loving them.
+Over time, the [habits](habits.md) of a narcissist are completely self-aligned.
 
-If you've *ever* been close to a narcissist, they will cause trouble for you:
+- Even social habits are simply defined by others' approval in the pursuit of selfish goals.
+- To that end, [sexual](relationships-sex.md) motivation doesn't really incorporate the other person, and is instead an attempt to turn sexual desire into socially acceptable standards.
+  - The result of this is self-sexuality ("autoeroticism").
+  - Many derived sexual fetishes (e.g., sadism) come from that self-sexuality.
+- The implications of this sexual self-alignment create dramatic political ripples:
+  - Throughout history, many forms of collectively acceptable behavior are the majority conforming to large-scale narcissists' wishes.
+  - The [leftward](politics-leftism.md) push toward glorifying homosexuals is effectively promoting mental illness.
+  - Modern philosophers (e.g., Nietzsche, Kant) were very likely narcissists.
 
-- They will often blame you for their faults ("projection").
-  - Over time, they will eventually call others narcissists, which can cause tremendous [trauma](hardship-ptsd.md) to someone who is [self-unaware](awareness.md).
-- They will often use other people against you ("triangulation").
-- They'll demand constant attention and obedience from people close to them.
-- They have a double standard on empathy and praise:
-  - They'll have zero empathy for anyone else's pain.
-  - They will, however, expect others to acknowledge their [pain and hardship](hardship.md).
-  - While they won't give much sincere praise, they'll expect others to praise them in some capacity.
+This decline would be tragic enough, but they will create complexities with others around them by [traversing through eight stages of abuse](mind-neurodivergence-clusterb-narcissist-stages.md) with every victim willing to engage in their downward spiral.
 
-When we've encountered a narcissist, we must learn to [love others](people-love.md) more than ourselves if we want to heal.
+## The eventual collapse
 
-- Victimization from narcissistic abuse directly affects brain structure and function, dominantly in the hippocampus, amygdala, and prefrontal cortex.
-- The vampire [mythology](stories-myths.md) comes directly from this imagery: you become the monster yourself if you don't take the time to heal from it.
-- The start of this is in directly owning the mistakes you made:
-  - The mistake of consenting to that person entering your life so intimately.
-  - The mistake of responding with [bad boundaries](people-boundaries.md).
-  - The [sins](morality-sins.md) you committed against them, even if you feel it was justified.
+Since narcissistic behavior is *extremely* antisocial, this behavior eventually catches up with someone.
 
-Being raised by a narcissist can severely affect someone's [personality](personality.md).
+- Over time, they develop a reputation for being manipulative, dishonorable, and abusive.
+- Sometimes their consequences come as a grandiose public scandal, but they more often come through a community bearing witness to their [hardship](hardship.md) and collectively doing very little to help them from prior experience or rumor of their behavior.
+- Many times, this journey dovetails closely with the behaviors of [addicts](addiction.md).
 
-- A child raised in that environment will come to believe that they can only receive love conditionally based on what they do, and are never worthy of love for their intrinsic nature.
-- Beyond anything else, narcissist parents create an inherent risk that their children become narcissists as they [mature](maturity.md).
-- Many other [neurodivergences](mind-neurodivergence.md) can arise, such as [autism](mind-neurodivergence-autism.md) (through feeling entirely unloved to the point of severe [distrust](trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).
+However, as they start losing control, they'll often hasten their crisis through several predictable approaches:
+
+- They'll escalate their lies with everyone willing to listen.
+- Those lies will include smearing their victims even worse.
+- They'll pick fights over absolutely nothing important.
+- They'll make *very* reckless [decisions](mind-decisions.md) that self-sabotage.
+  - Reckless spending
+  - Sexual infidelity
+  Committing [crimes](legal-crimes.md)
+  - [Abusing others](people-abuse.md)
+  - [Addictive substances](addiction-substances.md)
+
+All of their behaviors will be driven by several motivators:
+
+1. Raw, unbridled [anger](mind-feelings-anger.md), but subdued and directed through an unwillingness to investigate the precise source of where that anger comes from.
+2. Within that anger, a need to maintain the control they see themselves losing.
+   - They're trying to [sell](marketing.md) others on supporting them, so they will become absurdly dramatic in their efforts.
+3. Since they're losing control and beside themselves with anger, they won't be able to maintain their composure and will resort to some form of violence or recklessness.
+
+## The mythology of narcissism
+
+Since most people understand [love](people-love.md) in some capacity, the narcissistic drive for [power](power.md) alone is very difficult for them to understand.
+
+In general, most people make more of the narcissist's abuse than the narcissist themselves will think of it.
+
+- Most of the time, they're utterly oblivious to the pain and suffering they cause, but are acutely aware of their own pain.
+  - At the far end, there have been stories of narcissists who punch someone, then demand the victim apologize for hurting their hand.
+
+This dramatization is heightened through most [fictional stories](stories-fiction.md), since many of them depict narcissists as the story's dominant antagonist or anti-hero.
+
+- This storytelling convention is very easy, since a narcissist never encounters a character arc like any mentally well person would develop.
+- In fact, their presence is *so* prevalent that most non-narcissist-related stories only fall into a few genres:
+  - Kid-friendly
+  - Violent (e.g., war, horror)
+  - Romance
+
+In particular, the covert narcissist is most closely represented in monster movies as a [mythological](stories-myths.md) vampire:
+
+- Charming and alluring at first, but is secretly a monster.
+- Drains the blood of others to sustain themselves.
+  - A bit like narcissistic supply, where others' "life" is sapped for their continued existence.
+- Lives in the darkness and the light kills it.
+  - Represents the constant lies and secrets they perpetuate and need for their narcissistic supply.
+- The victims they don't kill can become the monster themselves.
+  - Narcissistic abuse survivors often become narcissists as well if they don't learn to work through and release their [anger](mind-feelings-anger.md) to God.
+- Can only enter a home that others gave them permission to enter.
+  - They infiltrate through the [consent](people-contracts.md) of well-meaning people.
+- They can't step inside a church.
+  - The [love](people-love.md) and [community](groups-large.md) that comes with legitimate [church experience](church.md) rapidly stops all narcissistic behavior.
+  - This extends to the crucifix, which represents the complete sacrifice of [Jesus Christ](https://theologos.site/gospel/), which dismantles everything they stand for.
+- The garlic deters them because it is an ancient antiseptic.
+- The undying nature comes through how a narcissist never seems to receive the proper justice they deserve.
 
 ## The cure for narcissism
 
@@ -356,12 +233,17 @@ The only cure is for God to directly touch their heart, since nobody else will b
 
 The solution requires several stages:
 
-1. Accept they are loved by [God](god.md).
+1. Accept they are loved by [God](theology-god.md).
 2. Sacrifice their personal experiences to pay attention to others who legitimately need love.
 3. Recognize others' feelings as having equal validity to their own.
 4. In a moment of devotion, sacrifice themselves for another's well-being.
 
 Since this is a self-discovery, they may need to experience tremendous [hardship](hardship.md) by their own doing to come to their realization.
 
-- You must take care of yourself, so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
-- You will know they've legitimately repented (and are not simply acting out a role) by their unprovoked desire to apologize and fix what they've broken.
+A narcissist can legitimately repent (and not simply act out a role).
+
+- This is extremely rare, but possible.
+- They will demonstrate three things at once:
+  1. An unprovoked apologetic attitude for their specific wrongdoing.
+  2. A desire to restore what they've broken, even if they must pay dearly for it.
+  3. Zero expectation of the other person forgiving them.

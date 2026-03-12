@@ -3,15 +3,15 @@
 
 We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
 
-Evil is discomforting to us, so we tend to [politicize](people-image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](people-decisions.md) or groups may be evil.
+Evil is discomforting to us, so we tend to [politicize](people-image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](mind-decisions.md) or groups may be evil.
 
-We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](people-decisions.md) in a situation.
+We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](mind-decisions.md) in a situation.
 
 Evil, however, does exist. Even to the most morally relativistic person, they'll still regard moral absolutes or things that encroach on their self-preservation as evil.
 
 Evil always has a few elements:
 
-1. An active [decision](people-decisions.md) or [plan](imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
+1. An active [decision](mind-decisions.md) or [plan](people-imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
 2. Self-interested [gain](purpose.md) for the decider or desire to destroy another living being.
 3. If it's [performed](results.md), pain for the victim through [unjustly](morality-justice.md) violating their [boundaries](people-boundaries-why.md).
 
@@ -55,17 +55,17 @@ When we become [aware](awareness.md) of evil [habits](habits.md), we are more li
 
 APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
-APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](people-decisions.md) to [change](people-changes.md) for the better.
+APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](mind-decisions.md) to [change](people-changes.md) for the better.
 
-Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](people-decisions.md) come through all possible scopes of [understanding](understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
+Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](mind-decisions.md) come through all possible scopes of [understanding](understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
 
 APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some of the most evil people on the planet are so intelligent that they hide it well.
 
 ## Decisions
 
-Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](imagination.md).
+Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](people-imagination.md).
 
-Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](people-decisions.md), then committing them to [habit](habits.md):
+Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](mind-decisions.md), then committing them to [habit](habits.md):
 
 1. Ignore when [other people say "no"](people-conflicts-why.md), which requires intentionally not [observing them](people-image-why.md).
 2. Attack anyone who enforces their [rights](morality-justice.md) or questions your [privileges](results.md).
@@ -78,14 +78,14 @@ Every single person has the capacity for evil by making a few key [immoral](mora
 The psychologist Philip Zimbardo charted *exactly* how people become evil:
 
 1. People start by mindlessly taking a first small step, usually because an authority figure told them to.
-2. If they have any attacks of [conscience](humanity-christian.md), they justify their actions by dehumanizing their victims.
+2. If they have any attacks of [conscience](theology-godandman-humanity.md), they justify their actions by dehumanizing their victims.
 3. By doing someone else's [will](purpose.md), they feel anonymous and, thus, [morally](morality.md) exempt from their actions.
 4. Within a short period, the culture adapts to endorse when people *don't* take [personal responsibility](meaning.md) for their behaviors.
 5. The culture's [power structure](power.md) will mandate blind obedience to authority figures.
 6. Eventually, everyone will adapt to the group's [rules](people-rules.md) without asking questions.
 7. Finally, everyone will passively tolerate [evil](morality-evil.md) through inaction or indifference.
 
-APPLICATION: Everyone is about 20-50 key [decisions](people-decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
+APPLICATION: Everyone is about 20-50 key [decisions](mind-decisions.md) away from becoming evil. [Virtue](morality.md) hurts us in the short-term, so all we'd need to do is submit to our baser desires and disregard others.
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:
 
@@ -93,7 +93,7 @@ On the other hand, being good requires trained [virtue](morality.md) that goes a
 2. Maintain respect for others when they disregard your privileges.
 3. Give to others when they require things more than you.
 4. Only exercise your rights.
-5. Take responsibility for failures and fully own [decisions](people-decisions.md).
+5. Take responsibility for failures and fully own [decisions](mind-decisions.md).
 6. Sacrifice [power](power.md) out of [love](people-love.md) for others.
 7. Scale upwards to [influence](influence.md) others to serve others themselves, driven by building virtuous [habits](habits.md).
 
@@ -101,7 +101,7 @@ Most [religious institutions](religion.md) provoke us to virtue, at least partly
 
 APPLICATION: Evil [purposes](purpose.md) are frequently a shortcut to a comparably virtuous purpose.
 
-[Fantasizing](imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](people-rules.md) in society.
+[Fantasizing](people-imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](people-rules.md) in society.
 
 ## The motivation for evil
 
@@ -188,7 +188,7 @@ One variation of revenge is envy. However, instead of pure vengeance directed at
 
 Evil is a void and not an opposite, so there are *many* varieties of it, from an endless supply of distorted motivations.
 
-We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries-why.md) to [understand](understanding.md) what we want.
+We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](people-trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries-why.md) to [understand](understanding.md) what we want.
 
 One of the easiest ways we can mix in evil is by morally "balancing" ourselves. We'll frequently desire to do good things (and [feel](mind-feelings.md) good from it), but don't [do](results.md) anything to reflect our desires. Good [intentions](purpose.md) only make people good if we make efforts to perform it, and well-intended evil actions are still evil.
 

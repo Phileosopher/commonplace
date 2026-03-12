@@ -1,15 +1,15 @@
 
 # Patterns present in the Bible
 
-For whatever reason, these [symbolic patterns](symbols.md) represent themselves across the entire [Bible](bible.md). This is only a sampling of likely *hundreds* of patterns.
+For whatever reason, these [symbolic patterns](symbols.md) represent themselves across the entire [Bible](theology-bible.md). This is only a sampling of likely *hundreds* of patterns.
 
 This may or may not represent truth, but it *certainly* demonstrates consistency, especially when we consider that the Bible's books are spread across *thousands* of years.
 
 While many of them may simply connect to [human universals](humanity-universals.md), many others are absolutely alien to almost any other [mythological pattern](stories-myths.md).
 
-These patterns, very likely, were God's work in binding the entire [Bible](bible.md) together as a canon. It's reasonable to assume that any debates about non-canon or pseudo-canon books (e.g., Tobit) are caused by whether the people who canonize the Bible are observing particular patterns or not.
+These patterns, very likely, were God's work in binding the entire [Bible](theology-bible.md) together as a canon. It's reasonable to assume that any debates about non-canon or pseudo-canon books (e.g., Tobit) are caused by whether the people who canonize the Bible are observing particular patterns or not.
 
-Absolutely *everything* in the Bible is centered on [God](god.md) in some way:
+Absolutely *everything* in the Bible is centered on [God](theology-god.md) in some way:
 
 - In the Hebrew Scriptures, it's the God of Israel.
 - In the New Testament, it's Jesus, who is represented as [God coming to earth and dying](https://theologos.site/gospel/).
@@ -57,7 +57,7 @@ The last are often elevated to become the first.
 
 There's a lot of waiting, which comes through God's timing more than anyone else's.
 
-The future's ultimate reconciliation always points toward the [Day of the Lord](jesus-returns.md), as well as a convergence of [heaven and earth](https://theologos.site/millennium/).
+The future's ultimate reconciliation always points toward the [Day of the Lord](theology-end.md), as well as a convergence of [heaven and earth](https://theologos.site/millennium/).
 
 ## Repetitions
 

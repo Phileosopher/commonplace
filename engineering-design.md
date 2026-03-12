@@ -21,13 +21,13 @@ We tend to need both order and variety. Too much [order](understanding-certainty
 Users travel through a predictable flow of thought as they use something (known as a "user story" in the industry):
 
 1. A [purpose](purpose.md) they want to accomplish, which doesn't change throughout the process.
-2. A [decision](people-decisions.md) to do an action.
+2. A [decision](mind-decisions.md) to do an action.
 3. The [physical action itself](results.md).
 4. Their observation of the action.
 5. Their [interpretation](people-image-why.md) of the state of the thing they're interacting with.
 6. An [evaluation](understanding.md) of that state.
 
-As they attempt to perform an action, they perform a complex [decisions-based calculus](people-decisions.md) to determine whether they still want to keep doing it.
+As they attempt to perform an action, they perform a complex [decisions-based calculus](mind-decisions.md) to determine whether they still want to keep doing it.
 
 - In general, people choose the path of least resistance in their decision-making calculus, and good design fosters the decisions they would naturally *want* to make.
 - If the object isn't designed well enough, they'll stop using it.
@@ -86,7 +86,7 @@ The simpler things appear, the louder the communication becomes, so the design s
 - At the same time, if a graphical element is vague, it's *worse* than putting a text label.
 - Text labels should be easy to read even in a dark room, and all abbreviations should be commonplace.
 
-Choice overload can be a very frequent problem, and every [decision](people-decisions.md) will wear down the user. For that reason, unpack the scope of decisions with a rigid procedure:
+Choice overload can be a very frequent problem, and every [decision](mind-decisions.md) will wear down the user. For that reason, unpack the scope of decisions with a rigid procedure:
 
 1. Start from the user's initial needs.
    - Show how each choice's consequences can [feel](mind-feelings.md).
@@ -112,7 +112,7 @@ UX doesn't only apply to visual elements:
 - Many UX designers simply focus on visual elements because it's the most familiar sense most of us use, so sound can become *extremely* annoying or risky when misused or mismanaged.
 - The design should incorporate what happens if the sound settings are lowered or off (e.g., <50% volume) and the possibility that the user will *not* see a visual input (e.g., away from screen).
 
-Users can only draw from their [environment](reality.md) (observations) or [memory](imagination.md) (expectations), so the design should incorporate existing [cultural expectations](people-culture.md).
+Users can only draw from their [environment](reality.md) (observations) or [memory](people-imagination.md) (expectations), so the design should incorporate existing [cultural expectations](people-culture.md).
 
 Good design works with (and never fights) the user's natural impulses. The most cathartic experience for a user is when they have an *easier* time using something than they're [accustomed to](habits.md). If people ever feel frustration over a particular product, [there's an untapped market there](entrepreneur-1_why.md).
 

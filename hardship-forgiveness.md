@@ -5,10 +5,10 @@ Forgiveness is the final stage of [releasing trauma](hardship-ptsd.md).
 
 There are multiple possible realms where we may not forgive:
 
-- Past [decisions](people-decisions.md) with present consequences.
+- Past [decisions](mind-decisions.md) with present consequences.
 - [Goals](success-1_why.md) that weren't met.
 - [Consequences](results.md) we had no control over.
-- [Imagination](imagination.md) about what could have been.
+- [Imagination](people-imagination.md) about what could have been.
 - [Beliefs](trust.md) about what others expect.
 
 Beyond others, we must also forgive ourselves.

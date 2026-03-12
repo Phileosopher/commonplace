@@ -33,7 +33,7 @@ Reacting to impulses or survival instincts always produces conventional results:
 Stay constantly curious and perpetually interested in everything:
 
 - The only way to stay curious is to ignore any [fear](mind-feelings-fear.md) you might have.
-- You must be able to [imagine](imagination.md) every possibility available to you, which requires going where people are usually uncomfortable.
+- You must be able to [imagine](people-imagination.md) every possibility available to you, which requires going where people are usually uncomfortable.
 - Question every idea, both your own and others'.
 - You'll only discover things when you make mistakes.
 
@@ -78,7 +78,7 @@ Instead of focusing on producing a product or [creating art](art.md), focus inst
 
 Across every stage of creation, nobody else will see your vision:
 
-- Each stage is an intermediate phase, and the creation only exists fully within your [imagination](imagination.md).
+- Each stage is an intermediate phase, and the creation only exists fully within your [imagination](people-imagination.md).
 - Even after your work is *complete*, most people can't see the full extent of what you've done.
 - Most people will end up only experiencing a small portion of the fullness of your creation, but that's still enough to profoundly [influence them](power-influence.md).
 
@@ -105,7 +105,7 @@ Look for beauty in everything:
 
 - Pay extremely close attention to things you otherwise may have overlooked.
 - Simple [patterns](symbols.md) in nature.
-- [Social trends](trends.md) throughout society.
+- [Social trends](people-trends.md) throughout society.
 - Try to find beauty in everything, even things that are mundane or terrible.
 
 Pull together tons of raw information from everywhere:
@@ -228,7 +228,7 @@ Use [analysis](logic.md) to find more viewpoints:
 - The Five "Whys" - ask "why" at least five times to get to the first cause of everything.
 - Use the Iceberg Model:
   - Look at all the relevant events in the past, present, and future.
-  - Note any [patterns](symbols.md) or [trends](trends.md) that emerge from those events.
+  - Note any [patterns](symbols.md) or [trends](people-trends.md) that emerge from those events.
 
 Try to make the problem *worse* to advance a different mode of thought:
 
@@ -286,7 +286,7 @@ Make healthy routines:
 - [De-clutter](organization.md).
 - Drink [coffee](fun-coffee.md), [alcohol](fun-alcohol.md), or [tea](fun-tea.md).
 - [Finish projects](success-5_persevering.md).
-- Follow relevant [trends](trends.md).
+- Follow relevant [trends](people-trends.md).
 - [Make lists](success-3_goals.md).
 - [Meditate or self-reflect](awareness.md).
 - Practice silence.
@@ -382,7 +382,7 @@ When you like your idea, research whether it's possible:
 
 Avoid perfectionism and obsession:
 
-- [Imagination](imagination.md) is fiercely powerful and doesn't require other people's approval, but it's inherently messy.
+- [Imagination](people-imagination.md) is fiercely powerful and doesn't require other people's approval, but it's inherently messy.
 - If you're a perfectionist, shift your obsession to reality instead of perfection.
 - If the idea is sound enough, you can often rebuild smaller details of it later in the process.
 - Making many things is better than making 1 thing:
@@ -426,7 +426,7 @@ Most creative people have trouble finishing projects:
 [Build a routine](success-4_routine.md), especially if you have a large project:
 
 - Cancel optional activities that may get in the way of what you're trying to build.
-- Never push yourself past your productive limits, which depend heavily on your [personality](personality.md) (typically 3-6 hours a day).
+- Never push yourself past your productive limits, which depend heavily on your [personality](people-personality.md) (typically 3-6 hours a day).
 - Don't drain yourself every day, since you need to tackle it *every* day.
   - Instead, get away from the task when you still have motivation to keep going.
 - If you need to, mentally explore your next steps while going through other parts of your daily routine.

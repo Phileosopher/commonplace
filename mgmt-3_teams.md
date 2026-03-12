@@ -17,7 +17,7 @@ Define every important functions you will need for your team.
    - Hours required per week
    - Severity of the task
    - Necessary skills for the task
-2. For each task, indicate the kinds of expertise or [personality](personality.md) required for the role.
+2. For each task, indicate the kinds of expertise or [personality](people-personality.md) required for the role.
 3. In order from most critical to least, assign the tasks to specific roles.
 4. If a task is somewhat out-of-place for a role, assign it as a secondary task to at least 2 roles.
 5. If any roles have too many tasks or the tasks are too burdensome, add more roles.
@@ -26,7 +26,7 @@ Create an organizational chart.
 
 - Define the necessary, specific details for each role:
   1. The direct responsibilities.
-  2. Natural [personality](personality.md) strengths those responsibilities would require.
+  2. Natural [personality](people-personality.md) strengths those responsibilities would require.
   3. The typical weaknesses those strengths would likely have.
 - Indicate the measurements for succeeding or failing at that role.
 
@@ -64,7 +64,7 @@ Never let each team or sub-team surpass 4-8 people.
 - Going past a team consisting of a few people guarantees multiple problems at once:
   - [Communicating](mgmt-5_communication.md) to everyone at once becomes far more complex and time-consuming.
   - People won't feel like their contribution means much, so some members won't adequately perform their roles.
-  - There will be unavoidable [personality](personality.md) [conflicts](people-conflicts.md), *especially* when trying to achieve group consensus.
+  - There will be unavoidable [personality](people-personality.md) [conflicts](people-conflicts.md), *especially* when trying to achieve group consensus.
   - The [corporate culture](groups-small.md) of large groups tends to generate enough [peer pressure](power-influence.md) that everyone will be more likely to resist [change](people-changes.md).
 - If you expect your team needs more than 8 people, break apart the tasks into more explicitly-defined specializations.
   - You can make as many teams as you want, as long as your team *leads* communicate with each other.
@@ -111,7 +111,7 @@ Clarify each role with a full job description:
   - They should have core
   - A listing of specific machines, software, tools, and technical understanding.
   - Clarify any preferred or required education or technical background.
-  - Indicate any cultural/attitude [personality](personality.md) requirements as well.
+  - Indicate any cultural/attitude [personality](people-personality.md) requirements as well.
 - If you want to get the point across, do *not* add other sections:
   - Team, Training and Support - should be covered under Benefits
   - Highlights - should be covered under Benefits
@@ -148,12 +148,12 @@ Every time you need to interview, improve your process.
 
 - Focus on high-quality candidates over a larger quantity of them.
   - Draw from your personal network to find more loyal candidates.
-- Use [personality](personality.md) tests to clearly demarcate what kind of person they are before you hire them.
+- Use [personality](people-personality.md) tests to clearly demarcate what kind of person they are before you hire them.
 - Unless it's *highly* specialized, focus more on motivation than skill.
 
 ## Deciding
 
-Consider your own [personality](personality.md) when hiring.
+Consider your own [personality](people-personality.md) when hiring.
 
 - If you're extroverted, you'll draw out passive workers' performance better.
 - If you're introverted, you'll give more stability to extroverted employees.
@@ -175,7 +175,7 @@ Team involvement and great work aren't necessarily related.
 Every new person will dramatically change the group.
 
 - Each member, even in an unimportant role, will dramatically shift everyone else's attitudes and thoughts.
-- Group harmony with each other comes through everyone's shared [identity](identity.md), but group harmony *outside* the organization comes through how many demographics and contrasting [value systems](philosophy.md) are represented inside that group.
+- Group harmony with each other comes through everyone's shared [identity](people-identity.md), but group harmony *outside* the organization comes through how many demographics and contrasting [value systems](philosophy.md) are represented inside that group.
 
 If you give intelligent, lazy people the role, they'll often find an easier way to do it.
 
@@ -252,7 +252,7 @@ There *are* specific actions that can be grounds for immediate termination.
 
 Other times, the situation can build up to a necessary termination or layoff.
 
-- The role's needs and [personality](personality.md) of the person don't match.
+- The role's needs and [personality](people-personality.md) of the person don't match.
 - After repeated admonitions and warnings, they're not improving.
 - Consistently disrespects and subverts the workplace culture.
 - [Technology](technology.md) or industry changes has made their role no longer necessary.

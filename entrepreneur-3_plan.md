@@ -189,7 +189,7 @@ For anything more significant, your marketing plan should show the results of yo
 Give the industry's economic facts:
 
 - The *current* market demand along with *total* market size.
-- Show market [trends](trends.md) like growth, consumer preference shifts, and product developments.
+- Show market [trends](people-trends.md) like growth, consumer preference shifts, and product developments.
   - If you're making a non-profit organization, make a separate category altogether for trend analysis.
 - Show the growth potential and maximum opportunity for an organization your size.
   - If a business will be a significant competitor in the market, indicate the percentage they'll dominate it.
@@ -241,7 +241,7 @@ Compare the two most significant competitors side-by-side with yours on a table:
 - Rank each value from 1 to 5 as an ideal relative to the customer.
 - If you're being legitimately honest, you should see multiple 1's on yours compared to competitors (since you're starting into the industry).
 
-Indicate how changes in [social trends](trends.md) and society will affect the organization:
+Indicate how changes in [social trends](people-trends.md) and society will affect the organization:
 
 - Will it take advantage of new [technology](technology.md), or will that technology be a risk to the business model?
 - Are there any [government regulations](lawsaxioms-legal.md) which may affect business operations?

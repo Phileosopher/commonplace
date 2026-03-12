@@ -58,7 +58,7 @@ Healthy dieting is about balanced nutrition more than consuming anything specifi
 - A steady routine of consuming in moderation is more effective than following rules or eating specific foods.
   - Artificial food products (e.g., Soylent, shake diets) won't account for the body's need for trace nutrients.
 
-Health [trends](trends.md) mean something is often marketed as "healthy", but where the vendor added something else:
+Health [trends](people-trends.md) mean something is often marketed as "healthy", but where the vendor added something else:
 
 - Low-fat usually means the vendor added sugar to compensate for the unfulfilling feeling.
 - "Diet" and low-carb foods usually add artificial sweeteners that taste (mostly) like sugar but are indigestible, so the body produces an excess of insulin to break the artificial sweeteners down.

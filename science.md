@@ -55,7 +55,7 @@ Further, to answer every presently obvious question would yield many more beyond
 
 [Scientism](https://trendless.tech/scientism/) is a unique philosophy that takes science farther than [its function](purpose.md) permits.
 
-Further, [social fashions](trends.md) will always sway scientific values dramatically, mostly because very intelligent people can often have [absolutely no common sense](https://gainedin.site/idiot/).
+Further, [social fashions](people-trends.md) will always sway scientific values dramatically, mostly because very intelligent people can often have [absolutely no common sense](https://gainedin.site/idiot/).
 
 ## The philosophy of science
 
@@ -64,15 +64,19 @@ One important component representative in all the sciences is that there are two
 - Everything is maintaining a type of stasis, with constant negative feedback loops that self-correct anything too far out of range.
 - Everything in the universe is decaying at a relatively predictable rate.
 
-For it to qualify as [legitimate science](science.md), it must be rigorous, reproducible, and open.
+For it to qualify as legitimate science, it must be rigorous, reproducible, and open.
 
-[The formal sciences](science-formal.md) are philosophical abstractions:
+- In particular, legitiamte science can easily be demarcated from [positivism](glossary-philosophy-epistemology.md) by Popper's falsification theory, which is that every hypothesis should be sharply criticized for all use cases.
+- Falsification theory, however, is far too [uncertain](understanding-certainty.md) for most of the scientific community to accept.
+- This philosophical negligence has gotten so out-of-hand that most scientific studies are irreproducible (a "reproducibility/replicability crisis")
+
+[The formal sciences](science-formal.md), for example, are philosophical abstractions that can only be proven with the assumption of a shared human [value system](values.md):
 
 - [Logic](logic.md)
 - Mathematics ([algebra](math-algebra.md), [statistics](math-stat.md), [calculus](math-calc.md), et al.)
 - Decisions theory (aka [game theory](math-gametheory.md))
 
-These are more philosophy than science, but they're so well-ordered that they can certainly exist as being provable with the scientific method.
+These are more philosophy than science, but they're so well-ordered that they can certainly exist as being provable with the scientific method, but *can't* be proven deductively.
 
 ## The accepted domains of science
 
@@ -101,7 +105,7 @@ All of the above sciences apply to the world around us, and that application nat
   - Systems theory, which is essentially the [corporate](groups-large.md) explanation for all the scientific information
 - Physical and life sciences end up creating, among others:
   - [Engineering](engineering.md)
-  - [Agricultural science](horticulture.md)
+  - [Agricultural science](plants.md)
   - Almost the entire [medical industry](body-firstaid.md)
   - [Health sciences](body-health.md)
 - Social sciences, while [not technically sciences](https://trendless.tech/scientism/), build out, among others:

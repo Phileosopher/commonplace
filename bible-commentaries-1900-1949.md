@@ -330,6 +330,14 @@ Robertson's Word Pictures in the New Testament
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
    - [SWORD module](https://crosswire.org/sword/modules/ModInfo.jsp?modName=RWP)
 
+Cambridge Bible for Schools and Colleges
+
+1. Many authors - 1884-1928
+2. Ecumenical
+3. Exegetical
+4. OT+NT
+   - [BibleHub](https://biblehub.com/commentaries/cambridge/)
+
 ## 1929-1949
 
 F.B. Meyer's 'Through the Bible' Commentary

@@ -101,7 +101,7 @@ However, beyond the above concepts about how dumb they are at tasks, there are s
 
 - In the event of a poorly programmed robot, high-risk robotic implementations (e.g., [cars](computers-autos.md)) won't withstand human nature's tendency to [blame](people-rules.md) when people die, so it becomes a heavily [politicized](power.md) situation far more than simply upgraded [technology](technology.md).
 - To make a human-like science fiction robot (e.g., Asimov's "I, Robot") would require adding the fields of psychology and sociology into all the *other* disciplines required for robots, meaning robots would have to first be ubiquitous everywhere to approach that challenge.
-- Like realistic [game development](computers-software-gamedev.md), [widespread adoption](trends.md) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
+- Like realistic [game development](computers-software-gamedev.md), [widespread adoption](people-trends.md) of robots will always be suppressed by the [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley):
   - Robots are more relatable as they become more human-like, and they're very relatable when they're precisely human-like.
   - *Right* before they're fully relatable, there's an odd point where their behaviors and mannerisms are terrifying and creepy.
   - At that point, a robot sabotages *all* human connection it may have gained, and will create a prolonged state of [unease](mind-feelings-fear.md) for the observer.
@@ -114,6 +114,6 @@ Like all other [technology](technology.md), robots have a more profound effect t
 
 Despite the sillier trends attributable to robotics, there *have* been changes to society:
 
-- Robots have very specific, purposed uses in realms like [horticulture](horticulture.md), factory work, military support, and navigating small corridors. Many of them are remote-controlled, but they serve as an agent of the human who uses them. This arrangement has been completely favorable.
+- Robots have very specific, purposed uses in realms like [horticulture](plants.md), factory work, military support, and navigating small corridors. Many of them are remote-controlled, but they serve as an agent of the human who uses them. This arrangement has been completely favorable.
 - Skills *do* get replaced, which frees up people to do other things. People find [meaning](meaning.md) in work, and they do something else that can add [value](values.md), though older people surpassing about age 40 can be left behind from the change as the technology develops. This, however, happens slowly enough that it never destroys society in any collective sense.
 - Lower-intelligence jobs (i.e., for people below an IQ of 85) have almost ceased to exist, since robots can do the job, and nobody has found a workable solution for this. It's reasonable to expect the most intelligent people in society to solve this issue, but that's [not how the world works](politics-perfectsociety.md).

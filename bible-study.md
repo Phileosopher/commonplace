@@ -22,7 +22,7 @@ Wisely interpret the Bible:
 - The Bible *will* interpret itself: Scripture explains Scripture.
 - We can only understand and properly comprehend Scripture through faith and the Holy Spirit ([1 Corinthians 2:14-15](https://biblehub.com/1_corinthians/2.htm)).
 - Interpret personal experience through Scripture, not the other way around.
-- God wrote the Bible to [change our lives](goodlife.md), not [increase our knowledge](understanding.md).
+- God wrote the Bible to [change our lives](people-goodlife.md), not [increase our knowledge](understanding.md).
 - Listen to Scripture's common-sense interpretation first, then its historical context, and finally Bible scholars' opinions and commentaries.
 
 Observe and honor the Bible's grammar and syntax:
@@ -54,7 +54,7 @@ Unless a prophet's words have an obvious [symbolism](symbols.md), interpret the 
   4. The story is a fictionalized parable (such as Jesus' depictions).
 - If a story *is* symbolic, the characters aren't necessarily real and the entire story is intended to convey an important [universal](humanity-universals.md) pattern.
 - Prophecies sometimes fulfill in installments, where each fulfillment of something else coming.
-- A single prophecy can also fulfill itself to multiple ends (e.g., Revelation refers to both the Roman Empire *and* the [End of Days](jesus-returns.md)).
+- A single prophecy can also fulfill itself to multiple ends (e.g., Revelation refers to both the Roman Empire *and* the [End of Days](theology-end.md)).
 
 Proverbs have specific attributes:
 
@@ -152,7 +152,7 @@ F. Explore unconventional ways to read the Bible:
   - Read the Bible chronologically from when it was written instead of its canonized order.
   - Study what a specific word meant at the time.
   - Focus on how the Bible refutes a specific heresy.
-  - Research alleged [Bible contradictions or factual errors](evangelism-apologetics.md).
+  - Research alleged [Bible contradictions or factual errors](spiritual-exercises-evangelism-apologetics.md).
   - Draw comparisons and contrasts between Christian [culture](people-culture.md) and the Bible.
   - Examine every instance of a Bible word and find associated patterns across them.
 

@@ -145,7 +145,7 @@ Give them many opportunities to socialize and dialogue together as a family:
 
 Give them meaningful outlets for their creativity and learning:
 
-- Reading with them together will expand their [imagination](imagination.md) and strengthen your connection with them.
+- Reading with them together will expand their [imagination](people-imagination.md) and strengthen your connection with them.
 - Give projects that help the family, both solo and together.
 - Try out for a musical or drama group together.
 - Enroll in an art, dance, or exercise class together.

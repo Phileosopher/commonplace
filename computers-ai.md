@@ -5,11 +5,11 @@ As programmers get better at reproducing behaviors, computers can appear to be m
 
 Artificial intelligence is the methods and techniques that can make a computer seem human.
 
-The term "artificial intelligence" is ubiquitous, but it's largely a [marketing](marketing.md) term: a computer is still a simple [logic machine](logic-cs.md) performing calculations. Whether or not that's "intelligence" depends heavily on your view of [the human soul](humanity-christian.md).
+The term "artificial intelligence" is ubiquitous, but it's largely a [marketing](marketing.md) term: a computer is still a simple [logic machine](logic-cs.md) performing calculations. Whether or not that's "intelligence" depends heavily on your view of [the human soul](theology-godandman-humanity.md).
 
 The idea of AI represents a broad spectrum of implementations:
 
-- Makes [decisions](people-decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
+- Makes [decisions](mind-decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
 - Using [language](language.md) in writing that matches what a person would likely write.
 - Using spoken language that matches what a person would say.
 - Using spoken language that matches *how* a person would say it.
@@ -53,4 +53,4 @@ Also, depending on how we view the [soul](religion.md), there's a hard philosoph
 
 Further, if there *is* a God or gods, the fact that they built our aptitude will likely also mean they thought ahead to *not* give us the means to create life ourselves until we were fully ready for it.
 
-But, that's the domain of [religion](religion.md) and [speculation](imagination.md). As it stands, life is impossible through AI.
+But, that's the domain of [religion](religion.md) and [speculation](people-imagination.md). As it stands, life is impossible through AI.

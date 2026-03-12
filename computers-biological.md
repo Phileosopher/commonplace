@@ -44,7 +44,7 @@ One knowable truth about computers, though, is that working with life enough to 
 
 ## Ethics
 
-Of course, ethical considerations also abound with this new technology. If genes could be edited toward one domain or another, engineering a baby from birth would naturally form a [bias](mind-bias.md) toward favorable traits (e.g, being healthy), but it slowly leads to engineering other optional traits that may also be favorable (e.g., height, intellect, [personality](personality.md)).
+Of course, ethical considerations also abound with this new technology. If genes could be edited toward one domain or another, engineering a baby from birth would naturally form a [bias](mind-bias.md) toward favorable traits (e.g, being healthy), but it slowly leads to engineering other optional traits that may also be favorable (e.g., height, intellect, [personality](people-personality.md)).
 
 Scaled across society, the consequences would be dramatic: [social class](classes.md) distinctions based on genetics, differing [rules](people-rules.md) based on genetic predisposition, and other hairy problems that presently only exist in the realm of science fiction.
 

@@ -175,7 +175,7 @@ When you have a knowledge base, systematically review the information.
 
 - There are 2 types of meetings:
   1. Status update meetings, where everyone describes their activities.
-  2. Brainstorming meetings, which involve [thinking of solutions](mind-creativity-how.md) and [making decisions](people-decisions.md).
+  2. Brainstorming meetings, which involve [thinking of solutions](mind-creativity-how.md) and [making decisions](mind-decisions.md).
 - Typically, status update meetings are *not* worth the effort.
   - In theory, it brings everyone together to discuss the latest news, but in practice it involves most of the members hearing about information that has nothing to do with them.
   - On an hourly pay rate, it can also be tremendously expensive to have 10 people idling for an hour.
@@ -312,7 +312,7 @@ Never delegate things that nobody else but you can do.
 - If only you can do something (e.g., payroll, ordering inventory), make sure to prioritize those tasks over things other people can do.
   - Sometimes, you simply need to be physically present in a location to be available for questions or customers.
   - Often, when you've been promoted, [force of habit](habits.md) will provoke you to perform tasks that were part of your primary role.
-- Beyond specific authorities, your [personality](personality.md) is designed to excel at certain tasks over others.
+- Beyond specific authorities, your [personality](people-personality.md) is designed to excel at certain tasks over others.
 - Typically, your [reputation](people-image-why.md) and [creativity](mind-creativity.md) are irreplaceable, but someone else can do your time-consuming tasks.
 
 The more you give tasks, the more they develop their skills in that direction.

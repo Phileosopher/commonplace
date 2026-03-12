@@ -33,7 +33,7 @@ There must always be an unsolved mystery to both the main character and the audi
 
 Some genres are difficult to parse separately, and broadly fit into the domain of "speculative fiction".
 
-- This is because they all require an unusual amount of [imagination](imagination.md) or suspension of disbelief, so they end up merging together in many ways.
+- This is because they all require an unusual amount of [imagination](people-imagination.md) or suspension of disbelief, so they end up merging together in many ways.
 
 ### Horror/Thriller
 

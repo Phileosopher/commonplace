@@ -7,7 +7,7 @@ Typically, valuations take more work than most standard accounting activities, s
 
 - The measurement will be very specific when investors, governments, or equity-holders want to see it.
 
-[Estimations](imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
+[Estimations](people-imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
 
 The book value is the lesser of the original cost paid for the asset (historical value) and its current value (fair market value).
 
@@ -112,7 +112,7 @@ Auditors, like claims adjusters, do *not* believe in mere coincidences, and they
 - Unqualified opinions indicate that the information is sound.
 - Qualified opinions indicate they have a "qualification" that demonstrates a problem with the information.
 
-There are also specific audits for [ESG](politics-leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](trends.md) that there's not as much precedent as a standard audit.
+There are also specific audits for [ESG](politics-leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](people-trends.md) that there's not as much precedent as a standard audit.
 
 ## Mergers/acquisitions
 
@@ -186,6 +186,6 @@ Using shell companies offloads expenses or revenue onto subsidiary companies.
 In [unregulated](people-rules.md) [cryptocurrency](computers-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
 
 1. Make a cryptocurrency that mines across at least a few servers.
-2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](trends.md).
+2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](people-trends.md).
 3. [Advertise](marketing.md) to as many people as possible that your cryptocurrency is wildly popular.
 4. If you can acquire enough actual users, you've created a legitimately popular cryptocurrency and can sell your assets for actual cash.

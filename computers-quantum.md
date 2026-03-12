@@ -24,7 +24,7 @@ A quantum state is far more complicated than we often imagine, for two major rea
 2. Entanglement - many things are connected in strange, unrelated-seeming ways:
    - Object 1's determination of being in State A or State B will determine whether Object 2 is in State A or State B, even if no physical laws of the universe dictate this connection.
 
-What we *can* prove is that light photons behave differently as either a particle when it's observed, and stays a wave when it's *not* observed. The big question is *how* this can happen. Some people allude to [God](god.md), others believe in [determinism](glossary-philosophy.md), some people think there's another reason like we're in a simulation or don't actually exist until we perceive it.
+What we *can* prove is that light photons behave differently as either a particle when it's observed, and stays a wave when it's *not* observed. The big question is *how* this can happen. Some people allude to [God](theology-god.md), others believe in [determinism](glossary-philosophy.md), some people think there's another reason like we're in a simulation or don't actually exist until we perceive it.
 
 ## Superposition computing
 

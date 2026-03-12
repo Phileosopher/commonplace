@@ -135,6 +135,6 @@ If you're released on probation or parole, *be obsessively careful*.
 - Most people go back to life as usual, but even the *slightest* misstep before your period is over will be a violation that will send you into a terrible place.
 - Unless you're choosing to flee the region (and never come back in your life as well as face the risk of extradition) absolutely honor every single requirement placed upon you, and communicate openly about every single aspect that may influence your situation with them.
 
-Your only hope for redemption is through [living better](goodlife.md) than before, to the point of never even *implying* that you do what you once did.
+Your only hope for redemption is through [living better](people-goodlife.md) than before, to the point of never even *implying* that you do what you once did.
 
 - Once you're fully free, it may make sense to change regions (e.g., move to another country, move to a [remote location](home-homestead.md)) where you can start life again without the record following you as severely.

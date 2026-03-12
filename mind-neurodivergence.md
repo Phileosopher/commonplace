@@ -4,7 +4,7 @@
 This is an informal list of the varieties of neurodivergence.
 
 - It's essential to note that deviations from [social standards](people-rules.md) end up forming even more deviations through uniquely different [cultural experiences](people-culture.md), which means these diagnoses rarely exist alone.
-- It's also worth noting that awareness of the neurodivergence doesn't necessitate any necessary action: many [personalities](personality.md) have lived amazing lives as extreme neurodivergent minds. The only requirement is to take action when the behavior *from* the mental framework creates severe adverse [consequences](results.md).
+- It's also worth noting that awareness of the neurodivergence doesn't necessitate any necessary action: many [personalities](people-personality.md) have lived amazing lives as extreme neurodivergent minds. The only requirement is to take action when the behavior *from* the mental framework creates severe adverse [consequences](results.md).
 
 Everyone likely possesses at least a *little* of each of these as well, so the classification really has no place for [prejudice](people-discrimination.md).
 
@@ -65,7 +65,7 @@ I have enough information on this that [it merits a separate section](mind-neuro
 A fractured emotional state, represented by a hyperactive mode ("mania") and a low-energy mode ("depressive").
 
 - The vacillations alternate at different points, and there's not always a reason for the shift.
-- In some ways, it's the representation of two [personalities](personality.md).
+- In some ways, it's the representation of two [personalities](people-personality.md).
 
 Indicators:
 
@@ -108,7 +108,7 @@ The cure for it:
 
 ## Cluster A
 
-A viewpoint that is overcrowded with [imagination](imagination.md), to the point of hallucinations and [identity](identity.md) issues.
+A viewpoint that is overcrowded with [imagination](people-imagination.md), to the point of hallucinations and [identity](people-identity.md) issues.
 
 - Effectively a problem with perceptions about the present.
 - This can include schizophrenia, delusions, and split personality disorder.
@@ -179,7 +179,7 @@ How to behave with them:
 The cure for it:
 
 - It typically expresses in adolescence and represents as a [phase of maturation](maturity.md).
-- However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](personality.md).
+- However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](people-personality.md).
 
 ## Synaesthesia and altered perceptual states
 

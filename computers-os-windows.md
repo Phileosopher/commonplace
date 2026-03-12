@@ -62,7 +62,7 @@ The high point of Windows was indisputably with Windows XP, released in 2001.
 - It also had multiple GUI updates that took advantage of the improved [graphics processing](engineering-graphics.md) from the early 2000s.
 - While its mainstream support ended in 2009, it ended extended support in 2014, and 13 years is an *eternity* in technology terms.
 
-Windows' [trend](trends.md) of improvement wobbled around, starting with Windows Vista, released in 2007.
+Windows' [trend](people-trends.md) of improvement wobbled around, starting with Windows Vista, released in 2007.
 
 - While Vista was mostly the same as XP, it added a Superfetch feature, which loaded *all* the RAM with readily accessible programs. This slowed down Windows to the point that every "power user" would get frustrated by it, and most people weren't willing to take the upgrade.
 

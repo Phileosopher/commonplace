@@ -22,7 +22,7 @@ Fiction can be event-driven, but should dominantly be character-driven, and it s
 Blake Snyder observed that every story effectively works through at least one of ten possible [primal](mind-feelings.md) associations:
 
 1. Whydunit:
-   - The story may be about the protagonist asking *who* performed a [sin](morality-sins.md), but the audience will want to know *why* it happened.
+   - The story may be about the protagonist asking *who* performed a [sin](morality.md), but the audience will want to know *why* it happened.
    - 3 mandatory elements:
      1. A detective
      2. A secret
@@ -34,7 +34,7 @@ Blake Snyder observed that every story effectively works through at least one of
      2. A wrong way to attack the problem
      3. Acceptance of the hard truth
 3. Institutionalized:
-   - The protagonist is forced to [choose](people-decisions.md) to do something with [a social group](groups-small.md)
+   - The protagonist is forced to [choose](mind-decisions.md) to do something with [a social group](groups-small.md)
    - 3 mandatory elements:
      1. A group
      2. A choice
@@ -83,7 +83,7 @@ Blake Snyder observed that every story effectively works through at least one of
     - 3 mandatory elements:
       1. A monster
       2. A house
-      3. A [sin](morality-sins.md) that brought the monster
+      3. A [sin](morality.md) that brought the monster
 
 The [genre](art-genres.md) will heavily constrain which narrative forms are permissible.
 
@@ -103,7 +103,7 @@ Every fictional account has to [feel](mind-feelings.md) like it is associated wi
 Using an unreliable narrator is very convenient.
 
 - It allows a degree of separation to cover any plot holes.
-- The story can represent with more fluidity, since it's bound by the [personality](personality.md) of the fictional character instead of reality itself.
+- The story can represent with more fluidity, since it's bound by the [personality](people-personality.md) of the fictional character instead of reality itself.
 
 There are multiple forms of unreliable narrator:
 
@@ -148,7 +148,7 @@ To make a story, focus on what you love and hate.
 
 ## Role-playing and games
 
-Since the audience is a participant in games and role-playing, the story must conform to their [decisions](people-decisions.md).
+Since the audience is a participant in games and role-playing, the story must conform to their [decisions](mind-decisions.md).
 
 - The most controlling approach is to create mandatory decision-making (e.g., this/that choices). However, this is not easy to accomplish without some form of constraint (e.g., time limits).
 - The other option involves the players having the freedom to do whatever they feel like, then triggering events as they encounter them.

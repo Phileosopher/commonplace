@@ -38,7 +38,7 @@ Make sure your anticipated lifestyle fits how you naturally function:
 
 - You should have an expected way of life that matches your natural skills.
 - If you're not a particularly good shot or aren't particularly quiet, don't expect to learn hunting.
-- If you're impatient or aren't skilled at [gardening](horticulture.md), don't become a farmer.
+- If you're impatient or aren't skilled at [gardening](plants.md), don't become a farmer.
 - Generally, knowing [mechanical skills](engineering.md) and [people skills](people-3_respect.md) beforehand can take you *very* far.
 
 The more you're preparing for future possible risks, the less you're living for right now (when there's no present disaster):
@@ -48,7 +48,7 @@ The more you're preparing for future possible risks, the less you're living for 
 
 ## Food
 
-Plan ahead, since seeds today can become [next year's food](horticulture.md).
+Plan ahead, since seeds today can become [next year's food](plants.md).
 
 Aim for high-calorie foods with plenty of [vitamins and minerals](body-health.md).
 

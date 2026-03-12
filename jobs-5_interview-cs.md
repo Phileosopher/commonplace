@@ -23,7 +23,7 @@ Expect a casual conversation over the phone by an Human Resources representative
 
 You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [cultural](people-culture.md) fit or not.
 
-- If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](personality.md) to see if you can be [easily exploited](jobs-suck-cs.md).
+- If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](people-personality.md) to see if you can be [easily exploited](jobs-suck-cs.md).
 
 ## Automated coding test
 

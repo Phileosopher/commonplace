@@ -75,6 +75,8 @@ Kondratiev Wave - Every large-scale system cycles up and down with a generally p
 
 Linus' Law/Orgel's Second Rule - Given enough people, every problem is petty.
 
+- Sunil's Law - Given enough people and information, everything will be misunderstood.
+
 Marchetti's Constant - People are only willing to travel up to 1 hour each day, or a half-hour on a two-way trip (e.g., commute).
 
 Marauder Effect - When comparatively comfortable people become instantly deprived of resources, they panic and start attacking others to get what they need
@@ -224,7 +226,7 @@ Wagner's Law - The more [technology](technology.md) a country adopts, the bigger
 
 Avatar Paradox - When a product becomes so successful that everyone consumes it, it has no cultural relevance.
 
-Briffault's Law - Women's [choices](people-decisions.md) in men determine what [families](people-family.md) are made.
+Briffault's Law - Women's [choices](mind-decisions.md) in men determine what [families](people-family.md) are made.
 
 Broken Windows Theory - Visible signs of crime or destruction (like broken windows) lead to further and worse of them.
 

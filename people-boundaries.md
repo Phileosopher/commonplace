@@ -79,7 +79,7 @@ Two or more people with bad boundaries make strange relationships:
 
 ## Healthy relationships require mutually healthy attitudes
 
-You don't really need to be "nice" if it's not your [personality](personality.md), but being respectful is absolutely critical for coexistence with others.
+You don't really need to be "nice" if it's not your [personality](people-personality.md), but being respectful is absolutely critical for coexistence with others.
 
 Healthy boundaries are reasonable and adapt as the situation changes.
 

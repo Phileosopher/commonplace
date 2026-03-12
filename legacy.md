@@ -1,7 +1,7 @@
 
 # The legacy we try to build
 
-Near the end of our [life cycles](maturity.md), we'll attempt [meaning](meaning.md) and [purpose](purpose.md) that can transcend [death](hardship-death.md). Given that death itself is utterly sudden, [unpredictable](imagination.md), and permanent, this is never easy.
+Near the end of our [life cycles](maturity.md), we'll attempt [meaning](meaning.md) and [purpose](purpose.md) that can transcend [death](hardship-death.md). Given that death itself is utterly sudden, [unpredictable](people-imagination.md), and permanent, this is never easy.
 
 We typically want to [create](creations.md) something that transcends our existence. In a sense, it's an attempt to "live longer" by [being important](meaning.md) beyond when our body ceases to function.
 
@@ -27,7 +27,7 @@ APPLICATION: Living for the far future is a waste of effort. We can't prolong ou
 
 In civilized societies with lots of [technology](technology.md), there will be enough [medical technology](body-health.md) that people will live longer. This will mean most people will be "old" most of their life (i.e., middle-aged can go from 25 to 40), and [youth](maturity.md) will be comparatively scarce and fleeting.
 
-Unless we make an intentional purpose to release control of what we have to others, our weakened or [obsolete](trends.md) skills will guarantee we'll sabotage most of the potential we could have given to those who will succeed us.
+Unless we make an intentional purpose to release control of what we have to others, our weakened or [obsolete](people-trends.md) skills will guarantee we'll sabotage most of the potential we could have given to those who will succeed us.
 
 Without [religion](religion.md), we can only find [meaning](meaning.md) in this life, before we've died, and there's very little benefit to advancing the [body of knowledge](understanding.md) of any domain, [building a new technology](technology.md) or [creating anything new](creations.md) if we're even remotely thinking about life beyond this one.
 
@@ -35,12 +35,12 @@ APPLICATION: The primary reason that innovation in [scientific](science.md) and 
 
 ## Post-mortem
 
-Things often *do* live beyond ourselves, but not in the way we think they do. Our legacy won't travel into the future with the pure [essence](humanity.md) we may [expect](imagination.md):
+Things often *do* live beyond ourselves, but not in the way we think they do. Our legacy won't travel into the future with the pure [essence](humanity.md) we may [expect](people-imagination.md):
 
 - We will [influence](influence.md) people, especially [younger](maturity.md) people, in ways that they'll find more [purpose](purpose.md) and [build](creations.md) bigger things. This is *their* [creation](creations.md) that was [influenced](influence.md) by ours, not ours alone.
 - Even if we could publicly encode *every* bit of information for others' benefit, time will distort and destroy the [truth](reality.md) that happened. Books get burned, websites go down, archives decompose, and it will all eventually become a cryptic dead [language](language.md) if it doesn't disappear.
-- With many [creations](creations.md), even with relatively reliable transcription and translation, the [stories](stories-why.md) carry progressively less weight for future generations as they lose the context of the [fashionable](trends.md) [beliefs](understanding-certainty.md) of our present times. Eventually, they become a source of [parody](humor.md) and [hubris](morality.md) by a society that doesn't know the creation's original context.
-- Preserving a [family name](people-family.md) or [group](groups-small.md) is also futile. The descendants of the vision will make their own [decisions](people-decisions.md), and it's only a matter of time before one of them makes habitually dumb decisions. Our guidance can only carry them a few generations until they destroy what we built. This happens even faster if they inherit the [power](power.md) we've built without the skills it took to *[build](success-1_why.md)* that power.
+- With many [creations](creations.md), even with relatively reliable transcription and translation, the [stories](stories-why.md) carry progressively less weight for future generations as they lose the context of the [fashionable](people-trends.md) [beliefs](understanding-certainty.md) of our present times. Eventually, they become a source of [parody](humor.md) and [hubris](morality.md) by a society that doesn't know the creation's original context.
+- Preserving a [family name](people-family.md) or [group](groups-small.md) is also futile. The descendants of the vision will make their own [decisions](mind-decisions.md), and it's only a matter of time before one of them makes habitually dumb decisions. Our guidance can only carry them a few generations until they destroy what we built. This happens even faster if they inherit the [power](power.md) we've built without the skills it took to *[build](success-1_why.md)* that power.
 - Spreading [fear](mind-feelings-fear.md) ends when our presence ends. While people know the names of Genghis Khan and Alexander the Great, nobody respects their former power anymore except small groups of historians.
 
 ## Forgotten
@@ -49,13 +49,13 @@ Most of what we do will be forgotten almost immediately after our funeral.
 
 APPLICATION: It's difficult to deal with the death of someone younger than us, especially [our children](people-family.md), because it's the termination of all the potential life that may have built something greater than we ourselves could have attained.
 
-Only the top 5% of our [creations](creations.md) will outlast us enough to start a [social trend](trends.md), and we have very little control over *which* creations get there or how far they go.
+Only the top 5% of our [creations](creations.md) will outlast us enough to start a [social trend](people-trends.md), and we have very little control over *which* creations get there or how far they go.
 
 APPLICATION: You don't know how much influence you'll have after you die. As I write this, I may only influence a few hundred people with it and pass on as a decent-enough person, or historians will consider me one of the "Great Writers of the 21st Century" in 200 years. It doesn't technically [matter](meaning.md) either way for my day-to-day life, though, and I guarantee the future possible readers will misunderstand what I'm writing.
 
 No matter what we pursue, we will eventually be *completely* forgotten. Either our posthumous [influence](influence.md) will dilute through blending into everyone else's, or we'll be lost to time through [history's endless revisions](stories-storytellers.md). The only hope someone has is to advance a mythological set of [symbols](symbols.md) to assist a future group in discovering [meaning](meaning.md) through [interpreting](people-image-why.md) what they've found.
 
-APPLICATION: The only way to reliably maintain a legacy that lasts for more than a few hundred years is to instill simple [habits](habits.md) that create [meaning](meaning.md) through framing an [identity](identity.md) associated with a [family](people-family.md).
+APPLICATION: The only way to reliably maintain a legacy that lasts for more than a few hundred years is to instill simple [habits](habits.md) that create [meaning](meaning.md) through framing an [identity](people-identity.md) associated with a [family](people-family.md).
 
 [Human nature](humanity.md) also magnifies any naturally occurring effects of things lost to time.
 
@@ -69,4 +69,4 @@ Even if we could theoretically add something [meaningful](meaning.md) to the uni
 
 We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](https://theologos.site/gospel/) heavily steeped in [religious bias](religion.md).
 
-Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](people-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](imagination.md) to the degree it affects the present.
+Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](mind-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](people-imagination.md) to the degree it affects the present.

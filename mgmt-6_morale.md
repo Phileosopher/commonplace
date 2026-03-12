@@ -3,9 +3,9 @@
 
 Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) can make-or-break an organization's morale.
 
-- Depending on how you came into the role and what the members [imagine](imagination.md) you'll do, your presence will both motivate *and* demotivate them.
+- Depending on how you came into the role and what the members [imagine](people-imagination.md) you'll do, your presence will both motivate *and* demotivate them.
 
-In practice, healthy member management is hands-off, a bit like [gardening](horticulture.md).
+In practice, healthy member management is hands-off, a bit like [gardening](plants.md).
 
 - You can keep adjusting and tweaking small things, but anything dramatic will send at least some of the workers into a temporary state of shock.
 - Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](results.md) will suffer.
@@ -25,7 +25,7 @@ The most direct way to manage is through giving incentives for good things and d
 
 - Your immediate responses and [habits](habits.md) with subordinates feed directly into the work environment's [culture](people-culture.md).
 
-Stay vigilant over what you can control when you make [decisions](people-decisions.md).
+Stay vigilant over what you can control when you make [decisions](mind-decisions.md).
 
 - Sometimes, you can control workers' constraints (e.g., firing, docking pay) but not freedoms (e.g., break time, more pay), and other times it's the other way around.
   - [Legal constraints](legal-safety.md) can create this, but company policy as a [middle manager](mgmt-middle.md) makes even *more* constraints.
@@ -47,7 +47,7 @@ When the financial situation is *not* going well, cut back on *both* rewards and
 
 - Removing existing rewards is a type of collective discipline, weighted heavily toward the highest achievers suffering the most.
 - Stay brutally honest when the situation isn't going well, or the members will resent you for not telling them.
-- Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](imagination.md).
+- Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](people-imagination.md).
 - If times are hard enough, the best workers *will* leave.
   - Postponing information to get more work out of them is [unethical](morality.md).
   - Depending on your situation, if things get harsh enough, *you* should leave too.
@@ -63,7 +63,7 @@ Managers will go *very* far if they can master the [skills for being a decent hu
 
 - [Respect](people-boundaries.md) your workers.
 - Encourage them to [think independently](understanding.md).
-- Allow them to make [decisions](people-decisions.md) on their own.
+- Allow them to make [decisions](mind-decisions.md) on their own.
 - Connect their work to a legitimately important [collective effort](groups-small.md).
 
 Workers are highly motivated by competence.
@@ -91,7 +91,7 @@ While money is always a great incentive (especially in comparison to their peers
 - Great workers will *never* feel their well-paid enough when working under a bad manager.
 - They need a balance between achievement and challenge, where they both feel they've succeeded but also see more room to grow.
 
-Many motivations depend heavily on [personality](personality.md):
+Many motivations depend heavily on [personality](people-personality.md):
 
 - Openness to Experience
   - High - the novelty of the work, free time to explore and learn new things
@@ -131,7 +131,7 @@ However, some things *always* discourage people from working:
 
 Over time, *every* new member will slowly become less motivated toward the team's interests.
 
-- When they start, their [imagination](imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
+- When they start, their [imagination](people-imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
 
 Everyone loses their dedication to the group along a relatively straightforward pattern:
 

@@ -13,7 +13,7 @@ In summary, everyone must [love](people-love.md) each other for a perfect societ
 
 [Laws](people-rules.md) would only serve to enforce common sense and self-respect, and would rarely be broken intentionally. Thus, the laws would exist as a fail-safe for everything else.
 
-The laws would have a natural hierarchy of [power](power.md) leading up to the top, where we'd have a perfect moral decider. As of right now, we don't have a viable solution for whatever would make those perfect moral [decisions](people-decisions.md).
+The laws would have a natural hierarchy of [power](power.md) leading up to the top, where we'd have a perfect moral decider. As of right now, we don't have a viable solution for whatever would make those perfect moral [decisions](mind-decisions.md).
 
 One notable difference to laws compared to our society, though, will be its severity. Falsely stating what you've seen, intentionally misspeaking or misusing words, and turning a blind eye to [evil](morality-evil.md) will be as punishable as *much* more serious crimes like physical abuse or rape. The reason for the odd punishment will be to prevent people from falling into patterns of moral decay that *do* lead to worse evil.
 
@@ -21,11 +21,11 @@ Law enforcement would still exist in some form, but wouldn't need *near* as much
 
 ## Motivation
 
-Our current society forms from [decisions](people-decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](money-economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
+Our current society forms from [decisions](mind-decisions.md) we make for self-love (i.e., economic gain, military strength, ego projects). Thus, [capitalism](money-economics.md) works more than [socialism](politics-leftism.md). In a perfect society, everyone would *do* all the claimed actions of socialism, but with the [motivational](purpose.md) sincerity of capitalism.
 
 The entire culture would encourage and support each person to act in [love](people-love.md) beyond themselves. Thus, people would make all [creations](creations.md), even things like plumbing or scientific discoveries, *strictly* to solve others' [problems](purpose.md).
 
-However, selflessness is still a [choice](people-decisions.md), so selfish people would still exist. They'd be the equivalent of today's "village idiots". Many of them would submit themselves to vices, and the destructive nature of their lifestyles would impede their ability to [succeed](success-1_why.md).
+However, selflessness is still a [choice](mind-decisions.md), so selfish people would still exist. They'd be the equivalent of today's "village idiots". Many of them would submit themselves to vices, and the destructive nature of their lifestyles would impede their ability to [succeed](success-1_why.md).
 
 The concept of money would be gone. Since nobody would care to stockpile [power](power.md), the only "currency" people would honor would be their reputations. But, since everyone would understand how [artificially inflating](people-image-distortion.md) their reputation could harm others, nobody would deceive anyone else.
 
@@ -33,27 +33,27 @@ The concept of money would be gone. Since nobody would care to stockpile [power]
 
 Groups would converge *strictly* for clear [purposes](purpose.md). As people started [specializing](jobs-specialization.md), the lack of political battles would mean a significant segment of the group would simply break off any time a divergent task was needed. No group, therefore, would ever surpass about [150 people](groups-large.md) before splitting.
 
-Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md) and it wouldn't take hold.
+Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](people-imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md) and it wouldn't take hold.
 
 The [cultures](people-culture.md) of *all* people groups in a perfect society would be within a specific range:
 
 - Conflict Style - Everyone would be graciously confrontational, since they'd have no [fear](mind-feelings-fear.md) that other people would become offended or [distort the truth](people-image-distortion.md).
 - Context Level - It would vary broadly by everyone's preference. However, everyone would patiently lower their context as they saw others not quite [understanding](understanding.md) the higher context.
-- Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](people-decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
+- Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](mind-decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
 - Masculinity/Femininity - Everyone would be as results-oriented or harmony-oriented as they wanted. However, everyone would *also* patiently endure others' different approach to tasks. Men would be compassionate toward women, women would respect men.
 - Power Distance - Every single group would have zero power distance. While everyone would respect each other's unique abilities and strengths, nobody would be considered "lesser" simply by having less power or authority.
 - Time Flexibility - There'd be a broad range based on the urgency of the tasks to be performed, but people would generally be patient for everything.
-- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](people-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
+- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](mind-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](people-imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
 - Principles/Applications - We'd see the full range of principles versus implementations.
 - Uncertainty Avoidance - Everyone, by knowing everyone else loved them, would be significantly more comfortable with [uncertainty](understanding-certainty.md) than we are today. However, some people would still accept the [unknown](unknown.md) more than others.
 
 Since they wouldn't have to deal with others pushing in crowds or byproducts of self-interested, destructive behaviors like traffic jams, people would generally move faster and get more things done.
 
-The implications of this culture would mean that young people will respect their elders' superior experience, and elders will consider the value of new [trends](trends.md). Thus, everyone would adopt better trends that added more value (because the [young](maturity.md) heeded the old), and more quickly (because the old considered the young).
+The implications of this culture would mean that young people will respect their elders' superior experience, and elders will consider the value of new [trends](people-trends.md). Thus, everyone would adopt better trends that added more value (because the [young](maturity.md) heeded the old), and more quickly (because the old considered the young).
 
-Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](trends.md) to transform the host group as they observe the stranger.
+Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](people-trends.md) to transform the host group as they observe the stranger.
 
-Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories-why.md) of other cultures and places, with their ideas representing as [new trends](trends.md) among those cultures.
+Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories-why.md) of other cultures and places, with their ideas representing as [new trends](people-trends.md) among those cultures.
 
 ## Language
 
@@ -101,7 +101,7 @@ Thus, while a film may have opening credits with someone's name, the personality
 
 The choice of stories wouldn't be driven by the sensational or shocking, but instead upon a [love](people-love.md) of improving society through inspiring [virtue](morality.md). People who heroically save others, live by good [values](values.md), give [meaning](meaning.md) to others, and do remarkably unpleasant jobs will receive most of the attention.
 
-We'd make creations individually for people. While we'd scale them for others, we'd never over-build to render that thing stale or unpopular. Very often, the creator would hand off the [trend](trends.md) to someone else, who would put their spin on it and bring fresh life to the idea.
+We'd make creations individually for people. While we'd scale them for others, we'd never over-build to render that thing stale or unpopular. Very often, the creator would hand off the [trend](people-trends.md) to someone else, who would put their spin on it and bring fresh life to the idea.
 
 In our society, we frequently must trade elegance for speed: ugly and fast versus good and slow. Since everyone will be more patient out of love, nobody will rush anyone, and it'd *all* be [elegant](values-quality.md).
 
@@ -115,7 +115,7 @@ We'd [create](mind-creativity.md) all *sorts* of things like what we see today f
 
 Beyond films and books, we'd design and share electronic games, sophisticated sports, and elaborate toys. There'd be competitions and tournaments for just about anything anyone wanted, as long as there were a few people to have fun competing with.
 
-We'd naturally all enjoy the [good life](goodlife.md), resting before we were burned out from overwork.
+We'd naturally all enjoy the [good life](people-goodlife.md), resting before we were burned out from overwork.
 
 ## Education
 

@@ -10,7 +10,7 @@ Broadly, macroeconomic activity of any entity is measured as "gross domestic pro
 - Government (G) - administrative "maintenance" costs to keep things going (e.g., [police](legal-safety.md), [tax collectors](money-accounting.md)).
 - Net Exports (NX) - the quantity of goods and services sent out to other groups.
 
-Like any other measurable thing, people can play [math](math.md) games to [distort](people-image-distortion.md) GDP compared to a group's actual wealth (e.g., extra government spending), and it doesn't account for human [welfare](goodlife.md).
+Like any other measurable thing, people can play [math](math.md) games to [distort](people-image-distortion.md) GDP compared to a group's actual wealth (e.g., extra government spending), and it doesn't account for human [welfare](people-goodlife.md).
 
 There are five major ways macroeconomists track movement:
 
@@ -20,7 +20,7 @@ There are five major ways macroeconomists track movement:
 - Regulatory policy - how does the government make [laws](rules-methods.md)?
 - Trade - how does a government and its people interact with [other governments](politics-systems.md) and their people?
 
-It's worth noting that the entire realm of macroeconomics becomes a matter of controlling individual [decision-making](people-decisions.md). The motivation for this is either for [power](power.md) or [love](people-love.md) of humanity, depending on your opinion.
+It's worth noting that the entire realm of macroeconomics becomes a matter of controlling individual [decision-making](mind-decisions.md). The motivation for this is either for [power](power.md) or [love](people-love.md) of humanity, depending on your opinion.
 
 APPLICATION: Markets are chaotic, so economists make statistical correlations, which [don't necessarily tie to causation](math.md). They'd be out of a job [if they didn't explain cause-and-effect](science.md), even if they're utterly wrong.
 
@@ -56,7 +56,7 @@ Governments can focus their taxation on certain domains, which creates a type of
 
 One of the most common reductionist myths is that taxpayers "pay" for government programs. Since governments manage the money supply as well, they have more dimensions of control than initial appearances.
 
-Many governments try to create costs for unrelated third parties who suffer from a [decision](people-decisions.md) ("negative externalities"):
+Many governments try to create costs for unrelated third parties who suffer from a [decision](mind-decisions.md) ("negative externalities"):
 
 - Pollution
 - Damaging public goods
@@ -65,9 +65,9 @@ Many governments try to create costs for unrelated third parties who suffer from
 
 [Authorities](groups-large.md) often attempt to prevent negative externalities with [rules](people-rules.md) that come with fines and penalties, but they'll also frequently [make things worse](mgmt-badsystems.md):
 
-- [Innovators](trends.md) often create [brilliant](mind-creativity.md), [better](results.md) solutions that violate the spirit of the [regulations](people-rules.md) even worse.
+- [Innovators](people-trends.md) often create [brilliant](mind-creativity.md), [better](results.md) solutions that violate the spirit of the [regulations](people-rules.md) even worse.
 - Many times, delays from controlling measures will force waste from non-consumption.
-- Undesirable [social trends](trends.md) can often exploit a well-intended thing for bad purposes.
+- Undesirable [social trends](people-trends.md) can often exploit a well-intended thing for bad purposes.
 
 Even when they don't outright ban things, governments often set price limits on goods and services to alter everyone's consumption. If prices are too high, suppliers will waste the product because nobody will buy it. If prices are too low, the product will be unprofitable and nobody will make it, which will create a shortage.
 
@@ -75,11 +75,11 @@ APPLICATION: By hiking the price on something, consumers won't change up to wher
 
 ## Spending
 
-While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](trends.md)-resistant, and often poorly made.
+While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](people-trends.md)-resistant, and often poorly made.
 
-The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](people-decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
+The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](mind-decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
 
-APPLICATION: Building wealth is valuable to advancing [the good life](goodlife.md) in a society, but only as far as the middle class. Beyond that, any further wealth only runs the risk of [corrupting](morality-evil.md) unless it's used for a [virtuous](morality.md) end.
+APPLICATION: Building wealth is valuable to advancing [the good life](people-goodlife.md) in a society, but only as far as the middle class. Beyond that, any further wealth only runs the risk of [corrupting](morality-evil.md) unless it's used for a [virtuous](morality.md) end.
 
 Often, governments can provide "stimulus spending" to provoke more people to spend more money in private markets. This creates a distortion of the market (and the risks from [corruption](mgmt-badsystems.md)) because that money comes strictly from taxation.
 
@@ -142,7 +142,7 @@ In a free society where private individuals have [power](power.md), governments 
 - Governments can give benefits to large companies while harming smaller companies without those connections ("crony capitalism").
 - Large companies can influence [rules](people-rules.md) to carve out markets for themselves and squash competition ("regulatory capture").
 
-APPLICATION: Economic growth is only partly connected to [well-being](goodlife.md). It *can* give more things people need, but true [meaning](meaning.md) comes through [wealth-building](creations.md) *far* more than having it. Any attempt to [measure](math.md) well-being in a society or between [cultures](people-culture.md) is impossible because we can't put numbers on satisfaction about *anything*, and it's a relative concept.
+APPLICATION: Economic growth is only partly connected to [well-being](people-goodlife.md). It *can* give more things people need, but true [meaning](meaning.md) comes through [wealth-building](creations.md) *far* more than having it. Any attempt to [measure](math.md) well-being in a society or between [cultures](people-culture.md) is impossible because we can't put numbers on satisfaction about *anything*, and it's a relative concept.
 
 Companies can solidify their [control](power.md) of a market with a simple procedure:
 

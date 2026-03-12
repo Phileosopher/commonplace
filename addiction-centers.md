@@ -171,7 +171,7 @@ If your [principles](values.md) are your life's purpose:
 - Principles: Immutable natural laws with immutable consequences, preserves integrity which leads to legitimate growth and happiness
 - God: The Designer and Maintainer of principles, subordinate to understood constraints provided by principles
 
-If [God](god.md) is your life's purpose:
+If [God](theology-god.md) is your life's purpose:
 
 - Spouse: A person given by God to love in a mutually beneficial, interdependent relationship
 - Family: A group of people placed in proximity to oneself for service, growth, contribution, and intergenerational re-scripting and change

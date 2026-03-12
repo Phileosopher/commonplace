@@ -21,7 +21,7 @@ However, **monism** and **pluralism** could certainly exist *within* the univers
     - **Subjective idealism** can't be true, since our minds and God's mind are intrinsically separate things that certainly both exist.
   - **Materialism** (and its derivatives in **dialectical materialism**, **historical materialism**, **naturalism**, and **physicalism**) isn't possible in Christian doctrine, since there is a *lot* of Scripture revolving around the concept of a "spirit" state that transcends a physical one.
     - In particular, **Christian materialism**, despite its name, requires indicating that only Jesus exists, and we are illusions, which takes away from any meaningful relationship God would have with us.
-    - Physicalism's variants (**eliminative materialism**, **emergent materialism**, **French materialism**, **reductionism**, and **revisionary mateirialism**) are abiding by [science's](science.md) latest [trends](trends.md), but don't hold up if we assume that God is a spirit being of any form.
+    - Physicalism's variants (**eliminative materialism**, **emergent materialism**, **French materialism**, **reductionism**, and **revisionary mateirialism**) are abiding by [science's](science.md) latest [trends](people-trends.md), but don't hold up if we assume that God is a spirit being of any form.
 - Pluralism is also entirely possible if we believe that some things are designed to transcend [human understanding](understanding.md).
   - **Holism** and **organicism** has plenty of use. An example would be how the Church with all its members together is more value than each individual within the Church.
   - At the same time, **reductionism** (and **ontological reductionism**) is also significant in its place. After all, as a [thought experiment](philosophy-paradoxes.md), Jesus would still have died for one single human being.
@@ -66,19 +66,19 @@ False
 
 There is no way that God's standard of justice is relative, so **absolutism** is undeniably true and **relativism** is undeniably false.
 
-- Further, our beliefs about [God's omniscience](god.md) almost mandate a further belief in **necessitarianism** (since God doesn't technically perceive "possibility", even though we do).
+- Further, our beliefs about [God's omniscience](theology-god.md) almost mandate a further belief in **necessitarianism** (since God doesn't technically perceive "possibility", even though we do).
 
-The very real nature of [sin](morality-sins.md) and our implicit need for a Savior makes severe constraints on reality:
+The very real nature of [sin](theology-sins.md) and our implicit need for a Savior makes severe constraints on reality:
 
 - **Accidentalism** isn't possible, since cause-and-effect is a very real thing.
 - **Nominalism** can't be true because the truth of sin requires there to be an objective reality associated with a moral failing.
   - However, **conceptualism** is still possible, especially if we lean into idealism.
 - **Illusionism** can't be true, since God creates actual, tangible things.
-- **Immaterialism** can't be true either, since there are material, real consequences that we face as a consequence of material, real [decisions](people-decisions.md) we have made.
+- **Immaterialism** can't be true either, since there are material, real consequences that we face as a consequence of material, real [decisions](mind-decisions.md) we have made.
 
 **Eternalism** is certainly *partly* true, at least with reference to God. Our beliefs about what God knows and how long He has known it will affect how far it goes.
 
-**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](understanding.md) and the future is simply [imagination](imagination.md).
+**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](understanding.md) and the future is simply [imagination](people-imagination.md).
 
 ### The Verdict
 
@@ -117,7 +117,7 @@ False
 **Determinism** is necessarily true in some way, since God has designed everything and knows what will happen.
 
 - **Hereditarianism** is very possible, and likely true, especially when we consider that Scripture indicates aspects such as curses passing across generations ([Exodus 34:7](https://biblehub.com/exodus/34-7.htm)).
-- **Finalism** is, in some ways, a vastly [meaningful](meaning.md) perspective within Christianity, since [Jesus will eventually create a right solution](jesus-returns.md) to all failings within society.
+- **Finalism** is, in some ways, a vastly [meaningful](meaning.md) perspective within Christianity, since [Jesus will eventually create a right solution](theology-end.md) to all failings within society.
 - However, subsets of determinism like **biologism**, **historical determinism**, and **historicism** can't be true, since our decisions are inalienably our responsibility and God is always capable of intervening to change the course of events.
 - On a smaller scale, though, **indeterminism** is also possible, since misfortune happens evenly to both righteous and sinners ([Matthew 5:45](https://biblehub.com/matthew/5-45.htm)).
 
@@ -193,6 +193,8 @@ False
 
 **Animism** can be entirely true, but any spiritual authority will be subordinate to God's authority.
 
+**Catastrophism** doesn't fit at all with a Christian worldview, since God is far more personal than simply running things through heavy and violent means.
+
 While anti-theism is somewhat true, **nontheism** simply can't be true if Christianity holds truth.
 
 - **Agnosticism** (and its subsets, and the hybrid of **transtheism**) are untrue, since the God of the Bible is *certainly* knowable with distinctive qualities.
@@ -204,7 +206,7 @@ Christianity is essentially and indisputably a subset of **theism**.
 
 - In particular, it's vastly and non-negotiably **monotheism**.
   - **Augustinianism** is definitely true, since the dichotomy of spiritual and physical does *not* have an implicit goodness or badness (i.e., there are spiritual [demons](spiritual-warfare.md) and angels, there are physical sinners and physical Jesus Christ as sinless).
-  - **Classical theism** is at least *somewhat* true, but the essence of Jesus makes it impossible to go all the way with the idea (since He wants a [friendship](people-friends.md) with us and is therefore affected by our lives and [decisions](people-decisions.md) by extension).
+  - **Classical theism** is at least *somewhat* true, but the essence of Jesus makes it impossible to go all the way with the idea (since He wants a [friendship](people-friends.md) with us and is therefore affected by our lives and [decisions](mind-decisions.md) by extension).
   - **Deism** can't be true, since God has a clearly vested interest in humanity's decisions and development.
   - Since God is *clearly* distinct from the universe, **pantheism**, **panentheism**, **pandeism**, **monistic theism** can't be true.
   - **Substance monotheism** is necessary in some form as a necessary basis of understanding the Trinity.
@@ -229,7 +231,7 @@ True
 Possible (and useful)
 
 - Creationism (in a few forms)
-  - Young Earth creationism (driven by either [scientific beliefs](science.md) or [the Bible](bible.md) directly)
+  - Young Earth creationism (driven by either [scientific beliefs](science.md) or [the Bible](theology-bible.md) directly)
   - Omphalos creationism (which effectively throws out scientific beliefs)
 
 Possible (somewhat)
@@ -256,6 +258,7 @@ False
   - Atheism
   - Agnostic atheism
   - Ignosticism
+- Catastrophism
 - Deism
 - Polytheism (almost entirely)
   - Henotheism

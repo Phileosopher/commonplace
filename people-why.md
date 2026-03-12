@@ -89,7 +89,7 @@ Communication is the most powerful force on earth:
 - Communication is rational, but hits emotional triggers.
   - Every impactful speech, from Martin Luther King, Jr. to Adolf Hitler, uses emotions to tremendous effect.
 - Most good ideas come through excellent conversations, but poor conversation skills will repel people from amazing ideas.
-- Regardless of [your personality](personality.md), introvert or extrovert, you will always benefit from being around people more often.
+- Regardless of [your personality](people-personality.md), introvert or extrovert, you will always benefit from being around people more often.
 
 ## Socializing isn't *one* skill
 

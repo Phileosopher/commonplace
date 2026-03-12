@@ -60,6 +60,11 @@ Whenever possible, avoid news videos unless they're curated for time.
 
 - Most news coverage time involves drawing connections to other things, which should be *your* job as the consumer.
 
+Web search any verifiable information.
+
+- If there are any quotes, search those quotes to find where they came from.
+- Search any images with a reverse image search.
+
 For more accurate news, find a good journalism website.
 
 1. Save several of the most interesting articles for each journalist you want to follow.

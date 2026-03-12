@@ -157,7 +157,7 @@ The controversy of torrenting has become almost a mainstay of society:
 2. However, law enforcement only abates the wave, and never successfully shuts anything down completely.
 3. New technologies give the public even *more* power. The decentralized BitTorrent protocol, for example, has inspired [blockchain](computers-blockchain.md), which now competes as a strange de facto alternative to [government-issued currency](money-economics.md).
 
-Many software entrepreneurs and executives [aren't particularly aware](trends.md) of the mindset of pirates, and it creates a few odd arrangements:
+Many software entrepreneurs and executives [aren't particularly aware](people-trends.md) of the mindset of pirates, and it creates a few odd arrangements:
 
 1. Particularly freedom-loving software developers will open the doors wide-open for [complete software freedom](legal-ip-floss.md), which will attract piracy-based users. This may include free [network use](networks-cs.md), free [storage](computers-memory.md), or [free hosting](computers-sofware-webdev.md).
 2. If they're not careful, that [risk exposure](safety-riskmgmt.md) will make them stand out as the go-to piracy solution, drawing in more users in that community. If they don't diversify their [marketing](marketing.md), they'll become [notorious](people-image-why.md) for piracy-based activities.

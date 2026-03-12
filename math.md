@@ -41,7 +41,7 @@ APPLICATION: Math is useful, but it's always comparative [logic](logic.md). We m
 
 APPLICATION: To solely value money is to assign a measurement of power as [power itself](power.md).
 
-However, living [the good life](goodlife.md) requires us to *avoid* using numbers to find [purpose](purpose.md) or [meaning](meaning.md). By quantifying anything, we define our [feelings](mind-feelings.md) by an added abstraction from reality instead of [reality](reality.md) itself.
+However, living [the good life](people-goodlife.md) requires us to *avoid* using numbers to find [purpose](purpose.md) or [meaning](meaning.md). By quantifying anything, we define our [feelings](mind-feelings.md) by an added abstraction from reality instead of [reality](reality.md) itself.
 
 In any meaningful situation, the ultimate goal of a numerical measurement will be a non-numerical purpose. Any measurement that is also a higher [purpose](purpose.md) on its own is either [performing another's non-numerical desires](groups-member.md) or veering into a form of [addiction](addiction.md).
 
@@ -84,7 +84,7 @@ Math is very thorough, so it's never really "easy", and it can often be tedious,
 On a highly advanced level, math has two broad [analytical](logic.md) purposes:
 
 1. Reproducing the elements of [reality](reality.md) with numbers, which is largely the domain of most math disciplines like calculus and game theory.
-2. Capturing reality itself with numbers to observe any [trends](trends.md) that may emerge, which is all derived from statistics.
+2. Capturing reality itself with numbers to observe any [trends](people-trends.md) that may emerge, which is all derived from statistics.
 
 Math isn't really one discipline, but has technically become *hundreds* of domains.
 
@@ -123,7 +123,7 @@ However, at the end of the 19th century, there was an issue about Euclid's fifth
 2. When that point is not on a line...
 3. Only 1 other line can pass through that point and be parallel with the existing line.
 
-The problem was that nobody could prove the fifth postulate, and that unleashed a [post-modern deconstruction movement](trends.md) called the foundational crisis.
+The problem was that nobody could prove the fifth postulate, and that unleashed a [post-modern deconstruction movement](people-trends.md) called the foundational crisis.
 
 After the foundational crisis, there were *many* new branches of mathematics, and most of the previous math disciplines became labeled as the "classical" discipline. As of 2020, there were 63 primary domains of mathematics.
 

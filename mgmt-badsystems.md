@@ -9,7 +9,7 @@ By "bad", something has been [purposed](purpose.md) or repurposed to the point t
 
 APPLICATION: The distinction between [evil](morality-evil.md) and incompetent leaders comes through intent. We can't see intent directly, but we *can* see who suffers in the system. Generally, very specific people suffering unfairly comes from evil, while everyone suffering is generally from incompetence.
 
-Tragically, the worst bad systems were once serving a highly necessary (and often [virtuous](morality.md)) [purpose](purpose.md). Many times, they'll outlive their original [goals](purpose.md) (e.g., "[awareness](awareness.md)" of a disease or fighting an [injustice](morality-justice.md)) and will incessantly recycle a [trend](trends.md) into obsolescence.
+Tragically, the worst bad systems were once serving a highly necessary (and often [virtuous](morality.md)) [purpose](purpose.md). Many times, they'll outlive their original [goals](purpose.md) (e.g., "[awareness](awareness.md)" of a disease or fighting an [injustice](morality-justice.md)) and will incessantly recycle a [trend](people-trends.md) into obsolescence.
 
 A bad system has clear indicators:
 

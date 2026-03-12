@@ -108,7 +108,7 @@ Beyond that, the details are very specific to the method. Many approaches are si
 
 ### Power
 
-The ability for *anyone* with [design](engineering-graphics.md) skills to make what they [imagine](imagination.md) has tremendous implications:
+The ability for *anyone* with [design](engineering-graphics.md) skills to make what they [imagine](people-imagination.md) has tremendous implications:
 
 1. Engineers can effectively prototype and test their creations within a matter of days, not weeks or months.
 2. The opportunity to create anything can include protected [intellectual property](legal-ip.md) and [illegal](people-rules.md) objects (e.g., guns).

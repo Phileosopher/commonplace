@@ -111,7 +111,7 @@ The impact of this is huge. Charles Eliot once called electricity "carrier of li
 
 Generally, people work when they have [a reason](purpose.md) to work. The most clear version of this is money, but it can be any [form of power](power-types.md) to accomplish what they want, except for [enslavement](people-slavery.md).
 
-Very often, governments of many countries [strip motivations](mgmt-badsystems.md) to do society-enhancing things. A policy can create a perverse incentive, and other times a [totalitarian regime](politics-systems.md) makes people feel their sense of [identity](identity.md) can't extend into the world around them.
+Very often, governments of many countries [strip motivations](mgmt-badsystems.md) to do society-enhancing things. A policy can create a perverse incentive, and other times a [totalitarian regime](politics-systems.md) makes people feel their sense of [identity](people-identity.md) can't extend into the world around them.
 
 Other times, non-government groups possess enough power to control what a government does (e.g., oppressive religious groups, corporations).
 
@@ -119,7 +119,7 @@ Other times, non-government groups possess enough power to control what a govern
 
 Either way, giving freedom for people to work the way they want, on things they want, without large-scale oppression, typically requires [outside competition](money-economics.md).
 
-- If governments [fear](mind-feelings-fear.md) invasion (especially when they may fall behind on [technology](technology.md) [trends](trends.md)), their leaders will frequently adopt changes they wouldn't have otherwise made that work in the best interests of the public.
+- If governments [fear](mind-feelings-fear.md) invasion (especially when they may fall behind on [technology](technology.md) [trends](people-trends.md)), their leaders will frequently adopt changes they wouldn't have otherwise made that work in the best interests of the public.
 
 ## Goal 9: Industry, Innovation, and Infrastructure
 
@@ -198,7 +198,7 @@ If the climate is in utter peril, and we're all precariously close to imminent d
 
 Otherwise, if there's even the remotest doubt about the measurements' connection to the climate, or there's been tremendous political swaying of the legitimate risks associated to the climate, we should seriously consider whether all these anti-human-activity actions are even necessary.
 
-The fatalist Climate Changeism is more a [religion](religion-answers.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories-why.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
+The fatalist Climate Changeism is more a [religion](religion-answers.md) of our times than anything else. Certain [scientific facts](science.md) indicate truth that opposes the mainstream [narrative](stories-why.md) (e.g., the Mount Saint Helens eruption caused more pollution than the entire Industrial Revolution), but today's modern, [trendy](people-trends.md) ideas are as resistant to [influence](power-influence.md) as the ubiquity of the Roman pantheon two thousand years ago.
 
 ## Goal 14: Life Below Water
 

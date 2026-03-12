@@ -71,7 +71,7 @@ The job ruins your personal life:
 - Weekends make the first day of the next workweek unbearable.
 - Your work makes you cranky and irritable off-duty.
 
-You can't [identify](identity.md) with the organization:
+You can't [identify](people-identity.md) with the organization:
 
 - You don't feel your work adds value to anything.
 - You don't feel others in your workplace hear your ideas.

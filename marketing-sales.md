@@ -3,7 +3,7 @@
 
 One-on-one sales is by far the most intense, relational niche of marketing.
 
-- Effective salespeople have *very* extraverted [personalities](personality.md).
+- Effective salespeople have *very* extraverted [personalities](people-personality.md).
 - Sales staff stay motivated from the psychological numbers game:
   - If 100 calls create a lead, every call is another step to that lead.
 - The amount of rejection necessary to thrive in sales requires an extremely high sense of confidence.
@@ -73,7 +73,7 @@ Besides straddling [ethical](morality.md) boundaries, high-pressure sales also e
 One quick way to generate attention is through wash subscribing:
 
 1. Use many fake names with fake contact information inside a subscription system.
-2. Send out the marketing material to all the fake information, which makes it look wildly [popular](trends.md).
+2. Send out the marketing material to all the fake information, which makes it look wildly [popular](people-trends.md).
 3. Advertise to people that your subscription is wildly popular.
 4. If you can acquire enough actual subscribers, you've created a legitimately popular product.
 
@@ -94,7 +94,7 @@ Often, [lying](people-lying.md) builds leads.
 - Making false or unenforceable promises often provokes someone to [sign the contract](people-contracts.md) that makes the sale.
 - Fabricating a crowd who raves about a product often creates enough [artificial social pressure](people-image-distortion.md) to generate a legitimate crowd.
 
-The [personalities](personality.md) of sales staff (i.e., high Extroversion) mean they typically need to learn [the art of listening](language-speaking.md).
+The [personalities](people-personality.md) of sales staff (i.e., high Extroversion) mean they typically need to learn [the art of listening](language-speaking.md).
 
 - Good salespeople can (and do) repeat back precise words someone said, within the context they said it.
   - Repeat back their questions, then praise them for making good questions.
@@ -175,5 +175,5 @@ However, too much customer service can be devastating to an organization.
   - The intuition is that an angry message reflects 1,000 hidden angry messages.
   - However, usually, 1 angry message means 4 people are angry enough to be outraged, and the [algorithm](computers-programming-algorithms.md) favors "engagement" irrespective of *how* people responded or interacted.
   - With proper documentation, most companies can publicly communicate the exchange *back* on social media and let the public see the situation for themselves.
-- Healthy referral marketing can become sabotaged by all the extra work (and [bias](mind-bias.md)) from maintaining business relationships with the most [unlikable and unpleasant](personality.md) consumers.
+- Healthy referral marketing can become sabotaged by all the extra work (and [bias](mind-bias.md)) from maintaining business relationships with the most [unlikable and unpleasant](people-personality.md) consumers.
 - Successful customer service scales in effort to the importance of the consumer to the organization.

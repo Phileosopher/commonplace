@@ -1,7 +1,7 @@
 
 # The summarized history of the Christian church 11: The Protestant Post-Modernism
 
-The Third Great Awakening came between the late 1850s and late 1920s, and had a strong attitude driven by the belief that [Jesus would only come](jesus-returns.md) *after* a millennium of a [golden age of humanity](politics-perfectsociety.md).
+The Third Great Awakening came between the late 1850s and late 1920s, and had a strong attitude driven by the belief that [Jesus would only come](theology-end.md) *after* a millennium of a [golden age of humanity](politics-perfectsociety.md).
 
 - They focused heavily on the Social Gospel (a more practical approach to spirituality focused on [activism](church-serve.md)), and endorsed quite a few political/moral causes such as abolitionism (which at least partly provoked the American Civil War) and prohibition (preventing people from drinking [alcohol](fun-alcohol.md)).
 - The **Pentecostals** arose in the early 1890s from R.C. Horner asserting there was a *third* work of the Holy Spirit beyond baptism of the Holy Spirit: speaking in tongues. They exploded in membership and involvement during the Azusa Street Revival, which was regarded by most Christianity at the time as outrageous and unorthodox. Some Pentecostal, like **Oneness Pentecostals**, believe that God isn't a Trinity.
@@ -10,7 +10,7 @@ The Third Great Awakening came between the late 1850s and late 1920s, and had a 
   - Mary Baker Eddy's **Christian Science**
   - The Watchtower Bible and Tract Society's **Jehovah's Witnesses** by Charles Taze Russell as an offshoot of the Millerites
   - The New Thought movement's **Unity Church** and **Church of Divine Science**
-- **The Mission Friends** based in Sweden, among many others, were interdenominational pietists devoted to [evangelism](evangelism.md). In 1884 in Boone, Iowa the Swedish Evangelical Free Mission shared fellowship with a few Lutheran groups that year, then across a few places all over the USA, then expanded from there to become the **Evangelical Free Church**.
+- **The Mission Friends** based in Sweden, among many others, were interdenominational pietists devoted to [evangelism](spiritual-exercises-evangelism.md). In 1884 in Boone, Iowa the Swedish Evangelical Free Mission shared fellowship with a few Lutheran groups that year, then across a few places all over the USA, then expanded from there to become the **Evangelical Free Church**.
 - In 1893, the Evangelical Church of West Africa was established by three white people who wanted to spread the Gospel to West Africa on an "evangelical suicide mission" from the risks of malaria known at the time. They've since expanded their name to become **Evangelical Church Winnning All (ECWA)** to reflect their broader mission.
 - The Manchurian Revival was a series of events in 1908 that rapidly invoked a Christian presence in the modern-day Liaoning Provide of China.
 - Around 1920, **Bruderhof Communities** were established, which were communal living arrangements away from the rest of society as a new Hutterite movement.
@@ -31,7 +31,7 @@ The Fourth Great Awakening happened in the late 1960s through the early 1970s [f
 
 Roman Catholic Ecumenical Council #21 in 1962-1965 - The Second Vatican Council, feat. Popes John XXIII and Paul VI w/ 2,860 leaders
 
-- Issued documents on renewing and reforming the Roman Catholic Church, especially with the new [technologies](technology.md) and [trends](trends.md)
+- Issued documents on renewing and reforming the Roman Catholic Church, especially with the new [technologies](technology.md) and [trends](people-trends.md)
 - Established the Mass in the language of its environment, instead of simply in Latin
 
 The Shepherding Movement, or Discipleship Movement, was an effort in the 1970s and early 1980s by charismatic churches to create a unified cultural framework within the vast number of new house churches and small congregations that had recently arisen.

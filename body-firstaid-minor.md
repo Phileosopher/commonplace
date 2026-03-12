@@ -145,6 +145,25 @@ Apply essential oil to the skin
 
 Set a cotton ball soaked in alcohol in the navel
 
+## Hangover
+
+There are many, many proposed cures for a hangover drink.
+
+The following have more accessible ingredients in modern Western society:
+
+- Add a packet of salt and two packets of sugar to a glass of water (Isotonic)
+- Mix an egg yolk, squeeze a lemon, add some Worcestershire sauce, and add pepper (Traditional)
+- Mix an egg yolk with Worcestershire sauce (USA)
+- Drink pickle juice (Poland)
+- Drink strong green tea (China)
+- Add honey and apple cider vinegar to water (Iceland)
+- Drink coffee (Italy)
+- Drink strong coffee with salt added (France)
+- Eat a large meal of baked beans, eggs, bacon, and sausage (Britain)
+- Add a diarrhea rehydration packet to water (Hospitals)
+- Take ibuprofen with a glass of water before going to sleep (some scientific studies)
+- In general, the best thing is to drink plenty of water with some salt.
+
 ## Heartburn (acid reflux)
 
 Kneel with your head bowed lower than your stomach, which strengthens your lower esophageal sphincter

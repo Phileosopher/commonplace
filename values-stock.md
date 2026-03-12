@@ -22,7 +22,7 @@ The [Natural World](reality.md):
 
 [Religion](religion-answers.md) and [trust](trust.md):
 
-- [God](god.md) is good.
+- [God](theology-god.md) is good.
 - [Beliefs](understanding-certainty.md) make people stupid.
 - [Hope](trust.md) can change [reality](reality.md).
 - Drinking [alcohol](fun-alcohol.md) or consuming recreational drugs can destroy your life.
@@ -60,17 +60,17 @@ The [Natural World](reality.md):
 - Don't be *completely* honest.
 - Honesty is always the best policy.
 
-[Purpose](purpose.md) and [Identity](identity.md):
+[Purpose](purpose.md) and [Identity](people-identity.md):
 
 - Accept who you are.
 - Don't be shy with others or about what you want.
 - Don't take on tasks that are too large.
 - Have fun like you were dying.
 
-[Decisions](people-decisions.md) and [Meaning](meaning.md):
+[Decisions](mind-decisions.md) and [Meaning](meaning.md):
 
-- [Living well](goodlife.md) is more than surviving.
-- Focus on [today](awareness.md), since you [might not live tomorrow](imagination.md).
+- [Living well](people-goodlife.md) is more than surviving.
+- Focus on [today](awareness.md), since you [might not live tomorrow](people-imagination.md).
 - The [journey](success-5_persevering.md) matters more than the destination.
 - Learn [satisfaction](mind-feelings-happiness.md) with your lot in life.
 - Do everything in moderation.
@@ -106,8 +106,8 @@ The [Natural World](reality.md):
 
 [Planning](success-3_goals.md):
 
-- [Plan](imagination.md) carefully.
-- Your [plans](imagination.md) might not go the way you want.
+- [Plan](people-imagination.md) carefully.
+- Your [plans](people-imagination.md) might not go the way you want.
 - You may not like what you think you [want](purpose.md).
 - Conceit comes before destruction.
 - You must be willing to compromise.
@@ -160,7 +160,7 @@ The [Natural World](reality.md):
 
 [Technology](technology.md):
 
-- [Change](people-changes.md) and [progress](trends.md) are bad.
+- [Change](people-changes.md) and [progress](people-trends.md) are bad.
 - We should [influence progress](power-influence.md), and opposing it is bad.
 - Be cautious with powerful technology, especially if it was [designed to kill](people-conflicts-war-why.md) (e.g., guns).
 
@@ -193,7 +193,7 @@ The [Natural World](reality.md):
 - You can't be a friend to everyone.
 - People who are similar make closer friends.
 - Some "friends" weren't friends to begin with.
-- [Extroverted](personality.md) friends will help your social skills.
+- [Extroverted](people-personality.md) friends will help your social skills.
 - Respect everyone's preferences.
 
 Romantic [love](people-love.md):
@@ -214,7 +214,7 @@ Romantic [love](people-love.md):
 - Women have more common sense.
 - Don't have casual sex, and even contraceptives are still risky.
 - You're not an [adult](maturity.md) until you've had sex.
-- Opposite [personalities](personality.md) are attracted to each other.
+- Opposite [personalities](people-personality.md) are attracted to each other.
 
 [Family](people-family.md):
 
@@ -256,9 +256,9 @@ Justice - Revenge:
 - More minds and bodies [make work easier](jobs-specialization.md).
 - Too many people on a project can ruin it.
 
-Group [expectations](imagination.md):
+Group [expectations](people-imagination.md):
 
-- Conform to [expectations](imagination.md).
+- Conform to [expectations](people-imagination.md).
 - Don't conform to expectations.
 - Discrimination and bigotry are wrong and stupid.
 - People don't have as many differences between them as they think.
@@ -267,9 +267,9 @@ Group [expectations](imagination.md):
 
 - You can do everything, but you *must* specialize to be a master at anything.
 - If you do one thing very well, you won't be able to do other things as well.
-- Everyone's [personality](personality.md) is different, so they're better at their role than you realize.
+- Everyone's [personality](people-personality.md) is different, so they're better at their role than you realize.
 
-[Trends](trends.md):
+[Trends](people-trends.md):
 
 - Giving into materialism, peer pressure, and fashions is more trouble than it's worth.
 - Not remembering history dooms people to repeat it.

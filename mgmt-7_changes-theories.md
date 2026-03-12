@@ -69,19 +69,19 @@ The model is focused more on member satisfaction than on productivity.
 
 The model considers the individuality of each stage of members' [feelings](mind-feelings.md):
 
-1. Anxiety - insufficient information to [visualize](imagination.md) the future.
+1. Anxiety - insufficient information to [visualize](people-imagination.md) the future.
    - (Alternate) Complacency - complete apathy about the change, which can represent *anywhere* and at any time.
 2. Happiness - shared [hope](trust.md) and relief that the change may have positive consequences.
    - (Alternate) Denial - refusing to believe a change is coming.
 3. [Fear](mind-feelings-fear.md) - [uncertainty](unknown.md) over the impact of the change.
    - (Secondary) Anger - directed frustration, typically toward others at first.
    - The anger persists for several more stages beyond this one.
-4. Threat - a sense of dread over the risks the change presents, especially to their [purposes](purpose.md) or [identity](identity.md).
+4. Threat - a sense of dread over the risks the change presents, especially to their [purposes](purpose.md) or [identity](people-identity.md).
 5. Guilt - self-directed hatred about any failures regarding the change.
    - (Secondary) Anger - directed frustration at self.
    - (Alternate) Disillusionment - complete resignation, with [purposes](purpose.md) directed to something beyond the team.
    - (Alternate) Hostility - fierce aggression toward trying to make progress in [fixing](https://adequate.life/fix/) something, typically by ignoring or sabotaging the change.
-6. Depression - total despair about the change, often with an [identity](identity.md) crisis involved.
+6. Depression - total despair about the change, often with an [identity](people-identity.md) crisis involved.
 7. Gradual Acceptance - a sense of [meaning](meaning.md) in the new change.
 8. Moving Forward - complete integration of the new experience.
 
@@ -117,7 +117,7 @@ It uses 8 steps:
 
 1. Increase urgency.
 2. [Recruit a team](mgmt-3_teams.md) that will guide the change.
-3. Build out the [vision](imagination.md) for that change.
+3. Build out the [vision](people-imagination.md) for that change.
 4. Communicate how much everyone will have to contribute.
 5. Help everyone to act.
 6. Do everything possible to finish tasks and projects quickly.
@@ -159,7 +159,7 @@ The idea is that people more readily accept change when they choose to over stri
 It employs a [marketing approach](marketing.md) with stages of selling.
 
 1. Introduce something new alongside the old thing.
-2. Provoke a [trend](trends.md) toward that change.
+2. Provoke a [trend](people-trends.md) toward that change.
 3. Finalize consensus by removing the old thing.
 
 The approach is *not* effective when it's something people may dislike (e.g., pay cuts).

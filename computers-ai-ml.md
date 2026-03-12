@@ -31,12 +31,12 @@ However, machine learning is excellent for *very* specific tasks which are highl
 - Detecting if a photo is of a specific animal (e.g., a cat), which also allows it to regenerate a decent-enough photo on command. It would need re-training for something else, though (e.g., a dog).
 - Whether a sentence is appropriate or vulgar, which allows it to generate its own sentences as well. It would need re-training for each different writing style, though.
 - Reviewing [business contracts](people-contracts.md) for compliance and [risk assessment](safety-riskmgmt.md), which can also mean building them as well. It would need re-training for each purpose, though.
-- Observing [trends](trends.md) across [data](database.md), which *theoretically* can allow the algorithm to make future predictions.
+- Observing [trends](people-trends.md) across [data](database.md), which *theoretically* can allow the algorithm to make future predictions.
 - Observing an incredibly boring and repetitive thing, then detecting variances in it (e.g., factory quality control).
 
 ## Big data
 
-The AI [trend](trends.md) arose through many [FAANG corporations](faang.md) passing through [the entire internet](computers-software-webdev.md) into their training models.
+The AI [trend](people-trends.md) arose through many [FAANG corporations](faang.md) passing through [the entire internet](computers-software-webdev.md) into their training models.
 
 Naturally, machine learning models trained on the internet will give the same sort of information that the internet gives (i.e., bad information).
 

@@ -17,7 +17,7 @@ When you succeed, stay mindful of who you were and who helped you:
 - It took tremendous effort to overcome your trials, but anyone in your position with your opportunities and decisions could have done it.
 - More often than not, succeeding makes us tend to forget that outward success is fragile, fleeting, and unpredictable.
 - After your success, other things become easier, but not for *everyone else*, so stay compassionate toward their struggles.
-- We often imagine that we have conquered something, but in fact the success has merged our [identity](identity.md) to whatever we've attained.
+- We often imagine that we have conquered something, but in fact the success has merged our [identity](people-identity.md) to whatever we've attained.
 
 Never abuse your power with others or gloat over their failures:
 
@@ -89,7 +89,7 @@ Success is a lifelong journey across every conceivable subject:
 
 It's not uncommon to feel an existential crisis after succeeding:
 
-- If you've devoted your life to something, there's a good chance you didn't [imagine](imagination.md) life *after* that experience has fulfilled itself.
+- If you've devoted your life to something, there's a good chance you didn't [imagine](people-imagination.md) life *after* that experience has fulfilled itself.
 - Give yourself time to [enjoy life and relax](fun.md), and you'll find a new [purpose](purpose.md) soon enough.
 - If you feel a deeper void that implies complete emptiness, you have a [worse problem](meaning.md) than *any* type of success can give you, and it's likely [spiritual](religion-answers.md).
 
@@ -128,7 +128,7 @@ Don't let yourself get soft:
 - The lifestyle of associating with constantly successful people can impede our ability to empathize with most typical people.
 - When we start from a position of power, we tend to accomplish new things much more easily than when we start off, and we might forget what it means to persevere.
 - You start declining when you spend more time thinking about memories than dreams.
-- Stay on top of [relevant trends](trends.md), and keep learning and growing as if you'd never succeeded.
+- Stay on top of [relevant trends](people-trends.md), and keep learning and growing as if you'd never succeeded.
 
 Avoid flaunting your success:
 
@@ -151,12 +151,12 @@ You'll never get it completely right:
 
 - Once you've succeeded, it's *very* difficult to tell someone you already know something without sounding pretentious.
   - Learn to graciously [listen](language-speaking.md) to them, keep your thoughts to yourself, and say "thank you".
-- Your [identity](identity.md) should *always* be in something more important than your accomplishments.
-- Ironically, the experience of success makes you more close-minded (since that's what you needed to [persevere](success-5_persevering.md)), so you're guaranteed to be less prepared for [any emerging trends](trends.md).
+- Your [identity](people-identity.md) should *always* be in something more important than your accomplishments.
+- Ironically, the experience of success makes you more close-minded (since that's what you needed to [persevere](success-5_persevering.md)), so you're guaranteed to be less prepared for [any emerging trends](people-trends.md).
 - You always have room to grow, no matter what:
   - [Nerds](jobs-specialization.md) can [work out](body-exercise.md) more.
   - [Marketing](marketing.md) people can learn [math](math.md).
-  - [Trendy](trends.md) people can learn [philosophy](philosophy.md).
+  - [Trendy](people-trends.md) people can learn [philosophy](philosophy.md).
 - Constantly work to [improve *others'* lives](people-why.md).
   - Give the glory to others.
   - Praise others whenever they're responsible for a thought, even if it was yours to begin with.

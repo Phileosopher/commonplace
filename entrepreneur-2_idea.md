@@ -70,7 +70,7 @@ Within the first 5 years, 90% of startups fail for the same predictable reasons:
    - People simply don't need or want the product (42% of failures).
 3. The owner doesn't have enough vision to see where the business is going.
    - The business owner may not have a sufficient social network to meet the business' needs.
-   - Most of the time, they won't detect or act on [trends](trends.md) within the industry that may disrupt their organization.
+   - Most of the time, they won't detect or act on [trends](people-trends.md) within the industry that may disrupt their organization.
 
 Keep learning and researching as much as possible.
 

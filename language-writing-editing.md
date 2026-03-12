@@ -150,7 +150,7 @@ Use parallel syntax in each sentence to express patterns:
 Use concrete imagery more than abstract:
 
 - Generally, vague speaking (such as with [philosophy](philosophy.md)) will tire out the reader because they must hunt to connect that idea to something practical.
-  - Even intelligent readers who enjoy philosophy are simply using it as a prompt for their [imagination](imagination.md).
+  - Even intelligent readers who enjoy philosophy are simply using it as a prompt for their [imagination](people-imagination.md).
 - By speaking in plain terms and with clear connections, you do most of the work for the reader and motivate them to keep reading through to the end.
 - If you're not sure if you're being clear enough, liberally use metaphor and simile to bring make ideas tangible.
 

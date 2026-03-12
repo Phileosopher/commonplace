@@ -5,7 +5,7 @@ NOTE: While an extensive list of *all* the forms of power is impossible, I've co
 
 [Human Capital](money-economics.md)
 
-- [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](imagination.md).
+- [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](people-imagination.md).
 - Wisdom - [general](philosophy.md) [understanding](understanding.md) of [reality](reality.md).
 - Expertise - having a [specialized](jobs-specialization.md) [understanding](understanding.md) of things, *especially* of how to wield all the other forms of power.
 - Aptitude - ability to physically [do things](results.md).
@@ -32,7 +32,7 @@ Social (also known as "politics")
 
 Contextual
 
-- Information - has the means to accomplish a very specific [purpose](purpose.md) with very specific knowledge, which can frequently include awareness of [trends](trends.md).
+- Information - has the means to accomplish a very specific [purpose](purpose.md) with very specific knowledge, which can frequently include awareness of [trends](people-trends.md).
 - [Willful](purpose.md) Ignorance - by not knowing something, we don't have to [lie](people-lying.md) to claim ignorance.
 - Unforgiveness - by not [forgiving](hardship-forgiveness.md) someone, we can use it for our [purposes](purpose.md) later through blame.
 - Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](results.md).
@@ -46,7 +46,7 @@ NOTE: Social modifiers "tweak" power. None of these are legitimately as powerful
 
 Expectations - any [perception](people-image-why.md) of the above power, based on the [past](stories-storytellers.md).
 
-Anticipation - any perception of the above power, but predicted in the [future](imagination.md).
+Anticipation - any perception of the above power, but predicted in the [future](people-imagination.md).
 
 Reference - [familiar](people-friends.md) with other people with the means to do any of the above, which frequently includes [family](people-family.md) or [cultural ties](people-culture.md).
 

@@ -204,7 +204,7 @@ Habits are easy to build, if you're patient:
 
 No matter what, *always* take 1 day off every week:
 
-- Without a day to [rest from workouts](trends.md), your body will burn out.
+- Without a day to [rest from workouts](people-trends.md), your body will burn out.
 - If you don't give yourself a reprieve from dieting, you'll lose your willpower.
   - Your thyroid hormones self-regulate when exposed to consistent stress, so planning to "fail" is better than waiting for it to happen.
   - Make sure to regulate your portions on your day off, or you'll lose any progress you had made.

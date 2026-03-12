@@ -19,13 +19,13 @@ To that end, every secure thing has to have the following questions answered:
 3. *How* would #2 happen?
 4. *What or how* can #3 be stopped?
 
-We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](education.md), but it's easy to [imagine](imagination.md) we do:
+We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](education.md), but it's easy to [imagine](people-imagination.md) we do:
 
 - It's impossible to know about risks you couldn't have been exposed to, but it's easy to imagine our [fears](mind-feelings-fear.md) in that direction.
 - [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.
 - If we have particularly strong [trust issues](trust.md), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
 
-In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](goodlife.md) beyond a certain point:
+In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](people-goodlife.md) beyond a certain point:
 
 - 1-10% of society provides any legitimate risks to assets, and the rest of the people would never even *think* of doing anything adverse to it.
 - Dwelling on security risks beyond necessity almost guarantees you'll transfer an appropriately heavy-handed approach to a minority of people toward everyone else.
@@ -99,9 +99,9 @@ Because of our [habitual](habits.md) nature, we often forget *why* the security 
 - Man-in-the-middle attacks involve the person thinking they're accessing a legitimate website (which isn't) to enter their credentials like normal.
 - In a key-card system, people will be quick to give grace to someone who "forgot" their key-card, especially if they share a [common interest](people-friends-why.md) (like smoking).
 
-Distrust can also be [habit-forming](habits.md). We tend to [identify](identity.md) what we [focus](purpose.md) on, so we can become [obsessive](addiction.md) about protecting things. The cure is to ask *what* we're protecting and how much we're willing to [lose it](mind-feelings-fear.md).
+Distrust can also be [habit-forming](habits.md). We tend to [identify](people-identity.md) what we [focus](purpose.md) on, so we can become [obsessive](addiction.md) about protecting things. The cure is to ask *what* we're protecting and how much we're willing to [lose it](mind-feelings-fear.md).
 
-It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](people-image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](people-decisions.md)!
+It's worth noting that security theater is useful in [large organizations](groups-large.md) to make the members feel safe and [trust](trust.md) their leaders [without any legitimate increase](people-image-distortion.md) in security. Some of them even promise it in exchange for individuals' [freedoms](mind-decisions.md)!
 
 Security and freedom are inversely correlated, so something [valuable](values.md) that is also useful will invariably have to be protected by something inconvenient, and will likely still be exposed to risks:
 

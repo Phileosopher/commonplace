@@ -157,7 +157,7 @@ If you unconsciously *want* to fail, you'll seek advice so you have someone to b
 
 Your desires probably *are* as scary and daunting as you feel, but you're stronger than you think.
 
-- You can [identify](identity.md) your suffering, but that isn't "you".
+- You can [identify](people-identity.md) your suffering, but that isn't "you".
 - With the right mental management, your feelings can help as much as they can hinder you.
 
 ### 8. At the same time, focus your *goals* away from yourself
@@ -216,7 +216,7 @@ Seek advice everywhere.
 - Most people are happy to give advice.
 - When you hear or read about others' methods, always [analyze *why*](logic.md) those methods worked.
 - While general advice is useful, [your friends'](people-friends.md) advice may be more valuable because it's personalized for you.
-- Watch for anyone who contradicts their advice or has [succeeded through trends that have passed](trends.md).
+- Watch for anyone who contradicts their advice or has [succeeded through trends that have passed](people-trends.md).
 
 At the same time, don't sabotage what you *do* know.
 
@@ -227,7 +227,7 @@ At the same time, don't sabotage what you *do* know.
 
 While it's straightforward for us to look at ourselves and our environment by some sort of fixed status, that viewpoint is wrong.
 
-In reality, everything is in a perpetual state of fluctuation, either [growing or fading](trends.md).
+In reality, everything is in a perpetual state of fluctuation, either [growing or fading](people-trends.md).
 
 We're more likely to suffer regret over opportunities we didn't take than over our failed attempts.
 

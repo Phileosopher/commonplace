@@ -11,7 +11,7 @@ Most of the conventions that make a "typical" church are borrowed from a few sou
 6. Within a few centuries, the Catholic traditions were practically the law, and the cultural assimilation meant pagan rituals merged into the practice.
 7. Starting in 1517, the Protestant Church *removed* many of those traditions, but didn't add many.
 
-The [Bible](bible.md) itself only has a few verses that indicate daily details on how to run a church:
+The [Bible](theology-bible.md) itself only has a few verses that indicate daily details on how to run a church:
 
 - *Some* sacraments (i.e., communion/Eucharist and baptism), though on a more personal level and without many details.
 - Specific qualifications necessary within people you wish to appoint as [leaders](mgmt-church.md).
@@ -20,7 +20,7 @@ The [Bible](bible.md) itself only has a few verses that indicate daily details o
 However, across a few thousand years, the Church *has* had some good ideas.
 
 - Those ideas may or may not be good for your [culture](people-culture.md), and they're not necessary to run a church.
-- The things you pick-and-choose should conform to [how that congregation is gifted](spiritual-gifts.md) and [how God designed them](identity.md).
+- The things you pick-and-choose should conform to [how that congregation is gifted](spiritual-gifts.md) and [how God designed them](people-identity.md).
 
 While [Christian rituals](mgmt-church-worship-rituals.md) are *very* heavily inspired by Jewish and pagan tradition, the [redemption in Christ](https://theologos.site/gospel/) makes the entire experience direct into a different form towards the [unknown](unknown.md).
 
@@ -77,7 +77,7 @@ A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scri
 - Water baptism doesn't give salvation, but does show it to the world ([Luke 23:29-43](https://biblehub.com/luke/23.htm)).
   - Most churches that baptize will stress the significance of baptism.
 - The water can be by immersion or sprinkling.
-  - Immersion symbolizes the complete end of one's [identity](identity.md) as part of this world.
+  - Immersion symbolizes the complete end of one's [identity](people-identity.md) as part of this world.
   - However, sprinkling can imply that we're imperfect and will still sin (and therefore need [God's continued work](https://theologos.site/gospel/)).
 
 C: Baptism is at birth (often with circumcision), or possibly during Confirmation.
@@ -92,7 +92,7 @@ A public declaration of faith in Christ.
 
 C: Confirmation is the completion of the water baptism.
 
-P: While there's no ritual for Protestants, they honor someone's private prayer to receive Christ ("[the Sinner's Prayer](evangelism.md)")
+P: While there's no ritual for Protestants, they honor someone's private prayer to receive Christ ("[the Sinner's Prayer](spiritual-exercises-evangelism.md)")
 
 ### Eucharist/communion
 
@@ -133,7 +133,7 @@ Routine
 
 ### Penance/confession
 
-Asking for forgiveness of [sins](morality-sins.md) under Christ's atonement ([James 5:16](https://biblehub.com/james/5-16.htm)).
+Asking for forgiveness of [sins](theology-sins.md) under Christ's atonement ([James 5:16](https://biblehub.com/james/5-16.htm)).
 
 C: Confession is performed by a congregant with a church leader.
 
@@ -243,12 +243,12 @@ Routine
 - C: Gospel Acclamation/Gospel
   - A leader reads the Gospel, and the people respond with a Hebrew variation of "Praise the Lord!"
 - Homily
-  - C: a leader's [public speech](language-speaking.md) by a leader that starts with a reading, then an explanation of how it shows ways we ought to [live better lives](goodlife.md).
+  - C: a leader's [public speech](language-speaking.md) by a leader that starts with a reading, then an explanation of how it shows ways we ought to [live better lives](people-goodlife.md).
   - P: a leader delivers an [expository](bible-study.md) speech that references Bible verses, then explains how they apply to our lives.
   - I: the people from the audience come up to the stage and give a few words of insight based on the Bible, often taking turns.
     - While many of the laity are *definitely* qualified to give a message, most churches only reserve that power to approved clergy.
 - C: Profession of Faith
-  - A public declaration of a [creed](church-creeds.md), usually Apostles' or Nicene.
+  - A public declaration of a [creed](theology-church-creeds.md), usually Apostles' or Nicene.
 - C: Universal Prayer, aka Prayer of the Faithful
   - The people intercede with God on behalf of the Church, world, and themselves.
 
@@ -281,7 +281,7 @@ Routine
   - P: Indicates any events happening right after the current event or [logistical considerations](logistics.md) the people may need to know.
   - I: Expresses practical needs within the Church and who to contact about them.
 - C: Greeting and Blessing
-  - A formal blessing that typically refers to the [Trinity](god.md).
+  - A formal blessing that typically refers to the [Trinity](theology-god.md).
 - P: Altar Call
   - A meditative song with a simple [Gospel presentation](https://theologos.site/gospel/) that petitions non-believers to follow Jesus.
 - Dismissal

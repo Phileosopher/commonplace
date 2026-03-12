@@ -30,7 +30,7 @@ VR systems have the most promising practical use, and have degrees of immersion:
 
 ## History
 
-VR development is always a slower [trend](trends.md) than many other tech trends because it's the convergence of other supporting technologies:
+VR development is always a slower [trend](people-trends.md) than many other tech trends because it's the convergence of other supporting technologies:
 
 1. 1835 - Sir Charles Wheatstone created a stereoscope that used a mirror to show two pictures, one for each eye.
 2. 1956 - a cinematographer named Morton Heilig created Sensorama, which combined full-color 3D video, audio, vibrations, smell, and atmospheric effects like wind. Later, in 1960, he created a "head-mounted display" (HMD) version of it, though it didn't have any motion tracking.
@@ -79,7 +79,7 @@ AR uses several approaches to track reality:
 
 One of the most common uses of VR is "virtual try-ON" (VTON), which allows someone to test how a product will look before purchasing it.
 
-One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
+One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](people-imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
 
 VR also can serve as an effective [exercise aide](body-exercise.md), especially for people who otherwise would *not* exercise.
 
@@ -101,7 +101,7 @@ The software is often poorly designed as well:
 - Many of them don't have critical features like built-in focus-adjustment or the means to use a [keyboard](computers-keyboard.md) and [mouse](computers-mouse.md).
 - Most of the software is *not* backwards-compatible with a [conventional screen](engineering-screen.md), which can severely limit the user's options if they wish to display something.
 
-The hype around VR is overblown as well. Like other [trendy tech things](trends.md), it may be really *neat*, but it doesn't necessarily fulfill a clear *need*. It doesn't help that the market is small enough that the [marketing](marketing.md) never distinguishes clear product lines that focus on specific needs:
+The hype around VR is overblown as well. Like other [trendy tech things](people-trends.md), it may be really *neat*, but it doesn't necessarily fulfill a clear *need*. It doesn't help that the market is small enough that the [marketing](marketing.md) never distinguishes clear product lines that focus on specific needs:
 
 - Gamers want *extremely* reliable feedback and *complete* immersion, which means the experiences should rival or overshadow what reality can provide.
 - Business professionals don't care much about immersion, but want it to be *very* reliable, since they need to know it'll work for their collaborative needs.

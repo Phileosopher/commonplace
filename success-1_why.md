@@ -85,13 +85,13 @@ Happiness is a terrible measurement of success:
 
 Don't compare yourself to others:
 
-- Each person has a different [personality](personality.md), so one person's success may simply be competence for someone else.
+- Each person has a different [personality](people-personality.md), so one person's success may simply be competence for someone else.
 - More specifically, a person is a success proportionally to how much they employ their conscientiousness: a low-conscientiousness person is doing well if they can hold down a [career](jobs-1_why.md) and [children](parenting-babies.md), while a hyper-conscientious person is only a success if they positively [change their community](mgmt-1_why.md).
-- Most of the successful people are a unique kind of stubborn, where they disregard at least some of [society's trends](trends.md) while pursuing a noble goal.
+- Most of the successful people are a unique kind of stubborn, where they disregard at least some of [society's trends](people-trends.md) while pursuing a noble goal.
 
 ## The best success is internal
 
-Everything in the physical world changes, decays, and [becomes obsolete](trends.md).
+Everything in the physical world changes, decays, and [becomes obsolete](people-trends.md).
 
 Most things that feel immovable are dangerously fragile (e.g., [our bodies](body-why.md), [relationships](relationships-why.md), [large organizations](groups-large.md)).
 
@@ -145,7 +145,7 @@ For most of us, our success will start with smaller goals:
   - Keep everything [organized](organization.md)
   - View others' perspectives and understand alternate points of view
   - Make [creative](mind-creativity.md) connections between related and seemingly unrelated things
-  - Think [critically](logic.md) and neutrally before holding a [belief](understanding-certainty.md) or making [decisions](people-decisions.md)
+  - Think [critically](logic.md) and neutrally before holding a [belief](understanding-certainty.md) or making [decisions](mind-decisions.md)
   - Create self-directed, engaged [learning](understanding.md)
 - Character
   - [Understand](understanding.md) without passing judgment

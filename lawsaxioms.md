@@ -91,7 +91,7 @@ Acton's Dictum - Power corrupts people, so complete power creates complete corru
 
 Andy and Bill's Law - New [power](power.md) is almost immediately used for a new purpose.
 
-Amara's Law / Hype Cycle - We usually overestimate how [technology](technology.md) can affect us short-term and underestimate its long-term [trends](trends.md).
+Amara's Law / Hype Cycle - We usually overestimate how [technology](technology.md) can affect us short-term and underestimate its long-term [trends](people-trends.md).
 
 Bent Key Principle - If something feels "off" somehow, it probably hides a spectacularly large problem.
 
@@ -138,7 +138,7 @@ Parkinson's Law/Roemer's Law/Bicycle-Shed Effect/Law of Triviality - Work and re
 
 Peltzman Effect - New safety measures create new risk-taking.
 
-Power Law Principle - In a mature [trend](trends.md), the most powerful thing is twice as powerful as the second, which is twice as powerful as the third, and so on for the first 20% until it tapers off.
+Power Law Principle - In a mature [trend](people-trends.md), the most powerful thing is twice as powerful as the second, which is twice as powerful as the third, and so on for the first 20% until it tapers off.
 
 Precautionary Principle - When unsure, scientifically examine more thoroughly.
 

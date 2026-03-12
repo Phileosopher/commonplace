@@ -47,8 +47,8 @@ A. Identify the demographics of the audience you want leads for.
   - [Income](classes.md)
   - [Ethnic groups](people-culture.md)
   - [Family lifestyles](people-family.md)
-  - [Personality](personality.md)
-  - [Lifestyles and motives](people-decisions.md)
+  - [Personality](people-personality.md)
+  - [Lifestyles and motives](mind-decisions.md)
   - [Social class](classes.md)
     - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](politics-leftism-sustainability.md)).
   - Psychographics (psychological tendencies from the environment)
@@ -101,7 +101,7 @@ C. Craft the design as a [story](stories-why.md) with a [designed user experienc
 - The story must have a deep connecting association with something else.
   - It can often connect with a theme (e.g., redemption, [love](people-love.md), human connection)
   - The connection is often purely animal (e.g., [sex](gender.md)), which is the method used by longtime PR master Edward Bernays.
-  - Successfully *making* a story that resonates requires [integrating your shadow](personality.md).
+  - Successfully *making* a story that resonates requires [integrating your shadow](people-personality.md).
 - Keep an eye out for indirect associated words.
   - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](people-culture.md).
   - e.g., "break time" may associate with "broken time", "breaking out", "broken dreams", "breakfast", and may extend to coffee, candy, or drugs.
@@ -110,7 +110,7 @@ D. Make something eye-catching and familiar to the target demographic.
 
 - Carefully consider your [design medium](engineering-design.md) to match what people of that [culture](people-culture.md) will [feel](mind-feelings.md).
   - Show the product in action.
-  - Use current [social trends](trends.md).
+  - Use current [social trends](people-trends.md).
   - Create interviews or testimonials from reputable or influential people.
   - Advertise the helpfulness of the company.
   - Show how life is worse without the product.
@@ -241,7 +241,7 @@ Many factors destroy brands.
 A. A terrible-looking brand:
 
 - There' too much visual clutter.
-- The consumer finds the brand boring or the same as every other [fashionable](trends.md) brand of that domain.
+- The consumer finds the brand boring or the same as every other [fashionable](people-trends.md) brand of that domain.
 
 B. Insufficient planning or preparation:
 

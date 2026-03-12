@@ -91,7 +91,7 @@ However, they are *not* simple in practice. To quote and abstract the late [Hyma
   7. It is heavy.
   8. It is complicated.
 
-[Theory](imagination.md) *frequently* breaks down in the face of [reality](reality.md). This doesn't mean the theory was necessarily wrong, but theories are typically not precise enough. Theory, however, isn't useless because it's how our minds [create anything](creations.md) in the first place.
+[Theory](people-imagination.md) *frequently* breaks down in the face of [reality](reality.md). This doesn't mean the theory was necessarily wrong, but theories are typically not precise enough. Theory, however, isn't useless because it's how our minds [create anything](creations.md) in the first place.
 
 ## Tradeoffs
 

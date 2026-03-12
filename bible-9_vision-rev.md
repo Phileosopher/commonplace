@@ -8,7 +8,7 @@ It is called the "book of vision" because it is a prophetic work.
 - However, it is a bit foolish to pursue interpreting Revelation right away.
   - To start with, a solid foundation in John's prophecies requires closely examining the prophecies in Isaiah, Daniel, and the other prophets.
   - It also requires unthethering ourselves from the present-day circumstances. Donald Trump, for example, might have nothing to do with anything written in Revelation.
-  - Without that basis, people start [predicting weird things](imagination-failedprophecies-0-1199.md).
+  - Without that basis, people start [predicting weird things](theology-end-prophecies-0-1199.md).
 
 ## Chapter summary
 

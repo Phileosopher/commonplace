@@ -280,7 +280,7 @@ Our capacity to perform comes through how much [distress](mind-feelings-happines
 Our eustress is a response to how we perceive expectations:
 
 1. Skill level: technical ability, familiarity, and education
-2. [Personality](personality.md): extroverted personalities usually endure higher-pressure work
+2. [Personality](people-personality.md): extroverted personalities usually endure higher-pressure work
 3. Confidence level: influenced by experience and circumstances
 4. The work's complexity: more complicated work is higher-pressure
 
@@ -380,7 +380,7 @@ Many people (especially in analytical fields like IT and engineering) spend more
 - If that system doesn't work well, adapt it as you see a need, but *only* after you've worked with it for at least a few weeks.
 - If you become anxious at all, you will actually feel *less* productive, even if you're highly efficient at what you do.
 
-An excessively rigid system without any free time won't be able to adapt to the changes that naturally come with [living life](goodlife.md).
+An excessively rigid system without any free time won't be able to adapt to the changes that naturally come with [living life](people-goodlife.md).
 
 If you don't take time to [enjoy life](fun.md), your misery will sabotage any performance improvements.
 

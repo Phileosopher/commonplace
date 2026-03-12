@@ -29,8 +29,8 @@ The **Puritans** were a vaguely defined but highly influential group who worked 
 Roman Catholic Ecumenical Council #19 in 1545-1549 - The Council of Trent, feat. Popes Paul III, Julius III, Pius IV and Emperors Charles V and Ferdinand I w/ 5 cardinal legates, 3 patriarchs, 33 archbishops, 235 bishops, 7 abbots, 7 generals of monastic orders, and 160 doctors of divinity
 
 - Reaffirmed teachings on almost everything Protestants had problems with:
-  - The role of the [Bible](bible.md) *and* [Tradition](spiritual-exercises.md)
-  - [Sin](morality-sins.md) and grace, including how venial sins worked ("lesser" sins)
+  - The role of the [Bible](theology-bible.md) *and* [Tradition](spiritual-exercises.md)
+  - [Sin](theology-sins.md) and grace, including how venial sins worked ("lesser" sins)
   - Justification by faith, but not "[faith alone](theology-solae.md)"
   - Transubstantiation is *not* Aristotelian pseudo-[philosophy](philosophy.md) and the Mass *is* a sacrifice
   - Clarifications about purgatory and the importance of indulgences connected with it
@@ -50,9 +50,9 @@ After the English Civil War from 1642-1651, many dissenting Christian groups eme
 
 In 1693, Jakob Ammann tried to reform the Mennonite community to include shunning, hold communion more often, and other differences (such as less gaudy colors in clothing). This didn't work out, so Ammann's followers became the **Amish**.
 
-The First Great Awakening was a movement in the 1730s and 1740s. It created a clear dividing line, and many of the existing denominations believed it was supporting fanaticism. It drew in relatively [uneducated](education.md) but *very* enthusiastic teachers, and started the **Evangelical** movement (an emphasis on [evangelism](evangelism.md) efforts toward non-believers). The original denominations before this movement culturally froze in the mid-1700's.
+The First Great Awakening was a movement in the 1730s and 1740s. It created a clear dividing line, and many of the existing denominations believed it was supporting fanaticism. It drew in relatively [uneducated](education.md) but *very* enthusiastic teachers, and started the **Evangelical** movement (an emphasis on [evangelism](spiritual-exercises-evangelism.md) efforts toward non-believers). The original denominations before this movement culturally froze in the mid-1700's.
 
-- It played a major role in women's' lives, where they started focusing more on discussing their [feelings](mind-feelings.md) with each other, as well as becoming more independent in their [decisions](people-decisions.md).
+- It played a major role in women's' lives, where they started focusing more on discussing their [feelings](mind-feelings.md) with each other, as well as becoming more independent in their [decisions](mind-decisions.md).
 - The ideas of the First Great Awakening were highly influential in starting the abolitionist movement (getting rid of the institution of [slavery](people-slavery.md)).
 
 The **Methodists** started largely from John Wesley in the mid-1730's as a derivative of the Anglicans.

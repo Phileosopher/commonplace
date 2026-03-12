@@ -5,7 +5,7 @@ Some people simply aren't experienced or [creative](mind-creativity.md) enough t
 
 For that reason, here's a concise list to get the thoughts rolling.
 
-- Statistically, your [gifts](spiritual-gifts.md) and [personality](personality.md) make you best-suited for *some* sort of ministry on this list.
+- Statistically, your [gifts](spiritual-gifts.md) and [personality](people-personality.md) make you best-suited for *some* sort of ministry on this list.
 
 Most healthy churches have plenty of volunteers, and they'll usually pick people who have served before.
 
@@ -62,7 +62,7 @@ The volunteers themselves
 
 - Pastors/elders/priests
 - Lay church leadership
-- [Evangelists](evangelism.md)
+- [Evangelists](spiritual-exercises-evangelism.md)
 - Foreign [missionaries](mgmt-church-missions.md)
 
 ## Things to try
@@ -85,7 +85,7 @@ Meet basic needs
 - Distribute food to needy people
 - Prepare food for people
 - [Maintain a budget](money-3_budget.md) and give the surplus to others
-- [Plant a garden](horticulture.md) and give the proceeds to others
+- [Plant a garden](plants.md) and give the proceeds to others
 - Give clothing to people
 - Babysitting/childcare
 - Give in-home care for a day

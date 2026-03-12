@@ -125,7 +125,7 @@ Each person has a context-dependent balance of 3 distinctive leadership styles:
 
 ## Path-goal theory
 
-Defines leadership as a means of attaining a goal through the leader's [vision](imagination.md) for a path.
+Defines leadership as a means of attaining a goal through the leader's [vision](people-imagination.md) for a path.
 
 All goals have a pathway, and a leader's job is to guide everyone down that path:
 

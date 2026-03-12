@@ -28,7 +28,7 @@ Add a few routine things to your daily diet:
   2. Add 1/2 to 1 cup honey
   3. Take 1 tbsp daily
 
-The body works best when it [faces resistance](goodlife.md), but most doctors tend to recommend bed rest for recovery.
+The body works best when it [faces resistance](people-goodlife.md), but most doctors tend to recommend bed rest for recovery.
 
 - When we push against something, we get stronger, even when recovering.
 - Resting after an injury often (even for lower back pain or a heart attack) causes *more* damage.
@@ -212,7 +212,7 @@ Often, doctors will [misdiagnose](https://adequate.life/fix/) you:
 - No matter how much training they receive, dentists and doctors can still be [technical idiots](https://gainedin.site/idiot/) as much as any other profession.
 - There are simply too many possible causes for something that doctors can't read all the available information.
   - Medical error kills 3-10x more people in the USA than [auto](autos.md) accidents every year (not accounting risks from hospital germs), and likely kills more than any cancer.
-- For that reason, they'll often pick a "safe" diagnosis (because it's the [greatest risk for them](legal-safety.md) receiving a malpractice lawsuit) or a [fashionable and trendy](trends.md) diagnosis.
+- For that reason, they'll often pick a "safe" diagnosis (because it's the [greatest risk for them](legal-safety.md) receiving a malpractice lawsuit) or a [fashionable and trendy](people-trends.md) diagnosis.
 - Further, most medical professionals can be paid by pharmaceutical companies to promote medications and treatments that are *not* in your best interests.
 - Many edge cases of this playing out:
   - Most doctors trained to do surgery are more likely to recommend surgery, even if it wasn't the ideal treatment ([Law of the Instrument](mind-bias.md)).
@@ -237,7 +237,7 @@ The medical industry is always finding new techniques that *aren't* invasive.
 Consider all the side effects of *any* drugs you choose to take.
 
 - Some drugs' side effects are worse than the cure.
-- Often, we can become over-reliant on prescription drugs instead of [letting our body perform for itself](trends.md).
+- Often, we can become over-reliant on prescription drugs instead of [letting our body perform for itself](people-trends.md).
 - If the drug is an opioid, it's addictive, and if it's a painkiller its *results* can be addictive.
 - Some treatments are simply productive uses of dangerous things (e.g., Botox, or "botulism toxin", is injecting localized botulism into your face).
 

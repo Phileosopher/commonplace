@@ -7,7 +7,7 @@ The **New Apostolic Movement** spun off the Charismatic movements and was coined
 
 The Neo-charismatic Movement started in the early 1980s with groups like the Vineyard Movement that deviated from Calvary Chapel, and vastly expanded the scope of Charismatic spirituality.
 
-- Among other things, "third-wave Pentecostalism" promoted all varieties of miraculous healing (including as an [evangelistic](evangelism.md) technique), *heavy* emphasis on [spiritual warfare](spiritual-warfare.md), and other odd phenomena of the Holy Spirit such as "spiritual laughter".
+- Among other things, "third-wave Pentecostalism" promoted all varieties of miraculous healing (including as an [evangelistic](spiritual-exercises-evangelism.md) technique), *heavy* emphasis on [spiritual warfare](spiritual-warfare.md), and other odd phenomena of the Holy Spirit such as "spiritual laughter".
 - Organizationally, they often have little to no formal structure to their meetings whatsoever or any cohesive hierarchy, and their [theology](theology.md) tends to be anti-intellectual.
 
 The **Hebrew Roots Movement/Awakening** emerged in 1997 when Dean Cozzens of Open Church Ministries indicated that returning to living according to the Torah was the final stage of empowerment after 3 other movements: the Pentecostal movement, faith healing, and the Charismatic movement. The movement implies the Torah is a clear way for all people (Jews *and* Gentiles) to live and follow God, though they typically don't imply it's required for salvation.
@@ -16,4 +16,4 @@ The Online Church Movement started in 2007 when Life Covenant Church broadcast t
 
 More to come, since I'm writing this February 2023.
 
-At some point, [Jesus will come back](jesus-returns.md), and will [establish His Kingdom](https://theologos.site/millennium/). Most of the denominations won't historically survive the transition.
+At some point, [Jesus will come back](theology-end.md), and will [establish His Kingdom](https://theologos.site/millennium/). Most of the denominations won't historically survive the transition.

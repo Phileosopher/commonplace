@@ -17,7 +17,7 @@ At the same time, language *isn't* understanding, and is only the reference poin
 
 Words have implicit feelings that associate to [human universal interpretations](humanity-universals.md) (e.g., the nonsense word "ah-no-ma-ha" feels *far* less threatening than "ch-ak'tchnapth"). This can have a cultural impact depending on which words apply to which [physical things](reality.md).
 
-APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](people-image-distortion.md) words, and the beginning of [living well](goodlife.md) comes in speaking its existence correctly.
+APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](people-image-distortion.md) words, and the beginning of [living well](people-goodlife.md) comes in speaking its existence correctly.
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
@@ -33,7 +33,7 @@ Written and spoken language are *not* the same language, and run parallel to one
 
 Every letter, word, and phrase is a [symbol](symbols.md) that represents both as an [idea](values.md) of its own and as a relationship to other ideas. Each idea comes with unique [images](people-image-why.md) and [feelings](mind-feelings.md) as we interpret it in our minds.
 
-These symbolic associations always have a central basis they hinge on. That basis ends up always being a word, and frames the beginning of the [story](stories.md) being conveyed.
+These symbolic associations always have a central basis they hinge on. That basis ends up always being a word, and frames the beginning of the [story](stories-why.md) being conveyed.
 
 In languages like English, each character has an abstract meaning that only forms [ideas](values.md) when they're assembled into words. In other languages (e.g., Eastern languages like Chinese), the letter itself has a clearer meaning.
 
@@ -68,13 +68,13 @@ The choice of word we use has a degree of abstracting away from the source objec
 8. Full abstraction - we have removed so much information that the word describing the object can be used to describe almost everything else
    - e.g., wealth
 
-We must delicately balance between precision and brevity, and our [choice](people-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
+We must delicately balance between precision and brevity, and our [choice](mind-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
 
 The complexity of expressing ideas either succintly or elaborately, as well as the [image](people-image-why.md) we wish to convey, means we will create similar words for nearly the same idea to convey different [feelings](mind-feelings.md) and [values](values.md). We will also employ body language, timing, visual cues, and context to [emphasize or diminish parts of those ideas](language-speaking.md).
 
 ## The stucture of language
 
-All ideas start with nouns. Nouns state something as a concrete [value](values.md). They frequently represent [metaphysical reality](reality.md), but can also be [hypothetical](imagination.md), but are essentially "pointing" at something.
+All ideas start with nouns. Nouns state something as a concrete [value](values.md). They frequently represent [metaphysical reality](reality.md), but can also be [hypothetical](people-imagination.md), but are essentially "pointing" at something.
 
 Verbs are values of action, and are *always* connected to a noun (even when the noun is simply implied) and help us understand what [purpose](purpose.md) to assign those nouns.
 
@@ -147,24 +147,24 @@ We use modifier words to streamline everything, and most of them are simple impr
 - We'll often make contractions to [efficiently](success-4_routine.md) use less letters and syllables.
 - Prefixes and suffixes are useful to easily assert a relationship with something else (e.g., antidisestablishmentarianism is anti-dis-**establish**-ment-arian-ism).
 - We'll sometimes use nouns as verbs to sound more [official](people-image-why.md) (e.g., monetize instead of "make something become money").
-- We make words that create sweeping generalizations for people groups, both as demonyms for regions (e.g., "Germans") and ethnonyms for [identity](identity.md) (e.g., "Catholics").
+- We make words that create sweeping generalizations for people groups, both as demonyms for regions (e.g., "Germans") and ethnonyms for [identity](people-identity.md) (e.g., "Catholics").
 - We'll condense the idea to a simple [feeling](mind-feelings.md) in the form of slang when we frequently express an idea but don't have a suitable word (e.g, "paper-pusher" instead of "bureaucrat" or "office worker").
 - We'll remove precise modifiers if we use a word frequently enough, since they're already implied (e.g., "power" instead of "electrical power")
 
 APPLICATION: Most language starts simple, but we tend to complicate words as we add to them. There's value in contractions and pronouns, but elegant language keeps prefixes and suffixes to a relative minimum and avoids turning nouns into verbs whenever possible. Awful writers, on the other hand, destroy any [meaning](meaning.md) they were attempting to convey.
 
-kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](understanding.md) we'll [choose](people-decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
+kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](understanding.md) we'll [choose](mind-decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
 
 - [Dominance](power.md) will strip away *everything* for the sake of simplicity.
 - [Influence](power-influence.md) removes details about things.
 - [Steadiness](safety.md) removes details about people.
 - [Conscientiousness](morality.md) keeps *every* detail as much as possible.
 
-Language is constantly moving. While there's a "codified" standard in things like dictionaries and textbooks, language shifts with society's [trends](trends.md):
+Language is constantly moving. While there's a "codified" standard in things like dictionaries and textbooks, language shifts with society's [trends](people-trends.md):
 
 - Meanings of words will be repurposed, then used dominantly for that new purpose (e.g., "gay" was a [feeling](mind-feelings.md) but is now a [sexual orientation](gender.md)).
 - [Feelings](mind-feelings.md) that the word evoked redirect themselves to specific things (e.g., "[technology](technology.md)" is now localized to specifically high-technology).
-- Figures of speech become outdated with technological development or new [trends](trends.md) (e.g., "pop in the movie", "dial up someone's phone").
+- Figures of speech become outdated with technological development or new [trends](people-trends.md) (e.g., "pop in the movie", "dial up someone's phone").
 - [Political](power.md) efforts (especially with [leftism](politics-leftism.md)) can redirect thoughts to associate or disassociate for the sake of [personal gain](morality-evil.md).
 
 APPLICATION: Words are constantly mutating and shifting, so we must mind which words we use with which [groups](groups-member.md).
@@ -222,9 +222,9 @@ We tend to link words without meaning to similar words with meaning. People name
 
 APPLICATION: Words change how we think, so we must be careful about what we [believe](understanding-certainty.md) from others and *constantly* reconsider how we once saw things when we first used a specific word.
 
-Ideas also tend to persist even when [authority figures](groups-large.md) switch out words. Revising language (e.g., [leftism](politics-leftism.md)) only stalls everyone's [identification](identity.md) of the idea until the word associates with the old emphasis of that word:
+Ideas also tend to persist even when [authority figures](groups-large.md) switch out words. Revising language (e.g., [leftism](politics-leftism.md)) only stalls everyone's [identification](people-identity.md) of the idea until the word associates with the old emphasis of that word:
 
-- At various times in the USA, the words "colored person", "black", "Negro", and "African American" have been used, but they all allude to the same [identifier](identity.md) of a dark-skinned person of seeming African-majority descent.
+- At various times in the USA, the words "colored person", "black", "Negro", and "African American" have been used, but they all allude to the same [identifier](people-identity.md) of a dark-skinned person of seeming African-majority descent.
 - Homosexuals adopted the word "gay", which removed its old association with joyfulness and became slang until it was replaced with the catchall "LGBT" and later "LGBTQQIDAAPPO2SBNBGNCGGAPPO+", which all allude to the same broad identifier of "non-cisgender".
 
 After enough overuse and time, words will form into [habits](habits.md) for people. At that point, the words become placeholders for other things most people aren't aware of:
@@ -248,7 +248,7 @@ Further, we tend to use language to convey concepts on "levels" of depth:
 
 APPLICATION: If a specific idea doesn't have a word, we tend not to think about it. If we run across one, we should [make](creations.md) a new word to more thoroughly [understand](understanding.md) it, and the easiest way is to convert a noun into a verb or use the same idea from a different domain.
 
-The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](people-decisions.md).
+The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](mind-decisions.md).
 
 APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](https://adequate.life/fix/)) whenever [uncertain](understanding-certainty.md).
 
@@ -266,10 +266,10 @@ When people abuse language, they are often either using a word with a stronger f
 
 By changing words, leaders can [conceal the truth](people-image-distortion.md), at least for a time. They typically remove the emphasis of that word over time, rather than legitimately change anything with the redefinition.
 
-When we use our language to make excuses (e.g, "I can't do X because Y", "X caused me to Y"), we give [power](power.md) to others outside ourselves. Over time, we can often [identify](identity.md) with that helplessness and destroy any chance at [living well](goodlife.md).
+When we use our language to make excuses (e.g, "I can't do X because Y", "X caused me to Y"), we give [power](power.md) to others outside ourselves. Over time, we can often [identify](people-identity.md) with that helplessness and destroy any chance at [living well](people-goodlife.md).
 
 ## Language is persistent
 
-Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](imagination.md) will *always* be a key component of how we interact.
+Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](people-imagination.md) will *always* be a key component of how we interact.
 
 APPLICATION: We will always have a text-based messaging component built into  all [technology](technology.md) ([Zawinski's Law](lawsaxioms-tech.md)).

@@ -25,7 +25,7 @@ Recruiters look at résumés all day long, so they're trying to throw out as man
 
 - Templates should be an inspiration, not the standard, especially since hiring managers have all seen them.
 - What and how you choose to express things reflects *heavily* on who you are.
-- Find ways to tastefully distinguish yourself and express your [personality](personality.md) throughout the résumé.
+- Find ways to tastefully distinguish yourself and express your [personality](people-personality.md) throughout the résumé.
   - If your industry is open to it, make your résumé fun or unconventional.
 - Logically break apart the résumé chronologically, functionally, or any other way the reader can understand.
 

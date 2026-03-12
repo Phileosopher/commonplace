@@ -18,7 +18,7 @@ The automation of AVs comes in degrees, and we've already flawlessly attained so
 - Level 4 - The car can do almost everything, but someone can still override the tasks whenever they need. Safety concerns mean it creates very specific and contentious [political issues](power.md) and [moral questions](philosophy-paradoxes.md).
 - Level 5 - The car can do absolutely everything expected of it, and human interaction is gone, which also means a steering wheel and pedals aren't present anymore.
 
-As it stands in 2022, AVs require tons of development and test data until they can legally drive at Level 3 with full responsibility, and still encounter very profound issues in commonplace edge cases like construction zones. The [marketing hype](marketing.md) definitely lies about [how soon it'll happen](trends.md). However, with enough [machine learning](computers-ai-ml.md) and data, it will eventually become commonplace.
+As it stands in 2022, AVs require tons of development and test data until they can legally drive at Level 3 with full responsibility, and still encounter very profound issues in commonplace edge cases like construction zones. The [marketing hype](marketing.md) definitely lies about [how soon it'll happen](people-trends.md). However, with enough [machine learning](computers-ai-ml.md) and data, it will eventually become commonplace.
 
 Before cars, however, the more likely autonomous vehicle will be with drones. Drones are more lightweight, have a larger margin of error (since they're airborne), and the financial risks from drones crashing are nowhere *near* the scope that comes with cars (meaning less expensive [debugging](computers-software-redesign.md)).
 
@@ -65,7 +65,7 @@ It's worth noting that the data on a technologically advanced vehicle is stored 
 
 ## EVs
 
-Electric vehicles (EVs) are unrelated to autonomous vehicles, but they're often discussed at the same time because they're [new technology](trends.md).
+Electric vehicles (EVs) are unrelated to autonomous vehicles, but they're often discussed at the same time because they're [new technology](people-trends.md).
 
 Unlike ICE (Internal Combustion Engine), EVs are functionally a massive battery with an electric motor. Hybrid vehicles combine the benefits of both ICE *and* [batteries](engineering-electrical.md).
 

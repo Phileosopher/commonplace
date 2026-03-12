@@ -177,12 +177,21 @@ Bridgeway Bible Commentary
    - [StudyLight](https://www.studylight.org/commentaries/eng/bbc.html)
    - [TAtS (grouped)](https://www.truthaccordingtoscripture.com/commentaries/index.php)
 
+John MacArthur Introductions
+
+1. John MacArthur - 1997?
+2. Dispensational, Protestant (Reformed)
+3. Summary
+4. OT+NT
+   - [BlueLetterBible](https://www.blueletterbible.org/commentaries/macarthur_john/)
+
 Dr. Constable's Expository Notes
 
 1. Dr. Thomas Constable - 1973-1998?
 2. Dispensational, non-denominational
 3. Expository
 4. OT+NT
+   - [Sonic Light (main site)](https://soniclight.com/constable-notes-html/)
    - [Bible Portal](https://www.bibleportal.com/commentary/expository-notes-of-dr-thomas-constable)
    - [StudyLight](https://www.studylight.org/commentaries/eng/dcc.html)
 
@@ -289,6 +298,14 @@ Smith's Bible Commentary (text or audio)
    - [StudyLight](https://www.studylight.org/commentaries/eng/csc.html)
    - [YouTube](https://www.youtube.com/playlist?list=PLZxWDsI_duM9kjgX7I39QPQTs8neCzTbA)
 
+The Ultimate Bible Summary Collection
+
+1. Jay Smith - 2013
+2. Protestant (Non-denominational)
+3. Summary
+4. OT+NT
+   - [BibleHub](https://biblehub.com/summary/genesis/1.htm)
+
 Luscombe's Commentary on Selected Books of the NT
 
 1. Manly Luscombe - 1966-2015
@@ -367,14 +384,6 @@ Brown's Commentary on the New Testament
 3. Holistic
 4. Matthew, Mark, Luke
    - [StudyLight](https://www.studylight.org/commentaries/eng/bnc.html)
-
-The Ultimate Bible Summary Collection
-
-1. Jay Smith - 2013
-2. Protestant (Non-denominational)
-3. Summary
-4. OT+NT
-   - [BibleHub](https://biblehub.com/summary/genesis/1.htm)
 
 ## 2022-2024
 

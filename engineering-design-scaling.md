@@ -67,13 +67,13 @@ If the product is particularly complex, divide out the rate of the design's chan
 
 It's worth indicating that "slower" design elements tend to constrain the "faster" ones.
 
-Generally, the size of large organizations and the work required tends to inhibit completely free customization. In simple commodities this isn't a problem, but more high-end products need more freedom for the users to explore and [identify](identity.md) with the object.
+Generally, the size of large organizations and the work required tends to inhibit completely free customization. In simple commodities this isn't a problem, but more high-end products need more freedom for the users to explore and [identify](people-identity.md) with the object.
 
 Another risk of large-scale endeavors is complete blandness. Since people can get easily offended at small distinctions, the best form that offends nobody is incredibly boring. It also pleases very few people as well.
 
 ## Big issues in design
 
-Most of the time, UX developers follow safe fashions, but frequently they'll [run a fashion out to its most extreme](trends.md) and make the interface almost unusable, often for a few broad reasons:
+Most of the time, UX developers follow safe fashions, but frequently they'll [run a fashion out to its most extreme](people-trends.md) and make the interface almost unusable, often for a few broad reasons:
 
 - Designers became intimately familiar with what they were designing, and have very limited interaction with the users. Often, they may only know what marketing professionals or their friends think.
 - Designers have seen the same old, tired thing. They tend to not understand that the thing exists in its current form is because it was often *the* best way to do it, or they're disregarding conventions that everyone is used to.

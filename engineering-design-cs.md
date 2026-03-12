@@ -14,7 +14,7 @@ To that end, simpler is almost always better.
 
 ## Rules
 
-The speed of successful [tech trends](trends.md) mixed with the relatively young age of most [tech innovators](trends.md) tend to see the industry *constantly* break the rules of UX.
+The speed of successful [tech trends](people-trends.md) mixed with the relatively young age of most [tech innovators](people-trends.md) tend to see the industry *constantly* break the rules of UX.
 
 No design is *ever* perfect, but computers have taken bad design to a new level:
 
@@ -37,7 +37,7 @@ No design is *ever* perfect, but computers have taken bad design to a new level:
   - Make errors seem or be very dangerous, as if they're [breaches of contract](people-contracts.md).
   - Permit 1 error to destroy valuable work.
 
-Users can only draw from their [environment](reality.md) (observations) or [memory](imagination.md) (expectations), so [computer design](engineering-design.md) frequently borrows from the world around us:
+Users can only draw from their [environment](reality.md) (observations) or [memory](people-imagination.md) (expectations), so [computer design](engineering-design.md) frequently borrows from the world around us:
 
 - Building things to reflect biological form, such as making the case look like a plant or adding earth tones.
 - Adding context-sensitive colors, such as shades of gray for industrial tones or a brightly colored palette for children's themes.
@@ -61,7 +61,7 @@ The available information from that technology also allows for more specialized 
 
 ## Communication
 
-Typically, the nature of tech trends means most of the styles communicates from the sci-fi/fantasy of the time to imply the technology is "futuristic" by that decade's [fashions](trends.md).
+Typically, the nature of tech trends means most of the styles communicates from the sci-fi/fantasy of the time to imply the technology is "futuristic" by that decade's [fashions](people-trends.md).
 
 The domain of technology has *magnitudes* of complexity, so users have a dramatically higher chance of frustration than any other industry:
 
@@ -71,7 +71,7 @@ The domain of technology has *magnitudes* of complexity, so users have a dramati
 
 [Software engineers](computers-programming.md), by the nature of their trade, do not need great [communication skills](people-conversation.md) and often have limited [people skills](people-image.md), so many computer design elements have been, from their inception, fundamentally obtuse.
 
-This is almost standard in tech, and never seems to [trend](trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
+This is almost standard in tech, and never seems to [trend](people-trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
 
 [Cybersecurity](computers-cysec.md) design, by contrast, is simply the *reverse* of good design: instead of communicating what a user can do, the designer is obscuring and *hiding* things instead.
 
@@ -123,7 +123,7 @@ Fixing bad software/hardware design isn't as easy as it sounds. The technology e
 - It takes 5-6 ideas to get a design right, and startups often only get 1-2 shots at good design before they run out of money, so their design often becomes industry-standard even if it's not that great.
 - Most design rules in tech create *many* contradictions which arise across a plethora of edge cases.
 - The people who design software are human beings who [may not want the users' best interests](faang.md), and have reason to employ "dark patterns" to make some elements difficult to access (e.g., unsubscribe, delete account, remove connection).
-- [Social trends](trends.md) can redefine elements, so most websites are *constantly* changing. Some elements become archaic, new elements become the standard, and some elements can become purely offensive.
+- [Social trends](people-trends.md) can redefine elements, so most websites are *constantly* changing. Some elements become archaic, new elements become the standard, and some elements can become purely offensive.
 
 Good software design starts with a rudimentary structure, then works outward. Unfortunately, the feature/complexity paradox dramatically expresses itself within computers:
 
@@ -180,7 +180,7 @@ While it may be useful to catch most glaring issues, A/B testing can absolutely 
 Computers have a unique paradox:
 
 1. We must abide by [existing convention](habits.md) to learn how to operate something new.
-2. Simplicity is critical for people to easily, quickly [understand](understanding.md) information that helps them make [decisions](people-decisions.md).
+2. Simplicity is critical for people to easily, quickly [understand](understanding.md) information that helps them make [decisions](mind-decisions.md).
 3. For the convenience of the hardware and software engineer, *all* the complexities are laid out when they first design the object.
 
 Those 3 elements combine to mean that computers *can't* please all the users unless there are *many* dropdown menus and extra hidden elements for more complex features.
@@ -211,7 +211,7 @@ Shame is a [manipulation tactic](power-types.md) that tries to coerce users to d
 Sometimes, in the interests of [marketing numbers](marketing.md), some UI decisions will be *terrible*:
 
 - Email popups that confront the user 3 seconds into opening the website, since [A/B testing](engineering-design.md) showed it gained 10% more subscribers (while not really considering the lead-to-sales ratio).
-- Moving around highly established design elements, since marketing [fashions](trends.md) dictated it was trendy and the key demographic would like it.
+- Moving around highly established design elements, since marketing [fashions](people-trends.md) dictated it was trendy and the key demographic would like it.
 
 To get more money, online shopping has a few specific dark patterns:
 

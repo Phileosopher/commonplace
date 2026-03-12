@@ -60,7 +60,7 @@ Every court hearing is [inherently biased](mind-bias.md).
 To put it another way, laws aren't directly morality:
 
 1. Law is a [value system](values.md) made collaboratively over time by [leaders](groups-large.md) with [authority](power.md).
-2. At first, the values reflect the leaders' [philosophies](philosophy.md), but adapt and conform to [trends](trends.md) over time to enforce [justice](morality-justice.md).
+2. At first, the values reflect the leaders' [philosophies](philosophy.md), but adapt and conform to [trends](people-trends.md) over time to enforce [justice](morality-justice.md).
 3. Law enforcement will create [consequences](results.md) for those laws, but those consequences aren't necessarily moral.
 4. If there is anything moral about the laws, they exist in the framers' minds, and future morality comes through how future leaders interpret it.
 5. We all, in our mind, have an [imitation](people-image-why.md) of those laws, which is perpetually over-ruled by permutations and misunderstandings of those laws relative to how large organizations use them.
@@ -116,7 +116,7 @@ Your silence may exonerate you.
 
 Research the [rules](people-rules.md) whenever possible.
 
-- Governments usually post their laws publicly (though many [bureaus](bureaucracy.md) have unclear or conflicting precedents), which usually make sense if you can get past the [jargon](glossary-legal.md).
+- Governments usually post their laws publicly (though many [bureaus](bureaucracy.md) have unclear or conflicting precedents), which usually make sense if you can get past the [jargon](glossary-legal-ac.md).
 - Closely consider *everyone's* legal rights and responsibilities.
 - Even when you're violating your responsibility, them violating *their* responsibility exonerates you ("In pari delicto").
 - The rules are often more complicated than they seem:
@@ -150,7 +150,7 @@ Always give precise clarifications to your testimony and promises.
 - Only state what you know to be true.
   - *Always* clarify if you don't precisely remember something.
   - [Lying](people-lying.md) in many contexts risks a wide variety of problems: lying under oath, defamation, libel, slander, false advertising, fraud.
-- Give all relevant information to permit others to make the most educated [decision](people-decisions.md) possible.
+- Give all relevant information to permit others to make the most educated [decision](mind-decisions.md) possible.
 - You will [*not* remember everything perfectly](mind-bias.md), and that humility can protect you in many capacities.
 - Always add modifiers that imply uncertainty ("I remember...", "By my recollection...", "The statement I read was...").
 - If you're giving advice, add modifiers that imply expertise but no promises ("I've experienced this...", "This has happened before elsewhere...").
@@ -352,7 +352,7 @@ If someone performs a breach of contract and doesn't pay, don't hunt them down.
 
 - The legal costs for suing about unpaid fees is only worth the cost if it's a *lot* of money, and is typically worth selling the bad debt to a collections agency instead.
 - If you've overpaid, the damages for seeking restitution aren't worth it, and you'll damage the organization far worse by publicly shaming them on social media.
-  - If you *do* make the experience a public event, make sure the information isn't protected by a privacy regulation (or that part is omitted) and that your issue is [fashionable](trends.md) enough for most people to feel angry about it.
+  - If you *do* make the experience a public event, make sure the information isn't protected by a privacy regulation (or that part is omitted) and that your issue is [fashionable](people-trends.md) enough for most people to feel angry about it.
 
 Generally, it's a better bet to leave a hostile work environment than sue.
 
@@ -361,14 +361,14 @@ Generally, it's a better bet to leave a hostile work environment than sue.
 
 ## Legal safety is *not* part of the Good Life
 
-[The Good Life](goodlife.md) encompasses more [meaning](meaning.md) than simply [protection from risks](safety-riskmgmt.md).
+[The Good Life](people-goodlife.md) encompasses more [meaning](meaning.md) than simply [protection from risks](safety-riskmgmt.md).
 
 The only way to stay fully out of trouble is to do absolutely nothing.
 
 - Every single [task we perform](purpose.md) comes with legal risks.
 - Therefore, most [meaningful](meaning.md) and [ethical](morality.md) tasks are often *more* risky legally than if we did nothing.
 
-Living a [good life](goodlife.md) requires operating *outside* the world of what's legally admissible.
+Living a [good life](people-goodlife.md) requires operating *outside* the world of what's legally admissible.
 
 - We can only find [happiness](mind-feelings-happiness.md) in our thought life, and legal matters are only the world *around* us.
 

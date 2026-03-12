@@ -5,7 +5,7 @@ If you see any of their quirks that *really* annoy you, they'll get *much* worse
 
 None of these signs are necessarily unsolvable, but don't intensify the relationship without [awareness](awareness.md) of how to fix or avoid them.
 
-However, nobody is entirely "perfect" for you because everyone is somewhat broken, so your [personality](personality.md) may work well against some of them.
+However, nobody is entirely "perfect" for you because everyone is somewhat broken, so your [personality](people-personality.md) may work well against some of them.
 
 They're psychologically or physically abusive:
 

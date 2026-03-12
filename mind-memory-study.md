@@ -118,7 +118,7 @@ Since it harms memory development, cut out *all* multitasking:
 
 Mentally warm up with small, stimulating exercises such as addition, counting backward or doodling.
 
-Learn the best [way to take notes](mind-memory-notes.md) with respect to your [personality](personality.md).
+Learn the best [way to take notes](mind-memory-notes.md) with respect to your [personality](people-personality.md).
 
 ## During the study session
 

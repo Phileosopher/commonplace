@@ -5,7 +5,7 @@ Love is always a type of fondness, affection, or connection. We usually say "lov
 
 The greatest psychological [motivator](purpose.md) is [fear](mind-feelings-fear.md), but that fear *always* comes through loving something else we don't want to lose. However, we're frequently unaware of what we love when we're more afraid of losing it.
 
-Love is typically [habitual](habits.md) in day-to-day life, and we begin loving when we make [decisions](people-decisions.md) that give ultimate [priority](purpose.md) to something.
+Love is typically [habitual](habits.md) in day-to-day life, and we begin loving when we make [decisions](mind-decisions.md) that give ultimate [priority](purpose.md) to something.
 
 The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
@@ -15,12 +15,12 @@ APPLICATION: Many people who talk about "undying affection" or "oneness with the
 
 Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](results.md) or [being](humanity.md).
 
-APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](people-decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
+APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](mind-decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
 
 Love is not only the pinnacle of human existence. It is *the* foundation of all human [purpose](purpose.md) and [meaning](meaning.md):
 
 1. [Survival](mind-feelings-fear.md) is loving oneself at the present moment.
-2. [Safety](safety.md) is loving one's [foreseeable](imagination.md) future self.
+2. [Safety](safety.md) is loving one's [foreseeable](people-imagination.md) future self.
 3. Love/Affection is to love others to gain [friendship](people-friends-why.md).
 4. Self-esteem is to love one's [essence](humanity.md).
 5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all of the above.
@@ -30,11 +30,11 @@ APPLICATION: All human purpose is driven by love of something, so all people are
 - Self-preservation is simply self-love.
 - Corruption is only a desire for [power](power.md).
 - Greed and materialism are the love of things.
-- Group [identity](identity.md) is the love of the values the [group](groups-member.md) stands for.
+- Group [identity](people-identity.md) is the love of the values the [group](groups-member.md) stands for.
 - Rebellion is the love *against* something.
 - Self-destructive desires are frequently the love of nonexistence or a misplaced sense of [justice](morality-justice.md).
 
-We can't directly control what we love. We can only make [decisions](people-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](people-conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
+We can't directly control what we love. We can only make [decisions](mind-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](people-conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
 APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](https://theologos.site/gospel/)).
 
@@ -49,7 +49,7 @@ The complexity of our essence means we can specify *very* particular objects of 
 Since we're most [aware](awareness.md) of ourselves, we feel things about us more than anything or anyone else:
 
 - Ourselves in the present moment (i.e., "survival")
-- Ourselves in the [foreseeable future](imagination.md) (i.e., "[safety](safety.md)")
+- Ourselves in the [foreseeable future](people-imagination.md) (i.e., "[safety](safety.md)")
 - [Who we really are](humanity.md) (*philautia* in Greek)
 
 We *can* love others like ourselves, but we're incapable of loving others *more* than ourselves because we don't know about others' needs as easily as our own. While we may [understand](understanding.md) others' needs somewhat, we only extend our love as far as we can adapt our [universal human understanding](humanity-universals.md) out from ourselves toward others.
@@ -73,7 +73,7 @@ We can love what a person does.
 
 - Their labor and [results](results.md)
 - Their natural abilities and [understanding](understanding.md)
-- [Future](imagination.md) abilities or results
+- [Future](people-imagination.md) abilities or results
 
 We can love who a person is (*agape*/*philia* in Greek, depending on whether we have more [power](power.md) or the same).
 
@@ -81,11 +81,11 @@ APPLICATION: Loving someone's physical state is easy, but isn't as important as 
 
 We can love someone who doesn't exist yet, such as what they may or will [become](people-changes.md).
 
-APPLICATION: If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](imagination.md) of them more than those around us.
+APPLICATION: If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](people-imagination.md) of them more than those around us.
 
-Any attempt to overwork our sacrifice for others will fail because [our constant changing](people-changes.md) will make our [expectations](imagination.md) constantly fail.
+Any attempt to overwork our sacrifice for others will fail because [our constant changing](people-changes.md) will make our [expectations](people-imagination.md) constantly fail.
 
-APPLICATION: The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](imagination.md).
+APPLICATION: The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](people-imagination.md).
 
 ### Other objects
 
@@ -110,8 +110,8 @@ Small variations in portions of what we love creates profound differences in how
 
 - Loving someone's [safety](safety.md) more than their [happiness](mind-feelings-happiness.md) will mean protecting them against their [will](purpose.md).
 - Loving something's [use](purpose.md) over its [appearance](people-image-why.md) will mean we will damage its exterior over time.
-- Loving an idea's [application](people-decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
-- Loving our present self over our future self provokes us to avoid [planning for the future](imagination.md).
+- Loving an idea's [application](mind-decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
+- Loving our present self over our future self provokes us to avoid [planning for the future](people-imagination.md).
 
 APPLICATION: Most of what we do is prioritizing what we love in some form. A faithful [marriage](gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).
 
@@ -119,9 +119,9 @@ We often can't tell if others love us, or in what capacity of preservation, and 
 
 APPLICATION: If something harms us, we can't always be sure the person who caused it is [evil](morality-evil.md) or incompetent, and loving means to *always* presuming incompetence until proven wrong. Going forward, we may not be able to [trust](trust.md) them as much either way, but we don't risk [unjustly](morality-justice.md) harming them from assuming them to be evil when they weren't.
 
-The most effective way to love someone, however, is in a way they weren't [expecting](imagination.md).
+The most effective way to love someone, however, is in a way they weren't [expecting](people-imagination.md).
 
-APPLICATION: If you wish to love someone wholeheartedly, do something they don't expect, or in a way beyond what they were [expecting](imagination.md). They will likely be [surprised](mind-feelings-surprise.md) by it, and your action may [change their worldview](people-changes.md).
+APPLICATION: If you wish to love someone wholeheartedly, do something they don't expect, or in a way beyond what they were [expecting](people-imagination.md). They will likely be [surprised](mind-feelings-surprise.md) by it, and your action may [change their worldview](people-changes.md).
 
 ## Ideal love
 
@@ -132,7 +132,7 @@ Many forms of love, taken to excess, risk committing [evil](morality-evil.md) to
 - If we *ever* desire [power](power.md) at another's expense, we're plotting a roundabout form of [evil](morality-evil.md).
 - If we desire someone's body, time, energy, or anything else they possess, we only love conditional things about that person. The easiest way to tell is how easily we'd be able to transfer that love to someone else.
 
-The only form of love with no limit requires a person to act in the interests of another living being's [soul](humanity.md) and the things that promote a [good life](goodlife.md) for them, without mixing in self-interest. That action can go as far as sacrificing one's life for that cause.
+The only form of love with no limit requires a person to act in the interests of another living being's [soul](humanity.md) and the things that promote a [good life](people-goodlife.md) for them, without mixing in self-interest. That action can go as far as sacrificing one's life for that cause.
 
 Barring a legitimate transformation of one's [soul](humanity.md), there is no chance that we will naturally love. We will grow to love, however, if we allow the [religious](religion.md) inner transformation to behave through love.
 
@@ -142,6 +142,6 @@ APPLICATION: We don't always see the results of love immediately, so the groundw
 
 Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
-Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts-why.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
+Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts-why.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](people-imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
 Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").

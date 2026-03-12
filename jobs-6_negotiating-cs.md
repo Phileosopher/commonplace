@@ -52,7 +52,7 @@ Be careful if they're too trusting or anything seems out-of-place *whatsoever*.
 
 ## Awful experiences
 
-The tech industry is filled with young, [trendy](trends.md) people, so you're likely to *not* know about awful jobs [until you experience it personally](jobs-suck-cs.md).
+The tech industry is filled with young, [trendy](people-trends.md) people, so you're likely to *not* know about awful jobs [until you experience it personally](jobs-suck-cs.md).
 
 The beauty of the industry is that things move fast, so nobody bats an eye at short-term back-to-back experiences.
 

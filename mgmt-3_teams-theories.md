@@ -15,7 +15,7 @@ The model breaks apart and independently analyzes aspects of an organization:
 
 ## Belbin team roles
 
-Helps define roles into 9 domains based on comparative [personality](personality.md) assessments.
+Helps define roles into 9 domains based on comparative [personality](people-personality.md) assessments.
 
 Thought-Oriented
 

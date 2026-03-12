@@ -5,7 +5,7 @@ Pop culture has destroyed sex:
 
 - Sexual satisfaction is the peak of physical intimacy, and mostly reliably comes from a healthy, close marriage.
 - Sexual pleasure is intense, but it's fleeting and only lasts a few minutes.
-- However, sex is a shallow way to [self-identify](identity.md) and has very little correlation to almost any other [competence or success](success-1_why.md).
+- However, sex is a shallow way to [self-identify](people-identity.md) and has very little correlation to almost any other [competence or success](success-1_why.md).
 
 At first, *everyone* is bad at sex:
 
@@ -13,7 +13,7 @@ At first, *everyone* is bad at sex:
 - Two virgins marrying means they learn everything about sex together.
 - Unlike movies or porn, real-life sex is awkward, filthy, and silly.
 
-Men associate more [identity](identity.md) with sex than women:
+Men associate more [identity](people-identity.md) with sex than women:
 
 - Men are psychologically, physically, emotionally, and socially involved in sex.
 - In their lives, many men will suffer an extremely depressing period of impotence.

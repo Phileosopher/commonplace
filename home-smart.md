@@ -54,7 +54,7 @@ Countdown
 Temperature-controlled
 
 - Turns on or off at certain temperatures
-- Useful for HVAC and [gardening](horticulture.md)
+- Useful for HVAC and [gardening](plants.md)
 
 ## Lighting
 

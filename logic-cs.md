@@ -66,7 +66,7 @@ As an example, you might tell a computer to sort colored balls. If there's only 
 
 The first one is tiresome, and becomes obsolete if you bring in a third color. The second allows you to only omit green balls no matter how many colors there are. This becomes very significant if there were, let's say, 300 colors in the mixture.
 
-Thus, understanding these primitives and how they operate is to get inside the mind of a computer and how to work with it. All this math compiles itself inside meaningful mathematics inside the [arithmetic logic unit](computers-alu.md). It's a big reason why computer scientists are some of the most logical people on the planet, even if they're [not always the most sensible](trends.md).
+Thus, understanding these primitives and how they operate is to get inside the mind of a computer and how to work with it. All this math compiles itself inside meaningful mathematics inside the [arithmetic logic unit](computers-alu.md). It's a big reason why computer scientists are some of the most logical people on the planet, even if they're [not always the most sensible](people-trends.md).
 
 ## More information
 

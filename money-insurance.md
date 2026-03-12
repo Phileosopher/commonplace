@@ -31,8 +31,8 @@ In short:
 
 To be insurable, a risk must meet a few criteria:
 
-1. [Predictable](imagination.md), typically with [statistics](math-stat.md).
-2. Outside the insured's control ([unexpected](imagination.md), [accidental](humanity.md), or [uncertain](understanding-certainty.md)).
+1. [Predictable](people-imagination.md), typically with [statistics](math-stat.md).
+2. Outside the insured's control ([unexpected](people-imagination.md), [accidental](humanity.md), or [uncertain](understanding-certainty.md)).
 3. *Not* a catastrophic thing affecting many people (e.g., [war](people-conflicts-war-why.md), nuclear hazards, flood), though excess and surplus lines can often cover those events.
 4. Be measurable, with a clear monetary value.
 5. Causes a legitimate financial/economic [hardship](hardship.md) (i.e., that party has an insurable interest).

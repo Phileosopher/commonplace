@@ -156,7 +156,7 @@ Contrary to popular opinion, no single method detects lies:
 
 Note any changes in expression or body language:
 
-- You need the context of that person's [disposition](personality.md), so note their typical behavior without pressure as a "baseline".
+- You need the context of that person's [disposition](people-personality.md), so note their typical behavior without pressure as a "baseline".
 - Liars often self-implicate without meaning to, so learn to [be a great listener](language-speaking.md) and [closely observe](awareness.md).
 - Ideas can be redefined by tone or emphasis, so note how they pronounce each word in their sentence.
 

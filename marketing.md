@@ -28,12 +28,12 @@ Product - what are you delivering? (not always tangible or sold for money)
 - Vague things (e.g., the feeling of goodwill) can be a product.
 - A [job hunter](jobs-1_why.md) is marketing skills, time, and energy.
 - A humanitarian request (call to action) advertises a transcendent purpose.
-- Anyone who wants to be a social media influencer is trying to use their [personality](personality.md)-based [performance](results.md) to gain others' attention.
-- [Religious evangelism](evangelism.md) is advancing a theological/philosophical perspective, with [religion](religion.md) itself being a passive marketing movement.
+- Anyone who wants to be a social media influencer is trying to use their [personality](people-personality.md)-based [performance](results.md) to gain others' attention.
+- [Religious evangelism](spiritual-exercises-evangelism.md) is advancing a theological/philosophical perspective, with [religion](religion.md) itself being a passive marketing movement.
 
 Price - what does it cost?
 
-- Even free things have an [opportunity cost](people-decisions.md) in time, focus, attention, etc.
+- Even free things have an [opportunity cost](mind-decisions.md) in time, focus, attention, etc.
 - In our [Over-Information Age](https://stucky.tech/purpose/), paying attention is the most significant thing a person can do, so treat it with respect.
 
 Place - where are you delivering the product?
@@ -69,7 +69,7 @@ The only way to find that meaning is to create a distinctly human connection thr
 
 - Simply making promises and keeping them is enough to start building a brand.
 - To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_why.md) to disrupt [established patterns](habits.md).
-- A marketer never gets to dominate the domain, and serves more to curate [fashions](trends.md) that others will *want* to maintain.
+- A marketer never gets to dominate the domain, and serves more to curate [fashions](people-trends.md) that others will *want* to maintain.
 
 A lasting, marketable product has an original and distinctive competitive advantage.
 
@@ -79,7 +79,7 @@ A lasting, marketable product has an original and distinctive competitive advant
 
 ## Trends
 
-Marketing "eras" arise through how society's [progress](trends.md) from rural to mass-industrialization increases everyone's need to compete.
+Marketing "eras" arise through how society's [progress](people-trends.md) from rural to mass-industrialization increases everyone's need to compete.
 
 Simple Trade Era
 
@@ -118,7 +118,7 @@ Individualization Era
 
 ## Customers' decisions
 
-Every consumer's [decisions](people-decisions.md) run through a product-seeking cycle:
+Every consumer's [decisions](mind-decisions.md) run through a product-seeking cycle:
 
 1. Recognize an unfulfilled need
 2. Search for information to fulfill the need
@@ -312,7 +312,7 @@ Unfortunately, in our [over-information society](information.md), many marketing
    - The number of potential leads is already a minority relative to the population at large.
    - As a statistical reality, any interest that's *not* directly related to the product will represent a minority perspective.
    - Therefore, adding any secondary group affiliation (e.g., [political views](politics-conservativeliberal.md)) is probably adding a minority view onto a minority view.
-3. Any [newly trending](trends.md) additions to the product can easily deter customers.
+3. Any [newly trending](people-trends.md) additions to the product can easily deter customers.
    - Only early adopters will want the new trend, and the early majority will be skeptical until it has been proven to work.
    - The nature of trends means the product's association with a trend will eventually alienate the *entire* majority (e.g., "[AI](computers-ai-ml.md)-enhanced").
 
@@ -344,7 +344,7 @@ Marketing is the art of [image](people-image-why.md), and some things *don't* ha
 Marketing abuse is a vastly expensive and culturally damaging experience.
 
 - Each social platform has its own rules and requirements, which change somewhat frequently, and can be addicting to over-invest into.
-- [Fashionable](trends.md) things often cost 20-50% more for the same functionality, so effective branding is *not* particularly [budget-conscious](money-3_budget.md).
+- [Fashionable](people-trends.md) things often cost 20-50% more for the same functionality, so effective branding is *not* particularly [budget-conscious](money-3_budget.md).
 - A marketed product can be so [creative](mind-creativity.md) that it's [art](values-quality.md) on its own, but also doesn't sell the product.
 - If a brand is *too* [influential](power-influence.md), it may evoke thoughts of [cult-like fanaticism](culture-cults.md).
 
@@ -359,12 +359,12 @@ The simplest ways to detect marketing abuse are by observing "glittering general
   - Cell phone plans have Unlimited, Unlimited Plus, Unlimited Forever, and Unlimited Prestige
   - A member can be Platinum, Platinum Plus, or Platinum Blue.
   - The job called Secretary is advanced to Administrative Assistant and then Office Coordinator.
-  - A person advancing a controversial, [fashionable](trends.md) idea is called a hero, then a martyr if other people disagree.
+  - A person advancing a controversial, [fashionable](people-trends.md) idea is called a hero, then a martyr if other people disagree.
   - An antagonist is first backwards, then a bigot, then a racist.
 
 Within a few years, people will detect *any* mass-marketing or [image manipulation](people-image-distortion.md) tactic and will learn to disregard it.
 
-- While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](people-decisions.md).
+- While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](mind-decisions.md).
 - Avoid [dark patterns and predatory design tactics](engineering-design.md) on your internet content.
 
 If you're not sure, well-designed traditional publications that effectively communicate what the product is and what it does are all you need.

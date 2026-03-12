@@ -14,6 +14,11 @@ While using the same operator on the opposite side of the formula creates an equ
 3. x = 5 * 60
 4. x = 300
 
+Adding and subtracting positive versus negative numbers gets complicated:
+
+- -5 - 3 (you have to think weird to find an answer)
+- -5 + -3 (swap the sign before it and it's more obvious what to do)
+
 Anything multiplied or divided by a multiple of 10 simply requires moving a decimal point or adding a zero:
 
 - 65.1 * 10 = 651

@@ -26,9 +26,9 @@ We *must* take our exercises seriously if we want to see [results](results.md) f
 
 Spiritual exercises are essentially the works-based portion of faith ([James 2:14-18](https://biblehub.com/james/2.htm)), and it expresses differently for each person.
 
-- Everyone's [personality](personality.md) is different, so nobody else will do it quite the same way as you.
+- Everyone's [personality](people-personality.md) is different, so nobody else will do it quite the same way as you.
 - Not even your *style* will be quite the same as anyone else's.
-- It's your own specific friendship and [identity](identity.md) in Christ, so it's a private matter between you and Him.
+- It's your own specific friendship and [identity](people-identity.md) in Christ, so it's a private matter between you and Him.
 
 ## Awareness
 
@@ -37,11 +37,11 @@ Find [awareness](awareness.md) of yourself:
 - The experience is essentially meditation, but can be whatever allows you to hear Him.
 - That awareness must be in relationship to God.
 - From there, you'll discover awareness of your sins.
-- Audaciously and uncompromisingly focus on all your [sins](morality-sins.md) and how much it has and can harm His creations.
+- Audaciously and uncompromisingly focus on all your [sins](theology-sins.md) and how much it has and can harm His creations.
 
 ## General sin-purging
 
-Grab [any particular sin](morality-sins.md) you still might struggle with:
+Grab [any particular sin](theology-sins.md) you still might struggle with:
 
 1. At the beginning of the day, only focus on identifying when your sin happens.
    - Don't worry immediately about changing it, since it's a challenge to simply become [aware](awareness.md) of sins.
@@ -114,7 +114,7 @@ Find and remove your most massive [time-waster](success-4_routine.md).
 
 Focus less on "why" or "what", and instead focus on "how".
 
-Go throughout a supermarket, enjoying the [experience](imagination.md) of each food, and only buy things in the store you had set out to purchase.
+Go throughout a supermarket, enjoying the [experience](people-imagination.md) of each food, and only buy things in the store you had set out to purchase.
 
 Throughout your routine, consider lifestyles and decisions from people in the Bible (especially Jesus) and how it reflects to today's conventional way of life.
 
@@ -189,7 +189,7 @@ Carefully consider any [media](creations.md) you consume, especially fiction:
 If you're enduring any [hardship](hardship.md), make a habit of trusting in God.
 
 1. Steadily release the experience as you anticipate it, and learn to relax before the trauma hits.
-2. Focus on Him steadily as the hardship washes over you by remembering Christ's suffering, other Christians' trials, and people who suffered in [the Bible](bible.md).
+2. Focus on Him steadily as the hardship washes over you by remembering Christ's suffering, other Christians' trials, and people who suffered in [the Bible](theology-bible.md).
 3. After the trauma, release the ripple effects from the [psychological pain](hardship-ptsd.md).
 
 As you feel led, scale back creature comforts.

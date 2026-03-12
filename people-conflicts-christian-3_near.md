@@ -5,7 +5,7 @@ Defining heresies by standards established by groups or society is a bad idea fo
 
 - [The fashions of Christianity move around](history-church.md), and what is heresy today may not be in 1,000 years.
 - Cult deprogrammers often define "coercion" with vague enough terms that it can apply to *any* religion whatsoever that exerts [influence](power-influence.md), including Christianity, and their efforts are often a source of [persecution](hardship-persecution-church.md).
-- Most people claiming to be a Christian [when Jesus returns](jesus-returns.md) likely won't believe in Him ([Matthew 7:22](https://biblehub.com/matthew/7-22.htm)).
+- Most people claiming to be a Christian [when Jesus returns](theology-end.md) likely won't believe in Him ([Matthew 7:22](https://biblehub.com/matthew/7-22.htm)).
 
 To Christians, a heresy is a belief that deviates from a dominant Christian [theory](values.md), opinion, or practice.
 
@@ -17,11 +17,11 @@ To Christians, a heresy is a belief that deviates from a dominant Christian [the
   1. God the Father and Holy Spirit
   2. Jesus, as God and as man
   3. Scripture and the value of the Bible
-  4. Humanity's [immoral state](morality.md), especially regarding [sin](morality-sins.md)
+  4. Humanity's [immoral state](morality.md), especially regarding [sin](theology-sins.md)
   5. The [Church's](church.md) position to [lead believers](spiritual-discipleship.md)
   6. [Spiritual rituals](spiritual-exercises.md) and [how they should be done](mgmt-church.md)
 
-Within reason, someone can still believe heresies and have a [relationship with Jesus](identity.md).
+Within reason, someone can still believe heresies and have a [relationship with Jesus](people-identity.md).
 
 - Their salvation is certainly crippled, but can still exist as long as they [understand](understanding.md) and believe [the basics of the Gospel](https://theologos.site/gospel/).
 - Cults, however, can easily arise in the absence of the solid theological foundation of good Christian doctrine.
@@ -34,14 +34,14 @@ Isolationism - Following Jesus requires severing ties completely with the rest o
   - Jesus came to save sinners, and associated frequently with them as part of His ministry ([Matthew 9:10-13](https://biblehub.com/matthew/9.htm)).
 - Following Jesus means a cycle of associating with other believers, then going out into the rest of the world ([John 17:13-15](https://biblehub.com/john/17.htm)).
 - One variation of isolationism is to believe there are *no* ties between a person's professional or [cultural](people-culture.md) life and their Christian life.
-  - However, if you choose to identify as a Christian, your lifestyle *will* change, and it *will* reflect on a [holier lifestyle](morality-sins.md).
+  - However, if you choose to identify as a Christian, your lifestyle *will* change, and it *will* reflect on a [holier lifestyle](theology-sins.md).
   - Saying something is "just business" is never used to justify a morally *good* action, so most of it is motivated toward [gaining some form of power](power-types.md).
 
 Christian Hedonism - God receives the most glory through us when we are most satisfied with Him ([Romans 15:13](https://biblehub.com/romans/15-13.htm)):
 
 - We *will* find joy in Christ when we serve Him.
   - In fact, God designed all wisdom for the purpose of *long-term* [satisfaction in life](success-1_why.md) ([Proverbs 4:5-9](https://biblehub.com/proverbs/4.htm)).
-- However, if that joy ever steps across *any* of God's commands, it's still a [sin](morality-sins.md), and He is *not* satisfied with it.
+- However, if that joy ever steps across *any* of God's commands, it's still a [sin](theology-sins.md), and He is *not* satisfied with it.
 
 Cultural Christianity - Christians are responsible to instill a holy culture in the world around them ([Deuteronomy 28:1-14](https://biblehub.com/deuteronomy/28.htm)):
 
@@ -50,7 +50,7 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
 - We'll never achieve any true spiritual culture until [Jesus establishes it directly and in-person](https://theologos.site/millennium/).
   - In this life, we're destined to battle hardship, which includes [not being able to fully trust those around us](hardship-persecution-church.md).
 - A variation of this is Christian nationalism, which indicates a person's Christian background should reflect on their [political views](politics-conservativeliberal.md).
-  - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](lawsaxioms-legal.md) will *not* have relevance once [Jesus returns](jesus-returns.md).
+  - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](lawsaxioms-legal.md) will *not* have relevance once [Jesus returns](theology-end.md).
   - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](culture-cults.md).
 
 Second Work Theology - Salvation can be enhanced through the baptism of the Holy Spirit ([Acts 2:38](https://biblehub.com/acts/2-38.htm)):
@@ -82,14 +82,14 @@ Philosophical vagueness about aspects of Christianity:
 
 Jesus doesn't *technically* need to eternally exist, but must be God:
 
-- Christians *must* believe [Jesus is completely equal with God](god.md), but also that He's completely [human](humanity-christian.md).
+- Christians *must* believe [Jesus is completely equal with God](theology-god.md), but also that He's completely [human](theology-godandman-humanity.md).
   - This paradox is called the "hypostatic union": 100% God and 100% man.
 - However that equality doesn't necessarily mean that the Father and Son were necessarily eternally existing in the form they exist in right now ([Colossians 1:15-20](https://biblehub.com/colossians/1.htm)).
 - If God were to split Himself at the beginning of creation (e.g., for the purpose of a relationship with created beings) there is no heresy as long as Jesus is still the ultimate authority with a completely equal and shared essence with God.
 
 Dispensationalism - there are different "ages" where God interacted (and will interact) with people differently, and when Jesus came He completely divorced the meaning of "Israel" and Hebrew.
 
-- Before Christ, the hope *was* in the [coming Messiah](jesus-prophecies.md).
+- Before Christ, the hope *was* in the [coming Messiah](theology-salvation-prophecies.md).
 - The Holy Spirit is the [down payment](people-contracts.md) for [the coming Age](https://theologos.site/millennium/) ([2 Corinthians 1:21-22](https://biblehub.com/2_corinthians/1.htm)).
 - Not all Israel is "Israel" (Romans 9:6-8).
 - The natural implication, therefore, is that modern-day Israelis are no longer part of God's plans.
@@ -113,4 +113,4 @@ Losing one's salvation:
   - Before that point, we're carrying a [discipleship](spiritual-discipleship.md) and [journey](spiritual-exercises.md) until that fulfillment ([Romans 8:22-25](https://biblehub.com/romans/8.htm)).
   - In this situation, the passages plainly indicate the person who has abandoned that journey entirely in light of all the information they possessed, and their decision is themselves possessing full knowledge at that moment.
 
-Rapture Theology - Jesus will come back twice, once for Christians and once again for the rest of the world (more on the subject [on this essay](jesus-returns.md)).
+Rapture Theology - Jesus will come back twice, once for Christians and once again for the rest of the world (more on the subject [on this essay](theology-end.md)).

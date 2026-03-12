@@ -13,7 +13,7 @@ Watch for frequent discipline:
 - There are only a few possible reasons why a child needs constant correction:
   1. The child feels uncertain about something, so they're feeling out the boundaries.
   2. The parents are failing at setting and maintaining enforceable, logical boundaries.
-  3. The child doesn't feel loved, so they're seeking attention to establish their [identity](identity.md) with something.
+  3. The child doesn't feel loved, so they're seeking attention to establish their [identity](people-identity.md) with something.
 - Be *very* careful if you observe yourself scaling up your disciplines to resolve an issue, since your choice of correction is obviously not working as well.
 
 Domestic abuse comes in all varieties:

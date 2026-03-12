@@ -7,7 +7,7 @@ There are several domains of "law":
 2. Divine law - rules that can only come from [a deity](religion.md) directly and is the domain of [ethics](morality.md).
 3. Human law - the rules people make, which is the subject of this topic here.
 
-Everyone has [expectations](imagination.md) in a [group](groups-small.md), and most of a group's expectations are enforced by [cultural norms](people-boundaries.md):
+Everyone has [expectations](people-imagination.md) in a [group](groups-small.md), and most of a group's expectations are enforced by [cultural norms](people-boundaries.md):
 
 1. Folkways are small actions that help streamline [routine](habits.md) social engagements.
 2. Mores imply the behavior is crossing or straddling a [moral](morality.md) issue.
@@ -27,9 +27,9 @@ Beyond [norms](people-rules-list.md), A society's rules are designed for the col
 
 The group's leadership determines which of those standards become laws/policy, and then it's approved by the members proportional to how much [power](power.md) they have in the group.
 
-A [wide variety of enforcement measures](rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](trends.md) and don't precisely conform to [justice](morality-justice.md).
+A [wide variety of enforcement measures](rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](people-trends.md) and don't precisely conform to [justice](morality-justice.md).
 
-The [purpose](purpose.md) of those rules isn't to "stop" the action from happening completely, since people will always make [evil decisions](morality-evil.md) if they have something to [gain](purpose.md). Instead, a rule is designed to make the action's [risks](safety.md) so challenging and [scary](mind-feelings-fear.md) that people [decide](people-decisions.md) differently before doing it.
+The [purpose](purpose.md) of those rules isn't to "stop" the action from happening completely, since people will always make [evil decisions](morality-evil.md) if they have something to [gain](purpose.md). Instead, a rule is designed to make the action's [risks](safety.md) so challenging and [scary](mind-feelings-fear.md) that people [decide](mind-decisions.md) differently before doing it.
 
 APPLICATION: While some people assert that the law is a teacher of [morality](morality.md), that only applies to the degree that people trust that law to be aligned with morality. It teaches to the people who wish to be taught.
 
@@ -57,7 +57,7 @@ APPLICATION: Rules are only valid if they transcend [culture](people-culture.md)
 
 Therefore, the best rule system has very few rules which are universally applied and *very* well-enforced.
 
-Since stated rules have no room for the nuances and [stories](stories-why.md) that accompany [reality](reality.md), they can be utterly [devastating](hardship-ptsd.md) to [outlier](trends.md) individuals in a group if the people in power don't employ a case-by-case judgment. In practice, the rules are the culture's likely [responses](people-decisions.md) to events.
+Since stated rules have no room for the nuances and [stories](stories-why.md) that accompany [reality](reality.md), they can be utterly [devastating](hardship-ptsd.md) to [outlier](people-trends.md) individuals in a group if the people in power don't employ a case-by-case judgment. In practice, the rules are the culture's likely [responses](mind-decisions.md) to events.
 
 Further, the rules must be maintained evenly. Detaining, impeding, or killing a person can provoke dramatic [distrust](trust.md) from that person's [family](people-family.md), [friends](people-friends-why.md), and bystanders about the leaders' [justice](morality-justice.md) if a technicality permits someone else to go free after performing a similar action:
 
@@ -65,7 +65,7 @@ Further, the rules must be maintained evenly. Detaining, impeding, or killing a 
 - A strict [age of majority without a rite of passage](maturity.md) to accompany it often distinguishes a few months' age between a 5-10 year prison sentence and a death penalty.
 - The only difference between murder and manslaughter/negligence is someone's [motive](purpose.md), which is often difficult to discern but severely defines the scope of criminal sentencing.
 
-Most rules imply a "precedent" to create consistency across time and [fashions](trends.md). Precedent is very [useful](purpose.md) because it empowers [trust](trust.md) through [tradition](habits.md), but avoids forcing complete uniformity within a [large group](groups-large.md) because it's already accommodated the range of [personalities](personality.md) from past historical events.
+Most rules imply a "precedent" to create consistency across time and [fashions](people-trends.md). Precedent is very [useful](purpose.md) because it empowers [trust](trust.md) through [tradition](habits.md), but avoids forcing complete uniformity within a [large group](groups-large.md) because it's already accommodated the range of [personalities](people-personality.md) from past historical events.
 
 [Larger groups](groups-large.md) have more [power](power.md) to observe and regulate rules. Frequently, in a *massive* group with generally [moral](morality.md) rules, people are unaware the rules are purely man-made. In those cases, people may trust those rules more than their sense of [morality](morality.md).
 
@@ -82,7 +82,7 @@ The ability to make rules can be vast but, except for [selfish purposes](moralit
 All prominent authorities have competitors, so they're constantly fighting various [threats](safety.md) that may erode their power:
 
 - Subordinates may steal that power for themselves or subvert/divert the rules for their [purposes](purpose.md).
-- Others on the same power level may compete with them to command their power for themselves, especially if they've recently gained *more* power and [imagine](imagination.md) they could benefit from the [conflict](people-conflicts-war-why.md).
+- Others on the same power level may compete with them to command their power for themselves, especially if they've recently gained *more* power and [imagine](people-imagination.md) they could benefit from the [conflict](people-conflicts-war-why.md).
 - Higher authorities may take away that power if they're displeased with how that person has [managed their power](mgmt-1_why.md).
 
 Power dynamics become more complicated because *other* groups often have tremendous power over authority figures:
@@ -100,11 +100,11 @@ If there is a hierarchy of power, it's almost guaranteed each tier will have the
 
 The exclusive [power](power.md) to make [rules over others](rules-methods.md) comes with the very legitimate risks of people in control who want to keep their power.
 
-Rules, when properly enforced, are *[supposed](imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
+Rules, when properly enforced, are *[supposed](people-imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
 
 APPLICATION: There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
-- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](people-decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
+- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](mind-decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
 - No matter how elaborate or constricting a system is, all humans who [purpose](purpose.md) one thing can be subverted by other humans with sufficient [motivation](purpose.md) and resources for the opposite purpose.
 
 Even if a rule system begins rightly, it will decay through good [intentions](purpose.md). By any means possible ("realism") a leader will try to achieve a good [consequence](results.md), and they will cross a moral line as they continue trying to create their desired results ("noble cause corruption"). It can represent in various forms:
@@ -137,7 +137,7 @@ Without any rules *against* what they do, anyone in a position of [formalized po
 2. Let enough time pass where the rules are disregarded, but still codified.
 3. Once the system/organization has grown in power, start enforcing those rules under the [claim](people-image-why.md) of a greater moral good.
 4. Keep enforcing those rules to an increasingly greater extent, with an emphasis on stealing power from anyone who may be a potential threat to their power.
-5. Once the punishments for those violations become [standard practice](habits.md) by everyone's [expectations](imagination.md), then larger-scale actions (e.g., banning, exile, harsh sentencing, killing) become commonplace as well.
+5. Once the punishments for those violations become [standard practice](habits.md) by everyone's [expectations](people-imagination.md), then larger-scale actions (e.g., banning, exile, harsh sentencing, killing) become commonplace as well.
 
 Generally, rules and their enforcement become more corrupt proportionally to [the size of the group](groups-large.md) those rules are placed in force over.
 
@@ -150,8 +150,8 @@ At the farthest end, a [group](groups-small.md) can establish an endless supply 
 APPLICATION: The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](people-culture.md) that defy [reality](reality.md):
 
 1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it falls within their interests, and it's all determined by [how they maintain their power](politics-systems.md).
-2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal.md) for the [consequences](results.md) of what they [decide](people-decisions.md).
-3. If you prefer a [social reform](trends.md), a government is *not* [trustworthy](understanding-certainty.md) to correctly employ it.
+2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal-ac.md) for the [consequences](results.md) of what they [decide](mind-decisions.md).
+3. If you prefer a [social reform](people-trends.md), a government is *not* [trustworthy](understanding-certainty.md) to correctly employ it.
 4. A government is never powerful enough that a person is never entitled to their [freedoms](people-boundaries-why.md).
 
 On the other end, an absence of rules will allow the [strongest](power.md) people in the group with [evil](morality-evil.md) intent to abuse everyone else's [rights](people-boundaries-why.md) without the [risk](safety.md) of losing power. When this happens, that person can make their *own* rules that strip away more [power](power.md) to enforce their rule.
@@ -162,7 +162,7 @@ That freedom/power balance is a complicated [philosophical debate](philosophy.md
 
 Generally, [puritanical and religious authority](religion.md) come from weak rules (where people are more individually [responsible](meaning.md) to maintain order and everyone abides by at least some [shame](mind-feelings-shame.md)), while paganism and secularism dominate with strong rules (where the responsible people are the [leadership](groups-large.md)).
 
-APPLICATION: Separating [religion](religion.md) and politics is impossible because they both deal with [large-scale](groups-large.md) opinions of how people should [coexist](people-boundaries-why.md), and define the authority and scope of [decisions](people-decisions.md) about people.
+APPLICATION: Separating [religion](religion.md) and politics is impossible because they both deal with [large-scale](groups-large.md) opinions of how people should [coexist](people-boundaries-why.md), and define the authority and scope of [decisions](mind-decisions.md) about people.
 
 Without a principled look at it, grounded in [love](people-love.md), powerful will subdue weaker proportionally to size.
 
@@ -182,15 +182,15 @@ More rules become harder to enforce, but most rule-makers will make more rules w
 
 ## Voting for rules
 
-One of the most common forms of redistributing who makes the rules comes through the concept of voting. By giving each person an equal measure in the [decision](people-decisions.md), the majority can determine what the group [does](results.md).
+One of the most common forms of redistributing who makes the rules comes through the concept of voting. By giving each person an equal measure in the [decision](mind-decisions.md), the majority can determine what the group [does](results.md).
 
 However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories-why.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
-The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](people-decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
+The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](mind-decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
 
 APPLICATION: True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
 
-To the degree people can engage in the voting process, an electoral system gives one specific [type of power](power-types.md) to the public. They can funnel their individually unimportant [decisions](people-decisions.md) through an appointed leader, who can then make all the decisions.
+To the degree people can engage in the voting process, an electoral system gives one specific [type of power](power-types.md) to the public. They can funnel their individually unimportant [decisions](mind-decisions.md) through an appointed leader, who can then make all the decisions.
 
 Voting comes with an unfortunate side effect. Since people make decisions based on what they understand, which is based on what they [perceive](people-image-why.md), the people who become appointed are the ones who *appear* to be the most [fitting](results.md) for the role. Thus, the art of [political power](power.md) in an elected society is to [bend the image](people-image-distortion.md) to [influence](influence.md) [opinions](understanding.md) toward their [purposes](purpose.md), rather than [military/tactical strength](people-conflicts-war-why.md), and it becomes nothing more than a popularity contest.
 
@@ -208,7 +208,7 @@ To avoid [corrupting perspective](people-image-distortion.md), most large-scale 
 
 Rules are broadly abstracted away from the [rule-maker](mind-creativity.md) as a separate existence, so they can persist *long* [after the creator dies](legacy.md).
 
-Future rule managers are always forced to make decisions on how to [interpret](understanding.md) their predecessor's rules as [technology](technology.md) and [trends](trends.md) change, and they often don't have the [aptitude](habits.md) the rule-maker had when making the rule.
+Future rule managers are always forced to make decisions on how to [interpret](understanding.md) their predecessor's rules as [technology](technology.md) and [trends](people-trends.md) change, and they often don't have the [aptitude](habits.md) the rule-maker had when making the rule.
 
 APPLICATION: To manage rules, most top-ranking authorities give [power](power.md) to sub-leaders:
 

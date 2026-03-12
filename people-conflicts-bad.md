@@ -145,7 +145,7 @@ Denial: refusing to acknowledge a painful reality.
 
 Splitting: viewing people or events as all-good or all-bad.
 
-- Makes [decision-making](people-decisions.md) easier if things are black-and-white.
+- Makes [decision-making](mind-decisions.md) easier if things are black-and-white.
 - This is common in [both BPD and autism](mind-neurodivergence.md).
 - e.g., patient calls nurses "angels" but doctors "monsters" on the same day.
 - e.g., romantic partner weekly switches between idolization and hatred.
@@ -154,7 +154,7 @@ Splitting: viewing people or events as all-good or all-bad.
 
 These are advanced, conscious actions designed to preserve relationships and self-esteem.
 
-- It can be fueled by the [habits](habits.md) from unconscious defense mechanisms, but is always a [decision](people-decisions.md) for the person to do it.
+- It can be fueled by the [habits](habits.md) from unconscious defense mechanisms, but is always a [decision](mind-decisions.md) for the person to do it.
 - Since these strategies are conscious, they can be flexible for the circumstances.
 
 ### Indirectly assists with the issue
@@ -259,6 +259,6 @@ If you're in a new community that thrives on frequent conflict, find the highest
 
 Watch for people who try to overpower the conversation:
 
-- Some people try to subdue others through the force of their [personality](personality.md).
+- Some people try to subdue others through the force of their [personality](people-personality.md).
 - Their most defining characteristic is that they constantly keep interrupting you to say something that isn't clearly responding to what you stated.
 - They're not listening to you, but are simply trying to win an argument.

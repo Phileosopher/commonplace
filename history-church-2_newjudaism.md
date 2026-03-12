@@ -25,7 +25,7 @@ Interestingly, their privacy actually created confusion for the Romans:
 
 It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
 
-The logical outflow of the "new priesthood" thought was that [Jesus returning](jesus-returns.md), and [His eventual reign](https://theologos.site/millennium/), was a coming reality more than merely something to hope for. Death wasn't as much "permanent departure" as much as "will return soon", and they didn't believe in a Rapture.
+The logical outflow of the "new priesthood" thought was that [Jesus returning](theology-end.md), and [His eventual reign](https://theologos.site/millennium/), was a coming reality more than merely something to hope for. Death wasn't as much "permanent departure" as much as "will return soon", and they didn't believe in a Rapture.
 
 Once the new believers started noticing that Jesus was *not* coming back right away, some disciples recorded what they had experienced, mostly in their native language of Greek, but some in Aramaic. These passed around through the persecuted Church, and eventually became the Gospels of Matthew, Mark, Luke, and John. This included plenty of other letters, with some of them becoming canonized later as well.
 

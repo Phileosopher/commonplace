@@ -8,97 +8,92 @@ To start with, you could easily make a self-sufficient, fully-functioning [perso
 
 ## Hobby ideas
 
-Practice [PenTesting](computers-cysec-pentest.md).
+Direct use:
 
-Record and stream [video](engineering-screen.md).
+- Practice [PenTesting](computers-cysec-pentest.md)
+- Record and stream [video](engineering-screen.md)
+- Play [electronic games](fun-games-cs.md)
 
-Use and manage your entire media library in a media server.
+Passive consuming:
 
-Create a smart TV.
+- Use and manage your entire media library in a media server
+- Smart TV
+- FM radio
+- [FM transmitter](https://github.com/markondej/fm_transmitter)
 
-Play [electronic games](computers-software-gamedev.md).
+Things you can make:
 
-Build a [robot](computers-robotics.md).
-
-Make an FM radio, [FM transmitter](https://github.com/markondej/fm_transmitter) or streaming internet radio station.
-
-Make a time-lapse camera.
-
-Create a music box.
-
-Make a wireless boombox.
-
-Build an oscilloscope.
-
-Make an automatic plant waterer.
-
-Maintain the irrigation system of a [farm](horticulture.md).
-
-- [GardenPi](https://projects-raspberry.com/gardenpi-powered-by-neptune/)
-
-Create a soundboard.
-
-Build an [e-ink home weather display](https://github.com/kimmobrunfeldt/eink-weather-display).
+- A [robot](computers-robotics.md)
+- Time-lapse camera
+- Music box
+- Wireless boombox
+- Oscilloscope
+- Streaming internet radio station
+- Automatic plant waterer
+- [Farm](plants.md) irrigation system
+  - [GardenPi](https://projects-raspberry.com/gardenpi-powered-by-neptune/)
+- Soundboard
+- [E-ink home weather display](https://github.com/kimmobrunfeldt/eink-weather-display).
 
 ## Convenient improvements
 
-Make a motion detector or laser tripwire.
+Simple display indicator (e.g., meetings, opened, cleaned, etc.)
 
-Block ads across your home network ([called a Pi-hole](https://pi-hole.net/)).
+Motion detector or laser tripwire
 
-Create a Wi-Fi bridge (e.g., make an old printer wireless).
+Block ads across your home network ([called a Pi-hole](https://pi-hole.net/))
 
-Create a Wi-Fi extender.
+Wi-Fi bridge (e.g., make an old printer wireless)
 
-Control your smart lights.
+Wi-Fi extender
 
-Create a video doorbell.
+Video doorbell
 
-Manage your smart home (e.g., locks, climate control).
+[Smart home](home-smart.md) manager (e.g., locks, climate control, lights)
 
-Make a weather station with collected weather data (eg., temperature, humidity).
+- [Weather station](science-earth-weather.md) with collected weather data (eg., temperature, humidity)
 
-Monitor air quality.
+Air quality or atmospheric monitor
 
-Create an altimeter.
+Altimeter
 
-Create a simple display indicator (e.g., meetings, opened, cleaned, etc.).
-
-Create a voice-activated or gesture-controlled digital assistant.
+Voice-activated or gesture-controlled digital assistant
 
 ## Personal [risk management](safety-riskmgmt.md)
 
-Create a motion-activated security video feed.
+Motion-activated security video feed
 
-Make a backup camera for your auto.
+Automotive backup camera
 
-[Cloud](computers-distsys-cloud.md) synchronize your files.
+[Cloud](computers-distsys-cloud.md) synchronized files
 
-Create a [VPN](computers-cysec.md) server or build a local Tor router.
+[VPN](computers-cysec.md) server
 
-Make a [firewall](computers-cysec.md).
+Local Tor router
 
-Host your private [password manager](encryption.md).
+[Firewall](computers-cysec.md)
 
-Host a [DNS server](computers-browser.md).
+Private [password manager](encryption.md) hosting
 
-Make a [facial-recognition or voice-recognition](computers-cysec-authentication.md) lockbox.
+[DNS server](computers-browser.md) hosting
+
+[Facial-recognition or voice-recognition](computers-cysec-authentication.md) lockbox
 
 ## [Enterprise](computers-distsys-enterprise.md)-grade projects
 
-Host a [database](database.md).
+[Database](database.md) hosting
 
-Host [virtual machines](computers-distsys-vm.md).
+[Virtual machine](computers-distsys-vm.md) hosting
 
-Train a [machine learning algorithm](computers-ai-ml.md) to detect pretty much anything in particular.
+[Machine learning algorithm](computers-ai-ml.md) trained to detect pretty much anything particular
 
-Host a complete [web server](computers-sofware-webdev.md).
+Complete [web server](computers-sofware-webdev.md) hosting
 
-Keep a private phone server.
+Private phone server hosting
 
-Host your own email.
+Personal email hosting
 
-Track things with RFID tags.
+Tracking with RFID tags
 
 ## Enterprise-grade support projects
 
@@ -106,4 +101,4 @@ Track things with RFID tags.
 
 Computer resource monitoring
 
-Keep a redundant [NAS](computers-distsys-cloud.md)
+Redundant [NAS](computers-distsys-cloud.md)

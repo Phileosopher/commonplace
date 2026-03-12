@@ -8,17 +8,24 @@ Instead, we make an accurate enough [copy of reality](values.md) by filling in i
 - Our senses, such as sight and sounds
 - Memories of our senses we've stored in our brains
 - Things we [understand](understanding.md) other people have sensed, and aggregates of those things (e.g., [statistics](math-stat.md))
-- What we [trust](understanding-certainty.md) and [believe](understanding-certainty.md) from others, extending across [groups](groups-member.md) we [identify](identity.md) with and [ideas](values.md) we hold
+- What we [trust](understanding-certainty.md) and [believe](understanding-certainty.md) from others, extending across [groups](groups-member.md) we [identify](people-identity.md) with and [ideas](values.md) we hold
 
-For the most part, this copy is *stunningly* accurate. It allows us to relive the experience as many times as we want, and we can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](imagination.md) operating a boat).
+For the most part, this copy is *stunningly* accurate.
 
-While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](imagination.md) diverges from it.
+- It allows us to relive the experience as many times as we want.
+- We can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](people-imagination.md) operating a boat).
+
+While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](people-imagination.md) diverges from it.
+
+- "C + P = E" is a reductionist view of the idea: Circumstances + Perception = Experience.
+
+APPLICATION: No two perceptions are alike, so no two people hae a shared experience, and therefore they will have differing [reasoning](logic.md), even when they come to the same conclusion.
 
 Everything we perceive will have relative and absolute components to it. Often, our [conflicts](people-conflicts-why.md) are over relative things we *think* are absolute, often from our [culture](people-culture.md) and [upbringing](people-family.md).
 
 One complicated part of our perception comes in how things come together. In [reality](reality.md), the larger thing is *precisely* the same as the individual components combined, but our [values](values.md) make the whole *greater* than the sum of its parts based on its association to other values.
 
-[Intelligence](personality.md) is the ability to draw connections across perceived details. The more intelligence, the more details, and we usually tend to specialize our focus into our [preferences](personality.md):
+[Intelligence](people-personality.md) is the ability to draw connections across perceived details. The more intelligence, the more details, and we usually tend to specialize our focus into our [preferences](people-personality.md):
 
 - Sensation - the [feeling](mind-feelings.md) something evokes.
 - Composition - the components, parts, and elements a thing is made of.
@@ -49,7 +56,7 @@ We create [a bias](mind-bias.md) from our preconceived images. More images (i.e.
 
 It's humanly impossible to *not* have a bias without thinking strictly [like a computer](logic-cs.md). Mostly, this comes from how all our experiences pipe through [feelings](mind-feelings.md) before they even reach our ability to [perceive](understanding.md) them. With [humility](morality.md), we will readily add more images and offset the bias with other bias, but it never goes away, and we will always produce values that define [meaning](meaning.md) and [purpose](purpose.md).
 
-APPLICATION: Bias isn't necessarily bad. [Common sense](understanding.md) is a set of good prejudices, for example. [Professional specializations](jobs-specialization.md) allow people to judge [quality](values-quality.md) immediately without further investigation. Most [life experience](maturity.md) is literally *defining* prejudices to quickly and accurately [predict](imagination.md) [reality](reality.md).
+APPLICATION: Bias isn't necessarily bad. [Common sense](understanding.md) is a set of good prejudices, for example. [Professional specializations](jobs-specialization.md) allow people to judge [quality](values-quality.md) immediately without further investigation. Most [life experience](maturity.md) is literally *defining* prejudices to quickly and accurately [predict](people-imagination.md) [reality](reality.md).
 
 Generally, you can detect bias by how much people respond with [feelings](mind-feelings.md), especially with shock and [anger](mind-feelings-anger.md). While their reaction won't indicate whether they're [right](morality-justice.md) or not, it'll show how clearly they're thinking. Since [reality](reality.md) often has gradations, their feelings may allude to how much they [understand](understanding.md), but it isn't a clear indicator.
 
@@ -59,10 +66,10 @@ We have a highly self-centered view of the universe, where we impose our [purpos
 
 The only time we don't use ourselves as the center is when we [develop another center instead](addiction-centers.md), and our bias is made of a few "angles" that map our meaning to various elements:
 
-- [Cultural](people-culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
-- [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](imagination.md) others' opinions.
-- [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](people-decisions.md) that create subjective sets of meaning, especially the things we [identify](identity.md) with.
-- [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
+- [Cultural](people-culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](people-identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
+- [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](people-imagination.md) others' opinions.
+- [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](mind-decisions.md) that create subjective sets of meaning, especially the things we [identify](people-identity.md) with.
+- [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](people-trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
 
 We tend to add others' views to ours, proportional to our belief that we don't [understand](understanding.md) something ourselves. It requires a Herculean feat of [humility](morality.md) to accept we don't understand things enough that we give *all* other perspectives at least some value.
 
@@ -78,11 +85,11 @@ This bias opens up a guaranteed [risk](safety.md) that [deception and control](p
 
 APPLICATION: The cure for [image distortion](people-image-distortion.md) is curiosity.
 
-APPLICATION: To live [sincerely](goodlife.md), our inner lives must reflect our outer lives, including our [conflicts](people-conflicts-inner.md).
+APPLICATION: To live [sincerely](people-goodlife.md), our inner lives must reflect our outer lives, including our [conflicts](people-conflicts-inner.md).
 
 ## Culture's image
 
-The basis of all [culture](people-culture.md), [social conflict](people-conflicts-why.md), and grander [social trends](trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
+The basis of all [culture](people-culture.md), [social conflict](people-conflicts-why.md), and grander [social trends](people-trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.
 
 A person's reputation is the composite of everyone else's [image](people-image-why.md) of that person. It's extremely fickle and chaotic because it's what other people [feel](mind-feelings.md) about someone, which changes constantly.
 
@@ -94,7 +101,7 @@ All reputation is nothing but [sentiments](mind-feelings.md) about past events. 
 
 Because reputation is built around feelings, it's rarely [rational](logic.md). At its farthest extreme, a celebrity will make one social media remark that generates 1,500 comments, with each person feeling their single comment will [make a difference](power-influence.md).
 
-Reputations prove beforehand to others about what they should [expect](imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](money-insurance.md)).
+Reputations prove beforehand to others about what they should [expect](people-imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](money-insurance.md)).
 
 The limit of [power](power.md) from a reputation is what that entire [group](groups-large.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
 
@@ -108,18 +115,18 @@ Because of how much [power](power.md) a reputation can give, people will [work h
 
 APPLICATION: There's a lot of power in "the enemy of my enemy is my friend". Nobody can be fully [trusted](trust.md), but everyone can be [useful](purpose.md).
 
-When people are [skillful enough with others](people-friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](imagination.md) will betray their ulterior [motive](purpose.md).
+When people are [skillful enough with others](people-friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](people-imagination.md) will betray their ulterior [motive](purpose.md).
 
 ### Wielding the power of reputation
 
 Reputation affects much of what we do because we care about it so much:
 
-- Many times, we will shun unpopular [trends](trends.md) until they're popular.
-- We can subconsciously [identify](identity.md) with things based on what other people think of them.
-- Our [choice](people-decisions.md) of [friends](people-friends-why.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
+- Many times, we will shun unpopular [trends](people-trends.md) until they're popular.
+- We can subconsciously [identify](people-identity.md) with things based on what other people think of them.
+- Our [choice](mind-decisions.md) of [friends](people-friends-why.md) and [groups](groups-member.md) is frequently defined by what *other* people think of them.
 - We pursue job titles, club roles, memberships in [groups](groups-member.md), good grades in [school](education.md), and achievements/badges in games and social media strictly for the sake of reputation.
 
-While reputation beyond a certain point isn't necessary to [coexist](people-boundaries-why.md) well in society or attain [the good life](goodlife.md), we do need at least some of it to gain our [purposes](purpose.md).
+While reputation beyond a certain point isn't necessary to [coexist](people-boundaries-why.md) well in society or attain [the good life](people-goodlife.md), we do need at least some of it to gain our [purposes](purpose.md).
 
 APPLICATION: *Everyone* is horrifically flawed. However, they typically look better than reality. This is *very* [intentional](purpose.md) and often done long-term through a wide variety of people who [pass on](stories-storytellers.md) that person's reputation.
 
@@ -127,12 +134,12 @@ APPLICATION: *Everyone* is horrifically flawed. However, they typically look bet
 
 APPLICATION: Seeking honor is perfectly fine until it compromises [virtue](morality.md), *especially* when redirecting shame. It's why people [respect power structures](groups-member.md) and [honor leaders](groups-small.md).
 
-APPLICATION: Beyond avoiding being seen as a [pariah](morality-taboo.md), building a reputation is a waste of time, and we'd do better to just do what we [prefer](people-decisions.md).
+APPLICATION: Beyond avoiding being seen as a [pariah](morality-taboo.md), building a reputation is a waste of time, and we'd do better to just do what we [prefer](mind-decisions.md).
 
 People who make a living in maintaining image (e.g., [marketers](marketing.md), politicians, PR representatives) have to work so hard at their role that they tend not to [create](creations.md) anything else [tangible](results.md). However, an expert [influencer](power-influence.md) can change the [sentiments](mind-feelings.md) of an entire [crowd](groups-member.md), some of whom are *very* influential in creating new [solutions](results.md).
 
 APPLICATION: Being famous is torture, since you will be naked to criticism that you can't respond to. However, most people only see the [power](power-types.md) it brings without its costs.
 
-APPLICATION: Unless a person's popularity is based on their [direct aptitude](jobs-specialization.md) with what they address, anyone popular (i.e., celebrities) are the worst possible guides on [how to live](goodlife.md).
+APPLICATION: Unless a person's popularity is based on their [direct aptitude](jobs-specialization.md) with what they address, anyone popular (i.e., celebrities) are the worst possible guides on [how to live](people-goodlife.md).
 
 On the other end of the spectrum, people who concern themselves with reality (e.g., [engineers](engineering.md), [accountants](money-accounting.md), [trade workers](jobs-specialization.md)) are so preoccupied with reality that they forget how difficult, geeky, nerdy, or obtuse they look. Many of them could stand to learn [basic people skills](people-boundaries.md), and often sabotage their long-term [influence](power-influence.md) through the limits of their medium.

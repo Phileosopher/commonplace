@@ -33,7 +33,7 @@ If any open-source forks improve on the original design, executives will be requ
 
 The naming conventions of spun-off lines will not have arbitary labeling, and will be vastly different in titling (e.g., no ParaPlus and ParaPlus DX). Future iterations of a product will have logically-flowing titles that correspond to alphabetic or numeric sequence (e.g., Yend 5 advances to Yend 6, Drib Model B goes to Drib Model B2).
 
-If there is a spinoff idea, that naming convention will stand on its own. If the spinoff becomes more [popular](trends.md), always maintain the connection to the original idea in the name.
+If there is a spinoff idea, that naming convention will stand on its own. If the spinoff becomes more [popular](people-trends.md), always maintain the connection to the original idea in the name.
 
 ## Identification
 

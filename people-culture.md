@@ -1,7 +1,7 @@
 
 # What culture is
 
-Culture is a vague word, but can best define the broad things that [identify](identity.md) a [group](groups-large.md). These can include [arts](art.md), [beliefs](understanding-certainty.md), customs (group [habits](habits.md)), [subgroups](groups-small.md), and [thoughts](understanding.md).
+Culture is a vague word, but can best define the broad things that [identify](people-identity.md) a [group](groups-large.md). These can include [arts](art.md), [beliefs](understanding-certainty.md), customs (group [habits](habits.md)), [subgroups](groups-small.md), and [thoughts](understanding.md).
 
 Despite our differences, people want approximately the [same abstracted things](humanity-universals.md) to find [meaning](meaning.md):
 
@@ -14,7 +14,7 @@ Despite our differences, people want approximately the [same abstracted things](
 
 While these things are the some, some methods won out the majority of a group's approval to achieve the [purposes](purpose.md) they were striving for, so it became the [standard](standards.md).
 
-APPLICATION: *Everything* we do [habitually](habits.md) with others is a cultural thing. The original [purpose](purpose.md) for many things was certainly [sensible](logic.md) when it started, but it often shifts away from [usefulness](results.md) with new [social trends](trends.md) and [technological development](technology.md).
+APPLICATION: *Everything* we do [habitually](habits.md) with others is a cultural thing. The original [purpose](purpose.md) for many things was certainly [sensible](logic.md) when it started, but it often shifts away from [usefulness](results.md) with new [social trends](people-trends.md) and [technological development](technology.md).
 
 These groups span [all sorts of ranges](groups-small.md).
 
@@ -26,7 +26,7 @@ Social status in a culture is always a [biased](mind-bias.md) judgment, but it's
 
 Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](people-image-why.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](people-rules.md) than standing by any particular [principle or value system](values.md).
 
-A culture has value because it maintains a people group's [inherent trust](trust.md) of one another, which in turn affects their [overall happiness](goodlife.md).
+A culture has value because it maintains a people group's [inherent trust](trust.md) of one another, which in turn affects their [overall happiness](people-goodlife.md).
 
 ## Divisions
 
@@ -41,13 +41,13 @@ Many cultural standards are established from the [natural environment](reality.m
 
 Many cultures also draw from their surrounding cultures. An isolated tribe will only pull from nature, but a culture spread across many other cultural groups will adopt a plethora of small details from each.
 
-Cultures also tend to separate by generation. Younger people don't have as many [habits](habits.md) established, so they're more inclined to adapt to environmental changes, [social trends](trends.md), and [technology](technology.md).
+Cultures also tend to separate by generation. Younger people don't have as many [habits](habits.md) established, so they're more inclined to adapt to environmental changes, [social trends](people-trends.md), and [technology](technology.md).
 
-APPLICATION: More differences between one generation and the next create a broader cultural divide across generations. The generation raised in the USA's 1950s is *vastly* different from the USA's 2000s, mostly due to [technology](technology.md) and certain [social trends](trends.md) (e.g., Cold War).
+APPLICATION: More differences between one generation and the next create a broader cultural divide across generations. The generation raised in the USA's 1950s is *vastly* different from the USA's 2000s, mostly due to [technology](technology.md) and certain [social trends](people-trends.md) (e.g., Cold War).
 
-Cultures aren't that different on an individual basis, and their differences are more based on [personality](personality.md). But, as people groups get larger, the differences create *massive* contrasts.
+Cultures aren't that different on an individual basis, and their differences are more based on [personality](people-personality.md). But, as people groups get larger, the differences create *massive* contrasts.
 
-APPLICATION: Depending on your [personality](personality.md), it may make a great deal of sense to move to another culture that fits you in another [career industry](jobs-specialization.md) or geographical region.
+APPLICATION: Depending on your [personality](people-personality.md), it may make a great deal of sense to move to another culture that fits you in another [career industry](jobs-specialization.md) or geographical region.
 
 APPLICATION: Cultures are critical to give us the framing for [meaning](meaning.md) among our social groups. Even when they're [defective](mgmt-badsystems.md), the [familiarity](habits.md) gives us [certainty](understanding-certainty.md) against the [chaos of the unknown](unknown.md).
 
@@ -57,9 +57,9 @@ These divisions can be easily parsed into multiple [dimensions](people-culture-d
 
 ## Inheritance
 
-Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](people-decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
+Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](mind-decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
 
-After we've been in any group long enough, our [identity](identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
+After we've been in any group long enough, our [identity](people-identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 
 We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](understanding.md), and [stories](stories-why.md) we [believe](understanding-certainty.md) are shifting around.
 
@@ -72,7 +72,7 @@ Our choice and flow of [language](language.md) show our cultural background:
 
 *Everyone* in a group is mostly conforming to what they see as the group's standards. With the possible exception of the [highest leadership](groups-small.md) in a group that's been around for only a few years, each person is trying to honor the values that the group's standards have employed.
 
-This doesn't mean we don't possess unique opinions and ideas apart from the group. But, we tend to scale them back to prevent [conflicts with others](people-conflicts-why.md) in that group. Generally, the desires are expressed via over-[identification](identity.md) with specific [trends](trends.md) that reflect what we want that go against the group standards.
+This doesn't mean we don't possess unique opinions and ideas apart from the group. But, we tend to scale them back to prevent [conflicts with others](people-conflicts-why.md) in that group. Generally, the desires are expressed via over-[identification](people-identity.md) with specific [trends](people-trends.md) that reflect what we want that go against the group standards.
 
 Most cultures adopt mindless traditions over time:
 
@@ -95,7 +95,7 @@ Sometimes, new leadership will destroy those mindless traditions, but it's impos
 
 Naturally, the newest generation in a group will have to make their own decisions about what to honor and whether they'll stay in the group, irrespective of what they were [raised with](people-family.md).
 
-APPLICATION: The timing of our experiences defines how well we receive a cultural [trend](trends.md):
+APPLICATION: The timing of our experiences defines how well we receive a cultural [trend](people-trends.md):
 
 - Anything in the world when you're born is simply a natural part of how the world works.
 - Anything introduced between age 15 and 35 is new and exciting.
@@ -103,9 +103,9 @@ APPLICATION: The timing of our experiences defines how well we receive a cultura
 
 ## Outsiders
 
-If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](results.md) they [expect](imagination.md), they'll experience "culture shock".
+If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](results.md) they [expect](people-imagination.md), they'll experience "culture shock".
 
-Some well-established people in a formerly [powerful](power.md) culture will sometimes insist emphatically they stay with their old culture even when the rest of the people have moved on to new [fashions](trends.md). Those people end up staying permanent [outsiders](morality-taboo.md) and [laggards](trends.md) in their new culture, though there's a possibility they'll create a [counter-trend](trends.md) later.
+Some well-established people in a formerly [powerful](power.md) culture will sometimes insist emphatically they stay with their old culture even when the rest of the people have moved on to new [fashions](people-trends.md). Those people end up staying permanent [outsiders](morality-taboo.md) and [laggards](people-trends.md) in their new culture, though there's a possibility they'll create a [counter-trend](people-trends.md) later.
 
 Most people, especially [younger people](maturity.md), will naturally adapt to other cultures they come across. As they pick-and-choose the elements they like the most, they'll become less like their old culture and will eventually become a "third culture" that synthesizes their two backgrounds. We can't really help this, since we're always at least somewhat [influenced](influence.md) by the world around us.
 
@@ -119,7 +119,7 @@ APPLICATION: If you want to be normal, find a culture that matches you. If you [
 
 Anytime someone encounters someone else from a different culture (and sometimes even from a different [family](people-family.md)), their way of life will be partially deconstructed within the scope of a casual [conversation](people-conversation.md). After that interaction, they'll either have a stronger grasp of alternative perspectives from their own or will be more [set in their ways](habits.md) than before. Generally, the older and more experienced someone is, the more likely the other person won't add [new ideas](values.md) to their views.
 
-If the younger members of a culture are significantly different enough from the older members (often from them heavily [adopting trends](trends.md), and often through major [technological leaps](technology.md) across generations), there will be dramatic changes within a culture that will permanently shift a culture.
+If the younger members of a culture are significantly different enough from the older members (often from them heavily [adopting trends](people-trends.md), and often through major [technological leaps](technology.md) across generations), there will be dramatic changes within a culture that will permanently shift a culture.
 
 The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* cultural revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war-why.md).
 

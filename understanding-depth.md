@@ -5,7 +5,7 @@ We experience degrees of understanding as we become familiar with something. It'
 
 There are three broad classes of things we can understand:
 
-1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-health.md), and [journalists](stories-journalism.md).
+1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-health.md), and [journalists](language-journalism.md).
 2. Second, we can understand things. Those things are always [perceptible](people-image-why.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
    - Physical context - [location-based](logistics-navigation.md) attributes
    - [Cultural](people-culture.md) context - human beliefs and perceptions
@@ -14,7 +14,7 @@ There are three broad classes of things we can understand:
 3. Finally, we can understand ideas. Ideas are constructed [values](values.md) in the mind and can be as concrete or abstract as we need:
    - General understanding routes through our [feelings](mind-feelings.md), and isn't very specific but is moderately useful in *many* domains (e.g., [philosophy](philosophy.md)).
    - Technical understanding requires conscious thought, and isn't that applicable to anything else, though it's far more [useful](purpose.md) than general understanding (e.g., technical specs). Thankfully, it can cross domains if we [convert it](philosophy.md) to general understanding.
-   - Outside certain unique [personalities](personality.md), we gain technical understanding through firsthand experience, *then* build out our general understanding via [intuition](mind-feelings.md) or [desire](purpose.md).
+   - Outside certain unique [personalities](people-personality.md), we gain technical understanding through firsthand experience, *then* build out our general understanding via [intuition](mind-feelings.md) or [desire](purpose.md).
 
 Further, we tend to climb a type of ladder of understanding that builds on itself cumulatively.
 
@@ -42,13 +42,13 @@ APPLICATION: There are far too many [unknown](unknown.md) things with elements w
 
 E. Rebuilding
 
-- We have so much intimate connection with that thing that we [imagine and predict](imagination.md) it relatively well, and can [create](creations.md) new ideas by combining multiple sources together.
+- We have so much intimate connection with that thing that we [imagine and predict](people-imagination.md) it relatively well, and can [create](creations.md) new ideas by combining multiple sources together.
 - Skills are consciously competent: we know how to do it if we focus.
 
 F. Integration
 
 - We have complete understanding of something, with all its [facts](reality.md) and [implications](people-image-why.md).
-- Skills are unconscious competence: our muscle memory does it well [without our conscious thought](habits.md), and we often even [identify](identity.md) with it.
+- Skills are unconscious competence: our muscle memory does it well [without our conscious thought](habits.md), and we often even [identify](people-identity.md) with it.
 - Once we've integrated understanding, we judge other ideas and methods from this basis of understanding.
 - If we can stay in this domain, we continue mastery on the subject.
 
@@ -59,7 +59,7 @@ G. Simplification
 - After enough time using it, we've thrown out most of the useless information and converted only the critical information into [habits](habits.md).
 - Literally *all* the understanding is a reflexive skill, connected both as a mental and muscular experience.
 - Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](education.md) it, and it becomes *much* easier for our skills to fade.
-- At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](identity.md) with our performance with it.
+- At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](people-identity.md) with our performance with it.
 
 APPLICATION: To fully understand something, we should be able to use [language](awareness.md) that defines something, then be able to define its opposite.
 

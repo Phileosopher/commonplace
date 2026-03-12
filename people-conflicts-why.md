@@ -17,9 +17,9 @@ We *always* start conflicts from a [perceived](people-image-why.md) need:
 
 This perceived need someone has to confront a situation has several degrees of intensity:
 
-1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](people-decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
+1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](mind-decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
 2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](people-image-why.md) about their opinion. Every healthy person has a handful of these.
-3. Die For: We have chosen to closely [identify](identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
+3. Die For: We have chosen to closely [identify](people-identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
 
 Conflicts aren't always fighting with others, but can be:
 
@@ -35,14 +35,14 @@ Our perception doesn't have to be [real](reality.md), either, and there are seve
 
 1. [Cognitive bias](mind-bias.md) that diverts people away from the truth.
 2. [Influence](influence.md) from peers and leaders that [distorts](people-image-distortion.md) what appears to be true.
-3. [Personality differences](personality.md) that change how people are inclined to think.
+3. [Personality differences](people-personality.md) that change how people are inclined to think.
 4. Old mental [habits](habits.md) that haven't completely gone away, even though they were already considered no longer applicable.
 
 Usually, healthy people start conflicts after witnessing at least three instances of the issue.
 
 - The first and second ones may be improbable, but the third time typically confirms we're seeing a [pattern](symbols.md) that isn't creating the [results](results.md) we want.
 
-Our [decision](people-decisions.md) to make a conflict is significant because every conflict risks sabotaging [relationships](people-friends-why.md) with other people, which we will usually value when we have any [love](people-love.md) for them.
+Our [decision](mind-decisions.md) to make a conflict is significant because every conflict risks sabotaging [relationships](people-friends-why.md) with other people, which we will usually value when we have any [love](people-love.md) for them.
 
 ## Complicating factors
 
@@ -52,9 +52,9 @@ Gratitude and revenge tend to complicate conflicts:
 - For this reason, we impose past experiences that may not apply to present situations.
 - The only way to stay level-headed in a conflict is to ignore both for yourself while understanding how others interpret it.
 
-Since most people are [higher agreeableness](personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](people-culture.md) and [norms](people-boundaries.md).
+Since most people are [higher agreeableness](people-personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](people-culture.md) and [norms](people-boundaries.md).
 
-But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
+But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](people-imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](people-imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
 
 Usually, we avoid the conflicts around us from several base reasons:
 
@@ -74,13 +74,13 @@ Healthy conflicts require both sides willing to change and compromise:
 - *Always* assume that person believes they're being perfectly [reasonable](purpose.md) and [logical](logic.md), irrespective of reality.
 - However, also assume you don't know most of what that person knows.
 
-Conflicts only become unhealthy when we don't properly [calculate](people-decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
+Conflicts only become unhealthy when we don't properly [calculate](mind-decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
 
 APPLICATION: Conflicts are healthy when managed correctly by everyone. Through them, we can [understand](understanding.md) others' [points of view](people-image-why.md), become more patient and [loving](people-love.md), and develop future [skills for good boundary-setting](people-conflicts.md).
 
 ## Reactions to issues
 
-No matter how, our [disposition](personality.md) makes its own mix-and-match reaction to the conflict:
+No matter how, our [disposition](people-personality.md) makes its own mix-and-match reaction to the conflict:
 
 - Opposition - animal fight reaction, often involving aggression or hostility against the disagreement.
 - Conformity/compliance - animal flight reaction, focusing on agreeing over [understanding](understanding.md) the disagreement.

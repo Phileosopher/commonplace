@@ -1,46 +1,52 @@
 
 # What fear is
 
+Fear is whenever the [image](people-image.md) of a situation makes us believe that we are not [safe](safety.md).
+
 More than anything else, fear is the strongest [motivator](purpose.md), though we're often [unaware](awareness.md) of its presence in our minds. Beyond fear, the only close contender for overwhelming motivational drive is [love](people-love.md).
 
-- However, while love is a [choice](people-decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](understanding.md).
+- However, while love is a [choice](mind-decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](understanding.md).
 
-When we [imagine](imagination.md) loss in the past, we tend to experience [sadness](mind-feelings-sadness.md), but fear arises when we imagine loss in the future. Fear is a type of "cost" we expect to sacrifice for a [decision](people-decisions.md).
+When we [imagine](people-imagination.md) loss in the past, we tend to experience [sadness](mind-feelings-sadness.md), but fear arises when we imagine loss in the future. Fear is a type of "cost" we expect to sacrifice for a [decision](mind-decisions.md).
 
 If we're consistently anxious, we usually have an unknown "dread" we can't put into [language](language.md), but we're afraid of [the unknown](unknown.md) enough that we don't want to confront it.
 
 Our fears always start [rationally](logic.md) when something we [trusted](trust.md) doesn't protect us, but subconscious [beliefs](understanding-certainty.md) that contradict [reality](reality.md) can easily overpower facts, which can make our fears *very* irrational.
 
-While most fears have a valid basis, we create fantastically ridiculous [expectations](imagination.md) when we haven't released [past trauma](hardship-ptsd.md), and fears attached to them tend to be *way* overplayed from [reality](reality.md).
+While most fears have a valid basis, we create fantastically ridiculous [expectations](people-imagination.md) when we haven't released [past trauma](hardship-ptsd.md), and fears attached to them tend to be *way* overplayed from [reality](reality.md).
 
 When we have a fear-based reaction, our [purposes](purpose.md) will clearly address a problem we observe. If we're still anxious after exhausting everything we could have done, we will quickly explore impossible solutions through [trust](trust.md) in ourselves that we can still control the situation (also known as "panic").
 
-We have many things to fear, and we tend to reposition it behind other [language](language.md) like "anxiety", "resistance", "nerves", "sensibility" or "walls". We often only stop reacting in fear because of a *greater* fear we're [fighting](people-conflicts-inner.md).
+We have many things to fear, and we tend to reposition it behind other [language](language.md) like "anxiety", "resistance", "nerves", "sensibility" or "walls". We often only stop reacting in fear because of a *greater* fear we're [fighting](people-conflicts-inner.md). In fact, almost anything associated with discomfort is at least somewhat linked to fear.
+
+APPLICATION: Since nearly everything uncomfortable associates with the perception of a possible loss, all aspects of social awkwardness are simply our [imagination](people-imagination.md) making the situation worse.
 
 We tend to be afraid about short-term issues or things we imagine (e.g., sharks, public speaking) and often overlook some things we *should* be afraid of:
 
-- We can't be [precisely certain](understanding-certainty.md) of anything, not even [who we are](identity.md) or [what really exists](reality.md).
-- We can't [predict the future](imagination.md) in any reasonable measure, nor have full clarity about what the past even was.
+- We can't be [precisely certain](understanding-certainty.md) of anything, not even [who we are](people-identity.md) or [what really exists](reality.md).
+- We can't [predict the future](people-imagination.md) in any reasonable measure, nor have full clarity about what the past even was.
 - We'll all [die](hardship-death.md), with little certainty of [what comes next](religion-answers.md).
 
-Being at peace is the opposite of living in fear, and is one critical ingredient for living [the good life](goodlife.md). This comes through [intentional, willful release](happiness-stress.md) of precisely what we can't control.
+Being at peace is the opposite of living in fear, and is one critical ingredient for living [the good life](people-goodlife.md). This comes through [intentional, willful release](happiness-stress.md) of precisely what we can't control.
 
-How we respond to fear dictates a *lot* of our [identity](identity.md) through how much we believe we can [do something about it](results.md).
+How we respond to fear dictates a *lot* of our [identity](people-identity.md) through how much we believe we can [do something about it](results.md).
 
 - In its place, it's actually [useful](purpose.md), when it's the counteracting force against what we want to do.
+
+APPLICATION: We must face our fears to become stronger. If we don't face them, the fears will control us even farther than they already can from their very existence.
 
 ## Fear of pain
 
 All fear is driven by perceived pain:
 
 - If it's pain from the past, it's [trauma](hardship-ptsd.md).
-- Pain of the [perceived future](imagination.md) is the fear of perceived risks, and we feel plenty of it because it makes [intuitive](mind-feelings.md) sense for us to feel that fear now instead of the pain about the matter later.
-- If it's in the present, it usually revolves around a [decision](people-decisions.md) that affects the future.
+- Pain of the [perceived future](people-imagination.md) is the fear of perceived risks, and we feel plenty of it because it makes [intuitive](mind-feelings.md) sense for us to feel that fear now instead of the pain about the matter later.
+- If it's in the present, it usually revolves around a [decision](mind-decisions.md) that affects the future.
 - It can be self-pain or pain upon others, depending on who we [love](people-love.md) more at the moment.
 
-We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](people-culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](imagination.md) pain from the experience.
+We can't do anything about pain. We can only circumvent its effects and maximize other things like [pleasure](mind-feelings-happiness.md) or [virtue](morality.md) within it. Most of our fears around diseases and bodily injuries (as well as [cultural](people-culture.md) [taboos](morality-taboo.md) about them) are from how we [imagine](people-imagination.md) pain from the experience.
 
-The pain itself broadly reaches to *everything* we are capable of [identifying](identity.md) with. It could be physical suffering to the body, emotional suffering, the feeling of loss, or any perception of the same in others'. Its only limit is that we feel it's something in [reality](reality.md).
+The pain itself broadly reaches to *everything* we are capable of [identifying](people-identity.md) with. It could be physical suffering to the body, emotional suffering, the feeling of loss, or any perception of the same in others'. Its only limit is that we feel it's something in [reality](reality.md).
 
 APPLICATION: The thought and image of something is most likely scarier than the thing itself.
 
@@ -48,7 +54,7 @@ Often, the reason people inflict pain is from [evil](morality-evil.md), but not 
 
 Pain and pleasure aren't entirely separate. The pain of pursuing a worthy [purpose](purpose.md), for example, will heighten pleasure after overcoming it.
 
-The present itself doesn't have too much pain. Even while being tortured, we can withstand each present moment relatively easily. The *true* pain comes from our memories and what we [imagine](imagination.md) could happen in the future, which is a secondary product of memory.
+The present itself doesn't have too much pain. Even while being tortured, we can withstand each present moment relatively easily. The *true* pain comes from our memories and what we [imagine](people-imagination.md) could happen in the future, which is a secondary product of memory.
 
 ## Fear of death
 
@@ -93,7 +99,7 @@ When we take that fear of death into a more broad application, we tend to create
 
 [Reality](reality.md) itself can be scary, and we'll frequently block or [distort](people-image-distortion.md) our perception of it.
 
-We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
+We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](people-personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
 
 APPLICATION: Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
 
@@ -113,7 +119,7 @@ The only way to resolve anxiety is through fearing *much* worse things (which is
 
 Most prolonged fear comes from [past trauma](hardship-ptsd.md), but it can also come from generalized fear of the [unknown](unknown.md).
 
-We don't do well with extended fear. With enough [imagination](imagination.md), all possible adverse events are likely, so we tend to become increasingly fearful of *everything* if we focus solely on those fears.
+We don't do well with extended fear. With enough [imagination](people-imagination.md), all possible adverse events are likely, so we tend to become increasingly fearful of *everything* if we focus solely on those fears.
 
 When left unattended, fear can create a [feedback loop](habits.md) that [dramatizes](stories-why.md) everything to the point of [obsession](addiction.md).
 
@@ -121,7 +127,7 @@ Among others, we'll also often try to hide our fears from a different fear of [w
 
 If we persist in fear, we can [extend](stories-why.md) our connection with death to other needs and wants that are *completely* unrelated to death.
 
-Most fears, when nurtured, become an obsession with [power](power.md) towards [staying safe](safety.md) against any perceived *and* [imagined](imagination.md) threats. At its farthest, a person becomes a victim of their reactions and loses their [humanity](humanity.md) as they create more victims from the [consequences](results.md) they feel justified in delivering.
+Most fears, when nurtured, become an obsession with [power](power.md) towards [staying safe](safety.md) against any perceived *and* [imagined](people-imagination.md) threats. At its farthest, a person becomes a victim of their reactions and loses their [humanity](humanity.md) as they create more victims from the [consequences](results.md) they feel justified in delivering.
 
 ## Fighting fear
 
@@ -160,7 +166,7 @@ A fearful group is toxic. People will repeat [stories](stories-why.md) that bear
 
 Fearful people [trust](trust.md) a [large group](groups-large.md) to address their problem, mostly because they trust that [power](power.md) over what they can't see.
 
-One courageous person is capable of sparking a [trend](trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war-why.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](understanding-certainty.md).
+One courageous person is capable of sparking a [trend](people-trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war-why.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](understanding-certainty.md).
 
 Leaders often become aware of the individuals' trust in them, and can use a steadily reliable [political](power-types.md) trick:
 

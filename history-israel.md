@@ -1,7 +1,7 @@
 
 # The non-Bible history of Israel
 
-Beyond its [spiritual value](bible.md), the Bible is a good source of archaeological and historical documentation.
+Beyond its [spiritual value](theology-bible.md), the Bible is a good source of archaeological and historical documentation.
 
 However, many Christians are conspicuously unaware of geopolitical history *not* overtly expressed in the Bible. Specifically, their history education is often hyper-specialized to the times before ~1000 BC and between 4 and 33 AD.
 
@@ -304,13 +304,15 @@ In 1964, The Palestine Liberation Organization (PLO) was founded, with the origi
 
 In 1967, Egypt mustered an army near Israel's border, expelled UN peacekeepers, and blocked Israel's access to the Red Sea.
 
-- Other Arab states mobilized their forces as well, and Israel saw it as a [casus belli](glossary-legal.md) to strike pre-emptively.
+- Other Arab states mobilized their forces as well, and Israel saw it as a [casus belli](glossary-legal-ac.md) to strike pre-emptively.
 - On June 6, 1967, Israel captured and occupied Jordan's West Bank, the Gaza Strip and Sinai Peninsula, and Syria's Golan Heights. It concluded on June 10, and was called the Six-Day War for that reason.
 
 The 1967 Arab League Summit issued the Khartoum Resolution on September 1st, which was renowned for its "Three Noes" in the 3rd paragraph:
 
 - "...no peace with Israel, no recognition of Israel, no negotiations with it, ..."
 - For 3 years, Israel fought Egypt, Jordan, the PLO, and their allies over the conflict, known as the War of Attrition.
+
+After Israel's conquest, Jordan and Egypt forbade the civilians in the West Bank and Gaza from traveling outside then-Israel's borders. This has created a population to this day of second-class Arabs who are *technically* Israeli, but only in a kindasorta way.
 
 The Six-Day War meant that the USSR broke diplomatic relations with Israel, and it led to increased antisemitic [propaganda](stories-storytellers.md).
 
@@ -375,7 +377,7 @@ Between 2010 and 2021, Hamas has launched periodic rocket attacks at Israel, as 
 
 In 2018, the US moved its embassy from Tel Aviv to Jerusalem.
 
-On the 50th anniversary of the Yom Kippur War, on October 7th of 2023, Hamas violently attacked and killed hundreds of Jews, provoking Israel to retaliate against Gaza. Within a few years, they utterly leveled the area and worked to drive absolutely everyone out of the area.
+On the 50th anniversary of the Yom Kippur War, on October 7th of 2023, Hamas violently attacked and killed 1,269 people, including 816 civilians. This provoked Israel to retaliate against Gaza. Within a few years, they drove absolutely everyone out and utterly demolished everything in the area.
 
 ## Conclusion
 
@@ -406,7 +408,7 @@ Christians are *not* responsible for involving themselves with the politics of I
 - The crazy events we're experiencing are technically none of our business ([Matthew 24:3-8](https://biblehub.com/matthew/24.htm)).
 - Contrary to [Western political dialogue](https://theologos.site/the-west/), we should simply expect [persecution](hardship-persecution-church.md), [evil](morality-evil.md), and [hardship](hardship.md), in all its forms ([Matthew 24:9-14](https://biblehub.com/matthew/24.htm)).
 - Irrespective of [dispensational theology](people-conflicts-christian-why.md), the Jews certainly *were* God's people, but that doesn't mean Christians have *any* superiority over them in God's sight ([Romans 11](https://biblehub.com/romans/11.htm)).
-  - Unlike [Christians' predictions of Jesus returning](jesus-returns.md), the Jewish majority is secular, and they've adopted a strange adaptation of the covenant with Noah ([Genesis 9:1-17](https://biblehub.com/genesis/9.htm)) called [Noahidism](https://en.wikipedia.org/wiki/Noahidism), which essentially takes on a much more [political approach](power-types.md) revolving around the Third Temple.
+  - Unlike [Christians' predictions of Jesus returning](theology-end.md), the Jewish majority is secular, and they've adopted a strange adaptation of the covenant with Noah ([Genesis 9:1-17](https://biblehub.com/genesis/9.htm)) called [Noahidism](https://en.wikipedia.org/wiki/Noahidism), which essentially takes on a much more [political approach](power-types.md) revolving around the Third Temple.
   - God is faithful enough that the Hebrew people will never be fully destroyed ([Revelation 7](https://biblehub.com/revelation/7.htm)), but that says *nothing* directly about the political entity we call Israel today.
 - Jesus [loves every single human being](https://theologos.site/gospel/), which includes all Jews *and* all Arabs, and Christians are responsible to love their neighbors and enemies in the same way.
 

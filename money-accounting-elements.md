@@ -233,7 +233,7 @@ Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, an
 
 Assets deals with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
 
-- Since [investors](money-investing.md) often make [decisions](people-decisions.md) from [optics](people-image-why.md) (or are taken in by [fashions](trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
+- Since [investors](money-investing.md) often make [decisions](mind-decisions.md) from [optics](people-image-why.md) (or are taken in by [fashions](people-trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
 - The only 2 ways to increase profits are to increase revenues or decrease expenses.
 
 There are a few forms a business can take. They are either taxed *before* the owner receives money, or it's pass-through to the owners:
@@ -320,7 +320,7 @@ While a dividend is considered income that goes to the shareholders, a share rep
 The nominal value of a share, when it's first issued, establishes its initial public offering (IPO).
 
 - That IPO value *will* move around (meaning its value isn't *that* utterly important), but it generally represents a dramatic shift in the way a company operates and indicates the first time the public can purchase it.
-- The listing requirements for IPOs are a [legal domain](glossary-legal.md) that falls *way* outside the range of accounting.
+- The listing requirements for IPOs are a [legal domain](glossary-legal-ac.md) that falls *way* outside the range of accounting.
 
 ### Stock markets
 

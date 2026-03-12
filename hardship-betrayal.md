@@ -26,7 +26,7 @@ Betrayal is one of the most difficult experiences to internalize:
 
 Since it's so intimate, the feeling of betrayal frequently spills over into how we see ourselves.
 
-- Only let your sense of [identity](identity.md) be affected by what you have legitimately [done wrongly](morality.md).
+- Only let your sense of [identity](people-identity.md) be affected by what you have legitimately [done wrongly](morality.md).
 
 Even though it's very difficult, learning to [trust](trust.md) again is the only way out of the misery.
 

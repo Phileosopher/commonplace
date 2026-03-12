@@ -81,7 +81,7 @@ Death is the most severe form of exile, with the person prematurely sent to [wha
 
 The method of killing can range from quick and painless (e.g., lethal injection) to as torturous as possible (e.g., drawn and quartered).
 
-While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](god.md).
+While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](theology-god.md).
 
 ## K. Punishing Connections
 

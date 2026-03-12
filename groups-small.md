@@ -3,11 +3,11 @@
 
 We all want to [connect](hardship-friends.md) with others, which requires us to [feel](mind-feelings.md) their presence. Because of this, people typically find comfort in a few personal connections more than many broad connections. We can maintain a family-like experience in groups until about 5-20 close connections.
 
-Once a group grows larger than about 20-50 people, it becomes a [large group](groups-large.md) that [identifies](identity.md) with a particular [name](language.md). But, within that group, it'll often splinter into small subgroups based on preference, leadership decisions, and [specialized purposes](jobs-specialization.md).
+Once a group grows larger than about 20-50 people, it becomes a [large group](groups-large.md) that [identifies](people-identity.md) with a particular [name](language.md). But, within that group, it'll often splinter into small subgroups based on preference, leadership decisions, and [specialized purposes](jobs-specialization.md).
 
 ## Value
 
-A group is a human value. Beyond our [interpretations](values.md), groups don't technically exist. We define "groups" to easily [demarcate](logic.md) between things to make reasonable [decisions](people-decisions.md), but they're the expressed [value](values.md) of one person with people who [agree](people-contracts.md) with that value.
+A group is a human value. Beyond our [interpretations](values.md), groups don't technically exist. We define "groups" to easily [demarcate](logic.md) between things to make reasonable [decisions](mind-decisions.md), but they're the expressed [value](values.md) of one person with people who [agree](people-contracts.md) with that value.
 
 Frequently, people [creating](creations.md) or [believing](understanding-certainty.md) something will band together over the same [purpose](purpose.md).
 
@@ -16,12 +16,12 @@ Since they have many [perspectives](people-image-why.md) and many [varieties of 
 Usually, everyone appoints someone as a leader by merit of a few possible routes, based on the [values](values.md) the group holds, then forms a hierarchy below that leader based on the merit they've selected:
 
 1. Whoever is [the oldest](maturity.md) in that group.
-2. The person who [appears](people-image-why.md) most capable to make [decisions](people-decisions.md).
+2. The person who [appears](people-image-why.md) most capable to make [decisions](mind-decisions.md).
 3. The member most [passionate](mind-feelings.md) about the subject.
 4. The member that most [desires](purpose.md) [power](power.md) over everyone else.
 5. Whoever has the most time to devote to the group or a task.
 
-While a group holds together by shared values, we can often forget that individual [priorities](purpose.md) change. Thus, while we can use groups to precisely distinguish things as they are or were, [predictions](imagination.md) are never very accurate.
+While a group holds together by shared values, we can often forget that individual [priorities](purpose.md) change. Thus, while we can use groups to precisely distinguish things as they are or were, [predictions](people-imagination.md) are never very accurate.
 
 ## Magnified purpose
 
@@ -37,35 +37,35 @@ When a shared [purpose](purpose.md) is strong enough, people can get along bette
 
 ## Leading
 
-[Leadership](mgmt-1_why.md) is nothing more than [making decisions](people-decisions.md) that affect a group.
+[Leadership](mgmt-1_why.md) is nothing more than [making decisions](mind-decisions.md) that affect a group.
 
 People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
 
-The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](personality.md).
+The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](people-personality.md).
 
-APPLICATION: Since leaders tend to be more [high-conscientiousness](personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
+APPLICATION: Since leaders tend to be more [high-conscientiousness](people-personality.md), they are over-represented in all leadership roles, and therefore represented in all walks of society. The only exception to this is when an institution defines its hierarchy [by something other than competence](mgmt-badsystems.md).
 
-Generally, people [trust](understanding-certainty.md) leaders who are older than them, up to about age 60. At that age, [old age](maturity.md) makes someone [appear](people-image-why.md) to operate more on [habit](habits.md) than [decisions](people-decisions.md), so people start trusting themselves or younger leaders instead.
+Generally, people [trust](understanding-certainty.md) leaders who are older than them, up to about age 60. At that age, [old age](maturity.md) makes someone [appear](people-image-why.md) to operate more on [habit](habits.md) than [decisions](mind-decisions.md), so people start trusting themselves or younger leaders instead.
 
-APPLICATION: Leaders are nurtured and not merely "made", and it's because they require a [disposition](personality.md) that can make consistent and [wise](understanding.md) decisions, a bit like a "born parent". Avoid leadership education that doesn't emphasize this reality.
+APPLICATION: Leaders are nurtured and not merely "made", and it's because they require a [disposition](people-personality.md) that can make consistent and [wise](understanding.md) decisions, a bit like a "born parent". Avoid leadership education that doesn't emphasize this reality.
 
 The values of a group are mostly defined by its leadership. That leader is approving or denying members' [creations](creations.md) to promote the [values](values.md) they [want](purpose.md) to see. Leadership ends up looking like [parenting](people-family.md), but typically with a more subdued and distanced approach.
 
-APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](people-decisions.md).
+APPLICATION: Good leaders live [virtuously](morality.md), since it's the only way to be [fair](morality-justice.md) in [making decisions](mind-decisions.md).
 
 Broadly, leaders tend to exert control across a [culture](people-culture.md), with a spectrum ranging on how much they employ [feelings](mind-feelings.md) about the past:
 
-1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](people-rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](trends.md), more prevalent in Eastern cultures.
+1. [Honor/Shame](mind-feelings-shame.md) - emphasis on honoring [rules](people-rules.md) through plenty of shame, keeps society in the highest state of [order](understanding-certainty.md) at the expense of sabotaging [large-scale trends](people-trends.md), more prevalent in Eastern cultures.
 2. Innocence/Guilt - the shame is localized to the emotion of guilt, meaning there's a binary action or inaction toward the rules, but not necessarily toward long-past events, more prevalent in Western cultures.
 3. Correct/Incorrect - there is no emotional guilt or shame attached and only a focus on what is factual, magnifies the most [innovation](mind-creativity.md) and [technological](technology.md) development, but only prevalent within outliers of society.
 
-APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision-making](people-decisions.md) until they can look beyond their [impulses](mind-feelings.md). However, it's possible for someone to [appear](people-image-why.md) level-headed when they aren't, and is the foundation for many [bad systems](mgmt-badsystems.md).
+APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision-making](mind-decisions.md) until they can look beyond their [impulses](mind-feelings.md). However, it's possible for someone to [appear](people-image-why.md) level-headed when they aren't, and is the foundation for many [bad systems](mgmt-badsystems.md).
 
 One of a leader's most critical decisions involves how the group's [image](people-image-why.md) appears to those outside of the group. Generally, the image must appear immaculate (or at least good enough) to gain approval enough for the group to grow. That image is typically a response to how the most extreme members of a group interact with outsiders.
 
-When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](classes.md).
+When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](people-trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](classes.md).
 
-In most groups, the various [forms of power](power-types.md) grant different types of leadership to various members. There's a significant difference between a [natural specialty](jobs-specialization.md) and [personality](personality.md) that creates different types of [value](values-quality.md), versus conveying that value to others, and at least a few archetypes typically arise through different members:
+In most groups, the various [forms of power](power-types.md) grant different types of leadership to various members. There's a significant difference between a [natural specialty](jobs-specialization.md) and [personality](people-personality.md) that creates different types of [value](values-quality.md), versus conveying that value to others, and at least a few archetypes typically arise through different members:
 
 1. Social leadership - usually the [connections](people-friends.md) inside the group.
 2. Thought leadership - has the most [understanding](understanding.md) of many specific matters in the group.
@@ -75,7 +75,7 @@ In most groups, the various [forms of power](power-types.md) grant different typ
 
 Some leaders will have a "celebrity" [persona](stories-myths.md), while others will be highly competent. In a [severe crisis](people-conflicts-war-why.md), the competent leaders determine the core capacity of the group, but the celebrities determine its [morale](meaning.md) and [public image](people-image-why.md).
 
-When a leader doesn't do much, they're merely a [symbol](symbols.md). Symbolic leadership is frequently common when groups value [individual freedom](people-boundaries-why.md), are [incompetent](mgmt-badsystems.md), or are [too large](groups-large.md) for the leader to make individual [decisions](people-decisions.md).
+When a leader doesn't do much, they're merely a [symbol](symbols.md). Symbolic leadership is frequently common when groups value [individual freedom](people-boundaries-why.md), are [incompetent](mgmt-badsystems.md), or are [too large](groups-large.md) for the leader to make individual [decisions](mind-decisions.md).
 
 If any leaders develop differing [purposes](purpose.md), they'll usually have a [conflict](people-conflicts-why.md) among each other. In that situation, if there isn't enough [love](people-love.md) for each other, the group itself will likely split with at least two camps led by those two leaders as a representation of differing [opinions](values.md).
 
@@ -103,13 +103,13 @@ The general success or failure of a group's values come in its [results](results
 
 However, there's plenty of uncertainty from a leader's [thought](mind-creativity.md) to the organization's [results](results.md), so measurements can be misleading:
 
-1. The leader [decides](people-decisions.md).
+1. The leader [decides](mind-decisions.md).
 2. The leader [communicates](people-conversation.md) that decision, with possible interference or additions by the leader's choice of [media](stories-storytellers.md) and other leaders conveying the thought.
 3. The members who end up performing either add or remove the [quality](values-quality.md) of the results, based on their [competence](understanding.md) and [purposes](purpose.md).
 
 ## Never wrong
 
-It's important to note that groups (especially the leadership) will *never* openly admit they're presently doing something wrong. Instead, incorrect [decisions](people-decisions.md) and [beliefs](understanding-certainty.md) will only create several possible results:
+It's important to note that groups (especially the leadership) will *never* openly admit they're presently doing something wrong. Instead, incorrect [decisions](mind-decisions.md) and [beliefs](understanding-certainty.md) will only create several possible results:
 
 1. [Morally equivocate](morality.md) what they do as being as good or better than other groups.
 2. Eject the leader and blame everything on that leader, with the group openly confessing they *were* mistaken but aren't anymore.
@@ -126,4 +126,4 @@ APPLICATION: Groups never admit they're wrong, so if you [disagree](people-confl
 1. Only talk about what they're doing *right* and ignore what they do wrong.
 2. Find another group that doesn't do that wrong thing.
 
-A group's existence is built on the environment that surrounds it. When the environment around the group changes, the group *must* conform to the new changes, or they'll become an obsolete [trend](trends.md).
+A group's existence is built on the environment that surrounds it. When the environment around the group changes, the group *must* conform to the new changes, or they'll become an obsolete [trend](people-trends.md).

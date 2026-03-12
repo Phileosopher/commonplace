@@ -1,11 +1,11 @@
 
 # What economics is
 
-Economics is the "soft [science](science.md)" of how (and more importantly why) people transfer goods and services throughout society, which requires observing how and why people transfer [value](values-quality.md), especially regarding [decisions](people-decisions.md).
+Economics is the "soft [science](science.md)" of how (and more importantly why) people transfer goods and services throughout society, which requires observing how and why people transfer [value](values-quality.md), especially regarding [decisions](mind-decisions.md).
 
 Money is the easiest way we can store and retrieve value, so measuring the flow of money is a decent-enough way to track how [power and wealth](power.md) are created and moves between people.
 
-Money flow measures [well-being](goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](people-culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
+Money flow measures [well-being](people-goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](people-culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](people-imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
 
 However, economic measurements aren't very precise:
 
@@ -17,11 +17,11 @@ Irrespective, there is a type of free market wired into our existence, which rep
 
 ## Value
 
-We make [choices](people-decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
+We make [choices](mind-decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
 
 APPLICATION: Because we consider the price of things compared to what other people would pay, the easiest form of reflecting uninhibited demand would be a [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction), where everyone privately [communicates](people-conversation.md) their price to the seller and the winner pays the *second*-highest price.
 
-We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
+We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](people-imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
 APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
@@ -33,19 +33,19 @@ Anything associated with the physical world has a certain limited quantity ("sca
 
 APPLICATION: Value is very relative to [utility](purpose.md). For that reason, more of something (e.g., from [technology](technology.md)) makes life easier in general but decreases the unit value of each of those things. In the process, creating more of something slowly decreases its [meaningfulness](meaning.md) as more of it exists.
 
-With the odd exception of [addiction](addiction.md), our [decisions](people-decisions.md) tend toward scarcer things.
+With the odd exception of [addiction](addiction.md), our [decisions](mind-decisions.md) tend toward scarcer things.
 
 Our concept of economic value is based on [information](understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
 
 The measurable value of something fluctuates *constantly* for several reasons:
 
 - Information about things is constantly changing, and we're constantly [learning more](understanding.md) about that thing as we observe it.
-- Changing information implies a [story](stories-why.md), and therefore a [trend](trends.md) we try to [predict](imagination.md).
-- We [imagine](imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
+- Changing information implies a [story](stories-why.md), and therefore a [trend](people-trends.md) we try to [predict](people-imagination.md).
+- We [imagine](people-imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
 
 Economists define "income" differently than [accountants](money-accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").
 
-Free competition with scarcity has a double-sided [risk](safety.md) to it, and only people with a low enough agreeableness [personality](personality.md) can thrive in it. A consumer may enjoy producers competing for their [spending decisions](money-1_why.md), but generally doesn't like competing with other consumers for a limited supply of something, which is why [job-hunting](jobs-1_why.md) is typically stressful for most people.
+Free competition with scarcity has a double-sided [risk](safety.md) to it, and only people with a low enough agreeableness [personality](people-personality.md) can thrive in it. A consumer may enjoy producers competing for their [spending decisions](money-1_why.md), but generally doesn't like competing with other consumers for a limited supply of something, which is why [job-hunting](jobs-1_why.md) is typically stressful for most people.
 
 ## Money supply
 
@@ -63,7 +63,7 @@ A country *has* to print more money constantly to keep up with the growth of a c
 
 If inflation becomes too uncontrolled, it can ravage society. However, a steady inflation rate is only a risk to [those who have wealth stored](classes.md). For non-wealthy people, they just have to find [a better source of income](jobs-1_why.md) instead of finding another place to safely weather out an inflationary spike.
 
-Because of things like [technology](technology.md) and society's [trends](trends.md) about commonplace activities, measuring inflation is absurdly complicated and somewhat controversial on how to approach it. Plus, because so many people are observing metrics like inflation, some government policies can play math games with the money supply to make inflation [appear](people-image-why.md) differently than it really is. However, technology *does* create inequality, to the degree that some people don't have it.
+Because of things like [technology](technology.md) and society's [trends](people-trends.md) about commonplace activities, measuring inflation is absurdly complicated and somewhat controversial on how to approach it. Plus, because so many people are observing metrics like inflation, some government policies can play math games with the money supply to make inflation [appear](people-image-why.md) differently than it really is. However, technology *does* create inequality, to the degree that some people don't have it.
 
 Very often, when a disastrous destruction of value happens (such as [getting invaded](people-conflicts-war-why.md)), a [country](groups-large.md) will suffer *massive* hyperinflation. This can make ridiculous situations like someone having to cart a wheelbarrow full of bills to the market just for a loaf of bread. On the other hand, tremendous increases in value (such as winning a war) can generate *immense* wealth for a country to print tons more money and keep it relatively at the same value.
 
@@ -83,7 +83,7 @@ We exchange many types of goods and services:
 - Feelings of peace or freedom from guilt
 - Reputation or affiliation with groups
 
-APPLICATION: In a hyper-capitalistic society connected by many [social networks](people-conversation.md), the most extreme [personalities](personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war-why.md) but where nobody dies:
+APPLICATION: In a hyper-capitalistic society connected by many [social networks](people-conversation.md), the most extreme [personalities](people-personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war-why.md) but where nobody dies:
 
 - The hardest-working people will run the [leadership structures](groups-large.md).
 - The [funniest](humor.md) and most [charming](influence.md) people draw all the attention.
@@ -108,14 +108,14 @@ A free market is where someone wants to trade something of value, and nothing el
 However, a market is never "pure". Market distortions adapt a free market from considerable factors that move things around:
 
 - Government taxes will change a market, especially if they're focused on particular goods or services.
-- People will usually pay more for novelty (i.e., it's a new [trend](trends.md)).
+- People will usually pay more for novelty (i.e., it's a new [trend](people-trends.md)).
 - There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](money-insurance.md) guaranty bond).
 - Governments or large organizations may set price limits or [regulations](people-rules.md).
 - Beyond the supply cost, labor costs can be affected by other factors like overtime laws, minimum wage, and labor unions.
 - Governments may subsidize or fund programs that would otherwise not be viable on a free market.
-- *Any* [influence](influence.md) whatsoever that advances or subdues a [social trend](trends.md) can temporarily distort everyone's [purposes](purpose.md).
+- *Any* [influence](influence.md) whatsoever that advances or subdues a [social trend](people-trends.md) can temporarily distort everyone's [purposes](purpose.md).
 
-Generally, most market dynamics are actually 2+ markets that influence each other. For example, news and social media are the markets for people's attention but are influenced by the market for advertisers wanting people's attention. In some sense, *all* human interactions ripple into all other human interactions in some small way, which makes it difficult to measure or [predict](imagination.md).
+Generally, most market dynamics are actually 2+ markets that influence each other. For example, news and social media are the markets for people's attention but are influenced by the market for advertisers wanting people's attention. In some sense, *all* human interactions ripple into all other human interactions in some small way, which makes it difficult to measure or [predict](people-imagination.md).
 
 ## Public goods
 
@@ -167,9 +167,9 @@ Supply is how much of something there is, and demand is how much people [want](p
 
 - When there's more supply or less demand, people won't trade as much to get it.
 - When there's less supply or more demand, people will trade more to get it.
-- This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](imagination.md) everyone else will do.
+- This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](people-imagination.md) everyone else will do.
 
-People make [decisions](people-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
+People make [decisions](mind-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
 
 Cost increases for trading are sometimes predictable:
 
@@ -184,7 +184,7 @@ Cost increases for trading are sometimes predictable:
 - Lowered risk of damage or theft
 - Increased accessibility to new markets
 
-One of the downsides of technology, though, is that it strips away [meaning](meaning.md) from most goods and services, specifically as they [trend](trends.md) from novelty to commonplace.
+One of the downsides of technology, though, is that it strips away [meaning](meaning.md) from most goods and services, specifically as they [trend](people-trends.md) from novelty to commonplace.
 
 ## Human capital
 
@@ -225,7 +225,7 @@ With increased [risks](safety.md) to transferring goods, as well as having no ov
 
 Every time someone trades a good or service, both people are busy exchanging something, which is doing "business", often with an implied [contract](people-contracts.md).
 
-All business requires taking [risks](socialrisk.md) to succeed because we can't precisely [predict](imagination.md) the [purposes](purpose.md) other people have.
+All business requires taking [risks](socialrisk.md) to succeed because we can't precisely [predict](people-imagination.md) the [purposes](purpose.md) other people have.
 
 These trades fulfill our wants and needs through exchanges, so business [organizations](groups-small.md) aren't *just* trying to make money:
 
@@ -243,13 +243,13 @@ As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies
 
 ## Speculation
 
-Everyone [expects](imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](understanding-certainty.md) that what happened last time will happen again.
+Everyone [expects](people-imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](understanding-certainty.md) that what happened last time will happen again.
 
 Several factors mean the patterns of market behavior will never occur the same way each time:
 
-- Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](people-decisions.md) will be a little different.
+- Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](mind-decisions.md) will be a little different.
 - The [technology](technology.md) has changed, often for the better, meaning [information](understanding.md) will flow *much* faster and change [narratives](stories-storytellers.md) more rapidly.
-- People *know* [what happened last time](stories-storytellers.md), so they will make [changes](people-decisions.md) based on that information. Often, they'll start a [trend of knowledge](trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
+- People *know* [what happened last time](stories-storytellers.md), so they will make [changes](mind-decisions.md) based on that information. Often, they'll start a [trend of knowledge](people-trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
 
 Further, in an [over-information society](https://stucky.tech/purpose/), *multiple* trends may be playing out at the same time. It can be very unclear *which* trend will most articulately replay itself, and the results can be dramatically different.
 
@@ -268,13 +268,13 @@ Every time a [government's laws](people-rules.md) *might* change the availabilit
 
 In a large-scale social system, it takes a long time for things to get from one point to another. This creates what's called a "supply chain". A seasonal item that's in higher demand when the weather changes, for example, might get manufactured halfway across the world half a year beforehand.
 
-The existence of a supply chain means people can somewhat [predict future market events](imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
+The existence of a supply chain means people can somewhat [predict future market events](people-imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
 
 In any [disaster](hardship-disaster-1_short.md), the risks to civilization's collapse don't come from any individual people or group being incapacitated, but the supply chain at large.
 
 ## Market corrections
 
-Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](people-decisions.md) and how easily [power](power.md) can shift.
+Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](mind-decisions.md) and how easily [power](power.md) can shift.
 
 Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
 
@@ -290,17 +290,17 @@ Centralized planning taken to its farthest becomes fascism or [communism](politi
 
 Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
 
-[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](people-decisions.md), even if they're bad.
+[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](mind-decisions.md), even if they're bad.
 
-Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](imagination.md) models.
+Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](people-imagination.md) models.
 
 ## Conflicts
 
-One of the most hotly contested [ideological](values.md) [battles](people-conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](people-decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
+One of the most hotly contested [ideological](values.md) [battles](people-conflicts-inner.md) within the domain of economics ties to the battle over how people make [decisions](mind-decisions.md), and they tend to fall into two major camps with vastly different [political consequences](politics-conservativeliberal.md).
 
 Proponents of John Maynard Keynes tend to believe that output and production are generally fixed realities of individuals, determined by their social context. Further, we can most effectively measure a society's wealth by spending. For that reason, further social engineering (and large-scale [government intervention](groups-large.md)) is the solution to most economic issues.
 
-Friedrich Hayek's values, on the other hand, adhere to the belief that output and production are *completely* based on individual perception and [personality](personality.md), with the best measurement of a society's wealth coming through how well they [save money](money-3_budget.md). For that reason, less government intervention is critical to solving most economic issues.
+Friedrich Hayek's values, on the other hand, adhere to the belief that output and production are *completely* based on individual perception and [personality](people-personality.md), with the best measurement of a society's wealth coming through how well they [save money](money-3_budget.md). For that reason, less government intervention is critical to solving most economic issues.
 
 APPLICATION: Anyone who praises how well capitalism works should have some awareness that it only works because of the selfish [moral state](morality.md) of [human nature](humanity.md). It proves how despicable our natural state is and should lead us to some level of individual repentance. It tends to create [class divisions](classes.md) as an inherent nature, and the weakest or least qualified will often suffer under capitalist societies that honor the presence of the free market. Unfortunately, [all other alternatives](politics-systems.md) are worse.
 

@@ -11,4 +11,4 @@ To get out of poverty, save *everything* you can:
 - Even if your friends find it offensive, become a master at [saving money everywhere](money-saving.md).
 - At some point later, you *will* need to change your lifestyle to legitimately [enjoy your accumulated savings](fun.md), but you must take care of your survival and safety first.
 
-Trust in [God](god.md), who provides everything you need when you need it.
+Trust in [God](theology-god.md), who provides everything you need when you need it.

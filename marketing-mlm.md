@@ -100,7 +100,7 @@ Most MLM recruiting and retention strategies appeal to pride and vanity.
 
 Along with vices, MLM also [fearmongers](mind-feelings-fear.md) prospects.
 
-- The prospects are regularly pressured to decide quickly on the premise that the organization's model is a new [trend](trends.md) that will take off and leave them behind.
+- The prospects are regularly pressured to decide quickly on the premise that the organization's model is a new [trend](people-trends.md) that will take off and leave them behind.
 - Representatives usually sell the starting costs as an all-or-nothing decision to make recruits believe they can't afford to fail.
 
 The marketing mix of minimal experience, a saturated market, and a full-commission income motivate representatives to be [dishonest](people-lying.md).

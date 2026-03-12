@@ -32,7 +32,7 @@ Discover what you want to do by observing people as smart as you:
 - Learn [brutal honesty with yourself](awareness.md) and your mental limits.
 - Your natural talents are always useful, but you probably don't know how or where yet.
 - The hardest possible job you can do will likely pay the most.
-- Make sure the job matches your [personality](personality.md).
+- Make sure the job matches your [personality](people-personality.md).
   - If the job is too intense, it'll burn you out.
   - If the job is too easy, you'll be bored.
 
@@ -191,4 +191,4 @@ At some point, you must leave college:
   - Beyond some graduate degrees in law, medicine, or education, most master's programs add very little value to a career, and most doctorate programs are only useful to teach the discipline or work in a tiny subset of the industry.
 - After graduating, don't try to maintain the college lifestyle.
   - Some people will keep getting college degrees across multiple unrelated disciplines, but they are forever enslaved to their [student loans](money-2_debt.md).
-- Educators are capturing known-effective things, so they tend to [stifle innovation](socialrisk.md), and your capacity to [create](mind-creativity.md) and [innovate](trends.md) will only come from *outside* a college.
+- Educators are capturing known-effective things, so they tend to [stifle innovation](socialrisk.md), and your capacity to [create](mind-creativity.md) and [innovate](people-trends.md) will only come from *outside* a college.

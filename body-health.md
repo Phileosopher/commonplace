@@ -3,7 +3,7 @@
 
 Modern society has created many benefits (e.g., [insurance](money-insurance.md), [computers](computers.md), [cars](autos.md)), but exchanges the [risks endemic to nature](safety-nature.md) for the risks from mass-produced food-in-a-box and sedentary activity.
 
-This makes [weight management](body-diet.md) far more complicated.
+This makes [diet](body-diet.md) and [exercise](body-exercise.md) management far more complicated.
 
 ## Toxins/energy
 
@@ -43,7 +43,7 @@ Beyond toxins, concentrated energy can also be dangerous.
 - Long-term exposure to x-rays and microwaves are known to cause cancer.
 - While the long-term effects haven't been tested, there may be risks to chronic exposure to [radio waves](engineering-radio.md) (e.g., cell phone towers, Wi-Fi signals).
 
-With all the risks from toxins and concentrated energy, [maintaining balance in life](goodlife.md) requires a safe, easy solution when working in any field that directly interacts with dangerous chemicals or energy:
+With all the risks from toxins and concentrated energy, [maintaining balance in life](people-goodlife.md) requires a safe, easy solution when working in any field that directly interacts with dangerous chemicals or energy:
 
 1. Develop a habit of dogmatically using all [safety precautions](safety-riskmgmt.md) without any lapse.
 2. Pay *very* close attention to what your body is telling you.
@@ -60,7 +60,7 @@ Extreme medical procedures (e.g., stomach stapling, liposuction) you won't fix [
 You must set specific, intentional [long-term goals](success-3_goals.md) to fight what civilized society brings:
 
 - Most of the time, the convenience of [owning a car](autos.md) means you'll be less efficient if you choose to live a more active lifestyle.
-- Your lifestyle will likely be [unfashionable](trends.md) compared to your friends.
+- Your lifestyle will likely be [unfashionable](people-trends.md) compared to your friends.
 - Often, eating healthy is *way* pricier and requires much more [cooking](cooking.md) than boxed meals.
 
 Doctors are usually trustworthy, but they're [specialized](jobs-specialization.md) toward a specific domain.
@@ -93,7 +93,7 @@ The dominant answer is in [eating correctly](body-health-food.md), but there are
 
 ### Expose yourself
 
-Our body responds *very* well to [measured hardships](hardship.md), especially when we're [actively choosing](people-decisions.md) to expose ourselves to them.
+Our body responds *very* well to [measured hardships](hardship.md), especially when we're [actively choosing](mind-decisions.md) to expose ourselves to them.
 
 Expose yourself to occasional diseases wherever you go.
 

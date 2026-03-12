@@ -3,7 +3,7 @@
 
 Since we think with [stories](stories-why.md), everyone [communicates](people-conversation.md) with them. They're necessary for [influencing](influence.md) others, the basis for how we [feel](mind-feelings.md) about things, and why we ever start [changing](people-changes.md).
 
-Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](imagination.md), but a real story implies that [consequences](results.md) will likely repeat themselves.
+Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](people-imagination.md), but a real story implies that [consequences](results.md) will likely repeat themselves.
 
 To effectively convey a story, a storyteller *must* have a [value](values.md) they're trying to [prove](influence.md), and their effectiveness is in how much they can get their audience to [believe](understanding-certainty.md) them.
 
@@ -13,7 +13,7 @@ APPLICATION: It's safe to say that every single storyteller is the propaganda ar
 
 Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](people-culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](people-rules.md).
 
-Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](results.md), but can also include what they [plan to do](imagination.md) or [are likely doing](results.md).
+Since people can't know precisely what the subject of their gossip is doing at that moment, gossip typically describes what another person [has done](results.md), but can also include what they [plan to do](people-imagination.md) or [are likely doing](results.md).
 
 We gossip for various reasons:
 
@@ -29,7 +29,7 @@ APPLICATION: The means to communicate 1 idea powerfully is critical to conveying
 
 Each person is sharing a [story](stories-why.md) through the [medium](creations.md) of their speaking or recordings, so their story is at least one degree removed from the [facts](reality.md) than if we had perceived it firsthand. This isn't an attempt to lie, though, but to instead [artistically associate](mind-creativity.md) to the [symbols](symbols.md) that attribute to [mythological realities](stories-myths.md).
 
-APPLICATION: Since the news of information isn't the information itself, a story and its [implications](people-image-why.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](awareness.md) to say), but it's impossible to [predict it](imagination.md).
+APPLICATION: Since the news of information isn't the information itself, a story and its [implications](people-image-why.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](awareness.md) to say), but it's impossible to [predict it](people-imagination.md).
 
 People typically [understand](understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* for that story to reach anyone. This is determined by a few factors:
 
@@ -95,7 +95,7 @@ In the [information age](information.md), there is a reliable method for dissemi
 3. Entrainment
    - The original high-velocity jet "entrains" a much larger and slower mass of cultural fluid (i.e., the public).
    - The victims of the original allegation are represented as antagonists.
-     - The "defenders" form an [identity](identity.md) around opposing them.
+     - The "defenders" form an [identity](people-identity.md) around opposing them.
    - The real antagonism, however, never existed, and was instead induced in the first stage.
    - The public discourse is now the circulating energy between the two groups.
      - It maintains an illusion of a genuine cultural conflict.
@@ -108,7 +108,7 @@ In the [information age](information.md), there is a reliable method for dissemi
 
 ## Retelling
 
-Irrespective of their factual truth, [stories](stories-why.md) can give [meaning](meaning.md), so their characters have a tendency to [appear](people-image-why.md) "living". A creator with few to no constraints (e.g., unlimited license to express, unlimited budget) will create a predictable [trend](trends.md):
+Irrespective of their factual truth, [stories](stories-why.md) can give [meaning](meaning.md), so their characters have a tendency to [appear](people-image-why.md) "living". A creator with few to no constraints (e.g., unlimited license to express, unlimited budget) will create a predictable [trend](people-trends.md):
 
 1. The story will significantly expand itself to the point that the main character is lost in a *much* larger world.
 2. Derivative and parallel works will arise that expand smaller characters' roles into altogether new content.
@@ -129,17 +129,17 @@ Anytime we only hear about someone but don't have a [personal connection](people
 
 Every [large group leader](groups-large.md) is some form of celebrity. Successful leaders must always maintain some aspect of their celebrity status to have long-distance [influence](influence.md) with their group.
 
-When a [creation](creations.md) becomes extremely [popular](trends.md), the creator frequently becomes a separate legend entirely, especially if they have a unique [personality](personality.md). Clever creators keep their creations close to their [natural identity](identity.md) (e.g., by calling their character's name their given name) to prevent themselves from becoming a stereotype.
+When a [creation](creations.md) becomes extremely [popular](people-trends.md), the creator frequently becomes a separate legend entirely, especially if they have a unique [personality](people-personality.md). Clever creators keep their creations close to their [natural identity](people-identity.md) (e.g., by calling their character's name their given name) to prevent themselves from becoming a stereotype.
 
 A [large group](groups-large.md) can work *very* hard at maintaining a myth of a person. While an organization is an unfeeling combination of relatively similar people, a dramatic performer is easier to tailor and [market](marketing.md) as a "mascot", which can imply they lead and direct that organization.
 
 APPLICATION: [Advertising](marketing.md) mascots are an attempt to create a human face on an otherwise emotionless legal organization. People fall for the false [image](people-image-why.md) because it appeals to whatever [sentiment](mind-feelings.md) a demographic prefers to associate with.
 
-APPLICATION: Since [stories are a relatively straightforward mechanism](stories-why.md), they're easy to duplicate when you make [a popular one](trends.md). Barring the artist [devoted](purpose.md) to creating [meaning](meaning.md), most storytellers will simply reproduce the same tired framework over and over.
+APPLICATION: Since [stories are a relatively straightforward mechanism](stories-why.md), they're easy to duplicate when you make [a popular one](people-trends.md). Barring the artist [devoted](purpose.md) to creating [meaning](meaning.md), most storytellers will simply reproduce the same tired framework over and over.
 
 ## Old tales
 
-The people who define the world's style are between their 30s and 50s. Since they weren't cynical about things when they were [adolescents](maturity.md) but old enough to recognize what they were experiencing, they remember that media as the "best". For that reason, the style of just about every mainstream media employs a wave of nostalgic style based on [trends](trends.md) that hit about 20-40 years prior.
+The people who define the world's style are between their 30s and 50s. Since they weren't cynical about things when they were [adolescents](maturity.md) but old enough to recognize what they were experiencing, they remember that media as the "best". For that reason, the style of just about every mainstream media employs a wave of nostalgic style based on [trends](people-trends.md) that hit about 20-40 years prior.
 
 APPLICATION: If you want to know what will be popular 5 years from now, it'll probably incorporate whatever was overwhelmingly popular about 15-35 years ago from today.
 
@@ -153,7 +153,7 @@ Beyond misinformation, history magnifies its [distorted lens](people-image-disto
 
 APPLICATION: Most of the tales and creative works of the distant past that have survived were propaganda, [parody](humor.md), and designed for unsophisticated people. We lose that in translation (especially with the people who [teach it](education.md)), so we assume there was something more dignified about the past than there really was.
 
-Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](trends.md) of the present time:
+Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](people-trends.md) of the present time:
 
 - The American story of Thanksgiving was originally an anti-[leftist](politics-leftism.md) message, *not* simply an act of generosity on the Native American's part.
 - Christmas traditions are borrowed from *dozens* of sources across the last few thousand years, and most of the traditions' origins are *not* Christian.
@@ -172,7 +172,7 @@ Often, we'll venerate an old story (e.g., John D. Rockefeller) and condemn a cur
 
 People frequently revisit old stories and old ideas, but rebuild them using different words (e.g., "grit" vs. "character" vs. "integrity"). Its practical result is that every society ends up saying almost the same thing while believing it's a revolutionary new idea.
 
-APPLICATION: One of the advantages of exploring the cultures of the past (i.e., history) is that you have an easy viewpoint to see how they behaved and [what happened from it](results.md). Though you can't [speak with them directly](people-conversation.md), you can still use your [imagination](imagination.md) to connect how they likely lived and thought. It's easy to [believe yourself superior or removed](mind-bias.md) from them in some way, but never forget they were [as human as you](humanity-universals.md), and [others will see you the same way](legacy.md).
+APPLICATION: One of the advantages of exploring the cultures of the past (i.e., history) is that you have an easy viewpoint to see how they behaved and [what happened from it](results.md). Though you can't [speak with them directly](people-conversation.md), you can still use your [imagination](people-imagination.md) to connect how they likely lived and thought. It's easy to [believe yourself superior or removed](mind-bias.md) from them in some way, but never forget they were [as human as you](humanity-universals.md), and [others will see you the same way](legacy.md).
 
 ## Meta-tales
 
@@ -204,7 +204,7 @@ The [image](people-image-why.md)-based form of how we perceive means half-truths
 
 Our intuition may oppose the distribution of shameless lies, and preventing the free publication of false information seems like a [morally good](morality.md) action.
 
-Unfortunately, it's also difficult to detect *which* things are lies, especially since many statements have portions of [truth](reality.md) contained within them. Far too often, [extremists](morality-taboo.md) will say [unfashionable](trends.md) truths that begin radical social [changes](people-changes.md).
+Unfortunately, it's also difficult to detect *which* things are lies, especially since many statements have portions of [truth](reality.md) contained within them. Far too often, [extremists](morality-taboo.md) will say [unfashionable](people-trends.md) truths that begin radical social [changes](people-changes.md).
 
 APPLICATION: People with the power to censor have *tremendous* control. Unless those people are held fully accountable for each censorship activity they perform, a benevolent situation will *rapidly* become [oppressive](people-boundaries-why.md).
 
@@ -214,7 +214,7 @@ APPLICATION: Eventually, if the product of a storyteller is good enough, their a
 
 At the same time, by giving the *worst* members of society (around 3%) the same room to anonymously speak as much as everyone else, they will [abuse their power](power-types.md) and tyrannically control the conversations and dialogue.
 
-APPLICATION: The internet has broken the media/listener wall. Now, *everyone* can become a media personality with enough people interested in following it. This [trend](trends.md) has transformed news and [education](education.md) forever.
+APPLICATION: The internet has broken the media/listener wall. Now, *everyone* can become a media personality with enough people interested in following it. This [trend](people-trends.md) has transformed news and [education](education.md) forever.
 
 Thankfully, we're all relatively bad at predicting how much others can be [influenced](influence.md) ("[third-person effect](mind-bias.md)"). Thus, most people are quietly taking in information, but people sharing the information imply that others are *way* more swayed by the information than reality.
 
@@ -222,13 +222,13 @@ APPLICATION: Given [human universals](humanity-universals.md), if you're angry a
 
 ## The prediction industry
 
-Since we can't even know what we *don't* know about the future, we hire people to deliver [certain](understanding-certainty.md) statements about [the unknown](unknown.md). At one time they were part of a [religious order](religion.md) as prophets, soothsayers, or seers. With the move toward secularization and [post-modern thinking](philosophy.md), they are now game theorists, quantitative analysts, actuaries, statisticians, and poll analysts under a type of [scientific order](science.md). Irrespective, they are effectively [imagining](imagination.md) everything they do to create compelling [stories](stories-why.md).
+Since we can't even know what we *don't* know about the future, we hire people to deliver [certain](understanding-certainty.md) statements about [the unknown](unknown.md). At one time they were part of a [religious order](religion.md) as prophets, soothsayers, or seers. With the move toward secularization and [post-modern thinking](philosophy.md), they are now game theorists, quantitative analysts, actuaries, statisticians, and poll analysts under a type of [scientific order](science.md). Irrespective, they are effectively [imagining](people-imagination.md) everything they do to create compelling [stories](stories-why.md).
 
 APPLICATION: Statistics and statisticians [feel](mind-feelings.md) more accurate because they're a [group](groups-member.md) instead of an individual, but look very closely at how they receive and manipulate their data, and don't [trust](trust.md) their predictions if it doesn't match your [instincts](mind-feelings.md). They might be trying to [distort the truth](people-image-distortion.md), especially when they have something to gain or have [competitors](people-conflicts-war-why.md).
 
 They can only work on the [logic](logic.md) of known things, but they continue having jobs and receiving [honor](people-image-why.md) because they're the [safest](safety.md) way to explore the [fear](mind-feelings-fear.md) of [the unknown](unknown.md). Ironically, most of their analysis comes from *their* fears, and their risk aversion frequently contributes heavily to suppressing healthy [social risks](socialrisk.md).
 
-APPLICATION: Statistical analysis is useful for finding correlations, not causation, so it's reliable to see whether your expectations have become [reality](reality.md). If you must [decide](people-decisions.md) instead of tracking [results](results.md), ask for advice from [industry](jobs-specialization.md) veterans instead.
+APPLICATION: Statistical analysis is useful for finding correlations, not causation, so it's reliable to see whether your expectations have become [reality](reality.md). If you must [decide](mind-decisions.md) instead of tracking [results](results.md), ask for advice from [industry](jobs-specialization.md) veterans instead.
 
 For the sake of their livelihood, most of them will justify their [beliefs](understanding-certainty.md) with many [reports](math.md). If it confuses [leaders](groups-large.md) enough, those leaders will often [agree](people-conflicts-why.md) and trust them even more. However, the opinions of a veteran professional in a [specialty](jobs-specialization.md) still have more validity.
 

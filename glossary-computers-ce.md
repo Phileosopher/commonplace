@@ -213,7 +213,7 @@ CSS - cascading style sheet, a language that visually styles information, usuall
 
 CSS reset - changing the default CSS style to conform to a designer's preferred style
 
-Cursor - An indicator to show where the user input is pointing to on a screen, tends to angle rightward because [expectations](imagination.md) are difficult to break
+Cursor - An indicator to show where the user input is pointing to on a screen, tends to angle rightward because [expectations](people-imagination.md) are difficult to break
 
 ## D
 

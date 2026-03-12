@@ -15,7 +15,7 @@ In some ways, the medium is not *that* important:
 Every medium has its own rules for quality:
 
 - Learn the medium's standards and limits.
-- Even experimental and [trend-setting](trends.md) works acknowledge the rules by intentionally defying them.
+- Even experimental and [trend-setting](people-trends.md) works acknowledge the rules by intentionally defying them.
 - Art can be time-based, static, or immersive.
   - For static art (e.g., novels, films, music), focus on what occupies the center of attention.
   - For temporal art (e.g., painting, sculpture), direct all your efforts to magnifying the very last observed event.

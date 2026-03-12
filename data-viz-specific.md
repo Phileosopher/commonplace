@@ -33,7 +33,7 @@ It represents as the following:
 4. An arrow points to the next
 5. Repeat
 
-This can represent diverging paths (e.g., [decision-making](people-decisions.md)), or can repreesent a sequence of events.
+This can represent diverging paths (e.g., [decision-making](mind-decisions.md)), or can repreesent a sequence of events.
 
 The general appearance of flow charts allows a visual representation of complexities that would otherwise be difficult to show via text.
 
@@ -73,7 +73,7 @@ The easiest way to understand Sankey diagrams is through the source data:
 
 A visual representation of the relationship between two variables with many bits of data dotted on it.
 
-- Often, an approximate line passes through the scatter plot to represent a [trend](trends.md).
+- Often, an approximate line passes through the scatter plot to represent a [trend](people-trends.md).
 
 ## Swimlane diagrams
 

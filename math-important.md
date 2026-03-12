@@ -21,6 +21,10 @@ This doesn't include the [numerical patterns found in the Bible](bible-patterns.
 
 - bad luck (USA)
 
+24
+
+- "situation has ended" (defunct police code), can be used for saying something is over
+
 67
 
 - so-so, acceptable

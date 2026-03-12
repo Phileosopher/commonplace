@@ -21,7 +21,7 @@ A missionary's job is *very* challenging, and their support network is responsib
 
 Don't make impoverished people groups' situations worse.
 
-- Our [sin nature](morality-sins.md) makes paternalism (doing what others *can* do for themselves) a constant threat.
+- Our [sin nature](theology-sins.md) makes paternalism (doing what others *can* do for themselves) a constant threat.
 - It's very easy to over-reach efforts and leave that culture worse than when your missionary workers showed up.
 
 There are levels of foreign aid involvement:
@@ -59,7 +59,7 @@ There are levels of foreign aid involvement:
 
 Secular organizations tend to enable poor countries' citizens to stay poor:
 
-- While secular organizations solve physical problems, they never address the [sin condition](morality-sins.md), the need for God to transform them, or how to give people [meaning](meaning.md) and [purpose](purpose.md).
+- While secular organizations solve physical problems, they never address the [sin condition](theology-sins.md), the need for God to transform them, or how to give people [meaning](meaning.md) and [purpose](purpose.md).
 - Many citizens stop farming or developing skills because they simply wait for the aid helicopter to drop supplies.
 - Focus more on rehabilitation and development than giving relief.
 
@@ -85,7 +85,7 @@ Deeply involve the people group you're helping in every stage of assessing, desi
 
 Supporting missionaries does *not* only apply for when they're serving their tour.
 
-- Across a mission, that worker will slowly adopt a "third culture" [identity](identity.md) where they merge their serving and home cultures.
+- Across a mission, that worker will slowly adopt a "third culture" [identity](people-identity.md) where they merge their serving and home cultures.
 - When a missionary returns home, formerly familiar objects become alien through their new perspective, so they require help reintegrating.
 
 They will *not* be the same, so don't expect them to come back to the lifestyle they knew.

@@ -3,7 +3,7 @@
 
 Technically, *all* groups of people serving in a ministry capacity are a "church".
 
-- However, while [society](trends.md) and [technology](technology.md) has moved around quite a bit, most of the *worship-based* Church uses [a model that hasn't changed much in over 1,500 years](history-church.md).
+- However, while [society](people-trends.md) and [technology](technology.md) has moved around quite a bit, most of the *worship-based* Church uses [a model that hasn't changed much in over 1,500 years](history-church.md).
 
 From the exterior, it *looks* different, but those differences are largely cosmetic.
 
@@ -34,14 +34,14 @@ All Christian tradition older than 20 years is simply how the Church had adopted
 
 - [The Catholic tradition](history-church.md) is how Europe combined with Christianity after the Roman Empire fell.
 - [The Protestant traditions](https://theologos.site/the-west/) are derived components that mix modern thought with both Catholic tradition and anti-Catholic sentiment.
-- Most modern (and any future) Christian tradition is assembled on a Protestant framework, but with *very* [modern views](trends.md).
+- Most modern (and any future) Christian tradition is assembled on a Protestant framework, but with *very* [modern views](people-trends.md).
 - Your [culture](people-culture.md) will vary on practicing church, and no church model is ideal because each person [derives meaning](meaning.md) differently.
 
 ## Denominational distinctions
 
 Conformity to Christ is conforming to what the Holy Spirit dictates.
 
-- Beyond [Scripture](bible.md), this will be *highly* personal, and won't apply to others.
+- Beyond [Scripture](theology-bible.md), this will be *highly* personal, and won't apply to others.
 - However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/matthew/10.htm)).
 
 Unfortunately, the [culture](people-culture.md) surrounding a Church will heavily define how people interpret Scripture.
@@ -150,7 +150,7 @@ One combined solution can accommodate *every* member's individual needs:
 2. Preaching and teaching *never* expand beyond crowds of ~150 people.
    - Above that point, people have [issues personally connecting](groups-small.md).
 3. When sub-leaders are appointed to preach and teach, each group has its own autonomy.
-   - If anyone discovers new [ideas](trends.md), *everyone* hears about them, even if they're bad.
+   - If anyone discovers new [ideas](people-trends.md), *everyone* hears about them, even if they're bad.
    - Leaders are responsible to publicly address their decisions with the entire gathering.
 4. If anyone has a divergent opinion from the group's [culture](people-culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
    - This shoudl include sending a significant minority with that person to pursue other unrelated ministries.
@@ -164,11 +164,11 @@ However, *some* practices are [taboo](people-conflicts-christian-4_false.md) acc
 
 - When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/1_corinthians/14.htm)).
   - This doesn't forbid female *teachers*, but individual questions can be very distracting.
-- [Sinful](morality-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).
+- [Sinful](theology-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).
 
 Deductively, every church will have 3 different classifications of "believer" ([Matthew 7:22-23](https://biblehub.com/matthew/7.htm) and [13:24-30](https://biblehub.com/matthew/13.htm), [1 Corinthians 3:10-15](https://biblehub.com/1_corinthians/3.htm)):
 
-1. People devoted and on fire for the Lord, with apparent [spiritual fruits](identity.md) in their life.
+1. People devoted and on fire for the Lord, with apparent [spiritual fruits](people-identity.md) in their life.
 2. People doing good things, but with selfish intent in *everything* they do, who will still enter God's kingdom.
 3. People who publicly look good, and have done good things, but don't know Jesus personally, and will not enter His kingdom.
 
@@ -184,7 +184,7 @@ There are a few major models for churches built around routine meetings.
 The **Traditional** model starts in a house, then transitions to a building.
 
 - Usually minded to a specific [cultural group](people-culture.md) with a narrow vision for who they'll reach.
-- Traditional churches often have a strong passion for [evangelism](evangelism.md).
+- Traditional churches often have a strong passion for [evangelism](spiritual-exercises-evangelism.md).
 - It balances resources well, and most people find them familiar.
 - The lack of demographic diversity, however, often fosters complacency.
 
@@ -201,7 +201,7 @@ The **Organic House Church** model focuses on minimalism and removing extra elem
 - Since they usually don't advertise and stay small, most people are unaware of this model.
 - While they attract self-starters who network to find them, they leave most of the Body oblivious.
 - Organic House Churches keep an intimate connection with all the members, so everyone is motivated to serve each other.
-- Unfortunately, the leadership is usually held unaccountable for [sins](morality-sins.md) and the [culture](people-culture.md) can often turn rebellious against larger churches.
+- Unfortunately, the leadership is usually held unaccountable for [sins](theology-sins.md) and the [culture](people-culture.md) can often turn rebellious against larger churches.
 
 The **Multi-Site/Satellite** model can split and reproduce into a separate campus at any time after reaching specific milestones.
 

@@ -19,7 +19,7 @@ The biggest enemy of computers is dust, for several reasons:
 
 Thus, a case is critical to fight dust, though it doesn't need to be fancy. It also should be big enough to hold everything you need on it. Typically, there's room to feed cables toward the back to prevent them from blocking air flow.
 
-Apparently, building a PC has become [cool](trends.md), so tempered glass and lighting is an accented [up-sell](marketing.md).
+Apparently, building a PC has become [cool](people-trends.md), so tempered glass and lighting is an accented [up-sell](marketing.md).
 
 To make the device waterproof, standard waterproofing engineering applies for most of the device (e.g., seals, gaskets), but the ports themselves typically have a sensor that kills all electrical power from running through them. No electricity means the electronics are safe as long as no power runs through it before it's dry again.
 
@@ -38,7 +38,7 @@ The power supply can sometimes be fragile, especially with events like a lightni
 
 An average computer uses 200-300W (i.e., 0.2-0.3 kWh/hr), though it can go as high as necessary. It's worth noting that more electricity generates more heat and loses its efficiency, meaning that a standard computer needs about 20% more wattage than you think it'll need (i.e., get a 350W power supply for a standard computer just to be safe).
 
-Power supplies can be non-modular, semi-modular, and fully-modular. Non-modular has *all* the cables you'll need, semi-modular has *only* the cables you'll need with options to plug in more, and fully-modular is a box without cables. This is almost strictly a cosmetic thing if you're not trying to do something elaborate, but many people building PCs will attach their [identity](identity.md) to how their computer looks.
+Power supplies can be non-modular, semi-modular, and fully-modular. Non-modular has *all* the cables you'll need, semi-modular has *only* the cables you'll need with options to plug in more, and fully-modular is a box without cables. This is almost strictly a cosmetic thing if you're not trying to do something elaborate, but many people building PCs will attach their [identity](people-identity.md) to how their computer looks.
 
 Most power cables for laptops and other smaller tech have a "stepdown transformer" to lower the voltage that'd normally come from a household power plug (120-240V, depending on your country), since they don't need much (never more than 12V).
 

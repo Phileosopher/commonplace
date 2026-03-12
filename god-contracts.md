@@ -18,6 +18,11 @@ In light of that, this is a list of agreed-upon [contracts](people-contracts.md)
 
 Made between God and the first man, who was later named "Adam" ([Genesis 1:26-30](https://biblehub.com/genesis/1.htm)).
 
+- Mediator: Adam
+- Role: Husband
+- Form: Marriage
+- Sign: Sabbath
+
 God's consideration:
 
 - Inapplicable, but technically applies that He created mankind in His image ("imago dei")
@@ -41,7 +46,7 @@ Mankind's consideration:
 
 - Don't consume the tree that brings [knowledge](understanding.md) of [morality](morality.md)
 
-The contract was breached through man's [decision](people-decisions.md), and certain conditions were added ([Genesis 3:16-19](https://biblehub.com/genesis/3.htm)).
+The contract was breached through man's [decision](mind-decisions.md), and certain conditions were added ([Genesis 3:16-19](https://biblehub.com/genesis/3.htm)).
 
 Breach conditions for mankind in general:
 
@@ -62,6 +67,11 @@ Breach conditions for men:
 
 Made between God and Noah after a worldwide flood ([Genesis 9:8-17](https://biblehub.com/genesis/9.htm)).
 
+- Mediator: Noah
+- Role: Father
+- Form: Household
+- Sign: Rainbow
+
 God's consideration:
 
 - He will never send a flood to destroy the earth
@@ -78,6 +88,11 @@ Signature:
 ## 4. Abrahamic Covenant
 
 Made between God and Abraham ([Genesis 12:1-3](https://biblehub.com/genesis/12.htm)).
+
+- Mediator: Abram (later renamed)
+- Role: Chieftain
+- Form: Tribe
+- Sign: Circumcision
 
 God's consideration:
 
@@ -113,6 +128,11 @@ Many, *many* [conflicts](people-conflicts-christian-why.md) have arisen about th
 
 Made between God and Israel, with Moses as an intermediary ([Exodus 19-24](https://biblehub.com/exodus/19.htm))
 
+- Mediator: Moses
+- Role: Judge
+- Form: Nation
+- Sign: Passover
+
 Israel's consideration:
 
 - Trust God
@@ -144,6 +164,10 @@ Many Christians frame it as the "Old Covenant" in light of the Christ covenant.
 
 Made between God and Israel, with Moses as an intermediary ([Deuteronomy 29:1-30:10](https://biblehub.com/deuteronomy/29.htm))
 
+God's consideration:
+
+- An extension of the Mosaic covenant
+
 Israel's consideration:
 
 - Honor the Mosaic covenant with your heart, not just your action
@@ -170,6 +194,11 @@ In some ways, it's an expansion of the Mosaic covenant, but indicates conditions
 
 Made between God and David ([2 Samuel 7:1-16](https://biblehub.com/2_samuel/7.htm), paraphrased in [1 Chronicles 17:11-14](https://biblehub.com/1_chronicles/17.htm) and [2 Chronicles 6:16](https://biblehub.com/2_chronicles/6-16.htm)).
 
+- Mediator: David
+- Role: King
+- Form: National kingdom
+- Sign: Throne
+
 David's consideration:
 
 - Consent was triggered by David's desire to give God a more substantial temple than a tent.
@@ -193,6 +222,11 @@ This is a direct promise by God of a Messiah.
 Made between God and mankind through Jesus, starting with the Hebrews ([John 3:16-21](https://biblehub.com/john/3.htm), [Romans 2:29](https://biblehub.com/romans/2-29.htm), [Romans 10:8-9](https://biblehub.com/romans/10.htm), [Hebrews 8:1-6](https://biblehub.com/hebrews/8.htm))
 
 It was foreshadowed multiple times before it arose ([Jeremiah 31:31-33](https://biblehub.com/jeremiah/31.htm), [Ezekiel 36:24-27](https://biblehub.com/ezekiel/36.htm))
+
+- Mediator: Jesus (Yeshua)
+- Role: Royal High Priest
+- Form: Church
+- Sign: Eucharist
 
 Mankind's consideration:
 

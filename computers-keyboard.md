@@ -5,7 +5,7 @@ Converting the keyboard used for [typewriting](language-writing.md) into a usefu
 
 Before keyboards, people had to send information to a computer with holes in punch cards or paper tape. If you've ever taken a standardized test where you fill in the numbers with a pencil (sometimes called a scantron), imagine having to [code](computers-programming.md) a computer that way.
 
-We still use barcodes (e.g., homogenous retail products) and magnetic ink (e.g., bank checks) that use the [older technology](trends.md).
+We still use barcodes (e.g., homogenous retail products) and magnetic ink (e.g., bank checks) that use the [older technology](people-trends.md).
 
 - As an aside, barcodes read the *light* spots on the code, not the dark spots like your intuition would have you believe.
 
@@ -94,7 +94,7 @@ Later, they created a universal standard called Unicode, which ambitiously tried
 
 To save on data (since a database can frequently be *trillions* of characters), engineers developed "variable-length" encodings, where the leading bits can communicate how many bits the rest of the text has. The human-readable code point for each character looks like U+0041 U+0052, and doesn't carry over any [graphic design](engineering-graphics.md) or font selection.
 
-The standards for Unicode are drawn from the history of language, so they are *not* an exact science. Many of them borrow from prior printmaking conventions, and some characters are imported straight from it without much consideration. Further, some [fashions](trends.md) can affect whether some characters become [standardized](standards-computers.md).
+The standards for Unicode are drawn from the history of language, so they are *not* an exact science. Many of them borrow from prior printmaking conventions, and some characters are imported straight from it without much consideration. Further, some [fashions](people-trends.md) can affect whether some characters become [standardized](standards-computers.md).
 
 In fact, Unicode standards for higher-level text can be messy, and each language will parse it differently. For example, 🤦🏼‍♂️ is accurately defined as 1 character in Swift and Elixir, but 3 characters in Python, 7 in JS/Java/C#, and 17 in Rust.
 
@@ -136,7 +136,7 @@ Keyboard interfaces migrated naturally from hardware to software, mostly because
 
 Keyboard interfaces have become more advanced. As of this writing (June 2022), neural implants are now permitting near-accurate typing using thoughts with at least 94% accuracy. It allows people with paralysis and cerebral palsy to communicate, and paves the way for further developments.
 
-However, keyboards must conform to healthy [UX standards](engineering-design.md). Pushing too many [trendy changes](trends.md) will invariably alienate most of the users, so it's likely keyboard conventions will stick around *long* after nearly everything uses a software-only digital keyboard.
+However, keyboards must conform to healthy [UX standards](engineering-design.md). Pushing too many [trendy changes](people-trends.md) will invariably alienate most of the users, so it's likely keyboard conventions will stick around *long* after nearly everything uses a software-only digital keyboard.
 
 ## More information
 

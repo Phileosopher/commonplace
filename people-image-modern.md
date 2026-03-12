@@ -113,7 +113,7 @@ This also creates many practical implications:
 - You can use the internet and online banking for nearly every routine activity.
 - While they may charge a fee, you can withdraw money from almost *any* bank besides the one that has the money.
 
-[Culturally](people-culture.md), many people [identify](identity.md) themselves by their discrete, arbitrary measurement.
+[Culturally](people-culture.md), many people [identify](people-identity.md) themselves by their discrete, arbitrary measurement.
 
 - The scoring is based on the approval of the people who may render a [mutual benefit](people-contracts.md) to you.
-- There is *no* [direct meaning](goodlife.md) from having a great insurance score, credit score, or health score.
+- There is *no* [direct meaning](people-goodlife.md) from having a great insurance score, credit score, or health score.

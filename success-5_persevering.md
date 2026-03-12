@@ -3,7 +3,7 @@
 
 Failures might be discouraging, but they are completely normal:
 
-- Since failures are so frequent, a large portion of our [identity](identity.md) comes from how we respond to them.
+- Since failures are so frequent, a large portion of our [identity](people-identity.md) comes from how we respond to them.
 - You're *always* at odds with various forms of hardship and human error, and there's never a perfect scenario.
 
 Everything fails when we haven't committed ourselves to persevere:
@@ -69,7 +69,7 @@ You'll need discipline to make many calculated attempts:
 
 Foster the four types of resilience:
 
-- Depending on our [personality](personality.md), we have a tendency to overthink and withdraw from others, which is the absolute *worst* thing to do when we become discouraged.
+- Depending on our [personality](people-personality.md), we have a tendency to overthink and withdraw from others, which is the absolute *worst* thing to do when we become discouraged.
 
 1. Physical resilience (staying [productive](success-4_routine.md))
 2. Mental resilience (staying [focused and determined](purpose.md))
@@ -183,7 +183,7 @@ Instead of focusing on weaknesses, try to use your strengths to compensate for t
 
 Failures are a standard part of being human, but how we respond to them defines how they affect us.
 
-The failures that lead to success tend to move through a predictable [trend](trends.md):
+The failures that lead to success tend to move through a predictable [trend](people-trends.md):
 
 1. Uninformed Optimism: starting but not knowing what to expect.
 2. Informed Pessimism: failing enough to see the issues more clearly.
@@ -259,7 +259,7 @@ Frequently, small failures can create larger-scale issues later, so make changes
 
 We process failures through a few possible modes of thought:
 
-1. Over-identify with the failure (creates perfectionism and sabotages [identity and self-worth](identity.md)).
+1. Over-identify with the failure (creates perfectionism and sabotages [identity and self-worth](people-identity.md)).
 2. Blame circumstances or others (you won't learn or grow from it).
 3. Wallow in the experience (generates more shame and undermines self-confidence).
 4. Direct all passions to overcome the obstacle (creates success, but generates obsessive behavior).
@@ -315,14 +315,14 @@ Criticism is proof you've tried something.
 - The criticism comes from someone else finding a thing "different" and "unacceptable".
 - This means that you'll face criticism in proportion to your comparative [success](success-1_why.md) *and* failures.
   - However, your failures are necessary to fuel your successes.
-- Learn to [trust](trust.md) yourself and your experiences, as well as rely on your [faith](identity-christian.md).
+- Learn to [trust](trust.md) yourself and your experiences, as well as rely on your [faith](theology-godandman.md).
 
 ## Give yourself time to recover
 
 You *must* take time off to recover because you usually won't realize how much you're harming yourself until it's too late:
 
 - Nearly every failure is at least somewhat [traumatic](hardship-ptsd.md).
-- We tend to reap the consequences of bad [decisions](people-decisions.md) *long* after we've made them.
+- We tend to reap the consequences of bad [decisions](mind-decisions.md) *long* after we've made them.
 - Many [addictions](addiction-substances.md) come from burnout when we're trying too hard.
 - We tend to forget that we have limits in some domains (like our mind and feelings) and that we don't need to keep investing into others (like our [bodies](body-why.md) and [souls](humanity.md)).
 

@@ -4,7 +4,7 @@
 Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-children.md) [education](education.md).
 
 - The quality of a formalized education is defined by the educational quality of the teacher, divided by the class size (since they can only devote attention proportionally to your child).
-- Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](trends.md), and has profound [political consequences](politics-conservativeliberal.md).
+- Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](people-trends.md), and has profound [political consequences](politics-conservativeliberal.md).
 
 The quality of a homeschool child's education comes directly from a few sources:
 
@@ -72,7 +72,7 @@ A. The child *must* agree to homeschooling and promise to be serious about it.
 B. Homeschooled children do *not* need as much time learning as formalized education.
 
 - Generally, 30 minutes of hard, formalized education a day (preferably in the morning) is enough to cover the basic educational requirements for their current grade, with the rest of the day as reinforcement of the idea.
-- Children [learn](understanding.md) at different rates, and homeschool allows a tailored experience relative to each child's [personality](personality.md).
+- Children [learn](understanding.md) at different rates, and homeschool allows a tailored experience relative to each child's [personality](people-personality.md).
 - Give them freedom to explore and play on their own, *without* structure.
 
 C. Don't over-test or over-drill them.

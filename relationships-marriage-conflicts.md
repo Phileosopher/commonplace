@@ -30,7 +30,7 @@ Try to be correct, and ignore whether you're right.
 
 Be quick to apologize when you hurt them.
 
-- If you can't own that you've done something wrong, you may be at risk of even greater [sin](morality-sins.md) you're not aware of.
+- If you can't own that you've done something wrong, you may be at risk of even greater [sin](morality.md) you're not aware of.
 - Protect your intimacy with them.
 - Speak kindly with them, even when angry.
 

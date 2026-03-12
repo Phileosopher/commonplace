@@ -55,7 +55,7 @@ Beyond the moon's rotation, we also closely observe a seasonal shift through how
 - Fall - the earth's surface is gradually drifting away from directly facing the sun.
 - Winter - the earth is askew from directly facing the sun.
 - Spring - the earth's surface is gradually drifting toward directly facing the sun.
-- Most [plants](horticulture.md) and animals intuitively honor these shifts.
+- Most [plants](plants.md) and animals intuitively honor these shifts.
 
 ## Intercalation
 

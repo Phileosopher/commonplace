@@ -57,9 +57,9 @@ The realm of [understanding](understanding.md) various varieties of beauty is kn
 
 We have a constant need for [novelty](people-image-why.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
 
-- A [story](stories-why.md) that ends differently than we were [expecting](imagination.md).
+- A [story](stories-why.md) that ends differently than we were [expecting](people-imagination.md).
 - [Media](creations.md) in a genre we've explored, but crosses into other genres.
-- A new [friendship](people-friends-why.md) with someone who has a [personality](personality.md) similar to someone else we knew.
+- A new [friendship](people-friends-why.md) with someone who has a [personality](people-personality.md) similar to someone else we knew.
 - A climate like the one we know, but with a different [atmosphere](jobs-specialization.md) or ecosystem.
 
 Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md) creators will have an easier time [targeting](purpose.md) young people, which is how most [media](creations.md) for mass appeal is [marketed](marketing.md). The simple reason for this is that [older people](maturity.md) are harder to [please](meaning.md):
@@ -80,8 +80,8 @@ APPLICATION: When someone [desires](purpose.md) to explore a media, they can unv
 
 We see connoisseurs of beauty arise in every form of [media](creations.md), from wine-tasting to *Star Trek*. They form a [group](groups-member.md) around the subject, with its own unique [culture](people-culture.md) that includes [specific terminology](language.md) and required [recreational activities](purpose.md).
 
-However, the [leaders](groups-small.md) of that group are typically [addicts](addiction.md) of the subject, with their [identity](identity.md) closely intertwined with whatever they advance. They frequently demarcate their interest as a sign of [social status](power-types.md), usually with some implication of "only a *true* [lover of the interest] can understand the [positive attribute] of [[marginally](trends.md) popular [media](creations.md)]".
+However, the [leaders](groups-small.md) of that group are typically [addicts](addiction.md) of the subject, with their [identity](people-identity.md) closely intertwined with whatever they advance. They frequently demarcate their interest as a sign of [social status](power-types.md), usually with some implication of "only a *true* [lover of the interest] can understand the [positive attribute] of [[marginally](people-trends.md) popular [media](creations.md)]".
 
-APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories-why.md) around the thing to give it a false [reputation](people-image-why.md). Don't condemn or venerate a creation just because [everyone else](trends.md) seems to be.
+APPLICATION: The culture surrounding a creation is not the creation itself, and often builds a [story](stories-why.md) around the thing to give it a false [reputation](people-image-why.md). Don't condemn or venerate a creation just because [everyone else](people-trends.md) seems to be.
 
 They're often skillful in maintaining their [reputation](people-image-why.md) in their clan, though, so [conflicts](people-conflicts-why.md) with them are rarely worth the exchange.
