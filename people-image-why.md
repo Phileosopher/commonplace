@@ -13,9 +13,9 @@ Instead, we make an accurate enough [copy of reality](values.md) by filling in i
 For the most part, this copy is *stunningly* accurate.
 
 - It allows us to relive the experience as many times as we want.
-- We can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](people-imagination.md) operating a boat).
+- We can combine two or more experiences to fabricate a third, relatively accurate impression (e.g., someone who understands operating an automobile and has ridden in a boat can [imagine](mind-imagination.md) operating a boat).
 
-While we [trust](trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](people-imagination.md) diverges from it.
+While we [trust](mind-trust.md) this image, it's not reality, and its flaws show themselves over time when our [imagination](mind-imagination.md) diverges from it.
 
 - "C + P = E" is a reductionist view of the idea: Circumstances + Perception = Experience.
 
@@ -36,7 +36,7 @@ One complicated part of our perception comes in how things come together. In [re
 - Value - the [worth](power.md) that other people perceive that thing is to them.
 - Inspiration - the [symbolic](symbols.md) associations to other things.
 
-We pay attention heavily to novelty, so we tend to forget the familiar. [Awareness](awareness.md) of ourselves and our environment can help us [understand](understanding.md) simple things we may have forgotten, and it feeds heavily into our [creativity](mind-creativity.md).
+We pay attention heavily to novelty, so we tend to forget the familiar. [Awareness](mind-awareness.md) of ourselves and our environment can help us [understand](understanding.md) simple things we may have forgotten, and it feeds heavily into our [creativity](mind-creativity.md).
 
 APPLICATION: Since intelligent and creative people can adapt their image more than most people, they're at the highest risk of completely forgetting about [reality](reality.md).
 
@@ -44,7 +44,7 @@ Since some connection-building skill is [innate](humanity.md) and some is [train
 
 Barring low-functioning [autism](mind-neurodivergence-autism.md) or specific [traumatic events](hardship-ptsd.md), we can't easily hold all this information at once in our minds. To condense it and make the [values](values.md) more clear, we build [stories](stories-why.md) out of it with the most important information, then throw out the rest, sometimes with the source information.
 
-We build these story-images rapidly in the subconscious, so we're not fact-checking everything we've built. Further, since we're pulling from *other* stories encoded in our memories, this entire system is extremely faulty. We don't notice, though, because we automatically correct errors as soon as we re-perceive things, irrespective of prevailing facts beyond initial impressions. People usually only re-examine, however, when they aren't [sure](trust.md) what they saw or when they train themselves to have more [scientific rigor](science.md).
+We build these story-images rapidly in the subconscious, so we're not fact-checking everything we've built. Further, since we're pulling from *other* stories encoded in our memories, this entire system is extremely faulty. We don't notice, though, because we automatically correct errors as soon as we re-perceive things, irrespective of prevailing facts beyond initial impressions. People usually only re-examine, however, when they aren't [sure](mind-trust.md) what they saw or when they train themselves to have more [scientific rigor](science.md).
 
 APPLICATION: Never [trust](understanding-certainty.md) your first impression of anything.
 
@@ -56,7 +56,7 @@ We create [a bias](mind-bias.md) from our preconceived images. More images (i.e.
 
 It's humanly impossible to *not* have a bias without thinking strictly [like a computer](logic-cs.md). Mostly, this comes from how all our experiences pipe through [feelings](mind-feelings.md) before they even reach our ability to [perceive](understanding.md) them. With [humility](morality.md), we will readily add more images and offset the bias with other bias, but it never goes away, and we will always produce values that define [meaning](meaning.md) and [purpose](purpose.md).
 
-APPLICATION: Bias isn't necessarily bad. [Common sense](understanding.md) is a set of good prejudices, for example. [Professional specializations](jobs-specialization.md) allow people to judge [quality](values-quality.md) immediately without further investigation. Most [life experience](maturity.md) is literally *defining* prejudices to quickly and accurately [predict](people-imagination.md) [reality](reality.md).
+APPLICATION: Bias isn't necessarily bad. [Common sense](understanding.md) is a set of good prejudices, for example. [Professional specializations](jobs-specialization.md) allow people to judge [quality](values-quality.md) immediately without further investigation. Most [life experience](maturity.md) is literally *defining* prejudices to quickly and accurately [predict](mind-imagination.md) [reality](reality.md).
 
 Generally, you can detect bias by how much people respond with [feelings](mind-feelings.md), especially with shock and [anger](mind-feelings-anger.md). While their reaction won't indicate whether they're [right](morality-justice.md) or not, it'll show how clearly they're thinking. Since [reality](reality.md) often has gradations, their feelings may allude to how much they [understand](understanding.md), but it isn't a clear indicator.
 
@@ -67,7 +67,7 @@ We have a highly self-centered view of the universe, where we impose our [purpos
 The only time we don't use ourselves as the center is when we [develop another center instead](addiction-centers.md), and our bias is made of a few "angles" that map our meaning to various elements:
 
 - [Cultural](people-culture.md) - borrowing from our [family](people-family.md) and [values](values.md) we [identify](people-identity.md) with, where [meaning](meaning.md) is based on [social tradition](habits.md).
-- [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](people-imagination.md) others' opinions.
+- [Social](groups-member.md) - the [power](power.md) dynamics around our [status](groups-member.md) in a group, where meaning is based on how we [imagine](mind-imagination.md) others' opinions.
 - [Personal](mind-feelings.md) - subconscious actions from our [experiences](hardship-ptsd.md) and [decisions](mind-decisions.md) that create subjective sets of meaning, especially the things we [identify](people-identity.md) with.
 - [Spiritual](religion.md) - far-reaching beliefs about God, [social trends](people-trends.md) and the [continuation of ourselves](legacy.md), where our personal sense of meaning is *extremely* limited.
 
@@ -77,7 +77,7 @@ APPLICATION: Since we can't avoid bias, the only way to successfully discover [t
 
 More often than not, when we find we're wrong, we will believe a *part* of what we saw was correct and will adapt other beliefs to fit it. Slowly, as some of those things never change [over time](maturity.md), we become more [certain](understanding-certainty.md) of ourselves.
 
-APPLICATION: If everyone in a group declares something as true, it shows more about the group than whatever they're saying. Closely examine the [truth](reality.md) compared to a group's [statements](awareness.md) to find the inherent bias of a [culture](people-culture.md).
+APPLICATION: If everyone in a group declares something as true, it shows more about the group than whatever they're saying. Closely examine the [truth](reality.md) compared to a group's [statements](mind-awareness.md) to find the inherent bias of a [culture](people-culture.md).
 
 Very often, two people can have vastly different images while perceiving a similar thing. It frequently comes from our background, but the way we process [language](language.md) has a profound impact on what we remember.
 
@@ -101,7 +101,7 @@ All reputation is nothing but [sentiments](mind-feelings.md) about past events. 
 
 Because reputation is built around feelings, it's rarely [rational](logic.md). At its farthest extreme, a celebrity will make one social media remark that generates 1,500 comments, with each person feeling their single comment will [make a difference](power-influence.md).
 
-Reputations prove beforehand to others about what they should [expect](people-imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](money-insurance.md)).
+Reputations prove beforehand to others about what they should [expect](mind-imagination.md). It usually indicates what someone [has legitimately done](results.md) and implies how much they [understand](understanding.md). While a reputation is always interpersonal, a sufficiently advanced society will create a set of data-generated reputations in different domains (e.g., [credit score](money-2_debt.md), [insurance score](money-insurance.md)).
 
 The limit of [power](power.md) from a reputation is what that entire [group](groups-large.md) can provide, so most people [pursue](purpose.md) at least some reputation with others.
 
@@ -113,9 +113,9 @@ APPLICATION: Everyone who runs this world has gotten there either through knowin
 
 Because of how much [power](power.md) a reputation can give, people will [work hard](results.md) to [distort and tweak their image](people-image-distortion.md). Most people do it a little (which is essentially [lying](people-lying.md)), but some people are experts at claiming honor and redirecting shame.
 
-APPLICATION: There's a lot of power in "the enemy of my enemy is my friend". Nobody can be fully [trusted](trust.md), but everyone can be [useful](purpose.md).
+APPLICATION: There's a lot of power in "the enemy of my enemy is my friend". Nobody can be fully [trusted](mind-trust.md), but everyone can be [useful](purpose.md).
 
-When people are [skillful enough with others](people-friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](people-imagination.md) will betray their ulterior [motive](purpose.md).
+When people are [skillful enough with others](people-friends.md) or [familiar enough with someone](people-friends-why.md), it's *impossible* to hide reality from them. Since most of our actions are made of [habits](habits.md), and [feelings](mind-feelings.md) flavor our habits, any alteration to hide [reality](reality.md) from someone who knows what to [expect](mind-imagination.md) will betray their ulterior [motive](purpose.md).
 
 ### Wielding the power of reputation
 

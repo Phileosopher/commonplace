@@ -132,7 +132,7 @@ Your dream job should have a few components:
 Take as much time as you need to think and brainstorm:
 
 - Discovering a new career is a focused [creative](mind-creativity.md) effort.
-- To find what you're good at, [focus](awareness.md) on what you tend to like doing in your spare time for extended periods.
+- To find what you're good at, [focus](mind-awareness.md) on what you tend to like doing in your spare time for extended periods.
 - Ask your trustworthy friends, colleagues, and mentors their opinion.
 - [Go on a trip somewhere new](fun-vacations.md) to clear your mind.
 
@@ -216,10 +216,10 @@ Find a currently unfulfilled need by asking questions about an industry that cat
 
 - Why does this industry exist?
 - What problems could the industry have fixed?
-- What are bold [mavericks](socialrisk.md) doing in the industry?
+- What are bold [mavericks](entrepreneur-why.md) doing in the industry?
 - Who is winning in the industry?
 
-If you wish to work for yourself, [start a business](entrepreneur-1_why.md) instead of looking for a new job.
+If you wish to work for yourself, [start a business](entrepreneur-1_what.md) instead of looking for a new job.
 
 ### Get input from others
 
@@ -258,7 +258,7 @@ Create a fictional "personal mentor" to guide your career decisions:
 Turn your general sketch into a life's purpose, then work your way backward:
 
 - When you scope as far out as possible, there are only a few long-term career destinations:
-  1. Working independently, where you choose most of your life decisions (e.g., [entrepreneurship](entrepreneur-1_why.md)).
+  1. Working independently, where you choose most of your life decisions (e.g., [entrepreneurship](entrepreneur-1_what.md)).
      - This requires plenty of hard work into specific skills and planning, but gives the most freedom.
   2. Senior worker, where you have tremendous technical authority over a domain.
      - This is never executive-level, but you're getting paid to produce high-quality work you love.
@@ -325,7 +325,7 @@ Calculate the [minimum income you need](money-3_budget.md) to maintain your life
 
 Commit time and energy to the task:
 
-- Prepare ahead by [clarifying](awareness.md) and [focusing](success-2_attitude.md) on your goals.
+- Prepare ahead by [clarifying](mind-awareness.md) and [focusing](success-2_attitude.md) on your goals.
   - Devote 25 hours a week to the job change.
   - Set a specific date a few months later to reassess everything and measure your progress.
 - Expect doubt, frustration, and disappointment.
@@ -373,7 +373,7 @@ Note current trends within your desired industry:
   - If you're afraid of what may happen, shore up soft skills as a broad backup plan for anything that may arise.
 - Watch carefully for [political trends](people-trends.md) that tweak the status of the role (e.g., [unionization](groups-large.md), government [deregulation](people-rules.md)).
   - If your job is slowly unionizing, you will be paid on existing in that job, *not* on your competence.
-  - One consequence of a deregulated industry is that your pay will decrease for the same task, while [entrepreneurial opportunities](entrepreneur-1_why.md) will increase.
+  - One consequence of a deregulated industry is that your pay will decrease for the same task, while [entrepreneurial opportunities](entrepreneur-1_what.md) will increase.
 
 While a 5-year plan is nice, it's not necessary:
 

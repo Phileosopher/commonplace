@@ -361,6 +361,12 @@ Stay *much* more aware of [incoming storms](science-earth-weather.md), since nat
 
 - If the power ever *does* go out, make sure to power off everything to avoid accidentally charging a wire later when you're working on it.
 
+Consider low-voltage or non-electricity light solutions.
+
+- Adapt your lifestyle to natural lighting.
+- Consider installing more windows in any dark rooms.
+- Even when you don't have a light, a clear container with a mixture of water and chlorine bleach sealed into a wall or ceiling can illuminate a room.
+
 ## HVAC
 
 The climate of your region determines how much you will need a heat source, and how extensive.
@@ -477,4 +483,4 @@ When it's your land, you have *unlimited* freedom:
   - If you want to grow a faster forest, use a diverse range of tree types.
 - Reroute natural water systems.
 - Build new buildings on the property.
-- Operate [a business](entrepreneur-1_why.md) off the land (e.g., landfill, green waste dump, using resources, selling resources).
+- Operate [a business](entrepreneur-1_what.md) off the land (e.g., landfill, green waste dump, using resources, selling resources).

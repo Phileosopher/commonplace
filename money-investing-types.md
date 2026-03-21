@@ -140,7 +140,7 @@ Business startup (investing) - investing in someone else's [business idea](entre
 - Always review the last 3 years' Schedule C tax forms (filed with their annual 1040) and pull the balance sheet before investing.
 - Crowdfunding, specifically, rarely gives significant financial returns on your investment.
 
-Business startup (building) - building a [profitable business](entrepreneur-1_why.md):
+Business startup (building) - building a [profitable business](entrepreneur-1_what.md):
 
 - *Very* high risk (as well as lots of labor), very high returns, low/moderate taxes, low/moderate fees.
 - Pros:

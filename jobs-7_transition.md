@@ -200,4 +200,4 @@ If you're in consecutive terrible jobs, *you* might be the problem:
 - If you've quickly transitioned between at least two jobs, consider professional career counseling or psychotherapy.
 - Look at what's stopping your [success](success-1_why.md).
 
-If you're frustrated and bold enough, stop trying to work as an employee and [run your own company](entrepreneur-1_why.md).
+If you're frustrated and bold enough, stop trying to work as an employee and [run your own company](entrepreneur-1_what.md).

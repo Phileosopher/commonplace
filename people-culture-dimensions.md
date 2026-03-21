@@ -15,9 +15,9 @@ Context level - directly state vs. heavily imply:
 - High Context values implied, unstated [ideas](values.md), often in person and with fewer [words](language.md). Negative input is discouraged.
 - Low Context requires clear-mindedness, but High Context requires consideration.
 
-APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
+APPLICATION: A culture's [language](mind-awareness.md) and [beliefs](understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
 
-- Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](people-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
+- Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](mind-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
 - Europe
   - "Luxury" to the British translates as "detachment" because [sophistication](classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
   - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
@@ -34,7 +34,7 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
   - "Food" translates to "perfection".
 - USA
   - American culture is preoccupied with "[doers](results.md)" more than [thinkers](philosophy.md).
-  - "[Love](people-love.md)" translates to "false expectation" because they [idolize](addiction.md) their [romantic relationships](gender.md).
+  - "[Love](people-love.md)" translates to "false expectation" because they [idolize](addiction.md) their [romantic relationships](people-gender.md).
   - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries-why.md).
   - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
   - "[Work](results.md)" translates to "[who you are](people-identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
@@ -44,11 +44,11 @@ APPLICATION: A culture's [language](awareness.md) and [beliefs](understanding-ce
 
 Individualism/Collectivism - creating [the good life](people-goodlife.md) for oneself vs. the group:
 
-- Individualism focuses on self-interested gain (and will often take more severe [risks](socialrisk.md)).
+- Individualism focuses on self-interested gain (and will often take more severe [risks](entrepreneur-why.md)).
 - Collectivism focuses on the best interests of the group (and often creates unique values that enforce harmony).
 - Individualism requires [self-ownership](success-1_why.md), but Collectivism requires [love](people-love.md).
 
-Masculinity/Femininity - [gender](gender.md)-irrespective focus on [results](results.md) or harmony:
+Masculinity/Femininity - [gender](people-gender.md)-irrespective focus on [results](results.md) or harmony:
 
 - Masculine/Task-Based/Data-Oriented focuses on results, [information](understanding.md), and achievement.
 - Feminine/Relationship-Based/[Dialogue](people-conversation.md)-Oriented focuses on harmony, context, and coexistence.
@@ -58,7 +58,7 @@ Power Distance - how much [power](power.md) comes from [status](people-image-why
 
 - Low Power Distance/Consensual considers everyone as equal as possible. Group [decisions](mind-decisions.md) involve everyone.
 - High Power Distance/Top-Down rigidly honors a [social hierarchy](groups-large.md). Members aren't allowed to question leaders' [decisions](mind-decisions.md).
-- Low Power Distance requires [fair-mindedness](morality-justice.md), while High Power Distance requires [trust](trust.md).
+- Low Power Distance requires [fair-mindedness](morality-justice.md), while High Power Distance requires [trust](mind-trust.md).
 
 Time Flexibility - how important deadlines are:
 
@@ -66,11 +66,11 @@ Time Flexibility - how important deadlines are:
 - Flexible-Time considers time management unimportant compared to other priorities (and often more minded toward [family](people-family.md), [relationships](people-friends-why.md), and the [unknown](unknown.md)).
 - Linear-Time requires discipline, but Flexible-Time requires grace.
 
-Time Orientation - how far into the past and future to [predict](people-imagination.md) things:
+Time Orientation - how far into the past and future to [predict](mind-imagination.md) things:
 
 - Short-Term Orientation/Indulgence/Monochronic focuses on the present and near future.
 - Long-Term Orientation/Restraint/Polychronic focuses on the far future and past (often with more [changes](people-changes.md)).
-- Short-Term requires [awareness](awareness.md) of present [feelings](mind-feelings.md) and [impressions](people-image-why.md), but Long-Term requires [careful planning](success-3_goals.md) and restraint.
+- Short-Term requires [awareness](mind-awareness.md) of present [feelings](mind-feelings.md) and [impressions](people-image-why.md), but Long-Term requires [careful planning](success-3_goals.md) and restraint.
 
 Thought Mode - consider things with principles or applications:
 
@@ -84,10 +84,10 @@ Uncertainty Avoidance - the value of finding [certainty](understanding-certainty
 - High Uncertainty Avoidance will tenaciously [seek](purpose.md) answers.
 - Low Uncertainty Avoidance requires patience, but High Uncertainty Avoidance requires perseverance.
 
-Risk Tolerance - capacity to endure [social risks](socialrisk.md):
+Risk Tolerance - capacity to endure [social risks](entrepreneur-why.md):
 
 - Low Risk Tolerance calculates decisions based on [past events](hardship-ptsd.md).
-- High Risk Tolerance calculates decisions based on [influence](influence.md) and [imagination](people-imagination.md).
+- High Risk Tolerance calculates decisions based on [influence](influence.md) and [imagination](mind-imagination.md).
 - Low Risk Tolerance maintains [healthy traditions](habits.md), but High Risk Tolerance adopts [trends](people-trends.md) well.
 
 Clearly, these are not exclusive dimensions. It's difficult to measure something based on a [group's](groups-small.md) [feelings](mind-feelings.md). However, there is a broad range called the [Overton window](politics-conservativeliberal.md) that clarifies the range everyone will accept [changes](people-changes.md).
@@ -102,7 +102,7 @@ APPLICATION: Each cultural value builds specific life skills:
 - Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-friends.md).
 - Indulgent people understand [happiness](mind-feelings-happiness.md), while Restrained people understand [sacrifice](purpose.md).
 - Principles-First people [get more things done](results.md), but Applications-First people [understand things better](understanding.md).
-- Low Uncertainty Avoidance people are [at peace](trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
+- Low Uncertainty Avoidance people are [at peace](mind-trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
 - Low Risk Tolerance people maintain a [strong community](groups-small.md), and High Risk Tolerance people withstand [changes](people-changes.md) better.
 
 APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-boundaries-why.md):

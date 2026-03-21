@@ -5,7 +5,7 @@ Every game is a type of [story](stories-why.md) with a few components:
 
 1. A setup where everyone has a limited amount of at least some [resources](power-types.md) and must honor some [rules](people-rules.md).
 2. Everyone has a definite purpose, or "win conditions" that provide a reward or prevent a risk, though they may not always be the same. Those [purposes](purpose.md) are usually against other players' purposes, directly or indirectly.
-3. Each person has to make decisions that [anticipate what could happen](people-imagination.md) and consider others' decisions [in light of theirs](people-image-why.md).
+3. Each person has to make decisions that [anticipate what could happen](mind-imagination.md) and consider others' decisions [in light of theirs](people-image-why.md).
 4. At the end of the game, each person either wins or loses immediately, without much waiting to find out.
 
 Games start from childhood. Typically, they're simplified games that recreate [real life](reality.md). Most people [outgrow](maturity.md) this, but some will convert it into careers in [performance arts](creations.md).
@@ -21,7 +21,7 @@ Beyond sports, board games, and video games, *most* life is a game, with a few d
 
 To recreate [reality](reality.md) while not precisely reproducing the most unpleasant parts of it, games adapt reality along a few dimensions:
 
-- Luck: Reality has many elements that are completely random, but games tend to distill the luck down to specific [predictable](people-imagination.md) actions like a die roll or card draw. Casino games like roulette and craps do this the least.
+- Luck: Reality has many elements that are completely random, but games tend to distill the luck down to specific [predictable](mind-imagination.md) actions like a die roll or card draw. Casino games like roulette and craps do this the least.
 - Challenge: Reality requires hundreds of hours of tedious practice, but games make simpler and easier challenges. Skill games like sports and strategy games do this the least.
 - Immersion: Reality requires prolonged exposure and research, but games limit the involvement to understanding the rules and lore of the game's [backstory](stories-why.md). Role-playing games and simulators do this the least.
 

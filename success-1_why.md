@@ -139,7 +139,7 @@ For most of us, our success will start with smaller goals:
 - Remove bad [habits](habits.md) you're aware of (which are likely your worst traits)
   - Stop something you don't like in yourself
 - Mental clarity
-  - [Find peace](awareness-meditation.md) with the fleeting nature of reality
+  - [Find peace](mind-awareness-meditation.md) with the fleeting nature of reality
   - Live and act in the present
   - Stay patient, in every form
   - Keep everything [organized](organization.md)

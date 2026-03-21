@@ -52,14 +52,14 @@ We only win the battle against the Satan when we fully submit our minds to Chris
 
 - The Holy Spirit brings correct, healthy thoughts into your mind through Scripture and other believers.
 - [Meditating on Scripture](bible-study.md) improves our ability to associate positive thoughts.
-- As little as [fifteen minutes a day](spiritual-exercises.md) of daily [prayer](spiritual-exercises-prayer.md) and [meditation with God](awareness.md) will calm your mind.
+- As little as [fifteen minutes a day](spiritual-exercises.md) of daily [prayer](spiritual-exercises-prayer.md) and [meditation with God](mind-awareness.md) will calm your mind.
 
 ## The Satan is *extremely* efficient with his resources
 
 His strategy directly attacks Christians and the Church from many angles:
 
 - The Satan's [lies](people-lying.md) tend to exploit the fact that we can't always be [certain](understanding-certainty.md) about many things.
-- He typically erodes our [trust](trust.md) in good things.
+- He typically erodes our [trust](mind-trust.md) in good things.
 - He'll also make us prefer to trust [evil things](morality-evil.md) more often.
 
 Before anything else, the Satan traps people with their sins and idols:
@@ -136,7 +136,7 @@ C. Closely consider how the Satan is attacking:
   - Suicidal thoughts, often accompanied by attempting it.
 - Supernatural behavior:
   - Drug abuse (since most recreational drugs have a spiritual connection).
-  - Psychic power (the Satan has access to every [physically proven fact](reality.md), including information we [imagine](people-imagination.md) is private).
+  - Psychic power (the Satan has access to every [physically proven fact](reality.md), including information we [imagine](mind-imagination.md) is private).
   - Extreme strength or [power](power-types.md), including the ability to [influence](power-influence.md) (where demons can directly manipulate the environment through the person).
 - Irritation during [prayer](spiritual-exercises-prayer.md), [Bible reading](bible-study.md), [worshiping](church.md) or [preaching](mgmt-church.md):
   - The most apparent sign is when that person reacted from a place they couldn't have observed that person's experience.

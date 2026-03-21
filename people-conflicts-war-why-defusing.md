@@ -30,7 +30,7 @@ Destroying key components of a larger group can delay or nullify that group's [p
 - Redirect and reroute resources toward the subverting group's [purposes](purpose.md). This can involve redirecting physical things (e.g., raw materials) or mental things (e.g., information).
 - Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](mind-decisions.md) ability.
 
-If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](socialrisk.md) against their [authorities](power.md) to start the [trend](people-trends.md).
+If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](entrepreneur-why.md) against their [authorities](power.md) to start the [trend](people-trends.md).
 
 ## Demonstrating
 

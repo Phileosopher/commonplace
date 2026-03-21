@@ -11,12 +11,12 @@ We connect ourselves with a group because we [believe](understanding-certainty.m
 - We can experiment with actions and [understand](understanding.md) how to behave in response.
 - We'll feel [important](meaning.md) as we contribute to the group's maintenance.
 
-APPLICATION: Associating with a group that doesn't reflect any of your [values](purpose.md) is a waste of time because you're investing in something you don't stand for. If you don't [expect](people-imagination.md) you *will* [change](people-changes.md) to match the group's [culture](people-culture.md), you're better off finding a group somewhere else or [making your own](groups-small.md). The worst-case (and likely) possibility if you don't leave is that the group will mold you into a jaded shell of what you were.
+APPLICATION: Associating with a group that doesn't reflect any of your [values](purpose.md) is a waste of time because you're investing in something you don't stand for. If you don't [expect](mind-imagination.md) you *will* [change](people-changes.md) to match the group's [culture](people-culture.md), you're better off finding a group somewhere else or [making your own](groups-small.md). The worst-case (and likely) possibility if you don't leave is that the group will mold you into a jaded shell of what you were.
 
 In exchange, the requirements are perfectly reasonable to us:
 
 - Obey the [rules](people-rules.md).
-- [Trust](trust.md) everyone to do what they're [supposed](people-imagination.md) to.
+- [Trust](mind-trust.md) everyone to do what they're [supposed](mind-imagination.md) to.
 - Contribute (at least somewhat) to the interests of others in the group.
 
 ## Finding groups
@@ -45,9 +45,9 @@ APPLICATION: Each group we [choose](mind-decisions.md) has an opportunity cost:
 - If we're not associated with a group we're unsupported but have unlimited freedom to choose a group, but associating with a group gives us [power](power.md) and frequently comes with implications to outsiders.
 - We must sacrifice some [personal values](understanding-certainty.md) to join a group.
 - Whatever [habits](habits.md) we had *before* we entered the group play a significant role in how much [favor](people-friends-why.md) we can draw from the [leadership](groups-small.md).
-- The [leaders](groups-small.md) *will* [expect](people-imagination.md) you to conform to their [values](purpose.md), whatever those values are. The higher your [influence](influence.md) in the group, the more expectations.
+- The [leaders](groups-small.md) *will* [expect](mind-imagination.md) you to conform to their [values](purpose.md), whatever those values are. The higher your [influence](influence.md) in the group, the more expectations.
 
-Typically, most group members [trust](trust.md) their [leaders](groups-small.md). Instead of [understanding](understanding.md) things for themselves, it's less work to let the leaders understand things and tell them what to [do](results.md).
+Typically, most group members [trust](mind-trust.md) their [leaders](groups-small.md). Instead of [understanding](understanding.md) things for themselves, it's less work to let the leaders understand things and tell them what to [do](results.md).
 
 Very frequently, we'll start seeing the outside of that group as a non-thing. It may or may not exist, but we'll be so engaged *inside* our group that we'll completely forget the group is linked to many, many other groups through the associations of the people in it.
 
@@ -59,11 +59,11 @@ A group defines much of our [environment](reality.md) for us. Thus, social group
 
 APPLICATION: Join large groups to [learn](understanding.md), especially from the [elderly](understanding.md) in that group, or join as a high-rank member to [influence](influence.md). But, never join a [large group](groups-large.md) to influence anyone, since [small groups](groups-small.md) yield better [results](results.md), and they'll eventually become a large group if you're [succeeding correctly](groups-small.md).
 
-By existing in a group long enough, our [purposes](purpose.md) [change](people-changes.md). As we grow to [trust](trust.md) the group, we associate more [future purposes](people-imagination.md) to it.
+By existing in a group long enough, our [purposes](purpose.md) [change](people-changes.md). As we grow to [trust](mind-trust.md) the group, we associate more [future purposes](mind-imagination.md) to it.
 
 APPLICATION: We must stay vigilant to the influence our groups have upon us. Most people imagine their thoughts to be self-determined, but that is almost completely false, since their [decisions](mind-decisions.md) are a reactive consequence of the group they're in.
 
-We continue thinking of the group as our source of [meaning](meaning.md) and [purpose](purpose.md), until it fails our [expectations](people-imagination.md). While *everyone* will have their own [inner conflict](people-conflicts-inner.md) about a leader doing something [scandalous](morality-taboo.md), each group member is constantly wrestling with [their individual changes](people-changes.md) and how they'll conform those changes to match their [reputation](people-image-why.md) in that group.
+We continue thinking of the group as our source of [meaning](meaning.md) and [purpose](purpose.md), until it fails our [expectations](mind-imagination.md). While *everyone* will have their own [inner conflict](people-conflicts-inner.md) about a leader doing something [scandalous](morality-taboo.md), each group member is constantly wrestling with [their individual changes](people-changes.md) and how they'll conform those changes to match their [reputation](people-image-why.md) in that group.
 
 The only way people continue indefinitely in a group is if the members see the group's [actions](results.md) as always [loving](people-love.md) or [virtuous](morality.md). Otherwise, members only stay in the group as long as they can advance self-interested [opportunities](purpose.md) or are scoping out a new group elsewhere to eventually go to.
 
@@ -74,14 +74,14 @@ When most of the group's members can no longer see [love](people-love.md) or [vi
 We tend to conform our lifestyles to match the group's to the degree we [identify](people-identity.md) with that group and [like](people-friends-why.md) the other members we're around:
 
 1. We find [meaning](meaning.md) and [purpose](purpose.md) in that conformity because it reflects how we see the group's [identity](people-identity.md).
-2. We're trying to [adapt](people-changes.md) to the standards we think will [influence](influence.md) the other members the most, which means we [value](purpose.md) what we think the group values and do what the group [expects](people-imagination.md).
-3. We [anticipate](people-imagination.md) future purposes will also work best if we conform to those standards.
+2. We're trying to [adapt](people-changes.md) to the standards we think will [influence](influence.md) the other members the most, which means we [value](purpose.md) what we think the group values and do what the group [expects](mind-imagination.md).
+3. We [anticipate](mind-imagination.md) future purposes will also work best if we conform to those standards.
 
 APPLICATION: Most group membership takes [work](purpose.md), though that work may be worth it. If that group isn't yielding anything worth the work, however, it's a waste of [resources](power.md) to maintain any [status](people-image-why.md) or [affiliation](people-identity.md) with it.
 
-The amount the group [expects](people-imagination.md) us to conform is proportional to its size. [Large groups](groups-large.md) expect near-total submission, while small groups have far fewer expectations. The [conflict](people-conflicts-why.md) between the individuals and the leadership defines a *massive* portion of its [culture](people-culture.md).
+The amount the group [expects](mind-imagination.md) us to conform is proportional to its size. [Large groups](groups-large.md) expect near-total submission, while small groups have far fewer expectations. The [conflict](people-conflicts-why.md) between the individuals and the leadership defines a *massive* portion of its [culture](people-culture.md).
 
-While we conform, we tend to believe social [rules](people-rules.md) are the [reality](reality.md) itself around us. However, they're simply everyone's shared [imagination](people-imagination.md).
+While we conform, we tend to believe social [rules](people-rules.md) are the [reality](reality.md) itself around us. However, they're simply everyone's shared [imagination](mind-imagination.md).
 
 We tend to behave differently when we know others are observing us, often proportionally to how *much* we feel observed. However, addressing any lack of leadership integrity inside a group will usually make the leaders more shrewd than legitimately address the problem, typically proportionally to how much [power](power.md) the leaders have compared to the [dissenting](people-conflicts-why.md) member.
 
@@ -91,9 +91,9 @@ Frequently, to maintain our [power](power.md) in the group, we'll [state](langua
 
 In [larger groups](groups-large.md), since we're not familiar with everyone, we'll become *much* more obsessed about our [image](people-image-why.md), across several possible approaches:
 
-1. Keep a *very* polished [image](people-image-why.md) except with highly [trustworthy](trust.md), close [friends](people-friends-why.md), which is its own [small group](groups-small.md).
+1. Keep a *very* polished [image](people-image-why.md) except with highly [trustworthy](mind-trust.md), close [friends](people-friends-why.md), which is its own [small group](groups-small.md).
 2. Stay authentic with everyone and fiercely abide by [virtue](morality.md), frequently at the risk of stifled advancement or [rejection](morality-taboo.md) by the group.
-3. Keep a rigidly enforced, elaborate system of [trust](trust.md), which is what most people do inside a group.
+3. Keep a rigidly enforced, elaborate system of [trust](mind-trust.md), which is what most people do inside a group.
 
 Unfortunately, we can overwork our [image](people-image-why.md) beyond what's [healthy](people-goodlife.md) instead of pursuing better options. We often [fear](mind-feelings-fear.md) the [unknown](unknown.md) outside the group as if it consisted of zero available possible opportunities for our [purposes](purpose.md). Other times, we're [working](results.md) so tenaciously to maintain or build [power](power.md) that we forget what we [want](purpose.md)!
 
@@ -104,7 +104,7 @@ In most groups, there is an [obsessive](addiction.md) minority of that group who
 In a [group](groups-member.md), a person's influence is a [social trend](people-trends.md):
 
 1. People close to that person accept/adopt the person and the things they [identify](people-identity.md) with, then [add them to the group](groups-member.md).
-2. It moves outward from that one person as other people [trust](trust.md) the new people who trusted that person in the first place.
+2. It moves outward from that one person as other people [trust](mind-trust.md) the new people who trusted that person in the first place.
 3. It reaches the majority, where that person is now [leading that group](groups-small.md).
 4. [The group grows](groups-large.md) under that person's guidance, or that person eventually fades from importance as another person is accepted.
 

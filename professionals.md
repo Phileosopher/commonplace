@@ -3,7 +3,7 @@
 
 Like it or not, there are too many [specializations](jobs-specialization.md) in modern society to understand *all* of them.
 
-For that reason, we must [trust](trust.md) other people to render necessary services for things we need.
+For that reason, we must [trust](mind-trust.md) other people to render necessary services for things we need.
 
 - An adequate service provider will probably do more business in that domain in a week or month than you'll do in your *life*.
 - They're aware of more dumb details, industry standards, and what to *not* do than you ever could from your position.
@@ -96,7 +96,7 @@ Accountant/tax preparer (CPA certified, or Certified Public Accountant):
 
 - A lousy accountant/tax preparer will cost you thousands in missed tax benefits or a discrepant audit.
 - Choose an accountant and a tax preparer in a reputable firm.
-- Make sure they match the niche you need (e.g., estate taxes, [small business](entrepreneur-1_why.md)).
+- Make sure they match the niche you need (e.g., estate taxes, [small business](entrepreneur-1_what.md)).
 - Before you go to your tax preparer, research what you can claim, and only claim deductions/credits they *know* you qualify for.
 - Try to prepare taxes off-season (February and March) to schedule appointments more easily and give time to get missed paperwork.
 - Report *all* income and activities, including stock sales and gambling winnings.
@@ -111,7 +111,7 @@ Attorney (Must have passed the bar exam):
   - Animal law (if you [raise livestock](livestock.md))
   - Banking and finance law (if you're working with [large amounts of money](money-investing.md))
   - Bankruptcy law (if you have [too much debt](money-2_debt.md))
-  - Business law (if you're an [entrepreneur](entrepreneur-1_why.md))
+  - Business law (if you're an [entrepreneur](entrepreneur-1_what.md))
   - Civil rights law (if you're facing [significant political hardship](hardship-persecution.md))
   - Corporate law (for large-group [managers](mgmt-1_why.md))
   - Criminal law (for [legal issues](legal-safety.md))

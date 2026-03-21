@@ -42,7 +42,7 @@ Satisfied/Satisfaction - nothing needs to be done
 Accepted - people like you
 
 - Fulfilled - you have what you need
-- Grounded - something is worth [trusting](trust.md)
+- Grounded - something is worth [trusting](mind-trust.md)
 - Respected - people value what you do
 - Valued - people value who you are
 

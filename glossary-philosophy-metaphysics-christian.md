@@ -78,7 +78,7 @@ The very real nature of [sin](theology-sins.md) and our implicit need for a Savi
 
 **Eternalism** is certainly *partly* true, at least with reference to God. Our beliefs about what God knows and how long He has known it will affect how far it goes.
 
-**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](understanding.md) and the future is simply [imagination](people-imagination.md).
+**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](understanding.md) and the future is simply [imagination](mind-imagination.md).
 
 ### The Verdict
 

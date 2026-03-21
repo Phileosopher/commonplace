@@ -1,13 +1,13 @@
 
 # How and why friendships work
 
-It's a [human universal](humanity-universals.md) that we need someone to implicitly [trust](trust.md).
+It's a [human universal](humanity-universals.md) that we need someone to implicitly [trust](mind-trust.md).
 
 Broadly, favor is when a person like someone else, and it's usually for a clear and specific [reason](purpose.md). A friendship is when two people [like each other](people-friends.md), or at least [perceive](people-image-why.md) it to be that way, in a way that transcends anything particularly reasonable.
 
-Friendships aren't *always* a two-way experience, but a person can only have a friend if they [expect](people-imagination.md) it's two-way.
+Friendships aren't *always* a two-way experience, but a person can only have a friend if they [expect](mind-imagination.md) it's two-way.
 
-As human beings, we [crave](purpose.md) positive interaction with other humans, but we don't always experience it. Often, during our [upbringing](people-family.md), many people [conclude](logic.md) they can't easily interact with other people and adapt to that [expectation](people-imagination.md). When taken far enough, people develop antisocial mental disorders.
+As human beings, we [crave](purpose.md) positive interaction with other humans, but we don't always experience it. Often, during our [upbringing](people-family.md), many people [conclude](logic.md) they can't easily interact with other people and adapt to that [expectation](mind-imagination.md). When taken far enough, people develop antisocial mental disorders.
 
 If we're particularly lonely, we can frequently have an intimate friend-like connection with animals, objects, [ideas](values.md), or even the idea *of* someone as our friend.
 
@@ -23,10 +23,10 @@ Friendships are grounded on common [interests](purpose.md), [identity](people-id
 - [Philosophical views](philosophy.md)
 - Shared friendships with a third person
 - Mutual hatred of a third person or a [group](groups-member.md)
-- Potential future purposes, such as a [business venture](socialrisk.md) or [sale](marketing.md)
+- Potential future purposes, such as a [business venture](entrepreneur-why.md) or [sale](marketing.md)
 - Shared [personality](people-personality.md)
 
-Our shared *[interpretation](people-imagination.md)* of an experience (and how we [feel](mind-feelings.md) about it) is a far clearer determination of a likely friendship than simply a shared experience:
+Our shared *[interpretation](mind-imagination.md)* of an experience (and how we [feel](mind-feelings.md) about it) is a far clearer determination of a likely friendship than simply a shared experience:
 
 - Two people who were former military won't bond nearly as much as two people recovering from [trauma](hardship-ptsd.md) in the same way, irrespective of military.
 - An [accountant](money-accounting.md) and an [insurance](money-insurance.md) agent who love their job will find more friendship than two accountants with different opinions about their work.
@@ -52,13 +52,13 @@ It takes about 34 minutes before we've [decided](mind-decisions.md) if we want t
 
 We start a friendship when we've communicated a [value](values.md) the other person agrees with. The other person doesn't have to [identify](people-identity.md) with it, but they must [believe](understanding-certainty.md) it.
 
-We frequently form our beliefs from the [purposes](purpose.md) we've recently aspired to or [wish](people-imagination.md) to do soon, so we tend to find friends around our same state of [maturity](maturity.md) and [success](results.md).
+We frequently form our beliefs from the [purposes](purpose.md) we've recently aspired to or [wish](mind-imagination.md) to do soon, so we tend to find friends around our same state of [maturity](maturity.md) and [success](results.md).
 
 As we [change](people-changes.md), our friendships will change as well. Unless our friends are changing at the same speed as us, we'll slowly drift away from them. Either we'll leave them behind or they'll leave *us* behind. We can also sometimes cut down on our friendships simply because we got [bored](purpose.md) with them.
 
 APPLICATION: Unless we're *really* close to a friend, leaving a [group](groups-small.md) we share with that friend will also harm that friendship.
 
-We tend to build [trust](trust.md) with our friends, which is often connected with the [groups](groups-member.md) we share with them. That trust creates a profound [influence](influence.md) that affects our large-scale beliefs in many unseen ways. Our [identity](people-identity.md) is frequently intertwined with our friendships.
+We tend to build [trust](mind-trust.md) with our friends, which is often connected with the [groups](groups-member.md) we share with them. That trust creates a profound [influence](influence.md) that affects our large-scale beliefs in many unseen ways. Our [identity](people-identity.md) is frequently intertwined with our friendships.
 
 Given enough time, the friendship between two people can create an exclusive [culture](people-culture.md), with unique [language](language.md), [customs](habits.md), and [beliefs](understanding-certainty.md). If those two people either [have children](people-family.md) or draw in new people, they've created a [small society](groups-small.md).
 
@@ -73,13 +73,13 @@ Our attachment isn't always straightforward, either:
 - Ideally, friends can feel [secure](safety.md) with each other, where they feel accepted by the other person (Secure).
 - However, that can violate the other person's [boundaries](people-boundaries-why.md) if they're [obsessed](addiction.md) too much with that other person (Preoccupied, or Anxious in [children](maturity.md)).
 - They may be disinterested in the relationship altogether, but find mutual gain in the connection (Dismissive, or Avoidant in children).
-- They could be [afraid](mind-feelings-fear.md) of commitment, but also afraid of losing a connection with that person, making them *very* [unpredictable](people-imagination.md) (Fearful).
+- They could be [afraid](mind-feelings-fear.md) of commitment, but also afraid of losing a connection with that person, making them *very* [unpredictable](mind-imagination.md) (Fearful).
 
 APPLICATION: If there are two friends with an unequal [power](power.md) dynamic (wealth difference, [age](maturity.md) difference, difference of [religious](religion.md) beliefs, etc.) the friend with more power will [influence](influence.md) the weaker. It may take a few years, but that weaker person will start looking a lot like their stronger friend.
 
 ## Gender and friendship
 
-The best form of friendship comes through [marriage](relationships-marriage.md) between both [genders](gender.md). This is for several reasons beyond any [religious](religion.md) or [cultural](people-culture.md) basis:
+The best form of friendship comes through [marriage](relationships-marriage.md) between both [genders](people-gender.md). This is for several reasons beyond any [religious](religion.md) or [cultural](people-culture.md) basis:
 
 - Both genders have dramatically differing forms of [reasoning](logic.md), so they [see entirely different things](people-image-why.md).
 - Since both genders are uniquely different, there's *always* things to learn from the other gender, so it never gets [boring](purpose.md).

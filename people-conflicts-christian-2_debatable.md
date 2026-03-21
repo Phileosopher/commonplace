@@ -74,7 +74,7 @@ How long God's "days" were to create the universe in [Genesis 1](https://biblehu
   - They must explain how a man names all the animals, gets lonely, falls asleep, and meets a woman after waking up in one day ([Genesis 2:4-25](https://biblehub.com/genesis/2.htm)).
   - Their values also must go against atheistic science (indicated near the bottom of this page).
 - Old Earth Creationism/Theistic Evolution - God used evolution across millions of years to [design](creations.md) nature.
-  - A middle point between creationism and [evolutionary theory](science-life.md): God still created everything, but over a period of time reflecting science cults' [projections](people-imagination.md) (see below).
+  - A middle point between creationism and [evolutionary theory](science-life.md): God still created everything, but over a period of time reflecting science cults' [projections](mind-imagination.md) (see below).
   - Indicating that God can instantly create something out of nothing, then constraining it to require millions or billions of years is a bit silly (e.g., [Omphalos Hypothesis](philosophy-paradoxes.md)).
   - "Gap theory" is an in-between compromise, where God created everything as-is, but that the earth is still millions of years old after that creation.
 - One simple compromise is "day-age creationism", where the days were symbolically longer periods of time (up to millions of years), similar to how [prophecies](theology-end.md) are interpreted.
@@ -100,7 +100,7 @@ Specific Bible translations having more authority:
 - Most proponents advance the King James Version (written in Shakespeare's time) or the New World Translation (written by the Jehovah's Witnesses cult).
 - The only "true" [Bible reading](theology-bible.md) is in the original ancient Greek (both Majority *and* Minority Texts), Hebrew, and Aramaic, with a full historical context of the [culture](people-culture.md) of the time.
   - The spirit of the text is typically the same in almost any translated Bible, but [language](language.md) and [cultural](people-culture.md) barriers will *always* diminish some [emotional](mind-feelings.md) impact of specific words or phrases.
-- While Christians don't frequently talk about it, the Bible's authorship requires a few extra degrees of [trust](trust.md):
+- While Christians don't frequently talk about it, the Bible's authorship requires a few extra degrees of [trust](mind-trust.md):
   1. God inspired people in their language and time to write the Bible, likely as standard [creative inspiration](mind-creativity.md) in the flow of writing something [useful](purpose.md) for someone else (i.e., they were conscious the whole time even while God acted).
   2. The texts were copied faithfully, without any permutations, by other Jews/Christians across centuries.
   3. The texts were [canonized faithfully](history-church.md), without any omitted books, by Christian leadership.
@@ -149,7 +149,7 @@ Contemplative Prayer - Practicing a multi-stage [prayer](spiritual-exercises-pra
   2. Sit still and listen for direct guidance from God.
   3. Feel God's presence.
 - It's not overtly *wrong*, but there's nothing in the Bible to indicate its validity.
-  - Further, while it can theoretically create peace through [standard meditation practices](awareness.md), it incorporates an aspect of mysticism that's highly subjective.
+  - Further, while it can theoretically create peace through [standard meditation practices](mind-awareness.md), it incorporates an aspect of mysticism that's highly subjective.
 
 Some Christians (mostly Catholics) believe we can pray to saints who came before us for their support:
 

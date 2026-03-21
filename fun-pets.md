@@ -74,7 +74,7 @@ Depending on the animal, you can typically make pet food from [your leftovers](c
 
 Most instincts are either built-in genetic habits or conditioning:
 
-- An animal has a rudimentary version of our [habits](habits.md), but with no [self-awareness](awareness.md) to reprogram them.
+- An animal has a rudimentary version of our [habits](habits.md), but with no [self-awareness](mind-awareness.md) to reprogram them.
 - You can usually train *any* animal to perform tricks if you're patient enough.
 - Working with most social animals (e.g., dogs, rats) is basic [child psychology](parenting-children.md).
   - Set and vigorously enforce clear boundaries.

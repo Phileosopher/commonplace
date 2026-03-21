@@ -14,7 +14,7 @@ If you simply can't know, release everything about it:
 
 - Find peace in the domain of the "known", and give up the "unknown".
 - This becomes more difficult in proportion to how much we want to [plan](success-3_goals.md) the future.
-- Generally, we suffer [the unknown](unknown.md) in proportion to our capacity for [imagination](people-imagination.md).
+- Generally, we suffer [the unknown](unknown.md) in proportion to our capacity for [imagination](mind-imagination.md).
 
 Since you can't do anything about the pending situation, focus on the present:
 
@@ -22,7 +22,7 @@ Since you can't do anything about the pending situation, focus on the present:
 
 Only focus on what you can do anything about.
 
-- As much as you can, try to [plan](success-3_goals.md) for the worst-case situation and [hope](trust.md) for the best.
+- As much as you can, try to [plan](success-3_goals.md) for the worst-case situation and [hope](mind-trust.md) for the best.
 
 In many ways, live out the Serenity Prayer:
 

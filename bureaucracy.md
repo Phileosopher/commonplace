@@ -183,7 +183,7 @@ Large organizations feel so monolithic that we forget that workers have [familie
 Whenever possible, try to connect with them:
 
 - Tell a joke if it's appropriate, and it preferably should be at your expense to be safe.
-- [Make small talk](language-speaking.md) or give them a [gender-neutral](gender.md) compliment.
+- [Make small talk](language-speaking.md) or give them a [gender-neutral](people-gender.md) compliment.
 - If you can observe a common interest, share it with them.
 - Avoid talking poorly about the organization or what you dislike.
 

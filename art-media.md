@@ -176,7 +176,7 @@ Stage: precise capture of a story in real-time
 Homemaking: using crafts and storytelling to deliver a visual aesthetic
 
 - Crafts + Storytelling
-- The ideal role for [women](gender.md) who are in touch with their [feelings](mind-feelings.md), though [feminism](politics-leftism.md) sabotages this domain.
+- The ideal role for [women](people-gender.md) who are in touch with their [feelings](mind-feelings.md), though [feminism](politics-leftism.md) sabotages this domain.
 
 ## Level 6 - Recording of Collaborative/Composite Expression
 

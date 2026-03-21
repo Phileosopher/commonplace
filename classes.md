@@ -15,11 +15,11 @@ We typically inherit our social class from our [family](people-family.md). While
 
 ## Divisions
 
-Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war-why.md).
+Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](people-gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war-why.md).
 
 APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 
-Depending on the definition of each class and [economic freedoms](money-economics.md) of the group, there's a "soft" [statistical](people-imagination.md) range of three major classes:
+Depending on the definition of each class and [economic freedoms](money-economics.md) of the group, there's a "soft" [statistical](mind-imagination.md) range of three major classes:
 
 1. Underclass - 40-94%
 2. Middle class - 5-50%
@@ -44,11 +44,11 @@ As they encounter [power](power.md), they have very little experience or [wisdom
 Generally, in a [large group](groups-large.md), the lower class is too preoccupied with surviving to concern themselves with the other groups.
 
 - When the penalty for any [crime](legal-crimes.md) is merely paying money, that law only exists for the underclass.
-- However, they do [imagine](people-imagination.md) it's not particularly [fair](morality-justice.md) that they don't have as much power as the other groups.
+- However, they do [imagine](mind-imagination.md) it's not particularly [fair](morality-justice.md) that they don't have as much power as the other groups.
 
 Parents of the lower class tend to raise their children to not ask questions that could get them in trouble, as well as teach them how to avoid suffering the worst of the [rules](people-rules.md) that would absolutely decimate them.
 
-Thus, barring a [virtuous](morality.md) belief against it or the unlikely person willing to [take on risks to change the situation](socialrisk.md), they have a vague [desire](purpose.md) for equality and for the rest of the [group](groups-large.md) to meet their needs.
+Thus, barring a [virtuous](morality.md) belief against it or the unlikely person willing to [take on risks to change the situation](entrepreneur-why.md), they have a vague [desire](purpose.md) for equality and for the rest of the [group](groups-large.md) to meet their needs.
 
 ### Middle class
 
@@ -66,7 +66,7 @@ Parents of the middle class tend to raise their children to out-succeed them and
 
 Except for [love](people-love.md) towards other people, they're not that concerned with the lower class, and many of them are too busy conforming to the [cultural requirements](people-culture.md) for climbing the social ladder to care about too much else.
 
-The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](people-imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](mind-decisions.md) that steer society at large.
+The middle class has always been a large-scale stabilizer for [society at large](groups-large.md). The upper class is so wealthy that most of their effort is toward [power games](power-types.md), and the underclass is poor enough that their concern for day-to-day activities prevents their ability to [plan for the future](mind-imagination.md). The middle class has enough [forms of power](power-types.md) available that they can make [decisions](mind-decisions.md) that steer society at large.
 
 APPLICATION: The underclass requires an [attainable means to survive](hardship-poverty.md). But, beyond that, provoking the poor to be motivated to become independently middle-class is *far* more effective at fixing their mindset (and builds *much* more [meaning](meaning.md)) than giving more things to the poor beyond the basics.
 
@@ -128,13 +128,13 @@ Because of how people use power in each class, migrating between them often requ
 
 Beyond the standard cultural adaptations like specific [language](language.md) and [rituals](people-culture.md), there are a few others.
 
-Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](people-imagination.md) their social status typically expresses itself in how people react to it.
+Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](mind-imagination.md) their social status typically expresses itself in how people react to it.
 
 Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends-why.md) with others. The person must make [wise](understanding.md) [decisions](mind-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
 When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-boundaries.md) and make more [friends](people-friends-why.md).
 
-Because of the difficulty of transitioning upward in social classes, most people don't succeed at it. They often hit a "glass ceiling" at the top of their class. Sometimes, if they're willing to take [social risks](socialrisk.md) that backfire tremendously, they'll go *down* a social class!
+Because of the difficulty of transitioning upward in social classes, most people don't succeed at it. They often hit a "glass ceiling" at the top of their class. Sometimes, if they're willing to take [social risks](entrepreneur-why.md) that backfire tremendously, they'll go *down* a social class!
 
 Most people moving *down* a social class are permanent outsiders because they don't have the [intuition](mind-feelings.md) and [creativity](mind-creativity.md) the lower classes had to develop to survive.
 
@@ -147,8 +147,8 @@ APPLICATION: The healthiest society is where individuals in the classes constant
 There is an endless conflict over power between the classes:
 
 - The upper class wants to keep their power.
-- The middle class wants to become the upper class, and will often be ready to make [dramatic social risks](socialrisk.md) to that end.
-- The underclass is concerned with survival, but would like a chance to become at least the middle class, but often without the [required risks](socialrisk.md).
+- The middle class wants to become the upper class, and will often be ready to make [dramatic social risks](entrepreneur-why.md) to that end.
+- The underclass is concerned with survival, but would like a chance to become at least the middle class, but often without the [required risks](entrepreneur-why.md).
 
 APPLICATION: There will always be poor people, and there will always be rich people. Those groups don't really think about each other until it becomes [political](politics-leftism.md), or they have something to gain from them. While it may [feel](mind-feelings.md) [unfair](morality-justice.md), the [cultural distinctions](people-culture.md) between poor and wealthy create the best possible [social solutions](purpose.md).
 
@@ -160,7 +160,7 @@ To recruit people for their purposes, upper-class people employ various methods:
 - They'll promise the middle class will become the upper class.
 - They'll promise that the lower class will have a more [fair](morality-justice.md) system, typically with a [leftist](politics-leftism.md) angle involved.
 
-APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](socialrisk.md)) have a higher chance of [equal](people-culture.md) treatment.
+APPLICATION: A *gigantic* component of how fast and effectively civilization develops comes through how well the upper class treats the underclass. In a society where the underclass is all [specialized](jobs-spcialization.md) with a low-entry role (e.g., rice farming), the upper class is more likely to treat them with some degree of respect, which means their [ideas](values.md) (and, by association, [social risks](entrepreneur-why.md)) have a higher chance of [equal](people-culture.md) treatment.
 
 Generally, they'll also appeal to [specific political values](politics-conservativeliberal.md) that are most [fashionable](people-trends.md) among the public.
 
@@ -178,7 +178,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - [Time](standards-datetime.md) is about living in the moment.
   - [Education](education.md) is an abstract and largely [useless](purpose.md) thing.
   - [Language](language.md) is a casual codex of information.
-  - [Family structure](people-family.md) is matriarchal (from [mothers](gender.md) being forced to work *and* take care of children).
+  - [Family structure](people-family.md) is matriarchal (from [mothers](people-gender.md) being forced to work *and* take care of children).
   - Destiny is defined by fate and things that can't happen.
   - The social standards prioritize honesty, and sometimes respect.
 - Middle class is about capitalizing on [success](success-1_why.md) and achievement:
@@ -201,7 +201,7 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
   - Education is focused on maintaining connections.
   - Language is a formal mechanism for networking with others.
   - Family structure is from whichever parent has the money.
-  - Destiny is defined by [expectations](people-imagination.md) of what can happen.
+  - Destiny is defined by [expectations](mind-imagination.md) of what can happen.
   - The social standards prioritize both [values](values.md) and polite behavior.
 
 Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](money-economics.md) to make everything come to a grinding halt.

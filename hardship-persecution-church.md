@@ -67,7 +67,7 @@ From there, Christians will start incurring public [shame](mind-feelings-shame.m
 - They'll start losing their [status and reputation](people-image-why.md) in their [communities](groups-small.md).
 - [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
 - Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-friends.md) will slowly alienate them.
-- Officials will forbid or restrict certain Christian practices like [public evangelism](spiritual-exercises-evangelism.md), [expressing faith](trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
+- Officials will forbid or restrict certain Christian practices like [public evangelism](spiritual-exercises-evangelism.md), [expressing faith](mind-trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
 - The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.
 - Even if the government doesn't get involved, it'll often require churches to register their gatherings and report to them.
 
@@ -160,7 +160,7 @@ Even the devil makes mistakes:
 Through all the hardship, the Holy Spirit will *still* shine through:
 
 - Christians will lose [families](people-family.md), [friends](people-friends.md), [reputations](people-image-why.md), and [opportunities](power.md), and they'll *still* be joyful.
-- While the free world has a difficult time [imagining](people-imagination.md) this, the persecuted Church treats this as normal.
+- While the free world has a difficult time [imagining](mind-imagination.md) this, the persecuted Church treats this as normal.
 - Sometimes, a Christian's *abusers* will convert merely by seeing that unworldly joy *while they're persecuting them*.
 
 There are *many* people who have said that Christianity would cease to exist:
@@ -254,8 +254,8 @@ Stay in constant connection with other believers as much as you can:
 Prison, of any sort, is a new ministry opportunity:
 
 - Your fellow cellmates are literally a "captive" audience to the [Gospel](https://theologos.site/gospel/) message.
-- Solitary confinement can become a blessing in [spiritual meditation](awareness.md) and [prayer](spiritual-exercises-prayer.md) if you use the time correctly.
-- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](people-imagination.md) any farther out than that.
+- Solitary confinement can become a blessing in [spiritual meditation](mind-awareness.md) and [prayer](spiritual-exercises-prayer.md) if you use the time correctly.
+- Even though enduring years and *decades* of prison feels impossible, it only happens one day or one minute at a time, so don't [imagine](mind-imagination.md) any farther out than that.
 
 Be prepared for torture:
 
@@ -273,7 +273,7 @@ The most significant battle in prison is within your mind:
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:
 
 - At specific thresholds, we lose our capacity to detect [our reputations](people-image-why.md), then other people in general, then finally even [the presence of God](theology-god.md).
-- At those times, we must [focus on](awareness.md) the present moment and God within it to find peace in the pain.
+- At those times, we must [focus on](mind-awareness.md) the present moment and God within it to find peace in the pain.
 - The most important thing to focus on is steady breathing.
 - All the sacrifice must be a matter of love and duty to the Church, *not* just survival.
 
@@ -283,7 +283,7 @@ We must perform vigils to fight solitude and loneliness:
 - Mentally travel around the world, praying for people you know of and their groups.
 - Rejoice with those who rejoice by imagining the details of their happiness outside prison ([Romans 12:15](https://biblehub.com/romans/12-15.htm)).
 - Recite Bible verses from memory, which is where all that prior [Bible study](bible-study.md) paid off.
-- Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](people-imagination.md) everything.
+- Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](mind-imagination.md) everything.
 - While all this sounds like what crazy people do, staying mentally busy allows us to stay in a solitary situation indefinitely.
 
 Beware of the "moment of crisis":

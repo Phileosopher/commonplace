@@ -36,7 +36,7 @@ APPLICATION: Imagination is unfettered by nothing and nobody but our mental limi
 
 We must predict the future because it dictates what we presently [create](creations.md) and [consider](purpose.md). If you knew you'd probably die tomorrow, you'd live today differently than if you knew you had forty years left to live.
 
-Since we must act, we make a [calculated wager](mind-decisions.md) on the most likely thing, then give the rest up to whatever we [trust](trust.md).
+Since we must act, we make a [calculated wager](mind-decisions.md) on the most likely thing, then give the rest up to whatever we [trust](mind-trust.md).
 
 APPLICATION: Blame is a waste of effort. Outside the need for [forgiving](hardship-forgiveness.md) or [power games](power-influence.md), we don't need to know what caused an issue, but instead what to do about it now to create desirable [results](results.md) in the future.
 
@@ -46,9 +46,9 @@ Time itself doesn't exist the way we think it does.
 
 We perceive "now", but the past doesn't technically exist. The past version of "now" is only in our minds as [memory](mind-memory.md) (former versions of "now") and our connections of cause-and-effect to craft a [story](stories-why.md) that ends in "now".
 
-Since we can cross-reference the past against [reality](reality.md), we have good [reasons](logic.md) to [trust](trust.md) it for our perspective of the future.
+Since we can cross-reference the past against [reality](reality.md), we have good [reasons](logic.md) to [trust](mind-trust.md) it for our perspective of the future.
 
-The future is our [predictions](imagination.md) about what will happen in future instances of "now", but doesn't exist beyond our minds. Our predictions have varying degrees of accuracy, and *any* precision in our expectation of the future gives us reason to [trust](trust.md) it as reliable.
+The future is our [predictions](imagination.md) about what will happen in future instances of "now", but doesn't exist beyond our minds. Our predictions have varying degrees of accuracy, and *any* precision in our expectation of the future gives us reason to [trust](mind-trust.md) it as reliable.
 
 Since we tend to [feel](mind-feelings.md) our predictions as if they were occurring presently, the experience in our minds is the phenomenological equivalent of [reality](reality.md) proportional to our ability to imagine.
 
@@ -58,7 +58,7 @@ FURTHER APPLICATION: When something happens, it typically means one thing: it ha
 
 The perceptions of "past" and "future" makes us [feel](mind-feelings.md) our existence is a continuum, and automatically registers in our mind as a series of connected events, even though they are functionally nothing more than memory, now, and imagination.
 
-With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](trust.md).
+With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](mind-trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](mind-trust.md).
 
 Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](mind-decisions.md) that create [results](results.md) we want.
 
@@ -80,13 +80,13 @@ We tend to expect the unknown more than the known because we focus on it. Theref
 
 However, vast [power](power.md) is at stake for massive [decisions](mind-decisions.md), so people pursue many ways to capture and subdue [uncertainties](understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
 
-The constant [uncertainties](trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](people-trends.md) before they emerge, and it can create the [illusion](people-image-why.md) that we understand when we really don't.
+The constant [uncertainties](mind-trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](people-trends.md) before they emerge, and it can create the [illusion](people-image-why.md) that we understand when we really don't.
 
 ## Expecting chaos
 
 Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
 
-Some people, especially [some large-scale leaders](groups-large.md) and [entrepreneurs](socialrisk.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](people-trends.md) inside chaos with *astonishing* accuracy.
+Some people, especially [some large-scale leaders](groups-large.md) and [entrepreneurs](entrepreneur-why.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](people-trends.md) inside chaos with *astonishing* accuracy.
 
 A [trend](people-trends.md) is the aggregate behavior of everyone's involved [feelings](mind-feelings.md), so the secret to successfully tracking [trends](people-trends.md) requires understanding which key details to focus on. However, this is very difficult, since it requires *both* [empathy](mind-feelings.md) of the relevant demographics alongside a consistent [analysis](logic.md) of those collective sentiments over time.
 
@@ -126,17 +126,17 @@ APPLICATION: Often, the most "likely" [trends](people-trends.md) are the ones th
 - Cars were once a "dying trend" before they applied assembly line [technology](technology.md) to it.
 - Before the microchip, the "[personal computer](computers.md)" was also a dying trend.
 - Economists once predicted that New York City wouldn't be sustainable because it'd be covered in pony poop.
-- [Too many others to count](people-imagination-badpredictions.md)!
+- [Too many others to count](mind-imagination-badpredictions.md)!
 
 ## Reliability
 
 Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](understanding-certainty.md) than they really are.
 
-However, since everything we work with in our minds is essentially a [story](stories-why.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](trust.md).
+However, since everything we work with in our minds is essentially a [story](stories-why.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](mind-trust.md).
 
 APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
 
-We tend to overestimate our predictions, and often believe we know more than we really do. We also frequently tend to [presume](trust.md) that becoming certain about unknown things guarantees we can do something about them.
+We tend to overestimate our predictions, and often believe we know more than we really do. We also frequently tend to [presume](mind-trust.md) that becoming certain about unknown things guarantees we can do something about them.
 
 APPLICATION: We imagine we [understand](understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
 

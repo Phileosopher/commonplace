@@ -25,6 +25,8 @@ Christology - The systematic theology branch that addresses God as Jesus Christ
 
 Christophany - A direct and personal encounter with Jesus Christ
 
+Church - Can refer to a specific group of believers, the entire politic of believers, or the institution made by the believers
+
 Communion - part of our spirit that holds a close personal connection with God and the rest of the Church
 
 Conscience - part of our spirit that holds a strong moral conviction about something
@@ -38,6 +40,8 @@ Demonology - The systematic theology branch that addresses fallen angels
 Dispensationalism - The theological view that there are seven distinct dispensations on how God interacts with humanity (Innocence, Conscience, Human Government, Promise, Mosaic, Grace, and [Kingdom/Millennium](https://theologos.site/millennium/)), contrasts with covenant theology
 
 Doxology - literally "glory word", a short hymn or speech giving praise to God (e.g., "Praise, honor, glory, and strength forever and ever to the one who sits on the throne and to the Lamb!" in Revelation 5:13)
+
+Ecclesia - The Greek word for Church
 
 Ecclesiology - The systematic theology branch that addresses the Church
 

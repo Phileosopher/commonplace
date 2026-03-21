@@ -51,7 +51,7 @@ If you're coming out of [a divorce](hardship-family-divorce.md):
 
 If you feel like a washed-out failure or stuck in a rut:
 
-- Find [satisfaction](mind-feelings-happiness-perma.md) in good things, [become aware](awareness.md) of yourself, and learn to get enough [sleep](sleep.md).
+- Find [satisfaction](mind-feelings-happiness-perma.md) in good things, [become aware](mind-awareness.md) of yourself, and learn to get enough [sleep](sleep.md).
 - Explore [what success is](success-1_why.md), the right [attitude](success-2_attitude.md) you need, and [worthwhile goals](success-3_goals.md) to pursue.
 - Learn [how to manage money](money-1_why.md), especially [debt](money-2_debt.md) and [budgeting](money-3_budget.md).
 - Learn how to [find a rewarding career](jobs-1_why.md) and make [a good impression](jobs-3_image.md) with employers.
@@ -96,7 +96,7 @@ If you're coming out of [prison](hardship-incarceration.md) or grew up on the st
 
 If you're coming clean from an [addiction](addiction.md):
 
-- Learn [self-awareness](awareness.md) and how to be [happy](mind-feelings-happiness.md).
+- Learn [self-awareness](mind-awareness.md) and how to be [happy](mind-feelings-happiness.md).
 - Self-regulate your [hygiene](people-image.md) and [sleep](sleep.md).
 - Start setting reasonable [goals](success-3_goals.md) and learn to [persevere](success-5_persevering.md).
 - Learn how to [find a career](jobs-1_why.md).

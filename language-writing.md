@@ -20,7 +20,7 @@ Writing has more weight than speaking:
 
 - Writers can research and take their time, so everyone expects more intelligent writing than speaking.
 - Text doesn't have articulation or cadence, so implications are more pronounced.
-- Speech uses more [perception](awareness.md) and [feeling](mind-feelings.md) through the ears and mouth, text uses [imagination](people-imagination.md) and [logic](logic.md) through the eyes and hands.
+- Speech uses more [perception](mind-awareness.md) and [feeling](mind-feelings.md) through the ears and mouth, text uses [imagination](mind-imagination.md) and [logic](logic.md) through the eyes and hands.
 - By writing what you understand, it forces you to more clearly indicate information than simply speaking it.
 
 One of the key benefits of writing is that readers can both reread to understand ideas better or skip text entirely:
@@ -43,7 +43,7 @@ Writing captures feelings simply, so your word choice shows your passion for the
   - If you're out of ideas, find a topic that makes you furious.
 - Once you've learned to write clearly, your speaking and writing style will harmonize, which will make your thoughts come more clearly as well.
 
-Writing is communicating information to someone where they forget they're [imagining](people-imagination.md) something simply from a collection of words.
+Writing is communicating information to someone where they forget they're [imagining](mind-imagination.md) something simply from a collection of words.
 
 When writing, you gain a more thorough [understanding](understanding.md) of what you're trying to communicate.
 
@@ -90,7 +90,7 @@ Write to please yourself, firstly:
 
 - You'll never be [happy](mind-feelings-happiness.md) with the results if you're not writing to your standards.
   - Somehow, readers can tell when you're writing and not enjoying it.
-- You [know yourself](awareness.md) more than anyone else, and there are thousands of people who have your taste in writing style.
+- You [know yourself](mind-awareness.md) more than anyone else, and there are thousands of people who have your taste in writing style.
 - You may be anxious and uneasy, but your desire to [create](mind-creativity-how.md) the best possible form of an idea will chip away useless information.
 
 Write for one person you know personally:

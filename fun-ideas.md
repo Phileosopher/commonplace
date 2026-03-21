@@ -32,6 +32,11 @@ Make a temporary tattoo that lasts about a month:
 2. Rub baby powder on it.
 3. Cover it in hairspray.
 
+Temporary tattoo ideas:
+
+- Make a stick figure with a trampoline inside the palm of your hand, which will jump as you extend your palm.
+- Draw a stick figure mowing the lawn on a balding head.
+
 ## Games
 
 Try classic games:

@@ -8,8 +8,8 @@ There are multiple possible realms where we may not forgive:
 - Past [decisions](mind-decisions.md) with present consequences.
 - [Goals](success-1_why.md) that weren't met.
 - [Consequences](results.md) we had no control over.
-- [Imagination](people-imagination.md) about what could have been.
-- [Beliefs](trust.md) about what others expect.
+- [Imagination](mind-imagination.md) about what could have been.
+- [Beliefs](mind-trust.md) about what others expect.
 
 Beyond others, we must also forgive ourselves.
 
@@ -81,7 +81,7 @@ C. Release
   - Release allows you to let go of the hurt feelings and past trauma and stop defining your life with a past wound.
 - Your happiness, regardless of who wronged you or how, depends on releasing all grudges and ill intent toward anyone.
   - Release isn't forgetting, but is accepting that you now bear the consequences of something that happened outside your control.
-  - If you ever [go to sleep](sleep.md) without releasing the grudge, it will encode itself into your [subconscious](awareness.md) and become harder to work through later.
+  - If you ever [go to sleep](sleep.md) without releasing the grudge, it will encode itself into your [subconscious](mind-awareness.md) and become harder to work through later.
   - By not releasing the old pain, those people will repeatedly re-hurt you in your mind without your permission.
   - Psychotherapy, your individual efforts, or [religion](religion-answers.md) can all get you there, but only [Christian doctrine](https://theologos.site/gospel/) can reliably wipe away our resentments.
   

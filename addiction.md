@@ -64,7 +64,7 @@ While [the good life](people-goodlife.md) requires desiring to grow, addicts oft
 Addicts' obsession tends to disregard the natural state of [habits](habits.md):
 
 - Habits are made of a trigger, method, and reward.
-- An addict will [desire](purpose.md) their reward so much that they'll perform every method possible just to attain a *[chance](trust.md)* or *[hope](people-imagination.md)* of that reward.
+- An addict will [desire](purpose.md) their reward so much that they'll perform every method possible just to attain a *[chance](mind-trust.md)* or *[hope](mind-imagination.md)* of that reward.
 - Every single thing we use more than once gives a diminishing return, which is the [economic](money-economics.md) fact that using one more of something will be slightly less effective than the previous one.
 
 Every addict of every substance has a few shared characteristics:
@@ -84,7 +84,7 @@ The hope of something is usually far less than its likelihood, so an addict will
 
 - [Social status](power-influence.md) and [relationships with others](people-friends.md)
 - Laws of reality like [diminishing return](results.md) or [others' evil intentions](morality-evil.md)
-- Any [realistic chance](trust.md) they'd actually *get* their substance in the long-term
+- Any [realistic chance](mind-trust.md) they'd actually *get* their substance in the long-term
 
 Even when someone hates a substance (like most late-stage addicts do), its power comes from how it creates [certainty](certainty.md), and any combination of few "certain" sensations drive *all* substance abuse:
 
@@ -101,7 +101,7 @@ The substance's absence doesn't resolve the issue, either. Addicts can often eng
 People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](money-economics.md) will create more addicting things:
 
 - Many new food products are [delicious](cooking.md) from [unhealthy additions](body-health.md).
-- Many gamers are modern book addicts who no longer need a vivid [imagination](people-imagination.md).
+- Many gamers are modern book addicts who no longer need a vivid [imagination](mind-imagination.md).
 - New mind-altering drugs create novel, intense [experiences](people-image-why.md), legally or non-.
 
 For the sake of [marketing](marketing.md), many addictive products are very accessible, and the addicts often become *very* loyal to particular brands. This creates a codependent synergy between the institution and individual. This can include governments that legalize the product as well.
@@ -112,9 +112,9 @@ There is a simple way to detect whether someone has a substance abuse problem:
 2. Omit the negating testimonies of everyone who has their own over-involvement with that substance (or something similar).
 3. If that omits all of that person's known associates, carefully consider if that substance is connected to the matter.
 
-## An addict's recovery
+## An addict's end
 
-Addicts are self-destructive. They must [restrain](morality.md) themselves, but are afraid of [imagined](people-imagination.md) pain that might come from holding back their [baser desires](mind-feelings.md). In that sense, they have the [reasoning](logic.md) skills of small children.
+Addicts are self-destructive. They must [restrain](morality.md) themselves, but are afraid of [imagined](mind-imagination.md) pain that might come from holding back their [baser desires](mind-feelings.md). In that sense, they have the [reasoning](logic.md) skills of small children.
 
 This issue goes deeper than mere animal impulse, and infects our [souls](humanity.md). Animals have been proven to easily stop a drug addiction if they are exposed to other pleasurable stimuli that naturally fulfill needs (e.g., eating, mating). For humans, it is the gnawing absence of [God](theology-god.md) that hits us harder than any physical need.
 
@@ -124,14 +124,36 @@ An addict who sold their [soul](humanity.md) to a substance will not find [welln
 
 An addict's [purpose](purpose.md) is the driving force, *not* the substance. If you remove a substance from an addict, but they don't change their purpose from it, they'll stay dry for as long as it takes until the next hit, or they'll migrate to another substance.
 
+## An addict's recovery
+
 *Every* addiction recovery group uses some derivative of the [12-step program made by Bill Wilson and Dr. Robert Holbrook Smith in 1939](addiction-steps.md).
 
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 
-The only hope for any addict is for them to face their pain directly. This requires taking a sober, blunt look at themselves. This is *not* easy, and the reason they're [enslaved](people-slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it. In a sense, it's a type of cowardice that keeps them bound by the substance.
+The only hope for any addict is for them to face their pain directly.
+
+- This requires taking a sober, blunt look at themselves, which is *not* easy.
+- The reason they're [enslaved](people-slavery.md) by that substance in the first place is because they would rather postpone that pain a little longer than confront it.
+- In a sense, it's a type of cowardice that keeps them bound by the substance.
+- In fact, they will only make a change when they feel more pain from the substance than the [fear](mind-feelings-fear.md) from abstinence.
 
 APPLICATION: As people devolve into substance abuse, they care about you progressively less. If you [love](people-love.md) them, release them to their desires to hasten their decline and, therefore, hasten any chance of recovery.
 
 However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](theology-godandman-humanity.md) when we [decide](mind-decisions.md) to sacrifice everything for another dose of the substance.
 
+## Recovery culture
+
 Ironically, recovery groups can also become a [culture](people-culture.md) of addiction. Our [identity](people-identity.md) should persist beyond "being a recovering addict", and the implicit [shame](mind-feelings-shame.md) that comes with the label can prevent someone from finding [meaning](meaning.md) elsewhere.
+
+Many times, recovery groups will praise an addict's journey so heavily that they'll imply the addict's recovery from addiction is a praiseworthy accomplishment.
+
+- In reality, while there is some degree of *personal* accomplishment to the exercise, that person is simply stopping a self-destructive behavior.
+
+True accomplishment-worthy activities come through the [meaning](meaning.md) and [love](people-love.md) we give others.
+
+- Recovery groups, unfortunately, start the legitimately sacrificial selfless with Step 12 of the 12 steps
+- Many recovery groups will focus on removing the bad parts of an addiction more than adding healthy parts.
+
+Healthy behavior, however, is so uncommon that it can be truly exceptional, which says more about society's [moral state](morality.md) than the individuals seeking to recover.
+
+The only exception to this destructive pattern comes through specific groups that prioritize a more meaningful existence (e.g., Celebrate Recovery focuses on [Christ](https://theologos.site/gospel/)).

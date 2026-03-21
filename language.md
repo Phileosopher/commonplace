@@ -74,7 +74,7 @@ The complexity of expressing ideas either succintly or elaborately, as well as t
 
 ## The stucture of language
 
-All ideas start with nouns. Nouns state something as a concrete [value](values.md). They frequently represent [metaphysical reality](reality.md), but can also be [hypothetical](people-imagination.md), but are essentially "pointing" at something.
+All ideas start with nouns. Nouns state something as a concrete [value](values.md). They frequently represent [metaphysical reality](reality.md), but can also be [hypothetical](mind-imagination.md), but are essentially "pointing" at something.
 
 Verbs are values of action, and are *always* connected to a noun (even when the noun is simply implied) and help us understand what [purpose](purpose.md) to assign those nouns.
 
@@ -162,7 +162,7 @@ kThe [purposes](purpose.md) we aim for determines which parts of our [understand
 
 Language is constantly moving. While there's a "codified" standard in things like dictionaries and textbooks, language shifts with society's [trends](people-trends.md):
 
-- Meanings of words will be repurposed, then used dominantly for that new purpose (e.g., "gay" was a [feeling](mind-feelings.md) but is now a [sexual orientation](gender.md)).
+- Meanings of words will be repurposed, then used dominantly for that new purpose (e.g., "gay" was a [feeling](mind-feelings.md) but is now a [sexual orientation](people-gender.md)).
 - [Feelings](mind-feelings.md) that the word evoked redirect themselves to specific things (e.g., "[technology](technology.md)" is now localized to specifically high-technology).
 - Figures of speech become outdated with technological development or new [trends](people-trends.md) (e.g., "pop in the movie", "dial up someone's phone").
 - [Political](power.md) efforts (especially with [leftism](politics-leftism.md)) can redirect thoughts to associate or disassociate for the sake of [personal gain](morality-evil.md).
@@ -270,6 +270,6 @@ When we use our language to make excuses (e.g, "I can't do X because Y", "X caus
 
 ## Language is persistent
 
-Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](people-imagination.md) will *always* be a key component of how we interact.
+Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](mind-imagination.md) will *always* be a key component of how we interact.
 
 APPLICATION: We will always have a text-based messaging component built into  all [technology](technology.md) ([Zawinski's Law](lawsaxioms-tech.md)).

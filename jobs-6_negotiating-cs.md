@@ -9,7 +9,7 @@ One of the easiest things to negotiate are remote work and flexible hours, and y
 
 You'll usually get performance-based bonuses, as well as a sign-on bonus, which is negotiable with everything else.
 
-Often, a [startup](entrepreneur-1_why.md) or large company will issue [equity bonuses](money-investing.md), and you can *really* negotiate the heck out of them, so make sure you know a few things:
+Often, a [startup](entrepreneur-1_what.md) or large company will issue [equity bonuses](money-investing.md), and you can *really* negotiate the heck out of them, so make sure you know a few things:
 
 ### 1. How long until you're vested (i.e., when you officially own the stock)
 

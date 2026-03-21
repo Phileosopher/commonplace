@@ -19,13 +19,13 @@ APPLICATION: Our [feelings-based](mind-feelings.md) approach to values means we 
 
 ## The source of values
 
-Values are *not* [reality](reality.md), and are merely synthesized and processed [adaptations](creations.md) of reality. They're abstract [patterns](symbols.md) that exist only in our minds as commentaries *on* reality. Things like "[car](autos.md)", "[relationship](people-friends.md)", "[trust](trust.md)", "[political system](politics-systems.md)" *do* exist beyond our minds, but in some other form than we can perceive. The idea of "car" or "trust" as a fabrication is the one that's actually [shared with other people](humanity-universals.md).
+Values are *not* [reality](reality.md), and are merely synthesized and processed [adaptations](creations.md) of reality. They're abstract [patterns](symbols.md) that exist only in our minds as commentaries *on* reality. Things like "[car](autos.md)", "[relationship](people-friends.md)", "[trust](mind-trust.md)", "[political system](politics-systems.md)" *do* exist beyond our minds, but in some other form than we can perceive. The idea of "car" or "trust" as a fabrication is the one that's actually [shared with other people](humanity-universals.md).
 
-APPLICATION: We can only determine if a value is [real](reality.md) by constantly exposing it to the world around us, mostly through [language](awareness.md) but through all forms of [creation](creations.md).
+APPLICATION: We can only determine if a value is [real](reality.md) by constantly exposing it to the world around us, mostly through [language](mind-awareness.md) but through all forms of [creation](creations.md).
 
 APPLICATION: The [smarter](people-personality.md) a person is, the more likely they will derive values that deviate from truth. While intelligence is a [type of power](power-types.md), it's an inherent structural weakness, and part of why so many [creative and brilliant](mind-creativity.md) people are also mentally ill.
 
-All values are based on some form of [authority](power.md) that defines their existence, and we must [trust](trust.md) that thing legitimately exists.
+All values are based on some form of [authority](power.md) that defines their existence, and we must [trust](mind-trust.md) that thing legitimately exists.
 
 The easiest way to distinguish between what we have in our minds versus the world around us is to observe what other non-human animals perceive. If an animal (e.g., a dog or tarantula) can perceive it, it's more likely something in reality. Otherwise, it's a construct that's strictly human-made.
 
@@ -37,7 +37,7 @@ We presume these abstractions are reality because we frequently [share parts of 
 
 The perceptions we make are *also* made of values, so our minds are vast structures of clumps of values, one on top of another, assembled through [associations](https://gainedin.site/networks/) through [feelings](mind-feelings.md) and [past understanding](understanding.md). They become less reliable the further we get from [actual](reality.md) perceptions, which is easier in proportion to [our intelligence](people-personality.md).
 
-While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](people-imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](people-personality.md) or how much we [philosophize](philosophy.md).
+While we can extract values indefinitely from an original experience, they're never *entirely* divorced from it. We always end up [imagining](mind-imagination.md) the original thing we experienced as part of the abstraction. Thus, we always keep those values connected to an example, no matter [how intelligent we are](people-personality.md) or how much we [philosophize](philosophy.md).
 
 APPLICATION: Since we all understand values in a wobbly-pseudo-accurate state, the idea that values don't move around even while people do (i.e., [Plato's assertion](philosophy.md)) is patently wrong. We can definitely become [habituated](habits.md) to certain values, but that's only the *illusion* of consistency.
 
@@ -66,7 +66,7 @@ This can get us into a ton of trouble if we're not careful, and is the source of
 
 ## Emphasizing values
 
-We use a specific process to develop and solidify our [beliefs](trust.md):
+We use a specific process to develop and solidify our [beliefs](mind-trust.md):
 
 1. Whether intentionally or passively, develop more [certainty](understanding-certainty.md) by discovering increasingly more values that reflect what we had believed.
 2. As we become more certain, we develop stronger [feelings](mind-feelings.md) about it, sometimes even associating it with [virtue](morality.md).
@@ -78,7 +78,7 @@ APPLICATION: If we live with only the values of things and not the things themse
 
 We build our values into a loose hierarchy, with some values holding more [influence](power-influence.md) over our minds than others. At the top, we have [religious devotion](religion.md) and [addiction](addiction.md). At the bottom, we move into less-[certain](understanding-certainty.md) elements, extending out into further uncertainty into a formless [void](unknown.md).
 
-Whenever we [change](people-changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](people-personality.md).
+Whenever we [change](people-changes.md), our hierarchy is simply rearranging, but often because of the introduction of a [new value](understanding.md) or destruction of a [well-established belief](mind-trust.md). This can frequently mean we discover, bury, or rebuild components of our [personality](people-personality.md).
 
 Our desire for [safety](safety.md) and the tremendous magnifying [power](power.md) of [exponents](math.md) mean some of the most powerful values we can hold are self-reinforced adverse ideas:
 
@@ -104,14 +104,14 @@ Further, we tend to "flavor" our thoughts with experiences that associate with t
 
 Second, since values *only* exist in our minds, they're difficult to [communicate](language.md). We must find words to specially define nuances among various things, which is why people use [trade-speak](jobs-specialization.md). But we *also* have to communicate information while we're constantly [changing inwardly](people-changes.md), [learning](understanding.md), and [making decisions](mind-decisions.md). This doesn't even include the [changes happening around us](people-trends.md) over time.
 
-APPLICATION: We must slow down if someone else uses the same [words](awareness.md) as us but is concluding something [irrational](logic.md). They're probably using a different definition of that word than you.
+APPLICATION: We must slow down if someone else uses the same [words](mind-awareness.md) as us but is concluding something [irrational](logic.md). They're probably using a different definition of that word than you.
 
-Third, we make *many* associations beyond what we're consciously [aware](awareness.md) of. Our minds are incredibly elaborate, and one object will have connections with dozens, hundreds, and sometimes thousands of other things. Those things all represent themselves in our conscious depending on a vast variety of conditions, including how we [feel](mind-feelings.md) and the other associations around our recalled experience.
+Third, we make *many* associations beyond what we're consciously [aware](mind-awareness.md) of. Our minds are incredibly elaborate, and one object will have connections with dozens, hundreds, and sometimes thousands of other things. Those things all represent themselves in our conscious depending on a vast variety of conditions, including how we [feel](mind-feelings.md) and the other associations around our recalled experience.
 
 APPLICATION: We become more clear-headed when we more clearly focus our values. Everyone can benefit from 10 to 40 minutes a day of thinking about what they've [learned](education.md) and [understood](understanding.md).
 
 In short, abstracting a value would require it being unrelated to other values, without it moving around, with full awareness of what we feel and think about that value.
 
-APPLICATION: Values are difficult things to take apart, mostly because of how much they connect to other values. As an average non-philosopher, it's more advantageous for us to be [aware](awareness.md) of many of our associations than it is to understand one specific thing as an extracted entity.
+APPLICATION: Values are difficult things to take apart, mostly because of how much they connect to other values. As an average non-philosopher, it's more advantageous for us to be [aware](mind-awareness.md) of many of our associations than it is to understand one specific thing as an extracted entity.
 
 APPLICATION: Philosophers debate endlessly about *where* values come from, but we can still definitely assign patterns to consistent things in reality. I may or may not see the color "blue", and don't know where it is, but the sky and ocean are still "blue" things in whatever form we call it.

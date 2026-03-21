@@ -36,7 +36,7 @@ Be quick to apologize when you hurt them.
 
 [Forgive them](hardship-forgiveness.md) when they hurt you.
 
-- When they don't openly apologize and change, you will have to lower how much you can [trust](trust.md) them, but that doesn't mean the marriage has to end.
+- When they don't openly apologize and change, you will have to lower how much you can [trust](mind-trust.md) them, but that doesn't mean the marriage has to end.
 - If the other person has some form of [Cluster B](mind-neurodivergence-clusterb.md) (which is *very* common), they may not be able to apologize.
 
 ## How to approach a conflict
@@ -159,7 +159,7 @@ You might get stuck in a conflict loop:
 - Marital conflict loops are reproducing [old childhood patterns](hardship-ptsd.md), and tend to happen whenever one of the partners has [unresolved childhood trauma](hardship-ptsd.md).
   - Conflict loops only resolve when *both* partners desire a resolution.
   - A hurting marriage only succeeds when *both* spouses apologize and accept they both have unmet needs and might be behaving wrongly about them.
-- Breaking conflict cycles are challenging, especially when you're [unaware](awareness.md) they're happening.
+- Breaking conflict cycles are challenging, especially when you're [unaware](mind-awareness.md) they're happening.
 - Look at your spouse as part of your team, which is difficult when your spouse is repeating a pattern from your childhood.
 - Don't even *think* of divorce as an option.
 - Counter-intuitively, a relationship starts recovering when a spouse *receives* the first apology, not from giving one.

@@ -144,7 +144,7 @@ Stoicism - Self-control of all types creates inner strength that builds harmony 
 
 ## Do we have free will?
 
-Compatibilism/Soft determinism - Because we can [imagine](people-imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
+Compatibilism/Soft determinism - Because we can [imagine](mind-imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
 
 Incompatibilism - Free will and determinism (see above) cannot [logically](logic.md) coexist.
 

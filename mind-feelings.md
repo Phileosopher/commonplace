@@ -5,11 +5,11 @@ At our core, beyond [reasoning or sensibility](logic.md), we experience the worl
 
 ## Basis
 
-Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](people-imagination.md). This stimulus can come from our [perceptions](people-image-why.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](mind-decisions.md) and [purposes](purpose.md).
+Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](mind-imagination.md). This stimulus can come from our [perceptions](people-image-why.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](mind-decisions.md) and [purposes](purpose.md).
 
 APPLICATION: If you want to change your feelings, change your physical state. Furrowing your brow will make you think harder, standing up straight will make you more confident, walking faster will make you more productive.
 
-In one sense, feelings are a status indicator of what we generally [understand](understanding.md) is happening. But, in another sense, feelings are low-level forms of [logic](logic.md), framed on reactionary premises (which we [trust](trust.md)) instead of well-formed ones (which may be harder to quickly [identify](people-image-why.md)).
+In one sense, feelings are a status indicator of what we generally [understand](understanding.md) is happening. But, in another sense, feelings are low-level forms of [logic](logic.md), framed on reactionary premises (which we [trust](mind-trust.md)) instead of well-formed ones (which may be harder to quickly [identify](people-image-why.md)).
 
 With respect to these beliefs, feelings are the product of a [perceived](people-image-why.md) status change. The feeling happens upon perception of the information changing.
 
@@ -17,7 +17,15 @@ APPLICATION: Below everything else that we perceive, we feel. Those feelings def
 
 Our impulses also form into thoughts of their own, which can also trigger our beliefs as we think them, meaning we can feel things as we notice our feelings. All of it becomes even messier because our [beliefs](understanding-certainty.md) only have a loose relationship to [reasoning](logic.md) or [reality](reality.md).
 
-Over time, feelings develop into moods, which are generalized attitudes about how we approach life. A feeling of sadness, for example, can become the mood of "gloominess".
+Over time, feelings develop into moods, which are generalized attitudes about how we approach life:
+
+- Feelings are flashes of conscious [judgment](understanding.md), while moods are our generalized attitudes.
+- A feeling of sadness, for example, can become the mood of "gloominess".
+
+Further, our feelings can also be divided into passions versus affections:
+
+- Passions are natural, passive things (e.g., "that water is too cold")
+- Affections are greater, higher things we can [choose](mind-decisions.md) to engage in (e.g., "that work of [art](art.md) is beautiful").
 
 Even analytical, [logical](logic.md) people are bound by their feelings, though they're often [afraid](mind-feelings-fear.md) of their feelings guiding them, which ironically blinds them from themselves.
 
@@ -44,11 +52,11 @@ Feelings are inherently social, and our [connections with others](people-friends
 
 ## Bias
 
-Feelings create [bias](mind-bias.md), and we tend to call things that are heavy with feelings "personal experiences". Our so-called "personal experience" makes us very prone to [deceiving](people-image-distortion.md) ourselves in many directions. When we experience [trauma](hardship-ptsd.md), we have feelings we're [unaware](awareness.md) of that profoundly affect our lives long after the events have passed.
+Feelings create [bias](mind-bias.md), and we tend to call things that are heavy with feelings "personal experiences". Our so-called "personal experience" makes us very prone to [deceiving](people-image-distortion.md) ourselves in many directions. When we experience [trauma](hardship-ptsd.md), we have feelings we're [unaware](mind-awareness.md) of that profoundly affect our lives long after the events have passed.
 
 We can discipline ourselves to focus on [reality](reality.md) more, but have no direct [control](mind-decisions.md) over the feelings that flavor our thought. We must experience our feelings to find what beliefs drive them (which is frequently painful) and there's no shortcut to [understanding](understanding.md) them.
 
-Most people never break their [bias](trust.md) from the feelings they first sensed. This can be trained, but it requires tons of [meditation](awareness-meditation.md) and [analysis](logic.md).
+Most people never break their [bias](mind-trust.md) from the feelings they first sensed. This can be trained, but it requires tons of [meditation](mind-awareness-meditation.md) and [analysis](logic.md).
 
 When they're sincere, feelings are our [soul's](humanity.md) lifeline to [reality](reality.md). Without feelings, we don't really identify ourselves *within* reality, and it can create an existential disconnect if we persist in a prolonged state of non-feeling.
 
@@ -64,17 +72,17 @@ If we add [certainty](understanding-certainty.md) to related elements, we will t
 - [Disgust](mind-feelings-disgust.md) is when we dislike something.
 - [Anger](mind-feelings-anger.md) is a secondary feeling that can come from multiple motivations tied to our [purposes](purpose.md).
 
-By combining [imagination](people-imagination.md), the above primitives develop several more *vastly* pervasive key feelings that create the foundations of our [personality](people-personality.md):
+By combining [imagination](mind-imagination.md), the above primitives develop several more *vastly* pervasive key feelings that create the foundations of our [personality](people-personality.md):
 
 - [Boldness/confidence](understanding-certainty.md) is the feeling of joy, but about the future.
 - [Fear](mind-feelings-fear.md) is the feeling of sadness
-- [Surprise](mind-feelings-surprise.md) is when events don't follow our [expectations](people-imagination.md).
+- [Surprise](mind-feelings-surprise.md) is when events don't follow our [expectations](mind-imagination.md).
 
 While [love](people-love.md) can refer to affection, it sits more as a [habit](habits.md) of giving [inherent value](values-quality.md) to something.
 
 Far more than any other mammal, we will also mix-and-match *far* more feelings:
 
-- Anticipation and exhilaration is when we [expect](people-imagination.md) something fortunate to happen, and disappointment is when it didn't.
+- Anticipation and exhilaration is when we [expect](mind-imagination.md) something fortunate to happen, and disappointment is when it didn't.
 - Confusion is when we [desire](purpose.md) to [know](understanding.md) something but don't.
 - We feel closure when we don't know something, but *don't* desire to know it.
 - If we lose our ability to [trust](understanding-certainty.md) our [decisions](mind-decisions.md), anger will become despair or depression.
@@ -97,7 +105,7 @@ Generally, feelings hold [power](power.md) over our [decisions](mind-decisions.m
 
 All feelings have an object in mind, at least when we first [perceive](people-image-why.md) that object. However, we can often forget the source later, which will leave a neurological haze of generalized thought that triggers that feeling again without much explanation.
 
-When a person isn't [self-aware](awareness.md) of a feeling, they usually staple a quick [decision](mind-decisions.md) to it. People frequently redirect feelings to another source, which psychology calls transference or projection.
+When a person isn't [self-aware](mind-awareness.md) of a feeling, they usually staple a quick [decision](mind-decisions.md) to it. People frequently redirect feelings to another source, which psychology calls transference or projection.
 
 APPLICATION: We can differentiate between our [bias](mind-bias.md) and [reality](reality.md) by distinguishing what we're feeling and when. By imagining how we'd perceive if we felt differently, we gain further perspectives and heighten our [understanding](understanding.md) without needing others' input.
 
@@ -108,7 +116,7 @@ APPLICATION: Most of our feelings *would* be precisely accurate if they were bas
 - Jumping to the worst possible conclusion (catastrophizing)
 - Thinking in extreme all-or-nothing [values](values.md) (black-and-white thinking)
 - Using general words like "always" or "never" to describe a specific event (overgeneralizing)
-- [Predicting the future](people-imagination.md) instead of waiting to see what happens (fortune-telling)
+- [Predicting the future](mind-imagination.md) instead of waiting to see what happens (fortune-telling)
 - Focusing on the negative/positive aspects while ignoring the others (mental filtering)
 - Discrediting a positive/negative thing or adapting it into the inverse (disqualifying)
 - Globally self-declaring oneself as a failure/success, worthless/perfect, or useless/important (labeling)
@@ -121,7 +129,7 @@ APPLICATION: Most of our feelings *would* be precisely accurate if they were bas
 
 If an [experience](people-image-why.md) was particularly [influential](influence.md) towards our [understanding](understanding.md) or [desire](purpose.md) (especially if it was [traumatic](hardship-ptsd.md)), our feelings can persist to frame further beliefs, which can create secondary feelings with *much* more power over our actions.
 
-APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](trust.md) proportionally to the [sensationalism](people-image-why.md). This isn't easy because anger gives us the [impression](people-image-why.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
+APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](mind-trust.md) proportionally to the [sensationalism](people-image-why.md). This isn't easy because anger gives us the [impression](people-image-why.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
 
 If a feeling persists and is reinforced enough, it becomes a [conviction](understanding-certainty.md).
 
@@ -129,7 +137,7 @@ If any adverse feeling lingers long enough, it becomes a [mental illness](hardsh
 
 APPLICATION: Living by feelings, even anger, is an inherent risk. It means we don't [understand](understanding.md) things clearly enough to be [rational](logic.md), and it's possible we may be wrong about something and not know it.
 
-Even while the object of the feelings changes, our feelings are [the same as anyone else's](humanity-universals.md), so we can easily understand our feelings by observing others' feelings ("surrogation"). The only alternative is self-reflection, which is difficult to perform because our minds aren't entirely [tethered to reality](people-imagination.md).
+Even while the object of the feelings changes, our feelings are [the same as anyone else's](humanity-universals.md), so we can easily understand our feelings by observing others' feelings ("surrogation"). The only alternative is self-reflection, which is difficult to perform because our minds aren't entirely [tethered to reality](mind-imagination.md).
 
 And, when we feel something, continuing to feel it without any restraint will intensify our feelings about it even further.
 
@@ -142,17 +150,17 @@ Intuition, however, is a synthesis of multiple feelings:
 1. A person has one experience that generates a strong feeling in one direction (e.g., [anger](mind-feelings-anger.md)).
 2. They then experience an opposing feeling that provides contrasting information (e.g., regret).
 3. The synthesis of those feelings composes a [story](stories-why.md), which represents as a more complex feeling.
-4. This recurses as a person's life experience happens and their [awareness](awareness.md) increases.
+4. This recurses as a person's life experience happens and their [awareness](mind-awareness.md) increases.
 
 Most [forms of neurodivergence](mind-neurodivergence.md) are stunted in their capacity for intuition in some form or another.
 
 Intuitive thinking is *extremely* useful, in its place. It's the basis for how we form [habits](habits.md), and experts in [most fields](jobs-specialization.md) develop intuitive [skills and understanding](understanding.md) that make their job easier and faster.
 
-At the same time, intuition has severe risks. It's only reliable when proven patterns have come before it. Otherwise, we're acting on memories that aren't accurate. If we persist on those past thoughts, it's likely we're imposing our [past trauma](hardship-ptsd.md) into present [decisions](mind-decisions.md) as well (i.e., [dysregulation](awareness-dysregulation.md)).
+At the same time, intuition has severe risks. It's only reliable when proven patterns have come before it. Otherwise, we're acting on memories that aren't accurate. If we persist on those past thoughts, it's likely we're imposing our [past trauma](hardship-ptsd.md) into present [decisions](mind-decisions.md) as well (i.e., [dysregulation](mind-awareness-dysregulation.md)).
 
-APPLICATION: [Decisions](mind-decisions.md) while dysregulated are a type of "temporary insanity" that are about 20-40 IQ points lower than our rational thoughts, but simple awareness of them is critical for [wellness](people-goodlife.md). In fact, the secret to most [awareness](awareness.md) involves simply acknowledging and identifying our feelings through [language](language.md) without taking action.
+APPLICATION: [Decisions](mind-decisions.md) while dysregulated are a type of "temporary insanity" that are about 20-40 IQ points lower than our rational thoughts, but simple awareness of them is critical for [wellness](people-goodlife.md). In fact, the secret to most [awareness](mind-awareness.md) involves simply acknowledging and identifying our feelings through [language](language.md) without taking action.
 
-Further, intuition is *really* difficult to [analyze](logic.md). If our self-reflection ever becomes a judgment of what we feel (instead of merely acceptance), we'll redefine our intuition to new [beliefs](understanding-certainty.md) about what's "right", even [when it's not](people-personality.md). Over time, that distorted state of [imagination](people-imagination.md) will become our new "normal" (i.e., "[dysregulation](awareness-dysregulation.md)").
+Further, intuition is *really* difficult to [analyze](logic.md). If our self-reflection ever becomes a judgment of what we feel (instead of merely acceptance), we'll redefine our intuition to new [beliefs](understanding-certainty.md) about what's "right", even [when it's not](people-personality.md). Over time, that distorted state of [imagination](mind-imagination.md) will become our new "normal" (i.e., "[dysregulation](mind-awareness-dysregulation.md)").
 
 ## Repositioning
 

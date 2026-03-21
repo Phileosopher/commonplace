@@ -109,7 +109,7 @@ Live by faith, not presumption.
 - Stay in touch with God's presence and power.
 - Observe how you're [faithful](understanding-certainty.md) with small things.
   - God gives us the responsibility for small things before big things.
-- Give any [fears](mind-feelings-fear.md) about the [future](people-imagination.md) to Him.
+- Give any [fears](mind-feelings-fear.md) about the [future](mind-imagination.md) to Him.
 - Ask God to supply your needs, even the smallest ones.
   - Look at God, not people, to answer those needs.
 

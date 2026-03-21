@@ -9,7 +9,7 @@ In most of the world, the procedure for maintaining a reputation has been mostly
 4. That second-degree person's performance determines what you say about them later, and they become a future source for tasks you'll need done.
 5. If needed, they'd sequester you for a few months to be certain you didn't have a weird disease or were running from the law.
 
-However, in a [computer-heavy](computers.md) society where the data is unusually [trustworthy](trust.md), your reputation is *not* what you think it is:
+However, in a [computer-heavy](computers.md) society where the data is unusually [trustworthy](mind-trust.md), your reputation is *not* what you think it is:
 
 1. When you receive a government-issued identification card, that government has created a legal entity that has your name in all-capital letters (a "legal fiction").
    - This entity is nothing more than a documented name with a few linking concepts like date of birth, city of birth, driver's license number, etc.

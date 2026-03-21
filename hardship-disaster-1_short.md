@@ -17,7 +17,7 @@ Learn safe habits *before* a crisis:
 - Scale back or get rid of [alcohol](fun-alcohol.md) and mind-altering drugs.
 - Any phone can call emergency services, so always leave a charged, powered-off phone in your car.
 - [Stay in shape](body-exercise.md) and [eat healthily](cooking.md).
-- Stay [ever-vigilant](awareness.md) of your surroundings, and trust your instincts.
+- Stay [ever-vigilant](mind-awareness.md) of your surroundings, and trust your instincts.
 - Avoid getting into [conflicts](people-conflicts.md) that create enemies.
 
 Avoid dangerous locations:

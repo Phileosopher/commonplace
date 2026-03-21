@@ -39,7 +39,7 @@ People who are temporary slaves are bound by either an [agreement](people-contra
 
 When someone selects slavery willingly, rather than being forced into it, that person is a servant, which has an *entirely* different framing.
 
-Servants, unlike slaves, can both say and enforce [their right](people-boundaries-why.md) to say "no" to something. This [possibility](people-imagination.md) of choice distinguishes them because the servant has (or had) dictated who they're serving, while the slave is forced without negotiation to serve whether they desire to or not.
+Servants, unlike slaves, can both say and enforce [their right](people-boundaries-why.md) to say "no" to something. This [possibility](mind-imagination.md) of choice distinguishes them because the servant has (or had) dictated who they're serving, while the slave is forced without negotiation to serve whether they desire to or not.
 
 Servants, therefore, are considered "voluntarily" slaves, and society interprets them as "free" even when they're bound by an [agreement](people-contracts.md) because they made a [choice](mind-decisions.md). On the other hand, slaves' [decisions](mind-decisions.md) mean nothing except how much [power](power-types.md) is necessary to keep them bound.
 
@@ -51,7 +51,7 @@ A slave has little to no [legitimate power](power.md). They may have some types 
 
 This situation means the slave has two methods available to change their situation:
 
-1. [Become aware](awareness.md) of otherwise unseen [power](power.md).
+1. [Become aware](mind-awareness.md) of otherwise unseen [power](power.md).
 2. Focus their [willpower](purpose.md) into successful, [creative](mind-creativity.md) solutions to gain their freedom. This may include geographically relocating to somewhere else that doesn't recognize their status as a second-tier citizen.
 
 We can also make [decisions](mind-decisions.md) to *increase* our enslaved status:

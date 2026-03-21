@@ -1,7 +1,7 @@
 
 # Who God is (Paterology, Christology, Pneumatology)
 
-Some of God's qualities are explicitly defined in [the Bible](theology-bible.md), and can only be true, without room for philosophical [speculation](people-imagination.md).
+Some of God's qualities are explicitly defined in [the Bible](theology-bible.md), and can only be true, without room for philosophical [speculation](mind-imagination.md).
 
 - That doesn't mean we can't take guesses at many other components of God, but it does mean there are certain constants.
 
@@ -380,7 +380,7 @@ God isn't "tame" or weak.
 
 God isn't [self-contradicting](logic.md), petty, or fickle.
 
-God isn't [conventional](habits.md) or [predictable](people-imagination.md).
+God isn't [conventional](habits.md) or [predictable](mind-imagination.md).
 
 God isn't simply a cosmic energy or "in all of us".
 

@@ -13,8 +13,8 @@ We can never completely remove the Unknown. Death is the greatest Unknown, and a
 
 APPLICATION: We're stuck with incessant chaos in our most mundane experiences:
 
-- You have no idea what will happen today, and only [presume](people-imagination.md) it.
-- Nothing you [trust](trust.md) is entirely [safe](safety.md).
+- You have no idea what will happen today, and only [presume](mind-imagination.md) it.
+- Nothing you [trust](mind-trust.md) is entirely [safe](safety.md).
 - No two of your thoughts are technically the same, since they travel down different neural pathways each time, and [habits](habits.md) reinforce any thought that *does* repeat.
 
 Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](mind-decisions.md) that drove them, but we [deceive](people-image-why.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](people-identity.md).
@@ -35,11 +35,11 @@ APPLICATION: Never disrespect [creations](creations.md) that ever add [value](va
 
 We [believe](understanding-certainty.md) something to have order when we've distinctly separated [values](values.md) in our mind, especially as we perceive our [environment](reality.md).
 
-We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories-why.md) we [perceive](people-image-why.md) conflicts with our [expectations](people-imagination.md) (e.g., a messy room or a cluttered sentence).
+We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories-why.md) we [perceive](people-image-why.md) conflicts with our [expectations](mind-imagination.md) (e.g., a messy room or a cluttered sentence).
 
 We treat completely unordered chaos as bad, but it's nothing more than pure randomness that sometimes works [against what we want](purpose.md), and it can work in our favor just as much.
 
-APPLICATION: We're always stuck with the Unknown, so we *must* learn to accept it. This is terrifying, and people with an ambitious [personality](people-personality.md) will often act without realizing how much they let the possibilities of the Unknown define their actions. These people are frequently the most [successful](success-1_why.md), but also the most [unaware](awareness.md). The converse of this problem makes intelligence create inaction.
+APPLICATION: We're always stuck with the Unknown, so we *must* learn to accept it. This is terrifying, and people with an ambitious [personality](people-personality.md) will often act without realizing how much they let the possibilities of the Unknown define their actions. These people are frequently the most [successful](success-1_why.md), but also the most [unaware](mind-awareness.md). The converse of this problem makes intelligence create inaction.
 
 Our minds naturally repel chaos and strive for order when we [perceive](people-image-why.md), but this operates from an opposing point from the inherent state of nature.
 
@@ -52,7 +52,7 @@ While it's not inherently obvious, we find [meaning](meaning.md) in making order
 
 ## Severity
 
-Contrary to what many people [imagine](people-imagination.md), chaos isn't *complete* disarray. We can generally group chaos into a few broad classes as we observe it:
+Contrary to what many people [imagine](mind-imagination.md), chaos isn't *complete* disarray. We can generally group chaos into a few broad classes as we observe it:
 
 1. Unknown Order - the order that was created elsewhere beyond our comprehension, such as the mechanisms behind [technology](technology.md), or whatever we envision [God](religion.md) to have created.
 2. Natural Chaos - the natural state of [reality](reality.md), which has large-scale general rules but is completely disordered on the small-scale. For example, sand and sticks on a beach will be in disarray, but a desert won't show piles of blood, stones, fish, and snow.
@@ -75,7 +75,7 @@ APPLICATION: We hate the Unknown so much that we *constantly* hedge our bets aga
 - People will play a game of pure chance more confidently against a dimwitted opponent, as if their opponent's intelligence mattered.
 - We trust the dice we control over dice others roll.
 - Incumbent [political figures](politics-conservativeliberal.md) have an unfair advantage over their rivals.
-- We'll take the answers to a quiz with trivial questions and no consequences over a candy bar, even though we [imagine](people-imagination.md) ourselves taking the candy bar beforehand.
+- We'll take the answers to a quiz with trivial questions and no consequences over a candy bar, even though we [imagine](mind-imagination.md) ourselves taking the candy bar beforehand.
 
 The only way to differentiate between finding superstition and truth in the fog of what we don't know is to wait until we have a clearer view of it. At that point, we can [scientifically](science.md) prove whether we were deriving a reliable pattern or not.
 
@@ -98,7 +98,7 @@ APPLICATION: We make sense of chaos as we see it. This is often good, but can ba
 
 1. Things happen and we vividly remember them.
 2. We slowly forget what happened, but hold on to information that might be [useful](purpose.md) later.
-3. We use that information to craft what we perceive [into the future](people-imagination.md), correcting errors as we get more reliable.
+3. We use that information to craft what we perceive [into the future](mind-imagination.md), correcting errors as we get more reliable.
 4. Eventually, we can live our daily lives with the well-known present, alongside the fading past and imaginary future.
 
 How we prioritize these 3 perspectives (past/present/future) affects almost everything in our lives:
@@ -112,7 +112,7 @@ Past ("what was")
 - Focus on [obligations and commitments](people-contracts.md)
 - [Rituals](people-culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
 - Dominant feeling of [guilt](mind-feelings-shame.md)
-- Avoids [risks](socialrisk.md) and adventures
+- Avoids [risks](entrepreneur-why.md) and adventures
 - Often more [cooperative than competitive](people-conflicts-why.md)
 
 Present ("what is")
@@ -122,7 +122,7 @@ Present ("what is")
 - Focus on bringing pleasure and avoiding pain
 - Often poorer [health management](body-health.md) and [substance abuse](addiction.md)
 - [Understanding](understanding.md) might not deter actions
-- Seeks more sensation and novelty, less [emotionally stable](mind-feelings.md) and more [risk-taking](socialrisk.md), more likely to [lie](people-lying.md)
+- Seeks more sensation and novelty, less [emotionally stable](mind-feelings.md) and more [risk-taking](entrepreneur-why.md), more likely to [lie](people-lying.md)
 - Tend to be [poor](classes.md) or [uneducated](education.md)
 - Seeks instant gratification, lower grades in [school](education.md)
 - Typically [fun](fun.md) to be around
@@ -153,13 +153,13 @@ APPLICATION: [Fear](mind-feelings-fear.md) of the Unknown is good to a point. Ho
 
 ## Scaling order
 
-Because order is a value, it can compound on itself to establish an elaborate system. However, we only interpret order when it accomplishes a [purpose](purpose.md) we [expect](people-imagination.md). If that thing fails the expectation (such as a broken-down car) we tend to believe it's "out of order", even though it's often still 99.999% *in* order.
+Because order is a value, it can compound on itself to establish an elaborate system. However, we only interpret order when it accomplishes a [purpose](purpose.md) we [expect](mind-imagination.md). If that thing fails the expectation (such as a broken-down car) we tend to believe it's "out of order", even though it's often still 99.999% *in* order.
 
-APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the preservation of order is a natural impulse, and worth knowing to [understand](understanding.md) how others think. We must be mindful of what we destroy and what we're using to replace it, but the Unknown is where we draw our [creativity](mind-creativity.md) and where the [social risks](socialrisk.md) become highly [influential](power-influence.md) [trends](people-trends.md).
+APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the preservation of order is a natural impulse, and worth knowing to [understand](understanding.md) how others think. We must be mindful of what we destroy and what we're using to replace it, but the Unknown is where we draw our [creativity](mind-creativity.md) and where the [social risks](entrepreneur-why.md) become highly [influential](power-influence.md) [trends](people-trends.md).
 
 [Civilization](people-culture.md) is a type of social order, with [inspiration](creations.md), [groups](groups-member.md), and [technology](technology.md) that all form from baser components. We can spend so much time [engaging](understanding.md) with it, though, that we forget the entire thing is built on nature. [On the political spectrum](politics-conservativeliberal.md), conservatives try to preserve order that has already been created while liberals try to create new order.
 
-APPLICATION: Over time, as the Unknown becomes [known](science.md), a society will prioritize the domain of [predictable](people-imagination.md) and [controllable](results.md) things over sending [efforts](purpose.md) into unknowable things. This means secular societies who abandon their [religious](religion.md) background tend to lean farther into [environmentalism](politics-leftism-sustainability.md) and prioritize [mathematical](math.md) [estimation](people-imagination.md) over [intuition](mind-feelings.md).
+APPLICATION: Over time, as the Unknown becomes [known](science.md), a society will prioritize the domain of [predictable](mind-imagination.md) and [controllable](results.md) things over sending [efforts](purpose.md) into unknowable things. This means secular societies who abandon their [religious](religion.md) background tend to lean farther into [environmentalism](politics-leftism-sustainability.md) and prioritize [mathematical](math.md) [estimation](mind-imagination.md) over [intuition](mind-feelings.md).
 
 Different [cultures](people-culture.md) create order in different forms, which often builds along the patterns of what [language](language.md) provide (e.g., number of words to describe one specific thing) and frames itself through the [myths](stories-myths.md), [superstitions](people-culture.md), and [stories](stories-why.md) they share with each other.
 

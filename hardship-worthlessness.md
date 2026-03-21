@@ -5,7 +5,7 @@
 
 Most people were raised with a defective view of themselves from their parents, but they aren't aware of it:
 
-- We don't become [conscious](awareness.md) of what we were taught wrongly until something mysteriously hurts us, and we can't figure out why.
+- We don't become [conscious](mind-awareness.md) of what we were taught wrongly until something mysteriously hurts us, and we can't figure out why.
 - Most of the time, we'll repeat unhealthy patterns across several life stages until we notice something is wrong.
 
 We only become mentally well and happy when we accept things for what they are instead of what we want them to be:

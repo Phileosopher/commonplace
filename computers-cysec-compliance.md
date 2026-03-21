@@ -16,7 +16,7 @@ The legality and safety of the organization can often sit on the nuanced differe
 
 NIST created its Risk Management Framework (RMF) to put [risk management](safety-riskmgmt.md) systems in place and test to be sure they work:
 
-1. Prepare - everyone should [be aware](awareness.md) changes will be happening.
+1. Prepare - everyone should [be aware](mind-awareness.md) changes will be happening.
 2. Categorize - [organize](organization.md) how the system processes, stores, and transmits information and conduct a risk assessment.
 3. Select - choose the controls that will protect the system based on the risk assessment.
 4. Implement - carry out the controls and document what happens.

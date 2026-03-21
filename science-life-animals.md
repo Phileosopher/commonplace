@@ -15,7 +15,7 @@ As a whole, a brain consists of several inter-related parts:
   - The parietal lobe helps [identify objects and make relationships](symbols.md) between things.
   - The occipital lobe is at the back, and regulates vision.
   - The temporal lobe is on both sides of the brain at the bottom, and regulates how we perceive time and make stories, which translates to [short-term memory](mind-memory.md), [speech](language.md), musical rhythm, and some aspects of smell.
-- A cerebellum that manages higher thought such as [reasoning](understanding.md) and [imagination](people-imagination.md).
+- A cerebellum that manages higher thought such as [reasoning](understanding.md) and [imagination](mind-imagination.md).
 - The brain is split into two hemispheres, with the left side generally managing more [logic](logic.md) and the right side more [emotions](mind-feelings.md). Each hemisphere controls the opposite side of the body.
 - Within this framework, there are many deeper structures inside the brain that perform *very* specific things:
   - The pituitary gland is a pea-sized chunk right behind the bridge of the nose and regulates the function of other glands in the body.

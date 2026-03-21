@@ -38,7 +38,7 @@ Give clear, specific feedback on problems you observe:
 
 Work *very* hard to find "shared facts":
 
-- You'll often need quite a bit of [awareness](awareness.md) about the situation and how others might be thinking, as well as what you certainly *don't* know.
+- You'll often need quite a bit of [awareness](mind-awareness.md) about the situation and how others might be thinking, as well as what you certainly *don't* know.
 - However, if you're aware of what drives a disagreement, you can effectively deflect or defuse *any* conflict, or at the very least mitigate its risks.
 
 Everyone [disagrees on a hierarchy](http://paulgraham.com/disagree.html):
@@ -164,11 +164,11 @@ If you legitimately hurt others, apologize sincerely and quickly:
 
 ## Setting boundaries for yourself
 
-Watch for [dysregulation](awareness-dysregulation.md)in yourself:
+Watch for [dysregulation](mind-awareness-dysregulation.md)in yourself:
 
 - We can often become unaware of our own feelings, but still act in a way we believe is completely rational.
 - Over a long period, we may even normalize irrational behavior.
-- Learn to stay fully [self-aware](awareness.md) of your feelings, even in the middle of a conflict.
+- Learn to stay fully [self-aware](mind-awareness.md) of your feelings, even in the middle of a conflict.
   - They are often behaving on the precedent of their childhood backgrounds.
 - If you see someone else in a dysregulated state, maintain *extremely* consistent boundaries to prevent their misbehavior from harming you.
 

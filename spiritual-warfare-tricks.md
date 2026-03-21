@@ -27,7 +27,7 @@ The devil's entire [purpose](purpose.md) is to create a constantly [fearful](min
 
 [New Christians](christian-new.md) are the easiest targets for the devil because they still hold on to many world-focused [habits and routines](habits.md).
 
-- New believers are more easily deterred by distractions from other believers, mostly from how their [expectations](people-imagination.md) won't meet [reality](reality.md).
+- New believers are more easily deterred by distractions from other believers, mostly from how their [expectations](mind-imagination.md) won't meet [reality](reality.md).
 - Thus, demons work very hard to keep our expectations unreasonably high about the Church. This gives room for feelings to overtake convictions.
 - Also, new believers often have plenty of [conceit](theology-sins.md) to prevent them genuinely asking if they're morally justified in condemning other believers.
 
@@ -35,7 +35,7 @@ Demonic distortion comes through a few simple approaches:
 
 1. Focus on adverse states of mind, such as [fear](mind-feelings-fear.md) or lust, while ignoring the good states of mind, such as [joy](mind-feelings-happiness.md) or [love](people-love.md).
 2. Redirect believers' attention to things they *think* matters, but doesn't.
-3. Disconnect ideas from one another and distract people as long as possible to become [unaware](awareness.md) of their thoughts and need for God's healing.
+3. Disconnect ideas from one another and distract people as long as possible to become [unaware](mind-awareness.md) of their thoughts and need for God's healing.
 
 His approach does, however, vary heavily by [what specific thing he's trying to deceive](spiritual-warfare-tricks-specific.md)
 

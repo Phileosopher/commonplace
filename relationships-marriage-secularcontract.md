@@ -32,7 +32,7 @@ I promise to share in the extreme conditions associated with all of a life:
 
 ## Relationship
 
-I will [trust](trust.md) you at your word.
+I will [trust](mind-trust.md) you at your word.
 
 Beyond my current capacity to perform them, I will exercise the following virtues and characteristics toward you:
 

@@ -48,7 +48,7 @@ Before consenting to *anything*, research beforehand about the reasonable cost a
 - Make sure you have the right to terminate a contract for any reason whatsoever and, in the interest of [fairness](morality-justice.md), they have that right as well.
   - If termination will cause an undue burden, clearly demarcate the consequences (e.g., cancellation fee, notice required before cancellation).
 - Watch for "all-in-one" services that could be inadequate for what you need.
-- Stay cautious of emerging high-risk areas, especially [new ventures](entrepreneur-1_why.md) or small operations.
+- Stay cautious of emerging high-risk areas, especially [new ventures](entrepreneur-1_what.md) or small operations.
 
 Pay close attention to opt-in or opt-out status, since its default state can be a [dark pattern](engineering-design.md).
 

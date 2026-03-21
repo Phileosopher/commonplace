@@ -108,7 +108,7 @@ Beyond that, the details are very specific to the method. Many approaches are si
 
 ### Power
 
-The ability for *anyone* with [design](engineering-graphics.md) skills to make what they [imagine](people-imagination.md) has tremendous implications:
+The ability for *anyone* with [design](engineering-graphics.md) skills to make what they [imagine](mind-imagination.md) has tremendous implications:
 
 1. Engineers can effectively prototype and test their creations within a matter of days, not weeks or months.
 2. The opportunity to create anything can include protected [intellectual property](legal-ip.md) and [illegal](people-rules.md) objects (e.g., guns).
@@ -127,7 +127,7 @@ The technology continues to improve as well. While polymer plastics are the best
 4. As printers become more effective, they'll soon be able to create large structures like bridge components and houses, which will *radically* define [logistics](logistics.md): simply send over raw materials and the printer to a hard-to-navigate site.
 5. Printers can print increasingly smaller sizes ([at 25 nanometers long right now](https://interestingengineering.com/science/scientists-can-now-print-metal-objects-that-are-only-25-nanometers-long)), meaning it may *radically* redefine the manufacture of electronic components, such as [processors](computers-cpu.md) or [memory](computers-memory.md), in the not-too-distant future.
 
-Within a century, it won't be uncommon to see [startups](entrepreneur-1_why.md) building many materials with a 3D printer, and it may happen as early as 2040.
+Within a century, it won't be uncommon to see [startups](entrepreneur-1_what.md) building many materials with a 3D printer, and it may happen as early as 2040.
 
 ### DIY
 

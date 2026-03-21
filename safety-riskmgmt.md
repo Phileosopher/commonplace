@@ -59,7 +59,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Long-Term Survival
 
 - Have all your [money-based](money-accounting.md) paperwork together.
-- If any risk is likely, have a clear [plan](people-imagination.md) for the next step after it happens.
+- If any risk is likely, have a clear [plan](mind-imagination.md) for the next step after it happens.
 
 ## Crisis Preparation
 

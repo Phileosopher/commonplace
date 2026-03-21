@@ -57,7 +57,7 @@ Illusionism - Everything is just a collection of illusions made by human conscio
 
 Nominalism - Universals and mental concepts have no objective reality, but are merely words or names.
 
-Philosophical presentism - Neither the future nor the past exists, as they are only in our [memories](understanding.md) and [imagination](people-imagination.md). Opposite of eternalism.
+Philosophical presentism - Neither the future nor the past exists, as they are only in our [memories](understanding.md) and [imagination](mind-imagination.md). Opposite of eternalism.
 
 Relativism - Facts have no absolute, so everything is relative to context. Opposite of absolutism.
 
@@ -65,7 +65,7 @@ Relativism - Facts have no absolute, so everything is relative to context. Oppos
 
 Anti-realism - We can't know about some things, or they don't exist.
 
-- Modal realism - [Imaginary](people-imagination.md) things are as possible as real things.
+- Modal realism - [Imaginary](mind-imagination.md) things are as possible as real things.
 
 Atomism - Everything in the universe is made of small elements.
 

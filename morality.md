@@ -16,7 +16,7 @@ Moral decisions are *always* a connection between several elements:
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](people-image-why.md) or [imagining](people-imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
+6. Authority - anyone [observing](people-image-why.md) or [imagining](mind-imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
 Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
 
@@ -24,7 +24,7 @@ APPLICATION: The moral hazard of a person is proportional to their [power](power
 
 Large moral decisions are conscious, but most moral decisions are unconscious [habits](habits.md). Ethics is strictly morality about the near-recent past, often driven by [animal impulses](mind-feelings.md) and [principles](values.md), with consequences that materialized in the present already.
 
-Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](people-imagination.md) the [consequences](results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
+Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](mind-imagination.md) the [consequences](results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
 
 ## Basis
 
@@ -32,7 +32,7 @@ Depending on the [philosophy](philosophy.md) of the perceiver, the goodness of t
 
 - Goodness in the motive is driven by a belief that virtue holds the most [value](values-quality.md).
 - Goodness in the decision comes from believing that we have little [control](results.md) over our actions.
-- Goodness in consequences comes from a belief that goodness and [results](results.md) are directly connected. This can get extremely complicated because of how [unpredictable](people-imagination.md) things are!
+- Goodness in consequences comes from a belief that goodness and [results](results.md) are directly connected. This can get extremely complicated because of how [unpredictable](mind-imagination.md) things are!
 
 APPLICATION: Moral decisions affect everyone differently, depending on their [philosophy](philosophy.md), but they're all built on a similar framework tied to our [universal wiring](humanity-universals.md) and have a relative component based on [cultural training](people-culture.md).
 
@@ -138,6 +138,6 @@ Humility is critical for the [good life](people-goodlife.md) and a [healthy soci
 - Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](people-image-why.md).
 - Giving a humble person power may provoke them to self-conceit and make them a poor [role model](people-culture.md) for others.
 - Even if a humble person received all the power, they're not always shrewd enough to hold back the [evil](morality-evil.md) or conceited people from taking power again.
-- True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
+- True, complete humility requires complete [self-awareness](mind-awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
 
-APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](people-imagination.md) that we're moral, but it doesn't do anything for our inner wellness.
+APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](mind-imagination.md) that we're moral, but it doesn't do anything for our inner wellness.

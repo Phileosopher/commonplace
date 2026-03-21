@@ -9,7 +9,7 @@ People create their first impression from your body language when they first see
 Most body language is subconscious:
 
 - Be authentic, since you can't fake [happiness](mind-feelings-happiness.md).
-- To change nonverbal language, you must change your identity and not merely your actions, which starts with [self-awareness](awareness.md).
+- To change nonverbal language, you must change your identity and not merely your actions, which starts with [self-awareness](mind-awareness.md).
 - Each body language style comes strictly from [personality](people-personality.md).
 - Copy your feelings naturally to your body and learn to move freely.
 - Always turn your entire body to the person you're speaking to.

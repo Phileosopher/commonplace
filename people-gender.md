@@ -22,7 +22,7 @@ Those facts create a framing of [understanding](understanding.md) that build the
 - Men tend to approach life as a set of [challenges](purpose.md), while women orient toward maintaining [safety](safety.md).
 - Men are generally better at [managing time](success-4_routine.md) whereas women at [managing space](organization.md).
 - Women are usually more [sensible](mind-feelings.md), while men are typically more [rational](logic.md).
-- Men are more [focused](success-3_goals.md), women are more [aware](awareness.md).
+- Men are more [focused](success-3_goals.md), women are more [aware](mind-awareness.md).
 - Males are capable of casual and disengaged sex, but females experience sex as a more interconnected portion of the rest of their life.
 
 Those differences in understanding make the [power dynamics](power.md) different:
@@ -60,7 +60,7 @@ APPLICATION: Men are stronger than women, and women are weaker than men, and thi
 
 However, many people heavily [identify](people-identity.md) with that portion of being human. Males, especially, will emphasize their penis, to the point that phallic [symbols](symbols.md) are perpetually present in daily life. Females express it as well, but often in more subtle ways.
 
-Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](people-imagination.md) everyone else does as well.
+Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](mind-imagination.md) everyone else does as well.
 
 ## Development
 
@@ -88,7 +88,7 @@ Even in a completely free society, males have more roles with heavy lifting and 
 
 With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](people-culture.md):
 
-- Men are usually seen as laborers, hunters, providers, and [establishers](socialrisk.md). They're usually more likely to steal from  and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
+- Men are usually seen as laborers, hunters, providers, and [establishers](entrepreneur-why.md). They're usually more likely to steal from  and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
 - Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md).
 
 This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have an harder time curbing their [feelings](mind-feelings.md).
@@ -127,7 +127,7 @@ Making a marriage is a type of [agreement](people-contracts.md). Irrespective of
 
 APPLICATION: Marriage is *not* rational, but is necessary to find [meaning](meaning.md) because it forces people to work out [conflicts](people-conflicts-why.md) with each other.
 
-Men tend to be more physically attracted to women than the other way around. For this reason, men tend to aim for [younger](maturity.md) women by a margin of 3-10 years. The stronger [risk-taking](socialrisk.md) tendencies in men also means they tend to live 3-4 years less than women.
+Men tend to be more physically attracted to women than the other way around. For this reason, men tend to aim for [younger](maturity.md) women by a margin of 3-10 years. The stronger [risk-taking](entrepreneur-why.md) tendencies in men also means they tend to live 3-4 years less than women.
 
 APPLICATION: Men pick younger women and tend to not live as long as women, which means that women are forced into a statistical likelihood of being alone when they're old, either by widowing or becoming a spinster (i.e., never marry).
 

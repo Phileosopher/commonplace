@@ -5,7 +5,7 @@ We build our understanding through [learning/education](education.md), which alw
 
 1. Performing something and witnessing its [results](results.md). This form gives the most information but is the most [unsafe](safety.md) without [creatively](mind-creativity.md) using [technology](technology.md).
 2. Directly observing something, often by seeing or touching it. Often, [media](creations.md) will reproduce that experience.
-3. Observing second-hand through [language](language.md). By reading or listening to other people who have experienced, we can [imagine](people-imagination.md) the experience for ourselves.
+3. Observing second-hand through [language](language.md). By reading or listening to other people who have experienced, we can [imagine](mind-imagination.md) the experience for ourselves.
 
 APPLICATION: We can't simply learn by [rote memorization](mind-memory.md) or [acquiring information](information.md). Instead, we must experience the information to know how to work with it.
 
@@ -15,8 +15,8 @@ We then process the information:
 
 1. We assemble the information in our mind using [visual imagery](people-image-why.md) and [language](language.md).
 2. [Our bias](mind-bias.md) filters the information to get rid of the useless parts.
-3. If we're not sure, we'll either [analyze](logic.md) or [meditate](awareness-meditation.md) on what we've received, or will seek our environment for more information.
-4. Our [soul](humanity.md) identifies when the remainder is sufficient that we can adequately [imagine](people-imagination.md) what we're observing.
+3. If we're not sure, we'll either [analyze](logic.md) or [meditate](mind-awareness-meditation.md) on what we've received, or will seek our environment for more information.
+4. Our [soul](humanity.md) identifies when the remainder is sufficient that we can adequately [imagine](mind-imagination.md) what we're observing.
 
 APPLICATION: [Small children](maturity.md) often can understand, but don't have words for what they understand. A considerable portion of their [parents'](people-family.md) job to give them those words.
 
@@ -51,7 +51,7 @@ To gain more understanding of [something we don't know](unknown.md), we generall
   - Why is that? - broadly asking any form of basis
   - Why do they? - asking the [motivation](purpose.md) behind the known action
   - Why does it? - asking the cause behind the known effect
-  - Why can/will it? - asking the [logic](logic.md) behind a [prediction](people-imagination.md)
+  - Why can/will it? - asking the [logic](logic.md) behind a [prediction](mind-imagination.md)
   - Why won't it? - finding the [unknown](unknown.md) obstruction toward a [purpose](purpose.md)
 
 APPLICATION: The types of questions we ask define most of the things we grow to understand. Asking "what" will never get anyone as far as asking "how" or "why". Curiosity is necessary to gain wisdom.

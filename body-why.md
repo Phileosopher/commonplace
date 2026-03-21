@@ -1,20 +1,9 @@
 
 # Why we must maintain our bodies
 
-The human body is a system of systems:
+The human body is a [system of systems](body-systems.md).
 
-- Cardiovascular/Circulatory system - transports things between most of the other systems
-- Digestive/Excretory system - takes in calorie energy as food, expels waste products
-- Endocrine system - manages hormones that regulate *all* the other systems
-- Integumentary/Exocrine system - a protective barrier between the outside and inside the body
-- Lymphatic/Immune system - fights foreign and potentially dangerous things within the body
-- Musculoskeletal system - helps the body move [mechanically](engineering.md)
-- Nervous system - sends information back-and-forth between the brain and the rest of the body
-- Reproductive system - helps [make children](parenting-babies.md)
-- Respiratory system - takes in oxygen, expels carbon dioxide
-- Renal/Urinary system - dissolves waste products in the blood and expels them as urine
-
-Further, the brain itself is [a vastly complex system of its own](science-life-neurology.md).
+- Further, the brain itself is [a vastly complex system of its own](science-life-neurology.md).
 
 This level of complexity means tiny problems can dramatically ripple across those systems and affect a person's overall health.
 
@@ -40,7 +29,7 @@ Weight management is absurdly easy to understand, but challenging to do:
 
 All effective diet and exercise programs change habits, which are naturally uncomfortable and frustrating:
 
-- People often obsess about calories because they imagine it takes more precision, but it only needs more [self-discipline](success-5_persevering.md) and [awareness](awareness.md) of those habits.
+- People often obsess about calories because they imagine it takes more precision, but it only needs more [self-discipline](success-5_persevering.md) and [awareness](mind-awareness.md) of those habits.
 - To avoid sabotaging willpower, get enough [sleep](sleep.md) to avoid extra stress.
 - Have a [creative outlet](mind-creativity.md) to avoid boredom that could lead to mindless eating.
 - If you're not losing weight from eating correctly or in severe pain while exercising, you aren't sticking with what you *can* achieve and burning out by trying to do too much over too small a period of time.

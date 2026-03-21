@@ -13,7 +13,7 @@ Unlike stress, stressors exist in the world around us:
   1. We feel we must take action
   2. We fear losing something
 
-While finding stress simply requires [meditation](awareness.md), changing it requires [changing our stressors](mind-feelings-happiness-stress.md).
+While finding stress simply requires [meditation](mind-awareness.md), changing it requires [changing our stressors](mind-feelings-happiness-stress.md).
 
 - Approaching this change needs [the right attitude](success-2_attitude.md) because you must sacrifice many, *many* old ways of thinking.
 - The speed of [this particular optical illusion](mind-feelings-happiness-stress.jpg) is a good indicator of how fast our mind is racing.
@@ -24,7 +24,7 @@ Not all stress is bad:
   - Lowers the risk of many fatal diseases
   - Increases [social skills and general sociability](people-3_respect.md)
   - [Learning](mind-memory.md) and [focusing](success-4_routine.md) are easier
-  - Increases [awareness](awareness.md) of our instincts
+  - Increases [awareness](mind-awareness.md) of our instincts
 - Distress, by contrast, inspires [fear](mind-feelings-fear.md) and [uncertainty](unknown.md):
   - Causes waste in resources, time, and energy
   - Linked to many health problems like heart attack and stroke
@@ -135,7 +135,7 @@ Use the Holmes-Rahe Stress Inventory to track your longer-term stressors:
 
 Resolving distress requires understanding your stressors:
 
-1. [Meditate](awareness-meditation.md) on your thoughts to find overwhelming feelings.
+1. [Meditate](mind-awareness-meditation.md) on your thoughts to find overwhelming feelings.
    - Try to track the feelings as they occur.
 2. Recognize the line between what you can and can't control.
    - Focus on the facts behind your feelings.
@@ -183,7 +183,7 @@ Frequently, most things we do meet multiple physical/psychological needs at once
 Without self-correction, we will imagine the future will happen *exactly* how we see it right now:
 
 - A bad day can, in theory, become the start of a bad year or a bad life.
-- It's a waste of time to obsess about it, and we should simply become [aware](awareness.md) of the risks so that we can do something about them.
+- It's a waste of time to obsess about it, and we should simply become [aware](mind-awareness.md) of the risks so that we can do something about them.
 - If we don't know *what* to prepare for, we get stuck into a locked state of hyper-prepared misery, which brings many psychological [hardships](hardship.md) with it.
 - The best solution is to simply pick something and random and [work on it](success-3_goals.md).
 
@@ -289,7 +289,7 @@ Keep a journal or diary:
 Develop yourself spiritually:
 
 - Trust that [God is in control](god-will.md).
-- Learn [meditation](awareness-meditation.md).
+- Learn [meditation](mind-awareness-meditation.md).
 - Connect with other people of faith.
 
 Create a savoring album:

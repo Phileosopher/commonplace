@@ -90,7 +90,7 @@ You don't see your future with the company:
 
 The position obstructs one of your main life goals:
 
-- You're prepared to [start your own business](entrepreneur-1_why.md).
+- You're prepared to [start your own business](entrepreneur-1_what.md).
 - You're [getting married](relationships-marriage.md) or [having a child](parenting-babies.md) and want to be a homemaker.
 - You're trying to [move](home-moving.md) to a region the company doesn't cover or won't authorize the transfer.
 

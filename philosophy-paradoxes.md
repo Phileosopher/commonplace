@@ -1,7 +1,7 @@
 
 # Thought experiments and paradoxes list
 
-This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](people-imagination.md) designed to carve out very particular elements of [understanding](understanding.md).
+This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](mind-imagination.md) designed to carve out very particular elements of [understanding](understanding.md).
 
 They're usually implied as entertaining [stories](stories-why.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](glossary-philosophy.md) and why [some laws are universal](lawsaxioms.md).
 

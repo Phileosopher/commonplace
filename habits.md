@@ -5,7 +5,7 @@ A habit is anything that psychology broadly classifies as "conditioned response"
 
 Habits are a type of neurological [story](stories-why.md) with a relatively simple mechanism:
 
-1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](people-imagination.md) of a [result](results.md).
+1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](mind-imagination.md) of a [result](results.md).
    - We regard it as enough of a [perceived fact](reality.md) that we [believe it](understanding-certainty.md).
    - Triggers can be either environmental (e.g., sight, sound, or sentence) or in our perceptions (e.g., memory, [feeling](mind-feelings.md), a simple thought).
 2. A **method** of [thinking](understanding.md) or [doing](results.md).
@@ -21,7 +21,7 @@ Habits are more powerful than mere [decisions](mind-decisions.md) because they b
 
 We don't usually need to learn *how* habits work because they work automatically, though awareness of our habits can be useful for [diagnosing](https://adequate.life/fix/) a failed [decision](mind-decisions.md) or [consequence](results.md).
 
-We chemically experience pleasure when we create the [results](results.md) we [expected](people-imagination.md), but it's diminished when we don't.
+We chemically experience pleasure when we create the [results](results.md) we [expected](mind-imagination.md), but it's diminished when we don't.
 
 [Addictions](addiction.md) complicate this situation through a type of [religious devotion](religion.md) to the substance.
 
@@ -35,7 +35,7 @@ Starting with [infancy](maturity.md), we build habits into ever-increasing struc
 
 ## Automation
 
-Everything with a routine or pattern can (and will) become a habit. Habits simplify life because they removes the need to think about mundane matters by using information in [the environment](reality.md) instead. In fact, they do such a good job that they *prevent* [self-awareness](awareness.md) when left alone.
+Everything with a routine or pattern can (and will) become a habit. Habits simplify life because they removes the need to think about mundane matters by using information in [the environment](reality.md) instead. In fact, they do such a good job that they *prevent* [self-awareness](mind-awareness.md) when left alone.
 
 By adulthood, 90% of our lives' decisions are automated into habits:
 
@@ -44,18 +44,18 @@ By adulthood, 90% of our lives' decisions are automated into habits:
 - Daily activities
 - Unspoken [social rules](people-rules.md)
 - [Lying](people-lying.md)
-- What we [expect](people-imagination.md) from others
-- [What we would like to do](people-imagination.md)
+- What we [expect](mind-imagination.md) from others
+- [What we would like to do](mind-imagination.md)
 
 Habits are extremely persistent because each habit provides *two* [emotional](mind-feelings.md) spikes of dopamine:
 
 1. We can often perform a task that has no more reward to it, but starting it made us feel good.
-2. We can do things we don't like, but prior experience at the end makes us [expect](people-imagination.md) it will feel good.
+2. We can do things we don't like, but prior experience at the end makes us [expect](mind-imagination.md) it will feel good.
 3. Even when a task is no longer rewarding in any tangible way, the familiarity of it can still provide a rewarding experience.
 
 [Mathematically](math.md), habits have an exponential curve. The first month may produce 4 of something, the second produces 12, the third 40, and so on, up until we reach [logistical](logistics.md) constraints defined by our available [technology](technology.md).
 
-Living "[in the moment](awareness.md)" is the only way to fight habits' eventual takeover. Anytime we feel an impulse or urge, a habit is triggering.
+Living "[in the moment](mind-awareness.md)" is the only way to fight habits' eventual takeover. Anytime we feel an impulse or urge, a habit is triggering.
 
 As we [age](maturity.md), habits become increasingly difficult to change, mostly because our brains run *many* neural pathways along highly-used pathways. It's always possible for us to change, but we tend to [fear](mind-feelings-fear.md) it more as we get older because we've grown accustomed to the way we've done things.
 
@@ -79,7 +79,7 @@ Mental disorders from our [upbringing](people-family.md) can make a relatively n
 
 Even when there's no benefit, we typically [feel](mind-feelings.md) comfortable with what we're familiar with. Our [guardians](people-family.md) raised us in a [culture](people-culture.md) we believed as children to be "the best way" irrespective of [reality](reality.md), and it's not uncommon for people to persist in it, at least partly.
 
-However, a minority of people will break so hard from their culture that they feel more comfortable with change than familiarity. These people tend to [break rules](morality-taboo.md) and start [trends](people-trends.md). If they're [successful](success-1_why.md) enough, their [risks](socialrisk.md) will pay off.
+However, a minority of people will break so hard from their culture that they feel more comfortable with change than familiarity. These people tend to [break rules](morality-taboo.md) and start [trends](people-trends.md). If they're [successful](success-1_why.md) enough, their [risks](entrepreneur-why.md) will pay off.
 
 ## The good and bad effects of habits
 
@@ -87,7 +87,7 @@ Habits are a neutral mechanism. While all virtues are good habits, as well as al
 
 APPLICATION: While habits are inherently neutral, the results they create and their [original motivation](morality.md) can determine if they're good or bad. Staying on top of them requires [changing](people-changes.md) to attain the [results](results.md) you want.
 
-One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](results.md) than if we had simply [trusted](trust.md) our habits.
+One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](results.md) than if we had simply [trusted](mind-trust.md) our habits.
 
 [Bad habits destroy us](https://adequate.life/habits/). We usually permit bad habits because they provide short-term benefits, and we tend not to [feel](mind-feelings.md) long-term adverse consequences without training. Or, to put it more plainly, hard work pays off tomorrow while laziness pays off now.
 

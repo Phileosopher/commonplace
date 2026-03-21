@@ -62,19 +62,19 @@ APPLICATION: Whatever someone does for a living profoundly changes how they [thi
 
 ## Trust
 
-We tend to [expect](people-imagination.md) more out of ourselves and others when we're using technology. Since we [trusted](trust.md) it more than we realized, we tend to feel lost and helpless when that technology fails.
+We tend to [expect](mind-imagination.md) more out of ourselves and others when we're using technology. Since we [trusted](mind-trust.md) it more than we realized, we tend to feel lost and helpless when that technology fails.
 
 Typically, people treat a technological thing as a separate entity with a separate [essence](humanity.md). A [created](creations.md) thing, however, can only operate under the [purpose](purpose.md) of its creator or user. Even if it's taught to learn for itself (e.g., [artificial intelligence](computers-ai.md)), it'll still only learn within the scope of its instructions and never [self-determine](mind-decisions.md).
 
 We also tend to separate technology from the rest of nature. Even though we're using natural resources, steel and plastic often [feel](mind-feelings.md) "fake" by comparison from how [well-crafted](values-quality.md) they are. This is only an illusion based on our interpretation of [order](unknown.md).
 
-Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](people-imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](people-culture.md) will [presume](understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](people-culture.md)).
+Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](mind-imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](people-culture.md) will [presume](understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](people-culture.md)).
 
 ## Usage
 
 Technology is the outflow of a type of "laziness". Instead of doing something in a more difficult way, we can simplify our time by doing it another way or using an [unconventional](habits.md) thing.
 
-Since technology is sophisticated, clever, and [designed](engineering.md) more around intuition than force, its "[gender](gender.md)" is female. Men and women alike use it (and its venture into [the unknown](unknown.md) makes it often a male-dominated workforce), but it always requires more finesse and intricacy than working without it. This has cultural implications that takes away from the "masculine" culture typically associated with more direct [work](purpose.md).
+Since technology is sophisticated, clever, and [designed](engineering.md) more around intuition than force, its "[gender](people-gender.md)" is female. Men and women alike use it (and its venture into [the unknown](unknown.md) makes it often a male-dominated workforce), but it always requires more finesse and intricacy than working without it. This has cultural implications that takes away from the "masculine" culture typically associated with more direct [work](purpose.md).
 
 One of the most dominant ways to manipulate a technology is through "energy", which is an abstracted [form of power](power-types.md) that makes that technology work. This is bound to whatever [physical engineering](science-physics.md) happens to be the most efficient at the time. It can include gravity, inertia, and [electricity](engineering-electrical.md).
 
@@ -96,7 +96,7 @@ The things we build are often rebuilt and improved later for a [specialization](
 
 New technology [culturally](people-culture.md) disseminates as a [social trend](people-trends.md). Innovators adopt it first, then the majority adopts it for various reasons. There will *always* be laggards who refuse to adopt the technology, frequently on [moral](morality.md) grounds.
 
-All technology becomes progressively more [reliable](trust.md), up to a point. Afterward, the [trade-offs](mind-decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](people-trends.md), the trend followers won't care and will use it even when it's *not* reliable.
+All technology becomes progressively more [reliable](mind-trust.md), up to a point. Afterward, the [trade-offs](mind-decisions.md) to make it *more* reliable aren't worth the cost. If a specific technology is relatively new but [revolutionary](people-trends.md), the trend followers won't care and will use it even when it's *not* reliable.
 
 We [change](people-changes.md) to conform to our environment. If we expose ourselves frequently to a certain technology, we'll adapt to [reasoning](logic.md) that harmonizes with that technology's [design](values.md).
 
@@ -150,17 +150,17 @@ APPLICATION: Without [changing human nature](politics-perfectsociety.md), the mo
 
 All [social class divides](classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
-Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](awareness.md) outside that technology again.
+Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
 
 Technology is also tremendous [power](power.md), often more than we can [safely](safety.md) handle. A public means to [communicate](people-conversation.md) across vast distances with many people immediately, for example, means some [immature](maturity.md) people should more thoroughly [consider](understanding.md) what they're saying before using it, and people can inadvertently destroy their lives by one careless gesture.
 
 APPLICATION: Technology has allowed the average college student today to have more knowledge than Socrates or Josephus. This doesn't reflect as wisdom because [understanding](understanding.md) requires things influencing our [intuition](mind-feelings.md) for our [souls](humanity.md) to recognize it.
 
-Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts-why.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](people-imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
+Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts-why.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](mind-imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
 
 APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](people-trends.md) dies. If they do, they can slow the trend indefinitely.
 
-APPLICATION: In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](mind-decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
+APPLICATION: In a [perfect society](politics-perfectsociety.md), technology would be freely shared. We can never live in one until *everyone* [trusts](mind-trust.md) each other, which can only happen when people stop making [evil](morality-evil.md) [decisions](mind-decisions.md). But, each person can have a publicly accessible [commonplace book](https://stucky.tech/notes/) or [technological toolbox](https://github.com/phileosopher/toolbox) until then.
 
 As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](results.md) instead.
 

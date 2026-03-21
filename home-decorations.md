@@ -247,6 +247,8 @@ Improve your fixtures:
 
 Front entryway:
 
+- Get or make a memorable welcome mat with something funny or enriching:
+  - Some mats have a font style that says "Go Away" or "Come In" depending which way it's turned.
 - If you are concerned about privacy from a peephole, cover it with a decoration.
   - Hang a stuffed animal or seasonal wreath.
   - Make a barn door with popsicle sticks, glue, and duct tape.
@@ -254,6 +256,7 @@ Front entryway:
   - Attach Legos to keychains, then secure a flat piece against the wall.
   - Secure a relatively strong magnet behind a light switch plate.
 - If you're updating a wide stairwell, add a slide next to it.
+- For [security reasons](safety-security.md), do *not* show your family name on the front of the house.
 
 Living room, kitchen, and family room:
 

@@ -182,7 +182,7 @@ Once a culture has been exposed to *lots* of evangelism, that society becomes po
 
 There are a few possible, predictable ways a non-Christian will respond to a Gospel presentation.
 
-The least likely response will be curiosity mixed with hesitant [hope](trust.md).
+The least likely response will be curiosity mixed with hesitant [hope](mind-trust.md).
 
 - To some effect, they see a potential opportunity for redemption and healing.
 - They'll often distrust many elements of it, since [Jesus' sacrifice](https://theologos.site/gospel/) does *not* require them to give [something back for the exchange](people-contracts.md).
@@ -221,7 +221,7 @@ Some non-believers defend their views through elaborate thinking that they're ty
   - [God](theology-god.md) is a reckless child in a playground or an angry man in the clouds.
   - [Sin](theology-sins.md) is simply a perception, and doesn't exist, or doesn't apply.
   - The [spiritual world](spiritual-warfare.md) can be just as easily [understood](understanding.md) as the physical world.
-  - Nobody, whatsoever, is [trustworthy](trust.md).
+  - Nobody, whatsoever, is [trustworthy](mind-trust.md).
 - Many of them are *very* skilled at making Christians lose their patience and dragging out an argument.
 - Other people are legitimately seeking Jesus, and your joy is more important (and likely) than winning an argument with them.
 

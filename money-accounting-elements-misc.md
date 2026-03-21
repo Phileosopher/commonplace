@@ -7,7 +7,7 @@ Typically, valuations take more work than most standard accounting activities, s
 
 - The measurement will be very specific when investors, governments, or equity-holders want to see it.
 
-[Estimations](people-imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
+[Estimations](mind-imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
 
 The book value is the lesser of the original cost paid for the asset (historical value) and its current value (fair market value).
 

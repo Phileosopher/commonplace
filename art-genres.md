@@ -33,11 +33,17 @@ There must always be an unsolved mystery to both the main character and the audi
 
 Some genres are difficult to parse separately, and broadly fit into the domain of "speculative fiction".
 
-- This is because they all require an unusual amount of [imagination](people-imagination.md) or suspension of disbelief, so they end up merging together in many ways.
+- This is because they all require an unusual amount of [imagination](mind-imagination.md) or suspension of disbelief, so they end up merging together in many ways.
 
 ### Horror/Thriller
 
 Only reveal portions of the antagonist, but never the full scope of the character, even during the climax of the story
+
+- Since we find strength in community, always employ some form of isolation (e.g., remote location, trapped inside something).
+
+The main character must be in a situation where the only people they can [trust](mind-trust.md) are in some way untrustworthy.
+
+- They can be any variety of unlikeable, [narcissist](mind-neurodivergence-clusterb-narcissist.md), incompetent, or overly trusting.
 
 If any audio is present, use extremely low-frequency audio (infrasound) to evoke [fear](mind-feelings-fear.md)
 

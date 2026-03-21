@@ -132,7 +132,7 @@ They need a paying job, preferably sooner than later:
 Once they have a job, they must contribute to the household's costs:
 
 - You must clarify beforehand your criteria for your continued financial support:
-  - They must have a [job](jobs-1_why.md), [training for one](jobs-college.md), or [building a business](entrepreneur-1_why.md).
+  - They must have a [job](jobs-1_why.md), [training for one](jobs-college.md), or [building a business](entrepreneur-1_what.md).
   - If they make excuses, have a clearly defined boundary for when they must leave (e.g., at age 18, finishing high school, etc.).
 - Some teenagers will voluntarily pay for household needs, but you may need to charge rent for others.
 - Require them to pay expenses like driving school, cars, and gas.

@@ -20,7 +20,7 @@ APPLICATION: People want to be important, so they look for [power](power.md) to 
 Love is not only the pinnacle of human existence. It is *the* foundation of all human [purpose](purpose.md) and [meaning](meaning.md):
 
 1. [Survival](mind-feelings-fear.md) is loving oneself at the present moment.
-2. [Safety](safety.md) is loving one's [foreseeable](people-imagination.md) future self.
+2. [Safety](safety.md) is loving one's [foreseeable](mind-imagination.md) future self.
 3. Love/Affection is to love others to gain [friendship](people-friends-why.md).
 4. Self-esteem is to love one's [essence](humanity.md).
 5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all of the above.
@@ -46,10 +46,10 @@ The complexity of our essence means we can specify *very* particular objects of 
 
 ### Self
 
-Since we're most [aware](awareness.md) of ourselves, we feel things about us more than anything or anyone else:
+Since we're most [aware](mind-awareness.md) of ourselves, we feel things about us more than anything or anyone else:
 
 - Ourselves in the present moment (i.e., "survival")
-- Ourselves in the [foreseeable future](people-imagination.md) (i.e., "[safety](safety.md)")
+- Ourselves in the [foreseeable future](mind-imagination.md) (i.e., "[safety](safety.md)")
 - [Who we really are](humanity.md) (*philautia* in Greek)
 
 We *can* love others like ourselves, but we're incapable of loving others *more* than ourselves because we don't know about others' needs as easily as our own. While we may [understand](understanding.md) others' needs somewhat, we only extend our love as far as we can adapt our [universal human understanding](humanity-universals.md) out from ourselves toward others.
@@ -73,7 +73,7 @@ We can love what a person does.
 
 - Their labor and [results](results.md)
 - Their natural abilities and [understanding](understanding.md)
-- [Future](people-imagination.md) abilities or results
+- [Future](mind-imagination.md) abilities or results
 
 We can love who a person is (*agape*/*philia* in Greek, depending on whether we have more [power](power.md) or the same).
 
@@ -81,11 +81,11 @@ APPLICATION: Loving someone's physical state is easy, but isn't as important as 
 
 We can love someone who doesn't exist yet, such as what they may or will [become](people-changes.md).
 
-APPLICATION: If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](people-imagination.md) of them more than those around us.
+APPLICATION: If we love others, we must frequently set aside the ideals we have for them. Otherwise, we end up loving our [imagination](mind-imagination.md) of them more than those around us.
 
-Any attempt to overwork our sacrifice for others will fail because [our constant changing](people-changes.md) will make our [expectations](people-imagination.md) constantly fail.
+Any attempt to overwork our sacrifice for others will fail because [our constant changing](people-changes.md) will make our [expectations](mind-imagination.md) constantly fail.
 
-APPLICATION: The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](people-imagination.md).
+APPLICATION: The most significant [meaning](meaning.md) we can ever find is through loving other people. Every other form of love is inferior by comparison, including loving an [ideal](values.md) or loving [what a person *could* be](mind-imagination.md).
 
 ### Other objects
 
@@ -111,17 +111,17 @@ Small variations in portions of what we love creates profound differences in how
 - Loving someone's [safety](safety.md) more than their [happiness](mind-feelings-happiness.md) will mean protecting them against their [will](purpose.md).
 - Loving something's [use](purpose.md) over its [appearance](people-image-why.md) will mean we will damage its exterior over time.
 - Loving an idea's [application](mind-decisions.md) more than its inherent [qualities](values-quality.md) means we will change our minds about it later.
-- Loving our present self over our future self provokes us to avoid [planning for the future](people-imagination.md).
+- Loving our present self over our future self provokes us to avoid [planning for the future](mind-imagination.md).
 
-APPLICATION: Most of what we do is prioritizing what we love in some form. A faithful [marriage](gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).
+APPLICATION: Most of what we do is prioritizing what we love in some form. A faithful [marriage](people-gender.md) is emotionally and sexually loving a spouse *more* than anyone else. This often requires [courage](mind-feelings-fear.md).
 
-We often can't tell if others love us, or in what capacity of preservation, and it creates a [communication](people-conversation.md) barrier because we must take their love on [faith](trust.md).
+We often can't tell if others love us, or in what capacity of preservation, and it creates a [communication](people-conversation.md) barrier because we must take their love on [faith](mind-trust.md).
 
-APPLICATION: If something harms us, we can't always be sure the person who caused it is [evil](morality-evil.md) or incompetent, and loving means to *always* presuming incompetence until proven wrong. Going forward, we may not be able to [trust](trust.md) them as much either way, but we don't risk [unjustly](morality-justice.md) harming them from assuming them to be evil when they weren't.
+APPLICATION: If something harms us, we can't always be sure the person who caused it is [evil](morality-evil.md) or incompetent, and loving means to *always* presuming incompetence until proven wrong. Going forward, we may not be able to [trust](mind-trust.md) them as much either way, but we don't risk [unjustly](morality-justice.md) harming them from assuming them to be evil when they weren't.
 
-The most effective way to love someone, however, is in a way they weren't [expecting](people-imagination.md).
+The most effective way to love someone, however, is in a way they weren't [expecting](mind-imagination.md).
 
-APPLICATION: If you wish to love someone wholeheartedly, do something they don't expect, or in a way beyond what they were [expecting](people-imagination.md). They will likely be [surprised](mind-feelings-surprise.md) by it, and your action may [change their worldview](people-changes.md).
+APPLICATION: If you wish to love someone wholeheartedly, do something they don't expect, or in a way beyond what they were [expecting](mind-imagination.md). They will likely be [surprised](mind-feelings-surprise.md) by it, and your action may [change their worldview](people-changes.md).
 
 ## Ideal love
 
@@ -142,6 +142,6 @@ APPLICATION: We don't always see the results of love immediately, so the groundw
 
 Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
-Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts-why.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](people-imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
+Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts-why.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](people-culture.md) and [misunderstanding intent](mind-imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
-Loving people requires vulnerability, which is a [social risk](socialrisk.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").
+Loving people requires vulnerability, which is a [social risk](entrepreneur-why.md) that could lead to lost [power](power.md), so most people are too [afraid](mind-feelings-fear.md) to love. Instead, most people try to find a middle ground between self-interest and love ("selfish love").

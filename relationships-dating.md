@@ -3,7 +3,7 @@
 
 Most people want a life partner, but it comes with many risks:
 
-- Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](awareness.md), and you *will* be forced to change.
+- Since you're so close to someone else, they'll draw attention to issues [you weren't aware of](mind-awareness.md), and you *will* be forced to change.
 - If you're [unhappy](mind-feelings-happiness.md), you'll make others unhappy, no matter who they are.
   - Relationships give more *chances* at happiness, but you must use them.
 - Relationships dramatically alter lifestyle [habits](habits.md) about [health](body-health.md), [money](money-1_why.md), [housekeeping](home-housekeeping.md), and overall [success](success-1_why.md).
@@ -33,7 +33,7 @@ Contrary to popular opinion, compatibility is mostly unrelated to relationship s
 
 ## Understand yourself compared to others
 
-It's difficult without practice, but you can *immediately* know why you like someone if you [examine yourself](awareness.md), then compare yourself to them.
+It's difficult without practice, but you can *immediately* know why you like someone if you [examine yourself](mind-awareness.md), then compare yourself to them.
 
 Emotional temperament:
 
@@ -187,7 +187,7 @@ Falling in love is a terrible way to make romantic decisions:
 - In fact, belief in "true love" romance stories has been scientifically proven to give poor relationship success.
 - Instead of thinking "I love them" you should be able to say, "I can live with their worst traits for the rest of my life".
 
-Many of the things people do in romantic books and movies [disrespect boundaries](people-3_respect.md), [break laws](legal-safety.md), and destroy [trust](trust.md).
+Many of the things people do in romantic books and movies [disrespect boundaries](people-3_respect.md), [break laws](legal-safety.md), and destroy [trust](mind-trust.md).
 
 Watch for *any* [warning signs](relationships-dating-warning.md) they may be exhibiting, and run away fast if you see them.
 
@@ -312,7 +312,7 @@ Deciding on marriage has degrees of intention:
    - Fear of being alone and never settling down.
    - Love for someone and desire for what's best for both of you.
 3. Following your intuition irrespective of logic or feelings.
-   - Spend time becoming [aware](awareness.md) of what you're sensing.
+   - Spend time becoming [aware](mind-awareness.md) of what you're sensing.
 4. Deep, considerate [analysis](logic.md) that weighs out pros and cons.
    - Examine the thoughts that lead to your instincts.
    - Fully understand both the good and bad consequences.

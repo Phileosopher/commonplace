@@ -8,19 +8,19 @@ Every decision is a type of "[values](values.md) calculus" that weighs benefits 
 A. general factors:
 
 - The [impression](people-image-why.md) we get and our reactions to it.
-- [Short-term](logic.md) versus [long-term](people-imagination.md) effects of almost everything.
-- Every one of the possibilities we can [imagine](people-imagination.md), including "[third options](mind-creativity.md)" that often require more [risk](safety.md).
+- [Short-term](logic.md) versus [long-term](mind-imagination.md) effects of almost everything.
+- Every one of the possibilities we can [imagine](mind-imagination.md), including "[third options](mind-creativity.md)" that often require more [risk](safety.md).
 - The shortage of a specific resource (i.e., "[scarcity](money-economics.md)").
 
 B. [comfort](mind-feelings.md) factors:
 
-- How much pain or pleasure we'll experience. More specifically, how intense, [likely](people-imagination.md), and how far in the future. We tend to feel more pain from losing things than from never having had those things.
-- Who and what we [trust](trust.md), and how much.
+- How much pain or pleasure we'll experience. More specifically, how intense, [likely](mind-imagination.md), and how far in the future. We tend to feel more pain from losing things than from never having had those things.
+- Who and what we [trust](mind-trust.md), and how much.
 - How much that pain or pleasure will create *other* pain or pleasure.
 - How much [effort](results.md) we'd have to do to complete something.
 - What we're already [familiar](habits.md) with and accustomed to.
 - Who and what we [fear](mind-feelings-fear.md), along with our requirements to [feel](mind-feelings.md) [safe](safety.md).
-- Things we [don't know](unknown.md) or imagine potentially not knowing, including things we [imagine](people-imagination.md) we *can't* know.
+- Things we [don't know](unknown.md) or imagine potentially not knowing, including things we [imagine](mind-imagination.md) we *can't* know.
 - Spontaneous impulse to find [certainty](understanding-certainty.md) in the midst of too much [uncertainty](unknown.md) (which can be from too many choices).
 
 APPLICATION: Whining and complaining are the paths of least resistance, but they also produce very few [results](results.md). [Astute observers](success-1_why.md) try to only do things that *do* make results and, thus, are the long-term path of least resistance.
@@ -28,12 +28,12 @@ APPLICATION: Whining and complaining are the paths of least resistance, but they
 C. [purpose](purpose.md) factors:
 
 - Who and what we [love](people-love.md).
-- How much we [trust](trust.md) that various decisions could go according to our [expectations](people-imagination.md).
-- To the degree we care about the [future](people-imagination.md), how much [time or energy](power-types.md) we can save in the long term.
-- [Moral](morality.md) standards and [expected](people-imagination.md) moral consequences.
+- How much we [trust](mind-trust.md) that various decisions could go according to our [expectations](mind-imagination.md).
+- To the degree we care about the [future](mind-imagination.md), how much [time or energy](power-types.md) we can save in the long term.
+- [Moral](morality.md) standards and [expected](mind-imagination.md) moral consequences.
 - How things may hurt or help others we [identify](people-identity.md) with, such as those in one of our [groups](groups-member.md).
 
-APPLICATION: We often decide things to conform to our [identity](people-identity.md), so [awareness](awareness.md) of our decisions is necessary to be aware of our identity, which needs constant tweaking to attain [the good life](people-goodlife.md).
+APPLICATION: We often decide things to conform to our [identity](people-identity.md), so [awareness](mind-awareness.md) of our decisions is necessary to be aware of our identity, which needs constant tweaking to attain [the good life](people-goodlife.md).
 
 D. [power](power.md) factors:
 
@@ -66,7 +66,7 @@ Most of our prioritization is based on comparison. Even when it's a [mathematica
 
 We frequently compare ourselves with others, though [it makes very little sense to do so](people-personality.md), and entire [social groups](groups-member.md) are often *defined* by this comparison aspect.
 
-APPLICATION: If you want to think more clearly, [imagine](people-imagination.md) if someone else was in your exact predicament and wanted your advice. What would you tell them?
+APPLICATION: If you want to think more clearly, [imagine](mind-imagination.md) if someone else was in your exact predicament and wanted your advice. What would you tell them?
 
 Except for [principles](understanding-certainty.md), we tend to choose the path of least resistance. However, some principles are *also* the path of least resistance if we've [trained](understanding-certainty.md) our minds to them.
 
@@ -74,11 +74,11 @@ When we consider more aspects of [power](power.md), we tend to think more [selfi
 
 Even with training, we tend to weigh anecdotal evidence that incorporates many [feelings](mind-feelings.md) than others' hard, concrete [scientific](science.md) evidence. The only way to fix the discrepancy is by feeling that science ourselves, but accomplishing that requires tremendous [wisdom](understanding.md) (especially when many other people have reason to [distort the truth](people-image-distortion.md)).
 
-When we're very [inexperienced](maturity.md), we tend to underestimate the resources we need. However, once we've amassed enough [wisdom](understanding.md), we'll often risk *over*estimating resources. The most precise way to [predict](people-imagination.md) resource use is from remembering and correctly applying [results](results.md) from the past that have a similar context. Even then, [we can never be fully sure](unknown.md).
+When we're very [inexperienced](maturity.md), we tend to underestimate the resources we need. However, once we've amassed enough [wisdom](understanding.md), we'll often risk *over*estimating resources. The most precise way to [predict](mind-imagination.md) resource use is from remembering and correctly applying [results](results.md) from the past that have a similar context. Even then, [we can never be fully sure](unknown.md).
 
 We tend to more frequently avoid bad [risks](safety.md) than pursue more advantageous benefits. However, we invert it and take *tremendous* risks when we [feel](mind-feelings.md) we have nothing left to lose (e.g., surviving, [addiction](addiction.md)).
 
-APPLICATION: Our risk-averse tendencies create a type of social order (since only [innovators and early adopters](people-trends.md) will [risk everything](socialrisk.md)), and it means taking larger risks can yield *dramatically* larger results because nobody else is reaping those benefits.
+APPLICATION: Our risk-averse tendencies create a type of social order (since only [innovators and early adopters](people-trends.md) will [risk everything](entrepreneur-why.md)), and it means taking larger risks can yield *dramatically* larger results because nobody else is reaping those benefits.
 
 ## Calculus part 3: execution
 
@@ -109,13 +109,13 @@ These feelings come from many sources, and aren't always connected directly with
 - Things we [interpret](people-image-why.md) may make us lose [power](power.md).
 - Actions we [observe](people-image-why.md) or [do](results.md) that are [improper](people-rules.md) or [taboo](morality-taboo.md).
 
-APPLICATION: Our [feelings](mind-feelings.md), to the degree we aren't [aware](awareness.md) of them, affect *all* our decisions. If they're tuned correctly, it's a tremendous force of aptitude, but [past trauma](hardship-ptsd.md) can distort it, and it's highly subject to [disorientation](people-image-distortion.md).
+APPLICATION: Our [feelings](mind-feelings.md), to the degree we aren't [aware](mind-awareness.md) of them, affect *all* our decisions. If they're tuned correctly, it's a tremendous force of aptitude, but [past trauma](hardship-ptsd.md) can distort it, and it's highly subject to [disorientation](people-image-distortion.md).
 
 Stress can frequently "strip away" new habits and force us to regress back to the desires from when we were *much* younger. At that point, people will select chocolate cake over fruit salad, fall back into long-abandoned [addictions](addiction.md), make rude remarks over [propriety](people-rules.md), and make [self-interested](morality-evil.md) choices over selfless ones.
 
 More variety of choices means we'll have a harder time deciding from the extra mental effort, and making difficult decisions tends to give us less [satisfaction](habits.md) than making simple decisions. Eventually, too many choices can simply make our minds shut down entirely about the matter, and we'll grab something on an impulse to make the [problem](purpose.md) go away.
 
-APPLICATION: Always [communicate](awareness.md) a few broad decisions to others, then scope out from there as you're more [certain](understanding-certainty.md) on the specifics.
+APPLICATION: Always [communicate](mind-awareness.md) a few broad decisions to others, then scope out from there as you're more [certain](understanding-certainty.md) on the specifics.
 
 In other words, every choice has its benefits and downsides, and we become progressively better at deciding, up to a breaking point. At that point, our capacity for decision-making becomes no better than pure randomness, or we will simply decide *not* to decide at that point.
 
@@ -125,7 +125,7 @@ APPLICATION: Someone has to decide, and the best decider is the one who has the 
 
 The more we think about a decision, the more [important](meaning.md) that decision [feels](mind-feelings.md) to us, and the more stress we feel from deciding. Once we've reached the breaking point, we become *worse* at making clear decisions from a [fear](mind-feelings-fear.md) the decision won't pay out what we invested in it.
 
-APPLICATION: If we're stressed about a decision, we should instead [recondition](habits.md) ourselves to become curious instead. We should also learn [gratitude](morality.md) that we can even *decide* in that situation, and constantly work to lower our [expectations](people-imagination.md).
+APPLICATION: If we're stressed about a decision, we should instead [recondition](habits.md) ourselves to become curious instead. We should also learn [gratitude](morality.md) that we can even *decide* in that situation, and constantly work to lower our [expectations](mind-imagination.md).
 
 The more choices we have, the more accurate and dissatisfied we'll be with the result. This is fine for things like what [job](jobs-1_why.md) to train for, but *terrible* for when we must decide to do something [fun](fun.md).
 
@@ -143,7 +143,7 @@ Mulling over decisions can't satisfy us, mostly because more [thinking](logic.md
 
 APPLICATION: True [experts](jobs-specialization.md) are aware when they [don't know](unknown.md). The best way to find out is to ask an expert in one domain what their opinion is about a related-enough domain. For example, if you [know](understanding.md) about electrical wiring, ask a plumber what their opinion is about electrical wiring: their answer should resonate with what you know to be true, while also showing they don't know as much as you.
 
-We need certainty proportionally to the scope of the [consequences](results.md) we [predict](people-imagination.md) for a decision. Choosing a hamburger or chicken sandwich is merely a matter of [preference](mind-decisions.md), but choosing to [change jobs](jobs-1_why.md) or work for a promotion can affect *years* of a lifestyle.
+We need certainty proportionally to the scope of the [consequences](results.md) we [predict](mind-imagination.md) for a decision. Choosing a hamburger or chicken sandwich is merely a matter of [preference](mind-decisions.md), but choosing to [change jobs](jobs-1_why.md) or work for a promotion can affect *years* of a lifestyle.
 
 APPLICATION: We should pay close attention to whether a decision is important, and whether it can be reversed:
 
@@ -162,15 +162,15 @@ We may consult [friends](hardship-friends.md) or an [expert](jobs-specialization
 1. We can more clearly [understand](understanding.md) the likely consequences of our decisions through another [perspective](people-image-why.md).
 2. We don't feel like we're entirely [responsible](meaning.md) for the decision we ultimately make, since their advice guided it.
 3. Our relationship with that [friend](hardship-friends.md) or [institution](groups-large.md) is strengthened.
-4. In the case of an expert and [their institution](groups-large.md), we can learn whether they are [trustworthy](trust.md) for future decisions.
+4. In the case of an expert and [their institution](groups-large.md), we can learn whether they are [trustworthy](mind-trust.md) for future decisions.
 
 APPLICATION: There's always an alternative you don't know about, but it's critical to bounce the ideas off other people who have a different [perspective](people-image-why.md) than you.
 
 However, any expert or friend has [limitations](mind-bias.md) and [interests](purpose.md) that may go against our own best interests compared to deciding something ourselves. And, if we trust others too much, we'll start feeling helpless, which devastates our capacity for finding [meaning](meaning.md).
 
-If we *are* an [expert](jobs-specialization.md) in something, we have a tendency to overestimate our competence. When something is merely a [theory](people-imagination.md) we [believe](understanding-certainty.md) in, we'll often assert it as a [fact](reality.md) ([Dunning-Kruger Effect](mind-bias.md)). Further, when it's beyond our scope of experience, we frequently overstep what we know and presume our [patterns](symbols.md) will still apply.
+If we *are* an [expert](jobs-specialization.md) in something, we have a tendency to overestimate our competence. When something is merely a [theory](mind-imagination.md) we [believe](understanding-certainty.md) in, we'll often assert it as a [fact](reality.md) ([Dunning-Kruger Effect](mind-bias.md)). Further, when it's beyond our scope of experience, we frequently overstep what we know and presume our [patterns](symbols.md) will still apply.
 
-The precise moment we've decided, we're finished with our [purpose](purpose.md) of thinking about it. We tend to mostly delegate it to our focus and [habits](habits.md) to execute, and carry on to another [thought](people-imagination.md) or [experience](reality.md).
+The precise moment we've decided, we're finished with our [purpose](purpose.md) of thinking about it. We tend to mostly delegate it to our focus and [habits](habits.md) to execute, and carry on to another [thought](mind-imagination.md) or [experience](reality.md).
 
 APPLICATION: Don't overthink things. You can't know some things before the [results](results.md) show themselves. Make the [wisest](understanding.md) possible decision, and move on.
 

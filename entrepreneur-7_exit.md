@@ -68,5 +68,5 @@ Most mergers and acquisitions (83%) do *not* boost the value of the company.
 
 Do *not* retire.
 
-- If you have [a personality that can start a business](entrepreneur-1_why.md), you do *not* have the personality that would find comfort in endless recreation.
+- If you have [a personality that can start a business](entrepreneur-1_what.md), you do *not* have the personality that would find comfort in endless recreation.
 - After succeeding, most entrepreneurs [start *another* business](entrepreneur-2_idea.md), create a [not-for-profit](entrepreneur-3_plan.md), or [mentor *other* entrepreneurs](education.md).

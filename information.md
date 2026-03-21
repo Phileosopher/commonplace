@@ -34,7 +34,7 @@ Multiple information technologies across history have gotten us here, but the [I
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
 7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
 8. The internet has removed the need for much money to do all of the above, first for writing, then for everything else.
-9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](people-imagination.md).
+9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
 
 The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
 
@@ -59,7 +59,7 @@ The Over-Information Age consists of each individual person possessing many ligh
 
 While information itself used to have value, most of the competition has now pivoted to a *desperate* competition for everyone's scarce attention, which creates a type of "attention [economy](money-economics.md)". While it empowers compared to the past, it now creates a *new* problem of endless distraction.
 
-Further, this perpetual cosmopolitanism ensures that [cultures](people-culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](trust.md).
+Further, this perpetual cosmopolitanism ensures that [cultures](people-culture.md) can be *extremely* divided, all the way down to where many individuals have very little in common with their neighbors. Standard trust mechanisms (e.g., living in the same neighborhood, going to the same school, having the same workplace) become obsolete methods of knowing who to [trust](mind-trust.md).
 
 Societies with this newly formed attention economy (i.e., most developed regions of the world) are a perpetual, monotonous hum of inattentive focus that provokes us to be [unhappy](mind-feelings-happiness.md) and [unsuccessful](success-1_why.md), [mindlessly pursuing tasks](habits.md) and [substances](addiction-substances.md) that don't [resolve our concerns](purpose.md) or [give us meaning](meaning.md). It's the [human condition](humanity.md), but fast-forward.
 
@@ -86,7 +86,7 @@ Everyone has a limit on how much information they can consume.
 - Over time, we can adapt that distracted and miserable state into [habitual, mindless autopilot](habits.md).
 - We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](people-personality.md).
 
-[Pay attention](awareness.md) to any signs of information [addiction](addiction.md) ("brainrot"):
+[Pay attention](mind-awareness.md) to any signs of information [addiction](addiction.md) ("brainrot"):
 
 - Unable to think clearly.
 - Not able to remember the content you've consumed.
@@ -101,54 +101,10 @@ Being frequently inundated with information is *not* healthy for us:
 - We adopt a heavily [biased](mind-bias.md) and judgmental [culture](people-culture.md) from *many* people who have extreme views that either radicalize a more moderate (and balanced) belief we may have or make us attack the opposite view.
 - Perpetually being online can become [addicting](addiction.md), and its symptoms demonstrate from few to no other hobbies and adapting [meme](people-trends.md) [language](language.md) for offline use.
 
-Without [awareness](awareness.md) and making [decisions](mind-decisions.md) that enforce limits, we tend to perform "[crash diets](body-diet.md)" of information control:
+Without [awareness](mind-awareness.md) and making [decisions](mind-decisions.md) that enforce limits, we tend to perform "[crash diets](body-diet.md)" of information control:
 
 1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
 2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.
 3. Revert back to passively permitting too much information to flow in, with no long-term solution to [fix it](https://adequate.life/fix/) in the future.
 
 Therefore, we need [long-term tactics that work](information-tactics.md), as well as specific approaches to [various types of media](information-media.md) and [specific information-heavy content](information-content.md).
-
-## In summation
-
-The fixes can be distilled into a set of questions, which can be asked for every bit of experienced information:
-
-1. Am I consuming too much information?
-   - If so, turn off the valve for a while.
-2. Do I have too much information to consume?
-   - If there is, get rid of portions of the inbox.
-3. Am I learning fast enough with the information?
-   - If it's too slow, aim for better-quality consumption.
-4. Does my information add value to anyone else?
-   - If not, stop providing information for a while until your subconscious reloads.
-5. Have I sufficiently [organized](organization.md) my information?
-   - If not, turn off the valve, stop creating for a while, and get to organizing.
-6. Am I consuming cutting-edge stuff?
-   - If so, stick it on a calendar and consume it later.
-7. Am I fully certain of the bias of the information?
-   - If not, learn who made the content, and why.
-8. How do I plan to use this information?
-   - Use it, organize it, or shove it out of your workspace.
-9. Does anything else work?
-   - If it does, make it a principle.
-
-This information blast [trend](people-trends.md) will only slow down when two conditions happen at once:
-
-1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
-2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.
-
-The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war-why.md).
-
-Since this will likely not happen soon:
-
-1. Opt out.
-2. Unsubscribe.
-3. Avoid the endless wall of "feeds" by self-curating your streams.
-4. Limit RSS use.
-5. Limit podcasts.
-6. Make hard limits on your read and watch lists, or work hard to shave them down.
-7. Find security in a community, *not* in a system.
-8. If you're doing anything mindlessly involving consuming information, pay more attention to what you're doing.
-9. Try to only do important things with your life.
-
-In other words, move slowly when everyone else moves fast, and don't move at all if it's not worth your time.

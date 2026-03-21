@@ -5,10 +5,10 @@ Some people are completely impossible to please, and should always be a low prio
 
 ## Ego defense tactics
 
-When people aren't [examining themselves](awareness.md), they will exercise [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) by subconsciously using unhealthy defense mechanisms to protect their ego.
+When people aren't [examining themselves](mind-awareness.md), they will exercise [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) by subconsciously using unhealthy defense mechanisms to protect their ego.
 
 - Every single person does this in one form or another.
-- Since you have no control over their behavior, your only responsibility and resistance with those tactics is through [self-awareness](awareness.md) and self-discipline of *your* impulses.
+- Since you have no control over their behavior, your only responsibility and resistance with those tactics is through [self-awareness](mind-awareness.md) and self-discipline of *your* impulses.
 - Then, only once you've conquered the domain of self-awareness, you can make healthy boundaries with others.
 
 ## Immature defenses
@@ -252,7 +252,7 @@ When engaging with toxic people, you can often tell you've succeeded in proper b
 
 If you're in a new community that thrives on frequent conflict, find the highest-ranking member of the organization you expect to win against and antagonize them into a fight:
 
-- If you're [perceptive](awareness.md), you'll likely win and become the most respected person in the room.
+- If you're [perceptive](mind-awareness.md), you'll likely win and become the most respected person in the room.
 - However, don't take on more than you can handle: you're likely facing someone more experienced than you and probably has the favor of everyone else there.
 - If you're publicly humiliated, graciously accept defeat and find a new community as soon as possible.
   - If you're stuck in that community (e.g., [incarceration](hardship-incarceration.md)), then own your mistake and acknowledge the stronger person as a type of leader.

@@ -27,7 +27,7 @@ Triggers are subconscious connections that recall flashbacks or memories from pr
 
 - Those recollections bring rewards and punishments that set our methods in motion.
 - 90% of our decisions are subconscious, but humans are unique because they can stop mid-response to examine their actions.
-- Most people don't observe their triggers until they see adverse consequences, but [self-aware](awareness.md) people can observe triggers as they engage.
+- Most people don't observe their triggers until they see adverse consequences, but [self-aware](mind-awareness.md) people can observe triggers as they engage.
 - Every trigger's reaction moves us through a ritual or habit.
   - Good rituals and habits free us up to make meaningful decisions and thoughts.
   - Dysfunctional rituals and habits waste precious resources.
@@ -35,7 +35,7 @@ Triggers are subconscious connections that recall flashbacks or memories from pr
 
 Daily self-discipline is the skill of adapting triggers to make life a seamless in-and-out flow of tasks:
 
-1. [Observe](awareness.md) anything you want to change.
+1. [Observe](mind-awareness.md) anything you want to change.
 2. [Visualize](success-2_attitude.md) the actions you want to do or avoid.
 3. [Set rational goals](success-3_goals.md) you believe you can attain.
 4. Notice triggers that don't flow toward those goals.
@@ -103,7 +103,7 @@ We may also procrastinate because we don't know what to do next:
 
 One of the best ways to keep us accountable is to track our habits and decisions:
 
-- By tracking the dates and times we perform habits, we become [aware](awareness.md) of our behaviors.
+- By tracking the dates and times we perform habits, we become [aware](mind-awareness.md) of our behaviors.
 - Tracking decisions can often give us insight on when we fail to make a healthy routine and how.
 
 You will only thoroughly beat procrastination by starting:
@@ -312,7 +312,7 @@ Your mind is the only real place where you have distractions:
 
 - Both the work and distractions are endless, but your time isn't, so self-discipline is the only way to fight distractions.
 - Removing distractions makes self-discipline easier, but distractions are there *because* we want an excuse to stop what we're doing.
-- Fragmented thinking is *much* worse than interruptions, and can even damage your brain, so [focus on the present moment](awareness.md): eating, exercise, chores, etc.
+- Fragmented thinking is *much* worse than interruptions, and can even damage your brain, so [focus on the present moment](mind-awareness.md): eating, exercise, chores, etc.
 
 Calls, emails, text messages, and unexpected visitors will pull your focus from an important task:
 

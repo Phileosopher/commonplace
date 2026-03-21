@@ -18,7 +18,7 @@ A hyperactive focus on many things, often with many connections and associations
 
 - When it's a severe case, it becomes attention deficit hyperactivity disorder (ADHD).
 - Their mind is generally experiencing racing thoughts, but as a typical part of their daily lives.
-- Every symptom of their diagnosis is linked to [dysregulation](awareness-dysregulation.md).
+- Every symptom of their diagnosis is linked to [dysregulation](mind-awareness-dysregulation.md).
 
 Indicators:
 
@@ -108,7 +108,7 @@ The cure for it:
 
 ## Cluster A
 
-A viewpoint that is overcrowded with [imagination](people-imagination.md), to the point of hallucinations and [identity](people-identity.md) issues.
+A viewpoint that is overcrowded with [imagination](mind-imagination.md), to the point of hallucinations and [identity](people-identity.md) issues.
 
 - Effectively a problem with perceptions about the present.
 - This can include schizophrenia, delusions, and split personality disorder.
@@ -161,7 +161,7 @@ How to behave with them:
 
 The cure for it:
 
-- Mostly, they need [awareness](awareness.md) of further information that diminishes their paranoia (e.g., [God is in control](god-will.md)).
+- Mostly, they need [awareness](mind-awareness.md) of further information that diminishes their paranoia (e.g., [God is in control](god-will.md)).
 
 ## Oppositional Defiance Disorder (ODD)
 
@@ -214,4 +214,4 @@ How to behave with them:
 
 The cure for it:
 
-- They need to find healthier connections, which requires more thoughtfulness, often through [meditation](awareness-meditation.md).
+- They need to find healthier connections, which requires more thoughtfulness, often through [meditation](mind-awareness-meditation.md).

@@ -295,7 +295,7 @@ Altogether, the relationship with God is straightforward:
 3. Instead of any outward consideration, we are responsible to trust and give gratitude to Him.
    - We must wait on Him to do His work.
    - We're responsible to act when prompted.
-   - Our expression of love will come through our worship, [trust](trust.md) in Him, and honoring Him, and will spill into all our relationships.
+   - Our expression of love will come through our worship, [trust](mind-trust.md) in Him, and honoring Him, and will spill into all our relationships.
    - As an all-encompassing concept, we are responsible to be faithful, which means we believe He'll keep His word.
 4. From there, we are to pass on that relationship with God to our neighbors, where *we* are their patron and God is the client.
    - The role is reversed through a secondary connection ([Matthew 25:31-46](https://biblehub.com/matthew/25.htm)).

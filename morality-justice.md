@@ -5,7 +5,7 @@ We're all born free, at least somewhat. Most of the restrictions we must abide b
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
-APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](people-imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](people-rules.md).
+APPLICATION: Finding justice in this world can be difficult, and we must be [grateful](morality.md) when we do find it. Most [young](maturity.md) people [presume](mind-imagination.md) their freedoms as "given", but anyone with more [power](power.md) can abuse those freedoms with unfair [rules](people-rules.md).
 
 Justice is an attempt to create fairness. People can debate endlessly about what's fair, but we very often know what's [*not* fair](morality-evil.md):
 
@@ -15,7 +15,7 @@ Justice is an attempt to create fairness. People can debate endlessly about what
 
 We tend to believe things we [feel](mind-feelings.md) are right, even if it's not particularly [fair](people-boundaries-why.md). Since we're all [human](humanity-universals.md), we all have a sentiment about matters of fairness, and can never think [purely rationally](logic.md) on the matter because our [feelings](mind-feelings.md) always mix into it.
 
-APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](trust.md) the authorities. This makes *all* life more complicated for *everyone*.
+APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](mind-trust.md) the authorities. This makes *all* life more complicated for *everyone*.
 
 ## Purpose
 
@@ -78,7 +78,7 @@ There are two forms of delivering the implementation of justice:
 
 Historically, judges didn't often concern themselves with implicit human rights, so the idea is relatively new. [Slavery](people-slavery.md), for example, is still ubiquitous but uses other names.
 
-A huge portion of the contention about rulings comes through how to [presume](people-imagination.md) (and therefore rule) in the absence of evidence. If someone is presumed evil until proven innocent then they're guilty without proof, but if they're presumed innocent until evil then some criminals will get away with crimes they had committed. Everyone has at least some [evil](morality-evil.md) intent, so both of those approaches are technically justifiable.
+A huge portion of the contention about rulings comes through how to [presume](mind-imagination.md) (and therefore rule) in the absence of evidence. If someone is presumed evil until proven innocent then they're guilty without proof, but if they're presumed innocent until evil then some criminals will get away with crimes they had committed. Everyone has at least some [evil](morality-evil.md) intent, so both of those approaches are technically justifiable.
 
 The intent of an action dictates *everything* about whether the consequences of a decision are someone's [evil](morality-evil.md) or incompetence. People will usually agree that we must punish evil people and give incompetent people at least some grace, but we have very little to no information to dictate what their [real](reality.md) [intent](purpose.md) was.
 
@@ -91,11 +91,11 @@ APPLICATION: By using a jury, the judge's [power](power.md) is decentralized. It
 Society's definition of "fair" or "equality" is often unclear:
 
 - Equal [value](values.md) means each person is regarded as inherently valuable, but never addresses their needs.
-- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](people-imagination.md), but it won't be equal [status](people-image-why.md) at the end.
+- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](mind-imagination.md), but it won't be equal [status](people-image-why.md) at the end.
 - Equal [status](people-image-why.md) means anyone achieving a [purpose](purpose.md) to gain [power](power.md), for any [reason](purpose.md), will be thwarted to maintain that status.
 - Equal retribution means "eye for an eye", but doesn't consider how anyone could [feel](mind-feelings.md) with the arrangement.
 
-One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](people-imagination.md) at it, which often reflects on our [view of the world](people-image-why.md).
+One fascinating reality is that people tend to never have an issue with inequality. However, they *despise* people who created that inequality through cheating or immorality. Unfortunately, we often can't know where that [power](power.md) came from, so we must [guess](mind-imagination.md) at it, which often reflects on our [view of the world](people-image-why.md).
 
 Broadly, most people conflate equality with [love](people-love.md). To be equal is to have the same of something as everyone else, but it won't fix the gaping hole of unfulfilled [purpose](purpose.md) and [loneliness](people-friends-why.md) we're constantly carrying around.
 

@@ -88,7 +88,7 @@ To persuade, write practical "what if...?" questions:
 
 Every worthwhile fiction story requires building the character first:
 
-- A good character is [imagining](people-imagination.md) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](mind-decisions.md).
+- A good character is [imagining](mind-imagination.md) a person you know, moving some details around, then placing them in a unique situation and watching them make [decisions](mind-decisions.md).
 - To make the character at all relatable, give at *least* a few important details for the reader to latch onto.
   - Frame the character's experiences and challenges as the *audience* sees them, not you as the author.
 
@@ -235,7 +235,7 @@ If you want a complex character, evoke different feelings and responses toward e
 
 - Each person has layers of self-identity, and a character is relatable when they have multiple [self-deceptions](hardship-worthlessness.md).
 - This aspect alone requires people with significant life experience, but without too much [trauma](hardship-ptsd.md) haunting them.
-  - You must be tremendously [aware](awareness.md) to understand those layers.
+  - You must be tremendously [aware](mind-awareness.md) to understand those layers.
   - You must expose your character to severe [hardship](hardship.md) to show the world who they really are.
 - Use the story to expose and strip away the false layers, one by one, to bring out the true personality of that character.
 

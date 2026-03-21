@@ -20,11 +20,11 @@ The [Natural World](reality.md):
 - [Drive](autos.md) safely.
 - Get enough [sleep](sleep.md).
 
-[Religion](religion-answers.md) and [trust](trust.md):
+[Religion](religion-answers.md) and [trust](mind-trust.md):
 
 - [God](theology-god.md) is good.
 - [Beliefs](understanding-certainty.md) make people stupid.
-- [Hope](trust.md) can change [reality](reality.md).
+- [Hope](mind-trust.md) can change [reality](reality.md).
 - Drinking [alcohol](fun-alcohol.md) or consuming recreational drugs can destroy your life.
 - Anti-drug propaganda is overstating the problem.
 
@@ -70,7 +70,7 @@ The [Natural World](reality.md):
 [Decisions](mind-decisions.md) and [Meaning](meaning.md):
 
 - [Living well](people-goodlife.md) is more than surviving.
-- Focus on [today](awareness.md), since you [might not live tomorrow](people-imagination.md).
+- Focus on [today](mind-awareness.md), since you [might not live tomorrow](mind-imagination.md).
 - The [journey](success-5_persevering.md) matters more than the destination.
 - Learn [satisfaction](mind-feelings-happiness.md) with your lot in life.
 - Do everything in moderation.
@@ -81,7 +81,7 @@ The [Natural World](reality.md):
 
 - [Prevention](safety-riskmgmt.md) is better than curing.
 - It's good to [work hard for better things](success-1_why.md).
-- You will regret [opportunities you don't take](socialrisk.md).
+- You will regret [opportunities you don't take](entrepreneur-why.md).
 - Life is awful, but we can improve it.
 - You're bound to fail, but should still try.
 - Even in peril, keep a positive attitude.
@@ -106,8 +106,8 @@ The [Natural World](reality.md):
 
 [Planning](success-3_goals.md):
 
-- [Plan](people-imagination.md) carefully.
-- Your [plans](people-imagination.md) might not go the way you want.
+- [Plan](mind-imagination.md) carefully.
+- Your [plans](mind-imagination.md) might not go the way you want.
 - You may not like what you think you [want](purpose.md).
 - Conceit comes before destruction.
 - You must be willing to compromise.
@@ -183,7 +183,7 @@ The [Natural World](reality.md):
 [Friendship](people-friends.md):
 
 - Friendship's power can conquer anything.
-- [Trust](trust.md) makes people stronger.
+- [Trust](mind-trust.md) makes people stronger.
 - If you don't have friends, there's something wrong with you.
 - Even when you have friends, you have to [do some things yourself](success-1_why.md).
 - Don't trust strangers.
@@ -206,7 +206,7 @@ Romantic [love](people-love.md):
 - Love makes you do [evil](morality-evil.md) things.
 - Love brings out the best in people.
 
-[Women and Gender](gender.md):
+[Women and Gender](people-gender.md):
 
 - Treat females nicely.
 - Treat females the same way as males.
@@ -256,9 +256,9 @@ Justice - Revenge:
 - More minds and bodies [make work easier](jobs-specialization.md).
 - Too many people on a project can ruin it.
 
-Group [expectations](people-imagination.md):
+Group [expectations](mind-imagination.md):
 
-- Conform to [expectations](people-imagination.md).
+- Conform to [expectations](mind-imagination.md).
 - Don't conform to expectations.
 - Discrimination and bigotry are wrong and stupid.
 - People don't have as many differences between them as they think.
@@ -297,8 +297,8 @@ Group [expectations](people-imagination.md):
 [Political and Government](groups-large.md):
 
 - Democracy has risks (or is outright mob rule).
-- People should [trust](trust.md) authority.
-- People should *not* [trust](trust.md) authority.
+- People should [trust](mind-trust.md) authority.
+- People should *not* [trust](mind-trust.md) authority.
 - Think for yourself (as stated by authority figures).
 - An [idea](values.md) is more important and durable than an individual.
 - It's noble to [fight](people-conflicts-war-why.md) for your [country](groups-large.md) strictly on that principle alone.

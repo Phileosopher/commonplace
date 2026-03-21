@@ -65,7 +65,7 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 
 Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/1_timothy/3.htm)).
 
-- While it's controversial, the Bible *clearly* states that [only men should fill leadership roles](gender.md).
+- While it's controversial, the Bible *clearly* states that [only men should fill leadership roles](people-gender.md).
 - However, this is *not* applicable to simply preaching, and is much more regarding [discipleship](spiritual-discipleship).
 
 Beyond deacons, church elders have a few additional qualifications:

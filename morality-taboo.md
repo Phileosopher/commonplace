@@ -36,7 +36,7 @@ Some immoral things *aren't* taboo:
 
 Across the lens of history, many things have been declared taboo. Typically, taboos have directed [fear](mind-feelings-fear.md) and anger toward someone specific who [identifies](people-identity.md) with aspects of that taboo. Taboos can include [religious](religion.md) overtones, but can sometimes be [political](politics-leftism.md) as well.
 
-The power of taboos comes from individuals' natural [trust](trust.md) in the social structure. [Stories](stories-why.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](mind-decisions.md) that may include it.
+The power of taboos comes from individuals' natural [trust](mind-trust.md) in the social structure. [Stories](stories-why.md) that surround that taboo usually imply it's too dangerous to even *consider* a [decision](mind-decisions.md) that may include it.
 
 Not all taboos are bad. Many times, they're extreme applications of [justice](morality-justice.md) to keep everyone staying [safe](safety.md) without the risks of members questioning why they [comply with it](people-culture.md). But, many times, leaders only use taboos for [power](power.md).
 
@@ -46,12 +46,12 @@ By their design, taboos direct [shame](mind-feelings-shame.md) onto people.
 
 If someone is shamed hard enough, they can *become* the taboo themselves. Often, most leaders use this to destroy others' [power](power.md) or exile them from the [group](groups-small.md). Many of them create [rules](people-rules.md) around this, to tremendous personal gain. In a free society with [elections](politics-systems.md), the leaders do it to the opposition party.
 
-APPLICATION: To live in society, everyone needs at least a little sophistication. It's necessary for others to [trust](trust.md) that we're doing things for better [reasons](purpose.md) than their [prejudices](people-image-why.md) may imply. But, we only require it to the degree we get near any social thresholds of "acceptable behavior".
+APPLICATION: To live in society, everyone needs at least a little sophistication. It's necessary for others to [trust](mind-trust.md) that we're doing things for better [reasons](purpose.md) than their [prejudices](people-image-why.md) may imply. But, we only require it to the degree we get near any social thresholds of "acceptable behavior".
 
 The implication of any taboo is that the shameful tasks are relatively easy to violate, but can disproportionately harm others. However, its risk to others is purely a [practical](purpose.md) and [cultural](people-culture.md) basis:
 
 - Wearing pants before going out in public is an easy [habit](habits.md) to establish, but that's presuming someone didn't come from a tropical society where pants don't exist.
-- Smoking cigarettes in public is unpopular in societies that have adopted the [stance](mind-bias.md) that refined tobacco has many carcinogenic substances, but it presumes everyone [believes](trust.md) cigarettes are bad to even be *near* because of it.
+- Smoking cigarettes in public is unpopular in societies that have adopted the [stance](mind-bias.md) that refined tobacco has many carcinogenic substances, but it presumes everyone [believes](mind-trust.md) cigarettes are bad to even be *near* because of it.
 - Most people expect behavior that isn't awkward because they expect it's easy to do, but it's *not* easy for many STEM workers.
 
 At the same time, a failing that *isn't* easy in the first place is never subject to shame, mostly because it's more interpreted as "needing to be done":
@@ -68,7 +68,7 @@ Taboos have frequent risks.
 
 Firstly, taboos will make people [identify](people-identity.md) against their thoughts. They may [believe](understanding-certainty.md) something, but they have to keep it secret from everyone else. The shame will usually shut down any further discussion and will [feed their shadow self](people-personality.md), which frequently leads to hypocrisy.
 
-The very essence of believing a taboo without understanding why is the *opposite* of open-minded. It shuts down or stifles most [creative](mind-creativity.md) endeavors, including [social risks](socialrisk.md) that could have tremendously benefited others.
+The very essence of believing a taboo without understanding why is the *opposite* of open-minded. It shuts down or stifles most [creative](mind-creativity.md) endeavors, including [social risks](entrepreneur-why.md) that could have tremendously benefited others.
 
 APPLICATION: The implications of *any* taboo create huge [risk management](safety-riskmgmt.md) challenges. At the same time, [loving behavior](people-love.md) completely disregards most taboos. In practice, this means that healthy love is also reckless to one's [reputation](people-image-why.md).
 
@@ -93,7 +93,7 @@ Exploring taboos has many benefits:
 
 - Most legitimately [high-quality](values-quality.md) [creative](mind-creativity.md) endeavors explore taboos directly or imply their existence.
 - If someone tenaciously pursues [truth](reality.md), they frequently won't pay attention to [rules](people-rules.md) they're breaking, especially if they're [philosophers](philosophy.md).
-- Typically, [social trends](people-trends.md) start with someone [taking the risk](socialrisk.md) to confront or explore a taboo.
+- Typically, [social trends](people-trends.md) start with someone [taking the risk](entrepreneur-why.md) to confront or explore a taboo.
 - Why taboos exist often gives *tremendous* [understanding](understanding.md) to anyone willing to [explore it](purpose.md).
 
 Some people try to break taboos merely because they're there. Most of them are doing it to provoke socially adverse reactions (Oppositional Defiance Disorder, or ODD). This is in direct opposition to pursuing [the good life](people-goodlife.md). Many [leaders](groups-small.md) will try to make an example of these people and imply *all* the taboo-breakers have the same [motivation](purpose.md), but the motivations of everyone else in that position are more varied.
@@ -102,7 +102,7 @@ APPLICATION: Breaking taboos is risky, but can be rewarding if you know what you
 
 ## Hacking
 
-Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [aware](understanding.md) of taboos, but use them to their advantage. Many of them become [entrepreneurs and inventors](socialrisk.md).
+Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [aware](understanding.md) of taboos, but use them to their advantage. Many of them become [entrepreneurs and inventors](entrepreneur-why.md).
 
 Typically, they will add more room for failure by becoming more sophisticated. By [habitually](habits.md) using appropriate [language](language.md), expert [image](people-image-why.md) managers can rearrange their [story](stories-why.md) to [imply](people-image-distortion.md) better [motivations](purpose.md) than the culture's prejudice of a taboo-breaker. This isn't 100% reliable, but the public can often give more grace than otherwise.
 

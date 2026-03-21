@@ -14,7 +14,7 @@ We end up either trusting that we'll yield [meaningful](meaning.md) [results](re
 
 Unfortunately, people often don't have the same [values](values.md) or [purposes](purpose.md) as us. This can be the source of many [conflicts](people-conflicts-why.md) and can discourage us from future endeavors.
 
-Every time we [create](creations.md) things that may affect others, we risk our [expectations](people-imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](people-image-why.md) over time.
+Every time we [create](creations.md) things that may affect others, we risk our [expectations](mind-imagination.md) of their opinion about it to be incorrect. Even when the risk is low, it's never precisely [certain](understanding-certainty.md) what other people are thinking. It becomes more uncertain as it applies to how they see us, which becomes our [reputation](people-image-why.md) over time.
 
 Since we don't have the time to do *everything* we'd like to do, we prioritize what we want, with our [decisions](mind-decisions.md) calculating between what we like and the chances other people will like it.
 
@@ -40,13 +40,13 @@ To meet all these criteria at once usually requires focused [creativity](mind-cr
 2. It typically uses [technology](technology.md) that wasn't there when the [trend](people-trends.md) of the largely satisfied need had started.
 3. The creation fulfills a [desire](purpose.md) that people aren't even [aware](understanding.md) they have yet.
 
-Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](people-trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](awareness.md), and often exists within [nature](reality.md).
+Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a recent [social trend](people-trends.md), especially a brand-new one. It almost *always* comes from seeing something that everyone [overlooked](mind-awareness.md), and often exists within [nature](reality.md).
 
-One *severe* requirement of these people succeeding is that they have a high [conscientiousness](people-personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
+One *severe* requirement of these people succeeding is that they have a high [conscientiousness](people-personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](mind-trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
 
 The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume, but if it fulfills a niche (e.g., phone cases) most people won't want it so it will require more [searching and advertisement](marketing.md).
 
-The engagement with complete strangers will test the creator's general [trust in humanity](trust.md). If that person can't trust people in general, other people won't be as inclined to trust back, since people tend to give [equivalent](morality-justice.md) treatment. But, most people are willing to accept their [uncertainty](understanding-certainty.md) about others *may* lead to good things.
+The engagement with complete strangers will test the creator's general [trust in humanity](mind-trust.md). If that person can't trust people in general, other people won't be as inclined to trust back, since people tend to give [equivalent](morality-justice.md) treatment. But, most people are willing to accept their [uncertainty](understanding-certainty.md) about others *may* lead to good things.
 
 ## Obsessed
 
@@ -54,7 +54,7 @@ Finding and exploring a specific [purpose](purpose.md) can be challenging, so mo
 
 Ordinarily, a creator will be competing with large-scale organizations. To simply fight it, they'll obsess with [trimming inefficiencies](results.md), [learning](understanding.md) constantly from other risk-takers, doing things that a large system *can't* do, and seeking new [technologies](technology.md) that could magnify their labor.
 
-People often attribute this entire experience to [entrepreneurship](entrepreneur-1_why.md), but it encompasses *many* realms that require [marketing](marketing.md) with strangers:
+People often attribute this entire experience to [entrepreneurship](entrepreneur-1_what.md), but it encompasses *many* realms that require [marketing](marketing.md) with strangers:
 
 - [Job-seeking](jobs-1_why.md)
 - [Investing](money-investing.md) and venture capitalists
@@ -92,7 +92,7 @@ Frequently, success in taking social risks requires finding value that wasn't pr
 
 APPLICATION: Since every system eventually turns [bad](mgmt-badsystems.md) from [human nature](humanity.md), there'll always be people breaking free from [a group's leadership](groups-large.md) somewhere to start something new.
 
-If it's not obvious, this is a *massive* vote of [confidence](trust.md) in the [unknown](unknown.md).
+If it's not obvious, this is a *massive* vote of [confidence](mind-trust.md) in the [unknown](unknown.md).
 
 APPLICATION: Pay close attention to the heretics, since the [new trends](people-trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
 
@@ -117,7 +117,7 @@ APPLICATION: If you're going to take a risk, keep your head down and stay as und
 
 If the venture can weather it, it becomes another [large group](groups-large.md) after enough time, ready for another [trend](people-trends.md) to arise and the role to replay itself.
 
-APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_why.md) than most of the rest, irrespective of the country's [actual economy](money-economics.md).
+APPLICATION: Social risk requires a [culture](people-culture.md) that fosters it, which is why certain countries (e.g., the USA) have *way* more [entrepreneurs](entrepreneur-1_what.md) than most of the rest, irrespective of the country's [actual economy](money-economics.md).
 
 ## Failure
 

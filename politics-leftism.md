@@ -14,7 +14,7 @@ While leftism started with some ideas from intellectuals like Plato and Thomas M
 
 In practice, though, leftism *always* has the same mechanism:
 
-1. Establish a powerful minority as a [capitalizing](money-economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
+1. Establish a powerful minority as a [capitalizing](money-economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](people-gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
 2. Blame many of the current issues on the excessive ownership by that powerful minority.
 3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
 4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
@@ -24,7 +24,7 @@ APPLICATION: By principle of leftism's ideal, left-leaning people tend to hate a
 - [Self-ownership](success-1_why.md) - anyone who asserts their separate wills isn't complying with leftism's mandatory [collectivist culture](people-culture.md).
 - [Competition](people-conflicts-why.md) - even though human [purpose](purpose.md) is driven by *many* [inner conflicts](people-conflicts-inner.md), leftism claims external conflicts are generally bad.
 - Civility - leftism indirectly opposes [cultural](people-culture.md) traditions because they value something as more important than the [State's](groups-large.md) [directives](people-rules.md).
-- [Devoted](understanding-certainty.md) work - working for an [unseen](people-imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
+- [Devoted](understanding-certainty.md) work - working for an [unseen](mind-imagination.md) internal [purpose](purpose.md) often defies the State's efforts to [define](people-rules.md) individuals' purposes.
 
 ## Public goods
 
@@ -44,7 +44,7 @@ The concept of a State that runs society requires believing that people can't ru
 
 This also applies to geopolitical events. Instead of permitting human nature to wrestle it out in a [free market](money-economics.md), the general approach instead is that [large groups](groups-large.md) can be run by administrators in other large groups.
 
-This presumption, however, implies all things can be [known](understanding.md). [Empirically](science.md), the more we know, the more we're [aware](awareness.md) of what we *don't* know. Thus, to have overseers directing people to performing specific tasks (which they may not want to do) is far less reliable than each person working their respective tasks while [competing](people-conflicts-why.md) against their peers for personal gain.
+This presumption, however, implies all things can be [known](understanding.md). [Empirically](science.md), the more we know, the more we're [aware](mind-awareness.md) of what we *don't* know. Thus, to have overseers directing people to performing specific tasks (which they may not want to do) is far less reliable than each person working their respective tasks while [competing](people-conflicts-why.md) against their peers for personal gain.
 
 ## Trust
 
@@ -76,7 +76,7 @@ The practical effect of leftism is that the government should receive [power](po
 
 Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), governments should have some involvement with *everything* a person can [choose](mind-decisions.md) to do.
 
-Naturally, many people in the [lower and lower-middle classes](classes.md) will find this attractive, but many various demographics will have reason to [imagine](people-imagination.md) they could profit from a leftist revolution:
+Naturally, many people in the [lower and lower-middle classes](classes.md) will find this attractive, but many various demographics will have reason to [imagine](mind-imagination.md) they could profit from a leftist revolution:
 
 - People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](people-image-why.md) in a societal upheaval.
 - Self-[identifying](people-identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](mind-decisions.md).
@@ -118,7 +118,7 @@ The leftist [narrative](stories-why.md) has expanded itself in recent history. I
 The most prominent form of classification comes through [identity](people-identity.md) politics. Instead of grouping people by their financial "oppressor" status (i.e., poor proletariat vs. wealthy bourgeois), every person is demarcated by additional oppressive states of existence:
 
 - Race - Whites are the oppressor class of every other race, especially dark skin, with an occasional Asian demarcation included as part of the ruling class.
-- [Gender](gender.md) - males dominate females.
+- [Gender](people-gender.md) - males dominate females.
 - Sexual orientation - Heterosexuals dominate homosexuals, transgender, etc.
 - [Ethnicity](people-culture.md) - Western European/American culture dominates all other cultures.
 - Ability - the fully able-bodied oppress the disabled.
@@ -127,7 +127,7 @@ The most prominent form of classification comes through [identity](people-identi
 - Housing - property owners oppress renters and the homeless.
 - Metabolism - slim people oppress average and fat people.
 
-In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](mind-neurodivergence-autism.md) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
+In practice, this means that the greatest authority on just about any subject is a Black, Native-American Muslim Palestinian [transgender](people-gender.md) who was a refugee from Israel, of African colonial descent. Their ancestors were slaves, they were raised in the ghetto, [formerly incarcerated](hardship-incarceration.md), with [ASD](mind-neurodivergence-autism.md) and recurring [PTSD](hardship-ptsd.md), [anxiety](mind-feelings-fear.md) issues, [substance addiction](addiction.md), [morbidly obese](body-diet.md), and vegan. They had an alcoholic [mother and no father](people-family.md), never finished high school, and have never had a [job](jobs-1_why.md).
 
 By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against the alleged oppressor class (i.e., heterosexual white neurotypical males within identity politics).
 
@@ -164,7 +164,7 @@ However, leftists can still politicize the weather because people are [afraid](m
 - They've claimed that man-made [industrialization](jobs-specialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
 - One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](people-culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
 
-The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](people-imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
+The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](mind-imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
 
 The cure for any potential forthcoming climate catastrophe is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free [information](information.md), not fewer people, with government grants oriented toward performance. [Sustainability](politics-leftism-sustainability.md) is difficult to measure, so it quickly creates a [bureaucratic mess](mgmt-badsystems.md).
 

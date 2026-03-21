@@ -99,7 +99,7 @@ Second-order thinking:
 
 Examine the second-order consequences carefully.
 
-- Look for unintended side effects to the decision (which may require [imagination](people-imagination.md)).
+- Look for unintended side effects to the decision (which may require [imagination](mind-imagination.md)).
 - Look for feedback loops (where the decision can create [habits](habits.md) and [trends](people-trends.md)).
 - Stay aware that no amount of analysis guarantees what the future holds.
 

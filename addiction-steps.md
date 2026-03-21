@@ -15,7 +15,7 @@ These are [the original 12 steps](https://www.aa.org/the-twelve-steps) according
 8. Make a list of everyone you've harmed and become willing to make amends with all of them.
 9. Make direct amends to them wherever possible, except when it would injure anyone.
 10. Keep taking personal inventory and promptly admit when you're wrong.
-11. Work to improve your conscious contact with God through [meditation](awareness-meditation.md) and praying, asking only for knowledge of God's will for you and for power to carry it out.
+11. Work to improve your conscious contact with God through [meditation](mind-awareness-meditation.md) and praying, asking only for knowledge of God's will for you and for power to carry it out.
 12. With the spiritual awakening from the first 11 steps, try to carry the message to other addicts and to practice its principles in everything.
 
 ## The parsed view
@@ -74,7 +74,7 @@ If we remove our human constraints and tendency to [build stories](stories-why.m
 1. Subdivide the addiction into its component parts.
    - Break apart each ritual and routine into smaller, more malleable components.
    - In particular, differentiate any chemical dependency from the ritual (e.g., the nicotine chemical versus tobacco a tobacco product).
-2. Use [self-awareness](awareness.md) to define what you enjoy.
+2. Use [self-awareness](mind-awareness.md) to define what you enjoy.
     - Each part of our ritual is defined by how we derive pleasure.
     - If you dig deep enough, the pleasure will often have a broad-reaching [emotional](mind-feelings.md) connection from the past.
     - This is very emotionally draining, and often difficult to parse.
@@ -88,3 +88,16 @@ If we remove our human constraints and tendency to [build stories](stories-why.m
     - God will grant the wisdom to see where you're missing something.
     - God will also grant the strength to carry out the plan.
 5. if you relapse, you missed a part of your [habit](habits.md) you enjoy and need to find it.
+
+## The abstracted view
+
+This is the eight principles of Celebrate Recovery, which each loosely connect with [Matthew 5:3-10](https://biblehub.com/matthew/5.htm).
+
+1. Realize that I’m not God. I admit that I am powerless to control my tendency to do the wrong thing and that my life is unmanageable. (Matthew 5:3)
+2. Earnestly believe that God exists, that I matter to Him, and that He has the power to help me recover. (Matthew 5:4)
+3. Consciously choose to commit all my life and will to Christ’s care and control. (Matthew 5:5)
+4. Openly examine and confess my faults to God, to myself, and to someone I trust. (Matthew 5:8)
+5. Voluntarily submit to every change God wants to make in my life and humbly ask Him to remove my character defects. (Matthew 5:6)
+6. Evaluate my relationships. Offer forgiveness to those who have hurt me and make amends for harm I’ve done to others, except when to do so would harm them or others. (Matthew 5:9)
+7. Reserve a daily time with God for self-examination, Bible reading and prayer in order to know God and His will for my life and to gain the power to follow His will.
+8. Yield myself to God to be used to bring this Good News to others, both by my example and by my words. (Matthew 5:10)

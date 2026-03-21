@@ -341,5 +341,5 @@ Discipline yourself to unpack a certain number of boxes each day.
 As you settle in, your disposition will change:
 
 - Your new environment, peers, and lifestyle routine will permanently change your [identity](people-identity.md).
-- As you adapt to the new location, [pay close attention](awareness.md) to whom you associate with and how you think.
+- As you adapt to the new location, [pay close attention](mind-awareness.md) to whom you associate with and how you think.
 - If you've moved to a different country, consider changing your commonly used name to make it easier for the locals to pronounce it.

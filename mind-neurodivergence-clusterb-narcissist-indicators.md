@@ -54,39 +54,6 @@ Direct boredom with others' interests, thoughts, or feelings that don't involve 
 - The only time they'll pay attention is when it corresponds to their interests.
 - Most of the time, they'll stonewall but won't express their disinterest because they know it'll sabotage their ability to get narcissistic supply.
 
-## Conflict management
-
-They will remain calm after causing chaos.
-
-When pushed to it, they will only admit fault in a partial way:
-
-- "Everyone has done wrong here."
-- "I was distracted/busy with something else/occupied."
-- "They were asking for it."
-
-They will tend to escalate [conflicts](people-conflicts.md) from simple disagreement into arguments *much* faster than most other people.
-
-- To earn admiration, they'll behave kind, humble, and spiritual.
-  - While they openly virtue signal love and forgiveness, they'll secretly gossip and judge others.
-- To feed their sense of self, they'll seek validation from pastors and church members.
-- To gain status and control, they'll happily volunteer or lead events.
-- They'll frequently misuse [Scripture](theology-bible.md) to justify their actions or silence others' disagreements.
-- The greatest irony when they're in a Christian church is that they're part of [a social group devoted to publicly acknowledging and repenting from all their sins](https://theologos.site/gospel/).
-
-When their narcissistic rage engages, they will recklessly throw everything away.
-
-- Friendships they've built over *decades* can disappear overnight.
-- Long-term commitments (e.g., [marriage](relationships-marriage.md)) aren't exempt from the circumstance.
-- This will often cascade into increasing issues as the consequences of their actions catch up to them, triggering the same narcissistic rage.
-
-Naturally, these indicators mean there are some clear indicators someone is *not* a narcissist:
-
-- They continue connection with others even when they're disappointed with them.
-- They directly answer questions others ask them.
-- They seek to understand others, and not simply to win an argument.
-- When others succeed, they legitimately celebrate their victories.
-- When others address pain they've caused, they're not defensive, and instead seek to understand how they hurt them.
-
 ## Finding out for sure
 
 If you suspect narcisssistic behavior:
@@ -109,7 +76,22 @@ They won't be able to answer your questions directly, and will only do a few pos
 - Punish you through the silent treatment
 - Childish behavior like throwing a tantrum or pouting
 
-Be careful when [trusting](trust.md) them, and only give them information you're satisfied with them misusing.
+Be careful when [trusting](mind-trust.md) them, and only give them information you're satisfied with them misusing.
 
 - They will only use you, so don't consider any long-term friendship or partnership with them.
 - Being stingy with information will save you trouble later, but will tip them off sooner that you know about them.
+
+## Prove they're not a narcissist
+
+If you have [trauma](hardship-ptsd.md) from narcissistic abuse, it's *very* common to misattribute narcissistic behaviors from strangers as more narcissism.
+
+- However, this can create unneeded social friction through unfounded accusation or judgment.
+- To avoid error in that context, aim to try proving other people *aren't* narcissists.
+
+Naturally, some indicators mean someone is *not* a narcissist:
+
+- They continue connection with others even when they're disappointed with them.
+- They directly answer questions others ask them.
+- They seek to understand others, and not simply to win an argument.
+- When others succeed, they legitimately celebrate their victories.
+- When others address pain they've caused, they're not defensive, and instead seek to understand how they hurt them.

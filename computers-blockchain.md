@@ -141,7 +141,7 @@ One of the best redesigns is to use "proof of stake" instead of proof of work. I
 
 Irrespective of the risks and complexities, the decentralized nature of cryptocurrency and NFTs allow for many varieties of [exchange trading](money-investing.md). For the most part, the industry is filled with an anti-authoritarian anarcho-capitalist culture that embraces the concept of a free market without government intervention, and is typically performed on a decentralized exchange (DEX).
 
-What most of the crypto bros don't realize is that people are typically driven more by [use](purpose.md) than by ownership. People are generally happy to have banks hold their money if it's readily available for them later, and only resort to *not* using banks once they [distrust](trust.md) them.
+What most of the crypto bros don't realize is that people are typically driven more by [use](purpose.md) than by ownership. People are generally happy to have banks hold their money if it's readily available for them later, and only resort to *not* using banks once they [distrust](mind-trust.md) them.
 
 Beyond directly trading, there are many clever ways to maximize returns on the margins with maximal/miner extractable value (MEV). In practice, it simply means buying something at one instant, then selling it at another when the price is a little higher. While the cryptocurrency holder can do it, anyone who successfully programs "bots" can do it as well:
 
@@ -180,7 +180,7 @@ Decentralized systems are a foreign concept because our human nature tends to di
 
 Even regulating crypto isn't particularly useful without lawmakers understanding what it is. Very often, many of the black market transfers are crypto-*adjacent*, meaning they're still using money, but it rides alongside crypto to hide the paper trail.
 
-And, since [investing](money-investing.md) is regulated based on [predictions about the future](people-imagination.md), any whiff of regulatory change will dramatically change the value of a blockchain implementation. The philosophical definition of [what humanity deems as having value](values.md) is critically important to understand.
+And, since [investing](money-investing.md) is regulated based on [predictions about the future](mind-imagination.md), any whiff of regulatory change will dramatically change the value of a blockchain implementation. The philosophical definition of [what humanity deems as having value](values.md) is critically important to understand.
 
 One inescapable reality about cryptocurrency, however, is that it *does* create a parallel tradable commodity that works enough like money, and people can trade with it if their government's currency becomes unstable. Of course, if a government were to oppress it enough, [fear](mind-feelings-fear.md) would prevent it being anything *but* a black market activity.
 

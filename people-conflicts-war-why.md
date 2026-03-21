@@ -7,7 +7,16 @@ Some of these conflicts are [moralized](morality.md) issues, but most of them ar
 
 APPLICATION: There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](people-image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
 
-Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](people-image-why.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md). The strongest motivation to attack other groups comes from overstating [fears](mind-feelings-fear.md) of what may happen if the other group wins.
+Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](people-image-why.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md).
+
+To get a people group to [consent](people-contracts.md) to any form of war, however, they must experience two conditions:
+
+1. They must be collectively experiencing [severe hardship](hardship.md) from an exteranl source (i.e., not as [logical](logic.md) [consequences](results.md) of [their decisions](mind-decisions-how.md))
+2. A strong-looking [leader](mgmt-1_why.md) who:
+   1. Is certainly *not* the cause of their hardship.
+   2. Can effectively convince almost everyone of a specific group of people who are causing their hardship.
+
+The more hardship, the less difficult to convince. The strongest selling point to attack other groups comes from overstating [fears](mind-feelings-fear.md) of what may happen if the other group wins.
 
 Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries-why.md) unless they're making a strategic and significant [decision](mind-decisions.md).
 
@@ -41,7 +50,7 @@ APPLICATION: [Legal](people-rules.md) battles operate under the authority of tha
 
 The resource costs for war preparedness are high. Any slack in [discipline](habits.md), even for a week or two, is enough to make the group lazy and ineffective.
 
-APPLICATION: Most effective large-scale leaders are either always interacting with a large-scale conflict or [have a plan](people-imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
+APPLICATION: Most effective large-scale leaders are either always interacting with a large-scale conflict or [have a plan](mind-imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
 
 [Defusing a war](people-conflicts-war-why-defusing.md)
 
@@ -74,7 +83,7 @@ On occasion, if there's any chance of [compassion or love](people-love.md), ther
 
 However, the more frequent reality is that the large group will commission a "secret police" to track the dissidents (e.g., Gestapo, FBI). High-ranking and vocal opponents will disappear in their sleep, civil disobedience will somehow become violent, and attempts to overtake the larger system will fail.
 
-The only way for any smaller group to fight the larger group comes through a unique type of group [social risk](socialrisk.md):
+The only way for any smaller group to fight the larger group comes through a unique type of group [social risk](entrepreneur-why.md):
 
 1. Get together to discuss what everyone [understands](understanding.md).
 2. Give enough time together to cross-pollinate [new ideas](mind-creativity.md) on how to solve the problems.
@@ -121,7 +130,7 @@ APPLICATION: The losing side of a battle will have the same [story](stories-why.
 
 On occasion, depending on the situation, the new opposition's leadership will have enough skills [influencing others](influence.md) that they'll negotiate a compromise. That new compromise won't necessarily please *anyone*, and will often create further [bureaucracy](mgmt-badsystems.md) (e.g., trade unions, national coalitions). This will sometimes happen without any violence or loss, but can create larger-scale conflicts later.
 
-APPLICATION: Often, the only grace a large group will give is to [maintain image](people-image-distortion.md). Don't *ever* [expect](people-imagination.md) [virtue](morality.md) from a conqueror.
+APPLICATION: Often, the only grace a large group will give is to [maintain image](people-image-distortion.md). Don't *ever* [expect](mind-imagination.md) [virtue](morality.md) from a conqueror.
 
 Wars can sometimes persist for a *very* long time, and it only comes through two possible reasons. Either the goals keep changing (which often comes through the leaders lying about what they really want) or the attacker severely underestimated the defender.
 

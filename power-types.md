@@ -5,7 +5,7 @@ NOTE: While an extensive list of *all* the forms of power is impossible, I've co
 
 [Human Capital](money-economics.md)
 
-- [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](people-imagination.md).
+- [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](mind-imagination.md).
 - Wisdom - [general](philosophy.md) [understanding](understanding.md) of [reality](reality.md).
 - Expertise - having a [specialized](jobs-specialization.md) [understanding](understanding.md) of things, *especially* of how to wield all the other forms of power.
 - Aptitude - ability to physically [do things](results.md).
@@ -24,7 +24,7 @@ Social (also known as "politics")
 - Status - general [opinions](people-image-why.md) from others.
 - Coercive - can [punish](people-rules.md) people, driven by others' [fears](mind-feelings-fear.md).
 - Reward - can [reward](results.md) people, driven by others' [loves](people-love.md).
-- Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](trust.md) being with them.
+- Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](mind-trust.md) being with them.
 - Formal - [honor](people-image-why.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
 - Fame - [familiarity](people-image-why.md) with a name.
 - Property/Wealth - ownership of things, [people](people-slavery.md), [intellectual properties](legal-ip.md), or [rights](people-boundaries-why.md) that can accomplish a [purpose](purpose.md).
@@ -46,7 +46,7 @@ NOTE: Social modifiers "tweak" power. None of these are legitimately as powerful
 
 Expectations - any [perception](people-image-why.md) of the above power, based on the [past](stories-storytellers.md).
 
-Anticipation - any perception of the above power, but predicted in the [future](people-imagination.md).
+Anticipation - any perception of the above power, but predicted in the [future](mind-imagination.md).
 
 Reference - [familiar](people-friends.md) with other people with the means to do any of the above, which frequently includes [family](people-family.md) or [cultural ties](people-culture.md).
 

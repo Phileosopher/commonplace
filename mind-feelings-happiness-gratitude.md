@@ -183,7 +183,7 @@ NOTE: the availability is the privilege/blessing, *not* necessarily the consumpt
 2. Not clinically depressed
 3. Able to feel negative emotions (e.g., grief, irritation)
 4. Able to feel positive emotions (e.g., joy, peace)
-5. Able to [meditate](awareness-meditation.md)
+5. Able to [meditate](mind-awareness-meditation.md)
 6. Able to [speak](language.md)
 7. Able to [learn](education.md) and grow
 8. Able to read

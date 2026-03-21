@@ -73,7 +73,7 @@ Make a wake-up trigger:
 Make a personal routine that gets you off to work:
 
 1. Craft a playlist that grows more energetic or inspirational and ends when you start your day.
-2. [Meditate](awareness-meditation.md), self-reflect, or pray.
+2. [Meditate](mind-awareness-meditation.md), self-reflect, or pray.
 3. Make your bed.
 4. Take a shower, shave, and brush your teeth.
 5. Prepare a protein-rich breakfast.

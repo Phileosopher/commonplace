@@ -43,7 +43,7 @@ A. Identify the demographics of the audience you want leads for.
   - Look for what people use and purchase right now and their major complaints about it.
 - There are many classifications, but you can segment it as far as you need:
   - [Age](maturity.md)
-  - [Gender and sexual orientation](gender.md)
+  - [Gender and sexual orientation](people-gender.md)
   - [Income](classes.md)
   - [Ethnic groups](people-culture.md)
   - [Family lifestyles](people-family.md)
@@ -100,7 +100,7 @@ C. Craft the design as a [story](stories-why.md) with a [designed user experienc
   3. Story of now - a call to action that indicates that they are doing the right thing by joining you.
 - The story must have a deep connecting association with something else.
   - It can often connect with a theme (e.g., redemption, [love](people-love.md), human connection)
-  - The connection is often purely animal (e.g., [sex](gender.md)), which is the method used by longtime PR master Edward Bernays.
+  - The connection is often purely animal (e.g., [sex](people-gender.md)), which is the method used by longtime PR master Edward Bernays.
   - Successfully *making* a story that resonates requires [integrating your shadow](people-personality.md).
 - Keep an eye out for indirect associated words.
   - Sometimes, associations can make *zero* logical sense, but can float along the [intuition](mind-feelings.md) of a [culture](people-culture.md).

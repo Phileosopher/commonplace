@@ -15,7 +15,7 @@ In short, basic legal safety involves several things:
 2. Keep *some* sort of record of every potential future conflict.
 3. Stay out of court.
 
-And in effect, there are two broad approaches to legal safety, depending on [how much risk](socialrisk.md) you wish to take:
+And in effect, there are two broad approaches to legal safety, depending on [how much risk](entrepreneur-why.md) you wish to take:
 
 1. Live a [moral, ethical](morality.md) life, meaning you simply must record everything you do if it becomes intricate or complex.
 2. Live a hyper-vigilant life, where you stay near the razor's edge of legality, but requires *constantly* paying attention to any changes in the rules.
@@ -72,7 +72,7 @@ Your legitimate innocence is the best legal defense, and being a decent human be
 People don't usually sue well-liked people.
 
 - The only people who [good people](people-love.md) are varying degrees of [evil](morality-evil.md), and are either conceited enough to waste money or know how to abuse the legal system.
-- Your reputation (in [whatever form it takes](people-image-modern.md)) is a history of past interactions with other people, and people [trust](trust.md) it because it expresses your [habits](habits.md) over time.
+- Your reputation (in [whatever form it takes](people-image-modern.md)) is a history of past interactions with other people, and people [trust](mind-trust.md) it because it expresses your [habits](habits.md) over time.
 - Behave [fairly](morality-justice.md), with *everyone*.
   - Without people who value you (e.g., your [legal fiction](people-image-modern.md)), your reputation is defined by the pettiness and cruelty of your worst enemies.
 

@@ -40,7 +40,7 @@ The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians
 While it never excuses [bad boundaries](people-boundaries-why.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
 
 1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))
-2. [Spouse](gender.md), even when you can't stand them, they [sin](theology-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/ephesians/5.htm))
+2. [Spouse](people-gender.md), even when you can't stand them, they [sin](theology-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/ephesians/5.htm))
 3. [Children](parenting-children.md), with no partiality, irrespective of genetics, until they are adults, along with extended family who are helpless
 4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/matthew/12.htm))
 5. Suffering people like the poor, orphans, and widows ([James 1:27](https://biblehub.com/james/1-27.htm))
@@ -84,8 +84,8 @@ The father, mother, and child symbolize a type of trinity.
 
 A marriage relationship symbolizes Christ and the Church ([Ephesians 5](https://biblehub.com/ephesians/5.htm)).
 
-- God created men and women for [specific roles](gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/ephesians/5.htm)).
-- His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/ephesians/5.htm)), even [when she doesn't respect his role](gender.md).
+- God created men and women for [specific roles](people-gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/ephesians/5.htm)).
+- His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/ephesians/5.htm)), even [when she doesn't respect his role](people-gender.md).
 - Everything about healthy [*secular* marriage](relationships-marriage.md) applies to a Christian marriage, but with even more love.
 
 Children are an inherent blessing from God ([Psalm 127:3-5](https://biblehub.com/psalms/127.htm)), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).

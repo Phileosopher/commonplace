@@ -9,7 +9,7 @@ You only know 2% of a person from the outside, and the rest is waiting to be fou
 Friendships are a necessary part of living well:
 
 - They ground us in reality.
-- By being vulnerable, we [understand ourselves](awareness.md) more.
+- By being vulnerable, we [understand ourselves](mind-awareness.md) more.
 - We need friends to be [happy](mind-feelings-happiness.md).
 - Different lifestyles from our friends help challenge our views of the world.
 - They give us resources and connections to others to help us [succeed](success-1_why.md).
@@ -30,7 +30,7 @@ We find friends over shared contexts we have in common with others:
   - Same hobbies or pastimes
   - Similar [philosophical](philosophy.md), [religious](religion.md) or [group affiliation](groups-large.md)
   - Shared hatred of a common enemy or threat
-  - Opportunity for [mutual business](entrepreneur-1_why.md) or shared benefit
+  - Opportunity for [mutual business](entrepreneur-1_what.md) or shared benefit
 - Thankfully, we can still relate over shared feelings, even if we have nothing else in common.
 
 Good friendships are fun:

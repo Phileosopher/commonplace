@@ -12,7 +12,7 @@ The direct sense of meaning we have control over is derived from [purposes](purp
 1. Having the capacity to make [decisions](mind-decisions.md)...
 2. ...which create [actions](results.md), which may simply be thoughts...
 3. ...which accomplish a [purpose](purpose.md) directed toward an object.
-4. We've [predicted](people-imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
+4. We've [predicted](mind-imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
 5. We [believe](understanding-certainty.md) our decision changed the [consequence](results.md).
 6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](mind-feelings-happiness.md).
 
@@ -32,7 +32,7 @@ The nature of responsibility also means that we must always conquer the [unknown
 
 [Decisions](mind-decisions.md) operate independently of [habit](habits.md), so we can only continue feeling meaning by continuing to make conscious choices. Otherwise, we will start to drift from our sense of meaning. [Building new habits](https://adequate.life/habits/) can *be* a choice, and is probably the only choice we can continuously make the same throughout our life, beyond anything regarding [religion](religion.md).
 
-From our biological origins, our [gender](gender.md) (i.e., XX or XY chromosome) has a *profound* impact on how we frame meaning.
+From our biological origins, our [gender](people-gender.md) (i.e., XX or XY chromosome) has a *profound* impact on how we frame meaning.
 
 - As beings without any biological configuration, men struggle with the battle to find meaning in a world without their purposes directing toward any inherent utility. Their result is to build, in the hopes of defying reality, and he will face an ugly hardship that develops his [maturity](maturity.md) when he realizes his utter frailty and limitations.
 - As being configured for reproduction, women struggle to find connection in a generally uncaring world. Their result is to draw connections in the hopes of defying reality, and she will face an ugly trial that develops her maturity when she realizes she's been self-deceiving or in the final solitude that engulfs us all in [death](mind-feelings-fear.md).
@@ -46,7 +46,7 @@ Every second, our responsibility-based meaning is subject to change. It can shif
 
 ## Irresponsibility and meaning
 
-The problem with responsibility is that there are *always* [risks](socialrisk.md), which can be [scary](mind-feelings-fear.md). Taking risks is difficult to start, so it's not unnatural for people to run away from it.
+The problem with responsibility is that there are *always* [risks](entrepreneur-why.md), which can be [scary](mind-feelings-fear.md). Taking risks is difficult to start, so it's not unnatural for people to run away from it.
 
 Most people run from risks, at least up to a point. When pushed enough by exposure to enough [evil](morality-evil.md) or [hardship](hardship.md), a small percentage of people will oppose the abdication of responsibility and push back. If those people, at that moment, are driven by a [principle](values.md) or the [results](results.md), they will find more meaning than the rest of the population.
 
@@ -56,7 +56,7 @@ APPLICATION: We can find meaning anywhere if we think about it long enough, and 
 
 - A [scientist](science.md) and [theologian](religion.md) will both find meaning because they increase the store of [human knowledge](understanding.md).
 - A [soldier](people-conflicts-war-why.md), of *any* country, will find meaning because they fight to defend their [homeland](groups-large.md).
-- The [entrepreneur](socialrisk.md) and builder finds meaning by [building something new](creations.md).
+- The [entrepreneur](entrepreneur-why.md) and builder finds meaning by [building something new](creations.md).
 
 ## Recovering from meaninglessness
 
@@ -82,7 +82,7 @@ APPLICATION: Nihilism implies everything is meaningless because it eventually wo
 
 ## The journey vs. the destination
 
-We don't find much meaning in the fulfillment of the things we want. Generally, shortly after we celebrate [attaining those things](success-1_why.md), we look immediately for something else to fulfill us. However, we anticipate that we will find *spectacular* meaning in things we do as we [imagine](people-imagination.md) it in the future.
+We don't find much meaning in the fulfillment of the things we want. Generally, shortly after we celebrate [attaining those things](success-1_why.md), we look immediately for something else to fulfill us. However, we anticipate that we will find *spectacular* meaning in things we do as we [imagine](mind-imagination.md) it in the future.
 
 APPLICATION: Enjoyment in something isn't in the attainment, but the effort and [expected results](results.md). For that reason, accomplishing challenging and relatively unnoticed things that help others is far more rewarding than simply acquiring or achieving more.
 
@@ -96,11 +96,11 @@ APPLICATION: It's perfectly possible (and not uncommon) to become wildly [succes
 
 Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](people-goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
 
-APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](people-imagination.md) and [committed](mind-decisions.md) to [believing](understanding-certainty.md).
+APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](mind-imagination.md) and [committed](mind-decisions.md) to [believing](understanding-certainty.md).
 
 Too much [specialization](jobs-specialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
-APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](people-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
+APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](mind-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 

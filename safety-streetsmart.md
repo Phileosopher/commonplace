@@ -62,7 +62,7 @@ Develop an intuition that you can trust.
 
 - In general, practice [active listening](language-speaking-listening.md) constantly.
 - Pay close attention to body language cues that indicate what others may not be saying.
-- [Meditate](awareness-meditation.md) on prior successes you've had when your intuition proved to be correct.
+- [Meditate](mind-awareness-meditation.md) on prior successes you've had when your intuition proved to be correct.
 - If you feel like something is off or out-of-place, you're probably right.
 - Learn to distinguish between feeling comfortable and feeling safe.
 

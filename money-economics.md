@@ -5,7 +5,7 @@ Economics is the "soft [science](science.md)" of how (and more importantly why) 
 
 Money is the easiest way we can store and retrieve value, so measuring the flow of money is a decent-enough way to track how [power and wealth](power.md) are created and moves between people.
 
-Money flow measures [well-being](people-goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](people-culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](people-imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
+Money flow measures [well-being](people-goodlife.md), but only in a secondary sense. Other factors (e.g., the [culture](people-culture.md) of the country) are far better indicator's of well-being, but *much* harder to measure, so economists simply use [money](power-types.md) to measure human [purpose](purpose.md) and make [educated guesses](mind-imagination.md) at why by using many [charts](math.md) to work with those [measurable](math.md) elements.
 
 However, economic measurements aren't very precise:
 
@@ -21,7 +21,7 @@ We make [choices](mind-decisions.md) to [trade](people-contracts.md) or [make](c
 
 APPLICATION: Because we consider the price of things compared to what other people would pay, the easiest form of reflecting uninhibited demand would be a [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction), where everyone privately [communicates](people-conversation.md) their price to the seller and the winner pays the *second*-highest price.
 
-We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](people-imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
+We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](mind-imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
 APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
@@ -40,8 +40,8 @@ Our concept of economic value is based on [information](understanding.md), mostl
 The measurable value of something fluctuates *constantly* for several reasons:
 
 - Information about things is constantly changing, and we're constantly [learning more](understanding.md) about that thing as we observe it.
-- Changing information implies a [story](stories-why.md), and therefore a [trend](people-trends.md) we try to [predict](people-imagination.md).
-- We [imagine](people-imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
+- Changing information implies a [story](stories-why.md), and therefore a [trend](people-trends.md) we try to [predict](mind-imagination.md).
+- We [imagine](mind-imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
 
 Economists define "income" differently than [accountants](money-accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").
 
@@ -115,7 +115,7 @@ However, a market is never "pure". Market distortions adapt a free market from c
 - Governments may subsidize or fund programs that would otherwise not be viable on a free market.
 - *Any* [influence](influence.md) whatsoever that advances or subdues a [social trend](people-trends.md) can temporarily distort everyone's [purposes](purpose.md).
 
-Generally, most market dynamics are actually 2+ markets that influence each other. For example, news and social media are the markets for people's attention but are influenced by the market for advertisers wanting people's attention. In some sense, *all* human interactions ripple into all other human interactions in some small way, which makes it difficult to measure or [predict](people-imagination.md).
+Generally, most market dynamics are actually 2+ markets that influence each other. For example, news and social media are the markets for people's attention but are influenced by the market for advertisers wanting people's attention. In some sense, *all* human interactions ripple into all other human interactions in some small way, which makes it difficult to measure or [predict](mind-imagination.md).
 
 ## Public goods
 
@@ -134,7 +134,7 @@ The tragedy of the commons has a few possible solutions:
 1. Most commonly, tax the public and maintain it with paid government workers.
 2. Use a variation of [private property](people-boundaries.md) rights to motivate people to maintain it (e.g., [advertising](marketing.md)).
 3. Abolish *all* private property to make *everything* a public good, which is essentially [communism](politics-leftism.md).
-4. Assuming there are no [barriers to entry](mgmt-badsystems.md) (e.g., "crony capitalism"), the tragedy of the commons gives [entrepreneurs](socialrisk.md) the motivation to create private versions of public goods.
+4. Assuming there are no [barriers to entry](mgmt-badsystems.md) (e.g., "crony capitalism"), the tragedy of the commons gives [entrepreneurs](entrepreneur-why.md) the motivation to create private versions of public goods.
 
 Some economists believe the market shouldn't dictate the cost of a [worthwhile](purpose.md) public good. They propose that governments should manage things society needs that are unprofitable to maintain.
 
@@ -167,7 +167,7 @@ Supply is how much of something there is, and demand is how much people [want](p
 
 - When there's more supply or less demand, people won't trade as much to get it.
 - When there's less supply or more demand, people will trade more to get it.
-- This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](people-imagination.md) everyone else will do.
+- This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](mind-imagination.md) everyone else will do.
 
 People make [decisions](mind-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
 
@@ -217,7 +217,7 @@ Black markets will trade almost *any* goods or services [against organizational 
 - Certain [media](creations.md) like music, movies, or video games that [symbolize](symbols.md) specific [ideas](values.md) or [educate](understanding.md) about certain things.
 - Specific collectible things like animal horns or objects from another [people group](groups-member.md).
 - Objects that could be used as weapons (especially against the leadership), such as firearms, grenades, nuclear material, or biological weapons.
-- [Other people](people-slavery.md), typically for [labor](purpose.md) or [sexual](gender.md) reasons.
+- [Other people](people-slavery.md), typically for [labor](purpose.md) or [sexual](people-gender.md) reasons.
 
 With increased [risks](safety.md) to transferring goods, as well as having no overseers to regulate it, the product's [quality](values-quality.md) in a black market will suffer compared to an open market.
 
@@ -225,17 +225,17 @@ With increased [risks](safety.md) to transferring goods, as well as having no ov
 
 Every time someone trades a good or service, both people are busy exchanging something, which is doing "business", often with an implied [contract](people-contracts.md).
 
-All business requires taking [risks](socialrisk.md) to succeed because we can't precisely [predict](people-imagination.md) the [purposes](purpose.md) other people have.
+All business requires taking [risks](entrepreneur-why.md) to succeed because we can't precisely [predict](mind-imagination.md) the [purposes](purpose.md) other people have.
 
 These trades fulfill our wants and needs through exchanges, so business [organizations](groups-small.md) aren't *just* trying to make money:
 
 1. Each individual in a business has the self-interested need to survive.
 2. Businesses increase their survivability through maximizing profit.
-3. Businesses maximize profit by provoking others' [trust](trust.md) to trade with them. If there's [competition](people-conflicts-why.md), they *must* do a better [job](people-image-why.md) than their competitors.
+3. Businesses maximize profit by provoking others' [trust](mind-trust.md) to trade with them. If there's [competition](people-conflicts-why.md), they *must* do a better [job](people-image-why.md) than their competitors.
 
 Capitalist societies reward organizations and individuals who add what the public [perceives](people-image-why.md) as value. While many people can [distort their image](people-image-distortion.md), [reality](reality.md) eventually catches up to them.
 
-[Entrepreneurship](socialrisk.md) and corporate management aren't at odds with charitable giving. A capitalist society permits entrepreneurs to [find ways](mind-creativity.md) to fill society's needs while profiting in the process. A massive corporation only exists because it has added [value](values-quality.md) to many people (even when it's [horrifically inefficient](mgmt-badsystems.md)), not by [stealing power](people-conflicts-war-why.md) away from everyone else.
+[Entrepreneurship](entrepreneur-why.md) and corporate management aren't at odds with charitable giving. A capitalist society permits entrepreneurs to [find ways](mind-creativity.md) to fill society's needs while profiting in the process. A massive corporation only exists because it has added [value](values-quality.md) to many people (even when it's [horrifically inefficient](mgmt-badsystems.md)), not by [stealing power](people-conflicts-war-why.md) away from everyone else.
 
 As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies of scale") permit enormous companies to produce items for far cheaper than individuals ever could.
 
@@ -243,7 +243,7 @@ As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies
 
 ## Speculation
 
-Everyone [expects](people-imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](understanding-certainty.md) that what happened last time will happen again.
+Everyone [expects](mind-imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](understanding-certainty.md) that what happened last time will happen again.
 
 Several factors mean the patterns of market behavior will never occur the same way each time:
 
@@ -268,7 +268,7 @@ Every time a [government's laws](people-rules.md) *might* change the availabilit
 
 In a large-scale social system, it takes a long time for things to get from one point to another. This creates what's called a "supply chain". A seasonal item that's in higher demand when the weather changes, for example, might get manufactured halfway across the world half a year beforehand.
 
-The existence of a supply chain means people can somewhat [predict future market events](people-imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
+The existence of a supply chain means people can somewhat [predict future market events](mind-imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
 
 In any [disaster](hardship-disaster-1_short.md), the risks to civilization's collapse don't come from any individual people or group being incapacitated, but the supply chain at large.
 
@@ -292,7 +292,7 @@ Most free countries mix supply side and redistributionism together. A tax system
 
 [History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](mind-decisions.md), even if they're bad.
 
-Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](people-imagination.md) models.
+Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](mind-imagination.md) models.
 
 ## Conflicts
 

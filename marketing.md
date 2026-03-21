@@ -52,6 +52,14 @@ Marketing is a resonating message that the product is the precise connection the
 - The message is designed to make the recipient [feel important](power-influence.md).
 - Without that interpreted meaning, the marketing is a complete waste of time and the money would be better-spent on simply improving quality or lowering price.
 
+In an [over-information attention economy](information.md), respect their time as much as possible.
+
+- Don't take more than the required number of seconds to promote the product.
+- If you want to entertain them with [a performance](business-show.md) (e.g., [humor](humor.md)), then give them something so memorable that their [feelings](mind-feelings.md) resonate intimately with the experience.
+- In other words, people will be comfortable with a *very* engaging or [meaningful](meaning.md) story that also advertises a product, but will be offended by a half-hearted story for the same product.
+  - This is because the promotion alongside the story at least partially sabotages the [good faith](people-contracts.md) the audience had in the [storyteller's](stories-storytellers.md) intention.
+- Avoid imitating any [meme](people-trends.md) without an original approach to it.
+
 The product has to be remarkable, which doesn't necessarily mean weird, cheap, expensive, big, or small.
 
 - That meaning comes from how the consumer interprets the provider [performing](people-contracts.md) for them, *not* from how the consumer sees the product compared to competitors' alternatives.
@@ -68,7 +76,7 @@ The best thing is to assume people are selfish, lazy, uninformed, and impatient.
 The only way to find that meaning is to create a distinctly human connection through the [design](engineering-design.md) of marketing materials.
 
 - Simply making promises and keeping them is enough to start building a brand.
-- To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_why.md) to disrupt [established patterns](habits.md).
+- To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_what.md) to disrupt [established patterns](habits.md).
 - A marketer never gets to dominate the domain, and serves more to curate [fashions](people-trends.md) that others will *want* to maintain.
 
 A lasting, marketable product has an original and distinctive competitive advantage.

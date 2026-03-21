@@ -71,13 +71,13 @@ Many governments try to create costs for unrelated third parties who suffer from
 
 Even when they don't outright ban things, governments often set price limits on goods and services to alter everyone's consumption. If prices are too high, suppliers will waste the product because nobody will buy it. If prices are too low, the product will be unprofitable and nobody will make it, which will create a shortage.
 
-APPLICATION: By hiking the price on something, consumers won't change up to where they start [changing](people-changes.md) their [motivation](purpose.md) about buying that thing. In fact, extra income for a business often gives more opportunities to make risky and potentially value-adding [risks](socialrisk.md) elsewhere, so increased prices are a net benefit to society if that group hasn't become [dysfunctional](mgmt-badsystems.md).
+APPLICATION: By hiking the price on something, consumers won't change up to where they start [changing](people-changes.md) their [motivation](purpose.md) about buying that thing. In fact, extra income for a business often gives more opportunities to make risky and potentially value-adding [risks](entrepreneur-why.md) elsewhere, so increased prices are a net benefit to society if that group hasn't become [dysfunctional](mgmt-badsystems.md).
 
 ## Spending
 
 While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](people-trends.md)-resistant, and often poorly made.
 
-The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](mind-decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
+The private sector, on the other hand, *requires* [risk](entrepreneur-why.md) to function, which means they'll make [decisions](mind-decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
 
 APPLICATION: Building wealth is valuable to advancing [the good life](people-goodlife.md) in a society, but only as far as the middle class. Beyond that, any further wealth only runs the risk of [corrupting](morality-evil.md) unless it's used for a [virtuous](morality.md) end.
 
@@ -114,7 +114,7 @@ As of the early 21st century, the exchange currency for the *entire world* is th
 
 The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](people-slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There has been a time where the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
 
-Further, the nature of fiat currency means that the [trust](trust.md) people will have in that currency will be *far* less than a tangible thing that could be redeemeda at any time, such as gold or silver.
+Further, the nature of fiat currency means that the [trust](mind-trust.md) people will have in that currency will be *far* less than a tangible thing that could be redeemeda at any time, such as gold or silver.
 
 - This is highly dependent on whether that *nation* is trustworthy, so it's not a hard-and-fast concept: a reliable and relatively uninvolved government will have more [good faith](https://gainedin.site/good-faith/) than a commodity-backed country with a terrible history of honoring their commitments.
 

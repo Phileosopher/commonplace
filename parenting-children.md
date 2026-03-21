@@ -19,7 +19,7 @@ The quality of a child's upbringing starts with the quality of their parent's lo
 Your success as a parent comes from [your success in everything else](success-1_why.md):
 
 - [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
-- Learn [self-awareness](awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
+- Learn [self-awareness](mind-awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
 - [Sleep well](sleep.md), [manage your weight](body-diet.md), [learn to cook](cooking.md), and [take care of yourself](people-image.md).
 - Understanding and practicing [empathy, compassion, and love](people-3_respect.md).
 - Build [loving friendships](people-friends.md), [especially with your spouse](relationships-marriage.md).
@@ -69,7 +69,7 @@ Managing children is extremely challenging because they maintain a few paradoxes
 - They see almost everything other people are doing (more than adults), but have no words to express what they're witnessing.
 - They're technically smarter than adults, but have absolutely no life experience to filter their understanding or skills.
 - They're extremely determined toward what they want, but are also easily frightened away from things or into telling lies.
-- Children take concepts *very* literally (e.g., "put an animal to sleep") and [imagine](people-imagination.md) extreme ideas (e.g., an eye doctor's opthalmoscope might read their mind).
+- Children take concepts *very* literally (e.g., "put an animal to sleep") and [imagine](mind-imagination.md) extreme ideas (e.g., an eye doctor's opthalmoscope might read their mind).
 - They poorly execute their words and actions, but they're *constantly* changing.
 
 If you understand how they think, it'll be easier to [take care of their needs](parenting-children-needs.md), [set boundaries with them](parenting-children-boundaries.md), and ultimately [have fun with them](parenting-children-fun.md)
@@ -91,7 +91,7 @@ Your child cares more about the approval and support of their guardians than *an
 - They're constantly asking three questions throughout their entire upbringing and onward into adulthood:
   1. "Dad, what do you [believe](understanding.md) about me?"
   2. "Dad, what do you [feel](mind-feelings.md) about me?"
-  3. "Dad, what are your [hopes](people-imagination.md) for me?"
+  3. "Dad, what are your [hopes](mind-imagination.md) for me?"
 - A child is so hypersensitive to rejection that small amounts of inauthentic affection or neglect may scar them for life.
   - When you hug a child, never let go first.
 - Imagine what your child sees, *not* how you [feel](mind-feelings.md) about it.

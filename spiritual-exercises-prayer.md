@@ -139,7 +139,7 @@ There's some [controversy](people-conflicts-christian-why.md) over Jesus' admoni
 
 Place yourself in a familiar position such as kneeling or laying face-down.
 
-Add nonverbal mantra-less [meditation](awareness.md) to your prayer (i.e., contemplative prayer).
+Add nonverbal mantra-less [meditation](mind-awareness.md) to your prayer (i.e., contemplative prayer).
 
 - The extra time can help you to calm yourself to stay more focused on Him.
 

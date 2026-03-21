@@ -74,7 +74,7 @@ Use email technology efficiently:
 - Use a "delay send" or "scheduled send" to deliver a message at a more appropriate time.
   - Consider their time zone and likely [sleep cycle](sleep.md) when choosing a time.
 - Your email address and email signature should convey the image you want.
-- Since they annoy the recipients and make you seem like you have [trust issues](trust.md), avoid electronic return receipts.
+- Since they annoy the recipients and make you seem like you have [trust issues](mind-trust.md), avoid electronic return receipts.
 
 Online chats require writing skills as well:
 

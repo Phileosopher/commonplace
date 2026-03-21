@@ -315,7 +315,7 @@ Criticism is proof you've tried something.
 - The criticism comes from someone else finding a thing "different" and "unacceptable".
 - This means that you'll face criticism in proportion to your comparative [success](success-1_why.md) *and* failures.
   - However, your failures are necessary to fuel your successes.
-- Learn to [trust](trust.md) yourself and your experiences, as well as rely on your [faith](theology-godandman.md).
+- Learn to [trust](mind-trust.md) yourself and your experiences, as well as rely on your [faith](theology-godandman.md).
 
 ## Give yourself time to recover
 

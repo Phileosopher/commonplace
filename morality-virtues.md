@@ -9,9 +9,9 @@ Empathy - [understanding](understanding.md) and [feeling](mind-feelings.md) othe
 
 Kindness - [doing](results.md) good things for others
 
-Gratitude - [aware](awareness.md) and thankful for good things
+Gratitude - [aware](mind-awareness.md) and thankful for good things
 
-Hope - [expects](people-imagination.md) the best and works toward it
+Hope - [expects](mind-imagination.md) the best and works toward it
 
 Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
 

@@ -18,7 +18,7 @@ A [corporate culture](groups-large.md) arises through great leaders fostering gr
 Like [accounting](money-accounting.md), [marketing](marketing.md), or [IT](computers.md), inserting more management into a system is *not* always a good idea.
 
 - Management is inherently a support role, though many managers don't see themselves that way (more on that below under "Bad managers").
-- People can often work better alone without supervision, especially if they [believe](trust.md) in the outcome of what they do.
+- People can often work better alone without supervision, especially if they [believe](mind-trust.md) in the outcome of what they do.
 - For most teams, the lead worker will simply become a part-time manager as part of their role.
 - The ideal time to employ a full-time manager is when a worker will do better working with others, but when there are so many people that the best worker can't reliably delegate and direct everyone.
 
@@ -55,7 +55,7 @@ Actual management, however, includes a few extra details the image fails to port
 
 Management has also gotten a bad reputation for several reasons:
 
-1. Similarly to [entrepreneurship](entrepreneur-1_why.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
+1. Similarly to [entrepreneurship](entrepreneur-1_what.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
 2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
 3. we often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
 4. At least 20% of the management class are clinically diagnosable [psychopaths](mind-neurodivergence-clusterb-narcissist.md), with that number being much higher if we include other forms of narcissism, Cluster B personality, and the edge cases.
@@ -99,9 +99,9 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
   - They'll also need to confront [conflicts](people-conflicts.md) as they happen, which will likely include firing someone at least once.
   - At the exact same time, they must win [friends](people-friends.md) over and avoid most conflicts *before* they become an issue.
 - Neuroticism must be low enough to never lose control of their [feelings](mind-feelings.md).
-  - Maintaining their composure is the only way to build and maintain others' [trust](trust.md) as being reliable.
+  - Maintaining their composure is the only way to build and maintain others' [trust](mind-trust.md) as being reliable.
 - The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](mind-neurodivergence.md) are unusually frequent compared to many other domains.
-  - Both of them also tend to fail in the domain of social skills (ASD from [unawareness](awareness.md), [Cluster B](mind-neurodivergence-clusterb.md) from apathy), which is part of why [management can develop stereotypes](mgmt-badsystems.md).
+  - Both of them also tend to fail in the domain of social skills (ASD from [unawareness](mind-awareness.md), [Cluster B](mind-neurodivergence-clusterb.md) from apathy), which is part of why [management can develop stereotypes](mgmt-badsystems.md).
 
 Managers have to battle the conflicting interests between their subordinates and *their* managers, so there are several major ways to fail:
 
@@ -138,13 +138,13 @@ All managers *should* have leadership qualities because managers must perform sp
 - Nurtures late-bloomers who aren't rising to their presented challenges.
 - Fire or dismiss lazy, uncooperative, and complaining workers.
 - Adapt to the situation as it [changes](people-changes.md).
-- [Loyal](trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
-- Capable of making clear [decisions](mind-decisions.md) confidently enough that others [trust](trust.md) them.
+- [Loyal](mind-trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
+- Capable of making clear [decisions](mind-decisions.md) confidently enough that others [trust](mind-trust.md) them.
 
 While management itself is a role, leadership is a mindset and skillset:
 
 - [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](mind-decisions.md) that [take action](results.md).
-- At least some degree of [maturity](maturity.md) and [awareness](awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
+- At least some degree of [maturity](maturity.md) and [awareness](mind-awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
 - Concerned more about their group's or team's [interests](purpose.md) than themselves.
 - Confident about their decisions without regrets, but humble enough to make dramatic changes when they're wrong.
 
@@ -158,7 +158,7 @@ Managers are granted roles from someone in a position of authority who liked the
 
 - Others tend to stop and listen whenever they speak.
 - Wherever they go, they'll tend to take charge, and others will want to follow them.
-- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](people-imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts-why.md) to something else or following a [social fashion](people-trends.md).
+- Leaders' decisions are [self-directed actions](purpose.md) driven by a [principle](values.md) or [plan](mind-imagination.md), while managers' decisions may be more broadly [acting in opposition](people-conflicts-why.md) to something else or following a [social fashion](people-trends.md).
 
 The primary distinguishing features between a leader/manager and a manager-in-title-only comes through:
 
@@ -174,10 +174,10 @@ Many managers only have a [formal title](power-types.md) that implies specific r
 
 The stereotype of bad managers distill to a few key details:
 
-- Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](awareness.md) of that fact.
+- Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](mind-awareness.md) of that fact.
 - Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which make their expectations from others at least somewhat hypocritical.
 - Either poor [interpersonal](people-boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
-- Poorly [understood](understanding.md) or poorly articulated [vision](people-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
+- Poorly [understood](understanding.md) or poorly articulated [vision](mind-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
 - Unwilling to hear [constructive input](people-conflicts-why.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
 - Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged (a particular problem of [Cluster B diagnosis](mind-neurodivergence-clusterb.md)).
 - Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](people-image-why.md) (a particular problem of [narcissism](mind-neurodivergence-clusterb-narcissist.md)).
@@ -216,7 +216,7 @@ When nobody leads by asking questions that provoke change, NLM [culture](people-
 - Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
 - Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](results.md) within those projects.
 - Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
-- Often dismally [unaware](awareness.md) of how everyone else [sees them](people-image-why.md).
+- Often dismally [unaware](mind-awareness.md) of how everyone else [sees them](people-image-why.md).
 
 Great management can't be trained because the managers must *choose* to be authentic and behave maturely.
 

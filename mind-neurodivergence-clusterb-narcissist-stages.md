@@ -5,7 +5,7 @@ There are eight predictable stages every victim will experience with [a narcissi
 
 - The length and severity of these stages are highly dependent on how the victim responds to them.
 
-The victims most harmed by narcissist abuse are, in some way, [unaware](awareness.md) of that narcissist's behavior.
+The victims most harmed by narcissist abuse are, in some way, [unaware](mind-awareness.md) of that narcissist's behavior.
 
 - Sometimes they've normalized narcissistic abuse from their [childhood](hardship-family.md).
 - Other times, they weren't sufficiently socialized as a child to understand appropriate human behavior (e.g., [autism](mind-neurodivergence-autism.md)).
@@ -87,6 +87,13 @@ They rewrite the victim's entire perception of reality by [influencing](power-in
 
 The victim effectively sees the narcissst as the only decider of truth.
 
+One of the narcissist's most manipulative behaviors comes through a "double-bind":
+
+1. The narcissist has isolated the victim from sufficient information to answer a question.
+2. The narcissist approaches the victim with a binary this/that question.
+   - The narcissist will have an accusation and condemnation prepared for both possibilities.
+3. When the victim answers, the narcissist will use fear, obligation or guilt to get what they want.
+
 This only works to the effect that the narcissist has them alone without competing views.
 
 - Often, [education](education.md) and casual [friends](people-friends.md) can deter this, but the victim will often [habituate](habits.md) away from those experiences.
@@ -137,7 +144,7 @@ This is a holding pattern with the narcissist and victim:
 - The victim will become increasingly distraught over this arrangement, but will persist in it while feeling trapped.
 - The narcissist, however, is satisfied but feels they're losing control.
 
-Any time the narcissist feels dissatisfied with their supply, they'll simply cycle back to Stages 1-4:
+Any time the narcissist feels dissatisfied with their supply, they'll simply cycle back to Stages 1-5:
 
 1. Reinforce kindness to give hope.
 2. Constant gaslighting to prevent them from discovering the truth.
@@ -175,7 +182,7 @@ If the narcissist is intelligent or experienced, they can exploit behaviors in t
 
 - Prodding their victims to yell, act out, or otherwise misbehave.
 - Provoking their victims to domestic violence.
-- Using a [politically advantageous demographic](politics-leftism.md) for their benefit (e.g., leveraging being [a female](gender.md) or African American).
+- Using a [politically advantageous demographic](politics-leftism.md) for their benefit (e.g., leveraging being [a female](people-gender.md) or African American).
 
 ## Recap
 

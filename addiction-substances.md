@@ -198,7 +198,7 @@ Sadness
 - Depression
 - Grief (PGD, or Prolonged Grief Disorder)
 
-[Dysregulation](awareness-dysregulation.md)
+[Dysregulation](mind-awareness-dysregulation.md)
 
 Imagining things
 

@@ -97,7 +97,7 @@ If you do find yourself in this situation, you have a few options:
 3. Start making [ideas for a startup](entrepreneur-2_idea-cs.md) or [freelancing](entrepreneur-4_freelancing.md) some of your work. Be careful how much you do it on company time or hardware/software, though. You can often learn most of what you need to know with that spare time (such as how to program Python) while not necessarily doing the work that could get you in [legal trouble later](legal-ip.md). Also note that anything "made" on a company device or on company time could technically become their [intellectual property](legal-ip.md) if the company's legal team wanted to abuse the situation.
 4. If you like living on the edge and have a remote job, you can technically work two jobs at once. It's stressful and requires [lying](people-lying.md), but some people find the two paychecks worth it.
 
-Their only hope is to [find a smaller company](jobs-2_goals.md) or [become their own boss](entrepreneur-1_why.md).
+Their only hope is to [find a smaller company](jobs-2_goals.md) or [become their own boss](entrepreneur-1_what.md).
 
 However, if you're [losing sleep](sleep.md), your [health is slipping](body-health.md), and you're [miserable](mind-feelings-happiness-stress.md), find a new job as fast as possible:
 

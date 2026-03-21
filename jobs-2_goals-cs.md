@@ -48,7 +48,7 @@ The breadth of what you must know varies on the type of work you're performing:
 There's also a trust factor worth considering in hunting for a role.
 
 - Generally, you'll want to get an entry-level job in just about any role connected to what you want, then work from there.
-- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming.md).
+- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](mind-trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming.md).
 
 ## Start Learning
 
@@ -203,7 +203,7 @@ Thankfully, your experience isn't useless. One soft skill that only comes throug
 3. Non-people-focused and team-based: R&D, Security Analyst, Data Science
 4. Non-people-focused and independent: QA Engineer, No-Code Developer, Sysadmin
 
-In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](people-contracts.md), [expertly handling conflicts](people-conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-1_why.md).
+In many ways, *you're* the largest protection against your misuse and abuse. It requires [examining contracts you consent to more carefully](people-contracts.md), [expertly handling conflicts](people-conflicts.md), and treating your employers less like overseers and [more like customers](entrepreneur-1_what.md).
 
 If you prefer, aim for part-time work [during the negotiation](jobs-6_negotiating.md), which you can usually do if the work is trivial enough for you to do it easily. Very often, you can get paid a bit less, but with more freedom to do what you want (which you're *not* getting paid for).
 

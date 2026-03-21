@@ -43,7 +43,7 @@ They must learn awareness and reasoning:
   - They're literally oblivious to [clutter](organization.md), [messes](home-housekeeping.md), [personal hygiene](people-image.md), or [good manners](people-3_respect.md).
   - Expect that you'll frequently repeat yourself.
   - Stay vigilant about their behaviors and motivations.
-- Teach children to slow down and [meditate](awareness.md) whenever they start losing control of themselves.
+- Teach children to slow down and [meditate](mind-awareness.md) whenever they start losing control of themselves.
 - Children don't know what they need, but they often know exactly what they want.
   - Giving children everything they want distorts their perspective of the world.
   - Structure your rewards and live your life to teach them the value of hard work and the importance of waiting.

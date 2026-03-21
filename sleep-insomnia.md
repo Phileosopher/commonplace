@@ -21,7 +21,7 @@ Drink plenty of water.
 
 Make a wind-down routine:
 
-- At day’s end, de-stress and [meditate](awareness-meditation.md).
+- At day’s end, de-stress and [meditate](mind-awareness-meditation.md).
 - Listen to the same song every time you’re tired, then play it back when you can’t sleep.
 - Create a bedtime routine of pajamas and a cup of tea in bed at a reliable time.
 - Set a strict "screens off" time 1–2 hours before bedtime.

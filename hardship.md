@@ -41,12 +41,12 @@ People will use projection, transference, and poor self-management skills to beh
   - Even *selfless behavior* that harms you can often come from feelings of guilt.
 - [Trauma](hardship-ptsd.md) will often transfer to you:
   - Over-reaction is usually from other people that hurt them before you came along.
-  - Trust issues are often unspoken (and often [unaware](awareness.md)) expectations.
+  - Trust issues are often unspoken (and often [unaware](mind-awareness.md)) expectations.
 - Many people project their poor self-management onto others:
   - Blame is often from poor anger management skills.
   - Anxiety is frequently from not being able to see the big picture.
   - Doubt and prejudice is often from a lack of [understanding](understanding.md).
-- Plus, all of the above behaviors are usually caused by things they are *[completely unaware about](awareness.md)*.
+- Plus, all of the above behaviors are usually caused by things they are *[completely unaware about](mind-awareness.md)*.
 - And, in all of this, some people *will* use shame and guilt to [control you](power-types.md).
 
 Whatever happened, *you* must control how it'll influence you:
@@ -74,7 +74,7 @@ You're the chaotic accumulation of various experiences and responses:
 - Every experience you've been through, good or bad
 - Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
   - Further, the things you've [learned](understanding.md) from those experiences.
-- [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](awareness.md) of them.
+- [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.
 
 Thus, you are not a "static" existence:
@@ -102,7 +102,7 @@ Give yourself plenty of grace:
 
 ## Don't let feelings define you
 
-We can't control our [feelings](mind-feelings.md) directly, but we *can* control our [beliefs](trust.md) that frame those feelings:
+We can't control our [feelings](mind-feelings.md) directly, but we *can* control our [beliefs](mind-trust.md) that frame those feelings:
 
 - We tend to fall into a state of "temporary insanity" when we experience severe pain, anger, sadness, or anxiety.
 - The more we live in that situation, the more that temporary state defines us.
@@ -119,7 +119,7 @@ The only cure to stopping the "temporary insanity" of emotional overwhelm is sel
 
 1. Stop what we're doing.
 2. Calm down.
-3. [Take an in-depth look inside](awareness.md).
+3. [Take an in-depth look inside](mind-awareness.md).
 4. Analyze what's really going on inside us.
 5. Precisely and fully give up what we can't control (preferably [to God](spiritual-exercises-prayer.md)).
 6. From that place, focus more closely on what we do have control.
@@ -190,7 +190,7 @@ The world of possibilities is never reality:
 - You have no idea what could have happened if things were different.
 - Any regrets or shock about possible decisions you could have made are not rational.
 
-To accept and focus on reality, [stay centered on "now"](awareness.md):
+To accept and focus on reality, [stay centered on "now"](mind-awareness.md):
 
 1. Only focus on the following:
    - The present day
@@ -223,7 +223,7 @@ Most people grow up habituated toward a certain amount of hope, but not everyone
 Wherever we are, we can add hope to our lives:
 
 - Read inspiring stories or [the Bible](theology-bible.md).
-- [Meditate](awareness-meditation.md.md).
+- [Meditate](mind-awareness-meditation.md.md).
 - Perform a small task toward a [goal](success-3_goals.md) you want to accomplish.
 - [Spend time around others](people-friends.md) who are doing as badly or worse than you.
 - [Exercise](body-exercise.md) to let out the stress.
@@ -322,7 +322,7 @@ If you've made a bad decision, learn to forgive yourself:
 - You made a bad decision, but you don't have to keep obsessing about it if you've learned from it.
 - Because you're so afraid of it, the situation will *never* play itself out again.
   - And, even if it did, you'd make a different decision.
-  - If you feel uncertain about the situation repeating itself, ask yourself if you're [fully aware](awareness.md) of who you are.
+  - If you feel uncertain about the situation repeating itself, ask yourself if you're [fully aware](mind-awareness.md) of who you are.
 - Your [trauma](hardship-ptsd.md) is no longer useful for anything besides [learning from it](understanding.md), so [let it go](hardship-ptsd-release.md), even if others won't.
 
 Once you've recovered, you will be more resilient and durable than you would have been before if you accept that it happened and move on:

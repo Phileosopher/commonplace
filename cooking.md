@@ -13,7 +13,7 @@ Cooking is a part-time job that pays immediately:
 
 - A few hours of batch preparation a week can give a week of healthy, cheap eating.
 - In fact, you often don't have to stand up to cook.
-- To their loss, many people (especially [men](gender.md)) find cooking unpleasant.
+- To their loss, many people (especially [men](people-gender.md)) find cooking unpleasant.
 
 Thankfully, cooking isn't complicated:
 

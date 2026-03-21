@@ -3,17 +3,23 @@
 
 If you see any of their quirks that *really* annoy you, they'll get *much* worse as you get to know them.
 
-None of these signs are necessarily unsolvable, but don't intensify the relationship without [awareness](awareness.md) of how to fix or avoid them.
+None of these signs are necessarily unsolvable, but don't intensify the relationship without [awareness](mind-awareness.md) of how to fix or avoid them.
 
-However, nobody is entirely "perfect" for you because everyone is somewhat broken, so your [personality](people-personality.md) may work well against some of them.
+However, since everyone is somewhat broken, nobody is entirely "perfect" for you, so your [personality](people-personality.md) may work well against some of them.
 
-They're psychologically or physically abusive:
+Constantly seeking compliments or affirmation:
+
+- Sometimes, it subtly expresses throughan awkward silence after expressing an accomplishment.
+- They have a deep need for admiration, which is a core aspect of [narcissism](mind-neurodivergence-clusterb-narcissist.md).
+- Healthy people don't need constant affirmation.
+
+They're psychologically or physically [abusive](hardship-abuse.md):
 
 - Abusive people usually [disrespect boundaries](people-3_respect.md) without realizing it.
+  - Or, sometimes, they *enjoy* when others suffer.
 - If they disrespect you, it'll only get worse as you grow closer.
+  - Existing around an abusive person is a minefield of avoiding outbursts.
 - Never rationalize abusive behavior.
-- Physically abusive people can't control their anger once it boils over.
-- Living with an abusive person is a minefield of avoiding outbursts.
 
 Meeting your needs when they shouldn't be:
 
@@ -49,6 +55,13 @@ Self-absorbed:
 - Even if they have a reputable status, their relationship has no room for your needs.
 - If someone is self-absorbed, they won't admit they've done something wrong, even if it hurts you.
 
+Unable to apologize:
+
+- We all fail, and we all must seek [forgiveness](hardship-forgiveness.md).
+- However, mentally unwell people will find ways to sidestep or minimize the scope of what they've done wrong.
+  - They should openly admit what they've done wrong, and express sincere and unprovoked guilt over it.
+- This may seem harmless, but it will magnify absolutely every [conflict](people-conflicts.md) later on.
+
 They only want your money:
 
 - Materialistic people will force their partners to assume [debt](money-2_debt.md) later.
@@ -62,7 +75,7 @@ Wants the *concept* of you more than you as a person:
 
 They're perpetually miserable:
 
-- [Working through personal issues](awareness.md) is good, but not when everyone else is having fun!
+- [Working through personal issues](mind-awareness.md) is good, but not when everyone else is having fun!
 - Everyone has a baseline [happiness](mind-feelings-happiness.md) they revert to when there's no outside pressure, and you can't change that.
 - While you may temporarily improve their satisfaction, they'll eventually become accustomed to you.
 - The worst variation of this is someone who has become contentious about frivolous things.

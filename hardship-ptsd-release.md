@@ -9,7 +9,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
   - Talk to yourself or a [friend](people-friends.md) about how you feel.
 - Crying is one of the most effective ways to release trauma.
   - If you can't cry, yawning also releases stress.
-- Focus on [meditative](awareness-meditation.md) deep breathing:
+- Focus on [meditative](mind-awareness-meditation.md) deep breathing:
   1. Exhale completely.
   2. Take 4 seconds to inhale.
   3. Hold your breath for 7 seconds.
@@ -39,7 +39,7 @@ Make accommodations for the trauma, but never stop revisiting it:
 
 When you are ready, release your feelings about anything you fear or resent:
 
-- The most effective place for [meditation](awareness-meditation.md) comes through how we can better [respond to triggers](habits.md).
+- The most effective place for [meditation](mind-awareness-meditation.md) comes through how we can better [respond to triggers](habits.md).
   - You really can't do anything about the past, nor about others' actions, and the only person suffering from holding onto those feelings is you.
   - Whenever feelings arise, learn to repeat the mantra, "I'm having an emotional reaction."
   - [Give it all to God](spiritual-exercises-prayer.md) as you encounter the experiences.

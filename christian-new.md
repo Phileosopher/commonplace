@@ -24,7 +24,7 @@ Preoccupation with at least one of the four major idols ([1 John 2:15-16](https:
 
 This will show itself through how they prioritize their life, some examples:
 
-- Aspiring [entrepreneur](entrepreneur-1_why.md): money/power/honor
+- Aspiring [entrepreneur](entrepreneur-1_what.md): money/power/honor
 - Aspiring [executive/ceo](mgmt-1_why.md): money/power/honor
 - [Intellectual](understanding.md): power
 - Worship of their [body's strength](body-exercise.md) (power)
@@ -128,7 +128,7 @@ Believing "Christian" media to be a vastly superior classification of media, eve
 
 - Many Christian [stories](stories-why.md) are absolute garbage because they don't give room for the experience to express itself.
   - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](mind-decisions.md).
-- For whatever reason, many Christian creatives have zero [faith](trust.md) in their ability to convey the correct [meaning](meaning.md):
+- For whatever reason, many Christian creatives have zero [faith](mind-trust.md) in their ability to convey the correct [meaning](meaning.md):
   1. The audience might not understand the implication that a bad thing is bad.
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
   3. The audience may misunderstand why the creator is portraying a bad thing and attack them over it.
@@ -181,12 +181,12 @@ Asceticism, or some other deep belief that the body is a bad thing.
 - They haven't realized that their very *essence* is partly a body and that it's essentially an advanced animal they're supposed to restrain every day for *other* [moral](morality.md) purposes.
   - [Matthew 6:16](https://biblehub.com/matthew/6-16.htm)
 
-Rigidity and denial to even *think* about [speculative](people-imagination.md) elements that expand on what the Bible alludes to.
+Rigidity and denial to even *think* about [speculative](mind-imagination.md) elements that expand on what the Bible alludes to.
 
 - If we dwell on the Bible, we're going to ask questions (and form theories) about what God may have done before He created us, whether [God](theology-god.md) has always been a Trinity, etc.
 - Most of this is driven by [fear](mind-feelings-fear.md) of heresy, but Christians will be improving their [understanding](understanding.md) for all eternity, so these ideas are worth peacefully discussing and wrestling with.
 
-Complete openness to discussing [speculative](people-imagination.md) elements that have absolutely *no* grounding in the Bible.
+Complete openness to discussing [speculative](mind-imagination.md) elements that have absolutely *no* grounding in the Bible.
 
 - We must *constantly* renew our minds by conforming to the truths we discover ([Romans 12:2](https://biblehub.com/romans/12-2.htm)), so we must curb our imaginations to the [constraints](mind-creativity.md) of what we know to be [reality](reality.md).
 - The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long.

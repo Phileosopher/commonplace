@@ -22,7 +22,7 @@ The second, however, can be used universally.
 
 ## A. Have a vision
 
-Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.md), build a clear [vision](people-imagination.md) of what the team will need to do:
+Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.md), build a clear [vision](mind-imagination.md) of what the team will need to do:
 
 - Will the project have many interconnected tasks (and require more [communication](language-speaking.md)), or are each of the tasks relatively independent of each other?
 - Is the task relatively straightforward, or more abstract?

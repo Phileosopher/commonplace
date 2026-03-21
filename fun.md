@@ -9,13 +9,13 @@ We need fun as much as work for a healthy life:
 - Most [religions](religion.md) believe in a dedicated day of rest, and [science](science.md) has proven that it makes people 150% more productive.
 - If we don't schedule sabbaths, sabbaticals, [vacations](fun-vacations.md), breaks, aimless walks, and time off, life becomes repetitive and [meaningless](meaning.md).
 
-We are having fun when we're experiencing joy, [focused on the moment](awareness.md), and have lost track of time.
+We are having fun when we're experiencing joy, [focused on the moment](mind-awareness.md), and have lost track of time.
 
 - This is difficult to do if we're [stressed](mind-feelings-happiness-stress.md) or have been busy [working hard](success-4_routine.md).
 
 Each person has their own interpretation of "fun":
 
-- Finding out what's fun to you requires [self-awareness](awareness.md).
+- Finding out what's fun to you requires [self-awareness](mind-awareness.md).
 - You understand what you like when you can describe it to someone else.
 - For some people, bricklaying or cleaning is fun!
 

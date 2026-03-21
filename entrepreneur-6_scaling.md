@@ -170,5 +170,5 @@ When you're ready to start handing off roles, learn [how to manage others correc
 
 As you scale upward, you'll assume increasing levels of [managerial responsibility](mgmt-1_why.md) over others.
 
-- The [scrappy personality](entrepreneur-1_why.md) that got you here may or may not work in a manager capacity.
+- The [scrappy personality](entrepreneur-1_what.md) that got you here may or may not work in a manager capacity.
 - Closely observe the shifts, and [leave](entrepreneur-7_exit.md) as soon as you feel uncomfortable with the new role.

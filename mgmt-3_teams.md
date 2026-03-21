@@ -162,7 +162,7 @@ Consider your own [personality](people-personality.md) when hiring.
 
 While every potential candidate *could* do the job, aim for a [culture](people-culture.md) fit.
 
-- A diverse range of demographics ([age](maturity.md), [gender](gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-conflicts.md).
+- A diverse range of demographics ([age](maturity.md), [gender](people-gender.md), [family composition](people-family.md), [political views](politics-conservativeliberal.md)) is guaranteed to generate more [creative solutions](mind-creativity.md), but at the risk of more [conflicts](people-conflicts.md).
 - Diverse workplaces are *not* conducive to mindless tasks (e.g., factory work).
 - Pay close attention to how a candidate interacts with current members or leadership, since *any* social friction will magnify itself later.
   - At the same time, a neurodivergent (e.g., [ASD](mind-neurodivergence-autism.md), Cluster B) in many industries is literally *the* most diverse hire you can acquire.
@@ -203,7 +203,7 @@ Stay vigilant for *any* risks to the workplace culture:
 
 - Bullying makes people fearful or resentful.
 - Conceit sows disrespect among everyone.
-- [Distrust](trust.md) is contagious.
+- [Distrust](mind-trust.md) is contagious.
 - Antisocial tendencies make the rest of the group informally separate from that person.
 - Laziness means nobody trusts that person, and will generally instill apathy with everyone else over time.
 - Excessively communicating about private matters will make everyone else uncomfortable over time.

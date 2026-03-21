@@ -16,7 +16,7 @@ Don't "follow your dreams":
 
 - Our dreams change *constantly*, especially before we reach our 30s.
 - Most people want an easy life, [which is guaranteed failure](success-2_attitude.md).
-- Instead of acquiring debt to follow a dream, [work a job](jobs-1_why.md) and follow your [curiosity](mind-creativity.md) until you're fully [aware](awareness.md) of your [desires](purpose.md).
+- Instead of acquiring debt to follow a dream, [work a job](jobs-1_why.md) and follow your [curiosity](mind-creativity.md) until you're fully [aware](mind-awareness.md) of your [desires](purpose.md).
 - Instead of setting a fixed future [goal](success-3_goals.md), pursue the most promising *and* most likely future possibilities.
 
 Before choosing a particular college, understand beforehand what you want:
@@ -27,9 +27,15 @@ Before choosing a particular college, understand beforehand what you want:
 - If you don't know what you want, it's better to learn by trial-and-error in the workforce (and make money while doing it) than paying for a degree that's potentially useless in the future.
 - If you're not sure, you can audit a course, where you pay for it but aren't required to take exams and won't receive credit for it.
 
+Stay honest about how much your career is simply based on egotistical reasons:
+
+- Many people like the prestige of being called "doctor", "esquire" or "boss".
+- However, the work to maintain that title is almost never worth the sacrifice.
+- Pursuing a [good life](people-goodlife.md) creates a better and longer-lasting result than [wealth](money-1_why.md) or [popularity](power-influence.md).
+
 Discover what you want to do by observing people as smart as you:
 
-- Learn [brutal honesty with yourself](awareness.md) and your mental limits.
+- Learn [brutal honesty with yourself](mind-awareness.md) and your mental limits.
 - Your natural talents are always useful, but you probably don't know how or where yet.
 - The hardest possible job you can do will likely pay the most.
 - Make sure the job matches your [personality](people-personality.md).
@@ -72,7 +78,7 @@ Some degrees are legitimately useful, but only with 6+ years of investing effort
 
 Quite a few degrees are technically useful, but the information is free elsewhere, such as on the internet:
 
-- Most business degrees are simply derived from common sense: [business administration](business.md), [entrepreneurship](entrepreneur-1_why.md), [finance](money-investing.md), [human resources](business.md), [management](mgmt-1_why.md), [marketing](marketing.md), [supply chain/logistics](logistics.md).
+- Most business degrees are simply derived from common sense: [business administration](business.md), [entrepreneurship](entrepreneur-1_what.md), [finance](money-investing.md), [human resources](business.md), [management](mgmt-1_why.md), [marketing](marketing.md), [supply chain/logistics](logistics.md).
 - Most [computer science and information technology](computers.md) degrees can be equally met with free online courses and various specialized boot camps and certifications.
 - [Culinary arts](cooking.md) are fully available by browsing recipe websites and getting certifications.
 - Healthcare administration (e.g., medical billing) is best learned on-the-job and by reading articles about the subject.
@@ -191,4 +197,4 @@ At some point, you must leave college:
   - Beyond some graduate degrees in law, medicine, or education, most master's programs add very little value to a career, and most doctorate programs are only useful to teach the discipline or work in a tiny subset of the industry.
 - After graduating, don't try to maintain the college lifestyle.
   - Some people will keep getting college degrees across multiple unrelated disciplines, but they are forever enslaved to their [student loans](money-2_debt.md).
-- Educators are capturing known-effective things, so they tend to [stifle innovation](socialrisk.md), and your capacity to [create](mind-creativity.md) and [innovate](people-trends.md) will only come from *outside* a college.
+- Educators are capturing known-effective things, so they tend to [stifle innovation](entrepreneur-why.md), and your capacity to [create](mind-creativity.md) and [innovate](people-trends.md) will only come from *outside* a college.

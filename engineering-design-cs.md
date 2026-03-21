@@ -37,7 +37,7 @@ No design is *ever* perfect, but computers have taken bad design to a new level:
   - Make errors seem or be very dangerous, as if they're [breaches of contract](people-contracts.md).
   - Permit 1 error to destroy valuable work.
 
-Users can only draw from their [environment](reality.md) (observations) or [memory](people-imagination.md) (expectations), so [computer design](engineering-design.md) frequently borrows from the world around us:
+Users can only draw from their [environment](reality.md) (observations) or [memory](mind-imagination.md) (expectations), so [computer design](engineering-design.md) frequently borrows from the world around us:
 
 - Building things to reflect biological form, such as making the case look like a plant or adding earth tones.
 - Adding context-sensitive colors, such as shades of gray for industrial tones or a brightly colored palette for children's themes.
@@ -75,7 +75,7 @@ This is almost standard in tech, and never seems to [trend](people-trends.md) ot
 
 [Cybersecurity](computers-cysec.md) design, by contrast, is simply the *reverse* of good design: instead of communicating what a user can do, the designer is obscuring and *hiding* things instead.
 
-Of course, this means many possibilities for growth within computers. Many more things frustrate users in computers than anywhere else, so there are more possible places where [taking a risk](entrepreneur-1_why.md) may yield a positive result.
+Of course, this means many possibilities for growth within computers. Many more things frustrate users in computers than anywhere else, so there are more possible places where [taking a risk](entrepreneur-1_what.md) may yield a positive result.
 
 ## Documentation
 

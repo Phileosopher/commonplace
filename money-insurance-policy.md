@@ -246,7 +246,7 @@ Many businesses have larger, more specific needs, and is a key part of any Human
   - Truckers insurance
 - Weather insurance
 - Worker's compensation insurance (for on-the-job medical damages and lost wages)
-  - Assigned risk plans cover workers comp plans that can't be insured through conventional policies (due to being [unprecedented new industries](entrepreneur-1_why.md) or high-risk)
+  - Assigned risk plans cover workers comp plans that can't be insured through conventional policies (due to being [unprecedented new industries](entrepreneur-1_what.md) or high-risk)
 
 Other insurance can serve to accommodate additional liability needs.
 

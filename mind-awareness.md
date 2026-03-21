@@ -20,7 +20,7 @@ When we're unaware, we frequently respond wrongly:
 - Sometimes, our [fear](mind-feelings-fear.md) will compel us to "fix" things that destroy even more than what we had observed.
 - And, when we're unaware of *those* consequences, we won't see what we destroy or try to "fix" things further!
 
-When we stay unaware, we become [dysregulated](awareness-dysregulation.md).
+When we stay unaware, we become [dysregulated](mind-awareness-dysregulation.md).
 
 ## Awareness isn't easy
 
@@ -28,7 +28,7 @@ We all have inner [conversations](people-conversation.md) with ourselves called 
 
 - While they're *always* [logical](logic.md), they're not always reasonable or well-adjusted.
 
-[Meditation](awareness-meditation.md) takes discipline through patience, which is proportionally less necessary with increased [success](success-1_why.md).
+[Meditation](mind-awareness-meditation.md) takes discipline through patience, which is proportionally less necessary with increased [success](success-1_why.md).
 
 We're in constant conflict.
 

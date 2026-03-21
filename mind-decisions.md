@@ -9,13 +9,13 @@ We are *constantly* deciding things. When we were little, nearly all our decisio
 
 Contrary to how it may [seem](people-image-why.md), decision-making is far more of a strain on our willpower than actually [*doing* most things](results.md).
 
-As we develop [habits](habits.md) from infancy onward and our [identity](people-identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](people-changes.md) without [awareness](awareness.md) of it.
+As we develop [habits](habits.md) from infancy onward and our [identity](people-identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](people-changes.md) without [awareness](mind-awareness.md) of it.
 
 As we gain [experience](understanding.md), *most* decisions become [habitual](habits.md). Decisions force [change](people-changes.md) and require directing [our essence](humanity.md) to it, so it's a gigantic portion of why [aging](maturity.md) makes us both set in our ways and unaware of the passage of time.
 
 ## Willpower
 
-We face [conflicts](people-conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](people-imagination.md) [doing](results.md) or [believing](understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
+We face [conflicts](people-conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](mind-imagination.md) [doing](results.md) or [believing](understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
 
 Every day, we wake up with a certain amount of willpower based on how much we're [certain](understanding-certainty.md) about what we can do. Over the day, we can refresh that [certainty](understanding-certainty.md) through affirmations or rest, but that willpower reserve will slowly drain until we become incapable of even performing basic [tasks](purpose.md) or resisting *any* [substance](addiction-substances.md).
 
@@ -31,7 +31,7 @@ Our framework of information can often be shoddy and [untrustworthy](understandi
 
 Since unconscious decisions are essentially [habits](habits.md) by another name, and the word "decisions" usually only refers to the diverging options we consciously select.
 
-APPLICATION: Generally, experiences and decisions we make beforehand craft our minds to dispose toward a decision *long* before we actually face any given decision. However, we imagine our decision is completely on-the-fly and unaffected by our environment. This doesn't mean we don't have agency, but we *are* being [influenced](power-influence.md) in ways we're not actively [aware](awareness.md) of.
+APPLICATION: Generally, experiences and decisions we make beforehand craft our minds to dispose toward a decision *long* before we actually face any given decision. However, we imagine our decision is completely on-the-fly and unaffected by our environment. This doesn't mean we don't have agency, but we *are* being [influenced](power-influence.md) in ways we're not actively [aware](mind-awareness.md) of.
 
 There is a spectrum between conscious decisions and habits. Across repetition, decisions become habits through a specific flow:
 
@@ -48,3 +48,5 @@ APPLICATION: Small decisions *against* what's we're accustomed to will defy our 
 ## Calculus
 
 Every time, we process it through a type of [calculus](mind-decisions-calculus.md), even if it happens within milliseconds.
+
+APPLICATION: We have control over this calculus, and it means [there is a proper method for making wise decisions](mind-decisions-how.md).

@@ -19,7 +19,7 @@ Affection
 
 - We send and receive [affection](mind-feelings.md), often as expressions of [love](people-love.md).
 - We use endearing terms like nicknames and recognize people by their faces.
-- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](people-imagination.md) them to [coexist](people-boundaries-why.md).
+- When we've found someone to share affection with for the rest of our life, we get married, and even societies that treat it like a [business transaction](people-contracts.md) still [expect](mind-imagination.md) them to [coexist](people-boundaries-why.md).
 - We constantly redirect that [attachment](people-love.md) to others towards things that [represent](symbols.md) human-like traits, as well as to strangers.
 
 Amusement
@@ -48,12 +48,12 @@ Conflicts
 
 Companionship
 
-- We all need [friends](people-friends.md), even if they're non-human or merely in our [imagination](people-imagination.md).
+- We all need [friends](people-friends.md), even if they're non-human or merely in our [imagination](mind-imagination.md).
 - Consuming [stories](stories-why.md) or [religious](religion-answers.md) devotion frequently serves as a reliable proxy for friendship.
 
 Conscious/Subconscious
 
-- We're all ridiculously [unaware](awareness.md) of most of our thoughts.
+- We're all ridiculously [unaware](mind-awareness.md) of most of our thoughts.
 - Somewhere in the mix of it, we have a [soul](humanity.md) that makes [decisions](mind-decisions.md).
 
 Decisions
@@ -76,14 +76,14 @@ Dreams
 
 Expectations
 
-- We're *constantly* looking to the future to [predict, expect, and plan](people-imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
+- We're *constantly* looking to the future to [predict, expect, and plan](mind-imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
 - We build [traditions](people-culture.md) with others around consistent [patterns](symbols.md).
-- We make [promises](people-contracts.md) based on our expectations of others and [believe](trust.md) people and the surrounding environment will [behave](results.md) a certain way.
+- We make [promises](people-contracts.md) based on our expectations of others and [believe](mind-trust.md) people and the surrounding environment will [behave](results.md) a certain way.
 - Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
 
 Exploration
 
-- Our [purposes](purpose.md) usually start with a question, since we're constantly curious about things and willing to take [risks](socialrisk.md) enough to [find out](understanding.md).
+- Our [purposes](purpose.md) usually start with a question, since we're constantly curious about things and willing to take [risks](entrepreneur-why.md) enough to [find out](understanding.md).
 - Most of our [purposes](purpose.md) involve [understanding](understanding.md) or [creating](creations.md) something never understood or created before.
 
 Expressions
@@ -96,7 +96,7 @@ Expressions
 
 Faith/Trust
 
-- We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](socialrisk.md) to do things with reality.
+- We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](entrepreneur-why.md) to do things with reality.
 - We use these risks to calculate [purposes](purpose.md) and focus them on [creating](creations.md) things that make [results](results.md).
 
 Feelings
@@ -118,7 +118,7 @@ Food
 
 Gender Roles
 
-- Every society demarcates a binary grouping of [male and female](gender.md) based on biology.
+- Every society demarcates a binary grouping of [male and female](people-gender.md) based on biology.
 - They have gender-based social statuses and their own way of behaving, especially when interacting with each other.
 - The genders engage together with a complicated dynamic of attraction, attractiveness, and modesty.
 - Males and females marry, at least partly out of sexual attraction, with the male often a little older than the female.
@@ -149,7 +149,7 @@ Image
 
 - We maintain an [appearance](people-image-why.md) that's different from [reality](reality.md).
 - We frequently [embellish our image](people-image-distortion.md) by [lying](people-lying.md), accumulating/flaunting possessions, and false modesty.
-- Further, we'll judge others by our [values](values.md), [expectations](people-imagination.md), and [conceit](morality-evil.md).
+- Further, we'll judge others by our [values](values.md), [expectations](mind-imagination.md), and [conceit](morality-evil.md).
 
 Imagination
 
@@ -164,7 +164,7 @@ Logic
 
 Math/Measuring
 
-- We group [values](values.md) into homogeneous things, then start calculating and [predicting](people-imagination.md) with them.
+- We group [values](values.md) into homogeneous things, then start calculating and [predicting](mind-imagination.md) with them.
 - Beyond presuming that time exists with a past, present, and future, we also evenly divide it for our [purposes](purpose.md).
 - We do this for distance, time, weight, movement, and increments.
 
@@ -244,7 +244,7 @@ Social Structures
 - We have a [bias](mind-bias.md) toward our [children](parenting-children.md) and [family](people-family.md).
 - Whenever it fits our [purposes](purpose.md) toward [gaining power](power.md) or [loving others](people-love.md), we'll [work in teams](groups-small.md), live together, give and receive gifts, and [gossip](stories-storytellers.md).
 - While we'll still [identify](people-identity.md) as separate beings, we'll also identify as part of that group.
-- We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
+- We [specialize in roles](jobs-specialization.md) according to our [age](maturity.md), [gender](people-gender.md), [preferences](humanity.md), and [talent](success-1_why.md).
 - We give permanent [statuses](people-image-why.md) to people in that group for their [achievements](results.md), which become [types of power](power-types.md).
 - The group, as a whole, all shares a vague [value](values.md) that separates "in the group" from "outside the group" things and people.
 
@@ -267,7 +267,7 @@ Substance Habituation
 Supernatural
 
 - We group the "[natural](science.md)" against the "[supernatural/subnatural/magic](religion-answers.md)".
-- We tend to establish the [unknown](trust.md) as having more power than the [known](understanding.md).
+- We tend to establish the [unknown](mind-trust.md) as having more power than the [known](understanding.md).
 - Interaction with the non-natural typically includes divination, special rituals, and music.
 - One of the most legitimate reasons we focus on the supernatural is to stop or stall our inevitable [death](legacy.md).
 
@@ -283,13 +283,13 @@ Understanding
 
 - We assemble [ideas](values.md) using our [memory](mind-memory.md) and [perceptions](people-image-why.md) until we believe we [know something](understanding.md).
 - We must practice repetitively to [succeed](success-1_why.md).
-- We use substances and techniques to increase [awareness](awareness.md) or alter consciousness.
+- We use substances and techniques to increase [awareness](mind-awareness.md) or alter consciousness.
 
 Vagueness
 
 - We don't generally like vague or [uncertain](understanding-certainty.md) things, especially if they might make us [unsafe](safety.md).
 - For the sake of [image](people-image-why.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](understanding.md), we often keep things vague inside ourselves.
-- This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](people-imagination.md).
+- This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](mind-imagination.md).
 - To avoid vagueness, we [explain](logic.md) things to ourselves and others.
 
 Values
@@ -304,7 +304,7 @@ Values
   - [Social status](people-image-why.md)
 - Our separations start as binary distinctions, then divide further as we gain [maturity](maturity.md).
 - We form [words](language.md) for every one of these categories as we [understand](understanding.md) them.
-- We tend to [imagine](people-imagination.md) everyone else thinks the way we do.
+- We tend to [imagine](mind-imagination.md) everyone else thinks the way we do.
 
 Violence
 

@@ -21,7 +21,7 @@ Usually, everyone appoints someone as a leader by merit of a few possible routes
 4. The member that most [desires](purpose.md) [power](power.md) over everyone else.
 5. Whoever has the most time to devote to the group or a task.
 
-While a group holds together by shared values, we can often forget that individual [priorities](purpose.md) change. Thus, while we can use groups to precisely distinguish things as they are or were, [predictions](people-imagination.md) are never very accurate.
+While a group holds together by shared values, we can often forget that individual [priorities](purpose.md) change. Thus, while we can use groups to precisely distinguish things as they are or were, [predictions](mind-imagination.md) are never very accurate.
 
 ## Magnified purpose
 
@@ -39,7 +39,7 @@ When a shared [purpose](purpose.md) is strong enough, people can get along bette
 
 [Leadership](mgmt-1_why.md) is nothing more than [making decisions](mind-decisions.md) that affect a group.
 
-People tend to give power to leaders proportional to how much they [trust](trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
+People tend to give power to leaders proportional to how much they [trust](mind-trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](mind-trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
 
 The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](people-personality.md).
 
@@ -63,7 +63,7 @@ APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision
 
 One of a leader's most critical decisions involves how the group's [image](people-image-why.md) appears to those outside of the group. Generally, the image must appear immaculate (or at least good enough) to gain approval enough for the group to grow. That image is typically a response to how the most extreme members of a group interact with outsiders.
 
-When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](people-trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](classes.md).
+When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](mind-trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](people-trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](classes.md).
 
 In most groups, the various [forms of power](power-types.md) grant different types of leadership to various members. There's a significant difference between a [natural specialty](jobs-specialization.md) and [personality](people-personality.md) that creates different types of [value](values-quality.md), versus conveying that value to others, and at least a few archetypes typically arise through different members:
 
@@ -89,7 +89,7 @@ Good leaders will push members toward other members' [purposes](purpose.md), at 
 
 Bad leaders create [conflicts](people-conflicts-why.md). Conflicts are inevitably one-on-one, and a leader's decisions will typically favor some people. But, favor to one side will naturally discredit the opposing side. There are many variables to consider, so the only way a leader can know which person to promote comes strictly from [experience](maturity.md) combined with [wisdom](understanding.md).
 
-Good leaders *also* create [conflicts](people-conflicts-why.md). Usually, they're antagonizing existing conflicts members may have wanted to avoid, and they do it because they [understand](understanding.md) that avoiding conflicts erodes members' [trust](trust.md) in one another. But, they [can successfully navigate to a "third option"](people-conflicts.md) by recalling other personal conflicts in the past.
+Good leaders *also* create [conflicts](people-conflicts-why.md). Usually, they're antagonizing existing conflicts members may have wanted to avoid, and they do it because they [understand](understanding.md) that avoiding conflicts erodes members' [trust](mind-trust.md) in one another. But, they [can successfully navigate to a "third option"](people-conflicts.md) by recalling other personal conflicts in the past.
 
 APPLICATION: Once [trust](understanding-certainty.md) in the leaders is gone, the group disbands or rebuilds itself because someone else will lead in an entirely different way.
 

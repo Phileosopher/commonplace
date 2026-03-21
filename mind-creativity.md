@@ -7,7 +7,7 @@ Creativity is the ability to create, and it usually implies imagination or origi
 
 Creativity isn't simply useful: *all* the consistent aspects of [success](success-1_why.md) require creativity.
 
-People often venerate creativity and imagine it requires talent, but [anyone can be creative](mind-creativity-how.md). And, if someone *can* create but they don't, they prevent the rest of us from having an increased [awareness](awareness.md) of the world.
+People often venerate creativity and imagine it requires talent, but [anyone can be creative](mind-creativity-how.md). And, if someone *can* create but they don't, they prevent the rest of us from having an increased [awareness](mind-awareness.md) of the world.
 
 ## The essence of creativity
 
@@ -54,7 +54,7 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 - Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
 - In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](people-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](socialrisk.md).
+We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
@@ -75,8 +75,8 @@ Often, in this world, people create to gain [power](power.md) (often for money),
 
 To create something, we need two beliefs:
 
-1. [WILLING](purpose.md) to do it, which is where we can [imagine](people-imagination.md) and [feel](mind-feelings.md) the value the creation can create.
-2. [ABLE](results.md) to do it, which is whether we can [imagine](people-imagination.md) ourselves [succeeding](success-1_why.md) at the task.
+1. [WILLING](purpose.md) to do it, which is where we can [imagine](mind-imagination.md) and [feel](mind-feelings.md) the value the creation can create.
+2. [ABLE](results.md) to do it, which is whether we can [imagine](mind-imagination.md) ourselves [succeeding](success-1_why.md) at the task.
 
 Most of the time, the only thing that impedes us is our willingness. If someone is sufficiently motivated and able to sufficiently imagine what they want to see, they can usually get *very* near to what they were trying to accomplish.
 
@@ -194,7 +194,7 @@ Most of that work is unpleasant, so we try to find ways around it. We'll typical
 
 APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](people-personality.md).
 
-The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](people-imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](people-trends.md) to distance themselves from their initial success.
+The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](mind-imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](people-trends.md) to distance themselves from their initial success.
 
 APPLICATION: Since artists and creators obsess about [perfect beauty](values-quality.md), their [culture](people-culture.md) is often [obsessed](addiction.md) about gaining an unattainable perfection, to the point of self-torture.
 

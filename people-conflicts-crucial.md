@@ -36,7 +36,7 @@ Don't treat a non-crucial conflict like it's crucial:
 Consider how much power each person wields:
 
 - There are as many [types of power](power-types.md) as [purposes](purpose.md) that someone can accomplish.
-- A stunning majority of people are mostly [unaware](awareness.md) of the power they hold.
+- A stunning majority of people are mostly [unaware](mind-awareness.md) of the power they hold.
 
 With official authorities, temper your behavior:
 

@@ -33,7 +33,7 @@ Reacting to impulses or survival instincts always produces conventional results:
 Stay constantly curious and perpetually interested in everything:
 
 - The only way to stay curious is to ignore any [fear](mind-feelings-fear.md) you might have.
-- You must be able to [imagine](people-imagination.md) every possibility available to you, which requires going where people are usually uncomfortable.
+- You must be able to [imagine](mind-imagination.md) every possibility available to you, which requires going where people are usually uncomfortable.
 - Question every idea, both your own and others'.
 - You'll only discover things when you make mistakes.
 
@@ -78,7 +78,7 @@ Instead of focusing on producing a product or [creating art](art.md), focus inst
 
 Across every stage of creation, nobody else will see your vision:
 
-- Each stage is an intermediate phase, and the creation only exists fully within your [imagination](people-imagination.md).
+- Each stage is an intermediate phase, and the creation only exists fully within your [imagination](mind-imagination.md).
 - Even after your work is *complete*, most people can't see the full extent of what you've done.
 - Most people will end up only experiencing a small portion of the fullness of your creation, but that's still enough to profoundly [influence them](power-influence.md).
 
@@ -224,7 +224,7 @@ Use [analysis](logic.md) to find more viewpoints:
   2. Describe the factors that feed into that problem.
   3. Describe the factors that feed into each of those factors.
   4. Repeat until you have every little part of the problem entirely clarified.
-- Consider the [values](values.md), [assumptions](trust.md), and [beliefs](understanding-certainty.md) that shape the system.
+- Consider the [values](values.md), [assumptions](mind-trust.md), and [beliefs](understanding-certainty.md) that shape the system.
 - The Five "Whys" - ask "why" at least five times to get to the first cause of everything.
 - Use the Iceberg Model:
   - Look at all the relevant events in the past, present, and future.
@@ -288,7 +288,7 @@ Make healthy routines:
 - [Finish projects](success-5_persevering.md).
 - Follow relevant [trends](people-trends.md).
 - [Make lists](success-3_goals.md).
-- [Meditate or self-reflect](awareness.md).
+- [Meditate or self-reflect](mind-awareness.md).
 - Practice silence.
 - [Take a nap](sleep.md).
 - Write things down in a diary.
@@ -382,7 +382,7 @@ When you like your idea, research whether it's possible:
 
 Avoid perfectionism and obsession:
 
-- [Imagination](people-imagination.md) is fiercely powerful and doesn't require other people's approval, but it's inherently messy.
+- [Imagination](mind-imagination.md) is fiercely powerful and doesn't require other people's approval, but it's inherently messy.
 - If you're a perfectionist, shift your obsession to reality instead of perfection.
 - If the idea is sound enough, you can often rebuild smaller details of it later in the process.
 - Making many things is better than making 1 thing:
@@ -500,7 +500,7 @@ There's a type of calming effect from having a non-creative job that pays the bi
 At the same time, getting paid allows you to make a living through creative activities:
 
 - [Financial independence](money-1_why.md) allows you to feel less constrained.
-- The entire experience of actually *[succeeding](success-1_why.md)* in a creative endeavor, though, is a matter of developing [entrepreneurship skills](entrepreneur-1_why.md), especially [the art of selling](marketing.md).
+- The entire experience of actually *[succeeding](success-1_why.md)* in a creative endeavor, though, is a matter of developing [entrepreneurship skills](entrepreneur-1_what.md), especially [the art of selling](marketing.md).
 
 ## Don't sit on good ideas
 

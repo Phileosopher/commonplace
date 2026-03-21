@@ -99,5 +99,5 @@ Prophecies
 
 In many cases, the people who make false claims to spirituality are either [Cluster B personality](mind-neurodivergence-clusterb.md) with severe delusions, or have been influenced directly by a demon.
 
-- Either way, even *hinting* at their false teaching will bring [abuse](people-abuse.md) on yourself.
+- Either way, even *hinting* at their false teaching will bring [abuse](hardship-abuse.md) on yourself.
 - In other words, only call out the false spiritual activity when you are absolutely ready to lose something associated with your connection to those individuals and groups.

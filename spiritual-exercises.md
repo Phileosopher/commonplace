@@ -32,7 +32,7 @@ Spiritual exercises are essentially the works-based portion of faith ([James 2:1
 
 ## Awareness
 
-Find [awareness](awareness.md) of yourself:
+Find [awareness](mind-awareness.md) of yourself:
 
 - The experience is essentially meditation, but can be whatever allows you to hear Him.
 - That awareness must be in relationship to God.
@@ -44,7 +44,7 @@ Find [awareness](awareness.md) of yourself:
 Grab [any particular sin](theology-sins.md) you still might struggle with:
 
 1. At the beginning of the day, only focus on identifying when your sin happens.
-   - Don't worry immediately about changing it, since it's a challenge to simply become [aware](awareness.md) of sins.
+   - Don't worry immediately about changing it, since it's a challenge to simply become [aware](mind-awareness.md) of sins.
 2. Throughout the day, write down the time the sin arose in your mind.
 3. At the end of the day, [analyze](logic.md) what triggered those sins and consider how to [reprogram your habits](https://adequate.life/habits/) (e.g., sidestep the triggers altogether).
 4. Repeat for the next day, as long as you keep struggling with that sin.
@@ -114,7 +114,7 @@ Find and remove your most massive [time-waster](success-4_routine.md).
 
 Focus less on "why" or "what", and instead focus on "how".
 
-Go throughout a supermarket, enjoying the [experience](people-imagination.md) of each food, and only buy things in the store you had set out to purchase.
+Go throughout a supermarket, enjoying the [experience](mind-imagination.md) of each food, and only buy things in the store you had set out to purchase.
 
 Throughout your routine, consider lifestyles and decisions from people in the Bible (especially Jesus) and how it reflects to today's conventional way of life.
 
@@ -195,7 +195,7 @@ If you're enduring any [hardship](hardship.md), make a habit of trusting in God.
 As you feel led, scale back creature comforts.
 
 - Refrain from spending money on comfortable things, or give your extra money to people who need it more than you.
-- Focus on [the present moment](awareness.md), and that the moment you're in is all you truly require.
+- Focus on [the present moment](mind-awareness.md), and that the moment you're in is all you truly require.
 - Learn to manage what you have better by [budgeting your money](money-3_budget.md) and [fixing what you have](https://adequate.life/fix/).
 
 ## Bible study

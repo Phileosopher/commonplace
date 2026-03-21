@@ -29,7 +29,7 @@ You're a consultant, not a commodity:
 - Don't expect to get the job, but expect to do your best to try for it.
 - They're *trying* to spend money (possibly on you) to make a problem of theirs go away.
   - Tell them why they want to hire you, not why you need the job.
-  - You must understand [what they want](people-3_respect.md), not just [what *you* want](awareness.md).
+  - You must understand [what they want](people-3_respect.md), not just [what *you* want](mind-awareness.md).
   - If they want to see the next chapter of your career story, they'll want to hire you or, at least, network with you for future interactions.
 
 You can't prove yourself with aptitude alone because an interview tracks the *image* of your aptitude (i.e., your ability to handle [stress](mind-feelings-happiness-stress.md) and [anxiety](mind-feelings-fear.md) under pressure).
@@ -210,7 +210,7 @@ B. Morning Routine:
   - Lightly scented cologne/perfume
 - Since asking for a pen appears very unprofessional, keep a pen in your pocket.
 - Get support from [God](spiritual-exercises-prayer.md) and [your social network](people-friends.md).
-- [Focus](awareness.md) on yourself and what you want:
+- [Focus](mind-awareness.md) on yourself and what you want:
   - What you want out of your work.
   - What you can contribute to your potential workplace.
   - Consider how you behave when you're nervous.

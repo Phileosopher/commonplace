@@ -36,7 +36,7 @@ Bad systems can only subsist and grow on [goods and services](results.md) treate
 
 APPLICATION: Don't publicly shame a large system with hearsay or lies. Stay as close to [the truth](reality.md) as you possibly can (and make sure you know other people to advance [the cause](values.md) if they shut you down) or they'll repudiate you faster than you can respond.
 
-Typically, the leader of a [large group](groups-large.md) is *not* aware they're inspiring a gigantic force of individuals that [portray](people-image-why.md) that leadership as an antagonist. Often, they have a sincere and misguided [belief](trust.md) that they're establishing a new level of [order](unknown.md), but either fail to incorporate [how humanity works](humanity-universals.md) (especially their [range of personalities](people-personality.md)) or [overstep their boundaries](people-boundaries-why.md). They'll often perform their tasks in secret, and it will often [backfire](stories-storytellers.md) later.
+Typically, the leader of a [large group](groups-large.md) is *not* aware they're inspiring a gigantic force of individuals that [portray](people-image-why.md) that leadership as an antagonist. Often, they have a sincere and misguided [belief](mind-trust.md) that they're establishing a new level of [order](unknown.md), but either fail to incorporate [how humanity works](humanity-universals.md) (especially their [range of personalities](people-personality.md)) or [overstep their boundaries](people-boundaries-why.md). They'll often perform their tasks in secret, and it will often [backfire](stories-storytellers.md) later.
 
 ## Merging
 
@@ -68,7 +68,7 @@ Government bureaus work similarly to business units in merging, but without the 
 
 At some point, without a [large conflict](people-conflicts-war-why.md) to keep a bad system beholden to [results](results.md), it becomes unstoppable by any competitors. Their sheer size in an [industry](jobs-specialization.md) will make them impossible to defeat through any conventional means. In other words, success for a [large group](groups-large.md) eventually becomes monopolization, at least toward a [niche](jobs-specialization.md).
 
-It's worth noting that monopolies are *relatively* successful. It means there was a void that someone was waiting to [seize](socialrisk.md), and especially when there's a commodity which nobody cares where it came from (a product of [technological innovation](technology.md)).
+It's worth noting that monopolies are *relatively* successful. It means there was a void that someone was waiting to [seize](entrepreneur-why.md), and especially when there's a commodity which nobody cares where it came from (a product of [technological innovation](technology.md)).
 
 APPLICATION: Monopolies are inevitable as long as people desire [power](power.md). Antitrust [laws](people-rules.md) only work when they're too simple to abuse and enforced by governments, which is *another* potentially bad system that checks the first bad system. Typically, [technology's](technology.md) complexity makes regulating vertical control absolutely impossible. And, because of [how we understand reality](mind-bias.md), we can't easily regulate ideas (e.g., [misinformation](stories-storytellers.md), "fake news").
 
@@ -99,7 +99,7 @@ While a monopoly may not be corrupt in its inception, the most apparent indicato
 
 APPLICATION: Research *every* company you buy things from. You'll often find that the company is simply [one of the many faces](politics-monopolies.md) of a gigantic bad system.
 
-To stifle new [trends](people-trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](socialrisk.md) to build a [competitive](money-economics.md) alternative that gives the public more [choices](mind-decisions.md) ("anti-competitive practices"):
+To stifle new [trends](people-trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](entrepreneur-why.md) to build a [competitive](money-economics.md) alternative that gives the public more [choices](mind-decisions.md) ("anti-competitive practices"):
 
 - Lowering prices beyond the lowest-possible cost of the item (i.e., taking a severe financial loss) to make it completely impossible for smaller [competitors](money-economics.md) to have a reasonably comparable price.
 - Giving an "open forum" for discussion, but preventing dissenters from saying what they want.

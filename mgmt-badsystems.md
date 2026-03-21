@@ -9,12 +9,12 @@ By "bad", something has been [purposed](purpose.md) or repurposed to the point t
 
 APPLICATION: The distinction between [evil](morality-evil.md) and incompetent leaders comes through intent. We can't see intent directly, but we *can* see who suffers in the system. Generally, very specific people suffering unfairly comes from evil, while everyone suffering is generally from incompetence.
 
-Tragically, the worst bad systems were once serving a highly necessary (and often [virtuous](morality.md)) [purpose](purpose.md). Many times, they'll outlive their original [goals](purpose.md) (e.g., "[awareness](awareness.md)" of a disease or fighting an [injustice](morality-justice.md)) and will incessantly recycle a [trend](people-trends.md) into obsolescence.
+Tragically, the worst bad systems were once serving a highly necessary (and often [virtuous](morality.md)) [purpose](purpose.md). Many times, they'll outlive their original [goals](purpose.md) (e.g., "[awareness](mind-awareness.md)" of a disease or fighting an [injustice](morality-justice.md)) and will incessantly recycle a [trend](people-trends.md) into obsolescence.
 
 A bad system has clear indicators:
 
 - Individuals who want to advance self-interested [purposes](purpose.md) must frequently [do](results.md) very specific, unusual things they wouldn't have done otherwise.
-- The most [creative](mind-creativity.md) or [productive](results.md) members [loyal](trust.md) to the group can't work as hard as they want or create better solutions.
+- The most [creative](mind-creativity.md) or [productive](results.md) members [loyal](mind-trust.md) to the group can't work as hard as they want or create better solutions.
 - Any [safety](safety.md) measures either don't work or aren't honored.
 - [Measurements](math.md) to judge merit in the system are easy to cheat at, and most members do.
 - Leaders have no motivation to value merit, so they promote people who fit their [preferences](humanity.md). Over time, all the leadership will look eerily similar because they've all been [close friends](people-friends-why.md) for a long time.

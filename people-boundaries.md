@@ -141,6 +141,15 @@ C. Replace the unhealthy thoughts with better ones:
 
 - Find more reasonable thoughts, affirmations, and beliefs that encourage [habits](habits.md) that respect yourself and others more.
 
+When dealing with [high-conflict people](people-conflicts-bad.md), focus more on internal than external boundaries.
+
+- External boundaries indicate what you expect and need from others.
+- Internal boundaries are [decisions](mind-decisions-how.md) you will make if they violate one of your standards.
+- As an example, if someone is screaming at you:
+  - External: "Please do not scream at me. It makes me feel unsafe and uncomfortable."
+  - Internal: "I will leave this conversation if you keep screaming at me."
+- In effect, you have zero control over other people, *especially* when they are [abusive](hardship-abuse.md).
+
 We cycle roughly through stages as we learn good boundaries:
 
 1. Resentment, frustration, or anger at the various recurring violations as we discover them.

@@ -39,6 +39,7 @@ Female-specific cues:
   - Exposes neck and wrist skin more.
   - Tosses hair, intimate gazing.
 - Brings up a movie she wants to watch or place she wants to go.
+- In a public place, spends at least 5 minutes talking with a guy she's interested in without making a signal to find someone else.
 
 ## Hunt everywhere
 
@@ -89,7 +90,7 @@ After a few dates, you should have a prioritized list of everything you want in 
 
 - While feelings will waver, guidelines don't.
 - Write out your list, and keep consulting it to keep yourself accountable.
-- As you date, it's not uncommon for your standards to change when you gain increased [awareness](awareness.md) of who you are and what you want.
+- As you date, it's not uncommon for your standards to change when you gain increased [awareness](mind-awareness.md) of who you are and what you want.
 
 If you let past experiences unrelated to them affect your judgment, you're being irrational and unfair to them.
 

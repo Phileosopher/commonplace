@@ -31,7 +31,7 @@ Like any other [substance](addiction-substances.md), dysregulation has addictive
 
 While there are many ways to implement it, can only attain self-regulation through a specific procedure:
 
-1. Become [aware](awareness.md) of the mechanisms that drive what and how we think.
+1. Become [aware](mind-awareness.md) of the mechanisms that drive what and how we think.
 2. [Closely assess](logic.md) how and where [everything sits in relationship to ourselves](https://gainedin.site/layers/).
 3. Find out why we are [certain](certainty.md) of some things, what we have actual control over, and everything we are [capable of doing](purpose.md).
 4. Apply [virtue](morality.md) appropriately for the situation to know what we ought to do, and when.

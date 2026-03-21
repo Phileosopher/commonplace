@@ -19,11 +19,11 @@ While there are many things that can be "conserved", there are some things that 
 8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children)).
 9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
 
-When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](people-imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](people-trends.md), since they have [hope](trust.md) in what they haven't seen.
+When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](mind-imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](people-trends.md), since they have [hope](mind-trust.md) in what they haven't seen.
 
 As people [age](maturity.md), they tend to discover that there's nothing really "[new](people-image-why.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](people-trends.md), they have more to lose and tend to vote more conservatively.
 
-APPLICATION: Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](socialrisk.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](people-trends.md) that affect their children.
+APPLICATION: Younger people are typically easier to [convince](influence.md) than older people. Thus, [storytellers](stories-storytellers.md) who discuss real-life events have plenty of social incentives to gravitate toward liberal reasoning. It's generally a higher [social risk](entrepreneur-why.md) to appeal to conservative thoughts because older people are more resistant to change, and [having children](people-family.md) removes any gray area for parents about political [fashions](people-trends.md) that affect their children.
 
 Conservatives tend to vote for civilization and liberals for equality, but this isn't precisely true:
 
@@ -32,7 +32,7 @@ Conservatives tend to vote for civilization and liberals for equality, but this 
 
 APPLICATION: By nature, conservatives will be somewhat antagonistic against overly used [technology](technology.md), and liberals against overly applied [virtue](morality.md).
 
-While liberalism can embrace anything [trendy](people-trends.md), conservatives can also embrace anything [trendy](people-trends.md) from the past. They're both adopting those trends through what they [imagine](people-imagination.md):
+While liberalism can embrace anything [trendy](people-trends.md), conservatives can also embrace anything [trendy](people-trends.md) from the past. They're both adopting those trends through what they [imagine](mind-imagination.md):
 
 - Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](people-trends.md) [cultures](people-culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
 - Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
@@ -60,7 +60,7 @@ APPLICATION: To live [the good life](people-goodlife.md), we must only consider 
 
 When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war-why.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](politics-leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
 
-APPLICATION: The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](people-image-why.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
+APPLICATION: The image of politically extreme [zealots](mind-trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](people-image-why.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
 APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](mind-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](mind-decisions.md).
 
@@ -103,9 +103,9 @@ The unconstrained value system means progressives believe natural law is relativ
 
 - Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](mind-decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
 - Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](people-rules.md) should flow from individual [perceptions](people-image-why.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
-- [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
+- [Reality](reality.md) is too [uncertain](mind-trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](politics-leftism.md).
 
-APPLICATION: [Gender](gender.md) roles can easily fit into both conservative and liberal molds.
+APPLICATION: [Gender](people-gender.md) roles can easily fit into both conservative and liberal molds.
 
 - On the conservative side, females prefer its [safety](safety.md) and males prefer its conquest of the [unknown](unknown.md) via historical precedent.
 - For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts-why.md) and males can conquer the unknown through novelty.
@@ -121,7 +121,7 @@ APPLICATION: If everyone were given complete freedom, but also complete responsi
 
 This becomes even *more* complicated because many political parties can adapt and change as a group. "Conservative" groups may adopt [new trends](people-trends.md), and "liberal" groups may try to maintain their political establishment.
 
-It also doesn't matter in another sense, since it's all built around [trust](trust.md) In a way, everyone is a unique flavor of political values:
+It also doesn't matter in another sense, since it's all built around [trust](mind-trust.md) In a way, everyone is a unique flavor of political values:
 
 - At the largest-scale level, they're often libertarian unless they're a globalist. Most people don't want other nations' activities influencing their personal lives.
 - At the state level, they're often conservative or liberal, context-depending.

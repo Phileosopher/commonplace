@@ -8,7 +8,7 @@ In fact, *most* human conflicts are internal. Every [decision](mind-decisions.md
 - We [feel](mind-feelings.md) something doesn't match our intuition.
 - We hear of an experience or idea that's different than we [understand](understanding.md).
 - We experience something [unfamiliar](habits.md).
-- We [forecast](people-imagination.md) anything in the future.
+- We [forecast](mind-imagination.md) anything in the future.
 
 If you could examine every conscious and subconscious thought of any person, they're more *in* a conflict than not. The only time people are legitimately *not* in conflict with anything is when they are fully satisfied and completely at rest, but not [asleep](sleep.md).
 
@@ -16,9 +16,9 @@ We're defined *much* more by our inner conflicts than anything in our [environme
 
 ## Unawareness of the conflicts
 
-Because of how we're built, we often see the world around us much more than inside our minds. For that reason, we tend to miss faults in ourselves while seeing most faults in others, and require both [self-awareness](awareness.md) and [good friends](people-friends-why.md) to point out those issues.
+Because of how we're built, we often see the world around us much more than inside our minds. For that reason, we tend to miss faults in ourselves while seeing most faults in others, and require both [self-awareness](mind-awareness.md) and [good friends](people-friends-why.md) to point out those issues.
 
-APPLICATION: If we have *any* unease with a statement, we must [understand](understanding.md) why. We might find offense from someone legitimately crossing our [boundaries](people-rules.md), but our [imagination](people-imagination.md) may be unrestrained about things that aren't [reality](reality.md).
+APPLICATION: If we have *any* unease with a statement, we must [understand](understanding.md) why. We might find offense from someone legitimately crossing our [boundaries](people-rules.md), but our [imagination](mind-imagination.md) may be unrestrained about things that aren't [reality](reality.md).
 
 We can internalize [multiple perspectives](people-image-why.md) at once, which we are also capable of [believing](understanding-certainty.md) at the same time (cognitive dissonance). Everyone experiences at least some cognitive dissonance in the routine course of their life because we frequently [change](people-changes.md) our [understanding](understanding.md) as we [learn](education.md), but will maintain [habitual](habits.md) past [beliefs](understanding-certainty.md) when we don't make a priority of revisiting them.
 
@@ -45,9 +45,9 @@ These conflicts represent in [literature](stories-why.md), and embody 9 relative
 
 Not all inner conflict is endless misery. More inner conflict gives us a more powerful reward when we settle ourselves on a [decision](mind-decisions.md), especially if it yields [good consequences](results.md).
 
-Not all conflict is unpleasant, and we tend to [have fun](purpose.md) and [identify](people-identity.md) ourselves against our environment. We find tremendous [meaning](meaning.md) through how we combine what we [imagine](people-imagination.md) and [reality](reality.md).
+Not all conflict is unpleasant, and we tend to [have fun](purpose.md) and [identify](people-identity.md) ourselves against our environment. We find tremendous [meaning](meaning.md) through how we combine what we [imagine](mind-imagination.md) and [reality](reality.md).
 
-However, we have a tendency to make inner conflicts over [expected](people-imagination.md) pain far more than expected pleasure.
+However, we have a tendency to make inner conflicts over [expected](mind-imagination.md) pain far more than expected pleasure.
 
 ## The good in conflict
 

@@ -20,7 +20,7 @@ Anarchism - Remove rulers/governors.
 - Anarcho-primitivism - The shifts from [technology](technology.md) created a [hierarchy](mgmt-badsystems.md), so we must remove [specialization](jobs-specialization.md) and technology to create fairness.
 - Anarcho-syndicalism - Replace capitalism, wages, private property, and the state with labor unions for everything.
 
-Complementarianism - [Females and males](gender.md) are far too different to compete fairly. Contrasts with feminism.
+Complementarianism - [Females and males](people-gender.md) are far too different to compete fairly. Contrasts with feminism.
 
 Environmentalism - [High-technology](technology.md) humanity destroys nature, so low-technology living is the solution.
 

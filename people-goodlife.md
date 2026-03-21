@@ -9,7 +9,7 @@ In a broad sense, "the good life" comes when we experience consistent [meaning](
 
 APPLICATION: A well-lived life is more significant than being well-received by others or possessing many things. In fact, it's also lower-maintenance: both [reputation](people-image-why.md) and possessions require much more work to maintain than a wealth of experiences.
 
-The good life is a model we [build in our minds](people-imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](people-image-why.md), and are the strongest source of [wisdom](understanding.md) we can ever possess in this life.
+The good life is a model we [build in our minds](mind-imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](people-image-why.md), and are the strongest source of [wisdom](understanding.md) we can ever possess in this life.
 
 The good things that encompass the good life are the basis for all our [morality](morality.md).
 
@@ -75,12 +75,12 @@ The entire idea of "moderation in all things" is a bit oversimplified since we m
 
 We need a bit more than merely "moderation":
 
-1. Routinely, we should stop mid-action and consider our purposes for our [routines and habits](habits.md). Otherwise, we'll be stuck doing things that don't conform to our [purposes](purpose.md). [Philosophers](philosophy.md) *constantly* ask seemingly inane questions to this end, but anyone can do it by just [slowing down](awareness.md).
-2. We must be free of [past trauma](hardship-ptsd.md) guiding our [purposes](purpose.md). The past only exists in our minds, so external forces won't affect how we [feel](mind-feelings.md) about the past *nearly* as much as [dysregulation](awareness-dysregulation.md) and a lack of [introspection](awareness.md).
-3. We must stay optimistic about the [future](people-imagination.md), or we'll submit to our [fears](mind-feelings-fear.md). But, [reality](reality.md) is often terrifying. The easiest way to do this is by finding [gratitude](mind-feelings-happiness-stress.md) over all things through observation, including life itself, but can also come through lowering [expectations](people-imagination.md). Most people require [religious habits](religion.md) to attain that optimism.
+1. Routinely, we should stop mid-action and consider our purposes for our [routines and habits](habits.md). Otherwise, we'll be stuck doing things that don't conform to our [purposes](purpose.md). [Philosophers](philosophy.md) *constantly* ask seemingly inane questions to this end, but anyone can do it by just [slowing down](mind-awareness.md).
+2. We must be free of [past trauma](hardship-ptsd.md) guiding our [purposes](purpose.md). The past only exists in our minds, so external forces won't affect how we [feel](mind-feelings.md) about the past *nearly* as much as [dysregulation](mind-awareness-dysregulation.md) and a lack of [introspection](mind-awareness.md).
+3. We must stay optimistic about the [future](mind-imagination.md), or we'll submit to our [fears](mind-feelings-fear.md). But, [reality](reality.md) is often terrifying. The easiest way to do this is by finding [gratitude](mind-feelings-happiness-stress.md) over all things through observation, including life itself, but can also come through lowering [expectations](mind-imagination.md). Most people require [religious habits](religion.md) to attain that optimism.
 4. Finally, we must avoid pettiness whenever we can. We're all born petty because our limited experience makes us feel everything as a severe encounter.
 
-APPLICATION: There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](trust.md) or [certain](understanding-certainty.md) about.
+APPLICATION: There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](mind-trust.md) or [certain](understanding-certainty.md) about.
 
 [Most people shouldn't be philosophers](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](people-trends.md) to the next. Otherwise, we'll subject ourselves to [needless conflicts](people-conflicts-why.md) and [distorting](people-image-distortion.md) how we [understand](understanding.md) [reality](reality.md).
 

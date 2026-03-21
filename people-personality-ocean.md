@@ -21,11 +21,11 @@ The dimensions are easy to remember as an acronym, and it takes about 100 [well-
 
 We are constantly forced to explore the [unknown](unknown.md) or intensify the [familiar](habits.md).
 
-On the high end, we take enormous [social risks](socialrisk.md) and pioneer [trends](people-trends.md), mostly from the pursuit and love of [ideas](values.md). It provides the advantage of discovering new things, but at the risk of sabotaging healthy, long-standing [institutions](people-rules.md) of society. Most [intelligent](understanding.md) and [creative](mind-creativity.md) people tend to be high openness to experience, though not always.
+On the high end, we take enormous [social risks](entrepreneur-why.md) and pioneer [trends](people-trends.md), mostly from the pursuit and love of [ideas](values.md). It provides the advantage of discovering new things, but at the risk of sabotaging healthy, long-standing [institutions](people-rules.md) of society. Most [intelligent](understanding.md) and [creative](mind-creativity.md) people tend to be high openness to experience, though not always.
 
-On the low end, we establish [cultural traditions](people-culture.md) and [maintain order](understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](socialrisk.md).
+On the low end, we establish [cultural traditions](people-culture.md) and [maintain order](understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](entrepreneur-why.md).
 
-One tiny statistical correlation shows that people born in warmer climates tend to be a little more willing to [take risks](socialrisk.md).
+One tiny statistical correlation shows that people born in warmer climates tend to be a little more willing to [take risks](entrepreneur-why.md).
 
 ### Openness
 
@@ -61,7 +61,7 @@ APPLICATION: Intelligent people who use computers are *insanely* quick compared 
 
 ## Conscientiousness
 
-We're constantly challenged to strive toward [what we ought](people-imagination.md) or honor our [present desires](mind-feelings.md). The disposition is defined by how much we create and abide by internal [rules](people-rules.md), and can also be defined as "grit".
+We're constantly challenged to strive toward [what we ought](mind-imagination.md) or honor our [present desires](mind-feelings.md). The disposition is defined by how much we create and abide by internal [rules](people-rules.md), and can also be defined as "grit".
 
 On the high end, we [live virtuously](morality.md) by self-defined [rules](people-rules.md) and take those rules so seriously that we'll [lead](groups-small.md) ourselves and everyone else as a [moral](morality.md) imperative. It comes with the risks, however, of perfectionism (e.g., anorexia, obsessive-compulsive disorder).
 
@@ -102,7 +102,7 @@ Extroverts have a tendency to live impulsively in the present. While they end up
 
 On the low end, we prefer to be alone. It provides the advantage of working on [long-term projects](creations.md) and keeping our [rules](people-rules.md) unimpeded, but low skills at [influencing others](influence.md) mean others won't see the [results](results.md) of our efforts without someone else [advertising it](people-trends.md).
 
-Introverts can often adapt to extroverted situations by more diligently [focusing](awareness.md) on what drains them and asserting themselves more often to *not* socially engage.
+Introverts can often adapt to extroverted situations by more diligently [focusing](mind-awareness.md) on what drains them and asserting themselves more often to *not* socially engage.
 
 The amount people interrupt is a product of extraversion's two sub-dimensions. An introvert finds interruptions to be disrespectful (because they're not letting the speaker finish), while an extrovert finds *not* interrupting a sign of disrespect (because they're wasting the speaker's time).
 
@@ -188,7 +188,7 @@ Events deliver a specific, measurable amount of emotional severity from how stro
 
 Each personality is useful, in its place:
 
-- Openness to experience - [Pioneer](socialrisk.md) vs. [Historian](stories-storytellers.md)
+- Openness to experience - [Pioneer](entrepreneur-why.md) vs. [Historian](stories-storytellers.md)
 - Conscientiousness - [Rule-Maker](people-rules.md) vs. [Creative](mind-creativity.md)
 - Extraversion - [Partying](fun-parties.md) vs. Books
 - Agreeableness - [Negotiator](people-conflicts-negotiation.md) vs. [Interrogator](people-lying.md)
@@ -196,7 +196,7 @@ Each personality is useful, in its place:
 
 Generally, we can fix most of our personality defects with *other* personality characteristics to bridge the gap:
 
-- Low openness to experience when managing high [social risk](socialrisk.md):
+- Low openness to experience when managing high [social risk](entrepreneur-why.md):
   - Conscientiousness can abide by known-working [standards](habits.md).
   - Extraversion can find how other people solve the problem.
   - Agreeableness can find a healthy [compromise](people-conflicts-why.md) for the problem.
@@ -208,7 +208,7 @@ Generally, we can fix most of our personality defects with *other* personality c
 - Low conscientiousness when required to perform [tasks](results.md):
   - Openness to experience can find new permutations of an otherwise boring task.
   - Extraversion can find other people to help out in exchange for favors.
-  - Agreeableness can [imagine](people-imagination.md) adverse social consequences for not performing the task.
+  - Agreeableness can [imagine](mind-imagination.md) adverse social consequences for not performing the task.
 - High conscientiousness when associating with messy people:
   - Openness to experience can find other people to associate with.
   - Extraversion can find [meaning](meaning.md) in the [friendship](people-friends.mdds.md) through [love](people-love.md) even while experiencing disgust.
@@ -219,7 +219,7 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Agreeableness can learn how to [listen more](people-boundaries.md) and find interesting qualities in others.
   - Neuroticism can learn to open up more transparently about their [feelings](mind-feelings.md) with strangers.
 - High extraversion when required to perform mundane [tasks](results.md):
-  - Openness to experience can find new ways to [imagine](people-imagination.md) and anthropomorphize those tasks.
+  - Openness to experience can find new ways to [imagine](mind-imagination.md) and anthropomorphize those tasks.
   - Conscientiousness can interpret the task as a necessary duty and push through it.
   - Agreeableness can find a way to [negotiate](people-conflicts-negotiation.md) a mutually better arrangement.
 - Low agreeableness when required to get along with others:
@@ -240,4 +240,4 @@ Generally, we can fix most of our personality defects with *other* personality c
 
 Frequently, even if *you* can't do something, others can. This takes tremendous humility, but you're *far* more naturally equipped to resolve certain problems better than others, and the same goes for everyone else.
 
-To make a healthy and diverse group, *all* the personalities must be represented, which is easiest by drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-specialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](socialrisk.md) advantages.
+To make a healthy and diverse group, *all* the personalities must be represented, which is easiest by drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-specialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](entrepreneur-why.md) advantages.

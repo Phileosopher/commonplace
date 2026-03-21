@@ -25,6 +25,7 @@ This viewpoint may be a psychological coping mechanism ("narcissistic behavior")
   - Arrogance through believing others to be worthless, ridiculous, or despicable.
 - While it may express during early childhood, it represents itself when selfishness starts surpassing a desire for others' benefit.
 - There are also derivations of this mechanism in the forms of the sociopathy/psychopathy spectrum.
+  - Sociopaths have zero concern for [human feelings](mind-feelings.md), while psychopaths have no concern for [human life](humanity.md).
 - Any other personality can shift to this by [mixing hardship over time without self-reflection](https://theologos.site/narcissism/).
 
 Narcissism has two major forms and some sub-forms:
@@ -60,7 +61,7 @@ Their inappropriate behavior will create a loop over time:
 
 1. An action performed in anger, which will often be a [sin](morality-justice.md) against someone.
 2. Unconscious, repressed guilt over that action's consequences.
-3. Through not being [self-aware](awareness.md), the unresolved guilt becomes [shame](mind-feelings-shame.md).
+3. Through not being [self-aware](mind-awareness.md), the unresolved guilt becomes [shame](mind-feelings-shame.md).
 4. That guilt arises later from another experience (often from those consequences or someone else triggering them).
 5. Generalized rage, directed toward the trigger of the shame ("narcissistic rage").
 6. Go back to Step 1.
@@ -95,61 +96,7 @@ They are continuously preoccupied with getting others to attend to them, pay att
 - Their core goal is to see you react to them in some way, which gives them validation that they have made a difference in something.
 - Their solution for feeling out of control will be to try exerting [some form of control](power-types.md) over others.
 
-However, there are [many more indicators](mind-neurodivergence-clusterb-narcissist-indicators.md).
-
-## Conflicts with narcissists
-
-A narcissist has a predictable conflict style:
-
-1. Make some form of chaos, often where they can deny involvement.
-2. Wait for someone else to react to the chaos.
-3. Make that person's reaction the focus of the issue.
-4. Do everything they can to turn everyone against that person.
-
-If you do *any* of the following, they will absolutely seek to destroy you at some point in the future (you've basically moved to Stage 8):
-
-- Tell them that they are a narcissist.
-- Call them out on a lie they've made, then tell them you don't care if they try to justify it.
-- Conduct a "reverse discard", which is quietly detaching from them without drama before they detach from you.
-
-Don't bother arguing with them.
-
-- Most people argue to prove a point, but they're simply maintaining their narcissistic supply.
-- Ask them why they are so uncomfortable with having a different perspective.
-- The quickest way to defuse every conflict, however, is to say "I accept that's how you feel".
-
-[Love](people-love.md) covers a multitude of sins, but narcissists don't recognize love in any conventional sense.
-
-- The only "love" they understand is others making disproportionate sacrifices for them relative to the sacrifices they make for others.
-- This mindset also means they find legitimate human connection with others a waste of time.
-  - They will also resent gentler [feelings](mind-feelings.md) than resentment and anger, such as joy or sadness.
-
-While it isn't "nice", handling a narcissist requires a very specific approach:
-
-1. Spiritually turn from any [anger](mind-feelings-anger.md), which means releasing it to God.
-   - They are a tragic story that will only become more tragic as they accumulate more trouble for themselves.
-   - All you can do is grow yourself, separately from them.
-   - You don't need to expose them, since they'll expose themselves over time.
-2. Create distance with them, both physically and relationally.
-   - Behave in a very boring way with them until they get bored and go somewhere else ("gray-rocking").
-   - [Influencing](power-influence.md) them is an utter waste of time, and your vulnerability will expose you to risk.
-   - If you must stay around them, practice [healthy boundaries](people-boundaries.md) like your life depends on it.
-3. Stay in close community with others.
-   - You must [take care of yourself](hardship-abuse.md), so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
-   - Besides protecting you from their direct abuse, more people and institutions protect you from the reputation damage they'll inevitably give you.
-4. Avoid any open confrontation with them, since they *will* misuse it to their advantage.
-   - If they try to trap you into a response, use [healthy conflict management techniques](people-conflicts-bad.md)
-   - Stay gracious to them, even if they make you [angry](mind-feelings-anger.md).
-   - Learn to walk away when things become heated.
-5. Remove any connections they could misuse later:
-   - Secure your finances separately from them.
-   - Change passwords or close accounts.
-   - Adapt your lifestyle to not include them.
-6. Plan for the narcissist's [lies](people-lying.md) by [maintaining your character](morality-virtues.md).
-   - Document events that happen, and use facts over feelings as much as possible.
-   - Since you can't protect yourself from *everyone* they could come in contact with, openly share the truth with your closer friends and [family](people-family.md).
-   - You *will* lose mutual [friends](people-friends.md) in this encounter, but they often come back around later if they're worth your time.
-   - Some of the friends you lose [are *also* narcissists](people-friends-bad.md), which can be a good thing!
+However, there are [many more indicators](mind-neurodivergence-clusterb-narcissist-indicators.md), especilally with [conflicts](mind-neurodivergence-clusterb-narcissist-conflicts.md).
 
 ## A narcissist's descent
 
@@ -183,7 +130,7 @@ However, as they start losing control, they'll often hasten their crisis through
   - Reckless spending
   - Sexual infidelity
   Committing [crimes](legal-crimes.md)
-  - [Abusing others](people-abuse.md)
+  - [Abusing others](hardship-abuse.md)
   - [Addictive substances](addiction-substances.md)
 
 All of their behaviors will be driven by several motivators:

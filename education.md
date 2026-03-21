@@ -3,7 +3,7 @@
 
 Learning is how we develop [understanding](understanding.md). We can learn by trying things ourselves, or by trusting someone [specialized](jobs-specialization.md) in the things we want to understand. Self-directed learning will use *both* a hybrid of doing things ourselves with learning from others' specialized experience.
 
-We tend to have limited attention spans, and learn best in "bursts" of condensed information. We stop learning as soon as we [feel](mind-feelings.md) fatigue from our memory holding too much information (which is usually about 4 new things, or ~20 minutes). To store the information in long-term memory, we [meditate](awareness.md) on those ideas to grasp their [significance](purpose.md), then repeat the information later to create a [pattern](symbols.md) between our memory and [reality](reality.md).
+We tend to have limited attention spans, and learn best in "bursts" of condensed information. We stop learning as soon as we [feel](mind-feelings.md) fatigue from our memory holding too much information (which is usually about 4 new things, or ~20 minutes). To store the information in long-term memory, we [meditate](mind-awareness.md) on those ideas to grasp their [significance](purpose.md), then repeat the information later to create a [pattern](symbols.md) between our memory and [reality](reality.md).
 
 APPLICATION: To read 60 minutes of content in a day, we do better for 5 minutes every hour, mixed with [power naps](sleep.md) and snacks.
 
@@ -75,7 +75,7 @@ Anyone who shares information that goes beyond [anecdotal belief](understanding-
 
 APPLICATION: If you wish to learn, find a mentor in that subject. The internet is a great place to connect for that reason.
 
-One blind spot with any teacher, by the nature of who they are, is that they have an inherent [belief](trust.md) that their subject is worth [understanding](understanding.md) (since they wouldn't wish to teach it otherwise). Therefore, they have *two* jobs: convey the information, and convey *why* that information has value.
+One blind spot with any teacher, by the nature of who they are, is that they have an inherent [belief](mind-trust.md) that their subject is worth [understanding](understanding.md) (since they wouldn't wish to teach it otherwise). Therefore, they have *two* jobs: convey the information, and convey *why* that information has value.
 
 APPLICATION: Those who are most afraid of things will teach about them. While ineptitude may instigate that fear, over-thinking is just as sufficient.
 
@@ -103,8 +103,8 @@ APPLICATION: The best way to introduce students to a new concept:
 
 Teachers can use three forms of [communication](people-conversation.md) to get information across to the student:
 
-1. Since it's the simplest way to communicate, they'll often cover the raw [theory](people-imagination.md) and [methods](habits.md) via [spoken or written text](language.md).
-2. To capture an impression accurately in the student's [imagination](people-imagination.md), they'll include a visual/audio experience, often showing a performance of the idea fully expressed.
+1. Since it's the simplest way to communicate, they'll often cover the raw [theory](mind-imagination.md) and [methods](habits.md) via [spoken or written text](language.md).
+2. To capture an impression accurately in the student's [imagination](mind-imagination.md), they'll include a visual/audio experience, often showing a performance of the idea fully expressed.
 3. To ensure the student has an [intuition](mind-feelings.md) for the subject, they'll usually require them to [create](creations.md) their own things as well.
 
 Great teachers use all three elements at once. When done correctly, the experience will feel a bit more like a [game](fun.md) than a [rote memorization](mind-memory.md) chore. The most effective teaching methods (e.g., [Power Teaching](https://wholebrainteaching.com/)) are so reliable at educating that they can even convey deep concepts like [philosophy](philosophy.md).
@@ -150,12 +150,12 @@ For this reason, many formal teaching institutions run the same risks of any oth
 - Some ideas are [self-created](creations.md), but teachers are frequently taught their ideas are worthless. They often hide behind [circuitous references to other sources](people-image-distortion.md) to avoid self-ownership.
 - In a classroom, teachers possess legitimate [authority](power.md) to control the class, so a bad teacher can easily devolve into small-scale [tyranny](people-boundaries-why.md) if the administration gives them too much additional authority.
 - Teachers will frequently hide how little they know with confusing [language](language.md) (e.g., Latin). It tends to impress the majority of the students, but more intelligent students often see right through it after some experience with it.
-- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](socialrisk.md), they'll end up covering [trends](people-trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
+- Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](entrepreneur-why.md), they'll end up covering [trends](people-trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
 - If school standards start failing, school systems will often start drilling and training their students harder to compete with other schools.
 
 APPLICATION: A major risk for all [teachers](education.md) is that they will invariably teach their subject enough that they're not as effective as actually [doing anything](purpose.md) with what they have. The only solution is for them to teach less and do more, but then they wouldn't be [specialized enough](jobs-specialization.md) for anything.
 
-APPLICATION: Any formalized education, including [college](jobs-college.md), risks exploring meaningless topics through an avalanche of information. The only solution exists *beyond* the educational system (e.g., getting a college degree to become a lawyer), and we find that motivation through [self-awareness](awareness.md) and learning to simplify what we understand.
+APPLICATION: Any formalized education, including [college](jobs-college.md), risks exploring meaningless topics through an avalanche of information. The only solution exists *beyond* the educational system (e.g., getting a college degree to become a lawyer), and we find that motivation through [self-awareness](mind-awareness.md) and learning to simplify what we understand.
 
 APPLICATION: Practice should always overshadow theory, but to their detriment, most formalized school systems believe the opposite.
 
@@ -165,7 +165,7 @@ APPLICATION: The classroom and the cubicle are detrimental to healthy learning. 
 
 There aren't any bad students, though there *are* unwilling students. More often, there are many bad teachers who fail in a few possible ways:
 
-- Failing to [inspire](influence.md) the student to *want* to learn. This is the most frequent failure, and comes from the teacher's unawareness of what the student [values](purpose.md) or *why* the information they're teaching is important. A little [sympathy](mind-feelings.md) and [self-reflection](awareness.md) goes a *very* long way.
+- Failing to [inspire](influence.md) the student to *want* to learn. This is the most frequent failure, and comes from the teacher's unawareness of what the student [values](purpose.md) or *why* the information they're teaching is important. A little [sympathy](mind-feelings.md) and [self-reflection](mind-awareness.md) goes a *very* long way.
 - Failing to communicate the information correctly. Typically, in this case, the teacher hasn't [created](creations.md) anything new, and is simply using someone else's works.
 - Failing to apply the information correctly to make it useful, which comes from them not having a [passion](mind-feelings.md) about the subject.
 - Filtering educational principles through a [political](politics-conservativeliberal.md) lens instead of letting [stories](stories-storytellers.md) represent themselves as raw information and [experiences](stories-storytellers.md). This can become [terrible](mgmt-badsystems.md) when it applies to highly practical domains (e.g., [science](science.md), [math](math.md)).
@@ -183,7 +183,7 @@ A bad educational system can be toxic to its students. Committing random informa
 
 APPLICATION: Fixing a bad teaching system is difficult, but possible:
 
-- Give the teacher increasingly important roles that continue to [challenge](meaning.md) the teacher. Or, fire all the young teachers and only hire [old veterans](maturity.md) with applicable [industry-relevant experience](jobs-specialization.md). There must also be some sort of [risk](socialrisk.md) for the teacher expressing bad information, or they'll develop and [propagate](people-conversation.md) bad [habits](habits.md).
+- Give the teacher increasingly important roles that continue to [challenge](meaning.md) the teacher. Or, fire all the young teachers and only hire [old veterans](maturity.md) with applicable [industry-relevant experience](jobs-specialization.md). There must also be some sort of [risk](entrepreneur-why.md) for the teacher expressing bad information, or they'll develop and [propagate](people-conversation.md) bad [habits](habits.md).
 - Consistently put teachers with other teachers of dramatically opposing views and [political values](politics-systems.md) (preferably co-teaching).
 - Give the teachers the freedom (and expectation) to teach their self-generated ideas. If they only teach what other people have said or done, they don't [understand](understanding.md) the material.
 - Expose the teacher's classroom instruction to public scrutiny. If the public agrees or finds [meaning](meaning.md) in it, it's a good class. Otherwise, shut it down.
@@ -206,7 +206,7 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
-APPLICATION: The dominant difference between an educator and an [innovator](socialrisk.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](people-trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
+APPLICATION: The dominant difference between an educator and an [innovator](entrepreneur-why.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](people-trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
 
 Bad educators wish to be important as much as good educators, but most bad educators will find their students out-succeeding them to be [unacceptable](morality-taboo.md), similarly to [awful parents](people-family.md).
 
@@ -216,9 +216,9 @@ APPLICATION: A smart student can still learn from a dumb teacher, though they'll
 
 Intelligent people who are formally educated in a bad teaching system without much [life experience](people-goodlife.md) tend to create a distinctive [culture](people-culture.md) that's not particularly good for society at large:
 
-- They don't [trust](trust.md) their own or others' [instincts](mind-feelings.md). They'll [reason](logic.md) that those instincts are [irrational cognitive biases](mind-bias.md), but fail to see that there is still [utility](purpose.md) in everyone's perception.
-- They [trust](trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](people-image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).
-- Any [common-sense](reality.md) explanation will make them say "it's not that simple", similarly to how a person defends a [religion](religion.md). They are often unaware that they're suffering a crisis of [faith](trust.md).
+- They don't [trust](mind-trust.md) their own or others' [instincts](mind-feelings.md). They'll [reason](logic.md) that those instincts are [irrational cognitive biases](mind-bias.md), but fail to see that there is still [utility](purpose.md) in everyone's perception.
+- They [trust](mind-trust.md) "experts" because they trust their [group](groups-small.md), which approves them over other well-educated individuals. While those "experts" may be intelligent, many of them are [embellishing that intelligence](people-image-distortion.md), and it's difficult to prove them wrong (i.e., Dunning-Kruger effect in [groups](groups-large.md)).
+- Any [common-sense](reality.md) explanation will make them say "it's not that simple", similarly to how a person defends a [religion](religion.md). They are often unaware that they're suffering a crisis of [faith](mind-trust.md).
 
 APPLICATION: Generally, experts are 98% right on more straightforward matters, but any [conflicted discussion](people-boundaries-why.md) within that community (e.g., the ideal way to [amortize an asset](money-accounting.md) or [cover a risk](money-insurance.md)) guarantees they'll only be about 30-50% right. At that point, it's better to trust your [instincts](mind-feelings.md) or simply *distrust* the experts.
 

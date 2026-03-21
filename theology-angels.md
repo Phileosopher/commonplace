@@ -14,7 +14,7 @@ Being intelligent, God gave them the freedom of [decision](mind-decisions.md), a
 
 - The Satan, led by Lucifer and his followers, are constantly trying to destroy what God has made and subvert His purposes.
 - The dominant way they work is through creating more [inner conflicts](people-conflicts-inner.md) over our decisions.
-  - It almost always involves magnifying our [imagination](people-imagination.md) of bad things to subdue what we [believe](understanding.md) through [fear](mind-feelings-fear.md) or false [certainty](understanding-certainty.md).
+  - It almost always involves magnifying our [imagination](mind-imagination.md) of bad things to subdue what we [believe](understanding.md) through [fear](mind-feelings-fear.md) or false [certainty](understanding-certainty.md).
   - For non-believers, he distracts people from broad thinking about our spiritual state, then sends any variety of [religious doctrine](religion.md) or [philosophy](glossary-philosophy.md) to hide the truth.
 
 [Additional exposition about spiritual warfare](spiritual-warfare.md) (with [additional list of the devil's tricks](spiritual-warfare-tricks.md))

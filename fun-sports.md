@@ -121,13 +121,19 @@ Boxing has bungees around the outside of the ring, and winning either requires d
 
 Mixed martial arts takes everything from boxing, but adds *many* more approved maneuvers and requires the opponent to be pinned like in wrestling.
 
+Many other children's and bar games are variations on very small mock combat:
+
+- Arm wrestling
+- Bloody knuckles
+- Power slap
+
 Most popular [video games](computers-software-gamedev.md) for e-sports that aren't strictly racing are mock combat arrangements, typically as thematic variations on first-person or third-person shooters.
 
 ## Cue Sports & Croquet
 
 Most cue sports (e.g., pool) and croquet involve the players taking turns using an implement to strike a target.
 
-The "game" is heavily affected by the placement of the balls. Frequently, players' actions can move balls that obstruct movement by other players.
+The "game" is heavily affected by the placement of the balls. Each players' actions can move balls that obstruct movement by other players.
 
 ## Acrobatics
 
@@ -145,8 +151,12 @@ Some people debate that golf isn't even a sport. In one sense, they're correct b
 
 Fishing is the standard hobby of fishing, but with a time constraint and the objective to catch the largest or most fish.
 
-Bowling is the standard hobby of bowling, but in parallel with other players.
+All [target shooting](fun-sports-target.jpg) involves striking a distant object (or hitting as close as possible) with a specified distance weapon. The objective is effective the same with small variations:
 
-All [target shooting](fun-sports-target.jpg) involves striking a distant object (or hitting as close as possible) with a specified distance weapon.
+- Guns
+- Bows
+- Horseshoes
+- Darts
+- Bowling
 
-- Whether it's shooting guns, bows, or horseshoes, the objective is effectively the same with small variations.
+And, beyond this, absolutely *any activity at all* can become a pure competition if two people are willing to [measure](math.md) something together.

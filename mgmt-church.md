@@ -107,7 +107,7 @@ There are several ways to approach a new ministry venture:
 
 1. Scope out [an articulated plan](entrepreneur-3_plan.md), inspired directly from [secular not-for-profit organizations](mgmt-npo.md), then adapt as things [change](people-changes.md) (a typical approach for [wealthy cultures](https://theologos.site/the-west/)).
 2. Trust God entirely for the experience and act directly on what the Holy Spirit says (a typical approach for [persecuted churches](hardship-persecution-church.md)).
-3. Attempt to rebuild everything from the ground up (typical for churches less concerned about engaging everyone in a community or with [trust issues](trust.md)).
+3. Attempt to rebuild everything from the ground up (typical for churches less concerned about engaging everyone in a community or with [trust issues](mind-trust.md)).
 
 If you must register your ministry with the government (e.g., 501(c)3 status), you should have a clear scope of what your primary activities are.
 
@@ -126,7 +126,7 @@ Get other believers to assist you in diligently [praying and fasting](spiritual-
 
 Your necessary range of skills will change as you grow.
 
-- At the outset, you will need [an entrepreneur's mindset](entrepreneur-1_why.md) because you're assuming as much or more [risk](safety-riskmgmt.md) as a new for-profit enterprise.
+- At the outset, you will need [an entrepreneur's mindset](entrepreneur-1_what.md) because you're assuming as much or more [risk](safety-riskmgmt.md) as a new for-profit enterprise.
 - If your ministry grows, you'll have to adapt [management skills](mgmt-1_why.md).
 
 Don't over-reach your [specialization](jobs-specialization.md).
@@ -137,7 +137,7 @@ Don't over-reach your [specialization](jobs-specialization.md).
   2. Brainstorm a [creative](mind-creativity-how.md) way around it (e.g., avoiding a [specific project](mgmt-2_projects.md) entirely that's not mission-critical).
   3. If nobody can help, ask Him directly to grant you the power to perform the tasks you're trying to accomplish ([1 Corinthians 14:1](https://biblehub.com/1_corinthians/14-1.htm)).
 
-Even when the [results](results.md) fail your [expectations](people-imagination.md), trust He will provide an increase when you need it.
+Even when the [results](results.md) fail your [expectations](mind-imagination.md), trust He will provide an increase when you need it.
 
 - Your entire reason for working a ministry is for Jesus to be at the center of it.
 - God wants your ministry to fit a *specific* group of people He planned out in advance, so don't concern yourself as much with results as what He wants.
@@ -227,7 +227,7 @@ A. Wage earners constitute the majority of a ministry's strength.
 - Since vocational ministers live off donations, they have a cultural disconnect with wage earners:
   - They frequently overlook wage earners' [financial](money-1_why.md) and [career](jobs-1_why.md) needs.
   - Their increased [education](education.md) in theological/ministry matters frequently provokes them to believe their position is more important.
-  - They tend to [distrust](trust.md) when the wage earners want to be more involved in ministry operations beyond donations.
+  - They tend to [distrust](mind-trust.md) when the wage earners want to be more involved in ministry operations beyond donations.
 - Ask them for funds without any pressure.
   - Tell them to ask God themselves about meeting the available needs.
   - Describe the events as they actually are right now, without embellishment.
@@ -333,7 +333,7 @@ Publicly show your financial statements.
 
 ## Managing conflicts
 
-After becoming established, most leaders tend to [distrust](trust.md) new ideas.
+After becoming established, most leaders tend to [distrust](mind-trust.md) new ideas.
 
 - At that point, they've forgotten their role as a messenger and curator and see themselves as an authority on a subject.
 - However, what they often find uncomfortable is a matter of personal preference or [theological semantics](theology.md).

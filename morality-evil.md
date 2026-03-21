@@ -11,7 +11,7 @@ Evil, however, does exist. Even to the most morally relativistic person, they'll
 
 Evil always has a few elements:
 
-1. An active [decision](mind-decisions.md) or [plan](people-imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
+1. An active [decision](mind-decisions.md) or [plan](mind-imagination.md) for a decision, which may be past-tense if it's [habitual](habits.md).
 2. Self-interested [gain](purpose.md) for the decider or desire to destroy another living being.
 3. If it's [performed](results.md), pain for the victim through [unjustly](morality-justice.md) violating their [boundaries](people-boundaries-why.md).
 
@@ -51,9 +51,9 @@ As we [grow](maturity.md), continuing to care more about ourselves than others w
 
 Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries-why.md). Some people may debate an infant's [understanding](understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
 
-When we become [aware](awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
+When we become [aware](mind-awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
 
-APPLICATION: People are sometimes [unaware](awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
+APPLICATION: People are sometimes [unaware](mind-awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
 APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](mind-decisions.md) to [change](people-changes.md) for the better.
 
@@ -63,7 +63,7 @@ APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some o
 
 ## Decisions
 
-Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](people-imagination.md).
+Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](mind-imagination.md).
 
 Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](mind-decisions.md), then committing them to [habit](habits.md):
 
@@ -101,7 +101,7 @@ Most [religious institutions](religion.md) provoke us to virtue, at least partly
 
 APPLICATION: Evil [purposes](purpose.md) are frequently a shortcut to a comparably virtuous purpose.
 
-[Fantasizing](people-imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](people-rules.md) in society.
+[Fantasizing](mind-imagination.md) about performing evil is just as morally damaging to the [soul](humanity.md) as actually doing it, though it's completely [unenforceable](people-rules.md) in society.
 
 ## The motivation for evil
 

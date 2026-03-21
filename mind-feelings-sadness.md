@@ -26,8 +26,8 @@ When a loss is significant enough, we *always* cycle through five stages of grie
 3. Bargaining - attempting to [negotiate](people-conflicts-negotiation.md) to regain the thing.
    - We're trying to regain control while feeling helpless and vulnerable, and this often includes a deal with [God](theology-god.md) or some other higher power.
    - We usually start by bargaining with what we can do now.
-   - Depending on our [negotiating skills](people-conflicts-negotiation.md) and stubbornness, we may move on to negotiating impossible promises or regrets, and we may ponder hypothetical possibilities if we're particularly [imaginative](people-imagination.md).
-4. Depression - [imagining](people-imagination.md) and dwelling on the void of the thing in our lives.
+   - Depending on our [negotiating skills](people-conflicts-negotiation.md) and stubbornness, we may move on to negotiating impossible promises or regrets, and we may ponder hypothetical possibilities if we're particularly [imaginative](mind-imagination.md).
+4. Depression - [imagining](mind-imagination.md) and dwelling on the void of the thing in our lives.
    - There are two forms our depression will take:
      1. Withdrawn: making quiet preparations to say goodbye and separate from the person or experience.
         - At that point, we simply need a hug.
@@ -50,6 +50,6 @@ When sadness combines with the feeling of [injustice](morality-justice.md), it b
 
 ## Sadness + hopelessness
 
-Sadness by itself is only for [a season](people-trends.md), but the absence of [hope](trust.md) gives an extra dose of severity to sadness, and it becomes despair.
+Sadness by itself is only for [a season](people-trends.md), but the absence of [hope](mind-trust.md) gives an extra dose of severity to sadness, and it becomes despair.
 
 Despair over time slowly erodes [our purposes](purpose.md), and eventually becomes depression. The only way to stop depression from spiraling into further depression is to [redefine many key values of oneself](hardship-worthlessness.md), which usually comes through [building good habits](habits.md) that give constructive, healthy routines. While it isn't enjoyable until they see [results](results.md), they can eventually find [meaning](meaning.md).

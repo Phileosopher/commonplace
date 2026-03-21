@@ -5,19 +5,19 @@ While we don't fully [understand](understanding.md) what we are, we can certainl
 
 ## The body
 
-Physically, every human is merely a [mammal](science-life-animals.md). Beyond unusually large brains, there is nothing [scientifically](science.md) special about us. We have hair, [females](gender.md) secrete milk for their young, and we birth our young instead of laying eggs. We must eat, [rest](sleep.md), and tend to our [offspring](legacy.md).
+Physically, every human is merely a [mammal](science-life-animals.md). Beyond unusually large brains, there is nothing [scientifically](science.md) special about us. We have hair, [females](people-gender.md) secrete milk for their young, and we birth our young instead of laying eggs. We must eat, [rest](sleep.md), and tend to our [offspring](legacy.md).
 
 There is certainly something more than our bodies, and nearly everyone agrees with that designated uniqueness with the clear exception of [atheism](religion-answers.md).
 
 We're the only "mammals" who think about the future, but tend to make errors about pretty much everything:
 
 - Our thoughts have trouble balancing between what is vague and what is certain.
-- We often [understand](understanding.md) things with an over-simplified [model](logic.md), and tend to [simplify things further](mind-bias.md) if we're ever overwhelmed or have things that violate our [beliefs](trust.md).
+- We often [understand](understanding.md) things with an over-simplified [model](logic.md), and tend to [simplify things further](mind-bias.md) if we're ever overwhelmed or have things that violate our [beliefs](mind-trust.md).
 - When we [try to do something](purpose.md), our bodies are very imprecise without *tons* of [practice](success-5_persevering.md), even when the tasks have become completely [routine](habits.md).
 
 [Moral](morality.md) decisions typically involve [how we use our body](people-goodlife.md), especially in our [language](language.md).
 
-Like any biological being, every drive of a body is based on two primary [themes](symbols.md): [fear of death](mind-feelings-fear.md) and [sex](gender.md). Or, in simpler terms, every action we make is either a reaction driven by fight/flight/freeze or pleasure.
+Like any biological being, every drive of a body is based on two primary [themes](symbols.md): [fear of death](mind-feelings-fear.md) and [sex](people-gender.md). Or, in simpler terms, every action we make is either a reaction driven by fight/flight/freeze or pleasure.
 
 However, against anything sensible, our errors sometimes become the [creative](mind-creativity.md) basis for permutations of former habits. We frequently can *improve* our [performance](results.md) within that domain of error.
 
@@ -91,7 +91,7 @@ People don't usually pay attention to others' legitimate human worth because the
 
 APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 
-As we age and transition through [life stages](maturity.md), we become known (and [know ourselves](awareness.md)) for the [habits](habits.md) we build (and their [consequences](results.md)) *far* more than any motivations for those habits.
+As we age and transition through [life stages](maturity.md), we become known (and [know ourselves](mind-awareness.md)) for the [habits](habits.md) we build (and their [consequences](results.md)) *far* more than any motivations for those habits.
 
 ## Transhumanism
 
@@ -116,4 +116,4 @@ APPLICATION: The transhumanism movement is doomed to never achieve immortality, 
 
 - Since many of them are naturalists, they consider the soul, brain, mind, and psyche to be synonyms.
 - Without knowing the raw mechanisms of how we're built with absolute [certainty](understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](https://adequate.life/fix/) humanity.
-- It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](trust.md) which are difficult to easily define but easy to [believe in](understanding-certainty.md).
+- It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](mind-trust.md) which are difficult to easily define but easy to [believe in](understanding-certainty.md).

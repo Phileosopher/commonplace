@@ -3,7 +3,7 @@
 
 Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) can make-or-break an organization's morale.
 
-- Depending on how you came into the role and what the members [imagine](people-imagination.md) you'll do, your presence will both motivate *and* demotivate them.
+- Depending on how you came into the role and what the members [imagine](mind-imagination.md) you'll do, your presence will both motivate *and* demotivate them.
 
 In practice, healthy member management is hands-off, a bit like [gardening](plants.md).
 
@@ -47,7 +47,7 @@ When the financial situation is *not* going well, cut back on *both* rewards and
 
 - Removing existing rewards is a type of collective discipline, weighted heavily toward the highest achievers suffering the most.
 - Stay brutally honest when the situation isn't going well, or the members will resent you for not telling them.
-- Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](people-imagination.md).
+- Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](mind-imagination.md).
 - If times are hard enough, the best workers *will* leave.
   - Postponing information to get more work out of them is [unethical](morality.md).
   - Depending on your situation, if things get harsh enough, *you* should leave too.
@@ -69,7 +69,7 @@ Managers will go *very* far if they can master the [skills for being a decent hu
 Workers are highly motivated by competence.
 
 - Having genuine [understanding](understanding.md) of a subject will earn their respect more than any management system or incentive structure.
-- Often, [knowing your own limits and capabilities](awareness.md) compared to them will earn a tremendous amount of respect with them.
+- Often, [knowing your own limits and capabilities](mind-awareness.md) compared to them will earn a tremendous amount of respect with them.
 
 It's impossible to fake it with anyone you'd *want* to manage.
 
@@ -131,7 +131,7 @@ However, some things *always* discourage people from working:
 
 Over time, *every* new member will slowly become less motivated toward the team's interests.
 
-- When they start, their [imagination](people-imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
+- When they start, their [imagination](mind-imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
 
 Everyone loses their dedication to the group along a relatively straightforward pattern:
 
@@ -201,7 +201,7 @@ Have an exit interview to learn why they're leaving and what would motivate them
 
 The greatest bonus you can give anyone is [meaning](meaning.md).
 
-- People [start their own businesses](entrepreneur-1_why.md) all the time with a *dramatic* cut in pay and increase in workload because they can contribute more fully to something beyond their paycheck.
+- People [start their own businesses](entrepreneur-1_what.md) all the time with a *dramatic* cut in pay and increase in workload because they can contribute more fully to something beyond their paycheck.
 - Find ways to communicate how their decisions and work *actually* changed others' lives for the better.
 - If you can't find anything, you're either a [bad manager](mgmt-1_why.md) or work for a [bad company](mgmt-badsystems.md).
 

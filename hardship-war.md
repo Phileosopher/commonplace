@@ -12,6 +12,36 @@ If you're stuck in the combat zone, hide away from everything.
   - Stay indoors, but be ready to bolt if the building collapses.
   - Avoid closets, cellars, and attics, which are safe until the building is destroyed.
 
+## Terrorism
+
+The purpose of terrorists' activities are to disrupt activity.
+
+- The purpose, specifically, is to create enough [fear](mind-feelings-fear.md) in the civilians that they don't support their military enough.
+
+Most terrorism comes from several reasons:
+
+1. An unbalanced conflict against the terrorists' favor (with a perceived opportunity to foment an insurrection).
+2. A near-enough conflict that they may win with any advantage.
+
+Most terrorists are *not* who you think they are.
+
+- Terrorist organizations tend to recruit local extremists, so the racial or ethnic profile won't help much.
+
+Watch for improvised weapons.
+
+- Homemade bombs (often using household chemicals like fertilizer or ammonia)
+- Dirty bombs (explosives that contain radiological material in them)
+- Concealed weapons (especially firearms, which can create an [active shooter situation](safety-security-specific.md))
+
+A terrorist will try to maximize their effort on a central population center.
+
+- For example, the New York Stock Exchange would be a more likely target than upstate New York.
+
+Pay attention to anyone behaving strangely, and report them to the authorities immediately.
+
+- If you're in a public place and no authorities are present, dial emergency services.
+- Be *very* careful approaching them, since their [fear](mind-feelings-fear.md) from the risk they're taking may trigger them to react unpredictably.
+
 ## Minefield
 
 1. Since some mines are magnetic, get rid of anything metal.

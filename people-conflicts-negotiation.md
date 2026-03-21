@@ -123,7 +123,7 @@ Before reacting, slow down:
 
 - Most people are unaware how they appear when they're upset, but tend to phrase statements as verbal attacks.
 - If you perceive something offensive, resist the urge to attack back.
-- At the same time, you should be [self-aware](awareness.md) enough to see when you must walk away to cool down.
+- At the same time, you should be [self-aware](mind-awareness.md) enough to see when you must walk away to cool down.
 
 Negotiate from principles and encourage them to do the same:
 

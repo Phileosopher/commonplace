@@ -5,7 +5,7 @@ Modern thinking leans a bit heavily on [science](science.md). The natural downsi
 
 While [stories](stories-why.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](understanding.md).
 
-If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](people-imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
+If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](mind-imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
 
 Most modern vernacular runs on the same [mythology](religion-answers.md) (e.g., "witchcraft" becomes "pharmaceuticals") even while the faces have changed.
 
@@ -18,7 +18,7 @@ The reason these myths work over the raw facts is because the [symbols](symbols.
 
 Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](people-goodlife.md), respectively
 
-Fantasy, science fiction, and horror are based on how we [imagine](people-imagination.md), but as a [hypothetical](philosophy-paradoxes.md) into the future.
+Fantasy, science fiction, and horror are based on how we [imagine](mind-imagination.md), but as a [hypothetical](philosophy-paradoxes.md) into the future.
 
 - Historical fiction are thought experiments for the audience to imagine themselves in that past period of time.
 - Alternate histories are heavily curated thought experiments, often with [political](people-conflicts-war-why.md) predictions involved.
@@ -87,7 +87,7 @@ Quite a few creatures represent females and femininity:
 - Elves and Asian fox spirits, even when male, represent feminine characteristics (e.g., clever, elegant, flighty).
 - Sirens represent the deceit of beautiful women.
 - Witches represent the [technological brilliance](technology.md) and deceit of an older matriarch. Her witch's brew symbolizes her means to influence society in subtle ways, and the broom represents the custodial work that came with homemaking.
-- Nymphs represent the wispy and (from [males' perspective](gender.md)) disjointed connections inherent to females.
+- Nymphs represent the wispy and (from [males' perspective](people-gender.md)) disjointed connections inherent to females.
 - An old crone typically represents the convergence of the [unknown](unknown.md) with the wisdom from [experience](understanding.md).
 
 Other creatures represent males and masculinity:
@@ -148,7 +148,7 @@ The story of the spiritual and physical realms temporarily merging or cross (e.g
 
 Fair folk were once regarded as volatile or hostile beings who would sometimes capture humans as a type of pet, but that story is now representative of personal development through a [coming-of-age story](maturity.md). Most of these tie to how we interpret our relationship with [God](religion-answers.md).
 
-Many stories have a flood or some sort of early near-apocalypse. Beside the possibility that it may have happened, they symbolize [hope](people-imagination.md) despite the utter destruction.
+Many stories have a flood or some sort of early near-apocalypse. Beside the possibility that it may have happened, they symbolize [hope](mind-imagination.md) despite the utter destruction.
 
 Every apocalypse story is the same thing: termination of everything we understand as our existence, with final judgment on humanity. We all know [evil](morality-evil.md) ought to be repaid, and that there's something waiting after this life.
 

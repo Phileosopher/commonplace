@@ -28,7 +28,7 @@ Measure whatever you can (e.g., calories, steps walked) and record what you eat 
 
 Pay attention to yourself while you eat:
 
-- [Closely observe](awareness.md) when you feel peckish, hungry, sated, full, and stuffed.
+- [Closely observe](mind-awareness.md) when you feel peckish, hungry, sated, full, and stuffed.
 - Before you start your meal, physically specify where you'll stop.
 
 Put together a precise meal plan for exactly *one* week, then stick closely to it to get an intuition for how much you require of each portion.

@@ -5,7 +5,7 @@ We experience degrees of understanding as we become familiar with something. It'
 
 There are three broad classes of things we can understand:
 
-1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-health.md), and [journalists](language-journalism.md).
+1. First, at the most shallow, we can understand other people. By drawing connections across shared [feelings](mind-feelings.md) and [experiences](humanity-universals.md), we [trust](mind-trust.md) we understand others' [thinking](logic.md), [perceiving](people-image-why.md), and [doing](results.md). Usually, it's proportional to [perceived](people-image-why.md) [authority](power.md), which is why we trust the [opinions](stories-storytellers.md) of [scientists](science.md), [analysts](logic.md), [doctors](body-health.md), and [journalists](language-journalism.md).
 2. Second, we can understand things. Those things are always [perceptible](people-image-why.md), usually [measurable](math.md), and often things that directly [respond](results.md) to our interaction. We're usually only familiar with a part of that thing, since we can't observe that thing with *every* possible interaction with every other thing. We tend to draw "context" about things:
    - Physical context - [location-based](logistics-navigation.md) attributes
    - [Cultural](people-culture.md) context - human beliefs and perceptions
@@ -42,7 +42,7 @@ APPLICATION: There are far too many [unknown](unknown.md) things with elements w
 
 E. Rebuilding
 
-- We have so much intimate connection with that thing that we [imagine and predict](people-imagination.md) it relatively well, and can [create](creations.md) new ideas by combining multiple sources together.
+- We have so much intimate connection with that thing that we [imagine and predict](mind-imagination.md) it relatively well, and can [create](creations.md) new ideas by combining multiple sources together.
 - Skills are consciously competent: we know how to do it if we focus.
 
 F. Integration
@@ -61,7 +61,7 @@ G. Simplification
 - Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](education.md) it, and it becomes *much* easier for our skills to fade.
 - At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](people-identity.md) with our performance with it.
 
-APPLICATION: To fully understand something, we should be able to use [language](awareness.md) that defines something, then be able to define its opposite.
+APPLICATION: To fully understand something, we should be able to use [language](mind-awareness.md) that defines something, then be able to define its opposite.
 
 Generally, the farther we understand things, the more complicated they become in our mind to capture the complexities inherent to it. If we stop using the information before reaching the final stage of habitual simplification, we slowly slide back down that ladder, but *always* retain small [patterns](symbols.md) that we can [use](purpose.md) for the rest of our lives.
 

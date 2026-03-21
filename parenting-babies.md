@@ -27,7 +27,7 @@ There's no "ideal" number of children:
 
 Parenting is high-risk and high-reward because children directly mimic the positive *and* negative traits of their guardians:
 
-- If you're [self-aware](awareness.md), [have a good marriage](relationships-marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
+- If you're [self-aware](mind-awareness.md), [have a good marriage](relationships-marriage.md), and [constantly improving yourself](success-1_why.md), family issues never become unmanageable.
 - As you fail, acknowledge your mistakes and flaws to your children and work as they grow to change them.
 - [Confront every issue](people-conflicts.md) as early on as possible.
   - While it's good to know what to expect before it happens, the children changing and growing *require* you to [creatively](mind-creativity-how.md) adapt to the situation.
@@ -52,7 +52,7 @@ Research and experience babies before having them:
 Pregnancy is preparation time:
 
 - You'll be "nesting", which is full-range preparation for the child, but not always sensible.
-  - Stay [aware](awareness.md) of whether your instincts fit the occasion.
+  - Stay [aware](mind-awareness.md) of whether your instincts fit the occasion.
 - A pregnant lifestyle often imitates habits that come *after* a baby is born.
 - Bring a set of preventative items wherever you go:
   - Always bring extra water and food that won't make you nauseous.
@@ -70,7 +70,7 @@ Mentally preparing is more important than stockpiling:
   - Most baby products are designed for parents more than babies, a bit like [pet products](fun-pets.md).
   - Babies, especially newborns, don't take much room and spend *years* without the motor skills to use what you give them.
   - Plus, babies develop slowly enough that you can buy things for them as they grow.
-- Your ability to [learn happiness](mind-feelings-happiness.md) while stressed and stay [mindful of yourself](awareness.md) is more important than *anything* you can buy or learn.
+- Your ability to [learn happiness](mind-feelings-happiness.md) while stressed and stay [mindful of yourself](mind-awareness.md) is more important than *anything* you can buy or learn.
 
 Anticipate the experience:
 
@@ -88,7 +88,7 @@ Anticipate the experience:
 - Children are a steady drain on resources.
   - Until they leave the house, your scarcest resource will be time.
   - Children drain energy and make messes as they learn to grab, crawl, run, and open, so the house will never stay consistently [clean](home-housekeeping.md).
-  - Since they're usually mimicking you or something they've seen, you'll spend a *lot* of effort [self-reflecting](awareness.md) and [educating](language-speaking.md).
+  - Since they're usually mimicking you or something they've seen, you'll spend a *lot* of effort [self-reflecting](mind-awareness.md) and [educating](language-speaking.md).
 
 While most of your impulses are accurate, you'll need to resist a few of them:
 

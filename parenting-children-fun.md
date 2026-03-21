@@ -145,7 +145,7 @@ Give them many opportunities to socialize and dialogue together as a family:
 
 Give them meaningful outlets for their creativity and learning:
 
-- Reading with them together will expand their [imagination](people-imagination.md) and strengthen your connection with them.
+- Reading with them together will expand their [imagination](mind-imagination.md) and strengthen your connection with them.
 - Give projects that help the family, both solo and together.
 - Try out for a musical or drama group together.
 - Enroll in an art, dance, or exercise class together.
@@ -163,6 +163,7 @@ Give supplies and toys that foster creativity:
   - Melt old crayons together and pour them into empty glue stick cylinders to make twist-up crayons.
   - Melt old or broken crayons in the microwave, pour them into greased cupcake tins, and freeze to make new crayons.
 - Get a shower curtain with a map of the world or the periodic table.
+- Make cotton ball sensory dough by mixing 10-15 cotton balls, 1 cup hair conditioner, and 1/2 cup cornstarch.
 
 Create with them:
 

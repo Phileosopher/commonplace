@@ -79,7 +79,7 @@ AR uses several approaches to track reality:
 
 One of the most common uses of VR is "virtual try-ON" (VTON), which allows someone to test how a product will look before purchasing it.
 
-One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](people-imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
+One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](mind-imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
 
 VR also can serve as an effective [exercise aide](body-exercise.md), especially for people who otherwise would *not* exercise.
 

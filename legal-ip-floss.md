@@ -82,7 +82,7 @@ However, the [licensing can get complicated](legal-ip-floss-licenses.md) to make
 When all things are equal, open-source [scales better](computers-distsys.md) for end-users.
 
 - You don't need to purchase a license for each device.
-- The support is more scattered, but a sufficiently talented software developer can fix an open-source software themselves, without waiting for the company to get to it. This is *desperately* important when time is critical, such as in a [startup](entrepreneur-1_why-cs.md).
+- The support is more scattered, but a sufficiently talented software developer can fix an open-source software themselves, without waiting for the company to get to it. This is *desperately* important when time is critical, such as in a [startup](entrepreneur-1_what-cs.md).
 
 The extra complexity of larger projects means developers can mix-and-match licensing:
 
@@ -92,7 +92,7 @@ Getting funding to be an open-source developer is *not* easy.
 
 - They typically are paid *far* less than standard [Big Tech workers](https://trendless.tech/your-job-sucks/), with some of them even at risk of [homelessness](hardship-homeless.md).
 - Most of them must either [work an unrelated job](jobs-2_goals-cs.md) or use [clever](mind-creativity.md) financing solutions (such as charging to [operate servers](computers-distsys.md) with their software) to pay the bills.
-- Eventually, if the project continues to grow, they *will* need a more direct source of funding, and should consider ways to either turn their project into an [entrepreneurial product](entrepreneur-1_why-cs.md) or give it up for others to maintain.
+- Eventually, if the project continues to grow, they *will* need a more direct source of funding, and should consider ways to either turn their project into an [entrepreneurial product](entrepreneur-1_what-cs.md) or give it up for others to maintain.
 
 If the developer's work was relatively easy, but depends on *other* work, then they may simply deflect all donations to those developers' efforts instead.
 
@@ -131,7 +131,7 @@ But, this back-end/front-end dichotomy [travels backward several degrees](https:
 
 Beyond open software and data, one of the most popular open-source developments in [CPU design](computers-cpu.md) comes through a completely open software architecture called [RISC-V](https://riscv.org/), which superseded the open-architecture movement OpenRISC held for a while.
 
-- You can even make it at home yourself, and it's a very appealing approach for many hardware [startups](entrepreneur-1_why-cs.md).
+- You can even make it at home yourself, and it's a very appealing approach for many hardware [startups](entrepreneur-1_what-cs.md).
 - However, there are *many* other open standards that have not been created that RISC-V must rely on, such as [memory](computers-memory.md) controllers and interfaces, USB, and [PCI](computers-motherboard.md).
 
 Even when *everything* is open, distributors must stay aware of whether software or operating systems are presently compatible with their hardware. Failure to do so will result in the users being adversely affected and general dissatisfaction with the product. When it comes time to [blame someone](people-image-distortion.md), distributors [have historically been labeled at-fault for the failure](https://dont-ship.it/).

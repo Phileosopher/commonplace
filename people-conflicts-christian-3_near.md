@@ -53,6 +53,19 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
   - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](lawsaxioms-legal.md) will *not* have relevance once [Jesus returns](theology-end.md).
   - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](culture-cults.md).
 
+Apostolic Succession - The 12 apostles have future apostles to run the Church in an unbroken lineage.
+
+- The idea comes from some verses such as Paul's instruction to pass on the teachings to the next generation ([2 Timothy 2:2](https://biblehub.com/2_timothy/2-2.htm)).
+  - Another idea that feeds into it is that Peter was the first Pope of the Church ([Matthew 16:18](https://biblehub.com/matthew/16-18.htm)).
+- Every Catholic believes this in some way about their bishops and the Pope, while Protestants reject it at least partly.
+  - Their assertion is that [the abstraction will stay the same, while its implementation moves around](https://gainedin.site/abstractions/).
+  - In one sense, if they're correct, there really is no conflict in authority, since they're subordinate to Scripture's abstractions.
+- There really is no issue until one of them teaches false doctrine.
+  - At that point, the authority of Scripture should take prevalence.
+  - However, many Church leaders in history have abused their position by twisting Scripture without context to their political goals.
+- One ecumenical truth is that the leadership should publicly hand off their role.
+  - Everyone gets older, and will eventually die, and the younger leaders need to take on that role.
+
 Second Work Theology - Salvation can be enhanced through the baptism of the Holy Spirit ([Acts 2:38](https://biblehub.com/acts/2-38.htm)):
 
 - Jesus died for our sins as a first work, but then God gave a second work in [Acts 2](https://biblehub.com/acts/2.htm) as the baptism of the Holy Spirit baptism that gives [spiritual gifts](spiritual-gifts.md) (most notably speaking in tongues).
@@ -76,7 +89,7 @@ Philosophical vagueness about aspects of Christianity:
   - God Himself has many mysteries, but He's also *very* accessible ([James 1:5](https://biblehub.com/james/1-5.htm)).
 - Smart people are often foolish with their intellect and tend to clutter up doctrinal matters that would otherwise be easily [understood](understanding.md) ([Romans 1:22](https://biblehub.com/romans/1-22.htm)).
   - *Highly* intelligent people have a tendency to heavily parse [language](language.md) to the point that it's difficult to precisely follow them, and readers or listeners can often get lost.
-  - God literally *[designed](creations.md)* [universals](humanity-universals.md) in nature for us to [presume](trust.md), but some smart people have major [trust issues](understanding-certainty.md).
+  - God literally *[designed](creations.md)* [universals](humanity-universals.md) in nature for us to [presume](mind-trust.md), but some smart people have major [trust issues](understanding-certainty.md).
 - Some people will define words like "God" and "eternal" in strange ways that create tremendous [uncertainty](unknown.md).
   - Most [post-modern philosophy](philosophy.md), including pseudo-Christian works like Kierkegaard, fall into this domain.
 

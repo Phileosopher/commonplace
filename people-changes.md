@@ -7,9 +7,9 @@ All changes start with [conflicting thoughts](people-conflicts-inner.md) or an [
 
 ## Response
 
-Our changes are *always* responses to [our environment](reality.md). We never form a "new" change that didn't come from an outside source, though we can act on "refined environment" [desires](purpose.md) based on [predictions](people-imagination.md) of the future.
+Our changes are *always* responses to [our environment](reality.md). We never form a "new" change that didn't come from an outside source, though we can act on "refined environment" [desires](purpose.md) based on [predictions](mind-imagination.md) of the future.
 
-We never technically *like* change, since it disrupts our [habits](habits.md). However, the proportion of the [Openness to Experience aspect of our personality](people-personality.md) dictates how much [trust](trust.md) we make over the [unknown](unknown.md) aspects of any given change.
+We never technically *like* change, since it disrupts our [habits](habits.md). However, the proportion of the [Openness to Experience aspect of our personality](people-personality.md) dictates how much [trust](mind-trust.md) we make over the [unknown](unknown.md) aspects of any given change.
 
 Contrary to what many more [intelligent people](education.md) imagine, changing isn't by acting on [logical conclusions](logic.md). Instead, it's based on how well we can [feel](mind-feelings.md) the benefits of the [results](results.md) of making a change.
 
@@ -23,7 +23,7 @@ We can always [choose](mind-decisions.md) to generally direct where our changes 
 - Socially - anything involving others including [venting](influence.md), directing, and [politics](influence.md)
 - [Habitually](habits.md) - intensifying what we've done before and adding to our [certainty](understanding-certainty.md)
 
-We're changing/responding proportional to the degree we [wish](purpose.md) to act. Those responses are often driven by subconscious [faith](trust.md) in past [habits](habits.md) and experiences.
+We're changing/responding proportional to the degree we [wish](purpose.md) to act. Those responses are often driven by subconscious [faith](mind-trust.md) in past [habits](habits.md) and experiences.
 
 APPLICATION: The minimum changes we must make are what we [feel](mind-feelings.md), so our choice of what and how much we [consume](creations.md) will dictate what [influences](power-influence.md) us. Enough bad art will distort our sense of [taste](values-quality.md). [Bad friends](people-friends-why.md) corrupt [good character](morality.md). Reading the [news](stories-storytellers.md) constantly will require [political opinions](politics-conservativeliberal.md), but not as much from skimming headlines once a week.
 
@@ -31,13 +31,13 @@ Our change is always at least proportional to the degree we can [feel](mind-feel
 
 ## Adaptation
 
-We change to conform to our [expectations](people-imagination.md) of what [the good life](people-goodlife.md) requires.
+We change to conform to our [expectations](mind-imagination.md) of what [the good life](people-goodlife.md) requires.
 
 APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](understanding.md) of the good life is always [correct](understanding.md) instead of merely trying to change [habits](habits.md).
 
 Except for rebellion, we're always conforming *toward* something. Rebellion's conformity is essentially "anti-something", driven directly by simple [hatred](purpose.md) of that thing.
 
-APPLICATION: From [terrorism](people-conflicts-war-why.md) to [entrepreneurs](socialrisk.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](people-goodlife.md).
+APPLICATION: From [terrorism](people-conflicts-war-why.md) to [entrepreneurs](entrepreneur-why.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](people-goodlife.md).
 
 Rebellion, in particular, is always anti-[something], so we don't have much control over who or what we oppose. It could be any version of the opposite of something, including its ideological inverse, ideological reverse, absence, or destruction, and we will vacillate between them unless we form principles we conform toward instead.
 
@@ -57,13 +57,13 @@ While we may be changing, our *rate* of change stays relatively constant, propor
 
 ## Time
 
-We don't [imagine](people-imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](standards-datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
+We don't [imagine](mind-imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](standards-datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
 
 Each decision is relatively unimportant in a grand sense, but it slightly tweaks [what we are](humanity.md) and [identify](people-identity.md) with. Plus, that decision is easier to make [the next time around](habits.md), which makes us more extreme versions of ourselves if we leave [our decisions](people-conflicts-inner.md) unattended. By combining a decision with [results](results.md), then another decision with its results, and so on, anyone with enough [perspective](people-image-why.md) will see the slow story of how a person changes.
 
 Over a *long* time, we can clearly see the products of our decisions. A decade of living [the good life](people-goodlife.md) will yield a philosophically well-established person, a decade of [mindless living](habits.md) will create a bore, and a decade of [pure hedonic pursuits](addiction-substances.md) will destroy a person's life.
 
-Across a lifetime, natural [trends](people-trends.md) will emerge [regarding](stories-why.md) a person. They're only approximate, but they'll usually give a relatively reliable [prediction](people-imagination.md) of that person's future [decisions](mind-decisions.md).
+Across a lifetime, natural [trends](people-trends.md) will emerge [regarding](stories-why.md) a person. They're only approximate, but they'll usually give a relatively reliable [prediction](mind-imagination.md) of that person's future [decisions](mind-decisions.md).
 
 No matter how we live, we're building additional [understanding](understanding.md). That understanding comes from how we can recall the [perspective](people-image-why.md) we had when younger compared to now, a bit like a [friendship](people-friends-why.md) with our past selves.
 
@@ -71,6 +71,6 @@ APPLICATION: We must change, but we don't like change, and too much or too littl
 
 ## Ripples
 
-After enough time, our changes spill into others' lives. This can dramatically shift our [culture](people-culture.md), especially when we break others' [expectations](people-imagination.md).
+After enough time, our changes spill into others' lives. This can dramatically shift our [culture](people-culture.md), especially when we break others' [expectations](mind-imagination.md).
 
-Generally, a social group will face [*gigantic* conflicts](people-conflicts-war-why.md) when the [power dynamics](power-types.md) shift from someone changing. This comes from the desire for [safety](safety.md) pushed against the benefits of [taking risks](socialrisk.md).
+Generally, a social group will face [*gigantic* conflicts](people-conflicts-war-why.md) when the [power dynamics](power-types.md) shift from someone changing. This comes from the desire for [safety](safety.md) pushed against the benefits of [taking risks](entrepreneur-why.md).

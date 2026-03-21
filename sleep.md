@@ -92,6 +92,6 @@ You have [many sensible sleep cycles](sleep-cycles.md) to choose from.
 - The body doesn’t need *hours* of sleep, just sleep *cycles*.
 - Each sleep cycle without training lasts about 1.5–2 hours, and doesn’t need to be in order.
 - Depending on your lifestyle, changing your cycles can enhance your [creativity](mind-creativity.md) or [productivity](success-4_routine.md).
-- However, with any sleep cycle, there are still risks to [mental health](awareness.md) by staying up late.
+- However, with any sleep cycle, there are still risks to [mental health](mind-awareness.md) by staying up late.
 
 If your sleep schedule gets disrupted, you may have to find a way to [resist insomnia](sleep-insomnia.md).

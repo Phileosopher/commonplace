@@ -85,7 +85,7 @@ The major downside of their approach, though is that they were obsessed with usi
 
 At some point, philosophers had broadly explored almost everything about how to live and be, but many of them weren't finding the [purpose](purpose.md) they were seeking without the support of a [religious framework](religion.md). Most of the modern philosophers like Hume, Kant, and Kierkegaard were seeking absolute [understanding](understanding.md) without any foundation based on [things we're unable to know](unknown.md).
 
-For most of written history, we have assumed people have an inherent glory or beauty. This was a starting point. In the process of trying to find something that requires zero [uncertainty](trust.md) to know, post-modern philosophers dismantled that beauty and focused instead of what could be proven.
+For most of written history, we have assumed people have an inherent glory or beauty. This was a starting point. In the process of trying to find something that requires zero [uncertainty](mind-trust.md) to know, post-modern philosophers dismantled that beauty and focused instead of what could be proven.
 
 This deconstruction began a downward spiral into *many* highly parsed topics:
 
@@ -150,7 +150,7 @@ Philosophy is raw [power](power.md), like money or [understanding](understanding
 
 APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](understanding.md), or they're wasting their time.
 
-Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](gender.md)?" and "why do we want [money](money-economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
+Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](people-gender.md)?" and "why do we want [money](money-economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
 
 APPLICATION: A philosopher will annoy people (especially [leaders](groups-small.md) and [traditionally minded](people-culture.md) people) because they ask uncomfortable questions that may threaten the [power of those leaders](power-types.md) and change [the way things have always been done](habits.md).
 

@@ -3,7 +3,7 @@
 
 When we [create](mind-creativity.md), we're aiming for a result that conforms to our [purposes](purpose.md).
 
-While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](people-imagination.md) they'll likely happen so similarly that we don't have to think about them.
+While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](mind-imagination.md) they'll likely happen so similarly that we don't have to think about them.
 
 Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](understanding.md), or [influence](influence.md) among others. However, we can only [observe](people-image-why.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
 
@@ -20,7 +20,7 @@ We discover we're wrong *all the time*, but if we've acted on that information, 
 - The choices we make are sometimes poorly [researched](understanding.md).
 - Our [methods](habits.md) are sometimes not ideal or don't give us what we [want](purpose.md).
 - We have old [understanding](understanding.md) or [past trauma](hardship-ptsd.md) that needs updating.
-- We [trust](trust.md) some people or [groups](groups-member.md) too much or too little.
+- We [trust](mind-trust.md) some people or [groups](groups-member.md) too much or too little.
 - We'll often [conclude](logic.md) the wrong cause and repeat the same problem.
 
 APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
@@ -37,7 +37,7 @@ There are only a few ways the unfair reality of delayed consequences can be avoi
 - Observe *others'* bad decisions instead of making them ourselves.
 - Have [good friends](people-friends.md) who will call us out on our bad decisions.
 
-Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](people-imagination.md) future self, and will slowly gravitate toward a more [pleasant life](people-goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
+Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](mind-imagination.md) future self, and will slowly gravitate toward a more [pleasant life](people-goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
 
 ## Types of consequences
 
@@ -54,7 +54,7 @@ Consequences are not always directly connected. They can link as a chain of even
 2. Technological - The work itself is comparatively low-information to industrial, but the results are magnified and sometimes delayed (e.g., almost all [computer](computers.md) work).
 3. Agricultural - There is a significant time delay on all actions (e.g., most [management](mgmt-1_why.md)).
    - We can only reap from [the unknown](unknown.md) with this type of work.
-   - However, it requires [trusting](trust.md) that things will work out.
+   - However, it requires [trusting](mind-trust.md) that things will work out.
 
 We like to see the consequences of our actions because we can [feel](mind-feelings.md) them. This need for [certainty](understanding-certainty.md) often dictates whether we [specialize](jobs-specialization.md) in people (relational) or things (reality) as [children](maturity.md).
 
@@ -63,6 +63,13 @@ Relational consequences are the highest-risk. The audience of what we create hav
 Since there's very little personal [usefulness](purpose.md) to self-made [art](art.md) (rather than the convenience of something self-made like [technology](technology.md)), most artistic endeavors are relational creations. Since artists already contend with the [unknown](unknown.md) to *create* (and they made it very [personal](humanity.md) in the process), the unknown dimension of seeing what others *do* with those results is often [emotionally](mind-feelings.md) severe.
 
 APPLICATION: Creative works can be timeless, but *creators* have a shelf life. The [spotlight](people-trends.md) is [power](power.md), and power corrupts. Or, we [age](maturity.md) beyond being able to think [creatively](mind-creativity.md) anymore.
+
+Beyond the instant results of a [decision](mind-decisions.md), there are longer-term consequences based on how we managed the [uncertainty](unknown.md).
+
+- If we had cut off all of the unknown elements, we will create something that has severe limits.
+- Anything we leave as unfinished or undeveloped will create opportunities for growth later.
+
+APPLICATION: Any legitimately lasting created thing will always have a design that incorporates the unknown into it.
 
 ## Success
 
@@ -83,8 +90,8 @@ Going from awful to adequate takes *much* more work than going from adequate to 
 APPLICATION: While adequacy is statistically normal, unusually successful people do a few things to compensate:
 
 1. Expect that everything will go wrong, and become freakishly good at what they *can* control to compensate.
-2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](people-imagination.md).
-3. [Predict](people-imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
+2. [Self-educate](education.md) about where [unknown aspects](unknown.md) can come from, and [plan ahead for them](mind-imagination.md).
+3. [Predict](mind-imagination.md) the small margins that can magnify their work the most. Those infinitesimally small margins in pretty much any field, over time, create an exponential return.
 
 FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends-why.md), [career](jobs-1_why.md), or whatever.
 
@@ -98,7 +105,7 @@ The result of a successful creation will *always* create more, similar creations
 
 APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](politics-leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
 
-We frequently [imagine](people-imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
+We frequently [imagine](mind-imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
 
 ## Failure
 
@@ -113,8 +120,8 @@ APPLICATION: Artists are hypersensitive to the responses to their creative works
 In reality, the "at fault" person or [group](groups-member.md) isn't easy to discern:
 
 - The person controlling the object that caused a failure is partly at fault.
-- Whoever [directly manages that person](groups-small.md) is partly responsible for [trusting](trust.md) them.
-- Everyone else who [trusted](trust.md) that person or endorsed the action is responsible.
+- Whoever [directly manages that person](groups-small.md) is partly responsible for [trusting](mind-trust.md) them.
+- Everyone else who [trusted](mind-trust.md) that person or endorsed the action is responsible.
 - The object's faulty [design](mind-creativity.md) could be at fault, with all their [creators](creations.md).
 - Everyone who helped distribute the object is responsible.
 - Taken far enough, *everyone* is responsible, even [God](religion.md).
@@ -158,7 +165,7 @@ Most people, upon noting diminishing return, will change their tactic:
 - Barring [addictions](addiction.md), they'll shift to another [purpose](purpose.md).
 - They'll give up on the endeavor entirely and learn to live without something.
 
-A diminishing return isn't necessarily bad. It's usually a sign that our [purpose](purpose.md) isn't working and inspires us to lose [confidence](trust.md) in it. However, that requires having a temporary [non-knowing](understanding-certainty.md) ("agnosis"), so most people tend to shift to [addiction](addiction.md) instead.
+A diminishing return isn't necessarily bad. It's usually a sign that our [purpose](purpose.md) isn't working and inspires us to lose [confidence](mind-trust.md) in it. However, that requires having a temporary [non-knowing](understanding-certainty.md) ("agnosis"), so most people tend to shift to [addiction](addiction.md) instead.
 
 ## Re-trending
 
@@ -172,13 +179,13 @@ APPLICATION: Unless a content creator has an alternative form of income, they'll
 
 ## Ripples
 
-Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](understanding.md), people can often make a relatively accurate [prediction](people-imagination.md) of deeper truths.
+Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](understanding.md), people can often make a relatively accurate [prediction](mind-imagination.md) of deeper truths.
 
 By observing and exploring, through repeated exposure and rumination, various memories of cause-and-effect, someone can frequently develop an imagination that is accurate enough to reliably predict large-scale effects of smaller actions.
 
 However, there are multiple reasons it's generally wiser to be skeptical of anyone who claims to predict the future beyond basic reasoning:
 
-- [Predicting](people-imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
+- [Predicting](mind-imagination.md) the future requires *tremendous* effort and has a very limited scope (e.g., an [investment advisor](money-investing.md) won't be able to predict [tax trends](money-accounting.md)).
 - When someone actually *does* predict the future, it's [debatable](people-conflicts-why.md) how well they performed, especially if they were vague.
 - Often, the people who spend time calculating predictions tend to fail at [communicating](people-conversation.md) it well enough to start a [trend](people-trends.md).
-- We're all very prone to error, and tend to [redirect attention](people-image-distortion.md) when we fail at something, and some [bad predictions](people-imagination-badpredictions.md) are legendary!
+- We're all very prone to error, and tend to [redirect attention](people-image-distortion.md) when we fail at something, and some [bad predictions](mind-imagination-badpredictions.md) are legendary!

@@ -14,27 +14,43 @@ There are *many* human rights:
 - Complete equality of their [soul](humanity.md) with all others of like souls (i.e., all humans have equal standing, all dogs have equal standing).
 - Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](people-slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
   - The right to consent or decline to any medical procedure or practice of their body.
+- The freedom to peacefully associate, assemble, express themselves, and protest.
+  - The freedom to practice the [religion](religion.md) they wish to have.
+  - They can [marry](relationships-marriage.md) whoever they want and raise their [family](parenting-children.md) how they want.
 - The [safety and security](safety.md) that they will stay alive, without additional unnecessary pain imposed onto them.
+  - This safety extends to the right to not have their property invaded without a clear reason (i.e., "warrant").
+  - The freedom to defend themselves when they are under attack.
+  - The freedom from [abuse](hardship-abuse.md), [persecution](hardship-persecution.md), [excessive leadership](mgmt-badsystems.md), and [war](people-conflicts-war.md).
+  - Able to refuse to kill due to their [moral convictions](morality.md).
+  - When law-abiding, can live in peace and be left alone.
 - Freedom to act without fear of others sabotaging many of their things:
   - Able to move about freely, rest, and have an adequate living arrangement.
   - Able to [think](understanding.md) and [believe](understanding-certainty.md) what they want (which includes being wrong).
   - They can freely pursue their [identity](people-identity.md), [change](people-changes.md), and [learn](understanding.md).
   - They can express their ideas through [language](language.md).
-  - They can [communicate with others](people-conversation.md) and to privacy.
-  - They can [have a family](people-family.md), [marry](gender.md), and [be in a community](groups-member.md).
-  - They have title to their property, both owned and [possibly](people-imagination.md) owned.
+  - They can [communicate with others](people-conversation.md), but are entitled to their privacy.
+  - They can [have a family](people-family.md), [marry](people-gender.md), and [be in a community](groups-member.md).
+  - They have title to their property, both owned and [possibly](mind-imagination.md) owned.
   - They can maintain their [honor/reputation](people-image-why.md).
+  - The right to engage in [contracts](people-contracts.md) with others, including to hold a [job](jobs-1_why.md) which fairly compensates them for their work.
 - Legal recognition and [equality](morality-justice.md) before [the law](people-rules.md):
-  - They're [presumed](people-imagination.md) innocent until proven guilty.
-  - They will get a fair [public](groups-large.md) hearing.
+  - They're [presumed](mind-imagination.md) innocent until proven guilty.
+  - They will get a fair [public](groups-large.md) hearing with a due process.
+    - They have the opportunity and sufficient notice to defend themselves.
   - They can develop their [national identity](groups-large.md), get their government's [protection](safety.md), and can [participate in government](groups-large.md).
   - They're informed about any reports or communications about them with others.
   - They can choose not to [say things](language.md) that would otherwise [incriminate them](people-rules.md) (i.e., "Miranda rights").
-  - They're not discriminated against or favored based on their race, [gender](gender.md), [age](maturity.md), [political belief](politics-conservativeliberal.md), or [religion](religion.md).
+  - They're not discriminated against or favored based on their race, [gender](people-gender.md), [age](maturity.md), [political belief](politics-conservativeliberal.md), or [religion](religion.md).
+  - They have the freedom to stay silent to avoid incrimination.
+  - They can provide knowledge and information necessary to protecting their rights and freedoms.
+  - They have the right to be judged by their peers by a jury.
+  - They can appeal any legal conviction or sentencing.
 - They can get [asylum](safety.md) from prosecution if others are abusing *their* rights.
 - Freedom to profit from things they've [created](creations.md) or [thought of](legal-ip.md).
 
 Animals have rights as well, but only proportionally to their sentience.
+
+- Nobody considers the rights of ants, but many laws consider things like dolphin or octopus farming to be animal cruelty.
 
 This isn't the limit to human rights, and there's technically no end to what can be demarcated as legitimate implicit rights. Rights are derived from the [responsibilities](meaning.md) that they're connected to, and those responsibilities determine the scope of what a person must do to maintain those rights.
 
@@ -80,7 +96,7 @@ APPLICATION: Asserting human rights is probably most of the trouble plaguing [so
 - We're consenting to obey a government because they do a good-enough job protecting us from [evil](morality-evil.md), but that only happens as long as we keep consenting.
 - We often create complex [rules](people-rules.md) to find [justice](morality-justice.md) or [peace](safety.md), but it often only slows [evil](morality-evil.md) desire and rarely ever stops it entirely.
 
-Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](people-imagination.md) the desire to violate others' rights for self-interest.
+Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](mind-imagination.md) the desire to violate others' rights for self-interest.
 
 Our [upbringing](people-family.md) can also communicate to us that we don't have certain rights when we legitimately do. Even though our [intuition](mind-feelings.md) will disagree, we'll often sabotage our [understanding](understanding.md) of the world to accommodate or fight what we're taught.
 
@@ -88,7 +104,7 @@ The only way any one person can reliably satisfy another's human rights is throu
 
 In the absence of love, the only way people can ever make sensible [decisions](mind-decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war-why.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
 
-One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](people-image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](trust.md) the average citizen.
+One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](people-image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](mind-trust.md) the average citizen.
 
 ## Privileges
 
@@ -105,7 +121,7 @@ APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries 
 
 Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](people-rules.md).
 
-APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](socialrisk.md) on adding value to the public.
+APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](entrepreneur-why.md) on adding value to the public.
 
 APPLICATION: Nothing is technically free, and receiving *anything* is technically consenting to an unspoken agreement.
 
@@ -120,19 +136,19 @@ The information individuals may obstruct from others is a very specific list, th
 - Past events tied to someone.
 - Ability to do specific things or with a specific [tool](technology.md).
 
-Our [feeling](mind-feelings.md) against others violating our privacy is usually [irrational](logic.md). We tend to [imagine](people-imagination.md) that all violations of our [safety](safety.md) represent a risk:
+Our [feeling](mind-feelings.md) against others violating our privacy is usually [irrational](logic.md). We tend to [imagine](mind-imagination.md) that all violations of our [safety](safety.md) represent a risk:
 
 - If everyone knew where you lived, most people wouldn't care.
 - Where you ate lunch or spent last Friday isn't typically relevant to most people.
 - Your music preferences can't do much if everyone else knows.
 
-Most privacy concerns over small things are associated with others' ability to [predict](people-imagination.md) your behavior. However, people keep making [decisions](mind-decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
+Most privacy concerns over small things are associated with others' ability to [predict](mind-imagination.md) your behavior. However, people keep making [decisions](mind-decisions.md) that shift their [habits](habits.md) around, so those behaviors are only approximate. We're all [somewhat predictable](humanity-universals.md), but it's impossible to predict people with enough precision to accomplish a [purpose](purpose.md) as long as we're [changing](people-changes.md), even with an [algorithm](technology.md).
 
 This privacy sometimes extends to everyone, but more often only applies to outsiders of a [group](groups-member.md). Typically, there's someone responsible for managing that privacy, so they usually have disproportionate [power](power.md) over that information.
 
 Often, in a [larger group](groups-large.md), the leader doesn't have the time to keep close track of everything. In that case, the manager will often assign "keys" to everyone who's in that group (e.g., ID cards, [passwords](encryption.md), physical keys).
 
-Unfortunately, there's no easy way to keep track of those keys. The manager must [trust](trust.md) everyone's ability to keep track of them. And, if any of them are stolen, it creates two possibilities:
+Unfortunately, there's no easy way to keep track of those keys. The manager must [trust](mind-trust.md) everyone's ability to keep track of them. And, if any of them are stolen, it creates two possibilities:
 
 1. Everyone had the same key, so they must get new ones.
 2. Everyone had a different key, and the stolen keys are rendered invalid.
@@ -143,4 +159,4 @@ APPLICATION: We tend to trust [larger groups](groups-large.md) because they seem
 
 [Technology](technology.md) magnifies our results, so it also magnifies the role of privacy against intruders. We can make elaborate [security](safety.md) systems, but it allows elaborate invasions of those systems.
 
-APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](people-imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](understanding.md) about it.
+APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](mind-imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](understanding.md) about it.

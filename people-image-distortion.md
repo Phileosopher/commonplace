@@ -10,7 +10,7 @@ Almost everything in this list works to serve a few main themes:
 3. Separate ideas that shouldn't be separated, frequently to distance [feelings](mind-feelings.md) from the thing.
 4. Combine ideas that shouldn't be combined, typically to make people [feel](mind-feelings.md) more strongly about it.
 
-Experts at distorting appearances are frequently good at [predicting](people-imagination.md) what will happen, and regularly do it prematurely before adverse consequences happen.
+Experts at distorting appearances are frequently good at [predicting](mind-imagination.md) what will happen, and regularly do it prematurely before adverse consequences happen.
 
 ## [Mental](understanding.md)
 
@@ -25,7 +25,7 @@ Beliefs
 - Invalidate premises to reposition or open up the possibilities for reasoning.
 - Add new premises that change the [story](stories-why.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
-- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](mind-decisions.md) is inherently [good](morality.md) from what it [might](trust.md) [cause](results.md).
+- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](mind-decisions.md) is inherently [good](morality.md) from what it [might](mind-trust.md) [cause](results.md).
 - Make someone doubt and question [understanding](understanding.md), [perceptions](people-image-why.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
 - Justify the basis of something by virtue of someone's [authority](jobs-specialization.md).
 - Express a secondary motive as the primary [purpose](purpose.md).
@@ -114,17 +114,17 @@ Topic
 
 Implying about self
 
-- Speak vaguely or avoid saying certain things to evoke others [imagining](people-imagination.md) sophistication, [power](power.md), or [expertise](jobs-specialization.md).
+- Speak vaguely or avoid saying certain things to evoke others [imagining](mind-imagination.md) sophistication, [power](power.md), or [expertise](jobs-specialization.md).
 - Repeat [virtues](morality.md) others [may](understanding.md) believe ("virtue signaling") to indicate loyalty.
 - Feign ignorance to elicit pity or catch a botched restatement.
-- Feign repentance to mend broken [trust](trust.md).
+- Feign repentance to mend broken [trust](mind-trust.md).
 - Make a [creation](creations.md) appear rushed or improvised when it was well-rehearsed, staged, or meticulously craft, which will inspire the audience to give more grace to it.
 - State that a previously discussed topic (e.g., a web forum) answers a topic that it doesn't.
 
 Implying with others
 
 - Allude vaguely to what "experts" say or believe.
-- State what a non-present person would have thought on an issue, though it's often impossible to precisely [know](people-imagination.md).
+- State what a non-present person would have thought on an issue, though it's often impossible to precisely [know](mind-imagination.md).
 - Concede to a personal failing to provoke someone else to admit *their* failings.
 - Use [language](language.md) associated with a specific [culture](people-culture.md) to imply association with it.
 
@@ -141,7 +141,7 @@ Pressure
 
 Feelings
 
-- Use imagery for people to [imagine](people-imagination.md) something enough that they [feel](mind-feelings.md) a [story](stories-why.md) around the stated thing.
+- Use imagery for people to [imagine](mind-imagination.md) something enough that they [feel](mind-feelings.md) a [story](stories-why.md) around the stated thing.
 - Choose specific phrases that draw associated [feelings](mind-feelings.md) to the thing.
 - Use [humor](humor.md) to hide a message.
 
@@ -166,7 +166,7 @@ First impressions
 - Gain [popularity](people-trends.md) with [young people](maturity.md) (who happen to be poor judges of [quality](values-quality.md)).
 - Use any body language or optical illusions with clothing or environment to appear larger or stronger.
 - Use a good-looking messenger with a bad message, or vice versa.
-- Appear trustworthy to make others [trust](trust.md).
+- Appear trustworthy to make others [trust](mind-trust.md).
 
 Tone of voice/context
 
@@ -180,7 +180,7 @@ Redirection
 - Call another group by a label that only fits a few [outliers](people-trends.md) of the group.
 - Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](understanding-certainty.md) or a few specific people in that group.
 - Use existing [reputation](people-image-why.md) to hide laziness or incompetence.
-- Imply that their thing is the new [trend](people-trends.md), which makes others [imagine](people-imagination.md) they'll miss out on it.
+- Imply that their thing is the new [trend](people-trends.md), which makes others [imagine](mind-imagination.md) they'll miss out on it.
 - Imply there are only a few possible [options](mind-decisions.md), even when there are more.
 - A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
 

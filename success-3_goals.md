@@ -3,7 +3,7 @@
 
 Successful [change](people-changes.md) has multiple necessary components:
 
-1. A [VISION](people-imagination.md) that avoids confusion (which requires the right [attitude](success-2_attitude.md))
+1. A [VISION](mind-imagination.md) that avoids confusion (which requires the right [attitude](success-2_attitude.md))
 2. An [INCENTIVE](purpose.md) that speeds up change (often with a deadline)
 3. ACTION PLANS that prevent dead ends and false starts (which require correct goals)
 4. SKILLS that prevent anxiety
@@ -68,7 +68,7 @@ Practice brutal honesty with yourself to find in-depth problems:
 - State out loud, "Everything in my life is fine," then pay close attention to any objections you [feel](mind-feelings.md)
 - If your life is going horribly, *anything* different than what you currently have been doing is a good start.
 - Write down your top 5 problems in your life, then ask why you haven't done anything about them
-- Long-held [beliefs](trust.md), prejudices, and assumptions
+- Long-held [beliefs](mind-trust.md), prejudices, and assumptions
 - Communications with others
 - Mindless routines and habits
 - Insufficient time, energy, or resources for your goals
@@ -105,7 +105,7 @@ It feels nicer to be partly finished with a longer journey than starting a short
 
 Long-term planning only helps our pacing and focus:
 
-- The most dramatic side effect of long-term planning isn't from the actual plans, but from how we [meditate heavily](awareness-meditation.md) on the goal.
+- The most dramatic side effect of long-term planning isn't from the actual plans, but from how we [meditate heavily](mind-awareness-meditation.md) on the goal.
 - Without long-term plans, we often don't know when to stop or reconsider our actions.
 - If we don't expect to follow through with a goal, it's better to save the discouragement and not start at all.
 
@@ -129,7 +129,7 @@ Don't focus on becoming extraordinary:
 - To *believe* you can achieve something, you must start with something small.
   - We experience a psychological reward when finishing a task, so start something you can finish quickly.
   - Aiming for smaller goals has the advantage of building momentum toward larger goals later.
-- Even skills for [managing a large organization](mgmt-7_changes.md) or [starting a business](entrepreneur-1_why.md) start with remembering to floss every day or do laundry.
+- Even skills for [managing a large organization](mgmt-7_changes.md) or [starting a business](entrepreneur-1_what.md) start with remembering to floss every day or do laundry.
 
 Create a clear statement or two about what you want:
 

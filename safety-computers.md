@@ -7,7 +7,7 @@
 2. The untrusted/unverified computers/people are denied access.
 3. In case things break, the entire system has backups with pretty much the same permissions.
 
-However, [trust](trust.md) isn't strictly binary.
+However, [trust](mind-trust.md) isn't strictly binary.
 
 - People move in and out of groups/networks, earn trust, break trust, appear to be trustworthy but aren't, and so on.
 - Some things (such as anything public on the internet) are far more valuable/useful than other things (such as [trade secrets](legal-ip.md) or core [operating system](computers-os.md) files)

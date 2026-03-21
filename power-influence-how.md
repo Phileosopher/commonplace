@@ -22,7 +22,7 @@ The 3 types of intelligence are IQ, RQ, and EQ:
 EQ is, by far, the strongest determination of [success](success-1_why.md):
 
 - EQ helps us understand body language, read others, and visualize how others feel.
-- EQ starts with [awareness](awareness.md) of feelings but uses the best way to respond to them with empathy, self-confidence, self-control, and social skills.
+- EQ starts with [awareness](mind-awareness.md) of feelings but uses the best way to respond to them with empathy, self-confidence, self-control, and social skills.
 - EQ won't make awkward situations easy but will make them simple.
 - The beauty of EQ is that it's *much* easier to build than IQ.
 - One side effect of EQ is that people know how to self-discipline and self-regulate as well.
@@ -43,7 +43,7 @@ Low-EQ people are often oblivious to how they come across:
 
 Unlike IQ, people can train EQ through learning certain awareness skills:
 
-- Maintain constant [awareness](awareness.md) of feelings in yourself and others.
+- Maintain constant [awareness](mind-awareness.md) of feelings in yourself and others.
 - Understand what you'll likely feel tomorrow.
 - Understand how you and others would feel from imagined events.
 - Grasp the numerous [words](language.md) that describe typical [feelings](mind-feelings.md).

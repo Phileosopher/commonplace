@@ -86,7 +86,7 @@ Schedule a routine, fixed study time across multiple days:
 Consider the time of day for studying:
 
 - On a typical circadian cycle, our analytical capacity peaks around late morning or noon, so schedule your mentally challenging classes or study sessions in the morning.
-- If you study in the morning, your mind is uncluttered, but studying in the evening means you'll [meditate](awareness.md) on it while you sleep.
+- If you study in the morning, your mind is uncluttered, but studying in the evening means you'll [meditate](mind-awareness.md) on it while you sleep.
 
 ### Before you start
 
@@ -103,7 +103,7 @@ Eat a healthy meal to peak your blood sugar beforehand:
 
 Get plenty of [sleep](sleep.md) or take a power nap if you can't sleep.
 
-[Meditate](awareness.md) and focus yourself.
+[Meditate](mind-awareness.md) and focus yourself.
 
 Since it harms memory development, cut out *all* multitasking:
 

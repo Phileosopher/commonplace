@@ -16,7 +16,7 @@ Maintain a healthy [diet](cooking.md), avoid too much [alcohol](fun-alcohol.md) 
 
 Closely watch symptoms as they arise, but don't presume the worst:
 
-- As long as you're [staying prematurely aware](awareness.md) of your physical problems and making preventative efforts, you'll typically sidestep the worst-case situations.
+- As long as you're [staying prematurely aware](mind-awareness.md) of your physical problems and making preventative efforts, you'll typically sidestep the worst-case situations.
 - The most likely scenario is usually nothing to worry about.
 - Like [auto mechanics](autos.md), doctors simply make educated guesses based on the symptoms, so they're not necessarily right.
 - Often, your [attitude](hardship.md) about your ailments affects how your immune system responds.

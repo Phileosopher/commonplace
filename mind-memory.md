@@ -65,7 +65,7 @@ Memory also has various forms:
 - Episodic memory is a snapshot of each particular experience we've had.
 - Autobiographical memory combines episodic memory to create a [story](stories-why.md) about ourselves and the world around us.
 - Semantic memory is long-term storage of simple information.
-- Prospective memory is how we store information we [imagine](people-imagination.md).
+- Prospective memory is how we store information we [imagine](mind-imagination.md).
 
 ## Our memory system is prone to errors
 
@@ -93,7 +93,7 @@ Our brains can sometimes get stuck repeating specific bits of information:
 
 Our brains tend to stay quick and alert until around age 60.
 
-In general, we can fight the decay of our memories by learning [self-awareness](awareness.md) and making sense of our thoughts:
+In general, we can fight the decay of our memories by learning [self-awareness](mind-awareness.md) and making sense of our thoughts:
 
 - [Organizing our environment](organization.md) helps us recall and decreases our chances for Alzheimer's Disease.
 
@@ -137,7 +137,7 @@ Read more:
 
 Focus heavily on the present moment:
 
-- [Stay aware of the world around you](awareness.md), and avoid thinking about anything else when you should be paying attention.
+- [Stay aware of the world around you](mind-awareness.md), and avoid thinking about anything else when you should be paying attention.
 - To more easily remember what you read, speak it out loud.
 - To remember someone else's name, say it out loud verbally several times when you first hear it.
 - Avoid listening to videos/podcasts at 1.5x or 2x speed unless you're simply reviewing information you already know.

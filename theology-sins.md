@@ -92,7 +92,7 @@ God designed the Law within a historical context to separate the [culture](peopl
     - High priests
     - Foreigners
     - People with [animals](livestock.md), which can also apply to [technology](technology.md)
-    - [Men or women](gender.md) only
+    - [Men or women](people-gender.md) only
     - Lepers, which can apply to anyone with [health issues](hardship-infirmity.md)
     - People who are [married](relationships-marriage.md)
     - Judges and kings

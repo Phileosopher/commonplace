@@ -5,7 +5,7 @@ Influence is a [conversational](people-conversation.md) form of [power](power.md
 
 An influencer is controlling a [story](stories-why.md), typically to advance an [idea](values.md) or change someone's [reputation](people-image-why.md), with implications of [power dynamics](power-types.md) defining who maintains more influence.
 
-When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](mind-decisions.md) to [trust](trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
+When we are persuaded toward something, the influencer has effectively conveyed a [feeling](mind-feelings.md) that makes us more [willing](mind-decisions.md) to [trust](mind-trust.md) and [consider](understanding.md) the [ideas](values.md) toward the influencer's [purpose](purpose.md).
 
 ## Purpose
 
@@ -18,7 +18,7 @@ Every influential action someone takes has a [purpose](purpose.md) behind it:
 - Many times, people simply want more [power](power.md).
 - We will sometimes do it out of [love](people-love.md) for others.
 
-We're not always aware of these motivators. From our early childhood, we've been trying to influence others (starting with our caretakers), and often [obliviously](awareness.md) influence others [habitually](habits.md).
+We're not always aware of these motivators. From our early childhood, we've been trying to influence others (starting with our caretakers), and often [obliviously](mind-awareness.md) influence others [habitually](habits.md).
 
 The most significant [purpose](purpose.md) we ever have with others is to be important. Importance is others giving [value](purpose.md) to us, so this importance can take the form of just about anything. However, its motivation (at least at first before it becomes a [habitual](habits.md) desire) is the neglected [wish](purpose.md) to be [loved](people-love.md).
 
@@ -41,7 +41,7 @@ APPLICATION: A group built around complaining is as influential as a group built
 Broadly, every influential thing has 5 components:
 
 1. Simple enough to evoke base [feelings](mind-feelings.md), which will hit a [human universal](humanity-universals.md).
-2. [Unexpected](people-imagination.md), which varies by intellect, [creativity](mind-creativity.md), and [experience](understanding.md).
+2. [Unexpected](mind-imagination.md), which varies by intellect, [creativity](mind-creativity.md), and [experience](understanding.md).
 3. Practical, which solidifies in something that [appears real](results.md).
 4. Sentimental, which tend to push feelings into the realms of [humor](humor.md), [love](people-love.md), or [fear](mind-feelings-fear.md).
 5. Composed as a [story](stories-why.md).
@@ -50,7 +50,7 @@ Broadly, every influential thing has 5 components:
 
 People pay *close* attention to the messenger when hearing a message.
 
-Influential people use their [image](people-image-why.md) to draw from others' [imagination](people-imagination.md) about [reality](reality.md), so they have a vast toolbox to draw from:
+Influential people use their [image](people-image-why.md) to draw from others' [imagination](mind-imagination.md) about [reality](reality.md), so they have a vast toolbox to draw from:
 
 - The various [feelings](mind-feelings.md) we can evoke with our [choice](mind-decisions.md) of words.
 - Provoking recollection of others' past [favor](people-image-why.md) toward us or [affiliations](groups-member.md) with us as we speak.
@@ -66,7 +66,7 @@ That messenger must appear to have authority on what they're talking about.
 
 The message and messenger should associate with something the audience finds [advantageous](purpose.md) to them:
 
-- Good things, such as lunch, good news, [happiness](mind-feelings-happiness.md), relaxation, or [sex appeal](gender.md).
+- Good things, such as lunch, good news, [happiness](mind-feelings-happiness.md), relaxation, or [sex appeal](people-gender.md).
 - [Scandalous](people-rules.md) or [specialized](jobs-specialization.md) information, like [gossip](stories-storytellers.md) or special secrets/tricks.
 - While appealing to their [mercy or gratitude](morality.md) may work, they're more frequently affected by [self-interest](purpose.md).
 - Sometimes (and especially if the messenger is [unscrupulous](morality-evil.md)), the messenger may possess incriminating information or circumstances that may harm the audience if the messenger did something with it.
@@ -109,7 +109,7 @@ The [story](stories-why.md) must give a clear [purpose](purpose.md) at the end:
 - The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](mind-decisions.md).
 - That value must aspire to an element of [virtue](morality.md). Even to people who only care about [image](people-image-why.md) or [power](power.md), they still want to *[feel](mind-feelings.md)* or look as if they were virtuous!
 - Have the audience physically interact or experience the item to [feel](mind-feelings.md) its impact.
-- If the story is tied to the messenger *at all*, the messenger will express their current (or potentially [future](people-imagination.md)) state as the end of their story.
+- If the story is tied to the messenger *at all*, the messenger will express their current (or potentially [future](mind-imagination.md)) state as the end of their story.
 
 APPLICATION: Even when you're asking for donations, if you request something from someone make sure they know *why* they're doing it and how it benefits *them*.
 
@@ -136,7 +136,7 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
 4. [Show](people-image-why.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
    - They need additional information to verify that their [values calculus](mind-decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
-5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories-why.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](trust.md).
+5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories-why.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](mind-trust.md).
 6. With enough perseverance and no contradicting outside influence, *anyone* can convince anyone of anything if they don't already have a deep [conviction](understanding-certainty.md) against it.
 
 APPLICATION: Since every influencer is advancing a [story](stories-why.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
@@ -152,7 +152,7 @@ We call influential people "leaders", but we *all* constantly swap from leading 
 3. At any point, any follower can "challenge" that leadership by interrupting or correcting that person.
 4. While an uneven distribution of [power](power.md) has one of the people leading more (such as in [parenting](people-family.md) or [group leadership](groups-small.md)), a general [friendship](people-friends-why.md) among peers will each share about 50% of the power.
 
-We don't often see it, but the [image](people-image-why.md) we're trying to convey as we're influencing often becomes our [self-image/identity](people-identity.md). While trying to win people over, we tend to win *ourselves* over as well. Associating with strong people will make us stronger, having [entrepreneur](socialrisk.md) friends will make us more risk-resistant, and [successful living](success-1_why.md) requires successful associates.
+We don't often see it, but the [image](people-image-why.md) we're trying to convey as we're influencing often becomes our [self-image/identity](people-identity.md). While trying to win people over, we tend to win *ourselves* over as well. Associating with strong people will make us stronger, having [entrepreneur](entrepreneur-why.md) friends will make us more risk-resistant, and [successful living](success-1_why.md) requires successful associates.
 
 Often, people who can manage their [fear](mind-feelings-fear.md) discover [opportunities](purpose.md) hiding behind a crisis:
 
@@ -166,7 +166,7 @@ These people frequently become [leaders](groups-large.md) and heroes, depending 
 At its farthest, a *highly* influential and [immoral](morality.md) person can "gaslight" other people, which effectively allows complete [power](power.md) over that person:
 
 1. Intentionally [distort](people-image-distortion.md) the [truth](reality.md)
-2. Provoke that person to [trust them implicitly](trust.md)
+2. Provoke that person to [trust them implicitly](mind-trust.md)
 3. Drive them to [distrust](unknown.md) their [perception](people-image-why.md)
 
 [Cults](culture-cults.md) are effectively gaslighting entire groups of people.
@@ -200,7 +200,7 @@ APPLICATION: Watch for easy ways people influence you without noticing, especial
 - Providing affirming, unsolicited compliments.
 - To get someone to buy something, have them write down a number that's much larger than the product's asking price.
 - To get someone to choose an ethnic product, expose them to background music of that ethnicity before letting them decide.
-- To get someone to try something [new](socialrisk.md), first ask them if they consider themselves adventurous.
+- To get someone to try something [new](entrepreneur-why.md), first ask them if they consider themselves adventurous.
 - To get someone to select a [popular](people-trends.md) item, show them a scary movie.
 - To get people to find things popular, call them popular beforehand.
 - To gain favor with someone, hand them a hot drink first.
@@ -211,7 +211,7 @@ APPLICATION: Watch for easy ways people influence you without noticing, especial
 
 Many influencers want to maintain the social connections that maintain their [power](power.md). For that reason, influential people will continue to influence *long* after the appropriate [season](people-trends.md) for their [power](power.md) has passed.
 
-APPLICATION: We must be careful who we're influencing with what. We tend to [identify](people-identity.md) with what we're trying to influence, so it should be [good](morality.md), [true](reality.md), [beautiful](values-quality.md) things to attain [the good life](people-goodlife.md). Our [belief in what we share](trust.md) should have at least as much evidence proportionally to how unlikely it is.
+APPLICATION: We must be careful who we're influencing with what. We tend to [identify](people-identity.md) with what we're trying to influence, so it should be [good](morality.md), [true](reality.md), [beautiful](values-quality.md) things to attain [the good life](people-goodlife.md). Our [belief in what we share](mind-trust.md) should have at least as much evidence proportionally to how unlikely it is.
 
 Usually, they will apply their skills toward a perverse end, including [distorting image](people-image-distortion.md) and abusing the [power](power-types.md) they still wield. Often, they'll treat abuse other people when they know they can exploit their [power](power-types.md) without any adverse [consequences](results.md).
 

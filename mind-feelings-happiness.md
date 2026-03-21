@@ -105,4 +105,4 @@ Everyone's [personality](people-personality.md) is different, so they will need 
 
 Often, all we must do is change our perspective, and the rest will follow.
 
-The hardest part is becoming [aware](awareness.md) of what you require, and *doing* it is usually easy by comparison.
+The hardest part is becoming [aware](mind-awareness.md) of what you require, and *doing* it is usually easy by comparison.

@@ -95,7 +95,7 @@ Oligarchy is the same as an autocracy, but with more people involved, and can be
 - Aristocracy - a higher class defined by [birth](people-family.md)
 - Band society - one group (often a family) is run hierarchically by a strong leader
 - Ergatocracy - the working class (though that class usually reverses because the "working class" has stopped working their [trades](jobs-specialization.md) to run things)
-- Geniocracy - a class who is more [intelligent](understanding.md), [creative](mind-creativity.md), or [innovative](socialrisk.md)
+- Geniocracy - a class who is more [intelligent](understanding.md), [creative](mind-creativity.md), or [innovative](entrepreneur-why.md)
 - Kraterocracy - a [stronger](power.md) class
 - Meritocracy - a class with more [ability](creations.md), [specialized knowledge](jobs-specialization.md), or [past contribution to society](legacy.md)
 - Netocracy - a class with more skills with [technology](technology.md) and [influence](power-influence.md)
@@ -139,7 +139,7 @@ Democracy sits on a spectrum of citizens' direct versus indirect control:
 - Demarchy - citizens are picked completely at random to run things and make decisions
 - Isocracy - everyone has completely equal political power (often implied for [leftist](politics-leftism.md) political aspirations)
 - Direct democracy - people vote directly on new laws and public policy
-- Liquid democracy - people can choose to represent themselves or delegate their vote to someone they [trust](trust.md)
+- Liquid democracy - people can choose to represent themselves or delegate their vote to someone they [trust](mind-trust.md)
 - Consensus democracy/electocracy/representative democracy/liberal democracy/social democracy - citizens can vote for their representatives, but the government leadership still decides laws and policies
 - Soviet democracy - representatives are bound by specific rules, and can be removed at any time
 - Totalitarian democracy/electoral autocracy - individuals can vote, but those votes don't legitimately matter
@@ -224,7 +224,7 @@ Cons:
 
 ### Confederation - loosely associated union of sovereign states
 
-Often, confederations form out of a meeting of shared [values](trust.md) or [goals](purpose.md) more than any need for centralized control:
+Often, confederations form out of a meeting of shared [values](mind-trust.md) or [goals](purpose.md) more than any need for centralized control:
 
 - Alliance - multiple states agree on specific terms to assist each other
 

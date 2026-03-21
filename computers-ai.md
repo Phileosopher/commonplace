@@ -53,4 +53,4 @@ Also, depending on how we view the [soul](religion.md), there's a hard philosoph
 
 Further, if there *is* a God or gods, the fact that they built our aptitude will likely also mean they thought ahead to *not* give us the means to create life ourselves until we were fully ready for it.
 
-But, that's the domain of [religion](religion.md) and [speculation](people-imagination.md). As it stands, life is impossible through AI.
+But, that's the domain of [religion](religion.md) and [speculation](mind-imagination.md). As it stands, life is impossible through AI.

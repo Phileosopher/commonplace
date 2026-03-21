@@ -63,58 +63,64 @@ Crowd crush:
    - Do *not* waste oxygen by screaming, since nobody will hear you, and the air in a crush is often hot and muggy.
    - Stay calm and lift your head upwards for better access to fresh air.
 
-If you may soon be in an active shooter situation:
+## If you may soon be in an active shooter situation
 
-1. Before the event, make a premeditated escape plan of every exit you can leave through.
-2. Run as soon as you hear gunfire, according to that plan.
-   - Since it'll slow you down, and you have very little time, don't bother grabbing anything.
-   - While you'll likely feel compelled to, don't try to assist the wounded.
-   - People don't leave for several reasons:
-     - They're cowering in fear.
-     - They somehow believe they won't get shot if they act normal.
-     - While it'll actually increase their chances of getting killed, they think hiding is the safest action.
-   - To make yourself a more difficult target, run in a zigzag pattern.
-     - Even experienced marksmen have a difficult time with moving targets.
-     - Move rapidly to create as much distance as you can.
-     - Put barriers that stop bullets between you and the shooter (e.g., concrete pillars, vending machines or cars).
-   - If others are at risk, tell them to come with you.
-     - Warn others you run by about the threat to their lives.
-     - If the government isn't responsible, call the police immediately, and don't assume anyone has yet.
-3. Hide if you absolutely can't run.
-   - The shooter might be blocking or in clear view of the only exits, or you can't escape out the window because you're in a high-rise building.
-   - Find a secure location.
-     - Stay out of the shooter's view.
-     - Your cover should stop shots fired in your direction.
-     - The shooter should have an extremely hard time getting to you.
-     - If possible, find a room with a door lock.
-     - If you can't lock it, barricade the door with a table and chairs.
-     - If you can't secure yourself in a room, hide behind cover that conceals you from the shooter but lets you still see them.
-   - Stay hidden.
-     - Turn off the room's lights and stay as quiet as possible.
-     - Set your cell phone to silent, don't put it on vibrate.
-     - Stay away from the door and crouch behind cabinets or desks that could offer protection from bullets.
-   - Call the police.
-     - Don't speak if the shooter can hear, and leave the phone on to let the operator listen.
-   - Only open the door if you're sure who the person knocking on the door is.
-     - Shooters often knock on doors or yell for help to convince hiding people to show themselves.
-   - If the shooter passes you, you can run for it, but be prepared to fight.
-4. Fight, but only as your last resort.
-   - By taking quick action against a shooter, you can save lives, but you risk your life in the process.
-     - You can increase your chances if you're skilled in unarmed combat.
-     - If you're armed, return fire.
-     - Don't count shots, wait for them to stop firing and only show yourself enough to fire back.
-     - Since you're at a significant disadvantage when you run out of ammunition, conserve your shots.
-   - A violent gunman assumes that people will flee or hide, so charging them gives you the advantage of surprising them.
-     - Since your life depends on it, fight aggressively and violently.
-     - Throw the maximum force of a punch by clenching your fist at the last possible moment.
-   - Control the shooter's weapon first, then control the shooter.
-     - Without a gun, people are only as strong as their strength and skill.
-   - Improvise any weapon that can multiply your force.
-     - Sharp objects: glass bottles, pens, pencils, a loose tile
-     - Blunt objects: coffee mugs, laptops, luggage, a brick
-     - Unusual objects: scalding hot coffee, spilled motor oil
-     - Create hesitation by throwing things at the shooter to give time to close your distance.
-     - Find something to blind the shooter.
-     - Shine a flashlight or mirror at their eyes.
-     - Spray a fire extinguisher or chemicals in their face.
-   - If possible, get help from others to attack as a team to take the shooter down.
+Before the event, make a premeditated escape plan of every exit you can leave through.
+
+Run as soon as you hear gunfire, according to that plan.
+
+- Since it'll slow you down, and you have very little time, don't bother grabbing anything.
+  - While you'll likely feel compelled to, don't try to assist the wounded.
+- People don't leave for several reasons:
+  - They're cowering in fear.
+  - They somehow believe they won't get shot if they act normal.
+  - While it'll actually increase their chances of getting killed, they think hiding is the safest action.
+- To make yourself a more difficult target, run in a zigzag pattern.
+  - Even experienced marksmen have a difficult time with moving targets.
+  - Move rapidly to create as much distance as you can.
+  - Put barriers that stop bullets between you and the shooter (e.g., concrete pillars, vending machines or cars).
+- If others are at risk, tell them to come with you.
+  - Warn others you run by about the threat to their lives.
+  - If the government isn't responsible, call the police immediately, and don't assume anyone has yet.
+
+Hide if you absolutely can't run.
+
+- The shooter might be blocking or in clear view of the only exits, or you can't escape out the window because you're in a high-rise building.
+- Find a secure location.
+  - Stay out of the shooter's view.
+  - Your cover should stop shots fired in your direction.
+  - The shooter should have an extremely hard time getting to you.
+  - If possible, find a room with a door lock.
+  - If you can't lock it, barricade the door with a table and chairs.
+  - If you can't secure yourself in a room, hide behind cover that conceals you from the shooter but lets you still see them.
+- Stay hidden.
+  - Turn off the room's lights and stay as quiet as possible.
+  - Set your cell phone to silent, don't put it on vibrate.
+  - Stay away from the door and crouch behind cabinets or desks that could offer protection from bullets.
+- Call the police.
+  - Don't speak if the shooter can hear, and leave the phone on to let the operator listen.
+- Only open the door if you're sure who the person knocking on the door is.
+  - Shooters often knock on doors or yell for help to convince hiding people to show themselves.
+- If the shooter passes you, you can run for it, but be prepared to fight.
+
+Only fight as your last resort.
+
+- By taking quick action against a shooter, you can save lives, but you risk your life in the process.
+  - You can increase your chances if you're skilled in unarmed combat.
+  - If you're armed, return fire.
+  - Don't count shots, wait for them to stop firing and only show yourself enough to fire back.
+  - Since you're at a significant disadvantage when you run out of ammunition, conserve your shots.
+- A violent gunman assumes that people will flee or hide, so charging them gives you the advantage of surprising them.
+  - Since your life depends on it, fight aggressively and violently.
+  - Throw the maximum force of a punch by clenching your fist at the last possible moment.
+- Control the shooter's weapon first, then control the shooter.
+  - Without a gun, people are only as strong as their strength and skill.
+- Improvise any weapon that can multiply your force.
+  - Sharp objects: glass bottles, pens, pencils, a loose tile
+  - Blunt objects: coffee mugs, laptops, luggage, a brick
+  - Unusual objects: scalding hot coffee, spilled motor oil
+  - Create hesitation by throwing things at the shooter to give time to close your distance.
+  - Find something to blind the shooter.
+  - Shine a flashlight or mirror at their eyes.
+  - Spray a fire extinguisher or chemicals in their face.
+- If possible, get help from others to attack as a team to take the shooter down.

@@ -1,21 +1,21 @@
 
 # What safety is
 
-We don't like things getting taken from us, especially when we need them to fulfill a [purpose](purpose.md). In fact, we dislike things taken from us proportionally to how much we [imagine](people-imagination.md) that thing will fulfill present *and* [perceived purposes](power.md).
+We don't like things getting taken from us, especially when we need them to fulfill a [purpose](purpose.md). In fact, we dislike things taken from us proportionally to how much we [imagine](mind-imagination.md) that thing will fulfill present *and* [perceived purposes](power.md).
 
 We naturally purpose ourselves to [protecting what we have](safety-security.md), but it's not an even distribution. We have limited resources, so we give priority to what we [love](people-love.md) and the [power](power.md) that can protect our things the most.
 
-When we have safety right now, and don't have [predictions](people-imagination.md) that it'll change in the future, we have "peace".
+When we have safety right now, and don't have [predictions](mind-imagination.md) that it'll change in the future, we have "peace".
 
 APPLICATION: Money is a major source of safety, simply because it's effective at solving most problems.
 
 ## Risk
 
-Risk can most accurately be rephrased as "the [likelihood](people-imagination.md) that we could lose [power](power.md)". [Risks are inherent](trust.md) to existing in this life, so people become more careful and decisive as they gain [wisdom](understanding.md). With experience, people only act when they're [certain](understanding-certainty.md).
+Risk can most accurately be rephrased as "the [likelihood](mind-imagination.md) that we could lose [power](power.md)". [Risks are inherent](mind-trust.md) to existing in this life, so people become more careful and decisive as they gain [wisdom](understanding.md). With experience, people only act when they're [certain](understanding-certainty.md).
 
 We usually have a [fear](mind-feelings-fear.md) of something specific, but it's rarely [rational](logic.md) or [likely](math.md) (especially with [past trauma](hardship-ptsd.md)), so we'll simply [feel](mind-feelings.md) vaguely uneasy. Even when we use [statistics](math.md) or behave to force an ultimatum, we're only making our feelings more [certain](understanding-certainty.md) with fact-based possibilities.
 
-The entire point of *any* security/safety system is from vague [trust](trust.md) issues against possible risks:
+The entire point of *any* security/safety system is from vague [trust](mind-trust.md) issues against possible risks:
 
 - Walls, fortresses, and blockades
 - Locks on doors and switches
@@ -27,7 +27,7 @@ The more [fear](mind-feelings-fear.md) we have of losing something, the harder w
 
 One easy way to avoid financial risk is to get [insurance](money-insurance.md). By giving up some power in the [form of money](power-types.md), someone can have a [separate organization](groups-large.md) take the risk instead. It's basically paying rent for someone else to take the risk.
 
-Generally, when [deciding](mind-decisions.md) when you don't know what to [expect](people-imagination.md), the safest solution is to apply "minimax regret" (minimize the maximum regret you can experience). In other words, make the worst-case scenario as good as possible.
+Generally, when [deciding](mind-decisions.md) when you don't know what to [expect](mind-imagination.md), the safest solution is to apply "minimax regret" (minimize the maximum regret you can experience). In other words, make the worst-case scenario as good as possible.
 
 ## The image of safety
 

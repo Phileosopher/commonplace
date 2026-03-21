@@ -188,7 +188,7 @@ Try to sweeten the deal with other relevant skills you can add to the job:
 - You can often promise to use non-job-related skills you enjoy using.
 - Employees are rarely ever paid as much as they're worth.
 - Don't get greedy or the manager will revert to their original offer.
-- If you're *really* concerned about getting paid what you're worth, [start your own business](entrepreneur-1_why.md) instead.
+- If you're *really* concerned about getting paid what you're worth, [start your own business](entrepreneur-1_what.md) instead.
 
 Get any employment agreement in writing:
 

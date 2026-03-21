@@ -9,8 +9,9 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 - To put it bluntly, it is a pedantic and largely pointless argument to dispute over ~4 years when we go back that far.
   - Even when people are trustworthy, there's simply too much political incentive to stretch years or officially declare years as having not happened.
   - For the sake of convenience, I simply plug it into a year when I don't know.
+- Also, [a partial and better data visualization from -2000-1918](history-chronology.jpg).
 
-1/-4000: Adam and Eve sin
+1/-4000: Adam and Eve sin and exiled from Eden
 2/-3999
 3/-3998
 4/-3997

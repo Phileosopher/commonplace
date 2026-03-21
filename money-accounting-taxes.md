@@ -23,7 +23,7 @@ Most people do *not* need a tax accountant to file their taxes.
 - However, if your situation is *any* more complex, hiring an accountant is almost essential:
   - Complexities involving trusts (e.g., corporations) or [inheritance](hardship-death.md).
   - Cryptocurrencies, foreign income or any other semi-regulated or unregulated [investments](money-investing.md).
-  - You [run your own business](entrepreneur-1_why.md).
+  - You [run your own business](entrepreneur-1_what.md).
 
 ## Property taxes
 
@@ -67,7 +67,7 @@ Taxes on transfers at [death](hardship-death.md)
 
 ## Employment taxes
 
-Except for [self-employment](entrepreneur-1_why.md), most employment taxes are pulled out of someone's paycheck automatically and filed quarterly with the government:
+Except for [self-employment](entrepreneur-1_what.md), most employment taxes are pulled out of someone's paycheck automatically and filed quarterly with the government:
 
 - Social Security
 - Medicare
@@ -173,7 +173,7 @@ Though it's sometimes more complex, other write-offs and write-downs can offset 
 
 The US income tax code is configured to [socially engineer](people-rules.md) a specific set of lifestyles:
 
-- [Employees](jobs-1_why.md) > [Entrepreneurs](entrepreneur-1_why.md)
+- [Employees](jobs-1_why.md) > [Entrepreneurs](entrepreneur-1_what.md)
 - [Teachers](education.md) > other [careers](jobs-specialization.md)
 - Going to [college](jobs-college.md) > skilled trade
 - Maxing out [retirement account](money-investing.md) contributions

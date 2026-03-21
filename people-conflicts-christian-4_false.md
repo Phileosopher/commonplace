@@ -48,7 +48,7 @@ Some heresies about Christian [rituals and practices](mgmt-church.md) create an 
 - Iconoclasm - Icons ([symbols](symbols.md) of specific things) should be destroyed.
 - Kinism - People are only to consort, worship, and marry people of their same race.
 - Egalitarianism - Females can be in positions that rule over men, such as pastors ([1 Timothy 2:9-15](https://biblehub.com/1_timothy/2.htm)):
-  - Some people claim it's sexist, but [gender distinctions have a significant spiritual purpose](gender.md).
+  - Some people claim it's sexist, but [gender distinctions have a significant spiritual purpose](people-gender.md).
   - Many females in so-called "[pastor](mgmt-church.md)" roles are actually preachers, or they straddle that line very closely.
 - Novationism - Christians who sacrifice to pagan gods or deny their faith, even under extreme pressure, are no longer Christians.
 

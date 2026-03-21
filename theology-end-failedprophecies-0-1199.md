@@ -11,7 +11,7 @@ A few failings from 100 B.C. to 2000 A.D.:
 - There was no year 0 B.C.
 - The Catholic Church switched from Julian Years to Gregorian in 1582, which cancels a leap day about every 100 years, and the Protestants only switched a long time later.
 
-All of these are here for your benefit to understand how much humanity has failed at [predicting](people-imagination-badpredictions.md) the end.
+All of these are here for your benefit to understand how much humanity has failed at [predicting](mind-imagination-badpredictions.md) the end.
 
 - If a prophet predicts the future, and is wrong, they're not a good prophet.
   - [Deuteronomy 18:21-22](https://biblehub.com/deuteronomy/18.htm)

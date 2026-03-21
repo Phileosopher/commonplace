@@ -43,7 +43,7 @@ While open-source software may be freely licensed, the *distribution* for it may
 
 Tech companies that create [computer hardware](computers-hardware.md) will often release their code as open-source:
 
-- Their [business model](entrepreneur-1_why-cs.md) will typically depend on selling the hardware itself, meaning there's zero risk of *any* lost profits from releasing the code for it.
+- Their [business model](entrepreneur-1_what-cs.md) will typically depend on selling the hardware itself, meaning there's zero risk of *any* lost profits from releasing the code for it.
 - Hobbyists will be more likely to adopt open-source code, and will be able to [fix bugs](computers-software-redesign.md) or add [software features](computers-software-maintenance.md).
 - The software will sometimes also gain attention as the tool for a [clever hack](hacking.md).
 - Typically, if the organization fosters the hobbyist community through further hardware development, they'll have a thriving community-business relationship that will naturally maintain or increase their hardware sales.

@@ -38,7 +38,7 @@ If you want to, most industries allow you to completely sidestep the connecting 
 
 ## Prepare to sacrifice
 
-Your biggest challenge will be [self-awareness](awareness.md) of your weaknesses, and how you manage them.
+Your biggest challenge will be [self-awareness](mind-awareness.md) of your weaknesses, and how you manage them.
 
 Social anxiety is typical, but you can only land a job if you move out of your comfort zone.
 

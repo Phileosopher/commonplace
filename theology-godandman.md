@@ -7,7 +7,7 @@ God made mankind for a relationship with Him.
 
 Our fallen state (see Harmatiology) essentially makes our bodies (and souls, to a secondary extent) live in *constant* opposition to God's desires.
 
-- [Fear](mind-feelings-fear.md) and [misused pain memories](hardship-ptsd.md) violate any opportunity for [trusting](trust.md) God, which sabotages our ability to [believe](understanding-certainty.md) Him.
+- [Fear](mind-feelings-fear.md) and [misused pain memories](hardship-ptsd.md) violate any opportunity for [trusting](mind-trust.md) God, which sabotages our ability to [believe](understanding-certainty.md) Him.
 - When we develop [habits](habits.md) around our self-defined fears and beliefs, we only feel [safe](safety.md) with our own [understanding](understanding.md) or trust in [other people](groups-small.md) or [social institutions](groups-large.md).
 - With enough self-defined understanding, we can become [addicted](addiction.md) to [*anything*](addiction-substances.md).
 
@@ -22,7 +22,7 @@ All lasting [meaning](meaning.md) that can ever be derived for [living a good li
 Our fallen state creates a stable-enough, [morally disastrous social existence](https://theologos.site/unnatural-law/).
 
 - It's a vastly [elaborate social system](lawsaxioms.md) built around [power management](power-types.md), which creates an emergent [economic system](money-economics.md) around a medium (i.e., money).
-  - This system creates the consequence of [class stratification](classes.md) and [slavery](people-slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](socialrisk.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](people-image-distortion.md).
+  - This system creates the consequence of [class stratification](classes.md) and [slavery](people-slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](entrepreneur-why.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](people-image-distortion.md).
   - Eventually, we will always develop the [vast variety of political systems](politics-systems.md) we're accustomed to, and will engage in [endless conflicts](people-conflicts-war-why.md) over all sorts of stupid reasons.
   - Even if a perfect system were to conjecturally be created, it would eventually [descend into corruption](mgmt-badsystems.md), thereby perpetuating our [cycle](people-trends.md) of inflicting misery on each other.
 - As we [specialize](jobs-specialization.md), we can more and more easily create idols among our [specialized groups](groups-member.md), further hastening our decline.
@@ -113,7 +113,7 @@ God will typically frame our [hardships](hardship.md) to confront the defects of
 - Low openness to experience: He will give more major life [changes](people-changes.md).
 - High conscientiousness: He'll bring around more [disorganized](organization.md), messy people.
 - Low conscientiousness: He'll give more [duties and obligations](success-4_routine.md) where you must honor your [promises](language.md).
-- High extraversion: He'll isolate you and require you to spend more time alone in [meditation](awareness.md).
+- High extraversion: He'll isolate you and require you to spend more time alone in [meditation](mind-awareness.md).
 - Low extraversion: He'll bring many more people around you on a consistent basis, and may even [make you a leader](mgmt-1_why.md).
 - High agreeableness: He'll give more [conflicts and contentions](people-conflicts-christian-why.md) where you must take a [moral](morality.md) stand against others.
 - Low agreeableness: He'll force circumstances that require [getting along](people-conflicts.md) more often with other people.
@@ -139,7 +139,7 @@ It's not uncommon for things we *think* are Christian behaviors to actually be i
 - Sacrificing needs for the sake of peace.
   - This is actually based in [fear](mind-feelings-fear.md), and discredits what someone deserves as God's loved creation ([2 Timothy 2:6](https://biblehub.com/2_timothy/2-6.htm)).
 - Unwilling to let others share in suffering.
-  - Derived from [trust](trust.md) issues, and not what God commands ([Galatians 6:2](https://biblehub.com/galatians/6-2.htm)).
+  - Derived from [trust](mind-trust.md) issues, and not what God commands ([Galatians 6:2](https://biblehub.com/galatians/6-2.htm)).
 - Constant preparedness for [risks](safety-riskmgmt.md).
   - Another trust issue, which is against the peace God promises to His children ([Philippians 4:7](https://biblehub.com/philippians/4-7.htm)).
 - Feelings of [guilt and shame](mind-feelings-shame.md) for resting.
@@ -151,7 +151,7 @@ While on this earth, we can't be wholly sinless or perfect ([Philippians 3:12](h
 
 We won't have an easier life and may not gain [financial wealth](money-investing.md) ([Malachi 3:10](https://biblehub.com/malachi/3-10.htm), [Luke 6:38](https://biblehub.com/luke/6-38.htm), [James 5:1-6](https://biblehub.com/james/5.htm)).
 
-We don't need "Christ and nobody else", and *always* need 3 other [same-sex](gender.md) believers in our lives:
+We don't need "Christ and nobody else", and *always* need 3 other [same-sex](people-gender.md) believers in our lives:
 
 1. A mentor who gives us input and guidance from their superior experience (e.g., [Paul with Timothy](https://www.bible.com/bible/206/1TI.1.WEBUS)).
 2. A [friend](people-friends.md) walking through the same challenges and experiences we're having (e.g., [Paul with Barnabas](https://www.bible.com/bible/206/act.13)).

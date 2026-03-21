@@ -85,9 +85,9 @@ Successful investing, across *any* industry, is knowing when things are cheap or
 
 The concept of value, however, is [a philosophically complicated one](values.md), and investing uses a combination of several possible approaches to parse the value of money:
 
-1. Momentum investing - looking at the current price of something and [creating expectations](people-imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
+1. Momentum investing - looking at the current price of something and [creating expectations](mind-imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
    - The idea is that the right mode of [intuitive](mind-feelings.md) analysis and understanding alone can predict future performance.
-   - This is patently ridiculous, since we can't [predict the future](people-imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
+   - This is patently ridiculous, since we can't [predict the future](mind-imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
 2. Value investing - find the investment's intrinsic underlying value, [without distortion](people-image-distortion.md), then buying or selling based on the divergence from that value.
    - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](people-trends.md), and long-term growth potential.
    - Its primary focus emphasizes cheapness and concrete facts, but it can become myopic to bad decisions.
@@ -95,7 +95,7 @@ The concept of value, however, is [a philosophically complicated one](values.md)
    - However, enough unwise money-losing operations or acquisitions can still burn up a company's assets, and the measurement of value *must* be accurate.
 3. Growth investing - find the price of something, then closely observe [trends](people-trends.md) that would make that value go up.
    - The focus is less on the company's current attributes (like value investing) and more on its potential future value.
-   - At the same time, it incorporates the [trust](trust.md) that the investment will appreciate in value (like momentum investing).
+   - At the same time, it incorporates the [trust](mind-trust.md) that the investment will appreciate in value (like momentum investing).
    - Growth investing often fails because it concerns itself so heavily with known-good investments that it disregards what [technology's fashions](technology.md) can do to a company.
 
 A market maker will provide bids and offers to purchase assets, then ask for a higher price later.
@@ -232,7 +232,7 @@ However, too much information can be a bad thing.
 The best choices have more benefits than downsides, but still have downsides.
 
 - Since *every* decision has a downside, you simply aren't paying attention to it if you don't see it.
-- As much as possible, live in the world of *[probabilities](math-stat.md)* more than *[possibilities](people-imagination.md)*.
+- As much as possible, live in the world of *[probabilities](math-stat.md)* more than *[possibilities](mind-imagination.md)*.
 - Focus on [managing risk](money-investing-risk.md) as a known element instead of removing it entirely.
 
 ## Advisors

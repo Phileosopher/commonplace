@@ -3,11 +3,11 @@
 
 Our minds are wired to process stories:
 
-- We glue perceptions together with prior [perceptions](people-image-why.md), [feelings](mind-feelings.md), [purpose](purpose.md), and [expectations](people-imagination.md) to create a string of connections that form [conclusions](logic.md).
+- We glue perceptions together with prior [perceptions](people-image-why.md), [feelings](mind-feelings.md), [purpose](purpose.md), and [expectations](mind-imagination.md) to create a string of connections that form [conclusions](logic.md).
 - Good [mnemonics](mind-memory.md) build stories out of perceptions and expectations.
 - We form stories out of [images](people-image-why.md) that condense into [symbols](symbols.md) which represent [feelings and sensations](mind-feelings.md).
 
-APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
+APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](mind-awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
 
 Different people (e.g., [social classes](classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
 
@@ -103,7 +103,7 @@ Every story communicates a [value](values.md). The stories people remember will 
 
 One of the most critical messages in most stories involves how we must [decide](mind-decisions.md) in the face of [scarcity](money-economics.md). This leads to *severe* [conflict](people-conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts-why.md).
 
-The best way to detect a good story is from how much everyone in the audience observes [quality](values-quality.md) as they experience it. People only stay [interested](purpose.md) in stories as long as they see anything [unexpected or unusual](people-imagination.md), which requires a vast [emotional range](mind-feelings.md) to trigger the audience's attention.
+The best way to detect a good story is from how much everyone in the audience observes [quality](values-quality.md) as they experience it. People only stay [interested](purpose.md) in stories as long as they see anything [unexpected or unusual](mind-imagination.md), which requires a vast [emotional range](mind-feelings.md) to trigger the audience's attention.
 
 Usually, we set ourselves at the center of the story while we're engaged with it, with a comparison/contrast with the main character's [decisions](mind-decisions.md). As we [mature](maturity.md) to perceive others' views as having equal merit, we're able to imagine ourselves as the character in that story while suspending judgment about the quality of their decisions until the end of the story.
 
@@ -142,7 +142,7 @@ Frequently, most plots tend to fall into a few predictable patterns:
 - Punitive - a good character turns bad and is [punished](people-rules.md).
 - Testing - a character's [resolve](purpose.md) is tested against [hardship](hardship.md).
 - Education - a character must [change](people-changes.md) their negative [understanding](understanding.md) of something.
-- Disillusionment - a character's must change their [positive](understanding-certainty.md) [expectations](people-imagination.md).
+- Disillusionment - a character's must change their [positive](understanding-certainty.md) [expectations](mind-imagination.md).
 
 Generally, the first-person [perspective](people-image-why.md) is difficult for most people to handle because it constantly reminds them that *they're* not experiencing the story. Instead, writers tend to prefer second-person viewpoints whenever possible, and they tend to add factual inconsistencies to keep the audience guessing about [reality](reality.md) within the story's context.
 
@@ -156,7 +156,7 @@ Story-building is communicating the [changes](people-changes.md) that take place
 
 ### Character-building
 
-Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](mind-decisions.md), [prejudices and sense](understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](people-identity.md) with the character and be able to approximately [predict](people-imagination.md) what they will do next.
+Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](mind-decisions.md), [prejudices and sense](understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](people-identity.md) with the character and be able to approximately [predict](mind-imagination.md) what they will do next.
 
 An interesting mechanism of character-building is to create within that character irreconcilable, competing motivations. They can be simple (and often generates [humor](humor.md)), subtle (and more easily generate drama), or elaborate (which can create both humor *and* drama).
 
@@ -220,13 +220,13 @@ Taken far enough, our understanding of a single word, data point, or sensation i
 
 We retroactively make stories automatically about our lives. History is the stories of our past woven into one large story that leads to the present day. [Journalism](stories-storytellers.md) is stories about the present, with varying degrees of [truth](reality.md) to them. Mentally well people use plenty of [humor](humor.md) throughout any story they make.
 
-Unfortunately, we tend to make the present moment or the [foreseeable future](people-imagination.md) the end of our stories unless we [believe in something](understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](mind-feelings-happiness.md) in hardship.
+Unfortunately, we tend to make the present moment or the [foreseeable future](mind-imagination.md) the end of our stories unless we [believe in something](understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](mind-feelings-happiness.md) in hardship.
 
 Since every story is [inspired](mind-creativity.md) by other stories and [reality](reality.md), stories can be [analyzed](logic.md) and reproduced by observing specific [values](values.md) called "[tropes](http://tvtropes.org)". Every decent [storyteller](stories-storytellers.md), beyond conveying [feeling](mind-feelings.md), is also aware of where a trope's [trend](people-trends.md) currently is for their audience.
 
-APPLICATION: A powerful story will [feel](mind-feelings.md) more real than [reality](reality.md) itself. Often, many [storytellers](stories-storytellers.md) use existing [tropes](values.md) that overshadow reality's rules (e.g., how [automobiles](autos.md) are used). Often, they'll use their story to invalidate legitimate points of view (e.g., [politics](politics-conservativeliberal.md)). Other times, they'll use their stories to attach untrue things they [speculate](people-imagination.md) to legitimately true things.
+APPLICATION: A powerful story will [feel](mind-feelings.md) more real than [reality](reality.md) itself. Often, many [storytellers](stories-storytellers.md) use existing [tropes](values.md) that overshadow reality's rules (e.g., how [automobiles](autos.md) are used). Often, they'll use their story to invalidate legitimate points of view (e.g., [politics](politics-conservativeliberal.md)). Other times, they'll use their stories to attach untrue things they [speculate](mind-imagination.md) to legitimately true things.
 
-APPLICATION: The truth, in all its normalcy, is a relatively dull story. Often, we prefer a stylized, artistic depiction of reality over reality itself. We must constantly examine anything considered [true](reality.md) which also evokes strong [feelings](mind-feelings.md) because it may veer away from reality into [trust](trust.md).
+APPLICATION: The truth, in all its normalcy, is a relatively dull story. Often, we prefer a stylized, artistic depiction of reality over reality itself. We must constantly examine anything considered [true](reality.md) which also evokes strong [feelings](mind-feelings.md) because it may veer away from reality into [trust](mind-trust.md).
 
 To the degree we want to feel [safe](safety.md), we will revisit a story we love. We already know the ending, so we find more pleasure in seeing retroactively how the beginning and middle contributed to it.
 
@@ -240,4 +240,4 @@ Our brains don't have segmented areas for fiction versus nonfiction, so the expe
 
 Because of stories, it's humanly impossible to *not* have a [bias](people-image-why.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](understanding-certainty.md) in something we can't prove entirely.
 
-We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](people-imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](people-rules.md) to do or not do.
+We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](mind-imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](people-rules.md) to do or not do.

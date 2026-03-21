@@ -57,7 +57,7 @@ The realm of [understanding](understanding.md) various varieties of beauty is kn
 
 We have a constant need for [novelty](people-image-why.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
 
-- A [story](stories-why.md) that ends differently than we were [expecting](people-imagination.md).
+- A [story](stories-why.md) that ends differently than we were [expecting](mind-imagination.md).
 - [Media](creations.md) in a genre we've explored, but crosses into other genres.
 - A new [friendship](people-friends-why.md) with someone who has a [personality](people-personality.md) similar to someone else we knew.
 - A climate like the one we know, but with a different [atmosphere](jobs-specialization.md) or ecosystem.
@@ -68,7 +68,7 @@ Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md
 - They have experienced more [cultures](people-culture.md) by virtue of having lived in a time with less [technology](technology.md).
 - Older people can often [analyze](logic.md) better and detect more [symbols](symbols.md) in [stories](stories-why.md).
 
-As we gain awareness of what we're consuming, we discover more of the interwoven [patterns](values.md) placed in [created things](creations.md). By understanding a creator's historical context, perceptions, and what that creator was [unaware](awareness.md) of while thinking of those things, we can understand into *far* more than just that [media](creations.md) and what it alludes to:
+As we gain awareness of what we're consuming, we discover more of the interwoven [patterns](values.md) placed in [created things](creations.md). By understanding a creator's historical context, perceptions, and what that creator was [unaware](mind-awareness.md) of while thinking of those things, we can understand into *far* more than just that [media](creations.md) and what it alludes to:
 
 - We learn about [the human condition](humanity.md) and [its universals](humanity-universals.md) as it proceeded to build that thing.
 - We [con](people-friends-why.md)[n](people-conversation.md)[ect](people-friends-why.md) with others' perspectives, most notably the creator's, to derive *further* understanding of the world around us.

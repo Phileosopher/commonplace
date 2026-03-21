@@ -49,8 +49,6 @@ Parsing the concept further shows several moving parts from how much the Bible a
 2. When Scripture is vague on a matter, are we safe to clarify any spiritual authority on it?
 3. When Scripture *doesn't* address a matter, can there be any spiritual authority whatsoever about it?
 
-Human culture across the lens of geography and history is vast, and it's *very* likely God purposely omitted information to permit our interpretation to prevail. The best [laws](people-rules.md) are written in the same spirit: rules stay [fair](morality-justice.md) when they omit context and transcend culture to [apply to all people](humanity-universals.md).
-
 ### Problem 1: Vagueness
 
 God loves variety (as evidenced by [His vast array of life, celestial objects, and physical structures](science.md)), so open-ended statements are logically consistent with His nature. This results in God intentionally framing the Bible with few to no verses about many subjects.
@@ -75,6 +73,8 @@ Church and Scripture with the same authority permits more clear guidance from th
 The advantage of Scripture over Church is that the Scripture holds more true, meaning it won't change with [social fashions](people-trends.md), but it comes with the disadvantage that there's no true authority where the Bible is silent.
 
 It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love ([John 13:35](https://www.bible.com/bible/206/jhn.13.35)) and that there's at least *some* sense of [order](unknown.md) ([1 Corinthians 14:26-32](https://biblehub.com/1_corinthians/14.htm)).
+
+Human culture across the lens of geography and history is vast, and it's *very* likely God purposely omitted information to permit our interpretation to prevail. The best [laws](people-rules.md) are written in the same spirit: rules stay [fair](morality-justice.md) when they omit context and transcend culture to [apply to all people](humanity-universals.md).
 
 ### Problem 2: *Which* Scriptura?
 
@@ -160,4 +160,15 @@ These Solae are an archaic model of Christianity, though they're a deep explorat
 
 Their usefulness, however, is partially limited among Christians. As it stands, the things that divide Christians since the 19th century have become more cultural than ideological, offset by specific theological stances that severely divide core denominations (such as the spiritual scope of a Pope's power).
 
-The reality, though, is we see everything in a philosophical haze ([1 Corinthians 13:12](https://biblehub.com/1_corinthians/13-12.htm)). Jesus doesn't ask us to understand *any* of this, but instead to prioritize love over understanding ([1 Corinthians 13:2](https://biblehub.com/1_corinthians/13-2.htm)).
+This one distinction distills to two extremes on a spectrum:
+
+1. The Bible itself is sufficient, irrespective of humanity.
+   - We obviously can't live in alienation from the Church, so it's not *just* the Bible.
+   - There are also many historical contexts and documentation worth considering, so we shouldn't put the Bible in a vacuum.
+2. The Bible is sufficient, and the Church comes alongside it to assist, and the Holy Tradition comes along as well.
+   - The Church has made some severe errors in the past (e.g., a [woke](politics-leftism.md) pope), so we can't say their authority sits on the same infallible level as the Bible.
+   - Further, if there was any legitimacy to the Church coming alongside Scripture, we should see a commentary regarded as equivalent to Scripture.
+
+Naturally, this bleeds out to many other theological things, such as [apostolic succession](people-conflicts-christian-3_near.md) and whether we should read modern books to understand [human nature](humanity.md).
+
+However, no amount of clarifying thought will take away the philosophical haze we live under ([1 Corinthians 13:12](https://biblehub.com/1_corinthians/13-12.htm)). Jesus doesn't ask us to understand *any* of this, but instead to prioritize love over understanding ([1 Corinthians 13:2](https://biblehub.com/1_corinthians/13-2.htm)).

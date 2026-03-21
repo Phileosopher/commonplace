@@ -3,7 +3,7 @@
 
 There are very few things we have absolutely *zero* indirect control over about [ourselves](people-identity.md). But, beyond most of our physical attributes and where we were born, our family ties are one of the few we're stuck with.
 
-All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](mind-decisions.md) based on [expectations](people-imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-boundaries.md).
+All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](mind-decisions.md) based on [expectations](mind-imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-boundaries.md).
 
 Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](people-culture.md) than anyone else's. Unless the dynamics are particularly [dysfunctional](parenting-children-bad.md), we tend to [favor](people-friends-why.md) those relationships more than non-family.
 
@@ -14,7 +14,7 @@ APPLICATION: Our [favoritism](people-friends-why.md) for family members creates 
 Healthy family dynamics come through combining several different components that feed off each other:
 
 - Biological or commitment connections that at least *imply* [responsibility](meaning.md) for each other.
-- A [marriage](gender.md) that frames a structural example for [idealized](values.md) relationships, including sexual attraction.
+- A [marriage](people-gender.md) that frames a structural example for [idealized](values.md) relationships, including sexual attraction.
 - Shared beliefs on [nurturing](parenting-babies.md) and [disciplining](parenting-children.md) children, which borrows heavily from [religious doctrines](religion.md).
 - Consensus on [out-group interactions](people-conflicts-war-why.md) (e.g., in-laws).
 - Agreement on [resource](power-types.md) management (e.g., [time](success-4_routine.md), [money](money-1_why.md)) and collective [purposes](purpose.md).
@@ -49,7 +49,7 @@ The "parent switch" isn't specific or guaranteed with biological parents. If som
 
 ## Children
 
-The entire family model starts with the parent-child relationship. Children are obsessed with finding [purpose](purpose.md) that conforms to their parents' [expectations](people-imagination.md), so they will either reproduce their lifestyle to be the same as their parents or will partially be (in the case of certain dysfunctional patterns) the near-complete opposite.
+The entire family model starts with the parent-child relationship. Children are obsessed with finding [purpose](purpose.md) that conforms to their parents' [expectations](mind-imagination.md), so they will either reproduce their lifestyle to be the same as their parents or will partially be (in the case of certain dysfunctional patterns) the near-complete opposite.
 
 We end up always representing two roles in our minds: a father and a mother. The people who adopt the roles for those aspects define significant structures that follow us throughout our lives.
 
@@ -60,7 +60,7 @@ Children have their own initial [culture](people-culture.md), [preferences](huma
 
 - Conflict Style: They confront every issue directly and need [guidance](education.md) on how to be more subtle and [tactful](people-rules.md).
 - Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
-- Individualism/Collectivism: living entirely for themselves, since they're not even *[aware](awareness.md)* of others.
+- Individualism/Collectivism: living entirely for themselves, since they're not even *[aware](mind-awareness.md)* of others.
 - Masculinity/Femininity: Focused strictly on their [purposes](purpose.md), which is implicitly *very* masculine.
 - Power Distance: Depending on their [willpower](purpose.md) and how they [feel](mind-feelings.md) about their parents, they can often be *more* powerful than their parents where the only way for parents to compensate is through a well-communicated and well-enforced [disciplinary standard](people-rules.md).
 - Time Flexibility: Insistent on *every* deadline for themselves, immediately, but considers everyone else's deadlines unimportant.
@@ -72,7 +72,7 @@ With respect to [human universals](humanity-universals.md), children are the sam
 
 1. Children are very preoccupied with their parents' approval, so they don't need [friends](people-friends-why.md) *nearly* as much as they need reliable and [loving](people-love.md) authority figures.
 2. Children have very little context to [self-learn](education.md), so they need more clarification than any adult would to [understand](understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
-3. Children have an "invisible authority" in their minds, which is a [reproduction](people-image-why.md) of how they [envision](people-imagination.md) their parents will [respond](results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
+3. Children have an "invisible authority" in their minds, which is a [reproduction](people-image-why.md) of how they [envision](mind-imagination.md) their parents will [respond](results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
 
 APPLICATION: What a parent expects is often different than what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](people-image-why.md).
 
@@ -84,7 +84,7 @@ As children grow, they tend to find a middle-ground [culture](people-culture.md)
 
 Once those children have [come of age](maturity.md), they are now co-members of their [groups](groups-small.md). Barring *major* dysfunction somewhere, they'll [identify](people-identity.md) with that group alongside other groups that fit their [purposes](purpose.md), and their personal style of [culture](people-culture.md) blurs together with the collective.
 
-[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](mind-decisions.md) for themselves. Most parents don't [trust](trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
+[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](mind-decisions.md) for themselves. Most parents don't [trust](mind-trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
 
 Maintaining a [baby](parenting-babies.md), then a [child](parenting-children.md), then a [teenager](parenting-3_teenagers.md), is difficult. Every child experiences at least some failures from their parents due to [human nature](humanity.md), and some of them will become [severely traumatized](hardship-ptsd.md) by it.
 
@@ -102,7 +102,7 @@ Every [culture](people-culture.md) needs parents to give [value](meaning.md) to 
 
 After a child becomes a parent a few decades later, they will deliver more [pain](hardship-family.md) on their children than they realize, and sometimes *worse* than a generation prior. Parents usually trust their [intuition](mind-feelings.md), which creates an [illusion](people-image-why.md) they're doing a better job than *their* parents, which can begin a downward spiral of [conceit](morality-evil.md) for many parents.
 
-If parents *do* succeed, their children will create children of their own, and becoming a grandparent means a child was successfully taught enough to [find a mate](gender.md) and reproduce again.
+If parents *do* succeed, their children will create children of their own, and becoming a grandparent means a child was successfully taught enough to [find a mate](people-gender.md) and reproduce again.
 
 APPLICATION: A grandparent is a success story, just by the fact that they built a [legacy](legacy.md). This doesn't necessarily [venerate](people-image-why.md) them, especially if their adult children never [talk](people-conversation.md) to them.
 
@@ -146,7 +146,7 @@ Most parents don't want to admit failure, so they tend to blame other things for
 - Police officers or [government officials](groups-large.md)
 - Their child's [friends](people-friends-why.md)
 
-APPLICATION: While family is often more tight-knit, the absence of diverse culture and ideas is a [severe risk](safety.md) to families. The only solutions are to either [marry people](gender.md) into that culture (traditionally through foreign females) or force everyone to disperse through some sort of hardship.
+APPLICATION: While family is often more tight-knit, the absence of diverse culture and ideas is a [severe risk](safety.md) to families. The only solutions are to either [marry people](people-gender.md) into that culture (traditionally through foreign females) or force everyone to disperse through some sort of hardship.
 
 Often, parents will realize they can't [change](people-changes.md) their child, so they'll try to get rid of them to avoid being blamed. To avoid public shame, they'll wait until their child attains adulthood, then will exile them.
 
@@ -175,7 +175,7 @@ Many parents will use small [lies](people-lying.md) to [rebuild](education.md) t
 While it may seem harmless, it becomes egregious when they try to sidestep [evil](morality-evil.md) and its consequences:
 
 - [Addictions](addiction.md) to intense substances like alcohol or cocaine.
-- Elements of [sex and sexuality](gender.md).
+- Elements of [sex and sexuality](people-gender.md).
 - People abusing their [power](power.md) or [bad leaders](mgmt-badsystems.md).
 - Gruesome medical conditions.
 - Unusual behavior, including insanity.
@@ -187,7 +187,7 @@ APPLICATION: For most of recorded history, parents communicated *all* the facts 
 
 The aftermath of this practice once the children [grow up](maturity.md) is horrific. By only communicating the bad sides of things, the children will still wonder about why people even form [purposes](purpose.md) for an object. They'll experiment or research for themselves, and often fall into [substance abuse](addiction.md), or worse.
 
-Naturally, their [trust](trust.md) with their parents will be eroded, which affects the entire family dynamic in the process.
+Naturally, their [trust](mind-trust.md) with their parents will be eroded, which affects the entire family dynamic in the process.
 
 ### Underestimation
 
@@ -195,6 +195,6 @@ Unless a parent is making conscious [decisions](mind-decisions.md) as they exper
 
 As a child ages, they very quickly learn to bend those fixed patterns to their [advantage](purpose.md). For example, they'll endure a five-minute lecture to get out of doing chores. The fulfillment of a subversive purpose is far more [rewarding](meaning.md) to them than [results](results.md) from the task itself.
 
-Most parents won't realize their [creativity](mind-creativity.md) and will assume the child is merely defying them. Parents are typically [unaware](awareness.md) of what children are thinking, since they remember a point where the child *was* unaware and find no harm [imagining](people-imagination.md) they'll stay that way.
+Most parents won't realize their [creativity](mind-creativity.md) and will assume the child is merely defying them. Parents are typically [unaware](mind-awareness.md) of what children are thinking, since they remember a point where the child *was* unaware and find no harm [imagining](mind-imagination.md) they'll stay that way.
 
 This often intensifies as the child grows older. By the time they're a teenager, they know *exactly* how to exploit the system, and often don't respect the parents who raised them from how easy they were to [deceive](people-lying.md).

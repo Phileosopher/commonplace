@@ -9,7 +9,7 @@ Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* m
 
 We send and store ideas with symbols. The more elaborate and complicated the idea, the more symbols we need.
 
-We don't have enough words to 100% describe what we wish to convey, so we [try our best](results.md) to grab the best possible arrangement of symbols. We then [trust](trust.md) the other person or our future self will [understand](understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
+We don't have enough words to 100% describe what we wish to convey, so we [try our best](results.md) to grab the best possible arrangement of symbols. We then [trust](mind-trust.md) the other person or our future self will [understand](understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
 
 Because of its emotional nature, a symbol represents many elements a person will associate with an object. Some of the most commonplace symbols in society include [language](language.md), [branded logos](marketing.md), and many [design concepts](engineering-design.md).
 
@@ -27,7 +27,7 @@ Symbols are powerful. As an example, here's a quote from *The Matrix* movie:
 
 > *Do you want to know what IT is? The Matrix is everywhere. It is all around us, even now in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work, when you go to church, when you pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth.*
 
-The visuals around the quote are merely two attractive guys in lots of leather in a poorly lit room. However, pondering the words or hearing it in the movie creates a profound thoughtful consideration. You visualize your routine and the implications of that statement, using details ([work](success-4_routine.md), [church](religion.md), [taxes](money-accounting.md)). If we analyze further, the quote draws us into the perpetual [uncertainty](trust.md) we live with and a possible answer to that vagueness that would allude to finding [meaning](meaning.md).
+The visuals around the quote are merely two attractive guys in lots of leather in a poorly lit room. However, pondering the words or hearing it in the movie creates a profound thoughtful consideration. You visualize your routine and the implications of that statement, using details ([work](success-4_routine.md), [church](religion.md), [taxes](money-accounting.md)). If we analyze further, the quote draws us into the perpetual [uncertainty](mind-trust.md) we live with and a possible answer to that vagueness that would allude to finding [meaning](meaning.md).
 
 We extrapolate an idea automatically from that quote because our [stories](stories-why.md) (and, more technically, [our memories](mind-memory.md)) are using constant symbols. Parsing further, certain [language](language.md) elements like sentence pacing and how nouns connect with each other can add even *more* symbolism.
 
@@ -41,7 +41,7 @@ But, even further, we're attaching human-like qualities that aren't human (anthr
 
 Beyond that, we tend to attach value to specific parts of the body, especially the face. Often, a covered face is a "dehumanizing" thing, and [groups](groups-small.md) can inspire [organizational evil](mgmt-badsystems.md) by having all the members wear a matching and facially obscuring clothing item.
 
-We associate tasks to visual images of human-like depictions. The head associates to [authority or control](power.md). The hands symbolize action or [doing](results.md). The waist symbolizes [fertility](people-family.md) or [sex](gender.md). The feet imply traveling. We can layer on the imagery to adapt to the situation (e.g., a gloved hand represents unfeeling action).
+We associate tasks to visual images of human-like depictions. The head associates to [authority or control](power.md). The hands symbolize action or [doing](results.md). The waist symbolizes [fertility](people-family.md) or [sex](people-gender.md). The feet imply traveling. We can layer on the imagery to adapt to the situation (e.g., a gloved hand represents unfeeling action).
 
 Most [language](language.md) involving gestures are reproducing those associations. In the case of lewd or vulgar gestures, they're frequently reproducing the action itself.
 
@@ -88,7 +88,7 @@ We create symbols from literally everything, so we have no other way to understa
 
 APPLICATION: Don't fall for symbolic association enough that your ability to perceive the [facts](reality.md) of anything becomes clouded.
 
-Beyond [religious iconography](religion.md), everyone creates symbolic associations and patterns *somewhere*. These represent through [emotional associations](mind-feelings.md) to unspoken [subconscious](unknown.md) things, and [trigger](habits.md) at weird and [unpredictable](people-imagination.md) times.
+Beyond [religious iconography](religion.md), everyone creates symbolic associations and patterns *somewhere*. These represent through [emotional associations](mind-feelings.md) to unspoken [subconscious](unknown.md) things, and [trigger](habits.md) at weird and [unpredictable](mind-imagination.md) times.
 
 Most efforts to distort appearances are [designed](purpose.md) to rebuild the symbols to fit a different [story](stories-why.md), and it usually comes through a few possible methods:
 

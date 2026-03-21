@@ -5,7 +5,7 @@ The only cure to avoid bad systems starting is a [completely free market](money-
 
 At a certain point, though, a bad system will eventually emerge if they can amass enough alliances with other organizations, especially through pervasive [media](stories-storytellers.md) presence that [redirects the truth](people-image-distortion.md).
 
-APPLICATION: The greatness of a nation is its own [trend](people-trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](people-imagination.md) they're migrating their [culture](people-culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.
+APPLICATION: The greatness of a nation is its own [trend](people-trends.md), but eventually they try to make everyone around them adopt that trend. When that happens, they [imagine](mind-imagination.md) they're migrating their [culture](people-culture.md) across a vast domain, but they're also importing the cultures they're trying to influence at the same time. The byproduct of this is that the [quality](values-quality.md) that made them great becomes inferior relative to what it once was. Eventually, the entire culture becomes such a bad system that another culture will adopt the best parts and supersede it.
 
 Several situations can, however, prolong or enhance a monopoly's presence:
 
@@ -88,7 +88,7 @@ Depending on their [scope of power](politics-monopolies.md), both governments an
 
 APPLICATION: If anyone deems an organization as "too big to fail", the more accurate description is "so big it'll inevitably fail".
 
-Generally, large private organizations fall apart through public resentment that fosters a [trend](people-trends.md) that empowers the [risk-averse](safety.md) people in power to act (who tends to work within a government). Then, the void created by that government entity gives enough power for [risk-taking](socialrisk.md) private individuals to fill that void.
+Generally, large private organizations fall apart through public resentment that fosters a [trend](people-trends.md) that empowers the [risk-averse](safety.md) people in power to act (who tends to work within a government). Then, the void created by that government entity gives enough power for [risk-taking](entrepreneur-why.md) private individuals to fill that void.
 
 Government divisions of corporations never work well, though. The barriers to growing larger tend to create [corporatocracy](politics-systems.md) in that domain, and [legal definitions](people-rules.md) can be massaged over time by many [lawyers](legal-safety.md) to permit subversive tactics.
 
@@ -98,7 +98,7 @@ APPLICATION: Don't trust an organization as "bad" or "good" simply by their size
 
 APPLICATION: A political revolution is often a bad system, especially when run by [extremist groups](politics-leftism.md). This is because most [political systems](politics-conservativeliberal.md) are bad systems. They tend to blame the opposition more than [getting things done](results.md), and this will likely never change.
 
-Bad systems will always decay until they're brought down or rebuilt into something else through the inevitable deterioration and rebalancing of [trust](trust.md) by its members. However, people are happy to permit a slightly [evil](morality-evil.md) leader if that leader still serves the individuals' self-interests, and long-term leadership will create enough [precedent](habits.md) that everyone will feel [safe](safety.md) with the existing order, even if the leadership starts killing people.
+Bad systems will always decay until they're brought down or rebuilt into something else through the inevitable deterioration and rebalancing of [trust](mind-trust.md) by its members. However, people are happy to permit a slightly [evil](morality-evil.md) leader if that leader still serves the individuals' self-interests, and long-term leadership will create enough [precedent](habits.md) that everyone will feel [safe](safety.md) with the existing order, even if the leadership starts killing people.
 
 APPLICATION: Every large, bad system will eventually collapse. They will be replaced by another one of comparable [effectiveness](purpose.md). We must find [meaning](meaning.md) despite these perpetual, looming [threats](safety.md), which may or may not include directly confronting those systems, and might occasionally mean risking [dying](legacy.md) from it.
 

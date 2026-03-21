@@ -116,7 +116,7 @@ Consider bloodletting (i.e., donating blood) 1-4 times a month to get rid of exc
 
 ### Get active
 
-Dramatically improve your psychosomatic state by practicing 5 minutes of controlled breathing and [meditation](awareness.md) every morning.
+Dramatically improve your psychosomatic state by practicing 5 minutes of controlled breathing and [meditation](mind-awareness.md) every morning.
 
 Use a treadmill while doing other activities like reading or [the computer](computers.md).
 
@@ -152,7 +152,7 @@ One of the most important cures for chronic pain is to get moving.
 
 Often, our [past trauma](hardship-ptsd.md) can provoke us to constantly obsess about things subconsciously.
 
-- Work to build [awareness](awareness.md) of yourself and the things that [trigger](habits.md) any trauma.
+- Work to build [awareness](mind-awareness.md) of yourself and the things that [trigger](habits.md) any trauma.
 
 If you need to, *force* yourself to spend more time in silence or relaxation.
 

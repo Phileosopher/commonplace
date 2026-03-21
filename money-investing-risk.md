@@ -351,7 +351,7 @@ Nearly everyone who gives investing advice has something to gain when you take a
 
 For reliable investing thoughts, follow quants (quantitative analysts) who numerically follow market trends.
 
-- Keep in mind that they're simply crunching numbers, and [can't predict the future](people-imagination.md).
+- Keep in mind that they're simply crunching numbers, and [can't predict the future](mind-imagination.md).
 - However, most of them will *not* tell you their actual strategies, since they'd lose their competitive edge.
 
 Stick with what you know and are familiar with, *not* simply what someone recommends.

@@ -1,7 +1,7 @@
 
 # The legacy we try to build
 
-Near the end of our [life cycles](maturity.md), we'll attempt [meaning](meaning.md) and [purpose](purpose.md) that can transcend [death](hardship-death.md). Given that death itself is utterly sudden, [unpredictable](people-imagination.md), and permanent, this is never easy.
+Near the end of our [life cycles](maturity.md), we'll attempt [meaning](meaning.md) and [purpose](purpose.md) that can transcend [death](hardship-death.md). Given that death itself is utterly sudden, [unpredictable](mind-imagination.md), and permanent, this is never easy.
 
 We typically want to [create](creations.md) something that transcends our existence. In a sense, it's an attempt to "live longer" by [being important](meaning.md) beyond when our body ceases to function.
 
@@ -35,7 +35,7 @@ APPLICATION: The primary reason that innovation in [scientific](science.md) and 
 
 ## Post-mortem
 
-Things often *do* live beyond ourselves, but not in the way we think they do. Our legacy won't travel into the future with the pure [essence](humanity.md) we may [expect](people-imagination.md):
+Things often *do* live beyond ourselves, but not in the way we think they do. Our legacy won't travel into the future with the pure [essence](humanity.md) we may [expect](mind-imagination.md):
 
 - We will [influence](influence.md) people, especially [younger](maturity.md) people, in ways that they'll find more [purpose](purpose.md) and [build](creations.md) bigger things. This is *their* [creation](creations.md) that was [influenced](influence.md) by ours, not ours alone.
 - Even if we could publicly encode *every* bit of information for others' benefit, time will distort and destroy the [truth](reality.md) that happened. Books get burned, websites go down, archives decompose, and it will all eventually become a cryptic dead [language](language.md) if it doesn't disappear.
@@ -69,4 +69,4 @@ Even if we could theoretically add something [meaningful](meaning.md) to the uni
 
 We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](https://theologos.site/gospel/) heavily steeped in [religious bias](religion.md).
 
-Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](mind-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](people-imagination.md) to the degree it affects the present.
+Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](mind-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](mind-imagination.md) to the degree it affects the present.

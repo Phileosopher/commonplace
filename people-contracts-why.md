@@ -3,13 +3,13 @@
 
 *NOTE: I'm not a lawyer. This simply explains business contracts in plain English. This is not legal advice.*
 
-When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](people-imagination.md) there will be future performance.
+When people are willing to comply with others' standards, they're engaging in a type of [agreement or contract](people-contracts.md). We trust the parties we agree with because we have either developed a [habit](habits.md) of trusting in the past (i.e., proof of prior performance), or because we have some reason to [imagine](mind-imagination.md) there will be future performance.
 
 *Everything* we do with others that isn't out of [love](people-love.md) is an agreement for one of our [purposes](purpose.md):
 
-- [Expectations](people-imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
+- [Expectations](mind-imagination.md) about what someone else is [capable of doing](results.md), either from [conditioning](habits.md), past [results](results.md), or [group favoritism](groups-member.md).
 - A [fear](mind-feelings-fear.md), driven by self-preservation, from witnessing someone else's [power](power.md) to harm them.
-- [Trust](trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
+- [Trust](mind-trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
 
 These agreements exist so we can feel safe about what others will do with us. In the absence of [evil](morality-evil.md), we wouldn't need them.
 
@@ -17,10 +17,10 @@ Each agreement works through a similar [story](stories-why.md):
 
 1. Initial engagement by at least one person [expressing interest](people-conversation.md) in a [purpose](purpose.md) connected with someone else. In a casual engagement, it's usually a slow transition, with both sides respecting what they [see](people-image-why.md) as the others' rights.
 2. Discussing a negotiation of terms, both implicit and explicit.
-3. The entire duration of the agreement, which can last for minutes to decades. Both sides usually can [feel](mind-feelings.md) how long they [expect](people-imagination.md) the agreement to last, even without anything formalized.
+3. The entire duration of the agreement, which can last for minutes to decades. Both sides usually can [feel](mind-feelings.md) how long they [expect](mind-imagination.md) the agreement to last, even without anything formalized.
 4. The agreement will terminate if it stops being useful to *both* sides, sometimes prematurely. If the side with more [power](power.md) still wants the agreement, they can often [coerce](influence.md) the other side to stay in that agreement. In this world, nobody usually cares about the side with less power, though there's plenty of [politics](politics-conservativeliberal.md) in discussing it.
 
-The negotiation often involves making promises based on boundaries set in the future (i.e., [expectations](people-imagination.md)). Even if we don't articulate those boundaries, we still hold them and expect others to respond at a later time.
+The negotiation often involves making promises based on boundaries set in the future (i.e., [expectations](mind-imagination.md)). Even if we don't articulate those boundaries, we still hold them and expect others to respond at a later time.
 
 The value we give to others in exchange for doing something (often represented as money) comes from a few variables:
 
@@ -33,12 +33,12 @@ The value we give to others in exchange for doing something (often represented a
 
 By using [language](language.md), we can make promises to clarify what we agree on. How well we honor those agreements has an *immense* impact on our [reputation](people-image-why.md).
 
-Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](people-trends.md). In the case of long-term partnerships, such as [entrepreneurship](socialrisk.md) or [marriage](gender.md), the relationship will [influence](influence.md) and be part of many [trends](people-trends.md) across its duration.
+Occasionally, these agreements become formal [rules](people-rules.md) if they outlast a few significantly impactful [trends](people-trends.md). In the case of long-term partnerships, such as [entrepreneurship](entrepreneur-why.md) or [marriage](people-gender.md), the relationship will [influence](influence.md) and be part of many [trends](people-trends.md) across its duration.
 
 The person or group who most wants to leave the engagement will transition through phases of distancing if they've found a better means to their [purpose](purpose.md):
 
 1. Pursuing different [interests](purpose.md) than the other.
-2. Performing different [actions](results.md) than the other's [expectations](people-imagination.md).
+2. Performing different [actions](results.md) than the other's [expectations](mind-imagination.md).
 3. Waiting indefinitely for the other party to engage in the inevitable looming [conflict](people-5_conflicts.md), and often intentionally avoiding them to prevent it.
 4. Officially confronting the tension and terminating the shared experience.
 
@@ -52,7 +52,7 @@ When a person acts, they are only performing any form of sacrifice from 3 possib
 
 1. Generosity, which is typically driven by [love](people-love.md) or [moral duty](morality.md).
 2. [Habit](habits.md), typically without thinking about it.
-3. Some form of [belief](understanding-certainty.md) or [expectation](people-imagination.md) about a return on that sacrifice, which is a "contract".
+3. Some form of [belief](understanding-certainty.md) or [expectation](mind-imagination.md) about a return on that sacrifice, which is a "contract".
 
 Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](relationships-marriage-secularcontract.md) and [religious arrangements](god-contracts.md) are a type of contract.
 
@@ -213,7 +213,7 @@ While lawyers don't concern themselves as much with the [economics](money-econom
 4. Expertise fee, which covers the specialized skills they wouldn't be able to perform.
 5. Black market or legal fee, which comes through scarcity from [legal constraints](legal-safety.md).
 
-By implication, most contracts are performed in "good faith", where there's [mutual trust](trust.md) that the other party will try to create advantageous [results](results.md) for the other. Without that trust, there's no contract.
+By implication, most contracts are performed in "good faith", where there's [mutual trust](mind-trust.md) that the other party will try to create advantageous [results](results.md) for the other. Without that trust, there's no contract.
 
 Unfortunately, clarifying whether someone was consenting freely without undue influence or misrepresented facts can be *very* difficult later, which is another major duty for lawyers to wrestle with it.
 

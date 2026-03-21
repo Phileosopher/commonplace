@@ -48,7 +48,7 @@ Conclusion:
    - This is demonstrated by a goat sacrifice versus a bull.
    - This is often missed in modern Christian culture.
 4. A common person is given more grace.
-   - The aspect of a female indicates the "feminine" qualities represented by those who follow (i.e., dominance hierarchy mindset of this world with respect to [gender associations](gender.md)).
+   - The aspect of a female indicates the "feminine" qualities represented by those who follow (i.e., dominance hierarchy mindset of this world with respect to [gender associations](people-gender.md)).
    - The accommodation of a sheep instead of a goat indicates His willingness to work with us when we're really not able to meet a stringent demand (e.g., [financial difficulty](hardship-poverty.md)).
 
 ## 25:8-13

@@ -7,7 +7,7 @@ Curse of knowledge/curse of expertise - we're unaware other people don't have th
 
 Enemy mine - we assume 2 beliefs that share their dislike for a 3rd one must be compatible
 
-Gender bias - we assume [genders](gender.md) automatically can or can't do certain things
+Gender bias - we assume [genders](people-gender.md) automatically can or can't do certain things
 
 Group attribution error - we assume either one group member represents [the entire group](groups-member.md), or the group's decision reflects each individual's beliefs
 

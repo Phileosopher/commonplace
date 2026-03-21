@@ -16,7 +16,7 @@ This explains many things, such as skin color, speciation, and even aspects of [
 However, there are some unspoken implications of natural selection.
 
 - The entire mechanism is built upon [death](hardship-death.md), since the absence of death would mean there'd be no "selection", and it would simply be reproduction in proportion to fertility and availability.
-- The environment itself changes due to natural selection in unforeseeable ways, so it is absolutely impossible to [predict](people-imagination.md) what can happen from it.
+- The environment itself changes due to natural selection in unforeseeable ways, so it is absolutely impossible to [predict](mind-imagination.md) what can happen from it.
 
 ## Culture destroyer
 

@@ -117,7 +117,7 @@ Your mental state is just as important as your physical preparedness:
 2. Imagine what you will do in those situations, and how specific decisions may or may not work.
 3. After thinking deeply on the subject, find closure in *not* thinking about it anymore because you know what you need to do.
 4. [Train your body](body-exercise.md) in advance for the foreseen risks which may arise.
-5. If you're exposed to risks, breathe slowly to calm yourself and [maintain awareness](awareness.md).
+5. If you're exposed to risks, breathe slowly to calm yourself and [maintain awareness](mind-awareness.md).
 6. Assert what you know you're capable of to suppress the [fears](mind-feelings-fear.md) that arise, which may boil over into a physical yell.
 
 Plan for the worst likely event, and [forgive yourself](hardship-forgiveness.md) if something happens you had no control over.
@@ -174,7 +174,7 @@ Check out the [disaster checklist](hardship-disaster-checklist.md) for a complet
 
 ## Staying alert and connected
 
-Your ability to [creatively improvise](mind-creativity.md) and [stay aware of your surroundings](awareness.md) is the most important set of skills you'll need in the event of a disaster.
+Your ability to [creatively improvise](mind-creativity.md) and [stay aware of your surroundings](mind-awareness.md) is the most important set of skills you'll need in the event of a disaster.
 
 - To see things at a distance, look through a pinhole with your fingers.
 - See things in low-light situations by using your peripheral vision.

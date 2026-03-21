@@ -33,7 +33,7 @@ The concept of money would be gone. Since nobody would care to stockpile [power]
 
 Groups would converge *strictly* for clear [purposes](purpose.md). As people started [specializing](jobs-specialization.md), the lack of political battles would mean a significant segment of the group would simply break off any time a divergent task was needed. No group, therefore, would ever surpass about [150 people](groups-large.md) before splitting.
 
-Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](people-imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md) and it wouldn't take hold.
+Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](mind-imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md) and it wouldn't take hold.
 
 The [cultures](people-culture.md) of *all* people groups in a perfect society would be within a specific range:
 
@@ -43,7 +43,7 @@ The [cultures](people-culture.md) of *all* people groups in a perfect society wo
 - Masculinity/Femininity - Everyone would be as results-oriented or harmony-oriented as they wanted. However, everyone would *also* patiently endure others' different approach to tasks. Men would be compassionate toward women, women would respect men.
 - Power Distance - Every single group would have zero power distance. While everyone would respect each other's unique abilities and strengths, nobody would be considered "lesser" simply by having less power or authority.
 - Time Flexibility - There'd be a broad range based on the urgency of the tasks to be performed, but people would generally be patient for everything.
-- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](mind-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](people-imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
+- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](mind-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](mind-imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
 - Principles/Applications - We'd see the full range of principles versus implementations.
 - Uncertainty Avoidance - Everyone, by knowing everyone else loved them, would be significantly more comfortable with [uncertainty](understanding-certainty.md) than we are today. However, some people would still accept the [unknown](unknown.md) more than others.
 
@@ -51,7 +51,7 @@ Since they wouldn't have to deal with others pushing in crowds or byproducts of 
 
 The implications of this culture would mean that young people will respect their elders' superior experience, and elders will consider the value of new [trends](people-trends.md). Thus, everyone would adopt better trends that added more value (because the [young](maturity.md) heeded the old), and more quickly (because the old considered the young).
 
-Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](people-trends.md) to transform the host group as they observe the stranger.
+Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](mind-trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](people-trends.md) to transform the host group as they observe the stranger.
 
 Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories-why.md) of other cultures and places, with their ideas representing as [new trends](people-trends.md) among those cultures.
 
@@ -75,7 +75,7 @@ We'd see most of the same [specializations](jobs-specialization.md) as [engineer
 
 - [Money](money-1_why.md)-based services, such as gambling and [stock trading](money-investing.md), wouldn't exist.
 - Since people would rarely break the [law](people-rules.md), law enforcement and lawyers, as well as paramilitary groups, wouldn't be *nearly* as necessary.
-- [Trust-based](trust.md) services like security guards and cybersecurity wouldn't be necessary because everyone would generally [respect](people-boundaries-why.md) each other's property.
+- [Trust-based](mind-trust.md) services like security guards and cybersecurity wouldn't be necessary because everyone would generally [respect](people-boundaries-why.md) each other's property.
 
 There'd be no [power](power.md) games to gain more work, since the [purpose](purpose.md) would be strictly out of [love](people-love.md) for everyone else, and people would simply [adapt](people-changes.md) to the shortage of available work.
 
@@ -105,7 +105,7 @@ We'd make creations individually for people. While we'd scale them for others, w
 
 In our society, we frequently must trade elegance for speed: ugly and fast versus good and slow. Since everyone will be more patient out of love, nobody will rush anyone, and it'd *all* be [elegant](values-quality.md).
 
-[Risks](socialrisk.md) would be easier to take as well. The entire community would be behind them, and that person would give credit in turn. Thus, the rocket scientist would have the support of the farmer, and everyone in the group would receive the praise.
+[Risks](entrepreneur-why.md) would be easier to take as well. The entire community would be behind them, and that person would give credit in turn. Thus, the rocket scientist would have the support of the farmer, and everyone in the group would receive the praise.
 
 Everyone would work their job with the [understanding](understanding.md) that it may change someday. They'd also not be [afraid](mind-feelings-fear.md) of survival exclusively through doing that role. They'd always be ready to delegate their role or stop it as the situation changes.
 

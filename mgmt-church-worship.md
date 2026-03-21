@@ -94,7 +94,7 @@ Most churches assemble as a hierarchy:
 
 However, the Bible itself only refers to appointing "elders" and "deacons".
 
-- In other words, there's not much regarding the hierarchy of [trust](trust.md) beyond whether someone is fit to [lead](spiritual-discipleship.md).
+- In other words, there's not much regarding the hierarchy of [trust](mind-trust.md) beyond whether someone is fit to [lead](spiritual-discipleship.md).
 - The greatest spiritual leader will have [endured persecution](hardship-persecution-church.md) in Jesus' name.
 
 #### Organizational crisis
@@ -104,7 +104,7 @@ Stay *very* vigilant of any burnout or overwork in the leadership.
 There are several things together that make church leadership understaffed:
 
 1. Many members are complacent.
-2. Many incumbent leaders have [trust issues](trust.md), especially when they're [NPD](mind-neurodivergence-clusterb-narcissist.md).
+2. Many incumbent leaders have [trust issues](mind-trust.md), especially when they're [NPD](mind-neurodivergence-clusterb-narcissist.md).
 3. Church donations aren't always sufficient to hire people a substantial full-time wage for tasks they perform.
 
 Watch for warning signs:

@@ -16,7 +16,7 @@ Accommodate yourself to prevent travel insomnia:
 - To avoid upsetting the stomach, eat a low-carb, light dinner that isn't spicy or fatty.
 - To avoid thinking about the near future, pack and plan for the next day and put away all electronics.
 - Take a hot bath to relax.
-- [Meditate](awareness-meditation.md) and breathe deeply.
+- [Meditate](mind-awareness-meditation.md) and breathe deeply.
 
 If you're only traveling for a day or two, keep your sleep pattern in your home time zone.
 

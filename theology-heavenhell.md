@@ -117,7 +117,7 @@ There would be sexual immorality, and that would be even further sources of viol
 
 This wouldn't be a dominance hierarchy of demons overseeing tormented human souls: this would be all forms of souls great and small in an endless churning power struggle, each one fighting to climb the ranks while they were simultaneously being destroyed by others. Demons and humans alike would be incessantly vying for power, with nobody winning for more than a few moments.
 
-Some people would allege to be leaders, and would use whatever excuse they had to persist in their evil. That allegation wouldn't matter, though: nobody would [trust](trust.md) anyone else.
+Some people would allege to be leaders, and would use whatever excuse they had to persist in their evil. That allegation wouldn't matter, though: nobody would [trust](mind-trust.md) anyone else.
 
 Any attempt to build a [technology](technology.md) would be destroyed almost instantly, and the only lasting technology would be military in implementation. However, since nobody died, it would only serve as a deterrent.
 

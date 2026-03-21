@@ -39,13 +39,13 @@ Have you examined [your feelings](mind-feelings.md)?
 
 ## Daily Spiritual
 
-What new thing are you [aware](awareness.md) of about yourself?
+What new thing are you [aware](mind-awareness.md) of about yourself?
 
 Have you [prayed](spiritual-exercises-prayer.md) and read your [Bible](theology-bible.md)?
 
 How have you improved someone else's life?
 
-Have you [meditated](awareness-meditation.md)?
+Have you [meditated](mind-awareness-meditation.md)?
 
 ## Daily Social
 

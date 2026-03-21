@@ -46,7 +46,7 @@ Subtly sidestep if you make an unpopular decision (like avoiding [alcohol](fun-a
 Manage others' insults gracefully:
 
 - Don't react to the insult.
-  - If they're correct, you have something to change, and should learn more [self-awareness](awareness.md), and even more if they're a stranger.
+  - If they're correct, you have something to change, and should learn more [self-awareness](mind-awareness.md), and even more if they're a stranger.
   - If they're incorrect, they obviously don't know who you are, so have no authority to speak about it.
   - When you respect the person who insulted you, take the experience as an opportunity to [grow](success-2_attitude.md).
   - If you *don't* respect the person who insulted you, consider that a relief: you're not the right kind of person for them to respect.

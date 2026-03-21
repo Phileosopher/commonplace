@@ -178,6 +178,8 @@ Legal certainty - a law must allow people to make decisions to regulate themselv
 
 Legal rights doctrine - some rights are granted by governments, contrasts with natural rights doctrine
 
+Lex talionis (eye for an eye) - a punishment should be proportional to the crime it responds to
+
 Land tenure doctrine - land owned by an individual is possessed by someone who "holds" the land due to an agreement (i.e., feudalism)
 
 Male captus, bene detentus - Latin for "wrongfully captured, properly detained", a person may have been wrongfully or unfairly arrested, but it won't affect whether that person's trial can be fair

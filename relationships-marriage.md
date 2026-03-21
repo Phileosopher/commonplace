@@ -95,7 +95,7 @@ Protect yourself sexually:
   - Only have sex with someone you're fully certain you'll be with for the rest of your life (i.e., marriage for life).
 - Even when you're desperate, sex with strangers is never worth the emotional pain, risks of venereal disease, and risks of an unwanted pregnancy.
 
-Contrary to what anyone ever says, men and women are [distinctly different](gender.md).
+Contrary to what anyone ever says, men and women are [distinctly different](people-gender.md).
 
 - All of these differences make [marital conflicts](relationships-marriage-conflicts.md) a *very* dramatic experience.
 
@@ -146,7 +146,7 @@ By living together, conflicts intensify:
   - Buying gifts, [sending letters](language-writing.md), arranging social activities
   - [Automotive maintenance and repairs](autos.md) and [home renovations](home-decorations.md)
 - Designate specific household tasks to the one who finds it least unpleasant.
-  - Traditional [gender roles](gender.md) are useful for assigning the many tasks for running a household, then reassigning based on each person's [personality](people-personality.md).
+  - Traditional [gender roles](people-gender.md) are useful for assigning the many tasks for running a household, then reassigning based on each person's [personality](people-personality.md).
   - Routinely revisit those designations, especially if a chore stays unfinished.
   - Make a "honey do list" for each other to complete.
 - Differences in religious, political, and philosophical have far-reaching effects on your relationship.
@@ -176,7 +176,7 @@ Your spouse will affect how you think:
 - Since you're sharing their life, your life experience slowly merges with theirs:
   - Triumphs and efforts
   - [Injuries and recoveries](hardship.md)
-  - [Emotional and mental world](people-imagination.md)
+  - [Emotional and mental world](mind-imagination.md)
   - [Purposes](purpose.md) and [legacy](legacy.md)
   - Future desires
 - All your shared experiences and changes mean you will talk and think similarly after decades of marriage.

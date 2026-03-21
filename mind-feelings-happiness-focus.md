@@ -3,7 +3,7 @@
 
 The ability to change how we see the future and past is a sign of mental wellness:
 
-- The past is a pile of incomplete [memories](mind-memory.md), and the future is simply our [imagination](people-imagination.md).
+- The past is a pile of incomplete [memories](mind-memory.md), and the future is simply our [imagination](mind-imagination.md).
 - Thus, we can't harm anything by bending how we see the future or past to our desires.
 - When we rewrite our past, it gives us greater control over how we see the future.
 
@@ -13,7 +13,7 @@ Optimism versus cynicism is the battle between [desire](purpose.md) and [fear](m
 
 We only maintain optimism by shifting our focus:
 
-- Ignore or invalidate bad things happening (eventually reduces [self-awareness](awareness.md))
+- Ignore or invalidate bad things happening (eventually reduces [self-awareness](mind-awareness.md))
 - Focus on positive things more than negative ones (easiest to form)
 - Finding good related to the bad (the hardest, but also most resilient)
 
@@ -179,7 +179,7 @@ Become more independent:
 
 Define your feelings better:
 
-- [Pay close attention](awareness.md) to when your feelings change.
+- [Pay close attention](mind-awareness.md) to when your feelings change.
 - *Precisely* specify to yourself how you feel.
 - Clarify how legitimately important your feelings *actually* are compared to the world around you.
 
@@ -213,7 +213,7 @@ Add meaningful hobbies:
 - Plan for play time within each day's schedule.
 - Do things you love.
 - Listen to music that either inspires you or gives you an emotional release.
-- [Meditate](awareness.md) for 10 minutes a day.
+- [Meditate](mind-awareness.md) for 10 minutes a day.
 - Read enriching, educational things for 10 minutes a day.
 - Find and seek beauty in ordinary things.
 

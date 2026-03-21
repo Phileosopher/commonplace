@@ -73,7 +73,7 @@ Assumption 2 - Going Concern/Continuity
   - Short-term vs. long-term liabilities
   - Capital and revenue expenditures
   - The changes in value of an asset (Capitalization, Depreciation, and Amortization)
-- Without it, there will be no means of [projecting](people-imagination.md) what to do in the farther future.
+- Without it, there will be no means of [projecting](mind-imagination.md) what to do in the farther future.
 
 Assumption 3 - Monetary Unit Principle
 
@@ -232,7 +232,7 @@ The statements could best be described by comparing the organization to a fruit-
 
 Typically, the reports are often bundled together into an Annual Report.
 
-- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](people-imagination.md).
+- Beyond the standard reports, they can include forecasts that try to [predict future financial periods](mind-imagination.md).
 
 Most [managerial](mgmt-1_why.md) accounting involves creating specialized reports to fit the needs of the people who influence a large company.
 

@@ -17,7 +17,7 @@ Maturity is mostly [intuition](mind-feelings.md). Like with all other intuition,
 
 APPLICATION: Younger people are more often exploited by [influential](influence.md) people who can [distort their image](people-image-distortion.md) to imply their [virtuousness](morality.md).
 
-One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](mind-decisions.md) they have made.
+One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](mind-awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](mind-decisions.md) they have made.
 
 As people mature, they become increasingly unaffected by their environment because they experience less [novelty](people-image-why.md) from their experiences. If they've gained enough wisdom, they won't react to how they [feel](mind-feelings.md) as much as to what they [know](understanding.md). Their increased [understanding](understanding.md) will mean most of their "soft skills" are usually better. They'll be more decisive with words, speak more intentionally, walk more elegantly, and manipulate objects more precisely.
 
@@ -25,9 +25,9 @@ While we may still control our decisions, we *don't* control 99.999% of our [env
 
 A product of that humility is a form of gratitude. With enough [understanding](understanding.md), people slowly come to realize how much other people established [order](unknown.md) in the past to permit people to currently confront chaotic things. Young people haven't experienced life before [technology](technology.md) or certain [liberties](morality-justice.md), so the simple fact that their inexperience impedes their ability to fully [understand](understanding.md) the effort it takes to simply maintain everything.
 
-Another quality of age is that we learn to be satisfied with less. This means we take less [social risk](socialrisk.md) as we age (since we're fine with less grandiose returns) and tend to be [happier](mind-feelings-happiness.md).
+Another quality of age is that we learn to be satisfied with less. This means we take less [social risk](entrepreneur-why.md) as we age (since we're fine with less grandiose returns) and tend to be [happier](mind-feelings-happiness.md).
 
-APPLICATION: The [scope of risk](socialrisk.md) we take demonstrates how mature we are. The older we get, the more [precise and calculated](safety-riskmgmt.md) our risks will general become.
+APPLICATION: The [scope of risk](entrepreneur-why.md) we take demonstrates how mature we are. The older we get, the more [precise and calculated](safety-riskmgmt.md) our risks will general become.
 
 However, at the same time, aging also tends to provoke us to more risk-averse actions. While this may be healthy for some things (e.g., higher-quality [insurance](money-insurance.md) policies), it also means we miss out on genuinely [meaningful](meaning.md) [trends](people-trends.md).
 
@@ -41,11 +41,11 @@ APPLICATION: It's better to find [meaning](meaning.md) earlier in life when you 
 
 Concerned with mother over issues like feeding, receiving comfort, pain from teething, and sleeping.
 
-If [loved](people-love.md), we form a healthy degree of [hope](trust.md) and [determination to persevere](purpose.md).
+If [loved](people-love.md), we form a healthy degree of [hope](mind-trust.md) and [determination to persevere](purpose.md).
 
 When neglected, we'll instinctively draw away from others or have a poor understanding of [reality](reality.md).
 
-We require *massive* introspection to even budge the results of this stage later in life, and it determines most of our [trust issues](trust.md).
+We require *massive* introspection to even budge the results of this stage later in life, and it determines most of our [trust issues](mind-trust.md).
 
 ### Is it okay to be me? (~2-4 years old)
 
@@ -89,7 +89,7 @@ Most of our approach to everything in life is specified at this stage.
 
 ### Can I love? (~20-39 years old)
 
-Concerned with [lovers](gender.md), [friends](people-friends-why.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
+Concerned with [lovers](people-gender.md), [friends](people-friends-why.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
 
 Our physical peak usually takes place around our late 20s.
 
@@ -127,7 +127,7 @@ This stage determines how well we approach [death and mortality](mind-feelings-f
 
 Among the other prejudices we make when encountering people, we tend to gauge others' maturity. We treat someone who behaves below what we'd expect for their age as "immature", while we respect people we believe have attained a "mature" status.
 
-When we look at someone younger, we track their maturity by how we [imagine](people-imagination.md) we were at that age. Often, for someone older, we only consider them immature if they behave *worse* than how we behave at our present age observing them (e.g., a 25-year-old not realizing a 50-year-old is immature until they behave like an adolescent).
+When we look at someone younger, we track their maturity by how we [imagine](mind-imagination.md) we were at that age. Often, for someone older, we only consider them immature if they behave *worse* than how we behave at our present age observing them (e.g., a 25-year-old not realizing a 50-year-old is immature until they behave like an adolescent).
 
 APPLICATION: Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war-why.md) for the younger generation. At that point, the older generation will either feel [shame](mind-feelings-shame.md) or arrogance, depending on how they [internalized the story](stories-why.md).
 
@@ -144,7 +144,7 @@ Frequently, under severe [conflicts](people-conflicts-why.md) or [hardship](hard
 We also tend to judge [time](standards-datetime.md) differently as we age.
 
 - When we're young, our experiences are new, and time moves slower. As we experience more life, time moves faster, and we all inevitably experience *years* with the same speed as we had seen weeks or months.
-- When we [imagine](people-imagination.md) what we will do, we are far more scrupulous of our time use as it becomes more scarce.
+- When we [imagine](mind-imagination.md) what we will do, we are far more scrupulous of our time use as it becomes more scarce.
 
 APPLICATION: To make life seem longer, experience new things. Time will move slower as you experience them. However, a well-experienced life will still yield the same time compression after enough life experiences (since they all will eventually have some overlap).
 
@@ -155,7 +155,7 @@ The largest standard of maturity comes through a group granting status to a [mem
 While it varies by [culture](people-culture.md), a rite of passage is a transition from childhood to adulthood, and [represents](symbols.md) several things simultaneously:
 
 - That person had a [desire](purpose.md) to prove themselves and asserted their [actions](results.md) to that end by doing (probably) stupid things, and they've realized their limits upon the world at large.
-- That person has come to understand what they *can't* do and the right things to [trust](trust.md) for handling the situation.
+- That person has come to understand what they *can't* do and the right things to [trust](mind-trust.md) for handling the situation.
 - Their [group](groups-member.md) believes from that person's experience that they've [changed](people-changes.md) enough that they're now a junior member of society instead of a dependent child.
 
 Children are often destructive, needy, and have a poor [understanding](understanding.md) of [how to thrive](people-goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](people-identity.md) through contrasting their [decisions](mind-decisions.md) against how they were raised.
@@ -174,7 +174,7 @@ The people who never fulfill a rite of passage will always represent a lower sta
 In the absence of a clear rite of passage, most children end up persisting in a dead-end lifestyle until they find their path:
 
 - Working a miserable, low-wage job
-- Having trouble finding an [identity](people-identity.md), including with [gender](gender.md)
+- Having trouble finding an [identity](people-identity.md), including with [gender](people-gender.md)
 - Pursuing a career path that fails miserably
 - Getting fired [unfairly](morality-justice.md), potentially repeatedly
 - [Conflicts](people-conflicts-why.md) with [law enforcement](people-rules.md)
@@ -192,7 +192,7 @@ As someone keeps experiencing life and starts finding their ideal approach, they
 
 APPLICATION: Older people are considered an "institution", so everyone expects different things for them than if they were "normal people", and they always have a [myth](stories-myths.md) surrounding their existence:
 
-- When they [think or believe](values.md) something, it makes sense to those around them because younger people intuitively see them as [predictable](people-imagination.md).
+- When they [think or believe](values.md) something, it makes sense to those around them because younger people intuitively see them as [predictable](mind-imagination.md).
 - If they're [creating](creations.md) something, people assume they had comparatively more time to work on it, so it's only natural they'd make it.
 
 As a person gains experience, they will typically start fading in strength. By the time someone is middle-aged, they're still growing in wisdom but are fading from their peak ability to perform, and growing old means *all* aptitude will start to fade.

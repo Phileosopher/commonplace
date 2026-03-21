@@ -46,6 +46,7 @@ The *exact* nature of these domains is at least somewhat expressed via Christian
   - Most Protestants demarcate body and soul, but some of them conflate the spirit with the soul.
   - As an official stance, Roman Catholicism holds a relatively vague view on the domains of the soul.
   - Eastern Orthodoxy groups us as "nous"/soul, word, and spirit, which has layers of nous/word/spirit inside each domain as well.
+- We can group the three based on a clear division
 - Technically, fully understanding our souls or spirits isn't worth the effort, since we will only see everything dimly in this life.
   - [1 Corinthians 13:12](https://www.biblehub.com/1_corinthians/13-12.htm)
 - The domains of the soul become relatively clear for each person as they develop their [identity in Christ](people-identity.md).
@@ -69,7 +70,7 @@ B. Reproduction - copulation for the purpose of [carrying one's essence onward](
 
 C. Defense - [protection](safety-riskmgmt.md) from bad things:
 
-- When perverted, the interests of self-preservation advance to [destroying others](people-conflicts-war-why.md), sometimes merely from anticipation of what we [imagine](people-imagination.md) they *could* do.
+- When perverted, the interests of self-preservation advance to [destroying others](people-conflicts-war-why.md), sometimes merely from anticipation of what we [imagine](mind-imagination.md) they *could* do.
 
 We can be [scientifically precise](science.md) about all aspects of the body's functions, including the brain.
 
@@ -106,7 +107,7 @@ The soul is also known as "sentience", and is the part of us that give us [power
 
 - It's a hybrid existence between the body and spirit, and is uniquely separate from all other living beings.
   - Our souls aren't really "natural" like the body because they're non-[habitual](habits.md), but aren't "spiritual" because they don't directly interact with God.
-  - Our souls contain all our non-spiritual [meditation](awareness-meditation.md) and [decision-making](mind-decisions.md), and we're able to [logically](logic.md) weigh and process information from experiences along with emotional stimuli that influence a [value system](values.md).
+  - Our souls contain all our non-spiritual [meditation](mind-awareness-meditation.md) and [decision-making](mind-decisions.md), and we're able to [logically](logic.md) weigh and process information from experiences along with emotional stimuli that influence a [value system](values.md).
 - Our souls are where our [inner conflicts](people-conflicts-inner.md) take place.
 - While many [sins](theology-sins.md) express as habits within the body, the soul is necessary for crafting any sins that aren't immediate gratification.
 
@@ -125,7 +126,7 @@ A. Emotions are [feelings](mind-feelings.md) that detect experiences from our bo
   - [Colossians 3:5](https://biblehub.com/colossians/3-5.htm)
 - While the body's feelings are the domain of hormonal triggers in the brain, the emotions can be deduced as the domain of feelings that can't be scientifically measured.
 
-B. Mind is our capacity to [understand](understanding.md) via [imagining](people-imagination.md) and [remembering](mind-memory.md) toward a defined [purpose](purpose.md) (though there's *much* more to [how it works](https://gainedin.site/layers/)).
+B. Mind is our capacity to [understand](understanding.md) via [imagining](mind-imagination.md) and [remembering](mind-memory.md) toward a defined [purpose](purpose.md) (though there's *much* more to [how it works](https://gainedin.site/layers/)).
 
 - He created us to [understand](understanding.md) and [internalize](bible-study.md) His word, His [plans](god-will.md), and recognize His [power](power.md).
 - Without any spiritual direction, we'll dwell on something that affects the [quality](values-quality.md) of our [lives](people-goodlife.md), which can cause most of our [sins](theology-sins.md) if we're not careful.
@@ -157,7 +158,7 @@ The soul itself is infinite.
   - [Revelation 21:8](https://biblehub.com/revelation/21-8.htm)
   - [2 Thessalonians 1:6-10](https://biblehub.com/2_thessalonians/1.htm)
 
-Generally, [meditation and release](awareness-meditation.md) come through separating our mind and will far enough that our spirit and body can send signals to us.
+Generally, [meditation and release](mind-awareness-meditation.md) come through separating our mind and will far enough that our spirit and body can send signals to us.
 
 ## The Spirit
 
@@ -169,7 +170,7 @@ The spirit is close to, but distinct from, the soul.
 - The spirit is how we connect with God, and He speaks through our spirit far more than our souls.
   - [Ephesians 1:17](https://biblehub.com/ephesians/1-17.htm)
 
-[Our fallen state](https://theologos.site/gospel/) makes our spirits dead or at least dormant, though Christ can revive them.
+[Our fallen state](https://theologos.site/gospel/) makes our spirits dead in some way, though Christ can absolutely revive them.
 
 - [Colossians 2:13](https://biblehub.com/colossians/2-13.htm)
 - The only way to accurately guess if someone has a reborn spirit (and therefore follows Jesus) is to observe their [decisions](mind-decisions.md) in their private life over a long time.
@@ -188,7 +189,7 @@ Mature Christians have internalized so much of [God's word](bible-study.md) that
   - [1 Corinthians 2:11](https://biblehub.com/1_corinthians/2-11.htm).
 - Even Jesus has a spirit.
   - [Mark 2:8](https://biblehub.com/mark/2-8.htm)
-- Our spirits are how we attain [self-awareness](awareness.md)
+- Our spirits are how we attain [self-awareness](mind-awareness.md)
   - [Proverbs 20:27](https://biblehub.com/proverbs/20-27.htm)
 - A spiritual person has a strong capacity for judgment, but only God judges them.
   - [1 Corinthians 2:15](https://biblehub.com/1_corinthians/2-15.htm)
@@ -247,7 +248,7 @@ Our bodies can only react, and anything that requires more elaborate thought or 
 Our body/soul distinction is relatively easy to identify, but observing the soul versus the spirit is *much* harder:
 
 - The soul is more easily distracted than the spirit, and tends to swerve into being too [rational](logic.md) or too [emotional](mind-feelings.md) for the time and place.
-- The soul desires [understanding](understanding.md), but the spirit desires to be [in the moment](awareness.md).
+- The soul desires [understanding](understanding.md), but the spirit desires to be [in the moment](mind-awareness.md).
 - Most of the soul's behaviors are impulsive, while the spirit's are more sustained and patient.
 - The soul is capable of being "weighed down" by various struggles, but the spirit can never be subdued (though it can be misled).
 - Our spirits have much more strength to accomplish without outside involvement than our souls (e.g., [spiritual gifts](spiritual-gifts.md)).
@@ -301,6 +302,6 @@ Some people have erroneously imagined that we must separate out the spirit or sp
 
 When our body is fatigued or suffering, or when our soul is distracted or overwhelmed, it will *definitely* affect our spirit.
 
-- Simple [awareness](awareness.md) of our bodily sensations and the thoughts passing through our mind is enough to improve our spirituality.
+- Simple [awareness](mind-awareness.md) of our bodily sensations and the thoughts passing through our mind is enough to improve our spirituality.
 
 No matter what, we must do *everything* in love if we really want to [follow God](https://theologos.site/devotion-chaos/).

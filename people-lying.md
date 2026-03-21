@@ -131,11 +131,11 @@ Frequent lying becomes habitual:
 Lying makes it difficult to trust:
 
 - When we lie, we imagine others are doing the same.
-- Over time, [distrust](trust.md) creates issues that honest people will avoid.
+- Over time, [distrust](mind-trust.md) creates issues that honest people will avoid.
 
 ## Detecting lies has risks
 
-Focusing on lies can make us have trouble [trusting](trust.md) people who deserve our trust.
+Focusing on lies can make us have trouble [trusting](mind-trust.md) people who deserve our trust.
 
 - It can also be difficult to conceal what you [feel](mind-feelings.md) about them.
 
@@ -157,7 +157,7 @@ Contrary to popular opinion, no single method detects lies:
 Note any changes in expression or body language:
 
 - You need the context of that person's [disposition](people-personality.md), so note their typical behavior without pressure as a "baseline".
-- Liars often self-implicate without meaning to, so learn to [be a great listener](language-speaking.md) and [closely observe](awareness.md).
+- Liars often self-implicate without meaning to, so learn to [be a great listener](language-speaking.md) and [closely observe](mind-awareness.md).
 - Ideas can be redefined by tone or emphasis, so note how they pronounce each word in their sentence.
 
 ### Body language

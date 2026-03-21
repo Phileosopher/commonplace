@@ -37,7 +37,7 @@ Any person, however, only becomes a victim of undue influence when several simul
 
 ## Power
 
-Most large groups use the [power of influence](influence.md) in some capacity, but cults use that influence and [trust](trust.md) toward *very* unhealthy [purposes](purpose.md):
+Most large groups use the [power of influence](influence.md) in some capacity, but cults use that influence and [trust](mind-trust.md) toward *very* unhealthy [purposes](purpose.md):
 
 - The leadership are selfish and direct most contributed resources toward their interests.
 - A leader is delusional toward believing they must follow directives that transcend mankind's judgment.
@@ -71,7 +71,7 @@ A cult proponent must be suggestible and malleable enough that they'll believe a
 Only a specific group of [personalities](people-personality.md) will *ever* [choose](mind-decisions.md) to join a cult:
 
 - Openness to Experience
-  - Low-enough Openness to simply [trust](trust.md) someone else for information.
+  - Low-enough Openness to simply [trust](mind-trust.md) someone else for information.
   - High-enough Openness to adopt new [trends](people-trends.md) foreign to their lifestyle.
   - Low-enough Intelligence to not ask questions that would make the leadership demonstrate they *don't* [understand](understanding.md) everything.
 - Conscientiousness doesn't really matter, though the cult will need to be *much* more consistent and complex with their rules proportional to that person's conscientiousness.
@@ -160,7 +160,7 @@ By the end, the person has been transformed into a perfect extension of the lead
 - The member is required to adopt a new [name](language.md) and [identity](people-identity.md).
 - Copious amounts of [jargon and cliché](language.md) statements that obstruct access to [understanding](understanding.md).
 - [Hypnosis](habits.md) that alters mental states, undermine conscious thought, and can even make members [regress in age](maturity.md):
-  - Denial, rationalization, justification, or [wishful](trust.md) thinking
+  - Denial, rationalization, justification, or [wishful](mind-trust.md) thinking
   - Chanting, mantras, and meditation
   - Praying, speaking in tongues, singing, or humming
 
@@ -278,4 +278,4 @@ Generally, they'll veer *hard* into the polar opposite extreme value system:
 The most powerful [influencers](stories-storytellers.md) to [bring down](people-conflicts-why.md) those cults are typically the people who have [integrated their shadow self](people-personality.md).
 
 - They must acknowledge they were partly responsible for submitting their [will](mind-decisions.md) to another person.
-- They *also* must acknowledge they were a victim of that leader exploiting their [trust](trust.md).
+- They *also* must acknowledge they were a victim of that leader exploiting their [trust](mind-trust.md).

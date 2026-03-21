@@ -41,7 +41,7 @@ Total time consumed for information
 
 There's a time and place for both, and slowly consuming information has tremendous advantages:
 
-1. You spend more time focusing and [meditating](awareness.md) on it, which builds a deeper attachment to other experiences.
+1. You spend more time focusing and [meditating](mind-awareness.md) on it, which builds a deeper attachment to other experiences.
 2. It took more time and effort to acquire that set of details, so discovering information is far more [rewarding](meaning.md).
 3. The lead time waiting for the next stage of the information's gathering/using/communication process means less misstatement and misunderstanding.
 4. Other people likely helped provide that information, which creates the primitives for building up [a community](groups-small.md).
@@ -55,7 +55,7 @@ The absolute *worst* thing to do with information is to half-mindlessly consume 
 *Anything* works if it slows down inputs long enough to more accurately process its relationship with the rest of our lives:
 
 - [Religious](religion.md) exercises
-- [Meditation](awareness.md), guided or otherwise
+- [Meditation](mind-awareness.md), guided or otherwise
 - More [small talk](language-speaking.md) in person with others about the information
 - My personal solution is to ["churn" the information repeatedly](https://stucky.tech/method/) until it becomes [a corpus of commonplacing](https://stucky.tech/creations/)
 
@@ -107,7 +107,7 @@ We consume because we're trying to stay informed about a few domains:
 
 These each require a different approach:
 
-1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](people-imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
+1. For large-scale events, we don't really need a lot of information. The fact that we hear about tons of *unimportant* news means we'll know quickly about wars, earthquakes, droughts, and other large-scale disasters even if we're not seeking for that information. They're also relatively impossible to [predict](mind-imagination.md), so we're sacrificing our [happiness](mind-feelings-happiness.md) in the process.
 2. Trends constantly cycle, and the newness of the trend determines how fast they move. We must stay trendy to the degree it's useful for making educated [decisions](mind-decisions.md).
 3. Following people should never be unpleasant unless those people could create risks that we [may have to manage](safety-riskmgmt.md). Therefore, the experience should be a hobby, unless those people are simply the conduit for trends.
 
@@ -177,7 +177,7 @@ Instead, we must all be slower in our speech in small ways:
 If you're recommending media to others, your journey will *not* be theirs:
 
 - You'll do a better job by [distilling the best parts for them](education.md), since people often don't have time or desire for reading or watching self-help, philosophy, or textbooks.
-- Keep your list very, very short and have a hidden extended list for the 2% who would care.
+- Keep your list very, very short and make an extended list for the 2% who would care.
 
 *All* of this requires a specific type of humility: that [nothing is truly new](people-trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
 
@@ -228,7 +228,7 @@ To that end, all the decent organization systems have a few built-in features:
 3. Permutations, divergences, and convergences of groups, as needed.
 4. A built-in "miscellaneous" section for any groups, as needed.
 
-However, this isn't [well-organized](organization.md) enough to combat the heavy piles of information presented to us, and we need a more direct assault. We are frequently [unaware](awareness.md) of our own philosophical precedents, so we incessantly presume the meanings of words without clearly understanding them.
+However, this isn't [well-organized](organization.md) enough to combat the heavy piles of information presented to us, and we need a more direct assault. We are frequently [unaware](mind-awareness.md) of our own philosophical precedents, so we incessantly presume the meanings of words without clearly understanding them.
 
 Clearly demarcating exclusive categories (where it can *only* be one or the other) forces us to confront cognitive dissonance:
 
@@ -355,7 +355,51 @@ Most information is a waste of time, but don't sift out *valuable* information:
 The entire end of this, after all, is to add [meaning](meaning.md) to life:
 
 - The absence of information allows us to manufacture high-quality [stories](stories-why.md).
-- Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](people-imagination.md).
+- Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](mind-imagination.md).
 - We need boredom to find [creativity](mind-creativity.md).
 
 Occasionally, it simply makes sense to release *all* of it and [have fun doing something else](fun.md) or [take a vacation](fun-vacations.md).
+
+## In summation
+
+The fixes can be distilled into a set of questions, which can be asked for every bit of experienced information:
+
+1. Am I consuming too much information?
+   - If so, turn off the valve for a while.
+2. Do I have too much information to consume?
+   - If there is, get rid of portions of the inbox.
+3. Am I learning fast enough with the information?
+   - If it's too slow, aim for better-quality consumption.
+4. Does my information add value to anyone else?
+   - If not, stop providing information for a while until your subconscious reloads.
+5. Have I sufficiently [organized](organization.md) my information?
+   - If not, turn off the valve, stop creating for a while, and get to organizing.
+6. Am I consuming cutting-edge stuff?
+   - If so, stick it on a calendar and consume it later.
+7. Am I fully certain of the bias of the information?
+   - If not, learn who made the content, and why.
+8. How do I plan to use this information?
+   - Use it, organize it, or shove it out of your workspace.
+9. Does anything else work?
+   - If it does, make it a principle.
+
+This information blast [trend](people-trends.md) will only slow down when two conditions happen at once:
+
+1. The [culture](people-culture.md) shifts to hate "junk" information, which requires them to at least somewhat agree on what's important.
+2. The culture normalizes [sifting out the bad information](information.md) and tuning it out, which involves them all being tech-savvy or novelty-resistant enough to *not* overconsume.
+
+The approach would start with a well-managed social media outlet, then work outward as the higher-quality content went viral. Or there'd be a civilization "reset" from a particularly ugly [political conflict](people-conflicts-war-why.md).
+
+Since this will likely not happen soon:
+
+1. Opt out.
+2. Unsubscribe.
+3. Avoid the endless wall of "feeds" by self-curating your streams.
+4. Limit RSS use.
+5. Limit podcasts.
+6. Make hard limits on your read and watch lists, or work hard to shave them down.
+7. Find security in a community, *not* in a system.
+8. If you're doing anything mindlessly involving consuming information, pay more attention to what you're doing.
+9. Try to only do important things with your life.
+
+In other words, move slowly when everyone else moves fast, and don't move at all if it's not worth your time.

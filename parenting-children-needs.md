@@ -98,7 +98,7 @@ Children need good mental habits:
   - Mindless rules can stifle creativity or understanding, so values are more important than rules.
   - While they can change behavior back-and-forth, character is more permanent.
   - Children have an easier time creating [habits](habits.md) than adults, but a *much* harder time breaking and changing them.
-- Teach them [awareness](awareness.md) of their feelings, thoughts, intuition, and current needs.
+- Teach them [awareness](mind-awareness.md) of their feelings, thoughts, intuition, and current needs.
   - Help them differentiate between themselves and others.
   - Provide context for those needs.
   - Teach them to think [critically](logic.md), objectively, and independently about their decisions.

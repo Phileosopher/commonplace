@@ -29,7 +29,7 @@ At any given time, the questions you're asking determine the kind of person you 
 Contrary to individuals, organizations' needs build through a reverse sequence:
 
 1. Launch Phase - An organization starts by needing at least one strong Thinker to consider many [unknown factors](unknown.md) the organization will crash against.
-2. Rapid Growth Phase - That Thinker will need a good Builder to [make those ideas happen](entrepreneur-1_why.md).
+2. Rapid Growth Phase - That Thinker will need a good Builder to [make those ideas happen](entrepreneur-1_what.md).
 3. Maturation Phase - The Thinker and Builder will need an Improver to make everything work better.
 4. Sustaining Phase - Everyone will need Producers to do exactly what they specify.
 
@@ -69,9 +69,9 @@ The model is focused more on member satisfaction than on productivity.
 
 The model considers the individuality of each stage of members' [feelings](mind-feelings.md):
 
-1. Anxiety - insufficient information to [visualize](people-imagination.md) the future.
+1. Anxiety - insufficient information to [visualize](mind-imagination.md) the future.
    - (Alternate) Complacency - complete apathy about the change, which can represent *anywhere* and at any time.
-2. Happiness - shared [hope](trust.md) and relief that the change may have positive consequences.
+2. Happiness - shared [hope](mind-trust.md) and relief that the change may have positive consequences.
    - (Alternate) Denial - refusing to believe a change is coming.
 3. [Fear](mind-feelings-fear.md) - [uncertainty](unknown.md) over the impact of the change.
    - (Secondary) Anger - directed frustration, typically toward others at first.
@@ -117,7 +117,7 @@ It uses 8 steps:
 
 1. Increase urgency.
 2. [Recruit a team](mgmt-3_teams.md) that will guide the change.
-3. Build out the [vision](people-imagination.md) for that change.
+3. Build out the [vision](mind-imagination.md) for that change.
 4. Communicate how much everyone will have to contribute.
 5. Help everyone to act.
 6. Do everything possible to finish tasks and projects quickly.

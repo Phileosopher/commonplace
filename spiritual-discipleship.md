@@ -111,7 +111,7 @@ Successful discipleship makes them partners in ministry, not subordinates ([Roma
 
 - They should [know](understanding.md) everything you know.
 - Delegate and release them to their projects ([Colossians 4:7-9](https://biblehub.com/colossians/4.htm), [Titus 1:4-13](https://biblehub.com/titus/1.htm), [1 Thessalonians 3:1-7](https://biblehub.com/1_thessalonians/3.htm)).
-- [Expect](people-imagination.md) them to disciple others in turn after you ([1 Timothy 4:12](https://biblehub.com/1_timothy/4-12.htm), [16](https://biblehub.com/1_timothy/4-16.htm), [2 Timothy 2:1-2](https://biblehub.com/2_timothy/2.htm)).
+- [Expect](mind-imagination.md) them to disciple others in turn after you ([1 Timothy 4:12](https://biblehub.com/1_timothy/4-12.htm), [16](https://biblehub.com/1_timothy/4-16.htm), [2 Timothy 2:1-2](https://biblehub.com/2_timothy/2.htm)).
 - They should eventually out-[succeed](success-1_why.md) you ([Genesis 37:9-11](https://biblehub.com/genesis/37.htm), [Deuteronomy 30:5](https://biblehub.com/deuteronomy/30-5.htm), [2 Corinthians 10:13](https://biblehub.com/2_corinthians/10-13.htm)).
 - They will never outgrow their need for [prayer](spiritual-exercises-prayer.md) ([Romans 1:17](https://biblehub.com/romans/1-17.htm), [2 Corinthians 3:18](https://biblehub.com/2_corinthians/3-18.htm), [2 Timothy 1:3](https://biblehub.com/2_timothy/1-3.htm), [1 Thessalonians 5:25](https://biblehub.com/1_thessalonians/5-25.htm), [2 Thessalonians 3:1](https://biblehub.com/2_thessalonians/3-1.htm), [Philemon 22](https://biblehub.com/philemon/1-22.htm)).
 

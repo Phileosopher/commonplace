@@ -5,7 +5,7 @@ Reality is the part of existence that, with the exception of delusion or decepti
 
 Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](understanding.md)* as reality).
 
-Compared to what we [imagine](people-imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
+Compared to what we [imagine](mind-imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
 
 Finding precise facts within reality is difficult. This is because the [purpose](purpose.md) we use to perceive and do something within reality will *profoundly* [define how we understand and perceive reality itself](people-image-why.md).
 
@@ -16,25 +16,25 @@ The mechanism of cause-and-effect exists in various forms beyond human perceptio
 1. Physical cause and effect (e.g., a ball rolling across the ground).
 2. An abstraction of the event (e.g., whatever is the same with all balls rolling across the ground).
 3. Contact of the thing with other things (e.g., a ball's relationship with the ground).
-4. [Imagination](people-imagination.md) of that thing (e.g., the mental activity when an individual perceives a ball rolling across the ground, along with any related thoughts linked to it).
+4. [Imagination](mind-imagination.md) of that thing (e.g., the mental activity when an individual perceives a ball rolling across the ground, along with any related thoughts linked to it).
 
 [Knowing the nature of reality has very limited practical use](philosophy.md) because it doesn't remove the practical components of [cause-and-effect](results.md). Even if we were in a simulation or dream of some sort, pain is still pain.
 
 ## Uncertain
 
-The trouble with reality is that it's *never* 100% certain. Instead, most things in reality are [likelihoods](math.md), which we then [trust](trust.md) are high enough that the gaps aren't worth focusing on.
+The trouble with reality is that it's *never* 100% certain. Instead, most things in reality are [likelihoods](math.md), which we then [trust](mind-trust.md) are high enough that the gaps aren't worth focusing on.
 
 Some intelligent, thoughtful people will fall into an existential froth over how we can't 100% [prove anything](understanding-certainty.md).
 
 In light of that uncertainty, there are [deductively](logic.md) only a few possibilities for ghow to act:
 
 1. Reality does exist irrespective of our beliefs, so existential uncertainty about it is silly.
-2. Everything doesn't exist and is some sort of illusion or fabrication. But, it's reliable enough to [predict](people-imagination.md) things somewhat accurately, so it's not worth worrying about.
+2. Everything doesn't exist and is some sort of illusion or fabrication. But, it's reliable enough to [predict](mind-imagination.md) things somewhat accurately, so it's not worth worrying about.
 3. Everything is unknowable, but we can't really know, so it's probably one of the two above and should be treated as silly or not worth worrying about.
 
 But, like knowing reality itself, it doesn't really matter because it doesn't remove the practical components for the sake of [making decisions](mind-decisions.md). It does, however, make it difficult for living above a day-to-day perspective.
 
-Since reality itself is filtered through our perception, we have trouble [imagining](people-imagination.md) reality without our thoughts tangled in it.
+Since reality itself is filtered through our perception, we have trouble [imagining](mind-imagination.md) reality without our thoughts tangled in it.
 
 One of the benefits of [religon](religion.md) is that it gives us a perceiver beyond ourselves. If God sees reality and maintains it, we don't have to perceive something to [prove to others](power-influence.md) that it's true.
 
@@ -53,7 +53,7 @@ We have sensations and experiences, but those aren't technically what we call "r
 - Scent is a cluster of molecules picked up by the nose, but we interpret the scent itself using [feelings](mind-feelings.md) and language.
 - Our nerve endings detect things we touch, but then we assign groupings to them, like "flat" or "sticky".
 
-[Time](standards-datetime.md) is particularly difficult to [understand](understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](people-imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](people-imagination.md)).
+[Time](standards-datetime.md) is particularly difficult to [understand](understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](mind-imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](mind-imagination.md)).
 
 Even without outward [evidence](science.md), some things exist because of the pure principle that our minds create them. A relationship between two people, for example, is simply a person's collection of memories, beliefs, and ideas about another person, with the other person having something resembling the same. If there were no minds, there'd be no relationships.
 
@@ -71,13 +71,13 @@ To find good facts, we require hefty amounts of [analysis](logic.md) to process 
 
 APPLICATION: No amount of [education](education.md) or [technology](technology.md) can offset the destruction of [understanding](understanding.md) from learning from the wrong sources.
 
-Our [story](stories-why.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
+Our [story](stories-why.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](mind-awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 
 APPLICATION: Believing things are [changing](people-trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
 
 While [post-modern philosophy](philosophy.md) denies it, there *are* [universal qualities within humanity](humanity-universals.md). The thing that's constantly changing is our perceptions, but by comparison, reality itself is quite unmoving. Even aspects of [aesthetic](values-quality.md), which are relative in their finer points, have absolutes in the general case according to how humans view things.
 
-APPLICATION: Test what you know against what you're told, and don't presume one thing is more correct until you've thoroughly examined it and can [trust](trust.md) the source.
+APPLICATION: Test what you know against what you're told, and don't presume one thing is more correct until you've thoroughly examined it and can [trust](mind-trust.md) the source.
 
 ## Details
 

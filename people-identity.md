@@ -3,10 +3,10 @@
 
 Unless we're merely trying to survive, we're always [purposing](purpose.md) ourselves toward a set of [values](values.md), and we call that collective pile our "identity".
 
-These values we identify with are an [image](people-image-why.md) we've [created](creations.md) through [self-observation](awareness.md) of our daily lives:
+These values we identify with are an [image](people-image-why.md) we've [created](creations.md) through [self-observation](mind-awareness.md) of our daily lives:
 
 - Pastimes, consumer goods, [trends](people-trends.md), and heroes.
-- [Physical things](reality.md) like [sexuality](gender.md), psychological diagnosis, race, or [social class](classes.md).
+- [Physical things](reality.md) like [sexuality](people-gender.md), psychological diagnosis, race, or [social class](classes.md).
 - [Friends](people-friends-why.md) and [social groups](groups-member.md).
 - Long-term [purposes](purpose.md) like [career](jobs-1_why.md), [family](people-family.md), and [legacy](legacy.md).
 - Raw [principles and concepts](values.md) or [understanding](understanding.md) of specific things.
@@ -37,11 +37,11 @@ Our childhood identities will combine to generate most of how we build our [pers
 
 We tend to distinguish ourselves as "special" compared to others. This may represent as a strong difference in [qualities](values.md), or it might be in how we [see things](people-image-why.md), or ways our beliefs are different from others'. Generally, though, more unites people than differentiates them.
 
-With enough time and [introspection](awareness.md), certain values will surface to reflect what we like to relate to.
+With enough time and [introspection](mind-awareness.md), certain values will surface to reflect what we like to relate to.
 
 APPLICATION: We tend to identify with ourselves in the present tense, as if "now" us is more the "self" than the version of us from ten years ago. In reality, the [difference](people-changes.md) between that person and now is only the product of all the [habits](habits.md), [decisions](mind-decisions.md), and [consequences](results.md) we've experienced since then. Those experiences are enough to give us more in common with our peers than our past self, and the future version of us will be the same.
 
-We tend to make subconscious [decisions](mind-decisions.md) that conform [reality](reality.md) to our identity, which hold tremendous [influence](influence.md) over our minds. Those decisions adapt our [expectations](people-imagination.md) about the future to forecast [past trauma](hardship-ptsd.md) revisiting or empower us to [succeed](success-1_why.md) through visualization.
+We tend to make subconscious [decisions](mind-decisions.md) that conform [reality](reality.md) to our identity, which hold tremendous [influence](influence.md) over our minds. Those decisions adapt our [expectations](mind-imagination.md) about the future to forecast [past trauma](hardship-ptsd.md) revisiting or empower us to [succeed](success-1_why.md) through visualization.
 
 The more we identify with things, the more we make *any* experience associated with those things personally associated (and therefore experience more [emotions](mind-feelings.md) about them).
 

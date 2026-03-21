@@ -60,7 +60,7 @@ However, there are [security issues](computers-cysec.md) with Git. Since it keep
 
 [GitHub](https://github.com/) came in 2008 as a public Git repository that also served as a type of [social media](networks-social.md), which pushed it into widespread adoption.
 
-While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_why.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](faang.md).
+While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](faang.md).
 
 Beyond being a form of social media, Github's most advantageous offering is GitHub Copilot, which scraped *all* the GitHub code to create an [AI-assisted model](computers-ai.md) to help with coding.
 

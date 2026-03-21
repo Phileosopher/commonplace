@@ -7,7 +7,7 @@ There are several domains of "law":
 2. Divine law - rules that can only come from [a deity](religion.md) directly and is the domain of [ethics](morality.md).
 3. Human law - the rules people make, which is the subject of this topic here.
 
-Everyone has [expectations](people-imagination.md) in a [group](groups-small.md), and most of a group's expectations are enforced by [cultural norms](people-boundaries.md):
+Everyone has [expectations](mind-imagination.md) in a [group](groups-small.md), and most of a group's expectations are enforced by [cultural norms](people-boundaries.md):
 
 1. Folkways are small actions that help streamline [routine](habits.md) social engagements.
 2. Mores imply the behavior is crossing or straddling a [moral](morality.md) issue.
@@ -59,13 +59,13 @@ Therefore, the best rule system has very few rules which are universally applied
 
 Since stated rules have no room for the nuances and [stories](stories-why.md) that accompany [reality](reality.md), they can be utterly [devastating](hardship-ptsd.md) to [outlier](people-trends.md) individuals in a group if the people in power don't employ a case-by-case judgment. In practice, the rules are the culture's likely [responses](mind-decisions.md) to events.
 
-Further, the rules must be maintained evenly. Detaining, impeding, or killing a person can provoke dramatic [distrust](trust.md) from that person's [family](people-family.md), [friends](people-friends-why.md), and bystanders about the leaders' [justice](morality-justice.md) if a technicality permits someone else to go free after performing a similar action:
+Further, the rules must be maintained evenly. Detaining, impeding, or killing a person can provoke dramatic [distrust](mind-trust.md) from that person's [family](people-family.md), [friends](people-friends-why.md), and bystanders about the leaders' [justice](morality-justice.md) if a technicality permits someone else to go free after performing a similar action:
 
 - Whether something happens on one side of a political boundary or precisely one mile away on the other side can lead to absurdly different [consequences](results.md).
 - A strict [age of majority without a rite of passage](maturity.md) to accompany it often distinguishes a few months' age between a 5-10 year prison sentence and a death penalty.
 - The only difference between murder and manslaughter/negligence is someone's [motive](purpose.md), which is often difficult to discern but severely defines the scope of criminal sentencing.
 
-Most rules imply a "precedent" to create consistency across time and [fashions](people-trends.md). Precedent is very [useful](purpose.md) because it empowers [trust](trust.md) through [tradition](habits.md), but avoids forcing complete uniformity within a [large group](groups-large.md) because it's already accommodated the range of [personalities](people-personality.md) from past historical events.
+Most rules imply a "precedent" to create consistency across time and [fashions](people-trends.md). Precedent is very [useful](purpose.md) because it empowers [trust](mind-trust.md) through [tradition](habits.md), but avoids forcing complete uniformity within a [large group](groups-large.md) because it's already accommodated the range of [personalities](people-personality.md) from past historical events.
 
 [Larger groups](groups-large.md) have more [power](power.md) to observe and regulate rules. Frequently, in a *massive* group with generally [moral](morality.md) rules, people are unaware the rules are purely man-made. In those cases, people may trust those rules more than their sense of [morality](morality.md).
 
@@ -82,7 +82,7 @@ The ability to make rules can be vast but, except for [selfish purposes](moralit
 All prominent authorities have competitors, so they're constantly fighting various [threats](safety.md) that may erode their power:
 
 - Subordinates may steal that power for themselves or subvert/divert the rules for their [purposes](purpose.md).
-- Others on the same power level may compete with them to command their power for themselves, especially if they've recently gained *more* power and [imagine](people-imagination.md) they could benefit from the [conflict](people-conflicts-war-why.md).
+- Others on the same power level may compete with them to command their power for themselves, especially if they've recently gained *more* power and [imagine](mind-imagination.md) they could benefit from the [conflict](people-conflicts-war-why.md).
 - Higher authorities may take away that power if they're displeased with how that person has [managed their power](mgmt-1_why.md).
 
 Power dynamics become more complicated because *other* groups often have tremendous power over authority figures:
@@ -100,7 +100,7 @@ If there is a hierarchy of power, it's almost guaranteed each tier will have the
 
 The exclusive [power](power.md) to make [rules over others](rules-methods.md) comes with the very legitimate risks of people in control who want to keep their power.
 
-Rules, when properly enforced, are *[supposed](people-imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
+Rules, when properly enforced, are *[supposed](mind-imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](mind-trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
 
 APPLICATION: There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
@@ -137,7 +137,7 @@ Without any rules *against* what they do, anyone in a position of [formalized po
 2. Let enough time pass where the rules are disregarded, but still codified.
 3. Once the system/organization has grown in power, start enforcing those rules under the [claim](people-image-why.md) of a greater moral good.
 4. Keep enforcing those rules to an increasingly greater extent, with an emphasis on stealing power from anyone who may be a potential threat to their power.
-5. Once the punishments for those violations become [standard practice](habits.md) by everyone's [expectations](people-imagination.md), then larger-scale actions (e.g., banning, exile, harsh sentencing, killing) become commonplace as well.
+5. Once the punishments for those violations become [standard practice](habits.md) by everyone's [expectations](mind-imagination.md), then larger-scale actions (e.g., banning, exile, harsh sentencing, killing) become commonplace as well.
 
 Generally, rules and their enforcement become more corrupt proportionally to [the size of the group](groups-large.md) those rules are placed in force over.
 
@@ -174,11 +174,11 @@ Almost any rule established in a group will work against the [purposes](purpose.
 
 Rules can never capture the subtlety of changing individuals' [wills](purpose.md), and only serve to externally deter or motivate people. If enough people are willing to sidestep the rule, that group now has a black [market](money-economics.md).
 
-APPLICATION: Following the rules is a mundane existence. It means you won't fail miserably, but also means you won't succeed overly much either. Most [success](success-1_why.md) in life involves knowing the time and place to [risk](socialrisk.md) breaking rules versus [following them](legal-safety.md).
+APPLICATION: Following the rules is a mundane existence. It means you won't fail miserably, but also means you won't succeed overly much either. Most [success](success-1_why.md) in life involves knowing the time and place to [risk](entrepreneur-why.md) breaking rules versus [following them](legal-safety.md).
 
 The authorities never have precisely enough [power](power.md) to completely stifle a black market, which would require changing human [desire](purpose.md) directly. Without something that violates [human rights](people-boundaries-why.md), the only option is to foster [love for each other](people-love.md) or completely legalize it with a modest tax.
 
-More rules become harder to enforce, but most rule-makers will make more rules when present rules aren't being honored. Eventually, everyone will be so preoccupied with following or subverting rules that they won't think about *why* those rules exist. In the long term, the rules will inhibit [healthy social risks](socialrisk.md).
+More rules become harder to enforce, but most rule-makers will make more rules when present rules aren't being honored. Eventually, everyone will be so preoccupied with following or subverting rules that they won't think about *why* those rules exist. In the long term, the rules will inhibit [healthy social risks](entrepreneur-why.md).
 
 ## Voting for rules
 
@@ -186,7 +186,7 @@ One of the most common forms of redistributing who makes the rules comes through
 
 However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories-why.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
-The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](mind-decisions.md) [power](power-types.md) to specific people that the majority [trusts](trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
+The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](mind-decisions.md) [power](power-types.md) to specific people that the majority [trusts](mind-trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
 
 APPLICATION: True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
 
@@ -235,7 +235,7 @@ However it happens, these badly revised rules change the precedent for the entir
 
 The only way to fix a bad set of rules (either poorly set or poorly enforced) is to trim down the rules to *far* fewer (ideally 10-30% of the original) and enforce them *far* more. This usually doesn't happen because of how much [power](power-types.md) many people with specific interests may lose.
 
-APPLICATION: Political interests make easily enforceable rules very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
+APPLICATION: Political interests make easily enforceable rules very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](entrepreneur-why.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
 
 APPLICATION: The economics of rule-making will eventually doom all civilizations from the inside-out:
 

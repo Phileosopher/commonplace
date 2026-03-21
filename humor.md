@@ -27,14 +27,14 @@ It can come through various forms:
 
 Humor is *highly* contextual for the simple reason that it requires an [emotional](mind-feelings.md) connection to something [familiar](understanding.md).
 
-Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](people-imagination.md) in every direction, *including* our expectations of the unknown or severe hardship.
+Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](mind-imagination.md) in every direction, *including* our expectations of the unknown or severe hardship.
 
 APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
 
 The mechanism to create humor requires a very specific skill of performing several tasks in sequence:
 
 1. Mentally assemble an [imaginary model](people-image-why.md) of the experience.
-2. Detect any discrepancies in all the [possible interpretations](understanding.md) of the experience. This particular step requires *severe* [awareness](awareness.md) that only comes through pushing past any [trauma](hardship-ptsd.md) or [fear](mind-feelings-fear.md).
+2. Detect any discrepancies in all the [possible interpretations](understanding.md) of the experience. This particular step requires *severe* [awareness](mind-awareness.md) that only comes through pushing past any [trauma](hardship-ptsd.md) or [fear](mind-feelings-fear.md).
 3. Remove any uninteresting perspectives from that set of experiences to only leave the discrepancies and their relationships.
 4. Add [artistic flair](mind-creativity.md) to those discrepancies to distort those relationships even further.
 
@@ -45,7 +45,7 @@ There are a few ways to stretch reality to make humor:
 - Farce makes [improbable](math.md) things probable by delivering the concept through a distorted form of [logic](logic.md). Adults behaving precisely like [children](maturity.md), for example, is a profound source of humor.
 - Hyperbole exaggerates [truth](reality.md) to the point of [emotional](mind-feelings.md) extremes, which includes body language ("pantomime").
 - Metaphor and puns create [symbolic](symbols.md) connections that create extra [meanings](values.md).
-- Like with magicians, re-framing and timing can exploit [expectations](people-imagination.md) to [fool](people-image-distortion.md) the audience into believing an implication.
+- Like with magicians, re-framing and timing can exploit [expectations](mind-imagination.md) to [fool](people-image-distortion.md) the audience into believing an implication.
 
 Most humor involves playing with details within [language](language.md):
 
@@ -54,12 +54,12 @@ Most humor involves playing with details within [language](language.md):
 - Removing details also adds a type of context that draws in from its environment (e.g., a response to "where did you go" being "I went to that place we went to one time.")
 - In professional comedy, these details are *both* added and removed at the same time (e.g., "My job involves doing labor at a perfectly legitimate business.")
 
-Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](people-imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](understanding.md) scales, most funny things become less funny.
+Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](mind-imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](understanding.md) scales, most funny things become less funny.
 
 Humor always has the same components that form into a [story](stories-why.md):
 
 1. A setup that builds up expectations, usually by imitating [reality](reality.md) somehow. It can be as simple as saying "a lawyer" or "a man walks into a bar". Typically, it's when a comedian walks on stage or when someone crouches a little in an "I'm going to hunt" pose.
-2. A drawn-out delivery. The more drawn-out, the more people are setting [expectations](people-imagination.md), at least until they get bored.
+2. A drawn-out delivery. The more drawn-out, the more people are setting [expectations](mind-imagination.md), at least until they get bored.
 3. A concluding punchline that violates the audience's expectations. It might be something spoken, a visual gag, or (in the case of an inversion) the *absence* of something expected.
 
 Every funny idea has at least two of six dimensions:

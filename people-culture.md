@@ -3,6 +3,8 @@
 
 Culture is a vague word, but can best define the broad things that [identify](people-identity.md) a [group](groups-large.md). These can include [arts](art.md), [beliefs](understanding-certainty.md), customs (group [habits](habits.md)), [subgroups](groups-small.md), and [thoughts](understanding.md).
 
+There are some clear indicators of [the present generational cultures](people-culture-present.md), defined largely by their relationship with [technology](technology.md).
+
 Despite our differences, people want approximately the [same abstracted things](humanity-universals.md) to find [meaning](meaning.md):
 
 - Live [safely](safety.md) from most [risks](safety-riskmgmt.md).
@@ -26,7 +28,7 @@ Social status in a culture is always a [biased](mind-bias.md) judgment, but it's
 
 Everyone *likes* to imagine they're open-minded, but are also dogmatic against what they [perceive](people-image-why.md) as [immoral](morality.md) things. More often, they're simply enforcing their culture's [rules](people-rules.md) than standing by any particular [principle or value system](values.md).
 
-A culture has value because it maintains a people group's [inherent trust](trust.md) of one another, which in turn affects their [overall happiness](people-goodlife.md).
+A culture has value because it maintains a people group's [inherent trust](mind-trust.md) of one another, which in turn affects their [overall happiness](people-goodlife.md).
 
 ## Divisions
 
@@ -103,7 +105,7 @@ APPLICATION: The timing of our experiences defines how well we receive a cultura
 
 ## Outsiders
 
-If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](results.md) they [expect](people-imagination.md), they'll experience "culture shock".
+If someone leaves a culture, they'll often hold to their old culture out of [habit](habits.md). But, when a familiar action doesn't create the [consequences](results.md) they [expect](mind-imagination.md), they'll experience "culture shock".
 
 Some well-established people in a formerly [powerful](power.md) culture will sometimes insist emphatically they stay with their old culture even when the rest of the people have moved on to new [fashions](people-trends.md). Those people end up staying permanent [outsiders](morality-taboo.md) and [laggards](people-trends.md) in their new culture, though there's a possibility they'll create a [counter-trend](people-trends.md) later.
 
@@ -111,7 +113,7 @@ Most people, especially [younger people](maturity.md), will naturally adapt to o
 
 Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](people-image-why.md) contains many profound [truths](understanding.md) that other cultures' hubris will overlook.
 
-Third-culture people are in key positions to frame [brand-new cultures of their own](socialrisk.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](people-changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
+Third-culture people are in key positions to frame [brand-new cultures of their own](entrepreneur-why.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](people-changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
 
 APPLICATION: If you want to be normal, find a culture that matches you. If you [are](people-family.md) (or [became](maturity.md)) a third-culture person, you'll only find normalcy and acceptance with other third-culture people.
 

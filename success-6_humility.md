@@ -84,12 +84,12 @@ D. Act on resolving the problem so it never happens again:
 Success is a lifelong journey across every conceivable subject:
 
 - Prolonged success comes through developing yourself physically, mentally, [spiritually](religion-answers.md), and socially.
-- Keep refreshing your [understanding](understanding.md) and [awareness](awareness.md).
+- Keep refreshing your [understanding](understanding.md) and [awareness](mind-awareness.md).
 - Self-management and learning never takes a day off.
 
 It's not uncommon to feel an existential crisis after succeeding:
 
-- If you've devoted your life to something, there's a good chance you didn't [imagine](people-imagination.md) life *after* that experience has fulfilled itself.
+- If you've devoted your life to something, there's a good chance you didn't [imagine](mind-imagination.md) life *after* that experience has fulfilled itself.
 - Give yourself time to [enjoy life and relax](fun.md), and you'll find a new [purpose](purpose.md) soon enough.
 - If you feel a deeper void that implies complete emptiness, you have a [worse problem](meaning.md) than *any* type of success can give you, and it's likely [spiritual](religion-answers.md).
 
@@ -190,7 +190,7 @@ No matter what you do, you'll never stop having a limited perspective:
 When you scale, you lose something in the process:
 
 - We find tremendous [meaning](meaning.md) when we accomplish tremendous things within a [limited budget](money-3_budget.md) and scarce resources.
-- Often, radical success eventually leads to larger-scale endeavors, which will force you to either decide to become [a manager](mgmt-1_why.md), a [teacher](education.md), or downgrade to try the entire experience again (such as [serial entrepreneurship](entrepreneur-1_why.md)).
+- Often, radical success eventually leads to larger-scale endeavors, which will force you to either decide to become [a manager](mgmt-1_why.md), a [teacher](education.md), or downgrade to try the entire experience again (such as [serial entrepreneurship](entrepreneur-1_what.md)).
 
 Understand when your investment has achieved its results:
 

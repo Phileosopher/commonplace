@@ -21,16 +21,16 @@ Most people must [understand](understanding.md) a trend to adopt it, so every su
 APPLICATION: Healthy [routines](habits.md) are upward trends:
 
 - General physical well-being [to the best of our ability](body-4_health.jpg) requires [eating well](body-diet.md), [sleeping enough](sleep.md), and resistance to [train ourselves](body-exercise.md).
-- Mental habits keep us [our minds sharp](mind-memory.md), [alert](awareness.md), and [curious](mind-creativity-how.md).
+- Mental habits keep us [our minds sharp](mind-memory.md), [alert](mind-awareness.md), and [curious](mind-creativity-how.md).
 - [Productivity](success-4_routine.md) is a pattern of expanding our means of creating [results](results.md), [growing](maturity.md), and [learning](education.md).
-- [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
+- [Overall satisfaction](mind-feelings-happiness.md) with our lives involves enhancing our [meaning](meaning.md), [awareness](mind-awareness.md), [productivity](success-4_routine.md), and [fun](fun.md).
 - [Stress management](mind-feelings-happiness-stress.md) is for the purpose of making better [decisions](mind-decisions.md).
 
 Almost everything we do that affects others is influenced by a [group's](groups-small.md) standards, and those standards are mostly previous trends that have reached maturity. With the possible exception of [technology](technology.md), *everything* is simply a [remix](mind-creativity.md) of a previous trend.
 
-Trends are the application of [creativity](mind-creativity.md) and [habits](habits.md) across people, and there's plenty to profit by knowing them in advance. However, they're incessantly [unpredictable](people-imagination.md) and messy to *precisely* predict, so it's only useful to gauge with [intuition](mind-feelings.md).
+Trends are the application of [creativity](mind-creativity.md) and [habits](habits.md) across people, and there's plenty to profit by knowing them in advance. However, they're incessantly [unpredictable](mind-imagination.md) and messy to *precisely* predict, so it's only useful to gauge with [intuition](mind-feelings.md).
 
-The [purpose](purpose.md) for a trend proliferating ignores [what others may think](people-imagination.md) at first, but as it trend matures everyone brings a variety of [creative](mind-creativity.md) approaches, and the purpose for adopting the trend mutates as increasingly more people get involved in it. The speed of the trend's movement is based on how fast people will accept it, which is based on how much people [feel](mind-feelings.md) satisfied that they fulfilled their purposes.
+The [purpose](purpose.md) for a trend proliferating ignores [what others may think](mind-imagination.md) at first, but as it trend matures everyone brings a variety of [creative](mind-creativity.md) approaches, and the purpose for adopting the trend mutates as increasingly more people get involved in it. The speed of the trend's movement is based on how fast people will accept it, which is based on how much people [feel](mind-feelings.md) satisfied that they fulfilled their purposes.
 
 No matter what, [every trend goes through a predictable set of stages](people-trends-stages.md), and broadly connects with the Gartner Hype Cycle.
 
@@ -43,21 +43,25 @@ Every trend's cycle, if spread across more than a few years, travels through a f
 3. Romanticized - After the meta-trend reaches maturity, it will dovetail with many other trends and blossom new remixes. The Romantic Era of the meta-trend will be defined by explorations into whatever people [feel](mind-feelings.md) the strongest. Most of that meta-trend's future stereotypes and silly oversimplifications come from this era.
 4. Deconstruction - The meta-trend will devolve into a type of Post-Modern Era. Its [creative](mind-creativity.md) output will be self-referential and critical of itself. Most of the [leadership's](groups-large.md) efforts will maintain their fading control and hold onto whatever [power](power.md) is left in the movement. That leadership will also imagine the meta-trend can last forever (often from misunderstanding everyone's responses), and the stage will be set for a new meta-trend to carry the spirit of whatever the meta-trend's Prototype stage once had.
 
+After a trend has come and left, it will eventually revisit again in a different form, which creates a cycle or rhythm.
+
+APPLICATION: Across enough time, everything will repeat, and there is nothing new under the sun.
+
 ## The timing of a trend
 
-When we [predict](people-imagination.md) trends, we're relatively reliable at guessing *what* trends will come, but are awful at predicting timing, even with robust [analysis](logic.md).
+When we [predict](mind-imagination.md) trends, we're relatively reliable at guessing *what* trends will come, but are awful at predicting timing, even with robust [analysis](logic.md).
 
-Each trend consists of sub-trends that can spin off on their own (all of them drilling down to each individual's [understanding](understanding.md) and [inner conflicts](people-conflicts-inner.md)), so we can only [look ahead](people-imagination.md) a few months at the most before every model becomes useless.
+Each trend consists of sub-trends that can spin off on their own (all of them drilling down to each individual's [understanding](understanding.md) and [inner conflicts](people-conflicts-inner.md)), so we can only [look ahead](mind-imagination.md) a few months at the most before every model becomes useless.
 
-A trend is a series of many [stories](stories-why.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](people-imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
+A trend is a series of many [stories](stories-why.md) playing out, so we can only reliably see a short-term trend, and can only somewhat reliably [guess](mind-imagination.md) the long-term. So, we usually [understand](understanding.md) enough to see something coming, but don't know where to position ourselves to [profit](power.md) the most from it.
 
-APPLICATION: Be careful who you [trust](trust.md) and swear [loyalty](people-image-why.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](socialrisk.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
+APPLICATION: Be careful who you [trust](mind-trust.md) and swear [loyalty](people-image-why.md) toward. Often, following trends can get you in [trouble](people-rules.md) with your [group](groups-member.md). It's far better to take a [social risk](entrepreneur-why.md) *outside* a group (and [possibly form a new one](groups-small.md)) than let that group prematurely destroy you.
 
 The only way we'd be able to reliably predict the timing of a trend would be to [understanding](understanding.md) all the trends and [technology](technology.md) that haven't happened yet in between where we are and what we envision. We'd also have to consider all major factors that could tweak the trend's adoption ([example here](https://ncase.me/attractors/)).
 
 The length of a trend's phase comes from how new something is, according to each person's [calculation](mind-decisions.md):
 
-- Outside of innovators, each person requires a certain percentage of the people (or certain people) around them to like something before they can [trust](trust.md) that adopting it is worth the [social risk](socialrisk.md). This calculation comes from how much conflict they'll expect from the [decision](mind-decisions.md). For example, early adopters may need to know that 2-5% of their friends already like it and that 30% of their friends like them doing it, or maybe they'll do it if their friend John is doing it.
+- Outside of innovators, each person requires a certain percentage of the people (or certain people) around them to like something before they can [trust](mind-trust.md) that adopting it is worth the [social risk](entrepreneur-why.md). This calculation comes from how much conflict they'll expect from the [decision](mind-decisions.md). For example, early adopters may need to know that 2-5% of their friends already like it and that 30% of their friends like them doing it, or maybe they'll do it if their friend John is doing it.
 - Then, except for the late majority and laggards, each person *stops* adopting that thing when a specific people group has now *adopted it*. The early majority, for example, start questioning their trend when laggards begin adopting.
 - Laggards will never adopt the thing until it's practically [required](people-rules.md) by the group. Even then, they'll never [identify](people-identity.md) with it. The speed of a *new* trend developing to replace that one often comes from how much the laggards hate the current trend.
 - New mini-trends around an initial trend can restart the trend cycle all over again at any time. Often, they'll send the public in a previously unexpected direction, destroying unrelated trends and revitalizing loosely connected ones.
@@ -68,7 +72,7 @@ Trends spread like diseases. A few people at first, then a large group, then pra
 
 A trend can't be stopped, but it *can* be dramatically altered.
 
-The [value system](values.md) of a group determines how quickly they'll adopt new trends, specifically regarding [risk tolerance](socialrisk.md):
+The [value system](values.md) of a group determines how quickly they'll adopt new trends, specifically regarding [risk tolerance](entrepreneur-why.md):
 
 - Governments never need to move quickly unless they're in a [war](people-conflicts-war-why.md), so they tend to drag at adopting in any other field.
 - Healthcare has many life-and-death situations where they can be [blamed](people-contracts.md) for killing people with [uncertain](understanding-certainty.md) things. Thus, it's in their best interests to *always* adopt slowly, even if it kills people who couldn't receive the new life-saving medicine or procedure.
@@ -106,7 +110,7 @@ Most large-scale trends tend to cycle themselves into other associated trends:
 
 1. Artists use [technologies](technology.md) to capture the [unknown](unknown.md) in new [creations](creations.md).
 2. Scientists are inspired by art to explore [reality](reality.md) to gain [understanding](understanding.md).
-3. [Inventors](socialrisk.md) create new [technologies](technology.md) from existing [science](science.md).
+3. [Inventors](entrepreneur-why.md) create new [technologies](technology.md) from existing [science](science.md).
 4. Artists use [technologies](technology.md) to capture the [unknown](unknown.md) in new [creations](creations.md).
 
 [Ideas](values.md) and [technology](technology.md) also have a unique "piggyback" effect. Those trends are abstracted enough that they can revolutionize society:
@@ -129,7 +133,7 @@ Often, [values](values.md) associated with things will *completely* invert thems
 
 - An age of [understanding](understanding.md) often follows an age of [fear](mind-feelings-fear.md), then back again.
 - An age of audacity often leads to an age of civility, and back again.
-- People tend to [politically](politics-conservativeliberal.md) lean liberal when they [trust](trust.md) the [future](people-imagination.md) more, then conservative when they [trust](trust.md) the [past](stories-storytellers.md) more.
+- People tend to [politically](politics-conservativeliberal.md) lean liberal when they [trust](mind-trust.md) the [future](mind-imagination.md) more, then conservative when they [trust](mind-trust.md) the [past](stories-storytellers.md) more.
 - Clothing fashions move from conservative, back to liberal, back to conservative again, and often split and go in *opposite* directions at the same time.
 - Writing styles across centuries tend to shift from blunt, to poetic and florid, and back to terse again.
 
@@ -150,7 +154,7 @@ Also, when the pendulum sits in the trends of [individual efforts](purpose.md), 
 
 APPLICATION: Everything has its season, and watching for the timing of a season is critical to [living well](people-goodlife.md). Investing effort, or not, depends on what phase of the Recovery/Buildup/Action cycle we're in.
 
-Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](socialrisk.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](politics-leftism.md)):
+Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](entrepreneur-why.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](politics-leftism.md)):
 
 1. Without a sufficient sedentary period, there's no preparedness for another buildup (e.g., chronic pain, [PTSD](hardship-ptsd.md)), but too much of a sedentary period creates too much aversion to positive changes (e.g., muscular degeneration from bed rest, [culturally](people-culture.md) established safe spaces/trigger alerts overstepping [natural law](people-boundaries-why.md)).
 2. No slow exposure to increasing challenges sabotages the means of [accomplishing](purpose.md) (e.g., burning/exiling heretics, insufficient [resources](power-types.md)), and growth that's too slow won't make the [impact](results.md) it could have otherwise (since we all must contend with our [eventual end](legacy.md)).
@@ -158,7 +162,7 @@ Without this resistance pattern in a constant flow, the pattern that creates gro
 
 A cycle may appear unsustainable as a positive feedback loop (where the cycle becomes more extreme). But, when scoped out far enough, the meta-cycle is always a negative feedback loop (where elements of the cycle maintain that cycle).
 
-Sometimes, a cycle moves *repeatedly* on a somewhat [predictable](people-imagination.md) cycle:
+Sometimes, a cycle moves *repeatedly* on a somewhat [predictable](mind-imagination.md) cycle:
 
 - Seasonal and stock market cycles.
 - [Electoral cycles](politics-conservativeliberal.md) in a [freely voting society](politics-systems.md).
@@ -182,6 +186,6 @@ Generally, cycles never break, and are critical to [understand](understanding.md
 
 The speed of a trend is directly connected to how fast [information](information.md) travels. Therefore, within [the information age](history-eras.md), trends will adopt faster than before.
 
-APPLICATION: At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](people-imagination.md) and commenting on [social media](networks-social.md)). This probably won't go away anytime soon, either.
+APPLICATION: At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](mind-imagination.md) and commenting on [social media](networks-social.md)). This probably won't go away anytime soon, either.
 
 APPLICATION: The average lifespan of a civilization was about 400 years. After the fall of the Roman Empire, it's been closer to about 300 years. With [technology](technology.md) allowing instant [information access](people-conversation.md), it may lower itself to 200.

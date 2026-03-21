@@ -22,7 +22,7 @@ In many ways, death itself is a bit overrated:
 The best thing to do is find a [religion](religion.md) that conforms closest to the truth, stick with it, and stop thinking about it:
 
 - Be prepared, in proportion to your intelligence, for the quest for truth to lead to an existential crisis.
-- In some ways, the easiest solution is to believe agnosticism or atheism, but neither of them give any legitimate [hope](trust.md), which [we need to endure anything](hardship.md).
+- In some ways, the easiest solution is to believe agnosticism or atheism, but neither of them give any legitimate [hope](mind-trust.md), which [we need to endure anything](hardship.md).
 - As a [bias](mind-bias.md), this author is convinced of [Christianity](https://thoelogos.site/gospel/).
 
 ## The experience of death
@@ -64,7 +64,7 @@ C. Bargaining:
 D. Depression, which comes in two forms:
 
 1. Making quiet preparations to separate from someone and bid them farewell.
-   - Most of the time, we're slowly accepting [awareness](awareness.md) of the entire situation.
+   - Most of the time, we're slowly accepting [awareness](mind-awareness.md) of the entire situation.
 2. Reacting to practical implications that come from the loss.
    - Sadness and regret are typically driving the reaction.
    - These implications vary exclusively to the experience (e.g., burial costs, a social void, [debt](money-2_debt.md), etc.)

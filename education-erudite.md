@@ -18,7 +18,7 @@ With that said, it's entirely possible to waste time on [useless content](inform
 This, therefore, is my attempt to capture the best of all possible domains.
 
 - This is a purely academic approach, which is trying to capture valuable things while leaving your brain the freedom to *not* read everything ever made.
-- There's obviously no accounting for taste, but that'would be a question about "art".
+- There's obviously no accounting for taste, but that'would be a question about "[art](art-recommended.md)".
 
 ## Books
 

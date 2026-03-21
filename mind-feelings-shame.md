@@ -33,7 +33,7 @@ Shame is painful, and stops the ability to self-reflect.
 
 Shame frequently comes through [conflicts](people-conflicts-why.md) about a [taboo](morality-taboo.md).
 
-- However, anyone can imply that a person [should](people-imagination.md) be ashamed (even when it's a [distortion of the truth](people-image-distortion.md)).
+- However, anyone can imply that a person [should](mind-imagination.md) be ashamed (even when it's a [distortion of the truth](people-image-distortion.md)).
 
 If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md).
 
@@ -102,7 +102,7 @@ Shame is the [feeling](mind-feelings.md) of being cast out of society, and there
 
 The solution to regret is to internalize the fact that, given what you knew at the time, you did what you thought was best.
 
-- The solution to *shame*, however, starts with [awareness](awareness.md) of it, then shifts to self-forgiveness.
+- The solution to *shame*, however, starts with [awareness](mind-awareness.md) of it, then shifts to self-forgiveness.
 
 The only lasting cure for shame is to form [an identity](people-identity.md) around something that's *not* the actions we had performed.
 

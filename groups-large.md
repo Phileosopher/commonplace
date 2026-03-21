@@ -25,7 +25,7 @@ APPLICATION: An executive needs *many* specific background elements that allow t
 - Have either over a decade of relevant management experience or an MBA from a [pedigreed university](education.md).
 - Live in a large metropolitan melting pot (e.g., New York City, Mumbai, Singapore).
 - Avoid living in culturally homogenous metro areas (e.g., Houston, Washington DC, Madrid).
-- Gain a slight advantage by being [male](gender.md).
+- Gain a slight advantage by being [male](people-gender.md).
 
 APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
 
@@ -60,19 +60,27 @@ More [cultures](people-culture.md) can resonate with an organization that promot
 
 As a group grows, each individual's [influence](power-influence.md) in the group becomes more [specialized](jobs-specialization.md). Members' tasks become more specific, and many leaders are simply a "connecting-point" to other smaller sections of the group. Once this starts happening, most members will become more [apathetic](mind-feelings.md) to the group's [causes](purpose.md) and the group will feel more inhuman, irrespective of how [relatable](power-influence.md) or [noble](morality.md) its origins were.
 
+As far as *how* any group grows, it eventually will exhaust all the natural referrals associated with the group's [purpose](purpose.md).
+
+- If the leadership isn't satisfied with that group's size at that point, the group will eventually resort to [advertising](marketing.md).
+- As the advertising structure normalizes, the leadership continuing to desire growth will mean the advertisements will become increasingly invasive.
+- Eventually, many products may be completely free, but supported solely through advertising.
+
+APPLICATION: Intrusive ads will be with us as long as there is a free market. Further, advertising is *always* present in [for-profit business models](business.md). This shifts the consumers from being the primary customer to becoming the business product.
+
 Over time, members' [specializations](jobs-specialization.md) in various aspects will create special-purpose authorities beyond the central leadership roles (e.g., bureaus, coalitions). [Bureaucracy](bureaucracy.md) is when those bureaus have most of the [power](power.md), and they are [subgroups](groups-small.md) of their own inside the meta-group that are subject to [intergroup conflicts and misunderstandings](people-conflicts-war-why.md).
 
-Since every person has a different reaction to [new information](education.md), [unexpected](people-imagination.md) [consequences](results.md) will come from any large [decision](mind-decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](people-imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
+Since every person has a different reaction to [new information](education.md), [unexpected](mind-imagination.md) [consequences](results.md) will come from any large [decision](mind-decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](mind-imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
 
 As a group expands, leaders don't see [results](results.md) as immediately as they had in a [small group](groups-small.md). For that reason, their inherent aptitude creates the ceiling of the group's size, and it's harder for them to learn how to lead through simple trial-and-error.
 
-All the [unpredictable](people-imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](people-culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts-why.md).
+All the [unpredictable](mind-imagination.md) elements of a small group compound across many people in a large group. There are more [power](power.md) dynamics, more [purposes](purpose.md) that diverge from the group's, and usually a broader mix of [cultures](people-culture.md). Each leader's ability to [manage a small group](groups-small.md) will be challenged in entirely new directions, especially regarding human universal tendencies to be [lazy](results.md), [evil](morality-evil.md), and [engage in conflicts](people-conflicts-why.md).
 
 When the scale becomes enormous (i.e., surpassing thousands), every large group leader must act quickly to keep the entire organization in line. Their role frequently becomes a never-ending string of resolving [disasters](people-conflicts-why.md).
 
-Large groups are far more risk-averse than [small groups](groups-small.md), since they have so much more [power](power.md) to lose and so much more easily. They're also susceptible to [trust](trust.md) *other* large groups more, since they often depend so heavily on them for their large-scale resource needs.
+Large groups are far more risk-averse than [small groups](groups-small.md), since they have so much more [power](power.md) to lose and so much more easily. They're also susceptible to [trust](mind-trust.md) *other* large groups more, since they often depend so heavily on them for their large-scale resource needs.
 
-To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](education.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
+To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](education.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](mind-trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
 
 ## Hierarchy
 
@@ -84,7 +92,7 @@ Top leaders are usually at least 2-3 degrees removed from any actual work done, 
 
 APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](people-image-why.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](people-image-why.md) of the group's [goals](purpose.md).
 
-Often, top leaders will let lower-ranking leaders of smaller subgroups have unique roles. This ranges by how much [trust](trust.md) the leaders give, and can range from the top leader merely existing as a [symbolic](symbols.md) "publishing" or "producing" role all the way to completely micromanaging the subgroup. Absolutely nobody *ever* likes being micromanaged, and it's the product of a [dysfunctional system](mgmt-badsystems.md) caused by bad leadership not respecting individual [decision](mind-decisions.md).
+Often, top leaders will let lower-ranking leaders of smaller subgroups have unique roles. This ranges by how much [trust](mind-trust.md) the leaders give, and can range from the top leader merely existing as a [symbolic](symbols.md) "publishing" or "producing" role all the way to completely micromanaging the subgroup. Absolutely nobody *ever* likes being micromanaged, and it's the product of a [dysfunctional system](mgmt-badsystems.md) caused by bad leadership not respecting individual [decision](mind-decisions.md).
 
 APPLICATION: Since large-scale leaders must be self-conscious, their [personalities](people-personality.md) are usually not very interesting, which is why the elite class of a free society is made of the same cut of boring, [influential](power-influence.md) workaholics.
 
@@ -107,9 +115,9 @@ These decisions are *always* designed for the interests of the people in the gro
 
 Members' awareness of each large-scale decision ripples outward like a [trend](people-trends.md) at the speed of [technology](technology.md). It has a formative time with sub-leaders, then transitions outward to the majority, with the laggards *never* aware of the decision. This trend sticks proportional to the [leadership skills](mgmt-1_why.md) of the top leader.
 
-Low-ranking members have *much* less freedom than if they were in a [smaller group](groups-small.md), since the leadership redirects most of the lower ranks' [power](power.md) to other [purposes](purpose.md). Low-rank members won't usually [trust](trust.md) their large group much, since they're not given much freedom, but they [pretend to](people-image-why.md) well enough that most leaders don't realize this.
+Low-ranking members have *much* less freedom than if they were in a [smaller group](groups-small.md), since the leadership redirects most of the lower ranks' [power](power.md) to other [purposes](purpose.md). Low-rank members won't usually [trust](mind-trust.md) their large group much, since they're not given much freedom, but they [pretend to](people-image-why.md) well enough that most leaders don't realize this.
 
-Over time, large groups must make dramatic [decisions](mind-decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
+Over time, large groups must make dramatic [decisions](mind-decisions.md) that transform everyone in the group. There are many factors to consider, so most successful leaders consume [high-quality](values-quality.md) [creations](creations.md), sharpen their [intuition](mind-feelings.md), and [trust](mind-trust.md) it profusely. This usually works, but a leader's bad day through the [influence](power-influence.md) of 1 relatively unimportant person's failure can affect thousands or *millions* of people.
 
 APPLICATION: As groups scale, leaders must adopt a hands-off approach. They must make better [decisions](mind-decisions.md) over the people they appoint, and fewer decisions about anything anyone actually *[does](results.md)*.
 
@@ -160,7 +168,7 @@ Taxing, especially, will broadly destroy [purposes](purpose.md):
 - Taxing what people produce makes people want to [create](creations.md) less.
 - Taxing what people consume makes them less likely to consume.
 - Taxing [taboo](morality-taboo.md) things too much without completely [outlawing](people-rules.md) it often makes the organization depend on that thing for income.
-- Taking enough from the [rich](classes.md) makes removes the [incentive](purpose.md) for the middle class to [take risks](socialrisk.md) to become rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
+- Taking enough from the [rich](classes.md) makes removes the [incentive](purpose.md) for the middle class to [take risks](entrepreneur-why.md) to become rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
 - Taking enough from the middle class often makes them become the lower class.
 - Taking enough from the lower class is almost completely [evil](morality-evil.md), since it barely benefits the leadership and hurts those with the least [power](power.md).
 - In fact, the only [fair](morality-justice.md) tax is a progressive tax up to a specific level of survival, then everything else from middle-class onward as a flat and non-negotiable percentage.
@@ -172,15 +180,15 @@ APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resi
 3. [Working](results.md) a [career](jobs-specialization.md) as an [educator](education.md)
 4. Paying off a [mortgage](money-2_debt.md) on a [house](home-buy.md)
 5. [Investing](money-investing.md) into a retirement account, preferably a 401(k) or 403(b)
-6. Generally [unaware](awareness.md) of the above
+6. Generally [unaware](mind-awareness.md) of the above
 
 APPLICATION: Large group leaders must juggle *far* too many competing [values](values.md) and [subcultures](groups-small.md) to maintain much sense of [order](unknown.md). For this reason, groups that scale become [ever-increasingly awful](mgmt-badsystems.md) at doing what they were originally [purposed](purpose.md) to do.
 
-When a [bad system](mgmt-badsystems.md) starts socially engineering, they're often operating off [theories](people-imagination.md) mixed with trial-and-error. This can be utterly disastrous, and often leads to [social unrest](people-conflicts-war-why.md), people losing property, and people dying.
+When a [bad system](mgmt-badsystems.md) starts socially engineering, they're often operating off [theories](mind-imagination.md) mixed with trial-and-error. This can be utterly disastrous, and often leads to [social unrest](people-conflicts-war-why.md), people losing property, and people dying.
 
 ## Results
 
-Every far-reaching decision in a large group requires a lead time between [communicating](people-conversation.md) it and everyone [doing it](results.md). That can range from minutes to weeks, depending on the [technology](technology.md) available for communicating and acting. If the group has any [dysfunction](mgmt-badsystems.md), or it's a particularly [unexpected](people-imagination.md) task by most of the group, it'll take *much* longer or may result in an [inner conflict](people-conflicts-war-why.md) where the task is never performed.
+Every far-reaching decision in a large group requires a lead time between [communicating](people-conversation.md) it and everyone [doing it](results.md). That can range from minutes to weeks, depending on the [technology](technology.md) available for communicating and acting. If the group has any [dysfunction](mgmt-badsystems.md), or it's a particularly [unexpected](mind-imagination.md) task by most of the group, it'll take *much* longer or may result in an [inner conflict](people-conflicts-war-why.md) where the task is never performed.
 
 Every single [result](results.md) of an organization is [created](creations.md) by the members' [decisions](mind-decisions.md) and actions. Thus, even when the leaders get *all* the [credit](people-image-why.md), or it had a debatable [morality](morality.md), every member was partly responsible for it, no matter how small.
 
@@ -189,7 +197,7 @@ Like individual [human purposes](purpose.md), large groups are always concerned 
 - Outward growth comes through absorbing other groups and people, often with [large-scale conflicts](people-conflicts-war-why.md). If uncontested by other groups, it becomes an [empire or monopoly](politics-monopolies.md).
 - Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](education.md) and expanding individuals' roles into broader group responsibilities.
 
-The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](people-imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](mind-decisions.md) they make.
+The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](mind-imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](mind-decisions.md) they make.
 
 While it's impossible to track how a group will respond, there are a few conditions to more easily track changes:
 

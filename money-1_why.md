@@ -130,7 +130,7 @@ If you fully understand a few concepts, everything else is gradations of detail:
 4. Save, invest, and give away everything you can.
 5. Research everything you pay for.
 6. Only spend on what you understand.
-7. Stay [hyper-aware](awareness.md) of "want" versus "need".
+7. Stay [hyper-aware](mind-awareness.md) of "want" versus "need".
 8. [Make your money work passively for you](money-investing.md) when you're not working.
 9. Give *much* more to others than satisfying yourself.
 10. Find legal ways to avoid paying taxes.

@@ -1,9 +1,9 @@
 
 # What an entrepreneur is
 
-Entrepreneur is a French word literally translated as someone who "enters into [an undertaking](socialrisk.md)" into business for themselves.
+Entrepreneur is a French word literally translated as someone who "enters into [an undertaking](entrepreneur-why.md)" into business for themselves.
 
-- They *must* take legitimate [risks](socialrisk.md) to advance their [organization](groups-small.md).
+- They *must* take legitimate [risks](entrepreneur-why.md) to advance their [organization](groups-small.md).
 - A small business requires the same amount of consistent, steady maintenance as a [baby](parenting-babies.md).
 
 Outside of [parenting](parenting-children.md), a small business is the largest personal sacrifice a person can ever make.
@@ -22,7 +22,7 @@ Almost everyone is capable of being an entrepreneur, but not everyone has the [p
 
 They also must be stubborn enough to indefinitely face [criticism](people-conflicts.md), [failure](success-1_why.md), [obstacles](success-5_persevering.md), and the ever-present [unknown](unknown.md).
 
-- It's practically a requirement to adopt an abnormally high tolerance for [social risks](socialrisk.md).
+- It's practically a requirement to adopt an abnormally high tolerance for [social risks](entrepreneur-why.md).
 - They'll need to constantly seek out guidance from mentors and associates.
 - Typically, they'll have a natural ability to see strengths where most people see weaknesses.
 

@@ -23,7 +23,7 @@ However, nobody considers someone editing a spreadsheet or playing Super Mario B
 
 Computers are the world's fastest idiots, and will do *exactly* what you tell them, without any common sense or survival impulse. Their absurdly fast speed permits them to do many detailed, boring things within a split second, but without naturally discovering the permutations that a small child would be able to infer. Even [machine learning](computers-ai.md) hasn't made a particularly intuitive computer, and therefore computer programmers are constantly necessary to [debug](computers-software-redesign.md), even after software has been developed.
 
-Programming has layers of complexity based on how much information you're giving. The fewer the keystrokes, the more you're [trusting](trust.md) some other person did all the programming work already.
+Programming has layers of complexity based on how much information you're giving. The fewer the keystrokes, the more you're [trusting](mind-trust.md) some other person did all the programming work already.
 
 Each language is designed with codified rules ("syntax"), which are meant to convey some clear type of [meaning](meaning.md) ("semantics"). Most software development projects start with writing code that prints "hello world" to the [screen output](engineering-screen.md), and then becomes more complex from there.
 

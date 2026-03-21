@@ -26,7 +26,7 @@ Meditation is critical for living well:
 
 - Whatever we focus on, even when we're not aware of it, shifts our perspective.
 - Meditation allows us to distinguish "important" from "unimportant" things.
-- The only thing that exists around us is the "present", and meditation helps us separate it from our [memories](mind-memory.md) and [imagination](people-imagination.md).
+- The only thing that exists around us is the "present", and meditation helps us separate it from our [memories](mind-memory.md) and [imagination](mind-imagination.md).
 - The events that happen to us don't matter *nearly* as much as how we interpret them.
 - All wisdom, [understanding](understanding.md), [virtue](morality.md), [self-discipline](results.md), [prolonged success](success-6_humility.md), [critical thinking](understanding.md), [analysis](logic.md), and [satisfaction](mind-feelings-happiness.md) require at least some meditation.
 
@@ -189,7 +189,7 @@ Reflect on possibilities:
 - Start looking ahead at what may likely come next in the "chain" of your thoughts.
 - Hold a conversation with yourself from different points of view you hold or may want to hold.
 - Devote yourself toward prayer to [the Being](theology-god.md) that maintains [the present Unknown](unknown.md).
-- Closely consider when your [expectations](people-imagination.md) have matched or deviated from [reality](reality.md).
+- Closely consider when your [expectations](mind-imagination.md) have matched or deviated from [reality](reality.md).
 
 Reflect on the people around you:
 

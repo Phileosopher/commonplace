@@ -1,7 +1,7 @@
 
 # What purpose is
 
-Purpose is an orientation toward accomplishing some sort of [expected](people-imagination.md) task, which requires presuming that task can be accomplished.
+Purpose is an orientation toward accomplishing some sort of [expected](mind-imagination.md) task, which requires presuming that task can be accomplished.
 
 All things in the universe, barring a [Creator](religion.md), has no inherent purpose or meaning. We impose that onto our [perception](people-image-why.md) of [reality](reality.md) from [stories](stories-why.md) we [create](creations.md) in our minds. In fact, we can *only* perceive reality with a purpose first, with the only "true" perspective coming from [training](habits.md) ourselves to be [scientific](science.md).
 
@@ -18,13 +18,28 @@ Every purpose we make is a response to our environment:
 3. We continue to perceive that thing as a "problem" until we [decide](mind-decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
 4. We then search for a [means](results.md) to "fix" that problem.
 
-APPLICATION: Without [awareness](awareness.md), our purposes tend to override [reality](reality.md), which is why we employ so much [faith](trust.md) in so many things.
+APPLICATION: Without [awareness](mind-awareness.md), our purposes tend to override [reality](reality.md), which is why we employ so much [faith](mind-trust.md) in so many things.
 
 Thus, we're only find satisfaction when we're facing conflicts, of any sort, that we believe we can achieve. For this reason, most [Utopian societies](politics-perfectsociety.md) are downright impossible: people would find them utterly boring and would probably break things just to see what happened.
 
 This purpose can either be internal (which will often be connected to our [identity](people-identity.md)), or external (which connects to [results](results.md) we wish to see).
 
+In practice, all purposes form into 4 distinct phases:
+
+1. Wait in some capacity for something.
+2. Think about [what to do](mind-decisions.md).
+3. Take action to carry out a decision.
+4. Experience the consequences of that purpose, which frequently create more purposes that restart the cycle.
+
 ## The focus of purposes
+
+Every purpose can be composed of three non-exclusive activities:
+
+1. Clearing things out (e.g., cleaning, organizing, securing, data entry)
+2. Getting to places (e.g., traveling, moving somewhere, taking things somewhere)
+3. Making a mess (e.g., [creating](mind-creativity-how.md), wrecking things)
+
+Our [personality](people-personality.md) heavily defines which of the three we prefer.
 
 As we [learn](understanding.md) and [mature](maturity.md), our purposes shift around. They start simple when we're babies, but by the time we can talk, we've outpaced the complexity of any other living being we've encountered.
 
@@ -36,7 +51,7 @@ At our very beginning (i.e., infancy), we start with nothing but raw curiosity, 
 
 Quickly, within moments, we start forming [habits](habits.md) of thought and action which create [certainty](understanding-certainty.md) (and, therefore, removing our curiosity). Those habits are the creative output of many elements including [raw feelings](mind-feelings.md), [reasoning](logic.md), and [environmental trauma](hardship-ptsd.md), which means they're a mess to untangle later. Pain, for example, can mix with pleasure in strange ways.
 
-We tend to pursue our physical needs, then move to psychological ones. Often before we can talk, *all* the physiological needs are subsets of psychological needs, even though we're not [aware](awareness.md) of the transition:
+We tend to pursue our physical needs, then move to psychological ones. Often before we can talk, *all* the physiological needs are subsets of psychological needs, even though we're not [aware](mind-awareness.md) of the transition:
 
 - Autonomy - the opportunity to make [decisions](mind-decisions.md) for ourselves
 - Competence - the ability to be [important](people-identity.md) about something
@@ -60,36 +75,36 @@ As we grow, our purposes accommodate others' purposes as well. The [power](power
 - [Professionals](jobs-specialization.md) may circumvent sharing laws, which may help their client to their detriment.
 - [Parenting](church-family.md) requires selflessness, and can persist even when parents are utterly selfless.
 
-When we're young, our lack of knowledge means we don't [understand](understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](people-imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
+When we're young, our lack of knowledge means we don't [understand](understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](mind-imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
 
 APPLICATION: [Young people](maturity.md) tend to explore, while older people tend to exploit.
 
 FURTHER APPLICATION: As we age, our purposes become more intentional and less inspirational. This isn't necessarily a good or bad thing, but means we're more likely to stop hoping for good things and run the risk of pushing against [social progress](people-trends.md).
 
-At some point, later in our life, we start questioning the purposes we've been following when the [results](results.md) don't reflect what we [expected](people-imagination.md) from our [decisions](mind-decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
+At some point, later in our life, we start questioning the purposes we've been following when the [results](results.md) don't reflect what we [expected](mind-imagination.md) from our [decisions](mind-decisions.md). Most notably, we start confronting our [fears of death](mind-feelings-fear.md). This is a good thing, but often [scares](mind-feelings-fear.md) people, so it's called bad things like a "midlife crisis".
 
-One recursive form of purpose is to [self-motivate](success-5_persevering.md): solidify our purpose against things that [scare](mind-feelings-fear.md) us, both [real](reality.md) and [imagined](people-imagination.md). It's very useful to get a "running start" on things we would otherwise become discouraged over.
+One recursive form of purpose is to [self-motivate](success-5_persevering.md): solidify our purpose against things that [scare](mind-feelings-fear.md) us, both [real](reality.md) and [imagined](mind-imagination.md). It's very useful to get a "running start" on things we would otherwise become discouraged over.
 
 APPLICATION: To maintain and grow willpower, we must rest regularly, set small goals, and never give up.
 
-Revisiting our purposes is healthy self-maintenance, but people often avoid it because it's so [destabilizing](understanding-certainty.md) to our view of reality. If we wait too long, we end up facing it in huge destabilizing chunks instead of small increments (e.g., midlife crisis). We can practice it with [self-awareness techniques](awareness.md), but mentally well people tend to naturally perform re-purposing without provocation.
+Revisiting our purposes is healthy self-maintenance, but people often avoid it because it's so [destabilizing](understanding-certainty.md) to our view of reality. If we wait too long, we end up facing it in huge destabilizing chunks instead of small increments (e.g., midlife crisis). We can practice it with [self-awareness techniques](mind-awareness.md), but mentally well people tend to naturally perform re-purposing without provocation.
 
 APPLICATION: If you're not sure what you want, that's okay. Most people don't know what they want most of the time, even when [they look like they do](people-image-why.md).
 
 ## Problem interpretations
 
-Anything we've deemed needs changing is a "problem". All problems are [values](values.md) in our [imagination](people-imagination.md) driven by how we [feel](mind-feelings.md) regarding a comparison between what we [perceive](people-image-why.md) and what we [imagine](people-imagination.md). All purposes in life string themselves into a never-ending sequence of problem-fixing.
+Anything we've deemed needs changing is a "problem". All problems are [values](values.md) in our [imagination](mind-imagination.md) driven by how we [feel](mind-feelings.md) regarding a comparison between what we [perceive](people-image-why.md) and what we [imagine](mind-imagination.md). All purposes in life string themselves into a never-ending sequence of problem-fixing.
 
 The severity of our desire to address problems comes from two factors: how much it affects us, and how much we [believe](understanding-certainty.md) we can [do something about it](results.md). Broadly, they fall into 4 classifications based on complexity:
 
 1. Needs are things we *must* have, and correspond to [reality](reality.md).
-2. Interests are how we meet needs. If we [feel](mind-feelings.md) like having it, they're often what we "want" as well. Interests often combine multiple needs, and typically require [predicting](people-imagination.md) what will happen.
+2. Interests are how we meet needs. If we [feel](mind-feelings.md) like having it, they're often what we "want" as well. Interests often combine multiple needs, and typically require [predicting](mind-imagination.md) what will happen.
 3. Strategies are elaborate [mental constructs](logic.md) designed to meet interests. They are often so complex that we can't easily [communicate](language.md) them.
 4. Position is the [power](power.md) we have to make the strategies happen.
 
-Problems are always a disruption. They can either disrupt a principle (e.g., many [moral](morality.md) issues, [bureaucratic](bureaucracy.md) thinking) or disrupt someone's [peace](mind-feelings-fear.md) about something they [expect](people-imagination.md).
+Problems are always a disruption. They can either disrupt a principle (e.g., many [moral](morality.md) issues, [bureaucratic](bureaucracy.md) thinking) or disrupt someone's [peace](mind-feelings-fear.md) about something they [expect](mind-imagination.md).
 
-Whether the problem is [real](reality.md) or not is irrelevant. An artist will find a problem in a blank canvas as much as an accountant will over one discrepant number. It's a [conflict](people-conflicts-inner.md) between the environment we [wish to see expressed](people-imagination.md) as [results](results.md) within [reality](reality.md), and gives a mental workout for the [trust-based](trust.md) portion of our minds.
+Whether the problem is [real](reality.md) or not is irrelevant. An artist will find a problem in a blank canvas as much as an accountant will over one discrepant number. It's a [conflict](people-conflicts-inner.md) between the environment we [wish to see expressed](mind-imagination.md) as [results](results.md) within [reality](reality.md), and gives a mental workout for the [trust-based](mind-trust.md) portion of our minds.
 
 APPLICATION: There will *never* be an end to the things we can do, so the quest for [meaning](meaning.md) and purpose never ends until we stop living. Even near death, we try to [build something beyond our lives](legacy.md) or prepare for [anything after it](religion.md).
 
@@ -111,7 +126,7 @@ APPLICATION: Stubborn people are going to do what they're going to do. You can e
 
 ## Large/complex problems
 
-The larger the problem (based on [imagined](people-imagination.md) [consequences](results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](mind-decisions.md). Huge and devastating [large-scale events](people-conflicts-war-why.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
+The larger the problem (based on [imagined](mind-imagination.md) [consequences](results.md)), the more it [scares](mind-feelings-fear.md) us and the more it drains our [willpower](mind-decisions.md). Huge and devastating [large-scale events](people-conflicts-war-why.md) drive us to either action or cowardice, and often with a [religious](religion.md)/[political](politics-systems.md) attitude mixed in.
 
 Further, if we *don't* resolve problems, they usually get worse. Taken far enough, unresolved problems can create an [existential crisis](meaning.md).
 
@@ -122,10 +137,10 @@ Across time and with [more people](groups-member.md) involved, problems become c
 - We'll often do things we hate, but will start liking them out of familiarity as we build [habits](habits.md).
 - We'll often find [meaning](meaning.md) through the [methods](habits.md) we use to fulfill a purpose, which will often become part of our [identity](people-identity.md).
 - As we [age](maturity.md), we often forget we can't do things we once could have done.
-- To the extent we [follow others](people-trends.md), we want what we [imagine](people-imagination.md) others expect from us and what we "ought" to do. We also [fear](mind-feelings-fear.md) failure, so we'll [trust](trust.md) others' opinions from their [reputation](people-image-why.md), sometimes merely because [they wrote a book](creations.md).
+- To the extent we [follow others](people-trends.md), we want what we [imagine](mind-imagination.md) others expect from us and what we "ought" to do. We also [fear](mind-feelings-fear.md) failure, so we'll [trust](mind-trust.md) others' opinions from their [reputation](people-image-why.md), sometimes merely because [they wrote a book](creations.md).
 - Sometimes we want something we ought not to and will try to [maintain](people-image-distortion.md) the [appearance](people-image-why.md) that we don't want it while we pursue it.
-- If we believe we can't do something but still want it, we may detach from [reality](reality.md) and let our [imaginations](people-imagination.md) run free.
-- Most of the time, problems create [consequences](results.md) that create other problems, and by the time we're [aware](awareness.md) of them they've become so nasty that we have to ask "why" multiple times to get to the original cause.
+- If we believe we can't do something but still want it, we may detach from [reality](reality.md) and let our [imaginations](mind-imagination.md) run free.
+- Most of the time, problems create [consequences](results.md) that create other problems, and by the time we're [aware](mind-awareness.md) of them they've become so nasty that we have to ask "why" multiple times to get to the original cause.
 - We tend to compare and compete with others. To the degree we care about [appearances](people-image-why.md), we'll often do things we *really* hate for the sake of others' [approval](people-friends.md).
 
 APPLICATION: Finding purpose is relatively simple when the current purposes or solutions don't work. Just break apart your interests into their base wants, then find different interests that meet those needs.
@@ -137,7 +152,7 @@ The universe is made of certain forms of inherent structure, so "problems" are a
 - [Religions](religion.md) approach [powerless](power.md) people who [feel](mind-feelings.md) discouraged by how their life has been going.
 - [Leftism](politics-leftism.md) makes appeals to people relatively uninformed about [history](people-trends.md) or [politics](mgmt-badsystems.md) but discouraged by how their life is going.
 
-APPLICATION: Often, our problems aren't as bad as we [feel](mind-feelings.md) they are, and the problem may simply be [judgments](people-imagination.md) we're making about [information we already have](people-image-why.md).
+APPLICATION: Often, our problems aren't as bad as we [feel](mind-feelings.md) they are, and the problem may simply be [judgments](mind-imagination.md) we're making about [information we already have](people-image-why.md).
 
 Most problems are simple, and we fix them [habitually](habits.md), but we tend to only focus on the largest ones. Some of those have many elements with a relatively straightforward solution (e.g., a messy room), but the problems that *really* ruin our [happiness](mind-feelings-happiness.md) have many sensible solutions we must [decide](mind-decisions.md) between. Our indecision about problems we *need* to fix comes mostly through a calculation of how much pain we'll experience.
 

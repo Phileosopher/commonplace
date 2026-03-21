@@ -3,7 +3,7 @@
 
 Every story has a main character (protagonist), who always experiences an [inner conflict](people-conflicts-inner.md) and is either [favored (hero) or shamed (anti-hero)](people-image-why.md) by the [creator](mind-creativity.md). A hero will always [decide](mind-decisions.md) toward a sacrifice, and an anti-hero will only pursue sacrifice for self-interest.
 
-The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](people-imagination.md), [performing](mind-decisions.md), or [experiencing consequences](results.md).
+The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](mind-imagination.md), [performing](mind-decisions.md), or [experiencing consequences](results.md).
 
 The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
 
@@ -39,9 +39,9 @@ At times, the starting point is in the middle of a [conflict](people-conflicts-w
 
 Often, the main character has [companion characters](people-friends-why.md) who share in their [safety](safety.md). Sometimes, at least one of their friends won't be *entirely* in the safe zone.
 
-By the very end of the exposition, the main character must *always* want something they don't have they sincerely believe can be accomplished by performing a [risk](socialrisk.md).
+By the very end of the exposition, the main character must *always* want something they don't have they sincerely believe can be accomplished by performing a [risk](entrepreneur-why.md).
 
-The starting point has a *massive* impact on the story because it determines the audience's [expectations](people-imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](mind-decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
+The starting point has a *massive* impact on the story because it determines the audience's [expectations](mind-imagination.md). It requires tremendous [skill](mind-creativity.md) to [choose](mind-decisions.md) it correctly as the storyteller, and effective stories don't waste much time on it compared to the rest of the story.
 
 ## Transition to middle (antithesis)
 
@@ -53,11 +53,11 @@ The middle of the story is where the character is first exposed to a [conflict](
 
 For whatever reason, the main character desires to interact with this change. Even if it's just to *prevent* change from what they're familiar with, they're still making a [conscious](humanity.md) [decision](mind-decisions.md).
 
-The critical moment for the transition is when the main character [expects](people-imagination.md) a [result](results.md) from their environment. Great stories will either make their efforts absolutely ineffective (proving that they must try harder to [succeed](success-1_why.md)) or far *too* effective (proving that the other extreme is also awful). However, they can *never* stop and return to normal after they've performed the action, or the story won't have any [meaning](meaning.md).
+The critical moment for the transition is when the main character [expects](mind-imagination.md) a [result](results.md) from their environment. Great stories will either make their efforts absolutely ineffective (proving that they must try harder to [succeed](success-1_why.md)) or far *too* effective (proving that the other extreme is also awful). However, they can *never* stop and return to normal after they've performed the action, or the story won't have any [meaning](meaning.md).
 
 In an [influential](influence.md) story, the [arguments](logic.md) and [values](values.md) presented within the antithesis will have as much sincerity and clarity as the thesis. This can be *very* difficult for things that may have good aspects because they must persist through much of the story uncontested.
 
-Complex stories (which draw in audiences more) involve the main character severely wanting something, but also [torn](people-conflicts-inner.md) about that decision without being [aware](awareness.md) of it. This tends to explore itself by making the best possible situation become the worst, or vice versa.
+Complex stories (which draw in audiences more) involve the main character severely wanting something, but also [torn](people-conflicts-inner.md) about that decision without being [aware](mind-awareness.md) of it. This tends to explore itself by making the best possible situation become the worst, or vice versa.
 
 ## Middle (rising action)
 
@@ -72,7 +72,7 @@ The first change will come from a threshold guardian. They will have to change t
 
 Usually, the main character will interact with a mentor who gives [wisdom](understanding.md) about what to do, a bit like a [parental proxy](people-family.md). However, the mentor can also be [a creative work](creations.md) that [communicates or implies](language.md) the idea.
 
-There will also often be an antagonist the main character is [opposed to](people-imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
+There will also often be an antagonist the main character is [opposed to](mind-imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
 
 Great stories require the challenges for the character to be difficult, and tend to use [changes](people-changes.md) which directly [confront](people-conflicts-inner.md) the main character's [fears](mind-feelings-fear.md).
 
@@ -93,7 +93,7 @@ At the turning point, the character is crossing a threshold into a new thing, of
 - Limits to their [understanding](understanding.md) they hadn't realized
 - Difficult [moral decisions](morality.md) they must perform or reconcile
 
-The style of the story heavily defines what the main character's transition sits on. The audience's [gender](gender.md), [age range](maturity.md), [intelligence](understanding.md), [sense of humor](humor.md), and [moral beliefs](morality.md) all play a part into the [ideals](values.md) worth communicating. Generally, sophisticated stories are far more subtle. Longer stories have more turning points.
+The style of the story heavily defines what the main character's transition sits on. The audience's [gender](people-gender.md), [age range](maturity.md), [intelligence](understanding.md), [sense of humor](humor.md), and [moral beliefs](morality.md) all play a part into the [ideals](values.md) worth communicating. Generally, sophisticated stories are far more subtle. Longer stories have more turning points.
 
 ## End (conclusion/synthesis)
 

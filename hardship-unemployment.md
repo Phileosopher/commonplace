@@ -81,7 +81,7 @@ As time persists, you will generally travel through a few stages in response to 
    - At this point, you start becoming more vulnerable to scams, and will be more willing to take a role you normally wouldn't consider.
 4. Despair
    - After 2-6 months, you'll lose motivation to keep looking.
-   - While you'll probably keep hunting, the constant discouragement will likely mean you'll be slower to act in general out of [distrust](trust.md) that the next opportunity is legitimate.
+   - While you'll probably keep hunting, the constant discouragement will likely mean you'll be slower to act in general out of [distrust](mind-trust.md) that the next opportunity is legitimate.
 
 Scammers target desperate, poor, unemployed people with "job offers", so watch for anything suspicious:
 

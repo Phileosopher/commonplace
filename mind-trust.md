@@ -24,7 +24,7 @@ Even while [reality](reality.md) isn't relative, our [understanding](understandi
 - The things we touch and experience from our senses
 - The people we encounter, as well as what they do and say
 - the idea of [cause-and-effect](science.md)
-- Any [expectations](people-imagination.md) that the future will be anything like the present
+- Any [expectations](mind-imagination.md) that the future will be anything like the present
 
 We may *think* we see something obvious and *know* it exists, but our minds play a trick on us:
 
@@ -64,7 +64,7 @@ APPLICATION: Even when we act with [certainty](understanding-certainty.md), we'r
 
 This isn't an isolated experience in one's mind, however. Other people may not [see](understanding.md) the way we do, and our [culture](people-culture.md) tells us how we're supposed to [think](understanding.md) and [believe](understanding-certainty.md). We will agree with them proportionally to how much our [personality](people-personality.md) is willing to consent to others' values over our own.
 
-This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](mind-decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
+This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](mind-decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](mind-awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
 
 APPLICATION: Since we must trust things constantly, we must *never* declare anything as 100% certain unless we'd unflinchingly give our lives for that premise.
 
@@ -94,7 +94,7 @@ Our entire *framework* of thinking relies on trusting indirectly connected eleme
 - The statement "I don't trust them" is effectively saying "I trust something that doesn't trust them".
 - The statement "I trust nothing" is asserting that non-trust is more trustworthy than trust.
 
-Further, any [purpose](purpose.md) we strive for comes with endless [risks](safety.md). The most stable, [predictable](people-imagination.md) task still requires trusting a [memory](people-imagination.md) that's reliable enough to repeat a habit.
+Further, any [purpose](purpose.md) we strive for comes with endless [risks](safety.md). The most stable, [predictable](mind-imagination.md) task still requires trusting a [memory](mind-imagination.md) that's reliable enough to repeat a habit.
 
 We can trust some things [with more certainty](understanding-certainty.md), but must balance a certain "minimum trust" necessary to attain any [purposes](purpose.md) whatsoever. We tend to automatically trust ourselves, others around us, and [authority figures](groups-large.md) for most things we need, but we tend to [train ourselves](habits.md) to shift the trust toward [idols and substances](addiction-substances.md) if we don't [devote it to God](https://theologos.site/devotion-chaos/).
 
@@ -103,7 +103,7 @@ To understand how bound to trust we are, try to prove with absolute certainty th
 - Prove that we're not living in a shared computer simulation.
 - Demonstrate that the words you're reading *aren't* reading your mind and stealing your life force.
 - Verify that [death](mind-feelings-fear.md) *really* happens, and that people don't teleport away at that moment and replace themselves with a sack of realistic-looking meat.
-- The very *essence* of [speculative](people-imagination.md) [fiction](stories-why.md) is to play with the things we often trust, so try to prove that each one of them is either impossible or [will be](people-imagination.md) impossible.
+- The very *essence* of [speculative](mind-imagination.md) [fiction](stories-why.md) is to play with the things we often trust, so try to prove that each one of them is either impossible or [will be](mind-imagination.md) impossible.
 
 Frequently, people with trust issues will attempt to tear down *all* forms of trust. It's the same obsession whether they're trying to manage their [understanding](understanding.md) of [science](science.md) or [religion](religion.md). They're powering their decisions by [past trauma](hardship-ptsd.md) and don't want to accept that their need for [certainty](understanding-certainty.md) has been unmet.
 

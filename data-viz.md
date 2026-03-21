@@ -19,7 +19,7 @@ For any report to be effective, it needs to have several qualities:
 
 - Actionable - It must serve to advance or promote some sort of [purpose](purpose.md).
 - Accessible - It must be easy to [understand](understanding.md).
-- Auditable - The information must be easily reproducible for someone else to [verify](trust.md).
+- Auditable - The information must be easily reproducible for someone else to [verify](mind-trust.md).
 
 For that reason, good reports intentionally *omit* useless information and accompany the supporting data. The report should also draw directly from the data, and *not* use an intermediate system that could generate error or inaccuracy.
 

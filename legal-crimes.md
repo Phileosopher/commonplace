@@ -42,6 +42,10 @@ Racketeering: [organization-sized](mgmt-badsystems.md) criminal activity (subver
 
 Weapon charges: laws against weapon-based activities
 
+### Behaving unsafely
+
+Driving while vehicle has a failed component: not repairing a likely-known issue
+
 ### Disrespecting authority
 
 Contempt of court: not honoring the [standards](people-rules.md) of a court hearing
@@ -131,7 +135,7 @@ Minor in possession (MIP): giving a minor a controlled substance (usually alcoho
 
 ## Deception for the purpose of crimes
 
-Embezzlement: abusing someone's [trust](trust.md) to take something
+Embezzlement: abusing someone's [trust](mind-trust.md) to take something
 
 Fraud: lying or unethical behavior to gain something (subversive)
 

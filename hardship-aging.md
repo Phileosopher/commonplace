@@ -23,7 +23,7 @@ At a certain point, people stop seeing you more like an institution than an indi
 Don't dwell too much on the familiar past:
 
 - Your [memory](mind-memory.md) has shifted the past positively, but those days were *not* as good as your nostalgia remembers them.
-- Very often, *all* the problems that presently exist were around when you were young, but you're more [aware](awareness.md) of them now, or they've become [more ubiquitous](people-trends.md).
+- Very often, *all* the problems that presently exist were around when you were young, but you're more [aware](mind-awareness.md) of them now, or they've become [more ubiquitous](people-trends.md).
 
 Instead, focus on what you can do now and in the future:
 

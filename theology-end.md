@@ -100,7 +100,7 @@ The world is slowly trending toward leftism:
 
 - [Leftism](politics-leftism.md) is a religion without any connection to God or religiousness, and might become a prototype of the end times' one-world religion ([Revelation 13:11-15](https://biblehub.com/revelation/13.htm)).
 - Leftism attempts to recreate Jesus' [Millennial Kingdom](https://theologos.site/millennium/) without God ([Revelation 21:1-8](https://biblehub.com/revelation/21.htm)).
-- In the process, they destroy God's design for [gender](gender.md), [family](church-family.md), [justice](morality-justice.md), and [boundaries](people-boundaries-why.md).
+- In the process, they destroy God's design for [gender](people-gender.md), [family](church-family.md), [justice](morality-justice.md), and [boundaries](people-boundaries-why.md).
 - Traveling the stars and colonizing other planets is a modern [technological](technology.md) update of the Tower of Babel ([Genesis 11](https://biblehub.com/genesis/11.htm)).
 - Leftism only gains [power](power.md) because people trust the [government](groups-large.md) out of [fear](mind-feelings-fear.md) of doing *anything* on their own or trusting God.
 - However, it simply doesn't have any good false hope to believe in beyond this life, since it's strictly a [political](politics-systems.md) perspective.

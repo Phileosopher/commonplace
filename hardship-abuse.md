@@ -51,7 +51,7 @@ In particular, people with [Cluster B personality disorder](mind-neurodivergence
 If you've *ever* been close to a narcissist, they will cause trouble for you:
 
 - They will often blame you for their faults ("projection").
-  - Over time, they will eventually call others narcissists, which can cause tremendous [trauma](hardship-ptsd.md) to someone who is [self-unaware](awareness.md).
+  - Over time, they will eventually call others narcissists, which can cause tremendous [trauma](hardship-ptsd.md) to someone who is [self-unaware](mind-awareness.md).
 - They will often use other people against you ("triangulation").
 - They'll demand constant attention and obedience from people close to them.
 - They have a double standard on empathy and praise:
@@ -78,4 +78,4 @@ Being raised by a narcissist can severely affect someone's [personality](people-
 
 - A child raised in that environment will come to believe that they can only receive love conditionally based on what they do, and are never worthy of love for their intrinsic nature.
 - Beyond anything else, narcissist parents create an inherent risk that their children become narcissists as they [mature](maturity.md).
-- Many other [neurodivergences](mind-neurodivergence.md) can arise, such as [autism](mind-neurodivergence-autism.md) (through feeling entirely unloved to the point of severe [distrust](trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).
+- Many other [neurodivergences](mind-neurodivergence.md) can arise, such as [autism](mind-neurodivergence-autism.md) (through feeling entirely unloved to the point of severe [distrust](mind-trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).

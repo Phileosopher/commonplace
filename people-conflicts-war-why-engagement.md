@@ -8,7 +8,7 @@ Unless the conflict is relatively short, there's a general calculus that approxi
 3. Add in the long-term capacity for other people who are both willing and able to make supplies for the fighters (e.g., food, more weapons).
 4. Diminish the capacity by the risks toward non-fighters from opponents (i.e., [logistical supply chain](logistics.md) disruption).
 5. Multiply or divide by prevailing [philosophical values](values.md) that can affect everyone:
-   - Belief in the importance of the conflict (as opposed to doing it out of [potential](people-imagination.md) personal gain).
+   - Belief in the importance of the conflict (as opposed to doing it out of [potential](mind-imagination.md) personal gain).
    - Brutality toward enemies (as opposed to the polar opposite of taking prisoners and treating them well).
    - The relative [education](understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](results.md) as it scales).
    - Any sense of ownership by the groups over what they're trying to take or defend.
@@ -19,7 +19,7 @@ But, there are a few universal aspects irrespective of size or context:
 
 - The lowest-ranking members, unrelated groups, and bystanders are *always* the most harmed. Most of the leadership are using others' power, but tend to [care](people-love.md) more about the [power](power.md) they wield and who they're destroying than any concern over their own [members](groups-member.md).
 - If the leaders are [unscrupulous](morality-evil.md), they'll attack their opponents' [symbolic](symbols.md) treasures. By damaging symbols, they damage their opponents' [cultural values](people-culture.md). Depending on the culture, this will sometimes provoke their [desire](purpose.md) for [vengeance](hardship-ptsd.md), but the long-term consequence of this is that the culture is diluted or dismantled.
-- If a group starts losing, the [loyalty](trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
+- If a group starts losing, the [loyalty](mind-trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
   - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
@@ -62,12 +62,12 @@ Their victory will [appear](people-image-why.md) decisive and usually is, though
 However, victory for the smaller group is far more complex than the opportunistic goals of their larger opponent:
 
 - The "[win conditions](math-gametheory.md)" for the smaller group are far more specific, and are sometimes simply survival.
-- They've put up enough of a fight that the larger group doesn't [anticipate](people-imagination.md) their victory is worth the cost. This can be either in lost resources or bad [image](people-image-why.md).
+- They've put up enough of a fight that the larger group doesn't [anticipate](mind-imagination.md) their victory is worth the cost. This can be either in lost resources or bad [image](people-image-why.md).
 - The larger group has lost so much to the conflict that they can't continue it.
 - The smaller group has lost everything the larger group would have [wanted](purpose.md).
 - Another group has distracted the large group. This often arises from that third group seizing the opportunity to take that large group's [power](power.md) while they're distracted.
 
-Often, to become the larger group against a common enemy, several groups will ally together for that specific [purpose](purpose.md) alone. Their alliance is almost always temporary. It's not uncommon for *that* alliance to become its own conflict after the other group is eliminated. Often, one group will betray the other group's [trust](trust.md) from that previous alliance to gain [power](power.md) in the exchange.
+Often, to become the larger group against a common enemy, several groups will ally together for that specific [purpose](purpose.md) alone. Their alliance is almost always temporary. It's not uncommon for *that* alliance to become its own conflict after the other group is eliminated. Often, one group will betray the other group's [trust](mind-trust.md) from that previous alliance to gain [power](power.md) in the exchange.
 
 However, the smaller group will often surrender. If they do, they're either absorbed into the larger group as [slaves](people-slavery.md) or permitted to persist as [subsidiary groups](mgmt-badsystems.md). In modern society, the slavery is often much more nuanced and goes by other names.
 
@@ -94,4 +94,4 @@ Often, when a match persists evenly among two groups, a *third* group may gain e
 
 Sometimes, the smaller group has *more* power than the larger group (e.g., governments give individuals more rights than a corporation). When this happens, the larger group will see themselves as evenly matched or outclassed, and *they* adopt the attitude and [perspective](people-image-why.md) of a more mobile and fast-acting small group.
 
-APPLICATION: A third attacker in a large conflict may be advantageous by either side, but they can't be [trusted](trust.md). They may attack either group at any time or change sides.
+APPLICATION: A third attacker in a large conflict may be advantageous by either side, but they can't be [trusted](mind-trust.md). They may attack either group at any time or change sides.

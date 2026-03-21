@@ -12,7 +12,7 @@ We *always* start conflicts from a [perceived](people-image-why.md) need:
 
 - Their need may or may not be real or accurate, and may simply be a "want".
 - That need may also be based on a complex set of circumstances.
-- You often have a *massive* advantage if you're [aware](awareness.md) of what you and others want and need.
+- You often have a *massive* advantage if you're [aware](mind-awareness.md) of what you and others want and need.
 - When you stand to gain for yourself or for another person, the skills are exactly the same.
 
 This perceived need someone has to confront a situation has several degrees of intensity:
@@ -54,7 +54,7 @@ Gratitude and revenge tend to complicate conflicts:
 
 Since most people are [higher agreeableness](people-personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](people-culture.md) and [norms](people-boundaries.md).
 
-But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](people-imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](people-imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
+But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](mind-imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](mind-imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
 
 Usually, we avoid the conflicts around us from several base reasons:
 
@@ -121,7 +121,7 @@ The range of disagreement a person typically sits within will indicate plenty of
 3. Making counter-arguments means they simply want to prove themselves right or prove their opponent wrong.
 4. Contradicting means they want to stop the other person from continuing in their dialogue.
 5. Attacking the tone means they [feel strongly](mind-feelings.md) against the information, but don't [understand](understanding.md) why.
-6. Attacking a person means they are either [dysregulated](awareness-dysregulation.md) or wish to [maintain an image](people-image-distortion.md).
+6. Attacking a person means they are either [dysregulated](mind-awareness-dysregulation.md) or wish to [maintain an image](people-image-distortion.md).
 7. Blindly attacking means they feel they will lose something if they lose the argument.
 
 Conflicts don't always resolve easily, though. Sometimes, inherent [bias](mind-bias.md) in the form of [discrimination](people-discrimination.md) can destroy any chance for an expedient resolution.
@@ -133,7 +133,7 @@ We like to imagine our conflicts are only with others, but they're not. Our conf
 There are only generally two constructive approaches to direct conflict management:
 
 1. Be a nice person, which makes conflicts incredibly rare and skewed in your favor because others tend to make general [judgments](mind-bias.md) that nice people are [good](morality.md).
-2. Be competent in your [specialization](jobs-specialization.md), which means others will [trust](trust.md) you're more likely to be correct.
+2. Be competent in your [specialization](jobs-specialization.md), which means others will [trust](mind-trust.md) you're more likely to be correct.
 
 In failing both, you're likely to become [enslaved](people-slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
 

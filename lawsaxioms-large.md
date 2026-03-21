@@ -3,6 +3,8 @@
 
 Ashby's Law of Requisite Variety - The number of unique states to control something is always more than the number of unique states of the thing being controlled.
 
+Bastiat's Principle - While breaking things causes what appears to be an economic benefit in the resolution, it also causes unseen economic loss.
+
 Beckstrom's Law/Metcalfe's Law - The value of a network is approximately the square of the users: each individual element/user's interactions added to that network, added together with every other element/user's interactions.
 
 Bowden's Law - After failing a test based on a theory, it's always possible to tweak the theory to prove that the test would have failed.

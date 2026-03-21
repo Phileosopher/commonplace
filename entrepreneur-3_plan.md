@@ -99,7 +99,7 @@ Describe in detail the demographics of each product's customers.
 - Identify the target customers, their characteristics, and geographic locations.
 - Indicate whether distributors, wholesalers, or retailers will give the product to the end-user.
 - For each type of customer, create a demographic profile:
-  - Age and [gender](gender.md)
+  - Age and [gender](people-gender.md)
   - Geographic location and regional lifestyle elements
   - [Income level](money-1_why.md), [social class](classes.md), [occupation](jobs-specialization.md), and [education](education.md)
 - If the customers are businesses, they'll have a different demographic profile:

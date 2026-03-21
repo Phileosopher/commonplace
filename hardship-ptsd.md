@@ -1,13 +1,13 @@
 
 # Trauma and PTSD
 
-We all experience trauma. It's an inevitable reality of life that started when we were small children. It might have been from legitimate abuse, but was pain over a thing we [wanted or needed](purpose.md) that we couldn't have. Further, it only has to be [imagined](people-imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
+We all experience trauma. It's an inevitable reality of life that started when we were small children. It might have been from legitimate abuse, but was pain over a thing we [wanted or needed](purpose.md) that we couldn't have. Further, it only has to be [imagined](mind-imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
 
 For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war-why.md)).
 
 APPLICATION: If something hurts a small child, it likely can hurt anyone. The only difference is that most adults harden themselves to that pain and learn to ignore it.
 
-If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](people-imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
+If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](mind-imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
 
 The psychological term for PTSD is literally a **Disorder** of **Stress** from **Post-Trauma**, and everyone has it in some non-clinical form:
 
@@ -33,14 +33,14 @@ Replaying memories is a subconscious habit, so everyone who has felt [pain or fe
 
 Stress has a unique journey into our minds:
 
-1. When we [trust](trust.md) that everything is fine, we don't feel any issues.
+1. When we [trust](mind-trust.md) that everything is fine, we don't feel any issues.
 2. At the moment we are [afraid](mind-feelings-fear.md) of the possibility of [a risk](safety.md) to something we [value](values.md), we feel stress.
 3. We can sometimes react to the fear to resolve the issue, but society typically [forbids](morality-taboo.md) it.
-4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](awareness-meditation.md), venting to [friends](people-friends.md)).
-5. When that doesn't happen, it slowly infiltrates into long-term [dysregulation](awareness-dysregulation.md) that alter our [beliefs](understanding.md) (e.g., bitterness, depression).
+4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](mind-awareness-meditation.md), venting to [friends](people-friends.md)).
+5. When that doesn't happen, it slowly infiltrates into long-term [dysregulation](mind-awareness-dysregulation.md) that alter our [beliefs](understanding.md) (e.g., bitterness, depression).
 6. At that point, we aren't aware that those feelings drive what we do, and have become victims of our own trauma.
 
-If we don't work through our [dysregulation](awareness-dysregulation.md) enough to [perceive](understanding.md) them, they tend to guide our convictions. We'll often frame values off those [beliefs](understanding-certainty.md), which can dramatically affect our [purposes](purpose.md).
+If we don't work through our [dysregulation](mind-awareness-dysregulation.md) enough to [perceive](understanding.md) them, they tend to guide our convictions. We'll often frame values off those [beliefs](understanding-certainty.md), which can dramatically affect our [purposes](purpose.md).
 
 Over time, not sifting through feelings creates a pent-up set of sentiments, which eventually ferments into worse experiences:
 
@@ -70,7 +70,7 @@ This may be more difficult to accept if you're in a [culture](people-culture.md)
 - Defective, mentally unstable
 - Coward, pitiful, pathetic
 
-Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](mind-decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
+Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](mind-awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](mind-decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
 
 There are many clinical terms for our natural self-protection techniques:
 
@@ -91,15 +91,15 @@ Nobody experiences trauma the same way, and they express it even more differentl
 - Hatred of [alcohol](fun-alcohol.md) and its paraphernalia, along with anyone in the industry. Taken far enough, will use [religion](religion.md) to suppress it.
 - Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](education.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
 - Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groups-member.md) associated with them.
-- Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](gender.md) [identity](people-identity.md) or becomes a [feminist](politics-leftism.md).
+- Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](people-gender.md) [identity](people-identity.md) or becomes a [feminist](politics-leftism.md).
 
 The hatred is a [habit loop](habits.md) that triggers on anything that reminds the person of the original pain. Those triggers can move *far* from the original source.
 
-Since our grasp on [reality](reality.md) is already pretty [uncertain](trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories-why.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
+Since our grasp on [reality](reality.md) is already pretty [uncertain](mind-trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories-why.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
 
-Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](awareness.md) of that pain and therefore [respond](mind-decisions.md) as if it doesn't exist. This is known as "[dysregulation](awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-health.md).
+Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](mind-awareness.md) of that pain and therefore [respond](mind-decisions.md) as if it doesn't exist. This is known as "[dysregulation](mind-awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-health.md).
 
-Thankfully, because of our tendency to [anticipate](stories-why.md) and [imagine](people-imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
+Thankfully, because of our tendency to [anticipate](stories-why.md) and [imagine](mind-imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
 
 APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](hardship-forgiveness.md) about the [injustices](morality-justice.md) they've suffered.
 
@@ -123,7 +123,7 @@ Unawareness causes the least short-term pain, so most people stay unaware of the
 
 However, with [experience and wisdom](maturity.md), they'll usually notice patterns from how others react to their [influence](power-influence.md). A select few will do some [soul](humanity.md)-searching and slow their [reactions](habits.md). If someone can integrate their shadow, they have a vast wealth of wisdom to draw from.
 
-Sadly, most people will stay unaware and form a convoluted [cause](people-imagination.md) for their continued misery. Since they're unaware of the way other people [feel](mind-feelings.md) about their behaviors, they'll presume everyone is reacting to something unrelated to themselves. Most of them will form theories on [human nature](humanity.md) that are entirely wrong.
+Sadly, most people will stay unaware and form a convoluted [cause](mind-imagination.md) for their continued misery. Since they're unaware of the way other people [feel](mind-feelings.md) about their behaviors, they'll presume everyone is reacting to something unrelated to themselves. Most of them will form theories on [human nature](humanity.md) that are entirely wrong.
 
 After enough time with someone, the victim will usually blame specific things on specific people with little evidence. Because of its implications, they'll hold to their theory harder than [reality](reality.md) and, over time, will lose touch with it as a result.
 
@@ -176,7 +176,7 @@ We tend to incorrectly redirect past trauma through several possible pathways:
 
 The only solution is to patiently expose ourselves to experiences that relive the trauma until we remove the harsh emotional ties to our past. While each person has their own way to fix it, there likely only one very specific way to release it that *all* trauma release mechanisms employ:
 
-1. Relive the trauma directly, then consciously [release associations with it](hardship-forgiveness.md). The easiest way to do this is through [self-reflection](awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
+1. Relive the trauma directly, then consciously [release associations with it](hardship-forgiveness.md). The easiest way to do this is through [self-reflection](mind-awareness.md) to learn the *precise* damage that harmed us, which may include continued exposure through experience.
 2. Discover for ourselves, plainly, what constitutes [the good life](people-goodlife.md) for ourselves if freed from trauma.
 3. Clarify to ourselves with *exact* [wording](language.md) the things that [trigger](habits.md) our trauma, which is typically a very specific and simple experience that gets in the way of our well-being.
 4. [Find a way](mind-creativity.md) to [circumvent](purpose.md) those tasks while performing all the aspects of a [good life](people-goodlife.md).

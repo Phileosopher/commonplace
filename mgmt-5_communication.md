@@ -288,7 +288,7 @@ People find [meaning in responsibility](meaning.md), so correctly delegating tas
   - You get more [freed-up time](success-4_routine.md).
   - They can improve their [résumé and skills](jobs-3_image.md).
   - You're able to see if *they* can start becoming a manager themselves, if the need arises.
-- In general, delegation builds a [culture](people-culture.md) of [trust](trust.md) and respect.
+- In general, delegation builds a [culture](people-culture.md) of [trust](mind-trust.md) and respect.
   - One advantage of delegation is that you can quickly see [abuses of power](power-types.md) by the wrong workers, but without having to change their official roles back-and-forth.
 - Clearly communicate how your delegation adds value to them or the organization (and not just yourself).
 

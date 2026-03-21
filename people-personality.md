@@ -7,7 +7,7 @@ A personality is based on the [experiences](reality.md) we endured and how we re
 
 In many ways, a personality is the closest we can observe as a "[soul](humanity.md)" within others. While the soul itself is more akin to the decisions we make *now*, our personality uses many [mental habits](habits.md) from the past to create a larger [expression](people-image-why.md) than the individual moments that make up the individual moments that define who we are at any given second.
 
-Our past decisions create a [habitual](habits.md) framework to dictate our preferences in [potential future situations](people-imagination.md). The cycle of present and past [identities](people-identity.md) based on our decisions converge together into our general disposition about life.
+Our past decisions create a [habitual](habits.md) framework to dictate our preferences in [potential future situations](mind-imagination.md). The cycle of present and past [identities](people-identity.md) based on our decisions converge together into our general disposition about life.
 
 APPLICATION: We can adapt dramatically to our environment, but we'll never like certain things. Each person has different preferences, and those preferences are critical to understanding ourselves and others. It's always better to delegate and [specialize](jobs-specialization.md) than try to be an all-in-one person for all situations.
 
@@ -31,7 +31,7 @@ Personality carves itself into [5 major classifications (with 2 subclasses)](peo
 
 Personality differences can be frustrating, but they're absolutely necessary because each personality is a broadly formed solution to a vast set of problems. No single person is equipped for every situation, and the wide variety of personalities gives different approaches to handling the complex [specializations](jobs-specialization.md) required to [live well](people-goodlife.md).
 
-High openness to experience must respect [convention](habits.md) and [tradition](people-culture.md), and low openness to experience must accept new experiences and take on [new risks](socialrisk.md).
+High openness to experience must respect [convention](habits.md) and [tradition](people-culture.md), and low openness to experience must accept new experiences and take on [new risks](entrepreneur-why.md).
 
 High conscientiousness must respect others' differing standards, while low conscientiousness must think more about others.
 
@@ -41,7 +41,7 @@ High agreeableness must discover and enforce their convictions, and low agreeabl
 
 High neuroticism must emphasize [healthy boundaries](people-boundaries.md), and low neuroticism must be more compassionate for others' [feelings](mind-feelings.md).
 
-Regarding [gender](gender.md) differences within personalities, men and women tend to be more alike than different, but there are some distinctions:
+Regarding [gender](people-gender.md) differences within personalities, men and women tend to be more alike than different, but there are some distinctions:
 
 - Men tend to have *much* lower agreeableness than women, most prominently in the domain of compassion.
 - Men tend to have lower neuroticism compared to women.
@@ -70,7 +70,7 @@ Personality often has a direct correlation with [political association](politics
 - Liberals tend to be higher in openness to experience.
 - On the aspect of agreeableness, liberals tend to be higher in compassion and lower in politeness, and conservatives are the reverse.
 
-When choosing a [mate](gender.md) or [leader](groups-small.md), personality is *critical* to finding a good match:
+When choosing a [mate](people-gender.md) or [leader](groups-small.md), personality is *critical* to finding a good match:
 
 - Identical personalities for a [relationship](relationships-marriage.md) are ideal in *all* the aspects (because they share a common [identity](people-identity.md)) except neuroticism: two emotionally volatile people are *very* dysfunctional and dangerous. However, pairing two people who are *very* similar means a smaller range of [creativity](mind-creativity.md) to find legitimately useful [solutions](purpose.md).
 - While [hiring people](mgmt-1_why.md) should be based at least somewhat on conscientiousness, this is *especially* true for managers who [direct other people](groups-small.md). However, the appearance of most leaders demonstrates through assertiveness, which often creates [awful social systems](mgmt-badsystems.md) if the appointing leaders aren't careful.
@@ -91,11 +91,11 @@ Most things we call "personality disorders" are simply the combination of [neuro
 Beyond that, there are a wide variety of mixtures when these 5 base components fit together into synergies.
 
 - Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](people-changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
-- The [high-risk](socialrisk.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
+- The [high-risk](entrepreneur-why.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
 - [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, they tend to spend less time pondering and run society instead.
 - Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-specialization.md) crime can be much broader on the range of conscientiousness.
 - [Religious](religion.md) leaders (except for [cults](culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](people-trends.md) religions often having high openness to experience and at least moderate extraversion as well.
-- Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](gender.md)).
+- Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](people-gender.md)).
 - People who foster plenty of nostalgia tend to foster [tradition and convention](habits.md), which requires high agreeableness, high conscientiousness, and low openness to experience.
 - [Funny people](humor.md) are typically high-openness (to see things in a [creative new way](mind-creativity.md)), moderate-agreeableness (to make jokes that involve pain), and low-enough conscientiousness to find comfort in breaking [rules](people-rules.md).
 - When it comes to conformity, there are four domains based on aggressiveness (agreeableness + extraversion) and mindedness (conscientiousness + openness to experience):
@@ -120,10 +120,10 @@ One consequence of this is that measuring personalities is very difficult. Peopl
 
 Generally, most cultures form an expected "false self" with a specific range of personality:
 
-- Openness to Experience - [adapt and change](people-changes.md) to whatever the group [expects](people-imagination.md), but never take on enough [risk](socialrisk.md) that may potentially create adverse events for the group.
+- Openness to Experience - [adapt and change](people-changes.md) to whatever the group [expects](mind-imagination.md), but never take on enough [risk](entrepreneur-why.md) that may potentially create adverse events for the group.
 - Conscientiousness - always do what's [right](morality.md), until it doesn't conform with the desires of the highest-ranking [group leader](groups-large.md).
 - Extraversion - do whatever you want, but always attend required [group events](groups-member.md) and conform to the [cultural mores](people-culture.md) of your group.
-- Agreeableness - never [disagree](people-conflicts-why.md) with the group leader and only [politely disagree](people-conflicts.md) with others, and [females must be more agreeable than males](gender.md).
+- Agreeableness - never [disagree](people-conflicts-why.md) with the group leader and only [politely disagree](people-conflicts.md) with others, and [females must be more agreeable than males](people-gender.md).
 - Neuroticism - you're free to express your [feelings](mind-feelings.md), up to the point where the group's tasks may be disrupted or will portray an adverse [image](people-image-why.md) to others outside the group.
 
 Proportional to our *actual* agreeableness, our actions with society's responses create a feedback loop of shame that reinforces and magnifies our "shadow self":
@@ -133,7 +133,7 @@ Proportional to our *actual* agreeableness, our actions with society's responses
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
 
-Most modern [non-medication](body-health.md) psychotherapy is devoted to exploring and unpacking [awareness](awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](people-trends.md)) if everyone did it at once.
+Most modern [non-medication](body-health.md) psychotherapy is devoted to exploring and unpacking [awareness](mind-awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](people-trends.md)) if everyone did it at once.
 
 Only a few methods work to "integrate" a shadow, and every healthy solution uses at least some of them, but even the *methods* that resolve the problem are highly controversial:
 

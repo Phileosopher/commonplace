@@ -81,7 +81,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - In practice, it's like Charlotte Mason, but has a far more secular approach with more holistic elements.
 - In the early stage, there's an emphasis on [arts and crafts](mind-creativity.md), music, and movement, and nature.
 - Waldorf style believes in rigorous academics, but *only* after the child is developmentally ready. Formal academics, especially reading, is delayed until age 7.
-- Older children are taught to develop [self-awareness](awareness.md) and [reason](logic.md) things out for themselves.
+- Older children are taught to develop [self-awareness](mind-awareness.md) and [reason](logic.md) things out for themselves.
 - One key detail is that it's *very* anti-[technology](technology.md).
 
 **Multiple Intelligences** (est. 1983) homeschooling derives off the belief that every person has a form of [intelligence](understanding.md) that sits on multiple spectra:
@@ -93,7 +93,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
   4. [Body movement](fun-sports.md) (body-kinesthetic)
   5. Musical
   6. [Connection with others](people-conversation.md) (interpersonal)
-  7. [Awareness](awareness.md) of oneself (intrapersonal)
+  7. [Awareness](mind-awareness.md) of oneself (intrapersonal)
   8. Ability to explore [the environment](reality.md) (naturalistic, more contentious than the original 7).
   9. Theoretically, other forms that haven't been discovered yet.
 - The idea is that everyone is *somehow* intelligent along these spectra, and that children must be taught with methods that match those particular intelligences.
@@ -117,7 +117,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - Mornings are typically mandatory schoolwork, while afternoons are for hobbies and special projects.
 - One *major* advantage of this style is that you can teach them about important details they may need to understand, such as [how to live well](people-goodlife.md) and [basic life skills](habits.md).
 
-If you know people and are [entrepreneur minded](entrepreneur-1_why.md), you can also start a **schoolhouse** yourself:
+If you know people and are [entrepreneur minded](entrepreneur-1_what.md), you can also start a **schoolhouse** yourself:
 
 1. Find at least 10--15 children who need educating and a *very* intelligent teacher in your community willing to sacrifice their time to educate.
 2. Establish a schoolhouse with those children, using a more streamlined version of a homeschool method.
