@@ -65,6 +65,18 @@ Write a journal:
 
 Immediately before *any* important experience, take about 30 seconds to write down the most important points of that upcoming experience.
 
+For every thought, conduct an audit of its connected thoughts by asking several clear questions:
+
+1. Where will these thoughts lead me?
+2. Will these thoughts get me to where I want to go?
+   - Will these thoughts build me up or tear me down?
+   - If not sure, where *do* I want to go?
+3. Are these thoughts [morally acceptable](morality.md) beyond what I simply feel to be right?
+4. Do i feel guilty thinking these thoughts, and why?
+5. Could I share these thoughts with someone else?
+   - This gives tremendous insight on the relationship between your spiritual state and others' spiritual state.
+6. Where did these thoughts originate?
+
 ## Don't overdo it
 
 If things become *awful*, we may need help attaining awareness through outside help.

@@ -1,5 +1,5 @@
 
-# How to evangelize
+# How to evangelize (Missiology)
 
 Time is short for people to hear the [Gospel](https://theologos.site/gospel/).
 
@@ -100,6 +100,34 @@ Don't obsess about appearing professional, precise, or [convincing](power-influe
 
 - The Holy Spirit will work through your imperfections, and often in remarkable ways.
 - Most mainstream Christian evangelistic publications may [generate leads](marketing.md), but do *not* bring people to Jesus nearly as much as sincere, personal conversations between non-Christians and Christians.
+
+### Specific presentations
+
+These are just a few gathered approaches
+
+The Four Spiritual Laws
+
+1. God loves you ([John 3:16](https://biblehub.com/john/3-16.htm))
+2. Man is sinful and separated from God ([Romans 3:23](https://biblehub.com/romans/3-23.htm), [Romans 6:23](https://biblehub.com/romans/6-23.htm), [Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
+3. Jesus Christ is God’s only provision for man’s sin ([Romans 5:8](https://biblehub.com/romans/5-8.htm))
+4. We must individually receive Jesus as Savior and Lord ([John 1:12](https://biblehub.com/john/1-12.htm), [Romans 10:9](https://biblehub.com/romans/10-9.htm), [Ephesians 2:8](https://biblehub.com/ephesians/2-8.htm))
+
+F.A.I.T.H
+
+- F for Forgiveness: Everyone has sinned and needs God's forgiveness ([Romans 3:23](https://biblehub.com/romans/3-23.htm), [Ephesians 1:7](https://biblehub.com/ephesians/1-7.htm))
+- A for Available: Forgiveness is available to all, but is not automatic ([John 3:16](https://biblehub.com/john/3-16.htm), [Matthew 7:21](https://biblehub.com/matthew/7-21.htm))
+- I for Impossible: The Bible tells us it is impossible for us to get to heaven on our own ([Romans 3:23](https://biblehub.com/ephesians/2.htm))
+- T for Turn: We must turn away from our sin and self ([Luke 13:3](https://biblehub.com/luke/13-3.htm), [John 14:6](https://biblehub.com/john/14-6.htm), [Romans 10:9](https://biblehub.com/romans/10-9.htm))
+- H for Heaven: We will go to a place where we will live with God forever ([John 14:3](https://biblehub.com/john/14-3.htm))
+
+Two Ways to Live
+
+1. God is a good ruler and creator ([Revelation 4:11](https://biblehub.com/revelation/4-11.htm))
+2. We have rebelled against God ([Isaiah 53:6a](https://biblehub.com/isaiah/53-6.htm))
+3. God is just ([Hebrews 9:27](https://biblehub.com/hebrews/9-27.htm))
+4. God sent Jesus to die for us ([Isaiah 53:6](https://biblehub.com/isaiah/53-6.htm))
+5. Jesus is the risen ruler and savior ([1 Peter 1:3](https://biblehub.com/1_peter/1-3.htm))
+6. We must choose from two ways to live ([John 3:36](https://biblehub.com/john/3-36.htm))
 
 ## Spiritual conversations
 
@@ -231,7 +259,7 @@ A Christian's conversion is *not* simply a goal, and is the beginning of a long 
 
 - Jesus' Great Commission was first to preach the Gospel ([Mark 16:15](https://biblehub.com/mark/16-15.htm)), but also to make disciples ([Matthew 28:19-20](https://biblehub.com/matthew/28.htm)).
 
-The Sinner's Prayer comes in a variety of forms (including [Psalm 51](https://biblehub.com/psalms/51.htm)effectively covers the first part of [receiving the Gospel](https://theologos.site/gospel/):
+The Sinner's Prayer comes in a variety of forms (including [Psalm 51](https://biblehub.com/psalms/51.htm)), and effectively covers the first part of [receiving the Gospel](https://theologos.site/gospel/):
 
 - "Lord, I admit I am a sinner. I need and want Your forgiveness. I accept Your death as the penalty for my sin, and recognize that Your mercy and grace is a gift You offer to me because of Your great love, not based on anything I have done. Cleanse me and make me Your child. By faith I receive You into my heart as the Son of God and as Savior and Lord of my life. From now on, help me live for You, with You in control. In Your precious name, Amen.
 

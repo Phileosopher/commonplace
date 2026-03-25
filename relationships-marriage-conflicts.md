@@ -22,6 +22,12 @@ As stupid as you may feel they are, respect them and their views:
 - No degrading language, swearing, or yelling.
 - Avoid sarcasm at all costs, since they will feel like you're betraying them.
 
+Open up about what you want and feel.
+
+- Many times, asking a simple question will yield a simple answer that won't get you what you want.
+  - For example, "Do you want to watch TV with me?" might be "No, I'm busy", but "I'd feel really happy it if you could relax and spend some time watching TV with me" will yield more positive results.
+- In general, aim for low-context communication.
+
 Try to be correct, and ignore whether you're right.
 
 - If you're wrong, very quickly admit it and try to understand how.

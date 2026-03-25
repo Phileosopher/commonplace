@@ -56,6 +56,8 @@ At first, the transmitter/receiver configuration ("transceiver") were "single-in
 
 It's worth noting that wireless networks are *always* operating as "hubs", so "carrier-sense multiple access" (CSMA) is a *constant* necessity to keep the signals organized. The extra complexity and conflicts with managing multiple streams of network traffic is a considerable reason why wireless can never *quite* get wired signal speeds.
 
+Across long distances, radio towers' line of sight doesn't pass through the ground, so they will send microwaves back-and-forth to each other.
+
 There is a *lot* of error-correcting code to compensate for radio signals, for several reasons:
 
 1. Signals can easily get mixed with other signals, so the code is sent *many* times, and often repeatedly until it receives a signal back.

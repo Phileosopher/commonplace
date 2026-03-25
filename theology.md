@@ -132,4 +132,4 @@ Finally, these are the formal groups defined in most systematic theologies, subc
 - [Demonology and Angelology](theology-angels.md)
 - [Ecclesiology](theology-church.)
   - [Mariology](theology-mary.md)
-  - [Missiology](theology-evangelism.md)
+  - [Missiology](spiritual-exercises-evangelism.md)

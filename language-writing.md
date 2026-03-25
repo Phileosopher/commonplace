@@ -4,11 +4,10 @@
 Modern society requires writing.
 
 - Most technological channels are limited and require writing more than talking:
-
-- Writing emails and text messages
-- Giving summaries and reports
-- Social media
-- Most remote feedback and commentary
+  - Writing emails and text messages
+  - Giving summaries and reports
+  - [Social media](networks-social.md)
+  - Most remote feedback and commentary
 
 People read at about 200 words per minute but only talk at about 110-150, so writing permits more information with less time and space.
 

@@ -25,7 +25,7 @@ APPLICATION: There is no solution [creative](mind-creativity.md) enough to keep 
 
 Beyond [norms](people-rules-list.md), A society's rules are designed for the collective good of the group (at least in [appearance](people-image-why.md)), and will always weigh at least a little toward those with [authority](power.md).
 
-The group's leadership determines which of those standards become laws/policy, and then it's approved by the members proportional to how much [power](power.md) they have in the group.
+The group's leadership determines which of those standards become [laws/policy](people-rules-methods.md), and then it's approved by the members proportional to how much [power](power.md) they have in the group.
 
 A [wide variety of enforcement measures](rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](people-trends.md) and don't precisely conform to [justice](morality-justice.md).
 

@@ -117,6 +117,8 @@ APPLICATION: Words' [emotions](mind-feelings.md) make us associate them to [acti
 - Discussing [sports](fun-sports.md) makes people dumber.
 Because speaking or writing has an implied [purpose](purpose.md) for its existence, language *always* presumes an audience exists as well.
 
+While modern society connects reading and listening similarly, "sight reading" without speaking out the sounds is a relatively new concept. For most written history, only extremely intelligent people had the skill to sight read.
+
 There is an even cadence to language, whether spoken or written. The farthest end of it becomes "poetry", but it expresses through the rhythm interpreted by the audience. For example, the statement "there are many ways, many things, and many worlds" sounds more pleasant than "There's many ways, things, and worlds".
 
 One key difference between speaking and writing is through our interpretation of its permanence. We tend to know that writing has more [meaning](meaning.md) attached, so we can feel enough [fear](mind-feelings-fear.md) that we'll not be able to start writing. By contrast, we can typically speak without much effort, assuming it's not [public speaking](language-speaking.md).

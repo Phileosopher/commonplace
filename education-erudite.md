@@ -29,6 +29,10 @@ While it has [religious](religion.md) implications, [the Bible](theology-bible.m
   - Most other [religions](religion.md) that *don't* use the Bible are often acting in response to it (e.g., Islam).
 - Also, if it is even remotely true to be what it says (the spoken words of God), it's the only thing that *isn't* merely humanity sharing stuff with humanity.
 
+Self-help
+
+- Charles Duhigg's "The Power of Habit", though Part 3 and onward is a bit weak.
+
 Engineering and design
 
 - Donald Norman's "The Design of Everyday Things" gives a clear primer on all things [UI and UX](engineering-design.md).
@@ -41,6 +45,12 @@ Philosophy
 - Modern
   - Rene Descartes' "Meditations on First Philosophy"
   - Wikipedia summaries of modern philosophers, since random fans of the philosophy do a better job summarizing any sufficiently usable ideas than the philosophers themselves.
+
+Religion
+
+- Christian
+  - St. Ignatius of Loyola's "Spiritual Exercises"
+  - C.S. Lewis' "Mere Christianity"
 
 ## Things to avoid like the plague
 

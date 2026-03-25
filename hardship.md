@@ -32,7 +32,7 @@ If others judge you, treat their behavior as part of the package of your current
 - You are [responsible](meaning.md) to [fix what you broke](https://adequate.life/fix/) and [alienate yourself](people-changes.md) from the decisions that created your situation.
   - You are *not* responsible for how others think about you.
 
-People will use projection, transference, and poor self-management skills to behave inappropriately toward you:
+People can often use projection, transference, and poor self-management skills to behave inappropriately toward you:
 
 - People will project their [feelings](mind-feelings.md) onto you:
   - Criticism often comes from feeling shame.
@@ -99,6 +99,49 @@ Give yourself plenty of grace:
 
 - Your experience was devastating, and it'll interfere with your ability to perform familiar things.
 - Don't make [plans](success-3_goals.md) or expect much from yourself, at least until the initial wave of emotional shock wears off.
+
+## You may not be prepared
+
+Our [personality](people-personality.md) defines our threshold for awful experiences.
+
+- Some people are highly capable at withstanding unbelievable adversity.
+- Others, by contrast, will have trouble with [basic success](success-1_why.md) because they can't [persevere](success-5_persevering.md).
+
+Any person with the following will be particularly susceptible to poorly managing hardship:
+
+- Easily provoked with difficulty calming down.
+- Interprets all negative circumstances as typical and permanent.
+- Unable to deal with [uncertainty](unknown.md).
+- Refusal to [change](people-changes.md) or [learn](education.md) from mistakes.
+- Extremely serious-minded, with no sense of [humor](humor.md).
+- Antisocial, with a tendency to alienate [friends](people-friends.md)
+- Self-worth is either extremely low or outright delusional.
+- Uninterested in nearly everything.
+- Focus on everything but themselves ("external" locus of control)
+
+Even while you can't control your capacity for pain, you *can* learn some basic coping skills.
+
+- When a crisis or chaotic situation happens:
+  - [Calm yourself](mind-awareness.md) and take useful actions.
+- Find positives in negative circumstances.
+  - Sees all negative circumstances as temporary.
+  - Views setbacks as a standard part of life.
+- Adaptable to unpredictable circumstances.
+  - Learns from mistakes.
+  - Changes as the situation calls for it.
+  - Works well with unclear goals.
+- A developed sense of [humor](humor.md), especially about oneself.
+- A well-developed intuition about people.
+  - The ability to open up to [friends](people-friends.md) about [feelings](mind-feelings.md).
+  - Able to [understand](understanding.md) others without judgment.
+  - A good [listener](language-speaking-listening.md).
+  - Able and unafraid to ask for help whenever needed.
+- A sober [view of oneself](mind-awareness.md).
+  - Self-identifying as durable and an overcomer.
+- Constantly curious about how things work or new ways to do things.
+  - [Creative](mind-creativity-how.md) with respect to solving problems.
+  - Good at [fixing things](https://adequate.life/fix/).
+  - Focused on what they can do themselves ("internal" locus of control)
 
 ## Don't let feelings define you
 

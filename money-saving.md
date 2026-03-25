@@ -85,6 +85,10 @@ Get massages at local massage schools or cosmetology schools.
 
 Use bar soap instead of body wash.
 
+- When a soap bar grows slim, attach it to a new bar of soap while it's still wet to use the entire bar.
+
+After shaving, dry off the razor every time to prevent rust.
+
 Save on hair products:
 
 - When the shampoo bottle is nearly empty, set it upside down when you're finished showering.
@@ -400,89 +404,3 @@ Christmas decorations:
 - Make Christmas parties more informal to save on costs.
 - If you enjoy lights, mind how much you decorate with them.
 - Get an artificial tree instead of a pine tree.
-
-## Vacations
-
-Find free ways to take vacations:
-
-- Raise funds for a worthy cause.
-- Get a travel scholarship.
-- Take up a challenge and get sponsored for something intense.
-- Enter a contest.
-
-### Saving on lodging
-
-Price shop hotels with a discount room-filling service.
-
-Use the same hotel or chain frequently to occasionally get promotions or discounts.
-
-You can save hundreds of dollars by choosing somewhere half a mile away from the city's central tourist region.
-
-Request a corner room to get a more spacious room for the same price.
-
-Call the hotel directly:
-
-- The 1-800 booking site often goes to a corporate office with fixed prices
-- Hotels can pay a commission of up to 30% to online booking sites
-- Keep their adjusted price when directly negotiating a price with a hotel
-- Direct negotiation has risks:
-  - Booking directly with a hotel loses the leverage a good intermediary may give you if something goes wrong
-  - Cheap customers are the first people to lose their room if the hotel overbooks
-
-Try to use independently owned hotels because they're the highest-quality in the world and are far more likely to give you a discount.
-
-Hotel tipping is mostly out of style but if you do leave one, put it under the pillow and leave a note to clarify who it's for.
-
-If you ever lose your phone charger, ask the front desk of your hotel because they often have extras that other people have left.\
-Alternative lodging arrangements:
-
-Only get a timeshare if you're budgeting a vacation every year for decades.
-
-Rent out your home while you're away.
-
-Rent a local guest house instead of a hotel.
-
-- Try renting from a local host through a room-sharing site.
-
-House-swap with someone in the classified ads for where you want to stay.
-
-Pack a tent and camp in someone's garden.
-
-Couch-surf through an internet posting.
-
-Look at renting a portion of a monthly classified ad property if you're staying there for more than two nights or have a large group.
-
-Try a work-for-rent arrangement.
-
-- It's usually not as bad as it sounds, especially if you do it for a few months.
-- Go organic farming through a network like [WWOOF](http://www.wwoof.net/).
-- Crew a yacht or cruise ship.
-- Work at a hostel.
-- House-sit for someone advertising it online.
-
-Track your spending in a small notebook to avoid going over budget.
-
-Be courageous when haggling everything, especially when you're not in the West.
-
-Only collect souvenirs you intend to use as decorations when you get home.
-
-In foreign countries, eat at local establishments instead of familiar places:
-
-- Ask around for the best places.
-- Outdoor vendors often have the most affordable food.
-
-Visit anywhere that serves alcohol during happy hour (which varies based on the country).
-
-Depending on the country, you may be able to rent out a kitchen.
-
-### Traveling cheaply
-
-Depending on the region, you can walk or hitchhike.
-
-Keep track of all your receipts to dispute strange fees.
-
-Look into whether a country has a weekly or monthly tourist rail pass.
-
-Try an unconventional transportation solution, like touring overland on a motorbike.
-
-Rent a car if train tickets are expensive.

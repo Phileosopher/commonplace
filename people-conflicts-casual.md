@@ -87,7 +87,10 @@ If someone is sharing something you wanted to keep private:
 
 ## Approach others' failings correctly
 
-Don't be afraid to confront them, especially if it's about a legitimate issue you both need to address.
+Don't be afraid to [confront them](people-conflicts-disagreements.md), especially if it's about a legitimate issue you both need to address.
+
+1. In any conflict, [educate](education.md) yourself beforehand as much as possible.
+2. When you encounter the conflict, you can speak as a legitimate expert on the situation.
 
 Beforehand, acknowledge that you don't want to hurt them with what you're about to say.
 
@@ -199,6 +202,12 @@ NOTE: Only use this after the meeting has gone over on the estimated time it was
 2. Send them a message:
    - Hey (their name), I've been so turned on since we last spoke. I never felt this way about someone like this before! 😍♥️😉
 3. When they respond, make your intentions clear, which may include legal action.
+
+### When you must ask a favor from someone
+
+1. Clearly understand exactly what your problem is, in as specific a way as possible.
+2. Indicate you know absolutely nothing about the subject.
+3. Sincerely ask for help on that very specific problem that you certainly can't solve.
 
 ## High-context language
 

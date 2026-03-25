@@ -153,6 +153,12 @@ For this reason, many formal teaching institutions run the same risks of any oth
 - Many teachers have plenty of [unresolved trauma](hardship-ptsd.md) that provokes them to insist heavily on [order](unknown.md) in their educational system, which insulates their [culture](people-culture.md) from the rest of the world. Without a reliable amount of [social risk](entrepreneur-why.md), they'll end up covering [trends](people-trends.md) that already passed and will impede a student's ability to apply the information they've learned more than if the student learned it themselves.
 - If school standards start failing, school systems will often start drilling and training their students harder to compete with other schools.
 
+APPLICATION: As a student struggling with a curriculum, it's very difficult to figure out which of the three non-exclusive conditions apply:
+
+1. The teacher is giving a well-intended but insufficient expansion of some very difficult ideas.
+2. That teacher is trying to explore new concepts while also trying to teach their students.
+3. The teacher is pontificating and they don't really understand the topic, but they look important by making the subject needlessly complicated.
+
 APPLICATION: A major risk for all [teachers](education.md) is that they will invariably teach their subject enough that they're not as effective as actually [doing anything](purpose.md) with what they have. The only solution is for them to teach less and do more, but then they wouldn't be [specialized enough](jobs-specialization.md) for anything.
 
 APPLICATION: Any formalized education, including [college](jobs-college.md), risks exploring meaningless topics through an avalanche of information. The only solution exists *beyond* the educational system (e.g., getting a college degree to become a lawyer), and we find that motivation through [self-awareness](mind-awareness.md) and learning to simplify what we understand.

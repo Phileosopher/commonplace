@@ -31,3 +31,14 @@ The only meaning that persists involves things you invest into others:
   - If people around you are avoiding you, it's likely they're [self-aware](mind-awareness.md) enough to protect themselves from you sabotaging *their* [joy](mind-feelings-happiness.md).
 - While none of your friends will tell you (since it's [taboo](morality-taboo.md) or may throw you into further depression), your depression is selfish.
   - If you weren't preoccupied with your thoughts and focused instead on addressing others' problems, you would slowly find contentment in the [results](results.md) you'd accumulate over time.
+
+Unfortunately, no human being can ever pull you out of your depression.
+
+- Most people simply don't understand what clinical-grade depression feels like, so they often misattribute it as merely extreme [sadness](mind-feelings-sadness.md).
+- Most communities that appeal to depressed people are typically contributing to a condependent existence, [which has its own set of issues](people-culture-cults.md).
+- Any mind-altering substance (e.g., magic mushrooms, antidepressants) has the risk of further distorting our brain's ability to produce a healthy amount of positive hormones.
+- [God](theology-god.md) is capable and willing to transform us, but we must submit ourselves to His control, and this is a very personal experience that will result in [a type of ego death](https://theologos.site/gospel/).
+
+However, you can't dismiss your circumstances and "carry on".
+
+- If you don't pay attention, you'll eventually be one unfortunate event away from committing suicide.

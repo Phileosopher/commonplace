@@ -7,13 +7,29 @@ The most complex part of a narcissist comes through how they manage conflicts.
 
 ## Indicators
 
+Whenever they need something, they won't ask for it.
+
+- Instead, they will imply their need and hope someone notices ("dry begging").
+- There are many versions of this, but they all have the same [poor boundaries](people-boundaries.md):
+  - "I never get to have fun."
+  - "Nobody appreciates me."
+  - "If only I could afford..."
+  - "It must be nice to have..."
+  - "I wish I were as lucky as..."
+  - "If that matters more to you than me..."
+
 They will remain calm after causing chaos.
 
-When pushed to it, they will only admit fault in a partial way:
+When pushed to it, they will do everything possible to avoid admitting fault:
 
-- "Everyone has done wrong here."
-- "I was distracted/busy with something else/occupied."
-- "They were asking for it."
+1. "That didn't happen."
+2. "If it happened, it wasn't that bad."
+3. "If it was bad, it wasn't that big of a deal."
+4. "If it was a big deal, it wasn't my fault."
+5. "If it was my fault, I didn't mean it."
+6. "If I meant it, other people made me do it."
+7. "If I chose to do it without coercion, the victims were asking for it."
+8. "If I have no excuse, everyone has done wrong here."
 
 They will tend to escalate [conflicts](people-conflicts.md) from simple disagreement into arguments *much* faster than most other people.
 

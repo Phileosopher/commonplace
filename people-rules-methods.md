@@ -3,6 +3,14 @@
 
 These methods are applicable to *all* [leaders](groups-small.md). The only limit is how much [power](power.md) they have to take away others' power. It doesn't matter if they're a government, corporation, or club.
 
+It's worth noting that laws and policy are never fully followed.
+
+As far as motivation, law-makers are seeking:
+
+1. To instill [fear](mind-feelings-fear.md) against an action for the purpose of deterring people.
+2. They wish to profit off the breaking of the law (e.g., [sin taxes](money-accounting-taxes.md))
+3. They need a decent excuse to punish or profit regarding something else.
+
 ## A. "Fear Points"
 
 If an organization doesn't have the power to safely destroy someone's image publicly, they'll often create a "points" system to [scare](mind-feelings-fear.md) people away from more punitive measures.

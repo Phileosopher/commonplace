@@ -106,6 +106,8 @@ To manage information across an unsecured network (such as the internet), some s
 
 A VPN ("virtual private network") will "tunnel" to another computer by sending encrypted information that the other computer can decrypt, with nobody else able to decode the information if it's intercepted.
 
+It's worth noting that an SSH tunnel with a proxy is a de facto VPN connection.
+
 *Always* use them on public networks (such as Wi-Fi) and make it a habit to use them for all sensitive activities (like buying things), and it should (as of right now) have at least AES-256 encryption.
 
 There are multiple types of VPN protocol:

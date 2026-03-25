@@ -54,6 +54,35 @@ Direct boredom with others' interests, thoughts, or feelings that don't involve 
 - The only time they'll pay attention is when it corresponds to their interests.
 - Most of the time, they'll stonewall but won't express their disinterest because they know it'll sabotage their ability to get narcissistic supply.
 
+Manipulative language that reframes their moral and character defects:
+
+- They refuse to grow:
+  - "I’m just brutally honest."
+  - "That’s just how I am."
+- They're redirecting accountability by reframing as a victim:
+  - "I guess I’m just too much for people."
+  - "I don’t like drama."
+- They're redirecting accountability with [DARVO](mind-neurodivergence-clusterb.md):
+  - "You’re too sensitive."
+  - "I didn’t want to hurt you."
+  - "I was just joking."
+  - "Why are you making this a big deal?"
+  - "Why are you bringing up the past?"
+  - "You changed."
+  - "You made me act like this."
+- They use shame to keep score:
+  - "If you loved me, you would..."
+  - "I did all this for you."
+- They're isolating and fostering dependency [with their victims](mind-neurodivergence-clusterb-narcissist-stages.md):
+  - "I need you."
+  - "Let’s keep this between us."
+  - "You’re the only person I have."
+- They're [twisting image](people-image-distortion.md):
+  - "I don’t believe in labels."
+  - "I was protecting you."
+  - "Trust me."
+  - "You’re overthinking."
+
 ## Finding out for sure
 
 If you suspect narcisssistic behavior:

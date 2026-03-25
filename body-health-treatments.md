@@ -1,68 +1,23 @@
 
 # How to implement healthy treatment solutions
 
+Most of the solutions for a healthy life are relatively straightforward, and simply involve knowing what solutions apply to what problems.
+
+Often, we tend to manage small [risks](money-insurance.md) and increase larger ones:
+
+- We'll worry about organic food or the risks of pancreatic cancer, but text at a stop light when [operating a motor vehicle](autos.md) causes tens of thousands of deaths every year.
+- More people die each year from falling in the home than from house fires.
+
 ## Lean toward prevention first
 
 Prevention is *always* better than treatment.
 
-- Aim for lifestyle habits that can avoid the problems you face instead of external methods to treat the symptoms of your lifestyle.
+- Aim for [lifestyle habits that can avoid the problems you face](body-health-treatments-general.md) instead of external methods to treat your lifestyle symptoms.
 - From a [marketing perspective](marketing.md), the most [financially advantageous](power-types.md) situation for [many large organizations](mgmt-badsystems.md) is for you to be miserable and dependent on their product (i.e., pharmaceuticals and treatments).
 
-Learn to [stay positive](mind-feelings-happiness.md).
-
-- Often, our [fears](mind-feelings-fear.md) of health problems tend to *increase* our chances of anxiety-based health issues like heart attacks.
-
-Add a few routine things to your daily diet:
-
-- A daily multivitamin (with Vitamin D3 if you're indoors).
-- Fermented garlic:
-  1. Cover peeled garlic cloves in raw honey
-  2. Let sit 30 days
-  3. Take 1 tsp every day
-- Infused vinegar:
-  1. Add rosemary and garlic to apple cider vinegar
-  2. let steep 3 weeks
-  3. take 1 tsp in water or tea daily
-- Elderberry syrup:
-  1. Simmer 1 cup of berries and cinnamon in 4 cups water
-  2. Add 1/2 to 1 cup honey
-  3. Take 1 tbsp daily
-
-The body works best when it [faces resistance](people-goodlife.md), but most doctors tend to recommend bed rest for recovery.
-
-- When we push against something, we get stronger, even when recovering.
-- Resting after an injury often (even for lower back pain or a heart attack) causes *more* damage.
-- If you haven't worked out in a while, shorter bursts of rigorous exercise are *far* faster at getting your body in shape again than prolonged low-exposure exercise.
-
-Consider fasting to improve your overall health:
-
-- After 4-8 hours:
-  - Blood sugar falls
-  - All food leaves the stomach
-  - The pancreas is no longer producing insulin
-- After 12 hours:
-  - All food in the digestive system has been used
-  - The digestive system goes dormant
-  - The body begins a healing process
-  - Glucagon is relaxed, which balances blood sugars
-  - Human growth hormone begins to increase
-- After 14 hours:
-  - The body has converted to using stored fat as energy
-  - Human growth hormone increases dramatically
-- After 24 hours:
-  - All glycogen stores are drained
-  - Ketones are released into the blood system
-  - Broken or dysfunctional cells start breaking down (autophagy)
-- After 36 hours:
-  - Autophagy has increased by 300%
-- After 48 hours:
-  - Autophagy increases by 30% more
-  - The immune system resets and regenerates
-  - The body's inflammation response is reduced
-- After 72 hours:
-  - Autophagy maxes out
-
 ## Prioritize preventative and noninvasive treatments
+
+Aim for [specific treatments for your situation](body-health-treatments-specific.md).
 
 Many over-the-counter painkillers are *very* effective at suppressing pain:
 
@@ -71,15 +26,13 @@ Many over-the-counter painkillers are *very* effective at suppressing pain:
 - Naproxen sodium affects the liver, and a healthy adult shouldn't go past 1375 mg/day the first day and 1100 mg/day every day afterward.
   - Of the three, naproxen sodium is the most effective at treating headaches.
 
-[Specific minor ailment treatments](body-firstaid-minor.md)
-
 Affordable snake oil will work for your health when you believe it will.
 
 - Even when a treatment is entirely psychosomatic, a $40 bottle every month of useless essential oil is cheaper than a $10,000 surgery.
 
 Essential oils applied to the navel will directly affect stem cells, and will have a holistic effect across your whole body.
 
-Aim for [specific treatments for your situation](body-health-treatments-specific.md).
+Also, some [minor issues](body-firstaid-minor.md) can be treated without any incident.
 
 ## Don't neglect checkups
 
@@ -96,6 +49,11 @@ However, always take the doctor's advice as a consultant or sales personnel, *no
 
 - If you're not certain, ask a second doctor's opinion without informing them about the first doctor.
 
+Further, do *not* assume the checkup is a clear examination of health.
+
+- There has been direct scientific correlation that checkups actually cause *worse* health issues.
+- The reason is simply because people ignore symptoms when they went to the doctor recently.
+
 ## Carefully consider institutionalized medical treatments
 
 Most of the afflictions have simply been renamed or localized from their origin to their symptoms.
@@ -108,11 +66,12 @@ Most of the afflictions have simply been renamed or localized from their origin 
 - Rickets: Vitamin D deficiency
 - Spanish flu: pneumonia or ARDS
 
-Not all vaccines are the same:
+Not all vaccines are the same.
 
 1. Some vaccines are simply placebos, meaning they do *nothing* except what you believe they'll do.
-2. Historically, most vaccines are collections of dead virus cells that allow the body to attack a dormant virus and learn its specific DNA signature.
+2. Historically, most vaccines have been collections of dead virus cells that allow the body to attack a dormant virus and learn its specific DNA signature.
    - However, it's not uncommon for vaccines to still have *live* cells mixed into them, so there's always a risk of actually *getting* a small dosage of the disease you're trying to prevent.
+   - Further, vaccines have been zero-liability in the USA as of the 1980s, meaning there is zero legal remedy for any malpractice, and this hasn't changed as of 2025.
    - The vaccine for shingles has been linked to preventing dementia cases.
 3. Starting with COVID-19, some vaccines are mRNA gene therapy.
    - They use an advanced technology that swaps out the genetic code in your body's cells.
@@ -121,6 +80,13 @@ Not all vaccines are the same:
 If you need medical equipment, look into what the private payment price is (rather than billing your insurance).
 
 - Most medical equipment (or an inferior version of it) can be purchased at a drug store or online for *far* less.
+
+Root canals can often cause infections.
+
+- 90% of cancer patients have had root canals.
+- Essentially, a root canal bores out a hole, then fills it in with something else, trapping bacteria in a cavitation without oxygen.
+- Later, anaerobic metabolism allows a very toxic infection.
+- Unfortunately, the symptoms can be bad enough and connected to other parts of the body that the situation can stay undiagnosed.
 
 ## Supplement with medication
 

@@ -9,6 +9,8 @@ God speaks to His people primarily through the Bible.
 
 Every Christian has the right and responsibility to investigate and interpret God's Word for themselves.
 
+- Even if all Bibles were hypothetically destroyed, God would be faithful to give His wisdom to people wherever they are at.
+
 Spend time daily in His Word:
 
 - God's inspiration *requires* diligent Bible study ([Acts 17:11](https://biblehub.com/acts/17-11.htm)).
@@ -65,16 +67,30 @@ Proverbs have specific attributes:
 - Intensely practical wisdom for specific life elements.
 - Though proverbs are designed for selfless living, people can wrongly apply them to selfish behavior.
 
-## Swap out study techniques
+## Improve your study techniques
 
 Some study techniques are better than others, but none of them are "perfect".
 
 - Since we're imperfect, we'll pick up different parts of the Bible's truth each time we read it.
 - The following techniques combined are the most thorough approach, but only the geekiest Christians have the time and patience for it.
+- Do *not* start with the question on any passage, "what does this mean to me?"
+  - That, instead, should be the last thing you ask after understanding the passage's context.
+- In one sense, we can observe them as layers that God designed for inspiration:
+  - 1: Skimming the Bible, with the story giving a broad concept
+  - 2: Reading the proper story in all its details
+  - 3: Interconnecting the story with other verses and historical context (a great place for Bible commentary)
+  - 4: Meditating so deeply on Scripture that God blesses further connections through prolonged study
 
 A. Read a Bible book in one sitting, with at least two different translations, at least 2-4 times.
 
-- The best way to understand the themes of the Bible is to read it from the perspective of it being a dramatized [story](stories-why.md), *not* as an exhaustive text that covers every unimportant detail of its subject.
+- There are two major ways to approach Scripture:
+  - Synchronic (bullet points): categories of the Bible's domains (e.g., God, sin, atonement, faith, etc.)
+    - Synchronic is a zoomed-in view of what God wants us to see.
+  - Diachronic (a conveyed [story](stories-why.md)): messages with a clear transition and conclusion (e.g., creation, fall, redemption, renewal)
+    - Diachronic shows [patterns](symbols.md) across Scripture that also reflect on our existence.
+  - Healthy understanding of Scripture depends on us holding *both* perspectives together to create a third dialectic.
+- The best way to understand the themes of the Bible is to start with it being a dramatized [story](stories-why.md), *not* an exhaustive text that covers every unimportant detail of its subject.
+  - At the same time, the events still typically hold literal merit (e.g., against [atheism](spiritual-exercises-evangelism-apologetics.md)).
 
 B. Ask questions about the book as you read it:
 
@@ -101,7 +117,7 @@ C. Research:
 
 - Seek reputable sources:
   - Cross-references
-  - Concordance (e.g., Strong's
+  - Concordance (e.g., Strong's)
   - Introductions to specific Bible books
   - Bible handbook
   - Commentaries of opposing [denominations](people-conflicts-christian-why.md)
@@ -123,14 +139,17 @@ D. Find patterns across the text:
 - [Universal characteristics](humanity-universals.md) that still apply today
 - Read the original language (Hebrew/Greek/Aramaic) to find even more patterns.
 - Pay close attention to when specific details were included, and ask why.
-- Note when details were omitted, and ask why.
+- Also pay close attention when otherwise-relevant details were omitted, and ask why.
 - Observe patterns other people detect, such as [the Bible Project](https://bibleproject.com/) or pastors.
 
 E. Apply it:
 
+- How has the culture changed historically compared to today?
+  - How does this specific cultural context translate to my present cultural reality?
+  - How can I be more open-minded to different ways of seeing how others view things?
 - What specific issues do I have right now and how does this passage address it?
-- What should I do with this information?
-- How do these passages distinguish right from wrong?
+  - What should I do with this information?
+  - How do these passages distinguish right from wrong?
 - Given these passages, what should I do and be?
 - With all this in mind, where am I going, and where should I be going?
 

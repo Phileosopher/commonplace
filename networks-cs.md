@@ -52,6 +52,8 @@ Due to the complexity of a computer network, there is [a specific set of layers]
 
 "Local area networks" (LANs) are the sections of the network that you have more direct control over. It's the first historical foray into networked computers. Most LANs use shared resources, such as file servers.
 
+An "IP address" is a unique identifier designed specifically for that computer. The "Internet of Things" is clever [marketing](marketing.md)-speak for "every computer has an IP address". IoT would be harmless, but it opens up many [cybersecurity](computers-cysec.md) risks from the added connectivity.
+
 Besides having private IP addresses on that local network, wireless networks have a "service set identifier" (SSID) as an ID for users to find it. It can be "Family WiFi" or "PETA Van", but can also be "!" or "#". If it isn't [password-protected](computers-cysec-authentication.md), anyone who knows it or can scan wireless networks will be able to access it.
 
 In a telephone system, one implementation of a LAN is a PBX (private branch exchange). When it's customer-facing, it typically has pre-recorded audio with it to communicate what the users can press. However, a phone is still simply a computer interface with a dialpad-only input and audio-only output.

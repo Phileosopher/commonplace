@@ -19,9 +19,14 @@ Friendships are a necessary part of living well:
 
 If you make friends well, you can even turn *enemies* into your friends.
 
+Irrespective of who or how, all good friends have 2 major qualities:
+
+1. They're available to listen when things are going bad, and they don't judge your [decisions](mind-decisions.md).
+2. They're available to share in your [successes](success-1_why.md) without shifting attention away from you.
+
 ## Friendships build on shared interest
 
-We find friends over shared contexts we have in common with others:
+We tend to find friends over shared contexts we have in common with others:
 
 - Our shared experiences aren't as relevant as sharing *contexts* with them:
   - Similar experiences (like military or school)
@@ -31,7 +36,7 @@ We find friends over shared contexts we have in common with others:
   - Similar [philosophical](philosophy.md), [religious](religion.md) or [group affiliation](groups-large.md)
   - Shared hatred of a common enemy or threat
   - Opportunity for [mutual business](entrepreneur-1_what.md) or shared benefit
-- Thankfully, we can still relate over shared feelings, even if we have nothing else in common.
+- Thankfully, we can relate over shared [feelings](mind-feelings.md), even if we have absolutely nothing else in common.
 
 Good friendships are fun:
 

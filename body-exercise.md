@@ -100,30 +100,42 @@ Contrary to most exercise [marketing](marketing.md), you don't need much equipme
 You can exercise anywhere:
 
 - While sitting:
-  - Shoulder circles - spin your shoulders in a windmill, add resistance with weights
-  - Leg lifts - lift your leg and hold it
+  - Shoulder circles: spin your shoulders in a windmill, add resistance with weights
+  - Leg lifts: lift your leg and hold it
+- While standing:
+  - Air ropes: jump while rotating your arms as if you had a jump rope
+  - Standing calf raise: lift your ankles while standing straight
+  - Standing marches: while keeping your legs straight, slowly alternate lifting each leg
+  - Switch kicks: while keeping your legs straight, rapidly alternate kick them out in front of you
 - With a flat surface and some room:
   - Jumping jacks
-  - Squats - keep your back straight and hold your balance
-    - Jump squats - jump after reaching the lowest point
-    - One-leg squats - straighten your arms directly in front of you and try to squat with one leg
-    - Wall sit - squat against a wall for several minutes, add resistance by squatting with one leg
-  - Lunges - place your hands on your hips and take a giant step forward
+  - Squats: keep your back straight and hold your balance
+    - Jump squats: jump after reaching the lowest point
+    - One-leg squats: straighten your arms directly in front of you and try to squat with one leg
+    - Wall sit: squat against a wall for several minutes, add resistance by squatting with one leg
+  - Lunges: place your hands on your hips and take a giant step forward
   - Lift a textbook or other heavy object behind your head
 - On the floor:
-  - Crunches - lay on your back with your knees bent and bend your lower back
-    - Sit-ups - sit up all the way
-    - Crossed-leg crunches - lift one leg up over the other
-    - Glute bridges - lift your butt off the ground from this position
+  - Crunches: lay on your back with your knees bent and bend your lower back
+    - Sit-ups: sit up all the way
+    - Crossed-leg crunches: lift one leg up over the other
+    - Glute bridges: lift your butt off the ground from this position
     - If you have a cramp in your neck, press your tongue to the roof of your mouth
-  - Military push-ups - hold your back completely straight and lower yourself to the ground
-    - Diamond push-ups - have your hands touch
-    - Bench push-ups - spread your arms further out
-    - Mountain climbers - alternate bringing legs up to hands
-    - Oblique push-up - turn your hips sideways to tone your whole body
-    - Planks - hold your body rigidly off the ground by balancing on your hands and feet
-    - Spider-Man push-up - tap the elbow to the knee every time coming up
-  - Handstand push-ups - find a wall you can't do handstands
+  - While sitting:
+    - Flutter kicks: keep your legs straight and alternate kicking them upward
+    - Scissor kicks: keep your legs straight and cross back-and-forth them mid-air
+    - Lounge chair knee tucks: keep your legs together and bend them toward your chest
+  - Military push-ups: hold your back completely straight and lower yourself to the ground
+    - If you can't do pushups, use an elevated surface (which could even be a countertop)
+    - Diamond push-ups: have your hands touch
+    - Bench push-ups: spread your arms further out
+    - Mountain climbers: alternate bringing legs up to hands
+    - Oblique push-up: turn your hips sideways to tone your whole body
+    - Planks: hold your body rigidly off the ground by balancing on your hands and feet
+      - Plank shoulder taps: while doing a plank, alternate tapping your opposite shoulder with each hand
+    - Spider-Man push-up: tap the elbow to the knee every time coming up
+    - Kick backs: alternate lifting your legs directly upward while in the pushup position
+  - Handstand push-ups: find a wall you can't do handstands
   - Dive bombers
     1. Start with your body stiffened and butt in the air
     2. Lower yourself to the ground
@@ -136,35 +148,37 @@ You can exercise anywhere:
     3. Do a push-up
     4. Pull your feet back to squatting
     5. Jump as high as possible
-  - Leg raises - kneel with palms on the ground, lift your leg backward and hold
+  - Leg raises: kneel with palms on the ground, lift your leg backward and hold
 - In a hallway:
-  - Army crawls - slide your legs across the ground and stay low
-  - Bear crawls - walk on all fours
-  - Sprints - run as fast as you can back and forth
+  - Army crawls: slide your legs across the ground and stay low
+  - Bear crawls: walk on all fours
+  - Sprints: run as fast as you can back and forth
 - With a chair or elevated surface:
-  - Box jumps - jump on and off the elevated surface
-  - Calf raises - use a slight ledge and extend your calf muscles
-  - Decline push-ups - do a push-up against a desk or chair
-    - Chair dips - turn around and bend your elbows
-    - Shrugs - lift with your shoulders
+  - Box jumps: jump on and off the elevated surface
+  - Calf raises: use a slight ledge and extend your calf muscles
+  - Decline push-ups: do a push-up against a desk or chair
+    - Chair dips: turn around and bend your elbows
+    - Shrugs: lift with your shoulders
+  - Elevated situps: Rest your feet on the elevated surface, then reach for the surface between your legs
+  - Elevated planks: Rest your feet on the elevated surface, then lift your hips up from the ground
 - With anything that holds your weight:
-  - Pull-ups - pull yourself up past a right angle with your elbows
-  - Table rows - lay under a table and pull up while keeping back straight
+  - Pull-ups: pull yourself up past a right angle with your elbows
+  - Table rows: lay under a table and pull up while keeping back straight
   - Simply hanging for a few minutes a day can fix back problems and increase grip strength.
 - You can strengthen hand and forearm strength with rice in a bucket.
 - Walking backward up a hill can increase your strength and increase your knees' stability.
 
 You don't need much equipment for a workout:
 
-- Official exercising - aerobics, gymnastics, jogging, running, walking, weightlifting
-- Dancing - swing, ballet, swing, tango, tap dancing, salsa, twerking, waltz
-- [Team sports](fun-sports.md) - baseball, basketball, field hockey, football, hockey, soccer, softball, tennis, volleyball
-- Individual sports - boxing, golf, wrestling, martial arts, laser tag, paintball, ping-pong
-- Personal recreation - bowling, Frisbee, trampolining, playing catch
-- Alternate transportation - bicycling, ice skating, swimming, horseback riding, rollerblading/skating, skateboarding, unicycling
-- Outdoor recreation - boating, canoeing, hiking, kayaking, rock climbing, skiing, snowboarding
-- Performing - drums, juggling
-- Games - Dance Dance Revolution, Double Dutch, hopscotch, hula-hooping, Kinect games, jump rope, Wii games
+- Official exercising: aerobics, gymnastics, jogging, running, walking, weightlifting
+- Dancing: swing, ballet, swing, tango, tap dancing, salsa, twerking, waltz
+- [Team sports](fun-sports.md): baseball, basketball, field hockey, football, hockey, soccer, softball, tennis, volleyball
+- Individual sports: boxing, golf, wrestling, martial arts, laser tag, paintball, ping-pong
+- Personal recreation: bowling, Frisbee, trampolining, playing catch
+- Alternate transportation: bicycling, ice skating, swimming, horseback riding, rollerblading/skating, skateboarding, unicycling
+- Outdoor recreation: boating, canoeing, hiking, kayaking, rock climbing, skiing, snowboarding
+- Performing: drums, juggling
+- Games: Dance Dance Revolution, Double Dutch, hopscotch, hula-hooping, Kinect games, jump rope, Wii games
 - A jump rope works out many muscles at the same time, and 15-20 minutes of it is a full-body workout.
 
 If you want something to increase mental skills ([decision-making](mind-decisions.md), [analysis](logic.md), [creativity](mind-creativity.md)) *and* stay active, practice table tennis, juggling, or fencing.
@@ -194,7 +208,7 @@ Many people feel pain while running because they do it incorrectly:
 
 Have a clear statement in your mind of what you want to do (e.g., "Today I will do 45 repetitions").
 
-While you can limber up, static stretching before a workout will overwork stiff muscles and *increase* your chance of injury.
+While you can limber up, static [stretching](body-stretch.md) before a workout will overwork stiff muscles and *increase* your chance of injury.
 
 Increase your metabolism for your workout:
 
@@ -267,17 +281,7 @@ Never let yourself slip, which means finding ways to eat better and [get enough 
 
 If you must catch your breath, stand on your toes with your head tilted back and deeply inhale.
 
-Thoroughly stretch after your workout:
-
-- Stretching reduces the risk of long-term injury by expanding how far tendons, ligaments, and muscles can move.
-- A few vital muscles are more likely to cause problems when they're not stretched out:
-  - The quadratus lumborum runs along the sides of the lower back.
-    - Lay with your back on the floor and twist your hips until your opposite knee touches the ground.
-  - The hamstring is on the back of the knee.
-    - Place your heel on an elevated surface and bend down to grab your elevated toes.
-    - Lean forward on something while keeping your feet flat on the ground.
-  - The adductor longus connects the hip to the leg.
-    - Spread your legs as far as possible, then bend to the ground.
+Thoroughly [stretch](body-stretch.md) after your workout.
 
 Heal quicker by replenishing the body's resources:
 

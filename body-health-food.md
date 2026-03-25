@@ -114,12 +114,15 @@ Generally, aim for enough nutrients:
   - Deficiency in Vitamin B6 can cause aggression.
 - Vitamin C maintains the immune system.
 - Vitamin D combines with calcium to rebuild bones.
+  - If you're indoors most of the day, take Vitamin D3 supplements.
 - Vitamin E has antioxidant (general health) properties, and almost anything with antioxidants is healthy (though there's not much [science](science.md) around why).
 - Electrolytes are salts that help muscles work better.
 - Focus on eating and supplementing what your body *can't* synthesize itself:
   - Omega-3 fatty acids
   - Potassium (found heavily in bananas)
-- If you have any concerns about not getting enough nutrients, take at *least* a daily multivitamin every once in a while.
+- If you have any concerns about not getting enough nutrients, at *least* take a daily multivitamin every once in a while.
+  - Most daily multivitamins have most of the necessary vitamins and minerals except Vitamin D3 and iron.
+  - However, do *not* take a daily multivitamin if your diet has a diverse range of fruits and vegetables.
 
 Most food is only a *little* unhealthy:
 
@@ -310,6 +313,22 @@ Other supplements have very limited scientific information about their health be
 
 - Ginkgo biloba: 120-240 mg/day
 - Geranium extract (or simply grow the plant yourself)
+
+Add a few routine things to your daily diet:
+
+- A daily multivitamin (with Vitamin D3 if you're indoors).
+- Fermented garlic:
+  1. Cover peeled garlic cloves in raw honey
+  2. Let sit 30 days
+  3. Take 1 tsp every day
+- Infused vinegar:
+  1. Add rosemary and garlic to apple cider vinegar
+  2. let steep 3 weeks
+  3. take 1 tsp in water or tea daily
+- Elderberry syrup:
+  1. Simmer 1 cup of berries and cinnamon in 4 cups water
+  2. Add 1/2 to 1 cup honey
+  3. Take 1 tbsp daily
 
 Don't easily trust things that have *severe* risks associated with them:
 

@@ -21,6 +21,7 @@ The only way to become an effective speaker is through constant practice, in-per
   - Meet in a videoconference instead of a phone call.
   - Meet in-person instead of a videoconference.
 - Like [any other effort](success-1_why.md), practice makes perfect.
+- Practice [public speaking or teaching to a crowd](education-how.md).
 
 Against most intuition, though, great speakers are [great listeners](language-speaking-listening.md).
 
