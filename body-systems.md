@@ -10,7 +10,7 @@ The body is composed of multiple independent systems that work with each other.
    - Nose, mouth, paranasal sinuses, pharynx, larynx, trachea, bronchi, lungs, thoracic diaphragm
 2. Food (digestive + excretory)
    - Takes in calorie energy as food, excretes solid waste
-   - Teeth, tongue, salivary glands, esophagus, stomach, liver, gallbkadder, pancreas, small intestine, large intestine, rectum, anus
+   - Teeth, tongue, salivary glands, esophagus, stomach, liver, gallbladder, pancreas, small intestine, large intestine, rectum, anus
 3. Blood (cardiovascular/circulatory)
    - Transports things between most of the other systems
      - Nutrients

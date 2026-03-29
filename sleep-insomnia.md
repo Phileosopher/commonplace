@@ -73,7 +73,7 @@ Take something to calm down:
 - Eat a spoonful of honey.
 - Drink a glass of fresh lemon juice.
 - Place a mixture of 5 parts organic honey and 1 part Himalayan sea salt under your tongue.
-- Night-time drink:
+- Nighttime drink:
   1. Heat a cup of milk or almond milk on high until it's hot enough to foam
   2. Stir in a teaspoon of honey, two drops of vanilla extract, and a pinch of ground cinnamon
 

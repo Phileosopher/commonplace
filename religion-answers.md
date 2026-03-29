@@ -86,7 +86,7 @@ What are we?
 
 Where are we going?
 
-- The need to understand an afterlife is both from the need for survival we have inside of us and a failure to connect with the Supreme Singular Deity.
+- The need to understand an afterlife is both from the need for survival we have inside us and a failure to connect with the Supreme Singular Deity.
 
 ### Unification Church (founded by Sun Myung Moon in 1954)
 

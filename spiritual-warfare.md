@@ -39,7 +39,7 @@ The mind is the Satan's battleground:
 - Every single conversation and interaction can become a spiritual battle ([Romans 12:2](https://biblehub.com/romans/12-2.htm), [Ephesians 6:12](https://biblehub.com/ephesians/6-12.htm), [2 Corinthians 10:5](https://biblehub.com/2_corinthians/10-5.htm)).
 - The Satan attacks at three degrees of intensity:
   1. Harassment and oppression by alluding to lies that someone might [believe](understanding-certainty.md).
-  2. If someone is willing to listen (including believers, [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](understanding.md).
+  2. If someone is willing to listen (including believers), [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](understanding.md).
   3. Directly controlling them through their loss of control via bad [habits](habits.md), which can include possession.
 - [Our design](theology-godandman-humanity.md) means we become ineffective or destructive if he wins against our mind.
 

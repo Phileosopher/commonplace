@@ -177,7 +177,7 @@
 
 1757
 
-- Emanuel Swedenborg claimed that the Last Judgement occurred in the spiritual world this year.
+- Emanuel Swedenborg claimed that the Last Judgment occurred in the spiritual world this year.
 
 1780
 

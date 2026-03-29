@@ -57,7 +57,7 @@ Futurism - The eschatological view that God's prophecies, especially in [John's 
 
 Gap creationism - An Old Earth creationism view that there were distinct gaps between each "day" in Genesis
 
-God's glory - God's reputation
+God's glory - God's influence, reputation, or strength
 
 Gospel - The good news of Jesus Christ's death and resurrection and what it means
 

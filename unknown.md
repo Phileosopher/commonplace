@@ -170,7 +170,7 @@ APPLICATION: We wish to find [meaning](meaning.md) in the Unknown so heavily tha
 
 Destroying order oriented toward good things without another type of proven order to replace it is often [evil](morality-evil.md), and usually [risky](safety.md). We are prone to mistaking others destroying as mindless when they're attempting to [recreate reality](creations.md) differently. It takes [humility and patience](morality.md) to [understand](understanding.md) others' motivations, which is venturing into an unknowable domain because people [lie](people-lying.md).
 
-f we feel dissatisfied with too much order, we might break something just to watch what happens. This is good for discovering [reality](reality.md) [scientifically](science.md), but it has [risks](safety.md) if we break the wrong thing.
+If we feel dissatisfied with too much order, we might break something just to watch what happens. This is good for discovering [reality](reality.md) [scientifically](science.md), but it has [risks](safety.md) if we break the wrong thing.
 
 ## Scaling chaos
 

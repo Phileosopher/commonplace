@@ -73,7 +73,7 @@ Drink clove tea:
 
 1. Mix 1/2" of ginger, a cinnamon stick, and 1/4 tsp cloves into 3 cups boiling water.
 2. Set to medium boil and steep 5 minutes.
-3. Strain and allow to cool, add honey if desired.
+3. Strain and let it cool, add honey if desired.
 
 ## Constipation
 

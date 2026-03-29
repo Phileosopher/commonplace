@@ -120,7 +120,7 @@ If your [enemies](people-conflicts.md) are your life's purpose:
 - Possessions: Fighting tools, means to secure allies, escape, refuge
 - Pleasure: Rest and relaxation time before the next battle
 - Friend(s): Emotional supporters or sympathizers, possibly defined by a common enemy
-- Enemy(s): Source of all problems and the the need for all self-protection and justification
+- Enemy(s): Source of all problems and the need for all self-protection and justification
 - Church: Source of self-justification
 - Self: Victimized, immobilized by the enemy
 - Principles: Justification for labeling enemies, source of enemy's wrongness
@@ -144,7 +144,7 @@ If your [church](church.md) is your life's purpose:
 If your life's purpose is yourself:
 
 - Spouse: Possession and source of satisfaction
-- Family: Possession and fulfiller of needs
+- Family: Possession and the fulfillment of needs
 - Money: Source of needs satisfaction
 - Work: Opportunity to "do what I want"
 - Possessions: Source of self-definition, protection, enhancement | Deserved sensory satisfactions, "my right", "my needs"
@@ -154,7 +154,7 @@ If your life's purpose is yourself:
 - Church: Vehicle to serve self-interests
 - Self: Better, smarter, superior, and the reason for all gratification
 - Principles: Source of justification, those ideas that serve "my" best interests, can be adapted to need
-- God: An obtruction or non-entity
+- God: An obstruction or non-entity
 
 If your [principles](values.md) are your life's purpose:
 
@@ -178,7 +178,7 @@ If [God](theology-god.md) is your life's purpose:
 - Money: Given by God to accomplish important priorities and goals
 - Work: Opportunity given by God to use talents and abilities meaningfully
 - Possessions: Enabling resources lent by God that come with responsibilities, secondary to people in importance
-- Pleasure: Joy through a relationship with God that bleeds itno every daily activity
+- Pleasure: Joy through a relationship with God that bleeds into every daily activity
 - Friend(s): Companions in God's creation to be loved and valued
 - Enemy(s): Death and the devil, meaning no person is really an "enemy"
 - Church: One of the most significant vehicles for God to use for His purposes

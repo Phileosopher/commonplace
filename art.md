@@ -47,7 +47,7 @@ The [genre](art-genres.md) contributes heavily to the desired and expected style
 
 Animation
 
-- With the exception of an intentionally dismal setting, bright and vibrant contrasting colors
+- Bright and vibrant contrasting colors unless it's an intentionally dismal setting
 - Even with lifelike animation, everything is vastly exaggerated
 
 Stage

@@ -5,7 +5,7 @@ Keeping computers safe can be complicated.
 
 Essentially, cybersecurity is [security](safety-security.md), but applied to computers and their information, broadly called "assets". Since not all information in a computer is the same, some of that information is higher-priority than other information and needs more security.
 
-Broadly, there are several ways information can be stolen or destroyed:
+There are several ways that information can be stolen or destroyed:
 
 - Duplicating information, which is like theft but without any recognized loss by the owner until that information is used or accessed.
 - Information is deleted or corrupted, either maliciously or unintentionally.
@@ -19,7 +19,7 @@ Technology is usually safest when abiding by the CIA acronym:
 - Integrity - the information wasn't messed with or destroyed.
 - Availability - the people/computers who want/need the information can get it.
 
-Cybersecurity professionals use human rules ("policies") and computer rules ("permissions") to create "protection rings" around computer information or technology, which are are layers of security. The x86 protection rings, for example:
+Cybersecurity professionals use human rules ("policies") and computer rules ("permissions") to create "protection rings" around computer information or technology, which are layers of security. The x86 protection rings, for example:
 
 - Ring 0 - core operating system files
 - Ring 1 - drivers for important hardware
@@ -112,13 +112,13 @@ It's worth noting that an SSH tunnel with a proxy is a de facto VPN connection.
 
 There are multiple types of VPN protocol:
 
-- OpenVPN uses specific client software to setup, secure if it's set up correctly, and can be used on any TCP/UDP port.
-- WireGuard is newer than OpenVPN, far more secure than OpenVPN, and performs better, though hasn't been adopted as much as OpenVPN because of how much work OpenVPN takes to setup. Unfortunately, some vendors (like Apple) have problems with the app even if the protocol works well.
+- OpenVPN uses specific client software to set up, secure if it's set up correctly, and can be used on any TCP/UDP port.
+- WireGuard is newer than OpenVPN, far more secure than OpenVPN, and performs better, though hasn't been adopted as much as OpenVPN because of how much work OpenVPN takes to set up. Unfortunately, some vendors (like Apple) have problems with the app even if the protocol works well.
 - IPSec is a suite of network protocols that works natively with many [operating systems](computers-os.md), so it doesn't need third-party apps. It encrypts the entire packet with an [authentication](computers-cysec-authentication.md) header (AH) and an encapsulating security protocol (ESP) that seals the information.
   - Cisco and Microsoft partnered in 2005 to create Internet Key Exchange version 2 (IKEv2), which improved in speed, security, stability, CPU use, and re-connectivity compared to other VPNs at the time.
   - A [leaked NSA presentation](https://web.archive.org/web/20141229051901/http://www.spiegel.de/media/media-35529.pdf) implies that L2TP and IKE were compromised, but it's hard to tell for sure.
 - PPTP (Point-to-Point Tunneling Protocol) is one of the oldest protocols, but it's outdated and *not* secure.
-- SSTP (Secure Socket Tunnneling Protocol) is a Microsoft-specific protocol, but it isn't widely used.
+- SSTP (Secure Socket Tunneling Protocol) is a Microsoft-specific protocol, but it isn't widely used.
 - Apple has talked about an iCloud+ VPN as of 2021, but it's not strictly a VPN because it's more of an Apple onion router using the [Tor](computers-sofware-webdev.md) protocol, where Apple provides a first hop and an unknown provider provides the second.
 
 Generally, VPNs are more secure with UDP, but more reliable with TCP.
@@ -131,7 +131,7 @@ Wireless networks are a *huge* vulnerability because they weren't designed to be
 - Always, *always* use a VPN over a public network.
 - Try to avoid doing highly important things (like banking) on public networks.
 
-[Hackers](hacking.md) can hit public WiFi networks with a "man-in-the-middle attack" by using the same [SSID](networks-cs.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public WiFi network.
+[Hackers](hacking.md) can hit public Wi-Fi networks with a "man-in-the-middle attack" by using the same [SSID](networks-cs.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public Wi-Fi network.
 
 ## Scanning software
 
@@ -159,7 +159,7 @@ However, long-term memory can be *highly* risky. A hard drive possesses all the 
 
 The severity of hard drive security has created a popular convention that memory must be wiped multiple times for the information to be perfectly safe. Popular myths have been 7 passes, or even as many as 35 passes. While this may be true for magnetic drives (like the older platter hard disks or floppy disks), this isn't necessarily true for other drives (like optical disks or electrically-stored memory like USB/SSD).
 
-The best memory security is to have an [encrypted](encryption.md) OS, then simply delete everything once (or more if it's magnetic storage), and make sure the information can't be migrated to another storage (i.e., limit access to files via USB peripherals, external media, and network).
+The best memory security is to have an [encrypted](encryption.md) OS, then simply delete everything once (or more when it's magnetic storage), and make sure the information can't be migrated to another storage (i.e., limit access to files via USB peripherals, external media, and network).
 
 If you're particularly concerned over a hard drive you're throwing out, permanently destroy it by running a power drill through the hardware.
 
@@ -173,7 +173,7 @@ One of the best ways to protect a computer from the outside is to operate as man
 
 One alternative to maintaining anonymity is to use the [Tor browser](https://www.torproject.org/), which uses Tor (short for The Onion Router). It was originally a [fork](computers-software-versionctrl.md) of Firefox, and is a privacy-focused mode of web browsing. This has a limited scope compared to VPNs, but it operates as a type of parallel to typical web access.
 
-The one difference between accessing a Tor and a VPN is that each of the hops is a new layer of encryption (which is why it's called an onion). With a VPN, the client computer see's the VPN host's IP address, and a Tor exit node operates the same way.
+The one difference between accessing a Tor and a VPN is that each of the hops is a new layer of encryption (which is why it's called an onion). With a VPN, the client computer sees the VPN host's IP address, and a Tor exit node operates the same way.
 
 It's important, however, to not access Tor with a regular web browser, due to how slow it drags and what it needs for maintaining privacy:
 

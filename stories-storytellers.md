@@ -31,7 +31,7 @@ Each person is sharing a [story](stories-why.md) through the [medium](creations.
 
 APPLICATION: Since the news of information isn't the information itself, a story and its [implications](people-image-why.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](mind-awareness.md) to say), but it's impossible to [predict it](mind-imagination.md).
 
-People typically [understand](understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* for that story to reach anyone. This is determined by a few factors:
+People typically [understand](understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* in a story to be affected by it. This is determined by a few factors:
 
 1. Stories must be relatable, which most easily comes through directly connecting someone to a physical representation of [feelings](mind-feelings.md) (i.e., an object that reminds someone of an experience).
 2. Simpler stories are typically [more interesting](https://stucky.tech/stories/), though simpler stories are typically less true.
@@ -72,7 +72,7 @@ In general, effective propaganda will exploit our [feelings](mind-feelings.md) a
 4. Blame: Never credit the opposition with anything, and direct all bad things toward them until they are no longer human.
 5. Provoke: Use vague and broad assertions that stir up [anger](mind-feelings-anger.md), [fear](mind-feelings-fear.md), and resentment. Avoid specific [language](language.md) that would otherwise stir up logic, reasoning, or facts.
 6. Crisis: Issues must always be binary life-or-death, good-versus-evil, love-versus-hate, us-versus-them battles. There is no room to object if it's urgent.
-7. Emotion: People can questions facts, but they can never question their feelings or others' feelings.
+7. Emotion: People can question facts, but they can never question their feelings or others' feelings.
 8. Pander: Generously praise allies and demonize everyone who doesn't as acting in bad faith or a non-expert in the matter.
 9. No limit: If anyone wins, they define what is [moral](morality.md), so winning has no place for ethics.
 
@@ -86,7 +86,7 @@ In the [information age](information.md), there is a reliable method for dissemi
 2. Low-Pressure Zone (emotive vacuum)
    - There's a drop in pressure around the higher velocity, which is an affective void that needs others to fill it.
    - Neutral observers will feel the "suction" of its relevance.
-     - It'll represent as, "Wait, are people really angry about that?"
+     - It'll represent as, "Wait, are people actually angry about that?"
    - Other media players will rush to fill the void (e.g., fact-checkers, reactions, memes, counter-reactions).
    - Now, both sides are pulled into the uproar:
      - One side is *defending* against the imaginary outrage.

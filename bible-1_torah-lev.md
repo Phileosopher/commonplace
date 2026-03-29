@@ -1,10 +1,10 @@
 
 # Leviticus commentary
 
-the Law is not as heartless as Christian culture implies.
+The Law is not as heartless as Christian culture implies.
 
 - The laying hands on the head is a direct transmission, and means a *personal* connection of sin with others.
-- Tt is a bonding together through a type of shared [shame](mind-feelings-shame.md).
+- It is a bonding together through a type of shared [shame](mind-feelings-shame.md).
 
 ## 4
 
@@ -53,7 +53,7 @@ Conclusion:
 
 ## 25:8-13
 
-the Year of Jubilee means things "snap back" to the original owner.
+The Year of Jubilee means things "snap back" to the original owner.
 
 - In many ways, this is how God uses the elect: the elect may suffer or lose, but then their inheritance "snaps back" after a season of severity.
 - The only difference in God's work is that it comes through when *God* redeems, not simply a fixed calendar period.

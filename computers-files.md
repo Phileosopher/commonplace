@@ -14,7 +14,7 @@ Computer files can store just about anything:
 - Sets of instructions the user can choose to run that typically work with other files (also called a "program").
 - Outputted logs ("log files") about how and when a computer did something or failed at it.
 - Files the user actually saved themselves (like a text file or photo).
-- Collections of any of the above (e.g., a CD disk image, a ZIP file).
+- Collections of the above (e.g., a CD's disk image, a ZIP file).
 
 Often, a file isn't exclusively one of the above:
 
@@ -145,7 +145,7 @@ To accommodate this, the most popular way to group files is with a "hierarchical
 
 - \Users\Default\AppData\Local\Microsoft\Windows\WinX\Group1\file.txt
 
-There are various hierarchical file systems ("exFat, ext2/3/4, jfs, gpfs etc.) which are each designed with different purposes in mind. The file system rules (and where to start the operating system's first programs) are stored in the [boot sector](computers-boot.md).
+There are various hierarchical file systems (exFat, ext2/3/4, jfs, gpfs etc.) which are each designed with different purposes in mind. The file system rules (and where to start the operating system's first programs) are stored in the [boot sector](computers-boot.md).
 
 Another convenience of a hierarchical file system is that "moving" a file on the same disk is simply renaming the file path, which may mean changing a few [memory references](computers-memory.md) depending on the design of the hardware. This is why a drag-and-drop transfer can sometimes be instant. This, however, creates a [UX hangup](engineering-design.md) when moving across disks, since lots of data will take a while to transfer.
 

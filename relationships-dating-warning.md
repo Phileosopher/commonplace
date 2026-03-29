@@ -11,7 +11,7 @@ You are quickly in love with them:
 
 - Many manipulative people learn various tricks to rapidly getting others to form a bond with them:
   - Using pheromone-based cologne/perfume.
-  - Visiting many different places together.
+  - Visiting a variety of places together.
   - Giving many affirmations and affectionate statements.
 - All of this is for the purpose of creating a quick commitment (e.g., for [sex](relationships-sex.md)).
 - If the relationship is legitimate, that person will have no issue meeting your [family](people-family.md), [friends](people-friends.md), and slowly getting to know you.
@@ -81,8 +81,8 @@ Wants the *concept* of you more than you as a person:
 
 - While people should desire that you [grow and improve](success-1_why.md), authentic love is valuing the person as they are *now*.
 - If someone is meeting their needs through you without considering your feelings, they're being psychologically abusive.
-- They often will want to keep the relationship's benefits, but without its responsibility.
-  - One of clearest indicators of this behavior is when they are in a steady relationship with you (i.e., 1-2 times a week for months), but then say they need more time before becoming official.
+- They often want to keep the relationship's benefits, but without its responsibility.
+  - One of the clearest indicators of this behavior is when they are in a steady relationship with you (i.e., 1-2 times a week for months), but then say they need more time before becoming official.
 
 They're perpetually miserable:
 
@@ -91,7 +91,7 @@ They're perpetually miserable:
 - While you may temporarily improve their satisfaction, they'll eventually become accustomed to you.
 - The worst variation of this is someone who has become contentious about frivolous things.
 
-Their have no personal goals or ambitions:
+They have no personal goals or ambitions:
 
 - They have no personal [goals or ambitions](success-3_goals.md).
 - Without [goals](success-3_goals.md) and [purpose](success-2_attitude.md) people become stagnant, lazy deadbeats.
@@ -111,7 +111,7 @@ They're sexually promiscuous:
 
 - Sexually promiscuous people use the allure of sex to gain attention, love, and power.
 - Sexually promiscuous women often dress provocatively and flirt openly.
-- Sexually promiscuous men usually date many different women at once.
+- Sexually promiscuous men usually date many women at once.
 - If they've had a history of cheating, they'll likely cheat on you as well.
 - Unfaithful behavior almost always follows into marriage as well.
 

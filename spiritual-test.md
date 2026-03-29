@@ -16,7 +16,7 @@ At the same time, we are responsible to test the spirits to be sure ([1 John 4:1
 
 In some ways, we are never "unspiritual"
 
-- our ideas and thoughts are fashioned and framed by spiritual forces beyond us
+- Our ideas and thoughts are fashioned and framed by spiritual forces beyond us.
 - We've only developed a secular [philosophy](philosophy.md) within the last few centuries of a "self-oriented" worldview (i.e., Descartes' first principles).
   - Every idea comes from another source, and is never really "our idea" (irrespective of [intellectual property law](legal-ip.md)).
 
@@ -24,8 +24,8 @@ We become familiar with what we pay attention to.
 
 - We gain wisdom when we pay attention to true, noble, right, pure, lovely, admirable, excellent, praiseworthy things ([Philippians 4:8](https://biblehub.com/philippians/4-8.htm)).
 - The corrupting nature of sin means that our choice of [self-education](education.md) changes the situation:
-  - Learning about sin leads to very unclear thinking about *neither* sin or righteousness.
-  Learning about righteousness leads to understanding of *both*.
+  - Learning about sin alone leads to very unclear thinking about *both* sin and righteousness.
+  - On the other hand, learning about righteousness leads to understanding of sin as well.
 
 This is important because there are multiple types of people who will destroy the Gospel:
 
@@ -42,7 +42,7 @@ A few simple rules test everything:
 - [Isaiah 8:19-20](https://biblehub.com/isaiah/8.htm)
 - [2 Corinthians 3:17](https://biblehub.com/2_corinthians/3-17.htm)
 
-1. Anyone who says Jesus is cursed is *not* speaking through the Holy Spirit .
+1. Anyone who says Jesus is cursed is *not* speaking through the Holy Spirit.
 2. Only someone speaking through the Holy Spirit can say Jesus is Lord.
 3. Every spirit that confesses that Jesus Christ has come in the flesh is from God.
 4. Every spirit that does not confess Jesus is not from God.
@@ -61,11 +61,11 @@ Preaching
   - Paul himself was intentionally plain, without a heavy focus on [influential](power-influence.md) language ([1 Corinthians 2:4](https://biblehub.com/1_corinthians/2-4.htm)).
 - Typically, exegetical [Bible study](bible-study.md) is safer.
   - If it is topical, the speaker has more room for theological vagueness or falsehood.
-- pay attention to the connected Bible verses.
+- Pay attention to the connected Bible verses.
   - Watch for patterned connections between unrelated verses.
   - Pay attention to verses that don't apply:
     - "Let not man separate what God has joined together" in [Mark 10:9](https://biblehub.com/mark/10-9.htm) is about marriage, *not* parenting or personal property.
-    - "Stand strong in the faith in [1 Corinthians 16:13](https://biblehub.com/1_corinthians/16-13.htm) is about trusting God, *not* about career or personal satisfaction.
+    - "Stand strong in the faith" in [1 Corinthians 16:13](https://biblehub.com/1_corinthians/16-13.htm) is about trusting God, *not* about career or personal satisfaction.
 - Most false teachers speak *very* fast, so analyzing their statements can be tedious.
 
 Speaking in tongues

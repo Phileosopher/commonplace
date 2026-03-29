@@ -464,7 +464,7 @@ D. Cover the victim with a blanket to keep them warm and prevent shock
 If the eye has an impaled object
 
 1. Call an ambulance immediately
-2. Cover both eyes with sterile dressings or eyecups to immobilize it
+2. Cover both eyes with sterile dressings or eye-cups to immobilize it
    - Covering both eyes will minimize how much the injured eye moves
    - Don't rub the eye or apply pressure, ice, or raw meat to the wounded eye
 3. Always consult a medical professional after an eye injury
@@ -514,7 +514,7 @@ Treating minor burns
      - Apply honey to it
      - Apply toothpaste to it
      - Apply mineral ice to prevent blistering (it will become a brown spot, then fade away)
-3. If the victim needs medical attention or you don't know, cover it with a dry, sterile dressing and don't apply any cream, then seek medical help
+3. If the victim needs medical attention, or you aren't sure, cover it with a dry, sterile dressing and don't apply any cream, then seek medical help
 
 Treating major burns
 

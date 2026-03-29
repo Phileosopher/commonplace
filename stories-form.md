@@ -25,9 +25,9 @@ Across the duration of *any* story, it contains 7-8 "[movements](people-changes.
 
 Each phase of the story contains even *more* specific elements that provide context. This context expresses through general variations in severity to create comparative contrast across the timeline of the story.
 
-In retelling, the timeline of a story will move at several different relative speeds:
+In retelling, the timeline of a story will move at several relative speeds:
 
-1. Real - the timing of the consumer's experience reflects the timing of the characters' experience, which can only happen in some media (such as movies or video gmes).
+1. Real - the timing of the consumer's experience reflects the timing of the characters' experience, which can only happen in some media (such as movies or video games).
 2. Compressed - the timing of the consumer's experience is *much* faster than the timing of the characters' experience, and is the typical speed for most stories.
 3. Expanded - the timing of the consumer's experience is *much* slower than the timing of the characters' experience, and used for intensifying the [feelings](mind-feelings.md) associated with the experience.
 

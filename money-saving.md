@@ -35,6 +35,8 @@ Use generic prescription drugs whenever possible and price-compare between pharm
 
 - A 3-month supply is usually cheaper than purchasing month-to-month.
 
+When cleaning your glasses, do *not* use window cleaning fluid, since it disintegrates the plastic on the lenses.
+
 ### Unconventional health insurance alternatives
 
 Look into an HSA (Health Savings Account).
@@ -197,7 +199,7 @@ You can occasionally substitute a different battery:
 If you ever lose your phone or tablet:
 
 - Ring, erase or lock it remotely with Android Device Manager, which even works in Silent Mode.
-- if you lost an Android OS phone, and it's on vibrate, you can tell it to ring from the Google Play Store.
+- If you lost an Android OS phone, and it's on vibrate, you can tell it to ring from the Google Play Store.
 - You can also Google search "find my phone" to locate your Android.
 - Apple customer support can often find your phone if you call them.
 
@@ -256,7 +258,7 @@ Learn animal biology to understand what they must eat:
 - Avoid gourmet pet food since it's usually not worth the price tag.
 - Avoid generic or discount pet foods because they're usually nutritionally deficient for your pet.
 
-Train your cat to use the toilet with a relatively simple and affordable kit to save on cat litter.
+[Train your cat to use the toilet with a simple technique](fun-pets.md) or affordable kit to save on cat litter.
 
 Brush your pet a few times a week and bathe them when possible to reduce grooming costs:
 

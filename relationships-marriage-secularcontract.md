@@ -92,7 +92,7 @@ If I become significantly wealthy or [influential](power-influence.md) relative 
 
 I will not think of or act on a romantic relationship with another partner.
 
-This contract, and your life by association, is my priority until one of our deaths.
+This contract and your life by association is my priority until one of our deaths.
 
 - Barring specific conditions of pre-consented incapacitation, I will not hasten your death.
 
@@ -139,7 +139,7 @@ I recognize my weakness as a human, and understand that I will, in the future, w
 
 - My reliance on the community will determine my success in maintaining this engagement.
 
-[clarify any additional requirements that bind for both parties]
+[Clarify any additional requirements that bind for both parties]
 
 ## Signatures
 

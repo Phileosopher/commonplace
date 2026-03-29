@@ -6,11 +6,11 @@
 Fiction can be event-driven, but should dominantly be character-driven, and it shows through the creative process:
 
 - Event-driven
-  1. The creator wants to see an climax event the audience will remember through the complexity or grandiosity of events.
+  1. The creator wants to see a climax event the audience will remember through the complexity or grandiosity of events.
   2. They conform the characters to make the event happen in the most dramatic way.
   3. Everything serves the climax event's presentation.
 - Character-driven
-  1. The creator wants to see an climax event the audience will remember through the complexity or grandiosity of the character's changes.
+  1. The creator wants to see a climax event the audience will remember through the complexity or grandiosity of the character's changes.
   2. They build a character, then get inside their mind to make them emotionally respond to the events.
   3. Everything serves the character's experience in the climax event.
 - Character-driven is more difficult, and therefore harder to scale.
@@ -118,9 +118,9 @@ There are multiple forms of unreliable narrator:
    - This requires a delicate touch of distortion, since you have to step a few paces away from the truth.
      - It also requires enough comfort with [uncertainty](understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
      - Lemony Snicket (A Series of Unfortunate Events): not present for the event, reconstructs the facts on later research that may be wrong or incomplete
-3. Subconsciously misbelieving the truth
+3. Subconsciously misunderstanding the truth
    - The distortion has to be present, but always toward the narrator's singular [purpose](purpose.md) of coping with the facts.
-   - Ted Moseby (How I Met Your Mother): present for the event, but misremembers or forgets details and nostalgia has embellisted parts of the story to make it unbelievable
+   - Ted Moseby (How I Met Your Mother): present for the event, but misremembers or forgets details and nostalgia has embellished parts of the story to make it unbelievable
    - Goob (Meet the Robinsons): emotional [bias](mind-bias.md) distorts their judgment over actual events
    - Rose Quartz (Steven Universe): present for the event, but depicts a [narcissistic](mind-neurodivergence-clusterb-narcissist.md) view where events made them appear better than the truth
    - Tyler Durden (Fight Club): suffering from hallucinations, but doesn't know it
@@ -137,7 +137,7 @@ In mixed media (e.g., movies, video games), there are multiple avenues to provid
 
 In the case of a mature [genre](art-genres.md), it's almost necessary to provide unreliable narration.
 
-- The genre-savviness of the audience makes a conventional story boring to them.
+- The genre awareness of the audience makes a conventional story boring to them.
 - However, an unreliable narrator allows for a conventional story to become interesting.
 
 ## Inspiration
@@ -152,11 +152,12 @@ Since the audience is a participant in games and role-playing, the story must co
 
 - The most controlling approach is to create mandatory decision-making (e.g., this/that choices). However, this is not easy to accomplish without some form of constraint (e.g., time limits).
 - The other option involves the players having the freedom to do whatever they feel like, then triggering events as they encounter them.
-  - This can also be reinforced with a logical environmental consequence to a decision (e.g., "death walls", very powerful monsters that can't be defeated until much later in the story).
+  - This can also be reinforced with a logical environmental consequence for a decision (e.g., "death walls", very powerful monsters that can't be defeated until much later in the story).
 
-To enhance a story with a bodysnatcher/"The Thing"/doppleganger-style circumstance:
+To enhance a story with a body snatcher/"The Thing"/doppelgänger circumstance:
 
-1. After the characters discover about the creature impersonating humanoids and they take a long rest, have everyone roll a perception check, pretend to make a note of it, but don't say anything else.
-2. Hand each player a note the next morning that is exclusively for them.
-3. Each player receives the same note that reads "you awake well-rested and rejuvenated, you feel ready to face whatever challenges the day may bring, continue playing your character as normal".
-4. Watch them respond over time.
+1. Inform the characters about a creature impersonating humanoids.
+2. When they next take a long rest, have everyone roll a perception check, pretend to make a note of it, but don't say anything else.
+3. Hand each player a note the next morning that is exclusively for them.
+4. Each player receives the same note that reads "you awake well-rested and rejuvenated, you feel ready to face whatever challenges the day may bring, continue playing your character as normal".
+5. Watch them respond over time.

@@ -12,9 +12,9 @@ God calls believers to connect with each other, so Christians shouldn't neglect 
 - We don't need a routine congregation, but we *do* need routine fellowship, which is most conveniently fulfilled with a congregation in [a free society](hardship-persecution-church.md).
 - Without this fellowship, we start developing strange beliefs, which adversely affects our ability to [walk patiently and faithfully with God](https://theologos.site/devotion-chaos/).
 
-The church network is connected through the catholic church.
+The church network is connected through the Catholic Church.
 
-- The catholic church is the universal Body of Christ across the world (not necessarily the "Catholic" [denomination](history-church.md)).
+- The Catholic Church is the universal Body of Christ across the world (not necessarily the "Catholic" [denomination](history-church.md)).
 
 A church is a Christian [community](groups-small.md), not a building or location.
 
@@ -167,7 +167,7 @@ Wherever you go, [give freely](church-serve.md).
 - The best time to give may be *against* where your intuition would lead.
   - Everyone gives to charities during the Christmas season, but churches tend to suffer from it.
   - Charities don't receive many donations during most of the year, especially in spring and summer.
-  - Donors will often overlook parachurch organizations.
+  - Donors will often overlook [para-church organizations](church-parachurch.md).
   - Churches are frequently neglected in [a natural disaster or large-scale crisis](hardship-disaster-1_short.md) from giving to humanitarian organizations.
 - Find places the Church [has needs](church-serve.md), then fill the void as you see how you can help.
 

@@ -396,7 +396,7 @@ From this point, the pattern will likely play itself out in mostly the same way:
 5. Israel will make a concession that they're *not* coming out ahead on, in the spirit of goodwill.
 6. The Arab nation will still hate Israel.
 
-The world seems to hate Israel, however, and across the lens of history that narrative will be an ever-losing battle:
+Many parts of the world seems to hate Israel, however, and across the lens of history that narrative will be an ever-losing battle:
 
 1. "Jews shouldn't exist."
 2. "Israel shouldn't exist."

@@ -20,9 +20,11 @@ The effective consequence of a machine learning algorithm is that it will have "
 
 The constraints, in light of this, are obvious:
 
-- it isn't going to create anything that hasn't been done many times before.
-- it's still  a dumb computer still, so it's just following rules and does *not* develop any type of intuition.
-- any assertions to the contrary are either [trends] spurting up by self-interested individuals who want to sell something or [religiousness about what technology can do](https://gainedin.site/machines/).
+- It isn't going to create anything that hasn't been done many times before.
+- It's still a dumb computer still, so it's just following rules and does *not* develop any type of intuition.
+- Any assertions to the contrary are typically one of two things:
+  1. [Trends](people-trends.md) spurting up by self-interested individuals who want to sell something.
+  2. [Religiousness about what technology can do](https://gainedin.site/machines/).
 
 However, the constraint comes through its averaging. Computers are [logic machines](logic-cs.md), so they simply operate everything as a calculation. This means that a person has to curate the content if they want a higher quality than average.
 

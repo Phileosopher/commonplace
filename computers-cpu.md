@@ -3,11 +3,11 @@
 
 The "central processing unit" (CPU) is the device that sifts through information and turns it into other information. It's an implementation of an "instruction set architecture" (ISA).
 
-The older CPUs [weren't as miniaturized](computers-cpu-8086.jpg), so you couid visibly see the [logic gates](computers-alu.md), which is helpful to understand what's actually happening on a computer chip.
+The older CPUs [weren't as miniaturized](computers-cpu-8086.jpg), so you could visibly see the [logic gates](computers-alu.md), which is helpful to understand what's actually happening on a computer chip.
 
 Lately, most general-purpose computers have more than one CPU inside its main "chipset". Engineers call them "cores", so it's a "dual-core processor" or "quad-core processor" or whatever size that applies.
 
-Each of these cores can only work on 1 [memory](computers-memory.md) register at a time. While they do it very fast, the only way a computer can legitimately multi-task is by having more than 1 core.
+Each of these cores can only work on 1 [memory](computers-memory.md) register at a time. While they do it very fast, the only way a computer can legitimately multitask is by having more than 1 core.
 
 Further, to make them faster, CPUs often have memory on the chip as well. To make them faster, they'll often give L1 memory to *each* of the cores. Some of the more advanced processors have *tons* of memory embedded in the processor chipset.
 
@@ -96,7 +96,7 @@ However, the above paragraph is merely a thought experiment, because CPUs have h
 
 Of course, these 0s and 1s are difficult to program with, which is why [assembly code](computers-programming-assembly.md) is so important.
 
-When the the processor is able to handle words that are smaller than the register, they use a weird informal word called "endianness". Basically, big-endian memory holds it at the "big end" or back of the register (e.g., 0000000010101111) and little-endian on the "little end" or front (e.g., 1010111100000000). This feature allows for backwards compatibility with old [operating systems](computers-os.md) or odd-sized registers.
+When the processor is able to handle words that are smaller than the register, they use a weird informal word called "endianness". Basically, big-endian memory holds it at the "big end" or back of the register (e.g., 0000000010101111) and little-endian on the "little end" or front (e.g., 1010111100000000). This feature allows for backwards compatibility with old [operating systems](computers-os.md) or odd-sized registers.
 
 ## Better CPUs
 
@@ -112,7 +112,7 @@ Also, while speed is important, energy efficiency is as well, especially with an
 
 Plus, reliability is important, since it's not good to have a CPU that fails after a few months of continuous use. Thankfully, energy efficiency goes hand-in-hand with reliability, since less electricity means it generates less heat.
 
-While Average User You can ratchet up or dial back the clock speed to give you better or longer performance ("overclocking" or "underclocking"), engineers are constantly improving their designs to get more performance out of a CPU:
+While Average User You can ratchet up or dial back the clock speed to give you better or longer performance ("overclocking" or "under-clocking"), engineers are constantly improving their designs to get more performance out of a CPU:
 
 - Stack the "nanosheets", thin arrays of transistors, together more closely.
 - Stick the media control, graphics, calculating, and a hefty amount of [memory](computers-memory.md) onto the chipset as well.
@@ -135,7 +135,7 @@ Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has st
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 
-There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](networks-cs.md) component. However, beyond the affordability aspect, it does beg the question whether it's economically worth labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
+There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](networks-cs.md) component. However, beyond the affordability aspect, we should ask whether there's any value in labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
 
 The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
 

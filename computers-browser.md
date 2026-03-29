@@ -25,7 +25,7 @@ The structure of a URL indicates its information:
 
 APPLICATION: strip the query onward, and you've just cut off some information to the host. This is a good cybersecurity practice.
 
-Client computers submit a request to a host/server computer with a URL, an endpoint path off that URL, and one of a several possible methods:
+Client computers submit a request to a host/server computer with a URL, an endpoint path off that URL, and one of several possible methods:
 
 - GET - ask for information from a specified location (sent in the URL directly and therefore *not* [securely sent](computers-cysec.md))
 - POST - send data to a server to create or update a resource
@@ -34,7 +34,7 @@ Client computers submit a request to a host/server computer with a URL, an endpo
 - DELETE - deletes a specified resource
 - PATCH - like PUT, but only applies partial modifications to a resource
 - OPTIONS - describes communication options for a specified resource
-- CONNECT - starts a two-way commmunication (a "tunnel") with a resource
+- CONNECT - starts a two-way communication (a "tunnel") with a resource
 - TRACE - performs a message loop-back test to test the path to the target resource, also great for [testing](computers-software-redesign.md)
 
 The request may optionally also include a body, headers, query strings, and the HTTP version.
@@ -64,12 +64,12 @@ The server/host computer interprets the information, then sends a response back 
     - **303 See Other**, where the response can be found with another URI with the GET method, and a POST method means the server received the data and the client should issue a new GET to the new URI
     - **307 Temporary Redirect** to another URI and repeat the request, but future requests should use the original URI
   - **304 Not Modified** from the client's copy, so there's no need to re-transmit the resource
-  - **305 Use Proxy** since *only* a proxy has the information, used since HTTP/1.1 but many web browsers don't obey this code because it's a wide-open risk for [hacking](hacking.md)
+  - **305 Use Proxy** since *only* a proxy has the information, has been used since HTTP/1.1, but many web browsers don't obey this code because it's a wide-open risk for [hacking](hacking.md)
   - **306 Switch Proxy**, which originally meant that subsequent requests should use the specified proxy, but is no longer used
   - **308 Permanent Redirect** to a given URI, which is the same thing as 301 but doesn't allow the client's HTTP method to change.
 - 400s - the client computer has an error
   - **400 Bad Request** because there was an apparent, but uncertain, client error
-  - **401 Unauthorized** is similar to 403 but [authentication](computers-cysec-authentication.md) wasn't provided or has failed
+  - **401 Unauthorized** is similar to 403, but [authentication](computers-cysec-authentication.md) wasn't provided or has failed
   - **402 Payment Required** was reserved for future use, but hasn't been implemented
   - **403 Forbidden** means it was a valid request, but the host is refusing to act on it
   - **404 Not Found** means the requested resource couldn't be found, but that's it
@@ -86,9 +86,9 @@ The server/host computer interprets the information, then sends a response back 
   - **415 Unsupported Media Type** for the server or resource to support
   - **416 Range Not Satisfiable** for the portion requested in the range header
   - **417 Expectation Failed** within the request header's Expect field
-  - **418 I'm a teapot** was an April Fools' joke that shuld theoretically return a teapot's request to brew coffee ([RFC 2324](https://datatracker.ietf.org/doc/rfc2324/) and [RFC 7168](https://datatracker.ietf.org/doc/rfc7168/))
+  - **418 I'm a teapot** was an April Fools' joke that should theoretically return a teapot's request to brew coffee ([RFC 2324](https://datatracker.ietf.org/doc/rfc2324/) and [RFC 7168](https://datatracker.ietf.org/doc/rfc7168/))
   - **421 Misdirected Request** toward a server that can't produce a response
-  - **422 Unprocessable Entity** because the request was well-formed but semantic errors made it impossible to follow
+  - **422 Unprocessable Entity** the request was well-formed, but semantic errors made it impossible to follow
   - **423 Locked** from access
   - **424 Failed Dependency** in a WebDAV configuration because it depended on another request that had failed ([RFC 4918](https://datatracker.ietf.org/doc/rfc4918/))
   - **425 Too Early** for the server to risk processing a request that might have to be replayed ([RFC 8470](https://datatracker.ietf.org/doc/rfc8470/))
@@ -177,7 +177,7 @@ While the [user experience](engineering-design.md) of mobile devices often separ
 
 Differently sized screens and inputs are *not* trivial issues! The wide variety of [screen implementations](engineering-screen.md) means the user could be using a [mouse](computers-mouse.md) and [keyboard](computers-keyboard.md) on an office machine, their cell phone or tablet with their fingers, or an interactive [VR headset](computers-vr.md). To make it simpler, developers sidestep the pixel measurement in lieu of a root em (or "rem") measurement based on a basic font size (typically 16 pixels).
 
-At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](engineering-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-vr.md) and [driverless automotives](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
+At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](engineering-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-vr.md) and [driverless autos](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
 
 - Make elements move and resize relative to the screen edges, such as with a percentage or with a *float* command.
 - Use fluid grids to keep everything in place as things move around.

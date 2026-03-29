@@ -94,7 +94,7 @@ There are a few traits of "fleshly" living:
 
 - Excessive talking: even when a person *knows* they should be more brief with their words, they'll start the [habit](habits.md) of speaking and lose all self-regulation.
 - Excessive consumption or activity: someone can live within the realm of extremes, such as too much food or too much exercise.
-- Self-indulgence: someone can find tremendous value by living "in the moment" with a [high-quality](values-quality.md) experience such as art, food, or experiencing media.
+- Self-indulgence: someone can find tremendous value by living "for the moment" with a [high-quality](values-quality.md) experience such as art, food, or experiencing media.
 
 We must treat our bodies like a wild beast that requires God's effort to tame, *not* like a despicable monster that deserves all condemnation.
 
@@ -248,7 +248,7 @@ Our bodies can only react, and anything that requires more elaborate thought or 
 Our body/soul distinction is relatively easy to identify, but observing the soul versus the spirit is *much* harder:
 
 - The soul is more easily distracted than the spirit, and tends to swerve into being too [rational](logic.md) or too [emotional](mind-feelings.md) for the time and place.
-- The soul desires [understanding](understanding.md), but the spirit desires to be [in the moment](mind-awareness.md).
+- The soul desires [understanding](understanding.md), but the spirit desires to be [within the moment](mind-awareness.md).
 - Most of the soul's behaviors are impulsive, while the spirit's are more sustained and patient.
 - The soul is capable of being "weighed down" by various struggles, but the spirit can never be subdued (though it can be misled).
 - Our spirits have much more strength to accomplish without outside involvement than our souls (e.g., [spiritual gifts](spiritual-gifts.md)).
@@ -289,10 +289,10 @@ Some people have erroneously imagined that we must separate out the spirit or sp
 - It's possible to maintain an emotion-based, dead faith in the soul while performing no action in the body that may benefit the spirit.
   - [James 2:26](https://biblehub.com/james/2-26.htm)
 - If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](people-conflicts-christian-why.md) through several channels:
-  - Asceticism
+  - Asceticism: we must refrain from some things.
     - [1 Timothy 4:1-3](https://biblehub.com/1_timothy/4.htm)
     [Colossians 2:20-23](https://biblehub.com/colossians/2.htm)
-  - Libertinism
+  - Libertinism: we are free to [sin](theology-sins.md).
     - [2 Peter 2:13-22](https://biblehub.com/2_peter/2.htm)
     - [Jude](https://biblehub.com/jude/1.htm)
 - [Spiritual exercises](spiritual-exercises.md) serve to strengthen and expand our relationship with God, but they're often *very* physical things (e.g., a [church service](church.md), [serving others](church-serve.md)).

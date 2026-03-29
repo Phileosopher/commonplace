@@ -10,7 +10,7 @@ The Raspberry Pi Foundation not-for-profit aims their Raspberry Pi at young peop
 
 With respect to hardware, a Raspberry Pi simply needs peripherals (keyboard and screen).
 
-There are now units that come with a built-in keyboard, meaning that it only needs a screen to setup.
+There are now units that come with a built-in keyboard, meaning that it only needs a screen to set up.
 
 Pis run on [Linux](computers-os-unix.md) with a specialized distro for it, so they work with a vast variety of [programming languages](computers-languages.md).
 
@@ -29,9 +29,9 @@ Unlike the Pi's standalone setup, Arduinos need another computer to program them
 
 [PINE64](https://www.pine64.org/) directs their efforts toward affordable, open-source, ready-to-use devices.
 
-- Like the others, they have single board computers, as well as a clusterboard for [distributed systems](computers-distsys.md).
+- Like the others, they have single board computers, as well as a cluster board for [distributed systems](computers-distsys.md).
 
-As of right now, they have open-source consumer devices like a laptop, phone, and smart watch.
+As of right now, they have open-source consumer devices like a laptop, phone, and smart-watch.
 
 - They also have an affordable IP camera and a soldering iron for more specific projects.
 

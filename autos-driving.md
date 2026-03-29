@@ -92,7 +92,7 @@ Reversing:
 - When backing, be *very* mindful of the added maneuverability mixed with the unfamiliar reversal of where turning will take you. Take your time.
 - If you're backing a trailer, that trailer is being pushed by the vehicle.
   - Longer trailers mean the vehicle has a *much* longer distance to travel before it jackknifes (angles farther than 90 degrees).
-  - When backing straight, turn the steering wheel *into* the side that's starting to oversteer.
+  - When backing straight, turn the steering wheel *into* the side that's starting to over-steer.
   - Navigating a trailer requires lots of intuition mixed with a clear mental map of where everything is located.
 
 Parking:

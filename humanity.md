@@ -95,9 +95,11 @@ As we age and transition through [life stages](maturity.md), we become known (an
 
 ## Transhumanism
 
+Starting from early childhood, we have an insatiable concept of eternity, where we imagine our lives carrying on into perpetuity. The evidence comes through how no single task ever fully satisfies us, and is a huge reason why we [pursue a meaningful legacy](legacy.md).
+
 All [religion](religion.md) gives us directives to live in a [morally superior way](morality.md). While those morals are *not* the same according to each religion, they all give promises of humanity becoming better than it is right now. Most of them indicate that this superior existence comes after [death](legacy.md).
 
-Beyond religion, a relatively new type of [trend](people-trends.md) has arisen in light of [technology](technology.md), called "transhumanism". Instead of the promises coming through moral action that leads to post-mortem payout, the promises come [through technology](computers-biological.md), with the promise being a superior quality of life. At its farthest, the promises extend to ending death itself.
+Beyond religion, a relatively new type of [trend](people-trends.md) has arisen in light of [technology](technology.md), called "transhumanism". Instead of the promises coming through moral action that leads to post-mortem payout, the promises come [through technology](computers-biological.md), with the promise being a superior quality of life. At its farthest, [the promises extend to ending death itself](https://gainedin.site/machines/).
 
 Many [works of science fiction](stories-storytellers.md) magnify this story, to tremendous levels. It's not unusual in this mindset to visualize humanity:
 

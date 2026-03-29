@@ -33,7 +33,7 @@ The concept of money would be gone. Since nobody would care to stockpile [power]
 
 Groups would converge *strictly* for clear [purposes](purpose.md). As people started [specializing](jobs-specialization.md), the lack of political battles would mean a significant segment of the group would simply break off any time a divergent task was needed. No group, therefore, would ever surpass about [150 people](groups-large.md) before splitting.
 
-Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](mind-imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md) and it wouldn't take hold.
+Each [group](groups-small.md) would exist with its own distinct variety of cultural elements. There would be a wide variety of customs, rituals, [habits](habits.md), and [expected behaviors](mind-imagination.md). However, while our society accepts and often [empowers](power.md) evil, *all* the various people groups would hate [evil](morality-evil.md), and it wouldn't take hold.
 
 The [cultures](people-culture.md) of *all* people groups in a perfect society would be within a specific range:
 
@@ -65,7 +65,7 @@ Everyone would work. Not everyone would produce the same, but everyone would gai
 
 Presently, there's *zero* work for particularly unintelligent people. The more we [specialize](jobs-specialization.md), the worse it gets, since specialties require intelligence. In a perfect society, the people who develop their specialization would find [creative](mind-creativity.md) solutions to create [meaningful](meaning.md) alternate work for the less intelligent.
 
-[Exchanges](money-economics.md) would be dramatically different than we're accustomed to. Someone would make something that someone else wanted. The receiving person wouldn't pay for it, but they'd be grateful, along with everyone else. Thus, if the [creator](creations.md) ever needed or wanted for anything, they could freely take it, but would also love everyone else to the point that they'd consider *others'* needs as well when taking (i.e., give up what they had or not take something if it would otherwise deprive someone else of their needs).
+[Exchanges](money-economics.md) would be dramatically different from we're accustomed to. Someone would make something that someone else wanted. The receiving person wouldn't pay for it, but they'd be grateful, along with everyone else. Thus, if the [creator](creations.md) ever needed or wanted for anything, they could freely take it, but would also love everyone else to the point that they'd consider *others'* needs as well when taking (i.e., give up what they had or not take something if it would otherwise deprive someone else of their needs).
 
 Property ownership would still exist, but [conflicts over it](people-boundaries-why.md) wouldn't be as toxic. The purpose of property would be less about [power](power.md) and more about [responsibility](meaning.md). Someone would have a well, for example, who was responsible for keeping it cleared, but *everyone* would profit from the well-being cleared, and they'd often gift the owner out of gratitude.
 
@@ -89,7 +89,7 @@ Naturally, some people will always do a better job than others. Because of love 
 
 If the market for something ever over-saturates, whatever it is, then *everyone* in that community will work together to consider how to resolve it. Typically, there'll be another group elsewhere that could use that service, or maybe there's a specific [specialization](jobs-specialization.md) the vendor could focus on instead.
 
-Since people wouldn't generally be lazy or too conceited to receive correction, they wouldn't need managers, with the possible exception of massive projects. However, managers of large projects would serve more as record-keepers and convenient points of contact with others than taskmasters.
+Since people wouldn't generally be lazy or too conceited to receive correction, they wouldn't need managers, with the possible exception of massive projects. However, managers of large projects would more serve as record-keepers and convenient points of contact with others than taskmasters.
 
 Whenever someone could *not* find work, for whatever reason, there would be a public allowance for them for all the resources they'd need to survive (e.g., food, shelter, internet). However, they'd only be permitted to take what they required, and they'd never receive a money-based allowance (since it would inevitably cause [economic inflation](money-economics.md) and dilute the value it would give to the needy).
 

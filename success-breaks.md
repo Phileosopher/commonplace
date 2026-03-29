@@ -16,7 +16,7 @@ Relax:
 
 Use the 20-20-20 Rule to reduce computer eye strain and myopia:
 
-- Every 20 minutes of screen time, focus on an object at least 20 feet (~6m) away for at least 20 seconds.
+- Every 20 minutes of screen time, focus on an object at least 20 feet (~6 meters) away for at least 20 seconds.
 
 Rearrange or optimize your work environment:
 

@@ -189,7 +189,7 @@ Any food with antioxidants can help your body heal.
 
 - Apples
 - Artichokes
-- Avocadoes
+- Avocados
 - Beans
 - Berries, especially blackberries, blueberries, cranberries, raspberries, and strawberries
 - Cherries

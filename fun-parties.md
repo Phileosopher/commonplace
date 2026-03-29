@@ -3,7 +3,7 @@
 
 ## Why throw a party?
 
-Parties should be [fun](fun.md), and a party is *always* worth it if people [enjoy themselves](mind-feelings-happiness-perma.md).
+Parties should be [fun](fun.md), and a party is *always* worth it when people [enjoy themselves](mind-feelings-happiness-perma.md).
 
 You can succeed at a party, even with very little skill, if you're [generally satisfied with life](mind-feelings-happiness.md), [somewhat organized](organization.md) enough to take advantage of a venue, have some skill at defusing [major group conflicts](people-conflicts.md), and (if it's a large party) can [direct people](mgmt-6_morale.md).
 
@@ -133,7 +133,7 @@ Make decorations that match the occasion:
   - To make creepy-looking ice, put a frozen rubber glove in water with red food coloring and freeze.
   - Make "night eyes" by cutting eyes into toilet paper rolls and putting glow sticks into them.
   - To make decorations that look like faces, draw faces on upside down plastic cups and put LED tealights under them.
-  - Halloween pumpkins can be carved out and cut in half to be a drink cooler.
+  - Pumpkins can be carved out and cut in half to be a drink cooler.
   - Make Jack-o-Lantern Cheeseburgers by putting hamburger patties onto a bottom bun, then cutting out American cheese into Jack-o-Lantern faces.
   - Make spider cookies by drawing legs with a toothpick on cookies while the chocolate chips are still warm.
 
@@ -187,7 +187,7 @@ Provoke people to interact more:
 
 Have competitions:
 
-- Run a rope through the bottom of a tissue paper box and fill with ping pong balls, have someone wear it on his or her backside and time someone shaking all the ping pong balls out.
+- Run a rope through the bottom of a tissue paper box and fill with ping pong balls, have someone wear it on his or her backside and time them shaking all the ping pong balls out.
 - Have one person coat their face with shaving cream and others have to throw cheese balls onto it.
 - Load a piñata with candy.
 
@@ -199,7 +199,7 @@ If you're bringing [alcohol](fun-alcohol.md), include drinking games:
 - Make "Beer Battleship" by cutting out foam ships with cupholders as the slots and playing a regular Battleship game next to it.
 - Play chess with a checkered tile floor and drink cups.
 - If the event is on your front lawn, place a sign that says YOU HONK WE DRINK.
-- Play spin the bottle with shots where some of them aren't alcoholic.
+- Play "spin the bottle" with shots where some of them aren't alcoholic.
 
 Throwing a party does require some trial-and-error, so don't get discouraged if you don't [succeed](success-1_why.md), and simply try again later.
 

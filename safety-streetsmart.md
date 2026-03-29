@@ -3,10 +3,10 @@
 
 There is a distinction in [understanding](understanding.md) between "book smart" and "street smart":
 
-- Book smart is the stereotypical [educated](education.md) college graduate:
+- Book smart is the stereotype of an [educated](education.md) college graduate:
   - They're seen as great at ingesting [lots of information](information.md), [taking tests](mind-memory-tests.md), and possesses lots of [specialized](jobs-specialization.md) information.
   - The implication is that they can be taken advantage of very easily, and have very little skill in navigating the harsher parts of the world.
-- Street smart, by contrast, is the stereotypical experienced hustler in an urban ghetto:
+- Street smart, by contrast, is the stereotype of an experienced hustler in an urban ghetto:
   - Able to [sell themselves](marketing-sales.md) and convince others, with a natural [charisma](people-influence.md) and [extraversion](people-personality-ocean.md).
   - The implication also implies they're generally uneducated, have poor [language](language.md) skills, and have no [compassion for others](people-love.md).
 
@@ -43,7 +43,7 @@ Learn to be constantly in a state of situational awareness.
 Pay attention to social reality more than technical reality.
 
 - There is often a human reason why things are broken or missing, so stay mindful beyond the direct [physical problem](https://adequate.life/fix/) at hand.
-- Your ability to [make friends](people-4_friends.md) with the right people is far more important than your intelligence or [cleverness](mind-creativity.md).
+- The ability to [make friends](people-4_friends.md) with the correct people is far more important than intelligence or [cleverness](mind-creativity.md).
 
 Have a general plan for what you will do in various situations.
 
@@ -111,7 +111,7 @@ Staying safe on foot
 
 - Try to blend into the environment you're in to avoid drawing attention to yourself.
 - Walk confidently wherever you go to avoid looking like an easy mark.
-- Walk purposefully, and avoid slowly taking in the scenery (which says you're a [tourist](fun-vacations.md) and have money.
+- Walk purposefully, and avoid slowly taking in the scenery (which says you're a [tourist](fun-vacations.md) and have money).
 - Make direct eye contact with everyone you encounter.
   - Don't stare them down to antagonize, but show them you're aware of them.
   - It also gives you an opportunity to identify them later if an event does transpire.

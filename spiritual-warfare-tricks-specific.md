@@ -28,7 +28,7 @@ The devil invalidates [prayer](spiritual-exercises-prayer.md) by shifting it fro
 
 While God is more concerned about what we [decide](mind-decisions.md) and [do](results.md), the Satan redirects us to thinking about [what will happen](results.md) to us:
 
-- More uncertainties creates more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
+- More uncertainties create more opportunities for anxiety and [fear](mind-feelings-fear.md) of the future.
 - If possible, when we're [praying](spiritual-exercises-prayer.md), demons will direct *all* our focus to the worst possible futures for us. That way, we focus on *all* the worst-case scenarios (which are impossible to accept all at once) and ignore accepting merely the current hardship [as it is](reality.md).
 - We can often engage in various types of [media](creations.md) (e.g., movies, video games, book) that permit us to explore moral decisions without any outward [consequences](results.md). Thus, we can use [technology](technology.md) to be as lawless as we want while excusing it as "not real".
 - Further, by abstracting humanity into sub-human monsters inside [stories](stories-why.md), the devil can further blur the line about morality (e.g., zombies, vampires).
@@ -97,7 +97,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 - There's a profound [moral](morality.md) difference between enjoying base sexual humor for its merit as a joke and enjoying it to [imagine](mind-imagination.md) performing it. The first is an acceptable appreciation of [quality](values-quality.md), but the second is simply lewdness.
 - Very [creative](mind-creativity.md) people can make completely harmless jokes about [virtue](morality.md), but humor about *[practicing](results.md)* virtue can deaden us to [loving](people-love.md) it.
 
-Gluttony isn't merely from excess, and can often be from delicacy. [Western Christianity](https://theologos.site/the-west/) tends not no talk about it, which allows the devil to work:
+Gluttony isn't merely from excess, and can often be from delicacy. [Western Christianity](https://theologos.site/the-west/) tends not to talk about it, which allows the devil to work:
 
 - The idolatry of gluttony runs the range of anything we can consume and goes beyond food to domains such as chocolate, cigarettes, beer, television, [consumed media](stories-storytellers.md), and [technology](technology.md).
 - The dangers of gluttony in delicacy come when someone isn't satisfied with what they have and merely wants something "a little better". Females can become obsessed with one "single, little thing" they want, while males can believe they're merely acting out of [understanding](understanding.md) "real [quality](values-quality.md)".
@@ -177,7 +177,7 @@ The devil aims to condition them to bleieve that growing physically into womanho
 - The devil gives tons of information that is wrong and misstated, which leads to confusion and uncertainty.
 - The devil then stirs up fear about bringing up the topics with anyone, which magnifies the confusion.
 
-Once they've been left alone, they're forced to to guess, which leaves them remembering how confused they felt.
+Once they've been left alone, they're forced to guess, which leaves them remembering how confused they felt.
 
 - In this, they won't be informed about how menstruation and fertility are the power for humanity to even go on, so they'll only be able to focus on its unpleasant elements.
 - This divides them with the belief that they have a needless struggle that men don't have to face.

@@ -21,7 +21,7 @@ Try anything you or they haven't done before:
 - Visit local festivals, concerts, art presentations, and community events.
 - Try wine tasting.
 - Ride in a hot air balloon or helicopter.
-- Go sky diving or bungee jumping.
+- Go skydiving or bungee jumping.
 
 Some date ideas are risky because they'll interfere with your date's social standards:
 
@@ -55,7 +55,7 @@ If you're married, make it special:
 
 - Revisit how your first date or dates went.
 - Have them run an errand, then decorate the place into something romantic while they're gone.
-- Plan a weekend trip, but surprise them by having a couple you both like to to be there as well.
+- Plan a weekend trip, but surprise them by having a couple you both like to be there as well.
 - Go visit a store together but don't buy anything, but pay attention to what they like and get it for them as a gift later.
 - Renew your wedding vows.
 

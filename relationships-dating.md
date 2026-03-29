@@ -89,13 +89,13 @@ Values and beliefs:
 - How [traditional](people-culture.md) are you/they?
   - How important are morality and personal values to you/them?
   - How much do you/they want to be involved in church?
-  - What religious beliefs do you/they have and how do they affect day-to-day life?
+  - What religious beliefs do you/they have, and how do they affect day-to-day life?
 - How ambitious and driven to [personal success](success-1_why.md) are you/they?
 - How much do you/they desire to give back to communities and behave ethically?
 
 Background:
 
-- How healthy a family did you/they come from and how do you/they see their overall [health](body-health.md) and [hygiene](people-image.md)?
+- How healthy a family did you/they come from, and how do you/they see their overall [health](body-health.md) and [hygiene](people-image.md)?
   - How close are you/they to family and how much involvement do they have in life?
 - How educated are you/they, and how important do you/they see it?
 - How much are they willing to change to have a relationship?
@@ -120,7 +120,7 @@ When you're ready, start [hunting for dates](relationships-dating-hunt.md).
 
 You're dating to learn, *not* to make lifetime commitments:
 
-- Dating is a shared experiment to see how you and someone else get along.
+- Dating is a shared experiment to see how you and someone else can coexist.
 - Date people you usually wouldn't to further understand who you *would* prefer.
 
 You must have [fun](fun.md) with them:
@@ -294,7 +294,7 @@ Most cultures imply a relationship is a testing ground for marriage:
 
 - It takes 2-4 years to thoroughly get to know someone.
 - While a relationship is generally low-commitment, marriage is a major and (hopefully) permanent life decision.
-- Don't listen to to the social pressure to marry, since people will push [having children](parenting-babies.md) and [buying a house](home-buy.md) later the same way.
+- Don't listen to the social pressure to marry, since people will push [having children](parenting-babies.md) and [buying a house](home-buy.md) later the same way.
 
 Some cultures expect marriage a few months from meeting, but others expect 3-5 years of dating before even considering it, but you should seriously consider and decide after about a year.
 

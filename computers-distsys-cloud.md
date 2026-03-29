@@ -1,11 +1,11 @@
 
 # Cloud computing
 
-You can use a computer locally ("on-prem") or, with the power of the [internet](networks-cs.md), you can use it remotely.
+You can use a computer locally on-premises("on-prem") or, with the power of the [internet](networks-cs.md), you can use it remotely.
 
 If you use it remotely, your information is remotely accessible, or in the "cloud".
 
-The simplest method of cloud storage involves simply synchronizing [files](computers-files.md). This can be one-way or both ways, and can be periodic or constant. Most cloud services (e.g.,Dropbox, OneDrive) are both ways and constant, since it's *darn* convenient across multiple computers.
+The simplest method of cloud storage involves simply synchronizing [files](computers-files.md). This can be one-way or both ways, and can be periodic or constant. Most cloud services (e.g., Dropbox, OneDrive) are both ways and constant, since it's *darn* convenient across multiple computers.
 
 For redundant storage with important computer files, it's a generally good idea to have "network-attached storage" (NAS), which typically keeps a backup of whatever is stored locally. It also can help to have "snapshots" of various points in the past, just in case there was a detected deletion that synchronized back to the NAS.
 

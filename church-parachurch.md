@@ -1,11 +1,11 @@
 
-# List of parachurch organizations
+# List of para-church organizations
 
 As a general rule, most church leadership are at least somewhat territorial over [their congregation](mgmt-church.md).
 
 - This is both an egregious reality (since we're *all* the Body of Christ if we share the same [core Gospel beliefs](https://theologos.site/gospel/)) and an unavoidable aspect of [human nature](humanity.md).
 
-Therefore, the best way to find [cross-cultural](people-culture.md) connection across the Body is through parachurch organizations.
+Therefore, the best way to find [cross-cultural](people-culture.md) connection across the Body is through para-church organizations.
 
 The organizations may die, but the [specializations](jobs-specialization.md) will carry on as long as there's a cross-cultural need and church leadership are territorial.
 
@@ -84,7 +84,7 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Awana](https://www.awana.org/) - focused Bible memorization and teaching for [children](people-family.md)
 
-[The MomCo](https://www.themom.co/home) (former MOPS) - focused on mothers of preschoolers finding connection
+[The MomCo](https://www.themom.co/home) (formerly MOPS) - focused on mothers of preschoolers finding connection
 
 [Promise Keepers](https://promisekeepers.org/) - focused on marital chastity for men
 

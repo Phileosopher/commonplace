@@ -5,7 +5,7 @@ Anyone can run a city, but the only way to run a city *well* is by consulting hi
 
 - Many time-tested techniques have worked in every urban center throughout history.
 - Many [progressive](politics-conservativeliberal.md) city planners may imagine these don't apply due to [technology](technology.md) changes and [trends](people-trends.md).
-  - However, human nature hasn't change that fast over centuries, and technology simply adapts elements (e.g., horse tie posts vs. parking spots)
+  - However, human nature hasn't changed that fast over centuries, and technology simply adapts elements (e.g., horse tie posts vs. parking spots)
 - Also, history has proven many techniques that *don't* work.
 - This is also easier said than done, mostly because there are many [political](politics-systems.md) circumstances where failing spectacularly can win an election through blaming the opposition.
 
@@ -115,7 +115,7 @@ The most complex solution to traffic congestion, and by far the proven worst opt
 - All forms of mass transit are expensive to build and maintain.
   - Buses are the cheapest, but require a fleet with driver staff and support staff.
   - All rail options require tremendous amounts of construction and maintenance, with elevated and underground rail costing even more.
-- The [culture](people-culture.md) also plays a factor, since people will often maintain what they know over an unfamiliar and superior solution.
+- The [culture](people-culture.md) also plays a role, since people will often maintain what they know over an unfamiliar and superior solution.
   - In other words, many people will opt to pay more to commute with their car for 60 minutes than take a 45-minute train commute with 15 minutes to wait for it.
 - Further, financing mass transit is almost guaranteed to come through government subsidy.
   - Most people who have money will opt to drive or take a taxi.

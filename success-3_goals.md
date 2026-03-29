@@ -66,7 +66,7 @@ Ask dumb questions to find obvious problems:
 Practice brutal honesty with yourself to find in-depth problems:
 
 - State out loud, "Everything in my life is fine," then pay close attention to any objections you [feel](mind-feelings.md)
-- If your life is going horribly, *anything* different than what you currently have been doing is a good start.
+- If your life is going horribly, *anything* different from what you currently have been doing is a good start.
 - Write down your top 5 problems in your life, then ask why you haven't done anything about them
 - Long-held [beliefs](mind-trust.md), prejudices, and assumptions
 - Communications with others
@@ -79,7 +79,7 @@ Categorize your goals in relation to how far away they are:
 
 - You should have assembled enough goals that you can place at least a few into each category.
 - Short-term goals are things you can technically accomplish right now.
-- Mid-term goals look out beyond a year, but before 5 years.
+- Mid-range goals look out beyond a year, but before 5 years.
 - Long-term goals span 5-15 years.
 - As you make the goals, you should be able to feel that your tasks will naturally reflect all three domains at once.
 

@@ -51,7 +51,7 @@ If you want to, you can befriend crows:
    - They are very good at detecting your gait, face, and even your car's engine sound.
 4. Consistently feed them every time, which trains them to be familiar with you.
    - When they have fledglings, they will be less responsive, but will revert to their familiar pattern once the fledgling has grown at least a few weeks.
-5. If you want to, talk with them. you can also try saying something specific every time you're about to bring food out.
+5. If you want to, talk with them. Tou can also try saying something specific every time you're about to bring food out.
 
 ## Make what you can for your pet
 
@@ -155,7 +155,7 @@ Training a cat is extremely difficult, but possible:
 
 Train a cat to use the toilet instead of a litter box:
 
-1. Have the cat use a homemade cardboard litter box with torn-up newspaper instead of litter (you can't put sand in the toilet). If the box doesn't have a one-piece bottom, add a cardboard piece that fits inside so you have a false bottom that won't become soggy and fall out.
+1. Have the cat use a homemade cardboard litter box with torn-up newspaper instead of litter (you can't put sand in the toilet). If the box doesn't have a one-piece bottom, add a cardboard piece that fits inside to create a false bottom that won't become soggy and fall out.
 2. Once the cat is trained to use it, start moving it around the room toward the bathroom a few feet at a time. If you move it too far, they won't follow and will still use the corner, so take your time.
 3. As you move the box, very gradually start cutting the brim of the box down for the sides to get lower.
 4. Once you reach the bathroom and, eventually, the toilet, prepare to put the box on top of the toilet by cutting a little slash at each corner of the box and running string through the slashes to secure the box.

@@ -31,7 +31,7 @@ DRM is highly complicated, for several reasons:
    - CDs had DRM preinstalled to prevent copying, until someone found out how to remove it by drawing a permanent marker around the edge of the CD.
    - Software keys to register a product are often hiding inside the source code or is a list from a database.
    - Hackers often reverse-engineer the source code, then rebuild the entire thing and release it as an unlocked version.
-6. Further, if an IP-holder gets *too* oppressive with their rights management, for a variety of reasons they'll often see typical consumers pirate copies or use alternative products (e.g., [open-source](legal-ip-floss.md)).
+6. Further, if an IP-holder gets *too* oppressive with managing their rights, typical consumers will often choose to pirate copies or use alternative products (e.g., [open-source](legal-ip-floss.md)).
 
 ## Moral vs. legal
 

@@ -80,14 +80,14 @@ If we remove our human constraints and tendency to [build stories](stories-why.m
     - This is very emotionally draining, and often difficult to parse.
 3. Find a replacement for the undesirable parts of the routine that maintains the original routine.
     - If you've sufficiently broken things apart, this is easy to find a [creative](mind-creativity.md) replacement.
-      - For example, smoking cigarettes can be replaced with gum for the routine and nicotine patches for the vasoconstrictive experience.
+      - For example, smoking cigarettes can be replaced with gum for the routine and nicotine patches for the vasoconstriction experience.
       - Many times, that replacement is a much more constructive activity.
     - Often, given our social needs, we need some level of human connection when we engage in our substance.
-      - To that end, most 12 step programs provide accountability partners.
+      - To that end, most 12-step programs provide accountability partners.
 4. Give the entire problem and plan to God.
     - God will grant the wisdom to see where you're missing something.
     - God will also grant the strength to carry out the plan.
-5. if you relapse, you missed a part of your [habit](habits.md) you enjoy and need to find it.
+5. If you relapse, you missed a part of your [habit](habits.md) you enjoy and need to find it.
 
 ## The abstracted view
 

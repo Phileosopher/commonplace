@@ -25,7 +25,7 @@ Preoccupation with at least one of the four major idols ([1 John 2:15-16](https:
 This will show itself through how they prioritize their life, some examples:
 
 - Aspiring [entrepreneur](entrepreneur-1_what.md): money/power/honor
-- Aspiring [executive/ceo](mgmt-1_why.md): money/power/honor
+- Aspiring [executive/CEO](mgmt-1_why.md): money/power/honor
 - [Intellectual](understanding.md): power
 - Worship of their [body's strength](body-exercise.md) (power)
 - Worship of their [body's appearance](people-image.md): honor
@@ -103,7 +103,7 @@ Extreme insistence on creating large-scale [political changes](politics-conserva
   - [Matthew 26:11](https://biblehub.com/matthew/26-11.htm)
 - Most people who wrestle with political concepts often forget God's [long-term result](https://theologos.site/millennium/).
 
-## Dismissiveness
+## Dismissive attitude
 
 Maintains [habitual](habits.md) [sins](theology-sins.md) out of ignorance or unawareness.
 
@@ -152,24 +152,19 @@ Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem
 
 Trying to achieve righteousness through their strength and willpower alone.
 
-- They haven't realized that only the Holy Spirit can grant our [spirits](theology-godandman-humanity.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it.
-  - [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)
+- They haven't realized that only the Holy Spirit can grant our [spirits](theology-godandman-humanity.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it ([1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)).
 
 Complete belief that they can accomplish *anything whatsoever* as long as they trust God intensely enough to provide.
 
-- They understand that God gives us [power](power.md) ([Philippians 4:13](https://biblehub.com/philippians/4-13.htm)) but fail to see that He delivers it abundantly according to [His desires](god-will.md).
-  - [Matthew 6:10](https://biblehub.com/matthew/6-10.htm)
-- Most of the time, they'll have a worthy goal that God wants as well, but they don't want Him to lead the experience.
-  - [Proverbs 16:9](https://biblehub.com/proverbs/16-9.htm)
-- They typically need to wait on Him more.
-  - [Romans 8:25](https://biblehub.com/romans/8-25.htm)
+- They understand that God gives us [power](power.md) ([Philippians 4:13](https://biblehub.com/philippians/4-13.htm)) but fail to see that He delivers it abundantly according to [His desires](god-will.md) ([Matthew 6:10](https://biblehub.com/matthew/6-10.htm)).
+- Most of the time, they'll have a worthy goal that God wants as well, but they don't want Him to lead the experience ([Proverbs 16:9](https://biblehub.com/proverbs/16-9.htm)).
+- They typically need to wait on Him more ([Romans 8:25](https://biblehub.com/romans/8-25.htm)).
 
 Seeking spiritual experiences over [self-management](habits.md).
 
 - Frequently, denominations that draw in people like this can create a dramatic spectacle of unregulated [emotional](mind-feelings.md) expression.
 - They still haven't learned the scope of God's power, so they interpret unusual things but overlook [God's amazing feats of engineering](science.md) that He designed into our day-to-day existence.
-- They also haven't realized yet that a spectacular redemption story doesn't show growth in Christ *nearly* as much as enduring trials.
-  - [1 Peter 1:6-7](https://biblehub.com/1_peter/1.htm)
+- They also haven't realized yet that a spectacular redemption story doesn't show growth in Christ *nearly* as much as enduring trials ([1 Peter 1:6-7](https://biblehub.com/1_peter/1.htm)).
 
 ## Chronic Symptoms
 
@@ -189,8 +184,7 @@ Rigidity and denial to even *think* about [speculative](mind-imagination.md) ele
 Complete openness to discussing [speculative](mind-imagination.md) elements that have absolutely *no* grounding in the Bible.
 
 - We must *constantly* renew our minds by conforming to the truths we discover ([Romans 12:2](https://biblehub.com/romans/12-2.htm)), so we must curb our imaginations to the [constraints](mind-creativity.md) of what we know to be [reality](reality.md).
-- The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long.
-  - [1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm)
+- The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long ([1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm)).
 
 Confronting others over broader-reaching spiritual matters that have zero day-to-day significance.
 
@@ -200,8 +194,7 @@ Confronting others over broader-reaching spiritual matters that have zero day-to
 Jealousy over another person's spiritual status.
 
 - We all must maintain a [quiet humility](https://theologos.site/devotion-chaos/) about the station in life God has placed us in.
-- Each person has their walk, and God holds them individually responsible.
-  - [Romans 14:4](https://biblehub.com/romans/14-4.htm)
+- Each person has their walk, and God holds them individually responsible ([Romans 14:4](https://biblehub.com/romans/14-4.htm)).
 
 Harsh or inconsiderate [decision-making](mind-decisions.md) about others' lives.
 
@@ -210,8 +203,7 @@ Harsh or inconsiderate [decision-making](mind-decisions.md) about others' lives.
 
 Once in a while, they'll become the [leaders](mgmt-church.md) of an organization that, in some way, advances many of the above.
 
-- They have a worse fate waiting for them if they don't repent.
-  - [Luke 17:1-2](https://biblehub.com/luke/17.htm)
+- They have a worse fate waiting for them [if they don't repent](https://theologos.site/false/) ([Luke 17:1-2](https://biblehub.com/luke/17.htm)).
 
 ## Signs of Growth
 

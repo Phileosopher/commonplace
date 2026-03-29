@@ -1,7 +1,7 @@
 
 # What reality is
 
-Reality is the part of existence that, with the exception of delusion or deception, we are all in complete [agreement](people-conflicts-inner.md) exists.
+Reality is the part of existence that, except for delusion or deception, we are all in complete [agreement](people-conflicts-inner.md) exists.
 
 Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](understanding.md)* as reality).
 

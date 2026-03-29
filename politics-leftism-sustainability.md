@@ -85,7 +85,7 @@ Like with many [left-leaning ideologies](politics-leftism.md), the hangup ties t
 
 Since males and females don't [think](understanding.md) precisely the same way, they will not [accomplish purposes](purpose.md) in the same way, or with a similarly predictable timeline.
 
-- We should we clarify whether we should give females and males an equal shot at everything, or make compensating efforts to accommodate for inadequacies in one gender or another (i.e., equality of opportunity vs equality of outcome).
+- We should clarify whether we should give females and males an equal shot at everything, or make compensating efforts to accommodate for inadequacies in one gender or another (i.e., equality of opportunity vs equality of outcome).
 
 Generally, while anyone can agree on mistreatment and dehumanization of one gender (specifically females), it's self-evident that since about 50% of people are males, both females and males should find an agreement on things that are equal.
 
@@ -105,7 +105,7 @@ We have [technology](technology.md) to industrialize every nation right now, but
 
 In the absence of climate-related discussions, we could provide access to cheap electricity to all the nations. However, that would likely shift around the power dynamic, and some NGOs (non-governmental organizations) would lose their funding if they're [no longer useful](mgmt-badsystems.md).
 
-The impact of this is huge. Charles Eliot once called electricity "carrier of light and power, devourer of space and time, bearer of human speech over land and sea, greatest servant of man--yet itself unknown." It multiplies force and is the greatest form of non-human [power](power-types.md) we have available to us.
+The impact of this is huge. Charles Eliot once called electricity "carrier of light and power, devourer of space and time, bearer of human speech over land and sea, greatest servant of man-yet itself unknown." It multiplies force and is the greatest form of non-human [power](power-types.md) we have available to us.
 
 ## Goal 8: Decent Work and Economic Growth
 

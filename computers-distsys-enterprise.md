@@ -43,7 +43,7 @@ Thankfully, if you're starting out, a clever [hack](hacking.md) allows you to [m
 
 Large-scale servers require a *lot* of electricity to run. At the top end, it requires industrial-grade zoning privileges and a power grid that can withstand the constant voltage requirement. This is especially true for CPU-intensive work such as [cryptocurrency mining](computers-blockchain.md).
 
-These rooms need adequate cooling, which often requires plenty of ventilation. Huge companies with data centers use warehouse-sized rooms called "colocations" or colos.
+These rooms need adequate cooling, which often requires plenty of ventilation. Huge companies with data centers use warehouse-sized rooms called colocations or "colos".
 
 To maximize air conditioning use (and cut down on heat), the servers are arranged in a cold/hot aisle configuration:
 
@@ -68,9 +68,9 @@ However, the extra value and availability of that data means it *must* have at l
 
 Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](computers-software-gamedev.md) or [graphics](engineering-graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-6_scaling-cs.md).
 
-Since enterprise computers are often multitasking, they need more "timesharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
+Since enterprise computers are often multitasking, they need more "time-sharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
 
-To that end, multi-core processors aren't the most cost-effective solution, since a core burning out in a 6-core processor would waste 5 cores. For that reason, an industry-standard [hack](hacking.md) is to use GPUs in an array, since they only run 1 processor thread.
+To that end, multicore processors aren't the most cost-effective solution, since a core burning out in a 6-core processor would waste 5 cores. For that reason, an industry-standard [hack](hacking.md) is to use GPUs in an array, since they only run 1 processor thread.
 
 For diagnostic reasons, the motherboard often integrates a "baseboard management controller" (BMC), which is basically another computer (a "subsystem") build right onto the motherboard. Then, when the processor fails, the BMC can log exactly what happened.
 

@@ -37,7 +37,7 @@ Mix exercise into your daily routine:
 - Do squats while waiting at a bus stop or while eating dinner.
 - Go for walks in the evenings.
 
-For the fastest physical gains, aim on physical activities you're absolutely *terrible* at.
+For the fastest physical gains, aim for physical activities you're absolutely *terrible* at.
 
 Aim for shorter bursts across most days instead of a few long workouts.
 
@@ -64,7 +64,7 @@ Set weightlifting goals for *all* your body groups:
 - Our muscles are connected, so all weight training is connected with all other weight training.
   - Ab workouts are very useful to support your entire training regimen.
 - Have lifts for each of the following:
-  - Pushing (where you can push your body weight in pushups or bench press)
+  - Pushing (where you can push your body weight in push-ups or bench press)
   - Pulling
   - Hinge (bending a limb)
   - Loaded
@@ -123,10 +123,10 @@ You can exercise anywhere:
     - If you have a cramp in your neck, press your tongue to the roof of your mouth
   - While sitting:
     - Flutter kicks: keep your legs straight and alternate kicking them upward
-    - Scissor kicks: keep your legs straight and cross back-and-forth them mid-air
+    - Scissor kicks: keep your legs straight and cross back-and-forth them midair
     - Lounge chair knee tucks: keep your legs together and bend them toward your chest
   - Military push-ups: hold your back completely straight and lower yourself to the ground
-    - If you can't do pushups, use an elevated surface (which could even be a countertop)
+    - If you can't do push-ups, use an elevated surface (which could even be a countertop)
     - Diamond push-ups: have your hands touch
     - Bench push-ups: spread your arms further out
     - Mountain climbers: alternate bringing legs up to hands
@@ -134,7 +134,7 @@ You can exercise anywhere:
     - Planks: hold your body rigidly off the ground by balancing on your hands and feet
       - Plank shoulder taps: while doing a plank, alternate tapping your opposite shoulder with each hand
     - Spider-Man push-up: tap the elbow to the knee every time coming up
-    - Kick backs: alternate lifting your legs directly upward while in the pushup position
+    - Kick backs: alternate lifting your legs directly upward while in the push-up position
   - Handstand push-ups: find a wall you can't do handstands
   - Dive bombers
     1. Start with your body stiffened and butt in the air
@@ -159,7 +159,7 @@ You can exercise anywhere:
   - Decline push-ups: do a push-up against a desk or chair
     - Chair dips: turn around and bend your elbows
     - Shrugs: lift with your shoulders
-  - Elevated situps: Rest your feet on the elevated surface, then reach for the surface between your legs
+  - Elevated sit-ups: Rest your feet on the elevated surface, then reach for the surface between your legs
   - Elevated planks: Rest your feet on the elevated surface, then lift your hips up from the ground
 - With anything that holds your weight:
   - Pull-ups: pull yourself up past a right angle with your elbows
@@ -273,7 +273,7 @@ Never let your workouts fall into a rhythm:
   - Turn any group of workouts into a "complex" by never setting down the weight.
     - Maximize your results by passing the weight over your head somewhere in the transition.
     - However, more variations in strength training means less muscle growth, so only use 1 complex on any regimen.
-  - One of the most intense moves is the Goblet Squat (hug a kettlebell and squat until your elbows go past your knees).
+  - One of the most intense moves is the Goblet Squat (hug a kettle bell and squat until your elbows go past your knees).
 
 Never let yourself slip, which means finding ways to eat better and [get enough sleep](sleep.md).
 

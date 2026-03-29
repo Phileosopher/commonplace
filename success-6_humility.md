@@ -74,7 +74,7 @@ C. Write a clear, concise public message that communicates the following:
 7. Invite comments that give any additional [understanding](understanding.md) you may have missed, especially if you've somehow missed the point or haven't addressed the problem.
 8. Proofread it to [express the precise tone or style](language-writing.md) you want to convey.
 
-D. Act on resolving the problem so it never happens again:
+D. Fix the problem so that it never happens again:
 
 - Pay special attention to anything you've promised.
 - Make sure all your [goals](success-3_goals.md) conform to those changes.
@@ -182,10 +182,12 @@ You can't keep going forever:
 - After a decade or more of your work, someone who's younger, as hungry as you, and more [empowered by technology](technology.md) has decided that they're going to surpass you.
 - Eventually, you will lose at something, and someone else will take what you've built for themselves.
 
-No matter what you do, you'll never stop having a limited perspective:
+No matter what you do, you'll always have a limited perspective:
 
-- There is always a tradeoff with perspective, and you'll lose some through every journey.
-- Succeed enough and you'll forget what it means to fail, be open-minded enough and you'll forget what it means to be focused, try hard enough and you'll forget how to relax.
+- There is always a tradeoff with perspective, and gaining an experience means you'll lose other parts of your views.
+- When you succeed enough, you'll forget what it means to fail.
+- If you're open-minded enough, you'll forget what it means to be focused.
+- If you try hard enough, you'll forget how to relax.
 
 When you scale, you lose something in the process:
 

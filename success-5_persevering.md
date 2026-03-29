@@ -117,7 +117,7 @@ Watch for anything that may be a "rut":
 - You're extremely comfortable in your tasks, to the point that nothing is difficult anymore.
 - You're the most respected or well-known individual in that domain, meaning nobody above you is teaching you.
 - You're waiting for someone or something else to challenge you, which typically won't naturally happen.
-- You've succeeded, but it's only in one specific domain and you haven't explored the domains around it.
+- You've succeeded, but it's only in one specific domain while you haven't explored adjacent domains.
 - You're more bored with tasks than you usually feel.
 
 Do *not* aim for perfection:
@@ -147,7 +147,7 @@ For "hard skills", use deliberate practice to become utterly perfect:
 - The procedure is relatively straightforward:
   1. Practice with a severe focus on your weakest parts of the task.
      - Heavily measure anything that will show where you might be failing.
-     - Look at a problem, attempt a solution, then obsess over why *every* variation the expert performed was different than you.
+     - Look at a problem, attempt a solution, then obsess over why *every* variation the expert performed was different from you.
   2. Obsessively work to fix your most glaring failures.
      - Write down at least 30 mistakes you've made in performing your target procedure.
      - Take apart each portion of the task, and focus strictly on the portions that are the most difficult.
@@ -508,7 +508,7 @@ Reward yourself when you reach small goals:
 - Learn to [have fun](fun.md) when you hit minor milestones.
 - Some of the most prolifically successful people in the world are [miserable](mind-feelings-happiness.md) because they can't reward themselves for small victories.
 
-It's possible nobody else will celebrate with you, at least at first:
+You may have nobody else to celebrate with you, at least at first:
 
 - If anyone *does* celebrate your small wins, keep that person as your [friend](people-friends.md), since they're worth your time even after you've succeeded.
 

@@ -86,7 +86,7 @@ There are many forms of power trading, but maintaining an [image](people-image-w
 - Sacrificing time with others can gain [knowledge](understanding.md)
 - Submitting or subordinating to a stronger person can gain [favor](people-image-why.md)
 
-With the exception of [love](people-love.md), nobody ever intentionally gives up their power without gaining what we see as an [alternate power](power-types.md) (i.e., an opportunity), [love](people-love.md) for someone else, or to [protect](safety.md) a [future loss](mind-imagination.md) in power (driven by [fear](mind-feelings-fear.md)).
+Except for [love](people-love.md), nobody ever intentionally gives up their power without gaining what we see as an [alternate power](power-types.md) (i.e., an opportunity), [love](people-love.md) for someone else, or to [protect](safety.md) a [future loss](mind-imagination.md) in power (driven by [fear](mind-feelings-fear.md)).
 
 APPLICATION: Battery [technology](technology.md) and guns will never be as influential as generators and militaries because people have [trust](mind-trust.md) issues with giving power away. But, it's the only way to have the most [fairness](morality-justice.md), and is necessary for any type of [perfect society](politics-perfectsociety.md).
 
@@ -151,7 +151,7 @@ Across time, there's a type of "natural selection" of power, where the most capa
 
 APPLICATION: Most demarcations of [social class](classes.md) are built around how well people manage power. The poor tend to burn up their power on frivolous [purposes](purpose.md), while the wealthy are hyper-vigilant about *anything* that may harm their means of control.
 
-APPLICATION: Giving everyone power, such as everyone having guns, would make everyone *much* more respectful of each other. At least, until someone took them all.
+APPLICATION: Giving everyone power, such as everyone with guns, would make everyone *much* more respectful of each other. At least, until someone took them all.
 
 ## Downsides
 

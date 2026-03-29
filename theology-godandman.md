@@ -3,7 +3,7 @@
 
 God made mankind for a relationship with Him.
 
-- To permit this to happen, He gives a freedom of [decision](mind-decisions.md) to all His intelligent creations.
+- To permit this to happen, He gives the freedom of [decision](mind-decisions.md) to all His intelligent creations.
 
 Our fallen state (see Harmatiology) essentially makes our bodies (and souls, to a secondary extent) live in *constant* opposition to God's desires.
 
@@ -24,7 +24,7 @@ Our fallen state creates a stable-enough, [morally disastrous social existence](
 - It's a vastly [elaborate social system](lawsaxioms.md) built around [power management](power-types.md), which creates an emergent [economic system](money-economics.md) around a medium (i.e., money).
   - This system creates the consequence of [class stratification](classes.md) and [slavery](people-slavery.md), as well as magnifying the adverse [consequences](results.md) of failed [social risks](entrepreneur-why.md) and [taboos](morality-taboo.md) and [giving *far* too much power](power-influence.md) to those who can [maintain an image](people-image-distortion.md).
   - Eventually, we will always develop the [vast variety of political systems](politics-systems.md) we're accustomed to, and will engage in [endless conflicts](people-conflicts-war-why.md) over all sorts of stupid reasons.
-  - Even if a perfect system were to conjecturally be created, it would eventually [descend into corruption](mgmt-badsystems.md), thereby perpetuating our [cycle](people-trends.md) of inflicting misery on each other.
+  - Even if a perfect system were hypothetically created, it would eventually [descend into corruption](mgmt-badsystems.md), thereby perpetuating our [cycle](people-trends.md) of inflicting misery on each other.
 - As we [specialize](jobs-specialization.md), we can more and more easily create idols among our [specialized groups](groups-member.md), further hastening our decline.
 - It keeps growing more fallen, though, and its full emergence represented when Noah was alive to where God had to "reset" humanity to prevent further destruction of nature.
 - Even after that, God had to both cut down our lives to about a century and confuse the languages of Babylon to slow the decay.
@@ -35,7 +35,7 @@ There are only two things that pass past this life into eternity, and everything
 1. Our friendship with God.
 2. Our friendships with other believers, who are destined to become closer than [family](church-family.md).
 
-There is *much* more on this in the above-stated Metaphysics, Epistomology, Logic, and Aesthetics.
+There is *much* more on this in the above-stated Metaphysics, Epistemology, Logic, and Aesthetics.
 
 [Additional exposition on who people are](theology-godandman-humanity.md)
 
@@ -171,7 +171,7 @@ Religious rituals won't always help our relationship with Jesus.
 Don't search for mystical experiences such as miracles, healing, or supernatural phenomena ([Matthew 12:38-39](https://biblehub.com/matthew/12.htm)).
 
 - God will bring mystical experiences when He wants to, and our faith is more important to Him than miracles ([John 20:29](https://biblehub.com/john/20-29.htm)).
-- Many Christians will pursue a spiritual [feeling](mind-feelings.md) from listening to worship music, but there's no good in seeking it without [understanding](understanding.md).
+- Many Christians will pursue a spiritual [feeling](mind-feelings.md) from listening to worship music, but there's no good from seeking it without [understanding](understanding.md).
 
 ## A relationship with God requires unconditional devotion
 

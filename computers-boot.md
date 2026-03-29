@@ -62,7 +62,7 @@ The existence of a backup GPT header and partition entries is the reason why GPT
 
 At the same time, MBR is on more computers, especially old ones.
 
-Most older operating systems (or ones that use legacy code) will only work on MBR computers. But, newer operating systems are often backwards-compatible.
+Older operating systems (or ones that use legacy code) will usually only work on MBR computers. But, newer operating systems are often backwards-compatible.
 
 In practical terms, it really doesn't matter unless you're buying a computer, since it's a motherboard configuration. The advantage of UEFI, though, is that it has CSM (compatibility support module), which makes it backwards-compatible with an MBR system.
 
@@ -76,11 +76,11 @@ This *does* represent a [cybersecurity risk](computers-cysec-pentest.md), which 
 
 ## Bootloader
 
-There's a very particular difference between a boot loader and a boot manager. A boot loader is selecting a menu of options, while a boot manager allows for other interface decisions (such as a system scan). EFI-based computers simply treat them both as programs, though older BIOS-based systems need boot loaders. The line is blurry, but is important to clarify.
+There's a very particular difference between a bootloader and a boot manager. A bootloader is selecting a menu of options, while a boot manager allows for other interface decisions (such as a system scan). EFI-based computers simply treat them both as programs, though older BIOS-based systems need bootloaders. The line is blurry, but is important to clarify.
 
-On an MBR disk, there's a gap just after the MBR and before the first system partition. This permits a boot loader to exist in that gap for the user to select a [partition](computers-files.md) (and, naturally, an [operating system](computers-os.md) on it).
+On an MBR disk, there's a gap just after the MBR and before the first system partition. This permits a bootloader to exist in that gap for the user to select a [partition](computers-files.md) (and, naturally, an [operating system](computers-os.md) on it).
 
-However, some boot loaders (like GRUB) load additional boot loaders into that area to allow recursive booting (that is, a bootloader that boots up a bootloader). At *that* point, you'll see an operating system's logo. Without it, the operating system would run without user selection involved based on the MBR boot.
+However, some bootloaders (like GRUB) load additional bootloaders into that area to allow recursive booting (that is, a bootloader that boots up a bootloader). At *that* point, you'll see an operating system's logo. Without it, the operating system would run without user selection involved based on the MBR boot.
 
 With GPT systems, the first sector is blocked off to error out legacy systems that use it, then use LBA 1 to boot from the primary GPT header. In a Linux system, you can access the EFI system partition (ESP) at /sys/firmware/efi, with the [file](computers-files.md) having a .efi extension.
 

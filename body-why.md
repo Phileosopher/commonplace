@@ -3,7 +3,7 @@
 
 The human body is a [system of systems](body-systems.md).
 
-- Further, the brain itself is [a vastly complex system of its own](science-life-neurology.md).
+- Further, the brain itself is [a vastly complex system of its own](science-life-brain.md).
 
 This level of complexity means tiny problems can dramatically ripple across those systems and affect a person's overall health.
 

@@ -37,7 +37,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 - Manage distributions to [retirement plans](money-investing.md).
 - Resolving employee [disputes](people-conflicts.md).
 - Running [background checks](people-image-modern.md) for possible hires.
-- Managing the processes for new hires (onboarding) and terminations (offboarding), including ergonomic/ADA issues.
+- Managing the processes for new hires (onboarding) and terminations (off-boarding), including ergonomic/ADA issues.
 - Serving as a loss control manager to prevent and manage [insurance claims](money-insurance.md) (especially regarding workers' comp insurance).
 - Archiving employee records and performance reviews.
 - Managing organization-wide activities.

@@ -28,7 +28,7 @@ The New Testament *constantly* references other believers as brothers and sister
 - Inspire them to good works ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
 - Meet with them frequently ([Hebrews 10:26](https://biblehub.com/hebrews/10-26.htm)).
 
-The gudelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/1_corinthians/7.htm):
+The guidelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/1_corinthians/7.htm):
 
 1. Your body, upon marriage, is no longer yours, but is your spouse's.
 2. Therefore, don't turn down their offers for [sexual intimacy](relationships-sex.md)
@@ -45,7 +45,7 @@ While it never excuses [bad boundaries](people-boundaries-why.md), the Bible imp
 4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/matthew/12.htm))
 5. Suffering people like the poor, orphans, and widows ([James 1:27](https://biblehub.com/james/1-27.htm))
 6. All official authority figures ([Romans 13:1-7](https://biblehub.com/romans/13.htm))
-7. All nonbelieving extended family members (e.g., adult children, grandparents, grandchildren, aunts and uncles, nieces and nephews)
+7. All non-believing extended family members (e.g., adult children, grandparents, grandchildren, aunts and uncles, nieces and nephews)
 8. [Everyone and everything else](spiritual-exercises-evangelism.md)
 
 ## If single, take your time

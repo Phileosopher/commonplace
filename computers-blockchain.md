@@ -63,7 +63,7 @@ While this is happening, the computer is also instructed to cross-reference the 
 - etc.
 - Computer A finds out Computer C is wrong, but all the other ones are correct, so it syncs the correct information and achieves "critical consensus".
 
-The nonces add onto other nonces, over and over, making data transfer mathematically arcane and horrifyingly inefficient. This entire setup is *very* [cybersecure](computers-cysec.md), and creates very little room for hacking or error, but uses tons of electricity and processing power.
+The nonces add onto other nonces, over and over, making data transfer mathematically arcane and horrifyingly inefficient. This entire setup is *very* [cyber-secure](computers-cysec.md), and creates very little room for hacking or error, but uses tons of electricity and processing power.
 
 One of the most glaringly obvious hacks against a blockchain comes through what's called a "51% attack". It requires rapidly adding enough nodes with the same fraudulent blocks that they represent over 50% of the nodes. At that point, the fully democratic system will conform everything toward the fraudulent block(s).
 
@@ -133,7 +133,7 @@ Every time there's a new update to the ledger, *every other computer* on the P2P
 
 Also, mining and updating crypto takes a *lot* of electrical power from all the processor use. This is a combination of the compounded proof of work concept and *every* other computer synchronizing all the changes. In the beginning of 2021, [Bitcoin consumed more electricity than the entire country of Argentina](https://web.archive.org/web/20210210142853/https://www.bbc.com/news/technology-56012952).
 
-However, it's hard to *clearly* define a comparison because most other monetary systems are spread across many other systems (e.g., banks, payment processors, US government, etc.). This problem *can* get better with optimization, but it takes [plenty of redesign](computers-software-maintenance.md).
+However, it's hard to *clearly* define a comparison because most other monetary systems are spread across many other systems (e.g., banks, payment processors, US government, etc.). This problem *can* get better with optimization, but it takes [many redesigns](computers-software-maintenance.md).
 
 One of the best redesigns is to use "proof of stake" instead of proof of work. Instead of adding never-ending nonces, a computer's block changes are trusted on the network proportionally to the amount of existing blocks it already has.
 
@@ -231,6 +231,6 @@ The adoption of cryptocurrency is inevitable, but not precisely how crypto advoc
 
 The [trend](people-trends.md) is still early enough that it's difficult to tell for sure. It may have a place as a high-risk [investment vehicle](money-investing.md), but not much else right now.
 
-Unfortunately, as long as Ponzi schemes stay unregulated within crypto, the average person will *not* adopt it, and the longer it persists the more likely people will consider it an inherently sketchy proposal.
+Unfortunately, as long as Ponzi schemes stay unregulated within crypto, the average person will *not* adopt it, and over time people will believe it to be inherently sketchy.
 
 At the same time, cryptocurrency can very effectively serve as the de facto currency standard if a government ever collapses into anarchy in a way that preserves its nation's [internet](computers-sofware-webdev.md).

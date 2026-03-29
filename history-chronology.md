@@ -1,14 +1,15 @@
 
 # Chronology of all history
 
-This is a chronological history spanning from Adam to Jesus on the presumption that the Bible's chronology is literal.
+This is a chronological history spanning from Adam to now on the presumption that the Bible's chronology is literal.
 
 - If it *wasn't* literal, we'd need a viable explanation for both *how* it was supposed to be interpreted, and *when* we need to stop looking at it literally.
 - This is meant as a "map" of how far the dates of things correspond.
 - Its numbers merge AM (Anno Mundi) with our current dating conventions by making the flat guess that God used precisely 4,000 years between the Fall and Jesus Christ.
-- To put it bluntly, it is a pedantic and largely pointless argument to dispute over ~4 years when we go back that far.
+- When we go back before Rome, things get difficult to clearly articulate.
   - Even when people are trustworthy, there's simply too much political incentive to stretch years or officially declare years as having not happened.
-  - For the sake of convenience, I simply plug it into a year when I don't know.
+  - It's honestly not worth the effort to nitpick if it's within 20-40 years' accuracy.
+  - While I'm as thorough as I can get, for the sake of convenience, I simply plug it into a year when I don't know.
 - Also, [a partial and better data visualization from -2000-1918](history-chronology.jpg).
 
 1/-4000: Adam and Eve sin and exiled from Eden
@@ -140,8 +141,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 127/-3874
 128/-3873
 129/-3872
-130/-3871: Seth born from Adam
-131/-3870
+130/-3871
+131/-3870: Seth born from Adam
 132/-3869
 133/-3868
 134/-3867
@@ -245,8 +246,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 232/-3769
 233/-3768
 234/-3767
-235/-3766: Enosh born from Seth
-236/-3765
+235/-3766
+236/-3765: Enosh born from Seth
 237/-3764
 238/-3763
 239/-3762
@@ -336,7 +337,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 323/-3678
 324/-3677
 325/-3676
-326/-3675
+326/-3675: Kenan born from Enosh
 327/-3674
 328/-3673
 329/-3672
@@ -406,7 +407,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 393/-3608
 394/-3607
 395/-3606
-396/-3605
+396/-3605: Mahalalel born from Kenan
 397/-3604
 398/-3603
 399/-3602
@@ -471,7 +472,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 458/-3543
 459/-3542
 460/-3541
-461/-3540
+461/-3540: Jared born from Mahalalel
 462/-3539
 463/-3538
 464/-3537
@@ -633,7 +634,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 620/-3381
 621/-3380
 622/-3379
-623/-3378
+623/-3378: Enoch born from Jared
 624/-3377
 625/-3376
 626/-3375
@@ -698,7 +699,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 685/-3316
 686/-3315
 687/-3314
-688/-3313
+688/-3313: Methuselah born from Enoch
 689/-3312
 690/-3311
 691/-3310
@@ -885,7 +886,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 872/-3129
 873/-3128
 874/-3127
-875/-3126
+875/-3126: Lamech born from Methuselah
 876/-3125
 877/-3124
 878/-3123
@@ -940,8 +941,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 927/-3074
 928/-3073
 929/-3072
-930/-3071: Adam dies at age 930
-931/-3070
+930/-3071
+931/-3070: Adam dies at age 930
 932/-3069
 933/-3068
 934/-3067
@@ -998,7 +999,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 985/-3016
 986/-3015
 987/-3014
-988/-3013
+988/-3013: Enoch is taken up by God
 989/-3012
 990/-3011
 991/-3010
@@ -1052,8 +1053,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1039/-2962
 1040/-2961
 1041/-2960
-1042/-2959: Seth dies at age 912
-1043/-2958
+1042/-2959
+1043/-2958: Seth dies at age 912
 1044/-2957
 1045/-2956
 1046/-2955
@@ -1067,7 +1068,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1054/-2947
 1055/-2946
 1056/-2945
-1057/-2944
+1057/-2944: Noah born from Lamech
 1058/-2943
 1059/-2942
 1060/-2941
@@ -1151,7 +1152,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1138/-2863
 1139/-2862
 1140/-2861
-1141/-2860
+1141/-2860: Enosh dies at age 905
 1142/-2859
 1143/-2858
 1144/-2857
@@ -1246,7 +1247,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1233/-2768
 1234/-2767
 1235/-2766
-1236/-2765
+1236/-2765: Kenan dies at age 910
 1237/-2764
 1238/-2763
 1239/-2762
@@ -1301,7 +1302,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1288/-2713
 1289/-2712
 1290/-2711
-1291/-2710
+1291/-2710: Mahalalel dies at age 895
 1292/-2709
 1293/-2708
 1294/-2707
@@ -1311,7 +1312,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1298/-2703
 1299/-2702
 1300/-2701
-1301/-2700: Egypt's Old Kingdom established
+1301/-2700: Egypt's Old Kingdom allegedly established
 1302/-2699
 1303/-2698
 1304/-2697
@@ -1433,7 +1434,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1420/-2581
 1421/-2580
 1422/-2579
-1423/-2578
+1423/-2578: Jared dies at age 962
 1424/-2577
 1425/-2576
 1426/-2575
@@ -1567,7 +1568,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1554/-2447
 1555/-2446
 1556/-2445
-1557/-2444
+1557/-2444: approximate time Noah has Shem, Ham, and Japeth
 1558/-2443
 1559/-2442
 1560/-2441
@@ -1662,14 +1663,14 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1649/-2352
 1650/-2351
 1651/-2350
-1652/-2349
+1652/-2349: Lamech dies at age 777
 1653/-2348
 1654/-2347
 1655/-2346
 1656/-2345
-1657/-2344
+1657/-2344: the Great Flood, Methuselah dies at age 969
 1658/-2343
-1659/-2342
+1659/-2342: Arphaxad is born from Shem
 1660/-2341
 1661/-2340
 1662/-2339
@@ -1704,7 +1705,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1691/-2310
 1692/-2309
 1693/-2308
-1694/-2307
+1694/-2307: Shelah is born from Arphaxad
 1695/-2306
 1696/-2305
 1697/-2304
@@ -1734,14 +1735,14 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1721/-2280
 1722/-2279
 1723/-2278
-1724/-2277
+1724/-2277: Eber born from Shelah
 1725/-2276
 1726/-2275
 1727/-2274
 1728/-2273
 1729/-2272
 1730/-2271
-1731/-2270
+1731/-2270: approximate timing for Tower of Babel
 1732/-2269
 1733/-2268
 1734/-2267
@@ -1768,7 +1769,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1755/-2246
 1756/-2245
 1757/-2244
-1758/-2243
+1758/-2243: Peleg born from Eber
 1759/-2242
 1760/-2241
 1761/-2240
@@ -1798,7 +1799,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1785/-2216
 1786/-2215
 1787/-2214
-1788/-2213
+1788/-2213: Reu born from Peleg
 1789/-2212
 1790/-2211
 1791/-2210
@@ -1830,7 +1831,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1817/-2184
 1818/-2183
 1819/-2182
-1820/-2181
+1820/-2181: Serug born from Reu
 1821/-2180
 1822/-2179
 1823/-2178
@@ -1860,7 +1861,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1847/-2154
 1848/-2153
 1849/-2152
-1850/-2151
+1850/-2151: Nahor born from Serug
 1851/-2150
 1852/-2149
 1853/-2148
@@ -1889,7 +1890,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1876/-2125
 1877/-2124
 1878/-2123
-1879/-2122
+1879/-2122: Terah born from Nahor
 1880/-2121
 1881/-2120
 1882/-2119
@@ -1959,7 +1960,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1946/-2055
 1947/-2054
 1948/-2053
-1949/-2052
+1949/-2052: Abram born from Terah
 1950/-2051
 1951/-2050
 1952/-2049
@@ -2007,8 +2008,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 1994/-2007
 1995/-2006
 1996/-2005
-1997/-2004
-1998/-2003
+1997/-2004: Peleg dies at age 239
+1998/-2003: Nahor dies at age 148
 1999/-2002
 2000/-2001
 2001/-2000: approximate end of the Stone Age
@@ -2034,10 +2035,10 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2021/-1980
 2022/-1979
 2023/-1978
-2024/-1977
+2024/-1977: Abram is called by God to go to Canaan
 2025/-1976
 2026/-1975
-2027/-1974
+2027/-1974: Reu dies at age 239
 2028/-1973
 2029/-1972
 2030/-1971
@@ -2059,8 +2060,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2046/-1955
 2047/-1954
 2048/-1953
-2049/-1952
-2050/-1951
+2049/-1952: Isaac born from Abraham
+2050/-1951: Serug dies at age 230
 2051/-1950
 2052/-1949
 2053/-1948
@@ -2094,7 +2095,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2081/-1920
 2082/-1919
 2083/-1918
-2084/-1917
+2084/-1917: Terah dies at age 205
 2085/-1916
 2086/-1915
 2087/-1914
@@ -2107,7 +2108,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2094/-1907
 2095/-1906
 2096/-1905
-2097/-1904
+2097/-1904: Arphaxad dies at age 438
 2098/-1903
 2099/-1902
 2100/-1901
@@ -2119,7 +2120,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2106/-1895
 2107/-1894
 2108/-1893
-2109/-1892
+2109/-1892: Jacob and Esau born from Isaac
 2110/-1891
 2111/-1890
 2112/-1889
@@ -2134,10 +2135,10 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2121/-1880
 2122/-1879
 2123/-1878
-2124/-1877
+2124/-1877: Abraham dies at age 175
 2125/-1876
 2126/-1875
-2127/-1874
+2127/-1874: Shelah dies at age 438
 2128/-1873
 2129/-1872
 2130/-1871
@@ -2169,7 +2170,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2156/-1845
 2157/-1844
 2158/-1843
-2159/-1842
+2159/-1842: Shem dies at age 600
 2160/-1841
 2161/-1840
 2162/-1839
@@ -2198,7 +2199,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2185/-1816
 2186/-1815
 2187/-1814
-2188/-1813
+2188/-1813: Eber dies at age 464
 2189/-1812
 2190/-1811
 2191/-1810
@@ -2210,7 +2211,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2197/-1804
 2198/-1803
 2199/-1802
-2200/-1801
+2200/-1801: Joseph born from Isaac
 2201/-1800
 2202/-1799
 2203/-1798
@@ -2227,7 +2228,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2214/-1787
 2215/-1786
 2216/-1785
-2217/-1784
+2217/-1784: Joseph sent to Egypt as a slave
 2218/-1783
 2219/-1782
 2220/-1781
@@ -2239,17 +2240,17 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2226/-1775
 2227/-1774
 2228/-1773
-2229/-1772
-2230/-1771
+2229/-1772: Isaac dies at age 180
+2230/-1771: Joseph appointed Egypt's prime minister, beginning of 7 years of Middle East prosperity
 2231/-1770
 2232/-1769
 2233/-1768
 2234/-1767
 2235/-1766
 2236/-1765
-2237/-1764
+2237/-1764: beginning of 7 years of Middle East famine
 2238/-1763
-2239/-1762
+2239/-1762: Jacob leaves Canaan and goes to Egypt at age 130
 2240/-1761
 2241/-1760
 2242/-1759
@@ -2266,7 +2267,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2253/-1748
 2254/-1747
 2255/-1746
-2256/-1745
+2256/-1745: Jacob dies at age 147
 2257/-1744
 2258/-1743
 2259/-1742
@@ -2320,7 +2321,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 2307/-1694
 2308/-1693
 2309/-1692
-2310/-1691
+2310/-1691: Joseph dies (and this marks a difficult-to-discern gap until Moses' time)
 2311/-1690
 2312/-1689
 2313/-1688
@@ -3425,7 +3426,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 3412/-589
 3413/-588
 3414/-587
-3415/-586
+3415/-586: Neo-Babylonian Empire founded
 3416/-585
 3417/-584
 3418/-583
@@ -3472,7 +3473,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 3459/-542
 3460/-541
 3461/-540
-3462/-539
+3462/-539: Neo-Babylonian Empire falls, Persian Empire founded
 3463/-538
 3464/-537
 3465/-536
@@ -3679,7 +3680,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 3666/-335
 3667/-334
 3668/-333
-3669/-332
+3669/-332: Persian Empire falls, Hellenistic Era begins
 3670/-331
 3671/-330: Achaemenid Empire falls
 3672/-329
@@ -4064,7 +4065,7 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 4051/50
 4052/51
 4053/52
-4054/53
+4054/53: Hellenistic Era ends
 4055/54
 4056/55
 4057/56
@@ -5703,8 +5704,8 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 5690/1689
 5691/1690
 5692/1691
-5693/1692
-5694/1693: Amish founded
+5693/1692: Salem witch trials began
+5694/1693: Salem witch trials ended, Amish founded
 5695/1694
 5696/1695
 5697/1696
@@ -6037,3 +6038,4 @@ This is a chronological history spanning from Adam to Jesus on the presumption t
 6024/2023
 6025/2024
 6026/2025
+6027/2026

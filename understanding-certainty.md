@@ -121,7 +121,7 @@ APPLICATION: Magical thinking exists proportionally to how self-trusting someone
 
 APPLICATION: [MLM](marketing-mlm.md), gambling, and lotteries [appear](people-image-why.md) to be ubiquitous because people are deceived into expecting tremendous wealth. In reality, they engage in those things because they *hope* for tremendous wealth from those things, and find [meaning](meaning.md) in a journey that's rarely fulfilled.
 
-If we choose to listen to the [feeling](mind-feelings.md) of distrust, we'll disbelieve what we were [trained](understanding.md). We'll enter a type of "agnosis", where we'll live in disbelief about a broad range of related concepts. It can sometimes span a subject, but other times can possess everything we've *ever* known.
+If we choose to listen to the [feeling](mind-feelings.md) of distrust, we'll disbelieve what we were [trained](understanding.md). We'll enter a type of "agnosis", where we'll live in disbelief about a broad range of related concepts. It can sometimes incorporate a subject, but other times can possess everything we've *ever* known.
 
 APPLICATION: While extremists are typically the most outspoken people of a [group](groups-member.md), they often don't [understand](understanding.md) the thing they're [promoting](marketing.md). They're typically acting off [trauma](hardship-ptsd.md) and magical thinking, but devout believers in a thing don't really *need* to convince others to [feel](mind-feelings.md) the thing is [true](reality.md). Disagree with them and closely observe [what they disagree over](people-boundaries-why.md).
 

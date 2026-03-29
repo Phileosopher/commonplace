@@ -43,7 +43,7 @@ Only reveal portions of the antagonist, but never the full scope of the characte
 
 The main character must be in a situation where the only people they can [trust](mind-trust.md) are in some way untrustworthy.
 
-- They can be any variety of unlikeable, [narcissist](mind-neurodivergence-clusterb-narcissist.md), incompetent, or overly trusting.
+- They can be any variety of unlikable, [narcissist](mind-neurodivergence-clusterb-narcissist.md), incompetent, or overly trusting.
 
 If any audio is present, use extremely low-frequency audio (infrasound) to evoke [fear](mind-feelings-fear.md)
 
@@ -61,7 +61,7 @@ The monster must always be hinted at before being shown, with an approximate ord
 Every single fantasy story falls into several predictable tropes:
 
 - Fixed, predictable races (e.g., pretentious and long-lived elves, subterranean dwarves).
-- The presence of magic, but some type of explanation over why it isn't endlessly ubiquitous (e.g., needs incantations, drains lifeforce).
+- The presence of magic, but some type of explanation over why it isn't endlessly ubiquitous (e.g., needs incantations, drains life force).
 - An [economic](money-economics.md) structure and [culture](people-culture.md) that borrows heavily from the [medieval period](history-500-europe.jpg).
 
 ### Science fiction
@@ -69,12 +69,12 @@ Every single fantasy story falls into several predictable tropes:
 The dominant difference between sci-fi and fantasy comes in how much the author focuses on explaining the [technologies](technology.md) everyone uses.
 
 - If the story focuses on the characters and their journeys, it's often a fantasy with science fiction elements (e.g., Star Wars).
-- When the story focuses on details that would typically bore non-[specialists](jobs-specialization.md), it's a science fiction (e.g., original Star Trek)
+- When the story focuses on details that would typically be boring to non-[specialists](jobs-specialization.md), it's a science fiction (e.g., original Star Trek)
 
 When interstellar travel is involved and the story doesn't have something like long-distance teleportation, there are specific conventions for spacecraft in visual media:
 
 0. Retro-looking rocket
-   - Looks like a toy rocketship
+   - Looks like a toy rocket ship
    - e.g., Buck Rogers, Flash Gordon
    - Old-fashioned story, though it may be deliberate for [comedy](humor.md) reasons
    - Science may be loosely based on reality, but the form of the technology won't be concerned with actual science
@@ -97,7 +97,7 @@ When interstellar travel is involved and the story doesn't have something like l
    - Typically will be a space opera, with technical terms but a focus on the story than any coherent working theory
    - Will be very character-focused, and the science will be closer to magic
 5. Space luxury liner
-   - Sleek design that borrows from modern luxury automotives
+   - Sleek design that borrows from modern luxury autos
    - e.g., The Fifth Element, Avenue 5
    - A more focused story of wealthy people on a futuristic, gigantic pleasure vessel, potential story elements about [class struggle](classes.md) with the limited number of poor people on the ship
 6. Gigantic saucer

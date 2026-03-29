@@ -42,14 +42,14 @@ People tend to fill out forms without considering its full implications.
 
 - Paper forms are typically converted to computer data and treated as 100% fact, even if the writer was simply guessing at the information.
 - Treat *any* information you give them, spoken or written, as a [legally binding](legal-safety.md) statement.
-- Sometimes, if you don't know or it's not applicable, you can simply write *that* into the entry.
+- Sometimes, when it's not applicable or you don't know, you can simply write *that* into the entry.
 
 Whenever possible, use information that bureau trusts.
 
 - Large companies often trust other industry-related companies, not-for-profits, and (to a lesser degree) governments.
 - Government bureaus almost *completely* trust each other more than anyone else, though [political fashions](politics-systems.md) can sow distrust among them.
 
-If you make *any* mistake, communicate it as fast as possible and work as hard as you can to amend or un-send the document.
+If you make *any* mistake, communicate it as fast as possible and work as hard as you can to amend or unsend the document.
 
 ### Learn from experience
 

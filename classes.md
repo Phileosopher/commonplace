@@ -15,7 +15,7 @@ We typically inherit our social class from our [family](people-family.md). While
 
 ## Divisions
 
-Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](people-gender.md), [attitude](success-1_why.md), or anything else. Most of this expresses itself through the availability of money, but can also arise through [military force](people-conflicts-war-why.md).
+Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](people-gender.md), [attitude](success-1_why.md), or anything else. The dominant comparison comes through money, but can also arise through [military force](people-conflicts-war-why.md).
 
 APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 
@@ -112,7 +112,7 @@ The classes can be demarcated clearly by approximate levels of possessed wealth 
    - They have power over their own household at this point.
 5. Part-time employment is optional depending on cash flow from investments (~$300K-750K)
    - They can either have power over their household or a solo operation.
-6. With the exception of recklessness or foolishness, they will have lifelong prosperity (~$750K-1M)
+6. Disregarding recklessness or foolishness, they will have lifelong prosperity (~$750K-1M)
    - Limited power, but can have multiple domains.
 7. For almost everyone, employment is completely optional (~$1M-5M)
    - Their influence can be felt to where they steer smaller social circles.
@@ -173,9 +173,9 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
 - Underclass is preoccupied with handling [hardships](hardship.md) and emphasizing [relationships with others](people-friends-why.md):
   - [Money](money-1_why.md) is to be spent (living paycheck-to-paycheck).
   - The best [personality](people-personality.md) is within a [sense of humor](humor.md) (High Openness + Extraversion).
-  - The social emphasis is on inclusion (to stick together through harship).
+  - The social emphasis is on inclusion (to stick together through hardship).
   - The [food](cooking.md) is focused on more quantity.
-  - [Time](standards-datetime.md) is about living in the moment.
+  - [Time](standards-datetime.md) is about living within the moment.
   - [Education](education.md) is an abstract and largely [useless](purpose.md) thing.
   - [Language](language.md) is a casual codex of information.
   - [Family structure](people-family.md) is matriarchal (from [mothers](people-gender.md) being forced to work *and* take care of children).

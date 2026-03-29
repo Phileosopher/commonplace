@@ -3,9 +3,9 @@
 
 For thousands of years, we have worn clothing, which has provided several [purposes](purpose.md):
 
-1. To protect us from the elements (mostly heat, cold, and wind).
-2. To cover our [shame](mind-feelings-shame.md), which goes back to our [sinful state](theology-sins.md).
-3. To express our [identity](people-identity.md) to others.
+1. Protect us from the elements (mostly heat, cold, and wind)
+2. Cover our [shame](mind-feelings-shame.md), which goes back to our [sinful state](theology-sins.md)
+3. Express our [identity](people-identity.md) to others
 
 Since we have many synthetic and affordable textiles to choose from, we no longer have a survival risk with most clothes, and instead wear it for the sake of identifying with particular [groups](groups-large.md):
 
@@ -119,7 +119,7 @@ Carefully consider the associations that come with your accessories:
 
 - Watches are largely unnecessary with smartphones, so they represent social status and punctuality (i.e., that your time is important).
 - Necklaces draw attention to the chest, and convey the "center" of who you are.
-- Scarves can convey a variety of messages, depending how they are wrapped, but always express sophistication.
+- Scarves can convey a variety of messages depending on how they are wrapped, but always express sophistication.
 - Armbands, bangles, and wristbands draw attention away from your center and imply you're "connected" to something else.
 - Sunglasses obscure your eyes, which hides intentions, and can either make you look mysterious or suspicious.
 - Glasses make you look more educated or less experienced.

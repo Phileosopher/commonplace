@@ -10,7 +10,7 @@ The old saying of "there's no business like show business" is extremely true.
 
 In most domains, being [self-unaware](mind-awareness.md) can sabotage many things, but you're capable of recovering.
 
-- However, an oblivious remark to large crowds can create a public scandal that everyone can websearch for *decades*.
+- However, an oblivious remark to large crowds can create a public scandal that everyone can web search for *decades*.
 - To that end, prevention is the best cure, so learn to own your flaws and mistakes *before* everyone else points them out.
 - While this is a matter of [image management](people-image.md), it becomes a matter of livelihood as well.
 

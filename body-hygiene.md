@@ -96,7 +96,7 @@ Improve your brushing:
 - Rinse your mouth out with warm water to eat anything afterward without an aftertaste.
 - Store the toothbrush in a low-moisture location.
   - Attach it to a clothespin to make it easily accessible.
-  - Get an electric toothbrush to *very* thoroughly clean your teeth.
+  - Get an electric toothbrush to thoroughly scrub your teeth.
 
 Flossing is essential, but mouthwash has very little to do with dental health.
 

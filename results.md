@@ -66,7 +66,7 @@ APPLICATION: Creative works can be timeless, but *creators* have a shelf life. T
 
 Beyond the instant results of a [decision](mind-decisions.md), there are longer-term consequences based on how we managed the [uncertainty](unknown.md).
 
-- If we had cut off all of the unknown elements, we will create something that has severe limits.
+- If we had cut off all the unknown elements, we will create something that has severe limits.
 - Anything we leave as unfinished or undeveloped will create opportunities for growth later.
 
 APPLICATION: Any legitimately lasting created thing will always have a design that incorporates the unknown into it.
@@ -140,7 +140,7 @@ Everything, as it increases toward our [purpose](purpose.md), gives incrementall
 - Reading a second novel by the same author won't feel as strong as the first.
 - Each can of food will be more valuable to a household with 10 of them versus 100.
 - Two objects exert dramatically less gravity on each other the farther away they are (inverse square law)
-- Each person in a corporation of 10,000 people isn't as efficient as 100 corporations of 100 people.
+- In a corporation of 10,000 people, each individual person is rarely as efficient as each individual in 100 corporations of 100 people.
 - The amount of [understanding](understanding.md) we gain from learning decreases incrementally as we develop more expertise with it.
 - Over time, the results from a [creative work](mind-creativity.md) will evoke less [feeling](mind-feelings.md) as [its trend cycle develops](people-trends.md).
 
@@ -156,7 +156,7 @@ There are various reasons diminishing return exists:
 - Once things get too large for us to [feel](mind-feelings.md) each additional increment, we tend to take more [risks](safety.md).
 - In individual experiences, each additional iteration is another miniature [story](stories-why.md) of something similar.
 - In [measurements](math.md), more distance or objects are harder to [understand](understanding.md) and account for.
-- Organic tissues wear down and require energy to maintain, which becomes exponentially more as mass increments.
+- Organic tissues wear down and require energy to maintain, which become exponentially more when mass increases.
 
 Most people, upon noting diminishing return, will change their tactic:
 

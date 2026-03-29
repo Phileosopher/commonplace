@@ -14,7 +14,7 @@ The implications of this have been huge. It means that for the same relative pri
 
 This has meant, without exaggeration, that the average computer of 2000 is about 1,024 times faster than a computer made in 1980.
 
-The nature of it means the best computers money can buy today will technically be obsolete before they fail. It also means computers get cheaper.
+The nature of it means the best computers that money can buy today will technically be obsolete before they fail. It also means computers get cheaper.
 
 This has, however, slowed significantly. Once [processors](computers-cpu.md) started getting small enough, the electrons started interfering with each other. Due to heat management issues, processors can't run at an economical speed much faster than 4.8 MHz.
 
@@ -36,7 +36,7 @@ Due to the price point and accessibility for tinkering, there are [many potentia
 
 ## The embedded computer's design
 
-Both the Pi and Arduino have GPIO ("general purpose input-output) pins, which creates a modular way to connect peripherals.
+Both the Pi and Arduino have GPIO ("general-purpose input-output") pins, which creates a modular way to connect peripherals.
 
 ## Linux likely required
 

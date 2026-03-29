@@ -92,7 +92,7 @@ After a few dates, you should have a prioritized list of everything you want in 
 - Write out your list, and keep consulting it to keep yourself accountable.
 - As you date, it's not uncommon for your standards to change when you gain increased [awareness](mind-awareness.md) of who you are and what you want.
 
-If you let past experiences unrelated to them affect your judgment, you're being irrational and unfair to them.
+If you let experiences unrelated to them affect your judgment, you're being irrational and unfair to them.
 
 Nobody is perfect, so don't expect it:
 
@@ -135,7 +135,7 @@ Are you doing something unattractive?
 
 Watch for people who "friend-zone" you:
 
-- A friend-zone is someone who doesn't share interest in you, but they still wants you around.
+- A friend-zone is someone who doesn't share interest in you, but they still want you around.
 - Women friend-zone more often than men.
 - You shouldn't need to earn someone's affection, and are worth more than that.
 - Avoid spending much time with them, since they're effectively using you.

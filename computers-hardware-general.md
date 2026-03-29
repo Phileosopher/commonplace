@@ -66,13 +66,13 @@ The latest in cooling technology involves running water through pipes over the C
 
 - In fact, some of the most elaborate and advanced computers involve running water *inside* the CPU's chipset.
 
-If you're particularly bold to try it, and the motherboard supports it, you can overclock the computer in the BIOS settings. This makes the computer run faster, but increases heat output *everywhere* (especially the CPU), so make sure you have enough cooling beforehand and know *exactly* what you're doing or the heat will literally melt the processor.
+If you're particularly bold to try it, and the motherboard supports it, you can overclock the computer in the BIOS settings. This makes the computer run faster, but increases heat output *everywhere* (especially the CPU). Therefore, make sure you have enough cooling beforehand and know *exactly* what you're doing, or the heat will literally melt the processor.
 
-On the other hand, if the BIOS supports changing the clock settings, you can also underclock the computer, which might be useful if you want to prolong the life of your computer and don't need a computer to be relatively fast.
+On the other hand, if the BIOS supports changing the clock settings, you can also under-clock the computer, which might be useful if you want to prolong the life of your computer and don't need a computer to be relatively fast.
 
 ## Motherboard
 
-A motherboard is a "printed circuit board" that connects all the parts together on a really small scale. It also usually has a "clock" with a "CMOS battery" to track time and a "BIOS" chip ("basic input-output system") that runs before the computer "boots" up. They use a variety of connectors with various voltages (mostly 12V, but also 3.3V and 5V), and connect large buses via the 20+4 pin connector (which permits both 20-pin and 24-pin buses to connect).
+A motherboard is a "printed circuit board" that connects all the parts together on a microscopic scale. It also usually has a "clock" with a "CMOS battery" to track time and a "BIOS" chip ("basic input-output system") that runs before the computer "boots" up. They use a variety of connectors with various voltages (mostly 12V, but also 3.3V and 5V), and connect large buses via the 20+4 pin connector (which permits both 20-pin and 24-pin buses to connect).
 
 Motherboards are usually the most complicated-looking and largest part of a computer, but are often much less expensive and complicated compared to the CPU, though they can often have many components built-in for increased functionality or reliability.
 

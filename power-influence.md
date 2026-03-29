@@ -26,7 +26,7 @@ APPLICATION: Most people don't naturally make others feel relevant, so everyone 
 
 APPLICATION: We're *all* naturally sensitive to rejection, so we must be careful to not reject people without a [purpose](purpose.md) behind it, even when we face [conflicts](people-conflicts-why.md) with others.
 
-Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](people-image-why.md). Most people typically [feel](mind-feelings.md) like they're impostors because they don't realize *everyone else* is doing the same thing.
+Our desire to matter to others provokes us to convey the things that gain the most [favor](power.md) from others, which are frequently our most pleasant [qualities](values-quality.md) in the long term. Everything, from art to storefronts, has a disgusting side shrouded from public view that contrasts to a comparatively attractive [external](people-image-why.md). Most people typically [feel](mind-feelings.md) like their impostors because they don't realize *everyone else* is doing the same thing.
 
 APPLICATION: We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](people-image-why.md).
 
@@ -134,7 +134,7 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
    - It may simply come through asking many "why?" questions to test what that person [understands](understanding.md).
 3. Give a clue into the correct answer, but do *not* answer it all the way for the audience (which makes them find [meaning](meaning.md) in [learning](education.md) it themselves).
 4. [Show](people-image-why.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
-   - They need additional information to verify that their [values calculus](mind-decisions.md) matches the impression of the trend.
+   - They need additional information to verify that their [calculus of values](mind-decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
 5. If it's possible to revisit the discussion over time, continue indirectly dropping hints through further [stories](stories-why.md) that reinforce the previous [ideas](values.md). This gives [certainty](understanding-certainty.md) over time, which slowly converts to [trust](mind-trust.md).
 6. With enough perseverance and no contradicting outside influence, *anyone* can convince anyone of anything if they don't already have a deep [conviction](understanding-certainty.md) against it.

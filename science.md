@@ -37,7 +37,7 @@ All scientific theories can only represent 2 possibilities:
 1. Theories known to be wrong, since they were sufficiently tested and adequately rejected.
 2. Theories that haven't been affirmed as wrong yet, not falsified yet, but are exposed to the possibility of being wrong.
 
-It's impossible to use science to [deductively](logic.md) affirm something as right or true, simply because humanity cannot perceive all [reality](reality.md). We can can only [inductively deduce](logic.md) reality with a margin of error, with the consequences being readily apparent but the causes always evading us.
+It's impossible to use science to [deductively](logic.md) affirm something as right or true, simply because humanity cannot perceive all [reality](reality.md). We can only [inductively deduce](logic.md) reality with a margin of error, with the consequences being readily apparent but the causes always evading us.
 
 Metaphysics concerns itself with *everything* that exists, but scientific thinking can only localize itself strictly to [provable](understanding-certainty.md) things. Without [philosophy](philosophy.md) or [theology](religion.md), everything beyond the provable is murky conjecture:
 
@@ -98,7 +98,7 @@ The sciences end up combining on top of each other:
   - The [Social Sciences](science-social.md) are subdivisions of biochemistry regarding human behavior.
 - Earth science as applied to biochemistry is [Ecology](science-ecology.md).
 
-All of the above sciences apply to the world around us, and that application naturally merges into the domain of [engineering](engineering.md).
+All the above sciences apply to the world around us, and that application naturally merges into the domain of [engineering](engineering.md).
 
 - The formal sciences work to create:
   - Data and information science, which blurs heavily with [computer science](computers.md)

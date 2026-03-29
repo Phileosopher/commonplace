@@ -236,7 +236,7 @@ Flowers and decorations:
   - Black vases after Halloween
   - Pink vases after Valentine's Day
   - Green decor after Christmas
-- Get decorations in the party and home decorations section of big-box department stores.
+- Get decorations in the "party" and "home decorations" section of big-box department stores.
 - Flower selection:
   - Use more greenery than flowers and include non-florals like lanterns, fruits, and vegetables.
   - Swap out expensive flowers (e.g., peonies) for less expensive ones (e.g., roses).

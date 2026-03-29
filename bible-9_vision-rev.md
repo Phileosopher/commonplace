@@ -10,6 +10,10 @@ It is called the "book of vision" because it is a prophetic work.
   - It also requires unthethering ourselves from the present-day circumstances. Donald Trump, for example, might have nothing to do with anything written in Revelation.
   - Without that basis, people start [predicting weird things](theology-end-prophecies-0-1199.md).
 
+By far, Revelation has *much* more commentary written about it than any other book in the Bible.
+
+- Given the range of interpretations, every commentator's opinion should be taken with an extra degree of skepticism more than normal.
+
 ## Chapter summary
 
 1. prologue, John greets the seven churches, John's vision on Patmos

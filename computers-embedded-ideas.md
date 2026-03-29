@@ -51,7 +51,7 @@ Video doorbell
 
 [Smart home](home-smart.md) manager (e.g., locks, climate control, lights)
 
-- [Weather station](science-earth-weather.md) with collected weather data (eg., temperature, humidity)
+- [Weather station](science-earth-weather.md) with collected weather data (e.g., temperature, humidity)
 
 Air quality or atmospheric monitor
 

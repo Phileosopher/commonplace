@@ -83,7 +83,7 @@ Build daily and weekly [rituals](habits.md) that include your partner, even if t
 
 Don't compare your relationship:
 
-- Everyone has their own unique experiences and had to make their own [decisions](mind-decisions.md), and each relationship combines two very unique people into a *very* unique pairing.
+- Everyone has their own experiences and had to make their own [decisions](mind-decisions.md), and each relationship combines two unique people into a distinctive pairing.
 - Unless you're trying to improve yourself, comparing your relationship to others' is a terrible idea.
 - Most people will compare their relationship to yours, but that's *their* [misery](mind-feelings-happiness.md) they need to work through.
 
@@ -151,11 +151,11 @@ By living together, conflicts intensify:
   - Make a "honey do list" for each other to complete.
 - Differences in religious, political, and philosophical have far-reaching effects on your relationship.
   - While you can live indefinitely with someone who has different views, it's only to the degree you both can accept a difference of opinion.
-  - [Parenting an infant](parenting-babies.md) causes even more stress than anything else you've experienced, and the conflicts become far more pronounced when [your children get older](parenting-children.md) and you disagree on what's best for them.
+  - [Parenting an infant](parenting-babies.md) will create disagreements on what's best for the baby, which will cause even more stress than anything else you've experienced. The conflicts become far more pronounced as [your children get older](parenting-children.md).
 
 Your extended families *will* play a role in your shared life:
 
-- Outside of [cultural norms](people-rules.md), you can involve or exclude your family as much as you want, but it's a shared decision with your partner.
+- Beyond [cultural norms](people-rules.md), you can involve or exclude your family as much as you want, but it's a shared decision with your partner.
 - If your in-laws aren't destructive or abusive, find value in time you must spend with them.
 - Say "no" to any boundaries they cross, especially about large decisions that affect *your* family.
 - Generally, keep [conflicts](people-conflicts.md) between the adult child and their direct extended family and away from in-laws whenever possible.
@@ -220,7 +220,7 @@ Keep learning about them:
 Don't compare your marriage with others':
 
 - Each marriage story is uniquely different because it's two lives merging together.
-- In time, your marriage will eventually look at least a little bit like every other marriage.
+- In time, parts of your marriage will eventually look just like every other marriage.
 - Marriage is a long-term life commitment, and most romance stories set false expectations of its long-term implications.
 
 In the midst of the rest of your lifestyle, try to keep the [sex](relationships-sex.md) interesting.
@@ -258,7 +258,7 @@ A marriage "crisis" is the buildup of small issues:
   6. Someone or something else meets the private needs a spouse is supposed to fulfill, *outside* the marriage:
      - While it can be a lover from a social circle or workplace, it can also be an [addiction to a substance](addiction-substances.md) or a detached lifestyle from their spouse.
   7. After a while, a cheating spouse will often hide details from their spouse (e.g., place their phone face down on the table).
-  8. The rift between the spouses grows and the cheating spouse will suspect the *faithful* spouse of cheating.
+  8. The rift between the spouses grows, and the cheating spouse will suspect the *faithful* spouse of cheating.
      - They will suspect them to the degree they distrust them.
      - The faithful spouse will have no clue and be puzzled by the others' behavior.
   9. Eventually, unless they both start expressing more vulnerability (and sincerely apologizing and [forgiving](hardship-forgiveness.md)), the marriage will become a hollow existence or lead to divorce.
@@ -279,7 +279,7 @@ Even in a loveless marriage, staying married has some benefits:
 - Beyond religious reasons, there are many logical reasons to not divorce:
   - For the [children](parenting-children.md) to grow up in a good home
   - [Financial stability](money-1_why.md)
-  - A shared desire to not be alone to unwilling to start again with another [relationship](relationships-dating.md)
+  - A shared desire to not be alone or unwilling to start again with another [relationship](relationships-dating.md)
   - The [reputation damage](people-image-why.md) from divorce or the extra work it creates
 - The best way to keep a loveless marriage is through detachment.
   - Detachment is setting difficult [boundaries](people-3_respect.md) that treat the spouse like a respected stranger.

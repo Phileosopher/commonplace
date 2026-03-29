@@ -29,7 +29,7 @@ The domain information connects back to a system called DNS ("domain name servic
 - AAAA - what IPv6 address to look for, specified by [RFC 3596](https://www.rfc-editor.org/rfc/rfc3596).
 - CAA - [Certification Authority](computers-cysec-authentication.md) Authorization, specified by [RFC 6844](https://www.rfc-editor.org/rfc/rfc6844).
 - CNAME - canonical name record, which indicates an alias of one name to another.
-- DNAME - delegation name record, which is like CNAME but includes all subnames as well.
+- DNAME - delegation name record, which is like CNAME but includes all sub-names as well.
 - MX - mail exchange record, specifies the servers that accept email for a domain, specified by both RFC 1035 and [RFC 7505](https://www.rfc-editor.org/rfc/rfc7505).
 - NS - name server record, which indicates who the "authoritative" registrar is.
   - The domain resides at a registrar, which is often *not* where the computer files are hosted.

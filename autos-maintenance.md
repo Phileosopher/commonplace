@@ -173,7 +173,7 @@ Either [resolve the problem yourself](autos-repair.md) or give it to a technicia
 
 Pay attention to where you go:
 
-- Avoid mechanics near large highways, since they get plenty of clientele they'll never see again.
+- Avoid mechanics near large highways, since they have plenty of clients they'll never see again.
   - Preferably, find a small mechanic through a referral by a friend or family member.
 - Check for certification in the shop and a state license (in the USA).
 - Look for a clean garage, since a cluttered floor shows a lack of [organization](organization.md).

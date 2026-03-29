@@ -60,7 +60,7 @@ Imagine God removing His grace that we have grown accustomed to in this life.
 Comparatively, we don't have much risk from the world around us.
 
 - Animals don't have the higher reasoning capacity, and we can always outsmart them.
-- While there are dangerous plants, a little bit of knowledge allows us to avoid the worst of them.
+- While there are dangerous plants, some knowledge allows us to avoid the worst of them.
 - Most biomes aren't inviting, but they're usually manageable with the correct preparedness.
 - Even natural disasters can be overcome if we survive them.
 

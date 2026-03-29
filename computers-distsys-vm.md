@@ -7,7 +7,7 @@
 
 As computers have gotten faster, they end up having enough processing power to do *much* more work than the typical load that they're given, along with *much* more memory than necessary and lots of extra long-term storage space to burn. Some engineers were smart enough to take advantage of this.
 
-Virtualization makes "containers" inside the main computer, with each one pulling some of the resources from the actual computer. For example, a very fast computer could have multiple screens, multiple keyboards, and multiple mice, and everyone would treat it as if it were several computers. At scale, this can save a lot of money.
+Virtualization makes "containers" inside the main computer, with each one pulling some resources from the actual computer. For example, a very fast computer could have multiple screens, multiple keyboards, and multiple mice, and everyone would treat it as if it were several computers. At scale, this can save a lot of money.
 
 This can also work the other way, with multiple processors that feed into a shared resource pool. The system is how [enterprise](computers-distsys-enterprise.md)-grade software is relatively easy to set up without too much configuration.
 
@@ -29,7 +29,7 @@ Emulators have been around for decades. An emulator is software designed to repr
 
 For example, you may want to run Windows on your computer, but you only have Linux. By running a program (in this case, the software called Wine), you can make the Linux operating system act like it has Windows on it, at least enough to fool the program you're trying to run inside it.
 
-This isn't always foolproof (there are usually glitches), but emulation gets the job done. In fact, it's often the only way to successfully (though not always [legally](legal-ip.md)) play many older [games](computers-software-gamedev.md) that haven't been published in decades (e.g., Atari, Gameboy, Super Nintendo).
+This isn't always foolproof (there are usually glitches), but emulation gets the job done. In fact, it's often the only way to successfully (though not always [legally](legal-ip.md)) play many older [games](computers-software-gamedev.md) that haven't been published in decades (e.g., Atari, Game Boy, Super Nintendo).
 
 Emulation is also far more common than most people may realize. To accommodate the 32-bit processing on a 64-bit processor, Windows uses the WOW (Windows on Windows) protocol to emulate an old system.
 

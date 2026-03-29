@@ -5,17 +5,17 @@ As programmers get better at reproducing behaviors, computers can appear to be m
 
 Artificial intelligence is the methods and techniques that can make a computer seem human.
 
-The term "artificial intelligence" is ubiquitous, but it's largely a [marketing](marketing.md) term: a computer is still a simple [logic machine](logic-cs.md) performing calculations. Whether or not that's "intelligence" depends heavily on your view of [the human soul](theology-godandman-humanity.md).
+The term "artificial intelligence" is ubiquitous, but it's largely a [marketing](marketing.md) term: a computer is still a simple [logic machine](logic-cs.md) performing calculations. Its "intelligence" status depends heavily on your view of [the human soul](theology-godandman-humanity.md).
 
 The idea of AI represents a broad spectrum of implementations:
 
-- Makes [decisions](mind-decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
-- Using [language](language.md) in writing that matches what a person would likely write.
-- Using spoken language that matches what a person would say.
-- Using spoken language that matches *how* a person would say it.
-- Expresses human-like behavior with facial movements and body language.
-- Appropriately responds to other humans' behavior.
-- Engages people in a human-like way.
+- Make [decisions](mind-decisions.md) to play [games](computers-software-gamedev.md) the way a human does.
+- Use [language](language.md) in writing that matches what a person would likely write.
+- Use spoken language that matches what a person would say.
+- Use spoken language that matches *how* a person would say it.
+- Express human-like behavior with facial movements and body language.
+- Appropriately respond to other humans' behavior.
+- Engage people in a human-like way.
 
 However, even simple things, such as filling in the text of a sentence you're trying to write, is technically AI as well.
 
@@ -35,13 +35,13 @@ The effort to invest into AI was led throughout the 1970s and 1980s in Japan, bu
 
 ## Limits
 
-We're a very long way off from reproducing human behavior. Since [feelings](mind-feelings.md) are so messy, computers must be programmed to observe events and then appear like they're reacting to them. This often involves shedloads of [calculus](math-calc-cs.md) and [statistics](math-stat-cs.md), but will always feel inauthentic to us because it'll miss idiosyncratic aspects of intuitive context.
+We're a very long way off from reproducing human behavior. Since [feelings](mind-feelings.md) are so messy, computers must be programmed to observe events and then appear like they're reacting to them. This often involves mind-numbing amounts of [calculus](math-calc-cs.md) and [statistics](math-stat-cs.md), but will always feel inauthentic to us because it'll miss idiosyncratic aspects of intuitive context.
 
 Even with all the benefits of [machine learning](computers-ai-ml.md), AI can be ridiculously stupid, which is heightened by the gap between expectations and reality.
 
-The early 2020's have seen tons of hype about machine learning "creating" new works, such as music or paintings, but it really isn't. It's simply creating neural network rules to define general patterns that exist in those works, then mixes-and-matches them to create something in the predictable range of expected actions. For example, some specific racial/ethnic facial features *never* mesh together (and we intuitively [understand](understanding.md) it), so looking very closely at [This Person Does Not Exist](https://thispersondoesnotexist.com/) will show small discrepancies to make most of the photos feel unnatural.
+The early 2020s have seen tons of hype about machine learning "creating" new works, such as music or paintings, but it really isn't. It's simply creating neural network rules to define general patterns that exist in those works, then mixes-and-matches them to create something in the predictable range of expected actions. For example, some specific racial/ethnic facial features *never* mesh together (and we intuitively [understand](understanding.md) it), so looking very closely at [This Person Does Not Exist](https://thispersondoesnotexist.com/) will show small discrepancies to make most of the photos feel unnatural.
 
-Making computers *seem* human is a daunting task, but some of the discussion has shifted to the question of how to make computers feel *familiar*. Computers can answer elaborate, complicated questions instantly, so appearing human requires putting well-timed pauses into the response. Even then, it's arbitrarily slowing down the system to make it look like it's thinking with a brain, and it's still the same dumb computer doing what it was precisely instructed.
+Making computers *seem* human is a daunting task, but the discussion has somewhat shifted to the question of how to make computers feel *familiar*. Computers can answer elaborate, complicated questions instantly, so appearing human requires putting well-timed pauses into the response. Even then, it's arbitrarily slowing down the system to make it look like it's thinking with a brain, and it's still the same dumb computer doing what it was precisely instructed.
 
 ## Complete limits
 

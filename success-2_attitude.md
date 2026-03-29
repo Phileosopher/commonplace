@@ -102,7 +102,7 @@ The tasks for working on most projects often involve hours and days of complete 
 Choosing to succeed can often create rejection.
 
 - Most of your close family and [friends](people-friends.md) will expect you to fulfill a preconceived role.
-- Unless the people around you are also succeeding, you'll outpace and lose relationships with them.
+- Unless people around you are also succeeding, you'll outpace and lose relationships with them.
 - If an endeavor is particularly unexpected, it's not uncommon to face denials and disinterest.
 
 Most people are too insecure or afraid to accept the social sacrifices of success.
@@ -153,7 +153,7 @@ Most people restate the same tired reasons why they don't believe they can do so
 - "I want to be a great family person": a [great parent](parenting-children.md) has a great career
 - "I'm all alone": other successful people have been in your situation
 
-If you unconsciously *want* to fail, you'll seek advice so you have someone to blame for your failure.
+If you unconsciously *want* to fail, you'll seek advice to find someone to blame for your failure.
 
 Your desires probably *are* as scary and daunting as you feel, but you're stronger than you think.
 

@@ -30,7 +30,7 @@ By using technology, we can do less work to achieve more [results](results.md):
 - Moving boulders requires operating controls with our hands instead of lifting with our whole body.
 - Transporting ourselves requires operating controls with our hands and feet instead of running or using a trained animal.
 - We can gain *much* quicker [understanding](understanding.md) by using [media](creations.md) to [create](mind-creativity.md) and [share](people-conversation.md) things.
-- By storing [media](information.md), we can use technology to remember things so we don't have to. Or, more often, send a [good story](stories-why.md) to others.
+- By storing [media](information.md), we can use technology instead of having to remember things. Or, more often, send a [good story](stories-why.md) to others.
 
 From one development to the next, these magnifications give an [exponential](math.md) yield. One person with today's technology has more [power](power.md) for some [purposes](purpose.md) than an entire village 500 years ago, and someone 500 years from now will appear to us as if they were magicians.
 
@@ -74,7 +74,7 @@ Very frequently, if we grew up our entire lives around a specific technology, we
 
 Technology is the outflow of a type of "laziness". Instead of doing something in a more difficult way, we can simplify our time by doing it another way or using an [unconventional](habits.md) thing.
 
-Since technology is sophisticated, clever, and [designed](engineering.md) more around intuition than force, its "[gender](people-gender.md)" is female. Men and women alike use it (and its venture into [the unknown](unknown.md) makes it often a male-dominated workforce), but it always requires more finesse and intricacy than working without it. This has cultural implications that takes away from the "masculine" culture typically associated with more direct [work](purpose.md).
+Since technology is sophisticated, clever, and [designed](engineering.md) more around intuition than force, its "[gender](people-gender.md)" is female. Men and women alike use it (and its venture into [the unknown](unknown.md) makes it often a male-dominated workforce), but it always requires more finesse and intricacy than working without it. This has cultural implications that take away from the "masculine" culture typically associated with more direct [work](purpose.md).
 
 One of the most dominant ways to manipulate a technology is through "energy", which is an abstracted [form of power](power-types.md) that makes that technology work. This is bound to whatever [physical engineering](science-physics.md) happens to be the most efficient at the time. It can include gravity, inertia, and [electricity](engineering-electrical.md).
 
@@ -132,7 +132,7 @@ Further, technologies make us weak. We sacrifice the opportunity cost of [liftin
 
 Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
 
-When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-why.md), the only reliable way to prevent that technology from destroying a large number of people is with other technology owned by the potential victims, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
+When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-why.md), the only reliable way to prevent that technology from harming or killing many people is with other technology, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
 
 ## Limits
 

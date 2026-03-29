@@ -76,7 +76,7 @@ B. Approach at the right time:
 C. The first time, only bring the problem (and *not* [the solution](https://adequate.life/fix/)) with the Speaker-Listener Technique:
 
 1. The person who feels the most severe pain at the moment is the Speaker and has the floor.
-   - The Speaker must speak honestly.
+   - The Speaker must speak honestly and without accusation.
    - To respect time and attention span, they only get 1-2 minutes to speak.
 2. The other person is the Listener, who must paraphrase whatever the speaker said after listening.
    - The Listener must edit out all responses or disagreements to the Speaker.
@@ -121,7 +121,7 @@ Honestly share your thoughts and feelings.
 Own all your feelings, especially when you're frustrated or angry.
 
 - When walking out or putting up mental distance, clearly indicate when you'll revisit it.
-- If you're overwhelmed or it becomes too severe, ask for time to calm down or reschedule the discussion.
+- If you're overwhelmed, or it becomes too severe, ask for time to calm down or reschedule the discussion.
 
 Keep envelopes for them to open the next time you have difficult feelings (e.g., sad, angry, need a hug).
 

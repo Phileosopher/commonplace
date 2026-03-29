@@ -58,7 +58,7 @@ There is lots of complicated stuff in there to closely consider, and it's an eng
 
 However, the idea for a gate is relatively simple. You could have an electrical resistor that requires the charge from two inputs, for example.
 
-Generally, the less gates and less distance electricity travels, the more reliable the technology gets, so engineers are *constantly* improving their computers to be smaller with parts closer together.
+Generally, the fewer gates and less distance electricity travels, the more reliable the technology gets, so engineers are *constantly* improving their computers to be smaller with parts closer together.
 
 ## Math
 
@@ -106,7 +106,7 @@ Instead, they use what's called [Two's Complement](https://en.wikipedia.org/wiki
 
 In practice, you can count downward by cycling back to the top number. 0 is 0000, -1 is 1111, -2 is 1110, -3 is 1101, and so on. Plus, to find the inverse, you just have to flip the 0s and 1s, then add 1 (0101 becomes 1011, 001101 becomes 110011, and so on). This also means that the first number in the binary sequence will be 1 if negative.
 
-While two's complement makes adding numbers relatively straightforward with positive/negative addition, the mathemagic on this gets intense once you add negatives. Basically, you can add two numbers as their positive version:
+While two's complement makes adding numbers relatively straightforward with positive/negative addition, the mathemagic gets intense once you add negatives. Basically, you can add two numbers as their positive version:
 
 - e.g., in a 4-bit setup, the complement of -2 is 14, or 1110, and -3 is 13, or 1101
 - The total will, naturally, be the sum of the two:
@@ -116,13 +116,13 @@ While two's complement makes adding numbers relatively straightforward with posi
 
 ### All together now
 
-Now, we can slam all of the above together into one logic unit called the Arithmetic Logic Unit (ALU).
+Now, we can slam all the above together into one logic unit called the Arithmetic Logic Unit (ALU).
 
 Each ALU varies in the varieties of things it can do. Basically, more features cost more but calculate everything faster. However, anything else above this can be completely handed off to software on a higher-up level.
 
 Every ALU has 2 inputs labeled x and y, a bus of control bits ("opcodes"), an output, and control outputs.
 
-The opcodes have *very* specific purposes, which use all of the above stuff in various formats to make. They're essentially 1/0 on/off "switches":
+The opcodes have *very* specific purposes, which use all the above stuff in various formats to make. They're essentially 1/0 on/off "switches":
 
 - zx - set x to 0 if on
 - nx - set x to NOT x if on (0 becomes 1 and 1 becomes 0)

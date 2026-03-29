@@ -13,14 +13,6 @@ At its core, Protestants have 5 Latin-based philosophical assertions, known as "
 4. Sola Christo (Christ alone): Jesus is the only one with a role in our salvation.
 5. Soli Deo Gloria (to God's glory alone): the purpose of absolutely everything is only for God's glory.
 
-To simplify, here's the blunt and stripped-down version of the same 5 Solae within the lens of their historical context:
-
-1. If the Bible doesn't say anything about it, neither the Pope nor the priesthood has any authority.
-2. You don't need to do anything except trust Jesus to enter heaven. Other activities (e.g., paying indulgences to your priest, attending mass weekly or yearly, taking Eucharist at mass) aren't necessary for salvation.
-3. We can't do anything to earn God's grace, and must simply have a personal relationship with Jesus.
-4. The saints and Mary have nothing to do with our salvation.
-5. If you disagree with any of this, especially #4, you're impeding God's reputation and at risk of [sinning](/sins/).
-
 The 5 Solae were originally the first 3, but it truly all stems from the first assertion: if Scripture alone has the only true authority, then human institutions are only optional.
 
 Naturally, this was offensive to the then-only Church at the time. This caused many [conflicts](people-conflicts-christian-3_near.md) that, among other things, created the Enlightenment-era value systems that fashioned [Western thought](https://theologos.site/the-west/) (and, naturally, the [post-modern afterbirth](philosophy.md) we presently live under).
@@ -56,7 +48,7 @@ God loves variety (as evidenced by [His vast array of life, celestial objects, a
 This vagueness does provide freedom ([Galatians 5](https://biblehub.com/galatians/5.htm)), but we can *easily* overstep into error:
 
 1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/romans/1.htm)) as a good thing.
-2. If we make clarifications of vague passages, *our* faith and beliefs in God creates that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
+2. If we make clarifications of vague passages, *our* faith and beliefs in God create that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
 3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](theology-sins.md).
 4. In particular, [church leaders](mgmt-church.md) must be careful what they forbid and how they do it within their domain of [influence](power-influence.md).
 
@@ -110,7 +102,7 @@ To be clear, God is *always* the one who saves us. Nobody can technically "belie
 
 Some people get tangled up in talking about "being faithful enough", but that's placing *far* too much emphasis on humanity's influence. While God acts in response to our decisions, *His* decision framework defines how we make decisions in the first place!
 
-Faith will invariably create works, and James literally affirms this with Rahab as an example ([James 2:25-26](https://biblehub.com/james/2.htm)). To that end, asking whether our works or faith save us is somewhat the wrong question.
+Faith will invariably create works, and James literally affirms this with Rehab as an example ([James 2:25-26](https://biblehub.com/james/2.htm)). To that end, asking whether our works or faith save us is somewhat the wrong question.
 
 This entire debate of grace/works sprung historically from a long-standing disciplinary paradigm that goes back as far as St. Augustine, and likely longer. Most early Catholic thought was inspired by the Greek tradition of [logically dividing](logic.md) absolutely everything into atomic components. While it *can* increase understanding, we often lose sight of the big picture in the process.
 
@@ -132,7 +124,16 @@ There are several broad questions we don't have precisely clear answers on:
 
 Protestants simply answer #3 with "none" and carry on, but Catholics have a more nuanced metaphysical view. Roman Catholics have a fixed hierarchy where saints are very prominently differentiated from the Christian rabble, while Eastern Orthodox are much more open to a wide variety of interpretations.
 
-The reality is, we don't actually know. However, some [not-universally-accepted books of the Bible](theology-bible.md) allude to semiregular interaction between long-passed people and present people. They also allude to plenty of [demonic and angelic influence](spiritual-warfare.md) beyond a few references in Job. There are also a host of other interpretations of spiritual beings (such as Nephilim).
+This Sola strikes heavily at the Church's authority to rule people ([Matthew 21:24-25](https://biblehub.com/matthew/21.htm)):
+
+- If the Church's authority is directly from Christ, we must justify distinctly *not good* things the Church did as an institution (e.g., Spanish Inquisition, Crusades).
+- If the Church's authority is *not* from Christ, anyone who can rightly handle Scripture has the legitimate authority to [start a church](mgmt-church.md).
+
+The spiritual success of Protestantism attests to God still having [His will done](god-will.md) through a different corporate structure, which attests to [Romans 11:17-21](https://biblehub.com/romans/11.htm).
+
+However, some [not-universally-accepted books of the Bible](bible-noncanon.md.md) allude to semiregular interaction between long-passed people and present people.
+
+- They also allude to plenty of [demonic and angelic influence](spiritual-warfare.md) beyond a few references in Job. There are also a host of other interpretations of spiritual beings (such as Nephilim).
 
 So, what you think of the Deuterocanon/Apocrypha heavily define what you think of Sola Christus. This represents more as a spectrum than as a binary viewpoint.
 
@@ -154,7 +155,21 @@ Technically, all of those are true, but the Bible itself doesn't seem to use man
 
 Protestants are quick to believe God's glory is diminished when people pray to other people (i.e., categorizes as idolatry) while Catholics believe God's glory is unaffected because it's part of the celestial hierarchy (i.e., like contacting a different department in a [large government bureau](bureaucracy.md)).
 
-## Final thoughts
+Even if Protestants are correct, many denominations have developed tendencies to diminish God's glory.
+
+- Many [false teachers](https://theologos.site/false/) in Wesleyan-style denominations do quite a bit of damage to His reputation (e.g., Marjoe).
+- Most megachurches conduct various forms of [spiritually-framed abuse](hardship-abuse.md) on their volunteers to hide the leadership's [sins](theology-sins.md) and make everyone [work harder](mgmt-6_morale.md).
+- While it's not as common in our more [post-modern mindset](philosophy.md), history has demonstrated many religious sects that have veered into abuse (e.g., Puritans).
+
+## Conclusion
+
+To simplify, here's the blunt and stripped-down version of the same 5 Solae within the lens of their historical context:
+
+1. If the Bible doesn't say anything about it, neither the Pope nor the priesthood has any authority.
+2. You don't need to do anything except trust Jesus to enter heaven. Other activities (e.g., paying indulgences to your priest, attending mass weekly or yearly, taking Eucharist at mass) aren't necessary for salvation.
+3. We can't do anything to earn God's grace, and must simply have a personal relationship with Jesus.
+4. The saints and Mary have nothing to do with our salvation.
+5. If you disagree with any of this, especially #4, you're impeding God's reputation and at risk of [sinning](theology-sins.md).
 
 These Solae are an archaic model of Christianity, though they're a deep exploration of [theology](theology.md).
 
@@ -170,5 +185,22 @@ This one distinction distills to two extremes on a spectrum:
    - Further, if there was any legitimacy to the Church coming alongside Scripture, we should see a commentary regarded as equivalent to Scripture.
 
 Naturally, this bleeds out to many other theological things, such as [apostolic succession](people-conflicts-christian-3_near.md) and whether we should read modern books to understand [human nature](humanity.md).
+
+In fact, Sola Scriptura itself forces several deductive [logical](logic.md) states for any given doctrine or practice:
+
+1. Scripture says something on the matter and oral tradition says nothing about it.
+   - In this situation, it's up to personal preference.
+   - This isn't likely, since there are *many* books approved by the Church over nearly two millennia.
+2. Oral tradition says something and Scripture doesn't.
+   - Catholics say the church leaders' authority fills the gap (the Pope being the pinnacle of this)
+   - Protestants usually say it's open to interpretation.
+3. Scripture says one thing and oral tradition says something contrary.
+   - Protestants would say that people are in error or heresy.
+   - Catholics would say there's nuance to the matter.
+   - Almost every [severe Christian conflict](people-conflicts-christian-why.md) has at least some of this context.
+
+Altogether, it comes down to how much we are willing to concede to authority (and whose).
+
+- Given the Catholic Church's descent into corruption, it has as much authority as any other worldly institution (e.g., Google, the State of Minnesota).
 
 However, no amount of clarifying thought will take away the philosophical haze we live under ([1 Corinthians 13:12](https://biblehub.com/1_corinthians/13-12.htm)). Jesus doesn't ask us to understand *any* of this, but instead to prioritize love over understanding ([1 Corinthians 13:2](https://biblehub.com/1_corinthians/13-2.htm)).

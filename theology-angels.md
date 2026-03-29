@@ -8,7 +8,7 @@ There are intelligent beings beyond humanity, which we broadly call "angels".
 
 God's design for angels, unlike our design for relationship, was for [utilitarian purposes](purpose.md).
 
-- While humanity has a "multitool" design that permits all forms of action without constraint, angels are designed to do one task *really* well.
+- While humanity has a "multi-tool" design that permits all forms of action without constraint, angels are designed to do one task *really* well.
 
 Being intelligent, God gave them the freedom of [decision](mind-decisions.md), and some of them have rebelled against what God wants.
 
@@ -30,7 +30,8 @@ The Bible refers to four classifications of these celestial beings, which can't 
 
 These beings have the term "elohim", which is confusing because it's also used as a term for God.
 
-- In fact, some of these beings are *likely* gods of a lesser sort, with God having authority over them.
+- In fact, some of these beings are *likely* "gods" of a lesser sort, with God having authority over them.
+  - Most of the dispute about this context is highly contingent on how we define the word "god".
 
 Given [God's nature](theology-god.md), there are likely more that have not been mentioned in the Bible.
 

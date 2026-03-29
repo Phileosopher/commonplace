@@ -103,7 +103,7 @@ I may use both Session and Persistent Cookies for the purposes set out below:
     - Avoid You having to re-enter Your preferences every time You use the Service, which last for one year.
     - If You edit or publish an article, an additional Cookie will be saved in Your browser. This Cookie includes no Personal Data and simply indicates the post ID of the article You just edited, and expires after 1 day.
 
-Articles on the Service may contained embedded content (e.g., videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if You had visited those Third-Party Sites And Services directly.
+Articles on the Service may contain embedded content (e.g., videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if You had visited those Third-Party Sites And Services directly.
 
 ## My Use of Your Personal Data
 
@@ -195,7 +195,7 @@ I strive to use commercially acceptable means to protect Your Personal Data, but
 
 My Service does not address anyone under the age of consent. I do not knowingly collect personally identifiable information from anyone under the age of consent.
 
-If You are a parent or guardian and You are aware that Your child has provided Me with Personal Data, please contact Me.
+If You are a parent or guardian, and You are aware that Your child has provided Me with Personal Data, please contact Me.
 
 If I become aware I have collected Personal Data from anyone under the age of 13 without verification of parental consent, I take steps to remove that information from My servers.
 

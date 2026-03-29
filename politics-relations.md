@@ -8,7 +8,7 @@ This is a breakdown of various theories that governments may use when engaging w
 This won't easily apply to create any sort of unified world order.
 
 - An international court is absurd, since it would require conformity to a singular worldview that all cultures would be willing to sign off on.
-- While this sounds nice, it's is logistically impossible, partly from [religion](religion.md), partly from [language](language.md) barriers, and partly from simple [cultural differences](people-culture.md).
+- While this sounds nice, it is logistically impossible, partly from [religion](religion.md), partly from [language](language.md) barriers, and partly from simple [cultural differences](people-culture.md).
 
 ## Realism
 
@@ -56,10 +56,10 @@ The belief that international politics is shaped by persuasive ideas, collective
 
 - It basically indicates that each nation has its own interests formed by the individual people together, *not* for mere survival or benefit.
 
-It confronts both neo-liberal and neo-realist thinking.
+It confronts both neoliberal and neo-realist thinking.
 
 - It makes the idea that neo-realism is too narrow a predictor of a nation's behavior.
-- It asserts that neo-liberalism isn't accurate.
+- It asserts that neoliberalism isn't accurate.
 
 ## Marxism
 
@@ -99,4 +99,4 @@ Applies a direct [critical theory](politics-leftism.md) to international relatio
 
 ## Isolationism
 
-A subcomponent of realism that separates interests for the nation's survival.
+A subcomponent of realism that separates interests regarding the nation's survival.

@@ -1,5 +1,5 @@
 
-# How to repair automotives
+# How to repair autos
 
 As soon as you see a problem, fix it, since tiny problems can quickly become expensive to repair later.
 
@@ -50,9 +50,9 @@ Only replace the tires when you need to.
 - Inspect the tires' wear to diagnose other potential issues:
   - Wear along the outside means insufficient air pressure.
   - Wear in the middle means excessive air pressure.
-  - If there are uneven spots, there is a balancing issue (which is a very affordable fix).
-  - If one side is worn, there is an alignment issue.
-  - If there are uneven crosses across the tires, there's a suspension issue.
+  - Uneven spots indicate a balancing issue (which is a very affordable fix).
+  - One side more worn than the other means an alignment issue.
+  - Uneven crosses across the tires means a suspension issue.
 
 Buy the specialized tools you need, since a $200 tool is less than a $500 mechanic's repair, and you can use it later.
 

@@ -17,9 +17,9 @@ Every medium has its own rules for quality:
 - Learn the medium's standards and limits.
 - Even experimental and [trend-setting](people-trends.md) works acknowledge the rules by intentionally defying them.
 - Art can be time-based, static, or immersive.
-  - For static art (e.g., novels, films, music), focus on what occupies the center of attention.
-  - For temporal art (e.g., painting, sculpture), direct all your efforts to magnifying the very last observed event.
-  - For immersive art (e.g., architecture, game development), pay extremely close attention to the [user experience](engineering-design.md).
+  - Static art (e.g., novels, films, music) focuses on what occupies the center of attention.
+  - Temporal art (e.g., painting, sculpture) directs all effort to magnifying the very last observed event.
+  - Immersive art (e.g., architecture, game development) requires extreme attention to the [user experience](engineering-design.md).
 
 The constraints of an art medium can create very complex aspects that feed into the entirety of the created work.
 
@@ -48,7 +48,7 @@ Reasoning: a form of thought
 Change: a depiction of movement
 
 - Expressing two states, one after the other
-- May be a [story](stories-why.md), but can also indicate two bits of [information](information.md)
+- Can be a [story](stories-why.md), but can also indicate two bits of [information](information.md)
 
 Rhythm: a depiction of familiarity
 

@@ -80,7 +80,7 @@ An addict is revealed when they are exposed again to their substance after a sus
 - The addict will relapse and throw out what they've worked on, while the sober-minded will resist the substance.
 - The addict will try to exert control toward that substance, then become very [angry](mind-feelings-anger.md) when they don't get the substance they wanted.
 
-The hope of something is usually far less than its likelihood, so an addict will naturally push out almost everything else that isn't a means to or part of their substance. They'll continue investing more and more into fulfilling the subsance until they start destroying other [components of living well](people-goodlife.md):
+The hope of something is usually far less than its likelihood, so an addict will naturally push out almost everything else that isn't a means to or part of their substance. They'll continue investing more and more into fulfilling the substance until they start destroying other [components of living well](people-goodlife.md):
 
 - [Social status](power-influence.md) and [relationships with others](people-friends.md)
 - Laws of reality like [diminishing return](results.md) or [others' evil intentions](morality-evil.md)

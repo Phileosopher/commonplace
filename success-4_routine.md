@@ -188,7 +188,7 @@ If you think about *anything* you're unable to do at that precise moment, write 
 - We tend to forget things we don't write notes for.
 - Consider a "Think About List" that captures all the thoughts you want to entertain later.
 
-Set alarms so you don't have to worry about time:
+Set alarms to not worry about time:
 
 - We aren't any good at measuring time, especially when we're working.
 - Any time spent thinking of a deadline is distracting from the task you're currently trying to perform.

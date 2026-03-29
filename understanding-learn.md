@@ -26,7 +26,7 @@ The result of this process is a set of abstracted things we can quickly experien
 
 APPLICATION: In a sense, understanding is like [philosophy](philosophy.md) or [investing](money-investing.md) knowledge: useless by itself, but severely magnifies [power](power.md) if it's applied to a [specialty](jobs-specialization.md).
 
-After we've integrated those experiences, we tend to call those things "our ideas". They're mostly others' ideas adapted to our form of thinking, but we've worked with them them so heavily that we make them a part of our [identity](people-identity.md).
+After we've integrated those experiences, we tend to call those things "our ideas". They're mostly others' ideas adapted to our form of thinking, but we've worked with them so heavily that we make them a part of our [identity](people-identity.md).
 
 However, we can never fully attain a comprehensive grasp of [reality](reality.md). Most of the foundational things we [believe](understanding-certainty.md) exist on the periphery of our fullest capacity for understanding something.
 

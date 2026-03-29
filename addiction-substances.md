@@ -1,7 +1,7 @@
 
 # List of commonly abused substances
 
-NOTE: This are only a set of typical examples.
+NOTE: This is only a set of typical examples.
 
 - Absolutely *any* substance or lifestyle can become [an addiction](addiction.md) if someone doesn't pay attention to [diminishing returns](money-economics.md).
 - From another angle, all addictive substances are simply a form of codependency.
@@ -59,7 +59,7 @@ Prescription drugs
 - Depressants
   - Barbiturates
   - Benzodiazepines
-  - Nonbenzodiazepines (Z-Drugs)
+  - Non-benzodiazepines (Z-Drugs)
 - Opioids
   - Fentanyl
   - Hydrocodone
@@ -132,8 +132,6 @@ Other drugs
 
 ## Excitement/Risk
 
-[Debting](money-2_debt.md)
-
 Fire (pyromania)
 
 Gambling
@@ -141,6 +139,8 @@ Gambling
 - Casinos
 - Lottery tickets
 - [Investing](money-investing.md)
+
+[Going into debt](money-2_debt.md)
 
 [Lying](people-lying.md)
 

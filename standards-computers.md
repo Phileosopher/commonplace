@@ -15,13 +15,13 @@ General:
 
 - [ANSI](https://www.ansi.org/) (American National Standards Institute)
 - [AIIM](https://www.aiim.org/) (Association for Information and Image Management)
-- [ASAM](https://www.asam.net/) (Association for Standardisation of Automation and Measuring Systems)
+- [ASAM](https://www.asam.net/) (Association for Standardization of Automation and Measuring Systems)
 - [ISO](https://www.iso.org/home.html) (international Organization of Standards)
   - [List of ISO's publicly available standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/)
 - [IEC](https://www.iec.ch/homepage) (International Electrotechnical Commission)
 - [IEEE](https://www.ieee.org/) (Institute of Electrical and Electronics Engineers)
   - [IEEE SA](https://standards.ieee.org/) (IEEE Standards Association)
-  - [IEEE 802.11](https://ieee802.org/11/) - WLAN standards (i.e., WiFi)
+  - [IEEE 802.11](https://ieee802.org/11/) - WLAN standards (i.e., Wi-Fi)
 - [OMG](https://www.omg.org/) (Object Management Group)
 - [OSGi Alliance](https://www.osgi.org/) (Open Services Gateway) - Java-specific
 
@@ -111,7 +111,7 @@ Cabling:
 
 - USB - Universal Serial Bus, a standard swappable cable for most computers designed to be as near-universal as possible:
   - USB Type A - the most frequently seen form factor, rectangular port that only inserts one way
-    - First standardized in 1990's
+    - First standardized in 1990s
     - Supports USB 1.1, USB 2, and USB 3.x
   - USB 3.0 - a direct update to USB Type A and therefore typically backwards compatible, indicated by blue on the connector
   - USB Type B - rectangular form factor with tapered ends on one side, less frequently used (e.g., [printers](engineering-printers.md), [scanners](computers-ocr.md)) and typically is Type A on the cable's other side
@@ -129,7 +129,7 @@ Network identification:
 - CIDR - classless inter-domain routing, a system of demarcating classes of IPv4 addresses
 - DHCP - dynamic hosting control protocol, assigns IP addresses automatically, a *huge* part of maintaining networks
   - APIPA - automatic private IP addressing, the fallback for when DHCP fails on IPv4
-  - SLAAC - stateless address auto configuration, an alternative for DHCP on IPv6
+  - SLAAC - stateless address autoconfiguration, an alternative for DHCP on IPv6
 - DNS - domain name system, access a server that links a URL with an IP address
 - IP - internet protocol, find an IP address of a computer
 
@@ -197,7 +197,7 @@ It's worth noting most of the above protocols have very specific network "ports"
 
 Most computer design specifications must abide by certain compliance standards to work correctly. While it's often possible to [hack](hacking.md) them, those standards are often there for a safety reason.
 
-There are many standards about how to setup cabling arrangements as well:
+There are many standards about how to set up cabling arrangements as well:
 
 - Horizontal cabling and cabling runs which travel long-distance.
 - Structured cabling for nearby systems, like twisted-pair and optical cabling.

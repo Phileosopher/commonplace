@@ -5,10 +5,6 @@
 
 Cold exposure has been loosely proven to reduce tumor growth.
 
-Mammograms use radiation, so test sparingly with them (i.e., less than once every few years).
-
-- If you want consistent tests, use thermography instead.
-
 ## High blood pressure (hypertension)
 
 Apply thyme oil to the navel

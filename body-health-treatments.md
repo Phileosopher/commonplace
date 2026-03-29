@@ -12,7 +12,7 @@ Often, we tend to manage small [risks](money-insurance.md) and increase larger o
 
 Prevention is *always* better than treatment.
 
-- Aim for [lifestyle habits that can avoid the problems you face](body-health-treatments-general.md) instead of external methods to treat your lifestyle symptoms.
+- Aim for [lifestyle habits that can avoid the problems you face](body-health-habits.md) instead of external methods to treat your lifestyle symptoms.
 - From a [marketing perspective](marketing.md), the most [financially advantageous](power-types.md) situation for [many large organizations](mgmt-badsystems.md) is for you to be miserable and dependent on their product (i.e., pharmaceuticals and treatments).
 
 ## Prioritize preventative and noninvasive treatments
@@ -40,7 +40,7 @@ As soon as you feel a risk to your health or [start aging](hardship-aging.md), a
 
 - Dental cleaning and checkup every 6 months.
 - Blood tests every 6 months.
-- Mammograms (for women) yearly after age 35.
+- Breast thermography (for women) yearly after age 35.
 - Prostate exams (for men) yearly after age 45.
 - If your family has a history of diabetes, get a fasting blood glucose test yearly after age 40.
 - However, general annual checkups (even when you're healthy) do *not* do much to save lives because it gives people the [bias](mind-bias.md) that they're fine because the doctor had checked already.
@@ -48,6 +48,12 @@ As soon as you feel a risk to your health or [start aging](hardship-aging.md), a
 However, always take the doctor's advice as a consultant or sales personnel, *not* as a certain truth.
 
 - If you're not certain, ask a second doctor's opinion without informing them about the first doctor.
+
+Stay mindful of the tests you use, since some of them can be dangerous.
+
+- Always get blood tests, which have zero side effects and are extremely reliable.
+  - Blood work can often even detect things like heart disease and dementia.
+- Mammograms use radiation, so only test when you have to, and use thermography instead.
 
 Further, do *not* assume the checkup is a clear examination of health.
 

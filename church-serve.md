@@ -10,7 +10,7 @@ For that reason, here's a concise list to get the thoughts rolling.
 Most healthy churches have plenty of volunteers, and they'll usually pick people who have served before.
 
 - Many people within a church can be motivated towards self-interested purposes, so it can get complicated.
-- Look *beyond* official church meetings for the greatest needs, such as community services and parachurch organizations.
+- Look *beyond* official church meetings for the greatest needs, such as community services and [para-church organizations](church-parachurch.md).
 
 ## Types of people
 
@@ -158,6 +158,6 @@ Creating
 
 Advertise the [persecution](hardship-persecution-church.md) rampant across the world, or get involved with a group that does already (e.g., [Voice of the Martyrs](https://www.persecution.com/)).
 
-Cambodia has been a hellscape of a country for *decades*.
+Cambodia has been a terrible country to live in for *decades*.
 
 Large cities in the USA (e.g., Portland, Seattle, San Francisco) have a deluge of lifestyle transients that have destroyed its society.

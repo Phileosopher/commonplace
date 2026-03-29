@@ -5,13 +5,7 @@ Some of God's qualities are explicitly defined in [the Bible](theology-bible.md)
 
 - That doesn't mean we can't take guesses at many other components of God, but it does mean there are certain constants.
 
-Even without [the Bible](theology-bible.md), we can still [logically](logic.md) conclude God's existence through induction.
-
-- Kalam argument: Everything started with something, so God is that something that started everything.
-- Liebniz argument: Everything has an explanation for it, so God explains the universe's existence.
-- Fine-Tuning argument: The universe is highly ordered and necessary for [life](science-life.md) to exist, so something must have fine-tuned it, and it's absurd to presume it came from pure randomness.
-- Moral argument: [morality](morality.md) requires God to exist, and morals do exist, so God exists (which happens to also nullify the Evil God Challenge).
-- Ontological argument: There's something that's the "greatest" to compare everything to, and that's God.
+Even without [the Bible](theology-bible.md), we can still [logically conclude God's existence through induction](god-proof.md).
 
 ## God is a mystery
 
@@ -39,7 +33,7 @@ The Father, Son, and Holy Spirit are a three-part God.
 God is incorruptibly good, indivisibly powerful, and perfect.
 
 - Any inherently good quality we ascribe is either embodied within God as the fullest definition, or we are ascribing to something that isn't an inherently good quality.
-  - For example, God is the most kind being ever, and no other being can be as kind as God.
+  - For example, God is the kindest being ever, and no other being can be as kind as God.
   - As another example, God *could* be the most efficient, except that efficiency beyond a certain point becomes tyranny, so God's efficiency stops when it starts to become tyranny.
 - Nevertheless, all values were originally designed by God in the first place, so God is familiar with *all* of their designs.
 

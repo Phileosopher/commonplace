@@ -12,8 +12,10 @@ This is, by no means, exhaustive. Grouping historical eras is a [human-made valu
 - ~3300 BC - ~1200 BC: Bronze Age (technological)
 - ~1200 BC - 550 BC: Iron Age (technological)
 - 753 BC - 476 AD: Roman Empire (political)
+- 586 BC - 539 AD: Neo-Babylonian Empire (political)
 - ~600 BC - ~600 AD: Greek Empire (political)
-- ~550 BC - ~330 BC: Persian Empire (political)
+- 539 BC - 332 BC: Persian Empire (political)
+- 332 BC - 53 BC: Hellenistic Era (political)
 - 285 AD - 1453: Byzantine Empire (political)
 
 ## Post-classical history

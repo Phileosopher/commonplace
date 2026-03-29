@@ -22,13 +22,13 @@ It's important to understand that [hacking comes in a variety of forms](hacking.
 
 ## How to defend yourself
 
-Safety and performance have tradeoffs beyond a certain point, but there are many simple-enough ways to protect yourself from most [cyber attacks](hacking.md).
+Safety and performance have tradeoffs beyond a certain point, but there are many simple-enough ways to protect yourself from most [cyberattacks](hacking.md).
 
 As a general concept, [computers are extremely versatile](computers-hardware.md). The engineers who first designed computers never expected that the computer needed to be *forbidden* to do some things. But, like dynamite and the aeroplane, computers are highly effective weapons. Unfortunately, a reliable [lock](computers-cysec-authentication.md) doesn't always protect computers.
 
 ### Simple Things
 
-The easiest way to make your computers safer is to reduce the "attack surface" by cutting down the possible "attack vectors" . One of those ways is to "harden" a computer by [turning everything off you're not using](computers-cysec.md).
+The easiest way to make your computers safer is to reduce the "attack surface" by cutting down the possible "attack vectors". One of those ways is to "harden" a computer by [turning everything off you're not using](computers-cysec.md).
 
 By renaming default "credentials" that come with most hardware, hackers can't easily gain high-level access to computers (e.g., username "admin" with password "admin").
 

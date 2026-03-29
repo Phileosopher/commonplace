@@ -11,7 +11,7 @@ Rain is when a cloud has accumulated too much water. About 60% of the water in a
 
 Hail is rain that froze from winds lifting it into clouds over and over.
 
-Lightning is caused by hail rubbing together in clouds to create ionized atoms. They become so ionized that electrons will travel the path of least resistance through the air. Lightning from the top of a cloud is positively charged (where electrons move *to* the cloud), while the bottom is negative (where electrons move *from* the cloud).
+Lightning is caused by hail rubbing together in clouds to create ionized atoms. They become so ionized that electrons will travel through the air along the path of least resistance. Lightning from the top of a cloud is positively charged (where electrons move *to* the cloud), while the bottom is negative (where electrons move *from* the cloud).
 
 ## Predicting weather
 

@@ -1,7 +1,7 @@
 
 # How to disciple other believers
 
-While leaders give guidance, our decisions over who to follow determines who guides us.
+While leaders give guidance, we still [make decisions](mind-decisions.md) as followers on who to follow.
 
 - We must follow people who show Christlike behavior ([1 Corinthians 11:1](https://biblehub.com/1_corinthians/11-1.htm)).
 
@@ -15,7 +15,7 @@ Jesus builds every Christian up to become a self-[leader](mgmt-church.md):
 
 Discipleship is an obsolete word, and could more accurately be described as "spiritual apprenticeship".
 
-- It is one-on-one mentorship, teaching, and advising.
+- The experience is one-on-one mentorship, teaching, and advising.
 - No single person has enough resources to mentor more than 3-4 people at any one time.
 - And, as a parent, your [non-adult children](parenting-children.md) are part of that 3-4 person limit.
 
@@ -51,7 +51,7 @@ Mentoring takes endurance, and will often feel like a second job.
 
 ## Choosing disciples
 
-Good spiritual leaders are picky about who they decide to [teach](education.md).
+Good spiritual leaders are picky about the students they choose to [teach](education.md).
 
 - Focus on [quality](values-quality.md), not quantity.
 - If you have [children](people-family.md), they're your disciples until they've reached adulthood.
@@ -67,7 +67,7 @@ A good disciple must be teachable and faithful.
 Avoid mentoring a few demographics relative to yourself:
 
 - Discipleship of the opposite sex can create sexual immorality or, in [a relationship](relationships-marriage.md), unhealthy codependency.
-- With the exception of having experienced tremendous [hardship](hardship.md) for your age, leading someone the same age or older (within 5-10 years) becomes a lopsided relationship from relative differences in life experience.
+- Except for having experienced tremendous [hardship](hardship.md) for your age, leading someone the same age or older (within 5-10 years) becomes a lopsided relationship from relative differences in life experience.
 
 ## Nurturing
 
@@ -86,7 +86,7 @@ Set the pace by showing them your example ([2 Timothy 3:10-11](https://biblehub.
 - Reproduce yourself into them ([2 Corinthians 12:14-19](https://biblehub.com/2_corinthians/12.htm), [Philippians 2:19-22](https://biblehub.com/philippians/2.htm), [2 Timothy 3:10-11](https://biblehub.com/2_timothy/3.htm)).
 - Avoid dictating to them, *especially* as they become more [knowledgeable](understanding.md) ([1 Peter 5:1-3](https://biblehub.com/1_peter/5.htm)).
 
-Do *not* [micro-manage](mgmt-1_why.md), since they will have a different generational [culture](people-culture.md) and their approach on some things *will* be different.
+Do *not* [micromanage](mgmt-1_why.md), since they will have a different generational [culture](people-culture.md) and their approach on some things *will* be different.
 
 Avoid employing any [shame](mind-feelings-shame.md).
 

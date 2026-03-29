@@ -64,10 +64,10 @@
 1. Elkanah and one of his wives Hannah, Hannah prays for a son, Samuel is born and Hannah dedicates him
 2. Hannah's prayer, description of Eli's sons, a man of God prophesies against Eli's house
 3. God calls Samuel several times, Samuel receives a vision from God, Samuel shares his vision with Eli
-4. Philistines capture the Ark of the Covenant and kill Eli's sons, Eli and his daugher-in-law die
+4. Philistines capture the Ark of the Covenant and kill Eli's sons, Eli and his daughter-in-law die
 5. Philistines are afflicted because of the Ark
 6. Philistines return the Ark, Israel celebrates but 70 of them die from looking inside it
-7. Samuel judges for 20 years, Philistines try to attack but God sends them into disarray
+7. Samuel judges for 20 years, Philistines try to attack, but God sends them into disarray
 8. Samuel grows old, Israel demands a king, Samuel warns them, God grants the request
 9. Saul is looking for lost donkeys and encounters Samuel
 10. Samuel anoints Saul and prophesies, the prophesied events happen, Saul prophesies and goes to the high place, Saul encounters his uncle, Samuel declares Saul as king
@@ -75,7 +75,7 @@
 12. Samuel's farewell address, Israel regrets asking for a king, Samuel encourages them
 13. Saul fights the Philistines, Saul pre-empts Samuel's sacrifice, Israel doesn't have any weapons
 14. Jonathan conquers 20 men with his armor bearer, Jonathan eats honey that Saul cursed, the people defend Jonathan, Saul is victorious against multiple people groups
-15. Saul defeats the Amalekites but disobeys God by keeping its king and nice things, Samuel denounces Saul, Saul confesses his sin but he is cut off from God, Saul kills the king of the Amalekites
+15. Saul defeats the Amalekites but disobeys God by keeping its king and nice things, Samuel denounces Saul, Saul confesses but God cuts him off, Saul kills the king of the Amalekites
 16. Samuel anoints David, David serves Saul as a harp player
 17. Goliath's challenge, David accepts the challenge and slays Goliath
 18. Jonathan makes friends with David, Saul envies David, Saul gives Michal to David in marriage

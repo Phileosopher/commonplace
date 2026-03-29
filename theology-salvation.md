@@ -6,8 +6,8 @@ Our first sin was to not trust God at His word.
 1. He told us to not eat of the Tree of Knowing Morality.
 2. If we had trusted God's nature, we would have waited, and He would have given it to us when we were ready for it.
 3. Instead of building [meaning](meaning.md) through waiting, we decided to consume the [knowledge](understanding.md) early.
-4. Since then, we make irreversible snap judgments of moral injustice that generate [feelings of anger](mind-feelings-anger.md) of anger.
-5. That anger is the basis for a multitude of sins including vengefulness, conceit, and bitterness.
+4. Since then, we make irreversible snap judgments of moral injustice that generate [feelings of anger](mind-feelings-anger.md).
+5. That anger is the basis for a multitude of sins including desiring revenge, conceit, and bitterness.
 6. The only pathway out for us now, irrespective of our eternal state, is through replacing our wisdom with God's.
 7. To gain God's wisdom, we must trust Him like we were supposed to in the first place, though the situation has gotten far worse for us.
 
@@ -35,7 +35,7 @@ Due to the metaphysical nature of reality conforming to a relationship with god,
 
 The idea of salvation is very straightforward, but the Gospel itself is [highly controversial](https://theologos.site/gospel/).
 
-Further than that, other debates have raged about some of the idiosyncrasies.
+Further than that, other debates have raged about [many lesser idiosyncrasies](people-conflicts-christian-1_dumb.md).
 
 Closely connected to this, but not quite, is the [predestination](theology-predestination.md) debate.
 

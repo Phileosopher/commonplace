@@ -35,11 +35,7 @@ God designed Scripture to be taken on *multiple* levels:
 3. Abstractly/Spiritually/Holistically: as a symbolic association of what was [felt](mind-feelings.md) of what happened, and how people today could act in light of those myths.
 4. Broadly: a depiction of God's design for mankind and the universe (see Teleology)
 
-We must not only trust Scripture, but also that God has been faithful in preserving it, and there is hard evidence of that:
-
-- The original translations have been absurdly consistent across domains (all of them retaining the *spirit* even when the *words* varied slightly).
-- The Old Testament has survived *multiple* destructions of kingdoms, and was maintained by the most persecuted ethnic group on the planet.
-- The New Testament was illegal in its first few centuries, and was maintained by the most persecuted *religious* group on the planet.
+We must not only trust Scripture, but also that God has been faithful in preserving it, and [there is hard evidence of that](https://theologos.site/freak/).
 
 ## The Bible is a compilation
 

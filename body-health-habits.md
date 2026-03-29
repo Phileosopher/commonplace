@@ -1,5 +1,5 @@
 
-# General lifestyle treatments for health issues
+# General habits that treat most health issues
 
 For most health issues, the dominant answer is in [eating correctly](body-health-food.md), but other habits can empower your systems.
 
@@ -18,7 +18,7 @@ The body works best when it [faces resistance](people-goodlife.md), but most doc
 Expose yourself to occasional diseases wherever you go.
 
 - Exposure to dirt daily can positively affect the bacteria on our skin.
-- It gives your body updates on various micro-organism mutations.
+- It gives your body updates on various microorganism mutations.
 
 The filthiest places with the most diseases in modern society are bathroom sinks, restaurant menus, hot-air hand dryers, and [automotive](autos.md) exteriors.
 
@@ -159,7 +159,7 @@ Be careful *what* you're consuming from the environment.
 
 Plenty of scientific evidence has proven that our bodies need consistent, direct electrically-conductive contact with the ground.
 
-- The ground de-ionizes free radicals, which can magnify pain of various afflictions and cause cancer.
+- The ground deionizes free radicals, which can magnify pain of various afflictions and cause cancer.
 
 However, the solution doesn't need to be particularly expensive.
 

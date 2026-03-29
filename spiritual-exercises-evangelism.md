@@ -239,7 +239,7 @@ They may simply be bitter or angry regarding [past trauma](hardship-ptsd.md) or 
 
 Occasionally, they're completely uninterested in the discussion.
 
-- Most [younger life stages](maturity.md) in [developed cultures](engineering-conveniences.md) don't have to think about [death](hardship-death.md).
+- Typically, [younger life stages](maturity.md) in [developed cultures](engineering-conveniences.md) don't have to think about [death](hardship-death.md).
 - At that point, it's a [philosophical thought experiment](philosophy-paradoxes.md) or hobby to them.
 - The best thing is to share with them if they want to hear it, and move on.
 
@@ -261,7 +261,7 @@ A Christian's conversion is *not* simply a goal, and is the beginning of a long 
 
 The Sinner's Prayer comes in a variety of forms (including [Psalm 51](https://biblehub.com/psalms/51.htm)), and effectively covers the first part of [receiving the Gospel](https://theologos.site/gospel/):
 
-- "Lord, I admit I am a sinner. I need and want Your forgiveness. I accept Your death as the penalty for my sin, and recognize that Your mercy and grace is a gift You offer to me because of Your great love, not based on anything I have done. Cleanse me and make me Your child. By faith I receive You into my heart as the Son of God and as Savior and Lord of my life. From now on, help me live for You, with You in control. In Your precious name, Amen.
+- "Lord, I admit I am a sinner. I need and want Your forgiveness. I accept Your death as the penalty for my sin, and recognize that Your mercy and grace is a gift You offer to me because of Your great love, not based on anything I have done. Cleanse me and make me Your child. I receive You by faith into my heart as the Son of God and as Savior and Lord of my life. From now on, help me live for You, with You in control. In Your precious name, Amen."
 
 However, that conversion requires a *lot* more work, in the form of [discipleship](spiritual-discipleship.md).
 

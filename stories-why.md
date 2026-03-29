@@ -56,12 +56,12 @@ The scope of things that qualify as stories is vast. There's literally no limit 
   - A TV show season.
   - A book series.
   - Every creation one specific creator makes.
-  - A life stage.
+  - A major life stage.
   - Role-playing games.
 - Multiple trends weave into the maximum possible experience of living:
   - A saga/epic across multiple lives.
   - A creator's entire life and their [legacy](legacy.md).
-  - Operas and most older plays.
+  - Operas and plays.
   - A video game or book franchise.
   - A person's entire life, with their [afterlife](religion.md).
   - The history of a [corporation or nation](groups-large.md).
@@ -127,7 +127,7 @@ These themes float around a few possible [conflicts](people-conflicts-inner.md):
 - The realm of the [conscious](mind-decisions.md) versus [unconscious](habits.md).
 - The distinction between [order](understanding-certainty.md) and [chaos](unknown.md).
 
-Any one detail can dramatically change the values of *everything* in that story, especially near the ending. One out-of-place remark or body language gesture may demonstrate ideas the creator secretly hid in the story's message. In this sense, observant consumers who detect details and understand a story entirely differently than less observant or more [immature](maturity.md) consumers will interpret.
+A single detail can dramatically change the values of *everything* in that story, especially near the ending. One out-of-place remark or body language gesture may demonstrate ideas the creator secretly hid in the story's message. In this sense, observant consumers who detect details and understand a story entirely differently than less observant or more [immature](maturity.md) consumers will interpret.
 
 APPLICATION: The details dictate everything. We must be *very* mindful of the elements inserted into stories, what they imply, and the [values](values.md) they define.
 
@@ -191,7 +191,7 @@ Extremely effective stories *all* carry the same highly polished components:
    - Unknowable [fears](mind-feelings-fear.md) take on a more tangible form (horror)
 4. The entire story will [appear](people-image-why.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](mind-decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](understanding-certainty.md) the unknown.
 
-Audiences have a limited attention span, so less details mean more impact. To maximize details that create meaning for certain [cultures](people-culture.md), most genre styles *heavily* expand details of a story:
+Audiences have a limited attention span, so fewer details mean more impact. To maximize details that create meaning for certain [cultures](people-culture.md), most genre styles *heavily* expand details of a story:
 
 - Sci-fi/fantasy focuses on the world, with sci-fi emphasizing [technical details](technology.md) and fantasy expanding [long-term history](legacy.md) and [myths](stories-myths.md) with at least some emphasis on [religion](religion.md).
 - Biographies and small-scale stories focus on characters.

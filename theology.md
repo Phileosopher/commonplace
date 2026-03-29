@@ -5,7 +5,7 @@ Following Jesus is *not* intellectually demanding, and Jesus places a straightfo
 
 - Theology, however, is simply a branch of "[applied philosophy](philosophy.md)" toward knowing God.
   - The higher the theological thought, the closer the study compares to raw philosophy.
-- Many theologians don't agree that their views are philosophical in nature, but that's because their definition of "philosophy" is often different than the formal definition.
+- Many theologians don't agree that their views are philosophical in nature, but that's because their definition of "philosophy" is often different from the formal definition.
 
 We all need *some* form of theology.
 
@@ -81,7 +81,7 @@ Our minds are framed on [stories](stories-why.md), meaning that *any* basis of u
 
 God's purpose for the universe is to have a relationship with man, so the entire scope of metaphysics is encapsulated under Teleology (see below)
 
-### [Epistomology](values.md) and [logic](logic.md)
+### [Epistemology](values.md) and [logic](logic.md)
 
 God designed [values and order](values.md) in our minds as an intentional discrepancy to [nature itself](reality.md).
 
@@ -102,7 +102,7 @@ All aspects of order can be defined by [logic](logic.md) (and [math](math.md), w
 The above-stated values, including [feelings](mind-feelings.md), exist only in our minds, but that in no way diminishes its significance when a relationship with God is the ultimate purpose for our existence.
 
 - However, by removing the Creator and only defining its structure, our inherently social characteristics will make our mind-based values less significant.
-- Any diminuition of these values in a community is a consequence of sin (see Harmatiology).
+- Any diminution of these values in a community is a consequence of sin (see Harmatiology).
 
 ### [Aesthetics](art.md)
 

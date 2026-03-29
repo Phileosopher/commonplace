@@ -43,6 +43,9 @@ There is legitimate hypocrisy in the system, but there's not much you can do abo
   - Keeping your vehicle windows up with a sign saying "I remain silent, no search, I want my lawyer" will likely lead to a broken window.
   - Insisting that you be spoken to in court as "the natural man" will still mean the rules will apply to you.
 - Never forget that all governments are run through [monopolizing](politics-monopolies.md) the freedom to [kill people](hardship-death.md).
+- One perfectly legal option is to stop a search without a warrant.
+  - You are not required to enter any passwords to computers you have.
+  - You can lock your keys in your car or your house to prevent the police from entering.
 
 The nature of [human bias](mind-bias.md) means *all* law enforcement will profile you.
 

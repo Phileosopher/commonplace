@@ -98,8 +98,8 @@ Inspired by Mark Twain's quote, "If you eat a live frog in the morning, nothing 
 1. Order your tasks from hardest to easiest:
    1. Things you'd rather not do, but must do
    2. Things you want to do and must do
-   3. Things you want to do but don't need to
-   4. Things you'd rather not do and don't need to
+   3. Things you want to do but aren't required to
+   4. Things you'd rather not do and aren't required to
 
 2. Work on the hardest task first:
    - The most important
@@ -262,7 +262,7 @@ Time-based - what's the deadline to re-evaluate progress?
 
 For people who want to organize plenty of loose ends, but don't want to take the time to [organize](organization.md) their tasks.
 
-1. Take your system everywere.
+1. Take your system everywhere.
 2. Capture everything you have, the moment you think of it.
 3. Break the tasks into small pieces you can reasonably do quickly.
 4. Prioritize the tasks with due dates for anything that's important but not urgent.

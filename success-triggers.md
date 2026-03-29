@@ -45,7 +45,7 @@ Write down your next day's tasks:
 - Random thoughts that just came to mind are ___
 - I also must remember to ___
 
-Place your alarm clock across the room so you must wake up to turn it off:
+Place your alarm clock across the room to require waking up to turn it off:
 
 - Never hit the snooze button.
 - Never wake up to your favorite song.
@@ -326,7 +326,7 @@ Optimize your technology:
 - As long as you've backed everything up, you can experiment as much as you want, especially if you have a second device to web-search as you go.
 - If your mobile device is unresponsive, clean the screen and plug into its charger.
 
-If you have multiple computers, try to keep them using similar systems so they can stay updated at the same interval.
+If you have multiple computers, use similar systems on them to synchronize information more easily and update them quicker.
 
 - On the other hand, make sure you have a *different* computer system for the possibility that an update takes all of them offline.
 
@@ -490,7 +490,7 @@ Other miscellaneous hacks:
 - Keep your towel from falling with a hair clip.
 - Place your phone in a glass cup or bowl to amplify it.
 - Break change by putting cash in a vending machine and hitting the coin return button before making a selection.
-- Train to use chopsticks with the metal spring from a clothespin.
+- Learn how to use chopsticks with the metal spring from a clothespin.
 - Use shoes or boots to hold your cup.
 - When you're getting keys cut, get a circular notch cut in the top to double them as bottle openers.
 - If you need an indoor light in the daytime, fill a soda bottle with a water-bleach mix and place it halfway outside.

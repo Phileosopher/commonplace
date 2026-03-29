@@ -72,7 +72,7 @@ Each person has one of three natural patterns (chronotypes):
 
 1. Morning people (early chronotype) - 10% of the population, where productivity peaks at 9 a.m.
 2. Night owls (late chronotype) - 20% of the population, where productivity peaks at 9 p.m.
-3. Mid-day (intermediate chronotype) - 70% of the population, with varying productivity across the day.
+3. Midday (intermediate chronotype) - 70% of the population, with varying productivity across the day.
 
 Learn how much sleep you require.
 

@@ -32,7 +32,7 @@ There are a wide variety of apologetics disciplines, based on their initial appr
   - They use the data from [scientific studies](science.md) to represent biblical truths.
   - This is a minority view in the [scientific community](science.md), mostly because the majority of scientists are atheist, but claim to have no [bias](mind-bias.md).
   - Be careful how precisely you assert some aspects of your faith, and expect to look silly if it's a public forum.
-- Inter-religious apologetics aims to give clear answers in comparison to [other belief systems](religion.md).
+- Interreligious apologetics aims to give clear answers in comparison to [other belief systems](religion.md).
   - The basis for the discussions should be targeted at key philosophical values, *not* about the culture surrounding those values.
 
 No matter what, [apologetics](spiritual-exercises-evangelism-apologetics.md) is only good to sow doubt, *not* to create a conversion.

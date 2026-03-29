@@ -29,6 +29,8 @@ Humor is *highly* contextual for the simple reason that it requires an [emotiona
 
 Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](mind-imagination.md) in every direction, *including* our expectations of the unknown or severe hardship.
 
+APPLICATION: Humor is all about breaking the [rules](people-rules.md). To that end, every funny person has an intimate [understanding](understanding.md) of the rules enough to [feel](mind-feelings.md) the limits of what is [taboo](morality-taboo.md) and [unethical](morality.md).
+
 APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
 
 The mechanism to create humor requires a very specific skill of performing several tasks in sequence:

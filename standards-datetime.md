@@ -34,7 +34,7 @@ A **lunar cycle** is the amount of time for the moon to completely circle the Ea
 2. Waxing crescent - the moon has rotated leftward a little around the Earth, so the right side reflects a sliver of light from the sun.
 3. First quarter - the right half becomes more visible.
 4. Waxing gibbous - except for the left side, it's almost possible to see the entire moon.
-5. Full moon - 2-3 days where the entire moon is visible.
+5. Full moon - 2-3 days when the entire moon is visible.
 6. Waning gibbous - the right side is now a little darkened.
 7. Third quarter - the right half becomes more darkened.
 8. Waning crescent - the moon only shows a sliver of light on the left side of its surface.

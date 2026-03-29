@@ -1,5 +1,5 @@
 
-# why people take social risks
+# Why people take social risks
 
 We constantly make social risks to gain what we've [purposed](purpose.md).
 
@@ -44,7 +44,7 @@ Many times, the idea will come from exploring a [taboo](morality-taboo.md) or a 
 
 One *severe* requirement of these people succeeding is that they have a high [conscientiousness](people-personality.md). They don't necessarily have to be *[moral](morality.md)*, but they must have an incessant aspiration toward specific [values](values.md) to maintain their [faith](mind-trust.md) that they can succeed against the inevitable [conflicts](people-conflicts-why.md) from the surrounding [culture](people-culture.md).
 
-The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume, but if it fulfills a niche (e.g., phone cases) most people won't want it so it will require more [searching and advertisement](marketing.md).
+The role will fill a *very* specific need, so [creative](mind-creativity.md) [risks](safety.md) require engaging with many complete strangers. If it's a commonplace thing (e.g., toilet paper) it requires lots of volume. If it fulfills a niche (e.g., phone cases) most people won't want it, so it will require more [searching and advertisement](marketing.md).
 
 The engagement with complete strangers will test the creator's general [trust in humanity](mind-trust.md). If that person can't trust people in general, other people won't be as inclined to trust back, since people tend to give [equivalent](morality-justice.md) treatment. But, most people are willing to accept their [uncertainty](understanding-certainty.md) about others *may* lead to good things.
 

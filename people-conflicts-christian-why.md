@@ -21,6 +21,7 @@ Everyone is [entitled to their beliefs](people-boundaries-why.md) and [tradition
   - Typically, they won't see living graciously or peaceably as important ([1 Timothy 2:1-4](https://biblehub.com/1_timothy/2.htm)).
 - Even while they may be trying desperately to [influence you](power-influence.md) or force you to react, do *not* lose your temper.
 - The battle is [*much* larger than just your interaction](spiritual-warfare.md), and you can show Christ [even if they persecute you](hardship-persecution-church.md).
+- The institutions themselves will eventually disappear, but the relationships have eternal significance.
 
 Working through disagreements, heresies, and cults is a *very* intense form of [personal evangelism](spiritual-exercises-evangelism.md) and [leadership](mgmt-church.md).
 
@@ -39,7 +40,7 @@ In general, prioritize your [conflict management](people-conflicts.md) skills co
    - Take it to the church at large if that doesn't clear up the issue.
    - Finally, if nothing changes, exile them outright from your group.
    - Do *not* take issues with other Christians in front of a secular group ([1 Corinthians 6:1-8](https://biblehub.com/1_corinthians/6.htm)).
-3. Lastly, if a so-called Christian is openly practicing outright lawlessness, don't even associate with them ([2 Timothy 3:1-5](https://biblehub.com/2_timothy/3.htm)).
+3. Lastly, if a so-called Christian is [a false teacher](https://theologos.site/false/), don't even associate with them ([2 Timothy 3:1-5](https://biblehub.com/2_timothy/3.htm)).
    - Some people have a *lot* of experience with following God, but have no hope of salvation ([Hebrews 6:4-6](https://biblehub.com/hebrews/6.htm)).
    - Most controversies with this level of opposition with others fail to recognize that we receive [eternal salvation in Christ](https://theologos.site/gospel/) when we die ([2 Timothy 4:7-8](https://biblehub.com/2_timothy/4.htm)).
 

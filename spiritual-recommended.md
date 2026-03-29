@@ -1,7 +1,7 @@
 
 # Recommended reading for Christians
 
-Technically, all a Christian needs is [their Bible](theology-bible.md).
+Technically, a Christian only needs [their Bible](theology-bible.md).
 
 - There's typically more value in reading a book of the Bible twice than in reading through one of the below books.
 

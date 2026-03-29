@@ -68,7 +68,7 @@ Don't obsess about your fame, recognition, and reputation:
 
 Your intelligence and knowledge aren't that important:
 
-- Stupid mistakes come more from conceit than unintelligence.
+- Stupid mistakes come more from conceit than being uneducated or stupid.
 - Possessing knowledge isn't as useful as having wisdom or skill.
 - [Understanding](understanding.md) comes through so many ranges that you're not guaranteed to easily articulate it to others.
 
@@ -183,7 +183,7 @@ In another way, success is the constant continuation of a very specific cycle:
 2. Brainstorm: learn [how to solve that problem](mind-creativity.md) and [mentally prepare](success-2_attitude.md)
 3. Plan: make [long- and short-term goals](success-3_goals.md) to get there
 4. Setup: get in position to start the plan
-5. Attempt: do the best you think you can based on your [attitude](addiction-centers.md)
+5. Attempt: do the best you can, according to the limits of your [attitude](addiction-centers.md)
 6. Failure: natural setbacks from unpreparedness, naïveté, and nature
 7. Recovery: accepting reality and reconciling discouragement
 8. Repetition: repeating steps 2-7, often while [optimizing](success-4_routine.md) each time

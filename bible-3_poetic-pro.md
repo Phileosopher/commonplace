@@ -1,6 +1,11 @@
 
 # Proverbs commentary
 
+The book of Proverbs wasn't really "written" by Solomon nearly as much as "curated".
+
+- There are many ancient axioms that others had been saying.
+- This attests to God's wisdom traveling beyond simply the Hebrews or Scripture itself.
+
 ## 16
 
 ### 1
